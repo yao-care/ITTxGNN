@@ -1,0 +1,35 @@
+# Italy AIFA Field Mapping Configuration
+
+country_code: "IT"
+language: "it"
+regulatory_agency: "AIFA"
+
+data_source:
+  name: "AIFA - Liste Farmaci Classe A e H"
+  url: "https://www.aifa.gov.it/en/liste-farmaci-a-h"
+  csv_urls:
+    classe_a: "https://www.aifa.gov.it/documents/20142/3442801/Classe_A_per_principio_attivo_30-09-2025.csv"
+    classe_h: "https://www.aifa.gov.it/documents/20142/3442801/Classe_H_per_principio_attivo_30-09-2025.csv"
+  format: CSV
+  encoding: utf-8
+
+field_mapping:
+  license_id: "Codice_AIC"
+  brand_name_local: "Denominazione"
+  brand_name_en: "Principio_Attivo"
+  ingredients: "Principio_Attivo"
+  indication: ""
+  dosage_form: "Forma_Farmaceutica"
+  manufacturer: "Titolare_AIC"
+  approval_date: ""
+  status: "Stato_AIC"
+
+withdrawn_statuses:
+  - "Revocata"
+  - "Sospesa"
+  - "Scaduta"
+  - "Ritirata"
+
+ingredient_separator: ";"
+date_format: "%d/%m/%Y"
+encoding: "utf-8"

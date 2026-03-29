@@ -1,0 +1,22 @@
+{
+  "description": "Disease and drug synonyms in Italian",
+  "generated": "2026-03-29",
+  "indication_synonyms": {
+    "diabetes mellitus": ["diabete", "diabete mellito", "diabete di tipo 2", "glicemia"],
+    "hypertension": ["ipertensione", "ipertensione arteriosa", "pressione alta"],
+    "cancer": ["cancro", "tumore", "neoplasia", "carcinoma", "oncologia"],
+    "heart disease": ["malattia cardiaca", "cardiopatia", "insufficienza cardiaca"],
+    "asthma": ["asma", "asma bronchiale"],
+    "depression": ["depressione", "disturbo depressivo", "depressione maggiore"],
+    "arthritis": ["artrite", "artrite reumatoide", "artrosi"],
+    "stroke": ["ictus", "ictus cerebrale", "accidente cerebrovascolare"],
+    "obesity": ["obesità", "sovrappeso", "sindrome metabolica"],
+    "alzheimer disease": ["Alzheimer", "malattia di Alzheimer", "demenza"]
+  },
+  "drug_synonyms": {
+    "metformin": ["metformina", "Glucophage"],
+    "aspirin": ["aspirina", "acido acetilsalicilico"],
+    "ibuprofen": ["ibuprofene", "Brufen", "Moment"],
+    "acetaminophen": ["paracetamolo", "Tachipirina", "Efferalgan"]
+  }
+}
