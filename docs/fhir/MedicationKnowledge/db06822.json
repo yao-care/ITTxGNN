@@ -1,0 +1,31 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "db06822",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://ittxgnn.yao.care/drugs",
+        "code": "db06822",
+        "display": "DB06822"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "IT",
+          "display": "Italy"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ittxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}
