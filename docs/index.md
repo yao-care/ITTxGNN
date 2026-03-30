@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Drug Repurposing Predictions
+title: Previsioni di Riposizionamento dei Farmaci
 nav_order: 1
 description: "AI-powered drug repurposing predictions for Italy. Evidence-based analysis of approved medicines for potential new therapeutic indications."
 permalink: /
 ---
 
-# Drug Repurposing Predictions — Italy
+# Previsioni di Riposizionamento dei Farmaci — Italia
 
-This project uses the TxGNN knowledge graph to predict potential new therapeutic uses for medicines approved in Italy.
+Questo progetto utilizza il grafo di conoscenza TxGNN per prevedere potenziali nuovi utilizzi terapeutici per i farmaci approvati in Italia.
 
-**Disclaimer**: This content is for research purposes only and does not constitute medical advice. All drug repurposing predictions require clinical validation before application.
+**Esclusione di Responsabilità**: Questo contenuto è solo a scopo di ricerca e non costituisce consulenza medica. Tutte le previsioni di riposizionamento dei farmaci richiedono la validazione clinica prima dell'applicazione.
