@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-31T16:57:34.829955+00:00",
+  "fetched_at": "2026-03-31T17:54:22.032252+00:00",
   "source": "Google News Health RSS",
   "count": 99,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "b34417e28b21",
-      "title": "Alzheimer, a che punto è il percorso dei nuovi anticorpi in Italia - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUY2UW0yZi1rdEhZQXhGYXZIQjdidE9XdWRxM0U0Y2tNQzlrb0UzbUVISm1pbXBURlB5MFVJYjhyRUdmV0R4TzM1VDlxVE5LS0l0czJGM3UxYjQxYU9Od295enRWd2lGc3dpbWVJUUxVc3Q2ZmM3REN1ZVgxTFJPbWZsbFNVUDlJM1RUckdLdjFkQmEtR3k5TFNCZmFhYWs1ZkhlMDRaWEtsVHlUamU1Q2o1ZGs1T2c?oc=5",
-      "published": "2026-03-30T15:13:58+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "2f7788969c7a",
       "title": "Cibo e farmaci, le interazioni che (quasi) nessuno ti spiega: la parola al nutrizionista - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNckwxV0lTbkNLWGwyQUYtNUwyd1BzQ3Fidm5HaElaWWMxVmgwUlVLRWNGejM1RkQxZDJhcEdJbnJ1a1NoZTY5OEh2a01mbmpwVG5ORTNvYlIwTW5weU5YM0pFajNWYkl0dUtxOWJoVUxZTWw0YzZiOE1UdFd5MGZITTV5OUY2SDN0aXhpM0NKbHkySlRYancyR1JXbkpILU9RN3A1em16NWpERHFzbms3TXdEZktYT1Zucl8tWUFDVEw3U1lzTzM0MmlVMUpqZnJXQkFV?oc=5",
@@ -84,6 +74,16 @@
       }
     },
     {
+      "id": "b34417e28b21",
+      "title": "Alzheimer, a che punto è il percorso dei nuovi anticorpi in Italia - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUY2UW0yZi1rdEhZQXhGYXZIQjdidE9XdWRxM0U0Y2tNQzlrb0UzbUVISm1pbXBURlB5MFVJYjhyRUdmV0R4TzM1VDlxVE5LS0l0czJGM3UxYjQxYU9Od295enRWd2lGc3dpbWVJUUxVc3Q2ZmM3REN1ZVgxTFJPbWZsbFNVUDlJM1RUckdLdjFkQmEtR3k5TFNCZmFhYWs1ZkhlMDRaWEtsVHlUamU1Q2o1ZGs1T2c?oc=5",
+      "published": "2026-03-30T15:13:58+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
       "id": "554c38713428",
       "title": "Farmaci, prezzi in aumento tra guerra e nuove regole Usa: l’allarme di Farmindustria - Fortune Italia",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQXzlhUHdfcV9YTHR0aGtOWEh5dnpHU053T1lNc3ByclhNVE9YcG1WYlRIeTFnUjJEaFdxNmdNVnpBcG8wWkdKVjdNNkJvZlJ1VnlGVkZyR08tcWxpcWVSN2VDSkdLZlZRbTkxeFd4QzVqeU5GdlhB?oc=5",
@@ -101,6 +101,16 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "8684a8e0c767",
+      "title": "Medicine, l'Europa è autosufficiente? Arriva dall'Asia il 74 per cento delle medicine che ci curano - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxObFM3d1UzZXpPeFp1UV9IUnNyc2dva3lHQmYybDRybm9EbUd2R01xN2RJaXNyS0NtYTB0RHc2VHE0aDVZUVFLT29ZN1BZc3ZmNXpodTEyMWxSbGZyT2FlMGZVVnJ0NkZHZjBMSXM0UXRHZU1sYUMtb3d1V2xQVVJnMUJHaWEzYUNKVVA5ZG9xRGg4RkFRZ1gwLUpFSVdxcnEyYUxCaG5RNDZCaHpCUjZhd3FxdVUtNEdiZVREZjl5dUVyUVhBX2JUdGZHa3NtY3QyVVlUa0J6TE8yRXl5R3BDVlFFQ1ZfaklueUtSSll6VDNha05hUXRKS29fS0FHVWFBRlNEeEg5QXVtZnlkWFZ2MC1MLXlnakk5YjdaMXBB0gGjAkFVX3lxTE5YOWdFT0VfODBrTkJLMmlwMm5VXzFxZjJYTGwtdTN2RkhWdVZWalRJTkNhQlhCQmdELXNSNjlpelBTX3NVQ2VvbGZPRmdFQndCUTFvamNzcHJvOGhlNUthVEpJelR5QUtRUVpJVEpIN2xUY2wzOF95QnJvSGJqRC1GSF9oN1h4REhPQVZMOHB5aktCWlRISWQ3bV9VMEdYb0pHeEJLS0RXbXNmRV84RWFySEYwU1ZpMlFWeElEN0k0OFlRQ256Qk4yQTBjVWI0SEo5R0h0YVRSNV82XzdzVllBWDA2emQ4OUVBMk9yUG5obm5aNUI4T29wQl9KY3ZkTzFCdlBYZjZaajJ1WFRmTTYyYi03THctTlFZcHZEamNBbU9Baw?oc=5",
+      "published": "2026-03-31T17:01:00+00:00",
+      "source": {
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
       }
     },
     {
@@ -144,6 +154,16 @@
       }
     },
     {
+      "id": "c875d90c6a25",
+      "title": "Smettere di fumare: il farmaco a base di citisina è ora rimborsabile - Giornale di Scienza",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSktVQkZBSmxPS09hQzZFVWZ3Y2x3a1JwdjdRSjVjYmo0ZlpLVDRRX0RGcnhFam12RTV2SWxzX0xTLUs2bTdINzV4c0d1NU5FYnJVWXJraW5Gd3g5QnhSMU1NM244dWl1NWR3?oc=5",
+      "published": "2026-03-31T11:41:40+00:00",
+      "source": {
+        "name": "Giornale di Scienza",
+        "url": "https://www.galileonet.it"
+      }
+    },
+    {
       "id": "98ceee96e7ca",
       "title": "Farmaceutica, asse UE-India. Efpia: \"Accordo di libero scambio è opportunità strategica per accesso ai farmaci\" - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTlLSEdoYWRxYnBlXzBQU1hxdktoQUFheXotT0RNS1JNNTUzUDdZR0xzQlg5bXc0bWYyeFNXNDFfMU5fVzBjc1RGRUZPd0xIS2hLdzhlZE56S05PU0ZkTFptOVdDbVNVUVRQeHRRdGYzLUF1ZjVFTzdnOTVjbEQwdlotNm5EQ3M4a3FBZ3A2VWpmcjRaUGMzM1I1TzI1dkE5bHhyZDRyd0FuTjhrbTBBc2Vib2w3S080LUNiOHVSUXVibUkyRUx0MnlERDdkWGxWM2xzUklsV3RILUdlYUN2MnJjbVY1QWNVTkQwOHdR?oc=5",
@@ -154,13 +174,13 @@
       }
     },
     {
-      "id": "bc4f92a89898",
-      "title": "Smettere di fumare: il farmaco a base di citisina è ora rimborsabile - galileonet.it",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSktVQkZBSmxPS09hQzZFVWZ3Y2x3a1JwdjdRSjVjYmo0ZlpLVDRRX0RGcnhFam12RTV2SWxzX0xTLUs2bTdINzV4c0d1NU5FYnJVWXJraW5Gd3g5QnhSMU1NM244dWl1NWR3?oc=5",
-      "published": "2026-03-31T11:41:40+00:00",
+      "id": "ee3eec8b7e87",
+      "title": "Colesterolo alto, la nuova arma terapeutica è un farmaco orale - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjZ1dGw2NVRlQmY5a21kMEFuR2pGcEZKcDZ5SEh3bkwwNDMzamRfb0VNcUlyVUx1MEFPaFJjMVdHdWNHcU1VbTNXX1BjU1l5eHdtQklYYU9RZ05iWjI0a3NzZ3hFbzNIdFY4VThfeXhWcVEwYm03RlJTRU40SW1wbTRUaHp1dTMyQlJPQnA1bTgxS282Q0VTN2lnTFZoc3B3WWFtckwtbDdRZHgzRFc4enBn?oc=5",
+      "published": "2026-03-31T17:29:32+00:00",
       "source": {
-        "name": "galileonet.it",
-        "url": "https://www.galileonet.it"
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -174,16 +194,6 @@
       }
     },
     {
-      "id": "5641cc418150",
-      "title": "FI stronca i ticket sui farmaci: \"Vendite giù, entrate flop\" - Il Resto del Carlino",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEhyd2c4WEdCUHl4YS1VelRWSExSTWNlTzMyeUxRY2JRMDdsVnZwOWotRmJSUGZLYzRfalV2ZEpOMm5zYWlZOXFFN0FKMlp6dVcxUC16eDFESW10RVRlZlZLWU9iajlFTDIxcHRDcUdkUmpsZWxIaTZNSWR3VjBubmdJUWNITE5S?oc=5",
-      "published": "2026-03-31T05:24:21+00:00",
-      "source": {
-        "name": "Il Resto del Carlino",
-        "url": "https://www.ilrestodelcarlino.it"
-      }
-    },
-    {
       "id": "846b5ebef9a1",
       "title": "Nuovi orari di apertura al pubblico della farmacia ospedaliera del presidio di Penne - IlPescara",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1nTWxtM2tTVktXYURVZjZWV0dFMDhOQ3lhNEE2Sm5Zc3ptTm0zVVBOT0xKLUpWREtiOU44UndrWS00c0xmejR6ZDZCbFVMVDRVRG5mNElwdnplSjQ5a1FhWVZ4ODg1V2xwM1VuWVJVT2ZCYUN2dDBWb1FOa2VkNmQ5cVd4WVBpeTZvUi1R?oc=5",
@@ -194,23 +204,13 @@
       }
     },
     {
-      "id": "a045a06d9d17",
-      "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZS1nU0VJUjFUa29SUEN5enVtS2ZlQlRVa0VpOXlhRGp3a19DZTBVNzJWWG9OM3ZwNFJaODBWcXRoVEdxQjlzTDJvUC1IMTVmeXZveFZ5YzFnNW16NTd6RXNJLThLa3hxeVZ1cXJvNWxfMldyZG5xS3BoeEV0SzFzbjhlbGdsY2tOMnNNc1JtSlNEQ3E4dThQNVVDWm5oYlVybHZjaFFxM0NxY1N3UUo0?oc=5",
-      "published": "2026-03-30T11:50:40+00:00",
+      "id": "5641cc418150",
+      "title": "FI stronca i ticket sui farmaci: \"Vendite giù, entrate flop\" - Il Resto del Carlino",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEhyd2c4WEdCUHl4YS1VelRWSExSTWNlTzMyeUxRY2JRMDdsVnZwOWotRmJSUGZLYzRfalV2ZEpOMm5zYWlZOXFFN0FKMlp6dVcxUC16eDFESW10RVRlZlZLWU9iajlFTDIxcHRDcUdkUmpsZWxIaTZNSWR3VjBubmdJUWNITE5S?oc=5",
+      "published": "2026-03-31T05:24:21+00:00",
       "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "7934a5cb7612",
-      "title": "Colesterolo: anticorpo monoclonale riduce del 31% il rischio di infarto o ictus - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0ZkUWc2YTRkQzByTkpOQlBKTWxhLUJjbU82Wm9OQTloaWVvZ1BHb0Z2dkV1VUpfajB6LWZwUVBZamJhNGtFWHdZSjVidGxGLV9xVjVuV1VndU5RaW1fR0s3dmIwbWx1ajBndGR5WHBCdFB6VUlOMElQT2RWcmNDZW5IVEp0MmZtWC1uTk84VTlGV1lxWURtOThMOWVuZlptc1I4TnoxT2dmQ0hmX1NITjFfa1BKVDFqTmdGaTU3OVgzZ1ptbW1z?oc=5",
-      "published": "2026-03-31T13:23:14+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
+        "name": "Il Resto del Carlino",
+        "url": "https://www.ilrestodelcarlino.it"
       }
     },
     {
@@ -234,16 +234,6 @@
       }
     },
     {
-      "id": "14685141a9f6",
-      "title": "Tumore al polmone, speranze da una combinazione di farmaci biologici - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHFGTTlvQjd2aWJySWFmS01zRVZ2Uk1EWG00S01IUzdleHJhY3Z5MlBmWnN2aDBnTVhYNFdUTGx6bndNcmhRaTFJQVphQ3hKREJYd1JJenZ4VWd1b25XOGNxMklmcTBGM205bmw3cnNJeVlsR0pBdlc3NnJXeU5hb3Ric1ljQ2tFT1VBejRIWGN3TGZfYTdKN0t5TmxwZkNvOFV1NUY2QVRyUy1reU9DT05YUE8zTVZhS0E?oc=5",
-      "published": "2026-03-31T13:35:54+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "faae5b1a6880",
       "title": "Quando le cure dipendono dal reddito, mezzo milione di persone non può permettersi i farmaci - Domani",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3lVenFOM292cDdTTWVPWTB3RW90bWpVWTQ0WHJGdkJVNVBXUEp2a2Y4LTk3MnFQWVprWUwwekhsTnhUbnFhTzlfZ3V1Y1pRZ01ybEU5WHhCcVYxZzNjZWNWN0hFTmNobDZpdy1VMkE4RVNRQmc1UThKT0tINWxGNWNRSTFZODFVYlp1UVVGNGxKUjJMZ1BhX251ZGxKMkxmT2FVOGQ3LWJoZWxkVDlMbm02ZHZkQQ?oc=5",
@@ -251,6 +241,26 @@
       "source": {
         "name": "Domani",
         "url": "https://www.editorialedomani.it"
+      }
+    },
+    {
+      "id": "7934a5cb7612",
+      "title": "Colesterolo: anticorpo monoclonale riduce del 31% il rischio di infarto o ictus - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0ZkUWc2YTRkQzByTkpOQlBKTWxhLUJjbU82Wm9OQTloaWVvZ1BHb0Z2dkV1VUpfajB6LWZwUVBZamJhNGtFWHdZSjVidGxGLV9xVjVuV1VndU5RaW1fR0s3dmIwbWx1ajBndGR5WHBCdFB6VUlOMElQT2RWcmNDZW5IVEp0MmZtWC1uTk84VTlGV1lxWURtOThMOWVuZlptc1I4TnoxT2dmQ0hmX1NITjFfa1BKVDFqTmdGaTU3OVgzZ1ptbW1z?oc=5",
+      "published": "2026-03-31T13:23:14+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
+      "id": "343e5e92f29f",
+      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
+      "published": "2026-03-28T07:34:26+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -264,13 +274,23 @@
       }
     },
     {
-      "id": "343e5e92f29f",
-      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
-      "published": "2026-03-28T07:34:26+00:00",
+      "id": "a0e2715ad6c9",
+      "title": "Smettere di fumare in 25 giorni: la citisina diventa farmaco rimborsabile in Italia - Style Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE43RlFvc3BsZWdxU3dZZUVnaEpJVmN1aEk5NkY3b1h4b2NhRHg3XzlzU0ZQdnpiUjVFeW9sVFE3bzA4ZWxtY2lpN3QyRXh3Qk9JSy15b1JDbnFkaUFVaXVEZUZ3VUcxRnRHcWlQTTVJV2dWRXNYRG1scl8tZU1IbkJ3WTVkbGYzcm1YcmVHaEdLYk1iNExycWg1ZWg3M1BLQ1E?oc=5",
+      "published": "2026-03-31T11:00:00+00:00",
       "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
+        "name": "Style Magazine",
+        "url": "https://style.corriere.it"
+      }
+    },
+    {
+      "id": "14685141a9f6",
+      "title": "Tumore al polmone, speranze da una combinazione di farmaci biologici - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHFGTTlvQjd2aWJySWFmS01zRVZ2Uk1EWG00S01IUzdleHJhY3Z5MlBmWnN2aDBnTVhYNFdUTGx6bndNcmhRaTFJQVphQ3hKREJYd1JJenZ4VWd1b25XOGNxMklmcTBGM205bmw3cnNJeVlsR0pBdlc3NnJXeU5hb3Ric1ljQ2tFT1VBejRIWGN3TGZfYTdKN0t5TmxwZkNvOFV1NUY2QVRyUy1reU9DT05YUE8zTVZhS0E?oc=5",
+      "published": "2026-03-31T13:35:54+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -294,16 +314,6 @@
       }
     },
     {
-      "id": "c666779a7aa4",
-      "title": "Sifo: “Farmaci, sì a ‘rivoluzione prossimità’, ma serve equilibrio tra i canali distributivi” - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX29KY0VEVEFnbmc5V3g1cEJvZnpjZUVzTmY3TkdXTzdobmVaUWZqbkxBcWJLcVRtbXBSQWhBb2pqak5PM0tBOFA2LUtNVVRaT0c5RkRacVQtWmFqck8zSFNTUE5vekFXOTNmTXZacV85WjBlTTQ1dGZkVUE4c0RXQnpmakRMY3pyUlBNbFMzUkVWVXRrSk1WM041NlBjNjlPUTlCalFVcDVTSWptOGl5WFp0WjBxRkw2LWg2Qw?oc=5",
-      "published": "2026-03-30T18:48:25+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "b9d8e883a178",
       "title": "Intelligenza Artificiale e salute: le agenzie regolatorie al centro della rivoluzione farmaceutica - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0hZSkJxZ0RzdjB6LTYydUM1MUwyQW9lN2xrc2pMVmk3WlltelEtNzNFaHlRRWRiWE1WUnVVQkNvclBlcEFPWkdLdUtrLVhJSWpVa0liNE91bnRDNHppOTJTWW5ITnpYdTVQSXowb29CUFBybzR6a1ZJc0YtVE9QTHh3X0FYWVdCNkhva1ZKclNLazZNR1FKV0Y3ekNXV0Y5bExVQ2E3a0kyb3N0cXRvNXUwWWF4bXljbHFZelBtUEY?oc=5",
@@ -324,13 +334,23 @@
       }
     },
     {
-      "id": "a0e2715ad6c9",
-      "title": "Smettere di fumare in 25 giorni: la citisina diventa farmaco rimborsabile in Italia - Style Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE43RlFvc3BsZWdxU3dZZUVnaEpJVmN1aEk5NkY3b1h4b2NhRHg3XzlzU0ZQdnpiUjVFeW9sVFE3bzA4ZWxtY2lpN3QyRXh3Qk9JSy15b1JDbnFkaUFVaXVEZUZ3VUcxRnRHcWlQTTVJV2dWRXNYRG1scl8tZU1IbkJ3WTVkbGYzcm1YcmVHaEdLYk1iNExycWg1ZWg3M1BLQ1E?oc=5",
-      "published": "2026-03-31T11:00:00+00:00",
+      "id": "947b73a80b0d",
+      "title": "Citisina: come funziona il farmaco per smettere di fumare - repubblica.it",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGZwUVplTC1LYmJPM1lWVHpuMzNDMzJyeDdiQTMzdFdzbi1LLUVMeVhMMTU2QkhYemFYTUxCdmFleWRvX3lrWUlaVVloRE1ha1dKN3dFM2NSblpXWlB2R2JfUEV3MWxhTmsySFQzbUtjWnlKdldVOU9aRDJYTzdsOHBoUGZuY0dwYzEtRDFKQzhSWHY1dERpMUFBYTBTZFQ1VFRuSUJFRThnbnBzMzZjb1ZB0gG3AUFVX3lxTFBJdl9vTkczQXdDQ2EtZldGaFVGWEk5Wlh3VWpvdW9sTnZPSGZUVDRmczEtMDJSYzBCV0NsYVZTMVR1VG50Nmxydmh6WWJsT0dBNERuczh2cTlJdERiYU5sdVJqX3BJN1BqeWw1SWVJNjluUnBsNzlveUhZaXVKMVNtV0lxWXZRUnhfaWdKMVkxRXBjWTdOVHJuY2xxRFNxLVRGanRnTk1xSF9aTmZWQ3BzRG1iNmlfZw?oc=5",
+      "published": "2026-03-30T11:13:29+00:00",
       "source": {
-        "name": "Style Magazine",
-        "url": "https://style.corriere.it"
+        "name": "repubblica.it",
+        "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "c666779a7aa4",
+      "title": "Sifo: “Farmaci, sì a ‘rivoluzione prossimità’, ma serve equilibrio tra i canali distributivi” - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX29KY0VEVEFnbmc5V3g1cEJvZnpjZUVzTmY3TkdXTzdobmVaUWZqbkxBcWJLcVRtbXBSQWhBb2pqak5PM0tBOFA2LUtNVVRaT0c5RkRacVQtWmFqck8zSFNTUE5vekFXOTNmTXZacV85WjBlTTQ1dGZkVUE4c0RXQnpmakRMY3pyUlBNbFMzUkVWVXRrSk1WM041NlBjNjlPUTlCalFVcDVTSWptOGl5WFp0WjBxRkw2LWg2Qw?oc=5",
+      "published": "2026-03-30T18:48:25+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -354,16 +374,6 @@
       }
     },
     {
-      "id": "55a70d8bf2e6",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXlWejdESGF5WVlRQTZVd25HdGRrTFJwTVpmTzdOMGVVV05TcVh5VWhWdWVkMHJpbGd3MlBMbGt0VUdQT2hHQWFtWC1pQ2d2WU5YY2Fqakg2VVlPYVB6eVdRY3RuSWNUTTU5WmNYbWpucURVVVY1VXp5czVJWUNFOGcwZkU3Q0UzZGZnZy0wQ0JSZG1qNlV5ZVR1VzlFd2pndHk3YTNEYXFXNFN0QmZ5cWhvOEQ2dFg3WTNqN3JNMVdEanI4a2xz?oc=5",
-      "published": "2026-03-24T18:35:41+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "c0161d3425f3",
       "title": "Antimicrobico-resistenza. Integrare ricerca, prevenzione e innovazione per contrastarla. Il contributo del Biotecnopolo di Siena - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVAyMk8tbGxDNWdMejRkanNPRk9lM1JjR2dhNXNsYU1YSTZaWEdkQkhLVmtESWs0OEhZVnVhQThmVnRiNWhKT3dvMURvTzZ0dWdySmp1QldOTHY5cHFsSlZKQXV5WDJHeU5fd3JtNjhwSUpGcVg2SFNlYW05LWVvdjZ2VGVyM2hrZm80?oc=5",
@@ -384,13 +394,23 @@
       }
     },
     {
-      "id": "fde35b73f338",
-      "title": "Stati Generali sul diabete: farmacia come argine contro le disuguaglianze di salute - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa05IOTJkZWQtbG5ISlc1NVYyYzhQclJfNkdDMkozand4V0Y1U2xJV2FMYlZuRTNzelRPM2dWS3BBYzVNSGZ2czZnT2JwS2lmZGtKSktBT1pzOGRUSVE3bEtpSG1ZZGpNczkwQ0NjaWhCWnByb2t1Tm1xOC1mR0xVT18zNWdoekRwaEV3MGc0eS11SXZMU3RJc29CdlVoaUc3Wnc?oc=5",
-      "published": "2026-03-25T15:00:37+00:00",
+      "id": "18a497ee59bf",
+      "title": "“In un giorno 27 medicine, la salute di troppi anziani è a rischio”: allarme sulle prescrizioni - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRHS0dPS1JJQ2d3V3hIcHJzeHExX0xZNkxNdEFRZU1na3doY2RsU2xSUDk0SXBGVDV1MUZ6UWlEejhIMnBLSWtaSms1ZDdweXZTaVp2YzFWYzhEVHlOTzJoMHhxa2NiSGg4V2RZOHFEeEZHRHdGYkNRTFFhNWJnaXVDbE1ha1dMYlliTzI1VGVJMkxPMTJhZtIBngFBVV95cUxQTkFSWFNkanpNbU9wWmY1TjFPS00yNW8zVDgzX2R2TjFBV1JBbW1Cd0pBQzB4WkhNYzFuNlhKS3VEbGh3LWhETVNXZkc1dW9MYk05dDlzcW50VHpseHV1Tk9MZ2VNQkEyV3l6UnhOQTFMQTBiV2FjVU1pN19DZVJqcWJ5em03TU9QeXlLWTc4VlpEcmpoVGZxQkRsZHg4Zw?oc=5",
+      "published": "2026-03-25T07:11:00+00:00",
       "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
+      }
+    },
+    {
+      "id": "55a70d8bf2e6",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXlWejdESGF5WVlRQTZVd25HdGRrTFJwTVpmTzdOMGVVV05TcVh5VWhWdWVkMHJpbGd3MlBMbGt0VUdQT2hHQWFtWC1pQ2d2WU5YY2Fqakg2VVlPYVB6eVdRY3RuSWNUTTU5WmNYbWpucURVVVY1VXp5czVJWUNFOGcwZkU3Q0UzZGZnZy0wQ0JSZG1qNlV5ZVR1VzlFd2pndHk3YTNEYXFXNFN0QmZ5cWhvOEQ2dFg3WTNqN3JNMVdEanI4a2xz?oc=5",
+      "published": "2026-03-24T18:35:41+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -404,16 +424,6 @@
       }
     },
     {
-      "id": "57fe95353d2f",
-      "title": "Anziani e farmaci: un legame sempre più costoso - Spazio50",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wWWswQ000UjNjWXNWSmFrU0R0aGtwMy1qLUc4cVFJLVFLVG5ub1hKUzN1bzU5dXg4NnI5OWFBTmFzV05fN0NxUkZtX2I0ZHNuR1J1a3ZsWUNwc0JOZFlqR3pKdjNzeTFEV1JDZEx5WjQ1TDB4UWZ2VjBxX0I?oc=5",
-      "published": "2026-03-30T11:15:42+00:00",
-      "source": {
-        "name": "Spazio50",
-        "url": "https://www.spazio50.org"
-      }
-    },
-    {
       "id": "0b5eb5216ac2",
       "title": "Citisina, tutto su chi produce il farmaco per smettere di fumare rimborsato dal Ssn - Startmag",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblY5cmdyNC1lMFBLSlF3RDU5MFNrM01RU2hCbTlTcHVLcDJ1Z1l1ZmVINXVMVDl4b2huNnBxdXhwekh2b3hSWmNQYlFQZmpFVGRwQjMzYjNtNGkzd1E1YmFhUkUzeGVpYmNLQUpsQnQxYkFseVFLcGR5M2FIYXhHVWhTQWRnNGJaWDJXVDZVTm5sM2pFQnluSmNsaklZRHBRRFlKU0xwUURqMzlDN2w2RVdPcEliUEk?oc=5",
@@ -421,46 +431,6 @@
       "source": {
         "name": "Startmag",
         "url": "https://www.startmag.it"
-      }
-    },
-    {
-      "id": "e0d0369f9f20",
-      "title": "Cannabis contro il dolore: un rimedio di cui beneficiano anche gli animali - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mQ3VpaVZjeWtUdURZZ2ZWSk0xbV9MaHJmLUZzelJlUjVjM2RJN0ZsV3lsUjlaYm01NFI5ODdtODVaOHI5ZjR4Ql9B?oc=5",
-      "published": "2026-03-31T08:10:35+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
-      "id": "18a497ee59bf",
-      "title": "“In un giorno 27 medicine, la salute di troppi anziani è a rischio”: allarme sulle prescrizioni - La Stampa",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRHS0dPS1JJQ2d3V3hIcHJzeHExX0xZNkxNdEFRZU1na3doY2RsU2xSUDk0SXBGVDV1MUZ6UWlEejhIMnBLSWtaSms1ZDdweXZTaVp2YzFWYzhEVHlOTzJoMHhxa2NiSGg4V2RZOHFEeEZHRHdGYkNRTFFhNWJnaXVDbE1ha1dMYlliTzI1VGVJMkxPMTJhZtIBngFBVV95cUxQTkFSWFNkanpNbU9wWmY1TjFPS00yNW8zVDgzX2R2TjFBV1JBbW1Cd0pBQzB4WkhNYzFuNlhKS3VEbGh3LWhETVNXZkc1dW9MYk05dDlzcW50VHpseHV1Tk9MZ2VNQkEyV3l6UnhOQTFMQTBiV2FjVU1pN19DZVJqcWJ5em03TU9QeXlLWTc4VlpEcmpoVGZxQkRsZHg4Zw?oc=5",
-      "published": "2026-03-25T07:11:00+00:00",
-      "source": {
-        "name": "La Stampa",
-        "url": "https://www.lastampa.it"
-      }
-    },
-    {
-      "id": "ad4e193bac89",
-      "title": "Citisina, come funziona il nuovo farmaco per smettere di fumare rimborsato dal Ssn - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHVyNlI3QW9hc3BTdlAyTE5Vd3hWVGNCanlsem9NZjI3VnhRSTlSZEZTbDRlRDRsWjVEVHYwQzFXdVd5ako4TjZsaUt5XzZSS0JPQXgzbXpBc3NFYUFVX21xTzl5NllienA3QTR5TW15S3I1MHRURlpxWmpNTzlfNXZDRkx0T0dXdWVNZnplMUFCWFRDekp5Y0ZzLTZzWUlmeVloWkhFNy1KcjBVZlp4U1dQdDJLeTZmYVFza3dYVjJVMTh2VEdvNjFkRkQ?oc=5",
-      "published": "2026-03-30T11:30:25+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
-      "id": "32f58649b3de",
-      "title": "Monti: «Non servono solo fondi, ma una nuova governance del Servizio sanitario» - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zTG9telZaV25kX0RSZ2hnd21TM0NsWk1aZWJtTXVJSkJfdXVibk9HZVlzbklrdldUSzBBbVYxWG9nRTB3bU1pRjZGTlJ4aWpGY3Y2b29qNA?oc=5",
-      "published": "2026-03-30T04:01:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
       }
     },
     {
@@ -474,12 +444,42 @@
       }
     },
     {
-      "id": "9ca0357067e9",
-      "title": "Dimagrire con farmaci proibiti, tutti i pericoli per la salute - la Repubblica",
+      "id": "57fe95353d2f",
+      "title": "Anziani e farmaci: un legame sempre più costoso - Spazio50",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wWWswQ000UjNjWXNWSmFrU0R0aGtwMy1qLUc4cVFJLVFLVG5ub1hKUzN1bzU5dXg4NnI5OWFBTmFzV05fN0NxUkZtX2I0ZHNuR1J1a3ZsWUNwc0JOZFlqR3pKdjNzeTFEV1JDZEx5WjQ1TDB4UWZ2VjBxX0I?oc=5",
+      "published": "2026-03-30T11:15:42+00:00",
+      "source": {
+        "name": "Spazio50",
+        "url": "https://www.spazio50.org"
+      }
+    },
+    {
+      "id": "e0d0369f9f20",
+      "title": "Cannabis contro il dolore: un rimedio di cui beneficiano anche gli animali - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mQ3VpaVZjeWtUdURZZ2ZWSk0xbV9MaHJmLUZzelJlUjVjM2RJN0ZsV3lsUjlaYm01NFI5ODdtODVaOHI5ZjR4Ql9B?oc=5",
+      "published": "2026-03-31T08:10:35+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
+      }
+    },
+    {
+      "id": "32f58649b3de",
+      "title": "Monti: «Non servono solo fondi, ma una nuova governance del Servizio sanitario» - TrendSanità",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zTG9telZaV25kX0RSZ2hnd21TM0NsWk1aZWJtTXVJSkJfdXVibk9HZVlzbklrdldUSzBBbVYxWG9nRTB3bU1pRjZGTlJ4aWpGY3Y2b29qNA?oc=5",
+      "published": "2026-03-30T04:01:00+00:00",
+      "source": {
+        "name": "TrendSanità",
+        "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "4329e2a4e242",
+      "title": "Dimagrire con farmaci proibiti, tutti i pericoli per la salute - repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclFtWHFYTmRLX2JyZ1JRaVduZUtDaUUtaE5wcHZvdjVvOHhFaG91Z0VPRDkxTU1DMUdxMnVzb0JZQmMtVUlFUWFVYnVxUmlPdWJsbmdTX0NoaXhpWXZHM1BpSkhVR0dEbG1NYmk4VHZkbThja2JpTGRQRy1FLWpST0phS2NLRDAwUFpJeGktUjFzNk9Ha3ZUbVNVeTJPbGdKMmVnQy1OLVQ3dlhuaThoWFROWldLTE5YdHVXZGliZlLSAcYBQVVfeXFMUEJIdVdvTUZzWnFqenlHZnktS2JXVWVWTEVyVjB2eHY5YlM1YUhCSnJGcFJmMzVuOEpkLUpsS3ZjR2NWZGFPbExGaWVnRlA0cDdXNmpnODg2VXlPZzhvMEFHdXhGT29PeXh4T1k1X1V3RXNZbmoycjJ2RWJ5X243Yk1meWE5ckUyM25oZVlJWkdiMzNyMVNSc2dxZkxMeTZzMG9EQnE0cF95Szc0M00xblN3Q3dQU1dyWWRsWktCNnoyYzJIRm1R?oc=5",
       "published": "2026-03-20T07:00:00+00:00",
       "source": {
-        "name": "la Repubblica",
+        "name": "repubblica.it",
         "url": "https://www.repubblica.it"
       }
     },
@@ -504,6 +504,16 @@
       }
     },
     {
+      "id": "ad4e193bac89",
+      "title": "Citisina, come funziona il nuovo farmaco per smettere di fumare rimborsato dal Ssn - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHVyNlI3QW9hc3BTdlAyTE5Vd3hWVGNCanlsem9NZjI3VnhRSTlSZEZTbDRlRDRsWjVEVHYwQzFXdVd5ako4TjZsaUt5XzZSS0JPQXgzbXpBc3NFYUFVX21xTzl5NllienA3QTR5TW15S3I1MHRURlpxWmpNTzlfNXZDRkx0T0dXdWVNZnplMUFCWFRDekp5Y0ZzLTZzWUlmeVloWkhFNy1KcjBVZlp4U1dQdDJLeTZmYVFza3dYVjJVMTh2VEdvNjFkRkQ?oc=5",
+      "published": "2026-03-30T11:30:25+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
       "id": "9654147d2d47",
       "title": "La citisina per smettere di fumare è ora rimborsabile dal SSN - Fondazione Veronesi",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0xJWlNuVUlwU182S0JkSkppLWR1SC1DMnpjUF9pejhvOXdlYURuWXRGUHRHV2JNdDdvUVZfVWRNOW84blowNlRtT2ZXelZaMDc2TlcxV01wQW1iSzY3RGhKMFU4d3J2b3Q2RFZ1RHFaOHpVeXBtQ3R5b0prbTNZS1Nka2VjTXplbUJ3N2tmUlh1ZUtUYWNiM3BZcFJ5andSMFM1cnlOSzNhUm9YdkE?oc=5",
@@ -524,12 +534,12 @@
       }
     },
     {
-      "id": "c2e52b6a4c7b",
-      "title": "Obesità, la cura del futuro è una compressa - la Repubblica",
+      "id": "3cf32b1b091e",
+      "title": "Obesità, la cura del futuro è una compressa - repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnRnRnhucTNEWXFLWXh1UzhVTi1ic2VSNXNza2d2dFhnTFpUdWpWUzZHTl9MZ1dzMFU0bzVNNkVlcmVHVjRlc1hETXJTN01FdXpXUzhtZ2VXQkh1Zzg3QUwzR0RTb21oZmd4VzFMNnMtakVwSkdVR2dITTZlclZIb09veTRmSGdLUHFLTHp5T0hGZTVIdnFXR3ByTF9tbXBUS1NF0gGoAUFVX3lxTE9GYnpkZWs0dDlESG5sOEJxSEFqcWFJdG9oM3dsTlBaUWowZWpETHItSWJiSEt3XzdEVFlDX2xTRUN1TEp3VzRoVzBSS18yVzJncWFWWjhkT0Q5SWxiR25yYmNfRWNkSVB0S0lfRk11MEZnYk50RzF3bkNHOVpCRktnMTNHdURaM2xZczFMUHVMREJpQWpyMzJDbFRFSEJEMm9zZ0JIT3VXSA?oc=5",
       "published": "2026-03-30T13:53:21+00:00",
       "source": {
-        "name": "la Repubblica",
+        "name": "repubblica.it",
         "url": "https://www.repubblica.it"
       }
     },
@@ -584,13 +594,13 @@
       }
     },
     {
-      "id": "2b8063e7964c",
-      "title": "Salute orale in farmacia: perché è il momento di cambiare paradigma - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzg4cHVwMjUwVmlKcmpjb2RkZVBRRDNyZU5zMERiWUplZEozOWdndnRPN08xRGtYQXh2RS1zb0lDRHg0RTVkaWUzdjJQMml3X0hkSlZMSHd6TWlNTmQ5clBqdkZRM3hxRVMzMm5ZT2xsSGoxWlVuSWNjZ0JtcVRsRXRQaEdla2pqRzE3d3FzNlFoQ293YWtpNUx2cw?oc=5",
-      "published": "2026-03-23T12:09:44+00:00",
+      "id": "81b4c6b2a288",
+      "title": "La distribuzione farmaci tramite totem digitale “non è conforme alla legge”. I chiarimenti del Ministero della Salute - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUWZheDlvT1BXR0F6TGxfel9vc1NSdlpfWVVHb1RFWTJyTUdrYlZmckotNGZJblpJSlliQ1VmUUN0SlNla1Q1c1BJTTN1UUJiek9lSVBGUlZBZEVQdjhlUUZSLVktVnBfbm4xVFZOSkFneFJpUjB3MFhLbmFLa1JNTEk2alhWOWRRdVdIZ1RYTi04VDNCZFVIbnJXQkJjYUM4WXZkQkdna3FQNmFaZVFLY1JrRzJFU2VtXzRiQUF0dnlBNG91cHVCRVRPc1BiaU4xZG9yR0g1NGVRX0xPVV9aRFRSVHBOdEVoTmFnUjhtUWx5ZTdsalY2NkEtQ2I?oc=5",
+      "published": "2026-01-26T08:00:00+00:00",
       "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -604,22 +614,22 @@
       }
     },
     {
-      "id": "bd087d1af833",
-      "title": "Schizofrenia: l’80% di chi ne soffre ha deficit cognitivi - la Repubblica",
+      "id": "b3956d77833f",
+      "title": "Schizofrenia: l’80% di chi ne soffre ha deficit cognitivi - repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTQydExrWjZTdHM5YlcyTGY5RVBvZVlJRmZ0cjlaSlVGM1VGdlAzMzJtWnRaeXVIaEVNcTBhS284VWFHMG15eHZKWDNDMFZtQ2dYalI1V01IQnVwN2JCRVhyVm05OXhkVi00Z0paeGk4VER3MU9zREI0bjFWX2hhZmtzd1FoNVRtby1pMUpnRlNCNndK0gGaAUFVX3lxTE51SEdFREZ0MVlkRzVfT0F5aFU1TV9YTWY5Z2dDM3hMbVNSZmVmZ2kzNU9uTUpoNG9QYlNSbjVCOHNRdDlFazJCQWs0bWRyN1NBMU1CeEhVOVZfRXROOTI5bEl3RlQyYS1XUnJLVHJXeEROWDhQaHhxenFHS1lXRFctQzlpVUFQQUlsYl9wMUtHOG5iWkIybkxJTnc?oc=5",
       "published": "2026-03-30T08:59:04+00:00",
       "source": {
-        "name": "la Repubblica",
+        "name": "repubblica.it",
         "url": "https://www.repubblica.it"
       }
     },
     {
-      "id": "5e1e1e6eada8",
-      "title": "Citisina, il principio attivo del primo farmaco rimborsabile dal servizio sanitario per smettere di fumare (in 25 giorni) - iltirreno.it",
+      "id": "c19e5bc63553",
+      "title": "Citisina, il principio attivo del primo farmaco rimborsabile dal servizio sanitario per smettere di fumare (in 25 giorni) - Il Tirreno",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUU1vNmlmQV9MbGJOSVBIaW1nZmxfSkI2OGlpdlhBSER6bGNxeVBPdHZuUHZlTGF1ZUdaVXZXeTU0V1U4aXF5Mkp6R1AwbHJTTXhiWTI4d21RazloZ3dQU2MzUElIeWN3T29EZ0lfWElkSVdoY1hlcEQ5blB5cnRWYVhWMTR1VUp2VTA5TFRvOUtpb2FZTFpLaFNDLUlxUWlia1JPd1BqUkVjLWdhU0Q2ckduT0ZPVXZ2MmE3dUp0cEI1anRBUXlIUTRuTHlZTjA0UDJULWVnMl9YZ2xCY0FVX2p5UWhZNm4xbkJUUmdrYmF3V19JLWdhUHNDdmFKV3lmMkItMUJjWGtYeWc?oc=5",
       "published": "2026-03-30T11:47:00+00:00",
       "source": {
-        "name": "iltirreno.it",
+        "name": "Il Tirreno",
         "url": "https://www.iltirreno.it"
       }
     },
@@ -654,16 +664,6 @@
       }
     },
     {
-      "id": "5cc9dd1a1321",
-      "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "pharmastar.it",
-        "url": "https://www.pharmastar.it"
-      }
-    },
-    {
       "id": "53fe58aa6299",
       "title": "Contributi ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXSnFFOE9BeHR4SEJoOUg5bDlMRjdZazFqWHFEblVTeE5UQXcwdXdPZXdlOFcwVEdrMldtd3RraVJWUnFFQlZNWF9BNUd3S0djVTJaanVKTi1HNDFpTGUteENRRDdKbURCYmV6aUNxakVYRGRfSkk2RkpzREY?oc=5",
@@ -694,6 +694,16 @@
       }
     },
     {
+      "id": "5cc9dd1a1321",
+      "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "pharmastar.it",
+        "url": "https://www.pharmastar.it"
+      }
+    },
+    {
       "id": "93a952a56c3c",
       "title": "Farmaci. Schillaci: “In Ue no a primato dell’industria su tutela salute” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0djeXJLU2lqbWZXLW05T0lRaHdHUF9iNVlRVHdFOHVmbFV3QXpsejlOMGcwNUNObmEwaF9XTktrcThwWkZvLUhtbWZhT1lyMDl1ZV8wb0RZdEw4QllBbXprX0ZoOVQxVGRtaktmbmoxRVE1dVRGN0RNSkVndGM4dXBnbGVkQkxDQi1kMWZqZFN3WUNkb0Y4Um8yTDNiRTRBN1ZFZUZVcno1SWVEalRic1BHNFdqbFk0dHd3Q1V3?oc=5",
@@ -704,13 +714,13 @@
       }
     },
     {
-      "id": "11c268a091f6",
-      "title": "Ossi si può smettere di fumare con una pillola, rimborsata dallo Stato - iO Donna",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjJYbmZkd0JqWElwTWdZRmRLdHZRcU92VERRRnFsdjhmczJRRWctbU91VGcwZzdkaWs4SmpEMzJiU2d0Q0dPbWg3Ukp3RVlOM3dIYWNsMEJvQnJDdHplUDM0bFJ3Qk1NNWtBcGppUnd4X25wTUtUZkxlTFAwdHduamdyRUpXYjBGX3lyUk5UaHlacDNZaTN3QkFleW1jamJWVjg3OVZxR0pJb2dMZVczaVFFQVFFZmljUVdBd0V0c3loQmtZcjZ6NnlFVnNzVWd4RkN0MEVTRmh0Rzg?oc=5",
-      "published": "2026-03-30T14:49:24+00:00",
+      "id": "7aae8247f451",
+      "title": "Punto Erogazione Diretta Farmaci Casa della Salute Casalecchio - Azienda USL di Bologna",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzdIaHVEX0pkNWJwd3hBMjdoRkNwOS1PaFdMcnB3c0ZEelJyRGRlUDVsNFd5ejJ1cVdudUo2VTdlWGc4U0xCeE1XX0dXRmt0ZC1VaG15OVFETmUtLUlRVFhPUWVtWG1tbTk5amQzdVpUd0FaNlBib195Y3BfbmVjZFo3NnNFVEVCMTJYX25ydkVKZXhCUHFJTWw2Zmdyb1huUng5NXBEZm5hR0dmM2lZ?oc=5",
+      "published": "2025-09-01T08:02:33+00:00",
       "source": {
-        "name": "iO Donna",
-        "url": "https://www.iodonna.it"
+        "name": "Azienda USL di Bologna",
+        "url": "https://www.ausl.bologna.it"
       }
     },
     {
@@ -731,6 +741,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "11c268a091f6",
+      "title": "Ossi si può smettere di fumare con una pillola, rimborsata dallo Stato - iO Donna",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjJYbmZkd0JqWElwTWdZRmRLdHZRcU92VERRRnFsdjhmczJRRWctbU91VGcwZzdkaWs4SmpEMzJiU2d0Q0dPbWg3Ukp3RVlOM3dIYWNsMEJvQnJDdHplUDM0bFJ3Qk1NNWtBcGppUnd4X25wTUtUZkxlTFAwdHduamdyRUpXYjBGX3lyUk5UaHlacDNZaTN3QkFleW1jamJWVjg3OVZxR0pJb2dMZVczaVFFQVFFZmljUVdBd0V0c3loQmtZcjZ6NnlFVnNzVWd4RkN0MEVTRmh0Rzg?oc=5",
+      "published": "2026-03-30T14:49:24+00:00",
+      "source": {
+        "name": "iO Donna",
+        "url": "https://www.iodonna.it"
       }
     },
     {
@@ -764,13 +784,13 @@
       }
     },
     {
-      "id": "7aae8247f451",
-      "title": "Punto Erogazione Diretta Farmaci Casa della Salute Casalecchio - Azienda USL di Bologna",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzdIaHVEX0pkNWJwd3hBMjdoRkNwOS1PaFdMcnB3c0ZEelJyRGRlUDVsNFd5ejJ1cVdudUo2VTdlWGc4U0xCeE1XX0dXRmt0ZC1VaG15OVFETmUtLUlRVFhPUWVtWG1tbTk5amQzdVpUd0FaNlBib195Y3BfbmVjZFo3NnNFVEVCMTJYX25ydkVKZXhCUHFJTWw2Zmdyb1huUng5NXBEZm5hR0dmM2lZ?oc=5",
-      "published": "2025-09-01T08:02:33+00:00",
+      "id": "0600e4d9af1d",
+      "title": "Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
+      "published": "2026-03-03T12:03:28+00:00",
       "source": {
-        "name": "Azienda USL di Bologna",
-        "url": "https://www.ausl.bologna.it"
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -804,16 +824,6 @@
       }
     },
     {
-      "id": "0600e4d9af1d",
-      "title": "Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
-      "published": "2026-03-03T12:03:28+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "e66e970324d0",
       "title": "Nuovi farmaci antiobesità: “Alleati anche della salute mentale: uno scudo contro depressione” - sanitainformazione.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFpLMTFYUkdCbGtLTGtFN2lBSWtqWWd4eWRwWXl6MTVXYms0cElnTE4zTmVrNDhQYWJ2bWtDVXg4SWtZNnVwWDZrZkR1LU1CQkNZajJmTVlnamNJMklxZTBCdFN0ekZ6c1RlUjFFeE1uUTl5T3VlMVMtWGg4THdpQnRnVGgzYndGMXZvZ09Iak5Tc2FMb2R5UmZPV19FbWRzYVhERGpWTWpXRk1Ha1FhX1VhQ20xSmNnZWZyOG9yMEI?oc=5",
@@ -834,13 +844,23 @@
       }
     },
     {
-      "id": "e37691a84584",
-      "title": "La distribuzione farmaci tramite totem digitale “non è conforme alla legge”. I chiarimenti del Ministero della Salute - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWY4MFNNcUY5M1RUekVUYmVDU3ZPLTQ5UDVabEtSeG5JbGpOYURkUkx3S3VCV1JZVnRCMEJEd3VuYVFyN3VwWVoxT1BUcHA4UFRhTENodmwtaUVrZ1MwOTZ5OXBCRU9xSm9rWW9rcVkyNVNSeFpPMnE1bzJmYkVBcWpEX2FYRmpHVmN5ZW1GWQ?oc=5",
-      "published": "2026-01-26T08:00:00+00:00",
+      "id": "e10bc0d3403f",
+      "title": "Farmaci dimagranti associati a minori rischi di depressione e ansia - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGhZamRpSmZmM1pYY0dhS3VEbnpFN3p6d2c5T09IQ1pSbC00cDdycVozUlNBR0FZeFJYeVI0YWc2ZFU4eEJLZ1hlMmYtOUZMQXpCR1paR3F2LXg1XzNrY3hDVmJUNUw4dnVOZkMzQ3duOFJaNFB1VjE0TnNFV25OUktQMTNyMGVNalp6NmZKc1NzRmQxNkdiU09abTJRbVlEdnRKanI2clhtSUl6NmV1TWFYLWl3R2gxYXFXaDJfQjc4LWRwdmFMT2R2WEY?oc=5",
+      "published": "2026-03-19T07:00:00+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
+      }
+    },
+    {
+      "id": "98685ecd1665",
+      "title": "Giornata delle malattie rare, quattro nuovi farmaci approvati da Aifa - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFEyR0hfMlpjZkZiakVJQ2swRmR2WVNENmEzS29sRVpwOWxTVllIWUJHYWJJOUpyc1pRMW9zNVBkb3BwcVNrblM3eWNvdWQ1VXBNdGhZam1NeWZLMlpwcGhVV1AzS2lGTEtRMGFCYThMcUIyOXVRWEsxY194YVppSFJFREJCcUxLUHBTcW93?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -874,6 +894,16 @@
       }
     },
     {
+      "id": "5387483bdb22",
+      "title": "Citisina, come funziona il farmaco per smettere di fumare, a chi serve e quanto pesa la dipendenza da nicotina - DiLei",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPak05ZmJpT19QeU9IYUFxVDZaX3NYTmJjbjFCTF9VdUlDdUs5eUhQQ21EbEN3OXRMckhPSlRSbXpzX2lGekkxMElvbWlra0h1c1RaTjBqUVBNaENlSEJZZUlXTXJGVWM0cGhjclR5bzNDbmdkcU1wSG9zVm90RXV1OERxR2hPQdIBiwFBVV95cUxQUzdTckNSdDhHLTJxUmgtUG1BMnV3THphSEJtVkxpTUdrS3QzMEtNeF8zc1d3ZVdsTS0tY2RxLXdPVmw5OG1hcGZwaUlJX01nRWNxQjdVRVAwdVd4NF8waDQtUlFPaVVQZUt1Y2xseXRwRld5NEJqMDRpdjFoRlUzUGFVS2dGVTVTUU9N?oc=5",
+      "published": "2026-03-30T10:07:04+00:00",
+      "source": {
+        "name": "DiLei",
+        "url": "https://dilei.it"
+      }
+    },
+    {
       "id": "b7946df984a9",
       "title": "Anche la farmacia va in burnout: cause e rimedi per la salute dietro al banco - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFZRMWFQU3k5VGN1TGI3a3gtamtON2wtVndWSTBVSXFhZlRRQWY0djZWZ285ZjVtbjR6eTVscFdsOVhRUzR3MDJSWjc1R0x3VE1BbmVYbHNPbGI2NUplNjYxN0pDWFhPcFpsTGJmcWg3UnBwenZsTXZUQy1nWHhmb29BOG5UVHNDVEdueFE4b2hCUXpMN3hBc3JVNGR4UjBlUV9tUHA0NlQ?oc=5",
@@ -884,12 +914,12 @@
       }
     },
     {
-      "id": "2f3f94c8e537",
-      "title": "Cattive abitudini: perché continuiamo a prendere farmaci anche quando non serve - la Repubblica",
+      "id": "744c2272ce34",
+      "title": "Cattive abitudini: perché continuiamo a prendere farmaci anche quando non serve - repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemNHVzNtSGRlVzN3T3BuMUtOSVJWZkZBYW5EZjlIM0tyMzZRcEYzam5wR1Vuc2ZQZGNJWEYzdy1MUFkzMnlYYU1Xbk5oZmUxNV9sbTRYQUNzNmNRTWxzY2lFLVF3SnZSMG90VnNjMDZfZjJ5NGJ1dk4wWVR2Sm15clgwNnlPQkQzaldJZHMwMXVDT3hlV1dfbmJiYjd2VGZpZVR6QjZrVdIBrAFBVV95cUxNTzhEdWNwRmpJekdXM0tfRlV4bWV2SDQ2cXZ4MnFRZXRDenpHMURiUDFNOWQwU1B6T3dNUGdhTWRrTHZlaG5TYkZiVzhmUmRUZWlMcm91Z19RVkxqSzBrdGdMbUloOEhkNkQxZUJPUC1PMmk4U2dTZlV0YXZmVHZOUlNLNEdBQ0gtQlpaQmd0YkhJZm1mTzVOdXVhSjVKVzNWUTlGNlBTMnZnWHZV?oc=5",
       "published": "2025-12-10T08:00:00+00:00",
       "source": {
-        "name": "la Repubblica",
+        "name": "repubblica.it",
         "url": "https://www.repubblica.it"
       }
     },
@@ -901,26 +931,6 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
-      "id": "5cd62e878407",
-      "title": "Fentanyl e rischio abuso e dipendenza: dal Ministero della Salute il decalogo per le farmacie - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFpQd19oVm91TmREZXFMb29MRnRxRm1XdjJENllUM29MM1M1OUw4YWgtVGxmbWdualRNS1hoalhuOWFxRmlWak9lWjB1cFdIcXVONUpvUjlkOVl2SXJuN2tyOWdDaWNnZDhWX2I5cFgtLVN6UVNDVXRmVk93QkpqUTdUR1dvTmRNSEptaWdOcW8zOXVuSml3UEl2OHpPOXM1QXRZYXB6OXZZc3hjcnRjUktLMnluc04ydHJkSUd3?oc=5",
-      "published": "2026-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "5387483bdb22",
-      "title": "Citisina, come funziona il farmaco per smettere di fumare, a chi serve e quanto pesa la dipendenza da nicotina - DiLei",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPak05ZmJpT19QeU9IYUFxVDZaX3NYTmJjbjFCTF9VdUlDdUs5eUhQQ21EbEN3OXRMckhPSlRSbXpzX2lGekkxMElvbWlra0h1c1RaTjBqUVBNaENlSEJZZUlXTXJGVWM0cGhjclR5bzNDbmdkcU1wSG9zVm90RXV1OERxR2hPQdIBiwFBVV95cUxQUzdTckNSdDhHLTJxUmgtUG1BMnV3THphSEJtVkxpTUdrS3QzMEtNeF8zc1d3ZVdsTS0tY2RxLXdPVmw5OG1hcGZwaUlJX01nRWNxQjdVRVAwdVd4NF8waDQtUlFPaVVQZUt1Y2xseXRwRld5NEJqMDRpdjFoRlUzUGFVS2dGVTVTUU9N?oc=5",
-      "published": "2026-03-30T10:07:04+00:00",
-      "source": {
-        "name": "DiLei",
-        "url": "https://dilei.it"
       }
     },
     {
@@ -954,40 +964,30 @@
       }
     },
     {
+      "id": "fcda8585b255",
+      "title": "Cefalea di rimbalzo: il mal di testa che nasce dai troppi antidolorifici - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVc0M18tUXl2dG1mS0tVb1g0ZExJd0Rtc0lEanFjTGw2eWROU2ZYTUJTWElMNzZxLU53a3NOOTBPYV8wQTRBTFgzazhvZzFrdU5lZV9EeUZReEZuRDBXMHhzdFE4NGlBbG9teXJjX1Nhclp0dmc5MzlNVjA3bHJ6U25wVWpVMkoxVkhkYkpZZ2tZemYyLUExX1g3MzNrQzFzeEdOMllYQmlMWmhhLVBndGpUWXQ5REpFaHJtVDJlZmpCXzVGM0E?oc=5",
+      "published": "2026-03-13T07:00:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "7e914ce365a4",
+      "title": "Nuovo studio: i farmaci anti-obesità migliorano la salute del cuore - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVkRHTEYtbllFcC1ldU11YVFJWjVQbnZmQWRCdjRNMzFUTTBfYVNPMHpKTGMtcWNSZE50U3NFM2ZjZElNMmFITnBYOWZnNUFJOGU5SmFSc2x4MTltdlozMmhnSjFwNmlQREZhT3ZhYTBJM3pVYTJQSVZHWXpBRml5QjRuY0FtVHhteTJoay1YSkxPOWFtcU1pTHlsbVUyWEk3ZVF3YWVSZklBNXA0cXFFZ0YtdEtzem1VX25qbG04UmNMMHJPaDRrNDFmdUM?oc=5",
+      "published": "2025-10-23T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
+      }
+    },
+    {
       "id": "976dc4347f04",
       "title": "Tumore al pancreas. Svolta sul farmaco olaparib, Ministero Salute: “Aifa dice sì alla rimborsabilità” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORTRBQWtpRnZEa0ZUWUxuZUZTUS16VThTM2Y1cElKR2NlQXUyaHhhM0VqRjNTeDFKajRIY2VIekNEWWotZVlrbG1QWlhDZEVvUE44bVhETTl4dmJQaVp0LWJOT1c2eHRVeUVzUVJ6RkhkRlpTUnMzUzZVUEQtZFZoU3FwTEFfYXV0NEhhRy1wa3d3OHQwTVNRamxYYk5NbUNIVHJFRTVmVktmYmQ5ZGhhWVdxQ1lqUTczdjBIZkltcTVMc2pPNjVHTzNQZ0dyUjlPdVFHWlpfY3J0cVFzdnZvcjZLREU?oc=5",
       "published": "2026-01-28T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "1a767ce5ffdf",
-      "title": "Farmaci: depressione in gravidanza, disturbi per 15% donne - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHF6WDlBMG42N1ZDMDVmcXhRcDItTXBWd3luc3U2U0s1SXhqeFJrRXRoLVJxcUowOTZuUXZ1THQ4cGk1UlpUVWJKSlV3Wng2QXYzS1RmUktUdm1ESEdhVlJuQTh5M19lTExlUkFsMVkzam4wNHpTdUswQ1U2OS1Cc1hRWnc4U2VobTVoOUZJTzBHVWRUemwzMDUtMGJQREU?oc=5",
-      "published": "2026-01-14T08:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "4fb9b7a8536c",
-      "title": "Farmaci nelle RSA: troppi errori nella somministrazione - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1hjaHZwY1JGYkNGVFk5eTlBdFBXakFPX1BiNklOMXl2VUF1dmZtd3JocGhTNy1CZXZrc29zR0RrRE9ZSGJaUzN6Q2ZmYlV2TjlLRzdxTURMZXg4ZjU5bHZUMkpwUVM3MzQyNlV1STM3NUQtN1NqSkF6TzJIdERRVDFMU04wQ1F1dmlMNlpoQnk?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
-      "id": "6db71ec34a71",
-      "title": "Boccadoro (Città Salute, Torino): \"Mieloma multiplo, con nuovi farmaci quadruplicata sopravvivenza”. VIDEO - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkJ4ZWh3Y0VGM1VYcklrTHVHbnRBZXoxN0c2cU1DLW9NSEUwOEswREJaaERZZ3puTFlGNjFjUlpsVWM2MDE1dHlBTDlJdHlfQkNWOHJvMGotOHd5aXBwMFVmNC1XMFFzOU5zMnVoZDVBQjgwQ0VJWDg3bEhlbzEwUjdjWWV3S2FjVnlxZ0NHODV4VkNCUGVHeUxGX0U4QWtkSDdmckwxNmtxelctQkJhbmwzQkZNMlI1Z3RjYTRRaWRqT0V2WERTWVhXV19hSVdzeEgtS0tn?oc=5",
-      "published": "2025-11-27T14:02:26+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
