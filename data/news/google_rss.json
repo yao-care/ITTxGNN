@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T10:24:12.778139+00:00",
+  "fetched_at": "2026-04-05T11:21:47.335782+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "5d85b7e22dae",
-      "title": "Le virtù della camomilla. Viaggio nella fitoterapia per essere sani e felici - La Nazione",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGM2alhJbktkZGFySVNvR0Y0aVZ4c3ZvNTdfaEFHSE1QWDZlOUpYX3QxZUR1SC15OWZtcjh3SUJjM182a1I4UkpmOXZiTkJMaVhxZzFzMVdtU2lqVHRuazVoZmlLNzhVbTl3Z3hzeVRKZ1R6eUJaeHFXV3Bac3hoQ1A4SU9sLWc?oc=5",
-      "published": "2026-04-05T04:15:15+00:00",
-      "source": {
-        "name": "La Nazione",
-        "url": "https://www.lanazione.it"
-      }
-    },
-    {
       "id": "083738c1e3f4",
       "title": "Tumore al polmone, la combinazione di due farmaci biologici raddoppia l'efficacia nella forma più aggressiva - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUXVQYzBCejVzWkthdk9GWURZVHpxWjhEeERxMGEzTk43cS1xRUFqdWlNR3h0YmU5S2VNTG4zVDVIWUdZcEd5VTBjNE1aTG5Ea1J0d011N0tKbkRmS1NLYS16blhjQ1N3ek8wNDVWZ1plQzk2dzlyTUdBZS1GakRRelJQcHc2M1VHNnNvZ1QzUFFJNnROemVKV0t3SGJFRnZHeUdEeGtGeXpJTjdDcEo1bDZ1N3ZMZTd5cUt2cHZYYVI2X3R4MEdkNG4wcWd5LVhQLVpOR3UtWFFxbVpGZG9ZYlF6RUVNU3V6MXhxRlNiRE53Zm05akduZXFTdWtxcGNpVHdVVzN1Y21ENVQ2Y3pSM2RvZ0RBN0lnRkFTSWhFZUZuWlROZkg2bEt5ekF0ei1wcmxDUzVn0gG7AkFVX3lxTFA0Y2hXWlkxcmQ5R0FQZmtSRm1SQ0thZ3RwX3V3YUpockxQQ3VQN1NiY2tpS2gyeHRvWG41WWpiRXRXRS1DWnVUQnAxVVAwODNHdlVPWC1NcUU2enVzUnNVb1JIS0paM0ZQNmFQTjNYZFhIZVNkTHptMmJoeWJYQkdFVU5PdS1qRzVLOW92WTBMRlM5QlNubVJIOFZjWDFXX0VLNkRSVWVrUDFsQnluaC1xY2hzNFR1clhTQXlLQXJiMWJ6cUYyQmE4dXFpZ3BnS1NMTXZvbE5CcHVSTlB1WWNLRVJ3eXJ2WnZYRTk5THBaQTlQZnZLTUdVdlBmNUtQZVVvdzAxQ1Y1MzRfQk94UUdNanJnNlMxSVFCdU5vMzZwX0U4RkZGbXNhOXpXMk51ZHhPV3hIbi1rYzFUQQ?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "5d85b7e22dae",
+      "title": "Le virtù della camomilla. Viaggio nella fitoterapia per essere sani e felici - La Nazione",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGM2alhJbktkZGFySVNvR0Y0aVZ4c3ZvNTdfaEFHSE1QWDZlOUpYX3QxZUR1SC15OWZtcjh3SUJjM182a1I4UkpmOXZiTkJMaVhxZzFzMVdtU2lqVHRuazVoZmlLNzhVbTl3Z3hzeVRKZ1R6eUJaeHFXV3Bac3hoQ1A4SU9sLWc?oc=5",
+      "published": "2026-04-05T04:15:15+00:00",
+      "source": {
+        "name": "La Nazione",
+        "url": "https://www.lanazione.it"
       }
     },
     {
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "4eaa61b434b8",
-      "title": "PFAS e farmaci, Efpia: \"Con restrizione uso, oltre il 70% dei farmaci critici in Ue potrebbe subire carenze\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnpQc1NmZW5WMmNtb3ZuRHJCQlVsWEtCWTBnc2U5SXZhQlJwWFpfTmVuM24tZU1kWDZFWndKVnBOcURVREFHdlF4SE81eTQ2UVRyRExGZnhqUldxM0tMSDRlVHdEWEVaQ1RNRjVTb2V3czM1RWFsVzRHbTRITGN6dEl1X09UNGFmRklueWk0NENHOE5CczFwaS1GNFlOT252YkNfanZIb0xjS2hlTmR0eEdVajQ4aGlSS0xDdVRKUlB5cFpycnAtdEhJajRUaDNPZFpYZC1VY3JGY3FfdlRnMGhIdw?oc=5",
-      "published": "2026-03-31T13:25:44+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "8ecd524fff40",
       "title": "NAS Carabinieri Foggia: scoperta farmacia abusiva all'interno di un'abitazione, sequestrati farmaci e dispositivi medici - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTl3QmtYMl9Za1Q1ZEJTVVpsTmdlUFMzNGZTbWphbmI1bDhCYVRkU3JFdjgwZ2V5T1BnbUJvOC1lUWV3dWpsU29GclpRczVlV1NGMFYySWFwOHQ0WV9IeVd4UWNlTW55VkFkQ0xXZ0sxYmNFRlJSeTAxc3ZyV2RrTHpraURUTWJhdFhjakNuLUVpajVCMy1PRWEwUWRNbE1YTnVsMXNMU1dURkN0QUI5cmZFNVhaN3FxZ3ZLZHZwMnN0aVNXU182YmotUUg?oc=5",
@@ -331,6 +321,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "4eaa61b434b8",
+      "title": "PFAS e farmaci, Efpia: \"Con restrizione uso, oltre il 70% dei farmaci critici in Ue potrebbe subire carenze\" - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnpQc1NmZW5WMmNtb3ZuRHJCQlVsWEtCWTBnc2U5SXZhQlJwWFpfTmVuM24tZU1kWDZFWndKVnBOcURVREFHdlF4SE81eTQ2UVRyRExGZnhqUldxM0tMSDRlVHdEWEVaQ1RNRjVTb2V3czM1RWFsVzRHbTRITGN6dEl1X09UNGFmRklueWk0NENHOE5CczFwaS1GNFlOT252YkNfanZIb0xjS2hlTmR0eEdVajQ4aGlSS0xDdVRKUlB5cFpycnAtdEhJajRUaDNPZFpYZC1VY3JGY3FfdlRnMGhIdw?oc=5",
+      "published": "2026-03-31T13:25:44+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -374,16 +374,6 @@
       }
     },
     {
-      "id": "c0099a8b0f38",
-      "title": "Orologio biologico, l’impatto del bioritmo sui farmaci. “Influenza anche le terapie contro il cancro” - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVVTcVd1eUFyQlFjZ3BqU3FwVTg1b3N4dklEczNaZGtpblE4QTVwa1Q4MkZvRVJUMFowSTViZloyZG80OVRjODZQdGFXSHIwekhXYWp4dUttRGs0dVZQbXJLZUxEblhGSlNucXhHQ2E4NjBmNzAyNnZDa0ZKeWk5bU1nR2JhRG12Y2VLVEJmQlFfNHBVQkdCZWxn?oc=5",
-      "published": "2026-04-04T13:21:17+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "a7633cd926db",
       "title": "Farmaci: Trump pronto a imporre dazi del 100% a chi non investe in Usa - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOE9tektScWFtaGMySktRcmRyUXl5WkpZM1EzeHZmcVRJbElOODVwS1R6RlR2cXR4QzQ3WGJtZWRxeGRHSExFM2NGVDdMWTFBTWktV2JhMklsVjVId3Z5N1ZSY2ZiQzNkUUhPbmxGdU1wMmhrWnNWLS1xUEVVM01zSkJPd1VxSHdnWm1kNjkzd2FJM1B6b3hsOXhORDZlY0Z2akdDbDFUMmEwVUd2V2l3dWV5RGhwM2tSbDAw?oc=5",
@@ -414,13 +404,13 @@
       }
     },
     {
-      "id": "83af3f37bc63",
-      "title": "Citisina, nuovo farmaco per smettere di fumare: di cosa si tratta - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOV8xR1JBMzdLdkJnQ1o3ODdHQVN5Q0F6am5sei10bE5MdDd0alNwMDF3TjNZbnc0ZmJ1NmFXYVBDNWVvY2NzdzBxUWdDZmo1SXFmbXhmRjhILVhzd0VqUlREQ2dReHdXQmhNemlUU1FHbXJjcHQ0eG11bHpnLWhnS1hUV1U5WG02TDhBcFVrQ20?oc=5",
-      "published": "2026-03-30T09:25:59+00:00",
+      "id": "c0099a8b0f38",
+      "title": "Orologio biologico, l’impatto del bioritmo sui farmaci. “Influenza anche le terapie contro il cancro” - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVVTcVd1eUFyQlFjZ3BqU3FwVTg1b3N4dklEczNaZGtpblE4QTVwa1Q4MkZvRVJUMFowSTViZloyZG80OVRjODZQdGFXSHIwekhXYWp4dUttRGs0dVZQbXJLZUxEblhGSlNucXhHQ2E4NjBmNzAyNnZDa0ZKeWk5bU1nR2JhRG12Y2VLVEJmQlFfNHBVQkdCZWxn?oc=5",
+      "published": "2026-04-04T13:21:17+00:00",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -431,6 +421,16 @@
       "source": {
         "name": "La Stampa",
         "url": "https://www.lastampa.it"
+      }
+    },
+    {
+      "id": "83af3f37bc63",
+      "title": "Citisina, nuovo farmaco per smettere di fumare: di cosa si tratta - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOV8xR1JBMzdLdkJnQ1o3ODdHQVN5Q0F6am5sei10bE5MdDd0alNwMDF3TjNZbnc0ZmJ1NmFXYVBDNWVvY2NzdzBxUWdDZmo1SXFmbXhmRjhILVhzd0VqUlREQ2dReHdXQmhNemlUU1FHbXJjcHQ0eG11bHpnLWhnS1hUV1U5WG02TDhBcFVrQ20?oc=5",
+      "published": "2026-03-30T09:25:59+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -474,16 +474,6 @@
       }
     },
     {
-      "id": "16b440ad5260",
-      "title": "Lotta all’obesità in pillole: identikit della novità Lilly approvata in Usa - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUmF5bmZfYzBOTlZMOWxzQlpDRmxGdFp0MFU3RXN0UWdpdHNQQ0cwS0VMa19wbXNFeFFDY2dqMFl5SXBZU2ZFRUxiQmhVWWNWVjFPdGgwV2I5QVZMZVN5RWlMWmdjSWxTQV9sYUJsR2ZELUFKbV9aNmd2TC03NzF2YkxEZ3RSS0JFZmhlTEtOQ2xNcUkydEN2TkJUZE1odmVYcy0ybEE5UHBZNWhNT3hUNW9sSGpkYThQMmxzRkNEX2xLUQ?oc=5",
-      "published": "2026-04-03T08:27:31+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "96b61d2ee2e1",
       "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
@@ -491,6 +481,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "16b440ad5260",
+      "title": "Lotta all’obesità in pillole: identikit della novità Lilly approvata in Usa - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUmF5bmZfYzBOTlZMOWxzQlpDRmxGdFp0MFU3RXN0UWdpdHNQQ0cwS0VMa19wbXNFeFFDY2dqMFl5SXBZU2ZFRUxiQmhVWWNWVjFPdGgwV2I5QVZMZVN5RWlMWmdjSWxTQV9sYUJsR2ZELUFKbV9aNmd2TC03NzF2YkxEZ3RSS0JFZmhlTEtOQ2xNcUkydEN2TkJUZE1odmVYcy0ybEE5UHBZNWhNT3hUNW9sSGpkYThQMmxzRkNEX2xLUQ?oc=5",
+      "published": "2026-04-03T08:27:31+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -584,12 +584,12 @@
       }
     },
     {
-      "id": "e4719321ba14",
-      "title": "Stop al fumo: cosa funziona davvero oggi per smettere - it.euronews.com",
+      "id": "65fb29af05a2",
+      "title": "Stop al fumo: cosa funziona davvero oggi per smettere - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS015MmN4U3p5TkxKWlN6U05NUmwxNUo5ZFlfZHA1T1VXbkFXQWhlUll4c1dTMGp5dUU0NnVJZjRYY1Q5MDJUeHE1d2lwOHNmTVJjX0hDMVU2SzU5VlpnbWNHdkhYOGVhVjNmTkFtT0lVanhQdGpDeDVXY3lDMnptTTV3d0VCMHpiVHBoa2JWc0w4dDNaQlppSEhmVWdwN0RsOXNFbWtNNnN2bndsWkVxdGZURjNReXBnc1YwRkZmcWNhOXBlOXNTbA?oc=5",
       "published": "2026-04-02T11:26:51+00:00",
       "source": {
-        "name": "it.euronews.com",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
@@ -674,12 +674,12 @@
       }
     },
     {
-      "id": "72cc77f5d9fd",
-      "title": "Malattie rare, al via il progetto per lo sviluppo dei farmaci orfani - rainews.it",
+      "id": "594eec8a91a5",
+      "title": "Malattie rare, al via il progetto per lo sviluppo dei farmaci orfani - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWldOTUVrX1RrdmtmZXNRM29qUUJzeF9uLU9yU00zaWJNZXBWbC0zOUVGdlJ2MFdRYV9IRzZITUc5ajFkVEtvV1k0b3NlaHdUc1hrTnBrMTVOQkRtbHN0aVBsTHJMMlRMalhrWFdGTHd0bGtfdjJvb0dQQmxqUlY1b0hyQjg2cWNtQ3pqN3hidkRIMFJsV2MyTmdmOUxBcmZkQlJ4MGlvUVFOMUg5VGRmb1VHMlhCNXR4aTZXR0p4NUVyVTFoeGhTM3hVN18xT3BCZi04T3lKMWNJWlVSSFN3OEl2bF9LQTI0Q0R1Z1RqWdIB9AFBVV95cUxNMGJDNm1TbGd3T1VnaXZQME1qczR6TDdCZWllUXFzdXN6VGR6UmFrZGktWWFscmROUG5SdEFKN0k2bnhTZ1g1VlByX0JLS0YyVkozcUtqLVcyQWtyOHZpMDl3Y0phMmpOUThCVkVaNldsa0pnYmY5VHlEaUs0ZkJIUWlkZzFYWTg0TFJURHBmMVdZSldxV2EwSEx3YVJpX1FjckFPR1J3SWFLem9SRGtYcmh4ekJXSjR5WlpKdHhSV0VaZmpac0RXZ2dFZFVmemxKR09vX3F4VVBSSGNObzVhMUF4Z0EyN0dXbXVuTVV2RHpZTzZY?oc=5",
       "published": "2026-03-17T07:00:00+00:00",
       "source": {
-        "name": "rainews.it",
+        "name": "RaiNews",
         "url": "https://www.rainews.it"
       }
     },
@@ -704,12 +704,12 @@
       }
     },
     {
-      "id": "5cd731ede0ca",
-      "title": "Dalle spese per i farmaci alla \"lobby potentissima\": perché è scontro tra Rocca e i medici di base - latinatoday.it",
+      "id": "99dc8d28f965",
+      "title": "Dalle spese per i farmaci alla \"lobby potentissima\": perché è scontro tra Rocca e i medici di base - LatinaToday",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObjUwSlpiZWVIb05wY1dYMl90d3N4czhJOEZibGx1NDgwSzBodk1iZHZrVHVHbTdUWlJfREpqbGQxVFN4TFBkT2RDTzVseTYwVVpGcVNKQ1QxRVpxYlJHb2tVYzJOUGNNLTc0RC00aUVuRGJyNURLMlp0MkV4c2tDZg?oc=5",
       "published": "2026-04-03T04:30:00+00:00",
       "source": {
-        "name": "latinatoday.it",
+        "name": "LatinaToday",
         "url": "https://www.latinatoday.it"
       }
     },
@@ -934,12 +934,12 @@
       }
     },
     {
-      "id": "9b2cd9a36a95",
-      "title": "Viagra e altri due farmaci potrebbero aiutare a prevenire l'Alzheimer - it.euronews.com",
+      "id": "2eb10414f145",
+      "title": "Viagra e altri due farmaci potrebbero aiutare a prevenire l'Alzheimer - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkpJV1NFejdSdjlzYlJ5ZUpkblF1T1habjF1bENHNUlRbVUyWU5vTFJyMTlZN05IVXlBcTUtcS1nODczbE1LemZTdFNTZFZ6QnNVNUtWdkNING92R2VLYVRhNHNCVnI1Y2t3aHZQcG9ZMFBVV3JDQktDSmFySW5LeWpFMXNxNzdoTFMxSmgxd3NmWFJiSmRkQ0YwWWZ1YW5NR0VJREliZTRXS1ZGNWhRUzlaNDBUMmJlTG5pTjQ1NWFJUQ?oc=5",
       "published": "2026-02-14T08:00:00+00:00",
       "source": {
-        "name": "it.euronews.com",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
