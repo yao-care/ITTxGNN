@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T23:26:40.680473+00:00",
+  "fetched_at": "2026-04-07T01:22:04.665455+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "2a6821b3981d",
-      "title": "\"Attenzione, la maggior parte dei farmaci per bambini in realtà sono testati sugli adulti. Entrano anche nel cervello, possono avere degli effetti\": l'allrme del prof Silvio Garattini - Il Fatto Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNTERBUC1oNzBObFBkcGx4R3ppTlRUZE5FMGpsbnFMU1NkeWEyZ0dPc2lTNno3d1RZdVY5LW9kRUdxeVBHWlJfVjRHSngydlI4dEFRTTd4WDhESE55UHpGVkluZFN3cDdPd1J2QXFUR0NkT1pMcnpoODVVNVpwcWhwbEJQeVNWTDlMWnhpSTJ6U1F6bkQzY2M0OHVESFFmZVJSZkVGRVczMVdjTDAtaG9DdWR3THdfOHNCZXotbFFkRHY5V2xxYnkxRFVxcTdQeDM0V3FjNk1HWGdNejB2OHE2ZUlyZFVPWDZvYkVFeERDOEM0WTd5d0hhT3hMaXBlNnFTLUVISXdCM2dlU2JQYUZHMC05WG5rVHZZRXlZcUNCRkpjSVFCaG5hYkxjS3BOSXF0MWlVYnI0RkZpOW5wUERiUGRfT3pEbndBaTlLcEpR?oc=5",
-      "published": "2026-04-06T09:05:08+00:00",
-      "source": {
-        "name": "Il Fatto Quotidiano",
-        "url": "https://www.ilfattoquotidiano.it"
-      }
-    },
-    {
       "id": "cb9483f89972",
       "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - VareseNews",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
@@ -44,13 +34,13 @@
       }
     },
     {
-      "id": "d3ffd42ad3b5",
-      "title": "TrumpRx fa davvero risparmiare sui farmaci? - Startmag",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybmJ5TkpDOTNZaWRUZkRYckxkd2o5VExDRDNHYngyOEJtVXhncy05b3J3cFVzX1dndl93cTNhbVNPUGF0MFpTdlc4cnQ3NS13Q2Y1OUdVYnVEcHVjbjJyYkNIMlFuUWFqNDBtbFhLOXo5QXFCLTFnT1o3QUhYNFE?oc=5",
-      "published": "2026-04-06T05:24:00+00:00",
+      "id": "2a6821b3981d",
+      "title": "\"Attenzione, la maggior parte dei farmaci per bambini in realtà sono testati sugli adulti. Entrano anche nel cervello, possono avere degli effetti\": l'allrme del prof Silvio Garattini - Il Fatto Quotidiano",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNTERBUC1oNzBObFBkcGx4R3ppTlRUZE5FMGpsbnFMU1NkeWEyZ0dPc2lTNno3d1RZdVY5LW9kRUdxeVBHWlJfVjRHSngydlI4dEFRTTd4WDhESE55UHpGVkluZFN3cDdPd1J2QXFUR0NkT1pMcnpoODVVNVpwcWhwbEJQeVNWTDlMWnhpSTJ6U1F6bkQzY2M0OHVESFFmZVJSZkVGRVczMVdjTDAtaG9DdWR3THdfOHNCZXotbFFkRHY5V2xxYnkxRFVxcTdQeDM0V3FjNk1HWGdNejB2OHE2ZUlyZFVPWDZvYkVFeERDOEM0WTd5d0hhT3hMaXBlNnFTLUVISXdCM2dlU2JQYUZHMC05WG5rVHZZRXlZcUNCRkpjSVFCaG5hYkxjS3BOSXF0MWlVYnI0RkZpOW5wUERiUGRfT3pEbndBaTlLcEpR?oc=5",
+      "published": "2026-04-06T09:05:08+00:00",
       "source": {
-        "name": "Startmag",
-        "url": "https://www.startmag.it"
+        "name": "Il Fatto Quotidiano",
+        "url": "https://www.ilfattoquotidiano.it"
       }
     },
     {
@@ -61,6 +51,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "d3ffd42ad3b5",
+      "title": "TrumpRx fa davvero risparmiare sui farmaci? - Startmag",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybmJ5TkpDOTNZaWRUZkRYckxkd2o5VExDRDNHYngyOEJtVXhncy05b3J3cFVzX1dndl93cTNhbVNPUGF0MFpTdlc4cnQ3NS13Q2Y1OUdVYnVEcHVjbjJyYkNIMlFuUWFqNDBtbFhLOXo5QXFCLTFnT1o3QUhYNFE?oc=5",
+      "published": "2026-04-06T05:24:00+00:00",
+      "source": {
+        "name": "Startmag",
+        "url": "https://www.startmag.it"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "aaaec060ec35",
-      "title": "Il viagra femminile esiste davvero? La ginecologa Monica Calcagni spiega desiderio, farmaci e falsi miti - iO Donna",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMEE1eVRialFobm5CeGZzUFNJTmtxYzNjWTUxRjVBV0NWZE4xbmFFdkpmcUt5WFdKdElMX3NpemZlTGJGM2ppTTdVSENlVnZua2JDWEZuM1RTQkJCcDB1UjlYaVZuTmZSTzhPd2MzbEQ4U3VObjZyYXF1c1NSM2ViT05nSEFibDA5X09IcTloNUhLdUpyT29mVktuMjNWamNibkk3NElYcFNtUkc1WDQ2OHhQdG4wVWJJSGFBR3pteTRvWlFrN0ZJLWdrX0gyck1DazhaTUdWVnptN3Y4LTBEeFhTcWhDOUQ4aXZXZmVUdXpBb3VHeFhFYzctaw?oc=5",
-      "published": "2026-04-06T04:49:05+00:00",
-      "source": {
-        "name": "iO Donna",
-        "url": "https://www.iodonna.it"
-      }
-    },
-    {
       "id": "01a155043730",
       "title": "🌐 Farmaci dimagranti effetti psicologici e rischi per la salute - MetroToday",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGREMHVJaEcyRTVVd19qbXctRHg4TlVqVEZSeVhCXzB1aTMweUpjTFlsQVlEMl9hcDVUU082VGtUUmt3a1E4SzNBek04MjdrM2pqeGRuQWxmRW82R0JteklRR21Qbk1HUTgwdVhqdXZEeHp2cVpXOWlxQXp5dTJ3UXNlcUctS0h3T1ZKRkhLN1E4RFU2aTh5UGpsNA?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "MetroToday",
         "url": "https://metrotoday.it"
+      }
+    },
+    {
+      "id": "aaaec060ec35",
+      "title": "Il viagra femminile esiste davvero? La ginecologa Monica Calcagni spiega desiderio, farmaci e falsi miti - iO Donna",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMEE1eVRialFobm5CeGZzUFNJTmtxYzNjWTUxRjVBV0NWZE4xbmFFdkpmcUt5WFdKdElMX3NpemZlTGJGM2ppTTdVSENlVnZua2JDWEZuM1RTQkJCcDB1UjlYaVZuTmZSTzhPd2MzbEQ4U3VObjZyYXF1c1NSM2ViT05nSEFibDA5X09IcTloNUhLdUpyT29mVktuMjNWamNibkk3NElYcFNtUkc1WDQ2OHhQdG4wVWJJSGFBR3pteTRvWlFrN0ZJLWdrX0gyck1DazhaTUdWVnptN3Y4LTBEeFhTcWhDOUQ4aXZXZmVUdXpBb3VHeFhFYzctaw?oc=5",
+      "published": "2026-04-06T04:49:05+00:00",
+      "source": {
+        "name": "iO Donna",
+        "url": "https://www.iodonna.it"
       }
     },
     {
@@ -124,12 +124,12 @@
       }
     },
     {
-      "id": "21f31093d5b4",
-      "title": "Farmaci studiati sui maschi hanno effetti diversi nelle donne - www.altoadige.it",
+      "id": "79536f2e9822",
+      "title": "Farmaci studiati sui maschi hanno effetti diversi nelle donne - altoadige.it",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOS1KRHdtVUVpdzJBOWxINkx2WENmNC0wX0RjZVlkVDZkWUR5VFpKR0dVelE3QmFWdTYzdVJvaHNna01qdGg0cXEtSUk5Z21PSmhqNWdZU3NWcXRVc2tmTVZRNWFTZk9YVERIVnljMm1fNlZwZFQ1ZWdydlRZN2t6T1lqdGJQeDlNUnVLcDNfb2wyeWNna0tpVWE3N3EzY05EQVVZOGZqdzMxajFGZWZMNFlGVE8tZw?oc=5",
       "published": "2026-04-02T08:45:00+00:00",
       "source": {
-        "name": "www.altoadige.it",
+        "name": "altoadige.it",
         "url": "https://www.altoadige.it"
       }
     },
@@ -314,16 +314,6 @@
       }
     },
     {
-      "id": "c68e343111a4",
-      "title": "“In un giorno 27 medicine, la salute di troppi anziani è a rischio”: allarme sulle prescrizioni - lastampa.it",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRHS0dPS1JJQ2d3V3hIcHJzeHExX0xZNkxNdEFRZU1na3doY2RsU2xSUDk0SXBGVDV1MUZ6UWlEejhIMnBLSWtaSms1ZDdweXZTaVp2YzFWYzhEVHlOTzJoMHhxa2NiSGg4V2RZOHFEeEZHRHdGYkNRTFFhNWJnaXVDbE1ha1dMYlliTzI1VGVJMkxPMTJhZtIBngFBVV95cUxQTkFSWFNkanpNbU9wWmY1TjFPS00yNW8zVDgzX2R2TjFBV1JBbW1Cd0pBQzB4WkhNYzFuNlhKS3VEbGh3LWhETVNXZkc1dW9MYk05dDlzcW50VHpseHV1Tk9MZ2VNQkEyV3l6UnhOQTFMQTBiV2FjVU1pN19DZVJqcWJ5em03TU9QeXlLWTc4VlpEcmpoVGZxQkRsZHg4Zw?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "lastampa.it",
-        "url": "https://www.lastampa.it"
-      }
-    },
-    {
       "id": "fe0cab275160",
       "title": "Il Medico Risponde Nuova variante Covid, farmaco gratis per smettere di fumare e Chatgpt salute - Primocanale",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFdUNS1CS3JwZHNSVUVuYjZwcFNaX2I3VHRHU080Si0xQXdkMjZveWFYVEF3cHViY0VFYlc3bUxTc09tbUdFM3F0MVNKSkE0MkJXTjNZNkhOQ1B3dlBFSmphenRlRDVMQWkwYllneEhFRlFjc3pQQXJCY3JNZXVTM2xDZ3hFTl80YUJ6Umk2cjk4VVhPMi1NajN1aEhHTFhyU0U5aEN0dlFPRmFVcHfSAbMBQVVfeXFMTjZQY3pJV1JaY1kxS3VjVmc4VzloTHd5TjR6NVdHM0I1cTFQdDBfNDB4NWRxTHdYbS16bXQtMzVtNmdSNjFaNnpreTJUa2hpWnN6Nks2OWtvaVdpQXpDUElrMVUtTF9GQm5ESXdyT1hhQzZtSVNNeFVSWXdnT3NpdWthR3JIdkF6M3FGZUFvajJMLXk0WEJsY013NFZsN3h0Yy1yMXB4SXRLdTEyNF9icjNfNms?oc=5",
@@ -331,6 +321,16 @@
       "source": {
         "name": "Primocanale",
         "url": "https://www.primocanale.it"
+      }
+    },
+    {
+      "id": "18a497ee59bf",
+      "title": "“In un giorno 27 medicine, la salute di troppi anziani è a rischio”: allarme sulle prescrizioni - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRHS0dPS1JJQ2d3V3hIcHJzeHExX0xZNkxNdEFRZU1na3doY2RsU2xSUDk0SXBGVDV1MUZ6UWlEejhIMnBLSWtaSms1ZDdweXZTaVp2YzFWYzhEVHlOTzJoMHhxa2NiSGg4V2RZOHFEeEZHRHdGYkNRTFFhNWJnaXVDbE1ha1dMYlliTzI1VGVJMkxPMTJhZtIBngFBVV95cUxQTkFSWFNkanpNbU9wWmY1TjFPS00yNW8zVDgzX2R2TjFBV1JBbW1Cd0pBQzB4WkhNYzFuNlhKS3VEbGh3LWhETVNXZkc1dW9MYk05dDlzcW50VHpseHV1Tk9MZ2VNQkEyV3l6UnhOQTFMQTBiV2FjVU1pN19DZVJqcWJ5em03TU9QeXlLWTc4VlpEcmpoVGZxQkRsZHg4Zw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
       }
     },
     {
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "b9262f42f478",
-      "title": "Farmaci “pensati” per gli uomini: perché nelle donne possono funzionare diversamente - Qui Salute Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NDZvVXdqMXJzYmg4UjlkcU9idUpreXZ0dmlmbVRCVkZid0VJOWMyQ05ndHdUUi10YTl2MEp3UTNraGpZQjZYYmdPdmMxcldUd3d6RlBxSk5PTmp0TThSRDUxT3hyWkg3MDhvNkxUSTN0MFB3Q2c?oc=5",
-      "published": "2026-04-02T14:55:00+00:00",
-      "source": {
-        "name": "Qui Salute Magazine",
-        "url": "https://quisalute.online"
-      }
-    },
-    {
       "id": "f5b87fc2ba0d",
       "title": "Produttori, depositari e grossisti - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
@@ -451,6 +441,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "b9262f42f478",
+      "title": "Farmaci “pensati” per gli uomini: perché nelle donne possono funzionare diversamente - Qui Salute Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NDZvVXdqMXJzYmg4UjlkcU9idUpreXZ0dmlmbVRCVkZid0VJOWMyQ05ndHdUUi10YTl2MEp3UTNraGpZQjZYYmdPdmMxcldUd3d6RlBxSk5PTmp0TThSRDUxT3hyWkg3MDhvNkxUSTN0MFB3Q2c?oc=5",
+      "published": "2026-04-02T14:55:00+00:00",
+      "source": {
+        "name": "Qui Salute Magazine",
+        "url": "https://quisalute.online"
       }
     },
     {
@@ -484,16 +484,6 @@
       }
     },
     {
-      "id": "1b475a7289de",
-      "title": "Salute, Lilt Firenze: “Nuovo farmaco per smettere di fumare in sperimentazione qui da un anno, ecco i risultati” - Città Metropolitana di Firenze",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOa2dJM0I3cEpPNkk0SGEyazVHZWk4RVpsQ04tUEhWeUJGMklpVlpwU2duTF9BTXpDNDROcE5JOGRBZEx0Zml4T2lmY1pEelhpVVZ6OHc3TGE?oc=5",
-      "published": "2026-04-02T10:25:41+00:00",
-      "source": {
-        "name": "Città Metropolitana di Firenze",
-        "url": "http://met.provincia.fi.it"
-      }
-    },
-    {
       "id": "53fe58aa6299",
       "title": "Contributi ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXSnFFOE9BeHR4SEJoOUg5bDlMRjdZazFqWHFEblVTeE5UQXcwdXdPZXdlOFcwVEdrMldtd3RraVJWUnFFQlZNWF9BNUd3S0djVTJaanVKTi1HNDFpTGUteENRRDdKbURCYmV6aUNxakVYRGRfSkk2RkpzREY?oc=5",
@@ -504,16 +494,6 @@
       }
     },
     {
-      "id": "35a070ba43c3",
-      "title": "Farmaci anti-obesità, arriva la nuova pillola Foundayo: sei dosaggi e assunzione senza restrizioni. Ecco come funziona - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUlubHhmMnNGbk1KcmxsVXRQM1haQmlGRElselVRbVA4RFlOeWFVQkdvQkN1T29ZZnlKUHgtVDNKeTVSNEd4VTNna2RxRzNIWlUxNUpxZVFuR1NHd29NUkdhRnhyOGJpTUY5X3RGcjhXcUVqLUNKMFlRc1V6Z1JJY2FUamZsR0x0dEJwZjE0bVpSd2VwMDFqWnZ4d3VtazR1ejNXMjlhaTVDRUV3VTJ5M3dXX3Fsb3d3a2Z6X9IBtgFBVV95cUxPZ2ZvVUJ2U0pyQk4zQUEwTVl4WUxkLUozSGVKMW5pVUo0eDJ2enVOOVlMOUhFQ3VCUVYzRWVwejNtem4wT3NkMmotRXhQRVI5Z1Q1SE51MXh5c0p3VTF6MmNZSFNJa0JtbE53eFV2WkdWOFBCRW1lMFJfT1lpcFNtLUJGZ3RoOWZaa2ZfaWVFNXA0TjR6Nm1UanE5WWRpWGNwZ3d3VTBwNWZvUFFDakF0MmFsM1k2dw?oc=5",
-      "published": "2026-04-02T15:08:23+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "93a952a56c3c",
       "title": "Farmaci. Schillaci: “In Ue no a primato dell’industria su tutela salute” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0djeXJLU2lqbWZXLW05T0lRaHdHUF9iNVlRVHdFOHVmbFV3QXpsejlOMGcwNUNObmEwaF9XTktrcThwWkZvLUhtbWZhT1lyMDl1ZV8wb0RZdEw4QllBbXprX0ZoOVQxVGRtaktmbmoxRVE1dVRGN0RNSkVndGM4dXBnbGVkQkxDQi1kMWZqZFN3WUNkb0Y4Um8yTDNiRTRBN1ZFZUZVcno1SWVEalRic1BHNFdqbFk0dHd3Q1V3?oc=5",
@@ -521,6 +501,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "35a070ba43c3",
+      "title": "Farmaci anti-obesità, arriva la nuova pillola Foundayo: sei dosaggi e assunzione senza restrizioni. Ecco come funziona - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUlubHhmMnNGbk1KcmxsVXRQM1haQmlGRElselVRbVA4RFlOeWFVQkdvQkN1T29ZZnlKUHgtVDNKeTVSNEd4VTNna2RxRzNIWlUxNUpxZVFuR1NHd29NUkdhRnhyOGJpTUY5X3RGcjhXcUVqLUNKMFlRc1V6Z1JJY2FUamZsR0x0dEJwZjE0bVpSd2VwMDFqWnZ4d3VtazR1ejNXMjlhaTVDRUV3VTJ5M3dXX3Fsb3d3a2Z6X9IBtgFBVV95cUxPZ2ZvVUJ2U0pyQk4zQUEwTVl4WUxkLUozSGVKMW5pVUo0eDJ2enVOOVlMOUhFQ3VCUVYzRWVwejNtem4wT3NkMmotRXhQRVI5Z1Q1SE51MXh5c0p3VTF6MmNZSFNJa0JtbE53eFV2WkdWOFBCRW1lMFJfT1lpcFNtLUJGZ3RoOWZaa2ZfaWVFNXA0TjR6Nm1UanE5WWRpWGNwZ3d3VTBwNWZvUFFDakF0MmFsM1k2dw?oc=5",
+      "published": "2026-04-02T15:08:23+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -544,22 +534,12 @@
       }
     },
     {
-      "id": "9280227ef090",
-      "title": "Addio cavie? L’EMA lancia i gruppi di controllo virtuali per i test sui farmaci - Salute Buongiorno",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHV2MWlqM0gwZmUycVJHeVRTUTJuR3IyOGlHRmpQT3dVNkcxenBXeDBPa19JcE5LblJ1N25VZGx2R3JNS05iMnBDak9UbzVzNjRHdnY2N25qSGdBejZpS1hLdGlQb3dOczZJdTVEd3l1aXQ5TFRqQk9TN0tMZGlRY2JpdDAxUVdtcVNWYjZGRXJ6TFZ2YVVIdDBnYmQtMXlFLXZtbHdOejNTSTlGUTlfT2NRTDFtV01hclE?oc=5",
-      "published": "2026-04-03T04:43:40+00:00",
-      "source": {
-        "name": "Salute Buongiorno",
-        "url": "https://www.salutebuongiorno.it"
-      }
-    },
-    {
-      "id": "a3585c25b1d5",
-      "title": "Punto Erogazione Diretta Farmaci Casa della Salute Casalecchio - Azienda USL di Bologna",
+      "id": "99e9ab458dcb",
+      "title": "Punto Erogazione Diretta Farmaci Casa della Salute Casalecchio - ausl.bologna.it",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1pDTmlKZGRhMGhQU3otSkNkYW9QQXR2d2xTM2dkS0xkb3ctdkVnYzVvaXhXYUVHcllWUVlwNU9TUXMtaVFhSlR5MmpCMUNEWGdGSTRlZVo4VWFLUEZZaklGZE52Yk1PN0FrdGNNR2tXRXlOZlJ2Mkd1WVQ1OUhOb2ZlRk5fU293bDVvUWFaUVVTYVRlVDItTEZTOUkwUV9zbE5QTTgtaG5FQWVuNV9QSA?oc=5",
       "published": "2025-08-04T07:29:43+00:00",
       "source": {
-        "name": "Azienda USL di Bologna",
+        "name": "ausl.bologna.it",
         "url": "https://www.ausl.bologna.it"
       }
     },
@@ -574,6 +554,16 @@
       }
     },
     {
+      "id": "9280227ef090",
+      "title": "Addio cavie? L’EMA lancia i gruppi di controllo virtuali per i test sui farmaci - Salute Buongiorno",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHV2MWlqM0gwZmUycVJHeVRTUTJuR3IyOGlHRmpQT3dVNkcxenBXeDBPa19JcE5LblJ1N25VZGx2R3JNS05iMnBDak9UbzVzNjRHdnY2N25qSGdBejZpS1hLdGlQb3dOczZJdTVEd3l1aXQ5TFRqQk9TN0tMZGlRY2JpdDAxUVdtcVNWYjZGRXJ6TFZ2YVVIdDBnYmQtMXlFLXZtbHdOejNTSTlGUTlfT2NRTDFtV01hclE?oc=5",
+      "published": "2026-04-03T04:43:40+00:00",
+      "source": {
+        "name": "Salute Buongiorno",
+        "url": "https://www.salutebuongiorno.it"
+      }
+    },
+    {
       "id": "244bdad2c992",
       "title": "Lombardia. Sequestrati all’aeroporto Malpensa oltre 18mila farmaci potenzialmente dannosi per la Salute pubblica - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT3VUenAtNFFHU1B6dk9ybUhfVnU5ZGFEbHdhU0QwY3Y5SFZYa2loa3VBM3ZtU180NlZSYmxsMjFjekJKWHFTT1RyNkFrZXZYNDdxblBNWEFMT2djLVlSX1lQOC1JUGNPM0l3aG9EVVJZeXIwS1lPSHQ4RUJnQWxRWFV3YUx0azJIZDFoQVZJZU91cWpXMS1DMGVYdjk3QXh1ZlUtR2w5SjJsWWdINGhDTnRVWDBPQWp1WnhZZXZGcUVSbExsdVZfSkxHWS1kSUNwcFp4VHVNay1TNXpJVmZ0RXF2SzlhNjQ?oc=5",
@@ -581,16 +571,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "c0099a8b0f38",
-      "title": "Orologio biologico, l’impatto del bioritmo sui farmaci. “Influenza anche le terapie contro il cancro” - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVVTcVd1eUFyQlFjZ3BqU3FwVTg1b3N4dklEczNaZGtpblE4QTVwa1Q4MkZvRVJUMFowSTViZloyZG80OVRjODZQdGFXSHIwekhXYWp4dUttRGs0dVZQbXJLZUxEblhGSlNucXhHQ2E4NjBmNzAyNnZDa0ZKeWk5bU1nR2JhRG12Y2VLVEJmQlFfNHBVQkdCZWxn?oc=5",
-      "published": "2026-04-04T13:21:17+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -604,6 +584,16 @@
       }
     },
     {
+      "id": "c0099a8b0f38",
+      "title": "Orologio biologico, l’impatto del bioritmo sui farmaci. “Influenza anche le terapie contro il cancro” - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVVTcVd1eUFyQlFjZ3BqU3FwVTg1b3N4dklEczNaZGtpblE4QTVwa1Q4MkZvRVJUMFowSTViZloyZG80OVRjODZQdGFXSHIwekhXYWp4dUttRGs0dVZQbXJLZUxEblhGSlNucXhHQ2E4NjBmNzAyNnZDa0ZKeWk5bU1nR2JhRG12Y2VLVEJmQlFfNHBVQkdCZWxn?oc=5",
+      "published": "2026-04-04T13:21:17+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
+      }
+    },
+    {
       "id": "cd60656c9bf1",
       "title": "Citisina per smettere di fumare? L'esperta:\"È efficace ma non basta per combattere il fenomeno\" - L'Espresso",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFo4aUFaRVJyNnd5MlJzVlRiU00zN0JzM3F2OGtFdmxUZElGZVBkXzc3VlU5Yy14SlpxUVp3dFFwSGhNMGxjWlE5Mmo3bVF4Z08xN09UUFMzMVU4ODVUN21EazBtWmJaMXB2dzZTd2N5VW12OUhNaXVxNU9XMnM1eDhqMDNkYXpvekVSR2dPcnVITjhGWlFSUzVJRG4tbjJkb3dLMUxfQ0hMWjByaExhSC02SWVQSndYeEc3LWNJWnRUWVJVS0E?oc=5",
@@ -614,12 +604,12 @@
       }
     },
     {
-      "id": "cc3e36bd34dd",
-      "title": "Farmaci a rischio: la guerra in Medio Oriente può svuotare farmacie e ospedali - tviweb.it",
+      "id": "978d6e3ee88d",
+      "title": "Farmaci a rischio: la guerra in Medio Oriente può svuotare farmacie e ospedali - TViWeb",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWExUDF1QlIzNlh3STNkcmlGR1p6R25vektuR0kwUmZkRko4dkdTM2dzYkI4Z3ZoMkNxVE1XQk85TWpzd2xPcG83Y2doMXBpNmhxRW4zSWVWc3VsVVNLcEtPSXg1RGUwNWl6R1djTWJ0ZWQ2VzFxOWc3RVdUbVdibURfSUVTLUNIRHp2UVNQUDBzaGhDQnE3OGFNR2VYSHFEQVE?oc=5",
       "published": "2026-04-03T14:53:00+00:00",
       "source": {
-        "name": "tviweb.it",
+        "name": "TViWeb",
         "url": "https://www.tviweb.it"
       }
     },
@@ -654,16 +644,6 @@
       }
     },
     {
-      "id": "a20113ccebd0",
-      "title": "Evento Farmaco accessibile: la rivoluzione gentile della prossimità - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbV91OUxzdWNGWS1xZXB4MnQ2NDNwcGpMdXkwb3pNdEpudkRmSm1VWnRzNV9PcXJNX2FWeUEzcXZUd0JQMTl2WWtpd0RfTjdBUGg4LXNGTkNYMFBQVTRRbnFxZ01hVEgzVjJXY0JKRWtsQlcyelpFVi1DeHFuVVBWQ2FtTGMyVkVvZkFZTlM5YzhRVHpJYTVXOHNjWG5kalIzU3BLU19mamJhMGQ0dEpF?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "885512e014d5",
       "title": "Celiachia - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xSWFyVmZDajM5Uzl4TzVGQTFpaHpJc01IUmFDV19vQnNYV25GYmttYjNoT1FfdnRqak1DbXNOdU1rTjRhWGFDQlJwR2JITWYxUFdoZXZoeDQyQWFpRTQyRDE2cmJoT29ydHc?oc=5",
@@ -674,13 +654,33 @@
       }
     },
     {
-      "id": "ce6f7be475f1",
-      "title": "Farmaci, l’errore che fanno in molti: ecco cosa rischi se non li usi bene - The Wom Healthy",
+      "id": "a20113ccebd0",
+      "title": "Evento Farmaco accessibile: la rivoluzione gentile della prossimità - salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbV91OUxzdWNGWS1xZXB4MnQ2NDNwcGpMdXkwb3pNdEpudkRmSm1VWnRzNV9PcXJNX2FWeUEzcXZUd0JQMTl2WWtpd0RfTjdBUGg4LXNGTkNYMFBQVTRRbnFxZ01hVEgzVjJXY0JKRWtsQlcyelpFVi1DeHFuVVBWQ2FtTGMyVkVvZkFZTlM5YzhRVHpJYTVXOHNjWG5kalIzU3BLU19mamJhMGQ0dEpF?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "source": {
+        "name": "salute.gov.it",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "7ddec892ab5b",
+      "title": "Farmaci, l’errore che fanno in molti: ecco cosa rischi se non li usi bene - healthy.thewom.it",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdLdnl1QVQyanJZNDI5c3FNNGZWYUQzcGttMmYxUlF2QmxYSV9mcS1WVmp4V1dMSTl4RFBBUnRTMWtKMkxPMnJ6WTFINHEtQW11YW5DdVQtLTVseUEtZXI5YXNuV0xHRTJYb0QySW9IWm9yNDlJdkxMSDRSWVJQTnRzdWNvZWotaDNuaWZ1VWVZRDhFdzdmRi01WlJfSGRnOGhMYkdKQnhKcHkzeW1n?oc=5",
       "published": "2026-03-28T07:00:00+00:00",
       "source": {
-        "name": "The Wom Healthy",
+        "name": "healthy.thewom.it",
         "url": "https://healthy.thewom.it"
+      }
+    },
+    {
+      "id": "02ce6473d3b5",
+      "title": "Testo Unico della legislazione farmaceutica - salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTRHaU8wV2xHVDlvLVZjVlFoajZWbV8wTlZUMVFSUU1FNmY2U2J3UnVqTmJJcG9CZ3haYU40aWt4S21fR3ZHbmRfMTVJSTBsSzFrVU9DMlR1NFNwMGZubV9QVG41RzltaEtIaUhGdzBmdVpub1RPYnN5T3ZPWGMxbFhORHB4dTFXQ21XR0ZpTmNlVjA?oc=5",
+      "published": "2025-10-01T08:47:41+00:00",
+      "source": {
+        "name": "salute.gov.it",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -704,12 +704,12 @@
       }
     },
     {
-      "id": "7f4acc06023c",
-      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilfarmacistaonline.it",
+      "id": "12c61df0cdc8",
+      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
       "published": "2026-02-09T08:00:00+00:00",
       "source": {
-        "name": "ilfarmacistaonline.it",
+        "name": "Il Farmacista Online",
         "url": "https://www.ilfarmacistaonline.it"
       }
     },
@@ -721,16 +721,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "a1d7b15887c3",
-      "title": "CAR-T e RNA aprono una nuova era per tumori e malattie rare - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUU4NTFQWS1aLS0wR0ZuTi0yU1d5NUVuSW16Q1RKelNuV2tDNGJ6dEd2U1JGVTBnUDJ4dHhQVmFYZ1JiZmd2SGk1RDZvQVV4NExkUWRqYVhGTWs0akpjNmZLNFE2WnBmRmlTNmVuR010ZkYzZlllVXRDSFVtYWdacF9EODZISkRYMVd0WXhHWmhHcW1ESVkxS0JkSmNoNkE?oc=5",
-      "published": "2026-04-03T11:20:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -754,13 +744,13 @@
       }
     },
     {
-      "id": "65fb29af05a2",
-      "title": "Stop al fumo: cosa funziona davvero oggi per smettere - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS015MmN4U3p5TkxKWlN6U05NUmwxNUo5ZFlfZHA1T1VXbkFXQWhlUll4c1dTMGp5dUU0NnVJZjRYY1Q5MDJUeHE1d2lwOHNmTVJjX0hDMVU2SzU5VlpnbWNHdkhYOGVhVjNmTkFtT0lVanhQdGpDeDVXY3lDMnptTTV3d0VCMHpiVHBoa2JWc0w4dDNaQlppSEhmVWdwN0RsOXNFbWtNNnN2bndsWkVxdGZURjNReXBnc1YwRkZmcWNhOXBlOXNTbA?oc=5",
-      "published": "2026-04-02T11:26:51+00:00",
+      "id": "3af24f838d53",
+      "title": "Camerae Sanitatis. La manifattura della salute italiana tra sfide, resilienza e opportunità - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJtSVhBcFphTldTTHBnRS1HRFV0R3p1dHNzMUY0Q09LTXBVa3RpaFJxWGhCa21PRjNuSEUtZ1FJcnpOd3FGZ05VQ1NYSVJwYThXT3Z1alFqakFPazhKeWFUUHl3SmJBTHRPN0ItTU5uNDNzZTF5VWxaSXZXbnRwMkVnQVhhcEpEanpEdGo2c2hwOEhFZEZWZ3lUWnRHQ3N1QUFSMUVNU2FWSVprcGxSalRQZm1PUTRNcXRfZnNXMUsyLUdxbmUtUEw2VThqRXphLXNxUkZn?oc=5",
+      "published": "2025-12-12T08:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
-        "url": "https://it.euronews.com"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -774,6 +764,16 @@
       }
     },
     {
+      "id": "65fb29af05a2",
+      "title": "Stop al fumo: cosa funziona davvero oggi per smettere - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS015MmN4U3p5TkxKWlN6U05NUmwxNUo5ZFlfZHA1T1VXbkFXQWhlUll4c1dTMGp5dUU0NnVJZjRYY1Q5MDJUeHE1d2lwOHNmTVJjX0hDMVU2SzU5VlpnbWNHdkhYOGVhVjNmTkFtT0lVanhQdGpDeDVXY3lDMnptTTV3d0VCMHpiVHBoa2JWc0w4dDNaQlppSEhmVWdwN0RsOXNFbWtNNnN2bndsWkVxdGZURjNReXBnc1YwRkZmcWNhOXBlOXNTbA?oc=5",
+      "published": "2026-04-02T11:26:51+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
+      }
+    },
+    {
       "id": "7e914ce365a4",
       "title": "Nuovo studio: i farmaci anti-obesità migliorano la salute del cuore - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVkRHTEYtbllFcC1ldU11YVFJWjVQbnZmQWRCdjRNMzFUTTBfYVNPMHpKTGMtcWNSZE50U3NFM2ZjZElNMmFITnBYOWZnNUFJOGU5SmFSc2x4MTltdlozMmhnSjFwNmlQREZhT3ZhYTBJM3pVYTJQSVZHWXpBRml5QjRuY0FtVHhteTJoay1YSkxPOWFtcU1pTHlsbVUyWEk3ZVF3YWVSZklBNXA0cXFFZ0YtdEtzem1VX25qbG04UmNMMHJPaDRrNDFmdUM?oc=5",
@@ -781,16 +781,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "3af24f838d53",
-      "title": "Camerae Sanitatis. La manifattura della salute italiana tra sfide, resilienza e opportunità - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJtSVhBcFphTldTTHBnRS1HRFV0R3p1dHNzMUY0Q09LTXBVa3RpaFJxWGhCa21PRjNuSEUtZ1FJcnpOd3FGZ05VQ1NYSVJwYThXT3Z1alFqakFPazhKeWFUUHl3SmJBTHRPN0ItTU5uNDNzZTF5VWxaSXZXbnRwMkVnQVhhcEpEanpEdGo2c2hwOEhFZEZWZ3lUWnRHQ3N1QUFSMUVNU2FWSVprcGxSalRQZm1PUTRNcXRfZnNXMUsyLUdxbmUtUEw2VThqRXphLXNxUkZn?oc=5",
-      "published": "2025-12-12T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -834,6 +824,16 @@
       }
     },
     {
+      "id": "eb28dd9a8040",
+      "title": "Farmaci orfani e test genetici: in Puglia nasce il progetto da 8,5 che ridà speranza ai malati rari - FoggiaToday",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbFpUeVhKRFJFVzVSTHZlNEYxNWhhLWkxeXNEd0VEZThOV3A2akdmT2liY0FvVTRpX0VIcThXdklUcnR0bFpOcnpETVlSbmNSMFhGUloyb1dwQWtNektzUU9lMkU0NmU1VDF5SXYzbVVZOTVnNHlaQkNLN1VjcHc?oc=5",
+      "published": "2026-03-17T07:00:00+00:00",
+      "source": {
+        "name": "FoggiaToday",
+        "url": "https://www.foggiatoday.it"
+      }
+    },
+    {
       "id": "4fb9b7a8536c",
       "title": "Farmaci nelle RSA: troppi errori nella somministrazione - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1hjaHZwY1JGYkNGVFk5eTlBdFBXakFPX1BiNklOMXl2VUF1dmZtd3JocGhTNy1CZXZrc29zR0RrRE9ZSGJaUzN6Q2ZmYlV2TjlLRzdxTURMZXg4ZjU5bHZUMkpwUVM3MzQyNlV1STM3NUQtN1NqSkF6TzJIdERRVDFMU04wQ1F1dmlMNlpoQnk?oc=5",
@@ -861,16 +861,6 @@
       "source": {
         "name": "careonline.it",
         "url": "https://careonline.it"
-      }
-    },
-    {
-      "id": "a15631b3a276",
-      "title": "Allergia 2026: perché quest’anno è peggio del solito ed alcuni rimedi - greenMe",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdqS1M5eDEyeW9BV2JTVGphWUVVdG9ENVRFeGdCdjdHSDY3U3kxbmt4VThQa0YtMDFEMlBYTnROcVMyNzJvRWdaV2dRSnh4dkg0LUppRWhBQk05NjJRZTEtV0RmZThvTHlNNDJXUEVEcS1GYWUzalZ3Y3RzaEY5Umh4UzVJWEJSN255a29pM3RKcloyMUhmTUE0cWlqc0hvcXd3QTItZ2NzRGo4VHM4WmJLcWRxMWV2SmNWdEt3?oc=5",
-      "published": "2026-04-06T05:34:43+00:00",
-      "source": {
-        "name": "greenMe",
-        "url": "https://www.greenme.it"
       }
     },
     {
@@ -924,12 +914,12 @@
       }
     },
     {
-      "id": "d77a47d237ce",
-      "title": "Farmaci anti-obesità: rapido recupero del peso e peggioramento della salute dopo l’interruzione del trattamento - ilsole24ore.com",
+      "id": "5275f2ab2c99",
+      "title": "Farmaci anti-obesità: rapido recupero del peso e peggioramento della salute dopo l’interruzione del trattamento - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGN5WjlWdk1SUDZtLVFWb1l2NHluc2M2dnRISjJZRkNjQWN3R0taM21KR05CaF9Kd0xkQU5iakRibG5DRjBaeENvRERqWTllajhUYnJqVVlQSWhRR2M5UjB0dmI3el95Y0tKbHA5THlZMkFWNHBYdHlob21pR3Z0aGptdmFUcVJPSEdsOXVtMUxpVTRFdlpxYTYwWjY2cXUzLTIwYXZ1U0pHX0F6NE9uQlJYZnpwcHR2Y0xOd2JIWkFfMWM?oc=5",
       "published": "2026-01-08T08:00:00+00:00",
       "source": {
-        "name": "ilsole24ore.com",
+        "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
       }
     },
@@ -954,12 +944,12 @@
       }
     },
     {
-      "id": "48f959856e5c",
-      "title": "Salute e dimagrimento, scatta il divieto per la paroxetina e altri farmaci Ssri - The Wom Healthy",
+      "id": "c83a5c996cfd",
+      "title": "Salute e dimagrimento, scatta il divieto per la paroxetina e altri farmaci Ssri - healthy.thewom.it",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUx0U2REekpMQjdhSkZoM0dGRExJTDBQV0JkYzFPWk1qZ09IY3VmSWdPVURlS2VCUlc5RUcydnZVY1B1TUNHaE93a3dQbVpGTzhjTjFpVnlXRUVIUW0xcWtVQ0Q2eFZ4NVNOZDFnY0dGbTQwaUNyeExzcjFvclo2VmdR?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "The Wom Healthy",
+        "name": "healthy.thewom.it",
         "url": "https://healthy.thewom.it"
       }
     },
@@ -994,13 +984,23 @@
       }
     },
     {
-      "id": "f042991a49ee",
-      "title": "Farmaci essenziali sempre più scarsi: la Corte UE avverte sulle falle del sistema - ilsole24ore.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUJLLVBjd2VRdlhQNF9Cb0x6aWpOcFc4N1U4YjBDdmRNVGFmOERfLUlIQ000VlJaVEhjNThxSUxtblFSeEFlTFI2TDdUVFZSbE5WWVhwcG9WMnRBSGMxT3IwNnlhdzRCWXhTLXFNcHNyWmxxYnYxYXU2M0I2eDdrNlNCVDkzVnFTVE5oOWNJNWIzNUp1ODhCbUFIUTNPcjVsQ2VlWVBzMFM2bTFD?oc=5",
-      "published": "2025-12-04T08:00:00+00:00",
+      "id": "da03b38b2b6b",
+      "title": "Il contributo delle farmacie alla salute del cuore - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlpXT2FPR1lXa1FDVzR0cE1xSVI3SGgtUFIzdGQxOUdIZU1lRVVrWEp1eGloQUNEa19LclNOV3RsUHAyenF0Z01QZEgzYXVRN2VCNmc5dS14OHk0S0txazA2M1VZRzU5azU5Ny1ISFowNTJla2tOTWdMZ3ZKUENqOTZJdVZlQQ?oc=5",
+      "published": "2025-09-25T07:00:00+00:00",
       "source": {
-        "name": "ilsole24ore.com",
-        "url": "https://www.ilsole24ore.com"
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "a15631b3a276",
+      "title": "Allergia 2026: perché quest’anno è peggio del solito ed alcuni rimedi - greenMe",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdqS1M5eDEyeW9BV2JTVGphWUVVdG9ENVRFeGdCdjdHSDY3U3kxbmt4VThQa0YtMDFEMlBYTnROcVMyNzJvRWdaV2dRSnh4dkg0LUppRWhBQk05NjJRZTEtV0RmZThvTHlNNDJXUEVEcS1GYWUzalZ3Y3RzaEY5Umh4UzVJWEJSN255a29pM3RKcloyMUhmTUE0cWlqc0hvcXd3QTItZ2NzRGo4VHM4WmJLcWRxMWV2SmNWdEt3?oc=5",
+      "published": "2026-04-06T05:34:43+00:00",
+      "source": {
+        "name": "greenMe",
+        "url": "https://www.greenme.it"
       }
     }
   ]
