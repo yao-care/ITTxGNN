@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T19:14:33.446818+00:00",
+  "fetched_at": "2026-04-08T20:33:19.462271+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -31,6 +31,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "706831293c7c",
+      "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
+      "published": "2026-04-07T23:14:00+00:00",
+      "source": {
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -94,16 +104,6 @@
       }
     },
     {
-      "id": "2ca872035559",
-      "title": "È vero che la berberina fa dimagrire come i farmaci? - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVQ1MHJyV3VxUC1qM21MajIxREZlNEI0M19laHlwRzJJb1NpeENtemZZSExLaTg5WHR0UnVuaDRHNHpBQkhxN1hrSENlSHVLMThXNlpfeEFfbUZoZWQycHJsb0ptS2VQNWlpd1NSZXBNWnhuVmxJbm9mMTdDazd1eGNjeklwVUVCbmQ3dFlVZFRWTS1hY0x0d01YR2pxeldXdThxSWJhYVZJRGJJSEpLc1U4SEsxeGl6SGFXdWFjS1pGc3NrOFdzalhJTkLSAdIBQVVfeXFMTV9VVHdrRm9lR2VZaUdxdktfSnhlVWJJOFZBR1pJLXo4dHNfc1U1YlVTZkZlUi1LQXVUMmlHTjRXWENvSlEyaWhFaFlmZHZBVk1kVlBhOUF0RTc2V1JmRmcxbDRxcTZWQl9JM3ptOTRMcy1MS3B1VEJVdTJBVVFDdWlHbldrckYtcVRnSUNWTEtDUENHVXR5QWx1SzFyb0NjaWpoMzBRMHNhemlYZWJMMXY4dlNnVG9UbzdTelRxSlFmakVmRVc3aUZUVDZsalpFX3ZR?oc=5",
-      "published": "2026-04-08T14:33:26+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "30daebc26e3a",
       "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
@@ -121,6 +121,26 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "2ca872035559",
+      "title": "È vero che la berberina fa dimagrire come i farmaci? - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVQ1MHJyV3VxUC1qM21MajIxREZlNEI0M19laHlwRzJJb1NpeENtemZZSExLaTg5WHR0UnVuaDRHNHpBQkhxN1hrSENlSHVLMThXNlpfeEFfbUZoZWQycHJsb0ptS2VQNWlpd1NSZXBNWnhuVmxJbm9mMTdDazd1eGNjeklwVUVCbmQ3dFlVZFRWTS1hY0x0d01YR2pxeldXdThxSWJhYVZJRGJJSEpLc1U4SEsxeGl6SGFXdWFjS1pGc3NrOFdzalhJTkLSAdIBQVVfeXFMTV9VVHdrRm9lR2VZaUdxdktfSnhlVWJJOFZBR1pJLXo4dHNfc1U1YlVTZkZlUi1LQXVUMmlHTjRXWENvSlEyaWhFaFlmZHZBVk1kVlBhOUF0RTc2V1JmRmcxbDRxcTZWQl9JM3ptOTRMcy1MS3B1VEJVdTJBVVFDdWlHbldrckYtcVRnSUNWTEtDUENHVXR5QWx1SzFyb0NjaWpoMzBRMHNhemlYZWJMMXY4dlNnVG9UbzdTelRxSlFmakVmRVc3aUZUVDZsalpFX3ZR?oc=5",
+      "published": "2026-04-08T14:33:26+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "ed1d99ae347d",
+      "title": "Ecco il nuovo robot della Farmacia della Città della Salute: prepara le terapie oncologiche - Il Torinese",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzUxZ2tacUhvaWI5UkxpZndBZjVSeGJvT3RzNzV6cC1qcEcyZFNldGVTanV6anA4dTd2VmhHRURNbzZLeVZCNGtPZzJCZ2FxRjkyMWJ6UEhUSUI5OGVYYWk4RXBMaGxNQXVsR240eFN6LVVkOVdSQkxoX2tiRnpoN3FrZFFYLXlOdEVISFZsWUI1NXpnbDY5UFYtZ1BBMV9yTTByMnpwX2RGNWFGbERxZXdUcmpubGJzWHA2eE9wUFlIQQ?oc=5",
+      "published": "2026-04-08T18:16:57+00:00",
+      "source": {
+        "name": "Il Torinese",
+        "url": "https://iltorinese.it"
       }
     },
     {
@@ -151,16 +171,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "ed1d99ae347d",
-      "title": "Ecco il nuovo robot della Farmacia della Città della Salute: prepara le terapie oncologiche - Il Torinese",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzUxZ2tacUhvaWI5UkxpZndBZjVSeGJvT3RzNzV6cC1qcEcyZFNldGVTanV6anA4dTd2VmhHRURNbzZLeVZCNGtPZzJCZ2FxRjkyMWJ6UEhUSUI5OGVYYWk4RXBMaGxNQXVsR240eFN6LVVkOVdSQkxoX2tiRnpoN3FrZFFYLXlOdEVISFZsWUI1NXpnbDY5UFYtZ1BBMV9yTTByMnpwX2RGNWFGbERxZXdUcmpubGJzWHA2eE9wUFlIQQ?oc=5",
-      "published": "2026-04-08T18:16:57+00:00",
-      "source": {
-        "name": "Il Torinese",
-        "url": "https://iltorinese.it"
       }
     },
     {
@@ -234,16 +244,6 @@
       }
     },
     {
-      "id": "6bedc664f6f4",
-      "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
-      "published": "2026-04-03T11:33:19+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "8d74d19ccf17",
       "title": "Lucia Avanzini: “In farmacia controlliamo le terapie, i costi e la loro efficacia” - La Stampa",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlNhUDRKYzQ1cExFN2VKaVFHeV95WDRIcVN2bGVsLWxROFNSMjZHYi1TV0dLZ1I0djJvTnRqS1pMamRhR2I5clBheFNDX1h2M0lXQ3hkSFpFMWV5Q2swWE5YSlU3RWktQTlYQXV4ak5rY3lXSFlDN1Rld3NQbXo2Ync5MFhBUEVLS3RKREtJbV9TZGRfdks0Y05ySFIxNzRyTm1fbTctTVFlSzZFRHhuWkRDTDJKS2ZlX2MtUlZsR0FqN2NPel9XRm92cHpIZEM0R2dlU09ZRm44WlV6Q1A5RNIB1gFBVV95cUxNc3RlcFZoTXMtaG5XNXJMTEdDdHNCVWRiNmRXb2haMHZjUUROWXRlTDBkRGlXd24tQkxZdXVpRGtOUjNuSGhHaW5ZS1B5R1YxRFRwWGFoQU50cHZacVJ1R3hMMVB1c2tLSzhMeUZfSkdYNW03eGNzczhYNmNJSTFSazBQZnBUem9OTE5TVnhRd3hxNEZ3d1RTWW9Zcll0a0tXODdCdmVBRmtldm9kQXJ2Si1yQzhuZUdTVTRjUG5mRHpHZ0p0d2h1dk5ucUg2SWwxU0xOMUVn?oc=5",
@@ -294,23 +294,33 @@
       }
     },
     {
-      "id": "097ac90a7f92",
-      "title": "Presentato il nuovo robot della Farmacia ospedaliera della Città della Salute e della Scienza di Torino E’ stato presentato l’innovativo sistema robotico della Farmacia ospedaliera della Città della Salute e della Scienza di Torino. E’ parte integrante dell’Hub O - primatorino.it",
+      "id": "6dba2e5b3920",
+      "title": "Presentato il nuovo robot della Farmacia ospedaliera della Città della Salute e della Scienza di Torino E’ stato presentato l’innovativo sistema robotico della Farmacia ospedaliera della Città della Salute e della Scienza di Torino. E’ parte integrante dell’Hub O - Prima Torino",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPODJmVkw2eUJLcUVFdVdxSC1RZk1kU28teDlJcmZaakpuRkltcTZSbVVBZ2drZk9JTDZNQVB2YTdaQkdNN2k5SnFHTDkxUTdQQWEwSHRKRGJ3U09nTER2SDU2S1FkZ3l1NUp3a3NiTnlyTnZpSXBmdFlnNzlWTmdtMVV1ZzNQazRoWmxUaTRGMTA3dUpoZHNmSHlpLW5GQXh1MHh4WUhLMGE0djJvejB0aFV3Q0dVRTBicjBrc3FwQkREcmpsV3I0azUzSDliOUEwZmxlQ05iNHgzaExYWFZrMUJoeDNINmdhT0JIbEhqaU9kUDg2QV9EY1ZsUHIwbjJtS1dhc1F4Z3BMS0RJZnZZN0pMd2J5aXBJX255QXdLcw?oc=5",
       "published": "2026-04-08T09:42:24+00:00",
       "source": {
-        "name": "primatorino.it",
+        "name": "Prima Torino",
         "url": "https://primatorino.it"
       }
     },
     {
-      "id": "9afddff4e5b9",
-      "title": "Il collasso sanitario della Striscia continua: «Stiamo finendo tutti i farmaci» - Il Manifesto",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFZBaFZ0dTVfdTZqRUxPbHloR1JqdEJVTUk2VmgxYXc2T3poLWNKbWlsNWZrYlVsQzR0NzlHWkZTUldNb185U1VNWHUyTi14VFA0MFpERjJKOUE0MnhmLWp5ZmMtVGhYWHhnUkVfSEZZQzJISXVzcWJUS3FzM2hCalBiVzRTZ0UxV3kwLU0tOFA0b3A5YmhOMzQweG4ybVlp?oc=5",
-      "published": "2026-04-07T22:13:30+00:00",
+      "id": "e0c67751518c",
+      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
+      "published": "2026-03-27T13:15:36+00:00",
       "source": {
-        "name": "Il Manifesto",
-        "url": "https://ilmanifesto.it"
+        "name": "salute.gov.it",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "cb9483f89972",
+      "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - VareseNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
+      "published": "2026-04-04T12:42:59+00:00",
+      "source": {
+        "name": "VareseNews",
+        "url": "https://www.varesenews.it"
       }
     },
     {
@@ -334,23 +344,13 @@
       }
     },
     {
-      "id": "e0c67751518c",
-      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
-      "published": "2026-03-27T13:15:36+00:00",
+      "id": "c6c9eb53dcc8",
+      "title": "Il collasso sanitario della Striscia continua: «Stiamo finendo tutti i farmaci» - ilmanifesto.it",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFZBaFZ0dTVfdTZqRUxPbHloR1JqdEJVTUk2VmgxYXc2T3poLWNKbWlsNWZrYlVsQzR0NzlHWkZTUldNb185U1VNWHUyTi14VFA0MFpERjJKOUE0MnhmLWp5ZmMtVGhYWHhnUkVfSEZZQzJISXVzcWJUS3FzM2hCalBiVzRTZ0UxV3kwLU0tOFA0b3A5YmhOMzQweG4ybVlp?oc=5",
+      "published": "2026-04-07T22:13:30+00:00",
       "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "44e855d166db",
-      "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - varesenews.it",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
-      "published": "2026-04-04T12:42:59+00:00",
-      "source": {
-        "name": "varesenews.it",
-        "url": "https://www.varesenews.it"
+        "name": "ilmanifesto.it",
+        "url": "https://ilmanifesto.it"
       }
     },
     {
@@ -384,6 +384,16 @@
       }
     },
     {
+      "id": "6bedc664f6f4",
+      "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
+      "published": "2026-04-03T11:33:19+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
       "id": "7de54df9918a",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -404,16 +414,6 @@
       }
     },
     {
-      "id": "baf9044c5f7b",
-      "title": "Tumori, al San Martino la produzione di un nuovo radiofarmaco per la diagnosi - GenovaToday",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0tUTkR2dWZRWUlOcnJHRVVQWjhtaDd1Xy1sR1lSaTdXX0liTnhrZHotMU1xaG4wal9RblRXTF9IREw0a0FvOUt2ZzAwRFE0R1VyQTZiYlVZbVFuLWdVU1hlTzhsUmhsM1dCb0txZU4zaWU5WEtLZ2JqVldFOW9hM2JsTHRnZk5DWGNsWU8yaHhWN3JJ?oc=5",
-      "published": "2026-04-08T12:25:23+00:00",
-      "source": {
-        "name": "GenovaToday",
-        "url": "https://www.genovatoday.it"
-      }
-    },
-    {
       "id": "4171f29e8bc8",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -421,6 +421,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "baf9044c5f7b",
+      "title": "Tumori, al San Martino la produzione di un nuovo radiofarmaco per la diagnosi - GenovaToday",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0tUTkR2dWZRWUlOcnJHRVVQWjhtaDd1Xy1sR1lSaTdXX0liTnhrZHotMU1xaG4wal9RblRXTF9IREw0a0FvOUt2ZzAwRFE0R1VyQTZiYlVZbVFuLWdVU1hlTzhsUmhsM1dCb0txZU4zaWU5WEtLZ2JqVldFOW9hM2JsTHRnZk5DWGNsWU8yaHhWN3JJ?oc=5",
+      "published": "2026-04-08T12:25:23+00:00",
+      "source": {
+        "name": "GenovaToday",
+        "url": "https://www.genovatoday.it"
       }
     },
     {
@@ -464,16 +474,6 @@
       }
     },
     {
-      "id": "19c7b5299447",
-      "title": "Vaccini Covid: quanto sono davvero sicuri? Cosa emerge dai dati - Pazienti.it",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1h3X0lfdW9BdTB2Zy1EM1k5WGNyTDlxdGctZFY4Vk1MMGJna3BRVEV6RGdXZ3ZoZ2FYUWtpb0ZzX2ZXVWdwVHg0a3hHMmRXN1p2Ynllb2JQVGotdVg3VWIzbTVsakNVMWltQkRXLXRzZ2NWWWhISGNXXy1VdG1WbjFkU2NsNUJrU0JONDI4Zko3Z3ktOWVUSEsxQVlaNTducmpKZHF0ZkF2U1BEX2c?oc=5",
-      "published": "2026-04-08T12:05:00+00:00",
-      "source": {
-        "name": "Pazienti.it",
-        "url": "https://www.pazienti.it"
-      }
-    },
-    {
       "id": "f6746756034f",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -511,6 +511,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "19c7b5299447",
+      "title": "Vaccini Covid: quanto sono davvero sicuri? Cosa emerge dai dati - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1h3X0lfdW9BdTB2Zy1EM1k5WGNyTDlxdGctZFY4Vk1MMGJna3BRVEV6RGdXZ3ZoZ2FYUWtpb0ZzX2ZXVWdwVHg0a3hHMmRXN1p2Ynllb2JQVGotdVg3VWIzbTVsakNVMWltQkRXLXRzZ2NWWWhISGNXXy1VdG1WbjFkU2NsNUJrU0JONDI4Zko3Z3ktOWVUSEsxQVlaNTducmpKZHF0ZkF2U1BEX2c?oc=5",
+      "published": "2026-04-08T12:05:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -584,16 +594,6 @@
       }
     },
     {
-      "id": "911ce9d70a32",
-      "title": "Vaccinazioni del viaggiatore: in Francia progetto pilota amplia il ruolo del farmacista - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQazNkZm5HR0NLQmdLbW5LR0JOTmI2NW8xVTE2bkMtZFhDbU15Mzd2WWpSTWhhSmNLdEMzSVc5bHBiNDJaU2RGejRvczVGTXFzcmxUSmI0SENybW1yZHlVcG9QNllBUzdHdm5UMkVHVFFZb29PQ3pzb25yX2tUTkthTXoyX1dVaDUxVkpnR3BHRUdiV0hrNE1pbHdFNXhoQW4wZ3llOVZGbmhJck1rNUVmbFZCdXg2LW1RR2VlVXNZd1EyeXRSZlREX0RFeTdQc2RabHhwaXd6Zkg1RDNlbGxHRlpPRHpLcmND?oc=5",
-      "published": "2026-04-08T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "f5b87fc2ba0d",
       "title": "Produttori, depositari e grossisti - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
@@ -631,6 +631,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "911ce9d70a32",
+      "title": "Vaccinazioni del viaggiatore: in Francia progetto pilota amplia il ruolo del farmacista - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQazNkZm5HR0NLQmdLbW5LR0JOTmI2NW8xVTE2bkMtZFhDbU15Mzd2WWpSTWhhSmNLdEMzSVc5bHBiNDJaU2RGejRvczVGTXFzcmxUSmI0SENybW1yZHlVcG9QNllBUzdHdm5UMkVHVFFZb29PQ3pzb25yX2tUTkthTXoyX1dVaDUxVkpnR3BHRUdiV0hrNE1pbHdFNXhoQW4wZ3llOVZGbmhJck1rNUVmbFZCdXg2LW1RR2VlVXNZd1EyeXRSZlREX0RFeTdQc2RabHhwaXd6Zkg1RDNlbGxHRlpPRHpLcmND?oc=5",
+      "published": "2026-04-08T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -764,13 +774,13 @@
       }
     },
     {
-      "id": "d3ffd42ad3b5",
-      "title": "TrumpRx fa davvero risparmiare sui farmaci? - Startmag",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybmJ5TkpDOTNZaWRUZkRYckxkd2o5VExDRDNHYngyOEJtVXhncy05b3J3cFVzX1dndl93cTNhbVNPUGF0MFpTdlc4cnQ3NS13Q2Y1OUdVYnVEcHVjbjJyYkNIMlFuUWFqNDBtbFhLOXo5QXFCLTFnT1o3QUhYNFE?oc=5",
-      "published": "2026-04-06T05:24:00+00:00",
+      "id": "98685ecd1665",
+      "title": "Giornata delle malattie rare, quattro nuovi farmaci approvati da Aifa - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFEyR0hfMlpjZkZiakVJQ2swRmR2WVNENmEzS29sRVpwOWxTVllIWUJHYWJJOUpyc1pRMW9zNVBkb3BwcVNrblM3eWNvdWQ1VXBNdGhZam1NeWZLMlpwcGhVV1AzS2lGTEtRMGFCYThMcUIyOXVRWEsxY194YVppSFJFREJCcUxLUHBTcW93?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
       "source": {
-        "name": "Startmag",
-        "url": "https://www.startmag.it"
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -784,13 +794,13 @@
       }
     },
     {
-      "id": "98685ecd1665",
-      "title": "Giornata delle malattie rare, quattro nuovi farmaci approvati da Aifa - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFEyR0hfMlpjZkZiakVJQ2swRmR2WVNENmEzS29sRVpwOWxTVllIWUJHYWJJOUpyc1pRMW9zNVBkb3BwcVNrblM3eWNvdWQ1VXBNdGhZam1NeWZLMlpwcGhVV1AzS2lGTEtRMGFCYThMcUIyOXVRWEsxY194YVppSFJFREJCcUxLUHBTcW93?oc=5",
-      "published": "2026-02-28T08:00:00+00:00",
+      "id": "d3ffd42ad3b5",
+      "title": "TrumpRx fa davvero risparmiare sui farmaci? - Startmag",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybmJ5TkpDOTNZaWRUZkRYckxkd2o5VExDRDNHYngyOEJtVXhncy05b3J3cFVzX1dndl93cTNhbVNPUGF0MFpTdlc4cnQ3NS13Q2Y1OUdVYnVEcHVjbjJyYkNIMlFuUWFqNDBtbFhLOXo5QXFCLTFnT1o3QUhYNFE?oc=5",
+      "published": "2026-04-06T05:24:00+00:00",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
+        "name": "Startmag",
+        "url": "https://www.startmag.it"
       }
     },
     {
@@ -834,12 +844,12 @@
       }
     },
     {
-      "id": "4253237de0c8",
-      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - Il Manifesto",
+      "id": "29d733edfe67",
+      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - ilmanifesto.it",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEpEdklEbkF3MDk4T0lEaUVYZ2pNdUtpYkNrVi0yMUlBMVIxNkQzMmVJek53Q1RJZDRIX193Y1JhYU9abTV4bWMwa2xycnp2azNJX2NuellaQVJIUS01NDk4LWQ2Rk1kSndfVC0yWTF6cERpR1FDZ2FvMWZhTHAzUkdBaUZQTzZI?oc=5",
       "published": "2026-02-13T08:00:00+00:00",
       "source": {
-        "name": "Il Manifesto",
+        "name": "ilmanifesto.it",
         "url": "https://ilmanifesto.it"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "63f530495da3",
-      "title": "Quali farmaci possono essere pubblicizzati - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG55bjBkcHZaQXFqNXo5MG5TU0JBNzdlYS1lLTBfWVBONlNHNUMtemxqb0R6cjJGeGVPS2hwTTJYZnhFR0c1dFpQVEwwRC15MmQ1WFFDeVZqdTJUXzhVbExpNG9CVXlWeU4wLTZMSjVsSlN3ZWZEZGNvZFNvRlhnelZJZ3dxQmM0XzlOT2YxV3ZVQkJVTTJ0OGRJRDRxbEFkSmk4YkxPQnVwbTRTcU4xRVZVdWdDNE0?oc=5",
-      "published": "2025-06-20T16:01:31+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
       }
     }
   ]
