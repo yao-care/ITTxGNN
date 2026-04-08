@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-04-08T11:54:50.578014+00:00",
+  "fetched_at": "2026-04-08T12:57:32.607955+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "565e5fc4bdb9",
-      "title": "Distrofia di Duchenne, un veicolo intelligente porta i farmaci dove servono - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUU9zX1JjTDlyMFZBcVhsYUNHQU5oblQxc0NlZTNwLUNwTGMtYV8wNDBXbURaOVFXOUNabUxDYy1MaExINlpFbGFORVk0SUp0RlRzanhGbGltSzR4WVB2bnlxUjZrSmRNYWNTTVJFbldvT0trcm5pMFFBSjVtTlQ1MG5Qc3k1ZHhjdHlSdUM1ZkMyLUpXdW5GVW9HS1gtNEFSWFZQYjZGUW5iMzlUR2pxcDlRX1pTY0lMLW1hM1FieGtqbXVRa3VnMDNzcnRGRnlyekhCYTZ4dE5hZkl0QlFqN2xR0gHnAUFVX3lxTE1lNFRLYjRNTG5ITFc0dUtlNXVlWG9DX0VCLXJHYTlVWW9rSW43bWZ2dmszVnVUajBhSWtsZTlrbHdPOU9XS0tnbEo3YTFwMjc3M2NPS3Q1Mngwdk9DVnZ1QlJsMlpsa1IyeUhEMm5VT1N6YXpqSENuT3VNMGVCTEo2N1lvQWZUVGQyWVgxQ1lRUF9JSU9USEpBdTNTQ2ZkbFF1b2hSMWctU3VJcl9BcTAyTGRlOTRLTWVqVWs3RDl5MUUzTENFUERodDBDUEhodkNyNHBDSGR6X2RReFNFYThxQzZMWEh2NA?oc=5",
-      "published": "2026-04-08T10:21:47+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
     {
       "id": "5442559ec9a7",
       "title": "C'è un robot per i farmaci oncologici della Città della salute di Torino - ANSA",
@@ -21,6 +11,16 @@
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it"
+      }
+    },
+    {
+      "id": "565e5fc4bdb9",
+      "title": "Distrofia di Duchenne, un veicolo intelligente porta i farmaci dove servono - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUU9zX1JjTDlyMFZBcVhsYUNHQU5oblQxc0NlZTNwLUNwTGMtYV8wNDBXbURaOVFXOUNabUxDYy1MaExINlpFbGFORVk0SUp0RlRzanhGbGltSzR4WVB2bnlxUjZrSmRNYWNTTVJFbldvT0trcm5pMFFBSjVtTlQ1MG5Qc3k1ZHhjdHlSdUM1ZkMyLUpXdW5GVW9HS1gtNEFSWFZQYjZGUW5iMzlUR2pxcDlRX1pTY0lMLW1hM1FieGtqbXVRa3VnMDNzcnRGRnlyekhCYTZ4dE5hZkl0QlFqN2xR0gHnAUFVX3lxTE1lNFRLYjRNTG5ITFc0dUtlNXVlWG9DX0VCLXJHYTlVWW9rSW43bWZ2dmszVnVUajBhSWtsZTlrbHdPOU9XS0tnbEo3YTFwMjc3M2NPS3Q1Mngwdk9DVnZ1QlJsMlpsa1IyeUhEMm5VT1N6YXpqSENuT3VNMGVCTEo2N1lvQWZUVGQyWVgxQ1lRUF9JSU9USEpBdTNTQ2ZkbFF1b2hSMWctU3VJcl9BcTAyTGRlOTRLTWVqVWs3RDl5MUUzTENFUERodDBDUEhodkNyNHBDSGR6X2RReFNFYThxQzZMWEh2NA?oc=5",
+      "published": "2026-04-08T10:21:47+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -74,13 +74,13 @@
       }
     },
     {
-      "id": "d3ffd42ad3b5",
-      "title": "TrumpRx fa davvero risparmiare sui farmaci? - Startmag",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybmJ5TkpDOTNZaWRUZkRYckxkd2o5VExDRDNHYngyOEJtVXhncy05b3J3cFVzX1dndl93cTNhbVNPUGF0MFpTdlc4cnQ3NS13Q2Y1OUdVYnVEcHVjbjJyYkNIMlFuUWFqNDBtbFhLOXo5QXFCLTFnT1o3QUhYNFE?oc=5",
-      "published": "2026-04-06T05:24:00+00:00",
+      "id": "a8b3ab5fcbde",
+      "title": "Prevedere il rischio di Alzheimer a 3 anni: Interceptor e i nuovi farmaci - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQODY1NWQ3N2dfTGxzWW1VclVGZGxmMUhhb2hqbGtmcEFoWXdGWlR0dlRpeXVPQ3p6V2tDVDY0cHBpdW92OWpWNElJMGtHRUc4RXp1TEtGaS1zeUdsNGVMVUQ0MHRIWUlOYzZhYmwwSVc5d1V0TEE2QlZlLXI5TE5ZUEpwWlZGWlVCS1l5a2VKbkVQRWN0VkdxY2dtODI4ZHNVWHRDNkRuUjZUNFlRWnIxQWZvdk9VVHdOOFpXeV9tY2Y?oc=5",
+      "published": "2026-04-08T12:21:37+00:00",
       "source": {
-        "name": "Startmag",
-        "url": "https://www.startmag.it"
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -104,9 +104,9 @@
       }
     },
     {
-      "id": "80d4f6ca1b68",
+      "id": "49ea58fbaaaf",
       "title": "C'è un robot a fare i farmaci oncologici della Città della salute di Torino - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZmFLMU9fVDA4Y0ZGUXdodk5HVkxMa25Wa01tbF9OLVIwZmJZd1dUbzVTb3dfQzFIR2cwZ19hWFpoaGU4Z0VSSk5yM01ja0JUZ3RFb1QyVnRlaVRMZmFHbldfVC1ldUVSZVpYTHhPdVJaTnRtVW1mRVdReURzc09IU19kSW9jM1pGVlBZS1lnWXRUNGotOGQtZG1LdnNLalFqOFRkVHJLWGlsN2hyM1FtZkxTOWszR0g2T0hYTnhhVTgtNEtsbDhEbXRDRXhEdWxkVmdXVXYtb2ZIbVlFbFZnUUFYWEU3RDF5ZE9ycW5yN0JzNEVOQ2llbzlKZnPSAYICQVVfeXFMT2dJNkRHQWxrYWpGMDEwWEItV2RuVzI4WjcxakhtZGJVSDQ1bFl6a1FqVU9KUGNrZk9xV3U3ZDFzVlNzRlFoeTUySm1jTzJBbUcwWkNEZkNIbnB1ZkliTlkwdng3S2ZkME16eE44SUlyTTNqLWhqNGZLcGhpeVRpOTVONVRIc1d2aEdwTEZwLV9WWEJtU25TV3M5SUpTNjZRaHVqRDlMOGJDS0U3dTVBSGZkTjBIaldrZndTUFFsR19aSXFUdktsSU92b1BmNHJlamRJNVIxeDBoVVZFR3dhTjVBZDFVa3ZEeUc5VkNSaWUxZlhobWJCM2xiazRKWFlpTXp3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSWJrbElhekt6eEpZS2sxdk1PeWwxakk3azZzdXZuQ2RmVWIwU09acmc1NFRrZ3NldmlpS3EwNU9MXzlyTlhnR2RWRUZWV3JqN2tiV3VLQi1EZ0wtOV85S1lMeG9CX0pQWHVmVVA5U2dQay05RjFRc3ctSmE0ck1qaWJSaVM1SFhFMS1OWDB6bmZ2ZDhUMm90M3lFUDJ1bndhQnFpMUpfb2JDSEhod0lOVmpuUDhwaG1icG9QaXFCeU5RU01KOTA5SHNmekl0N0Rxc3B4Zm1qVkpEcUs2QzdaamJ4ekVyVm03bnNUSnkyTFlMQkI3TGgybVJ0RjBlckFXTHZBSExSOEdYQVpETmxfZHJCSlXSAZoCQVVfeXFMT2llYkRLZ3AwaE9lblAtYVp6eXU3ZF8zVWpVeWdlUzUzWGdRQ3NCZDkyZ1lKaUxpMEw5Z0w5VmxyVGo1RkRTQW5oSlNVOFQ2eDJKdm1RUHY2VDNFT0NhYWVRbDZTenVZTnNvRkRTVnE3cUVkR3RsdWRsMnlNUnVrZ00xNG9FeWNMUmdYVk5zMTFMcjE5THFQQVBqVlJTaGZzR1JWcGVUSGI0eEVJWGhUODl2MUlnRGE0UGM0UjM3WF8wd2xtRUhYcWJJeDhzTmx1RmhCQ2I1d2hKUG1FS3hXcnMyOVRaT05OMkJhZ1JyRTdVZ0RsZzV0YTYwdmt4VVpJdm9oSkU2WEs4dXdvTUs2bDNadmpmY294djRn?oc=5",
       "published": "2026-04-08T11:08:00+00:00",
       "source": {
         "name": "ANSA",
@@ -154,23 +154,13 @@
       }
     },
     {
-      "id": "43afe3a99476",
-      "title": "Carenze farmaci, la piattaforma europea per il monitoraggio (Esmp) - FarmaciaVirtuale.it",
+      "id": "2550364af52a",
+      "title": "Carenze farmaci, la piattaforma europea per il monitoraggio (Esmp) - farmaciavirtuale.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZURrMVp6T0xTSlJkVDJHbmZEMjhIaU1ydkVldmhlOGc5Q0tnVGhGSFRHc0FBX3lkdVlrQklVY0c3UUw2YWtxOTZsVFJoc18zeFU5cTZ1dDBTclhRNUFXX29VUmtPQ2VWM1BUWkRaUVF4SEpEUWJTdS03VW9HMHVmUElHdGJzdzhtUEhFRUJlZlByYWs0UWpN?oc=5",
       "published": "2026-04-08T02:40:00+00:00",
       "source": {
-        "name": "FarmaciaVirtuale.it",
+        "name": "farmaciavirtuale.it",
         "url": "https://farmaciavirtuale.it"
-      }
-    },
-    {
-      "id": "14d667c64f9f",
-      "title": "Presentato il nuovo robot della Farmacia ospedaliera della Città della Salute e della Scienza di Torino E’ stato presentato l’innovativo sistema robotico della Farmacia ospedaliera della Città della Salute e della Scienza di Torino. E’ parte integrante dell’Hub O - Prima Torino",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVXFFWHM1czMyMWVXbW02MFJmVjNRU1h6bGhueEJHSF9JQjlxZ212NE9DVkVIdzZfcFoxX0dZaHFtdHlULTRwbV9rbC1SdE1qZ1U0VEd3UDZYMlQ5LTFMU1Y3MmRwTk9Va3lLaWc1MkR1akZFNHFtd204RmFyNGJOSkVRdlI1U1hnOWlwRkVxNVhST2lTYi1BRlFlVWxTVzI0YzV1eXZmaXZaVS1mT29IVVBCdVV6ZXpvdUNWSTdYeXZoeV9nOW16clcxNEtmYUJxZmo3Z0d3eVU4bDVlbng0cXlSaEpOUEtHOGF2Z0tfbDlWdmUxbXpCaXV5dXYxekFfTGdWbUpDQzF3TkFqTkE0dnNOSU55NmtOc0kyNG9idENjeFJUcHJOUjA0aFhqczBudk1zXzY0MA?oc=5",
-      "published": "2026-04-08T09:42:24+00:00",
-      "source": {
-        "name": "Prima Torino",
-        "url": "https://primatorino.it"
       }
     },
     {
@@ -181,6 +171,16 @@
       "source": {
         "name": "Il Manifesto",
         "url": "https://ilmanifesto.it"
+      }
+    },
+    {
+      "id": "14d667c64f9f",
+      "title": "Presentato il nuovo robot della Farmacia ospedaliera della Città della Salute e della Scienza di Torino E’ stato presentato l’innovativo sistema robotico della Farmacia ospedaliera della Città della Salute e della Scienza di Torino. E’ parte integrante dell’Hub O - Prima Torino",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVXFFWHM1czMyMWVXbW02MFJmVjNRU1h6bGhueEJHSF9JQjlxZ212NE9DVkVIdzZfcFoxX0dZaHFtdHlULTRwbV9rbC1SdE1qZ1U0VEd3UDZYMlQ5LTFMU1Y3MmRwTk9Va3lLaWc1MkR1akZFNHFtd204RmFyNGJOSkVRdlI1U1hnOWlwRkVxNVhST2lTYi1BRlFlVWxTVzI0YzV1eXZmaXZaVS1mT29IVVBCdVV6ZXpvdUNWSTdYeXZoeV9nOW16clcxNEtmYUJxZmo3Z0d3eVU4bDVlbng0cXlSaEpOUEtHOGF2Z0tfbDlWdmUxbXpCaXV5dXYxekFfTGdWbUpDQzF3TkFqTkE0dnNOSU55NmtOc0kyNG9idENjeFJUcHJOUjA0aFhqczBudk1zXzY0MA?oc=5",
+      "published": "2026-04-08T09:42:24+00:00",
+      "source": {
+        "name": "Prima Torino",
+        "url": "https://primatorino.it"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "5a5ea8a03827",
-      "title": "Il robot che prepara la chemioterapia: a Torino la sanità entra nel futuro (e riduce gli errori) - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS0l4NnVCSG94RnBRaTZQUE1sZmE5STdRVlRRVVBCTjZxOExXdllIQl8weTgtcGFwMVA4RGtMZ3pvblNobUM5NWxBS2Vpc2VhdjRHTWZ5VjR5UG1DZkJtblJmUURsZnl4cUgteEYwOVJ3Y290cmw1UXMyaFFQYUhtRGdoMlQyVV9NYWxPN01PNzFqNjMtZW1HTzN2SUdqWWFuVXQxVXpsWV9CUXBZNjVra0c0S1hBdFBUS0JaM1NLdy1OVUthZzFJejlpVXZTNWZtejdoUi1HVUowYXBCUjQ2cGdCdTI?oc=5",
-      "published": "2026-04-08T10:53:00+00:00",
-      "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
-      }
-    },
-    {
       "id": "6bedc664f6f4",
       "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
@@ -244,13 +234,33 @@
       }
     },
     {
-      "id": "c4d10d15484d",
-      "title": "Sequestrati farmaci illegali e sospeso un esercizio abusivo della professione medica a Treviso - lapiazzaweb.it",
+      "id": "5a5ea8a03827",
+      "title": "Il robot che prepara la chemioterapia: a Torino la sanità entra nel futuro (e riduce gli errori) - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS0l4NnVCSG94RnBRaTZQUE1sZmE5STdRVlRRVVBCTjZxOExXdllIQl8weTgtcGFwMVA4RGtMZ3pvblNobUM5NWxBS2Vpc2VhdjRHTWZ5VjR5UG1DZkJtblJmUURsZnl4cUgteEYwOVJ3Y290cmw1UXMyaFFQYUhtRGdoMlQyVV9NYWxPN01PNzFqNjMtZW1HTzN2SUdqWWFuVXQxVXpsWV9CUXBZNjVra0c0S1hBdFBUS0JaM1NLdy1OVUthZzFJejlpVXZTNWZtejdoUi1HVUowYXBCUjQ2cGdCdTI?oc=5",
+      "published": "2026-04-08T10:53:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
+      }
+    },
+    {
+      "id": "050673515898",
+      "title": "Sequestrati farmaci illegali e sospeso un esercizio abusivo della professione medica a Treviso - La Piazza Web",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUVKR2VYV01VbF9lTVY2dy1HLWFXWnFQUExCc3U1RjVUR0xWakRMRlBJWFB4ZlBhTVdZbzliaXR3QmM2aGhIaXRLdkRGbEJZUE1wV0NlZjhxeVlRVXVocE1zNGExVEpSeVpvQlZXUjNibjJYWHlmY3d6SU1YZTZoeHNCbHY4SkNoUlltUXIxVG9heXlxVi13b0xKTk41YmJScm81WjBZZ29zN1V2dktQSXUzalZST0Zsb29IWHpLMTQyelJVdmRMRzJialZYY0xDNF8yazNSR3g2TExxYmFN?oc=5",
       "published": "2026-04-08T10:25:00+00:00",
       "source": {
-        "name": "lapiazzaweb.it",
+        "name": "La Piazza Web",
         "url": "https://www.lapiazzaweb.it"
+      }
+    },
+    {
+      "id": "4461f9c832de",
+      "title": "Torino: robot prepara farmaci oncologici - agenziagiornalisticaopinione.it",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeHNVZ1VtQkM5T2x2R1hvYWl6WXdBdmtYM3hQYVlBUmpFZ09rRzloQjNPbW10VTV3eVVnT2Q0REpPQzVvRE9Gc3Q4eHl1M2lLVlp1S1VrNFpaSi1wMlZ0Q2s1MkRfU2tmYkpLSzVIQWJ4YXc0UHg5SlJVVzlJNWFCa3hUdE0yMk53QjRmZTdVemZlRHRsdmY1U1N5bzRvQ3NoYko5enBTT3RCSHRwc29uYmZGRWJsRk0zM3dmV2ZjdDVrMk1xcDlCa1BVUUhVanBnTjBXVmdlWlJtbURVX3JJOXNTd04?oc=5",
+      "published": "2026-04-08T12:30:17+00:00",
+      "source": {
+        "name": "agenziagiornalisticaopinione.it",
+        "url": "https://www.agenziagiornalisticaopinione.it"
       }
     },
     {
@@ -331,6 +341,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "19c7b5299447",
+      "title": "Vaccini Covid: quanto sono davvero sicuri? Cosa emerge dai dati - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1h3X0lfdW9BdTB2Zy1EM1k5WGNyTDlxdGctZFY4Vk1MMGJna3BRVEV6RGdXZ3ZoZ2FYUWtpb0ZzX2ZXVWdwVHg0a3hHMmRXN1p2Ynllb2JQVGotdVg3VWIzbTVsakNVMWltQkRXLXRzZ2NWWWhISGNXXy1VdG1WbjFkU2NsNUJrU0JONDI4Zko3Z3ktOWVUSEsxQVlaNTducmpKZHF0ZkF2U1BEX2c?oc=5",
+      "published": "2026-04-08T12:05:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -424,16 +444,6 @@
       }
     },
     {
-      "id": "27ee5be34e8a",
-      "title": "Ospedale di Cava: apre i battenti l'ambulatorio di laser terapia oculare - SalernoToday",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVC1xQ2xYYUh3TXBmem9SRUVvQTNJYzhja1RmS2xDTTg4eC1nVnMwankwRTUtQzAyQTZUVy1uaTJGcWsxWnUwaU4tZzBJRm11ZVE5YnU0NmlJMWFORlpfVWpHUXJULXBMbVF3NlpCeXRPeEJRcHVETVM5TkZuOTFsaC1UTGFHbVhEcWFzTzU5Mmdjc2ZuMVpLaG1USXFQZw?oc=5",
-      "published": "2026-04-07T13:34:22+00:00",
-      "source": {
-        "name": "SalernoToday",
-        "url": "https://www.salernotoday.it"
-      }
-    },
-    {
       "id": "cdc18b5e66f4",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -451,6 +461,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "27ee5be34e8a",
+      "title": "Ospedale di Cava: apre i battenti l'ambulatorio di laser terapia oculare - SalernoToday",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVC1xQ2xYYUh3TXBmem9SRUVvQTNJYzhja1RmS2xDTTg4eC1nVnMwankwRTUtQzAyQTZUVy1uaTJGcWsxWnUwaU4tZzBJRm11ZVE5YnU0NmlJMWFORlpfVWpHUXJULXBMbVF3NlpCeXRPeEJRcHVETVM5TkZuOTFsaC1UTGFHbVhEcWFzTzU5Mmdjc2ZuMVpLaG1USXFQZw?oc=5",
+      "published": "2026-04-07T13:34:22+00:00",
+      "source": {
+        "name": "SalernoToday",
+        "url": "https://www.salernotoday.it"
       }
     },
     {
@@ -574,16 +594,6 @@
       }
     },
     {
-      "id": "a5ad8153b281",
-      "title": "Wegovy HD 7.2 mg può rilanciare il farmaco anti-obesità di Novo Nordisk? - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVlnU2xqU3FJckZvc3NLbWlNbVhCY0NURGZ2RS0yRDlESnp2eV9nXzJXWG9KX2dIR1NRSkY3bnZraWxaclR6YncwQzBDbWExZDFlSl9RWXVET2dZdmo4QllId0R5S0plYVdtS0FydWNJSzZzaGVGR0hXTjlib2xZTndsMW5ITndHYWN4S1NLc01fNFVib2F6QVFPbV9OTGhNVnZwWnE5MnNlOUF5WkRJVDN3?oc=5",
-      "published": "2026-04-07T12:40:00+00:00",
-      "source": {
-        "name": "Invezz",
-        "url": "https://invezz.com"
-      }
-    },
-    {
       "id": "2eb10414f145",
       "title": "Viagra e altri due farmaci potrebbero aiutare a prevenire l'Alzheimer - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkpJV1NFejdSdjlzYlJ5ZUpkblF1T1habjF1bENHNUlRbVUyWU5vTFJyMTlZN05IVXlBcTUtcS1nODczbE1LemZTdFNTZFZ6QnNVNUtWdkNING92R2VLYVRhNHNCVnI1Y2t3aHZQcG9ZMFBVV3JDQktDSmFySW5LeWpFMXNxNzdoTFMxSmgxd3NmWFJiSmRkQ0YwWWZ1YW5NR0VJREliZTRXS1ZGNWhRUzlaNDBUMmJlTG5pTjQ1NWFJUQ?oc=5",
@@ -591,6 +601,16 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
+      }
+    },
+    {
+      "id": "a5ad8153b281",
+      "title": "Wegovy HD 7.2 mg può rilanciare il farmaco anti-obesità di Novo Nordisk? - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVlnU2xqU3FJckZvc3NLbWlNbVhCY0NURGZ2RS0yRDlESnp2eV9nXzJXWG9KX2dIR1NRSkY3bnZraWxaclR6YncwQzBDbWExZDFlSl9RWXVET2dZdmo4QllId0R5S0plYVdtS0FydWNJSzZzaGVGR0hXTjlib2xZTndsMW5ITndHYWN4S1NLc01fNFVib2F6QVFPbV9OTGhNVnZwWnE5MnNlOUF5WkRJVDN3?oc=5",
+      "published": "2026-04-07T12:40:00+00:00",
+      "source": {
+        "name": "Invezz",
+        "url": "https://invezz.com"
       }
     },
     {
@@ -824,12 +844,12 @@
       }
     },
     {
-      "id": "bedd9060e41a",
-      "title": "FARMACI 2026: LA NUOVA CORSA ALL’ORO DELLA SALUTE - Sanità Oggi",
+      "id": "3606ca6a7dd3",
+      "title": "FARMACI 2026: LA NUOVA CORSA ALL’ORO DELLA SALUTE - sanitaoggi.it",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sLUdoRW94N0ZYZVUwakNJVHFMVWJZT090Yi12a0x5ZENzSy1PdEMzYU5UYjFvaGVKdDBrRUFHeVNwdU5LOTVoRHZKU0R6ejN0T0NBTjY1MlJiT1AtaG9GWi0tMFQ0ZU5LSTU3TFdqelY2ZjVDSThvR2NB?oc=5",
       "published": "2026-01-16T17:51:31+00:00",
       "source": {
-        "name": "Sanità Oggi",
+        "name": "sanitaoggi.it",
         "url": "https://sanitaoggi.it"
       }
     },
@@ -981,26 +1001,6 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "da03b38b2b6b",
-      "title": "Il contributo delle farmacie alla salute del cuore - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlpXT2FPR1lXa1FDVzR0cE1xSVI3SGgtUFIzdGQxOUdIZU1lRVVrWEp1eGloQUNEa19LclNOV3RsUHAyenF0Z01QZEgzYXVRN2VCNmc5dS14OHk0S0txazA2M1VZRzU5azU5Ny1ISFowNTJla2tOTWdMZ3ZKUENqOTZJdVZlQQ?oc=5",
-      "published": "2025-09-25T07:00:00+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "1acdf179394d",
-      "title": "E…STATE IN SALUTE. MEDICINALI UTILI IN VACANZA - ospfe.it",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWRNa3JHcjJjUUxMUEE0LURHV0Z5eDlyQWhJT211dTJaZUdPd1A4X2JpbG0xNXZjR2RvR050ampBR2RJbEpFZDh6VGNfc19HOUt1LWlNUGQ5T2ZhemFoZ05kbHNZTEZ2SjQ2UUJTSmhUN3V6T1Vld3dHODU1ZmNJTlh5SXhHb2JUakYwNVNiaw?oc=5",
-      "published": "2025-08-09T07:34:29+00:00",
-      "source": {
-        "name": "ospfe.it",
-        "url": "https://www.ospfe.it"
       }
     }
   ]
