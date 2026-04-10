@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T21:27:56.152113+00:00",
+  "fetched_at": "2026-04-10T22:27:11.583224+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,16 +94,6 @@
       }
     },
     {
-      "id": "67aa7105c24b",
-      "title": "Infarto e farmaci: lo studio che rivela quando i beta-bloccanti diventano superflui - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xbl9YNnJfbDE5T1JfcURxYk1qbkhJV1dxbmNvendIcGxBUmlZOUMyaEdHeGY2dGlSTVZYQ3B1QWRTTmpKM0pKS05R?oc=5",
-      "published": "2026-04-09T08:11:16+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
       "id": "ff719ece18d5",
       "title": "I farmaci comuni possono alterare il microbioma intestinale anche per anni - Tiscali Notizie",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUYwS2pFdWRyNDhjdWhWajBBUFBmdUFpdnNfNHVhdGZqNEtaMHFtdnFRZDdiWWpYZGUzRnNpX3pHRW1wZnY0SVRIc3pwcXpmQUpKYmJPeENLOE8xeEthVkhZQUZhUWsxQVBmT3I1bU9XVTBQZlp6aDkyZTZKMDFpeWdKckNuT09EZ1F6VWFSN3BfbGlYZkg0Tl9keFXSAaIBQVVfeXFMT1RTRlBrR2s2aGtnRjBQNi1qVEtLeUdRWGFmMjRHVzM2VlVrN1htcUFLek0wTXZReDZ2VHNpdTAxbHpLRXFtNUdlbHFLUEZ4RjAyZllOV0lkbTYtVGxBR1NMWlk2NHpfVExreFVsR1FpeldRSHF6ZXYtSmhXOG80UkZvemxUTzFVWEg0S0Q2dWxrVEtFV1FOYUNSTi1zaFpTeW1n?oc=5",
@@ -111,6 +101,16 @@
       "source": {
         "name": "Tiscali Notizie",
         "url": "https://notizie.tiscali.it"
+      }
+    },
+    {
+      "id": "67aa7105c24b",
+      "title": "Infarto e farmaci: lo studio che rivela quando i beta-bloccanti diventano superflui - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xbl9YNnJfbDE5T1JfcURxYk1qbkhJV1dxbmNvendIcGxBUmlZOUMyaEdHeGY2dGlSTVZYQ3B1QWRTTmpKM0pKS05R?oc=5",
+      "published": "2026-04-09T08:11:16+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
       }
     },
     {
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "35061790ed6c",
-      "title": "Obesità, come cambia la terapia con i nuovi i farmaci orali? - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelB0dGo2SDVKeE44Qm5SRm83TGlLSHA3WXRkN0dpMmVETUhselI3V1U4Rzlyc25uS3paUTdjN2x6TEZrckJ3Z2FMSnozYS0xNzJDam1HdjJiLUlGdnVsenhtOHYzdFhMMThzb29WNWNnMHBGTDlNb1o1alp0aHl0UkFWcVdwWmZxeURSc3NzSXl3NkF2TnlUUGt4UEhFX0U1MnQ3Mzd2aFp3ckJlZEdjV2dKbXAyc1otU2tsbHhlLXdhSVV2VmZJ0gHMAUFVX3lxTE0tT2pzcWd3ekhjMTF2eDhYMXlTYXo4cnZKdy1BTDh3QmpJUGQya0FLOXdfSlNtRDBpY1VSYk1PNGRGNHdMcmpYYlBxeTJQV19kRlJnUmdtRWswSFR5a0VudXR1cElHemJjVHlsM3loT0JHTWVTeVlnMUEySHZvc2xNczVnWDFVcHIxakRYaWJObl9YSXhNa2I0cFhvRGROeXF5bE1iUmNTdENiSWx6Y3RabGNkVXJENUduemFfOUVxQVUtTE5ENjNKSmFldg?oc=5",
-      "published": "2026-04-10T13:17:05+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "3f0a49d5dcf1",
       "title": "Un farmaco in più per il cuore - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
+      }
+    },
+    {
+      "id": "35061790ed6c",
+      "title": "Obesità, come cambia la terapia con i nuovi i farmaci orali? - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelB0dGo2SDVKeE44Qm5SRm83TGlLSHA3WXRkN0dpMmVETUhselI3V1U4Rzlyc25uS3paUTdjN2x6TEZrckJ3Z2FMSnozYS0xNzJDam1HdjJiLUlGdnVsenhtOHYzdFhMMThzb29WNWNnMHBGTDlNb1o1alp0aHl0UkFWcVdwWmZxeURSc3NzSXl3NkF2TnlUUGt4UEhFX0U1MnQ3Mzd2aFp3ckJlZEdjV2dKbXAyc1otU2tsbHhlLXdhSVV2VmZJ0gHMAUFVX3lxTE0tT2pzcWd3ekhjMTF2eDhYMXlTYXo4cnZKdy1BTDh3QmpJUGQya0FLOXdfSlNtRDBpY1VSYk1PNGRGNHdMcmpYYlBxeTJQV19kRlJnUmdtRWswSFR5a0VudXR1cElHemJjVHlsM3loT0JHTWVTeVlnMUEySHZvc2xNczVnWDFVcHIxakRYaWJObl9YSXhNa2I0cFhvRGROeXF5bE1iUmNTdENiSWx6Y3RabGNkVXJENUduemFfOUVxQVUtTE5ENjNKSmFldg?oc=5",
+      "published": "2026-04-10T13:17:05+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -154,16 +154,6 @@
       }
     },
     {
-      "id": "cc661e5e6d09",
-      "title": "Farmaci anti-diabete a base di GLP-1: un gene decide quanto funzionano e per chi - unipr.it",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0RlTWp1VGVaaks2eVpER0RlOTIzQ2VKWk5GVEVPMWQtNFBPMHI3TlFmS0M5bldyLU5zTWxDamZmVE9HMi1IUF90Y3pmZ2x6djlBd0tpNktMa29IT3hVWWQ3UnVSVXZaOFZhNU5VOTZOV041VzdxSWF0SUpOOXE1ZXB1SDB6SUp5elVEV2FudWwzTzhxSjcyMTdXWTVsb2JITlpJXw?oc=5",
-      "published": "2026-04-10T12:39:45+00:00",
-      "source": {
-        "name": "unipr.it",
-        "url": "https://www.unipr.it"
-      }
-    },
-    {
       "id": "30daebc26e3a",
       "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
@@ -171,6 +161,16 @@
       "source": {
         "name": "Panorama della Sanità",
         "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
+      "id": "cc661e5e6d09",
+      "title": "Farmaci anti-diabete a base di GLP-1: un gene decide quanto funzionano e per chi - unipr.it",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0RlTWp1VGVaaks2eVpER0RlOTIzQ2VKWk5GVEVPMWQtNFBPMHI3TlFmS0M5bldyLU5zTWxDamZmVE9HMi1IUF90Y3pmZ2x6djlBd0tpNktMa29IT3hVWWQ3UnVSVXZaOFZhNU5VOTZOV041VzdxSWF0SUpOOXE1ZXB1SDB6SUp5elVEV2FudWwzTzhxSjcyMTdXWTVsb2JITlpJXw?oc=5",
+      "published": "2026-04-10T12:39:45+00:00",
+      "source": {
+        "name": "unipr.it",
+        "url": "https://www.unipr.it"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "83f7413ece5a",
-      "title": "Studio: geni spiegano differenze nell’efficacia dei farmaci dimagranti - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JJM3U3TUYzcS1fX1VnZFI3cTFxcWZPcVdMTmZ1ank2SmtuUTdEckxoS0hSWG1tMjg4RmdqSm1iMmV6cTlDUzBZNDQ3TGl6bG54dWRiNlZtRU9MT21MMlJsNWRtclhaanRWMEFvQjhEYnNpdFhsZ3htNlAtSXplMlhBVGF5dmN5LU5zNGo5QmJtNDdWbGw0RS0zR0lFTDY5SzJTYlFuRURHQnRuLTVMN3RqNURDUmZvM1V0S2pn?oc=5",
-      "published": "2026-04-10T05:00:02+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://it.euronews.com"
-      }
-    },
-    {
       "id": "b20fb95ee1fa",
       "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
@@ -221,6 +211,16 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
+      }
+    },
+    {
+      "id": "83f7413ece5a",
+      "title": "Studio: geni spiegano differenze nell’efficacia dei farmaci dimagranti - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JJM3U3TUYzcS1fX1VnZFI3cTFxcWZPcVdMTmZ1ank2SmtuUTdEckxoS0hSWG1tMjg4RmdqSm1iMmV6cTlDUzBZNDQ3TGl6bG54dWRiNlZtRU9MT21MMlJsNWRtclhaanRWMEFvQjhEYnNpdFhsZ3htNlAtSXplMlhBVGF5dmN5LU5zNGo5QmJtNDdWbGw0RS0zR0lFTDY5SzJTYlFuRURHQnRuLTVMN3RqNURDUmZvM1V0S2pn?oc=5",
+      "published": "2026-04-10T05:00:02+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
       }
     },
     {
@@ -484,16 +484,6 @@
       }
     },
     {
-      "id": "0c793f5e975f",
-      "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
-      "published": "2026-04-10T07:33:00+00:00",
-      "source": {
-        "name": "www.altoadige.it",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "8c55790d01c4",
       "title": "Farmaci: de Maria Marchiano (Acc), 'anticorpi immunoconiugati leva di competitività' - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQalkweGtDYUdPUHFuaU4tM1BMbVpBRTBScW1RLUQzNmtjeWE1RnJJNE1pOEZDUzJfOXdlamxpX0dHSTUzSTRiYTBDcGhkRlZIQ2ozUktyYmkxY2RkZTNiaEZhUGlBWVItZDgwb1FxcmptMWhwamdIcTNMc2szd0ZXeTlhbzVZN01vOUd6NC1tTGRZRzg4U0NTVXpkMmZ6Z0w2cEtLRVc5bV9uUHA5RHR4TGlwTHJPZkstNmxIZHo4b2ZFb2RaVjd2MFdoUmUxdw?oc=5",
@@ -501,6 +491,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "0c793f5e975f",
+      "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
+      "published": "2026-04-10T07:33:00+00:00",
+      "source": {
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -714,16 +714,6 @@
       }
     },
     {
-      "id": "c87e8b32a65b",
-      "title": "Obesità e diabete, la nuova frontiera delle cure: farmaci che imitano gli ormoni naturali - La Voce di Alba",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMlI5a1liUDJHQnlOZlZIX2tFcGlabXE3R3J1aElNUk5CNmhpRTlVdlIzN2d5SGhUU09Ca3VCbUM0WFV3c0RQOHU0bkJjYU1helFzWXhrRC1KX1FtcU4tU1RpX2xNMEhuel9uV1FaMjZ2dkRpWUFFMnVzNF82UjFuaW9GZWtBZ0pJQUZnOWh3UGxmM183TXdKTUFBQ0drR1NPN3BBRHNtNU0tcFN0Q1Y5THk4bGpyTFNPdDMxOEZBU1l2Q1VtVzdfOVhtY01POWQ3Z2NSZnpxM0FWdlYzSGxMaWNtb184VDZOVmFmWXRxU0pYSjVkT0NRaFdMcnlVX0tieXFRZFBR0gH4AUFVX3lxTE14S256YUhDLWg1ZGN6RFRkQUZ5NzJWM1R1SVVZbzRrMHdlNlRLUUE5T2wxMFpqS0hMSlh0T2ZzWTVreWU0Si0zT1FmVzBRMl9QeUN5d1NUamxNcjdsMjJ5dTNBQW1HZy1xbno2UEFDdmp4OGRTSGtoYkpKVjliVzRQc2Z0WGJ3eHlHQWRENWQzTTlhRXZSdmNJY2xSLWFObDBuUEtMU3BlUWF5ekdKaTdlVnBBVm04aTYwTHRPM0p6R3dyTl8wZ2lWbTlqR2lWeVRDWjJkSjNITmp1WEJUZjhJcmVQeFQ4S2tTbHNQREtzOWlCdWIzS2NF?oc=5",
-      "published": "2026-04-10T11:46:00+00:00",
-      "source": {
-        "name": "La Voce di Alba",
-        "url": "https://www.lavocedialba.it"
-      }
-    },
-    {
       "id": "625dd047efe8",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
@@ -731,6 +721,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "c87e8b32a65b",
+      "title": "Obesità e diabete, la nuova frontiera delle cure: farmaci che imitano gli ormoni naturali - La Voce di Alba",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMlI5a1liUDJHQnlOZlZIX2tFcGlabXE3R3J1aElNUk5CNmhpRTlVdlIzN2d5SGhUU09Ca3VCbUM0WFV3c0RQOHU0bkJjYU1helFzWXhrRC1KX1FtcU4tU1RpX2xNMEhuel9uV1FaMjZ2dkRpWUFFMnVzNF82UjFuaW9GZWtBZ0pJQUZnOWh3UGxmM183TXdKTUFBQ0drR1NPN3BBRHNtNU0tcFN0Q1Y5THk4bGpyTFNPdDMxOEZBU1l2Q1VtVzdfOVhtY01POWQ3Z2NSZnpxM0FWdlYzSGxMaWNtb184VDZOVmFmWXRxU0pYSjVkT0NRaFdMcnlVX0tieXFRZFBR0gH4AUFVX3lxTE14S256YUhDLWg1ZGN6RFRkQUZ5NzJWM1R1SVVZbzRrMHdlNlRLUUE5T2wxMFpqS0hMSlh0T2ZzWTVreWU0Si0zT1FmVzBRMl9QeUN5d1NUamxNcjdsMjJ5dTNBQW1HZy1xbno2UEFDdmp4OGRTSGtoYkpKVjliVzRQc2Z0WGJ3eHlHQWRENWQzTTlhRXZSdmNJY2xSLWFObDBuUEtMU3BlUWF5ekdKaTdlVnBBVm04aTYwTHRPM0p6R3dyTl8wZ2lWbTlqR2lWeVRDWjJkSjNITmp1WEJUZjhJcmVQeFQ4S2tTbHNQREtzOWlCdWIzS2NF?oc=5",
+      "published": "2026-04-10T11:46:00+00:00",
+      "source": {
+        "name": "La Voce di Alba",
+        "url": "https://www.lavocedialba.it"
       }
     },
     {
