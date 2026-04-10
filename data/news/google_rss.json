@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T14:10:54.745280+00:00",
+  "fetched_at": "2026-04-10T15:41:10.121842+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,13 +44,13 @@
       }
     },
     {
-      "id": "4dd0b3cb6961",
-      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
-      "published": "2026-04-09T17:52:24+00:00",
+      "id": "4de386dd314c",
+      "title": "Effetto ticket: venduti 3 milioni di farmaci in meno - Il Resto del Carlino",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTFMc2tRLTI2WVFnbFdvdVVhSUJMcmRZOTV4VzBHSkZOc29UY3lqYS1lVTBGVGkwMFJ6bU5IQlNxNzIzOFlTUFV2STlRaXU0LUdrNEhLbnJwS2hPc3h5aVNwYzZPZWxSWERuOHBTa3BTYWJUVUN4MTM1WGh5bTExN080QVViSlh5SkplTGJCZWd4dThWZVVlRkVKNlVEZkJ6WE5KTnNRa0R2MGZ5?oc=5",
+      "published": "2026-04-10T01:26:18+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
+        "name": "Il Resto del Carlino",
+        "url": "https://www.ilrestodelcarlino.it"
       }
     },
     {
@@ -61,6 +61,16 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
+      }
+    },
+    {
+      "id": "4dd0b3cb6961",
+      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
+      "published": "2026-04-09T17:52:24+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -94,26 +104,6 @@
       }
     },
     {
-      "id": "706831293c7c",
-      "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
-      "published": "2026-04-07T23:14:00+00:00",
-      "source": {
-        "name": "www.altoadige.it",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "9dcff38ac1db",
-      "title": "La nuova tendenza “wellness”: monitor della glicemia e farmaci anti-obesità per i sani. Parliamo di rischi e benefici con la diabetologa - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdWt6aWZTTkJIQ2xBYzZQMkxncm9XZ0Z4WHVmYXIyOExtZ2xMbU9QelBkOExRUVRNYUdXcTltRGJ6eW8zcUxma0Zxb1B3cG5tWjRYOVhLa2Q2eXdkNS1Qd2otVmpFNmtpVmgwUlZSbVI3aTNSUHh6U0NNUGlxY2hzZVNVQ0Z5ZUJMM0tXZ3ZEOWgxcXZUcUhRWUtGdWo3ZkkwNFhTVldsUWZKM09kcGRobk9tZXJVbExYeHhyZEx0Z2kwYzN6QXJuaVFrbzNmRVZQSUlxQzN4b2xkZHkxTmI3aUF3eHJUaEpNeHd2N1BfcnFTaTcxM0xieXJ2MTFyeHRDZXE2elEzSm9HQWs?oc=5",
-      "published": "2026-04-10T13:29:07+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "290c740880d0",
       "title": "Farmaci, risultati positivi per mavacamten in adolescenti con cardiomiopatia ipertrofica - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUFLSXNhNENHcE1XbGgtaGczN2xocDB6YzA0NEh0ZlVRVmhseE9qaTlvQUFXdGh1M0VZMkhYVnRWRXRGc0Qxa0NGNmlhTEdCMk16X3BtcHNsNmNSVEpVQzJsaV81bFZuTWNfN2RzaDZMeEpCZzhpLVZVZGdLcDgxVE9xSlVuUV9qVnFfeFVqc29HdUFxcGhfWmVqRzB3RHN1REc5bHV1cjJzT1AtZlZFaEdLWDA3anpRQ1k2TjFNa2h3SmVYZnRZSzRYREQteW1qM0tPNWp4MjZYUFE?oc=5",
@@ -134,6 +124,16 @@
       }
     },
     {
+      "id": "b0c36bdda1dc",
+      "title": "Ipertensione non controllata: la presenza decisiva del farmacista - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmliM2lzX0JTcHZZTEdBVzB3RFN4d0lkendZSko5SjVKNFpjbk94b3ZSYk00TlgwUi1PVm5RNHQ2M0JrOUg0dU5NWlpkWndfa2RlRVZYVm9xTFpIV1ZLSVM2OGRDX05YNnNLTFo3RWphTEtTREp3ZDlWUjYyRmpYWElLQTA5YTJRNjlCenBiYTdMb1paREFlTA?oc=5",
+      "published": "2026-04-10T11:00:58+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "83f7413ece5a",
       "title": "Studio: geni spiegano differenze nell’efficacia dei farmaci dimagranti - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JJM3U3TUYzcS1fX1VnZFI3cTFxcWZPcVdMTmZ1ank2SmtuUTdEckxoS0hSWG1tMjg4RmdqSm1iMmV6cTlDUzBZNDQ3TGl6bG54dWRiNlZtRU9MT21MMlJsNWRtclhaanRWMEFvQjhEYnNpdFhsZ3htNlAtSXplMlhBVGF5dmN5LU5zNGo5QmJtNDdWbGw0RS0zR0lFTDY5SzJTYlFuRURHQnRuLTVMN3RqNURDUmZvM1V0S2pn?oc=5",
@@ -141,16 +141,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "122c27a8c2bc",
-      "title": "Farmaci anti-obesità, meno fame ma anche meno proteine: l’allarme dagli studi real world - sanitainformazione.it",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVNkd1ZtaUlxTU5zVXZjZ24wNGRLNTdjQXFzMEl5cUJMbE9CY0pzc0duOWpyNzI4aXlfQkc3VHZCZ2NiTUcxRWFyOFB6VjQtWVF1QVh1R2p4Y2pOZUhmYnRRREhVRHZ4RjZNeEZZUGtCNVJLTUgtMWRKMTRzVDlWTURxa3ByZDBReEJYcW84UWg3bENlNW4wRTJ0T2diQUdFN0dYQk8ya2t2NEl2UUJ1ZmxCWmlOVmVkU1ZWWQ?oc=5",
-      "published": "2026-04-10T07:39:00+00:00",
-      "source": {
-        "name": "sanitainformazione.it",
-        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -164,13 +154,13 @@
       }
     },
     {
-      "id": "4de386dd314c",
-      "title": "Effetto ticket: venduti 3 milioni di farmaci in meno - Il Resto del Carlino",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTFMc2tRLTI2WVFnbFdvdVVhSUJMcmRZOTV4VzBHSkZOc29UY3lqYS1lVTBGVGkwMFJ6bU5IQlNxNzIzOFlTUFV2STlRaXU0LUdrNEhLbnJwS2hPc3h5aVNwYzZPZWxSWERuOHBTa3BTYWJUVUN4MTM1WGh5bTExN080QVViSlh5SkplTGJCZWd4dThWZVVlRkVKNlVEZkJ6WE5KTnNRa0R2MGZ5?oc=5",
-      "published": "2026-04-10T01:26:18+00:00",
+      "id": "122c27a8c2bc",
+      "title": "Farmaci anti-obesità, meno fame ma anche meno proteine: l’allarme dagli studi real world - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVNkd1ZtaUlxTU5zVXZjZ24wNGRLNTdjQXFzMEl5cUJMbE9CY0pzc0duOWpyNzI4aXlfQkc3VHZCZ2NiTUcxRWFyOFB6VjQtWVF1QVh1R2p4Y2pOZUhmYnRRREhVRHZ4RjZNeEZZUGtCNVJLTUgtMWRKMTRzVDlWTURxa3ByZDBReEJYcW84UWg3bENlNW4wRTJ0T2diQUdFN0dYQk8ya2t2NEl2UUJ1ZmxCWmlOVmVkU1ZWWQ?oc=5",
+      "published": "2026-04-10T07:39:00+00:00",
       "source": {
-        "name": "Il Resto del Carlino",
-        "url": "https://www.ilrestodelcarlino.it"
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -204,13 +194,13 @@
       }
     },
     {
-      "id": "dec8be855801",
-      "title": "Farmaci, Gemmato: \"Testo unico legislazione migliorerà anche accesso\" - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa25OdERTaGE4VFZEdXJPTHB2MHFtV3l0ZjlFZmhhWWVUcTBlQjNUUmQxX0V1SUF3QzRjOWgwMTJFUkNNNmtVSGRTOURXM19hTFR5MTBXdlBHMWJVenRpck5xWkl4eGh1aEozYl9rTUJ6WmlERkgyV3JzZzJZWTVDbGZiVEZUcVpnTlRGazM2X2hab3VDNnZIc1Z5NEwtYmZraG42R2JXX1VVRzNJQzh3ZmpXN0prUUdTOFdDQVl3?oc=5",
-      "published": "2026-04-09T13:10:00+00:00",
+      "id": "3de49857ffb7",
+      "title": "Farmaci GLP-1 e salute mentale, cosa dicono i nuovi studi. Gli effetti psicologici della semaglutide - Dica33",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQllHMEZDNW50RVJPT0oxOWItMGw4b243cGdtSkt1ME02M2JQU1o1U3FuOGw5WTJpd0RWd1lNVjJodVVyOGVDaXZwXzBKaU4yc0czVnp6emJfQWVMczZ3aklRcmd1NHo1VUVOUHhUYzVncmRMNi1FU0VlS3d1NS1SbXptdzlreTRCMWlZRA?oc=5",
+      "published": "2026-04-07T16:35:13+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "Dica33",
+        "url": "https://www.dica33.it"
       }
     },
     {
@@ -224,10 +214,10 @@
       }
     },
     {
-      "id": "ec824973d310",
-      "title": "Farmaci, Lorenzin: \"Italia punti su ricerca e politiche evidence-based\" - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzJ3ZmtISDdBbzRvaWg0LXdldWppYWU5SFd6cTdOcG9GUy1zdmg5OFNnSERnNU53X1BYTFhqcWI2QVpyWXFRMUJ3alN3dDJQX01Hdks2R2FlT2ttWFNDR2JoZkdxY0h1X0k2Z3JVaTBTdG9PbV84cW50VGx4Y191V2xRcnllUjJmODFGdi1rQTNDRmg1aml5LXFsaGFOckV2cXFzdWNfWGdJSUFUVFNibExBaHJ5QzRUb1hNVzRRNlk?oc=5",
-      "published": "2026-04-09T10:20:00+00:00",
+      "id": "dec8be855801",
+      "title": "Farmaci, Gemmato: \"Testo unico legislazione migliorerà anche accesso\" - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa25OdERTaGE4VFZEdXJPTHB2MHFtV3l0ZjlFZmhhWWVUcTBlQjNUUmQxX0V1SUF3QzRjOWgwMTJFUkNNNmtVSGRTOURXM19hTFR5MTBXdlBHMWJVenRpck5xWkl4eGh1aEozYl9rTUJ6WmlERkgyV3JzZzJZWTVDbGZiVEZUcVpnTlRGazM2X2hab3VDNnZIc1Z5NEwtYmZraG42R2JXX1VVRzNJQzh3ZmpXN0prUUdTOFdDQVl3?oc=5",
+      "published": "2026-04-09T13:10:00+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -244,6 +234,16 @@
       }
     },
     {
+      "id": "ec824973d310",
+      "title": "Farmaci, Lorenzin: \"Italia punti su ricerca e politiche evidence-based\" - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzJ3ZmtISDdBbzRvaWg0LXdldWppYWU5SFd6cTdOcG9GUy1zdmg5OFNnSERnNU53X1BYTFhqcWI2QVpyWXFRMUJ3alN3dDJQX01Hdks2R2FlT2ttWFNDR2JoZkdxY0h1X0k2Z3JVaTBTdG9PbV84cW50VGx4Y191V2xRcnllUjJmODFGdi1rQTNDRmg1aml5LXFsaGFOckV2cXFzdWNfWGdJSUFUVFNibExBaHJ5QzRUb1hNVzRRNlk?oc=5",
+      "published": "2026-04-09T10:20:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
       "id": "2c0766dd93dc",
       "title": "Farmaci, Cicchetti (Cattolica): \"Per accesso innovativi in Francia c'è ok in 80 giorni\" - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQWNhSWlKanp4Z0lsdzUzcG5ac05qbzhMV1dMTk90QlVzVWpramdDS2pqanM3OW9EdGNsNFc1ckRpaEpjU1dST3lIRW83Mm9peVRaNTNYbmRzdmhzaXViUG1UTHdZckh3OVNablhVZ2lsdmwxMldfVkw0a3BsSUZXN1ZsTUZjV2JKVVJkX2xjUDBRZ3dUaEt0ci1Bb2twc3Y5cmdSQW1tVEU3bFIxOGIwSjJJOFJNR1F0VlkydDhQaHdwU1pZckNvY0pxYjQ3SlY3NEE?oc=5",
@@ -251,16 +251,6 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "3de49857ffb7",
-      "title": "Farmaci GLP-1 e salute mentale, cosa dicono i nuovi studi. Gli effetti psicologici della semaglutide - Dica33",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQllHMEZDNW50RVJPT0oxOWItMGw4b243cGdtSkt1ME02M2JQU1o1U3FuOGw5WTJpd0RWd1lNVjJodVVyOGVDaXZwXzBKaU4yc0czVnp6emJfQWVMczZ3aklRcmd1NHo1VUVOUHhUYzVncmRMNi1FU0VlS3d1NS1SbXptdzlreTRCMWlZRA?oc=5",
-      "published": "2026-04-07T16:35:13+00:00",
-      "source": {
-        "name": "Dica33",
-        "url": "https://www.dica33.it"
       }
     },
     {
@@ -314,16 +304,6 @@
       }
     },
     {
-      "id": "ae1e07e3d218",
-      "title": "Comunicazione Italiana - Comunicazione Italiana",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IamdZNWdHVHVfRi1BYXR4SlNQMTVVXzViTnVXVGwxLXdBcEU0dWZSRjRTVGhKbFRpS3N4bUk5bWdvcEFrZUFWMHZHVjhXR0R6Rkw4VW1BdDczeGZZWWZWY3NxY01YVjVJb3VZbUJXR3J6d19kSERYREZB?oc=5",
-      "published": "2026-04-10T12:01:25+00:00",
-      "source": {
-        "name": "Comunicazione Italiana",
-        "url": "https://comunicazioneitaliana.it"
-      }
-    },
-    {
       "id": "e98a96544672",
       "title": "Farmaci per dimagrire, chi li usa rischia un deficit di proteine - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5",
@@ -344,6 +324,16 @@
       }
     },
     {
+      "id": "ae1e07e3d218",
+      "title": "Comunicazione Italiana - Comunicazione Italiana",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IamdZNWdHVHVfRi1BYXR4SlNQMTVVXzViTnVXVGwxLXdBcEU0dWZSRjRTVGhKbFRpS3N4bUk5bWdvcEFrZUFWMHZHVjhXR0R6Rkw4VW1BdDczeGZZWWZWY3NxY01YVjVJb3VZbUJXR3J6d19kSERYREZB?oc=5",
+      "published": "2026-04-10T12:01:25+00:00",
+      "source": {
+        "name": "Comunicazione Italiana",
+        "url": "https://comunicazioneitaliana.it"
+      }
+    },
+    {
       "id": "afe47293002d",
       "title": "Farmacia ospedaliera, robot allestisce farmaci chemioterapici all’Hub oncologico delle Molinette - farmacista33.it",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWDJSVzhxbkVpMWVKZUlKQmhoWF81bjhnSVk0dUFGMUQ4c2x0QjdEdFE0eFRYWFc4ODBXZmI5TTdtMUpwdTRCZThuN1VDcWE0RWZydHpUcmZuUEZZcWFaaFplSTZlVnZTRWdnRkJtdFRZdGU1S2R0T21za2dEQlBhLWJnZ2cydkpUYlpxYi11aUJFX0IxOW9heDRrM1pnLVY3TDJXOEhTOEc0YmpORXBpY1lJWjg2eE85cTViVUdmX3AzNEQ2UklFRHFVT2hNcTVSRGRPYW9tZXlWVGJra1premtfU1F1MUxOQU1vbHVnZnVCNU00?oc=5",
@@ -361,16 +351,6 @@
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it"
-      }
-    },
-    {
-      "id": "54cf689e26e9",
-      "title": "Farmaceutica: Grazzi (Gsk), 'farmaci altamente specializzati da Parma al mondo' - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHBKTTRDaFY2VDAwOFZDR2tyMUlTRS1sandKWHM0Y1JmZlQ1QnQ3LWRFTjgwUEFXT28wVFR1QVNPblRrMlFxV293aGNQYW92Sk9sTHhsWk11T01uRXpJbzhRelFvdEtCZ3pPQnhvUDJraWh6ZTRRcklfdG01OThxWHhvVVFpRHI2MTF0NkFQMVJod1p1eHRLU1RiTW4wUDZ4bEM0RGs0WERnT3MwMXNyWXBSSU0wbzNiNnNtMVk5NURJdkxnV3lr?oc=5",
-      "published": "2026-04-09T17:10:37+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -404,20 +384,20 @@
       }
     },
     {
-      "id": "034107921d60",
-      "title": "Farmaci: Rosati (Gsk Italia), 'orgogliosi di produrre in Italia terapia innovativa per mieloma multiplo' - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX05HVW5Bd3J1aWNuZktmX1ZzdW54RGFtVTFoVTBPTXVNSlpWRWVSTHZpMGZ0bnJOTWhrQnNGQnJFNldQdTVZdG10MjhXQVVONTYxbGhQbHVPR2t2UlZ4TVB4bjlkTzlvNmxrRDRCY1U3NFlLOVVLNFNfOFM0UERURmNINDhIVjRVQ2hibk1ZbHdiWTdBTy1NRnlPUUhHaFpMRnFoSGxIcldpQUVuTG5qNDdhay10cThONnpGNHpBd2JMcDMycVVQdHlfakZuNWNEU0NJaWxabjhVUnFrTVlweTRnRzdrbHVrMnc?oc=5",
-      "published": "2026-04-09T15:18:36+00:00",
+      "id": "ffac985d472a",
+      "title": "Farmaceutica: Grazzi (Gsk), ‘stabilimento di Parma contribuisce a economia salute’ - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzVQb0xDUGdCcURzMmx4LWctR3FvZHVXcXprM2Y4X3dRaUF1dVlROHJhT3BtZ29nLVRORjJxOFNLaGxXTGVHU3o1U01RWkJROGNGQW1kLWNhN1hodUtRNW42Yl81enEySFEzd1YwYWpXbnJvdFl2QWtaOVhoSEE3RzNJdzB3dXNNZWFuQmtPRzdTT2lwNVBOdXRTRDVHeV9IeTF3RWwxcFB2bnZzby1ZWDJHNk1RX0JFTTFhWWpjQVhnTWdKdERRb19MVFE?oc=5",
+      "published": "2026-04-09T13:35:00+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
       }
     },
     {
-      "id": "ffac985d472a",
-      "title": "Farmaceutica: Grazzi (Gsk), ‘stabilimento di Parma contribuisce a economia salute’ - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzVQb0xDUGdCcURzMmx4LWctR3FvZHVXcXprM2Y4X3dRaUF1dVlROHJhT3BtZ29nLVRORjJxOFNLaGxXTGVHU3o1U01RWkJROGNGQW1kLWNhN1hodUtRNW42Yl81enEySFEzd1YwYWpXbnJvdFl2QWtaOVhoSEE3RzNJdzB3dXNNZWFuQmtPRzdTT2lwNVBOdXRTRDVHeV9IeTF3RWwxcFB2bnZzby1ZWDJHNk1RX0JFTTFhWWpjQVhnTWdKdERRb19MVFE?oc=5",
-      "published": "2026-04-09T13:35:00+00:00",
+      "id": "54cf689e26e9",
+      "title": "Farmaceutica: Grazzi (Gsk), 'farmaci altamente specializzati da Parma al mondo' - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHBKTTRDaFY2VDAwOFZDR2tyMUlTRS1sandKWHM0Y1JmZlQ1QnQ3LWRFTjgwUEFXT28wVFR1QVNPblRrMlFxV293aGNQYW92Sk9sTHhsWk11T01uRXpJbzhRelFvdEtCZ3pPQnhvUDJraWh6ZTRRcklfdG01OThxWHhvVVFpRHI2MTF0NkFQMVJod1p1eHRLU1RiTW4wUDZ4bEM0RGs0WERnT3MwMXNyWXBSSU0wbzNiNnNtMVk5NURJdkxnV3lr?oc=5",
+      "published": "2026-04-09T17:10:37+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -454,10 +434,10 @@
       }
     },
     {
-      "id": "8c55790d01c4",
-      "title": "Farmaci: de Maria Marchiano (Acc), 'anticorpi immunoconiugati leva di competitività' - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQalkweGtDYUdPUHFuaU4tM1BMbVpBRTBScW1RLUQzNmtjeWE1RnJJNE1pOEZDUzJfOXdlamxpX0dHSTUzSTRiYTBDcGhkRlZIQ2ozUktyYmkxY2RkZTNiaEZhUGlBWVItZDgwb1FxcmptMWhwamdIcTNMc2szd0ZXeTlhbzVZN01vOUd6NC1tTGRZRzg4U0NTVXpkMmZ6Z0w2cEtLRVc5bV9uUHA5RHR4TGlwTHJPZkstNmxIZHo4b2ZFb2RaVjd2MFdoUmUxdw?oc=5",
-      "published": "2026-04-09T14:56:31+00:00",
+      "id": "034107921d60",
+      "title": "Farmaci: Rosati (Gsk Italia), 'orgogliosi di produrre in Italia terapia innovativa per mieloma multiplo' - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX05HVW5Bd3J1aWNuZktmX1ZzdW54RGFtVTFoVTBPTXVNSlpWRWVSTHZpMGZ0bnJOTWhrQnNGQnJFNldQdTVZdG10MjhXQVVONTYxbGhQbHVPR2t2UlZ4TVB4bjlkTzlvNmxrRDRCY1U3NFlLOVVLNFNfOFM0UERURmNINDhIVjRVQ2hibk1ZbHdiWTdBTy1NRnlPUUhHaFpMRnFoSGxIcldpQUVuTG5qNDdhay10cThONnpGNHpBd2JMcDMycVVQdHlfakZuNWNEU0NJaWxabjhVUnFrTVlweTRnRzdrbHVrMnc?oc=5",
+      "published": "2026-04-09T15:18:36+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -494,6 +474,36 @@
       }
     },
     {
+      "id": "6a3e29ebeade",
+      "title": "La nuova tendenza “wellness”: monitor della glicemia e farmaci anti-obesità per i sani. Parliamo di rischi e benefici con la diabetologa - ilFarmacistaOnline",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHVpYjgxZUZ2TDdpX2lvM2J6aS1XaGJyNFZNalpKYjhuNVRCMkxoald2RFpEMUgyZlVPQzNkcjA4bzNMWWg2NXFsX1RmaXgxY3lJZ1BKQXZDTHp6Zno4TV9qSk1JSnZXZ2k1RmFZbUNqUGFGOGVXdkszeG9McUZ2cV9ZYzRpRE1WcHc?oc=5",
+      "published": "2026-04-09T08:21:54+00:00",
+      "source": {
+        "name": "ilFarmacistaOnline",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "8c55790d01c4",
+      "title": "Farmaci: de Maria Marchiano (Acc), 'anticorpi immunoconiugati leva di competitività' - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQalkweGtDYUdPUHFuaU4tM1BMbVpBRTBScW1RLUQzNmtjeWE1RnJJNE1pOEZDUzJfOXdlamxpX0dHSTUzSTRiYTBDcGhkRlZIQ2ozUktyYmkxY2RkZTNiaEZhUGlBWVItZDgwb1FxcmptMWhwamdIcTNMc2szd0ZXeTlhbzVZN01vOUd6NC1tTGRZRzg4U0NTVXpkMmZ6Z0w2cEtLRVc5bV9uUHA5RHR4TGlwTHJPZkstNmxIZHo4b2ZFb2RaVjd2MFdoUmUxdw?oc=5",
+      "published": "2026-04-09T14:56:31+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "706831293c7c",
+      "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
+      "published": "2026-04-07T23:14:00+00:00",
+      "source": {
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
+      }
+    },
+    {
       "id": "0c793f5e975f",
       "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
@@ -501,16 +511,6 @@
       "source": {
         "name": "www.altoadige.it",
         "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "668bebefe04f",
-      "title": "Sanità: Gemmato (ministero Salute), 'impegnati per riportare produzione principi attivi in Italia' - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2dxX08wY1lsZDE2cy1ZRURFQXBwZkFrLWJkejQzbnB1VmRkLTA2c0xWMThDdzBsZHFnZ0R0WUJvM01meWxreHFFOW5yekdZMlZ0bmVON3M3RDFvY091UndhZWFWLXVHQmMzZXk0VzdRN21FUmU2VEhZOExPZjh1eURfMmg5dGRZeXJxVTBkZmJRY3poMzM3dFVRWnhIQ3dPOGlYNFlndWJyU29QOUgtVkxfTjlKNk9wTURFbk5IdFRZeWMwb1N6QW92WlhOZThNYWN3WW1hY1FiSkh0NFNMaWlB?oc=5",
-      "published": "2026-04-09T15:09:11+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -551,6 +551,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "668bebefe04f",
+      "title": "Sanità: Gemmato (ministero Salute), 'impegnati per riportare produzione principi attivi in Italia' - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2dxX08wY1lsZDE2cy1ZRURFQXBwZkFrLWJkejQzbnB1VmRkLTA2c0xWMThDdzBsZHFnZ0R0WUJvM01meWxreHFFOW5yekdZMlZ0bmVON3M3RDFvY091UndhZWFWLXVHQmMzZXk0VzdRN21FUmU2VEhZOExPZjh1eURfMmg5dGRZeXJxVTBkZmJRY3poMzM3dFVRWnhIQ3dPOGlYNFlndWJyU29QOUgtVkxfTjlKNk9wTURFbk5IdFRZeWMwb1N6QW92WlhOZThNYWN3WW1hY1FiSkh0NFNMaWlB?oc=5",
+      "published": "2026-04-09T15:09:11+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -647,10 +657,20 @@
       "id": "c67c24900903",
       "title": "Giovani e salute mentale, Rosolen: “Un ragazzo su due usa benzodiazepine” - Diario FVG",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY3duMm1EOFhMZVY0QktJb3RCc21TZENkZ3ZKNDFBRU1wUU80UVpEWFJhRTVCSWd6QXdXbnhfVU84WTJna0RBc0h2bFRMX0ZyX1JiLU9KdVVqbnpMNmhhLTY2VXlZY3BTRHQ2a1lTWVlLdENWbmJadHdCTU5ab1BFZlM0S0h0V1dsckRPTXNJenJnSHg5WEZyLWIzWVkxR2xieEV1MlRNNEN2QQ?oc=5",
-      "published": "2026-04-10T08:27:00+00:00",
+      "published": "2026-04-10T08:41:52+00:00",
       "source": {
         "name": "Diario FVG",
         "url": "https://www.diariofvg.it"
+      }
+    },
+    {
+      "id": "ee7813a8a7ae",
+      "title": "Tutto in un click, i rischi di acquistare prodotti per la salute sul web - RSI",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUnh0NXNmb3Z3UlJQVUdKbndsWEZjODdjSVhYU0ZEbjRzS082OUFROHk5enRKSVRuMkhZZEstV3VmemZCTXpuN2tGN2RCNmJRUHJpU2NseXNIVXRUbnVNVWVCZVNET3BGY2NlWF80UXRlbXJmWVJyYUZ6TnpvVnhCSkxuaHJyVGh4LXNQdlZjYWlCUXA1WGpwZ0ZxZkoxcUlFeDVWcWRUQVNWZ1ZJaGVFN0VNajFDWnhpcTNBUjFPMl9yWEZYNk53bk1YQm9QaHB6SG5IWW1UcWtXbWxoQy12MG9uaVR3SU1hVlE?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "source": {
+        "name": "RSI",
+        "url": "https://www.rsi.ch"
       }
     },
     {
@@ -714,16 +734,6 @@
       }
     },
     {
-      "id": "9283410b9cf4",
-      "title": "Medicinali veterinari, la giornata della consapevolezza sull’importanza della farmacovigilanza - FarmaciaVirtuale.it",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0xGTnhRWUVJN1N6T18zaFVlNnhNaGMtSG5BRXlaNkN0aFc5NVM5X1ZtVWd6VHFUQXRhT1F4eWlOODdzTjJSMDVNemNsc2x0dFVoZ0VYeFVKYjlRa1ZvLUk0TEltc0NOTHRpZWtSTEM3X2VQeGVvQzdpT0J1dnN0WDFiSUdRM296UnZLX0pqS3VxUjhRWFNmdjJzNzZoUld3TUVBNzFYRXBiRmZjd1FxakZtTkZuX3h0ZVJqQlVn?oc=5",
-      "published": "2026-04-09T02:20:00+00:00",
-      "source": {
-        "name": "FarmaciaVirtuale.it",
-        "url": "https://farmaciavirtuale.it"
-      }
-    },
-    {
       "id": "860db01b9286",
       "title": "Farmaci anti-obesità: la genetica spiega perché non funzionano uguale per tutti - Quotidiano di Ragusa",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUVk3ck1uMjY2RmVnMUZXQU5HNnpEZlF0eVVRVVFmZnNNNzBzanE4OFNxbTQtNGQ0X1VRM1NvbTMtd2t1c29ZSXNnTEZ3Y0NVSE83N2pB?oc=5",
@@ -731,16 +741,6 @@
       "source": {
         "name": "Quotidiano di Ragusa",
         "url": "https://www.quotidianodiragusa.it"
-      }
-    },
-    {
-      "id": "454699086149",
-      "title": "Italia controcorrente sui farmaci anti-Alzheimer - Il Manifesto",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XWmhRNHlTVU9LWFlJOFR4OGlFYTJ0LUx1dWI2NnhvR2JGM19GUk1pRUF0THJpRFp3eUVUSXRNakhDcWJobkdnMzNjNWdNNFlITjJOT0diNnNrenpRQm41VFZGeE5yMWF4cmt0UjJKSGlDQTBBSTVVc19ZMA?oc=5",
-      "published": "2026-03-19T07:31:36+00:00",
-      "source": {
-        "name": "Il Manifesto",
-        "url": "https://ilmanifesto.it"
       }
     },
     {
@@ -764,16 +764,6 @@
       }
     },
     {
-      "id": "5ef676980e88",
-      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUNtblhKUHdvLWsyMHpxYWhXU2VMTTJGajBtX2pySXFoQTFrLXRrekh0Q0NJaFVMaEZWTEFKNlpWWVZVQlA0ZW1KWk94TDYxR2hlVEstZmZ1RWdGS3VjaURNTDNBSFNVLWtiNTFhc3NFVU1jSHVWbFE4NXVRVjFka3pIWVlQazg3aG0tSWk0Wnk2N25QM3dIc3BOZDdxRVRudmhrSTZncUtpeGM3YzA5aXIwTzZMbnVtOTJvSmFkVURQZ0l2MVhEZldZQW0xcmtBazdodG9Vajh1UmxYQ1Zj?oc=5",
-      "published": "2026-02-09T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "cdc18b5e66f4",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -791,16 +781,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "da4b57d36a4f",
-      "title": "Magri a ogni costo? Ozempic “non è una bacchetta magica” - RSI",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVE1YMFBaOHRHMm5tN1o3akMtTEZoeWtnMWl3SHdXblBkUkJyWVlldS1Qcm9BeGs2NzhBWi1kY3YyNHFiVVBJdnFwZURfeWtjUkw0d3BqVFZUeW96WWFZRHlYSl9vQ3FqYU00OS1fUU03V1M0dU5kUlJxTzVZbWU5UXA1SXZURWt5NXdPVm94bGVjTnJDRmlPN3FSbW9MTVhuM0xuWHpCMlp5R2dReVUzWkVmb0IzV1FGT2Zmb3N3?oc=5",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": {
-        "name": "RSI",
-        "url": "https://www.rsi.ch"
       }
     },
     {
@@ -831,6 +811,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "71addecfd1bc",
+      "title": "Dall'Istituto tumori di Candiolo la nuova frontiera nella lotta contro il cancro del polmone: due farmaci aiutano a sconfiggerlo senza chemioterapia - TorinoToday",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN21OUzZDNVN2NGxHejgzLTRjZVJ4eHd1UWRPblVJQnhXOGRuQ1FqZ3hmQk90VmxNVTl1X080VkJXNTFibmxkb2VJbGplLVJRT3J6WHhWc0E1eUthN1p1c2F4MGVXa3VIdnZKNlRhYlQ3OFlSXzE5RVFvVGRlWWJHTjVleWNwaVk3ZHhMOVRGYWhtNVhkc0RiOXEyQlkyMEpmekcwYXFwZzA5LVJUSTdrUg?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "source": {
+        "name": "TorinoToday",
+        "url": "https://www.torinotoday.it"
       }
     },
     {
@@ -894,16 +884,6 @@
       }
     },
     {
-      "id": "aff4f5958fa8",
-      "title": "Formazione - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
-      "published": "2026-02-18T08:00:00+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "98685ecd1665",
       "title": "Giornata delle malattie rare, quattro nuovi farmaci approvati da Aifa - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFEyR0hfMlpjZkZiakVJQ2swRmR2WVNENmEzS29sRVpwOWxTVllIWUJHYWJJOUpyc1pRMW9zNVBkb3BwcVNrblM3eWNvdWQ1VXBNdGhZam1NeWZLMlpwcGhVV1AzS2lGTEtRMGFCYThMcUIyOXVRWEsxY194YVppSFJFREJCcUxLUHBTcW93?oc=5",
@@ -911,6 +891,26 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "3c413b944d9b",
+      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilFarmacistaOnline",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
+      "published": "2026-02-09T08:00:00+00:00",
+      "source": {
+        "name": "ilFarmacistaOnline",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "aff4f5958fa8",
+      "title": "Formazione - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
+      "published": "2026-02-18T08:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -931,6 +931,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "4253237de0c8",
+      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - Il Manifesto",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEpEdklEbkF3MDk4T0lEaUVYZ2pNdUtpYkNrVi0yMUlBMVIxNkQzMmVJek53Q1RJZDRIX193Y1JhYU9abTV4bWMwa2xycnp2azNJX2NuellaQVJIUS01NDk4LWQ2Rk1kSndfVC0yWTF6cERpR1FDZ2FvMWZhTHAzUkdBaUZQTzZI?oc=5",
+      "published": "2026-02-13T08:00:00+00:00",
+      "source": {
+        "name": "Il Manifesto",
+        "url": "https://ilmanifesto.it"
       }
     },
     {
@@ -964,12 +974,12 @@
       }
     },
     {
-      "id": "9151112189cd",
-      "title": "Salute mentale, sì ai farmaci psichedelici grazie alle microdosi . - Pharmastar",
+      "id": "3bc2c87b9d59",
+      "title": "Salute mentale, sì ai farmaci psichedelici grazie alle microdosi . - pharmastar.it",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGRSM2k4d3psTVlGRHMtZVQxelRJZzd3dHo2SzFmcG1jaUtPVzdwbEpSTUFBREtxallVdXZWMmlrVnF2NGpyQks2LUJ2VUsycWVCMFROY24tSzhJcTJ3X0syY1dzUlo5UW9Fc0lhSlJ2LTV6QzllcXdXMWI5aWd4QXo2NzVTcEtsbV9LdVJtMjFkRUZURFoySzZKaDZUa2hTLTd6RUMzNUg?oc=5",
       "published": "2026-01-29T08:00:00+00:00",
       "source": {
-        "name": "Pharmastar",
+        "name": "pharmastar.it",
         "url": "https://www.pharmastar.it"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Diabete.com",
         "url": "https://www.diabete.com"
-      }
-    },
-    {
-      "id": "4fb9b7a8536c",
-      "title": "Farmaci nelle RSA: troppi errori nella somministrazione - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1hjaHZwY1JGYkNGVFk5eTlBdFBXakFPX1BiNklOMXl2VUF1dmZtd3JocGhTNy1CZXZrc29zR0RrRE9ZSGJaUzN6Q2ZmYlV2TjlLRzdxTURMZXg4ZjU5bHZUMkpwUVM3MzQyNlV1STM3NUQtN1NqSkF6TzJIdERRVDFMU04wQ1F1dmlMNlpoQnk?oc=5",
-      "published": "2025-12-19T08:00:00+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
       }
     }
   ]
