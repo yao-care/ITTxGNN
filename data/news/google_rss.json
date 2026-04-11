@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T18:29:33.840339+00:00",
+  "fetched_at": "2026-04-11T19:28:27.436575+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "e98a96544672",
-      "title": "Farmaci per dimagrire, chi li usa rischia un deficit di proteine - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5",
-      "published": "2026-04-08T23:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "10d397c92f0d",
       "title": "Farmaci, Murelli (Lega): \"Ridurre i tempi di approvazione\" - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEpqZ3hJQ2hXSlVJSlhWOG1pTlRzWnlCWG84dTl0NjNIWk9aMnZQM0NtNkpIclllVFBWZlZrOWRlMHg4VDhTMy1KeklwVG55TmNSNk81cHlJU0VsNXJQTHc0bzlvQUc4LWdDdUhSbUhwYVdMLVdTWWpyOXFNQ0dQaG9PUGVOQVJTRG8zSXNScXpTdzZpSk1JbE56dGxrUm1GNHBpcE0ydXhBbTZu?oc=5",
@@ -31,16 +21,6 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "368dfc7fb351",
-      "title": "A Città della Salute un robot prepara i farmaci oncologici - AGI",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGM1U3dSbEROeUd3ODhwX3UyWVQwcGsya21HbzNYem5EMXk5X0RYSmVkRUk4T3ZJUk1zb1h1dFhlaWt6OFo0Sjg2U3J1LVF2SHBSeWhwM3hZSlpsVVpyLTd0cEE5d3V2ZXpVOGZEb0h4Z0RFMnBGTUM2Zk9PcnFfdDFQcjRQYmYxV20teA?oc=5",
-      "published": "2026-04-09T01:58:00+00:00",
-      "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it"
       }
     },
     {
@@ -54,13 +34,23 @@
       }
     },
     {
-      "id": "b70ce89758e2",
-      "title": "Il ruolo del sonno nella salute cardiovascolare - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHozcWhRY21Vc2k5SmhmYnJYSG1IVUpyWWVRa0ZIYTBEREw0LWlvaFRFQlVLcDhkdEQ2cE1GOGs1SlA4SS00eHFaMll2RGlWYjVNM2MxcVVTc2w1Skk4Q1RKandrRnlSamRhaWlZWEl5akQ4UGZjY1lRWlVOTVI5bnBhNEdQcnQxUWZobGVtYUJzclVTckhpOVZn?oc=5",
-      "published": "2026-04-08T08:09:08+00:00",
+      "id": "368dfc7fb351",
+      "title": "A Città della Salute un robot prepara i farmaci oncologici - AGI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGM1U3dSbEROeUd3ODhwX3UyWVQwcGsya21HbzNYem5EMXk5X0RYSmVkRUk4T3ZJUk1zb1h1dFhlaWt6OFo0Sjg2U3J1LVF2SHBSeWhwM3hZSlpsVVpyLTd0cEE5d3V2ZXpVOGZEb0h4Z0RFMnBGTUM2Zk9PcnFfdDFQcjRQYmYxV20teA?oc=5",
+      "published": "2026-04-09T01:58:00+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "AGI",
+        "url": "https://www.agi.it"
+      }
+    },
+    {
+      "id": "e98a96544672",
+      "title": "Farmaci per dimagrire, chi li usa rischia un deficit di proteine - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5",
+      "published": "2026-04-08T23:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -104,6 +94,16 @@
       }
     },
     {
+      "id": "94398bb2eaec",
+      "title": "Un sistema 3D per studiare farmaci contro i tumori cerebrali: a svilupparlo l’Università di Trento - l'Adige",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3BSanFhbU1CY2pLcjhVdWtjUEFmYzI0ZHUzV2hvLVhmTTVLaWJwNjZmQ3dab1llQmVzZ3BmbFhFYWVjNHpacmoyY2tNMG1YaVBVLThrREJiVnI5Rk15bEdnVVBlS3piZWw1a2pxOEd5VnBxenNBN1AtblpaRFpLUzdDTWNhVENfVFVaMFFhRWkzcktQU3BRc3htTXBRSUU0c3ZxamFUWXNKWjh6X3d2b09DNW5OLThkT1pCTWo4X3FNN1ZpeU1XRjR5NzI0TTgyRzBsWW51MFJDSXN6OTBCcGRINVVQTWFST0FVQTE1ZHk?oc=5",
+      "published": "2026-04-09T09:22:00+00:00",
+      "source": {
+        "name": "l'Adige",
+        "url": "https://www.ladige.it"
+      }
+    },
+    {
       "id": "30daebc26e3a",
       "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
@@ -141,6 +141,16 @@
       "source": {
         "name": "ilFarmacistaOnline",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "b70ce89758e2",
+      "title": "Il ruolo del sonno nella salute cardiovascolare - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHozcWhRY21Vc2k5SmhmYnJYSG1IVUpyWWVRa0ZIYTBEREw0LWlvaFRFQlVLcDhkdEQ2cE1GOGs1SlA4SS00eHFaMll2RGlWYjVNM2MxcVVTc2w1Skk4Q1RKandrRnlSamRhaWlZWEl5akQ4UGZjY1lRWlVOTVI5bnBhNEdQcnQxUWZobGVtYUJzclVTckhpOVZn?oc=5",
+      "published": "2026-04-08T08:09:08+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -204,16 +214,6 @@
       }
     },
     {
-      "id": "72315a576fd4",
-      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
-      "published": "2026-04-11T13:32:00+00:00",
-      "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
-      }
-    },
-    {
       "id": "dec8be855801",
       "title": "Farmaci, Gemmato: \"Testo unico legislazione migliorerà anche accesso\" - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa25OdERTaGE4VFZEdXJPTHB2MHFtV3l0ZjlFZmhhWWVUcTBlQjNUUmQxX0V1SUF3QzRjOWgwMTJFUkNNNmtVSGRTOURXM19hTFR5MTBXdlBHMWJVenRpck5xWkl4eGh1aEozYl9rTUJ6WmlERkgyV3JzZzJZWTVDbGZiVEZUcVpnTlRGazM2X2hab3VDNnZIc1Z5NEwtYmZraG42R2JXX1VVRzNJQzh3ZmpXN0prUUdTOFdDQVl3?oc=5",
@@ -261,6 +261,16 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
+      }
+    },
+    {
+      "id": "72315a576fd4",
+      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
+      "published": "2026-04-11T13:32:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -314,16 +324,6 @@
       }
     },
     {
-      "id": "122c27a8c2bc",
-      "title": "Farmaci anti-obesità, meno fame ma anche meno proteine: l’allarme dagli studi real world - sanitainformazione.it",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVNkd1ZtaUlxTU5zVXZjZ24wNGRLNTdjQXFzMEl5cUJMbE9CY0pzc0duOWpyNzI4aXlfQkc3VHZCZ2NiTUcxRWFyOFB6VjQtWVF1QVh1R2p4Y2pOZUhmYnRRREhVRHZ4RjZNeEZZUGtCNVJLTUgtMWRKMTRzVDlWTURxa3ByZDBReEJYcW84UWg3bENlNW4wRTJ0T2diQUdFN0dYQk8ya2t2NEl2UUJ1ZmxCWmlOVmVkU1ZWWQ?oc=5",
-      "published": "2026-04-10T07:39:00+00:00",
-      "source": {
-        "name": "sanitainformazione.it",
-        "url": "https://www.sanitainformazione.it"
-      }
-    },
-    {
       "id": "83f7413ece5a",
       "title": "Studio: geni spiegano differenze nell’efficacia dei farmaci dimagranti - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JJM3U3TUYzcS1fX1VnZFI3cTFxcWZPcVdMTmZ1ank2SmtuUTdEckxoS0hSWG1tMjg4RmdqSm1iMmV6cTlDUzBZNDQ3TGl6bG54dWRiNlZtRU9MT21MMlJsNWRtclhaanRWMEFvQjhEYnNpdFhsZ3htNlAtSXplMlhBVGF5dmN5LU5zNGo5QmJtNDdWbGw0RS0zR0lFTDY5SzJTYlFuRURHQnRuLTVMN3RqNURDUmZvM1V0S2pn?oc=5",
@@ -331,16 +331,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "ffac985d472a",
-      "title": "Farmaceutica: Grazzi (Gsk), ‘stabilimento di Parma contribuisce a economia salute’ - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzVQb0xDUGdCcURzMmx4LWctR3FvZHVXcXprM2Y4X3dRaUF1dVlROHJhT3BtZ29nLVRORjJxOFNLaGxXTGVHU3o1U01RWkJROGNGQW1kLWNhN1hodUtRNW42Yl81enEySFEzd1YwYWpXbnJvdFl2QWtaOVhoSEE3RzNJdzB3dXNNZWFuQmtPRzdTT2lwNVBOdXRTRDVHeV9IeTF3RWwxcFB2bnZzby1ZWDJHNk1RX0JFTTFhWWpjQVhnTWdKdERRb19MVFE?oc=5",
-      "published": "2026-04-09T13:35:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -391,6 +381,16 @@
       "source": {
         "name": "unipr.it",
         "url": "https://www.unipr.it"
+      }
+    },
+    {
+      "id": "ffac985d472a",
+      "title": "Farmaceutica: Grazzi (Gsk), ‘stabilimento di Parma contribuisce a economia salute’ - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzVQb0xDUGdCcURzMmx4LWctR3FvZHVXcXprM2Y4X3dRaUF1dVlROHJhT3BtZ29nLVRORjJxOFNLaGxXTGVHU3o1U01RWkJROGNGQW1kLWNhN1hodUtRNW42Yl81enEySFEzd1YwYWpXbnJvdFl2QWtaOVhoSEE3RzNJdzB3dXNNZWFuQmtPRzdTT2lwNVBOdXRTRDVHeV9IeTF3RWwxcFB2bnZzby1ZWDJHNk1RX0JFTTFhWWpjQVhnTWdKdERRb19MVFE?oc=5",
+      "published": "2026-04-09T13:35:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -514,26 +514,6 @@
       }
     },
     {
-      "id": "e75608f85f15",
-      "title": "Cani, arriva la pillola per rallentarne l'invecchiamento - Il Mattino",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29DOTBUNlF0YUUxZzhrTXEtUUpjMmVLbXhyZWpPdnVzejAtTXJINkk0LS1jSkF0ZXZZYXRSUWdFSF9RS2h6bmZ4RXAzNlAzcFdiTWJoMjFWNU5zc3E1aFBVeHZYWkMwck14Y2FScWhNSGNTbnRVMkdKeFVBUHpRLThzbmhfa1hlWFV6QkQzb0dSMWN5VGs40gGcAUFVX3lxTE1RUTNINkpDejdKX2ExU2s3RHdDemZQazAzWmxaZjVuLVQ2Z3BwTFJ4MXhCdnFSQ1ZVVUpvTHd1NV9zRlJROEtpOVA5MHA4dFg3Smxmc2ljdEhPdFZtNFU3Yl9qZ3NBY215dTVkUHpZb3MwZU5QczQwby1TWFVEekRHYldDaU1BWWNJVmhObHpCTVpNTmM5NnV6M19xdg?oc=5",
-      "published": "2026-04-11T15:21:50+00:00",
-      "source": {
-        "name": "Il Mattino",
-        "url": "https://www.ilmattino.it"
-      }
-    },
-    {
-      "id": "9809ca9b1b4c",
-      "title": "Il nuovo robot farmacista della Città della Salute di Torino - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXhqb2xydDRJdWU1ZUdYcklLNjRsM3NDeGtzdV91QkttUktaZkFyNmtRcG1kUl9ma215azUwNUZwUWo0Sk5ESktoZW1NTUhpaW14aTROSVJ4c2VRYS13dWVUMnNEdTFXbmxfWE9EOUhmVjczdURoRS1vcDlZY1dmR1pGMnd0enVWZTZ1VTZsaUtVQXhQYU1Icjl3bFluZ05haktCdXlRVkQxN2RjV0JR?oc=5",
-      "published": "2026-04-08T14:35:40+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "7baf0a1b5b2e",
       "title": "Tumori cerebrali, il sistema sperimentale in 3D per valutare i possibili farmaci contro il glioma - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGNnQV9Uem5CcE9yRE5Wa1Y1NU5tVm81WDlyeUdlYWx5NERCX1FiOVEwcGtkclBTOFhka01nbTF0WjR1RmtkVWcyeXNmTGNyTnF4Qld1a3J0R3k2TTFUb3VoTGxuTGJMRkZpSldCc3JGN3BlcGtlck5yZENaVmtEa3prVlhNMXVLT243Q0VUcWh2QTB6eFlGOFdTdmstSFFlRWsteUktbFpCc2xXTDcxS0tEVUQ2ZE05akVJZ1lxakRleGlMTC0tOGE1ZHY0Sm5XcWdRQ29Xdkk0TnphaHhN0gHaAUFVX3lxTE1zUFhTdUlVdW1GWDZpZDdFaDdOVXJSS21yVXdCZGI3eW9oaHBWSi0xY3R1MXpYeEVpLUkyVkFNekVuMlpORkRNbzNvUFVPMHdURXNqM09KUU9GXzJDSHdsM1ZSbjNJRnFaUTNlQ3ZFeU8yQmpVNFRGeXRCTm5acFI0dldjeFd5T3E3MDQzVW5FX1FMbFBQUWQxV2JlOWdHa0l3N0NSR3dKVzE2dTlYWGNjV29MRDd5Z0w3eEFSRTZRdE9udGpTQ2xlQXh6emdkd1BiT2h4SlZHVkx3?oc=5",
@@ -544,13 +524,13 @@
       }
     },
     {
-      "id": "94398bb2eaec",
-      "title": "Un sistema 3D per studiare farmaci contro i tumori cerebrali: a svilupparlo l’Università di Trento - l'Adige",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3BSanFhbU1CY2pLcjhVdWtjUEFmYzI0ZHUzV2hvLVhmTTVLaWJwNjZmQ3dab1llQmVzZ3BmbFhFYWVjNHpacmoyY2tNMG1YaVBVLThrREJiVnI5Rk15bEdnVVBlS3piZWw1a2pxOEd5VnBxenNBN1AtblpaRFpLUzdDTWNhVENfVFVaMFFhRWkzcktQU3BRc3htTXBRSUU0c3ZxamFUWXNKWjh6X3d2b09DNW5OLThkT1pCTWo4X3FNN1ZpeU1XRjR5NzI0TTgyRzBsWW51MFJDSXN6OTBCcGRINVVQTWFST0FVQTE1ZHk?oc=5",
-      "published": "2026-04-09T09:22:00+00:00",
+      "id": "e75608f85f15",
+      "title": "Cani, arriva la pillola per rallentarne l'invecchiamento - Il Mattino",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29DOTBUNlF0YUUxZzhrTXEtUUpjMmVLbXhyZWpPdnVzejAtTXJINkk0LS1jSkF0ZXZZYXRSUWdFSF9RS2h6bmZ4RXAzNlAzcFdiTWJoMjFWNU5zc3E1aFBVeHZYWkMwck14Y2FScWhNSGNTbnRVMkdKeFVBUHpRLThzbmhfa1hlWFV6QkQzb0dSMWN5VGs40gGcAUFVX3lxTE1RUTNINkpDejdKX2ExU2s3RHdDemZQazAzWmxaZjVuLVQ2Z3BwTFJ4MXhCdnFSQ1ZVVUpvTHd1NV9zRlJROEtpOVA5MHA4dFg3Smxmc2ljdEhPdFZtNFU3Yl9qZ3NBY215dTVkUHpZb3MwZU5QczQwby1TWFVEekRHYldDaU1BWWNJVmhObHpCTVpNTmM5NnV6M19xdg?oc=5",
+      "published": "2026-04-11T15:21:50+00:00",
       "source": {
-        "name": "l'Adige",
-        "url": "https://www.ladige.it"
+        "name": "Il Mattino",
+        "url": "https://www.ilmattino.it"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "48f959856e5c",
+      "title": "Salute e dimagrimento, scatta il divieto per la paroxetina e altri farmaci Ssri - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUx0U2REekpMQjdhSkZoM0dGRExJTDBQV0JkYzFPWk1qZ09IY3VmSWdPVURlS2VCUlc5RUcydnZVY1B1TUNHaE93a3dQbVpGTzhjTjFpVnlXRUVIUW0xcWtVQ0Q2eFZ4NVNOZDFnY0dGbTQwaUNyeExzcjFvclo2VmdR?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
+      }
+    },
+    {
+      "id": "e37d39115a44",
+      "title": "Farmaci per dimagrire e antidiabete: esiste davvero un rischio per la salute degli occhi? - Diabete.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFAwQ204aFc3VmJqbkRLc2tPbnM4LWQxMlVTMVNxVHFvLVlQbTVhLU53TFRvRFBqSkpRbzhRZ3dNZW1pY2EzZWlhekNSUE1YS3g1ajQ0QnlqdkY3bFZJRWNGRnhPTHR4SWhFN1hqNGhGM19TS2pzUVBvWG9Jb3VCQg?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Diabete.com",
+        "url": "https://www.diabete.com"
       }
     }
   ]
