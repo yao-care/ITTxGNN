@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T10:23:57.022280+00:00",
+  "fetched_at": "2026-04-11T11:22:10.266350+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "4dd0b3cb6961",
-      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
-      "published": "2026-04-09T17:52:24+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "368dfc7fb351",
       "title": "A Città della Salute un robot prepara i farmaci oncologici - AGI",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGM1U3dSbEROeUd3ODhwX3UyWVQwcGsya21HbzNYem5EMXk5X0RYSmVkRUk4T3ZJUk1zb1h1dFhlaWt6OFo0Sjg2U3J1LVF2SHBSeWhwM3hZSlpsVVpyLTd0cEE5d3V2ZXpVOGZEb0h4Z0RFMnBGTUM2Zk9PcnFfdDFQcjRQYmYxV20teA?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Il Resto del Carlino",
         "url": "https://www.ilrestodelcarlino.it"
+      }
+    },
+    {
+      "id": "4dd0b3cb6961",
+      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
+      "published": "2026-04-09T17:52:24+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "3f0a49d5dcf1",
-      "title": "Un farmaco in più per il cuore - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
-      "published": "2026-04-10T15:17:46+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
-      }
-    },
-    {
       "id": "30daebc26e3a",
       "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
@@ -124,13 +114,13 @@
       }
     },
     {
-      "id": "35061790ed6c",
-      "title": "Obesità, come cambia la terapia con i nuovi i farmaci orali? - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelB0dGo2SDVKeE44Qm5SRm83TGlLSHA3WXRkN0dpMmVETUhselI3V1U4Rzlyc25uS3paUTdjN2x6TEZrckJ3Z2FMSnozYS0xNzJDam1HdjJiLUlGdnVsenhtOHYzdFhMMThzb29WNWNnMHBGTDlNb1o1alp0aHl0UkFWcVdwWmZxeURSc3NzSXl3NkF2TnlUUGt4UEhFX0U1MnQ3Mzd2aFp3ckJlZEdjV2dKbXAyc1otU2tsbHhlLXdhSVV2VmZJ0gHMAUFVX3lxTE0tT2pzcWd3ekhjMTF2eDhYMXlTYXo4cnZKdy1BTDh3QmpJUGQya0FLOXdfSlNtRDBpY1VSYk1PNGRGNHdMcmpYYlBxeTJQV19kRlJnUmdtRWswSFR5a0VudXR1cElHemJjVHlsM3loT0JHTWVTeVlnMUEySHZvc2xNczVnWDFVcHIxakRYaWJObl9YSXhNa2I0cFhvRGROeXF5bE1iUmNTdENiSWx6Y3RabGNkVXJENUduemFfOUVxQVUtTE5ENjNKSmFldg?oc=5",
-      "published": "2026-04-10T13:17:05+00:00",
+      "id": "3f0a49d5dcf1",
+      "title": "Un farmaco in più per il cuore - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
+      "published": "2026-04-10T15:17:46+00:00",
       "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
       }
     },
     {
@@ -141,6 +131,16 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
+      }
+    },
+    {
+      "id": "35061790ed6c",
+      "title": "Obesità, come cambia la terapia con i nuovi i farmaci orali? - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelB0dGo2SDVKeE44Qm5SRm83TGlLSHA3WXRkN0dpMmVETUhselI3V1U4Rzlyc25uS3paUTdjN2x6TEZrckJ3Z2FMSnozYS0xNzJDam1HdjJiLUlGdnVsenhtOHYzdFhMMThzb29WNWNnMHBGTDlNb1o1alp0aHl0UkFWcVdwWmZxeURSc3NzSXl3NkF2TnlUUGt4UEhFX0U1MnQ3Mzd2aFp3ckJlZEdjV2dKbXAyc1otU2tsbHhlLXdhSVV2VmZJ0gHMAUFVX3lxTE0tT2pzcWd3ekhjMTF2eDhYMXlTYXo4cnZKdy1BTDh3QmpJUGQya0FLOXdfSlNtRDBpY1VSYk1PNGRGNHdMcmpYYlBxeTJQV19kRlJnUmdtRWswSFR5a0VudXR1cElHemJjVHlsM3loT0JHTWVTeVlnMUEySHZvc2xNczVnWDFVcHIxakRYaWJObl9YSXhNa2I0cFhvRGROeXF5bE1iUmNTdENiSWx6Y3RabGNkVXJENUduemFfOUVxQVUtTE5ENjNKSmFldg?oc=5",
+      "published": "2026-04-10T13:17:05+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "cc661e5e6d09",
-      "title": "Farmaci anti-diabete a base di GLP-1: un gene decide quanto funzionano e per chi - unipr.it",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0RlTWp1VGVaaks2eVpER0RlOTIzQ2VKWk5GVEVPMWQtNFBPMHI3TlFmS0M5bldyLU5zTWxDamZmVE9HMi1IUF90Y3pmZ2x6djlBd0tpNktMa29IT3hVWWQ3UnVSVXZaOFZhNU5VOTZOV041VzdxSWF0SUpOOXE1ZXB1SDB6SUp5elVEV2FudWwzTzhxSjcyMTdXWTVsb2JITlpJXw?oc=5",
-      "published": "2026-04-10T12:39:45+00:00",
-      "source": {
-        "name": "unipr.it",
-        "url": "https://www.unipr.it"
-      }
-    },
-    {
       "id": "c950d6ac1c12",
       "title": "Tornano le allergie stagionali - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnFmblJvWjhjNmNRVzJsY2tta2dFQUYybkZ2aUFjVkx1Z2RaTWIzQkpTVUtYWjNHNWJxc0Q5Zmw0NmpvUlR3NnBHMDlLUWJ6TFQ5dVRlUnpBamwwZXZJWUdYTDRUMS03YkphSU0wWFhNZ1NsNGxZUUxlblpuTVhLWkFmTHZHQUVILUN5WXpnXzZIYXdaeHNjWGdjeFRyVEczbnlLclNfTW10bnlkTUc0T2dWbkdyQUlzMUUxVW5SQTh2N2ZmUFpN0gHMAUFVX3lxTE15SWx1RXpseWsxYzdzZmVMV3RyTkRFb0U3Y05RSFA0TlFKWkZ4cnZfQWhmR1hzM2k1RzAtem50SGRTNXRHQzMzUlU5ekpzVGQ4ZTNNNHlIU0VJbGQwUmZQRW9rN2QtdmtEQmRtX01oSFczMl9FamprTkIzSFNHcG85SDlBbUNUYWVISl9BNXRhSVp1N0JZWDBIcUhTSVZKaUpsNUtZS3kxYTlBYzBFM2twc2hSbFp5NFZ0STRRVzRBZURhX2RtWTlXd1ZWcA?oc=5",
@@ -291,6 +281,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "cc661e5e6d09",
+      "title": "Farmaci anti-diabete a base di GLP-1: un gene decide quanto funzionano e per chi - unipr.it",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0RlTWp1VGVaaks2eVpER0RlOTIzQ2VKWk5GVEVPMWQtNFBPMHI3TlFmS0M5bldyLU5zTWxDamZmVE9HMi1IUF90Y3pmZ2x6djlBd0tpNktMa29IT3hVWWQ3UnVSVXZaOFZhNU5VOTZOV041VzdxSWF0SUpOOXE1ZXB1SDB6SUp5elVEV2FudWwzTzhxSjcyMTdXWTVsb2JITlpJXw?oc=5",
+      "published": "2026-04-10T12:39:45+00:00",
+      "source": {
+        "name": "unipr.it",
+        "url": "https://www.unipr.it"
       }
     },
     {
@@ -321,16 +321,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "b0c36bdda1dc",
-      "title": "Ipertensione non controllata: la presenza decisiva del farmacista - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmliM2lzX0JTcHZZTEdBVzB3RFN4d0lkendZSko5SjVKNFpjbk94b3ZSYk00TlgwUi1PVm5RNHQ2M0JrOUg0dU5NWlpkWndfa2RlRVZYVm9xTFpIV1ZLSVM2OGRDX05YNnNLTFo3RWphTEtTREp3ZDlWUjYyRmpYWElLQTA5YTJRNjlCenBiYTdMb1paREFlTA?oc=5",
-      "published": "2026-04-10T11:00:58+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
       }
     },
     {
@@ -384,13 +374,13 @@
       }
     },
     {
-      "id": "290c740880d0",
-      "title": "Farmaci, risultati positivi per mavacamten in adolescenti con cardiomiopatia ipertrofica - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUFLSXNhNENHcE1XbGgtaGczN2xocDB6YzA0NEh0ZlVRVmhseE9qaTlvQUFXdGh1M0VZMkhYVnRWRXRGc0Qxa0NGNmlhTEdCMk16X3BtcHNsNmNSVEpVQzJsaV81bFZuTWNfN2RzaDZMeEpCZzhpLVZVZGdLcDgxVE9xSlVuUV9qVnFfeFVqc29HdUFxcGhfWmVqRzB3RHN1REc5bHV1cjJzT1AtZlZFaEdLWDA3anpRQ1k2TjFNa2h3SmVYZnRZSzRYREQteW1qM0tPNWp4MjZYUFE?oc=5",
-      "published": "2026-04-10T10:46:00+00:00",
+      "id": "b0c36bdda1dc",
+      "title": "Ipertensione non controllata: la presenza decisiva del farmacista - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmliM2lzX0JTcHZZTEdBVzB3RFN4d0lkendZSko5SjVKNFpjbk94b3ZSYk00TlgwUi1PVm5RNHQ2M0JrOUg0dU5NWlpkWndfa2RlRVZYVm9xTFpIV1ZLSVM2OGRDX05YNnNLTFo3RWphTEtTREp3ZDlWUjYyRmpYWElLQTA5YTJRNjlCenBiYTdMb1paREFlTA?oc=5",
+      "published": "2026-04-10T11:00:58+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
       }
     },
     {
@@ -408,6 +398,16 @@
       "title": "Farmaci: Rosati (Gsk Italia), 'orgogliosi di produrre in Italia terapia innovativa per mieloma multiplo' - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX05HVW5Bd3J1aWNuZktmX1ZzdW54RGFtVTFoVTBPTXVNSlpWRWVSTHZpMGZ0bnJOTWhrQnNGQnJFNldQdTVZdG10MjhXQVVONTYxbGhQbHVPR2t2UlZ4TVB4bjlkTzlvNmxrRDRCY1U3NFlLOVVLNFNfOFM0UERURmNINDhIVjRVQ2hibk1ZbHdiWTdBTy1NRnlPUUhHaFpMRnFoSGxIcldpQUVuTG5qNDdhay10cThONnpGNHpBd2JMcDMycVVQdHlfakZuNWNEU0NJaWxabjhVUnFrTVlweTRnRzdrbHVrMnc?oc=5",
       "published": "2026-04-09T15:18:36+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "290c740880d0",
+      "title": "Farmaci, risultati positivi per mavacamten in adolescenti con cardiomiopatia ipertrofica - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUFLSXNhNENHcE1XbGgtaGczN2xocDB6YzA0NEh0ZlVRVmhseE9qaTlvQUFXdGh1M0VZMkhYVnRWRXRGc0Qxa0NGNmlhTEdCMk16X3BtcHNsNmNSVEpVQzJsaV81bFZuTWNfN2RzaDZMeEpCZzhpLVZVZGdLcDgxVE9xSlVuUV9qVnFfeFVqc29HdUFxcGhfWmVqRzB3RHN1REc5bHV1cjJzT1AtZlZFaEdLWDA3anpRQ1k2TjFNa2h3SmVYZnRZSzRYREQteW1qM0tPNWp4MjZYUFE?oc=5",
+      "published": "2026-04-10T10:46:00+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "3f55fd10f335",
-      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
-      "published": "2026-04-11T02:04:37+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
       "id": "9809ca9b1b4c",
       "title": "Il nuovo robot farmacista della Città della Salute di Torino - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXhqb2xydDRJdWU1ZUdYcklLNjRsM3NDeGtzdV91QkttUktaZkFyNmtRcG1kUl9ma215azUwNUZwUWo0Sk5ESktoZW1NTUhpaW14aTROSVJ4c2VRYS13dWVUMnNEdTFXbmxfWE9EOUhmVjczdURoRS1vcDlZY1dmR1pGMnd0enVWZTZ1VTZsaUtVQXhQYU1Icjl3bFluZ05haktCdXlRVkQxN2RjV0JR?oc=5",
@@ -571,6 +561,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "3f55fd10f335",
+      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
+      "published": "2026-04-11T02:04:37+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -681,16 +681,6 @@
       "source": {
         "name": "Quotidiano di Ragusa",
         "url": "https://www.quotidianodiragusa.it"
-      }
-    },
-    {
-      "id": "050673515898",
-      "title": "Sequestrati farmaci illegali e sospeso un esercizio abusivo della professione medica a Treviso - La Piazza Web",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUVKR2VYV01VbF9lTVY2dy1HLWFXWnFQUExCc3U1RjVUR0xWakRMRlBJWFB4ZlBhTVdZbzliaXR3QmM2aGhIaXRLdkRGbEJZUE1wV0NlZjhxeVlRVXVocE1zNGExVEpSeVpvQlZXUjNibjJYWHlmY3d6SU1YZTZoeHNCbHY4SkNoUlltUXIxVG9heXlxVi13b0xKTk41YmJScm81WjBZZ29zN1V2dktQSXUzalZST0Zsb29IWHpLMTQyelJVdmRMRzJialZYY0xDNF8yazNSR3g2TExxYmFN?oc=5",
-      "published": "2026-04-08T10:25:00+00:00",
-      "source": {
-        "name": "La Piazza Web",
-        "url": "https://www.lapiazzaweb.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "e6a86c9daf74",
+      "title": "Effetti collaterali delle statine: realtà o falsi miti? | SIF Magazine - www.sifweb.org",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2hqTHBDc05qTDNKUjN5MEZCUlBnSFZmX09sSl9GdnY3YWNCZXp3Y1hzSU9DM0Rlak5hZW9yZUZBNFNYUDF6dThZejVmamRJRzNFRU1fbE93TF9ibzg3RW9hSVNqVFhvNDQ3N3lhZVhpdDZUZ2FyVlRkb2JKYXBDS1ViaGhQN3lGbGo0TGpkMUl3Z3VtR1IzbWxLSjF0cDQ4VEhPLUw3RGlteVFvZld3aGpGWEM1eWktZ3BiOXh3TmFCQlJBeUwzbEJzVzU?oc=5",
+      "published": "2025-12-25T08:00:00+00:00",
+      "source": {
+        "name": "www.sifweb.org",
+        "url": "https://www.sifweb.org"
       }
     }
   ]
