@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T19:28:27.436575+00:00",
+  "fetched_at": "2026-04-11T20:21:44.434705+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "72315a576fd4",
-      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
-      "published": "2026-04-11T13:32:00+00:00",
-      "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
-      }
-    },
-    {
       "id": "ece506bf9f12",
       "title": "Crisi energetica e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1p2VktPMVJyVHY0RE4tNzNVSGdoXzFIZG1nRnNfazNJZE5QTmE3b3RZdTRnRUptMDMyQWZUZjRKc2tLakZuMV9ic0hfYXRjcFJ1OFh3ZFNBVmhaYmlZMms4ck9WXzB5Q0J5RUhDQjZnS1VfU2VwYUJsZmRGN0g2VGl0ZXliVnpvMjNRLWFpLTRKRTdiYURwSl9XeDFVZTI3OHpDV19lRncwWkNuR1RwRFBLMVFabU5GQ3ppQU1hOTlxUS01UE1zSm1sNTlBQW0yek9hdTZPdDFMeU1Q?oc=5",
@@ -281,6 +271,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "72315a576fd4",
+      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
+      "published": "2026-04-11T13:32:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -574,6 +574,16 @@
       }
     },
     {
+      "id": "a02425a24a9d",
+      "title": "Dieci anni di cambiamento: la farmacia si conferma pilastro della sanità - CalabriaMagnifica.it",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM183S0J6anI1WldLaVduNmRZSVNJbWo0dlNvTkc4d01ZLURXLTRYeUgxSW9vMm9fSzk0cUpEaHRsdERGc3ZaeWxhVU10dnNwVmI1dFJUai01aXVQTngtem13cUVnbHJIaU4wcnMwelhEZGx1NmppT3g4OUFPTkZ2SnplUnVMcXd4TUtkMnRTV05yVlNfaHprMmgtUQ?oc=5",
+      "published": "2026-04-11T19:27:43+00:00",
+      "source": {
+        "name": "CalabriaMagnifica.it",
+        "url": "https://www.calabriamagnifica.it"
+      }
+    },
+    {
       "id": "3f55fd10f335",
       "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
@@ -581,16 +591,6 @@
       "source": {
         "name": "Giornale di Brescia",
         "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
-      "id": "3d605a29160f",
-      "title": "Intelligenza artificiale. Salute mentale e IA generativa: tre priorità dell’Oms per ridurre i rischi e tutelare gli utenti - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbGdvREpBY2lBbHRrWmE5OHg2YmdSdF9Ta2U3QUd4V3A2eXZmdkx5LWRXMnUzQTJISUdTS01Ld3NUc2pVNmMybUNSRU5XdkJwc2tCRkdqQjM0ZS12RnNvQW9MZTBJbmczYzZ0OEtpcUtUT2dzekwxbmZsN1Y3QUMyeXlqMHUxeng3TGEwS1VRY2syeS1HYU1tZExVVmpTTm10ZHNsTEFiaF8yNk95clVwTlpUUFVVS1hmMVVCTmctbmFST21nb01FQmJvc2lySFJmdTNaUG1rZF9TM0JSY3RTN21KbFhsazRSc2Vod3BmU3F4STFwNEwzekd3elhIRFk?oc=5",
-      "published": "2026-03-23T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -671,6 +671,16 @@
       "source": {
         "name": "EspansioneTv",
         "url": "https://www.espansionetv.it"
+      }
+    },
+    {
+      "id": "5055fff3308b",
+      "title": "Fiaso, 'L'accessibilità ai farmaci si rafforza facendo squadra' - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXA1RmZuQ2ZibzFKTDR1RU1Md2xuTGczYVFkSER2MmlJTnBvQXhJM2tMbHg0dld1QVhtN3pjMWhNZlNhYW1oSURUQXJTcjlkOVJOOWxJVHNENk5NVzcwM0lyUkJzZElwcE0zTE5XUDFMU0F0QWFCVlBfUUNXU0RKZk1GcDA3eTI5bVlsREV4QVpCQ2F3TnlRbTFBMHM4VlUzdVh4LXlNQjVLaWx3d0laNXIydDhWb3Zidm5F?oc=5",
+      "published": "2026-03-26T02:56:00+00:00",
+      "source": {
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -794,16 +804,6 @@
       }
     },
     {
-      "id": "eb2e198082e7",
-      "title": "Consegna farmaci e prodotti salute con Just Eat: progetto pilota con 1000Farmacie - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFQZnZvUDJOMV9JbFYySU9qNG4xOUpkeldDNmtkRUJjWXM3UWRRdHNuOTQtek9tRkNoTFVjNHMwVEtLZ3pzTDE1dnFabWRwZkUtVVRqZFp3R2lwRUE0Ti1jWTFPUnA2TmE3QnZzQ3piVWhrdEtkS3NDZEhyMFMyRmN1SERydnV5ek5zVUFmVjMyVXlBaklZaFgxZVRiNzZyZHB1Wk93QTFWUEtxVG5ab1pscXJuWUxEdkVJTEpFQ2VaM09QNW9VMW1QWTZaTlhoeDVHdGJR?oc=5",
-      "published": "2026-01-22T08:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "4cdd74c8f603",
       "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
@@ -811,16 +811,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "95f094b962c7",
-      "title": "La rivoluzione della longevità canina: arriva il farmaco che allunga la vita ai nostri amici a quattro zampe - MeteoWeb",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVBuVzduQXUxejM4MFR0cG9zSlh4YTFLMUZ6T3BJd1ZjTUIzWUtGYnI2anRQSmMyVmlIRk9IWWNZS0VXV3F1anNiX2k1RXpKUm93ZFZmTlNMV0o1OTNjdllYVjVQM1hzR2JQRUlrRWFyaFBiVjdtNy1jUzI3NFQzZDdkV1Q3UmxzOFVfRzVMa1YxamFwNkpPQ2VzQmQxYTg3Y040WnVGb2FnNWdFSi1ZRVdGU21la2I5Yzl4UTBBRDhYYnBjOWcwTldRdnRrNFJjNjFXbHQ0QzFWZDExbi1qNWNIdzN1UdIB7gFBVV95cUxNdXZJLUZ2WWxUMEZRUmhaYWpPNzlYNF9DT1J5MkRsY0xyQ05hRXg5TEJlV1IxTVdybFJxdkZLNlBvdTAtZVVYWVdTUDNBVWl2QlM3SnRndFl4X1N1LXVXazRqUF9HVG1vb0hzVEl5RnZ0UDU4TGEzSU5XSHFIR2FpY2xuRHdOcFNJMFRzY2pyaXhWa1BzWmRkbjM2cHJtMVR1b3RUNVNvOVh6NkVqcGNVM0dNcS1ITl9Vay1qbk9VU2NWbjFRS3dSVHhITzRfRV96dVYtelhmUUhKODBCYk12ZXBiRVVQV3plRmg0dnBB?oc=5",
-      "published": "2026-04-11T08:11:00+00:00",
-      "source": {
-        "name": "MeteoWeb",
-        "url": "https://www.meteoweb.eu"
       }
     },
     {
@@ -834,6 +824,16 @@
       }
     },
     {
+      "id": "95f094b962c7",
+      "title": "La rivoluzione della longevità canina: arriva il farmaco che allunga la vita ai nostri amici a quattro zampe - MeteoWeb",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeVBuVzduQXUxejM4MFR0cG9zSlh4YTFLMUZ6T3BJd1ZjTUIzWUtGYnI2anRQSmMyVmlIRk9IWWNZS0VXV3F1anNiX2k1RXpKUm93ZFZmTlNMV0o1OTNjdllYVjVQM1hzR2JQRUlrRWFyaFBiVjdtNy1jUzI3NFQzZDdkV1Q3UmxzOFVfRzVMa1YxamFwNkpPQ2VzQmQxYTg3Y040WnVGb2FnNWdFSi1ZRVdGU21la2I5Yzl4UTBBRDhYYnBjOWcwTldRdnRrNFJjNjFXbHQ0QzFWZDExbi1qNWNIdzN1UdIB7gFBVV95cUxNdXZJLUZ2WWxUMEZRUmhaYWpPNzlYNF9DT1J5MkRsY0xyQ05hRXg5TEJlV1IxTVdybFJxdkZLNlBvdTAtZVVYWVdTUDNBVWl2QlM3SnRndFl4X1N1LXVXazRqUF9HVG1vb0hzVEl5RnZ0UDU4TGEzSU5XSHFIR2FpY2xuRHdOcFNJMFRzY2pyaXhWa1BzWmRkbjM2cHJtMVR1b3RUNVNvOVh6NkVqcGNVM0dNcS1ITl9Vay1qbk9VU2NWbjFRS3dSVHhITzRfRV96dVYtelhmUUhKODBCYk12ZXBiRVVQV3plRmg0dnBB?oc=5",
+      "published": "2026-04-11T08:11:00+00:00",
+      "source": {
+        "name": "MeteoWeb",
+        "url": "https://www.meteoweb.eu"
+      }
+    },
+    {
       "id": "885512e014d5",
       "title": "Celiachia - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xSWFyVmZDajM5Uzl4TzVGQTFpaHpJc01IUmFDV19vQnNYV25GYmttYjNoT1FfdnRqak1DbXNOdU1rTjRhWGFDQlJwR2JITWYxUFdoZXZoeDQyQWFpRTQyRDE2cmJoT29ydHc?oc=5",
@@ -844,16 +844,6 @@
       }
     },
     {
-      "id": "1258962b843f",
-      "title": "Ema ritira dal commercio i farmaci con levamisolo per rischio leucoencefalopatia: quali sono - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN24tTTBlZ0FBUlVpTGJLLUVRa3hWd1pCMlItUkVBMDNBYmVIbEtjNldSdkpzbVBrSVdqbldsNW1YUFFoV182Ri1DSGlacTBrTjZzZDJWUmlGeWl6ZXhZS1VfUGFmVjg0dnI0US1Hc28wdVUxV0R5ZlVLRDJoQXJDRQ?oc=5",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "3c413b944d9b",
       "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilFarmacistaOnline",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
@@ -861,6 +851,16 @@
       "source": {
         "name": "ilFarmacistaOnline",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "1258962b843f",
+      "title": "Ema ritira dal commercio i farmaci con levamisolo per rischio leucoencefalopatia: quali sono - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN24tTTBlZ0FBUlVpTGJLLUVRa3hWd1pCMlItUkVBMDNBYmVIbEtjNldSdkpzbVBrSVdqbldsNW1YUFFoV182Ri1DSGlacTBrTjZzZDJWUmlGeWl6ZXhZS1VfUGFmVjg0dnI0US1Hc28wdVUxV0R5ZlVLRDJoQXJDRQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -934,16 +934,6 @@
       }
     },
     {
-      "id": "146b34f2b0c7",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "Doctor33",
-        "url": "https://www.doctor33.it"
-      }
-    },
-    {
       "id": "8dee681e07ad",
       "title": "Indennità di residenza alle farmacie rurali - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoMWQ4ZDlJV3BWLV9VR1BnUFBXS2ctSVk1dTRjZmhTRkpLQ0IzeFI0TDdiLW9kQnRjRl91cFd5Wml5bUlGNVdfaWhjS3FhQVVPbFdhaXRyY2NMaC1FamIzQ1IxNUpYTU1KTTM4ZDVuejdJVUFaeWdxUkg3WQ?oc=5",
@@ -961,6 +951,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "eb2e198082e7",
+      "title": "Consegna farmaci e prodotti salute con Just Eat: progetto pilota con 1000Farmacie - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFQZnZvUDJOMV9JbFYySU9qNG4xOUpkeldDNmtkRUJjWXM3UWRRdHNuOTQtek9tRkNoTFVjNHMwVEtLZ3pzTDE1dnFabWRwZkUtVVRqZFp3R2lwRUE0Ti1jWTFPUnA2TmE3QnZzQ3piVWhrdEtkS3NDZEhyMFMyRmN1SERydnV5ek5zVUFmVjMyVXlBaklZaFgxZVRiNzZyZHB1Wk93QTFWUEtxVG5ab1pscXJuWUxEdkVJTEpFQ2VaM09QNW9VMW1QWTZaTlhoeDVHdGJR?oc=5",
+      "published": "2026-01-22T08:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
