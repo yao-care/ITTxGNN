@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T07:57:36.974741+00:00",
+  "fetched_at": "2026-04-12T08:42:55.902102+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "10d397c92f0d",
-      "title": "Farmaci, Murelli (Lega): \"Ridurre i tempi di approvazione\" - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEpqZ3hJQ2hXSlVJSlhWOG1pTlRzWnlCWG84dTl0NjNIWk9aMnZQM0NtNkpIclllVFBWZlZrOWRlMHg4VDhTMy1KeklwVG55TmNSNk81cHlJU0VsNXJQTHc0bzlvQUc4LWdDdUhSbUhwYVdMLVdTWWpyOXFNQ0dQaG9PUGVOQVJTRG8zSXNScXpTdzZpSk1JbE56dGxrUm1GNHBpcE0ydXhBbTZu?oc=5",
-      "published": "2026-04-09T16:09:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
       "id": "e98a96544672",
       "title": "Farmaci per dimagrire, chi li usa rischia un deficit di proteine - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "10d397c92f0d",
+      "title": "Farmaci, Murelli (Lega): \"Ridurre i tempi di approvazione\" - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEpqZ3hJQ2hXSlVJSlhWOG1pTlRzWnlCWG84dTl0NjNIWk9aMnZQM0NtNkpIclllVFBWZlZrOWRlMHg4VDhTMy1KeklwVG55TmNSNk81cHlJU0VsNXJQTHc0bzlvQUc4LWdDdUhSbUhwYVdMLVdTWWpyOXFNQ0dQaG9PUGVOQVJTRG8zSXNScXpTdzZpSk1JbE56dGxrUm1GNHBpcE0ydXhBbTZu?oc=5",
+      "published": "2026-04-09T16:09:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "67aa7105c24b",
-      "title": "Infarto e farmaci: lo studio che rivela quando i beta-bloccanti diventano superflui - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xbl9YNnJfbDE5T1JfcURxYk1qbkhJV1dxbmNvendIcGxBUmlZOUMyaEdHeGY2dGlSTVZYQ3B1QWRTTmpKM0pKS05R?oc=5",
-      "published": "2026-04-09T08:11:16+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
       "id": "aa5ef15b8288",
       "title": "Farmaci, i test solo sugli uomini (e niente donne): le conseguenze - Libero Quotidiano",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjV4WEpMcG5iZnRESFl1N1Z1a1U3WWFBWUNUWG05RWVIME5OZ0g5SURSSThWVWZLZ3BLMFdvMnR6RlJNa2VrM3MtQ0Job0JFejhLRDhLUlhXS2ZvakxsNF9DcWk0NC1Qc29PU3dyMjA0cGQ0RllkaE5lRWNIMFFmbzhLNl9TQzltRjVJNG0xd21rR2trQmdZeFBTQzNOZERsRERxenB5NmprQ00tTWxlZTNEcE95cWs?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "Libero Quotidiano",
         "url": "https://www.liberoquotidiano.it"
+      }
+    },
+    {
+      "id": "94398bb2eaec",
+      "title": "Un sistema 3D per studiare farmaci contro i tumori cerebrali: a svilupparlo l’Università di Trento - l'Adige",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3BSanFhbU1CY2pLcjhVdWtjUEFmYzI0ZHUzV2hvLVhmTTVLaWJwNjZmQ3dab1llQmVzZ3BmbFhFYWVjNHpacmoyY2tNMG1YaVBVLThrREJiVnI5Rk15bEdnVVBlS3piZWw1a2pxOEd5VnBxenNBN1AtblpaRFpLUzdDTWNhVENfVFVaMFFhRWkzcktQU3BRc3htTXBRSUU0c3ZxamFUWXNKWjh6X3d2b09DNW5OLThkT1pCTWo4X3FNN1ZpeU1XRjR5NzI0TTgyRzBsWW51MFJDSXN6OTBCcGRINVVQTWFST0FVQTE1ZHk?oc=5",
+      "published": "2026-04-09T09:22:00+00:00",
+      "source": {
+        "name": "l'Adige",
+        "url": "https://www.ladige.it"
       }
     },
     {
@@ -354,6 +354,16 @@
       }
     },
     {
+      "id": "3f55fd10f335",
+      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
+      "published": "2026-04-12T07:21:40+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
+      }
+    },
+    {
       "id": "76e34de34b3e",
       "title": "La \"rivoluzione\" delle farmacie di Trento: sì al deblistering per i pazienti cronici - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDZxUC1obklxOW9wbngwYndlbTFXLU5aX3RGb3ZPZGlGaHJINGFBVGdfSjVnRDlzWTJYdUloX0xWQXROVGhwcDZhRE9ObzFPd2JuU1laeVZ6dTU0THQwUUt6OGxiQVlsNmJkYzMzUlE1N3ROZmhJVlA1ZTFucUkyR2dPU01hVFZtU3RjQlVmdmVBdjdiOFFyclRQSVQwekd1cHl6WmF0SEtpNXZSX1RB?oc=5",
@@ -384,26 +394,6 @@
       }
     },
     {
-      "id": "290c740880d0",
-      "title": "Farmaci, risultati positivi per mavacamten in adolescenti con cardiomiopatia ipertrofica - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUFLSXNhNENHcE1XbGgtaGczN2xocDB6YzA0NEh0ZlVRVmhseE9qaTlvQUFXdGh1M0VZMkhYVnRWRXRGc0Qxa0NGNmlhTEdCMk16X3BtcHNsNmNSVEpVQzJsaV81bFZuTWNfN2RzaDZMeEpCZzhpLVZVZGdLcDgxVE9xSlVuUV9qVnFfeFVqc29HdUFxcGhfWmVqRzB3RHN1REc5bHV1cjJzT1AtZlZFaEdLWDA3anpRQ1k2TjFNa2h3SmVYZnRZSzRYREQteW1qM0tPNWp4MjZYUFE?oc=5",
-      "published": "2026-04-10T10:46:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "6a3e29ebeade",
-      "title": "La nuova tendenza “wellness”: monitor della glicemia e farmaci anti-obesità per i sani. Parliamo di rischi e benefici con la diabetologa - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHVpYjgxZUZ2TDdpX2lvM2J6aS1XaGJyNFZNalpKYjhuNVRCMkxoald2RFpEMUgyZlVPQzNkcjA4bzNMWWg2NXFsX1RmaXgxY3lJZ1BKQXZDTHp6Zno4TV9qSk1JSnZXZ2k1RmFZbUNqUGFGOGVXdkszeG9McUZ2cV9ZYzRpRE1WcHc?oc=5",
-      "published": "2026-04-09T08:21:54+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "c950d6ac1c12",
       "title": "Tornano le allergie stagionali - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnFmblJvWjhjNmNRVzJsY2tta2dFQUYybkZ2aUFjVkx1Z2RaTWIzQkpTVUtYWjNHNWJxc0Q5Zmw0NmpvUlR3NnBHMDlLUWJ6TFQ5dVRlUnpBamwwZXZJWUdYTDRUMS03YkphSU0wWFhNZ1NsNGxZUUxlblpuTVhLWkFmTHZHQUVILUN5WXpnXzZIYXdaeHNjWGdjeFRyVEczbnlLclNfTW10bnlkTUc0T2dWbkdyQUlzMUUxVW5SQTh2N2ZmUFpN0gHMAUFVX3lxTE15SWx1RXpseWsxYzdzZmVMV3RyTkRFb0U3Y05RSFA0TlFKWkZ4cnZfQWhmR1hzM2k1RzAtem50SGRTNXRHQzMzUlU5ekpzVGQ4ZTNNNHlIU0VJbGQwUmZQRW9rN2QtdmtEQmRtX01oSFczMl9FamprTkIzSFNHcG85SDlBbUNUYWVISl9BNXRhSVp1N0JZWDBIcUhTSVZKaUpsNUtZS3kxYTlBYzBFM2twc2hSbFp5NFZ0STRRVzRBZURhX2RtWTlXd1ZWcA?oc=5",
@@ -424,6 +414,16 @@
       }
     },
     {
+      "id": "290c740880d0",
+      "title": "Farmaci, risultati positivi per mavacamten in adolescenti con cardiomiopatia ipertrofica - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUFLSXNhNENHcE1XbGgtaGczN2xocDB6YzA0NEh0ZlVRVmhseE9qaTlvQUFXdGh1M0VZMkhYVnRWRXRGc0Qxa0NGNmlhTEdCMk16X3BtcHNsNmNSVEpVQzJsaV81bFZuTWNfN2RzaDZMeEpCZzhpLVZVZGdLcDgxVE9xSlVuUV9qVnFfeFVqc29HdUFxcGhfWmVqRzB3RHN1REc5bHV1cjJzT1AtZlZFaEdLWDA3anpRQ1k2TjFNa2h3SmVYZnRZSzRYREQteW1qM0tPNWp4MjZYUFE?oc=5",
+      "published": "2026-04-10T10:46:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
       "id": "5004051c8741",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -431,16 +431,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "737b3484736f",
-      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
-      "published": "2026-04-11T17:39:40+00:00",
-      "source": {
-        "name": "TecnoMedicina",
-        "url": "https://www.tecnomedicina.it"
       }
     },
     {
@@ -454,13 +444,13 @@
       }
     },
     {
-      "id": "72315a576fd4",
-      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
-      "published": "2026-04-11T13:32:00+00:00",
+      "id": "737b3484736f",
+      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
+      "published": "2026-04-11T17:39:40+00:00",
       "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
+        "name": "TecnoMedicina",
+        "url": "https://www.tecnomedicina.it"
       }
     },
     {
@@ -491,6 +481,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "72315a576fd4",
+      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
+      "published": "2026-04-11T13:32:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -554,13 +554,13 @@
       }
     },
     {
-      "id": "94398bb2eaec",
-      "title": "Un sistema 3D per studiare farmaci contro i tumori cerebrali: a svilupparlo l’Università di Trento - l'Adige",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3BSanFhbU1CY2pLcjhVdWtjUEFmYzI0ZHUzV2hvLVhmTTVLaWJwNjZmQ3dab1llQmVzZ3BmbFhFYWVjNHpacmoyY2tNMG1YaVBVLThrREJiVnI5Rk15bEdnVVBlS3piZWw1a2pxOEd5VnBxenNBN1AtblpaRFpLUzdDTWNhVENfVFVaMFFhRWkzcktQU3BRc3htTXBRSUU0c3ZxamFUWXNKWjh6X3d2b09DNW5OLThkT1pCTWo4X3FNN1ZpeU1XRjR5NzI0TTgyRzBsWW51MFJDSXN6OTBCcGRINVVQTWFST0FVQTE1ZHk?oc=5",
-      "published": "2026-04-09T09:22:00+00:00",
+      "id": "9f98a1f64a2f",
+      "title": "Farmaci, enlicitide: risultati positivi in riduzione significativa di C-Ldl a 8 settimane - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2NWNFNEZ09zNEZuREtzZk1ZUGozd3NFVWEtZTNQcnFuZ2Vzek45dGJDWTh1TkpYTW9uVm9oUkJFVDdrcWFINkZISzN3QWtOOFRFWWNnUmh1QzhOdDlQVjFOZGNRZ3l1alBKLU15UHpvR2NVbE12QVpwN0IteWJ5b3lWQjJ3czY0LUpNVGtSaGY0RS1nR2huUjNtcGIzM3ZreU1UWVhjckxic3JGZ3ZHb0FVZ1BTcm5keGlCbXM4RUR5eTFPRFl5bkxZVHVkUmNHQjhmNmZhNVBEUms?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
       "source": {
-        "name": "l'Adige",
-        "url": "https://www.ladige.it"
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -607,20 +607,10 @@
       "id": "52bbe95a70fb",
       "title": "Farmaci antiobesità e salute mentale: effetti psicologici oltre il calo di peso. Cosa emerge dai nuovi studi - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUFmbkJYVnFJOThDWldldGhBZG8xNUJjQTE4anZ1RWhWMldsaGt5NTJWVDRKWjBRWUVTWlNYakhsTTd6SzE0cmJQRVEycGlWTU1OSnRtb19KblFaOXFJaF9iU3Z6enIwSFNjWEYtMFNnejFHc21hT0F4QWd6U2dLZDk1TFNKYmh0aU1uT0ROR2NpYVoyVVk1UHZPcWN2SDU5X0dnb0JPQ2NuZ2lDM0k2dVVsZTAtdVJDUnhNNDk0SGx5UTZWQ3VLeVY3OTM2WTUxV250X2JJeFpWdlhjMWdwR0NvRW9Hb3Yz?oc=5",
-      "published": "2026-04-01T00:00:00+00:00",
+      "published": "2026-04-01T07:00:00+00:00",
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
-      }
-    },
-    {
-      "id": "96b61d2ee2e1",
-      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -634,6 +624,16 @@
       }
     },
     {
+      "id": "96b61d2ee2e1",
+      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
       "id": "0c793f5e975f",
       "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
@@ -641,6 +641,16 @@
       "source": {
         "name": "www.altoadige.it",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "cb9483f89972",
+      "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - VareseNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
+      "published": "2026-04-04T12:42:59+00:00",
+      "source": {
+        "name": "VareseNews",
+        "url": "https://www.varesenews.it"
       }
     },
     {
@@ -744,16 +754,6 @@
       }
     },
     {
-      "id": "3f55fd10f335",
-      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
-      "published": "2026-04-11T02:04:37+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
       "id": "cdc18b5e66f4",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -854,6 +854,16 @@
       }
     },
     {
+      "id": "dc35ba4018a2",
+      "title": "Salute mentale e giovani: «Non bastano i farmaci, serve umanità e prevenzione tempestiva» - VareseNews",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlTWNuRGo4eGRhVzZSZ18xU1VTU3BIN2FKLVdJOGxFZjhkeDJDa0pkeWVsbUNHUWhuUTdFaVZTVGJwTWpjd2pmVnFoWXNqUjhJVVAya2Z0VmRzTy1FYmVr?oc=5",
+      "published": "2026-03-21T07:00:00+00:00",
+      "source": {
+        "name": "VareseNews",
+        "url": "https://www.varesenews.it"
+      }
+    },
+    {
       "id": "b9c6b596c4a4",
       "title": "Farmaci: Ema, non usare codeina per tosse e raffreddore bimbi - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1kbmwzaS1VeHpDaXBTbWlnemVTcnRrZVk2ZUVKM3A1TFNKaHpBVV92V2R5a05QWWktekJwQ2NTTC01SWNMTTdFbzhOZzdUS2M2Rlh0RXhUMTIwUWZsbHJJXzQ0YnRnNkRuX0FDanFEaEN2TVdCLUhGX3dZTDZTWmxsTzR6dUlHQnJ6OGdvNm12ZzNTelBxWW96bw?oc=5",
@@ -941,16 +951,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "94e74df34dce",
-      "title": "Sorveglianza fentanyl: il Ministero della Salute intensifica i controlli sulle ricette e rafforza la vigilanza - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN09rdFk3YmtyUk9BRVhzdHpLS2V3d0NKVVZIZklsYnhVejFjRlpKZWZKUzQ0TGxnb1VILWtrbUlGSFNtRkdyYWZ6X1M0UTFNYlRwSGVhRTI2bXFkY2Jfa1l4cHdQTTljOUFDNVJYZmpiWGJWYWduRDVUOUVzZFoxRGdqZVhlZEVMNXhPSnRTUTJOUnd3REpKZWk2WWoyd002RFRsUmEtWTY5c3VtSnRIa19EUTBDX3JISHd5cnp5OWo4QVREby1ZWEtvbw?oc=5",
-      "published": "2025-12-24T08:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
