@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-04-12T16:27:05.176585+00:00",
+  "fetched_at": "2026-04-12T17:26:40.456319+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "d0ed853c95da",
-      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
-      "published": "2026-04-12T12:45:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
     {
       "id": "e3d3b4a128d3",
       "title": "Choc anafilattico, arriva in farmacia spray nasale oltre all'iniezione tradizionale - Sky TG24",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "d0ed853c95da",
+      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
+      "published": "2026-04-12T12:45:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -184,6 +184,16 @@
       }
     },
     {
+      "id": "96cea9af504d",
+      "title": "Il colosso farmaceutico svizzero Roche può rivoluzionare il mercato dei farmaci contro l’obesità? - SWI swissinfo.ch",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbU5tTFRBdks0ZlRSaFFjMUFiSHJGZjBvTFVkejVuNFlpeldaUUJCTWdSal9HUmdtbVhfaDJFREFhaE5VVUh0VGR0Ny1fQTN4TktwZWpxMHZsSVFwZ0VlZTZ6cEhXdU14M3RPS1JoZlU2R3VYTHJqRFJZcWhDVnEtNVcyME9GcFJmSnFaTWhDNUFvLWhfcmdsRUFfZjZFRHBPQ2tCODU4M1p0U0dFVU43djNuQkZxVE1WZmw5ejFyT284V2Jiby13TEl6XzBuc3Z2Mk9Lb2FDcWxFN0FlWnRFOXlBRUxFZW9wTzU5cTQzMzBaUVU?oc=5",
+      "published": "2026-04-12T07:30:00+00:00",
+      "source": {
+        "name": "SWI swissinfo.ch",
+        "url": "https://www.swissinfo.ch"
+      }
+    },
+    {
       "id": "20f60fced4f4",
       "title": "Nuovo robot per la farmacia oncologica della Città della Salute e della Scienza di Torino - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50dmVheUpPVTVvVS1hWUZkZkV4QUhSTE9rWGptTmFWZ2F1UEYtMUVVZm1RWTFjQUFzcjdQWi1ncHdtMFBKVUJWWERncXM4NFd0TUJzcDVhYndBaEpVbE9GVkJXSnRFS1ktaTFhdVRGOA?oc=5",
@@ -201,16 +211,6 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "3f0a49d5dcf1",
-      "title": "Un farmaco in più per il cuore - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
-      "published": "2026-04-10T15:17:46+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
       }
     },
     {
@@ -281,6 +281,16 @@
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it"
+      }
+    },
+    {
+      "id": "3f0a49d5dcf1",
+      "title": "Un farmaco in più per il cuore - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
+      "published": "2026-04-10T15:17:46+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
       }
     },
     {
@@ -404,6 +414,16 @@
       }
     },
     {
+      "id": "e7ed01bf583b",
+      "title": "Farmaceutica: approvati i regolamenti 'Aifa Incontra' e 'Aifa Ascolta' - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91MUFiYnZqN2I4YXVpWHNQcklDeHJYa3k5NWtZUTd6NmR0MUlsQTI4WVpPSXItSVNIVnI1clN3ZThUcGxZZ0drakNOVzNQZENEeDNZTF9RSkJ0UDlJaFJYVnlDZzZTa3N6a3Zxdw?oc=5",
+      "published": "2026-04-12T16:54:59+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://en.ilsole24ore.com"
+      }
+    },
+    {
       "id": "565e5fc4bdb9",
       "title": "Distrofia di Duchenne, un veicolo intelligente porta i farmaci dove servono - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUU9zX1JjTDlyMFZBcVhsYUNHQU5oblQxc0NlZTNwLUNwTGMtYV8wNDBXbURaOVFXOUNabUxDYy1MaExINlpFbGFORVk0SUp0RlRzanhGbGltSzR4WVB2bnlxUjZrSmRNYWNTTVJFbldvT0trcm5pMFFBSjVtTlQ1MG5Qc3k1ZHhjdHlSdUM1ZkMyLUpXdW5GVW9HS1gtNEFSWFZQYjZGUW5iMzlUR2pxcDlRX1pTY0lMLW1hM1FieGtqbXVRa3VnMDNzcnRGRnlyekhCYTZ4dE5hZkl0QlFqN2xR0gHnAUFVX3lxTE1lNFRLYjRNTG5ITFc0dUtlNXVlWG9DX0VCLXJHYTlVWW9rSW43bWZ2dmszVnVUajBhSWtsZTlrbHdPOU9XS0tnbEo3YTFwMjc3M2NPS3Q1Mngwdk9DVnZ1QlJsMlpsa1IyeUhEMm5VT1N6YXpqSENuT3VNMGVCTEo2N1lvQWZUVGQyWVgxQ1lRUF9JSU9USEpBdTNTQ2ZkbFF1b2hSMWctU3VJcl9BcTAyTGRlOTRLTWVqVWs3RDl5MUUzTENFUERodDBDUEhodkNyNHBDSGR6X2RReFNFYThxQzZMWEh2NA?oc=5",
@@ -474,16 +494,6 @@
       }
     },
     {
-      "id": "706831293c7c",
-      "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
-      "published": "2026-04-07T23:14:00+00:00",
-      "source": {
-        "name": "www.altoadige.it",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "6bedc664f6f4",
       "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
@@ -494,13 +504,13 @@
       }
     },
     {
-      "id": "42676203c244",
-      "title": "I farmaci dimagranti non funzionano per tutti allo stesso modo. La risposta è nel Dna (di L. Varlese) - HuffPost Italia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVZFcDZSMWxsRHlxWGVxNTRBbjlET25GTkRsU1N2eEV4emNGWDhaV0Z6cEstYjhjY2tkR2dYamJaYV9ISFM1S09XYldqYkZUX3VYRHU2NjJJZ1hjWUpOazJiaTg2NTJKbFdvQVhQaFQ1YWc0bV92RlBnM3R1MDFCMWlwVVktUUZtVlpTemFNbDhYUTI0U0dKYjNfR1NnWHJBNmpEQVNiVXhJSFJKdjZETDVPbFl3U0FwZ2d3M0swU19nakYtdGtMUl9XZUtJaG1zUERIWWR2U0EtYVFiOGRINUxEbnk?oc=5",
-      "published": "2026-04-09T12:10:00+00:00",
+      "id": "706831293c7c",
+      "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
+      "published": "2026-04-07T23:14:00+00:00",
       "source": {
-        "name": "HuffPost Italia",
-        "url": "https://www.huffingtonpost.it"
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -511,6 +521,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "42676203c244",
+      "title": "I farmaci dimagranti non funzionano per tutti allo stesso modo. La risposta è nel Dna (di L. Varlese) - HuffPost Italia",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVZFcDZSMWxsRHlxWGVxNTRBbjlET25GTkRsU1N2eEV4emNGWDhaV0Z6cEstYjhjY2tkR2dYamJaYV9ISFM1S09XYldqYkZUX3VYRHU2NjJJZ1hjWUpOazJiaTg2NTJKbFdvQVhQaFQ1YWc0bV92RlBnM3R1MDFCMWlwVVktUUZtVlpTemFNbDhYUTI0U0dKYjNfR1NnWHJBNmpEQVNiVXhJSFJKdjZETDVPbFl3U0FwZ2d3M0swU19nakYtdGtMUl9XZUtJaG1zUERIWWR2U0EtYVFiOGRINUxEbnk?oc=5",
+      "published": "2026-04-09T12:10:00+00:00",
+      "source": {
+        "name": "HuffPost Italia",
+        "url": "https://www.huffingtonpost.it"
       }
     },
     {
@@ -624,16 +644,6 @@
       }
     },
     {
-      "id": "c643ac3ab583",
-      "title": "Farmaci antiobesità, studi su risposta individuale e rischi nutrizionali - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5BdTF1UUlncjZKaFUtdzVRUHRDWXVycjhaeUgxVWdpT3lGY1NmMmd5WG9CSGx0TUJrNHRRbTNYU1UtZkRKSDJpRnpCNWxfSkFBWlBxMXA2Ujgwc2VzcHlrc3d0dzBOOXQtWWRORTYybTJUMGNEeTFDM1VhbWdGeThVTkQ5S3VOblltM1ZVOVZFM0hFZEFveFM5YXgyT1pEaUNVbVJ5aURjWVhhbDhjNlpScExSbENoU2c?oc=5",
-      "published": "2026-04-09T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "f894171ade25",
       "title": "Variazioni con procedura nazionale - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUtuMjVNbzBZcFdOaTEyLWh3ckdtZVhMeU4xbEdfTVBibGQ5M1VxSnJHU2xJakR2R0VPYldTTW1FR1BoT2t0Q1RyV1IxT25KVkV4cmdSaE44eFc3NkhReHZVRjRXZVFLTGdjZVViTGFtVHA3TFl5ZGhaVWpNbGRha2lpSF94eWtpYmhDbmRpSmUxWkhDUmprUHBJemQyWmxEVGhGamhZQzJhSlYx?oc=5",
@@ -644,13 +654,13 @@
       }
     },
     {
-      "id": "737b3484736f",
-      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
-      "published": "2026-04-11T17:39:40+00:00",
+      "id": "c643ac3ab583",
+      "title": "Farmaci antiobesità, studi su risposta individuale e rischi nutrizionali - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5BdTF1UUlncjZKaFUtdzVRUHRDWXVycjhaeUgxVWdpT3lGY1NmMmd5WG9CSGx0TUJrNHRRbTNYU1UtZkRKSDJpRnpCNWxfSkFBWlBxMXA2Ujgwc2VzcHlrc3d0dzBOOXQtWWRORTYybTJUMGNEeTFDM1VhbWdGeThVTkQ5S3VOblltM1ZVOVZFM0hFZEFveFM5YXgyT1pEaUNVbVJ5aURjWVhhbDhjNlpScExSbENoU2c?oc=5",
+      "published": "2026-04-09T00:00:00+00:00",
       "source": {
-        "name": "TecnoMedicina",
-        "url": "https://www.tecnomedicina.it"
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -704,16 +714,6 @@
       }
     },
     {
-      "id": "3f55fd10f335",
-      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
-      "published": "2026-04-11T22:08:43+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
       "id": "72315a576fd4",
       "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
@@ -724,6 +724,16 @@
       }
     },
     {
+      "id": "737b3484736f",
+      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
+      "published": "2026-04-11T17:39:40+00:00",
+      "source": {
+        "name": "TecnoMedicina",
+        "url": "https://www.tecnomedicina.it"
+      }
+    },
+    {
       "id": "53fe58aa6299",
       "title": "Contributi ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXSnFFOE9BeHR4SEJoOUg5bDlMRjdZazFqWHFEblVTeE5UQXcwdXdPZXdlOFcwVEdrMldtd3RraVJWUnFFQlZNWF9BNUd3S0djVTJaanVKTi1HNDFpTGUteENRRDdKbURCYmV6aUNxakVYRGRfSkk2RkpzREY?oc=5",
@@ -731,6 +741,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "3f55fd10f335",
+      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
+      "published": "2026-04-11T22:08:43+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
-      "id": "860db01b9286",
-      "title": "Farmaci anti-obesità: la genetica spiega perché non funzionano uguale per tutti - Quotidiano di Ragusa",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUVk3ck1uMjY2RmVnMUZXQU5HNnpEZlF0eVVRVVFmZnNNNzBzanE4OFNxbTQtNGQ0X1VRM1NvbTMtd2t1c29ZSXNnTEZ3Y0NVSE83N2pB?oc=5",
-      "published": "2026-04-09T13:27:12+00:00",
-      "source": {
-        "name": "Quotidiano di Ragusa",
-        "url": "https://www.quotidianodiragusa.it"
-      }
-    },
-    {
-      "id": "fd40c2e62e3c",
-      "title": "Farmaci salvavita e responsabilità del farmacista ospedaliero - careonline.it",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXZOaFdNZ25VLWhLT2ZjanlfclloVVZ1ZW1xN2FvV1FybDBOVlpDaXJpRWRzLVppLTlPckYwMzRsVlhkOV92R0NaQTNham1OZTFQYS1EbzlONGxDZ2E1Mk50aTZMNjZmRU5aV2FyQ3BJLUtzbzY1NXd4WW5ndFlUc3FNV0tHWlJKR0gwNUFfdDQwZm5GNGxULWEtU3o4eWwwYThKSEw5Q1pFNVB6?oc=5",
-      "published": "2025-11-21T08:00:00+00:00",
-      "source": {
-        "name": "careonline.it",
-        "url": "https://careonline.it"
       }
     }
   ]
