@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T13:53:47.808326+00:00",
+  "fetched_at": "2026-04-12T14:33:36.136707+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "031b363c933f",
-      "title": "I farmaci dimagranti a base di GLP-1 non funzionano per tutti. Le varianti genetiche offrono nuovi indizi - Le Scienze",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbHhpejZtTTJKQnBZTEpXbE51MVVjdk1oa0x1aUN4YlVYVXZHS3NxZVVCWWtkX2pUVGdza3UtN3RZRDhMOXFEWmZBWnZoNXQzSFo0VDNsNVNFSU1MWUxCUmJCY01vaVVGdWViRE9sT3F2YkF3Q0dRelNfaGRLX2VMOUVSVlJBX29OS015X3JEMTY0QUo5X0NTQjBGWjlfNFRFWGc3a2JVZjdiWXR0UThEcGg3amJldk1fS19DSTdLblZtSTlHRG5kQ25YejltWW4xcTB3cmV0V2RPc1k0SmhfeTNMVkVYMlVLdW14bXc1QnhFWDVrUm1VeWU5T0NNUUNMTUJ3?oc=5",
-      "published": "2026-04-09T13:54:00+00:00",
-      "source": {
-        "name": "Le Scienze",
-        "url": "https://www.lescienze.it"
-      }
-    },
-    {
       "id": "95ad4731b94d",
       "title": "Siamo geneticamente destinati a non dimagrire nonostante i farmaci? Il nuovo studio - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRlhEdmdJM1RHTHFUVDV6UEpfZ0ozMFFmNjBBYkd0UmRfU2t1WWQ4RnZjdDVlSDQyTWdtTWRNLWNZRjJadFBfTHV1Z0t1MVkxenREbTFtbjNMY0VscXFvbkZ5VjRvVTVnNUdWeVI3SUo2c0xwbWxfTDY5Vm5rVU9VS0hzaDFlVk0yZTBmQkU5cjhPV2ZlbHhhY0V0OU9FRHpZQXVFYkYwRXUya0trSFg4QXJXeEVZNnp4VUFxT0hqMHFlcEt4Y0dOVTVyc19xaFNwbzNsbUl5QXAwU2FYYzQxOQ?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "l'Adige",
         "url": "https://www.ladige.it"
+      }
+    },
+    {
+      "id": "031b363c933f",
+      "title": "I farmaci dimagranti a base di GLP-1 non funzionano per tutti. Le varianti genetiche offrono nuovi indizi - Le Scienze",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbHhpejZtTTJKQnBZTEpXbE51MVVjdk1oa0x1aUN4YlVYVXZHS3NxZVVCWWtkX2pUVGdza3UtN3RZRDhMOXFEWmZBWnZoNXQzSFo0VDNsNVNFSU1MWUxCUmJCY01vaVVGdWViRE9sT3F2YkF3Q0dRelNfaGRLX2VMOUVSVlJBX29OS015X3JEMTY0QUo5X0NTQjBGWjlfNFRFWGc3a2JVZjdiWXR0UThEcGg3amJldk1fS19DSTdLblZtSTlHRG5kQ25YejltWW4xcTB3cmV0V2RPc1k0SmhfeTNMVkVYMlVLdW14bXc1QnhFWDVrUm1VeWU5T0NNUUNMTUJ3?oc=5",
+      "published": "2026-04-09T13:54:00+00:00",
+      "source": {
+        "name": "Le Scienze",
+        "url": "https://www.lescienze.it"
       }
     },
     {
@@ -154,16 +154,6 @@
       }
     },
     {
-      "id": "0fab135e4a95",
-      "title": "Austerity e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqZE92VmhydThQTE5TR3JYSGpLVEtxaGpZOEIwZ293Y21qR0lOeWstb1l2eS1aZ0ROZEY5VGZfb291NjQ1OE1FNmRkWEhNUVV5b1gxVlNwTW9HUkswT3FEeVhPdUk1Yk1ZcU1URThMN2wxd3kxUjlyeHUzWUlXeVFnWU90a3o1RWlVRWJMeXB3YmZHcmMxQ3RVWGdHWlhLSkswQ1NfQUExX3RoWEk4cGIySzQ?oc=5",
-      "published": "2026-04-08T11:30:34+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "b70ce89758e2",
       "title": "Il ruolo del sonno nella salute cardiovascolare - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHozcWhRY21Vc2k5SmhmYnJYSG1IVUpyWWVRa0ZIYTBEREw0LWlvaFRFQlVLcDhkdEQ2cE1GOGs1SlA4SS00eHFaMll2RGlWYjVNM2MxcVVTc2w1Skk4Q1RKandrRnlSamRhaWlZWEl5akQ4UGZjY1lRWlVOTVI5bnBhNEdQcnQxUWZobGVtYUJzclVTckhpOVZn?oc=5",
@@ -171,6 +161,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "0fab135e4a95",
+      "title": "Austerity e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqZE92VmhydThQTE5TR3JYSGpLVEtxaGpZOEIwZ293Y21qR0lOeWstb1l2eS1aZ0ROZEY5VGZfb291NjQ1OE1FNmRkWEhNUVV5b1gxVlNwTW9HUkswT3FEeVhPdUk1Yk1ZcU1URThMN2wxd3kxUjlyeHUzWUlXeVFnWU90a3o1RWlVRWJMeXB3YmZHcmMxQ3RVWGdHWlhLSkswQ1NfQUExX3RoWEk4cGIySzQ?oc=5",
+      "published": "2026-04-08T11:30:34+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "3f0a49d5dcf1",
+      "title": "Un farmaco in più per il cuore - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
+      "published": "2026-04-10T15:17:46+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
+      }
+    },
+    {
       "id": "85bfa13c7fe1",
       "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
@@ -211,16 +221,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "49ea58fbaaaf",
-      "title": "C'è un robot a fare i farmaci oncologici della Città della salute di Torino - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSWJrbElhekt6eEpZS2sxdk1PeWwxakk3azZzdXZuQ2RmVWIwU09acmc1NFRrZ3NldmlpS3EwNU9MXzlyTlhnR2RWRUZWV3JqN2tiV3VLQi1EZ0wtOV85S1lMeG9CX0pQWHVmVVA5U2dQay05RjFRc3ctSmE0ck1qaWJSaVM1SFhFMS1OWDB6bmZ2ZDhUMm90M3lFUDJ1bndhQnFpMUpfb2JDSEhod0lOVmpuUDhwaG1icG9QaXFCeU5RU01KOTA5SHNmekl0N0Rxc3B4Zm1qVkpEcUs2QzdaamJ4ekVyVm03bnNUSnkyTFlMQkI3TGgybVJ0RjBlckFXTHZBSExSOEdYQVpETmxfZHJCSlXSAZoCQVVfeXFMT2llYkRLZ3AwaE9lblAtYVp6eXU3ZF8zVWpVeWdlUzUzWGdRQ3NCZDkyZ1lKaUxpMEw5Z0w5VmxyVGo1RkRTQW5oSlNVOFQ2eDJKdm1RUHY2VDNFT0NhYWVRbDZTenVZTnNvRkRTVnE3cUVkR3RsdWRsMnlNUnVrZ00xNG9FeWNMUmdYVk5zMTFMcjE5THFQQVBqVlJTaGZzR1JWcGVUSGI0eEVJWGhUODl2MUlnRGE0UGM0UjM3WF8wd2xtRUhYcWJJeDhzTmx1RmhCQ2I1d2hKUG1FS3hXcnMyOVRaT05OMkJhZ1JyRTdVZ0RsZzV0YTYwdmt4VVpJdm9oSkU2WEs4dXdvTUs2bDNadmpmY294djRn?oc=5",
-      "published": "2026-04-08T11:08:00+00:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
       }
     },
     {
@@ -254,6 +254,16 @@
       }
     },
     {
+      "id": "49ea58fbaaaf",
+      "title": "C'è un robot a fare i farmaci oncologici della Città della salute di Torino - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSWJrbElhekt6eEpZS2sxdk1PeWwxakk3azZzdXZuQ2RmVWIwU09acmc1NFRrZ3NldmlpS3EwNU9MXzlyTlhnR2RWRUZWV3JqN2tiV3VLQi1EZ0wtOV85S1lMeG9CX0pQWHVmVVA5U2dQay05RjFRc3ctSmE0ck1qaWJSaVM1SFhFMS1OWDB6bmZ2ZDhUMm90M3lFUDJ1bndhQnFpMUpfb2JDSEhod0lOVmpuUDhwaG1icG9QaXFCeU5RU01KOTA5SHNmekl0N0Rxc3B4Zm1qVkpEcUs2QzdaamJ4ekVyVm03bnNUSnkyTFlMQkI3TGgybVJ0RjBlckFXTHZBSExSOEdYQVpETmxfZHJCSlXSAZoCQVVfeXFMT2llYkRLZ3AwaE9lblAtYVp6eXU3ZF8zVWpVeWdlUzUzWGdRQ3NCZDkyZ1lKaUxpMEw5Z0w5VmxyVGo1RkRTQW5oSlNVOFQ2eDJKdm1RUHY2VDNFT0NhYWVRbDZTenVZTnNvRkRTVnE3cUVkR3RsdWRsMnlNUnVrZ00xNG9FeWNMUmdYVk5zMTFMcjE5THFQQVBqVlJTaGZzR1JWcGVUSGI0eEVJWGhUODl2MUlnRGE0UGM0UjM3WF8wd2xtRUhYcWJJeDhzTmx1RmhCQ2I1d2hKUG1FS3hXcnMyOVRaT05OMkJhZ1JyRTdVZ0RsZzV0YTYwdmt4VVpJdm9oSkU2WEs4dXdvTUs2bDNadmpmY294djRn?oc=5",
+      "published": "2026-04-08T11:08:00+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
+      }
+    },
+    {
       "id": "5a0ccae30675",
       "title": "La Farmacia Ospedaliera delle Molinette inaugura un robot per la chemioterapia personalizzata - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcXlDZHBqSW9YOXJyd25zc3hxN0hfdDRncTlxclNsdm1jNlI4d2JHM2ZxeXdnbVgteXhwU09jNEtHeEN1MjE5VkphNGJBcXlDUkJvbG9tRTdUcUE1U0Vxajk3b3Mwc1l1aGVXbDN6b1ZRMV9SN2l4OU50SjdxY0RKX2RDaXk2anR4bkd2VzFLSzIycGRVX24xY0FrZ2tNZWdVd281bVVBbG04MTBidG9GeS1tYkdjSnhleTF1M09tRV9wRGNabzJOSmZ2cHA?oc=5",
@@ -261,16 +271,6 @@
       "source": {
         "name": "insalutenews.it",
         "url": "https://www.insalutenews.it"
-      }
-    },
-    {
-      "id": "3f0a49d5dcf1",
-      "title": "Un farmaco in più per il cuore - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVhLbElBVEJVZ2NYMDZ0VmpCODdLdmpkd21qdUdsMTdNTTVRUnlsRUhUWFVwcnM2NHpUSFRfYWppVzZFU1RSY0MyeFhrenR1MXBtaExVS0N4NVJJTjl6NkxJSm5OekZHZExQcGx1RE1BbnJGbWNWLXRLUDU3WVdEeGMzSDFNdjg1Vzg1a0p0bEdtMVNhR05ybVRoNGZ2Z2Z6djFlejdPMlpCenpQU3hjN2FDMl9IcnZPTWNCME03QjA1SGs4VUJCaEhWLWJNNEw2c2fSAdcBQVVfeXFMTzRPSkN3TllWZGhkUDZ4bGZ2TWpSbzVkV1F4TjZjVFIxUWJSd3l3b3MtTnFUY3FOcDRZNG91Y1hNdXd5WlYyMGt2YjVULVAxUjAtcFg2a1Q4MDZNLTdSZXl5ZVZGbHZ3QXBmYW9RV1dmSzNtNFVOc3ZEbWxNZk0xaEJ4OXYwSk1GVDFnYXlUdkM3cmtJYWFoOE1Hc2JLaUNCcy00bDI3TzBRbDVtOC05MlhkQm9Qb1dwUWt6R0hjM0JUbVZWT1QwbDhMb1pCbTYxLXk1amJSZ2c?oc=5",
-      "published": "2026-04-10T15:17:46+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
       }
     },
     {
@@ -341,6 +341,16 @@
       "source": {
         "name": "SISMED - Società Italiana Scienze Mediche",
         "url": "https://www.sismed-it.com"
+      }
+    },
+    {
+      "id": "122c27a8c2bc",
+      "title": "Farmaci anti-obesità, meno fame ma anche meno proteine: l’allarme dagli studi real world - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVNkd1ZtaUlxTU5zVXZjZ24wNGRLNTdjQXFzMEl5cUJMbE9CY0pzc0duOWpyNzI4aXlfQkc3VHZCZ2NiTUcxRWFyOFB6VjQtWVF1QVh1R2p4Y2pOZUhmYnRRREhVRHZ4RjZNeEZZUGtCNVJLTUgtMWRKMTRzVDlWTURxa3ByZDBReEJYcW84UWg3bENlNW4wRTJ0T2diQUdFN0dYQk8ya2t2NEl2UUJ1ZmxCWmlOVmVkU1ZWWQ?oc=5",
+      "published": "2026-04-10T07:39:00+00:00",
+      "source": {
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -514,16 +524,6 @@
       }
     },
     {
-      "id": "f1e2e409b266",
-      "title": "Oms, Fao e Woah creano una Taskforce per diffondere la formazione One Health al personale sanitario - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1RYSjhuNkcza2wzeUhKVEtoZ0V6YWc2c2pZY25jU1N1eFJqcG5fVUNfT1dEZmFIZ2JxMnBFS25xdHdzTklfbzZ2amNJMkozWElPMXBPbFZZM09jTGpJLUgyTHpMREgwZVdMNWo3VkZvVHhEYlRJQlNOV1ExWWwxZnQ2VW5VY19LY1Jn?oc=5",
-      "published": "2026-04-10T11:48:24+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "5ecc0cbb6f7f",
       "title": "NAS Carabinieri Foggia: scoperta farmacia abusiva all'interno di un'abitazione, sequestrati farmaci e dispositivi medici - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTl3QmtYMl9Za1Q1ZEJTVVpsTmdlUFMzNGZTbWphbmI1bDhCYVRkU3JFdjgwZ2V5T1BnbUJvOC1lUWV3dWpsU29GclpRczVlV1NGMFYySWFwOHQ0WV9IeVd4UWNlTW55VkFkQ0xXZ0sxYmNFRlJSeTAxc3ZyV2RrTHpraURUTWJhdFhjakNuLUVpajVCMy1PRWEwUWRNbE1YTnVsMXNMU1dURkN0QUI5cmZFNVhaN3FxZ3ZLZHZwMnN0aVNXU182YmotUUg?oc=5",
@@ -551,16 +551,6 @@
       "source": {
         "name": "Il Torinese",
         "url": "https://iltorinese.it"
-      }
-    },
-    {
-      "id": "737b3484736f",
-      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
-      "published": "2026-04-11T17:39:40+00:00",
-      "source": {
-        "name": "TecnoMedicina",
-        "url": "https://www.tecnomedicina.it"
       }
     },
     {
@@ -594,6 +584,16 @@
       }
     },
     {
+      "id": "737b3484736f",
+      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
+      "published": "2026-04-11T17:39:40+00:00",
+      "source": {
+        "name": "TecnoMedicina",
+        "url": "https://www.tecnomedicina.it"
+      }
+    },
+    {
       "id": "7baf0a1b5b2e",
       "title": "Tumori cerebrali, il sistema sperimentale in 3D per valutare i possibili farmaci contro il glioma - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGNnQV9Uem5CcE9yRE5Wa1Y1NU5tVm81WDlyeUdlYWx5NERCX1FiOVEwcGtkclBTOFhka01nbTF0WjR1RmtkVWcyeXNmTGNyTnF4Qld1a3J0R3k2TTFUb3VoTGxuTGJMRkZpSldCc3JGN3BlcGtlck5yZENaVmtEa3prVlhNMXVLT243Q0VUcWh2QTB6eFlGOFdTdmstSFFlRWsteUktbFpCc2xXTDcxS0tEVUQ2ZE05akVJZ1lxakRleGlMTC0tOGE1ZHY0Sm5XcWdRQ29Xdkk0TnphaHhN0gHaAUFVX3lxTE1zUFhTdUlVdW1GWDZpZDdFaDdOVXJSS21yVXdCZGI3eW9oaHBWSi0xY3R1MXpYeEVpLUkyVkFNekVuMlpORkRNbzNvUFVPMHdURXNqM09KUU9GXzJDSHdsM1ZSbjNJRnFaUTNlQ3ZFeU8yQmpVNFRGeXRCTm5acFI0dldjeFd5T3E3MDQzVW5FX1FMbFBQUWQxV2JlOWdHa0l3N0NSR3dKVzE2dTlYWGNjV29MRDd5Z0w3eEFSRTZRdE9udGpTQ2xlQXh6emdkd1BiT2h4SlZHVkx3?oc=5",
@@ -624,16 +624,6 @@
       }
     },
     {
-      "id": "3f55fd10f335",
-      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
-      "published": "2026-04-11T22:08:43+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
       "id": "916bb1627c86",
       "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - Pharmastar",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
@@ -651,6 +641,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "3f55fd10f335",
+      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
+      "published": "2026-04-11T22:08:43+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -754,16 +754,6 @@
       }
     },
     {
-      "id": "0c793f5e975f",
-      "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
-      "published": "2026-04-10T07:33:00+00:00",
-      "source": {
-        "name": "www.altoadige.it",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "4cdd74c8f603",
       "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
@@ -771,6 +761,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "0c793f5e975f",
+      "title": "Nuovo farmaco migliora i sintomi di una malattia genetica cardiaca negli adolescenti - www.altoadige.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjN3VzRnNTJWRmlteUFsWm9YTjBaS0FzZ1lNVGljSGY0dVJHb29GVmJraDl0cGpacXRYbEFoUk1jQkdsVWtUX1Nsa1dUWkJiaUQxOEhTanRVNWoxR2poSGo5Q2VCaUhHVFF6LWxtSkMxMnVlN25GQk1XanNaTFBuZUY2eVV6MDIyb2ctd1h4Y05sd1psajZsMzBuc0s2UExnR3hmQTlTNzVpWFBTdzd3MWU3R01CeGZ2WHk0VVY5VDVMOFJlUGpyNlExS3Brdi0ya0VkTA?oc=5",
+      "published": "2026-04-10T07:33:00+00:00",
+      "source": {
+        "name": "www.altoadige.it",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -894,16 +894,6 @@
       }
     },
     {
-      "id": "4317713a58c6",
-      "title": "C'è un robot a fare i farmaci oncologici della Città della salute di Torino Archivi - EspansioneTv",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUtSNFJIUmM5Z3RlazhQOFZxMWphT3M1QTl1UngxUFN1bG5mZWJIYjlNUXhQcVA1R1FCTnk4NDF1cjItS0lPa1JDaVJjTVlRUkpNTmdVaUgySUQ2akJJdHVhV3gyNnJObUpsQ1VjcTV1SzB3TzF0aHBZVXB0dXNoYUJYekRzc2dpOWhGVFNIbVFXNEVrQUNmS3NfaHN4Q1Y5WTZfdUoxa1M?oc=5",
-      "published": "2026-04-09T00:03:22+00:00",
-      "source": {
-        "name": "EspansioneTv",
-        "url": "https://www.espansionetv.it"
-      }
-    },
-    {
       "id": "b9c6b596c4a4",
       "title": "Farmaci: Ema, non usare codeina per tosse e raffreddore bimbi - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1kbmwzaS1VeHpDaXBTbWlnemVTcnRrZVk2ZUVKM3A1TFNKaHpBVV92V2R5a05QWWktekJwQ2NTTC01SWNMTTdFbzhOZzdUS2M2Rlh0RXhUMTIwUWZsbHJJXzQ0YnRnNkRuX0FDanFEaEN2TVdCLUhGX3dZTDZTWmxsTzR6dUlHQnJ6OGdvNm12ZzNTelBxWW96bw?oc=5",
@@ -911,6 +901,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "4317713a58c6",
+      "title": "C'è un robot a fare i farmaci oncologici della Città della salute di Torino Archivi - EspansioneTv",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUtSNFJIUmM5Z3RlazhQOFZxMWphT3M1QTl1UngxUFN1bG5mZWJIYjlNUXhQcVA1R1FCTnk4NDF1cjItS0lPa1JDaVJjTVlRUkpNTmdVaUgySUQ2akJJdHVhV3gyNnJObUpsQ1VjcTV1SzB3TzF0aHBZVXB0dXNoYUJYekRzc2dpOWhGVFNIbVFXNEVrQUNmS3NfaHN4Q1Y5WTZfdUoxa1M?oc=5",
+      "published": "2026-04-09T00:03:22+00:00",
+      "source": {
+        "name": "EspansioneTv",
+        "url": "https://www.espansionetv.it"
       }
     },
     {
@@ -941,16 +941,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "a02425a24a9d",
-      "title": "Dieci anni di cambiamento: la farmacia si conferma pilastro della sanità - CalabriaMagnifica.it",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM183S0J6anI1WldLaVduNmRZSVNJbWo0dlNvTkc4d01ZLURXLTRYeUgxSW9vMm9fSzk0cUpEaHRsdERGc3ZaeWxhVU10dnNwVmI1dFJUai01aXVQTngtem13cUVnbHJIaU4wcnMwelhEZGx1NmppT3g4OUFPTkZ2SnplUnVMcXd4TUtkMnRTV05yVlNfaHprMmgtUQ?oc=5",
-      "published": "2026-04-11T19:27:43+00:00",
-      "source": {
-        "name": "CalabriaMagnifica.it",
-        "url": "https://www.calabriamagnifica.it"
       }
     },
     {
@@ -991,6 +981,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "a02425a24a9d",
+      "title": "Dieci anni di cambiamento: la farmacia si conferma pilastro della sanità - CalabriaMagnifica.it",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM183S0J6anI1WldLaVduNmRZSVNJbWo0dlNvTkc4d01ZLURXLTRYeUgxSW9vMm9fSzk0cUpEaHRsdERGc3ZaeWxhVU10dnNwVmI1dFJUai01aXVQTngtem13cUVnbHJIaU4wcnMwelhEZGx1NmppT3g4OUFPTkZ2SnplUnVMcXd4TUtkMnRTV05yVlNfaHprMmgtUQ?oc=5",
+      "published": "2026-04-11T19:27:43+00:00",
+      "source": {
+        "name": "CalabriaMagnifica.it",
+        "url": "https://www.calabriamagnifica.it"
       }
     },
     {
