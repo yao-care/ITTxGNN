@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T08:42:55.902102+00:00",
+  "fetched_at": "2026-04-12T09:37:08.432958+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "4dd0b3cb6961",
-      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
-      "published": "2026-04-09T17:52:24+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "368dfc7fb351",
       "title": "A Città della Salute un robot prepara i farmaci oncologici - AGI",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGM1U3dSbEROeUd3ODhwX3UyWVQwcGsya21HbzNYem5EMXk5X0RYSmVkRUk4T3ZJUk1zb1h1dFhlaWt6OFo0Sjg2U3J1LVF2SHBSeWhwM3hZSlpsVVpyLTd0cEE5d3V2ZXpVOGZEb0h4Z0RFMnBGTUM2Zk9PcnFfdDFQcjRQYmYxV20teA?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "AGI",
         "url": "https://www.agi.it"
+      }
+    },
+    {
+      "id": "4dd0b3cb6961",
+      "title": "Dal payback alla dipendenza da India e Cina: “Difenderemo il farmaco made in Italy” - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakotai1FZHBRWE1GYUZkX2I1WU1xQlRHcVhPR29FSWNCMDIwdEgxamhzdkZCcU5ZcFUzZ1ZybEVMVW9ia0ZKOTE4WVpfMzZwWWtmS1VHalVnZFg0Ny1UNEFVRHFKWV96UWVNdjBtZUJ1Vk0yR0NGZ2xYVkZJTGRzc1ZkMXoxTTNCSUdfYmlObGFDSEhBUFF1S29mcFlSVEl4T0pGakt3NEFxc28?oc=5",
+      "published": "2026-04-09T17:52:24+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "0fab135e4a95",
-      "title": "Austerity e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqZE92VmhydThQTE5TR3JYSGpLVEtxaGpZOEIwZ293Y21qR0lOeWstb1l2eS1aZ0ROZEY5VGZfb291NjQ1OE1FNmRkWEhNUVV5b1gxVlNwTW9HUkswT3FEeVhPdUk1Yk1ZcU1URThMN2wxd3kxUjlyeHUzWUlXeVFnWU90a3o1RWlVRWJMeXB3YmZHcmMxQ3RVWGdHWlhLSkswQ1NfQUExX3RoWEk4cGIySzQ?oc=5",
-      "published": "2026-04-08T11:30:34+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "78ec4c8c3b18",
       "title": "Innovazione accessibile. La leva che unisce salute, crescita e competitività. Ogni euro investito in sanità ne genera fino a 4 di Pil - ilFarmacistaOnline",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM09Md3dnakdIcG0wOV9XVjJwem5DREtKMUd2bHF6aFd0Zi1jZXg0Uk9iMEJCLURsSWdOTU83S2V4Ulp1RjZ4T0hWcFJ1X0ptV1BnTzRLS1lUcmJ6QzZHX3lVcFA0MGdNTVdBMkREeV9XdnlMWUcwRE1qbUFVeDdZVFZsRXdCU0JnMmtZ?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "ilFarmacistaOnline",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "0fab135e4a95",
+      "title": "Austerity e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqZE92VmhydThQTE5TR3JYSGpLVEtxaGpZOEIwZ293Y21qR0lOeWstb1l2eS1aZ0ROZEY5VGZfb291NjQ1OE1FNmRkWEhNUVV5b1gxVlNwTW9HUkswT3FEeVhPdUk1Yk1ZcU1URThMN2wxd3kxUjlyeHUzWUlXeVFnWU90a3o1RWlVRWJMeXB3YmZHcmMxQ3RVWGdHWlhLSkswQ1NfQUExX3RoWEk4cGIySzQ?oc=5",
+      "published": "2026-04-08T11:30:34+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "3de49857ffb7",
-      "title": "Farmaci GLP-1 e salute mentale, cosa dicono i nuovi studi. Gli effetti psicologici della semaglutide - Dica33",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQllHMEZDNW50RVJPT0oxOWItMGw4b243cGdtSkt1ME02M2JQU1o1U3FuOGw5WTJpd0RWd1lNVjJodVVyOGVDaXZwXzBKaU4yc0czVnp6emJfQWVMczZ3aklRcmd1NHo1VUVOUHhUYzVncmRMNi1FU0VlS3d1NS1SbXptdzlreTRCMWlZRA?oc=5",
-      "published": "2026-04-07T16:35:13+00:00",
-      "source": {
-        "name": "Dica33",
-        "url": "https://www.dica33.it"
-      }
-    },
-    {
       "id": "35061790ed6c",
       "title": "Obesità, come cambia la terapia con i nuovi i farmaci orali? - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelB0dGo2SDVKeE44Qm5SRm83TGlLSHA3WXRkN0dpMmVETUhselI3V1U4Rzlyc25uS3paUTdjN2x6TEZrckJ3Z2FMSnozYS0xNzJDam1HdjJiLUlGdnVsenhtOHYzdFhMMThzb29WNWNnMHBGTDlNb1o1alp0aHl0UkFWcVdwWmZxeURSc3NzSXl3NkF2TnlUUGt4UEhFX0U1MnQ3Mzd2aFp3ckJlZEdjV2dKbXAyc1otU2tsbHhlLXdhSVV2VmZJ0gHMAUFVX3lxTE0tT2pzcWd3ekhjMTF2eDhYMXlTYXo4cnZKdy1BTDh3QmpJUGQya0FLOXdfSlNtRDBpY1VSYk1PNGRGNHdMcmpYYlBxeTJQV19kRlJnUmdtRWswSFR5a0VudXR1cElHemJjVHlsM3loT0JHTWVTeVlnMUEySHZvc2xNczVnWDFVcHIxakRYaWJObl9YSXhNa2I0cFhvRGROeXF5bE1iUmNTdENiSWx6Y3RabGNkVXJENUduemFfOUVxQVUtTE5ENjNKSmFldg?oc=5",
@@ -201,6 +191,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "3de49857ffb7",
+      "title": "Farmaci GLP-1 e salute mentale, cosa dicono i nuovi studi. Gli effetti psicologici della semaglutide - Dica33",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQllHMEZDNW50RVJPT0oxOWItMGw4b243cGdtSkt1ME02M2JQU1o1U3FuOGw5WTJpd0RWd1lNVjJodVVyOGVDaXZwXzBKaU4yc0czVnp6emJfQWVMczZ3aklRcmd1NHo1VUVOUHhUYzVncmRMNi1FU0VlS3d1NS1SbXptdzlreTRCMWlZRA?oc=5",
+      "published": "2026-04-07T16:35:13+00:00",
+      "source": {
+        "name": "Dica33",
+        "url": "https://www.dica33.it"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "3f55fd10f335",
-      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
-      "published": "2026-04-12T07:21:40+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
-      }
-    },
-    {
       "id": "76e34de34b3e",
       "title": "La \"rivoluzione\" delle farmacie di Trento: sì al deblistering per i pazienti cronici - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDZxUC1obklxOW9wbngwYndlbTFXLU5aX3RGb3ZPZGlGaHJINGFBVGdfSjVnRDlzWTJYdUloX0xWQXROVGhwcDZhRE9ObzFPd2JuU1laeVZ6dTU0THQwUUt6OGxiQVlsNmJkYzMzUlE1N3ROZmhJVlA1ZTFucUkyR2dPU01hVFZtU3RjQlVmdmVBdjdiOFFyclRQSVQwekd1cHl6WmF0SEtpNXZSX1RB?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "3f55fd10f335",
+      "title": "Con la citisina «si smette di fumare in un mese»: perché se ne parla - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnhCUnRhWDhSY1h3b2p5LU5WVndyVVZ1bUVOV1hRLWV3dnJxN09rY1NNRHZtUUI1NlNNRWNBVXlrVDYteDhMd1daUTVScDd1OUktanl4Z2pxaDBJd3VkYkliZnNPRHJaM040S3N2Y0Q1a2tQSmtGVDFDeTJZMU9sY1lvNUhQWlJ3OXZPM2xJcUgtOUp3SmdMd3JXbEt0M1I2dVAxZEY2WEoxTEk?oc=5",
+      "published": "2026-04-12T07:21:40+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "737b3484736f",
-      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
-      "published": "2026-04-11T17:39:40+00:00",
-      "source": {
-        "name": "TecnoMedicina",
-        "url": "https://www.tecnomedicina.it"
-      }
-    },
-    {
       "id": "706831293c7c",
       "title": "Farmaci anti-obesità, la genetica spiega perché in alcuni funzionano meglio - www.altoadige.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDNGczJlb2JEQlBpdzRCR254aTNxYUpMWmx0M0h0a1BzQ1M3M2ltMm1pREpaM1BEOEdTWnUtMUNBOW5NSjhUdVFJbVlxa1RibGcyQkFLS2tqMU1oWGFmSnIwaVM5QjhHR0xaZFp0SnBSQ2JjbTU1R0ZzeHAzU0V5bXJhY2NqSFhuYk1ZTnp1NzhkWVdGb0ZWbC1oOWEwMXdwR2JybXNIUGVhT24yT0xIalJoU1NjX2I2UDAycXp4MlEwQnhPc3oycmhJbDduY09pNWpNag?oc=5",
@@ -464,13 +454,13 @@
       }
     },
     {
-      "id": "42676203c244",
-      "title": "I farmaci dimagranti non funzionano per tutti allo stesso modo. La risposta è nel Dna (di L. Varlese) - HuffPost Italia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVZFcDZSMWxsRHlxWGVxNTRBbjlET25GTkRsU1N2eEV4emNGWDhaV0Z6cEstYjhjY2tkR2dYamJaYV9ISFM1S09XYldqYkZUX3VYRHU2NjJJZ1hjWUpOazJiaTg2NTJKbFdvQVhQaFQ1YWc0bV92RlBnM3R1MDFCMWlwVVktUUZtVlpTemFNbDhYUTI0U0dKYjNfR1NnWHJBNmpEQVNiVXhJSFJKdjZETDVPbFl3U0FwZ2d3M0swU19nakYtdGtMUl9XZUtJaG1zUERIWWR2U0EtYVFiOGRINUxEbnk?oc=5",
-      "published": "2026-04-09T12:10:00+00:00",
+      "id": "737b3484736f",
+      "title": "Nutraceutica: il nuovo orizzonte tra nutrizione e farmacologia per la salute e la longevità - TecnoMedicina",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQdIBvAFBVV95cUxOWlV5NFpqWEFQanM5OWdzX0NRNVNoWHptUEpuc1oyQXdVWk5yaDBJeUN6WTVHNTZMbU1aV1A5aGNraXNnSWtIRXFNNl9LZHNLektUY1VVbVpsN0w0OFJRTjZOV3IwbTFhbTZFTXFEdExzbTE5TkxaclZHSVA4bUdQcnVkUVphZFU5blNULVBYNG42dU96aHlDOG5MbHR2SzdNeV9ud2x6dDFTaVl4ZEhmRDJNMTR3cm9MOEgxQQ?oc=5",
+      "published": "2026-04-11T17:39:40+00:00",
       "source": {
-        "name": "HuffPost Italia",
-        "url": "https://www.huffingtonpost.it"
+        "name": "TecnoMedicina",
+        "url": "https://www.tecnomedicina.it"
       }
     },
     {
@@ -484,13 +474,13 @@
       }
     },
     {
-      "id": "72315a576fd4",
-      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
-      "published": "2026-04-11T13:32:00+00:00",
+      "id": "42676203c244",
+      "title": "I farmaci dimagranti non funzionano per tutti allo stesso modo. La risposta è nel Dna (di L. Varlese) - HuffPost Italia",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVZFcDZSMWxsRHlxWGVxNTRBbjlET25GTkRsU1N2eEV4emNGWDhaV0Z6cEstYjhjY2tkR2dYamJaYV9ISFM1S09XYldqYkZUX3VYRHU2NjJJZ1hjWUpOazJiaTg2NTJKbFdvQVhQaFQ1YWc0bV92RlBnM3R1MDFCMWlwVVktUUZtVlpTemFNbDhYUTI0U0dKYjNfR1NnWHJBNmpEQVNiVXhJSFJKdjZETDVPbFl3U0FwZ2d3M0swU19nakYtdGtMUl9XZUtJaG1zUERIWWR2U0EtYVFiOGRINUxEbnk?oc=5",
+      "published": "2026-04-09T12:10:00+00:00",
       "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
+        "name": "HuffPost Italia",
+        "url": "https://www.huffingtonpost.it"
       }
     },
     {
@@ -501,6 +491,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "72315a576fd4",
+      "title": "Sanità e guerra, Ravinale attacca: “Basta farmaci Teva negli ospedali piemontesi” - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNnZDFvTWVQbW9RcFdaLWdSR0YwaEJQS2Rua0dYc1RhQjVVdTV1V0kyNGVWU0oxRE01ZXViVDBTME5NR1Vsd0VfRkwtN1JPMG8zUUNRYUxCeEtHeU4wc0o2UWgyTGZmNzRoaE4tOFFfRFc2QUVtZ1N1OUprOVFaX0NickdsX1hSNHdxLTgxOXpueDd2a3ByWjdqTGtEVHp3VkdZZjltbFJXY283NGpqd1Z4LVlWelFUTGZNX3laOGhQa3FsQjdhOFJFYzhpZ2s?oc=5",
+      "published": "2026-04-11T13:32:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -554,16 +554,6 @@
       }
     },
     {
-      "id": "9f98a1f64a2f",
-      "title": "Farmaci, enlicitide: risultati positivi in riduzione significativa di C-Ldl a 8 settimane - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2NWNFNEZ09zNEZuREtzZk1ZUGozd3NFVWEtZTNQcnFuZ2Vzek45dGJDWTh1TkpYTW9uVm9oUkJFVDdrcWFINkZISzN3QWtOOFRFWWNnUmh1QzhOdDlQVjFOZGNRZ3l1alBKLU15UHpvR2NVbE12QVpwN0IteWJ5b3lWQjJ3czY0LUpNVGtSaGY0RS1nR2huUjNtcGIzM3ZreU1UWVhjckxic3JGZ3ZHb0FVZ1BTcm5keGlCbXM4RUR5eTFPRFl5bkxZVHVkUmNHQjhmNmZhNVBEUms?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
       "id": "7baf0a1b5b2e",
       "title": "Tumori cerebrali, il sistema sperimentale in 3D per valutare i possibili farmaci contro il glioma - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGNnQV9Uem5CcE9yRE5Wa1Y1NU5tVm81WDlyeUdlYWx5NERCX1FiOVEwcGtkclBTOFhka01nbTF0WjR1RmtkVWcyeXNmTGNyTnF4Qld1a3J0R3k2TTFUb3VoTGxuTGJMRkZpSldCc3JGN3BlcGtlck5yZENaVmtEa3prVlhNMXVLT243Q0VUcWh2QTB6eFlGOFdTdmstSFFlRWsteUktbFpCc2xXTDcxS0tEVUQ2ZE05akVJZ1lxakRleGlMTC0tOGE1ZHY0Sm5XcWdRQ29Xdkk0TnphaHhN0gHaAUFVX3lxTE1zUFhTdUlVdW1GWDZpZDdFaDdOVXJSS21yVXdCZGI3eW9oaHBWSi0xY3R1MXpYeEVpLUkyVkFNekVuMlpORkRNbzNvUFVPMHdURXNqM09KUU9GXzJDSHdsM1ZSbjNJRnFaUTNlQ3ZFeU8yQmpVNFRGeXRCTm5acFI0dldjeFd5T3E3MDQzVW5FX1FMbFBQUWQxV2JlOWdHa0l3N0NSR3dKVzE2dTlYWGNjV29MRDd5Z0w3eEFSRTZRdE9udGpTQ2xlQXh6emdkd1BiT2h4SlZHVkx3?oc=5",
@@ -584,12 +574,12 @@
       }
     },
     {
-      "id": "ee7813a8a7ae",
-      "title": "Tutto in un click, i rischi di acquistare prodotti per la salute sul web - RSI",
+      "id": "8b77178d7c2f",
+      "title": "Tutto in un click, i rischi di acquistare prodotti per la salute sul web - RSI Radiotelevisione svizzera",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUnh0NXNmb3Z3UlJQVUdKbndsWEZjODdjSVhYU0ZEbjRzS082OUFROHk5enRKSVRuMkhZZEstV3VmemZCTXpuN2tGN2RCNmJRUHJpU2NseXNIVXRUbnVNVWVCZVNET3BGY2NlWF80UXRlbXJmWVJyYUZ6TnpvVnhCSkxuaHJyVGh4LXNQdlZjYWlCUXA1WGpwZ0ZxZkoxcUlFeDVWcWRUQVNWZ1ZJaGVFN0VNajFDWnhpcTNBUjFPMl9yWEZYNk53bk1YQm9QaHB6SG5IWW1UcWtXbWxoQy12MG9uaVR3SU1hVlE?oc=5",
       "published": "2026-03-30T09:01:28+00:00",
       "source": {
-        "name": "RSI",
+        "name": "RSI Radiotelevisione svizzera",
         "url": "https://www.rsi.ch"
       }
     },
@@ -641,16 +631,6 @@
       "source": {
         "name": "www.altoadige.it",
         "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "cb9483f89972",
-      "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - VareseNews",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
-      "published": "2026-04-04T12:42:59+00:00",
-      "source": {
-        "name": "VareseNews",
-        "url": "https://www.varesenews.it"
       }
     },
     {
@@ -724,16 +704,6 @@
       }
     },
     {
-      "id": "ce6f7be475f1",
-      "title": "Farmaci, l’errore che fanno in molti: ecco cosa rischi se non li usi bene - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdLdnl1QVQyanJZNDI5c3FNNGZWYUQzcGttMmYxUlF2QmxYSV9mcS1WVmp4V1dMSTl4RFBBUnRTMWtKMkxPMnJ6WTFINHEtQW11YW5DdVQtLTVseUEtZXI5YXNuV0xHRTJYb0QySW9IWm9yNDlJdkxMSDRSWVJQTnRzdWNvZWotaDNuaWZ1VWVZRDhFdzdmRi01WlJfSGRnOGhMYkdKQnhKcHkzeW1n?oc=5",
-      "published": "2026-03-28T07:00:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "c99bf480191b",
       "title": "Evento Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbV91OUxzdWNGWS1xZXB4MnQ2NDNwcGpMdXkwb3pNdEpudkRmSm1VWnRzNV9PcXJNX2FWeUEzcXZUd0JQMTl2WWtpd0RfTjdBUGg4LXNGTkNYMFBQVTRRbnFxZ01hVEgzVjJXY0JKRWtsQlcyelpFVi1DeHFuVVBWQ2FtTGMyVkVvZkFZTlM5YzhRVHpJYTVXOHNjWG5kalIzU3BLU19mamJhMGQ0dEpF?oc=5",
@@ -741,6 +711,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "ce6f7be475f1",
+      "title": "Farmaci, l’errore che fanno in molti: ecco cosa rischi se non li usi bene - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHdLdnl1QVQyanJZNDI5c3FNNGZWYUQzcGttMmYxUlF2QmxYSV9mcS1WVmp4V1dMSTl4RFBBUnRTMWtKMkxPMnJ6WTFINHEtQW11YW5DdVQtLTVseUEtZXI5YXNuV0xHRTJYb0QySW9IWm9yNDlJdkxMSDRSWVJQTnRzdWNvZWotaDNuaWZ1VWVZRDhFdzdmRi01WlJfSGRnOGhMYkdKQnhKcHkzeW1n?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -854,16 +834,6 @@
       }
     },
     {
-      "id": "dc35ba4018a2",
-      "title": "Salute mentale e giovani: «Non bastano i farmaci, serve umanità e prevenzione tempestiva» - VareseNews",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlTWNuRGo4eGRhVzZSZ18xU1VTU3BIN2FKLVdJOGxFZjhkeDJDa0pkeWVsbUNHUWhuUTdFaVZTVGJwTWpjd2pmVnFoWXNqUjhJVVAya2Z0VmRzTy1FYmVr?oc=5",
-      "published": "2026-03-21T07:00:00+00:00",
-      "source": {
-        "name": "VareseNews",
-        "url": "https://www.varesenews.it"
-      }
-    },
-    {
       "id": "b9c6b596c4a4",
       "title": "Farmaci: Ema, non usare codeina per tosse e raffreddore bimbi - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1kbmwzaS1VeHpDaXBTbWlnemVTcnRrZVk2ZUVKM3A1TFNKaHpBVV92V2R5a05QWWktekJwQ2NTTC01SWNMTTdFbzhOZzdUS2M2Rlh0RXhUMTIwUWZsbHJJXzQ0YnRnNkRuX0FDanFEaEN2TVdCLUhGX3dZTDZTWmxsTzR6dUlHQnJ6OGdvNm12ZzNTelBxWW96bw?oc=5",
@@ -964,6 +934,16 @@
       }
     },
     {
+      "id": "e0c8be33fe8c",
+      "title": "Spese fuori controllo, Aifa risponde a Schillaci e si dichiara “aperta” a qualunque decisione - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDE1OVFidTU5ZFpDLTJEQVBwZE9nWFIzdUgtLW1EUEJBMXNtVzBvcHdieE1mNURyWDhuM01uUV9yRWI3ZDZSZk1Fa3diSFYzVXJYWUgxVzJxa2g4dFRPNmo1d2xVLXRuTFZqdERwZXhNMFV3elk4MVpzYXFUdzdxa25PVlRuOF9oRU5lWjhUb0xhWE1oNlZKU2NvVXhCbU1TMjlKRDZ1NlBDTG1CQVFYYjY5Y3BMdzU3d0F3?oc=5",
+      "published": "2026-02-19T08:00:00+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "976dc4347f04",
       "title": "Tumore al pancreas. Svolta sul farmaco olaparib, Ministero Salute: “Aifa dice sì alla rimborsabilità” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORTRBQWtpRnZEa0ZUWUxuZUZTUS16VThTM2Y1cElKR2NlQXUyaHhhM0VqRjNTeDFKajRIY2VIekNEWWotZVlrbG1QWlhDZEVvUE44bVhETTl4dmJQaVp0LWJOT1c2eHRVeUVzUVJ6RkhkRlpTUnMzUzZVUEQtZFZoU3FwTEFfYXV0NEhhRy1wa3d3OHQwTVNRamxYYk5NbUNIVHJFRTVmVktmYmQ5ZGhhWVdxQ1lqUTczdjBIZkltcTVMc2pPNjVHTzNQZ0dyUjlPdVFHWlpfY3J0cVFzdnZvcjZLREU?oc=5",
@@ -1001,6 +981,26 @@
       "source": {
         "name": "The Wom Healthy",
         "url": "https://healthy.thewom.it"
+      }
+    },
+    {
+      "id": "3af24f838d53",
+      "title": "Camerae Sanitatis. La manifattura della salute italiana tra sfide, resilienza e opportunità - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJtSVhBcFphTldTTHBnRS1HRFV0R3p1dHNzMUY0Q09LTXBVa3RpaFJxWGhCa21PRjNuSEUtZ1FJcnpOd3FGZ05VQ1NYSVJwYThXT3Z1alFqakFPazhKeWFUUHl3SmJBTHRPN0ItTU5uNDNzZTF5VWxaSXZXbnRwMkVnQVhhcEpEanpEdGo2c2hwOEhFZEZWZ3lUWnRHQ3N1QUFSMUVNU2FWSVprcGxSalRQZm1PUTRNcXRfZnNXMUsyLUdxbmUtUEw2VThqRXphLXNxUkZn?oc=5",
+      "published": "2025-12-12T08:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "e37d39115a44",
+      "title": "Farmaci per dimagrire e antidiabete: esiste davvero un rischio per la salute degli occhi? - Diabete.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFAwQ204aFc3VmJqbkRLc2tPbnM4LWQxMlVTMVNxVHFvLVlQbTVhLU53TFRvRFBqSkpRbzhRZ3dNZW1pY2EzZWlhekNSUE1YS3g1ajQ0QnlqdkY3bFZJRWNGRnhPTHR4SWhFN1hqNGhGM19TS2pzUVBvWG9Jb3VCQg?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Diabete.com",
+        "url": "https://www.diabete.com"
       }
     }
   ]
