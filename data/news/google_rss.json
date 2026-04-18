@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T21:24:24.492361+00:00",
+  "fetched_at": "2026-04-18T22:23:44.109504+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "291eee1d3af1",
-      "title": "Farmaci più costosi e a rischio per la guerra: l’industria farmaceutica italiana lancia l’allarme - QuiFinanza",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRldaa1hCQ0YtNEVYdjZMNGJSaGV0eDZhUGxHNllIUVFSQ3pzcHNGMm9jWXhGbWpIZ3ladEo5azVHVTV2eXZ1VHU5S3VLMEJUVDd4ejAycG56YnVQbnE0UDJ0OXc5TmJzVlhfek00VTg4UXhXZ0xKN08zd2JwTnBHYlZ6X2dWVkZYaHfSAY8BQVVfeXFMT3JGLXVSM091QXJUVGpsWll6OUtOU2dSQTRRRE5JbWxSeWhhZU16bU5QcWR1N240MTlJR2NxM0RFbTdMSVhYVFVuNm1jQnBCSDVTQVdtYnJnRUxqd1AtTF95YVJZdXFmbldCeWhfeFUzalBIZldUclhOeEhCczVIZDByYWI1VWs4TUhpNm1nbjg?oc=5",
-      "published": "2026-04-15T10:47:01+00:00",
-      "source": {
-        "name": "QuiFinanza",
-        "url": "https://quifinanza.it"
-      }
-    },
-    {
       "id": "6ede78d03eb7",
       "title": "Prevenzione dei tumori, la ricerca punta a valutare il potenziale dei farmaci anti-obesità - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnJPcDYwZDFaclBZZ1ZWUEdqMElNWldENkNCLXVvZi1wT0xBcUFXd0VNTHZfUkd6cnBHNDY4QWNzdUFrc0tVMGM5WFc1d2RVV2dRNGt4dk5SUFVVekd2cjF1dnpNd0IydnhITGdqaW51ejQ0QlNJOGxVbHhmMVZUbUJ2bE5rem1fbjBOSS1Cbk93bWxzekJoVXkzczZiUG1YV1IzYmlOTzE2UnlFNnlxX0hQZ1JTVmh3RllrZFNhdUlXYU1YMlcxNktuWjTSAdIBQVVfeXFMTUFQT3BqRGJKekN0WHdybGhVUkhWSUlkZ0dFSWg2WFJleThJU1lJenJXellVX1ZackNFcVZpZEtmeUY5cG5zNTJKRGp1RU1FY3JhaEtSWnB3aHRGdElENVlDZ3EyM1VzZnNlY0dJaHBOODI0TDV0aE9hY3haNnI5ZHZ5S3J2a0lTbDdLcmpYN2k3VW5sVXV5bkJZYUJBZkplWWJCZ09hY1ltOFdndmROYUZwamtsSHZ0TzhoWXBnaVhSZDZGTTRGMkhUaU1KQXdQVHJ3?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "238e11b09d46",
+      "title": "Alzheimer, i nuovi farmaci non funzionano: cosa emerge dagli studi - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXRuLTZYcG9EU0JEcm1FbHBjMGg0V2pRSXRraU05LUpZVGFPLWtEWU0xTHFPeFpqVVpzVV9qWHRzQmRMZjBBaURrc1ZfZUdoMVIzdE92NG5Ic3FHLUR0dUFINThYTGRpbldIOE0xc08wS0lJSHBIX1lqSV96dmtZYUZJd0QyMDNnZHZ3S2ZnTjZuV2U2b1RCWE0yMVdQUVMwZjJJRDdPSkJ5T3FGVVJIVkRR?oc=5",
+      "published": "2026-04-17T12:14:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "d7aa03023714",
-      "title": "Ozempic, cos’è davvero il farmaco citato da Emma Marrone - Tgcom24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHJSTW9QdG1BRFA4QW12VXFIUVNjemtOM3cweUdHOGk0QzZxUXJ3QnZRb19QYXZzTEJJcXBsWldYN21GWG1ySnhQZnVuVGgxZTdEbWszbVNQS0ZDZ0N1VG83ZXdxLThXTXJpMGpXOEFmbF9sTEcwam5mdVVQQmtpd0Nzd2tQZmhXV3FGdWpBNmFfZk41NkxSZkpaYnItNzc0V1HSAWhBVV95cUxNNU9ucy0zZlEyUk5NQng4UF9SNUZnV1p0WUN3MmRXU0FKNFVRR2ZRbDFuSTRHaEZpWmpUaHdKRXJIYklWM2hlVlJyUHNsUnp6NlhycmQzX2hJdkh5eEFDR0pPeFFZZkRfdA?oc=5",
-      "published": "2026-04-18T12:57:29+00:00",
-      "source": {
-        "name": "Tgcom24",
-        "url": "https://www.tgcom24.mediaset.it"
-      }
-    },
-    {
       "id": "d0ed853c95da",
       "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
@@ -201,6 +191,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "d7aa03023714",
+      "title": "Ozempic, cos’è davvero il farmaco citato da Emma Marrone - Tgcom24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHJSTW9QdG1BRFA4QW12VXFIUVNjemtOM3cweUdHOGk0QzZxUXJ3QnZRb19QYXZzTEJJcXBsWldYN21GWG1ySnhQZnVuVGgxZTdEbWszbVNQS0ZDZ0N1VG83ZXdxLThXTXJpMGpXOEFmbF9sTEcwam5mdVVQQmtpd0Nzd2tQZmhXV3FGdWpBNmFfZk41NkxSZkpaYnItNzc0V1HSAWhBVV95cUxNNU9ucy0zZlEyUk5NQng4UF9SNUZnV1p0WUN3MmRXU0FKNFVRR2ZRbDFuSTRHaEZpWmpUaHdKRXJIYklWM2hlVlJyUHNsUnp6NlhycmQzX2hJdkh5eEFDR0pPeFFZZkRfdA?oc=5",
+      "published": "2026-04-18T12:57:29+00:00",
+      "source": {
+        "name": "Tgcom24",
+        "url": "https://www.tgcom24.mediaset.it"
       }
     },
     {
@@ -384,16 +384,6 @@
       }
     },
     {
-      "id": "238e11b09d46",
-      "title": "Alzheimer, i nuovi farmaci non funzionano: cosa emerge dagli studi - Pazienti.it",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXRuLTZYcG9EU0JEcm1FbHBjMGg0V2pRSXRraU05LUpZVGFPLWtEWU0xTHFPeFpqVVpzVV9qWHRzQmRMZjBBaURrc1ZfZUdoMVIzdE92NG5Ic3FHLUR0dUFINThYTGRpbldIOE0xc08wS0lJSHBIX1lqSV96dmtZYUZJd0QyMDNnZHZ3S2ZnTjZuV2U2b1RCWE0yMVdQUVMwZjJJRDdPSkJ5T3FGVVJIVkRR?oc=5",
-      "published": "2026-04-17T12:14:00+00:00",
-      "source": {
-        "name": "Pazienti.it",
-        "url": "https://www.pazienti.it"
-      }
-    },
-    {
       "id": "d7a3b3651722",
       "title": "Colesterolo alto nella donna: ecco perché le terapie devono cambiare in base all'età (e non solo) - My-personaltrainer",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb0k3ZExObjFLX3NXUlBpNmt2T3BnZ2podmt6VmNYUzFqTXE3Q1pFaWhpZ3Y2cklGOGhEaFhxbU93Sy1oUHZzdUU0ZWoxak9YNEFCS3FuLVNDbmYyc0dRV2tIQVpmV1ZkX24xUy1vckNFM1VxVGRqOWhGQ1hGYzVmT0w0LWt3V1NqLWYzM0NuWlA5SU41bzU5dm9DTm92S1pQVnI5NWU5UGVMaWVSVWJVTjR2SFNvQjV1YXl4N1ZqWDUxNkh2c05KOFVFS3JBVTBIWm0yR1BUTlNhLUhEUE9xYw?oc=5",
@@ -414,16 +404,6 @@
       }
     },
     {
-      "id": "e01a9b1c5e60",
-      "title": "Berberina per dimagrire: perché la scienza smentisce l'alternativa ai farmaci - Everyeye Lifestyle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVd1NWlQbW9qcEZBb0RjcnBSY0p4QUEzWEluMVVTaEkzdF9pVU40dzA5UlRVbXo3b2xiVlFMOF9LWTdSNkEwOVFfek8wemR3bHZJUUZyU0EzQjFIU2dTMHZ3TGQ5RW1veHpUSDRiX0xpTDhMU1B3LV9Deko3V3k4dXNLbWFiSjM0TUVHYVVxZVZGV2xHM3Q2QmFfNjZ2OVZtOFZjbmV2T0ZkeUcxQnkydDhXRQ?oc=5",
-      "published": "2026-04-18T11:00:00+00:00",
-      "source": {
-        "name": "Everyeye Lifestyle",
-        "url": "https://lifestyle.everyeye.it"
-      }
-    },
-    {
       "id": "368dfc7fb351",
       "title": "A Città della Salute un robot prepara i farmaci oncologici - AGI",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGM1U3dSbEROeUd3ODhwX3UyWVQwcGsya21HbzNYem5EMXk5X0RYSmVkRUk4T3ZJUk1zb1h1dFhlaWt6OFo0Sjg2U3J1LVF2SHBSeWhwM3hZSlpsVVpyLTd0cEE5d3V2ZXpVOGZEb0h4Z0RFMnBGTUM2Zk9PcnFfdDFQcjRQYmYxV20teA?oc=5",
@@ -434,13 +414,13 @@
       }
     },
     {
-      "id": "9fcb7caa7e74",
-      "title": "Allarme farmaci: “Terzo shock in quattro anni” per il settore - Euroborsa",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pcXZvcnhLbDNuZ2pUMWdZQlNfOFpjWndpZmpWZ0k2dFl6WXZzZW55R0haN0VlSmdTeXBKYzVYaTF5VG1HSXZNOVc2YURDZHlocUZSZERiUmtTblRCV05kcU5xOHQ?oc=5",
-      "published": "2026-04-15T04:00:00+00:00",
+      "id": "e01a9b1c5e60",
+      "title": "Berberina per dimagrire: perché la scienza smentisce l'alternativa ai farmaci - Everyeye Lifestyle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVd1NWlQbW9qcEZBb0RjcnBSY0p4QUEzWEluMVVTaEkzdF9pVU40dzA5UlRVbXo3b2xiVlFMOF9LWTdSNkEwOVFfek8wemR3bHZJUUZyU0EzQjFIU2dTMHZ3TGQ5RW1veHpUSDRiX0xpTDhMU1B3LV9Deko3V3k4dXNLbWFiSjM0TUVHYVVxZVZGV2xHM3Q2QmFfNjZ2OVZtOFZjbmV2T0ZkeUcxQnkydDhXRQ?oc=5",
+      "published": "2026-04-18T11:00:00+00:00",
       "source": {
-        "name": "Euroborsa",
-        "url": "https://euroborsa.it"
+        "name": "Everyeye Lifestyle",
+        "url": "https://lifestyle.everyeye.it"
       }
     },
     {
@@ -454,6 +434,16 @@
       }
     },
     {
+      "id": "9fcb7caa7e74",
+      "title": "Allarme farmaci: “Terzo shock in quattro anni” per il settore - Euroborsa",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pcXZvcnhLbDNuZ2pUMWdZQlNfOFpjWndpZmpWZ0k2dFl6WXZzZW55R0haN0VlSmdTeXBKYzVYaTF5VG1HSXZNOVc2YURDZHlocUZSZERiUmtTblRCV05kcU5xOHQ?oc=5",
+      "published": "2026-04-15T04:00:00+00:00",
+      "source": {
+        "name": "Euroborsa",
+        "url": "https://euroborsa.it"
+      }
+    },
+    {
       "id": "20f60fced4f4",
       "title": "Nuovo robot per la farmacia oncologica della Città della Salute e della Scienza di Torino - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50dmVheUpPVTVvVS1hWUZkZkV4QUhSTE9rWGptTmFWZ2F1UEYtMUVVZm1RWTFjQUFzcjdQWi1ncHdtMFBKVUJWWERncXM4NFd0TUJzcDVhYndBaEpVbE9GVkJXSnRFS1ktaTFhdVRGOA?oc=5",
@@ -461,6 +451,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "291eee1d3af1",
+      "title": "Farmaci più costosi e a rischio per la guerra: l’industria farmaceutica italiana lancia l’allarme - QuiFinanza",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRldaa1hCQ0YtNEVYdjZMNGJSaGV0eDZhUGxHNllIUVFSQ3pzcHNGMm9jWXhGbWpIZ3ladEo5azVHVTV2eXZ1VHU5S3VLMEJUVDd4ejAycG56YnVQbnE0UDJ0OXc5TmJzVlhfek00VTg4UXhXZ0xKN08zd2JwTnBHYlZ6X2dWVkZYaHfSAY8BQVVfeXFMT3JGLXVSM091QXJUVGpsWll6OUtOU2dSQTRRRE5JbWxSeWhhZU16bU5QcWR1N240MTlJR2NxM0RFbTdMSVhYVFVuNm1jQnBCSDVTQVdtYnJnRUxqd1AtTF95YVJZdXFmbldCeWhfeFUzalBIZldUclhOeEhCczVIZDByYWI1VWs4TUhpNm1nbjg?oc=5",
+      "published": "2026-04-15T10:47:01+00:00",
+      "source": {
+        "name": "QuiFinanza",
+        "url": "https://quifinanza.it"
       }
     },
     {
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "93b0f7cfd9db",
-      "title": "Guerra in Iran e carenza farmaci, allarme di Farmidustria: cosa rischia l’Italia e il made in Italy - Partitaiva.it",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UWGE4dWtqUlFNNUZhODJlTms3cE81dy1HT1lweDE1Y2NNTllGZUMwLTlyZFAwRXNycjA0Y3JTR1hScnprUHltcDVXYk0zcGVCQTlxVmtyMWUtQUpnX21CRFozdw?oc=5",
-      "published": "2026-04-17T10:30:20+00:00",
-      "source": {
-        "name": "Partitaiva.it",
-        "url": "https://www.partitaiva.it"
-      }
-    },
-    {
       "id": "4171f29e8bc8",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -551,6 +541,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "93b0f7cfd9db",
+      "title": "Guerra in Iran e carenza farmaci, allarme di Farmidustria: cosa rischia l’Italia e il made in Italy - Partitaiva.it",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UWGE4dWtqUlFNNUZhODJlTms3cE81dy1HT1lweDE1Y2NNTllGZUMwLTlyZFAwRXNycjA0Y3JTR1hScnprUHltcDVXYk0zcGVCQTlxVmtyMWUtQUpnX21CRFozdw?oc=5",
+      "published": "2026-04-17T10:30:20+00:00",
+      "source": {
+        "name": "Partitaiva.it",
+        "url": "https://www.partitaiva.it"
       }
     },
     {
@@ -594,23 +594,13 @@
       }
     },
     {
-      "id": "420cadf94d9c",
-      "title": "IL SOLE 24 ORE * SALUTE: «L'IA AL POSTO DEL MEDICO PRESCRIVE FARMACI E FA CONSULENZE: DALLO UTAH AL SALVADOR - agenziagiornalisticaopinione.it",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzN3cmNyVGxZdkM0ZkNDWXROeTRteFJLNDJEaThpd2NUZGtvdWtFWmthYXYwSUhrX19KSVlneE1fdXhrNnVvNVlkRlRoUXZ5UWdMckoyTjhnc09OMElSTGpDTVN6aElnaEppZWdWbUlJVHBuTW9ZdmN6cWNHY0lkekN6QkM1UmtRcHVYaUpaaWMyNm1wbmZWcXFqWkJrRGRTa0xOYjgxM2lzcTJ0UXA5QU9qa1dpM2g3YmJrMldUOHdLRmpWbDl3TDFfWFBVWjFGQ0RPMWR4cFd3a0wtclpNOFJtUXdiZnNDek5jampqcWFLTzBvUUltdQ?oc=5",
-      "published": "2026-04-18T05:00:43+00:00",
+      "id": "a045a06d9d17",
+      "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZS1nU0VJUjFUa29SUEN5enVtS2ZlQlRVa0VpOXlhRGp3a19DZTBVNzJWWG9OM3ZwNFJaODBWcXRoVEdxQjlzTDJvUC1IMTVmeXZveFZ5YzFnNW16NTd6RXNJLThLa3hxeVZ1cXJvNWxfMldyZG5xS3BoeEV0SzFzbjhlbGdsY2tOMnNNc1JtSlNEQ3E4dThQNVVDWm5oYlVybHZjaFFxM0NxY1N3UUo0?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "agenziagiornalisticaopinione.it",
-        "url": "https://www.agenziagiornalisticaopinione.it"
-      }
-    },
-    {
-      "id": "ba67aafa329b",
-      "title": "Alzheimer, risultati promettenti da una nuova terapia sperimentata al Mondino - Il Giorno",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvLTI2eUZTRUExVGw4TGJGb0t6WDcxMTNmcnRlTkNSNXloenc2TEkxTmxlWnp6dHd2M2lkZTlsWTNaYWpLQzZvbno0aUNVTEoxRzFCUlBvNllMVVZpWW40V29YbThXbVBrMVV6S0E0MlE?oc=5",
-      "published": "2026-04-18T10:42:52+00:00",
-      "source": {
-        "name": "Il Giorno",
-        "url": "https://www.ilgiorno.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -624,13 +614,23 @@
       }
     },
     {
-      "id": "a045a06d9d17",
-      "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZS1nU0VJUjFUa29SUEN5enVtS2ZlQlRVa0VpOXlhRGp3a19DZTBVNzJWWG9OM3ZwNFJaODBWcXRoVEdxQjlzTDJvUC1IMTVmeXZveFZ5YzFnNW16NTd6RXNJLThLa3hxeVZ1cXJvNWxfMldyZG5xS3BoeEV0SzFzbjhlbGdsY2tOMnNNc1JtSlNEQ3E4dThQNVVDWm5oYlVybHZjaFFxM0NxY1N3UUo0?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
+      "id": "ba67aafa329b",
+      "title": "Alzheimer, risultati promettenti da una nuova terapia sperimentata al Mondino - Il Giorno",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvLTI2eUZTRUExVGw4TGJGb0t6WDcxMTNmcnRlTkNSNXloenc2TEkxTmxlWnp6dHd2M2lkZTlsWTNaYWpLQzZvbno0aUNVTEoxRzFCUlBvNllMVVZpWW40V29YbThXbVBrMVV6S0E0MlE?oc=5",
+      "published": "2026-04-18T10:42:52+00:00",
       "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
+        "name": "Il Giorno",
+        "url": "https://www.ilgiorno.it"
+      }
+    },
+    {
+      "id": "420cadf94d9c",
+      "title": "IL SOLE 24 ORE * SALUTE: «L'IA AL POSTO DEL MEDICO PRESCRIVE FARMACI E FA CONSULENZE: DALLO UTAH AL SALVADOR - agenziagiornalisticaopinione.it",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzN3cmNyVGxZdkM0ZkNDWXROeTRteFJLNDJEaThpd2NUZGtvdWtFWmthYXYwSUhrX19KSVlneE1fdXhrNnVvNVlkRlRoUXZ5UWdMckoyTjhnc09OMElSTGpDTVN6aElnaEppZWdWbUlJVHBuTW9ZdmN6cWNHY0lkekN6QkM1UmtRcHVYaUpaaWMyNm1wbmZWcXFqWkJrRGRTa0xOYjgxM2lzcTJ0UXA5QU9qa1dpM2g3YmJrMldUOHdLRmpWbDl3TDFfWFBVWjFGQ0RPMWR4cFd3a0wtclpNOFJtUXdiZnNDek5jampqcWFLTzBvUUltdQ?oc=5",
+      "published": "2026-04-18T05:00:43+00:00",
+      "source": {
+        "name": "agenziagiornalisticaopinione.it",
+        "url": "https://www.agenziagiornalisticaopinione.it"
       }
     },
     {
@@ -764,16 +764,6 @@
       }
     },
     {
-      "id": "73ef84215504",
-      "title": "Anapaca: I rischi di fronte ad un eccesso di farmaci - Il Torinese",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0hjVWtaaGF2b0hya0J6QlRaLVZCU3puZXZNVk82dDd0UzV6ZXdoNDNPU0tFWk1mT0NWVGVYNlh6ZV9tc0V4STFyX2tJZFUxVjhGRnMwenVWMHVRWDFGVWhLWXhKM2hRY2YweVdMSHpqd2ZkQUVydFFjM0tvd2Jnd2Vka0Vub2pJWkdUQUlB?oc=5",
-      "published": "2026-04-17T22:24:35+00:00",
-      "source": {
-        "name": "Il Torinese",
-        "url": "https://iltorinese.it"
-      }
-    },
-    {
       "id": "080ff1eab616",
       "title": "Cancro al pancreas, un nuovo farmaco potrebbe raddoppiare la sopravvivenza - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3ZtenlGZWRzaUk4OS1RZnNpbV9ZTnd5SEZDNnY2N21nc2ZOQm91dkxSb25GSlR0NERTOTJuSWV4ZDNuem9vZUZVSnR2dVVjb1F5Wkd2Ql9VMzVmUVctaEVXLTFfN3lVeHk5VGdEU3NDV1N4QmEzSld2dm0tYmF2NkgzUlVvMUkzLVJxZXdPcmx5TXNyeVdFNDJTOW91TU92QXhQOVZNQTI3eGg0cUZRaHBXa1drb3JaZ000ZmRR?oc=5",
@@ -781,6 +771,16 @@
       "source": {
         "name": "Pazienti.it",
         "url": "https://www.pazienti.it"
+      }
+    },
+    {
+      "id": "73ef84215504",
+      "title": "Anapaca: I rischi di fronte ad un eccesso di farmaci - Il Torinese",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0hjVWtaaGF2b0hya0J6QlRaLVZCU3puZXZNVk82dDd0UzV6ZXdoNDNPU0tFWk1mT0NWVGVYNlh6ZV9tc0V4STFyX2tJZFUxVjhGRnMwenVWMHVRWDFGVWhLWXhKM2hRY2YweVdMSHpqd2ZkQUVydFFjM0tvd2Jnd2Vka0Vub2pJWkdUQUlB?oc=5",
+      "published": "2026-04-17T22:24:35+00:00",
+      "source": {
+        "name": "Il Torinese",
+        "url": "https://iltorinese.it"
       }
     },
     {
@@ -814,16 +814,6 @@
       }
     },
     {
-      "id": "e6dbc184b13c",
-      "title": "Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza - Salute e Benessere - l'Adige",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZnllUDc1dTF6QXBtV2ZpUGpIRWQ0SFRqa09XMy05QmtyMjFlZG95V01QSTBkYU1zSWtmVWdXMW9jMnl2WTRzVVZtdEk5R25mS0JxaEFfenVLMmxZRkE4UjVuZUg5bnJzNzFNNXpRbEpEZ2NRdzNXRjZIYVRIQUlCd0NOQ3FHbjl3aEdRclFJeHoxaVlXcEhmSW1FRnFUZ3owa252Qy0yWDZHeUdWWTlVZlJJUG80azJxVzhMVWVKa2Z5WVdiVG9j?oc=5",
-      "published": "2026-04-14T08:35:00+00:00",
-      "source": {
-        "name": "l'Adige",
-        "url": "https://www.ladige.it"
-      }
-    },
-    {
       "id": "6d70303981cf",
       "title": "Obesità, scoperto un ormone naturale fa perdere peso agendo sul cervello - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUxhNmdZV2RpVTJQN0lYVTh1ZzRNZ20xcUhOYmJXNmJwNWZ1Y09iQklXVFhISlF2YXZfT0lHMWtVbmM5UEcxSUw1Zm9rQkNBSU5ocjVZR3BIcHV3TXVsaDE4OEt1ZF9VaHBXZnFyRmRVN3RhMUwxYkJIU0s5ME9RZ0JTdzFDYWdYdHZJRl9IVXJid0RNbjJhUU4tQ1hhd2ptOGhNRDFLVTg5RmFWVU9zTVItbnBDVmlXRTRB?oc=5",
@@ -831,6 +821,16 @@
       "source": {
         "name": "Pazienti.it",
         "url": "https://www.pazienti.it"
+      }
+    },
+    {
+      "id": "e6dbc184b13c",
+      "title": "Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza - Salute e Benessere - l'Adige",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZnllUDc1dTF6QXBtV2ZpUGpIRWQ0SFRqa09XMy05QmtyMjFlZG95V01QSTBkYU1zSWtmVWdXMW9jMnl2WTRzVVZtdEk5R25mS0JxaEFfenVLMmxZRkE4UjVuZUg5bnJzNzFNNXpRbEpEZ2NRdzNXRjZIYVRIQUlCd0NOQ3FHbjl3aEdRclFJeHoxaVlXcEhmSW1FRnFUZ3owa252Qy0yWDZHeUdWWTlVZlJJUG80azJxVzhMVWVKa2Z5WVdiVG9j?oc=5",
+      "published": "2026-04-14T08:35:00+00:00",
+      "source": {
+        "name": "l'Adige",
+        "url": "https://www.ladige.it"
       }
     },
     {
