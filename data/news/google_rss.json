@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T15:29:16.356042+00:00",
+  "fetched_at": "2026-04-18T16:27:55.276720+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "d7aa03023714",
-      "title": "Ozempic, cos’è davvero il farmaco citato da Emma Marrone - Tgcom24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHJSTW9QdG1BRFA4QW12VXFIUVNjemtOM3cweUdHOGk0QzZxUXJ3QnZRb19QYXZzTEJJcXBsWldYN21GWG1ySnhQZnVuVGgxZTdEbWszbVNQS0ZDZ0N1VG83ZXdxLThXTXJpMGpXOEFmbF9sTEcwam5mdVVQQmtpd0Nzd2tQZmhXV3FGdWpBNmFfZk41NkxSZkpaYnItNzc0V1HSAWhBVV95cUxNNU9ucy0zZlEyUk5NQng4UF9SNUZnV1p0WUN3MmRXU0FKNFVRR2ZRbDFuSTRHaEZpWmpUaHdKRXJIYklWM2hlVlJyUHNsUnp6NlhycmQzX2hJdkh5eEFDR0pPeFFZZkRfdA?oc=5",
-      "published": "2026-04-18T12:57:29+00:00",
-      "source": {
-        "name": "Tgcom24",
-        "url": "https://www.tgcom24.mediaset.it"
-      }
-    },
-    {
       "id": "07d7c04c3528",
       "title": "Dispositivi medici - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnVjaURacnZUaVIzV280bmVCbVJVdzJpWnRMN0Y0aTliNmRubDVUdnhMbUpES1U3WVNrT0RqS0d1NnVYWnA5ZGxBLWE1cU5xU3J5dEd3ZDBIcDd5bHM5RE1ZNlV0aHVLTkRMd1VIWXpPdTJXQ3c?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "d7aa03023714",
+      "title": "Ozempic, cos’è davvero il farmaco citato da Emma Marrone - Tgcom24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHJSTW9QdG1BRFA4QW12VXFIUVNjemtOM3cweUdHOGk0QzZxUXJ3QnZRb19QYXZzTEJJcXBsWldYN21GWG1ySnhQZnVuVGgxZTdEbWszbVNQS0ZDZ0N1VG83ZXdxLThXTXJpMGpXOEFmbF9sTEcwam5mdVVQQmtpd0Nzd2tQZmhXV3FGdWpBNmFfZk41NkxSZkpaYnItNzc0V1HSAWhBVV95cUxNNU9ucy0zZlEyUk5NQng4UF9SNUZnV1p0WUN3MmRXU0FKNFVRR2ZRbDFuSTRHaEZpWmpUaHdKRXJIYklWM2hlVlJyUHNsUnp6NlhycmQzX2hJdkh5eEFDR0pPeFFZZkRfdA?oc=5",
+      "published": "2026-04-18T12:57:29+00:00",
+      "source": {
+        "name": "Tgcom24",
+        "url": "https://www.tgcom24.mediaset.it"
       }
     },
     {
@@ -394,16 +394,6 @@
       }
     },
     {
-      "id": "d81f1898ab63",
-      "title": "Novo Nordisk si allea con OpenAI per accelerare la ricerca sui farmaci - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTHZfcjU0YTl3cWVJNnN1SUJQZ2Vmb1FzdzVPV3N0R1lXTHh6cFVFSjNKRlFhY2lZb0tXZ1o3STFPclgwWWFSOVpURVVYQ0ctZ0RlaV9lUGhVRHBXNW9YYW01aHFPV01Zd1RnMTlmdlY1Tk52eUNhTDJ4VEo0NjZhZjdJbHFOSHhhZm5Fbnd4WUoxckZNSVlNc2IxMFlCeV9IbEVSQ2d6bHhDZ1VEM3dUWkt3?oc=5",
-      "published": "2026-04-14T09:42:44+00:00",
-      "source": {
-        "name": "Euronews",
-        "url": "https://it.euronews.com"
-      }
-    },
-    {
       "id": "238e11b09d46",
       "title": "Alzheimer, i nuovi farmaci non funzionano: cosa emerge dagli studi - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXRuLTZYcG9EU0JEcm1FbHBjMGg0V2pRSXRraU05LUpZVGFPLWtEWU0xTHFPeFpqVVpzVV9qWHRzQmRMZjBBaURrc1ZfZUdoMVIzdE92NG5Ic3FHLUR0dUFINThYTGRpbldIOE0xc08wS0lJSHBIX1lqSV96dmtZYUZJd0QyMDNnZHZ3S2ZnTjZuV2U2b1RCWE0yMVdQUVMwZjJJRDdPSkJ5T3FGVVJIVkRR?oc=5",
@@ -434,16 +424,6 @@
       }
     },
     {
-      "id": "ba67aafa329b",
-      "title": "Alzheimer, risultati promettenti da una nuova terapia sperimentata al Mondino - Il Giorno",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvLTI2eUZTRUExVGw4TGJGb0t6WDcxMTNmcnRlTkNSNXloenc2TEkxTmxlWnp6dHd2M2lkZTlsWTNaYWpLQzZvbno0aUNVTEoxRzFCUlBvNllMVVZpWW40V29YbThXbVBrMVV6S0E0MlE?oc=5",
-      "published": "2026-04-18T10:42:52+00:00",
-      "source": {
-        "name": "Il Giorno",
-        "url": "https://www.ilgiorno.it"
-      }
-    },
-    {
       "id": "912dbfb5eef7",
       "title": "Fogli illustrativi cartacei e digitali dei medicinali: perché l’approccio dell’Italia è importante per la sicurezza dei pazienti - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObVJKeUc3eEdQdXZPQ0tLc1RHTFBVWmZMS2JRdkNCYU1Yb1VRbEdXeHgxOFV3YVh4R1dwS0dDcW9sd1A3emFOTUxDNVFyeXEzQjhmRjZITlNGY2hScElIdk1EQUZEQ3hkV3dzemFidzIxRkQycDhBaGhrcFBqMEQ1UldTa21zSVJ5cVRKZm9kVnR5QVNQUXp3TUFZWmJvcEpJSlJ3ZTlQQlhtVnItRnExS2VYUTRSTVlCZ0pyT1ZrWi1XakZSd3N3N1UzVk1nb1BtX1czLURpbG9sTDd5a3JybjkxTEdXX0dQR3p3cGVZbU52bjhGMl9lcWdCcy1sZlE1LXplc0hB?oc=5",
@@ -454,6 +434,16 @@
       }
     },
     {
+      "id": "ba67aafa329b",
+      "title": "Alzheimer, risultati promettenti da una nuova terapia sperimentata al Mondino - Il Giorno",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvLTI2eUZTRUExVGw4TGJGb0t6WDcxMTNmcnRlTkNSNXloenc2TEkxTmxlWnp6dHd2M2lkZTlsWTNaYWpLQzZvbno0aUNVTEoxRzFCUlBvNllMVVZpWW40V29YbThXbVBrMVV6S0E0MlE?oc=5",
+      "published": "2026-04-18T10:42:52+00:00",
+      "source": {
+        "name": "Il Giorno",
+        "url": "https://www.ilgiorno.it"
+      }
+    },
+    {
       "id": "9fcb7caa7e74",
       "title": "Allarme farmaci: “Terzo shock in quattro anni” per il settore - Euroborsa",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pcXZvcnhLbDNuZ2pUMWdZQlNfOFpjWndpZmpWZ0k2dFl6WXZzZW55R0haN0VlSmdTeXBKYzVYaTF5VG1HSXZNOVc2YURDZHlocUZSZERiUmtTblRCV05kcU5xOHQ?oc=5",
@@ -461,16 +451,6 @@
       "source": {
         "name": "Euroborsa",
         "url": "https://euroborsa.it"
-      }
-    },
-    {
-      "id": "420cadf94d9c",
-      "title": "IL SOLE 24 ORE * SALUTE: «L'IA AL POSTO DEL MEDICO PRESCRIVE FARMACI E FA CONSULENZE: DALLO UTAH AL SALVADOR - agenziagiornalisticaopinione.it",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzN3cmNyVGxZdkM0ZkNDWXROeTRteFJLNDJEaThpd2NUZGtvdWtFWmthYXYwSUhrX19KSVlneE1fdXhrNnVvNVlkRlRoUXZ5UWdMckoyTjhnc09OMElSTGpDTVN6aElnaEppZWdWbUlJVHBuTW9ZdmN6cWNHY0lkekN6QkM1UmtRcHVYaUpaaWMyNm1wbmZWcXFqWkJrRGRTa0xOYjgxM2lzcTJ0UXA5QU9qa1dpM2g3YmJrMldUOHdLRmpWbDl3TDFfWFBVWjFGQ0RPMWR4cFd3a0wtclpNOFJtUXdiZnNDek5jampqcWFLTzBvUUltdQ?oc=5",
-      "published": "2026-04-18T05:00:43+00:00",
-      "source": {
-        "name": "agenziagiornalisticaopinione.it",
-        "url": "https://www.agenziagiornalisticaopinione.it"
       }
     },
     {
@@ -514,13 +494,13 @@
       }
     },
     {
-      "id": "73ef84215504",
-      "title": "Anapaca: I rischi di fronte ad un eccesso di farmaci - Il Torinese",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0hjVWtaaGF2b0hya0J6QlRaLVZCU3puZXZNVk82dDd0UzV6ZXdoNDNPU0tFWk1mT0NWVGVYNlh6ZV9tc0V4STFyX2tJZFUxVjhGRnMwenVWMHVRWDFGVWhLWXhKM2hRY2YweVdMSHpqd2ZkQUVydFFjM0tvd2Jnd2Vka0Vub2pJWkdUQUlB?oc=5",
-      "published": "2026-04-17T22:24:35+00:00",
+      "id": "420cadf94d9c",
+      "title": "IL SOLE 24 ORE * SALUTE: «L'IA AL POSTO DEL MEDICO PRESCRIVE FARMACI E FA CONSULENZE: DALLO UTAH AL SALVADOR - agenziagiornalisticaopinione.it",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzN3cmNyVGxZdkM0ZkNDWXROeTRteFJLNDJEaThpd2NUZGtvdWtFWmthYXYwSUhrX19KSVlneE1fdXhrNnVvNVlkRlRoUXZ5UWdMckoyTjhnc09OMElSTGpDTVN6aElnaEppZWdWbUlJVHBuTW9ZdmN6cWNHY0lkekN6QkM1UmtRcHVYaUpaaWMyNm1wbmZWcXFqWkJrRGRTa0xOYjgxM2lzcTJ0UXA5QU9qa1dpM2g3YmJrMldUOHdLRmpWbDl3TDFfWFBVWjFGQ0RPMWR4cFd3a0wtclpNOFJtUXdiZnNDek5jampqcWFLTzBvUUltdQ?oc=5",
+      "published": "2026-04-18T05:00:43+00:00",
       "source": {
-        "name": "Il Torinese",
-        "url": "https://iltorinese.it"
+        "name": "agenziagiornalisticaopinione.it",
+        "url": "https://www.agenziagiornalisticaopinione.it"
       }
     },
     {
@@ -534,16 +514,6 @@
       }
     },
     {
-      "id": "0637c91bdd07",
-      "title": "Miastenia gravis tra nuovi farmaci biologici e terapie personalizzate - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1UxX2pUVGVWWTBRWUV0R01CZkRPbGE2WTJ1QVhrU3lUOU5ld3dPcVBBUThJVG0wZ3h5MzFwSE9fSi11ZnNUamFldVZ3ZFJ5dG8zWWxyTVh3T2t5NjBJdHdXMXpqMzVnYm1oNWVXQmZrQzJ5cU9jUUg0QVk5a1VjakJBeHJ4ZVctZnBucWVMb2JEeU5ZUS1uSkhNcktSTTY0Tkd5OHAzSDBHT2FTcHlGaHFJTXpvbWpPb0VhQg?oc=5",
-      "published": "2026-04-15T14:49:47+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "801554c9ec56",
       "title": "Sanità: Venesia (Fimmg), 'bene farmaco presidio tecnologico a disposizione dei medici' - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDZtSTlGNm1lYW1yeWZ3YzZCV3RzdDU5UkFzMmlBc3NjRm9PSHNpMjYtZ0k3ODE4ekw1WjBjdmZiT01oejB2SkJwRWYzTDRfYWlWTUZxQzluaXlSWGY3ckY0VTRkbWxRYnItMUo5WExoMWw2Vmo5WXVoMGhXM1h1N0NQVDdOTDBjTHZiRWdGRl95TUxfQ0hLaUVZWEoycXl2cmYzLTVjNDdLaDdIS2kwQW9wc1N2MXY1dUFBUVA0WnVXOTZzUGtTb2pqMnhSSFlESFE?oc=5",
@@ -551,6 +521,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "0637c91bdd07",
+      "title": "Miastenia gravis tra nuovi farmaci biologici e terapie personalizzate - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1UxX2pUVGVWWTBRWUV0R01CZkRPbGE2WTJ1QVhrU3lUOU5ld3dPcVBBUThJVG0wZ3h5MzFwSE9fSi11ZnNUamFldVZ3ZFJ5dG8zWWxyTVh3T2t5NjBJdHdXMXpqMzVnYm1oNWVXQmZrQzJ5cU9jUUg0QVk5a1VjakJBeHJ4ZVctZnBucWVMb2JEeU5ZUS1uSkhNcktSTTY0Tkd5OHAzSDBHT2FTcHlGaHFJTXpvbWpPb0VhQg?oc=5",
+      "published": "2026-04-15T14:49:47+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -574,13 +554,13 @@
       }
     },
     {
-      "id": "a30d4cc4a769",
-      "title": "Alfasigma, l’ultima mossa e gli obiettivi dell’operazione Sofar - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2doZzl0Mkp6Uld6cTdXRndsWTFvMHE2QkVtQXliLWRNVWpsa2JsTDQ4S2JzWm55ZV9FbkktSWZBN1IyRXRFbWxST0RHc2tqNHJDaGNIanpmak1HbzBONmZlRnEyWWNCRjVQejJqWGVCaFBBSHh3X1hPWWJ0YnItbWg1bzAxbjI3YzhmbXJ2WlU4My16bVl4TmxZWWlVMXl4ZEk5djdkSlQ0Qi1lSDBrMA?oc=5",
-      "published": "2026-04-17T15:57:54+00:00",
+      "id": "73ef84215504",
+      "title": "Anapaca: I rischi di fronte ad un eccesso di farmaci - Il Torinese",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0hjVWtaaGF2b0hya0J6QlRaLVZCU3puZXZNVk82dDd0UzV6ZXdoNDNPU0tFWk1mT0NWVGVYNlh6ZV9tc0V4STFyX2tJZFUxVjhGRnMwenVWMHVRWDFGVWhLWXhKM2hRY2YweVdMSHpqd2ZkQUVydFFjM0tvd2Jnd2Vka0Vub2pJWkdUQUlB?oc=5",
+      "published": "2026-04-17T22:24:35+00:00",
       "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
+        "name": "Il Torinese",
+        "url": "https://iltorinese.it"
       }
     },
     {
@@ -601,6 +581,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "a30d4cc4a769",
+      "title": "Alfasigma, l’ultima mossa e gli obiettivi dell’operazione Sofar - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2doZzl0Mkp6Uld6cTdXRndsWTFvMHE2QkVtQXliLWRNVWpsa2JsTDQ4S2JzWm55ZV9FbkktSWZBN1IyRXRFbWxST0RHc2tqNHJDaGNIanpmak1HbzBONmZlRnEyWWNCRjVQejJqWGVCaFBBSHh3X1hPWWJ0YnItbWg1bzAxbjI3YzhmbXJ2WlU4My16bVl4TmxZWWlVMXl4ZEk5djdkSlQ0Qi1lSDBrMA?oc=5",
+      "published": "2026-04-17T15:57:54+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -651,16 +641,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "2a093b2f2ff7",
-      "title": "Sanità, ok all'acquisto rapido dei farmaci salvavita. Ternullo (FI): \"Sconfitto ostacolo della burocrazia\" - Siracusa Press",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVVieUU4amZwYVo5ZkxUclo0b3RhdS01dENhc19Mb08zZFJBY1dfMmpDc0ttSWxUZUtxNHBhZXZzbDk1eExVeFk4Yl9NTllvS3RHd2Y4WmNUdGs3UnFkQjFjZVdsTlZFQ1BweXIwTXZxYWh4dHExWldMOWtad0xkenZicGduZHpjQXQySjhTYV91bE50am1hQV9QMnppdVYzOFAtTWZadDd3UmdkS2EwRGd3TUlFV2Rvd2NIZnpPYUx2alBxMlhWRUxkbjhqUDg?oc=5",
-      "published": "2026-04-17T17:14:05+00:00",
-      "source": {
-        "name": "Siracusa Press",
-        "url": "https://siracusapress.it"
       }
     },
     {
@@ -724,6 +704,16 @@
       }
     },
     {
+      "id": "2a093b2f2ff7",
+      "title": "Sanità, ok all'acquisto rapido dei farmaci salvavita. Ternullo (FI): \"Sconfitto ostacolo della burocrazia\" - Siracusa Press",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVVieUU4amZwYVo5ZkxUclo0b3RhdS01dENhc19Mb08zZFJBY1dfMmpDc0ttSWxUZUtxNHBhZXZzbDk1eExVeFk4Yl9NTllvS3RHd2Y4WmNUdGs3UnFkQjFjZVdsTlZFQ1BweXIwTXZxYWh4dHExWldMOWtad0xkenZicGduZHpjQXQySjhTYV91bE50am1hQV9QMnppdVYzOFAtTWZadDd3UmdkS2EwRGd3TUlFV2Rvd2NIZnpPYUx2alBxMlhWRUxkbjhqUDg?oc=5",
+      "published": "2026-04-17T17:14:05+00:00",
+      "source": {
+        "name": "Siracusa Press",
+        "url": "https://siracusapress.it"
+      }
+    },
+    {
       "id": "a7aa7ffa8e20",
       "title": "Dall'Agenzia europea del farmaco ok a primo vaccino veterinario a Rna - Alto Adige",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObk9aNTlfdFdnMzROV2h5YnRnUlhGVUgybkNacXI1Y0lLTVpSOW42XzVnN2NmU290aGZERlA4YU9UMWlBSGxGdV91bm51b3VTQjhoZkxIR0RQUUlHLWhJY3Z6T2tlZ2U3WFFfaVlFYWYxX1FtMC14dHNPRnFRc3JjRzFrckJIa2JsZGpiTUEtSEpCNWZSVGFsT2ZOMk5nWWRqMFVSejRQdnhWY09QN0hpamEyNmJzVVdaNHBLLU9ubDk?oc=5",
@@ -764,6 +754,26 @@
       }
     },
     {
+      "id": "9f98a1f64a2f",
+      "title": "Farmaci, enlicitide: risultati positivi in riduzione significativa di C-Ldl a 8 settimane - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2NWNFNEZ09zNEZuREtzZk1ZUGozd3NFVWEtZTNQcnFuZ2Vzek45dGJDWTh1TkpYTW9uVm9oUkJFVDdrcWFINkZISzN3QWtOOFRFWWNnUmh1QzhOdDlQVjFOZGNRZ3l1alBKLU15UHpvR2NVbE12QVpwN0IteWJ5b3lWQjJ3czY0LUpNVGtSaGY0RS1nR2huUjNtcGIzM3ZreU1UWVhjckxic3JGZ3ZHb0FVZ1BTcm5keGlCbXM4RUR5eTFPRFl5bkxZVHVkUmNHQjhmNmZhNVBEUms?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "cb9483f89972",
+      "title": "Gadda: \"Estendere legge antispreco a farmaci salute mentale\" - VareseNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2h4SlRTTTh6cTVPSEtXbzhlZURSd1ZHck9DdHBZRGlnUkR6VmRuNzNMMnZUbGIwOEJfeERSakpYY0NodjJlMTV5T2RybG1hUGIxMkZ6eUtJNTZWRmxJLWUySEh3SjNYUzV2SEY3d2FZb0didWlZaEktd2YzeTNaSmRRMXVqU2g5MTljUlhDMTR2VVZZTW1nSl92M2hsaV9vUHc?oc=5",
+      "published": "2026-04-04T12:42:59+00:00",
+      "source": {
+        "name": "VareseNews",
+        "url": "https://www.varesenews.it"
+      }
+    },
+    {
       "id": "a0e4d77a621e",
       "title": "Tumore al pancreas, il farmaco sperimentale che raddoppia la sopravvivenza dei malati: cos'è e come funziona - L'Unione Sarda.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm1VdlhzVzJhWkJYdkxTZHZmaW5uTE1fLVRYZmR5ajhLSXRyMDhNZXpUd1dhbmRrMmdqWTMtUktrcnVvWXp4ZFZoNnV3dGlXZm9DZ29YV2x5YnQ2S0phdUVwLURqQVZralNZa3NUcmFFTl9SdGJWQzBfU3NJcXF6Z0JhUU9wRzdIVkpRdG00X0t2V2VlWFhOOW1iUXBKUHdTdjVUNUhPazYtVE1vcmNGb1JBcHZyQkVVYmxhTGJjbl85RU4yNWfSAc4BQVVfeXFMUEpyckRGX2dfUG9OVzhfTXM3bnBHb1RoSVhrU2s4LXoyU1RfQmt4bGpaX1VBdnFfWVhjNGtPczlVZ3pudG53cU01Vnc1SzI5aTJSd2lqUC1mcTh6YlR1Y3FLV0lGOG1iQWVVTjdLN3lkQWx6NGVUbUFZQWdPVER3Zmhad3VwalR0TmdoSWNJRkJkTWxtSE03Q2dVaDJ0Rlk4Zlg0b2FRSGdCSlRpOHhMc2twWUZkLUhWWEx2cUN1dzZHTGZwZVBKay1TVHB1Ync?oc=5",
@@ -771,16 +781,6 @@
       "source": {
         "name": "L'Unione Sarda.it",
         "url": "https://www.unionesarda.it"
-      }
-    },
-    {
-      "id": "acb2b02dfa31",
-      "title": "Farmaci sotto tensione: l’impatto dei possibili dazi USA sui farmaci UE e le ripercussioni sanitarie globali - SISMED - Società Italiana Scienze Mediche",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjJ5NEJUYzJuREgzWkFGZ0R5RURLMFo4cDdLRkkzV2ZlWFZjNmsySFZJN0hmb2ZyYm5ZblVueWlWZFFzcXc4NmtuaV93Wl9COTd4ODBLNC1Lekg5S1BQd0dhZHRNQkxqcnBjWER2Yi1WRG1OV0pjUlFHcFJoaURJY2FIanU4cUtjb2Jta0l2NmN6eUg5WGpJ0gGXAUFVX3lxTE9KMnk0QlRjMm5ESDNaQUZnRHlFREswWjhwN0tGSTNXZmVYVmM2azJIVkk3SGZvZnJiblluVW55aVZkUXNxdzg2a25pX3daX0I5N3g4MEs0LUt6SDlLUFB3R2FkdE1CTGpycGNYRHZiLVZEbU5XSmNSUUdwUmhpREljYUhqdThxS2NvYm1rSXY2Y3p5SDlYakk?oc=5",
-      "published": "2026-04-08T23:30:14+00:00",
-      "source": {
-        "name": "SISMED - Società Italiana Scienze Mediche",
-        "url": "https://www.sismed-it.com"
       }
     },
     {
@@ -904,16 +904,6 @@
       }
     },
     {
-      "id": "0600e4d9af1d",
-      "title": "Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
-      "published": "2026-03-03T08:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "e99344182946",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -924,6 +914,16 @@
       }
     },
     {
+      "id": "18a497ee59bf",
+      "title": "“In un giorno 27 medicine, la salute di troppi anziani è a rischio”: allarme sulle prescrizioni - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRHS0dPS1JJQ2d3V3hIcHJzeHExX0xZNkxNdEFRZU1na3doY2RsU2xSUDk0SXBGVDV1MUZ6UWlEejhIMnBLSWtaSms1ZDdweXZTaVp2YzFWYzhEVHlOTzJoMHhxa2NiSGg4V2RZOHFEeEZHRHdGYkNRTFFhNWJnaXVDbE1ha1dMYlliTzI1VGVJMkxPMTJhZtIBngFBVV95cUxQTkFSWFNkanpNbU9wWmY1TjFPS00yNW8zVDgzX2R2TjFBV1JBbW1Cd0pBQzB4WkhNYzFuNlhKS3VEbGh3LWhETVNXZkc1dW9MYk05dDlzcW50VHpseHV1Tk9MZ2VNQkEyV3l6UnhOQTFMQTBiV2FjVU1pN19DZVJqcWJ5em03TU9QeXlLWTc4VlpEcmpoVGZxQkRsZHg4Zw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
+      }
+    },
+    {
       "id": "916bb1627c86",
       "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - Pharmastar",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
@@ -931,6 +931,16 @@
       "source": {
         "name": "Pharmastar",
         "url": "https://www.pharmastar.it"
+      }
+    },
+    {
+      "id": "0600e4d9af1d",
+      "title": "Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
+      "published": "2026-03-03T08:00:00+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -964,6 +974,16 @@
       }
     },
     {
+      "id": "3a86c55177d0",
+      "title": "Salute in movimento: farmaco senza pillole - Altalex",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3ltblE3elliajZXYndMc1ItVUg3djVFNlRIZmdGYmxaZmxpWHVNUW10U1JPMk4zajZIczA0RFM4NWZhT2hGM1ItTUVuVXREajZ0eHNnRmJnRXpnX2VaUUl3UXJtZkpVMFlobldNajN4YWlLWGlDYXV1cE1kSXRScGE0ZzdtZnVhUjBQWnQwQ1AzYnVXWUE?oc=5",
+      "published": "2026-03-14T07:00:00+00:00",
+      "source": {
+        "name": "Altalex",
+        "url": "https://www.altalex.com"
+      }
+    },
+    {
       "id": "b9c6b596c4a4",
       "title": "Farmaci: Ema, non usare codeina per tosse e raffreddore bimbi - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1kbmwzaS1VeHpDaXBTbWlnemVTcnRrZVk2ZUVKM3A1TFNKaHpBVV92V2R5a05QWWktekJwQ2NTTC01SWNMTTdFbzhOZzdUS2M2Rlh0RXhUMTIwUWZsbHJJXzQ0YnRnNkRuX0FDanFEaEN2TVdCLUhGX3dZTDZTWmxsTzR6dUlHQnJ6OGdvNm12ZzNTelBxWW96bw?oc=5",
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
-      "id": "f894171ade25",
-      "title": "Variazioni con procedura nazionale - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUtuMjVNbzBZcFdOaTEyLWh3ckdtZVhMeU4xbEdfTVBibGQ5M1VxSnJHU2xJakR2R0VPYldTTW1FR1BoT2t0Q1RyV1IxT25KVkV4cmdSaE44eFc3NkhReHZVRjRXZVFLTGdjZVViTGFtVHA3TFl5ZGhaVWpNbGRha2lpSF94eWtpYmhDbmRpSmUxWkhDUmprUHBJemQyWmxEVGhGamhZQzJhSlYx?oc=5",
-      "published": "2025-12-02T10:14:34+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "80609f3c8e87",
-      "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
-      "published": "2025-12-23T08:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     }
   ]
