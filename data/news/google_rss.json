@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-19T22:24:46.069904+00:00",
+  "fetched_at": "2026-04-19T23:26:57.408415+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -194,16 +194,6 @@
       }
     },
     {
-      "id": "28e47f8f456b",
-      "title": "Maxi furti di farmaci salvavita. Colpiti ospedale e deposito Ausl. Sgominata la banda: 9 indagati - Il Resto del Carlino",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjdoU2Y4Ym56c3lTWGtVYWluX2JYd3dmSXRqOGZob3dYMXoxcjZSelcxWEk4MFVIUTVmbWM5SDdQZjVaaXVyVkt1TldxNVU0ZFlnTG1VaVY2SFFiNnpQWUJlNGNCWm9DUjZ6Z2dYbzRvcjRFd2V2bUFacFRUWERVRENDOXV5dWczMWpVVGl1NjJ6blBUTHVKMlhXOA?oc=5",
-      "published": "2026-04-19T04:55:55+00:00",
-      "source": {
-        "name": "Il Resto del Carlino",
-        "url": "https://www.ilrestodelcarlino.it"
-      }
-    },
-    {
       "id": "fe156886264d",
       "title": "Distrofia di Duchenne: approvato il farmaco italiano che \"compra tempo\" - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KVVJ4cG9JZ2dHaU01RGZVS2s0aDhoNTZQWmZibVRkVXM2QmtPZ0h0bHhXeE81RFlLTXkzWG41S19tUU0yQXp5cm9R?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
+      }
+    },
+    {
+      "id": "354f1832b282",
+      "title": "Il colosso farmaceutico svizzero Roche può rivoluzionare il mercato dei farmaci contro l’obesità? - TVS tvsvizzera.it",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb2hPZTd0VW9MZGZhSjlPS211Smd4TnJUWDQyQW5SOU1MY1JaWEZVVXlHS2tqNzh5NUxsUWV2NVJ2d3FlWmpUNEJIVkt0cXA2QVJRX1NuTHNFSDVycEI4c0ZSOHZCVmRhb2hpcHVuUlBZRHZIZlU5U3Vuelp5dUlIbXVrUExIUUI2V2JOc0xUd0dLQVRqWEhYTFhMMldRVmJJcF9HSGRmQkxqejZiRmpkT3dRbjF1cmxUcHRhYmpzcVVLb0kxaTltdDdtYWVWMHBGajZMMXp0Z2g1bEh3blRqcDJzb0h5M0lORXc?oc=5",
+      "published": "2026-04-17T07:13:08+00:00",
+      "source": {
+        "name": "TVS tvsvizzera.it",
+        "url": "https://www.tvsvizzera.it"
       }
     },
     {
@@ -244,13 +244,13 @@
       }
     },
     {
-      "id": "354f1832b282",
-      "title": "Il colosso farmaceutico svizzero Roche può rivoluzionare il mercato dei farmaci contro l’obesità? - TVS tvsvizzera.it",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb2hPZTd0VW9MZGZhSjlPS211Smd4TnJUWDQyQW5SOU1MY1JaWEZVVXlHS2tqNzh5NUxsUWV2NVJ2d3FlWmpUNEJIVkt0cXA2QVJRX1NuTHNFSDVycEI4c0ZSOHZCVmRhb2hpcHVuUlBZRHZIZlU5U3Vuelp5dUlIbXVrUExIUUI2V2JOc0xUd0dLQVRqWEhYTFhMMldRVmJJcF9HSGRmQkxqejZiRmpkT3dRbjF1cmxUcHRhYmpzcVVLb0kxaTltdDdtYWVWMHBGajZMMXp0Z2g1bEh3blRqcDJzb0h5M0lORXc?oc=5",
-      "published": "2026-04-17T07:13:08+00:00",
+      "id": "28e47f8f456b",
+      "title": "Maxi furti di farmaci salvavita. Colpiti ospedale e deposito Ausl. Sgominata la banda: 9 indagati - Il Resto del Carlino",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjdoU2Y4Ym56c3lTWGtVYWluX2JYd3dmSXRqOGZob3dYMXoxcjZSelcxWEk4MFVIUTVmbWM5SDdQZjVaaXVyVkt1TldxNVU0ZFlnTG1VaVY2SFFiNnpQWUJlNGNCWm9DUjZ6Z2dYbzRvcjRFd2V2bUFacFRUWERVRENDOXV5dWczMWpVVGl1NjJ6blBUTHVKMlhXOA?oc=5",
+      "published": "2026-04-19T04:55:55+00:00",
       "source": {
-        "name": "TVS tvsvizzera.it",
-        "url": "https://www.tvsvizzera.it"
+        "name": "Il Resto del Carlino",
+        "url": "https://www.ilrestodelcarlino.it"
       }
     },
     {
@@ -281,6 +281,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "d4878aa674ac",
+      "title": "Egualia: \"Supportare equivalenti e biosimilari per accesso equo e sostenibile ai farmaci\" - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFVoc3p5Uk5mR0ttWXlkenk1X3VUbXYydy01LWpaNmVWMTJCVjdqS2RSNmJseXZLRnBUQ21fWkY2OEVMMmJTUWxJQ1V5NXBWZjNkdDg1ZTNWNDVOWGdyN185Q2NGeTh5eEt0Nm9uWnZ2ZVU5XzByQllYcEhUd0ZYMTRYT3UzNUpWcFBYNFBGbUUweGZNa21wUHBfazBHMUJ4RFJqRnMxbXRvZVp3bjBjTmZPU1ZOOGxHUWtKTA?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -404,16 +414,6 @@
       }
     },
     {
-      "id": "a5f5e29b4a8b",
-      "title": "Alitosi, farmaci tra le possibili cause. Approccio mirato all’origine del disturbo - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeXJVUlNaZlVYTl9ReVgwYjFFdHF6VnpoTm9hR3RwaldZOWt3ZkJxM2dFTExmaXc4c2oyLW4zeGhBdmc4T0lqeEdyc2lQY1NrYU5uUlB3eDFpNzNQNjlVTmdXY1ZNR3VNTjA5a0dsdkJGVHhpNUFLdWdwX01aN3g3UGFVY3U5ZEtjMWNGaHNGQU00US00MUpDekVuZnRGME9pWEZTeTBIVVRQcGxfUHN2bG1Ed0lRNV9SN2FnOEpraS1ta0h0dDdhUg?oc=5",
-      "published": "2026-04-15T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "ac9e30f73fcf",
       "title": "Guerra in Iran e carenza farmaci, allarme di Farmidustria: cosa rischia l’Italia e il made in Italy - Partitaiva.it",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UWGE4dWtqUlFNNUZhODJlTms3cE81dy1HT1lweDE1Y2NNTllGZUMwLTlyZFAwRXNycjA0Y3JTR1hScnprUHltcDVXYk0zcGVCQTlxVmtyMWUtQUpnX21CRFozdw?oc=5",
@@ -421,6 +421,16 @@
       "source": {
         "name": "Partitaiva.it",
         "url": "https://www.partitaiva.it"
+      }
+    },
+    {
+      "id": "a5f5e29b4a8b",
+      "title": "Alitosi, farmaci tra le possibili cause. Approccio mirato all’origine del disturbo - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeXJVUlNaZlVYTl9ReVgwYjFFdHF6VnpoTm9hR3RwaldZOWt3ZkJxM2dFTExmaXc4c2oyLW4zeGhBdmc4T0lqeEdyc2lQY1NrYU5uUlB3eDFpNzNQNjlVTmdXY1ZNR3VNTjA5a0dsdkJGVHhpNUFLdWdwX01aN3g3UGFVY3U5ZEtjMWNGaHNGQU00US00MUpDekVuZnRGME9pWEZTeTBIVVRQcGxfUHN2bG1Ed0lRNV9SN2FnOEpraS1ta0h0dDdhUg?oc=5",
+      "published": "2026-04-15T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -444,16 +454,6 @@
       }
     },
     {
-      "id": "8f447d72fd54",
-      "title": "Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2lKaHpycTl1QXRGM2NQcjVtRFJyY0hnaXQ1cElDM29qelI4Y3BXQ3JlZ1FrS3pGclphblFBNlFrM25Mbllqc0JacEgyVmNBdDJfTkhPT3U0eW85RUNuQlotSUNIOE5fanFHaHVQN3ZEQUtvdmVKY0FPc0VxeU9Ycmo5U1FDUQ?oc=5",
-      "published": "2026-04-14T15:16:06+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "21decdfaad50",
       "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZS1nU0VJUjFUa29SUEN5enVtS2ZlQlRVa0VpOXlhRGp3a19DZTBVNzJWWG9OM3ZwNFJaODBWcXRoVEdxQjlzTDJvUC1IMTVmeXZveFZ5YzFnNW16NTd6RXNJLThLa3hxeVZ1cXJvNWxfMldyZG5xS3BoeEV0SzFzbjhlbGdsY2tOMnNNc1JtSlNEQ3E4dThQNVVDWm5oYlVybHZjaFFxM0NxY1N3UUo0?oc=5",
@@ -461,6 +461,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "8f447d72fd54",
+      "title": "Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2lKaHpycTl1QXRGM2NQcjVtRFJyY0hnaXQ1cElDM29qelI4Y3BXQ3JlZ1FrS3pGclphblFBNlFrM25Mbllqc0JacEgyVmNBdDJfTkhPT3U0eW85RUNuQlotSUNIOE5fanFHaHVQN3ZEQUtvdmVKY0FPc0VxeU9Ycmo5U1FDUQ?oc=5",
+      "published": "2026-04-14T15:16:06+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -854,16 +864,6 @@
       }
     },
     {
-      "id": "36cd313ae8eb",
-      "title": "Intelligenza artificiale. Salute mentale e IA generativa: tre priorità dell’Oms per ridurre i rischi e tutelare gli utenti - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbGdvREpBY2lBbHRrWmE5OHg2YmdSdF9Ta2U3QUd4V3A2eXZmdkx5LWRXMnUzQTJISUdTS01Ld3NUc2pVNmMybUNSRU5XdkJwc2tCRkdqQjM0ZS12RnNvQW9MZTBJbmczYzZ0OEtpcUtUT2dzekwxbmZsN1Y3QUMyeXlqMHUxeng3TGEwS1VRY2syeS1HYU1tZExVVmpTTm10ZHNsTEFiaF8yNk95clVwTlpUUFVVS1hmMVVCTmctbmFST21nb01FQmJvc2lySFJmdTNaUG1rZF9TM0JSY3RTN21KbFhsazRSc2Vod3BmU3F4STFwNEwzekd3elhIRFk?oc=5",
-      "published": "2026-03-23T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "f82740cc2117",
       "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
@@ -871,6 +871,16 @@
       "source": {
         "name": "Il Farmacista Online",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "36cd313ae8eb",
+      "title": "Intelligenza artificiale. Salute mentale e IA generativa: tre priorità dell’Oms per ridurre i rischi e tutelare gli utenti - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbGdvREpBY2lBbHRrWmE5OHg2YmdSdF9Ta2U3QUd4V3A2eXZmdkx5LWRXMnUzQTJISUdTS01Ld3NUc2pVNmMybUNSRU5XdkJwc2tCRkdqQjM0ZS12RnNvQW9MZTBJbmczYzZ0OEtpcUtUT2dzekwxbmZsN1Y3QUMyeXlqMHUxeng3TGEwS1VRY2syeS1HYU1tZExVVmpTTm10ZHNsTEFiaF8yNk95clVwTlpUUFVVS1hmMVVCTmctbmFST21nb01FQmJvc2lySFJmdTNaUG1rZF9TM0JSY3RTN21KbFhsazRSc2Vod3BmU3F4STFwNEwzekd3elhIRFk?oc=5",
+      "published": "2026-03-23T07:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
-      }
-    },
-    {
-      "id": "de3872cc99b9",
-      "title": "Camerae Sanitatis. La manifattura della salute italiana tra sfide, resilienza e opportunità - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJtSVhBcFphTldTTHBnRS1HRFV0R3p1dHNzMUY0Q09LTXBVa3RpaFJxWGhCa21PRjNuSEUtZ1FJcnpOd3FGZ05VQ1NYSVJwYThXT3Z1alFqakFPazhKeWFUUHl3SmJBTHRPN0ItTU5uNDNzZTF5VWxaSXZXbnRwMkVnQVhhcEpEanpEdGo2c2hwOEhFZEZWZ3lUWnRHQ3N1QUFSMUVNU2FWSVprcGxSalRQZm1PUTRNcXRfZnNXMUsyLUdxbmUtUEw2VThqRXphLXNxUkZn?oc=5",
-      "published": "2025-12-12T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     }
   ]
