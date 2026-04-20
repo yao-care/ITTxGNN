@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T22:33:58.219932+00:00",
+  "fetched_at": "2026-04-20T23:34:17.833341+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,16 +11,6 @@
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
-      "id": "19eed30a3590",
-      "title": "Le donne hanno più problemi di salute ma sono più attente all'uso di farmaci - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTWhIaGZDd2RJb3VDbmRRNzFZTWYtTXpsVWhkVWFqeUJkcHdlVjZTZThfYTM2N2I3Qy1URURxY3hzLWZ0Y19qRkZoRGJmeVRVNUNuaVNEcmRLbXY5YTZZallSbWdsbU1wMkFqOE5pWkktaWtWR1Fhb0hLNmNmYXVsZkktS0Rjci1PVFFMd0drM3FxNnNZbnpEcERIZzk2dzBVRWZrNm4xZ1NiVzJVU2pUWW1tYWpKTi0xM1dIdWRfN3BBMEtmR200MThwVmFnOGd2aFVSQXY0c3FwemZOYlUtMWV4UVAtdmh1MndsM0ViZTJUU1Q4WHFoV0hFUHE1OGhLV0syZTNHa0JzYTA1ZHRCejZIVW5USE9nUWk2ekphMNIBpAJBVV95cUxNck1pZFRKWFpHVjA1ZWRWLUJXR3RZa0xhX1BNdzZ4ZHJ4WWRaUjM1Rm02emk1UnZKaFRaZVg0UFMyZ0E0eXNlVzZSRFlSSGZNbW5xX2FwOV9xa1VYTjNfUWgtU1pvZHNGMHk0V3pjc2huZ0ZONUpya3JJY1Q2U1I4bEg1bndNOVVPOG9JdjBQVjJOaEZSUUZlWDdfMDRxU3JnWG1aN1BnLXYzNndvUHoxVTFhT1JDSV9hbmVQSURvNzF0M1Fzd21PNk1selFqalpZUThfaHNuWnVmN1MtZGZRQUI5WEVHUmNCOHl5Qjl3dHEyUklOUTE0Z1F6Wm9GQjFtX0dkSDRrbFZ1WHU5Ti1xR2tpWDlYRndScndoRU9kalh4RkJj?oc=5",
-      "published": "2026-04-20T18:35:14+00:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
       }
     },
     {
@@ -41,6 +31,16 @@
       "source": {
         "name": "IlPiacenza",
         "url": "https://www.ilpiacenza.it"
+      }
+    },
+    {
+      "id": "19eed30a3590",
+      "title": "Le donne hanno più problemi di salute ma sono più attente all'uso di farmaci - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTWhIaGZDd2RJb3VDbmRRNzFZTWYtTXpsVWhkVWFqeUJkcHdlVjZTZThfYTM2N2I3Qy1URURxY3hzLWZ0Y19qRkZoRGJmeVRVNUNuaVNEcmRLbXY5YTZZallSbWdsbU1wMkFqOE5pWkktaWtWR1Fhb0hLNmNmYXVsZkktS0Rjci1PVFFMd0drM3FxNnNZbnpEcERIZzk2dzBVRWZrNm4xZ1NiVzJVU2pUWW1tYWpKTi0xM1dIdWRfN3BBMEtmR200MThwVmFnOGd2aFVSQXY0c3FwemZOYlUtMWV4UVAtdmh1MndsM0ViZTJUU1Q4WHFoV0hFUHE1OGhLV0syZTNHa0JzYTA1ZHRCejZIVW5USE9nUWk2ekphMNIBpAJBVV95cUxNck1pZFRKWFpHVjA1ZWRWLUJXR3RZa0xhX1BNdzZ4ZHJ4WWRaUjM1Rm02emk1UnZKaFRaZVg0UFMyZ0E0eXNlVzZSRFlSSGZNbW5xX2FwOV9xa1VYTjNfUWgtU1pvZHNGMHk0V3pjc2huZ0ZONUpya3JJY1Q2U1I4bEg1bndNOVVPOG9JdjBQVjJOaEZSUUZlWDdfMDRxU3JnWG1aN1BnLXYzNndvUHoxVTFhT1JDSV9hbmVQSURvNzF0M1Fzd21PNk1selFqalpZUThfaHNuWnVmN1MtZGZRQUI5WEVHUmNCOHl5Qjl3dHEyUklOUTE0Z1F6Wm9GQjFtX0dkSDRrbFZ1WHU5Ti1xR2tpWDlYRndScndoRU9kalh4RkJj?oc=5",
+      "published": "2026-04-20T18:35:14+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
       }
     },
     {
@@ -144,6 +144,16 @@
       }
     },
     {
+      "id": "5a735aea30fa",
+      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
+      "published": "2026-04-15T07:52:29+00:00",
+      "source": {
+        "name": "Univrmagazine",
+        "url": "https://univrmagazine.it"
+      }
+    },
+    {
       "id": "2eb895946130",
       "title": "BENU Farmacia: performance superiore al mercato - Mark Up",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PZVB3WHdYVTZLOER1UGk2Qng4U0tMM3RHSWFINGo1eXd5NXg3bF9ybk1pWU1NV18zc2VXdmtuYkg1QXNMbFAtTDQwSGlkZFg1eFFtR0ZqVlAybDJNY0dZYVFoRkFDcnRDOXo0djJqV3ZtRWRJQ2FzWURB?oc=5",
@@ -154,13 +164,13 @@
       }
     },
     {
-      "id": "5a735aea30fa",
-      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
-      "published": "2026-04-15T07:52:29+00:00",
+      "id": "6714d53f1e04",
+      "title": "Salute, donne più competenti degli uomini nel gestirla: usano meglio il fai da te e l’Intelligenza artificiale - il Fatto Nisseno",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2hUMmpWZlBKblpJMVhuSFlBdXlHT01XLXNVRVYwekIyODNWTnoxd0dRcDNWTl9mSzY1UjJMamhnLV81TW9GUmdtWVplc1VLMVlmaUliOWhmQ0xoYTh1aTctaGY4SzB5NmliTHA2Q0NCU3FRWm5XeDFyNEZqSUNWS0FqRHhWc3ZzZkJXZnZ1a2JDRnE4dXZBTE1XLVUtZFZjc3JybVFKanNFZWxIRlhmQmNEeGRVSENWMEhuT1puc2VnVTEySTZZMkVBcEliS0FxOVc3ODRsLWl2Q0hOd2xz?oc=5",
+      "published": "2026-04-20T22:25:00+00:00",
       "source": {
-        "name": "Univrmagazine",
-        "url": "https://univrmagazine.it"
+        "name": "il Fatto Nisseno",
+        "url": "https://www.ilfattonisseno.it"
       }
     },
     {
@@ -181,16 +191,6 @@
       "source": {
         "name": "AboutPharma",
         "url": "https://www.aboutpharma.com"
-      }
-    },
-    {
-      "id": "94172abef9a3",
-      "title": "Farmaci: Aifa, medicina di precisione per ridurre politerapia - Ore12",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFVpcFp2Q3FKbmVadWJ6Y1NEWUZ0UHBxMzNrdmNYYTZ4MTh6LTF0TDIwQWlvSTV0bkNieWNGS2dqa3hqYVZEOXlyRVhMb0hmQ0czVW4waGJSNlljYnQ5V2V0THh6N19oQzBwQ09ZWEd4WHBzalhKU0l2ZkFHTTRJUzNrUlktVE9VTHc?oc=5",
-      "published": "2026-04-20T11:04:10+00:00",
-      "source": {
-        "name": "Ore12",
-        "url": "https://www.ore12.net"
       }
     },
     {
@@ -224,6 +224,16 @@
       }
     },
     {
+      "id": "94172abef9a3",
+      "title": "Farmaci: Aifa, medicina di precisione per ridurre politerapia - Ore12",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFVpcFp2Q3FKbmVadWJ6Y1NEWUZ0UHBxMzNrdmNYYTZ4MTh6LTF0TDIwQWlvSTV0bkNieWNGS2dqa3hqYVZEOXlyRVhMb0hmQ0czVW4waGJSNlljYnQ5V2V0THh6N19oQzBwQ09ZWEd4WHBzalhKU0l2ZkFHTTRJUzNrUlktVE9VTHc?oc=5",
+      "published": "2026-04-20T11:04:10+00:00",
+      "source": {
+        "name": "Ore12",
+        "url": "https://www.ore12.net"
+      }
+    },
+    {
       "id": "425512a0edb4",
       "title": "Farmacia Ligure di Sestri Levante: attenzione agli antibiotici per animali domestici - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yYy1uaVlxZkJ5N05qYmhFQ0NhbGtfUXg0N0wwYnhOdThRZ3M3cmhUbThoUjR4NlhYeU9Da1NPS3I4eWplV2U1VXFR?oc=5",
@@ -241,26 +251,6 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
-      "id": "2c12e123a4eb",
-      "title": "Fibrosi cistica, Aifa estende gratuità modulatori gene Cftr - Tiscali Notizie",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGQ0bWdlaUFtbjRNN1JwbllfUWoxVHgzQnNicWhESEprR1ktNWhLSWZpb2drekFHeXlSNlpDNE5pZ1ozdDFackpfOEs2STY1dVZMcGV6ZU5ZY214dmFGYjl5Z1kzdV8yRWRqbl9UYWFQakFYazFpNXdrdUZ3dmNfZGR2OE41UHJkNVM4VzFpWGU2ZXdLbXhFYlp6MXNpMnZfZGYxdWg2dzkyS0dK?oc=5",
-      "published": "2026-04-20T11:04:00+00:00",
-      "source": {
-        "name": "Tiscali Notizie",
-        "url": "https://notizie.tiscali.it"
-      }
-    },
-    {
-      "id": "9bf70e50242e",
-      "title": "Usa, Fda chiede nuovi dati di sicurezza su pillola anti obesità - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFV2RGpBaGFiY3RxUGh4VFVIYldLRXU5R2RzUzJfWmp6bjVyZHpzNm9GWk94MWVHa05NRG5KaGJJTVdiUFN4ZzEtRVo4dnZiSlRSenIwZTQ2MnMyVVVxdnJzM2FDcnNyTndGQk1aNWlSNFRMS2FCOXY3azJ4Q1BVUy1hRTFaZUktOGExc3ZwS3dBLWZ0MHh4c2ZWekVZX2VlY2ZyOUNWamctcDM2NUJjb3FvelBJR2xaRlI2Vzl5TnF4Wi1CNHhWNA?oc=5",
-      "published": "2026-04-20T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -284,13 +274,13 @@
       }
     },
     {
-      "id": "04c79cf618a0",
-      "title": "Epilessia resistente ai farmaci, a Palermo impiantato uno stimolatore epicranico - 98zero",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTljZzk0UXBPNFVlVDNPbWhvM2JKUWNQNU9XRG95MWhKME5jWVJEaUdMakhYYU0tYlVQN1ZWcmtPdTJRbnl0d2wtd3R1NDgtNFM5NThnRWlrVkw1V0lWakxJYkh4TDhPN0pfaGNfT2E2WTF4VEMzQ3kxaHJFOUplUFFhYWtFeFZsbjRDYzRBS0VDOU9jZ2NwY3Ata1RLRXlKWWpxQ3NuY3N0d9IBrwFBVV95cUxOOGg1M0hTdlB0bWRZdktDZkRxeldsZTlMNnVuN2V1OVNXQWZqSUlsVUFyWHBmY0JZV2Z5WUxpaS0tQ2RJRGJGZWdfUTJqM3h4Ym5qVW5mYmdMa09WT2NkRE1VSzNSN09EeHIxT295THRVWElaTEpoSkZ1SGc3bDg4MFE2dHJiaDB1SVpHUVdDelFuQnp4YXRPX19HQkpzbXk1eTFUSF8xODhkQ2MwYWVV?oc=5",
-      "published": "2026-04-20T11:09:14+00:00",
+      "id": "2c12e123a4eb",
+      "title": "Fibrosi cistica, Aifa estende gratuità modulatori gene Cftr - Tiscali Notizie",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGQ0bWdlaUFtbjRNN1JwbllfUWoxVHgzQnNicWhESEprR1ktNWhLSWZpb2drekFHeXlSNlpDNE5pZ1ozdDFackpfOEs2STY1dVZMcGV6ZU5ZY214dmFGYjl5Z1kzdV8yRWRqbl9UYWFQakFYazFpNXdrdUZ3dmNfZGR2OE41UHJkNVM4VzFpWGU2ZXdLbXhFYlp6MXNpMnZfZGYxdWg2dzkyS0dK?oc=5",
+      "published": "2026-04-20T11:04:00+00:00",
       "source": {
-        "name": "98zero",
-        "url": "https://98zero.com"
+        "name": "Tiscali Notizie",
+        "url": "https://notizie.tiscali.it"
       }
     },
     {
@@ -304,6 +294,26 @@
       }
     },
     {
+      "id": "04c79cf618a0",
+      "title": "Epilessia resistente ai farmaci, a Palermo impiantato uno stimolatore epicranico - 98zero",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTljZzk0UXBPNFVlVDNPbWhvM2JKUWNQNU9XRG95MWhKME5jWVJEaUdMakhYYU0tYlVQN1ZWcmtPdTJRbnl0d2wtd3R1NDgtNFM5NThnRWlrVkw1V0lWakxJYkh4TDhPN0pfaGNfT2E2WTF4VEMzQ3kxaHJFOUplUFFhYWtFeFZsbjRDYzRBS0VDOU9jZ2NwY3Ata1RLRXlKWWpxQ3NuY3N0d9IBrwFBVV95cUxOOGg1M0hTdlB0bWRZdktDZkRxeldsZTlMNnVuN2V1OVNXQWZqSUlsVUFyWHBmY0JZV2Z5WUxpaS0tQ2RJRGJGZWdfUTJqM3h4Ym5qVW5mYmdMa09WT2NkRE1VSzNSN09EeHIxT295THRVWElaTEpoSkZ1SGc3bDg4MFE2dHJiaDB1SVpHUVdDelFuQnp4YXRPX19HQkpzbXk1eTFUSF8xODhkQ2MwYWVV?oc=5",
+      "published": "2026-04-20T11:09:14+00:00",
+      "source": {
+        "name": "98zero",
+        "url": "https://98zero.com"
+      }
+    },
+    {
+      "id": "9bf70e50242e",
+      "title": "Usa, Fda chiede nuovi dati di sicurezza su pillola anti obesità - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFV2RGpBaGFiY3RxUGh4VFVIYldLRXU5R2RzUzJfWmp6bjVyZHpzNm9GWk94MWVHa05NRG5KaGJJTVdiUFN4ZzEtRVo4dnZiSlRSenIwZTQ2MnMyVVVxdnJzM2FDcnNyTndGQk1aNWlSNFRMS2FCOXY3azJ4Q1BVUy1hRTFaZUktOGExc3ZwS3dBLWZ0MHh4c2ZWekVZX2VlY2ZyOUNWamctcDM2NUJjb3FvelBJR2xaRlI2Vzl5TnF4Wi1CNHhWNA?oc=5",
+      "published": "2026-04-20T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -311,6 +321,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "e563fb6ff855",
+      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
+      "published": "2026-04-12T12:04:32+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -334,16 +354,6 @@
       }
     },
     {
-      "id": "e563fb6ff855",
-      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
-      "published": "2026-04-12T12:04:32+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "0ffa4599c872",
       "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
@@ -351,16 +361,6 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
-      }
-    },
-    {
-      "id": "43abf376b1d9",
-      "title": "Prendiamoli e maneggiamoli «con cura» - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVy1SWXZnMHFya2M2T3c1RmpQS0c4SjY1YTRSQ2ZGdDdZYk9qZmdBX3JVelM0RURqNGd4X0NlNG9TZWE4QzZZY2pycFYyUXVYQ2J6MUJkTk1mQ2tZcFRmSUZGQU5XMVlRR2pXMmZ4U0ZsQ1pLMTgxeDJNMUlfUGN2T2dKN04tQ1ROcnpXeHFldjU2THl5emU4U2JMbFRWa2tMbFZCSmloMzJRNGpsejdZODlzNVZCbFVZd25PRk5yNNIBxAFBVV95cUxNdGNscE9vVDJ0RjZub1NvNmhFMzQ5bXA5VjBWaWhrLXhhVldkWTZTZk5LSmh3cExLOVRRS1BlWkpsNjJJZTNDd1dzZE1Sa0lFRW44VGJXbERGQ09PTEVHeGppdHFsZXV0RWJpbV9uUmFsMWREejVEd3FtcnUxS0tUTUx0aU5xaHhfU1EySGplNVh6akk1bklINGRXc2NlV3JiVlA1Znp0OWh6RGFHMXk0aVFDcmRQZjJhcVRxWHMzTVNoZEdx?oc=5",
-      "published": "2026-04-19T04:55:06+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
       }
     },
     {
