@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-21T21:37:03.500836+00:00",
+  "fetched_at": "2026-04-21T22:30:31.623561+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "a5a77e699113",
-      "title": "Di Marco (Pd) contro la Regione: \"I farmaci innovativi oncologici non sono costi, a rischio l'accesso alle cure\" - IlPescara",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWDBNQ25teURFV3piZzl0TGx5RjlsOWU4bjFrOGkzRG1nU3VDZFQ1QV9na3pSd0dsRGZ3bzNoQWZrclJjX2RkZVNuelI5UEJtU2E3OFBsbjlseFFXVU5lWFFZQXAxcWlnOW0xZjY0cUZhbmVVdnRKMFdBUnB0ZmtvWTU3VzNxMEhZckxmQUNZS1VfZGpjUmpXNEN2TzBCVnhxQ19sLXhHdi1wWFJfS0lfcmR3?oc=5",
-      "published": "2026-04-21T14:31:33+00:00",
-      "source": {
-        "name": "IlPescara",
-        "url": "https://www.ilpescara.it"
-      }
-    },
-    {
       "id": "a73e9986ecf3",
       "title": "Le rotte invisibili del farmaco - Fortune Italia",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRUdlUTdiMmQ3c1FxOXQyQzQ3QUZleHN4ZThzTVhIbHFyX21jaVZsRHhPdnhNaC1XMmUtSTlSQzlpSkVYaDBWNlFhNjhPd2JZbGFCclc5YVhCNGU4RHBzd0g0eElIVjd6bUFKWkJ6T3BuYjRVaGRla3BR?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Fortune Italia",
         "url": "https://www.fortuneita.com"
+      }
+    },
+    {
+      "id": "a5a77e699113",
+      "title": "Di Marco (Pd) contro la Regione: \"I farmaci innovativi oncologici non sono costi, a rischio l'accesso alle cure\" - IlPescara",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWDBNQ25teURFV3piZzl0TGx5RjlsOWU4bjFrOGkzRG1nU3VDZFQ1QV9na3pSd0dsRGZ3bzNoQWZrclJjX2RkZVNuelI5UEJtU2E3OFBsbjlseFFXVU5lWFFZQXAxcWlnOW0xZjY0cUZhbmVVdnRKMFdBUnB0ZmtvWTU3VzNxMEhZckxmQUNZS1VfZGpjUmpXNEN2TzBCVnhxQ19sLXhHdi1wWFJfS0lfcmR3?oc=5",
+      "published": "2026-04-21T14:31:33+00:00",
+      "source": {
+        "name": "IlPescara",
+        "url": "https://www.ilpescara.it"
       }
     },
     {
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "ed5a0de6e8ac",
-      "title": "Farmaci veterinari, antiparassitari “naturali” non autorizzati, venduti sul web. Al via controlli Nas - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQld5cm9yWkR2dlYtNkNaYk9pckRRVVdzblJtVVJaelZnS09SZFpZMDg3VmUzNk1nVUJSV1FPVUlUQzFQTExER3NneTNQUXVHemN2dFZ3Z3BQSHpQNlRDOFdRVENvS2M3ME1JeWdkNG5aMlB2ajJjN1lENTQ1MUljYnBwNFcwLThjeXdVcFBKeXE4R3ZJbWU2Wm5fQmUzLTNSTnhQZnJzSWNwdUxQcmdKX1U5OWJFSUl0ek9Ob0l3MUgxWDRxdXBTV2NmaldhNl91Rk5RLVhUcmsxLWd2WU1TRQ?oc=5",
-      "published": "2026-04-21T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "6fbc5dd63c65",
       "title": "Tumore del colon, studio prova l’efficacia dell’immunoterapia prima dell’intervento - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZl84Y2ZrYmJIb0VPWGdlOHpueFhWWk84LV9RVG5ybExZaXJEUndPZVNNa2ZSVHFtaU9BRVFVLVZCTWRIM3JIdlpSUFBhTENJUXF6XzlPWTFDdHphNlQzMVZXZWNCdmxjc0plRkFVaW5heU9KVnl1azBjSWNuUzZWVUtHZjJMRzQ2bllCdGRBWkRKMGRxaENQbW5lcVBMaTNfUm1ISkJkTUxjUkFPZzdhMnEwNVhYSnRYRjJtQ1lKWnhDY0o2TXJCbjEzX0o0NXZQeTNZandvZXFQejRNT1NfRzlPTEsxYkQ4WV9HMlM0VWjSAfYBQVVfeXFMTmppUER4cndGRWFXT1BET1JOM0pwYzVhZHI4dDh4LUFzZzFXSHdMOGZYVmVrZUhwVmY3MFNxMGZkZnR4aG9GcHpvVHpzakVmZjVvTW5ZeVo4dTBsQ3pfOXd0Y3hhYVdXbndTMHI0NXJobHYyNVpOSmotdHZCNXhjeUdBN3cxQ3dkWEg2MVRLVTF5LS0zd29LdGN2aF9HQjRtOXRac0RLX3dxUUJxbHJneWhGaHhySFk5ZzA0ZTlwNy01MGgxR0FIWUkzRDdQR2h0SnhfZkJXZ1JYRjVuQ2lvX0hWUEFfd1R2S0Npa0tnSlIyckp1UDhB?oc=5",
@@ -201,6 +191,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "ed5a0de6e8ac",
+      "title": "Farmaci veterinari, antiparassitari “naturali” non autorizzati, venduti sul web. Al via controlli Nas - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQld5cm9yWkR2dlYtNkNaYk9pckRRVVdzblJtVVJaelZnS09SZFpZMDg3VmUzNk1nVUJSV1FPVUlUQzFQTExER3NneTNQUXVHemN2dFZ3Z3BQSHpQNlRDOFdRVENvS2M3ME1JeWdkNG5aMlB2ajJjN1lENTQ1MUljYnBwNFcwLThjeXdVcFBKeXE4R3ZJbWU2Wm5fQmUzLTNSTnhQZnJzSWNwdUxQcmdKX1U5OWJFSUl0ek9Ob0l3MUgxWDRxdXBTV2NmaldhNl91Rk5RLVhUcmsxLWd2WU1TRQ?oc=5",
+      "published": "2026-04-21T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "3665493e62f9",
-      "title": "Farmacia dei servizi, Assofarm Lazio denuncia esclusione dai tavoli e assenza di iniziative per il 2026 - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3MyRkxZYXdRbWs5MTg3TnRqc0dPcUZ5U0x4U3o5a3FUaWtrOFN6ZlotcWpoR05VTlpJRXJTVHZoa0lodWxQMHNxdHFLbmU0SU9DMlNmUDhJc1pYUDY1N2FuNzlzVVJVOHRhZzNIODhVaDBGMzN0UVVKM2tmY1VfZGVOa1JLN1dBVHdYaUx5TWMxdUhkTDB0OEE0cnhfLTNBeXFmcG1TVTZuRzRRbFlCODNDNlpRWDc5ODlxREgtM3ZvTXFwZmF4YlI0b0RnV2NMcUU5RTBmaXVTcERrZ2JJb0hIcGwwNW1zTHlOT2hIVDdyUQ?oc=5",
-      "published": "2026-04-21T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "3cc8cf13c3be",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -534,16 +524,6 @@
       }
     },
     {
-      "id": "ddd00ae6526f",
-      "title": "Emofilia, arriva in Italia il nuovo farmaco concizumab: svolta nella profilassi - Corriere della Calabria",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0htWUZwSjhtaWI3a2djY3lWVFd0RERodmJ1RFN6a3JDWEljS09XeVFaNnluOTVRWG1JWTF6UTFCWnRlWmNQcmx4NGIxTUFBNXlEZmgzRzlWVnowRDBLQlBEYUZ0cEpldTA2VFVBYW5sWE5pZ1ZFN201d1ljRWJTRzFONVJzaEF2R0F2elBESmg0REVpQmRBQk9IWFZ5QzlUT3NxdXJZZWt0aFZhd0NLZUVyWndjQWJMMmljOFJhUHlWN1kt?oc=5",
-      "published": "2026-04-21T05:53:00+00:00",
-      "source": {
-        "name": "Corriere della Calabria",
-        "url": "https://www.corrieredellacalabria.it"
-      }
-    },
-    {
       "id": "b122945675dc",
       "title": "Produrre farmaci, generare valore. Come Abbvie integra ambiente, lavoro e comunità - Formiche.net",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE5XSUV4TWtzTDh3bzY4SktPbFU2Q0UxVFZrbWZFWkowNmVycElDdjJOMGszUHU3NThERE5neG9qeUZTR1NfLWo1cG1ZRTdYX194dnBndDVFRUh5aWk4Z25Ebnl1TTRKNXU1YWFqb1VwRDRMdkJjckE0Mmt6NUwyTGVlcExNZw?oc=5",
@@ -554,13 +534,13 @@
       }
     },
     {
-      "id": "87463bcc603e",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
+      "id": "ddd00ae6526f",
+      "title": "Emofilia, arriva in Italia il nuovo farmaco concizumab: svolta nella profilassi - Corriere della Calabria",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0htWUZwSjhtaWI3a2djY3lWVFd0RERodmJ1RFN6a3JDWEljS09XeVFaNnluOTVRWG1JWTF6UTFCWnRlWmNQcmx4NGIxTUFBNXlEZmgzRzlWVnowRDBLQlBEYUZ0cEpldTA2VFVBYW5sWE5pZ1ZFN201d1ljRWJTRzFONVJzaEF2R0F2elBESmg0REVpQmRBQk9IWFZ5QzlUT3NxdXJZZWt0aFZhd0NLZUVyWndjQWJMMmljOFJhUHlWN1kt?oc=5",
+      "published": "2026-04-21T05:53:00+00:00",
       "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
+        "name": "Corriere della Calabria",
+        "url": "https://www.corrieredellacalabria.it"
       }
     },
     {
@@ -571,6 +551,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "87463bcc603e",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -614,16 +604,6 @@
       }
     },
     {
-      "id": "55090f62cf8f",
-      "title": "L’Aquila, interpellanza Di Marco: farmaci oncologici innovativi, criticità nella gestione delle risorse. Serve una nuova strategia per garantire l’accesso alle cure - AbruzzoNews24",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS2xGd21mdlAwLTRnZ0IyVnFKOUduSVAwZlhLRkNObGdQbUxjNWdUWldOZGVNRzRkd2Y1QWx1akJrR3JIVUlpczRONVJvSVExRDJuZUNWeVNNdEN3N0VTM3VWLVk3c0N1d1o3UUY2OE01RzVXZUpRajd2eThBZkNveHMtZ2V0WEVWNDBtcmIwcGhsODg3eHpBSDd6RnRZSVl1Z3hxR3FUVGVoU2J4SlBZSWpQM1JLenQ4Z25RUTZGWUlLMHE1TW1mSEZTT3Mzd013TzFDUzJKYzQtM2Ewb3QxMGlzNlRkV0NEOVloOGdEZkNJcDVtdnhwam9IelotQ2d6aFlfVERNb3ZRQTVOZEx5Q2gya2xhWEo5?oc=5",
-      "published": "2026-04-21T14:30:52+00:00",
-      "source": {
-        "name": "AbruzzoNews24",
-        "url": "https://www.abruzzonews24.com"
-      }
-    },
-    {
       "id": "63fd322aabc2",
       "title": "Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
@@ -631,6 +611,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "55090f62cf8f",
+      "title": "L’Aquila, interpellanza Di Marco: farmaci oncologici innovativi, criticità nella gestione delle risorse. Serve una nuova strategia per garantire l’accesso alle cure - AbruzzoNews24",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS2xGd21mdlAwLTRnZ0IyVnFKOUduSVAwZlhLRkNObGdQbUxjNWdUWldOZGVNRzRkd2Y1QWx1akJrR3JIVUlpczRONVJvSVExRDJuZUNWeVNNdEN3N0VTM3VWLVk3c0N1d1o3UUY2OE01RzVXZUpRajd2eThBZkNveHMtZ2V0WEVWNDBtcmIwcGhsODg3eHpBSDd6RnRZSVl1Z3hxR3FUVGVoU2J4SlBZSWpQM1JLenQ4Z25RUTZGWUlLMHE1TW1mSEZTT3Mzd013TzFDUzJKYzQtM2Ewb3QxMGlzNlRkV0NEOVloOGdEZkNJcDVtdnhwam9IelotQ2d6aFlfVERNb3ZRQTVOZEx5Q2gya2xhWEo5?oc=5",
+      "published": "2026-04-21T14:30:52+00:00",
+      "source": {
+        "name": "AbruzzoNews24",
+        "url": "https://www.abruzzonews24.com"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "LILT Milano Monza Brianza",
         "url": "https://www.legatumori.mi.it"
+      }
+    },
+    {
+      "id": "53fca62a0dea",
+      "title": "Farmaci. Schillaci: “In Ue no a primato dell’industria su tutela salute” - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0djeXJLU2lqbWZXLW05T0lRaHdHUF9iNVlRVHdFOHVmbFV3QXpsejlOMGcwNUNObmEwaF9XTktrcThwWkZvLUhtbWZhT1lyMDl1ZV8wb0RZdEw4QllBbXprX0ZoOVQxVGRtaktmbmoxRVE1dVRGN0RNSkVndGM4dXBnbGVkQkxDQi1kMWZqZFN3WUNkb0Y4Um8yTDNiRTRBN1ZFZUZVcno1SWVEalRic1BHNFdqbFk0dHd3Q1V3?oc=5",
+      "published": "2025-12-02T08:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     }
   ]
