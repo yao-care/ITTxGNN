@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T08:56:04.613340+00:00",
+  "fetched_at": "2026-04-25T09:44:07.916849+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "d59ab73c5beb",
-      "title": "Via libera di AIFA alla rimborsabilità di 4 nuovi medicinali, 9 estensioni di indicazioni e 6 equivalenti - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWVNMTB1V1o1VjAyRnVpNkNtMEZBSy1RUzYyTVgzS3NnbHBnVmRTX29rc1ViVmJkNU1UN2tsSDZDZWlwNmlJdjlmWDZ6cUpzUmR6ZDJiMml1SkxFVF8tendaY2F5eEs2UW1tYURNSXdENnByWHA3a1M1SnZ6MTliSVRwcWlsQ2xNNHhFT0tPbGR6RzZra1ozcl95d0hXY0ZFS1lGLTFQWGRKZW0tM3VrbmRFcjBwTkJYbnVwcVF1VnFvSHlsa2Nna2tNM2pHbXBqN3ppdm1wY0FENFE?oc=5",
-      "published": "2026-04-24T10:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
-      }
-    },
-    {
       "id": "f7d133677021",
       "title": "Idiocracy. Trump e Kennedy dichiarano guerra alla matematica: \"Ribasso dei farmaci oltre il 600%\" - HuffPost Italia",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMklpWktSZDVUcFdVY2JYRmxFQ0VTQmdwNzlrV25PaTExcTh2bkNNMjFyZEtrNDFwQWt2b2hLcUFMd0JnNkdOZkJTRkRnU1E4LVZuQ0NJMVFZR1djNV96NlBWNzVmMnJ2TU5XQS15Z1dtYkx3bkRJNW50NXVQZWpBUXR4R21SLVNSV3BZMGlxM1kxWWlNRDQzSWpDWUhJSW0weE16VlJ0cnhRY3M1RXNQUWFSRndQQTdPN25wYTNoa3hpTF9jSlJwZ3d3U1owT3JmekVHZ2ExYjlVS2N3ZHRBQ2x5ZVg0VnFPR0J3dG50ZDVOLUdFc0RPUlV1N0FwUHVWWWlLUkg0N0pHQQ?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "Giornale di Brescia",
         "url": "https://www.giornaledibrescia.it"
+      }
+    },
+    {
+      "id": "d59ab73c5beb",
+      "title": "Via libera di AIFA alla rimborsabilità di 4 nuovi medicinali, 9 estensioni di indicazioni e 6 equivalenti - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWVNMTB1V1o1VjAyRnVpNkNtMEZBSy1RUzYyTVgzS3NnbHBnVmRTX29rc1ViVmJkNU1UN2tsSDZDZWlwNmlJdjlmWDZ6cUpzUmR6ZDJiMml1SkxFVF8tendaY2F5eEs2UW1tYURNSXdENnByWHA3a1M1SnZ6MTliSVRwcWlsQ2xNNHhFT0tPbGR6RzZra1ozcl95d0hXY0ZFS1lGLTFQWGRKZW0tM3VrbmRFcjBwTkJYbnVwcVF1VnFvSHlsa2Nna2tNM2pHbXBqN3ppdm1wY0FENFE?oc=5",
+      "published": "2026-04-24T10:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -354,16 +354,6 @@
       }
     },
     {
-      "id": "97c8b18243bb",
-      "title": "Pierluigi Petrone (Liphe): Tracciare la nuova geografia del farmaco - Fortune Italia",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXJGdHlidkdSRXVVUFhkSURWcENhM2JkNGhtalhJYzd0RXowaWdLMVBfbXdrdDJneDhjdExKdjhUVWFSX2laUlBxVXBuRTZ0N2J6OFJfZng3QjNEY2NFUnVoQXRLclpIa2FreTRyLTMyWDMtN1pMd1hLREZDNGlNYlNZeVphSDBoeElTNVBhY2pNMVFCUTlBZ0pXS0xGUnVIX2pRS0dn?oc=5",
-      "published": "2026-04-24T10:31:52+00:00",
-      "source": {
-        "name": "Fortune Italia",
-        "url": "https://www.fortuneita.com"
-      }
-    },
-    {
       "id": "67ee8ee624ef",
       "title": "Farmaci, cresce la rete che trasforma dispositivi iniettabili da rifiuto a risorsa - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2ljc2Z1ZW83bzUwWmduY2xzT1htUU1QV2NycE1RYzJiQ2czVGw1NjhCc1pRVWxzLUFObHpqUllsTktzUmZxblhtcTZab2hBSXRTZGJ3ekhoaEZfZm5HR3lPdWN0N0dLZlhaSExWWHFJOFNfLTFlRXlUSlZ4YnFmY0NlMTBWamNTX1A1OFRLVENRdERTd08yLWRCYjZkNG9rNTVWX1ozRTNBdldrVWdsZFVnV0NYelByQkp2eExrSElSTzVMb1ppRFRWWk5mNnlPQ1Fz?oc=5",
@@ -371,6 +361,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "97c8b18243bb",
+      "title": "Pierluigi Petrone (Liphe): Tracciare la nuova geografia del farmaco - Fortune Italia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXJGdHlidkdSRXVVUFhkSURWcENhM2JkNGhtalhJYzd0RXowaWdLMVBfbXdrdDJneDhjdExKdjhUVWFSX2laUlBxVXBuRTZ0N2J6OFJfZng3QjNEY2NFUnVoQXRLclpIa2FreTRyLTMyWDMtN1pMd1hLREZDNGlNYlNZeVphSDBoeElTNVBhY2pNMVFCUTlBZ0pXS0xGUnVIX2pRS0dn?oc=5",
+      "published": "2026-04-24T10:31:52+00:00",
+      "source": {
+        "name": "Fortune Italia",
+        "url": "https://www.fortuneita.com"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "2cdbb798182d",
-      "title": "Farmaci per dimagrire e effetto rimbalzo, come evitarlo: la 'guida' e gli studi - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGZRU2Vsd3drU2J5cFBXS0pNenViZ3NyQXFHU0tYemZOSE41V0pucU9lWHNjYW9TY1lJemRjaXRQVTZpU3EyMy14Rnh3UHZFVS1zN2VDQnlIS0JjOUlCaldMdHhLRXJJZnFWck9VQXpiWk0tbXhCNi04WHJvVDlaNzhDRWZQOXdQVG8xRUdVdm9Vd05uWk5LWXctbi1GVjZN?oc=5",
-      "published": "2026-04-23T12:11:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
       "id": "5a735aea30fa",
       "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
@@ -424,10 +414,10 @@
       }
     },
     {
-      "id": "9139386997a2",
-      "title": "Ambiente-salute, l'azione dell'esposoma spiegata dall'immunologo - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUlpEblZyTGc4NE0yLWNJZUVzd0VxX09zRmlXenBMYXkwRlNXaHI3dzBuQnlRcEJwZkI1MkxycDE2aDlWOHVkUFpoNlljSmRreGw0NlpSaFA2a3VZOS1KQkRtR0FraE9FdnUwbThBQ1FLOG90RllQWG5iTTFsd2Mta1g4ZEM0bHdkYXJoWXV5UjMxU1RlLVB2d0xld3RrRVJpUVNkUndObldhLVFpYXBLOVV5ejRUT0NseExMYjlBd3V5aWd4c3FwTlVjajNGa2pSeDA4c0xtMXpOeFU0MjBlVENOUQ?oc=5",
-      "published": "2026-04-24T10:44:00+00:00",
+      "id": "2cdbb798182d",
+      "title": "Farmaci per dimagrire e effetto rimbalzo, come evitarlo: la 'guida' e gli studi - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGZRU2Vsd3drU2J5cFBXS0pNenViZ3NyQXFHU0tYemZOSE41V0pucU9lWHNjYW9TY1lJemRjaXRQVTZpU3EyMy14Rnh3UHZFVS1zN2VDQnlIS0JjOUlCaldMdHhLRXJJZnFWck9VQXpiWk0tbXhCNi04WHJvVDlaNzhDRWZQOXdQVG8xRUdVdm9Vd05uWk5LWXctbi1GVjZN?oc=5",
+      "published": "2026-04-23T12:11:00+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -444,16 +434,6 @@
       }
     },
     {
-      "id": "c5bed0305d0c",
-      "title": "Linfomi, dall’IA alla terapia CAR T. L’IRST porta a Roma l’élite mondiale dell’oncoematologia - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnQwSC1LWTJWYV8tODdudEF6VlRMQXpkWVRwTjdRa0tqOFF1UHhzcG5nZmhCNVc1ZjRKa3FGalMtUndmYWxGT3haekluT2RCTC1XZ2lUVFJ1REhYZXNBVjNrR0tvdUNsNWc3aUJEajNQOGxBcUxyRjg0SGUwTGFrMmdFSFNsbUtnYkpzYW5RTzR1cU96Si1Nb0YwQnFrc1RjeTE4TWhrcDZvZnNhbGJnZzI4NGtOTnREaGpuNHRUdUE4dlZV?oc=5",
-      "published": "2026-04-24T13:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
-      }
-    },
-    {
       "id": "070828502af6",
       "title": "Camerae Sanitatis. Intervista a Ignazio Zullo (FdI): “Non possiamo rincorrere le emergenze, va riformato il Ssn. Prevenzione, spesa e accessibilità ai farmaci le priorità” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNNFMtaWpxZ1MtTjhwaXcyemdPTmc0emdLbWZSeDBxX3c3WmhSdF9UQzFzSHB0aGhKazB2VktEY2dpdmVoNHBYbjQwbExUU05PTTZZcWtqcHA1NTZWMG9Cc0EyMEJ5bjRPYnFnUExCRnlvazR2Y2N4aTdob2pMZ2hRaWV6ZXVJcGNPbFdCRkhiSDhlNUJ0ZFByUk0wWXY2YlU0RllwZnJKM0xXUjdDNmRfWnlZVlVUbWt2cUE1c0E0Rlg4ZUNNaU1MYy0zaDR6VkNYQWktbzBOMHpXX19jUkVsd2lhWlA5T3lNR0RfUGhJOHp2dmZ4S1ROMy03Zm5lTlQxUmY1TFJtVEMxeVRqTnJwbFh5LVhEcXg5eHRCVEJNZkNyeXRPU3JDRjBNeEhrYlVM?oc=5",
@@ -461,6 +441,26 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "9139386997a2",
+      "title": "Ambiente-salute, l'azione dell'esposoma spiegata dall'immunologo - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUlpEblZyTGc4NE0yLWNJZUVzd0VxX09zRmlXenBMYXkwRlNXaHI3dzBuQnlRcEJwZkI1MkxycDE2aDlWOHVkUFpoNlljSmRreGw0NlpSaFA2a3VZOS1KQkRtR0FraE9FdnUwbThBQ1FLOG90RllQWG5iTTFsd2Mta1g4ZEM0bHdkYXJoWXV5UjMxU1RlLVB2d0xld3RrRVJpUVNkUndObldhLVFpYXBLOVV5ejRUT0NseExMYjlBd3V5aWd4c3FwTlVjajNGa2pSeDA4c0xtMXpOeFU0MjBlVENOUQ?oc=5",
+      "published": "2026-04-24T10:44:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "c5bed0305d0c",
+      "title": "Linfomi, dall’IA alla terapia CAR T. L’IRST porta a Roma l’élite mondiale dell’oncoematologia - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnQwSC1LWTJWYV8tODdudEF6VlRMQXpkWVRwTjdRa0tqOFF1UHhzcG5nZmhCNVc1ZjRKa3FGalMtUndmYWxGT3haekluT2RCTC1XZ2lUVFJ1REhYZXNBVjNrR0tvdUNsNWc3aUJEajNQOGxBcUxyRjg0SGUwTGFrMmdFSFNsbUtnYkpzYW5RTzR1cU96Si1Nb0YwQnFrc1RjeTE4TWhrcDZvZnNhbGJnZzI4NGtOTnREaGpuNHRUdUE4dlZV?oc=5",
+      "published": "2026-04-24T13:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -544,16 +544,6 @@
       }
     },
     {
-      "id": "dcafb47fa105",
-      "title": "L’allarme di Aifa: il 2024 non è stato un buon anno per la lotta all’antibiotico-resistenza - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd29CWmVKd3FJajVlZzdFaDBHaWY3YVg3eXNSd3dDeVVMZ3N2UUZ5YUxMR1pHTWZsdUdWOHdiNDA5YzZYRExYMHhGVGFoVXZSOEJHVUpET2txMFhOOTVsS1NGcFNTZjRpYkJya0FiZ2NQaXdyX0FjTGFlVjhGaHV0Z0xfeUJfbmR4T2FBQk1KTzdaZl8ya0ZCOWl0bnZySWs0MXB2QWczNXdJZGVqSkhnX1Q5YlRGSm1G?oc=5",
-      "published": "2026-04-24T10:45:33+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
-      }
-    },
-    {
       "id": "0703d2b9c80f",
       "title": "Prurito. Dermatologi: “Riconoscerlo come malattia e campanello d’allarme di condizioni sistemiche” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3pGNlZkc0l4cnBvWVpWcmx5S1VaUTMyd0F2LWd3MjFRcEtkdzRWU1BSYVFrWDJ0ZWRJdHIteVVPSDNaZS0zLUNRVUUzTWdWYU0zaWs4S3E4MzdtVjdSZlRsbC1VQ0RqN1Y2MjBLT25QaURQTHRMLU5ETTV5SF9uZzMxMHZxa1hZblhJTVcwMHY1TTNPLXRvNjZkMDN2MFBEa1ZJcXJ2Tk9DZFFrd1dIbGZNM0JPWHFIbmtueDVnVVB5V052SzF5QXktUm1RdWNvWkJEZEM2Yw?oc=5",
@@ -564,13 +554,13 @@
       }
     },
     {
-      "id": "99b4f630e76e",
-      "title": "Libri ‘farmaco’ per salute mentale, cosa dice la scienza - gazzettadireggio.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjJaTjJ4U3JuVl91WjhTLUJOSUlvNWQ3R3NsSzQyVEEwRC1NUUVLSEJ2MzZXMmlhUlVCZGctRXplSjc2cFR4U09qd0JyZF9hcUN2SlNlQmliakJfNlJQZEh0dXp3bWRSSkFBTmtCRUpJd2xIWFdfZk5OV2FNbkd5TWctbTJKZDc0N0U4MTF2b3U3bllKbFBDY2ZKaE5SYUk?oc=5",
-      "published": "2026-04-24T13:00:25+00:00",
+      "id": "dcafb47fa105",
+      "title": "L’allarme di Aifa: il 2024 non è stato un buon anno per la lotta all’antibiotico-resistenza - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd29CWmVKd3FJajVlZzdFaDBHaWY3YVg3eXNSd3dDeVVMZ3N2UUZ5YUxMR1pHTWZsdUdWOHdiNDA5YzZYRExYMHhGVGFoVXZSOEJHVUpET2txMFhOOTVsS1NGcFNTZjRpYkJya0FiZ2NQaXdyX0FjTGFlVjhGaHV0Z0xfeUJfbmR4T2FBQk1KTzdaZl8ya0ZCOWl0bnZySWs0MXB2QWczNXdJZGVqSkhnX1Q5YlRGSm1G?oc=5",
+      "published": "2026-04-24T10:45:33+00:00",
       "source": {
-        "name": "gazzettadireggio.com",
-        "url": "https://www.gazzettadireggio.com"
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
       }
     },
     {
@@ -614,6 +604,16 @@
       }
     },
     {
+      "id": "99b4f630e76e",
+      "title": "Libri ‘farmaco’ per salute mentale, cosa dice la scienza - gazzettadireggio.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjJaTjJ4U3JuVl91WjhTLUJOSUlvNWQ3R3NsSzQyVEEwRC1NUUVLSEJ2MzZXMmlhUlVCZGctRXplSjc2cFR4U09qd0JyZF9hcUN2SlNlQmliakJfNlJQZEh0dXp3bWRSSkFBTmtCRUpJd2xIWFdfZk5OV2FNbkd5TWctbTJKZDc0N0U4MTF2b3U3bllKbFBDY2ZKaE5SYUk?oc=5",
+      "published": "2026-04-24T13:00:25+00:00",
+      "source": {
+        "name": "gazzettadireggio.com",
+        "url": "https://www.gazzettadireggio.com"
+      }
+    },
+    {
       "id": "928028ecdf2b",
       "title": "Tumore cerebrale nei bambini, l'Ue approva un nuovo farmaco - Alto Adige",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFZrdTl3cWJZUFN5WDR5V1NILVFLSTlCc3hLTFJtUDYzQ3hFUFVtU1NTVTJHSXk1M0J1R2V3Qkx6ZTlJaWhodVA1N0lCN0I5ZHJvMnUzVHlKZUdrOHU5V1pWelhhS0ZySkpMbWNPUXBsVW9jSmpCVF9pNW8zMnNMMU5ObU9kM3BDWXdSZTI4Ql9pdDYwUGJxMV9sY3RoNHNhR1pNX1h1cDRLbWNaa1doUFV3?oc=5",
@@ -634,16 +634,6 @@
       }
     },
     {
-      "id": "1f51a8328306",
-      "title": "Endocrinologia S. Croce e Carle Cuneo: utilizzo farmaco innovativo per cura paraipotiroidismo - AgenSalute",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWx2WFpfNlc0OUFyOWJlTkhzVUJzY0NsLXF3bEtOWjZIS1RyVVJwdXI2emFFcjd0ZHBDb0dPZFJqOHUxSDM4ZlQ3Y2o0YVU4aUdmQjkydm5MNTZlU0g2WDFlM0FnTGdOdXgycE9BaF9mdjRFVDdtX2FFdVJlaEplbUtOQkhCalRaQkJOeWNKZmR4U2stR25hMTZzLThBZXhtcWNOSTg2VUswNUVDeDFPYURqVU1JT0JZQ0o2ck5Qay1wQQ?oc=5",
-      "published": "2026-04-24T11:54:00+00:00",
-      "source": {
-        "name": "AgenSalute",
-        "url": "http://agensalute.it"
-      }
-    },
-    {
       "id": "254b4cf02a52",
       "title": "Farmacia hub: metamorfosi della salute tra prossimità, sfide professionali e sostenibilità - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWUl5eVdMVEpoRm0xLWJBQ3EydjB5dlJrOWF2X2U4YzdqcXBfUjdKcVdvUi0zMkM3WFprN0Q4QWYyYnFHTkFjUS1RWGVqdUVZWmFsQWdoZFZpaDA5?oc=5",
@@ -654,6 +644,16 @@
       }
     },
     {
+      "id": "1ed2bea56ebd",
+      "title": "\"Non solo farmaci e più movimento\": dal congresso Arca le linee guida dei cardiologi - Telenord",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OUdOT1J1TmVhNlpDZzNPaFVTQVBOX1Zsekk0WVczWElqZEItN216ZGd2azJoZ3AzQXFhTnpOTFROWlU5Z1BPaUJ5eGRyNU1pZjIxM1VleV9BYzM2LWlQQWNna3RtV0k?oc=5",
+      "published": "2026-04-23T15:20:00+00:00",
+      "source": {
+        "name": "Telenord",
+        "url": "https://telenord.it"
+      }
+    },
+    {
       "id": "b424064e82f9",
       "title": "Intelligenza Artificiale e salute: le agenzie regolatorie al centro della rivoluzione farmaceutica - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0hZSkJxZ0RzdjB6LTYydUM1MUwyQW9lN2xrc2pMVmk3WlltelEtNzNFaHlRRWRiWE1WUnVVQkNvclBlcEFPWkdLdUtrLVhJSWpVa0liNE91bnRDNHppOTJTWW5ITnpYdTVQSXowb29CUFBybzR6a1ZJc0YtVE9QTHh3X0FYWVdCNkhva1ZKclNLazZNR1FKV0Y3ekNXV0Y5bExVQ2E3a0kyb3N0cXRvNXUwWWF4bXljbHFZelBtUEY?oc=5",
@@ -661,6 +661,16 @@
       "source": {
         "name": "Agenzia Italiana del Farmaco",
         "url": "https://www.aifa.gov.it"
+      }
+    },
+    {
+      "id": "1f51a8328306",
+      "title": "Endocrinologia S. Croce e Carle Cuneo: utilizzo farmaco innovativo per cura paraipotiroidismo - AgenSalute",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWx2WFpfNlc0OUFyOWJlTkhzVUJzY0NsLXF3bEtOWjZIS1RyVVJwdXI2emFFcjd0ZHBDb0dPZFJqOHUxSDM4ZlQ3Y2o0YVU4aUdmQjkydm5MNTZlU0g2WDFlM0FnTGdOdXgycE9BaF9mdjRFVDdtX2FFdVJlaEplbUtOQkhCalRaQkJOeWNKZmR4U2stR25hMTZzLThBZXhtcWNOSTg2VUswNUVDeDFPYURqVU1JT0JZQ0o2ck5Qay1wQQ?oc=5",
+      "published": "2026-04-24T11:54:00+00:00",
+      "source": {
+        "name": "AgenSalute",
+        "url": "http://agensalute.it"
       }
     },
     {
@@ -694,16 +704,6 @@
       }
     },
     {
-      "id": "f15aa9fb3e1b",
-      "title": "“Ogni farmaco serve”: la lezione della pediatra tornata dall’Africa - Nostrofiglio.it",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHZ3Ymt4bG1WZHZObHN3c292alJMclU2cTFXTnNXQjVNem1kYzl6MmRXcGJwZnpFbjU1amFOaEljSGo5SnA3WVM5RDd0bTdNd0RMaE0yVnZQOFVLcTZBTFJ0ZHZmeUdWSW56N1owbzVqZXhib180a2FNXzJWdzI2XzNLSjFSdmRteWRR?oc=5",
-      "published": "2026-04-24T10:05:24+00:00",
-      "source": {
-        "name": "Nostrofiglio.it",
-        "url": "https://www.nostrofiglio.it"
-      }
-    },
-    {
       "id": "a9d2c4270374",
       "title": "Farmaci antiobesità e salute mentale: effetti psicologici oltre il calo di peso. Cosa emerge dai nuovi studi - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUFmbkJYVnFJOThDWldldGhBZG8xNUJjQTE4anZ1RWhWMldsaGt5NTJWVDRKWjBRWUVTWlNYakhsTTd6SzE0cmJQRVEycGlWTU1OSnRtb19KblFaOXFJaF9iU3Z6enIwSFNjWEYtMFNnejFHc21hT0F4QWd6U2dLZDk1TFNKYmh0aU1uT0ROR2NpYVoyVVk1UHZPcWN2SDU5X0dnb0JPQ2NuZ2lDM0k2dVVsZTAtdVJDUnhNNDk0SGx5UTZWQ3VLeVY3OTM2WTUxV250X2JJeFpWdlhjMWdwR0NvRW9Hb3Yz?oc=5",
@@ -711,6 +711,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "f15aa9fb3e1b",
+      "title": "“Ogni farmaco serve”: la lezione della pediatra tornata dall’Africa - Nostrofiglio.it",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHZ3Ymt4bG1WZHZObHN3c292alJMclU2cTFXTnNXQjVNem1kYzl6MmRXcGJwZnpFbjU1amFOaEljSGo5SnA3WVM5RDd0bTdNd0RMaE0yVnZQOFVLcTZBTFJ0ZHZmeUdWSW56N1owbzVqZXhib180a2FNXzJWdzI2XzNLSjFSdmRteWRR?oc=5",
+      "published": "2026-04-24T10:05:24+00:00",
+      "source": {
+        "name": "Nostrofiglio.it",
+        "url": "https://www.nostrofiglio.it"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "170e12597840",
-      "title": "Farmaci: medicinali scaduti a Roma, Lorenzin manda Nas - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBNNnFVWjB1d1AzVzJReUhPZ3VLMy1sVlhGU0JnWXg0WHg1YjdZTXBXR3YxQktCOFI0V05MdlF6NkdYUGVIcTc2MVJpOFBua3JkcHdvR2FsbVFyQW9ZTnQyVWdVSWtZTmdrSW0ydVh2Sng5NVhIRnVwTlN2MXFwLWQ0bDYyNzJSUlNSaExQZEMtQQ?oc=5",
-      "published": "2026-01-23T08:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     }
   ]
