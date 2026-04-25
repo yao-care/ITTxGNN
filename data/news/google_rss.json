@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T21:27:29.008036+00:00",
+  "fetched_at": "2026-04-25T22:26:03.355341+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "552371c90ae3",
-      "title": "Farmaci off-patent, con il taglio dei rimborsi può aumentare la spesa privata - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVkyaEs5dUFVSjl1ODhkOHNoZUpKX1VpUGFxc1NuNnI5UFFpZWphRUs2NVZqa2xWOHl3YkhpTXNzcFcteUxYVVptYlppYW5jVW9JV3k3dU16SnBnY1VISFZZeV82QVhMVnZ5aHFMaldEQUtRXzBKT2E1bEtlRlhZZEloS0xBLUptYTFZVzhaZG9mV2RNOVJWZ3NJM3BpQlF3TFZTbWQ1VDkwdkNBUzlxZXV4Wk5xakd4MU9CZUhfUzdsQWQ1Nnc?oc=5",
-      "published": "2026-04-23T11:59:25+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "42d09883ace0",
       "title": "IL SOLE 24 ORE * SALUTE: «ALZHEIMER, DALL’AGENZIA DEL FARMACO SPIRAGLIO SULL’OK IN ITALIA ALLE CURE PER GLI STADI INIZIALI DELLA MALATTIA - agenziagiornalisticaopinione.it",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYURnQ1RteTVnd0tvMkh3Tkx1cERwUmk4WnB3N3ZDWk5MNnE2VDJ2QmpvY0VvdVZFNi1hWHNnZy12SFRfN1A4Uml6UVVmYWQ3NmlFTkYxb0lZVG1aenFKZWVaSDFaUVlMZ1BNUDJ4SXZoRkh6RUZKSHYweWtCVW9Yb1FMbWFUNHpROS1NRzZTMTJQVVBpUnI3eDZtMXVJNElfVUppYWEtSjJIYWR4d3A0LXJBRFg0ZTVEWnBvcUxPcXhuRmxBSzd6TUxKZEFUSkp5VTJlX1E0dGJtTXhmdUxsZjMwRzN4OVJmNHZVaHh1czF5WEZEcWdneUxVNS1yRW12aG9HWC1HdEtNYjlvZlhjbFVKbXk5MzFtTU15U1ZR?oc=5",
@@ -104,13 +94,13 @@
       }
     },
     {
-      "id": "0f3f72c63687",
-      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
-      "published": "2026-04-25T06:18:00+00:00",
+      "id": "552371c90ae3",
+      "title": "Farmaci off-patent, con il taglio dei rimborsi può aumentare la spesa privata - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVkyaEs5dUFVSjl1ODhkOHNoZUpKX1VpUGFxc1NuNnI5UFFpZWphRUs2NVZqa2xWOHl3YkhpTXNzcFcteUxYVVptYlppYW5jVW9JV3k3dU16SnBnY1VISFZZeV82QVhMVnZ5aHFMaldEQUtRXzBKT2E1bEtlRlhZZEloS0xBLUptYTFZVzhaZG9mV2RNOVJWZ3NJM3BpQlF3TFZTbWQ1VDkwdkNBUzlxZXV4Wk5xakd4MU9CZUhfUzdsQWQ1Nnc?oc=5",
+      "published": "2026-04-23T11:59:25+00:00",
       "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -124,10 +114,20 @@
       }
     },
     {
+      "id": "0f3f72c63687",
+      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
+      "published": "2026-04-25T06:18:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
       "id": "0703d2b9c80f",
       "title": "Prurito. Dermatologi: “Riconoscerlo come malattia e campanello d’allarme di condizioni sistemiche” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3pGNlZkc0l4cnBvWVpWcmx5S1VaUTMyd0F2LWd3MjFRcEtkdzRWU1BSYVFrWDJ0ZWRJdHIteVVPSDNaZS0zLUNRVUUzTWdWYU0zaWs4S3E4MzdtVjdSZlRsbC1VQ0RqN1Y2MjBLT25QaURQTHRMLU5ETTV5SF9uZzMxMHZxa1hZblhJTVcwMHY1TTNPLXRvNjZkMDN2MFBEa1ZJcXJ2Tk9DZFFrd1dIbGZNM0JPWHFIbmtueDVnVVB5V052SzF5QXktUm1RdWNvWkJEZEM2Yw?oc=5",
-      "published": "2026-04-25T18:47:34+00:00",
+      "published": "2026-04-25T21:48:20+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "a4a57c2de24e",
-      "title": "Farmaci dimagranti: tra “reset” intestinale e lo stigma della scorciatoia - Salute Buongiorno",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXBoTkxsTXktMUlQN0hqeTlQcndrSUxpMkswMzIzN01ZT2x0bEVWcHFIUlRQeDBTLXU4SlN1RFV3bFBsNUtscUl6WXE1eFRMX3g2cm43X3dXeDhVM3ZKRG9sS1RZLW13ZS10eHpfS0c5czZULWRIbENVWUVNWFNqQkNRQksxSGM5VW40bF9FMnBwX1oxcEtRM0huX0REYi1BRnltb1pxc2RKTXpSSFZKXw?oc=5",
-      "published": "2026-04-25T04:34:48+00:00",
-      "source": {
-        "name": "Salute Buongiorno",
-        "url": "https://www.salutebuongiorno.it"
-      }
-    },
-    {
       "id": "d59ab73c5beb",
       "title": "Via libera di AIFA alla rimborsabilità di 4 nuovi medicinali, 9 estensioni di indicazioni e 6 equivalenti - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWVNMTB1V1o1VjAyRnVpNkNtMEZBSy1RUzYyTVgzS3NnbHBnVmRTX29rc1ViVmJkNU1UN2tsSDZDZWlwNmlJdjlmWDZ6cUpzUmR6ZDJiMml1SkxFVF8tendaY2F5eEs2UW1tYURNSXdENnByWHA3a1M1SnZ6MTliSVRwcWlsQ2xNNHhFT0tPbGR6RzZra1ozcl95d0hXY0ZFS1lGLTFQWGRKZW0tM3VrbmRFcjBwTkJYbnVwcVF1VnFvSHlsa2Nna2tNM2pHbXBqN3ppdm1wY0FENFE?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "a4a57c2de24e",
+      "title": "Farmaci dimagranti: tra “reset” intestinale e lo stigma della scorciatoia - Salute Buongiorno",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXBoTkxsTXktMUlQN0hqeTlQcndrSUxpMkswMzIzN01ZT2x0bEVWcHFIUlRQeDBTLXU4SlN1RFV3bFBsNUtscUl6WXE1eFRMX3g2cm43X3dXeDhVM3ZKRG9sS1RZLW13ZS10eHpfS0c5czZULWRIbENVWUVNWFNqQkNRQksxSGM5VW40bF9FMnBwX1oxcEtRM0huX0REYi1BRnltb1pxc2RKTXpSSFZKXw?oc=5",
+      "published": "2026-04-25T04:34:48+00:00",
+      "source": {
+        "name": "Salute Buongiorno",
+        "url": "https://www.salutebuongiorno.it"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "35ce8734ce7a",
-      "title": "Più esami e farmaci significano davvero più salute? Il dibattito ai “Mercoledì della medicina” - IlPiacenza",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalNuaGQwaWV4X3BjcGlNMEdTSVd2elFVa2NDSk9QQlpMc1N6clo4MFVDN1gxX2JmR2trM0ZvVkNxYWR0cHZ3X3Nwd0wxNkFYVGtrVXMwU05nelF6T09kRHhobE1laldaY24xU1JfZTYxLWRsb3BwWE5ZRWlpVjhGbDB1eGpSRmxLTlNkSk5rUVRMQjhXR3dWZTJOSE95SnFuSVRoZUttUVRFcUVjTENxX2dUYlBkRnFZQTJrcGJsUzdiMi14M2sycw?oc=5",
-      "published": "2026-04-20T14:09:00+00:00",
-      "source": {
-        "name": "IlPiacenza",
-        "url": "https://www.ilpiacenza.it"
-      }
-    },
-    {
       "id": "6a0e7a1d8da0",
       "title": "A \"Basta la salute\" il farmaco per chi vuole smettere di fumare - Rai.it",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjh4eXYyS2ZBdjBiWm9Scmd4NGQ0UXF6TkhZX2pmQUYxb0hEUzhYT0p4a09xc1Z2T2lCZ2xwS2lUMWFTTXJhb2R3NWRMbmZKQ05uQW9NQmU4bVpEX0Y1a3AzZngxQVJPZUFuaUdxM3h0QWtwT2Z1OGVjV0FzamJ2WE1TXzU1bEY0Qnk5TkF1ZVUxajkwWHM1S3pWQTJDTzZxNUE3OXdPRmY5M0hqRDQ4ck05Uk9wTGlNYjFMWlloWE5heGdXUHlWU21kYk9GUVVsVHYxdHIwTVpCOWxSNnRkOHNmZFFDWVNY?oc=5",
@@ -324,16 +314,6 @@
       }
     },
     {
-      "id": "e5231cb0e9d9",
-      "title": "Gesti, parole, attenzioni: la cura della malattia va oltre i farmaci - Unione Monregalese",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzFNR2RaMklSQW9BcUdmU002NUtaWjdKQTljY09iZ2pVeUVaQmFFRmlndExHYkZITGJwSWRXXzdFUzZBTjFMTlpYVzQ3NE5rVy1HakRPYkNyNUNTNW1zN2xMR2I2ZlVTQ2V5cXMyY2FsQ0EtLVVybEo2Uk1IVWc2bUU1RlFzTVlMVHZROXktYjdFdjZUcDJWRlRtMHVhalNsTEFid05pV2VNbUpEY3lpVXJLODZlSjdiY3pKbHVjdw?oc=5",
-      "published": "2026-04-25T07:51:00+00:00",
-      "source": {
-        "name": "Unione Monregalese",
-        "url": "https://unionemonregalese.it"
-      }
-    },
-    {
       "id": "90e5b1173c22",
       "title": "Giornata della salute della donna: farmacie e territorio insieme in prima linea - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDRBcTVEVDlkeE5kaWJnS0ppR1pWRTM4V29TaXhzM3hvWjVVSEVxWWcwZVNkY0RXcGd2UEpXMGtpdWlELUhielk0cnNrSnlFQUlweloxWUxQQ2hybERyOUNiUmpuM1F2OUhoeWktWElUVFN5UVJTR2FiNlFOWTI4ZUpzSTZWOWZsaXhtbW4wa2djYm1FMzZhdkVpeHk5QlJfVHZBWkc5aUR2N0k?oc=5",
@@ -351,6 +331,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "e5231cb0e9d9",
+      "title": "Gesti, parole, attenzioni: la cura della malattia va oltre i farmaci - Unione Monregalese",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzFNR2RaMklSQW9BcUdmU002NUtaWjdKQTljY09iZ2pVeUVaQmFFRmlndExHYkZITGJwSWRXXzdFUzZBTjFMTlpYVzQ3NE5rVy1HakRPYkNyNUNTNW1zN2xMR2I2ZlVTQ2V5cXMyY2FsQ0EtLVVybEo2Uk1IVWc2bUU1RlFzTVlMVHZROXktYjdFdjZUcDJWRlRtMHVhalNsTEFid05pV2VNbUpEY3lpVXJLODZlSjdiY3pKbHVjdw?oc=5",
+      "published": "2026-04-25T07:51:00+00:00",
+      "source": {
+        "name": "Unione Monregalese",
+        "url": "https://unionemonregalese.it"
       }
     },
     {
@@ -444,6 +434,16 @@
       }
     },
     {
+      "id": "357820069685",
+      "title": "\"Più farmaci, più esami, più salute: ma sarà vero?\" Nuovo incontro dei \"mercoledì della medicina\" - piacenzasera.it",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmdqZm5lSUhmSElhX2tCM2RGam16aWM4bEJyaml2d3dkMTFkSXZsNkhNTUJKdXlaaGltdDJrRGNtX0ZlVWZvMnhhNVFvT1Vtbl83WG9EaWNuUHc1VGVvNlFhSGZRZkY0NmhUd2tZRkxGUkxnQmFLakNjNy12NF9mWDJaRTdqTDF3a1VLbnFCWUFESkI5LXFzNXRlcF9VbGxmUmk3R0ZBVS1vSGN3YTFCMElQZEtOVWY0UjdScW41c0FjTmdjc0xiUWxMdTNydw?oc=5",
+      "published": "2026-04-20T11:02:00+00:00",
+      "source": {
+        "name": "piacenzasera.it",
+        "url": "https://www.piacenzasera.it"
+      }
+    },
+    {
       "id": "ea9deea32c4c",
       "title": "Farmaci: Alzheimer, da Aifa societa' di neurologia e associazioni dei pazienti -2- - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5STldCTndMLUM2ZTJvaEhITWRWLXlVZGgxd254NS10aFZicWtXZGtmM0hRTmlYWXMwd0FFSkdvQ3dYdU9wTnVLRUx2dk1XclFRT0w1R2M4M2p6Q3dnelRmcTdJSWVFdFlrOHctRw?oc=5",
@@ -451,6 +451,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://en.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "0ffa4599c872",
+      "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
+      "published": "2026-04-13T19:13:44+00:00",
+      "source": {
+        "name": "INNLIFES",
+        "url": "https://www.innlifes.com"
       }
     },
     {
@@ -481,16 +491,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://mondosanita.it"
-      }
-    },
-    {
-      "id": "2e201b20fe40",
-      "title": "Austerity e salute, Garattini: \"Prevenzione riduce farmaci, esami e pressione su Ssn\" - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqZE92VmhydThQTE5TR3JYSGpLVEtxaGpZOEIwZ293Y21qR0lOeWstb1l2eS1aZ0ROZEY5VGZfb291NjQ1OE1FNmRkWEhNUVV5b1gxVlNwTW9HUkswT3FEeVhPdUk1Yk1ZcU1URThMN2wxd3kxUjlyeHUzWUlXeVFnWU90a3o1RWlVRWJMeXB3YmZHcmMxQ3RVWGdHWlhLSkswQ1NfQUExX3RoWEk4cGIySzQ?oc=5",
-      "published": "2026-04-08T11:30:34+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
       }
     },
     {
@@ -534,13 +534,13 @@
       }
     },
     {
-      "id": "e0fb96baa480",
-      "title": "AIFA approva 4 nuovi farmaci rimborsati dal SSN: nomi, indicazioni, classi e passaggi operativi - Sbircia la Notizia Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EVWpqUlEwYjZtal9FN1RoRS0xWWstclJKWE9sT2J3S3d2X0p1ZGZpa0RTek42RzRnRnIyN1UyY3ByUmlHd081YVp4bER5eXZmaW1na29DVTJJUXpJZnRPWV9mR0hZeHpaTEZiVldfb2FIS3dDMXZjSnFPMTF4QQ?oc=5",
-      "published": "2026-04-25T08:56:00+00:00",
+      "id": "a8ac53e56d9d",
+      "title": "Farmaci rimborsabili: dall'Aifa arriva l'ok a quattro nuovi medicinali - MSN",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeHc1dUJ5X0tuU1Mxbk1DVndqamh1OGxuS0EwRC01Y255Q2prWkRpaEZFeVEwcXRIVThVUDEzMTlpRnRrRl9PX0VmT05VWTgycGhIQXlyRzFFMzZFVTVlVjVQeTk1aGdTem9fdXhTVmtBbkUxTDUxVGJoRkRINU5CMExVMG9IR3RPalpHcjBuaXlUSkVhYTUyc2lJZkRXWUlTQWFDWmZ1M1pNYUVWYjlWNXQ0UUdFQWtWaFRiWFFrdlBsaDRDUHY4dmpRdTFqRkhwY0ZxZGNlRHNndkJFQU5yM2UzaUVyWlJESGVtNVVpZEI1cTJJR2NoX2ZiUjEwOUJS?oc=5",
+      "published": "2026-04-25T21:38:19+00:00",
       "source": {
-        "name": "Sbircia la Notizia Magazine",
-        "url": "https://www.sbircialanotizia.it"
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -548,6 +548,16 @@
       "title": "Alzheimer, AIFA prosegue la valutazione di lecanemab e donanemab: cosa cambia per pazienti e SSN - Sbircia la Notizia Magazine",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IV2RjOWRfdG9VU0o0Y19xQm4wQ1N2X0g2MnZ3MndaX1dhV2luZWlUSTdkYTRXSThnS3NSMENkZjlGcTJVYWpybWQ4RUJJZG94d3E3ckNXZlcxbkRjRzdrY016Y2h0dkxIc3BmZXR5Z3B6czhlVHBCOTRtR0F4dw?oc=5",
       "published": "2026-04-25T14:25:00+00:00",
+      "source": {
+        "name": "Sbircia la Notizia Magazine",
+        "url": "https://www.sbircialanotizia.it"
+      }
+    },
+    {
+      "id": "e0fb96baa480",
+      "title": "AIFA approva 4 nuovi farmaci rimborsati dal SSN: nomi, indicazioni, classi e passaggi operativi - Sbircia la Notizia Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EVWpqUlEwYjZtal9FN1RoRS0xWWstclJKWE9sT2J3S3d2X0p1ZGZpa0RTek42RzRnRnIyN1UyY3ByUmlHd081YVp4bER5eXZmaW1na29DVTJJUXpJZnRPWV9mR0hZeHpaTEZiVldfb2FIS3dDMXZjSnFPMTF4QQ?oc=5",
+      "published": "2026-04-25T08:56:00+00:00",
       "source": {
         "name": "Sbircia la Notizia Magazine",
         "url": "https://www.sbircialanotizia.it"
@@ -641,6 +651,16 @@
       "source": {
         "name": "AgenSalute",
         "url": "http://agensalute.it"
+      }
+    },
+    {
+      "id": "81d69817e3a3",
+      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -764,16 +784,6 @@
       }
     },
     {
-      "id": "9f62357b6491",
-      "title": "AIFA: nuovi farmaci autorizzati - AbruzzoNews24",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00N1hwb1Axd0lSZzhveVBBbHRXZWNRZU12QWpMbDd3a1RVMUY2STU4TTdleWVPYXJfVGNscmJSV2hJc19zYnJEaTVQY2tKY1B6dWctUmRXcXgyMDJLeEFpWGduZWYyOW1FWi13SmpR?oc=5",
-      "published": "2026-04-25T18:00:45+00:00",
-      "source": {
-        "name": "AbruzzoNews24",
-        "url": "https://www.abruzzonews24.com"
-      }
-    },
-    {
       "id": "1c4095dff439",
       "title": "Farmaci antiobesità e antidiabete: benefici anche per la salute mentale - Federazione Nazionale degli Ordini dei Biologi",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT095Mng5S1Y3TlRtcWdsdmpPaENRYllSTExSZWRUNjN5R3lUSEtuYXRuRy10ZTRHVFBDWUNEdE5IWXNNVFM1VlVHT0d3RF8tN2xjWklmQkplYlZvMnFIZFhPQUpOSEphWDE3eXMwN1N3R2ZJRFhWVEpNMzRkZlJYZ1l5aHZrR3lWWXM0Z3lkZVFkMWplOEJWWUc4QU5VWmFVTFlPZg?oc=5",
@@ -801,6 +811,16 @@
       "source": {
         "name": "Panorama della Sanità",
         "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
+      "id": "9f62357b6491",
+      "title": "AIFA: nuovi farmaci autorizzati - AbruzzoNews24",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00N1hwb1Axd0lSZzhveVBBbHRXZWNRZU12QWpMbDd3a1RVMUY2STU4TTdleWVPYXJfVGNscmJSV2hJc19zYnJEaTVQY2tKY1B6dWctUmRXcXgyMDJLeEFpWGduZWYyOW1FWi13SmpR?oc=5",
+      "published": "2026-04-25T18:00:45+00:00",
+      "source": {
+        "name": "AbruzzoNews24",
+        "url": "https://www.abruzzonews24.com"
       }
     },
     {
@@ -841,16 +861,6 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
-      "id": "43157335b291",
-      "title": "Malattie rare e accesso precoce ai farmaci: obiettivo equità, sostenibilità e riforma del sistema regolatorio - Pharmastar",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV09pVklUX0V2RURjOVk0alNWblZ6cTNlMVJISDJHaGhOQmlvUHM0QjNodVJ2QWZob24tYmJCUmZMYl9zYUJPazdBNHNwbkJ1NDB1TGIwM040enZVOTAzemRoSFlWQkZ4TU9RdHlncWJvZUc4ZmlBRXJDSHBRZGVHTTFwaWRBTDBncXFnTmc1eWNKRk9lM19vTmVTQW12c3lkbm5WWXNVVlM2bU0zdU1MeWVkM05TUlFiSE45S0ZnYVBnc0pIUDVLdm9WUW1ocEZEdHotdXNlRlhFVzllODN4WjhlbzNSQmVnbVNVb01R?oc=5",
-      "published": "2026-02-27T08:00:00+00:00",
-      "source": {
-        "name": "Pharmastar",
-        "url": "https://www.pharmastar.it"
       }
     },
     {
@@ -934,6 +944,16 @@
       }
     },
     {
+      "id": "d03af66e04da",
+      "title": "Farmacie di prossimità, i cittadini promuovono il nuovo modello: più accesso a farmaci e servizi - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUNtUmlNbnRkRWZ3a0RvY0gxLWxSanhqSlNRZzdBaXZnMFdWY1I1SGVFbk85d205MEhzUnR0VFpQdzdVZWNQQ3NyX1NlZl91R2hRdlJGaXhhOGcxYXhJdnA1Qlp3MExKN2hua0JBUndKakVQUXhUMTFkNWtqVVZuWjE5cVYweUFCR1UxN3F4U3ppaVJEZ3hTMjJJbEZDbFBDYWwxRGlEYU0xWGRrVnh2RzBLSDdOS243LUh5RzJuVGhEMzVBUlIxYQ?oc=5",
+      "published": "2026-03-11T07:00:00+00:00",
+      "source": {
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
+      }
+    },
+    {
       "id": "4e1ded887375",
       "title": "Immissione in commercio medicinali veterinari (AIC e variazioni): in generale - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWktYaUFXa1UxMXpYTmlkSHRfNlZLQmY5VDRIRXItQTBybWxaeV9aQkNINDhSMjhGNWdENElzenJPTVNRQmxiZW53aVN3ZVBJMXMtdjgzdkJHY1hUTHppUW1kcTJucURKdGQ4QUFjM21kWGFZcnZwTkJCTGktVkMyRGRmOUltekY0NFRVWU5QM0tJamwwWm9JZkpGLXhxUXFlTzdhQW90dmhTekxuZ0hRVWNfY2pDdFRud0ZxVlBvZw?oc=5",
@@ -974,16 +994,6 @@
       }
     },
     {
-      "id": "05fbe3843420",
-      "title": "La cultura della donazione che nutre la tutela della salute - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU1l1bUJzaTFudmdsbERiZE1zUEpVWEZmRHNMamY0eS1EMW91QVBPNTJubjJFOUV3UGxnRFZlNUlTQ0ZodlBWQzZOTklvck5RSTZlRnhickR0Z0dzY0NFbEJJNGdiTThIYldZZktWUklBY3dFWW5RNHl5aWRpOG5ZMGliemlwRi16Nk1sbXJCWEVKMGtlNEdCVEZiNFR3b0xHd1N0X0NVQ214TVZIcUJ5QXo4cFRGczgwSWRPUzRkWk1GVTZHUzJtVGxGREFSUXpmVmd1Rmx5Q1Njb0RTSHpDeDY0X3FVQUl6OUlKand2N3V4eUt6SmlDaEpyQ3JBNVNKOW1WYXozSHA1YmprSVotUzMtMFNwaG14U1ZXbmtWZ3RlR3hIRTctV1FMNENMYTEyaW1mSExfYlhmcUx3TDF4XzM4cTZQelg3OWlTUnpQcDNPRFpCS3V0enphT0lCNlHSAeQCQVVfeXFMT1dxYmtJdEw0QjNDbnltZUMwY2tiQ280ZktBRkRpS29NaU1RWHQ4ZDAtRFVZdkVJMlBZbkhxVzIzQ3A0UnBmdGF2ek5HU1BzSmpzdmZ3cnhidk1OZjUtdU9pQ3dqRVlESnRUd0E1RjhDclk0eUgtbk5lWlNfanVPTWNCN0ZhVkk5bGktVjhORTdSYTNoV0NrendkS2xDR1NFeGZwR2JSQ0w0Y2E3LW51ZjdpdC1CbXF3Y1pYUVVLQmVtOG1iZTg5Q3c3OUFPTWJ0Yi1wZmNvRlR0Y3lJZjdLSk9kdjZPVWI3VUlBTEx5eVdmZ3I1SGQzREI2SEJ1aHhEZ3hpOEdQV0FXa093cWhObjF4OXJpdXVUbjNRWXBkX3J3OVo5TUVuX2lhOVlvb0pGNnltZmpsdGJkQUVxWDFtRk15WDF5MWEtZmJxZDR4NFBMTVc4ZmIteHVodzRJU1FMaDUxYUY?oc=5",
-      "published": "2026-02-14T08:00:00+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
-      }
-    },
-    {
       "id": "1b6acdfdb9fc",
       "title": "Salute in movimento: farmaco senza pillole - Altalex",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3ltblE3elliajZXYndMc1ItVUg3djVFNlRIZmdGYmxaZmxpWHVNUW10U1JPMk4zajZIczA0RFM4NWZhT2hGM1ItTUVuVXREajZ0eHNnRmJnRXpnX2VaUUl3UXJtZkpVMFlobldNajN4YWlLWGlDYXV1cE1kSXRScGE0ZzdtZnVhUjBQWnQwQ1AzYnVXWUE?oc=5",
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Altalex",
         "url": "https://www.altalex.com"
-      }
-    },
-    {
-      "id": "3ddd9a170b0f",
-      "title": "Svolta per la celiachia: verso l’addio alla fastidiosa biopsia per la diagnosi (ma non per tutti) e nuovi test più precisi - greenMe",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGtmX2t1Mmo3TjRjRTY1YWw4T3Y4a1FBSWZkYmljY1hzNEdXR0NudzY4NjZ1YUVVQmhPOVRCdFBoZXZHYmRBdDRZbzVfX1hnUWNMQUxpMHVKYUxXVTFCcjRVWWNPbDRTQlRHTmhwZVhvNmJncmdMLVUzNnh6X3B6ZFk3RlhkQWlBdkl4V0wxM3BEalljcEE?oc=5",
-      "published": "2026-04-23T14:07:47+00:00",
-      "source": {
-        "name": "greenMe",
-        "url": "https://www.greenme.it"
       }
     }
   ]
