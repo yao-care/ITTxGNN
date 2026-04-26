@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T09:43:49.595915+00:00",
+  "fetched_at": "2026-04-26T10:36:26.801482+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -117,10 +117,20 @@
       "id": "0703d2b9c80f",
       "title": "Prurito. Dermatologi: “Riconoscerlo come malattia e campanello d’allarme di condizioni sistemiche” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3pGNlZkc0l4cnBvWVpWcmx5S1VaUTMyd0F2LWd3MjFRcEtkdzRWU1BSYVFrWDJ0ZWRJdHIteVVPSDNaZS0zLUNRVUUzTWdWYU0zaWs4S3E4MzdtVjdSZlRsbC1VQ0RqN1Y2MjBLT25QaURQTHRMLU5ETTV5SF9uZzMxMHZxa1hZblhJTVcwMHY1TTNPLXRvNjZkMDN2MFBEa1ZJcXJ2Tk9DZFFrd1dIbGZNM0JPWHFIbmtueDVnVVB5V052SzF5QXktUm1RdWNvWkJEZEM2Yw?oc=5",
-      "published": "2026-04-26T06:50:18+00:00",
+      "published": "2026-04-26T09:50:54+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "3f56497b1a0c",
+      "title": "Aifa, via libera a nuovi farmaci rimborsabili (anche per smettere di fumare) – L’elenco - Il Tirreno",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONF91VW5UamlGbjNoRkJnMERwbDRtcGZHeUJ4aWlNRXl5NnIxd2xpT25GWnpHdGEwYTB4azhoZDd5eTNybGdYZEE1WlNoTXFkMXp2QUgxWWJKQkhsZDRrTExOQkVTNnR5YUxHYTVsMHQyRTFDMnJVbGg5cWpwYVQ0OTZOS25CUmVYUkxJRkJ5WFNyZzgxZEpJOEp4XzQyRGJQTjdRWnZyM1FURWZqbGRpQ2JzRDRFMmhCelMyQ3lSU0RybnNtdHBWXzFFZHBKNXM?oc=5",
+      "published": "2026-04-26T10:25:00+00:00",
+      "source": {
+        "name": "Il Tirreno",
+        "url": "https://www.iltirreno.it"
       }
     },
     {
@@ -524,6 +534,16 @@
       }
     },
     {
+      "id": "dcafb47fa105",
+      "title": "L’allarme di Aifa: il 2024 non è stato un buon anno per la lotta all’antibiotico-resistenza - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd29CWmVKd3FJajVlZzdFaDBHaWY3YVg3eXNSd3dDeVVMZ3N2UUZ5YUxMR1pHTWZsdUdWOHdiNDA5YzZYRExYMHhGVGFoVXZSOEJHVUpET2txMFhOOTVsS1NGcFNTZjRpYkJya0FiZ2NQaXdyX0FjTGFlVjhGaHV0Z0xfeUJfbmR4T2FBQk1KTzdaZl8ya0ZCOWl0bnZySWs0MXB2QWczNXdJZGVqSkhnX1Q5YlRGSm1G?oc=5",
+      "published": "2026-04-24T10:45:33+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "b424064e82f9",
       "title": "Intelligenza Artificiale e salute: le agenzie regolatorie al centro della rivoluzione farmaceutica - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0hZSkJxZ0RzdjB6LTYydUM1MUwyQW9lN2xrc2pMVmk3WlltelEtNzNFaHlRRWRiWE1WUnVVQkNvclBlcEFPWkdLdUtrLVhJSWpVa0liNE91bnRDNHppOTJTWW5ITnpYdTVQSXowb29CUFBybzR6a1ZJc0YtVE9QTHh3X0FYWVdCNkhva1ZKclNLazZNR1FKV0Y3ekNXV0Y5bExVQ2E3a0kyb3N0cXRvNXUwWWF4bXljbHFZelBtUEY?oc=5",
@@ -554,16 +574,6 @@
       }
     },
     {
-      "id": "cce5baf74cd9",
-      "title": "Farmaci rimborsabili: dall'Aifa arriva l'ok a quattro nuovi medicinali - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUmFaSW9tR2lzeVlvQV96QmtSbWVxSWVXbW83am5SX1ZIY01zbU9ydjAzZ1VpQmtsTFFfR2pwQnd6aGZXa205NDlPU1EwWjRiTGtLZEdQV3E0Yk1rVmNQNW9RZzVLTk1CM1hhWlFnT0kyNEJZU2lFcW9xdE53eFRTY1hVN3BLYzhRcUU0TGhCcVEwRWFLal9mZFVtWGV1cjk4ZGdzR2xsVmJLYzl0RXBuVzVaTi1RR2Q1ZWZkNFdnYmRESy1BYVprRWtlUFJWS2NGelFQT0FHOGR1dE9uRFpRV0pCR3Nxb3pWVGNiMzFKUm11dXdBTU1VXzBHTmY1bHRRTkE?oc=5",
-      "published": "2026-04-25T22:28:05+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "99b4f630e76e",
       "title": "Libri ‘farmaco’ per salute mentale, cosa dice la scienza - gazzettadireggio.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjJaTjJ4U3JuVl91WjhTLUJOSUlvNWQ3R3NsSzQyVEEwRC1NUUVLSEJ2MzZXMmlhUlVCZGctRXplSjc2cFR4U09qd0JyZF9hcUN2SlNlQmliakJfNlJQZEh0dXp3bWRSSkFBTmtCRUpJd2xIWFdfZk5OV2FNbkd5TWctbTJKZDc0N0U4MTF2b3U3bllKbFBDY2ZKaE5SYUk?oc=5",
@@ -571,6 +581,16 @@
       "source": {
         "name": "gazzettadireggio.com",
         "url": "https://www.gazzettadireggio.com"
+      }
+    },
+    {
+      "id": "cce5baf74cd9",
+      "title": "Farmaci rimborsabili: dall'Aifa arriva l'ok a quattro nuovi medicinali - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUmFaSW9tR2lzeVlvQV96QmtSbWVxSWVXbW83am5SX1ZIY01zbU9ydjAzZ1VpQmtsTFFfR2pwQnd6aGZXa205NDlPU1EwWjRiTGtLZEdQV3E0Yk1rVmNQNW9RZzVLTk1CM1hhWlFnT0kyNEJZU2lFcW9xdE53eFRTY1hVN3BLYzhRcUU0TGhCcVEwRWFLal9mZFVtWGV1cjk4ZGdzR2xsVmJLYzl0RXBuVzVaTi1RR2Q1ZWZkNFdnYmRESy1BYVprRWtlUFJWS2NGelFQT0FHOGR1dE9uRFpRV0pCR3Nxb3pWVGNiMzFKUm11dXdBTU1VXzBHTmY1bHRRTkE?oc=5",
+      "published": "2026-04-25T22:28:05+00:00",
+      "source": {
+        "name": "MSN",
+        "url": "https://www.msn.com"
       }
     },
     {
@@ -614,16 +634,6 @@
       }
     },
     {
-      "id": "d342c97fb0f9",
-      "title": "Alzheimer, AIFA prosegue la valutazione di lecanemab e donanemab: cosa cambia per pazienti e SSN - Sbircia la Notizia Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IV2RjOWRfdG9VU0o0Y19xQm4wQ1N2X0g2MnZ3MndaX1dhV2luZWlUSTdkYTRXSThnS3NSMENkZjlGcTJVYWpybWQ4RUJJZG94d3E3ckNXZlcxbkRjRzdrY016Y2h0dkxIc3BmZXR5Z3B6czhlVHBCOTRtR0F4dw?oc=5",
-      "published": "2026-04-25T14:25:00+00:00",
-      "source": {
-        "name": "Sbircia la Notizia Magazine",
-        "url": "https://www.sbircialanotizia.it"
-      }
-    },
-    {
       "id": "7bcf82d6b98c",
       "title": "Accordo tra Donald Trump e Regeneron: farmaci su prescrizione a prezzi ridotti negli USA - MeteoWeb",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjF6TTFkWUt3d0pJUnVTZGljeWNXT3l4WDBTNUNaalAwSlFYMjM1bkhvRzA3anRLXy03YXNvdzhNV2REZjdZbTJIYkd0SjNocnhVMy1vOEFPU2g5YWZESTNPYjc3d2pxLVlZSDFZdmc5UFQ2ZDZzeWFEbE9xQkxhYnE4ZFVDRk93Mldab3NVRHJLZlNfZkNGa0E1bzJhVDFoekx1Mk1KRHVra0dlV2tGOUxHT09HZnFLeHEtZzRkNUplWmJfLVN6RlFJONIB0wFBVV95cUxPZnl4WkRwZWdIclFLeklGY3MxY1hoVzZjYXFCTmRZQ0ZLaE5OeFplX3ZsMk1XSkY5bl9RbWtTYXhYQUlBc0g1SDFvNlRzU3h5RlVjTDdyM1hSMTFObHF2dEE0cWdRRHdtRXVjdWtwbDluN0FTTzJDZkE0cUFHUGtfUUFTdmVTbENPU1Y4SGdFN243NUNiTWdTcmNOdTdZR21PNzBYZ3pqM1hQY2dkOHJ3Z1FtTDB1UVdGSl9wUFhpajRGWHNPclMwWkNVSngxUS01QWo4?oc=5",
@@ -641,6 +651,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "d342c97fb0f9",
+      "title": "Alzheimer, AIFA prosegue la valutazione di lecanemab e donanemab: cosa cambia per pazienti e SSN - Sbircia la Notizia Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IV2RjOWRfdG9VU0o0Y19xQm4wQ1N2X0g2MnZ3MndaX1dhV2luZWlUSTdkYTRXSThnS3NSMENkZjlGcTJVYWpybWQ4RUJJZG94d3E3ckNXZlcxbkRjRzdrY016Y2h0dkxIc3BmZXR5Z3B6czhlVHBCOTRtR0F4dw?oc=5",
+      "published": "2026-04-25T14:25:00+00:00",
+      "source": {
+        "name": "Sbircia la Notizia Magazine",
+        "url": "https://www.sbircialanotizia.it"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Pharmastar",
         "url": "https://www.pharmastar.it"
-      }
-    },
-    {
-      "id": "3f83a393fe77",
-      "title": "Farmaci alla dimissione dal Pronto soccorso, sì alla dispensazione diretta ma non deve gravare sui medici dell’emergenza-urgenza - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWjY5b3ZNLXc4OXBKbU1ZbGFUN1BIRHRRejM3b1BHWGUzTzFIYjdKZE1aNU9qNnN2b3JieFdzbU1mMHNVM2UtdHUtc3RpWFBBaTdhOGdDdVpmel9ldGwwS0ZmRHdETk1NdzU1eTZxWXlWQXU5LWEwUXhFZ0NIZzVSbUl6V1E1WmY5Slh0YVh2S2JjSGNtaHdFWTJlRE9fOWdwN1VfZllYNmpfT04tWDNhYkRQRzFaT0Ntd0s2YWo4bk9zOW94MEd4RnF4QUxGODcyQWx0R1cxX2RId0REakF4MVhTMHBNTzI3VmFGZjR0VjlhV3pOSW9FM3BveWdlR3QzdU5rM09IYXdGTExU?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "bd4da0ca20ab",
-      "title": "Dimagrire con farmaci proibiti, tutti i pericoli per la salute - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclFtWHFYTmRLX2JyZ1JRaVduZUtDaUUtaE5wcHZvdjVvOHhFaG91Z0VPRDkxTU1DMUdxMnVzb0JZQmMtVUlFUWFVYnVxUmlPdWJsbmdTX0NoaXhpWXZHM1BpSkhVR0dEbG1NYmk4VHZkbThja2JpTGRQRy1FLWpST0phS2NLRDAwUFpJeGktUjFzNk9Ha3ZUbVNVeTJPbGdKMmVnQy1OLVQ3dlhuaThoWFROWldLTE5YdHVXZGliZlLSAcYBQVVfeXFMUEJIdVdvTUZzWnFqenlHZnktS2JXVWVWTEVyVjB2eHY5YlM1YUhCSnJGcFJmMzVuOEpkLUpsS3ZjR2NWZGFPbExGaWVnRlA0cDdXNmpnODg2VXlPZzhvMEFHdXhGT29PeXh4T1k1X1V3RXNZbmoycjJ2RWJ5X243Yk1meWE5ckUyM25oZVlJWkdiMzNyMVNSc2dxZkxMeTZzMG9EQnE0cF95Szc0M00xblN3Q3dQU1dyWWRsWktCNnoyYzJIRm1R?oc=5",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
       }
     }
   ]
