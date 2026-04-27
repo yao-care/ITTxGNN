@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-27T19:27:26.173528+00:00",
+  "fetched_at": "2026-04-27T20:52:04.392523+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "5de2505cbaa4",
-      "title": "Farmaci e dispositivi medici: a Pavia un centro studi sull’Intelligenza artificiale - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2d1RnhwSi03QzF2Vk55ZUFBbjgyZkJveXhNTkd4ZWNMX0ZwRTFzbkJfc2VsRUhZVGFrNFVYT05PbEdRQTUtVHlWbERaRU90dWtBTkV0UTRmUUZ4UW53MjNGMi1HZ0JRYnRRX2dhSlNZRHdBb2M3LXVxTURuVlJTVXBCNVhnV2t6RnI3VVg5RWdHVm5oenlVR2t6RzF5U3ZZTHUzT3VOOUhmdXFkTHd0LXZDcnNFUXpUS0E?oc=5",
-      "published": "2026-04-27T14:03:53+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "b0574df7387f",
       "title": "Farmaci per l’Alzheimer: audite in Aifa società di neurologia e associazioni dei pazienti - sanitainformazione.it",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEwtYzZyT1RHT1lMUUpMZUlSdGM4b2xLelRRdlRmRXVySWc3VmZJd1JMQWtlc050YVBwM1Y3U1NoMjhIYlFyaUN4Z1dVWFl1WHlNTFllYXhIak5VWmR3b2txalRHZFpwOGQxZFhMbExVcjc2T0hWTUdsTkEtajBIRlJvQWRqU2ItS28zc2xXMG5fRUhWRDlFVXFVSHpydS1sSXBleVoxa2J3OUVDS3RXSTc3ZzN2MnVSSHdMR2FFcw?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "sanitainformazione.it",
         "url": "https://www.sanitainformazione.it"
+      }
+    },
+    {
+      "id": "5de2505cbaa4",
+      "title": "Farmaci e dispositivi medici: a Pavia un centro studi sull’Intelligenza artificiale - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2d1RnhwSi03QzF2Vk55ZUFBbjgyZkJveXhNTkd4ZWNMX0ZwRTFzbkJfc2VsRUhZVGFrNFVYT05PbEdRQTUtVHlWbERaRU90dWtBTkV0UTRmUUZ4UW53MjNGMi1HZ0JRYnRRX2dhSlNZRHdBb2M3LXVxTURuVlJTVXBCNVhnV2t6RnI3VVg5RWdHVm5oenlVR2t6RzF5U3ZZTHUzT3VOOUhmdXFkTHd0LXZDcnNFUXpUS0E?oc=5",
+      "published": "2026-04-27T14:03:53+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "0f56ae5d2791",
-      "title": "Farmaceutico - L'indiana Sun Pharma acquisirà l'americana Organon - Websim",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkFSbWxNMldaX1hFcGFhOXdZU2Y1VGloWk5pNVVCMUhlVi1SdjlsYU5PdGg4M2JZaVRPR0E3TjBxaUdXX3Q4WmtsN3daZzBIZ2NvX244aVpLanB0emZ4TjFBek1HQllIWVJUOFR5Zm9MMWQyYnRaSVVLbkZucnl2NzNUM3NIX2F6RHNYZWhja3pYZGlxOUR1Y1V5NjNvOWM?oc=5",
-      "published": "2026-04-27T08:15:00+00:00",
-      "source": {
-        "name": "Websim",
-        "url": "https://www.websim.it"
-      }
-    },
-    {
       "id": "454fe53a59ef",
       "title": "Dispositivi medici - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnVjaURacnZUaVIzV280bmVCbVJVdzJpWnRMN0Y0aTliNmRubDVUdnhMbUpES1U3WVNrT0RqS0d1NnVYWnA5ZGxBLWE1cU5xU3J5dEd3ZDBIcDd5bHM5RE1ZNlV0aHVLTkRMd1VIWXpPdTJXQ3c?oc=5",
@@ -187,10 +177,20 @@
       "id": "8544b6ea28fd",
       "title": "Farmacap cerca farmacisti, avviso di selezione per l’assunzione di 4 collaboratori - RIFday",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzZfZVNyZldVcUMtSmtlV3p5Ukw0V2FwemdwU180U3NZYlo0YnVkN2Z1VVhZekF5N05rbHhNNlBBdE10dU04czg0eHZHQkQzMl9YUEZ0UEt1dnpFTmFXY3VoWFlPN0NPQ3Z2X1VXeHZRMy1iOGtpQXNkU1NJcTZDeEs2M3dFSjhfS3VHNWs0YnFoUEtJbVBXOGQ0b2h1V241UkFfc1U3WlpBNFVYS0lMTkJrSEY?oc=5",
-      "published": "2026-04-27T17:02:58+00:00",
+      "published": "2026-04-27T18:32:01+00:00",
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "0f56ae5d2791",
+      "title": "Farmaceutico - L'indiana Sun Pharma acquisirà l'americana Organon - Websim",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkFSbWxNMldaX1hFcGFhOXdZU2Y1VGloWk5pNVVCMUhlVi1SdjlsYU5PdGg4M2JZaVRPR0E3TjBxaUdXX3Q4WmtsN3daZzBIZ2NvX244aVpLanB0emZ4TjFBek1HQllIWVJUOFR5Zm9MMWQyYnRaSVVLbkZucnl2NzNUM3NIX2F6RHNYZWhja3pYZGlxOUR1Y1V5NjNvOWM?oc=5",
+      "published": "2026-04-27T08:15:00+00:00",
+      "source": {
+        "name": "Websim",
+        "url": "https://www.websim.it"
       }
     },
     {
@@ -254,26 +254,6 @@
       }
     },
     {
-      "id": "656be0c5f947",
-      "title": "Farmaci e dispositivi medici nello zaino: li rubava dall’ospedale - La Provincia di Como",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHlnMW4wMnMyVkhtXy1zSmdZT0hkMFFyTkFFbkxYcU5mXzJFQmh4c1ZsaTlkX0NubjlPYXgtRktTbXF2eV9CLTNYMWFSeElSV1BIYXpNNF9Ia2NlRjgtTGdSR1h4SzNKZ2NIcHZZVnU2R3JzSGNxN1RHY3VISDlWMV96dnc4Wi1kU2hTNElJNXpaTjlzZHA3YWFHRDRNQktVVWdkcHN4NXVISmdaMjdzVHpPNFNzY3oyNWpyMnBMWDl2d21DeDVYdW1tSXVFVWFxRUlZ?oc=5",
-      "published": "2026-04-27T09:43:57+00:00",
-      "source": {
-        "name": "La Provincia di Como",
-        "url": "https://www.laprovinciadicomo.it"
-      }
-    },
-    {
-      "id": "e50356da449b",
-      "title": "Vizziello: Bilancia sanità in bilico? Pesano spesa farmaci e Assessore… - Giornalemio.it",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEYxaWxPdk9GV1J3eGh5T0xTNXlSOGxSODMzT3U3YWVhbVllM0E1ZndYVVdvcDlYX3NCdHAxUHdSSGptTjEwcnBVcjhGUjB6RHZYREMtSWJNT0FQVDEzcThyelgxbXZZUzFvUHk5Z0hVRWY1TmZ3ZlRsMW11dGMtLTIwcUVEbmhpWXJ3YkliOGtudmhFV2dEaXRrQzVsaVpfWW5B?oc=5",
-      "published": "2026-04-27T14:13:03+00:00",
-      "source": {
-        "name": "Giornalemio.it",
-        "url": "https://giornalemio.it"
-      }
-    },
-    {
       "id": "5a735aea30fa",
       "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
@@ -281,6 +261,16 @@
       "source": {
         "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "656be0c5f947",
+      "title": "Farmaci e dispositivi medici nello zaino: li rubava dall’ospedale - La Provincia di Como",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHlnMW4wMnMyVkhtXy1zSmdZT0hkMFFyTkFFbkxYcU5mXzJFQmh4c1ZsaTlkX0NubjlPYXgtRktTbXF2eV9CLTNYMWFSeElSV1BIYXpNNF9Ia2NlRjgtTGdSR1h4SzNKZ2NIcHZZVnU2R3JzSGNxN1RHY3VISDlWMV96dnc4Wi1kU2hTNElJNXpaTjlzZHA3YWFHRDRNQktVVWdkcHN4NXVISmdaMjdzVHpPNFNzY3oyNWpyMnBMWDl2d21DeDVYdW1tSXVFVWFxRUlZ?oc=5",
+      "published": "2026-04-27T09:43:57+00:00",
+      "source": {
+        "name": "La Provincia di Como",
+        "url": "https://www.laprovinciadicomo.it"
       }
     },
     {
@@ -294,13 +284,13 @@
       }
     },
     {
-      "id": "4156f45da18e",
-      "title": "Ospedale Pederzoli ed Evotec: a Verona un nuovo polo per la ricerca - TecnoMedicina",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEg0RE92a2I3c2dFY1RrY1Q0NzNFTUlRcllTcnFvbDFGRWVSVVlPcU43MVlqaFdsRjlnaW4taU9ENXZxSUxLX0l3SlI2aEhaYjZIaEswV21OQnp5a2xUSWNScVpLV1JWZFN2MFpxQlFmNXRZUlJGUXVaY1NlYi1xa0x6VHJUaXU1WkpzZVFWZVVOYXlNaGMzYQ?oc=5",
-      "published": "2026-04-27T09:41:59+00:00",
+      "id": "e50356da449b",
+      "title": "Vizziello: Bilancia sanità in bilico? Pesano spesa farmaci e Assessore… - Giornalemio.it",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEYxaWxPdk9GV1J3eGh5T0xTNXlSOGxSODMzT3U3YWVhbVllM0E1ZndYVVdvcDlYX3NCdHAxUHdSSGptTjEwcnBVcjhGUjB6RHZYREMtSWJNT0FQVDEzcThyelgxbXZZUzFvUHk5Z0hVRWY1TmZ3ZlRsMW11dGMtLTIwcUVEbmhpWXJ3YkliOGtudmhFV2dEaXRrQzVsaVpfWW5B?oc=5",
+      "published": "2026-04-27T14:13:03+00:00",
       "source": {
-        "name": "TecnoMedicina",
-        "url": "https://www.tecnomedicina.it"
+        "name": "Giornalemio.it",
+        "url": "https://giornalemio.it"
       }
     },
     {
@@ -311,6 +301,16 @@
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "4156f45da18e",
+      "title": "Ospedale Pederzoli ed Evotec: a Verona un nuovo polo per la ricerca - TecnoMedicina",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEg0RE92a2I3c2dFY1RrY1Q0NzNFTUlRcllTcnFvbDFGRWVSVVlPcU43MVlqaFdsRjlnaW4taU9ENXZxSUxLX0l3SlI2aEhaYjZIaEswV21OQnp5a2xUSWNScVpLV1JWZFN2MFpxQlFmNXRZUlJGUXVaY1NlYi1xa0x6VHJUaXU1WkpzZVFWZVVOYXlNaGMzYQ?oc=5",
+      "published": "2026-04-27T09:41:59+00:00",
+      "source": {
+        "name": "TecnoMedicina",
+        "url": "https://www.tecnomedicina.it"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "c49755fd8db7",
-      "title": "Perché Sun Pharma scommette $11,75 mld su una casa farmaceutica USA in difficoltà? - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDBjOTJVajV2UEc5SXVBWVdLLTh0MjZxWEpFenRhTnkyMmoycEozM1VJZEh4NXh5NFJWN3pJVkV0MzlPUmN6aFlIdDIwX3YzM0VJcDdQaXVIVzBKOXpNY2IyMHQ5eXYwZzU5UzE0Y29BQTBpOEdlelhmbGRyWURVS2Zhb0pOcmh0c0dzWEFmNEZYTElrdHZoY05lRko3Zzh5QlVqcDdJblQyWlpKNzlYSTc0SENGNzBKdlBPbEJxeThZX1BVRFE?oc=5",
-      "published": "2026-04-27T02:21:00+00:00",
-      "source": {
-        "name": "Invezz",
-        "url": "https://invezz.com"
-      }
-    },
-    {
       "id": "5af4cad08016",
       "title": "Farmaci GLP-1, studio Nature: una variante genetica dimezza l’efficacia - Quotidiano di Ragusa",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0NrT3o0V0J2SnRpdzFXSElmdUJCekczZ3A4YmhabXZSNlBfT0thWENxVU5vbGlBUlpzR0llSW9HYlVUTWlRTlBEWGVTdXVTMmI5T2VvTWx2WXVMel82YmdidkJEcFJOS1NJeVdsYUM1akRJSEF4ckF5a3ctTGRfYWlwUWEyc2pBeDVmNVhpTEdwOXE0X3dnQkZWOFE?oc=5",
@@ -484,6 +474,16 @@
       }
     },
     {
+      "id": "e60b3da7afb0",
+      "title": "Farmaci per dimagrire, chi li usa rischia un deficit di proteine - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
+      }
+    },
+    {
       "id": "42a5a0cc1bfe",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -491,6 +491,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "c49755fd8db7",
+      "title": "Perché Sun Pharma scommette $11,75 mld su una casa farmaceutica USA in difficoltà? - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDBjOTJVajV2UEc5SXVBWVdLLTh0MjZxWEpFenRhTnkyMmoycEozM1VJZEh4NXh5NFJWN3pJVkV0MzlPUmN6aFlIdDIwX3YzM0VJcDdQaXVIVzBKOXpNY2IyMHQ5eXYwZzU5UzE0Y29BQTBpOEdlelhmbGRyWURVS2Zhb0pOcmh0c0dzWEFmNEZYTElrdHZoY05lRko3Zzh5QlVqcDdJblQyWlpKNzlYSTc0SENGNzBKdlBPbEJxeThZX1BVRFE?oc=5",
+      "published": "2026-04-27T02:21:00+00:00",
+      "source": {
+        "name": "Invezz",
+        "url": "https://invezz.com"
       }
     },
     {
@@ -644,26 +654,6 @@
       }
     },
     {
-      "id": "9a830c821e9a",
-      "title": "Crisi sanitaria globale: guerra, farmaci e energia minacciano la salute mondiale - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjBvZnBuU3N1Zjlrd290aW4zczVpVkFIMXBwNGNyaDdKWWo3ZFNWelZkVFIya084QUZPUGVDV2V3YzdJVFowYnNUaDFHRExVeTFHUkxhcXN3Ukh1S1NfY0VkUDgxWlRoRzdzeld4T1JxLTJJOVNzcE9ZX1NITVV1c25Bb3h2eVppU3lSNDg4bE9nZGxkUkIwU2hMUEVNa28tNnZLZDJRY3VUYU5qNkJVcDFMZjNTZw?oc=5",
-      "published": "2026-03-23T07:00:00+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
-      }
-    },
-    {
-      "id": "8ea4ac75958b",
-      "title": "L’olio d’oliva è un farmaco naturale: quello calabrese, un elisir per il cervello - Calabria Diretta News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFI4YWdadnRXVUJxQ19KZFZTQUxjZk9aR0JBRk5SSmFsRDk4RktMLU5SMWU0ejVEZlV0ZjlRWUlPaF8yQUxjWVdETXpEaUV5a09MM3NiVkw0SFNYQ3Jsc3JHSFpQR0VpVFdYRHF3dl9yREVlRno4WE5NMU9ycWhaV2tSM3lkMHR3STBLSFpZdHU3M1ZZOW41dnY2ekpqNFpzX01LVmdUbmdrNnYwRTVXSlZpUVI2VEtCREJRYzZqclA5dw?oc=5",
-      "published": "2026-04-26T15:28:10+00:00",
-      "source": {
-        "name": "Calabria Diretta News",
-        "url": "https://www.calabriadirettanews.com"
-      }
-    },
-    {
       "id": "0c66b61b9df7",
       "title": "Antibiotico-resistenza, il dottor Alessio Nardini: \"Pandemia silenziosa\" - Corriere dell’Umbria",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEN6RlBSYWtkRGU4T2lBNUMxMnlmQk5jQ2xhYXlrMUV4UzRZVlczaFFkRy1lcnIxdmRkRzM1bEY3N2poZFE0dE1vVmc2MFdLenU5a2s4eXdnSm5PRlpSOExXazdxNEdBWmVDQnAxMC04Z09ZM3AtVmtFck9TLUNJa0h6OWlOa3BsNngxV2lRWWQ3b2JzdGF3SkpfejZtRHExR01ZMnpEUlJENHp4TmF3cTBmeWhUbFpPd21waU43UnpUbUk?oc=5",
@@ -681,16 +671,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "1b6acdfdb9fc",
-      "title": "Salute in movimento: farmaco senza pillole - Altalex",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3ltblE3elliajZXYndMc1ItVUg3djVFNlRIZmdGYmxaZmxpWHVNUW10U1JPMk4zajZIczA0RFM4NWZhT2hGM1ItTUVuVXREajZ0eHNnRmJnRXpnX2VaUUl3UXJtZkpVMFlobldNajN4YWlLWGlDYXV1cE1kSXRScGE0ZzdtZnVhUjBQWnQwQ1AzYnVXWUE?oc=5",
-      "published": "2026-03-14T07:00:00+00:00",
-      "source": {
-        "name": "Altalex",
-        "url": "https://www.altalex.com"
       }
     },
     {
@@ -721,6 +701,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "f7e22d28a791",
+      "title": "\"Farmaci sperimentati solo su uomini, diversi effetti sulla salute delle donne\" - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY3lhQjhxTzNzd2dEYjhqVEJTLVpWU1dwTkRUTmZBUWFTLUM1T0VtUVhNQlJzV00yRUMtb2VoYjVMVDRtY0pYcXhzVjNCRkhiNWhXY2dUTzNJTWlXZ20zRlUwN1ZHdEVlenFfSll5bG9POGQ0Qm9CcGdOaHBXeTltemFyTUd2d1BmZ2o5bnAwVDRKUW1FVThDaHB0OEswdWI2Y2RFRnJMeDNWQlczN1ZESTdPemtzcnoxRWMwMVVYcmRlaVg4QkNjUjVHQXd3RF82bHNQcHdPb09xNHlnRlkzYVdwWDI0UXlRb1BnemQwZDNUM180NHNQS2F30gH_AUFVX3lxTE1MQ2VIeTRjVWhMdGJtZVdkSEhGVG1MaldoUlctTWg3MEtXdmRUVEZvbENHUklJeUZ4M0ljbnhxLVVsR2x1RDRiUmwtR3FOWFJacDl1RXRzQUFXNlRLRnQzWFA5b0tmNk1nZ0xUb2dydll6bVFFU2lqS1g3X1lVdlJWZ2ZWY2hLQmkwR3Zhcl84QlEySlNTdExOb004ZV91RFpnd1dQd1k5dkxqZ2N3ZVlWa1BQUVdxeUVGOVVGcGdUTjJ4YkRmMER6VFQxaTdnLUhHa0FDN01rOHc1cXVieUg5STZtU1RYUGNBZEJqMHBpYWp0c1dRZ0pTMHRuWktCNA?oc=5",
+      "published": "2026-03-15T07:00:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
       }
     },
     {
@@ -774,16 +764,6 @@
       }
     },
     {
-      "id": "5435049e06d8",
-      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
-      "published": "2026-02-09T08:00:00+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "170e12597840",
       "title": "Farmaci: medicinali scaduti a Roma, Lorenzin manda Nas - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBNNnFVWjB1d1AzVzJReUhPZ3VLMy1sVlhGU0JnWXg0WHg1YjdZTXBXR3YxQktCOFI0V05MdlF6NkdYUGVIcTc2MVJpOFBua3JkcHdvR2FsbVFyQW9ZTnQyVWdVSWtZTmdrSW0ydVh2Sng5NVhIRnVwTlN2MXFwLWQ0bDYyNzJSUlNSaExQZEMtQQ?oc=5",
@@ -804,13 +784,13 @@
       }
     },
     {
-      "id": "ab19fd677c94",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
+      "id": "e873f3b9e2ed",
+      "title": "La distribuzione farmaci tramite totem digitale “non è conforme alla legge”. I chiarimenti del Ministero della Salute - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUWZheDlvT1BXR0F6TGxfel9vc1NSdlpfWVVHb1RFWTJyTUdrYlZmckotNGZJblpJSlliQ1VmUUN0SlNla1Q1c1BJTTN1UUJiek9lSVBGUlZBZEVQdjhlUUZSLVktVnBfbm4xVFZOSkFneFJpUjB3MFhLbmFLa1JNTEk2alhWOWRRdVdIZ1RYTi04VDNCZFVIbnJXQkJjYUM4WXZkQkdna3FQNmFaZVFLY1JrRzJFU2VtXzRiQUF0dnlBNG91cHVCRVRPc1BiaU4xZG9yR0g1NGVRX0xPVV9aRFRSVHBOdEVoTmFnUjhtUWx5ZTdsalY2NkEtQ2I?oc=5",
+      "published": "2026-01-26T08:00:00+00:00",
       "source": {
-        "name": "Doctor33",
-        "url": "https://www.doctor33.it"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -824,26 +804,6 @@
       }
     },
     {
-      "id": "e873f3b9e2ed",
-      "title": "La distribuzione farmaci tramite totem digitale “non è conforme alla legge”. I chiarimenti del Ministero della Salute - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUWZheDlvT1BXR0F6TGxfel9vc1NSdlpfWVVHb1RFWTJyTUdrYlZmckotNGZJblpJSlliQ1VmUUN0SlNla1Q1c1BJTTN1UUJiek9lSVBGUlZBZEVQdjhlUUZSLVktVnBfbm4xVFZOSkFneFJpUjB3MFhLbmFLa1JNTEk2alhWOWRRdVdIZ1RYTi04VDNCZFVIbnJXQkJjYUM4WXZkQkdna3FQNmFaZVFLY1JrRzJFU2VtXzRiQUF0dnlBNG91cHVCRVRPc1BiaU4xZG9yR0g1NGVRX0xPVV9aRFRSVHBOdEVoTmFnUjhtUWx5ZTdsalY2NkEtQ2I?oc=5",
-      "published": "2026-01-26T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "950057f96a0c",
-      "title": "Farmaci anti-obesità: rapido recupero del peso e peggioramento della salute dopo l’interruzione del trattamento - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGN5WjlWdk1SUDZtLVFWb1l2NHluc2M2dnRISjJZRkNjQWN3R0taM21KR05CaF9Kd0xkQU5iakRibG5DRjBaeENvRERqWTllajhUYnJqVVlQSWhRR2M5UjB0dmI3el95Y0tKbHA5THlZMkFWNHBYdHlob21pR3Z0aGptdmFUcVJPSEdsOXVtMUxpVTRFdlpxYTYwWjY2cXUzLTIwYXZ1U0pHX0F6NE9uQlJYZnpwcHR2Y0xOd2JIWkFfMWM?oc=5",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "87979b7208eb",
       "title": "I nuovi farmaci antiobesità e antidiabete sono anche alleati della salute mentale - ANSA",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNa0ZLa0lPLV9Vd1BNMlNMTkhodVR3Y1VDaDRCRmhjckdOdDRNel8zVjFiZWVRcUcxa040elk4Yk50dUdmbGlHVFVoMXpyWVNfRHBuWHFEZGpiOUFfcU04T0VrZzZkd1RpRFV0ZF8yN051N1F6ZzU5dEZSRmVpUFJaeGUtc3p5b0VjdERkRmJPaEpXbkgzMGtDVFBDc1djczJGUG9MemNTRzN4N1lHMmhwbHNOc256Nng1bV95c3h3VE03azZCaUJOUk8tTmtPVEhXdUJLVUJBT2taSGkzTnNMYWY0aTZLc0F2a3JXRWZGQWhsWk5zUHVZVVkyWWx4S2N5NFVOVlQ1Qmw1UVZudGV6VzZlOXhhSVZxR0R3cl9tNzPSAaYCQVVfeXFMT3kzM0Y0enpsMU9nZ1c1dmU5cE5nTHFDV2Q3ZC16OTAwaHVSbDBwNkRGeGYwT0c5SFd2SF9rYXFZcGh2UFV0VkM3VWxhM3pJbk1EZk1IQzhzdW1rVVI2T0JqVnNQd1FzcDhrNXBuOWF2eFctZ2xPa3UyOTZQLWNLN1ZpSG5xN3VrbGk3WDFibjl3aEphUE9RWWxOTkpqYTZENVkwQkxOSmFLWFhmS1ZISnAxdjAxRFpEcVdMQ1FyZ2tmRXloQTVwXzJQQm1qWVZhWk5HeFRhcER6QThzTDl2YU41WTBNby1jWkVybTN6OXd6aTJUTWl0dnQtRnlhaXNyd2NWMVdycDBMWl8xSTZ0c240Rm4wSUsyRWFjU2tGSlhfLXRNTFR3?oc=5",
@@ -854,16 +814,6 @@
       }
     },
     {
-      "id": "ae280d7248c8",
-      "title": "Salute mentale, sì ai farmaci psichedelici grazie alle microdosi . - PharmaStar",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGRSM2k4d3psTVlGRHMtZVQxelRJZzd3dHo2SzFmcG1jaUtPVzdwbEpSTUFBREtxallVdXZWMmlrVnF2NGpyQks2LUJ2VUsycWVCMFROY24tSzhJcTJ3X0syY1dzUlo5UW9Fc0lhSlJ2LTV6QzllcXdXMWI5aWd4QXo2NzVTcEtsbV9LdVJtMjFkRUZURFoySzZKaDZUa2hTLTd6RUMzNUg?oc=5",
-      "published": "2026-01-29T08:00:00+00:00",
-      "source": {
-        "name": "PharmaStar",
-        "url": "https://www.pharmastar.it"
-      }
-    },
-    {
       "id": "b7c95f70fa9e",
       "title": "Cattive abitudini: perché continuiamo a prendere farmaci anche quando non serve - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemNHVzNtSGRlVzN3T3BuMUtOSVJWZkZBYW5EZjlIM0tyMzZRcEYzam5wR1Vuc2ZQZGNJWEYzdy1MUFkzMnlYYU1Xbk5oZmUxNV9sbTRYQUNzNmNRTWxzY2lFLVF3SnZSMG90VnNjMDZfZjJ5NGJ1dk4wWVR2Sm15clgwNnlPQkQzaldJZHMwMXVDT3hlV1dfbmJiYjd2VGZpZVR6QjZrVdIBrAFBVV95cUxNTzhEdWNwRmpJekdXM0tfRlV4bWV2SDQ2cXZ4MnFRZXRDenpHMURiUDFNOWQwU1B6T3dNUGdhTWRrTHZlaG5TYkZiVzhmUmRUZWlMcm91Z19RVkxqSzBrdGdMbUloOEhkNkQxZUJPUC1PMmk4U2dTZlV0YXZmVHZOUlNLNEdBQ0gtQlpaQmd0YkhJZm1mTzVOdXVhSjVKVzNWUTlGNlBTMnZnWHZV?oc=5",
@@ -871,6 +821,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "63274cff9cab",
+      "title": "Sanità digitale per garantire più salute e sostenibilità. Ma servono standard e condivisione - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVk1xblNoN3dpa0pmVEQ2emJNZEI5b0txakxsQWxTUl9fWjdRWmtoYm91a0VtbmZGS1dPWUo2R1lobEhreXhNdHNndFoxRUN2N0VOYTZZZEgyUmNQV0RxUzY4OTRVczBoN1lNQ3h3cU5GdVVCUHJvOXZERFNrVE5FeEhlMWcta21UeHM1cnlqQTZFSVROblozYnVWcjZBWWpnek5QUUJoOE5TbUU0RFBnMzhtdGJUR3Z6NWNnU3BaTV9fSGJQNkNCV2VEMWs5U3Y4V0w2ZjJB?oc=5",
+      "published": "2026-01-29T08:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -904,16 +864,6 @@
       }
     },
     {
-      "id": "ae2566443c14",
-      "title": "Osteoporosi, tra le cause pure alcune malattie e farmaci. Ma si può prevenire e curare: ecco come - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMnhRbmh1R3F3eXZlZGRnb2lDVFBUR0p5ck1nZ00tc3J6Rzg4ZXpZQ0ROZ09SenNTQ1FHYnY0cVlRT3BkdWo5UFJvQ3pjTGFNRUwwRVAwZ1JEOUtxTEIzV3ZpY0xmaXc3UWwzNVRQU0VHRTVaWDJjd29fcG5MWjhIVkNnZE9pSmszUnkxZFBoZzR1aUhjZ1ZMbndUR3lYakxZV3Z1OTI3M09iS3Ztd3hpeW13YnJSakhrNFM2dXBGVVhDU1hFcUhlN2otZ0taeWxtUFhSTkxLVllGaC0wcktWeVY2NHVnek51NXNKOXdWeEZuQmZmVHViR0xSN3pvNW9aaTMxTGJIR0cxc1o4Nmpz0gGUAkFVX3lxTE1NeHFMMzZvQ09qOEplZUhvUHlZa21VY3RhMWVJekJiWnVHZkdNdWlubkpsTkkzOUNqY1luWktRR3pTaElESGJIZDFYbXJtMERkZGhrNks1bk12NjhRNGN0MWJMel9WYUJhR2JzVDJHRklPOWplMWw5Q2VDLUFkNHBxYmxTajc0WmZGNXh6a000M0NIRzdwd3BXTEJKaXRoRzRpaFFRYUQ2cHc5WDBvWEZFYzkteml5OHc1bXFIQTk3RDd5V0U0ZDdVZC1ENjRmZkJ1SVVqMEREeDI5bDdxQVlzZmhILUVsWEJXNUpzOTVZUUdKeGxQcGdUcDl5VXpHNFpxM2hLcWZTVEQxbkVKNkRxOVFvbg?oc=5",
-      "published": "2026-02-01T08:00:00+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "f6bd978126b4",
       "title": "Effetti collaterali delle statine: realtà o falsi miti? | SIF Magazine - www.sifweb.org",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2hqTHBDc05qTDNKUjN5MEZCUlBnSFZmX09sSl9GdnY3YWNCZXp3Y1hzSU9DM0Rlak5hZW9yZUZBNFNYUDF6dThZejVmamRJRzNFRU1fbE93TF9ibzg3RW9hSVNqVFhvNDQ3N3lhZVhpdDZUZ2FyVlRkb2JKYXBDS1ViaGhQN3lGbGo0TGpkMUl3Z3VtR1IzbWxLSjF0cDQ4VEhPLUw3RGlteVFvZld3aGpGWEM1eWktZ3BiOXh3TmFCQlJBeUwzbEJzVzU?oc=5",
@@ -924,33 +874,13 @@
       }
     },
     {
-      "id": "b16fecff00ca",
-      "title": "Tutto sui farmaci anti-obesità: a chi servono davvero? Quanto peso fanno perdere? E quali sono gli effetti collaterali? - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc0FyLVA0SUo2dEJqR2p6NHAwbXBlTkJMcHd2SzZLNFNmTWlwNmU3UUlSM2VOM3pjSmtqOXMzWTZBT0ZqZXVsQ2JpYm1OVVlKcUZjb3NKbzR0aFR5X1JGdHlMYlg1Y2dTRHc4MnFTRHJXUk1sZVEtYnJnUkp3NzhTei1DREJzTG5hX1BVc2FnaHdMMXZtLXBaY2VmaFc3Nkl5dDF0X21PNXRvMUVoRW40Uy1JbnRYSGJ6YS1zbnlOeDVoQlp4SXBfRVhXZmNBX2VNaGp6c1N6Q0NhTlVraFVCcmpEZDBiNGo4ZzNkWFNTN1XSAfYBQVVfeXFMUEJrT3ZodUN0UGQ0ZEJiTFE2ZFd0RzZWeFZhSUdoNS1IWjR1YllLZmdrTGY2NUlZazBTOXFnbkNfa2NsQkFSZDBXVEF6d2ZuUjNISHV2cjBEY1hWUVMyOWFqV0RhWE5PWXJNREpRZ0l2R2pnWGtPNWVacklHNkQ5WGotR2d0eE5hM2w3Y3hnU05kT2VnTnZfVE5SOTh1cEM1RXRXWU9vT3htTldjOWRITVNDZl9DWHJqNGlDcW9QVXc0UV94RzRJQ19qTkFtSmpIWWkzc2pRaFdqRlJoMjNCNlB5X0FCMF9tZ21Yemk2R25PdDliQnN3?oc=5",
-      "published": "2025-11-30T08:00:00+00:00",
+      "id": "43efe37d6e81",
+      "title": "Parkinson, la combinazione di tre farmaci migliora il controllo dei sintomi - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3JDYXlFWjZQUE82ZXFKNDM0Z1NvMzRkRGgyeXB1dG0tbnBFZjZGeFI3NjVZeGtZUGhqb1BDYXZ2Mjc4elBIRjFrTEJNWUJlUVRoWkdWeno5YnhzRGIxQ1VGUTF6M0JLanVZNUJRUzg1WWltMW83UzdmUUJOVjk3Um9RNDFfemdBSmZkVEhlQTNhejZmdXdCVF9PdlpObHFNUHhUVU5RWk5lbENuUlUtQl9VQQ?oc=5",
+      "published": "2026-03-18T07:00:00+00:00",
       "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
-      "id": "ca24a329d074",
-      "title": "Tumore al pancreas. Svolta sul farmaco olaparib, Ministero Salute: “Aifa dice sì alla rimborsabilità” - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORTRBQWtpRnZEa0ZUWUxuZUZTUS16VThTM2Y1cElKR2NlQXUyaHhhM0VqRjNTeDFKajRIY2VIekNEWWotZVlrbG1QWlhDZEVvUE44bVhETTl4dmJQaVp0LWJOT1c2eHRVeUVzUVJ6RkhkRlpTUnMzUzZVUEQtZFZoU3FwTEFfYXV0NEhhRy1wa3d3OHQwTVNRamxYYk5NbUNIVHJFRTVmVktmYmQ5ZGhhWVdxQ1lqUTczdjBIZkltcTVMc2pPNjVHTzNQZ0dyUjlPdVFHWlpfY3J0cVFzdnZvcjZLREU?oc=5",
-      "published": "2026-01-28T08:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "8a7c56a50698",
-      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - Il Manifesto",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEpEdklEbkF3MDk4T0lEaUVYZ2pNdUtpYkNrVi0yMUlBMVIxNkQzMmVJek53Q1RJZDRIX193Y1JhYU9abTV4bWMwa2xycnp2azNJX2NuellaQVJIUS01NDk4LWQ2Rk1kSndfVC0yWTF6cERpR1FDZ2FvMWZhTHAzUkdBaUZQTzZI?oc=5",
-      "published": "2026-02-14T08:00:00+00:00",
-      "source": {
-        "name": "Il Manifesto",
-        "url": "https://ilmanifesto.it"
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -974,16 +904,6 @@
       }
     },
     {
-      "id": "e059be366b26",
-      "title": "Consegna farmaci e prodotti salute con Just Eat: progetto pilota con 1000Farmacie - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFQZnZvUDJOMV9JbFYySU9qNG4xOUpkeldDNmtkRUJjWXM3UWRRdHNuOTQtek9tRkNoTFVjNHMwVEtLZ3pzTDE1dnFabWRwZkUtVVRqZFp3R2lwRUE0Ti1jWTFPUnA2TmE3QnZzQ3piVWhrdEtkS3NDZEhyMFMyRmN1SERydnV5ek5zVUFmVjMyVXlBaklZaFgxZVRiNzZyZHB1Wk93QTFWUEtxVG5ab1pscXJuWUxEdkVJTEpFQ2VaM09QNW9VMW1QWTZaTlhoeDVHdGJR?oc=5",
-      "published": "2026-01-22T08:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "ddfe93a93378",
       "title": "Statine: uno studio ridimensiona i rischi del farmaco anti-colesterolo - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2FPRjBuczVqSnl6NVpMQ3ZGRVpoR1hEekduQThpLXNiMmlxaVdVSldiQ05kd3UzNnJZRnp6T2pGc01YMUZmSXgxS29HNDRnYXVnT0g1em80YXlBUk9yQV8wVUJRVnJoMU1LcXRVRGMweUN2WFFzZklpQTlDNlJNY24zUQ?oc=5",
@@ -994,6 +914,16 @@
       }
     },
     {
+      "id": "e059be366b26",
+      "title": "Consegna farmaci e prodotti salute con Just Eat: progetto pilota con 1000Farmacie - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFQZnZvUDJOMV9JbFYySU9qNG4xOUpkeldDNmtkRUJjWXM3UWRRdHNuOTQtek9tRkNoTFVjNHMwVEtLZ3pzTDE1dnFabWRwZkUtVVRqZFp3R2lwRUE0Ti1jWTFPUnA2TmE3QnZzQ3piVWhrdEtkS3NDZEhyMFMyRmN1SERydnV5ek5zVUFmVjMyVXlBaklZaFgxZVRiNzZyZHB1Wk93QTFWUEtxVG5ab1pscXJuWUxEdkVJTEpFQ2VaM09QNW9VMW1QWTZaTlhoeDVHdGJR?oc=5",
+      "published": "2026-01-22T08:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
       "id": "7a6035e1a3a0",
       "title": "Farmaci nei fiumi: l’inquinamento invisibile, minaccia alla salute - Città Nuova",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uOW5TYjZjRVVES2p2YjZRZFFsVjMzNFF1RnIxempCYkUxMkNsLXU4MlRVOFI0bFN4R095LVhRRWwwdy14d3JLcnJFRm1MRUdGUGo4S0dRYXczcFNNTEVjbl9OT1dFNzZVcEZ0VDlCTnJOWE11NTBhSw?oc=5",
@@ -1001,6 +931,76 @@
       "source": {
         "name": "Città Nuova",
         "url": "https://www.cittanuova.it"
+      }
+    },
+    {
+      "id": "04cad3244e3e",
+      "title": "Anche la farmacia va in burnout: cause e rimedi per la salute dietro al banco - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFZRMWFQU3k5VGN1TGI3a3gtamtON2wtVndWSTBVSXFhZlRRQWY0djZWZ285ZjVtbjR6eTVscFdsOVhRUzR3MDJSWjc1R0x3VE1BbmVYbHNPbGI2NUplNjYxN0pDWFhPcFpsTGJmcWg3UnBwenZsTXZUQy1nWHhmb29BOG5UVHNDVEdueFE4b2hCUXpMN3hBc3JVNGR4UjBlUV9tUHA0NlQ?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "9df9cc708e16",
+      "title": "Farmaci: più sicuri con 'bugiardino digitale', app con foglietti aggiornati - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVZGM0pIMXl3XzFVZXFoMkFmMFYxdHFENDZWdTZidGdDWW15ODZMa2t1bFVTX3Juc3R5eXBSYzhvLWpaVFVLZ2hIVG1GUXNOak0yNFBFV2hjSWFzbHJ5c3NyZjNlVGg5bURRRWRnaHdQNXlZRm40TFAzV1c0bFgySUVHNl9tVEtqNzk1a0ZHUnlZbTFibFNSYk94WkhVV1AzbVNHMERQZWFmS2s?oc=5",
+      "published": "2025-11-30T08:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "d44bc13b4023",
+      "title": "Boccadoro (Città Salute, Torino): \"Mieloma multiplo, con nuovi farmaci quadruplicata sopravvivenza”. VIDEO - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkJ4ZWh3Y0VGM1VYcklrTHVHbnRBZXoxN0c2cU1DLW9NSEUwOEswREJaaERZZ3puTFlGNjFjUlpsVWM2MDE1dHlBTDlJdHlfQkNWOHJvMGotOHd5aXBwMFVmNC1XMFFzOU5zMnVoZDVBQjgwQ0VJWDg3bEhlbzEwUjdjWWV3S2FjVnlxZ0NHODV4VkNCUGVHeUxGX0U4QWtkSDdmckwxNmtxelctQkJhbmwzQkZNMlI1Z3RjYTRRaWRqT0V2WERTWVhXV19hSVdzeEgtS0tn?oc=5",
+      "published": "2025-11-27T14:02:26+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "8555fcf0b162",
+      "title": "Farmaci salvavita e responsabilità del farmacista ospedaliero - careonline.it",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXZOaFdNZ25VLWhLT2ZjanlfclloVVZ1ZW1xN2FvV1FybDBOVlpDaXJpRWRzLVppLTlPckYwMzRsVlhkOV92R0NaQTNham1OZTFQYS1EbzlONGxDZ2E1Mk50aTZMNjZmRU5aV2FyQ3BJLUtzbzY1NXd4WW5ndFlUc3FNV0tHWlJKR0gwNUFfdDQwZm5GNGxULWEtU3o4eWwwYThKSEw5Q1pFNVB6?oc=5",
+      "published": "2025-11-21T08:00:00+00:00",
+      "source": {
+        "name": "careonline.it",
+        "url": "https://careonline.it"
+      }
+    },
+    {
+      "id": "b7dfd0077132",
+      "title": "Farmaci per dimagrire e antidiabete: esiste davvero un rischio per la salute degli occhi? - Diabete.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFAwQ204aFc3VmJqbkRLc2tPbnM4LWQxMlVTMVNxVHFvLVlQbTVhLU53TFRvRFBqSkpRbzhRZ3dNZW1pY2EzZWlhekNSUE1YS3g1ajQ0QnlqdkY3bFZJRWNGRnhPTHR4SWhFN1hqNGhGM19TS2pzUVBvWG9Jb3VCQg?oc=5",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": {
+        "name": "Diabete.com",
+        "url": "https://www.diabete.com"
+      }
+    },
+    {
+      "id": "bbd5e6f19bf1",
+      "title": "Farmaci antiobesità: tra rischi delle contraffazioni e nuove prospettive di cura - LILT Milano Monza Brianza",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzdEQS1aTVA4aWxaYmo2YXFnUS1mWkZITUxvYk0tLW9kVFlodVdVUUJPbmx2N2s3dXU2eWI5S2VSZFQtRTdSZ3piT0Z4NmhuSy1rT0pLN0ttNDY1OGJRVGxDakhPd0JGc3JSckJTQlFFMWc2cFhwOVdKUWxnbTlmX2JJN1BXeXU0Q1BFSGZZU1k0OHRLcGpZZFhFY1RLQURZR0x4WjRTYldUblpYT1B5clB3SE51U2hWaFZSLXJfSXJGQUVPVHY0UGVIdWtlOE55NmlfNjgzdHhYLVpnd0ctNnh1UQ?oc=5",
+      "published": "2025-11-21T08:00:00+00:00",
+      "source": {
+        "name": "LILT Milano Monza Brianza",
+        "url": "https://www.legatumori.mi.it"
+      }
+    },
+    {
+      "id": "00a634477dcc",
+      "title": "Farmaci: Lorenzin, accordo Aifa-Antitrust per evitare speculazioni - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2NJcW9HLXlTWUV1UjI3UmRFbmx6ODJGWlpvNGdFeGNtUFgzNzFaNzhROFMtOF96Q1F3SVFYZzN1a1FkeEFxcWlSSUNDTzdkZFoweVV1QzZYdnBHMXRMbk5ZM2V4M0p3UDBIWGpMUzNDWFdmRm8yT18zcE82eFNCb1M4Yml4SURjendlRzd2X1JNVFdNUmpyd0ZjMlJDRUZhUVE?oc=5",
+      "published": "2025-11-03T08:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     }
   ]
