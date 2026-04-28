@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-04-28T20:59:03.119093+00:00",
+  "fetched_at": "2026-04-28T21:58:05.359384+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "d85a60bfc902",
-      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
-      "published": "2026-04-25T10:42:39+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
     {
       "id": "5de2505cbaa4",
       "title": "Farmaci e dispositivi medici: a Pavia un centro studi sull’Intelligenza artificiale - Il Sole 24 ORE",
@@ -21,6 +11,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "65c24fc06348",
+      "title": "Farmaci, il vademecum dei nuovi medicinali rimborsabili: le indicazioni AIFA su generici e “griffati” - DiLei",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1I0cFI4d2RUaExTWTVwcTFBYkVrbXRsMUM0eDZBYXNpcjFzVDNMQ29waElIUy0wcEFMTWlDWkZKdTNuZzdQNUxPbjFud3hkS1F4R0UzSUdrLURGQUNZUmJmZjFpNXBlRVQyU3J3R1pRZ0cyNlJhejI0VklraEJZRmx0Mk9hb1o3ZGplSmY1Wk41andpUnpWNF9sa0RWbk1TVDN1NlNuWG5iRHlhblV3ZkYta2TSAboBQVVfeXFMTU41QUxzTXA3dUYxSWRDUGVTVVR2UXRDQ3NxazdCc2tidDZRQVppWUlhSXFCdHhKeEV4Mi1PR1dleW9UZEVTR1dBMmJhcGdZeHJUSUo3dzdGS25pbXdUbUZ0ZnFVSmxmM1ZPcUk2eG1qa1J4SzAxeDRkN1RQMHhJd1otaEZxTy1VT3JlU0NZS2hrYTFtaEN5NW9SYnc0bGg4V3pjc0x0ekFwUnZDa0ZjYnVtTnRJTXVFZXlB?oc=5",
+      "published": "2026-04-27T10:00:56+00:00",
+      "source": {
+        "name": "DiLei",
+        "url": "https://dilei.it"
       }
     },
     {
@@ -41,16 +41,6 @@
       "source": {
         "name": "agenziagiornalisticaopinione.it",
         "url": "https://www.agenziagiornalisticaopinione.it"
-      }
-    },
-    {
-      "id": "65c24fc06348",
-      "title": "Farmaci, il vademecum dei nuovi medicinali rimborsabili: le indicazioni AIFA su generici e “griffati” - DiLei",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1I0cFI4d2RUaExTWTVwcTFBYkVrbXRsMUM0eDZBYXNpcjFzVDNMQ29waElIUy0wcEFMTWlDWkZKdTNuZzdQNUxPbjFud3hkS1F4R0UzSUdrLURGQUNZUmJmZjFpNXBlRVQyU3J3R1pRZ0cyNlJhejI0VklraEJZRmx0Mk9hb1o3ZGplSmY1Wk41andpUnpWNF9sa0RWbk1TVDN1NlNuWG5iRHlhblV3ZkYta2TSAboBQVVfeXFMTU41QUxzTXA3dUYxSWRDUGVTVVR2UXRDQ3NxazdCc2tidDZRQVppWUlhSXFCdHhKeEV4Mi1PR1dleW9UZEVTR1dBMmJhcGdZeHJUSUo3dzdGS25pbXdUbUZ0ZnFVSmxmM1ZPcUk2eG1qa1J4SzAxeDRkN1RQMHhJd1otaEZxTy1VT3JlU0NZS2hrYTFtaEN5NW9SYnc0bGg4V3pjc0x0ekFwUnZDa0ZjYnVtTnRJTXVFZXlB?oc=5",
-      "published": "2026-04-27T10:00:56+00:00",
-      "source": {
-        "name": "DiLei",
-        "url": "https://dilei.it"
       }
     },
     {
@@ -84,6 +74,16 @@
       }
     },
     {
+      "id": "f320be7b6d06",
+      "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
+      "published": "2026-04-28T21:09:48+00:00",
+      "source": {
+        "name": "INNLIFES",
+        "url": "https://www.innlifes.com"
+      }
+    },
+    {
       "id": "b3cf3cb84314",
       "title": "Troppi farmaci, non sempre vuol dire più salute: attenzione alla politerapia - Spazio50",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHZPSHlrU1lycmZVVG9YY1RtVEhWMFVPZjQ2YmRSS0ZYakNoQVdaVGJFWDE2SmFVcVYzZUNtMV9IX0RLdDI0Q2VadHJzcFdGRV9jLS1zLThaR21rYjAyNzc2WEc0bHF1b2tNS2lrMmdSb1RrbVRBbU1ZMUJYTjBtd0o1VW5zOXp0MDZMakpiUTNUVUdWSlg2S2Z0c1BKWlIyQkE?oc=5",
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "f320be7b6d06",
-      "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
-      "published": "2026-04-27T08:00:44+00:00",
-      "source": {
-        "name": "INNLIFES",
-        "url": "https://www.innlifes.com"
-      }
-    },
-    {
       "id": "00fb7c74a596",
       "title": "Farmaci: successo di Remed in Italia. Il progetto di Novo Nordisk raggiunge altre città - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXZ5cURvZUpENkRKZFVqaFBlbGV4LXY4dVp4dUgzTzlzcl8wXzd3dVVDcEpVNDFBdmRicThqSENDM0pidnlOclpJMllZZnZTd0tzQW1jdUl0SlhXd1JTTWw4OXFjV2cxX3JRSjVhbVRXYjVfdmp2cGpCWlFSNmJDRS1qd2xKbU1lYmQ0dkxJeldORFRWaFRIZ1pmZjREcW1DWWFXMFYxaGxJQWw5ZE9USzZVQllXZnctaDZkMkk1QzVXV2RvOWZv?oc=5",
@@ -131,6 +121,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "d85a60bfc902",
+      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
+      "published": "2026-04-25T10:42:39+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -194,16 +194,6 @@
       }
     },
     {
-      "id": "598a0b6846cc",
-      "title": "IA, ricerca farmaceutica, medicina di precisione e salute globale - wordnews.it",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV19Ma0lBTlZ2QVoxUUxvcHNSQ20zNHhZNmNfSEVweERIdk9yQ01DUWpKeGptVjU4bGwyb01lLTJUQ0hoT195NFRCdVZEakx5TGtEaGx5eU5jbnlPUXZRRnljYlZ0TkhiM29JNFV3U1lId0hyOU5oNWwxNm5hQVVsSFNXY2g0WUdQWDlRYzBZal92d1l6Q3cyWG0wOA?oc=5",
-      "published": "2026-04-28T14:00:57+00:00",
-      "source": {
-        "name": "wordnews.it",
-        "url": "https://wordnews.it"
-      }
-    },
-    {
       "id": "c45fd7c9ddce",
       "title": "Come Ozempic sta cambiando i costumi (non solo quelli da bagno) (di J. Rossi Mason) - HuffPost Italia",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXNCM2lrNFZUb20wSkJ0SDBHVHdCOWVyMjAyTzREMGY0UmNWWFlGMGtoVElyb1J3aG55bHNWUHdYUHBTSHp0MjUzU2M0S2stdTk2c2E4Z3ZKVThjMTNobGUwLTBEd3p4RXB0R2NWSzdCRTg2QUV0dlJLSWpWVG9wYktMVmxXQ3hqOHI1Ri1SQ1JEckF3d0ZKMzlqSnV2OUpGNy1BWm1Ha3V0ZHpRTFNSRkUxU0xCQzZoTFNnaVY5bw?oc=5",
@@ -211,6 +201,16 @@
       "source": {
         "name": "HuffPost Italia",
         "url": "https://www.huffingtonpost.it"
+      }
+    },
+    {
+      "id": "598a0b6846cc",
+      "title": "IA, ricerca farmaceutica, medicina di precisione e salute globale - wordnews.it",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV19Ma0lBTlZ2QVoxUUxvcHNSQ20zNHhZNmNfSEVweERIdk9yQ01DUWpKeGptVjU4bGwyb01lLTJUQ0hoT195NFRCdVZEakx5TGtEaGx5eU5jbnlPUXZRRnljYlZ0TkhiM29JNFV3U1lId0hyOU5oNWwxNm5hQVVsSFNXY2g0WUdQWDlRYzBZal92d1l6Q3cyWG0wOA?oc=5",
+      "published": "2026-04-28T14:00:57+00:00",
+      "source": {
+        "name": "wordnews.it",
+        "url": "https://wordnews.it"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "07fa3e5ebd86",
-      "title": "Testo unico, Omeoimprese: indicazioni terapeutiche omeopatici in etichetta e regole meno restrittive su informazione - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOF9TQ3pTSDJDcHRuY25YdDJoa0ZIUXA0Q1JrTjZ1NVFBRktPRGViam1SRE5nekxyZXpLSEQxZXhxN056SXdQc3AzeVZmZEk0LUxEdkVyT2s0ZkpsbDZwZUdmTlJhbS1iSGZiSlE4MGM3c0UwdjZBWlQtdm42Qm9NMXVMaGgtRlNaXzBwYXUwUllZY052X0Q1MVN0eXhhMEJvTkV5c3MxOVNVVVpIZGE1UVV3T3ppa3lJSkVIRHdfcElybzB3N3p1YTBkS19LdWpWeThQV085ZDN1TlVBRklXaDY2YnA3RThkS3djOUQ4OTNzYVRkeElvaV91emRZUjhWM0E?oc=5",
-      "published": "2026-04-28T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "75dbfec26803",
       "title": "Farmaci con ricetta, obblighi inderogabili nella dispensazione: responsabilità e rischi per il farmacista - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMlRNWnFKWGpGWlJCLTJxUUFlY3pKdmJpMHBtUlg2aXNvSEpmSUdXT0NRQmhZUFVrVWNqbWlNNG1NWDROcVphcGJMSjhTME10cjlVdWRxLWlsak9yaEFaNFRKZmNPV0pnczdiblJuelM5dnc0cXlRUkN1dkhhZTBzRkNPM1RFdHlENndLby1CMkhad1JHZXNSLWYwLUI0RlV2bW9SQmdOSjBsRkRZamszdHZaZFpVb0xTeGJMMXFaeXFpTmgyRnl6WWotbTZyRGVVZnZZOHNTWGRRTE45a2ZHVVF4NXFpazhlSDg1VnI2NkVUOGlkUUlPMW50b1VlZW8?oc=5",
@@ -334,13 +324,13 @@
       }
     },
     {
-      "id": "fe908a82e3c9",
-      "title": "Studio odontoiatrico abusivo sequestrato nel Lametino: denunciato un medico, trovati farmaci scaduti - Catanzaro Informa",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY3Rkdm5uWGtZc3JuVWxWUFNMbFRUSm1aRDAyX21uWGpBbk5USTVhZVhfRlRJa3JOQkdwTG14ejhxdzdDM08zdDZmVW9wSWJjd2plZUtteVYza0xYVUwxX1ZMWG1FWGs0bW5UMHUxR2t4WkpqblZMRmJyMkt2NFNBXzlObllmc05qNW1pdFRhQWp0RVNxeDlSM1JFT090R0ZjU3p2Qk4xU2xwVXhMNnVmcTdGQWMwV0hWdFZjVWZoLUxoRWRRRTFreVA2R3Rxa2NaWEt2OVpWcXd2a09ZWmtieEw4RTc5NUZiY2hhejBB0gHzAUFVX3lxTE5KeVg4SWVzMFFCLWRyVVBlMnVTRXpPNWQ1Mk9qUzF0dlRIT3ZmYnFzQlNvSWI1cmFhYnl1SlpreXdYN3QwTUtBYThkNkJYSmxPeHh6ZEVwakpOZXdJRy01bnVILUcwcEg2MmdxcWFYTlAwMXk1RFpLalZDcjFqM0c3NmpnSG1Wd2lyaGs4WVYzbHBPRDRmU2Z5b2daeFlBS1lNY1o4dTF1cGhvYmVacERlVVBkcy04bldkWk9KcXJaNEpuY1gyWTNXelc4azRIU1J2d2NQdmNFclBqdFlNMXdSUmJTWkFSVURSRzhtRG51Y0twMA?oc=5",
-      "published": "2026-04-28T06:15:00+00:00",
+      "id": "07fa3e5ebd86",
+      "title": "Testo unico, Omeoimprese: indicazioni terapeutiche omeopatici in etichetta e regole meno restrittive su informazione - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOF9TQ3pTSDJDcHRuY25YdDJoa0ZIUXA0Q1JrTjZ1NVFBRktPRGViam1SRE5nekxyZXpLSEQxZXhxN056SXdQc3AzeVZmZEk0LUxEdkVyT2s0ZkpsbDZwZUdmTlJhbS1iSGZiSlE4MGM3c0UwdjZBWlQtdm42Qm9NMXVMaGgtRlNaXzBwYXUwUllZY052X0Q1MVN0eXhhMEJvTkV5c3MxOVNVVVpIZGE1UVV3T3ppa3lJSkVIRHdfcElybzB3N3p1YTBkS19LdWpWeThQV085ZDN1TlVBRklXaDY2YnA3RThkS3djOUQ4OTNzYVRkeElvaV91emRZUjhWM0E?oc=5",
+      "published": "2026-04-28T00:00:00+00:00",
       "source": {
-        "name": "Catanzaro Informa",
-        "url": "https://www.catanzaroinforma.it"
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -351,6 +341,16 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "fe908a82e3c9",
+      "title": "Studio odontoiatrico abusivo sequestrato nel Lametino: denunciato un medico, trovati farmaci scaduti - Catanzaro Informa",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY3Rkdm5uWGtZc3JuVWxWUFNMbFRUSm1aRDAyX21uWGpBbk5USTVhZVhfRlRJa3JOQkdwTG14ejhxdzdDM08zdDZmVW9wSWJjd2plZUtteVYza0xYVUwxX1ZMWG1FWGs0bW5UMHUxR2t4WkpqblZMRmJyMkt2NFNBXzlObllmc05qNW1pdFRhQWp0RVNxeDlSM1JFT090R0ZjU3p2Qk4xU2xwVXhMNnVmcTdGQWMwV0hWdFZjVWZoLUxoRWRRRTFreVA2R3Rxa2NaWEt2OVpWcXd2a09ZWmtieEw4RTc5NUZiY2hhejBB0gHzAUFVX3lxTE5KeVg4SWVzMFFCLWRyVVBlMnVTRXpPNWQ1Mk9qUzF0dlRIT3ZmYnFzQlNvSWI1cmFhYnl1SlpreXdYN3QwTUtBYThkNkJYSmxPeHh6ZEVwakpOZXdJRy01bnVILUcwcEg2MmdxcWFYTlAwMXk1RFpLalZDcjFqM0c3NmpnSG1Wd2lyaGs4WVYzbHBPRDRmU2Z5b2daeFlBS1lNY1o4dTF1cGhvYmVacERlVVBkcy04bldkWk9KcXJaNEpuY1gyWTNXelc4azRIU1J2d2NQdmNFclBqdFlNMXdSUmJTWkFSVURSRzhtRG51Y0twMA?oc=5",
+      "published": "2026-04-28T06:15:00+00:00",
+      "source": {
+        "name": "Catanzaro Informa",
+        "url": "https://www.catanzaroinforma.it"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "9fe589bec08f",
-      "title": "Allergie respiratorie: impatto sull’attenzione nella quotidianità e nel lavoro - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmdoWDdsWUphR0d1YlhRSVB4eUdoSHRSS1Y2RnlvTk9BdHhraHlXOHc0bG9iODJfbzdiSHFXSWRFc2tFcFBxNTUtaGJfeE5JMFptQ21kTUpWeTU0V3NMMTl2SmhxcmlodXFjc1Q0VWhKWmJ1a3dsc2YyRXFicFpjRG5FczE2Z25SNDd6Y3dHRDI5U1Nxb0RzV1psdzFzdVA0dHU0LVNadnNiZHVXQlZBaEdoWWVmTkpkZzZGdWxFOS1xdFMzRTR4RENza0pkUjdjS2kzNU1maXFoZzlw?oc=5",
-      "published": "2026-04-28T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "ff972984170b",
       "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
@@ -461,16 +451,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "d5a431a0b008",
-      "title": "Studio dentistico abusivo nel Lametino, sequestrato dai Nas: trovati anche farmaci scaduti · LaC News24 - LaC News24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcG0tUGtwcFlhdVozdkhORWFmZEtuZ2YweHR6N2tUUEY5cjVicGNOLVh0NWFlY2RNNTlCc3J2UWhHa2hRZ3VGR2haaGQ5LU8yY01KcmN3MzhFcmlaYWZVS0ZUZ2ZJVWJRT1dkUUE5bzcxQ0g1Nkw4TGNOS1lkM1hUWFNBSnQ4eTJjekdTT3duaHZiQkN4NkNtTmNNcDZ3VzZUeEwzWEd3SnkwQzVKZjVLX1NDaEpJTFN5a3p5aUdfcTBrM0NsR0UzbFln0gHPAUFVX3lxTE9XTmcwT2xpT0t5UFNZZUN4ZHlRZklxYndNcnBVR3FRbXVHVnFHbkxjMTc1SHh4cDJqcnhaT3BhZUl6OTRIbEItdGVWWGNLekFQNFlMY2RuNmpXeFA1dWR6cVJLejgtMjVkZGFPUjRFMklKQTJNWmtXNTdFd0dHT0R3UDAyX2wyYVpPZW1ZX2l3bHJqVXVSeEg0Q1J2d212SHlrNHZoRS1rMy1ZRVpDUThib0lqRzJGTWlFSjRNaklrOUp0RDAtLXB0TUYzS0NhNA?oc=5",
-      "published": "2026-04-28T06:19:21+00:00",
-      "source": {
-        "name": "LaC News24",
-        "url": "https://www.lacnews24.it"
       }
     },
     {
@@ -491,6 +471,26 @@
       "source": {
         "name": "Agenzia Italiana del Farmaco",
         "url": "https://www.aifa.gov.it"
+      }
+    },
+    {
+      "id": "9fe589bec08f",
+      "title": "Allergie respiratorie: impatto sull’attenzione nella quotidianità e nel lavoro - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmdoWDdsWUphR0d1YlhRSVB4eUdoSHRSS1Y2RnlvTk9BdHhraHlXOHc0bG9iODJfbzdiSHFXSWRFc2tFcFBxNTUtaGJfeE5JMFptQ21kTUpWeTU0V3NMMTl2SmhxcmlodXFjc1Q0VWhKWmJ1a3dsc2YyRXFicFpjRG5FczE2Z25SNDd6Y3dHRDI5U1Nxb0RzV1psdzFzdVA0dHU0LVNadnNiZHVXQlZBaEdoWWVmTkpkZzZGdWxFOS1xdFMzRTR4RENza0pkUjdjS2kzNU1maXFoZzlw?oc=5",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "d5a431a0b008",
+      "title": "Studio dentistico abusivo nel Lametino, sequestrato dai Nas: trovati anche farmaci scaduti · LaC News24 - LaC News24",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcG0tUGtwcFlhdVozdkhORWFmZEtuZ2YweHR6N2tUUEY5cjVicGNOLVh0NWFlY2RNNTlCc3J2UWhHa2hRZ3VGR2haaGQ5LU8yY01KcmN3MzhFcmlaYWZVS0ZUZ2ZJVWJRT1dkUUE5bzcxQ0g1Nkw4TGNOS1lkM1hUWFNBSnQ4eTJjekdTT3duaHZiQkN4NkNtTmNNcDZ3VzZUeEwzWEd3SnkwQzVKZjVLX1NDaEpJTFN5a3p5aUdfcTBrM0NsR0UzbFln0gHPAUFVX3lxTE9XTmcwT2xpT0t5UFNZZUN4ZHlRZklxYndNcnBVR3FRbXVHVnFHbkxjMTc1SHh4cDJqcnhaT3BhZUl6OTRIbEItdGVWWGNLekFQNFlMY2RuNmpXeFA1dWR6cVJLejgtMjVkZGFPUjRFMklKQTJNWmtXNTdFd0dHT0R3UDAyX2wyYVpPZW1ZX2l3bHJqVXVSeEg0Q1J2d212SHlrNHZoRS1rMy1ZRVpDUThib0lqRzJGTWlFSjRNaklrOUp0RDAtLXB0TUYzS0NhNA?oc=5",
+      "published": "2026-04-28T06:19:21+00:00",
+      "source": {
+        "name": "LaC News24",
+        "url": "https://www.lacnews24.it"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "2f364fec5728",
-      "title": "Citisina per smettere di fumare, quando il farmaco è rimborsato dal Ssn: cosa sapere - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDM0anVFelRqZElBRGtmbmFOekhkWkFpWVdfdmlxQ3BzQ2F0dndOdDRRSzJHM0laWXF4OWtmQVU4blltZWpaZWFhRFc4NzRHdmFveS0tX1JrNVhtaERfckQ1UXJCU3B5eDhkUlhCMUtzWkZDRURVNVF3eWlpdGVpc3o0RkV1OXBqNGFpU0l3cDJiVWpBTjZBRll4Yw?oc=5",
-      "published": "2026-04-01T07:00:00+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "18f52369c8d6",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
@@ -631,6 +621,16 @@
       "source": {
         "name": "Ministero Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "2f364fec5728",
+      "title": "Citisina per smettere di fumare, quando il farmaco è rimborsato dal Ssn: cosa sapere - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDM0anVFelRqZElBRGtmbmFOekhkWkFpWVdfdmlxQ3BzQ2F0dndOdDRRSzJHM0laWXF4OWtmQVU4blltZWpaZWFhRFc4NzRHdmFveS0tX1JrNVhtaERfckQ1UXJCU3B5eDhkUlhCMUtzWkZDRURVNVF3eWlpdGVpc3o0RkV1OXBqNGFpU0l3cDJiVWpBTjZBRll4Yw?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -794,16 +794,6 @@
       }
     },
     {
-      "id": "1e926d24f360",
-      "title": "Citisina, nuovo farmaco per smettere di fumare: di cosa si tratta - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOV8xR1JBMzdLdkJnQ1o3ODdHQVN5Q0F6am5sei10bE5MdDd0alNwMDF3TjNZbnc0ZmJ1NmFXYVBDNWVvY2NzdzBxUWdDZmo1SXFmbXhmRjhILVhzd0VqUlREQ2dReHdXQmhNemlUU1FHbXJjcHQ0eG11bHpnLWhnS1hUV1U5WG02TDhBcFVrQ20?oc=5",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "37943ee62d10",
       "title": "Formazione - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
@@ -811,6 +801,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "1e926d24f360",
+      "title": "Citisina, nuovo farmaco per smettere di fumare: di cosa si tratta - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOV8xR1JBMzdLdkJnQ1o3ODdHQVN5Q0F6am5sei10bE5MdDd0alNwMDF3TjNZbnc0ZmJ1NmFXYVBDNWVvY2NzdzBxUWdDZmo1SXFmbXhmRjhILVhzd0VqUlREQ2dReHdXQmhNemlUU1FHbXJjcHQ0eG11bHpnLWhnS1hUV1U5WG02TDhBcFVrQ20?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -994,13 +994,13 @@
       }
     },
     {
-      "id": "f6bd978126b4",
-      "title": "Effetti collaterali delle statine: realtà o falsi miti? | SIF Magazine - www.sifweb.org",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2hqTHBDc05qTDNKUjN5MEZCUlBnSFZmX09sSl9GdnY3YWNCZXp3Y1hzSU9DM0Rlak5hZW9yZUZBNFNYUDF6dThZejVmamRJRzNFRU1fbE93TF9ibzg3RW9hSVNqVFhvNDQ3N3lhZVhpdDZUZ2FyVlRkb2JKYXBDS1ViaGhQN3lGbGo0TGpkMUl3Z3VtR1IzbWxLSjF0cDQ4VEhPLUw3RGlteVFvZld3aGpGWEM1eWktZ3BiOXh3TmFCQlJBeUwzbEJzVzU?oc=5",
-      "published": "2025-12-25T08:00:00+00:00",
+      "id": "240ce1702815",
+      "title": "Rafforzare la prevenzione della salute orale in farmacia: ecco l’accordo Andi-Assofarm - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pBbnRJbnVlbWRFemlVXzdRYWh5d2pKYVAtTW9pdWdFS3VvOXFhYkRYY3JUNHhYbkh4TWZjc3FabnVzUHlfUjN2MlJPZTNKTFp6WG9LN2l4dzVpck5xMFc1ZzFBYnI3UmR1ZUd6WDRGbXotc3ZLd0hKV0FBZHFxd3lCNndRMUlDbHkwSVVWZnVGZ0dtZkNTQ1NNbU1uWmRLR3VUbkhnaUxQaGxQejRxUHQ0Zw?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
       "source": {
-        "name": "www.sifweb.org",
-        "url": "https://www.sifweb.org"
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
       }
     }
   ]
