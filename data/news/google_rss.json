@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T19:45:36.472367+00:00",
+  "fetched_at": "2026-05-03T20:32:20.854078+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "ef48ddaadcfc",
-      "title": "Denti che ricrescono da soli? Al via il test sull'uomo del farmaco che potrebbe sostituire gli impianti - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSU5vUXFzSjZhblktTWpPaUJLc3NVakM0RjZJVzMyVkxFZHgzSmNKSzJVOTlwOEhkZGpXWFBxZ09PM0VXdU5EaHotZmloTHVRSXFnS0hOM2s1YlZmUElPcVRsVzd0M2JyMU9ZR1NUczkxOG5QR0JhazFuTzVVUGoyZWpXTEFoS3p3WWs2UnU0TkllVzgxWU1vN1lOelFCLW5ZaFZFbWNTdThqeElDbUlHZHYzSkNYTVdwUFFBekhmUnU5Yk5JN2N4MThUbWlPbzMzSUVtckxIVld2Zw?oc=5",
-      "published": "2026-05-03T13:06:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
+      }
+    },
+    {
+      "id": "ef48ddaadcfc",
+      "title": "Denti che ricrescono da soli? Al via il test sull'uomo del farmaco che potrebbe sostituire gli impianti - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSU5vUXFzSjZhblktTWpPaUJLc3NVakM0RjZJVzMyVkxFZHgzSmNKSzJVOTlwOEhkZGpXWFBxZ09PM0VXdU5EaHotZmloTHVRSXFnS0hOM2s1YlZmUElPcVRsVzd0M2JyMU9ZR1NUczkxOG5QR0JhazFuTzVVUGoyZWpXTEFoS3p3WWs2UnU0TkllVzgxWU1vN1lOelFCLW5ZaFZFbWNTdThqeElDbUlHZHYzSkNYTVdwUFFBekhmUnU5Yk5JN2N4MThUbWlPbzMzSUVtckxIVld2Zw?oc=5",
+      "published": "2026-05-03T13:06:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -324,16 +324,6 @@
       }
     },
     {
-      "id": "d0d54573f1cc",
-      "title": "La farmacia di comunità, una risorsa da valorizzare. A partire dalle aree interne - Vita.it",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV29pZHZwVHVLNEROREVGdW1rU3EyaEdobk81SG56bDV2MTc3SmVkTWZxUF9ySlZUWnEwWWtIaE15dXlJYUY4QXk0UVZEbzR0aDNJWmZrRWQzQUp1Rk9YMmhwSWZlNnMxVFhiNDNzOXZscGZRTkJSOXdoUjRVT1k1MUtZQmVqTHUyRW1xRjY3VDV0VFVmYlZnU1Q2WXpDTlIyWXc?oc=5",
-      "published": "2026-04-29T15:21:36+00:00",
-      "source": {
-        "name": "Vita.it",
-        "url": "https://www.vita.it"
-      }
-    },
-    {
       "id": "b76eb21912f7",
       "title": "Salute: farmacia dei servizi promossa dai cittadini, il rapporto - Ore12",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmJYRFhWUDlKWGtidk9mMXB2YnBvUkZfYTNZOUFvYUxMdl8tNVN2b2VBX2QwTzQ0Nk03Q1pZQ3dmUW5qcHlJR2htSjkyZ054OHNRMmdKT0hLWDcxVkhnY3dFZmtHMEZZZWhSb3RGQjhIUkdxVUZYS2NfQ1JNcE9IdHBpQTRFQ3VObnNHWFBn?oc=5",
@@ -344,6 +334,16 @@
       }
     },
     {
+      "id": "d0d54573f1cc",
+      "title": "La farmacia di comunità, una risorsa da valorizzare. A partire dalle aree interne - Vita.it",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV29pZHZwVHVLNEROREVGdW1rU3EyaEdobk81SG56bDV2MTc3SmVkTWZxUF9ySlZUWnEwWWtIaE15dXlJYUY4QXk0UVZEbzR0aDNJWmZrRWQzQUp1Rk9YMmhwSWZlNnMxVFhiNDNzOXZscGZRTkJSOXdoUjRVT1k1MUtZQmVqTHUyRW1xRjY3VDV0VFVmYlZnU1Q2WXpDTlIyWXc?oc=5",
+      "published": "2026-04-29T15:21:36+00:00",
+      "source": {
+        "name": "Vita.it",
+        "url": "https://www.vita.it"
+      }
+    },
+    {
       "id": "771b12bd406f",
       "title": "Stati Uniti. La svolta di Trump sulla salute mentale: ordine esecutivo per accelerare la ricerca sui farmaci psichedelici - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT19NeHpoN2xuZU54eGEzR09GOFF2OS16dnMzTDFZbmZhZ25Tb2JQUF9XUVhUdHIzYTRCWWZnOTNTUUd1OHFKRVpYUGRPbFQ2cFB4UTJlUVYxWkJMbmVtUUlIUlNWTEFmbGFBbnk0YnA2RGVvSWJIUkNtLWIwcE9ub240TU5LU3JVLUYxZDVxMVA4S0FydEVQR3Y5dVpwMDRQSzRNLXpOR1NtQnFLQVRMRXR6OXo1UVJzaXJkU2RpY0NvWE90Ykx3U2Q4TzBlVFF0REVzMVFlSTh6M3dlY3lZbW01aDFMV18wMmU5aGFoWGp5cGoyVzBmWHZB?oc=5",
@@ -351,16 +351,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "c401eef40338",
-      "title": "Lettera a Fico: Mancano i farmaci salvavita - Le Cronache",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RFZ1MU4tU3hlMzNkcXVOaEFKRTI1MG1CWkhXNVo2V3JDZ0FqYXJIbG8wRmp6dURfM2U1S2tYcF9UbWdIdHlsc3F2MHpiN3JHdG84d09wUnRjeldGZ3JCNFd2M0J2bDRTaGpjeDFvdlNVaWhSc0JyVEdn?oc=5",
-      "published": "2026-05-03T08:03:15+00:00",
-      "source": {
-        "name": "Le Cronache",
-        "url": "https://cronachesalerno.it"
       }
     },
     {
@@ -384,16 +374,6 @@
       }
     },
     {
-      "id": "02002f5b0a04",
-      "title": "Allergie e asma, primavera difficile: in Aoui 5mila pazienti in più ogni anno - VeronaSera",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Rks3R09vOE5NNWpob0xad2t5RlBOYVNxTm9KbV80UDVySzA4SEVMamFBbUJvWGZjZWFvQWp0b3htU1pPTUxUc1hPZXJZYmdiWHhqRWRpMG8yNGpBNWNEYVNUcF9mZ0FsZFFQdlZFcmd5Uk5R?oc=5",
-      "published": "2026-05-03T04:37:00+00:00",
-      "source": {
-        "name": "VeronaSera",
-        "url": "https://www.veronasera.it"
-      }
-    },
-    {
       "id": "89f459a5e2d5",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -414,6 +394,16 @@
       }
     },
     {
+      "id": "02002f5b0a04",
+      "title": "Allergie e asma, primavera difficile: in Aoui 5mila pazienti in più ogni anno - VeronaSera",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Rks3R09vOE5NNWpob0xad2t5RlBOYVNxTm9KbV80UDVySzA4SEVMamFBbUJvWGZjZWFvQWp0b3htU1pPTUxUc1hPZXJZYmdiWHhqRWRpMG8yNGpBNWNEYVNUcF9mZ0FsZFFQdlZFcmd5Uk5R?oc=5",
+      "published": "2026-05-03T04:37:00+00:00",
+      "source": {
+        "name": "VeronaSera",
+        "url": "https://www.veronasera.it"
+      }
+    },
+    {
       "id": "dd4630529884",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -424,6 +414,16 @@
       }
     },
     {
+      "id": "c401eef40338",
+      "title": "Lettera a Fico: Mancano i farmaci salvavita - Le Cronache",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RFZ1MU4tU3hlMzNkcXVOaEFKRTI1MG1CWkhXNVo2V3JDZ0FqYXJIbG8wRmp6dURfM2U1S2tYcF9UbWdIdHlsc3F2MHpiN3JHdG84d09wUnRjeldGZ3JCNFd2M0J2bDRTaGpjeDFvdlNVaWhSc0JyVEdn?oc=5",
+      "published": "2026-05-03T08:03:15+00:00",
+      "source": {
+        "name": "Le Cronache",
+        "url": "https://cronachesalerno.it"
+      }
+    },
+    {
       "id": "bc9b9b221636",
       "title": "I farmaci preziosi per le cure accessibili a tutti - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYmlnOU1Yc2t0bFJhbUV4b3BUN09lNGlybU9tYTNzZi14YVFLM3Y0Y0FVSVA2UEw4TXZWeGxpTlYzX2twUnlhYTdUbVN0WHlWU05CU2piR0NtMjF1TmZwbUthRXhqV3RZUHBVaFVzMlFBcDdua3hhZVppN0xhUUw2RVJibC16WWlDZElnajhKMWNYRHhKajY4MHlzN1VmQ2tXMUFjbjEzdGs4bGZNdXRaYnBpR093Nl9ENnZzaC1jOVlPNGtlVnk4Q0RMXzQxa1d1RjE2Y214dUhTNHAwVVoyU0l2UmlnVlotQXQtV0U0RjY4alRvSlg0Sm1laDAwbUthZjRZT0JoT1NpbXVadXUtZ0VB0gGXAkFVX3lxTE9vS1lyeDJVNlJiWFMwLUc1UFVSUk8tN25XUnJ5MG9Hc21FeXBTbXZEY1dWVi1fRGtuZjFYSG5iSW83ZG9rUmRsM3lYcVVlejZ3eTU0d1dxZFFuSF9XaGtFTjhSTFh4dzZiSVR0dmREUHd3MUNQQzduSDJDSGFGRkF6TGI1ZzB4cDNmVDFUWm5UM3hOcUlxa1BJQlBFWTluQzJnWEJtUkwwekRxVzZYb29VTUF6MnlpX3ZETlIxT3BMRnNVNDlIVnZSQ3RUUmhaYzg2N0ZzWnVKTzQ4emZxdXFaUlFEalEzNjR2RXdwaDM2NThTMXdPOFN2cEdwdUhZdWhxdXpCaVRGWUdYak9mMHMwc1k5SnF0VQ?oc=5",
@@ -431,16 +431,6 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
-      }
-    },
-    {
-      "id": "98e05fbbf934",
-      "title": "Farmaci ai pazienti psichiatrici, scontro tra Romizi e l’Usl Umbria 1: “Servizi ridotti”. L’Azienda: “Solo maggiori controlli” - PerugiaToday",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONXdlbEgzNUFXMmZWa0duQVg0MnFyV2kyYnl1U0UtOG5sWEVFT3psYlZBRWxxUXRfMHotd1Q2bmNuUHIzSjg1aTRmYUV3eGZKRnh1ckFBWEF0LU9QTTctQnJNY1REamZVaGsxUEo2RHFQTnlLZE9HbDVtY2p6NGc5T0xMdVZhQkY3czRr?oc=5",
-      "published": "2026-04-29T11:29:04+00:00",
-      "source": {
-        "name": "PerugiaToday",
-        "url": "https://www.perugiatoday.it"
       }
     },
     {
@@ -604,13 +594,13 @@
       }
     },
     {
-      "id": "04ba83401c9c",
-      "title": "Nei parchi vive una tossina killer, ma per l'uomo può diventare una cura: lo studio - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUkxNEtUb3N0aXR1WHM3ZHBhZG1CZGhYT1ptSjRJb1dqeHJvdXRPUjNiMkdtS25zNE9iUFRzSHdrTm5rRkRUMEJzRkFaVVpBOVJtZDREMURoc0ZLSkRWSU1yNTlzOVQ5WlhRWjZnYmNSZkhLQzFZYnJvdUhheUFrUldCREZ2aDI4aFp6aGw0dDFXOXBIMVV2ag?oc=5",
-      "published": "2026-05-02T22:02:00+00:00",
+      "id": "60990871231e",
+      "title": "Nuovo robot per la farmacia oncologica della Città della Salute e della Scienza di Torino - TrendSanità",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50dmVheUpPVTVvVS1hWUZkZkV4QUhSTE9rWGptTmFWZ2F1UEYtMUVVZm1RWTFjQUFzcjdQWi1ncHdtMFBKVUJWWERncXM4NFd0TUJzcDVhYndBaEpVbE9GVkJXSnRFS1ktaTFhdVRGOA?oc=5",
+      "published": "2026-04-08T13:18:00+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "TrendSanità",
+        "url": "https://trendsanita.it"
       }
     },
     {
@@ -621,16 +611,6 @@
       "source": {
         "name": "agenziagiornalisticaopinione.it",
         "url": "https://www.agenziagiornalisticaopinione.it"
-      }
-    },
-    {
-      "id": "60990871231e",
-      "title": "Nuovo robot per la farmacia oncologica della Città della Salute e della Scienza di Torino - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50dmVheUpPVTVvVS1hWUZkZkV4QUhSTE9rWGptTmFWZ2F1UEYtMUVVZm1RWTFjQUFzcjdQWi1ncHdtMFBKVUJWWERncXM4NFd0TUJzcDVhYndBaEpVbE9GVkJXSnRFS1ktaTFhdVRGOA?oc=5",
-      "published": "2026-04-08T13:18:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
       }
     },
     {
@@ -711,6 +691,16 @@
       "source": {
         "name": "Ministero Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "04ba83401c9c",
+      "title": "Nei parchi vive una tossina killer, ma per l'uomo può diventare una cura: lo studio - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUkxNEtUb3N0aXR1WHM3ZHBhZG1CZGhYT1ptSjRJb1dqeHJvdXRPUjNiMkdtS25zNE9iUFRzSHdrTm5rRkRUMEJzRkFaVVpBOVJtZDREMURoc0ZLSkRWSU1yNTlzOVQ5WlhRWjZnYmNSZkhLQzFZYnJvdUhheUFrUldCREZ2aDI4aFp6aGw0dDFXOXBIMVV2ag?oc=5",
+      "published": "2026-05-02T22:02:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -854,16 +844,6 @@
       }
     },
     {
-      "id": "ef0095899f32",
-      "title": "IL SOLE 24 ORE * SALUTE: «\"NESSUNA CARENZA DI FARMACI\": DA FARMINDUSTRIA AI DISTRIBUTORI L’ALTOLÀ SUL RISCHIO ALLARMISMI - agenziagiornalisticaopinione.it",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYk0yT2tyQVlzMG0yZUsyb0VuR1Z5N21XcHV4QXd3ZThUZ3FYM0VHMTM1MG56UTFRdTdONkdIN3U3c24yTTZBQTZqUGUxajk5Z0VTR1A2MXh3czZNaXFqOGhpWkh5cDFEX3ZtYUtFVnFLMVp0dXYtWFNJb1dUMG9TNmFocW9ZbGxpZEVHb3A5TE5vTGZ6V2pvZktWVXk4VFdTR1AtWm9BbWxlc0hmdFd1dzVINDd2NG10eGpIVi1ZTmQ5Q1llakhveGNkMERvTmNsQlpZcHMzeEZndlZLN1o1aVRBM0dHaG1vV1VhQWZMNXpUcHhsaElNQ1JsTWY3ZkV6LTdWSlZB?oc=5",
-      "published": "2026-05-01T05:01:34+00:00",
-      "source": {
-        "name": "agenziagiornalisticaopinione.it",
-        "url": "https://www.agenziagiornalisticaopinione.it"
-      }
-    },
-    {
       "id": "50e0fc0bed44",
       "title": "Farmaci: AbbVie, 16 molecole in sperimentazione contro 20 tipi di cancro - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3NQU0xfMlQ3OGtlajFLQ2ZwZmlFTE16QzRRczA4S1lqOXBTMVlfX3diSktTazRvYWxXZ3lsZGc1VE82aW11SUZ6c25aNkFpa1FVMmxNUTFzQkE0dGhiWmZRWE1jbEgxbTRTaVYxNUo4REJGVENJVndlUndNRjhGc1ZyT2RzYjhqYnh5MDJ6MlZNZnNxd01jMzlwZzZrdjZSZTYxSmRQVEx6UQ?oc=5",
@@ -871,6 +851,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "ef0095899f32",
+      "title": "IL SOLE 24 ORE * SALUTE: «\"NESSUNA CARENZA DI FARMACI\": DA FARMINDUSTRIA AI DISTRIBUTORI L’ALTOLÀ SUL RISCHIO ALLARMISMI - agenziagiornalisticaopinione.it",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYk0yT2tyQVlzMG0yZUsyb0VuR1Z5N21XcHV4QXd3ZThUZ3FYM0VHMTM1MG56UTFRdTdONkdIN3U3c24yTTZBQTZqUGUxajk5Z0VTR1A2MXh3czZNaXFqOGhpWkh5cDFEX3ZtYUtFVnFLMVp0dXYtWFNJb1dUMG9TNmFocW9ZbGxpZEVHb3A5TE5vTGZ6V2pvZktWVXk4VFdTR1AtWm9BbWxlc0hmdFd1dzVINDd2NG10eGpIVi1ZTmQ5Q1llakhveGNkMERvTmNsQlpZcHMzeEZndlZLN1o1aVRBM0dHaG1vV1VhQWZMNXpUcHhsaElNQ1JsTWY3ZkV6LTdWSlZB?oc=5",
+      "published": "2026-05-01T05:01:34+00:00",
+      "source": {
+        "name": "agenziagiornalisticaopinione.it",
+        "url": "https://www.agenziagiornalisticaopinione.it"
       }
     },
     {
@@ -894,16 +884,6 @@
       }
     },
     {
-      "id": "36888c66d76b",
-      "title": "Malaria: approvato il primo farmaco per neonati, svolta nella salute pubblica - focustech.it",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0TUZtWm9aZl9NbTlLMjU2M3Q4bVY2LWdzS19Vbk5Tb00zTmVBbXRfSEhKdllabmdhQXI0LUpzZWVaYlpmb0Z5SFdRdEc4TlJ0ckdobFRRek1UUE1NSk5BNDVjSjYtUnVxMk9z?oc=5",
-      "published": "2026-05-03T10:30:27+00:00",
-      "source": {
-        "name": "focustech.it",
-        "url": "https://focustech.it"
-      }
-    },
-    {
       "id": "0c346dfc2162",
       "title": "Giornata delle malattie rare, quattro nuovi farmaci approvati da Aifa - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFEyR0hfMlpjZkZiakVJQ2swRmR2WVNENmEzS29sRVpwOWxTVllIWUJHYWJJOUpyc1pRMW9zNVBkb3BwcVNrblM3eWNvdWQ1VXBNdGhZam1NeWZLMlpwcGhVV1AzS2lGTEtRMGFCYThMcUIyOXVRWEsxY194YVppSFJFREJCcUxLUHBTcW93?oc=5",
@@ -921,6 +901,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "36888c66d76b",
+      "title": "Malaria: approvato il primo farmaco per neonati, svolta nella salute pubblica - focustech.it",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0TUZtWm9aZl9NbTlLMjU2M3Q4bVY2LWdzS19Vbk5Tb00zTmVBbXRfSEhKdllabmdhQXI0LUpzZWVaYlpmb0Z5SFdRdEc4TlJ0ckdobFRRek1UUE1NSk5BNDVjSjYtUnVxMk9z?oc=5",
+      "published": "2026-05-03T10:30:27+00:00",
+      "source": {
+        "name": "focustech.it",
+        "url": "https://focustech.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "f27e9b1e2bd8",
+      "title": "Quale accesso ai farmaci anti-obesità - SaluteInternazionale",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck5XRW9nSWVkZTJJZEVneF9FUllRS0VlMm0wdWNHd3VwSWxJazBjNG5Gckc2ZXJJaHgxZHBOcW85dDU2YVF3MUhuZTc2NW9Vc2FKX3B5U2txaFhwdmdEcElUalVsZGI0ZDN0NU1OeVFmUnZrQkR0STh2TzNWTjNqNnZhTXNGTnc2ZEk0?oc=5",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": {
+        "name": "SaluteInternazionale",
+        "url": "https://www.saluteinternazionale.info"
       }
     }
   ]
