@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T16:36:46.179281+00:00",
+  "fetched_at": "2026-05-03T17:38:28.050699+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -37,7 +37,7 @@
       "id": "f789d5168542",
       "title": "Presentato il Rapporto annuale sulla farmacia, che si conferma sempre più presidio di salute - RIFday",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDA2NDBmV0FvX1VKV2NOcUUwNjJzc0o2eXF5U3JCQ2hYb3B4UXhCRW9MM2JGQ0hLc0NyMEphUFlBVmZhdVZuSEtMc2dKMTF3WFBFTFh3ZEstbV9LU0FpdjBiblRnZWQ2ZjlHUnBSSXhKbDdjd0tYTG9WQk5VYTU3S0Fqd3ZrUmxseWUwTWUtQXRJRVNsRzNGMUw2a0JoY2NsS0V1T3p0dlpoSDdLbmx3WGRaMWgyQmJlcDFLck9VMXFjY1E?oc=5",
-      "published": "2026-05-03T09:23:42+00:00",
+      "published": "2026-05-03T09:24:19+00:00",
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "fe768d56af6f",
-      "title": "Farmaci difficili da reperire: un cittadino su tre segnala problemi - Qui Salute Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRdWowN0t0TEItbzQyMThDYllrWkJpVlo3T0x4WERyZ1AwV1MwcDRrX2J0U18zVWJfRUdJSENPeU5xYS1yc2lmbUlhZXl3U0NONEhnQzVjOXNWWGQ4X0lvbHNxUEZkVHRlVWhfYzEtbzg5NUxRYk9kckVvaw?oc=5",
-      "published": "2026-05-03T04:55:00+00:00",
-      "source": {
-        "name": "Qui Salute Magazine",
-        "url": "https://quisalute.online"
-      }
-    },
-    {
       "id": "193c1ddf2ad5",
       "title": "Farmaci, scontro sul decreto in Sicilia: Leanza (Pd) chiede lo stop, proteste di medici e pazienti - MessinaToday",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOF9zVG1iRVJWajdpdk5BTnEzbF9vUlRwdEF2Q2NXN3R0TGJiRTBqdHpLUlRlQW9oMjZYYVRWSmRYZWtqT0pxVk53MFBvc0dQeUR6Y0xWNlFKMEhRajlKMjRYSFhRbGRBYThIeWJUb0ZyVWd0NXB2MldJYXdkOENDV2dBSkhrcldPQW1jWVpFOU9SYkZ1VFkw?oc=5",
@@ -84,13 +74,13 @@
       }
     },
     {
-      "id": "e03bf4feff8d",
-      "title": "L’Intelligenza Artificiale ci aiuta a ridurre i farmaci “inutili”? - iO Donna",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWdWUXlVU0ZuSDRzYi1UbzlRYXJDdkEwQ1ZXSWhiR1ZIRjVaWkZQdzRqbDlkNE1IbGJLWlE2a2lMajlnek90OVZQdUUwa1B1QXU0UUM0Mm9yMldsMjM5RUZud2dqeTVTTkowQi1EYmFLcHlhZ2ZWMjJUeVlnMkphMTM1WDl3WUxHRVNVSTNVRnZGWVgxTXJTV1VTY0ZiX2JqLXVfX2NLZDR6SVZnTVk3WWRsR3NhZw?oc=5",
-      "published": "2026-05-03T05:03:18+00:00",
+      "id": "fe768d56af6f",
+      "title": "Farmaci difficili da reperire: un cittadino su tre segnala problemi - Qui Salute Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRdWowN0t0TEItbzQyMThDYllrWkJpVlo3T0x4WERyZ1AwV1MwcDRrX2J0U18zVWJfRUdJSENPeU5xYS1yc2lmbUlhZXl3U0NONEhnQzVjOXNWWGQ4X0lvbHNxUEZkVHRlVWhfYzEtbzg5NUxRYk9kckVvaw?oc=5",
+      "published": "2026-05-03T04:55:00+00:00",
       "source": {
-        "name": "iO Donna",
-        "url": "https://www.iodonna.it"
+        "name": "Qui Salute Magazine",
+        "url": "https://quisalute.online"
       }
     },
     {
@@ -101,6 +91,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "e03bf4feff8d",
+      "title": "L’Intelligenza Artificiale ci aiuta a ridurre i farmaci “inutili”? - iO Donna",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWdWUXlVU0ZuSDRzYi1UbzlRYXJDdkEwQ1ZXSWhiR1ZIRjVaWkZQdzRqbDlkNE1IbGJLWlE2a2lMajlnek90OVZQdUUwa1B1QXU0UUM0Mm9yMldsMjM5RUZud2dqeTVTTkowQi1EYmFLcHlhZ2ZWMjJUeVlnMkphMTM1WDl3WUxHRVNVSTNVRnZGWVgxTXJTV1VTY0ZiX2JqLXVfX2NLZDR6SVZnTVk3WWRsR3NhZw?oc=5",
+      "published": "2026-05-03T05:03:18+00:00",
+      "source": {
+        "name": "iO Donna",
+        "url": "https://www.iodonna.it"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "454fe53a59ef",
-      "title": "Dispositivi medici - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnVjaURacnZUaVIzV280bmVCbVJVdzJpWnRMN0Y0aTliNmRubDVUdnhMbUpES1U3WVNrT0RqS0d1NnVYWnA5ZGxBLWE1cU5xU3J5dEd3ZDBIcDd5bHM5RE1ZNlV0aHVLTkRMd1VIWXpPdTJXQ3c?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "33c3b1359b2d",
       "title": "Farmaci, un cittadino su tre denuncia carenze e sui medicinali generici arriva il rischio scorte - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXJoQlNLVVpUZlpkRWtVYWNjWVRFRGZUZlpjbEJMN2dyMzlJYUJ0cWFnaXVSakd4UzAzeEd5UTR2czBINkF4ZDNRTlBnX0hLMk03Z0FRemJUbnFHek9DUVF6OFlLSVVnM3FpVVM0dnhtV2lZODljLW9HbmN2Q3BTbDFhQVo1bVBVUU1MSG1iMWtobmhMNHpZQS1nWldscmhVdXZKbEFiRndlM2E0MXBxZUY0aG5HRnN5eVFhdXBtUUM?oc=5",
@@ -191,6 +181,26 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "8c43d854d865",
+      "title": "Integratori alimentari, insediato il Tavolo tecnico triennale al Ministero della Salute - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0ZEeTlCRTd0amZmX1BEaGxsUjhLdFVpYU9zOWRIaktPYTgxYy1JYjI3UkZKdUNDajRBTjY5R3JSVk50OG9EUVBCTmNsV0FOekJtYUJTRFp0TnBFakVrUFFWUEVPVDN1clZlQ0JGdTB0YzRWSm5CUUduMW83cGZ1U3lCcGotU2FQODBvYUlDYmRrY1NqcVlNWHVPQjYtY3dFUk5UVS02dDVHZmo4NW4xeHZmbXBUUWdQRzljQlV1ZHRmUnBKRmNmNlY2RE8zZw?oc=5",
+      "published": "2026-04-27T15:28:12+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "454fe53a59ef",
+      "title": "Dispositivi medici - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnVjaURacnZUaVIzV280bmVCbVJVdzJpWnRMN0Y0aTliNmRubDVUdnhMbUpES1U3WVNrT0RqS0d1NnVYWnA5ZGxBLWE1cU5xU3J5dEd3ZDBIcDd5bHM5RE1ZNlV0aHVLTkRMd1VIWXpPdTJXQ3c?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "42db998cc163",
-      "title": "Carenze di farmaci, farmacista garantisce continuità delle cure nonostante le criticità - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjRLV0kzTGZPcWJoVWZTTktUd1VmMzdaX3l1WHA5MUFaaHA4TklsZXVha1NFaEhBUy1QOEQxZ2FRVFMzdzZWZUpzUEM2MXA2ZHZIZlZlY1hBQndlREcyY1E1NmxkQ3llOG9LeHRHenNLNVloVEJ5NVNDWHVNUC1BYUQ3MUpGc2RTQWRLSVg5d1czZEFhWnJJNkc0R3duTDdhX01kNHZ6ZVNPR2NnTm1nQXpBYVBldV9jdFE4cWR6WmZvaDduZTdhVlFBUnhIMElaRFF6M3VLeDFsYmNIZFY4cGU2ZVI2cVFF?oc=5",
-      "published": "2026-04-30T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "d85a60bfc902",
       "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
@@ -274,13 +274,13 @@
       }
     },
     {
-      "id": "c401eef40338",
-      "title": "Lettera a Fico: Mancano i farmaci salvavita - Le Cronache",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RFZ1MU4tU3hlMzNkcXVOaEFKRTI1MG1CWkhXNVo2V3JDZ0FqYXJIbG8wRmp6dURfM2U1S2tYcF9UbWdIdHlsc3F2MHpiN3JHdG84d09wUnRjeldGZ3JCNFd2M0J2bDRTaGpjeDFvdlNVaWhSc0JyVEdn?oc=5",
-      "published": "2026-05-03T08:03:15+00:00",
+      "id": "42db998cc163",
+      "title": "Carenze di farmaci, farmacista garantisce continuità delle cure nonostante le criticità - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjRLV0kzTGZPcWJoVWZTTktUd1VmMzdaX3l1WHA5MUFaaHA4TklsZXVha1NFaEhBUy1QOEQxZ2FRVFMzdzZWZUpzUEM2MXA2ZHZIZlZlY1hBQndlREcyY1E1NmxkQ3llOG9LeHRHenNLNVloVEJ5NVNDWHVNUC1BYUQ3MUpGc2RTQWRLSVg5d1czZEFhWnJJNkc0R3duTDdhX01kNHZ6ZVNPR2NnTm1nQXpBYVBldV9jdFE4cWR6WmZvaDduZTdhVlFBUnhIMElaRFF6M3VLeDFsYmNIZFY4cGU2ZVI2cVFF?oc=5",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": {
-        "name": "Le Cronache",
-        "url": "https://cronachesalerno.it"
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -304,6 +304,16 @@
       }
     },
     {
+      "id": "c401eef40338",
+      "title": "Lettera a Fico: Mancano i farmaci salvavita - Le Cronache",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RFZ1MU4tU3hlMzNkcXVOaEFKRTI1MG1CWkhXNVo2V3JDZ0FqYXJIbG8wRmp6dURfM2U1S2tYcF9UbWdIdHlsc3F2MHpiN3JHdG84d09wUnRjeldGZ3JCNFd2M0J2bDRTaGpjeDFvdlNVaWhSc0JyVEdn?oc=5",
+      "published": "2026-05-03T08:03:15+00:00",
+      "source": {
+        "name": "Le Cronache",
+        "url": "https://cronachesalerno.it"
+      }
+    },
+    {
       "id": "676eec22ea32",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -311,16 +321,6 @@
       "source": {
         "name": "Ministero Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "d0d54573f1cc",
-      "title": "La farmacia di comunità, una risorsa da valorizzare. A partire dalle aree interne - Vita.it",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV29pZHZwVHVLNEROREVGdW1rU3EyaEdobk81SG56bDV2MTc3SmVkTWZxUF9ySlZUWnEwWWtIaE15dXlJYUY4QXk0UVZEbzR0aDNJWmZrRWQzQUp1Rk9YMmhwSWZlNnMxVFhiNDNzOXZscGZRTkJSOXdoUjRVT1k1MUtZQmVqTHUyRW1xRjY3VDV0VFVmYlZnU1Q2WXpDTlIyWXc?oc=5",
-      "published": "2026-04-29T15:21:36+00:00",
-      "source": {
-        "name": "Vita.it",
-        "url": "https://www.vita.it"
       }
     },
     {
@@ -334,6 +334,16 @@
       }
     },
     {
+      "id": "d0d54573f1cc",
+      "title": "La farmacia di comunità, una risorsa da valorizzare. A partire dalle aree interne - Vita.it",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV29pZHZwVHVLNEROREVGdW1rU3EyaEdobk81SG56bDV2MTc3SmVkTWZxUF9ySlZUWnEwWWtIaE15dXlJYUY4QXk0UVZEbzR0aDNJWmZrRWQzQUp1Rk9YMmhwSWZlNnMxVFhiNDNzOXZscGZRTkJSOXdoUjRVT1k1MUtZQmVqTHUyRW1xRjY3VDV0VFVmYlZnU1Q2WXpDTlIyWXc?oc=5",
+      "published": "2026-04-29T15:21:36+00:00",
+      "source": {
+        "name": "Vita.it",
+        "url": "https://www.vita.it"
+      }
+    },
+    {
       "id": "b76eb21912f7",
       "title": "Salute: farmacia dei servizi promossa dai cittadini, il rapporto - Ore12",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmJYRFhWUDlKWGtidk9mMXB2YnBvUkZfYTNZOUFvYUxMdl8tNVN2b2VBX2QwTzQ0Nk03Q1pZQ3dmUW5qcHlJR2htSjkyZ054OHNRMmdKT0hLWDcxVkhnY3dFZmtHMEZZZWhSb3RGQjhIUkdxVUZYS2NfQ1JNcE9IdHBpQTRFQ3VObnNHWFBn?oc=5",
@@ -344,13 +354,13 @@
       }
     },
     {
-      "id": "00fb7c74a596",
-      "title": "Farmaci: successo di Remed in Italia. Il progetto di Novo Nordisk raggiunge altre città - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXZ5cURvZUpENkRKZFVqaFBlbGV4LXY4dVp4dUgzTzlzcl8wXzd3dVVDcEpVNDFBdmRicThqSENDM0pidnlOclpJMllZZnZTd0tzQW1jdUl0SlhXd1JTTWw4OXFjV2cxX3JRSjVhbVRXYjVfdmp2cGpCWlFSNmJDRS1qd2xKbU1lYmQ0dkxJeldORFRWaFRIZ1pmZjREcW1DWWFXMFYxaGxJQWw5ZE9USzZVQllXZnctaDZkMkk1QzVXV2RvOWZv?oc=5",
-      "published": "2026-04-28T08:45:08+00:00",
+      "id": "771b12bd406f",
+      "title": "Stati Uniti. La svolta di Trump sulla salute mentale: ordine esecutivo per accelerare la ricerca sui farmaci psichedelici - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT19NeHpoN2xuZU54eGEzR09GOFF2OS16dnMzTDFZbmZhZ25Tb2JQUF9XUVhUdHIzYTRCWWZnOTNTUUd1OHFKRVpYUGRPbFQ2cFB4UTJlUVYxWkJMbmVtUUlIUlNWTEFmbGFBbnk0YnA2RGVvSWJIUkNtLWIwcE9ub240TU5LU3JVLUYxZDVxMVA4S0FydEVQR3Y5dVpwMDRQSzRNLXpOR1NtQnFLQVRMRXR6OXo1UVJzaXJkU2RpY0NvWE90Ykx3U2Q4TzBlVFF0REVzMVFlSTh6M3dlY3lZbW01aDFMV18wMmU5aGFoWGp5cGoyVzBmWHZB?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -361,16 +371,6 @@
       "source": {
         "name": "VeronaSera",
         "url": "https://www.veronasera.it"
-      }
-    },
-    {
-      "id": "771b12bd406f",
-      "title": "Stati Uniti. La svolta di Trump sulla salute mentale: ordine esecutivo per accelerare la ricerca sui farmaci psichedelici - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT19NeHpoN2xuZU54eGEzR09GOFF2OS16dnMzTDFZbmZhZ25Tb2JQUF9XUVhUdHIzYTRCWWZnOTNTUUd1OHFKRVpYUGRPbFQ2cFB4UTJlUVYxWkJMbmVtUUlIUlNWTEFmbGFBbnk0YnA2RGVvSWJIUkNtLWIwcE9ub240TU5LU3JVLUYxZDVxMVA4S0FydEVQR3Y5dVpwMDRQSzRNLXpOR1NtQnFLQVRMRXR6OXo1UVJzaXJkU2RpY0NvWE90Ykx3U2Q4TzBlVFF0REVzMVFlSTh6M3dlY3lZbW01aDFMV18wMmU5aGFoWGp5cGoyVzBmWHZB?oc=5",
-      "published": "2026-04-21T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -444,16 +444,6 @@
       }
     },
     {
-      "id": "8b043d764d33",
-      "title": "Curva glicemica (29/04/2026) | Forum Farmaci e gravidanza | Il Medico Risponde - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDVteFdMalFFUjdSX04xRjZuR0FDd3VId1BVWk9RZU5jWC1OMmY5T3JLcUR2UU5xVjAtY1JVWkJDZENtQ3NzS1M5dVVZRjZ2SUFLRU84ckl1QkNUZmF1NlExUXkwZkI2ek9kXzFMTWN0bnlMMkZVanhXVnRYc0pBTGlqaUtLUHhsZ19NUUtkeUhhUEpTVmN3dVd1UnJvaUItWEpaWEo4bzA0LXgzcDhz?oc=5",
-      "published": "2026-04-29T10:12:57+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "9be95167c53a",
       "title": "Ecco perché stanno riducendo i medicinali per il sonno: attenzione alle conseguenze - Futura, le média qui explore le monde",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFVZYVF5dHVFRkR5bWJuenJlSXRDZFhldWxGVE4wd2V6XzNLbFg3MURJYlItampodVNIZXR5SzJTQV9SYzU1TW1Xc3hEVERDQy1Kcm9XUWNRWjVMbXRmU1d5MjNJV3hPNFhZejVhZWo2amJMTE95ZTdpVWMtQ0JGM3VWXzJqS3BDYjV0UTFBTFR5QW5RXzJybEZHd0ROZkNtWFBmTTZvRGhPQ2pBZ3ZsWEFaNm5tRlpIRFBnTkctM24wWFdVSGt2V2xoOA?oc=5",
@@ -494,16 +484,6 @@
       }
     },
     {
-      "id": "5e1d5bf9d2f0",
-      "title": "Erbe officinali, la mostra curata dallo studioso Ernesto Riva: ​dal chinino all’aspirina, alle campagne di stampa - Il Gazzettino",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFdTc1VpMDIwbGkzTEswYlFRZlZLdUFfTm1qdmNaVVZMckhvT3NNNVY1MS1vN3ZMSkhxdHZROElfLXBVRlJITHplYjV4dThJZ3dQd1NBVG9jWWEzd1ZhUmdvcEQzcW5LdzBKUWhPYTlVUDF6bEVtT0JfaW0xdzY5MmlsbWlQWnBOM1hyNjdHeEpzbHlubDIydW13UDJBLWlSbmfSAZwBQVVfeXFMTS13XzNxaURmWGpQbGNCQlEwOFotMUVHenRtRE8zUGwxS1lLckxUZGFMQ2F5N3VlSmtxZWdtV3dIcFVHT0NqNmF0blF4a1dFWTlfNjZKaWZ3TkF5UmF2RnkwLUVudkhYM0FId1I0c192eWlBVmhYSnNJYUdkekNxYUpZd2VhX2dUVkRLcUk1NWo0OEtTcU8yUU9LcFFk?oc=5",
-      "published": "2026-05-03T09:32:53+00:00",
-      "source": {
-        "name": "Il Gazzettino",
-        "url": "https://www.ilgazzettino.it"
-      }
-    },
-    {
       "id": "35ce8734ce7a",
       "title": "Più esami e farmaci significano davvero più salute? Il dibattito ai “Mercoledì della medicina” - IlPiacenza",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalNuaGQwaWV4X3BjcGlNMEdTSVd2elFVa2NDSk9QQlpMc1N6clo4MFVDN1gxX2JmR2trM0ZvVkNxYWR0cHZ3X3Nwd0wxNkFYVGtrVXMwU05nelF6T09kRHhobE1laldaY24xU1JfZTYxLWRsb3BwWE5ZRWlpVjhGbDB1eGpSRmxLTlNkSk5rUVRMQjhXR3dWZTJOSE95SnFuSVRoZUttUVRFcUVjTENxX2dUYlBkRnFZQTJrcGJsUzdiMi14M2sycw?oc=5",
@@ -511,16 +491,6 @@
       "source": {
         "name": "IlPiacenza",
         "url": "https://www.ilpiacenza.it"
-      }
-    },
-    {
-      "id": "04ba83401c9c",
-      "title": "Nei parchi vive una tossina killer, ma per l'uomo può diventare una cura: lo studio - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUkxNEtUb3N0aXR1WHM3ZHBhZG1CZGhYT1ptSjRJb1dqeHJvdXRPUjNiMkdtS25zNE9iUFRzSHdrTm5rRkRUMEJzRkFaVVpBOVJtZDREMURoc0ZLSkRWSU1yNTlzOVQ5WlhRWjZnYmNSZkhLQzFZYnJvdUhheUFrUldCREZ2aDI4aFp6aGw0dDFXOXBIMVV2ag?oc=5",
-      "published": "2026-05-02T22:02:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -554,6 +524,16 @@
       }
     },
     {
+      "id": "04ba83401c9c",
+      "title": "Nei parchi vive una tossina killer, ma per l'uomo può diventare una cura: lo studio - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUkxNEtUb3N0aXR1WHM3ZHBhZG1CZGhYT1ptSjRJb1dqeHJvdXRPUjNiMkdtS25zNE9iUFRzSHdrTm5rRkRUMEJzRkFaVVpBOVJtZDREMURoc0ZLSkRWSU1yNTlzOVQ5WlhRWjZnYmNSZkhLQzFZYnJvdUhheUFrUldCREZ2aDI4aFp6aGw0dDFXOXBIMVV2ag?oc=5",
+      "published": "2026-05-02T22:02:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
       "id": "a0d570ca6205",
       "title": "Carenze e indisponibilità di farmaci: nessun allarme in Italia ma l’attenzione è alta - AboutPharma",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2lkQXZHOG9JOUNsdERwR1p3dEd0ZHFfV1VYaWtOeXdUVmZ6VlhVMUdnSDNMNHFzYV9pQjk0Q2pDRFdHelkxa25GQlBoQUNEemFZczZ4di1RcmNXUkRXS0ZzQ3hJTHRveHRmM1JVclZ5Q2RURTlIWXR5SjFncm9JNlVaYU5jQXNYSUt6MWpyTmhDdUNXXzF0WGhTa0g5MHdZOEtXRDhpZmVkUk1INkMzUFRveldZenJZeklFRTNjNmVhbF8yTlE?oc=5",
@@ -574,16 +554,6 @@
       }
     },
     {
-      "id": "2e02742663be",
-      "title": "Pregliasco: «Antibiotico resistenza? L’allarme è reale, ma la responsabilità è di tutti» - famigliacristiana.it",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJnYW5nbUtiei1PM0tkcDNoOW9ibnlYdExJT1RjbEZvZS04dU1NcnpSTFl0UDBoV0ZhbVI2bzgyQjBfNmxyLU93anNPb0pwWmNxV2tsaHROTjNGYjhlRGhSOUlvekkwbG14eW5WT1lQMjkzOWVBcDFSazZwTHByVHVmZEluTlFuQVRFQkhnU3k2WG00RmVxaFE1NWdXdzFwYXZmSk1iUW5Obi1LalJQOXg3eGUxV0Iz?oc=5",
-      "published": "2026-05-02T06:45:00+00:00",
-      "source": {
-        "name": "famigliacristiana.it",
-        "url": "https://www.famigliacristiana.it"
-      }
-    },
-    {
       "id": "e7adedfcbb86",
       "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
@@ -601,6 +571,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "2e02742663be",
+      "title": "Pregliasco: «Antibiotico resistenza? L’allarme è reale, ma la responsabilità è di tutti» - famigliacristiana.it",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJnYW5nbUtiei1PM0tkcDNoOW9ibnlYdExJT1RjbEZvZS04dU1NcnpSTFl0UDBoV0ZhbVI2bzgyQjBfNmxyLU93anNPb0pwWmNxV2tsaHROTjNGYjhlRGhSOUlvekkwbG14eW5WT1lQMjkzOWVBcDFSazZwTHByVHVmZEluTlFuQVRFQkhnU3k2WG00RmVxaFE1NWdXdzFwYXZmSk1iUW5Obi1LalJQOXg3eGUxV0Iz?oc=5",
+      "published": "2026-05-02T06:45:00+00:00",
+      "source": {
+        "name": "famigliacristiana.it",
+        "url": "https://www.famigliacristiana.it"
       }
     },
     {
@@ -654,16 +634,6 @@
       }
     },
     {
-      "id": "43f96e9aff14",
-      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
-      }
-    },
-    {
       "id": "7e35b0d75597",
       "title": "Persona qualificata di un sito di fabbricazione di medicinali veterinari - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0JwbmpDVW95LVF6RHRJaWp0a0RoUUFwS3h3SlFfUVZCYnViVDZxSGw2VklpalBieUl5b1RtTUV0RTFoR2FKdTItSUlRNXBfc3dFdXE4ejF2V0o3eFJ2SUM2WU5GQU92U0lDaTRBNTNES3p6M2NUZ2k3U2FLNnRWa1c5alZuRGVpZ3BwaERNT1VPRDFSNVJ2TGEtcHBEd2huR29IUEFCQnVXYTd4YWlJNXpUMnZZVHYtZUhfZ0RUbU5Ea00?oc=5",
@@ -671,6 +641,16 @@
       "source": {
         "name": "Ministero Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "43f96e9aff14",
+      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "source": {
+        "name": "Panorama della Sanità",
+        "url": "https://panoramadellasanita.it"
       }
     },
     {
@@ -794,6 +774,16 @@
       }
     },
     {
+      "id": "36888c66d76b",
+      "title": "Malaria: approvato il primo farmaco per neonati, svolta nella salute pubblica - focustech.it",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0TUZtWm9aZl9NbTlLMjU2M3Q4bVY2LWdzS19Vbk5Tb00zTmVBbXRfSEhKdllabmdhQXI0LUpzZWVaYlpmb0Z5SFdRdEc4TlJ0ckdobFRRek1UUE1NSk5BNDVjSjYtUnVxMk9z?oc=5",
+      "published": "2026-05-03T10:30:27+00:00",
+      "source": {
+        "name": "focustech.it",
+        "url": "https://focustech.it"
+      }
+    },
+    {
       "id": "89bd53ec3df9",
       "title": "NAS Carabinieri Foggia: scoperta farmacia abusiva all'interno di un'abitazione, sequestrati farmaci e dispositivi medici - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTl3QmtYMl9Za1Q1ZEJTVVpsTmdlUFMzNGZTbWphbmI1bDhCYVRkU3JFdjgwZ2V5T1BnbUJvOC1lUWV3dWpsU29GclpRczVlV1NGMFYySWFwOHQ0WV9IeVd4UWNlTW55VkFkQ0xXZ0sxYmNFRlJSeTAxc3ZyV2RrTHpraURUTWJhdFhjakNuLUVpajVCMy1PRWEwUWRNbE1YTnVsMXNMU1dURkN0QUI5cmZFNVhaN3FxZ3ZLZHZwMnN0aVNXU182YmotUUg?oc=5",
@@ -831,16 +821,6 @@
       "source": {
         "name": "Altalex",
         "url": "https://www.altalex.com"
-      }
-    },
-    {
-      "id": "36888c66d76b",
-      "title": "Malaria: approvato il primo farmaco per neonati, svolta nella salute pubblica - focustech.it",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0TUZtWm9aZl9NbTlLMjU2M3Q4bVY2LWdzS19Vbk5Tb00zTmVBbXRfSEhKdllabmdhQXI0LUpzZWVaYlpmb0Z5SFdRdEc4TlJ0ckdobFRRek1UUE1NSk5BNDVjSjYtUnVxMk9z?oc=5",
-      "published": "2026-05-03T10:30:27+00:00",
-      "source": {
-        "name": "focustech.it",
-        "url": "https://focustech.it"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "f82740cc2117",
+      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
+      "published": "2026-02-09T08:00:00+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "848738e07f57",
+      "title": "Farmaci C non negoziati - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXlUS1o0bHpycGFBd1c1RWVyZUxYc3dYYm5saW9OUWptaEo2TmRZbEdHTTd1b3JjQ2tvUlYxc01tYzlJVXRmVi1YdGFSLWplbThhTHV0SHRKVV9tWXQyblZGNC01LUc0OWhLVGlEQnlsYzc3c2tkSFlhQjgybEgxUktkNzRObzQ1NFBhRDZLaw?oc=5",
+      "published": "2025-07-04T07:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     }
   ]
