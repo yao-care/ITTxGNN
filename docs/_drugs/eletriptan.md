@@ -2,7 +2,7 @@
 layout: default
 title: Eletriptan
 parent: 僅模型預測 (L5)
-nav_order: 64
+nav_order: 77
 evidence_level: L5
 indication_count: 4
 ---
