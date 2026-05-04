@@ -1,18 +1,8 @@
 {
-  "fetched_at": "2026-05-04T15:03:32.523033+00:00",
+  "fetched_at": "2026-05-04T17:21:42.999733+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
-    {
-      "id": "9a34ec2a24ce",
-      "title": "Tumore al pancreas, ecco perché resiste ai farmaci: scoperta la proteina che rende le cure inefficaci - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2phZzk2YUoyc2F6SUZMcVVZYk03X1hKTDExLVhHNk9MdHVabmdmTmpTQk5Ld1lCNGZ2UlV6amhqeXF4WU1vUUs5d2lLSGhMRmE2aHV5akg0d2hmaWg4a3g4TXAweUJQQTBYNHBwWFlKYVlaSGRNZzU4S1hMNVlrYmhNcm53VTJGMnpEVHdGX1BzRWc0MXk3YVZPUVJ5dkJVYXd2UEh6OVpzRmlRTU52cjVLQmE0VHFGZnfSAbcBQVVfeXFMT3Y5UVJEV3ZmM2xZdHQyWUI5QWR1LWltM3dvNnJtYnFIUjZvT0ZsM0c0aldZeml5NUh5R1U1bE9pZWpsZUhkVks3N01GbWZ5c2tGVnF5N3d3dEtHN1VHUEpjYW4tb2M1RWhEdTRLZFlLYXRZZlRpOWNGRHU3eGIwUEhnczd0aXYxMmpncThyTktkYVJMX2VKZk9Fc0hXRHRlMTA1U2Vxd2x0TVNvbmJrSUZfUmdQNEJz?oc=5",
-      "published": "2026-05-04T12:11:45+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
     {
       "id": "25fd97e8fda8",
       "title": "Dolore cronico, a Udine una soluzione quando i farmaci non funzionano più - UdineToday",
@@ -21,6 +11,16 @@
       "source": {
         "name": "UdineToday",
         "url": "https://www.udinetoday.it"
+      }
+    },
+    {
+      "id": "9a34ec2a24ce",
+      "title": "Tumore al pancreas, ecco perché resiste ai farmaci: scoperta la proteina che rende le cure inefficaci - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2phZzk2YUoyc2F6SUZMcVVZYk03X1hKTDExLVhHNk9MdHVabmdmTmpTQk5Ld1lCNGZ2UlV6amhqeXF4WU1vUUs5d2lLSGhMRmE2aHV5akg0d2hmaWg4a3g4TXAweUJQQTBYNHBwWFlKYVlaSGRNZzU4S1hMNVlrYmhNcm53VTJGMnpEVHdGX1BzRWc0MXk3YVZPUVJ5dkJVYXd2UEh6OVpzRmlRTU52cjVLQmE0VHFGZnfSAbcBQVVfeXFMT3Y5UVJEV3ZmM2xZdHQyWUI5QWR1LWltM3dvNnJtYnFIUjZvT0ZsM0c0aldZeml5NUh5R1U1bE9pZWpsZUhkVks3N01GbWZ5c2tGVnF5N3d3dEtHN1VHUEpjYW4tb2M1RWhEdTRLZFlLYXRZZlRpOWNGRHU3eGIwUEhnczd0aXYxMmpncThyTktkYVJMX2VKZk9Fc0hXRHRlMTA1U2Vxd2x0TVNvbmJrSUZfUmdQNEJz?oc=5",
+      "published": "2026-05-04T12:11:45+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -47,7 +47,7 @@
       "id": "cd7177f73e5b",
       "title": "Spesa farmaceutica fuori controllo, gli ultimi dati e il rischio di una tempesta perfetta - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdy03REJGemVYRVFrOHk4V2x0NFpvSUdfVkFnNGFiYXNXdEUyWDN5a1B6OFRXMmpSMHQwTjdBUWNsckljdGJhN3RrbTVFaWthbE1sMmw3M2dzeHlBcFgxTVRPeXFoai1qd0hpa0laTUJXVTZnWmx5aVZrMEw2YURIa0tZUkJkSzV1eVBSVkxCWXFWdU91TmE0dTJPYzN1M1BCV2JDRENaQm9ISGd2cEEyMUdOUTFxQzc1aHA3ak1uUTZsU1JjRk1uX05OVWVtY2lha0ttNGx3?oc=5",
-      "published": "2026-05-04T13:46:17+00:00",
+      "published": "2026-05-04T14:49:12+00:00",
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
@@ -64,6 +64,16 @@
       }
     },
     {
+      "id": "dbd3049a482d",
+      "title": "Farmaci, 21 miliardi in 10 mesi. Piemonte sfora in ospedale - Lo Spiffero",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbHIxZHdWSDRJOWc5VHZ2cWozWlA5VEhxNnZ1T3BfaUozNTZuVS1zbWFiQmhjN2U3ejZFWndqbU4zZGVMTGFDX2VxbTQ2d0ZheXRyMUhGRHFxLTNBY2tR?oc=5",
+      "published": "2026-05-04T15:30:00+00:00",
+      "source": {
+        "name": "Lo Spiffero",
+        "url": "https://www.lospiffero.com"
+      }
+    },
+    {
       "id": "655d00082319",
       "title": "Leanza (PD): “Il governo regionale fermi il decreto sui farmaci. Non consentiremo che il risparmio si faccia solo sulla salute dei fragili” - ilSicilia.it",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSkh4Y0JTTndZQ2pIeU45SEppSm9vMzhTeF9Nd1hDOFFnd2xuOGUyc2hQakZVU21PaTVfcVhpdU1xdll5aFRWazRfeUw0NXF6OGhUU0lDVFVjVEw5cmMxbGROOFhWTlhGYWNpcXJIa2hTTXpCeF9DZC0wbWZVM3pQWEJoVWwxSzhGNkRfQ2hzMkwxbEhSSHBLQTl2TzNjbjFlMm40emV2U25qVFhVUU5BTTY4RlNqWVdSNW4zNWQ0T21DRV9tVjU2TzdkUlNBWG0tVzBNMmJXb3c3VzlqT01ZZFNvZjhpZ05UVWVj?oc=5",
@@ -74,33 +84,13 @@
       }
     },
     {
-      "id": "5f5b7853457d",
-      "title": "Tumore del pancreas: la svolta. Ecco i farmaci che rivoluzionano le terapie - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGdYSmcwQzBuU1lYd3FudUlhRzhzOXh2cnhodHdUaVFpajZpbzkzaHcyYkh3cGVsZUM5M0pzMFVqdXJiNC1hUE9jb056bTdNWWRmb3hKYmVRUkQxX2Y1STA3dS0tUkJBcXplX2wtMEdHVUVSS2Nud2tRTC1sbzA1cjBFRlo1OG9LU3FubGpkX3VJdjc4ckp5U2lSNVZ0ZjhHdnkwT1NmMW8wVHJ1MXU1M2ZEYnlRX185cHRKVkxWLXRFclRUY2V6X29sS3ZOdXpZ?oc=5",
-      "published": "2026-05-01T04:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "b6c22ac34507",
       "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
-      "published": "2026-05-04T09:39:44+00:00",
+      "published": "2026-05-04T11:28:53+00:00",
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "ab02ab5d3bb1",
-      "title": "Più spazio alla prevenzione e alla somministrazione dei vaccini grazie al Decreto-legge che rafforza il ruolo della farmacia di servizi. Se ne parla a Bari - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ1A3Z1cySjI4SkVwMDBhaGFlY2xlY25mYklyc1IxOWVEM0M3ZnpsVFd1RlVQT1lnNC13aWJadnJyWXFGOF9iNC1CWkoyZnZGZ2h6blhZaHU5Qnl1YTZBNFpnYU1jaHNJVVZRbERHbkJWUVJSNWNfUktXbVVqcjJfbDhpSGd5Q2pTRGxuVDViMnY5T1F4MnVsM1NnTnhkMjJDU1Qxd1dkeUExd0twaUJ1dUt1OTZ4UnRqUjIwZW12alRLSEJkbWxYT3VPTDNmekk2bTZDUFF3Tk9TdE5naFFEbDJHT3NDZjM1aEU0RWk2VWVCSVZNOGREYWdNeGZqN2lzQzIzN1YzRmdZdw?oc=5",
-      "published": "2026-05-04T09:27:07+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
       }
     },
     {
@@ -124,9 +114,39 @@
       }
     },
     {
-      "id": "8067eaabe4be",
+      "id": "271c7324863c",
+      "title": "Basilicata, spesa sanitaria e farmaci: l'assessore Latronico difende le scelte - Mattino di Foggia",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLWFhZTNWeHhDSjluUjFHQnNzWXlLbHdjVjBsYzdzajRNdzFpamFTQVlyZXItTjFrcEQxcmUwQ0F2QVBaNzN0eHlFc3NGbmFYWHAzMjFnUEFrTm45eFA3emk0MVVXUDBCREdfRVZSNjhUVnZ3NVc5Y0s0S2p2WHZWR3gwRFAwU1RXczZsODBSc0dORklva1NLdWlUM2FWY2ZoamgxdmM4djJHMWd1aE9iZFk0bnlQcGdSMXMyYjFhY1JyYkt2Wk9mS3pCbXBMLXF6R2dIMzM5TzNVZFFX?oc=5",
+      "published": "2026-05-04T16:30:00+00:00",
+      "source": {
+        "name": "Mattino di Foggia",
+        "url": "https://www.ilmattinoquotidiano.it"
+      }
+    },
+    {
+      "id": "9ceb63f89f58",
+      "title": "Várhelyi (Salute CE): \"Nuova legislazione europea migliorerà resilienza del pharma Ue\" - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREZPeHppalZCOFg5aUV0Yk1aNWE4Y08wcllOVnhKVXZ4WTdsd3YxOFBIOXdCTU81NExPVFB2YVc1QmUwSnFTTkdmTXFJcWlqeDF2VloyMkF3YUtoS0Q5bXpkZ2NOSWl6Nktqa2N6NXQxanN6WDBVZ3JaQUw4dlRreGRXVW1pbExNRnVTRFVDNnQ0anhyOGdqUnZCSEZWZXUtdUJVZFNuaWhpSUlDZW9VSVJTUWlfQ2lG?oc=5",
+      "published": "2026-05-04T10:20:49+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "ab02ab5d3bb1",
+      "title": "Più spazio alla prevenzione e alla somministrazione dei vaccini grazie al Decreto-legge che rafforza il ruolo della farmacia di servizi. Se ne parla a Bari - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ1A3Z1cySjI4SkVwMDBhaGFlY2xlY25mYklyc1IxOWVEM0M3ZnpsVFd1RlVQT1lnNC13aWJadnJyWXFGOF9iNC1CWkoyZnZGZ2h6blhZaHU5Qnl1YTZBNFpnYU1jaHNJVVZRbERHbkJWUVJSNWNfUktXbVVqcjJfbDhpSGd5Q2pTRGxuVDViMnY5T1F4MnVsM1NnTnhkMjJDU1Qxd1dkeUExd0twaUJ1dUt1OTZ4UnRqUjIwZW12alRLSEJkbWxYT3VPTDNmekk2bTZDUFF3Tk9TdE5naFFEbDJHT3NDZjM1aEU0RWk2VWVCSVZNOGREYWdNeGZqN2lzQzIzN1YzRmdZdw?oc=5",
+      "published": "2026-05-04T09:27:07+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
+      }
+    },
+    {
+      "id": "dcefecd5ff0d",
       "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - cittadinanzattiva.it",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlpDYkdjeW9EeEp3dm4zYi1VejFRRlo0c3YzT2VvaGt0QVN5MEU5eFZJTjVXY0VPY3gxMFVjaW5pOFB2ZnpCQ3lSQzMzLXVrNlNDdk9IaktlU3FsVjdJRF91OVJVcUU0bkdRellUQWlsT0R2Q3NzUjZMVWQwb21RelVMekk1MHVkTktaU1lXMjJHX1VWcmRiUnJHa0xzZTJfUlVxaU5TQ0owM3ZLcGg2YUdIbF9NRk1ZSXlfb29FbDNQQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUI4WDlHbWtBdDJXdjd3bExSZ3lleElidWlKbDJKaFJoQ19IWHJmVUhTREQ4Ym1iaGMxcm9RT0dzVGJEVEJmc1d4d19kOElZQjIydlltUHhRZzAxVmlsMDNUeTVwRFYzcEM1UVU3R0JPVWNYNEVDTEJzMkViY1ZWTkFWLU9BaHo4RkRQbUxuMm5ZbFFjcW9NSnREaVhQTVB6RVprWjdBTlhIanlOOW82U3llWkNobWhuZVM4ZFRQdjM2aHhLTUE?oc=5",
       "published": "2026-04-29T08:30:00+00:00",
       "source": {
         "name": "cittadinanzattiva.it",
@@ -154,16 +174,6 @@
       }
     },
     {
-      "id": "0957dfccaf91",
-      "title": "1- Várhelyi (Salute CE): \"Nuova legislazione europea migliorerà resilienza del pharma Ue\" - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREZPeHppalZCOFg5aUV0Yk1aNWE4Y08wcllOVnhKVXZ4WTdsd3YxOFBIOXdCTU81NExPVFB2YVc1QmUwSnFTTkdmTXFJcWlqeDF2VloyMkF3YUtoS0Q5bXpkZ2NOSWl6Nktqa2N6NXQxanN6WDBVZ3JaQUw4dlRreGRXVW1pbExNRnVTRFVDNnQ0anhyOGdqUnZCSEZWZXUtdUJVZFNuaWhpSUlDZW9VSVJTUWlfQ2lG?oc=5",
-      "published": "2026-05-04T10:15:40+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "218349ddecc4",
       "title": "Farmaci antivirali - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90Z0xfdVh0MmpjU2hMR3ozTnhqTDFyR0xKbnctZXZnX1YzTTlVQnVibG9ySTEyakduTkNmVnNDLV92S2JUNXdrYTBRUW9FQWJFR09tQWdQZ2dFai16cE9SR0YwaGw3OXNqbEk5YjBQQjc2UXBv?oc=5",
@@ -181,6 +191,16 @@
       "source": {
         "name": "AgenSalute",
         "url": "http://agensalute.it"
+      }
+    },
+    {
+      "id": "5f5b7853457d",
+      "title": "Tumore del pancreas: la svolta. Ecco i farmaci che rivoluzionano le terapie - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGdYSmcwQzBuU1lYd3FudUlhRzhzOXh2cnhodHdUaVFpajZpbzkzaHcyYkh3cGVsZUM5M0pzMFVqdXJiNC1hUE9jb056bTdNWWRmb3hKYmVRUkQxX2Y1STA3dS0tUkJBcXplX2wtMEdHVUVSS2Nud2tRTC1sbzA1cjBFRlo1OG9LU3FubGpkX3VJdjc4ckp5U2lSNVZ0ZjhHdnkwT1NmMW8wVHJ1MXU1M2ZEYnlRX185cHRKVkxWLXRFclRUY2V6X29sS3ZOdXpZ?oc=5",
+      "published": "2026-05-01T04:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -204,13 +224,23 @@
       }
     },
     {
-      "id": "dcefecd5ff0d",
-      "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - cittadinanzattiva.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUI4WDlHbWtBdDJXdjd3bExSZ3lleElidWlKbDJKaFJoQ19IWHJmVUhTREQ4Ym1iaGMxcm9RT0dzVGJEVEJmc1d4d19kOElZQjIydlltUHhRZzAxVmlsMDNUeTVwRFYzcEM1UVU3R0JPVWNYNEVDTEJzMkViY1ZWTkFWLU9BaHo4RkRQbUxuMm5ZbFFjcW9NSnREaVhQTVB6RVprWjdBTlhIanlOOW82U3llWkNobWhuZVM4ZFRQdjM2aHhLTUE?oc=5",
-      "published": "2026-04-29T08:30:00+00:00",
+      "id": "e8574ddb57fe",
+      "title": "Monitoraggio Aifa, spesa farmaci a briglia sciolta, 21 miliardi nei primi 10 mesi del 2025 - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3R3NmZ5Vjl6djdFeE9UQ0FNLWt2T3FRQk83emlsOEpWZ0E0ODlreFNIWDBkcTdfMGpscm5UWW95cWZ0NlVBQ3RKZXpsakVIV3RabVN5cDJsWDRjamd6ZTc2Y2wtWmVoOHpTQnlWWW5IRmdoX2FLSFFVaDg0Vy15WW4xVUJfOXNQeWJlTEpnY0ZnZ2o5OEdNTUhRQ3FUVEVtOVc3WkdzZkdmVDNPZm53NnphT2pKbFVvNzdPVFpmUQ?oc=5",
+      "published": "2026-05-04T17:07:21+00:00",
       "source": {
-        "name": "cittadinanzattiva.it",
-        "url": "https://cittadinanzattiva.it"
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "7f782358503f",
+      "title": "L’On. Calogero Leanza contro il decreto sui farmaci - 98zero",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdU9UaHM3WDlsMjZVUHlRMDY1QlVtV0wyT3N2TldHY24tdlg1RmJSNHozZUw1REwtcHY0S1FiM09UY0JCa3I3VUlsNzVNb3gyMUgzRHVjR29iTFRrTGhBbmtJVHVxUHBpWGFRQjNkOUZHbzE2SzVJLW5XUmNDaF9nYXFn0gGHAUFVX3lxTE1wYWkxcGRrQVdXeFFKWWd5UFJPMlAySEczZU5JcXBZRThZLTlzaXViQ0o5cFBvVlR6MkdwRFZyaDBtZVVCMWhEelJZanpGNV93T1U0b2F3LXJNN21GUzlMSXlIVjNFTVUxSzNsckROTGZkTHNIRGJIM09tYVNVbHl4dzh3YlJ3cw?oc=5",
+      "published": "2026-05-04T07:23:20+00:00",
+      "source": {
+        "name": "98zero",
+        "url": "https://98zero.com"
       }
     },
     {
@@ -221,16 +251,6 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
-      }
-    },
-    {
-      "id": "7ea5589b610b",
-      "title": "Farmaci, nessuna criticità anomala negli approvvigionamenti - CO Notizie",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHbi02dEZOaHNhcXl6OGM4Y3VSbV9KdldIcGYtcVpSRDN3ZFF1MFFLYWFMM1ZCQW10cW1FWjFqNzI5VlN5UTFKQkhDZUR5MzV1NkFIQzkybjFMbVhDc0pJOUdhVjhiLUxaU0JnSDkwSVBuQ3hDN2ZvX19tdnBNUHM?oc=5",
-      "published": "2026-05-01T19:37:44+00:00",
-      "source": {
-        "name": "CO Notizie",
-        "url": "https://www.cronacaossona.com"
       }
     },
     {
@@ -251,26 +271,6 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
-      }
-    },
-    {
-      "id": "1263340d86ba",
-      "title": "Farmaco per la ricrescita dei denti: procede la sperimentazione sull’uomo - Microbiologia Italia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTJGcUdlZnZJWFN1eG85TmhnTmt0aE9UM2VuWU9RQldIZ1FUMWJMN1ZzUllGa3pSa0xsRVZEMzdCaWlncXpyOVFyVVl0aHN2NjNNUm5IXzNnTVhfSEVZR1o3eGNTZE9YZnQ0bkFCYWc3R0FZTWRReFpLMWlkeGN3d3BQRm80am9zOXM3MjBrM29WdDdMU1JOUzNFTFdIR21panNGdHRyUmlZVlhNbzlwUFBrM29xTzY2cElr?oc=5",
-      "published": "2026-05-04T09:42:29+00:00",
-      "source": {
-        "name": "Microbiologia Italia",
-        "url": "https://www.microbiologiaitalia.it"
-      }
-    },
-    {
-      "id": "b90d28219a6b",
-      "title": "Cittadinanzattiva, un cittadino su tre ha avuto problemi a reperire farmaci - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGw4NlhXNzIyZFpQNTRwd1NoM09YQ1pLaFRTOWNDTXdoVTFTZFg3RjVwZG1ySVFkVURPYnhDbGVPLW1IZHJtblYyN1pYcUNzTzRSVTVJWXFNVm54SWlxS3BKMXRHVXFhN3lMbWc1NWNlTlNyWDk2VjJPZXB5XzNUemVkOEx5cTJYbHY1aGIwZ1NuOXVGM0JMckVPQ1V4ekwzNndBWmZjYmFGSnFGWWZER3VoZzFkQzdXZVYzclQ3NUFXa3lrSm44?oc=5",
-      "published": "2026-04-29T07:22:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -334,13 +334,13 @@
       }
     },
     {
-      "id": "193c1ddf2ad5",
-      "title": "Farmaci, scontro sul decreto in Sicilia: Leanza (Pd) chiede lo stop, proteste di medici e pazienti - MessinaToday",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOF9zVG1iRVJWajdpdk5BTnEzbF9vUlRwdEF2Q2NXN3R0TGJiRTBqdHpLUlRlQW9oMjZYYVRWSmRYZWtqT0pxVk53MFBvc0dQeUR6Y0xWNlFKMEhRajlKMjRYSFhRbGRBYThIeWJUb0ZyVWd0NXB2MldJYXdkOENDV2dBSkhrcldPQW1jWVpFOU9SYkZ1VFkw?oc=5",
-      "published": "2026-05-03T16:12:52+00:00",
+      "id": "0f3f72c63687",
+      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
+      "published": "2026-04-25T06:18:00+00:00",
       "source": {
-        "name": "MessinaToday",
-        "url": "https://www.messinatoday.it"
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -354,23 +354,23 @@
       }
     },
     {
-      "id": "0f3f72c63687",
-      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
-      "published": "2026-04-25T06:18:00+00:00",
+      "id": "193c1ddf2ad5",
+      "title": "Farmaci, scontro sul decreto in Sicilia: Leanza (Pd) chiede lo stop, proteste di medici e pazienti - MessinaToday",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOF9zVG1iRVJWajdpdk5BTnEzbF9vUlRwdEF2Q2NXN3R0TGJiRTBqdHpLUlRlQW9oMjZYYVRWSmRYZWtqT0pxVk53MFBvc0dQeUR6Y0xWNlFKMEhRajlKMjRYSFhRbGRBYThIeWJUb0ZyVWd0NXB2MldJYXdkOENDV2dBSkhrcldPQW1jWVpFOU9SYkZ1VFkw?oc=5",
+      "published": "2026-05-03T16:12:52+00:00",
       "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
+        "name": "MessinaToday",
+        "url": "https://www.messinatoday.it"
       }
     },
     {
-      "id": "9aa04d5edc4e",
-      "title": "Carenza Farmaci, Farmindustria: \"Ad ora nessuna emergenza, bene Tavolo con il governo\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnpwam1ZNURReGJXVjhybjkwNHRnUXRzWDZUQ0QzdG14WFdiV2FJallOenhBVXM3cHZjUEl1Wkw0VjZXdktXOV9qRW82R3IwX3g4cUk4QktQLW5ISjFkMng5V0ZNY1VUU3MtbTNUa2QtX254NW91YlZYa1lwdmFRaDJ4QkNSSDFiWkZvQmxLRTg3OXVibTZsT2xhWk81cnFxRUhMWFNIaFNxX2hUT0tqV1d1TXpMczN2c3FPY0xpLU9uRmtDOWVz?oc=5",
-      "published": "2026-04-30T13:00:36+00:00",
+      "id": "1263340d86ba",
+      "title": "Farmaco per la ricrescita dei denti: procede la sperimentazione sull’uomo - Microbiologia Italia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTJGcUdlZnZJWFN1eG85TmhnTmt0aE9UM2VuWU9RQldIZ1FUMWJMN1ZzUllGa3pSa0xsRVZEMzdCaWlncXpyOVFyVVl0aHN2NjNNUm5IXzNnTVhfSEVZR1o3eGNTZE9YZnQ0bkFCYWc3R0FZTWRReFpLMWlkeGN3d3BQRm80am9zOXM3MjBrM29WdDdMU1JOUzNFTFdIR21panNGdHRyUmlZVlhNbzlwUFBrM29xTzY2cElr?oc=5",
+      "published": "2026-05-04T09:42:29+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "Microbiologia Italia",
+        "url": "https://www.microbiologiaitalia.it"
       }
     },
     {
@@ -414,16 +414,6 @@
       }
     },
     {
-      "id": "5e6477329b8b",
-      "title": "Truffa staminali, Gemmato: \"Impegno totale contro le pseudo-terapie, anche online\" - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0tXeEFRYjZJLV8xeUs2UXZRYW1XOWVkdXpfN2RwWDNBWXNId05VZ1B5ZEExYUF0dDc0WXpKWVhzN3M0WER3Z3k1UmdqaDhaTE9MUXktaFdDY0lxM2lSYmswaVduUEJOWkFiY2ppNTFhWGFKdHZFLVFGVUNwcFl5eXhUMEFRaGRHX0NlUFVxTEpnVnB5UXhQbWJQWDVpaENUQzhBem9nVzczR1lQTmJReg?oc=5",
-      "published": "2026-05-03T18:14:34+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "9240f6f9f792",
       "title": "Malaria, approvato dall'Oms il primo farmaco per i neonati - Tgcom24",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzl1OEdiTzZYTG1VVTgtelZFTzB6Y2ExbVJQU2N1OEo3ZUtXZ0hhRmlka0xXdDJtX1FoY2p0UWp1ZjRrSE4wdmNpejItRkZOTmV1bjQ4TzlOcUM3cldWT3kyb2tNRFdzZUUxNkJXRjRCSGZoaExHRE1OU0lFQlNldUI1R3lNd3BEZXJ2YjdQeENqMjhR0gFoQVVfeXFMT05URDZNVzVEN29CVTNIWGE4X1RxaXgxZXFneFhVWFdiV1U2SVV6RkhfVlpWbXdSVGpSajhWbGpXblk3LW1fVGp1VUlCNUpsX3VoMk50ZUJ6UzJ1NzFlTHhyaEVKVzVvYmo?oc=5",
@@ -434,13 +424,13 @@
       }
     },
     {
-      "id": "2e02742663be",
-      "title": "Pregliasco: «Antibiotico resistenza? L’allarme è reale, ma la responsabilità è di tutti» - famigliacristiana.it",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJnYW5nbUtiei1PM0tkcDNoOW9ibnlYdExJT1RjbEZvZS04dU1NcnpSTFl0UDBoV0ZhbVI2bzgyQjBfNmxyLU93anNPb0pwWmNxV2tsaHROTjNGYjhlRGhSOUlvekkwbG14eW5WT1lQMjkzOWVBcDFSazZwTHByVHVmZEluTlFuQVRFQkhnU3k2WG00RmVxaFE1NWdXdzFwYXZmSk1iUW5Obi1LalJQOXg3eGUxV0Iz?oc=5",
-      "published": "2026-05-02T06:45:00+00:00",
+      "id": "52da1f21da38",
+      "title": "Effetto Ozempic, la moda torna alla magrezza estrema: addio body positivity e ritorno alle taglie piccole - LacityMag.it",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNal8zbGpiakFLb1J0UDM2ZllnSWowQkdsbE9DNnhRenBGVHRvTmJOa2Q2R0h5OWlTNVlMYU9MUnRsRHYyNkNMQzBOa3A3c1FjQjNFSzFTc3NPdXhxcEJjTzg2aENxYl8zQzRPNFZFVFJqZEN4bFBtN29pMVdQaTh5a3E3SUYwOEdHbVRIYU1hTXlicTVfMDFpSUhNNmVVSDNydEFUVm9xaG5MRkxuTUJqRDNxZUpham05aG10QkZfcHQ0dUpoOFpvbjh5aFJpSzR3V0YzakNrSzhoOEp2QWFzWU14Q27SAewBQVVfeXFMTzlDSlRZYmU3QnFQVXdBVEZPTmN3enZveU01X0l3SF9uRHFVcVdvSWtReFl1VkVLTnNBdGpTYUtUSHZsR0ZxRmlWekZPUnM5eUIyYjJXb2dNZ0NvRFhkc2EyZVNqVWdkaHhiQjZoX04zaEhLaVphTkpmS3BwUGItdi10SVNERzFldWE2T0kxYzN2SlVDNW9FQkdvTTRRTTJCQ09aSmd5THEtRmJrZ2JOQmNBMGc0X2FmMi15aUNoNTVvTkZETlptUlNXY3BDMmFOMlFCVDZzZnRXY1V6NHBUQi1kWkxhUFVXOFV4QXY?oc=5",
+      "published": "2026-05-04T07:00:29+00:00",
       "source": {
-        "name": "famigliacristiana.it",
-        "url": "https://www.famigliacristiana.it"
+        "name": "LacityMag.it",
+        "url": "https://www.lacitymag.it"
       }
     },
     {
@@ -454,13 +444,13 @@
       }
     },
     {
-      "id": "04ba83401c9c",
-      "title": "Nei parchi vive una tossina killer, ma per l'uomo può diventare una cura: lo studio - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUkxNEtUb3N0aXR1WHM3ZHBhZG1CZGhYT1ptSjRJb1dqeHJvdXRPUjNiMkdtS25zNE9iUFRzSHdrTm5rRkRUMEJzRkFaVVpBOVJtZDREMURoc0ZLSkRWSU1yNTlzOVQ5WlhRWjZnYmNSZkhLQzFZYnJvdUhheUFrUldCREZ2aDI4aFp6aGw0dDFXOXBIMVV2ag?oc=5",
-      "published": "2026-05-02T22:02:00+00:00",
+      "id": "5e6477329b8b",
+      "title": "Truffa staminali, Gemmato: \"Impegno totale contro le pseudo-terapie, anche online\" - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0tXeEFRYjZJLV8xeUs2UXZRYW1XOWVkdXpfN2RwWDNBWXNId05VZ1B5ZEExYUF0dDc0WXpKWVhzN3M0WER3Z3k1UmdqaDhaTE9MUXktaFdDY0lxM2lSYmswaVduUEJOWkFiY2ppNTFhWGFKdHZFLVFGVUNwcFl5eXhUMEFRaGRHX0NlUFVxTEpnVnB5UXhQbWJQWDVpaENUQzhBem9nVzczR1lQTmJReg?oc=5",
+      "published": "2026-05-03T18:14:34+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -514,13 +504,13 @@
       }
     },
     {
-      "id": "02002f5b0a04",
-      "title": "Allergie e asma, primavera difficile: in Aoui 5mila pazienti in più ogni anno - VeronaSera",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Rks3R09vOE5NNWpob0xad2t5RlBOYVNxTm9KbV80UDVySzA4SEVMamFBbUJvWGZjZWFvQWp0b3htU1pPTUxUc1hPZXJZYmdiWHhqRWRpMG8yNGpBNWNEYVNUcF9mZ0FsZFFQdlZFcmd5Uk5R?oc=5",
-      "published": "2026-05-03T04:37:00+00:00",
+      "id": "12b7afd249ac",
+      "title": "Farmaci, Gemmato: \"Testo unico legislazione migliorerà anche accesso\" - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa25OdERTaGE4VFZEdXJPTHB2MHFtV3l0ZjlFZmhhWWVUcTBlQjNUUmQxX0V1SUF3QzRjOWgwMTJFUkNNNmtVSGRTOURXM19hTFR5MTBXdlBHMWJVenRpck5xWkl4eGh1aEozYl9rTUJ6WmlERkgyV3JzZzJZWTVDbGZiVEZUcVpnTlRGazM2X2hab3VDNnZIc1Z5NEwtYmZraG42R2JXX1VVRzNJQzh3ZmpXN0prUUdTOFdDQVl3?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
       "source": {
-        "name": "VeronaSera",
-        "url": "https://www.veronasera.it"
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -534,13 +524,13 @@
       }
     },
     {
-      "id": "12b7afd249ac",
-      "title": "Farmaci, Gemmato: \"Testo unico legislazione migliorerà anche accesso\" - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa25OdERTaGE4VFZEdXJPTHB2MHFtV3l0ZjlFZmhhWWVUcTBlQjNUUmQxX0V1SUF3QzRjOWgwMTJFUkNNNmtVSGRTOURXM19hTFR5MTBXdlBHMWJVenRpck5xWkl4eGh1aEozYl9rTUJ6WmlERkgyV3JzZzJZWTVDbGZiVEZUcVpnTlRGazM2X2hab3VDNnZIc1Z5NEwtYmZraG42R2JXX1VVRzNJQzh3ZmpXN0prUUdTOFdDQVl3?oc=5",
-      "published": "2026-04-09T07:00:00+00:00",
+      "id": "02002f5b0a04",
+      "title": "Allergie e asma, primavera difficile: in Aoui 5mila pazienti in più ogni anno - VeronaSera",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Rks3R09vOE5NNWpob0xad2t5RlBOYVNxTm9KbV80UDVySzA4SEVMamFBbUJvWGZjZWFvQWp0b3htU1pPTUxUc1hPZXJZYmdiWHhqRWRpMG8yNGpBNWNEYVNUcF9mZ0FsZFFQdlZFcmd5Uk5R?oc=5",
+      "published": "2026-05-03T04:37:00+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "VeronaSera",
+        "url": "https://www.veronasera.it"
       }
     },
     {
@@ -574,16 +564,6 @@
       }
     },
     {
-      "id": "c401eef40338",
-      "title": "Lettera a Fico: Mancano i farmaci salvavita - Le Cronache",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RFZ1MU4tU3hlMzNkcXVOaEFKRTI1MG1CWkhXNVo2V3JDZ0FqYXJIbG8wRmp6dURfM2U1S2tYcF9UbWdIdHlsc3F2MHpiN3JHdG84d09wUnRjeldGZ3JCNFd2M0J2bDRTaGpjeDFvdlNVaWhSc0JyVEdn?oc=5",
-      "published": "2026-05-03T08:03:15+00:00",
-      "source": {
-        "name": "Le Cronache",
-        "url": "https://cronachesalerno.it"
-      }
-    },
-    {
       "id": "391223dd702d",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -591,6 +571,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "09b4f96b58a8",
+      "title": "La tossina killer e la scoperta, può diventare un farmaco per l’uomo? - Quotidiano di Bari",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjBWa0ZsNVN2MUpESHBEd3hVYV9tZjlyd19qSjlwNkVfYjU1eHpvdGhjcnU0dDZCS0hMU1hEdjk1bE5FYkVaaGtuN1lVZkZtQ2J3S216bDNCWjRFT1F6eDFSSFBXbFBfQWtkVXphc0phd0U2NnMzVFRpODg4VjdFSzVEb05rcjFOMTRjTjVTM2s0c01HVC02NmdQNA?oc=5",
+      "published": "2026-05-02T22:30:35+00:00",
+      "source": {
+        "name": "Quotidiano di Bari",
+        "url": "https://quotidianodibari.it"
       }
     },
     {
@@ -641,16 +631,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "974a9c5a3d5e",
-      "title": "Sanità. Tagli sui farmaci, medici di base in rivolta: “Così si penalizzano i cittadini” - TP24.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVVrVkVJSkNnWkwycDRvb2xkbjNBMTZKWGJTMlZZVmNDQy1xQUU2WlNQQnpudkowY0JkWDAwMzl5Z0lkTS1tX25YSGMxWnJHNGt1bVdVZmhNVFVtc092NnVhM0VaLTVONktjNm9sOHJQRll3ZmZVa2JzSFJZNm00Q1h2dkpRVlMwQ2tHVVp3bWtIdFJHT0JLcWVjdGVpOTZCMHZ4ZFVkc3c0TU5ITzdPV044aW11b3RPSXc1WlBfQWNBb3ItbkE?oc=5",
-      "published": "2026-05-02T04:01:14+00:00",
-      "source": {
-        "name": "TP24.it",
-        "url": "https://www.tp24.it"
       }
     },
     {
@@ -984,12 +964,12 @@
       }
     },
     {
-      "id": "72a6ec850542",
-      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - il manifesto",
+      "id": "8a7c56a50698",
+      "title": "Spesa fuori controllo per i farmaci, alta tensione a destra - Il Manifesto",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEpEdklEbkF3MDk4T0lEaUVYZ2pNdUtpYkNrVi0yMUlBMVIxNkQzMmVJek53Q1RJZDRIX193Y1JhYU9abTV4bWMwa2xycnp2azNJX2NuellaQVJIUS01NDk4LWQ2Rk1kSndfVC0yWTF6cERpR1FDZ2FvMWZhTHAzUkdBaUZQTzZI?oc=5",
       "published": "2026-02-13T08:00:00+00:00",
       "source": {
-        "name": "il manifesto",
+        "name": "Il Manifesto",
         "url": "https://ilmanifesto.it"
       }
     },
@@ -1001,6 +981,26 @@
       "source": {
         "name": "Pharmacy Scanner",
         "url": "https://pharmacyscanner.it"
+      }
+    },
+    {
+      "id": "f3bd56a32167",
+      "title": "Cosa succede dopo aver sospeso i farmaci per dimagrire? - Fondazione Veronesi",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDZoYVpFQ3h2cFNRaUF1bG9DbExldnExb2pWNlI5TFd3R0VaWW5MQU5sUjM4QkFNWlBuY3A2dVE2UGdmUmJLUXJxSXFseWYtM1Y5eVhHTkl2M0swazI5ZnR0ZXRtMkxuX1YwUVNlN3JZZlhQUmpiZkZ2ZzJ5UUxaTzY2T0dYTnZaZ2xkODk0S3MwYk1JTW1DZDlzWUJGYmhzZDZMVkZqVXNtazNEZ3NmMQ?oc=5",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": {
+        "name": "Fondazione Veronesi",
+        "url": "https://www.fondazioneveronesi.it"
+      }
+    },
+    {
+      "id": "f6bd978126b4",
+      "title": "Effetti collaterali delle statine: realtà o falsi miti? | SIF Magazine - www.sifweb.org",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2hqTHBDc05qTDNKUjN5MEZCUlBnSFZmX09sSl9GdnY3YWNCZXp3Y1hzSU9DM0Rlak5hZW9yZUZBNFNYUDF6dThZejVmamRJRzNFRU1fbE93TF9ibzg3RW9hSVNqVFhvNDQ3N3lhZVhpdDZUZ2FyVlRkb2JKYXBDS1ViaGhQN3lGbGo0TGpkMUl3Z3VtR1IzbWxLSjF0cDQ4VEhPLUw3RGlteVFvZld3aGpGWEM1eWktZ3BiOXh3TmFCQlJBeUwzbEJzVzU?oc=5",
+      "published": "2025-12-25T08:00:00+00:00",
+      "source": {
+        "name": "www.sifweb.org",
+        "url": "https://www.sifweb.org"
       }
     }
   ]
