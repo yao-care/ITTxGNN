@@ -2,7 +2,7 @@
 layout: default
 title: Zolmitriptan
 parent: 僅模型預測 (L5)
-nav_order: 174
+nav_order: 185
 evidence_level: L5
 indication_count: 3
 ---
