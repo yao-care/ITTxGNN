@@ -2,7 +2,7 @@
 layout: default
 title: Damoctocog Alfa Pegol
 parent: 僅模型預測 (L5)
-nav_order: 53
+nav_order: 64
 evidence_level: L5
 indication_count: 0
 ---
