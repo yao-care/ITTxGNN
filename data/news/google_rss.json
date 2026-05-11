@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T21:57:17.920729+00:00",
+  "fetched_at": "2026-05-11T22:50:35.733239+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "b7ae3fe94eed",
-      "title": "Tumore all’ovaio, un farmaco anticolesterolo potrebbe aiutare nei casi più gravi - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXFVZGtsN1YtYUVXcDVWMlcyblRBTUZIYm96WldnWTU2cjlXS3k4MkpOVHpSNjVSdW16ZU9GNXFrMU9fcDV1a1ZrdU83Sm9KNmZ6cTR5NDJ5d1EtVUxoTEszSHowemxIaUdUTTFwSTZMdExPeWFvUEgtM05JTFFuU0pPejQyYUs0Snp2ZkEzT29zeHI4QW44dkNkLUFQaG5CTXEzVnM5WC1ydjVCOVh1WmZuNlBEWjTSAbwBQVVfeXFMTXBrRllGQ2pUOWZ0WXJDbWJwLXVRSE9YQ2VmZ3FMQ3B5Q1hCQXFvcnRNYU9kYWFKc3dPYXlaU0ZPX2ppdVFPOV91ZTVNTTg5QWhJampWdEhCanlMMlItbVRoU2FhcXFRY1k4U0pWbkEzTXdYeGg0S2VLSEdJZUhhaXlnOF9pYW1UZ3JiWVZqTThtRHVZVGFKaTBSemtzamlBV0FibEVVa2JZMkxMSU1aRHA1TmhCbXZUU1d4R2I?oc=5",
-      "published": "2026-05-11T15:00:49+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "016f586fb7cd",
       "title": "\"L'antibiotico si cura\": Arpa Piemonte collabora al progetto contro l’antibiotico-resistenza - arpa.piemonte.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JtRTNPYzRkSU9UVFlRSkR5MXJOemxHRkFyd2VLY2Vqa2N1LUpWRjF4Yjl5c0pGOFFYNUI5ek1VMnU5WkVrUW9nTUtaaWhvYTJYVnRaQW9IeWkwSFJ3NDR4VjBMNnNJMlZ4emQzMi01anNTTUhxUExHeWJwVmkzbWppQmNudTBOZmR0OW8zdjAtN2g2MExXMlJkYTJ3RFNKMjZKMklVMG9rekx4YkMwSnc3VThOSGFZQVQxSWNRTFRkZw?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "arpa.piemonte.it",
         "url": "https://www.arpa.piemonte.it"
+      }
+    },
+    {
+      "id": "b7ae3fe94eed",
+      "title": "Tumore all’ovaio, un farmaco anticolesterolo potrebbe aiutare nei casi più gravi - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXFVZGtsN1YtYUVXcDVWMlcyblRBTUZIYm96WldnWTU2cjlXS3k4MkpOVHpSNjVSdW16ZU9GNXFrMU9fcDV1a1ZrdU83Sm9KNmZ6cTR5NDJ5d1EtVUxoTEszSHowemxIaUdUTTFwSTZMdExPeWFvUEgtM05JTFFuU0pPejQyYUs0Snp2ZkEzT29zeHI4QW44dkNkLUFQaG5CTXEzVnM5WC1ydjVCOVh1WmZuNlBEWjTSAbwBQVVfeXFMTXBrRllGQ2pUOWZ0WXJDbWJwLXVRSE9YQ2VmZ3FMQ3B5Q1hCQXFvcnRNYU9kYWFKc3dPYXlaU0ZPX2ppdVFPOV91ZTVNTTg5QWhJampWdEhCanlMMlItbVRoU2FhcXFRY1k4U0pWbkEzTXdYeGg0S2VLSEdJZUhhaXlnOF9pYW1UZ3JiWVZqTThtRHVZVGFKaTBSemtzamlBV0FibEVVa2JZMkxMSU1aRHA1TmhCbXZUU1d4R2I?oc=5",
+      "published": "2026-05-11T15:00:49+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -161,6 +161,16 @@
       "source": {
         "name": "Radio Salute",
         "url": "https://radiosalute.it"
+      }
+    },
+    {
+      "id": "8aa3a99e161f",
+      "title": "Antibiotici. Nuove linee guida per cani e gatti: \"Un uso prudente per fermare la resistenza\" - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWVCeXBlSDBob1JyNk5ueHhzd25lcUh2bm9uX2ZnU3ZGZU9oUUxFQXNzWGxfOXRnX1BOcTlndjdnRFRsRXlRRUNLRTlacXUzNXZYUnpSZndsWDZMbEhidmFkNFB4RHRESzJlZWRNMHlmaFh0MDM0bUhnYzZiWUJONmdmQzhjeUdJWEV3YldUYlBtLVpOYnpXWnBGWS0wSTFNWjZLYVFBSjBNTVNIY2Q0OUhMU1d5c3h0a1ZjZlpOcXI2WTZjYms2a2htSFN5Z0dm?oc=5",
+      "published": "2026-05-08T09:31:39+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -244,13 +254,13 @@
       }
     },
     {
-      "id": "8aa3a99e161f",
-      "title": "Antibiotici. Nuove linee guida per cani e gatti: \"Un uso prudente per fermare la resistenza\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWVCeXBlSDBob1JyNk5ueHhzd25lcUh2bm9uX2ZnU3ZGZU9oUUxFQXNzWGxfOXRnX1BOcTlndjdnRFRsRXlRRUNLRTlacXUzNXZYUnpSZndsWDZMbEhidmFkNFB4RHRESzJlZWRNMHlmaFh0MDM0bUhnYzZiWUJONmdmQzhjeUdJWEV3YldUYlBtLVpOYnpXWnBGWS0wSTFNWjZLYVFBSjBNTVNIY2Q0OUhMU1d5c3h0a1ZjZlpOcXI2WTZjYms2a2htSFN5Z0dm?oc=5",
-      "published": "2026-05-08T09:31:39+00:00",
+      "id": "8067eaabe4be",
+      "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - cittadinanzattiva.it",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlpDYkdjeW9EeEp3dm4zYi1VejFRRlo0c3YzT2VvaGt0QVN5MEU5eFZJTjVXY0VPY3gxMFVjaW5pOFB2ZnpCQ3lSQzMzLXVrNlNDdk9IaktlU3FsVjdJRF91OVJVcUU0bkdRellUQWlsT0R2Q3NzUjZMVWQwb21RelVMekk1MHVkTktaU1lXMjJHX1VWcmRiUnJHa0xzZTJfUlVxaU5TQ0owM3ZLcGg2YUdIbF9NRk1ZSXlfb29FbDNQQQ?oc=5",
+      "published": "2026-04-29T08:30:00+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "cittadinanzattiva.it",
+        "url": "https://cittadinanzattiva.it"
       }
     },
     {
@@ -264,16 +274,6 @@
       }
     },
     {
-      "id": "8067eaabe4be",
-      "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - cittadinanzattiva.it",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlpDYkdjeW9EeEp3dm4zYi1VejFRRlo0c3YzT2VvaGt0QVN5MEU5eFZJTjVXY0VPY3gxMFVjaW5pOFB2ZnpCQ3lSQzMzLXVrNlNDdk9IaktlU3FsVjdJRF91OVJVcUU0bkdRellUQWlsT0R2Q3NzUjZMVWQwb21RelVMekk1MHVkTktaU1lXMjJHX1VWcmRiUnJHa0xzZTJfUlVxaU5TQ0owM3ZLcGg2YUdIbF9NRk1ZSXlfb29FbDNQQQ?oc=5",
-      "published": "2026-04-29T08:30:00+00:00",
-      "source": {
-        "name": "cittadinanzattiva.it",
-        "url": "https://cittadinanzattiva.it"
-      }
-    },
-    {
       "id": "0360fc378136",
       "title": "Farmaco introvabile per i trapiantati renali, l’appello da Taurianova: «Il Mimpara è indispensabile, si attivi subito l’Asp» · ilreggino.it - Il Reggino",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTmN3WlhtaGxXRVBoT3lUTzFQOUo2WXpYcF9PZzNFRVZGSDB0Nm1CTmN4UmJyVnRnN2pDeHc5UHBoSl9uNFd3bEJQN3BPQVlpWElEV0otckNkUmFnTVhpeGZ6ZTF3SUYzQlVsMV92ZVIzUFZUd1Fydy02Vi1fN25kZnRhZE5LZktycFNwcUhIdzl5a3p5WDJEemh1TzlCeGhQcUdVVDAzVW90T01zNllPZ3FheXNqUUlRWGNsVkItd0IyNlMwMzNqRGpnTkt6aGtiUkN3eHRTQ1NzSmQ3T0xnMWtoY2NZNVNYVDJ0MXNfONIB9AFBVV95cUxQTXRHUUVObnc4NktWLVMxNW42ejgtNVdMSW5wU1YxOFBBeU55YTJ6NTdhbDVUM09HXzVWOEMtVEZjX2hNZ0hTTjZTUFAtM1BjWWZVNXRfX3ZkTHA0ZW56SzRTLVVfNnIxSkgwVlhmQU5zODRaX09aNzEzN0gyOFk4UXM0dWVvUFFYbzBzRUpQUkJLTE9VdF83eVZXcC1Ka3Y0alpDeUZ3Y0hFc29kazNZVHEzWFpzN2hXU1VRNlowMHVTNnFSUmRTZkRFaERvYkVxb2xwRHRyTENRU3U1aG4ybS1xaDlCWHRobFZ6WW0xcExRcmxP?oc=5",
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "c0580364747c",
-      "title": "Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5",
-      "published": "2026-05-11T13:33:40+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "9326d0d85b99",
       "title": "Tumore al polmone, nuova cura disponibile in Italia per i pazienti in stadio avanzato e con mutazione di Egfr - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "c0580364747c",
+      "title": "Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5",
+      "published": "2026-05-11T13:33:40+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -324,9 +324,9 @@
       }
     },
     {
-      "id": "9e8e836e3a60",
+      "id": "5c573b0c27fe",
       "title": "Allergie in Italia: +500% in trent'anni. L'esperto: «L'immunoterapia è la chiave, ma c'è troppa diffidenza» - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1U5RmFtSkh3LWVyaUVWdjItU200dURJWWJaZWNzOE1nSGNGT096Nnc2NDlZYnhMQzZvSENPa1JBQTlwVGhmU1NLOEVHcWJBRDhjYzRTZUNEbWgzVHVPR1ZmSmJPNjAxMjdfM2tfb2hrcUhpVzE4cjc2amRTY0dEWVNSRFpyMmp3X05RaWM1QXBlVkRVQjFtbE5rZ29OVTFtYUxnT1pSblE5dHNVNlJUVTNuVDhKdW54UlBsMV9Od0F0Rm5YR2tF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wTk9LRHQ2OXZkcG5sSDB6ME05OUhWdnFrTnE3d1JpUG1jRkM4YW45REhmVXg5aXRIZ1lSazcxS09Zd3BEZGRJS0p3?oc=5",
       "published": "2026-05-11T08:03:03+00:00",
       "source": {
         "name": "OK Salute e Benessere",
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "12ca46ce1953",
-      "title": "Telemedicina in farmacia, siglata la prima convenzione con copertura diretta della sanità integrativa - Pharmacy Scanner",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVRKanZyeVBoMlRZYnJoSm9DcnE0WF9YNkEyQXNMRExCXzBDUDFSajJFMUhXWjdyMTZ2OHIxOERjbG5RWHhxYmVweTlINkZuak1xVi1nX2RDTEpBaUhqM3FoVjlGU0pUNDBNanZZaTlVZjdwcEYzVGxiclYzZlE5dGJMNW9lM3AxcVlxQ29PVmk0OFkxWDBOS0oxLXhBalRkUjlaa0Z0Q19nQnc?oc=5",
-      "published": "2026-05-11T08:20:26+00:00",
-      "source": {
-        "name": "Pharmacy Scanner",
-        "url": "https://pharmacyscanner.it"
-      }
-    },
-    {
       "id": "be62539f6dfa",
       "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer.it",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "My-personaltrainer.it",
         "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "12ca46ce1953",
+      "title": "Telemedicina in farmacia, siglata la prima convenzione con copertura diretta della sanità integrativa - Pharmacy Scanner",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVRKanZyeVBoMlRZYnJoSm9DcnE0WF9YNkEyQXNMRExCXzBDUDFSajJFMUhXWjdyMTZ2OHIxOERjbG5RWHhxYmVweTlINkZuak1xVi1nX2RDTEpBaUhqM3FoVjlGU0pUNDBNanZZaTlVZjdwcEYzVGxiclYzZlE5dGJMNW9lM3AxcVlxQ29PVmk0OFkxWDBOS0oxLXhBalRkUjlaa0Z0Q19nQnc?oc=5",
+      "published": "2026-05-11T08:20:26+00:00",
+      "source": {
+        "name": "Pharmacy Scanner",
+        "url": "https://pharmacyscanner.it"
       }
     },
     {
@@ -794,16 +794,6 @@
       }
     },
     {
-      "id": "23920f8b6f79",
-      "title": "Farmaci, Aifa 'in Valle d'Aosta consumi sotto la media nazionale' - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUNfeWVFd3FLMDNDUWZsRHRyS21scGVvaWtSYTRnNVhSRXhkeHhNVHNscmo2WVljenJubmE4WWZ2TW5vYk9uNVh0VkcxZ1hkQTJyQ2JCWjh2SkFPOFR1cVliMFZ5SlZmamcxM3BNWTJUbFdxSzM5UUNBNWhBUHdJWEtFemNOank3bnZiVDJubHhGRlJUSkFfN3hFTkJNTV9MOUNmU3hYcFh5SlZiQ2tFeDBDQkRHejg?oc=5",
-      "published": "2026-04-22T07:00:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "ebe54550440b",
       "title": "Nuovi farmaci antiobesità: “Alleati anche della salute mentale: uno scudo contro depressione” - sanitainformazione.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFpLMTFYUkdCbGtLTGtFN2lBSWtqWWd4eWRwWXl6MTVXYms0cElnTE4zTmVrNDhQYWJ2bWtDVXg4SWtZNnVwWDZrZkR1LU1CQkNZajJmTVlnamNJMklxZTBCdFN0ekZ6c1RlUjFFeE1uUTl5T3VlMVMtWGg4THdpQnRnVGgzYndGMXZvZ09Iak5Tc2FMb2R5UmZPV19FbWRzYVhERGpWTWpXRk1Ha1FhX1VhQ20xSmNnZWZyOG9yMEI?oc=5",
@@ -811,6 +801,16 @@
       "source": {
         "name": "sanitainformazione.it",
         "url": "https://www.sanitainformazione.it"
+      }
+    },
+    {
+      "id": "23920f8b6f79",
+      "title": "Farmaci, Aifa 'in Valle d'Aosta consumi sotto la media nazionale' - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUNfeWVFd3FLMDNDUWZsRHRyS21scGVvaWtSYTRnNVhSRXhkeHhNVHNscmo2WVljenJubmE4WWZ2TW5vYk9uNVh0VkcxZ1hkQTJyQ2JCWjh2SkFPOFR1cVliMFZ5SlZmamcxM3BNWTJUbFdxSzM5UUNBNWhBUHdJWEtFemNOank3bnZiVDJubHhGRlJUSkFfN3hFTkJNTV9MOUNmU3hYcFh5SlZiQ2tFeDBDQkRHejg?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
