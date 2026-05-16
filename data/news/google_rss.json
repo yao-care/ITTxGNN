@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T19:56:31.746678+00:00",
+  "fetched_at": "2026-05-16T20:39:43.084170+00:00",
   "source": "Google News Health RSS",
   "count": 101,
   "articles": [
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "666d99bbe86f",
-      "title": "Asma, diabete, epilessia e allergie: farmaci a scuola - Vittoriano Zanolli",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZDVsa2RtLXFRdDAydHVncjV0RE41MnhLTnZFRHU0MldOaXFKaVdoeGhFYi1iYW5EakdiallFXzRQX01JTWFibVhCUndPU2RUZ2J0eFQ4U0l0aENMYTRoSUFyLVBoanlkYUVxcHhfSlNxSTBpdXZoTGltOXZMUk83UFBwWjFUaHc?oc=5",
-      "published": "2026-05-16T11:32:31+00:00",
-      "source": {
-        "name": "Vittoriano Zanolli",
-        "url": "https://vittorianozanolli.it"
-      }
-    },
-    {
       "id": "da704bc345d0",
       "title": "Salute, farmaci anti obesità: quali nuove vie per perdere il peso di troppo e non riprenderlo - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZy1VUnFwNFBneWRlOThvRVZzYWVMSGgyVVpJcHozVEdOV0EySXBJTlhsc2NmUmVqaVo3Sk9aODFlS0hLUTZDNVh6ZzJJdlluXzBoT0x2NlJ3bWpZeEg2RkZJeHVqRlgzTU14aVdkZ080VjN6WHBnSF9iM1YzTXI5bDktRGZ2bFpMQ2U0UUI1TTlqaFJDVHg0RTYwT1pQY3FVUjctWGlsVUtseUNNZnfSAa4BQVVfeXFMUGctVVJxcDRQZ3lkZTk4b0VWc2FlTEhoMlVaSXB6M1RHTldBMklwSU5YbHNjZlJlamlaN0pPWjgxZUtIS1E2QzVYemcySXZZbl8waE9MdjZSd21qWXhINkZGSXh1akZYM01NeGlXZGdPNFYzelhwZ0hfYjNWM01yOWw5LURmdmxaTENlNFFCNU05amhSQ1R4NEU2ME9aUGNxVVI3LVhpbFVLbHlDTWZ3?oc=5",
@@ -181,6 +171,16 @@
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
+      "id": "666d99bbe86f",
+      "title": "Asma, diabete, epilessia e allergie: farmaci a scuola - Vittoriano Zanolli",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZDVsa2RtLXFRdDAydHVncjV0RE41MnhLTnZFRHU0MldOaXFKaVdoeGhFYi1iYW5EakdiallFXzRQX01JTWFibVhCUndPU2RUZ2J0eFQ4U0l0aENMYTRoSUFyLVBoanlkYUVxcHhfSlNxSTBpdXZoTGltOXZMUk83UFBwWjFUaHc?oc=5",
+      "published": "2026-05-16T11:32:31+00:00",
+      "source": {
+        "name": "Vittoriano Zanolli",
+        "url": "https://vittorianozanolli.it"
       }
     },
     {
@@ -344,6 +344,16 @@
       }
     },
     {
+      "id": "6281b5991d97",
+      "title": "Farmaci: Gigliuto (Istituto Piepoli), 'italiani vorrebbero donare il plasma ma solo 2 italiani su 10 sanno cos'è' - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNkVIWW02aHBjY1pyTGhISUVxVWdVWjdacVhWOU5Dd1JoR3pnV24wdjB0dTZlTzZrS0JFc2ZDRUJIeVYyTUVMNjVXazkzQmZmaUJFcW5OMndSUXFJTG1UbzVQNjB4a0ZHSmZLMHR2UktlYXk1MVZYQmhERF9SaUotdEZhR3F6bGkyTUFIX3gzRWxIYm1YeEJaeHJBNkQyZUR6QnRfSUhLVl9XcmdENUdpYlNZaHhqMkwxRFhmM2Q5QVphUWNpUGZiVllGV0lmak1md1k0SXBkUUY0VEMwVnlnWXdpV0F2dGppbi1UelpWTWsxVzJY?oc=5",
+      "published": "2026-05-15T12:41:59+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
       "id": "b522c6ef38fc",
       "title": "Farmaci, Salutequità: \"Sistema deve garantire disponibilità continua di plasma\" - OglioPoNews",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE2a2ZNMlVPYXRvUnJGS0N6Z19MUkNnRXVLaS05UHJoZllEYko0ZE1ZSWVFUHQtbkVHcjJOcW1wcU5JSlVUNjJ5NENvMXhJck5DMTZMSlhEOEFDdTJqV3RZTnNBTEtXaENLSkEzZFluWXVkQVdMVmZPZ0lIX0JpS2xYYnE2SzNHMnplRFhYVVpzZ3FLTVlBRTEtcmZtajg1QVRua0lBekZIWkNWb00zcWFTRS0?oc=5",
@@ -371,16 +381,6 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
-      }
-    },
-    {
-      "id": "6281b5991d97",
-      "title": "Farmaci: Gigliuto (Istituto Piepoli), 'italiani vorrebbero donare il plasma ma solo 2 italiani su 10 sanno cos'è' - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNkVIWW02aHBjY1pyTGhISUVxVWdVWjdacVhWOU5Dd1JoR3pnV24wdjB0dTZlTzZrS0JFc2ZDRUJIeVYyTUVMNjVXazkzQmZmaUJFcW5OMndSUXFJTG1UbzVQNjB4a0ZHSmZLMHR2UktlYXk1MVZYQmhERF9SaUotdEZhR3F6bGkyTUFIX3gzRWxIYm1YeEJaeHJBNkQyZUR6QnRfSUhLVl9XcmdENUdpYlNZaHhqMkwxRFhmM2Q5QVphUWNpUGZiVllGV0lmak1md1k0SXBkUUY0VEMwVnlnWXdpV0F2dGppbi1UelpWTWsxVzJY?oc=5",
-      "published": "2026-05-15T12:41:59+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -414,16 +414,6 @@
       }
     },
     {
-      "id": "a3404e32a1f8",
-      "title": "“Emicrania, non chiamatela mal di testa”. Ecco come affrontarla in modo efficace: dai farmaci alla mindfulness - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVC0zQ25VMFR1SmF6bGtvR1J6RzNFMVFmOWM1M3BKeUJNUVlqUk41NmtvWTZzT1NPQU5nU1RxTlA3VTlSYjg0WVdaUDhtZ2tmTVdCRmxzTDhnRk5Sdjd0eWx2MVlIUjZCNzdHVVRPN19RMktoTGVTUGhUSjlOaDgwWDdxNkI1N3VkODFhZHhSb3lvSnh0a0RVYjVLUGY0Q1k5Mm5zbDNJTQ?oc=5",
-      "published": "2026-05-16T03:01:03+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "42a5a0cc1bfe",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -441,6 +431,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "a3404e32a1f8",
+      "title": "“Emicrania, non chiamatela mal di testa”. Ecco come affrontarla in modo efficace: dai farmaci alla mindfulness - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVC0zQ25VMFR1SmF6bGtvR1J6RzNFMVFmOWM1M3BKeUJNUVlqUk41NmtvWTZzT1NPQU5nU1RxTlA3VTlSYjg0WVdaUDhtZ2tmTVdCRmxzTDhnRk5Sdjd0eWx2MVlIUjZCNzdHVVRPN19RMktoTGVTUGhUSjlOaDgwWDdxNkI1N3VkODFhZHhSb3lvSnh0a0RVYjVLUGY0Q1k5Mm5zbDNJTQ?oc=5",
+      "published": "2026-05-16T03:01:03+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -654,16 +654,6 @@
       }
     },
     {
-      "id": "75e3a11c4ef0",
-      "title": "Ossessione per la magrezza nell'era Ozempic, la psicologa Malluzzo: \"Si pensa che il valore dipenda dall'aspetto fisico\" - Fanpage",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2hUZi1oQ2NaSktBRmYtb0VOY0VLbE9scmxlZjEzeVZDLVA0QzlVZ0dNUlE1RTY5WllPdlFTU2ZGRlZlMmxVTlNsWHFyajg3NW9zUEs5ZTUydUJYX1IxbHFZckdkSUpDdkpRbjFzQjhRTm81MFhiUFBDQ0ZzN0VrbTNSbXBDc0RiZXNnU3hjVmlVX0NsV0ljdjczRXJwTGZUdm5JNkx3bGo4dEhzV2Z1OXp6Q093NkJtQzdXYTBFMXhGNlRvYzBJSzJvQTdUdF9oVE9IUnpIZV85OVJVT0lVczBVYWxUNjBabzB3em04U2h6WXRG?oc=5",
-      "published": "2026-05-16T12:02:18+00:00",
-      "source": {
-        "name": "Fanpage",
-        "url": "https://www.fanpage.it"
-      }
-    },
-    {
       "id": "94efa2e1c9cd",
       "title": "Produttori, depositari e grossisti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
@@ -681,6 +671,16 @@
       "source": {
         "name": "AgenSalute",
         "url": "http://agensalute.it"
+      }
+    },
+    {
+      "id": "75e3a11c4ef0",
+      "title": "Ossessione per la magrezza nell'era Ozempic, la psicologa Malluzzo: \"Si pensa che il valore dipenda dall'aspetto fisico\" - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2hUZi1oQ2NaSktBRmYtb0VOY0VLbE9scmxlZjEzeVZDLVA0QzlVZ0dNUlE1RTY5WllPdlFTU2ZGRlZlMmxVTlNsWHFyajg3NW9zUEs5ZTUydUJYX1IxbHFZckdkSUpDdkpRbjFzQjhRTm81MFhiUFBDQ0ZzN0VrbTNSbXBDc0RiZXNnU3hjVmlVX0NsV0ljdjczRXJwTGZUdm5JNkx3bGo4dEhzV2Z1OXp6Q093NkJtQzdXYTBFMXhGNlRvYzBJSzJvQTdUdF9oVE9IUnpIZV85OVJVT0lVczBVYWxUNjBabzB3em04U2h6WXRG?oc=5",
+      "published": "2026-05-16T12:02:18+00:00",
+      "source": {
+        "name": "Fanpage",
+        "url": "https://www.fanpage.it"
       }
     },
     {
@@ -914,16 +914,6 @@
       }
     },
     {
-      "id": "a2904fcae563",
-      "title": "Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5",
-      "published": "2026-05-14T07:14:06+00:00",
-      "source": {
-        "name": "L'Eco di Bergamo",
-        "url": "https://www.ecodibergamo.it"
-      }
-    },
-    {
       "id": "21b55e0af449",
       "title": "Farmaco E Geopolitica: Come Cambia Il Potere Globale Della Salute - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR3poYWJzbEFtRVBpUERCblo1NXgtTTZnQjhwZVFFdlZ6YTgzQ2tIcGh2bGowM3hwaUlQWWdrSWR2dGd3cmU1c2tTZUpnaGFlSzl4ZkRHOWNHWTR6bC1xWW1BM3FSbXRPTDlzN1lyMDZpQWV3TFNXZUVtSjlFWWVCSjhNUWxwY3liU25Gb3Y2ZXJldw?oc=5",
@@ -931,6 +921,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://mondosanita.it"
+      }
+    },
+    {
+      "id": "a2904fcae563",
+      "title": "Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5",
+      "published": "2026-05-14T07:14:06+00:00",
+      "source": {
+        "name": "L'Eco di Bergamo",
+        "url": "https://www.ecodibergamo.it"
       }
     },
     {
