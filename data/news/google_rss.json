@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T20:39:43.084170+00:00",
+  "fetched_at": "2026-05-16T21:39:15.715739+00:00",
   "source": "Google News Health RSS",
   "count": 101,
   "articles": [
@@ -57,7 +57,7 @@
       "id": "507997a0875a",
       "title": "Farmaci anti obesità, quali sono le nuove vie per dimagrire e non riprendere peso - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmprbEIteVBFMjduWlNJT2JETGFraWsxd2V0UzY1RTY1bW5FZVhNYkFCQzA1blJ0Tm5JM2NRbjFYR2JDSS1tTndKWHFkZXpVMnNtT09tSHQ0aFYyRzBhUXd4THB1M19XQ254OVF1SUVXeTNlczN5WDdQdDEzNmJmZnJ2YWtUUUFMZm9hWWNFUmI3QXVWdFphaV9oXzlwS2RCcGh0UmpjdE9UUGpLSXRPUXZR0gGnAUFVX3lxTE4tT1RTbzgxU01GWDNFcTFlRWxwSS1JUFNnamdGeXBrQjNxaXFrY05Zcl9GNGM4N3ZKN2lmaVlxc2F5OWR0WDNwOUN6RzBPcHFDVXY4Nzl4c1M5QWlyTm5kMF9lV1ZmX2VsaXJxaVJiU28xQnpLRDg4OTZ0WmVNOXlPMkJHVkJvZ0k2Q1AwdXY2c09jYURFT2R5T2RCakZhaVNoWHUwRUVZ?oc=5",
-      "published": "2026-05-14T06:10:25+00:00",
+      "published": "2026-05-14T04:40:32+00:00",
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
@@ -294,6 +294,16 @@
       }
     },
     {
+      "id": "fd6302d9e54e",
+      "title": "ClassyFarm, il modello IZSLER scelto dalla FAO contro l’antibiotico-resistenza - Radio Bruno - Brescia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnhMbVB0VmRpelRxUGVadmswMzRuckM3Sk1OcV9jNzQ3RUNBTGFfNDdmRVVpSkJNMXF2aF85VTNHbVRlVVVYT1QzakFiVk5MNzF3YVNFZFZWZFpFeExCcXBjbTl5ZDA1YlJwWVExQVFyZ1pDb3pkMXBhQVo5SnlBLVJuZm5hdjNpb2J2Q3BWZGVDeTJNU3lGNnl3eHpheDZoMjBqZjhGM3o5Q296bGdMZ0lmNUJjTWFzRmtncUhR?oc=5",
+      "published": "2026-05-16T15:23:42+00:00",
+      "source": {
+        "name": "Radio Bruno - Brescia",
+        "url": "https://www.radiobrunobrescia.it"
+      }
+    },
+    {
       "id": "d85a60bfc902",
       "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
@@ -354,16 +364,6 @@
       }
     },
     {
-      "id": "b522c6ef38fc",
-      "title": "Farmaci, Salutequità: \"Sistema deve garantire disponibilità continua di plasma\" - OglioPoNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE2a2ZNMlVPYXRvUnJGS0N6Z19MUkNnRXVLaS05UHJoZllEYko0ZE1ZSWVFUHQtbkVHcjJOcW1wcU5JSlVUNjJ5NENvMXhJck5DMTZMSlhEOEFDdTJqV3RZTnNBTEtXaENLSkEzZFluWXVkQVdMVmZPZ0lIX0JpS2xYYnE2SzNHMnplRFhYVVpzZ3FLTVlBRTEtcmZtajg1QVRua0lBekZIWkNWb00zcWFTRS0?oc=5",
-      "published": "2026-05-16T08:00:00+00:00",
-      "source": {
-        "name": "OglioPoNews",
-        "url": "https://www.oglioponews.it"
-      }
-    },
-    {
       "id": "4b3fe828a7c7",
       "title": "Obesità, nuove linea guida per l'uso appropriato dei farmaci - Alto Adige",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUx2eWhtQ3pTVXo2UXN1dTZ1TmRlM1RtRmdDaFliNXRtVmN6VGlFZVBBdGlkejZyY2VfVkdiRE1WYmxvYV91c3VkLVczTE9HbnJqRjhyUkR4MUNjLThrQ2Ryem9YTDBiT0NGYzVtQ3RFeWVObjh1NmtBTGtiZGl3VnFnQ1RJYjAtMEl0WHRHVkpmZTdqWVBQSk5JTjJjLUxNLUpIakpYMVZyR2dYa3lYYjRsRzN5YndfUUE?oc=5",
@@ -371,6 +371,16 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "b522c6ef38fc",
+      "title": "Farmaci, Salutequità: \"Sistema deve garantire disponibilità continua di plasma\" - OglioPoNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE2a2ZNMlVPYXRvUnJGS0N6Z19MUkNnRXVLaS05UHJoZllEYko0ZE1ZSWVFUHQtbkVHcjJOcW1wcU5JSlVUNjJ5NENvMXhJck5DMTZMSlhEOEFDdTJqV3RZTnNBTEtXaENLSkEzZFluWXVkQVdMVmZPZ0lIX0JpS2xYYnE2SzNHMnplRFhYVVpzZ3FLTVlBRTEtcmZtajg1QVRua0lBekZIWkNWb00zcWFTRS0?oc=5",
+      "published": "2026-05-16T08:00:00+00:00",
+      "source": {
+        "name": "OglioPoNews",
+        "url": "https://www.oglioponews.it"
       }
     },
     {
@@ -434,16 +444,6 @@
       }
     },
     {
-      "id": "a3404e32a1f8",
-      "title": "“Emicrania, non chiamatela mal di testa”. Ecco come affrontarla in modo efficace: dai farmaci alla mindfulness - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVC0zQ25VMFR1SmF6bGtvR1J6RzNFMVFmOWM1M3BKeUJNUVlqUk41NmtvWTZzT1NPQU5nU1RxTlA3VTlSYjg0WVdaUDhtZ2tmTVdCRmxzTDhnRk5Sdjd0eWx2MVlIUjZCNzdHVVRPN19RMktoTGVTUGhUSjlOaDgwWDdxNkI1N3VkODFhZHhSb3lvSnh0a0RVYjVLUGY0Q1k5Mm5zbDNJTQ?oc=5",
-      "published": "2026-05-16T03:01:03+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "ecbc0ad469aa",
       "title": "Ipertensione. Iss: “In Italia 37% degli uomini e 23% delle donne ha la pressione a 140/90 mmHg o oltre” - ilFarmacistaOnline",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWgtMGNETXJ6aVhjQlpsaXZQcm1FV25ZYnNNZ1NTOWgtaHNhRlFDbzdKNlp5QmdEVXFuM01rVEc0X2c2aFdJSWxRQ0JmN3VfVldTZWhySTJGWFBTSXBpSENyenVaendtWlNqSHVNeXZkSXM0YS1WbzBSUU16TG5icjN1YkZGYWdrRG44?oc=5",
@@ -451,26 +451,6 @@
       "source": {
         "name": "ilFarmacistaOnline",
         "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
-      "id": "5275990000ae",
-      "title": "Ecco perché la ricerca clinica deciderà il futuro della medicina europea - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmpxMmRJdzRLMzduVGMwaEc0TkZxVVRTaEFoQ01yN1otYUtGLUM0Mi03NXBMcklYR2UxMGlJSDJHRlZrd2F5dmF5VmR4djZ6Qk1iNTdUMHFTUXB0d0xvdXY2NnQtMnQwaE1kZHEwbDhkUWhRVk5xSG5lMGNSLVBERlpwZnczck1ud19kQnFyX05uNUduRjlxVV9idkwycmZMdkJN?oc=5",
-      "published": "2026-05-14T07:04:18+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "03c6556e406d",
-      "title": "Usi Oki® per il dolore? Da oggi ti costa di più: cosa cambia - Pazienti.it",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbERrbndQaDE5SzdJdmFUaEpWZ3hSRzhsSGM2cHRSdXR5ellTRUdCeElvZjRxUlRDeDBja0JLdTl3eHVhYkpUS2RHMjFZSFFHbVduTkx2M3drdkd6V2RMYnNybXBKVlJpaUpTSmoyU2ZFNDVSdlg0dFpoNTYwbkc5c2h2UGhNQ3Bia0RMS0JGVDRIc1ZlRm1wXzdVVXRmQ1E3TnpBM21KU2Zvd3ZRWEE?oc=5",
-      "published": "2026-05-15T08:26:00+00:00",
-      "source": {
-        "name": "Pazienti.it",
-        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -484,6 +464,16 @@
       }
     },
     {
+      "id": "03c6556e406d",
+      "title": "Usi Oki® per il dolore? Da oggi ti costa di più: cosa cambia - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbERrbndQaDE5SzdJdmFUaEpWZ3hSRzhsSGM2cHRSdXR5ellTRUdCeElvZjRxUlRDeDBja0JLdTl3eHVhYkpUS2RHMjFZSFFHbVduTkx2M3drdkd6V2RMYnNybXBKVlJpaUpTSmoyU2ZFNDVSdlg0dFpoNTYwbkc5c2h2UGhNQ3Bia0RMS0JGVDRIc1ZlRm1wXzdVVXRmQ1E3TnpBM21KU2Zvd3ZRWEE?oc=5",
+      "published": "2026-05-15T08:26:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
+      }
+    },
+    {
       "id": "b424064e82f9",
       "title": "Intelligenza Artificiale e salute: le agenzie regolatorie al centro della rivoluzione farmaceutica - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0hZSkJxZ0RzdjB6LTYydUM1MUwyQW9lN2xrc2pMVmk3WlltelEtNzNFaHlRRWRiWE1WUnVVQkNvclBlcEFPWkdLdUtrLVhJSWpVa0liNE91bnRDNHppOTJTWW5ITnpYdTVQSXowb29CUFBybzR6a1ZJc0YtVE9QTHh3X0FYWVdCNkhva1ZKclNLazZNR1FKV0Y3ekNXV0Y5bExVQ2E3a0kyb3N0cXRvNXUwWWF4bXljbHFZelBtUEY?oc=5",
@@ -491,6 +481,16 @@
       "source": {
         "name": "Agenzia Italiana del Farmaco",
         "url": "https://www.aifa.gov.it"
+      }
+    },
+    {
+      "id": "a3404e32a1f8",
+      "title": "“Emicrania, non chiamatela mal di testa”. Ecco come affrontarla in modo efficace: dai farmaci alla mindfulness - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVC0zQ25VMFR1SmF6bGtvR1J6RzNFMVFmOWM1M3BKeUJNUVlqUk41NmtvWTZzT1NPQU5nU1RxTlA3VTlSYjg0WVdaUDhtZ2tmTVdCRmxzTDhnRk5Sdjd0eWx2MVlIUjZCNzdHVVRPN19RMktoTGVTUGhUSjlOaDgwWDdxNkI1N3VkODFhZHhSb3lvSnh0a0RVYjVLUGY0Q1k5Mm5zbDNJTQ?oc=5",
+      "published": "2026-05-16T03:01:03+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -524,16 +524,6 @@
       }
     },
     {
-      "id": "eedcf5ddd8eb",
-      "title": "Salute e Sanità -San Martino, centro cefalee, diagniosi e trattamenti, nuovi farmaci - Telenord",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkdBVmN4S09XdU5Ea3ktYzR2RGx4T0ZodHlGR1plNzVFMkRlTTk0Z0R3a2Z0ZXlCNHVHbG1wSG92QS1sQ3NwSTFOel94Zy12bzdkZ0N1U3poNi1ZYlNhTV82NnZ5MUw3YlowR0N2ZDFKd09oNjlWQnFsTWx3ZDh3cTdQV0stY2tqRTZvRlZERmw3OVZOQ0I0Y3RWdm1VejlHYlhsMERJaWZIWXM?oc=5",
-      "published": "2026-05-12T15:24:46+00:00",
-      "source": {
-        "name": "Telenord",
-        "url": "https://telenord.it"
-      }
-    },
-    {
       "id": "f9e6846b0566",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -541,6 +531,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "eedcf5ddd8eb",
+      "title": "Salute e Sanità -San Martino, centro cefalee, diagniosi e trattamenti, nuovi farmaci - Telenord",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkdBVmN4S09XdU5Ea3ktYzR2RGx4T0ZodHlGR1plNzVFMkRlTTk0Z0R3a2Z0ZXlCNHVHbG1wSG92QS1sQ3NwSTFOel94Zy12bzdkZ0N1U3poNi1ZYlNhTV82NnZ5MUw3YlowR0N2ZDFKd09oNjlWQnFsTWx3ZDh3cTdQV0stY2tqRTZvRlZERmw3OVZOQ0I0Y3RWdm1VejlHYlhsMERJaWZIWXM?oc=5",
+      "published": "2026-05-12T15:24:46+00:00",
+      "source": {
+        "name": "Telenord",
+        "url": "https://telenord.it"
       }
     },
     {
@@ -571,16 +571,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "2c1b4aa8b380",
-      "title": "Batteri “confinati” in gel per combattere le infezioni - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVZ6T3h3cHVHTzFPWFN4ZWtPTENwZ3NzYnZrZ3A4N3RQLVJ6UDJWdGNBaFpDUEdWTnFDaXVENUZXQXJwX3h4WGJPc0IxaHB3N2IyblpHTEl5cXFCd3k5LTNyNjhYUW14Zk5HMWpsV3hWOTZlcEwzbUVSSnJkbUdobjVZRXQ1TEU4MC1OTGZURkhINmJlYTRZZFk3X2M5TGRTZkNFOGVCbFFSMHlidWFMTXJCQWljQXlNRkJaLUJ3ZDlzMUpnOHpybV9B0gHPAUFVX3lxTFB6dVhDQW5wVHhZNGpyNGxyaF9XeGxQbW1Celpoa3N1NG11c3VpN1Nvb3pyVExTc0NfQkpqRmdRZWlrN29PeEVtR1JCdDB4Tk42X2RNZWRpTHFKNENEWnFoYXFLVmJDZHAtZWUtMmk0TWV0dDZ0UlNsLWpPdnU5ZDZXbmJkZllWN1BOSVVqUFNTbzRINmVGam9Yb21nUUNpaDV3VXhFRE53RE91MUE5NDNyRi1yN0RlR2NzM0xEQ0I1RTc5d0xqQ21kVXNOSjZyVQ?oc=5",
-      "published": "2026-05-15T04:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -674,16 +664,6 @@
       }
     },
     {
-      "id": "75e3a11c4ef0",
-      "title": "Ossessione per la magrezza nell'era Ozempic, la psicologa Malluzzo: \"Si pensa che il valore dipenda dall'aspetto fisico\" - Fanpage",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2hUZi1oQ2NaSktBRmYtb0VOY0VLbE9scmxlZjEzeVZDLVA0QzlVZ0dNUlE1RTY5WllPdlFTU2ZGRlZlMmxVTlNsWHFyajg3NW9zUEs5ZTUydUJYX1IxbHFZckdkSUpDdkpRbjFzQjhRTm81MFhiUFBDQ0ZzN0VrbTNSbXBDc0RiZXNnU3hjVmlVX0NsV0ljdjczRXJwTGZUdm5JNkx3bGo4dEhzV2Z1OXp6Q093NkJtQzdXYTBFMXhGNlRvYzBJSzJvQTdUdF9oVE9IUnpIZV85OVJVT0lVczBVYWxUNjBabzB3em04U2h6WXRG?oc=5",
-      "published": "2026-05-16T12:02:18+00:00",
-      "source": {
-        "name": "Fanpage",
-        "url": "https://www.fanpage.it"
-      }
-    },
-    {
       "id": "698ee09c01d9",
       "title": "Concorso farmacie, revisione quiz: ecco errori e risposte corretti dal Ministero - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3pRZWhvaWhaUmp0Q195eVpBeUE0SEF2NXUzblRfVGlzX3RsMmpyMm1sZUd3MDQ1Y0gxX2oyQVhfWm02a3k3R1U1ZmlOajVFM0tleGVNdV9BUmc0empjdVZQMkdQb3EyWUtLZlFRSmJwQzJHZEdIWXFjRzAwdjlCS200MGxyakdnT2dwOUZIWFNSM1pBWURiYmYxWndLSDgxS01PelM5VUhmWnBacXM4Nkc2c1ZHMG5MQ0ZLTEFwVWVYMjl1eHRZWDJGNDBndzF2cEJPQ1BlN3drZE14Znc?oc=5",
@@ -694,16 +674,6 @@
       }
     },
     {
-      "id": "e6b59b49c722",
-      "title": "Sanita': Cattani (Farmindustria), oltre 9mila farmaci in sviluppo per oncologia -2- - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Yk45dG1VaVJuWmFqSG1mQkpPNDQ5bnlVVDBEamo2MHllWWozaEhOQVF5M1hHa1JkUlhyTFowdS0ydVptdThtN045NzR5cnZRVFRjeUhYZ19tRXRwakdRemZqT3I0TGpWcV95SWVR?oc=5",
-      "published": "2026-05-15T13:22:46+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "9a830c821e9a",
       "title": "Crisi sanitaria globale: guerra, farmaci e energia minacciano la salute mondiale - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjBvZnBuU3N1Zjlrd290aW4zczVpVkFIMXBwNGNyaDdKWWo3ZFNWelZkVFIya084QUZPUGVDV2V3YzdJVFowYnNUaDFHRExVeTFHUkxhcXN3Ukh1S1NfY0VkUDgxWlRoRzdzeld4T1JxLTJJOVNzcE9ZX1NITVV1c25Bb3h2eVppU3lSNDg4bE9nZGxkUkIwU2hMUEVNa28tNnZLZDJRY3VUYU5qNkJVcDFMZjNTZw?oc=5",
@@ -711,6 +681,26 @@
       "source": {
         "name": "Panorama della Sanità",
         "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
+      "id": "75e3a11c4ef0",
+      "title": "Ossessione per la magrezza nell'era Ozempic, la psicologa Malluzzo: \"Si pensa che il valore dipenda dall'aspetto fisico\" - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2hUZi1oQ2NaSktBRmYtb0VOY0VLbE9scmxlZjEzeVZDLVA0QzlVZ0dNUlE1RTY5WllPdlFTU2ZGRlZlMmxVTlNsWHFyajg3NW9zUEs5ZTUydUJYX1IxbHFZckdkSUpDdkpRbjFzQjhRTm81MFhiUFBDQ0ZzN0VrbTNSbXBDc0RiZXNnU3hjVmlVX0NsV0ljdjczRXJwTGZUdm5JNkx3bGo4dEhzV2Z1OXp6Q093NkJtQzdXYTBFMXhGNlRvYzBJSzJvQTdUdF9oVE9IUnpIZV85OVJVT0lVczBVYWxUNjBabzB3em04U2h6WXRG?oc=5",
+      "published": "2026-05-16T12:02:18+00:00",
+      "source": {
+        "name": "Fanpage",
+        "url": "https://www.fanpage.it"
+      }
+    },
+    {
+      "id": "e6b59b49c722",
+      "title": "Sanita': Cattani (Farmindustria), oltre 9mila farmaci in sviluppo per oncologia -2- - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Yk45dG1VaVJuWmFqSG1mQkpPNDQ5bnlVVDBEamo2MHllWWozaEhOQVF5M1hHa1JkUlhyTFowdS0ydVptdThtN045NzR5cnZRVFRjeUhYZ19tRXRwakdRemZqT3I0TGpWcV95SWVR?oc=5",
+      "published": "2026-05-15T13:22:46+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -854,16 +844,6 @@
       }
     },
     {
-      "id": "a88d33cf20b1",
-      "title": "Rete oncologica, acquisto farmaci e centro trasfusionale: così cambia la sanità - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXlQQU9Sc2ZvS0VJMWYzalVxcXU5VE8ta2lvZUxlZE15aVVyMWF4dzBFLWpTanczR2QzRjhNcWFBSFd1eHAtdWJkandTazg2VzJLS2VqVnMyZUIxRGwxVVhNX0lIOTRVbEdzOTVlVFVCQmNabEVzdWRPalBnMjFqcjdKcjNoVVpqMGg4eXZkcFRhU0tzcFBpbV9tRDJBN3haZkkxakNfcmY2cHVIZkltZ0pGMTVhZ9IBuwFBVV95cUxOX2tYa1kwR19lV2FQSThnVzZjV29nNlpEcHVzY3ZiSU42MlNFY3Y2SlFFLTVxb0liMTE3Szc5dDQ4S2c5YVBvOGMtVVhJc2ZXXy1XdzUtekpYQy0wdjBRU0lyV2plMTZiRDdoSWd2UzRyNHVjQ0YyUlhTcUozcXlEMVBzVDY4c3hYTmlPMS1qVzZBTnN3Rm5vdEluM3NGNzF2cGpucjl5c2liZzNwejV1b3c2d1ExODhKZUV3?oc=5",
-      "published": "2026-05-15T05:15:04+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "3cc8cf13c3be",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -871,6 +851,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "a88d33cf20b1",
+      "title": "Rete oncologica, acquisto farmaci e centro trasfusionale: così cambia la sanità - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXlQQU9Sc2ZvS0VJMWYzalVxcXU5VE8ta2lvZUxlZE15aVVyMWF4dzBFLWpTanczR2QzRjhNcWFBSFd1eHAtdWJkandTazg2VzJLS2VqVnMyZUIxRGwxVVhNX0lIOTRVbEdzOTVlVFVCQmNabEVzdWRPalBnMjFqcjdKcjNoVVpqMGg4eXZkcFRhU0tzcFBpbV9tRDJBN3haZkkxakNfcmY2cHVIZkltZ0pGMTVhZ9IBuwFBVV95cUxOX2tYa1kwR19lV2FQSThnVzZjV29nNlpEcHVzY3ZiSU42MlNFY3Y2SlFFLTVxb0liMTE3Szc5dDQ4S2c5YVBvOGMtVVhJc2ZXXy1XdzUtekpYQy0wdjBRU0lyV2plMTZiRDdoSWd2UzRyNHVjQ0YyUlhTcUozcXlEMVBzVDY4c3hYTmlPMS1qVzZBTnN3Rm5vdEluM3NGNzF2cGpucjl5c2liZzNwejV1b3c2d1ExODhKZUV3?oc=5",
+      "published": "2026-05-15T05:15:04+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -1011,6 +1001,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "37943ee62d10",
+      "title": "Formazione - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
+      "published": "2026-02-18T08:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     }
   ]
