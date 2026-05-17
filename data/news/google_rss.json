@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-17T12:55:11.254432+00:00",
+  "fetched_at": "2026-05-17T14:21:55.005547+00:00",
   "source": "Google News Health RSS",
-  "count": 102,
+  "count": 101,
   "articles": [
     {
       "id": "90e77a672577",
@@ -31,16 +31,6 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "c888efb6e633",
-      "title": "Farmacie, il sottosegretario Gemmato: «Più autonomia produttiva» - Giornale di Brescia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFE1VUZiZFlRTDhieTBtWWVDZlA4azdtSUtFbXJZdGMzOXlOTFBmeF95YnQ0Rk9PVDN3QkNjYjZ5SWlURXpkcnJNWm1HZXU4SWtzMFczM2N0MkVnUnhaMU9qSVhlQjBkRi02R1Fsb3FlaEVrQndEODZIWTk0eWVVU2tUdi1peVFESnJZakc2TDNPVVBuRGF4clpEbHBPWVkxdlhpLXBpN1dnNF9KbUlyV29VVU50ZUJKZzRubDdNdw?oc=5",
-      "published": "2026-05-17T06:42:00+00:00",
-      "source": {
-        "name": "Giornale di Brescia",
-        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -74,13 +64,23 @@
       }
     },
     {
-      "id": "a079c9c93b81",
-      "title": "Farmaci anti-obesità aiutano a mantenere la perdita di peso - Civonline",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHRRek90ckpMdUVLUVlfZThOTlJ3cjJBUDJOVFk3bkQ1aWFmY0JwdkhkWTlwWXFQZkV2WDlrWTR5cmEzVmJ4dFBIcDBnQWtydTRTV3E0SlB4Unl0aV9MWElUZWhiOGY4QjctTHRaNWtHRFFzU2N5cEJYM0RqcGY5bUxfd3VZQ1dJTmhQLWhPaENWNjlOOFRDYy1vUm11UnFaZFJYOVhiWFdkZWE0d1E?oc=5",
-      "published": "2026-05-15T16:38:00+00:00",
+      "id": "507997a0875a",
+      "title": "Farmaci anti obesità, quali sono le nuove vie per dimagrire e non riprendere peso - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmprbEIteVBFMjduWlNJT2JETGFraWsxd2V0UzY1RTY1bW5FZVhNYkFCQzA1blJ0Tm5JM2NRbjFYR2JDSS1tTndKWHFkZXpVMnNtT09tSHQ0aFYyRzBhUXd4THB1M19XQ254OVF1SUVXeTNlczN5WDdQdDEzNmJmZnJ2YWtUUUFMZm9hWWNFUmI3QXVWdFphaV9oXzlwS2RCcGh0UmpjdE9UUGpLSXRPUXZR0gGnAUFVX3lxTE4tT1RTbzgxU01GWDNFcTFlRWxwSS1JUFNnamdGeXBrQjNxaXFrY05Zcl9GNGM4N3ZKN2lmaVlxc2F5OWR0WDNwOUN6RzBPcHFDVXY4Nzl4c1M5QWlyTm5kMF9lV1ZmX2VsaXJxaVJiU28xQnpLRDg4OTZ0WmVNOXlPMkJHVkJvZ0k2Q1AwdXY2c09jYURFT2R5T2RCakZhaVNoWHUwRUVZ?oc=5",
+      "published": "2026-05-14T04:40:32+00:00",
       "source": {
-        "name": "Civonline",
-        "url": "https://www.civonline.it"
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
+      "id": "c888efb6e633",
+      "title": "Farmacie, il sottosegretario Gemmato: «Più autonomia produttiva» - Giornale di Brescia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFE1VUZiZFlRTDhieTBtWWVDZlA4azdtSUtFbXJZdGMzOXlOTFBmeF95YnQ0Rk9PVDN3QkNjYjZ5SWlURXpkcnJNWm1HZXU4SWtzMFczM2N0MkVnUnhaMU9qSVhlQjBkRi02R1Fsb3FlaEVrQndEODZIWTk0eWVVU2tUdi1peVFESnJZakc2TDNPVVBuRGF4clpEbHBPWVkxdlhpLXBpN1dnNF9KbUlyV29VVU50ZUJKZzRubDdNdw?oc=5",
+      "published": "2026-05-17T06:42:00+00:00",
+      "source": {
+        "name": "Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it"
       }
     },
     {
@@ -144,26 +144,6 @@
       }
     },
     {
-      "id": "fd17cb58d9ae",
-      "title": "Assegnazione farmacie, correzioni delle domande e risposte per i concorsi - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGQwaUdjODFELUF2bzM0SGhZUzEtT1FEQ2lyT3lsM2dOVVRaaU80VDZBWkpOTEhYVjBDenJVeFhHY05CN0sydllocUk4S3JBS2pfckx1VVhKa2NTUzVscmdvcGRJVWplaHR4NmJsTHZIU2tLTU91LXJCWmthQU9PVTlhWVNva1dwWHc2a1RMbG11SGh6VDZaX0R6dXBWRmlhN1J4SzZBbVI1VUhPY1RydHE2bnM3bzVHdGVzSVBiZjNORHFHc2ZJVTdB?oc=5",
-      "published": "2026-05-13T15:28:29+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "9782a06b0e77",
-      "title": "Psichiatra, comportamento El Koudri più compatibile con sospensione farmaci - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOElZV01EZFdqMGd2dTFpUjVfa1BKbDM0cl9Hcndpd0xLM1Z1TTl5NjVQc1Fsb0pmTlB0R18wUW96ZlVCMWppbUZ5VVphRWN0MnpZaE5IRGtORVdqSWg3N1pWRzQ4R1FNLVRTWnROWk1XSFEzc1lUdEJUR0lscmVzOHljYmloS1Vrb1NGVUVRUXBtQmhMXzNueXpVRWcwMjVjRU0zUlpRMDRLNm9wQVJZa2lLd1JIUUpSaVlyd3FOaVoyNVhnVGpNMEIxYkxKZl85SmZJZFlDM3d6R3p2aDNrclBGclFyTF93S0x0cXhZcG1lMGxfSmNUUHRCZWdxbGlPOW9OZ2Rlc2p4WjdsTEJMTmNwOV9nQkp00gGeAkFVX3lxTFBsekxfcEQwVExlYkhwVDhVYmhqMl9VOV9DMW9vam56UmhEeUZibG1wOUpGRWJ5Y2I2TngyYUpBZUFjeXdYTEFWQnpsdU92QzdyNnFfVGJkaU0zNnhibWNhMEV1T2tkblFQSUtTNFVVY0pQYXdwVjFZYWwxaEZkVDBvbkRESGFqa3Vnamx1YmgydlRUZHBqVmVGM19WQUNrbG5BMm5LcWxpYjF3Q0NjNE5uQlpja09XZWlnbDZneUJuYUVtdzZoaE5jd2tGbE80REowT2JSRElyNmI2Ukl6SDdfSHdua2V0amNLOEU3Q25zbnMwTFY0SmtwWlJGbjV2X3BQbGg2ZEcwWmdzR3RNN3lpcW9ncmxIN0lnLXNRVFE?oc=5",
-      "published": "2026-05-17T11:45:45+00:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
-      }
-    },
-    {
       "id": "2be11b5f98af",
       "title": "Parte il sistema “deblistering”: farmaci personalizzati per evitare errori e dimenticanze - Ravenna e Dintorni",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHpmRF9wWFJyUEVfczZoSkYwRl9lb3FkSFhnSXhFRDBCS254bXZRbWNzOTB3aUxEb3Z6VzNILUU1d2t4REhLMzRpN1NkR3VDWXFSTkZTNXdMZ2FzbFl5X1RQM3ZraWRvZFR1Y0szSVBibFNiMFZrZV8tWGlfN3o5M2NucUl2VF8tTVpPUEttZEVMRDdqTkhHWTlQcm9lYmdxTUphVGt1U1dRWUNTNHJQVVVDM0RVOUxhUHJVcERXd1YzNFhETkdwVnNPaTFOejJsa0Mwdg?oc=5",
@@ -171,6 +151,16 @@
       "source": {
         "name": "Ravenna e Dintorni",
         "url": "https://www.ravennaedintorni.it"
+      }
+    },
+    {
+      "id": "b0a50c92df0b",
+      "title": "Lo psichiatra: 'Il comportamento di El Koudri più compatibile con sospensione dei farmaci' - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOElZV01EZFdqMGd2dTFpUjVfa1BKbDM0cl9Hcndpd0xLM1Z1TTl5NjVQc1Fsb0pmTlB0R18wUW96ZlVCMWppbUZ5VVphRWN0MnpZaE5IRGtORVdqSWg3N1pWRzQ4R1FNLVRTWnROWk1XSFEzc1lUdEJUR0lscmVzOHljYmloS1Vrb1NGVUVRUXBtQmhMXzNueXpVRWcwMjVjRU0zUlpRMDRLNm9wQVJZa2lLd1JIUUpSaVlyd3FOaVoyNVhnVGpNMEIxYkxKZl85SmZJZFlDM3d6R3p2aDNrclBGclFyTF93S0x0cXhZcG1lMGxfSmNUUHRCZWdxbGlPOW9OZ2Rlc2p4WjdsTEJMTmNwOV9nQkp00gGeAkFVX3lxTFBsekxfcEQwVExlYkhwVDhVYmhqMl9VOV9DMW9vam56UmhEeUZibG1wOUpGRWJ5Y2I2TngyYUpBZUFjeXdYTEFWQnpsdU92QzdyNnFfVGJkaU0zNnhibWNhMEV1T2tkblFQSUtTNFVVY0pQYXdwVjFZYWwxaEZkVDBvbkRESGFqa3Vnamx1YmgydlRUZHBqVmVGM19WQUNrbG5BMm5LcWxpYjF3Q0NjNE5uQlpja09XZWlnbDZneUJuYUVtdzZoaE5jd2tGbE80REowT2JSRElyNmI2Ukl6SDdfSHdua2V0amNLOEU3Q25zbnMwTFY0SmtwWlJGbjV2X3BQbGg2ZEcwWmdzR3RNN3lpcW9ncmxIN0lnLXNRVFE?oc=5",
+      "published": "2026-05-17T12:48:08+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
       }
     },
     {
@@ -311,16 +301,6 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
-      }
-    },
-    {
-      "id": "507997a0875a",
-      "title": "Farmaci anti obesità, quali sono le nuove vie per dimagrire e non riprendere peso - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmprbEIteVBFMjduWlNJT2JETGFraWsxd2V0UzY1RTY1bW5FZVhNYkFCQzA1blJ0Tm5JM2NRbjFYR2JDSS1tTndKWHFkZXpVMnNtT09tSHQ0aFYyRzBhUXd4THB1M19XQ254OVF1SUVXeTNlczN5WDdQdDEzNmJmZnJ2YWtUUUFMZm9hWWNFUmI3QXVWdFphaV9oXzlwS2RCcGh0UmpjdE9UUGpLSXRPUXZR0gGnAUFVX3lxTE4tT1RTbzgxU01GWDNFcTFlRWxwSS1JUFNnamdGeXBrQjNxaXFrY05Zcl9GNGM4N3ZKN2lmaVlxc2F5OWR0WDNwOUN6RzBPcHFDVXY4Nzl4c1M5QWlyTm5kMF9lV1ZmX2VsaXJxaVJiU28xQnpLRDg4OTZ0WmVNOXlPMkJHVkJvZ0k2Q1AwdXY2c09jYURFT2R5T2RCakZhaVNoWHUwRUVZ?oc=5",
-      "published": "2026-05-14T06:10:25+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -664,16 +644,6 @@
       }
     },
     {
-      "id": "e6b59b49c722",
-      "title": "Sanita': Cattani (Farmindustria), oltre 9mila farmaci in sviluppo per oncologia -2- - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Yk45dG1VaVJuWmFqSG1mQkpPNDQ5bnlVVDBEamo2MHllWWozaEhOQVF5M1hHa1JkUlhyTFowdS0ydVptdThtN045NzR5cnZRVFRjeUhYZ19tRXRwakdRemZqT3I0TGpWcV95SWVR?oc=5",
-      "published": "2026-05-15T13:22:46+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "65e39333fa54",
       "title": "Piano pandemico. Ministero Salute annuncia l’approvazione per il 30 aprile. Ma sulle scorte strategiche di farmaci e vaccini non chiarisce - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSUtWTk1PTktCRGZjNHMyTEMxRTZkTVhRcU1xWjZLc0ZsQmttam9sZEU0Q3R6dDQ5cVlnOWpYU3pRbUFFRGt3VU9iVHVzQ0c2VkRhSjZpRFZET2NpeFg4UHFiaGFEY3hBSmxpWDJuOEppVVQwaERTdmRucDRPeGhYOFN6WEtVZ1FnbWdjdFhlbkVxQ2NvMTRQQm5zLU9neW5lcVNXSmhpdjZCUnVzQmFTZENMalZuQ1pqeEp4OHEzV2xReXlma3FPMUhkV1M1N20tWmMycTlWazg0UTlMNW9PMllCRUo5MHVFYWd5azNEQWwwbTZjLVVJZHR0Rk1MQ003ME03TEdtU2kxSFc4WlRJVw?oc=5",
@@ -681,6 +651,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "e6b59b49c722",
+      "title": "Sanita': Cattani (Farmindustria), oltre 9mila farmaci in sviluppo per oncologia -2- - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Yk45dG1VaVJuWmFqSG1mQkpPNDQ5bnlVVDBEamo2MHllWWozaEhOQVF5M1hHa1JkUlhyTFowdS0ydVptdThtN045NzR5cnZRVFRjeUhYZ19tRXRwakdRemZqT3I0TGpWcV95SWVR?oc=5",
+      "published": "2026-05-15T13:22:46+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -704,16 +684,6 @@
       }
     },
     {
-      "id": "fd6302d9e54e",
-      "title": "ClassyFarm, il modello IZSLER scelto dalla FAO contro l’antibiotico-resistenza - Radio Bruno - Brescia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnhMbVB0VmRpelRxUGVadmswMzRuckM3Sk1OcV9jNzQ3RUNBTGFfNDdmRVVpSkJNMXF2aF85VTNHbVRlVVVYT1QzakFiVk5MNzF3YVNFZFZWZFpFeExCcXBjbTl5ZDA1YlJwWVExQVFyZ1pDb3pkMXBhQVo5SnlBLVJuZm5hdjNpb2J2Q3BWZGVDeTJNU3lGNnl3eHpheDZoMjBqZjhGM3o5Q296bGdMZ0lmNUJjTWFzRmtncUhR?oc=5",
-      "published": "2026-05-16T15:23:42+00:00",
-      "source": {
-        "name": "Radio Bruno - Brescia",
-        "url": "https://www.radiobrunobrescia.it"
-      }
-    },
-    {
       "id": "d89b6a3fe5cf",
       "title": "Farmaci, oncologo Ghia: \"Pirtobrutinib amplia cure leucemia linfatica cronica già trattata\" - Quotidiano di Bari",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXRyRk1ocXd0SmZjUU9CeXRmbkFBU2NYTnVSVmpSZGZGM21vQ0dqNFRieWNhM0MzUWRKRnJrWHVuSE5xOF9iS1N2eUpRR1BYZjEtRUZMZjFqc2trbnZWdjgtVS1IVGZVNjV6eVhGdVlTZF92YndLUE54eUFKY21lWFNaUW5BdW85MDdkemxVem9JaWMzc3FLUzZ3al93MlczY0JfZW9WS29XbEZ2UlJMWEVvSzFYUnc?oc=5",
@@ -721,16 +691,6 @@
       "source": {
         "name": "Quotidiano di Bari",
         "url": "https://quotidianodibari.it"
-      }
-    },
-    {
-      "id": "b522c6ef38fc",
-      "title": "Farmaci, Salutequità: \"Sistema deve garantire disponibilità continua di plasma\" - OglioPoNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE2a2ZNMlVPYXRvUnJGS0N6Z19MUkNnRXVLaS05UHJoZllEYko0ZE1ZSWVFUHQtbkVHcjJOcW1wcU5JSlVUNjJ5NENvMXhJck5DMTZMSlhEOEFDdTJqV3RZTnNBTEtXaENLSkEzZFluWXVkQVdMVmZPZ0lIX0JpS2xYYnE2SzNHMnplRFhYVVpzZ3FLTVlBRTEtcmZtajg1QVRua0lBekZIWkNWb00zcWFTRS0?oc=5",
-      "published": "2026-05-16T13:51:34+00:00",
-      "source": {
-        "name": "OglioPoNews",
-        "url": "https://www.oglioponews.it"
       }
     },
     {
@@ -804,6 +764,26 @@
       }
     },
     {
+      "id": "b522c6ef38fc",
+      "title": "Farmaci, Salutequità: \"Sistema deve garantire disponibilità continua di plasma\" - OglioPoNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE2a2ZNMlVPYXRvUnJGS0N6Z19MUkNnRXVLaS05UHJoZllEYko0ZE1ZSWVFUHQtbkVHcjJOcW1wcU5JSlVUNjJ5NENvMXhJck5DMTZMSlhEOEFDdTJqV3RZTnNBTEtXaENLSkEzZFluWXVkQVdMVmZPZ0lIX0JpS2xYYnE2SzNHMnplRFhYVVpzZ3FLTVlBRTEtcmZtajg1QVRua0lBekZIWkNWb00zcWFTRS0?oc=5",
+      "published": "2026-05-16T13:51:34+00:00",
+      "source": {
+        "name": "OglioPoNews",
+        "url": "https://www.oglioponews.it"
+      }
+    },
+    {
+      "id": "fd6302d9e54e",
+      "title": "ClassyFarm, il modello IZSLER scelto dalla FAO contro l’antibiotico-resistenza - Radio Bruno - Brescia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnhMbVB0VmRpelRxUGVadmswMzRuckM3Sk1OcV9jNzQ3RUNBTGFfNDdmRVVpSkJNMXF2aF85VTNHbVRlVVVYT1QzakFiVk5MNzF3YVNFZFZWZFpFeExCcXBjbTl5ZDA1YlJwWVExQVFyZ1pDb3pkMXBhQVo5SnlBLVJuZm5hdjNpb2J2Q3BWZGVDeTJNU3lGNnl3eHpheDZoMjBqZjhGM3o5Q296bGdMZ0lmNUJjTWFzRmtncUhR?oc=5",
+      "published": "2026-05-16T15:23:42+00:00",
+      "source": {
+        "name": "Radio Bruno - Brescia",
+        "url": "https://www.radiobrunobrescia.it"
+      }
+    },
+    {
       "id": "5a735aea30fa",
       "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
@@ -864,6 +844,16 @@
       }
     },
     {
+      "id": "a88d33cf20b1",
+      "title": "Rete oncologica, acquisto farmaci e centro trasfusionale: così cambia la sanità - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXlQQU9Sc2ZvS0VJMWYzalVxcXU5VE8ta2lvZUxlZE15aVVyMWF4dzBFLWpTanczR2QzRjhNcWFBSFd1eHAtdWJkandTazg2VzJLS2VqVnMyZUIxRGwxVVhNX0lIOTRVbEdzOTVlVFVCQmNabEVzdWRPalBnMjFqcjdKcjNoVVpqMGg4eXZkcFRhU0tzcFBpbV9tRDJBN3haZkkxakNfcmY2cHVIZkltZ0pGMTVhZ9IBuwFBVV95cUxOX2tYa1kwR19lV2FQSThnVzZjV29nNlpEcHVzY3ZiSU42MlNFY3Y2SlFFLTVxb0liMTE3Szc5dDQ4S2c5YVBvOGMtVVhJc2ZXXy1XdzUtekpYQy0wdjBRU0lyV2plMTZiRDdoSWd2UzRyNHVjQ0YyUlhTcUozcXlEMVBzVDY4c3hYTmlPMS1qVzZBTnN3Rm5vdEluM3NGNzF2cGpucjl5c2liZzNwejV1b3c2d1ExODhKZUV3?oc=5",
+      "published": "2026-05-15T05:15:04+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
       "id": "66425bad59f3",
       "title": "Ecco il piano dell’Ue per ridurre la dipendenza dai farmaci di Cina, India e Usa - Startmag",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWZJbWZVZ3JfMl9fZDBzem1HNWFpeXVyVnJGTXRZNjlmX1N4Xy1wQXdsNHBCQ0kwQzVQakJNVlpFVkdBUzBwVEFtaUdWZ0V5N1pqSTBvX05PUEJCM1pzaFlzYm1oV0Q3dWtCRk15ZEgzSGtUQkg3eWhpTmwxRFNYTXJYTkZONHkya3JXM0hGclBpUFZZUnhUUlFCLUVZTUdqMm9kTUxTVmlXYXd4SEtn?oc=5",
@@ -871,16 +861,6 @@
       "source": {
         "name": "Startmag",
         "url": "https://www.startmag.it"
-      }
-    },
-    {
-      "id": "330a9a43c02b",
-      "title": "Giappone, sospesa prescrizione di un farmaco dopo 20 decessi sospetti - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS016enFZemNjY0pzNERNSV9ZZmp3eUxxV0tJdlFXN29ZcEg5S21BTHJ2WmZQZEpaTTNKVTRHR2FoZ0ZhME94b0VhY2MtbWlwRjA0bWtMbFFOVHpuQU13am1qY0tkZU5nN3BMS1pJQm5VeHV3eGxENzFvb1hnVTU0a3NiTmtremhMQkxmNGhUSEh0WHU4TGRtUFlxcTU?oc=5",
-      "published": "2026-05-16T10:06:56+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -904,6 +884,16 @@
       }
     },
     {
+      "id": "330a9a43c02b",
+      "title": "Giappone, sospesa prescrizione di un farmaco dopo 20 decessi sospetti - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS016enFZemNjY0pzNERNSV9ZZmp3eUxxV0tJdlFXN29ZcEg5S21BTHJ2WmZQZEpaTTNKVTRHR2FoZ0ZhME94b0VhY2MtbWlwRjA0bWtMbFFOVHpuQU13am1qY0tkZU5nN3BMS1pJQm5VeHV3eGxENzFvb1hnVTU0a3NiTmtremhMQkxmNGhUSEh0WHU4TGRtUFlxcTU?oc=5",
+      "published": "2026-05-16T10:06:56+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
+      }
+    },
+    {
       "id": "0ffa4599c872",
       "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
@@ -911,16 +901,6 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
-      }
-    },
-    {
-      "id": "a2904fcae563",
-      "title": "Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5",
-      "published": "2026-05-14T07:14:06+00:00",
-      "source": {
-        "name": "L'Eco di Bergamo",
-        "url": "https://www.ecodibergamo.it"
       }
     },
     {
@@ -964,16 +944,6 @@
       }
     },
     {
-      "id": "37943ee62d10",
-      "title": "Formazione - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
-      "published": "2026-02-18T08:00:00+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "042eb039cd49",
       "title": "Testo Unico della legislazione farmaceutica - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTRHaU8wV2xHVDlvLVZjVlFoajZWbV8wTlZUMVFSUU1FNmY2U2J3UnVqTmJJcG9CZ3haYU40aWt4S21fR3ZHbmRfMTVJSTBsSzFrVU9DMlR1NFNwMGZubV9QVG41RzltaEtIaUhGdzBmdVpub1RPYnN5T3ZPWGMxbFhORHB4dTFXQ21XR0ZpTmNlVjA?oc=5",
@@ -981,6 +951,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "37943ee62d10",
+      "title": "Formazione - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hSaEdfOXRjSmx0X1NCcDdfWDE4N2VtSk1TQ3h4dVhrdFlvYU9GcFBjMkloNUhid0xwVDZLcDFDWEF3OHlIUVpBM1lwWWZBS3NEOGZndlFzU1JuWmVBbm5ad1V0Q3Q2MWthNlBOTEU2NUZ2UnF0MTA0V2c0MnQ1aWhn?oc=5",
+      "published": "2026-02-18T08:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -1021,6 +1001,16 @@
       "source": {
         "name": "sanitainformazione.it",
         "url": "https://www.sanitainformazione.it"
+      }
+    },
+    {
+      "id": "ff972984170b",
+      "title": "La FDA ha approvato l'orforglipron, un nuovo farmaco orale per dimagrire - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpuVGdrNTkwMDVkbXhOLXZZTko5eTV3N1k5eWN0QlptOHlGNU9fdmt6NEtvTFA4Mm5CZmg4RnhHeXh2T1NtZjBpSmtUQWYwZE1JSk9ndU5DNmJpZFZBWkhITWUtNFVxcGkwVzAtNXdRVFhzdW56OFJUWXBldklpY3VISlpCWTBGeTVRcDdWSURLWkZzR1JsQkNMYVp4VUtPNW96TVZmaWN5S00?oc=5",
+      "published": "2026-04-03T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     }
   ]
