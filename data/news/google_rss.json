@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T14:33:11.004587+00:00",
+  "fetched_at": "2026-05-25T16:58:39.491015+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,13 +24,13 @@
       }
     },
     {
-      "id": "bbf79561b000",
-      "title": "Antibiotico-resistenza, convegno al San Carlo - AGR Basilicata",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNURTdE1RTVBlcnlxRHZ3ODZnZUt0MFlNT0RhdEJRN1lqVHdCVWNQZnZkZzloZV85aWMwblhyYTVaU1dwd25RRFlmdlFnWlE2bElFYkNyc2hIVHYxRkVzWEFBZUE2dlpOODdzYTM2dDhqV2tObl8zU2JjRmZNU0RIbWMtUTlMS0d2eXdGYQ?oc=5",
-      "published": "2026-05-25T07:41:00+00:00",
+      "id": "7274b65d6869",
+      "title": "Come funziona la sperimentazione dei farmaci? Lo spiega l'esperta - La Gazzetta dello Sport",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmJ2UTg1anNtOFVOUHFNQ3BaNDNKcjFlWUwtbzZCX3NfcGZ6OE9FVjZVclVfY0J0WkVadkItX2dHM0tyYWloRFhPdjE5TlliR05rSmg2dEZhbW8zT1ljNGFVSFNPNExXNUdLbG16bXl0dC1aZlFOVEN4LUJCZHNhVDcxNDBia1F5THBiQ1VTQUI4Q1VUQ3g3Tmt4VHpla1B4V0FKc2IwRHRDVzVEWElkRnNWWlRyZUZhMTR5Y2NUb2FJNHR6VV9sUHJEdTl1TzJUaTRUR1pLYmhpYUxMZENVQjR6WUXSAcQBQVVfeXFMUFBKRUtRUDJIbHBoT3dOWXVRalF3WEsxVDZGUUJXN21XMTNRSnpScU1HcmdXdVc5emgwaDE5QU9ydXctSHBRQmxQc1ZYdXAxVmV4M0FFdDhWWVhqZHZhUkIxRVBSeng5U1FwYzJZY1lEYkRhUzNvSWo3VWxZS2N0OER5elAxVkxNd3hXYXBKdmZ4TC1ZTFFDaUpxRm5KYXBDYkdmek9YTDQzaDMxRFMxWFJaMVJIU0cwU0dtdU5NaEJUM085MQ?oc=5",
+      "published": "2026-05-25T16:34:48+00:00",
       "source": {
-        "name": "AGR Basilicata",
-        "url": "https://agr.regione.basilicata.it"
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it"
       }
     },
     {
@@ -41,6 +41,26 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "bbf79561b000",
+      "title": "Antibiotico-resistenza, convegno al San Carlo - AGR Basilicata",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNURTdE1RTVBlcnlxRHZ3ODZnZUt0MFlNT0RhdEJRN1lqVHdCVWNQZnZkZzloZV85aWMwblhyYTVaU1dwd25RRFlmdlFnWlE2bElFYkNyc2hIVHYxRkVzWEFBZUE2dlpOODdzYTM2dDhqV2tObl8zU2JjRmZNU0RIbWMtUTlMS0d2eXdGYQ?oc=5",
+      "published": "2026-05-25T07:41:00+00:00",
+      "source": {
+        "name": "AGR Basilicata",
+        "url": "https://agr.regione.basilicata.it"
+      }
+    },
+    {
+      "id": "942860f1454c",
+      "title": "È possibile curare la depressione con una terapia per l'artrite? - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVd0YmFldF9JSkZycUV4eXdIQmRRX2xNZWZ3bDU5cUFiZF9VTHE5RUc1aWdjaVRKd0Z1UXFsQkNFSDgwWjFGTHlqZmdncHptc0w5UmpHU01YSXotQklrclJhZ3lwU3F2VzU2RnFFTzQ2SnN1REt5aEpDN2Y3bVM0YWpWSE5fdm5EeEY4b2k5TWd0SVZ4YUV4NmNPWEdSdGIweXZVY3RqMkVVLS1mTHFMbXhsUU1xeFc3WmQxc0hpTUpFNzctb0Z6U2gzWnlOeUxlak5YdjVn?oc=5",
+      "published": "2026-05-25T10:39:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -61,16 +81,6 @@
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
-      }
-    },
-    {
-      "id": "942860f1454c",
-      "title": "È possibile curare la depressione con una terapia per l'artrite? - Pazienti.it",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVd0YmFldF9JSkZycUV4eXdIQmRRX2xNZWZ3bDU5cUFiZF9VTHE5RUc1aWdjaVRKd0Z1UXFsQkNFSDgwWjFGTHlqZmdncHptc0w5UmpHU01YSXotQklrclJhZ3lwU3F2VzU2RnFFTzQ2SnN1REt5aEpDN2Y3bVM0YWpWSE5fdm5EeEY4b2k5TWd0SVZ4YUV4NmNPWEdSdGIweXZVY3RqMkVVLS1mTHFMbXhsUU1xeFc3WmQxc0hpTUpFNzctb0Z6U2gzWnlOeUxlak5YdjVn?oc=5",
-      "published": "2026-05-25T10:39:00+00:00",
-      "source": {
-        "name": "Pazienti.it",
-        "url": "https://www.pazienti.it"
       }
     },
     {
@@ -104,16 +114,6 @@
       }
     },
     {
-      "id": "5a40cc137708",
-      "title": "Benzodiazepine ancora su ricetta cartacea, Mnlf: “Obbligo elettronico non applicato” - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVZDVHI1T2V5eHBMQ210NkJfWXZNMF9INFE0NW83NWFIcmFOQXk2dGNpRFU1em5XNTg1TFQxaUZ3WE5ubDhKLXJBUGdWNnpCX0plZTVTQVd0WHhmYVo3UzlGWjNyb3FMQ2U0VWlHc2o3NlktQ3BYWjdTazJ3ZFRhakFaSzQ4a3duU19CTFhvYzZzNmZscW9zLWY1SDBqOEZNWEpNTEZZdndyUmdhM0JnUVVsUnhGSnB1TkdvNGRqSk5LVnpwaG9lZUpCRHI0bFgxRDNsOXVscjIwRWwtQlJBNw?oc=5",
-      "published": "2026-05-25T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "5a40cc137708",
+      "title": "Benzodiazepine ancora su ricetta cartacea, Mnlf: “Obbligo elettronico non applicato” - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVZDVHI1T2V5eHBMQ210NkJfWXZNMF9INFE0NW83NWFIcmFOQXk2dGNpRFU1em5XNTg1TFQxaUZ3WE5ubDhKLXJBUGdWNnpCX0plZTVTQVd0WHhmYVo3UzlGWjNyb3FMQ2U0VWlHc2o3NlktQ3BYWjdTazJ3ZFRhakFaSzQ4a3duU19CTFhvYzZzNmZscW9zLWY1SDBqOEZNWEpNTEZZdndyUmdhM0JnUVVsUnhGSnB1TkdvNGRqSk5LVnpwaG9lZUpCRHI0bFgxRDNsOXVscjIwRWwtQlJBNw?oc=5",
+      "published": "2026-05-25T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
       "id": "9e5487d12eb7",
       "title": "Dalle Cure Alla Prevenzione: La Farmacia Diventa Hub Della Salute Territoriale - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmNwR0RlT1dxTmhESXV0WXZqZXd0SjR5OXJQTVJVMEFhblRZY0M5eDAwLVhlZUg2Q05RcjZ1QVJvUnQ3NGt0eHczN09uZ3FGWDUxQzNTd1pTb09oSXpKWTBVcGxWcWp5cXh1OGtRdHMzVmxyUjdxeWx0U3pDdzdkZVdaeXIwdUZ3NDBBVzJrUlBXaEFOeGgtalBwR21iU0kzelpr?oc=5",
@@ -131,26 +141,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://mondosanita.it"
-      }
-    },
-    {
-      "id": "00a677830be9",
-      "title": "Garante privacy. On line le Faq aggiornate sul Fascicolo sanitario elettronico - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEg1TmJkMkRPWktfUENkYUR2U0lOd3RROWVHcTZRS0tod2NNbTlNSkhpV1pSUGdaVEpBRllRdGdEYjhmbVQxZm41X0ZUZGRLT0xsdEZsLV8zY1VRMHJXeVJVOU5MSFV5VzdFNkNsSWJQTjdGQXhVWURHVFB1T2ZtRC1yNkJGMWdIbkpj?oc=5",
-      "published": "2026-05-22T09:04:15+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
-      "id": "4909a6095439",
-      "title": "Oncologia, vaccini e medicina personalizzata: le nuove terapie cambiano la storia delle malattie, ma l’equità resta una sfida - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzlwVzJlRkdNWU4xNFlQTUNwT0lNYU9SRnhOVTYyejhGd2dtMzVQX09fMVpSNVhWb0xpdlpRZWN2WDE4M2dyVjZJeHdpbXNJR1BCR0o1Rm9icXd4TUZ3Z0J6TDRqcU9SV29hYzF1amJhaTVYeGlkNTdvYUxvT3hvZ1J3QUVwQ09sTXJGRmZiRFNWQ0NueU5TLTl1ZTNCQTVzMDlMNWhKVUo5ZE5wR0lPWGtxdWhTWTFDUFVJUE0zcDZoWFp1YVAxcTZVN0JUVzRCYjEtZFZkS0QzbFZZdndNX3RKclhRWXZ5QzJfeXFWNmJLUQ?oc=5",
-      "published": "2026-05-22T12:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -181,6 +171,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "b5fc339b66a1",
+      "title": "I farmaci anti-obesità potrebbero ridurre il rischio di metastasi in quattro tumori - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlpxb0FyUDJ3OGtpN2dJRF92MDJrTWpVcVpteElsMTl1UHphd3QtX09rRzhqbW80T1hGTGFIZVlNNjNaUklzMXdTdW1xbVlndXZvWW5uZjJhNkFlZlI1cjZxa0RyLTlyTFMxcTFyc0Z4WkNrbGVWeXhvT1hzOHd3d3BtNXl4UUcwQTdISEw1clZwcVFKSklFbjhwY3JSbjNJSHA4a1RJQUlLYnJqclNPS3gzRE1WYjhUNTdaQjRZOGhXOVprUF9pVWNiQjhKRmdhNmE1V1N2elVzZ9IB3wFBVV95cUxNMEdkZ2FLOF9vWExEVFd6WEdYUnlrX3JmMENhOXljZ25hQXJHQ0ZLdk0zNTM0eXYzSklYMnhHMElPMThPa2c3YzBEOElRenBLX3JUQzQyMk5CY0l5NXV4YV9hYlh5eGhIWnppV2VpVXgtVjZKVG1XYkhwcE41eWJjcE9pMmxXNTBlOU5lT2tQRm9yZW1SX1J6UGR2ZE5yWnB6dkdFc0FnQzVWRm1uSE54bnpCemtoY0Zta1VYU29WeU8zdzVDMDZJcU9fUUdaaVpmaTMyZ0xJbTRvRE8yTHlv?oc=5",
+      "published": "2026-05-21T21:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -244,6 +244,16 @@
       }
     },
     {
+      "id": "9022ed029392",
+      "title": "Oltre il peso: ecco come questi farmaci proteggono davvero il cuore - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXoyQzNHRG9rSnI1dF9OYWNuS1laUXNIenE3LTRESy14SDF1RXRFSVlldjQ1TjJ3N3lPTFY4TE5QMXItdHVvZXFNMk9oSVk2a3JRNXpCZkdxNlp0eGdVLUhwcWJtVE5LMkRlaU96T3NNZ01FZ2RwT1FUTkd1WVJ1SDhIdW5GQWotVVkxSjRTaHRDeUdGQVoxT195aTBNYWNRQndTOVJ5ZEZqa2U2ZmFvVg?oc=5",
+      "published": "2026-05-22T13:50:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
+      }
+    },
+    {
       "id": "1ba006e65c6e",
       "title": "Il nuovo consumatore di integratori in farmacia: a Cosmofarma 2026 tracciato l’identikit - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM014Zm81MUpwUGRPT00xZ2hCV2w4ZWR2MG1ZNGdBUzd2VHNyV0hUTVFVRXBnbzVGbUg4T1JHTWtQV3dHQmFuRU9QVFZCV0tXSndpRHA0YVMwVzAtVEpUSUtsN1o5TkhtSGtsYnYyVWh5VXV2dWhHRDk2YzVJQldHXzhIUXFnNXlHNVY3LVVwNHZPZVgzT0MwVDNpczdxc2VyRWVvU2xfRlF3bVA4VDBxQXllRXZMUQ?oc=5",
@@ -264,26 +274,6 @@
       }
     },
     {
-      "id": "3b9530a45a09",
-      "title": "Roma, temi up-to-date per l’Ecm: lettura critica degli integratori e nuove emergenze infettive - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmxmaU5JQUh0b0NFcXpTYVhSUUhrTWR4ZThWS2pBVlZHMW5SNk1wZHZTMldTNVBoWGlNa3hNMWk4eGt3SnA5c0J1MVdFOWpSYjhyU1NlODNtUTdkVFpyNUZfaGJZZkRva0lVbi1VOUY0NlhMbFROR0VwR2VMS1RSak1iZXladVd2QTZPYWlmTFNtVWt6WGx5TFllTjUwQm4wS1BnZlhSSEJWNnlMRllhNUc0U3pWNlNJZHdTNDlrQnFJb1E?oc=5",
-      "published": "2026-05-24T16:03:57+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
-      "id": "9022ed029392",
-      "title": "Oltre il peso: ecco come questi farmaci proteggono davvero il cuore - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXoyQzNHRG9rSnI1dF9OYWNuS1laUXNIenE3LTRESy14SDF1RXRFSVlldjQ1TjJ3N3lPTFY4TE5QMXItdHVvZXFNMk9oSVk2a3JRNXpCZkdxNlp0eGdVLUhwcWJtVE5LMkRlaU96T3NNZ01FZ2RwT1FUTkd1WVJ1SDhIdW5GQWotVVkxSjRTaHRDeUdGQVoxT195aTBNYWNRQndTOVJ5ZEZqa2U2ZmFvVg?oc=5",
-      "published": "2026-05-22T13:50:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "b6c22ac34507",
       "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
@@ -301,6 +291,26 @@
       "source": {
         "name": "gazzettadireggio.com",
         "url": "https://www.gazzettadireggio.com"
+      }
+    },
+    {
+      "id": "3b9530a45a09",
+      "title": "Roma, temi up-to-date per l’Ecm: lettura critica degli integratori e nuove emergenze infettive - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmxmaU5JQUh0b0NFcXpTYVhSUUhrTWR4ZThWS2pBVlZHMW5SNk1wZHZTMldTNVBoWGlNa3hNMWk4eGt3SnA5c0J1MVdFOWpSYjhyU1NlODNtUTdkVFpyNUZfaGJZZkRva0lVbi1VOUY0NlhMbFROR0VwR2VMS1RSak1iZXladVd2QTZPYWlmTFNtVWt6WGx5TFllTjUwQm4wS1BnZlhSSEJWNnlMRllhNUc0U3pWNlNJZHdTNDlrQnFJb1E?oc=5",
+      "published": "2026-05-24T16:03:57+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "f5a2e3dc84cb",
+      "title": "Mieloma multiplo, rimborsata nuova indicazione in prima linea per daratumumab - S&H Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2hrb2VBYnFSNzhIdzUxdElJSkp3Mnd1cEFodHF2cENXR1B3NG5NWVlPRC0xNW83a2xIWEJiOXJjdnQwUEFKTGFDc0lXYXRxdklxamd2QjlLYWRZQUxwNl9kX3BuLWR0c0hKZk9TMHJLSmRicDN1RmpKdHRXWEpGUktjeUkxZEo5TkhkQWtZdU9UVlhVT2hpc3JrWE5SQkljNU14TVM4Q0RVZWJUN1NvSlpoWU5ia01NN29GQ252QWFtNGVjeVc1NQ?oc=5",
+      "published": "2026-05-25T16:15:11+00:00",
+      "source": {
+        "name": "S&H Magazine",
+        "url": "https://www.shmag.it"
       }
     },
     {
@@ -404,16 +414,6 @@
       }
     },
     {
-      "id": "f00aade0ee3c",
-      "title": "Pressione alta, quali valori rendono necessario l’intervento con i farmaci? - MSN",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWndRRk4zczQxRXJlXzk5c0N3cUJoTlJVUm96TE1naXBhYU9qWnM2eFBzRUxBNDhUVjEwdG1FNWpVS05aTVhabU1LN3ZsbmhQWktQR3FsT3p5dURLV3g0V3ZHc1FjckFWZWIzdEpzZU43Vm95ZHAtV3kyV2hCTmtMTEtxTGhncFI2d0d0WlktR1EySDN3U08zOGMwTWxMWjZmQU8xTkwzbkZ4R25uN0ZFSmpSbmpOYlU4TURLRmNrOWJtU1IwWnhFMHhENmZqWGFNbDljdy1WZkRUaVp0ZFRlcVhIMHVaQ0xXQXhfYzJnYVZKUl9LcDZxTnFBMms3YjlrbXNId1lTX0JxU01xX1Fj?oc=5",
-      "published": "2026-05-24T11:44:28+00:00",
-      "source": {
-        "name": "MSN",
-        "url": "https://www.msn.com"
-      }
-    },
-    {
       "id": "b424064e82f9",
       "title": "Intelligenza Artificiale e salute: le agenzie regolatorie al centro della rivoluzione farmaceutica - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0hZSkJxZ0RzdjB6LTYydUM1MUwyQW9lN2xrc2pMVmk3WlltelEtNzNFaHlRRWRiWE1WUnVVQkNvclBlcEFPWkdLdUtrLVhJSWpVa0liNE91bnRDNHppOTJTWW5ITnpYdTVQSXowb29CUFBybzR6a1ZJc0YtVE9QTHh3X0FYWVdCNkhva1ZKclNLazZNR1FKV0Y3ekNXV0Y5bExVQ2E3a0kyb3N0cXRvNXUwWWF4bXljbHFZelBtUEY?oc=5",
@@ -421,16 +421,6 @@
       "source": {
         "name": "Agenzia Italiana del Farmaco",
         "url": "https://www.aifa.gov.it"
-      }
-    },
-    {
-      "id": "affac069f407",
-      "title": "Un farmaco è risultato efficace nel prevenire l’insorgenza del Covid - Il Bo Live",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXV2NEdyTXFhZUJEa29SN2hMc01MOXFxLUU4TzdFWTFod1VXYkZ3eUo0ZGgzTEpSa0lxdFZtT05EaGl4YmtVQXJ6dTVncXo2S2V6T2hhOUlCUnFITHJybXZmSUpTUkc0ejYxY1JjaWpCc1RkY2ltak9YTE14WTRkNFk3T0huRjFhb3M5dkJ4Z2hldWpDMWpzY2M1NFJ4ekU?oc=5",
-      "published": "2026-05-21T12:00:00+00:00",
-      "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it"
       }
     },
     {
@@ -954,12 +944,12 @@
       }
     },
     {
-      "id": "985c347c5b16",
-      "title": "Viagra e altri due farmaci potrebbero aiutare a prevenire l'Alzheimer - Euronews.com",
+      "id": "ccf8bb9c0cca",
+      "title": "Viagra e altri due farmaci potrebbero aiutare a prevenire l'Alzheimer - Euronews",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkpJV1NFejdSdjlzYlJ5ZUpkblF1T1habjF1bENHNUlRbVUyWU5vTFJyMTlZN05IVXlBcTUtcS1nODczbE1LemZTdFNTZFZ6QnNVNUtWdkNING92R2VLYVRhNHNCVnI1Y2t3aHZQcG9ZMFBVV3JDQktDSmFySW5LeWpFMXNxNzdoTFMxSmgxd3NmWFJiSmRkQ0YwWWZ1YW5NR0VJREliZTRXS1ZGNWhRUzlaNDBUMmJlTG5pTjQ1NWFJUQ?oc=5",
       "published": "2026-02-14T08:00:00+00:00",
       "source": {
-        "name": "Euronews.com",
+        "name": "Euronews",
         "url": "https://it.euronews.com"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "bd4da0ca20ab",
+      "title": "Dimagrire con farmaci proibiti, tutti i pericoli per la salute - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclFtWHFYTmRLX2JyZ1JRaVduZUtDaUUtaE5wcHZvdjVvOHhFaG91Z0VPRDkxTU1DMUdxMnVzb0JZQmMtVUlFUWFVYnVxUmlPdWJsbmdTX0NoaXhpWXZHM1BpSkhVR0dEbG1NYmk4VHZkbThja2JpTGRQRy1FLWpST0phS2NLRDAwUFpJeGktUjFzNk9Ha3ZUbVNVeTJPbGdKMmVnQy1OLVQ3dlhuaThoWFROWldLTE5YdHVXZGliZlLSAcYBQVVfeXFMUEJIdVdvTUZzWnFqenlHZnktS2JXVWVWTEVyVjB2eHY5YlM1YUhCSnJGcFJmMzVuOEpkLUpsS3ZjR2NWZGFPbExGaWVnRlA0cDdXNmpnODg2VXlPZzhvMEFHdXhGT29PeXh4T1k1X1V3RXNZbmoycjJ2RWJ5X243Yk1meWE5ckUyM25oZVlJWkdiMzNyMVNSc2dxZkxMeTZzMG9EQnE0cF95Szc0M00xblN3Q3dQU1dyWWRsWktCNnoyYzJIRm1R?oc=5",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     }
   ]
