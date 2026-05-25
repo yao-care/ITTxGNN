@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-05-25T20:18:40.998841+00:00",
+  "fetched_at": "2026-05-25T22:00:57.315996+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "23a99422d757",
+      "title": "Africa, le sfide dei prossimi anni: i farmaci, l’accesso alle cure e la sovranità sanitaria - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSXJGXzNJdHJDZElneXBkRjZFbU1GU2VfSElXWTFPcDdZSkZSWkVYLUlad2Q3ajBKTXVJVVZ4dWM2U1BCM01NSW83aERaalBXYVcxVEV2cWpxR2dyWkFPYkpUMXJ5aHZadlFSeDFha3FMb0dlc05GdnYtSncxY0N2RVoydWUzMUJxLUI2RXZVbzMydGxKMDlXZGNNbkNFYjVHeTJsV3F6TzJxX2RZSkhsdjhWUTB3NVY0b0NQMFFCRXhOZjZ6NkZhSlNEY2RfRk1zRUtjdDhJZGdLOVVWV2JuTHZwWTBnS3o5S09TWTRpbzN4YXVGcDRvZC1CSdIBgAJBVV95cUxPX2UyWGhzYzU4Z1pEQk1zQVB1ZmI3bU5qM3hLUkc3WWRnZVFBdGJOY3YxenRKSGpuWGhxZWlYR05NdnhyWmhlaXpyaU1sRUIyRGEydnphbWdsVUFJN1k0cEYwZm5oZks5aEVuZDJuUjRLN0lUNFNabVU0RG5ZU2R5Snp2YlJrZlF6OWlsTEpUUWt5ZnRfVkJ1dlRZRV9qdjNnRF9IZXR2RkNtSEpfR3VtbC0xTnZIUXZaVndlc293ZFR4dmRNOFN3N3dCNlB6aERWdUNyWFM0cFd6RGs5SHdCeWo3MXpQdHdGbFNrN1FfSkRZT2REZXlmZVBRb2NhVF8x?oc=5",
+      "published": "2026-05-25T20:09:50+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
+      }
+    },
     {
       "id": "afee4aa3d8be",
       "title": "Pressione alta? L’insospettabile ruolo della bocca che cambia tutto - The Wom Healthy",
@@ -14,16 +24,6 @@
       }
     },
     {
-      "id": "7274b65d6869",
-      "title": "Come funziona la sperimentazione dei farmaci? Lo spiega l'esperta - La Gazzetta dello Sport",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmJ2UTg1anNtOFVOUHFNQ3BaNDNKcjFlWUwtbzZCX3NfcGZ6OE9FVjZVclVfY0J0WkVadkItX2dHM0tyYWloRFhPdjE5TlliR05rSmg2dEZhbW8zT1ljNGFVSFNPNExXNUdLbG16bXl0dC1aZlFOVEN4LUJCZHNhVDcxNDBia1F5THBiQ1VTQUI4Q1VUQ3g3Tmt4VHpla1B4V0FKc2IwRHRDVzVEWElkRnNWWlRyZUZhMTR5Y2NUb2FJNHR6VV9sUHJEdTl1TzJUaTRUR1pLYmhpYUxMZENVQjR6WUXSAcQBQVVfeXFMUFBKRUtRUDJIbHBoT3dOWXVRalF3WEsxVDZGUUJXN21XMTNRSnpScU1HcmdXdVc5emgwaDE5QU9ydXctSHBRQmxQc1ZYdXAxVmV4M0FFdDhWWVhqZHZhUkIxRVBSeng5U1FwYzJZY1lEYkRhUzNvSWo3VWxZS2N0OER5elAxVkxNd3hXYXBKdmZ4TC1ZTFFDaUpxRm5KYXBDYkdmek9YTDQzaDMxRFMxWFJaMVJIU0cwU0dtdU5NaEJUM085MQ?oc=5",
-      "published": "2026-05-25T16:34:48+00:00",
-      "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it"
-      }
-    },
-    {
       "id": "eec6c4ad9ffd",
       "title": "Farmaci: iniettabili più sicuri, tecnica con 1.000 volte meno additivi - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDcySjVCN0o2d3JIcVRYWXJsMWxwekxNaFkyOXZGSko4cUVjTGU4OFc0aG5Cd1A0U1AyZ1RMTjZvcVFiQ1duemF6bGFvRWxQRWwtY3lzNlV0UW1iMTg5cnhRTGFic2lHY0lIaHpMZ0lSYTdMTndmc1JJVlNhVFhURmJ1NkpZNFdfaXloV0daYXBfQWpCempEdnVES29YWkgwRDBjbFVkOA?oc=5",
@@ -31,6 +31,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "7274b65d6869",
+      "title": "Come funziona la sperimentazione dei farmaci? Lo spiega l'esperta - La Gazzetta dello Sport",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmJ2UTg1anNtOFVOUHFNQ3BaNDNKcjFlWUwtbzZCX3NfcGZ6OE9FVjZVclVfY0J0WkVadkItX2dHM0tyYWloRFhPdjE5TlliR05rSmg2dEZhbW8zT1ljNGFVSFNPNExXNUdLbG16bXl0dC1aZlFOVEN4LUJCZHNhVDcxNDBia1F5THBiQ1VTQUI4Q1VUQ3g3Tmt4VHpla1B4V0FKc2IwRHRDVzVEWElkRnNWWlRyZUZhMTR5Y2NUb2FJNHR6VV9sUHJEdTl1TzJUaTRUR1pLYmhpYUxMZENVQjR6WUXSAcQBQVVfeXFMUFBKRUtRUDJIbHBoT3dOWXVRalF3WEsxVDZGUUJXN21XMTNRSnpScU1HcmdXdVc5emgwaDE5QU9ydXctSHBRQmxQc1ZYdXAxVmV4M0FFdDhWWVhqZHZhUkIxRVBSeng5U1FwYzJZY1lEYkRhUzNvSWo3VWxZS2N0OER5elAxVkxNd3hXYXBKdmZ4TC1ZTFFDaUpxRm5KYXBDYkdmek9YTDQzaDMxRFMxWFJaMVJIU0cwU0dtdU5NaEJUM085MQ?oc=5",
+      "published": "2026-05-25T16:34:48+00:00",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it"
       }
     },
     {
@@ -74,13 +84,13 @@
       }
     },
     {
-      "id": "3e5c6760e552",
-      "title": "Dieta, chirurgia bariatrica e farmaci non bastano per sconfiggere l'obesità - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTd2TEVXdVB4T0NLTzBGUGlEemRHSlpkczBGNlg3Y3hmYWFFQWdkcmRYQzZvQkVoQkl2M182ZFVrQi13YWowampzbFhVUHJjZmRYTGFqcXkzcE9JWlAxN29kaTA4b01hVG5iZTQ3WE5SQkhZUWg2Ui0zVkdUVkVZM0pOUVZ3S1M1LXdKcGwtcUFwd0ROaUJQMG9rZktGRksza000UHh1TDBvaHQzcVZUaDBBWGVOWUR2dGJETEY1NHVyazgwQ0tWdW5kMHlmX3c?oc=5",
-      "published": "2026-05-22T10:51:00+00:00",
+      "id": "31b11b1a3ff7",
+      "title": "A \"Basta la Salute\" i nuovi farmaci per la cura dell'obesità - Rai.it",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN01rN1FoLVlYanU2QlZma1RiX2tldVp2MFlEN0xtTGVRVGdaSHdmUXJta3BvT1Y3aG1RSGQyeWdXRUxsVGp6bEFKc1hka013LUhOQ3V6RklNaUpfY18xODZqTU9SWnowdk1BNmY5c0Z4VkNZUmFMcmRsZlk4dXhidDVyNkFsZlFUU3JvTk92WXViekpFcDVRdVlmMVppM3F0ZWVaSU56SDd0ZHlfWTc4TmJBY2Y4RjVJQlE1TmJDUDRZNThmc1U5QVpHdXVleUJBUVF5RHFrTVpNV18wRnZaZ0VaRFhOZi1GZHpvOXdIWU1WTGhxRG45Y0t1ZU5ZZTloTVhCazFUcnVWcG5MdzJTa2t3NDlyWmF5STc2U21DYWQ?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
       "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
+        "name": "Rai.it",
+        "url": "https://www.rai.it"
       }
     },
     {
@@ -134,23 +144,13 @@
       }
     },
     {
-      "id": "41b6ae641f90",
-      "title": "Farmaci per l’obesità e il diabete tipo 2: FeSDI rassicura su sicurezza ed efficacia delle terapie GLP-1 - Diabete.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTE94aTBobUFuTExiTi11VzBjbkhVSXRQSmV0LWNCTFNiNHZoZ2pzV3hYTmdHVVgtLXFmR2poeDJiUTF2WF9YRkpEd3dWU2NDSm03NDRydW05RThQcGdiT1VtSGFMUTlZOHVoSk16UlJXV1BUVDNpbDFKenhfaDhndkFTNA?oc=5",
-      "published": "2026-05-22T08:15:30+00:00",
+      "id": "48654e84419e",
+      "title": "Rna, Car-T, editing genetico: come funzionano le terapie che stanno cambiando il volto della medicina - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTXVYV3N2Sl94NFU2d3JLWEo4MkF0REFldi1rT3laS1d4T2hYbmNEN2FFX3poN1NNak80aXdHUUJOaUVsbUtLanRPRmdkMlZYdHNOajdaQVNZNThvQUdiLWpWVV9uZThrVHpqNkNzM3N4NFA1UGtNSHhIZGVVbF9uM2RXS29pTjQ2aEFHNlZfWUx1V2tqTFVNX1lES1kyYjJTM3lnWEYxUkJqTTRaQW9hMkZPb0pEQmV2Y0hwY3RsbG9sazF0VnJBWEJFOHBFYmxSaVpDT245YlZWR0lZNlg5akpUWllJM1FiSnFmZGl4U0p3bjF4cEFYcFA5UzB5N3lTUExhdTRVc2pZbi1UeDEzYlVsWdIBmAJBVV95cUxNZ3pySmdMSnJ3bGNzd0xpSkowbjFFSWZSc0l1NTNkWTEtZHJwT3FJV3otc1NPZDRQa1YwZEQyQXpkbWFJSkM5azBHV1hmT0FWQ1ZuUU1DdnNfNENraUdPQ0YyWlVoOW1ZanBEQWc2N2VKeE92Z1V4dDJOLWdCMkx4TkVlUkRIWHRXLXV3N1VuNnZDXzlCX3FYX1hWNEtYeTVqUWpFc1A4UUFPMUdoV0dwdW4yWUtVYThmNlZKZTJnX09JU2tVR1VkQWVhWGRVMDFoQmZGdWdURmNlTGEzWEhVcEVRZGZUT1F6aW9fbW93Q1NHWXJlOUEyZmdCa0h6TEJ4QkJjS1dqbWJHbkdfWUVzZHRyM2JOYlRi?oc=5",
+      "published": "2026-05-23T17:50:04+00:00",
       "source": {
-        "name": "Diabete.com",
-        "url": "https://www.diabete.com"
-      }
-    },
-    {
-      "id": "d3b6f8d20180",
-      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
-      "published": "2026-05-13T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
       }
     },
     {
@@ -164,10 +164,10 @@
       }
     },
     {
-      "id": "b5fc339b66a1",
-      "title": "I farmaci anti-obesità potrebbero ridurre il rischio di metastasi in quattro tumori - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlpxb0FyUDJ3OGtpN2dJRF92MDJrTWpVcVpteElsMTl1UHphd3QtX09rRzhqbW80T1hGTGFIZVlNNjNaUklzMXdTdW1xbVlndXZvWW5uZjJhNkFlZlI1cjZxa0RyLTlyTFMxcTFyc0Z4WkNrbGVWeXhvT1hzOHd3d3BtNXl4UUcwQTdISEw1clZwcVFKSklFbjhwY3JSbjNJSHA4a1RJQUlLYnJqclNPS3gzRE1WYjhUNTdaQjRZOGhXOVprUF9pVWNiQjhKRmdhNmE1V1N2elVzZ9IB3wFBVV95cUxNMEdkZ2FLOF9vWExEVFd6WEdYUnlrX3JmMENhOXljZ25hQXJHQ0ZLdk0zNTM0eXYzSklYMnhHMElPMThPa2c3YzBEOElRenBLX3JUQzQyMk5CY0l5NXV4YV9hYlh5eGhIWnppV2VpVXgtVjZKVG1XYkhwcE41eWJjcE9pMmxXNTBlOU5lT2tQRm9yZW1SX1J6UGR2ZE5yWnB6dkdFc0FnQzVWRm1uSE54bnpCemtoY0Zta1VYU29WeU8zdzVDMDZJcU9fUUdaaVpmaTMyZ0xJbTRvRE8yTHlv?oc=5",
-      "published": "2026-05-21T21:00:00+00:00",
+      "id": "3e5c6760e552",
+      "title": "Dieta, chirurgia bariatrica e farmaci non bastano per sconfiggere l'obesità - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTd2TEVXdVB4T0NLTzBGUGlEemRHSlpkczBGNlg3Y3hmYWFFQWdkcmRYQzZvQkVoQkl2M182ZFVrQi13YWowampzbFhVUHJjZmRYTGFqcXkzcE9JWlAxN29kaTA4b01hVG5iZTQ3WE5SQkhZUWg2Ui0zVkdUVkVZM0pOUVZ3S1M1LXdKcGwtcUFwd0ROaUJQMG9rZktGRksza000UHh1TDBvaHQzcVZUaDBBWGVOWUR2dGJETEY1NHVyazgwQ0tWdW5kMHlmX3c?oc=5",
+      "published": "2026-05-22T10:51:00+00:00",
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
@@ -184,6 +184,16 @@
       }
     },
     {
+      "id": "b5fc339b66a1",
+      "title": "I farmaci anti-obesità potrebbero ridurre il rischio di metastasi in quattro tumori - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlpxb0FyUDJ3OGtpN2dJRF92MDJrTWpVcVpteElsMTl1UHphd3QtX09rRzhqbW80T1hGTGFIZVlNNjNaUklzMXdTdW1xbVlndXZvWW5uZjJhNkFlZlI1cjZxa0RyLTlyTFMxcTFyc0Z4WkNrbGVWeXhvT1hzOHd3d3BtNXl4UUcwQTdISEw1clZwcVFKSklFbjhwY3JSbjNJSHA4a1RJQUlLYnJqclNPS3gzRE1WYjhUNTdaQjRZOGhXOVprUF9pVWNiQjhKRmdhNmE1V1N2elVzZ9IB3wFBVV95cUxNMEdkZ2FLOF9vWExEVFd6WEdYUnlrX3JmMENhOXljZ25hQXJHQ0ZLdk0zNTM0eXYzSklYMnhHMElPMThPa2c3YzBEOElRenBLX3JUQzQyMk5CY0l5NXV4YV9hYlh5eGhIWnppV2VpVXgtVjZKVG1XYkhwcE41eWJjcE9pMmxXNTBlOU5lT2tQRm9yZW1SX1J6UGR2ZE5yWnB6dkdFc0FnQzVWRm1uSE54bnpCemtoY0Zta1VYU29WeU8zdzVDMDZJcU9fUUdaaVpmaTMyZ0xJbTRvRE8yTHlv?oc=5",
+      "published": "2026-05-21T21:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
+      }
+    },
+    {
       "id": "e87a6402a463",
       "title": "Farmaci, perché Trump mette in pericolo la nostra salute - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDJBWGtFUTQyV1NhWEpVQkFpMFRVMWI2X3lpeFdab29YbVNiX19EZFZLRjJVSVNZYXZFYjlQMHdrMVc2S0IxMEhLVUpzaTlkbWdUYmxseXZuLTRZV0dFNVRMejU1a1F1WGoyUFdKREpzR2xUX0hKY1VSVWE3VEtLQnAzUTFfREg2QmVaSm1lSGZhcVlieTVLVDV1WdIBoAFBVV95cUxOQ1MtZWowTENOV2w5bkVqdkJtRUhqc1lQY0VLNmJHYkFTb29lR1E3enN4WTBvbFVZVHM1UVV4bGY4UTVIVFgta1BoVlFpQ182cnBpTWhsMFdfTU5TcksyYkFkeDExTncxbmRFOHJTdkl1QzhGaDBQQlMzbUpzVFFweC1sN2NPR0UtYWlia05LSGJmTk1Jam5jV0g0SDJZS2Rj?oc=5",
@@ -191,6 +201,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "d3b6f8d20180",
+      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -211,6 +231,16 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "7bcd2508ad53",
+      "title": "Intesa Regione Lazio-Federfarma-Assofarm, approvato l’accordo sui servizi in farmacia - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEdtVnZiRnRUZVhLZjQySXVuSnhScGVKc0J3VlVoQjBNdTllY1pGQmhNLTYzdUI5SE52QmdGZW9IbFc0c3VXQkxTSFhfaF9TTmFBR1A1Mm9QRHRfNEU3Ym1GSkZHeVdreHdnWFBac1NpaUFsaVZEZmhtRTVseHItLUhVT0djZGVrUno0aENMMnFWYk14WjBzeXZVRXdFRDF1MjdDRl9rRk1LbU51ZHhMZzVIS2otVjdZ?oc=5",
+      "published": "2026-05-24T09:32:08+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -244,16 +274,6 @@
       }
     },
     {
-      "id": "cd11c0ab6053",
-      "title": "Tumori cerebrali: il trucco della vitamina B12 per superare le difese - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHA3NkVrYkFId21MVVJjZm9lNVM3OVJOTGtUWVBReHVtd2dheEVqTURpLWtFXzFkOEktWHlCSnFtY0FZV1pwMnROaFdrOHlXYmF3Qzh4d3JIT1l5bDBWby05THcwNUlQMTBwTXpBTlIxb09VMjVGaDQ3QkNZd2JyUXNWRW5sM0pMSDBjdllSM1pNZ3RqTG45WU5ETU5lcmlTdllWRXRCbw?oc=5",
-      "published": "2026-05-25T11:35:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "b6c22ac34507",
       "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
@@ -261,6 +281,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "cd11c0ab6053",
+      "title": "Tumori cerebrali: il trucco della vitamina B12 per superare le difese - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHA3NkVrYkFId21MVVJjZm9lNVM3OVJOTGtUWVBReHVtd2dheEVqTURpLWtFXzFkOEktWHlCSnFtY0FZV1pwMnROaFdrOHlXYmF3Qzh4d3JIT1l5bDBWby05THcwNUlQMTBwTXpBTlIxb09VMjVGaDQ3QkNZd2JyUXNWRW5sM0pMSDBjdllSM1pNZ3RqTG45WU5ETU5lcmlTdllWRXRCbw?oc=5",
+      "published": "2026-05-25T11:35:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -311,16 +341,6 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "50509d962f07",
-      "title": "Mieloma multiplo, rimborsata nuova indicazione in prima linea per daratumumab - La Ragione",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2xxMnRZZTQ0aTdabzhHbkZsVERkOW1iNm1va2xIM3dQLU5nd2VQSEVwbUlYZU10MTNvcUlMd2xaTEstYXk0ZkpBMThrdks1bFFzbGd3N3dQQzhvSnVjVDZVYXhLS0UwQkZLb1laeHhVeTJOU01pejRUanY1cjlUejBHYVd3OGJuazRCMzU5YktXTzRBRWdqRG1aTjk5RVh5WkpLeU8yT1E1Vk8zbEVsM2FjZXZ6aWV0UjFxT2k1MmxZY3ZoRFHSAc4BQVVfeXFMTmRjU2lfZU9yT2RaVzlWd2ltckdNcXZVZFA5UUFqeTZvYmt5Z3k4RS1jY3hub243a2h2b3BtY2hnd0Itd1NSUElnYzNQVFFxWjJuSXlrVnVTbnNKWWdsOWFablRuN291YTRHMWZxUEVJY21TRlJKSUN1VmFQd3k2aVdqZnpPNzVsUXVuWFNWbjRWRGlxbng3VHk1TndRcWQxQ2dBOThWNU9UdW5NQ09yY2NzVC1FRGNhSy1KQjAxQzI5MlcwZ2pjQXpldWNKY0E?oc=5",
-      "published": "2026-05-25T15:11:53+00:00",
-      "source": {
-        "name": "La Ragione",
-        "url": "https://laragione.eu"
       }
     },
     {
@@ -574,16 +594,6 @@
       }
     },
     {
-      "id": "0ffa4599c872",
-      "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
-      "published": "2026-04-09T10:02:09+00:00",
-      "source": {
-        "name": "INNLIFES",
-        "url": "https://www.innlifes.com"
-      }
-    },
-    {
       "id": "781d61beb798",
       "title": "Persona qualificata di un sito di fabbricazione di medicinali veterinari - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0JwbmpDVW95LVF6RHRJaWp0a0RoUUFwS3h3SlFfUVZCYnViVDZxSGw2VklpalBieUl5b1RtTUV0RTFoR2FKdTItSUlRNXBfc3dFdXE4ejF2V0o3eFJ2SUM2WU5GQU92U0lDaTRBNTNES3p6M2NUZ2k3U2FLNnRWa1c5alZuRGVpZ3BwaERNT1VPRDFSNVJ2TGEtcHBEd2huR29IUEFCQnVXYTd4YWlJNXpUMnZZVHYtZUhfZ0RUbU5Ea00?oc=5",
@@ -614,6 +624,16 @@
       }
     },
     {
+      "id": "0ffa4599c872",
+      "title": "Il farmaco come infrastruttura: il libro di Cricelli e Serra - INNLIFES",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iYkxIdFFBMXA3ZXk5cE52NmtvLWlWSlh2dkRPeWdzSUNiSW9NTVM0b0xFaGdMOGZBMEk0cE5qaEVYVUQ4dHEwaWRkTVhwMktmcUl5clE2RU5VMnkzZEplZUNnWGhLUWxxWGVxTkhvdmh5NGkt?oc=5",
+      "published": "2026-04-09T10:02:09+00:00",
+      "source": {
+        "name": "INNLIFES",
+        "url": "https://www.innlifes.com"
+      }
+    },
+    {
       "id": "a3e971803581",
       "title": "Sezione per la farmacosorveglianza sui medicinali veterinari - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVo4MU55Z09pN2RFMTdNWkdDV3hZYlBfN0YxNXJyejVPLWphdElFMnFlYXJQd1podTlIZVFrbHhpMWVQUXFMbXNDc0lMUU5uTUdOUGROSkxfZkxhendHa1RmUmRZYmJNLW4yWjY1WnBvSDZiZzJ5RGNjb0lpTXZpYVdlN1RMZEEtUVByMXJTcXFvZGYyN0hfM0F4bzB2WUZjTnZiaVRsaXBjWXFsdlVKNnE2dF9sNGdEazgwUjlKU1dwSWtQRDd2RXJDcw?oc=5",
@@ -621,16 +641,6 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "81d69817e3a3",
-      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
-      "published": "2026-03-28T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     },
     {
@@ -691,6 +701,16 @@
       "source": {
         "name": "socialfarma",
         "url": "https://www.socialfarma.it"
+      }
+    },
+    {
+      "id": "942ff12117e5",
+      "title": "Città della Salute e della Scienza di Torino: presentato il nuovo robot della Farmacia ospedaliera - Panorama della Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVl2QlQwQ0hPdjYwWUJCdjJhQkN2YlRPWnVTbzdtX1JSRm5KcGxtWWZfVlZtQ0M1djhzNnNXNHVNdW9aSGswT0N1eF8wU1M2bmJXeFFzVXVGRU8xN2hKVl9ld2dBWFVsekpXTUtXMnRvT3FFNU03anpDUGVITThZYzlrSTc1MzUxR0d3bXAxWW5fWnhqYVJ2aU03X3JpQnNqb3FMdGRteE5BQmM1R1M2RE1Wb2FkajIzWDZoTURJb01Zcm1hSmxiNHAya05YTlU?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
+      "source": {
+        "name": "Panorama della Sanità",
+        "url": "https://panoramadellasanita.it"
       }
     },
     {
@@ -784,16 +804,6 @@
       }
     },
     {
-      "id": "e563fb6ff855",
-      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
-      "published": "2026-04-12T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "05fbe3843420",
       "title": "La cultura della donazione che nutre la tutela della salute - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU1l1bUJzaTFudmdsbERiZE1zUEpVWEZmRHNMamY0eS1EMW91QVBPNTJubjJFOUV3UGxnRFZlNUlTQ0ZodlBWQzZOTklvck5RSTZlRnhickR0Z0dzY0NFbEJJNGdiTThIYldZZktWUklBY3dFWW5RNHl5aWRpOG5ZMGliemlwRi16Nk1sbXJCWEVKMGtlNEdCVEZiNFR3b0xHd1N0X0NVQ214TVZIcUJ5QXo4cFRGczgwSWRPUzRkWk1GVTZHUzJtVGxGREFSUXpmVmd1Rmx5Q1Njb0RTSHpDeDY0X3FVQUl6OUlKand2N3V4eUt6SmlDaEpyQ3JBNVNKOW1WYXozSHA1YmprSVotUzMtMFNwaG14U1ZXbmtWZ3RlR3hIRTctV1FMNENMYTEyaW1mSExfYlhmcUx3TDF4XzM4cTZQelg3OWlTUnpQcDNPRFpCS3V0enphT0lCNlHSAeQCQVVfeXFMT1dxYmtJdEw0QjNDbnltZUMwY2tiQ280ZktBRkRpS29NaU1RWHQ4ZDAtRFVZdkVJMlBZbkhxVzIzQ3A0UnBmdGF2ek5HU1BzSmpzdmZ3cnhidk1OZjUtdU9pQ3dqRVlESnRUd0E1RjhDclk0eUgtbk5lWlNfanVPTWNCN0ZhVkk5bGktVjhORTdSYTNoV0NrendkS2xDR1NFeGZwR2JSQ0w0Y2E3LW51ZjdpdC1CbXF3Y1pYUVVLQmVtOG1iZTg5Q3c3OUFPTWJ0Yi1wZmNvRlR0Y3lJZjdLSk9kdjZPVWI3VUlBTEx5eVdmZ3I1SGQzREI2SEJ1aHhEZ3hpOEdQV0FXa093cWhObjF4OXJpdXVUbjNRWXBkX3J3OVo5TUVuX2lhOVlvb0pGNnltZmpsdGJkQUVxWDFtRk15WDF5MWEtZmJxZDR4NFBMTVc4ZmIteHVodzRJU1FMaDUxYUY?oc=5",
@@ -801,16 +811,6 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
-      }
-    },
-    {
-      "id": "a3c09f614c3d",
-      "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
-      "published": "2025-12-23T08:00:00+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -841,6 +841,16 @@
       "source": {
         "name": "CORDIS",
         "url": "https://cordis.europa.eu"
+      }
+    },
+    {
+      "id": "fe156886264d",
+      "title": "Distrofia di Duchenne: approvato il farmaco italiano che \"compra tempo\" - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KVVJ4cG9JZ2dHaU01RGZVS2s0aDhoNTZQWmZibVRkVXM2QmtPZ0h0bHhXeE81RFlLTXkzWG41S19tUU0yQXp5cm9R?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
       }
     },
     {
@@ -944,6 +954,16 @@
       }
     },
     {
+      "id": "70ba303fc2c0",
+      "title": "Magri a ogni costo? Ozempic “non è una bacchetta magica” - RSI Radiotelevisione svizzera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVE1YMFBaOHRHMm5tN1o3akMtTEZoeWtnMWl3SHdXblBkUkJyWVlldS1Qcm9BeGs2NzhBWi1kY3YyNHFiVVBJdnFwZURfeWtjUkw0d3BqVFZUeW96WWFZRHlYSl9vQ3FqYU00OS1fUU03V1M0dU5kUlJxTzVZbWU5UXA1SXZURWt5NXdPVm94bGVjTnJDRmlPN3FSbW9MTVhuM0xuWHpCMlp5R2dReVUzWkVmb0IzV1FGT2Zmb3N3?oc=5",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": {
+        "name": "RSI Radiotelevisione svizzera",
+        "url": "https://www.rsi.ch"
+      }
+    },
+    {
       "id": "7aa51590e268",
       "title": "In Salute. Sindrome di Down: verso un farmaco per il trattamento dei deficit cognitivi - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmhLSHYtZ0Z6YTRVRlp1ZVhnY1FEU0VQNFNjc2ZqMDE4VmV5RXc5RVV5REJ2WlRBcjZXd0lJYTRveEJ6a3djRVNNWFdGMXNRT05wZ1lPSl9XcDZrT2NzajUtdi1hb2pkcmlZWmU3Q1dnUTJ1a0JvajBhc0thdVRZc0UwcGpVSlZ4aTIweDNYbWVqbVFHd3piSg?oc=5",
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Fondazione Veronesi",
         "url": "https://www.fondazioneveronesi.it"
-      }
-    },
-    {
-      "id": "a9d2c4270374",
-      "title": "Farmaci antiobesità e salute mentale: effetti psicologici oltre il calo di peso. Cosa emerge dai nuovi studi - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUFmbkJYVnFJOThDWldldGhBZG8xNUJjQTE4anZ1RWhWMldsaGt5NTJWVDRKWjBRWUVTWlNYakhsTTd6SzE0cmJQRVEycGlWTU1OSnRtb19KblFaOXFJaF9iU3Z6enIwSFNjWEYtMFNnejFHc21hT0F4QWd6U2dLZDk1TFNKYmh0aU1uT0ROR2NpYVoyVVk1UHZPcWN2SDU5X0dnb0JPQ2NuZ2lDM0k2dVVsZTAtdVJDUnhNNDk0SGx5UTZWQ3VLeVY3OTM2WTUxV250X2JJeFpWdlhjMWdwR0NvRW9Hb3Yz?oc=5",
-      "published": "2026-04-01T07:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
-      "id": "3e7ebeb06e06",
-      "title": "La distribuzione farmaci tramite totem digitale “non è conforme alla legge”. I chiarimenti del Ministero della Salute - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWY4MFNNcUY5M1RUekVUYmVDU3ZPLTQ5UDVabEtSeG5JbGpOYURkUkx3S3VCV1JZVnRCMEJEd3VuYVFyN3VwWVoxT1BUcHA4UFRhTENodmwtaUVrZ1MwOTZ5OXBCRU9xSm9rWW9rcVkyNVNSeFpPMnE1bzJmYkVBcWpEX2FYRmpHVmN5ZW1GWQ?oc=5",
-      "published": "2026-01-26T08:00:00+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
       }
     }
   ]
