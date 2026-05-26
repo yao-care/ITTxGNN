@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T23:55:45.068094+00:00",
+  "fetched_at": "2026-05-26T02:27:49.695352+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "afee4aa3d8be",
-      "title": "Pressione alta? L’insospettabile ruolo della bocca che cambia tutto - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTluQWdjZU43OUMtQ1hXWC1fbkUtWFJmUlRqR04zNkViN2xHZ0lZX3VfMzNSQ0lZZmNJQVFjdXN6TGliTkRaQ2FxVER1X085M3hUUjlhWEFFODd0QTNLRW5hQWMzV29GazJUai1ybVhnOHprM0ZEYlN1amhDZ3N0bXhJc2V2OHFZSy1LQmtZUTgyYXYyVlp6TFNWWDFBSXBhNnNHb09RQVU?oc=5",
-      "published": "2026-05-25T18:50:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "7274b65d6869",
       "title": "Come funziona la sperimentazione dei farmaci? Lo spiega l'esperta - La Gazzetta dello Sport",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmJ2UTg1anNtOFVOUHFNQ3BaNDNKcjFlWUwtbzZCX3NfcGZ6OE9FVjZVclVfY0J0WkVadkItX2dHM0tyYWloRFhPdjE5TlliR05rSmg2dEZhbW8zT1ljNGFVSFNPNExXNUdLbG16bXl0dC1aZlFOVEN4LUJCZHNhVDcxNDBia1F5THBiQ1VTQUI4Q1VUQ3g3Tmt4VHpla1B4V0FKc2IwRHRDVzVEWElkRnNWWlRyZUZhMTR5Y2NUb2FJNHR6VV9sUHJEdTl1TzJUaTRUR1pLYmhpYUxMZENVQjR6WUXSAcQBQVVfeXFMUFBKRUtRUDJIbHBoT3dOWXVRalF3WEsxVDZGUUJXN21XMTNRSnpScU1HcmdXdVc5emgwaDE5QU9ydXctSHBRQmxQc1ZYdXAxVmV4M0FFdDhWWVhqZHZhUkIxRVBSeng5U1FwYzJZY1lEYkRhUzNvSWo3VWxZS2N0OER5elAxVkxNd3hXYXBKdmZ4TC1ZTFFDaUpxRm5KYXBDYkdmek9YTDQzaDMxRFMxWFJaMVJIU0cwU0dtdU5NaEJUM085MQ?oc=5",
@@ -41,26 +31,6 @@
       "source": {
         "name": "La Gazzetta dello Sport",
         "url": "https://www.gazzetta.it"
-      }
-    },
-    {
-      "id": "bbf79561b000",
-      "title": "Antibiotico-resistenza, convegno al San Carlo - AGR Basilicata",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNURTdE1RTVBlcnlxRHZ3ODZnZUt0MFlNT0RhdEJRN1lqVHdCVWNQZnZkZzloZV85aWMwblhyYTVaU1dwd25RRFlmdlFnWlE2bElFYkNyc2hIVHYxRkVzWEFBZUE2dlpOODdzYTM2dDhqV2tObl8zU2JjRmZNU0RIbWMtUTlMS0d2eXdGYQ?oc=5",
-      "published": "2026-05-25T07:41:00+00:00",
-      "source": {
-        "name": "AGR Basilicata",
-        "url": "https://agr.regione.basilicata.it"
-      }
-    },
-    {
-      "id": "56e351cb23da",
-      "title": "Testo unico, ricco e vario il fascicolo degli emendamenti, ampio spazio alla farmacia dei servizi - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnZwc0RnbHNkdTNOUUZMN3JLMmY2U05QUmFCOWlyWG5jdi1iRVU5NEN4aGxFemdBMEZkanVxU25EM2Vmb3BaSmxnNFlrcEtsUUYtYTdXU3hxNy00NUVKWFpVek1sMGhhc2VmQ3BuUmFUV2VqLUREd0ltV3NZZFpidjRWVEM5VEFLODBoSjY3SFktN2pHZmJZNkptMnpjTVpGdHNveWhnanZ1VmtDUnNybWhnWEZIMElIQjBLemhHMDBVZWRGVTBtYQ?oc=5",
-      "published": "2026-05-25T17:19:37+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
       }
     },
     {
@@ -74,6 +44,36 @@
       }
     },
     {
+      "id": "bbf79561b000",
+      "title": "Antibiotico-resistenza, convegno al San Carlo - AGR Basilicata",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNURTdE1RTVBlcnlxRHZ3ODZnZUt0MFlNT0RhdEJRN1lqVHdCVWNQZnZkZzloZV85aWMwblhyYTVaU1dwd25RRFlmdlFnWlE2bElFYkNyc2hIVHYxRkVzWEFBZUE2dlpOODdzYTM2dDhqV2tObl8zU2JjRmZNU0RIbWMtUTlMS0d2eXdGYQ?oc=5",
+      "published": "2026-05-25T07:41:00+00:00",
+      "source": {
+        "name": "AGR Basilicata",
+        "url": "https://agr.regione.basilicata.it"
+      }
+    },
+    {
+      "id": "afee4aa3d8be",
+      "title": "Pressione alta? L’insospettabile ruolo della bocca che cambia tutto - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTluQWdjZU43OUMtQ1hXWC1fbkUtWFJmUlRqR04zNkViN2xHZ0lZX3VfMzNSQ0lZZmNJQVFjdXN6TGliTkRaQ2FxVER1X085M3hUUjlhWEFFODd0QTNLRW5hQWMzV29GazJUai1ybVhnOHprM0ZEYlN1amhDZ3N0bXhJc2V2OHFZSy1LQmtZUTgyYXYyVlp6TFNWWDFBSXBhNnNHb09RQVU?oc=5",
+      "published": "2026-05-25T18:50:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
+      }
+    },
+    {
+      "id": "56e351cb23da",
+      "title": "Testo unico, ricco e vario il fascicolo degli emendamenti, ampio spazio alla farmacia dei servizi - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnZwc0RnbHNkdTNOUUZMN3JLMmY2U05QUmFCOWlyWG5jdi1iRVU5NEN4aGxFemdBMEZkanVxU25EM2Vmb3BaSmxnNFlrcEtsUUYtYTdXU3hxNy00NUVKWFpVek1sMGhhc2VmQ3BuUmFUV2VqLUREd0ltV3NZZFpidjRWVEM5VEFLODBoSjY3SFktN2pHZmJZNkptMnpjTVpGdHNveWhnanZ1VmtDUnNybWhnWEZIMElIQjBLemhHMDBVZWRGVTBtYQ?oc=5",
+      "published": "2026-05-25T17:19:37+00:00",
+      "source": {
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
+      }
+    },
+    {
       "id": "942860f1454c",
       "title": "È possibile curare la depressione con una terapia per l'artrite? - Pazienti.it",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVd0YmFldF9JSkZycUV4eXdIQmRRX2xNZWZ3bDU5cUFiZF9VTHE5RUc1aWdjaVRKd0Z1UXFsQkNFSDgwWjFGTHlqZmdncHptc0w5UmpHU01YSXotQklrclJhZ3lwU3F2VzU2RnFFTzQ2SnN1REt5aEpDN2Y3bVM0YWpWSE5fdm5EeEY4b2k5TWd0SVZ4YUV4NmNPWEdSdGIweXZVY3RqMkVVLS1mTHFMbXhsUU1xeFc3WmQxc0hpTUpFNzctb0Z6U2gzWnlOeUxlak5YdjVn?oc=5",
@@ -84,13 +84,13 @@
       }
     },
     {
-      "id": "31b11b1a3ff7",
-      "title": "A \"Basta la Salute\" i nuovi farmaci per la cura dell'obesità - Rai.it",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN01rN1FoLVlYanU2QlZma1RiX2tldVp2MFlEN0xtTGVRVGdaSHdmUXJta3BvT1Y3aG1RSGQyeWdXRUxsVGp6bEFKc1hka013LUhOQ3V6RklNaUpfY18xODZqTU9SWnowdk1BNmY5c0Z4VkNZUmFMcmRsZlk4dXhidDVyNkFsZlFUU3JvTk92WXViekpFcDVRdVlmMVppM3F0ZWVaSU56SDd0ZHlfWTc4TmJBY2Y4RjVJQlE1TmJDUDRZNThmc1U5QVpHdXVleUJBUVF5RHFrTVpNV18wRnZaZ0VaRFhOZi1GZHpvOXdIWU1WTGhxRG45Y0t1ZU5ZZTloTVhCazFUcnVWcG5MdzJTa2t3NDlyWmF5STc2U21DYWQ?oc=5",
-      "published": "2026-05-20T07:00:00+00:00",
+      "id": "1f8b4b997161",
+      "title": "Come usare correttamente gli antibiotici ed evitare resistenze. | SIF Magazine - www.sifweb.org",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDBNRGlTVGp4Nnp2eTAxLTBMaGhrRGtxNzczdHlCRXpzZ0g5cGpRaU4zeEl0eUUzSU9yTVpPaDk4OVV3NmVubU5BZnFyWXM3M1hrN01nV25Iel93bGhZZXhyNWlCVW1CT0hKbEJJN0JNWGVCQS1lcmZ0ZGJSNnpSM2hFZjRKRVJFUm54V211OG5DUl9QcTlDUDZseW9yV3BpTXRjc1B2R2Q5RlA1WllzbGRqQkJWdTduX2RONEJMTWY?oc=5",
+      "published": "2026-05-21T06:00:36+00:00",
       "source": {
-        "name": "Rai.it",
-        "url": "https://www.rai.it"
+        "name": "www.sifweb.org",
+        "url": "https://www.sifweb.org"
       }
     },
     {
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "27a831109f20",
-      "title": "Come l'abuso di antibiotici distrugge il microbiota (e come rimediare) - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbllodUlsdmRQOTlCbkloSHlXQkF1Mlo3QjlDNHkteHd2VnV2SENhZXVfakxTbXVsQlozT2MzNzFnV21vZ18yV1FjYWJfdUFWRzBOb3RZNmhXdTk1eXk3NjFRNTF0cTllTU9WSXlnSUNvczRLdHFTbHhLaFdlNUZpNUhReXV1RDFCSDJaR1Q3cnJZTFBKdmphRDdKRVh1ZTZSdC12czNLeWxUT0t0Mzh5NXRoUkFXRFZUQjUzeENNdEExZw?oc=5",
-      "published": "2026-05-25T06:14:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
       "id": "1d1ab8e2d82b",
       "title": "Farmaco accessibile: novità legislative. Cosa cambia per il cittadino. - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1FPSkw3SFFaMFJYVjZfbV9rR0c3amUtamMzMDdmS0JfY0xOZzI3QnZVSGFMQzdLM1hXUEU2T3RNampSWGtsaUQ1eFJYOGhIM1RJWEhGdzdZV0E1SGlmZC1nLWtRbzlKcXFqR1p3TTlSLVo5Y0FtR2pMSzI0REE3SnBMMmh1dXNoRGhkOHk3bzRFejZuNnBRTy14UFpSeHd0NFlWYXVB?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "pharmastar.it",
         "url": "https://www.pharmastar.it"
+      }
+    },
+    {
+      "id": "27a831109f20",
+      "title": "Come l'abuso di antibiotici distrugge il microbiota (e come rimediare) - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbllodUlsdmRQOTlCbkloSHlXQkF1Mlo3QjlDNHkteHd2VnV2SENhZXVfakxTbXVsQlozT2MzNzFnV21vZ18yV1FjYWJfdUFWRzBOb3RZNmhXdTk1eXk3NjFRNTF0cTllTU9WSXlnSUNvczRLdHFTbHhLaFdlNUZpNUhReXV1RDFCSDJaR1Q3cnJZTFBKdmphRDdKRVh1ZTZSdC12czNLeWxUT0t0Mzh5NXRoUkFXRFZUQjUzeENNdEExZw?oc=5",
+      "published": "2026-05-25T06:14:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -214,16 +214,6 @@
       }
     },
     {
-      "id": "48654e84419e",
-      "title": "Rna, Car-T, editing genetico: come funzionano le terapie che stanno cambiando il volto della medicina - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTXVYV3N2Sl94NFU2d3JLWEo4MkF0REFldi1rT3laS1d4T2hYbmNEN2FFX3poN1NNak80aXdHUUJOaUVsbUtLanRPRmdkMlZYdHNOajdaQVNZNThvQUdiLWpWVV9uZThrVHpqNkNzM3N4NFA1UGtNSHhIZGVVbF9uM2RXS29pTjQ2aEFHNlZfWUx1V2tqTFVNX1lES1kyYjJTM3lnWEYxUkJqTTRaQW9hMkZPb0pEQmV2Y0hwY3RsbG9sazF0VnJBWEJFOHBFYmxSaVpDT245YlZWR0lZNlg5akpUWllJM1FiSnFmZGl4U0p3bjF4cEFYcFA5UzB5N3lTUExhdTRVc2pZbi1UeDEzYlVsWdIBmAJBVV95cUxNZ3pySmdMSnJ3bGNzd0xpSkowbjFFSWZSc0l1NTNkWTEtZHJwT3FJV3otc1NPZDRQa1YwZEQyQXpkbWFJSkM5azBHV1hmT0FWQ1ZuUU1DdnNfNENraUdPQ0YyWlVoOW1ZanBEQWc2N2VKeE92Z1V4dDJOLWdCMkx4TkVlUkRIWHRXLXV3N1VuNnZDXzlCX3FYX1hWNEtYeTVqUWpFc1A4UUFPMUdoV0dwdW4yWUtVYThmNlZKZTJnX09JU2tVR1VkQWVhWGRVMDFoQmZGdWdURmNlTGEzWEhVcEVRZGZUT1F6aW9fbW93Q1NHWXJlOUEyZmdCa0h6TEJ4QkJjS1dqbWJHbkdfWUVzZHRyM2JOYlRi?oc=5",
-      "published": "2026-05-23T17:50:04+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "d12243bcb2e9",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -231,6 +221,16 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "48654e84419e",
+      "title": "Rna, Car-T, editing genetico: come funzionano le terapie che stanno cambiando il volto della medicina - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTXVYV3N2Sl94NFU2d3JLWEo4MkF0REFldi1rT3laS1d4T2hYbmNEN2FFX3poN1NNak80aXdHUUJOaUVsbUtLanRPRmdkMlZYdHNOajdaQVNZNThvQUdiLWpWVV9uZThrVHpqNkNzM3N4NFA1UGtNSHhIZGVVbF9uM2RXS29pTjQ2aEFHNlZfWUx1V2tqTFVNX1lES1kyYjJTM3lnWEYxUkJqTTRaQW9hMkZPb0pEQmV2Y0hwY3RsbG9sazF0VnJBWEJFOHBFYmxSaVpDT245YlZWR0lZNlg5akpUWllJM1FiSnFmZGl4U0p3bjF4cEFYcFA5UzB5N3lTUExhdTRVc2pZbi1UeDEzYlVsWdIBmAJBVV95cUxNZ3pySmdMSnJ3bGNzd0xpSkowbjFFSWZSc0l1NTNkWTEtZHJwT3FJV3otc1NPZDRQa1YwZEQyQXpkbWFJSkM5azBHV1hmT0FWQ1ZuUU1DdnNfNENraUdPQ0YyWlVoOW1ZanBEQWc2N2VKeE92Z1V4dDJOLWdCMkx4TkVlUkRIWHRXLXV3N1VuNnZDXzlCX3FYX1hWNEtYeTVqUWpFc1A4UUFPMUdoV0dwdW4yWUtVYThmNlZKZTJnX09JU2tVR1VkQWVhWGRVMDFoQmZGdWdURmNlTGEzWEhVcEVRZGZUT1F6aW9fbW93Q1NHWXJlOUEyZmdCa0h6TEJ4QkJjS1dqbWJHbkdfWUVzZHRyM2JOYlRi?oc=5",
+      "published": "2026-05-23T17:50:04+00:00",
+      "source": {
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
       }
     },
     {
@@ -374,6 +374,16 @@
       }
     },
     {
+      "id": "1ba006e65c6e",
+      "title": "Il nuovo consumatore di integratori in farmacia: a Cosmofarma 2026 tracciato l’identikit - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM014Zm81MUpwUGRPT00xZ2hCV2w4ZWR2MG1ZNGdBUzd2VHNyV0hUTVFVRXBnbzVGbUg4T1JHTWtQV3dHQmFuRU9QVFZCV0tXSndpRHA0YVMwVzAtVEpUSUtsN1o5TkhtSGtsYnYyVWh5VXV2dWhHRDk2YzVJQldHXzhIUXFnNXlHNVY3LVVwNHZPZVgzT0MwVDNpczdxc2VyRWVvU2xfRlF3bVA4VDBxQXllRXZMUQ?oc=5",
+      "published": "2026-05-22T09:33:25+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "afe05644d497",
       "title": "‘Farmaci a scuola’, come affrontare un attacco epilettico - La Provincia di Cremona",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXFkVDZVajNmY1RiNllXU01ReVNFRHp3SldINHRyd0FUUTdsWUtoRDBPMFNJVGpWcTF4cm8xcXdQamRfNzBtMkdTTm0wSEt1TWVwMWpSdWlfajh2X3hNcjlzRS1QNk5kZHg1QlY0NHB2dFFfSll4ZlpBNjFpcE1EYzhyc0FKV3AyOUY4NUI2VUcxNVNUVFl1ZUVWRGZRbjNwb0ZtQmpZdU1lNmxnZXc?oc=5",
@@ -421,16 +431,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "7188eac0f61f",
-      "title": "PARACETAMOLO, L’ALLARME DI AIFA: “TRA GLI ADOLESCENTI CRESCE IL RISCHIO ABUSO” - Quotidiano Giovani",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT09FYTYwT0NNZXhnNVV3Ymo2RDM4a3d0TFJUZ1JHNXY1LTFuSVBzNWw5eVZiTlJzRmFPUDE0VjY4UkpNOFItNVQwVDk4QVNsTnQzUWJGX3hjOUhIaGZ0NTBBdElMSzN4OFdzaVZxazFFcXZBbWZrYmk1cm9NcU9sQkpHZi1iaWQwc1I2TjJLRGFGVV9OYnFQRndVMHJUUk5yNkRjYUVVQUREY0JjX3lIS19ScEd2eWdLcG9vaDlVYTc1MkFVbjBfVg?oc=5",
-      "published": "2026-05-25T17:56:38+00:00",
-      "source": {
-        "name": "Quotidiano Giovani",
-        "url": "http://www.quotidianogiovani.com"
       }
     },
     {
@@ -504,13 +504,13 @@
       }
     },
     {
-      "id": "3e8c7f79d1ea",
-      "title": "Farmacia online sicura: come riconoscerla, cosa si può comprare e quali diritti - www.altroconsumo.it",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGZwT0hQekVJSlZkZEdCRXZnRFYwY0tsMnVyWEtLOU5WMjE4dnF2V25lS1BMV3RGLTlZWmVOZ2VYMFNjZ2lWd0lRRVhxTW1WWXh0aUhFQW1GNy02MFdlbFE4c2Jrd2p0dFJLZW9kaUJnSV91Mzl1aENtVlduU0QxRnZn?oc=5",
-      "published": "2026-05-12T07:00:00+00:00",
+      "id": "7188eac0f61f",
+      "title": "PARACETAMOLO, L’ALLARME DI AIFA: “TRA GLI ADOLESCENTI CRESCE IL RISCHIO ABUSO” - Quotidiano Giovani",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT09FYTYwT0NNZXhnNVV3Ymo2RDM4a3d0TFJUZ1JHNXY1LTFuSVBzNWw5eVZiTlJzRmFPUDE0VjY4UkpNOFItNVQwVDk4QVNsTnQzUWJGX3hjOUhIaGZ0NTBBdElMSzN4OFdzaVZxazFFcXZBbWZrYmk1cm9NcU9sQkpHZi1iaWQwc1I2TjJLRGFGVV9OYnFQRndVMHJUUk5yNkRjYUVVQUREY0JjX3lIS19ScEd2eWdLcG9vaDlVYTc1MkFVbjBfVg?oc=5",
+      "published": "2026-05-25T17:56:38+00:00",
       "source": {
-        "name": "www.altroconsumo.it",
-        "url": "https://www.altroconsumo.it"
+        "name": "Quotidiano Giovani",
+        "url": "http://www.quotidianogiovani.com"
       }
     },
     {
@@ -521,6 +521,16 @@
       "source": {
         "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "3e8c7f79d1ea",
+      "title": "Farmacia online sicura: come riconoscerla, cosa si può comprare e quali diritti - www.altroconsumo.it",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGZwT0hQekVJSlZkZEdCRXZnRFYwY0tsMnVyWEtLOU5WMjE4dnF2V25lS1BMV3RGLTlZWmVOZ2VYMFNjZ2lWd0lRRVhxTW1WWXh0aUhFQW1GNy02MFdlbFE4c2Jrd2p0dFJLZW9kaUJnSV91Mzl1aENtVlduU0QxRnZn?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "source": {
+        "name": "www.altroconsumo.it",
+        "url": "https://www.altroconsumo.it"
       }
     },
     {
@@ -614,6 +624,16 @@
       }
     },
     {
+      "id": "3678042890d7",
+      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
       "id": "343ab25893bb",
       "title": "Farmaci, gli errori da non fare, dalla conservazione al consumo - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEWEE2LVpGSUJqS216VTFfaUVqNkltdENBRllWUDl2SjlYMEQwMmd6NHhSZmhqb0dWamhnQ1ByeHdDUDh4NjZEbVZKd0lVdnpveHdJaU85bXp0SWtRNnNYOGhhOWZVbTNjRzBXamFYOWxUZw?oc=5",
@@ -694,16 +714,6 @@
       }
     },
     {
-      "id": "5435049e06d8",
-      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
-      "published": "2026-02-09T08:00:00+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "0f3f72c63687",
       "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
@@ -711,6 +721,16 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "5435049e06d8",
+      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilFarmacistaOnline",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
+      "published": "2026-02-09T08:00:00+00:00",
+      "source": {
+        "name": "ilFarmacistaOnline",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -734,16 +754,6 @@
       }
     },
     {
-      "id": "2d3e4c6f2315",
-      "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
-      }
-    },
-    {
       "id": "1aedcb04a1c8",
       "title": "Farmaci: pillola 5 giorni dopo, ricetta per minori e no obbligo test gravidanza - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXBNcHVURVBtSU1Xdl9NM2lWQThHMXFOOHhVQXN2eUFQZjNxRGFEaTM1REp1eDE4UE9nUTN0bWxUdFVXYU9CLWxMMHpqejNSWXhTQnlneXVsX2tiQVRZYVUtbklTZ0lNWWxZc2VVNi1BcEM2VnBzXzNsNlBkUHF5T1dxU3VyUGo3T0dUeEN5MFJhQ0hlZWdscVE5cHpBREd6Y2I5Nl82VDl5OVh2SUNrMEpsbw?oc=5",
@@ -751,6 +761,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "2d3e4c6f2315",
+      "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -864,26 +884,6 @@
       }
     },
     {
-      "id": "942ff12117e5",
-      "title": "Città della Salute e della Scienza di Torino: presentato il nuovo robot della Farmacia ospedaliera - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVl2QlQwQ0hPdjYwWUJCdjJhQkN2YlRPWnVTbzdtX1JSRm5KcGxtWWZfVlZtQ0M1djhzNnNXNHVNdW9aSGswT0N1eF8wU1M2bmJXeFFzVXVGRU8xN2hKVl9ld2dBWFVsekpXTUtXMnRvT3FFNU03anpDUGVITThZYzlrSTc1MzUxR0d3bXAxWW5fWnhqYVJ2aU03X3JpQnNqb3FMdGRteE5BQmM1R1M2RE1Wb2FkajIzWDZoTURJb01Zcm1hSmxiNHAya05YTlU?oc=5",
-      "published": "2026-04-09T07:00:00+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
-      }
-    },
-    {
-      "id": "90a26ba5ad21",
-      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - ilFarmacistaOnline",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlUzRzBOYTJKVU9fSC1MMlVzekM4SkFBNmJwZVdwVC1ZV05KV3J5OWNBZlVXYl9QeGNxNmVXVFhxVTdaazAwaGtiYkt6Nml3RGhRUTZkeF9nZ08yV0ZSeHptMU54cmtlV3B3ODNmbTVmd2RLVTc2d2tDQ3FSN3dUX2VycVpGTlE1N25qaw?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
-      "source": {
-        "name": "ilFarmacistaOnline",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "60990871231e",
       "title": "Nuovo robot per la farmacia oncologica della Città della Salute e della Scienza di Torino - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50dmVheUpPVTVvVS1hWUZkZkV4QUhSTE9rWGptTmFWZ2F1UEYtMUVVZm1RWTFjQUFzcjdQWi1ncHdtMFBKVUJWWERncXM4NFd0TUJzcDVhYndBaEpVbE9GVkJXSnRFS1ktaTFhdVRGOA?oc=5",
@@ -901,16 +901,6 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "05fbe3843420",
-      "title": "La cultura della donazione che nutre la tutela della salute - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNU1l1bUJzaTFudmdsbERiZE1zUEpVWEZmRHNMamY0eS1EMW91QVBPNTJubjJFOUV3UGxnRFZlNUlTQ0ZodlBWQzZOTklvck5RSTZlRnhickR0Z0dzY0NFbEJJNGdiTThIYldZZktWUklBY3dFWW5RNHl5aWRpOG5ZMGliemlwRi16Nk1sbXJCWEVKMGtlNEdCVEZiNFR3b0xHd1N0X0NVQ214TVZIcUJ5QXo4cFRGczgwSWRPUzRkWk1GVTZHUzJtVGxGREFSUXpmVmd1Rmx5Q1Njb0RTSHpDeDY0X3FVQUl6OUlKand2N3V4eUt6SmlDaEpyQ3JBNVNKOW1WYXozSHA1YmprSVotUzMtMFNwaG14U1ZXbmtWZ3RlR3hIRTctV1FMNENMYTEyaW1mSExfYlhmcUx3TDF4XzM4cTZQelg3OWlTUnpQcDNPRFpCS3V0enphT0lCNlHSAeQCQVVfeXFMT1dxYmtJdEw0QjNDbnltZUMwY2tiQ280ZktBRkRpS29NaU1RWHQ4ZDAtRFVZdkVJMlBZbkhxVzIzQ3A0UnBmdGF2ek5HU1BzSmpzdmZ3cnhidk1OZjUtdU9pQ3dqRVlESnRUd0E1RjhDclk0eUgtbk5lWlNfanVPTWNCN0ZhVkk5bGktVjhORTdSYTNoV0NrendkS2xDR1NFeGZwR2JSQ0w0Y2E3LW51ZjdpdC1CbXF3Y1pYUVVLQmVtOG1iZTg5Q3c3OUFPTWJ0Yi1wZmNvRlR0Y3lJZjdLSk9kdjZPVWI3VUlBTEx5eVdmZ3I1SGQzREI2SEJ1aHhEZ3hpOEdQV0FXa093cWhObjF4OXJpdXVUbjNRWXBkX3J3OVo5TUVuX2lhOVlvb0pGNnltZmpsdGJkQUVxWDFtRk15WDF5MWEtZmJxZDR4NFBMTVc4ZmIteHVodzRJU1FMaDUxYUY?oc=5",
-      "published": "2026-02-14T08:00:00+00:00",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
       }
     },
     {
@@ -954,13 +944,13 @@
       }
     },
     {
-      "id": "b7c95f70fa9e",
-      "title": "Cattive abitudini: perché continuiamo a prendere farmaci anche quando non serve - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemNHVzNtSGRlVzN3T3BuMUtOSVJWZkZBYW5EZjlIM0tyMzZRcEYzam5wR1Vuc2ZQZGNJWEYzdy1MUFkzMnlYYU1Xbk5oZmUxNV9sbTRYQUNzNmNRTWxzY2lFLVF3SnZSMG90VnNjMDZfZjJ5NGJ1dk4wWVR2Sm15clgwNnlPQkQzaldJZHMwMXVDT3hlV1dfbmJiYjd2VGZpZVR6QjZrVdIBrAFBVV95cUxNTzhEdWNwRmpJekdXM0tfRlV4bWV2SDQ2cXZ4MnFRZXRDenpHMURiUDFNOWQwU1B6T3dNUGdhTWRrTHZlaG5TYkZiVzhmUmRUZWlMcm91Z19RVkxqSzBrdGdMbUloOEhkNkQxZUJPUC1PMmk4U2dTZlV0YXZmVHZOUlNLNEdBQ0gtQlpaQmd0YkhJZm1mTzVOdXVhSjVKVzNWUTlGNlBTMnZnWHZV?oc=5",
-      "published": "2025-12-10T08:00:00+00:00",
+      "id": "8b9661a995fb",
+      "title": "Malattie rare e farmaci orfani: è solo un problema di tempo? - Scienza in rete",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWhWcWNZZWFHTURwLWRPNEtzSDEwdFl6ZWI2dHNuZ0Q1R2hLeXI3enpZN0pMVExZcTFlUEw1MWk2NFl6SW5yTmpvLV9rY3NjZ1dpZ2tIM2ZFdXByWVFCS0UwV1JqRVNvQkg2N0FIOGlYVWlTVjFKUGFuX1JhNFlzUlFkZzhjN3ZHSWMwblByTXl3Z3VxQlNGcXFlRUhvTmVqR1MwWV9PRTJMUmlZUVEwQ2xVamV3UWdidVBB?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
       "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
+        "name": "Scienza in rete",
+        "url": "https://www.scienzainrete.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
+      }
+    },
+    {
+      "id": "35ce8734ce7a",
+      "title": "Più esami e farmaci significano davvero più salute? Il dibattito ai “Mercoledì della medicina” - IlPiacenza",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalNuaGQwaWV4X3BjcGlNMEdTSVd2elFVa2NDSk9QQlpMc1N6clo4MFVDN1gxX2JmR2trM0ZvVkNxYWR0cHZ3X3Nwd0wxNkFYVGtrVXMwU05nelF6T09kRHhobE1laldaY24xU1JfZTYxLWRsb3BwWE5ZRWlpVjhGbDB1eGpSRmxLTlNkSk5rUVRMQjhXR3dWZTJOSE95SnFuSVRoZUttUVRFcUVjTENxX2dUYlBkRnFZQTJrcGJsUzdiMi14M2sycw?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "source": {
+        "name": "IlPiacenza",
+        "url": "https://www.ilpiacenza.it"
       }
     }
   ]
