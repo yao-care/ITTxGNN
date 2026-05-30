@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T11:11:54.542195+00:00",
+  "fetched_at": "2026-05-30T13:02:08.860578+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,26 +54,6 @@
       }
     },
     {
-      "id": "975589f8a3ff",
-      "title": "L'appello dei medici, 'rivedere budget farmaci, sui cittadini il 28% della spesa' - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFhYX3ZkNW5zZFdlNFF0Zm12OElueG9Ud3dIanViVDBSM0hQLVNfa0JSVnRXaVRXV2tkUlcwWDRBNE96MlJIRV81Q3E5dG5COFBtMDFQVV9JVDg4U2d3eEVjbnllTjJ0c0s1SGtEUFE4QmxvdEF0V2ozOTlIZHNmTXc2WkY2OXA3LW00Nzg3cnF3VXZhNkprNW02RWVuV0xiZl84ZTZjOUhpYk5KbS1yS19Yd3NQWGIzOUlOZlctT0M5dEp0cWZsZGxR?oc=5",
-      "published": "2026-05-27T23:30:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "174c3341d4e5",
-      "title": "Hantavirus: farmaco sperimentale a Francia, Spagna e Olanda. Di che si tratta - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjBRRUNtUUJWR1NIdExlSUpTT29VMVBMRzFaSXdMNUhjQUl3bHl3WUZzMEFlZ0ZzRG1SUFZPeW1NdnlZbUVibnpsdHIzLTFJdURsemtfVWFQVERXc2djRm81YVNid3dDRjM3Z09aNnAzT1RIQS1JeUxYVnZkMExHZkdYeVJZVWNvWXZuVEZhbEdZSU1RNkVxN0ppUzdmb1VTaHRfMHJCQ2hKSTh1RkxkZDNRUUZ3emdhTkRjNU1JWC1wVzQ?oc=5",
-      "published": "2026-05-29T10:03:34+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "5184d2d62c3f",
       "title": "Il sottosegretario alla sanità e i farmaci - butac.it",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10cU1SVzJsUDFGU0hZaVMzdGsyMjZoZTd3cGExblQtVFVUUlE3YzRELXMzcjFTaVVPUkkxYjA3aHFhTXRQMnE5VzFQLW1hUQ?oc=5",
@@ -81,6 +61,16 @@
       "source": {
         "name": "butac.it",
         "url": "https://www.butac.it"
+      }
+    },
+    {
+      "id": "975589f8a3ff",
+      "title": "L'appello dei medici, 'rivedere budget farmaci, sui cittadini il 28% della spesa' - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFhYX3ZkNW5zZFdlNFF0Zm12OElueG9Ud3dIanViVDBSM0hQLVNfa0JSVnRXaVRXV2tkUlcwWDRBNE96MlJIRV81Q3E5dG5COFBtMDFQVV9JVDg4U2d3eEVjbnllTjJ0c0s1SGtEUFE4QmxvdEF0V2ozOTlIZHNmTXc2WkY2OXA3LW00Nzg3cnF3VXZhNkprNW02RWVuV0xiZl84ZTZjOUhpYk5KbS1yS19Yd3NQWGIzOUlOZlctT0M5dEp0cWZsZGxR?oc=5",
+      "published": "2026-05-27T23:30:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -104,23 +94,23 @@
       }
     },
     {
-      "id": "fc48dab3e115",
+      "id": "356470f737c1",
+      "title": "Ma quindi l'hantavirus? È iniziata la distribuzione di farmaci sperimentali - today.it",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRDYwcFhoX0dQS2dQbjRIZEJldF9MRkFZU0FfS0Rrb3FtcVRJaWpSQ1UwOHVOVjJxamQwa1JYaFoyUFVCaDBhb2l4bUZKRTk1VHVJM1VkN25iUzdRXzA3aHY5TEY1bGFzM29LMVdfaENFUnVEbVJ0WV9R0gF6QVVfeXFMTzB3Z25XRjhiSy1Pd1RCRFVUY0dBbTZfQURZNFQwSFVQSUJHR05mNTBsaXhIR0c2ay1nVDgtM19jd0FwcndWUkFGUUFyeXdVRVJGeTNvWG0tYl92RUU2VlB6RE4zUFpfaEo5M0VwS0lENkpTQmU5M044M3c?oc=5",
+      "published": "2026-05-28T12:12:47+00:00",
+      "source": {
+        "name": "today.it",
+        "url": "https://www.today.it"
+      }
+    },
+    {
+      "id": "9ceefb09df75",
       "title": "Spesa farmaceutica. In Italia il 28% è a carico dei cittadini. Fossc: “Garantire sempre diritto alla salute e terapie innovative’ - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONnlqZDQ4LVY3Q0FGZGljWTJEcURWQjFEWl9EdFlCcFVwVjdVaXBBM1lqU3RNczB3QThvZjQzUFREX3ZVbmJpR1NxMF85akFZY3c5QjhkMG5sdWpPbGFzNElfRWZ1M1lrd1lwSUdod1lVQmxLczVKYjcyeExqWUFHLW5fem9NVzlmc3hhb2l5MWFPV3dzLTRHeGRjeGh3LXdSekE0NGFfWXF6REpVSnB6SEMwbk91dHVPY3pzZUJOSWM4QWZkdkV3MjFGZGhRUTkzRi0yLUE4TEtsRHNNWjNoM0NlMGVveUlzdDdYMWpkUjdsbTBxZDRwU2pLUnFBajJJWVBINA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONDRCQzZoX0ZTRF9DX3NxTDc3MGJ0RWREU2tINUxMdVFYenZzclpTcC1IZ1hFaXNmUGVhN2cxNU9PYktHbWhhMFNTbkhKTXRsV19zb09wUHNvV0s3emJreUNiclVmdFJjdl9GSGVaS0xXMkpLNGRTeWcwclJSdEdGN0RoUEVvY3NwUDFNRkRieS1WaVpSYjVvaFdjeGdLUzBCRFJIb21nWTItd1pYNXJOMU44RjhJN0lDU2pPRkRUSUFLbnRrT3pWSVE1YTdITGFuNUFITEY0Rktzbkh4TUs3d3dwaEtsLUVJWGhybWlDTDV4VnJubGUxZDVMdmlUdmc?oc=5",
       "published": "2026-05-29T21:48:03+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "4ca7b6e9efc1",
-      "title": "Malattie rare, oncologia, pediatria. Aifa approva quattro medicinali, cinque estensioni e due equivalenti - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUdDdFhWVU5qWTNIeHBhSWdWVEtNVm9KazJPdXJVYWoyNXowZ0xhRUhHT0huV1NMOURwSkhiMjd6bWtVREh5b3dBa20xNk9ZN0p6akxfSEpZYmN4cEFkN2EycXY0aHB5a3E5ZUhvVXVsRm9pNnA0U3c4dkxhSEsxUllMVnFmR3pYQVlpRHVaVE16VjUyZlFTZmRXTWxtd2hRMFExaEhLZWtISWhuWlVTMGFKZF9ScndQRFYwSEVMemVwcGs?oc=5",
-      "published": "2026-05-30T03:50:55+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
       }
     },
     {
@@ -144,6 +134,16 @@
       }
     },
     {
+      "id": "4ca7b6e9efc1",
+      "title": "Malattie rare, oncologia, pediatria. Aifa approva quattro medicinali, cinque estensioni e due equivalenti - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUdDdFhWVU5qWTNIeHBhSWdWVEtNVm9KazJPdXJVYWoyNXowZ0xhRUhHT0huV1NMOURwSkhiMjd6bWtVREh5b3dBa20xNk9ZN0p6akxfSEpZYmN4cEFkN2EycXY0aHB5a3E5ZUhvVXVsRm9pNnA0U3c4dkxhSEsxUllMVnFmR3pYQVlpRHVaVE16VjUyZlFTZmRXTWxtd2hRMFExaEhLZWtISWhuWlVTMGFKZF9ScndQRFYwSEVMemVwcGs?oc=5",
+      "published": "2026-05-30T03:50:55+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
+      }
+    },
+    {
       "id": "20fe85bb2769",
       "title": "Pangea XVIII, dalla maxi operazione mondiale duro colpo ai traffici illeciti su farmaci e salute - RIFday",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanVfMGFZZ0RVZlZIbTJMVHNGWjhNR0dIQWR4ZXhBN093RG5zOHlISE1aMGlUNTdkTkdkYldtRG9BRWhYSnUwejlfX2dhSF8zemppS3BuTHJWdFNvVlJQLVNtbW9rbWVxM2o0bTBUQUdPRVJwUmRmc0hRRzhWdkRDamJJUHZXaUZBSkdqemlzY0czN09DZWFQTUZUT0V6djg2TE5DWnRUcmMxZEdnSVM5dHBYNV9US3J2VUg1bUdIZ1hQMzlPQzMwZA?oc=5",
@@ -164,13 +164,13 @@
       }
     },
     {
-      "id": "80a2af077cb9",
-      "title": "Diabete, pressione alta, malattie cardiovascolari, respiratorie e altre: perché i farmaci vanno presi bene - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONDJ6SXN1QklvZWZsbTRDS2pwZnRJR1FYRWtaRmZ6MFIwenYxN0c1aWxwVTZtUGctZUs5X2xzeDhOOWl0Y1BXZ2V0TkVTZVNBeTZ1dlJBNWxZTzBDLV9ZRFN3c1RzbURVTUZyYXhGUUFkb1E3aUxOZG84eEJ1eGlZc0Z1d0o1MWpNYW85aVcxNUFQaDJQUWxESnB5cUp2YkYwQ05adk1FS3dQRzA4bXEzSkNTVUlUTlYtN3FxM0hSNUlKWkRFLU9qbnU1SU9IZEZta05zV0E3VEVzY1I5M3A2S0RkM0lBQkdtbjRWRFBpSjZKdW9CZ2Z6YjFxeHpJbkF1NnpzOU9XdlpNSUJtVVJDam9mZGhFZTZw0gGeAkFVX3lxTFBoV2VzNmFWOTZreXRkQ2JaUkRWS2ExTnJreVk0amJYbFN5ZlJ6RHZuNmZkWGhZbm80R0RQVUJQSlZta3dOOTFrWkM5TUdfTUNfYlhUd2RuaklNZ2ZMVnJQMHZROGtrSDZRNUVjVU9NaTVVV0UyaVlHN1d3UlA5Yjl3cXlONDVHOWRwVXBLZGoxMXhXTVhJQVc0NjNZaWwtY3YxV0tXb3d0bkM3cUF2RW5QYWVRZ0VOUmtBRkRvXzMwOGl3VmlURG9nRzItbWIyN0htTU1yT2dUd1p3cHdmQW44Q0JVZGJUSFM1ZWljaVRTbmI1ZDNPLWp2YXBrMl9ZV3QxQVlPNXBCVGpEREVYRjVPeDhRT2dzTWJJc09jdlE?oc=5",
-      "published": "2026-05-26T09:07:00+00:00",
+      "id": "fe04a2f81b37",
+      "title": "I nuovi farmaci anti-diabete contro l'avanzare di tumori legati all'obesità - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORDc2VUF1dGhINFQwd3drV2RzQmNaVTJjbXU3YUhxaWFDQ1QtMDNhT1d0WXdURTdiUTF5dzh0WU5FNEgxdV81VG9EdUllMjRsdTBKa0JHNWp3MmhJYmtWYlJ6MnBOa0xPSXk4QlAwWGxhTXB0Yi11RFpFNUxrWTh5RENkUVJLbmJ3TTRSb3FBTF8wVWVHUm45M2ZvQW1IOEFTZkpPakEwR1NTLXRvMC1rclVjeVVqclZLOWVWcWpJM19VRGdjSmtRR3BINUxTT1lteVBRMDBmN3FlcGZVM3dsQlotNks2S3hJdXIxcjEtMnpPSmlfcEVIWXhwa1BzUDR6dERXcjJ4dm1QMFU4X2djaWcxSVIzQi13dWFB0gGgAkFVX3lxTE9oclh0bDFLUGNPR0RHeGVVcDBncmtMUmcycjhFRGxtUmJFMWtpaExyX19udTRfTURUaWRNLWR4am85NkhWd1JUckFyM240UkEwOXFPZjRMLTlXaWRfMnlTRGFIcGVpNFVEV1hoOGx1QXFYcUk3R19Ua0RuUVY4bUdJYlFFVzY0WWp1bjJlR0RsdTVxYm5ja0NwaXVlcnNkUXBGaVJwOENQOW5YM01nQmxCX01GQ1VmMzhSdklsLXJXMWhpdzdxZm5KaHh6WXJManY0Q01XQzBJSjltM0NaQXlYY0tZVmY4UDd3Y2szVllaOVIxU1Jad2RYZkF4YUdTd3ZWVzFFV29SSWtrcVk3VGNmRllqd3MwRUlVLXM4SjRsVw?oc=5",
+      "published": "2026-05-30T10:07:00+00:00",
       "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
       }
     },
     {
@@ -234,20 +234,20 @@
       }
     },
     {
-      "id": "fe04a2f81b37",
-      "title": "I nuovi farmaci anti-diabete contro l'avanzare di tumori legati all'obesità - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORDc2VUF1dGhINFQwd3drV2RzQmNaVTJjbXU3YUhxaWFDQ1QtMDNhT1d0WXdURTdiUTF5dzh0WU5FNEgxdV81VG9EdUllMjRsdTBKa0JHNWp3MmhJYmtWYlJ6MnBOa0xPSXk4QlAwWGxhTXB0Yi11RFpFNUxrWTh5RENkUVJLbmJ3TTRSb3FBTF8wVWVHUm45M2ZvQW1IOEFTZkpPakEwR1NTLXRvMC1rclVjeVVqclZLOWVWcWpJM19VRGdjSmtRR3BINUxTT1lteVBRMDBmN3FlcGZVM3dsQlotNks2S3hJdXIxcjEtMnpPSmlfcEVIWXhwa1BzUDR6dERXcjJ4dm1QMFU4X2djaWcxSVIzQi13dWFB0gGgAkFVX3lxTE9oclh0bDFLUGNPR0RHeGVVcDBncmtMUmcycjhFRGxtUmJFMWtpaExyX19udTRfTURUaWRNLWR4am85NkhWd1JUckFyM240UkEwOXFPZjRMLTlXaWRfMnlTRGFIcGVpNFVEV1hoOGx1QXFYcUk3R19Ua0RuUVY4bUdJYlFFVzY0WWp1bjJlR0RsdTVxYm5ja0NwaXVlcnNkUXBGaVJwOENQOW5YM01nQmxCX01GQ1VmMzhSdklsLXJXMWhpdzdxZm5KaHh6WXJManY0Q01XQzBJSjltM0NaQXlYY0tZVmY4UDd3Y2szVllaOVIxU1Jad2RYZkF4YUdTd3ZWVzFFV29SSWtrcVk3VGNmRllqd3MwRUlVLXM4SjRsVw?oc=5",
-      "published": "2026-05-30T10:07:00+00:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
-      }
-    },
-    {
       "id": "a7761777a100",
       "title": "Salute: Ottaviano (Università di Padova) \"poliposi nasale, con farmaci biologici migliore controllo della malattia\" - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYVNMVFB6c24wTUhCZnBBUjZ4c0NXd2EzbWs1elpTeWxlUnR0TWxiVlFQaVZYUndhNGlKVkFIQTVaWXk4YXZWeW1lWFU5a3llOWl3X0NsTnJvbjR4S1FvUXo1dXpNVTJqNWFpUlRfLTMycng1VWxLWjdZQlJrRW5HczZ2NXJMbmg1QU9PMUZYQlBHMVRYZ1VOb0M2ZVFwSzlNaVZMZlA0MGVfa0tFc3ZVekJmak5nOFRxSWhrazNxdWp2MllrUndFczZpM0d5WlNiQWFxWlpFUG1ha1VGZWlHQmRnLUplYXZkdnVaWmphMzVfalNYV1RWQg?oc=5",
       "published": "2026-05-28T14:22:19+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "82356cab4ce1",
+      "title": "Ebola, la prima guarigione. Vaccino e farmaco contro virus, c'è una data - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5",
+      "published": "2026-05-29T22:04:00+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
@@ -274,23 +274,13 @@
       }
     },
     {
-      "id": "82356cab4ce1",
-      "title": "Ebola, la prima guarigione. Vaccino e farmaco contro virus, c'è una data - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5",
-      "published": "2026-05-29T22:04:00+00:00",
+      "id": "26e7c67d67a3",
+      "title": "Dopo i tumori, gli anticorpi monoclonali puntano ai batteri killer resistenti ai farmaci - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT25BdW1iaHRBRnpsWmtqVjlRX0x2bnpEdlNERFAzZUgxcTZvQ1lOUHM0WTFBYzZaaW4xTXF5ZHJFWXlnZWVCSEd2TzZ2RUpDNnVBNkZKckhMUS1UVDFxdEt2eS1USzA2NmpkVk1kSXlBN2dUbmZFWGxjMzQ2bE5fQmhPRml3dXM3bTZIeW5ta0hCME5WSjA1Qkh2TDZfRmpIM2E3T2FRX3ZSU3pUaE5aenpPemNvWVVjR1FjdklrNTFWTGdQ?oc=5",
+      "published": "2026-05-28T12:20:00+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "1a623d1fc85d",
-      "title": "Farmaci emoderivati. Verrà triplicata l’offerta sul mercato - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZG5neDhVck9rM2g1eDJacG9UUmtaZnhUX0xzV3FNVU4zS01LV3QzckdrU0hyX1d1cXpSa0dFWHRlOVRSYjE2TEx4MGJLWVVHWGw2MnVPNlA3c05xTTFJRElKekliY3daNnQxUE4wVmZwWUdoU0RPbXlNeGRqZXZoVmVXb2QzenhkVC1OUmNVc0E4X2RGT25VMQ?oc=5",
-      "published": "2026-05-30T04:39:25+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -304,16 +294,6 @@
       }
     },
     {
-      "id": "26e7c67d67a3",
-      "title": "Dopo i tumori, gli anticorpi monoclonali puntano ai batteri killer resistenti ai farmaci - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT25BdW1iaHRBRnpsWmtqVjlRX0x2bnpEdlNERFAzZUgxcTZvQ1lOUHM0WTFBYzZaaW4xTXF5ZHJFWXlnZWVCSEd2TzZ2RUpDNnVBNkZKckhMUS1UVDFxdEt2eS1USzA2NmpkVk1kSXlBN2dUbmZFWGxjMzQ2bE5fQmhPRml3dXM3bTZIeW5ta0hCME5WSjA1Qkh2TDZfRmpIM2E3T2FRX3ZSU3pUaE5aenpPemNvWVVjR1FjdklrNTFWTGdQ?oc=5",
-      "published": "2026-05-28T12:20:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
-      }
-    },
-    {
       "id": "7aa62ee2eda1",
       "title": "Farmaci equivalenti, 30 anni tra accesso alle cure e sostenibilità del Ssn - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHNXN3Q0bXRySFktS3l3UjVTRnFNem9yS2lqcWRpTlBseTgyaEZ6blRsWEZQTWhwSDRCaDBBUl80U215cWRobk92clBKaEZRSmNudHNEdWZlM2Z0UzFlWEJaQnhaSnVtM1J4TnlRajE2d3ZpX3VsVjFobnluWGhTN3c5WG5UOWJtZlJXVUJaS2lOcHRocGFYQlNzVlQ5NVRyTTRvejdnSHlnUW9pblg3Y1Q0bFpSOUF5aEl0Mm1tbS1aUTRfQlB2STd6RFE?oc=5",
@@ -324,13 +304,13 @@
       }
     },
     {
-      "id": "ee23ee703af0",
-      "title": "Grazie al Decreto-legge rafforzato il ruolo della farmacia di servizi: più spazio a prevenzione e somministrazione dei vaccini. Un convegno a Torino - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSl9FZVI0OVYtdGtoam5NY1lHNEh3YWdjS19xVWlfQTNiZ1dQYmQxc0V6S3dKQ3A0d01PaVNxQVpjWllqWHlUZm9JUEhiZ0lUeXFLS0xqNWtLODFLVWh1UUl0U3BMMHdtQXdWVS1wZGlwYmQ5ekgtQnEwbjNiV0dOLXowYjFseW5HRXB0aHZzcF9EenU2eUtSUVNMRkFBeEdvSEFaaDRDSHVzU2VvNVZ4MVhRQmFWYS0tOXNXZVo0SlhNTV9EQ0hpMGNZa291LWdLRnctc2pNOTBVam1BejhlbWktaTJrb2NKQTZWVGFnTGM2RVVjUTl5WmFBYVBfNzg?oc=5",
-      "published": "2026-05-29T12:33:55+00:00",
+      "id": "1a623d1fc85d",
+      "title": "Farmaci emoderivati. Verrà triplicata l’offerta sul mercato - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZG5neDhVck9rM2g1eDJacG9UUmtaZnhUX0xzV3FNVU4zS01LV3QzckdrU0hyX1d1cXpSa0dFWHRlOVRSYjE2TEx4MGJLWVVHWGw2MnVPNlA3c05xTTFJRElKekliY3daNnQxUE4wVmZwWUdoU0RPbXlNeGRqZXZoVmVXb2QzenhkVC1OUmNVc0E4X2RGT25VMQ?oc=5",
+      "published": "2026-05-30T04:39:25+00:00",
       "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -384,13 +364,13 @@
       }
     },
     {
-      "id": "dd2d690478c8",
-      "title": "Diabete e obesità, Buzzetti (Sid): \"Nuovi farmaci efficaci ma cresce uso improprio\" - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDN0Q3dBY2tXODljNFNtUHNhRjk3VkhaQ2ppQTJ0LTkxUjdGTm5uSXNWTV9TSmVnRXRRdm5vWkJFNFBqUTV4WncxekloVUc3bWRGa2t5SkFEMnZFOW9OSG1YVTFJTTJRSEZ3RHh0UjFfak1OWk1HMDkxTUFUZFRGQU94Rmd5MEhhbWdweUFOSm1BcXVmN0hIZTZKaGtybzBSUzFjcXRSbktuMWt2OHB2cGtxQmlQV0RLYXpNdzRZZWkzUTBZUW9nTUJTMzJRTHc?oc=5",
-      "published": "2026-05-29T12:41:00+00:00",
+      "id": "ee23ee703af0",
+      "title": "Grazie al Decreto-legge rafforzato il ruolo della farmacia di servizi: più spazio a prevenzione e somministrazione dei vaccini. Un convegno a Torino - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSl9FZVI0OVYtdGtoam5NY1lHNEh3YWdjS19xVWlfQTNiZ1dQYmQxc0V6S3dKQ3A0d01PaVNxQVpjWllqWHlUZm9JUEhiZ0lUeXFLS0xqNWtLODFLVWh1UUl0U3BMMHdtQXdWVS1wZGlwYmQ5ekgtQnEwbjNiV0dOLXowYjFseW5HRXB0aHZzcF9EenU2eUtSUVNMRkFBeEdvSEFaaDRDSHVzU2VvNVZ4MVhRQmFWYS0tOXNXZVo0SlhNTV9EQ0hpMGNZa291LWdLRnctc2pNOTBVam1BejhlbWktaTJrb2NKQTZWVGFnTGM2RVVjUTl5WmFBYVBfNzg?oc=5",
+      "published": "2026-05-29T12:33:55+00:00",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
       }
     },
     {
@@ -401,6 +381,16 @@
       "source": {
         "name": "FarmaciaVirtuale.it",
         "url": "https://farmaciavirtuale.it"
+      }
+    },
+    {
+      "id": "174c3341d4e5",
+      "title": "Hantavirus: farmaco sperimentale a Francia, Spagna e Olanda. Di che si tratta - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjBRRUNtUUJWR1NIdExlSUpTT29VMVBMRzFaSXdMNUhjQUl3bHl3WUZzMEFlZ0ZzRG1SUFZPeW1NdnlZbUVibnpsdHIzLTFJdURsemtfVWFQVERXc2djRm81YVNid3dDRjM3Z09aNnAzT1RIQS1JeUxYVnZkMExHZkdYeVJZVWNvWXZuVEZhbEdZSU1RNkVxN0ppUzdmb1VTaHRfMHJCQ2hKSTh1RkxkZDNRUUZ3emdhTkRjNU1JWC1wVzQ?oc=5",
+      "published": "2026-05-29T10:03:34+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -474,6 +464,16 @@
       }
     },
     {
+      "id": "dd2d690478c8",
+      "title": "Diabete e obesità, Buzzetti (Sid): \"Nuovi farmaci efficaci ma cresce uso improprio\" - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDN0Q3dBY2tXODljNFNtUHNhRjk3VkhaQ2ppQTJ0LTkxUjdGTm5uSXNWTV9TSmVnRXRRdm5vWkJFNFBqUTV4WncxekloVUc3bWRGa2t5SkFEMnZFOW9OSG1YVTFJTTJRSEZ3RHh0UjFfak1OWk1HMDkxTUFUZFRGQU94Rmd5MEhhbWdweUFOSm1BcXVmN0hIZTZKaGtybzBSUzFjcXRSbktuMWt2OHB2cGtxQmlQV0RLYXpNdzRZZWkzUTBZUW9nTUJTMzJRTHc?oc=5",
+      "published": "2026-05-29T12:41:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
       "id": "a5a390137dc3",
       "title": "Farmaci, 30 anni di equivalenti per un accesso equo alle cure e la resilienza del Ssn - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmhQTDZhYVNyaENfeEd2aGZ4VVlweHpZRFpRU2lHX194MTdxYll3RFdUbzhScDFNVTRZOE5pMDU2ZkF3d2NBSWNMSFdiZlV1Q21vWXZkUlpfQnc0MWc5azRGVU5fT0N3Z2FnRThhN3lDYkdWWm1VWGFEMXF6RUgtRHBPc0FUekE4MFpTcHpHSVZLeHk5N1hGZXBRd0RDNmlxcHJkNHd1Z2NnNDZlb0dYSmpReHg5aHhrdW9hLUxBbktMTzlYRHN6c0NWRkN0V1M1TkMxWHYtOA?oc=5",
@@ -481,16 +481,6 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "985a37387cfd",
-      "title": "Farmaci: anti-raffreddore inefficaci dopo bando ingrediente usato per 'sballo' - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWZ4TGIxVFYyYlFIMENUYmVaN1p1NEk2X1BRTnpleVhtRzhuWUNITDJXX0RPOVJqX1dZekVLVmN6cExmT0FPVmljSS16MG5hM2JKb1kxeFlDMWZoWklzcVVTa1NzRW83Ql9rX0tnTXlmSExjT2s3ZDM5UGVxbFRac1B4UHJOUzBqRUFJdDg3cXRyTEEtNVJYZWxJNWlxUURXd2x1RUIyT2drSVkyQ1hjbg?oc=5",
-      "published": "2026-05-24T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     },
     {
@@ -511,6 +501,16 @@
       "source": {
         "name": "Touchpoint News",
         "url": "https://www.touchpoint.news"
+      }
+    },
+    {
+      "id": "985a37387cfd",
+      "title": "Farmaci: anti-raffreddore inefficaci dopo bando ingrediente usato per 'sballo' - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWZ4TGIxVFYyYlFIMENUYmVaN1p1NEk2X1BRTnpleVhtRzhuWUNITDJXX0RPOVJqX1dZekVLVmN6cExmT0FPVmljSS16MG5hM2JKb1kxeFlDMWZoWklzcVVTa1NzRW83Ql9rX0tnTXlmSExjT2s3ZDM5UGVxbFRac1B4UHJOUzBqRUFJdDg3cXRyTEEtNVJYZWxJNWlxUURXd2x1RUIyT2drSVkyQ1hjbg?oc=5",
+      "published": "2026-05-24T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -554,16 +554,6 @@
       }
     },
     {
-      "id": "7ebcd1881763",
-      "title": "Neoplasie ematologiche, all’Ematologia di Busto Arsizio due sperimentazioni con farmaci “intelligenti” - SaronnoNews",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblNid3dXYnJ0YzdsUi1DWjI3NzdoaEg0b0lrVVp5NTdna21ZeDl6MW11bWJEQjJ2R2M3ZXZ0T011S1E2UWFFVEVzYzN0TEFfU3ZMQmNZaGV6clZYOTJxXzIzNTZxZTdta1Q2T2trdm1XaGpRTm1FRjE2TjFrb29zUkVMdXI5TkVxcENuMDFQMVFJRVJSNkptSFBKME54RzBJSzgydXl6YzdveWxvVEZDc2Vld3Y4eWRuaU9Zamx0Wmd2ckJaNFlPRC00X0sxY3ZrejRZ?oc=5",
-      "published": "2026-05-29T16:00:07+00:00",
-      "source": {
-        "name": "SaronnoNews",
-        "url": "https://www.saronnonews.it"
-      }
-    },
-    {
       "id": "43b9c851a8aa",
       "title": "Obesità, non basta misurare calorie e Bmi: nuovi criteri nutrizionali e farmacologici - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTThFZHFOSW9HSnhqU0VyYWRhZDJJQnZGel83YkFoS0dOVEE0dlo2dkI1MFBHSURTWlhIemlwX24tb01vMnNYOW5pSDUzZ0hKdWJjSDlJQVJVeHJyeDZHcnFDVnRWVWpIZ1ZZT2gtVXNYUU0tYzJZY0FsVWRoMU5GMnhHVXpDaVc5N2ljOG5lMjNYUGxLWjU4NGE2T1dJd2tpcWtVb2o4ZmliaUlGYUlMVUhfb1VqTFRMZUtYRnZkZXJWdWF0LTFUcTU5TzRsY0J1VklQaC1hWklfU0luQVRtYUxB?oc=5",
@@ -594,26 +584,6 @@
       }
     },
     {
-      "id": "1bba9582bd06",
-      "title": "Ebola, Oms accelera su farmaci e vaccini ma è rebus sui tempi - HealthDesk",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXI3NEIyVkFSWkdIT1pJODdhZkxnbnRNWXUyLXdnNWhVbTRKYUpFN193eFdnd3pqOHBxM2RGNWQ2SmZ4SHVHLUkwbHNIc0VIZTY5Yy1PR2xMRV9zZFFBcnUzdTJBV1BFZkJrMWhrQ0otMEhqOWpaZFJFV1JkYnItS285a0ZodFY5?oc=5",
-      "published": "2026-05-29T13:56:02+00:00",
-      "source": {
-        "name": "HealthDesk",
-        "url": "https://www.healthdesk.it"
-      }
-    },
-    {
-      "id": "9cd64e303ed2",
-      "title": "Un medicinale gratuito per smettere di fumare - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajdkLTduUmRyZi1DQ2hqbUktZHVHWnVXTVNvZEh4dVlJN2gzWTN1Vkd3QWpocGJwM3ZWNkJRMFd6bnBWdEVBcU5NeG9hM3NtOHk3aVdFMFNuVXFBSVZwbGdiS2lqZDVQbTBfUjJhQVF2dS1Oc2kwYXIxM0Q1YUpzM3ZaQ2d2aUROZk1J?oc=5",
-      "published": "2026-05-30T04:37:44+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "7cc8c6de58b6",
       "title": "Smettere di fumare costa meno (e funziona): la citisina protagonista della lotta al tabagismo - La Piazza Web",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUtwa2w1RnFvbUtSMHVpVXNJelU3YmVYOUxKMmktcklNWlAxTU81MEN0Vl9lSGVnS0E5eGtuWmd6MUE4NUFCaFdBOXRwbUxYcFBQNTVkZ0pNcjhXMXpncEc4ZFFnS3I1dzN2U245SE03T0N6eDdaR3h2cXg3dzdWczZuMGRSZnBKODREV3hfcG1QU1Q4blpPM3hhQTM1UEtQY0VxNDhqVlNHckJHVjhOV2xrSUhYeTJ6S0I2VnlrdFBOSlFEaHlRR3lYM2hqc2lLSzJmQnhJWjdXUVpyaExfbWpsQQ?oc=5",
@@ -634,13 +604,33 @@
       }
     },
     {
-      "id": "60ed51976f29",
-      "title": "Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa - Fanpage",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5",
-      "published": "2026-05-29T13:54:59+00:00",
+      "id": "7ebcd1881763",
+      "title": "Neoplasie ematologiche, all’Ematologia di Busto Arsizio due sperimentazioni con farmaci “intelligenti” - SaronnoNews",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblNid3dXYnJ0YzdsUi1DWjI3NzdoaEg0b0lrVVp5NTdna21ZeDl6MW11bWJEQjJ2R2M3ZXZ0T011S1E2UWFFVEVzYzN0TEFfU3ZMQmNZaGV6clZYOTJxXzIzNTZxZTdta1Q2T2trdm1XaGpRTm1FRjE2TjFrb29zUkVMdXI5TkVxcENuMDFQMVFJRVJSNkptSFBKME54RzBJSzgydXl6YzdveWxvVEZDc2Vld3Y4eWRuaU9Zamx0Wmd2ckJaNFlPRC00X0sxY3ZrejRZ?oc=5",
+      "published": "2026-05-29T16:00:07+00:00",
       "source": {
-        "name": "Fanpage",
-        "url": "https://www.fanpage.it"
+        "name": "SaronnoNews",
+        "url": "https://www.saronnonews.it"
+      }
+    },
+    {
+      "id": "9cd64e303ed2",
+      "title": "Un medicinale gratuito per smettere di fumare - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajdkLTduUmRyZi1DQ2hqbUktZHVHWnVXTVNvZEh4dVlJN2gzWTN1Vkd3QWpocGJwM3ZWNkJRMFd6bnBWdEVBcU5NeG9hM3NtOHk3aVdFMFNuVXFBSVZwbGdiS2lqZDVQbTBfUjJhQVF2dS1Oc2kwYXIxM0Q1YUpzM3ZaQ2d2aUROZk1J?oc=5",
+      "published": "2026-05-30T04:37:44+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
+      }
+    },
+    {
+      "id": "40a5d10d42e8",
+      "title": "Per il malato oncologico il movimento fa parte della cura e della guarigione - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZklOdTdlMGt6NU1WLTJCaVlMNW1MZWRzVmlTNGkzT2g4U2I1VEJFcndtSkl1NnVZd3RUR2g0amVueHpSR1NIM09uUjBrbXFrb3JRaXlEaEYzU0JVQnh2Y3E0UWNVS2tXaTd1VnJmdzIxQjllTU9GUC1zU2puQVktdg?oc=5",
+      "published": "2026-05-30T04:44:44+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -674,6 +664,16 @@
       }
     },
     {
+      "id": "1bba9582bd06",
+      "title": "Ebola, Oms accelera su farmaci e vaccini ma è rebus sui tempi - HealthDesk",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXI3NEIyVkFSWkdIT1pJODdhZkxnbnRNWXUyLXdnNWhVbTRKYUpFN193eFdnd3pqOHBxM2RGNWQ2SmZ4SHVHLUkwbHNIc0VIZTY5Yy1PR2xMRV9zZFFBcnUzdTJBV1BFZkJrMWhrQ0otMEhqOWpaZFJFV1JkYnItS285a0ZodFY5?oc=5",
+      "published": "2026-05-29T13:56:02+00:00",
+      "source": {
+        "name": "HealthDesk",
+        "url": "https://www.healthdesk.it"
+      }
+    },
+    {
       "id": "3525e2a97adb",
       "title": "Farmaci: equivalenti, Lorenzin (Pd) ‘restare competitivi con prezzi accessibili’ - Startupbusiness.it",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ19JeUQ4VGhSN2RpdFFUdjYwZlc0VGlfdzFVSmV0RllyQ0Q3T3RZRFdCaF9pdUJuQnlLTDNZaFNKRzVJVC1RbW56RXVDazZ4OGluWEE3bWNPRmR4VGNHMEpiX2dnUzFUMk5CRFhIbWt0ZDQ3eDlEcjF5OVlaWHRQWmNveGFrOWxCWDJkZW9xdERmdzRITWJ1Z29pc3dUY0R3TzhtUWkwNHBzaU1OeG9hM2xDQQ?oc=5",
@@ -704,13 +704,23 @@
       }
     },
     {
-      "id": "356470f737c1",
-      "title": "Ma quindi l'hantavirus? È iniziata la distribuzione di farmaci sperimentali - today.it",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRDYwcFhoX0dQS2dQbjRIZEJldF9MRkFZU0FfS0Rrb3FtcVRJaWpSQ1UwOHVOVjJxamQwa1JYaFoyUFVCaDBhb2l4bUZKRTk1VHVJM1VkN25iUzdRXzA3aHY5TEY1bGFzM29LMVdfaENFUnVEbVJ0WV9R0gF6QVVfeXFMTzB3Z25XRjhiSy1Pd1RCRFVUY0dBbTZfQURZNFQwSFVQSUJHR05mNTBsaXhIR0c2ay1nVDgtM19jd0FwcndWUkFGUUFyeXdVRVJGeTNvWG0tYl92RUU2VlB6RE4zUFpfaEo5M0VwS0lENkpTQmU5M044M3c?oc=5",
-      "published": "2026-05-28T12:12:47+00:00",
+      "id": "48fb6850bdd1",
+      "title": "Paracetamolo della discordia - Esquire",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVZvaVlPT1hHWUJmaHV4dl9ad1VHa2tZY3hCZnp6V195QWFidlo5QXp2cHdURms4eGdwTWE0MkhJczYwVXJvUTlBbEsyMmpHeWxPd0ZKU3E3MUJGY1NINVNJYXdrNWViaTNWYWlwN1Z4MndVWWJuZW5kR0dxbDc1VVdmMjVVaXZERF9tLTdlSDFSY21iYW5Jdm1JZC0tU3R5U1ptWVh0Mm83LUhHbS1DVGowUF9hV2lueF9PUVZzREJwTzA?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
       "source": {
-        "name": "today.it",
-        "url": "https://www.today.it"
+        "name": "Esquire",
+        "url": "https://www.esquire.com"
+      }
+    },
+    {
+      "id": "60ed51976f29",
+      "title": "Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5",
+      "published": "2026-05-29T13:54:59+00:00",
+      "source": {
+        "name": "Fanpage",
+        "url": "https://www.fanpage.it"
       }
     },
     {
@@ -831,16 +841,6 @@
       "source": {
         "name": "insalutenews.it",
         "url": "https://www.insalutenews.it"
-      }
-    },
-    {
-      "id": "566c97312e9c",
-      "title": "Semaglutide e Tirzepatide: lo studio 2026 che collega i farmaci anti-obesità alla riduzione del rischio di tumori - Non Solo Contro",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlVPRUdjYlBSU19Pdnp4Rmt3RG8tZ1hBT0FEQ2lsamx2MGxrT3pPZzUtcHJFSFRXZ1VYZ21kWktpamJyZXV4VHlGdVlQdTI2dkN2eThUNlUwY280cFR3MjgyVkV6d1Q3bVJmeFpCNDJhNlMwZVJYTVdGbzZHWEU4Nlo5U205VkxlQVRPR0ZFOHp0ek81M1NKUW5DZk1KZEw0Vm1EWnFXYzU2RXBILVVLOXBndjE0TkEySWlGenZBUlRhQlJVUDY5TERWZ0VUdTJQLXA1cHdhUk04WnBwc25iSnFpUE4zMXlUejItbFJIZUZiNE52d1E?oc=5",
-      "published": "2026-05-28T06:18:51+00:00",
-      "source": {
-        "name": "Non Solo Contro",
-        "url": "https://nonsolocontro.it"
       }
     },
     {
@@ -974,6 +974,16 @@
       }
     },
     {
+      "id": "43f96e9aff14",
+      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "source": {
+        "name": "Panorama della Sanità",
+        "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
       "id": "781d61beb798",
       "title": "Persona qualificata di un sito di fabbricazione di medicinali veterinari - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0JwbmpDVW95LVF6RHRJaWp0a0RoUUFwS3h3SlFfUVZCYnViVDZxSGw2VklpalBieUl5b1RtTUV0RTFoR2FKdTItSUlRNXBfc3dFdXE4ejF2V0o3eFJ2SUM2WU5GQU92U0lDaTRBNTNES3p6M2NUZ2k3U2FLNnRWa1c5alZuRGVpZ3BwaERNT1VPRDFSNVJ2TGEtcHBEd2huR29IUEFCQnVXYTd4YWlJNXpUMnZZVHYtZUhfZ0RUbU5Ea00?oc=5",
@@ -988,16 +998,6 @@
       "title": "Crisi sanitaria globale: guerra, farmaci e energia minacciano la salute mondiale - Panorama della Sanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjBvZnBuU3N1Zjlrd290aW4zczVpVkFIMXBwNGNyaDdKWWo3ZFNWelZkVFIya084QUZPUGVDV2V3YzdJVFowYnNUaDFHRExVeTFHUkxhcXN3Ukh1S1NfY0VkUDgxWlRoRzdzeld4T1JxLTJJOVNzcE9ZX1NITVV1c25Bb3h2eVppU3lSNDg4bE9nZGxkUkIwU2hMUEVNa28tNnZLZDJRY3VUYU5qNkJVcDFMZjNTZw?oc=5",
       "published": "2026-03-23T07:00:00+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
-      }
-    },
-    {
-      "id": "43f96e9aff14",
-      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
       "source": {
         "name": "Panorama della Sanità",
         "url": "https://panoramadellasanita.it"
