@@ -1,6 +1,6 @@
 {
-  "total": 508,
-  "generated_at": "2026-06-04T03:38:06.360653",
+  "total": 539,
+  "generated_at": "2026-06-04T14:50:54.760741",
   "drugs": [
     {
       "name": "Abaloparatide",
@@ -3430,6 +3430,223 @@
       "file": "pitolisant.md",
       "evidence_level": "L5",
       "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Prasugrel",
+      "file": "prasugrel.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Prednisone",
+      "file": "prednisone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Pregabalin",
+      "file": "pregabalin.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Primidone",
+      "file": "primidone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Progesterone",
+      "file": "progesterone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Propafenone",
+      "file": "propafenone.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Quinapril",
+      "file": "quinapril.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Raloxifene",
+      "file": "raloxifene.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ramipril",
+      "file": "ramipril.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Regorafenib",
+      "file": "regorafenib.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rimegepant",
+      "file": "rimegepant.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Risperidone",
+      "file": "risperidone.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rivaroxaban",
+      "file": "rivaroxaban.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rizatriptan",
+      "file": "rizatriptan.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Roxadustat",
+      "file": "roxadustat.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rufinamide",
+      "file": "rufinamide.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ruxolitinib",
+      "file": "ruxolitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Safinamide",
+      "file": "safinamide.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Simoctocog Alfa",
+      "file": "simoctocog_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Siponimod",
+      "file": "siponimod.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Sirolimus",
+      "file": "sirolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Sumatriptan",
+      "file": "sumatriptan.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tacrolimus",
+      "file": "tacrolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tadalafil",
+      "file": "tadalafil.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Telmisartan",
+      "file": "telmisartan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Temozolomide",
+      "file": "temozolomide.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tenofovir Alafenamide",
+      "file": "tenofovir_alafenamide.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tenoxicam",
+      "file": "tenoxicam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Teriflunomide",
+      "file": "teriflunomide.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Teriparatide",
+      "file": "teriparatide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tiapride",
+      "file": "tiapride.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
       "predicted_indication": ""
     },
     {
