@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T20:58:44.346547+00:00",
+  "fetched_at": "2026-06-14T22:08:43.935803+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "507787c80e98",
-      "title": "«L'integratore che accelera la progressione dell'Alzheimer»: l'avvertimento degli esperti sui farmaci da banco - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXRmU2hLOGNqN3lGZkZ6eU1IalpDendVZng1dlVjSnlhSjJGTVl6SlZwaHZPRlF0M2hGVndyTWV1R2haNnZXTld5cjhGU25FekZubjR2REM0NWJmNlpXUG9JN2xnWlJ4YlVwVW96RXNtazl0MmF5Y21rdEdpeU9aN2J2elpfemZrY1dqc09lUlhLRTA2R29VOERQYkUyYnd6d2ltT9IBnwFBVV95cUxQOWRoaUdJSDcwbjhVLTRCMUEzS1UzMThkX3ZGMElVWDlJRXYxeDVoVTlwcjRxc3F2S3NWTVBadnJrQk1KTFNUVmVfOVpYV2Qxb0d6VC03RjRXdHpyYTNRZUtuX0xTR2JxcDhleTVQMTNzUC0wWWRsT3pUZ21RU1lvOFRxcy1xUjRwSU4zT1hoT0xuTnBRdGRKbi1pc09RN0E?oc=5",
-      "published": "2026-06-13T07:00:00+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "2ed94cb118f0",
       "title": "Ricette per la prescrizione dei medicinali nella terapia del dolore - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQklvT1lIa2IxM0lpS1BNVDdVNTZWTFBmaW05dUYxSXp5RHR2eGRBczR2eVFHcjRqWVBNQ3NFUlRvX25FOXRUZ0dtY19uYl9HUTFKX0U5Q2pMbFdVNklsLWhVM1dGWWM4cWo3djJwSHdpblFiQTlqRTBPcll3cVpybEVvNmQ1VFVzTjM1NElxdUFPNjA0YlBnUHk2NjJUUVRGSURxRW01MDMwNFZiNlJZaDZ3MHRnRHZCMFBJYmo0Q1NqemxEb2lPUw?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "d45172fb387d",
+      "title": "Avvelenamento nei bambini: l'errore frequente che rischia di peggiorare tutto - My Personal Trainer",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOHd6dVJHSW9hRE5SMk1RLUo2NUdGRG1OZGdwUUF1MWVNWlNjRGx3ZGZBTFc1ZzR1eC1JbDMyVWswNzRRbVI2SGU0OF9NSzdkUzN5THBmenB6Q25pZS13VUFweGZKQktfZGxBQU5tOEZIZTVDTG9md1RLU2Nic09tMnh0YjhfZUhxN1JJelFhR0dVNWh1X2Rpc3Jrc3RtLVU3dmtjT2wtR2lTMmt2b2kwMEY1VWtGbFctR0JNSC1UUjdGUGtQZnV3NHV6cktjaEtkMU9PUWRzUkducGo4Tkd6Sw?oc=5",
+      "published": "2026-06-14T20:53:00+00:00",
+      "source": {
+        "name": "My Personal Trainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -154,6 +154,16 @@
       }
     },
     {
+      "id": "ca783dc56c60",
+      "title": "Alzheimer precoce, trattate le prime due pazienti con il farmaco anti-amiloide - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkxwT2F4WThKeEFCZDlWX2tXdmc0dlpDX1o3eENJYmRiU2FqS0w1dFlXRkRIUTRqdGRkS2JydHR6V2otNERGNFNDb0tNY21rdEdZdUl4NWR1eHhXSm5OQUp4M0tEZFhIV01haUN3QkIxV2t1alJiYktXQ0lGeXlDTXpXS0IwbWZvLTFYZVFmUEdVVmRoalU0ZnhzTVo0SVlPZXNUeGgyeHc0Sl85WkpHa25qbkp5elE?oc=5",
+      "published": "2026-06-11T10:20:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
+      }
+    },
+    {
       "id": "efa14b9f0364",
       "title": "Antibiotico resistenza: è anche colpa della crisi climatica - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnJMV1A4WDhkT253Y2h6NDdLSlVKTV9iS2xPZktHZWNIX2QxcVVscndhcVZLdHltRGRnSWJKdDhuTjFfOUlsYmc0Y2IycDJyZ2doM1NORlM4N01WS2g2ZVN4UjFJY1ZfVnRkaTNvVC1JUUR3eFdJekd5MVdFYnljaGlWa1kyV3N2OEZydXpyVThEQURCQkRaU3hFZ0lvZnI3cjVxbUoxeVRXWFFyeG4zakVUN1pUeVpPYmF3MmtRRUNDVUVyUzR1UDdn0gHPAUFVX3lxTE5oSi14OWdPeWk5b1VtX21BTDJkLTEwVjI1TVNLZ2tkVWtwMTlwS2N2Y0pBRmxxSHVhV2llMFIwdnlnWVVONkNaVFlDZnRjY2tkVnI1LTdBZkd3OWZJazZ0NklJSEUxV2tLMjJqMDVYUWJEbEZKTndIOUNHTzc0QmNqTUtYdXdkajI1SFBJZjhFZlRrS3FlS2ZNLVE3ZW9Vdng4VDdmNmFqaDltcWRUa0JiRDZQdlZzbFhkM1F5YlNjRUUzQUJhY0UwUzZNQjNZSQ?oc=5",
@@ -184,16 +194,6 @@
       }
     },
     {
-      "id": "422fe17620a5",
-      "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
-      "published": "2026-04-17T21:26:04+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "0ba5a59b5b0f",
       "title": "Farmaci LASA e sicurezza dei pazienti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0ZiXzJRSllESHRvRmQtM1h2YWJoTTZXNEF5LXJBWDB2YUNZUW9tWHUzazdrOVZBUEpxbjB0a0JBcnJoM0VSYWRyTDNoLXB0b1BHTG9veHA0VTgxS09NNGRHYzFzVkVOdUwtNUVCWlRBU2k5eFU4aHI1c2VnemJHREgya0loVVNGNmIxMEt5aW1pVlNqRW5Wa2lnVlFkd2hOTzRkRVd6OGFHcXVsSG41YmItYnk?oc=5",
@@ -211,6 +211,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "422fe17620a5",
+      "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
+      "published": "2026-04-17T21:26:04+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -304,16 +314,6 @@
       }
     },
     {
-      "id": "53056b2ba1a3",
-      "title": "Malattia renale cronica, oltre l’innovazione serve una riorganizzazione del sistema - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nZnFDSlFpaFZXMzRHMmRsZjdnenI5RHJ0VjFzNmZWaEFxcVE1VVpsVkdQdTFDUGpPWlRnTVp0cXRiMFJ5Y2FyRUNQRFgydHFfVUQ0MlhpU0ZsZzd5UUpLOU5YWG5QYlBfRm1HeTRvaEVuWjIwOXc?oc=5",
-      "published": "2026-06-11T04:00:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
-      }
-    },
-    {
       "id": "dd4630529884",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -321,6 +321,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "53056b2ba1a3",
+      "title": "Malattia renale cronica, oltre l’innovazione serve una riorganizzazione del sistema - TrendSanità",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nZnFDSlFpaFZXMzRHMmRsZjdnenI5RHJ0VjFzNmZWaEFxcVE1VVpsVkdQdTFDUGpPWlRnTVp0cXRiMFJ5Y2FyRUNQRFgydHFfVUQ0MlhpU0ZsZzd5UUpLOU5YWG5QYlBfRm1HeTRvaEVuWjIwOXc?oc=5",
+      "published": "2026-06-11T04:00:00+00:00",
+      "source": {
+        "name": "TrendSanità",
+        "url": "https://trendsanita.it"
       }
     },
     {
@@ -384,16 +394,6 @@
       }
     },
     {
-      "id": "dc788544c364",
-      "title": "Pfas sostituibili in farmaci: studio trova alternative in 97 di 111 casi - ischitellagargano.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzZlZGpvTlBQMDZmMFlaa3RSMGtSWVJJZ0RSNTU2a3N1VzB5TGNLWWdkSzZQSjhUNEZCdzNfZDRMVzNyYzBsRlJ0X01FaG9oMWFFV0FRdG1iVjRGa3gwRkVIV1IzanZfU0hYc3J4TmVVbzVXYUZsSVRTRXE1NklfZEpsYlk3M2lXSjZrVEMyUVkzc2FmYnZ0Z2NQa2huZnRaZGVDaGJGR2w4d1NseFNkMA?oc=5",
-      "published": "2026-06-14T13:54:37+00:00",
-      "source": {
-        "name": "ischitellagargano.com",
-        "url": "https://www.ischitellagargano.com"
-      }
-    },
-    {
       "id": "e87a6402a463",
       "title": "Farmaci, perché Trump mette in pericolo la nostra salute - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDJBWGtFUTQyV1NhWEpVQkFpMFRVMWI2X3lpeFdab29YbVNiX19EZFZLRjJVSVNZYXZFYjlQMHdrMVc2S0IxMEhLVUpzaTlkbWdUYmxseXZuLTRZV0dFNVRMejU1a1F1WGoyUFdKREpzR2xUX0hKY1VSVWE3VEtLQnAzUTFfREg2QmVaSm1lSGZhcVlieTVLVDV1WdIBoAFBVV95cUxOQ1MtZWowTENOV2w5bkVqdkJtRUhqc1lQY0VLNmJHYkFTb29lR1E3enN4WTBvbFVZVHM1UVV4bGY4UTVIVFgta1BoVlFpQ182cnBpTWhsMFdfTU5TcksyYkFkeDExTncxbmRFOHJTdkl1QzhGaDBQQlMzbUpzVFFweC1sN2NPR0UtYWlia05LSGJmTk1Jam5jV0g0SDJZS2Rj?oc=5",
@@ -441,6 +441,16 @@
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "dc788544c364",
+      "title": "Pfas sostituibili in farmaci: studio trova alternative in 97 di 111 casi - ischitellagargano.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzZlZGpvTlBQMDZmMFlaa3RSMGtSWVJJZ0RSNTU2a3N1VzB5TGNLWWdkSzZQSjhUNEZCdzNfZDRMVzNyYzBsRlJ0X01FaG9oMWFFV0FRdG1iVjRGa3gwRkVIV1IzanZfU0hYc3J4TmVVbzVXYUZsSVRTRXE1NklfZEpsYlk3M2lXSjZrVEMyUVkzc2FmYnZ0Z2NQa2huZnRaZGVDaGJGR2w4d1NseFNkMA?oc=5",
+      "published": "2026-06-14T13:54:37+00:00",
+      "source": {
+        "name": "ischitellagargano.com",
+        "url": "https://www.ischitellagargano.com"
       }
     },
     {
@@ -624,16 +634,6 @@
       }
     },
     {
-      "id": "215333fae9d2",
-      "title": "Nessuno scelga tra curarsi e mangiare: parte 'Farmaci per tutti' - Viterbo News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1lsRXdtdUdiR2o1X2JxNjhKRlBPSXRiNjEwbmFkcDlIS292V1E2UDAxY0V1NFVsLWFaMFdXZDgzZVh0QW9HdFRwOU51TVN2YWdSWXA2eGhNdnNVWlAtMk9LNG1XR0NIWmQ5X1kycHdhSWJmNG9CVnMyZWFTQ2R3Q2F0WFQtdDhsUGpsdXcwUll3eWxLQTdDWHpOMUtOXzVxalNobS1kMGdqeFE?oc=5",
-      "published": "2026-06-13T05:03:00+00:00",
-      "source": {
-        "name": "Viterbo News",
-        "url": "https://www.viterbonews24.it"
-      }
-    },
-    {
       "id": "bec037c34006",
       "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
@@ -641,6 +641,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "215333fae9d2",
+      "title": "Nessuno scelga tra curarsi e mangiare: parte 'Farmaci per tutti' - Viterbo News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1lsRXdtdUdiR2o1X2JxNjhKRlBPSXRiNjEwbmFkcDlIS292V1E2UDAxY0V1NFVsLWFaMFdXZDgzZVh0QW9HdFRwOU51TVN2YWdSWXA2eGhNdnNVWlAtMk9LNG1XR0NIWmQ5X1kycHdhSWJmNG9CVnMyZWFTQ2R3Q2F0WFQtdDhsUGpsdXcwUll3eWxLQTdDWHpOMUtOXzVxalNobS1kMGdqeFE?oc=5",
+      "published": "2026-06-13T05:03:00+00:00",
+      "source": {
+        "name": "Viterbo News",
+        "url": "https://www.viterbonews24.it"
       }
     },
     {
@@ -824,16 +834,6 @@
       }
     },
     {
-      "id": "877f634f0644",
-      "title": "Malattia renale: la novità per proteggere i reni (anche senza diabete) - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWxIWlJ4dlFyZWk5Nzk1QVJyRVo2WEhMM1UxanVsRHpKWFJtSGxSMXZLb1FZVFJWWTZlU2VLc0poV0plWHJZdl9wZ05feUU0bGFtbVpJcGNGSk1jejl2ZU9pakh0b1pmb3VVUVFoc0w1cC11VHhBa0JwdFl4cjhya1ZtUG5DV2pweFB6eV9wWVNRWlc5c1hYb1ZldGw5OWFvb05OblNUbHhDcUpwWWxjSDhQUE5TYzR6SHc?oc=5",
-      "published": "2026-06-11T10:50:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "1c4095dff439",
       "title": "Farmaci antiobesità e antidiabete: benefici anche per la salute mentale - Federazione Nazionale degli Ordini dei Biologi",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT095Mng5S1Y3TlRtcWdsdmpPaENRYllSTExSZWRUNjN5R3lUSEtuYXRuRy10ZTRHVFBDWUNEdE5IWXNNVFM1VlVHT0d3RF8tN2xjWklmQkplYlZvMnFIZFhPQUpOSEphWDE3eXMwN1N3R2ZJRFhWVEpNMzRkZlJYZ1l5aHZrR3lWWXM0Z3lkZVFkMWplOEJWWUc4QU5VWmFVTFlPZg?oc=5",
@@ -841,6 +841,16 @@
       "source": {
         "name": "Federazione Nazionale degli Ordini dei Biologi",
         "url": "https://www.fnob.it"
+      }
+    },
+    {
+      "id": "877f634f0644",
+      "title": "Malattia renale: la novità per proteggere i reni (anche senza diabete) - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWxIWlJ4dlFyZWk5Nzk1QVJyRVo2WEhMM1UxanVsRHpKWFJtSGxSMXZLb1FZVFJWWTZlU2VLc0poV0plWHJZdl9wZ05feUU0bGFtbVpJcGNGSk1jejl2ZU9pakh0b1pmb3VVUVFoc0w1cC11VHhBa0JwdFl4cjhya1ZtUG5DV2pweFB6eV9wWVNRWlc5c1hYb1ZldGw5OWFvb05OblNUbHhDcUpwWWxjSDhQUE5TYzR6SHc?oc=5",
+      "published": "2026-06-11T10:50:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -934,16 +944,6 @@
       }
     },
     {
-      "id": "72f77f087104",
-      "title": "Farmaci: molecola orale agonista Glp-1 avanza in fase 3, nuovo capitolo per AstraZeneca - Cremonaoggi",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3M1RWl1bXJFRm5sSC1udVBhNzVZaUZGWVRBNDlFOFlqM1ZfLWd5S0VhbVloUW5fcndmekU4MmhzTmxhdGRQYmtUc1d5QlBrYWtRVE5lc1NaajU1dFNfY0JYYnpka3ptcUplZGRYZnM3X1pUSWktSWVUQzFvNi1yV1JaYm5UTVZwMkxITE1YbHhyeGlBTkdRTmJuNk1SWldxUzdVblhodFNKNU9pVjJCWnhJcXhtVXB4V013Sm4ydE12UQ?oc=5",
-      "published": "2026-06-12T15:07:00+00:00",
-      "source": {
-        "name": "Cremonaoggi",
-        "url": "https://www.cremonaoggi.it"
-      }
-    },
-    {
       "id": "b7dfd0077132",
       "title": "Farmaci per dimagrire e antidiabete: esiste davvero un rischio per la salute degli occhi? - Diabete.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFAwQ204aFc3VmJqbkRLc2tPbnM4LWQxMlVTMVNxVHFvLVlQbTVhLU53TFRvRFBqSkpRbzhRZ3dNZW1pY2EzZWlhekNSUE1YS3g1ajQ0QnlqdkY3bFZJRWNGRnhPTHR4SWhFN1hqNGhGM19TS2pzUVBvWG9Jb3VCQg?oc=5",
@@ -961,6 +961,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "72f77f087104",
+      "title": "Farmaci: molecola orale agonista Glp-1 avanza in fase 3, nuovo capitolo per AstraZeneca - Cremonaoggi",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3M1RWl1bXJFRm5sSC1udVBhNzVZaUZGWVRBNDlFOFlqM1ZfLWd5S0VhbVloUW5fcndmekU4MmhzTmxhdGRQYmtUc1d5QlBrYWtRVE5lc1NaajU1dFNfY0JYYnpka3ptcUplZGRYZnM3X1pUSWktSWVUQzFvNi1yV1JaYm5UTVZwMkxITE1YbHhyeGlBTkdRTmJuNk1SWldxUzdVblhodFNKNU9pVjJCWnhJcXhtVXB4V013Sm4ydE12UQ?oc=5",
+      "published": "2026-06-12T15:07:00+00:00",
+      "source": {
+        "name": "Cremonaoggi",
+        "url": "https://www.cremonaoggi.it"
       }
     },
     {
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "984ad7942fce",
-      "title": "Evento Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbV91OUxzdWNGWS1xZXB4MnQ2NDNwcGpMdXkwb3pNdEpudkRmSm1VWnRzNV9PcXJNX2FWeUEzcXZUd0JQMTl2WWtpd0RfTjdBUGg4LXNGTkNYMFBQVTRRbnFxZ01hVEgzVjJXY0JKRWtsQlcyelpFVi1DeHFuVVBWQ2FtTGMyVkVvZkFZTlM5YzhRVHpJYTVXOHNjWG5kalIzU3BLU19mamJhMGQ0dEpF?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     }
   ]
