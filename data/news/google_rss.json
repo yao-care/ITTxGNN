@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T22:42:57.814343+00:00",
+  "fetched_at": "2026-06-19T23:59:35.079172+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "c300b1ed721b",
-      "title": "Quando non bastano i farmaci per abbassare l'ipertensione, ci pensa la radiofrequenza - VeronaSera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSElka3BXRHI0UVV0dnZSWkQyVVZ1TjhjcmYwUGU3OXYtNEdaNlZEN2kyN3BtWTBMNlY2VXVadjFMSVRXWTlGdHRPamg0dXZOU24tT1FlYVFpWC1sTHZpSllkdWVKbDhVLXN5WERZWEN2eU1EeGlhVUZVOGEyaVVuMmpCeVJtTDRkM0ZzdDdPX2lsTlFSdGc2V292N0V4Tnk4WGNSaVBfQQ?oc=5",
-      "published": "2026-06-18T09:17:30+00:00",
-      "source": {
-        "name": "VeronaSera",
-        "url": "https://www.veronasera.it"
-      }
-    },
-    {
       "id": "f9993b09ff03",
       "title": "Congelare l'ictus, la promessa del mix di farmaci per ridurre i danni al cervello - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHh2Z29UTUFCRmt6U0NEWVM4eFB3QzE4OVg3MnNkMTFyZWdQUUZqSWJjeVZEN2tJT2dWVVNmU25ENHlwdHdBUVNsVzhxOVRQdVR5MHdCU05jMUpjSWRGMVhSb05idmNHTWFFS2RtMG9hSDlCRHIwZ3hCb3F5WkFaaGM5S2VScDFPbTV1cDd6ZVI4Rm1iNlJkSnhpQU0tcXlH?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "c300b1ed721b",
+      "title": "Quando non bastano i farmaci per abbassare l'ipertensione, ci pensa la radiofrequenza - VeronaSera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSElka3BXRHI0UVV0dnZSWkQyVVZ1TjhjcmYwUGU3OXYtNEdaNlZEN2kyN3BtWTBMNlY2VXVadjFMSVRXWTlGdHRPamg0dXZOU24tT1FlYVFpWC1sTHZpSllkdWVKbDhVLXN5WERZWEN2eU1EeGlhVUZVOGEyaVVuMmpCeVJtTDRkM0ZzdDdPX2lsTlFSdGc2V292N0V4Tnk4WGNSaVBfQQ?oc=5",
+      "published": "2026-06-18T09:17:30+00:00",
+      "source": {
+        "name": "VeronaSera",
+        "url": "https://www.veronasera.it"
       }
     },
     {
@@ -144,16 +144,6 @@
       }
     },
     {
-      "id": "72da7a4b37fa",
-      "title": "La meditazione può sostituire i farmaci per l'ansia? Ecco cosa dice la scienza - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNpZ3J6eDZzbldSTDhKb0ZOaS1yMzgyX25UZ1pGY3E3dndNc2E3dlc1ZFRRNlk1bUVIczlGUktnVEJfSTYwZXdZNU5HYXAwNlhiaEJxWmlSNHRZRW92VTJ1TjhJcVFLMzg1U3FKYjNxSGtKQWZYVGY3NHRaZGNQU2dzLWVCSERtZ1pZMDNvQ1A1R2FqZUl3c0xIaEtpRkFRT3VYWWdSNUsyYWFpTmc?oc=5",
-      "published": "2026-06-19T08:03:30+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "06f46f26042d",
       "title": "Teva in Italia: 30 anni a supporto della salute del Paese tra accesso alle cure e innovazione - Pharmastar",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQUxxWGphWXAtdjZJRVF6WGhtdE9wUE4ydWZ1cnZCMUJxNHBFVVpMa1hNSWJ3QkEtcjJwWElNZzlrWjhqTktLUWprR014NllPY3dKZzdYd2hpRGlMeElLc1A0V1R5RElFbDhaVE0zZzdyVWxLYXVaWm51bm9QSmlpZkNvSklvWHU1c2ljUDRGMENTamZjY1ZBc0dLWkR3bTRjUXVBRHZYT0d3UFlvNnpteGhEVFRPSG9tdmxSa3RHaDctbUVWbzBoS0RTOEJWbnJKRmUxZTgxTQ?oc=5",
@@ -161,6 +151,16 @@
       "source": {
         "name": "Pharmastar",
         "url": "https://www.pharmastar.it"
+      }
+    },
+    {
+      "id": "72da7a4b37fa",
+      "title": "La meditazione può sostituire i farmaci per l'ansia? Ecco cosa dice la scienza - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNpZ3J6eDZzbldSTDhKb0ZOaS1yMzgyX25UZ1pGY3E3dndNc2E3dlc1ZFRRNlk1bUVIczlGUktnVEJfSTYwZXdZNU5HYXAwNlhiaEJxWmlSNHRZRW92VTJ1TjhJcVFLMzg1U3FKYjNxSGtKQWZYVGY3NHRaZGNQU2dzLWVCSERtZ1pZMDNvQ1A1R2FqZUl3c0xIaEtpRkFRT3VYWWdSNUsyYWFpTmc?oc=5",
+      "published": "2026-06-19T08:03:30+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -184,16 +184,6 @@
       }
     },
     {
-      "id": "f3a373f3963a",
-      "title": "L’Europa Alla Ricerca Di Una Voce Unica Sul Prezzo Dei Farmaci - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dXhEU2VMdmQ4bE94bnVKakZhMG8tWTdmV2hHRUswVExJWVJhRTZfWDQyYlIySDl6dmJjUWRScjQ4b1ZTcnpXYjcyeHZ0UEZiVjNtMlpmZzVYeUVBcnBySmdFeFc3eS02LXc?oc=5",
-      "published": "2026-06-19T04:52:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
-      }
-    },
-    {
       "id": "80e8f713ae99",
       "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
@@ -201,6 +191,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "f3a373f3963a",
+      "title": "L’Europa Alla Ricerca Di Una Voce Unica Sul Prezzo Dei Farmaci - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dXhEU2VMdmQ4bE94bnVKakZhMG8tWTdmV2hHRUswVExJWVJhRTZfWDQyYlIySDl6dmJjUWRScjQ4b1ZTcnpXYjcyeHZ0UEZiVjNtMlpmZzVYeUVBcnBySmdFeFc3eS02LXc?oc=5",
+      "published": "2026-06-19T04:52:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
       }
     },
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "dc90745285bd",
-      "title": "Grazie al Decreto-legge rafforzato il ruolo della farmacia di servizi: più spazio a prevenzione e alla somministrazione dei vaccini. Un convegno a Milano - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONkhvTjFGd0NPbm5MOG9DRFZRNThtZVF5QTZTU3ZzZ0dzWnhwQmlrLU9BeG80UGd0WlhzbXgzQmlmTmctczFRT3ZfbmU4M3J1eTNyUFRmZFpFWk83LTFRQUxxaUQza0xCRE1DQ0ctOE9SYURsM3RBUmxqNnY0T3ZJSFd5VTlIX0NCR3hsUkJCZExBWDM5OG5DZURWa0l6a1RsMXVRVFR3NjZFREZWV05uMXpLS2NIYmxKajc4SkVUXzNXRXRkM2FSRUJMNjdLYnNfZk13RFk1NW5hZ1V5cTVoWXBRUEdNdy1KazVpSjF3cXNWdkV0WnN6UkU0LVJ6dnFydUlENnV3?oc=5",
-      "published": "2026-06-19T10:49:57+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
-      }
-    },
-    {
       "id": "d2d43df52f69",
       "title": "Farmaci equivalenti: una sfida da 1,1 miliardi per il sistema sanitario - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUpkN0FrWEpGRnp2U05HaFctMmU5N1V3Qmk5TjByT2ljWjlyMGtJYmlNbTJxWkExelJMVVJuODVvYWtDOUx5b2ZXM0pzVlRBd09Mb0xpa3JfM29DbDNOVnRXMmVmRzZKbDh6RmduTGxGS3NGRzJTM0RxWmQzUUxqRm9aSUxmUWpaNTBBMWpoSkltUDJXQkVmcFVtYzlhTjl0?oc=5",
@@ -294,13 +284,13 @@
       }
     },
     {
-      "id": "b8ec1bce78a1",
-      "title": "Emofilia, accessi semplificati al pronto soccorso e farmaci salvavita nelle ambulanze - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOd19NRlJ4N183Z1R2NlJRWUZrRElnb1d2ckRsNGVYZEE2Mjg2X3l4TWtvZ3UwMGNUTlBKM1k1RkJkNHhJOUNIR2Q1Q1lENjF1MDRXbExYUGcxT3BwelZmV3JTdGRGMFpOME9lUmFLMUF4QktCdGZ3bTFMYXU3QXJCOFlCU1hjeU5UOGZFRVc1RXdrb1YtQjRZUmFucmZsa1hWQkdUV1NRSWVEVDQwN0FvUkVqWHJPSDA0cTQtVG82eVA0eXBkTEczbGwyWkh3UUdqQWxnMy1zUHh0YTNqTXRtaW41ak5rWm12N1EyaEZ6TWpIOUtLOGlVTmtfQ0o4MDJON2lXNXRZcVVMX0ZHMGZfS1Itb1F3YVA3UkHSAZ8CQVVfeXFMTTU2Y2t2cFV2cmEtOU93Wk9YVVd6RVVxN2tsQlFxS3hXSERaYjBwQVJ2XzBabkJLMXA1a2hzdTBlc1FBTXB3S0JkTUVuX0ZiMFN0alFsRi1tQTdLMmZzanNoZjBRRW5NNURQUkFHeVNHRzVJdENKa09iZExwS19ZVFRoR0l4SnRpeDE5N1NWRXV0SEZ3Z2NjS2lubGlJNWlUOXJ6eHU1REZFY2IyQVc5bWhpZENNRDRsRWRTNVBlVDRxcU1KcnR5ai01Q055NVY5LW1iUi0xVl9heVlHLUtZN2FCeng4U1NtRzJpTDlfcENmdjVqQV9oalI0Mi1mX0Y1Qm01bV9fbkhUSU0tYWZ1NHQ3V3lrTklkV2gwcnRfT0E?oc=5",
-      "published": "2026-06-19T08:26:00+00:00",
+      "id": "dc90745285bd",
+      "title": "Grazie al Decreto-legge rafforzato il ruolo della farmacia di servizi: più spazio a prevenzione e alla somministrazione dei vaccini. Un convegno a Milano - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONkhvTjFGd0NPbm5MOG9DRFZRNThtZVF5QTZTU3ZzZ0dzWnhwQmlrLU9BeG80UGd0WlhzbXgzQmlmTmctczFRT3ZfbmU4M3J1eTNyUFRmZFpFWk83LTFRQUxxaUQza0xCRE1DQ0ctOE9SYURsM3RBUmxqNnY0T3ZJSFd5VTlIX0NCR3hsUkJCZExBWDM5OG5DZURWa0l6a1RsMXVRVFR3NjZFREZWV05uMXpLS2NIYmxKajc4SkVUXzNXRXRkM2FSRUJMNjdLYnNfZk13RFk1NW5hZ1V5cTVoWXBRUEdNdy1KazVpSjF3cXNWdkV0WnN6UkU0LVJ6dnFydUlENnV3?oc=5",
+      "published": "2026-06-19T10:49:57+00:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
       }
     },
     {
@@ -321,6 +311,26 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "b8ec1bce78a1",
+      "title": "Emofilia, accessi semplificati al pronto soccorso e farmaci salvavita nelle ambulanze - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOd19NRlJ4N183Z1R2NlJRWUZrRElnb1d2ckRsNGVYZEE2Mjg2X3l4TWtvZ3UwMGNUTlBKM1k1RkJkNHhJOUNIR2Q1Q1lENjF1MDRXbExYUGcxT3BwelZmV3JTdGRGMFpOME9lUmFLMUF4QktCdGZ3bTFMYXU3QXJCOFlCU1hjeU5UOGZFRVc1RXdrb1YtQjRZUmFucmZsa1hWQkdUV1NRSWVEVDQwN0FvUkVqWHJPSDA0cTQtVG82eVA0eXBkTEczbGwyWkh3UUdqQWxnMy1zUHh0YTNqTXRtaW41ak5rWm12N1EyaEZ6TWpIOUtLOGlVTmtfQ0o4MDJON2lXNXRZcVVMX0ZHMGZfS1Itb1F3YVA3UkHSAZ8CQVVfeXFMTTU2Y2t2cFV2cmEtOU93Wk9YVVd6RVVxN2tsQlFxS3hXSERaYjBwQVJ2XzBabkJLMXA1a2hzdTBlc1FBTXB3S0JkTUVuX0ZiMFN0alFsRi1tQTdLMmZzanNoZjBRRW5NNURQUkFHeVNHRzVJdENKa09iZExwS19ZVFRoR0l4SnRpeDE5N1NWRXV0SEZ3Z2NjS2lubGlJNWlUOXJ6eHU1REZFY2IyQVc5bWhpZENNRDRsRWRTNVBlVDRxcU1KcnR5ai01Q055NVY5LW1iUi0xVl9heVlHLUtZN2FCeng4U1NtRzJpTDlfcENmdjVqQV9oalI0Mi1mX0Y1Qm01bV9fbkhUSU0tYWZ1NHQ3V3lrTklkV2gwcnRfT0E?oc=5",
+      "published": "2026-06-19T08:26:00+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
+      }
+    },
+    {
+      "id": "90c4303fb4b9",
+      "title": "Allarme dagli Usa: overdose da nuovi super oppioidi - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTc0c2djSFR5dDdjVkUyVVd1TnZwa2xNTms0T3h6VnBpcUNST1Q4WklWUC11N2Z5enlwVlRwS09sRm4wdDZZcm43NTdQWkNFTDVGNTltODJiWTFBSnF0aVpsOXMzUE1mUHZJMHpsM2lIZ01VT0FLMW1HdlI2OEFZdTVHSk0zRmJILUdEUFVObGpDemfSAZgBQVVfeXFMT09VSDZwZTFSTUZIYi0zTUFoRGhBakJZdXRlN0cyQVhlUlNkT2NPWUJyei10bkgxWnM5Y0RJd0hESF9qNEhzMWhyRDkzY21xZGlHUlFaLVNYNlplWllvOTRhYlFKSFJROFBRVWlaaTk4Mldxemp1UHhyMFFOX1MtSWxubnF5dVdvM1pUUW9QRzBkbHVGak5GR0o?oc=5",
+      "published": "2026-06-19T09:26:29+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -354,16 +364,6 @@
       }
     },
     {
-      "id": "74c71c9a77b7",
-      "title": "Mercato farmacie in Francia: in calo nei primi mesi del 2025. Pesa concorrenza dei grandi gruppi online - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPczBPaDdsa2JfSmNRa19sZEtwbEpad2d2SEZFZjc3Z3NPRVlVZXhUNkc0Wk1RV014Ym5NZzI2ZndER0U5Y29mOFNCR1pLbHVYQkljYTFXdnByUnRUWVhpT3E4QXlkX0k1dGdiX3ppYWhsT1YzRVg0cmJ2d05KazBBbjg3Q3M5U2Ric3ZreXczWERvNWRUTDV5YVNkSld4R2JxZ29UZGw2MXFMOXctYUJkc3o3WDdXYWFaLUViU01tUHhmQXVWeXFNaTFKZzdoVHQwQld6YjhjajRJZklvMmNJZ1R2amU3UmJMVF9Ic2ZZNFJaN1JMblBkSUF4eDk?oc=5",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "157593f1574f",
       "title": "Digitale E Farmaci, Intesa AIFA-FOFI: IA E Dati Condivisi Per Supportare I Farmacisti - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMnhONTVUMFZOOVdScDk2LURFVEI2MHhoSkNzZ2RvdUZXTFB0a2J4Vnc3R0JnSmJyQXpJbUtOWkdDRF9ubjA5QTlkbGszUjRDNHg1OUVER2pScmVIbmRVR2FFR3FpSkgwUXhHRE9PVUVvblVPa01RNS1mRC1wUFlXeFNqbUVyU1ktS1M0WGJZMW9ITmo5VXQtZW5BWkNuN1pXamlVbXMyR1dRWHM?oc=5",
@@ -371,26 +371,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://mondosanita.it"
-      }
-    },
-    {
-      "id": "b0245c356505",
-      "title": "Cos’è il Penthrox, il farmaco inalato da Ismael Koné dopo il grave infortunio ai Mondiali - Men's Health",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2p5bVUtTmtDcXNTd3ExX2pFaHdmOElCVFgwVlplNV96THBJblNHR2xoS3luajk3bnZ5a1RpT1RGRktpd2c3M1NBRV95Ymd5LXd3ZWxPTXhKblZxQW0xUkdnN1BVYU9wdFpnSzR4TzNzTndoVVdvWHNKVkRycERZYVR2SGdNZnZXd09QdQ?oc=5",
-      "published": "2026-06-19T15:33:07+00:00",
-      "source": {
-        "name": "Men's Health",
-        "url": "https://www.menshealth.com"
-      }
-    },
-    {
-      "id": "7524b3950cc7",
-      "title": "Farmaci: spesa Ssn sfiora i 25 miliardi, sulle aziende scure da 2,3 miliardi - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCcmJLQkhDUmhRRjB2X09nTU5ZRGozc1FOZllheDVPMU5jb0c4NW5YbUw2X1o4WGdoN0FIQUdfR2RIaDRvajdIbEQ4Y0ZjT3ZyakkzOU5FbmdfbDBBZy1lZ0lWWVQyM2wwRUE4Wkc3b0JhZ1Fic1RJRUZfaXdCOUswVjByNHAxTnhLMzFOeEswaElYQmk5M2k1WWYxZHZqU2NJSWtR?oc=5",
-      "published": "2026-06-18T18:33:59+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -404,16 +384,6 @@
       }
     },
     {
-      "id": "b623deed8974",
-      "title": "Utilizzo farmaci equivalenti, Sardegna regione virtuosa - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmtuNjljbXBLWHZnMkhkdE5jZ3RkZEFudDVVSzhqc0xWQ1AyYmxEd1FYTHpuQzl2ZHJNeFkwMHdWMXVmVWRaSWlxSTkyWXVhRGdYRWJfOTl4d2lUWlYxcXRhbDRYUEFxVXExNUxnRXh6bndmYnNqWmFHVS11dXA2WmcyeUZQdDRkaHJoeEdRRS1USTV4dXQ2SEItYkJzZ0xRSDRUS1JCRmZqWG5oTzU5U01qbw?oc=5",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "2e83aa3d32af",
       "title": "Farmaci introvabili, piani terapeutici e distribuzione diretta: nel Rapporto PIT Salute cresce l’allarme sull’assistenza farmaceutica - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0d6cmY5SXNwYzZrMF9wNjhXcVU1OWZVNEJrOWZWWG8taVVOVmpXVEE2WExoUFBObHFWaFRNbW9PWnJSOWNCb2UtM3FNalA1V255UVNleFJJRWlGNlJSUmZ4akV5UkxRaTU1ZkFfOVplem1KWXVfQ1BDMWo1WHFqWWxjZENMeWllbHc?oc=5",
@@ -424,13 +394,23 @@
       }
     },
     {
-      "id": "76f780a48940",
-      "title": "Il 92% degli oncologi usa l'accesso precoce ai farmaci ma pesa la burocrazia - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTZQMC0xYjI2LUtWYi13ck9IQnZYTkdaSHgtOXpBVDJ5S29TWXNVYThOQWxidEhJdmhtbTBGNS1iV1lQS2oyMERxSUxDMlBSQnlzZVAxT29LTDhZNmN0dkkwSTFqb2twRWpyS0FTT2o0d0U2ZGFEQkJubnVCeTFyTXl1NmhzUTVqQ28tYXpoX19Sbk1yTDVVcTlZVmhKZ1BDdmZuUlVkdktnS2ZPQXBkbTBVenNvT3N5Q25fWGRhMVBHOWozbV8tMA?oc=5",
-      "published": "2026-06-18T23:35:00+00:00",
+      "id": "7524b3950cc7",
+      "title": "Farmaci: spesa Ssn sfiora i 25 miliardi, sulle aziende scure da 2,3 miliardi - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCcmJLQkhDUmhRRjB2X09nTU5ZRGozc1FOZllheDVPMU5jb0c4NW5YbUw2X1o4WGdoN0FIQUdfR2RIaDRvajdIbEQ4Y0ZjT3ZyakkzOU5FbmdfbDBBZy1lZ0lWWVQyM2wwRUE4Wkc3b0JhZ1Fic1RJRUZfaXdCOUswVjByNHAxTnhLMzFOeEswaElYQmk5M2k1WWYxZHZqU2NJSWtR?oc=5",
+      "published": "2026-06-18T18:33:59+00:00",
       "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "b0245c356505",
+      "title": "Cos’è il Penthrox, il farmaco inalato da Ismael Koné dopo il grave infortunio ai Mondiali - Men's Health",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2p5bVUtTmtDcXNTd3ExX2pFaHdmOElCVFgwVlplNV96THBJblNHR2xoS3luajk3bnZ5a1RpT1RGRktpd2c3M1NBRV95Ymd5LXd3ZWxPTXhKblZxQW0xUkdnN1BVYU9wdFpnSzR4TzNzTndoVVdvWHNKVkRycERZYVR2SGdNZnZXd09QdQ?oc=5",
+      "published": "2026-06-19T15:33:07+00:00",
+      "source": {
+        "name": "Men's Health",
+        "url": "https://www.menshealth.com"
       }
     },
     {
@@ -444,13 +424,13 @@
       }
     },
     {
-      "id": "13df7c1410a0",
-      "title": "IL SOLE 24 ORE * SALUTE: «LA MEDITAZIONE PUÒ SOSTITUIRE I FARMACI PER L'ANSIA? ECCO COSA DICE LA SCIENZA - agenziagiornalisticaopinione.it",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT2JVOEE5MDM4QTdpQXp5blFqakxxZ1JrTHFlN1RFZmdpUDJnWEtZSjNiMGJfYm15LWt2ZDM2T1lCUE1mZXpORFBQTDVTT2Y1dTI2dm5kN1ZiWXZDYVJQVnJBTHJjcGRrdGx1cGVwOFlkTWtzbWkyRVNrWVNJZEhFS2hkV3dqU0pGLUpNOVpXeGxNM2pJZ2wxY1Nvb3RubUxZSU1ZcFFESkJyLV94aFNZOGtSamRQeVplZ1R0OUQ4ZGdtNm9SV2tVanBaVFJkOU80QVU1eU1SUllqcFVfSjd2WFFVb0s5ODFxR2RlTGxfTU5WM0k?oc=5",
-      "published": "2026-06-19T11:00:18+00:00",
+      "id": "a284d455cdbd",
+      "title": "Farmaci: da Aifa e Ordine farmacisti patto per l'innovazione digitale -2- - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbUJjM2JlWTktcHQzYlh0Sllrckl6ejZyUExJLXpKa1NWMDBXcjI5cm5kRXB1NXRPb0JJNmFOWEhmOEt5MEg5bUZrUDF5LWRNamtzRl9RbHJNcWw1RE5VNGJTU1NkN0NfZjRzS053?oc=5",
+      "published": "2026-06-17T12:19:02+00:00",
       "source": {
-        "name": "agenziagiornalisticaopinione.it",
-        "url": "https://www.agenziagiornalisticaopinione.it"
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -464,13 +444,13 @@
       }
     },
     {
-      "id": "21c1666cdfc7",
-      "title": "“L’industria della salute”: il libro-denuncia di Agnoletto accende il dibattito a Termoli - mynews.it",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd05TVkplbWFOOGEycFcwVFV3RDJGQ0ZLN2pvbTdwS2stSkxKLWRUZWNzd2g2MzhIMnNGUWVFRjV2M1QwSTRITVFPaVltVTNHc19XYVZvTVJWdFBZSUs3MXM0ZXlhWUVTZERuZkpPNDBnNk1qMDkzMVF3QmtjRS0tTnhoUmFaUkJiQ3JOOFNrT0IwZUJWV3JHZEkxeWlXTVB5SmNnT2VGRQ?oc=5",
-      "published": "2026-06-19T07:34:25+00:00",
+      "id": "74c71c9a77b7",
+      "title": "Mercato farmacie in Francia: in calo nei primi mesi del 2025. Pesa concorrenza dei grandi gruppi online - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPczBPaDdsa2JfSmNRa19sZEtwbEpad2d2SEZFZjc3Z3NPRVlVZXhUNkc0Wk1RV014Ym5NZzI2ZndER0U5Y29mOFNCR1pLbHVYQkljYTFXdnByUnRUWVhpT3E4QXlkX0k1dGdiX3ppYWhsT1YzRVg0cmJ2d05KazBBbjg3Q3M5U2Ric3ZreXczWERvNWRUTDV5YVNkSld4R2JxZ29UZGw2MXFMOXctYUJkc3o3WDdXYWFaLUViU01tUHhmQXVWeXFNaTFKZzdoVHQwQld6YjhjajRJZklvMmNJZ1R2amU3UmJMVF9Ic2ZZNFJaN1JMblBkSUF4eDk?oc=5",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": {
-        "name": "mynews.it",
-        "url": "https://mynews.it"
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -494,13 +474,33 @@
       }
     },
     {
-      "id": "90c4303fb4b9",
-      "title": "Allarme dagli Usa: overdose da nuovi super oppioidi - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTc0c2djSFR5dDdjVkUyVVd1TnZwa2xNTms0T3h6VnBpcUNST1Q4WklWUC11N2Z5enlwVlRwS09sRm4wdDZZcm43NTdQWkNFTDVGNTltODJiWTFBSnF0aVpsOXMzUE1mUHZJMHpsM2lIZ01VT0FLMW1HdlI2OEFZdTVHSk0zRmJILUdEUFVObGpDemfSAZgBQVVfeXFMT09VSDZwZTFSTUZIYi0zTUFoRGhBakJZdXRlN0cyQVhlUlNkT2NPWUJyei10bkgxWnM5Y0RJd0hESF9qNEhzMWhyRDkzY21xZGlHUlFaLVNYNlplWllvOTRhYlFKSFJROFBRVWlaaTk4Mldxemp1UHhyMFFOX1MtSWxubnF5dVdvM1pUUW9QRzBkbHVGak5GR0o?oc=5",
-      "published": "2026-06-19T09:26:29+00:00",
+      "id": "21c1666cdfc7",
+      "title": "“L’industria della salute”: il libro-denuncia di Agnoletto accende il dibattito a Termoli - mynews.it",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd05TVkplbWFOOGEycFcwVFV3RDJGQ0ZLN2pvbTdwS2stSkxKLWRUZWNzd2g2MzhIMnNGUWVFRjV2M1QwSTRITVFPaVltVTNHc19XYVZvTVJWdFBZSUs3MXM0ZXlhWUVTZERuZkpPNDBnNk1qMDkzMVF3QmtjRS0tTnhoUmFaUkJiQ3JOOFNrT0IwZUJWV3JHZEkxeWlXTVB5SmNnT2VGRQ?oc=5",
+      "published": "2026-06-19T07:34:25+00:00",
       "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
+        "name": "mynews.it",
+        "url": "https://mynews.it"
+      }
+    },
+    {
+      "id": "76f780a48940",
+      "title": "Il 92% degli oncologi usa l'accesso precoce ai farmaci ma pesa la burocrazia - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTZQMC0xYjI2LUtWYi13ck9IQnZYTkdaSHgtOXpBVDJ5S29TWXNVYThOQWxidEhJdmhtbTBGNS1iV1lQS2oyMERxSUxDMlBSQnlzZVAxT29LTDhZNmN0dkkwSTFqb2twRWpyS0FTT2o0d0U2ZGFEQkJubnVCeTFyTXl1NmhzUTVqQ28tYXpoX19Sbk1yTDVVcTlZVmhKZ1BDdmZuUlVkdktnS2ZPQXBkbTBVenNvT3N5Q25fWGRhMVBHOWozbV8tMA?oc=5",
+      "published": "2026-06-18T23:35:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "b623deed8974",
+      "title": "Utilizzo farmaci equivalenti, Sardegna regione virtuosa - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmtuNjljbXBLWHZnMkhkdE5jZ3RkZEFudDVVSzhqc0xWQ1AyYmxEd1FYTHpuQzl2ZHJNeFkwMHdWMXVmVWRaSWlxSTkyWXVhRGdYRWJfOTl4d2lUWlYxcXRhbDRYUEFxVXExNUxnRXh6bndmYnNqWmFHVS11dXA2WmcyeUZQdDRkaHJoeEdRRS1USTV4dXQ2SEItYkJzZ0xRSDRUS1JCRmZqWG5oTzU5U01qbw?oc=5",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "e836ceba20e9",
-      "title": "Farmaci equivalenti: Sardegna regione virtuosa, con un maggiore utilizzo risparmi per 5 milioni l'anno. Lo studio promosso da Sandoz - sanitainformazione.it",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONTlvbmNIckhPaUJxRjV0RmJUQkdJd28wMWhTMGE0NUxGSDBQclZ5WVVacHJhMmpfXzI0R19sR1JmZkJ3Wjh2NHNuMG9lNU9vMWdXVTYxcHV5UTRfeUR2Qk9TZmIxZTZiUFhEVXN5b0ZHOTY5SkJuMWsxMlo3VDAweDNNOEdPY2JSUlIydlRFTjZZRUlCQnllOGl3eUJDSTl2RmwyMFB2dFAtU3lCSVlybHJ0U0F6Zmd5bGhnNFBQRjctMWQ3VTNuOEZwall0SnJFcTdBbDRIT0NMeHctYTFqT3FQVXV0UjB6Njd6SHVGOE1wSFo0a1E?oc=5",
-      "published": "2026-06-18T15:10:00+00:00",
-      "source": {
-        "name": "sanitainformazione.it",
-        "url": "https://www.sanitainformazione.it"
-      }
-    },
-    {
       "id": "7d7fa0b2507d",
       "title": "Dall’Italia al Libano, 55 pallet di farmaci per le fasce più fragili - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2JLZlAtdDlQcEoyT0FjMHJtQ1dLNG1MekhBUnpUeHgzUFBDOXRrUk13MF92N0NnM1NFOGR4NzFVWkdTbUFsNng4T1Itb0xkMUs0TGNlWnFrb3VhMWpFNGEzd3FBNGpfTG4xYmVadUFPNWtPLU5yeFNzOVFGZVpjTDgxWGZibzR1QmJfX29Eb2tLcE1YelhVTUQ0ZHFRY2lXUEJjOUNSVndtajFBNmUtQWx0dkoxMnROLTIyQ0VMajRzLXJfQ2xTQg?oc=5",
@@ -551,6 +541,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "e836ceba20e9",
+      "title": "Farmaci equivalenti: Sardegna regione virtuosa, con un maggiore utilizzo risparmi per 5 milioni l'anno. Lo studio promosso da Sandoz - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONTlvbmNIckhPaUJxRjV0RmJUQkdJd28wMWhTMGE0NUxGSDBQclZ5WVVacHJhMmpfXzI0R19sR1JmZkJ3Wjh2NHNuMG9lNU9vMWdXVTYxcHV5UTRfeUR2Qk9TZmIxZTZiUFhEVXN5b0ZHOTY5SkJuMWsxMlo3VDAweDNNOEdPY2JSUlIydlRFTjZZRUlCQnllOGl3eUJDSTl2RmwyMFB2dFAtU3lCSVlybHJ0U0F6Zmd5bGhnNFBQRjctMWQ3VTNuOEZwall0SnJFcTdBbDRIT0NMeHctYTFqT3FQVXV0UjB6Njd6SHVGOE1wSFo0a1E?oc=5",
+      "published": "2026-06-18T15:10:00+00:00",
+      "source": {
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -604,6 +604,26 @@
       }
     },
     {
+      "id": "10e985415eb6",
+      "title": "Farmaceutica: Vasiliou (Bms), ‘80 farmaci innovativi portati in Italia in 80 anni’ - Startupbusiness.it",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1lQNC1YeERKaWFRTmpiV1dtWjV2TEhLUW82MW10RU1jUXhMRTJ0dVFQdXdnOGVxSmpBSW53R19JbjgwUzAySlctNU5LQ1BDU1NKWnM3cG1OdlhvVldoUGJLWWUtcXhMRjl5YWtkd2lkdmdSVzR1bzhQM2YwTTZlb0E3bzFuNkE4SjRWNGlOZnpSQlJBLTV2UkJ6dDk2WUtwbDBJeVh0bUZMYmhadUstbkdHT0g2UQ?oc=5",
+      "published": "2026-06-18T23:34:49+00:00",
+      "source": {
+        "name": "Startupbusiness.it",
+        "url": "https://www.startupbusiness.it"
+      }
+    },
+    {
+      "id": "13df7c1410a0",
+      "title": "IL SOLE 24 ORE * SALUTE: «LA MEDITAZIONE PUÒ SOSTITUIRE I FARMACI PER L'ANSIA? ECCO COSA DICE LA SCIENZA - agenziagiornalisticaopinione.it",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT2JVOEE5MDM4QTdpQXp5blFqakxxZ1JrTHFlN1RFZmdpUDJnWEtZSjNiMGJfYm15LWt2ZDM2T1lCUE1mZXpORFBQTDVTT2Y1dTI2dm5kN1ZiWXZDYVJQVnJBTHJjcGRrdGx1cGVwOFlkTWtzbWkyRVNrWVNJZEhFS2hkV3dqU0pGLUpNOVpXeGxNM2pJZ2wxY1Nvb3RubUxZSU1ZcFFESkJyLV94aFNZOGtSamRQeVplZ1R0OUQ4ZGdtNm9SV2tVanBaVFJkOU80QVU1eU1SUllqcFVfSjd2WFFVb0s5ODFxR2RlTGxfTU5WM0k?oc=5",
+      "published": "2026-06-19T11:00:18+00:00",
+      "source": {
+        "name": "agenziagiornalisticaopinione.it",
+        "url": "https://www.agenziagiornalisticaopinione.it"
+      }
+    },
+    {
       "id": "e7f36f615ca6",
       "title": "Leucemia linfatica cronica, combinazione farmaci riduce bisogno di terapie successive - ANSA",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdkRNWEV4TlFWWk84RXYzSjlSLXZaSE54RDduYVJiT3dlaFQyejRaNGVTS0c4VGl3LVRfeVlTVnNIV1BlNDg2OHpITi1nYTBJb29HQ19BNldZcDFTQzNWSTBoN0JqbjZUOFE1dEotRGRNNm9mUkxITTJNTnh5cjVyakFjeFFZSUNRMTMzajlrVmhZaXF0Ti1CaVNfOTBvNEtSY0I2aWpMa1Z6VFo4Y01uZjF0WjlacTJLVnhMTjJER1FMSFp1Tjg2enpQTmJKTElLbFpoOXAydElRUkJlSGVqeWpMS0EzWDBuMUpEQmVveGtINDhmQ0FGU3UtNWlVbUxJeEl5RmVJSUd4N2YwX0RXc3dZaXFGeXc5OTlLR0Uyb1hpRURvQ1hCQll30gGvAkFVX3lxTE1mRU5td0JXR3luVThkd1ZvSllFS0MwYUZXdXl2STdZYjFwWlBSZ0UyTmxvZ1ZUcmo1VERxaHh5ZGJRaEg2V1RJbERuUVZ6Nl9jSkN1dnRkZWcxUkhDbUczdlg0Q1RNLW81bmkyTHhkandXMzdlUy0yaVBwNjZKUDNWM19kbDlRd1BtWUJETkYzbUFLZ2VNRElSQ2FWWnJNa3VpM2Y4VVlWY0JrUGx3dFRQWlZjNm1DWF9mNGFTRHRfN0N4aFhNRHJlNF9SUGZEcXJ5TEdST2loa29yVlpYTnpWcmMxX3V1UGxHOGRrTW84bU5rUWRTSWkyYlJDdGp5OWh0Nl9SNlUyVlFmbWlQSlJOR01pZFI0al84V19PSWRMem9NLUhBRFI1ZnQ2dVhKQQ?oc=5",
@@ -611,6 +631,16 @@
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it"
+      }
+    },
+    {
+      "id": "e752f73f8872",
+      "title": "Mal di testa ed emicrania: «Con i nuovi farmaci migliora la qualità di vita del paziente» - La Provincia di Cremona",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdS1HVmNsVWhvLTdIa1NCa0VjQjUwOW5fc0Q3M1VRckFUelZPdVpYUW5lU3JiejY4MHd1b2FjS1k3MVBSSUozeTJrUTY3Q0s5ZWRtYWNsZDlldFVHSktSYXFRY0Vib2dRQ215N1FybFViMlowSG9hNXNROTBPd1ljcUZkVXhVUkRQWXpsemk5M1dFekRWbzR2Qk13RUtQMkVNSXFrcGdpMDdtY19NNlRHT1I4bHJ1dEVtSnZ1WHFJT3RFQ2o0OVlMRG5XVTlwVFNOSUtxdUVMd2k?oc=5",
+      "published": "2026-06-18T03:27:16+00:00",
+      "source": {
+        "name": "La Provincia di Cremona",
+        "url": "https://www.laprovinciacr.it"
       }
     },
     {
@@ -794,16 +824,6 @@
       }
     },
     {
-      "id": "f635ce9a9ff7",
-      "title": "Teva Italia, con farmaci equivalenti 1,16 miliardi di risparmi per SSN - pugliain.net",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHliSVdxN08wVTJlM2drajFPMVRpNUxSaXZDTkpKQzNxLUtEUHJ5VURSaF85T1RvRk11LUprSXlQYS1SeThmWTFWb01FNjRuZjhVWVJPTENPNmZhNzF6TXNpeTh5QUpSZHAtWTY4aTMxVzdralVSSkRXcTJNZW9NdjBDUTV6aGdVM3dJWkcyeDdBbnpTUjNNU0Jn?oc=5",
-      "published": "2026-06-19T07:47:27+00:00",
-      "source": {
-        "name": "pugliain.net",
-        "url": "https://www.pugliain.net"
-      }
-    },
-    {
       "id": "20fe85bb2769",
       "title": "Pangea XVIII, dalla maxi operazione mondiale duro colpo ai traffici illeciti su farmaci e salute - RIFday",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanVfMGFZZ0RVZlZIbTJMVHNGWjhNR0dIQWR4ZXhBN093RG5zOHlISE1aMGlUNTdkTkdkYldtRG9BRWhYSnUwejlfX2dhSF8zemppS3BuTHJWdFNvVlJQLVNtbW9rbWVxM2o0bTBUQUdPRVJwUmRmc0hRRzhWdkRDamJJUHZXaUZBSkdqemlzY0czN09DZWFQTUZUT0V6djg2TE5DWnRUcmMxZEdnSVM5dHBYNV9US3J2VUg1bUdIZ1hQMzlPQzMwZA?oc=5",
@@ -811,6 +831,16 @@
       "source": {
         "name": "RIFday",
         "url": "https://www.rifday.it"
+      }
+    },
+    {
+      "id": "f635ce9a9ff7",
+      "title": "Teva Italia, con farmaci equivalenti 1,16 miliardi di risparmi per SSN - pugliain.net",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHliSVdxN08wVTJlM2drajFPMVRpNUxSaXZDTkpKQzNxLUtEUHJ5VURSaF85T1RvRk11LUprSXlQYS1SeThmWTFWb01FNjRuZjhVWVJPTENPNmZhNzF6TXNpeTh5QUpSZHAtWTY4aTMxVzdralVSSkRXcTJNZW9NdjBDUTV6aGdVM3dJWkcyeDdBbnpTUjNNU0Jn?oc=5",
+      "published": "2026-06-19T07:47:27+00:00",
+      "source": {
+        "name": "pugliain.net",
+        "url": "https://www.pugliain.net"
       }
     },
     {
@@ -861,6 +891,16 @@
       "source": {
         "name": "Il Fatto Quotidiano",
         "url": "https://www.ilfattoquotidiano.it"
+      }
+    },
+    {
+      "id": "20e6f0e96a6e",
+      "title": "Un generico di Norwich minaccerà le vendite di Roche negli Stati Uniti? - Startmag",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHM1TW83OF9qdzkyWlB1c0hHcXZMMWRkeDhYZHJFX1JGYnhYZzdfZm4wanpqekhEdUhjQTY3WC0zV2NOaEJnOG1seXVOcVVUNWFXdGpFeVpObFAwMTZYQ2xJTHd5ZWFBMkk1X1VLTUdteVdDMjEzdVJFV2szQzFhenNQcGh0NHZ1aGFYRkQwZUNMT1dRT0J0eWZ2VVJLUWRqNC1FRQ?oc=5",
+      "published": "2026-06-18T14:07:00+00:00",
+      "source": {
+        "name": "Startmag",
+        "url": "https://www.startmag.it"
       }
     },
     {
@@ -954,16 +994,6 @@
       }
     },
     {
-      "id": "9276df99738d",
-      "title": "Tumore al pancreas, un nuovo farmaco sperimentale aumenta la sopravvivenza. Lo studio - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzQ0ZUFSRk43b21RN2tXd2I0amNKRjd4Q1h2Y0t0UWFFdnpiLXhfVmRNSjVKNGt6eFdkQ0FMSmVEVW42bGtwNjZja0g0UnMxQ0ZsR2hwQm5MYjZkbjJGeGdFX1NNeGtpdXRjaXpzT242S2RIS1NvWFh2dGY3RzdSOEhXRWk5NHhyTmlyTXFhb2FNckNkUmFKaQ?oc=5",
-      "published": "2026-05-31T07:00:00+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "4a39ce0bb5c6",
       "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - cittadinanzattiva.it",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTVucndWN3daZTF6NHZPN2VSdW1idVUzMmpwbEhFQ3FKLU1NVDVnX1Vlbkh6bVFhM3RmZlNSc0VhaVhzdWQwZUgyb3NiQkRZcG9RVkNXc0E3S05ITHdVQnlnOVpnOG1Eck92SmFYTFlwcEVQWTFPek9JTXVnaWFydzJQNGRJM3hrTF8wbTd6V09QMzVIdnVEd29ETEROLW94Mko5VVhHQVJVQmZjNFpmSEJWU3JwUWVNYjYxV25KMXdCeWRNQVNR?oc=5",
@@ -971,36 +1001,6 @@
       "source": {
         "name": "cittadinanzattiva.it",
         "url": "https://www.cittadinanzattiva.it"
-      }
-    },
-    {
-      "id": "f320be7b6d06",
-      "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
-      "published": "2026-04-27T08:55:12+00:00",
-      "source": {
-        "name": "INNLIFES",
-        "url": "https://www.innlifes.com"
-      }
-    },
-    {
-      "id": "25e1ac2ad2e4",
-      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": {
-        "name": "European Parliament",
-        "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "87463bcc603e",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     }
   ]
