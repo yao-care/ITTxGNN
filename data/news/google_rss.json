@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T21:59:10.473111+00:00",
+  "fetched_at": "2026-06-20T23:09:26.692502+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "46a360ab945f",
-      "title": "Sanità, i malati sono le prede più facili: la mecca dei farmaci del diabete e dell'obesità violata dagli hacker che chiedono 25 milioni di riscatto - Il Giornale d'Italia",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONHRseVRJX2NBTS05Y3pMQktmcUFTUzdoVHA5cGpYcWJmUEEybjdhTlNRTEZEdE1hZHU0alBVazdobVh1QW9xcVUzSS1zWEJBN3Jha2Rqc2l6RGFQVHVWazJCeVVHN0VGOTVwSWIycUx1dUpuV3kzN2ltMF9iMHFJUTFjMDBPa1RkNlg5WTExTWFrN2U2NzVyQ2RsRVh2amEzSmZzZFhSendEWHlDS1Z2X2U1QWVqY2xRM3JDMVdldDFxUWRQU3hKS2h4Y1g2Ti1VUjlwMENiUS1MQ2JzOFI1NEZnN0lRNFJRQ0RjeXlZcEZLaWYtX1BsQnZXT1hYaHdpend3MG1MVU91QTRDam10clZOQmRyYzhRUW9FZV9YVmJubzR5NFM2NER3?oc=5",
-      "published": "2026-06-19T10:21:38+00:00",
-      "source": {
-        "name": "Il Giornale d'Italia",
-        "url": "https://www.ilgiornaleditalia.it"
-      }
-    },
-    {
       "id": "3be09048b9d3",
       "title": "Con farmaci equivalenti Teva in 4 anni il sistema sanitario ha risparmiato un miliardo - ANSA",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaFp6ZjJHRHdTbTNCNzhFcU4yRjRFZWtjMkVZaFF2elVZeUZrTzZxTEJ0elE0R1dvbEctYWgtQWVtVkxjb3BNYktIUXRjVnk3OE1BTU1WbGJ6akFjQThPcm1KeXN4WHVaWGQxZGdJVVN4YUh4NnlYSl9JWlFqUFpaLW9QVTNTc01OakFOemIxdzlvWHJmM2N2eE50UWQwRUdmdmgtekhVbDBNTWtuZlJqNXN0OWdoNDhQMTN3aDc2MkZ0a0U5NlN5eGxlOU4tSWFJNUVZWFFicS0yS2hyRTlqQkRfUVFWaG1hTVZSWm5PRFpaX0doUTJJQlMwSjQyVnZpWU1mRDZBb0RXWU1LOXRXMWlrTjB2ZVJfTlZzVmhHQUdkSWxKTS12cUtXSVU?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "46a360ab945f",
+      "title": "Sanità, i malati sono le prede più facili: la mecca dei farmaci del diabete e dell'obesità violata dagli hacker che chiedono 25 milioni di riscatto - Il Giornale d'Italia",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONHRseVRJX2NBTS05Y3pMQktmcUFTUzdoVHA5cGpYcWJmUEEybjdhTlNRTEZEdE1hZHU0alBVazdobVh1QW9xcVUzSS1zWEJBN3Jha2Rqc2l6RGFQVHVWazJCeVVHN0VGOTVwSWIycUx1dUpuV3kzN2ltMF9iMHFJUTFjMDBPa1RkNlg5WTExTWFrN2U2NzVyQ2RsRVh2amEzSmZzZFhSendEWHlDS1Z2X2U1QWVqY2xRM3JDMVdldDFxUWRQU3hKS2h4Y1g2Ti1VUjlwMENiUS1MQ2JzOFI1NEZnN0lRNFJRQ0RjeXlZcEZLaWYtX1BsQnZXT1hYaHdpend3MG1MVU91QTRDam10clZOQmRyYzhRUW9FZV9YVmJubzR5NFM2NER3?oc=5",
+      "published": "2026-06-19T10:21:38+00:00",
+      "source": {
+        "name": "Il Giornale d'Italia",
+        "url": "https://www.ilgiornaleditalia.it"
       }
     },
     {
@@ -144,6 +144,16 @@
       }
     },
     {
+      "id": "d696c965b1b3",
+      "title": "Nuovo prontuario terapeutico, rischio stangata da un miliardo sui farmaci - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW5xZkgtWE5KaTlQN19HZTByMjJyYloxWXRKd2ZlQ3c4UmgyblM5WVFaTmtTeHRLak5PdExFU3BiNmY3aG5ZYzItYU5sWHhKLWhEeTRray0xR0pITmxqakJ0eFJSYzJoR3RIU2FfdjFab2pxU3dUQ0duRXU1cElwSDJ3dUZRMXFaT2VYdzRIeHZOV3ZHVXNiMUtLb3hydUxYVWt1NDVuYmxEYVVzTG56a1pDdFJsYzhId1BGYkpfMXBNZ2JzZ0JNdnBB0gHPAUFVX3lxTE4tZl9IX0tWMTBTbE9kMXRWNmN0VENpNEV2YUplam5KSW1SS3JTYzM3MkoxZThZMGxqbXJOWE1lNnVtb1Uxelo4QnVhQkk2cTVLY0dnRXpGNXBvMUpNRC1QcDlvZWVGb2pPLW14bGFQSWF5OGw5TVJDZGlxZnNoMExXOFhUZlRYQWVjNkcyY3Zpc3VCa084TGNiSkFWT2NMV0Z1UTNSYkZ5dDVvR3VyeEprUmRzaTNQQVdPUWxOODlRNE9vdjNpRGRPU1NqVjlQSQ?oc=5",
+      "published": "2026-06-20T23:00:00+00:00",
+      "source": {
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
+      }
+    },
+    {
       "id": "936d5c3476fb",
       "title": "Estensione del monopolio sui farmaci divide i ministri UE sul Biotech Act - Euronews",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOempmZ0ZtbGF3TG8za2hQdkVyLVpsNkVlLXRzSWplSzlyZFQxeXZqQ0V6eUxDQ3Y5SDExSWVDaW4wVURLVEhvZUdSTDNRazJFZEdQdTdhM2FIeXp3OUFHRG5oNVNmUjkxbnoyS2Q2dUNEVHd1WjctRVd0QU1WQTM3TTd5bDBQbFI2ZTBPalJIQWlickFtVGZwaFFyTTlBWXVqaTZ4bVZLQjJEeEhTc1hNc1RyZXlyQQ?oc=5",
@@ -174,23 +184,13 @@
       }
     },
     {
-      "id": "60fd731202fd",
-      "title": "Non solo dieta (o farmaci): come combattere l'obesità con l'esercizio fisico - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOElzWUEwUnFTX0pNLTU5U0Ixbk8xLW5aZE9pX1N4NVhvREFFYXNkMUstVVFuVkxqNFlqSmFlckFrSDFPLThaSlJzX1ZyZW9zaVpLSHl0ZWFRVHEyNUNNVDNSMURWUVZCeV96VHNrcUpJMGZVM01LUkZYSU5iTV9PTnZtM1VHVlNyZHEyem84RS04ZDZNUVZzLU00QXpzVllySHRONWtSeVFwWExO?oc=5",
-      "published": "2026-06-16T14:10:02+00:00",
+      "id": "72da7a4b37fa",
+      "title": "La meditazione può sostituire i farmaci per l'ansia? Ecco cosa dice la scienza - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNpZ3J6eDZzbldSTDhKb0ZOaS1yMzgyX25UZ1pGY3E3dndNc2E3dlc1ZFRRNlk1bUVIczlGUktnVEJfSTYwZXdZNU5HYXAwNlhiaEJxWmlSNHRZRW92VTJ1TjhJcVFLMzg1U3FKYjNxSGtKQWZYVGY3NHRaZGNQU2dzLWVCSERtZ1pZMDNvQ1A1R2FqZUl3c0xIaEtpRkFRT3VYWWdSNUsyYWFpTmc?oc=5",
+      "published": "2026-06-19T08:03:30+00:00",
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "ee34bda09a50",
-      "title": "Locker per la diretta all’Asl di Parma, diffida da Federfarma regionale - fpress.it",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUE2OG8zajlEcjNPR1BwZ2tWTUNGMEFhOVJ6UE91ZGNFYTltYkhMSTdmUGItTHQtTEIxcTZmYnVFek5Rdm10T0xRal96M3lhMFA4TVN4VUlTQU05QzBNYU11alBuMlF3Z25Qc21lNDY5V3dKUEhOcWthTmx4RGYwUjh2Wngyay1DTk9LRl94U1hpZXFqRjdwQ0FiYUxVbW93SllBdHVTS0gtdw?oc=5",
-      "published": "2026-06-20T09:40:59+00:00",
-      "source": {
-        "name": "fpress.it",
-        "url": "https://www.fpress.it"
       }
     },
     {
@@ -204,13 +204,13 @@
       }
     },
     {
-      "id": "8292048bd689",
-      "title": "La meditazione può sostituire i farmaci per l’ansia? - Dottore... ma è vero che?",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aOWozVXRSeHI3OW9FY2tBWmVvMUV2M3dXeUNLQ0dadHBlVXAzTENNeDRSZ0oxUHN6cFJzVnpDVGY4X0JjeW9Hb095YVJ1TGdUbjVlT18xYlNIcGZGbU5QU0pCR2lfeHlQcmdtVnRRZkZ4RFRsRjZHdnBLeEozNE0?oc=5",
-      "published": "2026-06-19T04:36:24+00:00",
+      "id": "ee34bda09a50",
+      "title": "Locker per la diretta all’Asl di Parma, diffida da Federfarma regionale - fpress.it",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUE2OG8zajlEcjNPR1BwZ2tWTUNGMEFhOVJ6UE91ZGNFYTltYkhMSTdmUGItTHQtTEIxcTZmYnVFek5Rdm10T0xRal96M3lhMFA4TVN4VUlTQU05QzBNYU11alBuMlF3Z25Qc21lNDY5V3dKUEhOcWthTmx4RGYwUjh2Wngyay1DTk9LRl94U1hpZXFqRjdwQ0FiYUxVbW93SllBdHVTS0gtdw?oc=5",
+      "published": "2026-06-20T09:40:59+00:00",
       "source": {
-        "name": "Dottore... ma è vero che?",
-        "url": "https://dottoremaeveroche.it"
+        "name": "fpress.it",
+        "url": "https://www.fpress.it"
       }
     },
     {
@@ -234,10 +234,10 @@
       }
     },
     {
-      "id": "d2d43df52f69",
-      "title": "Farmaci equivalenti: una sfida da 1,1 miliardi per il sistema sanitario - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUpkN0FrWEpGRnp2U05HaFctMmU5N1V3Qmk5TjByT2ljWjlyMGtJYmlNbTJxWkExelJMVVJuODVvYWtDOUx5b2ZXM0pzVlRBd09Mb0xpa3JfM29DbDNOVnRXMmVmRzZKbDh6RmduTGxGS3NGRzJTM0RxWmQzUUxqRm9aSUxmUWpaNTBBMWpoSkltUDJXQkVmcFVtYzlhTjl0?oc=5",
-      "published": "2026-06-18T15:18:56+00:00",
+      "id": "60fd731202fd",
+      "title": "Non solo dieta (o farmaci): come combattere l'obesità con l'esercizio fisico - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOElzWUEwUnFTX0pNLTU5U0Ixbk8xLW5aZE9pX1N4NVhvREFFYXNkMUstVVFuVkxqNFlqSmFlckFrSDFPLThaSlJzX1ZyZW9zaVpLSHl0ZWFRVHEyNUNNVDNSMURWUVZCeV96VHNrcUpJMGZVM01LUkZYSU5iTV9PTnZtM1VHVlNyZHEyem84RS04ZDZNUVZzLU00QXpzVllySHRONWtSeVFwWExO?oc=5",
+      "published": "2026-06-16T14:10:02+00:00",
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
@@ -251,6 +251,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "d2d43df52f69",
+      "title": "Farmaci equivalenti: una sfida da 1,1 miliardi per il sistema sanitario - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUpkN0FrWEpGRnp2U05HaFctMmU5N1V3Qmk5TjByT2ljWjlyMGtJYmlNbTJxWkExelJMVVJuODVvYWtDOUx5b2ZXM0pzVlRBd09Mb0xpa3JfM29DbDNOVnRXMmVmRzZKbDh6RmduTGxGS3NGRzJTM0RxWmQzUUxqRm9aSUxmUWpaNTBBMWpoSkltUDJXQkVmcFVtYzlhTjl0?oc=5",
+      "published": "2026-06-18T15:18:56+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -324,16 +334,6 @@
       }
     },
     {
-      "id": "78a8579e24c9",
-      "title": "Ozempic & co: i farmaci agonisti di GLP-1 possono avere effetti sulla salute mentale? - Il Fatto Alimentare",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sR3llYjB5Wnd4c0xDV1ktc2YwS1pvU0F0S0ZxWWJVWWRrYW1BbGowcGRnbWlxb25BOU53OV9SQUR6WGdVblA2R0t3b1lvUXlteEFCaFAxQVdlQnpoeV93WDNyWFVEVTVNYndHU21YREdDdEo2UzNtMHVB?oc=5",
-      "published": "2026-06-15T09:11:56+00:00",
-      "source": {
-        "name": "Il Fatto Alimentare",
-        "url": "https://ilfattoalimentare.it"
-      }
-    },
-    {
       "id": "7524b3950cc7",
       "title": "Farmaci: spesa Ssn sfiora i 25 miliardi, sulle aziende scure da 2,3 miliardi - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFVCcmJLQkhDUmhRRjB2X09nTU5ZRGozc1FOZllheDVPMU5jb0c4NW5YbUw2X1o4WGdoN0FIQUdfR2RIaDRvajdIbEQ4Y0ZjT3ZyakkzOU5FbmdfbDBBZy1lZ0lWWVQyM2wwRUE4Wkc3b0JhZ1Fic1RJRUZfaXdCOUswVjByNHAxTnhLMzFOeEswaElYQmk5M2k1WWYxZHZqU2NJSWtR?oc=5",
@@ -344,6 +344,16 @@
       }
     },
     {
+      "id": "78a8579e24c9",
+      "title": "Ozempic & co: i farmaci agonisti di GLP-1 possono avere effetti sulla salute mentale? - Il Fatto Alimentare",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sR3llYjB5Wnd4c0xDV1ktc2YwS1pvU0F0S0ZxWWJVWWRrYW1BbGowcGRnbWlxb25BOU53OV9SQUR6WGdVblA2R0t3b1lvUXlteEFCaFAxQVdlQnpoeV93WDNyWFVEVTVNYndHU21YREdDdEo2UzNtMHVB?oc=5",
+      "published": "2026-06-15T09:11:56+00:00",
+      "source": {
+        "name": "Il Fatto Alimentare",
+        "url": "https://ilfattoalimentare.it"
+      }
+    },
+    {
       "id": "ea0bfebf87bb",
       "title": "Farmaceutica: Vasiliou (Bms), '80 farmaci innovativi portati in Italia in 80 anni' - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2VLWDduVkxtWVRkWjQ1QS1CMmd1WElidDYyWXNVWXJBVGtaQVYzcmJQS0NRQ0lsb2JLaHBaSUhWcHY0cDZPWWpXMnhiVHRsMXJWTUhUbzItYnhTYnhkYUY4a3VQcEdWVHcwX3EzYmZQUlhQVVYydGpzeWE1SW9Ga01pT2VLcWhaVENpY0J5VGJpME5yRmIybWNySXE1RHdyVEh5V1hfVmoyWU1SVWVNejhGRTlVTmlidjFVcnhLM1JGUGtDZUZUcWhwU08?oc=5",
@@ -351,16 +361,6 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "b8d87406610a",
-      "title": "Farmaci antitumorali e cardiotossicità: via al progetto europeo COMPASS guidato da Gemelli e King’s College - sanitainformazione.it",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUQ3ZEllMy14UVlNTndFb2dRTlYwUG9OdndNbnJuWU0wZlIzT2FtSWZjM2FCMVRGeGdWUFM3QUxQMTV2SVVweVhfSnEtaTFRTGtxWjg4YzZkMDVnclUtNm5SenhZRldLc0ZWaUM3SDl2eU1tOE5qRGJsR3RrVkxiN0xUUjIzR09PTVlFOGxnbWdENFBiNFE2R0N1VlloWjBtT1daU1ZabXU1ZEl4UWVFWVdXVG4tZVlyc2xHYVV6T3VYLWpsV3JrQWhQb1ZPRlg1d1N6SHFkZw?oc=5",
-      "published": "2026-06-17T15:04:00+00:00",
-      "source": {
-        "name": "sanitainformazione.it",
-        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "a1eeaad5a63e",
-      "title": "Salute: l’algoritmo del profitto sulla pelle dei cittadini - Pressenza - International Press Agency",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTFndy1lZGtGUnN2QU1zNlExVW1ydzBmZFZPS3lrbXk4TEhGbFdMQjU3cXlubjBiVXNOVkFnMWI3SmhnaFFWSTRfalFQYS1GNzZ2VmFyVWhpY29wYjFRZTRJbmJBSHNIMGx6U0FxeVlGRThyRmFVSk4tWmZOZGRYRlp3UWpYMWpMYUI0R2VhRV9WaTFQNVZ5VW1n?oc=5",
-      "published": "2026-06-20T16:45:17+00:00",
-      "source": {
-        "name": "Pressenza - International Press Agency",
-        "url": "https://www.pressenza.com"
-      }
-    },
-    {
       "id": "e7b970aa57f7",
       "title": "Cos’è il Penthrox, il farmaco inalato da Koné dopo l'infortunio - Men's Health",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2p5bVUtTmtDcXNTd3ExX2pFaHdmOElCVFgwVlplNV96THBJblNHR2xoS3luajk3bnZ5a1RpT1RGRktpd2c3M1NBRV95Ymd5LXd3ZWxPTXhKblZxQW0xUkdnN1BVYU9wdFpnSzR4TzNzTndoVVdvWHNKVkRycERZYVR2SGdNZnZXd09QdQ?oc=5",
@@ -904,16 +894,6 @@
       }
     },
     {
-      "id": "7b0203116889",
-      "title": "Aiom: “90% oncologi usa accesso precoce a terapie, rimane nodo burocrazia” - La Ragione",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONC1xanZxVDdCc21TWFVaaWNFTmJXYmExUGVVdHgtMXpNTUxjeUltTWtXN3JYM3VzUG43TzhYTVB5cnBuMk5CNHhpdFZHU2R5eUt1cW5tSWo5b0l3QVR3aExHX21SNzFQeEQ5cEVrRWFOak54RDB5ZmJVTVVfZFFBQmxfRlJNODQyQW5TOVE1RWxyMWE4dncyR0d4X09RdlI1MzM5TVIzQkczai1SR1BWdTg2azRKa0JOY0xtVtIBxAFBVV95cUxQb0RTckpTLUF6SU9vZXlULU1adTZJWC04c1VvQUFMVkg5RlRtbFZHTlVrcnZaZk5ETEt4WkdiaEFPc0M0SjJ4Z1dkQUkxTElMenFvTGl6dTlMelQxQ3czQ0dNM0xJM25pQVhPRU5vUWNTQ2w2TVh0R183NnlxRVE1bi1KcVNrRkVoeDJvWDVIVHdlR1BxaTZUZEtvZnFZUXBuWGt2TXB5Y0hTWHNIdWI2MDM0OWEydUUySkpXbndXbjBSd1dt?oc=5",
-      "published": "2026-06-19T16:04:57+00:00",
-      "source": {
-        "name": "La Ragione",
-        "url": "https://laragione.eu"
-      }
-    },
-    {
       "id": "9679accf030f",
       "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
@@ -1001,6 +981,26 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "be62539f6dfa",
+      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "source": {
+        "name": "My-personaltrainer.it",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "6eec9b1d3d53",
+      "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     }
   ]
