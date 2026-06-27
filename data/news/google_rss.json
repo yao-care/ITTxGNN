@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T22:53:45.384236+00:00",
+  "fetched_at": "2026-06-27T23:53:45.784301+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "cfcaa190a33a",
-      "title": "Caldo record a Torino, attenti ai farmaci: l'appello di Aifa e Federfarma contro gli sbalzi termici - Torino Cronaca",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeV93R0pNdHQ0cDZSNF9yN1ZwLWhna2g3OWxVWm9LbXMwaE92VjhZSjN4SmtDYUlkaTQ5dEVaVmhVX08wOGdzSE5KODlHal9RSzZpdU9FZDM4Z2FaZDVpU1R4d0NfZENfUjhyNEZ3YTFYZWN0MjUyNW1IS0k3Qy1HMWE1WXoxRmFyMEhTbjJ3RXVUSnBWdHo3RVh3d1dKZ3UyeXJzQWgyWmtDXzlJZ0RONDNUcl95WTBlN3hSZnZJOG5MWEdDUGNoMmZwMVhELVJOaTk3VHczOTRvN3ZKZG5FV0RENGtDZw?oc=5",
-      "published": "2026-06-27T10:00:00+00:00",
-      "source": {
-        "name": "Torino Cronaca",
-        "url": "https://www.torinocronaca.it"
-      }
-    },
-    {
       "id": "6a13b745f7b9",
       "title": "I farmaci \"possono diventare dannosi\" a causa del caldo, l'avvertimento (e i consigli) dell'esperto - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNEFNM3V2Zm1qU0Y0R0xhSzhjaFZ0a3dVTkdJLWpjRWRCUHh1NWRUWVd1Z2JtODMydUdXQlkyelFtVms4ckF0OWtVVmtfUjM3UXZUaHpWU0VYQU9CQjdsTFNIYTJhb1ZIZGJmODZtNUFaVEY1akRfNGl0enBCZFROQWNjZ2xRTjZBNmh0WS1fczNMbGNoa0hYc3hLRUs?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "cfcaa190a33a",
+      "title": "Caldo record a Torino, attenti ai farmaci: l'appello di Aifa e Federfarma contro gli sbalzi termici - Torino Cronaca",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeV93R0pNdHQ0cDZSNF9yN1ZwLWhna2g3OWxVWm9LbXMwaE92VjhZSjN4SmtDYUlkaTQ5dEVaVmhVX08wOGdzSE5KODlHal9RSzZpdU9FZDM4Z2FaZDVpU1R4d0NfZENfUjhyNEZ3YTFYZWN0MjUyNW1IS0k3Qy1HMWE1WXoxRmFyMEhTbjJ3RXVUSnBWdHo3RVh3d1dKZ3UyeXJzQWgyWmtDXzlJZ0RONDNUcl95WTBlN3hSZnZJOG5MWEdDUGNoMmZwMVhELVJOaTk3VHczOTRvN3ZKZG5FV0RENGtDZw?oc=5",
+      "published": "2026-06-27T10:00:00+00:00",
+      "source": {
+        "name": "Torino Cronaca",
+        "url": "https://www.torinocronaca.it"
       }
     },
     {
@@ -164,16 +164,6 @@
       }
     },
     {
-      "id": "0f72dfdd5787",
-      "title": "Farmaci da portare in viaggio, ecco il kit da tenere in valigia: cosa metterci - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNy1MYVdvbEttakgxV2dzRm4yZ0tRaEZXVHQ3MkpvVWQ2NTNieWo2MUR3UWV0M043RVo4Y2ZjT3NsclBIdW5TWjJscDUxUndtUVkxNGJMclFFcmlJaXlJaFlDcmZKRWFFSWdDZjRQOVRueF9ValJmM25Bb0lzV2NZcW9DU3BwYWhub1dCamk4NTI2WURacldYenhQVjViT21XdFBHSGln?oc=5",
-      "published": "2026-06-25T07:04:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
       "id": "fc1033f46800",
       "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
@@ -181,6 +171,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "0f72dfdd5787",
+      "title": "Farmaci da portare in viaggio, ecco il kit da tenere in valigia: cosa metterci - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNy1MYVdvbEttakgxV2dzRm4yZ0tRaEZXVHQ3MkpvVWQ2NTNieWo2MUR3UWV0M043RVo4Y2ZjT3NsclBIdW5TWjJscDUxUndtUVkxNGJMclFFcmlJaXlJaFlDcmZKRWFFSWdDZjRQOVRueF9ValJmM25Bb0lzV2NZcW9DU3BwYWhub1dCamk4NTI2WURacldYenhQVjViT21XdFBHSGln?oc=5",
+      "published": "2026-06-25T07:04:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -194,16 +194,6 @@
       }
     },
     {
-      "id": "65a50122e8c3",
-      "title": "Ritiro farmaci nei locker: cosa dicono la normativa e le indicazioni del Ministero - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1pXZHVSQ2JMbWRaRlducGExUGdicVpES1dqTEJVR1lHdHg2MktTaEozdVJMSnVHOEJJREQ5MVZlMG1OdlFVb1NPb0pEUzA2RVM1TmFRb05welV3ZDV4YWM3QzFHcWRLeUY3YWs3MjN6YU54UVhSNzhCZG5wNEZnU0d1Z21acml0by1ieS1nWU9UU2NlSWpXOExyRk5ra2FuWHNXclB4dGpGXzU3NjI4THRMYlNGOU9JOTJ3aUF6dWVhZm55cDNONm1wc21lWW5iR2hKaW96TGNGQU5VaTZ2RE5B?oc=5",
-      "published": "2026-06-24T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "bc4e3fb8de5e",
       "title": "Emergenza caldo, l'avvertimento del professor Garattini: «Danni al cervello, limitate le uscite e occhio ai farmaci» - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzRfclR5bTQxclJUZWhqWW9td2Y0bksyRnNLc2c0NnphR0h1bzEtNWV3OVAxeUROTGdvbmZycmpzVW0xQk12ZkoydGN1bzBxb2JxTG1mclVpUldoVkpKcVJvMGJINTIxSWlPdUlqclVjYmdjODh2VDU5XzBKZFRqRU5qeEpPWC0ybGpEdWl5OGRkUjJkSmI1NGs5MEE3V3B6aUcyVmZ3SzBqQUxrVGttVkRfQ2NCY0p4dVNaRENJUGhqMGJGcXFZS29tZlU3Z9IBwwFBVV95cUxPd0RxZlBNS09lazhEYW1VTDFpWVNaanB1TG90cDh5MFZTNG1iLVBzNjhGY1BhZE92TklxWWZlMThEbnllaWV3ZG9nbHdQQUdzdDdTX21TWmx6NlBJX1dwUGZVNUlyWDVUOUI0dUNfSDZNWTh4WVZXZnVzTHo4TFRSOXg2SWFPNjFBRTVBWHZDN0IwUzhBdE9WaDVaYjV3dlRKakltdmpYQkxOR2lSNjdwa1pXd0VpTmljamFoSllTLTRUeFk?oc=5",
@@ -214,13 +204,33 @@
       }
     },
     {
-      "id": "467274eddb68",
-      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
-      "published": "2026-06-27T16:50:00+00:00",
+      "id": "e2025f36dd60",
+      "title": "Farmaci. Con il caldo possono diventare inefficaci o dannosi. I consigli per conservarli al meglio - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWNlb1d2Y1RLTG1kSWZpc3RfcU9qcV9qMVRyRzY3SFNiekNlcHVHMzFYazR4NmlWWEFYZDFHRFBVbHZJeVhqU0JKRjU5SG1hbjc1dDNiS2NHODFzYm5NaUJaNzN6dUd3X0lvZUpjTnhiNTRRcURZR1lOVTdPVkJVWEZXQnM3QQ?oc=5",
+      "published": "2026-06-25T10:30:40+00:00",
       "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "a23375da34fd",
+      "title": "Industria farmaceutica italiana: export record - socialfarma",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSG5QajhibmNhR3BvMl9BMzlwa2tnd3BvUEt4cElBNmlaNms0Y3lKM3ZrNGNNbi1FTmFpLUZaVHhWaC00WXFEUGNsaHdrYUl5Z2ZvRk8tSEdyN3c5TFhqc3M1WDdVTmR0dGY0dGN1N292b3Z0MHZPd2JLMV9EdVlxU3k2Qm1Dd1FMMWJZOEtfZkZhXzlsRlhpdkpkUGU1TTR1VXcyQkJSRThfZjk3aXJCLXlmRThlQ05JdUV4OUxuTnd1NXEzY3FaZXdVVQ?oc=5",
+      "published": "2026-06-23T10:20:12+00:00",
+      "source": {
+        "name": "socialfarma",
+        "url": "https://www.socialfarma.it"
+      }
+    },
+    {
+      "id": "f5166d5861c0",
+      "title": "Farmaci a uso umano: distribuzione diretta e per conto - Salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
+      "published": "2026-04-25T14:55:37+00:00",
+      "source": {
+        "name": "Salute.gov.it",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -244,16 +254,6 @@
       }
     },
     {
-      "id": "c99918c278e9",
-      "title": "Farmaci. Con il caldo possono diventare inefficaci o dannosi. I consigli di Fedefarma Verona - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDhjWFM0aF85SjZkNFQzNDhFR24tdVBZN0JaaGJ2RFV5RklUMkZ1ZFpFd05pZy1RakNKUXJCODRqUkdwQUtDYjFoNFE5N25MSFJUV3IzUEVpM3pfUUFndFRSRjFIUlJlby03YnBaSTRPME1PQXFZYUF6dmlRZk5lcldqTmZGYjdQQ3lSS2tYcFJ1dVNOdWUxNmx1YndsQUZOSFdzOTJxSHJZc1FGdGtYZTROdDEtd0JqQWVxTXpPTmEtWVFnbEZadVdkalQtN1lnTVJN?oc=5",
-      "published": "2026-06-25T08:36:47+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "5522b3e31e36",
       "title": "Come il caldo altera i farmaci: cosa succede davvero e come evitarlo - My-personaltrainer",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkNqOGxoREJUZG9KV1lUR1NzTUw0Nm5GOVd0ZGFhZnFhTVlNVkZDTWpKdFEtRFh5ZjBmaUpQZFhveGZ1LWhVUlFzTTliendSUzd0RFJSZTBqT3FGdXg1V2lnbXo3OHBBRUNzdEZBSjBQVVEtbEFvX0d4UDkwQV8xckM0Nmw2Sko0U19HbDBsMUhsMEZtM05qa1AwRDdKTkI5c2NJUEVMZw?oc=5",
@@ -264,13 +264,13 @@
       }
     },
     {
-      "id": "f5166d5861c0",
-      "title": "Farmaci a uso umano: distribuzione diretta e per conto - Salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
-      "published": "2026-04-25T14:55:37+00:00",
+      "id": "467274eddb68",
+      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
+      "published": "2026-06-27T16:50:00+00:00",
       "source": {
-        "name": "Salute.gov.it",
-        "url": "https://www.salute.gov.it"
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "571f44c94df2",
-      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
-      "published": "2026-06-27T18:11:00+00:00",
-      "source": {
-        "name": "veronanews.net",
-        "url": "https://www.veronanews.net"
-      }
-    },
-    {
       "id": "4d896d90d1f0",
       "title": "Farmaci anti diabete e obesità: attenzione al fai da te - Fondazione Veronesi",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BudjFGM2h4NnNGRF9iUzhSLWUwN1RGSmlIOU1pbzgyLVlDQ2dYcW1KQmJBYkNiUC1ERkdhYmdTRFBUWi16VWRSNmdSTGVNSklsV0t3S2l5ZlpSRm14ZVUwZEhEVTlvR3JVckM4d2JFY094bFhZY1I0emIxSlpqXzhjSEVLd1VwWmVwaVpxWXVPRkM2SnZyVWgzVjc4N2hCVWtCYzY4MWFqRWlfSTU3RA?oc=5",
@@ -301,16 +291,6 @@
       "source": {
         "name": "Fondazione Veronesi",
         "url": "https://www.fondazioneveronesi.it"
-      }
-    },
-    {
-      "id": "ff2ff29cbcdd",
-      "title": "Sarcoma, ogni anno 5mila casi. Disponibili solo pochi farmaci - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkNwQm5LYVFKS0JUa25fY21qLWh6LS16dlJrSEV3MW9CZ0VyTWNnTkc4NXZmZk9sREM2NkJDVG1YSXowMi1tLVhXam5WOWxGNWd6SXRyZU1vTGhDMTZkR205WHFoWmdLc2RocGJadUswWjlHb3FpUWF2TURsSldVbXRsUE1WWmRpak9wRHh3?oc=5",
-      "published": "2026-06-27T08:59:40+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -324,13 +304,23 @@
       }
     },
     {
-      "id": "a23375da34fd",
-      "title": "Industria farmaceutica italiana: export record - socialfarma",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSG5QajhibmNhR3BvMl9BMzlwa2tnd3BvUEt4cElBNmlaNms0Y3lKM3ZrNGNNbi1FTmFpLUZaVHhWaC00WXFEUGNsaHdrYUl5Z2ZvRk8tSEdyN3c5TFhqc3M1WDdVTmR0dGY0dGN1N292b3Z0MHZPd2JLMV9EdVlxU3k2Qm1Dd1FMMWJZOEtfZkZhXzlsRlhpdkpkUGU1TTR1VXcyQkJSRThfZjk3aXJCLXlmRThlQ05JdUV4OUxuTnd1NXEzY3FaZXdVVQ?oc=5",
-      "published": "2026-06-23T10:20:12+00:00",
+      "id": "571f44c94df2",
+      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
+      "published": "2026-06-27T18:11:00+00:00",
       "source": {
-        "name": "socialfarma",
-        "url": "https://www.socialfarma.it"
+        "name": "veronanews.net",
+        "url": "https://www.veronanews.net"
+      }
+    },
+    {
+      "id": "ff2ff29cbcdd",
+      "title": "Sarcoma, ogni anno 5mila casi. Disponibili solo pochi farmaci - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkNwQm5LYVFKS0JUa25fY21qLWh6LS16dlJrSEV3MW9CZ0VyTWNnTkc4NXZmZk9sREM2NkJDVG1YSXowMi1tLVhXam5WOWxGNWd6SXRyZU1vTGhDMTZkR205WHFoWmdLc2RocGJadUswWjlHb3FpUWF2TURsSldVbXRsUE1WWmRpak9wRHh3?oc=5",
+      "published": "2026-06-27T08:59:40+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -341,16 +331,6 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
-      }
-    },
-    {
-      "id": "4def77178cd7",
-      "title": "Farmaceutica asset strategico per crescita e salute - FarmaciaVirtuale.it",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTEzam5adm9ucDBGcE85My1mSVhTYUN1SDljNHhLWUVpOUhwRGc4WUI5SkF3OGZNbFB5RGFReEtJa2tKcVlpRmZVV1FGSy1WdEpuV2dVMENLNGZSeTdEeVZOWVI4MkpWV3NmUllxRWhMVVFDMGhNR1ZjeFg0RUMyTG5lQnY1WW8?oc=5",
-      "published": "2026-06-24T02:25:00+00:00",
-      "source": {
-        "name": "FarmaciaVirtuale.it",
-        "url": "https://farmaciavirtuale.it"
       }
     },
     {
@@ -371,6 +351,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "0f4f7a9437fd",
+      "title": "Farmindustria, impraticabile per aziende riduzione prezzo farmaci - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0dhRzRKNVBzeFZlaHk4ZXRSVlZFSTlrRzlpemxMOG5XWVRXSWdzVk8tVXVVSDBLQ0lsemVUZTgxX2VXN3ZCMVo0T0xHY2FkSjFnWkl6bDRDb01QbURpajBJZjRQS1BsS1hvWEhJckphZzRBVEZxdnJrUk45V19ubjlTSjA4UzQ2aU1iWWFTVnZWU1htSDUyTkN1ejdZRWUyMUVjSjBjWTY1YTVsYi1zeHdNLThzbEhRckE?oc=5",
+      "published": "2026-06-23T16:57:15+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -424,16 +414,6 @@
       }
     },
     {
-      "id": "750ececb6d83",
-      "title": "Cuba non è sola: Rimini Ecosocialista lancia una raccolta di farmaci per il popolo cubano - Geronimo News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNERVSHduUnhua1JLNTZZWnVUTXdxc0p1bHVRTl8zZ1ROX1pmcmZvOHNLbmRjdnJsZGYwc2dIMFZ2T2JJSjR5UlpoLUJKaXJhRDJ2dGU4TEo0NW1nUVpkeG90SGZHSGlONUtuSk9wWU5FQzFITjFvM2s0WDFVaXR6ZnpjU3gwdzNMTFlJRHhjSDczT3E2dTBwYjU2YnNWQk5kNTZyVk1VQ1czOUNBbFlDbndpS28xOWRocUhTVENtV1F6SkYzWGY3b0FR?oc=5",
-      "published": "2026-06-27T09:37:00+00:00",
-      "source": {
-        "name": "Geronimo News",
-        "url": "https://www.geronimo.news"
-      }
-    },
-    {
       "id": "1bbda956eb2c",
       "title": "Da idratazione a farmaci, le regole per affrontare il caldo - ANSA",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONDB4SW9qMEp0SEFFX191MFhfblo2X1JfTWxnUzY4RkM1aEUyNVg2aFg4X3RzdEF6eUpqLUFOMVkwaUF4dzBJWE52UTJ4X2lfTDZqSXRMc3lnazd5MG9PSHdXbDRGNzV1azlTcmVfN3VOQUlZU3lwTWx0dlhJZnkxVTJWN2hYd2p3eUpJRUw2R0VCY05qV3ZSZkRjNE9UTDcxXzlsbW0zcVJrTU9xTFZRTDFXLVlVb3BIdGQ0cC0zNDZQTWxDY2N1S1kwTEZwWjFBQkpqQVFDLUxrVjlmdHBzeWVQT29QVG15VG1YVVlIeno5ZmVzYVdnX1FQakZsZ1hHc21GajQ3a2XSAY4CQVVfeXFMUEkyREZVVkV4dFBsSXk2OXdONXBReEZoTmxfS09YSDlHUG9qOEl2SzNsNkJTU3RCU0tkZkhKMmlhVkg5Y1VoZUdZTEFlVks2OGh2dDhGVjRaWkk5VVN0LU5FNnJLblpGSF9zaTNpdmt5c1doOURPTXNnOEF6SkJ2T1FJTmxpR3c4bTZUOWdfdEdVNkR1RlpoM3g4b0sxbUlma0Q3Y2oweVl2NW5OdzE3YWpPT01La3hrMFFZZ2pweU9PS09DWjYwYnRBdWVrQTYtZ3dYN3Vad2FmWjFEYXZtdTB0d3QzbTFJTGo0Y1ZsUlBnYVRUcDRHWlRqRUdDMVctcW44X3FVbnNGRVhjSDFB?oc=5",
@@ -444,13 +424,13 @@
       }
     },
     {
-      "id": "7c7d5550fc80",
-      "title": "La medication review di Verona modello nazionale - L\\'Adige di Verona",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZG5NaEd6REhLUkhrQVlDbS1rd3N3YVNQdExTNzRPYm5ZSHNEaG5PS0c3cWpIc2t1N202QXpGeEtBZHN4RnVMQnQxbC1iZ0pkTjg2WGNDQ0JJalYzRjQ1Z2ZhOE5EaHJBVHRoRzhldTRjTkda?oc=5",
-      "published": "2026-06-27T16:22:40+00:00",
+      "id": "750ececb6d83",
+      "title": "Cuba non è sola: Rimini Ecosocialista lancia una raccolta di farmaci per il popolo cubano - Geronimo News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNERVSHduUnhua1JLNTZZWnVUTXdxc0p1bHVRTl8zZ1ROX1pmcmZvOHNLbmRjdnJsZGYwc2dIMFZ2T2JJSjR5UlpoLUJKaXJhRDJ2dGU4TEo0NW1nUVpkeG90SGZHSGlONUtuSk9wWU5FQzFITjFvM2s0WDFVaXR6ZnpjU3gwdzNMTFlJRHhjSDczT3E2dTBwYjU2YnNWQk5kNTZyVk1VQ1czOUNBbFlDbndpS28xOWRocUhTVENtV1F6SkYzWGY3b0FR?oc=5",
+      "published": "2026-06-27T09:37:00+00:00",
       "source": {
-        "name": "L\\'Adige di Verona",
-        "url": "https://www.giornaleadige.it"
+        "name": "Geronimo News",
+        "url": "https://www.geronimo.news"
       }
     },
     {
@@ -464,13 +444,13 @@
       }
     },
     {
-      "id": "bc984d56cf6c",
-      "title": "Spesa farmaceutica. Ministero Salute: \"Nessun aumento fuori controllo, il governo ha aggiunto 1,4 miliardi\" - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFdlVW5wUUdmQ2dxZF8tU2JWLVRrVDBMUUNSMjJPbnFxOFpfbDNlQzNWTV8wRzVmRURVU3RGY0Y4NkVsVVZvamZwOEczTVY1RWIwR1pKQzNnTUVhcDJMSHlaMUs4Y0Rrb0J6OUp4bTRGMXFEeFItWnp1N211bVpJQUUzR1N1SVlQdVZaSA?oc=5",
-      "published": "2026-06-24T07:41:52+00:00",
+      "id": "13d7966c7c09",
+      "title": "Aoui Verona e il deprescribing: meno farmaci inutili ai pazienti - Daily Verona Network",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZV9fbTI4U0hKdHF6RlhuQTVzV2l5WG1adDdKUjFPOVVNRE1NcG5qaXpVdFIxRTJGVkhOV0xObjlPMVYyNzlkTFRhVTVQa0dBU0tZOXlDNWhIRXdvWWdVN2ZXd28xYjQxa1RjYmFlYmZwX1V2Z3BvbzdlNUEtSEg5cFc3b2cyVWNtMEsydWxGOUVRajFQd3dLWGxYN2dhem5jUFE?oc=5",
+      "published": "2026-06-27T09:51:30+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "Daily Verona Network",
+        "url": "https://daily.veronanetwork.it"
       }
     },
     {
@@ -481,6 +461,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "7c7d5550fc80",
+      "title": "La medication review di Verona modello nazionale - L\\'Adige di Verona",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZG5NaEd6REhLUkhrQVlDbS1rd3N3YVNQdExTNzRPYm5ZSHNEaG5PS0c3cWpIc2t1N202QXpGeEtBZHN4RnVMQnQxbC1iZ0pkTjg2WGNDQ0JJalYzRjQ1Z2ZhOE5EaHJBVHRoRzhldTRjTkda?oc=5",
+      "published": "2026-06-27T16:22:40+00:00",
+      "source": {
+        "name": "L\\'Adige di Verona",
+        "url": "https://www.giornaleadige.it"
       }
     },
     {
@@ -524,16 +514,6 @@
       }
     },
     {
-      "id": "399a86b301b0",
-      "title": "Farmaci Biosimilari: A Dieci Anni Dalla Legge 232/2016 - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2o4bU1TOTBsNXdUV25OUHFyak9qOTJxcUhlX21zaWJJQWVmQWNLWjJGWVBaM1c0d1lURUJ4VGZBRWJDVDdpOERZRHF1WjRpZlhzVUZNS0lSTkd6TkhfSldpUmYyRVdON1M4bEdJUjZlUG9iV3ozT205d2IzZzhMdnEtbw?oc=5",
-      "published": "2026-06-24T14:11:18+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://mondosanita.it"
-      }
-    },
-    {
       "id": "5acdfd736b64",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -541,6 +521,16 @@
       "source": {
         "name": "Salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "399a86b301b0",
+      "title": "Farmaci Biosimilari: A Dieci Anni Dalla Legge 232/2016 - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2o4bU1TOTBsNXdUV25OUHFyak9qOTJxcUhlX21zaWJJQWVmQWNLWjJGWVBaM1c0d1lURUJ4VGZBRWJDVDdpOERZRHF1WjRpZlhzVUZNS0lSTkd6TkhfSldpUmYyRVdON1M4bEdJUjZlUG9iV3ozT205d2IzZzhMdnEtbw?oc=5",
+      "published": "2026-06-24T14:11:18+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://mondosanita.it"
       }
     },
     {
@@ -554,12 +544,12 @@
       }
     },
     {
-      "id": "ae042a077efd",
-      "title": "Ue, la commissaria Salute valuta effetti del piano prezzi di Trump - Euronews",
+      "id": "894492853fe0",
+      "title": "Ue, la commissaria Salute valuta effetti del piano prezzi di Trump - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElvNkpmREJtbll4ZWdKeERMOE16MHhZN3FDcUZDanBVd3M5dXRhYVRTaVJKdGhfQ2hpbnExRm9HOXl2UWxMckk5TjctWTFSa09hcEhkeGx5d0VueXdQZDlhYjZFMzRoMlhrYkU4X09rOXM1UmJUcHFwXzBrYWRERzFDSU0wNlJjMjFWcXc5TEFhcVNCZXpSbU5kN3UzUnBCeUFGamxHZkg3QUFhLWgxLUl0eTV4VzRtMG0wVGh6bFF6Q0k?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
@@ -574,13 +564,13 @@
       }
     },
     {
-      "id": "e4c7ffbec2f7",
-      "title": "Farmaci e caldo estremo: quando la conservazione diventa una questione di salute - Salute Buongiorno",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFk4bUVBaTFQcmQtUGpPQVdVZVdQS2xaRmpjcWxzcmR3TmIzRklfZTYtZDZKQVJzOVgxTU5WRmdvMXZSWWktWW9RMWdocmdhVF9XMmdEN1g3b3QyMWNQNjUwM1REdWYwZ3hlN3FkYVpiZEQzR0V2UjNKbnpBWnlOX1VXbEZSNzlrVjR6NUZ6QldIVkdUbzRZOUl4aWp2SFRyaWQ0aWhTby1GU3h2OU5ma1RhR1JaWFY4RnZvYw?oc=5",
-      "published": "2026-06-27T04:33:06+00:00",
+      "id": "dba8c02af63c",
+      "title": "Produttori, depositari e grossisti - Salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
+      "published": "2026-01-10T01:58:27+00:00",
       "source": {
-        "name": "Salute Buongiorno",
-        "url": "https://www.salutebuongiorno.it"
+        "name": "Salute.gov.it",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -594,16 +584,6 @@
       }
     },
     {
-      "id": "dba8c02af63c",
-      "title": "Produttori, depositari e grossisti - Salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
-      "published": "2026-01-10T01:58:27+00:00",
-      "source": {
-        "name": "Salute.gov.it",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "9679accf030f",
       "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
@@ -614,32 +594,22 @@
       }
     },
     {
-      "id": "b3ea6a73fe7b",
-      "title": "Farmindustria, impraticabile per aziende riduzione prezzo farmaci - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOai1aalVLS0hpQU5LaUNXMS1RSjEzTmdSS0J6YkJxM1ktNzZpTVpmNmZkMXl2elJxeWExemwteUNWZDFEQkl2RDljM2tNOHY3bjhwMHZfdnJGUk15UVBwWGYtdkFzd1l4S09VRE5sbFFqTm9LbHVETDlnSTE1UUp4eFpmOTRaRWhnY0x0WjdxWk13TWEtNGI5SXZqMGg1X0dsZ0FzaUc0MGNSZFIyT21ZLWhZVFZNai01?oc=5",
-      "published": "2026-06-23T14:52:00+00:00",
+      "id": "e4c7ffbec2f7",
+      "title": "Farmaci e caldo estremo: quando la conservazione diventa una questione di salute - Salute Buongiorno",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFk4bUVBaTFQcmQtUGpPQVdVZVdQS2xaRmpjcWxzcmR3TmIzRklfZTYtZDZKQVJzOVgxTU5WRmdvMXZSWWktWW9RMWdocmdhVF9XMmdEN1g3b3QyMWNQNjUwM1REdWYwZ3hlN3FkYVpiZEQzR0V2UjNKbnpBWnlOX1VXbEZSNzlrVjR6NUZ6QldIVkdUbzRZOUl4aWp2SFRyaWQ0aWhTby1GU3h2OU5ma1RhR1JaWFY4RnZvYw?oc=5",
+      "published": "2026-06-27T04:33:06+00:00",
       "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
+        "name": "Salute Buongiorno",
+        "url": "https://www.salutebuongiorno.it"
       }
     },
     {
-      "id": "cc3cc1c45edd",
-      "title": "Schillaci, 'su prontuario discuteremo, non voglio cittadini paghino di più farmaci' - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3NzYTN2NHJETUk3T2k2RmJzVHhrZGtzYnBpZXNpUUEwUnZNMzFFNkhKM1NjdnFwcXp2WDBKaWItZ1djV0FwUV80b3ZfNV9KUWFiTHRjak9PM1dDbW5qQk9Dd2otNVVCNnpZaVBVSDF3Z3ZlNXYySWE2ajFuX2dGbnhkNFNxZzVpcVpVZHM3d2dMVVM4TmFaaGJ1Tm5idFVlZGxFSTB3d0hkWDc2T0xlTlBaY0JFRFdTVktOd0hPRDl6TE1QQ05KYXItOHM?oc=5",
-      "published": "2026-06-23T12:20:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
-      "id": "e99310ffcc15",
-      "title": "Estensione monopolio farmaci divide ministri UE sul Biotech Act - Euronews",
+      "id": "6443b8bf3e6f",
+      "title": "Estensione monopolio farmaci divide ministri UE sul Biotech Act - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOempmZ0ZtbGF3TG8za2hQdkVyLVpsNkVlLXRzSWplSzlyZFQxeXZqQ0V6eUxDQ3Y5SDExSWVDaW4wVURLVEhvZUdSTDNRazJFZEdQdTdhM2FIeXp3OUFHRG5oNVNmUjkxbnoyS2Q2dUNEVHd1WjctRVd0QU1WQTM3TTd5bDBQbFI2ZTBPalJIQWlickFtVGZwaFFyTTlBWXVqaTZ4bVZLQjJEeEhTc1hNc1RyZXlyQQ?oc=5",
       "published": "2026-06-17T07:00:00+00:00",
       "source": {
-        "name": "Euronews",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
@@ -714,16 +684,6 @@
       }
     },
     {
-      "id": "4ea7e05f0681",
-      "title": "Aoui Verona, meno farmaci inutili per gli anziani: più sicurezza e 60 mila euro di risparmi - TgVerona",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVBiXzhhZkx6UlBnUk1uWGYzZS1hMGdyWmpOZHNiS01MU2NpWjAxQjJucVYtU0R2c0JObUN3TkdhVWwxUUNGSVFNMFNTS3Fod0tFVVlualhQdU9NNmpuWGhFc1k2c1pOQ2xtc1gtQWh6T2N0T3JIWGN6N2FDdlQ1dVZDelJaRm9YRHRfQnJDdFhYQXVfemxDVl8tRnBxUko4dGhHUGZJZFZiekdQTi1JRUEtWlhUN3dnZ0lENjVpSXBmNmJNSlZhWU5ZNzJQMEp4azJZ?oc=5",
-      "published": "2026-06-27T01:25:00+00:00",
-      "source": {
-        "name": "TgVerona",
-        "url": "https://tgverona.telenuovo.it"
-      }
-    },
-    {
       "id": "6eec9b1d3d53",
       "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
@@ -774,6 +734,16 @@
       }
     },
     {
+      "id": "4ea7e05f0681",
+      "title": "Aoui Verona, meno farmaci inutili per gli anziani: più sicurezza e 60 mila euro di risparmi - TgVerona",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVBiXzhhZkx6UlBnUk1uWGYzZS1hMGdyWmpOZHNiS01MU2NpWjAxQjJucVYtU0R2c0JObUN3TkdhVWwxUUNGSVFNMFNTS3Fod0tFVVlualhQdU9NNmpuWGhFc1k2c1pOQ2xtc1gtQWh6T2N0T3JIWGN6N2FDdlQ1dVZDelJaRm9YRHRfQnJDdFhYQXVfemxDVl8tRnBxUko4dGhHUGZJZFZiekdQTi1JRUEtWlhUN3dnZ0lENjVpSXBmNmJNSlZhWU5ZNzJQMEp4azJZ?oc=5",
+      "published": "2026-06-27T01:25:00+00:00",
+      "source": {
+        "name": "TgVerona",
+        "url": "https://tgverona.telenuovo.it"
+      }
+    },
+    {
       "id": "3678042890d7",
       "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
@@ -794,16 +764,6 @@
       }
     },
     {
-      "id": "65987038562f",
-      "title": "Farmaci, Razza (FdI): \"Sicilia prima in Italia per accesso ai pazienti\" - ilSicilia.it",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVNvQnFiZ3dMaGlQRjlYYnY5UUgtRnMwUkkxVm9NTl9tU01ydHQ1TUFpaGl4M0tRNy1IZmFONFJLWFA5Z1U3aDBWYW1pREc2YjBmUHplWHBYdG9Qeml6cjVwbkZtek9HNWJobnJvWlpnU001em95WkpzblRaVkxzc0lWeXdweFNDY1JCZ2tSbWk?oc=5",
-      "published": "2026-06-24T15:53:20+00:00",
-      "source": {
-        "name": "ilSicilia.it",
-        "url": "https://ilsicilia.it"
-      }
-    },
-    {
       "id": "11cdfeaa42f9",
       "title": "Cresce la spesa per i farmaci - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEVibE82OThTTTVLZThZNWtNekZlMGRObFB3VU9IMThSWkJKSERFYkZzZENPUW01SG5FdElDNTR6aUZjRnNDMTVURUFEMHBQMUg0Ym9vU1VMV0ZvMTYwOGhCNDI4b3p4MnMwNGRMQ2lqUzZDNW9tU3p1SG5HZ2VIRU1GdmJzR1dLZTB5N245Y3JxM3dmYkV2R2Q4Mm0zUFhLZkJQVDhTaGExZlpNYUJDZEJQVktfOUtLemp1bkgwRUbSAcYBQVVfeXFMUGF1OWE1M2liZmdfTjducVY1Sl81clAxUFRxS2VvSkM3SjA4TWRZU29tUnNBbnJFQVFfd3Q1Q19kQ0UwMFBZSVRFXzJMckFsVDg5UjJXOGhuaXZLdEZUdmViRS1VQzE2bUp1SmZIVkNkbG9oeEUyNDhkbXRkRjhkazNkTUp2NGR6WXF2a0Z0Uzh2SnRhUERNdTNXZHdBa21OYUVrVW1GVFJybi1UYTlfbi1aUHdoM3ZHU0tsRXJkY2xaem82dVlB?oc=5",
@@ -814,13 +774,13 @@
       }
     },
     {
-      "id": "d34ddb7b4533",
-      "title": "Marcello Gemmato: farmaci più accessibili e meno burocrazia - Fortune Italia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXVFRzVuTk9nVE9IdTBGSzBseWlNMTdJQTdweFR1bXVnQWNVZV9PbTdfRFZhVUpGaTlJR0c5SlhEUGVNWUtlek0xeUxfd1c4cjVRRG1FNnRqV0NJMkpoT1R0MU95R3dWbXZpWUlVb1YwMkE5VURMN0xNbkVMU2dsUTNGTU5QNGVyaVRaUEcxNy1IQzhkRjBQV3VMYlpvZw?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
+      "id": "65987038562f",
+      "title": "Farmaci, Razza (FdI): \"Sicilia prima in Italia per accesso ai pazienti\" - ilSicilia.it",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVNvQnFiZ3dMaGlQRjlYYnY5UUgtRnMwUkkxVm9NTl9tU01ydHQ1TUFpaGl4M0tRNy1IZmFONFJLWFA5Z1U3aDBWYW1pREc2YjBmUHplWHBYdG9Qeml6cjVwbkZtek9HNWJobnJvWlpnU001em95WkpzblRaVkxzc0lWeXdweFNDY1JCZ2tSbWk?oc=5",
+      "published": "2026-06-24T15:53:20+00:00",
       "source": {
-        "name": "Fortune Italia",
-        "url": "https://www.fortuneita.com"
+        "name": "ilSicilia.it",
+        "url": "https://ilsicilia.it"
       }
     },
     {
@@ -831,6 +791,16 @@
       "source": {
         "name": "arpa.piemonte.it",
         "url": "https://www.arpa.piemonte.it"
+      }
+    },
+    {
+      "id": "d34ddb7b4533",
+      "title": "Marcello Gemmato: farmaci più accessibili e meno burocrazia - Fortune Italia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXVFRzVuTk9nVE9IdTBGSzBseWlNMTdJQTdweFR1bXVnQWNVZV9PbTdfRFZhVUpGaTlJR0c5SlhEUGVNWUtlek0xeUxfd1c4cjVRRG1FNnRqV0NJMkpoT1R0MU95R3dWbXZpWUlVb1YwMkE5VURMN0xNbkVMU2dsUTNGTU5QNGVyaVRaUEcxNy1IQzhkRjBQV3VMYlpvZw?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "Fortune Italia",
+        "url": "https://www.fortuneita.com"
       }
     },
     {
@@ -864,20 +834,20 @@
       }
     },
     {
-      "id": "966eecbd1b2f",
-      "title": "Salute orale in farmacia: Curasept lancia una nuova linea di integratori - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjZjbGJReVE5b2ROcXJRZy1ZRXVnUk9PWkItWlJYeHdESnlEYkR6MG9LcmxabGQ2cFpYYmxWWXRkOF9CbXNNczU4emhxaVE5Zmp1cFNCenlTaTVQZXJuZWVtWkhmNG5uMDhkUF9TZXNYb2R6QmpETVNuSU5Vdkc1WnhaWjBwTWxjV3gyTDBXRFItY2szUXBIWkV4a1A5WnhxSEE?oc=5",
-      "published": "2026-06-04T07:00:00+00:00",
+      "id": "bec037c34006",
+      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
       }
     },
     {
-      "id": "bec037c34006",
-      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
-      "published": "2026-04-07T07:00:00+00:00",
+      "id": "966eecbd1b2f",
+      "title": "Salute orale in farmacia: Curasept lancia una nuova linea di integratori - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjZjbGJReVE5b2ROcXJRZy1ZRXVnUk9PWkItWlJYeHdESnlEYkR6MG9LcmxabGQ2cFpYYmxWWXRkOF9CbXNNczU4emhxaVE5Zmp1cFNCenlTaTVQZXJuZWVtWkhmNG5uMDhkUF9TZXNYb2R6QmpETVNuSU5Vdkc1WnhaWjBwTWxjV3gyTDBXRFItY2szUXBIWkV4a1A5WnhxSEE?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
@@ -954,16 +924,6 @@
       }
     },
     {
-      "id": "4b80bf093a2b",
-      "title": "Immunoterapia e genetica ‘a braccetto’ - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONV9SaldnbENpTjZ0Rm1tZVE2SHcyWFNFcDFkWjlBdmZMWUFEa3E1MXRfWmpJc1E4dm1GRnlhVFJjRkJmc3V2MU04bVhrZkQydzRyQ2dMRmRjNlBYZ3VKVzdIcUx4US1zYlppYi1mZHB5b0JUNXFmbENxUnlJdHgxSWlQc2pBNVI1YUZoZg?oc=5",
-      "published": "2026-06-27T08:56:08+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "b2d4173281c5",
       "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUNtblhKUHdvLWsyMHpxYWhXU2VMTTJGajBtX2pySXFoQTFrLXRrekh0Q0NJaFVMaEZWTEFKNlpWWVZVQlA0ZW1KWk94TDYxR2hlVEstZmZ1RWdGS3VjaURNTDNBSFNVLWtiNTFhc3NFVU1jSHVWbFE4NXVRVjFka3pIWVlQazg3aG0tSWk0Wnk2N25QM3dIc3BOZDdxRVRudmhrSTZncUtpeGM3YzA5aXIwTzZMbnVtOTJvSmFkVURQZ0l2MVhEZldZQW0xcmtBazdodG9Vajh1UmxYQ1Zj?oc=5",
@@ -994,6 +954,16 @@
       }
     },
     {
+      "id": "4b80bf093a2b",
+      "title": "Immunoterapia e genetica ‘a braccetto’ - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONV9SaldnbENpTjZ0Rm1tZVE2SHcyWFNFcDFkWjlBdmZMWUFEa3E1MXRfWmpJc1E4dm1GRnlhVFJjRkJmc3V2MU04bVhrZkQydzRyQ2dMRmRjNlBYZ3VKVzdIcUx4US1zYlppYi1mZHB5b0JUNXFmbENxUnlJdHgxSWlQc2pBNVI1YUZoZg?oc=5",
+      "published": "2026-06-27T08:56:08+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
+      }
+    },
+    {
       "id": "864be9c38a06",
       "title": "Caldo e farmaci: come proteggersi dai rischi durante l’estate - lsdi.it",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUdlS2U2NmtzRU11OXZscW9ZQ24wc094NWx4SE9BRlZsRmlpM2dLY25LZDJTXzFQOVVVNDloaWd0TjVTRjZJSXRDUVQzS3FZYUFIQy1hUW5mbUtvUklZRnlFVXJyTXFhTktrcmNWT1VxbE4xWUtNUFktSTVFMFppampKN1M1b05SaUlMeGdB?oc=5",
@@ -1001,6 +971,36 @@
       "source": {
         "name": "lsdi.it",
         "url": "https://www.lsdi.it"
+      }
+    },
+    {
+      "id": "98f459ec6ff3",
+      "title": "Francia primo Paese in Europa a rimborsare farmaci dimagranti - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkZHSVNXaHFDMEQ2VGpnb3VfN3Jzc2tkRXBUZkxRZ2hQRUlTdGliVDZNdnc0NzdqYnFVVjB2SkFUY2g3M0lmbUlLVUFmYUxubFN3bWM2a0kxNkpZMGRJaWVKV1NvVXluVUxObFVpYktPWmlCTWJDU19yOWhXRi1LTVM3RDVnMzdwVTBiMWdnR2VRMUhHeGNuLUFubXlHVklS?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
+      }
+    },
+    {
+      "id": "343ab25893bb",
+      "title": "Farmaci, gli errori da non fare, dalla conservazione al consumo - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEWEE2LVpGSUJqS216VTFfaUVqNkltdENBRllWUDl2SjlYMEQwMmd6NHhSZmhqb0dWamhnQ1ByeHdDUDh4NjZEbVZKd0lVdnpveHdJaU85bXp0SWtRNnNYOGhhOWZVbTNjRzBXamFYOWxUZw?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "1ce269b8f415",
+      "title": "Ministero della Salute - EU4Health: Programma Europeo Salute 2021-2027 - Salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDBFXzZPeTNxY3Y4c1IwYjcyUHRISU1LM09XV243NHYwTVpVVGd0UmNqYmpzdmNWOHZKN0xQU0xJcHc5c2FaX3F2VGJaVFdYWnI5ZF9DQmh4T2JCOUMtRXl3bUJydDBqWU11N2pfM3JFY01ZWTFWazUtRHRJeFl0VDk5M3NsMlU0bXpnWHFmSHVLWGhYN3FxX1ljV3Z6cUtLeEtqeThMazZSTlM1WFp2RzFqb2UxdUowVFZj?oc=5",
+      "published": "2026-04-08T18:03:19+00:00",
+      "source": {
+        "name": "Salute.gov.it",
+        "url": "https://www.salute.gov.it"
       }
     }
   ]
