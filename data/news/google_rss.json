@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T13:14:55.127557+00:00",
+  "fetched_at": "2026-06-28T15:10:50.953937+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -34,16 +34,6 @@
       }
     },
     {
-      "id": "bc4e3fb8de5e",
-      "title": "Emergenza caldo, l'avvertimento del professor Garattini: «Danni al cervello, limitate le uscite e occhio ai farmaci» - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzRfclR5bTQxclJUZWhqWW9td2Y0bksyRnNLc2c0NnphR0h1bzEtNWV3OVAxeUROTGdvbmZycmpzVW0xQk12ZkoydGN1bzBxb2JxTG1mclVpUldoVkpKcVJvMGJINTIxSWlPdUlqclVjYmdjODh2VDU5XzBKZFRqRU5qeEpPWC0ybGpEdWl5OGRkUjJkSmI1NGs5MEE3V3B6aUcyVmZ3SzBqQUxrVGttVkRfQ2NCY0p4dVNaRENJUGhqMGJGcXFZS29tZlU3Z9IBwwFBVV95cUxPd0RxZlBNS09lazhEYW1VTDFpWVNaanB1TG90cDh5MFZTNG1iLVBzNjhGY1BhZE92TklxWWZlMThEbnllaWV3ZG9nbHdQQUdzdDdTX21TWmx6NlBJX1dwUGZVNUlyWDVUOUI0dUNfSDZNWTh4WVZXZnVzTHo4TFRSOXg2SWFPNjFBRTVBWHZDN0IwUzhBdE9WaDVaYjV3dlRKakltdmpYQkxOR2lSNjdwa1pXd0VpTmljamFoSllTLTRUeFk?oc=5",
-      "published": "2026-06-27T13:28:27+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "88d5db3fce6a",
       "title": "Silvio Garattini e il caldo record in Italia, allarme sui farmaci: \"Attenzione alla pressione\" - Virgilio",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHdPeEZpUnVPRkdKaGhfeVlUSjNJM2xWZEpxUURKVERaOFlWaExlZ1l1S2tKNFU3TTdmYld3UzVPZ1pMUW90LTdPQ2ZBSGhqSnVfcEJnVVAyTjQwQ0hOMFVNTnhfTTFLdjZ4bjc0U3NXR0VoR2FUenhHVjBhaThZbmQxVVFET1BEUFNGR0JzSmRhRmVxS3huU01Lam1EUG1Qb3ZicXFvWFBhbWQ3TmFxQlczeDZNTkc3Z2tHZFhBZklVRlc3UGN5LXFR0gHPAUFVX3lxTE9Tam5ybFAwbHIwZFpBZHcwV0hBOEZkMTVuT2pFd2llRjQ3ZmQ0UnlleVFuWUdCYjR5eC0yN05PLVIwaWp1b1BPYU9CcERDNnhNdUlaSGkzNS1IUWl1aXZsM2Z5MWJSeHBxcGhzQkhBVUtpSmNIeWVWNHl1a3liQkRRVmNZd2xsOUVCdWVWNG5YNjcxWGM0MWhBbmR3TjczRkZvTzNid1pLaUhzUk9WdjQzX2V3aGplY1UzUzQ2MUtleXR3eFJ4SUQtc3dpb18wTQ?oc=5",
@@ -51,6 +41,16 @@
       "source": {
         "name": "Virgilio",
         "url": "https://www.virgilio.it"
+      }
+    },
+    {
+      "id": "bc4e3fb8de5e",
+      "title": "Emergenza caldo, l'avvertimento del professor Garattini: «Danni al cervello, limitate le uscite e occhio ai farmaci» - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzRfclR5bTQxclJUZWhqWW9td2Y0bksyRnNLc2c0NnphR0h1bzEtNWV3OVAxeUROTGdvbmZycmpzVW0xQk12ZkoydGN1bzBxb2JxTG1mclVpUldoVkpKcVJvMGJINTIxSWlPdUlqclVjYmdjODh2VDU5XzBKZFRqRU5qeEpPWC0ybGpEdWl5OGRkUjJkSmI1NGs5MEE3V3B6aUcyVmZ3SzBqQUxrVGttVkRfQ2NCY0p4dVNaRENJUGhqMGJGcXFZS29tZlU3Z9IBwwFBVV95cUxPd0RxZlBNS09lazhEYW1VTDFpWVNaanB1TG90cDh5MFZTNG1iLVBzNjhGY1BhZE92TklxWWZlMThEbnllaWV3ZG9nbHdQQUdzdDdTX21TWmx6NlBJX1dwUGZVNUlyWDVUOUI0dUNfSDZNWTh4WVZXZnVzTHo4TFRSOXg2SWFPNjFBRTVBWHZDN0IwUzhBdE9WaDVaYjV3dlRKakltdmpYQkxOR2lSNjdwa1pXd0VpTmljamFoSllTLTRUeFk?oc=5",
+      "published": "2026-06-27T13:28:27+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "15f65de6ba29",
-      "title": "Il ruolo del microbiota nell'epilessia resistente ai farmaci - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLTBVa1ExeERGRXc5UUxTQVpCbWJ2b2RpekhHSmpSRVhRZndnb3J4TlFHeE90MFJHN1BFb19rQzJQdlhXYlF0LVVuVVBaQXBKTGhVc0JNR2puRm1aVXVGUkstTkEtekV5TzZZdVJpa1g2SkJYV0h1cEVxU0dheWVUYVZpVDRxLUFZdWhuaEI4aks5V0p1cHJJWG1jaGZmcFpsUzlQWllfNWc5aEJ1Q0hEU3FnUzRDSWdPRjBJT0dJcndYNk13WUhpaldDdzN3dGJpeldYcl9jbmNpRkdLNmhlU0RSZWtMWHBMejJzdHZBZmRNZ9IB9wFBVV95cUxPVklITG1JVEVrU0RLSFMxeEh1MzJtWTc3d0lnOVI0Q2Z2SENCenFTaHpYZnlGUlBKOXpkZE1uLWE2ci1XUmFHT05aejZxNlpXSmRTLXFTVW43MkdMTVpHM2RIT0MxMzM1b0tuYk1JVHdJamFzUVZENGlraVZZTWFJN19IVTFUdU9KcE9nTHgyRGszV3hyOXVKcFVXVFNuRVRCZ0NxWTc4LXdwZ205aVJLczFHNFhwdVA3T0VrU214aXhKem1JU2ZyaXR4R2lJQTYzeUhjNHpsa0JMQlRCanBOVHJSTjdMTXdoM3h4LUI1SFBWMERhdENR?oc=5",
-      "published": "2026-06-28T07:05:00+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "3007ed76dc02",
       "title": "Farmaci equivalenti - Sandoz",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtdjNfckxGOHo2bDFEeDhkMFNhLUlyaVhCZUQ4TmI3Ul9HYno0OFdYTF85czNKVXRnRjJrOGpMOFdTVEN6djFMSUg5OXJFUHg3a0dEajI0UGJIU1RYakZzZ0lsRTFDY253M0ZHU3RKWjhkRkhh?oc=5",
@@ -134,13 +124,13 @@
       }
     },
     {
-      "id": "474587bf2c2f",
-      "title": "Come il caldo sballa i valore della pressione e i segnali d'allarme da non ignorare e il rischio legato ai farmaci - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTA5UDZ2MnJwai12YUd2Wk15MGQtWTFiSDhsc3RqcVh1a3VXbk5sUmRFWC1qMUx4cXI0dWdPMFpKRC03OWpmQ1k1RzRjYXNaLVlIcGFKOFQwSjZudFNLMjcxX1hvQWwwUUJhSlVQOUd2dW53ZU5Od2Z0Y0twR2JFUGZiS1h4M09XejNVOU9EUEM2Yk9fWDZKYjFqRDBtS2J0bDhJTmc2VEFzUlhaM3cyX0lHbEVjZVZEREpjWFJldjlCSEhUb1dVUE9qX2JDSnozU0Z6TzVOcm9jaThEZ014b040ZEN1dTQ?oc=5",
-      "published": "2026-06-27T18:58:00+00:00",
+      "id": "15f65de6ba29",
+      "title": "Il ruolo del microbiota nell'epilessia resistente ai farmaci - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLTBVa1ExeERGRXc5UUxTQVpCbWJ2b2RpekhHSmpSRVhRZndnb3J4TlFHeE90MFJHN1BFb19rQzJQdlhXYlF0LVVuVVBaQXBKTGhVc0JNR2puRm1aVXVGUkstTkEtekV5TzZZdVJpa1g2SkJYV0h1cEVxU0dheWVUYVZpVDRxLUFZdWhuaEI4aks5V0p1cHJJWG1jaGZmcFpsUzlQWllfNWc5aEJ1Q0hEU3FnUzRDSWdPRjBJT0dJcndYNk13WUhpaldDdzN3dGJpeldYcl9jbmNpRkdLNmhlU0RSZWtMWHBMejJzdHZBZmRNZ9IB9wFBVV95cUxPVklITG1JVEVrU0RLSFMxeEh1MzJtWTc3d0lnOVI0Q2Z2SENCenFTaHpYZnlGUlBKOXpkZE1uLWE2ci1XUmFHT05aejZxNlpXSmRTLXFTVW43MkdMTVpHM2RIT0MxMzM1b0tuYk1JVHdJamFzUVZENGlraVZZTWFJN19IVTFUdU9KcE9nTHgyRGszV3hyOXVKcFVXVFNuRVRCZ0NxWTc4LXdwZ205aVJLczFHNFhwdVA3T0VrU214aXhKem1JU2ZyaXR4R2lJQTYzeUhjNHpsa0JMQlRCanBOVHJSTjdMTXdoM3h4LUI1SFBWMERhdENR?oc=5",
+      "published": "2026-06-28T07:05:00+00:00",
       "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
       }
     },
     {
@@ -151,6 +141,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "474587bf2c2f",
+      "title": "Come il caldo sballa i valore della pressione e i segnali d'allarme da non ignorare e il rischio legato ai farmaci - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTA5UDZ2MnJwai12YUd2Wk15MGQtWTFiSDhsc3RqcVh1a3VXbk5sUmRFWC1qMUx4cXI0dWdPMFpKRC03OWpmQ1k1RzRjYXNaLVlIcGFKOFQwSjZudFNLMjcxX1hvQWwwUUJhSlVQOUd2dW53ZU5Od2Z0Y0twR2JFUGZiS1h4M09XejNVOU9EUEM2Yk9fWDZKYjFqRDBtS2J0bDhJTmc2VEFzUlhaM3cyX0lHbEVjZVZEREpjWFJldjlCSEhUb1dVUE9qX2JDSnozU0Z6TzVOcm9jaThEZ014b040ZEN1dTQ?oc=5",
+      "published": "2026-06-27T18:58:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "1b08fe633508",
-      "title": "Farmaci e caldo estremo: conservazione corretta per proteggere la salute in estate - lsdi.it",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmp5UUZuNWZreC1iM01ZcV8tblhoOHI4OEplaUd3c2s2c3RIdzFuYThDTDUwVWxpdFRzLW5TWklOMFdibDVlV203aHNpaWVsZHBTd3N3YU8zem9LMElXZGpqbk1TaUtEVnZ3R0JlQWtSdmhycTExS2FmLVRrbV82ag?oc=5",
-      "published": "2026-06-28T10:30:00+00:00",
-      "source": {
-        "name": "lsdi.it",
-        "url": "https://www.lsdi.it"
-      }
-    },
-    {
       "id": "e9096b72a63a",
       "title": "Farmacia da viaggio, cosa mettere in valigia? - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa29RUnk2bXdpbDJndGxtcXA5VUc2QlE5QjI5NHJTLTA0Ymx1TFJkSWR2MFFoTlVCVl9kVnl6bGpVUXhnSE1UeUxnQ256Wm9YUUp4eklxNDY2RVFsV3VvNmtqcFNWbTBiMk9jSWxQWGVzM21pRHlvTVA1WWRMVGhIVkN5YTQ0X2dFaHZyUXp1Rm10ZGE5Z3VqY2VwajdDcjFVdjR4cXNIY2VFdmpmOGdCRnI2c2M3QVktQ2NaTlpFd3RPeEk2cEZvZlktQ2lYeEx0ZUHSAdcBQVVfeXFMUFRwbTJBbjROMXdhbE1OTC1Pd1I1UkU3SkpXZTEyZGZqNUY1VUNYS21SM2xjYTY3ZXlDY08wUVVHNnRWNFg4VlJLeG96bG9BTDdWZmRGSDFmYU9wOWNYQVE1ZkZvWTd3UzF3WDFOUUJibTRvblh3UFJlM1U3WkhWS05wN3VXSGZNVjRkc2RMX2h5bWt0T3hRcWYtTVRnNzd0SWFLYXowcmlIc3VDb0kzSmVMMWVCU0lUTDh4NW5TMG1KOGtvYVJsR3hGeFBrSmxwUzluRzBmR0k?oc=5",
@@ -294,13 +284,13 @@
       }
     },
     {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
-      "published": "2026-06-23T10:55:53+00:00",
+      "id": "1b08fe633508",
+      "title": "Farmaci e caldo estremo: conservazione corretta per proteggere la salute in estate - lsdi.it",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmp5UUZuNWZreC1iM01ZcV8tblhoOHI4OEplaUd3c2s2c3RIdzFuYThDTDUwVWxpdFRzLW5TWklOMFdibDVlV203aHNpaWVsZHBTd3N3YU8zem9LMElXZGpqbk1TaUtEVnZ3R0JlQWtSdmhycTExS2FmLVRrbV82ag?oc=5",
+      "published": "2026-06-28T10:30:00+00:00",
       "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-        "url": "https://www.fnopi.it"
+        "name": "lsdi.it",
+        "url": "https://www.lsdi.it"
       }
     },
     {
@@ -314,13 +304,13 @@
       }
     },
     {
-      "id": "4d896d90d1f0",
-      "title": "Farmaci anti diabete e obesità: attenzione al fai da te - Fondazione Veronesi",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BudjFGM2h4NnNGRF9iUzhSLWUwN1RGSmlIOU1pbzgyLVlDQ2dYcW1KQmJBYkNiUC1ERkdhYmdTRFBUWi16VWRSNmdSTGVNSklsV0t3S2l5ZlpSRm14ZVUwZEhEVTlvR3JVckM4d2JFY094bFhZY1I0emIxSlpqXzhjSEVLd1VwWmVwaVpxWXVPRkM2SnZyVWgzVjc4N2hCVWtCYzY4MWFqRWlfSTU3RA?oc=5",
-      "published": "2026-06-23T12:44:26+00:00",
+      "id": "b8368e9e437a",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
+      "published": "2026-06-23T10:55:53+00:00",
       "source": {
-        "name": "Fondazione Veronesi",
-        "url": "https://www.fondazioneveronesi.it"
+        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "url": "https://www.fnopi.it"
       }
     },
     {
@@ -334,13 +324,13 @@
       }
     },
     {
-      "id": "571f44c94df2",
-      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
-      "published": "2026-06-27T18:11:00+00:00",
+      "id": "4d896d90d1f0",
+      "title": "Farmaci anti diabete e obesità: attenzione al fai da te - Fondazione Veronesi",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1BudjFGM2h4NnNGRF9iUzhSLWUwN1RGSmlIOU1pbzgyLVlDQ2dYcW1KQmJBYkNiUC1ERkdhYmdTRFBUWi16VWRSNmdSTGVNSklsV0t3S2l5ZlpSRm14ZVUwZEhEVTlvR3JVckM4d2JFY094bFhZY1I0emIxSlpqXzhjSEVLd1VwWmVwaVpxWXVPRkM2SnZyVWgzVjc4N2hCVWtCYzY4MWFqRWlfSTU3RA?oc=5",
+      "published": "2026-06-23T12:44:26+00:00",
       "source": {
-        "name": "veronanews.net",
-        "url": "https://www.veronanews.net"
+        "name": "Fondazione Veronesi",
+        "url": "https://www.fondazioneveronesi.it"
       }
     },
     {
@@ -351,6 +341,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "bf2defd3fa4d",
+      "title": "Farmaci. Aifa aggiorna quattro Note: ormone della crescita, infertilità, anticoagulanti e Bpco - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHBCalkyNUc5YmhDbjU4TjlMNkdSZGltM3RzdklPS0VUSEwwcUJUZy14b3VDWGJZYXJQa0hVMlJZX1JlNUVGXzVMZERGNFdXR29nd3E3WDgzZE1hT3JqNW9qTXFtbTdxT3hIQzRtaWs1TkVhWTk0YTh5MU1Cd01GQUpUN1NyX05GcHZr?oc=5",
+      "published": "2026-06-26T07:32:49+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -384,13 +384,13 @@
       }
     },
     {
-      "id": "bf2defd3fa4d",
-      "title": "Farmaci. Aifa aggiorna quattro Note: ormone della crescita, infertilità, anticoagulanti e Bpco - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHBCalkyNUc5YmhDbjU4TjlMNkdSZGltM3RzdklPS0VUSEwwcUJUZy14b3VDWGJZYXJQa0hVMlJZX1JlNUVGXzVMZERGNFdXR29nd3E3WDgzZE1hT3JqNW9qTXFtbTdxT3hIQzRtaWs1TkVhWTk0YTh5MU1Cd01GQUpUN1NyX05GcHZr?oc=5",
-      "published": "2026-06-26T07:32:49+00:00",
+      "id": "571f44c94df2",
+      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
+      "published": "2026-06-27T18:11:00+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "veronanews.net",
+        "url": "https://www.veronanews.net"
       }
     },
     {
@@ -414,16 +414,6 @@
       }
     },
     {
-      "id": "1bbda956eb2c",
-      "title": "Da idratazione a farmaci, le regole per affrontare il caldo - ANSA",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONDB4SW9qMEp0SEFFX191MFhfblo2X1JfTWxnUzY4RkM1aEUyNVg2aFg4X3RzdEF6eUpqLUFOMVkwaUF4dzBJWE52UTJ4X2lfTDZqSXRMc3lnazd5MG9PSHdXbDRGNzV1azlTcmVfN3VOQUlZU3lwTWx0dlhJZnkxVTJWN2hYd2p3eUpJRUw2R0VCY05qV3ZSZkRjNE9UTDcxXzlsbW0zcVJrTU9xTFZRTDFXLVlVb3BIdGQ0cC0zNDZQTWxDY2N1S1kwTEZwWjFBQkpqQVFDLUxrVjlmdHBzeWVQT29QVG15VG1YVVlIeno5ZmVzYVdnX1FQakZsZ1hHc21GajQ3a2XSAY4CQVVfeXFMUEkyREZVVkV4dFBsSXk2OXdONXBReEZoTmxfS09YSDlHUG9qOEl2SzNsNkJTU3RCU0tkZkhKMmlhVkg5Y1VoZUdZTEFlVks2OGh2dDhGVjRaWkk5VVN0LU5FNnJLblpGSF9zaTNpdmt5c1doOURPTXNnOEF6SkJ2T1FJTmxpR3c4bTZUOWdfdEdVNkR1RlpoM3g4b0sxbUlma0Q3Y2oweVl2NW5OdzE3YWpPT01La3hrMFFZZ2pweU9PS09DWjYwYnRBdWVrQTYtZ3dYN3Vad2FmWjFEYXZtdTB0d3QzbTFJTGo0Y1ZsUlBnYVRUcDRHWlRqRUdDMVctcW44X3FVbnNGRVhjSDFB?oc=5",
-      "published": "2026-06-25T17:09:00+00:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it"
-      }
-    },
-    {
       "id": "d1b67cbdc3a6",
       "title": "Farmaci, il caldo non perdona - L\\'Adige di Verona",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90TjJka3VDcTBzMzA5QlZ6N0RiZU1xR1VmeGtQSWhSUWdrcTBEckd1REw4S2J6V0hpV2hCODFQWVFHVFViQlZiLTk5dGJxS1lPbV8wSnVxMDNLZE5RSUJITTVQcTBEZ2luaUh4VFZEMWhNU0c4?oc=5",
@@ -431,6 +421,16 @@
       "source": {
         "name": "L\\'Adige di Verona",
         "url": "https://www.giornaleadige.it"
+      }
+    },
+    {
+      "id": "1bbda956eb2c",
+      "title": "Da idratazione a farmaci, le regole per affrontare il caldo - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONDB4SW9qMEp0SEFFX191MFhfblo2X1JfTWxnUzY4RkM1aEUyNVg2aFg4X3RzdEF6eUpqLUFOMVkwaUF4dzBJWE52UTJ4X2lfTDZqSXRMc3lnazd5MG9PSHdXbDRGNzV1azlTcmVfN3VOQUlZU3lwTWx0dlhJZnkxVTJWN2hYd2p3eUpJRUw2R0VCY05qV3ZSZkRjNE9UTDcxXzlsbW0zcVJrTU9xTFZRTDFXLVlVb3BIdGQ0cC0zNDZQTWxDY2N1S1kwTEZwWjFBQkpqQVFDLUxrVjlmdHBzeWVQT29QVG15VG1YVVlIeno5ZmVzYVdnX1FQakZsZ1hHc21GajQ3a2XSAY4CQVVfeXFMUEkyREZVVkV4dFBsSXk2OXdONXBReEZoTmxfS09YSDlHUG9qOEl2SzNsNkJTU3RCU0tkZkhKMmlhVkg5Y1VoZUdZTEFlVks2OGh2dDhGVjRaWkk5VVN0LU5FNnJLblpGSF9zaTNpdmt5c1doOURPTXNnOEF6SkJ2T1FJTmxpR3c4bTZUOWdfdEdVNkR1RlpoM3g4b0sxbUlma0Q3Y2oweVl2NW5OdzE3YWpPT01La3hrMFFZZ2pweU9PS09DWjYwYnRBdWVrQTYtZ3dYN3Vad2FmWjFEYXZtdTB0d3QzbTFJTGo0Y1ZsUlBnYVRUcDRHWlRqRUdDMVctcW44X3FVbnNGRVhjSDFB?oc=5",
+      "published": "2026-06-25T17:09:00+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it"
       }
     },
     {
@@ -481,16 +481,6 @@
       "source": {
         "name": "Euronews.com",
         "url": "https://it.euronews.com"
-      }
-    },
-    {
-      "id": "467274eddb68",
-      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
-      "published": "2026-06-27T16:50:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -581,6 +571,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "467274eddb68",
+      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
+      "published": "2026-06-27T16:50:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "82bb3224c2da",
-      "title": "Caldo, allarme per i diabetici: sensori in tilt e farmaci meno efficaci. Dopo il caso Zverev ecco i consigli degli esperti - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUp5cEo0bmUxU0JXRkxsM3AyczRvYkI1azVGaXBtUFljQlJ5bi1HWDhkdnZVaEZvc3oxbFV4ckx6N3h4ZTdCQWNvMnFjblloRzhMcWJ4SXpENUY4ZTNWQWpTZGJQek40ZEZBUml4MlJpLThXNHBZU3BGS2oxREtySUpUWllzRDRxVG1MTURja193T05oeWk3bGg1R1hsWFHSAZQBQVVfeXFMTTZ0cUpkeW9SeDM5WU9vQmxHcUpxSG9MNjZUdkVCa0RBU0FTRWRQUEpYVmZhVWUtRWYtNU5vZFJpTHdvcnBMMWEyRTZyNlhOcVI3WjRTSHFSa3A2ak9PcF93bDNxbGYwOF9pckNCb0MtbjZZUjZNUU1WdW01MXBEdHJrdnAxUEtsb2hCODdDSzF1NGdELQ?oc=5",
-      "published": "2026-06-25T13:04:43+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "11cdfeaa42f9",
       "title": "Cresce la spesa per i farmaci - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEVibE82OThTTTVLZThZNWtNekZlMGRObFB3VU9IMThSWkJKSERFYkZzZENPUW01SG5FdElDNTR6aUZjRnNDMTVURUFEMHBQMUg0Ym9vU1VMV0ZvMTYwOGhCNDI4b3p4MnMwNGRMQ2lqUzZDNW9tU3p1SG5HZ2VIRU1GdmJzR1dLZTB5N245Y3JxM3dmYkV2R2Q4Mm0zUFhLZkJQVDhTaGExZlpNYUJDZEJQVktfOUtLemp1bkgwRUbSAcYBQVVfeXFMUGF1OWE1M2liZmdfTjducVY1Sl81clAxUFRxS2VvSkM3SjA4TWRZU29tUnNBbnJFQVFfd3Q1Q19kQ0UwMFBZSVRFXzJMckFsVDg5UjJXOGhuaXZLdEZUdmViRS1VQzE2bUp1SmZIVkNkbG9oeEUyNDhkbXRkRjhkazNkTUp2NGR6WXF2a0Z0Uzh2SnRhUERNdTNXZHdBa21OYUVrVW1GVFJybi1UYTlfbi1aUHdoM3ZHU0tsRXJkY2xaem82dVlB?oc=5",
@@ -744,13 +734,13 @@
       }
     },
     {
-      "id": "d34ddb7b4533",
-      "title": "Marcello Gemmato: farmaci più accessibili e meno burocrazia - Fortune Italia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXVFRzVuTk9nVE9IdTBGSzBseWlNMTdJQTdweFR1bXVnQWNVZV9PbTdfRFZhVUpGaTlJR0c5SlhEUGVNWUtlek0xeUxfd1c4cjVRRG1FNnRqV0NJMkpoT1R0MU95R3dWbXZpWUlVb1YwMkE5VURMN0xNbkVMU2dsUTNGTU5QNGVyaVRaUEcxNy1IQzhkRjBQV3VMYlpvZw?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
+      "id": "82bb3224c2da",
+      "title": "Caldo, allarme per i diabetici: sensori in tilt e farmaci meno efficaci. Dopo il caso Zverev ecco i consigli degli esperti - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUp5cEo0bmUxU0JXRkxsM3AyczRvYkI1azVGaXBtUFljQlJ5bi1HWDhkdnZVaEZvc3oxbFV4ckx6N3h4ZTdCQWNvMnFjblloRzhMcWJ4SXpENUY4ZTNWQWpTZGJQek40ZEZBUml4MlJpLThXNHBZU3BGS2oxREtySUpUWllzRDRxVG1MTURja193T05oeWk3bGg1R1hsWFHSAZQBQVVfeXFMTTZ0cUpkeW9SeDM5WU9vQmxHcUpxSG9MNjZUdkVCa0RBU0FTRWRQUEpYVmZhVWUtRWYtNU5vZFJpTHdvcnBMMWEyRTZyNlhOcVI3WjRTSHFSa3A2ak9PcF93bDNxbGYwOF9pckNCb0MtbjZZUjZNUU1WdW01MXBEdHJrdnAxUEtsb2hCODdDSzF1NGdELQ?oc=5",
+      "published": "2026-06-25T13:04:43+00:00",
       "source": {
-        "name": "Fortune Italia",
-        "url": "https://www.fortuneita.com"
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -761,6 +751,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "d34ddb7b4533",
+      "title": "Marcello Gemmato: farmaci più accessibili e meno burocrazia - Fortune Italia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXVFRzVuTk9nVE9IdTBGSzBseWlNMTdJQTdweFR1bXVnQWNVZV9PbTdfRFZhVUpGaTlJR0c5SlhEUGVNWUtlek0xeUxfd1c4cjVRRG1FNnRqV0NJMkpoT1R0MU95R3dWbXZpWUlVb1YwMkE5VURMN0xNbkVMU2dsUTNGTU5QNGVyaVRaUEcxNy1IQzhkRjBQV3VMYlpvZw?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "Fortune Italia",
+        "url": "https://www.fortuneita.com"
       }
     },
     {
@@ -824,16 +824,6 @@
       }
     },
     {
-      "id": "0cbd4b95715d",
-      "title": "Farmaci e salute orale, l’Ordine di Enna fa formazione sulle reazioni avverse - Sicilia Medica",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IzQmYtVnZsRmw0VEl3Q3Azc3lfMlctQzUyM2x4MWI5bS1mZTc2STFQTjJVTVNxWTJCTVBDWjBWTHppM0tob0JMYnVlRjlpaUE1bjhOVzNkYVFSNnNrSHZuSHhfOC1GTEpDTUFDNUhiRGlKczlDWkN0V3hEWFl4MlFWR2FyeV9jRFBWQUN6V1NobGR5TXdGa1E1SjVaWGJmSG5JUTBHWEtINm1RbjhRdQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "Sicilia Medica",
-        "url": "https://siciliamedica.com"
-      }
-    },
-    {
       "id": "a2cff9a86bf6",
       "title": "Persona qualificata di un sito di fabbricazione di medicinali veterinari - Salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzBzWGZhcUQ1VlpVbzRWbFV6bzdNTW55dlAzN1BVTWJGQ0VaSERrdlRXUWRKUF93Sk1nOUowM2NwejRtTDIwYTJWeGZ5VDFrX1g5bWVWaDJCQ2lkeXhqeUVxOHZISmNsYWRudnhYb0ozN01GNk1zcXoxRDNoUTR6RmVNcEl2RnBmSkFtRXh0ODM5QWIwcTBVbXZPZTZncE9GZUY5M0VIazJwSjlEVXU2OGZLRVVpOUNxNVMyRlVqWDhPZw?oc=5",
@@ -841,6 +831,16 @@
       "source": {
         "name": "Salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "0cbd4b95715d",
+      "title": "Farmaci e salute orale, l’Ordine di Enna fa formazione sulle reazioni avverse - Sicilia Medica",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IzQmYtVnZsRmw0VEl3Q3Azc3lfMlctQzUyM2x4MWI5bS1mZTc2STFQTjJVTVNxWTJCTVBDWjBWTHppM0tob0JMYnVlRjlpaUE1bjhOVzNkYVFSNnNrSHZuSHhfOC1GTEpDTUFDNUhiRGlKczlDWkN0V3hEWFl4MlFWR2FyeV9jRFBWQUN6V1NobGR5TXdGa1E1SjVaWGJmSG5JUTBHWEtINm1RbjhRdQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "Sicilia Medica",
+        "url": "https://siciliamedica.com"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "13d7966c7c09",
-      "title": "Aoui Verona e il deprescribing: meno farmaci inutili ai pazienti - Daily Verona Network",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZV9fbTI4U0hKdHF6RlhuQTVzV2l5WG1adDdKUjFPOVVNRE1NcG5qaXpVdFIxRTJGVkhOV0xObjlPMVYyNzlkTFRhVTVQa0dBU0tZOXlDNWhIRXdvWWdVN2ZXd28xYjQxa1RjYmFlYmZwX1V2Z3BvbzdlNUEtSEg5cFc3b2cyVWNtMEsydWxGOUVRajFQd3dLWGxYN2dhem5jUFE?oc=5",
-      "published": "2026-06-27T09:51:30+00:00",
-      "source": {
-        "name": "Daily Verona Network",
-        "url": "https://daily.veronanetwork.it"
-      }
-    },
-    {
       "id": "b625d8d5b860",
       "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - Salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
@@ -894,6 +884,16 @@
       }
     },
     {
+      "id": "13d7966c7c09",
+      "title": "Aoui Verona e il deprescribing: meno farmaci inutili ai pazienti - Daily Verona Network",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZV9fbTI4U0hKdHF6RlhuQTVzV2l5WG1adDdKUjFPOVVNRE1NcG5qaXpVdFIxRTJGVkhOV0xObjlPMVYyNzlkTFRhVTVQa0dBU0tZOXlDNWhIRXdvWWdVN2ZXd28xYjQxa1RjYmFlYmZwX1V2Z3BvbzdlNUEtSEg5cFc3b2cyVWNtMEsydWxGOUVRajFQd3dLWGxYN2dhem5jUFE?oc=5",
+      "published": "2026-06-27T09:51:30+00:00",
+      "source": {
+        "name": "Daily Verona Network",
+        "url": "https://daily.veronanetwork.it"
+      }
+    },
+    {
       "id": "b2d4173281c5",
       "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUNtblhKUHdvLWsyMHpxYWhXU2VMTTJGajBtX2pySXFoQTFrLXRrekh0Q0NJaFVMaEZWTEFKNlpWWVZVQlA0ZW1KWk94TDYxR2hlVEstZmZ1RWdGS3VjaURNTDNBSFNVLWtiNTFhc3NFVU1jSHVWbFE4NXVRVjFka3pIWVlQazg3aG0tSWk0Wnk2N25QM3dIc3BOZDdxRVRudmhrSTZncUtpeGM3YzA5aXIwTzZMbnVtOTJvSmFkVURQZ0l2MVhEZldZQW0xcmtBazdodG9Vajh1UmxYQ1Zj?oc=5",
@@ -901,16 +901,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "d739615948c7",
-      "title": "Aoui Verona, meno farmaci inutili per gli anziani: più sicurezza e 60 mila euro di risparmi - TgVerona",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdW41WHhMaVUyTWwtYmlTMzlHbjhoVXRPbDRmRFJzeGNTckdmbGlhNkNpV2ZGUHdMRHdyUm9tYXNyN3VhVXBRcXFSdkp0MTdBd0dsOW9YWW5FOFA2T0Vka2dsckVzVzF1WVVSR0JhOExYcWJlM01KSUlFQnluVFpjYVlBOHlaWms2Yjd5OU9rZTlOZFhES2VTM0xmUkJlQUI4Nk5zUXkxbDV3VV9ybjhlaFphNWxIZ092UzFfOWMyT2xsYS1rSk44VnpBbW40N1k0ZVZvMW5SQQ?oc=5",
-      "published": "2026-06-27T01:25:00+00:00",
-      "source": {
-        "name": "TgVerona",
-        "url": "https://tgverona.telenuovo.it"
       }
     },
     {
@@ -941,6 +931,16 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "4971e1b375a0",
+      "title": "Leucemia linfatica cronica, la speranza per i pazienti: ecco il farmaco innovativo che parla 'casertano' - CasertaNews",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmI4M2ZRNmEyeGRlT2tHM1hWYzBBZEhwQW4tQlRJcVp4ZUpCWWcyZDQtcExJOEd5U2pHXzVDYkZ3TGtlamVya3RKa254TnMzUC12al9jOXBxSmcxREx1cTVIaEJKV0xEY1RIVnFsUUZRT1VCbjBrN0VrZm1fVHRJN1BVRE5XQVhpajZKVDU5dTNqTGdBX25jaTVvdUNKMXN1SkZ5bQ?oc=5",
+      "published": "2026-06-26T12:51:17+00:00",
+      "source": {
+        "name": "CasertaNews",
+        "url": "https://www.casertanews.it"
       }
     },
     {
