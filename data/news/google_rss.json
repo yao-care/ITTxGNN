@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T20:48:22.688540+00:00",
+  "fetched_at": "2026-06-29T22:03:43.088409+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,16 +24,6 @@
       }
     },
     {
-      "id": "b4674e2a1a24",
-      "title": "Salute: Riccardi, farmacie perno di prossimità sanitaria - TriestePrima",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXk1OUtnRlIxN2IzdnBXVWEzNzhvRTFOd1hWbXNpYUtjTkRCVlM5NmVXM1A3Ny1sU2x4U3hlSHo1YTR2ek81OWFPVkhteVdJWThiUmdmLWpoeGFfZ0lyMnB5V2lRMHJHdkpENmt2TzFoTF9BU3c2Ym13UDg5LW9KR1RUOERjdVgxQ3NLWXpXdzJmbXJpM2lLV1FwVElCanpYempoaVJxbmZtVmwwa3ZVWTY0Y3ZTb1Y0YkI1OTV1cXJFQXUwU3lJb3IzU0Q2dw?oc=5",
-      "published": "2026-06-29T18:22:19+00:00",
-      "source": {
-        "name": "TriestePrima",
-        "url": "https://www.triesteprima.it"
-      }
-    },
-    {
       "id": "ebb9cc50eedd",
       "title": "«Mi sentivo bene e ho sospeso i farmaci»: i rischi delle terapie interrotte - Giornale di Brescia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUVjWUJNSHg1SXEwZ0tKWkZtbk1qNi1VcFlRWmJKd0FqMEIzVjhuRzJCQ1dJekc5RjNfOE41V09PSXBRWEwtQmJHZHE0RWFadmlPWnhfRTE1eE8tVF8yd0U3T2RlckN4OU1sWjBLQTduLWpMbzhGYXhyd1pYOVBZd1BuVVM1NlV5ZEZhazU1dnJ6NURvSU04U2o5dnROSC1hX2d1Z3QzMURvSU9VTGdtSmZDdV81X3NLRHhV?oc=5",
@@ -41,6 +31,16 @@
       "source": {
         "name": "Giornale di Brescia",
         "url": "https://www.giornaledibrescia.it"
+      }
+    },
+    {
+      "id": "b4674e2a1a24",
+      "title": "Salute: Riccardi, farmacie perno di prossimità sanitaria - TriestePrima",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXk1OUtnRlIxN2IzdnBXVWEzNzhvRTFOd1hWbXNpYUtjTkRCVlM5NmVXM1A3Ny1sU2x4U3hlSHo1YTR2ek81OWFPVkhteVdJWThiUmdmLWpoeGFfZ0lyMnB5V2lRMHJHdkpENmt2TzFoTF9BU3c2Ym13UDg5LW9KR1RUOERjdVgxQ3NLWXpXdzJmbXJpM2lLV1FwVElCanpYempoaVJxbmZtVmwwa3ZVWTY0Y3ZTb1Y0YkI1OTV1cXJFQXUwU3lJb3IzU0Q2dw?oc=5",
+      "published": "2026-06-29T18:22:19+00:00",
+      "source": {
+        "name": "TriestePrima",
+        "url": "https://www.triesteprima.it"
       }
     },
     {
@@ -61,6 +61,16 @@
       "source": {
         "name": "Virgilio",
         "url": "https://www.virgilio.it"
+      }
+    },
+    {
+      "id": "800bdf53aeed",
+      "title": "Farmaci Oncologici: Rimborso, Cosa Cambia nel 2026 e Oltre - Microbiologia Italia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclVhd2RyZUptdkJ5WGdjNXlGbnM0d2ZGYjEyRUd2OHM5S29WRmxNUXNOVHYzTTdTeXNQMDJtdXVpSkNYU2JNQ05udjVRSFhmTGI5Y2pSSGh3Tm14MEJuVGhNUUhnMGltZUVLRXZHMEw4X29fMEZITDZKZDZmcmNGZGhQcllmOUktMmc?oc=5",
+      "published": "2026-06-27T04:15:00+00:00",
+      "source": {
+        "name": "Microbiologia Italia",
+        "url": "https://www.microbiologiaitalia.it"
       }
     },
     {
@@ -94,16 +104,6 @@
       }
     },
     {
-      "id": "4b91f5cfab63",
-      "title": "Farmaci, Ramundo (Ibg): \"Equivalenti e biosimilari fondamentali per governance spesa\" - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0tSczlDZTY1TnM4V2liampwUktpbHpoamxuV0V6Z0d6SEREeG1ObHZmS29qR3JhSDFDdkg3VnloaUZrTERPQUF5bkFwQUZITmF0MHhSaU9XeEhaZWFrMHA3U3dDSVlPbldRbmtveWg5ZGd6R09qM2hzYTRjUXBsWjAwYTNfSzhkY3R3SXdrRllpdS11a0x1YzNGOWZNNTlqai1FN3NoOG15LW1GbzR1NFhiVFNDUElCX3Q3QjhUVjVmOGRORlFkMk5oeWhfNFlCdXJZSU1HVVhRQzdNdTVZZtIB3wFBVV95cUxOVnJjSkdIY2hCSlNnY243eGdmcDBRRUZfZDVaUy1YODcyZm9hcVFfeTJRbnZ6ald0UlBtTDJKTTZmUF9IbjdmOVE2UmFYTEtrNlE0TUw4NnBMTUlzOGhNZTVnUkFIQmpfM1FfMzdkRHRwUDA5Vmh4QTZsdmM3TmxLdE05bjMzRFFqLU9uMXVFajNGdjl2aTRYREY4NXExaXZCYXM1aHIyWlRmY09vb0tKWEczYnA4YWNyMW1qRGNRR1VMXzFHbVVqX2NQeklFLUw5RDZKTFpFU29ZXzJZcjJJ?oc=5",
-      "published": "2026-06-26T16:24:07+00:00",
-      "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
-      }
-    },
-    {
       "id": "31c369228ec9",
       "title": "Farmacie, rinnovato l'accordo con la Regione: più servizi e telemedicina - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWTItSmdLUkNCamowSmZUTUlpVmhaN3VyNHItT0NtdUVNWFdOX2ppdUtPenc2WXdma3RWanlGY0FQeFNFaG5NSXhPWE0tTFUyN1hXQ3lJVVR0UDZ5cnhBQ0pPQ2dWNkRlR0c5dnZxZ0ZVOVFyNzBMOU5sSUM3YzBLbVIwWlpfT1otSHlLRmZjV2RiU3Jib2FqdVR1bHhxQUd1bzFDb2k3U2xPRlhLeE9KXzFOdGRubnk0Yzg1bVFicDJJUEFXRDQtQ2wyVEtZbDNrMF93VEdBYnJaMW8yNDItQlg3S3ZNNS1QV0ZVZ1M1cjbSAfYBQVVfeXFMTmUyeGNxSzFMc2FBbXg2dExzdmVadE96NkUtQTFjTlhCZ3E1VzM5N2d3bFV4cW9FUTNLdGNiTFR2WVdEOGk0cEpkbjV0VXBzQ3J1T2hLWVpuRnphVzJKYVU0aWoxdjJLQ21PcVA1dmEwaGJKcDJTcS1xUUlSd05UN1Y1NVprRjhZem9fdnRmbXVycFFuX1ktLWFyZDlSOW81cHF6ekpSWS0wZWhXblZaU0FkeDlyMTB5clVIUGtnc2N3eUlfbS10UFNXeEJmVkdJekVvRjJvWkRqVEdsdnZBdFp4ckl3eHdXNzhDTHc3U1JKMkxxeHlB?oc=5",
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "bef704029f81",
-      "title": "Farmacie galeniche, sul sito Fofi il censimento aggiornato, utile (anche) a medici e veterinari - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSExiQVZhNFRMVklnUEpYbjRMdFZLeWJ4dUhRdlFteGFRWEJZb255cjlwSjZVeC1BVzMzcXVDeWQ0b1lLeFlJUlZvaHdwVXVGeEs1dDFxQnZyMzNVLTFTTXdXOVQ3MU1pb0ZSVml1RFY4Z2tJa2hubllva1o3dlJpbXdjVWhDc1VSdEh2ajBWN1daNURoT01ub3ZTMk9iTnBvWUI0dmxmUm9CM05PVVZCQmZKVThNYTJ1NFJfdkdaejNON2c?oc=5",
-      "published": "2026-06-29T17:06:52+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "942a4806bcb1",
       "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
@@ -164,13 +154,13 @@
       }
     },
     {
-      "id": "f3555ec1bdcc",
-      "title": "Bloccando una proteina si ferma l’infiammazione della psoriasi. Studio apre a farmaci innovativi - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckNHWUY0d0M0T1NWWDRaVXRoMThVMlpaVGdvRUhBblJmOFBybkRBSmxhYUJ5Q3VuUU5Ebk5LWVJWX0tJMTJ2akRYTkZSZVI0MTZuc1dLNlhxVW82VE01dWh3WkhxNkxSczc4WVI5ckJhRndURDdCTmNCcXNfc0FXb3JjQVhUbDQwTW45RkpRa0padEY2dDRIRDM4aTZCU1hJQ3NuS1hnQktFRzNLMXRGejA2VWNibkEwSU0xMDJkclJ0R1p1d0lPUktNMENOUQ?oc=5",
-      "published": "2026-06-29T08:10:00+00:00",
+      "id": "bef704029f81",
+      "title": "Farmacie galeniche, sul sito Fofi il censimento aggiornato, utile (anche) a medici e veterinari - RIFday",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSExiQVZhNFRMVklnUEpYbjRMdFZLeWJ4dUhRdlFteGFRWEJZb255cjlwSjZVeC1BVzMzcXVDeWQ0b1lLeFlJUlZvaHdwVXVGeEs1dDFxQnZyMzNVLTFTTXdXOVQ3MU1pb0ZSVml1RFY4Z2tJa2hubllva1o3dlJpbXdjVWhDc1VSdEh2ajBWN1daNURoT01ub3ZTMk9iTnBvWUI0dmxmUm9CM05PVVZCQmZKVThNYTJ1NFJfdkdaejNON2c?oc=5",
+      "published": "2026-06-29T17:06:52+00:00",
       "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
+        "name": "RIFday",
+        "url": "https://www.rifday.it"
       }
     },
     {
@@ -181,6 +171,16 @@
       "source": {
         "name": "The Watcher Post",
         "url": "https://www.thewatcherpost.it"
+      }
+    },
+    {
+      "id": "f3555ec1bdcc",
+      "title": "Bloccando una proteina si ferma l’infiammazione della psoriasi. Studio apre a farmaci innovativi - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckNHWUY0d0M0T1NWWDRaVXRoMThVMlpaVGdvRUhBblJmOFBybkRBSmxhYUJ5Q3VuUU5Ebk5LWVJWX0tJMTJ2akRYTkZSZVI0MTZuc1dLNlhxVW82VE01dWh3WkhxNkxSczc4WVI5ckJhRndURDdCTmNCcXNfc0FXb3JjQVhUbDQwTW45RkpRa0padEY2dDRIRDM4aTZCU1hJQ3NuS1hnQktFRzNLMXRGejA2VWNibkEwSU0xMDJkclJ0R1p1d0lPUktNMENOUQ?oc=5",
+      "published": "2026-06-29T08:10:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -214,16 +214,6 @@
       }
     },
     {
-      "id": "2b29ac2a752c",
-      "title": "Più servizi in farmacia: cosa cambia con il nuovo accordo in Fvg - Diario FVG",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1kyWHRjTDVJVmhqVl9xLVpPaVRMeS1pVXRBV1NTRkxQdkh5N0NLZi1ockdRYmJZMm9VcUpIc3N4ME1uU0ZVWEhKNlc2ODg1NUV5akJSdkFxU2RTQThUU3BiNEtzSXZYbXJDeGNEeDNEUm5qQ0FwNVBtOGFqcTBtaEdFUU5vaV9WX3NUdElMOTFOZnlsUlRjNFZB?oc=5",
-      "published": "2026-06-29T14:57:08+00:00",
-      "source": {
-        "name": "Diario FVG",
-        "url": "https://www.diariofvg.it"
-      }
-    },
-    {
       "id": "c99918c278e9",
       "title": "Farmaci. Con il caldo possono diventare inefficaci o dannosi. I consigli di Fedefarma Verona - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDhjWFM0aF85SjZkNFQzNDhFR24tdVBZN0JaaGJ2RFV5RklUMkZ1ZFpFd05pZy1RakNKUXJCODRqUkdwQUtDYjFoNFE5N25MSFJUV3IzUEVpM3pfUUFndFRSRjFIUlJlby03YnBaSTRPME1PQXFZYUF6dmlRZk5lcldqTmZGYjdQQ3lSS2tYcFJ1dVNOdWUxNmx1YndsQUZOSFdzOTJxSHJZc1FGdGtYZTROdDEtd0JqQWVxTXpPTmEtWVFnbEZadVdkalQtN1lnTVJN?oc=5",
@@ -231,6 +221,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "2b29ac2a752c",
+      "title": "Più servizi in farmacia: cosa cambia con il nuovo accordo in Fvg - Diario FVG",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1kyWHRjTDVJVmhqVl9xLVpPaVRMeS1pVXRBV1NTRkxQdkh5N0NLZi1ockdRYmJZMm9VcUpIc3N4ME1uU0ZVWEhKNlc2ODg1NUV5akJSdkFxU2RTQThUU3BiNEtzSXZYbXJDeGNEeDNEUm5qQ0FwNVBtOGFqcTBtaEdFUU5vaV9WX3NUdElMOTFOZnlsUlRjNFZB?oc=5",
+      "published": "2026-06-29T14:57:08+00:00",
+      "source": {
+        "name": "Diario FVG",
+        "url": "https://www.diariofvg.it"
       }
     },
     {
@@ -344,16 +344,6 @@
       }
     },
     {
-      "id": "a23375da34fd",
-      "title": "Industria farmaceutica italiana: export record - socialfarma",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSG5QajhibmNhR3BvMl9BMzlwa2tnd3BvUEt4cElBNmlaNms0Y3lKM3ZrNGNNbi1FTmFpLUZaVHhWaC00WXFEUGNsaHdrYUl5Z2ZvRk8tSEdyN3c5TFhqc3M1WDdVTmR0dGY0dGN1N292b3Z0MHZPd2JLMV9EdVlxU3k2Qm1Dd1FMMWJZOEtfZkZhXzlsRlhpdkpkUGU1TTR1VXcyQkJSRThfZjk3aXJCLXlmRThlQ05JdUV4OUxuTnd1NXEzY3FaZXdVVQ?oc=5",
-      "published": "2026-06-23T10:20:12+00:00",
-      "source": {
-        "name": "socialfarma",
-        "url": "https://www.socialfarma.it"
-      }
-    },
-    {
       "id": "13c0b6aa8ee5",
       "title": "Alzheimer: nuovo no alla rimorsabilità degli anticorpi monoclonali in Italia - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVFHTmpaUHpKaVhuaFFObEQzZGhKOEFQTWZZeFE4M3FDLXFiZmFzSFJlLVg0Zmp5N3pFcVRPRGd4NlpLT3BvbUlqYXRHNk8zQkFZcmxJNHVCTUJhNzFySWF1WEtjcDRaZ0U5bnpZMzlOQXVvZW9TcmhFQlc1akppWjJUVnVrRmxoeVh0bmRUZVBlYUxjSVRGZkYxR3p0ZFRNek40UjZ5bmVDUElycG53b1lzRF95Q0QxSWh2c3p1anYwT3Bs?oc=5",
@@ -361,6 +351,16 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
+      }
+    },
+    {
+      "id": "a23375da34fd",
+      "title": "Industria farmaceutica italiana: export record - socialfarma",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSG5QajhibmNhR3BvMl9BMzlwa2tnd3BvUEt4cElBNmlaNms0Y3lKM3ZrNGNNbi1FTmFpLUZaVHhWaC00WXFEUGNsaHdrYUl5Z2ZvRk8tSEdyN3c5TFhqc3M1WDdVTmR0dGY0dGN1N292b3Z0MHZPd2JLMV9EdVlxU3k2Qm1Dd1FMMWJZOEtfZkZhXzlsRlhpdkpkUGU1TTR1VXcyQkJSRThfZjk3aXJCLXlmRThlQ05JdUV4OUxuTnd1NXEzY3FaZXdVVQ?oc=5",
+      "published": "2026-06-23T10:20:12+00:00",
+      "source": {
+        "name": "socialfarma",
+        "url": "https://www.socialfarma.it"
       }
     },
     {
@@ -374,16 +374,6 @@
       }
     },
     {
-      "id": "4d4d4413a397",
-      "title": "Perché alcuni farmaci falliscono? Forse vengono testati nelle condizioni sbagliate - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0tOcTFRVDFWb1pYdHhyUkl1LTFreW1RNHJSMEhjRXlrVEUzWnlpWDFhcmxCWXRhbTVEOEJmRURhWFVwcmpMOGFnWUk5RUt3U2E5cU5OUWREY1pKNGRIcVl0NENqOHN2cTJfRVhaZlFsclNjYXhGWlExX21oZ1NrZG9aWHFGaDRWM01VYUQ0anNEM1R1NG05U1RFYmI0cVBkVy11cm1hSnVZX0prMXJ6X041T0k5TmFVdnlORlByMkFvX1NXRU8wedIBzgFBVV95cUxOTmx0RERvWFN3QzBFb19jeEZtcmVCVllzRGtXclk2eFJKc1NwVHF0N0hVUTB3VE53OFZCdWw3U1dNWHFOckxGRUJjRzV5TWFGazdmdG9hTHN0VllWeWJ0S0ZCZGF2UUU0eXE2aGxxTzZVeU9pbDlETWZGX2NBUnZEamo5UWJzN1dJSjdpSHF3TlNrRHpya2pZaENUTFZIbUctSHVCUU1aT0dqMm1EVENOSmJ6OVRneFY4N2o1WkZoblg3VmJrWkRxRmJFT0lEdw?oc=5",
-      "published": "2026-06-25T08:45:54+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "9e3ddd48dca3",
       "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - OMaR – Osservatorio Malattie Rare",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
@@ -391,6 +381,16 @@
       "source": {
         "name": "OMaR – Osservatorio Malattie Rare",
         "url": "https://www.osservatoriomalattierare.it"
+      }
+    },
+    {
+      "id": "4d4d4413a397",
+      "title": "Perché alcuni farmaci falliscono? Forse vengono testati nelle condizioni sbagliate - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0tOcTFRVDFWb1pYdHhyUkl1LTFreW1RNHJSMEhjRXlrVEUzWnlpWDFhcmxCWXRhbTVEOEJmRURhWFVwcmpMOGFnWUk5RUt3U2E5cU5OUWREY1pKNGRIcVl0NENqOHN2cTJfRVhaZlFsclNjYXhGWlExX21oZ1NrZG9aWHFGaDRWM01VYUQ0anNEM1R1NG05U1RFYmI0cVBkVy11cm1hSnVZX0prMXJ6X041T0k5TmFVdnlORlByMkFvX1NXRU8wedIBzgFBVV95cUxOTmx0RERvWFN3QzBFb19jeEZtcmVCVllzRGtXclk2eFJKc1NwVHF0N0hVUTB3VE53OFZCdWw3U1dNWHFOckxGRUJjRzV5TWFGazdmdG9hTHN0VllWeWJ0S0ZCZGF2UUU0eXE2aGxxTzZVeU9pbDlETWZGX2NBUnZEamo5UWJzN1dJSjdpSHF3TlNrRHpya2pZaENUTFZIbUctSHVCUU1aT0dqMm1EVENOSmJ6OVRneFY4N2o1WkZoblg3VmJrWkRxRmJFT0lEdw?oc=5",
+      "published": "2026-06-25T08:45:54+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -594,16 +594,6 @@
       }
     },
     {
-      "id": "571f44c94df2",
-      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
-      "published": "2026-06-27T18:11:00+00:00",
-      "source": {
-        "name": "veronanews.net",
-        "url": "https://www.veronanews.net"
-      }
-    },
-    {
       "id": "02f34c097a5e",
       "title": "Salute sempre più a pagamento: Agnoletto spiega perché - Il Fatto Quotidiano",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1lKYnpEUEVUeFB0dnVxNy1qN2lPazR2RTRyMmRSRlRnNHNrXzgwYnY4MVB1LV9Oel9xLUcyY2l6VldwYmxSaGNJTUFnWmQ5QlBicXlYYUdQeVBhMnhhSFBWQmhtYzkxa2c3ZzBqUzNLcm9FSm5ZQWdDcGU4S0lIWk1MVlZZZDBBOUpZdDZlZDNiX0o5ckFpa01rRVhWZTBBblZ5WVZhY0gxUXRpeWk1ZzByVjhVMl9VdUNPYmVqaENxcV9kVHhZM3B4NWZZYjdmSW41dTFMQ1cxbFk?oc=5",
@@ -611,6 +601,16 @@
       "source": {
         "name": "Il Fatto Quotidiano",
         "url": "https://www.ilfattoquotidiano.it"
+      }
+    },
+    {
+      "id": "571f44c94df2",
+      "title": "Farmaci inappropriati, il modello Aoui diventa riferimento nazionale - veronanews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnZmdUVUMTlVcXlEX2IxQ1NfYTlDSXVaQktlOG1hWEpXeGFwM0pSdERCellfb2V2WDBRX3V4eFRKTHZBN0JPbmtDdFRGNndNSy0tWnNqcldWSjFhZWRfdXJIS1pEM21RYlRhV3ZzdlVMUFllVG9oRDhNYUoyX3RnZ2RFNVAzblM1TVpfMW8zSE02NmdFUnktWGtJYw?oc=5",
+      "published": "2026-06-27T18:11:00+00:00",
+      "source": {
+        "name": "veronanews.net",
+        "url": "https://www.veronanews.net"
       }
     },
     {
@@ -764,16 +764,6 @@
       }
     },
     {
-      "id": "467274eddb68",
-      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
-      "published": "2026-06-27T16:50:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "ddfd75d7e785",
       "title": "Caruso in Commissione Salute: confronto su farmaci, cardiochirurgia pediatrica e rete talassemia CLICCA PER IL VIDEO - Sicilia Medica",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY25XTjB6WmJKdlBsd1Y0SDlZU3MyUzZUV0R2YU1GNURwZllUbkN4NWZiT2RaSjVjV0RQdDU2M21MVWtLUGZrUGpZeDl4WlVuODVTTWs2Ry1feFV2OTRlcXduTUdSdGNIb19TOElnZzQ2RTNiVjZCeG5EZnFHZHdKdDNDU1BQWjZTVndMY0F5alZ1OENKcndlbGwtOEJRYXB5MnVPcW5Jeko2eDMyekw1bWNlcWoybHpBZ2NnVEJ3ZktVUjA1a0pHMldDRko5NVBKUUhtOXlycGdWU1BVYndoUzR6UHM?oc=5",
@@ -784,13 +774,13 @@
       }
     },
     {
-      "id": "72f95c8a8d8b",
-      "title": "Farmaci in estate: i rischi legati a sole e caldo e le regole per proteggersi - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjltTUFhVEJvdkFrR2pkMDJ3MkNiLU5lLXdOWl9uek1XX1IxUEdNalkwMGRhYmhHM2lVWnRpbHFpeUpqbGc1UGlrNVRYUGNXbWpDVVZWenRqTlppU3hRQXdIUDN6eUgzQk4wem91bEt6U1hvS3BTMU05S01sTElVdU50b3VvaGhqNjRZb0RORTlkN1RXMW5ZZk81YTZORHY1SDluYWkxNEpfV2tqREs4a2pCUm56clk?oc=5",
-      "published": "2026-06-25T07:00:00+00:00",
+      "id": "467274eddb68",
+      "title": "Mente annebbiata e vuoti di memoria? La svolta arriva dall’intestino - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEQ0SE5XS040QWd5M0ptUGJBRnNVbXhFQmlYNktqQTlOUnZQa1EzeTEtNUdZZGN2RmZiOWZfMWNHckF2MnBzR0ZBNkVTYk9QQ2E1NWRGMmhYSkRqeFBIYzNKY3FIOG5VQTBMeHBmcko5NWpBMVBIcXR1a2w3MkVCWnczVDZnRVJGUHVkbmZkbHBPR1lPNTRxVF9FX3c?oc=5",
+      "published": "2026-06-27T16:50:00+00:00",
       "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -814,6 +804,16 @@
       }
     },
     {
+      "id": "72f95c8a8d8b",
+      "title": "Farmaci in estate: i rischi legati a sole e caldo e le regole per proteggersi - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjltTUFhVEJvdkFrR2pkMDJ3MkNiLU5lLXdOWl9uek1XX1IxUEdNalkwMGRhYmhHM2lVWnRpbHFpeUpqbGc1UGlrNVRYUGNXbWpDVVZWenRqTlppU3hRQXdIUDN6eUgzQk4wem91bEt6U1hvS3BTMU05S01sTElVdU50b3VvaGhqNjRZb0RORTlkN1RXMW5ZZk81YTZORHY1SDluYWkxNEpfV2tqREs4a2pCUm56clk?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
       "id": "d34ddb7b4533",
       "title": "Marcello Gemmato: farmaci più accessibili e meno burocrazia - Fortune Italia",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXVFRzVuTk9nVE9IdTBGSzBseWlNMTdJQTdweFR1bXVnQWNVZV9PbTdfRFZhVUpGaTlJR0c5SlhEUGVNWUtlek0xeUxfd1c4cjVRRG1FNnRqV0NJMkpoT1R0MU95R3dWbXZpWUlVb1YwMkE5VURMN0xNbkVMU2dsUTNGTU5QNGVyaVRaUEcxNy1IQzhkRjBQV3VMYlpvZw?oc=5",
@@ -824,16 +824,6 @@
       }
     },
     {
-      "id": "1886f8d11eda",
-      "title": "Arresto cardiaco dopo il terzo vaccino Covid, maxi risarcimento da Ministero Salute e Agenzia del Farmaco - RiminiToday",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaF9jVlhtYzBNV2N3MnVtR2stalBqQzhkTk8wNG1ibmRvcmZ3NFNjdDVEaTFxb0hWdlhRYW5PdjE4S2xFRlU1dVJUeEczWHNEVmROOGlQbkN3cmE1RmJoZDhKQTRTQ2wweExTVEt2VEs2R2I0SkhlU1RTQ2lmMGxZYWliVnJBSWxUNWkwZmtRQnRKTFNvcXZRcmlnUVZVbXAtdDRpTVhhb1VYMElIdHp2RE5ITGo0ZDIxXzhOblRuMkdxbzJLay1FZnQ5RVR6U3Uya2xPT0ZjRnV5YVEzX1E?oc=5",
-      "published": "2026-06-25T12:25:21+00:00",
-      "source": {
-        "name": "RiminiToday",
-        "url": "https://www.riminitoday.it"
-      }
-    },
-    {
       "id": "370c3cb8eff5",
       "title": "Persona qualificata di un sito di fabbricazione di medicinali veterinari - Salute.gov",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzBzWGZhcUQ1VlpVbzRWbFV6bzdNTW55dlAzN1BVTWJGQ0VaSERrdlRXUWRKUF93Sk1nOUowM2NwejRtTDIwYTJWeGZ5VDFrX1g5bWVWaDJCQ2lkeXhqeUVxOHZISmNsYWRudnhYb0ozN01GNk1zcXoxRDNoUTR6RmVNcEl2RnBmSkFtRXh0ODM5QWIwcTBVbXZPZTZncE9GZUY5M0VIazJwSjlEVXU2OGZLRVVpOUNxNVMyRlVqWDhPZw?oc=5",
@@ -841,6 +831,16 @@
       "source": {
         "name": "Salute.gov",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "1886f8d11eda",
+      "title": "Arresto cardiaco dopo il terzo vaccino Covid, maxi risarcimento da Ministero Salute e Agenzia del Farmaco - RiminiToday",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaF9jVlhtYzBNV2N3MnVtR2stalBqQzhkTk8wNG1ibmRvcmZ3NFNjdDVEaTFxb0hWdlhRYW5PdjE4S2xFRlU1dVJUeEczWHNEVmROOGlQbkN3cmE1RmJoZDhKQTRTQ2wweExTVEt2VEs2R2I0SkhlU1RTQ2lmMGxZYWliVnJBSWxUNWkwZmtRQnRKTFNvcXZRcmlnUVZVbXAtdDRpTVhhb1VYMElIdHp2RE5ITGo0ZDIxXzhOblRuMkdxbzJLay1FZnQ5RVR6U3Uya2xPT0ZjRnV5YVEzX1E?oc=5",
+      "published": "2026-06-25T12:25:21+00:00",
+      "source": {
+        "name": "RiminiToday",
+        "url": "https://www.riminitoday.it"
       }
     },
     {
@@ -954,16 +954,6 @@
       }
     },
     {
-      "id": "0cbd4b95715d",
-      "title": "Farmaci e salute orale, l’Ordine di Enna fa formazione sulle reazioni avverse - Sicilia Medica",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IzQmYtVnZsRmw0VEl3Q3Azc3lfMlctQzUyM2x4MWI5bS1mZTc2STFQTjJVTVNxWTJCTVBDWjBWTHppM0tob0JMYnVlRjlpaUE1bjhOVzNkYVFSNnNrSHZuSHhfOC1GTEpDTUFDNUhiRGlKczlDWkN0V3hEWFl4MlFWR2FyeV9jRFBWQUN6V1NobGR5TXdGa1E1SjVaWGJmSG5JUTBHWEtINm1RbjhRdQ?oc=5",
-      "published": "2026-06-03T07:00:00+00:00",
-      "source": {
-        "name": "Sicilia Medica",
-        "url": "https://siciliamedica.com"
-      }
-    },
-    {
       "id": "254b4cf02a52",
       "title": "Farmacia hub: metamorfosi della salute tra prossimità, sfide professionali e sostenibilità - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWUl5eVdMVEpoRm0xLWJBQ3EydjB5dlJrOWF2X2U4YzdqcXBfUjdKcVdvUi0zMkM3WFprN0Q4QWYyYnFHTkFjUS1RWGVqdUVZWmFsQWdoZFZpaDA5?oc=5",
@@ -971,6 +961,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "0cbd4b95715d",
+      "title": "Farmaci e salute orale, l’Ordine di Enna fa formazione sulle reazioni avverse - Sicilia Medica",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IzQmYtVnZsRmw0VEl3Q3Azc3lfMlctQzUyM2x4MWI5bS1mZTc2STFQTjJVTVNxWTJCTVBDWjBWTHppM0tob0JMYnVlRjlpaUE1bjhOVzNkYVFSNnNrSHZuSHhfOC1GTEpDTUFDNUhiRGlKczlDWkN0V3hEWFl4MlFWR2FyeV9jRFBWQUN6V1NobGR5TXdGa1E1SjVaWGJmSG5JUTBHWEtINm1RbjhRdQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "source": {
+        "name": "Sicilia Medica",
+        "url": "https://siciliamedica.com"
       }
     },
     {
