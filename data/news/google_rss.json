@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-07-06T14:57:16.888423+00:00",
+  "fetched_at": "2026-07-06T17:39:09.662803+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "613bf452a6c7",
+      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
+      "published": "2026-07-06T07:15:54+00:00",
+      "source": {
+        "name": "fnovi",
+        "url": "https://fnovi.it"
+      }
+    },
     {
       "id": "8d57507e1f2d",
       "title": "Furto di fentanyl: che cos'è e che effetto ha la \"droga degli zombie\" - Focus.it",
@@ -11,26 +21,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "40f9996e90b7",
-      "title": "Farmaci, Ema ritira dal commerico il Tavneos: perché e per quali patologie è usato - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGE0aDBjNzFlRDh4c3F1a1dBOFV6MWVva0JQRHdLaDF2MUo1dTNxTGFKdEJJeHpEMGdTYkpJLVZqZUVTaDRkRFBFY2FHZjUzbVRGLUlCUG1uTC1FbTF1XzYzQ0NCU0gyNFQxNmFDdHRGaUw4WC0tSzA0SklSRkpBQWhtWGdZNjdtdzduaGdtclZJaW1BSUdNdk5mUy1fbWJaUlBmblRBRVV2YXPSAaQBQVVfeXFMUE9HaW1xcHFTODF2MWNZR2EzMGprdERCamJYMkNMTVp3VDUwdUE3T1oyVVhOVDRCNnpWWWNucUVLRm5pcGhhc2xwMUpCeVVTMHpKU1hnQW5lUkMzU3ZCWGNaS0h0ZXFZU3lIQWowTklnX0xRUXFZSG5vaTRMelNjMjAzOE9wLTVlSmhuZFItUE41RDVPeXgwaUswbjBFOFpJOXNzU1Y?oc=5",
-      "published": "2026-07-06T11:16:12+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
-      "id": "f7c6194fcfb4",
-      "title": "Svolta nella cura dell'epilessia resistente ai farmaci: c'è la firma del Gaslini e dell'Università di Genova - GenovaToday",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1p6cUtLYkhVcDlxdjMxWm1tTkNuXzRLeHpZZ2xwd3ZNTjVHSWpDSlZIX0hxQngwZmk4NnZGR21UVHctekpkUzVydDZOOVo3eERXS2piLUctbG1nRjdJcXJMbjlqTldfZWxuTnVjQkx0UVlLQmtUY3htNVBKSnRYc0laNmdobkNPLWtqLU9hMjZfZw?oc=5",
-      "published": "2026-07-06T13:04:08+00:00",
-      "source": {
-        "name": "GenovaToday",
-        "url": "https://www.genovatoday.it"
       }
     },
     {
@@ -44,43 +34,13 @@
       }
     },
     {
-      "id": "747b09bb4b38",
-      "title": "Deprescrizione: Per Berrino bisogna Ridurre i Farmaci Inutili per una Salute Più Naturale - Microbiologia Italia",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKdHFsVHEyZWVRbC1uNGJyOUFhRDhkVjBIMnZ5WXlreEtvQnNGSlhRR01wZzdUR1hLSXF2NEFybnJGTmRsSXV4V1NoU0VqRGJVODZjQ2xuZlgtLWlVd3JxaGVWWTZlcmVpWDEwYm8yY2NnMlk?oc=5",
-      "published": "2026-07-06T12:22:09+00:00",
+      "id": "f7c6194fcfb4",
+      "title": "Svolta nella cura dell'epilessia resistente ai farmaci: c'è la firma del Gaslini e dell'Università di Genova - GenovaToday",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1p6cUtLYkhVcDlxdjMxWm1tTkNuXzRLeHpZZ2xwd3ZNTjVHSWpDSlZIX0hxQngwZmk4NnZGR21UVHctekpkUzVydDZOOVo3eERXS2piLUctbG1nRjdJcXJMbjlqTldfZWxuTnVjQkx0UVlLQmtUY3htNVBKSnRYc0laNmdobkNPLWtqLU9hMjZfZw?oc=5",
+      "published": "2026-07-06T13:04:08+00:00",
       "source": {
-        "name": "Microbiologia Italia",
-        "url": "https://www.microbiologiaitalia.it"
-      }
-    },
-    {
-      "id": "bdb153250869",
-      "title": "Malattie rare: Scopinaro (Uniamo), ‘cresce accesso ai farmaci, il 95% approvato da Ema’ - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcS1ETUt6LTBldGxoNFdndnF0alJhTkpUci1BemZXQU95S3JzcWRhUXd2UmF5d1BHSWktUzgwU3NieUYzX1pGSUoyaW9fX19NUEtZR3loZTU5bk1VYzRUYlg0Vndock94M1lKLTNlNTdlZHpWYnEwTDhfX1FHT3JId19tV1A2N0ZVUWI4XzRURENNS2ZpcHE3UHV0LVJJMU1jUTExYTBuVER3ZVZPa05rU2l1Q1d0bWJxLVNmRVRIN19DYVRKX2ZFY1M2NlRKdlE?oc=5",
-      "published": "2026-07-03T08:25:03+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "a2c248e5535c",
-      "title": "La progressione della SLA si può rallentare? La promessa (ambiziosa) di un farmaco sperimentale - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUFhVDNlTTZjazhyQmhjYnM5SmVxR2RkOGRteFdDWTNWSjRHWEFESGQ0STN0VU0wZUN1NW1mV29NUmJPQ0stbVFva0ViWjlBNWRsazdzQXFGSS1xYVFZaW8tVGRCX1lTcUhURG1VTG51THBDS0N3Nk1DYzVUZVVZdWhUYnJ4LUxaMFdIWGw2NzE4YWMzWkIwZlZUZWxRNHNPY1lrOGktM1dVYnZBSkZqMDlSRjRTWjZpYWlwLVFvUHMtcDVGc2pB?oc=5",
-      "published": "2026-07-04T06:29:48+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "613bf452a6c7",
-      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
-      "published": "2026-07-06T07:15:54+00:00",
-      "source": {
-        "name": "fnovi",
-        "url": "https://fnovi.it"
+        "name": "GenovaToday",
+        "url": "https://www.genovatoday.it"
       }
     },
     {
@@ -94,6 +54,16 @@
       }
     },
     {
+      "id": "86e76e5d6775",
+      "title": "L’accordo commerciale UK-USA sui farmaci: quante vite costerà? - careonline.it",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2JBaFUxTm8tNE1EZlJIdWFRWmtVblR3M25mV29jeVNCZzNTV1cwM0NXMnluN0VuQlNDaG9aVVNETkxJTk5JLUxPakpySE1oS3ZJSHNQQ1hjdnJjaWZLcUVLX2tFWmY3SExobDRQbjZoY292V0ZlY01vV2pVc3ZQcjFqMDFjU2VldFl1UkZ3bFVaQUw2YlZ1VEZMTWdnNGVLRzYtdmpKUzVWYmtkQW1KX2NaVQ?oc=5",
+      "published": "2026-07-06T09:29:25+00:00",
+      "source": {
+        "name": "careonline.it",
+        "url": "https://careonline.it"
+      }
+    },
+    {
       "id": "cc203f39b7fa",
       "title": "Malattie rare, contributi ai cittadini per l'acquisto di farmaci di fascia C - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNREJOcTlVbE8zRHJkQU1hMWg3a0RRa3pIYXIyTTU3aEp1UVlmbnZ3RDQtS3ZyU0NlVFM2ZnBXelUyRlVnT25rUHlCZXlxZzFyVzljTEh4dGpYYkRWWHhfUDBWSnBmbUR2cTZUN19BRTZDTWdOVTdyNF9Ib3d6aWJhTEhyTmVzamRJSFNPZ3Vfbm9VeXY4ZDItMWNjNzNsbTVoc1pXTmlMTE93bFJtUWFTdXphRUlCR0dEdzNoOHZFc09mYkdkMk1HUzFabFl1cEFudjQtZ05ZMjZSeWRpZFRHSk9zVzVzNExEVGFjdzcyVmpvTnVVeHpYVXpNc3V3ZE3SAYQCQVVfeXFMTm5JcmxXNWxlM3pTVXR0QktPRGhwdmFValg1VVBHS0c4X3VoNFpYUDg3TzYtMWZpN1o5SElYSlF5d0Fta3c0c1E0clgwUFZvakhFeGpMSlRHRjNqQVNCVDJ0ZXR3aGsyZTFKeFZqb3JNMi1mZko3UHQtRTBJY0xmaGRPSHRwU3BXbU9ZNU9ROU1Ic1NNZmlOZGd3bDNpQ0hOOTQ2MlBDMHFpZVRFRTBoeHVyQW9HS2dydmJfaTRYWTZnRVY1NFRiYlRDQzNRTm5RSU5jMW5ya2I1Zld6NmFvZjJQTkNLVENFOVk5ck9qMHVzT1ZfTENQS2hlUlo5S3ZNVmtqeEo?oc=5",
@@ -104,13 +74,33 @@
       }
     },
     {
-      "id": "86e76e5d6775",
-      "title": "L’accordo commerciale UK-USA sui farmaci: quante vite costerà? - careonline.it",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2JBaFUxTm8tNE1EZlJIdWFRWmtVblR3M25mV29jeVNCZzNTV1cwM0NXMnluN0VuQlNDaG9aVVNETkxJTk5JLUxPakpySE1oS3ZJSHNQQ1hjdnJjaWZLcUVLX2tFWmY3SExobDRQbjZoY292V0ZlY01vV2pVc3ZQcjFqMDFjU2VldFl1UkZ3bFVaQUw2YlZ1VEZMTWdnNGVLRzYtdmpKUzVWYmtkQW1KX2NaVQ?oc=5",
-      "published": "2026-07-06T09:29:25+00:00",
+      "id": "40f9996e90b7",
+      "title": "Farmaci, Ema ritira dal commerico il Tavneos: perché e per quali patologie è usato - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGE0aDBjNzFlRDh4c3F1a1dBOFV6MWVva0JQRHdLaDF2MUo1dTNxTGFKdEJJeHpEMGdTYkpJLVZqZUVTaDRkRFBFY2FHZjUzbVRGLUlCUG1uTC1FbTF1XzYzQ0NCU0gyNFQxNmFDdHRGaUw4WC0tSzA0SklSRkpBQWhtWGdZNjdtdzduaGdtclZJaW1BSUdNdk5mUy1fbWJaUlBmblRBRVV2YXPSAaQBQVVfeXFMUE9HaW1xcHFTODF2MWNZR2EzMGprdERCamJYMkNMTVp3VDUwdUE3T1oyVVhOVDRCNnpWWWNucUVLRm5pcGhhc2xwMUpCeVVTMHpKU1hnQW5lUkMzU3ZCWGNaS0h0ZXFZU3lIQWowTklnX0xRUXFZSG5vaTRMelNjMjAzOE9wLTVlSmhuZFItUE41RDVPeXgwaUswbjBFOFpJOXNzU1Y?oc=5",
+      "published": "2026-07-06T11:16:12+00:00",
       "source": {
-        "name": "careonline.it",
-        "url": "https://careonline.it"
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
+      "id": "f2c034f5ce99",
+      "title": "Farmaci rimborsati, AIFA pubblica il Rapporto 2024-2026: tempi medi di valutazione intorno ai 4 mesi - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWNtd3RvTHV5MjI2TllqaTh1SGRCYXY1SXY0VnNCTzhoZ3RwdXFDZVVKaWtFZE1tSHlTZlF5cmVCMV91aldHak11RXQzWGdTT1NvU29FNm05V1NfYTNLOF9la2NJTW1iRjhwTHluUG9vQkVmSklhd002V3plOGRxRDdUWTRMWVpmbnZQenZRSkFFZGlENHN2VlJtNjZhZFFwSDVBNU5sdUFxZmp6b01rR2hKblZRNHlaUjZ4eXpnVTR0ZGkwMXVtOG5tbUUxUQ?oc=5",
+      "published": "2026-07-06T15:04:00+00:00",
+      "source": {
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
+      }
+    },
+    {
+      "id": "1009f82f1f27",
+      "title": "Prendere l’antipertensivo all’orario sbagliato? Ecco il rischio che ignoriamo - Futura, le média qui explore le monde",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTk5lSnRkX3BVNTczbzVfOFJqSERrWWtmZ3V5UWE2aTJqdi1LOHo5RkEzQmRUajR3UEh0R3VGYlpFQWhEYURPYll2S29aYl9VdEVydVgzR0p6aktHUkozUkV0N1c0LUpFTjRlamFnZUM4VmFZTlctY184TzZVZnNqc3hBZlF2RUJ4RkhuaTYxSDRvNUNtUFJQbHhZNWVmeUVEanktSUNjUnNDQXIweFpfd3daS2dxbkZxckVvWXhhNDY?oc=5",
+      "published": "2026-07-06T17:10:12+00:00",
+      "source": {
+        "name": "Futura, le média qui explore le monde",
+        "url": "https://www.futura-sciences.com"
       }
     },
     {
@@ -124,26 +114,6 @@
       }
     },
     {
-      "id": "9d6d4f7e3978",
-      "title": "Farmaci illegali, Codacons: acquisti in aumento nel periodo estivo - Help Consumatori",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWpKZGJqb1pNOHJFSXl3TDFQV0xfbXlYX0prVlRxUjZuN08wZFFyZERkNVdUTWd5MEI5TURGU1Y1SVFLdDNZYlNDbV94OE5XcFkxQjVESHhZQ2ZwanV0dlFHN0NRRm40LVJfaFFoN2psdFdpQ1JmbURqT3BQR0ZzOWNVVkhOdzd5MlZfNGJQWnYxcFhjRDM1aGtLQXN0bEt4WVJiNGNEWQ?oc=5",
-      "published": "2026-07-06T08:47:24+00:00",
-      "source": {
-        "name": "Help Consumatori",
-        "url": "https://www.helpconsumatori.it"
-      }
-    },
-    {
-      "id": "81b81ef4b4bf",
-      "title": "Farmaci in ricetta dematerializzata, il pasticcio ricade sulla medicina generale - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktSb19HN0xGUi10OEdIZUx4dVBzYV9nZzV2Yy1MNDhZT2JDVU5rcXJ2d0RTYjl1c0pGdkcwQlZRemhyQ1JoUHNiMndzR2FMVzdqR2FCbGQtU3p5TWJ4YVdYWUtzQ3dPMVVlY1RnR3JpbUMwQWpkN0hoS0FFeUsyNXlTbWdGS2txa0hOZ1lGM012cVpHS1lOT08tNlhwSVlSSTFOZkVxYlJ4cHpVY21LR2NZUmtRTUk?oc=5",
-      "published": "2026-07-06T06:31:57+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
-      }
-    },
-    {
       "id": "63437980c44a",
       "title": "L’Ema intensifica gli sforzi sui farmaci per la salute delle donne - AboutPharma",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelJkSXEybzhROFBuZWJaSDI2QlY4czV6d3huYmd3V0RnX0pDU09wVVVSbVdRQWN4Mkd5YkZBdlUxa0ItaS1qYkNkYk5rdjBpdlZELW9TQ2kyaHRQNnpnWVBwTzRBU2g1X21WMFJ2TVFkZ2o1R2pVU0JVaG1uV2xHVzZfakFleHloaU1aRkRvQWp3bS1jZTd0YjdWR081OWg1MjAxS3Y3OUV0Mkd0MlliN1Fn?oc=5",
@@ -151,6 +121,26 @@
       "source": {
         "name": "AboutPharma",
         "url": "https://www.aboutpharma.com"
+      }
+    },
+    {
+      "id": "fc9d354a24e2",
+      "title": "Ricetta elettronica e benzodiazepine, “caos istituzionale e 18 mesi di ritardo nell’attuazione” - Panorama della Sanità",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFRubUJLSFFZUVJXalo4cF9BN3VpaGwwbEc0akczV2hhdlM1VFkxOFh6bEpaZnZ1YzhxMmlfTmtsM0M1azFwU3daa2ZGTlBpbl9vck1pQWR1QmpXMzVXRW5XRHlZYWZKLUd6aEJFUW0td3RFZVcwQUk2cUVoZDBLTnJLMHoyS0pCbHVwd2xzNG5wOEpteDVYQWhSWUl6NnZyNmxrS0tIUFJYMXZkbHNMYVlMamhWQTVaZDExdnhHb1UyVEFvOWZF?oc=5",
+      "published": "2026-07-06T09:13:02+00:00",
+      "source": {
+        "name": "Panorama della Sanità",
+        "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
+      "id": "9d6d4f7e3978",
+      "title": "Farmaci illegali, Codacons: acquisti in aumento nel periodo estivo - Help Consumatori",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWpKZGJqb1pNOHJFSXl3TDFQV0xfbXlYX0prVlRxUjZuN08wZFFyZERkNVdUTWd5MEI5TURGU1Y1SVFLdDNZYlNDbV94OE5XcFkxQjVESHhZQ2ZwanV0dlFHN0NRRm40LVJfaFFoN2psdFdpQ1JmbURqT3BQR0ZzOWNVVkhOdzd5MlZfNGJQWnYxcFhjRDM1aGtLQXN0bEt4WVJiNGNEWQ?oc=5",
+      "published": "2026-07-06T08:47:24+00:00",
+      "source": {
+        "name": "Help Consumatori",
+        "url": "https://www.helpconsumatori.it"
       }
     },
     {
@@ -174,13 +164,43 @@
       }
     },
     {
-      "id": "b23b0b0552c1",
-      "title": "Gdf: sequestrati molti farmaci per trattamenti estetici - Corriere Peligno",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUVROVc5SHFNcXpiZzU1cDlub3VkYkg2a0NCVUh1UllpdHdyM3FiQ2RHRDJnU1U2RjFNWTlSSTlxdHpWS3ctVnhXYUNXTDh5ZHZ1aVlSWFI4cVNEUnFIRGNsYXo3MTdMbW9qM0R1d1NBV01HQUhmZW55VjEtZDRoSkxXbDFWSWxveE1fekw4NTFnN1hjamtN?oc=5",
-      "published": "2026-07-06T08:07:04+00:00",
+      "id": "525e4290064d",
+      "title": "Esami cardiologici in farmacia, al via la certificazione SIC per garantire qualità e sicurezza - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDM5bDQ4UzdSVGEyeWdWaFJ4QW5RUEtRVDctcGNDdENEcE9ObGlpczhjMEJMMW1hVFA2bnJMbnJ0aENLU09NMVlrWXBxVl9BVHdKRGJGclphbVdtN09Jdk5KemZyTzZlRnRVYWN2Z2ZraDdNbDJvbEdJNTg4S3VwLVR4T3ZieW5mU0o1ci1pM05lbzVjX3VMVXQ3Q08zUk1OWnpBSTBxUXNyekItQzN3R0UwQ29qclRxN2dOOGlJUTc4TWlkd1V3cXZ3Z1g?oc=5",
+      "published": "2026-07-06T08:00:00+00:00",
       "source": {
-        "name": "Corriere Peligno",
-        "url": "https://www.corrierepeligno.it"
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
+      }
+    },
+    {
+      "id": "81b81ef4b4bf",
+      "title": "Farmaci in ricetta dematerializzata, il pasticcio ricade sulla medicina generale - Panorama della Sanità",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktSb19HN0xGUi10OEdIZUx4dVBzYV9nZzV2Yy1MNDhZT2JDVU5rcXJ2d0RTYjl1c0pGdkcwQlZRemhyQ1JoUHNiMndzR2FMVzdqR2FCbGQtU3p5TWJ4YVdYWUtzQ3dPMVVlY1RnR3JpbUMwQWpkN0hoS0FFeUsyNXlTbWdGS2txa0hOZ1lGM012cVpHS1lOT08tNlhwSVlSSTFOZkVxYlJ4cHpVY21LR2NZUmtRTUk?oc=5",
+      "published": "2026-07-06T06:31:57+00:00",
+      "source": {
+        "name": "Panorama della Sanità",
+        "url": "https://panoramadellasanita.it"
+      }
+    },
+    {
+      "id": "a2c248e5535c",
+      "title": "La progressione della SLA si può rallentare? La promessa (ambiziosa) di un farmaco sperimentale - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUFhVDNlTTZjazhyQmhjYnM5SmVxR2RkOGRteFdDWTNWSjRHWEFESGQ0STN0VU0wZUN1NW1mV29NUmJPQ0stbVFva0ViWjlBNWRsazdzQXFGSS1xYVFZaW8tVGRCX1lTcUhURG1VTG51THBDS0N3Nk1DYzVUZVVZdWhUYnJ4LUxaMFdIWGw2NzE4YWMzWkIwZlZUZWxRNHNPY1lrOGktM1dVYnZBSkZqMDlSRjRTWjZpYWlwLVFvUHMtcDVGc2pB?oc=5",
+      "published": "2026-07-04T06:29:48+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "94c92ee03f6d",
+      "title": "Benzodiazepine. Stop alla ricetta elettronica: funzionalità sospesa dopo il caos organizzativo - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3E2X1pVNThIbG0yVkZzUUFyQ2VSS0pBU3hhN2UyNVhKZmk4a3JNeVFhMno2UFpDT0ZFTmdHa0F0ZXJ6akdTX09DTFFoX0R1ekVwYU9OQ2hDRERqeHRhQ1Vpd2FDbEk3WnA4ZkhCbmVUcS15ZUk1ZXVjSDY0QktxU0pYQ3lNQXZqTHd0VGliRVBSSVkycnJoZTItRDV2WjMyNG1SZXdJQXFGLXd4bXdUZVNaa2w4UG5sY0JqeGEzVEc1a2I2c2dfS3F2aFZpbnV4eVBiNG9PNnc0dW1KN2c?oc=5",
+      "published": "2026-07-03T15:09:27+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -204,23 +224,23 @@
       }
     },
     {
-      "id": "525e4290064d",
-      "title": "Esami cardiologici in farmacia, al via la certificazione SIC per garantire qualità e sicurezza - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDM5bDQ4UzdSVGEyeWdWaFJ4QW5RUEtRVDctcGNDdENEcE9ObGlpczhjMEJMMW1hVFA2bnJMbnJ0aENLU09NMVlrWXBxVl9BVHdKRGJGclphbVdtN09Jdk5KemZyTzZlRnRVYWN2Z2ZraDdNbDJvbEdJNTg4S3VwLVR4T3ZieW5mU0o1ci1pM05lbzVjX3VMVXQ3Q08zUk1OWnpBSTBxUXNyekItQzN3R0UwQ29qclRxN2dOOGlJUTc4TWlkd1V3cXZ3Z1g?oc=5",
-      "published": "2026-07-06T08:00:00+00:00",
+      "id": "64da9bcb2cf3",
+      "title": "Fentanyl, furto all'Ospedale Israelitico. Cosa cambia nei controlli sui farmaci stupefacenti - Doctor33",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTVRYLXlwVGZUX09JSWRjRmtjdGFBUGVETnpuTWZoeV9GaGFacFdNcHJUenJ0WG9kTWFBcV9oT2xWQ2kxOHNrSFhyRzlYZURmM2JkUzhkOVp0ampFNE0xX0NOX25mQ2J3c2VwcDd3OHd1NVJUZ3gwbVBYZ2JWMEZYZUtnS0JFLWJfcmpoMXRYZFdleW1mSlZyeldURld2TDl1VnU1WWZTNVE0NWlIUnlQSklCdkJVVlItVlhPXzlyTDE0Vzg5TEFr?oc=5",
+      "published": "2026-07-06T09:30:00+00:00",
       "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
+        "name": "Doctor33",
+        "url": "https://www.doctor33.it"
       }
     },
     {
-      "id": "94c92ee03f6d",
-      "title": "Benzodiazepine. Stop alla ricetta elettronica: funzionalità sospesa dopo il caos organizzativo - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3E2X1pVNThIbG0yVkZzUUFyQ2VSS0pBU3hhN2UyNVhKZmk4a3JNeVFhMno2UFpDT0ZFTmdHa0F0ZXJ6akdTX09DTFFoX0R1ekVwYU9OQ2hDRERqeHRhQ1Vpd2FDbEk3WnA4ZkhCbmVUcS15ZUk1ZXVjSDY0QktxU0pYQ3lNQXZqTHd0VGliRVBSSVkycnJoZTItRDV2WjMyNG1SZXdJQXFGLXd4bXdUZVNaa2w4UG5sY0JqeGEzVEc1a2I2c2dfS3F2aFZpbnV4eVBiNG9PNnc0dW1KN2c?oc=5",
-      "published": "2026-07-03T15:09:27+00:00",
+      "id": "b23b0b0552c1",
+      "title": "Gdf: sequestrati molti farmaci per trattamenti estetici - Corriere Peligno",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUVROVc5SHFNcXpiZzU1cDlub3VkYkg2a0NCVUh1UllpdHdyM3FiQ2RHRDJnU1U2RjFNWTlSSTlxdHpWS3ctVnhXYUNXTDh5ZHZ1aVlSWFI4cVNEUnFIRGNsYXo3MTdMbW9qM0R1d1NBV01HQUhmZW55VjEtZDRoSkxXbDFWSWxveE1fekw4NTFnN1hjamtN?oc=5",
+      "published": "2026-07-06T08:07:04+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "Corriere Peligno",
+        "url": "https://www.corrierepeligno.it"
       }
     },
     {
@@ -234,13 +254,13 @@
       }
     },
     {
-      "id": "af6c0c1e2d26",
-      "title": "Gavi, via libera agli obiettivi 2026-2030: 500 milioni di bambini da vaccinare e 189 milioni per la produzione in Africa - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNi00b2ZCMkljRXZnUW01R1VTTk9hU2o4MmJQUkJnMWZHZ2EzV3UydW5pMEp4Y2JyN0xUTng4Q3pWTjE4cWhNVjlTTHQyeVpsendGbFNGSmhwTXQwNl9RaTZOVGRvUXV6NmszR1RvRHFRM1JPSlhzTDRLZk1DZVh1Q3pHZGZrVzZaX0ZJ?oc=5",
-      "published": "2026-07-06T14:51:43+00:00",
+      "id": "bdb153250869",
+      "title": "Malattie rare: Scopinaro (Uniamo), ‘cresce accesso ai farmaci, il 95% approvato da Ema’ - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcS1ETUt6LTBldGxoNFdndnF0alJhTkpUci1BemZXQU95S3JzcWRhUXd2UmF5d1BHSWktUzgwU3NieUYzX1pGSUoyaW9fX19NUEtZR3loZTU5bk1VYzRUYlg0Vndock94M1lKLTNlNTdlZHpWYnEwTDhfX1FHT3JId19tV1A2N0ZVUWI4XzRURENNS2ZpcHE3UHV0LVJJMU1jUTExYTBuVER3ZVZPa05rU2l1Q1d0bWJxLVNmRVRIN19DYVRKX2ZFY1M2NlRKdlE?oc=5",
+      "published": "2026-07-03T08:25:03+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "Il Sole 24 ORE",
+        "url": "https://stream24.ilsole24ore.com"
       }
     },
     {
@@ -251,6 +271,26 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "af6c0c1e2d26",
+      "title": "Gavi, via libera agli obiettivi 2026-2030: 500 milioni di bambini da vaccinare e 189 milioni per la produzione in Africa - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNi00b2ZCMkljRXZnUW01R1VTTk9hU2o4MmJQUkJnMWZHZ2EzV3UydW5pMEp4Y2JyN0xUTng4Q3pWTjE4cWhNVjlTTHQyeVpsendGbFNGSmhwTXQwNl9RaTZOVGRvUXV6NmszR1RvRHFRM1JPSlhzTDRLZk1DZVh1Q3pHZGZrVzZaX0ZJ?oc=5",
+      "published": "2026-07-06T14:51:39+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "d12243bcb2e9",
+      "title": "Farmaci a uso umano: distribuzione diretta e per conto - salute.gov.it",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
+      "published": "2026-04-25T14:55:37+00:00",
+      "source": {
+        "name": "salute.gov.it",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -274,16 +314,6 @@
       }
     },
     {
-      "id": "d12243bcb2e9",
-      "title": "Farmaci a uso umano: distribuzione diretta e per conto - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
-      "published": "2026-04-25T14:55:37+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
       "id": "c950473a4efd",
       "title": "Furto fentanyl, ispezione dei carabinieri all'Israelitico, Pregliasco: \"Grave minaccia per salute\" - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZTNneTBuYm9PYUc3RXNGZUhaT1h3bkZuaWJhS19PWFhfTDJ1MXd1UDN0ZWdsUWtRZzFqeWVkVEhTMkR1Q3NGbzMtUXhOQmdHQm9nZjBEMGRWbDhKNXZ5M0U2OHp1dzZmcTN5cS1RSFVLNWlWSzBhYjFOd1h1WmpVaXBuSVA0Qno5WGVhU285Sy1jQllEVmd1a3ZLY1RIRkxwTmpQRy01NVAxdFJJWF9VVVBDUkZMRDZLcDFSWks5aWVXVS11UkRmQngtWVIxRzN5VEN6cGw3SUZBQWREY1p3WXQ3Z2hHekdDRVNWWFZFbG9hNzR1WWNRZ2V2aGJCWTluSmVfS3Z1LW3SAY4CQVVfeXFMTXpvTllEZmNMTjhHdzBTaUVMZjlyX0YtVG82cWIxdVBTZ1c5NElXUXRrYTZVQ1lfZjdYdFZtMXZoaDdwM1JocWFvSEF4dXNFN2lZSTFMMmxTOTFQM3NIZnVBTWtYemhSSWtSTmVHMFFXZWpkcU9Udlk2TDZhYnBoajdRdkFheWpiSnZBN1pCVHUxV1g5aU9HWEY4emItVWFSdVpIM0xIUnpoWVk1U0ctVHNHeGhEelFxYlJrR3Q0eFY5QURvUzF3ek5lZk5LbWVOdHQzNklKUXlVTTV5bmswaWg5VU15UHJ5aUdEcS15SUtDY0RETDRaLUNmNF84YUJ4QjZ1cHlBcEVFcVZWbzJR?oc=5",
@@ -291,16 +321,6 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
-      }
-    },
-    {
-      "id": "5d4339f5d6bb",
-      "title": "Farmaci, il record amaro della Liguria: perché spendiamo più di tutta Italia? I dati Aifa - GenovaToday",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE9sSm85RDBwdTFTbnVQMU1JQ3BLYlUtYWhGR2NxYW5YeDNZVGZxTnpWTEt3OV9hYm9qUzZxV3lzWm44b1owMkJ0WktSRnVLMUdSaGZ0c1NmaFRfVnd0T25GdjMwa3NzNnNfMXhVUzJ4NWhyT3QwU2FEc0hUbS1uQW5xTWZNWUlwZU5BNG5n?oc=5",
-      "published": "2026-07-05T23:52:00+00:00",
-      "source": {
-        "name": "GenovaToday",
-        "url": "https://www.genovatoday.it"
       }
     },
     {
@@ -344,16 +364,6 @@
       }
     },
     {
-      "id": "fd227df8acab",
-      "title": "Egualia, su revisione del prontuario bene l’impegno del ministero della Salute - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2lRQkZBbU9DZmhmTHhIN1N3d0NlMElQYkZfOGNGcGktRUx2RUxxRkVRUFh1eTlaRWhVdDhVSHFrWWhCcjEzUUlfbkJmWTlGLVUta1hSUzVndjJJUl8zYmx2MUpjS09sR3NJNS0xcUwxU2ZVUTZGSVpBMFJkYk43LTJjQVZjZllUOGhLNlpTUW4tcmw3S0NrS1RNTTRJWkYwaVB1RFk0SzJwSXlHN3dlWTF6R3o0cmhpVVZPaVczbkhSX0hEdUE?oc=5",
-      "published": "2026-07-03T11:26:42+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "3007ed76dc02",
       "title": "Farmaci equivalenti - Sandoz",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtdjNfckxGOHo2bDFEeDhkMFNhLUlyaVhCZUQ4TmI3Ul9HYno0OFdYTF85czNKVXRnRjJrOGpMOFdTVEN6djFMSUg5OXJFUHg3a0dEajI0UGJIU1RYakZzZ0lsRTFDY253M0ZHU3RKWjhkRkhh?oc=5",
@@ -361,6 +371,16 @@
       "source": {
         "name": "Sandoz",
         "url": "https://www.sandoz.com"
+      }
+    },
+    {
+      "id": "fd227df8acab",
+      "title": "Egualia, su revisione del prontuario bene l’impegno del ministero della Salute - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2lRQkZBbU9DZmhmTHhIN1N3d0NlMElQYkZfOGNGcGktRUx2RUxxRkVRUFh1eTlaRWhVdDhVSHFrWWhCcjEzUUlfbkJmWTlGLVUta1hSUzVndjJJUl8zYmx2MUpjS09sR3NJNS0xcUwxU2ZVUTZGSVpBMFJkYk43LTJjQVZjZllUOGhLNlpTUW4tcmw3S0NrS1RNTTRJWkYwaVB1RFk0SzJwSXlHN3dlWTF6R3o0cmhpVVZPaVczbkhSX0hEdUE?oc=5",
+      "published": "2026-07-03T11:26:42+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -374,23 +394,13 @@
       }
     },
     {
-      "id": "10253852e1a4",
-      "title": "Fentanyl, la carica dei nuovi oppioidi sintetici: in Europa 7 new entry solo nel 2025 - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3B4aEpETTVxeHA1aGpXcndFTWY0NGJQa0M3d0JsaEp5alFlTndHcVUzX2xXcV94dHdrb0pCTHhRWk9MVXBzdGpPZkdtRS03TndKOHNvem1kemlmWTN2SG85LXdBRTUwQzdrOHZfRmtvWEtBNjlpVHpMR1Rha3VrdVBnRzQ2Uzk2S0JjRjBPXzN3S0pJNTlmNWd3a1lyLVlDaTAxNGMwdy1oVFRTY0VmbWN1cTE2WXpHMjl2MW13bEpDTlViNU9PY1FnYWlJV2tVdXQ3VHBpZFctcEFpMnFKY18zWkg2Z9IB5AFBVV95cUxNZHBHXzVEN2V6bUdSZVpncDA1WFNnVjlIWnRxUmhaY0otX2RrcEZpVW0zTFFFRjVtM2t1WVczdzd0dEdsanZwVEhoaEtvRHRQZnF5ZU4zeTJocGRJQ2t3Z1NuY0FNSVFKQm5Bcks1Wkk5RVd5TjRUWlBlZWR6OVpFRmpRZlloaVl4QTFCWEh3dzJvcE1DTFdKNDlWMVFCX2U5MjdHWG02cTV1bDc0dExMY1I1SEd1bTMyQ1drM21aUVVDWlVMMkJHWG53NnE3VGJ6R2JiU2pNSElzYXppNWhBVXVZaUk?oc=5",
-      "published": "2026-07-06T14:52:00+00:00",
+      "id": "5d4339f5d6bb",
+      "title": "Farmaci, il record amaro della Liguria: perché spendiamo più di tutta Italia? I dati Aifa - GenovaToday",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE9sSm85RDBwdTFTbnVQMU1JQ3BLYlUtYWhGR2NxYW5YeDNZVGZxTnpWTEt3OV9hYm9qUzZxV3lzWm44b1owMkJ0WktSRnVLMUdSaGZ0c1NmaFRfVnd0T25GdjMwa3NzNnNfMXhVUzJ4NWhyT3QwU2FEc0hUbS1uQW5xTWZNWUlwZU5BNG5n?oc=5",
+      "published": "2026-07-05T23:52:00+00:00",
       "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
-      }
-    },
-    {
-      "id": "64da9bcb2cf3",
-      "title": "Fentanyl, furto all'Ospedale Israelitico. Cosa cambia nei controlli sui farmaci stupefacenti - Doctor33",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTVRYLXlwVGZUX09JSWRjRmtjdGFBUGVETnpuTWZoeV9GaGFacFdNcHJUenJ0WG9kTWFBcV9oT2xWQ2kxOHNrSFhyRzlYZURmM2JkUzhkOVp0ampFNE0xX0NOX25mQ2J3c2VwcDd3OHd1NVJUZ3gwbVBYZ2JWMEZYZUtnS0JFLWJfcmpoMXRYZFdleW1mSlZyeldURld2TDl1VnU1WWZTNVE0NWlIUnlQSklCdkJVVlItVlhPXzlyTDE0Vzg5TEFr?oc=5",
-      "published": "2026-07-06T09:30:00+00:00",
-      "source": {
-        "name": "Doctor33",
-        "url": "https://www.doctor33.it"
+        "name": "GenovaToday",
+        "url": "https://www.genovatoday.it"
       }
     },
     {
@@ -404,13 +414,13 @@
       }
     },
     {
-      "id": "6ad8b060fb61",
-      "title": "Malattie rare, in 15 anni numeri raddoppiati tra bambini e adolescenti - La Stampa",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEZCMDlIM3d1ZzdHUUozSUUwdGp1NE9WbjQwUE9PeGFvM21CelBHd1h6N0JZZmpSanFlZFdEYTRNWWZJaV9fd3RnQXg4aXFZQ0RESkJPVDBLVWxWTUhxRXk5TXVmamJwNDFad3dsVnlNZlVYT19NaTlFWHAyUC1Pc09fRW1Sc1RNeEZhOWhRejRaY0YxRDFj0gGcAUFVX3lxTE1lb0FOcC1VZTRwZDBKeWpwNTJVejhvNmdKbENwY1lDVGplRW1Ec1hQRlk0M3V5U2Y5VndmMlJISlJfOWdXdWUyc3MwcGsxSVdHc1pYeEsxZ3VFdWtqdzFsUjNuYWhSeTFyajBSc2NsZmFfT0NBcEpqeUpiVW4tZDVsTzVCWGlRekZDbUtKNW5HNGJfWDZZa3dWNmJkYQ?oc=5",
-      "published": "2026-07-06T05:52:00+00:00",
+      "id": "10253852e1a4",
+      "title": "Fentanyl, la carica dei nuovi oppioidi sintetici: in Europa 7 new entry solo nel 2025 - La Gazzetta del Mezzogiorno",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3B4aEpETTVxeHA1aGpXcndFTWY0NGJQa0M3d0JsaEp5alFlTndHcVUzX2xXcV94dHdrb0pCTHhRWk9MVXBzdGpPZkdtRS03TndKOHNvem1kemlmWTN2SG85LXdBRTUwQzdrOHZfRmtvWEtBNjlpVHpMR1Rha3VrdVBnRzQ2Uzk2S0JjRjBPXzN3S0pJNTlmNWd3a1lyLVlDaTAxNGMwdy1oVFRTY0VmbWN1cTE2WXpHMjl2MW13bEpDTlViNU9PY1FnYWlJV2tVdXQ3VHBpZFctcEFpMnFKY18zWkg2Z9IB5AFBVV95cUxNZHBHXzVEN2V6bUdSZVpncDA1WFNnVjlIWnRxUmhaY0otX2RrcEZpVW0zTFFFRjVtM2t1WVczdzd0dEdsanZwVEhoaEtvRHRQZnF5ZU4zeTJocGRJQ2t3Z1NuY0FNSVFKQm5Bcks1Wkk5RVd5TjRUWlBlZWR6OVpFRmpRZlloaVl4QTFCWEh3dzJvcE1DTFdKNDlWMVFCX2U5MjdHWG02cTV1bDc0dExMY1I1SEd1bTMyQ1drM21aUVVDWlVMMkJHWG53NnE3VGJ6R2JiU2pNSElzYXppNWhBVXVZaUk?oc=5",
+      "published": "2026-07-06T14:52:00+00:00",
       "source": {
-        "name": "La Stampa",
-        "url": "https://www.lastampa.it"
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
@@ -434,13 +444,13 @@
       }
     },
     {
-      "id": "417f05223b33",
-      "title": "‘Per qualche centimetro in più’: l’uso off-label del farmaco usato dagli incel per crescere - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHFqcTlaY2VZYnFQd1VBcmVKV2NqS25FbzdUaS1QUTNNbC1YVU5JS015R2tRblRkSEN5UEE3bjBOTWdNMElIWVFkZHhhS1c1bkxiTExrUXk3NXFDYWZHdG9pT0hYM2prQUNDUTRPNnNRcE1DRVVOTmo3UnhQR1p6TG52OVJNMFB2ZTF3RXR6TVB2VlQ0c2ZWT0MxdG9ISWI2NkdmSzR2VlluM1MxQmhRZ3lEWEJhbVNJSzNUbDZ0cENmSUNfUDhzOFFwZ3FxUVRGTThCTg?oc=5",
-      "published": "2026-07-06T14:52:59+00:00",
+      "id": "6ad8b060fb61",
+      "title": "Malattie rare, in 15 anni numeri raddoppiati tra bambini e adolescenti - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEZCMDlIM3d1ZzdHUUozSUUwdGp1NE9WbjQwUE9PeGFvM21CelBHd1h6N0JZZmpSanFlZFdEYTRNWWZJaV9fd3RnQXg4aXFZQ0RESkJPVDBLVWxWTUhxRXk5TXVmamJwNDFad3dsVnlNZlVYT19NaTlFWHAyUC1Pc09fRW1Sc1RNeEZhOWhRejRaY0YxRDFj0gGcAUFVX3lxTE1lb0FOcC1VZTRwZDBKeWpwNTJVejhvNmdKbENwY1lDVGplRW1Ec1hQRlk0M3V5U2Y5VndmMlJISlJfOWdXdWUyc3MwcGsxSVdHc1pYeEsxZ3VFdWtqdzFsUjNuYWhSeTFyajBSc2NsZmFfT0NBcEpqeUpiVW4tZDVsTzVCWGlRekZDbUtKNW5HNGJfWDZZa3dWNmJkYQ?oc=5",
+      "published": "2026-07-06T05:52:00+00:00",
       "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
       }
     },
     {
@@ -464,16 +474,6 @@
       }
     },
     {
-      "id": "7a688ab7ae9c",
-      "title": "Fentanyl, il furto all’Israelitico riapre il nodo sicurezza sui farmaci ad alto rischio - Formiche.net",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdm92YkJRMjFWVDQ1TWZMSk5IM3l3WnFVaXFaMm1DN2NHUDVNNUpZbTJOX2x1VDBmaWtlUXY1b0hna3RSRHFQY3BxWVBDeFBJUTdZMXEzUFM2Mjk3bXUyVGhmVTk1SHRuVlJjTFB0dk5PdTd3U0Q2T3J3eEVkOXdNOVg0VnBVY1JKT0l0cjNDN1RPYldielFUYnAwSmZ6ZHJTOXFqRk1JXzBNRFlpdDRKN0dYZFlZQQ?oc=5",
-      "published": "2026-07-04T09:57:32+00:00",
-      "source": {
-        "name": "Formiche.net",
-        "url": "https://formiche.net"
-      }
-    },
-    {
       "id": "27674c0a17a8",
       "title": "Farmaci in vacanza, quali portare e come proteggerli dal caldo: i 5 consigli per l'estate - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVpFY3hJNVJ1Q3FVZzlYZUdBVTJ6R0pEcDhWM2d2UUNtcE44eEJWMzFuU3ZGVC15VmNmcmQ0OGQ2cUk3cFp1RVJjUnZ3cjg2NVAxMFlFSEhVTXRqbldwX0JWNVVyQ3pVN19TYThrRzJaQTVYQkxjVEgzMEE3dmNILUxkNDRJMjdjc2JxX0hvR01IMUFiRG1LZzBBbnE?oc=5",
@@ -481,6 +481,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "7a688ab7ae9c",
+      "title": "Fentanyl, il furto all’Israelitico riapre il nodo sicurezza sui farmaci ad alto rischio - Formiche.net",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdm92YkJRMjFWVDQ1TWZMSk5IM3l3WnFVaXFaMm1DN2NHUDVNNUpZbTJOX2x1VDBmaWtlUXY1b0hna3RSRHFQY3BxWVBDeFBJUTdZMXEzUFM2Mjk3bXUyVGhmVTk1SHRuVlJjTFB0dk5PdTd3U0Q2T3J3eEVkOXdNOVg0VnBVY1JKT0l0cjNDN1RPYldielFUYnAwSmZ6ZHJTOXFqRk1JXzBNRFlpdDRKN0dYZFlZQQ?oc=5",
+      "published": "2026-07-04T09:57:32+00:00",
+      "source": {
+        "name": "Formiche.net",
+        "url": "https://formiche.net"
       }
     },
     {
@@ -494,6 +504,16 @@
       }
     },
     {
+      "id": "fd0713f92768",
+      "title": "Farmaci orfani, l’AIFA cambia le regole del gioco: “Non più costo, ma investimento” - The Watcher Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUi1tQWJhZTVFMUVwMm9LTTdwRGxiNDdGaF9wbXZVckkxNG5lU1M1a28xZ0w3bGZRQ0hUTHVZNUZRSjB3Q2RaUC05Q3lyUU5EUkVtYUZ2S3hLSlB2ZEtIdTJWczlKSWtBNTBsNVY0MjRZc0pEc0U3ZnFsU2ZlWmNiZVQ1QjlJdFNaQXNnM3htYmh6XzE4dE5mcnVqTk5NZ2lJS2VrQS1RNXkxcFlwQ1RoWEJOOWFMdw?oc=5",
+      "published": "2026-06-26T09:37:53+00:00",
+      "source": {
+        "name": "The Watcher Post",
+        "url": "https://www.thewatcherpost.it"
+      }
+    },
+    {
       "id": "37341b652d66",
       "title": "MonitoRare, Italia e malattie rare tra efficienza e ritardi - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14anN6RzNRd1lJNHFiZDl5UXZ1YWNKczNoeXBWMDBLWWsyLVlJa0xfWG0zODVmMnlaVVMwTkJtTW1pMV9qU1RraXJZNnhtWlBzUG1MTGpybmxaQjZnZ3dET045X1U1VGNySjlXeHRja1dCOWQxQUE?oc=5",
@@ -504,13 +524,13 @@
       }
     },
     {
-      "id": "fd0713f92768",
-      "title": "Farmaci orfani, l’AIFA cambia le regole del gioco: “Non più costo, ma investimento” - The Watcher Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUi1tQWJhZTVFMUVwMm9LTTdwRGxiNDdGaF9wbXZVckkxNG5lU1M1a28xZ0w3bGZRQ0hUTHVZNUZRSjB3Q2RaUC05Q3lyUU5EUkVtYUZ2S3hLSlB2ZEtIdTJWczlKSWtBNTBsNVY0MjRZc0pEc0U3ZnFsU2ZlWmNiZVQ1QjlJdFNaQXNnM3htYmh6XzE4dE5mcnVqTk5NZ2lJS2VrQS1RNXkxcFlwQ1RoWEJOOWFMdw?oc=5",
-      "published": "2026-06-26T09:37:53+00:00",
+      "id": "a852273b5b92",
+      "title": "Punture per dimagrire, filler e botox “low cost”: la trappola beauty dell’estate che può mandare in ospedale - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd25JWnJqbXlDc1JwbFhEa1dNT2xGaThqWDVwR193RnlFQnBHUzV3Z19aMjFCa3pPck0xYWVEbVhNelo2RklkalNvcXVycE81WDlCQVhsa0t0Z2dQU1NXdnk5Ylc3aDB2YTlfbVRFVllNMGVUM3BBbFY5RFp3M1htYnU3Y19IOVVzN2M2Ti1RajFKdUxFSm9kSURuUTJBSnVqWGtxTzJjeU5aWnV4Z1NtSXNLUVNEaHZ1TWRLb3BadjdLRV9KWi13dzVoUEFoSHRjNndXUC14ZE9LWEdqS2Ztb2F3T21zUnA1c3c?oc=5",
+      "published": "2026-07-06T11:03:42+00:00",
       "source": {
-        "name": "The Watcher Post",
-        "url": "https://www.thewatcherpost.it"
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -524,16 +544,6 @@
       }
     },
     {
-      "id": "d61a7030a43c",
-      "title": "Punture per dimagrire, filler e botox “low cost”: la trappola beauty dell’estate che può mandare in ospedale - mondosanita.it",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNml4MGRxUlNXRlU3bzkyV3BiVTY1WmVxV2xqRDk0UXhpQTBlN2k4aVpXRDRZZVp1REwtdVFnZ1I1Tzh6VzBEd2VyZXBXTlVvOHRUdEQ4Tk1hWGJsc0hUR0tOQjZvU081TUY3OElqdFNxakxYTVlDSkJoWDlPdWplanYzTFN3U08xc1VZS083cThQV1J3TUhxYW9qY1puTWNhcGNpSWJ5ZkxJTDFNUUF2d2NQV0ZrMm03VlRlMElWZk5tbjRXaXlGclZRcDN6RXV5NlVqUl9lWlJHdkFiVjI2YnJqcnNpcVNnd0N0NTRoYXJvd1lHNlE?oc=5",
-      "published": "2026-07-06T11:03:42+00:00",
-      "source": {
-        "name": "mondosanita.it",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "a7f9dd555ce8",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - salute.gov.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -544,13 +554,13 @@
       }
     },
     {
-      "id": "fc9d354a24e2",
-      "title": "Ricetta elettronica e benzodiazepine, “caos istituzionale e 18 mesi di ritardo nell’attuazione” - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFRubUJLSFFZUVJXalo4cF9BN3VpaGwwbEc0akczV2hhdlM1VFkxOFh6bEpaZnZ1YzhxMmlfTmtsM0M1azFwU3daa2ZGTlBpbl9vck1pQWR1QmpXMzVXRW5XRHlZYWZKLUd6aEJFUW0td3RFZVcwQUk2cUVoZDBLTnJLMHoyS0pCbHVwd2xzNG5wOEpteDVYQWhSWUl6NnZyNmxrS0tIUFJYMXZkbHNMYVlMamhWQTVaZDExdnhHb1UyVEFvOWZF?oc=5",
-      "published": "2026-07-06T09:13:02+00:00",
+      "id": "417f05223b33",
+      "title": "‘Per qualche centimetro in più’: l’uso off-label del farmaco usato dagli incel per crescere - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHFqcTlaY2VZYnFQd1VBcmVKV2NqS25FbzdUaS1QUTNNbC1YVU5JS015R2tRblRkSEN5UEE3bjBOTWdNMElIWVFkZHhhS1c1bkxiTExrUXk3NXFDYWZHdG9pT0hYM2prQUNDUTRPNnNRcE1DRVVOTmo3UnhQR1p6TG52OVJNMFB2ZTF3RXR6TVB2VlQ0c2ZWT0MxdG9ISWI2NkdmSzR2VlluM1MxQmhRZ3lEWEJhbVNJSzNUbDZ0cENmSUNfUDhzOFFwZ3FxUVRGTThCTg?oc=5",
+      "published": "2026-07-06T14:52:59+00:00",
       "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -561,16 +571,6 @@
       "source": {
         "name": "il Nord Est",
         "url": "https://www.ilnordest.it"
-      }
-    },
-    {
-      "id": "d3be9f0206c6",
-      "title": "Locker per farmaci ospedalieri: il caso Parma e l’alt dell’Ordine dei Farmacisti - VendingNews",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2tXVk9ZQlRMbjVncWhPbnZVWnhHazBPbEx5cjI5anVKZWc2QzhUNHZDRW5HVVEwZG9FcUh4NzdxUDc5ZzUtS3BHV2xZR0FMY09ET2lteDlwcW0zcUdOSm14LUF4bjFyLWZldWhYYmlERXFDZk9rS0dBM0FJOEpSSXl6c05XTlNWcGhrYng1VzJNTWI0SjhBSjlVd1RxeVBEdGJMMkNjUTA?oc=5",
-      "published": "2026-07-06T03:00:41+00:00",
-      "source": {
-        "name": "VendingNews",
-        "url": "https://www.vendingnews.it"
       }
     },
     {
@@ -624,13 +624,13 @@
       }
     },
     {
-      "id": "d22432af1a49",
-      "title": "SANITA’. A Caivano nasce \"Nabtop\", la prima mappa digitale contro la carenza di farmaci: un servizio gratuito per cittadini e farmacie - Il Giornale di Caivano",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMWdLU29JSjRDc0EtWXVxSGZONjh3dktvcmhpYXlHc3cwbjh3RldGZmpJX0U1dElKRjZMeWJlMDg2M3A2NzdiZ0Y1aVlhbE03OWlIUEwtWndwVzFwRlhnT1NNSXlFemVscHNKdGhyT2RqS25lQldGcmFwWlFDdzdRR19xbVFlekh3Ym5RZlZ1anZCVVgwUFNxbklzYlF1bUU2bEhTUlhMR1ZEVzFmS3BBMXRkdFdUa2dkeHVpa2dDaEpBYWpxV1pud285MlFxdnBuTEZVRHJNU1hTQmNqU0NkRzBpMWkxWWt2RFdDdEJ0cC00a2JkM2lSTVg1TzUzRWJhMDVGWHNB?oc=5",
-      "published": "2026-07-05T18:49:48+00:00",
+      "id": "d3be9f0206c6",
+      "title": "Locker per farmaci ospedalieri: il caso Parma e l’alt dell’Ordine dei Farmacisti - VendingNews",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2tXVk9ZQlRMbjVncWhPbnZVWnhHazBPbEx5cjI5anVKZWc2QzhUNHZDRW5HVVEwZG9FcUh4NzdxUDc5ZzUtS3BHV2xZR0FMY09ET2lteDlwcW0zcUdOSm14LUF4bjFyLWZldWhYYmlERXFDZk9rS0dBM0FJOEpSSXl6c05XTlNWcGhrYng1VzJNTWI0SjhBSjlVd1RxeVBEdGJMMkNjUTA?oc=5",
+      "published": "2026-07-06T03:00:41+00:00",
       "source": {
-        "name": "Il Giornale di Caivano",
-        "url": "https://www.ilgiornaledicaivano.it"
+        "name": "VendingNews",
+        "url": "https://www.vendingnews.it"
       }
     },
     {
@@ -641,6 +641,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://stream24.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "2d3e4c6f2315",
+      "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -674,6 +684,16 @@
       }
     },
     {
+      "id": "15cba3fbd5ec",
+      "title": "L'uso medico del Fentanyl previsto dalla legge: così ogni ospedale deve conservarlo in sicurezza - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdlRYVnMwY01RbDYtUDRjRk5RQ3Zld0xXVVVXUnFHU3oxYmdUMDlubnZnM3hobEFQcG9hLV9qVVQtcE1MenFjQ0YzTUxTT1d1N3VkSVVOQlRncVR2cndRRlFzVlY1OU9JdHhNcjZKOGp4OEJpRVk1Sm91X0pzeThZYTI5Z2dlVkdvekpIZzJqNEswM1dBZWU1anRDb1RxVXdwbm1JOEdWVGFVWWlIZEdvVC12WnBCdTZzTkhXXzA4SkJCbWRGNmFGOE41MzN4YkxqNDhRYQ?oc=5",
+      "published": "2026-07-06T15:57:13+00:00",
+      "source": {
+        "name": "Fanpage",
+        "url": "https://www.fanpage.it"
+      }
+    },
+    {
       "id": "25e1ac2ad2e4",
       "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
@@ -681,16 +701,6 @@
       "source": {
         "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
-      }
-    },
-    {
-      "id": "2d3e4c6f2315",
-      "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
       }
     },
     {
@@ -754,13 +764,13 @@
       }
     },
     {
-      "id": "262c5cd4c9f8",
-      "title": "Farmaci in estate: rischi, fotosensibilità e conservazione - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWNHZjUxWXVzZHR6TmtxcUNHNDM0Y2dFZ0NFdkhtcE5pVjQ3TUxpUkx1dlJaRERfUmFqS1pNZmpWZE8yS2hudGM5UjRZY3ZYS3ZIbmlsT0VzeVJjeWNjd0tIUWNMWkFrYWRTV3NDVW0tTGdWZ0s3enZ6RG91R1BCcDVDMUtYSnFCRTFRNkliT29NSGZkb3JmVndVckJ5SUFHeGZKN1lSRW5rcU9SX0E?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
+      "id": "81d69817e3a3",
+      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
       "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -774,13 +784,13 @@
       }
     },
     {
-      "id": "81d69817e3a3",
-      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
-      "published": "2026-03-28T07:00:00+00:00",
+      "id": "747b09bb4b38",
+      "title": "Deprescrizione: Per Berrino bisogna Ridurre i Farmaci Inutili per una Salute Più Naturale - Microbiologia Italia",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKdHFsVHEyZWVRbC1uNGJyOUFhRDhkVjBIMnZ5WXlreEtvQnNGSlhRR01wZzdUR1hLSXF2NEFybnJGTmRsSXV4V1NoU0VqRGJVODZjQ2xuZlgtLWlVd3JxaGVWWTZlcmVpWDEwYm8yY2NnMlk?oc=5",
+      "published": "2026-07-06T12:22:09+00:00",
       "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
+        "name": "Microbiologia Italia",
+        "url": "https://www.microbiologiaitalia.it"
       }
     },
     {
@@ -794,6 +804,16 @@
       }
     },
     {
+      "id": "5a735aea30fa",
+      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "source": {
+        "name": "Univrmagazine",
+        "url": "https://univrmagazine.it"
+      }
+    },
+    {
       "id": "4020d366ea03",
       "title": "Il super batterio killer resistente ai farmaci: cos'è l'Acinetobacter e perché è diventato una minaccia globale - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM0JPMHp5UjZYWkF5ZU5teERWVEwzc2RTc3B3VGJtd1BKSEJPc29EYVdIUDJNTUNSOC1wV1M3Q1dvZV8tWW9PSHd4SUUyOThiX0lpN0dMX1lnR1otcDVfdXBXRlZ3T2RqNXYzei13TEkxSFBNY0ExdW5VRGlWNkZ0c2ttTDI0ZS1fb01DaEhULWttTTlkaENQb3ZHT3Zya2cwcTFFSzBhRVBPOEUxNEtad0hfdTJqMEdtZy1lalV3dWQ5dkV5WHl3c1VDd3dVN2Z0UG5NTnBtS0FLd9IB0wFBVV95cUxPVkpGN092UjhVQU4zMDl2Y0NxdnVRVVZOVE5Ob2JZQVhULWpXWEVwZ0UzOWJWV3BoMGFnLUItMmFhUzhJeDBsY25sVUhWaUsxQ0VaQnR6N0xuOXFmZU9NUnhNYXZWTmpSY2pSZmQ1cHAxZmF2TGcyUmE0ZHhYLU9sWll4YTNvdlhGNEFudFJ3UUpCNlNwbTRGZlhvV0Z2eTE2WUtTY1dFc0JRT2FSWXlyWkNKNmMxdjltUzExem92cnh2NkdJODJBUVFPWWZaUkdYbnNJ?oc=5",
@@ -804,13 +824,13 @@
       }
     },
     {
-      "id": "5a735aea30fa",
-      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
+      "id": "262c5cd4c9f8",
+      "title": "Farmaci in estate: rischi, fotosensibilità e conservazione - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWNHZjUxWXVzZHR6TmtxcUNHNDM0Y2dFZ0NFdkhtcE5pVjQ3TUxpUkx1dlJaRERfUmFqS1pNZmpWZE8yS2hudGM5UjRZY3ZYS3ZIbmlsT0VzeVJjeWNjd0tIUWNMWkFrYWRTV3NDVW0tTGdWZ0s3enZ6RG91R1BCcDVDMUtYSnFCRTFRNkliT29NSGZkb3JmVndVckJ5SUFHeGZKN1lSRW5rcU9SX0E?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
       "source": {
-        "name": "Univrmagazine",
-        "url": "https://univrmagazine.it"
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -824,16 +844,6 @@
       }
     },
     {
-      "id": "9c9f484c0756",
-      "title": "Benzodiazepine, stop a ricetta elettronica: un caso di scuola di lack of coordination - RIFday",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGtySXctaUstQVgzMjBQVHBjdHpNT3NjMzZIOTBlNzBQTDhoNkVMWE5CZXBYbUxaRk5XdkFzenQ3VjJkMkpnSjZKbnJJZk9ZQTBoOXBsdVFENFdtUGtRd2stNlNmWkc4TjUtellvRUVxRnhiVkttemk2a2Y5Y0t4UGtrWWNDanlSS21FZ1RPWFVpQ3ZxTUZsb0hNckdTQ0xFeUFzenowUF93SmpTWlh4Y0lwZ0VVRy0x?oc=5",
-      "published": "2026-07-05T16:32:44+00:00",
-      "source": {
-        "name": "RIFday",
-        "url": "https://www.rifday.it"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -841,6 +851,16 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
+      }
+    },
+    {
+      "id": "d22432af1a49",
+      "title": "SANITA’. A Caivano nasce \"Nabtop\", la prima mappa digitale contro la carenza di farmaci: un servizio gratuito per cittadini e farmacie - Il Giornale di Caivano",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMWdLU29JSjRDc0EtWXVxSGZONjh3dktvcmhpYXlHc3cwbjh3RldGZmpJX0U1dElKRjZMeWJlMDg2M3A2NzdiZ0Y1aVlhbE03OWlIUEwtWndwVzFwRlhnT1NNSXlFemVscHNKdGhyT2RqS25lQldGcmFwWlFDdzdRR19xbVFlekh3Ym5RZlZ1anZCVVgwUFNxbklzYlF1bUU2bEhTUlhMR1ZEVzFmS3BBMXRkdFdUa2dkeHVpa2dDaEpBYWpxV1pud285MlFxdnBuTEZVRHJNU1hTQmNqU0NkRzBpMWkxWWt2RFdDdEJ0cC00a2JkM2lSTVg1TzUzRWJhMDVGWHNB?oc=5",
+      "published": "2026-07-05T18:49:48+00:00",
+      "source": {
+        "name": "Il Giornale di Caivano",
+        "url": "https://www.ilgiornaledicaivano.it"
       }
     },
     {
@@ -874,16 +894,6 @@
       }
     },
     {
-      "id": "7e1448528f32",
-      "title": "Più di cinque farmaci al giorno: i segnali da non ignorare e perché parlarne con il medico - mondosanita.it",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRnJQdmpGN3hjMmRJcWc0NjFpaGV4VzQtRnpsa2pIbDhCMlVvNDdfbGwtZGhYbkU0RXpQbURLLVp2MUcya1NnVUNiQzdYNXhqRXptSWgtVVltRXNyT1d1a1VWNW5VWm5NVW5CcE9CZ0hhS2ltTEQzSG9Yc19yVDNTeHpXRVdVSWtjdVBfVzRLdUlkVlF0Ml9RNDlKN3ZkcjhqeFF5YzlzTVN5UWdNQTZNeVVOaldMX2VrSDRaVzl4RTY0bVJWZDdtdEJ5a3IybDVGU1QzWklGSQ?oc=5",
-      "published": "2026-07-04T17:01:57+00:00",
-      "source": {
-        "name": "mondosanita.it",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "a9f6afc5e986",
       "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
@@ -891,6 +901,16 @@
       "source": {
         "name": "Città di Rivoli",
         "url": "https://www.comune.rivoli.to.it"
+      }
+    },
+    {
+      "id": "7e1448528f32",
+      "title": "Più di cinque farmaci al giorno: i segnali da non ignorare e perché parlarne con il medico - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRnJQdmpGN3hjMmRJcWc0NjFpaGV4VzQtRnpsa2pIbDhCMlVvNDdfbGwtZGhYbkU0RXpQbURLLVp2MUcya1NnVUNiQzdYNXhqRXptSWgtVVltRXNyT1d1a1VWNW5VWm5NVW5CcE9CZ0hhS2ltTEQzSG9Yc19yVDNTeHpXRVdVSWtjdVBfVzRLdUlkVlF0Ml9RNDlKN3ZkcjhqeFF5YzlzTVN5UWdNQTZNeVVOaldMX2VrSDRaVzl4RTY0bVJWZDdtdEJ5a3IybDVGU1QzWklGSQ?oc=5",
+      "published": "2026-07-04T17:01:57+00:00",
+      "source": {
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "11f850b6dff3",
-      "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5",
-      "published": "2026-06-05T07:00:00+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
-      "id": "78a8579e24c9",
-      "title": "Ozempic & co: i farmaci agonisti di GLP-1 possono avere effetti sulla salute mentale? - Il Fatto Alimentare",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sR3llYjB5Wnd4c0xDV1ktc2YwS1pvU0F0S0ZxWWJVWWRrYW1BbGowcGRnbWlxb25BOU53OV9SQUR6WGdVblA2R0t3b1lvUXlteEFCaFAxQVdlQnpoeV93WDNyWFVEVTVNYndHU21YREdDdEo2UzNtMHVB?oc=5",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": {
-        "name": "Il Fatto Alimentare",
-        "url": "https://ilfattoalimentare.it"
       }
     }
   ]
