@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T21:39:00.796049+00:00",
+  "fetched_at": "2026-07-11T22:36:40.847041+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "5bc3ad3a9669",
-      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
-      "published": "2026-07-08T11:17:45+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
       "id": "d605fe165167",
       "title": "Caritas Gerusalemme: «Bisogni enormi, aiuti insufficienti. Priorità a salute, farmaci e sostegno psicologico - Chiesa di Milano",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEY3Z0lxMUdDc21aaEZmcDJZTUktVUZmdVNmemNaNVhXQ2F2MzcwZHBZY1p4U0s2U2VFY2N3WHFwMlVyeEdzM0xiN1BJOEo2QUtYcm9JZW95OHFRU0ZiRHNJWGdlVUNibDU4VVNjQ2YwVzhsU0FNaEVkcmkxUFROaUhpQlJPVDlRTTZpS0NzbGhsSG00eUJ2ZER6WktRM1EzQmc?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "5bc3ad3a9669",
+      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
+      "published": "2026-07-08T11:17:45+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://stream24.ilsole24ore.com"
       }
     },
     {
@@ -171,16 +171,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "acae505413c1",
-      "title": "Come la riforma ha cambiato la distribuzione farmaceutica - Fortune Italia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGNxc09WNUhuX3R2eENyV0JXdDR2Nk52S2M4UVNteWFaUU1PblJCdmdGUGVEZVhHdTA1VTgxLVRuVDhQRXBMSjhieHVVbkxiQnJIanAtZERrNmdNM2txUG1kcUtlX1JyMFAxNXZtR1hkdzZxNWd5YktBRG1QaFg0YUZLal9hYlRUWms5Vk1fZEtMWGQxVGZmaHJQT3lLRGVJMVlJQllNU1RCdHh3TjFIaFFHcnFIME5qaVZXdWZlTktNUjg?oc=5",
-      "published": "2026-07-10T14:31:59+00:00",
-      "source": {
-        "name": "Fortune Italia",
-        "url": "https://www.fortuneita.com"
       }
     },
     {
@@ -251,16 +241,6 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "3b76814a831f",
-      "title": "\"Alla quota di Misurina, il respiro dei bambini migliorava e diminuiva il ricorso ai farmaci. Ma la montagna è un 'farmaco' che va dosato adeguatamente\" - il Dolomiti",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUUNSb1RoU0htcVpjUWNDX09aUFhjNEVEb3RPQ2hCa3M4RnZWWms2eTExUElpMWJXU0U0NHN6SFk0YlEwdXMxUzFQU2J5NkhpRjhZSlRxNGdYa1pmWTVLRVFLQXhnRjhmd1JqMDdDZW9lVHljbUs5cUF6ZHZHVllVWFdDR2FVMEhSQW5VSFBCT21rY2lIWFAzSHFNcWVxUUZSWnY5MzRxbGUya21uOU1jTWk4OHVCb0NncTBoWXlIX2FFcm1OWVp3Ykk1MWtHdlRoYXJBaXZkS0NxakFJOVlTSmgwMHdNTUZEbHp4azBva1R2TVczRU9QczhOQlNhRGNkYVBaMHRjSFlmd051bHpjT0plUF96Q0xtOGlJXzBSdTB2eFNjMzRMQ2hn?oc=5",
-      "published": "2026-07-08T10:00:01+00:00",
-      "source": {
-        "name": "il Dolomiti",
-        "url": "https://www.ildolomiti.it"
       }
     },
     {
@@ -454,16 +434,6 @@
       }
     },
     {
-      "id": "c31d4aff8cb4",
-      "title": "Perché il fentanyl fa così paura? (facciamo il punto finché si indaga sul furto a Roma) - Cosmopolitan",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMV9ycG11ZlUtQnRZQm5yQ1BsNUx5S00yVmdGdVZ0RWtLUlZMeDhhX1hlSTVZS1c3dFh2NXh6cEd0eHpKUHJPMnBrM2JYRlRQQ1NMNFRRVWM5c3N3NTBaZS1GMjRad3A0QlZ5LXB4ZXBGNnAwcmx2aXpUWEQ4UVB0M2syZjZ3UHFLbTlFY2tqYlV5aHM?oc=5",
-      "published": "2026-07-11T11:08:33+00:00",
-      "source": {
-        "name": "Cosmopolitan",
-        "url": "https://www.cosmopolitan.com"
-      }
-    },
-    {
       "id": "fd0713f92768",
       "title": "Farmaci orfani, l’AIFA cambia le regole del gioco: “Non più costo, ma investimento” - The Watcher Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUi1tQWJhZTVFMUVwMm9LTTdwRGxiNDdGaF9wbXZVckkxNG5lU1M1a28xZ0w3bGZRQ0hUTHVZNUZRSjB3Q2RaUC05Q3lyUU5EUkVtYUZ2S3hLSlB2ZEtIdTJWczlKSWtBNTBsNVY0MjRZc0pEc0U3ZnFsU2ZlWmNiZVQ1QjlJdFNaQXNnM3htYmh6XzE4dE5mcnVqTk5NZ2lJS2VrQS1RNXkxcFlwQ1RoWEJOOWFMdw?oc=5",
@@ -471,6 +441,16 @@
       "source": {
         "name": "The Watcher Post",
         "url": "https://www.thewatcherpost.it"
+      }
+    },
+    {
+      "id": "c31d4aff8cb4",
+      "title": "Perché il fentanyl fa così paura? (facciamo il punto finché si indaga sul furto a Roma) - Cosmopolitan",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMV9ycG11ZlUtQnRZQm5yQ1BsNUx5S00yVmdGdVZ0RWtLUlZMeDhhX1hlSTVZS1c3dFh2NXh6cEd0eHpKUHJPMnBrM2JYRlRQQ1NMNFRRVWM5c3N3NTBaZS1GMjRad3A0QlZ5LXB4ZXBGNnAwcmx2aXpUWEQ4UVB0M2syZjZ3UHFLbTlFY2tqYlV5aHM?oc=5",
+      "published": "2026-07-11T11:08:33+00:00",
+      "source": {
+        "name": "Cosmopolitan",
+        "url": "https://www.cosmopolitan.com"
       }
     },
     {
@@ -854,16 +834,6 @@
       }
     },
     {
-      "id": "6443b8bf3e6f",
-      "title": "Estensione monopolio farmaci divide ministri UE sul Biotech Act - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOempmZ0ZtbGF3TG8za2hQdkVyLVpsNkVlLXRzSWplSzlyZFQxeXZqQ0V6eUxDQ3Y5SDExSWVDaW4wVURLVEhvZUdSTDNRazJFZEdQdTdhM2FIeXp3OUFHRG5oNVNmUjkxbnoyS2Q2dUNEVHd1WjctRVd0QU1WQTM3TTd5bDBQbFI2ZTBPalJIQWlickFtVGZwaFFyTTlBWXVqaTZ4bVZLQjJEeEhTc1hNc1RyZXlyQQ?oc=5",
-      "published": "2026-06-17T07:00:00+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://it.euronews.com"
-      }
-    },
-    {
       "id": "9e3ddd48dca3",
       "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - OMaR – Osservatorio Malattie Rare",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
@@ -881,6 +851,16 @@
       "source": {
         "name": "insalutenews.it",
         "url": "https://www.insalutenews.it"
+      }
+    },
+    {
+      "id": "6443b8bf3e6f",
+      "title": "Estensione monopolio farmaci divide ministri UE sul Biotech Act - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOempmZ0ZtbGF3TG8za2hQdkVyLVpsNkVlLXRzSWplSzlyZFQxeXZqQ0V6eUxDQ3Y5SDExSWVDaW4wVURLVEhvZUdSTDNRazJFZEdQdTdhM2FIeXp3OUFHRG5oNVNmUjkxbnoyS2Q2dUNEVHd1WjctRVd0QU1WQTM3TTd5bDBQbFI2ZTBPalJIQWlickFtVGZwaFFyTTlBWXVqaTZ4bVZLQjJEeEhTc1hNc1RyZXlyQQ?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
       }
     },
     {
@@ -1001,6 +981,26 @@
       "source": {
         "name": "salute.gov.it",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "3cc8cf13c3be",
+      "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "TrendSanità",
+        "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "940d1f465dba",
+      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     }
   ]
