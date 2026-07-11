@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-07-11T18:43:49.786817+00:00",
+  "fetched_at": "2026-07-11T19:58:33.479058+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "b7b3de8d5d8b",
+      "title": "Ultraprocessati e salute: cosa dicono davvero gli studi osservazionali (e cosa non possono dimostrare) - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzZGblVpeTFjQmhCOEVKS2c5ZDNMcG1SVmdVemJ4QlA3enVuaG5Ua0g2RnRiU1FnUm9YWWVUT1FYTXlJczFrZjZXTDVTMkNDMkZYUW1TSEJkb09IY21lZG9zaUplVXF4N1hiVUQwcnk5RVJJY0l1QXhYUGQtZzBDaThjVUQ2aU5xRy1pZTgtWlp1Nnk0b09wanpZYzF2bklCUUpaOFRjUEN3TWJtUDRBUjhJTFlvY3NhSlRYcTdQdE5fTTFlaGxVR0t5c1NSaC1GRmliSmYyTnd6aExhUkZ3VERialQ?oc=5",
+      "published": "2026-07-08T09:36:35+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
     {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
@@ -31,16 +41,6 @@
       "source": {
         "name": "VeronaSera",
         "url": "https://www.veronasera.it"
-      }
-    },
-    {
-      "id": "b7b3de8d5d8b",
-      "title": "Ultraprocessati e salute: cosa dicono davvero gli studi osservazionali (e cosa non possono dimostrare) - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzZGblVpeTFjQmhCOEVKS2c5ZDNMcG1SVmdVemJ4QlA3enVuaG5Ua0g2RnRiU1FnUm9YWWVUT1FYTXlJczFrZjZXTDVTMkNDMkZYUW1TSEJkb09IY21lZG9zaUplVXF4N1hiVUQwcnk5RVJJY0l1QXhYUGQtZzBDaThjVUQ2aU5xRy1pZTgtWlp1Nnk0b09wanpZYzF2bklCUUpaOFRjUEN3TWJtUDRBUjhJTFlvY3NhSlRYcTdQdE5fTTFlaGxVR0t5c1NSaC1GRmliSmYyTnd6aExhUkZ3VERialQ?oc=5",
-      "published": "2026-07-08T09:36:35+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -324,16 +324,6 @@
       }
     },
     {
-      "id": "ccf31e864045",
-      "title": "Farmaci e criminalità: che fine fanno i medicinali rubati in Italia - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGp5TVJaQUZIVWRmZDhwNFgtWUtDWmNOZVF1WlVjcGVmUW5HZkVxYlRCVUNjR2tTN2ZRdGJpUVZJZmpVVGdKdFlGU0czcHQyMVVQNGhYSEhMUzJWcGF5OHRSczA4MVZiUUFIaVl4WHkxYjF1TDd1Mzg3QndIUmJQOENfVmRxWS11QnlJb3lSRlF6NEI3MWtERHhDdTR4OUJUc1Fldkt4U1NUTWNhY01NaTZvRm5qM0Yw?oc=5",
-      "published": "2026-07-08T16:24:51+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "422fe17620a5",
       "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
@@ -341,6 +331,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "ccf31e864045",
+      "title": "Farmaci e criminalità: che fine fanno i medicinali rubati in Italia - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGp5TVJaQUZIVWRmZDhwNFgtWUtDWmNOZVF1WlVjcGVmUW5HZkVxYlRCVUNjR2tTN2ZRdGJpUVZJZmpVVGdKdFlGU0czcHQyMVVQNGhYSEhMUzJWcGF5OHRSczA4MVZiUUFIaVl4WHkxYjF1TDd1Mzg3QndIUmJQOENfVmRxWS11QnlJb3lSRlF6NEI3MWtERHhDdTR4OUJUc1Fldkt4U1NUTWNhY01NaTZvRm5qM0Yw?oc=5",
+      "published": "2026-07-08T16:24:51+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-        "url": "https://www.fnopi.it"
-      }
-    },
-    {
       "id": "6b2e45298a4a",
       "title": "Farmaci, EMA accende i riflettori sulla salute femminile - Daily Health Industry",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGtBbHRKX3Utek5ZWWdhWGJwUjZJdlo2VC0zY1d3Q0ZsT2dNb05IeEtiaXdwZU40U0ZURXZQSVBBY1AtN3hyRURxQ2djSFg5ZTZjWmRqMl8yb2MtUGlMWDBYa0pieUdna0N2eUhlSDdnU24tR2g4Q0NqYUZia0haR1BWekp2UmhCX3IwSThGajRaSVNwclE?oc=5",
@@ -451,6 +441,16 @@
       "source": {
         "name": "Daily Health Industry",
         "url": "https://www.dailyhealthindustry.it"
+      }
+    },
+    {
+      "id": "b8368e9e437a",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "url": "https://www.fnopi.it"
       }
     },
     {
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "056fe077883e",
-      "title": "Una molecola sperimentata sui cani apre nuove cure contro i tumori - L'Adige",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG5fWURCOEk5ZjJubXd1QWtnd3pudXk3SGhJcVl0TXR2X0MyS2EyblhvNno1MElWVXR2T1VEWWx5RG1ab3A3NHpSajlYU2ZrVnd1a3VpZ1QxZS1QeTlNdW01YS0zcWJIbUdiWlEyUl81OGh1TDh6MmlZMnVIdnNsam5mcDJlTnBTUVdtMWdUV3FGckZEMW94WXdzUUcxTkw2Q0phMW1fOFJfdzJ1NGd0S09yMEVNODA?oc=5",
-      "published": "2026-07-11T15:16:45+00:00",
-      "source": {
-        "name": "L'Adige",
-        "url": "https://www.ladige.it"
-      }
-    },
-    {
       "id": "fd0713f92768",
       "title": "Farmaci orfani, l’AIFA cambia le regole del gioco: “Non più costo, ma investimento” - The Watcher Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUi1tQWJhZTVFMUVwMm9LTTdwRGxiNDdGaF9wbXZVckkxNG5lU1M1a28xZ0w3bGZRQ0hUTHVZNUZRSjB3Q2RaUC05Q3lyUU5EUkVtYUZ2S3hLSlB2ZEtIdTJWczlKSWtBNTBsNVY0MjRZc0pEc0U3ZnFsU2ZlWmNiZVQ1QjlJdFNaQXNnM3htYmh6XzE4dE5mcnVqTk5NZ2lJS2VrQS1RNXkxcFlwQ1RoWEJOOWFMdw?oc=5",
@@ -531,6 +521,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "056fe077883e",
+      "title": "Una molecola sperimentata sui cani apre nuove cure contro i tumori - L'Adige",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG5fWURCOEk5ZjJubXd1QWtnd3pudXk3SGhJcVl0TXR2X0MyS2EyblhvNno1MElWVXR2T1VEWWx5RG1ab3A3NHpSajlYU2ZrVnd1a3VpZ1QxZS1QeTlNdW01YS0zcWJIbUdiWlEyUl81OGh1TDh6MmlZMnVIdnNsam5mcDJlTnBTUVdtMWdUV3FGckZEMW94WXdzUUcxTkw2Q0phMW1fOFJfdzJ1NGd0S09yMEVNODA?oc=5",
+      "published": "2026-07-11T15:16:45+00:00",
+      "source": {
+        "name": "L'Adige",
+        "url": "https://www.ladige.it"
       }
     },
     {
@@ -564,20 +564,20 @@
       }
     },
     {
-      "id": "0538242008eb",
-      "title": "Furto Fentanyl, ispettori del ministero Salute all’Ospedale Israelitico - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDNuWTFMd2l4SUVPQ2FpMEhrOC1LR0NtWUU5VjVzLW8zb2E3ZHc5ZkpidklEY1JNSHU4bF9qbkZEUGFDRTRfMEtPcUtNcFlCbElxZG10aXQzcGMzdG15Z05xOVFidDdkenZIUHpGUzVvQUw3eUVBUUpGcGZCSGs3M2ZTeUVBd2hsdk8yQ1dVY1llY2VPc0dTWXdaai1iTDU3bm1yMVpnVjE3REZqZHVOSENIOTBWZ0V4RExFQw?oc=5",
-      "published": "2026-07-08T09:46:24+00:00",
+      "id": "1d20466c8c39",
+      "title": "Furto Fentanyl: dalla camera blindata ai registri speciali, la gestione degli stupefacenti in ospedale - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDBXR3VHMGU2MEVCcTgtNzh3YUczN3FVcE9vcDJhd1JxUTIzVVMzXzM4b1dJdEhxeWg2QzhELW1wM1FFYjFaZVJXMWlBdGp1MU1nNWN3ZWg2TW9DWUx3NlN0SjhKZkpXLU11QllxeFRDQXVyZEtsbjdKb29IWnhNMURTV1lPSUlwaFNhbWxfWHljYXZSTDEyNzN6OGZ3TlRCX1ZIcVphRGNfNzZnOXdCZ01ERXRsM0tvbks2S1dYdktEb1FfTEJaYzRfRHdZZzN6cmJNcmFFY1FrVjBRODRwcjVlSHpjQQ?oc=5",
+      "published": "2026-07-08T15:07:14+00:00",
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
       }
     },
     {
-      "id": "1d20466c8c39",
-      "title": "Furto Fentanyl: dalla camera blindata ai registri speciali, la gestione degli stupefacenti in ospedale - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDBXR3VHMGU2MEVCcTgtNzh3YUczN3FVcE9vcDJhd1JxUTIzVVMzXzM4b1dJdEhxeWg2QzhELW1wM1FFYjFaZVJXMWlBdGp1MU1nNWN3ZWg2TW9DWUx3NlN0SjhKZkpXLU11QllxeFRDQXVyZEtsbjdKb29IWnhNMURTV1lPSUlwaFNhbWxfWHljYXZSTDEyNzN6OGZ3TlRCX1ZIcVphRGNfNzZnOXdCZ01ERXRsM0tvbks2S1dYdktEb1FfTEJaYzRfRHdZZzN6cmJNcmFFY1FrVjBRODRwcjVlSHpjQQ?oc=5",
-      "published": "2026-07-08T15:07:14+00:00",
+      "id": "0538242008eb",
+      "title": "Furto Fentanyl, ispettori del ministero Salute all’Ospedale Israelitico - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDNuWTFMd2l4SUVPQ2FpMEhrOC1LR0NtWUU5VjVzLW8zb2E3ZHc5ZkpidklEY1JNSHU4bF9qbkZEUGFDRTRfMEtPcUtNcFlCbElxZG10aXQzcGMzdG15Z05xOVFidDdkenZIUHpGUzVvQUw3eUVBUUpGcGZCSGs3M2ZTeUVBd2hsdk8yQ1dVY1llY2VPc0dTWXdaai1iTDU3bm1yMVpnVjE3REZqZHVOSENIOTBWZ0V4RExFQw?oc=5",
+      "published": "2026-07-08T09:46:24+00:00",
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
@@ -774,16 +774,6 @@
       }
     },
     {
-      "id": "a2b2fb3a78e8",
-      "title": "Accordo tra Federfarma e Fondazione Andi Salute: dal 1° luglio un piano odontoiatrico per i titolari di farmacia - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFNZUzFiNGt6QlU2WFh1YldFZGVVaW5NeG9STWlzenJTVEVzVERfSGZxQXY4UE9zdU85TWhlQlFpbTRNUWZvdG9xa1NTV09vUVRhU2YwX2xZYjVPTHBFdFlLZmtMWHFnWVBTQnREN0NSZThpVVQ1elR4d0w3eFIzbDhkdHhqOV9TalQ2Si1NNA?oc=5",
-      "published": "2026-07-01T09:35:21+00:00",
-      "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "88ab19015ef8",
       "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
@@ -791,6 +781,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "a2b2fb3a78e8",
+      "title": "Accordo tra Federfarma e Fondazione Andi Salute: dal 1° luglio un piano odontoiatrico per i titolari di farmacia - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFNZUzFiNGt6QlU2WFh1YldFZGVVaW5NeG9STWlzenJTVEVzVERfSGZxQXY4UE9zdU85TWhlQlFpbTRNUWZvdG9xa1NTV09vUVRhU2YwX2xZYjVPTHBFdFlLZmtMWHFnWVBTQnREN0NSZThpVVQ1elR4d0w3eFIzbDhkdHhqOV9TalQ2Si1NNA?oc=5",
+      "published": "2026-07-01T09:35:21+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "9b6b210e3e33",
-      "title": "++ Caso fentanyl, ispettori del ministero all'Israelitico per oltre 6 ore ++ - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUNrLVptVW9CRkVzN2prVERfbHRxeFZzdEp2a2ItLV9fSkExVnBDNGxtMEZiSHZDR2k3bVpFSVFtTzAxcjVhZ1JEaUhpWkZxZmF0X3dzbDByVnl0QW4zVlBVbEtlZGZ4WFpiU2Z5QWNxNkYzeF9NM3ppazVnRXlHcmZLUGVmZ0xWRDhfX1cxQ1dkc09wV3BaUDhFbzFZeDQ4NENiVm1hYzJkaDZrRkRQdEVOOHdvcXJuVHhxWk53?oc=5",
-      "published": "2026-07-08T15:01:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "dd4630529884",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -891,6 +881,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "9b6b210e3e33",
+      "title": "++ Caso fentanyl, ispettori del ministero all'Israelitico per oltre 6 ore ++ - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUNrLVptVW9CRkVzN2prVERfbHRxeFZzdEp2a2ItLV9fSkExVnBDNGxtMEZiSHZDR2k3bVpFSVFtTzAxcjVhZ1JEaUhpWkZxZmF0X3dzbDByVnl0QW4zVlBVbEtlZGZ4WFpiU2Z5QWNxNkYzeF9NM3ppazVnRXlHcmZLUGVmZ0xWRDhfX1cxQ1dkc09wV3BaUDhFbzFZeDQ4NENiVm1hYzJkaDZrRkRQdEVOOHdvcXJuVHhxWk53?oc=5",
+      "published": "2026-07-08T15:01:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -954,16 +954,6 @@
       }
     },
     {
-      "id": "1a11fe547e44",
-      "title": "Furto fiale diFentanyl a Roma, anestesisti Siaarti: \"Nessun allarme per i pazienti\" - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSmJJRzRNR1NnNFpFTmloQURsMHk1MzdUWDBjMlMwZzdwOXZHYWNjd1FmdUdaN3ZibC1ITTBMUzB1MGFhNDAtQ2l4Y3dteXJ4d0ltM1o4MXFCTnBfbTh3Mkd2X2pVcG85NjdHUXNIYXIwZXNBSURKbndaVXExVnJHVjN3d015WF8tRU9NbXVBaGdPRzl2OHgzQkpFaW12NEpBNWdnZEViZGNQX1p1NUxKSm1tRlRGTHZqUUZUTTFOdkkyY2dzcU1LUTQwMnNTZEhLaUNwSy1oREMwVG1LUlNYTtIB3wFBVV95cUxNR01qQ1RTdV9kUTZVVnhMUks5MmE1YWZFZlFaNGN2ZzczM0VvZFFUVnVOaFRDQ2ppaGptLUFiV1U4RmNIcmdndm9YZUNzUjhTX0txY01EYy00THFQUm5QQW1XOFN5SDNxV2huMHR5WHNpTzdUT3RZcGxRdlMtbUptT2kxUFExT2pURENVX3BhbWluTzdMU1FVbDkya25ZRVU0c0VZa1YyWG82aWxHNlkxTU9INnFmWFpjRDFBM2MzX0phdjNzbHVmLVVENy03RF9ScnJJSHFrZzQ4OU1vb29F?oc=5",
-      "published": "2026-07-10T09:26:18+00:00",
-      "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
-      }
-    },
-    {
       "id": "bec037c34006",
       "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
@@ -971,6 +961,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "1a11fe547e44",
+      "title": "Furto fiale diFentanyl a Roma, anestesisti Siaarti: \"Nessun allarme per i pazienti\" - La Gazzetta del Mezzogiorno",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSmJJRzRNR1NnNFpFTmloQURsMHk1MzdUWDBjMlMwZzdwOXZHYWNjd1FmdUdaN3ZibC1ITTBMUzB1MGFhNDAtQ2l4Y3dteXJ4d0ltM1o4MXFCTnBfbTh3Mkd2X2pVcG85NjdHUXNIYXIwZXNBSURKbndaVXExVnJHVjN3d015WF8tRU9NbXVBaGdPRzl2OHgzQkpFaW12NEpBNWdnZEViZGNQX1p1NUxKSm1tRlRGTHZqUUZUTTFOdkkyY2dzcU1LUTQwMnNTZEhLaUNwSy1oREMwVG1LUlNYTtIB3wFBVV95cUxNR01qQ1RTdV9kUTZVVnhMUks5MmE1YWZFZlFaNGN2ZzczM0VvZFFUVnVOaFRDQ2ppaGptLUFiV1U4RmNIcmdndm9YZUNzUjhTX0txY01EYy00THFQUm5QQW1XOFN5SDNxV2huMHR5WHNpTzdUT3RZcGxRdlMtbUptT2kxUFExT2pURENVX3BhbWluTzdMU1FVbDkya25ZRVU0c0VZa1YyWG82aWxHNlkxTU9INnFmWFpjRDFBM2MzX0phdjNzbHVmLVVENy03RF9ScnJJSHFrZzQ4OU1vb29F?oc=5",
+      "published": "2026-07-10T09:26:18+00:00",
+      "source": {
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
