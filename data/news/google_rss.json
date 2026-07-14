@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T20:48:57.186582+00:00",
+  "fetched_at": "2026-07-14T21:46:12.204850+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "d800c20de396",
-      "title": "Addio farmaci antirigetto: come gli scienziati stanno creando organi \"su misura\" dalle nostre stesse cellule - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3hwUHZKUjRISkpDeXZjVFhzV0FNT05jNE4tUl81TWduT004QmJjZHhBelhmRUZsTHJMN3F1cERneG9SU3VPaHBXb2ZkUXpzejk1dzA1UWdzQWtZV1VjMVZOY2JtRXk5U19YWDBnZENiUVByZHc5bDNDZzlGQ0otcllZS25VVnF0Vm43SjA2X1ZDbG5RcUFHY1NlLWY3ZF9Tem9NVHZkbjB5WE5nY08tZzNqaFhpMXFwYjNRX3B4RVBKOTRUaGxPVHlLcTdzSU90anFzdWhyb21RR1FqNjlUbnpOei1RSy1JQkNQRDVRU21ld0k?oc=5",
-      "published": "2026-07-14T13:06:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
       "id": "6ca5eb6adebf",
       "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "d800c20de396",
+      "title": "Addio farmaci antirigetto: come gli scienziati stanno creando organi \"su misura\" dalle nostre stesse cellule - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3hwUHZKUjRISkpDeXZjVFhzV0FNT05jNE4tUl81TWduT004QmJjZHhBelhmRUZsTHJMN3F1cERneG9SU3VPaHBXb2ZkUXpzejk1dzA1UWdzQWtZV1VjMVZOY2JtRXk5U19YWDBnZENiUVByZHc5bDNDZzlGQ0otcllZS25VVnF0Vm43SjA2X1ZDbG5RcUFHY1NlLWY3ZF9Tem9NVHZkbjB5WE5nY08tZzNqaFhpMXFwYjNRX3B4RVBKOTRUaGxPVHlLcTdzSU90anFzdWhyb21RR1FqNjlUbnpOei1RSy1JQkNQRDVRU21ld0k?oc=5",
+      "published": "2026-07-14T13:06:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "767c80626c32",
-      "title": "Farmaci, Loizzo: \"Auspico una revisione del prontuario equilibrata. Il risparmio non sia l'unico criterio\" - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbjJoZkVmWF9Ga05RZlh1bWVRSXhSaFhSTExOcWVXbjJHTnJKTUpfX08ySDBwd3ZuamZtUTJjc08yZ2RtSzYyWnBGOWt5Y1FIYzk3a2dXbE1xVGttSy1vVDEzTGdHSGFGRGxRNUhRbi1EVXdVZXdVWG9GNnpaT3h0WmE4ZjZNTTN0Y2ZwNlJrajByQlJzVGh3MVZKbzJkV0lObThlZHFwaF9DcWdRZ2Z3TVFTeS1fMmVOaS1EcDk5NWxmZWFfbmwtVW5wWEFVVjRzYTM0VTlKVnR0bkZpcjNLMnVGMkM2Slo4S2E4clYtNi1qSHNOdENETzZKa1JJZ9IB_AFBVV95cUxOY1RESWJJbFMza244TFczdnNMUXlZUktrNDZUUXJzUDYzRnNxSW1rM1hmUWE2RUM5LU5oT1dTQzVvQ2xUZ3FUTm50anUyeGlDYkJLeXVTNFp3cU5OTWEtdXEzVXh3bG85MW1wd1lLQlN4S1hweEd6NVUtdkdQTnBSZzk4Z2pZd3FmdUU1NFNFZFM2TzBsdExJQnlEVW1RbFpaOWJKMEJtZDNJOG1qc2xNMEZjMmJ6ejVJMFI4TWNBek80NVYzQXRqVXR5N0dEeEU4R01wbEJXVEhNWC0xeDNuLXVLaHRlbGcxSlJOX1pIeXJTTjNkMDdBVTZkT2Q?oc=5",
-      "published": "2026-07-14T13:54:00+00:00",
-      "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
-      }
-    },
-    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -61,6 +51,16 @@
       "source": {
         "name": "Avvenire",
         "url": "https://www.avvenire.it"
+      }
+    },
+    {
+      "id": "767c80626c32",
+      "title": "Farmaci, Loizzo: \"Auspico una revisione del prontuario equilibrata. Il risparmio non sia l'unico criterio\" - La Gazzetta del Mezzogiorno",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbjJoZkVmWF9Ga05RZlh1bWVRSXhSaFhSTExOcWVXbjJHTnJKTUpfX08ySDBwd3ZuamZtUTJjc08yZ2RtSzYyWnBGOWt5Y1FIYzk3a2dXbE1xVGttSy1vVDEzTGdHSGFGRGxRNUhRbi1EVXdVZXdVWG9GNnpaT3h0WmE4ZjZNTTN0Y2ZwNlJrajByQlJzVGh3MVZKbzJkV0lObThlZHFwaF9DcWdRZ2Z3TVFTeS1fMmVOaS1EcDk5NWxmZWFfbmwtVW5wWEFVVjRzYTM0VTlKVnR0bkZpcjNLMnVGMkM2Slo4S2E4clYtNi1qSHNOdENETzZKa1JJZ9IB_AFBVV95cUxOY1RESWJJbFMza244TFczdnNMUXlZUktrNDZUUXJzUDYzRnNxSW1rM1hmUWE2RUM5LU5oT1dTQzVvQ2xUZ3FUTm50anUyeGlDYkJLeXVTNFp3cU5OTWEtdXEzVXh3bG85MW1wd1lLQlN4S1hweEd6NVUtdkdQTnBSZzk4Z2pZd3FmdUU1NFNFZFM2TzBsdExJQnlEVW1RbFpaOWJKMEJtZDNJOG1qc2xNMEZjMmJ6ejVJMFI4TWNBek80NVYzQXRqVXR5N0dEeEU4R01wbEJXVEhNWC0xeDNuLXVLaHRlbGcxSlJOX1pIeXJTTjNkMDdBVTZkT2Q?oc=5",
+      "published": "2026-07-14T13:54:00+00:00",
+      "source": {
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
@@ -204,16 +204,6 @@
       }
     },
     {
-      "id": "8878d52f5209",
-      "title": "La febbre non scende nonostante l'antibiotico? I campanelli d'allarme da non ignorare e gli errori comuni che rendono i batteri imbattibili - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbTJESmNlQkd6eExYR2xFVmVfZ3lwYWtSN010dXhvRDVneU03MFNfVEJ2cGV3TFo0M0xvM1pjQ1hHNFhiTG83MzhUQUNtVFZjT3NURkU0VjB3bzlobzZTLVF4Rk9QUlZmMWg0V21fbDB5OVFwdFExSEI5Ny1URm5hclh0akE3UGpHRXBDSVlkRVpaTnBraWVhUXh0MU1KeVlqSS1ESXJURlJvaERHbi1wcnB5empkRVhNamY2SUZVRGxFbVc3OXVfUmtfOXRIT0sxNUF1Q2JpdmQ0NlBfWVpYaDNGQWRRRDhaZlBWUU5aTHBYWmdMZmZHeU5kQzl6cjUyS21iS0VjdjFZYWtJZ3dxSjFR?oc=5",
-      "published": "2026-07-14T12:58:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
       "id": "dcf4362ab274",
       "title": "Farmaci equivalenti: non decolla l’informazione e la fiducia soprattutto fra i più giovani - Cittadinanzattiva",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOME1OS1ZKWmRNREFyYXNSRUtsQmNIQm9xS1BteS1TQzFVRWFwa2VoRmNscFRjQ2FiWFRRbXFSS3R1Tk5GTGFIV0N4SHV1Y3EtNjlzcmpqVlIzdHF2eF91eTBOMFlRZFhQc3BMTW1MZ1pseDFzejdYUjlxU2pLaG44bktORTdxRFIxS2s2enJsS3BBVXBoN0hiVEEyM3RUTF9GbGtibEJRNU5ONF9IQnpCel9GR0R1a2RUejNBdVI4TWlrRzlRTUFlMEFZMWNLN3ZWZkdBMHFlOUNaZzg?oc=5",
@@ -231,6 +221,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "8878d52f5209",
+      "title": "La febbre non scende nonostante l'antibiotico? I campanelli d'allarme da non ignorare e gli errori comuni che rendono i batteri imbattibili - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbTJESmNlQkd6eExYR2xFVmVfZ3lwYWtSN010dXhvRDVneU03MFNfVEJ2cGV3TFo0M0xvM1pjQ1hHNFhiTG83MzhUQUNtVFZjT3NURkU0VjB3bzlobzZTLVF4Rk9QUlZmMWg0V21fbDB5OVFwdFExSEI5Ny1URm5hclh0akE3UGpHRXBDSVlkRVpaTnBraWVhUXh0MU1KeVlqSS1ESXJURlJvaERHbi1wcnB5empkRVhNamY2SUZVRGxFbVc3OXVfUmtfOXRIT0sxNUF1Q2JpdmQ0NlBfWVpYaDNGQWRRRDhaZlBWUU5aTHBYWmdMZmZHeU5kQzl6cjUyS21iS0VjdjFZYWtJZ3dxSjFR?oc=5",
+      "published": "2026-07-14T12:58:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "13d4e8211c53",
-      "title": "Il grasso dei cadaveri sarà il nuovo botox? Il macabro rimedio USA all'Ozempic face - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZElHR2EtMVpqbF96VHdRM2s2U005dlI4S2lRVDlYT1hsWFh0bDdIdlpuUmxocTlmRmhwLTFGSmJsX2gxUlpPc1JMSW5lV0ZONTZLM2ozR2RhZlFjd0ZFeHJVY2tHUXdzYnJ2Tl9wUzBnUVNnRlFpVDBwbHJmNGwxd3UtZ3k?oc=5",
-      "published": "2026-07-14T14:29:56+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
-      }
-    },
-    {
       "id": "3007ed76dc02",
       "title": "Farmaci equivalenti - Sandoz",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtdjNfckxGOHo2bDFEeDhkMFNhLUlyaVhCZUQ4TmI3Ul9HYno0OFdYTF85czNKVXRnRjJrOGpMOFdTVEN6djFMSUg5OXJFUHg3a0dEajI0UGJIU1RYakZzZ0lsRTFDY253M0ZHU3RKWjhkRkhh?oc=5",
@@ -324,13 +314,13 @@
       }
     },
     {
-      "id": "858a540d6cdd",
-      "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1V6VElJZ2FIdlM5RERXeUVSanNUZXgwVXg2VmJhZkhHWUl1czlMdGdsQXcxR2Zsc0IxUXdVbXZVMlpXeXNSeGJ4Ym4zRHNuNU4yYUpwUGhlbi1FN0VvSHlfdkUzMy1MMVIzaUxJa1VZbDdLSVVDZVhhRmFPRU9DNzFzYmM2ZGw0VmJr?oc=5",
-      "published": "2026-07-01T11:50:51+00:00",
+      "id": "13d4e8211c53",
+      "title": "Il grasso dei cadaveri sarà il nuovo botox? Il macabro rimedio USA all'Ozempic face - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZElHR2EtMVpqbF96VHdRM2s2U005dlI4S2lRVDlYT1hsWFh0bDdIdlpuUmxocTlmRmhwLTFGSmJsX2gxUlpPc1JMSW5lV0ZONTZLM2ozR2RhZlFjd0ZFeHJVY2tHUXdzYnJ2Tl9wUzBnUVNnRlFpVDBwbHJmNGwxd3UtZ3k?oc=5",
+      "published": "2026-07-14T14:29:56+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
       }
     },
     {
@@ -344,6 +334,16 @@
       }
     },
     {
+      "id": "30a811130859",
+      "title": "Farmacia dei servizi, 7 opportunità che avvicinano la sanità ai cittadini - Radio Salute",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRF9uUTd0Wkx0WnFYcmdBNG9FS3NJZms4LWxMNzRCb0tpYTd6SjVETDU2dFcyLWJ6N1EtTWozVkdQbE9JZy01QWtTQUwyYmdTQ3lseXBhMk91Zw?oc=5",
+      "published": "2026-07-13T05:00:00+00:00",
+      "source": {
+        "name": "Radio Salute",
+        "url": "https://radiosalute.it"
+      }
+    },
+    {
       "id": "b12fd6935600",
       "title": "Alzheimer, prima terapia con donanemab al policlinico di Catania - CataniaToday",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGZha3I4UGJTUHVPZFRMMmNpOEp6TzcyOGFZU3FzWHVRNWIyZHhyS2ptMS1qUFl4WmdHSmoxYmlGNlpsb1F3UURwZTI4SkJ5dEwzSUd4MkFKekFlMWNuajIzVjN5MEVaRU5FZnl4S2NUQzFvd2JzQW0zZkViS0NoSzFIeldCNGFVR1owNTVCejg?oc=5",
@@ -354,13 +354,13 @@
       }
     },
     {
-      "id": "30a811130859",
-      "title": "Farmacia dei servizi, 7 opportunità che avvicinano la sanità ai cittadini - Radio Salute",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRF9uUTd0Wkx0WnFYcmdBNG9FS3NJZms4LWxMNzRCb0tpYTd6SjVETDU2dFcyLWJ6N1EtTWozVkdQbE9JZy01QWtTQUwyYmdTQ3lseXBhMk91Zw?oc=5",
-      "published": "2026-07-13T05:00:00+00:00",
+      "id": "858a540d6cdd",
+      "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1V6VElJZ2FIdlM5RERXeUVSanNUZXgwVXg2VmJhZkhHWUl1czlMdGdsQXcxR2Zsc0IxUXdVbXZVMlpXeXNSeGJ4Ym4zRHNuNU4yYUpwUGhlbi1FN0VvSHlfdkUzMy1MMVIzaUxJa1VZbDdLSVVDZVhhRmFPRU9DNzFzYmM2ZGw0VmJr?oc=5",
+      "published": "2026-07-01T11:50:51+00:00",
       "source": {
-        "name": "Radio Salute",
-        "url": "https://radiosalute.it"
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "821fe2ec8087",
-      "title": "Effetti collaterali Teriparatide (14/07/2026) | Forum Osteoporosi | Il Medico Risponde - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZS0yWFR1M1VSNzlqTURhMEtPdnpYa1NlMDFLN0oyaTZwS1FzV0swSW1DUGF4WS11UFdGcWZta0wySnlHRjZmS29WMUlWVzRpaUNLdHU4ZlY5OWxWaUlxcUlnWXF6TWxiX0VYLUFFM2NRY05CNmhHZkNHcjBTazdMNmZnX0F2NTBza0wzelJVX09ZT2lhbXdPRFpIcFBRYVQzQkltMTYyTC1VR29uYVVwcG1KcjV1VC1DVG5xcDV5RzZOYlRLWWt0X0toRnUwZw?oc=5",
-      "published": "2026-07-14T09:25:39+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "0d8cc7b802ca",
       "title": "Competitività, investimenti e accesso all’innovazione in salute: una sfida per l’Europa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUmNPeUlTNTI0dFRtNFlXLXFqdW1TVUE5UTg3d0FFd202SHV4NHlOeVRjenNEUmhWNHVzSENubzMtWW8zRm9kN1RDNDRGSERHWjI5UndkQ0RwM3N6ZU9KeHVsSVMyZHc3dUJVMzRkUTlCeU5FSnBvZmFWcloxS3lhd3JLQjdEZWxyZEhYWW9VT0g0TUpqM3ZyQl9PSUtOQWVDSDhZNXZnU2dha2tvWXRfRFoxLTNDcnBIazNvTlN1V2RNdDVyOXZ2SWdn?oc=5",
@@ -511,16 +501,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "f26d986e0992",
-      "title": "Stefano Bellentani vince il Premio Scrittori di Talenti con il libro \"Benessere e longevità senza farmaci\" - MilanoBIZ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ25ZcENKNGVFXzFoX0VQNlB5dHdwOFNYUms1VlV3NFg4dFdqWHZtclNlUDR3V1puSlNfdnhRM3dmWDJxSzk3OWFrZjEtandnT0E3TUVWT3RGcXFPaEtRU21JTHlJUjJLV2ZIa0kyZFRTSU9WZi1oSzlwRWdDbXUyaWY1WUJQWFNSdVZsX0lUbXgwc21kTE9wNXR6c1FZb0JxUnNISm83MG5ldXAzTVdJdmhGTGU?oc=5",
-      "published": "2026-07-14T06:03:37+00:00",
-      "source": {
-        "name": "MilanoBIZ",
-        "url": "https://www.milanobiz.it"
       }
     },
     {
@@ -544,6 +524,16 @@
       }
     },
     {
+      "id": "821fe2ec8087",
+      "title": "Effetti collaterali Teriparatide (14/07/2026) | Forum Osteoporosi | Il Medico Risponde - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZS0yWFR1M1VSNzlqTURhMEtPdnpYa1NlMDFLN0oyaTZwS1FzV0swSW1DUGF4WS11UFdGcWZta0wySnlHRjZmS29WMUlWVzRpaUNLdHU4ZlY5OWxWaUlxcUlnWXF6TWxiX0VYLUFFM2NRY05CNmhHZkNHcjBTazdMNmZnX0F2NTBza0wzelJVX09ZT2lhbXdPRFpIcFBRYVQzQkltMTYyTC1VR29uYVVwcG1KcjV1VC1DVG5xcDV5RzZOYlRLWWt0X0toRnUwZw?oc=5",
+      "published": "2026-07-14T09:25:39+00:00",
+      "source": {
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
+      }
+    },
+    {
       "id": "73c907f91e96",
       "title": "Bronte, la salute bussa alla porta: al via consegna gratuita dei farmaci a domicilio - CataniaToday",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2IzT2FSUHJWdWtBUk9ZQkJfbHI1ZEdmUExhNmxEUE1QenlkakNJUHRibklyYklKVmVGajN5MkxDT0JNOGptWmwwUTc5N2tXTTVkRXNNVUY2Z3RCZFRBbHpTM0dEUjYwVVlyUFpZNlBIT3pXUnFMa2dFOXM4SExncWV3LUdsX0gwb243SW8xOFZkd0FPdTVGelQ1eTc3MWNrSDNqcF9Sdk8?oc=5",
@@ -564,6 +554,16 @@
       }
     },
     {
+      "id": "5d553f95828b",
+      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "source": {
+        "name": "| Regione Siciliana",
+        "url": "https://www.regione.sicilia.it"
+      }
+    },
+    {
       "id": "80e8f713ae99",
       "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
@@ -574,13 +574,13 @@
       }
     },
     {
-      "id": "5d553f95828b",
-      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
-      "published": "2026-06-12T07:00:00+00:00",
+      "id": "f26d986e0992",
+      "title": "Stefano Bellentani vince il Premio Scrittori di Talenti con il libro \"Benessere e longevità senza farmaci\" - MilanoBIZ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ25ZcENKNGVFXzFoX0VQNlB5dHdwOFNYUms1VlV3NFg4dFdqWHZtclNlUDR3V1puSlNfdnhRM3dmWDJxSzk3OWFrZjEtandnT0E3TUVWT3RGcXFPaEtRU21JTHlJUjJLV2ZIa0kyZFRTSU9WZi1oSzlwRWdDbXUyaWY1WUJQWFNSdVZsX0lUbXgwc21kTE9wNXR6c1FZb0JxUnNISm83MG5ldXAzTVdJdmhGTGU?oc=5",
+      "published": "2026-07-14T06:03:37+00:00",
       "source": {
-        "name": "| Regione Siciliana",
-        "url": "https://www.regione.sicilia.it"
+        "name": "MilanoBIZ",
+        "url": "https://www.milanobiz.it"
       }
     },
     {
@@ -601,16 +601,6 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "e712608b9a19",
-      "title": "Sovrappeso: dalla cicoria e altre erbe amare nasce il nutraceutico antifame tutto naturale - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlBXRjIwa1NwbTdSM3phWWtUSWEwX2VJdjlJYXJWS3I3ZGJNZDlzRG9sSjZqRkxIZWVHeDNIUHUxVERqcmtYN0djSUNMdGI4ZW1kcFZmQjdVVFcxX3hGVnM2YUJrU0I4ckVfWC04Z2dEYU5BaFFVMDBTMXo1TFVJcXBoY2d4NkZOc1lzWlBieFViSnBQR1NLQ2Q3dEhSNG8yeDhxZjhYMGV0azFZWmRJVlhnNUVOaHl3U2NSTVVwT0NzdThKdFQtNER2TW9YTTZ1cWpsdUZDSQ?oc=5",
-      "published": "2026-07-13T21:45:44+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -711,6 +701,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "e712608b9a19",
+      "title": "Sovrappeso: dalla cicoria e altre erbe amare nasce il nutraceutico antifame tutto naturale - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlBXRjIwa1NwbTdSM3phWWtUSWEwX2VJdjlJYXJWS3I3ZGJNZDlzRG9sSjZqRkxIZWVHeDNIUHUxVERqcmtYN0djSUNMdGI4ZW1kcFZmQjdVVFcxX3hGVnM2YUJrU0I4ckVfWC04Z2dEYU5BaFFVMDBTMXo1TFVJcXBoY2d4NkZOc1lzWlBieFViSnBQR1NLQ2Q3dEhSNG8yeDhxZjhYMGV0azFZWmRJVlhnNUVOaHl3U2NSTVVwT0NzdThKdFQtNER2TW9YTTZ1cWpsdUZDSQ?oc=5",
+      "published": "2026-07-13T21:45:44+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -924,16 +924,6 @@
       }
     },
     {
-      "id": "ae042a077efd",
-      "title": "Ue, la commissaria Salute valuta effetti del piano prezzi di Trump - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElvNkpmREJtbll4ZWdKeERMOE16MHhZN3FDcUZDanBVd3M5dXRhYVRTaVJKdGhfQ2hpbnExRm9HOXl2UWxMckk5TjctWTFSa09hcEhkeGx5d0VueXdQZDlhYjZFMzRoMlhrYkU4X09rOXM1UmJUcHFwXzBrYWRERzFDSU0wNlJjMjFWcXc5TEFhcVNCZXpSbU5kN3UzUnBCeUFGamxHZkg3QUFhLWgxLUl0eTV4VzRtMG0wVGh6bFF6Q0k?oc=5",
-      "published": "2026-06-16T07:00:00+00:00",
-      "source": {
-        "name": "Euronews",
-        "url": "https://it.euronews.com"
-      }
-    },
-    {
       "id": "d3b6f8d20180",
       "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
@@ -954,13 +944,13 @@
       }
     },
     {
-      "id": "8ef6239970ba",
-      "title": "Programma attività Aifa 2026. Le Regioni chiedono più governance condivisa: “Coinvolgere i territori su HTA, accesso ai farmaci e ricerca indipendente” - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYV9QQkhFQ1p3LUZPY1lVeUlneXNFNVdmajZxUDR4eUhHZzZrdnhKMlJCaDJtS0lxUWVubHowV3AzNWhIVmlTMjdJSjdyLTI3WDQ5ODdURVlCWmVhZlJlcks2VmtJS0pIdGxrTDE0NGF2bHpzbmp3dkd6bDlzNFliU3VEYXpZYk5UczBZdDVJb0ZYTkZiODZzNlJYMlF4OWpudWNfVmNKdEpCd1ZPemhwN0lwbm11QWt2cEtNaGM3U1hDeUxTSEJUQ2xIX01aVWptUzdoOXJfTWJ6Yi1VWWktMWh6Z2wtc1h1VmtJOGhDc1M4bjVjMjAxY05ObVRQS1BqX3N2SXZLelA4XzFMZV9QdHc2QzZCdGtxRzZ5blpn?oc=5",
-      "published": "2026-05-05T07:00:00+00:00",
+      "id": "ae042a077efd",
+      "title": "Ue, la commissaria Salute valuta effetti del piano prezzi di Trump - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdElvNkpmREJtbll4ZWdKeERMOE16MHhZN3FDcUZDanBVd3M5dXRhYVRTaVJKdGhfQ2hpbnExRm9HOXl2UWxMckk5TjctWTFSa09hcEhkeGx5d0VueXdQZDlhYjZFMzRoMlhrYkU4X09rOXM1UmJUcHFwXzBrYWRERzFDSU0wNlJjMjFWcXc5TEFhcVNCZXpSbU5kN3UzUnBCeUFGamxHZkg3QUFhLWgxLUl0eTV4VzRtMG0wVGh6bFF6Q0k?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "Euronews",
+        "url": "https://it.euronews.com"
       }
     },
     {
@@ -984,13 +974,13 @@
       }
     },
     {
-      "id": "43f96e9aff14",
-      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
+      "id": "e7adedfcbb86",
+      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
+      "published": "2026-01-16T08:00:00+00:00",
       "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "474587bf2c2f",
+      "title": "Come il caldo sballa i valore della pressione e i segnali d'allarme da non ignorare e il rischio legato ai farmaci - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTA5UDZ2MnJwai12YUd2Wk15MGQtWTFiSDhsc3RqcVh1a3VXbk5sUmRFWC1qMUx4cXI0dWdPMFpKRC03OWpmQ1k1RzRjYXNaLVlIcGFKOFQwSjZudFNLMjcxX1hvQWwwUUJhSlVQOUd2dW53ZU5Od2Z0Y0twR2JFUGZiS1h4M09XejNVOU9EUEM2Yk9fWDZKYjFqRDBtS2J0bDhJTmc2VEFzUlhaM3cyX0lHbEVjZVZEREpjWFJldjlCSEhUb1dVUE9qX2JDSnozU0Z6TzVOcm9jaThEZ014b040ZEN1dTQ?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     }
   ]
