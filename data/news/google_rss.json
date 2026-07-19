@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-19T07:57:35.279062+00:00",
+  "fetched_at": "2026-07-19T09:48:29.048094+00:00",
   "source": "Google News Health RSS",
-  "count": 101,
+  "count": 100,
   "articles": [
     {
       "id": "5f146481ed49",
@@ -11,26 +11,6 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
-      }
-    },
-    {
-      "id": "e80897dc1d10",
-      "title": "Semaglutide e invecchiamento biologico: cosa dice lo studio - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVFDaDMwMndjbVdsSGRmNGNLVHRHNXFZeXhuN2huMzdyQXhmcy16c29hb1I1V1RmeEtCci1sRU10T3c1dE5pektDWGR6S1J4LUJtR0x5NHRVMUtMNUxwM2diYVZjY1dBXzE1NDdaU1luUENja1VUUkZNbzhiNXlGblRaY0k1T1ZpanZJcDhfQl85ZGdVeFFEUlpmSkFOQQ?oc=5",
-      "published": "2026-07-16T09:07:22+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "ded288018b18",
-      "title": "Semaglutide e perdita di peso: cosa accade davvero al corpo e i rischi da non sottovalutare - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc1BqRU5EY2dMai1wTDkweUNoaFVvb3daenVZaFVCSE5ySFFGQzBLbUg3X09Mbnl0YnNHMTZRVFNGSEhEbHVCUU5kMzk3TE1rTDRqYmxFUW96ZFJzcXpsOG1xeHZlX1R5WTZiWmdzeWYwbmlIWXJNVHBLZjk3TEtiQ21abVBfREZrSURnMzBvanZVNlpnWXJjU1FWYjJESUV0azJyOHdEOUdfNTV4eXV1U2Jhd3ZzSnJVSnZqSnF3YktQRlhkb2Y1TXlyc1VINkxkYTBUR1NZUUV2WlJ3Vkh6ejBlUERDMW04WUIza3J3SFJzRFdXYUl4RFVBbDNheDE5?oc=5",
-      "published": "2026-07-16T18:33:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
       }
     },
     {
@@ -54,6 +34,26 @@
       }
     },
     {
+      "id": "e80897dc1d10",
+      "title": "Semaglutide e invecchiamento biologico: cosa dice lo studio - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVFDaDMwMndjbVdsSGRmNGNLVHRHNXFZeXhuN2huMzdyQXhmcy16c29hb1I1V1RmeEtCci1sRU10T3c1dE5pektDWGR6S1J4LUJtR0x5NHRVMUtMNUxwM2diYVZjY1dBXzE1NDdaU1luUENja1VUUkZNbzhiNXlGblRaY0k1T1ZpanZJcDhfQl85ZGdVeFFEUlpmSkFOQQ?oc=5",
+      "published": "2026-07-16T09:07:22+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "ded288018b18",
+      "title": "Semaglutide e perdita di peso: cosa accade davvero al corpo e i rischi da non sottovalutare - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc1BqRU5EY2dMai1wTDkweUNoaFVvb3daenVZaFVCSE5ySFFGQzBLbUg3X09Mbnl0YnNHMTZRVFNGSEhEbHVCUU5kMzk3TE1rTDRqYmxFUW96ZFJzcXpsOG1xeHZlX1R5WTZiWmdzeWYwbmlIWXJNVHBLZjk3TEtiQ21abVBfREZrSURnMzBvanZVNlpnWXJjU1FWYjJESUV0azJyOHdEOUdfNTV4eXV1U2Jhd3ZzSnJVSnZqSnF3YktQRlhkb2Y1TXlyc1VINkxkYTBUR1NZUUV2WlJ3Vkh6ejBlUERDMW04WUIza3J3SFJzRFdXYUl4RFVBbDNheDE5?oc=5",
+      "published": "2026-07-16T18:33:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
       "id": "8efbec29be51",
       "title": "Farmaci equivalenti, dal 2016 al 2024 lo Stato ha risparmiato 7,4 miliardi - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjdNMzdpcElOZzhKQUhiVGZNaU1wLUlEVG1KUWlnbTNRa3UzN19BaHl1SGRJTU8xSGhCSXQtZUVOSkx1Y0pTdzIwUUs2VjJkQ3E4TUQ1OHgyZmo2MkFMd2VSQ2ZGSVpBYTdVa0RSLXgxUU1pTGZqN0lMSjdVNDhxLS1wN0VzOFdnNTFpaWpNcENweDBIc0Q3MUtmSFpfblJrWXdIbm1ZdU1zWU5LdURZblRYMDY0QkU?oc=5",
@@ -61,6 +61,26 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://stream24.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "bbeccfb43e9f",
+      "title": "Scoperta casuale sconvolge la lotta al cancro: stop alla resistenza ai farmaci - Futura, le média qui explore le monde",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlZYLXVyZ2RwUGZFSElBcks1T1p3QUN1RmJzd0FpYjhVcDB1Wm5TblF6cTFPWTN1RGlSY0JtTDV1eXVCSkliSE1Vc3R6OFVZalo4eUNoazFidHU4YWNTTjJ3R2xaa1BQQVNXejFSdXBWc0tVZ084Q2N6UTVienc5TzJUbzNGTlZRZ0NmOEc5Unh0V0VxMXVDRXdQZ0RHLVpPS2NMZTZ3TnNQRnRNRGR2bmh6RlZUSkFuejJhUEFKU1p1N1Rl?oc=5",
+      "published": "2026-07-19T08:07:30+00:00",
+      "source": {
+        "name": "Futura, le média qui explore le monde",
+        "url": "https://www.futura-sciences.com"
+      }
+    },
+    {
+      "id": "8f4bb09b2fa8",
+      "title": "Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5",
+      "published": "2026-07-17T16:24:04+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -74,53 +94,13 @@
       }
     },
     {
-      "id": "dab72fc7bcc0",
-      "title": "Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5",
-      "published": "2026-07-17T14:06:10+00:00",
+      "id": "11b392f84c5b",
+      "title": "Farmaci anti-obesità, ora è boom di grasso dai cadaveri per “rimpolpare” la pelle - DiLei",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3p4UDROalNNTEhzUlBJVFFLMTVFTnZaZmtBVkhDSE5RdXpTZVZZcFV0VU42MEo4Y3dhd0ltUjhRd2pSdld3R2hubGY3ZmZFWlhqMXJycWVpM0VLOVg2c2RzS1JYY3pjbXJaLXh4dGpsV2ZuUmYzbnY0NllHc1RCS2p3UjJmT1FrNmpyZzUxY01weVZQcjlZTtIBngFBVV95cUxNRnpjSkU3MmJWakEzUGhTRUJoU1o3T0xfTzkwdXExNXlkZnAzWEotSW5tMkwtaFlxOWFVSGQ0Zi1nVGdsY2F6bVdlX2dyNmxLU18xQ3ZYTXhyRTNYQ2doTkZoTHBFdm1iSTVwSjI3b2x0TFZ4NzNFcDFIVXhmUmxvV0xya25mMkdZZU8tZEZueDRCYVRaYjA3aDE1bWxEdw?oc=5",
+      "published": "2026-07-16T09:52:33+00:00",
       "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "23c206436300",
-      "title": "Arriva la nuova pillola per dimagrire, ma chi paga? Il farmaco rivoluzionario ora non si inietta più - today.it",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpNjRnS3Qxc081NGtobXhVSk40ek9nMnlmcEVqN1ZuRDVYZTdwcENVS3JOX1c3LW4wVXMzNWE4aldMenFjRjJ5UnZOOS1xaFBmVmU5SHhyVzJlRnZIc0I0czlOWVhhY3FnbVpr0gFrQVVfeXFMTWt2RExpQ0w5WkUtUmYxcjZ2TDk3VUNFQU90c2dIeGJOSHVGRjRvdk1wWXNURmJRMFItTGp5VF8xVEZTVndRMk5pOVp1eTBzZG1MZFhXdk4zZUpSRjlsWDFUM08yU3dUOHVwSjA?oc=5",
-      "published": "2026-07-16T14:41:00+00:00",
-      "source": {
-        "name": "today.it",
-        "url": "https://www.today.it"
-      }
-    },
-    {
-      "id": "2c6e4c1542a8",
-      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
-      "published": "2026-07-16T20:32:28+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "41b2b662ca41",
-      "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUFUanJUQ1lUWjNmV0p5b09WVmRNUnhsUjAteFBPeDRhOVBVSnNkV2FzNzhiUUtWVzlhYzRRaU95eGVHdGhSM2tSYnZlMXdfWlYzd0dmcWdRUnktbHlzZHVOR2h6bFZ5S0JuYlk1bEpXSEs3SGNtakhVWGI3SHlMQXpHMmVhckZKeUtzZ3ZoRWh0ZnBha0JaQ3pGblk4ZENJbGE1WlFLMW5HX0JaSDktbUhtVVZ0VHIwdklMV3hNNFdGXzFTOGxaeE9RMlM?oc=5",
-      "published": "2026-07-16T18:36:50+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "9c8e56744208",
-      "title": "Emicrania, i nuovi farmaci cambiano la vita ma restano fuori dalla portata di molti pazienti - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmNFQ3NwQmFDdnYyemY0NGVHaFNkWFY2NnJZR29LdVZRSm1acFVqTTJPUTV4eHUwcEV1cG4tZ1h1YWRSeUpfbXNRZzUtMk4zQXJLUF83QTZFRGMzVjZEdS1XTW5MSWZaTUdBN2JaWlNldGN1ZVRvSWJEZVBRSmk2eWhHM3YtSFJCNncyRlVpQ1pqc2ZBTXFTOXJ6UU4tWlYzMlNIdl9EdGlVYm14ZWJuV2pXaFVWU2xpMThPMnY3UUU3YjV6UlFRQm8zYzBSaGtyUFVyRS01RnMtZw?oc=5",
-      "published": "2026-07-16T08:14:25+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
+        "name": "DiLei",
+        "url": "https://dilei.it"
       }
     },
     {
@@ -154,16 +134,6 @@
       }
     },
     {
-      "id": "6ca5eb6adebf",
-      "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
-      "published": "2026-07-12T22:32:00+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "6760458a1bf1",
       "title": "Farmaci che fanno male e altri che non fanno effetto: perché con il caldo bisogna stare attenti - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1RabFV5Rm5fNWNWUGFTMm54ZFc1MGtrNG9ERjZ2OXBSVjhQMEhxXzlZblZWMWhMWmdkZkdlRlZ6RGZkS2UtZlFTelhUbEFoNDlhTWc4dC11MUZpd1VOZ3d4ZUhIdE1YSXYtMmtUWXMzOUpIS0xjNndFYlpJaW53b2tKb1RCRDIyd2MxdHdGX01QT0F4THVHUzhBZ1RJYUFxWkZ4TdIBqgFBVV95cUxPbGkzQVJNbE8wTUNvbnVtM0M4d1hCS1Q4TEFGWVVmdy1yRlVfa3k5SEFuQ29ZMnRSR1Ayc05zQVQxdkQteXlJN0FSd0NVS1BPNnlGNFZJbk9PYW55c0RrRUozR3JWY1dqaHRIc0dxU0RUcXdPOWlCR1k2WXVmSjhIYmxIVDFLNzlwbjBvTWJKOE1ZOXUzT0lMdGNHV1R5MW1VS2pEVkEzdHQwdw?oc=5",
@@ -171,6 +141,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "6ca5eb6adebf",
+      "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
+      "published": "2026-07-12T22:32:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -194,10 +174,10 @@
       }
     },
     {
-      "id": "a4e0dfd65d7e",
-      "title": "Gli integratori vengono davvero controllati prima di essere venduti? - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFB2eHl1M0Z5NTQ4VF9YRFpZX1NPLXRlRGRjVVhaRDVPWFpBYm1HczhJLWxVNlI5QTRJNkp5VHNHVEJMUWFseDQwVmc5cFIyYVpxcEtSemgtZXZGRmZDZmpzWGlqVGFZUWJlY1ZNU0xVTUdVa0pvVEladUk4NURRQVF5OEdFUUNwUEVyNTh0ZF81X19KUTcyZlVXTXlieG5XdWhsYmNQSGpTZ19mOWYyeEZfOXB3dXprNUE?oc=5",
-      "published": "2026-07-18T10:35:51+00:00",
+      "id": "2c6e4c1542a8",
+      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
+      "published": "2026-07-16T20:32:28+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
@@ -221,6 +201,26 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "41b2b662ca41",
+      "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUFUanJUQ1lUWjNmV0p5b09WVmRNUnhsUjAteFBPeDRhOVBVSnNkV2FzNzhiUUtWVzlhYzRRaU95eGVHdGhSM2tSYnZlMXdfWlYzd0dmcWdRUnktbHlzZHVOR2h6bFZ5S0JuYlk1bEpXSEs3SGNtakhVWGI3SHlMQXpHMmVhckZKeUtzZ3ZoRWh0ZnBha0JaQ3pGblk4ZENJbGE1WlFLMW5HX0JaSDktbUhtVVZ0VHIwdklMV3hNNFdGXzFTOGxaeE9RMlM?oc=5",
+      "published": "2026-07-16T18:36:50+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "a4e0dfd65d7e",
+      "title": "Gli integratori vengono davvero controllati prima di essere venduti? - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFB2eHl1M0Z5NTQ4VF9YRFpZX1NPLXRlRGRjVVhaRDVPWFpBYm1HczhJLWxVNlI5QTRJNkp5VHNHVEJMUWFseDQwVmc5cFIyYVpxcEtSemgtZXZGRmZDZmpzWGlqVGFZUWJlY1ZNU0xVTUdVa0pvVEladUk4NURRQVF5OEdFUUNwUEVyNTh0ZF81X19KUTcyZlVXTXlieG5XdWhsYmNQSGpTZ19mOWYyeEZfOXB3dXprNUE?oc=5",
+      "published": "2026-07-18T10:35:51+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "id": "891965b6ad7a",
-      "title": "Salute: Palumbo (Sno), ‘farmaci disease-modifying modificano decorso Alzheimer’ - egnews.it",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUJLcWV5X1ZxU2ZsY0h2TjEwOUx2ZldfcmtRSnFPX0VscWg2VmtoVFczVXV0V3BwOXVtWUtJTFhvLWFpeVdOUkFHbDkyRnJNZnROZDFZa3Z1a21HWC1lR08tSVhIcjV3azk3Wk5hZE4xaExrM1NOYU1PdGpINHNaekRVdkh1WExnOGJDNlM2UnZua1ZXOEVrRUVlWDA?oc=5",
-      "published": "2026-07-15T11:21:25+00:00",
-      "source": {
-        "name": "egnews.it",
-        "url": "https://www.egnews.it"
-      }
-    },
-    {
       "id": "89f459a5e2d5",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -281,6 +271,16 @@
       "source": {
         "name": "Ministero Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "891965b6ad7a",
+      "title": "Salute: Palumbo (Sno), ‘farmaci disease-modifying modificano decorso Alzheimer’ - egnews.it",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUJLcWV5X1ZxU2ZsY0h2TjEwOUx2ZldfcmtRSnFPX0VscWg2VmtoVFczVXV0V3BwOXVtWUtJTFhvLWFpeVdOUkFHbDkyRnJNZnROZDFZa3Z1a21HWC1lR08tSVhIcjV3azk3Wk5hZE4xaExrM1NOYU1PdGpINHNaekRVdkh1WExnOGJDNlM2UnZua1ZXOEVrRUVlWDA?oc=5",
+      "published": "2026-07-15T11:21:25+00:00",
+      "source": {
+        "name": "egnews.it",
+        "url": "https://www.egnews.it"
       }
     },
     {
@@ -321,16 +321,6 @@
       "source": {
         "name": "BariToday",
         "url": "https://www.baritoday.it"
-      }
-    },
-    {
-      "id": "32c162c7cc87",
-      "title": "Olesen: «L’Europa deve investire nella salute per restare competitiva» - The Watcher Post",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcnlpckNzSjBVdFUyM0FYR0FRa1FSZURQZUNJejdHQkl3ZHpPSy0ySWlkNkVHajVzMUpaTjlTbWpWVDZ5WTN2Ynp2VzlRSldYbm9oU3RPSFp0by0tQlhpVnV4NDFrTXdMSkRzMERn?oc=5",
-      "published": "2026-07-16T13:18:37+00:00",
-      "source": {
-        "name": "The Watcher Post",
-        "url": "https://www.thewatcherpost.it"
       }
     },
     {
@@ -414,6 +404,16 @@
       }
     },
     {
+      "id": "9c8e56744208",
+      "title": "Emicrania, i nuovi farmaci cambiano la vita ma restano fuori dalla portata di molti pazienti - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmNFQ3NwQmFDdnYyemY0NGVHaFNkWFY2NnJZR29LdVZRSm1acFVqTTJPUTV4eHUwcEV1cG4tZ1h1YWRSeUpfbXNRZzUtMk4zQXJLUF83QTZFRGMzVjZEdS1XTW5MSWZaTUdBN2JaWlNldGN1ZVRvSWJEZVBRSmk2eWhHM3YtSFJCNncyRlVpQ1pqc2ZBTXFTOXJ6UU4tWlYzMlNIdl9EdGlVYm14ZWJuV2pXaFVWU2xpMThPMnY3UUU3YjV6UlFRQm8zYzBSaGtyUFVyRS01RnMtZw?oc=5",
+      "published": "2026-07-16T08:14:25+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
       "id": "f6796bcb0c36",
       "title": "Dolcificanti, uno studio ne indaga gli effetti sul microbiota intestinale - sanitainformazione.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk10WE9jUUVjbnkzYklNZktZSEVmMzBBa21XRkU0SjB6S0VNYjFhOVk2d0U0d3lxb1Y1UklyOTNfU2hSWVl0QVB2SmhwUUVDanlXMS0yb284eVZWZDdWQU5CdnVZelZHbmZ2RXJLV1JJT3NVX0o1WGtTSTNiV3dZUEpQOW5RZHVER2EyR0RSUHZ2NmNLblVmQ3ZiWWNIRnFaX012UWwycGRSM2M?oc=5",
@@ -434,20 +434,20 @@
       }
     },
     {
-      "id": "1bd23b31c706",
-      "title": "Grasso da cadavere per i corpi svuotati dai farmaci dimagranti: la nuova tendenza Usa - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5",
-      "published": "2026-07-14T08:42:39+00:00",
+      "id": "9128de78d1cc",
+      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
+      "published": "2026-07-16T07:31:45+00:00",
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
       }
     },
     {
-      "id": "9128de78d1cc",
-      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
-      "published": "2026-07-16T07:31:45+00:00",
+      "id": "1bd23b31c706",
+      "title": "Grasso da cadavere per i corpi svuotati dai farmaci dimagranti: la nuova tendenza Usa - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5",
+      "published": "2026-07-14T08:42:39+00:00",
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
@@ -574,6 +574,16 @@
       }
     },
     {
+      "id": "3990fa9e0fa4",
+      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero Salute",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "source": {
+        "name": "Ministero Salute",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
       "id": "32ec1d5c500b",
       "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - Cittadinanzattiva",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTVucndWN3daZTF6NHZPN2VSdW1idVUzMmpwbEhFQ3FKLU1NVDVnX1Vlbkh6bVFhM3RmZlNSc0VhaVhzdWQwZUgyb3NiQkRZcG9RVkNXc0E3S05ITHdVQnlnOVpnOG1Eck92SmFYTFlwcEVQWTFPek9JTXVnaWFydzJQNGRJM3hrTF8wbTd6V09QMzVIdnVEd29ETEROLW94Mko5VVhHQVJVQmZjNFpmSEJWU3JwUWVNYjYxV25KMXdCeWRNQVNR?oc=5",
@@ -594,26 +604,6 @@
       }
     },
     {
-      "id": "3990fa9e0fa4",
-      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero Salute",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
-      "published": "2026-03-27T07:00:00+00:00",
-      "source": {
-        "name": "Ministero Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "8f4bb09b2fa8",
-      "title": "Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5",
-      "published": "2026-07-17T16:24:04+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "942a4806bcb1",
       "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
@@ -621,6 +611,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "dab72fc7bcc0",
+      "title": "Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5",
+      "published": "2026-07-17T14:06:10+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -834,16 +834,6 @@
       }
     },
     {
-      "id": "9e3ddd48dca3",
-      "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - OMaR – Osservatorio Malattie Rare",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": {
-        "name": "OMaR – Osservatorio Malattie Rare",
-        "url": "https://www.osservatoriomalattierare.it"
-      }
-    },
-    {
       "id": "b6dcf5c98b7a",
       "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
@@ -851,6 +841,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "9e3ddd48dca3",
+      "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - OMaR – Osservatorio Malattie Rare",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": {
+        "name": "OMaR – Osservatorio Malattie Rare",
+        "url": "https://www.osservatoriomalattierare.it"
       }
     },
     {
@@ -874,6 +874,26 @@
       }
     },
     {
+      "id": "3678042890d7",
+      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "a45e2c85decd",
+      "title": "Il farmaco vince in un ecosistema della salute - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazhURW04aEpOSzYyRDZfN3MydHJMUUo0NXhCT3Y2Uk5pZ05xaVJlbUNVaWhtWjJoYjZ5eGktWG9OdHBzbU5UVmRrakkwTDhiQXRCb3FQcV9lblNLNTNPQjRXZnlMQzljT3hKendZOTd5NHg2TmZsc3VFd1kySno0NEF3QS1uZDlWTzhxN1U1dWVKZHhIMkpKNm9B?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://stream24.ilsole24ore.com"
+      }
+    },
+    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -894,16 +914,6 @@
       }
     },
     {
-      "id": "3678042890d7",
-      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "da61692987a9",
       "title": "“Mai in auto, no in bagno, occhio al frigo”: le regole d’oro per conservare i farmaci col gran caldo - La Stampa",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFhTU3BYa3pvMlE2d0pDY3pIc1J1VGdta0dpRnZNYWNTM0JDczdTZTJ6RHBad3RkX2dLMEFBeFRLcXdfTTkyMzdGNzJ4N21iNEpzQ00xU0V2Q0wtRDRsRE9rZHdwUzFKR2J1UnlTczhqbldPUkY3R1otb3hNaG44enBnblIxT1l4UTZDUm9TbVE0cWlwbFVucNIBngFBVV95cUxNNWEtRUFkdXQyQm8wSnJYZFlpQ25sNFdLNGJUaTRrXzY4SmxZYlJTdXJnMGVSVWdtX0dyd3JsbkhaOHlLa2RzWGVWWS1ld1BnT1JzSlItQ0JKUnRBaG5mV2J2SU9tcFgwdW9vM08xTWY1bC1lVkgxb2tuVWFBVW5FMjJLSkxTN2ZTRFpPSDZPQnRpVDk3TTBzbHVKc0JYQQ?oc=5",
@@ -911,16 +921,6 @@
       "source": {
         "name": "La Stampa",
         "url": "https://www.lastampa.it"
-      }
-    },
-    {
-      "id": "b6c22ac34507",
-      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
-      "published": "2026-05-04T07:00:00+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
       }
     },
     {
@@ -944,6 +944,16 @@
       }
     },
     {
+      "id": "b6c22ac34507",
+      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "dd4630529884",
       "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
@@ -951,16 +961,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "fc10db9bb2a1",
-      "title": "Egualia, Zagaria “La filiera dei farmaci equivalenti e biosimilari va sostenuta” - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUWtjQ3NzWi1Rbk1yMjdzcXJRVmlPdHgzTEpBbDBERmF0UXVSRHBzZEVwR05XbUs1eUY4aHR1SVdTZDNZZjZHd2tpcURMTWRadFJzZ3dHN0poM2oyQkczU1l3V2p2VWZLWWluSFROZzBSQndDeTVhS1ZVRFN0RXI2QzFVQW9XeHB5VzMyR3prRWNNZVhHSlNEaENBOFdjYWJoWjE4TlRZVExKczRNZVNadlNndW1QWmR1dDU4RzRwc2tzNHJ4blFfYTJrbDNyaG94aEgza1hkTnMwU3pTMnRF0gHeAUFVX3lxTE8yUm9vbXpvQWRPd2NkdWhTRmZzdjBrZDdIXzVOU2dndHRiQ3UwNUNYaE5XMFhsbFVQU295R3NCQ0RkYmQ5ZUR5QVQ5cEVZZm1NdUFLWXczMXYtcVdnQUdxb3RWMjlyMUxkcUI1OGt3TjhhYlJSM1pBR09hZExpRXdtZExfeXpUZnpRRUkyakJlWW41YmEzeC1qbG40SE9iNkUxMUU5WVlNOTJYclhiX1l0RFlBTHZfTldfd2NzQ1pNdDVNWHA2SzNkOGFXNHZ0WTI3RDRJd1hHMzkwckdRUQ?oc=5",
-      "published": "2026-07-17T10:25:22+00:00",
-      "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
@@ -974,13 +974,13 @@
       }
     },
     {
-      "id": "02f34c097a5e",
-      "title": "Salute sempre più a pagamento: Agnoletto spiega perché - Il Fatto Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1lKYnpEUEVUeFB0dnVxNy1qN2lPazR2RTRyMmRSRlRnNHNrXzgwYnY4MVB1LV9Oel9xLUcyY2l6VldwYmxSaGNJTUFnWmQ5QlBicXlYYUdQeVBhMnhhSFBWQmhtYzkxa2c3ZzBqUzNLcm9FSm5ZQWdDcGU4S0lIWk1MVlZZZDBBOUpZdDZlZDNiX0o5ckFpa01rRVhWZTBBblZ5WVZhY0gxUXRpeWk1ZzByVjhVMl9VdUNPYmVqaENxcV9kVHhZM3B4NWZZYjdmSW41dTFMQ1cxbFk?oc=5",
-      "published": "2026-05-26T07:00:00+00:00",
+      "id": "fc10db9bb2a1",
+      "title": "Egualia, Zagaria “La filiera dei farmaci equivalenti e biosimilari va sostenuta” - La Gazzetta del Mezzogiorno",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUWtjQ3NzWi1Rbk1yMjdzcXJRVmlPdHgzTEpBbDBERmF0UXVSRHBzZEVwR05XbUs1eUY4aHR1SVdTZDNZZjZHd2tpcURMTWRadFJzZ3dHN0poM2oyQkczU1l3V2p2VWZLWWluSFROZzBSQndDeTVhS1ZVRFN0RXI2QzFVQW9XeHB5VzMyR3prRWNNZVhHSlNEaENBOFdjYWJoWjE4TlRZVExKczRNZVNadlNndW1QWmR1dDU4RzRwc2tzNHJ4blFfYTJrbDNyaG94aEgza1hkTnMwU3pTMnRF0gHeAUFVX3lxTE8yUm9vbXpvQWRPd2NkdWhTRmZzdjBrZDdIXzVOU2dndHRiQ3UwNUNYaE5XMFhsbFVQU295R3NCQ0RkYmQ5ZUR5QVQ5cEVZZm1NdUFLWXczMXYtcVdnQUdxb3RWMjlyMUxkcUI1OGt3TjhhYlJSM1pBR09hZExpRXdtZExfeXpUZnpRRUkyakJlWW41YmEzeC1qbG40SE9iNkUxMUU5WVlNOTJYclhiX1l0RFlBTHZfTldfd2NzQ1pNdDVNWHA2SzNkOGFXNHZ0WTI3RDRJd1hHMzkwckdRUQ?oc=5",
+      "published": "2026-07-17T10:25:22+00:00",
       "source": {
-        "name": "Il Fatto Quotidiano",
-        "url": "https://www.ilfattoquotidiano.it"
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
@@ -1001,16 +1001,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "9ac4289eaeab",
-      "title": "In Puglia più controlli sulle prescrizioni di farmaci per ridurre i costi - BariSera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazhPUmgyOXIyc2lfUWpfR1lCRGY1Umh5dU1KblRWclhyQ2VvLVJGcUR6MnBGUWpyLVBEMkJDclBnOTQ0WUVxVTZ2eUl3dHJzWnVBeTZ1bmpHYTRoRnVPZHFmT2lYZk95WWNtZm5zUUVpcEJpNUR1YUdOSUh6bW04bGVLU3BHVXNFcVBCbjZtZ0VFMXJJdVhsODFtRy1OcDRfckZoX1FLVURyVWpZQVE?oc=5",
-      "published": "2026-07-16T03:54:48+00:00",
-      "source": {
-        "name": "BariSera",
-        "url": "https://bariseranews.it"
       }
     }
   ]
