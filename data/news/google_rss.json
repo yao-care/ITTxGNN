@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T21:55:51.574000+00:00",
+  "fetched_at": "2026-07-23T22:48:09.294030+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -74,16 +74,6 @@
       }
     },
     {
-      "id": "2f60d1444ff1",
-      "title": "Effetto nocebo: cos’è, come funziona e perché influisce sulla nostra salute - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTBxZUNEN09ob1VZeTdWZW1ma251Mkl5WldVYkVqSDZTNzBaMXN6YWhuNWhxUGVsNGptNjNZcUJHQkhaV3hwZVhVR1lXZTZvanNSSE1xejJCZUhreHd4cmZYU2RaM3FXdWFoUklWTEJuSjdCTDFNZ19KQndjTGxFN3lFck9DRzBoay1jSzUzRkRBdC1NemhldU5aZ01uTnJkZW1UbVV3?oc=5",
-      "published": "2026-07-21T08:04:23+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
       "id": "f921bc7b9755",
       "title": "Terapie sotto esame per gli anziani: l'USL rassicura, meno farmaci non significa meno cure - Valledaostaglocal.it",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYmJ6YmNxM283cmZhVEZiVU1jZjktLTBPLTFuWTFGTm1pVGFiN2pyb2VpZUxacHllRnNjM1hEY1N0akl6YnZjRUZodkt0UVlGQ19aRXZHVUJXdzB4R1VGaWN0SkZzbHk1c3huYVJOR1ZBMDgyOVB6aEZUbjVUQlduTmN6Q1VUNGNwbk9MR19jWXFWM3pvV2ZSR2RWMGV1c2VwY05QbTF6OUdyR3I2ZVZJSng4U3ZNSnZDMDZFd0lFRF9RWW5KQzYzaV95T0MyZlk3ZlYteEZWYXBTSnFZT2RDaDJ3cmpEVEpXSGpUZzlRRzNLYmZUQWU1eVhnSG05dUFvTXlxRzNRSQ?oc=5",
@@ -91,6 +81,16 @@
       "source": {
         "name": "Valledaostaglocal.it",
         "url": "https://www.valledaostaglocal.it"
+      }
+    },
+    {
+      "id": "2f60d1444ff1",
+      "title": "Effetto nocebo: cos’è, come funziona e perché influisce sulla nostra salute - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTBxZUNEN09ob1VZeTdWZW1ma251Mkl5WldVYkVqSDZTNzBaMXN6YWhuNWhxUGVsNGptNjNZcUJHQkhaV3hwZVhVR1lXZTZvanNSSE1xejJCZUhreHd4cmZYU2RaM3FXdWFoUklWTEJuSjdCTDFNZ19KQndjTGxFN3lFck9DRzBoay1jSzUzRkRBdC1NemhldU5aZ01uTnJkZW1UbVV3?oc=5",
+      "published": "2026-07-21T08:04:23+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
       }
     },
     {
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "1c3759b559eb",
-      "title": "Viaggiare con una patologia cronica: i consigli del medico per vacanze sicure tra aereo, mare e montagna - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTk5uU2JBR2Q1Y2FjN1ZKOXVYUnNGWG5mTWdaVjZTMXB4dnk4ZHE1WFBLcnZqdmFwLXJtLXJiSWpRWjFxMTE5Wm9lVXVhcHBRT0k5VnpYSTdoRloycHhrSGxUYTRudDFIVTc4UUxPZ2pYQTQ5ajZDUG1LQmUySkpZcHVxcWxtRTBaOEtDSU5qaktaNHpqcjV2VVVyUkZyaGhLc1h3Z2o0dHhkWDVNY1lsbHlwc0lEWUFHR25jWWJrRmhxRVoza1g4eU5RZ3Q0VHl2?oc=5",
-      "published": "2026-07-23T16:06:02+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
       "id": "bbb1adea2d30",
       "title": "Farmaci dimagranti GLP-1: rischio basso ma reale di perdita di capelli - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5mT1NxZTdNVUZNc3ZaZGRxMWRDdjBzU1FiLU5MaE9HbUdsNGhZUEhFdWx5aGpIOGpFZG9jM0c3NmsxRVZxVWQweXhHX2pyWExxOUIyRnlVTmxYbVRrejJ5b2lwdzVrbVhUN0hNRERFMjJhUXJKVkE2OW9NRjctcHJDZ3pLdGZFU09VR243WVB6dEUtZHFnTlRTc21BeW1JelZwUWIwZnBCMVA1aW5kcA?oc=5",
@@ -171,6 +161,16 @@
       "source": {
         "name": "BeBeez",
         "url": "https://bebeez.it"
+      }
+    },
+    {
+      "id": "1c3759b559eb",
+      "title": "Viaggiare con una patologia cronica: i consigli del medico per vacanze sicure tra aereo, mare e montagna - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTk5uU2JBR2Q1Y2FjN1ZKOXVYUnNGWG5mTWdaVjZTMXB4dnk4ZHE1WFBLcnZqdmFwLXJtLXJiSWpRWjFxMTE5Wm9lVXVhcHBRT0k5VnpYSTdoRloycHhrSGxUYTRudDFIVTc4UUxPZ2pYQTQ5ajZDUG1LQmUySkpZcHVxcWxtRTBaOEtDSU5qaktaNHpqcjV2VVVyUkZyaGhLc1h3Z2o0dHhkWDVNY1lsbHlwc0lEWUFHR25jWWJrRmhxRVoza1g4eU5RZ3Q0VHl2?oc=5",
+      "published": "2026-07-23T16:06:02+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "0201ce1335bf",
-      "title": "Farmaci per diabete e obesità: uno studio segnala un possibile aumento del rischio di caduta dei capelli - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMG14MEdCTkM0YVNIcEdGQmpMZ0lvVU41ZFM0cHdheXNoS3pYUmdZMmRfZW1zZWRQbVBXTk8tenBUU3JLdm1RdVJsSjNKYnprV0VsNEFwN0MxTm5PV1NkbW5oZDlzandrSVczX0JIZkJHOWtvN2x6Vkh2UEpPZHRuUEUwX29kSk1PLVVmcVc0RlpsOGx6ZnVFUkJXQUdFZEJjcUN0akJfeWR0OE1OLWRjamZYQ1pYUW5lbEs1LXlOQ2jSAbsBQVVfeXFMT3hrTjZzNTZVZFc5QUF0VHpBT0ExUndUR25jWVVWSjl2Tlg1SllMVkY0RGtzczY2QkREbXBkQnFzWnlSMVhDVTRzQk1aSWYwU0VtNzgtaTVPWDNCTnFUby0zTVhKMXRKY1ZBTTNQM0pocldQbWIwNGkxY1A2dXE0M25iWjFzc3NCTU9Ocy1FdkwyQlRCdXFCMm1kSDhoVE1oandzZS13R3NObUswRzdfWjY0bmJZMEtqb3lIRQ?oc=5",
-      "published": "2026-07-23T10:31:31+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "a2d00178630b",
       "title": "Alzheimer e nuovi farmaci, Lilly non si arrende: l’impegno con Aifa e i pazienti - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc20yY1pXVC04WS14Yk5HUG5VVVlKemppNEVpSmFEY0FXZ3RxVU9vOWl3aW9XMWpPZnNWQlcybElTQVR6RWtHcVJVeGFEZXJvSHBKQS1lMTg5bXcxUVUtelR1b05lb1EtZ1kxTFVqeEk5TjV2U09XRzQxckNhMTVVMFlJS3NEZGRNSW9xWUhrX1AyZ1JJM2c0aWtSWnJrNGpJMGh5N0lCWkVGckNPeTh0YTBrVVBXWWpWRVQzWmczNE5zR1RQWjh3?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
+      }
+    },
+    {
+      "id": "0201ce1335bf",
+      "title": "Farmaci per diabete e obesità: uno studio segnala un possibile aumento del rischio di caduta dei capelli - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMG14MEdCTkM0YVNIcEdGQmpMZ0lvVU41ZFM0cHdheXNoS3pYUmdZMmRfZW1zZWRQbVBXTk8tenBUU3JLdm1RdVJsSjNKYnprV0VsNEFwN0MxTm5PV1NkbW5oZDlzandrSVczX0JIZkJHOWtvN2x6Vkh2UEpPZHRuUEUwX29kSk1PLVVmcVc0RlpsOGx6ZnVFUkJXQUdFZEJjcUN0akJfeWR0OE1OLWRjamZYQ1pYUW5lbEs1LXlOQ2jSAbsBQVVfeXFMT3hrTjZzNTZVZFc5QUF0VHpBT0ExUndUR25jWVVWSjl2Tlg1SllMVkY0RGtzczY2QkREbXBkQnFzWnlSMVhDVTRzQk1aSWYwU0VtNzgtaTVPWDNCTnFUby0zTVhKMXRKY1ZBTTNQM0pocldQbWIwNGkxY1A2dXE0M25iWjFzc3NCTU9Ocy1FdkwyQlRCdXFCMm1kSDhoVE1oandzZS13R3NObUswRzdfWjY0bmJZMEtqb3lIRQ?oc=5",
+      "published": "2026-07-23T10:31:31+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -254,9 +254,9 @@
       }
     },
     {
-      "id": "1c34cec1aacd",
+      "id": "74109c326eca",
       "title": "Obesità adolescenti. Arriva la prima Linea Guida sulla gestione terapeutica - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1J4a2ZJUUpOcHlFSTVCR3kweDJ4bVAzLU4wd0hUbUw0SEJlc3NiZ0dYakh6Nm9ialRKZlVFOHRYZFhDSWJjS2dpalhPQ1hYNmlxQmFLV0didURjUWU4RHRyS0NmT2MxSzdjc1dic3A1TnE3eHBPTzh3LVBNUGt0R2hmTS1sd1NNb2V2QWVPQjMzcFpaMms5eFVfeWUyRXpuNnZxaTFFZ0RxV0ZHZHdiZDZPbFpxOE1qWUh1Q1N0bzJUdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlkzakZQY2U3LVJXcE80LVU1UW5uMzhHOUFEa3ZGUlhGaGJ6cG4yQVJtXy1PQXkxakRDclJnVHJrTm05RWo1bU9kRHd4MndfQlhBRE1tT0dPdFZWY0V1eEY1OGFXa0pwcXh3U2cyaV96cUQ0TGQ4Uzc0RDVGbGRhQmVLYkNrNXNUbDl1cmFJU0ZQbHJtbnhEdFdrcUZhXzVWRDRmVTVSbld5em9JOVpQTUhkWVV5cUE3bWVteg?oc=5",
       "published": "2026-07-22T10:51:35+00:00",
       "source": {
         "name": "Quotidiano Sanità",
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "4e9f5afa358f",
-      "title": "Superbatteri, torna efficace un antibiotico che sembrava sconfitto: la scoperta - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTFNc0FaX2ZGT1pYTnQ2Uk82emZzaHAyX2sycXpheDhmaDBGM1p3cVJuVVc5V3M0UnQyVUpHY3E1Z0tacmhfZFlRdWRhWUk2SENNQjZjbVV2ZzRUaDV1RGl1ZjN4YklqcDljajhMMnlDUjlPUzBIMG1IdF95VzFRUmpfeHE?oc=5",
-      "published": "2026-07-23T12:37:34+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
       "id": "34da4d869dfb",
       "title": "Revisione del Prontuario farmaceutico sotto esame: il nodo dei nuovi criteri di rimborso - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOVZOUDVtVS05Q0pQaDQ4LTlMTFVaVW42TS1aV2ZGMF85NHZCUDhpU05kTFN2Ym50QWJZX3lWakh3QllRQjhPS1YtN1pqY1Z4VGJ2eGVXS0d0WmZRX1hidUtueU9vYXZpRERKMU5HRUFESmZvNGp2VFg3UG9WRm9qN0tlVy1qaHI3UlFkRUhnYmlFcUFzZ2FHZTNEeERWYXdiM01XdU5UcXhlWF9SOVY3WHdvRFdMSk1hQXZLNWJBQ0ZVcWQzMnBDNVVucXR5TUZma0ZueTNobEt3dTZwTWc?oc=5",
@@ -294,13 +284,13 @@
       }
     },
     {
-      "id": "78f43e081243",
-      "title": "Se Oprah, Serena Williams e Musk consigliano il farmaco dimagrante: chi controlla cosa dicono? - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHRvSm40Nmk2VXFYQ2FkZnpyZGN5MDFiMVNZSG5hLTlhMFVoc3lWT0hOTGRkSEl1dkFRZmliblJMZ1h1MFpjSWNvRkxxWjhDbTJhUXVEbHZiWTNWVmM4UmVOc2JWT0Iyelp0cVAwSlhnWmszVzVwaTVfS2hoMHI1VkhnTnJ0Tk5hci15MUlJRGEzcWxSUTlpWF9EN0FHcFVIMEhPVTFucXg0b1V5ZnZEYVFKZzVDaHdJaTNFeE12VHg0QnZ0RTNv?oc=5",
-      "published": "2026-07-23T08:32:50+00:00",
+      "id": "4e9f5afa358f",
+      "title": "Superbatteri, torna efficace un antibiotico che sembrava sconfitto: la scoperta - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTFNc0FaX2ZGT1pYTnQ2Uk82emZzaHAyX2sycXpheDhmaDBGM1p3cVJuVVc5V3M0UnQyVUpHY3E1Z0tacmhfZFlRdWRhWUk2SENNQjZjbVV2ZzRUaDV1RGl1ZjN4YklqcDljajhMMnlDUjlPUzBIMG1IdF95VzFRUmpfeHE?oc=5",
+      "published": "2026-07-23T12:37:34+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -314,10 +304,30 @@
       }
     },
     {
+      "id": "78f43e081243",
+      "title": "Se Oprah, Serena Williams e Musk consigliano il farmaco dimagrante: chi controlla cosa dicono? - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHRvSm40Nmk2VXFYQ2FkZnpyZGN5MDFiMVNZSG5hLTlhMFVoc3lWT0hOTGRkSEl1dkFRZmliblJMZ1h1MFpjSWNvRkxxWjhDbTJhUXVEbHZiWTNWVmM4UmVOc2JWT0Iyelp0cVAwSlhnWmszVzVwaTVfS2hoMHI1VkhnTnJ0Tk5hci15MUlJRGEzcWxSUTlpWF9EN0FHcFVIMEhPVTFucXg0b1V5ZnZEYVFKZzVDaHdJaTNFeE12VHg0QnZ0RTNv?oc=5",
+      "published": "2026-07-23T08:32:50+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
       "id": "b7f9d207641a",
       "title": "Trump e lo spettro dei dazi sui farmaci generici, la replica delle imprese e dell’Ue - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU05IQU5BaHlSc2VFN2ozWDQ2SFBMUFVLY29OSUxsaUNjMUVHMG55QUdsNzNyR21FM1hZZXcwWktrazlqN3k3TjBTMEdaeG5SMnZ1SURmdHNPLTBnZzUxb2lmWS1kMnVIbVdjVDc0aTJGV3RHSkI2X0EtME5MN3N1a2VkTnhMdWlzYXJUazZUU3Y0cGw1YTBtbVJIekxHcVE1TENwUURXbEdtXzlTcEZ2MDI0X2p0V2xlZFNWVkwzdzJMaHlFRktlNkZkTUJlUQ?oc=5",
       "published": "2026-07-22T13:47:59+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
+      "id": "8268826a26cb",
+      "title": "Revisione del prontuario tra appropriatezza e risparmi, i margini per un \"approccio chirurgico\" - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkw0WXpiSHNyaGpxeXBnei1waVUwYkJxVkFieUw1V0o4bTR6ZktYeElrMFI1ODRCV3BUYlBvTXRndHlFZnJMTFQ2bmFfbWg5Rk81OXU0QVhXVXVubTcyTGUwVlBZQ0RQTWVBVXpmM1hneENUazgzdDd1aEVabmphbVUtc0tpRkhncWtsZTMwOWFtTHhyMFE0aGJwdlhmM2J0c1JoZWZ1eHlQMGttOXhjdUxXYVgyTDhUZ1EzdUdXX2xDQVZuR0pWQUktTWpGUWNRaFRMc2pxNTViMGc?oc=5",
+      "published": "2026-07-22T11:28:03+00:00",
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
@@ -331,16 +341,6 @@
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
-      "id": "8268826a26cb",
-      "title": "Revisione del prontuario tra appropriatezza e risparmi, i margini per un \"approccio chirurgico\" - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkw0WXpiSHNyaGpxeXBnei1waVUwYkJxVkFieUw1V0o4bTR6ZktYeElrMFI1ODRCV3BUYlBvTXRndHlFZnJMTFQ2bmFfbWg5Rk81OXU0QVhXVXVubTcyTGUwVlBZQ0RQTWVBVXpmM1hneENUazgzdDd1aEVabmphbVUtc0tpRkhncWtsZTMwOWFtTHhyMFE0aGJwdlhmM2J0c1JoZWZ1eHlQMGttOXhjdUxXYVgyTDhUZ1EzdUdXX2xDQVZuR0pWQUktTWpGUWNRaFRMc2pxNTViMGc?oc=5",
-      "published": "2026-07-22T11:28:03+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -414,6 +414,16 @@
       }
     },
     {
+      "id": "5bc3ad3a9669",
+      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://stream24.ilsole24ore.com"
+      }
+    },
+    {
       "id": "6da921d8e213",
       "title": "Farmacia dei servizi, Basilicata pronta a partire: da settembre vaccini e nuove prestazioni - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTlERUdUT1MwWldPaFhMLUNwRFpKWWdSZGs4bWhuZUtZSUdPX2ZaYmNBeGtOeWJIRWpodmEwMUtKU3FnaGZqZVp3WV9hSkFUcHk0WDdVcXVBS09HMS1jbWVnOERUMXFwd2t6SmE0eTRzRjRBZ3RMUUpNM2p3b1VUdmF3Um82dnZOTVlXOWkwUXJncFpPN2thNXRpVENHNnBacjhubEZ5T19HZzdqcE1IcmRPak1QTzJjNVNwN0RPU3l4eU9iV3RudzNEbGl6cXlCOFo3dTJJN0JRb0NiRXhzYw?oc=5",
@@ -451,16 +461,6 @@
       "source": {
         "name": "fnovi",
         "url": "https://fnovi.it"
-      }
-    },
-    {
-      "id": "5bc3ad3a9669",
-      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
       }
     },
     {
@@ -764,16 +764,6 @@
       }
     },
     {
-      "id": "476f48da6d62",
-      "title": "Farmaci in gravidanza: sono davvero vietati? - GravidanzaOnLine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GbW00WDFoQWVyOUFDdmxDcEZ0Mzlkd21wckpnQnFPVklfRkVwTmpkc2o1VERlNVNkVWVXOHBZWW1YaWhoTEQ0Rk44Q3o2YWJaZzhYNnZuT0ExY3ZxNEViQTl5RTY3YUI3M1RTWHoxbw?oc=5",
-      "published": "2026-07-21T09:40:41+00:00",
-      "source": {
-        "name": "GravidanzaOnLine",
-        "url": "https://www.gravidanzaonline.it"
-      }
-    },
-    {
       "id": "6667ade3df85",
       "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
@@ -791,6 +781,16 @@
       "source": {
         "name": "OMaR – Osservatorio Malattie Rare",
         "url": "https://www.osservatoriomalattierare.it"
+      }
+    },
+    {
+      "id": "476f48da6d62",
+      "title": "Farmaci in gravidanza: sono davvero vietati? - GravidanzaOnLine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GbW00WDFoQWVyOUFDdmxDcEZ0Mzlkd21wckpnQnFPVklfRkVwTmpkc2o1VERlNVNkVWVXOHBZWW1YaWhoTEQ0Rk44Q3o2YWJaZzhYNnZuT0ExY3ZxNEViQTl5RTY3YUI3M1RTWHoxbw?oc=5",
+      "published": "2026-07-21T09:40:41+00:00",
+      "source": {
+        "name": "GravidanzaOnLine",
+        "url": "https://www.gravidanzaonline.it"
       }
     },
     {
@@ -964,16 +964,6 @@
       }
     },
     {
-      "id": "05a8ffd6936f",
-      "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTR6QXl3X01lRXQweVN0c0FwRVJsdGtDb21xMzcyd2RnT1lxSl9Da2N5VVBydDRLYmdJdkgzSmk0TXQyeFE3TnViN2E4WmhEZ3B5QndRWWhkeW9Nb2FXVkVqNnRvakRqVGltbHY4WUFUcDVXak1JRUhXV0FHakxoQkZIMFhnRnFZQ05yaUJESkRhMWVTa3pjbEZUekh2T28yWGpibXROcXJNUQ?oc=5",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
-      }
-    },
-    {
       "id": "6eec9b1d3d53",
       "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
@@ -1001,6 +991,16 @@
       "source": {
         "name": "uslsudest.toscana.it",
         "url": "https://www.uslsudest.toscana.it"
+      }
+    },
+    {
+      "id": "0f3f72c63687",
+      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
       }
     }
   ]
