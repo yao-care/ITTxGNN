@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T16:46:27.340847+00:00",
+  "fetched_at": "2026-07-25T17:50:09.953043+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -31,16 +31,6 @@
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "fdb3e95dbf15",
-      "title": "Farmaci anti-obesità, il rischio è la perdita di massa muscolare - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDVBWVBVWV9aZW9rc1lFYkVqX0xELXU2enlRblE5UXVDRUFYbE80RlFYM3J5SGt4TGRZYVpnR2JuLWZKWEM1VEJOdV90dWhpSUU0SHhvSlhXYVA2RTFjWkdNbkVjOE1pYUdKaHJaZDVESTNmaDZDcTBvUmhvNXkzMU90emZvMFU2b1R0SW8tOVUxTHF0Vi1NNHJMNnNsQlFTMUkzdUFtRmZyM0I3YlRXcFNxbm4?oc=5",
-      "published": "2026-07-25T06:32:00+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -104,6 +94,16 @@
       }
     },
     {
+      "id": "ce644628bbd0",
+      "title": "Egualia su Trump e farmaci generici: \"Sicurezza approvvigionamenti viene prima di barriere commerciali\" - La Gazzetta del Mezzogiorno",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOalB0WFRSQi1XTFJ1ZG1FV0t2MmJ3NUtTT3pYU0swbEVZUzBVb0t0X2tQWGpiblY5NzA2azVSY0dUUkNfV0FjVXMtNmVZOEphQXluWWVBZTR6SFo4a2RWR0c3LTJjM3VOYmo3aFhtb25CMDlKRlhXY0drUkFveHI1MjFVTjNHNXBTd2VlTkdzTjItenBldUZwRExwNUl5Qi1jLVZLYWlyYS1jalc5bkRfY0NhR0h2c01WVm4wczN5M3hvNy1JdzlNdGkzS2VFQmxWMG95TFJNWms5ZUpvZVJJZEc0QTVZNERkREU4MzgzemZlQU9CM0VPNnJoWmXSAfsBQVVfeXFMTWZKR1d1LVNkdmtmX2thU2h6TTU5eWJTcUJJWTJ1VTQzVGxIWXkwTTB3bmhMRUFYZy11OXlTc0JuamJ5WGs2VkRCQ2VzTXlFaDBGa1MzX1g2a2Vnd2RHWWloSjVqMXhub21LZjBUX054SVBlSUZOTjZCSmRnd2lHTy1mMjJ3d1ZMUkt3VmwtczBtX25WcXU0aWI4a1VCd1k2REF2cG1zaWtMNHEyZnFOZDZxdlNuY0l2ZGdZMHlMZVk2Z2JtNFlkWF9iZTRaSmtyaVJLODdtU2cxZ1ZuYWdlb1BRSHl0ZURxdU5MN2hiZlFHQk13OTV3MXRkeVU?oc=5",
+      "published": "2026-07-22T14:51:00+00:00",
+      "source": {
+        "name": "La Gazzetta del Mezzogiorno",
+        "url": "https://www.lagazzettadelmezzogiorno.it"
+      }
+    },
+    {
       "id": "c576dacae4e8",
       "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
@@ -131,6 +131,16 @@
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it"
+      }
+    },
+    {
+      "id": "fdb3e95dbf15",
+      "title": "Farmaci anti-obesità, il rischio è la perdita di massa muscolare - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDVBWVBVWV9aZW9rc1lFYkVqX0xELXU2enlRblE5UXVDRUFYbE80RlFYM3J5SGt4TGRZYVpnR2JuLWZKWEM1VEJOdV90dWhpSUU0SHhvSlhXYVA2RTFjWkdNbkVjOE1pYUdKaHJaZDVESTNmaDZDcTBvUmhvNXkzMU90emZvMFU2b1R0SW8tOVUxTHF0Vi1NNHJMNnNsQlFTMUkzdUFtRmZyM0I3YlRXcFNxbm4?oc=5",
+      "published": "2026-07-25T06:32:00+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -174,16 +184,6 @@
       }
     },
     {
-      "id": "d7daca5af10d",
-      "title": "L'industria della salute. Farmaci, privatizzazioni e affari. Ecco perché un'altra medicina è necessaria - BeBeez",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkQ5ZFpzYU5iNGNSQzVZVUJjdXhfSVNDZER5Y2JpV0x2OE9mbktlR0daZXprVVpXeURvdGpFMzkta0thMFJDNTBGVnZzcVBvOHJNOHBQa2VEWGRoYXYxRkt0bkdES19vRlg1TDJqSXZpOEhUWFRUNi16ZjhLbldUMHBnaEp0eGpveXREaGs2c1BoNXlNTl9aWmhUZE9sVFhTWmJaXzktMU52aVpxakJ3XzFYRG5INzA5WVY1MDllZzY1YzRQZ1E?oc=5",
-      "published": "2026-07-19T05:21:24+00:00",
-      "source": {
-        "name": "BeBeez",
-        "url": "https://bebeez.it"
-      }
-    },
-    {
       "id": "0307a27254c5",
       "title": "Che cos’è ChatGPT Health e come utilizza i dati sanitari degli utenti - Fastweb",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNS0zR1dtd0VKTmNMNjQ0V2FUWEw0aHE2MVhialdhZnNrZlBTV0hxMFN0bjdoOWZrQ2lELU9xbG1JTHYydWJyZ3c1VWtFWEJwZUJwTW9lWnk1MFNtVE11M3Q0d2hNVFlPc3JkRTBXenVKcGp2RjNxMUtqS2hIeHJuZkQyY0wwcWxfZEkxNVptbUJwVlBucWdyMDBVNnFmUEJKRi1zUFk3M3A2T2lhN0I0OTJsakY4WUlfY29zelJyTlBMdVUwSmduX0xR?oc=5",
@@ -201,6 +201,16 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
+      }
+    },
+    {
+      "id": "d7daca5af10d",
+      "title": "L'industria della salute. Farmaci, privatizzazioni e affari. Ecco perché un'altra medicina è necessaria - BeBeez",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkQ5ZFpzYU5iNGNSQzVZVUJjdXhfSVNDZER5Y2JpV0x2OE9mbktlR0daZXprVVpXeURvdGpFMzkta0thMFJDNTBGVnZzcVBvOHJNOHBQa2VEWGRoYXYxRkt0bkdES19vRlg1TDJqSXZpOEhUWFRUNi16ZjhLbldUMHBnaEp0eGpveXREaGs2c1BoNXlNTl9aWmhUZE9sVFhTWmJaXzktMU52aVpxakJ3XzFYRG5INzA5WVY1MDllZzY1YzRQZ1E?oc=5",
+      "published": "2026-07-19T05:21:24+00:00",
+      "source": {
+        "name": "BeBeez",
+        "url": "https://bebeez.it"
       }
     },
     {
@@ -264,16 +274,6 @@
       }
     },
     {
-      "id": "1b4ab0339a37",
-      "title": "Un farmaco per la disfunzione erettile potrebbe ostacolare le metastasi del cancro - Qui Salute Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRnZCMWVmS0puUHMybllBTXRnVkZiSnRvUy1KcmRVZmNjYzBaT29Jai1UNjhTUHpYZ2R6ZGp4VHdManBuRGZMek01SXBJd0N4NDhBLTBTWlRvZ2sxVURRMi1USU1CdndFYzhNTWUwV0lHT1Ytdnctd3BVTQ?oc=5",
-      "published": "2026-07-25T10:25:00+00:00",
-      "source": {
-        "name": "Qui Salute Magazine",
-        "url": "https://quisalute.online"
-      }
-    },
-    {
       "id": "c473df2103c7",
       "title": "Conservazione medicinali in farmacia: obblighi, controlli e responsabilità del farmacista - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVDlkVUhrX0N1OGhXVUVYMXV2aE4zZ3dLSE83S3RvbTY2SFFsMndsYnJQRzRWc29XOGhBVnlGNWZ1VC1TbGRZaGlWRHNVRFIyY0gzM2tMb1pVNU9Tb3pwWjhxazZDZ2M2YmxHcVZHSlRpSHJSMnI5WTdzM3Bvb0w4Y1BQbHpZbnc4RTV3RTl4UlZzNV91QkF3aDUxeXFqQlJUTmt4b1RzZS1nQ3M5LU5YT3JJZGZOQ3hld2F5OGNHY25JYTUxTzBYbWRDa2ZySnE5aHgxNWhuZkxYWlBXbHZUVDczTU1PTlFMZEE?oc=5",
@@ -281,6 +281,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "1b4ab0339a37",
+      "title": "Un farmaco per la disfunzione erettile potrebbe ostacolare le metastasi del cancro - Qui Salute Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRnZCMWVmS0puUHMybllBTXRnVkZiSnRvUy1KcmRVZmNjYzBaT29Jai1UNjhTUHpYZ2R6ZGp4VHdManBuRGZMek01SXBJd0N4NDhBLTBTWlRvZ2sxVURRMi1USU1CdndFYzhNTWUwV0lHT1Ytdnctd3BVTQ?oc=5",
+      "published": "2026-07-25T10:25:00+00:00",
+      "source": {
+        "name": "Qui Salute Magazine",
+        "url": "https://quisalute.online"
       }
     },
     {
@@ -334,16 +344,6 @@
       }
     },
     {
-      "id": "ddf8dc8fb939",
-      "title": "Il calvario di Abderrahim Fakir in cerca di una terapia tra visite e farmaci - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1QwNFVWQk9xeEsyejNseTM5TGtLWk1TTDJEWmU4RFFTUWpJSkVLajRMYkFMVElQNFVjRklEUWZUeEVwSmNqblVUMG42TFRyUTBmM1AxdUZZa3EwYmJ0bUlDcXlOWWtjUkNvbkV6UkYwdEVVN18xR0ZlSHBYV0dEa2pzVExGT1Rnd2F1VlZLZ2tiRHhwaHFldVlWTXg?oc=5",
-      "published": "2026-07-25T04:05:12+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://bologna.repubblica.it"
-      }
-    },
-    {
       "id": "6a248baafc12",
       "title": "Salute: Palumbo (Sno), ‘farmaci disease-modifying modificano decorso Alzheimer’ - Startupbusiness.it",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmVmeWx0bW81cVE3VFJXdWIyWnh3Nk8wWUotZHJpT3pEMHRrZzl1N1p3QWx5UGl6elpUWExjNThpR2dTZFhPdWY2eHNPWXNMN2dHVTgtNDhTNllPUzYwWFdFSFJDVHVGNW1hc0FPZDhtNnhaazRiT2pIUUpvRktjcm05Rmo1a2dXQUdJbUlBdGJNeW9NV2p4MUplNFJPSlV1Nm5zU3o0aF9zLXJwN0pROXlR?oc=5",
@@ -361,6 +361,26 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
+      }
+    },
+    {
+      "id": "ddf8dc8fb939",
+      "title": "Il calvario di Abderrahim Fakir in cerca di una terapia tra visite e farmaci - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1QwNFVWQk9xeEsyejNseTM5TGtLWk1TTDJEWmU4RFFTUWpJSkVLajRMYkFMVElQNFVjRklEUWZUeEVwSmNqblVUMG42TFRyUTBmM1AxdUZZa3EwYmJ0bUlDcXlOWWtjUkNvbkV6UkYwdEVVN18xR0ZlSHBYV0dEa2pzVExGT1Rnd2F1VlZLZ2tiRHhwaHFldVlWTXg?oc=5",
+      "published": "2026-07-25T04:05:12+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://bologna.repubblica.it"
+      }
+    },
+    {
+      "id": "865e98f45118",
+      "title": "Misure di restrizione applicate durante la pandemia SARS-CoV-2 e impatto sulla salute mentale dei giovani in termini di accesso ai servizi e utilizzo dei farmaci antipsicotici e antidepressivi - Agenzia Regionale di Sanità della Toscana",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQcXZkajYza2loanRFOGc4Y1VBdFg5QW1ZQ2x5MERiS1lCZFc5a0U2U0dCN05OMEx5RUNXMXhvR2dxbWJQNHc4UU83MlRFVjRnSFZlbTRrQ0poeElHbkY0N2V2SzRwLUg5c2FSLUJjOXNVaWtWV0c4S2NLMjFYdFJ2M1RqTUI1NGhKYVQ3aVdMeUQxZXpnOFBwMFg3cVR6ZktxUHd1cnlHamdpQjI0LUJWcS01M2hGMk4zVXJEd1BvenBnYUZWVllDZ20zQ015aUc4a01NZ2hrZTBfV3J2akJpWjQtTjdwdjRJU3hXSHBoTmNlWWNVUnoyVk90M1hPWFItTG5hVlMtYURMejhXeHZTMkRlOFIwT091NWVNMWdQTm9PMXlpMnZjMENmSEZtYzR4Q3Y5TkNGV3k3UHFKaDF0c2F1a19mUmhHWW5SNndXNkpmMzJZbTRUazlZdkJVRVZmMVl3UlpqVHVkeVl6NFFCNkRJZFd3eEpTQjVHVDV0YmI?oc=5",
+      "published": "2026-07-18T00:08:16+00:00",
+      "source": {
+        "name": "Agenzia Regionale di Sanità della Toscana",
+        "url": "https://www.ars.toscana.it"
       }
     },
     {
@@ -404,16 +424,6 @@
       }
     },
     {
-      "id": "28691b2d57a8",
-      "title": "Tumore al polmone. Il nuovo farmaco blocca le metastasi - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQTFUX1Y4RUtDaGJiU0ttUHZzbFZyM3hYYVhtT1dBQkJHaGpLLTNWQlFLSUplaTM0RlExSExub3BmT3lJbnByVE02dE9oNGZsZ3padFc4R2VWYXdPRTBRYkpiek8tU1lNUXZZSXZMSi1CdzAxdnZvODdxc3dNcEk?oc=5",
-      "published": "2026-07-25T04:42:12+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "613bf452a6c7",
       "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
@@ -421,6 +431,16 @@
       "source": {
         "name": "fnovi",
         "url": "https://fnovi.it"
+      }
+    },
+    {
+      "id": "28691b2d57a8",
+      "title": "Tumore al polmone. Il nuovo farmaco blocca le metastasi - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQTFUX1Y4RUtDaGJiU0ttUHZzbFZyM3hYYVhtT1dBQkJHaGpLLTNWQlFLSUplaTM0RlExSExub3BmT3lJbnByVE02dE9oNGZsZ3padFc4R2VWYXdPRTBRYkpiek8tU1lNUXZZSXZMSi1CdzAxdnZvODdxc3dNcEk?oc=5",
+      "published": "2026-07-25T04:42:12+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -444,16 +464,6 @@
       }
     },
     {
-      "id": "78f43e081243",
-      "title": "Se Oprah, Serena Williams e Musk consigliano il farmaco dimagrante: chi controlla cosa dicono? - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHRvSm40Nmk2VXFYQ2FkZnpyZGN5MDFiMVNZSG5hLTlhMFVoc3lWT0hOTGRkSEl1dkFRZmliblJMZ1h1MFpjSWNvRkxxWjhDbTJhUXVEbHZiWTNWVmM4UmVOc2JWT0Iyelp0cVAwSlhnWmszVzVwaTVfS2hoMHI1VkhnTnJ0Tk5hci15MUlJRGEzcWxSUTlpWF9EN0FHcFVIMEhPVTFucXg0b1V5ZnZEYVFKZzVDaHdJaTNFeE12VHg0QnZ0RTNv?oc=5",
-      "published": "2026-07-23T08:32:50+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "858a540d6cdd",
       "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1V6VElJZ2FIdlM5RERXeUVSanNUZXgwVXg2VmJhZkhHWUl1czlMdGdsQXcxR2Zsc0IxUXdVbXZVMlpXeXNSeGJ4Ym4zRHNuNU4yYUpwUGhlbi1FN0VvSHlfdkUzMy1MMVIzaUxJa1VZbDdLSVVDZVhhRmFPRU9DNzFzYmM2ZGw0VmJr?oc=5",
@@ -461,6 +471,16 @@
       "source": {
         "name": "Il Farmacista Online",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "78f43e081243",
+      "title": "Se Oprah, Serena Williams e Musk consigliano il farmaco dimagrante: chi controlla cosa dicono? - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHRvSm40Nmk2VXFYQ2FkZnpyZGN5MDFiMVNZSG5hLTlhMFVoc3lWT0hOTGRkSEl1dkFRZmliblJMZ1h1MFpjSWNvRkxxWjhDbTJhUXVEbHZiWTNWVmM4UmVOc2JWT0Iyelp0cVAwSlhnWmszVzVwaTVfS2hoMHI1VkhnTnJ0Tk5hci15MUlJRGEzcWxSUTlpWF9EN0FHcFVIMEhPVTFucXg0b1V5ZnZEYVFKZzVDaHdJaTNFeE12VHg0QnZ0RTNv?oc=5",
+      "published": "2026-07-23T08:32:50+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -524,16 +544,6 @@
       }
     },
     {
-      "id": "8b2a47707c42",
-      "title": "Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5",
-      "published": "2026-07-24T19:05:07+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
       "id": "b2009c38d1e2",
       "title": "“I farmaci dimagranti con semaglutide e GLP-1 possono combattere l’alcolismo, ricoveri ridotti fino al 65%. Ecco come riducono il desiderio di bere”: il nuovo studio - Il Fatto Quotidiano",
       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWw1TjVkdVg3U1o3UlNSSnJEVUpIQ3BWMlZoTk1nbVYwakNRd3pWcDhLcG9oQmd4bWoxQjdZclF6dWtYQzgwRUhOUW9rU0s4WFRVTXlBbzVWR0wxd1VSZVgwRE1rWFVRTkhMUnE4eXZtc204VVRzcEJ1ZUNMRWY4dHY4WmsxblJ3WjdtS3JyQlVGNVlkRWFwRy1BbWNteXI5RGxTOWtyQXZ5VTZkTGF3eXlkVmZaYVFZMzk1amtHUlpxbjBPaEdEZm9CcXJvMWdfTFp5UXlNTklLUi1yOGs0RkVKOHU0ZXJJNUlseW5zOXcwRUhjSXgzUXBjcVlUV2JaUkR6UUh1S2dCemJ5ZkIwRnh6UDhQOFZLaVpVdkw4N0YyQUVmUm9SZXJZbmRyUWdLejVoWVpR?oc=5",
@@ -561,6 +571,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "8b2a47707c42",
+      "title": "Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5",
+      "published": "2026-07-24T19:05:07+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -611,16 +631,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "dcf4362ab274",
-      "title": "Farmaci equivalenti: non decolla l’informazione e la fiducia soprattutto fra i più giovani - Cittadinanzattiva",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOME1OS1ZKWmRNREFyYXNSRUtsQmNIQm9xS1BteS1TQzFVRWFwa2VoRmNscFRjQ2FiWFRRbXFSS3R1Tk5GTGFIV0N4SHV1Y3EtNjlzcmpqVlIzdHF2eF91eTBOMFlRZFhQc3BMTW1MZ1pseDFzejdYUjlxU2pLaG44bktORTdxRFIxS2s2enJsS3BBVXBoN0hiVEEyM3RUTF9GbGtibEJRNU5ONF9IQnpCel9GR0R1a2RUejNBdVI4TWlrRzlRTUFlMEFZMWNLN3ZWZkdBMHFlOUNaZzg?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "Cittadinanzattiva",
-        "url": "https://www.cittadinanzattiva.it"
       }
     },
     {
@@ -904,16 +914,6 @@
       }
     },
     {
-      "id": "4974888884a7",
-      "title": "Teva in Italia: 30 anni a supporto della salute del Paese tra accesso alle cure e innovazione - Pharmastar",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUh5ZS04R3AyT3BoX2otQnBrTmxFRjdPNmZnQk90Y3J4RG5fT2hxU0QwSjRkQ2pKZVM3eGVkVzdpVWh4UmNHUkZhMUc1V0o5MTNhMFBBb25sV0VXQlBoYnYtcC1jYXBrRHJyQWJWbkM1TDMtWGhUeHFGVkdndFFmWVV2MldoTWw0Q3BTMVZ3UUFlWWN6U2xIM2JGR21zZTF0OWNiNWRXaFFIQnZKY2RHQ1c4UjJaNERFSnhrbDdKVkhpTjBXRXFHVlJOTzdmUnR5ZnJpa3pB?oc=5",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": {
-        "name": "Pharmastar",
-        "url": "https://www.pharmastar.it"
-      }
-    },
-    {
       "id": "20bf7d9c3901",
       "title": "Farmaci equivalenti, poca informazione e manca la fiducia soprattutto fra i più giovani - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2lLV1Rlc3BWTzlOcXhaT2JzRFlQUXlCa3A0VjJBRHBoQ0E4bkQxaDY1QW1ERDhGRkNZRkNnS1JOSWVQVzFqX2xFVUNYVkVSMDdsMkJUZkRrUzRKcmpLZ00tdjNTeE1aUDU0V0JqSWtDdmhDOFZJN3JpTEhxQzF0a2hhb19paThjbG5mT0FQSTU0N3VFRlJFX0NUYWNnWjRLbkYwanA4OUZURHgtREpOdjE5MzJrNXgydVRlYlM4eFNfSTBzdDhXY1VNT1BDbzNjeTZhMUpubnpNemV2MTgw0gHkAUFVX3lxTE9oNk4xdEU1dlllSjZ2bmVMWVZKT0FTeG9uem1ueE5aLXV1TTFwWXJLbFYxSk1uc01aMDV0WnlmS2FVTklUbHJFMExWb3JGclphdXgwR1g2XzA0VmtGX25NOE1JNDl2N1BBbjViM0hJZW84RjFGUTRxalA0Y1VHbEdNckZ3Qm13WWstWlI5bUloTDc2N0pidUd4OEhhM3ZXMjFsTzlfczQyQlhkMEJadjBlTWY3dzFDcWZJM0JEZDNITE5XS0hONUVYWVYxNEZuNnJZODl5NXJuWmdEZ1d3MWRjaWNHbQ?oc=5",
@@ -931,6 +931,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "b6dcf5c98b7a",
+      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -964,16 +974,6 @@
       }
     },
     {
-      "id": "6eec9b1d3d53",
-      "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
-      "published": "2026-05-18T07:00:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
-      }
-    },
-    {
       "id": "947c8b82ceaf",
       "title": "Farmaco contro il tumore del pancreas metastatico, che cosa c'è da sapere - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcEEyQTZmejZjNHN6a2x1ZzF1X2EtOVVIUjdGLXpsN0lseWZ0eGp2clJPOElTWHhQX3VORF9aanlYcWtNY1djLWgxVzVlNy1aRHh4RHFsajVRU1FjWHh6cnZsdVlTa3l4SmpzYWFxeTlOYjlCeHV4a25ja1FKWi1yUVZ3cUJ0RDR0OHZUa2RjLWxVcWJZcVJWMl9YOFYxX2pHaXFybkxXbVlSdzZrM1QybC1ZMHlobDlvN09ldi04UDlDSXFXcWtZXzBLLXQtNE5Sc2NJSUE4OGNsUTVucFJCVjlHRzlMNWphbnlJ?oc=5",
@@ -984,6 +984,16 @@
       }
     },
     {
+      "id": "6eec9b1d3d53",
+      "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": {
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
+      }
+    },
+    {
       "id": "1eacc38b53e9",
       "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Medico e paziente",
         "url": "https://medicoepaziente.it"
-      }
-    },
-    {
-      "id": "02f34c097a5e",
-      "title": "Salute sempre più a pagamento: Agnoletto spiega perché - Il Fatto Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1lKYnpEUEVUeFB0dnVxNy1qN2lPazR2RTRyMmRSRlRnNHNrXzgwYnY4MVB1LV9Oel9xLUcyY2l6VldwYmxSaGNJTUFnWmQ5QlBicXlYYUdQeVBhMnhhSFBWQmhtYzkxa2c3ZzBqUzNLcm9FSm5ZQWdDcGU4S0lIWk1MVlZZZDBBOUpZdDZlZDNiX0o5ckFpa01rRVhWZTBBblZ5WVZhY0gxUXRpeWk1ZzByVjhVMl9VdUNPYmVqaENxcV9kVHhZM3B4NWZZYjdmSW41dTFMQ1cxbFk?oc=5",
-      "published": "2026-05-26T07:00:00+00:00",
-      "source": {
-        "name": "Il Fatto Quotidiano",
-        "url": "https://www.ilfattoquotidiano.it"
       }
     }
   ]
