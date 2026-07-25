@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-07-25T15:55:48.451725+00:00",
+  "fetched_at": "2026-07-25T16:46:27.340847+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "d95ce50fc65a",
+      "title": "Quali pazienti beneficiano di più dei nuovi farmaci anti-obesità? - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNTZ09lMDJBOXlxbUdhS1Z1OFJ1SGM0MVlmY2ZoQU1TR0MwdHJQTXlWTEZNV0ZvUTcySlMwLUx5MV8tYnY2ZjM4OFFnMHNueG5pOHYxNzQwcHA5OUd4eV9lS05Edk4tbjhwOEFwbjZocnJhOXdTNWFoSVhBcXdFOXdiSC1ZYmlxaTBGMHpqU3pBRm1JUklkWEV1UU0zaU1aclhpVXVyaHI3YjhVNEdqcF9GM2llT1V5YmxwVHFCRTBsX2kyNFAyUzdVTEFCZGRsa09V0gHYAUFVX3lxTE8xYXdXaUVnOWxOXy13SnpnR2JFUzl3T2MxN3hLUTg3dG5tQ0tFWEN3RW5JZ1JOT2x5eVY3MWlVMTNPUXF3ZHFhM2wxTzlJZjFFUFoxMzFDcHZDVjJGTm9YZUF3czNTQl9aQ3dDdlQyenltdXkxWEV3d0hrMkhhUWMwOEVmd2RWZGJWb0pfOUM3ZGlQNDRESE1vU21sdTZZdjAwdkxySTVqbFFOeE5ZbWMwSlhXZDRQeVdQWUJUZ09UVWo1TG5fM2loVlpUSi1kdURQZHE0dW0tRA?oc=5",
+      "published": "2026-07-24T12:43:28+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
+      }
+    },
     {
       "id": "20a902522e68",
       "title": "Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero",
@@ -11,6 +21,16 @@
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
+      "id": "abd34546a3f2",
+      "title": "Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5",
+      "published": "2026-07-23T05:05:00+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -31,16 +51,6 @@
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
-      }
-    },
-    {
-      "id": "d95ce50fc65a",
-      "title": "Quali pazienti beneficiano di più dei nuovi farmaci anti-obesità? - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGNTZ09lMDJBOXlxbUdhS1Z1OFJ1SGM0MVlmY2ZoQU1TR0MwdHJQTXlWTEZNV0ZvUTcySlMwLUx5MV8tYnY2ZjM4OFFnMHNueG5pOHYxNzQwcHA5OUd4eV9lS05Edk4tbjhwOEFwbjZocnJhOXdTNWFoSVhBcXdFOXdiSC1ZYmlxaTBGMHpqU3pBRm1JUklkWEV1UU0zaU1aclhpVXVyaHI3YjhVNEdqcF9GM2llT1V5YmxwVHFCRTBsX2kyNFAyUzdVTEFCZGRsa09V0gHYAUFVX3lxTE8xYXdXaUVnOWxOXy13SnpnR2JFUzl3T2MxN3hLUTg3dG5tQ0tFWEN3RW5JZ1JOT2x5eVY3MWlVMTNPUXF3ZHFhM2wxTzlJZjFFUFoxMzFDcHZDVjJGTm9YZUF3czNTQl9aQ3dDdlQyenltdXkxWEV3d0hrMkhhUWMwOEVmd2RWZGJWb0pfOUM3ZGlQNDRESE1vU21sdTZZdjAwdkxySTVqbFFOeE5ZbWMwSlhXZDRQeVdQWUJUZ09UVWo1TG5fM2loVlpUSi1kdURQZHE0dW0tRA?oc=5",
-      "published": "2026-07-24T12:43:28+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -91,16 +101,6 @@
       "source": {
         "name": "Fortune Italia",
         "url": "https://www.fortuneita.com"
-      }
-    },
-    {
-      "id": "ce644628bbd0",
-      "title": "Egualia su Trump e farmaci generici: \"Sicurezza approvvigionamenti viene prima di barriere commerciali\" - La Gazzetta del Mezzogiorno",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOalB0WFRSQi1XTFJ1ZG1FV0t2MmJ3NUtTT3pYU0swbEVZUzBVb0t0X2tQWGpiblY5NzA2azVSY0dUUkNfV0FjVXMtNmVZOEphQXluWWVBZTR6SFo4a2RWR0c3LTJjM3VOYmo3aFhtb25CMDlKRlhXY0drUkFveHI1MjFVTjNHNXBTd2VlTkdzTjItenBldUZwRExwNUl5Qi1jLVZLYWlyYS1jalc5bkRfY0NhR0h2c01WVm4wczN5M3hvNy1JdzlNdGkzS2VFQmxWMG95TFJNWms5ZUpvZVJJZEc0QTVZNERkREU4MzgzemZlQU9CM0VPNnJoWmXSAfsBQVVfeXFMTWZKR1d1LVNkdmtmX2thU2h6TTU5eWJTcUJJWTJ1VTQzVGxIWXkwTTB3bmhMRUFYZy11OXlTc0JuamJ5WGs2VkRCQ2VzTXlFaDBGa1MzX1g2a2Vnd2RHWWloSjVqMXhub21LZjBUX054SVBlSUZOTjZCSmRnd2lHTy1mMjJ3d1ZMUkt3VmwtczBtX25WcXU0aWI4a1VCd1k2REF2cG1zaWtMNHEyZnFOZDZxdlNuY0l2ZGdZMHlMZVk2Z2JtNFlkWF9iZTRaSmtyaVJLODdtU2cxZ1ZuYWdlb1BRSHl0ZURxdU5MN2hiZlFHQk13OTV3MXRkeVU?oc=5",
-      "published": "2026-07-22T14:51:00+00:00",
-      "source": {
-        "name": "La Gazzetta del Mezzogiorno",
-        "url": "https://www.lagazzettadelmezzogiorno.it"
       }
     },
     {
@@ -214,16 +214,6 @@
       }
     },
     {
-      "id": "60f4402939fc",
-      "title": "Trump annuncia dazi sui farmaci generici, Egualia: “Rischio per gli approvvigionamenti” - sanitainformazione.it",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXJ1X0EwWngwdEtqaXlLZWoyZzVzYVctMGFJcGcwdXJtLUM3a0hOSnBMLXYzN0EyX2NRU3VGcE9nbzFVV0ZZcERlZEM2VUhtV1VNQW9NR3IyZnFqb1kweGdlVHp5ZXliUVpvR2JicXRNZVlFYzB4d2tzR29IU1ozNXQzYng1NS1UVHNIUVdjMjhjMnVRZXZLTTNxRUNZLUtVei1UbEhlWHBiT0RNTXhpZlJEWUEzWWo3MXc?oc=5",
-      "published": "2026-07-22T15:57:00+00:00",
-      "source": {
-        "name": "sanitainformazione.it",
-        "url": "https://www.sanitainformazione.it"
-      }
-    },
-    {
       "id": "d24e1e01cfe4",
       "title": "Fentanyl, allerta del Ministero: farmacie in prima linea per custodia e controllo delle prescrizioni - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmkxWVhIVXM0RmJ6OG14Nlp1QjlZMHRHMXZXc1kzcHdYUDVWNkNtMndVekRUWHcyRWJDTDV3ZWVsNC1jYTJTOGJRdFJXaUNDS0g5RUdCYjVlQ3NYVm5ZdWlhUk5kVWVzYjlIaC1hZDNDU0VrVHNkWDQ2dU1YMjBRT3hheXZVemxUd29xdWtUaldqdGlnWDhYZEttc1ZqYWFhc3A2NjdYdVBqVTlUWGF5SDZOTHNKZU84anQ4eHJBeGRHRGRMbWc?oc=5",
@@ -231,6 +221,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "60f4402939fc",
+      "title": "Trump annuncia dazi sui farmaci generici, Egualia: “Rischio per gli approvvigionamenti” - sanitainformazione.it",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXJ1X0EwWngwdEtqaXlLZWoyZzVzYVctMGFJcGcwdXJtLUM3a0hOSnBMLXYzN0EyX2NRU3VGcE9nbzFVV0ZZcERlZEM2VUhtV1VNQW9NR3IyZnFqb1kweGdlVHp5ZXliUVpvR2JicXRNZVlFYzB4d2tzR29IU1ozNXQzYng1NS1UVHNIUVdjMjhjMnVRZXZLTTNxRUNZLUtVei1UbEhlWHBiT0RNTXhpZlJEWUEzWWo3MXc?oc=5",
+      "published": "2026-07-22T15:57:00+00:00",
+      "source": {
+        "name": "sanitainformazione.it",
+        "url": "https://www.sanitainformazione.it"
       }
     },
     {
@@ -261,6 +261,16 @@
       "source": {
         "name": "Doctor33",
         "url": "https://www.doctor33.it"
+      }
+    },
+    {
+      "id": "1b4ab0339a37",
+      "title": "Un farmaco per la disfunzione erettile potrebbe ostacolare le metastasi del cancro - Qui Salute Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRnZCMWVmS0puUHMybllBTXRnVkZiSnRvUy1KcmRVZmNjYzBaT29Jai1UNjhTUHpYZ2R6ZGp4VHdManBuRGZMek01SXBJd0N4NDhBLTBTWlRvZ2sxVURRMi1USU1CdndFYzhNTWUwV0lHT1Ytdnctd3BVTQ?oc=5",
+      "published": "2026-07-25T10:25:00+00:00",
+      "source": {
+        "name": "Qui Salute Magazine",
+        "url": "https://quisalute.online"
       }
     },
     {
@@ -314,16 +324,6 @@
       }
     },
     {
-      "id": "ddf8dc8fb939",
-      "title": "Il calvario di Abderrahim Fakir in cerca di una terapia tra visite e farmaci - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1QwNFVWQk9xeEsyejNseTM5TGtLWk1TTDJEWmU4RFFTUWpJSkVLajRMYkFMVElQNFVjRklEUWZUeEVwSmNqblVUMG42TFRyUTBmM1AxdUZZa3EwYmJ0bUlDcXlOWWtjUkNvbkV6UkYwdEVVN18xR0ZlSHBYV0dEa2pzVExGT1Rnd2F1VlZLZ2tiRHhwaHFldVlWTXg?oc=5",
-      "published": "2026-07-25T04:05:12+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://bologna.repubblica.it"
-      }
-    },
-    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -331,6 +331,16 @@
       "source": {
         "name": "Avvenire",
         "url": "https://www.avvenire.it"
+      }
+    },
+    {
+      "id": "ddf8dc8fb939",
+      "title": "Il calvario di Abderrahim Fakir in cerca di una terapia tra visite e farmaci - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1QwNFVWQk9xeEsyejNseTM5TGtLWk1TTDJEWmU4RFFTUWpJSkVLajRMYkFMVElQNFVjRklEUWZUeEVwSmNqblVUMG42TFRyUTBmM1AxdUZZa3EwYmJ0bUlDcXlOWWtjUkNvbkV6UkYwdEVVN18xR0ZlSHBYV0dEa2pzVExGT1Rnd2F1VlZLZ2tiRHhwaHFldVlWTXg?oc=5",
+      "published": "2026-07-25T04:05:12+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://bologna.repubblica.it"
       }
     },
     {
@@ -351,16 +361,6 @@
       "source": {
         "name": "lapresse.it",
         "url": "https://www.lapresse.it"
-      }
-    },
-    {
-      "id": "abd34546a3f2",
-      "title": "Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5",
-      "published": "2026-07-23T05:05:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
       }
     },
     {
@@ -404,6 +404,16 @@
       }
     },
     {
+      "id": "28691b2d57a8",
+      "title": "Tumore al polmone. Il nuovo farmaco blocca le metastasi - Quotidiano Nazionale",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQTFUX1Y4RUtDaGJiU0ttUHZzbFZyM3hYYVhtT1dBQkJHaGpLLTNWQlFLSUplaTM0RlExSExub3BmT3lJbnByVE02dE9oNGZsZ3padFc4R2VWYXdPRTBRYkpiek8tU1lNUXZZSXZMSi1CdzAxdnZvODdxc3dNcEk?oc=5",
+      "published": "2026-07-25T04:42:12+00:00",
+      "source": {
+        "name": "Quotidiano Nazionale",
+        "url": "https://www.quotidiano.net"
+      }
+    },
+    {
       "id": "613bf452a6c7",
       "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
@@ -434,16 +444,6 @@
       }
     },
     {
-      "id": "28691b2d57a8",
-      "title": "Tumore al polmone. Il nuovo farmaco blocca le metastasi - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQTFUX1Y4RUtDaGJiU0ttUHZzbFZyM3hYYVhtT1dBQkJHaGpLLTNWQlFLSUplaTM0RlExSExub3BmT3lJbnByVE02dE9oNGZsZ3padFc4R2VWYXdPRTBRYkpiek8tU1lNUXZZSXZMSi1CdzAxdnZvODdxc3dNcEk?oc=5",
-      "published": "2026-07-25T04:42:12+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
-      }
-    },
-    {
       "id": "78f43e081243",
       "title": "Se Oprah, Serena Williams e Musk consigliano il farmaco dimagrante: chi controlla cosa dicono? - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHRvSm40Nmk2VXFYQ2FkZnpyZGN5MDFiMVNZSG5hLTlhMFVoc3lWT0hOTGRkSEl1dkFRZmliblJMZ1h1MFpjSWNvRkxxWjhDbTJhUXVEbHZiWTNWVmM4UmVOc2JWT0Iyelp0cVAwSlhnWmszVzVwaTVfS2hoMHI1VkhnTnJ0Tk5hci15MUlJRGEzcWxSUTlpWF9EN0FHcFVIMEhPVTFucXg0b1V5ZnZEYVFKZzVDaHdJaTNFeE12VHg0QnZ0RTNv?oc=5",
@@ -471,16 +471,6 @@
       "source": {
         "name": "Dossier Salute",
         "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
-      "id": "8b2a47707c42",
-      "title": "Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5",
-      "published": "2026-07-24T19:05:07+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -531,6 +521,16 @@
       "source": {
         "name": "Daily Health Industry",
         "url": "https://www.dailyhealthindustry.it"
+      }
+    },
+    {
+      "id": "8b2a47707c42",
+      "title": "Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5",
+      "published": "2026-07-24T19:05:07+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -594,20 +594,20 @@
       }
     },
     {
-      "id": "162deb9f587f",
-      "title": "Il ritorno dei medicinali contraffatti: come riconoscerli - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5",
-      "published": "2026-07-18T22:10:50+00:00",
+      "id": "a12d88a0d20c",
+      "title": "Caldo e farmaci: le 5 mosse salva-terapia da seguire subito - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHpDZTNyeFIxcE81ZWV2TnhmWEl4THZPUzNnYUd0aHZWdUE1RUxRejRMVnZiZkNpTzZ3aUNYVnd2MW9tNjFfck9CVGNibmw0OUltREpZS0ItYlpyRmRxWklOZVJfNUxjMllJU2FFM2NlblFaLVhrWDFCS2o0cFREQzdaZ0pBX2oyX0ZMVEQzVzJvUmhheUxmeHRBN3Z4UnpLM0NOdXlOYUc0elFfakE?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "a12d88a0d20c",
-      "title": "Caldo e farmaci: le 5 mosse salva-terapia da seguire subito - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHpDZTNyeFIxcE81ZWV2TnhmWEl4THZPUzNnYUd0aHZWdUE1RUxRejRMVnZiZkNpTzZ3aUNYVnd2MW9tNjFfck9CVGNibmw0OUltREpZS0ItYlpyRmRxWklOZVJfNUxjMllJU2FFM2NlblFaLVhrWDFCS2o0cFREQzdaZ0pBX2oyX0ZMVEQzVzJvUmhheUxmeHRBN3Z4UnpLM0NOdXlOYUc0elFfakE?oc=5",
-      "published": "2026-06-30T07:00:00+00:00",
+      "id": "162deb9f587f",
+      "title": "Il ritorno dei medicinali contraffatti: come riconoscerli - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5",
+      "published": "2026-07-18T22:10:50+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
