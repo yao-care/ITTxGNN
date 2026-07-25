@@ -113,7 +113,7 @@ le malattie rare."
 
 | Voce | Valore |
 |------|-------|
-| Schede farmaco | 539 |
+| Schede farmaco | {{ site.drugs.size }} |
 | Autorità regolatoria | AIFA |
 | Siti attivi | 30 paesi / regioni |
 
