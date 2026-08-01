@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T16:47:14.446771+00:00",
+  "fetched_at": "2026-08-01T17:51:35.637481+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,22 +24,22 @@
       }
     },
     {
-      "id": "75047154d694",
-      "title": "Farmacia da viaggio: 8 italiani su 10 preparano il kit di emergenza - Style Magazine",
+      "id": "1bccbb74e869",
+      "title": "Farmacia da viaggio: 8 italiani su 10 preparano il kit di emergenza - style.corriere.it",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOE9mVzZkZkhHZU5kaURXTmkyY0VPbW1MTmV2SWxtTW0tVTBpR21zYVFReVNBWV9DTlBRNW1yM1RqOGtXUmtBbDlvQ0JrTnFrWEtrcWxHZ2kxcFZBcVVxQW54c1FoZ2NnX1BMTUd1MV9xeFR2YWFwX0JDcHRURUVQcjJpdnBfZUVxdlN5aFltbU8zVnpnZmJWZ3Z5SzY?oc=5",
       "published": "2026-07-31T11:06:56+00:00",
       "source": {
-        "name": "Style Magazine",
+        "name": "style.corriere.it",
         "url": "https://style.corriere.it"
       }
     },
     {
-      "id": "9f5682c0539e",
-      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - FoggiaToday - cronaca e notizie da Foggia",
+      "id": "c4ddf845f9cb",
+      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - foggiatoday.it",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlVuYW5YTGpGZjFpQ0tVeVVVendpWWRraDlvQUhLTzVfbXpqVzVLYlBFVG1RZW5hVXhKZzczZDB5TWFwd1BHVDJvRlZaSk82NjYtOW96UUdnako2d1g5QTFtV0piT29IbThHMGwxWF92bEh5YXlCb0NMZC11NWxsdkJLbl8tQQ?oc=5",
       "published": "2026-07-30T05:48:00+00:00",
       "source": {
-        "name": "FoggiaToday - cronaca e notizie da Foggia",
+        "name": "foggiatoday.it",
         "url": "https://www.foggiatoday.it"
       }
     },
@@ -144,6 +144,16 @@
       }
     },
     {
+      "id": "841b5d80eff6",
+      "title": "L'innamoramento. Il farmaco che il cervello produce da solo - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnl3a1BZSHFtSHEtRnNCdDUtMGxyc2s1TTNGeGNOZlBNbEVLODhGY2NiQ0R3aGxUaXFmT25fSDAtRTRnSkw5NDRoVm5NR3BpdXVyX093M2xYcWhoV1dFd1Bld0ZhRlQtaFZRQkZFc3pKcTFDenRtM1RhR2xJdWYwNHBLZzFoOWl6RVdmSDJPblNzWWxJS1NaSS1IbXdFQ1RVczlrTVVRTjA3VUpvX1E?oc=5",
+      "published": "2026-08-01T14:35:38+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
       "id": "0bb02cc211cd",
       "title": "Master di I livello Risorse forestali per la salute. Biomateriali in legno, piante officinali arboree e funghi medicinali - Blog Università eCampus",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZFZ2NkpWZ1lGT1JVUTRPbmIySUlYeXJYMjVOdWtqMFpFSkp6T2NJblJCVi16UVdaSXFqQ0pkUGRUbHJEcjViZ0ZoUUFEd0Rua0szT2FIa3hJQmxlRkJYaEZ0c0V1SVdGMFNwcUhnVU9zemlMR0NiVVZrbnNHOHZ4eHBteDZfZ0tjeUR0eFQ2OXRub0o5UzJIbmhqYWR2VmVtXy1GaXgyQ1puQTkxTXB3OTFZeF9sZEhYYi1aNzhfTmVqWmNkcVVueHZKR3pUd0g3LVdVZkgtbVhvMFBSQmllSHFkNFNBbzZFQ3MzRS1Tdw?oc=5",
@@ -161,16 +171,6 @@
       "source": {
         "name": "Tv2000",
         "url": "https://www.tv2000.it"
-      }
-    },
-    {
-      "id": "889dec0e0d5d",
-      "title": "L'innamoramento. Il farmaco che il cervello produce da solo - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXZaaXhmenVtWmN2bFpzNFNZa2UwY0RWcFZPRjhmN0U4VWNUQ1lVRDlMWm5KRWRQbFRsd1FWeU94OFpVZ1ZOdlpiVnFFdkwyMncxRW5Ra3JMTll1cVA3U0lmVV9nQzAzT3d4YUhPcTVoOUw4QnM0TFN4NVdaU2x0d3gyUHNDRzhOTW9HVF9CaDNDSktlTkJWOXhJYVJTVzBsSEUzdDRmd0RJcUJWZjdNMlBUeDhJRkVyV1E?oc=5",
-      "published": "2026-08-01T14:35:36+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -224,12 +224,12 @@
       }
     },
     {
-      "id": "d12243bcb2e9",
-      "title": "Farmaci a uso umano: distribuzione diretta e per conto - salute.gov.it",
+      "id": "f9e6846b0566",
+      "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
       "published": "2026-04-25T14:55:37+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -244,12 +244,12 @@
       }
     },
     {
-      "id": "e413d92a7ac2",
-      "title": "Alzheimer, nuove terapie anti-beta amiloide: il dibattito su accesso, diagnosi precoce e rimborsabilità - ok-salute.it",
+      "id": "320e4bc4155f",
+      "title": "Alzheimer, nuove terapie anti-beta amiloide: il dibattito su accesso, diagnosi precoce e rimborsabilità - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaExnQkRCWEpGcnoxNXhfY0NwWTFzZHJLOWdfMUNBdThyMm9SN28tbU1Zc25Nbk5Ma1gzQ3pReGtJd0dIaFUwdWF1VVpVS2lWTUo0SVBaaFBQR0thWWh4TE55VWxsTmlja2owM094YVgzbWs4Vnh3RE9lbFVFanlRN1BjcWtUd2d6bExBakx6Y0pUNDd0aUxEN0dXa3duWkNjYmJoNlBPSU5DSDBEdm9oenV6YmpBTkxmeWgzampzWHJHS1hvNXd0ZGxOTQ?oc=5",
       "published": "2026-07-29T08:02:30+00:00",
       "source": {
-        "name": "ok-salute.it",
+        "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
       }
     },
@@ -324,12 +324,12 @@
       }
     },
     {
-      "id": "8e86d958b526",
-      "title": "Operazione internazionale Pangea XVIII per il contrasto al traffico illecito di farmaci e prodotti correlati alla salute - salute.gov.it",
+      "id": "4c2d3d93f48d",
+      "title": "Operazione internazionale Pangea XVIII per il contrasto al traffico illecito di farmaci e prodotti correlati alla salute - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC1oMk40WjNhX2IzcmJKbDNHUXFyZ19XRHFteGZ4QjR2aEE2UnhLQURRSWhBWTh4QzJHSU55RE5Pa1czVmRUXzVNVGJKQU5ueVVsVnJNbWw0cUVSWVdXTjFIeEtCMXpZYWxITG5MMlhIUGl2V2E0VGFLWFNHV1p3MGxid0o1cGo5dGxqQ3FoUmxZdE1UXzZuVi0xNnZSdHF1VC1Ta01MTVVtbEVvLWlaUWxIdzBYWmdzeElkWW05RnloMlVvcTI0eUln?oc=5",
       "published": "2026-05-26T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -374,16 +374,6 @@
       }
     },
     {
-      "id": "a8483e920222",
-      "title": "Revisione Prontuario, Schillaci: meno farmaci datati, più innovazione - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHUzdGM1cjJoT0VpNnVlOUJxRjA0MHJ3a21SZm1kNWZ0RlhkR2R6dGVhQmlvVmhTNEJmUXVyOGRPbm1ac1lMb3hvblNtRGlXa25HYUVFWkhsWHJLZzZZOUJNcjZrZjlhcWNkRldNMFNoTGZJd05rNFNjbktOSlYxazRfV3U3a2g0ZmhsbDI0eFJCNFo1Z3FydUpQVG9nekFlbEd3dDZIYTQ2VXVqQ0xDTDJxZXFpYXlJTmZYZ3p3NVk3dw?oc=5",
-      "published": "2026-07-29T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "d7daca5af10d",
       "title": "L'industria della salute. Farmaci, privatizzazioni e affari. Ecco perché un'altra medicina è necessaria - BeBeez",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkQ5ZFpzYU5iNGNSQzVZVUJjdXhfSVNDZER5Y2JpV0x2OE9mbktlR0daZXprVVpXeURvdGpFMzkta0thMFJDNTBGVnZzcVBvOHJNOHBQa2VEWGRoYXYxRkt0bkdES19vRlg1TDJqSXZpOEhUWFRUNi16ZjhLbldUMHBnaEp0eGpveXREaGs2c1BoNXlNTl9aWmhUZE9sVFhTWmJaXzktMU52aVpxakJ3XzFYRG5INzA5WVY1MDllZzY1YzRQZ1E?oc=5",
@@ -394,12 +384,22 @@
       }
     },
     {
-      "id": "e80897dc1d10",
-      "title": "Semaglutide e invecchiamento biologico: cosa dice lo studio - Focus.it",
+      "id": "a8483e920222",
+      "title": "Revisione Prontuario, Schillaci: meno farmaci datati, più innovazione - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHUzdGM1cjJoT0VpNnVlOUJxRjA0MHJ3a21SZm1kNWZ0RlhkR2R6dGVhQmlvVmhTNEJmUXVyOGRPbm1ac1lMb3hvblNtRGlXa25HYUVFWkhsWHJLZzZZOUJNcjZrZjlhcWNkRldNMFNoTGZJd05rNFNjbktOSlYxazRfV3U3a2g0ZmhsbDI0eFJCNFo1Z3FydUpQVG9nekFlbEd3dDZIYTQ2VXVqQ0xDTDJxZXFpYXlJTmZYZ3p3NVk3dw?oc=5",
+      "published": "2026-07-29T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "c0c93075869a",
+      "title": "Semaglutide e invecchiamento biologico: cosa dice lo studio - focus.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVFDaDMwMndjbVdsSGRmNGNLVHRHNXFZeXhuN2huMzdyQXhmcy16c29hb1I1V1RmeEtCci1sRU10T3c1dE5pektDWGR6S1J4LUJtR0x5NHRVMUtMNUxwM2diYVZjY1dBXzE1NDdaU1luUENja1VUUkZNbzhiNXlGblRaY0k1T1ZpanZJcDhfQl85ZGdVeFFEUlpmSkFOQQ?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "867c356642a8",
-      "title": "I farmaci per dimagrire portano 550 milioni di risparmio al Ssn - VoceAlta",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm91cHV5cm5PSmFUZ1FnZXFhOEM4end1TDVXZjBFdnJoV21GN0F1dlJxZ1JQYUJjN3JNMmx4WkdTS3R2eFFFV3EyQmtLb21LWjctM1F0X3d3dWlSS0pkNmEtWjJlYWxRMHNDQjI5YUJPN2JJLTZLR3JEeHBZSDM0VlZEYUFodlhmdmZSaw?oc=5",
-      "published": "2026-07-30T08:29:59+00:00",
-      "source": {
-        "name": "VoceAlta",
-        "url": "https://vocealta.it"
-      }
-    },
-    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -474,12 +464,12 @@
       }
     },
     {
-      "id": "c124dd2dca81",
-      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
+      "id": "b04d96cd8abb",
+      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
       "published": "2026-06-18T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -494,22 +484,22 @@
       }
     },
     {
-      "id": "3bd658d3f281",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - salute.gov.it",
+      "id": "42a5a0cc1bfe",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
       "published": "2026-03-26T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
     {
-      "id": "a7f9dd555ce8",
-      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - salute.gov.it",
+      "id": "1b51eed43d05",
+      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
       "published": "2026-03-27T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -574,12 +564,12 @@
       }
     },
     {
-      "id": "47a247ee80ac",
-      "title": "Produttori, depositari e grossisti - salute.gov.it",
+      "id": "94efa2e1c9cd",
+      "title": "Produttori, depositari e grossisti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
       "published": "2026-01-10T01:58:27+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -594,12 +584,12 @@
       }
     },
     {
-      "id": "2eb6bd76cf8a",
-      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - salute.gov.it",
+      "id": "391223dd702d",
+      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
       "published": "2026-01-29T12:30:24+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -634,12 +624,12 @@
       }
     },
     {
-      "id": "8946190c4732",
-      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - Focus.it",
+      "id": "9182ccc6d8e4",
+      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - focus.it",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnZnd2VwNmpqVU1hakt0Ml9IblJsOGRGdWRSb3AyNzQyNlVwUmxwcXdNY3haSVQ2d3RTanhDcHZ5ajJtQjJjNjB4aUU3TmtIVGRfdXBCT2NBVkFlbGhyWS1QSnhVTHBUU3pVTTNXYUYwdnF2OHJBeDhQSGZ6RVluN2FrQU44V0FnSUtuZEVPMTBrMGh3WTVlMUozM21mS0tUOF93VWkwQjZlRzhK?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -664,22 +654,12 @@
       }
     },
     {
-      "id": "f28a9530c43a",
-      "title": "L’Ema punta sulla salute delle donne: \"Migliorare cure, troppe lacune\" - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDdLbUNlUElmcGE1UkFjSXFkbks3WWZJYUMyLTEwVjY3VHFfaWx4VXVtZW4yaGpjclBUSHBwdHZ1b1dtUHFyM2JuZ2ZIcl9oOXU2QTNVTHpjdzU5dEpXXzNielpyN29iT3BrMUk2NnBhUUFwVDB2VGlTUXhyaUVCcU53OVd0U0FEb1Vz?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
-      "id": "0703741610af",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - salute.gov.it",
+      "id": "87463bcc603e",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -691,6 +671,16 @@
       "source": {
         "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "f28a9530c43a",
+      "title": "L’Ema punta sulla salute delle donne: \"Migliorare cure, troppe lacune\" - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDdLbUNlUElmcGE1UkFjSXFkbks3WWZJYUMyLTEwVjY3VHFfaWx4VXVtZW4yaGpjclBUSHBwdHZ1b1dtUHFyM2JuZ2ZIcl9oOXU2QTNVTHpjdzU5dEpXXzNielpyN29iT3BrMUk2NnBhUUFwVDB2VGlTUXhyaUVCcU53OVd0U0FEb1Vz?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -814,12 +804,12 @@
       }
     },
     {
-      "id": "21decdfaad50",
-      "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - Focus.it",
+      "id": "cfafe86162f9",
+      "title": "Citisina per smettere di fumare: il farmaco naturale sarà gratis nei centri antifumo - focus.it",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZS1nU0VJUjFUa29SUEN5enVtS2ZlQlRVa0VpOXlhRGp3a19DZTBVNzJWWG9OM3ZwNFJaODBWcXRoVEdxQjlzTDJvUC1IMTVmeXZveFZ5YzFnNW16NTd6RXNJLThLa3hxeVZ1cXJvNWxfMldyZG5xS3BoeEV0SzFzbjhlbGdsY2tOMnNNc1JtSlNEQ3E4dThQNVVDWm5oYlVybHZjaFFxM0NxY1N3UUo0?oc=5",
       "published": "2026-03-30T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -854,12 +844,12 @@
       }
     },
     {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "id": "8e0d8be4b0a4",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
       "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -914,12 +904,12 @@
       }
     },
     {
-      "id": "614136e34f2e",
-      "title": "Guerra e carenza di farmaci. Bassetti: “Effetti rischiano di essere devastanti per la nostra salute\" - RaiNews",
+      "id": "7c215a97ab7e",
+      "title": "Guerra e carenza di farmaci. Bassetti: “Effetti rischiano di essere devastanti per la nostra salute\" - rainews.it",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOekdRTV8tMGNEMjhsMlhuSnB0Wk1Wa3dwbk1FQ20tZEcyZDllNXctU1QtLUNOM00tdm1TY2VRRlE3ckZTUTJXcHllM3pDaTdiTE9TNV9DWm9qd2FSZUtjX1pUSk5qUE9LOW5YTDdrSDhBb0JHajZNZ0liN2tNNFdacDVVSWxYVTNOWURXUTVPcllKbXJKSFROaTRWSDFGU3Ata214OFpSWklEaVVGdXhzOVlEcHAyMjAwZ0pLV2tmQkJkcjBfRUJ5dHlqZU9lS0FudlljTl9zSkd2RDM1bEtqcWlwaEhHTWRBd1dhekd5Rk4tNlhlRGhoRjBSeHlETjkxeFJQT0ZB0gGLAkFVX3lxTE45YmpwNFFjanltaUVYcmVmeFJENDNnTFd1dkJTd0FwZGFFVHpuay1aS0NpM2ZRNl9nWlFaTlVHUXpPd2p4eTc4QW1sOTdQTldxc3BKUFpMM1VyX3dWdkFianEzbUZJUFVPOENzaE1kNHF5RFMzb3hrTUhUQS10bG5xeUhfZG5ZYkJRbEFseHdzNjhUYjRaR0NtRHlhb0I3THNlQ1oyaW11YTdxbnhvdDliT1pVQUdfZU9xTDdTMnlKRGI3dnZTdUVnZUhMNFlBSTVhRFpsUk4wT1FzUXdvLUczSlNwMlJSWjZqc25IbzBQeTMwYWtIWGVxQ2pEM2FCUGNkRlZzbUlXWkxoVQ?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "RaiNews",
+        "name": "rainews.it",
         "url": "https://www.rainews.it"
       }
     },
@@ -974,22 +964,22 @@
       }
     },
     {
-      "id": "e563fb6ff855",
-      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
+      "id": "59a544ca9fad",
+      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - focus.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
       "published": "2026-04-12T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
     {
-      "id": "940d1f465dba",
-      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
+      "id": "750497322112",
+      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - focus.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
       "published": "2026-05-30T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -1001,6 +991,16 @@
       "source": {
         "name": "fnovi",
         "url": "https://fnovi.it"
+      }
+    },
+    {
+      "id": "7d376a854124",
+      "title": "Uso corretto dei farmaci: a Montalto un incontro pubblico per promuovere consapevolezza e sicurezza - uslsudest.toscana.it",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lYR2ROdldBcnJ6bEFibmRFa2ZXNGlYUjBFZU92NURMZ28tczhMM3VoMzN5Y25GdlNvaEwxUGhybWVxbDViTVQ2d1RSdmFnY0JpdTluQmVUdk13TTBJSjNoR2pvcVp5U3pqbTBpSTNKNUxTT2VaMm9Td2hFVUNEal9UNFozUWt3VG1BNFNUamptaEp0LWo3aW1xalowWTE1Yk1KTkU5LUQ5Ui1ia3oyd2lnRkdJRl9Wc3BnSEJjOWl0SEVXalVUeHVLUmsxemZkVE94WTBPV2dNSVBIdGR4YmlhOA?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "source": {
+        "name": "uslsudest.toscana.it",
+        "url": "https://www.uslsudest.toscana.it"
       }
     }
   ]
