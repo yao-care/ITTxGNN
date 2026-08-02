@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T18:53:40.336304+00:00",
+  "fetched_at": "2026-08-02T20:04:48.397696+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -114,16 +114,6 @@
       }
     },
     {
-      "id": "61de91957c02",
-      "title": "Trattamento anti-acne in adolescenza: impatto sull’altezza in età adulta - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEFNQmNyY0dXN2xTSE5ZdU9jODFPN3paZWsxUFNncUctV25NLXFJNGtKZHBwbDJSZVNzUU9VZFpQQ0xxbkpSWXJKd29KR3l1NnFFZU1BNGNuRGhiOC14Ymxvb0c3VDVPTzdkUmlxNkJDamhLdzRpT2k2TG1fZHNsbWFIOGVSamtVTmw4MWhCN1hweERMNG04ckVNLXVvTWxIem1tdHJqS3VnY3lyV085SVBTa2NYSnM4ZWc?oc=5",
-      "published": "2026-08-02T11:30:32+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "cdda0d7f2528",
       "title": "La solitudine pesa sulla salute. “È associata a 870mila decessi l’anno nel mondo, 100 ogni ora” - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXFWaVVtcmhxYTNweG9kVTU4S3EtVXdMaDhlOTJXMVdZMmxwenlDTmNqOFhHVzhkWFpPQUFVcjYteXFmcmhIcUdRZDZjYy1UVVN0T0hjbDR4bE5mYllMOHZUOGxWQlRicnFkZW5CRV9uRTVJNmhZNE4zZkRhY0hhSGludGJKVHczOEQwT2dnblNkSGc3a2RncEM2aEZyWTRtMUVwd1R6VTRHSjRGNVNsaTRSejZodHFfZENxbHcxS0JyWU02a1pBQ2htMEtZYmZ1ZDJSQzR2OA?oc=5",
@@ -131,6 +121,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "61de91957c02",
+      "title": "Trattamento anti-acne in adolescenza: impatto sull’altezza in età adulta - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEFNQmNyY0dXN2xTSE5ZdU9jODFPN3paZWsxUFNncUctV25NLXFJNGtKZHBwbDJSZVNzUU9VZFpQQ0xxbkpSWXJKd29KR3l1NnFFZU1BNGNuRGhiOC14Ymxvb0c3VDVPTzdkUmlxNkJDamhLdzRpT2k2TG1fZHNsbWFIOGVSamtVTmw4MWhCN1hweERMNG04ckVNLXVvTWxIem1tdHJqS3VnY3lyV085SVBTa2NYSnM4ZWc?oc=5",
+      "published": "2026-08-02T11:30:32+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -214,12 +214,12 @@
       }
     },
     {
-      "id": "85c17bd507f8",
-      "title": "Caldo, direttive ministero per chi prende farmaci - Tv2000",
+      "id": "de1829992e5a",
+      "title": "Caldo, direttive ministero per chi prende farmaci - tv2000.it",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk9takZKdWRxZmFEY2k3bHRCdU1zTlZxckZPSTVHY2dQejBDSXNNeEdLR1djcnlKd21ueXdTRnNVcVFmdC1FckdHMnhnVUJodVd3Z1RkVlpkaWJ5RElNOFF4QkpuSEd5QVNINDhxclhQaVlwTWxhMkFrNHJsZGFWQzZOY1ZfTDdhOHZrRg?oc=5",
       "published": "2026-07-29T17:55:04+00:00",
       "source": {
-        "name": "Tv2000",
+        "name": "tv2000.it",
         "url": "https://www.tv2000.it"
       }
     },
@@ -384,6 +384,16 @@
       }
     },
     {
+      "id": "01e1b4c3fabd",
+      "title": "Unomattina 2025/26 - Salute e vacanze: farmaci e dispositivi da mettere in valigia - 24/06/2026 - Video - RaiPlay",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdEx3X1l5NV9QQm9XVTNNWDhidklnZXNmamxYdTJDRW1ZWlZndU9KVW1HUzcwak9GdGdZLV9ral9OTmlCc0Vfa3hZVFZ5NHk0YlFyblB3S2RYLW5acWpDVHZwXzRpdVRDOUh0NWF2SFV3bEI0U0ItOFpZWTlub201b3Z5MGpsaWpfWjV2VjdmTUsxYlJwSnZ6cnpVNF9Ea1NoV3dJdVEyVUFOY2dXTmZJZGdNWDRyWWlnMlc0b0hNTjdzalZUUF9OOUpOSHFrcU5XRGRnYVZZVmVVLXdNY3cyakMtd0ZRODM2NWtleWRpd2VqYWs?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": {
+        "name": "RaiPlay",
+        "url": "https://www.raiplay.it"
+      }
+    },
+    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -464,6 +474,16 @@
       }
     },
     {
+      "id": "c931aa6f7c54",
+      "title": "Medicine per guarire il paziente senza danneggiare il pianeta, Unimore coordina progetto europeo - Sul Panaro news",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0ZlSEk1bUo3a0EtRlVTWVVfZHZkV1MtdTBmQ2QxVHNjQVJwMHdBemNaNHJ2a0YzOHhSMGk4X3BQM25xNVBBVTBuNEZ1OW5TY2xIelJJNWplTFQ1NUFsS2t3Uk5IbmtPQTVOX2pkT0N3WEI1cVBfYmtTcW5TQjhveFd0eFlCSzVpLWlYbHJnQWxPb2ZzLWNBQ090eFRfZ2xwODNGS0xyTzBNNFMydElOcVQ3WTM5WlA1bHktMEFSQVQ1bEJMZlVFek5R?oc=5",
+      "published": "2026-08-01T22:03:59+00:00",
+      "source": {
+        "name": "Sul Panaro news",
+        "url": "https://www.sulpanaro.net"
+      }
+    },
+    {
       "id": "cb7113ede2da",
       "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
@@ -494,16 +514,6 @@
       }
     },
     {
-      "id": "76e30cd9bb7b",
-      "title": "I GLP-1 potrebbero cambiare la vita delle donne obese o in sovrappeso? Lezioni da recenti pubblicazioni - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb0RfV0RWTk01Rno1VElhbjBOUk5lTjFaaC10OFZnZlVfTC1kNkRVR1ladUl5VHN5SVM1dWpYNmM1Qmh3dmhFeTZaUVNRN0xwZEYxNVdpaEo5T0ZUWXJuTzRNVGpXOGpMRk5BekxBM1E5XzYyLU0zeUJCY1ZxSUFKYWVpY0daWUJDTjlqYUc4S2hreTJhV19HV29Md0gwb1BJcFpzb2dQc1FqbDJEeGNGaXVZXy1WMF9WcEg0UjZfT1dFaUJEN1U0eXh1LUpSY2xpb0wzYUFJRjFBOVBSSWhESXlObzJmSUk?oc=5",
-      "published": "2026-07-29T04:00:58+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "2d3e4c6f2315",
       "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
@@ -514,13 +524,13 @@
       }
     },
     {
-      "id": "87463bcc603e",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
+      "id": "76e30cd9bb7b",
+      "title": "I GLP-1 potrebbero cambiare la vita delle donne obese o in sovrappeso? Lezioni da recenti pubblicazioni - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb0RfV0RWTk01Rno1VElhbjBOUk5lTjFaaC10OFZnZlVfTC1kNkRVR1ladUl5VHN5SVM1dWpYNmM1Qmh3dmhFeTZaUVNRN0xwZEYxNVdpaEo5T0ZUWXJuTzRNVGpXOGpMRk5BekxBM1E5XzYyLU0zeUJCY1ZxSUFKYWVpY0daWUJDTjlqYUc4S2hreTJhV19HV29Md0gwb1BJcFpzb2dQc1FqbDJEeGNGaXVZXy1WMF9WcEg0UjZfT1dFaUJEN1U0eXh1LUpSY2xpb0wzYUFJRjFBOVBSSWhESXlObzJmSUk?oc=5",
+      "published": "2026-07-29T04:00:58+00:00",
       "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -531,6 +541,16 @@
       "source": {
         "name": "Cittadinanzattiva",
         "url": "https://www.cittadinanzattiva.it"
+      }
+    },
+    {
+      "id": "87463bcc603e",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -551,16 +571,6 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "2fb7713472a1",
-      "title": "Vivere più a lungo, ma soprattutto meglio – Di Nadia Clementi - L'Adigetto",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2tWWjB6MS10R3dDZG5qcjhUZFZBeWY0R0RwY09JRUEwS1R5emlVb2hyME5HRXBHOFdUbDFyUU5EZGFxdFp3b0lCTkNsdXJEczJFYUhDVHlTaXdSSU0yNDZzbWVaWnEySEJUSnltRXExM2MzYXVtMWZqeGZubFFUZE8xQnk5dUJnWFhr?oc=5",
-      "published": "2026-08-01T22:26:16+00:00",
-      "source": {
-        "name": "L'Adigetto",
-        "url": "https://www.ladigetto.it"
       }
     },
     {
@@ -604,12 +614,12 @@
       }
     },
     {
-      "id": "f48f0807678e",
-      "title": "Fibromialgia, dalla Medicina integrata una strada per ridurre dolore e farmaci: ecco lo studio dell'Asl - Siena News",
+      "id": "8e1262190aeb",
+      "title": "Fibromialgia, dalla Medicina integrata una strada per ridurre dolore e farmaci: ecco lo studio dell'Asl - sienanews.it",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTzlDdnNYYXRqZ0dvSlBvUVZtNWZ0aFAtZjVaZ0h0NXRYa2EtTHlQdGtQVVZ4b2hUSndoN2xMOHZJV2NEanE2eXlJc0VqdTBaSUM2enJtNlZPWC0xQzg5R2dEeTFHVkFMQmtrNVJTZWk0dDR1eUcwQklLTHRqTC02c3VvRjlzSVdQX1hXYTNhSFpKdlJOdF85eGJUdXh0c1h4TVZDOGd3cWRoN3g2clZUbkhYMlpTOTViUFllUXJmaGl4QS1BNnk5Qw?oc=5",
       "published": "2026-07-30T09:33:10+00:00",
       "source": {
-        "name": "Siena News",
+        "name": "sienanews.it",
         "url": "https://sienanews.it"
       }
     },
@@ -664,6 +674,16 @@
       }
     },
     {
+      "id": "d85a60bfc902",
+      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it"
+      }
+    },
+    {
       "id": "e10ff6fe4307",
       "title": "Risparmiare sui farmaci in Puglia: da lunedì arriva l’avviso automatico sui pc dei medici - BariSera",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3ZISG05akl1LWUzblByeFJ1bE5QYmdHSm1KREZRdXV6ZzJvSjJPLXJnYmh1UWlyMTBpVE9zOUpjU0F2UFJtZ0ltZTRULV9PMXhWeVNzNzhEQVk2TG1DbjU2R3V4TFRteV9YYnJ6ekZtLWhfWC1VSGxfZHA5Y3dNVFJEZGNiMnBUOV80Wm9ZN3Rtd1RIQnZ0WWJRd2RfVllsUldua19HM0ZMN2lrTVk0SHJRRm5DeWx0dWI0WUZQdEw?oc=5",
@@ -674,13 +694,13 @@
       }
     },
     {
-      "id": "d85a60bfc902",
-      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
-      "published": "2026-04-25T07:00:00+00:00",
+      "id": "2fb7713472a1",
+      "title": "Vivere più a lungo, ma soprattutto meglio – Di Nadia Clementi - L'Adigetto",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2tWWjB6MS10R3dDZG5qcjhUZFZBeWY0R0RwY09JRUEwS1R5emlVb2hyME5HRXBHOFdUbDFyUU5EZGFxdFp3b0lCTkNsdXJEczJFYUhDVHlTaXdSSU0yNDZzbWVaWnEySEJUSnltRXExM2MzYXVtMWZqeGZubFFUZE8xQnk5dUJnWFhr?oc=5",
+      "published": "2026-08-01T22:26:16+00:00",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it"
+        "name": "L'Adigetto",
+        "url": "https://www.ladigetto.it"
       }
     },
     {
@@ -714,23 +734,13 @@
       }
     },
     {
-      "id": "d0693aff32e4",
-      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - comune.rivoli.to.it",
+      "id": "a9f6afc5e986",
+      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
       "published": "2026-02-06T08:00:00+00:00",
       "source": {
-        "name": "comune.rivoli.to.it",
+        "name": "Città di Rivoli",
         "url": "https://www.comune.rivoli.to.it"
-      }
-    },
-    {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
-      "published": "2025-12-27T08:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     },
     {
@@ -741,6 +751,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "dd4630529884",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
+      "published": "2025-12-27T08:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -824,12 +844,12 @@
       }
     },
     {
-      "id": "0f3f72c63687",
-      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - My-personaltrainer",
+      "id": "38f66b1bd8e7",
+      "title": "Salute, la svolta dell'AIFA: 4 nuovi farmaci rivoluzionari diventano gratuiti per i pazienti - my-personaltrainer.it",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01UUzNBc0M1MmhsWEkyc2VKcXdYVWNpZWIxRFdRTW95WGdIcEw5QjJwMVg1d0hVZE1NcHlYLWVUOTd1ZzZWVDlQWGcxaHUtTVhHMTNsUFlGSFpqMF9VMl9XVFdKcldIVV9ZaEp2UWRtM01aMUtDMHJ3RUZmeVIyWktUWmw4QS1XZllvYmwydFl4cmRLVW9WdnFLa2pVOVJibjUtMklGbnVzTDJ3UFdCT3ZqQnNhUDQ4TTJYeQ?oc=5",
       "published": "2026-04-25T07:00:00+00:00",
       "source": {
-        "name": "My-personaltrainer",
+        "name": "my-personaltrainer.it",
         "url": "https://www.my-personaltrainer.it"
       }
     },
@@ -894,16 +914,6 @@
       }
     },
     {
-      "id": "ab19fd677c94",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "Doctor33",
-        "url": "https://www.doctor33.it"
-      }
-    },
-    {
       "id": "858a540d6cdd",
       "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1V6VElJZ2FIdlM5RERXeUVSanNUZXgwVXg2VmJhZkhHWUl1czlMdGdsQXcxR2Zsc0IxUXdVbXZVMlpXeXNSeGJ4Ym4zRHNuNU4yYUpwUGhlbi1FN0VvSHlfdkUzMy1MMVIzaUxJa1VZbDdLSVVDZVhhRmFPRU9DNzFzYmM2ZGw0VmJr?oc=5",
@@ -931,6 +941,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "ab19fd677c94",
+      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "Doctor33",
+        "url": "https://www.doctor33.it"
       }
     },
     {
@@ -964,12 +984,12 @@
       }
     },
     {
-      "id": "75cfda5d985d",
-      "title": "Come conservare i farmaci in estate: regole e consigli pratici - My-personaltrainer",
+      "id": "71b2eb6a73bd",
+      "title": "Come conservare i farmaci in estate: regole e consigli pratici - my-personaltrainer.it",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWl90S19zNEJVY0hubjhCRFQ3ZVFrWTRkWjVzVkxqOEVFd2lkZU0wNEFRbWVHNDVaTkJvMGg4c2NQUUpLSU9na1A2cXlNMUh2ZEpWNHFabTNQa2NQMEpPMXdBUllCdWVLOFJnOGdzSUpMS3UzUnF3ZnN4SFJJeHRabkpkMnlHd0dxSFM5dDdCY3R1VkhVMzc5OExGbFFUSGtnaWRmWTg1OVV1azg3WWVvOGQyU1ctNTNCYTQ1dHZGejU1UHBXQ1l0RTU2WQ?oc=5",
       "published": "2026-06-26T07:00:00+00:00",
       "source": {
-        "name": "My-personaltrainer",
+        "name": "my-personaltrainer.it",
         "url": "https://www.my-personaltrainer.it"
       }
     },
@@ -981,26 +1001,6 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "e7adedfcbb86",
-      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
-      "published": "2026-01-16T08:00:00+00:00",
-      "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "43f96e9aff14",
-      "title": "Ecosistema del Farmaco: quando la salute diventa geopolitica - Panorama della Sanità",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2k5NGxLOHdtS2ltakN3aWlSVkJWMVpnVExQS1dRTTB3WFVyQ3M3S09WNlAwZVZyS3JGVWhtcHh3Z2pJZUt3SmFnSTVFb3NKQ053dnp2ek5aY01TUTJic2ttNXJmYlVBa1VZUGZhT3FUYm4xSUdHM2o2RkdVSVNNWWwzamw4VVNvTkwwUVZnMkY5SHB6cTlnQVRIeTQ?oc=5",
-      "published": "2026-04-08T07:00:00+00:00",
-      "source": {
-        "name": "Panorama della Sanità",
-        "url": "https://panoramadellasanita.it"
       }
     }
   ]
