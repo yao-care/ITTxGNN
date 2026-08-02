@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T16:45:43.618605+00:00",
+  "fetched_at": "2026-08-02T17:52:23.157923+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -294,16 +294,6 @@
       }
     },
     {
-      "id": "0465b8b73521",
-      "title": "I farmaci possono diventare pericolosi con il caldo? Le raccomandazioni degli esperti - La Gazzetta dello Sport",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM24zUE40V3p5TFdpWlV4V0hCT1RjMG9BR2ZqOHlTaUdHWHJIU1lXS1FUNkIyUTFNT2RsSG1BZlAxUEJtelZQQ2FENTVJamdteHlUOHFrdm1BQ3RSdUFXNjIzSWlkVzRhbFQyT0M1LWEyWGJfYks5YWVMMFV2R3Q1RVhGVWdrLUlKNC1ZVmNEcEotM3VLTTlTM1ZwSVRhS1lKSG5nZjVhODhTWjlrcXQ5S0Q1VdIBuAFBVV95cUxQZk84alFscFRuX0Q3ZG94VjJqQTBTSll0SjE2Q2NsVHZMeDNOSUp6cHpFUDdUbVdvbHo1dE5TZDJVRHF6TEZEc05ZbHNkQVRzVGhua0xoWFczSHNtbVJ4MHBpRkREWS04NTlHUWtta0E1c3VJaXpoZVFxMldDNW0zbnZUelM3Z204ZlhnWFhWSGkwOTRwWC1mTkRYMTBtYklYYWlLV2dybTBkRDNBTHp3cVBzbGp2a0U2?oc=5",
-      "published": "2026-07-27T13:31:28+00:00",
-      "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it"
-      }
-    },
-    {
       "id": "422fe17620a5",
       "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
@@ -311,6 +301,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "0465b8b73521",
+      "title": "I farmaci possono diventare pericolosi con il caldo? Le raccomandazioni degli esperti - La Gazzetta dello Sport",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM24zUE40V3p5TFdpWlV4V0hCT1RjMG9BR2ZqOHlTaUdHWHJIU1lXS1FUNkIyUTFNT2RsSG1BZlAxUEJtelZQQ2FENTVJamdteHlUOHFrdm1BQ3RSdUFXNjIzSWlkVzRhbFQyT0M1LWEyWGJfYks5YWVMMFV2R3Q1RVhGVWdrLUlKNC1ZVmNEcEotM3VLTTlTM1ZwSVRhS1lKSG5nZjVhODhTWjlrcXQ5S0Q1VdIBuAFBVV95cUxQZk84alFscFRuX0Q3ZG94VjJqQTBTSll0SjE2Q2NsVHZMeDNOSUp6cHpFUDdUbVdvbHo1dE5TZDJVRHF6TEZEc05ZbHNkQVRzVGhua0xoWFczSHNtbVJ4MHBpRkREWS04NTlHUWtta0E1c3VJaXpoZVFxMldDNW0zbnZUelM3Z204ZlhnWFhWSGkwOTRwWC1mTkRYMTBtYklYYWlLV2dybTBkRDNBTHp3cVBzbGp2a0U2?oc=5",
+      "published": "2026-07-27T13:31:28+00:00",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "4e443043b4c9",
-      "title": "Antibiotici per cani e gatti. Nuove linee guida in Umbria: diagnosi e antibiogramma prima della prescrizione - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0hBMlJPaUtwVWNxTUhBVmdpUUc2MndLUHFXcUUwbl9uM2pHWUFJdjUxNkJaTTJOSlQwT3pLdFVfZ3NmUmZkYjRYbGNXbTk3dWIyMDJZTC1JOHppakZURW1tOFl6TDhZWkoxMDU0ZGxqZkVRLTA1QnBxaUM5bUlSMjVLNjdGSTlTRldNbF84OEdOVnJqTVhSRmZ0X0hacU9ILTZqcV9uRE1IM000Q1F6Rjl0OTlTclJaRUZFSjRYS3dRcy1SQ05LQ0xmanJKVTBkRllVOVJLMEMyc2lQUmlwRHRqREdiMGRqRFJzelNB?oc=5",
-      "published": "2026-07-30T00:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "6a248baafc12",
       "title": "Salute: Palumbo (Sno), ‘farmaci disease-modifying modificano decorso Alzheimer’ - Startupbusiness.it",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmVmeWx0bW81cVE3VFJXdWIyWnh3Nk8wWUotZHJpT3pEMHRrZzl1N1p3QWx5UGl6elpUWExjNThpR2dTZFhPdWY2eHNPWXNMN2dHVTgtNDhTNllPUzYwWFdFSFJDVHVGNW1hc0FPZDhtNnhaazRiT2pIUUpvRktjcm05Rmo1a2dXQUdJbUlBdGJNeW9NV2p4MUplNFJPSlV1Nm5zU3o0aF9zLXJwN0pROXlR?oc=5",
@@ -444,6 +434,16 @@
       }
     },
     {
+      "id": "4e443043b4c9",
+      "title": "Antibiotici per cani e gatti. Nuove linee guida in Umbria: diagnosi e antibiogramma prima della prescrizione - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0hBMlJPaUtwVWNxTUhBVmdpUUc2MndLUHFXcUUwbl9uM2pHWUFJdjUxNkJaTTJOSlQwT3pLdFVfZ3NmUmZkYjRYbGNXbTk3dWIyMDJZTC1JOHppakZURW1tOFl6TDhZWkoxMDU0ZGxqZkVRLTA1QnBxaUM5bUlSMjVLNjdGSTlTRldNbF84OEdOVnJqTVhSRmZ0X0hacU9ILTZqcV9uRE1IM000Q1F6Rjl0OTlTclJaRUZFSjRYS3dRcy1SQ05LQ0xmanJKVTBkRllVOVJLMEMyc2lQUmlwRHRqREdiMGRqRFJzelNB?oc=5",
+      "published": "2026-07-30T00:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
+      }
+    },
+    {
       "id": "9679accf030f",
       "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
@@ -451,26 +451,6 @@
       "source": {
         "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
-      }
-    },
-    {
-      "id": "76e30cd9bb7b",
-      "title": "I GLP-1 potrebbero cambiare la vita delle donne obese o in sovrappeso? Lezioni da recenti pubblicazioni - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb0RfV0RWTk01Rno1VElhbjBOUk5lTjFaaC10OFZnZlVfTC1kNkRVR1ladUl5VHN5SVM1dWpYNmM1Qmh3dmhFeTZaUVNRN0xwZEYxNVdpaEo5T0ZUWXJuTzRNVGpXOGpMRk5BekxBM1E5XzYyLU0zeUJCY1ZxSUFKYWVpY0daWUJDTjlqYUc4S2hreTJhV19HV29Md0gwb1BJcFpzb2dQc1FqbDJEeGNGaXVZXy1WMF9WcEg0UjZfT1dFaUJEN1U0eXh1LUpSY2xpb0wzYUFJRjFBOVBSSWhESXlObzJmSUk?oc=5",
-      "published": "2026-07-29T04:00:58+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "9128de78d1cc",
-      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -494,13 +474,13 @@
       }
     },
     {
-      "id": "2fb7713472a1",
-      "title": "Vivere più a lungo, ma soprattutto meglio – Di Nadia Clementi - L'Adigetto",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2tWWjB6MS10R3dDZG5qcjhUZFZBeWY0R0RwY09JRUEwS1R5emlVb2hyME5HRXBHOFdUbDFyUU5EZGFxdFp3b0lCTkNsdXJEczJFYUhDVHlTaXdSSU0yNDZzbWVaWnEySEJUSnltRXExM2MzYXVtMWZqeGZubFFUZE8xQnk5dUJnWFhr?oc=5",
-      "published": "2026-08-01T22:26:16+00:00",
+      "id": "9128de78d1cc",
+      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "L'Adigetto",
-        "url": "https://www.ladigetto.it"
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -531,6 +511,26 @@
       "source": {
         "name": "| Regione Siciliana",
         "url": "https://www.regione.sicilia.it"
+      }
+    },
+    {
+      "id": "2fb7713472a1",
+      "title": "Vivere più a lungo, ma soprattutto meglio – Di Nadia Clementi - L'Adigetto",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2tWWjB6MS10R3dDZG5qcjhUZFZBeWY0R0RwY09JRUEwS1R5emlVb2hyME5HRXBHOFdUbDFyUU5EZGFxdFp3b0lCTkNsdXJEczJFYUhDVHlTaXdSSU0yNDZzbWVaWnEySEJUSnltRXExM2MzYXVtMWZqeGZubFFUZE8xQnk5dUJnWFhr?oc=5",
+      "published": "2026-08-01T22:26:16+00:00",
+      "source": {
+        "name": "L'Adigetto",
+        "url": "https://www.ladigetto.it"
+      }
+    },
+    {
+      "id": "76e30cd9bb7b",
+      "title": "I GLP-1 potrebbero cambiare la vita delle donne obese o in sovrappeso? Lezioni da recenti pubblicazioni - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb0RfV0RWTk01Rno1VElhbjBOUk5lTjFaaC10OFZnZlVfTC1kNkRVR1ladUl5VHN5SVM1dWpYNmM1Qmh3dmhFeTZaUVNRN0xwZEYxNVdpaEo5T0ZUWXJuTzRNVGpXOGpMRk5BekxBM1E5XzYyLU0zeUJCY1ZxSUFKYWVpY0daWUJDTjlqYUc4S2hreTJhV19HV29Md0gwb1BJcFpzb2dQc1FqbDJEeGNGaXVZXy1WMF9WcEg0UjZfT1dFaUJEN1U0eXh1LUpSY2xpb0wzYUFJRjFBOVBSSWhESXlObzJmSUk?oc=5",
+      "published": "2026-07-29T04:00:58+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -594,12 +594,12 @@
       }
     },
     {
-      "id": "b2dc5dbe568d",
-      "title": "Farmaci dimagranti GLP-1: rischio basso ma reale di perdita di capelli - it.euronews.com",
+      "id": "bbb1adea2d30",
+      "title": "Farmaci dimagranti GLP-1: rischio basso ma reale di perdita di capelli - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5mT1NxZTdNVUZNc3ZaZGRxMWRDdjBzU1FiLU5MaE9HbUdsNGhZUEhFdWx5aGpIOGpFZG9jM0c3NmsxRVZxVWQweXhHX2pyWExxOUIyRnlVTmxYbVRrejJ5b2lwdzVrbVhUN0hNRERFMjJhUXJKVkE2OW9NRjctcHJDZ3pLdGZFU09VR243WVB6dEUtZHFnTlRTc21BeW1JelZwUWIwZnBCMVA1aW5kcA?oc=5",
       "published": "2026-07-23T07:00:00+00:00",
       "source": {
-        "name": "it.euronews.com",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
@@ -694,16 +694,6 @@
       }
     },
     {
-      "id": "5bc3ad3a9669",
-      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
       "id": "016f586fb7cd",
       "title": "\"L'antibiotico si cura\": Arpa Piemonte collabora al progetto contro l’antibiotico-resistenza - arpa.piemonte.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JtRTNPYzRkSU9UVFlRSkR5MXJOemxHRkFyd2VLY2Vqa2N1LUpWRjF4Yjl5c0pGOFFYNUI5ek1VMnU5WkVrUW9nTUtaaWhvYTJYVnRaQW9IeWkwSFJ3NDR4VjBMNnNJMlZ4emQzMi01anNTTUhxUExHeWJwVmkzbWppQmNudTBOZmR0OW8zdjAtN2g2MExXMlJkYTJ3RFNKMjZKMklVMG9rekx4YkMwSnc3VThOSGFZQVQxSWNRTFRkZw?oc=5",
@@ -711,6 +701,16 @@
       "source": {
         "name": "arpa.piemonte.it",
         "url": "https://www.arpa.piemonte.it"
+      }
+    },
+    {
+      "id": "5bc3ad3a9669",
+      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://stream24.ilsole24ore.com"
       }
     },
     {
@@ -894,12 +894,12 @@
       }
     },
     {
-      "id": "b8a5a3861a8b",
-      "title": "Aereo portoghese porta farmaci in Venezuela - it.euronews.com",
+      "id": "74b01ddd5acd",
+      "title": "Aereo portoghese porta farmaci in Venezuela - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcERUTS16MmNIX2kxTjk0X2d4LWVYS1RnSEFoMngyZllWWHhNakFsMEJsWkJob01fZGlvS2w1YWNDS3VJQjRnQUpWN0ltdnJ1UC10R3V2bExocHRLMWJQaU1RcUdTQzlDY1FuNGUwcWN5ektZd0o2cFRjU21OQ2F5TUdLVWdoUHFLWXVQZWtB?oc=5",
       "published": "2026-07-13T07:00:00+00:00",
       "source": {
-        "name": "it.euronews.com",
+        "name": "Euronews.com",
         "url": "https://it.euronews.com"
       }
     },
