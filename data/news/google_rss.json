@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T07:32:14.518661+00:00",
+  "fetched_at": "2026-08-06T10:26:39.757025+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,12 +14,12 @@
       }
     },
     {
-      "id": "d3998398a176",
-      "title": "Esami perfetti, salute a rischio? - Mondosanità",
+      "id": "bdb2c22002e4",
+      "title": "Esami perfetti, salute a rischio? - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUpKMGhIYVF5cjgxbEdGbFVPbWdPVVdJOWxNQWYtbmt6R2FPU2g5VVliMm5YX0RRRHh3bXNNOU8xV3pCcl9qbk1JMGhMYkFMS2VFRk5SV3I2Mjg4V0ExQ0Q4alAzT2NxTUdfM29zcXJuUlJ3TXRfcjhpOWJZV1lGc2tReElsajFialE?oc=5",
       "published": "2026-08-05T08:15:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -54,13 +54,33 @@
       }
     },
     {
-      "id": "6e80988ca504",
-      "title": "Qatar: sistema online per farmaci controllati in viaggio - agenparl.eu",
+      "id": "be9ea61dbff4",
+      "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
+      "published": "2026-07-29T15:05:44+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "10a11c0cc2ce",
+      "title": "Qatar: sistema online per farmaci controllati in viaggio - Agenparl",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM01Ja0VQTW9SU1lJWTVEOEhYOWRSY1Y5a29qQlY1VFkxQzZ2SG9pTEZOVlcxbWVvZC1XV1pNdk54bWEtVEpYT3VCUHhyTEc2anNHd0tjUzFsd1N4Yk9JSGowTTNROXlYZ2tMT0hIVnJ3bXBzLUdWMTBuaE5BNmtha3hBZw?oc=5",
       "published": "2026-08-05T16:17:18+00:00",
       "source": {
-        "name": "agenparl.eu",
+        "name": "Agenparl",
         "url": "https://agenparl.eu"
+      }
+    },
+    {
+      "id": "eb3e215f85b0",
+      "title": "Consegna gratuita a casa dei farmaci per le persone anziane o “fragili” - Italia 7",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTM5aWk2OWdmb3RiREZCVEpGMkhKQUJJeUN6aExrbzZqcWxCN1dNYU9wQW5LNmtTcGUyeHJqLVdSUzExXy1XVUpXQkFyWEJmVlZSM0VseE1GenR4c2NSVXFmdjFQNTNUNFp1eDQ5cUFvcS0waktoS1d5ams1dW5YSFQza2ZKaUN0M3kzb0dwbjBkWjZYckotX0dTT25pd0M5d2JHcXNhaklHdjFEaHdR?oc=5",
+      "published": "2026-08-06T08:29:26+00:00",
+      "source": {
+        "name": "Italia 7",
+        "url": "https://italiasette.it"
       }
     },
     {
@@ -74,42 +94,12 @@
       }
     },
     {
-      "id": "be9ea61dbff4",
-      "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
-      "published": "2026-07-29T15:05:44+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "a8d206be30fd",
-      "title": "Farmaci per il diabete e peso: l’effetto sulle ossa che non ti aspetti - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaE9ONlc0T2xfSHhCYlJOYU5JbEJIZ0M1S1dabTJ4cTg2Vjk5SUQ2SmVhY3JlTzVvVmNCell6MkxJVmVOeDgxR0VUYnh1ZUN1TzBwNTJObFhHSjF4dzB2OE52NXdCT0plVjBMYkd4NnpkaUVkSWxWc3o1aWRMMEpGUXc2TExGeW01b2pCM2R4cFJqQUNtLTNJX0tjSU5nUUhGTmlsZ2FrM1FncTR2SGZZR1Zhc1NVUkdNMWZRZi1tU3B6aXdfSUZQNA?oc=5",
-      "published": "2026-08-05T09:29:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
-      "id": "9f5682c0539e",
-      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - FoggiaToday - cronaca e notizie da Foggia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlVuYW5YTGpGZjFpQ0tVeVVVendpWWRraDlvQUhLTzVfbXpqVzVLYlBFVG1RZW5hVXhKZzczZDB5TWFwd1BHVDJvRlZaSk82NjYtOW96UUdnako2d1g5QTFtV0piT29IbThHMGwxWF92bEh5YXlCb0NMZC11NWxsdkJLbl8tQQ?oc=5",
-      "published": "2026-08-03T07:00:00+00:00",
-      "source": {
-        "name": "FoggiaToday - cronaca e notizie da Foggia",
-        "url": "https://www.foggiatoday.it"
-      }
-    },
-    {
-      "id": "6c9df4a50d66",
-      "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - ilbolive.unipd.it",
+      "id": "c576dacae4e8",
+      "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
       "published": "2026-07-24T07:00:00+00:00",
       "source": {
-        "name": "ilbolive.unipd.it",
+        "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
       }
     },
@@ -124,6 +114,16 @@
       }
     },
     {
+      "id": "9f5682c0539e",
+      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - FoggiaToday - cronaca e notizie da Foggia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlVuYW5YTGpGZjFpQ0tVeVVVendpWWRraDlvQUhLTzVfbXpqVzVLYlBFVG1RZW5hVXhKZzczZDB5TWFwd1BHVDJvRlZaSk82NjYtOW96UUdnako2d1g5QTFtV0piT29IbThHMGwxWF92bEh5YXlCb0NMZC11NWxsdkJLbl8tQQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": {
+        "name": "FoggiaToday - cronaca e notizie da Foggia",
+        "url": "https://www.foggiatoday.it"
+      }
+    },
+    {
       "id": "851f733e8362",
       "title": "Caldo estivo: come conservare correttamente i farmaci - Alto Adige",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVdzWHFBVkFuYUtqekVreHB0Vll5b2xwbkJvZUNwYW0tZVJQZUJqekFyVEFYek9tM09ic2ZVN0N5ajR2cDQyZDB2TmR1cnpPM3RBbnUtRDhfZV9NRDlBLXN0eXhZU1VxTHhyd3M0YVlIcjFCSDJ5aUFMckdldFEzcnVSOUJUMngxZWxDSlNyS25ZTk5jeUZKMmVB?oc=5",
@@ -131,6 +131,16 @@
       "source": {
         "name": "Alto Adige",
         "url": "https://www.altoadige.it"
+      }
+    },
+    {
+      "id": "a8d206be30fd",
+      "title": "Farmaci per il diabete e peso: l’effetto sulle ossa che non ti aspetti - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaE9ONlc0T2xfSHhCYlJOYU5JbEJIZ0M1S1dabTJ4cTg2Vjk5SUQ2SmVhY3JlTzVvVmNCell6MkxJVmVOeDgxR0VUYnh1ZUN1TzBwNTJObFhHSjF4dzB2OE52NXdCT0plVjBMYkd4NnpkaUVkSWxWc3o1aWRMMEpGUXc2TExGeW01b2pCM2R4cFJqQUNtLTNJX0tjSU5nUUhGTmlsZ2FrM1FncTR2SGZZR1Zhc1NVUkdNMWZRZi1tU3B6aXdfSUZQNA?oc=5",
+      "published": "2026-08-05T09:29:00+00:00",
+      "source": {
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -154,52 +164,42 @@
       }
     },
     {
-      "id": "3a10ab81f2ba",
-      "title": "Prontuario, per Salutequità ora servono “passi concreti” - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcERGcXoya3NNSFVBVENXR3JTQmNraXM5TkRmTnRZYVdqTmZ2aWlFWDhwaVZiMHBZRF8td0pUSkVQNmEwZXZDeDlSeUhIYllvcDlCM3pkaG91VHl5bGE1V1g1bTFZWENNTGhSREZ2OXJ0Q2xROXJ4bTFfWGtiS3BZNVExTGdlbU5nNzhZVlpfaVh2RWFsQWFCanFCd1FUdzNmOVpNNmtrbw?oc=5",
-      "published": "2026-08-05T11:04:50+00:00",
+      "id": "763f2d1bd9c2",
+      "title": "Alzheimer, un farmaco già testato sull’uomo dà segnali nei topi - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRnFJVEVCTXk2bDJBUWg1anFxd2lzSFNGcUczOW96QUQyT0lyLXI4WDhUWmFLcS1pOC04V1dwSGZJd0hMM1J5eGZLaFJpd0c1NnFlaVVTYUNIZmhEc2p3dU5RTXFJTFNpR2lZTWV3WHdERHVNYWZCQUFILXM4MzBDOFhzZnFBajVrUlhzUjE4dElJU0llZmtMWFh4MWdwcWFUZTBTMDV1YlRWZmMxZUE?oc=5",
+      "published": "2026-08-06T08:37:00+00:00",
       "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
       }
     },
     {
-      "id": "9526d66684a0",
-      "title": "Fentanyl: perché se ne parla di nuovo in Italia? Cosa dice la scienza sul più potente antidolorifico della medicina - Mondosanità",
+      "id": "ad5bed2b59c3",
+      "title": "Fentanyl: perché se ne parla di nuovo in Italia? Cosa dice la scienza sul più potente antidolorifico della medicina - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZmZvTFptTFFjTlc3Rkk0MVZZR2R0UWVKUFlUVVlqbXdId0xYVDYzNVMxUnczNll1ck9BLVhNczFjeTJ2Y2NVSlp2OWtkYUtZTHNDZWNBY09uN19XM2h6MGNFVmwxc1RfdUllaUhmSkRWYzlYUnhfMmJzbTRkaW01VzUxamswTTh3eTNVVFVHa1AtYXRUcW14SnIzZmNhY1FVNDM4cDdmN2JsYzI4b054UFZDWGVMYmRTZy04OXNnZ214Z0h1aUYzNEMya3pNdDlYeXlGZ1h1aHJwTVBKSXhodHdRbVYySEdLalVCSzVqR01KNEtmdm0zU1ZXRWhjdHA2SDRR?oc=5",
       "published": "2026-08-05T12:19:34+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "2c29a9197512",
-      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
-      "published": "2026-08-01T13:30:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "5abb4e518698",
-      "title": "Vivere oltre dieci anni in più senza infarto né ictus: la grande ricerca che cambia il concetto di prevenzione - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWFmN3VieHVDSHplVTRKclJXamowMTd0ZFYyQU10dC1VMFJyWWt6U3FGNDA1allyMkZEYlJWemJJdEFLS2h5R3dTS0pWc3lVeGdfSkVBeENJbEdLbXF4VTZuNnB2ZjgxUFVDSnZRcnVKLWZSS09GMTBhaXE4QnBONmJIeEtaOEwzUndTRl9pN1FjS25jWnZDXzd6aVAtQ1VpeG5BVEVGVnY2MHlCVHk2THBNRmRKdDJjaFhxcmkwUVZDQWZ4Y1RhREZHbkhOT01XVU0yN0pvemphajF3ejdpelhlLVRWMzE3aV9wcHNJRndOUQ?oc=5",
-      "published": "2026-08-05T11:35:56+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "841b5d80eff6",
-      "title": "L'innamoramento. Il farmaco che il cervello produce da solo - Mondosanità",
+      "id": "5c892611c31c",
+      "title": "L'innamoramento. Il farmaco che il cervello produce da solo - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnl3a1BZSHFtSHEtRnNCdDUtMGxyc2s1TTNGeGNOZlBNbEVLODhGY2NiQ0R3aGxUaXFmT25fSDAtRTRnSkw5NDRoVm5NR3BpdXVyX093M2xYcWhoV1dFd1Bld0ZhRlQtaFZRQkZFc3pKcTFDenRtM1RhR2xJdWYwNHBLZzFoOWl6RVdmSDJPblNzWWxJS1NaSS1IbXdFQ1RVczlrTVVRTjA3VUpvX1E?oc=5",
       "published": "2026-08-01T14:30:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "593c4dc0268d",
+      "title": "Vivere oltre dieci anni in più senza infarto né ictus: la grande ricerca che cambia il concetto di prevenzione - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWFmN3VieHVDSHplVTRKclJXamowMTd0ZFYyQU10dC1VMFJyWWt6U3FGNDA1allyMkZEYlJWemJJdEFLS2h5R3dTS0pWc3lVeGdfSkVBeENJbEdLbXF4VTZuNnB2ZjgxUFVDSnZRcnVKLWZSS09GMTBhaXE4QnBONmJIeEtaOEwzUndTRl9pN1FjS25jWnZDXzd6aVAtQ1VpeG5BVEVGVnY2MHlCVHk2THBNRmRKdDJjaFhxcmkwUVZDQWZ4Y1RhREZHbkhOT01XVU0yN0pvemphajF3ejdpelhlLVRWMzE3aV9wcHNJRndOUQ?oc=5",
+      "published": "2026-08-05T11:35:56+00:00",
+      "source": {
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -254,6 +254,16 @@
       }
     },
     {
+      "id": "f297e50eb9fe",
+      "title": "Diabete e caldo: il rischio estivo che molti sottovalutano - Pazienti.it",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWYzZ0t6UTZDVHJjYjNRNTk2Wm1ydTdfaHJzTXFtMW5NOGw2eTJ3Ul8yMDMtS1UtUzNZYmZBUlp6X1BlNWQxRGljSV85eXc1aFNZeTVhRGgxdl9aNy1TNXBEV2h5XzQtSG14NWptTkV1ZXh6LWFZRHhTcmNJSFNkcWdxY2dYb2l0VTNJOUJkS0h6VTRwR2htU2V5RGxSRkhYd0FoeGhMU0hUUQ?oc=5",
+      "published": "2026-08-06T09:00:00+00:00",
+      "source": {
+        "name": "Pazienti.it",
+        "url": "https://www.pazienti.it"
+      }
+    },
+    {
       "id": "5ce35421749f",
       "title": "Scommetto che questo farmaco sarà approvato: la salute è un mercato - careonline.it",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0FnTEpsSnc2S3VwVjhoaUlqOXQzengtREk0eVJOX3lqNTRrTnJIc2QxZGYzdFljbkhOSVdzWWFRNksteHE3S2x5U243YVFvWUZ3eGt4eHdUYVBDVXhKTDFDVmNxZkI5RnZXdjdSVmdKUTloZ0p1LUFibk9ZRGN4dVVfdE9qRXdTdGxoTkxqV0N5Z203YmhhODc5RFZpZUlJTmd6UDhOVE05VXRXOTl0UmJuZw?oc=5",
@@ -264,12 +274,12 @@
       }
     },
     {
-      "id": "0563ae10cc36",
-      "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - salute.regione.emilia-romagna.it",
+      "id": "422fe17620a5",
+      "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
       "published": "2026-04-17T21:26:04+00:00",
       "source": {
-        "name": "salute.regione.emilia-romagna.it",
+        "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
       }
     },
@@ -284,16 +294,6 @@
       }
     },
     {
-      "id": "7a09fc922e2f",
-      "title": "Nausea e sudori freddi in viaggio: i sintomi della cinetosi, le cause e l'errore che peggiora il mal di movimento - My-personaltrainer",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVpHdXZIbVhEeHNFb1lRc2JkWUFfUXdGNk9LNzdZYmlNZUxhc3FBblZCUU83Unozd2NPaGp6S3Q1ekJyQVJXaF9GTTFYRnFmd0IyY0lxZmJVQ2g4Z2pXTWtYN19USUtCeW95enEwX3pRS3pyWURYTXRJdXNDWjNncl9EblhZeGUzLUYxUGpydjMtNEZlZFc3UjczUVlrUWdfVWdSd1pyZVpXNzF6VUhuU0t1WWpWNF9EbG1URGlWVnAyVkhDQU1FZG9jcUhZb1ZEYXJyaTdNYmdPSDQ?oc=5",
-      "published": "2026-08-05T08:43:00+00:00",
-      "source": {
-        "name": "My-personaltrainer",
-        "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
       "id": "c124dd2dca81",
       "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
@@ -301,16 +301,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "a4077014c23f",
-      "title": "Le scoperte che cambieranno la medicina nei prossimi 15 anni - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGdxS2xrUWItckJRY082Q044NjUyWWdnTDRzS0c2WTFMXzlBQ3kwcjk2RV9VVDVuYUU4eUx2UHZRUTRMbnhKS1BZdnJIX1RfMElBdEEySm9ITWJHVk41TWxyalU3Z0JKM2d1THlKNm5YWHhKbUlkazVlTllCTWl3dE9hZDlqdkdIZUtaTTZFc1kyXzhrOHFOZUtRRjY3RU50WEl1TndVSFA4OXdRbVRvUXR1ZHRCOURKeWh5UQ?oc=5",
-      "published": "2026-08-02T13:29:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -324,6 +314,16 @@
       }
     },
     {
+      "id": "3a10ab81f2ba",
+      "title": "Prontuario, per Salutequità ora servono “passi concreti” - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcERGcXoya3NNSFVBVENXR3JTQmNraXM5TkRmTnRZYVdqTmZ2aWlFWDhwaVZiMHBZRF8td0pUSkVQNmEwZXZDeDlSeUhIYllvcDlCM3pkaG91VHl5bGE1V1g1bTFZWENNTGhSREZ2OXJ0Q2xROXJ4bTFfWGtiS3BZNVExTGdlbU5nNzhZVlpfaVh2RWFsQWFCanFCd1FUdzNmOVpNNmtrbw?oc=5",
+      "published": "2026-08-05T11:04:50+00:00",
+      "source": {
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
       "id": "2e83aa3d32af",
       "title": "Farmaci introvabili, piani terapeutici e distribuzione diretta: nel Rapporto PIT Salute cresce l’allarme sull’assistenza farmaceutica - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0d6cmY5SXNwYzZrMF9wNjhXcVU1OWZVNEJrOWZWWG8taVVOVmpXVEE2WExoUFBObHFWaFRNbW9PWnJSOWNCb2UtM3FNalA1V255UVNleFJJRWlGNlJSUmZ4akV5UkxRaTU1ZkFfOVplem1KWXVfQ1BDMWo1WHFqWWxjZENMeWllbHc?oc=5",
@@ -334,13 +334,23 @@
       }
     },
     {
-      "id": "f16eaf4960fe",
-      "title": "Antibiotico-resistenza, la ricerca dell’Insubria al centro del nuovo podcast di Giovanni Storti - La Prealpina",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTIxcDZpSWlDRmVVX1B5VnA3cE5WRmh1NVp1NnJpcU5laVQ5MzJ2Z1lCd0s0MHdVMG1yWWFkWVNhTmhadEJPNUN6eUduS0hhaTFwUm1uMlNMLURYM0R6dFJ1bDdNU0JMOHdCaDRCMk91THNfalM0UHZNczRSYkRFZzdXSm5EYW85enhaWUp1X1FtT2ZYRC1KQThjamVfRG85THJCdG1CSDUyR3l2NkkzOXVILVhZOUwxZjNKMFhyVkhaZTZrTGFxV0g3aGZNZ3RDSVpfUVEwaG9Ldw?oc=5",
-      "published": "2026-08-05T09:32:52+00:00",
+      "id": "466e6c1127c2",
+      "title": "Le scoperte che cambieranno la medicina nei prossimi 15 anni - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGdxS2xrUWItckJRY082Q044NjUyWWdnTDRzS0c2WTFMXzlBQ3kwcjk2RV9VVDVuYUU4eUx2UHZRUTRMbnhKS1BZdnJIX1RfMElBdEEySm9ITWJHVk41TWxyalU3Z0JKM2d1THlKNm5YWHhKbUlkazVlTllCTWl3dE9hZDlqdkdIZUtaTTZFc1kyXzhrOHFOZUtRRjY3RU50WEl1TndVSFA4OXdRbVRvUXR1ZHRCOURKeWh5UQ?oc=5",
+      "published": "2026-08-02T13:29:00+00:00",
       "source": {
-        "name": "La Prealpina",
-        "url": "https://www.prealpina.it"
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "b412ad36d233",
+      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
+      "published": "2026-08-01T13:30:00+00:00",
+      "source": {
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -354,12 +364,22 @@
       }
     },
     {
-      "id": "46f692b09bd2",
-      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
+      "id": "7a09fc922e2f",
+      "title": "Nausea e sudori freddi in viaggio: i sintomi della cinetosi, le cause e l'errore che peggiora il mal di movimento - My-personaltrainer",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVpHdXZIbVhEeHNFb1lRc2JkWUFfUXdGNk9LNzdZYmlNZUxhc3FBblZCUU83Unozd2NPaGp6S3Q1ekJyQVJXaF9GTTFYRnFmd0IyY0lxZmJVQ2g4Z2pXTWtYN19USUtCeW95enEwX3pRS3pyWURYTXRJdXNDWjNncl9EblhZeGUzLUYxUGpydjMtNEZlZFc3UjczUVlrUWdfVWdSd1pyZVpXNzF6VUhuU0t1WWpWNF9EbG1URGlWVnAyVkhDQU1FZG9jcUhZb1ZEYXJyaTdNYmdPSDQ?oc=5",
+      "published": "2026-08-05T08:43:00+00:00",
+      "source": {
+        "name": "My-personaltrainer",
+        "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "db413db0788c",
+      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
       "published": "2026-07-28T07:27:29+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -424,16 +444,6 @@
       }
     },
     {
-      "id": "fe396570e044",
-      "title": "Dall'Italia inviati 4.600 flaconi di farmaci plasmaderivati a Nablus - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdWTWF1Wjl2bzF4VGYwODd6VmlCZzdZVk8zVVFHTTFLTUZGakpVYjdIcVd1eEhqcXVoOWs1d002QkZpeFc5LWpwMElhbjRpNlQ3V2s2em8tT3Z2LVppcEw1MHh1eU5XRkdmd0x6dzMyYmI5QjRVaUtIS29US1FVUWVVVlo1dzlBWGZHSTFSbUVST2w5SjdYQ0pyMTl0OHEzZmU5LVltUlNaZ2ZCbm9iV1BCMzV3NzlMUHkw?oc=5",
-      "published": "2026-08-05T08:37:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "9541d7bd1f2e",
       "title": "Servizio per la verifica di una confezione di medicinale a uso umano - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpHOUZBcmhTakRBd2NOQnVwb0FkazNybGNlY1lWdHMtZldKNXZFUWQyNzByNEloVnNsb1E5NGo5TDd6dnctZEstaVMzQnpwalk4eDB6UTdjblJjOWJmaXFPbTNKb3BwM3R1enJrNlMxYXZlci1admZQajFrNFpBdjZYMG1GR2VoTlhwal9WY05vb0themVaVGlDYW5YdFJlVVlpNGhES3hYM2l6VjR3akdxRjRlS2xVNlNVZ093YnRJV1lfYTRMVkdkRlhzV1M3eFNMTWln?oc=5",
@@ -474,16 +484,6 @@
       }
     },
     {
-      "id": "ae6cd7d96bbc",
-      "title": "Caldo estivo, attenzione ai farmaci: il Dipartimento Salute invita a conservarli correttamente - bolzanoquotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXZQQ2pzSFBtbzRMQkJ3UzBQb0VQVkpaV2RWVVVBMnJxXzI0WnU4V0VzSG5zVHRzbHdXRW5Hakl5N2cwNGZNLXkwNGdZeThEdFJOejg1RXBpX3lEcDBsaVdQbkpSUUFUSEZyQUFMSDF0VTNQU0VwdmNPaUVXcDYyS1N2MmtvYWpOanhTZDFLNnBabVhsSXBmaklRc2V3cWxYZHNuYUQxQ1NNV0t6OFVUVDZublpieFQ2YllsMDlCZnV4ZzJYWl9mMU0xcWtKX2M?oc=5",
-      "published": "2026-08-04T16:52:18+00:00",
-      "source": {
-        "name": "bolzanoquotidiano.it",
-        "url": "https://www.bolzanoquotidiano.it"
-      }
-    },
-    {
       "id": "32ec1d5c500b",
       "title": "Presentato l'VIII Rapporto sulla Farmacia: la farmacia come presidio di salute - Cittadinanzattiva",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTVucndWN3daZTF6NHZPN2VSdW1idVUzMmpwbEhFQ3FKLU1NVDVnX1Vlbkh6bVFhM3RmZlNSc0VhaVhzdWQwZUgyb3NiQkRZcG9RVkNXc0E3S05ITHdVQnlnOVpnOG1Eck92SmFYTFlwcEVQWTFPek9JTXVnaWFydzJQNGRJM3hrTF8wbTd6V09QMzVIdnVEd29ETEROLW94Mko5VVhHQVJVQmZjNFpmSEJWU3JwUWVNYjYxV25KMXdCeWRNQVNR?oc=5",
@@ -494,12 +494,22 @@
       }
     },
     {
-      "id": "53f058d8a9bb",
-      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - ilbolive.unipd.it",
+      "id": "ae6cd7d96bbc",
+      "title": "Caldo estivo, attenzione ai farmaci: il Dipartimento Salute invita a conservarli correttamente - bolzanoquotidiano.it",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXZQQ2pzSFBtbzRMQkJ3UzBQb0VQVkpaV2RWVVVBMnJxXzI0WnU4V0VzSG5zVHRzbHdXRW5Hakl5N2cwNGZNLXkwNGdZeThEdFJOejg1RXBpX3lEcDBsaVdQbkpSUUFUSEZyQUFMSDF0VTNQU0VwdmNPaUVXcDYyS1N2MmtvYWpOanhTZDFLNnBabVhsSXBmaklRc2V3cWxYZHNuYUQxQ1NNV0t6OFVUVDZublpieFQ2YllsMDlCZnV4ZzJYWl9mMU0xcWtKX2M?oc=5",
+      "published": "2026-08-04T16:52:18+00:00",
+      "source": {
+        "name": "bolzanoquotidiano.it",
+        "url": "https://www.bolzanoquotidiano.it"
+      }
+    },
+    {
+      "id": "9679accf030f",
+      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
       "published": "2026-05-01T07:00:00+00:00",
       "source": {
-        "name": "ilbolive.unipd.it",
+        "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
       }
     },
@@ -514,6 +524,16 @@
       }
     },
     {
+      "id": "f16eaf4960fe",
+      "title": "Antibiotico-resistenza, la ricerca dell’Insubria al centro del nuovo podcast di Giovanni Storti - La Prealpina",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTIxcDZpSWlDRmVVX1B5VnA3cE5WRmh1NVp1NnJpcU5laVQ5MzJ2Z1lCd0s0MHdVMG1yWWFkWVNhTmhadEJPNUN6eUduS0hhaTFwUm1uMlNMLURYM0R6dFJ1bDdNU0JMOHdCaDRCMk91THNfalM0UHZNczRSYkRFZzdXSm5EYW85enhaWUp1X1FtT2ZYRC1KQThjamVfRG85THJCdG1CSDUyR3l2NkkzOXVILVhZOUwxZjNKMFhyVkhaZTZrTGFxV0g3aGZNZ3RDSVpfUVEwaG9Ldw?oc=5",
+      "published": "2026-08-05T09:32:52+00:00",
+      "source": {
+        "name": "La Prealpina",
+        "url": "https://www.prealpina.it"
+      }
+    },
+    {
       "id": "94efa2e1c9cd",
       "title": "Produttori, depositari e grossisti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
@@ -521,6 +541,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "fe396570e044",
+      "title": "Dall'Italia inviati 4.600 flaconi di farmaci plasmaderivati a Nablus - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdWTWF1Wjl2bzF4VGYwODd6VmlCZzdZVk8zVVFHTTFLTUZGakpVYjdIcVd1eEhqcXVoOWs1d002QkZpeFc5LWpwMElhbjRpNlQ3V2s2em8tT3Z2LVppcEw1MHh1eU5XRkdmd0x6dzMyYmI5QjRVaUtIS29US1FVUWVVVlo1dzlBWGZHSTFSbUVST2w5SjdYQ0pyMTl0OHEzZmU5LVltUlNaZ2ZCbm9iV1BCMzV3NzlMUHkw?oc=5",
+      "published": "2026-08-05T08:37:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -574,23 +604,13 @@
       }
     },
     {
-      "id": "cb7113ede2da",
-      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
+      "id": "362434dca52c",
+      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
       "published": "2026-07-22T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "87463bcc603e",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -601,6 +621,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "87463bcc603e",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -624,16 +654,6 @@
       }
     },
     {
-      "id": "3cc8cf13c3be",
-      "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
-      }
-    },
-    {
       "id": "b8368e9e437a",
       "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
@@ -641,6 +661,16 @@
       "source": {
         "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
         "url": "https://www.fnopi.it"
+      }
+    },
+    {
+      "id": "3cc8cf13c3be",
+      "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "source": {
+        "name": "TrendSanità",
+        "url": "https://trendsanita.it"
       }
     },
     {
@@ -654,16 +684,6 @@
       }
     },
     {
-      "id": "d605fe165167",
-      "title": "Caritas Gerusalemme: «Bisogni enormi, aiuti insufficienti. Priorità a salute, farmaci e sostegno psicologico - Chiesa di Milano",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEY3Z0lxMUdDc21aaEZmcDJZTUktVUZmdVNmemNaNVhXQ2F2MzcwZHBZY1p4U0s2U2VFY2N3WHFwMlVyeEdzM0xiN1BJOEo2QUtYcm9JZW95OHFRU0ZiRHNJWGdlVUNibDU4VVNjQ2YwVzhsU0FNaEVkcmkxUFROaUhpQlJPVDlRTTZpS0NzbGhsSG00eUJ2ZER6WktRM1EzQmc?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "source": {
-        "name": "Chiesa di Milano",
-        "url": "https://www.chiesadimilano.it"
-      }
-    },
-    {
       "id": "5b722e586768",
       "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - Osservatorio Malattie Rare",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
@@ -671,6 +691,16 @@
       "source": {
         "name": "Osservatorio Malattie Rare",
         "url": "https://www.osservatoriomalattierare.it"
+      }
+    },
+    {
+      "id": "d605fe165167",
+      "title": "Caritas Gerusalemme: «Bisogni enormi, aiuti insufficienti. Priorità a salute, farmaci e sostegno psicologico - Chiesa di Milano",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEY3Z0lxMUdDc21aaEZmcDJZTUktVUZmdVNmemNaNVhXQ2F2MzcwZHBZY1p4U0s2U2VFY2N3WHFwMlVyeEdzM0xiN1BJOEo2QUtYcm9JZW95OHFRU0ZiRHNJWGdlVUNibDU4VVNjQ2YwVzhsU0FNaEVkcmkxUFROaUhpQlJPVDlRTTZpS0NzbGhsSG00eUJ2ZER6WktRM1EzQmc?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "source": {
+        "name": "Chiesa di Milano",
+        "url": "https://www.chiesadimilano.it"
       }
     },
     {
@@ -684,12 +714,12 @@
       }
     },
     {
-      "id": "f320be7b6d06",
-      "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
+      "id": "bb406a92d7f8",
+      "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - innlifes.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
       "published": "2026-04-27T08:55:12+00:00",
       "source": {
-        "name": "INNLIFES",
+        "name": "innlifes.com",
         "url": "https://www.innlifes.com"
       }
     },
@@ -701,16 +731,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "d18191219563",
-      "title": "Sanità in Puglia, dalla 'fase 2' sulle liste d'attesa allo stop alla mobilità passiva: la Regione prepara le misure - BariToday",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm5INkpXT1poZDFuYVNHTXdfUmNpRnFhNEFGekVBdUVBeENMSDBnS0NibXNxZVhTd0g4Vm1ScWdlQmVSbVZSbmthWjBsSTJ1SFFhOTZMV0ptU3NZekE4YV95cndRTHJ2TFI0cjl1Wnh6cEdkMlB5TWZrVUVKaFJVSA?oc=5",
-      "published": "2026-08-03T17:24:00+00:00",
-      "source": {
-        "name": "BariToday",
-        "url": "https://www.baritoday.it"
       }
     },
     {
@@ -744,6 +764,16 @@
       }
     },
     {
+      "id": "d18191219563",
+      "title": "Sanità in Puglia, dalla 'fase 2' sulle liste d'attesa allo stop alla mobilità passiva: la Regione prepara le misure - BariToday",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm5INkpXT1poZDFuYVNHTXdfUmNpRnFhNEFGekVBdUVBeENMSDBnS0NibXNxZVhTd0g4Vm1ScWdlQmVSbVZSbmthWjBsSTJ1SFFhOTZMV0ptU3NZekE4YV95cndRTHJ2TFI0cjl1Wnh6cEdkMlB5TWZrVUVKaFJVSA?oc=5",
+      "published": "2026-08-03T17:24:00+00:00",
+      "source": {
+        "name": "BariToday",
+        "url": "https://www.baritoday.it"
+      }
+    },
+    {
       "id": "016f586fb7cd",
       "title": "\"L'antibiotico si cura\": Arpa Piemonte collabora al progetto contro l’antibiotico-resistenza - arpa.piemonte.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JtRTNPYzRkSU9UVFlRSkR5MXJOemxHRkFyd2VLY2Vqa2N1LUpWRjF4Yjl5c0pGOFFYNUI5ek1VMnU5WkVrUW9nTUtaaWhvYTJYVnRaQW9IeWkwSFJ3NDR4VjBMNnNJMlZ4emQzMi01anNTTUhxUExHeWJwVmkzbWppQmNudTBOZmR0OW8zdjAtN2g2MExXMlJkYTJ3RFNKMjZKMklVMG9rekx4YkMwSnc3VThOSGFZQVQxSWNRTFRkZw?oc=5",
@@ -774,16 +804,6 @@
       }
     },
     {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
-      "published": "2025-12-27T08:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "11f850b6dff3",
       "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5",
@@ -794,13 +814,13 @@
       }
     },
     {
-      "id": "bec037c34006",
-      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
-      "published": "2026-04-07T07:00:00+00:00",
+      "id": "dd4630529884",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
+      "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "Farmacia News",
-        "url": "https://www.farmacianews.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -814,6 +834,16 @@
       }
     },
     {
+      "id": "bec037c34006",
+      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
+      }
+    },
+    {
       "id": "942a4806bcb1",
       "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
@@ -824,33 +854,23 @@
       }
     },
     {
-      "id": "04461c981524",
-      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - ilsole24ore.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
-      "published": "2026-06-22T07:00:00+00:00",
-      "source": {
-        "name": "ilsole24ore.com",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "88ab19015ef8",
-      "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
+      "id": "e6ee263ba18a",
+      "title": "Farmaco e geopolitica: come cambia il potere globale della salute - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "3678042890d7",
-      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
+      "id": "614136e34f2e",
+      "title": "Guerra e carenza di farmaci. Bassetti: “Effetti rischiano di essere devastanti per la nostra salute\" - RaiNews",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOekdRTV8tMGNEMjhsMlhuSnB0Wk1Wa3dwbk1FQ20tZEcyZDllNXctU1QtLUNOM00tdm1TY2VRRlE3ckZTUTJXcHllM3pDaTdiTE9TNV9DWm9qd2FSZUtjX1pUSk5qUE9LOW5YTDdrSDhBb0JHajZNZ0liN2tNNFdacDVVSWxYVTNOWURXUTVPcllKbXJKSFROaTRWSDFGU3Ata214OFpSWklEaVVGdXhzOVlEcHAyMjAwZ0pLV2tmQkJkcjBfRUJ5dHlqZU9lS0FudlljTl9zSkd2RDM1bEtqcWlwaEhHTWRBd1dhekd5Rk4tNlhlRGhoRjBSeHlETjkxeFJQT0ZB0gGLAkFVX3lxTE45YmpwNFFjanltaUVYcmVmeFJENDNnTFd1dkJTd0FwZGFFVHpuay1aS0NpM2ZRNl9nWlFaTlVHUXpPd2p4eTc4QW1sOTdQTldxc3BKUFpMM1VyX3dWdkFianEzbUZJUFVPOENzaE1kNHF5RFMzb3hrTUhUQS10bG5xeUhfZG5ZYkJRbEFseHdzNjhUYjRaR0NtRHlhb0I3THNlQ1oyaW11YTdxbnhvdDliT1pVQUdfZU9xTDdTMnlKRGI3dnZTdUVnZUhMNFlBSTVhRFpsUk4wT1FzUXdvLUczSlNwMlJSWjZqc25IbzBQeTMwYWtIWGVxQ2pEM2FCUGNkRlZzbUlXWkxoVQ?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
+        "name": "RaiNews",
+        "url": "https://www.rainews.it"
       }
     },
     {
@@ -874,13 +894,13 @@
       }
     },
     {
-      "id": "614136e34f2e",
-      "title": "Guerra e carenza di farmaci. Bassetti: “Effetti rischiano di essere devastanti per la nostra salute\" - RaiNews",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOekdRTV8tMGNEMjhsMlhuSnB0Wk1Wa3dwbk1FQ20tZEcyZDllNXctU1QtLUNOM00tdm1TY2VRRlE3ckZTUTJXcHllM3pDaTdiTE9TNV9DWm9qd2FSZUtjX1pUSk5qUE9LOW5YTDdrSDhBb0JHajZNZ0liN2tNNFdacDVVSWxYVTNOWURXUTVPcllKbXJKSFROaTRWSDFGU3Ata214OFpSWklEaVVGdXhzOVlEcHAyMjAwZ0pLV2tmQkJkcjBfRUJ5dHlqZU9lS0FudlljTl9zSkd2RDM1bEtqcWlwaEhHTWRBd1dhekd5Rk4tNlhlRGhoRjBSeHlETjkxeFJQT0ZB0gGLAkFVX3lxTE45YmpwNFFjanltaUVYcmVmeFJENDNnTFd1dkJTd0FwZGFFVHpuay1aS0NpM2ZRNl9nWlFaTlVHUXpPd2p4eTc4QW1sOTdQTldxc3BKUFpMM1VyX3dWdkFianEzbUZJUFVPOENzaE1kNHF5RFMzb3hrTUhUQS10bG5xeUhfZG5ZYkJRbEFseHdzNjhUYjRaR0NtRHlhb0I3THNlQ1oyaW11YTdxbnhvdDliT1pVQUdfZU9xTDdTMnlKRGI3dnZTdUVnZUhMNFlBSTVhRFpsUk4wT1FzUXdvLUczSlNwMlJSWjZqc25IbzBQeTMwYWtIWGVxQ2pEM2FCUGNkRlZzbUlXWkxoVQ?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
+      "id": "3678042890d7",
+      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -901,6 +921,26 @@
       "source": {
         "name": "Il Fatto Quotidiano",
         "url": "https://www.ilfattoquotidiano.it"
+      }
+    },
+    {
+      "id": "b6dcf5c98b7a",
+      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "ab19fd677c94",
+      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "Doctor33",
+        "url": "https://www.doctor33.it"
       }
     },
     {
@@ -934,16 +974,6 @@
       }
     },
     {
-      "id": "ab19fd677c94",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "Doctor33",
-        "url": "https://www.doctor33.it"
-      }
-    },
-    {
       "id": "858a540d6cdd",
       "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1V6VElJZ2FIdlM5RERXeUVSanNUZXgwVXg2VmJhZkhHWUl1czlMdGdsQXcxR2Zsc0IxUXdVbXZVMlpXeXNSeGJ4Ym4zRHNuNU4yYUpwUGhlbi1FN0VvSHlfdkUzMy1MMVIzaUxJa1VZbDdLSVVDZVhhRmFPRU9DNzFzYmM2ZGw0VmJr?oc=5",
@@ -954,12 +984,12 @@
       }
     },
     {
-      "id": "f0220d502d7f",
-      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - ilsole24ore.com",
+      "id": "d3b6f8d20180",
+      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
       "published": "2026-05-13T07:00:00+00:00",
       "source": {
-        "name": "ilsole24ore.com",
+        "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
       }
     },
@@ -971,36 +1001,6 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
-      }
-    },
-    {
-      "id": "5bc3ad3a9669",
-      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "254b4cf02a52",
-      "title": "Farmacia hub: metamorfosi della salute tra prossimità, sfide professionali e sostenibilità - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWUl5eVdMVEpoRm0xLWJBQ3EydjB5dlJrOWF2X2U4YzdqcXBfUjdKcVdvUi0zMkM3WFprN0Q4QWYyYnFHTkFjUS1RWGVqdUVZWmFsQWdoZFZpaDA5?oc=5",
-      "published": "2026-04-02T07:00:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "33d1e98ab8aa",
-      "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
-      "published": "2025-12-23T08:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     }
   ]
