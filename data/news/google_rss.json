@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T08:29:32.851391+00:00",
+  "fetched_at": "2026-08-09T09:28:15.470318+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -44,12 +44,12 @@
       }
     },
     {
-      "id": "23eab7ed1f3a",
-      "title": "Contraccettivi, allerta Aifa: «Aumentano il rischio di tumore al cervello». Ecco quali farmaci sono coinvolti. Il messaggio ai medici - Il Messaggero",
+      "id": "7ae48c8e7276",
+      "title": "Contraccettivi, allerta Aifa: «Aumentano il rischio di tumore al cervello». Ecco quali farmaci sono coinvolti. Il messaggio ai medici - ilmessaggero.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3pNYjlPbVpEN2NpQ2xmOWMxeGp5XzFHZDFiTHJiaG9kT21idXAxSmRtTFhPNHNEOXNtSDRhemgzVVc1RWZZcEdqUy1Ga245aVJuRDIycEtUY0dCeVJBUUJzWTJuVDJVNjhxR2FZMVNmbkhjVjJkRy1PbDY3TXVRSlBrNHdBcVlNeWdoNGJ3T1dBSlR3c0Y3aHMyaWRiZ9IBmwFBVV95cUxQYldKOS1JbjFrdk11SkNqcTRnWGUzcjQxYkZBS1hGOEhvUXNZcW56dEQ1SXhVV19VWjJ0blJyRVU5alctQ3I1WFVFYnlqSDh1N29GRloyLVZmTVV0cWkwN1lJWUpiV3M2OE1ZaXdhLUNWa1E5UU02VnIzbXBGeWhtdmMwSF9xWHEwbFR1Zm9adkY4MFJHNXplaUVrdw?oc=5",
       "published": "2026-08-08T13:39:16+00:00",
       "source": {
-        "name": "Il Messaggero",
+        "name": "ilmessaggero.it",
         "url": "https://www.ilmessaggero.it"
       }
     },
@@ -144,6 +144,16 @@
       }
     },
     {
+      "id": "e3013e6dd9b3",
+      "title": "Rinnovata la sede della farmacia, ora anche prenotazioni Cup - Cronache Maceratesi",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xEbEpYUDdHVGZTT1M5OFQzUlhHVlBpbC12Wmg5MkxZbUYxby1Ka1NkUzhMeTNmM2hxQUpPRnpaTjIyb21ocVFUWHh0YXU0dUdYbzhYYlRZTDl1SFZOd0Q3WFBzQVJMZUs3dHlRT2E2TXFGaTNFRjYtMnRSdDI5akpRU19CZ0xIQktQOU9TNl9kY0p1dGVQSjAycTJCa1NvanhvRXRaOVdZbUd6amhZOW1yZw?oc=5",
+      "published": "2026-08-09T08:27:34+00:00",
+      "source": {
+        "name": "Cronache Maceratesi",
+        "url": "https://www.cronachemaceratesi.it"
+      }
+    },
+    {
       "id": "ef7d661e5f76",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Salute.gov",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -174,12 +184,12 @@
       }
     },
     {
-      "id": "6c9df4a50d66",
-      "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - ilbolive.unipd.it",
+      "id": "c576dacae4e8",
+      "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
       "published": "2026-07-24T07:00:00+00:00",
       "source": {
-        "name": "ilbolive.unipd.it",
+        "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
       }
     },
@@ -208,16 +218,6 @@
       "title": "L’OMS serve. L’Italia partecipi insieme all’Europa - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWg2ZmdacjAtbDA0b1V0V29taFdLbTloVmhWX09GRi00VXprNVJLSnFkdEliWkNsXzdselYzZXFKTm9uWjRDU3FMNEo0T3RrWGF6bENMOXg3bThYbFctcEJDSzEwNkw4OHFXTTFDQnpvdGN2NXhkNkloYV9xX3c4Ny1FQnBNaFdRQkk5X0xxcUF5SnRGMHE2ZnFGazN6Z2Fm?oc=5",
       "published": "2026-08-07T10:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "b53490ad34c7",
-      "title": "Tumore e caldo, l’estate non è vietata: le regole per proteggersi senza rinunciare a tutto - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkZoNnU5c29Vd1NzYVRYRWNzRjRSLVM1TTItMnlYdEJxdjR5TUVrZ3dwcVdnb2d3RVNwVEQwajhlT1ZFSGR6QWNYQzhORVZwdG5KRTlUamp3ajZFMDdaRlpaWDlMeXZqV3lEYmM1am9YOFJEbzEzVmpqUnYtNTlpWmdDUDlrUFltRVVjWFVDRENZWE1nelJ1bVc3VTFKUGhxRS04dlo2NFgzbmlvMnJIZ0JSbXdybFA0T2I3MkxUaUU0QWFrbnloMHU4TkRHRElTYnI4VlM1Ri1wV0ZpVUR2bQ?oc=5",
-      "published": "2026-08-08T13:00:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
@@ -261,6 +261,16 @@
       "source": {
         "name": "careonline.it",
         "url": "https://careonline.it"
+      }
+    },
+    {
+      "id": "b53490ad34c7",
+      "title": "Tumore e caldo, l’estate non è vietata: le regole per proteggersi senza rinunciare a tutto - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkZoNnU5c29Vd1NzYVRYRWNzRjRSLVM1TTItMnlYdEJxdjR5TUVrZ3dwcVdnb2d3RVNwVEQwajhlT1ZFSGR6QWNYQzhORVZwdG5KRTlUamp3ajZFMDdaRlpaWDlMeXZqV3lEYmM1am9YOFJEbzEzVmpqUnYtNTlpWmdDUDlrUFltRVVjWFVDRENZWE1nelJ1bVc3VTFKUGhxRS04dlo2NFgzbmlvMnJIZ0JSbXdybFA0T2I3MkxUaUU0QWFrbnloMHU4TkRHRElTYnI4VlM1Ri1wV0ZpVUR2bQ?oc=5",
+      "published": "2026-08-08T13:00:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -404,16 +414,6 @@
       }
     },
     {
-      "id": "6c9953592ab1",
-      "title": "Contraccettivi, due principi attivi aumentano il rischio di meningioma - lapresse.it",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3NtSXVuMm9DYWFkN1M4MlA4LVdjeDBkekNWNHMzVjdsSUZRRmhCVDBIUmtuLTR6VUVSeVdxNlo3bDdPdkhIYUtnaXZpdUFZaG9UNXdqc2d3ZDdDY082VUMweVpRWU82cy1ETnlzWXVSdUVDbm1kYXNPVFc2RTdUMmQxcmxiVlpPcWVvdDBRYjhUWmtQVEx5RDA1TjNXX3FQVFlkOUQ3b1dyS3lSVEJmdC0tQ3RYT2ROOFhxbw?oc=5",
-      "published": "2026-08-06T16:15:40+00:00",
-      "source": {
-        "name": "lapresse.it",
-        "url": "https://www.lapresse.it"
-      }
-    },
-    {
       "id": "7b8bf905d419",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Salute.gov",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -424,13 +424,13 @@
       }
     },
     {
-      "id": "46f692b09bd2",
-      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
-      "published": "2026-07-28T07:27:29+00:00",
+      "id": "6c9953592ab1",
+      "title": "Contraccettivi, due principi attivi aumentano il rischio di meningioma - lapresse.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3NtSXVuMm9DYWFkN1M4MlA4LVdjeDBkekNWNHMzVjdsSUZRRmhCVDBIUmtuLTR6VUVSeVdxNlo3bDdPdkhIYUtnaXZpdUFZaG9UNXdqc2d3ZDdDY082VUMweVpRWU82cy1ETnlzWXVSdUVDbm1kYXNPVFc2RTdUMmQxcmxiVlpPcWVvdDBRYjhUWmtQVEx5RDA1TjNXX3FQVFlkOUQ3b1dyS3lSVEJmdC0tQ3RYT2ROOFhxbw?oc=5",
+      "published": "2026-08-06T16:15:40+00:00",
       "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
+        "name": "lapresse.it",
+        "url": "https://www.lapresse.it"
       }
     },
     {
@@ -444,6 +444,16 @@
       }
     },
     {
+      "id": "46f692b09bd2",
+      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
+      "published": "2026-07-28T07:27:29+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
       "id": "54de137df225",
       "title": "Farmaci, perché Trump mette in pericolo la nostra salute - repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDJBWGtFUTQyV1NhWEpVQkFpMFRVMWI2X3lpeFdab29YbVNiX19EZFZLRjJVSVNZYXZFYjlQMHdrMVc2S0IxMEhLVUpzaTlkbWdUYmxseXZuLTRZV0dFNVRMejU1a1F1WGoyUFdKREpzR2xUX0hKY1VSVWE3VEtLQnAzUTFfREg2QmVaSm1lSGZhcVlieTVLVDV1WdIBoAFBVV95cUxOQ1MtZWowTENOV2w5bkVqdkJtRUhqc1lQY0VLNmJHYkFTb29lR1E3enN4WTBvbFVZVHM1UVV4bGY4UTVIVFgta1BoVlFpQ182cnBpTWhsMFdfTU5TcksyYkFkeDExTncxbmRFOHJTdkl1QzhGaDBQQlMzbUpzVFFweC1sN2NPR0UtYWlia05LSGJmTk1Jam5jV0g0SDJZS2Rj?oc=5",
@@ -451,16 +461,6 @@
       "source": {
         "name": "repubblica.it",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "37442c0ff0c5",
-      "title": "FARMACI INNOVATIVI, BOOM DELL’85%: SEMPRE PIÙ ITALIANI PAGANO DI TASCA PROPRIA - Sanità Oggi",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmVwME9hWS0tQmVlYW8zekxfYXJ1c1lIMzRrT0dscDNGTHI5OTdudDVJYjM4QThyZnJGOENzS2NydmtmZ0RJa3dLak1DWmRKeE5JcFVVNUJ2YkFMbV9IOUdsX05ETm1TWWcwV0drcXJWdW1JcGdLc2lNRVlVOWkxMFZMXy1KSG82TFNHR0ZtUy1ySUFUYkU2bXVkdG5TQQ?oc=5",
-      "published": "2026-08-08T06:33:45+00:00",
-      "source": {
-        "name": "Sanità Oggi",
-        "url": "https://sanitaoggi.it"
       }
     },
     {
@@ -474,6 +474,16 @@
       }
     },
     {
+      "id": "37442c0ff0c5",
+      "title": "FARMACI INNOVATIVI, BOOM DELL’85%: SEMPRE PIÙ ITALIANI PAGANO DI TASCA PROPRIA - Sanità Oggi",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmVwME9hWS0tQmVlYW8zekxfYXJ1c1lIMzRrT0dscDNGTHI5OTdudDVJYjM4QThyZnJGOENzS2NydmtmZ0RJa3dLak1DWmRKeE5JcFVVNUJ2YkFMbV9IOUdsX05ETm1TWWcwV0drcXJWdW1JcGdLc2lNRVlVOWkxMFZMXy1KSG82TFNHR0ZtUy1ySUFUYkU2bXVkdG5TQQ?oc=5",
+      "published": "2026-08-08T06:33:45+00:00",
+      "source": {
+        "name": "Sanità Oggi",
+        "url": "https://sanitaoggi.it"
+      }
+    },
+    {
       "id": "8cea1e1ee2d0",
       "title": "Via libera dal CdA di AIFA alla rimborsabilità di nuovi farmaci - cronacatorino.it",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbU1LUTdaWDNJSHAxQWVxZjlTMnNObGpSdlotWUlVUGJMMTZfWVNMVWpjcFhlRlMzWmhHdnllWXFnNW1BbGcxOWc2emFlOTJxUnBWTjdiV0JkVzVValFYbjFwZkk4TTVDUFB1ZWU3d0lQaGlEczF0ajdjTjQ3THFuLVp6VmFYWlEzdmR0Q3JtcGdZZw?oc=5",
@@ -484,12 +494,12 @@
       }
     },
     {
-      "id": "53f058d8a9bb",
-      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - ilbolive.unipd.it",
+      "id": "9679accf030f",
+      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
       "published": "2026-05-01T07:00:00+00:00",
       "source": {
-        "name": "ilbolive.unipd.it",
+        "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
       }
     },
@@ -514,16 +524,6 @@
       }
     },
     {
-      "id": "5bcc6012d997",
-      "title": "Molte persone non sono consapevoli dei rischi derivanti da un'assunzione scorretta di magnesio e calcio. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0Z6eHI4WGtxQXpVX1Z1azAwWWFlNk4xejY4aVNBcTlTNjVZNm5VVFdPelFMVVg4Zk1CVVRfUm1idDZqRTZXZGt2V3MzNzhNbmFISS1vN3BEbEdldmRKenIzNmJ2WFpsUTFBbXEzbGJwd3BDRXN2UVV4VDE5TFhUcmY2aTBLaDk0RzJKd0NB?oc=5",
-      "published": "2026-08-09T00:25:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "dcddac3bfc34",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Salute.gov",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -544,12 +544,12 @@
       }
     },
     {
-      "id": "003a952f2096",
-      "title": "Svolta contro la narcolessia, negli Usa la prima cura che agisce sulla causa della malattia - Adnkronos",
+      "id": "c5582694fa69",
+      "title": "Svolta contro la narcolessia, negli Usa la prima cura che agisce sulla causa della malattia - adnkronos.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3pfOE5FdElXczJGcy1aRFJqNVE2R3U5WWdhbUczNkFmTUZsbnh1YlpwZmduYkNLdGJ6MjE5eHFaWWpsUFNlenlpaFprX0pPWUV5RXI5WS13SHRfNDIwdjlKamU2VE90dElnOF9OVHI4YVdhd0YtQ2V0Y2RIWUdZdjJZUkZDWTROa1pBSkVtY3paNXloS1FGV3NaTV9IOS1vSjQxWGFsV2UtNUY3RkwyV3lIZ1JwdGlKM09jMHplMm03cUJCR19iVVh4SGdDdDFGeWg5SEp1VjF0Mm9tQjVJ?oc=5",
       "published": "2026-08-07T12:03:00+00:00",
       "source": {
-        "name": "Adnkronos",
+        "name": "adnkronos.com",
         "url": "https://www.adnkronos.com"
       }
     },
@@ -571,6 +571,16 @@
       "source": {
         "name": "Salute.gov",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "5bcc6012d997",
+      "title": "Molte persone non sono consapevoli dei rischi derivanti da un'assunzione scorretta di magnesio e calcio. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0Z6eHI4WGtxQXpVX1Z1azAwWWFlNk4xejY4aVNBcTlTNjVZNm5VVFdPelFMVVg4Zk1CVVRfUm1idDZqRTZXZGt2V3MzNzhNbmFISS1vN3BEbEdldmRKenIzNmJ2WFpsUTFBbXEzbGJwd3BDRXN2UVV4VDE5TFhUcmY2aTBLaDk0RzJKd0NB?oc=5",
+      "published": "2026-08-09T00:25:11+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -604,16 +614,6 @@
       }
     },
     {
-      "id": "d2a9121143c8",
-      "title": "Ministro della Salute: il 60% dei farmaci utilizzati in Vietnam è prodotto a livello nazionale. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmFBT2RrbHJhYTluZjlYQmNGZ2UwRUIyZlFoX05DelczWXZRbERXX0Q1LWJPdzVoZlBLSGlVVzZNYVJOSjRPcmw4RDd2QnlpSFFlMnlZTDViOXZSRlhHbWhVSTZIbERSSkJRb2xXTVFDbkVOVGZ4cEg0WUxQR0lrZHJvQVhYZVBXUTlaYjlPSmp3RzVweWh6d3FybW82c1BqZUVz?oc=5",
-      "published": "2026-08-07T18:09:15+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "940d1f465dba",
       "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
@@ -624,12 +624,22 @@
       }
     },
     {
-      "id": "b6c22ac34507",
-      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
+      "id": "d2a9121143c8",
+      "title": "Ministro della Salute: il 60% dei farmaci utilizzati in Vietnam è prodotto a livello nazionale. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmFBT2RrbHJhYTluZjlYQmNGZ2UwRUIyZlFoX05DelczWXZRbERXX0Q1LWJPdzVoZlBLSGlVVzZNYVJOSjRPcmw4RDd2QnlpSFFlMnlZTDViOXZSRlhHbWhVSTZIbERSSkJRb2xXTVFDbkVOVGZ4cEg0WUxQR0lrZHJvQVhYZVBXUTlaYjlPSmp3RzVweWh6d3FybW82c1BqZUVz?oc=5",
+      "published": "2026-08-07T18:09:15+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "2485ecab5dd3",
+      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - farmacianews.it",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
       "published": "2026-05-04T07:00:00+00:00",
       "source": {
-        "name": "Farmacia News",
+        "name": "farmacianews.it",
         "url": "https://www.farmacianews.it"
       }
     },
@@ -684,12 +694,12 @@
       }
     },
     {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "id": "27a94a5da2ef",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - fnopi.it",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "name": "fnopi.it",
         "url": "https://www.fnopi.it"
       }
     },
@@ -824,12 +834,12 @@
       }
     },
     {
-      "id": "bec037c34006",
-      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
+      "id": "c444a50b67d2",
+      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - farmacianews.it",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
       "published": "2026-04-07T07:00:00+00:00",
       "source": {
-        "name": "Farmacia News",
+        "name": "farmacianews.it",
         "url": "https://www.farmacianews.it"
       }
     },
@@ -944,22 +954,22 @@
       }
     },
     {
-      "id": "e7adedfcbb86",
-      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
+      "id": "9711f2443845",
+      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - farmacianews.it",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
       "published": "2026-01-16T08:00:00+00:00",
       "source": {
-        "name": "Farmacia News",
+        "name": "farmacianews.it",
         "url": "https://www.farmacianews.it"
       }
     },
     {
-      "id": "34905468568b",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - doctor33.it",
+      "id": "ab19fd677c94",
+      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "doctor33.it",
+        "name": "Doctor33",
         "url": "https://www.doctor33.it"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "7d376a854124",
-      "title": "Uso corretto dei farmaci: a Montalto un incontro pubblico per promuovere consapevolezza e sicurezza - uslsudest.toscana.it",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lYR2ROdldBcnJ6bEFibmRFa2ZXNGlYUjBFZU92NURMZ28tczhMM3VoMzN5Y25GdlNvaEwxUGhybWVxbDViTVQ2d1RSdmFnY0JpdTluQmVUdk13TTBJSjNoR2pvcVp5U3pqbTBpSTNKNUxTT2VaMm9Td2hFVUNEal9UNFozUWt3VG1BNFNUamptaEp0LWo3aW1xalowWTE1Yk1KTkU5LUQ5Ui1ia3oyd2lnRkdJRl9Wc3BnSEJjOWl0SEVXalVUeHVLUmsxemZkVE94WTBPV2dNSVBIdGR4YmlhOA?oc=5",
-      "published": "2026-05-26T07:00:00+00:00",
-      "source": {
-        "name": "uslsudest.toscana.it",
-        "url": "https://www.uslsudest.toscana.it"
       }
     }
   ]
