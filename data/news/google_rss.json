@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T19:23:58.567287+00:00",
+  "fetched_at": "2026-08-09T20:19:22.497680+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,12 +24,12 @@
       }
     },
     {
-      "id": "87b5b8eddfc8",
-      "title": "Non sono farmaci né diete: queste spezie comuni rivoluzionano il tuo corpo - Futura, le média qui explore le monde",
+      "id": "4dc2f31213fe",
+      "title": "Non sono farmaci né diete: queste spezie comuni rivoluzionano il tuo corpo - futura-sciences.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUQ5N0hzaC1Iam5rZDV2WnhNcDdDZ2VCQS1PQlZpa2hLQjRIS0VYY1NJNUJFNDA1akVQaktNMjBKUnlnM1cxd01ITGJ4bVN2MkQtTDdHNlNhYUNuUnJWSm9ZSlVidUlRM0hwTjVpMEhJcXFRWkhrMmZadTd0ajhyalFYeHFtWEZ3RmoxeGw3UzR3TlJIY2JoWnhrMDdGZmM1RXhnR1hnaFlXM0t6V2U2c29JdndqNUxnUF8yNEkwSQ?oc=5",
       "published": "2026-08-07T11:02:35+00:00",
       "source": {
-        "name": "Futura, le média qui explore le monde",
+        "name": "futura-sciences.com",
         "url": "https://www.futura-sciences.com"
       }
     },
@@ -77,7 +77,7 @@
       "id": "7cbdacbd6311",
       "title": "Asst Crema, farmaci e caldo: l’importanza della corretta conservazione per la salute estiva - Cremaoggi",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2dMdzdPLWhHMThaZzZ2bjFiTUFVdWxjY3ZKekNEZldySlBmSU90TTRTakFTWDRaZUlkaW9fdzhObERPZExOdkZLdkpoV25jZThpTS0yX3UwZ1BvRGtSZFp1bk1vWXhkM29TLVJENjRyak1hUk1RS1VmVlZIQlkxNFJWRS1EX0ozdExOYUY4MnFQMGUteTJpZ0RPMzV3N3dFZC1wajdJOXp5VDM4a0NsTUFzRVQzaktxaXp2Z0NYc2xneHc?oc=5",
-      "published": "2026-08-09T04:00:00+00:00",
+      "published": "2026-08-09T15:50:06+00:00",
       "source": {
         "name": "Cremaoggi",
         "url": "https://www.cremaoggi.it"
@@ -184,6 +184,16 @@
       }
     },
     {
+      "id": "8e1167842fc2",
+      "title": "Malattie rare, salute e sostenibilità: online l'Instant Book dedicato alla nuova geopolitica dei farmaci - pharmastar.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXF2UF92TUJ3cW9CSmVZRnpGVlhGTGNEZjhtMzk4RFVpWUVBUmZVYmlMMjExQmpjOTNabTBEaS12NkNjWWhMSVFLZnljdnAxYmxhUlRjU0xHMDZ0UjVocWpqV0ZfcTZrc0JERlBzbVk2YU41WkdheVJKWDFySV9PLUMxNnd2c1dGRllBUTlVQkNZV0FPWkExWlBLNGVfUG5VSzdrQlhDblpHOEN2QW5DaDFGd3locnR5a054eFQ3bDlRYzRZUHhlczlQWXRhSXFHYW42Sw?oc=5",
+      "published": "2026-07-28T21:02:47+00:00",
+      "source": {
+        "name": "pharmastar.it",
+        "url": "https://www.pharmastar.it"
+      }
+    },
+    {
       "id": "d3998398a176",
       "title": "Esami perfetti, salute a rischio? - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUpKMGhIYVF5cjgxbEdGbFVPbWdPVVdJOWxNQWYtbmt6R2FPU2g5VVliMm5YX0RRRHh3bXNNOU8xV3pCcl9qbk1JMGhMYkFMS2VFRk5SV3I2Mjg4V0ExQ0Q4alAzT2NxTUdfM29zcXJuUlJ3TXRfcjhpOWJZV1lGc2tReElsajFialE?oc=5",
@@ -191,16 +201,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "5509e72183af",
-      "title": "\"Ho subito un trapianto di fegato, non ho farmaci e la navetta per Palermo costa 700 euro. Con un'emergenza così potrei finire in ospedale\": lo sfogo di Filippo Laganà, bloccato a Catania - Il Fatto Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUlhNN1lZSUlVT08tOFQ5SGVwMG13OVBWWWdjajBaSmUxU2pURE0wU2Z6XzBZeWlLSWhHNC1fVjNYMnUxR0hNbmI1NjVOdzJFWlRETnlFVjA0NHhkNkNhOWozNGcxQTEyNGREcVdneHk3Z0ttUGdUWEZiZ0hYXzZvZEJaR3FXZEtsX2tPTHpnM2E1UFRDMUUzREdUeGxQSzVHNGZpOHVyUzRpTGFKWEZDd1c2MWNpVHhEd3dqX0x5cjFMZ3U2ZWdwY29iM2FNQmV6UDdjOTRWMGIzV0FVVmNobDdqcUxieERZR0toUl90XzhENjJJaTZyUFZNUHZsa1ptU1VQcHpPelpYb1N2WklzR0xkanVZaEhYYW8xbjRCVldFOFhJX1NidktZQ25EMXNkN3lZdVFJb3pWamlSTWNzMkdSb2N4Nkl0THBBcV9hNGFOczg?oc=5",
-      "published": "2026-08-09T11:48:14+00:00",
-      "source": {
-        "name": "Il Fatto Quotidiano",
-        "url": "https://www.ilfattoquotidiano.it"
       }
     },
     {
@@ -214,6 +214,16 @@
       }
     },
     {
+      "id": "5509e72183af",
+      "title": "\"Ho subito un trapianto di fegato, non ho farmaci e la navetta per Palermo costa 700 euro. Con un'emergenza così potrei finire in ospedale\": lo sfogo di Filippo Laganà, bloccato a Catania - Il Fatto Quotidiano",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOUlhNN1lZSUlVT08tOFQ5SGVwMG13OVBWWWdjajBaSmUxU2pURE0wU2Z6XzBZeWlLSWhHNC1fVjNYMnUxR0hNbmI1NjVOdzJFWlRETnlFVjA0NHhkNkNhOWozNGcxQTEyNGREcVdneHk3Z0ttUGdUWEZiZ0hYXzZvZEJaR3FXZEtsX2tPTHpnM2E1UFRDMUUzREdUeGxQSzVHNGZpOHVyUzRpTGFKWEZDd1c2MWNpVHhEd3dqX0x5cjFMZ3U2ZWdwY29iM2FNQmV6UDdjOTRWMGIzV0FVVmNobDdqcUxieERZR0toUl90XzhENjJJaTZyUFZNUHZsa1ptU1VQcHpPelpYb1N2WklzR0xkanVZaEhYYW8xbjRCVldFOFhJX1NidktZQ25EMXNkN3lZdVFJb3pWamlSTWNzMkdSb2N4Nkl0THBBcV9hNGFOczg?oc=5",
+      "published": "2026-08-09T11:48:14+00:00",
+      "source": {
+        "name": "Il Fatto Quotidiano",
+        "url": "https://www.ilfattoquotidiano.it"
+      }
+    },
+    {
       "id": "cf329b1e8bbf",
       "title": "L’OMS serve. L’Italia partecipi insieme all’Europa - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWg2ZmdacjAtbDA0b1V0V29taFdLbTloVmhWX09GRi00VXprNVJLSnFkdEliWkNsXzdselYzZXFKTm9uWjRDU3FMNEo0T3RrWGF6bENMOXg3bThYbFctcEJDSzEwNkw4OHFXTTFDQnpvdGN2NXhkNkloYV9xX3c4Ny1FQnBNaFdRQkk5X0xxcUF5SnRGMHE2ZnFGazN6Z2Fm?oc=5",
@@ -221,16 +231,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "8e1167842fc2",
-      "title": "Malattie rare, salute e sostenibilità: online l'Instant Book dedicato alla nuova geopolitica dei farmaci - pharmastar.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXF2UF92TUJ3cW9CSmVZRnpGVlhGTGNEZjhtMzk4RFVpWUVBUmZVYmlMMjExQmpjOTNabTBEaS12NkNjWWhMSVFLZnljdnAxYmxhUlRjU0xHMDZ0UjVocWpqV0ZfcTZrc0JERlBzbVk2YU41WkdheVJKWDFySV9PLUMxNnd2c1dGRllBUTlVQkNZV0FPWkExWlBLNGVfUG5VSzdrQlhDblpHOEN2QW5DaDFGd3locnR5a054eFQ3bDlRYzRZUHhlczlQWXRhSXFHYW42Sw?oc=5",
-      "published": "2026-07-28T21:02:47+00:00",
-      "source": {
-        "name": "pharmastar.it",
-        "url": "https://www.pharmastar.it"
       }
     },
     {
@@ -504,12 +504,12 @@
       }
     },
     {
-      "id": "fc512d9e0e9f",
-      "title": "Spesa privata per farmaci anti-obesità cresciuta del 75-85% in un anno - altoadige.it",
+      "id": "f08c0a7ce495",
+      "title": "Spesa privata per farmaci anti-obesità cresciuta del 75-85% in un anno - Alto Adige",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEdZdXcyRGpWR3NERG1nU1dwYTRXa1NqLXZ6WktlM182Y0NfNXh3ek85X1dFcjhqaURod2JJeVJvMmF5WDEzVHlqV3hNUGtlV3dWcHptOUNLN1BiUVNkdmY2d0U4NURvRlJmeGJMcG5peDhVR29Fcm82cUZWSlRnbnotTWFUUFJFV1pDLXQ0TFhvNjJEUXdkQUc1TTQzZnpsQUJJXy1Xc1FPOTJiQXJIcFFzMVlLLVhhb2tmbjg5UQ?oc=5",
       "published": "2026-08-06T10:37:00+00:00",
       "source": {
-        "name": "altoadige.it",
+        "name": "Alto Adige",
         "url": "https://www.altoadige.it"
       }
     },
@@ -534,12 +534,12 @@
       }
     },
     {
-      "id": "e57a2cb28b96",
-      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - regione.sicilia.it",
+      "id": "5d553f95828b",
+      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
       "published": "2026-06-12T07:00:00+00:00",
       "source": {
-        "name": "regione.sicilia.it",
+        "name": "| Regione Siciliana",
         "url": "https://www.regione.sicilia.it"
       }
     },
@@ -574,12 +574,12 @@
       }
     },
     {
-      "id": "003a952f2096",
-      "title": "Svolta contro la narcolessia, negli Usa la prima cura che agisce sulla causa della malattia - Adnkronos",
+      "id": "c5582694fa69",
+      "title": "Svolta contro la narcolessia, negli Usa la prima cura che agisce sulla causa della malattia - adnkronos.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3pfOE5FdElXczJGcy1aRFJqNVE2R3U5WWdhbUczNkFmTUZsbnh1YlpwZmduYkNLdGJ6MjE5eHFaWWpsUFNlenlpaFprX0pPWUV5RXI5WS13SHRfNDIwdjlKamU2VE90dElnOF9OVHI4YVdhd0YtQ2V0Y2RIWUdZdjJZUkZDWTROa1pBSkVtY3paNXloS1FGV3NaTV9IOS1vSjQxWGFsV2UtNUY3RkwyV3lIZ1JwdGlKM09jMHplMm03cUJCR19iVVh4SGdDdDFGeWg5SEp1VjF0Mm9tQjVJ?oc=5",
       "published": "2026-08-07T12:03:00+00:00",
       "source": {
-        "name": "Adnkronos",
+        "name": "adnkronos.com",
         "url": "https://www.adnkronos.com"
       }
     },
@@ -594,16 +594,6 @@
       }
     },
     {
-      "id": "2c6e4c1542a8",
-      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "88ab19015ef8",
       "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
@@ -614,13 +604,13 @@
       }
     },
     {
-      "id": "d2a9121143c8",
-      "title": "Ministro della Salute: il 60% dei farmaci utilizzati in Vietnam è prodotto a livello nazionale. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmFBT2RrbHJhYTluZjlYQmNGZ2UwRUIyZlFoX05DelczWXZRbERXX0Q1LWJPdzVoZlBLSGlVVzZNYVJOSjRPcmw4RDd2QnlpSFFlMnlZTDViOXZSRlhHbWhVSTZIbERSSkJRb2xXTVFDbkVOVGZ4cEg0WUxQR0lrZHJvQVhYZVBXUTlaYjlPSmp3RzVweWh6d3FybW82c1BqZUVz?oc=5",
-      "published": "2026-08-07T18:09:15+00:00",
+      "id": "2c6e4c1542a8",
+      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -631,6 +621,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "d2a9121143c8",
+      "title": "Ministro della Salute: il 60% dei farmaci utilizzati in Vietnam è prodotto a livello nazionale. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmFBT2RrbHJhYTluZjlYQmNGZ2UwRUIyZlFoX05DelczWXZRbERXX0Q1LWJPdzVoZlBLSGlVVzZNYVJOSjRPcmw4RDd2QnlpSFFlMnlZTDViOXZSRlhHbWhVSTZIbERSSkJRb2xXTVFDbkVOVGZ4cEg0WUxQR0lrZHJvQVhYZVBXUTlaYjlPSmp3RzVweWh6d3FybW82c1BqZUVz?oc=5",
+      "published": "2026-08-07T18:09:15+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -724,16 +724,6 @@
       }
     },
     {
-      "id": "9128de78d1cc",
-      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
-      }
-    },
-    {
       "id": "80e8f713ae99",
       "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
@@ -741,6 +731,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "9128de78d1cc",
+      "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "source": {
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -894,12 +894,12 @@
       }
     },
     {
-      "id": "04461c981524",
-      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - ilsole24ore.com",
+      "id": "b6dcf5c98b7a",
+      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "ilsole24ore.com",
+        "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
       }
     },
