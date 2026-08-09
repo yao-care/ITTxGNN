@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T12:27:16.456953+00:00",
+  "fetched_at": "2026-08-09T13:40:28.736869+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,12 +54,12 @@
       }
     },
     {
-      "id": "225bfecf9f69",
-      "title": "Farmaci antidiabetici in crescita: nel 2025 la spesa ha superato 1,5 miliardi di euro - italiaatavola.net",
+      "id": "0fb30f6c911b",
+      "title": "Farmaci antidiabetici in crescita: nel 2025 la spesa ha superato 1,5 miliardi di euro - Italia a Tavola",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmoyVnRfYmFNRjk5SmlGMGlIWXI2bklIS2ZYWFdmVFRlLWF6bm4xMWt3V3hUaVo2NTVMdURrYm4xVXA0MVk5VVA2b0xYcWhjQ1B0RzFKVjdGWlB5V1dHcHBvWVRoSy1IRndGQjhxTkx2RU5lS0hPanAzcGpzLWM3T3BIVlRSUU0tR0p4amZnWVI4RDg3bk55aUFrRG1YN19zekZ6ZjZOdER3VnNjRkRtUDU2WnZUTEhHbFQxS0RjcUhoaFliUjN2cA?oc=5",
       "published": "2026-08-06T17:21:50+00:00",
       "source": {
-        "name": "italiaatavola.net",
+        "name": "Italia a Tavola",
         "url": "https://www.italiaatavola.net"
       }
     },
@@ -77,7 +77,7 @@
       "id": "7cbdacbd6311",
       "title": "Asst Crema, farmaci e caldo: l’importanza della corretta conservazione per la salute estiva - Cremaoggi",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2dMdzdPLWhHMThaZzZ2bjFiTUFVdWxjY3ZKekNEZldySlBmSU90TTRTakFTWDRaZUlkaW9fdzhObERPZExOdkZLdkpoV25jZThpTS0yX3UwZ1BvRGtSZFp1bk1vWXhkM29TLVJENjRyak1hUk1RS1VmVlZIQlkxNFJWRS1EX0ozdExOYUY4MnFQMGUteTJpZ0RPMzV3N3dFZC1wajdJOXp5VDM4a0NsTUFzRVQzaktxaXp2Z0NYc2xneHc?oc=5",
-      "published": "2026-08-09T07:31:38+00:00",
+      "published": "2026-08-09T04:00:00+00:00",
       "source": {
         "name": "Cremaoggi",
         "url": "https://www.cremaoggi.it"
@@ -174,16 +174,6 @@
       }
     },
     {
-      "id": "e3013e6dd9b3",
-      "title": "Rinnovata la sede della farmacia, ora anche prenotazioni Cup - Cronache Maceratesi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xEbEpYUDdHVGZTT1M5OFQzUlhHVlBpbC12Wmg5MkxZbUYxby1Ka1NkUzhMeTNmM2hxQUpPRnpaTjIyb21ocVFUWHh0YXU0dUdYbzhYYlRZTDl1SFZOd0Q3WFBzQVJMZUs3dHlRT2E2TXFGaTNFRjYtMnRSdDI5akpRU19CZ0xIQktQOU9TNl9kY0p1dGVQSjAycTJCa1NvanhvRXRaOVdZbUd6amhZOW1yZw?oc=5",
-      "published": "2026-08-09T08:27:34+00:00",
-      "source": {
-        "name": "Cronache Maceratesi",
-        "url": "https://www.cronachemaceratesi.it"
-      }
-    },
-    {
       "id": "c576dacae4e8",
       "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
@@ -191,6 +181,16 @@
       "source": {
         "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
+      }
+    },
+    {
+      "id": "e3013e6dd9b3",
+      "title": "Rinnovata la sede della farmacia, ora anche prenotazioni Cup - Cronache Maceratesi",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xEbEpYUDdHVGZTT1M5OFQzUlhHVlBpbC12Wmg5MkxZbUYxby1Ka1NkUzhMeTNmM2hxQUpPRnpaTjIyb21ocVFUWHh0YXU0dUdYbzhYYlRZTDl1SFZOd0Q3WFBzQVJMZUs3dHlRT2E2TXFGaTNFRjYtMnRSdDI5akpRU19CZ0xIQktQOU9TNl9kY0p1dGVQSjAycTJCa1NvanhvRXRaOVdZbUd6amhZOW1yZw?oc=5",
+      "published": "2026-08-09T08:27:34+00:00",
+      "source": {
+        "name": "Cronache Maceratesi",
+        "url": "https://www.cronachemaceratesi.it"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "58dbac37fc15",
-      "title": "Spesa farmaceutica: +6% in un anno, in Italia sale a 39 miliardi di euro - Qui Salute Magazine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vN0tadlI2YlJqLXZ4WG5PVFVIcGd3bTdpUmFDS2pCeGI3R0RaVDRZSTFWZkJuYlRWelFFZ0w5ZmRON0pkRWVWUlRrT0ZmYy14eVhmTHFUUGRwdVpOSG9rdHRMSDNqQ2J0M01xQy1WNA?oc=5",
-      "published": "2026-08-07T10:10:00+00:00",
-      "source": {
-        "name": "Qui Salute Magazine",
-        "url": "https://quisalute.online"
-      }
-    },
-    {
       "id": "c124dd2dca81",
       "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "58dbac37fc15",
+      "title": "Spesa farmaceutica: +6% in un anno, in Italia sale a 39 miliardi di euro - Qui Salute Magazine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vN0tadlI2YlJqLXZ4WG5PVFVIcGd3bTdpUmFDS2pCeGI3R0RaVDRZSTFWZkJuYlRWelFFZ0w5ZmRON0pkRWVWUlRrT0ZmYy14eVhmTHFUUGRwdVpOSG9rdHRMSDNqQ2J0M01xQy1WNA?oc=5",
+      "published": "2026-08-07T10:10:00+00:00",
+      "source": {
+        "name": "Qui Salute Magazine",
+        "url": "https://quisalute.online"
       }
     },
     {
@@ -324,6 +324,16 @@
       }
     },
     {
+      "id": "2e83aa3d32af",
+      "title": "Farmaci introvabili, piani terapeutici e distribuzione diretta: nel Rapporto PIT Salute cresce l’allarme sull’assistenza farmaceutica - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0d6cmY5SXNwYzZrMF9wNjhXcVU1OWZVNEJrOWZWWG8taVVOVmpXVEE2WExoUFBObHFWaFRNbW9PWnJSOWNCb2UtM3FNalA1V255UVNleFJJRWlGNlJSUmZ4akV5UkxRaTU1ZkFfOVplem1KWXVfQ1BDMWo1WHFqWWxjZENMeWllbHc?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
       "id": "01e1ad547864",
       "title": "«La pillola» e il tumore al cervello: quali sono davvero i rischi per le donne che la usano - panorama.it",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYU9LNU16c0tnTGtzSFNvNDZrR0RzcHhxS3VuckpyQUJFcndTVkMwdklxb2J4TkdBdVZyZTB6ZnlndVRVQm9VSDB0aGhjZ2lLWlNWVnZLSElDSlpPckFkZHM5VHRiMXFNZEwtYWhiY0NOMGJ2WUo0TGo5LVBFMEpncE1ES0tuTnRUaW9VQm9vYkZSMmxISXNwWHZqRWh3dHdGSnBQZk5XcHVoV2dRWXpoRVlQcFNIcVhld0JBaEdQOGY4Nl9neTktTQ?oc=5",
@@ -344,13 +354,13 @@
       }
     },
     {
-      "id": "2e83aa3d32af",
-      "title": "Farmaci introvabili, piani terapeutici e distribuzione diretta: nel Rapporto PIT Salute cresce l’allarme sull’assistenza farmaceutica - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0d6cmY5SXNwYzZrMF9wNjhXcVU1OWZVNEJrOWZWWG8taVVOVmpXVEE2WExoUFBObHFWaFRNbW9PWnJSOWNCb2UtM3FNalA1V255UVNleFJJRWlGNlJSUmZ4akV5UkxRaTU1ZkFfOVplem1KWXVfQ1BDMWo1WHFqWWxjZENMeWllbHc?oc=5",
-      "published": "2026-06-11T07:00:00+00:00",
+      "id": "af44ae20e3e2",
+      "title": "Farmaci equivalenti: il 22 giugno la conferenza conclusiva di IoEquivalgo - cittadinanzattiva.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVZRZ05BRkt1cG1SLU9XdGg0YXJaZWtlRktmTkVyRU4yMVVLVnJuWnVtYjNRM3Q1NWRyTjRvSEJhZVlJd2dYdnJvQXEyU3pqR1pnNk9GNFpFb1NPalhJT1FvR01pZDgxV3VzdTJ0R0ZzZEJDMFBrVUc1MkktUFlvbXZTRlBrSGV4SU5GN0hjNUU3czVqUTlBQWdDNktoVmUtaWhXNDMxd0ZpVWhvUE1GOEZzZnptcXl4OWdicFBDLVJXbDVBekE?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
       "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
+        "name": "cittadinanzattiva.it",
+        "url": "https://www.cittadinanzattiva.it"
       }
     },
     {
@@ -361,16 +371,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "af44ae20e3e2",
-      "title": "Farmaci equivalenti: il 22 giugno la conferenza conclusiva di IoEquivalgo - cittadinanzattiva.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVZRZ05BRkt1cG1SLU9XdGg0YXJaZWtlRktmTkVyRU4yMVVLVnJuWnVtYjNRM3Q1NWRyTjRvSEJhZVlJd2dYdnJvQXEyU3pqR1pnNk9GNFpFb1NPalhJT1FvR01pZDgxV3VzdTJ0R0ZzZEJDMFBrVUc1MkktUFlvbXZTRlBrSGV4SU5GN0hjNUU3czVqUTlBQWdDNktoVmUtaWhXNDMxd0ZpVWhvUE1GOEZzZnptcXl4OWdicFBDLVJXbDVBekE?oc=5",
-      "published": "2026-06-17T07:00:00+00:00",
-      "source": {
-        "name": "cittadinanzattiva.it",
-        "url": "https://www.cittadinanzattiva.it"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "b53490ad34c7",
-      "title": "Tumore e caldo, l’estate non è vietata: le regole per proteggersi senza rinunciare a tutto - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkZoNnU5c29Vd1NzYVRYRWNzRjRSLVM1TTItMnlYdEJxdjR5TUVrZ3dwcVdnb2d3RVNwVEQwajhlT1ZFSGR6QWNYQzhORVZwdG5KRTlUamp3ajZFMDdaRlpaWDlMeXZqV3lEYmM1am9YOFJEbzEzVmpqUnYtNTlpWmdDUDlrUFltRVVjWFVDRENZWE1nelJ1bVc3VTFKUGhxRS04dlo2NFgzbmlvMnJIZ0JSbXdybFA0T2I3MkxUaUU0QWFrbnloMHU4TkRHRElTYnI4VlM1Ri1wV0ZpVUR2bQ?oc=5",
-      "published": "2026-08-08T13:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "e87a6402a463",
       "title": "Farmaci, perché Trump mette in pericolo la nostra salute - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDJBWGtFUTQyV1NhWEpVQkFpMFRVMWI2X3lpeFdab29YbVNiX19EZFZLRjJVSVNZYXZFYjlQMHdrMVc2S0IxMEhLVUpzaTlkbWdUYmxseXZuLTRZV0dFNVRMejU1a1F1WGoyUFdKREpzR2xUX0hKY1VSVWE3VEtLQnAzUTFfREg2QmVaSm1lSGZhcVlieTVLVDV1WdIBoAFBVV95cUxOQ1MtZWowTENOV2w5bkVqdkJtRUhqc1lQY0VLNmJHYkFTb29lR1E3enN4WTBvbFVZVHM1UVV4bGY4UTVIVFgta1BoVlFpQ182cnBpTWhsMFdfTU5TcksyYkFkeDExTncxbmRFOHJTdkl1QzhGaDBQQlMzbUpzVFFweC1sN2NPR0UtYWlia05LSGJmTk1Jam5jV0g0SDJZS2Rj?oc=5",
@@ -484,6 +474,16 @@
       }
     },
     {
+      "id": "9679accf030f",
+      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "source": {
+        "name": "Il Bo Live",
+        "url": "https://ilbolive.unipd.it"
+      }
+    },
+    {
       "id": "37442c0ff0c5",
       "title": "FARMACI INNOVATIVI, BOOM DELL’85%: SEMPRE PIÙ ITALIANI PAGANO DI TASCA PROPRIA - Sanità Oggi",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmVwME9hWS0tQmVlYW8zekxfYXJ1c1lIMzRrT0dscDNGTHI5OTdudDVJYjM4QThyZnJGOENzS2NydmtmZ0RJa3dLak1DWmRKeE5JcFVVNUJ2YkFMbV9IOUdsX05ETm1TWWcwV0drcXJWdW1JcGdLc2lNRVlVOWkxMFZMXy1KSG82TFNHR0ZtUy1ySUFUYkU2bXVkdG5TQQ?oc=5",
@@ -494,13 +494,13 @@
       }
     },
     {
-      "id": "9679accf030f",
-      "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
-      "published": "2026-05-01T07:00:00+00:00",
+      "id": "b53490ad34c7",
+      "title": "Tumore e caldo, l’estate non è vietata: le regole per proteggersi senza rinunciare a tutto - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkZoNnU5c29Vd1NzYVRYRWNzRjRSLVM1TTItMnlYdEJxdjR5TUVrZ3dwcVdnb2d3RVNwVEQwajhlT1ZFSGR6QWNYQzhORVZwdG5KRTlUamp3ajZFMDdaRlpaWDlMeXZqV3lEYmM1am9YOFJEbzEzVmpqUnYtNTlpWmdDUDlrUFltRVVjWFVDRENZWE1nelJ1bVc3VTFKUGhxRS04dlo2NFgzbmlvMnJIZ0JSbXdybFA0T2I3MkxUaUU0QWFrbnloMHU4TkRHRElTYnI4VlM1Ri1wV0ZpVUR2bQ?oc=5",
+      "published": "2026-08-08T13:00:00+00:00",
       "source": {
-        "name": "Il Bo Live",
-        "url": "https://ilbolive.unipd.it"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -604,12 +604,12 @@
       }
     },
     {
-      "id": "2485ecab5dd3",
-      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - farmacianews.it",
+      "id": "b6c22ac34507",
+      "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
       "published": "2026-05-04T07:00:00+00:00",
       "source": {
-        "name": "farmacianews.it",
+        "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
       }
     },
@@ -704,16 +704,6 @@
       }
     },
     {
-      "id": "5bcc6012d997",
-      "title": "Molte persone non sono consapevoli dei rischi derivanti da un'assunzione scorretta di magnesio e calcio. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0Z6eHI4WGtxQXpVX1Z1azAwWWFlNk4xejY4aVNBcTlTNjVZNm5VVFdPelFMVVg4Zk1CVVRfUm1idDZqRTZXZGt2V3MzNzhNbmFISS1vN3BEbEdldmRKenIzNmJ2WFpsUTFBbXEzbGJwd3BDRXN2UVV4VDE5TFhUcmY2aTBLaDk0RzJKd0NB?oc=5",
-      "published": "2026-08-09T00:25:11+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -731,6 +721,16 @@
       "source": {
         "name": "FoggiaToday - cronaca e notizie da Foggia",
         "url": "https://www.foggiatoday.it"
+      }
+    },
+    {
+      "id": "5bcc6012d997",
+      "title": "Molte persone non sono consapevoli dei rischi derivanti da un'assunzione scorretta di magnesio e calcio. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0Z6eHI4WGtxQXpVX1Z1azAwWWFlNk4xejY4aVNBcTlTNjVZNm5VVFdPelFMVVg4Zk1CVVRfUm1idDZqRTZXZGt2V3MzNzhNbmFISS1vN3BEbEdldmRKenIzNmJ2WFpsUTFBbXEzbGJwd3BDRXN2UVV4VDE5TFhUcmY2aTBLaDk0RzJKd0NB?oc=5",
+      "published": "2026-08-09T00:25:11+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -784,12 +784,12 @@
       }
     },
     {
-      "id": "0465b8b73521",
-      "title": "I farmaci possono diventare pericolosi con il caldo? Le raccomandazioni degli esperti - La Gazzetta dello Sport",
+      "id": "0f77911f69c8",
+      "title": "I farmaci possono diventare pericolosi con il caldo? Le raccomandazioni degli esperti - gazzetta.it",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM24zUE40V3p5TFdpWlV4V0hCT1RjMG9BR2ZqOHlTaUdHWHJIU1lXS1FUNkIyUTFNT2RsSG1BZlAxUEJtelZQQ2FENTVJamdteHlUOHFrdm1BQ3RSdUFXNjIzSWlkVzRhbFQyT0M1LWEyWGJfYks5YWVMMFV2R3Q1RVhGVWdrLUlKNC1ZVmNEcEotM3VLTTlTM1ZwSVRhS1lKSG5nZjVhODhTWjlrcXQ5S0Q1VdIBuAFBVV95cUxQZk84alFscFRuX0Q3ZG94VjJqQTBTSll0SjE2Q2NsVHZMeDNOSUp6cHpFUDdUbVdvbHo1dE5TZDJVRHF6TEZEc05ZbHNkQVRzVGhua0xoWFczSHNtbVJ4MHBpRkREWS04NTlHUWtta0E1c3VJaXpoZVFxMldDNW0zbnZUelM3Z204ZlhnWFhWSGkwOTRwWC1mTkRYMTBtYklYYWlLV2dybTBkRDNBTHp3cVBzbGp2a0U2?oc=5",
       "published": "2026-07-27T13:31:28+00:00",
       "source": {
-        "name": "La Gazzetta dello Sport",
+        "name": "gazzetta.it",
         "url": "https://www.gazzetta.it"
       }
     },
@@ -834,12 +834,12 @@
       }
     },
     {
-      "id": "c444a50b67d2",
-      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - farmacianews.it",
+      "id": "bec037c34006",
+      "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
       "published": "2026-04-07T07:00:00+00:00",
       "source": {
-        "name": "farmacianews.it",
+        "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
       }
     },
@@ -854,12 +854,12 @@
       }
     },
     {
-      "id": "1eacc38b53e9",
-      "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
+      "id": "10f7809e93f7",
+      "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - medicoepaziente.it",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Medico e paziente",
+        "name": "medicoepaziente.it",
         "url": "https://medicoepaziente.it"
       }
     },
@@ -904,12 +904,12 @@
       }
     },
     {
-      "id": "b6dcf5c98b7a",
-      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
+      "id": "04461c981524",
+      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - ilsole24ore.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
+        "name": "ilsole24ore.com",
         "url": "https://www.ilsole24ore.com"
       }
     },
@@ -954,12 +954,12 @@
       }
     },
     {
-      "id": "9711f2443845",
-      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - farmacianews.it",
+      "id": "e7adedfcbb86",
+      "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
       "published": "2026-01-16T08:00:00+00:00",
       "source": {
-        "name": "farmacianews.it",
+        "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
       }
     },
