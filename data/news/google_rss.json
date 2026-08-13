@@ -1,8 +1,18 @@
 {
-  "fetched_at": "2026-08-13T20:29:45.616501+00:00",
+  "fetched_at": "2026-08-13T21:33:45.069524+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
+    {
+      "id": "68423959a7d8",
+      "title": "Addio alla chirurgia per la malattia degli occhi e della tiroide: a Milano somministrato il nuovo farmaco al primo paziente - MilanoToday",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eGs1TXBESFNTNlc5VGVZRnJaLUtncVB5anNmX1VoUTkzcWRXckZNYmNxR05qWmJoeVk4ZnowWGtUQ0RHaUo0UUhESWotemZBdFZTWmxmUUh3SndEYmxUajBhMFo2NTkzX0EwTThGTmtHMEF4?oc=5",
+      "published": "2026-08-11T09:28:25+00:00",
+      "source": {
+        "name": "MilanoToday",
+        "url": "https://www.milanotoday.it"
+      }
+    },
     {
       "id": "fcd462eed61a",
       "title": "Farmaci per contrastare il sovrappeso, l'allarme degli esperti: \"Da evitare l'utilizzo fuori da un adeguato percorso\" - Gazzetta di Parma",
@@ -14,13 +24,53 @@
       }
     },
     {
-      "id": "e1492defbfd7",
-      "title": "Obesità e sovrappeso, l’allerta degli esperti sul “fai-da-te” con i farmaci. L’endocrinologa Dei Cas: “Evitare assolutamente l’utilizzo di terapie farmacologiche senza l’inserimento in un adeguato percorso”. E la specialista Pettoruti: “Stile di vita sano è fondament - ausl.pr.it",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGRLMEc1eDF3czMta1pkVzFCR1BTTEdSOXJGaGZJaElNSWgtcklsTHJzYWkydFFEN1RveFF4bm1iTVlMb1BGM29ua0RTZnBWZmNSdlFHbFF1dFppMkNKdjNrS1QzS2JzbTNLbEUta1JmOHFQVGlyME9SMDY2blBBQUpRVHQ1NE9YVDFUS2FhOW5FMUY5NWZ5SU1PYk5yNG5TVURaNmhUUFBNYlFU?oc=5",
-      "published": "2026-08-13T16:50:22+00:00",
+      "id": "3827758ce7a4",
+      "title": "Come gestire i farmaci d'estate? Quali terapie sono più a rischio - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC0yUzlRWnpVSnpNTW9JY0Z4cTJTTFpxQWVCVDM5dHpSRkZhSk1hRDZuQ3FXQ0VmM2lRVFlkRV9wX1BWWWh1NVZQcHEya1J6ZTZDUEpDR3BmTUU0THhOTjNVdlNQY1p2TzFnVFBSRk1ya2stZTNudUNyMVlKQ2xZN3BES3hzUkp6aWVLSTBMT05BdEFreTh4QU1oTV9XU0lnSE9OeDJyOTFlSW1uZ19rcWFlOFHSAboBQVVfeXFMTW54aVBNeEdUQ084SEY3SnM1Vi1XWXg2b3Fnc2hhTFFOdXc3aUp6TzBFY1hNa2FMMUpQQXdVdDE0bmo5S2Y4ZG5rTlB4RmVBb2o0eW83aUtkTzVtLWV1WEtKUlZvNVQweVZoeG02WlYxaTZYZHhOVmx0RmZlT005TThnWUljWThPZV82Ui1SZlpRSUI2ZWhhUTdhUWZGa2VaUHpfMmYxMEMzRVQxTzAzeGdhSExYNm05T1JB?oc=5",
+      "published": "2026-08-12T05:16:00+00:00",
       "source": {
-        "name": "ausl.pr.it",
-        "url": "https://www.ausl.pr.it"
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "a00bce9c3e75",
+      "title": "Caldo e farmaci, ecco come conservali e quali sono più a rischio con le alte temperature - adnkronos.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNE1Od1VfRmYtSXg4cUx6a2RCclBPZl9JNndZUTVyM0twSWZ2a3lySWRrQ0t4NGs0NGw4a3ZKZ3dCM0F6TklLSWcxcjE1RkNJSm1kekkxV29sRDBIa3NWdnRvUXNKUFloRFFYQ2ViTUx4NGx2SFk4MFo4SjlmNlpRVGROLXNKYjlQVF8xam9QbnJFdVJlRXNBZEFjeVJhWlR0dFNEM1llOUctWUhVaUptQmU4Nzdkbmpya0NQYlVJY0R6UWc?oc=5",
+      "published": "2026-08-12T22:19:00+00:00",
+      "source": {
+        "name": "adnkronos.com",
+        "url": "https://www.adnkronos.com"
+      }
+    },
+    {
+      "id": "578cae253ef0",
+      "title": "Farmaci in estate: ecco come conservarli a prova di caldo - iO Donna",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmxyOEFtOUZJeEZxdC1Fd0VaeTBOSVlLWElIMVFUenpMdjZvWk5Ka0tLUF85bURjTS1Pemhxdlc2MGtFYkRfZ1V5aVBGRHVyTElQWmQ3aG9wUHRWQk9meVk1LVVkR0xrdmtsVjVtdGdRd2ZfczF2Q0huNVNzNV9YNFppYnhpdWdxeDZoaWRkdkI3cGQySWstWGg1dy16dlNMMFdmcUp4ZkNJNTUxVzMwOGU5YW5yR3BsdlhrODNCRjczUy1NLVlvZW1CeDVKNC1xemtnRGp0dUtCdmc?oc=5",
+      "published": "2026-08-12T06:29:13+00:00",
+      "source": {
+        "name": "iO Donna",
+        "url": "https://www.iodonna.it"
+      }
+    },
+    {
+      "id": "9a35e14f67ea",
+      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
+      "published": "2026-08-11T10:00:04+00:00",
+      "source": {
+        "name": "Il Giorno",
+        "url": "https://www.ilgiorno.it"
+      }
+    },
+    {
+      "id": "9cdd03d977de",
+      "title": "Obesità e sovrappeso, l’allerta degli esperti sul “fai-da-te” con i farmaci - parmatoday.it",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFFYZmlXVmUxeDVuTGMtRlVlZktsMllJNXdtNk5vZFI0cWIwbnFMcUVIX3o5X0xmbC1USm9zVUZkdXpubFBFRXBReFZOUThnNVkyR2hua0NXUk5sRzM2d3otWDNNbVdHYlhoQjJoZnBreGZ6MXpjRTJMUG9fN1pYd21vR0hEenktc3ljZ29tS25XWmRjVW5LQW5SMzBBaGhEbjhmZWllRmVlZUQ0a2xv?oc=5",
+      "published": "2026-08-13T14:45:23+00:00",
+      "source": {
+        "name": "parmatoday.it",
+        "url": "https://www.parmatoday.it"
       }
     },
     {
@@ -54,16 +104,6 @@
       }
     },
     {
-      "id": "3827758ce7a4",
-      "title": "Come gestire i farmaci d'estate? Quali terapie sono più a rischio - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC0yUzlRWnpVSnpNTW9JY0Z4cTJTTFpxQWVCVDM5dHpSRkZhSk1hRDZuQ3FXQ0VmM2lRVFlkRV9wX1BWWWh1NVZQcHEya1J6ZTZDUEpDR3BmTUU0THhOTjNVdlNQY1p2TzFnVFBSRk1ya2stZTNudUNyMVlKQ2xZN3BES3hzUkp6aWVLSTBMT05BdEFreTh4QU1oTV9XU0lnSE9OeDJyOTFlSW1uZ19rcWFlOFHSAboBQVVfeXFMTW54aVBNeEdUQ084SEY3SnM1Vi1XWXg2b3Fnc2hhTFFOdXc3aUp6TzBFY1hNa2FMMUpQQXdVdDE0bmo5S2Y4ZG5rTlB4RmVBb2o0eW83aUtkTzVtLWV1WEtKUlZvNVQweVZoeG02WlYxaTZYZHhOVmx0RmZlT005TThnWUljWThPZV82Ui1SZlpRSUI2ZWhhUTdhUWZGa2VaUHpfMmYxMEMzRVQxTzAzeGdhSExYNm05T1JB?oc=5",
-      "published": "2026-08-12T05:16:00+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "38ebae400e0e",
       "title": "Fascicolo sanitario elettronico: referti, ricette e farmaci sempre a portata di mano - omceocn.it",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY19sT2lIOHpwZ3dzcXhzNmpKM1Z3ZmxCWm1qeHY0dTB0ZHltelFHR1hQLXFZYUU3V3BjaVFSM0JzUVdHdDdjV0xmZ0VTSHROVEk0dHd4UW02YWZXSWtIM3JlNUVZeEF4ajJBM3JDQmRZaGN4UDJTQkhkVjA5QmhCT2NnV0Y3RnQxd0NwMVVGZVBnc3BwdVhVU3l3QXNHNHhiZXFTU0F6UFZJdlRkT3ZvXw?oc=5",
@@ -71,46 +111,6 @@
       "source": {
         "name": "omceocn.it",
         "url": "https://www.omceocn.it"
-      }
-    },
-    {
-      "id": "b4e6447928da",
-      "title": "Caldo e farmaci, ecco come conservali e quali sono più a rischio con le alte temperature - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNE1Od1VfRmYtSXg4cUx6a2RCclBPZl9JNndZUTVyM0twSWZ2a3lySWRrQ0t4NGs0NGw4a3ZKZ3dCM0F6TklLSWcxcjE1RkNJSm1kekkxV29sRDBIa3NWdnRvUXNKUFloRFFYQ2ViTUx4NGx2SFk4MFo4SjlmNlpRVGROLXNKYjlQVF8xam9QbnJFdVJlRXNBZEFjeVJhWlR0dFNEM1llOUctWUhVaUptQmU4Nzdkbmpya0NQYlVJY0R6UWc?oc=5",
-      "published": "2026-08-12T22:19:00+00:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com"
-      }
-    },
-    {
-      "id": "71e2466c9d54",
-      "title": "Ricette elettroniche e malfunzionamento software: disagi in farmacia per anziani e malati cronici - BrindisiReport",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmZBb29kU3k1aVV5R3VsUWM2aWRjMUtuNFc1OWliMFZoVUk1ZlU0czdRcGhDbGdIZVFTZmVKcnVtU2NpTk9uMW1kb012ZVRNeGdiZUxTZUJWNVhmdHQwZnZmZ2luTjI5R3lZTkI3bFNrYjNXVGZRY2oxNGhGemdnVHFaQUFvNVJpcUM4RUlnZHYwM3czLW5RaERFTGFlR0cxU1JJZnB2c2l1TmQ4VkNkU1BvVkoxQVQ5ZElGZg?oc=5",
-      "published": "2026-08-13T16:39:00+00:00",
-      "source": {
-        "name": "BrindisiReport",
-        "url": "https://www.brindisireport.it"
-      }
-    },
-    {
-      "id": "578cae253ef0",
-      "title": "Farmaci in estate: ecco come conservarli a prova di caldo - iO Donna",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmxyOEFtOUZJeEZxdC1Fd0VaeTBOSVlLWElIMVFUenpMdjZvWk5Ka0tLUF85bURjTS1Pemhxdlc2MGtFYkRfZ1V5aVBGRHVyTElQWmQ3aG9wUHRWQk9meVk1LVVkR0xrdmtsVjVtdGdRd2ZfczF2Q0huNVNzNV9YNFppYnhpdWdxeDZoaWRkdkI3cGQySWstWGg1dy16dlNMMFdmcUp4ZkNJNTUxVzMwOGU5YW5yR3BsdlhrODNCRjczUy1NLVlvZW1CeDVKNC1xemtnRGp0dUtCdmc?oc=5",
-      "published": "2026-08-12T06:29:13+00:00",
-      "source": {
-        "name": "iO Donna",
-        "url": "https://www.iodonna.it"
-      }
-    },
-    {
-      "id": "91a40b258343",
-      "title": "Rapporto OsMed 2025 dell’AIFA: la spesa farmaceutica italiana sale a 39,3 miliardi - L'Eurispes",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWxvUG52TDVZdHUzUk9adlJsMnZuNE8yTkFwbjh6TTJ0a2FvMnlDVl95MW5Ja0NQSnZyQ1YzT09PMjV0S3BVXzkyMEh0akhBTURKSWctVTVGdVdjN0ZJY2pTNXM3bk5VZ1g2Qk5URmZ0VHhaZ01WZlYxcFhvZ3FMdXNXLTlHNE1KYzlBT21Yb21aQS1iNHlnWko0bUxXT3JIbjYzekZUekU?oc=5",
-      "published": "2026-08-13T02:02:21+00:00",
-      "source": {
-        "name": "L'Eurispes",
-        "url": "https://www.leurispes.it"
       }
     },
     {
@@ -124,12 +124,32 @@
       }
     },
     {
-      "id": "87a4fe16c8ee",
-      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - L'Arena",
+      "id": "91a40b258343",
+      "title": "Rapporto OsMed 2025 dell’AIFA: la spesa farmaceutica italiana sale a 39,3 miliardi - L'Eurispes",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWxvUG52TDVZdHUzUk9adlJsMnZuNE8yTkFwbjh6TTJ0a2FvMnlDVl95MW5Ja0NQSnZyQ1YzT09PMjV0S3BVXzkyMEh0akhBTURKSWctVTVGdVdjN0ZJY2pTNXM3bk5VZ1g2Qk5URmZ0VHhaZ01WZlYxcFhvZ3FMdXNXLTlHNE1KYzlBT21Yb21aQS1iNHlnWko0bUxXT3JIbjYzekZUekU?oc=5",
+      "published": "2026-08-13T02:02:21+00:00",
+      "source": {
+        "name": "L'Eurispes",
+        "url": "https://www.leurispes.it"
+      }
+    },
+    {
+      "id": "71e2466c9d54",
+      "title": "Ricette elettroniche e malfunzionamento software: disagi in farmacia per anziani e malati cronici - BrindisiReport",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmZBb29kU3k1aVV5R3VsUWM2aWRjMUtuNFc1OWliMFZoVUk1ZlU0czdRcGhDbGdIZVFTZmVKcnVtU2NpTk9uMW1kb012ZVRNeGdiZUxTZUJWNVhmdHQwZnZmZ2luTjI5R3lZTkI3bFNrYjNXVGZRY2oxNGhGemdnVHFaQUFvNVJpcUM4RUlnZHYwM3czLW5RaERFTGFlR0cxU1JJZnB2c2l1TmQ4VkNkU1BvVkoxQVQ5ZElGZg?oc=5",
+      "published": "2026-08-13T16:39:00+00:00",
+      "source": {
+        "name": "BrindisiReport",
+        "url": "https://www.brindisireport.it"
+      }
+    },
+    {
+      "id": "9ea4196744d3",
+      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - larena.it",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5",
       "published": "2026-08-13T12:32:41+00:00",
       "source": {
-        "name": "L'Arena",
+        "name": "larena.it",
         "url": "https://www.larena.it"
       }
     },
@@ -211,26 +231,6 @@
       "source": {
         "name": "Salute.gov.it",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "9a35e14f67ea",
-      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
-      "published": "2026-08-11T10:00:04+00:00",
-      "source": {
-        "name": "Il Giorno",
-        "url": "https://www.ilgiorno.it"
-      }
-    },
-    {
-      "id": "68423959a7d8",
-      "title": "Addio alla chirurgia per la malattia degli occhi e della tiroide: a Milano somministrato il nuovo farmaco al primo paziente - MilanoToday",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eGs1TXBESFNTNlc5VGVZRnJaLUtncVB5anNmX1VoUTkzcWRXckZNYmNxR05qWmJoeVk4ZnowWGtUQ0RHaUo0UUhESWotemZBdFZTWmxmUUh3SndEYmxUajBhMFo2NTkzX0EwTThGTmtHMEF4?oc=5",
-      "published": "2026-08-11T09:28:25+00:00",
-      "source": {
-        "name": "MilanoToday",
-        "url": "https://www.milanotoday.it"
       }
     },
     {
@@ -394,12 +394,12 @@
       }
     },
     {
-      "id": "1a6dcc29e0ab",
-      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - farmacista33.it",
+      "id": "b3932ac2d970",
+      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
       "published": "2026-07-30T07:00:00+00:00",
       "source": {
-        "name": "farmacista33.it",
+        "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
       }
     },
@@ -634,6 +634,26 @@
       }
     },
     {
+      "id": "25e1ac2ad2e4",
+      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": {
+        "name": "European Parliament",
+        "url": "https://www.europarl.europa.eu"
+      }
+    },
+    {
+      "id": "b8368e9e437a",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "url": "https://www.fnopi.it"
+      }
+    },
+    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -651,16 +671,6 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
-        "url": "https://www.fnopi.it"
       }
     },
     {
@@ -684,16 +694,6 @@
       }
     },
     {
-      "id": "72fa0d46ad3f",
-      "title": "Diabete di tipo 1, a Verona primo trattamento su una paziente adulta con il farmaco che ne rallenta la progressione - La Piazza Web",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM1lrTjRiU053c2hTa3FiMHl5Q2lVMzJhMmwxTmg4QkFpUHh1SV9UQVQ4YjAzR0VUdkJBX21RNy1BMUJ1UEFNRW9nREc0a2JfSFFNdFBsWkVhd010S1VWbHpFbUJHM2pTZDl4dWJxQUd6LW1FVVR6Q2tzbXhJYjl5cnVqXzdRNkRWUGVONWN4MzJoY0w4cC1EaldJM0ExbEpyR2t3NzBpWTgzejZjZUV5elBzUVBJcTNUaGtQdTB4MDY4SVJuRVlsQWtWOG1jMi1fN3B4LXRBY182S0FreFpBeEsycXM1cW5vaGNGU3YtUTloZFpnV1gxOHVIZFhwSW9RaDRF?oc=5",
-      "published": "2026-08-13T11:18:42+00:00",
-      "source": {
-        "name": "La Piazza Web",
-        "url": "https://www.lapiazzaweb.it"
-      }
-    },
-    {
       "id": "5b722e586768",
       "title": "La ricetta italiana viaggia in Europa: ecco come funzionerà il nuovo decreto del Ministero della Salute - Osservatorio Malattie Rare",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSTQ1VzIxNllfWWtNeklSZTZ1X2xmMVhSZU9MbmVVNmhYeUxYcEJtVU9PNlRmVl9mYlRyZFNhNjlHczRoUlJjVGx0Ynp4WGhERktBSW1ldXc1TUxEWlJ1R3VfWGRsQnRPNEZzcFd0dDJWOGNwVmlIa0ZJME1TUG9pb0IyemhEUlgzamVmYTNJTC1ueUJwRjhIRUdSblJEVVhObWdNZ0F1blN2ZjE0S1Jib3d1aVFYbXdTZWczSjdfaFNHc3F1QkNVdkpNbjF5VWF4amoyLXJiUlFLWkZTa0tHWTN3QW5Odm5Pd1NpSnhVa2ZBQkxTMkE?oc=5",
@@ -714,6 +714,16 @@
       }
     },
     {
+      "id": "72fa0d46ad3f",
+      "title": "Diabete di tipo 1, a Verona primo trattamento su una paziente adulta con il farmaco che ne rallenta la progressione - La Piazza Web",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM1lrTjRiU053c2hTa3FiMHl5Q2lVMzJhMmwxTmg4QkFpUHh1SV9UQVQ4YjAzR0VUdkJBX21RNy1BMUJ1UEFNRW9nREc0a2JfSFFNdFBsWkVhd010S1VWbHpFbUJHM2pTZDl4dWJxQUd6LW1FVVR6Q2tzbXhJYjl5cnVqXzdRNkRWUGVONWN4MzJoY0w4cC1EaldJM0ExbEpyR2t3NzBpWTgzejZjZUV5elBzUVBJcTNUaGtQdTB4MDY4SVJuRVlsQWtWOG1jMi1fN3B4LXRBY182S0FreFpBeEsycXM1cW5vaGNGU3YtUTloZFpnV1gxOHVIZFhwSW9RaDRF?oc=5",
+      "published": "2026-08-13T11:18:42+00:00",
+      "source": {
+        "name": "La Piazza Web",
+        "url": "https://www.lapiazzaweb.it"
+      }
+    },
+    {
       "id": "d605fe165167",
       "title": "Caritas Gerusalemme: «Bisogni enormi, aiuti insufficienti. Priorità a salute, farmaci e sostegno psicologico - Chiesa di Milano",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEY3Z0lxMUdDc21aaEZmcDJZTUktVUZmdVNmemNaNVhXQ2F2MzcwZHBZY1p4U0s2U2VFY2N3WHFwMlVyeEdzM0xiN1BJOEo2QUtYcm9JZW95OHFRU0ZiRHNJWGdlVUNibDU4VVNjQ2YwVzhsU0FNaEVkcmkxUFROaUhpQlJPVDlRTTZpS0NzbGhsSG00eUJ2ZER6WktRM1EzQmc?oc=5",
@@ -724,12 +734,12 @@
       }
     },
     {
-      "id": "b0642ba6aa85",
-      "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - farmacista33.it",
+      "id": "80e8f713ae99",
+      "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
       "published": "2026-06-15T07:00:00+00:00",
       "source": {
-        "name": "farmacista33.it",
+        "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
       }
     },
@@ -824,22 +834,12 @@
       }
     },
     {
-      "id": "077193ae6cc1",
-      "title": "Vitamine ed integratori: negli Usa quasi 2.000 bambini ricoverati per intossicazione - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXNZQ0lhX0xFdHg5cnZsNFphVUg0WERzMjNSQ0ZxcDNyZ3ZIczU5dnRFQzhfRXdhUU5oUU95Z3p3TzFJZTBudVJyU2pSaVBxeDJFZkRuN2xnSXRkTUZ4dFg5LWhaXzhMUXlpOFB5eEo5dVlkaTZ4bU9yeGl6bVV3MFBNZ2EwVlQya29jMzVjcWdHOFY2bktMUkVtdFU?oc=5",
-      "published": "2026-08-13T11:14:15+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
-      "id": "5ee1d8b79bc8",
-      "title": "Farmaci antidiabetici usati per dimagrire: danni alla salute e anche l'alopecia tra i rischi del 'fai da te' - Vittoriano Zanolli",
+      "id": "9f131a74926d",
+      "title": "Farmaci antidiabetici usati per dimagrire: danni alla salute e anche l'alopecia tra i rischi del 'fai da te' - vittorianozanolli.it",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXhLcUltWFBsdVFOQWt3MXVEd1JnSGQ5ejFydDZIcGU3LWN4aFYzM1BvaG9leHBtLWJhaTB3djRjQi1yNDFHME5XVDdjaUdQcnZ6UUlyR3NIMkJ3ekZLNUFDQzVVd0xIazFqYXB6VVh3ZkdhaWdTSVNjbHN0WGhSZkRPV3BJdGJkX3RiaThTTDNJbE54dmtFbEZmS0pPemJ2MXJOZWUwRHlTOWQ2VFl6d0V5R0JiVUZQZkhjd1paVmdmSGhFa1lCdVBTS0FkS1Y1MEdXQ2FaclNCWk0?oc=5",
       "published": "2026-08-12T16:24:34+00:00",
       "source": {
-        "name": "Vittoriano Zanolli",
+        "name": "vittorianozanolli.it",
         "url": "https://vittorianozanolli.it"
       }
     },
@@ -854,13 +854,13 @@
       }
     },
     {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
-      "published": "2025-12-27T08:00:00+00:00",
+      "id": "077193ae6cc1",
+      "title": "Vitamine ed integratori: negli Usa quasi 2.000 bambini ricoverati per intossicazione - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXNZQ0lhX0xFdHg5cnZsNFphVUg0WERzMjNSQ0ZxcDNyZ3ZIczU5dnRFQzhfRXdhUU5oUU95Z3p3TzFJZTBudVJyU2pSaVBxeDJFZkRuN2xnSXRkTUZ4dFg5LWhaXzhMUXlpOFB5eEo5dVlkaTZ4bU9yeGl6bVV3MFBNZ2EwVlQya29jMzVjcWdHOFY2bktMUkVtdFU?oc=5",
+      "published": "2026-08-13T11:14:15+00:00",
       "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -871,6 +871,16 @@
       "source": {
         "name": "My-personaltrainer",
         "url": "https://www.my-personaltrainer.it"
+      }
+    },
+    {
+      "id": "dd4630529884",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
+      "published": "2025-12-27T08:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -924,16 +934,6 @@
       }
     },
     {
-      "id": "63510c09d097",
-      "title": "Terapie rivalutate: più salute e risparmi. La Sif punta sulla medication review e deprescribing - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczcxSFBWVU5yeVFEaVVWT25GQ3JGeVNpLUc4SzNXRUVSTktVMGRkTlEzS0dVUVZ2RGFJdUxkZVdmUFpIRFJGZl9pNzFISGk4SGlwN2lENUQ3LUQyTkhFa244cmJNX3V0ZHB0dXRwTGNuNWItUXhWWGMtWmtBdWF6M05vb0JwMDA3cVVna0hHUk4tbURHYW1xVlp4UGlsc1RSemJKSE11MkRtLVhST1JDa1FWVmRRdUVoNURrNDZRLUVSWWRybm9sZDJ1d1pTM0s0REdCTnVMVQ?oc=5",
-      "published": "2026-07-01T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "e563fb6ff855",
       "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
@@ -944,20 +944,20 @@
       }
     },
     {
-      "id": "3678042890d7",
-      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
-      "published": "2026-03-26T07:00:00+00:00",
+      "id": "fc1033f46800",
+      "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
       }
     },
     {
-      "id": "fc1033f46800",
-      "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
+      "id": "3678042890d7",
+      "title": "Gliflozine in farmacia. “Una rivoluzione gentile. Risparmio da 9,2 milioni in tre mesi e il 94% dei pazienti è soddisfatto”. Intervista al sottosegretario alla Salute Marcello Gemmato - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVWgtQU9SWUhDUTNzM0E1VDNKc0dER2RFZUk3MnV1ck5WRkk1Q2pEMlEwZmF5eVU2TmdCVThuQTNFRF8zTUF2VGJlYks2bEE1Vlk3czdHMHctR0wtSXZnOVVwWF9GLWVNekllUnNJQWNyanBaNXNuWnJWOHd1WXJ0bElEbi1VcTFTbEFKeS1kMzk1WmlVcDN5ZVFTR1M5Z2wyalRCZEh1SmUzdHRjeW9qMTlsQ0NuQUE3V2dpbjBTYS1pSldrNzVlZHFCZTVHa3AyY3pLZEpSTGxPN0czM3FMSUpPVnpjYVM3cUNFbTNqblB0c2s0ZDVmaEhNeUt4OHV6ZW5iUEo0WV8yU1NQNHdvc2pfTFlnekUwS2doejBLekVlbXItUlVwWk02YU0xZkw0WTRQZV95NkZ2b1NGbWZmNEhOY3pxcXhGQmVJS3FFaw?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
@@ -994,12 +994,12 @@
       }
     },
     {
-      "id": "1eacc38b53e9",
-      "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
+      "id": "10f7809e93f7",
+      "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - medicoepaziente.it",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
       "published": "2026-06-19T07:00:00+00:00",
       "source": {
-        "name": "Medico e paziente",
+        "name": "medicoepaziente.it",
         "url": "https://medicoepaziente.it"
       }
     }
