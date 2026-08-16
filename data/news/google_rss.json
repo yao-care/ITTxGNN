@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T16:11:51.637780+00:00",
+  "fetched_at": "2026-08-16T17:10:45.196631+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -64,6 +64,16 @@
       }
     },
     {
+      "id": "f9e6846b0566",
+      "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
+      "published": "2026-04-25T14:55:37+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
       "id": "f713eb810c10",
       "title": "I farmaci comunemente usati per la disfunzione erettile sono collegati a un aumento del rischio di glaucoma? - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDBCYXA1R29hVndxZmg1Z0lIOEw3bGh2Mk5BbTc1X1dXUmN4cS1KZVphNFpIRS1jZWE4S0VRMVRpZWsxaklFQjF2Uy1fRjZZcXI3UlNWUjdwZkJqal8xR3Y5d2FfT1RJY2E2NXJPcmxvd1N6Z0JNb1kwWjJwQUdVa2sxdEdrWF80MmxNWGptSnp1NzBmMTdYN0p4dmFKcU5QcDRTbQ?oc=5",
@@ -71,16 +81,6 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "d12243bcb2e9",
-      "title": "Farmaci a uso umano: distribuzione diretta e per conto - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
-      "published": "2026-04-25T14:55:37+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -174,12 +174,12 @@
       }
     },
     {
-      "id": "8e86d958b526",
-      "title": "Operazione internazionale Pangea XVIII per il contrasto al traffico illecito di farmaci e prodotti correlati alla salute - salute.gov.it",
+      "id": "4c2d3d93f48d",
+      "title": "Operazione internazionale Pangea XVIII per il contrasto al traffico illecito di farmaci e prodotti correlati alla salute - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC1oMk40WjNhX2IzcmJKbDNHUXFyZ19XRHFteGZ4QjR2aEE2UnhLQURRSWhBWTh4QzJHSU55RE5Pa1czVmRUXzVNVGJKQU5ueVVsVnJNbWw0cUVSWVdXTjFIeEtCMXpZYWxITG5MMlhIUGl2V2E0VGFLWFNHV1p3MGxid0o1cGo5dGxqQ3FoUmxZdE1UXzZuVi0xNnZSdHF1VC1Ta01MTVVtbEVvLWlaUWxIdzBYWmdzeElkWW05RnloMlVvcTI0eUln?oc=5",
       "published": "2026-05-26T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "4d6fbbf151bc",
-      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
-      "published": "2026-08-13T14:45:23+00:00",
-      "source": {
-        "name": "ParmaToday",
-        "url": "https://www.parmatoday.it"
-      }
-    },
-    {
       "id": "c124dd2dca81",
       "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
@@ -291,6 +281,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "4d6fbbf151bc",
+      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
+      "published": "2026-08-13T14:45:23+00:00",
+      "source": {
+        "name": "ParmaToday",
+        "url": "https://www.parmatoday.it"
       }
     },
     {
@@ -314,12 +314,12 @@
       }
     },
     {
-      "id": "18b80b3ab32a",
-      "title": "Ministero della Salute - Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - salute.gov.it",
+      "id": "6a021fe70b39",
+      "title": "Ministero della Salute - Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
       "published": "2026-03-26T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -344,22 +344,12 @@
       }
     },
     {
-      "id": "f7360a85634d",
-      "title": "Tar, cannabiolo solo con ricetta medica irripetibile - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVFNdGZkYlNpazE0eXBtRERxNHF1U1ZQSXQ1Z1JKZ0ZkMnkzWGY5ZFFNZ1Y4aEE0dWg2N0UwWFNqWjZ3eXhKSWpOVTZOUHNRcThXU1JnRXMzendHcGdOc2JpRW90SUlRLTJZb05mNEJYRngzUjVBVzdfWGZfdllnbDNFX1BYcktjSU9rZ09sVFk4TVB3?oc=5",
-      "published": "2026-08-14T17:02:14+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "a7f9dd555ce8",
-      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - salute.gov.it",
+      "id": "1b51eed43d05",
+      "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
       "published": "2026-03-27T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -384,16 +374,6 @@
       }
     },
     {
-      "id": "cb7113ede2da",
-      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
-      "published": "2026-07-22T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "9679accf030f",
       "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
@@ -404,23 +384,23 @@
       }
     },
     {
-      "id": "2901e815b90e",
-      "title": "Servizio per la verifica di una confezione di medicinale a uso umano - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpHOUZBcmhTakRBd2NOQnVwb0FkazNybGNlY1lWdHMtZldKNXZFUWQyNzByNEloVnNsb1E5NGo5TDd6dnctZEstaVMzQnpwalk4eDB6UTdjblJjOWJmaXFPbTNKb3BwM3R1enJrNlMxYXZlci1admZQajFrNFpBdjZYMG1GR2VoTlhwal9WY05vb0themVaVGlDYW5YdFJlVVlpNGhES3hYM2l6VjR3akdxRjRlS2xVNlNVZ093YnRJV1lfYTRMVkdkRlhzV1M3eFNMTWln?oc=5",
-      "published": "2026-04-23T04:48:44+00:00",
+      "id": "cb7113ede2da",
+      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "68423959a7d8",
-      "title": "Addio alla chirurgia per la malattia degli occhi e della tiroide: a Milano somministrato il nuovo farmaco al primo paziente - MilanoToday",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eGs1TXBESFNTNlc5VGVZRnJaLUtncVB5anNmX1VoUTkzcWRXckZNYmNxR05qWmJoeVk4ZnowWGtUQ0RHaUo0UUhESWotemZBdFZTWmxmUUh3SndEYmxUajBhMFo2NTkzX0EwTThGTmtHMEF4?oc=5",
-      "published": "2026-08-11T09:28:25+00:00",
+      "id": "9541d7bd1f2e",
+      "title": "Servizio per la verifica di una confezione di medicinale a uso umano - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpHOUZBcmhTakRBd2NOQnVwb0FkazNybGNlY1lWdHMtZldKNXZFUWQyNzByNEloVnNsb1E5NGo5TDd6dnctZEstaVMzQnpwalk4eDB6UTdjblJjOWJmaXFPbTNKb3BwM3R1enJrNlMxYXZlci1admZQajFrNFpBdjZYMG1GR2VoTlhwal9WY05vb0themVaVGlDYW5YdFJlVVlpNGhES3hYM2l6VjR3akdxRjRlS2xVNlNVZ093YnRJV1lfYTRMVkdkRlhzV1M3eFNMTWln?oc=5",
+      "published": "2026-04-23T04:48:44+00:00",
       "source": {
-        "name": "MilanoToday",
-        "url": "https://www.milanotoday.it"
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -434,6 +414,16 @@
       }
     },
     {
+      "id": "68423959a7d8",
+      "title": "Addio alla chirurgia per la malattia degli occhi e della tiroide: a Milano somministrato il nuovo farmaco al primo paziente - MilanoToday",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eGs1TXBESFNTNlc5VGVZRnJaLUtncVB5anNmX1VoUTkzcWRXckZNYmNxR05qWmJoeVk4ZnowWGtUQ0RHaUo0UUhESWotemZBdFZTWmxmUUh3SndEYmxUajBhMFo2NTkzX0EwTThGTmtHMEF4?oc=5",
+      "published": "2026-08-11T09:28:25+00:00",
+      "source": {
+        "name": "MilanoToday",
+        "url": "https://www.milanotoday.it"
+      }
+    },
+    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -444,22 +434,12 @@
       }
     },
     {
-      "id": "4fb2e8ff8323",
-      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
-      "published": "2026-08-10T03:50:14+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "47a247ee80ac",
-      "title": "Produttori, depositari e grossisti - salute.gov.it",
+      "id": "94efa2e1c9cd",
+      "title": "Produttori, depositari e grossisti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
       "published": "2026-01-10T01:58:27+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -474,33 +454,53 @@
       }
     },
     {
-      "id": "9a35e14f67ea",
-      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
+      "id": "4fb2e8ff8323",
+      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
+      "published": "2026-08-10T03:50:14+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "17765b4b5ec6",
+      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - ilgiorno.it",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
       "published": "2026-08-11T10:00:04+00:00",
       "source": {
-        "name": "Il Giorno",
+        "name": "ilgiorno.it",
         "url": "https://www.ilgiorno.it"
       }
     },
     {
-      "id": "4d85080de894",
-      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - VeronaSera",
+      "id": "391223dd702d",
+      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
+      "published": "2026-01-29T12:30:24+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "8693494cb45f",
+      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - veronasera.it",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjSnJtSVgtSUxyVG5uWXZqb19VcWZYQUFabTZTSzRZVjZTdW02MW84aXV0MTF0OXRCTHJZamZ6S0NwXzkzb1ZjaGtudG44czRlZWloaVdtQnkzdUFJVmdxRXRTT3MyaFNCT3dyNkZyZWNLMEpSMllseERR?oc=5",
       "published": "2026-08-11T08:45:37+00:00",
       "source": {
-        "name": "VeronaSera",
+        "name": "veronasera.it",
         "url": "https://www.veronasera.it"
       }
     },
     {
-      "id": "2eb6bd76cf8a",
-      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
-      "published": "2026-01-29T12:30:24+00:00",
+      "id": "f7360a85634d",
+      "title": "Tar, cannabiolo solo con ricetta medica irripetibile - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVFNdGZkYlNpazE0eXBtRERxNHF1U1ZQSXQ1Z1JKZ0ZkMnkzWGY5ZFFNZ1Y4aEE0dWg2N0UwWFNqWjZ3eXhKSWpOVTZOUHNRcThXU1JnRXMzendHcGdOc2JpRW90SUlRLTJZb05mNEJYRngzUjVBVzdfWGZfdllnbDNFX1BYcktjSU9rZ09sVFk4TVB3?oc=5",
+      "published": "2026-08-14T17:02:14+00:00",
       "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
       }
     },
     {
@@ -514,16 +514,6 @@
       }
     },
     {
-      "id": "d19a9bb8ce41",
-      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
-      "published": "2026-08-10T23:46:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "7b2d2c06c7e7",
       "title": "Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5",
@@ -534,13 +524,23 @@
       }
     },
     {
-      "id": "5a735aea30fa",
-      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
+      "id": "d30ecb5eb953",
+      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - univrmagazine.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
       "published": "2026-04-15T07:00:00+00:00",
       "source": {
-        "name": "Univrmagazine",
+        "name": "univrmagazine.it",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "d19a9bb8ce41",
+      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
+      "published": "2026-08-10T23:46:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -554,16 +554,6 @@
       }
     },
     {
-      "id": "940d1f465dba",
-      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "2d3e4c6f2315",
       "title": "Troppi farmaci, poca salute: Silvio Garattini sfida l’industria farmaceutica a Milano - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXRPeE1qclAwZFBKMUR4STI0ZlNjUm5paFd6eFE0ZnZBVHk0bWdMS0dGaEh0Nkg0bkVnYkpzUWtEV0txeFg4SlVGNFhsaXlpaVZlOGdWcjcyN3BYd0FRZFhlY3FjN0tWaS03ekpFNDUxV0VmNXJJY3V3bEtKaXU3NGdQMG1uOTVjVGR4ZnB5VUN4TENnY2xjMVN0OTJodFdaODVOMGp4WVdEUHhHLURFTHFtOC05cTBZV19KNVNn?oc=5",
@@ -571,6 +561,16 @@
       "source": {
         "name": "insalutenews.it",
         "url": "https://www.insalutenews.it"
+      }
+    },
+    {
+      "id": "940d1f465dba",
+      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -584,12 +584,12 @@
       }
     },
     {
-      "id": "0703741610af",
-      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - salute.gov.it",
+      "id": "87463bcc603e",
+      "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -604,12 +604,12 @@
       }
     },
     {
-      "id": "99baffda33d9",
-      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - europarl.europa.eu",
+      "id": "25e1ac2ad2e4",
+      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
       "published": "2026-03-31T07:00:00+00:00",
       "source": {
-        "name": "europarl.europa.eu",
+        "name": "European Parliament",
         "url": "https://www.europarl.europa.eu"
       }
     },
@@ -674,16 +674,6 @@
       }
     },
     {
-      "id": "87a4fe16c8ee",
-      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - L'Arena",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5",
-      "published": "2026-08-13T12:32:41+00:00",
-      "source": {
-        "name": "L'Arena",
-        "url": "https://www.larena.it"
-      }
-    },
-    {
       "id": "d605fe165167",
       "title": "Caritas Gerusalemme: «Bisogni enormi, aiuti insufficienti. Priorità a salute, farmaci e sostegno psicologico - Chiesa di Milano",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEY3Z0lxMUdDc21aaEZmcDJZTUktVUZmdVNmemNaNVhXQ2F2MzcwZHBZY1p4U0s2U2VFY2N3WHFwMlVyeEdzM0xiN1BJOEo2QUtYcm9JZW95OHFRU0ZiRHNJWGdlVUNibDU4VVNjQ2YwVzhsU0FNaEVkcmkxUFROaUhpQlJPVDlRTTZpS0NzbGhsSG00eUJ2ZER6WktRM1EzQmc?oc=5",
@@ -694,12 +684,22 @@
       }
     },
     {
-      "id": "90e76adae03e",
-      "title": "Ministero della Salute - Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - salute.gov.it",
+      "id": "87a4fe16c8ee",
+      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - L'Arena",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5",
+      "published": "2026-08-13T12:32:41+00:00",
+      "source": {
+        "name": "L'Arena",
+        "url": "https://www.larena.it"
+      }
+    },
+    {
+      "id": "039d6593a544",
+      "title": "Ministero della Salute - Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
       "published": "2026-03-03T08:00:00+00:00",
       "source": {
-        "name": "salute.gov.it",
+        "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
       }
     },
@@ -774,16 +774,6 @@
       }
     },
     {
-      "id": "2c29a9197512",
-      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
-      "published": "2026-08-01T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "f5fc4e4d777e",
       "title": "Salute orale e benessere generale, dal CISO il Manifesto per una nuova cultura della prevenzione - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjdhd1c5WG9rWDlNcWVJRXlWVUZPNjJiLVdMeGtSbFNsM0lQWDd0QU01WVNfNW00RHo2X0JIdGhoRW9aRTVMQ2JUUTFaUU53VXNyWFRaNU9sb0VhanZZbEFOZXd1cE5qcklmcmdDVVBJb3F6Tjc1STZZajVNWWVEQkw4aEJqbjJQTno0VFhzaVlweGxaOFhwdWhiN2VNM01idjRHOHAtZVZ0aDItMjRlRTBYcXVQRWdoQ1NKcDZsVlZwaE53a0dCVWNISFYySVBhY2ZKZUZRTlMxZw?oc=5",
@@ -794,13 +784,13 @@
       }
     },
     {
-      "id": "582a82d8accf",
-      "title": "Dispositivi medici: dai reagenti diagnostici alle protesi, le categorie dove la Puglia dovrà ridurre la spesa - FoggiaToday",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTNfZ19aXzNwQjRLUXoxZGVvMmR2cjVyTzl3V3V6VjZERklTUVA2T0o0MGNVd3FQOGVMM3V0b3dLeUtqUGo0dzktNURDOFlQMHpMcDQtbEozYUZZM21PMFpZdVo3SE5QZ0JTUWRXeDMzTlBwTDRaRTNuNHVZUjVfYzZrTnp1Q0VRTEw5ZFZBYnNRVXJwVzhxWEVoUlJEN1piRkpOVEpFMVdjTUdhWFE?oc=5",
-      "published": "2026-08-11T15:17:00+00:00",
+      "id": "2c29a9197512",
+      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
       "source": {
-        "name": "FoggiaToday",
-        "url": "https://www.foggiatoday.it"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -824,16 +814,6 @@
       }
     },
     {
-      "id": "4b2cd64a99bd",
-      "title": "Il farmaco a base di Lsd di Definium conquista i medici e Wall Street - startmag.it",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlVPZmNWSWNvem5RRUxPV0Y5ZVFucS1YLVBkOE1vejZRajhhbGdtbTdDSVdyTWdkWjVLQVhmRDFEVUhKU0hkdF9ySWxpVk9oTXBaVWpLZnB4TU1JY3A3YUh6dG9sbmJGTGdCNVl0alJ2X2ktMU8zbGYxaU9peU1Lak5fX3QxT0dlcG9TSDhFRVg0dHAxUWZNRDZDR2g5VF9BczE3UU9LMHN4M21l?oc=5",
-      "published": "2026-08-14T13:26:00+00:00",
-      "source": {
-        "name": "startmag.it",
-        "url": "https://www.startmag.it"
-      }
-    },
-    {
       "id": "fc1033f46800",
       "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
@@ -841,6 +821,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "a98ff5da954c",
+      "title": "Il farmaco a base di Lsd di Definium conquista i medici e Wall Street - Startmag",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlVPZmNWSWNvem5RRUxPV0Y5ZVFucS1YLVBkOE1vejZRajhhbGdtbTdDSVdyTWdkWjVLQVhmRDFEVUhKU0hkdF9ySWxpVk9oTXBaVWpLZnB4TU1JY3A3YUh6dG9sbmJGTGdCNVl0alJ2X2ktMU8zbGYxaU9peU1Lak5fX3QxT0dlcG9TSDhFRVg0dHAxUWZNRDZDR2g5VF9BczE3UU9LMHN4M21l?oc=5",
+      "published": "2026-08-14T13:26:00+00:00",
+      "source": {
+        "name": "Startmag",
+        "url": "https://www.startmag.it"
       }
     },
     {
@@ -904,12 +894,12 @@
       }
     },
     {
-      "id": "7e10784b8642",
-      "title": "Formia, presunta sottrazione di farmaci, la Asl Latina: «Nessun ammanco» - latinaoggi.eu",
+      "id": "600dda92dc58",
+      "title": "Formia, presunta sottrazione di farmaci, la Asl Latina: «Nessun ammanco» - Latina Oggi",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHRReXItUG0wUkp5c0hoSWxKUGtpUHlnNUNEY3FVWnhCekUzcFhrSUQ5WjJkbnFSNl9jWjdBTXYwX2ZBYUVZTmxqcGZxODgzQ2NFU0lkV01xUFhMUkxZblU4OG9Sb052N0FuYnp0VE5pNFQ1T05jV1pjcHIxMkdmNVh6YVNzaTBqeGt0R2FnbGZTYkhiWW1nR29xMFBwQ2VUeEFUa3RJSzNMWTYyUjF3dDF6LU12QU1J?oc=5",
       "published": "2026-08-14T14:30:00+00:00",
       "source": {
-        "name": "latinaoggi.eu",
+        "name": "Latina Oggi",
         "url": "https://www.latinaoggi.eu"
       }
     },
@@ -934,6 +924,16 @@
       }
     },
     {
+      "id": "33d1e98ab8aa",
+      "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
+      "published": "2025-12-23T08:00:00+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
       "id": "7d376a854124",
       "title": "Uso corretto dei farmaci: a Montalto un incontro pubblico per promuovere consapevolezza e sicurezza - uslsudest.toscana.it",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lYR2ROdldBcnJ6bEFibmRFa2ZXNGlYUjBFZU92NURMZ28tczhMM3VoMzN5Y25GdlNvaEwxUGhybWVxbDViTVQ2d1RSdmFnY0JpdTluQmVUdk13TTBJSjNoR2pvcVp5U3pqbTBpSTNKNUxTT2VaMm9Td2hFVUNEal9UNFozUWt3VG1BNFNUamptaEp0LWo3aW1xalowWTE1Yk1KTkU5LUQ5Ui1ia3oyd2lnRkdJRl9Wc3BnSEJjOWl0SEVXalVUeHVLUmsxemZkVE94WTBPV2dNSVBIdGR4YmlhOA?oc=5",
@@ -941,16 +941,6 @@
       "source": {
         "name": "uslsudest.toscana.it",
         "url": "https://www.uslsudest.toscana.it"
-      }
-    },
-    {
-      "id": "a3c09f614c3d",
-      "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - salute.gov.it",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
-      "published": "2025-12-23T08:00:00+00:00",
-      "source": {
-        "name": "salute.gov.it",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "1eacc38b53e9",
+      "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": {
+        "name": "Medico e paziente",
+        "url": "https://medicoepaziente.it"
       }
     }
   ]
