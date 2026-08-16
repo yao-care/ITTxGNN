@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T17:10:45.196631+00:00",
+  "fetched_at": "2026-08-16T18:13:31.783617+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -84,12 +84,12 @@
       }
     },
     {
-      "id": "b4e6447928da",
-      "title": "Caldo e farmaci, ecco come conservali e quali sono più a rischio con le alte temperature - Adnkronos",
+      "id": "a00bce9c3e75",
+      "title": "Caldo e farmaci, ecco come conservali e quali sono più a rischio con le alte temperature - adnkronos.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNE1Od1VfRmYtSXg4cUx6a2RCclBPZl9JNndZUTVyM0twSWZ2a3lySWRrQ0t4NGs0NGw4a3ZKZ3dCM0F6TklLSWcxcjE1RkNJSm1kekkxV29sRDBIa3NWdnRvUXNKUFloRFFYQ2ViTUx4NGx2SFk4MFo4SjlmNlpRVGROLXNKYjlQVF8xam9QbnJFdVJlRXNBZEFjeVJhWlR0dFNEM1llOUctWUhVaUptQmU4Nzdkbmpya0NQYlVJY0R6UWc?oc=5",
       "published": "2026-08-12T22:19:00+00:00",
       "source": {
-        "name": "Adnkronos",
+        "name": "adnkronos.com",
         "url": "https://www.adnkronos.com"
       }
     },
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "91a40b258343",
-      "title": "Rapporto OsMed 2025 dell’AIFA: la spesa farmaceutica italiana sale a 39,3 miliardi - L'Eurispes",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWxvUG52TDVZdHUzUk9adlJsMnZuNE8yTkFwbjh6TTJ0a2FvMnlDVl95MW5Ja0NQSnZyQ1YzT09PMjV0S3BVXzkyMEh0akhBTURKSWctVTVGdVdjN0ZJY2pTNXM3bk5VZ1g2Qk5URmZ0VHhaZ01WZlYxcFhvZ3FMdXNXLTlHNE1KYzlBT21Yb21aQS1iNHlnWko0bUxXT3JIbjYzekZUekU?oc=5",
-      "published": "2026-08-13T02:02:21+00:00",
-      "source": {
-        "name": "L'Eurispes",
-        "url": "https://www.leurispes.it"
-      }
-    },
-    {
       "id": "01e1b4c3fabd",
       "title": "Unomattina 2025/26 - Salute e vacanze: farmaci e dispositivi da mettere in valigia - 24/06/2026 - Video - RaiPlay",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdEx3X1l5NV9QQm9XVTNNWDhidklnZXNmamxYdTJDRW1ZWlZndU9KVW1HUzcwak9GdGdZLV9ral9OTmlCc0Vfa3hZVFZ5NHk0YlFyblB3S2RYLW5acWpDVHZwXzRpdVRDOUh0NWF2SFV3bEI0U0ItOFpZWTlub201b3Z5MGpsaWpfWjV2VjdmTUsxYlJwSnZ6cnpVNF9Ea1NoV3dJdVEyVUFOY2dXTmZJZGdNWDRyWWlnMlc0b0hNTjdzalZUUF9OOUpOSHFrcU5XRGRnYVZZVmVVLXdNY3cyakMtd0ZRODM2NWtleWRpd2VqYWs?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "RaiPlay",
         "url": "https://www.raiplay.it"
+      }
+    },
+    {
+      "id": "91a40b258343",
+      "title": "Rapporto OsMed 2025 dell’AIFA: la spesa farmaceutica italiana sale a 39,3 miliardi - L'Eurispes",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWxvUG52TDVZdHUzUk9adlJsMnZuNE8yTkFwbjh6TTJ0a2FvMnlDVl95MW5Ja0NQSnZyQ1YzT09PMjV0S3BVXzkyMEh0akhBTURKSWctVTVGdVdjN0ZJY2pTNXM3bk5VZ1g2Qk5URmZ0VHhaZ01WZlYxcFhvZ3FMdXNXLTlHNE1KYzlBT21Yb21aQS1iNHlnWko0bUxXT3JIbjYzekZUekU?oc=5",
+      "published": "2026-08-13T02:02:21+00:00",
+      "source": {
+        "name": "L'Eurispes",
+        "url": "https://www.leurispes.it"
       }
     },
     {
@@ -284,16 +284,6 @@
       }
     },
     {
-      "id": "4d6fbbf151bc",
-      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
-      "published": "2026-08-13T14:45:23+00:00",
-      "source": {
-        "name": "ParmaToday",
-        "url": "https://www.parmatoday.it"
-      }
-    },
-    {
       "id": "b8368e9e437a",
       "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
@@ -301,6 +291,16 @@
       "source": {
         "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
         "url": "https://www.fnopi.it"
+      }
+    },
+    {
+      "id": "4d6fbbf151bc",
+      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
+      "published": "2026-08-13T14:45:23+00:00",
+      "source": {
+        "name": "ParmaToday",
+        "url": "https://www.parmatoday.it"
       }
     },
     {
@@ -404,16 +404,6 @@
       }
     },
     {
-      "id": "b3932ac2d970",
-      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
-      "published": "2026-07-30T07:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "68423959a7d8",
       "title": "Addio alla chirurgia per la malattia degli occhi e della tiroide: a Milano somministrato il nuovo farmaco al primo paziente - MilanoToday",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eGs1TXBESFNTNlc5VGVZRnJaLUtncVB5anNmX1VoUTkzcWRXckZNYmNxR05qWmJoeVk4ZnowWGtUQ0RHaUo0UUhESWotemZBdFZTWmxmUUh3SndEYmxUajBhMFo2NTkzX0EwTThGTmtHMEF4?oc=5",
@@ -421,6 +411,16 @@
       "source": {
         "name": "MilanoToday",
         "url": "https://www.milanotoday.it"
+      }
+    },
+    {
+      "id": "b3932ac2d970",
+      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -454,26 +454,6 @@
       }
     },
     {
-      "id": "4fb2e8ff8323",
-      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
-      "published": "2026-08-10T03:50:14+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "17765b4b5ec6",
-      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - ilgiorno.it",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
-      "published": "2026-08-11T10:00:04+00:00",
-      "source": {
-        "name": "ilgiorno.it",
-        "url": "https://www.ilgiorno.it"
-      }
-    },
-    {
       "id": "391223dd702d",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -484,12 +464,32 @@
       }
     },
     {
-      "id": "8693494cb45f",
-      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - veronasera.it",
+      "id": "9a35e14f67ea",
+      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
+      "published": "2026-08-11T10:00:04+00:00",
+      "source": {
+        "name": "Il Giorno",
+        "url": "https://www.ilgiorno.it"
+      }
+    },
+    {
+      "id": "4fb2e8ff8323",
+      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
+      "published": "2026-08-10T03:50:14+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "4d85080de894",
+      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - VeronaSera",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjSnJtSVgtSUxyVG5uWXZqb19VcWZYQUFabTZTSzRZVjZTdW02MW84aXV0MTF0OXRCTHJZamZ6S0NwXzkzb1ZjaGtudG44czRlZWloaVdtQnkzdUFJVmdxRXRTT3MyaFNCT3dyNkZyZWNLMEpSMllseERR?oc=5",
       "published": "2026-08-11T08:45:37+00:00",
       "source": {
-        "name": "veronasera.it",
+        "name": "VeronaSera",
         "url": "https://www.veronasera.it"
       }
     },
@@ -534,16 +534,6 @@
       }
     },
     {
-      "id": "d19a9bb8ce41",
-      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
-      "published": "2026-08-10T23:46:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "b6c22ac34507",
       "title": "In arrivo la (F) Open Week \"Farmacia al femminile\" - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZzF3NkVMQm5feUVWZTRtVWdpQmdtamdaelkzYUVmSUI0a2J6em5ncTNvY09YTkduZFNiVlhwWjZLSEVpRWpUN3ZROXl3cGk0djZRRmVlWVRHV2lUbzd0NnRhUS0?oc=5",
@@ -571,6 +561,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "d19a9bb8ce41",
+      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
+      "published": "2026-08-10T23:46:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -684,16 +684,6 @@
       }
     },
     {
-      "id": "87a4fe16c8ee",
-      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - L'Arena",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5",
-      "published": "2026-08-13T12:32:41+00:00",
-      "source": {
-        "name": "L'Arena",
-        "url": "https://www.larena.it"
-      }
-    },
-    {
       "id": "039d6593a544",
       "title": "Ministero della Salute - Operazione “SHIELD VI”, sequestrati migliaia di medicinali e sostanze dopanti illegali, oscurati siti web di vendita illegale di farmaci - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbng3S3dfZnRhNTdxQlFnb2lFRldza0xDQ3BWNWMxYVB0WmVtOVd1TlAteENjb0g5MG5pNE1tLUdSeUw4WmFkeEJaaVlXNmVRYWY1TWJucy1ocUxfR0dSUVMyMUwwREx1RUdTX0V1X1NtQmpaT0I5NDRrUTA4Zjc4cTcycFhxWE9iMzZFQllXeWRPUHc1UGJvbkxCUzdFS2hrSmJBSjYxWm9hd1FleEN1QU1IWF9HRjQtRnJqbXBFTXdYRF84c1Aw?oc=5",
@@ -701,6 +691,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "87a4fe16c8ee",
+      "title": "Verso un futuro senza diabete: nuovo farmaco usato con successo su un adulto - L'Arena",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dIQmR6eDZZV0JKenhkY2U3dW1OcWJIVkRtZ2syZjY0STVRQ2xkbVVIbEM1SG8tM2s1U2d6a2RQT1Q0S2FrRWhDbk5paWNjLXFXREhUN3Z1N0piVWMzOGlud3pkc0NqX2pKNVZESzBiRzlFa0Vkb3QyTmdyclgtOEk5bW45ajRqT2d0UXc0RjA3SklEaFBsbWdOT2ZBam1POEF4RmN1Q3c0MUU5Y1JsNVdiMVYwaXBZZDRGSU5JUkd2Mk5hdnVaOHMwOFJWaHo4R3JuZkFGZ9IB3AFBVV95cUxNdVRuQzlZMjhQN3dhbjFDVXA4cnh3MG55Zk5wNnJneUFXeU04ZVVXWHlkQ1hHdGl2cGdaWktPZWh5b3NoaDBBb2Rhek5FUC1VYnd4VHpuU19EdnZlS1BYaE4xM002azRnS0oyeHBkRUhjVFpsZlZXLS0zY3dVNUotdzNQdERZVkR3WnBzUEZNMWlzUEctWFRIRTdHVlAwSTRqQ3hZeGh0NC1HTEdET1hJZkJxOFQzUVRsTnBRcTFfR2tlTWo5LXFkTHdnT3hVYTIteUxYSkk2bVh4R3lV?oc=5",
+      "published": "2026-08-13T12:32:41+00:00",
+      "source": {
+        "name": "L'Arena",
+        "url": "https://www.larena.it"
       }
     },
     {
@@ -824,16 +824,6 @@
       }
     },
     {
-      "id": "a98ff5da954c",
-      "title": "Il farmaco a base di Lsd di Definium conquista i medici e Wall Street - Startmag",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlVPZmNWSWNvem5RRUxPV0Y5ZVFucS1YLVBkOE1vejZRajhhbGdtbTdDSVdyTWdkWjVLQVhmRDFEVUhKU0hkdF9ySWxpVk9oTXBaVWpLZnB4TU1JY3A3YUh6dG9sbmJGTGdCNVl0alJ2X2ktMU8zbGYxaU9peU1Lak5fX3QxT0dlcG9TSDhFRVg0dHAxUWZNRDZDR2g5VF9BczE3UU9LMHN4M21l?oc=5",
-      "published": "2026-08-14T13:26:00+00:00",
-      "source": {
-        "name": "Startmag",
-        "url": "https://www.startmag.it"
-      }
-    },
-    {
       "id": "942a4806bcb1",
       "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
@@ -841,6 +831,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "a98ff5da954c",
+      "title": "Il farmaco a base di Lsd di Definium conquista i medici e Wall Street - Startmag",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlVPZmNWSWNvem5RRUxPV0Y5ZVFucS1YLVBkOE1vejZRajhhbGdtbTdDSVdyTWdkWjVLQVhmRDFEVUhKU0hkdF9ySWxpVk9oTXBaVWpLZnB4TU1JY3A3YUh6dG9sbmJGTGdCNVl0alJ2X2ktMU8zbGYxaU9peU1Lak5fX3QxT0dlcG9TSDhFRVg0dHAxUWZNRDZDR2g5VF9BczE3UU9LMHN4M21l?oc=5",
+      "published": "2026-08-14T13:26:00+00:00",
+      "source": {
+        "name": "Startmag",
+        "url": "https://www.startmag.it"
       }
     },
     {
