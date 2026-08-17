@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T20:14:06.570624+00:00",
+  "fetched_at": "2026-08-17T21:15:41.704705+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,16 +54,6 @@
       }
     },
     {
-      "id": "b44d132e2786",
-      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
-      "published": "2026-08-17T08:00:00+00:00",
-      "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
-      }
-    },
-    {
       "id": "3827758ce7a4",
       "title": "Come gestire i farmaci d'estate? Quali terapie sono più a rischio - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC0yUzlRWnpVSnpNTW9JY0Z4cTJTTFpxQWVCVDM5dHpSRkZhSk1hRDZuQ3FXQ0VmM2lRVFlkRV9wX1BWWWh1NVZQcHEya1J6ZTZDUEpDR3BmTUU0THhOTjNVdlNQY1p2TzFnVFBSRk1ya2stZTNudUNyMVlKQ2xZN3BES3hzUkp6aWVLSTBMT05BdEFreTh4QU1oTV9XU0lnSE9OeDJyOTFlSW1uZ19rcWFlOFHSAboBQVVfeXFMTW54aVBNeEdUQ084SEY3SnM1Vi1XWXg2b3Fnc2hhTFFOdXc3aUp6TzBFY1hNa2FMMUpQQXdVdDE0bmo5S2Y4ZG5rTlB4RmVBb2o0eW83aUtkTzVtLWV1WEtKUlZvNVQweVZoeG02WlYxaTZYZHhOVmx0RmZlT005TThnWUljWThPZV82Ui1SZlpRSUI2ZWhhUTdhUWZGa2VaUHpfMmYxMEMzRVQxTzAzeGdhSExYNm05T1JB?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "b44d132e2786",
+      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
+      "published": "2026-08-17T08:00:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -84,16 +84,6 @@
       }
     },
     {
-      "id": "fcd462eed61a",
-      "title": "Farmaci per contrastare il sovrappeso, l'allarme degli esperti: \"Da evitare l'utilizzo fuori da un adeguato percorso\" - Gazzetta di Parma",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHJ4M0U3RVhkYmt0Y2pyTS1uRjVZdjRFeERhWDdlZkZjODZLRHZfNjlKRHhhVm5oWnprajhJUW5RRHE2UWlkbmdrbjdtdGVhbmVQODV5aGxrcTM1YmI4RDBkeHJ6eW8yN19lZWFYTUNzQWJyMzZwOGwtcUQ0SkQ1QjA0WllublBXeFNZTnBGRFdfM1dqMXhGanZ1UmkwdzhRc3hVQUhNWDExWnp3MlJnMnVXd0xKSEhFcU9HcmtBYkZIbGQ0TU04Ykx3WWd5aTRScmY0TnFEQ0JDMWdjby16b2FtUTFoSW5LVWhGSlNGdko0MjNKVjhYcHYxMWpfN2dqUzhMc1p3?oc=5",
-      "published": "2026-08-13T17:10:35+00:00",
-      "source": {
-        "name": "Gazzetta di Parma",
-        "url": "https://www.gazzettadiparma.it"
-      }
-    },
-    {
       "id": "f9e6846b0566",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -101,6 +91,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "fcd462eed61a",
+      "title": "Farmaci per contrastare il sovrappeso, l'allarme degli esperti: \"Da evitare l'utilizzo fuori da un adeguato percorso\" - Gazzetta di Parma",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHJ4M0U3RVhkYmt0Y2pyTS1uRjVZdjRFeERhWDdlZkZjODZLRHZfNjlKRHhhVm5oWnprajhJUW5RRHE2UWlkbmdrbjdtdGVhbmVQODV5aGxrcTM1YmI4RDBkeHJ6eW8yN19lZWFYTUNzQWJyMzZwOGwtcUQ0SkQ1QjA0WllublBXeFNZTnBGRFdfM1dqMXhGanZ1UmkwdzhRc3hVQUhNWDExWnp3MlJnMnVXd0xKSEhFcU9HcmtBYkZIbGQ0TU04Ykx3WWd5aTRScmY0TnFEQ0JDMWdjby16b2FtUTFoSW5LVWhGSlNGdko0MjNKVjhYcHYxMWpfN2dqUzhMc1p3?oc=5",
+      "published": "2026-08-13T17:10:35+00:00",
+      "source": {
+        "name": "Gazzetta di Parma",
+        "url": "https://www.gazzettadiparma.it"
       }
     },
     {
@@ -134,13 +134,13 @@
       }
     },
     {
-      "id": "44da97c04d51",
-      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
-      "published": "2026-08-17T07:02:12+00:00",
+      "id": "efa31e71833e",
+      "title": "Tumore al pancreas, cautela per il farmaco applaudito dagli oncologi. “Non è una cura per tutti” - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFdtbDJkcEotUHVGdXdmM1Y1YXdiMUxVRE9Oa2hXSGtTM29sd3FSZW9vM1JUaDZKLVVRblk4UGZ4NjdYVlRPQXVtZVR0Rlp6bnAyRENDaGxTVnB3ckt5U2dOQURUbjROUUR3bmRRTkRLbGVNWnIwTTVJZ1FqSXBIVVJpZW85UkVPMmRPcVZtWTRxZlhDVmwxR1prYklhSTNsMmE3MVJUOEdRM0tsZ3NRbWthNzJIenU1Qmk4ejhvalR4OW9pbmZKNzJtcERGalpOWUJtSUltRGp4ZEM1Y0FJY09EcDJvV3PSAewBQVVfeXFMUFlHd0JVdldrRVJXcmdXZ09YVUZTTUFfdkg3M3k4cFlkS1hwZkNmbzZ6SXplZzl2VHpBdXNhUzJsM3RwWjdvZW05LS1hdUlOZ1o4VEFyMldncVVTRnUwdHJiRTczR3RubVdsdy1hcHA5WVF6Nk45THN4MWdDWkV5S3ZqVXRwRkJvS2pQS2xoLWFyOHVhUlZwbFExNjZRdjhkeUlYajJ3N3p4aGNWQ0JQWEZzdHNzUEVILVV1OWNQLTdINWU5cjV4WWIzSy11b2p4b0R1b1pZZVZIa2dGaU1uSWRpc0VlZnhLU1VXeF8?oc=5",
+      "published": "2026-08-14T15:00:00+00:00",
       "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
+        "name": "la Repubblica",
+        "url": "https://www.repubblica.it"
       }
     },
     {
@@ -204,13 +204,13 @@
       }
     },
     {
-      "id": "efa31e71833e",
-      "title": "Tumore al pancreas, cautela per il farmaco applaudito dagli oncologi. “Non è una cura per tutti” - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFdtbDJkcEotUHVGdXdmM1Y1YXdiMUxVRE9Oa2hXSGtTM29sd3FSZW9vM1JUaDZKLVVRblk4UGZ4NjdYVlRPQXVtZVR0Rlp6bnAyRENDaGxTVnB3ckt5U2dOQURUbjROUUR3bmRRTkRLbGVNWnIwTTVJZ1FqSXBIVVJpZW85UkVPMmRPcVZtWTRxZlhDVmwxR1prYklhSTNsMmE3MVJUOEdRM0tsZ3NRbWthNzJIenU1Qmk4ejhvalR4OW9pbmZKNzJtcERGalpOWUJtSUltRGp4ZEM1Y0FJY09EcDJvV3PSAewBQVVfeXFMUFlHd0JVdldrRVJXcmdXZ09YVUZTTUFfdkg3M3k4cFlkS1hwZkNmbzZ6SXplZzl2VHpBdXNhUzJsM3RwWjdvZW05LS1hdUlOZ1o4VEFyMldncVVTRnUwdHJiRTczR3RubVdsdy1hcHA5WVF6Nk45THN4MWdDWkV5S3ZqVXRwRkJvS2pQS2xoLWFyOHVhUlZwbFExNjZRdjhkeUlYajJ3N3p4aGNWQ0JQWEZzdHNzUEVILVV1OWNQLTdINWU5cjV4WWIzSy11b2p4b0R1b1pZZVZIa2dGaU1uSWRpc0VlZnhLU1VXeF8?oc=5",
-      "published": "2026-08-14T15:00:00+00:00",
+      "id": "44da97c04d51",
+      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
+      "published": "2026-08-17T07:02:12+00:00",
       "source": {
-        "name": "la Repubblica",
-        "url": "https://www.repubblica.it"
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "33a2dbf0a2b3",
-      "title": "Peptidi, la nuova moda per dimagrire senza prove scientifiche e con rischi per la salute - ilsalvagente.it",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHB1eUxEQUotNnliTnJDRDcyTXNWN1R4OTlmUUdhQjZzaGZjYW5oWnE0c3BEWURQZW13Wll0Mlk3ZWQ1MmRYd1lXbzZETHJ2S3B6TEc5NXlmWXEyM0NOLWxXRUlvN0ktNGViN0kzRmxIbERQaUNPSFhGd3dCQjFHblUzSVZBVWpwVkp2UWNLX1NvNWxTZ0Q3WVpsbi1xMkluazh1b29QNTExMVhpS00tUC1ybmdQTm02RTVabE1xOVo?oc=5",
-      "published": "2026-08-17T16:00:54+00:00",
-      "source": {
-        "name": "ilsalvagente.it",
-        "url": "https://ilsalvagente.it"
-      }
-    },
-    {
       "id": "4c2d3d93f48d",
       "title": "Operazione internazionale Pangea XVIII per il contrasto al traffico illecito di farmaci e prodotti correlati alla salute - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC1oMk40WjNhX2IzcmJKbDNHUXFyZ19XRHFteGZ4QjR2aEE2UnhLQURRSWhBWTh4QzJHSU55RE5Pa1czVmRUXzVNVGJKQU5ueVVsVnJNbWw0cUVSWVdXTjFIeEtCMXpZYWxITG5MMlhIUGl2V2E0VGFLWFNHV1p3MGxid0o1cGo5dGxqQ3FoUmxZdE1UXzZuVi0xNnZSdHF1VC1Ta01MTVVtbEVvLWlaUWxIdzBYWmdzeElkWW05RnloMlVvcTI0eUln?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "068e2c7275e0",
+      "title": "Peptidi, la nuova moda per dimagrire senza prove scientifiche e con rischi per la salute - il Salvagente",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHB1eUxEQUotNnliTnJDRDcyTXNWN1R4OTlmUUdhQjZzaGZjYW5oWnE0c3BEWURQZW13Wll0Mlk3ZWQ1MmRYd1lXbzZETHJ2S3B6TEc5NXlmWXEyM0NOLWxXRUlvN0ktNGViN0kzRmxIbERQaUNPSFhGd3dCQjFHblUzSVZBVWpwVkp2UWNLX1NvNWxTZ0Q3WVpsbi1xMkluazh1b29QNTExMVhpS00tUC1ybmdQTm02RTVabE1xOVo?oc=5",
+      "published": "2026-08-17T16:00:54+00:00",
+      "source": {
+        "name": "il Salvagente",
+        "url": "https://ilsalvagente.it"
       }
     },
     {
@@ -324,12 +324,12 @@
       }
     },
     {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "id": "6667ade3df85",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "name": "FNOPI",
         "url": "https://www.fnopi.it"
       }
     },
@@ -594,12 +594,12 @@
       }
     },
     {
-      "id": "25e1ac2ad2e4",
-      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
+      "id": "99baffda33d9",
+      "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - europarl.europa.eu",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
       "published": "2026-03-31T07:00:00+00:00",
       "source": {
-        "name": "European Parliament",
+        "name": "europarl.europa.eu",
         "url": "https://www.europarl.europa.eu"
       }
     },
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "209568e33401",
-      "title": "La polizia avverte la popolazione di non credere alle pubblicità di medicine tradizionali che promettono di \"curare il 100% delle malattie senza bisogno di andare in ospedale\". - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVFGeTBVbTZzY3VDQzh6ZUxwbDVWVVRfdmZMN1RjeHdJWGlkR2ZOM2VKOEVOZkViOGJLaVljMnZCSF9RZW81Q1EtYS1NU0ZHU3h5Mk9TdkFDRTh0R3gyZEdkTlR4c2tiNlVWZElDQWhIMjlaU0hpMHJXOUN6TzI0M284V2pOeUFqN3VXd3NhTDkzaV9KSG93WEw0TFp5SEhldU5zdHFCbnpkVnNBTHFsVTlIallpUDUt?oc=5",
-      "published": "2026-08-17T16:52:12+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "3cc8cf13c3be",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -694,12 +684,22 @@
       }
     },
     {
-      "id": "9bd4ea9c7d3c",
-      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - tg24.sky.it",
+      "id": "209568e33401",
+      "title": "La polizia avverte la popolazione di non credere alle pubblicità di medicine tradizionali che promettono di \"curare il 100% delle malattie senza bisogno di andare in ospedale\". - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVFGeTBVbTZzY3VDQzh6ZUxwbDVWVVRfdmZMN1RjeHdJWGlkR2ZOM2VKOEVOZkViOGJLaVljMnZCSF9RZW81Q1EtYS1NU0ZHU3h5Mk9TdkFDRTh0R3gyZEdkTlR4c2tiNlVWZElDQWhIMjlaU0hpMHJXOUN6TzI0M284V2pOeUFqN3VXd3NhTDkzaV9KSG93WEw0TFp5SEhldU5zdHFCbnpkVnNBTHFsVTlIallpUDUt?oc=5",
+      "published": "2026-08-17T16:52:12+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "d85a60bfc902",
+      "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
       "published": "2026-04-25T07:00:00+00:00",
       "source": {
-        "name": "tg24.sky.it",
+        "name": "Sky TG24",
         "url": "https://tg24.sky.it"
       }
     },
@@ -794,12 +794,12 @@
       }
     },
     {
-      "id": "70a3e2694d10",
-      "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - tg24.sky.it",
+      "id": "942a4806bcb1",
+      "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
       "published": "2026-06-25T07:00:00+00:00",
       "source": {
-        "name": "tg24.sky.it",
+        "name": "Sky TG24",
         "url": "https://tg24.sky.it"
       }
     },
