@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T00:37:52.911833+00:00",
+  "fetched_at": "2026-08-17T02:12:59.010784+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "f713eb810c10",
-      "title": "I farmaci comunemente usati per la disfunzione erettile sono collegati a un aumento del rischio di glaucoma? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDBCYXA1R29hVndxZmg1Z0lIOEw3bGh2Mk5BbTc1X1dXUmN4cS1KZVphNFpIRS1jZWE4S0VRMVRpZWsxaklFQjF2Uy1fRjZZcXI3UlNWUjdwZkJqal8xR3Y5d2FfT1RJY2E2NXJPcmxvd1N6Z0JNb1kwWjJwQUdVa2sxdEdrWF80MmxNWGptSnp1NzBmMTdYN0p4dmFKcU5QcDRTbQ?oc=5",
-      "published": "2026-08-16T05:53:41+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "c576dacae4e8",
       "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
+      }
+    },
+    {
+      "id": "1e21b1dbeb3d",
+      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
+      "published": "2026-08-13T08:28:50+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -184,10 +184,10 @@
       }
     },
     {
-      "id": "1e21b1dbeb3d",
-      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
-      "published": "2026-08-13T08:28:50+00:00",
+      "id": "f713eb810c10",
+      "title": "I farmaci comunemente usati per la disfunzione erettile sono collegati a un aumento del rischio di glaucoma? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDBCYXA1R29hVndxZmg1Z0lIOEw3bGh2Mk5BbTc1X1dXUmN4cS1KZVphNFpIRS1jZWE4S0VRMVRpZWsxaklFQjF2Uy1fRjZZcXI3UlNWUjdwZkJqal8xR3Y5d2FfT1RJY2E2NXJPcmxvd1N6Z0JNb1kwWjJwQUdVa2sxdEdrWF80MmxNWGptSnp1NzBmMTdYN0p4dmFKcU5QcDRTbQ?oc=5",
+      "published": "2026-08-16T05:53:41+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -274,16 +274,6 @@
       }
     },
     {
-      "id": "91a40b258343",
-      "title": "Rapporto OsMed 2025 dell’AIFA: la spesa farmaceutica italiana sale a 39,3 miliardi - L'Eurispes",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWxvUG52TDVZdHUzUk9adlJsMnZuNE8yTkFwbjh6TTJ0a2FvMnlDVl95MW5Ja0NQSnZyQ1YzT09PMjV0S3BVXzkyMEh0akhBTURKSWctVTVGdVdjN0ZJY2pTNXM3bk5VZ1g2Qk5URmZ0VHhaZ01WZlYxcFhvZ3FMdXNXLTlHNE1KYzlBT21Yb21aQS1iNHlnWko0bUxXT3JIbjYzekZUekU?oc=5",
-      "published": "2026-08-13T02:02:21+00:00",
-      "source": {
-        "name": "L'Eurispes",
-        "url": "https://www.leurispes.it"
-      }
-    },
-    {
       "id": "68119c3666c0",
       "title": "Antibiotici: quanto a lungo prenderli? Una ricerca rivaluta i ‘cicli brevi’ - lapresse.it",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUdoRWVGZ0t3V2NnVm9tVWlsaWx0LTM1Umlsc2puVUd0aGxNWVlRTW1vVDY1eEsydmp0VjV1TUpza0F4dWlfNU5hcGdycnhHSENWQlhNTWRHMzZjcnZlWXY1VlVIeUlCQXlYWmQ1Z19iM1pMNnctdmdqTFFWY3hQZ005MHJxYXNSZkhkaVE0NUFqV0ZVaGRmeDlTdHFwQU9FWXBaWk9pQUtUMWdPbTdSa2VBaFNMTl9hZjVXR0tFdw?oc=5",
@@ -324,12 +314,12 @@
       }
     },
     {
-      "id": "af147e88222f",
-      "title": "A \"Basta la Salute\" i nuovi farmaci per la cura dell'obesità - rai.it",
+      "id": "31b11b1a3ff7",
+      "title": "A \"Basta la Salute\" i nuovi farmaci per la cura dell'obesità - Rai.it",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN01rN1FoLVlYanU2QlZma1RiX2tldVp2MFlEN0xtTGVRVGdaSHdmUXJta3BvT1Y3aG1RSGQyeWdXRUxsVGp6bEFKc1hka013LUhOQ3V6RklNaUpfY18xODZqTU9SWnowdk1BNmY5c0Z4VkNZUmFMcmRsZlk4dXhidDVyNkFsZlFUU3JvTk92WXViekpFcDVRdVlmMVppM3F0ZWVaSU56SDd0ZHlfWTc4TmJBY2Y4RjVJQlE1TmJDUDRZNThmc1U5QVpHdXVleUJBUVF5RHFrTVpNV18wRnZaZ0VaRFhOZi1GZHpvOXdIWU1WTGhxRG45Y0t1ZU5ZZTloTVhCazFUcnVWcG5MdzJTa2t3NDlyWmF5STc2U21DYWQ?oc=5",
       "published": "2026-05-20T07:00:00+00:00",
       "source": {
-        "name": "rai.it",
+        "name": "Rai.it",
         "url": "https://www.rai.it"
       }
     },
@@ -404,16 +394,6 @@
       }
     },
     {
-      "id": "f7360a85634d",
-      "title": "Tar, cannabiolo solo con ricetta medica irripetibile - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVFNdGZkYlNpazE0eXBtRERxNHF1U1ZQSXQ1Z1JKZ0ZkMnkzWGY5ZFFNZ1Y4aEE0dWg2N0UwWFNqWjZ3eXhKSWpOVTZOUHNRcThXU1JnRXMzendHcGdOc2JpRW90SUlRLTJZb05mNEJYRngzUjVBVzdfWGZfdllnbDNFX1BYcktjSU9rZ09sVFk4TVB3?oc=5",
-      "published": "2026-08-14T17:02:14+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
-      }
-    },
-    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -454,16 +434,6 @@
       }
     },
     {
-      "id": "dce3d6525144",
-      "title": "A Verona il primo trattamento con il farmaco che rallenta il diabete di tipo 1: «In futuro si potrà evitarne la comparsa» - VeronaSera",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSS1xRWRrWjBDWndwRGFKaVVqUHhGQ0VZS2ptWFZPMlpVRS02MlFxcmlsTDRydEdlNGN5dFVReExldVRRS1ZEUHoxUUI0QmRpZDJtd0NiclZUMWlNYXREYUFEaHVwWGh4d2NYTDByTGwtbS1JaFRhcjh4dE1OWVRMMW9HOWZNOW13X1AySA?oc=5",
-      "published": "2026-08-12T10:08:22+00:00",
-      "source": {
-        "name": "VeronaSera",
-        "url": "https://www.veronasera.it"
-      }
-    },
-    {
       "id": "88ab19015ef8",
       "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
@@ -471,6 +441,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "dce3d6525144",
+      "title": "A Verona il primo trattamento con il farmaco che rallenta il diabete di tipo 1: «In futuro si potrà evitarne la comparsa» - VeronaSera",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSS1xRWRrWjBDWndwRGFKaVVqUHhGQ0VZS2ptWFZPMlpVRS02MlFxcmlsTDRydEdlNGN5dFVReExldVRRS1ZEUHoxUUI0QmRpZDJtd0NiclZUMWlNYXREYUFEaHVwWGh4d2NYTDByTGwtbS1JaFRhcjh4dE1OWVRMMW9HOWZNOW13X1AySA?oc=5",
+      "published": "2026-08-12T10:08:22+00:00",
+      "source": {
+        "name": "VeronaSera",
+        "url": "https://www.veronasera.it"
       }
     },
     {
@@ -504,6 +484,16 @@
       }
     },
     {
+      "id": "f7360a85634d",
+      "title": "Tar, cannabiolo solo con ricetta medica irripetibile - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVFNdGZkYlNpazE0eXBtRERxNHF1U1ZQSXQ1Z1JKZ0ZkMnkzWGY5ZFFNZ1Y4aEE0dWg2N0UwWFNqWjZ3eXhKSWpOVTZOUHNRcThXU1JnRXMzendHcGdOc2JpRW90SUlRLTJZb05mNEJYRngzUjVBVzdfWGZfdllnbDNFX1BYcktjSU9rZ09sVFk4TVB3?oc=5",
+      "published": "2026-08-14T17:02:14+00:00",
+      "source": {
+        "name": "Il Sole 24 ORE",
+        "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
       "id": "7b2d2c06c7e7",
       "title": "Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5",
@@ -514,12 +504,12 @@
       }
     },
     {
-      "id": "d30ecb5eb953",
-      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - univrmagazine.it",
+      "id": "5a735aea30fa",
+      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
       "published": "2026-04-15T07:00:00+00:00",
       "source": {
-        "name": "univrmagazine.it",
+        "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
       }
     },
@@ -544,13 +534,13 @@
       }
     },
     {
-      "id": "9a35e14f67ea",
-      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
-      "published": "2026-08-11T10:00:04+00:00",
+      "id": "940d1f465dba",
+      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
       "source": {
-        "name": "Il Giorno",
-        "url": "https://www.ilgiorno.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -574,13 +564,13 @@
       }
     },
     {
-      "id": "4d85080de894",
-      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - VeronaSera",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjSnJtSVgtSUxyVG5uWXZqb19VcWZYQUFabTZTSzRZVjZTdW02MW84aXV0MTF0OXRCTHJZamZ6S0NwXzkzb1ZjaGtudG44czRlZWloaVdtQnkzdUFJVmdxRXRTT3MyaFNCT3dyNkZyZWNLMEpSMllseERR?oc=5",
-      "published": "2026-08-11T08:45:37+00:00",
+      "id": "9a35e14f67ea",
+      "title": "Malattia Oculare Tiroidea, al Policlinico di Milano somministrato il primo farmaco approvato in Italia - Il Giorno",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkeDdPYnZJQ1d4M1ZXVWI4VTU4MFlBckJFTDJHYWdyaDdDaEowcC1mcXd0QkdMWldYNnVDZjVuTVI2ajdDLWpYWlBjMUNXc3NURTRfR0VVUW9odjFvcXFtV0pEbWtSc2lWN0JjSFpyd3ZWWXRNQlJmRHVkVWtpdw?oc=5",
+      "published": "2026-08-11T10:00:04+00:00",
       "source": {
-        "name": "VeronaSera",
-        "url": "https://www.veronasera.it"
+        "name": "Il Giorno",
+        "url": "https://www.ilgiorno.it"
       }
     },
     {
@@ -614,6 +604,16 @@
       }
     },
     {
+      "id": "4d85080de894",
+      "title": "Servizi di farmacia nel Veronese nel weekend di Ferragosto: le informazioni utili - VeronaSera",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjSnJtSVgtSUxyVG5uWXZqb19VcWZYQUFabTZTSzRZVjZTdW02MW84aXV0MTF0OXRCTHJZamZ6S0NwXzkzb1ZjaGtudG44czRlZWloaVdtQnkzdUFJVmdxRXRTT3MyaFNCT3dyNkZyZWNLMEpSMllseERR?oc=5",
+      "published": "2026-08-11T08:45:37+00:00",
+      "source": {
+        "name": "VeronaSera",
+        "url": "https://www.veronasera.it"
+      }
+    },
+    {
       "id": "11f850b6dff3",
       "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5",
@@ -634,26 +634,6 @@
       }
     },
     {
-      "id": "d19a9bb8ce41",
-      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
-      "published": "2026-08-10T23:46:00+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "4fb2e8ff8323",
-      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
-      "published": "2026-08-10T03:50:14+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "3cc8cf13c3be",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” - TrendSanità",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVVIxSkhSNnZGSWdRbURqQkFxZlBzSnNHU1pjRjVkMzFjaTZMcDVqdi15VTJBUGNneFdscnlmTDN5R25uWGc5aGpBQnhzelFLbWhaNmZn?oc=5",
@@ -661,6 +641,16 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
+      }
+    },
+    {
+      "id": "d19a9bb8ce41",
+      "title": "Ministero della Salute: Inasprimento dei controlli sulla medicina tradizionale e sui farmaci, prevenzione della contraffazione e della vendita di farmaci di qualità inferiore. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFZ3aXVHLVBKNEFHdGdoYndXbld4cENQbzNPWXk4WjU1V19CMmgzbUU0SjloRThSaFhYWURCT0RJNWdheUNJeE5nbE9wcHFlUHA4dEpyd0Q1M25WZzZvdldJcHJicTdGRGdTaFpBM1ZOMW5PMFZpVUx4RGN1U3NmZ2t3anlMczJxQ2JGRlRIZjcxc0VJMFRHZnJKQ2Y4WUE?oc=5",
+      "published": "2026-08-10T23:46:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -694,16 +684,6 @@
       }
     },
     {
-      "id": "a46e06f67841",
-      "title": "Garattini: “Abbiamo troppi farmaci, in Italia manca un’informazione indipendente” - BergamoNews",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjlBVDdWdXJpZUZqbVJCUHRIZ3ExcldmRHJsbnVDLXR1XzktZjExbnJFSG9IWlFuQzA2cjFRalZZTTdBWHJIT19saUxnRmJsaHBSVElzbXkwMy1QMVdvS0ZhSVRtNUNFTlRfdl9KeUxvem5oTFJmbkh5TlpoVEZxMXdFRmtrSGZ5RTRLMlpUcTB5TnFWbjRGeXNGVllleWxVTXhCZEo5ZS1lQl9wNlVsaTROX3lMV0llb0JmVC1KTQ?oc=5",
-      "published": "2026-08-12T03:56:00+00:00",
-      "source": {
-        "name": "BergamoNews",
-        "url": "https://www.bergamonews.it"
-      }
-    },
-    {
       "id": "81d69817e3a3",
       "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
@@ -711,6 +691,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "db455ad6ef00",
+      "title": "Garattini: “Abbiamo troppi farmaci, in Italia manca un’informazione indipendente” - bergamonews.it",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjlBVDdWdXJpZUZqbVJCUHRIZ3ExcldmRHJsbnVDLXR1XzktZjExbnJFSG9IWlFuQzA2cjFRalZZTTdBWHJIT19saUxnRmJsaHBSVElzbXkwMy1QMVdvS0ZhSVRtNUNFTlRfdl9KeUxvem5oTFJmbkh5TlpoVEZxMXdFRmtrSGZ5RTRLMlpUcTB5TnFWbjRGeXNGVllleWxVTXhCZEo5ZS1lQl9wNlVsaTROX3lMV0llb0JmVC1KTQ?oc=5",
+      "published": "2026-08-12T03:56:00+00:00",
+      "source": {
+        "name": "bergamonews.it",
+        "url": "https://www.bergamonews.it"
       }
     },
     {
@@ -731,6 +721,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "4fb2e8ff8323",
+      "title": "Il Ministero della Salute ha emanato le ultime normative in materia di registrazione dei farmaci e delle materie prime farmaceutiche destinate alla commercializzazione. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVOamdISUJNaDRjQUhmQ2VVcXNNNVNpOHJ1a3NBeXhyXzVJTk81Nk5CY1VWRmdVQVFoWklGUjVLdWJYRTNneldOVWhseWx5QkhET1lIcVdhSTJpdk9BRk1vX3gwVTQzVnBYOE9ZV1dTX1NZelpWUVZFdWVlRXRUQjBrb29TNzZVRTVDWnJQRDBVNTY5azQwRDJNdS15MXNX?oc=5",
+      "published": "2026-08-10T03:50:14+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -884,16 +884,6 @@
       }
     },
     {
-      "id": "71e2466c9d54",
-      "title": "Ricette elettroniche e malfunzionamento software: disagi in farmacia per anziani e malati cronici - BrindisiReport",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmZBb29kU3k1aVV5R3VsUWM2aWRjMUtuNFc1OWliMFZoVUk1ZlU0czdRcGhDbGdIZVFTZmVKcnVtU2NpTk9uMW1kb012ZVRNeGdiZUxTZUJWNVhmdHQwZnZmZ2luTjI5R3lZTkI3bFNrYjNXVGZRY2oxNGhGemdnVHFaQUFvNVJpcUM4RUlnZHYwM3czLW5RaERFTGFlR0cxU1JJZnB2c2l1TmQ4VkNkU1BvVkoxQVQ5ZElGZg?oc=5",
-      "published": "2026-08-13T16:39:00+00:00",
-      "source": {
-        "name": "BrindisiReport",
-        "url": "https://www.brindisireport.it"
-      }
-    },
-    {
       "id": "a12d88a0d20c",
       "title": "Caldo e farmaci: le 5 mosse salva-terapia da seguire subito - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHpDZTNyeFIxcE81ZWV2TnhmWEl4THZPUzNnYUd0aHZWdUE1RUxRejRMVnZiZkNpTzZ3aUNYVnd2MW9tNjFfck9CVGNibmw0OUltREpZS0ItYlpyRmRxWklOZVJfNUxjMllJU2FFM2NlblFaLVhrWDFCS2o0cFREQzdaZ0pBX2oyX0ZMVEQzVzJvUmhheUxmeHRBN3Z4UnpLM0NOdXlOYUc0elFfakE?oc=5",
@@ -901,6 +891,26 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "582a82d8accf",
+      "title": "Dispositivi medici: dai reagenti diagnostici alle protesi, le categorie dove la Puglia dovrà ridurre la spesa - FoggiaToday",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTNfZ19aXzNwQjRLUXoxZGVvMmR2cjVyTzl3V3V6VjZERklTUVA2T0o0MGNVd3FQOGVMM3V0b3dLeUtqUGo0dzktNURDOFlQMHpMcDQtbEozYUZZM21PMFpZdVo3SE5QZ0JTUWRXeDMzTlBwTDRaRTNuNHVZUjVfYzZrTnp1Q0VRTEw5ZFZBYnNRVXJwVzhxWEVoUlJEN1piRkpOVEpFMVdjTUdhWFE?oc=5",
+      "published": "2026-08-11T15:17:00+00:00",
+      "source": {
+        "name": "FoggiaToday",
+        "url": "https://www.foggiatoday.it"
+      }
+    },
+    {
+      "id": "71e2466c9d54",
+      "title": "Ricette elettroniche e malfunzionamento software: disagi in farmacia per anziani e malati cronici - BrindisiReport",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMmZBb29kU3k1aVV5R3VsUWM2aWRjMUtuNFc1OWliMFZoVUk1ZlU0czdRcGhDbGdIZVFTZmVKcnVtU2NpTk9uMW1kb012ZVRNeGdiZUxTZUJWNVhmdHQwZnZmZ2luTjI5R3lZTkI3bFNrYjNXVGZRY2oxNGhGemdnVHFaQUFvNVJpcUM4RUlnZHYwM3czLW5RaERFTGFlR0cxU1JJZnB2c2l1TmQ4VkNkU1BvVkoxQVQ5ZElGZg?oc=5",
+      "published": "2026-08-13T16:39:00+00:00",
+      "source": {
+        "name": "BrindisiReport",
+        "url": "https://www.brindisireport.it"
       }
     },
     {
@@ -934,16 +944,6 @@
       }
     },
     {
-      "id": "940d1f465dba",
-      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
-      "published": "2026-05-30T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "33d1e98ab8aa",
       "title": "Sostanze dopanti, dal 1° gennaio 2026 i farmacisti possono trasmettere i dati relativi alle quantità di principi attivi vietati per doping - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnVhZWhnWk0xbnhUM3FFektBUzJMWG81LU5Sd0xwSVVsd2o2S05DdURXVlRhY1VhZnVpQllzdnZlajFINnVPbnNTcjgwLWJaMmhIRV9NWnFuNm1ZTkREaWozSGZHUDJidzdQa3ppNUktdy1DMGFmcU8tT005emF2UXJMM0tzNHRRS1FoV19XRWFud081dG16NTVyVndlN2EyT1EwYnlaUXEzRFItQmIyS05FbHNiNkJGQlAzbnZrM1hoMWRFOVAxaFNENF8?oc=5",
@@ -964,16 +964,6 @@
       }
     },
     {
-      "id": "600dda92dc58",
-      "title": "Formia, presunta sottrazione di farmaci, la Asl Latina: «Nessun ammanco» - Latina Oggi",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHRReXItUG0wUkp5c0hoSWxKUGtpUHlnNUNEY3FVWnhCekUzcFhrSUQ5WjJkbnFSNl9jWjdBTXYwX2ZBYUVZTmxqcGZxODgzQ2NFU0lkV01xUFhMUkxZblU4OG9Sb052N0FuYnp0VE5pNFQ1T05jV1pjcHIxMkdmNVh6YVNzaTBqeGt0R2FnbGZTYkhiWW1nR29xMFBwQ2VUeEFUa3RJSzNMWTYyUjF3dDF6LU12QU1J?oc=5",
-      "published": "2026-08-14T14:30:00+00:00",
-      "source": {
-        "name": "Latina Oggi",
-        "url": "https://www.latinaoggi.eu"
-      }
-    },
-    {
       "id": "cb55aab83e28",
       "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
@@ -981,6 +971,16 @@
       "source": {
         "name": "pharmastar.it",
         "url": "https://www.pharmastar.it"
+      }
+    },
+    {
+      "id": "600dda92dc58",
+      "title": "Formia, presunta sottrazione di farmaci, la Asl Latina: «Nessun ammanco» - Latina Oggi",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHRReXItUG0wUkp5c0hoSWxKUGtpUHlnNUNEY3FVWnhCekUzcFhrSUQ5WjJkbnFSNl9jWjdBTXYwX2ZBYUVZTmxqcGZxODgzQ2NFU0lkV01xUFhMUkxZblU4OG9Sb052N0FuYnp0VE5pNFQ1T05jV1pjcHIxMkdmNVh6YVNzaTBqeGt0R2FnbGZTYkhiWW1nR29xMFBwQ2VUeEFUa3RJSzNMWTYyUjF3dDF6LU12QU1J?oc=5",
+      "published": "2026-08-14T14:30:00+00:00",
+      "source": {
+        "name": "Latina Oggi",
+        "url": "https://www.latinaoggi.eu"
       }
     },
     {
