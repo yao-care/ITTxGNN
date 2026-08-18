@@ -1,25 +1,35 @@
 {
-  "fetched_at": "2026-08-18T12:22:30.017862+00:00",
+  "fetched_at": "2026-08-18T13:34:28.326746+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "0ff175b568fe",
-      "title": "Il caldo può cambiare l’effetto di alcuni farmaci: ecco quali - OK Salute e Benessere",
+      "id": "7c97fcb5b4ac",
+      "title": "Retatrutide, il farmaco non è ancora in commercio ma sul web spuntano già le copie illegali - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVpTOU1TaEdTVmQ2MXJ0cjBydWNYejA5TllVcm1MNi1zb09OTWZLUFFVMjJiWGRycXdwVk9TZTRySEJjQ09uQzNVWEY0dDhERkdIckxqSmNBVFYtQmQ5N2UzYTg4MEE2WE9oSndVb0Y2amxqLW16SlhlNmJPSm1tZTBhX1pCcUJSTUJUMHM2cHBSMzVpQ2ZpclhWck81R01aVnFwOHdMUlhoMGtWVVVXWktPZjhoRk9pblVydUVMQzNRcXBkVm1CWU9YUUpIYXhvYjZhalh1emdBazNSSEx2LS1iZw?oc=5",
+      "published": "2026-08-17T10:00:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "004d50bae864",
+      "title": "Il caldo può cambiare l’effetto di alcuni farmaci: ecco quali - ok-salute.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3E4S2VlaVpDNFE3NlFOeE5vSUxsNmVEck1ocjJUMTNielVsVV9XU3E1bExuMWZmWEh1NUpYaE91NEtETnRRd2NLcS1LMGlrWVk0YjYwVFV6LWl2eElrT2IxaC1XZW1lNkMtOUNpN0NKX0tKMU9HY3ZCMHlWcVhvN18yNXNiSktfZERVWE8xX2pEX1NFX3JJ?oc=5",
       "published": "2026-08-16T08:03:18+00:00",
       "source": {
-        "name": "OK Salute e Benessere",
+        "name": "ok-salute.it",
         "url": "https://www.ok-salute.it"
       }
     },
     {
-      "id": "fa3c228d7a7d",
-      "title": "Farmaci plasmaderivati: nuova spedizione per i pazienti in Palestina - AVIS - Associazione volontari italiani del Sangue",
+      "id": "96f946c90a3a",
+      "title": "Farmaci plasmaderivati: nuova spedizione per i pazienti in Palestina - avis.it",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVNjeG1BMUpnYmdNM2VoUGIwMS05YTZGb2pIT2JCRGs0QTFCVEh3R2VVQTktS1N3elV5eFdWRnNZaEI5dUJMckNrR0NZZHN3aTlPUzltMlIzc2dHZEc2aW9ZLVpoNEFQdV9rcVZRNDdpMllnV3R6R19wWWRIenNTdm1ia25yTjBoRG5LM0hBZVA3dw?oc=5",
       "published": "2026-08-17T06:06:17+00:00",
       "source": {
-        "name": "AVIS - Associazione volontari italiani del Sangue",
+        "name": "avis.it",
         "url": "https://www.avis.it"
       }
     },
@@ -34,22 +44,12 @@
       }
     },
     {
-      "id": "7c97fcb5b4ac",
-      "title": "Retatrutide, il farmaco non è ancora in commercio ma sul web spuntano già le copie illegali - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVpTOU1TaEdTVmQ2MXJ0cjBydWNYejA5TllVcm1MNi1zb09OTWZLUFFVMjJiWGRycXdwVk9TZTRySEJjQ09uQzNVWEY0dDhERkdIckxqSmNBVFYtQmQ5N2UzYTg4MEE2WE9oSndVb0Y2amxqLW16SlhlNmJPSm1tZTBhX1pCcUJSTUJUMHM2cHBSMzVpQ2ZpclhWck81R01aVnFwOHdMUlhoMGtWVVVXWktPZjhoRk9pblVydUVMQzNRcXBkVm1CWU9YUUpIYXhvYjZhalh1emdBazNSSEx2LS1iZw?oc=5",
-      "published": "2026-08-17T10:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "35b2ccc04fb3",
-      "title": "Vaccino antinfluenzale a mRNA: ok da autorità Usa a mFLUSIVA di Moderna - Focus.it",
+      "id": "7b1543044987",
+      "title": "Vaccino antinfluenzale a mRNA: ok da autorità Usa a mFLUSIVA di Moderna - focus.it",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGd2S0dlQXRSeWJRRlh2UzlIcnpxMURXeWZxM20zZHJXZVBPQ1VOUWw1dXBoWlNBcmFrb1ZvMVp6UFltTDZIcnZkWXBKUWtVZ1Yyc0RISDU3SE1veVhmYzRsN3JuaXYtcVFKMXkwZXFLaXBhODZKTUs1TGN5UExxS2YyY1FHekJWbGt3RFEwSlRRYzlBaURVdDZ5VnNVcl9aMFduUTdYQ2tUNHlpNXJmWE1hOWtMS2p1YS1hOVFUMmtuTWc?oc=5",
       "published": "2026-08-14T08:33:31+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "499b4d6b2481",
-      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - Radio Taormina",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVZuV0xDS3lPZ0tZbWdxSV9YVGV0c19IWHc4ME1nY3V6Und4dXEyOGhiYUhRTXBMRkJsOUd3WE9faGtVeFByVlB3eTE2RkVPMEFlY3BoT1NYTGVoV3BSTVN1QW82cXNJblpTUmZzVXE3NzJ4ZVQ0SkNXeGJ6NUN0eTNXZmx1Vnp0eE5MZjduVVFfa3RoY3l6YVhZTEVNSXRKSnRBWkJ6cWxoWVd6bmFXNFlKQmdaUDRIMG4yOVNIRXRYekZUb2RWUlhsckxmQjdEZUVETWdoYnB4UQ?oc=5",
-      "published": "2026-08-18T10:27:04+00:00",
-      "source": {
-        "name": "Radio Taormina",
-        "url": "https://radiotaormina.it"
-      }
-    },
-    {
       "id": "f9e6846b0566",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -84,13 +74,13 @@
       }
     },
     {
-      "id": "bee3fbe331cf",
-      "title": "Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5",
-      "published": "2026-08-14T15:00:02+00:00",
+      "id": "499b4d6b2481",
+      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - Radio Taormina",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVZuV0xDS3lPZ0tZbWdxSV9YVGV0c19IWHc4ME1nY3V6Und4dXEyOGhiYUhRTXBMRkJsOUd3WE9faGtVeFByVlB3eTE2RkVPMEFlY3BoT1NYTGVoV3BSTVN1QW82cXNJblpTUmZzVXE3NzJ4ZVQ0SkNXeGJ6NUN0eTNXZmx1Vnp0eE5MZjduVVFfa3RoY3l6YVhZTEVNSXRKSnRBWkJ6cWxoWVd6bmFXNFlKQmdaUDRIMG4yOVNIRXRYekZUb2RWUlhsckxmQjdEZUVETWdoYnB4UQ?oc=5",
+      "published": "2026-08-18T10:27:04+00:00",
       "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
+        "name": "Radio Taormina",
+        "url": "https://radiotaormina.it"
       }
     },
     {
@@ -194,6 +184,16 @@
       }
     },
     {
+      "id": "b04d96cd8abb",
+      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - focus.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "source": {
+        "name": "focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
       "id": "5ea824f9fef4",
       "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5",
@@ -201,16 +201,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "c124dd2dca81",
-      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     },
     {
@@ -264,22 +254,12 @@
       }
     },
     {
-      "id": "1e21b1dbeb3d",
-      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
-      "published": "2026-08-13T08:28:50+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "b44d132e2786",
-      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
+      "id": "b5da5d60ae9d",
+      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - giornalelavoce.it",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
       "published": "2026-08-17T08:00:00+00:00",
       "source": {
-        "name": "Giornale La Voce",
+        "name": "giornalelavoce.it",
         "url": "https://www.giornalelavoce.it"
       }
     },
@@ -291,6 +271,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "1e21b1dbeb3d",
+      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
+      "published": "2026-08-13T08:28:50+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -354,16 +344,6 @@
       }
     },
     {
-      "id": "a97ff7e847b5",
-      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzg5Q0ZPVDVUVm9QcVltdFg1dW45aDdUaFo3N0VRdV94Nnd2Mk5tcFhaQUpsdkhTQUpGdEpydl9Qd3Qtak1fZWN6Slg5UmJucjN0R0NmR0dFeHFibXVBR1d4cFEySG5RcXlXdVpnODZodGZ0X2twek5iMk1oQ3ZkOWtSZVhVcVJHMjA4NENpa0p2dEhiQndpQmRhSDJSRVI5Qmo4ejl6ZVZ4YVdSZHFmbDBXSC1qREEycXNQSmdIS2RBMmJIUzBxNW5B?oc=5",
-      "published": "2026-08-14T05:30:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "31b11b1a3ff7",
       "title": "A \"Basta la Salute\" i nuovi farmaci per la cura dell'obesità - Rai.it",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN01rN1FoLVlYanU2QlZma1RiX2tldVp2MFlEN0xtTGVRVGdaSHdmUXJta3BvT1Y3aG1RSGQyeWdXRUxsVGp6bEFKc1hka013LUhOQ3V6RklNaUpfY18xODZqTU9SWnowdk1BNmY5c0Z4VkNZUmFMcmRsZlk4dXhidDVyNkFsZlFUU3JvTk92WXViekpFcDVRdVlmMVppM3F0ZWVaSU56SDd0ZHlfWTc4TmJBY2Y4RjVJQlE1TmJDUDRZNThmc1U5QVpHdXVleUJBUVF5RHFrTVpNV18wRnZaZ0VaRFhOZi1GZHpvOXdIWU1WTGhxRG45Y0t1ZU5ZZTloTVhCazFUcnVWcG5MdzJTa2t3NDlyWmF5STc2U21DYWQ?oc=5",
@@ -371,6 +351,16 @@
       "source": {
         "name": "Rai.it",
         "url": "https://www.rai.it"
+      }
+    },
+    {
+      "id": "a97ff7e847b5",
+      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzg5Q0ZPVDVUVm9QcVltdFg1dW45aDdUaFo3N0VRdV94Nnd2Mk5tcFhaQUpsdkhTQUpGdEpydl9Qd3Qtak1fZWN6Slg5UmJucjN0R0NmR0dFeHFibXVBR1d4cFEySG5RcXlXdVpnODZodGZ0X2twek5iMk1oQ3ZkOWtSZVhVcVJHMjA4NENpa0p2dEhiQndpQmRhSDJSRVI5Qmo4ejl6ZVZ4YVdSZHFmbDBXSC1qREEycXNQSmdIS2RBMmJIUzBxNW5B?oc=5",
+      "published": "2026-08-14T05:30:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -424,6 +414,16 @@
       }
     },
     {
+      "id": "38ebae400e0e",
+      "title": "Fascicolo sanitario elettronico: referti, ricette e farmaci sempre a portata di mano - omceocn.it",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY19sT2lIOHpwZ3dzcXhzNmpKM1Z3ZmxCWm1qeHY0dTB0ZHltelFHR1hQLXFZYUU3V3BjaVFSM0JzUVdHdDdjV0xmZ0VTSHROVEk0dHd4UW02YWZXSWtIM3JlNUVZeEF4ajJBM3JDQmRZaGN4UDJTQkhkVjA5QmhCT2NnV0Y3RnQxd0NwMVVGZVBnc3BwdVhVU3l3QXNHNHhiZXFTU0F6UFZJdlRkT3ZvXw?oc=5",
+      "published": "2026-08-13T09:39:52+00:00",
+      "source": {
+        "name": "omceocn.it",
+        "url": "https://www.omceocn.it"
+      }
+    },
+    {
       "id": "88ab19015ef8",
       "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
@@ -444,12 +444,12 @@
       }
     },
     {
-      "id": "8946190c4732",
-      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - Focus.it",
+      "id": "9182ccc6d8e4",
+      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - focus.it",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnZnd2VwNmpqVU1hakt0Ml9IblJsOGRGdWRSb3AyNzQyNlVwUmxwcXdNY3haSVQ2d3RTanhDcHZ5ajJtQjJjNjB4aUU3TmtIVGRfdXBCT2NBVkFlbGhyWS1QSnhVTHBUU3pVTTNXYUYwdnF2OHJBeDhQSGZ6RVluN2FrQU44V0FnSUtuZEVPMTBrMGh3WTVlMUozM21mS0tUOF93VWkwQjZlRzhK?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -604,16 +604,6 @@
       }
     },
     {
-      "id": "44da97c04d51",
-      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
-      "published": "2026-08-17T07:02:12+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
       "id": "80e8f713ae99",
       "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
@@ -621,6 +611,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "44da97c04d51",
+      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
+      "published": "2026-08-17T07:02:12+00:00",
+      "source": {
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -674,12 +674,12 @@
       }
     },
     {
-      "id": "b6dcf5c98b7a",
-      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - Il Sole 24 ORE",
+      "id": "04461c981524",
+      "title": "Farmaci equivalenti, i giovani restano «freddi»: poca informazione e fiducia mentre cresce l’IA - ilsole24ore.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUJIVGlScVVkUlFYdFNWVzQ2STV0V2ZZYlA4NG9GZGpXZVlaa1hkMHN5NVR1ZVI2UlJHVEdBNmNIcXhhVnRIMU5wWWRRVzdsMmk3VnJwU2UtVkp0eGN6QnJ2bUoxaHZGUGpzZ2dmOVRMWDdOZDJVRmdJZUk0NXhvS3NxLU5FdFhMTG1nY01YR0g0emROSjkxbjlGVkpPMFNfTHFuNTNwRmtkUXQ1aDdLVmxicGdtOTVOSWdkeVF5SGZpTGNFbEk2c0J3?oc=5",
       "published": "2026-06-22T07:00:00+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
+        "name": "ilsole24ore.com",
         "url": "https://www.ilsole24ore.com"
       }
     },
@@ -744,12 +744,12 @@
       }
     },
     {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "id": "8e0d8be4b0a4",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - focus.it",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
       "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -824,12 +824,12 @@
       }
     },
     {
-      "id": "05617954d39f",
-      "title": "Alzheimer: i nuovi farmaci ci sono, ma in Italia non sono rimborsati - OK Salute e Benessere",
+      "id": "d89e5ac21fe6",
+      "title": "Alzheimer: i nuovi farmaci ci sono, ma in Italia non sono rimborsati - ok-salute.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU05yQ25aSW5uTkJtVDNQZXZIUjN4dzN3cGRxMFZPSy1zNklqQ0dDamxKTkVscUFMSEMwdkpPTExGYi1BX3ZQZG45M0NESEl4RDhBd1pHMmtrR1dRblkxNnJiaExRU2ZaOGViUkdSVEZHWEJHVzZkZ0VZMFpRNHVBSlFPbWdEcmw5M0gyb3JLZy1QWjN0ZlBqZWlwdDdZUQ?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "OK Salute e Benessere",
+        "name": "ok-salute.it",
         "url": "https://www.ok-salute.it"
       }
     },
@@ -914,22 +914,22 @@
       }
     },
     {
-      "id": "e563fb6ff855",
-      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - Focus.it",
+      "id": "59a544ca9fad",
+      "title": "Farmaci antiobesità: perché per alcuni funzionano meglio? - focus.it",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVU3czBGMXNsMC1kMXZHMk9JbEQweHl2VnFrOU0wa0VQcDkxY2VrZnJRTGd4WThhRnBRQVNuemJuSTc0SzZsSFk2alRBUTB1ak1MMXNsNng5bXVDdXNDYmlpeExHNnFHbTBEX3pVcGxiOEtheDVXS3ViY190YXZMbjdUOHRwR2w4a1l1b0tnaklrMHl5WU9j?oc=5",
       "published": "2026-04-12T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
     {
-      "id": "d3b6f8d20180",
-      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
+      "id": "f0220d502d7f",
+      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - ilsole24ore.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
       "published": "2026-05-13T07:00:00+00:00",
       "source": {
-        "name": "Il Sole 24 ORE",
+        "name": "ilsole24ore.com",
         "url": "https://www.ilsole24ore.com"
       }
     },
@@ -944,12 +944,12 @@
       }
     },
     {
-      "id": "940d1f465dba",
-      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - Focus.it",
+      "id": "750497322112",
+      "title": "Giornata mondiale della sclerosi multipla: un farmaco riduce la progressione anche nei pazienti in fase avanzata - focus.it",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnFaSDhMU2ZmN0RJRDFXYzhtUURiYkxkSmlod2hiNDQwSHJGVGdxbXBLdHBheVBNYXRDa1h6elpJcDZVTERjdVFYaldEcG5Xdnc3YXBXZ01aLTJ2cUZrUVBvdFh0QzNCMGI0cmZNbjRZbmxrVE5weURnTWZ0dFdYU2UzS2pkcjBfQTlsZlJLazBITm1IYjZHQTJITUFLbWwwSzJKN25OWjdycmNUcGZ5OHdtQWhQZnpGZzg4RlU0Z2E?oc=5",
       "published": "2026-05-30T07:00:00+00:00",
       "source": {
-        "name": "Focus.it",
+        "name": "focus.it",
         "url": "https://www.focus.it"
       }
     },
@@ -964,12 +964,12 @@
       }
     },
     {
-      "id": "05a8ffd6936f",
-      "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - OK Salute e Benessere",
+      "id": "ef75643cb414",
+      "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - ok-salute.it",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTR6QXl3X01lRXQweVN0c0FwRVJsdGtDb21xMzcyd2RnT1lxSl9Da2N5VVBydDRLYmdJdkgzSmk0TXQyeFE3TnViN2E4WmhEZ3B5QndRWWhkeW9Nb2FXVkVqNnRvakRqVGltbHY4WUFUcDVXak1JRUhXV0FHakxoQkZIMFhnRnFZQ05yaUJESkRhMWVTa3pjbEZUekh2T28yWGpibXROcXJNUQ?oc=5",
       "published": "2026-06-15T07:00:00+00:00",
       "source": {
-        "name": "OK Salute e Benessere",
+        "name": "ok-salute.it",
         "url": "https://www.ok-salute.it"
       }
     },
