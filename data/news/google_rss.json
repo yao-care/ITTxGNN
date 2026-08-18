@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T08:22:28.669572+00:00",
+  "fetched_at": "2026-08-18T09:21:27.223617+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "f32d64b747d3",
-      "title": "Medicinali veterinari, il punto sulle attività del CVMP per gli antimicrobici 2021-2025 • NCF - NCF - Notiziario Chimico Farmaceutico",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHlYT2VmSXQwZm1TdjhzZTF6N25jdTlycXpScEx0MjFxVXBhS1I1dWl5T1NheDR5bUEtdnNrYnM0RE1jcjdLdWY3T0YyczJyMHJNTU5KdEhsQ1RQNWNPcmJ1cU9fc25fcnY5djlwYVZZblByWVRvQ1FGdXd0eWY3WGFhdkpQOFAtRTd2YzVwdXg1UlVVZjhoNUxiOUhuR3VDWF9yb3k0TVVKZWtpbGREMVFFMVgzWUNXVVdnb3o4c29yVkFuMnBsU2M5amw2VHRmSHVtRlVId0JBams?oc=5",
-      "published": "2026-08-18T07:30:00+00:00",
-      "source": {
-        "name": "NCF - Notiziario Chimico Farmaceutico",
-        "url": "https://www.notiziariochimicofarmaceutico.it"
-      }
-    },
-    {
       "id": "fa3c228d7a7d",
       "title": "Farmaci plasmaderivati: nuova spedizione per i pazienti in Palestina - AVIS - Associazione volontari italiani del Sangue",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVNjeG1BMUpnYmdNM2VoUGIwMS05YTZGb2pIT2JCRGs0QTFCVEh3R2VVQTktS1N3elV5eFdWRnNZaEI5dUJMckNrR0NZZHN3aTlPUzltMlIzc2dHZEc2aW9ZLVpoNEFQdV9rcVZRNDdpMllnV3R6R19wWWRIenNTdm1ia25yTjBoRG5LM0hBZVA3dw?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "AVIS - Associazione volontari italiani del Sangue",
         "url": "https://www.avis.it"
+      }
+    },
+    {
+      "id": "f32d64b747d3",
+      "title": "Medicinali veterinari, il punto sulle attività del CVMP per gli antimicrobici 2021-2025 • NCF - NCF - Notiziario Chimico Farmaceutico",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHlYT2VmSXQwZm1TdjhzZTF6N25jdTlycXpScEx0MjFxVXBhS1I1dWl5T1NheDR5bUEtdnNrYnM0RE1jcjdLdWY3T0YyczJyMHJNTU5KdEhsQ1RQNWNPcmJ1cU9fc25fcnY5djlwYVZZblByWVRvQ1FGdXd0eWY3WGFhdkpQOFAtRTd2YzVwdXg1UlVVZjhoNUxiOUhuR3VDWF9yb3k0TVVKZWtpbGREMVFFMVgzWUNXVVdnb3o4c29yVkFuMnBsU2M5amw2VHRmSHVtRlVId0JBams?oc=5",
+      "published": "2026-08-18T07:30:00+00:00",
+      "source": {
+        "name": "NCF - Notiziario Chimico Farmaceutico",
+        "url": "https://www.notiziariochimicofarmaceutico.it"
       }
     },
     {
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "bd2cde0af123",
-      "title": "Come gestire i farmaci d'estate? Quali terapie sono più a rischio - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC0yUzlRWnpVSnpNTW9JY0Z4cTJTTFpxQWVCVDM5dHpSRkZhSk1hRDZuQ3FXQ0VmM2lRVFlkRV9wX1BWWWh1NVZQcHEya1J6ZTZDUEpDR3BmTUU0THhOTjNVdlNQY1p2TzFnVFBSRk1ya2stZTNudUNyMVlKQ2xZN3BES3hzUkp6aWVLSTBMT05BdEFreTh4QU1oTV9XU0lnSE9OeDJyOTFlSW1uZ19rcWFlOFE?oc=5",
-      "published": "2026-08-12T05:16:00+00:00",
-      "source": {
-        "name": "Corriere della Sera",
-        "url": "https://www.corriere.it"
-      }
-    },
-    {
       "id": "f9e6846b0566",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "bee3fbe331cf",
+      "title": "Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5",
+      "published": "2026-08-14T15:00:02+00:00",
+      "source": {
+        "name": "Corriere della Sera",
+        "url": "https://www.corriere.it"
       }
     },
     {
@@ -124,6 +124,16 @@
       }
     },
     {
+      "id": "7e4330f703a2",
+      "title": "Cialis come farmaco della longevità? Cosa dice davvero la scienza sul tadalafil - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVoN1c5S1kyWHU3Q09xWlhJcGkwVm9fNzBxSDJaaGNtQUJjU01wbkVmSEFkc2FITFZEcXRVY1JhbzFGeTdjMlh2WE1nYllwUnd0clg0cTRmWFJFX0xjUHpHWWRSVG5YZVNPdjF2ck1LSUkwUW15UHJTeWp5c2RJdg?oc=5",
+      "published": "2026-08-18T07:39:14+00:00",
+      "source": {
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
+      }
+    },
+    {
       "id": "c576dacae4e8",
       "title": "Farmaci GLP-1 per diabete e obesità: panacea per tutti i mali? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVIYU5fd0xLei1YSGNtYm9ySXBka2pVdGt6S0QxTWVocjU5MmRBUXFkS25TN1pGWkcxSnJoMVotWlhaMlhJUXRmMkM2aEgta3MxR1N6SWlxdUgyNHpiNEk5VWUxY3J2d1JHb0g2VnhCcXRONUxwYjJoRUdXOWVfZnRiMnAyazJ6aXNJOHRwSXQ0S1R2WHhBZjNR?oc=5",
@@ -131,16 +141,6 @@
       "source": {
         "name": "Il Bo Live",
         "url": "https://ilbolive.unipd.it"
-      }
-    },
-    {
-      "id": "068e2c7275e0",
-      "title": "Peptidi, la nuova moda per dimagrire senza prove scientifiche e con rischi per la salute - il Salvagente",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHB1eUxEQUotNnliTnJDRDcyTXNWN1R4OTlmUUdhQjZzaGZjYW5oWnE0c3BEWURQZW13Wll0Mlk3ZWQ1MmRYd1lXbzZETHJ2S3B6TEc5NXlmWXEyM0NOLWxXRUlvN0ktNGViN0kzRmxIbERQaUNPSFhGd3dCQjFHblUzSVZBVWpwVkp2UWNLX1NvNWxTZ0Q3WVpsbi1xMkluazh1b29QNTExMVhpS00tUC1ybmdQTm02RTVabE1xOVo?oc=5",
-      "published": "2026-08-17T16:00:54+00:00",
-      "source": {
-        "name": "il Salvagente",
-        "url": "https://ilsalvagente.it"
       }
     },
     {
@@ -154,10 +154,10 @@
       }
     },
     {
-      "id": "bee3fbe331cf",
-      "title": "Tumore del pancreas: che cosa aspettarsi dal nuovo farmaco - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXppemVxWlJFc213SmxiUFk0SW4tOHJJTWM2NHh5YXZfbWUyUFhUX0ZlSE1JQTRfS1p0VF9TVURTM3o0YjFxU2s4bDNSRWZodnhMRW5qeVgyak16bXpCcktFa29PM0hHTC00elNIMUhvNGJPZW1FRlVCcnpOLVB5NGp0UXhkMVlvTzNaeC1YdkhRek1QbjB6QUc3eFc0VnM5SDJvZXhoZU42ZVhsR053Q1U3UWcyM25jRlZFZXBNbmFrclh6Sm5yOEtmLVN4RnlqTVF1dUNnNDdxZnlEMWoxSG1iN2lHbG4xcUNRd1ZhUEV3WDjSAfgBQVVfeXFMTTVGQ3RvZWZiWEdEZHdLTlhKcWhicFRuNGk4TWdNakNHODZxUno0c1NSbW1kdURHd3N5dHU3SmlfbXY5bmhiVFJzRDktTzNWczJsTXkyUFhMQno1UjlyWUJudnd5am5sQUJ3SjVwRDctUEVoUURLZnI0cUY4d2wwRDB4Z1UtdVdvMVphZlVzUExYNGFoMklPNmg3Rmh6cHdjeGZYMVIxa25UR19USGtiUDZmVjlMOGxXYkt4QWV1NF9kTTl6UmkwakYtc1B1cjBhY3V2VXpTRVhjMmJoTzl2Uzk4OHN6QnVqRGZYNWFDczl4NUZ0SU5BdnQ?oc=5",
-      "published": "2026-08-14T15:00:02+00:00",
+      "id": "3827758ce7a4",
+      "title": "Come gestire i farmaci d'estate? Quali terapie sono più a rischio - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC0yUzlRWnpVSnpNTW9JY0Z4cTJTTFpxQWVCVDM5dHpSRkZhSk1hRDZuQ3FXQ0VmM2lRVFlkRV9wX1BWWWh1NVZQcHEya1J6ZTZDUEpDR3BmTUU0THhOTjNVdlNQY1p2TzFnVFBSRk1ya2stZTNudUNyMVlKQ2xZN3BES3hzUkp6aWVLSTBMT05BdEFreTh4QU1oTV9XU0lnSE9OeDJyOTFlSW1uZ19rcWFlOFHSAboBQVVfeXFMTW54aVBNeEdUQ084SEY3SnM1Vi1XWXg2b3Fnc2hhTFFOdXc3aUp6TzBFY1hNa2FMMUpQQXdVdDE0bmo5S2Y4ZG5rTlB4RmVBb2o0eW83aUtkTzVtLWV1WEtKUlZvNVQweVZoeG02WlYxaTZYZHhOVmx0RmZlT005TThnWUljWThPZV82Ui1SZlpRSUI2ZWhhUTdhUWZGa2VaUHpfMmYxMEMzRVQxTzAzeGdhSExYNm05T1JB?oc=5",
+      "published": "2026-08-12T05:16:00+00:00",
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
@@ -201,6 +201,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "068e2c7275e0",
+      "title": "Peptidi, la nuova moda per dimagrire senza prove scientifiche e con rischi per la salute - il Salvagente",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHB1eUxEQUotNnliTnJDRDcyTXNWN1R4OTlmUUdhQjZzaGZjYW5oWnE0c3BEWURQZW13Wll0Mlk3ZWQ1MmRYd1lXbzZETHJ2S3B6TEc5NXlmWXEyM0NOLWxXRUlvN0ktNGViN0kzRmxIbERQaUNPSFhGd3dCQjFHblUzSVZBVWpwVkp2UWNLX1NvNWxTZ0Q3WVpsbi1xMkluazh1b29QNTExMVhpS00tUC1ybmdQTm02RTVabE1xOVo?oc=5",
+      "published": "2026-08-17T16:00:54+00:00",
+      "source": {
+        "name": "il Salvagente",
+        "url": "https://ilsalvagente.it"
       }
     },
     {
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "1e21b1dbeb3d",
-      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
-      "published": "2026-08-13T08:28:50+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "6667ade3df85",
       "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
@@ -271,6 +271,16 @@
       "source": {
         "name": "FNOPI",
         "url": "https://www.fnopi.it"
+      }
+    },
+    {
+      "id": "1e21b1dbeb3d",
+      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
+      "published": "2026-08-13T08:28:50+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -454,16 +464,6 @@
       }
     },
     {
-      "id": "cfacf17dd6a9",
-      "title": "Il Ministero della Salute risponde alla proposta di \"controllare i prezzi dei servizi medici e dei farmaci\" per garantire i diritti dei pazienti coperti da assicurazione sanitaria. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTFuZnNzVXBuUTB1bzRqQUhwOE9VMjYtQnJJclFjaWQxZVRMX056cVVhN0pDVVMtLUZ5MnV6X21QcnlYTGJlSjNSQk1RZC1NV2ZhNklxb0VIcllUbUc0aXU1TWNNRWFBNmt3UEd2VkY1R3ZqUV8zR1pYN1ZYeTczMW5KU1c3QzZwUkFMNS1CRm93c0x4OW9rTDc2S3ZvdjJKeks3clByVWJqakFybVN0R3JiVGFFYTFhTkNB?oc=5",
-      "published": "2026-08-17T07:02:39+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "8946190c4732",
       "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnZnd2VwNmpqVU1hakt0Ml9IblJsOGRGdWRSb3AyNzQyNlVwUmxwcXdNY3haSVQ2d3RTanhDcHZ5ajJtQjJjNjB4aUU3TmtIVGRfdXBCT2NBVkFlbGhyWS1QSnhVTHBUU3pVTTNXYUYwdnF2OHJBeDhQSGZ6RVluN2FrQU44V0FnSUtuZEVPMTBrMGh3WTVlMUozM21mS0tUOF93VWkwQjZlRzhK?oc=5",
@@ -471,6 +471,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "cfacf17dd6a9",
+      "title": "Il Ministero della Salute risponde alla proposta di \"controllare i prezzi dei servizi medici e dei farmaci\" per garantire i diritti dei pazienti coperti da assicurazione sanitaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTFuZnNzVXBuUTB1bzRqQUhwOE9VMjYtQnJJclFjaWQxZVRMX056cVVhN0pDVVMtLUZ5MnV6X21QcnlYTGJlSjNSQk1RZC1NV2ZhNklxb0VIcllUbUc0aXU1TWNNRWFBNmt3UEd2VkY1R3ZqUV8zR1pYN1ZYeTczMW5KU1c3QzZwUkFMNS1CRm93c0x4OW9rTDc2S3ZvdjJKeks3clByVWJqakFybVN0R3JiVGFFYTFhTkNB?oc=5",
+      "published": "2026-08-17T07:02:39+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -534,16 +544,6 @@
       }
     },
     {
-      "id": "4d6fbbf151bc",
-      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
-      "published": "2026-08-13T14:45:23+00:00",
-      "source": {
-        "name": "ParmaToday",
-        "url": "https://www.parmatoday.it"
-      }
-    },
-    {
       "id": "25e1ac2ad2e4",
       "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
@@ -561,6 +561,16 @@
       "source": {
         "name": "| Regione Siciliana",
         "url": "https://www.regione.sicilia.it"
+      }
+    },
+    {
+      "id": "4d6fbbf151bc",
+      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
+      "published": "2026-08-13T14:45:23+00:00",
+      "source": {
+        "name": "ParmaToday",
+        "url": "https://www.parmatoday.it"
       }
     },
     {
@@ -674,12 +684,12 @@
       }
     },
     {
-      "id": "a9f6afc5e986",
-      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
+      "id": "d0693aff32e4",
+      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - comune.rivoli.to.it",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
       "published": "2026-02-06T08:00:00+00:00",
       "source": {
-        "name": "Città di Rivoli",
+        "name": "comune.rivoli.to.it",
         "url": "https://www.comune.rivoli.to.it"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "4b2cd64a99bd",
-      "title": "Il farmaco a base di Lsd di Definium conquista i medici e Wall Street - startmag.it",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlVPZmNWSWNvem5RRUxPV0Y5ZVFucS1YLVBkOE1vejZRajhhbGdtbTdDSVdyTWdkWjVLQVhmRDFEVUhKU0hkdF9ySWxpVk9oTXBaVWpLZnB4TU1JY3A3YUh6dG9sbmJGTGdCNVl0alJ2X2ktMU8zbGYxaU9peU1Lak5fX3QxT0dlcG9TSDhFRVg0dHAxUWZNRDZDR2g5VF9BczE3UU9LMHN4M21l?oc=5",
-      "published": "2026-08-14T13:26:00+00:00",
-      "source": {
-        "name": "startmag.it",
-        "url": "https://www.startmag.it"
       }
     }
   ]
