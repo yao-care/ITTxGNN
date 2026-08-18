@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T16:18:41.714781+00:00",
+  "fetched_at": "2026-08-18T17:17:27.891308+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -94,13 +94,23 @@
       }
     },
     {
-      "id": "499b4d6b2481",
-      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - Radio Taormina",
+      "id": "c20896827309",
+      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - radiotaormina.it",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVZuV0xDS3lPZ0tZbWdxSV9YVGV0c19IWHc4ME1nY3V6Und4dXEyOGhiYUhRTXBMRkJsOUd3WE9faGtVeFByVlB3eTE2RkVPMEFlY3BoT1NYTGVoV3BSTVN1QW82cXNJblpTUmZzVXE3NzJ4ZVQ0SkNXeGJ6NUN0eTNXZmx1Vnp0eE5MZjduVVFfa3RoY3l6YVhZTEVNSXRKSnRBWkJ6cWxoWVd6bmFXNFlKQmdaUDRIMG4yOVNIRXRYekZUb2RWUlhsckxmQjdEZUVETWdoYnB4UQ?oc=5",
       "published": "2026-08-18T10:27:04+00:00",
       "source": {
-        "name": "Radio Taormina",
+        "name": "radiotaormina.it",
         "url": "https://radiotaormina.it"
+      }
+    },
+    {
+      "id": "9b8ba2e30916",
+      "title": "Messina. Comunità alloggio in condizioni igieniche gravissime, personale non qualificato e farmaci scaduti. Un indagato - lecodelsud.it",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWW5Sd1BXN043WGdWRjIxZXk4WURfdGFpTkJxNWVRdnA3THFxZjFPOWgzc2szcEV4YmZkdTZhZGc4TFREUzF3NXRWaXNta09TY016NVUtb2FaN1BHWm9EMVJOVDV4SjlDclVJN2pCQ1JNd1hZYy1ac1RYaTd0VlVUWHd1YTRNZHVhMnZCQVU5YXFHMVFfbmZKSkhwbU5jMzNLdTluTGt1djIxZjdkaVhpZS1CeThSV1F6emE5WmZXWjdzcFZ1V011T2FtRkhWRzVSMDhpUEVnREZyZw?oc=5",
+      "published": "2026-08-18T09:06:20+00:00",
+      "source": {
+        "name": "lecodelsud.it",
+        "url": "https://www.lecodelsud.it"
       }
     },
     {
@@ -131,16 +141,6 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
-      "id": "b44d132e2786",
-      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
-      "published": "2026-08-17T08:00:00+00:00",
-      "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "b44d132e2786",
+      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
+      "published": "2026-08-17T08:00:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
+      }
+    },
+    {
       "id": "01e1b4c3fabd",
       "title": "Unomattina 2025/26 - Salute e vacanze: farmaci e dispositivi da mettere in valigia - 24/06/2026 - Video - RaiPlay",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdEx3X1l5NV9QQm9XVTNNWDhidklnZXNmamxYdTJDRW1ZWlZndU9KVW1HUzcwak9GdGdZLV9ral9OTmlCc0Vfa3hZVFZ5NHk0YlFyblB3S2RYLW5acWpDVHZwXzRpdVRDOUh0NWF2SFV3bEI0U0ItOFpZWTlub201b3Z5MGpsaWpfWjV2VjdmTUsxYlJwSnZ6cnpVNF9Ea1NoV3dJdVEyVUFOY2dXTmZJZGdNWDRyWWlnMlc0b0hNTjdzalZUUF9OOUpOSHFrcU5XRGRnYVZZVmVVLXdNY3cyakMtd0ZRODM2NWtleWRpd2VqYWs?oc=5",
@@ -254,16 +264,6 @@
       }
     },
     {
-      "id": "7e4330f703a2",
-      "title": "Cialis come farmaco della longevità? Cosa dice davvero la scienza sul tadalafil - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVoN1c5S1kyWHU3Q09xWlhJcGkwVm9fNzBxSDJaaGNtQUJjU01wbkVmSEFkc2FITFZEcXRVY1JhbzFGeTdjMlh2WE1nYllwUnd0clg0cTRmWFJFX0xjUHpHWWRSVG5YZVNPdjF2ck1LSUkwUW15UHJTeWp5c2RJdg?oc=5",
-      "published": "2026-08-18T07:39:14+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
       "id": "42a5a0cc1bfe",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -271,6 +271,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "7e4330f703a2",
+      "title": "Cialis come farmaco della longevità? Cosa dice davvero la scienza sul tadalafil - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVoN1c5S1kyWHU3Q09xWlhJcGkwVm9fNzBxSDJaaGNtQUJjU01wbkVmSEFkc2FITFZEcXRVY1JhbzFGeTdjMlh2WE1nYllwUnd0clg0cTRmWFJFX0xjUHpHWWRSVG5YZVNPdjF2ck1LSUkwUW15UHJTeWp5c2RJdg?oc=5",
+      "published": "2026-08-18T07:39:14+00:00",
+      "source": {
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -284,16 +294,6 @@
       }
     },
     {
-      "id": "1e21b1dbeb3d",
-      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
-      "published": "2026-08-13T08:28:50+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -301,6 +301,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "1e21b1dbeb3d",
+      "title": "Il Ministero della Salute risponde alla domanda sull'ampliamento dell'elenco dei farmaci per il trattamento di malattie gravi e potenzialmente letali coperti dall'assicurazione sanitaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWdXeUNkUHE3cGgwaTIxYVp2cGxyZUxXdkhQTTRmRDRaZWg4WkxLa3ltMU12SFYxMTktT1ZmSzFzZzVmYjQySXhoakVqY0N1cHlTMWhZSzU3VkRsTFNweVllMWlSREFwZlEtMGV3RG1idldTcERZbDdIQW9NczB2ODBheF8tMHdhVGVvai1qYjlTbnRzQVFQQlZ4dVFaM0xzMGlkaU85MjNkUnJER3o2cm1ZdTRqWTJZUjdlZFJycThkZmN1Zk5MLS1UNHNOT3dIWnB2Tw?oc=5",
+      "published": "2026-08-13T08:28:50+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -394,20 +404,20 @@
       }
     },
     {
-      "id": "a97ff7e847b5",
-      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzg5Q0ZPVDVUVm9QcVltdFg1dW45aDdUaFo3N0VRdV94Nnd2Mk5tcFhaQUpsdkhTQUpGdEpydl9Qd3Qtak1fZWN6Slg5UmJucjN0R0NmR0dFeHFibXVBR1d4cFEySG5RcXlXdVpnODZodGZ0X2twek5iMk1oQ3ZkOWtSZVhVcVJHMjA4NENpa0p2dEhiQndpQmRhSDJSRVI5Qmo4ejl6ZVZ4YVdSZHFmbDBXSC1qREEycXNQSmdIS2RBMmJIUzBxNW5B?oc=5",
-      "published": "2026-08-14T05:30:00+00:00",
+      "id": "46f692b09bd2",
+      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "46f692b09bd2",
-      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
+      "id": "a97ff7e847b5",
+      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzg5Q0ZPVDVUVm9QcVltdFg1dW45aDdUaFo3N0VRdV94Nnd2Mk5tcFhaQUpsdkhTQUpGdEpydl9Qd3Qtak1fZWN6Slg5UmJucjN0R0NmR0dFeHFibXVBR1d4cFEySG5RcXlXdVpnODZodGZ0X2twek5iMk1oQ3ZkOWtSZVhVcVJHMjA4NENpa0p2dEhiQndpQmRhSDJSRVI5Qmo4ejl6ZVZ4YVdSZHFmbDBXSC1qREEycXNQSmdIS2RBMmJIUzBxNW5B?oc=5",
+      "published": "2026-08-14T05:30:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
@@ -434,16 +444,6 @@
       }
     },
     {
-      "id": "6e645f3a53e5",
-      "title": "37 disabili psichici in una struttura-lager a Messina: sequestro da 3 milioni e farmaci scaduti - La Tr3",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGNzNzJUNWdIWTBwLWE5SXphNHJFbVJBVlNBck5wUEFIdjl1aGZlSDlaem81TUNFd1EzU3U1S3dUNW9KWkpXQU5tZlRJMGRDUmpjVUVSSXI5czNmbHVmanFWd3JRa21nNDFuR3RnTXlBNTFEYm5hUWlmN1d4b1ZsNUdIbElUTGlLS1hqYWo0LUpEbUJhRll1MnRNenRpTzVxcldfR2EtdHgxVnluQ1FJc2VYSTN3MW5BNjIzNlNkNE8?oc=5",
-      "published": "2026-08-18T14:22:38+00:00",
-      "source": {
-        "name": "La Tr3",
-        "url": "https://latr3.it"
-      }
-    },
-    {
       "id": "391223dd702d",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -451,6 +451,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "6e645f3a53e5",
+      "title": "37 disabili psichici in una struttura-lager a Messina: sequestro da 3 milioni e farmaci scaduti - La Tr3",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGNzNzJUNWdIWTBwLWE5SXphNHJFbVJBVlNBck5wUEFIdjl1aGZlSDlaem81TUNFd1EzU3U1S3dUNW9KWkpXQU5tZlRJMGRDUmpjVUVSSXI5czNmbHVmanFWd3JRa21nNDFuR3RnTXlBNTFEYm5hUWlmN1d4b1ZsNUdIbElUTGlLS1hqYWo0LUpEbUJhRll1MnRNenRpTzVxcldfR2EtdHgxVnluQ1FJc2VYSTN3MW5BNjIzNlNkNE8?oc=5",
+      "published": "2026-08-18T14:22:38+00:00",
+      "source": {
+        "name": "La Tr3",
+        "url": "https://latr3.it"
       }
     },
     {
@@ -554,12 +564,12 @@
       }
     },
     {
-      "id": "728aaa8a75cf",
-      "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - corriere.it",
+      "id": "11f850b6dff3",
+      "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5",
       "published": "2026-06-05T07:00:00+00:00",
       "source": {
-        "name": "corriere.it",
+        "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
       }
     },
@@ -594,12 +604,12 @@
       }
     },
     {
-      "id": "975e423bdd04",
-      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - parmatoday.it",
+      "id": "4d6fbbf151bc",
+      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
       "published": "2026-08-13T14:45:23+00:00",
       "source": {
-        "name": "parmatoday.it",
+        "name": "ParmaToday",
         "url": "https://www.parmatoday.it"
       }
     },
@@ -634,16 +644,6 @@
       }
     },
     {
-      "id": "44da97c04d51",
-      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
-      "published": "2026-08-17T07:02:12+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
       "id": "d85a60bfc902",
       "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
@@ -651,6 +651,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "44da97c04d51",
+      "title": "Digossina a basso dosaggio: riduce del 25% i ricoveri per scompenso cardiaco - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlFhVEdLWTBrRVYweWxuLWRnNG5Vb1N0SGlpVFRXb210R1BpYTNLcDFfd2dWelg3d3daV1lRU1pYUDRpOTcwVUo4M0YyZHVnTmttWDkzbHprSU0yS3NUZlhheE1ISWtFQ1BMY0ltcHlRNU94Q1UyQUFLaF9Xd3pLTjZaSjFPSzZiVktz?oc=5",
+      "published": "2026-08-17T07:02:12+00:00",
+      "source": {
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
       }
     },
     {
@@ -854,12 +864,12 @@
       }
     },
     {
-      "id": "34905468568b",
-      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - doctor33.it",
+      "id": "ab19fd677c94",
+      "title": "Farmaci antiobesità e salute mentale, dal Congresso Sinpf nuovi scenari terapeutici - Doctor33",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalAwXzlPbXRHQkNobENadTh0LTl4M3JtVHpFTFJlVnMwdnZ6UWdmTl9OSWt6QndNZU5yd2xjZkZhUWZiNWdGcEtlTXNwd2hIaWJ4Z3hMb3gtMi1qdmJjQVVjZnFsR3ZTaFVvbDRERDctSGtEUW9rUk1nS3JKeXI0bzFxN3dmLTZnVUtSX3VIZThCVXNJc2hJTW9yV0o5U1pHNkJ3LWQ2MFIzSEtLQUxuRGQ2b0Nna2YtajJvSHp3?oc=5",
       "published": "2026-01-30T08:00:00+00:00",
       "source": {
-        "name": "doctor33.it",
+        "name": "Doctor33",
         "url": "https://www.doctor33.it"
       }
     },
@@ -924,12 +934,12 @@
       }
     },
     {
-      "id": "178b7045ab73",
-      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi.it",
+      "id": "613bf452a6c7",
+      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
       "published": "2026-07-06T07:00:00+00:00",
       "source": {
-        "name": "fnovi.it",
+        "name": "fnovi",
         "url": "https://fnovi.it"
       }
     },
@@ -991,16 +1001,6 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "05a8ffd6936f",
-      "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTR6QXl3X01lRXQweVN0c0FwRVJsdGtDb21xMzcyd2RnT1lxSl9Da2N5VVBydDRLYmdJdkgzSmk0TXQyeFE3TnViN2E4WmhEZ3B5QndRWWhkeW9Nb2FXVkVqNnRvakRqVGltbHY4WUFUcDVXak1JRUhXV0FHakxoQkZIMFhnRnFZQ05yaUJESkRhMWVTa3pjbEZUekh2T28yWGpibXROcXJNUQ?oc=5",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
       }
     }
   ]
