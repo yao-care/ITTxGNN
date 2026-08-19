@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-19T05:19:30.663918+00:00",
+  "fetched_at": "2026-08-19T06:24:27.369372+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "7c97fcb5b4ac",
-      "title": "Retatrutide, il farmaco non è ancora in commercio ma sul web spuntano già le copie illegali - Mondosanità",
+      "id": "27b959a297d1",
+      "title": "Retatrutide, il farmaco non è ancora in commercio ma sul web spuntano già le copie illegali - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVpTOU1TaEdTVmQ2MXJ0cjBydWNYejA5TllVcm1MNi1zb09OTWZLUFFVMjJiWGRycXdwVk9TZTRySEJjQ09uQzNVWEY0dDhERkdIckxqSmNBVFYtQmQ5N2UzYTg4MEE2WE9oSndVb0Y2amxqLW16SlhlNmJPSm1tZTBhX1pCcUJSTUJUMHM2cHBSMzVpQ2ZpclhWck81R01aVnFwOHdMUlhoMGtWVVVXWktPZjhoRk9pblVydUVMQzNRcXBkVm1CWU9YUUpIYXhvYjZhalh1emdBazNSSEx2LS1iZw?oc=5",
       "published": "2026-08-17T10:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -44,16 +44,6 @@
       }
     },
     {
-      "id": "f32d64b747d3",
-      "title": "Medicinali veterinari, il punto sulle attività del CVMP per gli antimicrobici 2021-2025 • NCF - NCF - Notiziario Chimico Farmaceutico",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHlYT2VmSXQwZm1TdjhzZTF6N25jdTlycXpScEx0MjFxVXBhS1I1dWl5T1NheDR5bUEtdnNrYnM0RE1jcjdLdWY3T0YyczJyMHJNTU5KdEhsQ1RQNWNPcmJ1cU9fc25fcnY5djlwYVZZblByWVRvQ1FGdXd0eWY3WGFhdkpQOFAtRTd2YzVwdXg1UlVVZjhoNUxiOUhuR3VDWF9yb3k0TVVKZWtpbGREMVFFMVgzWUNXVVdnb3o4c29yVkFuMnBsU2M5amw2VHRmSHVtRlVId0JBams?oc=5",
-      "published": "2026-08-18T07:30:00+00:00",
-      "source": {
-        "name": "NCF - Notiziario Chimico Farmaceutico",
-        "url": "https://www.notiziariochimicofarmaceutico.it"
-      }
-    },
-    {
       "id": "be9ea61dbff4",
       "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
@@ -71,6 +61,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "f32d64b747d3",
+      "title": "Medicinali veterinari, il punto sulle attività del CVMP per gli antimicrobici 2021-2025 • NCF - NCF - Notiziario Chimico Farmaceutico",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHlYT2VmSXQwZm1TdjhzZTF6N25jdTlycXpScEx0MjFxVXBhS1I1dWl5T1NheDR5bUEtdnNrYnM0RE1jcjdLdWY3T0YyczJyMHJNTU5KdEhsQ1RQNWNPcmJ1cU9fc25fcnY5djlwYVZZblByWVRvQ1FGdXd0eWY3WGFhdkpQOFAtRTd2YzVwdXg1UlVVZjhoNUxiOUhuR3VDWF9yb3k0TVVKZWtpbGREMVFFMVgzWUNXVVdnb3o4c29yVkFuMnBsU2M5amw2VHRmSHVtRlVId0JBams?oc=5",
+      "published": "2026-08-18T07:30:00+00:00",
+      "source": {
+        "name": "NCF - Notiziario Chimico Farmaceutico",
+        "url": "https://www.notiziariochimicofarmaceutico.it"
       }
     },
     {
@@ -144,12 +144,12 @@
       }
     },
     {
-      "id": "5ea824f9fef4",
-      "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - Mondosanità",
+      "id": "3c97bd87b688",
+      "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5",
       "published": "2026-08-16T10:45:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -254,16 +254,6 @@
       }
     },
     {
-      "id": "499b4d6b2481",
-      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - Radio Taormina",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVZuV0xDS3lPZ0tZbWdxSV9YVGV0c19IWHc4ME1nY3V6Und4dXEyOGhiYUhRTXBMRkJsOUd3WE9faGtVeFByVlB3eTE2RkVPMEFlY3BoT1NYTGVoV3BSTVN1QW82cXNJblpTUmZzVXE3NzJ4ZVQ0SkNXeGJ6NUN0eTNXZmx1Vnp0eE5MZjduVVFfa3RoY3l6YVhZTEVNSXRKSnRBWkJ6cWxoWVd6bmFXNFlKQmdaUDRIMG4yOVNIRXRYekZUb2RWUlhsckxmQjdEZUVETWdoYnB4UQ?oc=5",
-      "published": "2026-08-18T10:27:04+00:00",
-      "source": {
-        "name": "Radio Taormina",
-        "url": "https://radiotaormina.it"
-      }
-    },
-    {
       "id": "42a5a0cc1bfe",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità. L'evoluzione del modello e i nuovi obiettivi della distribuzione - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkNGNnFYRGNVSktramt0b0NDOXNPWGFPRF91VGlCNzFvSVEyMUVOOFNBc21iZ09rRzJnS3VQNUxTUkQ5UlNmOE9zLVhlaGhIQzBhSUx6X2twR1JTX2tlUXpoU21OeVUzOHpMM294dGlET0xFNXdacm1Xel84RFBTS0lRWlBBV29jN0I3dG5kS1N3T1IzN2RrY3JNaWRjZ2RrdjVSbWYwaUtkU1doWkg0aUdSTTlBM2N4VEFwOUI4YU80X0h5OVE?oc=5",
@@ -304,13 +294,23 @@
       }
     },
     {
-      "id": "d3998398a176",
-      "title": "Esami perfetti, salute a rischio? - Mondosanità",
+      "id": "bdb2c22002e4",
+      "title": "Esami perfetti, salute a rischio? - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUpKMGhIYVF5cjgxbEdGbFVPbWdPVVdJOWxNQWYtbmt6R2FPU2g5VVliMm5YX0RRRHh3bXNNOU8xV3pCcl9qbk1JMGhMYkFMS2VFRk5SV3I2Mjg4V0ExQ0Q4alAzT2NxTUdfM29zcXJuUlJ3TXRfcjhpOWJZV1lGc2tReElsajFialE?oc=5",
       "published": "2026-08-05T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "499b4d6b2481",
+      "title": "Messina, comunità per disabili psichici sotto sequestro: gravi carenze igienico-sanitarie e farmaci scaduti - Radio Taormina",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVZuV0xDS3lPZ0tZbWdxSV9YVGV0c19IWHc4ME1nY3V6Und4dXEyOGhiYUhRTXBMRkJsOUd3WE9faGtVeFByVlB3eTE2RkVPMEFlY3BoT1NYTGVoV3BSTVN1QW82cXNJblpTUmZzVXE3NzJ4ZVQ0SkNXeGJ6NUN0eTNXZmx1Vnp0eE5MZjduVVFfa3RoY3l6YVhZTEVNSXRKSnRBWkJ6cWxoWVd6bmFXNFlKQmdaUDRIMG4yOVNIRXRYekZUb2RWUlhsckxmQjdEZUVETWdoYnB4UQ?oc=5",
+      "published": "2026-08-18T10:27:04+00:00",
+      "source": {
+        "name": "Radio Taormina",
+        "url": "https://radiotaormina.it"
       }
     },
     {
@@ -334,16 +334,6 @@
       }
     },
     {
-      "id": "3ed2ce2ce0dd",
-      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
-      "published": "2026-08-17T05:30:18+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "9541d7bd1f2e",
       "title": "Servizio per la verifica di una confezione di medicinale a uso umano - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpHOUZBcmhTakRBd2NOQnVwb0FkazNybGNlY1lWdHMtZldKNXZFUWQyNzByNEloVnNsb1E5NGo5TDd6dnctZEstaVMzQnpwalk4eDB6UTdjblJjOWJmaXFPbTNKb3BwM3R1enJrNlMxYXZlci1admZQajFrNFpBdjZYMG1GR2VoTlhwal9WY05vb0themVaVGlDYW5YdFJlVVlpNGhES3hYM2l6VjR3akdxRjRlS2xVNlNVZ093YnRJV1lfYTRMVkdkRlhzV1M3eFNMTWln?oc=5",
@@ -351,6 +341,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "3ed2ce2ce0dd",
+      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
+      "published": "2026-08-17T05:30:18+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -364,12 +364,12 @@
       }
     },
     {
-      "id": "2e701e1f528a",
-      "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - avvenire.it",
+      "id": "eb974d462ad2",
+      "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
       "published": "2026-07-10T07:00:00+00:00",
       "source": {
-        "name": "avvenire.it",
+        "name": "Avvenire",
         "url": "https://www.avvenire.it"
       }
     },
@@ -384,22 +384,22 @@
       }
     },
     {
-      "id": "88ab19015ef8",
-      "title": "Farmaco e geopolitica: come cambia il potere globale della salute - Mondosanità",
+      "id": "e6ee263ba18a",
+      "title": "Farmaco e geopolitica: come cambia il potere globale della salute - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhBMWVxRFJrZU8wcUw5TTg1THpNSUthb2JUM2VJMUpuWkJZM3k1OTJwS1owMEFBNE5VVHZQanlmTE9uLXFKODlBS1dfeTFacFVvUHp0UUQtYWhPVnk2R05CMWVVanpIMEJXZ3M5V3RlYjFpNHZ4Y1g5UGlmWWtZUWUwdkJENE5WbV9QUUpfWHBCU0oxNXFFRUJNdGowLUNRWTExMmE0VDNhRC00WmN4SWlWN0FWdw?oc=5",
       "published": "2026-04-14T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "46f692b09bd2",
-      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
+      "id": "db413db0788c",
+      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
       "published": "2026-07-28T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -414,23 +414,13 @@
       }
     },
     {
-      "id": "c4977d518d4f",
-      "title": "Le cure prima della chimica: le erbe medicinali dell’Aboca Museum - lampoonmagazine.com",
+      "id": "003eaead9c5e",
+      "title": "Le cure prima della chimica: le erbe medicinali dell’Aboca Museum - Lampoon Magazine",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTU0b0FicVhlWERPMGxTRjFuRUMxVGIzNmV4M0VHOFhHdVczaVNiU0RYdEQtLURvb2JVODhMQnEwMWJra0J5WkVVd0Qwc041SHJibWk1VFdXV01lUk5tZHN6WkNqMzBzd25sTGZndjFQcFZVMV9wOXF2Sm84SXZFX3BkUVlWRjR1dWc?oc=5",
       "published": "2026-08-17T07:00:00+00:00",
       "source": {
-        "name": "lampoonmagazine.com",
+        "name": "Lampoon Magazine",
         "url": "https://lampoonmagazine.com"
-      }
-    },
-    {
-      "id": "7546234c9958",
-      "title": "Messina. Comunità alloggio in condizioni igieniche gravissime, personale non qualificato e farmaci scaduti. Un indagato - l'Eco del Sud",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWW5Sd1BXN043WGdWRjIxZXk4WURfdGFpTkJxNWVRdnA3THFxZjFPOWgzc2szcEV4YmZkdTZhZGc4TFREUzF3NXRWaXNta09TY016NVUtb2FaN1BHWm9EMVJOVDV4SjlDclVJN2pCQ1JNd1hZYy1ac1RYaTd0VlVUWHd1YTRNZHVhMnZCQVU5YXFHMVFfbmZKSkhwbU5jMzNLdTluTGt1djIxZjdkaVhpZS1CeThSV1F6emE5WmZXWjdzcFZ1V011T2FtRkhWRzVSMDhpUEVnREZyZw?oc=5",
-      "published": "2026-08-18T09:06:20+00:00",
-      "source": {
-        "name": "l'Eco del Sud",
-        "url": "https://www.lecodelsud.it"
       }
     },
     {
@@ -438,6 +428,16 @@
       "title": "Produttori, depositari e grossisti - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUZ2OFdXam1QNjB2UzRUSlk1c1hISVdBTVJuNlNVZnRvTkVFOWFfYW5ueUxjTkdoLXlpbThLcFZ5YWt0SnZ2TWh5eGRseVF1N1VlSUpoOWNXYlo3djd3eTlPeEp6aWtmajF4VjlkTW9EelM3em1WdGdKajVpVkxZSGg5clNVdVlLV0VXYUF4X0liV29aVFhxT1pHdm11Zw?oc=5",
       "published": "2026-01-10T01:58:27+00:00",
+      "source": {
+        "name": "Ministero della Salute",
+        "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "391223dd702d",
+      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
+      "published": "2026-01-29T12:30:24+00:00",
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
@@ -454,22 +454,12 @@
       }
     },
     {
-      "id": "391223dd702d",
-      "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
-      "published": "2026-01-29T12:30:24+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "a97ff7e847b5",
-      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - Mondosanità",
+      "id": "27720bae7579",
+      "title": "Cosa avvelena più spesso i bambini in casa? I rischi che abbiamo sotto gli occhi - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzg5Q0ZPVDVUVm9QcVltdFg1dW45aDdUaFo3N0VRdV94Nnd2Mk5tcFhaQUpsdkhTQUpGdEpydl9Qd3Qtak1fZWN6Slg5UmJucjN0R0NmR0dFeHFibXVBR1d4cFEySG5RcXlXdVpnODZodGZ0X2twek5iMk1oQ3ZkOWtSZVhVcVJHMjA4NENpa0p2dEhiQndpQmRhSDJSRVI5Qmo4ejl6ZVZ4YVdSZHFmbDBXSC1qREEycXNQSmdIS2RBMmJIUzBxNW5B?oc=5",
       "published": "2026-08-14T05:30:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -484,12 +474,12 @@
       }
     },
     {
-      "id": "2c6e4c1542a8",
-      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
+      "id": "238fb77d64e1",
+      "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -501,6 +491,16 @@
       "source": {
         "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "7546234c9958",
+      "title": "Messina. Comunità alloggio in condizioni igieniche gravissime, personale non qualificato e farmaci scaduti. Un indagato - l'Eco del Sud",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWW5Sd1BXN043WGdWRjIxZXk4WURfdGFpTkJxNWVRdnA3THFxZjFPOWgzc2szcEV4YmZkdTZhZGc4TFREUzF3NXRWaXNta09TY016NVUtb2FaN1BHWm9EMVJOVDV4SjlDclVJN2pCQ1JNd1hZYy1ac1RYaTd0VlVUWHd1YTRNZHVhMnZCQVU5YXFHMVFfbmZKSkhwbU5jMzNLdTluTGt1djIxZjdkaVhpZS1CeThSV1F6emE5WmZXWjdzcFZ1V011T2FtRkhWRzVSMDhpUEVnREZyZw?oc=5",
+      "published": "2026-08-18T09:06:20+00:00",
+      "source": {
+        "name": "l'Eco del Sud",
+        "url": "https://www.lecodelsud.it"
       }
     },
     {
@@ -544,16 +544,6 @@
       }
     },
     {
-      "id": "cb7113ede2da",
-      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
-      "published": "2026-07-22T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "87463bcc603e",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
@@ -561,6 +551,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "362434dca52c",
+      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - mondosanita.it",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": {
+        "name": "mondosanita.it",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -584,13 +584,23 @@
       }
     },
     {
-      "id": "291e5dadcde5",
-      "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali - Mondosanità",
+      "id": "676bd709be9b",
+      "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX05ycFhnSlU3VHd0ZGxZZWdCb2ZwOWNqZTZEb2ppT1cybU5HZWd5T2N0bFlEWWxvTE1ESF82akNuTlkyenZvYWF2MTBQOWZDWDVvU0xLQWEza1JnN0FKWGlXdEs0R3hCVi1PY0VWdWJiaGVYR19yZExwS1VsTDJMNkltWGxEOVlqYU1TUS1PSWg5OHRIQTA0dGNzOTN5em0yNkpoRFVpcFJUbjVOYnhDVDcxOEZoTFFMRUkxTktGMm15VEhmcDJDUEpBeHF5U0tHNDNZUDg5ZHlsTEJaZXk3d3YxZE1vVHJlYmU4NVRQckxuZHd6cXJtbDFwYnFCMmlEd1dCZ29TUk9FVEk?oc=5",
       "published": "2026-03-26T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "e57a2cb28b96",
+      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - regione.sicilia.it",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "source": {
+        "name": "regione.sicilia.it",
+        "url": "https://www.regione.sicilia.it"
       }
     },
     {
@@ -601,16 +611,6 @@
       "source": {
         "name": "Dossier Salute",
         "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
-      "id": "5d553f95828b",
-      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
-      "published": "2026-06-12T07:00:00+00:00",
-      "source": {
-        "name": "| Regione Siciliana",
-        "url": "https://www.regione.sicilia.it"
       }
     },
     {
@@ -664,22 +664,22 @@
       }
     },
     {
-      "id": "41b2b662ca41",
-      "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - Mondosanità",
+      "id": "e5aecf1e9861",
+      "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUFUanJUQ1lUWjNmV0p5b09WVmRNUnhsUjAteFBPeDRhOVBVSnNkV2FzNzhiUUtWVzlhYzRRaU95eGVHdGhSM2tSYnZlMXdfWlYzd0dmcWdRUnktbHlzZHVOR2h6bFZ5S0JuYlk1bEpXSEs3SGNtakhVWGI3SHlMQXpHMmVhckZKeUtzZ3ZoRWh0ZnBha0JaQ3pGblk4ZENJbGE1WlFLMW5HX0JaSDktbUhtVVZ0VHIwdklMV3hNNFdGXzFTOGxaeE9RMlM?oc=5",
       "published": "2026-07-16T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
     {
-      "id": "a623118d1aa2",
-      "title": "I farmaci per dimagrire cambieranno la medicina. La domanda è: il Servizio sanitario riuscirà a permetterseli? - Mondosanità",
+      "id": "70a7600737d2",
+      "title": "I farmaci per dimagrire cambieranno la medicina. La domanda è: il Servizio sanitario riuscirà a permetterseli? - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMTZnSEw1ck5ZWXlhMkNDVkgwSGlkYkJvdWRDdThzbS1PNmtiLXdxeENadW14d0l2aU5OZ19uSXJ0YV9jT2Z0cDNxdlkxcjd2YVNaUENsTm5IWGRxZV9SUWFOeElxRlVCZEdtV1RuVHFjWkYyUXRpcHBmdlhnWXYtVEotZTFkdjhHTGkzNWFKNEtDQlpJanI2OTJCbktYbkhCWHFpQTZXQ2Qzb0JhVUc3dUt2OTlYWjNLVHVGcF9qZ21VX2RZX0pwTjg2bjdtM185eHB0VGRVLWJzOVp0YlNDVV9HS01fV1pySl9sQjB3Zw?oc=5",
       "published": "2026-07-15T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -714,16 +714,6 @@
       }
     },
     {
-      "id": "4d6fbbf151bc",
-      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
-      "published": "2026-08-13T14:45:23+00:00",
-      "source": {
-        "name": "ParmaToday",
-        "url": "https://www.parmatoday.it"
-      }
-    },
-    {
       "id": "bec037c34006",
       "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
@@ -734,13 +724,23 @@
       }
     },
     {
-      "id": "613bf452a6c7",
-      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
+      "id": "178b7045ab73",
+      "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi.it",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
       "published": "2026-07-06T07:00:00+00:00",
       "source": {
-        "name": "fnovi",
+        "name": "fnovi.it",
         "url": "https://fnovi.it"
+      }
+    },
+    {
+      "id": "4d6fbbf151bc",
+      "title": "Allarme sui farmaci anti obesità: la preoccupazione degli esperti sul “fai-da-te” - ParmaToday",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlVwVk4wTTF0SS0yZUNSazBNbDFhWjFfVW1tZzJ4SWtCOUVYN3l6Wlo3N1poZm5oM0w3TFA1RUlDcTRVOWZ3elVCQkhRX3BSN05ZQWJueEwxMU96dVpESmFXZFd5Y1dWcm4xNWJJZ2xSaUZ3Z1VrNldsdHNxNXhlQzlZM1lOZmRwRlZLdHd0SnpXOFBLYWtlQXhRZkVyQ3ZWcFBCVEFtbVE5MlBWQmdvelB0MGRCZkp1bW5TOW10ZllRXzRE?oc=5",
+      "published": "2026-08-13T14:45:23+00:00",
+      "source": {
+        "name": "ParmaToday",
+        "url": "https://www.parmatoday.it"
       }
     },
     {
@@ -784,16 +784,6 @@
       }
     },
     {
-      "id": "7e4330f703a2",
-      "title": "Cialis come farmaco della longevità? Cosa dice davvero la scienza sul tadalafil - Dossier Salute",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVoN1c5S1kyWHU3Q09xWlhJcGkwVm9fNzBxSDJaaGNtQUJjU01wbkVmSEFkc2FITFZEcXRVY1JhbzFGeTdjMlh2WE1nYllwUnd0clg0cTRmWFJFX0xjUHpHWWRSVG5YZVNPdjF2ck1LSUkwUW15UHJTeWp5c2RJdg?oc=5",
-      "published": "2026-08-18T07:39:14+00:00",
-      "source": {
-        "name": "Dossier Salute",
-        "url": "https://www.dossiersalute.com"
-      }
-    },
-    {
       "id": "e7adedfcbb86",
       "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
@@ -804,12 +794,12 @@
       }
     },
     {
-      "id": "339c90f167d9",
-      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - ilfarmacistaonline.it",
+      "id": "f82740cc2117",
+      "title": "Farmaci. In GU il decreto sulla destinazione delle multe: i proventi a Ministero Salute e Aifa - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhjR2ltbzFGREJYQnZ1Vm5yalVFRDlHMGR3cTZJam1fNEFnMGxEZlA5eUdpNXBNWnkxSU9ZTzdnenJ0MXhRQkNoWFVFeFl6eGlhLWlSODdZTDJwbmJJSlhKNk45Skp6d01PVUh3WW5zemFOcU10WkVwQVFLRXZlbVEzQUhRYlQtVmZmQQ?oc=5",
       "published": "2026-02-09T08:00:00+00:00",
       "source": {
-        "name": "ilfarmacistaonline.it",
+        "name": "Il Farmacista Online",
         "url": "https://www.ilfarmacistaonline.it"
       }
     },
@@ -834,12 +824,12 @@
       }
     },
     {
-      "id": "a12d88a0d20c",
-      "title": "Caldo e farmaci: le 5 mosse salva-terapia da seguire subito - Mondosanità",
+      "id": "edc58838bbb2",
+      "title": "Caldo e farmaci: le 5 mosse salva-terapia da seguire subito - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHpDZTNyeFIxcE81ZWV2TnhmWEl4THZPUzNnYUd0aHZWdUE1RUxRejRMVnZiZkNpTzZ3aUNYVnd2MW9tNjFfck9CVGNibmw0OUltREpZS0ItYlpyRmRxWklOZVJfNUxjMllJU2FFM2NlblFaLVhrWDFCS2o0cFREQzdaZ0pBX2oyX0ZMVEQzVzJvUmhheUxmeHRBN3Z4UnpLM0NOdXlOYUc0elFfakE?oc=5",
       "published": "2026-06-30T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -934,6 +924,16 @@
       }
     },
     {
+      "id": "7e4330f703a2",
+      "title": "Cialis come farmaco della longevità? Cosa dice davvero la scienza sul tadalafil - Dossier Salute",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVoN1c5S1kyWHU3Q09xWlhJcGkwVm9fNzBxSDJaaGNtQUJjU01wbkVmSEFkc2FITFZEcXRVY1JhbzFGeTdjMlh2WE1nYllwUnd0clg0cTRmWFJFX0xjUHpHWWRSVG5YZVNPdjF2ck1LSUkwUW15UHJTeWp5c2RJdg?oc=5",
+      "published": "2026-08-18T07:39:14+00:00",
+      "source": {
+        "name": "Dossier Salute",
+        "url": "https://www.dossiersalute.com"
+      }
+    },
+    {
       "id": "6eec9b1d3d53",
       "title": "Diabete e obesità, la nuova guida AIFA: “I farmaci GLP-1 non sono una scorciatoia per dimagrire” - insalutenews.it",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWNXSHIyckdvVmNDM2ZZV1JmcXJDTTU2TWhfOXRVVGlDY092clBuUk5pQ01YaDAyQjZDUF9pNnJjaG5kXzF2SlpDeVJWZzJ2SXhMNy1SVlFHenc3dkpMQnFVQWtyTkdNdGtnanBmczhCZVktb0JUcG56RjM2RjA5ZmVFanoxaElIU1JtVEh2RVRDUmFZaTl3RzFfazRoV2Z3bzV0MXkxS21PVkVWUEZXV2JkVVYzcGFJcDJoc0Y2QmNNcXlBNXh4NHltUQ?oc=5",
@@ -944,12 +944,12 @@
       }
     },
     {
-      "id": "2c29a9197512",
-      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - Mondosanità",
+      "id": "b412ad36d233",
+      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
       "published": "2026-08-01T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     },
@@ -994,12 +994,12 @@
       }
     },
     {
-      "id": "52869447fd59",
-      "title": "Dalle città alle aree rurali: la farmacia diventa il nuovo presidio della salute - Mondosanità",
+      "id": "613f19a615a3",
+      "title": "Dalle città alle aree rurali: la farmacia diventa il nuovo presidio della salute - mondosanita.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNG8xYzlQR3BmcW9rMU1mS0REWU5BTF9kSWpPaU83cHRxcXlrN2I2NFNqQzdIblZQVWRXbHRleGIxSHBqYUU2TzhzUXFXT1JueFF6UVNLemlHV19EODdRb3lKb1dlTFJXcTRlMnZsaWxNc2MyY1daWU9WTnY4QW1Sd0Q0SkZwbDZ0ZnVXdGZ6elBXXzc2X0V1NGRFZ1otQTk1ajVkU1dMajZ0SzhzU2Jmb20zeVFsb1NseXV1OUVoWmU1cGdaWmRyd1FYYkE?oc=5",
       "published": "2026-05-21T07:00:00+00:00",
       "source": {
-        "name": "Mondosanità",
+        "name": "mondosanita.it",
         "url": "https://www.mondosanita.it"
       }
     }
