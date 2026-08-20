@@ -1,16 +1,26 @@
 {
-  "fetched_at": "2026-08-20T12:25:06.426756+00:00",
+  "fetched_at": "2026-08-20T13:37:53.574979+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
     {
-      "id": "228bd771385b",
-      "title": "Il Ministero della Salute interviene contro i farmaci contraffatti, ritirando dal mercato tre prodotti non conformi. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekRQTktpTGlsVlM2aUtOY1VvZTUxQ3kzY0lvOG1fQ0JoN1V6TklEeGpmTXpuQ1hTYkR4QVc4MHJScGVsZ2xMck1YWFphZS11bFZ6eHlKbmJUb1RXUXF6UV9ObDR3SURwanVLZ2hEMFEtcUxYOFdKOTNZSDFYVUJtOWg0NA?oc=5",
-      "published": "2026-08-20T06:31:02+00:00",
+      "id": "f48a5c20b449",
+      "title": "Emergenza caldo: la Farmacia Vaticana in prima linea nella cura dei più fragili - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRDQ2MVZOalVZSDNnWDNfV0JieWNNU3FXb094Q0F1UmhKNTBueHREUmdVNXZpUWxwOFY1Vkpvb1Foc1J1ZkFpNDVQbmdvQk9IcEthWFByQnA5bEdDSEpSdUZxZ3dtS3BMRVVvd1h3c0IzV1dCMEFxb19yR2x4X1VYS1FhRktTRlV4Sm84R1dKTEU5dDJxWkVIWjBManVtLTBjc3lNUXhtcTlZeVFLVkhQMUNRNEVyZw?oc=5",
+      "published": "2026-08-20T13:00:59+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Vatican News",
+        "url": "https://www.vaticannews.va"
+      }
+    },
+    {
+      "id": "59e244bd5559",
+      "title": "Farmaci promettenti - Internazionale",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfRVcybU9OaGQ4NHZNNEJoclMxZF9nR2U4R1RIUExyNk5hSDNrRkZMOE5lTGFwSW51ZlBtNmRzbDBhRUJzaEV4eFpST1M4b0xWdmk0UkxpVnJFVmZwaGYwSUNhcFk3Y0xSUFlVd3dxSGpMa0E2dnp1aw?oc=5",
+      "published": "2026-08-20T10:18:33+00:00",
+      "source": {
+        "name": "Internazionale",
+        "url": "https://www.internazionale.it"
       }
     },
     {
@@ -24,13 +34,13 @@
       }
     },
     {
-      "id": "4e19deecbf79",
-      "title": "“Estate in salute”: dal Cardarelli i consigli sulla fotosensibilità - Metropolisweb",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTVDaFpSUG5GekF6WWg4MVhRVEl0LTR0S3h3YVFVcTNNeEtneG1vZDdaTm00UWNFMXpRNjJ6SjJKNE9BQl80Tk9jaThFSW9DSzVJVzA4MTFLeW0yeUo1UFc3NkNOazBrdy1KeXJ3Y0NnUnh4UjNVazRqQmtCOWI3WElQOHdCeFRycnM5c3ZoV1JfNkRsa1BGdU5aOGpLV25IZ3c?oc=5",
-      "published": "2026-08-20T10:38:25+00:00",
+      "id": "228bd771385b",
+      "title": "Il Ministero della Salute interviene contro i farmaci contraffatti, ritirando dal mercato tre prodotti non conformi. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekRQTktpTGlsVlM2aUtOY1VvZTUxQ3kzY0lvOG1fQ0JoN1V6TklEeGpmTXpuQ1hTYkR4QVc4MHJScGVsZ2xMck1YWFphZS11bFZ6eHlKbmJUb1RXUXF6UV9ObDR3SURwanVLZ2hEMFEtcUxYOFdKOTNZSDFYVUJtOWg0NA?oc=5",
+      "published": "2026-08-20T06:31:02+00:00",
       "source": {
-        "name": "Metropolisweb",
-        "url": "https://www.metropolisweb.it"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -44,6 +54,26 @@
       }
     },
     {
+      "id": "7e9b89f9ede5",
+      "title": "Sanità, più soldi e più spesa privata: fino a quando potremo finanziare il SSN così? - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcWlYWThma19mOTVPbWhFQ3JoV2NsNDVvclJpcmIwUjRwLW1MeXBETTVjQXduMnRLdFJtd1pOdF9WMWtOdWVMVTNKQ05ETm96SEtIbFE3VEMweU9icERHa003UjNyazVMTUpTNFRBRlhRZWFOYlZfUjJRN2NhWWZyZ1NpeVhiOEx2M2IzYWZMQ3NBN1oyWVhKWkt0MGRKN3VfZGt4QzRPVG1qbm0xSEVldHNjdDNocHVkNF9vcFBjb3VCYXpRUVllTnJfZGJpMHJINzRmdzJ6WVZBMGM?oc=5",
+      "published": "2026-08-20T13:30:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "4e19deecbf79",
+      "title": "“Estate in salute”: dal Cardarelli i consigli sulla fotosensibilità - Metropolisweb",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTVDaFpSUG5GekF6WWg4MVhRVEl0LTR0S3h3YVFVcTNNeEtneG1vZDdaTm00UWNFMXpRNjJ6SjJKNE9BQl80Tk9jaThFSW9DSzVJVzA4MTFLeW0yeUo1UFc3NkNOazBrdy1KeXJ3Y0NnUnh4UjNVazRqQmtCOWI3WElQOHdCeFRycnM5c3ZoV1JfNkRsa1BGdU5aOGpLV25IZ3c?oc=5",
+      "published": "2026-08-20T10:38:25+00:00",
+      "source": {
+        "name": "Metropolisweb",
+        "url": "https://www.metropolisweb.it"
+      }
+    },
+    {
       "id": "0ff175b568fe",
       "title": "Il caldo può cambiare l’effetto di alcuni farmaci: ecco quali - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3E4S2VlaVpDNFE3NlFOeE5vSUxsNmVEck1ocjJUMTNielVsVV9XU3E1bExuMWZmWEh1NUpYaE91NEtETnRRd2NLcS1LMGlrWVk0YjYwVFV6LWl2eElrT2IxaC1XZW1lNkMtOUNpN0NKX0tKMU9HY3ZCMHlWcVhvN18yNXNiSktfZERVWE8xX2pEX1NFX3JJ?oc=5",
@@ -51,16 +81,6 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
-      }
-    },
-    {
-      "id": "55cd08107ad6",
-      "title": "Tre soluzioni scientifiche e inaspettate per dire addio al mal di schiena cronico - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQW9BRW1VTWh3OWRzM2VKWmJXQUVhVkh4MHcwSjlCZDM1d0tDcjVCUmxvWVZUZnZyZTBTWmt1VVdRakpDLUhOa2dqYnBxdDh1bWRydU1JcXJqZnFybVhqVjdGbW5CTE5lZ2ZnWl9QMDRkY3pHVV9XUzdHQkxzNHV5bkEyX1M4UmljSnQ5Q1RxOThWN3c4eWNvOEFSeGRsT0NBRDVnMjRLX0RkT2xYY0Vrd1VSUzd5ZGRmYlpXdVY3VzVCdVZEcmduN3lvbGw5X05QNEd6R05vX2U?oc=5",
-      "published": "2026-08-19T19:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -134,30 +154,10 @@
       }
     },
     {
-      "id": "c124dd2dca81",
-      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "9ee98f436361",
-      "title": "Vittorio Agnoletto: «Il privato cresce sulla nostra malattia, il pubblico sulla nostra salute». A Santa Margherita il libro-denuncia su liste d’attesa, brevetti e sanità trasformata in mercato (P. Fizzarotti) - FarodiRoma",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUGgwQXZLeEtSVk9mV01idElxb3VJNlJSR2NRdzB2alhoWjF0dXRPM0FOakg3dmpyOEpxUGtYNkxfRl9OMEdxTHVla2xNMFU2d0pyR2dObDFKOFF0UWNLUVlocUJEWjNMQm9YWUEtWXFMQTV1SHF0OGJmVVczcjYwUjBCcDdWRGdjOWFTbkVCX3BjdFhyM2hMSWU3YlJCR0UtZ0xZbENqbEtKaXpvMTNFZmxyNExDYnNmYXZlRmVrRmJWZGlXSmJ0ZVlRTzZHSnprN0NyM2FteThXQUVjbGpTemhlNUYwSm1fcVZpZ1hndXZaZlNDMWFBZXNQbnJsU2w4dHM2SWt1YkpuWVdSa3NKVC1RVDJ3elYtVVRqcmtaV1BOc1k1SU4teg?oc=5",
-      "published": "2026-08-18T14:25:03+00:00",
-      "source": {
-        "name": "FarodiRoma",
-        "url": "https://www.farodiroma.it"
-      }
-    },
-    {
-      "id": "5ea824f9fef4",
-      "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5",
-      "published": "2026-08-16T10:45:00+00:00",
+      "id": "55cd08107ad6",
+      "title": "Tre soluzioni scientifiche e inaspettate per dire addio al mal di schiena cronico - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQW9BRW1VTWh3OWRzM2VKWmJXQUVhVkh4MHcwSjlCZDM1d0tDcjVCUmxvWVZUZnZyZTBTWmt1VVdRakpDLUhOa2dqYnBxdDh1bWRydU1JcXJqZnFybVhqVjdGbW5CTE5lZ2ZnWl9QMDRkY3pHVV9XUzdHQkxzNHV5bkEyX1M4UmljSnQ5Q1RxOThWN3c4eWNvOEFSeGRsT0NBRDVnMjRLX0RkT2xYY0Vrd1VSUzd5ZGRmYlpXdVY3VzVCdVZEcmduN3lvbGw5X05QNEd6R05vX2U?oc=5",
+      "published": "2026-08-19T19:00:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
@@ -184,10 +184,10 @@
       }
     },
     {
-      "id": "e4592d4cb9b3",
-      "title": "Prima non sudavi mai. Adesso sudi anche da fermo - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXQxSUxYbEZLalN2SkxDRjBJc0toX0ExR0JsTzRrU2gxNVZORVVZOGlmdjk5U0Zrbjl6YWJfQ0tFdHFvVERMeVNwYlB1NkZnRHNlRmQ0VkFGc1J4Uk15TXM4ZWRJY2RXM3MwaTRzSkpxTHFVU1NMS0pBLU1jazNEd1ZOVUtONFFqbEkxd1VCMGlnLWxnUk1tOHRIMExqblE?oc=5",
-      "published": "2026-08-17T14:45:00+00:00",
+      "id": "5ea824f9fef4",
+      "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5",
+      "published": "2026-08-16T10:45:00+00:00",
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
@@ -204,13 +204,23 @@
       }
     },
     {
-      "id": "9994aad6b9f7",
-      "title": "'Vetro alla gola dell'infermiere per farsi consegnare un farmaco': paura al centro di salute mentale - 055 Firenze",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0pkdVZyQldORkdodjJKLWJhbXBEWVNjOFlMMXVUeTlfcC1iS181eFR6d05hZGd1Zk5UeTlxZnhLczVFRk0yNU5iM09NZkFkaFkyT1BGU2h3RTQzQ3dodWFuQXRHRHR4RjhVdS03RHcwNDRTdExyZFhKRUZZRzIxSVAxVEl3aElXTFdsN0NicjhzMGpnM1lITE5xR3I4SksybXhxdjNrRDh4c09sQUpwSjlDM3Q0TFJGbGZVS1BaSnhQY2NsOGwzLWNwa3FWZw?oc=5",
-      "published": "2026-08-19T18:28:00+00:00",
+      "id": "c124dd2dca81",
+      "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
       "source": {
-        "name": "055 Firenze",
-        "url": "https://www.055firenze.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "9ee98f436361",
+      "title": "Vittorio Agnoletto: «Il privato cresce sulla nostra malattia, il pubblico sulla nostra salute». A Santa Margherita il libro-denuncia su liste d’attesa, brevetti e sanità trasformata in mercato (P. Fizzarotti) - FarodiRoma",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUGgwQXZLeEtSVk9mV01idElxb3VJNlJSR2NRdzB2alhoWjF0dXRPM0FOakg3dmpyOEpxUGtYNkxfRl9OMEdxTHVla2xNMFU2d0pyR2dObDFKOFF0UWNLUVlocUJEWjNMQm9YWUEtWXFMQTV1SHF0OGJmVVczcjYwUjBCcDdWRGdjOWFTbkVCX3BjdFhyM2hMSWU3YlJCR0UtZ0xZbENqbEtKaXpvMTNFZmxyNExDYnNmYXZlRmVrRmJWZGlXSmJ0ZVlRTzZHSnprN0NyM2FteThXQUVjbGpTemhlNUYwSm1fcVZpZ1hndXZaZlNDMWFBZXNQbnJsU2w4dHM2SWt1YkpuWVdSa3NKVC1RVDJ3elYtVVRqcmtaV1BOc1k1SU4teg?oc=5",
+      "published": "2026-08-18T14:25:03+00:00",
+      "source": {
+        "name": "FarodiRoma",
+        "url": "https://www.farodiroma.it"
       }
     },
     {
@@ -241,6 +251,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "5e2d883bd8bc",
+      "title": "Maddalena Gobbi, la farmacista dei bambini - TuttoSanità",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGOGVTZ1dQVjNVWUxuVldHS3huQzZZWjJXT2tmSF9GbER6UktGLXU3cXptRDczaFpFbFI2cUh6RUd4NVZKdHMzOEZ6RE1IYlZYaWpWYUpJWlhHZ1phUGxIZWNoLVVqSHlvbjBuOFhmSnRXdUJvbGxYMk9B?oc=5",
+      "published": "2026-08-20T07:05:16+00:00",
+      "source": {
+        "name": "TuttoSanità",
+        "url": "https://www.tuttosanita.com"
       }
     },
     {
@@ -294,6 +314,16 @@
       }
     },
     {
+      "id": "9994aad6b9f7",
+      "title": "'Vetro alla gola dell'infermiere per farsi consegnare un farmaco': paura al centro di salute mentale - 055 Firenze",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0pkdVZyQldORkdodjJKLWJhbXBEWVNjOFlMMXVUeTlfcC1iS181eFR6d05hZGd1Zk5UeTlxZnhLczVFRk0yNU5iM09NZkFkaFkyT1BGU2h3RTQzQ3dodWFuQXRHRHR4RjhVdS03RHcwNDRTdExyZFhKRUZZRzIxSVAxVEl3aElXTFdsN0NicjhzMGpnM1lITE5xR3I4SksybXhxdjNrRDh4c09sQUpwSjlDM3Q0TFJGbGZVS1BaSnhQY2NsOGwzLWNwa3FWZw?oc=5",
+      "published": "2026-08-19T18:28:00+00:00",
+      "source": {
+        "name": "055 Firenze",
+        "url": "https://www.055firenze.it"
+      }
+    },
+    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -301,16 +331,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "dfc412cc0488",
-      "title": "Sesto Fiorentino, infermiere aggredito al Centro di salute mentale: paziente gli punta un grosso pezzo di vetro alla gola - Firenze e dintorni",
-      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxObTBDZFNXQnVjd0pjb0pwajhSRWdrNzVxUDVFLXc0aXdoWWZrNzlUQXZlYlBReS1uTE9DRFV5U0hGTkt6aGNKQTFkX2ZyQ3ZaOXF6eVBTalk3dVVIbU9sOURtRzVlY3ppNXlrUEM4djNTTVVSMFlIRFBBb3NydFNsUjMweEhRVEJVVnlIRURyc283R2F5bzljYUlTV2tnX0RDWW5ldklvUVIyZXNmWFV3ckp6N1phT1QtUlpmdkw4aUlXNmJBdnFjcXlpWDhXcThCTnh1ckViQUNjRkx0QlB3RThkdXZuYjR0Qmczcy1mNTA0Tk5Rd3ZuTHI1MUZmYmNBYWVlMGRfRTRUOF9GcGtwSjJlQmE0b1lnZTNWMDFHbTZNbGxEUVJ5c1lnODgzVlE2bDdYSkNxVkNQc19iSHFETi1tUXc2aXltMHNKWENudy12YTd0SGxpYUZ5M3BfV0g1d0JKZXUzbEpHZTJYcTJTQWttXzdWeDBCbXhYMUdnbS1IeVMzWC1EWTdzMXJKUUdLT3FKR1F6VWdhcnNwbTNZX0xxRFQ5UHNSUVJQaUFoRkRGenZORDlVUUwxOHNhMzBORkJCVHpRQ3VzSUppWWg3ZTMzalRNTzFNRndqeDdKOV9CUmFxdGdIX0tuUWlvem1fMFBObi1LSWt6N05lbjVNeDJuUU1VS0JrdHExRFJVMDltMTdwVDIyZ01UUlVPc0xNVEpYRTA2bDhZY3FhcHFj?oc=5",
-      "published": "2026-08-20T11:17:00+00:00",
-      "source": {
-        "name": "Firenze e dintorni",
-        "url": "https://www.firenzedintorni.it"
       }
     },
     {
@@ -454,16 +474,6 @@
       }
     },
     {
-      "id": "3ed2ce2ce0dd",
-      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
-      "published": "2026-08-17T05:30:18+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "5a735aea30fa",
       "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
@@ -471,6 +481,16 @@
       "source": {
         "name": "Univrmagazine",
         "url": "https://univrmagazine.it"
+      }
+    },
+    {
+      "id": "3ed2ce2ce0dd",
+      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
+      "published": "2026-08-17T05:30:18+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -584,16 +604,6 @@
       }
     },
     {
-      "id": "cb7113ede2da",
-      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
-      "published": "2026-07-22T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "d85a60bfc902",
       "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
@@ -601,6 +611,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "cb7113ede2da",
+      "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -641,6 +661,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "dfc412cc0488",
+      "title": "Sesto Fiorentino, infermiere aggredito al Centro di salute mentale: paziente gli punta un grosso pezzo di vetro alla gola - Firenze e dintorni",
+      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxObTBDZFNXQnVjd0pjb0pwajhSRWdrNzVxUDVFLXc0aXdoWWZrNzlUQXZlYlBReS1uTE9DRFV5U0hGTkt6aGNKQTFkX2ZyQ3ZaOXF6eVBTalk3dVVIbU9sOURtRzVlY3ppNXlrUEM4djNTTVVSMFlIRFBBb3NydFNsUjMweEhRVEJVVnlIRURyc283R2F5bzljYUlTV2tnX0RDWW5ldklvUVIyZXNmWFV3ckp6N1phT1QtUlpmdkw4aUlXNmJBdnFjcXlpWDhXcThCTnh1ckViQUNjRkx0QlB3RThkdXZuYjR0Qmczcy1mNTA0Tk5Rd3ZuTHI1MUZmYmNBYWVlMGRfRTRUOF9GcGtwSjJlQmE0b1lnZTNWMDFHbTZNbGxEUVJ5c1lnODgzVlE2bDdYSkNxVkNQc19iSHFETi1tUXc2aXltMHNKWENudy12YTd0SGxpYUZ5M3BfV0g1d0JKZXUzbEpHZTJYcTJTQWttXzdWeDBCbXhYMUdnbS1IeVMzWC1EWTdzMXJKUUdLT3FKR1F6VWdhcnNwbTNZX0xxRFQ5UHNSUVJQaUFoRkRGenZORDlVUUwxOHNhMzBORkJCVHpRQ3VzSUppWWg3ZTMzalRNTzFNRndqeDdKOV9CUmFxdGdIX0tuUWlvem1fMFBObi1LSWt6N05lbjVNeDJuUU1VS0JrdHExRFJVMDltMTdwVDIyZ01UUlVPc0xNVEpYRTA2bDhZY3FhcHFj?oc=5",
+      "published": "2026-08-20T11:17:00+00:00",
+      "source": {
+        "name": "Firenze e dintorni",
+        "url": "https://www.firenzedintorni.it"
       }
     },
     {
@@ -714,16 +744,6 @@
       }
     },
     {
-      "id": "dd4630529884",
-      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
-      "published": "2025-12-27T08:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "942a4806bcb1",
       "title": "Prontuario farmaci, l'Aifa studia revisione. Cosa potrebbe cambiare per i cittadini - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXE2Sm5uYmpCbFdudVpZTm9XWllwRVlsWTFnZmFQdU16Z0lMSnI2eEF3MVpXcmNaYmludE5HTlpxa2hoY2lDYndxQTR4STMzZVRldUdSYzdfeTNrT2J1dmlFeUlwb1drZmNFNVoxZC1PZkZfOXZYRlRGN1dfc1NVc0NmeUxkclU?oc=5",
@@ -734,13 +754,13 @@
       }
     },
     {
-      "id": "67b47e01e730",
-      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWJCSC1zSGtaR3JCNks0WVJQbHZFVFJubTg5eEhXak5YMXE5SE81cmFlZzFJOUpoRHlvbUVvX09vRW9xcXJxcjd1eWM3WVo1VG9HaHhSUnJSYTV4bmR3d2RZVnhRalVGdzhZQnU5V3JweDVhYW1BWUZjSkRFRzVscG9LbDRJcnE4WWhTSUc4MTlmdzJ2OGxiSENMY2hhMDdzdTYzbExvaUN3UUhXMFBGVFZHbDk5RFU?oc=5",
-      "published": "2026-08-19T14:26:00+00:00",
+      "id": "dd4630529884",
+      "title": "Dove vanno a finire i farmaci che assumiamo? Una nuova tecnica lo mostra - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ZsWHB4aEEzRVpiYkFPSkhPdmxWQkFSU3ZnaFhXTG10T2YzakdPZnp6WmthcVJHQWpvYTZkMS1VRWlSVzBDUFFMOWtXMy02YUp1Z2JTS3FpdlA2TVlIOEZoREN5TnB6R1c0SjM5TDZnVlpKNTFDLTVabWJiVHdjOWpidEFwN3IyYS04QzFmY3diSDdhNnhSbHNmZmt4RXRrRkhLZi13V1phUm5mTjN2OUM0V1p3RWE3S0F5ZlFfMWJHdFRmM1E?oc=5",
+      "published": "2025-12-27T08:00:00+00:00",
       "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -934,6 +954,16 @@
       }
     },
     {
+      "id": "67b47e01e730",
+      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWJCSC1zSGtaR3JCNks0WVJQbHZFVFJubTg5eEhXak5YMXE5SE81cmFlZzFJOUpoRHlvbUVvX09vRW9xcXJxcjd1eWM3WVo1VG9HaHhSUnJSYTV4bmR3d2RZVnhRalVGdzhZQnU5V3JweDVhYW1BWUZjSkRFRzVscG9LbDRJcnE4WWhTSUc4MTlmdzJ2OGxiSENMY2hhMDdzdTYzbExvaUN3UUhXMFBGVFZHbDk5RFU?oc=5",
+      "published": "2026-08-19T14:26:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
+      }
+    },
+    {
       "id": "d3b6f8d20180",
       "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
@@ -971,36 +1001,6 @@
       "source": {
         "name": "l'Eco del Sud",
         "url": "https://www.lecodelsud.it"
-      }
-    },
-    {
-      "id": "5bc3ad3a9669",
-      "title": "Farmaci d'estate: attenti a quei 3 - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGUtM2RYWUk3c0RqcmcyTWt3V1MtZGRjOV9DdUl1eUFOeWZNY1ZUaWZBN2tueEpnZlpJUGFpRHVkUW0zVjlBOVdISldsbFJDWUFnOXRnQndfYmp0aUhuVmF3WnpscVl6c005US12NDN4aDZWZ0NVSVppeTlMM2tXQnlPdE9vc1o2OWFTY3FB?oc=5",
-      "published": "2026-07-08T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://stream24.ilsole24ore.com"
-      }
-    },
-    {
-      "id": "52869447fd59",
-      "title": "Dalle città alle aree rurali: la farmacia diventa il nuovo presidio della salute - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNG8xYzlQR3BmcW9rMU1mS0REWU5BTF9kSWpPaU83cHRxcXlrN2I2NFNqQzdIblZQVWRXbHRleGIxSHBqYUU2TzhzUXFXT1JueFF6UVNLemlHV19EODdRb3lKb1dlTFJXcTRlMnZsaWxNc2MyY1daWU9WTnY4QW1Sd0Q0SkZwbDZ0ZnVXdGZ6elBXXzc2X0V1NGRFZ1otQTk1ajVkU1dMajZ0SzhzU2Jmb20zeVFsb1NseXV1OUVoWmU1cGdaWmRyd1FYYkE?oc=5",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "05a8ffd6936f",
-      "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTR6QXl3X01lRXQweVN0c0FwRVJsdGtDb21xMzcyd2RnT1lxSl9Da2N5VVBydDRLYmdJdkgzSmk0TXQyeFE3TnViN2E4WmhEZ3B5QndRWWhkeW9Nb2FXVkVqNnRvakRqVGltbHY4WUFUcDVXak1JRUhXV0FHakxoQkZIMFhnRnFZQ05yaUJESkRhMWVTa3pjbEZUekh2T28yWGpibXROcXJNUQ?oc=5",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
       }
     }
   ]
