@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T11:16:45.920114+00:00",
+  "fetched_at": "2026-08-20T12:25:06.426756+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -27,7 +27,7 @@
       "id": "4e19deecbf79",
       "title": "“Estate in salute”: dal Cardarelli i consigli sulla fotosensibilità - Metropolisweb",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTVDaFpSUG5GekF6WWg4MVhRVEl0LTR0S3h3YVFVcTNNeEtneG1vZDdaTm00UWNFMXpRNjJ6SjJKNE9BQl80Tk9jaThFSW9DSzVJVzA4MTFLeW0yeUo1UFc3NkNOazBrdy1KeXJ3Y0NnUnh4UjNVazRqQmtCOWI3WElQOHdCeFRycnM5c3ZoV1JfNkRsa1BGdU5aOGpLV25IZ3c?oc=5",
-      "published": "2026-08-20T10:34:12+00:00",
+      "published": "2026-08-20T10:38:25+00:00",
       "source": {
         "name": "Metropolisweb",
         "url": "https://www.metropolisweb.it"
@@ -64,16 +64,6 @@
       }
     },
     {
-      "id": "be9ea61dbff4",
-      "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
       "id": "7e8653509890",
       "title": "Punta un vetro alla gola dell’infermiere per avere un farmaco - La Nazione",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndRcDJGeVQzbXh5ZGd1dDl0dTVKZDN3bExOVjJJODRoVGVEcU4xQk5GN25XWUJ5VlBfTHJIOXMwYlYtdUNsVU9CYWtKTWhsVWVaUFNnMGhKbXdCUUZEVG5ZZEdTZEFiLUNIS3BUUE5Odzdxd0poLVcwTkVNRVViaFo3c2VfN1FWV3lPN0c5QU5xVjdadnJDeEZnRFdXekF2Y2FYcA?oc=5",
@@ -81,6 +71,16 @@
       "source": {
         "name": "La Nazione",
         "url": "https://www.lanazione.it"
+      }
+    },
+    {
+      "id": "be9ea61dbff4",
+      "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "aee917e57fd4",
-      "title": "C'è un farmaco per l'asma che è anche un antitumorale - La Gazzetta dello Sport",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTF4a29VMzRGWkxlSHZUMnlkQ01DM2ZnTlo4V3dTM1dYYmNFWDdqVGhrX1JUblBreVRRbjNXVXZ5ODFkSGh6aGxNR0FEbDRNNUNJZVJ4aVhUdXluckIxOGlZTEw2bmdaRmctT1o2ZUx1NVRMZUstV3NGSTVYVmViVmkxUV9jNE9JZEVYWXZWY0Y4a2I1c3ozajdWZTdKOTJUaDUwUWdfdTlBSmpUOURR0gG0AUFVX3lxTE1LWkEzdG9XYTU2V0dFSm1JOXJ5dmFjTGFObzFNb1RmUnMxTndmUHAtUlpyMVhPY09QeENUZWo5WjMwcDJYX1RQeTE0Rk9ib1ltb1JTYWN6WXJqWElOTXBUYVFNRGk5WnB0a19qcUJGUVREeWIyTFJHNlo4dWZRbGFyYmkwSUJ0Nk9fRkY1Y3EtMENWeG9jM2hnb2loNlFRNzdtek84RG13clVTTGowU3ZERHNVcw?oc=5",
-      "published": "2026-08-19T16:26:31+00:00",
-      "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it"
-      }
-    },
-    {
       "id": "3a6f70bc30f2",
       "title": "L'effetto Ozempic arriva a tavola: supermercati e ristoranti stanno rimpicciolendo le porzioni - today.it",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SVjNSamo2eEZGem0tNm9mSkIwMFk3UXhYOTdjMEswZTU0YVZETUFHWVZ3NFZrRUxxSzNma2lyWk94N3FfbU5BYVpFd3VfYjcteTNEeHc4SWJJRmVJYno3NV9nN01uVzBxWG1saUt30gFuQVVfeXFMTk9ZVmw0bUREOG1jdTBQLWlsaGszWXc2a1ZaMmdPc2t3Mnd6b0Q2QkU1TnA0UGtuaEdicXV0NHM5QWdqSlFKQ0pVZ3hKZDcwLUdHY2N4M2pSZGV0cjhRUG5jUlUtUk5laHRiQ21DbWc?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "today.it",
         "url": "https://www.today.it"
+      }
+    },
+    {
+      "id": "aee917e57fd4",
+      "title": "C'è un farmaco per l'asma che è anche un antitumorale - La Gazzetta dello Sport",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTF4a29VMzRGWkxlSHZUMnlkQ01DM2ZnTlo4V3dTM1dYYmNFWDdqVGhrX1JUblBreVRRbjNXVXZ5ODFkSGh6aGxNR0FEbDRNNUNJZVJ4aVhUdXluckIxOGlZTEw2bmdaRmctT1o2ZUx1NVRMZUstV3NGSTVYVmViVmkxUV9jNE9JZEVYWXZWY0Y4a2I1c3ozajdWZTdKOTJUaDUwUWdfdTlBSmpUOURR0gG0AUFVX3lxTE1LWkEzdG9XYTU2V0dFSm1JOXJ5dmFjTGFObzFNb1RmUnMxTndmUHAtUlpyMVhPY09QeENUZWo5WjMwcDJYX1RQeTE0Rk9ib1ltb1JTYWN6WXJqWElOTXBUYVFNRGk5WnB0a19qcUJGUVREeWIyTFJHNlo4dWZRbGFyYmkwSUJ0Nk9fRkY1Y3EtMENWeG9jM2hnb2loNlFRNzdtek84RG13clVTTGowU3ZERHNVcw?oc=5",
+      "published": "2026-08-19T16:26:31+00:00",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it"
       }
     },
     {
@@ -134,16 +134,6 @@
       }
     },
     {
-      "id": "9ee98f436361",
-      "title": "Vittorio Agnoletto: «Il privato cresce sulla nostra malattia, il pubblico sulla nostra salute». A Santa Margherita il libro-denuncia su liste d’attesa, brevetti e sanità trasformata in mercato (P. Fizzarotti) - FarodiRoma",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUGgwQXZLeEtSVk9mV01idElxb3VJNlJSR2NRdzB2alhoWjF0dXRPM0FOakg3dmpyOEpxUGtYNkxfRl9OMEdxTHVla2xNMFU2d0pyR2dObDFKOFF0UWNLUVlocUJEWjNMQm9YWUEtWXFMQTV1SHF0OGJmVVczcjYwUjBCcDdWRGdjOWFTbkVCX3BjdFhyM2hMSWU3YlJCR0UtZ0xZbENqbEtKaXpvMTNFZmxyNExDYnNmYXZlRmVrRmJWZGlXSmJ0ZVlRTzZHSnprN0NyM2FteThXQUVjbGpTemhlNUYwSm1fcVZpZ1hndXZaZlNDMWFBZXNQbnJsU2w4dHM2SWt1YkpuWVdSa3NKVC1RVDJ3elYtVVRqcmtaV1BOc1k1SU4teg?oc=5",
-      "published": "2026-08-18T14:25:03+00:00",
-      "source": {
-        "name": "FarodiRoma",
-        "url": "https://www.farodiroma.it"
-      }
-    },
-    {
       "id": "c124dd2dca81",
       "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
@@ -151,6 +141,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "9ee98f436361",
+      "title": "Vittorio Agnoletto: «Il privato cresce sulla nostra malattia, il pubblico sulla nostra salute». A Santa Margherita il libro-denuncia su liste d’attesa, brevetti e sanità trasformata in mercato (P. Fizzarotti) - FarodiRoma",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUGgwQXZLeEtSVk9mV01idElxb3VJNlJSR2NRdzB2alhoWjF0dXRPM0FOakg3dmpyOEpxUGtYNkxfRl9OMEdxTHVla2xNMFU2d0pyR2dObDFKOFF0UWNLUVlocUJEWjNMQm9YWUEtWXFMQTV1SHF0OGJmVVczcjYwUjBCcDdWRGdjOWFTbkVCX3BjdFhyM2hMSWU3YlJCR0UtZ0xZbENqbEtKaXpvMTNFZmxyNExDYnNmYXZlRmVrRmJWZGlXSmJ0ZVlRTzZHSnprN0NyM2FteThXQUVjbGpTemhlNUYwSm1fcVZpZ1hndXZaZlNDMWFBZXNQbnJsU2w4dHM2SWt1YkpuWVdSa3NKVC1RVDJ3elYtVVRqcmtaV1BOc1k1SU4teg?oc=5",
+      "published": "2026-08-18T14:25:03+00:00",
+      "source": {
+        "name": "FarodiRoma",
+        "url": "https://www.farodiroma.it"
       }
     },
     {
@@ -204,6 +204,16 @@
       }
     },
     {
+      "id": "9994aad6b9f7",
+      "title": "'Vetro alla gola dell'infermiere per farsi consegnare un farmaco': paura al centro di salute mentale - 055 Firenze",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0pkdVZyQldORkdodjJKLWJhbXBEWVNjOFlMMXVUeTlfcC1iS181eFR6d05hZGd1Zk5UeTlxZnhLczVFRk0yNU5iM09NZkFkaFkyT1BGU2h3RTQzQ3dodWFuQXRHRHR4RjhVdS03RHcwNDRTdExyZFhKRUZZRzIxSVAxVEl3aElXTFdsN0NicjhzMGpnM1lITE5xR3I4SksybXhxdjNrRDh4c09sQUpwSjlDM3Q0TFJGbGZVS1BaSnhQY2NsOGwzLWNwa3FWZw?oc=5",
+      "published": "2026-08-19T18:28:00+00:00",
+      "source": {
+        "name": "055 Firenze",
+        "url": "https://www.055firenze.it"
+      }
+    },
+    {
       "id": "01e1b4c3fabd",
       "title": "Unomattina 2025/26 - Salute e vacanze: farmaci e dispositivi da mettere in valigia - 24/06/2026 - Video - RaiPlay",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdEx3X1l5NV9QQm9XVTNNWDhidklnZXNmamxYdTJDRW1ZWlZndU9KVW1HUzcwak9GdGdZLV9ral9OTmlCc0Vfa3hZVFZ5NHk0YlFyblB3S2RYLW5acWpDVHZwXzRpdVRDOUh0NWF2SFV3bEI0U0ItOFpZWTlub201b3Z5MGpsaWpfWjV2VjdmTUsxYlJwSnZ6cnpVNF9Ea1NoV3dJdVEyVUFOY2dXTmZJZGdNWDRyWWlnMlc0b0hNTjdzalZUUF9OOUpOSHFrcU5XRGRnYVZZVmVVLXdNY3cyakMtd0ZRODM2NWtleWRpd2VqYWs?oc=5",
@@ -244,12 +254,12 @@
       }
     },
     {
-      "id": "b8368e9e437a",
-      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+      "id": "6667ade3df85",
+      "title": "Al ministero della Salute, i risultati della Campagna IoEquivalgo - FNOPI",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3lsdlJqU2g4MzdiMHBHSzI3aTk5QXhLWGt6NG96b2pCZjY5Z3JxeHR2M1otNWMycW5zUVFjNTlRMDZUNVVvMHlIRkk2S203a0hBV0hOaU0wYTUxZ0V4MlNBbUw?oc=5",
       "published": "2026-06-23T07:00:00+00:00",
       "source": {
-        "name": "FNOPI | Federazione Nazionale Ordini Professioni Infermieristiche",
+        "name": "FNOPI",
         "url": "https://www.fnopi.it"
       }
     },
@@ -294,13 +304,13 @@
       }
     },
     {
-      "id": "b44d132e2786",
-      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
-      "published": "2026-08-17T08:00:00+00:00",
+      "id": "dfc412cc0488",
+      "title": "Sesto Fiorentino, infermiere aggredito al Centro di salute mentale: paziente gli punta un grosso pezzo di vetro alla gola - Firenze e dintorni",
+      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxObTBDZFNXQnVjd0pjb0pwajhSRWdrNzVxUDVFLXc0aXdoWWZrNzlUQXZlYlBReS1uTE9DRFV5U0hGTkt6aGNKQTFkX2ZyQ3ZaOXF6eVBTalk3dVVIbU9sOURtRzVlY3ppNXlrUEM4djNTTVVSMFlIRFBBb3NydFNsUjMweEhRVEJVVnlIRURyc283R2F5bzljYUlTV2tnX0RDWW5ldklvUVIyZXNmWFV3ckp6N1phT1QtUlpmdkw4aUlXNmJBdnFjcXlpWDhXcThCTnh1ckViQUNjRkx0QlB3RThkdXZuYjR0Qmczcy1mNTA0Tk5Rd3ZuTHI1MUZmYmNBYWVlMGRfRTRUOF9GcGtwSjJlQmE0b1lnZTNWMDFHbTZNbGxEUVJ5c1lnODgzVlE2bDdYSkNxVkNQc19iSHFETi1tUXc2aXltMHNKWENudy12YTd0SGxpYUZ5M3BfV0g1d0JKZXUzbEpHZTJYcTJTQWttXzdWeDBCbXhYMUdnbS1IeVMzWC1EWTdzMXJKUUdLT3FKR1F6VWdhcnNwbTNZX0xxRFQ5UHNSUVJQaUFoRkRGenZORDlVUUwxOHNhMzBORkJCVHpRQ3VzSUppWWg3ZTMzalRNTzFNRndqeDdKOV9CUmFxdGdIX0tuUWlvem1fMFBObi1LSWt6N05lbjVNeDJuUU1VS0JrdHExRFJVMDltMTdwVDIyZ01UUlVPc0xNVEpYRTA2bDhZY3FhcHFj?oc=5",
+      "published": "2026-08-20T11:17:00+00:00",
       "source": {
-        "name": "Giornale La Voce",
-        "url": "https://www.giornalelavoce.it"
+        "name": "Firenze e dintorni",
+        "url": "https://www.firenzedintorni.it"
       }
     },
     {
@@ -311,6 +321,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "b44d132e2786",
+      "title": "Semaglutide e tirzepatide, il boom dei farmaci per dimagrire che sta ridisegnando la spesa sanitaria italiana - Giornale La Voce",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXJmb2lpNUlKR2EwYnlSdUpEZXlrb0cxTUlidjFIemdTTDRual9tMDVjOXdUblI2VjlEb0h5dzZ5MzJsUHhFTTlHbWRwdVRLRW1sV0UzYnhVTzRCLTFVaF93aExjcUlNbE5fbXBZTVp4QUN5TTVydTNJZnZIY2FvTV9GUDJOTHFSdkFhYmdwVC1FWGZTZmhjQXJ2cHJjdDZ2VFR1SWNfZjZXbXdVM3ZGM2ZfdXRyQTZrelJvT3FyMG9KWHF0THRaR0VfMGQzQTRPZnZKc3hMWFNiNUZKenF4MWZha3otSXBzWGdzUy1YNWlXejJQRVFjRg?oc=5",
+      "published": "2026-08-17T08:00:00+00:00",
+      "source": {
+        "name": "Giornale La Voce",
+        "url": "https://www.giornalelavoce.it"
       }
     },
     {
@@ -604,16 +624,6 @@
       }
     },
     {
-      "id": "67b47e01e730",
-      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWJCSC1zSGtaR3JCNks0WVJQbHZFVFJubTg5eEhXak5YMXE5SE81cmFlZzFJOUpoRHlvbUVvX09vRW9xcXJxcjd1eWM3WVo1VG9HaHhSUnJSYTV4bmR3d2RZVnhRalVGdzhZQnU5V3JweDVhYW1BWUZjSkRFRzVscG9LbDRJcnE4WWhTSUc4MTlmdzJ2OGxiSENMY2hhMDdzdTYzbExvaUN3UUhXMFBGVFZHbDk5RFU?oc=5",
-      "published": "2026-08-19T14:26:00+00:00",
-      "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
-      }
-    },
-    {
       "id": "41b2b662ca41",
       "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUFUanJUQ1lUWjNmV0p5b09WVmRNUnhsUjAteFBPeDRhOVBVSnNkV2FzNzhiUUtWVzlhYzRRaU95eGVHdGhSM2tSYnZlMXdfWlYzd0dmcWdRUnktbHlzZHVOR2h6bFZ5S0JuYlk1bEpXSEs3SGNtakhVWGI3SHlMQXpHMmVhckZKeUtzZ3ZoRWh0ZnBha0JaQ3pGblk4ZENJbGE1WlFLMW5HX0JaSDktbUhtVVZ0VHIwdklMV3hNNFdGXzFTOGxaeE9RMlM?oc=5",
@@ -664,16 +674,6 @@
       }
     },
     {
-      "id": "a9f6afc5e986",
-      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": {
-        "name": "Città di Rivoli",
-        "url": "https://www.comune.rivoli.to.it"
-      }
-    },
-    {
       "id": "bec037c34006",
       "title": "Nella Giornata Mondiale della Salute si celebra (anche) il ruolo attivo delle farmacie - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDBqbXh2aDZVaE16ZEtES1JzX1pwTGdGSlJqZEd1cl94bm85M2Z2ZnFCTWRiWkgtbEEyRDhQQXFITjVpZEZFaUQ0TWlYZ2dyWXg0dGJJZHBHV21vcnBnTGRNZXpycmhxb0VuVG13VUIxaHp4UTNUSWZaSzlaT0lsVURuZ3JIMjhRUW5iZDYtYUVyQUhuS1Z2Y2lhOXpJaFlFNUgyLWhycDVQQ0xSSnhzQjhfYw?oc=5",
@@ -681,6 +681,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "a9f6afc5e986",
+      "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
+      "published": "2026-02-06T08:00:00+00:00",
+      "source": {
+        "name": "Città di Rivoli",
+        "url": "https://www.comune.rivoli.to.it"
       }
     },
     {
@@ -721,6 +731,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "67b47e01e730",
+      "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWJCSC1zSGtaR3JCNks0WVJQbHZFVFJubTg5eEhXak5YMXE5SE81cmFlZzFJOUpoRHlvbUVvX09vRW9xcXJxcjd1eWM3WVo1VG9HaHhSUnJSYTV4bmR3d2RZVnhRalVGdzhZQnU5V3JweDVhYW1BWUZjSkRFRzVscG9LbDRJcnE4WWhTSUc4MTlmdzJ2OGxiSENMY2hhMDdzdTYzbExvaUN3UUhXMFBGVFZHbDk5RFU?oc=5",
+      "published": "2026-08-19T14:26:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -934,16 +954,6 @@
       }
     },
     {
-      "id": "7546234c9958",
-      "title": "Messina. Comunità alloggio in condizioni igieniche gravissime, personale non qualificato e farmaci scaduti. Un indagato - l'Eco del Sud",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWW5Sd1BXN043WGdWRjIxZXk4WURfdGFpTkJxNWVRdnA3THFxZjFPOWgzc2szcEV4YmZkdTZhZGc4TFREUzF3NXRWaXNta09TY016NVUtb2FaN1BHWm9EMVJOVDV4SjlDclVJN2pCQ1JNd1hZYy1ac1RYaTd0VlVUWHd1YTRNZHVhMnZCQVU5YXFHMVFfbmZKSkhwbU5jMzNLdTluTGt1djIxZjdkaVhpZS1CeThSV1F6emE5WmZXWjdzcFZ1V011T2FtRkhWRzVSMDhpUEVnREZyZw?oc=5",
-      "published": "2026-08-18T09:06:20+00:00",
-      "source": {
-        "name": "l'Eco del Sud",
-        "url": "https://www.lecodelsud.it"
-      }
-    },
-    {
       "id": "9128de78d1cc",
       "title": "Farmaci per dimagrire, l’Europa autorizza il primo Glp-1 per bocca - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1CSU9FaElkbk41RG9CdXhVOGZyUkMyajZpNEhjTWxvVXdGWUFVVXpXVWxXRHFaZC0zSlM2MVYxNTRCV1pjQWsxT0JzTE9jcFdHeGdQMHBQd3l2ZXBJMm5LR3Nlemt0WFdLbXNtZVVMYXpSeU1xeVFBV1dTRkgtX291bnhXcjVqVGxyWTduNWFUYUhRd3BrVGFpQmlVeVJzb1h0QWlGUjZGTnZ3bm9JWTFNeW9yVE82R3kyRTFPUzcyQ1FrUEc2TXdDdVpZaFVzS0NB0gHYAUFVX3lxTE9JVVloaTg5MWgxdmE5QWFhZzk1b1BMam5NUDMwa0ZpbWhsb1UwR1NZYkVsUkpLNW5nNm11VVVDUmpOYzlramZaLXlsUndfYjBDTVdsRUZtOTZIVDJzX2o3REVrRlBvWG53QVJwWkZsd1JrTnNjOWxBSVM0ajBNSlN4U2ZNUXpRaXRubTFtRVlfajllSDY4VDJXSzkwMWZDeG5uYnc0RDZIVWxNNzJJQ2pVb1hCV25rT01vNWJrSVVvdFYta2l4azNFTFZqaFVxOVM5SjEtSDdiNA?oc=5",
@@ -951,6 +961,16 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
+      }
+    },
+    {
+      "id": "7546234c9958",
+      "title": "Messina. Comunità alloggio in condizioni igieniche gravissime, personale non qualificato e farmaci scaduti. Un indagato - l'Eco del Sud",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWW5Sd1BXN043WGdWRjIxZXk4WURfdGFpTkJxNWVRdnA3THFxZjFPOWgzc2szcEV4YmZkdTZhZGc4TFREUzF3NXRWaXNta09TY016NVUtb2FaN1BHWm9EMVJOVDV4SjlDclVJN2pCQ1JNd1hZYy1ac1RYaTd0VlVUWHd1YTRNZHVhMnZCQVU5YXFHMVFfbmZKSkhwbU5jMzNLdTluTGt1djIxZjdkaVhpZS1CeThSV1F6emE5WmZXWjdzcFZ1V011T2FtRkhWRzVSMDhpUEVnREZyZw?oc=5",
+      "published": "2026-08-18T09:06:20+00:00",
+      "source": {
+        "name": "l'Eco del Sud",
+        "url": "https://www.lecodelsud.it"
       }
     },
     {
@@ -974,16 +994,6 @@
       }
     },
     {
-      "id": "254b4cf02a52",
-      "title": "Farmacia hub: metamorfosi della salute tra prossimità, sfide professionali e sostenibilità - TrendSanità",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWUl5eVdMVEpoRm0xLWJBQ3EydjB5dlJrOWF2X2U4YzdqcXBfUjdKcVdvUi0zMkM3WFprN0Q4QWYyYnFHTkFjUS1RWGVqdUVZWmFsQWdoZFZpaDA5?oc=5",
-      "published": "2026-04-02T07:00:00+00:00",
-      "source": {
-        "name": "TrendSanità",
-        "url": "https://trendsanita.it"
-      }
-    },
-    {
       "id": "05a8ffd6936f",
       "title": "Farmaci plasmaderivati e malattie rare: viaggio nella \"Plasma Valley\" italiana - OK Salute e Benessere",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTR6QXl3X01lRXQweVN0c0FwRVJsdGtDb21xMzcyd2RnT1lxSl9Da2N5VVBydDRLYmdJdkgzSmk0TXQyeFE3TnViN2E4WmhEZ3B5QndRWWhkeW9Nb2FXVkVqNnRvakRqVGltbHY4WUFUcDVXak1JRUhXV0FHakxoQkZIMFhnRnFZQ05yaUJESkRhMWVTa3pjbEZUekh2T28yWGpibXROcXJNUQ?oc=5",
@@ -991,16 +1001,6 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
-      }
-    },
-    {
-      "id": "2c29a9197512",
-      "title": "Assumi questi farmaci? Con il caldo serve più attenzione: ecco quelli che possono aumentare il rischio di disidratazione e colpo di calore - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNnVFUGwzekZ0aWFNbmV4eXRmaE9xX3FWczhCSFB1V1FlWVhGcTdqSnVyeGxxbVItZ2hJQmFCRjlHdE5XSWoyQTRSMGFjQlRjaWhIZDVoLXl6SHViMXRsMXRmaktUUEJPMUVjN1lxa2FQVUV3cUQyWlJ0OThaRldISkFmRHlvcWVSOHJBbDlEX2piTDlhOG43bzNMY0hUQ3Bpc1ZrOTBtVzRTUERNQWRYV2N6NEhkMFYyYlBtS05vcWVsVkczalprSXhPRkRzUmVXQjRGQlVzT2NpQTBFMVhLcVlMVm1fWlR4VWpUMkZ0NXljd2dKM29NTjRvTWJwOW5Rc0kzMnJwSWNCMVVhMDBYemdiNDZ5dw?oc=5",
-      "published": "2026-08-01T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
       }
     }
   ]
