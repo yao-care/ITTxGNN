@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T20:16:38.076420+00:00",
+  "fetched_at": "2026-08-20T21:17:40.777301+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -11,6 +11,16 @@
       "source": {
         "name": "Vatican News",
         "url": "https://www.vaticannews.va"
+      }
+    },
+    {
+      "id": "fe451ad26f83",
+      "title": "Miostatina, il “freno” della crescita muscolare: il primo inibitore vicino al traguardo dopo 30 anni - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWU5NQlN1ZkZKZFowamxERG1kaHBiVWtzVmdLV01WdFZKS2tOdTBwclBmS1FsaThMRldZUTdoSjJnTldfTlRNa0R3LW5FX0RZQ1N6MUtlZ2JxMWNwZThZaGMxdFh6Q2QxR3Y4LXlBQnluLWJSNUtETXhjc2tOalgxaG5UMGpRYUtKeDR1dVVqcTdhUU9hcG5XUXZ6dURQWWRtNURyMDZ6X2FKRmFXbXhINkVuZ1FUOEN0Rm9rcmkzUnJ0OWRhbEplbERHbUJIMDhsSDE5NEpDSjlENmRqdWo4WQ?oc=5",
+      "published": "2026-08-20T20:45:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -84,16 +94,6 @@
       }
     },
     {
-      "id": "7e8653509890",
-      "title": "Punta un vetro alla gola dell’infermiere per avere un farmaco - La Nazione",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndRcDJGeVQzbXh5ZGd1dDl0dTVKZDN3bExOVjJJODRoVGVEcU4xQk5GN25XWUJ5VlBfTHJIOXMwYlYtdUNsVU9CYWtKTWhsVWVaUFNnMGhKbXdCUUZEVG5ZZEdTZEFiLUNIS3BUUE5Odzdxd0poLVcwTkVNRVViaFo3c2VfN1FWV3lPN0c5QU5xVjdadnJDeEZnRFdXekF2Y2FYcA?oc=5",
-      "published": "2026-08-20T10:48:41+00:00",
-      "source": {
-        "name": "La Nazione",
-        "url": "https://www.lanazione.it"
-      }
-    },
-    {
       "id": "f9e6846b0566",
       "title": "Farmaci a uso umano: distribuzione diretta e per conto - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUlMY2hJZFFJWjZxWUFLSm9hYmZLYk9SVERRTUJiMkVrWmJveGxUY2txWGlkYk5ETmZscC01cXVkcXNNTHhwaEgwMC1OUWMyYWptcnc0dGJaWloxejM2VG1zdDFQVVA1RnBaRUVWb3ZpTWFZUHo5bWhkcnJtYzQ5QTNuc3RDWjl2QXhsREFxWE9XcndPZ2hSZWpINnV0dWp2cGJxajdxLTJiZmlPZ2dsSA?oc=5",
@@ -104,16 +104,6 @@
       }
     },
     {
-      "id": "55cd08107ad6",
-      "title": "Tre soluzioni scientifiche e inaspettate per dire addio al mal di schiena cronico - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQW9BRW1VTWh3OWRzM2VKWmJXQUVhVkh4MHcwSjlCZDM1d0tDcjVCUmxvWVZUZnZyZTBTWmt1VVdRakpDLUhOa2dqYnBxdDh1bWRydU1JcXJqZnFybVhqVjdGbW5CTE5lZ2ZnWl9QMDRkY3pHVV9XUzdHQkxzNHV5bkEyX1M4UmljSnQ5Q1RxOThWN3c4eWNvOEFSeGRsT0NBRDVnMjRLX0RkT2xYY0Vrd1VSUzd5ZGRmYlpXdVY3VzVCdVZEcmduN3lvbGw5X05QNEd6R05vX2U?oc=5",
-      "published": "2026-08-19T19:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "f32d64b747d3",
       "title": "Medicinali veterinari, il punto sulle attività del CVMP per gli antimicrobici 2021-2025 • NCF - NCF - Notiziario Chimico Farmaceutico",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHlYT2VmSXQwZm1TdjhzZTF6N25jdTlycXpScEx0MjFxVXBhS1I1dWl5T1NheDR5bUEtdnNrYnM0RE1jcjdLdWY3T0YyczJyMHJNTU5KdEhsQ1RQNWNPcmJ1cU9fc25fcnY5djlwYVZZblByWVRvQ1FGdXd0eWY3WGFhdkpQOFAtRTd2YzVwdXg1UlVVZjhoNUxiOUhuR3VDWF9yb3k0TVVKZWtpbGREMVFFMVgzWUNXVVdnb3o4c29yVkFuMnBsU2M5amw2VHRmSHVtRlVId0JBams?oc=5",
@@ -121,6 +111,16 @@
       "source": {
         "name": "NCF - Notiziario Chimico Farmaceutico",
         "url": "https://www.notiziariochimicofarmaceutico.it"
+      }
+    },
+    {
+      "id": "7e8653509890",
+      "title": "Punta un vetro alla gola dell’infermiere per avere un farmaco - La Nazione",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndRcDJGeVQzbXh5ZGd1dDl0dTVKZDN3bExOVjJJODRoVGVEcU4xQk5GN25XWUJ5VlBfTHJIOXMwYlYtdUNsVU9CYWtKTWhsVWVaUFNnMGhKbXdCUUZEVG5ZZEdTZEFiLUNIS3BUUE5Odzdxd0poLVcwTkVNRVViaFo3c2VfN1FWV3lPN0c5QU5xVjdadnJDeEZnRFdXekF2Y2FYcA?oc=5",
+      "published": "2026-08-20T10:48:41+00:00",
+      "source": {
+        "name": "La Nazione",
+        "url": "https://www.lanazione.it"
       }
     },
     {
@@ -174,6 +174,16 @@
       }
     },
     {
+      "id": "55cd08107ad6",
+      "title": "Tre soluzioni scientifiche e inaspettate per dire addio al mal di schiena cronico - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQW9BRW1VTWh3OWRzM2VKWmJXQUVhVkh4MHcwSjlCZDM1d0tDcjVCUmxvWVZUZnZyZTBTWmt1VVdRakpDLUhOa2dqYnBxdDh1bWRydU1JcXJqZnFybVhqVjdGbW5CTE5lZ2ZnWl9QMDRkY3pHVV9XUzdHQkxzNHV5bkEyX1M4UmljSnQ5Q1RxOThWN3c4eWNvOEFSeGRsT0NBRDVnMjRLX0RkT2xYY0Vrd1VSUzd5ZGRmYlpXdVY3VzVCdVZEcmduN3lvbGw5X05QNEd6R05vX2U?oc=5",
+      "published": "2026-08-19T19:00:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
       "id": "4c56b2975579",
       "title": "Notizie sulla salute del 19 agosto: Come agiscono i farmaci sul corpo? | Perché le cose incompiute ci perseguitano? - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRE9iUDdoRndVOFZiZUgzNXFYb1FOckVsNzQ5T0ZCNEhtdEFBekxUcnRjek84UWlDcXNDaUNTMW1Vd3JXOGRGM1lHNDlsNVFIWm5KLWhEczduX0U4M0NvMktldXJtYUFuTVNmZlJwNzhZUXBJMGZjWWhqdVRpeXVNdm5nWDRMTXBWWThKemhaWFpZNWQzMk54M3U4U3VUOVRrNXVuRHkySTZYVEVNcDl5M1ktSU1mR0FfTUxz?oc=5",
@@ -204,16 +214,6 @@
       }
     },
     {
-      "id": "aee917e57fd4",
-      "title": "C'è un farmaco per l'asma che è anche un antitumorale - La Gazzetta dello Sport",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTF4a29VMzRGWkxlSHZUMnlkQ01DM2ZnTlo4V3dTM1dYYmNFWDdqVGhrX1JUblBreVRRbjNXVXZ5ODFkSGh6aGxNR0FEbDRNNUNJZVJ4aVhUdXluckIxOGlZTEw2bmdaRmctT1o2ZUx1NVRMZUstV3NGSTVYVmViVmkxUV9jNE9JZEVYWXZWY0Y4a2I1c3ozajdWZTdKOTJUaDUwUWdfdTlBSmpUOURR0gG0AUFVX3lxTE1LWkEzdG9XYTU2V0dFSm1JOXJ5dmFjTGFObzFNb1RmUnMxTndmUHAtUlpyMVhPY09QeENUZWo5WjMwcDJYX1RQeTE0Rk9ib1ltb1JTYWN6WXJqWElOTXBUYVFNRGk5WnB0a19qcUJGUVREeWIyTFJHNlo4dWZRbGFyYmkwSUJ0Nk9fRkY1Y3EtMENWeG9jM2hnb2loNlFRNzdtek84RG13clVTTGowU3ZERHNVcw?oc=5",
-      "published": "2026-08-19T16:26:31+00:00",
-      "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it"
-      }
-    },
-    {
       "id": "c124dd2dca81",
       "title": "Un adulto su tre fatica a comprendere le istruzioni per mantenersi in salute - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjE5QWEzQkdfNFdtQ29WMjl5akxZSzd6cWNtczUzdThmMHRocGJwZnoySmtaM2JTeWZaLXBndlNwcE9zWmhmZjRzU3l0Ri0yNmM5WjNjSlF3cnRkeFBNUS1qejlodFJhSWh4TW1wTDVKUmt2emxLOUpGU0VGN1dlS3RxZ1hvNmZlN3ZrRTZYNVd0RjRkNTB1aXNRNUVXemthQXRldHMyX0lscURCbjdFRS0yNzBEZjBzOFN2ZXZXMHJheVk4ZjBVdGFwZW9kcXgzb25kdg?oc=5",
@@ -221,6 +221,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "aee917e57fd4",
+      "title": "C'è un farmaco per l'asma che è anche un antitumorale - La Gazzetta dello Sport",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTF4a29VMzRGWkxlSHZUMnlkQ01DM2ZnTlo4V3dTM1dYYmNFWDdqVGhrX1JUblBreVRRbjNXVXZ5ODFkSGh6aGxNR0FEbDRNNUNJZVJ4aVhUdXluckIxOGlZTEw2bmdaRmctT1o2ZUx1NVRMZUstV3NGSTVYVmViVmkxUV9jNE9JZEVYWXZWY0Y4a2I1c3ozajdWZTdKOTJUaDUwUWdfdTlBSmpUOURR0gG0AUFVX3lxTE1LWkEzdG9XYTU2V0dFSm1JOXJ5dmFjTGFObzFNb1RmUnMxTndmUHAtUlpyMVhPY09QeENUZWo5WjMwcDJYX1RQeTE0Rk9ib1ltb1JTYWN6WXJqWElOTXBUYVFNRGk5WnB0a19qcUJGUVREeWIyTFJHNlo4dWZRbGFyYmkwSUJ0Nk9fRkY1Y3EtMENWeG9jM2hnb2loNlFRNzdtek84RG13clVTTGowU3ZERHNVcw?oc=5",
+      "published": "2026-08-19T16:26:31+00:00",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it"
       }
     },
     {
@@ -304,16 +314,6 @@
       }
     },
     {
-      "id": "38589ff2a7d2",
-      "title": "L'elenco dei farmaci coperti dall'assicurazione sanitaria è stato ampliato. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubkRFR1ZPZGx3QkNBc2szQlpwYmpSV2tmYzU5cjc2MkwwRkpLQjYzaktvV1VER08yVG96YVUzdkRDS2FVUVIyNTdqeHBGZGJMS2JHM3dCT3NzMW1RV3ZYRmRvaU9KRjdTNVYzZGhNRVBJSkpSNEY0aFpB?oc=5",
-      "published": "2026-08-19T04:28:07+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -321,6 +321,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "38589ff2a7d2",
+      "title": "L'elenco dei farmaci coperti dall'assicurazione sanitaria è stato ampliato. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubkRFR1ZPZGx3QkNBc2szQlpwYmpSV2tmYzU5cjc2MkwwRkpLQjYzaktvV1VER08yVG96YVUzdkRDS2FVUVIyNTdqeHBGZGJMS2JHM3dCT3NzMW1RV3ZYRmRvaU9KRjdTNVYzZGhNRVBJSkpSNEY0aFpB?oc=5",
+      "published": "2026-08-19T04:28:07+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -364,13 +374,13 @@
       }
     },
     {
-      "id": "367f151fc6d3",
-      "title": "Francesca Manzini 16 chili in meno, la svolta dopo il Grande Fratello Vip: «Non c’è Ozempic, ecco come ho fatto» - Leggo.it",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenFST0VQLWxMZWFwNGZ1OXRTQ3FpbmtTdVhvdzBQa254Rm1Cc1dKTE1YWHc5R2tKQkt4anRYVU9oOWltWVlJQmt4ZU9md2xfU1hHTzk1R1ZNUVIwanFrUTU5ZVBOZnZZRmFITUFlMUNJMkFidTFyUUwzVTVkTGU2V0FmZUQwUW5Db3VhYWd5Mzh6cy1OTnpYWDAzQWd4UUFsZkpjc2VSRTIyd0RBdlpMVVVEMzhYOGhMVHpBaDZRZ1hFdHdNTUJxMS1UdlZLZzd1eEVZYzFIUjZwWGo0MFg1NWNLONIB1AFBVV95cUxNXzY2S0Z3UnFxOEQ2ZnhDM05fWFduZVE4d3g3eXp2c1EzT2FET2hDemtEc3ZrZDJhcnlXQm03SlFPOXAtdjhHVmVHNTByZVpvb0FHX2pKYUNiZmdZZGpJYU83SkN2SDRvMXVNWGZOZjZzaVBNUzl4Q0tZTkFyRmRPUjBiVWI1V21Ec2tBRTN3S09HbFQtU3pGS2gyX3gzU081Y0xZbk1UWDNTVUVLY1lRWjdtTFV4Y3pSSXlBRW1TbmZhazZiSERPQ2V2NjFveThPSVZPbg?oc=5",
-      "published": "2026-08-20T15:51:45+00:00",
+      "id": "ceb7827c7d34",
+      "title": "Stupefacenti in ospedale: carico, scarico, registro e responsabilità - Nurse Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWQwM0lDM0dDcnRERHFhTUNXTzUyNkE1S0tRaV96T0tYSUdKVy1PU3BldzM2SG40QTBIRGhMWk5HaXJmeW1kR1A0SUxqanpBZU5EczJzVGlMWXRBcWNhT3E3VC1zbGstajBEMHlxWU5OdDVVcGhSY0o2bGl6bDQ3SmpNX1BPaTN2QkZfWGlfUEVJQQ?oc=5",
+      "published": "2026-08-20T18:56:31+00:00",
       "source": {
-        "name": "Leggo.it",
-        "url": "https://www.leggo.it"
+        "name": "Nurse Times",
+        "url": "https://nursetimes.org"
       }
     },
     {
@@ -414,6 +424,16 @@
       }
     },
     {
+      "id": "367f151fc6d3",
+      "title": "Francesca Manzini 16 chili in meno, la svolta dopo il Grande Fratello Vip: «Non c’è Ozempic, ecco come ho fatto» - Leggo.it",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenFST0VQLWxMZWFwNGZ1OXRTQ3FpbmtTdVhvdzBQa254Rm1Cc1dKTE1YWHc5R2tKQkt4anRYVU9oOWltWVlJQmt4ZU9md2xfU1hHTzk1R1ZNUVIwanFrUTU5ZVBOZnZZRmFITUFlMUNJMkFidTFyUUwzVTVkTGU2V0FmZUQwUW5Db3VhYWd5Mzh6cy1OTnpYWDAzQWd4UUFsZkpjc2VSRTIyd0RBdlpMVVVEMzhYOGhMVHpBaDZRZ1hFdHdNTUJxMS1UdlZLZzd1eEVZYzFIUjZwWGo0MFg1NWNLONIB1AFBVV95cUxNXzY2S0Z3UnFxOEQ2ZnhDM05fWFduZVE4d3g3eXp2c1EzT2FET2hDemtEc3ZrZDJhcnlXQm03SlFPOXAtdjhHVmVHNTByZVpvb0FHX2pKYUNiZmdZZGpJYU83SkN2SDRvMXVNWGZOZjZzaVBNUzl4Q0tZTkFyRmRPUjBiVWI1V21Ec2tBRTN3S09HbFQtU3pGS2gyX3gzU081Y0xZbk1UWDNTVUVLY1lRWjdtTFV4Y3pSSXlBRW1TbmZhazZiSERPQ2V2NjFveThPSVZPbg?oc=5",
+      "published": "2026-08-20T15:51:45+00:00",
+      "source": {
+        "name": "Leggo.it",
+        "url": "https://www.leggo.it"
+      }
+    },
+    {
       "id": "391223dd702d",
       "title": "\"La fabbricazione dei medicinali veterinari\" - Incontro con gli Stakeholder - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnVSVHBBWTVHS0g5SERzbTNEcWN5b2gzY0w4M05McWt6YkRfU1plczBHdG9ILXp0YlYyZUxYd0dlZEJtT19JNDM4bGEwRFhuR2lxeWNzWUhvNHFObzZxbDYxRTM1TDh1c0hEWjBTMTJQdG5tY1R6WU1CQ090UDd6WUdmaTQ4c29LbDJDV21UV0Nnd2dFaFhWY3p6TDhkdkoxOEZidTNEdERub2VYT1FycQ?oc=5",
@@ -451,16 +471,6 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
-      }
-    },
-    {
-      "id": "5e2d883bd8bc",
-      "title": "Maddalena Gobbi, la farmacista dei bambini - TuttoSanità",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGOGVTZ1dQVjNVWUxuVldHS3huQzZZWjJXT2tmSF9GbER6UktGLXU3cXptRDczaFpFbFI2cUh6RUd4NVZKdHMzOEZ6RE1IYlZYaWpWYUpJWlhHZ1phUGxIZWNoLVVqSHlvbjBuOFhmSnRXdUJvbGxYMk9B?oc=5",
-      "published": "2026-08-20T07:05:16+00:00",
-      "source": {
-        "name": "TuttoSanità",
-        "url": "https://www.tuttosanita.com"
       }
     },
     {
@@ -514,6 +524,16 @@
       }
     },
     {
+      "id": "5e2d883bd8bc",
+      "title": "Maddalena Gobbi, la farmacista dei bambini - TuttoSanità",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGOGVTZ1dQVjNVWUxuVldHS3huQzZZWjJXT2tmSF9GbER6UktGLXU3cXptRDczaFpFbFI2cUh6RUd4NVZKdHMzOEZ6RE1IYlZYaWpWYUpJWlhHZ1phUGxIZWNoLVVqSHlvbjBuOFhmSnRXdUJvbGxYMk9B?oc=5",
+      "published": "2026-08-20T07:05:16+00:00",
+      "source": {
+        "name": "TuttoSanità",
+        "url": "https://www.tuttosanita.com"
+      }
+    },
+    {
       "id": "25e1ac2ad2e4",
       "title": "Carenze di medicinali in Europa: in che modo sta rispondendo l'UE | Tematiche | Parlamento europeo - European Parliament",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb08yTzZUek1pQzZkeXhCNnFRUUFUck1nNHhtQWFZQXJnRDZvT3l6T1AwQU5lbDlJSi1oMC12eTFVZGNHalVrTlJmYVdqczNsNUxnaXlNREhRV0c3ZkJESF9NMEN3UUJNcVVibDE2al9WR0xESm53QmN6VW41cUJsajBrUnFNNFZnTWhZWTRPZjVBX3M5YU15RkxsUW04VFFqUGdvbkxUWUJSWU1sMUJJeEVkdVVkd1hBNXhUNEl0NjI1bV84WVUyYUNB?oc=5",
@@ -554,16 +574,6 @@
       }
     },
     {
-      "id": "3ed2ce2ce0dd",
-      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
-      "published": "2026-08-17T05:30:18+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -571,6 +581,16 @@
       "source": {
         "name": "INNLIFES",
         "url": "https://www.innlifes.com"
+      }
+    },
+    {
+      "id": "3ed2ce2ce0dd",
+      "title": "Ampliamento della copertura assicurativa sanitaria per includere quasi 350 farmaci presso i centri sanitari comunali. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tPbUlnM0ZZS3JGMUJ4YUVpYjlfRkM0NENLVkgxc3p4S0Z3VVpaVlZBOXItbm9wNTFnMnBoSHA1LWRfSnh1QjFIdUlZdjdsRnQwdFZjeF9yRmlxazg3NnlxQkJBTWlmRy1VSTdvZlpmZGxJaXAxRk9BRjRSOUgtYkt3Z0pyTGtXN012ZHNQQ3l4ZTctM29XZVR0enZXSWR2dUg0?oc=5",
+      "published": "2026-08-17T05:30:18+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -604,16 +624,6 @@
       }
     },
     {
-      "id": "dfc412cc0488",
-      "title": "Sesto Fiorentino, infermiere aggredito al Centro di salute mentale: paziente gli punta un grosso pezzo di vetro alla gola - Firenze e dintorni",
-      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxObTBDZFNXQnVjd0pjb0pwajhSRWdrNzVxUDVFLXc0aXdoWWZrNzlUQXZlYlBReS1uTE9DRFV5U0hGTkt6aGNKQTFkX2ZyQ3ZaOXF6eVBTalk3dVVIbU9sOURtRzVlY3ppNXlrUEM4djNTTVVSMFlIRFBBb3NydFNsUjMweEhRVEJVVnlIRURyc283R2F5bzljYUlTV2tnX0RDWW5ldklvUVIyZXNmWFV3ckp6N1phT1QtUlpmdkw4aUlXNmJBdnFjcXlpWDhXcThCTnh1ckViQUNjRkx0QlB3RThkdXZuYjR0Qmczcy1mNTA0Tk5Rd3ZuTHI1MUZmYmNBYWVlMGRfRTRUOF9GcGtwSjJlQmE0b1lnZTNWMDFHbTZNbGxEUVJ5c1lnODgzVlE2bDdYSkNxVkNQc19iSHFETi1tUXc2aXltMHNKWENudy12YTd0SGxpYUZ5M3BfV0g1d0JKZXUzbEpHZTJYcTJTQWttXzdWeDBCbXhYMUdnbS1IeVMzWC1EWTdzMXJKUUdLT3FKR1F6VWdhcnNwbTNZX0xxRFQ5UHNSUVJQaUFoRkRGenZORDlVUUwxOHNhMzBORkJCVHpRQ3VzSUppWWg3ZTMzalRNTzFNRndqeDdKOV9CUmFxdGdIX0tuUWlvem1fMFBObi1LSWt6N05lbjVNeDJuUU1VS0JrdHExRFJVMDltMTdwVDIyZ01UUlVPc0xNVEpYRTA2bDhZY3FhcHFj?oc=5",
-      "published": "2026-08-20T11:17:00+00:00",
-      "source": {
-        "name": "Firenze e dintorni",
-        "url": "https://www.firenzedintorni.it"
-      }
-    },
-    {
       "id": "87463bcc603e",
       "title": "Farmaco accessibile: la rivoluzione gentile della prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWlzSE1TYk80N2RyR2dYaWVYejlpTjBoa1NFMC1oSlFGV0oxNXlWT2luWGh3azJORTJzRDlldkJncHYwa0drOThPanZQNEthRmlPbEgwS1ZhVS0xMmF6OHNlb0lGeXRSbDdnZDhmYkI4YmJuenYycnVTeThZRzV1cFFQTkNSSWoyYkMzR1NsdldTTVJGVEl6bU9EQ1BSeVZ0UFNQQ1NR?oc=5",
@@ -631,6 +641,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "dfc412cc0488",
+      "title": "Sesto Fiorentino, infermiere aggredito al Centro di salute mentale: paziente gli punta un grosso pezzo di vetro alla gola - Firenze e dintorni",
+      "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxObTBDZFNXQnVjd0pjb0pwajhSRWdrNzVxUDVFLXc0aXdoWWZrNzlUQXZlYlBReS1uTE9DRFV5U0hGTkt6aGNKQTFkX2ZyQ3ZaOXF6eVBTalk3dVVIbU9sOURtRzVlY3ppNXlrUEM4djNTTVVSMFlIRFBBb3NydFNsUjMweEhRVEJVVnlIRURyc283R2F5bzljYUlTV2tnX0RDWW5ldklvUVIyZXNmWFV3ckp6N1phT1QtUlpmdkw4aUlXNmJBdnFjcXlpWDhXcThCTnh1ckViQUNjRkx0QlB3RThkdXZuYjR0Qmczcy1mNTA0Tk5Rd3ZuTHI1MUZmYmNBYWVlMGRfRTRUOF9GcGtwSjJlQmE0b1lnZTNWMDFHbTZNbGxEUVJ5c1lnODgzVlE2bDdYSkNxVkNQc19iSHFETi1tUXc2aXltMHNKWENudy12YTd0SGxpYUZ5M3BfV0g1d0JKZXUzbEpHZTJYcTJTQWttXzdWeDBCbXhYMUdnbS1IeVMzWC1EWTdzMXJKUUdLT3FKR1F6VWdhcnNwbTNZX0xxRFQ5UHNSUVJQaUFoRkRGenZORDlVUUwxOHNhMzBORkJCVHpRQ3VzSUppWWg3ZTMzalRNTzFNRndqeDdKOV9CUmFxdGdIX0tuUWlvem1fMFBObi1LSWt6N05lbjVNeDJuUU1VS0JrdHExRFJVMDltMTdwVDIyZ01UUlVPc0xNVEpYRTA2bDhZY3FhcHFj?oc=5",
+      "published": "2026-08-20T11:17:00+00:00",
+      "source": {
+        "name": "Firenze e dintorni",
+        "url": "https://www.firenzedintorni.it"
       }
     },
     {
@@ -924,16 +944,6 @@
       }
     },
     {
-      "id": "cb55aab83e28",
-      "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": {
-        "name": "pharmastar.it",
-        "url": "https://www.pharmastar.it"
-      }
-    },
-    {
       "id": "1eacc38b53e9",
       "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
@@ -941,6 +951,16 @@
       "source": {
         "name": "Medico e paziente",
         "url": "https://medicoepaziente.it"
+      }
+    },
+    {
+      "id": "cb55aab83e28",
+      "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "pharmastar.it",
+        "url": "https://www.pharmastar.it"
       }
     },
     {
@@ -981,26 +1001,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "fc1033f46800",
-      "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
-      }
-    },
-    {
-      "id": "d3b6f8d20180",
-      "title": "AI, farmaci, Ssn in crisi e longevità: il futuro della salute al bivio - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaS1iRnppV3E1TmpHNDhBTll3bWdqbVZwNzFwcHZJSjFhRjg5T3c5aGxVc3MtTnNWYnVmdTEzdVYtSE1tcEtCMGt5QnM1dTVRWWdqeTNYaXAydWNKUm5vaXhEaUVmU0xwNW5fQzk0WHJMalFZZ0tNTEIxSndDV0Q0b3RvUHZwQ1dkb1ZudW5Kb2lEY24xQ3Q0OQ?oc=5",
-      "published": "2026-05-13T07:00:00+00:00",
-      "source": {
-        "name": "Il Sole 24 ORE",
-        "url": "https://www.ilsole24ore.com"
       }
     }
   ]
