@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T00:37:03.866372+00:00",
+  "fetched_at": "2026-08-22T02:08:15.440467+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "a96193959c2f",
-      "title": "Sole e farmaci, quando fare attenzione alla pelle? - Il Golfo 24",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLU9RN3RENFc5VkhvRUF1YnBlaEdHWEU5WkIzRHFxTmV0WVRMclNFRmlPQzB6a1kzd1pQZ2xJVGhNdUc1SVgtRmRFWnJoWUU3c3p4dm04dDBLYVFuaXVoeWNqTXAyXzdxcTYtZERaRzB6N2s1S0ZMaHhfSmc3NTDSAYQBQVVfeXFMUC1KQzV5VVZOc0NidnZDU2lpR0FVY1c4QlB2VXp0Sm13V05vUnc1T3N6cU9SbnQ3TW54cHNKbERqSjRMbnR5VXRpbm96c1RWT0tEMmQxNmdQOFcyVy1qbGFUUGZjZ3NLdlMtNnZHUzlvbmlsejNLaXpUVmZlYkxHVmQycGpU?oc=5",
-      "published": "2026-08-21T10:34:18+00:00",
-      "source": {
-        "name": "Il Golfo 24",
-        "url": "https://www.ilgolfo24.it"
-      }
-    },
-    {
       "id": "be9ea61dbff4",
       "title": "Farmaci essenziali. Ministero Salute: \"La disponibilità è sicurezza nazionale. Cina e India coprono oltre l'80% degli antibiotici\" - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV195UjhLeWJLck1EdDhsa2xRNDFZWkV1REtNV3cyd1R4a0pmMzFxYlNqcTR3ZDFKc05OZ24yd3VDdkhkbzhjaGxjM1lZSWp6TkxpamFJdXZrOUNBYUI2Mmo5bHB5aGlEalE1LUtsT1V0WVBGTFpEakVyQ2JxMS1sTzBlSUliTF8zOFhYOFNHNWVRc2JFcDFuaHkyRDZSbVlmTnc3MENUVG5TajV1TWlZZXg4YXVMZnlWanZlLWx5UnBHekNWNHI5TlBhc2Z0VnJVU2FvcDVaZHVHQS02NkRtTjlObkhteXNFb1dSSWt3VGp3eGFFZjFtSWxUMzBEajg?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "a96193959c2f",
+      "title": "Sole e farmaci, quando fare attenzione alla pelle? - Il Golfo 24",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLU9RN3RENFc5VkhvRUF1YnBlaEdHWEU5WkIzRHFxTmV0WVRMclNFRmlPQzB6a1kzd1pQZ2xJVGhNdUc1SVgtRmRFWnJoWUU3c3p4dm04dDBLYVFuaXVoeWNqTXAyXzdxcTYtZERaRzB6N2s1S0ZMaHhfSmc3NTDSAYQBQVVfeXFMUC1KQzV5VVZOc0NidnZDU2lpR0FVY1c4QlB2VXp0Sm13V05vUnc1T3N6cU9SbnQ3TW54cHNKbERqSjRMbnR5VXRpbm96c1RWT0tEMmQxNmdQOFcyVy1qbGFUUGZjZ3NLdlMtNnZHUzlvbmlsejNLaXpUVmZlYkxHVmQycGpU?oc=5",
+      "published": "2026-08-21T10:34:18+00:00",
+      "source": {
+        "name": "Il Golfo 24",
+        "url": "https://www.ilgolfo24.it"
       }
     },
     {
@@ -171,6 +171,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "6ca5eb6adebf",
+      "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "source": {
+        "name": "Regione Emilia-Romagna",
+        "url": "https://salute.regione.emilia-romagna.it"
       }
     },
     {
@@ -214,16 +224,6 @@
       }
     },
     {
-      "id": "6ca5eb6adebf",
-      "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
-      "published": "2026-07-12T22:32:00+00:00",
-      "source": {
-        "name": "Regione Emilia-Romagna",
-        "url": "https://salute.regione.emilia-romagna.it"
-      }
-    },
-    {
       "id": "422fe17620a5",
       "title": "Contributi regionali alle farmacie e ai dispensari farmaceutici permanenti - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3JZaHRqRXEyNEpvTnRfQjIwRHNuVzMwaVFkNmF6WGt3S0Y5MzZpOW9fRjZsLTRYVFBpU0pNWVA4TDdrZ2NKRWhreVkzMkdfYTRvUF9fQll4a1dwUGsyY3B3SXpSZzZfVnEtTFU3SUpVUmNSYzlzRU9sZVVld2hTd095eEhaQmNGSWZwdlBoLS1EaWc?oc=5",
@@ -254,16 +254,6 @@
       }
     },
     {
-      "id": "68bd223905eb",
-      "title": "Alzheimer. Ministero Salute: - Il Farmacista Online",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZk5iODZoTVlQU0RLUmlZWEM3d0hFd0ZRaWZxQVRjT2pNNGhTYWlqeS1qMDQ4S3JxTWhzS2ViR3VjMlduQndrdzhtVFpYYjBFS3BQMlg0TEVCWHJaTEwyVTdlcnNNT1JoSEdkeEI4RUJ1bndmSTNxNkItS2dWS1JyRmg2UjhNNzQ4VlJOaA?oc=5",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": {
-        "name": "Il Farmacista Online",
-        "url": "https://www.ilfarmacistaonline.it"
-      }
-    },
-    {
       "id": "01e1b4c3fabd",
       "title": "Unomattina 2025/26 - Salute e vacanze: farmaci e dispositivi da mettere in valigia - 24/06/2026 - Video - RaiPlay",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdEx3X1l5NV9QQm9XVTNNWDhidklnZXNmamxYdTJDRW1ZWlZndU9KVW1HUzcwak9GdGdZLV9ral9OTmlCc0Vfa3hZVFZ5NHk0YlFyblB3S2RYLW5acWpDVHZwXzRpdVRDOUh0NWF2SFV3bEI0U0ItOFpZWTlub201b3Z5MGpsaWpfWjV2VjdmTUsxYlJwSnZ6cnpVNF9Ea1NoV3dJdVEyVUFOY2dXTmZJZGdNWDRyWWlnMlc0b0hNTjdzalZUUF9OOUpOSHFrcU5XRGRnYVZZVmVVLXdNY3cyakMtd0ZRODM2NWtleWRpd2VqYWs?oc=5",
@@ -271,6 +261,16 @@
       "source": {
         "name": "RaiPlay",
         "url": "https://www.raiplay.it"
+      }
+    },
+    {
+      "id": "68bd223905eb",
+      "title": "Alzheimer. Ministero Salute: - Il Farmacista Online",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZk5iODZoTVlQU0RLUmlZWEM3d0hFd0ZRaWZxQVRjT2pNNGhTYWlqeS1qMDQ4S3JxTWhzS2ViR3VjMlduQndrdzhtVFpYYjBFS3BQMlg0TEVCWHJaTEwyVTdlcnNNT1JoSEdkeEI4RUJ1bndmSTNxNkItS2dWS1JyRmg2UjhNNzQ4VlJOaA?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": {
+        "name": "Il Farmacista Online",
+        "url": "https://www.ilfarmacistaonline.it"
       }
     },
     {
@@ -304,16 +304,6 @@
       }
     },
     {
-      "id": "af44ae20e3e2",
-      "title": "Farmaci equivalenti: il 22 giugno la conferenza conclusiva di IoEquivalgo - cittadinanzattiva.it",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVZRZ05BRkt1cG1SLU9XdGg0YXJaZWtlRktmTkVyRU4yMVVLVnJuWnVtYjNRM3Q1NWRyTjRvSEJhZVlJd2dYdnJvQXEyU3pqR1pnNk9GNFpFb1NPalhJT1FvR01pZDgxV3VzdTJ0R0ZzZEJDMFBrVUc1MkktUFlvbXZTRlBrSGV4SU5GN0hjNUU3czVqUTlBQWdDNktoVmUtaWhXNDMxd0ZpVWhvUE1GOEZzZnptcXl4OWdicFBDLVJXbDVBekE?oc=5",
-      "published": "2026-06-17T07:00:00+00:00",
-      "source": {
-        "name": "cittadinanzattiva.it",
-        "url": "https://www.cittadinanzattiva.it"
-      }
-    },
-    {
       "id": "5ea824f9fef4",
       "title": "Farmaci anti-obesità, sorpasso sull’oncologia: la nuova corsa delle Big Pharma apre anche una questione etica - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTcwdVdIVVBfWkRwdEs1c2dCRHkxUE5mSUtWcE1kd0t6MWI2OWUzZ3VzOHJIN1pKa3hhWTRZcWxtNjFLZjZYWDZCZFpLbXRrcUY0NExpd1NpZS1mNlZwalhLTTVfalp2N29aTEJjeEp4UFcyMnl0NVFObU9Oa3dlMDRQejM0ZjhIR25ERHdOWXNzZ2dyWW1LbEtnMWMxMjh4R2czRjMtX3ZYQlBQbEFwTlBwN0J6WTNkZjRZNE5kM1lxbnZKM2ZneC1qNTR0ekZxQ1dUNVEyM3FIb0hjT3BBaUZ5SUVKOWlMYU54Sm5QMm4?oc=5",
@@ -321,16 +311,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "effcc20a165b",
-      "title": "L'assunzione indiscriminata di antidolorifici e antipiretici a base di paracetamolo può causare tossicità epatica. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXg1MmM3T1hCWWhhVnZMQVk0TnZVMlJmdmUtMFh6b2JaZEozSUp3RUJ2NGVaNE1kSUdGQ0hsemlNbkxKVWNWRHBKcXNSR21WU1ZrZTl3NUtXTVZKV1lDM2hqX3hTR3ZsMExzc2lsa0tyZXpNMjVtNUhLbGcwSWozbGpUclFDRjV0b3I1akxTbDVuNEVkWUxCcXM5Mlg?oc=5",
-      "published": "2026-08-21T15:27:39+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -354,6 +334,16 @@
       }
     },
     {
+      "id": "af44ae20e3e2",
+      "title": "Farmaci equivalenti: il 22 giugno la conferenza conclusiva di IoEquivalgo - cittadinanzattiva.it",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVZRZ05BRkt1cG1SLU9XdGg0YXJaZWtlRktmTkVyRU4yMVVLVnJuWnVtYjNRM3Q1NWRyTjRvSEJhZVlJd2dYdnJvQXEyU3pqR1pnNk9GNFpFb1NPalhJT1FvR01pZDgxV3VzdTJ0R0ZzZEJDMFBrVUc1MkktUFlvbXZTRlBrSGV4SU5GN0hjNUU3czVqUTlBQWdDNktoVmUtaWhXNDMxd0ZpVWhvUE1GOEZzZnptcXl4OWdicFBDLVJXbDVBekE?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "source": {
+        "name": "cittadinanzattiva.it",
+        "url": "https://www.cittadinanzattiva.it"
+      }
+    },
+    {
       "id": "aee917e57fd4",
       "title": "C'è un farmaco per l'asma che è anche un antitumorale - La Gazzetta dello Sport",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTF4a29VMzRGWkxlSHZUMnlkQ01DM2ZnTlo4V3dTM1dYYmNFWDdqVGhrX1JUblBreVRRbjNXVXZ5ODFkSGh6aGxNR0FEbDRNNUNJZVJ4aVhUdXluckIxOGlZTEw2bmdaRmctT1o2ZUx1NVRMZUstV3NGSTVYVmViVmkxUV9jNE9JZEVYWXZWY0Y4a2I1c3ozajdWZTdKOTJUaDUwUWdfdTlBSmpUOURR0gG0AUFVX3lxTE1LWkEzdG9XYTU2V0dFSm1JOXJ5dmFjTGFObzFNb1RmUnMxTndmUHAtUlpyMVhPY09QeENUZWo5WjMwcDJYX1RQeTE0Rk9ib1ltb1JTYWN6WXJqWElOTXBUYVFNRGk5WnB0a19qcUJGUVREeWIyTFJHNlo4dWZRbGFyYmkwSUJ0Nk9fRkY1Y3EtMENWeG9jM2hnb2loNlFRNzdtek84RG13clVTTGowU3ZERHNVcw?oc=5",
@@ -361,6 +351,16 @@
       "source": {
         "name": "La Gazzetta dello Sport",
         "url": "https://www.gazzetta.it"
+      }
+    },
+    {
+      "id": "effcc20a165b",
+      "title": "L'assunzione indiscriminata di antidolorifici e antipiretici a base di paracetamolo può causare tossicità epatica. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXg1MmM3T1hCWWhhVnZMQVk0TnZVMlJmdmUtMFh6b2JaZEozSUp3RUJ2NGVaNE1kSUdGQ0hsemlNbkxKVWNWRHBKcXNSR21WU1ZrZTl3NUtXTVZKV1lDM2hqX3hTR3ZsMExzc2lsa0tyZXpNMjVtNUhLbGcwSWozbGpUclFDRjV0b3I1akxTbDVuNEVkWUxCcXM5Mlg?oc=5",
+      "published": "2026-08-21T15:27:39+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -381,16 +381,6 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "39fcabf095b6",
-      "title": "Il Ministero della Salute sta inasprendo le normative sui farmaci contenenti il ​​principio attivo fentanil. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU184X0VfX1FxV3U0anJVX0F5WUlkTGlWUHNZbGlib1hGaUJ4MHoxX2lvd3RBNnVqckdRTWdZQlpZdG96MTlnelVManE1TnVoTG15cnBSek9vUVd3aWhobjdJZFJIbk1fYmxGZ0YwaTJzejNHSWp5YUo3bjhUV01WQmdn?oc=5",
-      "published": "2026-08-16T19:49:20+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -424,6 +414,16 @@
       }
     },
     {
+      "id": "39fcabf095b6",
+      "title": "Il Ministero della Salute sta inasprendo le normative sui farmaci contenenti il ​​principio attivo fentanil. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU184X0VfX1FxV3U0anJVX0F5WUlkTGlWUHNZbGlib1hGaUJ4MHoxX2lvd3RBNnVqckdRTWdZQlpZdG96MTlnelVManE1TnVoTG15cnBSek9vUVd3aWhobjdJZFJIbk1fYmxGZ0YwaTJzejNHSWp5YUo3bjhUV01WQmdn?oc=5",
+      "published": "2026-08-16T19:49:20+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "80e8f713ae99",
       "title": "Salute femminile, il ruolo dei farmaci vegetali nella prevenzione - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1B6QU9BY21oYlQtWEZQM0hwdjdyNzF2ZW92bWFlelBiVk9SenBhSklPeGFfVjlCaEhQdjJVaXlNTjg2eUh6MDdoQUgwbXctVlRpb2tkbUZ2dktMdzJCUjY3TVJvWkNxMDNabGx2V3NhRGI1WGRoREZjMUE0TFNxOUpUd3BqZlcxcWNFc1VrTzI4bTlRMUhISTJqWkhzSGVmVjVnN2NUNjc3WTlfSHVpLWNhX2RlYkh3eC1McHNNbnhNOFZhSk8wYlBvWQ?oc=5",
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "36b17c894d76",
-      "title": "Peptidi anti-age e per dimagrire: la nuova moda sui social tra molti rischi e poche certezze - greenMe",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNzF3ZVZrd0hRS0FsMGF0dVpQUjNxVE9NUUctZjVPaXVUUjhkTjVlcEpBZFVEWU5IQTRjOEJ1VlphenhKRWRRYm9INHRhOGdURjVkdGllWDBKSWdORm83TVd3OWRBeWNSMDB4ZXktUXRqY3NLdXZGWUtQRXNXdVVnWHh4RWJNTUdXQ3JGU1UyOUZHb1h5LW9WQllaY05MemVwTHgzNS0xZng2MGU2LXJUcm5IV1hfSm8yYkNoY1RlYUd2TmFEQXZoQVZqVlFmbWVLSGxFd3VDR3hwNGsyZEE?oc=5",
-      "published": "2026-08-21T10:42:45+00:00",
-      "source": {
-        "name": "greenMe",
-        "url": "https://www.greenme.it"
-      }
-    },
-    {
       "id": "eb974d462ad2",
       "title": "Farmaci, terapie, ricerche: l’Intelligenza artificiale fermerà il “mercato della salute”. Oppure no? - Avvenire",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT19CSlhFR3IzbEE4OFplbHBvZVREa1dDbEpFenJvekNtV0dsMTBsR045dVpDUTU0X3Uxa1NFTlBqbmRTUndSS2YzQ3F5a0JoWU5JNFZRbHhGM2hYTHdRYVdWeHQ4eXc5UVlaOUhMVnpjUElvb21FQVUyTVJORC1zVVpqZjZjUV9CSllGSklDNkdqc2w1cFVFXzBCQXFYTTljQ3hGR0VNUkI3dWl3V3dadlZSSUV0b3NSSTRhTFNLTkhYaFFDUEFNcXJNdnlybDQ?oc=5",
@@ -451,16 +441,6 @@
       "source": {
         "name": "Avvenire",
         "url": "https://www.avvenire.it"
-      }
-    },
-    {
-      "id": "8946190c4732",
-      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnZnd2VwNmpqVU1hakt0Ml9IblJsOGRGdWRSb3AyNzQyNlVwUmxwcXdNY3haSVQ2d3RTanhDcHZ5ajJtQjJjNjB4aUU3TmtIVGRfdXBCT2NBVkFlbGhyWS1QSnhVTHBUU3pVTTNXYUYwdnF2OHJBeDhQSGZ6RVluN2FrQU44V0FnSUtuZEVPMTBrMGh3WTVlMUozM21mS0tUOF93VWkwQjZlRzhK?oc=5",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
       }
     },
     {
@@ -481,6 +461,16 @@
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
+      }
+    },
+    {
+      "id": "8946190c4732",
+      "title": "Farmaci che simulano l'ipotermia proteggono il cervello colpito da ictus - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnZnd2VwNmpqVU1hakt0Ml9IblJsOGRGdWRSb3AyNzQyNlVwUmxwcXdNY3haSVQ2d3RTanhDcHZ5ajJtQjJjNjB4aUU3TmtIVGRfdXBCT2NBVkFlbGhyWS1QSnhVTHBUU3pVTTNXYUYwdnF2OHJBeDhQSGZ6RVluN2FrQU44V0FnSUtuZEVPMTBrMGh3WTVlMUozM21mS0tUOF93VWkwQjZlRzhK?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -514,6 +504,16 @@
       }
     },
     {
+      "id": "36b17c894d76",
+      "title": "Peptidi anti-age e per dimagrire: la nuova moda sui social tra molti rischi e poche certezze - greenMe",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNzF3ZVZrd0hRS0FsMGF0dVpQUjNxVE9NUUctZjVPaXVUUjhkTjVlcEpBZFVEWU5IQTRjOEJ1VlphenhKRWRRYm9INHRhOGdURjVkdGllWDBKSWdORm83TVd3OWRBeWNSMDB4ZXktUXRqY3NLdXZGWUtQRXNXdVVnWHh4RWJNTUdXQ3JGU1UyOUZHb1h5LW9WQllaY05MemVwTHgzNS0xZng2MGU2LXJUcm5IV1hfSm8yYkNoY1RlYUd2TmFEQXZoQVZqVlFmbWVLSGxFd3VDR3hwNGsyZEE?oc=5",
+      "published": "2026-08-21T10:42:45+00:00",
+      "source": {
+        "name": "greenMe",
+        "url": "https://www.greenme.it"
+      }
+    },
+    {
       "id": "b3932ac2d970",
       "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
@@ -521,6 +521,16 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
+      }
+    },
+    {
+      "id": "5a735aea30fa",
+      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "source": {
+        "name": "Univrmagazine",
+        "url": "https://univrmagazine.it"
       }
     },
     {
@@ -541,26 +551,6 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
-      }
-    },
-    {
-      "id": "5a735aea30fa",
-      "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
-      "published": "2026-04-15T07:00:00+00:00",
-      "source": {
-        "name": "Univrmagazine",
-        "url": "https://univrmagazine.it"
-      }
-    },
-    {
-      "id": "7e8653509890",
-      "title": "Punta un vetro alla gola dell’infermiere per avere un farmaco - La Nazione",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndRcDJGeVQzbXh5ZGd1dDl0dTVKZDN3bExOVjJJODRoVGVEcU4xQk5GN25XWUJ5VlBfTHJIOXMwYlYtdUNsVU9CYWtKTWhsVWVaUFNnMGhKbXdCUUZEVG5ZZEdTZEFiLUNIS3BUUE5Odzdxd0poLVcwTkVNRVViaFo3c2VfN1FWV3lPN0c5QU5xVjdadnJDeEZnRFdXekF2Y2FYcA?oc=5",
-      "published": "2026-08-20T10:48:41+00:00",
-      "source": {
-        "name": "La Nazione",
-        "url": "https://www.lanazione.it"
       }
     },
     {
@@ -644,16 +634,6 @@
       }
     },
     {
-      "id": "5d553f95828b",
-      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
-      "published": "2026-06-12T07:00:00+00:00",
-      "source": {
-        "name": "| Regione Siciliana",
-        "url": "https://www.regione.sicilia.it"
-      }
-    },
-    {
       "id": "317c241300ac",
       "title": "Fentanyl. \"Rafforzare i controlli sulle prescrizioni\", la circolare del Ministero Salute - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm5ZM1RmbFo1c0VORnJ6Q29oOHk4X25xU1JGUVNsZ25WQ24wdVk2eG9uU1ZvaHJ1eG1FV1V4V3p3dHB2Y3E1bVRtVkl2aDFfNERLcXd4MFAzRUwweHNoMTBIX1EwcTJ3Vk1Vc1gwdl9PYmh4VzRfU1d5ckg2dHNyTmpiY0ZfWjk1QkZVYg?oc=5",
@@ -674,6 +654,16 @@
       }
     },
     {
+      "id": "7e8653509890",
+      "title": "Punta un vetro alla gola dell’infermiere per avere un farmaco - La Nazione",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTndRcDJGeVQzbXh5ZGd1dDl0dTVKZDN3bExOVjJJODRoVGVEcU4xQk5GN25XWUJ5VlBfTHJIOXMwYlYtdUNsVU9CYWtKTWhsVWVaUFNnMGhKbXdCUUZEVG5ZZEdTZEFiLUNIS3BUUE5Odzdxd0poLVcwTkVNRVViaFo3c2VfN1FWV3lPN0c5QU5xVjdadnJDeEZnRFdXekF2Y2FYcA?oc=5",
+      "published": "2026-08-20T10:48:41+00:00",
+      "source": {
+        "name": "La Nazione",
+        "url": "https://www.lanazione.it"
+      }
+    },
+    {
       "id": "d85a60bfc902",
       "title": "Farmaci rimborsabili, dall'Aifa via libera a quattro nuovi medicinali - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUhDZDJQVWQtSXdRb2lESmt0RFl6TkxJUjJaTjZiYzhwX3dOLWg4WnV2T1hQbWdvaDNLSE04dW1saktMMTdkenVPQ1pOSGVEbWsxZUJNdUppR2NlNk5DcTNnd0xDemtQeGRyeEIzeFIxdFhlV2J0YWtuQjdnMzdSQw?oc=5",
@@ -681,6 +671,16 @@
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it"
+      }
+    },
+    {
+      "id": "5d553f95828b",
+      "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "source": {
+        "name": "| Regione Siciliana",
+        "url": "https://www.regione.sicilia.it"
       }
     },
     {
@@ -754,16 +754,6 @@
       }
     },
     {
-      "id": "003eaead9c5e",
-      "title": "Le cure prima della chimica: le erbe medicinali dell’Aboca Museum - Lampoon Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTU0b0FicVhlWERPMGxTRjFuRUMxVGIzNmV4M0VHOFhHdVczaVNiU0RYdEQtLURvb2JVODhMQnEwMWJra0J5WkVVd0Qwc041SHJibWk1VFdXV01lUk5tZHN6WkNqMzBzd25sTGZndjFQcFZVMV9wOXF2Sm84SXZFX3BkUVlWRjR1dWc?oc=5",
-      "published": "2026-08-17T07:00:00+00:00",
-      "source": {
-        "name": "Lampoon Magazine",
-        "url": "https://lampoonmagazine.com"
-      }
-    },
-    {
       "id": "613bf452a6c7",
       "title": "Ministero della Salute - Circolare Emergenza Fentanyl - fnovi",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE15UDFqd2U5R0RvWkp4QXUzVXVsQl9iTkhIS2ZQWlZvOWplXzl0TGtFck1tWjdtOWNjMmEzV21oWE0?oc=5",
@@ -771,6 +761,16 @@
       "source": {
         "name": "fnovi",
         "url": "https://fnovi.it"
+      }
+    },
+    {
+      "id": "003eaead9c5e",
+      "title": "Le cure prima della chimica: le erbe medicinali dell’Aboca Museum - Lampoon Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTU0b0FicVhlWERPMGxTRjFuRUMxVGIzNmV4M0VHOFhHdVczaVNiU0RYdEQtLURvb2JVODhMQnEwMWJra0J5WkVVd0Qwc041SHJibWk1VFdXV01lUk5tZHN6WkNqMzBzd25sTGZndjFQcFZVMV9wOXF2Sm84SXZFX3BkUVlWRjR1dWc?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "source": {
+        "name": "Lampoon Magazine",
+        "url": "https://lampoonmagazine.com"
       }
     },
     {
@@ -784,6 +784,16 @@
       }
     },
     {
+      "id": "05617954d39f",
+      "title": "Alzheimer: i nuovi farmaci ci sono, ma in Italia non sono rimborsati - OK Salute e Benessere",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU05yQ25aSW5uTkJtVDNQZXZIUjN4dzN3cGRxMFZPSy1zNklqQ0dDamxKTkVscUFMSEMwdkpPTExGYi1BX3ZQZG45M0NESEl4RDhBd1pHMmtrR1dRblkxNnJiaExRU2ZaOGViUkdSVEZHWEJHVzZkZ0VZMFpRNHVBSlFPbWdEcmw5M0gyb3JLZy1QWjN0ZlBqZWlwdDdZUQ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "source": {
+        "name": "OK Salute e Benessere",
+        "url": "https://www.ok-salute.it"
+      }
+    },
+    {
       "id": "a9f6afc5e986",
       "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
@@ -794,13 +804,13 @@
       }
     },
     {
-      "id": "05617954d39f",
-      "title": "Alzheimer: i nuovi farmaci ci sono, ma in Italia non sono rimborsati - OK Salute e Benessere",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU05yQ25aSW5uTkJtVDNQZXZIUjN4dzN3cGRxMFZPSy1zNklqQ0dDamxKTkVscUFMSEMwdkpPTExGYi1BX3ZQZG45M0NESEl4RDhBd1pHMmtrR1dRblkxNnJiaExRU2ZaOGViUkdSVEZHWEJHVzZkZ0VZMFpRNHVBSlFPbWdEcmw5M0gyb3JLZy1QWjN0ZlBqZWlwdDdZUQ?oc=5",
-      "published": "2026-07-16T07:00:00+00:00",
+      "id": "cf276f4e5cb9",
+      "title": "L’Ema punta sulla salute delle donne: \"Migliorare cure, troppe lacune\" - Quotidiano Sanità",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzNBNS1XeXRqUGFkNDFlNkVzWFdzemtaRGphMEozSWhXYWlSbG1DQ0V0ejAxNEpQdXFCR0VOTUItY1BIa0JLbWtJOWVQMVJpbXZ2R1Z0UjFqQVoxRFdncWVsLTNZdEtyc0YwRi1MVzJFUDZTaHZVSWhobGdsM2F3bllDT2M3b0lNbklMYVhtei03NE5tNzBHQ0lvc1FOcFpTU0RxQXFoLXQwT2hkNkdiSWFB?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
       "source": {
-        "name": "OK Salute e Benessere",
-        "url": "https://www.ok-salute.it"
+        "name": "Quotidiano Sanità",
+        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -821,16 +831,6 @@
       "source": {
         "name": "TrendSanità",
         "url": "https://trendsanita.it"
-      }
-    },
-    {
-      "id": "cf276f4e5cb9",
-      "title": "L’Ema punta sulla salute delle donne: \"Migliorare cure, troppe lacune\" - Quotidiano Sanità",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzNBNS1XeXRqUGFkNDFlNkVzWFdzemtaRGphMEozSWhXYWlSbG1DQ0V0ejAxNEpQdXFCR0VOTUItY1BIa0JLbWtJOWVQMVJpbXZ2R1Z0UjFqQVoxRFdncWVsLTNZdEtyc0YwRi1MVzJFUDZTaHZVSWhobGdsM2F3bllDT2M3b0lNbklMYVhtei03NE5tNzBHQ0lvc1FOcFpTU0RxQXFoLXQwT2hkNkdiSWFB?oc=5",
-      "published": "2026-07-03T07:00:00+00:00",
-      "source": {
-        "name": "Quotidiano Sanità",
-        "url": "https://www.quotidianosanita.it"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "46f692b09bd2",
-      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "e7adedfcbb86",
       "title": "La farmacia europea corre verso il 2040: da presidio a hub di salute integrato - Farmacia News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBQQjNYR2J2OWxkRXJSbkp2ek1kQ1NQQk54UmRreFF0bmI0OVY3UmxnQkJxQlhiajMtX1NGR0NieUhNVHlHcVUtdHp6c3E5SlpqalktcFU4SlZJcXhKUWNmY19ZY3lwRmRXZ3VXNjRWM3RwUU90RXMzVEd4b3pfdXlveTZxNjJQTXpKY3pDYzFMMC14QjROOEhPTXNlLTE5UENGY3dRUXBNdw?oc=5",
@@ -881,6 +871,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "46f692b09bd2",
+      "title": "Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -921,16 +921,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "0327b851acad",
-      "title": "Comunità alloggio per disabili sporca e con farmaci scaduti: scatta il sequestro - Canicatti Web Notizie",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVER0dy11TTdhUkl1UGtJNXBSSmxhUXEzbmxwc2Zpb1pGamR5eUR5RE5mN1FQbUIwYnNaVkZBTkRXT3N6ZE11ZDhmcTZjU1FBdWJxcVdlSklPR19CSHBTNngxTnMycHR0VUJKUi0tcTNWbFU2VTkyeGhGTUZjV2N0WFJZV2tsVnU2d0xycXNKRDVoVHd0SmFDRmVuYlRKaEMtLS1OT2lhREhaZ3dlM0tSVW5yWU9ybnA4RUpCaA?oc=5",
-      "published": "2026-08-21T04:58:42+00:00",
-      "source": {
-        "name": "Canicatti Web Notizie",
-        "url": "https://www.canicattiweb.com"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
+      }
+    },
+    {
+      "id": "cb55aab83e28",
+      "title": "I nuovi farmaci antiobesità alleati della salute mentale .::. PHA - pharmastar.it",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh6V2lqdUZxODlmTzI4WXVTem5leEIyVXpVTldMdDY1LXBWQWJVMVRCWnNjY2FlNnNCdF81THhHVlpvb0RId2tJUWNpemxDN2dpWmdWbUJVTHVhRk1WYjBYM2N6NzM3c2VnMXhteDd2SkVkU1ZiTkdGN1Q3V3RwemVjdERkTW91VUJVMjdNRTBjVmRhdno2aVFDOUVXMTlF?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "source": {
+        "name": "pharmastar.it",
+        "url": "https://www.pharmastar.it"
       }
     }
   ]
