@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T09:17:23.989584+00:00",
+  "fetched_at": "2026-08-23T10:12:26.288367+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "042927971230",
-      "title": "Quel prodotto che usi sempre? Il tuo fegato potrebbe essere a rischio - The Wom Healthy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWVEdnZGQmtnSmxlSkFQeDNHeUZpV25VcEF5bzVjVng5NW5DN3RGUmV3NzBrbUhfbHZzc2I5bVlaWDVHV2tIdFBWOE9QQm9waU9vc1luOVRCeWxZc2d0bTJ0eFF0N2xMY3doMUthZGxlSVJIcV9pdEdudTRYV0pfMGkySU5TWlljMTlNS1JCclA0T2twamNZSmRJVDNnUXpHN2dnV2picVBoZnItQm45VGRVaTE?oc=5",
-      "published": "2026-08-22T20:00:00+00:00",
-      "source": {
-        "name": "The Wom Healthy",
-        "url": "https://healthy.thewom.it"
-      }
-    },
-    {
       "id": "e8d7966980d5",
       "title": "Obesità, le prime linee guida OMS per l’impiego dei GLP-1 - Medico e paziente",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0VpLU5jT20wajhwUVUzYTBFaWt4YTAtWUctdUR1ZGk5c3FXYVNFa2YyUTZPTWs1SUdoeG1BOHJyZHVJbjcwTzk2UXRxaWpFaFBmWWUzTVhWTDBnR0s1dEFCRTNmVjBEVDhfdTVFaUxKUTJvb2FaTUN1SHJ0UlBrXzdFRC10dHV3LThVYU9rZUtmZw?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Medico e paziente",
         "url": "https://medicoepaziente.it"
+      }
+    },
+    {
+      "id": "7d2cd0046041",
+      "title": "DIBATTITO: L’INDUSTRIA DELLA SALUTE. FARMACI, PRIVATIZZAZIONI E AFFARI. CON VITTORIO AGNOLETTO - Radio Onda d`Urto",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWld3a0FnNGs1d1pmTFVodURqeGZUbnM2d1ZiSTUtX25SdnZ2Qm1FOE9LdDVEbkxPbzBhZG9oaEpzOUo2aE5BdzNBMkNVNW41cFEyekxiaUxHYUhCVU43TDVwSHkzbVZkZklwME9yMk1ETUMza1VOMjB0SnRnMUlrck9lekNSY3UxelY0VGxubXNPa3FfZUlMRWxLaW9EbUM4TUo5bG5pUjVpaUc2TFlkandISG1xa2lXbUJGQkV2YTdTdy1kSVB6THF1cw?oc=5",
+      "published": "2026-08-15T10:56:00+00:00",
+      "source": {
+        "name": "Radio Onda d`Urto",
+        "url": "https://www.radiondadurto.org"
       }
     },
     {
@@ -194,23 +194,13 @@
       }
     },
     {
-      "id": "651707238e9d",
-      "title": "La professoressa associata Nguyen Lan Hieu mette in guardia dagli errori più comuni commessi nel tentativo di \"potenziare le funzioni cerebrali\". - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3NSMjB6QXV2d2toVVBqZUl1aXVlWkRmRXJoNkJGLWUzdDFIbUhRR19INGNwQzJsOFR0Z1otcXl0NzFDREpfY3o5UGc2OC1MdHFoZWJvbndWM1VLNV8tTU0wOU50ZTk0MS1MS1NORlg5SUlFdm94VkRMTmZhWDZXc0JPUVpSQ0dZenV0ZUNERnU?oc=5",
-      "published": "2026-08-23T02:16:00+00:00",
+      "id": "042927971230",
+      "title": "Quel prodotto che usi sempre? Il tuo fegato potrebbe essere a rischio - The Wom Healthy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWVEdnZGQmtnSmxlSkFQeDNHeUZpV25VcEF5bzVjVng5NW5DN3RGUmV3NzBrbUhfbHZzc2I5bVlaWDVHV2tIdFBWOE9QQm9waU9vc1luOVRCeWxZc2d0bTJ0eFF0N2xMY3doMUthZGxlSVJIcV9pdEdudTRYV0pfMGkySU5TWlljMTlNS1JCclA0T2twamNZSmRJVDNnUXpHN2dnV2picVBoZnItQm45VGRVaTE?oc=5",
+      "published": "2026-08-22T20:00:00+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "7d2cd0046041",
-      "title": "DIBATTITO: L’INDUSTRIA DELLA SALUTE. FARMACI, PRIVATIZZAZIONI E AFFARI. CON VITTORIO AGNOLETTO - Radio Onda d`Urto",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWld3a0FnNGs1d1pmTFVodURqeGZUbnM2d1ZiSTUtX25SdnZ2Qm1FOE9LdDVEbkxPbzBhZG9oaEpzOUo2aE5BdzNBMkNVNW41cFEyekxiaUxHYUhCVU43TDVwSHkzbVZkZklwME9yMk1ETUMza1VOMjB0SnRnMUlrck9lekNSY3UxelY0VGxubXNPa3FfZUlMRWxLaW9EbUM4TUo5bG5pUjVpaUc2TFlkandISG1xa2lXbUJGQkV2YTdTdy1kSVB6THF1cw?oc=5",
-      "published": "2026-08-15T10:56:00+00:00",
-      "source": {
-        "name": "Radio Onda d`Urto",
-        "url": "https://www.radiondadurto.org"
+        "name": "The Wom Healthy",
+        "url": "https://healthy.thewom.it"
       }
     },
     {
@@ -231,6 +221,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "651707238e9d",
+      "title": "La professoressa associata Nguyen Lan Hieu mette in guardia dagli errori più comuni commessi nel tentativo di \"potenziare le funzioni cerebrali\". - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3NSMjB6QXV2d2toVVBqZUl1aXVlWkRmRXJoNkJGLWUzdDFIbUhRR19INGNwQzJsOFR0Z1otcXl0NzFDREpfY3o5UGc2OC1MdHFoZWJvbndWM1VLNV8tTU0wOU50ZTk0MS1MS1NORlg5SUlFdm94VkRMTmZhWDZXc0JPUVpSQ0dZenV0ZUNERnU?oc=5",
+      "published": "2026-08-23T02:16:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -281,16 +281,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "b6d2e54edaab",
-      "title": "Un farmaco per l’artrite reumatoide fa ricrescere i capelli persi a causa dell’alopecia - CataniaToday",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWENUS1F6ZnRrclQzVkZpY0hvY1BLRnhidDdWZXVEbENhSzBWV3JyTjRYcEdFcUxXZHFmaVFKa3ZVZVRPU3dFTnJfLVo3cGZveS1VZ204VG5xcE1oZHZVTS1jTmZDdWNIeFFUcU1NZ1lib1dKM3EzdGxXVkg1OGZTMDg3NWE2Y0ZtdXRRRzZWOHB1Qy04b1NzeXl3?oc=5",
-      "published": "2026-08-22T14:01:29+00:00",
-      "source": {
-        "name": "CataniaToday",
-        "url": "https://www.cataniatoday.it"
       }
     },
     {
@@ -604,16 +594,6 @@
       }
     },
     {
-      "id": "38589ff2a7d2",
-      "title": "L'elenco dei farmaci coperti dall'assicurazione sanitaria è stato ampliato. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubkRFR1ZPZGx3QkNBc2szQlpwYmpSV2tmYzU5cjc2MkwwRkpLQjYzaktvV1VER08yVG96YVUzdkRDS2FVUVIyNTdqeHBGZGJMS2JHM3dCT3NzMW1RV3ZYRmRvaU9KRjdTNVYzZGhNRVBJSkpSNEY0aFpB?oc=5",
-      "published": "2026-08-19T04:28:07+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "291e5dadcde5",
       "title": "Farmaco accessibile: al Ministero della Salute il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX05ycFhnSlU3VHd0ZGxZZWdCb2ZwOWNqZTZEb2ppT1cybU5HZWd5T2N0bFlEWWxvTE1ESF82akNuTlkyenZvYWF2MTBQOWZDWDVvU0xLQWEza1JnN0FKWGlXdEs0R3hCVi1PY0VWdWJiaGVYR19yZExwS1VsTDJMNkltWGxEOVlqYU1TUS1PSWg5OHRIQTA0dGNzOTN5em0yNkpoRFVpcFJUbjVOYnhDVDcxOEZoTFFMRUkxTktGMm15VEhmcDJDUEpBeHF5U0tHNDNZUDg5ZHlsTEJaZXk3d3YxZE1vVHJlYmU4NVRQckxuZHd6cXJtbDFwYnFCMmlEd1dCZ29TUk9FVEk?oc=5",
@@ -621,6 +601,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "38589ff2a7d2",
+      "title": "L'elenco dei farmaci coperti dall'assicurazione sanitaria è stato ampliato. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubkRFR1ZPZGx3QkNBc2szQlpwYmpSV2tmYzU5cjc2MkwwRkpLQjYzaktvV1VER08yVG96YVUzdkRDS2FVUVIyNTdqeHBGZGJMS2JHM3dCT3NzMW1RV3ZYRmRvaU9KRjdTNVYzZGhNRVBJSkpSNEY0aFpB?oc=5",
+      "published": "2026-08-19T04:28:07+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -764,16 +754,6 @@
       }
     },
     {
-      "id": "39fcabf095b6",
-      "title": "Il Ministero della Salute sta inasprendo le normative sui farmaci contenenti il ​​principio attivo fentanil. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU184X0VfX1FxV3U0anJVX0F5WUlkTGlWUHNZbGlib1hGaUJ4MHoxX2lvd3RBNnVqckdRTWdZQlpZdG96MTlnelVManE1TnVoTG15cnBSek9vUVd3aWhobjdJZFJIbk1fYmxGZ0YwaTJzejNHSWp5YUo3bjhUV01WQmdn?oc=5",
-      "published": "2026-08-16T19:49:20+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "f5fc4e4d777e",
       "title": "Salute orale e benessere generale, dal CISO il Manifesto per una nuova cultura della prevenzione - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjdhd1c5WG9rWDlNcWVJRXlWVUZPNjJiLVdMeGtSbFNsM0lQWDd0QU01WVNfNW00RHo2X0JIdGhoRW9aRTVMQ2JUUTFaUU53VXNyWFRaNU9sb0VhanZZbEFOZXd1cE5qcklmcmdDVVBJb3F6Tjc1STZZajVNWWVEQkw4aEJqbjJQTno0VFhzaVlweGxaOFhwdWhiN2VNM01idjRHOHAtZVZ0aDItMjRlRTBYcXVQRWdoQ1NKcDZsVlZwaE53a0dCVWNISFYySVBhY2ZKZUZRTlMxZw?oc=5",
@@ -791,6 +771,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "39fcabf095b6",
+      "title": "Il Ministero della Salute sta inasprendo le normative sui farmaci contenenti il ​​principio attivo fentanil. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU184X0VfX1FxV3U0anJVX0F5WUlkTGlWUHNZbGlib1hGaUJ4MHoxX2lvd3RBNnVqckdRTWdZQlpZdG96MTlnelVManE1TnVoTG15cnBSek9vUVd3aWhobjdJZFJIbk1fYmxGZ0YwaTJzejNHSWp5YUo3bjhUV01WQmdn?oc=5",
+      "published": "2026-08-16T19:49:20+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -834,16 +824,6 @@
       }
     },
     {
-      "id": "9f5682c0539e",
-      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - FoggiaToday - cronaca e notizie da Foggia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlVuYW5YTGpGZjFpQ0tVeVVVendpWWRraDlvQUhLTzVfbXpqVzVLYlBFVG1RZW5hVXhKZzczZDB5TWFwd1BHVDJvRlZaSk82NjYtOW96UUdnako2d1g5QTFtV0piT29IbThHMGwxWF92bEh5YXlCb0NMZC11NWxsdkJLbl8tQQ?oc=5",
-      "published": "2026-07-30T07:00:00+00:00",
-      "source": {
-        "name": "FoggiaToday - cronaca e notizie da Foggia",
-        "url": "https://www.foggiatoday.it"
-      }
-    },
-    {
       "id": "02f34c097a5e",
       "title": "Salute sempre più a pagamento: Agnoletto spiega perché - Il Fatto Quotidiano",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1lKYnpEUEVUeFB0dnVxNy1qN2lPazR2RTRyMmRSRlRnNHNrXzgwYnY4MVB1LV9Oel9xLUcyY2l6VldwYmxSaGNJTUFnWmQ5QlBicXlYYUdQeVBhMnhhSFBWQmhtYzkxa2c3ZzBqUzNLcm9FSm5ZQWdDcGU4S0lIWk1MVlZZZDBBOUpZdDZlZDNiX0o5ckFpa01rRVhWZTBBblZ5WVZhY0gxUXRpeWk1ZzByVjhVMl9VdUNPYmVqaENxcV9kVHhZM3B4NWZZYjdmSW41dTFMQ1cxbFk?oc=5",
@@ -851,6 +831,16 @@
       "source": {
         "name": "Il Fatto Quotidiano",
         "url": "https://www.ilfattoquotidiano.it"
+      }
+    },
+    {
+      "id": "9f5682c0539e",
+      "title": "Farmaci, come risparmiare in Puglia: un sistema automatico consentirà di tracciare l'equivalente - FoggiaToday - cronaca e notizie da Foggia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlVuYW5YTGpGZjFpQ0tVeVVVendpWWRraDlvQUhLTzVfbXpqVzVLYlBFVG1RZW5hVXhKZzczZDB5TWFwd1BHVDJvRlZaSk82NjYtOW96UUdnako2d1g5QTFtV0piT29IbThHMGwxWF92bEh5YXlCb0NMZC11NWxsdkJLbl8tQQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "source": {
+        "name": "FoggiaToday - cronaca e notizie da Foggia",
+        "url": "https://www.foggiatoday.it"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "Quotidiano Sanità",
         "url": "https://www.quotidianosanita.it"
+      }
+    },
+    {
+      "id": "966eecbd1b2f",
+      "title": "Salute orale in farmacia: Curasept lancia una nuova linea di integratori - Farmacia News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjZjbGJReVE5b2ROcXJRZy1ZRXVnUk9PWkItWlJYeHdESnlEYkR6MG9LcmxabGQ2cFpYYmxWWXRkOF9CbXNNczU4emhxaVE5Zmp1cFNCenlTaTVQZXJuZWVtWkhmNG5uMDhkUF9TZXNYb2R6QmpETVNuSU5Vdkc1WnhaWjBwTWxjV3gyTDBXRFItY2szUXBIWkV4a1A5WnhxSEE?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "source": {
+        "name": "Farmacia News",
+        "url": "https://www.farmacianews.it"
       }
     }
   ]
