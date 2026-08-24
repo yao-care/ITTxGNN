@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T15:28:53.872791+00:00",
+  "fetched_at": "2026-08-24T16:22:50.659039+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -54,6 +54,16 @@
       }
     },
     {
+      "id": "6cacae411197",
+      "title": "Emergenza sanitaria a Cuba, al via la raccolta di farmaci per aiutare l'isola - UdineToday",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHQ09IbzhVTUQzdWw2SkRYR2JOTVNXcFhEYzB4UUhFY2VzazRpMTFKWVJhaEJYQjdUYmU5WjI1Y2k3YWhvNk5EMEExMlJYZGxtQzV6aUFSNmtFejc2dVRTS0FGdUVPQmVHanpMSHF6WXI0SlhET1hR?oc=5",
+      "published": "2026-08-22T08:24:28+00:00",
+      "source": {
+        "name": "UdineToday",
+        "url": "https://www.udinetoday.it"
+      }
+    },
+    {
       "id": "d867a865a30c",
       "title": "Il governatore Rocca: “Serve trattativa in Europa per prevenzione e farmaci innovativi” - dialessandria.it",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDJwYmhRNTZlLUxpVUdLVURiUmF5ZFNUczNwYWhDUU5jNGlEN3llNHhIbnZ0WkJLZDRnN0Npcl92TmhQU3V6YWJ2WEpOTkZSQzZTVThBakNBZ0lVZ1hrUjR1MmJOblN5ckZXR0FfdXl6dDNPYjdoUmZiTC1QYnpua2JqUllVQ3JQYTFCbEUxZWF2MTNQSmF5VEpwZ0JvWFFPdnVndHNXYkhjTUhPYmdDMVpuaTNSdTQ?oc=5",
@@ -71,16 +81,6 @@
       "source": {
         "name": "Nurse Times",
         "url": "https://nursetimes.org"
-      }
-    },
-    {
-      "id": "6cacae411197",
-      "title": "Emergenza sanitaria a Cuba, al via la raccolta di farmaci per aiutare l'isola - UdineToday",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHQ09IbzhVTUQzdWw2SkRYR2JOTVNXcFhEYzB4UUhFY2VzazRpMTFKWVJhaEJYQjdUYmU5WjI1Y2k3YWhvNk5EMEExMlJYZGxtQzV6aUFSNmtFejc2dVRTS0FGdUVPQmVHanpMSHF6WXI0SlhET1hR?oc=5",
-      "published": "2026-08-22T08:24:28+00:00",
-      "source": {
-        "name": "UdineToday",
-        "url": "https://www.udinetoday.it"
       }
     },
     {
@@ -254,16 +254,6 @@
       }
     },
     {
-      "id": "916da58dc021",
-      "title": "Si può spegnere il dolore? - Focus.it",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRmVaVVNJMjNzbmFRUTQtWEU4UW1TUzg0TXk4UFdhX1h3Y0JJS0VfOW91amtYNVVFYmFUTWxjRFJSOTNzRmcwWHNLbTNXN1k2ZkNMNm9hYnNWYnlyVlN0YVhGR1VWN1hrTF9jVkJn?oc=5",
-      "published": "2026-08-22T07:06:14+00:00",
-      "source": {
-        "name": "Focus.it",
-        "url": "https://www.focus.it"
-      }
-    },
-    {
       "id": "6ca5eb6adebf",
       "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
@@ -271,6 +261,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "916da58dc021",
+      "title": "Si può spegnere il dolore? - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRmVaVVNJMjNzbmFRUTQtWEU4UW1TUzg0TXk4UFdhX1h3Y0JJS0VfOW91amtYNVVFYmFUTWxjRFJSOTNzRmcwWHNLbTNXN1k2ZkNMNm9hYnNWYnlyVlN0YVhGR1VWN1hrTF9jVkJn?oc=5",
+      "published": "2026-08-22T07:06:14+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     },
     {
@@ -364,16 +364,6 @@
       }
     },
     {
-      "id": "c1667802e6aa",
-      "title": "Erigere una \"barriera\" per impedire l'immissione sul mercato di farmaci contraffatti. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEhtT29qMXlleC12cGd4Vktxb0FUWVpMYWZSMUNCUDc3QjN6N3FhOVdZUjNLb1Z5aGhsZ2g0bXRJOFNfQTJQRVZnRzdKSHlpYWdtdk5tc0ZDbDBoaEYxakdlNmhYbTNIN0s3VGxvRG1uVFZhWUJ4dEpSSXpUUUtpeQ?oc=5",
-      "published": "2026-08-21T04:09:39+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "1b51eed43d05",
       "title": "Farmaco accessibile: il punto sulla “rivoluzione gentile” nella distribuzione dei medicinali per una maggiore prossimità - Ministero della Salute",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1RhSW54UmNDcEo1akIxa2lwa0tIdVZZbWdPVFlxWlNKRFBIZEZ1aHZhVFl1S2ZabmM4RWRHeXNwR2pZTk11ZU4xWktCd09vUThuZnZHdGtObGRaNjJMdVRzQTJBV0xlZmtzTEdXNm1BdmdPR25vc25hakttejNhcnMyQXlvejF0MlBaTjk0YUNVZzJUcjVwX1FZVUx0LV8tTVFscEpocUY5d01lbUxGaVl2SENqUFprdmNYTk15MmVZRzF0Q0I4d29BN04?oc=5",
@@ -381,6 +371,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "c1667802e6aa",
+      "title": "Erigere una \"barriera\" per impedire l'immissione sul mercato di farmaci contraffatti. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEhtT29qMXlleC12cGd4Vktxb0FUWVpMYWZSMUNCUDc3QjN6N3FhOVdZUjNLb1Z5aGhsZ2g0bXRJOFNfQTJQRVZnRzdKSHlpYWdtdk5tc0ZDbDBoaEYxakdlNmhYbTNIN0s3VGxvRG1uVFZhWUJ4dEpSSXpUUUtpeQ?oc=5",
+      "published": "2026-08-21T04:09:39+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -424,16 +424,6 @@
       }
     },
     {
-      "id": "a96193959c2f",
-      "title": "Sole e farmaci, quando fare attenzione alla pelle? - Il Golfo 24",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLU9RN3RENFc5VkhvRUF1YnBlaEdHWEU5WkIzRHFxTmV0WVRMclNFRmlPQzB6a1kzd1pQZ2xJVGhNdUc1SVgtRmRFWnJoWUU3c3p4dm04dDBLYVFuaXVoeWNqTXAyXzdxcTYtZERaRzB6N2s1S0ZMaHhfSmc3NTDSAYQBQVVfeXFMUC1KQzV5VVZOc0NidnZDU2lpR0FVY1c4QlB2VXp0Sm13V05vUnc1T3N6cU9SbnQ3TW54cHNKbERqSjRMbnR5VXRpbm96c1RWT0tEMmQxNmdQOFcyVy1qbGFUUGZjZ3NLdlMtNnZHUzlvbmlsejNLaXpUVmZlYkxHVmQycGpU?oc=5",
-      "published": "2026-08-21T10:34:18+00:00",
-      "source": {
-        "name": "Il Golfo 24",
-        "url": "https://www.ilgolfo24.it"
-      }
-    },
-    {
       "id": "9679accf030f",
       "title": "In Salute. E se non fosse una malattia ma un effetto collaterale? - Il Bo Live",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2hqMmo2ZEVxeEtlVk40QUZZQkpESFFSQmdTbkNlaURKMVk5TzdJTE9EWTN4M1pwajhuVmR4d2RnY0FGdWJJNS02NjZNSzNGLW40QkhoUXlGRmNxRV94RkRtdWgyZkJEdDg0Yjg5elNha05UMlF1SnJNOERzaWNXbmhqMDB3VnhSNmRFandubUx3THJ2cGZN?oc=5",
@@ -454,6 +444,16 @@
       }
     },
     {
+      "id": "a96193959c2f",
+      "title": "Sole e farmaci, quando fare attenzione alla pelle? - Il Golfo 24",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLU9RN3RENFc5VkhvRUF1YnBlaEdHWEU5WkIzRHFxTmV0WVRMclNFRmlPQzB6a1kzd1pQZ2xJVGhNdUc1SVgtRmRFWnJoWUU3c3p4dm04dDBLYVFuaXVoeWNqTXAyXzdxcTYtZERaRzB6N2s1S0ZMaHhfSmc3NTDSAYQBQVVfeXFMUC1KQzV5VVZOc0NidnZDU2lpR0FVY1c4QlB2VXp0Sm13V05vUnc1T3N6cU9SbnQ3TW54cHNKbERqSjRMbnR5VXRpbm96c1RWT0tEMmQxNmdQOFcyVy1qbGFUUGZjZ3NLdlMtNnZHUzlvbmlsejNLaXpUVmZlYkxHVmQycGpU?oc=5",
+      "published": "2026-08-21T10:34:18+00:00",
+      "source": {
+        "name": "Il Golfo 24",
+        "url": "https://www.ilgolfo24.it"
+      }
+    },
+    {
       "id": "a1e119344505",
       "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
@@ -471,16 +471,6 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
-      }
-    },
-    {
-      "id": "4947486bf11e",
-      "title": "AstraZeneca Vietnam potenzia il proprio sistema logistico per garantire che i farmaci raggiungano i pazienti. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUlKRHJBV3dRTWc5aTVTTVJkYlNOalhOZWFnTzRmSV9WLWlQOXRzZUdrOVFJSjVSblV3N1M1UmYzV2thdjcxUEg4bXVmTkgwQzNGWkFycjN3Q2pGTnE0X1dOdWFhbjczbl96cmh3YkxTUVZvWV9IU1gxVjVNX1VmMGFpQmZJR3JTbWhXSTRla2ZOc1E5bENN?oc=5",
-      "published": "2026-08-24T09:04:44+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -534,6 +524,16 @@
       }
     },
     {
+      "id": "4947486bf11e",
+      "title": "AstraZeneca Vietnam potenzia il proprio sistema logistico per garantire che i farmaci raggiungano i pazienti. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUlKRHJBV3dRTWc5aTVTTVJkYlNOalhOZWFnTzRmSV9WLWlQOXRzZUdrOVFJSjVSblV3N1M1UmYzV2thdjcxUEg4bXVmTkgwQzNGWkFycjN3Q2pGTnE0X1dOdWFhbjczbl96cmh3YkxTUVZvWV9IU1gxVjVNX1VmMGFpQmZJR3JTbWhXSTRla2ZOc1E5bENN?oc=5",
+      "published": "2026-08-24T09:04:44+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "5a735aea30fa",
       "title": "Meno farmaci e più salute, la svolta passa dall’intelligenza artificiale - Univrmagazine",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBQVU1hc1Jxa3RqYm9seUwzZk1HYXBfdnlST3BWOGNxQnhMWUlIaFJsYnFqdjI3OGxXN2RaRzJuaU9HZlJNeU5Ud1VMZE83RVd0S0cxTFZHcEg2RTdOMmhlTmtwaEFSd3p4cldtTWxvM1BCajV6OHpCd1RPcktHSkxoM0NJRm8xY1RJM3VTQ3VXNTY3UkN5enZKS0ZmS3R4aGtuMkZRb1hDV2c?oc=5",
@@ -544,16 +544,6 @@
       }
     },
     {
-      "id": "7865e21aa6e2",
-      "title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri - Il Gazzettino",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUFaMWstTHF5QzJYVUJCMEF0LS1mNjlqWkRiTzAzSm9pQnJsSFFhRmxjNmw0N0NBdlgzTUhsNlItYk5oNjEwOHFfSjQ5cDVOWHhHM1d5TXZGVTdYZjVYaDA5dVJ1eF8yMExocnpkdVVoSVpmWUlrT3ZOVGdSU0pkWExlT2dEeXBVaExMeUJrdVB3YmlNX29jYUVzYWvSAZgBQVVfeXFMUC1iRHQwOWJTY1gwU2t3QlFTNFFSUXF3TFBRZEFJdjZmZlYtdFE3Z2JwWWpKODU5Z0F1ckFsYVBtVXdPVllfZmNVNnZwbHV2ZGZickhqV0VncDJwamJ5T1FtcUNnTHl2ZmtkcTJsb0tyVnFyckJrc0FfdGw3UWNOMzNCS19vblAxSmNyby1vRkNnaWVHYUFFTUI?oc=5",
-      "published": "2026-08-23T01:00:33+00:00",
-      "source": {
-        "name": "Il Gazzettino",
-        "url": "https://www.ilgazzettino.it"
-      }
-    },
-    {
       "id": "11f850b6dff3",
       "title": "Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5",
@@ -561,6 +551,16 @@
       "source": {
         "name": "Corriere della Sera",
         "url": "https://www.corriere.it"
+      }
+    },
+    {
+      "id": "7865e21aa6e2",
+      "title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri - Il Gazzettino",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUFaMWstTHF5QzJYVUJCMEF0LS1mNjlqWkRiTzAzSm9pQnJsSFFhRmxjNmw0N0NBdlgzTUhsNlItYk5oNjEwOHFfSjQ5cDVOWHhHM1d5TXZGVTdYZjVYaDA5dVJ1eF8yMExocnpkdVVoSVpmWUlrT3ZOVGdSU0pkWExlT2dEeXBVaExMeUJrdVB3YmlNX29jYUVzYWvSAZgBQVVfeXFMUC1iRHQwOWJTY1gwU2t3QlFTNFFSUXF3TFBRZEFJdjZmZlYtdFE3Z2JwWWpKODU5Z0F1ckFsYVBtVXdPVllfZmNVNnZwbHV2ZGZickhqV0VncDJwamJ5T1FtcUNnTHl2ZmtkcTJsb0tyVnFyckJrc0FfdGw3UWNOMzNCS19vblAxSmNyby1vRkNnaWVHYUFFTUI?oc=5",
+      "published": "2026-08-23T01:00:33+00:00",
+      "source": {
+        "name": "Il Gazzettino",
+        "url": "https://www.ilgazzettino.it"
       }
     },
     {
@@ -604,16 +604,6 @@
       }
     },
     {
-      "id": "b3932ac2d970",
-      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
-      "published": "2026-07-30T07:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "cb7113ede2da",
       "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
@@ -621,6 +611,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "b3932ac2d970",
+      "title": "Kit salute estivo: acquisti prima della partenza. La farmacia resta il primo canale - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTdDaC1jNlJzV3ZTRW5oTWtlVEVzZHdpbUJvWXRUYXpJSHNEQ0ZSb0R2YnhsVVltbWNSX3NrQlBPLWdkOTg4MVdaSmJvdmpfeGk5SEZWU1k3b1loU0o5VzR2MVFuaVpXRml2QUxMdWxoeF83UnYtUjJyUEZETzY2dVNQdW9Zc3VtVkhKc0xXZUpla0FSVjlmMy01UHNjVjRtUE1CbHpQQkJrcEdLcHlvcjVQNFhKaUxfWGt4Rjc1cjQ4UDNPMUNtNFRhLTBrT082VDQwZmRfUQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -704,6 +704,16 @@
       }
     },
     {
+      "id": "b6d2e54edaab",
+      "title": "Un farmaco per l’artrite reumatoide fa ricrescere i capelli persi a causa dell’alopecia - CataniaToday",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWENUS1F6ZnRrclQzVkZpY0hvY1BLRnhidDdWZXVEbENhSzBWV3JyTjRYcEdFcUxXZHFmaVFKa3ZVZVRPU3dFTnJfLVo3cGZveS1VZ204VG5xcE1oZHZVTS1jTmZDdWNIeFFUcU1NZ1lib1dKM3EzdGxXVkg1OGZTMDg3NWE2Y0ZtdXRRRzZWOHB1Qy04b1NzeXl3?oc=5",
+      "published": "2026-08-22T14:01:29+00:00",
+      "source": {
+        "name": "CataniaToday",
+        "url": "https://www.cataniatoday.it"
+      }
+    },
+    {
       "id": "41b2b662ca41",
       "title": "Farmaci innovativi: in Italia la Regione in cui vivi può valere più della diagnosi - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUFUanJUQ1lUWjNmV0p5b09WVmRNUnhsUjAteFBPeDRhOVBVSnNkV2FzNzhiUUtWVzlhYzRRaU95eGVHdGhSM2tSYnZlMXdfWlYzd0dmcWdRUnktbHlzZHVOR2h6bFZ5S0JuYlk1bEpXSEs3SGNtakhVWGI3SHlMQXpHMmVhckZKeUtzZ3ZoRWh0ZnBha0JaQ3pGblk4ZENJbGE1WlFLMW5HX0JaSDktbUhtVVZ0VHIwdklMV3hNNFdGXzFTOGxaeE9RMlM?oc=5",
@@ -721,16 +731,6 @@
       "source": {
         "name": "arpa.piemonte.it",
         "url": "https://www.arpa.piemonte.it"
-      }
-    },
-    {
-      "id": "b6d2e54edaab",
-      "title": "Un farmaco per l’artrite reumatoide fa ricrescere i capelli persi a causa dell’alopecia - CataniaToday",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWENUS1F6ZnRrclQzVkZpY0hvY1BLRnhidDdWZXVEbENhSzBWV3JyTjRYcEdFcUxXZHFmaVFKa3ZVZVRPU3dFTnJfLVo3cGZveS1VZ204VG5xcE1oZHZVTS1jTmZDdWNIeFFUcU1NZ1lib1dKM3EzdGxXVkg1OGZTMDg3NWE2Y0ZtdXRRRzZWOHB1Qy04b1NzeXl3?oc=5",
-      "published": "2026-08-22T14:01:29+00:00",
-      "source": {
-        "name": "CataniaToday",
-        "url": "https://www.cataniatoday.it"
       }
     },
     {
