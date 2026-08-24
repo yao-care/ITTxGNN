@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T07:49:13.201348+00:00",
+  "fetched_at": "2026-08-24T08:35:25.419970+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -224,16 +224,6 @@
       }
     },
     {
-      "id": "a1e119344505",
-      "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
-      "published": "2026-08-23T10:48:55+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "6ca5eb6adebf",
       "title": "Non solo distributori di farmaci, ma sempre di più un punto di riferimento per cittadine e cittadini - Regione Emilia-Romagna",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDhtZnc0aWNqdDdxeFQ1RHlrX0VJOVk1MXNmaHpjaElzQXhQZ3NCUHlKZ0dFcVF0YkNqVmtRZUxPRkVkcXdqalZybUV2X0N2dDU2bUVPc1NIU3VlVFd0b3h5OUw4ZFBMd2pRc1FIN29GQ2NmQkoxSGlRN0kwdTlCWWljcWJ2WGxDdnpaOGJ3dU9JakNyTUhFYzhwWlFlM05HMHJBZDBxWEh4X1JLY3VHd1N2aGJENEFuZl9mWE1hOVVRNnVKMExpVnBGa1lDOHhZMVJIZERubkNOWjE1bndHUjRGQTJBTnNQNTlHZ1plSE1NaGFleWZHOFNXdXo?oc=5",
@@ -241,6 +231,16 @@
       "source": {
         "name": "Regione Emilia-Romagna",
         "url": "https://salute.regione.emilia-romagna.it"
+      }
+    },
+    {
+      "id": "a1e119344505",
+      "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
+      "published": "2026-08-23T10:48:55+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -434,16 +434,6 @@
       }
     },
     {
-      "id": "3f6375a38eb1",
-      "title": "Inibitori SGLT2: una risorsa nel percorso di longevità - Microbiologia Italia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV01YUnUzbWlXd05VVkE5T3VoaFlzeDJLXzNrWWU4S1pEckZZdnJyNWk1WEpXM2ViY05Gd1RHcTVyYjlvOFlDZWxFN0F6WnFwejVfOFFpQ0xqOXc3LXRsYThwQzZZWXBFZlBqSUxjN3AwcFBEUWV4NlBINkdUeC03M040RmF1M2NVZFNCajh1ZDl2dnBleWNTcDc2bExSR29IbE1Hdg?oc=5",
-      "published": "2026-08-24T05:07:49+00:00",
-      "source": {
-        "name": "Microbiologia Italia",
-        "url": "https://www.microbiologiaitalia.it"
-      }
-    },
-    {
       "id": "8e1167842fc2",
       "title": "Malattie rare, salute e sostenibilità: online l'Instant Book dedicato alla nuova geopolitica dei farmaci - pharmastar.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXF2UF92TUJ3cW9CSmVZRnpGVlhGTGNEZjhtMzk4RFVpWUVBUmZVYmlMMjExQmpjOTNabTBEaS12NkNjWWhMSVFLZnljdnAxYmxhUlRjU0xHMDZ0UjVocWpqV0ZfcTZrc0JERlBzbVk2YU41WkdheVJKWDFySV9PLUMxNnd2c1dGRllBUTlVQkNZV0FPWkExWlBLNGVfUG5VSzdrQlhDblpHOEN2QW5DaDFGd3locnR5a054eFQ3bDlRYzRZUHhlczlQWXRhSXFHYW42Sw?oc=5",
@@ -451,6 +441,16 @@
       "source": {
         "name": "pharmastar.it",
         "url": "https://www.pharmastar.it"
+      }
+    },
+    {
+      "id": "3f6375a38eb1",
+      "title": "Inibitori SGLT2: una risorsa nel percorso di longevità - Microbiologia Italia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV01YUnUzbWlXd05VVkE5T3VoaFlzeDJLXzNrWWU4S1pEckZZdnJyNWk1WEpXM2ViY05Gd1RHcTVyYjlvOFlDZWxFN0F6WnFwejVfOFFpQ0xqOXc3LXRsYThwQzZZWXBFZlBqSUxjN3AwcFBEUWV4NlBINkdUeC03M040RmF1M2NVZFNCajh1ZDl2dnBleWNTcDc2bExSR29IbE1Hdg?oc=5",
+      "published": "2026-08-24T05:07:49+00:00",
+      "source": {
+        "name": "Microbiologia Italia",
+        "url": "https://www.microbiologiaitalia.it"
       }
     },
     {
