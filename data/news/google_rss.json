@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T11:17:32.132464+00:00",
+  "fetched_at": "2026-08-24T12:25:21.931508+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -14,16 +14,6 @@
       }
     },
     {
-      "id": "7a113ae7eb14",
-      "title": "Scienziati individuano possibile nuova via per rendere più potenti i farmaci a mRNA - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUV2UGNmc3BJRFdsNjNabi1OM3g4SzB2M1dQa0twRWNzMDRMZ0ZZTlJXQTZDRTMwMWdROUE4UXdFXy10cDlJLVVVSVBsT2kwRXRfMnRLZllHZXR5RlZrMTZTdktQeDhCVjhLejMzWEswUWZhd19fTTI2eWk5SkZ4NEZRMVQzMWFib2FqR2JWTWszUVJOZGZGNUk5RHhSZjVYcEZyMUpPcTd6MkhFVzJWQmNwM2lhc3l6TEFvRWczU05YQlE?oc=5",
-      "published": "2026-08-23T13:22:00+00:00",
-      "source": {
-        "name": "Euronews.com",
-        "url": "https://it.euronews.com"
-      }
-    },
-    {
       "id": "793a2df6b74c",
       "title": "Food noise: i farmaci dimagranti spengono solo la fame o anche il piacere? - Focus.it",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSHdYTWRrb3QyWFZoazhpbUQxc2xEdTVqbEhnTEJjZmd3ZUVRWG0ya1I4cjQ0bnJiT1JQVzA4aEk2R0lhenlFVWQtZllGeElqd1lkaTZyUWZlM0FfbExJTmFESVRTM0ZuYTJVSTJxUEo5QUhvLS1CUy1CSGk5U0dCWmNOd0dVY2pBTWl3M1AzVnItZ2JQbzc4SEN0dFlFdzFKbWdIT0llbHRZMHJuaDZCQ0RMVHdmVmswcnpFVHBNamFRMF9maW1mSWJ1c2lRb29oYXZ5ZUpB?oc=5",
@@ -31,6 +21,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "7a113ae7eb14",
+      "title": "Scienziati individuano possibile nuova via per rendere più potenti i farmaci a mRNA - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUV2UGNmc3BJRFdsNjNabi1OM3g4SzB2M1dQa0twRWNzMDRMZ0ZZTlJXQTZDRTMwMWdROUE4UXdFXy10cDlJLVVVSVBsT2kwRXRfMnRLZllHZXR5RlZrMTZTdktQeDhCVjhLejMzWEswUWZhd19fTTI2eWk5SkZ4NEZRMVQzMWFib2FqR2JWTWszUVJOZGZGNUk5RHhSZjVYcEZyMUpPcTd6MkhFVzJWQmNwM2lhc3l6TEFvRWczU05YQlE?oc=5",
+      "published": "2026-08-23T13:22:00+00:00",
+      "source": {
+        "name": "Euronews.com",
+        "url": "https://it.euronews.com"
       }
     },
     {
@@ -54,13 +54,13 @@
       }
     },
     {
-      "id": "a155f93c40c8",
-      "title": "Visite mediche gratuite, farmaci e omaggi per le famiglie aventi diritto a un trattamento preferenziale e per coloro che si sono distinti per meriti speciali. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkVJUkEyd3JIWmo5bDdYeUhVSjBxVVotVTFaS1pmYmpCaWlIVU5mS2pRVmpJcGdvYjhTTThZMkpHMHM2dHBKa1dTYTRncUVubk5TNmVWMUhWbnNyREFTcDRzZC1hT1BTUzQ2Rk5mMFN6YmExYU42QklmRUh4MlIzZkstaHN5M0I3em5CMzhwNmtMNHhITm0tRFZKX0VZNWx0SXBUNHVwMA?oc=5",
-      "published": "2026-08-24T03:14:28+00:00",
+      "id": "652ee8a7948a",
+      "title": "“Somministro farmaci via sondino e vena”: l’annuncio su Facebook di un OSS fa discutere - Nurse Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHROS0I5VTFzMlR2N0psUHVqdWdjTXVUNk4tVWU0dXg3Tnp0LWhsd3BfemJMY1g0c0pjNFF3eGpZTnRhZVV5VFBaNzRwVllTZGhRVEREemlLX1ZkTERZdEpWY1I0VUhZeXpydTdEQ09nLXZCMnZra1lUWGdVVGR3RHZIVDBYM3ZhbE52MA?oc=5",
+      "published": "2026-08-24T10:34:29+00:00",
       "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
+        "name": "Nurse Times",
+        "url": "https://nursetimes.org"
       }
     },
     {
@@ -71,6 +71,16 @@
       "source": {
         "name": "UdineToday",
         "url": "https://www.udinetoday.it"
+      }
+    },
+    {
+      "id": "a155f93c40c8",
+      "title": "Visite mediche gratuite, farmaci e omaggi per le famiglie aventi diritto a un trattamento preferenziale e per coloro che si sono distinti per meriti speciali. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkVJUkEyd3JIWmo5bDdYeUhVSjBxVVotVTFaS1pmYmpCaWlIVU5mS2pRVmpJcGdvYjhTTThZMkpHMHM2dHBKa1dTYTRncUVubk5TNmVWMUhWbnNyREFTcDRzZC1hT1BTUzQ2Rk5mMFN6YmExYU42QklmRUh4MlIzZkstaHN5M0I3em5CMzhwNmtMNHhITm0tRFZKX0VZNWx0SXBUNHVwMA?oc=5",
+      "published": "2026-08-24T03:14:28+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -111,16 +121,6 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
-      }
-    },
-    {
-      "id": "7d2cd0046041",
-      "title": "DIBATTITO: L’INDUSTRIA DELLA SALUTE. FARMACI, PRIVATIZZAZIONI E AFFARI. CON VITTORIO AGNOLETTO - Radio Onda d`Urto",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWld3a0FnNGs1d1pmTFVodURqeGZUbnM2d1ZiSTUtX25SdnZ2Qm1FOE9LdDVEbkxPbzBhZG9oaEpzOUo2aE5BdzNBMkNVNW41cFEyekxiaUxHYUhCVU43TDVwSHkzbVZkZklwME9yMk1ETUMza1VOMjB0SnRnMUlrck9lekNSY3UxelY0VGxubXNPa3FfZUlMRWxLaW9EbUM4TUo5bG5pUjVpaUc2TFlkandISG1xa2lXbUJGQkV2YTdTdy1kSVB6THF1cw?oc=5",
-      "published": "2026-08-15T10:56:00+00:00",
-      "source": {
-        "name": "Radio Onda d`Urto",
-        "url": "https://www.radiondadurto.org"
       }
     },
     {
@@ -184,13 +184,13 @@
       }
     },
     {
-      "id": "3f6375a38eb1",
-      "title": "Inibitori SGLT2: una risorsa nel percorso di longevità - Microbiologia Italia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV01YUnUzbWlXd05VVkE5T3VoaFlzeDJLXzNrWWU4S1pEckZZdnJyNWk1WEpXM2ViY05Gd1RHcTVyYjlvOFlDZWxFN0F6WnFwejVfOFFpQ0xqOXc3LXRsYThwQzZZWXBFZlBqSUxjN3AwcFBEUWV4NlBINkdUeC03M040RmF1M2NVZFNCajh1ZDl2dnBleWNTcDc2bExSR29IbE1Hdg?oc=5",
-      "published": "2026-08-24T05:07:49+00:00",
+      "id": "45c3155ea808",
+      "title": "DIBATTITO: L’INDUSTRIA DELLA SALUTE. FARMACI, PRIVATIZZAZIONI E AFFARI. CON VITTORIO AGNOLETTO - radiondadurto.org",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWld3a0FnNGs1d1pmTFVodURqeGZUbnM2d1ZiSTUtX25SdnZ2Qm1FOE9LdDVEbkxPbzBhZG9oaEpzOUo2aE5BdzNBMkNVNW41cFEyekxiaUxHYUhCVU43TDVwSHkzbVZkZklwME9yMk1ETUMza1VOMjB0SnRnMUlrck9lekNSY3UxelY0VGxubXNPa3FfZUlMRWxLaW9EbUM4TUo5bG5pUjVpaUc2TFlkandISG1xa2lXbUJGQkV2YTdTdy1kSVB6THF1cw?oc=5",
+      "published": "2026-08-15T10:56:00+00:00",
       "source": {
-        "name": "Microbiologia Italia",
-        "url": "https://www.microbiologiaitalia.it"
+        "name": "radiondadurto.org",
+        "url": "https://www.radiondadurto.org"
       }
     },
     {
@@ -201,6 +201,16 @@
       "source": {
         "name": "Focus.it",
         "url": "https://www.focus.it"
+      }
+    },
+    {
+      "id": "3f6375a38eb1",
+      "title": "Inibitori SGLT2: una risorsa nel percorso di longevità - Microbiologia Italia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV01YUnUzbWlXd05VVkE5T3VoaFlzeDJLXzNrWWU4S1pEckZZdnJyNWk1WEpXM2ViY05Gd1RHcTVyYjlvOFlDZWxFN0F6WnFwejVfOFFpQ0xqOXc3LXRsYThwQzZZWXBFZlBqSUxjN3AwcFBEUWV4NlBINkdUeC03M040RmF1M2NVZFNCajh1ZDl2dnBleWNTcDc2bExSR29IbE1Hdg?oc=5",
+      "published": "2026-08-24T05:07:49+00:00",
+      "source": {
+        "name": "Microbiologia Italia",
+        "url": "https://www.microbiologiaitalia.it"
       }
     },
     {
@@ -248,16 +258,6 @@
       "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
       "published": "2026-08-23T10:48:55+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
-      "id": "650f256d6343",
-      "title": "Normativa relativa ai casi in cui la cassa malattia copre il 100% dell'importo della prestazione. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmV0RGQ2ZUh5ZlJKTDBkZ1Y1Y3B0dEJzdThJQ3dCU0kwUGVKanJzNlVxSXVUVDA5OU5zT3pMWm80c2F6VGtjX2puRzFJTEhKZHBxbF9IVF9XSUhwS0hwdFhlNWp4TGlfdVBRWVRucU1tVGZzNjlxR0l6bzlKdHA5aXUwa1N5ajl1QTdXQThfaVZxdw?oc=5",
-      "published": "2026-08-20T14:57:31+00:00",
       "source": {
         "name": "Vietnam.vn",
         "url": "https://www.vietnam.vn"
@@ -454,6 +454,16 @@
       }
     },
     {
+      "id": "651707238e9d",
+      "title": "La professoressa associata Nguyen Lan Hieu mette in guardia dagli errori più comuni commessi nel tentativo di \"potenziare le funzioni cerebrali\". - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3NSMjB6QXV2d2toVVBqZUl1aXVlWkRmRXJoNkJGLWUzdDFIbUhRR19INGNwQzJsOFR0Z1otcXl0NzFDREpfY3o5UGc2OC1MdHFoZWJvbndWM1VLNV8tTU0wOU50ZTk0MS1MS1NORlg5SUlFdm94VkRMTmZhWDZXc0JPUVpSQ0dZenV0ZUNERnU?oc=5",
+      "published": "2026-08-23T02:16:00+00:00",
+      "source": {
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
+      }
+    },
+    {
       "id": "39fcabf095b6",
       "title": "Il Ministero della Salute sta inasprendo le normative sui farmaci contenenti il ​​principio attivo fentanil. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU184X0VfX1FxV3U0anJVX0F5WUlkTGlWUHNZbGlib1hGaUJ4MHoxX2lvd3RBNnVqckdRTWdZQlpZdG96MTlnelVManE1TnVoTG15cnBSek9vUVd3aWhobjdJZFJIbk1fYmxGZ0YwaTJzejNHSWp5YUo3bjhUV01WQmdn?oc=5",
@@ -584,16 +594,6 @@
       }
     },
     {
-      "id": "3a6f70bc30f2",
-      "title": "L'effetto Ozempic arriva a tavola: supermercati e ristoranti stanno rimpicciolendo le porzioni - today.it",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SVjNSamo2eEZGem0tNm9mSkIwMFk3UXhYOTdjMEswZTU0YVZETUFHWVZ3NFZrRUxxSzNma2lyWk94N3FfbU5BYVpFd3VfYjcteTNEeHc4SWJJRmVJYno3NV9nN01uVzBxWG1saUt30gFuQVVfeXFMTk9ZVmw0bUREOG1jdTBQLWlsaGszWXc2a1ZaMmdPc2t3Mnd6b0Q2QkU1TnA0UGtuaEdicXV0NHM5QWdqSlFKQ0pVZ3hKZDcwLUdHY2N4M2pSZGV0cjhRUG5jUlUtUk5laHRiQ21DbWc?oc=5",
-      "published": "2026-08-20T10:42:00+00:00",
-      "source": {
-        "name": "today.it",
-        "url": "https://www.today.it"
-      }
-    },
-    {
       "id": "cb7113ede2da",
       "title": "Il farmaco deve andare dal paziente, non il paziente dal farmaco. L’Italia ha inventato la DPC, ma l’Europa guarda già oltre - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcFl6TlBtNG03Mno5Y29mZzB4d212ekN4dEU1QXBUVC1nZktOelplUld1NFRfQ2tDd3pKcVFPNUZyOWlXc0pneHJWOFBpenpJalRaZjdJQ20ybldPWGlqSkpycWcwVXdBZFRldWk3Nlo5T3YweGpNU0dZekFkd0xMdVI4bTY3aDEyRk5iTkcwcFRNQ1R2REJ6c29tWGZpODBHSkVRN1Fwd0RiMUNjNlIxaFN0YUZsM25ZZkRualUxZ3JCZ01DT2xYaHdsYmxfLUdxZXFLakFWME9VTHpRT2REYUFNek1oeW5sUXVnMGRpS19nWW5nTTNlYVVBS1Vjcmc?oc=5",
@@ -644,16 +644,6 @@
       }
     },
     {
-      "id": "8fcdc29f19e3",
-      "title": "Probiotici e prebiotici: dal microbiota alla salute sistemica, come orientare la scelta in farmacia - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOFFWZGgtUlJMa0oxcnp5ZzU5czBNZ3cwdlFhNFRGcVlFdzFqeXMzRjhRUFJBZFpGS210R2laR0VfT0dTNGFTbC15Y1M1dW9VYVJCdU4wUlpQRnFOZGZZLU5nN3FoSEU5R291Rl9Mc2VfMEFUTlhqODhDdVdjNjkzRWpfRmlFT1NZbHg5RG5IVjNjMHBiZ2tIaFlPVmZjUVFjTXE4OWxPZFRIWVJURUlGX1h1ajFJWFlWX1pFNnhtUFpwQ3EzblB2aXVzRFNrU29qck9SdWNoVy15bEVRR3RiNEtJcEhpaFZybkhEZnB5LVpjVEg2?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": {
-        "name": "Farmacista33",
-        "url": "https://www.farmacista33.it"
-      }
-    },
-    {
       "id": "7f8754bd0c28",
       "title": "Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5",
@@ -661,6 +651,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://www.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "8fcdc29f19e3",
+      "title": "Probiotici e prebiotici: dal microbiota alla salute sistemica, come orientare la scelta in farmacia - Farmacista33",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOFFWZGgtUlJMa0oxcnp5ZzU5czBNZ3cwdlFhNFRGcVlFdzFqeXMzRjhRUFJBZFpGS210R2laR0VfT0dTNGFTbC15Y1M1dW9VYVJCdU4wUlpQRnFOZGZZLU5nN3FoSEU5R291Rl9Mc2VfMEFUTlhqODhDdVdjNjkzRWpfRmlFT1NZbHg5RG5IVjNjMHBiZ2tIaFlPVmZjUVFjTXE4OWxPZFRIWVJURUlGX1h1ajFJWFlWX1pFNnhtUFpwQ3EzblB2aXVzRFNrU29qck9SdWNoVy15bEVRR3RiNEtJcEhpaFZybkhEZnB5LVpjVEg2?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "source": {
+        "name": "Farmacista33",
+        "url": "https://www.farmacista33.it"
       }
     },
     {
@@ -834,16 +834,6 @@
       }
     },
     {
-      "id": "6a26702976a3",
-      "title": "Boom di infezioni urinarie nelle ultime settimane, Bassetti: \"Usate bene gli antibiotici, altrimenti i batteri resistono\" - GenovaToday",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkdPV0NXeHJxMVhWaGo4bjZTdzlUSkgwNjl2ZUNObWpseXJraEI2RUUtOVhJRi1VWGRPaXhtNkVYZ2dzYXJjYWFJTWNEb0JOeV96bGVJZzYwYVlyYXVhaER4bVRTTjJvbjFLZnpRUjl3eTlHN0tzRjBfMGlfMkx5em5saXVob3g1QW82OFpWWTVYZw?oc=5",
-      "published": "2026-08-23T14:10:34+00:00",
-      "source": {
-        "name": "GenovaToday",
-        "url": "https://www.genovatoday.it"
-      }
-    },
-    {
       "id": "f320be7b6d06",
       "title": "Farmaci, prescrivere meno, curare meglio: la sfida dell’appropriatezza prescrittiva tra salute e ambiente - INNLIFES",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0TXpxWVNwdDZpNkxSbmhtVUFua1RDdzFMcElZWkxlOVZ0a1I3YmllU3A1YlNmQTZzUDZYMFBrVmpiVGVKNUhoYTVRTEozeEZvZDBSbHNHMVhvbnZROVNzY2JFSQ?oc=5",
@@ -914,6 +904,16 @@
       }
     },
     {
+      "id": "6a26702976a3",
+      "title": "Boom di infezioni urinarie nelle ultime settimane, Bassetti: \"Usate bene gli antibiotici, altrimenti i batteri resistono\" - GenovaToday",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkdPV0NXeHJxMVhWaGo4bjZTdzlUSkgwNjl2ZUNObWpseXJraEI2RUUtOVhJRi1VWGRPaXhtNkVYZ2dzYXJjYWFJTWNEb0JOeV96bGVJZzYwYVlyYXVhaER4bVRTTjJvbjFLZnpRUjl3eTlHN0tzRjBfMGlfMkx5em5saXVob3g1QW82OFpWWTVYZw?oc=5",
+      "published": "2026-08-23T14:10:34+00:00",
+      "source": {
+        "name": "GenovaToday",
+        "url": "https://www.genovatoday.it"
+      }
+    },
+    {
       "id": "fc1033f46800",
       "title": "Assemblea Farmindustria. Cattani: “Settore farmaceutico strategico per salute e crescita”. E poi al Governo: “Fissare limite al payback”. Bocciata la revisione del prontuario proposta da Aifa - Quotidiano Sanità",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSDN3RWFFVVZMVUdLUjlKdFF3aHVpNDRuWl85LWpaTzRRN2hCdmZmQzBLR3NrMHd3Mkl1ZnFMQnVpaFY3ZWM1LUM4aVBlamR1VnVDbWNKTW1MdTcybEo3ZXFBaXI5VWlkMkhndUV4LUctMVFfNHdPbzR5VnZaaHlnWkk0UkNIZU1HQUphM29VRE5UVzJNeUwwZEFMRjhSSEcyTUdXV2duSU1DV21DZ0pTTUhoVnFKZnV2OHVTcmpoVFR3SWhuTFhsWFB0SEkweEVSUk0tOVRmSjM1X1J1UEVMX0d2NUZZeVZ0MDFyNEdDbU05bE80VWFCaUxsdk55a0RoQTVYOGhTLWNZaVdENi1ldnJLREphaVJJVUIwT0NBeGJPdDRKVVRadEsxeWJJVkRCcmVwTGUyYXpXdVB2MUIxWVM2SGtYb191TkJnRzJRUEhYcTA?oc=5",
@@ -944,16 +944,6 @@
       }
     },
     {
-      "id": "805598111e4d",
-      "title": "Punto da un calabrone, ha una grave reazione allergica: decisivo l’intervento della farmacia di Frabosa Sottana - TargatoCN",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQkZCaGswVTJiT1VNTTROMnJUb0FzYWpTczV2N3E1S1dzcUNxcmtTWDZQU3hXOHhqVlhCYVpKT2k3OVFXWkxRNjRMZy1tYXRjX2pRYTk2Mjl1ZjNLUzNwaExsaC1WXzM0c2xONzhkQW9tLUw3dEwtMWJqQU1BelFhalNqSWRVc3p0Q1NLbHEta2JNVVY5a1dwS3NGTDdBZFJXVndtYVdmQzlHZjZOajlVbGoyM0V6cG5WRDBpTDRadk4tcm1XLVZPaUlkcTBKeEt0RkNWRVBENkQzSDhVN2w1RzJtTXZmbm9vT1YtcjkyRDJfX09Dakh0ZUk0ODE4QVRTU3I5T1ItN2oyejk3aG0wZmw1OHjSAf4BQVVfeXFMTkxGcWFqaG1ycHlEZ2s2X25seXItQ19naXJMZkU4X2lYOEI1Sk5IODFmNU1xYVQzWUplTWRfU3JSeWRxMWNHbnJXdTZORWRWQ1lIWjBmOGlkamI0eWlidVNEZXNoSl9WUTdPdG5MZnM0N3pBVjFPZ0xRcVdqVUIzU0lCNlhlVEh0VDFQanJjMXZQV0lpMUd1ZWdBT09QUzhRSUN3OEF6cGtMMU5WSm9FZUZTc1UtdWxMc0xUWExtNUduSUNaeTRPX2Y2MmtjY0pFMlJaelJ3Wk91Vl9wUWRWV1ZWUG9PeU0wMGlSWWsxZ2JUT2t2UW1CUmgtWmJaQnc?oc=5",
-      "published": "2026-08-22T11:22:00+00:00",
-      "source": {
-        "name": "TargatoCN",
-        "url": "https://www.targatocn.it"
-      }
-    },
-    {
       "id": "1eacc38b53e9",
       "title": "Teva Italia, un contributo strategico al Servizio sanitario nazionale - Medico e paziente",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFvbXBWSXJQbnA2MFlrSVVZVjJzd3NLRDRRaHQzR3JlRVduTEhaQzNmcEpENkxMSHBtREZVQVhtTWdBZURfTDZHN3hlcUkwNlBUblNWQ0xyQ25jdGxfdkpFQ3NKMWdSSU9NakxVdURlRk8wZDFrUlU3VUlDVFRVeFpXZk5oTS1LaDBDV1ZDQWl4THN6WC1BNm5Gb2lTSGlRTmdJ?oc=5",
@@ -961,6 +951,16 @@
       "source": {
         "name": "Medico e paziente",
         "url": "https://medicoepaziente.it"
+      }
+    },
+    {
+      "id": "805598111e4d",
+      "title": "Punto da un calabrone, ha una grave reazione allergica: decisivo l’intervento della farmacia di Frabosa Sottana - TargatoCN",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQkZCaGswVTJiT1VNTTROMnJUb0FzYWpTczV2N3E1S1dzcUNxcmtTWDZQU3hXOHhqVlhCYVpKT2k3OVFXWkxRNjRMZy1tYXRjX2pRYTk2Mjl1ZjNLUzNwaExsaC1WXzM0c2xONzhkQW9tLUw3dEwtMWJqQU1BelFhalNqSWRVc3p0Q1NLbHEta2JNVVY5a1dwS3NGTDdBZFJXVndtYVdmQzlHZjZOajlVbGoyM0V6cG5WRDBpTDRadk4tcm1XLVZPaUlkcTBKeEt0RkNWRVBENkQzSDhVN2w1RzJtTXZmbm9vT1YtcjkyRDJfX09Dakh0ZUk0ODE4QVRTU3I5T1ItN2oyejk3aG0wZmw1OHjSAf4BQVVfeXFMTkxGcWFqaG1ycHlEZ2s2X25seXItQ19naXJMZkU4X2lYOEI1Sk5IODFmNU1xYVQzWUplTWRfU3JSeWRxMWNHbnJXdTZORWRWQ1lIWjBmOGlkamI0eWlidVNEZXNoSl9WUTdPdG5MZnM0N3pBVjFPZ0xRcVdqVUIzU0lCNlhlVEh0VDFQanJjMXZQV0lpMUd1ZWdBT09QUzhRSUN3OEF6cGtMMU5WSm9FZUZTc1UtdWxMc0xUWExtNUduSUNaeTRPX2Y2MmtjY0pFMlJaelJ3Wk91Vl9wUWRWV1ZWUG9PeU0wMGlSWWsxZ2JUT2t2UW1CUmgtWmJaQnc?oc=5",
+      "published": "2026-08-22T11:22:00+00:00",
+      "source": {
+        "name": "TargatoCN",
+        "url": "https://www.targatocn.it"
       }
     },
     {
