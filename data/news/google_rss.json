@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T16:23:57.887393+00:00",
+  "fetched_at": "2026-08-25T17:22:23.091961+00:00",
   "source": "Google News Health RSS",
   "count": 100,
   "articles": [
@@ -24,10 +24,10 @@
       }
     },
     {
-      "id": "7c7a42e84c67",
+      "id": "5b39d9f74050",
       "title": "Autorità anticorruzione, il catalogo dei rischi in sanità - Farmacista33",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTk0zMGFVamdYQWEwUlZZQ0RFdDd1ZUx5SjVmZXQzUEUydGljS3Q1QUVRUWo4cEFCUXl4UW9JU29oZXJPeV9NQkJHNW56MkxiWnpyZzRlMk9IZmtkc09WR3hUZkZEX2tvdklXeDgzaW1JbW1BNGpEaEJBWTAtNklJNDNkaGxnWDNRRWlYajZrMmVNXzRsd3RULWlzSmRkcVFScWdqemYzRHZGa3VrbVNCNTM2RTk?oc=5",
-      "published": "2026-08-25T10:55:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT1Q3NTY4SEYxQ2kyejNteVo5RlB2alFMNGJQajRIbmREQ2s4TXNva2ZvOTJJWTByeDNNWGVsWTItamJwVTY3U3JCQVU5dGxLU3lzWG9zY3RxSWNwZWhDWkZWSVhUYmFTSkMtdExEeHZxanotVTdtRWtIeFVEbE1rZy04YllMdFJ5QmtBTENFRnk0N0JiWUVaMDBIOVd4MzNhZGFSN2V3cw?oc=5",
+      "published": "2026-08-25T10:50:15+00:00",
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
@@ -124,16 +124,6 @@
       }
     },
     {
-      "id": "e72bae171d2c",
-      "title": "Lazio, attivo ovunque il 116117 per cure non urgenti e guardia medica - lacapitale.it",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEtVSXFmekV3REdKVVJOTWl5akhGcXFsVkxRZzJkUExFT3JPVUZwZ0pjNHB4eHlaNEY3ajZIWm9zSXZXS3AtdkRXZ1dYNVpDck1aLVNqYTJJZzEyNzBheUZqYUN0T2dsZU5IdVdEbHVJU3hjVXJSdVFnTHZJTkZrYWYzbV9LY3oxTnhhZkY0dlo?oc=5",
-      "published": "2026-08-25T10:14:49+00:00",
-      "source": {
-        "name": "lacapitale.it",
-        "url": "https://www.lacapitale.it"
-      }
-    },
-    {
       "id": "9b33614e29f0",
       "title": "Diabete e pressione alta: per proteggere i reni conta anche quale farmaco scegliamo? - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOS10SUw2ZGNJWXRlNEpDTWxyV2x4eHRiSERDaXpRb3RITzdxUHNjTUJ6MnVjeTlpX29zS0hWekxtRXlCNXJqVk53NUJzbzZUYzhLNC1WTWUzLWZDTGxpSktqdXU0TlZ6SnVJaU5keVFGS21va3F2ajZDUUdqbzNSTlA2aXZ2VHpQRUZPSUtQY3B6cEgzUVNvWlo4Z1l0cnRsNHNtbmFyTUdoUVNUZXRVT0RLODFkdWZvRkU0SWdNSWxWY2JGWE5GVVNlMjJiZw?oc=5",
@@ -141,6 +131,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "e72bae171d2c",
+      "title": "Lazio, attivo ovunque il 116117 per cure non urgenti e guardia medica - lacapitale.it",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEtVSXFmekV3REdKVVJOTWl5akhGcXFsVkxRZzJkUExFT3JPVUZwZ0pjNHB4eHlaNEY3ajZIWm9zSXZXS3AtdkRXZ1dYNVpDck1aLVNqYTJJZzEyNzBheUZqYUN0T2dsZU5IdVdEbHVJU3hjVXJSdVFnTHZJTkZrYWYzbV9LY3oxTnhhZkY0dlo?oc=5",
+      "published": "2026-08-25T10:14:49+00:00",
+      "source": {
+        "name": "lacapitale.it",
+        "url": "https://www.lacapitale.it"
       }
     },
     {
@@ -494,16 +494,6 @@
       }
     },
     {
-      "id": "a1e119344505",
-      "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
-      "published": "2026-08-23T10:48:55+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
-      }
-    },
-    {
       "id": "2c6e4c1542a8",
       "title": "L'alchimista. Il farmacista galenico che prepara farmaci che l'industria non produce - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYnAtWlZpRV9ubkM2U1l6YjZlMmpNSHN1LTdKSFlfWWFVWkR1UXFmZXA5R21kMm1kM1Bodi1DRm1aZExtLUZxRnB6YzJkS2ZubmxYYXd1Z0hYS1N1N3BVSG1KQXZJeFQ1U3IyWHh3dmRXcWhjM0J1RG40MC1zYTY4X0JoUHYxT2doWW16UHpxdllubkdZT3p6MDROcVVHTWpzckkzTnh4TGVCbmx5VVVheDNPVXQ4YmxJM3JudXlRaUY2LW1ieGZRN0J3WjFqZTQ?oc=5",
@@ -524,13 +514,13 @@
       }
     },
     {
-      "id": "d867a865a30c",
-      "title": "Il governatore Rocca: “Serve trattativa in Europa per prevenzione e farmaci innovativi” - dialessandria.it",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDJwYmhRNTZlLUxpVUdLVURiUmF5ZFNUczNwYWhDUU5jNGlEN3llNHhIbnZ0WkJLZDRnN0Npcl92TmhQU3V6YWJ2WEpOTkZSQzZTVThBakNBZ0lVZ1hrUjR1MmJOblN5ckZXR0FfdXl6dDNPYjdoUmZiTC1QYnpua2JqUllVQ3JQYTFCbEUxZWF2MTNQSmF5VEpwZ0JvWFFPdnVndHNXYkhjTUhPYmdDMVpuaTNSdTQ?oc=5",
-      "published": "2026-08-24T06:50:42+00:00",
+      "id": "a1e119344505",
+      "title": "Attenzione alla \"trappola\" dei farmaci per il potenziamento maschile. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERmhGd29ORnRnR3NjVy1NZW0tRGs0RHFuT01ZaWJBTjFucjh6S3dQY0xYTnBKWHlHMUFzbjhGRGJaTTh1QmNFYjRycnVJQVliMUVkR2p6c3pnMTFsbHk1aWlvSnhCeldiUWlWSFM4dWdMNkV0ckhF?oc=5",
+      "published": "2026-08-23T10:48:55+00:00",
       "source": {
-        "name": "dialessandria.it",
-        "url": "https://www.dialessandria.it"
+        "name": "Vietnam.vn",
+        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -541,6 +531,16 @@
       "source": {
         "name": "Ministero della Salute",
         "url": "https://www.salute.gov.it"
+      }
+    },
+    {
+      "id": "d867a865a30c",
+      "title": "Il governatore Rocca: “Serve trattativa in Europa per prevenzione e farmaci innovativi” - dialessandria.it",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDJwYmhRNTZlLUxpVUdLVURiUmF5ZFNUczNwYWhDUU5jNGlEN3llNHhIbnZ0WkJLZDRnN0Npcl92TmhQU3V6YWJ2WEpOTkZSQzZTVThBakNBZ0lVZ1hrUjR1MmJOblN5ckZXR0FfdXl6dDNPYjdoUmZiTC1QYnpua2JqUllVQ3JQYTFCbEUxZWF2MTNQSmF5VEpwZ0JvWFFPdnVndHNXYkhjTUhPYmdDMVpuaTNSdTQ?oc=5",
+      "published": "2026-08-24T06:50:42+00:00",
+      "source": {
+        "name": "dialessandria.it",
+        "url": "https://www.dialessandria.it"
       }
     },
     {
@@ -614,16 +614,6 @@
       }
     },
     {
-      "id": "8e1167842fc2",
-      "title": "Malattie rare, salute e sostenibilità: online l'Instant Book dedicato alla nuova geopolitica dei farmaci - pharmastar.it",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXF2UF92TUJ3cW9CSmVZRnpGVlhGTGNEZjhtMzk4RFVpWUVBUmZVYmlMMjExQmpjOTNabTBEaS12NkNjWWhMSVFLZnljdnAxYmxhUlRjU0xHMDZ0UjVocWpqV0ZfcTZrc0JERlBzbVk2YU41WkdheVJKWDFySV9PLUMxNnd2c1dGRllBUTlVQkNZV0FPWkExWlBLNGVfUG5VSzdrQlhDblpHOEN2QW5DaDFGd3locnR5a054eFQ3bDlRYzRZUHhlczlQWXRhSXFHYW42Sw?oc=5",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": {
-        "name": "pharmastar.it",
-        "url": "https://www.pharmastar.it"
-      }
-    },
-    {
       "id": "7b2d2c06c7e7",
       "title": "Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5",
@@ -631,6 +621,16 @@
       "source": {
         "name": "Agenzia Italiana del Farmaco",
         "url": "https://www.aifa.gov.it"
+      }
+    },
+    {
+      "id": "8e1167842fc2",
+      "title": "Malattie rare, salute e sostenibilità: online l'Instant Book dedicato alla nuova geopolitica dei farmaci - pharmastar.it",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXF2UF92TUJ3cW9CSmVZRnpGVlhGTGNEZjhtMzk4RFVpWUVBUmZVYmlMMjExQmpjOTNabTBEaS12NkNjWWhMSVFLZnljdnAxYmxhUlRjU0xHMDZ0UjVocWpqV0ZfcTZrc0JERlBzbVk2YU41WkdheVJKWDFySV9PLUMxNnd2c1dGRllBUTlVQkNZV0FPWkExWlBLNGVfUG5VSzdrQlhDblpHOEN2QW5DaDFGd3locnR5a054eFQ3bDlRYzRZUHhlczlQWXRhSXFHYW42Sw?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "source": {
+        "name": "pharmastar.it",
+        "url": "https://www.pharmastar.it"
       }
     },
     {
@@ -694,16 +694,6 @@
       }
     },
     {
-      "id": "7865e21aa6e2",
-      "title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri - Il Gazzettino",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUFaMWstTHF5QzJYVUJCMEF0LS1mNjlqWkRiTzAzSm9pQnJsSFFhRmxjNmw0N0NBdlgzTUhsNlItYk5oNjEwOHFfSjQ5cDVOWHhHM1d5TXZGVTdYZjVYaDA5dVJ1eF8yMExocnpkdVVoSVpmWUlrT3ZOVGdSU0pkWExlT2dEeXBVaExMeUJrdVB3YmlNX29jYUVzYWvSAZgBQVVfeXFMUC1iRHQwOWJTY1gwU2t3QlFTNFFSUXF3TFBRZEFJdjZmZlYtdFE3Z2JwWWpKODU5Z0F1ckFsYVBtVXdPVllfZmNVNnZwbHV2ZGZickhqV0VncDJwamJ5T1FtcUNnTHl2ZmtkcTJsb0tyVnFyckJrc0FfdGw3UWNOMzNCS19vblAxSmNyby1vRkNnaWVHYUFFTUI?oc=5",
-      "published": "2026-08-23T01:00:33+00:00",
-      "source": {
-        "name": "Il Gazzettino",
-        "url": "https://www.ilgazzettino.it"
-      }
-    },
-    {
       "id": "5d553f95828b",
       "title": "Farmaci, raggiunto l'accordo con i medici. L'assessore Caruso firma il decreto - | Regione Siciliana",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXdkMGhWdXo0MlZ4UGthT0ZJNFMzd3JjTjRPeFRNRWRzbzQxNzBRQXlVOWdiRlpsRmFQbEx2aFFNRGc1ZkprOU1yMXJPSTNWZlN4dmpzYi1hVGNsQ3g5RUF6RUVJWVRjWU85NjNHQkoyb0x4d0hKaXpSRkZaeFRWQm04YUltbUcxRUo5dFRWQzJ3VVFreE83c3h3VFpEdGFvUXZxTXZjVTVTdlN1bXBZUXNHSHBSMmtr?oc=5",
@@ -711,6 +701,16 @@
       "source": {
         "name": "| Regione Siciliana",
         "url": "https://www.regione.sicilia.it"
+      }
+    },
+    {
+      "id": "7865e21aa6e2",
+      "title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri - Il Gazzettino",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUFaMWstTHF5QzJYVUJCMEF0LS1mNjlqWkRiTzAzSm9pQnJsSFFhRmxjNmw0N0NBdlgzTUhsNlItYk5oNjEwOHFfSjQ5cDVOWHhHM1d5TXZGVTdYZjVYaDA5dVJ1eF8yMExocnpkdVVoSVpmWUlrT3ZOVGdSU0pkWExlT2dEeXBVaExMeUJrdVB3YmlNX29jYUVzYWvSAZgBQVVfeXFMUC1iRHQwOWJTY1gwU2t3QlFTNFFSUXF3TFBRZEFJdjZmZlYtdFE3Z2JwWWpKODU5Z0F1ckFsYVBtVXdPVllfZmNVNnZwbHV2ZGZickhqV0VncDJwamJ5T1FtcUNnTHl2ZmtkcTJsb0tyVnFyckJrc0FfdGw3UWNOMzNCS19vblAxSmNyby1vRkNnaWVHYUFFTUI?oc=5",
+      "published": "2026-08-23T01:00:33+00:00",
+      "source": {
+        "name": "Il Gazzettino",
+        "url": "https://www.ilgazzettino.it"
       }
     },
     {
@@ -864,16 +864,6 @@
       }
     },
     {
-      "id": "b6d2e54edaab",
-      "title": "Un farmaco per l’artrite reumatoide fa ricrescere i capelli persi a causa dell’alopecia - CataniaToday",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWENUS1F6ZnRrclQzVkZpY0hvY1BLRnhidDdWZXVEbENhSzBWV3JyTjRYcEdFcUxXZHFmaVFKa3ZVZVRPU3dFTnJfLVo3cGZveS1VZ204VG5xcE1oZHZVTS1jTmZDdWNIeFFUcU1NZ1lib1dKM3EzdGxXVkg1OGZTMDg3NWE2Y0ZtdXRRRzZWOHB1Qy04b1NzeXl3?oc=5",
-      "published": "2026-08-22T14:01:29+00:00",
-      "source": {
-        "name": "CataniaToday",
-        "url": "https://www.cataniatoday.it"
-      }
-    },
-    {
       "id": "a9f6afc5e986",
       "title": "Giornate di Raccolta del Farmaco 2026: a Rivoli una settimana di solidarietà per il diritto alla salute - Città di Rivoli",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFAyZ2F1SmhNOUVKRkRmTU5BcEwzSjQ4YWR3Z2xzMC1Wa1RXTm5lQ2xRUUxjQVp1WEt1TUtKenlOSVRWa2E3a0xwV1l1T1V1QjE3MTNWeHY2VTZKUmIxX1U5dEZtbE5BRks3NU9PM2Z0X1RTdDhLSlNYZ3RvSElCd25JZHdLVUFubG43WGxZUGQwRlgxNG9GNmpSanNISi1QOW1YVTBqSnpPNXl6OS1qV19CdlZPbDg3Y0xldHBkRjZRWlNrQ3h3eUlkSHVzYU5EYzhobUZ1b2NDRER4Vmp2bzdsSQ?oc=5",
@@ -901,6 +891,16 @@
       "source": {
         "name": "Il Sole 24 ORE",
         "url": "https://stream24.ilsole24ore.com"
+      }
+    },
+    {
+      "id": "b6d2e54edaab",
+      "title": "Un farmaco per l’artrite reumatoide fa ricrescere i capelli persi a causa dell’alopecia - CataniaToday",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWENUS1F6ZnRrclQzVkZpY0hvY1BLRnhidDdWZXVEbENhSzBWV3JyTjRYcEdFcUxXZHFmaVFKa3ZVZVRPU3dFTnJfLVo3cGZveS1VZ204VG5xcE1oZHZVTS1jTmZDdWNIeFFUcU1NZ1lib1dKM3EzdGxXVkg1OGZTMDg3NWE2Y0ZtdXRRRzZWOHB1Qy04b1NzeXl3?oc=5",
+      "published": "2026-08-22T14:01:29+00:00",
+      "source": {
+        "name": "CataniaToday",
+        "url": "https://www.cataniatoday.it"
       }
     },
     {
@@ -941,16 +941,6 @@
       "source": {
         "name": "Farmacia News",
         "url": "https://www.farmacianews.it"
-      }
-    },
-    {
-      "id": "f72498d79e5d",
-      "title": "AstraZeneca: la revoca della certificazione implica il ritiro dal mercato del farmaco e del vaccino? - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE1SN3NQc0J3Nnh2N3lPeXFQb0IyNVdRQTZOR2xzck01bTJBZl9rLS1seWJLM1dLaWFGanBwRnVidmFnZEpQS0tzQ1E3cFJPdkxiLUFsQ3FKRWFzSGotZ0JZemZBdEhSNWxqTXRiS3BranlUbEVvMTRBQVJua0xWN3Y3MFNOaXZnazBnSFRIQVA5SndYaV9WR2U2M09Pdw?oc=5",
-      "published": "2026-08-24T17:44:14+00:00",
-      "source": {
-        "name": "Vietnam.vn",
-        "url": "https://www.vietnam.vn"
       }
     },
     {
@@ -1001,6 +991,16 @@
       "source": {
         "name": "OK Salute e Benessere",
         "url": "https://www.ok-salute.it"
+      }
+    },
+    {
+      "id": "81d69817e3a3",
+      "title": "La metformina combatte il diabete agendo sul cervello - Focus.it",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejNwSFRBSVBzTk5tQmpFdTZxRVNCOExyWVNrLTlVSHBzdWE0TF9GdGJNMTJ2TmgtcENFSmg1X0ctaTZlLUZ1T3RmaDVpdTJXSlNFeFZVd2ZvaUdnTW4wbzVqMHFUN2ZCSnYwSmFxZHh4NkZtS0RqbndtVEVHZ1lOcFVBQXFTVk1HTW1Nelp2Z3JVcTlFZW5hLUpueFBFWnUtS053QzlLRElTbjBwb0JmLVlxd05ESmFZR3BUaEJJYlNHYjIt?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
+      "source": {
+        "name": "Focus.it",
+        "url": "https://www.focus.it"
       }
     }
   ]
