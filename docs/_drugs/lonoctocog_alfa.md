@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lonoctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Lonoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -111,10 +111,10 @@ The TxGNN score for pseudo-vWD is driven by biological network proximity between
 - **Scott Syndrome prioritisation**: If pursuing any of these four predictions, Scott syndrome offers the most scientifically grounded rationale and should be elevated for basic research consideration ahead of the other three
 - **Expert haematology review**: A rare bleeding disorder specialist should evaluate whether vWF-free FVIII has any niche safety role in pseudo-vWD bleeding episodes (e.g., perioperative settings), independent of the repurposing hypothesis
 - **Italy registration pathway**: Since lonoctocog alfa is not currently marketed in Italy, any future development would require a full regulatory strategy; confirm current EMA approval status and reimbursement conditions as a prerequisite
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

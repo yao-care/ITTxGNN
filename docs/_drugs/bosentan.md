@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bosentan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 39
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Bosentan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -119,10 +119,10 @@ Bosentan has a mechanistically plausible and preclinically supported rationale f
 - Evaluate bosentan's drug interaction profile with common RA therapies — particularly methotrexate and biologics — given bosentan's known CYP3A4/CYP2C9 induction capacity
 - Design a Phase 1/2 proof-of-concept clinical study; a pragmatic entry point would be RA patients with comorbid PAH or systemic sclerosis overlap, where ERA therapy is already clinically justified
 - Investigate hepatotoxicity risk in the context of concurrent DMARD use, as both bosentan and methotrexate carry hepatotoxic potential
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

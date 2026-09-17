@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Citalopram
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 53
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Citalopram
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L2** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -121,10 +121,10 @@ Multiple completed Phase 3/4 trials support escitalopram — the direct active e
 - **Dose optimization**: Define citalopram OCD dosing protocol by cross-referencing escitalopram dose-escalation studies (typical escitalopram OCD doses of 20–40 mg/d correspond to citalopram 40–80 mg/d), with cardiac monitoring plan for doses above 40 mg/d
 - **AIFA registration pathway**: Determine whether an off-label use authorization, an extension of indication, or a 648/96 Law exemption applies for OCD in Italy
 - **Pediatric considerations**: If OCD in children/adolescents is within scope, a dedicated risk assessment is needed given regulatory restrictions on SSRI use in this population
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

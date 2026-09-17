@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Candesartan Cilexetil
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Candesartan Cilexetil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -112,10 +112,10 @@ The TxGNN prediction is mechanistically plausible — candesartan's AT1 blockade
 - **MOA & safety data**: Retrieve full DrugBank entry and package insert to complete the pharmacokinetic, DDI, and contraindication profile
 - **Regulatory pathway**: Given zero Italy authorizations, assess whether a Named Patient Program, compassionate use, or investigator-initiated trial would be the appropriate regulatory entry point
 - **Secondary indications**: Rank 2 (malignant hypertensive renal disease, L4) shares the same ARB-RAAS mechanistic rationale and could be evaluated in parallel; Ranks 4–5 (multifactorial PH, Braddock syndrome) are assessed as Hold with insufficient mechanistic basis and should not be prioritized
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

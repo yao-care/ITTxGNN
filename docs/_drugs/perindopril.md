@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Perindopril
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Perindopril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -95,10 +95,10 @@ The prediction rests entirely on the TxGNN model (L5), with zero supporting clin
 - **Targeted literature search**: Commission a systematic review specifically on ACE inhibitor use in renovascular hypertension (including case series and observational cohort studies) to establish whether any subpopulation — e.g., unilateral stenosis with a contralateral normal kidney — may benefit safely
 - **Patient stratification framework**: Define eligibility criteria to identify cases where the risk of renal function deterioration is manageable (e.g., functional imaging to exclude bilateral stenosis prior to any trial)
 - **Preclinical bridging data**: If a viable patient subgroup is identified, a prospective pilot safety study with intensive renal function monitoring (serum creatinine, eGFR, potassium) should be designed before any Phase 2 consideration
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

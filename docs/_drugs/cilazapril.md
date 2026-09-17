@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cilazapril
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Cilazapril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -99,10 +99,10 @@ This prediction is supported exclusively by TxGNN model scoring (L5 — no clini
 - Review ESC/ERS 2022 PH guidelines for any RAAS-targeted signals in relevant Group 5 sub-conditions (e.g., CKD-associated PH, haematological PH)
 - Obtain and review the full prescribing information / package insert for cilazapril to assess key warnings and contraindications
 - Evaluate whether a lower-ranked indication with stronger mechanistic grounding (e.g., **malignant hypertensive renal disease**, Rank 3, L4) represents a more actionable repurposing candidate for prioritisation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

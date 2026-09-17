@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Everolimus
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 99
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Everolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ An active Phase 2 trial (NCT03114527) with peer-reviewed published results direc
 - Market authorisation evaluation or compassionate use pathway for Everolimus in this jurisdiction
 - Formal DrugBank MOA data retrieval to complete mechanistic documentation
 - Comprehensive safety monitoring plan covering pneumonitis, metabolic toxicities (hyperglycaemia, dyslipidaemia), myelosuppression, and relevant drug-drug interactions
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

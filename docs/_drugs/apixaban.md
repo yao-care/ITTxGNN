@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apixaban
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Apixaban
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -47,7 +47,7 @@ Apixaban (DrugBank: DB06605) is a well-known direct oral anticoagulant (Factor X
 | Predicted New Indication | **None** — TxGNN did not generate predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No prediction, no supporting studies in this pack) |
-| Taiwan Market Status | ❌ Not marketed (未上市) |
+| Taiwan Market Status | ❌ Not marketed (Not marketed) |
 | Number of TFDA Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -59,7 +59,7 @@ The TxGNN model returned an empty `predicted_indications` array for Apixaban. Se
 
 1. **Data gaps in the input pipeline**: The evidence pack flags two critical gaps — (DG001) TFDA package insert warnings/contraindications are missing, rated as "Blocking" severity; and (DG002) the mechanism of action (MOA) is not populated, rated as "High" severity. Without MOA data feeding into the knowledge graph, the model may lack sufficient connectivity to generate confident predictions.
 
-2. **Taiwan regulatory absence**: Apixaban has zero TFDA licenses recorded (market status: 未上市). This may limit the drug's representation in the Taiwan-specific knowledge graph used by TxGNN, reducing the model's ability to identify repurposing opportunities.
+2. **Taiwan regulatory absence**: Apixaban has zero TFDA licenses recorded (market status: Not marketed). This may limit the drug's representation in the Taiwan-specific knowledge graph used by TxGNN, reducing the model's ability to identify repurposing opportunities.
 
 3. **Known pharmacology context**: Apixaban is a selective, reversible direct Factor Xa inhibitor that blocks free and clot-bound Factor Xa, as well as prothrombinase activity. It is widely approved internationally (FDA, EMA) for: (a) reduction of stroke risk in non-valvular atrial fibrillation, (b) treatment of DVT and PE, (c) prophylaxis of DVT following hip or knee replacement surgery. This pharmacological profile is highly specific to the coagulation cascade, which may limit the model's ability to identify cross-indication signals.
 
@@ -121,10 +121,10 @@ No TxGNN predicted indications were generated for Apixaban, and the evidence pac
 - **Verify Taiwan market status:** Confirm whether Apixaban truly has no TFDA licenses, as it is widely marketed internationally under the brand Eliquis®
 - **Re-run TxGNN prediction:** After resolving data gaps, re-execute the TxGNN model to generate predicted indications
 - **If predictions are generated:** Collect clinical trial and literature evidence for the top predicted indication(s)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

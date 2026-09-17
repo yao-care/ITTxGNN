@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alogliptin
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 23
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alogliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -45,7 +45,7 @@ Alogliptin (DB06203) is a DPP-4 inhibitor primarily used for the treatment of ty
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (No predictions or supporting studies available) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -115,10 +115,10 @@ There are no TxGNN-predicted new indications for alogliptin at this time. Additi
 - **Resolve DG002 (High):** Retrieve detailed mechanism of action from DrugBank API
 - **Reassess market availability:** Since alogliptin is not marketed in Taiwan, consider whether the drug can be sourced through special import channels or clinical trial supply if a repurposing indication is identified
 - **Re-evaluate** once the above data is collected and TxGNN predictions are available
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

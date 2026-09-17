@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moroctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Moroctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -115,10 +115,10 @@ The mechanistic connection between FVIII replacement (moroctocog alfa) and prima
 - Investigate whether the high TxGNN score reflects a data artefact (shared ICD bleeding-phenotype node) rather than a biological signal — consider reviewing the knowledge graph edges connecting moroctocog alfa to this disease node
 - Obtain the full package insert (EMA SmPC or TFDA 仿單) to complete the safety gap assessment before any further clinical evaluation
 - If interest in FVIII repurposing for bleeding disorders persists, redirect analysis to **Rank 4: Acquired Coagulation Factor Deficiency** (Evidence Level L3, 13 clinical trials including Grade B studies, recommendation: Research Question), which has a substantially more credible mechanistic rationale
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

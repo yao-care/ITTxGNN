@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Finasteride
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Finasteride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ Ambras type hypertrichosis universalis congenita is a non-androgen-dependent gen
 - Verification of Italy (AIFA) regulatory status for finasteride via direct registry query
 - Full safety data from the AIFA-approved package insert (warnings, contraindications, teratogenicity)
 - Review of the rank 2 prediction — **hypertrichosis (disease)** (L4, Research Question) — which, while limited to older narrative reviews, has a partial mechanistic basis for androgen-driven subtypes and represents a more scientifically defensible starting point for any future hypothesis-generation work
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

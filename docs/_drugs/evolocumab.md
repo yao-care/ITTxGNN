@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evolocumab
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Evolocumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ All six predicted indications in this Evidence Pack share the same L5 evidence l
 - **Italy regulatory baseline**: Verify Evolocumab's AIFA / EMA approval status and approved labelling directly from the official registries to establish the regulatory context for any repurposing discussion.
 - **Knowledge graph audit**: Flag this candidate cluster for TxGNN model review, as the concentration of haematological disease nodes at high scores with zero biological rationale suggests a systematic graph topology issue that may affect other candidates in the same node neighbourhood.
 - **Safety data retrieval**: Obtain TFDA/AIFA package insert warnings, contraindications, and DDI data (currently all marked as Data Gap) before any clinical feasibility assessment can begin.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

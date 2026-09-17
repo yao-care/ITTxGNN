@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Risperidone
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 179
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Risperidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Livello di evidenza: **L1** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -140,10 +140,10 @@ Multiple completed Phase 3 RCTs — including a 585-patient double-blind Bipolar
 - **Indication subgroup stratification**: The evidence quality differs by affective subtype — design separate analysis pathways for (a) Bipolar I maintenance, (b) MDD adjunctive/augmentation, and (c) TRD; do not pool these as a single development track
 - **Monitoring protocol definition**: Establish baseline and follow-up monitoring schedule for metabolic parameters, EPS/tardive dyskinesia, QTc, and prolactin before any investigator-initiated trial submission
 - **Secondary indication triage**: This multi-indication pack also flags **Trichotillomania** (L3, 10 publications, Research Question) and **Phelan-McDermid syndrome** (L4, preclinical zebrafish data + case reports) as candidates for future exploratory research after the major affective disorder track is resolved
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

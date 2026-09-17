@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 215
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L3** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ Although the mechanistic rationale for zolmitriptan in migraine with brainstem a
 - **MOA data retrieval**: Full DrugBank pharmacology entry to document receptor binding profiles and CNS penetrance data (currently listed as a data gap)
 - **Taiwan market pathway**: TFDA new drug application strategy, given the drug is not currently marketed in Taiwan
 - **TFDA package insert**: Obtain and parse the full prescribing information to complete the safety profile before any clinical protocol is designed
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

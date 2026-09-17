@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metolazone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Metolazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -98,10 +98,10 @@ Although TxGNN assigns a high numerical score (99.84%), there is zero disease-sp
 - Clarify the GFR threshold below which Metolazone's antihypertensive and diuretic efficacy becomes clinically insufficient
 - Assess whether the TxGNN signal is an artefact of graph proximity between "antihypertensive" and "hypertensive renal disease" nodes, or reflects a genuine unmet-need gap
 - If evidence retrieval yields ≥1 supporting study, re-triage as L4 and repeat decision assessment
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

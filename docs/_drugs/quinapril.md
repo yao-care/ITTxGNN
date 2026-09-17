@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Quinapril
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 174
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Quinapril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -108,10 +108,10 @@ The mechanistic case for Quinapril in malignant hypertensive renal disease is co
 - **Renovascular safety clarification**: Distinguish malignant hypertensive renal disease (primary RAAS overactivation — ACEI potentially appropriate) from malignant renovascular hypertension (stenosis-driven — ACEI potentially contraindicated, as flagged in predicted rank 2)
 - **Nephrology expert consultation**: Validate clinical feasibility of an observational or prospective study design in this high-acuity patient population
 - **AIFA regulatory pathway assessment**: Evaluate the route to authorization in Italy given current non-marketed status
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

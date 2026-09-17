@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambrisentan
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ambrisentan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -47,7 +47,7 @@ Ambrisentan (DrugBank: DB06403) is a selective endothelin type-A (ETA) receptor 
 | Predicted New Indication | — None predicted — |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (No predictions or supporting studies available) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -75,7 +75,7 @@ Currently no predicted indication available — literature search was not perfor
 
 ## Taiwan Market Information
 
-Ambrisentan is **not currently marketed in Taiwan** (未上市). No TFDA authorizations were found.
+Ambrisentan is **not currently marketed in Taiwan** (Not marketed). No TFDA authorizations were found.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -116,10 +116,10 @@ The TxGNN model did not generate any predicted new indications for Ambrisentan. 
 *Report generated: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB06403-multi*
 
 *⚠️ This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

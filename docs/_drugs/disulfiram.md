@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disulfiram
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Disulfiram
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -101,10 +101,10 @@ This Evidence Pack is missing the three minimum inputs required for a repurposin
 3. **Retrieve MOA from DrugBank API** (DG002, High) — the DrugBank query returned a result but MOA remains unpopulated; this is required for mechanistic plausibility analysis
 4. **Supplement DDI data from an alternative source** — current DDI query returned `not_found`; consult DrugBank DDI database or MICROMEDEX to rule out interaction risks
 5. **Check EMA / FDA databases for approved indications** — since Italy has 0 authorizations, international regulatory labels may provide the approved indication context needed for the report header
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Damoctocog Alfa Pegol
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Damoctocog Alfa Pegol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -97,10 +97,10 @@ No TxGNN predictions are available for this drug, and two blocking data gaps —
 - **[High]** Query DrugBank API for mechanism of action data (DG002)
 - Confirm original approved indication text from a regulatory source (AIFA, EMA, or Bayer prescribing information)
 - Once the above data gaps are resolved, re-run the full evidence pack generation (v5+) before proceeding to clinical plausibility review
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

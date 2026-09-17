@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Midazolam
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 147
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L2** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -120,10 +120,10 @@ Although the mechanistic link is clear and historical RCTs confirm hypnotic effi
 - **Italy regulatory pathway**: Assess AIFA requirements for a new indication without an existing national authorization; consider whether a new MAA or a label extension is feasible
 - **Benzodiazepine-specific safety review**: Formally document dependence potential, tolerance development, rebound insomnia, withdrawal syndrome, and respiratory depression risk — especially relevant for chronic insomnia management
 - **Comparative positioning**: Evaluate whether midazolam offers any advantage over already-approved short-acting benzodiazepine hypnotics (e.g., triazolam) given near-identical mechanism and pharmacokinetics
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

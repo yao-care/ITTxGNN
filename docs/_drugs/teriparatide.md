@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Teriparatide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 197
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Teriparatide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ Multiple retrospective cohort studies and two independent systematic reviews wit
 - Define the sequential therapy strategy: teriparatide in PLO is typically followed by antiresorptive consolidation (bisphosphonate or denosumab); a clinical protocol for this transition should be specified
 - Confirm that Italian AIFA registration status for Forsteo (or biosimilars) is current and that the indication can be pursued as a labelled off-label use or through a dedicated expanded indication pathway
 - Assess the feasibility of a prospective observational registry or adaptive trial in PLO given the rarity of the condition (estimated incidence < 1:10,000 pregnancies)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

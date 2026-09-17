@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clomifene
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 55
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Clomifene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L1** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -127,10 +127,10 @@ Clomifene has the highest possible evidence level (L1) for anovulation, supporte
 - Evaluate the AIFA regulatory pathway: marketing authorization application vs. off-label/compassionate use framework
 - Develop a clinical safety monitoring protocol covering: ultrasound surveillance per stimulation cycle, multiple pregnancy counseling, OHSS risk stratification, and a maximum treatment duration policy (standard practice: ≤6 consecutive cycles)
 - Review current first-line positioning of Clomifene relative to letrozole in the Italian clinical context, given that recent Cochrane evidence (2022) and the PCOS international guidelines increasingly favour letrozole as preferred first-line for PCOS-related anovulation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

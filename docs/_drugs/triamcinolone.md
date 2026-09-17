@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Triamcinolone
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 207
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Triamcinolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -51,7 +51,7 @@ Evidence remains at the mechanistic inference stage (L4); no controlled studies 
 | Predicted New Indication | Alopecia Mucinosa (Follicular Mucinosis) |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Hold |
 
@@ -114,10 +114,10 @@ Although the TxGNN model scores Triamcinolone at 99.99% for Alopecia Mucinosa ba
 - Taiwan TFDA package insert data to establish key warnings, contraindications, and drug-drug interactions (currently a Blocking data gap)
 - Clarification of whether any primary or CTCL-associated Alopecia Mucinosa subtype responds differently to glucocorticoids versus retinoids (e.g., bexarotene), to narrow the target population
 - Cross-reference with Rank 8 finding (Idiopathic Steroid-Sensitive Nephrotic Syndrome, L3, "Proceed with Guardrails") — this indication shows a stronger mechanistic and evidence basis and may warrant a separate, higher-priority report
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

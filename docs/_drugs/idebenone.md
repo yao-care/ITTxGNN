@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Idebenone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Idebenone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -103,10 +103,10 @@ All 10 predicted indications for Idebenone sit at Evidence Level L5, supported e
 - Conduct a targeted preclinical literature search for Idebenone in oxidative-stress-driven liver injury models (e.g., heme/porphyrin-induced hepatotoxicity)
 - Consult a rare disease specialist or clinical pharmacologist to assess whether the antioxidant hypothesis merits a formal in vitro study in porphyria cell models
 - Re-evaluate the remaining 9 predicted indications to identify whether any disease sub-group (particularly the myopathy cluster: IMNM, antisynthetase syndrome, focal myositis) offers a stronger mechanistic and evidence basis for parallel development
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

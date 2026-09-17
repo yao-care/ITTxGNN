@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dienogest
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Dienogest
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -101,10 +101,10 @@ The Evidence Pack for Dienogest is missing all three elements required for a rep
 3. **Download and parse TFDA package insert PDF** — Extract warnings and contraindications to unblock the safety evaluation (Data Gap DG001, severity: Blocking)
 4. **Confirm original indication** — Query DrugBank or WHO INN records to populate `original_indications` (currently empty)
 5. **Re-run Evidence Pack generation** (target version: v5) — Once gaps above are resolved, resubmit for a complete L1–L5 evidence grading and Go/Hold/Proceed recommendation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

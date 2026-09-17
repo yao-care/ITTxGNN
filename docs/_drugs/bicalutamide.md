@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bicalutamide
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 37
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Bicalutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -129,10 +129,10 @@ Bicalutamide possesses a direct, biologically coherent mechanism (AR blockade) f
 - **Await Phase 2 results**: Monitor NCT03650894 (completion expected December 2026) for safety and efficacy readout before expanding to combination immunotherapy protocols
 - **Regulatory pathway analysis**: Conduct AIFA authorization feasibility assessment for Italy, including off-label use framework or formal repurposing application, given zero current registrations in the country
 - **Combination strategy planning**: For the emerging AR + ERK co-targeting approach (bicalutamide + ERK inhibitor; 2026 FOXC2/ferroptosis data), a dedicated preclinical package should be completed before initiating Phase 1 dose-escalation in humans
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

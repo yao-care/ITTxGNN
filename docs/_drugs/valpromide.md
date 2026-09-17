@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Valpromide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Valpromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -106,10 +106,10 @@ Evidence supporting Valpromide for insomnia consists of a single 1999 case serie
 - Prospective pharmacokinetic/pharmacodynamic studies characterising Valpromide's direct CNS sleep-promoting effects independently of valproic acid conversion
 - At minimum one Phase 2 exploratory clinical trial in primary insomnia patients (general adult population, not solely dementia cohorts) before upgrading the evidence level
 - Assessment of whether Italy/EU regulatory pathway is feasible given zero existing authorizations and no approved indication in any country
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

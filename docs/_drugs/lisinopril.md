@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lisinopril
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 137
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -34,7 +34,7 @@ indication_count: 10
 **分析重點：**
 - Drug: Lisinopril (DB00722)，ACE 抑制劑，原始 MOA 缺失
 - 最高排名預測：Posterolateral MI（Rank 1，L4，無臨床試驗/文獻）
-- 台灣未上市，授權數 0
+- 台灣Not marketed，授權數 0
 - 非抗腫瘤藥物，省略 Cytotoxicity 章節
 - 所有安全性資料均為 Data Gap，使用 fallback 文字
 
@@ -113,10 +113,10 @@ While the mechanistic basis for Lisinopril in posterolateral MI is well-grounded
 - Search for subgroup-level outcomes in existing large MI trials (GISSI-3, ISIS-4, CONSENSUS II) specifically reporting on posterolateral or circumflex-territory infarction cohorts
 - Clarify whether existing general post-MI indications under current prescribing guidelines already encompass this anatomical subtype, which may make a dedicated repurposing pathway unnecessary
 - Review whether Lisinopril is available or planned for Taiwan market entry, given current zero-license status
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

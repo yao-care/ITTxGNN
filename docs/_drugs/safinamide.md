@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Safinamide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Safinamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -99,10 +99,10 @@ There is no clinical trial or published literature evidence supporting Safinamid
 - **Preclinical evidence**: Studies demonstrating Safinamide activity in T-cell-mediated autoimmune encephalitis or seizure models relevant to RE
 - **Immunological mechanism assessment**: Evaluate whether MAO-B inhibition or sodium channel blockade meaningfully modulates the CD8+/anti-GluR3 immune axis in RE
 - **Comparative analysis**: Benchmark against current RE standard-of-care (rituximab, MMF) to assess whether adjunct benefit is plausible
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

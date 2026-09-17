@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Balsalazide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Balsalazide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -103,10 +103,10 @@ The TxGNN model assigns a high prediction score (99.75%), but this numerical con
 - **Bridging literature search:** Conduct a targeted PubMed search for mesalazine/5-ASA + gout or hyperuricemia to identify any indirect supporting evidence
 - **PK modelling:** Assess whether modified-release or systemic 5-ASA formulations could achieve therapeutic joint concentrations, as a prerequisite for any further hypothesis generation
 - **Consider alternative predictions:** Ranks 3 (Ankylosing Spondylitis), 4 (Rheumatoid Arthritis), 7 (Inflammatory Spondylopathy), and 10 (Anus Disease) offer stronger mechanistic rationales via the NF-κB/sulfasalazine analogy or colonic-distribution overlap, and may be more productive avenues for next-stage evaluation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

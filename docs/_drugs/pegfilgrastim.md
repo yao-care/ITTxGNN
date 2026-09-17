@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pegfilgrastim
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Pegfilgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -100,10 +100,10 @@ The TxGNN prediction is mechanistically traceable but rests entirely on computat
 - **Ophthalmology expert consultation**: Validate the EPC mobilization hypothesis and assess clinical plausibility with a retinal specialist
 - **Literature gap analysis**: Systematic search for G-CSF or filgrastim (non-PEGylated analog) studies in diabetic retinopathy models, which may provide indirect mechanistic evidence
 - If preclinical data supports net benefit, a Phase 1/2 proof-of-concept trial with rigorous retinal imaging endpoints (OCTA, fluorescein angiography) would be the minimum threshold for advancement
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

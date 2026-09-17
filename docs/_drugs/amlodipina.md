@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amlodipina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amlodipina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no predicted indication exists, therefore no related literature has be
 
 ## Italy Market Information
 
-Amlodipina has **0 authorizations** recorded in the evidence pack. The market status is listed as "未上市" (Not marketed).
+Amlodipina has **0 authorizations** recorded in the evidence pack. The market status is listed as "Not marketed" (Not marketed).
 
 > **Note:** This may reflect a data retrieval issue rather than actual market absence. Amlodipine is a globally widely-used antihypertensive drug and is expected to have authorizations in Italy under various brand names (e.g., Norvasc). It is recommended to verify the AIFA database query using alternative search terms (e.g., "AMLODIPINE", "AMLODIPINO", or brand names).
 
@@ -119,10 +119,10 @@ The evidence pack contains no TxGNN predictions for Amlodipina, and critical dat
 - **Re-query the Italian (AIFA) regulatory database** with alternative search terms to retrieve authorization records
 - **Obtain and parse the package insert** to populate safety fields (warnings, contraindications, DDI)
 - **Re-generate the evidence pack** once the above gaps are filled, then re-evaluate
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

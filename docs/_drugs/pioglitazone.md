@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pioglitazone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Pioglitazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -103,10 +103,10 @@ This candidate rests entirely on a model prediction (Evidence Level L5) with zer
 - Mechanistic clarification of whether any PPARγ-independent actions of pioglitazone (e.g., anti-inflammatory, mitochondrial effects) could offer any partial benefit in this disease context
 - Formal MOA and safety data retrieval: DrugBank API query for full pharmacology, and AIFA/package insert review for warnings, contraindications, and known drug interactions
 - Reassessment of lower-ranked TxGNN predictions (e.g., Ranks 5–8: lipodystrophy subtypes) which carry stronger mechanistic rationale via PPARγ's role as the master regulator of adipogenesis, and may represent more viable repurposing candidates for priority follow-up
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

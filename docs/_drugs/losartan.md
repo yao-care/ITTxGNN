@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Losartan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 141
-evidence_level: L5
+evidence_level: L4
 indication_count: 8
 ---
 
 # Losartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L4** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ Despite a highly compelling mechanistic link through RAAS/AT1R blockade, the evi
 - Retrieve complete MOA documentation from DrugBank (DB00678)
 - Commission a targeted systematic literature review for ARBs in malignant hypertension and renovascular hypertension subtypes to establish whether L3 evidence (observational studies, meta-analyses) already exists
 - If literature review supports advancement, design a prospective pilot study or registry in patients with malignant renovascular hypertension receiving AT1R blocker therapy
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

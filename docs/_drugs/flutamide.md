@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Flutamide
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 110
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Flutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -135,10 +135,10 @@ Multiple Phase 2–4 randomized controlled trials — including a direct Phase 4
 - **Comparative positioning analysis**: Evaluate Flutamide's clinical place relative to newer-generation antiandrogens (enzalutamide, apalutamide, darolutamide) that are already AIFA-authorized, particularly for CRPC and non-metastatic CRPC settings
 - **Mechanism of action documentation**: Retrieve complete DrugBank MOA data (DG002) to support the regulatory submission narrative
 - **Target population definition**: Define the specific patient subgroup offering the clearest benefit-risk advantage (e.g., CRPC following bicalutamide failure, neoadjuvant setting, or cost-sensitive markets where newer agents are inaccessible)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

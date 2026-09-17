@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Perampanel
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 162
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Perampanel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -115,10 +115,10 @@ Visual epilepsy is mechanistically the most directly aligned indication for pera
 - **Dedicated trial in photosensitive epilepsy:** The existing NCT03780907 was a general refractory seizure trial (n=18); a purpose-designed Phase 2 RCT specifically in visually-triggered/photosensitive epilepsy patients would elevate evidence to a more conclusive level
 - **DDI assessment with enzyme-inducing AEDs:** Enzyme-inducing antiepileptics (carbamazepine, phenytoin, oxcarbazepine) are known to reduce perampanel plasma levels significantly; formal DDI profiling is essential for co-prescribing scenarios
 - **Italy regulatory pathway mapping:** Since perampanel is not currently authorized in Italy, a full regulatory strategy — including whether to pursue a new indication extension or an off-label named-patient programme — must be defined before any clinical deployment
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

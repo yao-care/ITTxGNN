@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pitolisant
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 167
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Pitolisant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -115,10 +115,10 @@ Pitolisant's core pharmacological action — promoting wakefulness through hista
 - De novo clinical trial data specifically in insomnia populations; no such trials exist
 - Safety profiling for insomnia patients, who differ substantially from the narcolepsy population in sleep architecture, comorbidities, and concomitant medication use
 - Reassessment of TxGNN model performance on the sleep disorder subgraph to quantify the systematic false-positive rate for pharmacodynamically opposing indications
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

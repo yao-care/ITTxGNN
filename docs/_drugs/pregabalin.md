@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pregabalin
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 170
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Livello di evidenza: **L4** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ Although TxGNN assigns the highest prediction score (99.71%) to this indication,
 - Safety and warning data from the Taiwan TFDA package insert or global prescribing information (currently a blocking data gap)
 - A pilot prospective study or registry in patients with chronic tendinopathy screened for neuropathic pain features (e.g., S-LANSS or DN4 score ≥ threshold) before committing to an RCT
 - Consideration of whether **migraine disorder** (predicted indication #5, Evidence Level L2, 3 trials, 19 publications) should be prioritized as a more evidence-supported repurposing candidate for Pregabalin
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

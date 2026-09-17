@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ebastina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Ebastina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -90,10 +90,10 @@ L'Evidence Pack è incompleto: mancano predizioni TxGNN, dati MOA e informazioni
 2. **Estrarre i dati del foglio illustrativo TFDA/AIFA** — La query ha avuto successo (1 risultato) ma `safety.key_warnings` e `safety.contraindications` sono ancora `[Data Gap]`. Analizzare il PDF e popolare i campi di sicurezza.
 3. **Verificare il mapping nel grafo TxGNN** — Controllare se `EBASTINA` è presente nel knowledge graph sotto un nome alternativo (es. `Ebastine`, `LAS-90636`). Se assente, aggiungere il nodo farmaco e rieseguire la pipeline di predizione.
 4. **Rieseguire la pipeline** — Una volta risolti i gap sopra indicati, rigenerare l'Evidence Pack e richiedere un nuovo report.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

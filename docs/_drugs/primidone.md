@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Primidone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Primidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -103,10 +103,10 @@ Trigeminal nerve neoplasm is a proliferative disease with no mechanistic connect
 - Redirect analysis to mechanistically defensible indications within the same prediction set — **trigeminal neuralgia** (rank 9, L3 evidence, S2 Proceed with Guardrails), **audiogenic seizures** (rank 3, L4), **startle epilepsy** (rank 7, L4), and **reading seizures** (rank 8, L4) are more promising candidates
 - Retrieve Primidone's complete MOA data from DrugBank API to fill the current data gap (DG002) and enable proper mechanistic-link scoring across all predicted indications
 - Obtain and parse the TFDA/AIFA package insert (DG001) to complete the safety profile before any clinical feasibility assessment
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

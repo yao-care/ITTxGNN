@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tadalafil
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 191
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Tadalafil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -111,10 +111,10 @@ Rank 7 — **kyphoscoliotic heart disease** — is the only prediction with an i
 - **AIFA regulatory verification**: Confirm current Tadalafil authorization status in Italy (Cialis® and Adcirca® are expected to be listed; absence from current data is likely a retrieval error).
 - **Model audit**: Flag the tadalafil predictions as a test case for PDE5i false-positive filtering. The model appears to systematically confuse side-effect graph edges with therapeutic edges for this drug class. Consider adding a side-effect exclusion layer to the post-processing pipeline.
 - **Research question (rank 7 only)**: Design a retrospective case series or sub-group analysis examining PDE5 inhibitor use in patients with kyphoscoliosis-associated PAH, using existing PAH registry data.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

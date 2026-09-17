@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Entecavir
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 93
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Entecavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,7 +105,7 @@ In summary, the rank-1 TxGNN prediction for chronic HCV should be interpreted as
 
 ## Italy Market Information
 
-Entecavir is currently **not marketed in Italy** (AIFA database records 0 authorizations; `market_status: 未上市`). No product licenses exist to tabulate.
+Entecavir is currently **not marketed in Italy** (AIFA database records 0 authorizations; `market_status: Not marketed`). No product licenses exist to tabulate.
 
 Entecavir is commercially available in numerous other markets under brand names such as **Baraclude®** (Bristol-Myers Squibb), with approvals from the FDA (USA, 2005), EMA, PMDA (Japan), and other regulatory agencies for the treatment of chronic HBV infection in adults and children ≥2 years. Its absence from the Italian AIFA register may reflect a historical commercial or regulatory decision rather than a safety or efficacy barrier.
 
@@ -136,10 +136,10 @@ The rank-2 TxGNN prediction, **hepatitis B virus infection** (score 99.85%, evid
 - Confirm AIFA registration status and identify any historical EU withdrawal or non-submission rationale
 - If HCV repurposing is to be formally assessed despite the above, conduct in vitro HCV replicon assays to determine whether any NS5B inhibitory activity exists at clinically achievable entecavir concentrations before committing to clinical resources
 - Implement mandatory HIV co-infection screening protocol in any future Italian clinical use plan
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dabigatran
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Dabigatran
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -47,7 +47,7 @@ DABIGATRAN（DrugBank ID: DB14726）為本次藥物再利用掃描所識別之�
 | Predicted New Indication | 無可用預測（`predicted_indications` 陣列為空） |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — 無臨床試驗或文獻資料 |
-| Italy Market Status | Not marketed（查詢結果：未上市，授權數量 0） |
+| Italy Market Status | Not marketed（查詢結果：Not marketed，授權數量 0） |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -95,10 +95,10 @@ DABIGATRAN 的 Evidence Pack 存在多項關鍵資料缺口（原始適應症、
 - **\[High\] 解析仿單安全性資料**：下載並解析 TFDA 仿單 PDF（query\_log 顯示已成功查詢），提取警語、禁忌症，填入 `safety` 欄位
 - **\[Medium\] 確認 Italy（AIFA）上市狀態**：DABIGATRAN（Pradaxa®）在歐洲為已知上市藥物，建議直接查詢 AIFA 資料庫確認授權情況，更新 `taiwan_regulatory`（應調整為 `italy_regulatory`）欄位
 - **資料補齊後重新產生 Evidence Pack v5**，再進行完整的再利用評估流程
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

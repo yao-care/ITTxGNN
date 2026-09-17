@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Famciclovir
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 103
-evidence_level: L5
+evidence_level: L1
 indication_count: 9
 ---
 
 # Famciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Livello di evidenza: **L1** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -110,10 +110,10 @@ Famciclovir's efficacy in reducing PHN incidence and duration following herpes z
 - **Fill safety data gap (DG001):** Download and parse the TFDA/AIFA package insert PDF to extract key warnings, contraindications, and renal dosing adjustment guidelines (famciclovir requires CrCl-based dose reduction)
 - **Evaluate Italy registration pathway:** Assess mutual recognition from existing EU member state approvals or centralised EMA authorisation; confirm whether Famvir has a current EU marketing authorisation status
 - **Define treatment protocol guardrails:** Initiation within 72 hours of rash onset is critical for PHN prevention efficacy; immunocompromised patients, those aged >50, and those with ophthalmic involvement represent the highest-risk groups most likely to benefit and should be prioritised in any registry or protocol design
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

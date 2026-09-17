@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rimegepant
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 178
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Livello di evidenza: **L3** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -110,10 +110,10 @@ Rimegepant's non-vasoconstrictive CGRP receptor antagonism is mechanistically ap
 - AIFA marketing authorization application or compassionate use framework — rimegepant is approved in the EU (Vydura) but not yet registered in Italy
 - Review of the full Vydura SmPC for contraindications, hepatic warnings, and CYP3A4 interaction guidance before clinical use
 - Pharmacovigilance design tailored to the brainstem aura population, who may carry elevated cerebrovascular risk compared to typical migraine patients
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

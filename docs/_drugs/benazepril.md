@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Benazepril
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 34
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Benazepril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -101,10 +101,10 @@ Despite the theoretically compelling RAAS mechanistic link, there is zero clinic
 - **Patient subgroup stratification** — distinguish unilateral from bilateral RAS: ACE inhibitors may carry a more manageable benefit-risk profile in unilateral stenosis, which warrants a separate sub-analysis
 - **Class-effect literature review** — search evidence on related ACE inhibitors (e.g., Ramipril, Enalapril) in malignant renovascular hypertension; class-level evidence could indirectly inform a benazepril repurposing case
 - **Consider escalating Rank 2** — Malignant Hypertensive Renal Disease (same TxGNN score, L4, recommendation: Research Question) may represent a more tractable repurposing opportunity given available mechanistic support from the REIN trial with Ramipril; consider making this the primary research question
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

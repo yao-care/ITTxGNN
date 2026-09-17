@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tolcapone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tolcapone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -98,10 +98,10 @@ Despite a very high TxGNN score, this prediction has no mechanistic basis, no su
 - At minimum one preclinical study or case report before this indication can be elevated above L5
 - Italy/AIFA regulatory status verification if a market authorization pathway is to be explored
 - Comparative review of the higher-ranked mechanistically plausible predictions (e.g., Rank 10: juvenile-onset Parkinsonism; Rank 6: Lewy body dementia) which share the dopaminergic disease axis and carry stronger mechanistic rationale
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

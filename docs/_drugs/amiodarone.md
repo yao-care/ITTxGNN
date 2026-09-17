@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amiodarone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amiodarone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -45,7 +45,7 @@ Amiodarone is a well-known Class III antiarrhythmic agent widely used internatio
 | Predicted New Indication | — (No TxGNN prediction available) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (No prediction, no supporting studies) |
-| Taiwan (TFDA) Market Status | ❌ Not marketed (未上市) |
+| Taiwan (TFDA) Market Status | ❌ Not marketed (Not marketed) |
 | Number of TFDA Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -76,7 +76,7 @@ Currently no TxGNN-predicted indication is available; therefore, no targeted lit
 
 ## Taiwan (TFDA) Market Information
 
-Amiodarone currently has **no TFDA authorizations** in Taiwan. The TFDA query (2026-03-29) returned zero results. This drug is classified as **未上市 (not marketed)** in the Taiwan regulatory system.
+Amiodarone currently has **no TFDA authorizations** in Taiwan. The TFDA query (2026-03-29) returned zero results. This drug is classified as **Not marketed (not marketed)** in the Taiwan regulatory system.
 
 ---
 
@@ -123,10 +123,10 @@ The TxGNN model has not produced any predicted new indications for Amiodarone. A
 ---
 
 *This report was generated on 2026-04-03 based on Evidence Pack v4 (data cutoff: 2026-04-03). Results are for research reference only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

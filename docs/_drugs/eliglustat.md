@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eliglustat
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Eliglustat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -48,7 +48,7 @@ Eliglustat（品牌名：Cerdelga）是一種口服葡萄糖神經醯胺合酶�
 | 預測新適應症 | — 本次無 TxGNN 預測輸出 |
 | TxGNN 預測分數 | 無 |
 | 證據等級 | **L5**（模型尚無預測，無實際研究支撐） |
-| Taiwan 市場狀態 | ✗ 未上市（0 張許可證） |
+| Taiwan 市場狀態 | ✗ Not marketed（0 張許可證） |
 | 許可證數量 | 0 |
 | 建議決策 | **Hold** |
 
@@ -107,18 +107,18 @@ Eliglustat 目前在 Taiwan **尚未取得任何藥品許可證**，本次查詢
 **Decision: Hold**
 
 **Rationale:**
-本次 Evidence Pack 缺乏最關鍵的輸入——TxGNN 預測適應症清單為空，無法執行任何老藥新用評估；同時 MOA 資料缺失、Taiwan 尚未上市、安全性資料不完整，三項核心要素均不具備，不具備進入下一評估階段的條件。
+本次 Evidence Pack 缺乏最關鍵的輸入——TxGNN 預測適應症清單為空，無法執行任何老藥新用評估；同時 MOA 資料缺失、Taiwan 尚Not marketed、安全性資料不完整，三項核心要素均不具備，不具備進入下一評估階段的條件。
 
 **繼續推進需補齊以下資料：**
 
 1. **重新執行 TxGNN 預測**：確認 Eliglustat（DB09039）在知識圖譜中的節點與邊是否正確載入，並降低或調整預測分數門檻
-2. **補齊 MOA 資料**（DG002）：查詢 DrugBank API 取得 `mechanism_of_action`、`pharmacodynamics`、DrugBank categories
+2. **補齊 MOA 資料**（DG002）：Query the DrugBank API 取得 `mechanism_of_action`、`pharmacodynamics`、DrugBank categories
 3. **補齊仿單安全性資料**（DG001）：從 EMA SmPC 或 FDA label 解析 key_warnings、contraindications、DDI
 4. **評估 Taiwan 申請可行性**：確認 Eliglustat 是否有 IND 或孤兒藥申請計畫，或透過 EMA/FDA 互認機制加速取得 Taiwan 許可
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

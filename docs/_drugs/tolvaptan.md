@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 201
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L1** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -121,10 +121,10 @@ PKD3 (GANAB mutation) shares the core cAMP-driven, V2R-dependent cystogenesis me
 - **Liver monitoring programme**: Establish liver function testing (ALT, AST, bilirubin) at baseline and on the mandated schedule before any prescription is issued
 - **PKD3-specific registry enrolment**: Consider enrolling patients in existing ADPKD observational registries or European rare kidney disease networks (ERKNet) to prospectively collect PKD3-specific outcome and safety data
 - **Mechanism of action documentation**: Obtain complete DrugBank MOA data to support formal mechanistic justification in any regulatory or ethics submission
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

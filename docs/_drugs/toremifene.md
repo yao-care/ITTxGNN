@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Toremifene
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 203
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Toremifene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L4** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -114,10 +114,10 @@ The entire evidence base consists of a single in vitro preclinical study from 20
 - Assessment of QT prolongation risk in HIV patients, who frequently co-receive other QT-prolonging antiretrovirals
 - At least one exploratory Phase 1/2 clinical trial in HIV patients with active or at-risk cryptococcal infection
 - Italian regulatory pathway review for repurposed or off-label use in this indication
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

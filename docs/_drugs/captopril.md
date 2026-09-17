@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Captopril
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 45
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Captopril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L4** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -123,10 +123,10 @@ For the primary predicted indication (malignant hypertensive renal disease, rank
 - **MOA data retrieval**: Query DrugBank API for Captopril's full mechanism-of-action profile to strengthen the mechanistic linkage analysis
 - **Renal imaging requirement definition**: For any clinical pathway involving ACE inhibitors in malignant hypertension, bilateral renal artery stenosis screening (Doppler ultrasound or MR angiography) must be defined as a prerequisite safety criterion
 - **Rank #3 and #4 indications (pulmonary hypertension)**: Both are rated L5 with Hold recommendation and lack mechanistic support for Captopril — no further action recommended at this stage
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

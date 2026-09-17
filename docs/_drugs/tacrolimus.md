@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tacrolimus
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 190
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L1** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -116,10 +116,10 @@ A completed Phase 3 RCT and a Phase 4 post-marketing study directly support tacr
 - **Italy regulatory clarification**: The current registry shows 0 authorized products, but tacrolimus ointment (Protopic®) holds EMA approval for atopic dermatitis and may already be marketed in Italy — formal AIFA registration status should be confirmed before assuming a regulatory gap
 - **Long-term safety monitoring plan**: Design a post-use surveillance protocol specifically addressing *Tinea incognito* risk, local skin reactions, and systemic exposure in patients with large or compromised skin surface areas
 - **Fungal co-infection screening**: Given *Malassezia*'s dual role as the trigger of SD and a potential safety concern under immunomodulation, clinical protocols should include baseline fungal assessment prior to treatment initiation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

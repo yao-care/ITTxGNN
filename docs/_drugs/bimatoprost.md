@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bimatoprost
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 38
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Bimatoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -130,10 +130,10 @@ The FP receptor → Wnt/β-catenin → anagen extension mechanism is already cli
 - **Mechanism of action (MOA) data from DrugBank:** Formal MOA documentation needed to complete the mechanistic justification section and regulatory dossier.
 - **Taiwan regulatory pathway assessment:** With 0 current authorizations, a full market entry strategy (NDA filing, reference country recognition, or other pathway) must be planned before any clinical development in Taiwan begins.
 - **Formulation strategy decision:** Multiple topical formulations have been investigated (at least three in NCT01189279 alone); selecting the optimal formulation with sufficient scalp penetration is prerequisite for any Phase 3 design.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telmisartan
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Telmisartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ Despite a very high TxGNN score (99.98%), there is zero direct evidence — neit
 - **Hemodynamic risk assessment**: Evaluate whether blood pressure reduction in a normotensive vasospasm population is clinically appropriate or potentially harmful
 
 > **Note for reviewers:** While Prinzmetal angina ranks #1 by TxGNN score, the Evidence Pack also contains indications with substantially stronger clinical evidence. Notably, **intracerebral hemorrhage (rank #9)** is supported by a completed Phase 3 RCT (TRIDENT, NCT02699645, n=1,671) and achieves an L1 evidence rating with a "Proceed with Guardrails" recommendation. A separate report focused on that indication may be of greater immediate clinical value.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

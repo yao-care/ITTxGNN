@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gliquidone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Gliquidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -104,10 +104,10 @@ This prediction is based entirely on TxGNN knowledge-graph inference (Evidence L
 - **MOA documentation**: Complete the DrugBank API query (DG002 remediation) to obtain full mechanistic annotation, including known off-target effects
 - **Full safety profile**: Retrieve the AIFA/Italian package insert (DG001 remediation) to complete contraindication, warning, and DDI assessment before any clinical hypothesis can be evaluated
 - **Epidemiological feasibility check**: FSLS and classic SPS are both ultra-rare diseases; confirm whether patient population size would support even an investigator-initiated proof-of-concept study
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

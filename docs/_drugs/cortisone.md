@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cortisone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Cortisone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -88,10 +88,10 @@ The TxGNN pipeline produced no predicted indications for Cortisone, and critical
 - **Resolve DG002 (High):** Query the DrugBank API to retrieve the structured mechanism of action (MOA) for DB14681. This is required for mechanistic plausibility analysis.
 - **Investigate empty `predicted_indications`:** Confirm whether Cortisone was excluded from TxGNN scoring due to missing knowledge graph edges, or whether the model ran but produced no high-confidence predictions. If the former, supplement the KG with curated pharmacological data and re-run.
 - **Populate `original_indications`:** Source original approved indications from DrugBank or WHO INN records and add to the Evidence Pack before re-evaluation.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

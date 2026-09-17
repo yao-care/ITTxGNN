@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Travoprost
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Travoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -96,10 +96,10 @@ This prediction is entirely model-driven (L5) with zero clinical trials, observa
 - **Safety data**: Download and parse the package insert (DG001) to evaluate systemic absorption, cardiovascular warnings, and contraindications before any repurposing discussion
 - **Formulation feasibility**: Assessment of whether a systemic (intravenous or subcutaneous) Travoprost formulation could be developed at pharmacologically active doses, given that the current ophthalmic route delivers negligible systemic exposure
 - **Differential diagnosis of TxGNN signal**: Evaluate whether the high score reflects true calciphylaxis biology or is an artefact of knowledge-graph proximity to the broader vascular disease cluster (ranks 2–9 all predict vascular sub-conditions with similar scores, suggesting a class-level graph effect)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

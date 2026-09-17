@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rivaroxaban
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Rivaroxaban
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -110,10 +110,10 @@ The TxGNN model assigns a high score to this prediction, but the underlying evid
 - **Preclinical validation**: Identify or commission in vitro / in vivo studies testing Factor Xa inhibition in RA synovial models (PAR-2 pathway)
 - **Reassess prediction ranking**: Consider redirecting investigation resources toward **Rank 3 (HIV infectious disease, L3 evidence)**, which has one completed Phase 2 trial (NCT00786422) and a clinically grounded hypothesis around DOAC use in HIV patients on ART — a more tractable and evidence-supported repurposing question
 - **Italy regulatory clarification**: The Evidence Pack shows 0 Italy authorizations; verify whether Rivaroxaban (Xarelto®) is marketed in Italy under a different data source, as this may affect feasibility assessment
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dulaglutide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Dulaglutide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -104,10 +104,10 @@ The TxGNN pipeline returned no predicted indications because the evidence pack i
 - **Download and parse the EMA/AIFA package insert** (SmPC) to populate `key_warnings` and `contraindications` — required for the `DG001` blocking gap
 - **Re-run TxGNN pipeline** with complete drug feature inputs; given dulaglutide's broad receptor expression profile, meaningful predicted indications are expected
 - **Scope cardiovascular, metabolic, and neurological indication clusters** as priority review areas based on known GLP-1 receptor biology
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

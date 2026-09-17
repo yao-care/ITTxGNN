@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fremanezumab
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Fremanezumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ The TxGNN prediction score of 99.94% is strongly supported by a coherent mechani
 - **Package insert warnings and contraindications**: TFDA/AIFA label text was not retrieved (DG001); critical for safety assessment before any clinical recommendation
 - **Prospective registry or chart review**: A targeted chart review of migraine with brainstem aura patients treated with anti-CGRP mAbs (any class) would upgrade evidence from L3 toward L2 and reduce residual uncertainty
 - **Expert neurology consultation**: Given that migraine with brainstem aura patients are systematically excluded from pivotal RCTs (as noted for hemiplegic migraine), clinical neurologist review of the indirect evidence is advisable before formal indication expansion
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rufinamide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 183
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Rufinamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -101,10 +101,10 @@ Evidence is currently at L4 — no registered clinical trials or formally indexe
 - **Safety data:** Retrieve AIFA / EMA package insert warnings, contraindications, and drug-drug interactions for Rufinamide
 - **Italy regulatory pathway assessment:** Evaluate feasibility of off-label use or compassionate use authorization for FIRES in Italy, given Rufinamide is currently not marketed by AIFA
 - **Expert clinical consultation:** Engage pediatric neurology or epilepsy specialists to assess clinical feasibility and patient eligibility criteria for a pilot study or registry
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 
