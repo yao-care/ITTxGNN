@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Benralizumab
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Benralizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ The TxGNN model produces a high confidence score (99.34%), but this is entirely 
 - **MOA documentation**: DrugBank API query to complete mechanism of action profiling (currently flagged as high-severity data gap DG002)
 - **Safety profiling**: TFDA package insert full-text extraction to enable S1 safety screening (flagged as blocking data gap DG001)
 - **Regulatory pathway assessment**: Since benralizumab is not registered in Taiwan, a full regulatory feasibility review would be required before any clinical application
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

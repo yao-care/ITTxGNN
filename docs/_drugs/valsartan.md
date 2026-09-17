@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Valsartan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 210
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Valsartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Livello di evidenza: **L4** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ Although the mechanistic case for Valsartan in malignant hypertensive renal dise
 - **Safety data:** TFDA package insert or equivalent source to establish key warnings, contraindications, and renal-dose adjustment requirements (critical given the target population has severe renal impairment by definition)
 - **Trial design:** Define diagnostic criteria distinguishing malignant hypertensive renal disease from other hypertensive nephropathy subtypes, and identify measurable endpoints (eGFR trajectory, proteinuria reduction, renal survival at 12 months)
 - **Translational bridge:** Consider initiating a systematic literature review or meta-analysis on ARB use in hypertensive emergency with renal involvement as a lower-cost precursor to prospective trial planning
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

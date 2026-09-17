@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Teriflunomide
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 196
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Teriflunomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L1** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -127,10 +127,10 @@ Teriflunomide carries one of the strongest evidence bases in the RRMS pharmacolo
 - Establish a Taiwan-specific safety monitoring plan: liver function tests (baseline + monthly for 6 months), complete blood count, blood pressure, and a formal teratogenicity risk communication plan with accelerated elimination protocol documentation (cholestyramine/activated charcoal washout)
 - Assess whether the pediatric RRMS data (EU approval 2023; PMID 37382446) is relevant for any Taiwan pediatric MS population
 - Confirm Taiwan NHI formulary pathway and comparator landscape (interferon β, glatiramer acetate, fingolimod availability) to position teriflunomide within local treatment algorithms
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

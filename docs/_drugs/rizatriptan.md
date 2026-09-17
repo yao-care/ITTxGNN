@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rizatriptan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 181
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Livello di evidenza: **L3** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -106,10 +106,10 @@ The TxGNN prediction score is exceptionally high (99.94%) and the mechanistic ba
 - **Italy regulatory review** — retrieve the manufacturer's package insert to extract approved warnings, contraindications, and any existing guidance on brainstem aura
 - **Expert neurology consultation** to formally reconcile the historical triptan contraindication in brainstem aura with current IHS diagnostic and treatment guideline revisions
 - **Safety monitoring protocol** defining which brainstem aura presentations (e.g., concurrent motor weakness, severe ataxia) should remain excluded even if cautious use is adopted
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

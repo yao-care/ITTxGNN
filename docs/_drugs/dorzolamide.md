@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dorzolamide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Dorzolamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -93,10 +93,10 @@ The Evidence Pack is missing the TxGNN prediction output that defines the repurp
 - **Resolve DG002** — query DrugBank API to retrieve the full mechanism of action entry for DB00869
 - **Confirm market status** — verify whether Dorzolamide (e.g., Trusopt®) holds any active authorizations in the target market, as zero licences currently listed may reflect a query gap rather than true absence
 - **Re-generate Evidence Pack (v5)** once the above inputs are available and resubmit for full evaluation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

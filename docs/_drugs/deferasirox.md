@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deferasirox
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 66
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Deferasirox
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ The Evidence Pack for DEFERASIROX is structurally incomplete — there are no Tx
 - **[Critical]** Run TxGNN model to generate predicted indications for DEFERASIROX
 - Confirm regulatory status in target markets (Italy / Taiwan) and retrieve authorization records if any exist
 - Re-run Evidence Pack generation pipeline once all inputs are available to produce a complete v5 pack
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

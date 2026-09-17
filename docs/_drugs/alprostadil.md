@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alprostadil
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Alprostadil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -43,7 +43,7 @@ Alprostadil (prostaglandin E1) is a vasodilatory prostaglandin analogue known fo
 | Predicted New Indication | — (No TxGNN prediction available) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (No prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -93,10 +93,10 @@ No TxGNN-predicted indications have been generated for Alprostadil, and the drug
 - Resolve **DG002** (High): Retrieve detailed mechanism of action data from DrugBank
 - Investigate Taiwan market availability or identify alternative regulatory pathways if repurposing candidates are identified
 - Once predictions are available, conduct targeted PubMed and ClinicalTrials.gov evidence searches for the top-ranked indications
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

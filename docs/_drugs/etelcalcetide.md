@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Etelcalcetide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 96
-evidence_level: L5
+evidence_level: L3
 indication_count: 4
 ---
 
 # Etelcalcetide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L3** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -108,10 +108,10 @@ The TxGNN prediction is mechanistically grounded — etelcalcetide's suppression
 - **Dedicated hyperphosphatemia endpoint study**: Existing evidence uses hyperphosphatemia only as a secondary outcome; a prospective study with phosphate as the primary endpoint is needed to formally support this new indication.
 - **Combination strategy evaluation**: Assess the clinical value of etelcalcetide + phosphate binder regimens specifically designed to target hyperphosphatemia, rather than repurposing a SHPT dosing protocol.
 - **Specialist review**: Consult a nephrologist to evaluate clinical feasibility in Italy, particularly for CKD-MBD patients not yet on hemodialysis (current IV administration requires dialysis access).
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

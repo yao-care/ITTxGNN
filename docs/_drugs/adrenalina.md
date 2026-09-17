@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adrenalina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Adrenalina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -47,7 +47,7 @@ Adrenalina (Adrenaline/Epinephrine) is a well-known endogenous catecholamine wid
 | Predicted New Indication | **None** — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No predictions, no supporting studies) |
-| Taiwan Market Status | ❌ Not marketed (未上市) |
+| Taiwan Market Status | ❌ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -122,10 +122,10 @@ The evidence pack for ADRENALINA contains no TxGNN predictions and has multiple 
 - **Re-run TxGNN prediction**: With the correctly mapped drug entity in the knowledge graph
 - **Obtain safety data**: Download and parse the TFDA package insert once the correct product is identified
 - **Obtain MOA data**: Pull mechanism of action from DrugBank (adrenergic receptor agonist — α1, α2, β1, β2, β3)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

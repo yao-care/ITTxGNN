@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eplerenone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Eplerenone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -106,10 +106,10 @@ This prediction rests entirely on TxGNN model output (evidence level L5), with z
 - **PH subtype refinement:** Stratify "multifactorial" PH patients by RAAS biomarkers (plasma aldosterone, renin activity) to identify a subpopulation most likely to respond
 - **Preclinical data:** Identify any animal or in vitro studies of Eplerenone or selective MR antagonism in models of pulmonary hypertension
 - **Expert validation:** Convene pulmonary hypertension specialists and clinical pharmacologists to assess feasibility of a pilot investigator-initiated trial before committing to formal development
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

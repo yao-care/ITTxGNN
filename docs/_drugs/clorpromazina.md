@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clorpromazina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Clorpromazina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -74,10 +74,10 @@ The Evidence Pack for Clorpromazina is critically incomplete — without TxGNN p
 - **Safety information** — Package insert query returned 1 result on 2026-03-29 but `key_warnings` and `contraindications` remain unpopulated; parse and integrate
 - **Drug interaction data** — DDI query returned no results; consider querying an alternative DDI database (e.g., DrugBank interactions, Drugs.com)
 - **Italy market verification** — Confirm whether Clorpromazina holds any AIFA authorizations; 0 licenses is unexpected for a compound in this class
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

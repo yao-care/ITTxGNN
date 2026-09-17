@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colchicina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Colchicina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -81,10 +81,10 @@ The Evidence Pack contains no TxGNN predicted indications, no original indicatio
 - **\[Required\]** Re-run the TxGNN prediction pipeline with Colchicina as input to generate candidate repurposing indications; without predictions, no repurposing analysis can be initiated
 - **\[Advisory\]** Verify Italy/AIFA marketing authorization status via a product-name search (e.g., "Colchicina Houde" or other known brand names), as the current 0-license result may reflect a query scope limitation rather than true market absence
 - **\[Advisory\]** Confirm DrugBank ID and map to standardized INN to ensure consistent cross-source identification in future pipeline runs
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

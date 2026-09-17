@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bexarotene
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 36
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Bexarotene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -132,10 +132,10 @@ The TxGNN model's high score for bexarotene in PCBCL (99.44%) most likely reflec
 - **Safety data:** Retrieve AIFA/EMA-aligned package insert warnings and contraindications; Italy market entry would require a separate regulatory strategy
 - **Off-label case review:** Systematic search for any published case reports of bexarotene use specifically in PCBCL
 - **Regulatory pathway assessment:** If preclinical data is supportive, consider a Phase 1/2 pilot trial with PCBCL-specific eligibility criteria and tissue-level biomarker endpoints (RXR expression, BCL-2 status)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

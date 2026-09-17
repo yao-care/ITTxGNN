@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clopidogrel
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Clopidogrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ The Evidence Pack for Clopidogrel is incomplete at a foundational level — no T
 - **Parse package insert for safety data** — the TFDA package insert query returned 1 successful result; key warnings and contraindications should be extracted (Data Gap DG001)
 - **Verify Italy/AIFA market status** — Clopidogrel is a widely distributed antiplatelet agent; the current 0-license result likely reflects a data pipeline gap rather than actual market absence
 - **Populate original indications** — the `original_indications` field is empty and must be filled before any from/to repurposing framing is possible
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desloratadina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Desloratadina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -98,10 +98,10 @@ The Evidence Pack is structurally incomplete — no predicted indications exist 
 - **Parse TFDA / EMA package insert** — the insert query returned 1 result; extract warnings, contraindications, and approved indications into the Evidence Pack
 - **Verify INN spelling** — queries used `DESLORATADINA` (Italian/Spanish INN); confirm the TxGNN knowledge graph uses the same identifier, or remap to `desloratadine` (English INN / DrugBank standard)
 - **Re-query Italy authorizations** under alternate spellings or brand names to confirm true market absence
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

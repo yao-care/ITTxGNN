@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clobazam
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 54
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Clobazam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -101,10 +101,10 @@ The mechanistic link between clobazam's GABA-A modulation and FIRES pathophysiol
 - Prospective case series or pilot trial evaluating clobazam specifically as an enteral weaning agent in FIRES or NORSE (New-Onset Refractory Status Epilepticus)
 - Drug-drug interaction profile with agents commonly co-administered in FIRES ICU management (e.g., ketamine, phenobarbital, valproate, topiramate)
 - Clarification of regulatory pathway: clobazam is currently not marketed in Italy, so any clinical use would require compassionate use or off-label authorization
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diclofenac
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Diclofenac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -91,10 +91,10 @@ This Evidence Pack is critically incomplete — there are no TxGNN-predicted ind
 - **Re-query TFDA** using Chinese INN or common brand names (e.g., 待克菲納) to check for registered products
 - **Retrieve safety data** from TFDA package insert (query log shows `tfda_package_insert` result_status = "success" with result_count = 1 — this data was retrieved but not parsed into the Evidence Pack)
 - Once the above are resolved, re-generate Evidence Pack v5 and resubmit for evaluation
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

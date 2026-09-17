@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prasugrel
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Prasugrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -121,10 +121,10 @@ Despite a high TxGNN prediction score (99.88%), the mechanistic link between P2Y
 - **Safety review**: Full package insert analysis for bleeding risk and contraindication profile — essential before any PAH population study design
 - **Biomarker exploration**: Investigation of platelet activation markers in PAH cohorts to identify a patient subgroup most likely to benefit
 - **Comparison with existing PAH therapies**: Position prasugrel's potential mechanism relative to approved PAH agents (PDE5 inhibitors, ERA, prostacyclin analogues) to assess whether antiplatelet therapy offers additive value
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

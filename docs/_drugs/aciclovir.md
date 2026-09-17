@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aciclovir
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -43,7 +43,7 @@ Aciclovir is a widely used antiviral agent, primarily indicated for the treatmen
 | Predicted New Indication | — (No TxGNN prediction available) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (No prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -65,7 +65,7 @@ Currently no related literature available for a new predicted indication.
 
 ## Taiwan Market Information
 
-No TFDA marketing authorizations were found for Aciclovir. The drug is currently classified as **not marketed (未上市)** in Taiwan based on the TFDA query conducted on 2026-03-29.
+No TFDA marketing authorizations were found for Aciclovir. The drug is currently classified as **not marketed (Not marketed)** in Taiwan based on the TFDA query conducted on 2026-03-29.
 
 ## Safety Considerations
 
@@ -102,10 +102,10 @@ The evidence pack for Aciclovir is critically incomplete. There are **no TxGNN-p
 ---
 
 *This report was generated on 2026-04-03. Results are for research reference only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

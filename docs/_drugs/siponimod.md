@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Siponimod
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Siponimod
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -103,10 +103,10 @@ The TxGNN model assigns a high prediction score (99.68%) based on knowledge grap
 - **Full MOA data retrieval:** DrugBank API query to confirm receptor selectivity profile (S1P1 vs. S1P5 vs. other subtypes) and downstream signaling
 - **Regulatory safety review:** Download and parse the full EMA/AIFA package insert to identify whether pulmonary hypertension or cardiac conduction abnormalities are listed as contraindications
 - **Comparator landscape review:** Survey other S1P modulators (fingolimod, ozanimod) for any available PAH preclinical or clinical data to assess class-level plausibility
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Filgrastim
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 105
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Filgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -121,10 +121,10 @@ Although TxGNN assigns a very high prediction score (99.998%), the mechanistic c
 - **Italy market verification**: Cross-check current AIFA authorisation database directly, as EU-approved filgrastim biosimilars may already carry relevant haematological indications
 - **Safety profiling for target population**: Primary platelet release disorders often affect younger or paediatric patients; long-term G-CSF exposure risks (splenic rupture, bone pain, rare secondary AML in donors) must be assessed for this population specifically
 - **Regulatory pathway scoping**: If preclinical data support the hypothesis, map the route to an orphan disease designation given the rarity of primary platelet release disorders
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

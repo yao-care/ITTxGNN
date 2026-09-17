@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ramipril
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ramipril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ Despite a high TxGNN prediction score (99.93%), the evidence level is L5 — mod
 - Mechanistic validation of the RAAS-hypoxic vasoconstriction link in Group 3 PH specifically (distinct from Group 1 PAH, where ACE inhibitors may worsen outcomes)
 - Retrieval of Ramipril's full prescribing information (MOA, warnings, contraindications, DDI) from AIFA or EMA databases to enable a proper safety assessment
 - Prioritization of higher-ranked candidates from this same Evidence Pack with stronger mechanistic rationale: **cerebral artery occlusion** (Rank 10, L3, Proceed with Guardrails — direct Ramipril human study at PMID 8797135) and **malignant hypertensive renal disease** (Rank 4, L4, Research Question — supported by the REIN trial as lateral evidence) are both more actionable repurposing hypotheses
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

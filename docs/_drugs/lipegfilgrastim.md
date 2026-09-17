@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lipegfilgrastim
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Lipegfilgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -99,10 +99,10 @@ This is a model-only prediction (L5) with zero supporting clinical or preclinica
 - **Regulatory status review**: Confirm whether lipegfilgrastim holds EMA authorization (it does in Europe under brand name *Lonquex*) and evaluate whether Italian AIFA authorization exists, as this would affect the regulatory pathway for repurposing
 - **Safety profile in hematologic disorders**: Assess bleeding risk, thrombocytopenia risk, and hemostatic interaction in patients with platelet release disorders — a population where a growth factor intervention has no established safety baseline
 - **Alternative indications review**: Consider the other top-ranked predictions (e.g., diabetic retinopathy via EPC mobilization) to determine if any carry stronger mechanistic support before investing resources in this direction
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

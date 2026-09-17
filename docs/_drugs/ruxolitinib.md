@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ruxolitinib
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 184
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ruxolitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -128,10 +128,10 @@ Ruxolitinib's JAK1/2 inhibition directly and mechanistically targets the IFN-γ�
 - **Pursue Taiwan import or compassionate use registration** — given zero current authorizations, a regulatory pathway must be identified before clinical availability can be established
 - **Stratify evidence by HPS trigger type** — EBV-HLH has the most data; develop a Taiwan-specific subgroup analysis plan to identify the most responsive patient population
 - **Design a prospective pilot study or patient registry** — to generate Taiwan-population–specific safety and efficacy data in infection-associated HPS cases
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

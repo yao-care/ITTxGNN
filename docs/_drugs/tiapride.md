@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tiapride
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 198
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Tiapride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L2** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ Multiple historical controlled trials and a 2022 randomised head-to-head pilot s
 - Clarify regulatory status in the EU: tiapride holds authorisations in France and other EU member states — verify whether an AIFA recognition or MRP/DCP pathway is applicable
 - Commission or identify a well-powered Phase 2/3 RCT to upgrade evidence from pilot-level L2 to L1
 - Establish a targeted safety monitoring plan covering QTc prolongation risk (class effect for dopamine antagonists), extrapyramidal symptoms, hyperprolactinaemia, and sedation — particularly relevant in the migraine patient population
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

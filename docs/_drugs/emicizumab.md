@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Emicizumab
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 90
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Emicizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -90,10 +90,10 @@ The TxGNN pipeline generated zero repurposing predictions for Emicizumab, and th
 - **[DG002 — High]** Query DrugBank API for Emicizumab (DB13923) to obtain structured MOA, pharmacology, and toxicity data.
 - **Re-run TxGNN pipeline** after confirming that Emicizumab's knowledge graph node (entities, edges, drug–gene–disease links) is fully populated; then re-generate `predicted_indications`.
 - Once predictions are available, re-issue this Evidence Pack with `predicted_indications[0]` populated to trigger a full L1–L5 evidence review.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetazolamide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Acetazolamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -45,7 +45,7 @@ Acetazolamide (DrugBank: DB00819) is a well-known carbonic anhydrase inhibitor h
 | Predicted New Indication | None (no TxGNN predictions generated) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No predictions or supporting studies available |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -93,7 +93,7 @@ No TxGNN-predicted indications were generated for Acetazolamide, and there are b
 - Resolve **DG001** (Blocking): Obtain TFDA package insert data — download and parse the official package insert PDF to populate warnings and contraindications
 - Resolve **DG002** (High): Retrieve detailed MOA data from DrugBank API to enable mechanism-based analysis
 - Re-run the TxGNN prediction model with complete input data (MOA, indication, safety profile) to determine if any new indications reach the confidence threshold
-- Investigate whether Acetazolamide's absence from the Taiwan market (未上市) affects its eligibility for the repurposing pipeline, or whether international registration data can be used as a substitute
+- Investigate whether Acetazolamide's absence from the Taiwan market (Not marketed) affects its eligibility for the repurposing pipeline, or whether international registration data can be used as a substitute
 - If TxGNN predictions are generated after data gap resolution, update this report with clinical trial and literature evidence
 
 ---
@@ -101,10 +101,10 @@ No TxGNN-predicted indications were generated for Acetazolamide, and there are b
 *Report generated: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB00819-multi*
 
 *Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

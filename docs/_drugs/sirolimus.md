@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sirolimus
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 188
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -138,10 +138,10 @@ The completed Phase 2 trial NCT02821507 directly testing sirolimus in myxoid lip
 - Develop a patient selection protocol specifying liposarcoma histological subtype (myxoid vs. dedifferentiated vs. well-differentiated) and molecular profiling criteria (mTOR pathway activation status)
 - Design a sirolimus therapeutic drug monitoring (TDM) plan with target trough blood levels and safety stopping rules
 - Consult with a sarcoma specialist and clinical pharmacologist before initiating any off-label use
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

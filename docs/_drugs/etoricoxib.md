@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etoricoxib
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Etoricoxib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -105,10 +105,10 @@ The TxGNN model assigns a near-perfect score to migraine disorder, but the evide
 - **Focused literature search:** Conduct a dedicated PubMed search specifically combining "etoricoxib" AND "migraine" (rather than the broader susceptibility disease term used in this dataset) to confirm whether any direct evidence exists that was missed by the current query strategy.
 - **Reclassify primary candidate:** Consider elevating **headache disorder** (rank 9, Evidence Level L4, stage S1) as the primary repurposing candidate for near-term investigation, given it has direct published case evidence of etoricoxib efficacy and a clear mechanistic link via the indomethacin-COX-2 pathway.
 - **RCVS risk assessment:** Before any neurological indication is pursued, a formal benefit-risk assessment for RCVS (etoricoxib-induced vasoconstriction) in migraine patients — who already have elevated cerebrovascular sensitivity — is required.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

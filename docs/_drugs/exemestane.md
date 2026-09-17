@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exemestane
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Exemestane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -126,10 +126,10 @@ All 7 TxGNN-predicted indications sit at evidence level L4 or L5, with zero regi
 - **Prioritise thrombophilia and migraine disorder** (ranks 5–6) as the most mechanistically defensible candidates for hypothesis-generating preclinical studies — they should be reframed as formal research questions before any trial design
 - **Flag migraine with brainstem aura** (rank 7) as requiring a dedicated safety assessment prior to any investigation, given uncertain vascular effects of estrogen suppression on the brainstem vasculature
 - **Formally retire ranks 1–4** (antithrombin deficiency type 2, amenorrhea, factor 5 excess, heparin cofactor 2 deficiency) from active consideration unless new mechanistic evidence emerges; document rationale for exclusion in the pipeline registry
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

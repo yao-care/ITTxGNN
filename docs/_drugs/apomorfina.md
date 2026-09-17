@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apomorfina
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Apomorfina
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -43,7 +43,7 @@ Apomorfina (Apomorphine) is a dopamine agonist known internationally for the tre
 | Predicted New Indication | None (no TxGNN predictions available) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, insufficient data |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 
@@ -63,7 +63,7 @@ No TxGNN-predicted indications are available; therefore, no targeted literature 
 
 ## Taiwan Market Information
 
-Apomorfina currently holds **no valid marketing authorizations** from the TFDA. The drug is classified as **not marketed (未上市)** in Taiwan.
+Apomorfina currently holds **no valid marketing authorizations** from the TFDA. The drug is classified as **not marketed (Not marketed)** in Taiwan.
 
 ## Safety Considerations
 
@@ -82,10 +82,10 @@ The evidence pack for Apomorfina contains critical data gaps — no DrugBank ID 
 - **Obtain MOA data** — Query DrugBank API for detailed mechanism of action (dopamine D1/D2 agonism)
 - **Clarify regulatory scope** — If Taiwan marketing is not planned, consider whether another country's regulatory dataset (e.g., EMA, FDA) should be used as reference
 - **TFDA package insert analysis** — The query log indicates a successful package insert retrieval (query #4, result_count=1); this data should be parsed and integrated into the next version of the evidence pack
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

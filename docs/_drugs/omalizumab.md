@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omalizumab
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 157
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -119,10 +119,10 @@ The two identified clinical trials do not provide adequately powered, bronchitis
 - Commission or identify a properly powered prospective cohort study or Phase 2 RCT specifically in allergic/eosinophilic chronic bronchitis
 - Assess AIFA regulatory pathway for potential compassionate use or new indication filing
 - Conduct a health economics analysis to justify investment given the availability of established alternatives (inhaled corticosteroids, dupilumab in overlapping atopic phenotypes)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

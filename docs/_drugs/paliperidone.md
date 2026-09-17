@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paliperidone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 159
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Paliperidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -121,10 +121,10 @@ There is no credible mechanistic link between paliperidone's dopaminergic/seroto
 > | Decision Stage | **Research Question** — warrants further investigation |
 >
 > Paliperidone in treatment-refractory schizophrenia (TRS) occupies a defined clinical niche: as a second-line option after failure of ≥2 standard D2 antagonists, prior to or alongside clozapine escalation. A **dedicated evaluation report for this indication is recommended** as the priority output from this pipeline run.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

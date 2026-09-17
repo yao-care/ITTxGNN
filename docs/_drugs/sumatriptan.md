@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sumatriptan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 189
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Sumatriptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L3** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -117,10 +117,10 @@ Sumatriptan's mechanism of action maps directly onto the trigeminal and vascular
 - **Fill regulatory data gaps**: Obtain the full package insert (complete contraindications, drug interactions, warnings) before any prescribing guidance is issued
 - **Establish a safety monitoring plan**: Include cardiovascular and cerebrovascular monitoring, particularly for patients with vascular risk factors, given MBA's symptom overlap with TIA/stroke
 - **Clarify MOA data**: Retrieve formal DrugBank pharmacodynamic data to strengthen mechanistic documentation in the evidence package
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Irbesartan
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 126
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L4** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -107,10 +107,10 @@ No dedicated clinical trials or publications support Irbesartan specifically in 
 - **Italy SPC (Summary of Product Characteristics) review**: AIFA package insert warnings and contraindications (DG001 Blocking gap) required before any safety-level assessment can be completed
 - **Retrospective cohort evidence**: a search for real-world or registry data on ARB use outcomes specifically in unilateral renovascular hypertension as proof-of-concept before trial design
 - **Reconsideration of rank-2 indication** (malignant hypertensive renal disease) as the primary repurposing target, given its mechanistic overlap with the IDNT trial and a more actionable evidence-to-risk profile
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

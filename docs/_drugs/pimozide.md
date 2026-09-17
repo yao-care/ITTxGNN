@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pimozide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 164
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pimozide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -118,10 +118,10 @@ The evidence base for pimozide in trichotillomania currently sits at **L4** — 
 - **Safety data:** Full safety profile including QTc prolongation risk parameters, contraindications, and drug–drug interactions from the package insert (currently a Blocking data gap)
 - **Regulatory pathway:** TFDA registration assessment — pimozide has zero current Taiwan approvals; a regulatory pathway must be mapped before any local clinical application
 - **Comparator benchmarking:** Assessment against newer atypical antipsychotics (e.g., aripiprazole, risperidone) that share the D2 augmentation rationale but may offer a more favourable cardiac safety profile, to determine whether pimozide remains the best candidate in this mechanistic class
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

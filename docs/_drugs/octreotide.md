@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Octreotide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Octreotide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -106,10 +106,10 @@ This is a pure model-prediction signal (Evidence Level L5) with zero supporting 
 - **Safety profile:** Obtain complete prescribing information (warnings, contraindications, DDI) — currently all safety fields are data gaps
 - **Italy regulatory pathway:** Octreotide is not marketed in Italy; establishing regulatory status and formulation availability is a prerequisite for any clinical development program in this jurisdiction
 - **Disease feasibility check:** Vulvar IFK is an extremely rare benign condition — conduct epidemiological scoping to assess whether a clinical trial population is even achievable
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

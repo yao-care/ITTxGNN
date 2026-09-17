@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Brivaracetam
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 41
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -110,10 +110,10 @@ The TxGNN prediction for visual epilepsy is mechanistically plausible — BRV's 
 - **MOA documentation:** Complete the DrugBank API query (Data Gap DG002) to formally confirm SV2A mechanism and identify any secondary targets relevant to visual cortex excitability
 - **Safety data retrieval:** Obtain the package insert (Data Gap DG001) to complete warnings, contraindications, and DDI profiling before any clinical pathway is opened
 - **Prioritization note:** Consider advancing **Status Epilepticus** (Rank 2, L2 evidence, "Proceed with Guardrails") as the higher-priority repurposing candidate in parallel — a completed head-to-head IV BRV vs. IV levetiracetam trial in pediatric status epilepticus (NCT07163572, n=152) and a systematic review (PMID 32278203) provide substantially stronger evidence for that indication
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dutasteride
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Dutasteride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -102,10 +102,10 @@ The Evidence Pack for dutasteride is structurally incomplete — there are no Tx
 2. **[Blocking] Download and parse the TFDA package insert PDF** (DG001) — extract key warnings, contraindications, and dosing restrictions to enable S1 safety screening
 3. **[High] Retrieve MOA and DrugBank structured data** (DG002) — DrugBank query returned 1 result on 2026-03-29 but MOA was not populated; re-fetch and parse the pharmacodynamics field
 4. **[Medium] Confirm original approved indications** — `original_indications` array is empty; cross-reference TFDA, EMA, or FDA labeling to populate this field before proceeding to indication-mapping analysis
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

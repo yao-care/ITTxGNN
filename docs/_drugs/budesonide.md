@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Budesonide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 42
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Budesonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -120,10 +120,10 @@ The mechanistic basis for budesonide in atopic eczema is pharmacologically coher
 - **Novel delivery strategy**: If pursuing this indication, prioritize nanoparticle or encapsulated delivery systems (as explored in PMID 38275852) to reduce direct sensitizer exposure and improve local drug concentration
 - **Knowledge graph deduplication**: "Atopic eczema" (rank #1) and "Dermatitis, atopic" (rank #3) are the same clinical entity (ICD-10 L20); these two TxGNN predictions should be merged in the pipeline to avoid double-counting evidence and recommendations
 - **Evaluate rank #2 (Bronchitis) as higher-priority candidate**: The bronchitis indication carries L2 evidence with a meta-analysis and systematic review directly involving budesonide, and a "Proceed with Guardrails" recommendation — this may represent a more immediate repurposing opportunity
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

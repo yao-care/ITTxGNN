@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amisulpride
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amisulpride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Livello di evidenza: **L5** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -49,7 +49,7 @@ This report documents the current status and outlines the steps needed before a 
 | Predicted New Indication | **None** — TxGNN predictions not yet generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No predictions or supporting studies available) |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Authorizations (TFDA) | 0 |
 | Recommended Decision | **Hold** |
 
@@ -79,7 +79,7 @@ Currently no related literature is available — without a predicted indication,
 
 ## Taiwan Market Information
 
-Amisulpride currently holds **no TFDA marketing authorizations** in Taiwan (market status: 未上市). No license records are available.
+Amisulpride currently holds **no TFDA marketing authorizations** in Taiwan (market status: Not marketed). No license records are available.
 
 ---
 
@@ -112,10 +112,10 @@ No TxGNN predicted indications exist for Amisulpride in this Evidence Pack, and 
 ---
 
 *This report was generated on 2026-04-03. Data cutoff: 2026-04-03. Results are for research purposes only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

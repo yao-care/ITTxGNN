@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diltiazem
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Diltiazem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -100,10 +100,10 @@ The Evidence Pack for Diltiazem (DB00343) is structurally incomplete — the TxG
 - **[High]** Query DrugBank API (DB00343) to retrieve MOA, drug categories, and toxicity data
 - **[Medium]** Re-run evidence collection (ClinicalTrials.gov + PubMed) for the predicted indication once TxGNN output is available
 - **[Low]** Confirm whether DDI data should be sourced from an alternative database, as the current DDI query returned `not_found`
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

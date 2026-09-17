@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inclisiran
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Inclisiran
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -95,10 +95,10 @@ Two active Phase 3 trials directly test inclisiran in pediatric familial hyperch
 - **Monitor trial completion**: NCT06597006 and NCT06597019 both have estimated completion in April 2029; interim data releases should be tracked
 - **Italy market pathway**: Inclisiran (Leqvio®) holds EMA approval; AIFA registration and reimbursement classification (Fascia A/H) should be evaluated separately from this repurposing analysis
 - **Re-evaluate rank 1–7 predictions**: A secondary literature sweep specifically combining "inclisiran" + each disease term is recommended to confirm absence of any emerging signals, particularly for migraine (rank 4/6/7) given the theoretical PCSK9 neuronal expression hypothesis
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

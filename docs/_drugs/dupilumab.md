@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dupilumab
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 82
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Dupilumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -85,10 +85,10 @@ The TxGNN pipeline returned zero repurposing candidates for Dupilumab, most like
 - [ ] Confirm DrugBank MOA: Dupilumab is an IL-4Rα antagonist (blocks IL-4 and IL-13 signaling); this should be retrievable via DrugBank API (DB12159)
 - [ ] Verify Italy (AIFA) / Taiwan (TFDA) marketing authorisation status — both currently show 0 licences, which may be a data retrieval issue rather than true non-approval
 - [ ] Once predictions are available, re-generate Evidence Pack v5 and re-run this report
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

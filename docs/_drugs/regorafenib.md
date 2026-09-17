@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Regorafenib
-parent: 僅模型預測 (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 177
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 ---
 
 # Regorafenib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Livello di evidenza: **L2** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -131,10 +131,10 @@ Two completed, randomised Phase 2 trials (REGOSARC and SARC024) have directly in
 - **Patient selection criteria:** Identify biomarker-defined subgroups in dedifferentiated liposarcoma (e.g., high angiogenic gene signature, VEGFR/PDGFR expression) most likely to respond to multikinase inhibition
 - **Combination strategy exploration:** Evaluate regorafenib + immunotherapy (PD-1/L1) or CDK4/6 inhibition combinations in dedifferentiated liposarcoma, where single-agent VEGFR targeting showed insufficient activity
 - **Regulatory pathway:** Define a compassionate use or named-patient access strategy under AIFA provisions given absence of Italian registration
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

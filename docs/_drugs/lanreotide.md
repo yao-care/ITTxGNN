@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lanreotide
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 130
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Lanreotide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -106,10 +106,10 @@ This is a pure L5 prediction — no clinical trials, no published literature, an
 - **MOA data retrieval**: Full mechanism of action from DrugBank (DB06791) to confirm receptor subtype selectivity and downstream signaling relevant to hair biology
 - **Safety data retrieval**: Key warnings and contraindications from the TFDA/EMA package insert — currently unavailable and required before any clinical evaluation can proceed
 - **Italy regulatory pathway assessment**: Whether an orphan designation or compassionate use framework would be applicable given the rarity of the condition and current non-marketed status
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

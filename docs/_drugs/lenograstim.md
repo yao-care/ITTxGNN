@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lenograstim
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 133
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Lenograstim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Livello di evidenza: **L4** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -113,10 +113,10 @@ Despite a high TxGNN score (99.91%), the prediction reflects a knowledge-graph i
 - Verification of whether allo-HSCT has documented curative outcomes specifically in primary platelet release disorders, and whether lenograstim was the mobilization agent used in those cases
 - Preclinical (in vitro / murine) data assessing lenograstim's direct effect on megakaryocyte granule biogenesis
 - Italian regulatory pathway assessment for pursuing a new indication from a currently non-marketed starting point
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

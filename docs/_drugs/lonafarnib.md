@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lonafarnib
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Lonafarnib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -96,10 +96,10 @@ This prediction is supported by L5 evidence only — TxGNN model inference with 
 - Mechanistic analysis clarifying whether host FTase inhibition could plausibly influence mycobacterial intracellular survival or the granulomatous response in leprosy
 - Trace-back analysis of the TxGNN knowledge-graph pathways that generated this score, to assess whether any intermediate biological node provides a credible rationale
 - Full safety profile review including warnings, contraindications, and drug interaction data from the approved package insert before any further clinical consideration
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

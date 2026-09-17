@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Iloprost
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Iloprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -95,10 +95,10 @@ There is no clinical trial or published literature evidence for Iloprost in hypo
 - A credible mechanistic hypothesis connecting IP-receptor/prostacyclin signaling to CDSN protein expression, corneodesmosome stability, or hair follicle cycle regulation
 - At minimum, in vitro evidence (e.g., keratinocyte or follicle organoid assays) demonstrating any biological response to IP-receptor activation in CDSN-deficient models
 - Retrieval of the full Iloprost package insert (TFDA/EMA) to document MOA, warnings, and contraindications before any further safety assessment can proceed
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eftrenonacog Alfa
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 87
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Eftrenonacog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -75,10 +75,10 @@ The Evidence Pack for Eftrenonacog Alfa is critically incomplete — the `predic
 - **Resolve DG002 (High):** Query DrugBank API for MOA, pharmacodynamics, and drug categories to enable mechanistic analysis
 - **Populate `original_indications`:** Confirm regulatory indication text from AIFA/TFDA label (known clinically as Haemophilia B prophylaxis and on-demand treatment)
 - **Re-generate Evidence Pack v5** after all blocking data gaps are resolved before re-evaluating this candidate
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

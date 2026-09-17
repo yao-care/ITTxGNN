@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Niclosamide
-parent: 僅模型預測 (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 154
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Niclosamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -120,10 +120,10 @@ Despite compelling mechanistic hypotheses and direct animal-model evidence for h
 - **Focused preclinical program:** Establish a dose-response and tolerability profile specifically in validated cardiac disease models (pressure-overload HF, calcific aortic valve disease)
 - **Regulatory pathway scoping:** Assess feasibility of a new indication filing in Taiwan or other jurisdictions given current zero-license status
 - **Phase 1 study design:** Upon satisfactory preclinical safety, design a dedicated Phase 1 cardiac trial (suggested target: heart failure with reduced ejection fraction or calcific aortic valve disease) with biomarker endpoints (STAT3 activity, echocardiographic parameters, valve calcification scores)
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 

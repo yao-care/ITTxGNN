@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nabumetone
-parent: 僅模型預測 (L5)
+parent: Solo previsione del modello (L5)
 nav_order: 153
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Nabumetone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Indice
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Relazione di valutazione farmaceutica
 
 </div>
 
@@ -104,10 +104,10 @@ There is no clinical, mechanistic, or literature evidence supporting Nabumetone 
 - Review of whether the TxGNN graph edges connecting this drug-disease pair reflect genuine biological relationships or are artefacts of shared neighbourhood nodes (e.g., spondyloarthropathy or brachyolmia proximity)
 
 > **Note on higher-ranked candidates:** Rank 8 — *Spondyloarthropathy* (susceptibility) — presents a more biologically plausible repurposing target. NSAIDs including Nabumetone are first-line agents for ankylosing spondylitis and SpA as a drug class (L1 class-effect evidence), though Nabumetone-specific RCT data is absent (L4). If a repurposing programme is pursued, that indication warrants prioritisation over the top-ranked rare skeletal dysplasias.
-## Disclaimer
+## Avvertenza
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
+È necessaria una validazione clinica prima di qualsiasi applicazione clinica.
 
 ---
 
