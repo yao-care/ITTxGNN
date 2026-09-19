@@ -29,87 +29,88 @@ Livello di evidenza: **L1** | Indicazioni previste: **9**
 
 </div>
 
-# Famciclovir: From Herpes Zoster to Post-Infectious Neuralgia
+# Famciclovir: dall'herpes zoster alla neuralgia post-infettiva
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Famciclovir is an antiviral prodrug (of penciclovir) globally approved for the treatment of herpes zoster and herpes simplex infections, working by selectively suppressing viral DNA replication.
-The TxGNN model predicts it may be effective for **post-infectious neuralgia** (postherpetic neuralgia, PHN) — the neurological complication that directly follows herpes zoster nerve damage.
-The pipeline assigns this an **L1 evidence rating**, grounded in established Phase 3 RCT data (Tyring et al. 1995, NEJM); the **2 clinical trials** retrieved in the current evidence pack query are contextual only (not famciclovir-specific), and **0 publications** were captured in this retrieval.
+Famciclovir è un profarmaco antivirale (di penciclovir) approvato a livello mondiale per il trattamento dell'herpes zoster e delle infezioni da herpes simplex, agendo mediante la soppressione selettiva della replicazione del DNA virale.
+Il modello TxGNN predice che possa essere efficace per la **neuralgia post-infettiva** (neuralgia posterpetica, PHN) — la complicanza neurologica che segue direttamente il danno nervoso dell'herpes zoster.
+La pipeline assegna una **valutazione L1** delle prove, basata su dati RCT di Fase 3 consolidati (Tyring et al. 1995, NEJM); i **2 trial clinici** recuperati nella query del pacchetto di prove attuale sono solo contestuali (non specifici per famciclovir), e **0 pubblicazioni** sono state acquisite in questo recupero.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Herpes zoster and herpes simplex virus infections (global approvals; no Italy/AIFA registration on record) |
-| Predicted New Indication | Post-Infectious Neuralgia (Postherpetic Neuralgia) |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L1 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Infezioni da herpes zoster e virus herpes simplex (approvazioni globali; nessuna registrazione in Italia/AIFA registrata) |
+| Nuova indicazione prevista | Neuralgia post-infettiva (Neuralgia posterpetica) |
+| Punteggio di predizione TxGNN | 99.75% |
+| Livello di evidenza | L1 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Famciclovir is the oral prodrug of penciclovir, a nucleoside analogue that is selectively activated inside virally infected cells. Virus-encoded thymidine kinase (TK) performs the first phosphorylation step to produce penciclovir monophosphate; host cell kinases then complete the conversion to the active triphosphate form, which competitively inhibits the VZV/HSV DNA polymerase and causes chain termination upon incorporation into newly synthesised viral DNA. Because the activation pathway depends on viral TK, the drug accumulates preferentially in infected cells, giving it a wide therapeutic window. (Detailed MOA data from DrugBank was not available in this evidence pack and should be supplemented.)
+Famciclovir è il profarmaco orale di penciclovir, un analogo nucleosidico che viene selettivamente attivato all'interno delle cellule infettate da virus. La timidina chinasi (TK) codificata dal virus esegue il primo passo di fosforilazione per produrre monofosfato di penciclovir; le chinasi delle cellule ospiti completano quindi la conversione alla forma trifosfato attiva, che inibisce competitivamente la DNA polimerasi VZV/HSV e causa la terminazione della catena dopo l'incorporamento nel DNA virale neosintetizzato. Poiché il percorso di attivazione dipende dalla TK virale, il farmaco si accumula preferenzialmente nelle cellule infettate, conferendogli un ampio intervallo terapeutico. (I dati MOA dettagliati da DrugBank non erano disponibili in questo pacchetto di prove e dovrebbero essere integrati.)
 
-Postherpetic neuralgia is not a separate disease from herpes zoster — it is its direct neurological sequel. During acute VZV reactivation, inflammatory damage to dorsal root ganglion neurons and peripheral nerve fibres drives central sensitisation; if viral replication is not curtailed quickly, this damage becomes irreversible and pain persists long after the skin lesions have healed. Famciclovir administered within 72 hours of rash onset suppresses viral load at the neuronal level, shortens the acute phase, and reduces the degree of nerve injury that triggers PHN. The treatment pathway from antiviral to PHN prevention is therefore a direct mechanistic consequence, not a speculative repurposing leap.
+La neuralgia posterpetica non è una malattia separata dall'herpes zoster — è la sua diretta conseguenza neurologica. Durante la riattivazione acuta del VZV, il danno infiammatorio ai neuroni dei gangli delle radici dorsali e alle fibre nervose periferiche induce la sensibilizzazione centrale; se la replicazione virale non viene contrastata rapidamente, questo danno diventa irreversibile e il dolore persiste molto tempo dopo la guarigione delle lesioni cutanee. Famciclovir somministrato entro 72 ore dall'inizio dell'eruzione cutanea sopprime la carica virale a livello neuronale, accorcia la fase acuta e riduce il grado di danno nervoso che scatena la PHN. Il percorso terapeutico dall'antivirale alla prevenzione della PHN è quindi una conseguenza meccanicistica diretta, non un salto speculativo di riposizionamento.
 
-The landmark Tyring et al. 1995 (*NEJM*) Phase 3 RCT demonstrated this directly: famciclovir-treated herpes zoster patients experienced significantly faster resolution of PHN compared with placebo, establishing this effect as a primary endpoint in major regulatory submissions worldwide. The L1 rating in this report reflects that external evidence base. The two trials retrieved in the current evidence pack (testing oxycodone and nerve blocks for PHN, respectively) are contextual background and do not add direct famciclovir data — they are included here for transparency.
+Lo studio RCT di Fase 3 fondamentale di Tyring et al. 1995 (*NEJM*) lo ha dimostrato direttamente: i pazienti affetti da herpes zoster trattati con famciclovir hanno sperimentato una risoluzione significativamente più rapida della PHN rispetto al placebo, stabilendo questo effetto come endpoint primario nelle principali presentazioni normative in tutto il mondo. La valutazione L1 in questo rapporto riflette quella base di prove esterna. I due trial recuperati nell'attuale pacchetto di prove (testando rispettivamente ossicodone e blocchi nervosi per la PHN) sono background contestuale e non aggiungono dati diretti sul famciclovir — sono inclusi qui per trasparenza.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da trial clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero del trial | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
-| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | NA | Unknown | 140 | Tests early oxycodone during acute herpes zoster to prevent PHN — establishes clinical importance of the PHN prevention window; drug tested is not famciclovir |
-| [NCT06798662](https://clinicaltrials.gov/study/NCT06798662) | NA | Not Yet Recruiting | 120 | Evaluates multimodal nerve block (liposomal bupivacaine / ropivacaine) vs gabapentin dosing for herpes zoster pain — confirms active research interest in PHN prevention; not a famciclovir trial |
+| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | NA | Sconosciuto | 140 | Testa l'ossicodone precoce durante l'herpes zoster acuto per prevenire la PHN — stabilisce l'importanza clinica della finestra di prevenzione della PHN; il farmaco testato non è famciclovir |
+| [NCT06798662](https://clinicaltrials.gov/study/NCT06798662) | NA | Non ancora in fase di reclutamento | 120 | Valuta il blocco nervoso multimodale (bupivacaina / ropivacaina liposomiale) rispetto al dosaggio di gabapentin per il dolore dell'herpes zoster — conferma l'interesse attivo della ricerca nella prevenzione della PHN; non è un trial con famciclovir |
 
-> **Note:** Neither retrieved trial directly tests famciclovir for PHN. The foundational evidence (Tyring et al. 1995, *NEJM*; Degreef et al. 1994) is referenced in the repurposing rationale but was not captured in this evidence pack retrieval and should be formally incorporated.
-
----
-
-## Literature Evidence
-
-Currently no related literature available in the retrieved evidence pack for this specific indication query.
+> **Nota:** Nessuno dei trial recuperati testa direttamente il famciclovir per la PHN. Le prove fondamentali (Tyring et al. 1995, *NEJM*; Degreef et al. 1994) sono citate nella razionale di riposizionamento ma non sono state acquisite in questo recupero del pacchetto di prove e dovrebbero essere formalmente incorporate.
 
 ---
 
-## Italy Market Information
+## Evidenza dalla letteratura
 
-Famciclovir currently holds **no AIFA marketing authorisations** and is not marketed in Italy. No authorisation table can be presented.
-
-The drug is approved in multiple other jurisdictions under brand names including **Famvir** (GSK/Novartis), with indications covering herpes zoster, genital herpes, and herpes labialis. Entry into the Italian market would require an AIFA marketing authorisation application or a mutual recognition / decentralised procedure (MRP/DCP) leveraging existing approvals in other EU member states.
+Attualmente nessuna letteratura correlata disponibile nel pacchetto di prove recuperato per questa query di indicazione specifica.
 
 ---
 
-## Safety Considerations
+## Informazioni sul mercato italiano
 
-Please refer to the package insert for safety information.
+Famciclovir attualmente non possiede **alcuna autorizzazione di commercializzazione AIFA** e non è commercializzato in Italia. Nessuna tabella di autorizzazione può essere presentata.
 
-> Key warnings and contraindication data (DG001) were identified as a blocking data gap in this evidence pack. Package insert retrieval from TFDA/AIFA is required before any clinical safety evaluation can proceed. Drug interaction data was also not found in the DDI database query.
+Il farmaco è approvato in molteplici altre giurisdizioni con nomi commerciali tra cui **Famvir** (GSK/Novartis), con indicazioni che coprono herpes zoster, herpes genitale e herpes labiale. L'ingresso nel mercato italiano richiederebbe un'applicazione di autorizzazione di commercializzazione AIFA o una procedura di mutuo riconoscimento / decentralizzata (MRP/DCP) che sfrutta le approvazioni esistenti in altri stati membri dell'UE.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
 
-**Rationale:**
-Famciclovir's efficacy in reducing PHN incidence and duration following herpes zoster is backed by Phase 3 RCT evidence (Tyring et al. 1995, *NEJM*), and the mechanistic link between early antiviral VZV suppression and neuroprotection is biologically direct and well-established — making this the highest-confidence prediction in the full TxGNN candidate list.
+> I dati chiave su avvertenze e controindicazioni (DG001) sono stati identificati come un gap di dati bloccante in questo pacchetto di prove. Il recupero del foglio illustrativo da TFDA/AIFA è richiesto prima che qualsiasi valutazione clinica di sicurezza possa procedere. I dati di interazione farmacologica non sono stati trovati nemmeno nella query del database DDI.
 
-**To proceed, the following is needed:**
+---
 
-- **Complete the evidence pack:** Formally incorporate Tyring et al. 1995 (*NEJM*) and Degreef et al. 1994 into the clinical trial / literature tables to substantiate the L1 rating with retrievable citations
-- **Fill MOA data gap (DG002):** Query DrugBank API to obtain structured mechanism of action information for famciclovir
-- **Fill safety data gap (DG001):** Download and parse the TFDA/AIFA package insert PDF to extract key warnings, contraindications, and renal dosing adjustment guidelines (famciclovir requires CrCl-based dose reduction)
-- **Evaluate Italy registration pathway:** Assess mutual recognition from existing EU member state approvals or centralised EMA authorisation; confirm whether Famvir has a current EU marketing authorisation status
-- **Define treatment protocol guardrails:** Initiation within 72 hours of rash onset is critical for PHN prevention efficacy; immunocompromised patients, those aged >50, and those with ophthalmic involvement represent the highest-risk groups most likely to benefit and should be prioritised in any registry or protocol design
+## Conclusioni e fasi successive
+
+**Decisione: Procedere con cautele**
+
+**Razionale:**
+L'efficacia del famciclovir nel ridurre l'incidenza e la durata della PHN in seguito all'herpes zoster è supportata da prove RCT di Fase 3 (Tyring et al. 1995, *NEJM*), e il collegamento meccanicistico tra la soppressione antivirale precoce del VZV e la neuroprotezione è biologicamente diretto e ben consolidato — rendendo questa la previsione a più alta confidenza nell'intero elenco di candidati TxGNN.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Completare il pacchetto di prove:** Incorporare formalmente Tyring et al. 1995 (*NEJM*) e Degreef et al. 1994 nelle tabelle dei trial clinici / letteratura per supportare la valutazione L1 con citazioni recuperabili
+- **Colmare il gap di dati MOA (DG002):** Interrogare l'API DrugBank per ottenere informazioni strutturate sul meccanismo d'azione per famciclovir
+- **Colmare il gap di dati di sicurezza (DG001):** Scaricare e analizzare il PDF del foglio illustrativo TFDA/AIFA per estrarre avvertenze chiave, controindicazioni e linee guida di aggiustamento del dosaggio renale (famciclovir richiede riduzione del dosaggio basata su CrCl)
+- **Valutare il percorso di registrazione italiano:** Valutare il mutuo riconoscimento dalle approvazioni degli stati membri dell'UE esistenti o l'autorizzazione centralizzata dell'EMA; confermare se Famvir ha uno stato di autorizzazione di commercializzazione UE attuale
+- **Definire le cautele del protocollo di trattamento:** L'inizio entro 72 ore dall'inizio dell'eruzione cutanea è critico per l'efficacia della prevenzione della PHN; i pazienti immunocompromessi, quelli di età >50 anni e quelli con coinvolgimento oftalmico rappresentano i gruppi a più alto rischio più propensi a beneficiare e dovrebbero essere prioritizzati in qualsiasi progettazione di registro o protocollo
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

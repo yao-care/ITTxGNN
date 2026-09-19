@@ -29,97 +29,94 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 </div>
 
-The txgnn-pipeline skill confirms this is a standard TxGNN reporting workflow. Proceeding directly with report generation using the Evidence Pack.
+# Ketorolac: Da Dolore Acuto a Disturbi Cefalalgici
+
+## Sommario in Una Frase
+
+Ketorolac è un potente inibitore non selettivo COX-1/COX-2 FANS tradizionalmente utilizzato per la gestione a breve termine del dolore moderato-severo acuto.
+Il modello TxGNN prevede che possa essere efficace per i **Disturbi Cefalalgici** (compresi emicrania e cefalea di tipo tensivo),
+con **8 studi clinici completati** e **19 pubblicazioni** attualmente a supporto di questa direzione.
 
 ---
 
-# Ketorolac: From Acute Pain to Headache Disorder
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Ketorolac is a potent non-selective COX-1/COX-2 inhibitor NSAID traditionally used for short-term management of moderate-to-severe acute pain.
-The TxGNN model predicts it may be effective for **Headache Disorder** (encompassing migraine and tension-type headache),
-with **8 completed clinical trials** and **19 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Acute pain management (short-term NSAID therapy) |
-| Predicted New Indication | Headache Disorder |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L1 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originale | Gestione del dolore acuto (terapia FANS a breve termine) |
+| Indicazione Nuova Prevista | Disturbi Cefalalgici |
+| Punteggio di Previsione TxGNN | 99.43% |
+| Livello di Evidenza | L1 |
+| Stato del Mercato Italiano | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Ketorolac is a non-selective COX-1/COX-2 inhibitor that blocks the synthesis of prostaglandins (PGE2, PGI2). By inhibiting prostaglandin production, it suppresses neurogenic inflammation and pain sensitization in the trigeminovascular system — the central pathway implicated in migraine pathophysiology. During an acute migraine attack, cortical spreading depression (CSD) triggers a surge of prostaglandin release; ketorolac's mechanism directly intervenes in this cascade to provide analgesic relief.
+Ketorolac è un inibitore non selettivo COX-1/COX-2 che blocca la sintesi delle prostaglandine (PGE2, PGI2). Inibendo la produzione di prostaglandine, sopprime l'infiammazione neurogenica e la sensibilizzazione al dolore nel sistema trigeminovascolare — il percorso centrale implicato nella fisiopatologia dell'emicrania. Durante un attacco acuto di emicrania, la depressione della propagazione corticale (CSD) innesca un'ondata di rilascio di prostaglandine; il meccanismo d'azione di ketorolac interviene direttamente in questa cascata per fornire sollievo analgesico.
 
-Headache disorders — particularly migraine and tension-type headache — involve significant inflammatory signaling at the level of the trigeminal nucleus and dural vasculature. This mechanistic overlap is well-established: ketorolac has been used in emergency department (ED) migraine protocols for over three decades, and both the American Headache Society (AHS) and the Canadian Headache Society have included it in evidence-based guidelines for parenteral acute migraine treatment.
+I disturbi cefalalgici — in particolare emicrania e cefalea di tipo tensivo — comportano una significativa segnalazione infiammatoria a livello del nucleo trigemino e della dura madre. Questo sovrapporsi meccanicistico è ben consolidato: ketorolac è stato utilizzato nei protocolli per l'emicrania in pronto soccorso (PS) per oltre tre decenni, e sia l'American Headache Society (AHS) che la Canadian Headache Society lo hanno incluso nelle linee guida basate su evidenze per il trattamento acuto dell'emicrania parenterale.
 
-The TxGNN model's prediction therefore reflects validated clinical practice rather than speculative repurposing. The drug's existing analgesic profile generalizes naturally to the prostaglandin-mediated pain pathways in headache disorders, with the intranasal formulation further extending its utility beyond the intravenous/intramuscular routes used in acute care settings.
+La previsione del modello TxGNN riflette quindi la pratica clinica validata piuttosto che il reimpiego speculativo. Il profilo analgesico esistente del farmaco si generalizza naturalmente ai percorsi del dolore mediati dalle prostaglandine nei disturbi cefalalgici, con la formulazione intranasale che estende ulteriormente la sua utilità oltre alle vie endovenosa/intramuscolare utilizzate negli ambienti di assistenza acuta.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza dagli Studi Clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di Studio | Fase | Stato | Arruolamento | Risultati Principali |
 |-------------|-------|--------|------------|--------------|
-| [NCT01807234](https://clinicaltrials.gov/study/NCT01807234) | Phase 4 | Completed | 72 | Ketorolac nasal spray vs. sumatriptan nasal spray vs. placebo for acute migraine — head-to-head efficacy on pain, nausea, and allodynia |
-| [NCT00483717](https://clinicaltrials.gov/study/NCT00483717) | Phase 2 | Completed | 173 | Double-blind RCT of intranasal ketorolac tromethamine vs. placebo for acute migraine — largest early trial assessing safety, tolerability, and analgesic efficacy |
-| [NCT02358681](https://clinicaltrials.gov/study/NCT02358681) | Phase 3 | Completed | 59 | Intranasal vs. intravenous ketorolac for pediatric migraine — non-inferiority RCT demonstrating intranasal route as a needle-free alternative |
-| [NCT01267864](https://clinicaltrials.gov/study/NCT01267864) | Phase 4 | Completed | 330 | Three-arm RCT: IV ketorolac vs. IV valproate vs. IV metoclopramide for acute migraine in the ED |
-| [NCT01011673](https://clinicaltrials.gov/study/NCT01011673) | Phase 4 | Completed | 123 | Ketorolac monotherapy vs. metoclopramide/diphenhydramine for acute tension-type headache in the ED |
-| [NCT01596166](https://clinicaltrials.gov/study/NCT01596166) | Phase 4 | Completed | 56 | IV ketorolac + metoclopramide combination vs. monotherapy for pediatric migraine in the emergency department |
-| [NCT03081416](https://clinicaltrials.gov/study/NCT03081416) | Phase 3 | Completed | 80 | THINK Trial: intranasal ketamine vs. standard care (ketorolac) for primary headache syndromes in the ED |
-| [NCT05102591](https://clinicaltrials.gov/study/NCT05102591) | Phase 3 | Completed | 22 | Pilot RCT of neuromodulation device vs. standard IV protocol (neuroleptic + ketorolac) for acute pediatric migraine |
-| [NCT05641363](https://clinicaltrials.gov/study/NCT05641363) | Phase 3 | Completed | 171 | Three-dose comparison of ketorolac in pediatric acute pain in the ED — includes headache presentations |
-| [NCT04793490](https://clinicaltrials.gov/study/NCT04793490) | N/A | Completed | 40 | Sphenopalatine ganglion block for post-dural puncture headache — ketorolac as part of multimodal analgesic regimen |
+| [NCT01807234](https://clinicaltrials.gov/study/NCT01807234) | Fase 4 | Completato | 72 | Spray nasale di ketorolac vs. spray nasale di sumatriptano vs. placebo per emicrania acuta — efficacia testa a testa su dolore, nausea e allodinia |
+| [NCT00483717](https://clinicaltrials.gov/study/NCT00483717) | Fase 2 | Completato | 173 | Studio RCT in doppio cieco di ketorolac tromethamine intranasale vs. placebo per emicrania acuta — studio iniziale più ampio che valuta sicurezza, tollerabilità ed efficacia analgesica |
+| [NCT02358681](https://clinicaltrials.gov/study/NCT02358681) | Fase 3 | Completato | 59 | Ketorolac intranasale vs. endovenoso per emicrania pediatrica — studio RCT di non inferiorità che dimostra la via intranasale come alternativa senza ago |
+| [NCT01267864](https://clinicaltrials.gov/study/NCT01267864) | Fase 4 | Completato | 330 | Studio RCT a tre bracci: ketorolac EV vs. valproato EV vs. metoclopramide EV per emicrania acuta in PS |
+| [NCT01011673](https://clinicaltrials.gov/study/NCT01011673) | Fase 4 | Completato | 123 | Ketorolac in monoterapia vs. metoclopramide/difenidramina per cefalea di tipo tensivo acuta in PS |
+| [NCT01596166](https://clinicaltrials.gov/study/NCT01596166) | Fase 4 | Completato | 56 | Combinazione ketorolac EV + metoclopramide vs. monoterapia per emicrania pediatrica in pronto soccorso |
+| [NCT03081416](https://clinicaltrials.gov/study/NCT03081416) | Fase 3 | Completato | 80 | Studio THINK: ketamina intranasale vs. trattamento standard (ketorolac) per sindromi cefalalgiche primarie in PS |
+| [NCT05102591](https://clinicaltrials.gov/study/NCT05102591) | Fase 3 | Completato | 22 | Studio pilota RCT di dispositivo di neuromodulazione vs. protocollo EV standard (neurolettico + ketorolac) per emicrania acuta pediatrica |
+| [NCT05641363](https://clinicaltrials.gov/study/NCT05641363) | Fase 3 | Completato | 171 | Confronto a tre dosi di ketorolac nel dolore acuto pediatrico in PS — include presentazioni cefalalgiche |
+| [NCT04793490](https://clinicaltrials.gov/study/NCT04793490) | N/A | Completato | 40 | Blocco del ganglio sfeno-palatino per cefalea post-puntura durale — ketorolac come parte del regime analgesico multimodale |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati Principali |
 |------|------|------|---------|--------------|
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Clinical Practice Guideline | Headache | 2025 AHS guideline update on parenteral pharmacotherapies for acute migraine in the ED — updated evidence assessment including ketorolac |
-| [39674934](https://pubmed.ncbi.nlm.nih.gov/39674934/) | 2025 | Systematic Review | Annals of Emergency Medicine | Bayesian network meta-analysis of ED pharmacotherapies for migraine — comparative effectiveness and safety ranking |
-| [37849443](https://pubmed.ncbi.nlm.nih.gov/37849443/) | 2024 | Systematic Review | Adv Clin Exp Med | Updated systematic review and meta-analysis comparing IV ketorolac vs. metoclopramide for adult migraine |
-| [35138658](https://pubmed.ncbi.nlm.nih.gov/35138658/) | 2022 | Meta-Analysis | Academic Emergency Medicine | Systematic review and meta-analysis confirming efficacy of parenteral ketorolac in acute migraine treatment |
-| [35670115](https://pubmed.ncbi.nlm.nih.gov/35670115/) | 2022 | RCT | Headache | IV metoclopramide monotherapy vs. ketorolac + metoclopramide combination in children with acute ED migraine |
-| [37291500](https://pubmed.ncbi.nlm.nih.gov/37291300/) | 2023 | Systematic Review | BMC Neurology | Network meta-analysis comparing metoclopramide with other antimigraine drugs including ketorolac across RCTs |
-| [30783794](https://pubmed.ncbi.nlm.nih.gov/30783794/) | 2019 | Comparative RCT | Neurological Sciences | Prospective double-blind RCT: dexamethasone, metoclopramide, ketorolac, and chlorpromazine head-to-head for migraine pain relief and recurrence prevention |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Evidence-Based Guideline | Headache | AHS evidence assessment of acute migraine pharmacotherapies — foundational guideline with ketorolac evidence grading |
-| [9484382](https://pubmed.ncbi.nlm.nih.gov/9484382/) | 1998 | RCT | Neurology | Controlled trial of IM ketorolac vs. meperidine + promethazine vs. placebo in acute tension-type headache — ketorolac significantly effective |
-| [1514724](https://pubmed.ncbi.nlm.nih.gov/1514724/) | 1992 | RCT | Annals of Emergency Medicine | Early landmark RCT establishing IM ketorolac vs. meperidine + hydroxyzine for acute migraine in the ED |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Linea Guida di Pratica Clinica | Headache | Aggiornamento 2025 della linea guida AHS sulle farmacoterapie parenterali per emicrania acuta in PS — valutazione delle evidenze aggiornata includendo ketorolac |
+| [39674934](https://pubmed.ncbi.nlm.nih.gov/39674934/) | 2025 | Revisione Sistematica | Annals of Emergency Medicine | Meta-analisi della rete bayesiana di farmacoterapie in PS per emicrania — ranking di efficacia comparativa e sicurezza |
+| [37849443](https://pubmed.ncbi.nlm.nih.gov/37849443/) | 2024 | Revisione Sistematica | Adv Clin Exp Med | Revisione sistematica aggiornata e meta-analisi che confrontano ketorolac EV vs. metoclopramide per emicrania negli adulti |
+| [35138658](https://pubmed.ncbi.nlm.nih.gov/35138658/) | 2022 | Meta-Analisi | Academic Emergency Medicine | Revisione sistematica e meta-analisi che confermano l'efficacia di ketorolac parenterale nel trattamento dell'emicrania acuta |
+| [35670115](https://pubmed.ncbi.nlm.nih.gov/35670115/) | 2022 | Studio RCT | Headache | Monoterapia EV con metoclopramide vs. combinazione ketorolac + metoclopramide nei bambini con emicrania acuta in PS |
+| [37291500](https://pubmed.ncbi.nlm.nih.gov/37291300/) | 2023 | Revisione Sistematica | BMC Neurology | Meta-analisi di rete che confronta metoclopramide con altri farmaci antimigranosi incluso ketorolac negli studi RCT |
+| [30783794](https://pubmed.ncbi.nlm.nih.gov/30783794/) | 2019 | Studio RCT Comparativo | Neurological Sciences | Studio RCT prospettico in doppio cieco: desametasone, metoclopramide, ketorolac e clorpromazina testa a testa per sollievo dal dolore dell'emicrania e prevenzione della recidiva |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Linea Guida Basata su Evidenze | Headache | Valutazione delle evidenze AHS di farmacoterapie per emicrania acuta — linea guida fondazionale con gradazione delle evidenze per ketorolac |
+| [9484382](https://pubmed.ncbi.nlm.nih.gov/9484382/) | 1998 | Studio RCT | Neurology | Studio controllato di ketorolac IM vs. meperidina + prometazina vs. placebo in cefalea di tipo tensivo acuta — ketorolac significativamente efficace |
+| [1514724](https://pubmed.ncbi.nlm.nih.gov/1514724/) | 1992 | Studio RCT | Annals of Emergency Medicine | Studio RCT landmark iniziale che stabilisce ketorolac IM vs. meperidina + idrossizina per emicrania acuta in PS |
 
 ---
 
-## Safety Considerations
+## Considerazioni di Sicurezza
 
-Please refer to the package insert for safety information.
+Fare riferimento al foglio illustrativo per le informazioni di sicurezza.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Procedere con Cautele**
 
-**Rationale:**
-Ketorolac has robust, guideline-endorsed evidence across multiple completed Phase 2–4 RCTs and systematic reviews confirming its efficacy for acute headache disorders. The TxGNN score of 99.43% aligns closely with decades of clinical use — this is not speculative repurposing but rather formal validation of an established off-label practice now supported by Level 1 evidence.
+**Razionale:**
+Ketorolac ha evidenze solide e approvate dalle linee guida su molteplici studi RCT Phase 2–4 completati e revisioni sistematiche che confermano la sua efficacia per i disturbi cefalalgici acuti. Il punteggio TxGNN di 99.43% si allinea strettamente con decenni di uso clinico — questo non è un reimpiego speculativo ma piuttosto la validazione formale di una pratica consolidata off-label ora supportata da evidenza L1.
 
-**To proceed, the following is needed:**
-- Obtain full package insert safety data (key warnings, contraindications, DDIs) — currently a blocking data gap that prevents formal safety screening
-- Confirm the Italy market authorization pathway — ketorolac is not currently approved or marketed in Italy; a new MAA (Marketing Authorization Application) or compassionate use pathway would need to be explored with AIFA
-- Define target administration route for the new indication (IV/IM in acute/ED settings vs. intranasal for outpatient use) — route selection substantially affects the regulatory strategy
-- Conduct a structured safety review for repeat/preventive use in headache populations, given ketorolac's known short-term use restriction (≤5 days) and GI/renal risk profile
-- Clarify pediatric vs. adult dosing distinctions, as a significant proportion of the supporting trials were conducted in pediatric populations
+**Per procedere, è necessario quanto segue:**
+- Ottenere i dati completi di sicurezza dal foglio illustrativo (avvertenze chiave, controindicazioni, interazioni farmacologiche) — attualmente un gap nei dati che blocca lo screening di sicurezza formale
+- Confermare il percorso di autorizzazione del mercato italiano — ketorolac non è attualmente approvato o commercializzato in Italia; una nuova MAA (Domanda di Autorizzazione all'Immissione in Commercio) o il percorso di uso compassionevole dovrebbe essere esplorato con l'AIFA
+- Definire la via di somministrazione target per la nuova indicazione (EV/IM in ambienti acuti/PS vs. intranasale per uso ambulatoriale) — la selezione della via influenza sostanzialmente la strategia normativa
+- Condurre una revisione strutturata della sicurezza per l'uso ripetuto/preventivo nelle popolazioni cefalalgiche, dato il noto limite di uso a breve termine di ketorolac (≤5 giorni) e il profilo di rischio GI/renale
+- Chiarire le distinzioni di dosaggio pediatrico vs. adulto, poiché una proporzione significativa degli studi di supporto è stata condotta in popolazioni pediatriche
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

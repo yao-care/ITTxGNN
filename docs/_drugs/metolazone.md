@@ -29,75 +29,70 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-以下為根據 Evidence Pack 產生的完整評估報告：
+# Metolazone: dall'Ipertensione e dall'Edema alla Malattia Renale Ipertensiva Maligna
+
+## Sintesi di una Frase
+
+Metolazone è un diuretico simil-tiazidico tradizionalmente utilizzato per gestire l'ipertensione e l'edema, incluso il sovraccarico di volume resistente ai diuretici in combinazione con diuretici dell'ansa. Il modello TxGNN predice che potrebbe avere un ruolo nella **Malattia Renale Ipertensiva Maligna**, tuttavia attualmente non ci sono **0 studi clinici** e **0 pubblicazioni specifiche della malattia** che supportino questa direzione — la previsione si basa interamente sulla modellazione del grafo conoscitivo.
 
 ---
 
-# Metolazone: From Hypertension and Oedema to Malignant Hypertensive Renal Disease
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Metolazone is a thiazide-like diuretic traditionally used to manage hypertension and oedema, including diuretic-resistant volume overload in combination with loop diuretics.
-The TxGNN model predicts it may have a role in **Malignant Hypertensive Renal Disease**,
-however there are currently **0 clinical trials** and **0 disease-specific publications** supporting this direction — the prediction rests entirely on knowledge-graph modelling.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension and oedema (thiazide-like diuretic by pharmacological class; no Italian authorisation record available) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Ipertensione e edema (diuretico simil-tiazidico per classe farmacologica; nessun record di autorizzazione italiana disponibile) |
+| Indicazione Nuova Prevista | Malattia Renale Ipertensiva Maligna |
+| Punteggio di Previsione TxGNN | 99.84% |
+| Livello di Prova | L5 |
+| Stato del Mercato Italiano | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In attesa |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available from the regulatory package. Based on known pharmacological classification, Metolazone belongs to the quinazoline sulfonamide (thiazide-like) diuretic class. It inhibits sodium reabsorption in the distal convoluted tubule, reducing intravascular volume and consequently lowering systemic blood pressure. Notably, Metolazone retains diuretic activity at lower GFR levels compared to conventional thiazides, which explains its frequent off-label use in patients with moderate renal impairment alongside loop diuretics.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dal dossier normativo. In base alla classificazione farmacologica nota, Metolazone appartiene alla classe dei diuretici chinazolina solfonamide (simil-tiazidici). Inibisce il riassorbimento di sodio nel tubulo contorto distale, riducendo il volume intravascolare e conseguentemente abbassando la pressione arteriosa sistemica. In particolare, Metolazone mantiene l'attività diuretica a livelli di GFR inferiori rispetto ai tiazidi convenzionali, il che spiega il suo frequente uso off-label nei pazienti con compromissione renale moderata insieme ai diuretici dell'ansa.
 
-Malignant hypertensive renal disease (accelerated-phase hypertension with acute renal injury) is characterised by severely elevated blood pressure driving progressive glomerular ischaemia and arteriolar fibrinoid necrosis. In this context, a volume-reducing agent that lowers blood pressure could theoretically relieve haemodynamic stress on the glomerulus. This forms the indirect mechanistic rationale that the TxGNN knowledge graph likely captured: Metolazone's antihypertensive node is well-connected to hypertension-related renal disease nodes in the graph.
+La malattia renale ipertensiva maligna (ipertensione in fase accelerata con danno renale acuto) è caratterizzata da pressione arteriosa gravemente elevata che causa ischemia glomerulare progressiva e necrosi fibrinoide arteriolosa. In questo contesto, un agente che riduce il volume e abbassa la pressione arteriosa potrebbe teoricamente alleviare lo stress emodinamico sul glomerulo. Questa costituisce la razionale meccanicistica indiretta che il grafo conoscitivo TxGNN probabilmente ha catturato: il nodo antiipertensivo di Metolazone è ben collegato ai nodi di malattia renale correlata all'ipertensione nel grafo.
 
-However, the mechanistic plausibility is low to moderate in practice. Malignant hypertension requires rapid, controlled BP reduction and is primarily managed with RAAS inhibitors, calcium channel blockers, or intravenous agents as first-line therapy. Thiazide-like diuretics are not considered standard of care for this acute, high-severity phenotype, and their efficacy diminishes substantially when GFR falls significantly — a common finding precisely in malignant hypertensive nephrosclerosis. The high TxGNN score therefore most likely reflects broad graph topology connectivity rather than a targeted disease-modifying mechanism.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, la plausibilità meccanicistica è bassa o moderata nella pratica. L'ipertensione maligna richiede una riduzione della pressione arteriosa rapida e controllata ed è principalmente gestita con inibitori del RAAS, bloccanti dei canali del calcio o agenti endovenosi come terapia di prima linea. I diuretici simil-tiazidici non sono considerati standard di cura per questo fenotipo acuto e ad alta gravità, e la loro efficacia diminuisce sostanzialmente quando la GFR cala significativamente — un reperto comune proprio nella nefrosclerosi ipertensiva maligna. L'alto punteggio TxGNN quindi molto probabilmente riflette la connettività ampia della topologia del grafo piuttosto che un meccanismo mirato di modifica della malattia.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Attualmente non ci sono studi clinici correlati registrati.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-Although TxGNN assigns a high numerical score (99.84%), there is zero disease-specific clinical or literature evidence, the mechanistic link is indirect and partially contradicted by the pathophysiology of malignant hypertension, and no Italian marketing authorisation exists. This prediction does not meet the minimum threshold to advance beyond model-output stage.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and parse the full package insert (SmPC/仿單) to obtain confirmed MOA, boxed warnings, contraindications, and special-population restrictions
-- Conduct a targeted literature search to determine whether any observational, retrospective, or case-series data supports thiazide-like diuretics specifically in malignant hypertension with renal involvement
-- Clarify the GFR threshold below which Metolazone's antihypertensive and diuretic efficacy becomes clinically insufficient
-- Assess whether the TxGNN signal is an artefact of graph proximity between "antihypertensive" and "hypertensive renal disease" nodes, or reflects a genuine unmet-need gap
-- If evidence retrieval yields ≥1 supporting study, re-triage as L4 and repeat decision assessment
+## Considerazioni di Sicurezza
+
+Consultare il foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: In attesa**
+
+**Razionale:**
+Sebbene TxGNN assegni un punteggio numerico elevato (99.84%), non c'è alcuna prova clinica o letteraria specifica della malattia, il collegamento meccanicistico è indiretto e in parte contraddetto dalla fisiopatologia dell'ipertensione maligna, e non esiste autorizzazione commerciale italiana. Questa previsione non soddisfa la soglia minima per avanzare oltre la fase di output del modello.
+
+**Per procedere, è necessario:**
+- Recuperare e analizzare il foglio illustrativo completo (SmPC/仿單) per ottenere il meccanismo d'azione confermato, avvisi in riquadri, controindicazioni e restrizioni per popolazioni speciali
+- Condurre una ricerca mirata della letteratura per determinare se dati osservazionali, retrospettivi o di serie di casi supportano specificamente i diuretici simil-tiazidici nell'ipertensione maligna con coinvolgimento renale
+- Chiarire la soglia di GFR al di sotto della quale l'efficacia antiipertensiva e diuretica di Metolazone diventa clinicamente insufficiente
+- Valutare se il segnale TxGNN è un artefatto della prossimità del grafo tra i nodi "antiipertensivo" e "malattia renale ipertensiva", o riflette un genuino divario di esigenza insoddisfatta
+- Se il recupero di evidenze produce ≥1 studio di supporto, riclassificare come L4 e ripetere la valutazione decisionale
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

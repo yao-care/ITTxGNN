@@ -29,92 +29,89 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-The skill confirms this is a TxGNN multi-country pipeline context. The system prompt already defines the full report format. Proceeding to generate the report now.
+# Pitolisant: dalla narcolessia all'insonnia
+
+## Riassunto in una frase
+
+Pitolisant è il primo di una nuova classe di antagonisti inversi selettivi del recettore istaminergico H3, approvato a livello internazionale (Europa e USA) per il trattamento della narcolessia con o senza cataplessia. Il modello TxGNN lo predice come potenzialmente efficace per l'**Insonnia**, con **1 trial clinico** (ritirato, nessun arruolamento, e nemmeno specificamente mirato all'insonnia) e **8 pubblicazioni** recuperate — tuttavia, praticamente tutta la letteratura affronta la narcolessia o l'eccessiva sonnolenza diurna. Il meccanismo consolidato di promozione della veglia di pitolisant è fondamentalmente opposto a ciò che richiede il trattamento dell'insonnia, rendendo questa una probabile **falso positivo** di predizione guidata dalla prossimità nel grafo della malattia piuttosto che da una genuina plausibilità farmacologica.
 
 ---
 
-# Pitolisant: From Narcolepsy to Insomnia
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Pitolisant is a first-in-class selective histamine H3 receptor inverse agonist, approved internationally (Europe and USA) for the treatment of narcolepsy with or without cataplexy. The TxGNN model predicts it may be effective for **Insomnia**, with **1 clinical trial** (withdrawn, zero enrollment, and not even targeting insomnia) and **8 publications** retrieved — however, virtually all literature addresses narcolepsy or excessive daytime sleepiness. Pitolisant's established wake-promoting mechanism is fundamentally opposite to what insomnia treatment requires, making this a likely **false-positive** prediction driven by disease graph proximity rather than genuine pharmacological plausibility.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not locally registered; approved internationally for narcolepsy with or without cataplexy |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Non registrata localmente; approvata a livello internazionale per narcolessia con o senza cataplessia |
+| Indicazione predetta nuova | Insonnia |
+| Punteggio di predizione TxGNN | 99.71% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa predizione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on the retrieved literature, Pitolisant is a selective histamine H3 receptor inverse agonist. By blocking H3 autoreceptors on histaminergic neurons in the posterior hypothalamus, Pitolisant prevents tonic autoinhibition of histamine release, thereby increasing histaminergic neurotransmission throughout the brain. Downstream activation of postsynaptic H1 receptors promotes arousal and wakefulness. This is precisely why Pitolisant is efficacious in narcolepsy — a disorder defined by pathological inability to maintain wakefulness.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. In base alla letteratura recuperata, pitolisant è un antagonista inverso selettivo del recettore istaminergico H3. Bloccando gli autorecettori H3 sui neuroni istaminergici nell'ipotalamo posteriore, pitolisant previene l'autoinibirzione tonica del rilascio di istamina, aumentando così la neurotrasmissione istaminergica in tutto il cervello. L'attivazione a valle dei recettori H1 postsinaptici promuove il risveglio e la veglia. Questo è esattamente il motivo per cui pitolisant è efficace nella narcolessia — un disturbo caratterizzato dall'incapacità patologica di mantenere la veglia.
 
-This mechanism is, however, **pharmacologically opposite** to what is required for insomnia treatment. Insomnia calls for sleep promotion, not wake promotion. It is no coincidence that the well-established sedative-hypnotics in clinical use — including doxepin, diphenhydramine, and the antihistamine class broadly — work as **H1 receptor antagonists**, dampening histaminergic activity to facilitate sleep. Pitolisant amplifies that same system in the exact opposite direction. A review in *Current Neuropharmacology* (PMID 34521328) explicitly contrasts H3R inverse agonist pitolisant (wakefulness) against H1R antagonist doxepin (insomnia treatment), underscoring this mechanistic dichotomy.
+Questo meccanismo è tuttavia **farmacologicamente opposto** a ciò che è richiesto per il trattamento dell'insonnia. L'insonnia richiede la promozione del sonno, non la promozione della veglia. Non è una coincidenza che i sedativi-ipnotici ben consolidati nella pratica clinica — inclusi doxepina, difenidramina, e la classe degli antistaminici in generale — agiscono come **antagonisti del recettore H1**, attenuando l'attività istaminergica per facilitare il sonno. Pitolisant amplifica lo stesso sistema nella direzione diametralmente opposta. Una revisione in *Current Neuropharmacology* (PMID 34521328) contrasta esplicitamente pitolisant antagonista inverso H3R (veglia) con doxepina antagonista H1R (trattamento dell'insonnia), sottolineando questa dicotomia meccanicistica.
 
-The TxGNN model assigned an exceptionally high score (99.71%) to this prediction, which most likely reflects the topological proximity of narcolepsy and insomnia nodes within the biomedical knowledge graph — both are classified as sleep disorders and share overlapping phenotypic descriptors. This is a recognized limitation of graph-based repurposing models: they can identify structural closeness without capturing the directional nature of a drug's pharmacodynamic action. This prediction is assessed as a **probable false positive** and does not warrant clinical development without a compelling mechanistic reframe.
+Il modello TxGNN ha assegnato un punteggio eccezionalmente alto (99.71%) a questa predizione, il che molto probabilmente riflette la prossimità topologica tra i nodi della narcolessia e dell'insonnia all'interno del grafo di conoscenza biomedica — entrambe sono classificate come disturbi del sonno e condividono descrittori fenotipici sovrapponibili. Questa è una limitazione riconosciuta dei modelli di repurposing basati su grafi: possono identificare la vicinanza strutturale senza catturare la natura direzionale dell'azione farmacodinamica di un farmaco. Questa predizione è valutata come un **probabile falso positivo** e non giustifica uno sviluppo clinico senza una reinterpretazione meccanicistica convincente.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da trial clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di trial | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
-| [NCT02800083](https://clinicaltrials.gov/study/NCT02800083) | Phase 2 | Withdrawn | 0 | Targeted **alcohol use disorder**, not insomnia — primary endpoint was reduction of monthly heavy drinking days. Trial was withdrawn before enrolling any participants, generating no clinical data. Represents a negative signal both for feasibility and for relevance to the insomnia indication. |
+| [NCT02800083](https://clinicaltrials.gov/study/NCT02800083) | Fase 2 | Ritirato | 0 | Ha mirato al **disturbo da uso di alcol**, non all'insonnia — l'endpoint primario era la riduzione dei giorni con forti consumi di alcol al mese. Il trial è stato ritirato prima di arruolare qualsiasi partecipante, generando nessun dato clinico. Rappresenta un segnale negativo sia per la fattibilità che per la rilevanza rispetto all'indicazione dell'insonnia. |
 
 ---
 
-## Literature Evidence
+## Evidenza da letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|------|------|---------|---------|
-| [36931805](https://pubmed.ncbi.nlm.nih.gov/36931805/) | 2023 | RCT | The Lancet Neurology | Phase 3 RCT in children ≥6 years with narcolepsy; pitolisant demonstrated safety and efficacy for excessive daytime sleepiness and cataplexy. Entirely narcolepsy-focused — not insomnia. |
-| [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | Pitolisant reduced residual excessive daytime sleepiness in OSA patients adherent to CPAP. Demonstrates a **wake-promoting** effect — the opposite of insomnia treatment. |
-| [31917607](https://pubmed.ncbi.nlm.nih.gov/31917607/) | 2020 | RCT | Am J Respir Crit Care Med | International RCT of pitolisant for daytime sleepiness in moderate-to-severe OSA patients refusing CPAP; confirmed wake-promoting efficacy. No insomnia data. |
-| [36169322](https://pubmed.ncbi.nlm.nih.gov/36169322/) | 2022 | Cohort (Real-world) | Revista de neurologia | Real-world study in type 1 narcolepsy patients unresponsive to prior standard treatments; pitolisant showed effectiveness and tolerability in this refractory population. |
-| [34521328](https://pubmed.ncbi.nlm.nih.gov/34521328/) | 2022 | Review | Current Neuropharmacology | Reviews histaminergic system changes in neuropsychiatric disorders; explicitly contrasts pitolisant (H3R inverse agonist → wakefulness) with doxepin (H1R antagonist → insomnia treatment) — highlights the mechanistic incompatibility with the predicted indication. |
-| [34225942](https://pubmed.ncbi.nlm.nih.gov/34225942/) | 2021 | Review | Handbook of Clinical Neurology | Comprehensive overview of all four histamine receptor subtypes and their drug targets; provides mechanistic foundation for H3R pharmacology in the brain. |
-| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Review | Drug Design, Development and Therapy | Profile of pitolisant for narcolepsy management; confirms European authorization and characterises H3 inverse agonism as the drug's defining mechanism. |
-| [22356925](https://pubmed.ncbi.nlm.nih.gov/22356925/) | 2012 | Review/Mechanism | Clinical Neuropharmacology | Pitolisant as an alternative stimulant for adolescents with narcolepsy refractory to conventional therapy; underscores the wakefulness-enhancement mechanism via H3 autoreceptor blockade. |
+| [36931805](https://pubmed.ncbi.nlm.nih.gov/36931805/) | 2023 | RCT | The Lancet Neurology | RCT di fase 3 in bambini ≥6 anni con narcolessia; pitolisant ha dimostrato sicurezza ed efficacia per l'eccessiva sonnolenza diurna e la cataplessia. Interamente focalizzato sulla narcolessia — non sull'insonnia. |
+| [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | Pitolisant ha ridotto l'eccessiva sonnolenza diurna residua nei pazienti con OSA aderenti a CPAP. Dimostra un effetto di **promozione della veglia** — l'opposto del trattamento dell'insonnia. |
+| [31917607](https://pubmed.ncbi.nlm.nih.gov/31917607/) | 2020 | RCT | Am J Respir Crit Care Med | RCT internazionale di pitolisant per la sonnolenza diurna in pazienti con OSA da moderata a grave che rifiutano CPAP; ha confermato l'efficacia della promozione della veglia. Nessun dato sull'insonnia. |
+| [36169322](https://pubmed.ncbi.nlm.nih.gov/36169322/) | 2022 | Coorte (Mondo reale) | Revista de neurologia | Studio nel mondo reale in pazienti con narcolessia di tipo 1 non responsivi ai precedenti trattamenti standard; pitolisant ha mostrato efficacia e tollerabilità in questa popolazione refrattaria. |
+| [34521328](https://pubmed.ncbi.nlm.nih.gov/34521328/) | 2022 | Revisione | Current Neuropharmacology | Esamina i cambiamenti del sistema istaminergico nei disturbi neuropsichiatrici; contrasta esplicitamente pitolisant (antagonista inverso H3R → veglia) con doxepina (antagonista H1R → trattamento dell'insonnia) — evidenzia l'incompatibilità meccanicistica con l'indicazione predetta. |
+| [34225942](https://pubmed.ncbi.nlm.nih.gov/34225942/) | 2021 | Revisione | Handbook of Clinical Neurology | Panoramica completa di tutti e quattro i sottotipi di recettore istaminico e dei loro bersagli farmacologici; fornisce la base meccanicistica per la farmacologia H3R nel cervello. |
+| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Revisione | Drug Design, Development and Therapy | Profilo di pitolisant per la gestione della narcolessia; conferma l'autorizzazione europea e caratterizza l'antagonismo inverso H3 come il meccanismo definente del farmaco. |
+| [22356925](https://pubmed.ncbi.nlm.nih.gov/22356925/) | 2012 | Revisione/Meccanismo | Clinical Neuropharmacology | Pitolisant come stimolante alternativo per gli adolescenti con narcolessia refrattaria alla terapia convenzionale; sottolinea il meccanismo di potenziamento della veglia attraverso il blocco dell'autorecettore H3. |
 
 ---
 
-## Italy Market Information
+## Informazioni di mercato in Italia
 
-Pitolisant currently has no registered authorizations in Italy (0 licenses). The drug is not marketed locally.
+Pitolisant attualmente non ha autorizzazioni registrate in Italia (0 licenze). Il farmaco non è commercializzato localmente.
 
-> **Note:** Pitolisant (brand name **Wakix**) has received EMA approval for narcolepsy with or without cataplexy in adults, and subsequently for children aged 6 and above (EMA/CHMP). It has also been approved by the FDA (2019) for excessive daytime sleepiness in adult narcolepsy. These international approvals are not reflected in the local authorization database queried for this report.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+> **Nota:** Pitolisant (nome commerciale **Wakix**) ha ricevuto l'approvazione dell'EMA per la narcolessia con o senza cataplessia negli adulti, e successivamente per i bambini dai 6 anni in su (EMA/CHMP). È stato inoltre approvato dalla FDA (2019) per l'eccessiva sonnolenza diurna nella narcolessia in adulti. Queste approvazioni internazionali non sono riflesse nel database delle autorizzazioni locali interrogato per questo rapporto.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Hold**
+Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-Pitolisant's core pharmacological action — promoting wakefulness through histamine H3 receptor inverse agonism — is directionally incompatible with insomnia treatment, which requires facilitation of sleep rather than arousal. The sole retrieved clinical trial was withdrawn with zero enrollment and was targeting a completely different indication (alcohol use disorder), and all eight publications in the literature corpus address narcolepsy or excessive daytime sleepiness. The TxGNN high score almost certainly reflects false-positive graph topology between sleep disorders rather than genuine repurposing potential.
+---
 
-**To proceed, the following is needed:**
+## Conclusioni e prossimi passi
 
-- A credible mechanistic hypothesis explaining how a wake-promoting agent could paradoxically benefit insomnia patients (e.g., circadian resetting, rebound sleep induction, or a specific insomnia subtype such as hyperarousal-related insomnia — none of which are currently supported by evidence)
-- De novo clinical trial data specifically in insomnia populations; no such trials exist
-- Safety profiling for insomnia patients, who differ substantially from the narcolepsy population in sleep architecture, comorbidities, and concomitant medication use
-- Reassessment of TxGNN model performance on the sleep disorder subgraph to quantify the systematic false-positive rate for pharmacodynamically opposing indications
+**Decisione: In sospeso**
+
+**Razionale:**
+L'azione farmacologica centrale di pitolisant — promozione della veglia attraverso l'antagonismo inverso del recettore istaminico H3 — è direzionalmente incompatibile con il trattamento dell'insonnia, che richiede la facilitazione del sonno piuttosto che il risveglio. L'unico trial clinico recuperato è stato ritirato senza arruolamenti e mirava a un'indicazione completamente diversa (disturbo da uso di alcol), e tutte le otto pubblicazioni nel corpus di letteratura affrontano la narcolessia o l'eccessiva sonnolenza diurna. L'alto punteggio di TxGNN quasi certamente riflette un falso positivo della topologia del grafo tra disturbi del sonno piuttosto che un genuino potenziale di repurposing.
+
+**Per procedere, è necessario quanto segue:**
+
+- Un'ipotesi meccanicistica credibile che spieghi come un agente che promuove la veglia potrebbe paradossalmente beneficiare i pazienti con insonnia (ad es., reset circadiano, induzione di sonno di rimbalzo, o un sottotipo specifico di insonnia come l'insonnia correlata all'ipereccitazione — nessuno dei quali è attualmente supportato da evidenze)
+- Dati di trial clinici de novo specificamente in popolazioni con insonnia; nessuno di tali trial esiste
+- Profilazione della sicurezza nei pazienti con insonnia, che differiscono sostanzialmente dalla popolazione con narcolessia nell'architettura del sonno, nelle comorbidità e nell'uso di farmaci concomitanti
+- Rivalutazione delle prestazioni del modello TxGNN nel sottografo dei disturbi del sonno per quantificare il tasso sistematico di falsi positivi per le indicazioni farmacodinamicamente opposte
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

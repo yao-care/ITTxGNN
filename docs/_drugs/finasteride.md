@@ -29,84 +29,81 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-The txgnn-pipeline skill covers pipeline operations, not report writing — the detailed report format is already specified in the system prompt. Proceeding directly to generate the evaluation report.
+# Finasteride: Dall'Alopecia Androgenetica all'Ipertricosi Universale Congenita di Tipo Ambras
+
+## Riassunto in una frase
+
+Finasteride è un inibitore della 5α-reduttasi di tipo II, approvato a livello mondiale per l'alopecia androgenetica maschile (1 mg) e l'iperplasia prostatica benigna (5 mg), entrambe guidate dall'eccesso di diidrotestosterone (DHT).
+Il modello TxGNN prevede che potrebbe essere efficace per **Ipertricosi Universale Congenita di Tipo Ambras**, un raro disturbo congenito della crescita eccessiva dei capelli generalizzata.
+Tuttavia, **nessuna sperimentazione clinica e nessuna pubblicazione di supporto** sono state identificate per questa indicazione specifica, collocando l'evidenza al livello più basso.
 
 ---
 
-# Finasteride: From Androgenetic Alopecia to Ambras Type Hypertrichosis Universalis Congenita
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Finasteride is a 5α-reductase type II inhibitor, globally approved for male androgenetic alopecia (1 mg) and benign prostatic hyperplasia (5 mg), both driven by excess dihydrotestosterone (DHT).
-The TxGNN model predicts it may be effective for **Ambras Type Hypertrichosis Universalis Congenita**, a rare congenital disorder of generalised hair overgrowth.
-However, **no clinical trials and no supporting publications** have been identified for this specific indication, placing the evidence at the lowest level.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No approved indication registered in Italy (licence data unavailable) |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Nessuna indicazione approvata registrata in Italia (dati di licenza non disponibili) |
+| Indicazione nuova prevista | Ipertricosi Universale Congenita di Tipo Ambras |
+| Punteggio di previsione TxGNN | 99.99% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed mechanism of action data was not available in the Evidence Pack. Based on established pharmacological knowledge, Finasteride inhibits the 5α-reductase type II enzyme, blocking the peripheral conversion of testosterone to dihydrotestosterone (DHT). Reduction of DHT at the hair follicle level is the basis for its approved use in androgen-dependent hair disorders — most notably male-pattern androgenetic alopecia — where follicle miniaturisation is driven by DHT hypersensitivity.
+I dati dettagliati sul meccanismo d'azione non erano disponibili nel pacco di evidenze. Sulla base delle conoscenze farmacologiche consolidate, Finasteride inibisce l'enzima 5α-reduttasi di tipo II, bloccando la conversione periferica del testosterone in diidrotestosterone (DHT). La riduzione di DHT a livello del follicolo pilifero è la base del suo uso approvato nei disturbi dei capelli androgeno-dipendenti — in particolare nell'alopecia androgenetica maschile — dove la miniaturizzazione del follicolo è guidata dall'ipersensibilità al DHT.
 
-Ambras syndrome (Ambras type hypertrichosis universalis congenita) is a rare congenital condition caused by chromosomal rearrangement at Xq24–q27.1, leading to widespread excessive body hair growth from birth or early infancy. Critically, this disorder is **not androgen-dependent**: its pathogenesis stems from a structural genomic abnormality, not from dysregulation of the androgen/DHT axis. Finasteride's mechanism of action therefore has no direct biological basis for addressing this condition.
+La sindrome di Ambras (ipertricosi universale congenita di tipo Ambras) è una rara condizione congenita causata da riarrangiamento cromosomico a Xq24–q27.1, che porta a crescita eccessiva dei capelli corporei diffusa dalla nascita o dalla prima infanzia. Criticamente, questo disturbo **non è androgeno-dipendente**: la sua patogenesi deriva da un'anomalia genomica strutturale, non da una disregolazione dell'asse androgeni/DHT. Il meccanismo d'azione di Finasteride, quindi, non ha una base biologica diretta per affrontare questa condizione.
 
-The extremely high TxGNN score (99.99%) most likely reflects a **graph neural network neighbourhood spillover** from the broader "hair disease" node cluster rather than a genuine biological signal. Predictions of this type — high model score, zero clinical evidence, mechanistically implausible — are a known limitation of knowledge-graph-based repurposing and should be regarded as hypothesis-generating noise rather than actionable leads at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Lo score TxGNN estremamente elevato (99.99%) probabilmente riflette uno **spillover del vicinato della rete neurale grafica** dal cluster di nodi 'malattia dei capelli' più ampio piuttosto che un vero segnale biologico. Le previsioni di questo tipo — punteggio di modello elevato, zero evidenza clinica, biologicamente implausibile — sono un limite noto del ripropositioning basato su grafici di conoscenza e dovrebbero essere considerate come rumore generatore di ipotesi piuttosto che come iniziative praticabili in questa fase.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Finasteride has no registered authorisations in Italy based on available regulatory data. No licence records were retrieved from the AIFA database query.
-
-> **Note:** Finasteride (Propecia® 1 mg, Proscar® 5 mg) is known to be marketed in several European markets. The absence of records may reflect a data retrieval gap rather than a true absence of authorisation. Verification against the current AIFA online registry is recommended before drawing regulatory conclusions.
+Attualmente nessuno studio clinico correlato è registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla letteratura
 
-Please refer to the package insert for safety information.
-
-> Safety data (key warnings, contraindications, and drug-drug interactions) were not retrievable from the queried sources for this evidence pack. The package insert of the Italy-approved product should be consulted directly. Clinically notable known risks for finasteride include sexual dysfunction (decreased libido, erectile dysfunction, ejaculatory disorder), post-finasteride syndrome (persistent adverse effects after discontinuation), and teratogenicity (Category X in pregnancy — exposure risk for women of childbearing potential handling crushed tablets).
+Attualmente nessuna letteratura correlata è disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Finasteride non ha autorizzazioni registrate in Italia sulla base dei dati normativi disponibili. Nessun record di licenza è stato recuperato dalla query del database AIFA.
 
-**Rationale:**
-Ambras type hypertrichosis universalis congenita is a non-androgen-dependent genetic disorder; finasteride's DHT-reducing mechanism has no established or plausible biological pathway to address the underlying chromosomal aetiology, and zero clinical or preclinical evidence supports this repurposing direction.
+> **Nota:** Finasteride (Propecia® 1 mg, Proscar® 5 mg) è noto essere commercializzato in diversi mercati europei. L'assenza di record potrebbe riflettere un divario nel recupero dei dati piuttosto che una vera assenza di autorizzazione. Si consiglia di verificare il registro online AIFA attuale prima di trarre conclusioni normative.
 
-**To proceed, the following is needed:**
-- Preclinical mechanistic evidence demonstrating any effect of DHT suppression on the Xq24–q27.1 rearrangement phenotype or on non-androgen-mediated hair follicle overgrowth
-- Verification of Italy (AIFA) regulatory status for finasteride via direct registry query
-- Full safety data from the AIFA-approved package insert (warnings, contraindications, teratogenicity)
-- Review of the rank 2 prediction — **hypertrichosis (disease)** (L4, Research Question) — which, while limited to older narrative reviews, has a partial mechanistic basis for androgen-driven subtypes and represents a more scientifically defensible starting point for any future hypothesis-generation work
+---
+
+## Considerazioni sulla sicurezza
+
+Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+
+> I dati sulla sicurezza (avvertenze principali, controindicazioni e interazioni tra farmaci) non sono stati recuperabili dalle fonti interrogate per questo pacco di evidenze. Il foglio illustrativo del prodotto approvato in Italia dovrebbe essere consultato direttamente. I rischi clinicamente rilevanti noti per finasteride includono disfunzione sessuale (diminuzione della libido, disfunzione erettile, disturbo dell'eiaculazione), sindrome post-finasteride (effetti avversi persistenti dopo l'interruzione) e teratogenicità (Categoria X in gravidanza — rischio di esposizione per le donne in età fertile che maneggiano compresse frantumate).
+
+---
+
+## Conclusione e passaggi successivi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+L'ipertricosi universale congenita di tipo Ambras è un disturbo genetico non androgeno-dipendente; il meccanismo di riduzione del DHT di finasteride non ha una via biologica stabilita o plausibile per affrontare l'eziologia cromosomica sottostante, e zero evidenza clinica o preclinica supporta questa direzione di ripropositioning.
+
+**Per procedere, è necessario quanto segue:**
+- Evidenza meccanicistica preclinica che dimostri qualsiasi effetto della soppressione del DHT sul fenotipo del riarrangiamento Xq24–q27.1 o sulla crescita eccessiva dei capelli mediata non da androgeni
+- Verifica dello stato normativo italiano (AIFA) per finasteride tramite query diretta del registro
+- Dati sulla sicurezza completi dal foglio illustrativo approvato da AIFA (avvertenze, controindicazioni, teratogenicità)
+- Revisione della previsione di rango 2 — **ipertricosi (malattia)** (L4, Domanda di ricerca) — che, sebbene limitata a revisioni narrative più vecchie, ha una base meccanicistica parziale per sottotipi guidati da androgeni e rappresenta un punto di partenza più scientificamente difendibile per qualsiasi lavoro futuro di generazione di ipotesi
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,84 +29,81 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-The skill confirms this is a TxGNN pipeline report task. Now generating the evaluation report based on the Evidence Pack JSON:
+# Telmisartan: dall'Ipertensione all'Angina di Prinzmetal
+
+## Sintesi in una Frase
+
+Telmisartan è un antagonista dei recettori dell'angiotensina II di tipo 1 (AT1) con una lunga storia consolidata a livello globale nella gestione dell'ipertensione, sebbene attualmente non disponga di autorizzazione all'immissione in commercio in Italia.
+Il modello TxGNN gli assegna il punteggio di rivalutazione più elevato per **l'Angina di Prinzmetal** (99.98%), prevedendo un potenziale ruolo nella riduzione della suscettibilità allo spasmo coronarico.
+Tuttavia, attualmente **nessuno studio clinico** e **nessuna letteratura pubblicata** supportano direttamente questa indicazione, collocando questa previsione al livello di evidenza più basso (L5).
 
 ---
 
-# Telmisartan: From Hypertension to Prinzmetal Angina
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Telmisartan is an angiotensin II type 1 (AT1) receptor blocker with a well-established global track record in hypertension management, though it currently holds no marketing authorization in Italy.
-The TxGNN model assigns it the highest repurposing score for **Prinzmetal Angina** (99.98%), predicting a potential role in reducing coronary vasospasm susceptibility.
-At present, however, **no clinical trials** and **no published literature** directly support this indication, placing this prediction at the lowest evidence tier (L5).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension (global approval; no Italy authorization on record) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Ipertensione (approvazione globale; nessuna autorizzazione italiana registrata) |
+| Nuova Indicazione Prevista | Angina di Prinzmetal |
+| Punteggio di Predizione TxGNN | 99.98% |
+| Livello di Evidenza | L5 |
+| Stato del Mercato Italiano | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospendere |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, telmisartan is an AT1 receptor blocker that selectively antagonizes angiotensin II (AngII) signaling — preventing AngII-mediated vasoconstriction, aldosterone release, and vascular smooth muscle proliferation. Distinctively among ARBs, telmisartan also acts as a partial PPARγ (peroxisome proliferator-activated receptor gamma) agonist, conferring additional anti-inflammatory and metabolic benefits that extend beyond simple blood pressure reduction. This dual mechanism has earned it the informal label "metabosartan."
+Attualmente, i dati dettagliati sui meccanismi d'azione non sono disponibili in questo Evidence Pack. Basandosi sulla conoscenza farmacologica consolidata, telmisartan è un antagonista dei recettori AT1 che blocca selettivamente la segnalazione dell'angiotensina II (AngII) — impedendo la vasoconstrizione mediata da AngII, il rilascio di aldosterone e la proliferazione della muscolatura liscia vascolare. Distintivamente tra gli ARB, telmisartan agisce anche come agonista parziale di PPARγ (peroxisome proliferator-activated receptor gamma), conferendo ulteriori benefici antinfiammatori e metabolici che si estendono oltre la semplice riduzione della pressione arteriosa. Questo duplice meccanismo gli ha valso l'etichetta informale di "metabosartan".
 
-Prinzmetal angina (variant angina) involves transient, reversible coronary artery spasm at rest, typically in the absence of significant obstructive atherosclerosis. The theoretical link is mechanistically plausible: AT1 blockade could dampen AngII-induced coronary smooth muscle contraction, potentially lowering vasospasm susceptibility. PPARγ activation may further attenuate endothelial inflammation — a recognized contributor to the endothelial dysfunction that underlies vasospastic episodes.
+L'angina di Prinzmetal (angina variante) comporta transienti e reversibili spasmi dell'arteria coronarica a riposo, tipicamente in assenza di aterosclerosi ostruttiva significativa. Il collegamento teorico è meccanicisticamente plausibile: il blocco AT1 potrebbe attenuare la contrazione della muscolatura liscia coronarica indotta da AngII, riducendo potenzialmente la suscettibilità agli spasmi. L'attivazione di PPARγ potrebbe inoltre attenuare l'infiammazione endoteliale — un fattore riconosciuto della disfunzione endoteliale che sottostà agli episodi vasospastici.
 
-Despite this theoretical rationale, the mechanistic inference remains highly indirect. No preclinical animal model, observational study, or clinical trial has directly assessed telmisartan in Prinzmetal angina. The TxGNN model's high score (99.98%) most likely reflects broad shared connectivity between vascular disease nodes in the knowledge graph — coronary artery disease, hypertension, and vasomotor disorders are densely interconnected — rather than a validated, drug-specific relationship. This prediction should be treated as hypothesis-generating only and not interpreted as evidence of efficacy.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Telmisartan in Prinzmetal Angina.
+Nonostante questa razionale teorica, l'inferenza meccanicistica rimane altamente indiretta. Nessun modello animale preclinico, studio osservazionale o studio clinico ha direttamente valutato telmisartan nell'angina di Prinzmetal. Il punteggio elevato del modello TxGNN (99.98%) probabilmente riflette l'ampia connettività condivisa tra i nodi delle malattie vascolari nel grafo della conoscenza — la malattia coronarica, l'ipertensione e i disturbi vasomotori sono densamente interconnessi — piuttosto che una relazione farmaco-specifica validata. Questa previsione dovrebbe essere trattata solo come generatrice di ipotesi e non interpretata come evidenza di efficacia.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available for Telmisartan in Prinzmetal Angina.
-
----
-
-## Italy Market Information
-
-Telmisartan currently holds no marketing authorizations in Italy. No approved products are registered in this dataset.
+Attualmente non sono registrati studi clinici correlati per Telmisartan nell'Angina di Prinzmetal.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile per Telmisartan nell'Angina di Prinzmetal.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Telmisartan attualmente non dispone di autorizzazioni all'immissione in commercio in Italia. Nessun prodotto approvato è registrato in questo dataset.
 
-**Rationale:**
-Despite a very high TxGNN score (99.98%), there is zero direct evidence — neither clinical trials nor published literature — linking telmisartan to Prinzmetal angina. An L5 rating means this is a model-only prediction that requires substantial preclinical validation before any development pathway can be considered.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di Sicurezza
 
-- **Preclinical validation**: Coronary vasospasm animal models (e.g., ergonovine-induced spasm) to directly test whether AT1 blockade or PPARγ activation reduces vasospastic events
-- **Indirect literature survey**: Systematic review of existing AT1 blocker and PPARγ agonist studies for any signals in vasospastic angina or coronary endothelial dysfunction
-- **MOA documentation**: Complete DrugBank mechanism of action profile for telmisartan (currently unavailable in this Evidence Pack)
-- **Safety review**: Full package insert (TFDA/EMA) for key warnings, contraindications, and drug interactions — especially relevant given telmisartan's antihypertensive effect, which may require dose adjustment in normotensive Prinzmetal angina patients
-- **Hemodynamic risk assessment**: Evaluate whether blood pressure reduction in a normotensive vasospasm population is clinically appropriate or potentially harmful
+Si rimanda al foglio illustrativo per le informazioni di sicurezza.
 
-> **Note for reviewers:** While Prinzmetal angina ranks #1 by TxGNN score, the Evidence Pack also contains indications with substantially stronger clinical evidence. Notably, **intracerebral hemorrhage (rank #9)** is supported by a completed Phase 3 RCT (TRIDENT, NCT02699645, n=1,671) and achieves an L1 evidence rating with a "Proceed with Guardrails" recommendation. A separate report focused on that indication may be of greater immediate clinical value.
+---
+
+## Conclusione e Passi Successivi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Nonostante un punteggio TxGNN molto elevato (99.98%), non vi è alcuna evidenza diretta — né studi clinici né letteratura pubblicata — che colleghi telmisartan all'angina di Prinzmetal. Una valutazione L5 significa che si tratta di una previsione basata solo su modello che richiede una sostanziale validazione preclinica prima che possa essere considerato qualsiasi percorso di sviluppo.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Validazione preclinica**: Modelli animali di spasmo coronarico (ad es., spasmo indotto da ergonovina) per testare direttamente se il blocco AT1 o l'attivazione di PPARγ riducono gli eventi vasospastici
+- **Indagine indiretta della letteratura**: Revisione sistematica degli studi esistenti con antagonisti AT1 e agonisti di PPARγ per eventuali segnali nell'angina vasospastica o nella disfunzione endoteliale coronarica
+- **Documentazione MOA**: Profilo completo del meccanismo d'azione di telmisartan in DrugBank (attualmente non disponibile in questo Evidence Pack)
+- **Revisione della sicurezza**: Foglio illustrativo completo (TFDA/EMA) per avvertimenti chiave, controindicazioni e interazioni farmacologiche — particolarmente rilevante dato l'effetto antipertensivo di telmisartan, che potrebbe richiedere un aggiustamento della dose in pazienti normotesi con angina vasospastica
+- **Valutazione del rischio emodinamico**: Valutare se la riduzione della pressione arteriosa in una popolazione normotesa vasospastica sia clinicamente appropriata o potenzialmente dannosa
+
+> **Nota per i revisori:** Sebbene l'Angina di Prinzmetal sia classificata al #1 per punteggio TxGNN, l'Evidence Pack contiene anche indicazioni con evidenza clinica sostanzialmente più forte. Notevolmente, **l'emorragia intracerebrale (rank #9)** è supportata da uno studio clinico randomizzato di Fase 3 completato (TRIDENT, NCT02699645, n=1,671) e raggiunge una valutazione L1 con una raccomandazione "Procedere con Protezioni". Un rapporto separato focalizzato su quella indicazione potrebbe avere un valore clinico immediatamente maggiore.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

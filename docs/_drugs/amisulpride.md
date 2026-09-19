@@ -29,89 +29,90 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# AMISULPRIDE: Drug Repurposing Evaluation — Awaiting Prediction Data
+# AMISULPRIDE: Valutazione del Riposizionamento del Farmaco — In Attesa dei Dati di Previsione
 
-## One-Sentence Summary
+## Sintesi in una Frase
 
-Amisulpride (DrugBank: DB06288) is a benzamide derivative known internationally as an atypical antipsychotic.
-The current Evidence Pack contains **no TxGNN predicted indications**, and critical data gaps remain in mechanism of action and regulatory safety information.
-This report documents the current status and outlines the steps needed before a repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Drug Name (INN) | Amisulpride |
-| DrugBank ID | DB06288 |
-| Original Indication | Not available in current data |
-| Predicted New Indication | **None** — TxGNN predictions not yet generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No predictions or supporting studies available) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations (TFDA) | 0 |
-| Recommended Decision | **Hold** |
+L'amisulpride (DrugBank: DB06288) è un derivato benzamidico noto a livello internazionale come antipsicotico atipico.
+L'attuale Dossier di Evidenza contiene **nessuna indicazione prevista da TxGNN**, e rimangono lacune critiche nei dati nel meccanismo d'azione e nelle informazioni di sicurezza normative.
+Questo rapporto documenta lo status attuale e delinea i passaggi necessari prima che una valutazione del riposizionamento possa procedere.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-> **No TxGNN predicted indication is available for evaluation at this time.**
-
-Currently, detailed mechanism of action (MOA) data has not been retrieved for Amisulpride in this Evidence Pack. Based on publicly known information, Amisulpride is a selective dopamine D₂/D₃ receptor antagonist belonging to the benzamide class of atypical antipsychotics. It is widely used internationally for the treatment of schizophrenia (both positive and negative symptoms) and has also been investigated for other psychiatric conditions.
-
-However, since the `predicted_indications` array is empty, no mechanistic bridging analysis between an original indication and a new predicted indication can be performed. The MOA data gap (DG002) further limits the ability to assess any future predictions in the context of target–disease relationships.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials are available — TxGNN has not yet generated predicted indications for this drug.
-
----
-
-## Literature Evidence
-
-Currently no related literature is available — without a predicted indication, no targeted literature search has been conducted.
+| Voce | Contenuto |
+|------|-----------|
+| Nome del Farmaco (INN) | Amisulpride |
+| ID DrugBank | DB06288 |
+| Indicazione Originale | Non disponibile nei dati attuali |
+| Indicazione Nuova Prevista | **Nessuna** — previsioni TxGNN non ancora generate |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | **L5** (Nessuna previsione o studi di supporto disponibili) |
+| Status di Commercializzazione a Taiwan | ✗ Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni (TFDA) | 0 |
+| Decisione Consigliata | **Rinvio** |
 
 ---
 
-## Taiwan Market Information
+## Perché Questa Previsione è Ragionevole?
 
-Amisulpride currently holds **no TFDA marketing authorizations** in Taiwan (market status: Not marketed). No license records are available.
+> **Attualmente nessuna indicazione prevista da TxGNN è disponibile per la valutazione.**
 
----
+Attualmente, i dati dettagliati sul meccanismo d'azione (MOA) non sono stati recuperati per l'amisulpride in questo Dossier di Evidenza. Sulla base di informazioni pubblicamente note, l'amisulpride è un antagonista selettivo del recettore dopaminergico D₂/D₃ appartenente alla classe benzamidica degli antipsicotici atipici. È ampiamente utilizzato a livello internazionale per il trattamento della schizofrenia (sintomi positivi e negativi) ed è stato anche oggetto di investigazione per altre condizioni psichiatriche.
 
-## Safety Considerations
-
-> Please refer to the package insert for safety information.
-
-All safety fields (key warnings, contraindications, and drug–drug interactions) returned as data gaps or not found in the current Evidence Pack. The following blocking data gaps have been identified:
-
-- **DG001 (Blocking):** TFDA package insert warnings and contraindications have not been retrieved. This must be resolved before any Stage 1 safety assessment can proceed.
-- **DG002 (High):** Mechanism of action data is missing from DrugBank, impacting mechanistic relevance analysis.
+Tuttavia, poiché l'array `predicted_indications` è vuoto, nessuna analisi di collegamento meccanicistico tra un'indicazione originale e una nuova indicazione prevista può essere eseguita. La lacuna nei dati MOA (DG002) limita ulteriormente la capacità di valutare eventuali previsioni future nel contesto delle relazioni bersaglio-malattia.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da Studi Clinici
 
-**Decision: Hold**
-
-**Rationale:**
-No TxGNN predicted indications exist for Amisulpride in this Evidence Pack, and critical data gaps (MOA, TFDA safety labelling) prevent meaningful evaluation. The drug is also not currently marketed in Taiwan, adding regulatory complexity to any repurposing pathway.
-
-**To proceed, the following is needed:**
-
-1. **Generate TxGNN predictions** — Run the TxGNN model for Amisulpride (DB06288) to obtain candidate repurposing indications with confidence scores
-2. **Resolve DG001 (Blocking)** — Retrieve TFDA package insert warnings and contraindications (source: TFDA website, method: download and parse package insert PDF)
-3. **Resolve DG002 (High)** — Retrieve detailed MOA data from DrugBank API to enable mechanistic bridging analysis
-4. **Conduct evidence search** — Once a predicted indication is available, perform clinical trial (ClinicalTrials.gov) and literature (PubMed) searches for the drug–indication pair
-5. **Re-evaluate market pathway** — Since Amisulpride is not marketed in Taiwan, assess whether an import/special access pathway or new drug application would be required for any repurposed indication
+Attualmente nessuno studio clinico correlato è disponibile — TxGNN non ha ancora generato indicazioni previste per questo farmaco.
 
 ---
 
-*This report was generated on 2026-04-03. Data cutoff: 2026-04-03. Results are for research purposes only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Evidenza dalla Letteratura
+
+Attualmente nessuna letteratura correlata è disponibile — senza un'indicazione prevista, nessuna ricerca mirata di letteratura è stata condotta.
+
+---
+
+## Informazioni sul Mercato Taiwanese
+
+L'amisulpride attualmente non detiene **nessuna autorizzazione di commercializzazione TFDA** a Taiwan (status di mercato: Non commercializzato). Nessun record di licenza è disponibile.
+
+---
+
+## Considerazioni di Sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+Tutti i campi di sicurezza (avvertimenti chiave, controindicazioni e interazioni farmacologiche) sono stati restituiti come lacune nei dati o non trovati nell'attuale Dossier di Evidenza. Le seguenti lacune critiche nei dati sono state identificate:
+
+- **DG001 (Bloccante):** Gli avvertimenti del foglio illustrativo TFDA e le controindicazioni non sono stati recuperati. Questo deve essere risolto prima che qualsiasi valutazione di sicurezza della Fase 1 possa procedere.
+- **DG002 (Alta):** I dati sul meccanismo d'azione mancano da DrugBank, impattando l'analisi della rilevanza meccanicistica.
+
+---
+
+## Conclusione e Azioni Successive
+
+**Decisione: Rinvio**
+
+**Motivazione:**
+Nessuna indicazione prevista da TxGNN esiste per l'amisulpride in questo Dossier di Evidenza, e lacune critiche nei dati (MOA, etichettatura di sicurezza TFDA) impediscono una valutazione significativa. Il farmaco inoltre non è attualmente commercializzato a Taiwan, aggiungendo complessità normativa a qualsiasi percorso di riposizionamento.
+
+**Per procedere, è necessario quanto segue:**
+
+1. **Generare previsioni TxGNN** — Eseguire il modello TxGNN per l'amisulpride (DB06288) per ottenere indicazioni candidate per il riposizionamento con punteggi di confidenza
+2. **Risolvere DG001 (Bloccante)** — Recuperare gli avvertimenti del foglio illustrativo TFDA e le controindicazioni (fonte: sito web TFDA, metodo: scaricare e analizzare il PDF del foglio illustrativo)
+3. **Risolvere DG002 (Alta)** — Recuperare i dati dettagliati su MOA dall'API DrugBank per abilitare l'analisi di collegamento meccanicistico
+4. **Condurre ricerca di evidenza** — Una volta disponibile un'indicazione prevista, eseguire ricerche su studi clinici (ClinicalTrials.gov) e letteratura (PubMed) per la coppia farmaco-indicazione
+5. **Rivalutare il percorso di commercializzazione** — Poiché l'amisulpride non è commercializzato a Taiwan, valutare se una via di importazione/accesso speciale o una nuova richiesta di farmaco sarebbe necessaria per qualsiasi indicazione riposizionata
+
+---
+
+*Questo rapporto è stato generato il 2026-04-03. Cutoff dei dati: 2026-04-03. I risultati sono solo per scopi di ricerca e non costituiscono consulenza medica. I candidati per il riposizionamento di farmaci richiedono validazione clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

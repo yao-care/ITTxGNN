@@ -29,85 +29,82 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-Using the `txgnn-pipeline` skill noted. No additional pipeline-specific overrides apply to report generation. Proceeding to render the report from the Evidence Pack.
+# Fluticasone: Da Rinite Allergica a Emicrania
+
+## Riepilogo in una Frase
+
+Il fluticasone è un glucocorticoide sintetico potente ampiamente utilizzato come corticosteroide inalato o intranasale per la rinite allergica, l'asma e le condizioni infiammatorie correlate, sebbene non abbia alcuna autorizzazione normativa attuale in Italia.
+Il modello TxGNN prevede che potrebbe essere efficace per l'**Emicrania**, tuttavia con **0 sperimentazioni cliniche** e solo **1 pubblicazione perifericamente correlata** disponibili, la base di evidenza è minima in questa fase.
 
 ---
 
-# Fluticasone: From Allergic Rhinitis to Migraine Disorder
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Fluticasone is a potent synthetic glucocorticoid widely used as an inhaled or intranasal corticosteroid for allergic rhinitis, asthma, and related inflammatory conditions, though it holds no current regulatory approval in Italy.
-The TxGNN model predicts it may be effective for **Migraine Disorder**, however with **0 clinical trials** and only **1 peripherally related publication** available, the evidence base is minimal at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Allergic rhinitis / Asthma (corticosteroid class; no Italy authorization on record) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originale | Rinite allergica / Asma (classe corticosteroide; nessuna autorizzazione italiana registrata) |
+| Nuova Indicazione Prevista | Emicrania |
+| Punteggio di Previsione TxGNN | 99.20% |
+| Livello di Evidenza | L5 |
+| Stato del Mercato in Italia | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospendere |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Detailed mechanism of action data is not currently available in the evidence pack. Based on established pharmacology, Fluticasone is a potent synthetic glucocorticoid (GC) that acts via intracellular glucocorticoid receptors to broadly suppress inflammatory gene expression — including inhibition of NF-κB signalling, COX-2 activity, and pro-inflammatory cytokine release (e.g., IL-1β, TNF-α).
+I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nel dossier probatorio. Basandosi sulla farmacologia consolidata, il fluticasone è un glucocorticoide sintetico potente che agisce tramite recettori glucocorticoidi intracellulari per sopprimere ampiamente l'espressione genica infiammatoria — compresa l'inibizione della segnalazione di NF-κB, dell'attività della COX-2 e del rilascio di citochine pro-infiammatorie (ad es., IL-1β, TNF-α).
 
-Neuroinflammation is a recognized component of migraine pathophysiology: trigeminal nerve activation triggers the release of inflammatory neuropeptides such as CGRP and substance P, which in turn promote dural vasodilation and central pain sensitization. Fluticasone's anti-inflammatory profile theoretically overlaps with these pathways. Furthermore, the intranasal route of administration may additionally influence the sphenopalatine ganglion (SPG) — a parasympathetic ganglion in close proximity to the nasal mucosa that is already an established interventional target for migraine treatment (SPG blockade).
+L'infiammazione neurale è una componente riconosciuta della fisiopatologia dell'emicrania: l'attivazione del nervo trigemino provoca il rilascio di neuropeptidi infiammatori come CGRP e sostanza P, che a loro volta promuovono la vasodilatazione durale e la sensibilizzazione centrale al dolore. Il profilo antinfiammatorio del fluticasone teoricamente si sovrappone a questi percorsi. Inoltre, la via di somministrazione intranasale può influenzare ulteriormente il ganglio sfenopala tino (SPG) — un ganglio parasimpatico in stretta vicinanza alla mucosa nasale che è già un bersaglio interventistico consolidato per il trattamento dell'emicrania (blocco SPG).
 
-That said, this mechanistic link remains indirect and theoretical. Systemic bioavailability of intranasal fluticasone is very low (< 2%), making meaningful CNS penetration uncertain. No direct pharmacological studies have demonstrated trigeminal anti-inflammatory activity at clinically achievable doses. The TxGNN model's high prediction score likely reflects shared biological network features between corticosteroid pathways and migraine-related nodes in the knowledge graph, rather than direct pharmacological evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Detto questo, questo collegamento meccanicistico rimane indiretto e teorico. La biodisponibilità sistemica del fluticasone intranasale è molto bassa (< 2%), rendendo incerta la penetrazione significativa del SNC. Nessuno studio farmacologico diretto ha dimostrato attività antinfiammatoria trigeminale a dosi clinicamente realizzabili. L'elevato punteggio di previsione del modello TxGNN probabilmente riflette caratteristiche di rete biologica condivise tra i percorsi corticosteroidi e i nodi correlati all'emicrania nel grafo della conoscenza, piuttosto che l'evidenza farmacologica diretta.
 
 ---
 
-## Literature Evidence
+## Evidenza da Sperimentazioni Cliniche
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Pharmacovigilance Review | Ann Allergy Asthma Immunol | WHO Uppsala Monitoring Centre data revealed an unexpected cluster of neuropsychiatric adverse events during intranasal corticosteroid use — suggesting that despite assumed local action, CNS exposure and neurological effects do occur, lending indirect biological plausibility to CNS activity of intranasal fluticasone |
-
-> **Note:** This publication is an adverse event signal analysis, not a therapeutic efficacy study for migraine. It provides indirect mechanistic context only.
+Attualmente nessuna sperimentazione clinica correlata registrata.
 
 ---
 
-## Italy Market Information
+## Evidenza da Letteratura
 
-Fluticasone (DB13867) currently holds no marketing authorizations in Italy. There are no approved product registrations on record.
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
+|------|------|------|---------|------------------|
+| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Revisione di Farmacovigilanza | Ann Allergy Asthma Immunol | I dati del WHO Uppsala Monitoring Centre hanno rivelato un inaspettato cluster di eventi avversi neuropsichiatrici durante l'uso di corticosteroidi intranasali — suggerendo che nonostante l'azione locale presunta, l'esposizione del SNC e gli effetti neurologici si verificano effettivamente, conferendo plausibilità biologica indiretta all'attività del SNC del fluticasone intranasale |
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+> **Nota:** Questa pubblicazione è un'analisi del segnale di evento avverso, non uno studio di efficacia terapeutica per l'emicrania. Fornisce solo un contesto meccanicistico indiretto.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Il fluticasone (DB13867) attualmente non detiene autorizzazioni alla commercializzazione in Italia. Non ci sono registrazioni di prodotti approvati registrate.
 
-**Rationale:**
-Despite a TxGNN prediction score of 99.20%, the supporting evidence is at Level L5 — no clinical trials have tested fluticasone for migraine, the single identified publication is a pharmacovigilance adverse event review rather than a therapeutic study, and the proposed mechanistic pathway (neuroinflammation suppression via intranasal GC delivery) remains an indirect, unvalidated hypothesis.
+---
 
-**To proceed, the following is needed:**
-- Retrieve full mechanism of action (MOA) data from DrugBank to confirm relevant GC receptor targets
-- Obtain official package insert warnings and contraindications (AIFA / TFDA) to assess safety baseline
-- Commission or identify preclinical studies evaluating fluticasone's effect on trigeminal neuroinflammation or CGRP release
-- Assess CNS bioavailability: does any intranasal or systemic fluticasone formulation achieve sufficient exposure at the trigeminal nucleus or dural level?
-- Search for at least one proof-of-concept clinical study or case series testing corticosteroids (class-level) in acute or prophylactic migraine management, to establish mechanistic class evidence
-- Clarify route compatibility: identify whether an appropriate delivery route exists to achieve the required pharmacological target engagement for migraine
+## Considerazioni di Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+---
+
+## Conclusione e Passaggi Successivi
+
+**Decisione: Sospendere**
+
+**Logica:**
+Nonostante un punteggio di previsione TxGNN del 99.20%, l'evidenza di supporto è al Livello L5 — nessuna sperimentazione clinica ha testato il fluticasone per l'emicrania, l'unica pubblicazione identificata è una revisione di evento avverso di farmacovigilanza piuttosto che uno studio terapeutico, e il percorso meccanicistico proposto (soppressione dell'infiammazione neurale tramite somministrazione GC intranasale) rimane un'ipotesi indiretta, non convalidata.
+
+**Per procedere, è necessario quanto segue:**
+- Recuperare i dati completi del meccanismo d'azione (MOA) da DrugBank per confermare i bersagli pertinenti dei recettori GC
+- Ottenere gli avvertimenti ufficiali del foglio illustrativo e le controindicazioni (AIFA / TFDA) per valutare il profilo di sicurezza di base
+- Commissionare o identificare studi preclinici che valutano l'effetto del fluticasone sull'infiammazione neurale trigeminale o sul rilascio di CGRP
+- Valutare la biodisponibilità del SNC: qualche formulazione intranasale o sistemica di fluticasone raggiunge un'esposizione sufficiente a livello del nucleo trigemino o della dura madre?
+- Cercare almeno uno studio clinico di proof-of-concept o una serie di casi testando corticosteroidi (livello di classe) nella gestione dell'emicrania acuta o profilattica, per stabilire l'evidenza di classe meccanicistica
+- Chiarire la compatibilità della via: identificare se esiste una via di somministrazione appropriata per raggiungere il coinvolgimento del bersaglio farmacologico richiesto per l'emicrania
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

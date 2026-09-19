@@ -29,83 +29,78 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill context confirmed. Now generating the evaluation report from the Evidence Pack.
+# Latanoprost: Dal glaucoma ad angolo aperto al glaucoma ereditario primario
+
+## Riassunto in una frase
+
+Latanoprost è un agonista del recettore prostaglandina F2α (FP) ampiamente utilizzato per ridurre la pressione intraoculare (IOP) nel glaucoma ad angolo aperto e nell'ipertensione oculare. Il modello TxGNN predice che potrebbe essere efficace per il **glaucoma ereditario primario**, con **1 trial clinico di fase 2 completato** che fornisce attualmente prove dirette di supporto per questa direzione.
 
 ---
 
-# Latanoprost: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Latanoprost is a prostaglandin F2α (FP) receptor agonist widely used to reduce intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**,
-with **1 completed Phase 2 clinical trial** currently providing direct supporting evidence for this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Open-angle glaucoma / Ocular hypertension |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L2 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Glaucoma ad angolo aperto / Ipertensione oculare |
+| Nuova indicazione predetta | Glaucoma ereditario primario |
+| Punteggio di previsione TxGNN | 99.88% |
+| Livello di evidenza | L2 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Prosegui con cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, Latanoprost is a selective prostaglandin F2α (FP) receptor agonist that lowers intraocular pressure by increasing aqueous humor outflow through the uveoscleral pathway. Its efficacy and safety in reducing IOP for open-angle glaucoma and ocular hypertension are well established across decades of clinical use.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack. Sulla base della farmacologia nota, latanoprost è un agonista selettivo del recettore prostaglandina F2α (FP) che riduce la pressione intraoculare aumentando il deflusso dell'umor acqueo attraverso il percorso uvosclerale. La sua efficacia e sicurezza nel ridurre l'IOP nel glaucoma ad angolo aperto e nell'ipertensione oculare sono ben consolidate nel corso di decenni di uso clinico.
 
-Primary hereditary glaucoma — caused by mutations in genes such as *MYOC* (myocilin) and *CYP1B1* — shares the same pathological endpoint as open-angle glaucoma: elevated IOP leading to progressive optic nerve damage and irreversible vision loss. Although the root cause is genetic rather than acquired, IOP control remains the cornerstone of management for most hereditary glaucoma forms, including cases refractory to surgical procedures.
+Il glaucoma ereditario primario — causato da mutazioni in geni come *MYOC* (miocilina) e *CYP1B1* — condivide lo stesso punto finale patologico del glaucoma ad angolo aperto: aumento dell'IOP che porta al danno progressivo del nervo ottico e alla perdita visiva irreversibile. Sebbene la causa radice sia genetica piuttosto che acquisita, il controllo dell'IOP rimane la pietra miliare della gestione per la maggior parte delle forme di glaucoma ereditario, inclusi i casi refrattari alle procedure chirurgiche.
 
-Because Latanoprost's mechanism acts downstream of the genetic defect — directly enhancing uveoscleral outflow regardless of the upstream mutation — its IOP-lowering effect is biologically applicable to this population. Notably, a Phase 2 trial (NCT01527682) directly evaluated a prostaglandin analogue and dorzolamide combination in paediatric hereditary glaucoma patients who had already failed surgery, providing the strongest currently available direct clinical evidence for this repurposing pathway.
+Poiché il meccanismo d'azione del latanoprost agisce a valle del difetto genetico — migliorando direttamente il deflusso uvosclerale indipendentemente dalla mutazione a monte — il suo effetto di riduzione dell'IOP è biologicamente applicabile a questa popolazione. In particolare, uno studio di fase 2 (NCT01527682) ha valutato direttamente una combinazione di analogo della prostaglandina e dorzolamide in pazienti pediatrici affetti da glaucoma ereditario che avevano già fallito la chirurgia, fornendo le prove cliniche dirette più forti attualmente disponibili per questo percorso di riposizionamento farmacologico.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenze dagli studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Completed | 37 | Assessed ocular hypotensive efficacy and safety of a prostaglandin analogue (latanoprost class) plus dorzolamide in paediatric glaucoma patients refractory to surgery. Targeted 68 eyes across 34–68 patients; protocol was amended mid-study. Full-text review needed to confirm primary endpoint outcomes. |
+| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fase 2 | Completato | 37 | Ha valutato l'efficacia ipotensiva oculare e la sicurezza di un analogo della prostaglandina (classe latanoprost) più dorzolamide in pazienti pediatrici con glaucoma refrattario alla chirurgia. Era previsto arruolare 68 occhi in 34–68 pazienti; il protocollo è stato modificato nel corso dello studio. Revisione del testo completo necessaria per confermare i risultati dell'endpoint primario. |
 
 ---
 
-## Literature Evidence
+## Evidenze dalla letteratura
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Latanoprost is not currently approved or marketed in Italy (AIFA). No authorization records are available.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Safety Considerations
+## Informazioni sul mercato italiano
 
-Please refer to the package insert for safety information.
+Latanoprost non è attualmente approvato né commercializzato in Italia (AIFA). Nessun record di autorizzazione è disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-A completed Phase 2 trial directly evaluates prostaglandin analogue therapy in paediatric primary hereditary glaucoma refractory to surgery, and Latanoprost's FP receptor-mediated IOP reduction is mechanistically valid regardless of the underlying genetic aetiology — making this a well-grounded repurposing candidate.
+---
 
-**To proceed, the following is needed:**
-- Full-text review of NCT01527682 to confirm primary endpoint achievement, safety profile, and subgroup-specific outcomes
-- Mechanism of action (MOA) data from DrugBank API to complete the mechanistic rationale
-- Safety and contraindication data from the Italian / AIFA package insert to enable S1 safety screening
-- Paediatric dosing and formulation suitability assessment for the primary hereditary glaucoma population
-- Drug–drug interaction (DDI) profile review, particularly for patients on concurrent anti-glaucoma therapies
+## Conclusione e prossimi passi
+
+**Decisione: Prosegui con cautele**
+
+**Razionale:**
+Uno studio di fase 2 completato valuta direttamente la terapia con analogo della prostaglandina nel glaucoma ereditario primario pediatrico refrattario alla chirurgia, e la riduzione dell'IOP mediata dal recettore FP di latanoprost è meccanicisticamente valida indipendentemente dall'eziologia genetica sottostante — rendendo questo un candidato di riposizionamento ben fondato.
+
+**Per procedere, sono necessari i seguenti elementi:**
+- Revisione del testo completo di NCT01527682 per confermare il raggiungimento dell'endpoint primario, il profilo di sicurezza e gli outcome specifici dei sottogruppi
+- Dati sul meccanismo d'azione (MOA) dall'API di DrugBank per completare la razionale meccanicistica
+- Dati di sicurezza e controindicazioni dal foglio illustrativo italiano / AIFA per consentire lo screening di sicurezza S1
+- Valutazione della dosimetria pediatrica e dell'appropriatezza della formulazione per la popolazione con glaucoma ereditario primario
+- Revisione del profilo di interazioni farmaco-farmaco (DDI), in particolare per i pazienti in terapia antiglaucoma concomitante
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

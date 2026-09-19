@@ -29,100 +29,101 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# AMIODARONE: Drug Repurposing Evaluation Report
+# AMIODARONE: Relazione di Valutazione del Ripropositioning Farmacologico
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Amiodarone is a well-known Class III antiarrhythmic agent widely used internationally for the management of ventricular and supraventricular arrhythmias. The TxGNN model has **not generated any predicted new indications** for this drug at this time. The evidence pack contains significant data gaps that must be resolved before further evaluation can proceed.
+L'amiodarone è un noto agente antiaritmico di Classe III ampiamente utilizzato a livello internazionale per la gestione delle aritmie ventricolari e sopraventricolari. Il modello TxGNN **non ha generato alcuna indicazione nuova prevista** per questo farmaco al momento attuale. Il pacchetto di prove contiene importanti lacune di dati che devono essere risolte prima di poter procedere con ulteriori valutazioni.
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
-|------|------|
-| Drug Name (INN) | Amiodarone |
-| DrugBank ID | [DB01118](https://go.drugbank.com/drugs/DB01118) |
-| Original Indication | Not available in evidence pack (known internationally: cardiac arrhythmias) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction, no supporting studies) |
-| Taiwan (TFDA) Market Status | ❌ Not marketed (Not marketed) |
-| Number of TFDA Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is There No Prediction?
-
-Amiodarone (DrugBank: DB01118) was queried through the TxGNN pipeline, but the model returned **no predicted new indications**. This may be due to one or more of the following reasons:
-
-1. **Insufficient input features** — The evidence pack is missing critical data including the mechanism of action (MOA), TFDA package insert warnings, and contraindication profiles. Without these, the model's knowledge graph linkage may be incomplete.
-2. **No TFDA market presence** — Amiodarone has zero TFDA authorizations in Taiwan, meaning there is no local regulatory anchor from which to derive indication text or safety metadata for the repurposing pipeline.
-
-Internationally, Amiodarone is recognized as a potent Class III antiarrhythmic agent that works primarily by blocking potassium channels, prolonging the cardiac action potential and refractory period. It also exhibits Class I (sodium channel blocking), Class II (beta-adrenergic blocking), and Class IV (calcium channel blocking) properties, making it one of the most pharmacologically complex antiarrhythmics available. Its known indications include life-threatening ventricular arrhythmias (ventricular fibrillation, hemodynamically unstable ventricular tachycardia) and atrial fibrillation/flutter refractory to other treatments.
+| Elemento | Contenuto |
+|----------|-----------|
+| Nome del Farmaco (INN) | Amiodarone |
+| ID DrugBank | [DB01118](https://go.drugbank.com/drugs/DB01118) |
+| Indicazione Originale | Non disponibile nel pacchetto di prove (noto a livello internazionale: aritmie cardiache) |
+| Indicazione Nuova Prevista | — (Nessuna predizione TxGNN disponibile) |
+| Punteggio di Predizione TxGNN | — |
+| Livello di Evidenza | L5 (Nessuna predizione, nessuno studio di supporto) |
+| Stato del Mercato Taiwan (TFDA) | ❌ Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni TFDA | 0 |
+| Decisione Consigliata | **Sospensione** |
 
 ---
 
-## Clinical Trial Evidence
+## Perché Non c'è Previsione?
 
-Currently no TxGNN-predicted indication is available; therefore, no targeted clinical trial search was performed for a repurposed indication.
+L'amiodarone (DrugBank: DB01118) è stato interrogato attraverso la pipeline TxGNN, ma il modello ha restituito **nessuna indicazione nuova prevista**. Questo potrebbe essere dovuto a uno o più dei seguenti motivi:
 
----
+1. **Caratteristiche di input insufficienti** — Il pacchetto di prove è privo di dati critici inclusi il meccanismo d'azione (MOA), gli avvertimenti del foglio illustrativo TFDA e i profili di controindicazione. Senza questi, il collegamento del grafo di conoscenza del modello potrebbe essere incompleto.
+2. **Nessuna presenza sul mercato TFDA** — L'amiodarone ha zero autorizzazioni TFDA a Taiwan, il che significa che non c'è un ancoraggio normativo locale da cui derivare il testo dell'indicazione o i metadati di sicurezza per la pipeline di ripropositioning.
 
-## Literature Evidence
-
-Currently no TxGNN-predicted indication is available; therefore, no targeted literature search was performed for a repurposed indication.
-
----
-
-## Taiwan (TFDA) Market Information
-
-Amiodarone currently has **no TFDA authorizations** in Taiwan. The TFDA query (2026-03-29) returned zero results. This drug is classified as **Not marketed (not marketed)** in the Taiwan regulatory system.
+A livello internazionale, l'amiodarone è riconosciuto come un potente agente antiaritmico di Classe III che funziona principalmente bloccando i canali del potassio, prolungando il potenziale d'azione cardiaco e il periodo refrattario. Inoltre, mostra proprietà di Classe I (blocco dei canali del sodio), Classe II (blocco beta-adrenergico) e Classe IV (blocco dei canali del calcio), rendendolo uno degli antiaritmici più complessi dal punto di vista farmacologico disponibili. Le sue indicazioni note includono aritmie ventricolari potenzialmente mortali (fibrillazione ventricolare, tachicardia ventricolare emodinamicamente instabile) e fibrillazione/flutter atriale refrattaria ad altri trattamenti.
 
 ---
 
-## Safety Considerations
+## Evidenza di Studi Clinici
 
-> Safety data (warnings, contraindications, and drug-drug interactions) could not be retrieved from the evidence pack sources. Please refer to the international package insert (e.g., FDA-approved labelling for Cordarone®/Pacerone®) for comprehensive safety information.
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata di studi clinici è stata eseguita per un'indicazione di ripropositioning.
+
+---
+
+## Evidenza della Letteratura
+
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata della letteratura è stata eseguita per un'indicazione di ripropositioning.
+
+---
+
+## Informazioni sul Mercato Taiwan (TFDA)
+
+L'amiodarone attualmente ha **zero autorizzazioni TFDA** a Taiwan. La query TFDA (2026-03-29) ha restituito zero risultati. Questo farmaco è classificato come **Non commercializzato (non commercializzato)** nel sistema normativo taiwanese.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+> I dati sulla sicurezza (avvertimenti, controindicazioni e interazioni farmaco-farmaco) non potevano essere recuperati dalle fonti del pacchetto di prove. Si prega di fare riferimento al foglio illustrativo internazionale (ad es., etichettatura approvata dalla FDA per Cordarone®/Pacerone®) per informazioni complete sulla sicurezza.
 >
-> **Known critical safety concerns (from international labelling):**
-> - **Black Box Warning (FDA):** Pulmonary toxicity (potentially fatal), hepatotoxicity, and proarrhythmic effects. Should only be used for life-threatening arrhythmias due to substantial toxicity.
-> - **Thyroid dysfunction:** Amiodarone contains ~37% iodine by weight; both hypo- and hyperthyroidism are common.
-> - **QT prolongation and Torsades de Pointes risk.**
-> - **Corneal microdeposits** occur in nearly all patients.
-> - **Extensive drug-drug interactions** due to CYP3A4 and CYP2C8 inhibition (e.g., with warfarin, digoxin, simvastatin, and other QT-prolonging agents).
+> **Problemi di sicurezza critica noti (dall'etichettatura internazionale):**
+> - **Avvertimento Black Box (FDA):** Tossicità polmonare (potenzialmente fatale), epatotossicità ed effetti pro-aritmici. Dovrebbe essere utilizzato solo per aritmie potenzialmente mortali a causa della sostanziale tossicità.
+> - **Disfunzione tiroidea:** L'amiodarone contiene circa il 37% di iodio in peso; sia l'ipotiroidismo che l'ipertiroidismo sono comuni.
+> - **Rischio di prolungamento dell'intervallo QT e Torsades de Pointes.**
+> - **Depositi di microcristalli corneali** si verificano in quasi tutti i pazienti.
+> - **Estese interazioni farmaco-farmaco** dovute all'inibizione di CYP3A4 e CYP2C8 (ad es., con warfarin, digossina, simvastatina e altri agenti che prolungano l'intervallo QT).
 >
-> ⚠️ *These safety notes are based on general pharmacological knowledge and are not sourced from the evidence pack. They are provided for reference only.*
+> ⚠️ *Queste note sulla sicurezza si basano su conoscenze farmacologiche generali e non provengono dal pacchetto di prove. Sono fornite solo come riferimento.*
 
 ---
 
-## Data Gaps Requiring Resolution
+## Lacune di Dati che Richiedono Risoluzione
 
-The evidence pack flagged the following critical gaps:
+Il pacchetto di prove ha segnalato le seguenti lacune critiche:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanism-association analysis | Query DrugBank API |
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN model has not produced any predicted new indications for Amiodarone. Additionally, there are **blocking-level data gaps** (missing TFDA safety data and MOA) that prevent the candidate from entering even the preliminary safety evaluation stage (S1). Without a predicted indication to evaluate, there is no actionable repurposing hypothesis at this time.
-
-**To proceed, the following is needed:**
-- **[Blocking]** Obtain TFDA package insert data (warnings, contraindications) — or, if no TFDA approval exists, source equivalent data from FDA/EMA labelling
-- **[High]** Populate mechanism of action (MOA) from DrugBank API to enable knowledge graph linkage
-- **[High]** Investigate why TxGNN produced no predictions — verify that the drug node is properly connected in the knowledge graph and that input features are complete
-- **[Medium]** If Amiodarone is not marketed in Taiwan, consider whether the repurposing pipeline should evaluate it under an alternative regulatory framework (e.g., cross-referencing with FDA/EMA indications)
-- **[Optional]** Re-run TxGNN prediction after resolving data gaps to determine if new indications emerge
+| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
+|-----------|-----------|----------|---------|---------|---------|
+| DG001 | Livello Farmaco | Avvertimenti del Foglio Illustrativo TFDA/Controindicazioni | **Bloccante** | Non può entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | Alto | Influisce sull'analisi di associazione del meccanismo | Interrogare l'API DrugBank |
 
 ---
 
-*This report was generated on 2026-04-03 based on Evidence Pack v4 (data cutoff: 2026-04-03). Results are for research reference only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Conclusione e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Il modello TxGNN non ha prodotto alcuna indicazione nuova prevista per l'amiodarone. Inoltre, ci sono **lacune di dati a livello bloccante** (dati di sicurezza TFDA mancanti e MOA) che impediscono al candidato di entrare anche nella fase preliminare di valutazione della sicurezza (S1). Senza un'indicazione prevista da valutare, non c'è al momento alcuna ipotesi di ripropositioning attuabile.
+
+**Per procedere, è necessario quanto segue:**
+- **[Bloccante]** Ottenere i dati del foglio illustrativo TFDA (avvertimenti, controindicazioni) — oppure, se nessuna approvazione TFDA esiste, reperire dati equivalenti dall'etichettatura FDA/EMA
+- **[Alto]** Completare il meccanismo d'azione (MOA) dall'API DrugBank per abilitare il collegamento del grafo di conoscenza
+- **[Alto]** Investigare perché TxGNN non ha prodotto alcuna previsione — verificare che il nodo del farmaco sia propriamente collegato nel grafo di conoscenza e che le caratteristiche di input siano complete
+- **[Medio]** Se l'amiodarone non è commercializzato a Taiwan, considerare se la pipeline di ripropositioning dovrebbe valutarlo secondo un quadro normativo alternativo (ad es., riferimenti incrociati con indicazioni FDA/EMA)
+- **[Opzionale]** Rieseguire la predizione TxGNN dopo la risoluzione delle lacune di dati per determinare se emergono nuove indicazioni
+
+---
+
+*Questo rapporto è stato generato il 2026-04-03 sulla base del Pacchetto di Prove v4 (data di aggiornamento: 2026-04-03). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. Qualsiasi candidato di ripropositioning farmacologico richiede convalida clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

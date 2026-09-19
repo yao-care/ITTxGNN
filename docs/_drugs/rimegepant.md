@@ -29,87 +29,87 @@ Livello di evidenza: **L3** | Indicazioni previste: **6**
 
 </div>
 
-# Rimegepant: From Migraine to Migraine with Brainstem Aura
+# Rimegepant: Dall'Emicrania all'Emicrania con Aura del Tronco Encefalico
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Rimegepant (Nurtec ODT / Vydura) is a CGRP receptor antagonist approved in the US and EU for the acute treatment of migraine with or without aura, and for the preventive treatment of episodic migraine in adults.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** — a specific subtype historically excluded from triptan use due to vascular safety concerns — with **no dedicated clinical trials** and **14 publications** (drawn primarily from general migraine populations) currently informing this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Acute treatment of migraine with or without aura; preventive treatment of episodic migraine (based on US/EU approvals — not yet registered in Italy) |
-| Predicted New Indication | Migraine with Brainstem Aura |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 |
-| Italy Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Rimegepant (Nurtec ODT / Vydura) è un antagonista del recettore CGRP approvato negli USA e nell'UE per il trattamento acuto dell'emicrania con o senza aura, e per il trattamento preventivo dell'emicrania episodica negli adulti. Il modello TxGNN prevede che potrebbe essere efficace per l'**Emicrania con Aura del Tronco Encefalico** — un sottotipo specifico storicamente escluso dall'uso dei triptani a causa di preoccupazioni relative alla sicurezza vascolare — con **nessuno studio clinico dedicato** e **14 pubblicazioni** (tratte principalmente da popolazioni con emicrania generale) che attualmente informano questa direzione.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Rimegepant belongs to the gepant class — small-molecule calcitonin gene-related peptide (CGRP) receptor antagonists. CGRP is a neuropeptide released from trigeminal nerve terminals during migraine attacks; by blocking its receptor, rimegepant interrupts the trigeminal-vascular pain cascade that underlies migraine regardless of aura subtype. This mechanism is not route-specific or cortex-specific: it operates across the entire trigeminal system, including brainstem projections.
-
-Migraine with brainstem aura (historically called basilar-type migraine) produces aura symptoms originating in the brainstem — dysarthria, diplopia, tinnitus, hyperacusis, or impaired consciousness — before or during the headache phase. For decades, triptans were considered contraindicated in this population due to concerns about serotonin-mediated vasoconstriction in the posterior circulation. Rimegepant does not act via vasoconstriction; the 2026 longitudinal MRI angiography study (PMID 41574090) confirmed a non-vasoconstrictive vascular profile during real migraine attacks, making it theoretically safer than triptans for this subtype.
-
-The principal limitation is that all existing Phase 3 RCTs enrolled adults with "migraine with or without aura" as a broad category, without stratifying for the brainstem aura variant. The prediction therefore rests on mechanistic extrapolation supported by indirect population-level data, not a dedicated trial. Given the unmet need in this patient group — who currently have few approved acute options — the extrapolation is scientifically defensible, though prospective confirmation remains necessary.
-
----
-
-## Clinical Trial Evidence
-
-Currently no clinical trials specifically studying rimegepant for migraine with brainstem aura are registered in ClinicalTrials.gov or ICTRP.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Trattamento acuto dell'emicrania con o senza aura; trattamento preventivo dell'emicrania episodica (basato su approvazioni USA/UE — non ancora registrato in Italia) |
+| Nuova Indicazione Prevista | Emicrania con Aura del Tronco Encefalico |
+| Punteggio di Previsione TxGNN | 99.94% |
+| Livello di Evidenza | L3 |
+| Stato del Mercato in Italia | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Literature Evidence
+## Perché Questa Previsione è Ragionevole?
 
-| PMID | Year | Type | Journal | Key Findings |
+Rimegepant appartiene alla classe dei gepanti — antagonisti del recettore del peptide correlato al gene della calcitonina (CGRP) a piccole molecole. Il CGRP è un neuropeptide rilasciato dai terminali del nervo trigemino durante gli attacchi di emicrania; bloccandone il recettore, rimegepant interrompe la cascata del dolore trigemino-vascolare che sottende l'emicrania indipendentemente dal sottotipo di aura. Questo meccanismo non è route-specifico o cortex-specifico: opera in tutto il sistema trigemino, incluse le proiezioni del tronco encefalico.
+
+L'emicrania con aura del tronco encefalico (storicamente chiamata emicrania di tipo basilare) produce sintomi di aura originari dal tronco encefalico — disartria, diplopia, acufene, iperacusia, o alterazione della coscienza — prima o durante la fase di cefalea. Per decenni, i triptani sono stati considerati controindicati in questa popolazione a causa delle preoccupazioni riguardanti la vasocostrizione mediata dalla serotonina nella circolazione posteriore. Rimegepant non agisce mediante vasocostrizione; lo studio longitudinale di angiografia RM del 2026 (PMID 41574090) ha confermato un profilo vascolare non vasocostrittivo durante gli attacchi di emicrania reali, rendendolo teoricamente più sicuro dei triptani per questo sottotipo.
+
+La principale limitazione è che tutti gli RCT di Fase 3 esistenti hanno arruolato adulti con "emicrania con o senza aura" come categoria ampia, senza stratificare per la variante di aura del tronco encefalico. La previsione quindi si basa sull'estrapolazione meccanicistica supportata da dati indiretti a livello di popolazione, non da uno studio dedicato. Dato il bisogno insoddisfatto in questo gruppo di pazienti — che attualmente hanno poche opzioni acute approvate — l'estrapolazione è scientificamente difendibile, sebbene la conferma prospettica rimanga necessaria.
+
+---
+
+## Evidenza da Studi Clinici
+
+Attualmente nessuno studio clinico che studi specificamente rimegepant per l'emicrania con aura del tronco encefalico è registrato in ClinicalTrials.gov o ICTRP.
+
+---
+
+## Evidenza dalla Letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati Principali |
 |------|------|------|---------|-------------|
-| [36739335](https://pubmed.ncbi.nlm.nih.gov/36739335/) | 2023 | Narrative Review | CNS Drugs | Comprehensive review of rimegepant (Nurtec ODT / Vydura): Phase 3 pivotal trials demonstrated superiority over placebo for 2-hour pain freedom and sustained pain relief; dual approval for acute and preventive migraine |
-| [38307667](https://pubmed.ncbi.nlm.nih.gov/38307667/) | 2024 | Comprehensive Review | Handbook of Clinical Neurology | Full overview of the gepant class; traces CGRP receptor antagonist development from first-generation (hepatotoxicity issues) to approved gepants; contextualises rimegepant's safety profile |
-| [32270407](https://pubmed.ncbi.nlm.nih.gov/32270407/) | 2020 | Regulatory Review | Drugs | First-approval profile: clinical pharmacology, pivotal trial data, and regulatory milestones for rimegepant ODT; also notes investigation for refractory trigeminal neuralgia |
-| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Network Meta-Analysis | The Journal of Headache and Pain | Indirect comparison of lasmiditan vs. rimegepant and ubrogepant for acute oral migraine treatment; quantifies onset-of-efficacy differences across novel agents in the absence of head-to-head trials |
-| [41366286](https://pubmed.ncbi.nlm.nih.gov/41366286/) | 2025 | Phase 4 Open-Label Trial | The Journal of Headache and Pain | 24-week study of once-daily rimegepant 75 mg for episodic migraine prevention; confirms long-term tolerability at a higher dosing frequency than currently approved |
-| [41066271](https://pubmed.ncbi.nlm.nih.gov/41066271/) | 2025 | Phase 3 Open-Label | Cephalalgia | Long-term safety and effectiveness of rimegepant 75 mg ODT in Chinese adults with 6–18 monthly migraine attacks; first Phase 3 dataset from an Asian population, supporting cross-ethnic generalisability |
-| [41574090](https://pubmed.ncbi.nlm.nih.gov/41574090/) | 2026 | Longitudinal MRA Study | Brain Communications | First direct vascular imaging study during spontaneous migraine attacks; confirms rimegepant does not cause cerebral or extracerebral vasoconstriction — directly relevant to the safety argument in brainstem aura |
-| [33550872](https://pubmed.ncbi.nlm.nih.gov/33550872/) | 2021 | Review | Pain Management | Contextual review of rimegepant within the landscape of novel acute migraine therapies; discusses patient selection, safety, and pharmacoeconomics |
-| [41652664](https://pubmed.ncbi.nlm.nih.gov/41652664/) | 2026 | Retrospective Cohort | Headache | Off-label rimegepant use for acute migraine in adolescents; evaluates real-world tolerability and effectiveness outside approved age groups |
-| [32993366](https://pubmed.ncbi.nlm.nih.gov/32993366/) | 2021 | Review | Annals of Pharmacotherapy | Comparative review of rimegepant, ubrogepant, and lasmiditan as novel acute migraine agents; summarises efficacy endpoints, adverse event profiles, and place-in-therapy considerations |
+| [36739335](https://pubmed.ncbi.nlm.nih.gov/36739335/) | 2023 | Rassegna Narrativa | CNS Drugs | Rassegna completa di rimegepant (Nurtec ODT / Vydura): gli studi pivotali di Fase 3 hanno dimostrato la superiorità rispetto al placebo per l'assenza di dolore a 2 ore e il sollievo dal dolore sostenuto; approvazione duale per l'emicrania acuta e preventiva |
+| [38307667](https://pubmed.ncbi.nlm.nih.gov/38307667/) | 2024 | Rassegna Completa | Handbook of Clinical Neurology | Panoramica completa della classe dei gepanti; traccia lo sviluppo degli antagonisti del recettore CGRP dalla prima generazione (problemi di epatotossicità) ai gepanti approvati; contestualizza il profilo di sicurezza di rimegepant |
+| [32270407](https://pubmed.ncbi.nlm.nih.gov/32270407/) | 2020 | Rassegna Normativa | Drugs | Profilo di prima approvazione: farmacologia clinica, dati degli studi pivotali e traguardi normativi per rimegepant ODT; nota anche l'indagine per la nevralgia trigeminale refrattaria |
+| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Meta-Analisi di Rete | The Journal of Headache and Pain | Confronto indiretto di lasmiditan vs. rimegepant e ubrogepant per il trattamento acuto dell'emicrania orale; quantifica le differenze di inizio dell'efficacia tra i nuovi agenti in assenza di studi head-to-head |
+| [41366286](https://pubmed.ncbi.nlm.nih.gov/41366286/) | 2025 | Studio di Fase 4 in Aperto | The Journal of Headache and Pain | Studio di 24 settimane di rimegepant 75 mg una volta al giorno per la prevenzione dell'emicrania episodica; conferma la tollerabilità a lungo termine a una frequenza di dosaggio superiore a quella attualmente approvata |
+| [41066271](https://pubmed.ncbi.nlm.nih.gov/41066271/) | 2025 | Studio di Fase 3 in Aperto | Cephalalgia | Sicurezza a lungo termine ed efficacia di rimegepant 75 mg ODT in adulti cinesi con attacchi di emicrania mensili 6–18; primo set di dati di Fase 3 da una popolazione asiatica, che supporta la generalizzabilità transculturale |
+| [41574090](https://pubmed.ncbi.nlm.nih.gov/41574090/) | 2026 | Studio di MRA Longitudinale | Brain Communications | Primo studio di imaging vascolare diretto durante gli attacchi spontanei di emicrania; conferma che rimegepant non causa vasocostrizione cerebrale o extracerebrale — direttamente rilevante per l'argomento di sicurezza nell'aura del tronco encefalico |
+| [33550872](https://pubmed.ncbi.nlm.nih.gov/33550872/) | 2021 | Rassegna | Pain Management | Rassegna contestuale di rimegepant all'interno del panorama delle nuove terapie acute per l'emicrania; discussione sulla selezione dei pazienti, sicurezza e farmacoeconomia |
+| [41652664](https://pubmed.ncbi.nlm.nih.gov/41652664/) | 2026 | Studio di Coorte Retrospettivo | Headache | Uso off-label di rimegepant per l'emicrania acuta negli adolescenti; valuta la tollerabilità e l'efficacia nel mondo reale al di fuori dei gruppi di età approvati |
+| [32993366](https://pubmed.ncbi.nlm.nih.gov/32993366/) | 2021 | Rassegna | Annals of Pharmacotherapy | Rassegna comparativa di rimegepant, ubrogepant e lasmiditan come nuovi agenti acuti per l'emicrania; riassume gli endpoint di efficacia, i profili degli eventi avversi e le considerazioni di posizionamento terapeutico |
 
 ---
 
-## Italy Market Information
+## Informazioni sul Mercato Italiano
 
-Rimegepant currently holds no AIFA marketing authorizations in Italy. It is approved in the US as Nurtec ODT (Pfizer/Biohaven) and in the EU as Vydura; however, EU approval does not automatically confer Italian market availability — a separate AIFA procedure or mutual recognition process would be required. Italian patients currently have no licensed access to this drug.
-
----
-
-## Safety Considerations
-
-Please refer to the Vydura EU Summary of Product Characteristics (SmPC) for the full safety profile. No drug interaction data was available in this evidence pack for automated review.
+Rimegepant attualmente non possiede autorizzazioni di commercializzazione dell'AIFA in Italia. È approvato negli USA come Nurtec ODT (Pfizer/Biohaven) e nell'UE come Vydura; tuttavia, l'approvazione dell'UE non conferisce automaticamente la disponibilità sul mercato italiano — sarebbe richiesta una procedura AIFA separata o un processo di riconoscimento reciproco. I pazienti italiani attualmente non hanno accesso autorizzato a questo farmaco.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al Riassunto delle Caratteristiche del Prodotto (SmPC) dell'UE di Vydura per il profilo di sicurezza completo. Nessun dato di interazione farmacologica era disponibile in questo pacchetto di evidenze per la revisione automatizzata.
 
-**Rationale:**
-Rimegepant's non-vasoconstrictive CGRP receptor antagonism is mechanistically applicable across all migraine subtypes, and for migraine with brainstem aura specifically, the absence of vasoconstriction addresses the core reason triptans have been avoided in this population — creating a genuinely meaningful clinical opportunity. However, all supporting evidence is indirect extrapolation from broad migraine trials; no dedicated brainstem aura data exists.
+---
 
-**To proceed, the following is needed:**
-- A prospective registry or sub-group analysis specifically capturing patients with migraine with brainstem aura to generate direct efficacy and safety data
-- Full MOA documentation (DrugBank API query listed as pending) to support regulatory and payer submissions
-- AIFA marketing authorization application or compassionate use framework — rimegepant is approved in the EU (Vydura) but not yet registered in Italy
-- Review of the full Vydura SmPC for contraindications, hepatic warnings, and CYP3A4 interaction guidance before clinical use
-- Pharmacovigilance design tailored to the brainstem aura population, who may carry elevated cerebrovascular risk compared to typical migraine patients
+## Conclusioni e Prossimi Passi
+
+**Decisione: Procedere con Cautele**
+
+**Razionale:**
+L'antagonismo non vasocostrittivo del recettore CGRP di rimegepant è meccanicisticamente applicabile a tutti i sottotipi di emicrania, e per l'emicrania con aura del tronco encefalico in particolare, l'assenza di vasocostrizione affronta la ragione fondamentale per cui i triptani sono stati evitati in questa popolazione — creando un'opportunità clinica veramente significativa. Tuttavia, tutte le evidenze di supporto sono estrapolazioni indirette da studi su emicrania ampia; nessun dato dedicato all'aura del tronco encefalico esiste.
+
+**Per procedere, è necessario quanto segue:**
+- Un registro prospettico o un'analisi di sottogruppo che catturi specificamente i pazienti con emicrania con aura del tronco encefalico per generare dati diretti di efficacia e sicurezza
+- Documentazione completa del meccanismo d'azione (query API DrugBank elencata come in sospeso) per supportare i dossier normativi e dei pagatori
+- Domanda di autorizzazione di commercializzazione dell'AIFA o quadro di uso compassionevole — rimegepant è approvato nell'UE (Vydura) ma non ancora registrato in Italia
+- Revisione dello SmPC completo di Vydura per le controindicazioni, gli avvertimenti epatici e la guida alle interazioni CYP3A4 prima dell'uso clinico
+- Progettazione della farmacovigilanza personalizzata per la popolazione con aura del tronco encefalico, che potrebbe presentare un rischio cerebrovascolare elevato rispetto ai pazienti tipici con emicrania
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

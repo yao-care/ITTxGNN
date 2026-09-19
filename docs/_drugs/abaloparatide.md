@@ -29,92 +29,93 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# ABALOPARATIDE: Preliminary Evaluation — Awaiting Prediction Data
+# ABALOPARATIDE: Valutazione preliminare — In attesa di dati di predizione
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Abaloparatide (DrugBank: DB05084) is a synthetic peptide analog of parathyroid hormone-related protein (PTHrP), known internationally for the treatment of postmenopausal osteoporosis at high risk of fracture. The TxGNN model has **not yet generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps in mechanism of action and safety information. This report serves as a **baseline record** pending completion of prediction and data enrichment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in current evidence pack (known externally: postmenopausal osteoporosis) |
-| Predicted New Indication | — (No prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | **L5** (No prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Abaloparatide (DrugBank: DB05084) è un analogo peptidico sintetico della proteina correlata all'ormone paratiroideo (PTHrP), noto a livello internazionale per il trattamento dell'osteoporosi postmenopausale ad alto rischio di frattura. Il modello TxGNN **non ha ancora generato alcuna nuova indicazione predetta** per questo farmaco, e il pacchetto di prove contiene importanti lacune di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Questo rapporto funge da **record di base** in attesa del completamento della predizione e dell'arricchimento dei dati.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, abaloparatide is a synthetic analog of human parathyroid hormone-related protein (PTHrP(1-34)). It acts as a selective activator of the PTH1 receptor signaling pathway, preferentially stimulating the RG conformation of the receptor, which promotes bone formation over bone resorption. It is approved in the United States (brand name: Tymlos) for the treatment of postmenopausal women with osteoporosis at high risk for fracture.
-
-**No TxGNN prediction has been generated for this drug.** The `predicted_indications` array is empty, meaning the model either has not yet processed this compound or did not identify candidate indications above the confidence threshold. Without a predicted new indication, no mechanism-based plausibility analysis can be conducted at this time.
-
-To move forward, the following data enrichment steps are required:
-1. Complete the TxGNN prediction pipeline for ABALOPARATIDE
-2. Retrieve and populate the mechanism of action (MOA) from DrugBank API
-3. Obtain TFDA package insert warnings and contraindications
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available; therefore, no targeted clinical trial search has been performed.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Non registrata nel pacchetto di prove attuale (nota esternamente: osteoporosi postmenopausale) |
+| Nuova indicazione predetta | — (Nessuna predizione disponibile) |
+| Punteggio di predizione TxGNN | — |
+| Livello di evidenza | **L5** (Nessuna predizione o studi di supporto) |
+| Stato del mercato di Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospensione** |
 
 ---
 
-## Literature Evidence
+## Perché questa predizione è ragionevole?
 
-Currently no predicted indication is available; therefore, no targeted literature search has been performed.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di prove. In base alle informazioni pubblicamente note, abaloparatide è un analogo sintetico della proteina correlata all'ormone paratiroideo umano (PTHrP(1-34)). Agisce come attivatore selettivo della via di segnalazione del recettore PTH1, stimolando preferibilmente la conformazione RG del recettore, che promuove la formazione ossea rispetto al riassorbimento osseo. È approvato negli Stati Uniti (nome commerciale: Tymlos) per il trattamento delle donne in postmenopausa con osteoporosi ad alto rischio di frattura.
+
+**Nessuna predizione TxGNN è stata generata per questo farmaco.** L'array `predicted_indications` è vuoto, il che significa che il modello non ha ancora elaborato questo composto o non ha identificato indicazioni candidate al di sopra della soglia di confidenza. Senza una nuova indicazione predetta, nessuna analisi di plausibilità basata sul meccanismo può essere condotta in questo momento.
+
+Per procedere, sono richiesti i seguenti passi di arricchimento dei dati:
+1. Completare la pipeline di predizione TxGNN per ABALOPARATIDE
+2. Recuperare e popolare il meccanismo d'azione (MOA) dall'API di DrugBank
+3. Ottenere gli avvertimenti e le controindicazioni del foglio illustrativo TFDA
 
 ---
 
-## Taiwan Market Information
+## Prove da studi clinici
 
-ABALOPARATIDE is **not currently marketed in Taiwan**. No TFDA marketing authorizations were found (query date: 2026-03-29). There are zero registered licenses, and no dosage forms are available through local channels.
+Attualmente nessuna indicazione predetta è disponibile; pertanto, nessuna ricerca mirata di studi clinici è stata eseguita.
 
 ---
 
-## Safety Considerations
+## Prove da letteratura
 
-> Please refer to the package insert for safety information.
+Attualmente nessuna indicazione predetta è disponibile; pertanto, nessuna ricerca mirata della letteratura è stata eseguita.
+
+---
+
+## Informazioni sul mercato di Taiwan
+
+ABALOPARATIDE **non è attualmente commercializzato a Taiwan**. Nessuna autorizzazione commerciale TFDA è stata trovata (data della query: 2026-03-29). Ci sono zero licenze registrate e nessuna forma di dosaggio è disponibile attraversi i canali locali.
+
+---
+
+## Considerazioni sulla sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> Note: TFDA package insert warnings/contraindications and drug-drug interaction data are currently unavailable for this drug in Taiwan. The DDI query returned no results. These represent **blocking data gaps** that must be resolved before any safety assessment can proceed.
+> Nota: gli avvertimenti/controindicazioni del foglio illustrativo TFDA e i dati sulle interazioni farmaco-farmaco non sono attualmente disponibili per questo farmaco a Taiwan. La query DDI non ha restituito risultati. Questi rappresentano **lacune di dati bloccanti** che devono essere risolte prima che qualsiasi valutazione della sicurezza possa procedere.
 
 ---
 
-## Data Gaps Summary
+## Riepilogo delle lacune di dati
 
-The following critical data gaps were identified in this evidence pack:
+Le seguenti lacune critiche di dati sono state identificate in questo pacchetto di prove:
 
-| Gap ID | Category | Item | Severity | Remediation |
-|--------|----------|------|----------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Query DrugBank API |
-| — | Prediction | TxGNN Predicted Indications | **Blocking** | Run TxGNN prediction pipeline |
+| ID lacuna | Categoria | Elemento | Gravità | Rimedio |
+|-----------|-----------|----------|---------|---------|
+| DG001 | Livello del farmaco | Avvertimenti/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello del farmaco | Meccanismo d'azione (MOA) | **Alto** | Interrogare l'API di DrugBank |
+| — | Predizione | Indicazioni predette da TxGNN | **Bloccante** | Eseguire la pipeline di predizione TxGNN |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e fasi successive
 
-**Decision: Hold**
+**Decisione: Sospensione**
 
-**Rationale:**
-No TxGNN predicted indications are available for ABALOPARATIDE, and critical data gaps remain in mechanism of action and safety information. Without a predicted new indication, evidence-level assessment and risk-benefit analysis cannot be performed. The drug is also not marketed in Taiwan, adding regulatory complexity to any potential repurposing effort.
+**Motivazione:**
+Nessuna indicazione predetta da TxGNN è disponibile per ABALOPARATIDE, e rimangono lacune critiche di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Senza una nuova indicazione predetta, la valutazione del livello di evidenza e l'analisi del rapporto rischio-beneficio non possono essere eseguite. Il farmaco inoltre non è commercializzato a Taiwan, il che aggiunge complessità normativa a qualsiasi potenziale sforzo di riproposta.
 
-**To proceed, the following is needed:**
-- Run the TxGNN prediction model for ABALOPARATIDE to generate candidate new indications
-- Retrieve detailed mechanism of action (MOA) data from DrugBank API (DG002)
-- Obtain TFDA package insert for safety warnings and contraindications (DG001), or source equivalent regulatory safety data from FDA/EMA if Taiwan labeling is unavailable
-- If predictions are generated, conduct targeted clinical trial and literature searches for the top-ranked indication
-- Reassess evidence level and decision once the above gaps are filled
+**Per procedere, è necessario quanto segue:**
+- Eseguire il modello di predizione TxGNN per ABALOPARATIDE per generare nuove indicazioni candidate
+- Recuperare i dati dettagliati sul meccanismo d'azione (MOA) dall'API di DrugBank (DG002)
+- Ottenere il foglio illustrativo TFDA per gli avvertimenti di sicurezza e le controindicazioni (DG001), o ottenere dati normativi di sicurezza equivalenti da FDA/EMA se l'etichettatura taiwanese non è disponibile
+- Se le previsioni vengono generate, condurre ricerche mirate di studi clinici e letteratura per l'indicazione con il ranking più alto
+- Rivalutare il livello di evidenza e la decisione una volta che le lacune di cui sopra sono colmate
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

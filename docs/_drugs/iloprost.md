@@ -29,72 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-Now I have all the context needed. Let me generate the report based on the Evidence Pack.
+# Iloprost: Dall'Ipertensione Polmonare Arteriosa all'Ipotricosi Semplice del Cuoio Capelluto
+
+## Riassunto in una Frase
+
+L'iloprost è un analogo sintetico della prostaciclina (PGI₂), riconosciuto globalmente come trattamento per l'Ipertensione Polmonare Arteriosa (PAH); non è attualmente registrato o commercializzato a Taiwan.
+Il modello TxGNN predice che potrebbe essere efficace per **Ipotricosi Semplice del Cuoio Capelluto**, ma questa direzione è supportata da **zero studi clinici e zero pubblicazioni**, suggerendo che la predizione molto probabilmente riflette la topologia del grafo della conoscenza piuttosto che una genuina connessione meccanicistica.
 
 ---
 
-# Iloprost: From Pulmonary Arterial Hypertension to Hypotrichosis Simplex of the Scalp
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Iloprost is a synthetic prostacyclin (PGI₂) analogue, recognized globally as a treatment for Pulmonary Arterial Hypertension (PAH); it is not currently registered or marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Hypotrichosis Simplex of the Scalp**, but this direction is supported by **zero clinical trials and zero publications**, suggesting the prediction most likely reflects knowledge graph topology rather than a genuine mechanistic connection.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Not registered in Taiwan; globally established for Pulmonary Arterial Hypertension (PAH) |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione Originale | Non registrato a Taiwan; globalmente affermato per l'Ipertensione Polmonare Arteriosa (PAH) |
+| Indicazione Nuova Prevista | Ipotricosi Semplice del Cuoio Capelluto |
+| Punteggio di Predizione TxGNN | 99.45% |
+| Livello di Evidenza | L5 |
+| Stato del Mercato Taiwan | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospensione |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Predizione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Iloprost is a stable synthetic analogue of prostacyclin (PGI₂) that selectively activates IP receptors on vascular smooth muscle and platelets, producing pulmonary vasodilation, inhibition of platelet aggregation, and suppression of vascular remodeling. It is approved in multiple countries (EU, US, others) for PAH under brand names such as Ventavis (inhaled) and Ilomedin (IV/infusion).
+Attualmente, i dati dettagliati sul meccanismo di azione non sono disponibili in questo Pacchetto di Evidenze. Sulla base delle informazioni farmacologiche note, l'iloprost è un analogo sintetico stabile della prostaciclina (PGI₂) che attiva selettivamente i recettori IP sulla muscolatura liscia vascolare e sulle piastrine, producendo vasodilatazione polmonare, inibizione dell'aggregazione piastrinica e soppressione del rimodellamento vascolare. È approvato in molteplici paesi (UE, USA, altri) per la PAH con nomi commerciali come Ventavis (inalato) e Ilomedin (IV/infusione).
 
-Hypotrichosis Simplex of the Scalp is a rare autosomal dominant genodermatosis caused by loss-of-function mutations in the *CDSN* gene, which encodes corneodesmosin — a structural protein critical for corneodesmosomes (cell-adhesion junctions) in the scalp epidermis and the inner root sheath of hair follicles. The disease mechanism is entirely structural: keratinocyte adhesion fails, leading to progressive follicular miniaturization and hair loss. There is no known vascular, platelet, or IP-receptor component to its pathology.
+L'Ipotricosi Semplice del Cuoio Capelluto è una rara genodermatosi autosomica dominante causata da mutazioni loss-of-function nel gene *CDSN*, che codifica la corneodesmosin — una proteina strutturale critica per i corneodesmosomi (giunzioni di adesione cellulare) nell'epidermide del cuoio capelluto e nella guaina radicale interna dei follicoli piliferi. Il meccanismo della malattia è interamente strutturale: l'adesione dei cheratinociti fallisce, portando a una progressiva miniaturizzazione follicolare e alla caduta dei capelli. Non vi è alcuna componente vascolare, piastrinica o di recettore IP nota nella sua patologia.
 
-Although prostaglandins broadly (particularly PGE₂ via EP2/EP4 receptors) have been shown to promote anagen-phase hair follicle cycling, Iloprost's specific pharmacological target — the IP receptor — is a distinct signaling pathway with no established role in CDSN-dependent structural integrity. The repurposing rationale therefore lacks a credible mechanistic foundation. The TxGNN high score (99.45%) is most plausibly attributed to topological proximity of "scalp/skin disease" nodes in the knowledge graph rather than true biological relatedness to PAH-type IP-receptor pharmacology.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Sebbene le prostaglandine in generale (in particolare PGE₂ tramite recettori EP2/EP4) siano state dimostrate promuovere il ciclo follicolare in fase anagen, il bersaglio farmacologico specifico dell'iloprost — il recettore IP — è una via di segnalazione distinta senza un ruolo stabilito nell'integrità strutturale dipendente da CDSN. La razionale del riutilizzo pertanto manca di una base meccanicistica credibile. L'alto punteggio di TxGNN (99.45%) è più plausibilmente attribuibile alla vicinanza topologica dei nodi "malattia del cuoio capelluto/della pelle" nel grafo della conoscenza piuttosto che a una vera correlazione biologica alla farmacologia del recettore IP di tipo PAH.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-There is no clinical trial or published literature evidence for Iloprost in hypotrichosis simplex of the scalp, and the mechanistic link between IP-receptor agonism and CDSN-structural hair follicle defects is not biologically coherent. Proceeding at this stage would not be a productive use of research resources.
+---
 
-**To proceed, the following would be needed:**
-- A credible mechanistic hypothesis connecting IP-receptor/prostacyclin signaling to CDSN protein expression, corneodesmosome stability, or hair follicle cycle regulation
-- At minimum, in vitro evidence (e.g., keratinocyte or follicle organoid assays) demonstrating any biological response to IP-receptor activation in CDSN-deficient models
-- Retrieval of the full Iloprost package insert (TFDA/EMA) to document MOA, warnings, and contraindications before any further safety assessment can proceed
+## Considerazioni di Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Non vi è alcuna evidenza da studi clinici o letteratura pubblicata per l'iloprost nell'ipotricosi semplice del cuoio capelluto, e il collegamento meccanicistico tra l'agonismo del recettore IP e i difetti strutturali dei follicoli piliferi dipendenti da CDSN non è biologicamente coerente. Procedere in questa fase non sarebbe un uso produttivo delle risorse di ricerca.
+
+**Per procedere, sarebbero necessari i seguenti:**
+- Un'ipotesi meccanicistica credibile che colleghi la segnalazione del recettore IP/prostaciclina all'espressione proteica CDSN, alla stabilità dei corneodesmosomi, o alla regolazione del ciclo del follicolo pilifero
+- Come minimo, evidenza in vitro (ad es., saggi con cheratinociti o organoidi follicolari) che dimostrino una qualsiasi risposta biologica all'attivazione del recettore IP in modelli CDSN-deficienti
+- Recupero del foglio illustrativo completo dell'iloprost (TFDA/EMA) per documentare il meccanismo di azione, le avvertenze e le controindicazioni prima che possa procedere qualsiasi ulteriore valutazione della sicurezza
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

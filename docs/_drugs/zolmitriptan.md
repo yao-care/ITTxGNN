@@ -29,95 +29,92 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-The `txgnn-pipeline` skill confirms the TxGNN reporting context. Now let me generate the report from the Evidence Pack.
+# Zolmitriptano: Dall'Emicrania Acuta all'Emicrania con Aura del Tronco Cerebrale
+
+## Riassunto in una Riga
+
+Lo zolmitriptano è un agonista selettivo dei recettori della serotonina 5-HT1B/1D (triptan) ampiamente utilizzato per il trattamento acuto degli attacchi emicranici.
+Il modello TxGNN prevede che possa essere efficace per l'**Emicrania con Aura del Tronco Cerebrale** (precedentemente nota come emicrania di tipo basilare),
+con **0 studi clinici registrati** e **19 pubblicazioni** attualmente disponibili su questo orientamento — sebbene l'evidenza sia prevalentemente derivata da popolazioni di emicrania generale o con aura mista anziché da studi dedicati specificamente all'aura del tronco cerebrale.
 
 ---
 
-# Zolmitriptan: From Acute Migraine to Migraine with Brainstem Aura
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Zolmitriptan is a selective serotonin 5-HT1B/1D receptor agonist (triptan) widely used for the acute treatment of migraine attacks.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** (formerly known as basilar-type migraine),
-with **0 registered clinical trials** and **19 publications** currently surrounding this direction—though the evidence is predominantly derived from general migraine or mixed-aura populations rather than dedicated brainstem aura trials.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Acute migraine (with or without aura) |
-| Predicted New Indication | Migraine with Brainstem Aura |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Emicrania acuta (con o senza aura) |
+| Indicazione Predetta | Emicrania con Aura del Tronco Cerebrale |
+| Punteggio di Previsione TxGNN | 99.99% |
+| Livello di Evidenza | L3 |
+| Stato del Mercato Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Attesa |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Previsione è Ragionevole?
 
-Zolmitriptan acts as a selective 5-HT1B/1D receptor agonist — the same pharmacological class as all triptans. It constricts dilated cranial blood vessels and, critically, inhibits trigeminal nociceptive transmission at both peripheral and **central (brainstem) levels**. This dual peripheral-central action distinguishes zolmitriptan from earlier triptans such as sumatriptan, and is the primary mechanistic reason TxGNN flags it as relevant to a brainstem-originating migraine subtype.
+Lo zolmitriptano agisce come agonista selettivo dei recettori 5-HT1B/1D — la stessa classe farmacologica di tutti i triptan. Costringe i vasi sanguigni cranici dilatati e, aspetto critico, inibisce la trasmissione nocicettiva trigeminale sia a livello periferico che a livello **centrale (del tronco cerebrale)**. Questa azione duale periferica-centrale distingue lo zolmitriptano dai triptan precedenti come il sumatriptano, ed è la ragione meccanicistica primaria per cui TxGNN lo identifica come rilevante per un sottotipo emicranico che origina dal tronco cerebrale.
 
-Migraine with brainstem aura (MBA) is characterized by aura symptoms arising from brainstem structures — vertigo, diplopia, dysarthria, tinnitus, or decreased consciousness — followed by or concurrent with typical migraine headache. Because the 5-HT1D receptor is expressed in the brainstem's trigeminal nucleus caudalis and periaqueductal grey, zolmitriptan's central penetration offers a plausible mechanistic rationale for relieving MBA symptoms.
+L'emicrania con aura del tronco cerebrale (MBA) è caratterizzata da sintomi di aura che si originano da strutture del tronco cerebrale — vertigini, diplopia, disartria, acufeni, o diminuzione della coscienza — seguiti da o concomitanti con il tipico mal di testa emicranico. Poiché il recettore 5-HT1D è espresso nel nucleo caudale del trigemino e nella sostanza grigia periacqueduttale del tronco cerebrale, la penetrazione centrale dello zolmitriptano offre una rationale meccanicistica plausibile per alleviare i sintomi dell'MBA.
 
-However, the historical context complicates this prediction significantly. All triptans were traditionally contraindicated in basilar-type migraine (now renamed MBA) due to theoretical concern about basilar artery vasospasm causing stroke. Emerging data (including PMID 11903526) suggest this restriction may be overly conservative, but no dedicated Phase 2/3 RCT has prospectively enrolled MBA patients. The TxGNN prediction is mechanistically coherent and directionally supported by evolving expert opinion, yet dedicated prospective evidence remains absent.
-
----
-
-## Clinical Trial Evidence
-
-Currently no clinical trials specifically registering "migraine with brainstem aura" as an indication for zolmitriptan have been identified in ClinicalTrials.gov or the ICTRP registry.
+Tuttavia, il contesto storico complica significativamente questa previsione. Tutti i triptan erano tradizionalmente controindicati nell'emicrania di tipo basilare (ora denominata MBA) a causa della preoccupazione teorica di spasmo dell'arteria basilare con conseguente ictus. I dati emergenti (incluso PMID 11903526) suggeriscono che questa restrizione potrebbe essere eccessivamente conservatrice, ma nessun RCT dedicato di Fase 2/3 ha prospetticamente arruolato pazienti con MBA. La previsione TxGNN è meccanicisticamente coerente e direzionalmente supportata dall'opinione di esperti in evoluzione, tuttavia l'evidenza prospettica dedicata rimane assente.
 
 ---
 
-## Literature Evidence
+## Evidenza dagli Studi Clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Clinical Case Series | Headache | Reports triptan use in basilar migraine and migraine with prolonged aura; suggests triptans may be used cautiously in these patients with prominent neurological symptoms |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analysis | J Headache Pain | Compares frovatriptan vs. zolmitriptan (and others) in migraine with aura; establishes that triptans taken during the headache phase are effective in aura-type migraine |
-| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | RCT subgroup | Neurological Sciences | Head-to-head frovatriptan 2.5 mg vs. zolmitriptan 2.5 mg in migraine with aura; zolmitriptan showed comparable efficacy in this Italian multicenter crossover study |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematic Review / Guideline | Headache | American Headache Society updated evidence assessment for acute migraine pharmacotherapy; zolmitriptan achieves high evidence rating for general migraine |
-| [9399016](https://pubmed.ncbi.nlm.nih.gov/9399016/) | 1997 | Phase 3 Trial | Cephalalgia | Tolerability profile across >3,000 subjects; zolmitriptan 2.5–5 mg well tolerated with predictable adverse-event profile |
-| [15581383](https://pubmed.ncbi.nlm.nih.gov/15581383/) | 2004 | RCT | CNS Drugs | Zolmitriptan 5 mg ODT demonstrates rapid headache response onset within 45 min and sustained efficacy at 2 hours |
-| [27329280](https://pubmed.ncbi.nlm.nih.gov/27329280/) | 2016 | RCT | Headache | TEENZ study: zolmitriptan nasal spray effective and well tolerated in adolescents aged 12–17; relevant for understanding use in non-standard migraine populations |
-| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Review | Frontiers in Neurology | Reviews treatment options for vestibular migraine (an overlapping brainstem-aura-related entity); notes scarcity of dedicated RCTs |
-| [18624801](https://pubmed.ncbi.nlm.nih.gov/18624801/) | 2008 | RCT | Cephalalgia | Compares triptan efficacy in migraine with early cutaneous allodynia; zolmitriptan group showed significant pain reduction at 1 hour |
-| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Preclinical Review | Cephalalgia | Documents zolmitriptan's central 5-HT1B/1D agonism and ability to inhibit trigeminovascular activation at the brainstem level — directly supports the mechanistic rationale |
+Attualmente nessuno studio clinico che registra specificamente "emicrania con aura del tronco cerebrale" come indicazione per zolmitriptano è stato identificato in ClinicalTrials.gov o nel registro ICTRP.
 
 ---
 
-## Taiwan Market Information
+## Evidenza dalla Letteratura
 
-Zolmitriptan currently holds **no marketing authorizations** in Taiwan. There are no licensed products, approved indications, or regulated dosage forms on record with the TFDA as of the data cutoff (2026-05-05).
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
+|------|------|------|---------|-----------------|
+| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Serie di Casi Clinici | Headache | Riporta l'uso di triptan nell'emicrania basilare e nell'emicrania con aura prolungata; suggerisce che i triptan possono essere utilizzati con cautela in questi pazienti con sintomi neurologici prominenti |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi | J Headache Pain | Confronta frovatriptano vs. zolmitriptano (e altri) nell'emicrania con aura; stabilisce che i triptan assunti durante la fase di mal di testa sono efficaci nell'emicrania di tipo aura |
+| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Sottogruppo RCT | Neurological Sciences | Frovatriptano 2.5 mg vs. zolmitriptano 2.5 mg testa-a-testa nell'emicrania con aura; lo zolmitriptano ha mostrato efficacia comparabile in questo studio multicentrico italiano a crossover |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione Sistematica / Linea Guida | Headache | Valutazione aggiornata dell'American Headache Society dell'evidenza per la farmacoterapia acuta dell'emicrania; lo zolmitriptano ottiene un rating di elevato livello di evidenza per l'emicrania generale |
+| [9399016](https://pubmed.ncbi.nlm.nih.gov/9399016/) | 1997 | Studio di Fase 3 | Cephalalgia | Profilo di tollerabilità in >3.000 soggetti; zolmitriptano 2.5–5 mg ben tollerato con profilo di eventi avversi prevedibile |
+| [15581383](https://pubmed.ncbi.nlm.nih.gov/15581383/) | 2004 | RCT | CNS Drugs | Lo zolmitriptano 5 mg ODT dimostra inizio della risposta al mal di testa rapido entro 45 min e efficacia sostenuta a 2 ore |
+| [27329280](https://pubmed.ncbi.nlm.nih.gov/27329280/) | 2016 | RCT | Headache | Studio TEENZ: spray nasale di zolmitriptano efficace e ben tollerato negli adolescenti di età 12–17 anni; rilevante per comprendere l'uso in popolazioni emicraniche non standard |
+| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Revisione | Frontiers in Neurology | Esamina le opzioni di trattamento per l'emicrania vestibolare (un'entità correlata all'aura del tronco cerebrale sovrapposta); nota la scarsità di RCT dedicati |
+| [18624801](https://pubmed.ncbi.nlm.nih.gov/18624801/) | 2008 | RCT | Cephalalgia | Confronta l'efficacia del triptan nell'emicrania con allodinia cutanea precoce; il gruppo zolmitriptano ha mostrato riduzione significativa del dolore a 1 ora |
+| [9399012](https://pubmed.ncbi.nlm.nih.gov/9399012/) | 1997 | Revisione Preclinica | Cephalalgia | Documenta l'agonismo centrale 5-HT1B/1D dello zolmitriptano e la capacità di inibire l'attivazione trigeminovascolare a livello del tronco cerebrale — supporta direttamente la rationale meccanicistica |
 
 ---
 
-## Safety Considerations
+## Informazioni sul Mercato Taiwan
 
-Detailed TFDA package insert warnings and contraindications were not available in the current Evidence Pack, and no drug-drug interaction data were retrieved. The historical class-level concern — **triptan use in basilar-type / brainstem aura migraine** — represents the most clinically significant safety signal and must be reviewed against the current prescribing information before any use in this population.
-
-> Please refer to the official prescribing information (package insert) for complete safety information, including contraindications, warnings, and drug interactions.
+Lo zolmitriptano attualmente non detiene **alcuna autorizzazione di commercializzazione** a Taiwan. Non esistono prodotti autorizzati, indicazioni approvate, o forme farmaceutiche regolate registrate presso la TFDA a partire dalla data limite dei dati (2026-05-05).
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Hold**
+Le avvertenze dettagliate nel foglio illustrativo della TFDA e le controindicazioni non erano disponibili nel pacchetto di evidenza attuale, e nessun dato su interazioni farmaco-farmaco è stato recuperato. La preoccupazione storica a livello di classe — **uso di triptan nell'emicrania di tipo basilare / aura del tronco cerebrale** — rappresenta il segnale di sicurezza clinicamente più significativo e deve essere valutato rispetto alle informazioni di prescrizione attuali prima di qualsiasi uso in questa popolazione.
+
+> Si prega di consultare le informazioni di prescrizione ufficiali (foglio illustrativo) per le informazioni complete sulla sicurezza, incluse controindicazioni, avvertenze e interazioni farmacologiche.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Attesa**
 
 **Rationale:**
-Although the mechanistic rationale for zolmitriptan in migraine with brainstem aura is scientifically plausible — its central 5-HT1D activity at the brainstem level directly addresses the pathophysiology — no prospective clinical trial has specifically enrolled this patient subtype, and the historically recognized class contraindication has not been formally overturned by a dedicated safety study. Evidence level L3 with zero registered trials is insufficient to proceed beyond hypothesis generation.
+Sebbene la rationale meccanicistica per zolmitriptano nell'emicrania con aura del tronco cerebrale sia scientificamente plausibile — la sua attività 5-HT1D centrale a livello del tronco cerebrale affronta direttamente la fisiopatologia — nessuno studio clinico prospettico ha specificamente arruolato questo sottotipo di paziente, e la controindicazione di classe storicamente riconosciuta non è stata formalmente superata da uno studio di sicurezza dedicato. Un livello di evidenza L3 con zero studi registrati è insufficiente per procedere oltre la generazione di ipotesi.
 
-**To proceed, the following is needed:**
+**Per procedere, è necessario quanto segue:**
 
-- **Prospective safety study**: A dedicated open-label or placebo-controlled trial enrolling patients meeting the ICHD-3 criteria for migraine with brainstem aura, with neurological monitoring for basilar artery events
-- **Regulatory contraindication review**: Formal reassessment of whether the historical triptan contraindication in this subtype remains valid, citing the most recent ICHD and AHS guidance
-- **MOA data retrieval**: Full DrugBank pharmacology entry to document receptor binding profiles and CNS penetrance data (currently listed as a data gap)
-- **Taiwan market pathway**: TFDA new drug application strategy, given the drug is not currently marketed in Taiwan
-- **TFDA package insert**: Obtain and parse the full prescribing information to complete the safety profile before any clinical protocol is designed
+- **Studio di sicurezza prospettico**: Uno studio dedicato open-label o controllato con placebo arruolante pazienti che soddisfano i criteri ICHD-3 per emicrania con aura del tronco cerebrale, con monitoraggio neurologico per eventi dell'arteria basilare
+- **Revisione della controindicazione normativa**: Rivalutazione formale della possibilità che la controindicazione storica del triptan in questo sottotipo rimanga valida, citando la più recente guida ICHD e AHS
+- **Recupero dati MOA**: Voce completa di farmacologia di DrugBank per documentare i profili di legame recettoriale e i dati di penetrazione del SNC (attualmente elencato come lacuna dati)
+- **Percorso del mercato Taiwan**: Strategia di domanda per nuovo farmaco della TFDA, dato che il farmaco non è attualmente commercializzato a Taiwan
+- **Foglio illustrativo TFDA**: Ottenere e analizzare le informazioni di prescrizione complete per completare il profilo di sicurezza prima che qualsiasi protocollo clinico sia progettato
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

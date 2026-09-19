@@ -29,125 +29,118 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-This is a drug repurposing report generation task. The system prompt at the top of this session defines exactly how to act. I'll proceed directly with writing the report.
+# Zonisamide: Dalle crisi parziali all'epilessia assenza
+
+## Riassunto in una frase
+
+La zonisamide è un farmaco antiepilettico a largo spettro (AED) approvato in molti paesi per il trattamento adiuvante delle crisi parziali (focali) in adulti. La predizione con il punteggio più alto del modello TxGNN è la **Sindrome di Tourette** (punteggio 99,85%), ma questa predizione attualmente non ha studi clinici o letteratura pubblicata che la supportino (L5). Questo rapporto si concentra sulla **predizione clinicamente più robusta: Epilessia assenza** (punteggio TxGNN 99,24%), supportata da **4 studi clinici** (inclusi due studi di Fase 3) e **20 pubblicazioni** — e rafforzata dall'approvazione normativa giapponese e dal consenso farmacologico consolidato sul meccanismo di blocco dei canali del calcio di tipo T della zonisamide.
 
 ---
 
-**Editorial note before generating:** `predicted_indications[0]` is Tourette syndrome (TxGNN rank #1 by score), but it has **zero** clinical trials or literature (L5 evidence / Hold). The highest-evidence prediction is **absence epilepsy** (rank #8 in array; L1 / Proceed with Guardrails), which also has the strongest mechanistic basis. This report focuses on absence epilepsy as the primary subject, noting the TxGNN top prediction transparently in the summary.
+## Panoramica rapida
 
----
-
-# Zonisamide: From Partial Seizures to Absence Epilepsy
-
-## One-Sentence Summary
-
-Zonisamide is a broad-spectrum antiepileptic drug (AED) approved in many countries for adjunctive treatment of partial (focal) seizures in adults. The TxGNN model's highest-scoring prediction is **Tourette Syndrome** (score 99.85%), but that prediction currently has no supporting clinical trials or published literature (L5). This report focuses on the **clinically strongest prediction: Absence Epilepsy** (TxGNN score 99.24%), supported by **4 clinical trials** (including two Phase 3 studies) and **20 publications** — and reinforced by Japanese regulatory approval and established pharmacological consensus on zonisamide's T-type calcium channel blockade mechanism.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Item | Contenuto |
 |------|---------|
-| Original Indication | Epilepsy — adjunctive treatment of partial (focal) seizures in adults (approved in EU, Japan, USA; not currently authorized in Italy) |
-| Predicted New Indication | Absence Epilepsy |
-| TxGNN Prediction Score | 99.24% |
-| Evidence Level | L1 |
-| Italy Market Status | ✗ Not marketed (0 AIFA authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Epilessia — trattamento adiuvante delle crisi parziali (focali) in adulti (approvato in UE, Giappone, USA; attualmente non autorizzato in Italia) |
+| Indicazione predetta | Epilessia assenza |
+| Punteggio predizione TxGNN | 99,24% |
+| Livello di evidenza | L1 |
+| Stato del mercato italiano | ✗ Non commercializzato (0 autorizzazioni AIFA) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con Guardrails |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa predizione è ragionevole?
 
-Zonisamide acts through multiple complementary mechanisms: it stabilizes neuronal membranes by blocking voltage-gated sodium channels, inhibits T-type calcium channels (Cav3.x), modulates dopamine and serotonin neurotransmission, and weakly inhibits carbonic anhydrase. This multi-target profile distinguishes it from most AEDs and provides a broad anticonvulsant spectrum across seizure types.
+La zonisamide agisce attraverso molteplici meccanismi complementari: stabilizza le membrane neuronali bloccando i canali del sodio voltage-dipendenti, inibisce i canali del calcio di tipo T (Cav3.x), modula la trasmissione della dopamina e della serotonina, e debolmente inibisce l'anidrasi carbonica. Questo profilo multi-target la distingue dalla maggior parte degli AED e fornisce uno spettro anticonvulsivante ampio in molti tipi di crisi.
 
-The mechanistic link to absence epilepsy is direct and established. Absence seizures (petit mal) arise from rhythmic thalamocortical oscillations driven by T-type calcium channels in thalamic relay and reticular neurons — the same pathway targeted by ethosuximide, the reference treatment for childhood absence epilepsy and a pure T-type calcium channel blocker. Because zonisamide shares this T-type channel blockade, the pharmacological rationale is not merely model inference but reflects established neuroscience consensus. This overlap with ethosuximide's mechanism is more compelling than the weaker link between zonisamide and most other TxGNN-predicted indications.
+Il collegamento meccanicistico all'epilessia assenza è diretto e consolidato. Le crisi assenza (petit mal) originano da oscillazioni talamocorticali ritmiche guidate dai canali del calcio di tipo T nei neuroni di relè talamici e nelle cellule reticolari — lo stesso pathway bersaglio dell'etosuccimide, il trattamento di riferimento per l'epilessia assenza infantile e un puro bloccante dei canali del calcio di tipo T. Poiché la zonisamide condivide questo blocco dei canali di tipo T, la razionale farmacologica non è meramente inferenza da modello ma riflette il consenso neuroscientifico consolidato. Questo sovrapposizione con il meccanismo dell'etosuccimide è più convincente del collegamento più debole tra zonisamide e la maggior parte delle altre indicazioni predette da TxGNN.
 
-Supporting this reasoning from a regulatory and clinical standpoint: Japan approved zonisamide in the 1980s across a broad range of seizure types including generalized seizures; a 2005 chart review (Wilfong & Schultz; n=45 pediatric patients with absence seizures) reported that 51.1% achieved complete seizure freedom on zonisamide; and a 2014 prospective case series (Velizarova et al.) specifically examined zonisamide in drug-resistant juvenile absence epilepsy. Two Phase 3 multinational RCTs (NCT00477295, NCT00848549) provide robust safety and efficacy data in the broader epilepsy population, enabling confident safety evaluation for absence epilepsy repurposing.
+A supporto di questo ragionamento dal punto di vista normativo e clinico: il Giappone ha approvato la zonisamide negli anni '80 in una vasta gamma di tipi di crisi incluse quelle generalizzate; una revisione di cartelle cliniche del 2005 (Wilfong & Schultz; n=45 pazienti pediatrici con crisi assenza) ha riportato che il 51,1% ha raggiunto la totale assenza di crisi sulla zonisamide; e una serie prospettica di casi del 2014 (Velizarova et al.) ha specificamente esaminato la zonisamide nell'epilessia assenza giovanile resistente ai farmaci. Due RCT multinazionali di Fase 3 (NCT00477295, NCT00848549) forniscono robusti dati di sicurezza ed efficacia nella popolazione epilettica più ampia, consentendo una valutazione della sicurezza fiduciosa per il riposizionamento nell'epilessia assenza.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di studio | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
-| [NCT00477295](https://clinicaltrials.gov/study/NCT00477295) | Phase 3 | Completed | 583 | Randomized, multi-centre, double-blind non-inferiority trial comparing zonisamide vs carbamazepine monotherapy in newly diagnosed partial epilepsy; primary evidence base for zonisamide efficacy and safety as monotherapy |
-| [NCT00848549](https://clinicaltrials.gov/study/NCT00848549) | Phase 3 | Completed | 295 | Long-term blinded extension of the Phase 3 monotherapy programme; assesses durability of efficacy and long-term safety/tolerability of zonisamide, providing 2+ years of follow-up data |
-| [NCT07443241](https://clinicaltrials.gov/study/NCT07443241) | N/A | Completed | 779 | Retrospective observational analysis of 779 patients treated for status epilepticus (including absence) at a university hospital (2011–2023); evaluates sex-specific differences in etiology, treatment, and outcomes — provides real-world treatment data |
-| [NCT04939675](https://clinicaltrials.gov/study/NCT04939675) | N/A | Unknown | 40 | Feasibility study developing a revised epilepsy screening questionnaire incorporating new seizure semiology insights; limited direct efficacy evidence for zonisamide in absence epilepsy |
+| [NCT00477295](https://clinicaltrials.gov/study/NCT00477295) | Fase 3 | Completato | 583 | Studio randomizzato, multicentrico, in doppio cieco di non inferiorità confrontando zonisamide vs carbamazepina come monoterapia in epilessia parziale di nuova diagnosi; base di evidenza primaria per efficacia e sicurezza della zonisamide come monoterapia |
+| [NCT00848549](https://clinicaltrials.gov/study/NCT00848549) | Fase 3 | Completato | 295 | Estensione in doppio cieco a lungo termine del programma di monoterapia di Fase 3; valuta la persistenza dell'efficacia e la sicurezza/tollerabilità a lungo termine della zonisamide, fornendo dati di follow-up di 2+ anni |
+| [NCT07443241](https://clinicaltrials.gov/study/NCT07443241) | N/A | Completato | 779 | Analisi osservazionale retrospettiva di 779 pazienti trattati per status epilepticus (inclusa l'assenza) presso un ospedale universitario (2011–2023); valuta differenze specifiche per sesso in eziologia, trattamento e outcome — fornisce dati di trattamento dal mondo reale |
+| [NCT04939675](https://clinicaltrials.gov/study/NCT04939675) | N/A | Sconosciuto | 40 | Studio di fattibilità che sviluppa un questionario di screening per l'epilessia revisionato incorporando nuove intuizioni sulla semiologia delle crisi; evidenza diretta limitata per l'efficacia della zonisamide nell'epilessia assenza |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|-----|------|------|---------|
-| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Network Meta-analysis | Cochrane Database Syst Rev | Updated individual-patient-data network meta-analysis of AED monotherapy across all epilepsy types; provides comparative efficacy and tolerability data including zonisamide |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Clinical Practice Guideline | Neurology | AAN/AES updated guideline on new AED efficacy as initial monotherapy for new-onset epilepsy; includes evidence-based recommendation level for zonisamide |
-| [23350722](https://pubmed.ncbi.nlm.nih.gov/23350722/) | 2013 | ILAE Systematic Review | Epilepsia | ILAE comprehensive evidence review of AED efficacy as initial monotherapy; assigns formal evidence levels to zonisamide across seizure types |
-| [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Clinical Study | Epilepsy Res | Chart review of 45 pediatric patients (≤18 years) with absence seizures treated with zonisamide; 51.1% achieved complete seizure freedom — key direct evidence for absence epilepsy |
-| [24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/) | 2014 | Prospective Case Series | Epilepsy Res | Prospective evaluation of zonisamide specifically in drug-resistant juvenile absence epilepsy (JAE); assesses efficacy in a population with limited treatment options |
-| [40351416](https://pubmed.ncbi.nlm.nih.gov/40351416/) | 2025 | Network Meta-analysis | Front Pharmacol | Network meta-analysis of single ASM as adjunctive therapy for drug-resistant focal epilepsy; comparative effectiveness and safety ranking including zonisamide |
-| [15634623](https://pubmed.ncbi.nlm.nih.gov/15634623/) | 2004 | Clinical Study | Epileptic Disord | Retrospective review of 15 juvenile myoclonic epilepsy patients treated with zonisamide; reports efficacy across absence, myoclonic, and GTC seizure components, supporting broad-spectrum activity |
-| [16321507](https://pubmed.ncbi.nlm.nih.gov/16321507/) | 2006 | Review | Epilepsy Res | Summary of extensive Japanese clinical experience with zonisamide in both adults and children across seizure types including generalized absence seizures; supports Japanese regulatory context |
-| [34941639](https://pubmed.ncbi.nlm.nih.gov/34941639/) | 2021 | Narrative Review | Pediatr Rep | Therapeutic review for childhood absence epilepsy including drug-resistant cases; discusses role of newer AEDs and identifies zonisamide as a candidate for refractory presentations |
-| [16341290](https://pubmed.ncbi.nlm.nih.gov/16341290/) | 2005 | Review | Drugs Today | Comprehensive review of zonisamide's broad-spectrum anticonvulsant profile; documents clinical efficacy in absence seizures unresponsive to first-line agents |
+| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Network Meta-analisi | Cochrane Database Syst Rev | Meta-analisi in rete aggiornata di dati di pazienti individuali sulla monoterapia con AED in tutti i tipi di epilessia; fornisce dati di efficacia comparativa e tollerabilità inclusa la zonisamide |
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Linea guida di pratica clinica | Neurology | Linea guida aggiornata AAN/AES sull'efficacia dei nuovi AED come monoterapia iniziale per l'epilessia di nuova insorgenza; include livello di raccomandazione basato su evidenza per la zonisamide |
+| [23350722](https://pubmed.ncbi.nlm.nih.gov/23350722/) | 2013 | Revisione sistematica ILAE | Epilepsia | Revisione sistematica complessiva ILAE dell'efficacia degli AED come monoterapia iniziale; assegna livelli di evidenza formali alla zonisamide in tutti i tipi di crisi |
+| [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Studio clinico | Epilepsy Res | Revisione di cartelle cliniche di 45 pazienti pediatrici (≤18 anni) con crisi assenza trattati con zonisamide; il 51,1% ha raggiunto la totale assenza di crisi — evidenza diretta chiave per l'epilessia assenza |
+| [24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/) | 2014 | Serie di casi prospettica | Epilepsy Res | Valutazione prospettica della zonisamide specificamente nell'epilessia assenza giovanile resistente ai farmaci (JAE); valuta l'efficacia in una popolazione con opzioni di trattamento limitate |
+| [40351416](https://pubmed.ncbi.nlm.nih.gov/40351416/) | 2025 | Network Meta-analisi | Front Pharmacol | Network meta-analisi di singolo ASM come terapia adiuvante per l'epilessia focale farmaco-resistente; ranking di efficacia e sicurezza comparativa inclusa la zonisamide |
+| [15634623](https://pubmed.ncbi.nlm.nih.gov/15634623/) | 2004 | Studio clinico | Epileptic Disord | Revisione retrospettiva di 15 pazienti con epilessia mioclonica giovanile trattati con zonisamide; riporta efficacia nei componenti di crisi assenza, mioclonica e generalizzate-tonico-cloniche, supportando l'attività a largo spettro |
+| [16321507](https://pubmed.ncbi.nlm.nih.gov/16321507/) | 2006 | Revisione | Epilepsy Res | Sintesi dell'ampia esperienza clinica giapponese con zonisamide in adulti e bambini in tutti i tipi di crisi incluse le crisi assenza generalizzate; supporta il contesto normativo giapponese |
+| [34941639](https://pubmed.ncbi.nlm.nih.gov/34941639/) | 2021 | Revisione narrativa | Pediatr Rep | Revisione terapeutica per l'epilessia assenza infantile inclusi i casi farmaco-resistenti; discute il ruolo dei nuovi AED e identifica la zonisamide come candidato per le presentazioni refrattarie |
+| [16341290](https://pubmed.ncbi.nlm.nih.gov/16341290/) | 2005 | Revisione | Drugs Today | Revisione complessiva del profilo anticonvulsivante a largo spettro della zonisamide; documenta l'efficacia clinica nelle crisi assenza non responsive agli agenti di prima linea |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Zonisamide is **not currently authorized in Italy** (0 AIFA registrations). No licensed products are available as of the data cutoff (2026-05-05).
+La zonisamide **non è attualmente autorizzata in Italia** (0 registrazioni AIFA). Nessun prodotto in licenza è disponibile alla data di cutoff dei dati (2026-05-05).
 
-For reference, zonisamide is marketed under the brand name **Zonegran®** (Eisai) in other EU Member States (including Germany, France, and the UK prior to Brexit), and has been approved in the United States (Zonegran®, 2000) and Japan (Excegran®, 1989) — the latter covering a broader seizure spectrum that includes generalized seizures. An EU-wide marketing authorization exists, which means AIFA registration via the mutual recognition or decentralized procedure would be a feasible regulatory pathway.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for full safety information. No DDI interaction data or specific warning/contraindication data were available in this Evidence Pack.
-
-**Two important adverse-effect signals to note, identified during evidence review:**
-
-- **Methemoglobinemia risk:** Zonisamide is a sulfonamide derivative. TxGNN predictions #3, #4, and #6 (methemoglobinemia alpha type, methemoglobinemia, methemoglobin reductase deficiency) were flagged by the pipeline as **safety warnings, not therapeutic predictions** — zonisamide can *induce* oxidative stress and methemoglobin formation. Patients with sulfonamide hypersensitivity or pre-existing methemoglobin reductase deficiency should be screened before use.
-
-- **Psychiatric adverse effects:** One case report (PMID [2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/)) documents zonisamide-induced mania. This is relevant when considering use in populations with mood disorder comorbidity.
+Per riferimento, la zonisamide è commercializzata sotto il nome di brand **Zonegran®** (Eisai) in altri Stati Membri dell'UE (inclusi Germania, Francia e il Regno Unito precedentemente alla Brexit), ed è stata approvata negli Stati Uniti (Zonegran®, 2000) e in Giappone (Excegran®, 1989) — quest'ultimo coprendo uno spettro di crisi più ampio che include le crisi generalizzate. Un'autorizzazione all'immissione in commercio a livello europeo esiste, il che significa che la registrazione AIFA attraverso la procedura di mutuo riconoscimento o decentralizzata sarebbe una pathway normativa fattibile.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per informazioni complete sulla sicurezza. Nessun dato di interazione farmaco-farmaco o dati specifici su avvertenze/controindicazioni erano disponibili in questo Evidence Pack.
 
-**Rationale:**
-Zonisamide's T-type calcium channel blockade provides a mechanistically compelling and pharmacologically established basis for efficacy in absence epilepsy. The evidence package — including two completed Phase 3 trials, a Cochrane network meta-analysis, ILAE systematic review, AAN/AES guideline endorsement, multiple clinical case series directly in absence seizure populations, and Japanese regulatory approval for generalized seizures — collectively meets L1 criteria. This represents the strongest available repurposing signal in the entire Evidence Pack and justifies moving to a structured clinical development or regulatory strategy.
+**Due importanti segnali di effetto avverso da notare, identificati durante la revisione delle evidenze:**
 
-**To proceed, the following is needed:**
+- **Rischio di metaemoglobinemia:** La zonisamide è un derivato solfonamidico. Le predizioni TxGNN #3, #4 e #6 (metaemoglobinemia di tipo alfa, metaemoglobinemia, deficienza di metaemoglobina reduttasi) sono state contrassegnate dalla pipeline come **avvertenze di sicurezza, non predizioni terapeutiche** — la zonisamide può *indurre* stress ossidativo e formazione di metaemoglobina. I pazienti con ipersensibilità ai solfonamidi o con deficienza pre-esistente di metaemoglobina reduttasi devono essere sottoposti a screening prima dell'uso.
 
-- **Dedicated Phase 3 RCT in absence epilepsy:** Existing Phase 3 trials focused on partial (focal) seizures; a prospective double-blind trial specifically in childhood or juvenile absence epilepsy is needed for an AIFA-approved indication
-- **Pediatric dosing and safety data:** Most robust evidence derives from adult partial seizure studies; age-appropriate dosing, PK, and safety data in children (the primary absence epilepsy population) should be formally established
-- **AIFA regulatory pathway planning:** Identify the fastest route to Italian market authorization — mutual recognition from an existing EU member-state holder, or a new centralized EMA application covering the absence epilepsy indication
-- **Full package insert review:** Obtain and analyze complete contraindications, warnings, and DDI data from the EU/US/Japan package inserts (not available in this Evidence Pack)
-- **Sulfonamide hypersensitivity screening protocol:** Given the methemoglobinemia adverse-effect risk, develop a pre-treatment screening checklist for G6PD deficiency and sulfonamide allergy status
+- **Effetti avversi psichiatrici:** Un case report (PMID [2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/)) documenta mania indotta da zonisamide. Questo è rilevante quando si considera l'uso in popolazioni con comorbilità disturbi dell'umore.
 
 ---
 
-> **Summary of all TxGNN-predicted indications (for reference):**
+## Conclusioni e passi successivi
+
+**Decisione: Procedere con Guardrails**
+
+**Razionale:**
+Il blocco dei canali del calcio di tipo T della zonisamide fornisce una base meccanicistica convincente e farmacologicamente consolidata per l'efficacia nell'epilessia assenza. L'evidence package — inclusi due studi di Fase 3 completati, una meta-analisi in rete Cochrane, revisione sistematica ILAE, endorsement della linea guida AAN/AES, multiple serie di casi clinici direttamente in popolazioni con crisi assenza, e approvazione normativa giapponese per le crisi generalizzate — collettivamente soddisfa i criteri L1. Questo rappresenta il segnale di riposizionamento più robusto disponibile nell'intero Evidence Pack e giustifica il passaggio a una strategia di sviluppo clinico strutturata o regolamentare.
+
+**Per procedere è necessario quanto segue:**
+
+- **RCT dedicato di Fase 3 nell'epilessia assenza:** Gli studi di Fase 3 esistenti si concentravano sulle crisi parziali (focali); un trial double-blind prospettico specificamente nell'epilessia assenza infantile o giovanile è necessario per un'indicazione approvata da AIFA
+- **Dati pediatrici di dosaggio e sicurezza:** La maggior parte dell'evidenza robusta deriva da studi su adulti con crisi parziali; i dati formali di dosaggio appropriato per l'età, PK e sicurezza nei bambini (la popolazione primaria di epilessia assenza) dovrebbero essere stabiliti formalmente
+- **Pianificazione della pathway normativa AIFA:** Identificare la rotta più veloce verso l'autorizzazione del mercato italiano — mutuo riconoscimento da un titolare di autorizzazione di uno Stato Membro dell'UE esistente, o una nuova applicazione centralizzata EMA coprendo l'indicazione dell'epilessia assenza
+- **Revisione completa del foglio illustrativo:** Ottenere e analizzare i dati completi di controindicazioni, avvertenze e DDI dai foggi illustrativi UE/USA/Giappone (non disponibili in questo Evidence Pack)
+- **Protocollo di screening dell'ipersensibilità ai solfonamidi:** Data la rischiosità dell'effetto avverso metaemoglobinemia, sviluppare una checklist di pre-trattamento screening per lo stato di deficienza di G6PD e allergia ai solfonamidi
+
+---
+
+> **Riassunto di tutte le indicazioni predette da TxGNN (per riferimento):**
 >
-> | Rank | Indication | TxGNN Score | Evidence Level | Decision |
+> | Rank | Indicazione | Punteggio TxGNN | Livello di evidenza | Decisione |
 > |------|-----------|-------------|---------------|---------|
-> | 1 | Tourette Syndrome | 99.85% | L5 | Hold |
-> | 2 | Trichotillomania | 99.78% | L5 | Hold |
-> | 3 | Methemoglobinemia (alpha) | 99.64% | L5 | ⚠️ Hold — safety concern (adverse effect, not indication) |
-> | 4 | Methemoglobinemia | 99.63% | L5 | ⚠️ Hold — safety concern |
-> | 5 | Prinzmetal Angina | 99.55% | L5 | Hold |
-> | 6 | Methemoglobin Reductase Deficiency | 99.53% | L5 | ⚠️ Hold — safety concern |
-> | 7 | Manic Bipolar Affective Disorder | 99.35% | L3 | Research Question (1 RCT signal, insufficient sample) |
-> | **8** | **Absence Epilepsy** | **99.24%** | **L1** | **✓ Proceed with Guardrails ← Primary focus of this report** |
-> | 9 | Fibromyalgia | 99.20% | L5 | Hold (1 trial withdrawn before enrollment) |
-> | 10 | Conjunctivitis | 99.16% | L5 | Hold |
+> | 1 | Sindrome di Tourette | 99,85% | L5 | Hold |
+> | 2 | Tricotillomania | 99,78% | L5 | Hold |
+> | 3 | Metaemoglobinemia (alfa) | 99,64% | L5 | ⚠️ Hold — preoccupazione di sicurezza (effetto avverso, non indicazione) |
+> | 4 | Metaemoglobinemia | 99,63% | L5 | ⚠️ Hold — preoccupazione di sicurezza |
+> | 5 | Angina di Prinzmetal | 99,55% | L5 | Hold |
+> | 6 | Deficienza di metaemoglobina reduttasi | 99,53% | L5 | ⚠️ Hold — preoccupazione di sicurezza |
+> | 7 | Disturbo bipolare affettivo maniacale | 99,35% | L3 | Domanda di ricerca (1 segnale RCT, campione insufficiente) |
+> | **8** | **Epilessia assenza** | **99,24%** | **L1** | **✓ Procedere con Guardrails ← Focus primario di questo rapporto** |
+> | 9 | Fibromialgia | 99,20% | L5 | Hold (1 trial ritirato prima dell'arruolamento) |
+> | 10 | Congiuntivite | 99,16% | L5 | Hold |
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

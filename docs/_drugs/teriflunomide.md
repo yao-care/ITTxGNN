@@ -29,104 +29,105 @@ Livello di evidenza: **L1** | Indicazioni previste: **1**
 
 </div>
 
-# Teriflunomide: From Leflunomide Active Metabolite to Relapsing-Remitting Multiple Sclerosis
+# Teriflunomide: Dal Metabolita Attivo della Leflunomide alla Sclerosi Multipla Recidivante-Remittente
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Teriflunomide is the pharmacologically active metabolite of leflunomide—an oral immunomodulatory agent originally developed from the rheumatoid arthritis drug family—functioning through selective inhibition of de novo pyrimidine synthesis to suppress autoreactive lymphocyte proliferation.
-The TxGNN model predicts it may be highly effective for **relapsing-remitting multiple sclerosis (RRMS)**,
-backed by **multiple completed Phase 3 pivotal trials** and **19 peer-reviewed publications**, including studies that have already formed the basis for FDA (2012) and EMA (2013) regulatory approvals—making this a TxGNN validation of an established global indication not yet registered in Taiwan.
+Teriflunomide è il metabolita farmacologicamente attivo della leflunomide—un agente immunomodulatore orale sviluppato originariamente dalla famiglia di farmaci per l'artrite reumatoide—che funziona attraverso l'inibizione selettiva della sintesi de novo di pirimidine per sopprimere la proliferazione di linfociti autoreattivi.
+Il modello TxGNN prevede che potrebbe essere altamente efficace per la **sclerosi multipla recidivante-remittente (RRMS)**,
+supportato da **molteplici trial pivotali completati di Fase 3** e **19 pubblicazioni peer-reviewed**, inclusi studi che hanno già formato la base per le approvazioni normative FDA (2012) ed EMA (2013)—rendendo questo una validazione TxGNN di un'indicazione globale stabilita non ancora registrata a Taiwan.
 
 ---
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Voce | Contenuto |
 |------|---------|
-| Original Indication | Not registered in Taiwan; globally derived from leflunomide (rheumatoid arthritis) lineage |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis (RRMS) |
-| TxGNN Prediction Score | 99.24% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione Originale | Non registrata a Taiwan; derivata globalmente dalla linea della leflunomide (artrite reumatoide) |
+| Indicazione Prevista Nuova | Sclerosi Multipla Recidivante-Remittente (RRMS) |
+| Punteggio di Previsione TxGNN | 99.24% |
+| Livello di Evidenza | L1 |
+| Stato del Mercato a Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Guardrail |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Teriflunomide is the active metabolite of leflunomide, selectively and reversibly inhibiting dihydroorotate dehydrogenase (DHODH)—the rate-limiting mitochondrial enzyme in the de novo pyrimidine synthesis pathway. The biological insight driving this mechanism is elegant: activated T cells and B cells uniquely depend on de novo pyrimidine synthesis (rather than the salvage pathway) to sustain rapid proliferation during an immune response. Resting lymphocytes, which rely on the salvage pathway, are largely spared. This selectivity means DHODH inhibition targets pathologically activated, autoreactive lymphocytes while preserving baseline immune surveillance—an ideal immunological profile for an autoimmune disease like RRMS.
+Teriflunomide è il metabolita attivo della leflunomide, inibendo selettivamente e reversibilmente la diidoorotato deidrogenasi (DHODH)—l'enzima mitocondriale che limita la velocità nella via di sintesi de novo di pirimidine. L'intuizione biologica che guida questo meccanismo è elegante: le cellule T e B attivate dipendono in modo unico dalla sintesi de novo di pirimidine (piuttosto che dalla via di salvataggio) per mantenere la proliferazione rapida durante una risposta immunitaria. I linfociti a riposo, che si affidano alla via di salvataggio, sono in gran parte risparmiati. Questa selettività significa che l'inibizione di DHODH colpisce i linfociti autoreattivi patologicamente attivati preservando la sorveglianza immunitaria di base—un profilo immunologico ideale per una malattia autoimmune come la RRMS.
 
-In relapsing-remitting multiple sclerosis, self-reactive T and B cells orchestrate inflammatory attacks on the central nervous system, leading to demyelination, axonal damage, episodic relapses, and progressive disability accumulation. By blocking the proliferative expansion of these autoreactive lymphocytes in the periphery, teriflunomide directly interrupts the upstream immunological cascade before CNS invasion occurs. This mechanistic alignment—from autoimmune lymphocyte dysregulation to pyrimidine-dependent proliferative block—explains why the TxGNN model assigned a near-perfect prediction score of 99.24%.
+Nella sclerosi multipla recidivante-remittente, le cellule T e B autoreattive orchestrano attacchi infiammatori al sistema nervoso centrale, portando a demielinazione, danno assonale, ricadute episodiche e accumulo progressivo di disabilità. Bloccando l'espansione proliferativa di questi linfociti autoreattivi in periferia, teriflunomide interrompe direttamente la cascata immunologica a monte prima che avvenga l'invasione del SNC. Questo allineamento meccanicistico—dalla disregolazione del linfocita autoimmune al blocco proliferativo dipendente dalla pirimidina—spiega perché il modello TxGNN ha assegnato un punteggio di previsione quasi perfetto di 99.24%.
 
-Beyond the primary DHODH pathway, mechanistic Phase IV data (NCT03464448) have demonstrated that teriflunomide positively modulates regulatory B lymphocytes (Breg cells), providing an additional immunoregulatory dimension that may contribute to sustained long-term disease control. The convergence of DHODH inhibition, reduced T-cell and B-cell activation, and Breg upregulation creates a multi-layered immunomodulatory profile that is particularly well-suited to the chronic, relapsing nature of RRMS—a finding further reinforced by the 2024 Cochrane Network Meta-Analysis and teriflunomide's consistent role as the active comparator in recent high-efficacy DMT Phase 3 trials.
+Oltre alla via primaria di DHODH, i dati meccanicistici di Fase IV (NCT03464448) hanno dimostrato che teriflunomide modula positivamente i linfociti B regolatori (cellule Breg), fornendo una dimensione immunoregolatoria aggiuntiva che può contribuire al controllo sostenuto a lungo termine della malattia. La convergenza dell'inibizione di DHODH, della ridotta attivazione di cellule T e B e dell'aumento di Breg crea un profilo immunomodulatorio multistrato che è particolarmente adatto alla natura cronica e ricorrente della RRMS—un risultato ulteriormente rafforzato dalla Meta-Analisi di Rete Cochrane 2024 e dal ruolo coerente di teriflunomide come comparatore attivo nei recenti trial di Fase 3 con DMT ad alta efficacia.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da Trial Clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di Trial | Fase | Stato | Arruolamento | Risultati Chiave |
 |---------|------|------|------|---------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1,088 | Pivotal double-blind RCT in RRMS: both 7 mg and 14 mg doses significantly reduced annualized relapse rate (ARR) vs. placebo; also assessed disability progression (EDSS), MRI lesion burden, and patient-reported fatigue |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Head-to-head RCT vs. interferon β-1a (s.c.) over 108 weeks plus long-term extension: evaluated time to treatment failure, relapse frequency, fatigue, and patient treatment satisfaction |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term safety extension of EFC6049 pivotal trial: documented multi-year safety/tolerability profile and sustained efficacy on disability progression, relapse rate, and MRI endpoints |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term extension of the first-in-class Phase 2 RRMS study: provided foundational long-term safety and efficacy data that underpinned the Phase 3 programme design |
-| [NCT02776072](https://clinicaltrials.gov/study/NCT02776072) | N/A (Observational) | Completed | 2,978 | Largest real-world comparative study in this dataset: assessed 12-month relapse rates for teriflunomide vs. dimethyl fumarate, glatiramer acetate, and fingolimod in RRMS clinical practice |
-| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A (Observational) | Completed | 106 | Investigator-initiated real-world effectiveness study over ≥2 years at an MS clinic: complementary generalizability data outside RCT conditions |
-| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A (Mechanistic) | Completed | 30 | Phase IV open-label mechanistic study: characterized teriflunomide's effect on B-cell activation markers, costimulatory molecules, cytokine secretion, and regulatory B lymphocytes (Breg) in RRMS patients |
-| [NCT03768648](https://clinicaltrials.gov/study/NCT03768648) | N/A (Observational) | Completed | 75 | Evaluated everyday cognitive function using ecological assessments and non-conventional MRI markers in RRMS patients on teriflunomide; contributed quality-of-life and cognitive outcome data |
-| [NCT05962177](https://clinicaltrials.gov/study/NCT05962177) | N/A (Prospective Cohort) | Recruiting | 400 | Ongoing prospective monocentric cohort (2023–2030) characterizing RRMS patients in current clinical routine, including teriflunomide as a first-line treatment arm alongside high-efficacy therapies |
-| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A (Observational) | Not Yet Recruiting | 100 | ROOF-MS: multicenter prospective cohort comparing teriflunomide vs. dimethyl fumarate on physical and cognitive fatigability outcomes; expected to start November 2025 |
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Fase 3 | Completato | 1,088 | RCT doppio cieco pivotale in RRMS: entrambe le dosi di 7 mg e 14 mg hanno ridotto significativamente il tasso di ricaduta annualizzato (ARR) rispetto al placebo; ha anche valutato la progressione della disabilità (EDSS), il carico lesionale alla RMI e l'affaticamento riferito dal paziente |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Fase 3 | Completato | 324 | RCT testa-a-testa vs. interferone β-1a (s.c.) per 108 settimane più estensione a lungo termine: valutato il tempo al fallimento del trattamento, la frequenza delle ricadute, l'affaticamento e la soddisfazione del paziente al trattamento |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Fase 3 | Completato | 742 | Estensione di sicurezza a lungo termine del trial pivotale EFC6049: profilo di sicurezza/tollerabilità documentato multi-anno ed efficacia sostenuta sulla progressione della disabilità, sul tasso di ricaduta e sugli endpoint di RMI |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Fase 2 | Completato | 147 | Estensione a lungo termine del primo studio RRMS di Fase 2 della sua classe: ha fornito dati di sicurezza e efficacia a lungo termine fondamentali che hanno sostenuto la progettazione del programma di Fase 3 |
+| [NCT02776072](https://clinicaltrials.gov/study/NCT02776072) | N/A (Osservazionale) | Completato | 2,978 | Più grande studio comparativo nel mondo reale in questo set di dati: ha valutato i tassi di ricaduta a 12 mesi per teriflunomide vs. dimetil fumarato, acetato di glatiramer e fingolimod nella pratica clinica RRMS |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A (Osservazionale) | Completato | 106 | Studio di efficacia nel mondo reale avviato da ricercatori per ≥2 anni presso una clinica SM: dati di generalizzabilità complementari al di fuori delle condizioni RCT |
+| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A (Meccanicistico) | Completato | 30 | Studio meccanicistico di Fase IV in aperto: ha caratterizzato l'effetto di teriflunomide sui marcatori di attivazione delle cellule B, sulle molecole costimolanti, sulla secrezione di citochine e sui linfociti B regolatori (Breg) nei pazienti con RRMS |
+| [NCT03768648](https://clinicaltrials.gov/study/NCT03768648) | N/A (Osservazionale) | Completato | 75 | Valutazione della funzione cognitiva quotidiana utilizzando valutazioni ecologiche e marcatori RMI non convenzionali nei pazienti con RRMS in teriflunomide; ha contribuito ai dati di qualità della vita e ai risultati cognitivi |
+| [NCT05962177](https://clinicaltrials.gov/study/NCT05962177) | N/A (Coorte Prospettica) | In Reclutamento | 400 | Coorte prospettica monocentrica in corso (2023–2030) caratterizzazione dei pazienti con RRMS nella routine clinica attuale, inclusa teriflunomide come braccio di trattamento di prima linea insieme alle terapie ad alta efficacia |
+| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A (Osservazionale) | Non ancora in Reclutamento | 100 | ROOF-MS: coorte prospettica multicentrica che confronta teriflunomide vs. dimetil fumarato sui risultati di affaticabilità fisica e cognitiva; previsto l'inizio a novembre 2025 |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
 |------|-----|------|------|---------|
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network Meta-Analysis | Cochrane Database Syst Rev | Updated Cochrane NMA of all immunomodulators and immunosuppressants for RRMS; systematically quantifies the relative benefit of teriflunomide vs. placebo and active comparators across the full DMT landscape |
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT (Phase 3, ASCLEPIOS I/II) | N Engl J Med | Ofatumumab (anti-CD20) vs. teriflunomide in 1,882 RMS patients: ofatumumab superior on ARR and MRI endpoints; teriflunomide served as active comparator, confirming its established efficacy baseline in Phase 3 |
-| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT (Phase 3) | N Engl J Med | Tolebrutinib (oral brain-penetrant BTK inhibitor) vs. teriflunomide in relapsing MS: evaluated CNS-penetrant modulation of microglia and B cells; teriflunomide as benchmark reference arm |
-| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT (Phase 3, ULTIMATE I/II) | N Engl J Med | Ublituximab (glycoengineered anti-CD20) vs. teriflunomide: superior B-cell depletion and ARR reduction; further validates teriflunomide as the standard-of-care first-line comparator |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT (Phase 3, evolutionRMS 1 & 2) | Lancet Neurology | Evobrutinib (BTK inhibitor) vs. teriflunomide across two Phase 3 trials in relapsing MS: reinforces teriflunomide's unshakeable role as the reference arm for next-generation oral DMT development |
-| [37691530](https://pubmed.ncbi.nlm.nih.gov/37691530/) | 2023 | RCT Extension (ALITHIOS) | Mult Scler | Four-year ofatumumab extension data vs. teriflunomide: sustained superiority of anti-CD20 therapy documented; also provides one of the longest available teriflunomide active-comparator safety datasets |
-| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Systematic Review | CNS Drugs | Systematic review comparing all five approved oral DMTs for RRMS (fingolimod, DMF, teriflunomide, cladribine, siponimod); summarizes head-to-head and indirect efficacy and safety comparisons |
-| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Review | JAMA | JAMA clinical review of MS diagnosis and treatment (estimated 900,000 US patients); positions teriflunomide as a standard first-line oral DMT within the modern treatment algorithm |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Dedicated teriflunomide monograph: mechanism (DHODH inhibition, lymphocyte selectivity), RCT efficacy summary, real-world effectiveness, and tolerability profile; key prescribing reference |
-| [37382446](https://pubmed.ncbi.nlm.nih.gov/37382446/) | 2023 | Clinical Study (Pediatric) | Expert Rev Neurother | Teriflunomide as first-line DMT in children and adolescents with RRMS; summarizes the basis for EU pediatric approval and extends the evidence base beyond adult populations |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Meta-Analisi di Rete | Cochrane Database Syst Rev | Meta-analisi di rete Cochrane aggiornata di tutti gli immunomodulatori e immunosoppressori per RRMS; quantifica sistematicamente il beneficio relativo di teriflunomide vs. placebo e comparatori attivi su tutto il panorama delle DMT |
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT (Fase 3, ASCLEPIOS I/II) | N Engl J Med | Ofatumumab (anti-CD20) vs. teriflunomide in 1,882 pazienti con SM recidivante: ofatumumab superiore su endpoint ARR e RMI; teriflunomide è servito come comparatore attivo, confermando la sua linea di base di efficacia stabilita in Fase 3 |
+| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT (Fase 3) | N Engl J Med | Tolebrutinib (inibitore di BTK orale che penetra il cervello) vs. teriflunomide in SM recidivante: ha valutato la modulazione che penetra il SNC della microglia e delle cellule B; teriflunomide come braccio di riferimento benchmark |
+| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT (Fase 3, ULTIMATE I/II) | N Engl J Med | Ublituximab (anti-CD20 glicoingegnerizzato) vs. teriflunomide: deplezione superiore di cellule B e riduzione di ARR; convalida ulteriormente teriflunomide come comparatore di prima linea standard di cura |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT (Fase 3, evolutionRMS 1 & 2) | Lancet Neurology | Evobrutinib (inibitore di BTK) vs. teriflunomide in due trial di Fase 3 in SM recidivante: rinforza il ruolo incrollabile di teriflunomide come braccio di riferimento per lo sviluppo della DMT orale di prossima generazione |
+| [37691530](https://pubmed.ncbi.nlm.nih.gov/37691530/) | 2023 | Estensione RCT (ALITHIOS) | Mult Scler | Dati di estensione di ofatumumab di quattro anni vs. teriflunomide: superiorità sostenuta della terapia anti-CD20 documentata; fornisce anche uno dei più lunghi set di dati sulla sicurezza disponibili di teriflunomide come comparatore attivo |
+| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Revisione Sistematica | CNS Drugs | Revisione sistematica che confronta tutti i cinque DMT orali approvati per RRMS (fingolimod, DMF, teriflunomide, cladribine, siponimod); riassume i confronti di efficacia e sicurezza diretti e indiretti |
+| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Revisione | JAMA | Revisione clinica JAMA della diagnosi e del trattamento della SM (pazienti statunitensi stimati 900.000); posiziona teriflunomide come DMT orale di prima linea standard all'interno dell'algoritmo di trattamento moderno |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Revisione | Drugs | Monografia dedicata a teriflunomide: meccanismo (inibizione di DHODH, selettività linfocitaria), riassunto dell'efficacia RCT, efficacia nel mondo reale e profilo di tollerabilità; riferimento di prescrizione chiave |
+| [37382446](https://pubmed.ncbi.nlm.nih.gov/37382446/) | 2023 | Studio Clinico (Pediatrico) | Expert Rev Neurother | Teriflunomide come DMT di prima linea nei bambini e negli adolescenti con RRMS; riassume la base per l'approvazione pediatrica UE e estende la base di prove oltre le popolazioni adulte |
 
 ---
 
-## Taiwan Market Information
+## Informazioni sul Mercato a Taiwan
 
-Teriflunomide is currently **not registered or marketed in Taiwan**. The TFDA database contains no approved authorizations for this compound.
+Teriflunomide è attualmente **non registrato o commercializzato a Taiwan**. Il database della TFDA non contiene autorizzazioni approvate per questo composto.
 
-> For reference: Teriflunomide is approved as **Aubagio®** (Sanofi) in over 80 countries, including the United States (FDA, September 2012), European Union (EMA, August 2013), and Japan (PMDA). A pediatric RRMS indication was additionally approved in the EU in 2023.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> The TFDA package insert (key warnings, contraindications) was not retrievable in the current evidence pack and is flagged as a blocking data gap (DG001). DDI database query returned no results. For immediate reference, the EMA Summary of Product Characteristics (SmPC) for Aubagio® should be consulted for hepatotoxicity monitoring requirements, teratogenicity risk, accelerated elimination procedures, and lymphocyte count thresholds.
+> Per riferimento: Teriflunomide è approvato come **Aubagio®** (Sanofi) in oltre 80 paesi, inclusi gli Stati Uniti (FDA, settembre 2012), l'Unione Europea (EMA, agosto 2013) e il Giappone (PMDA). Un'indicazione RRMS pediatrica è stata ulteriormente approvata nell'UE nel 2023.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-Teriflunomide carries one of the strongest evidence bases in the RRMS pharmacological landscape—multiple completed Phase 3 RCTs (including the 1,088-patient pivotal trial and a head-to-head comparison vs. IFN β-1a), a 2024 Cochrane Network Meta-Analysis, and consistent selection as the active comparator in no fewer than four recent Phase 3 trials for next-generation DMTs. The L1 evidence classification is unambiguous. The primary barrier to Taiwan deployment is not efficacy uncertainty but the absence of local regulatory data.
+> Il foglio illustrativo della TFDA (avvertimenti chiave, controindicazioni) non è stato recuperabile nel pacchetto di prove attuale ed è contrassegnato come lacuna di dati bloccante (DG001). La query del database DDI non ha restituito risultati. Per riferimento immediato, il Riassunto delle Caratteristiche del Prodotto (SmPC) dell'EMA per Aubagio® dovrebbe essere consultato per i requisiti di monitoraggio dell'epatotossicità, il rischio di teratogenicità, le procedure di eliminazione accelerata e le soglie di conteggio dei linfociti.
 
-**To proceed, the following is needed:**
-- **[Blocking – DG001]** Download and parse the TFDA package insert PDF to extract key warnings and contraindications, particularly hepatotoxicity monitoring (ALT/AST), teratogenicity (Category X equivalent), and lymphocyte count requirements
-- **[High – DG002]** Query DrugBank API for full MOA data including known off-target effects and metabolic pathway details
-- Retrieve DDI data from EMA SmPC or FDA label as interim substitute pending TFDA-specific DDI database results
-- Establish a Taiwan-specific safety monitoring plan: liver function tests (baseline + monthly for 6 months), complete blood count, blood pressure, and a formal teratogenicity risk communication plan with accelerated elimination protocol documentation (cholestyramine/activated charcoal washout)
-- Assess whether the pediatric RRMS data (EU approval 2023; PMID 37382446) is relevant for any Taiwan pediatric MS population
-- Confirm Taiwan NHI formulary pathway and comparator landscape (interferon β, glatiramer acetate, fingolimod availability) to position teriflunomide within local treatment algorithms
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: Procedere con Guardrail**
+
+**Fondamento Logico:**
+Teriflunomide ha una delle basi di prove più forti nel panorama farmacologico della RRMS—molteplici RCT di Fase 3 completati (incluso il trial pivotale di 1.088 pazienti e un confronto testa-a-testa vs. IFN β-1a), una Meta-Analisi di Rete Cochrane 2024 e la selezione coerente come comparatore attivo in non meno di quattro recenti trial di Fase 3 per le DMT di prossima generazione. La classificazione delle prove L1 è inequivocabile. La barriera primaria al dispiegamento a Taiwan non è l'incertezza dell'efficacia ma l'assenza di dati normativi locali.
+
+**Per procedere, sono necessari i seguenti:**
+- **[Bloccante – DG001]** Scarica e analizza il PDF del foglio illustrativo della TFDA per estrarre avvertimenti chiave e controindicazioni, in particolare il monitoraggio dell'epatotossicità (ALT/AST), il rischio di teratogenicità (equivalente alla Categoria X) e i requisiti di conteggio dei linfociti
+- **[Alto – DG002]** Query l'API di DrugBank per i dati MOA completi inclusi gli effetti off-target noti e i dettagli del percorso metabolico
+- Recupera i dati DDI da EMA SmPC o dall'etichetta FDA come sostituto provvisorio in attesa dei risultati specifici del database DDI della TFDA
+- Stabilire un piano di monitoraggio della sicurezza specifico a Taiwan: test della funzionalità epatica (basale + mensile per 6 mesi), emocromo completo, pressione arteriosa e un piano di comunicazione formale del rischio di teratogenicità con documentazione del protocollo di eliminazione accelerata (lavaggio con colestiramina/carbone attivato)
+- Valutare se i dati RRMS pediatrici (approvazione UE 2023; PMID 37382446) sono rilevanti per qualsiasi popolazione SM pediatrica a Taiwan
+- Conferma il percorso formulario dell'assicurazione sanitaria nazionale di Taiwan e il panorama dei comparatori (disponibilità di interferone β, acetato di glatiramer, fingolimod) per posizionare teriflunomide negli algoritmi di trattamento locali
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

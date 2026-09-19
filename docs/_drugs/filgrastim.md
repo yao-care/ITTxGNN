@@ -29,98 +29,97 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Filgrastim: From Neutropenia / Stem Cell Mobilization to Primary Release Disorder of Platelets
+# Filgrastim: Da Neutropenia / Mobilizzazione di Cellule Staminali a Disturbo Primario del Rilascio delle Piastrine
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Filgrastim is a recombinant human granulocyte colony-stimulating factor (G-CSF) widely used to treat chemotherapy-induced neutropenia and to mobilize hematopoietic stem cells (HSCs) for transplantation.
-The TxGNN model predicts it may have potential relevance in **Primary Release Disorder of Platelets**, with a prediction score of **99.998%**.
-However, supporting evidence is entirely indirect — consisting of **14 clinical trials** (all HSCT-related settings where filgrastim acts as a mobilization agent) and **1 publication** — placing this firmly at an early research-hypothesis stage.
+Il filgrastim è un fattore stimolante le colonie granulocitarie ricombinante umano (G-CSF) ampiamente utilizzato per il trattamento della neutropenia indotta da chemioterapia e per mobilizzare le cellule staminali ematopoietiche (HSC) per il trapianto. Il modello TxGNN prevede una possibile rilevanza nel **Disturbo Primario del Rilascio delle Piastrine**, con un punteggio di predizione del **99.998%**. Tuttavia, le prove disponibili sono interamente indirette — composte da **14 studi clinici** (tutti in contesti correlati al trapianto di cellule staminali ematopoietiche dove il filgrastim agisce come agente di mobilizzazione) e da **1 pubblicazione** — collocando questo saldamente in una fase di ipotesi di ricerca iniziale.
 
 ---
 
-## Quick Overview
+## Panoramica Generale
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Neutropenia management; hematopoietic stem cell mobilization for transplantation |
-| Predicted New Indication | Primary Release Disorder of Platelets |
-| TxGNN Prediction Score | 99.998% |
-| Evidence Level | L4 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione Originaria | Gestione della neutropenia; mobilizzazione di cellule staminali ematopoietiche per il trapianto |
+| Indicazione Nuova Prevista | Disturbo Primario del Rilascio delle Piastrine |
+| Punteggio di Predizione TxGNN | 99.998% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato in Italia | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospensione |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Predizione è Ragionevole?
 
-Detailed mechanism of action data is not currently available from the source database. Based on established pharmacology, filgrastim is a recombinant form of endogenous G-CSF that binds the G-CSF receptor (G-CSFR / CD114), driving proliferation, differentiation, and survival of neutrophil precursors in the bone marrow. Its well-established secondary effect — HSC mobilization from marrow into peripheral blood — is clinically exploited for donor and autologous stem cell collection prior to transplantation. This dual granulopoietic and mobilizing activity is the biological bridge underlying the TxGNN prediction.
+I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili dal database di origine. Sulla base della farmacologia consolidata, il filgrastim è una forma ricombinante dell'endogeno G-CSF che si lega al recettore G-CSF (G-CSFR / CD114), promuovendo la proliferazione, la differenziazione e la sopravvivenza dei precursori dei neutrofili nel midollo osseo. Il suo effetto secondario ben consolidato — la mobilizzazione delle cellule staminali ematopoietiche dal midollo al sangue periferico — è clinicamente sfruttato per la raccolta di cellule staminali da donatori e autologhe prima del trapianto. Questa attività duale granulopoietica e mobilizzante è il ponte biologico sottostante la predizione TxGNN.
 
-The mechanistic rationale for primary release disorder of platelets is third-order and indirect. Filgrastim mobilises HSCs, which include megakaryocyte progenitors. In the context of allogeneic HSCT, engraftment of donor HSCs can repopulate the recipient's bone marrow de novo — theoretically correcting an underlying genetic defect in the platelet release machinery if one is present. The clinical trials retrieved all reflect this HSCT support role: filgrastim is used as a standard mobilization reagent, not as a direct treatment for any platelet disorder.
+La logica meccanicistica per il disturbo primario del rilascio delle piastrine è di terzo ordine e indiretta. Il filgrastim mobilizza le cellule staminali ematopoietiche, che includono i progenitori dei megacariociti. Nel contesto del trapianto allogenico di cellule staminali ematopoietiche, l'attecchimento delle cellule staminali ematopoietiche da donatore può ripopolare il midollo osseo del ricevente de novo — teoricamente correggendo un difetto genetico sottostante nel macchinario di rilascio piastrinico se presente. Gli studi clinici recuperati riflettono tutti questo ruolo di supporto del trapianto di cellule staminali ematopoietiche: il filgrastim è utilizzato come reagente di mobilizzazione standard, non come trattamento diretto per alcun disturbo piastrinico.
 
-Importantly, no evidence exists that filgrastim independently modulates platelet dense granule secretion, the SNARE machinery, or downstream signalling cascades responsible for platelet release. The TxGNN prediction most likely arises from graph-level proximity in the biomedical knowledge graph between G-CSF pathway nodes and hematopoietic/platelet function nodes, rather than from a direct pharmacological action. Mechanistic plausibility is rated low-to-moderate at best, and the indication remains a research question requiring preclinical validation.
+Non esiste alcuna evidenza che il filgrastim moduli indipendentemente la secrezione dei granuli densi piastrinici, il macchinario SNARE o le cascate di segnalazione a valle responsabili del rilascio piastrinico. La predizione TxGNN molto probabilmente origina dalla prossimità a livello di grafo nel grafo di conoscenza biomedica tra i nodi della via G-CSF e i nodi della funzione ematopoietica e piastrinica, piuttosto che da un'azione farmacologica diretta. La plausibilità meccanicistica è valutata al massimo da bassa a moderata, e l'indicazione rimane una questione di ricerca che richiede la convalida preclinica.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da Studi Clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero dello Studio | Fase | Stato | Arruolamento | Risultati Chiave |
 |---------|------|------|------|---------|
-| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Phase 2 | Completed | 60 | Allogeneic/syngeneic blood stem cell transplantation for high-risk paediatric sarcomas; G-CSF used for donor mobilisation — provides indirect evidence that filgrastim-mobilised grafts can reconstitute full haematopoiesis including platelet lineage |
-| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Phase 2 | Completed | 19 | Reduced-intensity HSCT for patients with GATA2 mutations; filgrastim is an essential component of the donor mobilisation protocol; demonstrated feasibility of stem cell correction for genetic haematopoietic disorders |
-| [NCT02646098](https://clinicaltrials.gov/study/NCT02646098) | Phase 2 | Completed | 64 | Randomised comparison of CD34+ selected vs. unselected autologous SCT in MCL/DLBCL; filgrastim serves as the standard mobilisation agent; relevant for understanding G-CSF's role in graft composition |
-| [NCT00281879](https://clinicaltrials.gov/study/NCT00281879) | Phase 2 | Terminated | 200 | Unrelated donor HSCT for haematological malignancies; multi-arm study including donor lymphocyte infusion post-transplant; terminated early — limited conclusions available |
-| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Phase 2 | Terminated | 16 | Umbilical cord blood transplant with NK cells for myeloid leukaemia; filgrastim involved in recipient preparation; terminated with small sample (n=16) |
-| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Phase 1/2 | Recruiting | 260 | Dose optimisation of post-transplant cyclophosphamide combined with sirolimus/MMF for GVHD prophylaxis after reduced-intensity PBSC transplantation; G-CSF used for peripheral blood stem cell collection |
-| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Phase 2 | Completed | 9 | Intensified lymphodepletion followed by autologous HSCT for severe SLE; demonstrates filgrastim-mobilised autologous grafts can reset dysfunctional haematopoiesis in autoimmune contexts; very small cohort (n=9) |
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform protocol testing PTCy-based GVHD prophylaxis in MMUD PBSC transplantation; G-CSF central to donor PBSC collection; ongoing, completion expected 2028 |
+| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Fase 2 | Completato | 60 | Trapianto allogenico/singenico di cellule staminali del sangue per sarcomi pediatrici ad alto rischio; G-CSF utilizzato per la mobilizzazione del donatore — fornisce evidenza indiretta che i trapianti mobilizzati con filgrastim possono ricostituire l'ematopoiesi completa inclusa la linea piastrinica |
+| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Fase 2 | Completato | 19 | Trapianto di cellule staminali ematopoietiche a intensità ridotta per pazienti con mutazioni GATA2; il filgrastim è un componente essenziale del protocollo di mobilizzazione del donatore; ha dimostrato la fattibilità della correzione delle cellule staminali per i disturbi ematopoietici genetici |
+| [NCT02646098](https://clinicaltrials.gov/study/NCT02646098) | Fase 2 | Completato | 64 | Confronto randomizzato del trapianto autologo di cellule staminali CD34+ selezionate vs. non selezionate in MCL/DLBCL; il filgrastim funge da agente di mobilizzazione standard; rilevante per la comprensione del ruolo di G-CSF nella composizione del trapianto |
+| [NCT00281879](https://clinicaltrials.gov/study/NCT00281879) | Fase 2 | Terminato | 200 | Trapianto di cellule staminali ematopoietiche da donatore non correlato per malattie ematologiche maligne; studio a più bracci inclusa l'infusione di linfociti da donatore post-trapianto; terminato anticipatamente — conclusioni limitate disponibili |
+| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Fase 2 | Terminato | 16 | Trapianto di sangue del cordone ombelicale con cellule NK per leucemia mieloide; il filgrastim coinvolto nella preparazione del ricevente; terminato con piccolo campione (n=16) |
+| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Fase 1/2 | In Reclutamento | 260 | Ottimizzazione della dose di ciclofosfamide post-trapianto combinata con sirolimus/MMF per la profilassi della GVHD dopo trapianto di cellule staminali del sangue periferico a intensità ridotta; G-CSF utilizzato per la raccolta di cellule staminali del sangue periferico |
+| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Fase 2 | Completato | 9 | Linfodeplezione intensificata seguita da trapianto autologo di cellule staminali ematopoietiche per lupus eritematoso sistemico grave; dimostra che i trapianti autologo mobilizzati con filgrastim possono ripristinare l'ematopoiesi disfunzionale in contesti autoimmuni; coorte molto piccola (n=9) |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Fase 2 | In Reclutamento | 358 | Protocollo piattaforma testando la profilassi della GVHD basata su PTCy nel trapianto di cellule staminali del sangue periferico da donatore MUD non correlato; G-CSF centrale per la raccolta di cellule staminali del sangue periferico da donatore; in corso, completamento previsto 2028 |
 
-> **Important caveat:** None of the above trials were designed to evaluate filgrastim as a treatment for primary platelet release disorders. Filgrastim's role in all listed studies is as a mobilisation support agent within HSCT programmes. Relevance to the predicted indication is mechanistically indirect.
+> **Importante avvertenza:** Nessuno degli studi clinici di cui sopra è stato progettato per valutare il filgrastim come trattamento per i disturbi primari del rilascio piastrinico. Il ruolo del filgrastim in tutti gli studi elencati è come agente di supporto della mobilizzazione all'interno dei programmi di trapianto di cellule staminali ematopoietiche. La rilevanza per l'indicazione prevista è meccanicamente indiretta.
 
 ---
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
 |------|-----|------|------|---------|
-| [29770133](https://pubmed.ncbi.nlm.nih.gov/29770133/) | 2018 | Clinical Study | Frontiers in Immunology | G-CSF administration in healthy donors preferentially mobilises specific lymphocyte subsets alongside HSCs; highlights that filgrastim reshapes the cellular composition of the mobilised graft beyond granulocytes, with implications for immune reconstitution post-HSCT |
+| [29770133](https://pubmed.ncbi.nlm.nih.gov/29770133/) | 2018 | Studio Clinico | Frontiers in Immunology | La somministrazione di G-CSF in donatori sani mobilizza preferenzialmente sottoinsiemi specifici di linfociti insieme alle cellule staminali ematopoietiche; sottolinea che il filgrastim rimodella la composizione cellulare del trapianto mobilizzato oltre i granulociti, con implicazioni per la ricostituizione immunitaria post-trapianto |
 
 ---
 
-## Italy Market Information
+## Informazioni sul Mercato Italiano
 
-Filgrastim has **no registered product authorisations** in the Italy regulatory database reviewed for this analysis.
+Il filgrastim ha **nessuna autorizzazione registrata** nel database normativo italiano revisionato per questa analisi.
 
-| Market Status | Authorizations | Data Source Date |
+| Stato del Mercato | Autorizzazioni | Data della Fonte dei Dati |
 |---|---|---|
-| Not Marketed | 0 | 2026-03-29 |
+| Non Commercializzato | 0 | 2026-03-29 |
 
-> This reflects data available in the source regulatory database at time of query. Current authorization status should be independently verified via official AIFA records, as filgrastim biosimilars are broadly available across the EU.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+> Questo riflette i dati disponibili nel database normativo di origine al momento della query. Lo stato di autorizzazione attuale dovrebbe essere verificato indipendentemente tramite i registri AIFA ufficiali, poiché i biosimilari del filgrastim sono ampiamente disponibili in tutta l'UE.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla Sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-Although TxGNN assigns a very high prediction score (99.998%), the mechanistic connection between filgrastim and primary release disorder of platelets is a third-order inference (G-CSF → HSC mobilisation → HSCT → corrected megakaryocyte function), with no direct clinical trials or targeted publications. Evidence level L4 reflects mechanistic/indirect context only, and the evidence does not yet support a formal repurposing development path.
+---
 
-**To proceed, the following is needed:**
+## Conclusione e Prossimi Passi
 
-- **Preclinical mechanistic validation**: Determine whether any G-CSF signalling axis directly influences platelet dense granule biogenesis or the platelet release machinery (in vitro assays or patient-derived megakaryocyte models)
-- **Complete MOA data**: Retrieve full mechanism of action from DrugBank (DB00099) to enable a proper mechanistic plausibility assessment
-- **Targeted literature review**: Search for case reports or retrospective series documenting platelet function normalisation following G-CSF-mobilised HSCT in patients with documented platelet release disorders
-- **Italy market verification**: Cross-check current AIFA authorisation database directly, as EU-approved filgrastim biosimilars may already carry relevant haematological indications
-- **Safety profiling for target population**: Primary platelet release disorders often affect younger or paediatric patients; long-term G-CSF exposure risks (splenic rupture, bone pain, rare secondary AML in donors) must be assessed for this population specifically
-- **Regulatory pathway scoping**: If preclinical data support the hypothesis, map the route to an orphan disease designation given the rarity of primary platelet release disorders
+**Decisione: Sospensione**
+
+**Razionale:**
+Sebbene il TxGNN assegni un punteggio di predizione molto elevato (99.998%), la connessione meccanicistica tra il filgrastim e il disturbo primario del rilascio delle piastrine è un'inferenza di terzo ordine (G-CSF → mobilizzazione delle cellule staminali ematopoietiche → trapianto di cellule staminali ematopoietiche → funzione dei megacariociti corretta), senza studi clinici diretti o pubblicazioni mirate. Il livello di evidenza L4 riflette solo il contesto meccanicistico/indiretto, e le prove non supportano ancora un percorso formale di sviluppo del riposizionamento.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Convalida meccanicistica preclinica**: Determinare se uno qualsiasi degli assi di segnalazione G-CSF influisce direttamente sulla biogenesi dei granuli densi piastrinici o sul macchinario di rilascio piastrinico (saggi in vitro o modelli di megacariociti derivati da pazienti)
+- **Dati MOA completi**: Recuperare il meccanismo d'azione completo da DrugBank (DB00099) per consentire una corretta valutazione della plausibilità meccanicistica
+- **Revisione mirata della letteratura**: Cercare relazioni di casi o serie retrospettive documentando la normalizzazione della funzione piastrinica dopo trapianto di cellule staminali ematopoietiche mobilizzate con G-CSF in pazienti con disturbi documentati del rilascio piastrinico
+- **Verifica del mercato italiano**: Verificare incrociati il database di autorizzazione AIFA attuale direttamente, poiché i biosimilari del filgrastim approvati dall'UE potrebbero già portare indicazioni ematologiche rilevanti
+- **Profilazione della sicurezza per la popolazione target**: I disturbi primari del rilascio piastrinico spesso colpiscono pazienti più giovani o pediatrici; i rischi dell'esposizione prolungata a G-CSF (rottura splenica, dolore osseo, raro AML secondario nei donatori) devono essere valutati specificamente per questa popolazione
+- **Scoping del percorso normativo**: Se i dati preclinici supportano l'ipotesi, mappare il percorso verso una designazione di malattia rara dato che la rarità dei disturbi primari del rilascio piastrinico
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

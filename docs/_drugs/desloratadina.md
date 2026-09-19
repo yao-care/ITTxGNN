@@ -29,75 +29,76 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Desloratadina: Evidence Pack Incomplete — No Repurposing Prediction Available
+# Desloratadina: pacchetto di prove incompleto — nessuna previsione di riposizionamento disponibile
 
-## Summary
+## Sommario
 
-Desloratadina (Desloratadine) is a second-generation antihistamine widely used for allergic rhinitis and chronic urticaria.
-This Evidence Pack contains **no TxGNN predicted indications**, which means a drug repurposing evaluation cannot be completed at this stage.
-Additionally, the drug is **not currently marketed in Italy** under this INN, and key safety and MOA data are absent from the pack.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Allergic rhinitis, chronic urticaria (general knowledge; not populated in Evidence Pack) |
-| Predicted New Indication | Not available — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Desloratadina è un antistaminico di seconda generazione ampiamente utilizzato per la rinite allergica e l'orticaria cronica.
+Questo pacchetto di prove contiene **nessuna indicazione prevista da TxGNN**, il che significa che una valutazione del riposizionamento farmacologico non può essere completata in questa fase.
+Inoltre, il farmaco è **attualmente non commercializzato in Italia** con questo INN, e i dati chiave di sicurezza e meccanismo d'azione sono assenti dal pacchetto.
 
 ---
 
-## Why This Report Cannot Be Completed
+## Panoramica rapida
 
-The Evidence Pack for Desloratadina is missing three critical components:
-
-**1. No TxGNN predictions were returned.**
-The `predicted_indications` array is empty. Without at least one predicted indication, there is no repurposing candidate to evaluate. This may indicate the drug was not found in the TxGNN knowledge graph, or the prediction pipeline did not run to completion.
-
-**2. Mechanism of action data is absent.**
-The `original_moa` field is marked as a data gap (severity: High). Desloratadine is known to be a selective peripheral histamine H₁-receptor antagonist — but this was not retrieved into the Evidence Pack. The DrugBank query returned one result (`result_count: 1`), yet the data was not populated, suggesting a pipeline extraction error.
-
-**3. Safety data is unavailable.**
-Both key warnings and contraindications returned `[Data Gap]`. The TFDA package insert query also returned one result (`result_count: 1`) but was not parsed into the pack.
-
----
-
-## Italy Market Information
-
-No Italian authorizations were found for **DESLORATADINA** under this exact INN.
-
-> **Note:** Desloratadine-containing products may be marketed under brand names (e.g., Aerius, Neoclarityn) with different INN spellings or combination formulations. A search under "desloratadine" (English spelling) is recommended.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Rinite allergica, orticaria cronica (conoscenza generale; non compilata nel pacchetto di prove) |
+| Nuova indicazione prevista | Non disponibile — TxGNN non ha restituito previsioni |
+| Punteggio di previsione TxGNN | N/A |
+| Livello di evidenza | N/A |
+| Stato del mercato in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospendere** |
 
 ---
 
-## Safety Considerations
+## Perché questo rapporto non può essere completato
 
-Safety data was not successfully extracted into this Evidence Pack. Please refer to the EMA product information and the package insert for Desloratadine for current warnings, contraindications, and drug interactions.
+Il pacchetto di prove per Desloratadina manca di tre componenti critici:
 
-The DDI query returned no interactions (`query_status: not_found`), which may reflect a search term mismatch rather than a true absence of known interactions.
+**1. Nessuna previsione TxGNN è stata restituita.**
+L'array `predicted_indications` è vuoto. Senza almeno una indicazione prevista, non c'è nessun candidato di riposizionamento da valutare. Questo potrebbe indicare che il farmaco non è stato trovato nel grafo della conoscenza TxGNN, oppure la pipeline di previsione non ha completato l'esecuzione.
+
+**2. I dati sul meccanismo d'azione sono assenti.**
+Il campo `original_moa` è contrassegnato come lacuna nei dati (gravità: alta). È noto che desloratadina sia un antagonista selettivo periferico del recettore H₁ dell'istamina — ma questo dato non è stato recuperato nel pacchetto di prove. La query di DrugBank ha restituito un risultato (`result_count: 1`), ma i dati non sono stati compilati, suggerendo un errore nell'estrazione della pipeline.
+
+**3. I dati di sicurezza non sono disponibili.**
+Sia i principali avvertimenti che le controindicazioni hanno restituito `[Data Gap]`. La query sul foglio illustrativo TFDA ha restituito un risultato (`result_count: 1`) ma non è stata analizzata nel pacchetto.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Nessuna autorizzazione italiana è stata trovata per **DESLORATADINA** con questo INN esatto.
 
-**Rationale:**
-The Evidence Pack is structurally incomplete — no predicted indications exist and critical drug-level data (MOA, safety) was not extracted despite successful upstream queries. A repurposing evaluation cannot be responsibly written without at least one TxGNN prediction to anchor the analysis.
+> **Nota:** i prodotti contenenti desloratadina possono essere commercializzati con nomi commerciali (p. es. Aerius, Neoclarityn) con ortografie INN diverse o formulazioni combinate. Si consiglia una ricerca con "desloratadine" (ortografia inglese).
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN prediction pipeline** using the correct DrugBank identifier for Desloratadine (DB00967) to generate predicted indications
-- **Extract DrugBank data** — the DrugBank query returned 1 result; confirm the extraction step did not silently fail, and populate `original_moa`, `drugbank_id`, and `categories`
-- **Parse TFDA / EMA package insert** — the insert query returned 1 result; extract warnings, contraindications, and approved indications into the Evidence Pack
-- **Verify INN spelling** — queries used `DESLORATADINA` (Italian/Spanish INN); confirm the TxGNN knowledge graph uses the same identifier, or remap to `desloratadine` (English INN / DrugBank standard)
-- **Re-query Italy authorizations** under alternate spellings or brand names to confirm true market absence
+## Considerazioni di sicurezza
+
+I dati di sicurezza non sono stati estratti con successo in questo pacchetto di prove. Si prega di fare riferimento alle informazioni sul prodotto dell'EMA e al foglio illustrativo per Desloratadina per gli avvertimenti attuali, controindicazioni e interazioni farmacologiche.
+
+La query sulla DDI non ha restituito alcuna interazione (`query_status: not_found`), il che potrebbe riflettere una mancata corrispondenza del termine di ricerca piuttosto che una vera assenza di interazioni note.
+
+---
+
+## Conclusione e fasi successive
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Il pacchetto di prove è strutturalmente incompleto — nessuna indicazione prevista esiste e i dati critici a livello di farmaco (meccanismo d'azione, sicurezza) non sono stati estratti nonostante le query a monte abbiano avuto successo. Una valutazione del riposizionamento non può essere responsabilmente scritta senza almeno una previsione TxGNN per ancorare l'analisi.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Rieseguire la pipeline di previsione TxGNN** utilizzando l'identificatore corretto di DrugBank per Desloratadina (DB00967) per generare indicazioni previste
+- **Estrarre i dati di DrugBank** — la query di DrugBank ha restituito 1 risultato; confermare che il passaggio di estrazione non ha fallito silenziosamente e compilare `original_moa`, `drugbank_id` e `categories`
+- **Analizzare il foglio illustrativo TFDA / EMA** — la query del foglio illustrativo ha restituito 1 risultato; estrarre avvertimenti, controindicazioni e indicazioni approvate nel pacchetto di prove
+- **Verificare l'ortografia dell'INN** — le query hanno utilizzato `DESLORATADINA` (INN italiano/spagnolo); confermare che il grafo della conoscenza TxGNN utilizza lo stesso identificatore, oppure rimappare su `desloratadine` (INN in inglese / standard di DrugBank)
+- **Rieseguire le query per le autorizzazioni italiane** utilizzando ortografie alternative o nomi commerciali per confermare la vera assenza di mercato
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

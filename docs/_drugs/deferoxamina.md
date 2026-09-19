@@ -29,69 +29,70 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Deferoxamina: Evaluation Pending — Evidence Pack Incomplete
+# Deferoxamina: Valutazione in sospeso — Pacchetto di prove incompleto
 
-## One-Sentence Summary
+## Riepilogo in una frase
 
-Deferoxamina (deferoxamine) is a well-established iron-chelating agent used clinically for iron overload conditions.
-However, the submitted Evidence Pack contains **no TxGNN-predicted indications** and no approved authorizations in the Italian market were identified,
-making a standard repurposing evaluation impossible at this stage — a **Hold** decision is required until data gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available — no authorizations found in AIFA registry |
-| Predicted New Indication | Not available — no TxGNN predictions returned |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | N/A |
-| Italy Market Status | Not marketed (0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Deferoxamina è un agente chelante del ferro ben consolidato, utilizzato clinicamente per le condizioni di sovraccarico di ferro.
+Tuttavia, il pacchetto di prove sottomesso **non contiene indicazioni previste da TxGNN** e non sono state identificate autorizzazioni approvate nel mercato italiano,
+rendendo impossibile una valutazione standard di riposizionamento in questa fase — è richiesta una decisione di **Sospensione** fino a quando i vuoti nei dati non vengono risolti.
 
 ---
 
-## Why This Report Cannot Be Completed
+## Panoramica rapida
 
-The Evidence Pack for Deferoxamina is missing two critical inputs required to generate a repurposing evaluation:
-
-**No predicted indications were returned.** The `predicted_indications` field is empty, meaning the TxGNN model either did not process this drug or did not return a ranked output. Without a predicted target indication, none of the core sections — mechanism linkage, clinical trial evidence, or literature review — can be populated.
-
-**No regulatory authorizations were found.** The AIFA query returned zero licenses, and the drug's original approved indication is therefore not recorded in the Evidence Pack. While deferoxamine is a known chelating agent used for iron and aluminum overload in clinical practice globally, this background knowledge cannot substitute for verified regulatory source data in a formal evaluation report.
-
-**Mechanism of action data is absent.** The `original_moa` field is flagged as a data gap (severity: High). Without MOA data, the rationale connecting the original indication to any new indication cannot be constructed.
-
----
-
-## Italy Market Information
-
-No authorizations were found in the AIFA registry for DEFEROXAMINA at the time of this query (2026-03-29).
-
-> Note: Deferoxamine-containing products may be registered under alternative spellings (e.g., "desferrioxamine", "deferoxamine") or brand names (e.g., Desferal). A secondary query using alternate identifiers is recommended before concluding the drug is absent from the Italian market.
+| Elemento | Contenuto |
+|---|---|
+| Indicazione originale | Non disponibile — nessuna autorizzazione trovata nel registro AIFA |
+| Indicazione nuova prevista | Non disponibile — nessuna previsione TxGNN restituita |
+| Punteggio previsione TxGNN | Non disponibile |
+| Livello di evidenza | Non disponibile |
+| Stato mercato Italia | Non commercializzato (0 autorizzazioni) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospensione** |
 
 ---
 
-## Safety Considerations
+## Perché questo rapporto non può essere completato
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data were retrieved for this submission.
+Il pacchetto di prove per Deferoxamina manca di due input critici richiesti per generare una valutazione di riposizionamento:
+
+**Nessuna indicazione prevista è stata restituita.** Il campo `predicted_indications` è vuoto, il che significa che il modello TxGNN non ha elaborato questo farmaco oppure non ha restituito un output classificato. Senza un'indicazione target prevista, nessuna delle sezioni principali — collegamento meccanistico, evidenza di prove cliniche o revisione della letteratura — può essere compilata.
+
+**Nessuna autorizzazione normativa è stata trovata.** La query AIFA ha restituito zero licenze, e l'indicazione approvata originale del farmaco non è quindi registrata nel pacchetto di prove. Sebbene deferoxamina sia un agente chelante noto utilizzato per il sovraccarico di ferro e alluminio nella pratica clinica a livello globale, questa conoscenza di base non può sostituire i dati verificati da fonti normative in una relazione di valutazione formale.
+
+**I dati sul meccanismo d'azione sono assenti.** Il campo `original_moa` è contrassegnato come un vuoto nei dati (severità: Alta). Senza i dati MOA, la logica che collega l'indicazione originale a qualsiasi nuova indicazione non può essere costruita.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Nel registro AIFA non sono state trovate autorizzazioni per DEFEROXAMINA al momento di questa query (2026-03-29).
 
-**Rationale:**
-The Evidence Pack does not contain the minimum required inputs — a TxGNN prediction score and a target indication — to produce a repurposing evaluation. Proceeding without these would result in a report with no substantive content.
+> Nota: I prodotti contenenti deferoxamina possono essere registrati con grafie alternative (ad es. "desferiossamina", "deferoxamina") o nomi commerciali (ad es. Desferal). Si consiglia una query secondaria utilizzando identificatori alternativi prima di concludere che il farmaco è assente dal mercato italiano.
 
-**To proceed, the following is needed:**
+---
 
-- **TxGNN output**: Re-run the prediction pipeline for DEFEROXAMINA and confirm that a ranked list of predicted indications is returned. If the drug node is absent from the knowledge graph, a mapping step is required first.
-- **AIFA registry lookup**: Re-query using alternate drug name spellings and brand names (e.g., "desferrioxamine", "Desferal") to establish whether the drug is already marketed in Italy.
-- **DrugBank MOA data**: The query log records a successful DrugBank hit (`result_count: 1`), but MOA was not extracted. This data should be parsed and populated before the next pipeline run.
-- **TFDA package insert**: The query log also records a successful TFDA package insert retrieval (`result_count: 1`). Extract warnings, contraindications, and indication text from this document to populate the safety fields.
+## Considerazioni sulla sicurezza
+
+Si rimanda al foglio illustrativo per le informazioni sulla sicurezza. Nessun dato chiave su avvertimenti, controindicazioni o interazioni farmacologiche è stato recuperato per questa sottomissione.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Sospensione**
+
+**Logica:**
+Il pacchetto di prove non contiene gli input minimi richiesti — un punteggio di previsione TxGNN e un'indicazione target — per produrre una valutazione di riposizionamento. Procedere senza questi comporterebbe una relazione senza contenuto sostanziale.
+
+**Per procedere, quanto segue è necessario:**
+
+- **Output TxGNN**: Rieseguire la pipeline di previsione per DEFEROXAMINA e confermare che viene restituito un elenco classificato di indicazioni previste. Se il nodo del farmaco è assente dal grafo della conoscenza, è prima richiesto un passaggio di mappatura.
+- **Query del registro AIFA**: Rieseguire la query utilizzando grafie alternative del nome del farmaco e nomi commerciali (ad es. "desferiossamina", "Desferal") per stabilire se il farmaco è già commercializzato in Italia.
+- **Dati MOA di DrugBank**: Il registro delle query registra un hit di DrugBank riuscito (`result_count: 1`), ma MOA non è stato estratto. Questi dati dovrebbero essere analizzati e compilati prima della prossima esecuzione della pipeline.
+- **Foglio illustrativo TFDA**: Il registro delle query registra anche un recupero riuscito del foglio illustrativo TFDA (`result_count: 1`). Estrarre avvertimenti, controindicazioni e testo dell'indicazione da questo documento per compilare i campi di sicurezza.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

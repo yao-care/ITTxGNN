@@ -29,82 +29,83 @@ Livello di evidenza: **L2** | Indicazioni previste: **1**
 
 </div>
 
-# Tiapride: From Movement Disorders to Migraine Disorder
+# Tiapride: dai Disturbi del Movimento al Disturbo da Emicrania
 
-## One-Sentence Summary
+## Sintesi in Una Frase
 
-Tiapride is a selective dopamine D2/D3 receptor antagonist of the benzamide class, primarily used for movement disorders (dyskinesia, choreiform movements in Huntington's disease), alcohol withdrawal syndrome, and agitation in elderly patients.
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-with **0 registered clinical trials** and **10 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Movement disorders (dyskinesia, chorea), alcohol withdrawal, agitation |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.18% |
-| Evidence Level | L2 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+La tiapride è un antagonista selettivo dei recettori dopaminergici D2/D3 della classe benzamidica, utilizzata principalmente per i disturbi del movimento (discinesie, movimenti coreiformi nella malattia di Huntington), la sindrome da astinenza alcolica e l'agitazione negli anziani.
+Il modello TxGNN prevede che possa essere efficace per il **Disturbo da Emicrania**,
+con **0 studi clinici registrati** e **10 pubblicazioni** che attualmente supportano questo indirizzo.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, tiapride is a selective D2/D3 dopamine receptor antagonist of the benzamide class, whose efficacy in movement disorders and alcohol withdrawal syndrome is well established in the literature.
-
-Mechanistically, the link to migraine is well-supported: dopaminergic signalling abnormalities play a documented role in migraine pathophysiology, particularly in premonitory symptoms such as yawning, nausea, and mood changes. D2/D3 receptor antagonism may (1) suppress dopamine-mediated premonitory symptoms, (2) modulate central pain sensitisation through downstream CGRP pathway effects, and (3) exert antiemetic actions that reduce the overall burden of migraine attacks.
-
-This rationale is further reinforced by the established use of closely related benzamide drugs — particularly sulpiride — in migraine prevention, suggesting a class effect. Multiple historical controlled trials and a 2022 randomised pilot study directly comparing tiapride with topiramate (a guideline-recommended first-line prophylactic agent) provide convergent clinical support for the TxGNN prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Disturbi del movimento (discinesie, corea), sindrome da astinenza alcolica, agitazione |
+| Indicazione Prevista | Disturbo da Emicrania |
+| Punteggio di Predizione TxGNN | 99,18% |
+| Livello di Evidenza | L2 |
+| Stato di Commercializzazione in Italia | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Literature Evidence
+## Perché Questa Predizione è Ragionevole?
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni farmacologiche note, la tiapride è un antagonista selettivo dei recettori dopaminergici D2/D3 della classe benzamidica, la cui efficacia nei disturbi del movimento e nella sindrome da astinenza alcolica è ben stabilita in letteratura.
+
+Dal punto di vista meccanicistico, il collegamento all'emicrania è ben supportato: le anomalie della segnalazione dopaminergica hanno un ruolo documentato nella fisiopatologia dell'emicrania, in particolare nei sintomi prodromici come lo sbadiglio, la nausea e i cambiamenti dell'umore. L'antagonismo dei recettori D2/D3 potrebbe (1) sopprimere i sintomi prodromici mediati dalla dopamina, (2) modulare la sensibilizzazione algica centrale attraverso effetti a valle sulla via del CGRP, e (3) esercitare azioni antiemetiche che riducono il carico complessivo degli attacchi di emicrania.
+
+Questa razionale è ulteriormente rafforzata dall'uso consolidato di farmaci benzamidici strettamente correlati — in particolare la sulpiride — nella prevenzione dell'emicrania, suggerendo un effetto di classe. Molteplici studi controllati storici e uno studio pilota randomizzato del 2022 che confrontano direttamente la tiapride con il topiramato (un agente profilattico di prima linea raccomandato dalle linee guida) forniscono supporto clinico convergente per la predizione TxGNN.
+
+---
+
+## Evidenza da Studi Clinici
+
+Attualmente nessuna sperimentazione clinica correlata registrata su ClinicalTrials.gov o ICTRP.
+
+---
+
+## Evidenza da Letteratura
+
+| PMID | Anno | Tipo | Rivista | Principali Risultati |
 |------|------|------|---------|-------------|
-| [35548913](https://pubmed.ncbi.nlm.nih.gov/35548913/) | 2022 | RCT | Revista de neurologia | Randomised double-blind pilot study: tiapride vs. topiramate as prophylaxis for chronic migraine — head-to-head comparison of efficacy and safety |
-| [6256904](https://pubmed.ncbi.nlm.nih.gov/6256904/) | 1980 | Controlled Study | La semaine des hopitaux | Placebo-controlled study (n=40): tiapride clearly demonstrated efficacy in migraine, with concurrent improvement of associated dyspeptic symptoms |
-| [6266020](https://pubmed.ncbi.nlm.nih.gov/6266020/) | 1981 | Controlled Trial | La semaine des hopitaux | Controlled trial (n=25) in intractable migraine and facial vascular pain: excellent response in 10/25 cases; tiapride recommended when standard therapy has failed |
-| [7323625](https://pubmed.ncbi.nlm.nih.gov/7323625/) | 1981 | Clinical Study | Rivista di patologia nervosa e mentale | Double-blind trial (n=50, including classical migraine subgroup): 65% of patients showed clinical benefit in headache intensity and frequency |
-| [6293072](https://pubmed.ncbi.nlm.nih.gov/6293072/) | 1982 | Clinical Study | La semaine des hopitaux | Prospective study (n=180 headache patients): 71% achieved good or excellent results with tiapride 300 mg/day, irrespective of headache aetiology |
-| [6528587](https://pubmed.ncbi.nlm.nih.gov/6528587/) | 1984 | Comparative Review | Wiadomosci lekarskie | Review of benzamides (sulpiride, tiapride) in preventive migraine treatment; supports a class-level D2 antagonist effect in migraine prophylaxis |
-| [211624](https://pubmed.ncbi.nlm.nih.gov/211624/) | 1978 | Review | La semaine des hopitaux | Treatment overview: tiapride's combined analgesic, antiemetic, and mild anticompulsive actions favour its use in headache associated with masked depression |
-| [39344](https://pubmed.ncbi.nlm.nih.gov/39344/) | 1979 | Case Series | La semaine des hopitaux | 4 migraine patients treated for ≥6 months: all showed excellent or very good outcomes; headache frequency and severity markedly reduced or resolved |
-| [229563](https://pubmed.ncbi.nlm.nih.gov/229563/) | 1979 | Case Series | La semaine des hopitaux | Geriatric cohort (n=47): tiapride effective across multiple indications including headache, with doses up to 800 mg/day for refractory cases |
-| [35831](https://pubmed.ncbi.nlm.nih.gov/35831/) | 1978 | Review | La semaine des hopitaux | Clinical practice review of chronic headache treatment: psychotropic agents including tiapride noted for definite, well-tolerated efficacy |
+| [35548913](https://pubmed.ncbi.nlm.nih.gov/35548913/) | 2022 | RCT | Revista de neurologia | Studio pilota randomizzato in doppio cieco: tiapride vs. topiramato come profilassi dell'emicrania cronica — confronto testa a testa dell'efficacia e della sicurezza |
+| [6256904](https://pubmed.ncbi.nlm.nih.gov/6256904/) | 1980 | Studio Controllato | La semaine des hopitaux | Studio controllato versus placebo (n=40): la tiapride ha dimostrato chiaramente efficacia nell'emicrania, con miglioramento concorrente dei sintomi dispeptici associati |
+| [6266020](https://pubmed.ncbi.nlm.nih.gov/6266020/) | 1981 | Trial Controllato | La semaine des hopitaux | Trial controllato (n=25) nell'emicrania intrattabile e nel dolore facciale vascolare: risposta eccellente in 10/25 casi; tiapride consigliata quando la terapia standard ha fallito |
+| [7323625](https://pubmed.ncbi.nlm.nih.gov/7323625/) | 1981 | Studio Clinico | Rivista di patologia nervosa e mentale | Trial in doppio cieco (n=50, incluso il sottogruppo emicrania classica): il 65% dei pazienti ha mostrato beneficio clinico nell'intensità e nella frequenza del mal di testa |
+| [6293072](https://pubmed.ncbi.nlm.nih.gov/6293072/) | 1982 | Studio Clinico | La semaine des hopitaux | Studio prospettico (n=180 pazienti con cefalea): il 71% ha ottenuto risultati buoni o eccellenti con tiapride 300 mg/die, indipendentemente dall'eziologia della cefalea |
+| [6528587](https://pubmed.ncbi.nlm.nih.gov/6528587/) | 1984 | Revisione Comparativa | Wiadomosci lekarskie | Revisione delle benzamidi (sulpiride, tiapride) nel trattamento preventivo dell'emicrania; supporta un effetto antagonista D2 a livello di classe nella profilassi dell'emicrania |
+| [211624](https://pubmed.ncbi.nlm.nih.gov/211624/) | 1978 | Revisione | La semaine des hopitaux | Panoramica del trattamento: le azioni analgesiche, antiemetiche e lievemente anticoattive combinate della tiapride ne favoriscono l'uso nelle cefalee associate a depressione mascherata |
+| [39344](https://pubmed.ncbi.nlm.nih.gov/39344/) | 1979 | Serie di Casi | La semaine des hopitaux | 4 pazienti con emicrania trattati per ≥6 mesi: tutti hanno mostrato risultati eccellenti o molto buoni; la frequenza e la gravità della cefalea sono state notevolmente ridotte o risolte |
+| [229563](https://pubmed.ncbi.nlm.nih.gov/229563/) | 1979 | Serie di Casi | La semaine des hopitaux | Coorte geriatrica (n=47): tiapride efficace in molteplici indicazioni inclusa la cefalea, con dosi fino a 800 mg/die per i casi refrattari |
+| [35831](https://pubmed.ncbi.nlm.nih.gov/35831/) | 1978 | Revisione | La semaine des hopitaux | Revisione della pratica clinica del trattamento della cefalea cronica: gli agenti psicotropi inclusa la tiapride sono notati per l'efficacia definita e ben tollerata |
 
 ---
 
-## Safety Considerations
+## Considerazioni di Sicurezza
 
-Please refer to the package insert for safety information.
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusioni e Prossimi Passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Procedere con Cautele**
 
-**Rationale:**
-Multiple historical controlled trials and a 2022 randomised head-to-head pilot study versus topiramate provide convergent support for tiapride's efficacy in migraine prophylaxis, underpinned by a mechanistically coherent D2/D3 antagonism hypothesis; however, much of the existing evidence predates modern trial standards, pilot-scale RCT data requires replication, and tiapride holds no current marketing authorisation in Italy.
+**Razionale:**
+Molteplici trial controllati storici e uno studio pilota randomizzato testa a testa del 2022 versus topiramato forniscono supporto convergente per l'efficacia della tiapride nella profilassi dell'emicrania, supportato da un'ipotesi meccanicistica coerente dell'antagonismo D2/D3; tuttavia, gran parte dell'evidenza esistente è antecedente agli standard moderni di trial, i dati del trial RCT in scala pilota richiedono replica, e la tiapride non ha attualmente alcuna autorizzazione di commercializzazione in Italia.
 
-**To proceed, the following is needed:**
-- Obtain and review the full package insert (AIFA/EMA-equivalent) to characterise contraindications, warnings, and drug interactions (currently blocking data gap DG001)
-- Retrieve mechanism of action details via DrugBank API to complete the mechanistic evidence dossier (data gap DG002)
-- Clarify regulatory status in the EU: tiapride holds authorisations in France and other EU member states — verify whether an AIFA recognition or MRP/DCP pathway is applicable
-- Commission or identify a well-powered Phase 2/3 RCT to upgrade evidence from pilot-level L2 to L1
-- Establish a targeted safety monitoring plan covering QTc prolongation risk (class effect for dopamine antagonists), extrapyramidal symptoms, hyperprolactinaemia, and sedation — particularly relevant in the migraine patient population
+**Per procedere, è necessario:**
+- Ottenere e revisionare il foglio illustrativo completo (equivalente AIFA/EMA) per caratterizzare controindicazioni, avvertenze e interazioni farmacologiche (attualmente bloccando il data gap DG001)
+- Recuperare i dettagli sul meccanismo d'azione tramite API DrugBank per completare il dossier di evidenza meccanicistica (data gap DG002)
+- Chiarire lo stato normativo nell'UE: la tiapride ha autorizzazioni in Francia e altri stati membri dell'UE — verificare se un riconoscimento AIFA o un percorso MRP/DCP è applicabile
+- Commissionare o identificare un trial RCT Phase 2/3 ben potenzializzato per elevare l'evidenza dal livello pilota L2 a L1
+- Stabilire un piano di monitoraggio della sicurezza mirato che copra il rischio di prolungamento QTc (effetto di classe per gli antagonisti della dopamina), sintomi extrapiramidali, iperprolattinemia e sedazione — particolarmente rilevante nella popolazione di pazienti con emicrania
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,80 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
----
+# Leflunomide: Dalla malattia autoimmune (DMARD) alla sindrome da brachydactyly-sindattilia
 
-# Leflunomide: From Autoimmune Disease (DMARD) to Brachydactyly-Syndactyly Syndrome
+## Riassunto in una sola frase
 
-## One-Sentence Summary
-
-Leflunomide is an immunosuppressant belonging to the DMARD class, acting via DHODH inhibition to suppress lymphocyte proliferation; formal original indication data is not available in this Evidence Pack.
-The TxGNN model predicts it may be effective for **Brachydactyly-Syndactyly Syndrome**, however there are currently **0 clinical trials** and **0 publications** supporting this direction — the evidence base is purely model-generated with no empirical support.
+Leflunomide è un immunosoppressore appartenente alla classe DMARD, che agisce attraverso l'inibizione del DHODH per sopprimere la proliferazione dei linfociti; i dati ufficiali dell'indicazione originale non sono disponibili in questo Pacchetto di Evidenze.
+Il modello TxGNN prevede che potrebbe essere efficace per la **sindrome da brachydactyly-sindattilia**, tuttavia attualmente non ci sono **0 trial clinici** e **0 pubblicazioni** che supportano questa direzione — la base di prove è puramente generata dal modello senza supporto empirico.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in Evidence Pack (DMARD class, immunosuppressive) |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on information referenced in the repurposing rationale, Leflunomide is an immunosuppressant that inhibits DHODH (dihydroorotate dehydrogenase), thereby limiting pyrimidine synthesis and reducing lymphocyte proliferation. It belongs to the DMARD (disease-modifying antirheumatic drug) class.
-
-Brachydactyly-syndactyly syndrome is a rare congenital skeletal developmental disorder, primarily caused by mutations in genes such as *HRAS* or *FGFR2*, which disrupt digit bone formation during embryogenesis. This is a structural genetic defect — the anatomical abnormalities are established before birth, and post-natal drug administration cannot reverse them.
-
-The mechanistic link between Leflunomide's DHODH inhibition and this congenital syndrome is considered **extremely weak**. Leflunomide's cell-proliferation suppression mechanism provides no plausible corrective pathway for a fixed skeletal malformation. Furthermore, Leflunomide carries well-documented teratogenic toxicity (FDA Pregnancy Category X), meaning any use during embryogenesis — the only window where the pathology develops — is strictly contraindicated. There is no credible treatment hypothesis to support this repurposing direction.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Non disponibile nel Pacchetto di Evidenze (classe DMARD, immunosoppressivo) |
+| Nuova indicazione prevista | Sindrome da brachydactyly-sindattilia |
+| Punteggio di previsione TxGNN | 99.93% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Clinical Trial Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related clinical trials registered.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Pacchetto di Evidenze. Sulla base delle informazioni citate nella razionale di riposizionamento, Leflunomide è un immunosoppressore che inibisce DHODH (dihydroorotate dehydrogenase), limitando così la sintesi della pirimidina e riducendo la proliferazione dei linfociti. Appartiene alla classe DMARD (farmaco antireumatico modificante la malattia).
 
----
+La sindrome da brachydactyly-sindattilia è un raro disturbo dello sviluppo scheletrico congenito, causato principalmente da mutazioni in geni come *HRAS* o *FGFR2*, che interrompono la formazione delle ossa delle dita durante l'embriogenesi. Si tratta di un difetto genetico strutturale — le anomalie anatomiche sono stabilite prima della nascita e la somministrazione di farmaci postnatale non può invertirle.
 
-## Literature Evidence
-
-Currently no related literature available.
+Il collegamento meccanicistico tra l'inibizione del DHODH da parte di Leflunomide e questa sindrome congenita è considerato **estremamente debole**. Il meccanismo di soppressione della proliferazione cellulare di Leflunomide non fornisce un percorso correttivo plausibile per una malformazione scheletrica fissa. Inoltre, Leflunomide ha una tossicità teratogena ben documentata (FDA Categoria di gravidanza X), il che significa che qualsiasi uso durante l'embriogenesi — l'unica finestra temporale in cui si sviluppa la patologia — è rigorosamente controindicato. Non esiste un'ipotesi di trattamento credibile a supporto di questa direzione di riposizionamento.
 
 ---
 
-## Italy Market Information
+## Evidenza da trial clinici
 
-Leflunomide is not currently marketed in Italy. No marketing authorizations were identified in the regulatory database (total licenses: 0).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> ⚠️ **Note:** TFDA/AIFA package insert warnings and contraindications were flagged as a blocking data gap (DG001) in this Evidence Pack and could not be extracted. Safety assessment cannot be completed until this data is retrieved.
+Attualmente non sono registrati trial clinici correlati.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-There are zero clinical trials and zero published studies supporting Leflunomide for brachydactyly-syndactyly syndrome, and the mechanistic link between DHODH inhibition and a congenital skeletal structural defect is considered scientifically implausible. The high TxGNN score (99.93%) reflects model inference only and is not corroborated by any real-world evidence.
+---
 
-**To proceed, the following is needed:**
-- A credible mechanistic hypothesis explaining how post-natal DHODH inhibition could benefit a fixed congenital skeletal malformation
-- Preclinical in vitro or in vivo evidence demonstrating any relevant biological activity in this indication
-- Full MOA data from DrugBank (DG002) to complete mechanistic analysis
-- TFDA/AIFA package insert warnings and contraindications (DG001) for complete safety profiling
-- Consideration of whether any adjacent rare disease indication (e.g., inflammatory or autoimmune bone disease) might be a more scientifically grounded repurposing target for Leflunomide
+## Informazioni sul mercato italiano
+
+Leflunomide attualmente non è commercializzato in Italia. Nessuna autorizzazione commerciale è stata identificata nel database normativo (licenze totali: 0).
+
+---
+
+## Considerazioni di sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+> ⚠️ **Nota:** Gli avvertimenti del foglio illustrativo TFDA/AIFA e le controindicazioni sono stati contrassegnati come una lacuna di dati bloccante (DG001) in questo Pacchetto di Evidenze e non sono stati estratti. La valutazione della sicurezza non può essere completata fino a quando questi dati non verranno recuperati.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Non ci sono trial clinici e nessuno studio pubblicato che supporti Leflunomide per la sindrome da brachydactyly-sindattilia, e il collegamento meccanicistico tra l'inibizione del DHODH e un difetto strutturale scheletrico congenito è considerato scientificamente implausibile. L'alto punteggio TxGNN (99.93%) riflette solo l'inferenza del modello e non è corroborato da alcuna evidenza del mondo reale.
+
+**Per procedere, sono necessari i seguenti elementi:**
+- Un'ipotesi meccanicistica credibile che spieghi come l'inibizione del DHODH postnatale potrebbe beneficiare una malformazione scheletrica congenita fissa
+- Evidenza preclinica in vitro o in vivo che dimostri qualsiasi attività biologica rilevante in questa indicazione
+- Dati completi sul meccanismo d'azione da DrugBank (DG002) per completare l'analisi meccanicistica
+- Avvertimenti del foglio illustrativo TFDA/AIFA e controindicazioni (DG001) per un profilo di sicurezza completo
+- Considerazione se qualsiasi indicazione di malattia rara adiacente (ad es. malattia ossea infiammatoria o autoimmune) potrebbe essere un target di riposizionamento più scientificamente fondato per Leflunomide
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

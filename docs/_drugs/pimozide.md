@@ -29,95 +29,92 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is part of the TxGNN reporting workflow. Now I'll generate the full evaluation report based on the Evidence Pack.
+# Pimozide: dalla sindrome di Tourette alla tricotillomania
+
+## Sommario in una frase
+
+Pimozide è un antipsicoptico della classe dei difenilbutilpiperidine, approvato come trattamento ausiliare per la sindrome di Gilles de la Tourette negli USA (attualmente non commercializzato in Taiwan).
+Il modello TxGNN prevede che possa essere efficace per la **Tricotillomania**,
+con **0 trial clinici** e **10 pubblicazioni** attualmente a supporto di questo orientamento.
 
 ---
 
-# Pimozide: From Tourette Syndrome to Trichotillomania
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Pimozide is a diphenylbutylpiperidine-class antipsychotic, approved as a backup treatment for Gilles de la Tourette syndrome in the US (currently not marketed in Taiwan).
-The TxGNN model predicts it may be effective for **Trichotillomania**,
-with **0 clinical trials** and **10 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Voce | Contenuto |
 |------|---------|
-| Original Indication | Gilles de la Tourette Syndrome (FDA backup treatment; not registered in Taiwan) |
-| Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.996% |
-| Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione originaria | Sindrome di Gilles de la Tourette (trattamento ausiliare FDA; non registrato in Taiwan) |
+| Indicazione prevista | Tricotillomania |
+| Punteggio di previsione TxGNN | 99.996% |
+| Livello di evidenza | L4 |
+| Stato del mercato Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on known information from published literature, Pimozide belongs to the diphenylbutylpiperidine class of antipsychotics and acts primarily as a **D2 dopamine receptor antagonist**. Its efficacy in suppressing motor and vocal tics in Tourette syndrome has been established through decades of clinical use and international guideline endorsement.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili da DrugBank. Sulla base delle informazioni note dalla letteratura pubblicata, pimozide appartiene alla classe di antipsicotici difenilbutilpiperidine e agisce principalmente come un **antagonista dei recettori dopaminergici D2**. La sua efficacia nel sopprimere i tic motori e vocali nella sindrome di Tourette è stata stabilita attraverso decenni di uso clinico e approvazione delle linee guida internazionali.
 
-Trichotillomania (TTM) is classified within the **obsessive-compulsive spectrum disorders**, in which both dopaminergic and serotonergic pathways are jointly implicated in the pathophysiology. First-line pharmacological treatment currently centers on serotonin reuptake inhibitors (SRIs), yet a substantial proportion of patients fail to achieve adequate response on SRI monotherapy alone.
+La tricotillomania (TTM) è classificata tra i **disturbi dello spettro ossessivo-compulsivo**, in cui sia i pathway dopaminergici che serotoninergici sono congiuntamente implicati nella fisiopatologia. Il trattamento farmacologico di prima linea attualmente si concentra sugli inibitori della ricaptazione della serotonina (SRI), eppure una sostanziale proporzione di pazienti non raggiunge un'adeguata risposta alla monoterapia con SRI da sola.
 
-This treatment gap is precisely where pimozide's D2 antagonism may offer mechanistic complementarity. As demonstrated in PMID 1532960 (Stein & Hollander, 1992), low-dose pimozide augmentation of SRI therapy produced benefit in SRI-refractory trichotillomania patients — mirroring the same augmentation logic already validated in refractory OCD and Tourette syndrome. The phenomenological overlap among TTM, OCD, and Tourette syndrome further reinforces the biological plausibility of this repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Questo gap terapeutico è precisamente dove l'antagonismo D2 della pimozide può offrire complementarità meccanistica. Come dimostrato nel PMID 1532960 (Stein & Hollander, 1992), l'aumento a bassa dose di pimozide della terapia con SRI ha prodotto beneficio in pazienti con tricotillomania resistente agli SRI — rispecchiando la stessa logica di potenziamento già convalidata nel disturbo ossessivo-compulsivo refrattario e nella sindrome di Tourette. La sovrapposizione fenomenologica tra TTM, OCD e sindrome di Tourette rafforza ulteriormente la plausibilità biologica di questa ipotesi di riproposta d'uso.
 
 ---
 
-## Literature Evidence
+## Evidenza da trial clinici
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente non sono registrati trial clinici correlati.
+
+---
+
+## Evidenza dalla letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|------|------|---------|-------------|
-| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Systematic Evidence Mapping | J Cutan Med Surg | Identified and appraised RCT evidence for pharmacological treatment of primary psychodermatologic disorders (PPDs), including TTM; highlights persistent evidence gaps and the limited number of high-quality trials |
-| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Open-label Augmentation Study | J Clin Psychiatry | Low-dose pimozide added to SRI therapy showed clinical benefit in SRI-refractory trichotillomania, drawing on mechanistic parallels with Tourette syndrome and OCD |
-| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Comprehensive Review | Am J Clin Dermatol | Comprehensive review of pimozide in dermatology; discusses monosymptomatic hypochondriacal psychoses and compulsive body-focused repetitive behaviours |
-| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Review | Clin Dermatol | Reviews antipsychotic drug use in dermatology; explains both central D2-blocking and peripheral receptor effects relevant to psychodermatologic conditions |
-| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Review | Tijdschr Psychiatr | Reviews pharmacotherapy options for paediatric trichotillomania; notes that pharmacological research investment has been limited and that TTM can become chronic if untreated |
-| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Case Series | J Child Adolesc Psychopharmacol | Three TTM patients who had previously benefited from low-dose pimozide augmentation were switched to risperidone; all showed robust improvement, supporting D2 augmentation as a viable strategy |
-| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | Case Report | An Bras Dermatol | Case report of TTM with dermatoscopic differential from alopecia areata; notes N-acetylcysteine evidence and highlights absence of standardised treatment protocols |
-| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Review | CNS Drugs | Proposes diagnostic criteria for psychogenic excoriation (compulsive skin picking) and reviews pharmacotherapy options within the OCD-spectrum framework |
-| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Review | Ann Acad Med Singapore | Reviews trichotillomania as an underdiagnosed chronic psychiatric condition; discusses epidemiology, comorbidities, and management strategies |
-| [10900563](https://pubmed.ncbi.nlm.nih.gov/10900563/) | 2000 | Case Series / Observational | Int J Psychiatry Med | Clinical profile of delusional parasitosis (monosymptomatic hypochondriacal psychosis) — a related OCD-spectrum condition — providing contextual evidence for pimozide's role in this disorder cluster |
+| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Mappatura sistematica dell'evidenza | J Cutan Med Surg | Ha identificato e valutato l'evidenza RCT per il trattamento farmacologico dei disturbi psicodermatologici primari (PPD), inclusa TTM; evidenzia persistenti gap di evidenza e il numero limitato di trial di alta qualità |
+| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Studio di potenziamento in open-label | J Clin Psychiatry | Pimozide a bassa dose aggiunto alla terapia con SRI ha mostrato beneficio clinico nella tricotillomania resistente agli SRI, basandosi su paralleli meccanicistici con la sindrome di Tourette e il disturbo ossessivo-compulsivo |
+| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Revisione esauriente | Am J Clin Dermatol | Revisione esauriente della pimozide in dermatologia; discute psicosi ipocondriache monosintomatiche e comportamenti ripetitivi focalizzati sul corpo di tipo compulsivo |
+| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Revisione | Clin Dermatol | Esamina l'uso di farmaci antipsicotici in dermatologia; spiega sia il blocco centrale D2 che gli effetti sui recettori periferici rilevanti per le condizioni psicodermatologiche |
+| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Revisione | Tijdschr Psychiatr | Esamina le opzioni di farmacoterapia per la tricotillomania pediatrica; rileva che l'investimento in ricerca farmacologica è stato limitato e che TTM può diventare cronica se non trattata |
+| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Serie di casi | J Child Adolesc Psychopharmacol | Tre pazienti con TTM che avevano precedentemente beneficiato del potenziamento con pimozide a bassa dose sono stati cambiati a risperidone; tutti hanno mostrato un miglioramento robusto, supportando il potenziamento D2 come strategia praticabile |
+| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | Segnalazione di caso | An Bras Dermatol | Segnalazione di caso di TTM con differenziale dermatoscopico dall'alopecia areata; nota l'evidenza dell'N-acetilcisteina e sottolinea l'assenza di protocolli terapeutici standardizzati |
+| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Revisione | CNS Drugs | Propone criteri diagnostici per l'escoriazione psicogena (grattamento compulsivo della pelle) e esamina le opzioni di farmacoterapia all'interno del framework dello spettro OCD |
+| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Revisione | Ann Acad Med Singapore | Esamina la tricotillomania come condizione psichiatrica cronica sottodiagnosticata; discute epidemiologia, comorbilità e strategie di gestione |
+| [10900563](https://pubmed.ncbi.nlm.nih.gov/10900563/) | 2000 | Serie di casi / Osservazionale | Int J Psychiatry Med | Profilo clinico della parassitosi delirante (psicosi ipocondriaca monosintomatica) — una condizione correlata dello spettro OCD — che fornisce evidenza contestuale per il ruolo della pimozide in questo cluster di disturbi |
 
 ---
 
-## Taiwan Market Information
+## Informazioni sul mercato di Taiwan
 
-Pimozide is currently **not registered or marketed in Taiwan**. No authorization records are available from TFDA.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note for clinical teams:** Pimozide is known to carry a risk of QTc interval prolongation, which warrants particular attention in any future indication expansion or research design. Complete contraindication and drug interaction data should be retrieved from the official package insert before any clinical planning.
+Pimozide non è attualmente **registrato o commercializzato in Taiwan**. Nessun record di autorizzazione è disponibile da TFDA.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Hold**
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-The evidence base for pimozide in trichotillomania currently sits at **L4** — comprising primarily narrative reviews, case reports, and a single open-label augmentation study from 1992. Although the mechanistic rationale (D2 blockade as SRI augmentation within the OCD-spectrum) is scientifically coherent and has precedent in related conditions, no prospective clinical trial has yet directly evaluated pimozide for TTM as a primary indication.
+> **Nota per i team clinici:** Pimozide è noto per comportare un rischio di prolungamento dell'intervallo QTc, che merita particolare attenzione in qualsiasi futura espansione dell'indicazione o progettazione della ricerca. I dati completi su controindicazioni e interazioni farmacologiche devono essere recuperati dal foglio illustrativo ufficiale prima di qualsiasi pianificazione clinica.
 
-**To proceed, the following is needed:**
+---
 
-- **Clinical evidence:** A prospective randomised controlled trial or at minimum a rigorous open-label pilot study evaluating low-dose pimozide augmentation in SRI-partial-responders with trichotillomania
-- **MOA data:** Complete mechanism of action information from DrugBank (currently a High-severity data gap)
-- **Safety data:** Full safety profile including QTc prolongation risk parameters, contraindications, and drug–drug interactions from the package insert (currently a Blocking data gap)
-- **Regulatory pathway:** TFDA registration assessment — pimozide has zero current Taiwan approvals; a regulatory pathway must be mapped before any local clinical application
-- **Comparator benchmarking:** Assessment against newer atypical antipsychotics (e.g., aripiprazole, risperidone) that share the D2 augmentation rationale but may offer a more favourable cardiac safety profile, to determine whether pimozide remains the best candidate in this mechanistic class
+## Conclusione e fasi successive
+
+**Decisione: Hold**
+
+**Razionale:**
+L'evidenza base per la pimozide nella tricotillomania attualmente si situa a **L4** — comprendente principalmente revisioni narrative, segnalazioni di casi e un singolo studio di potenziamento in open-label del 1992. Sebbene la razionale meccanicistica (il blocco D2 come potenziamento degli SRI all'interno dello spettro OCD) sia scientificamente coerente e abbia precedenti in condizioni correlate, nessun trial clinico prospettico ha ancora direttamente valutato la pimozide per TTM come indicazione primaria.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Evidenza clinica:** Uno studio randomizzato controllato prospettico o almeno uno studio pilota rigoroso in open-label che valuti il potenziamento con pimozide a bassa dose nei pazienti che rispondono parzialmente agli SRI con tricotillomania
+- **Dati MOA:** Informazioni complete sul meccanismo d'azione da DrugBank (attualmente un gap di dati ad alta gravità)
+- **Dati di sicurezza:** Profilo di sicurezza completo inclusi parametri di rischio di prolungamento QTc, controindicazioni e interazioni farmaco-farmaco dal foglio illustrativo (attualmente un gap di dati di blocco)
+- **Percorso normativo:** Valutazione di registrazione TFDA — pimozide ha zero approvazioni attuali in Taiwan; un percorso normativo deve essere mappato prima di qualsiasi applicazione clinica locale
+- **Benchmarking comparativo:** Valutazione rispetto ai più recenti antipsicotici atipici (ad es., aripiprazolo, risperidone) che condividono la razionale di potenziamento D2 ma possono offrire un profilo di sicurezza cardiaco più favorevole, per determinare se pimozide rimane il miglior candidato in questa classe meccanicistica
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

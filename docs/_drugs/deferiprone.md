@@ -29,70 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Deferiprone: Iron Overload Drug — Repurposing Evaluation (Insufficient Data)
+# Deferiprone: farmaco per il sovraccarico di ferro — Valutazione del riposizionamento (dati insufficienti)
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Deferiprone (DB08826) is a known iron chelator historically used to treat transfusional iron overload in patients with thalassemia syndromes.
-However, the current Evidence Pack contains **no TxGNN-predicted new indications** and **no Taiwan market authorizations**, making a standard repurposing evaluation impossible at this stage.
-Multiple critical data gaps — including missing MOA documentation, package insert warnings, and contraindications — must be resolved before any repurposing pathway can be assessed.
+Deferiprone (DB08826) è un chelante del ferro noto utilizzato storicamente per trattare il sovraccarico di ferro trasfusionale in pazienti con sindromi talassemiche. Tuttavia, l'attuale Pacchetto di evidenze **non contiene alcuna nuova indicazione predetta da TxGNN** e **non ha autorizzazioni di mercato a Taiwan**, rendendo una valutazione standard del riposizionamento impossibile in questa fase. Numerosi gap critici dei dati — inclusa la documentazione mancante del MOA, gli avvertimenti del foglio illustrativo e le controindicazioni — devono essere risolti prima che qualsiasi percorso di riposizionamento possa essere valutato.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
-|------|---------|
-| Original Indication | Iron overload (thalassemia; not formally captured in this Evidence Pack) |
-| Predicted New Indication | None — TxGNN predictions not available in this Evidence Pack |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction unavailable; no supporting studies retrievable) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why No Prediction Is Available
-
-The Evidence Pack for Deferiprone was constructed from DrugBank data only (`inputs_received: ["drugbank"]`). Two blocking or high-severity data gaps directly prevent prediction and analysis:
-
-1. **Missing Taiwan package insert warnings and contraindications (DG001 — Blocking):** Without this document, the safety pre-screening step (S1) cannot begin. The remediation path is to download the relevant package insert PDF from the TFDA official website and parse it.
-
-2. **Missing mechanism of action data (DG002 — High):** Without a confirmed MOA, the mechanistic plausibility linking Deferiprone's pharmacology to any new target indication cannot be assessed. DrugBank API query should retrieve this.
-
-Until both gaps are resolved, TxGNN scoring for this candidate cannot be trusted or interpreted.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originaria | Sovraccarico di ferro (talassemia; non formalmente acquisita in questo Pacchetto di evidenze) |
+| Nuova indicazione predetta | Nessuna — le previsioni TxGNN non sono disponibili in questo Pacchetto di evidenze |
+| Punteggio di previsione TxGNN | N/A |
+| Livello di evidenza | L5 (previsione del modello non disponibile; nessuno studio di supporto recuperabile) |
+| Stato di mercato a Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Mantenere in sospeso** |
 
 ---
 
-## Taiwan Market Information
+## Perché non è disponibile alcuna previsione
 
-No product authorizations for Deferiprone were found in the Taiwan (TFDA) database as of the data cutoff (2026-04-20). The drug is currently **not marketed** in Taiwan.
+Il Pacchetto di evidenze per Deferiprone è stato costruito solo da dati DrugBank (`inputs_received: ["drugbank"]`). Due gap critici o ad alta gravità dei dati bloccano direttamente la previsione e l'analisi:
 
-> If marketing authorization data exists in other jurisdictions (e.g., EMA/FDA approval for Ferriprox), it should be retrieved separately and incorporated into a revised Evidence Pack.
+1. **Avvertimenti e controindicazioni del foglio illustrativo a Taiwan mancanti (DG001 — Bloccante):** Senza questo documento, la fase di pre-screening della sicurezza (S1) non può iniziare. Il percorso di rimedio è scaricare il relativo PDF del foglio illustrativo dal sito ufficiale della TFDA e analizzarlo.
 
----
+2. **Dati del meccanismo d'azione mancanti (DG002 — Alto):** Senza un MOA confermato, la plausibilità meccanicistica che collega la farmacologia di Deferiprone a qualsiasi nuova indicazione target non può essere valutata. Una query API a DrugBank dovrebbe recuperare questo.
 
-## Safety Considerations
-
-Safety data could not be retrieved for this evaluation. Please refer to the official package insert (obtainable from TFDA or EMA) for full warnings, contraindications, and drug interaction information before proceeding.
+Fino a quando entrambi i gap non saranno risolti, il punteggio TxGNN per questo candidato non può essere considerato affidabile o interpretato.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato a Taiwan
 
-**Decision: Hold**
+Nessuna autorizzazione di prodotto per Deferiprone è stata trovata nel database di Taiwan (TFDA) al cutoff dei dati (2026-04-20). Il farmaco è attualmente **non commercializzato** a Taiwan.
 
-**Rationale:**
-The Evidence Pack is incomplete in two blocking dimensions — no TxGNN predictions were generated, and critical safety documentation (package insert) is absent — making it impossible to evaluate repurposing feasibility or patient safety at this time.
+> Se i dati di autorizzazione di commercializzazione esistono in altre giurisdizioni (ad es. approvazione EMA/FDA per Ferriprox), devono essere recuperati separatamente e incorporati in un Pacchetto di evidenze revisionato.
 
-**To proceed, the following is needed:**
+---
 
-- **[DG001 — Blocking]** Download and parse the Deferiprone package insert from the TFDA website to extract approved warnings and contraindications; this unblocks the S1 safety pre-screening step
-- **[DG002 — High]** Query the DrugBank API for Deferiprone's confirmed mechanism of action (iron chelation pathway, target proteins) to enable mechanistic plausibility analysis
-- **Re-run the TxGNN pipeline** after data gaps are resolved so that a ranked list of predicted new indications is generated
-- **Expand regulatory data inputs** to include EMA/FDA authorization records (Deferiprone/Ferriprox holds approvals outside Taiwan that may inform the repurposing context)
-- Once predictions are available, **re-generate this report** using the full Evidence Pack (v5+)
+## Considerazioni sulla sicurezza
+
+I dati di sicurezza non potevano essere recuperati per questa valutazione. Si prega di fare riferimento al foglio illustrativo ufficiale (ottenibile da TFDA o EMA) per le avvertenze complete, le controindicazioni e le informazioni sulle interazioni farmacologiche prima di procedere.
+
+---
+
+## Conclusione e passaggi successivi
+
+**Decisione: Mantenere in sospeso**
+
+**Razionale:**
+Il Pacchetto di evidenze è incompleto in due dimensioni bloccanti — nessuna previsione TxGNN è stata generata e la documentazione di sicurezza critica (foglio illustrativo) è assente — rendendo impossibile valutare la fattibilità del riposizionamento o la sicurezza del paziente in questa fase.
+
+**Per procedere, è necessario quanto segue:**
+
+- **[DG001 — Bloccante]** Scarica e analizza il foglio illustrativo di Deferiprone dal sito web della TFDA per estrarre avvertimenti e controindicazioni approvati; questo sblocca la fase di pre-screening della sicurezza S1
+- **[DG002 — Alto]** Interroga l'API DrugBank per il meccanismo d'azione confermato di Deferiprone (percorso di chelazione del ferro, proteine target) per consentire l'analisi della plausibilità meccanicistica
+- **Esegui nuovamente la pipeline TxGNN** dopo che i gap dei dati sono stati risolti in modo che venga generato un elenco classificato delle nuove indicazioni predette
+- **Espandi i dati normativi di input** per includere i record di autorizzazione EMA/FDA (Deferiprone/Ferriprox detiene approvazioni al di fuori di Taiwan che possono informare il contesto di riposizionamento)
+- Una volta disponibili le previsioni, **rigenerare questo report** utilizzando il Pacchetto di evidenze completo (v5+)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,92 +29,93 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Eliglustat: Gaucher Disease — TxGNN 預測資料不足，評估待補
+# Eliglustat: Malattia di Gaucher — Dati di previsione TxGNN insufficienti, valutazione in sospeso
 
 ---
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Eliglustat（品牌名：Cerdelga）是一種口服葡萄糖神經醯胺合酶抑制劑，核准用於第 1 型高雪氏症（Gaucher disease type 1）成人患者的長期基質減少療法。
-本次 Evidence Pack（v4, 2026-04-20）中，**TxGNN 預測清單為空**，代表模型尚未對此藥產生可信的新適應症候選；同時，Taiwan 市場尚無核准許可，安全性資料亦存在缺口。
-
----
-
-## Quick Overview
-
-| 項目 | 內容 |
-|------|------|
-| 原核准適應症 | 第 1 型高雪氏症（Gaucher Disease Type 1） |
-| 預測新適應症 | — 本次無 TxGNN 預測輸出 |
-| TxGNN 預測分數 | 無 |
-| 證據等級 | **L5**（模型尚無預測，無實際研究支撐） |
-| Taiwan 市場狀態 | ✗ Not marketed（0 張許可證） |
-| 許可證數量 | 0 |
-| 建議決策 | **Hold** |
+Eliglustat (nome commerciale: Cerdelga) è un inibitore orale della glucosil-ceramide sintasi, approvato per la terapia a riduzione del substrato a lungo termine nei pazienti adulti affetti da malattia di Gaucher di tipo 1.
+Nel presente Evidence Pack (v4, 2026-04-20), **l'elenco delle previsioni TxGNN è vuoto**, indicando che il modello non ha ancora generato candidati di nuove indicazioni credibili per questo farmaco; inoltre, il mercato taiwanese non ha ancora approvazioni autorizzate e vi sono lacune nei dati di sicurezza.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-目前本 Evidence Pack 的 `predicted_indications` 為空陣列，代表 TxGNN 模型在此次批次中**未輸出任何新適應症預測**，可能原因包括：
-
-1. 模型訓練時 Eliglustat 的知識圖譜（KG）節點連結度不足
-2. 預測分數未超過篩選門檻
-3. 資料管線在 mapping 階段發生遺失
-
-就藥物本身而言，Eliglustat 透過抑制 UDP-葡萄糖神經醯胺合酶（GCS），減少 glucosylceramide 在巨噬細胞的異常堆積，屬高度靶向性的**酵素底物減少療法（SRT）**，機轉非常專一。
-
-由於高雪氏症屬罕見溶小體貯積症，潛在的跨適應症轉用多集中在其他溶小體病變（如 Fabry disease、Niemann-Pick type C）或神經性高雪氏症（type 3）；然而這些方向目前均未出現在本次預測清單，無法進一步評估機轉關聯性。
-
----
-
-## Clinical Trial Evidence
-
-本次 Evidence Pack 無預測適應症，無對應臨床試驗資料。
-
-> 目前無相關新適應症之已登錄臨床試驗可供呈現。
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione approvata originaria | Malattia di Gaucher di tipo 1 (Gaucher Disease Type 1) |
+| Nuove indicazioni previste | — Nessun output di previsione TxGNN in questa sessione |
+| Punteggio di previsione TxGNN | Assente |
+| Livello di evidenza | **L5** (nessuna previsione del modello, nessun supporto di ricerca effettiva) |
+| Stato del mercato taiwanese | ✗ Non commercializzato (0 certificati di autorizzazione) |
+| Numero di certificati di autorizzazione | 0 |
+| Raccomandazione decisionale | **Hold** |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-本次 Evidence Pack 無預測適應症，無對應文獻資料。
+L'attuale Evidence Pack presenta un array `predicted_indications` vuoto, indicando che il modello TxGNN **non ha generato alcuna previsione di nuove indicazioni** in questa sessione, con possibili cause includenti:
 
-> 目前無相關新適應症之文獻資料可供呈現。
+1. Insufficiente connettività dei nodi del grafo di conoscenza (KG) di Eliglustat durante l'allenamento del modello
+2. I punteggi di previsione non hanno superato la soglia di filtraggio
+3. Perdita di dati nella fase di mappatura della pipeline
+
+Dal punto di vista farmacologico, Eliglustat agisce inibendo l'UDP-glucosil-ceramide sintasi (GCS), riducendo l'anormale accumulo di glucosilceramide nei macrofagi, rappresentando una **terapia altamente mirata di riduzione del substrato (SRT)** con un meccanismo d'azione molto specifico.
+
+Poiché la malattia di Gaucher è una malattia da accumulo lisosomiale rara, i potenziali riutilizzi cross-indication si concentrano principalmente su altre malattie da accumulo lisosomiale (come la malattia di Fabry, la malattia di Niemann-Pick di tipo C) o la malattia di Gaucher di tipo neuronale (tipo 3); tuttavia, nessuno di questi orientamenti attualmente compare nell'elenco delle previsioni di questa sessione, pertanto non è possibile procedere a ulteriori valutazioni di correlazione meccanicistica.
 
 ---
 
-## Taiwan Market Information
+## Evidenze da studi clinici
 
-| 許可證字號 | 產品名稱 | 劑型 | 核准適應症 |
-|-----------|---------|------|----------|
+L'Evidence Pack attuale non contiene indicazioni previste e non dispone di dati di studi clinici corrispondenti.
+
+> Attualmente non sono disponibili dati di studi clinici registrati relativi a nuove indicazioni potenziali.
+
+---
+
+## Evidenze da letteratura
+
+L'Evidence Pack attuale non contiene indicazioni previste e non dispone di dati bibliografici corrispondenti.
+
+> Attualmente non sono disponibili dati bibliografici relativi a nuove indicazioni potenziali.
+
+---
+
+## Informazioni sul mercato taiwanese
+
+| Numero di certificato di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|----------------------------------------|------------------|-------------------|----------------------|
 | — | — | — | — |
 
-Eliglustat 目前在 Taiwan **尚未取得任何藥品許可證**，本次查詢（2026-03-29）TFDA 資料庫回傳 0 筆結果。
+Eliglustat attualmente **non ha ottenuto alcun certificato di autorizzazione di farmaco** nel mercato taiwanese. La presente ricerca (2026-03-29) ha restituito 0 risultati dal database TFDA.
 
 ---
 
-## Safety Considerations
+## Considerazioni di sicurezza
 
-本次資料包中所有安全性欄位均缺乏資料（key_warnings、contraindications 皆為空；DDI 查詢狀態為 not_found）。
+Nel presente Evidence Pack tutti i campi di sicurezza presentano lacune di dati (key_warnings e contraindications sono vuoti; lo stato della ricerca DDI è not_found).
 
-> 請直接參閱 Cerdelga 原廠仿單（EMA/FDA SmPC/USPI）取得完整安全性資訊，特別注意 CYP2D6 表現型（EM/IM/PM）對劑量的影響及強效 CYP2D6/CYP3A 抑制劑交互作用。
+> Si prega di consultare direttamente il foglio illustrativo della ditta produttrice di Cerdelga (EMA/FDA SmPC/USPI) per ottenere informazioni di sicurezza complete, prestando particolare attenzione all'influenza del fenotipo CYP2D6 (EM/IM/PM) sulla posologia e alle interazioni con forti inibitori di CYP2D6/CYP3A.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e fasi successive
 
-**Decision: Hold**
+**Decisione: Hold**
 
-**Rationale:**
-本次 Evidence Pack 缺乏最關鍵的輸入——TxGNN 預測適應症清單為空，無法執行任何老藥新用評估；同時 MOA 資料缺失、Taiwan 尚Not marketed、安全性資料不完整，三項核心要素均不具備，不具備進入下一評估階段的條件。
+**Razionale:**
+L'Evidence Pack attuale manca dell'input più critico — l'elenco delle indicazioni previste da TxGNN è vuoto, rendendo impossibile eseguire qualsiasi valutazione di riutilizzo del farmaco; inoltre, i dati meccanicistici sono incompleti, il mercato taiwanese non è ancora penetrato, e i dati di sicurezza sono frammentari, tre elementi fondamentali risultano tutti assenti, non sussistono le condizioni per procedere alla fase di valutazione successiva.
 
-**繼續推進需補齊以下資料：**
+**I dati seguenti devono essere completati per proseguire:**
 
-1. **重新執行 TxGNN 預測**：確認 Eliglustat（DB09039）在知識圖譜中的節點與邊是否正確載入，並降低或調整預測分數門檻
-2. **補齊 MOA 資料**（DG002）：Query the DrugBank API 取得 `mechanism_of_action`、`pharmacodynamics`、DrugBank categories
-3. **補齊仿單安全性資料**（DG001）：從 EMA SmPC 或 FDA label 解析 key_warnings、contraindications、DDI
-4. **評估 Taiwan 申請可行性**：確認 Eliglustat 是否有 IND 或孤兒藥申請計畫，或透過 EMA/FDA 互認機制加速取得 Taiwan 許可
+1. **Rieseguire la previsione TxGNN**: Verificare che Eliglustat (DB09039) abbia nodi e bordi corretti caricati nel grafo di conoscenza, e abbassare o ricalibrare la soglia del punteggio di previsione
+2. **Completare i dati meccanicistici** (DG002): Interrogare l'API DrugBank per ottenere `mechanism_of_action`, `pharmacodynamics`, e categorie DrugBank
+3. **Completare i dati di sicurezza del foglio illustrativo** (DG001): Estrarre da EMA SmPC o etichetta FDA i campi key_warnings, contraindications, DDI
+4. **Valutare la fattibilità della domanda taiwanese**: Confermare se Eliglustat dispone di un IND o di un piano di domanda per farmaci orfani, oppure accelerare l'ottenimento dell'autorizzazione taiwanese attraverso meccanismi di riconoscimento reciproco EMA/FDA
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

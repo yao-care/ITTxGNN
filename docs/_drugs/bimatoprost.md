@@ -29,107 +29,106 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
----
+# Bimatoprost: dal glaucoma all'alopecia
 
-# Bimatoprost: From Glaucoma to Alopecia
+## Sommario in una frase
 
-## One-Sentence Summary
-
-Bimatoprost is a synthetic prostamide F2α analogue originally approved for open-angle glaucoma and ocular hypertension (Lumigan), with a subsequent FDA approval for eyelash hypotrichosis (Latisse), based on the serendipitous observation of eyelash growth in glaucoma patients.
-The TxGNN model predicts it may be effective for **Alopecia** — including androgenetic alopecia (AGA) and alopecia areata (AA) — extending the established eyelash mechanism to the scalp.
-This direction is currently supported by **11 registered clinical trials** (including three large completed Phase 2 RCTs) and **20 publications**, yielding one of the strongest evidence profiles in this Evidence Pack.
+Bimatoprost è un analogo sintetico della prostamide F2α originariamente approvato per il glaucoma ad angolo aperto e l'ipertensione oculare (Lumigan), con un successivo approvazione FDA per l'ipotricosi delle ciglia (Latisse), sulla base dell'osservazione fortuita della crescita delle ciglia nei pazienti con glaucoma.
+Il modello TxGNN prevede che possa essere efficace per **l'alopecia** — inclusa l'alopecia androgenetica (AGA) e l'alopecia areata (AA) — estendendo il meccanismo stabilito delle ciglia al cuoio capelluto.
+Questa direzione è attualmente supportata da **11 trial clinici registrati** (inclusi tre ampi RCT di Fase 2 completati) e **20 pubblicazioni**, producendo uno dei profili di evidenza più forti in questo Evidence Pack.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Item | Contenuto |
 |------|---------|
-| Original Indication | Open-angle glaucoma; ocular hypertension; eyelash hypotrichosis |
-| Predicted New Indication | Alopecia (androgenetic alopecia and alopecia areata) |
-| TxGNN Prediction Score | 99.993% (Rank #8 overall) |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not marketed (0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Glaucoma ad angolo aperto; ipertensione oculare; ipotricosi delle ciglia |
+| Nuova indicazione prevista | Alopecia (alopecia androgenetica e alopecia areata) |
+| Punteggio di previsione TxGNN | 99.993% (Rank #8 complessivo) |
+| Livello di evidenza | L2 |
+| Stato del mercato taiwanese | ✗ Non commercializzato (0 autorizzazioni) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con Salvaguardie |
 
-> **Editorial note:** The highest TxGNN-scored indication (Rank #1, 99.997%) is *"malformation syndrome with odontal and/or periodontal component."* No clinical trial or direct literature evidence links bimatoprost to this condition — the 20 retrieved publications are general periodontology references. That prediction is assessed as L5 / Hold and is not the focus of this report. **Alopecia (Rank #8)** is presented as the primary target because it holds the strongest clinical evidence and the only actionable recommendation in this Evidence Pack.
-
----
-
-## Why Is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not formally recorded in this Evidence Pack. Based on the available literature, bimatoprost activates the FP (prostaglandin F) receptor on hair follicles, upregulating the Wnt/β-catenin signalling pathway. This extends the anagen (active growth) phase of the hair cycle, increases follicular density, and enlarges hair shaft diameter. The mechanism has already been clinically validated at the eyelid margin — the basis for the FDA-approved Latisse indication — establishing that bimatoprost genuinely interacts with follicular biology and not merely as an off-target effect.
-
-The step from eyelash hypotrichosis to scalp alopecia is therefore a mechanistic extension, not a speculative leap. FP receptors are present in all hair follicles, and the hair cycle regulation machinery is conserved across the scalp and eyelid. In androgenetic alopecia, androgens progressively miniaturise scalp follicles by shortening the anagen phase; bimatoprost's ability to counteract exactly this shortening provides clear biological rationale. In alopecia areata, bimatoprost may rescue anagen entry in follicles suppressed by immune attack, even if it does not address the underlying autoimmune mechanism directly.
-
-Importantly, the FP receptor approach is orthogonal to the two established AGA treatments (minoxidil and finasteride), offering a potential combination partner or alternative for patients who do not respond to or tolerate standard therapy. The Phase 2 programme directly compared bimatoprost to minoxidil in head-to-head arms, confirming the mechanism is being rigorously tested against the current standard of care.
+> **Nota editoriale:** L'indicazione con il punteggio TxGNN più alto (Rank #1, 99.997%) è *"sindrome di malformazione con componente odontale e/o parodontale."* Nessuno studio clinico o evidenza letteraria diretta collega il bimatoprost a questa condizione — le 20 pubblicazioni recuperate sono riferimenti generali di parodontologia. Questa previsione è valutata come L5 / Hold e non è il focus di questo rapporto. **L'alopecia (Rank #8)** è presentata come target primario perché contiene l'evidenza clinica più forte e l'unica raccomandazione attuabile in questo Evidence Pack.
 
 ---
 
-## Clinical Trial Evidence
+## Perché questa previsione è ragionevole?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono formalmente registrati in questo Evidence Pack. In base alla letteratura disponibile, il bimatoprost attiva il recettore FP (prostaglandina F) sui follicoli piliferi, upregolando la via di segnalazione Wnt/β-catenina. Questo estende la fase anagen (crescita attiva) del ciclo pilifero, aumenta la densità follicolare e ingrandisce il diametro della fibra capillare. Il meccanismo è già stato convalidato clinicamente al margine palpebrale — la base dell'indicazione Latisse approvata dalla FDA — stabilendo che il bimatoprost interagisce genuinamente con la biologia follicolare e non meramente come effetto off-target.
+
+Il passo dall'ipotricosi delle ciglia all'alopecia del cuoio capelluto è quindi un'estensione meccanicistica, non un salto speculativo. I recettori FP sono presenti in tutti i follicoli piliferi, e il macchinario di regolazione del ciclo pilifero è conservato tra il cuoio capelluto e la palpebra. Nell'alopecia androgenetica, gli androgeni progressivamente miniaturizzano i follicoli del cuoio capelluto accorciando la fase anagen; la capacità del bimatoprost di contrastare esattamente questo accorciamento fornisce una chiara logica biologica. Nell'alopecia areata, il bimatoprost può salvare l'ingresso in anagen nei follicoli soppressi dall'attacco immunitario, anche se non affronta direttamente il meccanismo autoimmune sottostante.
+
+È importante che l'approccio del recettore FP sia ortogonale ai due trattamenti AGA stabiliti (minoxidil e finasteride), offrendo un potenziale partner di combinazione o alternativa per i pazienti che non rispondono o non tollerano la terapia standard. Il programma di Fase 2 ha direttamente confrontato il bimatoprost con il minoxidil in bracci testa-a-testa, confermando che il meccanismo è stato rigorosamente testato rispetto allo standard di cura attuale.
+
+---
+
+## Evidenza da studi clinici
+
+| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Phase 2 | Completed | 307 | Safety and efficacy of 3 bimatoprost doses vs. vehicle and OTC minoxidil 5% in men with AGA; double-blind RCT — largest male scalp trial |
-| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Phase 2 | Completed | 306 | Parallel female-pattern hair loss (FPHL) trial: 3 bimatoprost doses vs. vehicle and minoxidil 2%; double-blind RCT — largest female scalp trial |
-| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Phase 2 | Completed | 244 | Independent replication study of bimatoprost in male AGA; adds confidence to the male AGA evidence base |
-| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Phase 2 | Completed | 33 | Mechanistic validation: bimatoprost solution applied to androgen-dependent scalp follicles; demonstrates FP receptor activity in scalp tissue |
-| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Phase 1/2 | Completed | 30 | CO₂ fractional laser combined with bimatoprost 0.03% for alopecia areata; novel combination strategy extending bimatoprost to AA subtype |
-| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Phase 4 | Completed | 71 | Bimatoprost 0.03% once daily for eyelash loss/hypotrichosis in children; provides paediatric safety data relevant to the broader programme |
-| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Phase 1 | Completed | 42 | Safety, tolerability, and PK of two new bimatoprost formulations for alopecia; supports topical formulation development pathway |
-| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Phase 1 | Completed | 11 | Local PK and tolerability of bimatoprost applied daily to male AGA scalp for 14 days; confirms scalp absorption characteristics |
-| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Phase 1 | Terminated | 53 | Dose escalation safety/PK study in male AGA; **terminated early** — termination reason must be reviewed before proceeding |
-| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | N/A | Completed | 14 | Latanoprost vs. bimatoprost ophthalmic solutions for eyelash growth in alopecia areata patients; early proof-of-concept in AA eyelash subtype |
+| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Fase 2 | Completato | 307 | Sicurezza ed efficacia di 3 dosi di bimatoprost vs. veicolo e minoxidil al 5% OTC negli uomini con AGA; RCT in doppio cieco — studio più grande sul cuoio capelluto maschile |
+| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Fase 2 | Completato | 306 | Studio parallelo di perdita di capelli da pattern femminile (FPHL): 3 dosi di bimatoprost vs. veicolo e minoxidil al 2%; RCT in doppio cieco — studio più grande sul cuoio capelluto femminile |
+| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Fase 2 | Completato | 244 | Studio di replicazione indipendente del bimatoprost nell'AGA maschile; aggiunge confidenza alla base di evidenza dell'AGA maschile |
+| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Fase 2 | Completato | 33 | Validazione meccanicistica: soluzione di bimatoprost applicata ai follicoli del cuoio capelluto androgeno-dipendenti; dimostra l'attività del recettore FP nel tessuto del cuoio capelluto |
+| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Fase 1/2 | Completato | 30 | Laser frazionato CO₂ combinato con bimatoprost 0.03% per alopecia areata; nuova strategia di combinazione che estende il bimatoprost al sottotipo AA |
+| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Fase 4 | Completato | 71 | Bimatoprost 0.03% una volta al giorno per la perdita di ciglia/ipotricosi nei bambini; fornisce dati di sicurezza pediatrica rilevanti per il programma più ampio |
+| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Fase 1 | Completato | 42 | Sicurezza, tollerabilità e PK di due nuove formulazioni di bimatoprost per l'alopecia; supporta il percorso di sviluppo della formulazione topica |
+| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Fase 1 | Completato | 11 | PK locale e tollerabilità del bimatoprost applicato quotidianamente al cuoio capelluto AGA maschile per 14 giorni; conferma le caratteristiche di assorbimento del cuoio capelluto |
+| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Fase 1 | Terminato | 53 | Studio di escalation di dose con sicurezza/PK nell'AGA maschile; **terminato anticipatamente** — la ragione della terminazione deve essere revisionata prima di procedere |
+| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | N/A | Completato | 14 | Soluzioni oftalmiche di latanoprost vs. bimatoprost per la crescita delle ciglia nei pazienti con alopecia areata; proof-of-concept precoce nel sottotipo di ciglia AA |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|------|------|---------|---------|
-| [32250713](https://pubmed.ncbi.nlm.nih.gov/32250713/) | 2022 | Systematic Review + Network Meta-Analysis | J Dermatol Treatment | Compared relative efficacies of non-surgical AGA monotherapies in men and women; bimatoprost included in the network; highest-grade evidence for AGA pharmacotherapy |
-| [29863806](https://pubmed.ncbi.nlm.nih.gov/29863806/) | 2018 | Clinical Practice Guideline | J Dermatology | Japanese evidence-based guidelines for male- and female-pattern hair loss; bimatoprost reviewed as an emerging therapy with supporting trial data |
-| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Clinical Study | Arch Dermatol Res | Prospective study of CO₂ fractional laser + bimatoprost in alopecia areata; reports superior hair regrowth vs. laser alone, supports combination strategy |
-| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Prospective Study | Dermatol Therapy | Open-label prospective study of topical bimatoprost for eyelash loss in alopecia totalis and universalis; 16 of enrolled patients showed clinically meaningful response |
-| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Non-randomised Clinical Trial | Indian Dermatol Online J | Head-to-head comparison of bimatoprost vs. clobetasol propionate in scalp alopecia areata; bimatoprost evaluated as a novel non-corticosteroid option for AA |
-| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Review | Expert Opin Investig Drugs | Comprehensive review of bimatoprost for eyelash, eyebrow, and scalp alopecia; synthesises mechanism, clinical trial results, and safety profile |
-| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Review | Indian Dermatol Online J | Review of bimatoprost dermatology applications; traces the discovery path from glaucoma side-effects to alopecia treatment development |
-| [23104985](https://pubmed.ncbi.nlm.nih.gov/23104985/) | 2013 | Mechanistic / Early Clinical Report | FASEB J | Foundational FASEB study: first formal demonstration that prostamide-related glaucoma therapy may address scalp alopecias; proposes and tests the FP receptor hypothesis in scalp tissue |
-| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Formulation / Preclinical | Drug Delivery | Optimised topical bimatoprost formulation achieving 4.6× higher skin flux and 529% more dermal drug deposition; demonstrated improved AGA hair regrowth in vivo |
-| [38577618](https://pubmed.ncbi.nlm.nih.gov/38577618/) | 2024 | Formulation Research | Int J Pharm X | Spanlastic nanogel delivery system for bimatoprost; superior cutaneous deposition and hair regrowth efficacy in androgenic alopecia model |
+| [32250713](https://pubmed.ncbi.nlm.nih.gov/32250713/) | 2022 | Revisione sistematica + Meta-analisi in rete | J Dermatol Treatment | Confronto delle efficienze relative delle monoterapie AGA non-chirurgiche negli uomini e donne; bimatoprost incluso nella rete; evidenza di grado più alto per la farmacoterapia AGA |
+| [29863806](https://pubmed.ncbi.nlm.nih.gov/29863806/) | 2018 | Linee guida di pratica clinica | J Dermatology | Linee guida basate sull'evidenza giapponesi per la perdita di capelli da pattern maschile e femminile; bimatoprost revisionato come terapia emergente con dati di trial di supporto |
+| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Studio clinico | Arch Dermatol Res | Studio prospettico del laser frazionato CO₂ + bimatoprost nell'alopecia areata; riporta una ricrescita dei capelli superiore vs. solo laser, supporta la strategia di combinazione |
+| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Studio prospettico | Dermatol Therapy | Studio prospettico in open-label di bimatoprost topico per la perdita di ciglia nell'alopecia totalis e universalis; 16 dei pazienti arruolati hanno mostrato una risposta clinicamente significativa |
+| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Trial clinico non-randomizzato | Indian Dermatol Online J | Confronto testa-a-testa del bimatoprost vs. propionato di clobetasol nell'alopecia areata del cuoio capelluto; bimatoprost valutato come opzione novel non-corticosteroidea per AA |
+| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Revisione | Expert Opin Investig Drugs | Revisione completa del bimatoprost per l'alopecia delle ciglia, delle sopracciglia e del cuoio capelluto; sintetizza il meccanismo, i risultati dei trial clinici e il profilo di sicurezza |
+| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Revisione | Indian Dermatol Online J | Revisione delle applicazioni dermatologiche del bimatoprost; traccia il percorso di scoperta dagli effetti collaterali del glaucoma allo sviluppo del trattamento dell'alopecia |
+| [23104985](https://pubmed.ncbi.nlm.nih.gov/23104985/) | 2013 | Meccanicistica / Report clinico precoce | FASEB J | Studio FASEB fondazionale: prima dimostrazione formale che la terapia del glaucoma correlata alla prostamide può affrontare le alopecie del cuoio capelluto; propone e testa l'ipotesi del recettore FP nel tessuto del cuoio capelluto |
+| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Formulazione / Preclinico | Drug Delivery | Formulazione topica di bimatoprost ottimizzata che raggiunge un flusso della pelle 4.6× più alto e il 529% di deposizione del farmaco dermica in più; dimostra una ricrescita dei capelli migliorata nell'AGA in vivo |
+| [38577618](https://pubmed.ncbi.nlm.nih.gov/38577618/) | 2024 | Ricerca sulla formulazione | Int J Pharm X | Sistema di nanogel spanlastico per il bimatoprost; deposizione cutanea superiore ed efficacia di ricrescita dei capelli nel modello di alopecia androgenetica |
 
 ---
 
-## Taiwan Market Information
+## Informazioni sul mercato taiwanese
 
-Bimatoprost currently holds **no approved authorizations in Taiwan**. No dosage forms, product names, or approved indications are registered with Taiwan's regulatory authority.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No drug interaction data, key warnings, or contraindication data were retrievable for this Evidence Pack.
-
-> **Action required:** The TFDA package insert was queried but warning/contraindication fields were not populated in this Evidence Pack. A manual review of the official Taiwan package insert (or the FDA/EMA Lumigan and Latisse labelling) is recommended before any clinical use evaluation proceeds.
+Bimatoprost attualmente non possiede **nessun'autorizzazione approvata a Taiwan**. Nessuna forma di dosaggio, nome di prodotto, o indicazione approvata è registrata presso l'autorità di regolamentazione taiwanese.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Nessun dato di interazione farmacologica, avvertimenti chiave o dati di controindicazione sono stati reperibili per questo Evidence Pack.
 
-**Rationale:**
-The FP receptor → Wnt/β-catenin → anagen extension mechanism is already clinically validated at the eyelid margin (FDA-approved Latisse), providing a strong biological anchor for the scalp extension. Three large completed Phase 2 RCTs (aggregate n > 850), a systematic review with network meta-analysis, and an active clinical study in alopecia areata collectively meet the L2 evidence threshold. While no Phase 3 data yet exist for scalp AGA, the overall body of evidence is sufficient to justify a structured development or licensing evaluation — under appropriate monitoring conditions.
+> **Azione richiesta:** Il foglio illustrativo TFDA è stato interrogato ma i campi di avvertimento/controindicazione non sono stati compilati in questo Evidence Pack. Una revisione manuale del foglio illustrativo ufficiale taiwanese (o dell'etichettatura FDA/EMA di Lumigan e Latisse) è consigliata prima che qualsiasi valutazione dell'uso clinico proceda.
 
-**To proceed, the following is needed:**
+---
 
-- **Phase 3 trial initiation or identification:** No completed Phase 3 data exist for scalp AGA. This is the primary gap separating L2 from L1. A Phase 3 programme or access to a completed but unpublished dataset must be confirmed.
-- **Termination reason for NCT02676310:** This Phase 1 dose-escalation trial was terminated early (n=53). The termination reason must be reviewed to rule out a safety signal that would affect the risk profile.
-- **Full safety and contraindication data:** TFDA/FDA/EMA package insert review for key warnings, contraindications, and drug interactions — currently all flagged as data gaps.
-- **Mechanism of action (MOA) data from DrugBank:** Formal MOA documentation needed to complete the mechanistic justification section and regulatory dossier.
-- **Taiwan regulatory pathway assessment:** With 0 current authorizations, a full market entry strategy (NDA filing, reference country recognition, or other pathway) must be planned before any clinical development in Taiwan begins.
-- **Formulation strategy decision:** Multiple topical formulations have been investigated (at least three in NCT01189279 alone); selecting the optimal formulation with sufficient scalp penetration is prerequisite for any Phase 3 design.
+## Conclusione e prossimi passi
+
+**Decisione: Procedere con Salvaguardie**
+
+**Logica:**
+Il meccanismo del recettore FP → Wnt/β-catenina → estensione anagen è già clinicamente convalidato al margine palpebrale (Latisse approvato dalla FDA), fornendo una forte ancora biologica per l'estensione del cuoio capelluto. Tre ampi RCT di Fase 2 completati (n aggregato > 850), una revisione sistematica con meta-analisi in rete e uno studio clinico attivo nell'alopecia areata collettivamente soddisfano la soglia di evidenza L2. Sebbene non esistano ancora dati di Fase 3 per l'AGA del cuoio capelluto, il corpo complessivo di evidenza è sufficiente a giustificare una valutazione strutturata dello sviluppo o della licenza — in condizioni di monitoraggio appropriate.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Inizio della sperimentazione di Fase 3 o identificazione:** Non esiste nessun dato di Fase 3 completato per l'AGA del cuoio capelluto. Questo è il divario principale che separa L2 da L1. Un programma di Fase 3 o l'accesso a un dataset completato ma non pubblicato deve essere confermato.
+- **Motivo della terminazione per NCT02676310:** Questo trial di dose-escalation di Fase 1 è stato terminato anticipatamente (n=53). Il motivo della terminazione deve essere revisionato per escludere un segnale di sicurezza che affetterebbe il profilo di rischio.
+- **Dati completi di sicurezza e controindicazioni:** Revisione del foglio illustrativo TFDA/FDA/EMA per avvertimenti chiave, controindicazioni e interazioni farmacologiche — attualmente tutti segnalati come lacune di dati.
+- **Dati del meccanismo d'azione (MOA) da DrugBank:** Documentazione formale di MOA necessaria per completare la sezione di giustificazione meccanicistica e il dossier normativo.
+- **Valutazione del percorso normativo taiwanese:** Con 0 autorizzazioni attuali, una strategia completa di ingresso nel mercato (archiviazione NDA, riconoscimento del paese di riferimento, o altro percorso) deve essere pianificata prima che qualsiasi sviluppo clinico a Taiwan inizi.
+- **Decisione sulla strategia di formulazione:** Molteplici formulazioni topiche sono state investigate (almeno tre solo in NCT01189279); la selezione della formulazione ottimale con sufficiente penetrazione del cuoio capelluto è prerequisito per qualsiasi progettazione di Fase 3.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

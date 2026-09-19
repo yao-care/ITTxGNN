@@ -29,84 +29,81 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is a TxGNN drug repurposing context. The report generation instructions are fully specified in the system prompt. I'll now produce the report from the Evidence Pack.
+# Raloxifene: dall'Osteoporosi Postmenopausale all'Ulcera Duodenale
+
+## Sommario in una Frase
+
+Raloxifene è un Modulatore Selettivo dei Recettori degli Estrogeni (SERM) ampiamente affermato per la prevenzione e il trattamento dell'osteoporosi postmenopausale e la riduzione del rischio di cancro al seno invasivo nelle donne postmenopausali.
+Il modello TxGNN prevede che potrebbe essere efficace per l'**Ulcera Duodenale (malattia)**, con **0 trial clinici** e **0 pubblicazioni** che attualmente supportano questa direzione — ponendo questa previsione al Livello di Evidenza L5 e rendendola un segnale solo-ipotesi che richiede un'indagine fondamentale prima di qualsiasi considerazione clinica.
 
 ---
 
-# Raloxifene: From Postmenopausal Osteoporosis to Duodenal Ulcer
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Raloxifene is a Selective Estrogen Receptor Modulator (SERM) widely established for the prevention and treatment of postmenopausal osteoporosis and reduction of invasive breast cancer risk in postmenopausal women.
-The TxGNN model predicts it may be effective for **Duodenal Ulcer (disease)**, with **0 clinical trials** and **0 publications** currently supporting this direction — placing this prediction at Evidence Level L5 and making it a hypothesis-only signal requiring foundational investigation before any clinical consideration.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Postmenopausal osteoporosis; invasive breast cancer risk reduction |
-| Predicted New Indication | Duodenal Ulcer (disease) |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originaria | Osteoporosi postmenopausale; riduzione del rischio di cancro al seno invasivo |
+| Indicazione Prevista Nuova | Ulcera Duodenale (malattia) |
+| Punteggio di Previsione TxGNN | 99.72% |
+| Livello di Evidenza | L5 |
+| Stato del Mercato Taiwan | Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Hold** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmaceutical knowledge, Raloxifene is a SERM that selectively modulates estrogen receptors in a tissue-specific manner: it acts as an estrogen agonist in bone (preserving bone mineral density) and in hepatic lipid metabolism, while acting as an antagonist in breast and uterine tissue — thereby avoiding stimulation of endometrial proliferation.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Dossier di Evidenza. In base alle conoscenze farmaceutiche consolidate, Raloxifene è un SERM che modula selettivamente i recettori degli estrogeni in modo specifico per il tessuto: agisce come agonista degli estrogeni nell'osso (preservando la densità minerale ossea) e nel metabolismo lipidico epatico, mentre agisce come antagonista nel tessuto mammario e uterino — evitando così la stimolazione della proliferazione endometriale.
 
-The mechanistic bridge to duodenal ulcer is built on the biology of ER-β (estrogen receptor beta), which is the dominant estrogen receptor subtype expressed in the gastrointestinal tract. Activation of ER-β has been proposed to promote mucus secretion, upregulate prostaglandin synthesis, and suppress NF-κB-driven mucosal inflammation — all of which are recognized gastroprotective mechanisms relevant to ulcer prevention and healing. In theory, if Raloxifene exerts meaningful ER-β agonist activity in the duodenal mucosa, it could confer a degree of mucosal protection.
+Il ponte meccanicistico verso l'ulcera duodenale è costruito sulla biologia di ER-β (recettore beta degli estrogeni), che è il sottotipo di recettore degli estrogeni dominante espresso nel tratto gastrointestinale. L'attivazione di ER-β è stata proposta per promuovere la secrezione di muco, aumentare la sintesi di prostaglandine e sopprimere l'infiammazione mucosale mediata da NF-κB — tutti meccanismi gastroprotettivi riconosciuti rilevanti per la prevenzione e la guarigione dell'ulcera. In teoria, se Raloxifene esercita un'attività agonista ER-β significativa nella mucosa duodenale, potrebbe conferire un certo grado di protezione mucosale.
 
-However, this remains a class-effect inference rather than a Raloxifene-specific finding. Raloxifene's tissue selectivity for ER-β in the duodenum has not been specifically studied, and the repurposing rationale embedded in this Evidence Pack rates mechanistic credibility as **low to moderate**. There are no preclinical, observational, or clinical data to substantiate this prediction at present. The high TxGNN score reflects a graph-structural signal in the knowledge graph and should not be interpreted as clinical confidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, questo rimane un'inferenza dell'effetto di classe piuttosto che un risultato specifico di Raloxifene. La selettività tissutale di Raloxifene per ER-β nel duodeno non è stata specificamente studiata, e la razionalità di riutilizzo incorporata in questo Dossier di Evidenza valuta la credibilità meccanicistica come **bassa a moderata**. Non ci sono dati preclinici, osservazionali o clinici per corroborare questa previsione al momento. Il punteggio TxGNN elevato riflette un segnale strutturale nel grafo della conoscenza e non deve essere interpretato come confidenza clinica.
 
 ---
 
-## Literature Evidence
+## Evidenza da Trial Clinici
 
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Raloxifene has no approved product authorizations in Taiwan. Taiwan TFDA records return zero licenses, and no approved indication text is available.
+Attualmente nessun trial clinico correlato è registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza da Letteratura
 
-Please refer to the package insert for safety information.
-
-> **Note:** Both TFDA package insert warnings/contraindications and drug-drug interaction data are currently unavailable for this Evidence Pack (identified as data gaps DG001 and DG002). These must be retrieved from the TFDA official website and DrugBank before any clinical or regulatory evaluation can proceed.
+Attualmente nessuna letteratura correlata è disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Taiwan
 
-**Decision: Hold**
+Raloxifene non ha autorizzazioni di prodotto approvate a Taiwan. I registri TFDA non restituiscono alcuna licenza e nessun testo di indicazione approvata è disponibile.
 
-**Rationale:**
-This prediction is supported exclusively by a TxGNN model score with no corroborating clinical trials, literature, or preclinical data (Evidence Level L5). The proposed ER-β mucosal protection mechanism is biologically speculative, the drug is not marketed in Taiwan, and two blocking data gaps — safety warnings and MOA — remain unresolved, making meaningful risk–benefit assessment impossible at this stage.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di Sicurezza
 
-- **MOA data**: Retrieve Raloxifene mechanism of action from DrugBank API to confirm whether ER-β agonist activity in gastrointestinal tissue is documented
-- **Safety data**: Download and parse the TFDA package insert to obtain warnings, contraindications, and drug interactions (currently blocking; severity: High/Blocking)
-- **Preclinical signal check**: Search for animal model or cell-line studies examining estrogen receptor modulation and duodenal mucosal integrity
-- **Epidemiological signal check**: Assess whether postmenopausal women on Raloxifene in real-world databases (e.g., CPRD, TriNetX) show lower rates of peptic or duodenal ulcer
-- **Expert review**: Obtain gastroenterology expert opinion on the ER-β gastroprotection hypothesis before allocating research resources
-- If a preclinical signal is confirmed, design a proof-of-concept Phase 2 trial or mechanistic study
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+> **Nota:** Sia gli avvertimenti/controindicazioni del foglio illustrativo TFDA che i dati di interazione farmaco-farmaco non sono attualmente disponibili per questo Dossier di Evidenza (identificati come lacune di dati DG001 e DG002). Questi devono essere recuperati dal sito web ufficiale TFDA e da DrugBank prima che qualsiasi valutazione clinica o normativa possa procedere.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Hold**
+
+**Razionale:**
+Questa previsione è supportata esclusivamente da un punteggio del modello TxGNN senza dati clinici corroboranti, letteratura o dati preclinici (Livello di Evidenza L5). Il meccanismo proposto di protezione mucosale ER-β è biologicamente speculativo, il farmaco non è commercializzato a Taiwan, e due lacune di dati bloccanti — sicurezza e MOA — rimangono irrisolte, rendendo impossibile una valutazione significativa del rischio-beneficio in questa fase.
+
+**Per procedere, quanto segue è necessario:**
+
+- **Dati MOA**: Recuperare il meccanismo d'azione di Raloxifene dall'API DrugBank per confermare se l'attività agonista ER-β nel tessuto gastrointestinale è documentata
+- **Dati di sicurezza**: Scaricare e analizzare il foglio illustrativo TFDA per ottenere avvertimenti, controindicazioni e interazioni farmacologiche (attualmente bloccante; gravità: Alta/Bloccante)
+- **Controllo del segnale preclinico**: Cercare studi su modelli animali o linee cellulari che esaminano la modulazione dei recettori degli estrogeni e l'integrità mucosale duodenale
+- **Controllo del segnale epidemiologico**: Valutare se le donne postmenopausali su Raloxifene in database del mondo reale (ad es. CPRD, TriNetX) mostrano tassi più bassi di ulcera peptica o duodenale
+- **Revisione esperta**: Ottenere l'opinione di un esperto di gastroenterologia sull'ipotesi di gastroprotezione ER-β prima di allocare risorse di ricerca
+- Se un segnale preclinico è confermato, progettare un trial di proof-of-concept di Fase 2 o uno studio meccanicistico
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

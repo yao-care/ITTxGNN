@@ -29,112 +29,107 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-Using the **txgnn-pipeline** skill as context, and the Drug Repurposing Evaluation Report Prompt (v5) in the system prompt, I'll now generate the report.
+# Flutamide: dal carcinoma della prostata al carcinoma degli organi riproduttivi maschili
 
-The Evidence Pack for FLUTAMIDE contains 10 predicted indications. Rank 1 (highest TxGNN score) has no clinical evidence (L5 / Hold), while **Rank 6 — "male reproductive organ cancer"** carries the strongest evidence (L2, 50 clinical trials, 20 publications, "Proceed with Guardrails"). I'll build the report around Rank 6 as the primary actionable finding.
+## Sommario in una frase
 
----
-
-# Flutamide: From Prostate Cancer to Male Reproductive Organ Cancer
-
-## One-Sentence Summary
-
-Flutamide is a non-steroidal antiandrogen established globally for prostate cancer hormone therapy, though it currently holds no Italian marketing authorization.
-The TxGNN model predicts it may be effective for **Male Reproductive Organ Cancer** as a broad indication category,
-with **50 clinical trials** and **20 publications** currently supporting this direction.
+La flutamide è un antiandrogeno non steroideo consolidato a livello mondiale per la terapia ormonale del carcinoma prostatico, sebbene attualmente non sia autorizzata per il commercio in Italia.
+Il modello TxGNN prevede che potrebbe essere efficace per il **Carcinoma degli Organi Riproduttivi Maschili** come categoria di indicazione ampia,
+con **50 studi clinici** e **20 pubblicazioni** attualmente a supporto di questa direzione.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | No Italian authorization on record; globally established for prostate cancer hormone therapy |
-| Predicted New Indication | Male Reproductive Organ Cancer |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione Originaria | Nessuna autorizzazione italiana registrata; consolidata a livello mondiale per la terapia ormonale del carcinoma prostatico |
+| Indicazione Nuova Prevista | Carcinoma degli Organi Riproduttivi Maschili |
+| Punteggio di Previsione TxGNN | 99.98% |
+| Livello di Evidenza | L2 |
+| Stato del Mercato Italiano | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedi con Guardrails |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on well-established pharmacological knowledge, Flutamide is a non-steroidal antiandrogen that competitively and reversibly blocks the androgen receptor (AR), preventing testosterone and dihydrotestosterone (DHT) from binding and activating downstream gene programs that drive cellular proliferation and survival. Unlike steroidal antiandrogens, Flutamide has no intrinsic hormonal activity, giving it high receptor selectivity and a relatively clean off-target profile.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack. Sulla base della farmacologia consolidata, la flutamide è un antiandrogeno non steroideo che blocca competitivamente e reversibilmente il recettore degli androgeni (AR), impedendo al testosterone e al diidrotestosterone (DHT) di legarsi e attivare i programmi genici a valle che guidano la proliferazione cellulare e la sopravvivenza. A differenza degli antiandrogeni steroidei, la flutamide non ha attività ormonale intrinseca, conferendole un'elevata selettività recettoriale e un profilo relativamente pulito off-target.
 
-Male reproductive organ cancer — with prostate cancer as the dominant entity — is fundamentally dependent on AR signaling. DHT binding to nuclear AR activates transcription of pro-survival and growth genes, making AR blockade the central therapeutic strategy. Flutamide disrupts this pathway directly and has historically been used either as monotherapy or in combination with LHRH agonists (total androgen blockade, TAB) to achieve PSA suppression and tumor volume reduction. This precise mechanistic alignment with the disease's core driver explains the TxGNN model's 99.98% confidence score.
+Il carcinoma degli organi riproduttivi maschili — con il carcinoma prostatico come entità dominante — dipende fondamentalmente dalla segnalazione dell'AR. Il legame del DHT all'AR nucleare attiva la trascrizione di geni pro-sopravvivenza e di crescita, rendendo il blocco dell'AR la strategia terapeutica centrale. La flutamide interrompe questa via direttamente ed è stata storicamente utilizzata sia come monoterapia che in combinazione con agonisti LHRH (blocco totale degli androgeni, TAB) per raggiungere la soppressione del PSA e la riduzione del volume tumorale. Questo preciso allineamento meccanicistico con il driver principale della malattia spiega il punteggio di confidenza del 99.98% del modello TxGNN.
 
-Beyond prostate cancer, the broader category of male reproductive organ cancers includes other androgen-sensitive tumors where AR expression has been reported. The extensive clinical trial activity surrounding Flutamide — including a Phase 4 head-to-head comparison against enzalutamide in castration-resistant prostate cancer, a dedicated pre-surgical window-of-opportunity trial, and multiple large Phase 3 studies incorporating flutamide-containing androgen deprivation regimens alongside radiotherapy — firmly establishes both the biological plausibility and the clinical foundation for this prediction.
+Al di là del carcinoma prostatico, la categoria più ampia di carcinomi degli organi riproduttivi maschili include altri tumori sensibili agli androgeni dove è stata riportata l'espressione dell'AR. L'ampia attività di studi clinici che circonda la flutamide — incluso un confronto testa a testa di Fase 4 contro l'enzalutamide nel carcinoma prostatico resistente alla castrazione (CRPC), uno studio dedicato di finestra di opportunità pre-chirurgica e molteplici ampi studi di Fase 3 che incorporano regimi di deprivazione androgenica contenenti flutamide insieme alla radioterapia — stabilisce fermamente sia la plausibilità biologica che la base clinica per questa previsione.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza dai studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero dello Studio | Fase | Stato | Arruolamento | Risultati Chiave |
 |-------------|-------|--------|------------|--------------|
-| [NCT00003734](https://clinicaltrials.gov/study/NCT00003734) | Phase 3 | Unknown | 276 | Randomized comparison of 4 vs. 8 months of neoadjuvant triptorelin + flutamide prior to radiotherapy for high-risk localized prostate cancer; directly evaluates optimal duration of flutamide-containing AR blockade before RT |
-| [NCT00567580](https://clinicaltrials.gov/study/NCT00567580) | Phase 3 | Active, Not Recruiting | 1,792 | SPPORT trial: short-term androgen deprivation (including antiandrogens such as flutamide and bicalutamide) combined with pelvic lymph node or prostate bed radiotherapy for PSA-rising post-prostatectomy prostate cancer |
-| [NCT00769548](https://clinicaltrials.gov/study/NCT00769548) | Phase 3 | Completed | 1,322 | Whole pelvic irradiation + total androgen suppression vs. boost irradiation only; compares neoadjuvant vs. adjuvant timing of androgen suppression in prostate cancer; results published |
-| [NCT00003653](https://clinicaltrials.gov/study/NCT00003653) | Phase 3 | Completed | 1,386 | Intermittent vs. continuous androgen suppression (antiandrogen-inclusive regimens) for PSA progression after radiotherapy; long-term overall survival outcomes published |
-| [NCT00936390](https://clinicaltrials.gov/study/NCT00936390) | Phase 3 | Completed | 1,538 | Dose-escalated radiotherapy with or without short-term androgen deprivation in intermediate-risk prostate cancer; evaluates additive clinical benefit of AR blockade with modern RT |
-| [NCT02918968](https://clinicaltrials.gov/study/NCT02918968) | Phase 4 | Completed | 206 | Direct randomized comparison of enzalutamide vs. flutamide + ADT in CRPC patients who failed bicalutamide-based combined androgen blockade; provides head-to-head flutamide efficacy data in the modern treatment era |
-| [NCT06601205](https://clinicaltrials.gov/study/NCT06601205) | Phase 2/3 | Completed | 125 | Pre-surgical window-of-opportunity trial directly comparing low-dose flutamide (125 mg/day × 6 weeks) vs. finasteride vs. placebo in prostate cancer; tissue biomarkers as surrogate endpoints |
-| [NCT01786265](https://clinicaltrials.gov/study/NCT01786265) | Phase 2 | Active, Not Recruiting | 310 | Finite androgen ablation (flutamide-inclusive) with or without abiraterone acetate + prednisone for PSA-progressing prostate cancer after surgery or radiotherapy |
-| [NCT02090114](https://clinicaltrials.gov/study/NCT02090114) | Phase 2 | Completed | 112 | Bipolar androgen therapy (BAT) followed by enzalutamide or abiraterone in metastatic CRPC; evaluates sequential AR-pathway manipulation strategies and resistance mechanisms relevant to antiandrogen sequencing |
-| [NCT00288080](https://clinicaltrials.gov/study/NCT00288080) | Phase 3 | Completed | 612 | Androgen suppression (leuprolide/goserelin + flutamide/bicalutamide) + 3DCRT/IMRT vs. same + docetaxel/prednisone for localized high-risk prostate cancer; results published |
+| [NCT00003734](https://clinicaltrials.gov/study/NCT00003734) | Fase 3 | Sconosciuto | 276 | Confronto randomizzato di 4 vs. 8 mesi di triptorelin neoadiuvante + flutamide prima della radioterapia per il carcinoma prostatico localizzato ad alto rischio; valuta direttamente la durata ottimale del blocco dell'AR contenente flutamide prima della RT |
+| [NCT00567580](https://clinicaltrials.gov/study/NCT00567580) | Fase 3 | Attivo, Non in Reclutamento | 1,792 | Studio SPPORT: deprivazione androgenica a breve termine (inclusi antiandrogeni come la flutamide e la bicalutamide) combinati con radioterapia dei linfonodi pelvici o del letto prostatico per il carcinoma prostatico con PSA in aumento dopo prostatectomia |
+| [NCT00769548](https://clinicaltrials.gov/study/NCT00769548) | Fase 3 | Completato | 1,322 | Irradiazione pelvica totale + soppressione totale degli androgeni vs. irradiazione di boost soltanto; confronta i tempi neoadiuvante vs. adiuvante della soppressione degli androgeni nel carcinoma prostatico; risultati pubblicati |
+| [NCT00003653](https://clinicaltrials.gov/study/NCT00003653) | Fase 3 | Completato | 1,386 | Soppressione degli androgeni intermittente vs. continua (regimi che includono antiandrogeni) per la progressione del PSA dopo radioterapia; risultati di sopravvivenza globale a lungo termine pubblicati |
+| [NCT00936390](https://clinicaltrials.gov/study/NCT00936390) | Fase 3 | Completato | 1,538 | Radioterapia con escalation di dose con o senza deprivazione androgenica a breve termine nel carcinoma prostatico a rischio intermedio; valuta il beneficio clinico additivo del blocco dell'AR con RT moderna |
+| [NCT02918968](https://clinicaltrials.gov/study/NCT02918968) | Fase 4 | Completato | 206 | Confronto randomizzato diretto di enzalutamide vs. flutamide + terapia di deprivazione androgenica in pazienti con CRPC che hanno fallito il blocco androgeno combinato basato su bicalutamide; fornisce dati di efficacia testa a testa della flutamide nell'era del trattamento moderno |
+| [NCT06601205](https://clinicaltrials.gov/study/NCT06601205) | Fase 2/3 | Completato | 125 | Studio di finestra di opportunità pre-chirurgica che confronta direttamente flutamide a basso dosaggio (125 mg/giorno × 6 settimane) vs. finasteride vs. placebo nel carcinoma prostatico; biomarcatori tessutali come endpoint surrogati |
+| [NCT01786265](https://clinicaltrials.gov/study/NCT01786265) | Fase 2 | Attivo, Non in Reclutamento | 310 | Ablazione androgenica finita (che include flutamide) con o senza acetato di abiraterone + prednisone per il carcinoma prostatico con progressione del PSA dopo chirurgia o radioterapia |
+| [NCT02090114](https://clinicaltrials.gov/study/NCT02090114) | Fase 2 | Completato | 112 | Terapia androgenica bipolare (BAT) seguita da enzalutamide o abiraterone nel CRPC metastatico; valuta strategie di manipolazione sequenziale della via dell'AR e meccanismi di resistenza rilevanti per il sequenziamento degli antiandrogeni |
+| [NCT00288080](https://clinicaltrials.gov/study/NCT00288080) | Fase 3 | Completato | 612 | Soppressione degli androgeni (leuprolide/goserelin + flutamide/bicalutamide) + 3DCRT/IMRT vs. stessa + docetaxel/prednisone per il carcinoma prostatico localizzato ad alto rischio; risultati pubblicati |
 
 ---
 
-## Literature Evidence
+## Evidenza Letteraria
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
 |------|------|------|---------|--------------|
-| [21751904](https://pubmed.ncbi.nlm.nih.gov/21751904/) | 2011 | RCT | N Engl J Med | Short-term ADT before and during radiotherapy significantly improves disease-specific and overall survival in localized prostate adenocarcinoma; landmark RCT (RTOG 94-08) establishing the combined hormone-RT standard of care |
-| [8252497](https://pubmed.ncbi.nlm.nih.gov/8252497/) | 1993 | Review/Mechanistic | Cancer | Demonstrates flutamide as a pure antiandrogen with no intrinsic activity; maximal prostate weight inhibition achieved with flutamide + LHRH agonist combination; foundational mechanistic justification for total androgen blockade |
-| [3157927](https://pubmed.ncbi.nlm.nih.gov/3157927/) | 1985 | Clinical Trial | The Prostate | Long-acting LH-RH agonist microcapsules combined with flutamide in Dunning R-3327H prostate cancer model; establishes preclinical and early clinical basis for combined androgen blockade strategy |
-| [8650871](https://pubmed.ncbi.nlm.nih.gov/8650871/) | 1996 | Clinical Study | Urology | TRUS-measured prostate volume reduction with flutamide and flutamide + castration in previously untreated prostate cancer; objective morphological response assessment demonstrating AR blockade efficacy |
-| [24950779](https://pubmed.ncbi.nlm.nih.gov/24950779/) | 2014 | Clinical Study | Cancer Prev Res | Phase II study of preoperative flutamide (125 mg/day × 6 weeks) in women at high ovarian cancer risk; demonstrates anti-androgenic tissue biomarker activity and supports androgen's role across reproductive cancers |
-| [3287388](https://pubmed.ncbi.nlm.nih.gov/3287388/) | 1988 | Clinical Study | Prog Clin Biol Res | 5-year clinical experience with flutamide + LHRH agonist combination therapy for Stage C and D prostate cancer; documents long-term efficacy, PSA response, and tolerability profile |
-| [3071951](https://pubmed.ncbi.nlm.nih.gov/3071951/) | 1988 | Clinical Study | Am J Clin Oncol | Rationale and evidence for combining non-steroidal antiandrogens with LH-RH analogues in prostate cancer; describes total androgen blockade advantages over surgical or medical castration alone |
-| [65117](https://pubmed.ncbi.nlm.nih.gov/65117/) | 1976 | Review | Adv Sex Horm Res | Foundational review on steroidal and non-steroidal antiandrogens including flutamide; mechanisms of androgen action blockade at receptor and biosynthesis levels; defines the drug class |
-| [37919464](https://pubmed.ncbi.nlm.nih.gov/37919464/) | 2023 | Preclinical | Sci Rep | Ganoderma lucidum polysaccharide sensitizes prostate cancer cells to flutamide and docetaxel in vitro; MTT cytotoxicity assays demonstrate synergistic anti-proliferative effects; supports combination strategies |
-| [30400755](https://pubmed.ncbi.nlm.nih.gov/30400755/) | 2018 | In vitro | Tumour Biol | miRNA-23b and miRNA-27b combined with flutamide increases apoptosis rate and decreases CCNG1 expression in castration-resistant prostate cancer (PC-3 cell line); mechanistic insight into overcoming AR-independent resistance |
+| [21751904](https://pubmed.ncbi.nlm.nih.gov/21751904/) | 2011 | RCT | N Engl J Med | La terapia di deprivazione androgenica a breve termine prima e durante la radioterapia migliora significativamente la sopravvivenza specifica della malattia e la sopravvivenza globale nell'adenocarcinoma prostatico localizzato; studio RCT di riferimento (RTOG 94-08) che stabilisce lo standard di cura combinato ormone-RT |
+| [8252497](https://pubmed.ncbi.nlm.nih.gov/8252497/) | 1993 | Revisione/Meccanicistica | Cancer | Dimostra la flutamide come antiandrogeno puro senza attività intrinseca; inibizione massima del peso prostatico raggiunta con la combinazione di flutamide + agonista LHRH; giustificazione meccanicistica fondamentale per il blocco totale degli androgeni |
+| [3157927](https://pubmed.ncbi.nlm.nih.gov/3157927/) | 1985 | Studio Clinico | The Prostate | Microcapsule di agonista LH-RH a lunga azione combinate con flutamide nel modello di carcinoma prostatico Dunning R-3327H; stabilisce la base preclinica e clinica iniziale per la strategia di blocco androgeno combinato |
+| [8650871](https://pubmed.ncbi.nlm.nih.gov/8650871/) | 1996 | Studio Clinico | Urology | Riduzione del volume prostatico misurata con ecografia transrettale con flutamide e flutamide + castrazione nel carcinoma prostatico precedentemente non trattato; valutazione della risposta morfologica oggettiva che dimostra l'efficacia del blocco dell'AR |
+| [24950779](https://pubmed.ncbi.nlm.nih.gov/24950779/) | 2014 | Studio Clinico | Cancer Prev Res | Studio di Fase II di flutamide preoperatoria (125 mg/giorno × 6 settimane) in donne ad alto rischio di carcinoma ovarico; dimostra l'attività del biomarcatore tissutale anti-androgenico e supporta il ruolo dell'androgeno nei carcinomi riproduttivi |
+| [3287388](https://pubmed.ncbi.nlm.nih.gov/3287388/) | 1988 | Studio Clinico | Prog Clin Biol Res | Esperienza clinica di 5 anni con terapia di combinazione flutamide + agonista LHRH per il carcinoma prostatico di Stadio C e D; documenta l'efficacia a lungo termine, la risposta del PSA e il profilo di tollerabilità |
+| [3071951](https://pubmed.ncbi.nlm.nih.gov/3071951/) | 1988 | Studio Clinico | Am J Clin Oncol | Razionale e prove per la combinazione di antiandrogeni non steroidei con analoghi LH-RH nel carcinoma prostatico; descrive i vantaggi del blocco totale degli androgeni rispetto alla castrazione chirurgica o medica sola |
+| [65117](https://pubmed.ncbi.nlm.nih.gov/65117/) | 1976 | Revisione | Adv Sex Horm Res | Revisione fondamentale su antiandrogeni steroidei e non steroidei inclusa la flutamide; meccanismi del blocco dell'azione androgenica a livello del recettore e della biosintesi; definisce la classe di farmaci |
+| [37919464](https://pubmed.ncbi.nlm.nih.gov/37919464/) | 2023 | Preclinico | Sci Rep | Il polisaccaride di Ganoderma lucidum sensibilizza le cellule del carcinoma prostatico a flutamide e docetaxel in vitro; i saggi di citotossicità MTT dimostrano effetti anti-proliferativi sinergici; supporta strategie di combinazione |
+| [30400755](https://pubmed.ncbi.nlm.nih.gov/30400755/) | 2018 | In vitro | Tumour Biol | miRNA-23b e miRNA-27b combinati con flutamide aumentano il tasso di apoptosi e diminuiscono l'espressione di CCNG1 nel carcinoma prostatico resistente alla castrazione (linea cellulare PC-3); intuizione meccanicistica nel superamento della resistenza indipendente dall'AR |
 
 ---
 
-## Cytotoxicity
+## Citotossicità
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Cytotoxicity Classification | Hormone therapy — Non-steroidal antiandrogen (not a conventional cytotoxic agent; androgen receptor antagonist class) |
-| Myelosuppression Risk | Low — Flutamide does not suppress bone marrow; myelotoxicity is not a class effect of antiandrogens |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT, AST, bilirubin) — hepatotoxicity is the primary and serious safety concern; PSA and serum testosterone for treatment response monitoring |
-| Handling Protection | Standard pharmaceutical handling procedures apply; cytotoxic chemotherapy handling regulations are not required |
+| Classificazione della Citotossicità | Terapia ormonale — Antiandrogeno non steroideo (non un agente citotossico convenzionale; classe antagonista del recettore degli androgeni) |
+| Rischio di Mielosoppressione | Basso — La flutamide non sopprime il midollo osseo; la mielotossicità non è un effetto di classe degli antiandrogeni |
+| Classificazione dell'Emetogenicità | Basso |
+| Elementi di Monitoraggio | Test della funzionalità epatica (ALT, AST, bilirubina) — l'epatotossicità è la principale e seria preoccupazione per la sicurezza; PSA e testosterone sierico per il monitoraggio della risposta al trattamento |
+| Protezione nella Manipolazione | Si applicano le procedure di manipolazione farmaceutica standard; i regolamenti di manipolazione della chemioterapia citotossica non sono richiesti |
 
 ---
 
-## Safety Considerations
+## Considerazioni sulla Sicurezza
 
-Please refer to the package insert for safety information.
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Procedi con Guardrails**
 
-**Rationale:**
-Multiple Phase 2–4 randomized controlled trials — including a direct Phase 4 head-to-head comparison of Flutamide vs. enzalutamide in CRPC (NCT02918968, N=206) and several large Phase 3 studies where Flutamide-based total androgen blockade is a standard treatment arm — demonstrate meaningful evidence of efficacy in male reproductive organ cancer. The AR-blockade mechanism is scientifically robust and directly maps to the target disease's oncogenic driver. The primary barrier to proceeding is the complete absence of Italian (AIFA) marketing authorization and the unavailability of formal safety documentation in the current Evidence Pack.
+**Razionale:**
+Molteplici studi controllati randomizzati di Fase 2–4 — incluso un confronto testa a testa diretto di Fase 4 di flutamide vs. enzalutamide nel CRPC (NCT02918968, N=206) e diversi ampi studi di Fase 3 in cui il blocco totale degli androgeni basato su flutamide è un braccio di trattamento standard — dimostrano prove significative di efficacia nel carcinoma degli organi riproduttivi maschili. Il meccanismo di blocco dell'AR è scientificamente solido e si mappa direttamente al driver oncogenico della malattia target. La barriera principale al procedere è l'assenza completa di autorizzazione al commercio italiana (AIFA) e l'indisponibilità di documentazione di sicurezza formale nell'Evidence Pack attuale.
 
-**To proceed, the following is needed:**
-- **Italian regulatory pathway**: Determine whether an AIFA Marketing Authorization Application (MAA) or an EU mutual recognition/decentralized procedure is applicable, and identify the appropriate indication label scope
-- **Full Italian package insert**: Obtain and formally review warnings, contraindications (particularly severe hepatic impairment), and drug-drug interactions — Flutamide carries a known risk of serious, sometimes fatal hepatotoxicity
-- **Hepatotoxicity risk management plan**: Establish a liver function monitoring schedule (baseline LFTs, monthly for first 4 months, then periodically), patient exclusion criteria, and patient/prescriber education materials
-- **Comparative positioning analysis**: Evaluate Flutamide's clinical place relative to newer-generation antiandrogens (enzalutamide, apalutamide, darolutamide) that are already AIFA-authorized, particularly for CRPC and non-metastatic CRPC settings
-- **Mechanism of action documentation**: Retrieve complete DrugBank MOA data (DG002) to support the regulatory submission narrative
-- **Target population definition**: Define the specific patient subgroup offering the clearest benefit-risk advantage (e.g., CRPC following bicalutamide failure, neoadjuvant setting, or cost-sensitive markets where newer agents are inaccessible)
+**Per procedere, è necessario quanto segue:**
+- **Via normativa italiana**: Determinare se un'Applicazione di Autorizzazione al Commercio AIFA (MAA) o una procedura di mutuo riconoscimento/decentralizzato dell'UE è applicabile, e identificare l'ambito appropriato dell'etichetta dell'indicazione
+- **Foglio illustrativo italiano completo**: Ottenere e revisionare formalmente avvertimenti, controindicazioni (in particolare compromissione epatica grave) e interazioni farmaco-farmaco — La flutamide comporta un rischio noto di epatotossicità seria, talvolta fatale
+- **Piano di gestione del rischio di epatotossicità**: Stabilire un programma di monitoraggio della funzionalità epatica (LFT basale, mensile per i primi 4 mesi, poi periodicamente), criteri di esclusione dei pazienti e materiali educativi per pazienti/prescrittori
+- **Analisi di posizionamento comparativo**: Valutare la posizione clinica della flutamide rispetto agli antiandrogeni di nuova generazione (enzalutamide, apalutamide, darolutamide) già autorizzati da AIFA, in particolare per le impostazioni CRPC e CRPC non metastatico
+- **Documentazione del meccanismo d'azione**: Recuperare i dati completi del MOA di DrugBank (DG002) per supportare il racconto della presentazione normativa
+- **Definizione della popolazione target**: Definire il sottogruppo specifico di pazienti che offre il più chiaro vantaggio beneficio-rischio (ad es. CRPC dopo il fallimento della bicalutamide, impostazione neoadiuvante, o mercati sensibili ai costi dove i nuovi agenti sono inaccessibili)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

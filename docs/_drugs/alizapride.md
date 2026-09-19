@@ -29,90 +29,89 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Alizapride: Drug Repurposing Evaluation Report
+# Alizapride: Rapporto di valutazione del repositioning farmacologico
 
-## One-Sentence Summary
+## Riepilogo in una frase
 
-Alizapride is a benzamide-derivative dopamine antagonist antiemetic (DrugBank ID: DB01425), not currently marketed in Taiwan.
-The TxGNN model has **no predicted new indications** for this drug at present,
-and the evidence pack contains **0 clinical trials** and **0 publications** to support any repurposing direction.
+L'alizapride è un antiemetico antagonista dopaminergico derivato da benzamide (ID DrugBank: DB01425), attualmente non commercializzato a Taiwan. Il modello TxGNN non ha **indicazioni predette nuove** per questo farmaco al momento, e il pacchetto di prove contiene **0 studi clinici** e **0 pubblicazioni** per supportare alcuna direzione di repositioning.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not available (no TFDA-approved indications on record) |
-| Predicted New Indication | None — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione originale | Non disponibile (nessuna indicazione approvata da TFDA in archivio) |
+| Indicazione predetta nuova | Nessuna — nessuna previsione TxGNN disponibile |
+| Punteggio di previsione TxGNN | N/A |
+| Livello di evidenza | L5 (Nessuna previsione o studi di supporto) |
+| Stato del mercato taiwanese | ✗ Non commercializzato (Non commercializzato) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospeso** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack. Based on known pharmacological information, Alizapride is a substituted benzamide that acts as a dopamine D₂ receptor antagonist. It is used in some countries (primarily in Europe) as an antiemetic for the management of nausea and vomiting, including chemotherapy-induced and postoperative nausea.
+Attualmente, i dati dettagliati del meccanismo d'azione (MOA) non sono disponibili nel pacchetto di prove. Basandosi su informazioni farmacologiche note, l'alizapride è una benzamide sostituita che agisce come antagonista del recettore dopaminergico D₂. È utilizzato in alcuni paesi (principalmente in Europa) come antiemetico per la gestione della nausea e del vomito, inclusi la nausea indotta da chemioterapia e quella postoperatoria.
 
-However, **no TxGNN-predicted new indications were generated** for Alizapride. The `predicted_indications` array is empty, meaning the graph neural network model did not identify any high-confidence repurposing candidates for this compound at the current data cutoff (2026-04-03).
+Tuttavia, **nessuna nuova indicazione predetta da TxGNN è stata generata** per l'alizapride. L'array `predicted_indications` è vuoto, il che significa che il modello di rete neurale del grafo non ha identificato candidati ad alta fiducia per il repositioning per questo composto alla data attuale di taglio dei dati (2026-04-03).
 
-Without a predicted indication, a mechanistic plausibility analysis cannot be performed. Further data enrichment — particularly the drug's MOA details from DrugBank and regulatory label information — may enable future prediction runs to yield actionable results.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Senza un'indicazione predetta, non può essere eseguita un'analisi di plausibilità meccanicistica. Un ulteriore arricchimento dei dati — in particolare i dettagli del MOA del farmaco da DrugBank e le informazioni sull'etichetta normativa — potrebbe consentire ai cicli di previsione futuri di generare risultati utilizzabili.
 
 ---
 
-## Literature Evidence
+## Prove da studi clinici
 
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Alizapride has **no TFDA marketing authorizations** in Taiwan. There are no registered licenses, product names, or approved dosage forms on record.
+Attualmente nessuna prova clinica correlata registrata.
 
 ---
 
-## Safety Considerations
+## Prove dalla letteratura
 
-> Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile.
+
+---
+
+## Informazioni sul mercato taiwanese
+
+L'alizapride non ha **autorizzazioni di commercializzazione TFDA** a Taiwan. Non ci sono licenze registrate, nomi di prodotto o forme farmaceutiche approvate in archivio.
+
+---
+
+## Considerazioni sulla sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> Note: TFDA package insert data, key warnings, contraindications, and drug–drug interaction data were all queried but returned no results for Alizapride. This is consistent with the drug not being marketed in Taiwan.
+> Nota: i dati del foglio illustrativo TFDA, le avvertenze principali, le controindicazioni e i dati sulle interazioni farmacologiche sono stati tutti interrogati ma non hanno restituito risultati per l'alizapride. Questo è coerente con il fatto che il farmaco non è commercializzato a Taiwan.
 
 ---
 
-## Data Gaps Summary
+## Riepilogo dei gap di dati
 
-The following critical data gaps were identified in this evidence pack:
+I seguenti gap di dati critici sono stati identificati in questo pacchetto di prove:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
+| ID gap | Categoria | Elemento | Gravità | Impatto | Rimedio |
 |--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot proceed to S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+| DG001 | Livello farmaco | Avvertenze del foglio illustrativo TFDA / Controindicazioni | **Bloccante** | Impossibile procedere allo screening di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello farmaco | Meccanismo d'azione (MOA) | Elevata | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API di DrugBank |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e passaggi successivi
 
-**Decision: Hold**
+**Decisione: Sospeso**
 
-**Rationale:**
-No TxGNN-predicted indications exist for Alizapride, the drug is not marketed in Taiwan (0 authorizations), and critical safety data (warnings, contraindications) is entirely missing. There is insufficient evidence to support any repurposing evaluation at this time.
+**Razionale:**
+Non esistono indicazioni predette da TxGNN per l'alizapride, il farmaco non è commercializzato a Taiwan (0 autorizzazioni), e i dati critici sulla sicurezza (avvertenze, controindicazioni) sono completamente mancanti. Non ci sono prove sufficienti per supportare alcuna valutazione di repositioning al momento.
 
-**To proceed, the following is needed:**
-- Resolve **DG001 (Blocking)**: Obtain TFDA package insert warnings and contraindications, or source equivalent safety data from EMA/FDA databases since the drug is marketed in Europe
-- Resolve **DG002 (High)**: Retrieve detailed MOA data from DrugBank API to enable mechanistic analysis
-- Re-run TxGNN prediction pipeline after enriching the drug's knowledge graph representation with MOA, target, and pathway data
-- Evaluate whether Alizapride's dopamine D₂ antagonist profile yields viable repurposing candidates in a subsequent prediction cycle
-- Consider sourcing regulatory and clinical data from EMA (European Medicines Agency), as Alizapride has market presence in select European countries
+**Per procedere, è necessario quanto segue:**
+- Risolvere **DG001 (Bloccante)**: Ottenere avvertenze e controindicazioni dal foglio illustrativo TFDA, o reperire dati di sicurezza equivalenti dai database EMA/FDA poiché il farmaco è commercializzato in Europa
+- Risolvere **DG002 (Elevata)**: Recuperare dati dettagliati del MOA dall'API di DrugBank per consentire l'analisi meccanicistica
+- Rieseguire la pipeline di previsione TxGNN dopo aver arricchito la rappresentazione del grafo della conoscenza del farmaco con i dati di MOA, target e pathway
+- Valutare se il profilo di antagonista dopaminergico D₂ dell'alizapride produce candidati viabili per il repositioning in un ciclo di previsione successivo
+- Considerare il reperimento di dati normativi e clinici dall'EMA (Agenzia europea dei medicinali), poiché l'alizapride ha una presenza di mercato in alcuni paesi europei
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

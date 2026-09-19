@@ -29,98 +29,99 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Lurasidone: From Schizophrenia to Manic Bipolar Affective Disorder
+# Lurasidone: Dalla Schizofrenia al Disturbo Bipolare Affettivo Maniacale
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Lurasidone (brand name Latuda) is a second-generation atypical antipsychotic, FDA-approved for schizophrenia and acute bipolar I depression, but not currently registered in the local market.
-The TxGNN model predicts it may be highly effective for **Manic Bipolar Affective Disorder**, with **15 clinical trials** and **19 publications** currently supporting this direction — including multiple large-scale completed Phase 3 RCTs involving thousands of patients.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered locally (FDA-approved for schizophrenia and bipolar I depression) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Lurasidone (nome commerciale Latuda) è un antipsicotico atipico di seconda generazione, approvato dalla FDA per la schizofrenia e la depressione bipolare I acuta, ma attualmente non registrato nel mercato locale.
+Il modello TxGNN prevede che possa essere altamente efficace per il **Disturbo Bipolare Affettivo Maniacale**, con **15 studi clinici** e **19 pubblicazioni** che attualmente supportano questo orientamento — inclusi molteplici ampi studi di fase 3 completati che coinvolgono migliaia di pazienti.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available in the evidence package. Based on known pharmacological information, Lurasidone is a second-generation atypical antipsychotic with a distinctive multi-receptor binding profile: dopamine D2 receptor antagonism, serotonin 5-HT2A antagonism, 5-HT7 antagonism, and 5-HT1A partial agonism. This receptor signature is strikingly similar to other atypical antipsychotics that carry approved bipolar disorder indications — including quetiapine, olanzapine, and aripiprazole.
-
-D2 receptor blockade is the established cornerstone of anti-manic pharmacotherapy. Lurasidone's additional 5-HT7 antagonism is thought to contribute to mood stabilization, while 5-HT1A partial agonism modulates prefrontal dopamine release, supporting improvements in cognitive function and affective regulation. Together, these mechanisms align directly with the neurobiological basis of bipolar disorder, in which dysregulation of dopaminergic and serotonergic circuits underlies both manic and depressive phases.
-
-Critically, Lurasidone already holds FDA approval for acute bipolar I depression — supported by a robust body of Phase 3 trial evidence generated directly in bipolar populations. The TxGNN model's prediction of efficacy in manic bipolar affective disorder represents a logical extension of this established therapeutic range, grounded in mechanistic plausibility and substantial direct clinical evidence. This is therefore not a speculative prediction but a well-anchored one.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT01358357](https://clinicaltrials.gov/study/NCT01358357) | Phase 3 | Completed | 965 | Lurasidone adjunctive to lithium or divalproex for prevention of recurrence in Bipolar I Disorder — large-scale double-blind, placebo-controlled RCT with and without rapid cycling/psychotic features |
-| [NCT01914393](https://clinicaltrials.gov/study/NCT01914393) | Phase 3 | Completed | 702 | 104-week open-label extension evaluating long-term safety, tolerability, and effectiveness of flexibly dosed lurasidone in pediatric subjects across preceding bipolar studies |
-| [NCT01986114](https://clinicaltrials.gov/study/NCT01986114) | Phase 3 | Completed | 495 | SM-13496 (Lurasidone, Japan study name) long-term efficacy and safety in Bipolar I Disorder — key bridging data for Asian populations |
-| [NCT01986101](https://clinicaltrials.gov/study/NCT01986101) | Phase 3 | Completed | 525 | SM-13496 (Lurasidone) vs placebo for Bipolar I Depression — double-blind RCT providing additional Asian bridging evidence |
-| [NCT02046369](https://clinicaltrials.gov/study/NCT02046369) | Phase 3 | Completed | 350 | Lurasidone in children and adolescents (10–17 years) with Bipolar I Depression — 6-week double-blind, placebo-controlled, flexible-dose study |
-| [NCT01575561](https://clinicaltrials.gov/study/NCT01575561) | Phase 3 | Completed | 377 | Open-label 12-week extension of lurasidone adjunctive to lithium or divalproex in Bipolar I Disorder — longer-term tolerability and effectiveness |
-| [NCT02731612](https://clinicaltrials.gov/study/NCT02731612) | Phase 3 | Completed | 100 | ELICE-BD: double-blind, placebo-controlled RCT assessing lurasidone adjunctive therapy for cognitive functioning in euthymic Bipolar I/II patients |
-| [NCT02147379](https://clinicaltrials.gov/study/NCT02147379) | Phase 3 | Completed | 53 | Randomised open-label study of lurasidone vs treatment as usual on cognitive functioning in euthymic Bipolar I patients with cognitive impairment |
-| [NCT06433635](https://clinicaltrials.gov/study/NCT06433635) | Phase 4 | Active, Not Recruiting | 2,726 | SMART pragmatic trial comparing lurasidone, cariprazine, quetiapine, and aripiprazole/escitalopram in bipolar depression (Types I & II) — largest ongoing real-world comparative study |
-| [NCT04383691](https://clinicaltrials.gov/study/NCT04383691) | Phase 3 | Terminated | 124 | Lurasidone vs placebo for Bipolar I Depression — double-blind placebo-controlled design; terminated early before target sample size, results require cautious interpretation |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Non registrato localmente (approvato dalla FDA per la schizofrenia e la depressione bipolare I) |
+| Indicazione nuova prevista | Disturbo Bipolare Affettivo Maniacale |
+| Punteggio di previsione TxGNN | 99.98% |
+| Livello di evidenza | L1 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con salvaguardie |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [39557452](https://pubmed.ncbi.nlm.nih.gov/39557452/) | 2024 | Systematic Review + Meta-analysis | BMJ Mental Health | Dose-response meta-analysis of lurasidone in bipolar depression — defines optimal dosing for efficacy, acceptability, and metabolic/endocrine safety |
-| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Network Meta-analysis | The Lancet Psychiatry | Comparative efficacy and tolerability of pharmacological interventions for acute bipolar depression — lurasidone ranks among best-evidenced treatment options |
-| [33177610](https://pubmed.ncbi.nlm.nih.gov/33177610/) | 2021 | Systematic Review | Molecular Psychiatry | Network meta-analysis of mood stabilizers and antipsychotics for bipolar disorder maintenance — comprehensive evidence synthesis |
-| [29536616](https://pubmed.ncbi.nlm.nih.gov/29536616/) | 2018 | Clinical Practice Guideline | Bipolar Disorders | CANMAT/ISBD 2018 international guidelines for bipolar disorder management — lurasidone included as first-line recommendation for bipolar depression |
-| [34599629](https://pubmed.ncbi.nlm.nih.gov/34599629/) | 2021 | Clinical Practice Guideline | Bipolar Disorders | CANMAT/ISBD 2021 recommendations for bipolar disorder with mixed presentations — specific guidance on treatment selection including antipsychotics |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Comprehensive clinical review of bipolar disorder diagnosis and treatment affecting ~40 million individuals worldwide |
-| [31957501](https://pubmed.ncbi.nlm.nih.gov/31957501/) | 2020 | Review | Expert Opinion on Pharmacotherapy | Expert evaluation of lurasidone pharmacodynamics, pharmacokinetics, and major randomised clinical trials — FDA-approved for schizophrenia and bipolar I depression (monotherapy and adjunct) |
-| [39243127](https://pubmed.ncbi.nlm.nih.gov/39243127/) | 2024 | Review | Medical Science Monitor | Narrative review of lurasidone and other second-generation antipsychotics for bipolar disorder and schizophrenia — mechanism, efficacy, and safety comparison |
-| [36472471](https://pubmed.ncbi.nlm.nih.gov/36472471/) | 2022 | Guideline Review | Journal of Child and Adolescent Psychopharmacology | Updated pharmacological treatment algorithms for manic/mixed and depressed episodes in pediatric bipolar disorder — lurasidone featured as key approved agent |
-| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Review | Asia-Pacific Psychiatry | Review of antipsychotics as antidepressants — quetiapine and lurasidone highlighted as FDA-approved for bipolar depression; receptor profile analysis explaining antidepressant efficacy |
+Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili nel pacchetto di evidenze. Basandosi sulle informazioni farmacologiche note, la lurasidone è un antipsicotico atipico di seconda generazione con un profilo di legame multirecezione distintivo: antagonismo del recettore dopaminergico D2, antagonismo della serotonina 5-HT2A, antagonismo 5-HT7 e agonismo parziale 5-HT1A. Questa firma recettoriale è straordinariamente simile ad altri antipsicotici atipici che portano indicazioni approvate per il disturbo bipolare — inclusi quetiapina, olanzapina e aripiprazolo.
+
+Il blocco del recettore D2 è la pietra miliare consolidata della farmacoterapia antimaniaca. L'antagonismo 5-HT7 aggiuntivo della lurasidone è ritenuto contribuire alla stabilizzazione dell'umore, mentre l'agonismo parziale 5-HT1A modula il rilascio di dopamina prefrontale, supportando miglioramenti nella funzione cognitiva e nella regolazione affettiva. Insieme, questi meccanismi si allineano direttamente alla base neurobiologica del disturbo bipolare, in cui la disregolazione dei circuiti dopaminergici e serotoninergici sottende sia le fasi maniacali che quelle depressive.
+
+In modo critico, la lurasidone detiene già l'approvazione FDA per la depressione bipolare I acuta — supportata da un corpus robusto di evidenze di studi di fase 3 generato direttamente in popolazioni bipolari. La previsione del modello TxGNN dell'efficacia nel disturbo bipolare affettivo maniacale rappresenta un'estensione logica di questo range terapeutico consolidato, radicato nella plausibilità meccanicistica e nelle prove cliniche dirette sostanziali. Non si tratta pertanto di una previsione speculativa ma di una previsione ben ancorata.
 
 ---
 
-## Italy Market Information
+## Evidenze da studi clinici
 
-No authorizations for Lurasidone are currently registered. The drug is not marketed in Italy.
+| Numero dello studio | Fase | Stato | Arruolamento | Risultati chiave |
+|---|---|---|---|---|
+| [NCT01358357](https://clinicaltrials.gov/study/NCT01358357) | Fase 3 | Completato | 965 | Lurasidone aggiuntiva a litio o divalproato per la prevenzione della ricorrenza nel Disturbo Bipolare I — ampio studio RCT in doppio cieco controllato con placebo con e senza ciclismo rapido/caratteristiche psicotiche |
+| [NCT01914393](https://clinicaltrials.gov/study/NCT01914393) | Fase 3 | Completato | 702 | Estensione 104 settimane in open-label valutando la sicurezza a lungo termine, tollerabilità ed efficacia della lurasidone a dose flessibile in soggetti pediatrici negli studi bipolari precedenti |
+| [NCT01986114](https://clinicaltrials.gov/study/NCT01986114) | Fase 3 | Completato | 495 | SM-13496 (Lurasidone, nome dello studio giapponese) efficacia a lungo termine e sicurezza nel Disturbo Bipolare I — dati di bridging chiave per le popolazioni asiatiche |
+| [NCT01986101](https://clinicaltrials.gov/study/NCT01986101) | Fase 3 | Completato | 525 | SM-13496 (Lurasidone) vs placebo per la depressione bipolare I — RCT in doppio cieco fornendo ulteriori evidenze di bridging asiatico |
+| [NCT02046369](https://clinicaltrials.gov/study/NCT02046369) | Fase 3 | Completato | 350 | Lurasidone nei bambini e negli adolescenti (10–17 anni) con depressione bipolare I — studio 6 settimane, in doppio cieco, controllato con placebo, a dose flessibile |
+| [NCT01575561](https://clinicaltrials.gov/study/NCT01575561) | Fase 3 | Completato | 377 | Estensione 12 settimane in open-label della lurasidone aggiuntiva a litio o divalproato nel Disturbo Bipolare I — tollerabilità a più lungo termine ed efficacia |
+| [NCT02731612](https://clinicaltrials.gov/study/NCT02731612) | Fase 3 | Completato | 100 | ELICE-BD: RCT in doppio cieco controllato con placebo valutando la terapia aggiuntiva di lurasidone per il funzionamento cognitivo nei pazienti eurimici Bipolare I/II |
+| [NCT02147379](https://clinicaltrials.gov/study/NCT02147379) | Fase 3 | Completato | 53 | Studio aperto randomizzato di lurasidone vs trattamento abituale sul funzionamento cognitivo nei pazienti Bipolare I eurimici con deficit cognitivo |
+| [NCT06433635](https://clinicaltrials.gov/study/NCT06433635) | Fase 4 | Attivo, non reclutante | 2,726 | Studio pragmatico SMART che confronta lurasidone, cariprazina, quetiapina e aripiprazolo/escitalopram nella depressione bipolare (tipi I e II) — il più grande studio comparativo real-world attualmente in corso |
+| [NCT04383691](https://clinicaltrials.gov/study/NCT04383691) | Fase 3 | Terminato | 124 | Lurasidone vs placebo per la depressione bipolare I — design in doppio cieco controllato con placebo; terminato anticipatamente prima della dimensione campionaria target, i risultati richiedono interpretazione cauta |
 
 ---
 
-## Safety Considerations
+## Evidenze dalla letteratura
 
-Please refer to the package insert for safety information.
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|---|---|---|---|---|
+| [39557452](https://pubmed.ncbi.nlm.nih.gov/39557452/) | 2024 | Revisione sistematica + Meta-analisi | BMJ Mental Health | Meta-analisi dose-risposta della lurasidone nella depressione bipolare — definisce il dosaggio ottimale per l'efficacia, l'accettabilità e la sicurezza metabolica/endocrina |
+| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Network Meta-analysis | The Lancet Psychiatry | Efficacia comparativa e tollerabilità degli interventi farmacologici per la depressione bipolare acuta — la lurasidone si colloca tra le opzioni di trattamento più supportate da evidenze |
+| [33177610](https://pubmed.ncbi.nlm.nih.gov/33177610/) | 2021 | Revisione sistematica | Molecular Psychiatry | Network meta-analysis degli stabilizzatori dell'umore e degli antipsicotici per il mantenimento del disturbo bipolare — sintesi completa di evidenze |
+| [29536616](https://pubmed.ncbi.nlm.nih.gov/29536616/) | 2018 | Linea guida di pratica clinica | Bipolar Disorders | Linee guida internazionali CANMAT/ISBD 2018 per il management del disturbo bipolare — la lurasidone è inclusa come raccomandazione di prima linea per la depressione bipolare |
+| [34599629](https://pubmed.ncbi.nlm.nih.gov/34599629/) | 2021 | Linea guida di pratica clinica | Bipolar Disorders | Raccomandazioni CANMAT/ISBD 2021 per il disturbo bipolare con presentazioni miste — linee guida specifiche sulla selezione del trattamento inclusi gli antipsicotici |
+| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Revisione | JAMA | Revisione clinica completa della diagnosi e del trattamento del disturbo bipolare che interessa ~40 milioni di individui in tutto il mondo |
+| [31957501](https://pubmed.ncbi.nlm.nih.gov/31957501/) | 2020 | Revisione | Expert Opinion on Pharmacotherapy | Valutazione esperta della farmacodinamica della lurasidone, farmacocinetica e principali studi clinici randomizzati — approvato dalla FDA per la schizofrenia e la depressione bipolare I (monoterapia e aggiunta) |
+| [39243127](https://pubmed.ncbi.nlm.nih.gov/39243127/) | 2024 | Revisione | Medical Science Monitor | Revisione narrativa della lurasidone e di altri antipsicotici di seconda generazione per il disturbo bipolare e la schizofrenia — meccanismo, efficacia e confronto di sicurezza |
+| [36472471](https://pubmed.ncbi.nlm.nih.gov/36472471/) | 2022 | Revisione linee guida | Journal of Child and Adolescent Psychopharmacology | Algoritmi di trattamento farmacologico aggiornati per gli episodi maniacali/misti e depressivi nel disturbo bipolare pediatrico — la lurasidone è presentata come agente approvato chiave |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Revisione | Asia-Pacific Psychiatry | Revisione degli antipsicotici come antidepressivi — quetiapina e lurasidone sono evidenziate come approvate dalla FDA per la depressione bipolare; analisi del profilo recettoriale che spiega l'efficacia antidepressiva |
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Proceed with Guardrails**
+Attualmente non ci sono autorizzazioni per la lurasidone registrate. Il farmaco non è commercializzato in Italia.
 
-**Rationale:**
-Multiple completed Phase 3 RCTs with large patient populations (up to 965 participants) directly demonstrate lurasidone's efficacy in bipolar I disorder, and the drug already holds FDA approval for bipolar I depression as both monotherapy and adjunct therapy. The TxGNN prediction score of 99.98% is strongly corroborated by this clinical evidence base, justifying advancement — with monitoring protocols in place given the absence of local regulatory approval and outstanding safety documentation gaps.
+---
 
-**To proceed, the following is needed:**
-- Retrieve complete mechanism of action (MOA) data from DrugBank API (currently a high-severity data gap)
-- Download and parse the local package insert (TFDA/AIFA) to extract safety warnings and contraindications (currently blocking the safety pre-screen)
-- Conduct a formal drug-drug interaction (DDI) assessment — current query returned no data
-- Determine the regulatory pathway for local market authorization (TFDA or AIFA filing strategy)
-- Design a pharmacovigilance and risk management plan covering metabolic parameters, extrapyramidal symptoms, and prolactin elevation monitoring
+## Considerazioni di sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Procedere con salvaguardie**
+
+**Razionale:**
+Molteplici studi di fase 3 completati con grandi popolazioni di pazienti (fino a 965 partecipanti) dimostrano direttamente l'efficacia della lurasidone nel disturbo bipolare I, e il farmaco detiene già l'approvazione FDA per la depressione bipolare I sia come monoterapia che come terapia aggiuntiva. Il punteggio di previsione TxGNN del 99.98% è fortemente corroborato da questa base di evidenze cliniche, giustificando l'avanzamento — con protocolli di monitoraggio in atto data l'assenza di approvazione normativa locale e le lacune di documentazione sulla sicurezza in sospeso.
+
+**Per procedere, è necessario quanto segue:**
+- Recuperare i dati completi del meccanismo d'azione (MOA) dall'API DrugBank (attualmente un gap di dati ad alta gravità)
+- Scaricare e analizzare il foglio illustrativo locale (TFDA/AIFA) per estrarre gli avvertimenti di sicurezza e le controindicazioni (attualmente bloccando la pre-schermatura di sicurezza)
+- Condurre una valutazione formale dell'interazione farmaco-farmaco (DDI) — la query attuale non ha restituito dati
+- Determinare il percorso normativo per l'autorizzazione del mercato locale (strategia di deposito TFDA o AIFA)
+- Progettare un piano di farmacovigilanza e gestione del rischio che copra il monitoraggio dei parametri metabolici, dei sintomi extrapiramidali e dell'elevazione della prolattina
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

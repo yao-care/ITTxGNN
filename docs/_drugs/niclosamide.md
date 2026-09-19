@@ -29,97 +29,94 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation. Now producing the evaluation report from the Evidence Pack.
+# Niclosamide: dall'infezione da tenia alla malattia cardiaca
+
+## Riassunto di una riga
+
+Niclosamide è un farmaco antielmintico approvato dalla FDA originariamente utilizzato per trattare le infezioni da tenia (infezioni elmintiche), classificato come medicinale essenziale dell'OMS.
+Il modello TxGNN predice che potrebbe essere efficace per la **malattia cardiaca**,
+con **3 studi clinici** (tutti ritirati o interrotti) e **15 pubblicazioni** che attualmente supportano questa direzione.
 
 ---
 
-# Niclosamide: From Tapeworm Infection to Heart Disease
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Niclosamide is an FDA-approved anthelmintic drug originally used to treat tapeworm (helminthic) infections, classified as an WHO Essential Medicine.
-The TxGNN model predicts it may be effective for **Heart Disease**,
-with **3 clinical trials** (all withdrawn or terminated) and **15 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Anthelmintic — tapeworm/helminthic infections (cestodiasis) |
-| Predicted New Indication | Heart Disease |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Antielmintico — infezioni da tenia/infezioni elmintiche (cestodiasi) |
+| Indicazione nuova predetta | Malattia cardiaca |
+| Punteggio di predizione TxGNN | 99.88% |
+| Livello di evidenza | L3 |
+| Stato del mercato a Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Trattenere |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Perché questa predizione è ragionevole?
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on known information from the supporting literature, niclosamide is a salicylanilide anthelmintic whose repurposing potential for heart disease rests on several distinct pharmacological pathways identified in recent mechanistic and preclinical research.
+Attualmente, dati dettagliati sul meccanismo d'azione non sono disponibili da DrugBank. Sulla base delle informazioni note dalla letteratura di supporto, niclosamide è un farmaco antielmintico salicilanilide il cui potenziale di riproposta per la malattia cardiaca si basa su diversi percorsi farmacologici distinti identificati nella ricerca meccanicistica e preclinica recente.
 
-Four plausible biological links to cardiac pathology have emerged: **(1) STAT3 inhibition** — niclosamide suppresses STAT3 signaling, which reduces pathological cardiac hypertrophy and attenuates adverse structural remodeling under chronic pressure overload, directly demonstrated in a murine heart failure model (PMID 34736968); **(2) Wnt/β-catenin inhibition** — suppression of this pathway limits cardiac fibrosis and remodeling, a major driver of progressive heart failure; **(3) TMEM16A/F ion channel modulation** — niclosamide modulates calcium-activated chloride channels that regulate vascular tone and platelet procoagulant activity, with potential relevance to hypertension and thrombosis (PMID 38814250, 36684586); and **(4) anti-calcification in valve tissue** — niclosamide inhibits osteogenic transformation of human valvular interstitial cells via the AMPK/mTOR pathway, with possible application to calcific aortic valve disease (PMID 39515588).
+Quattro plausibili collegamenti biologici alla patologia cardiaca hanno emergito: **(1) inibizione di STAT3** — niclosamide sopprime la segnalazione STAT3, che riduce l'ipertrofia cardiaca patologica e attenua il rimodellamento strutturale avverso sotto sovraccarico di pressione cronico, dimostrato direttamente in un modello murino di insufficienza cardiaca (PMID 34736968); **(2) inibizione di Wnt/β-catenina** — la soppressione di questo percorso limita la fibrosi cardiaca e il rimodellamento, un fattore trainante principale dell'insufficienza cardiaca progressiva; **(3) modulazione del canale ionico TMEM16A/F** — niclosamide modula i canali del cloro attivati dal calcio che regolano il tono vascolare e l'attività procoagulante delle piastrine, con potenziale rilevanza per l'ipertensione e la trombosi (PMID 38814250, 36684586); e **(4) anti-calcificazione nel tessuto valvolare** — niclosamide inibisce la trasformazione osteogenica delle cellule interstiziali valvolari umane via il percorso AMPK/mTOR, con possibile applicazione alla malattia valvolare aortica calcifica (PMID 39515588).
 
-Although helminthic infection and cardiac disease appear mechanistically unrelated, niclosamide's broad pleiotropic effects on STAT3, Wnt, mTOR, and mitochondrial uncoupling converge on pathways central to heart failure, valve calcification, and ischemic injury. One important caveat: TMEM16A potentiation has been associated with vasoconstriction (PMID 38814250, 40491382), which may represent an adverse cardiovascular effect that requires careful characterization before any clinical translation.
+Sebbene l'infezione elmintica e la malattia cardiaca sembrino meccanicamente non correlate, gli ampi effetti pleiotropici di niclosamide su STAT3, Wnt, mTOR, e lo scollamento mitocondriale convergono su percorsi centrali all'insufficienza cardiaca, alla calcificazione valvolare, e al danno ischemico. Un importante avvertenza: la potenziazione di TMEM16A è stata associata a vasocostrizione (PMID 38814250, 40491382), che può rappresentare un effetto cardiovascolare avverso che richiede una caratterizzazione attenta prima di qualsiasi traduzione clinica.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza degli studi clinici
 
-> ⚠️ **Important:** None of the three identified trials were designed to evaluate niclosamide specifically for heart disease. All are withdrawn or terminated. Indirect relevance to cardiac outcomes comes through COVID-19–associated cardiac injury mechanisms. Dedicated heart disease trials are currently absent.
+> ⚠️ **Importante:** Nessuno dei tre studi identificati è stato progettato per valutare niclosamide specificamente per la malattia cardiaca. Tutti sono stati ritirati o interrotti. La rilevanza indiretta agli esiti cardiaci proviene attraverso i meccanismi di danno cardiaco associati a COVID-19. Gli studi dedicati sulla malattia cardiaca sono attualmente assenti.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero dello studio | Fase | Stato | Arruolamento | Risultati chiave |
 |-------------|-------|--------|------------|--------------|
-| [NCT03521232](https://clinicaltrials.gov/study/NCT03521232) | Phase 1/2 | Terminated | 27 | Open-label study of niclosamide enemas (150 mg and 450 mg) in mild-to-moderate ulcerative proctitis/procto-sigmoiditis; the only trial with actual patient enrollment — provides preliminary safety and pharmacokinetic data. Termination reasons require clarification to assess safety signal risk. |
-| [NCT04542434](https://clinicaltrials.gov/study/NCT04542434) | Phase 2 | Withdrawn | 0 | Randomized, double-blind, placebo-controlled study of oral niclosamide in adults with moderate COVID-19 with gastrointestinal symptoms; withdrawn before any enrollment. Study design confirms community recognition of niclosamide's Phase 2 potential but yields no efficacy or safety data. |
-| [NCT04372082](https://clinicaltrials.gov/study/NCT04372082) | Phase 3 | Withdrawn | 0 | Combination of hydroxychloroquine + diltiazem + niclosamide for mild COVID-19 in patients with comorbidities including cardiovascular disease; withdrawn before enrollment. Indirect relevance to cardiac outcomes only through COVID-19 complication prevention. |
+| [NCT03521232](https://clinicaltrials.gov/study/NCT03521232) | Fase 1/2 | Interrotto | 27 | Studio open-label di clisteri di niclosamide (150 mg e 450 mg) in proctite/procto-sigmoidite ulcerosa lieve-moderata; l'unico studio con effettivo arruolamento di pazienti — fornisce dati preliminari di sicurezza e farmacocinetica. Le ragioni dell'interruzione richiedono chiarimento per valutare il rischio del segnale di sicurezza. |
+| [NCT04542434](https://clinicaltrials.gov/study/NCT04542434) | Fase 2 | Ritirato | 0 | Studio randomizzato, in doppio cieco, controllato con placebo di niclosamide orale negli adulti con COVID-19 moderato con sintomi gastrointestinali; ritirato prima di qualsiasi arruolamento. La progettazione dello studio conferma il riconoscimento della comunità del potenziale della Fase 2 di niclosamide ma non fornisce dati di efficacia o sicurezza. |
+| [NCT04372082](https://clinicaltrials.gov/study/NCT04372082) | Fase 3 | Ritirato | 0 | Combinazione di idrossiclorochina + diltiazem + niclosamide per COVID-19 lieve nei pazienti con comorbidità comprese le malattie cardiovascolari; ritirato prima dell'arruolamento. Rilevanza indiretta agli esiti cardiaci solo attraverso la prevenzione delle complicanze di COVID-19. |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|------|------|---------|--------------|
-| [34736968](https://pubmed.ncbi.nlm.nih.gov/34736968/) | 2021 | Animal study (murine) | European Journal of Pharmacology | **Most direct evidence:** niclosamide attenuates pressure-overload induced heart failure in mice by enhancing mitochondrial respiration and ATP production in cardiomyocytes |
-| [39515588](https://pubmed.ncbi.nlm.nih.gov/39515588/) | 2024 | In vitro (human cells) | Biochemical Pharmacology | Niclosamide inhibits calcification of human valvular interstitial cells via AMPK/mTOR suppression; supports application in calcific aortic valve disease |
-| [38288981](https://pubmed.ncbi.nlm.nih.gov/38288981/) | 2024 | Nanoplatform study | ACS Applied Materials & Interfaces | Platelet-membrane-encapsulated niclosamide nanoparticles suppress ROS and activate STAT3/Bcl-2 pathway to protect against myocardial injury in mice |
-| [38814250](https://pubmed.ncbi.nlm.nih.gov/38814250/) | 2024 | Mechanistic study | Journal of General Physiology | Niclosamide potentiates TMEM16A under physiological Ca²⁺ levels, inducing vasoconstriction — indicates complex vascular effects and a potential safety concern |
-| [39102426](https://pubmed.ncbi.nlm.nih.gov/39102426/) | 2024 | Mechanistic/Translational | PLoS Pathogens | SARS-CoV-2 spike-induced senescent syncytia contribute to exacerbated heart failure; niclosamide's TMEM16 inhibition may limit syncytia-mediated cardiac injury in long COVID |
-| [36684586](https://pubmed.ncbi.nlm.nih.gov/36684586/) | 2022 | In vitro mechanistic | Frontiers in Cardiovascular Medicine | SARS-CoV-2 spike activates TMEM16F-mediated platelet procoagulant activity (thrombosis); niclosamide identified as one of the most effective inhibitors in an FDA/EMA-approved drug screen of >3,000 compounds |
-| [33827113](https://pubmed.ncbi.nlm.nih.gov/33827113/) | 2021 | In vitro mechanistic | Nature | Niclosamide (as TMEM16 inhibitor) blocks SARS-CoV-2 spike–induced multinucleated syncytia in pneumocytes; implicates TMEM16 axis in COVID-19–related pulmonary and cardiac pathology |
-| [41453737](https://pubmed.ncbi.nlm.nih.gov/41453737/) | 2026 | Mechanistic | American Journal of Transplantation | TMEM16F-CLIC1 interaction mediates recipient dendritic cell cross-decoration following heart transplantation; niclosamide's TMEM16 modulation may have implications for transplant rejection |
-| [40133574](https://pubmed.ncbi.nlm.nih.gov/40133574/) | 2025 | Bioinformatics/scRNA-seq | Scientific Reports | Identifies Hippo pathway biomarkers (NAMPT, CXCL1, CREM) in acute myocardial infarction subtypes; provides genomic context for niclosamide's Wnt/STAT3 inhibition as a cardioprotective target |
-| [29736201](https://pubmed.ncbi.nlm.nih.gov/29736201/) | 2018 | Animal study | American Journal of Translational Research | Niclosamide ethanolamine salt improves type 1 diabetes and diabetic kidney disease in mice; metabolic benefits are indirectly relevant to diabetic cardiomyopathy prevention |
+| [34736968](https://pubmed.ncbi.nlm.nih.gov/34736968/) | 2021 | Studio animale (murino) | European Journal of Pharmacology | **Evidenza più diretta:** niclosamide attenua l'insufficienza cardiaca indotta da sovraccarico di pressione nei topi migliorando la respirazione mitocondriale e la produzione di ATP nei cardiomiociti |
+| [39515588](https://pubmed.ncbi.nlm.nih.gov/39515588/) | 2024 | In vitro (cellule umane) | Biochemical Pharmacology | Niclosamide inibisce la calcificazione delle cellule interstiziali valvolari umane via la soppressione di AMPK/mTOR; supporta l'applicazione nella malattia valvolare aortica calcifica |
+| [38288981](https://pubmed.ncbi.nlm.nih.gov/38288981/) | 2024 | Studio di nanoplattaforma | ACS Applied Materials & Interfaces | Le nanoparticelle di niclosamide incapsulate in membrana piastrinica sopprimono ROS e attivano il percorso STAT3/Bcl-2 per proteggere dal danno miocardico nei topi |
+| [38814250](https://pubmed.ncbi.nlm.nih.gov/38814250/) | 2024 | Studio meccanistico | Journal of General Physiology | Niclosamide potenzia TMEM16A a livelli fisiologici di Ca²⁺, inducendo vasocostrizione — indica effetti vascolari complessi e una potenziale preoccupazione di sicurezza |
+| [39102426](https://pubmed.ncbi.nlm.nih.gov/39102426/) | 2024 | Meccanistico/Traslazionale | PLoS Pathogens | I sincizi senescenti indotti da spike di SARS-CoV-2 contribuiscono all'insufficienza cardiaca esacerbata; l'inibizione di TMEM16 da niclosamide può limitare il danno cardiaco mediato dai sincizi nel COVID lungo |
+| [36684586](https://pubmed.ncbi.nlm.nih.gov/36684586/) | 2022 | Meccanistico in vitro | Frontiers in Cardiovascular Medicine | Lo spike di SARS-CoV-2 attiva l'attività procoagulante delle piastrine mediata da TMEM16F (trombosi); niclosamide identificata come uno degli inibitori più efficaci in uno screening farmacologico approvato da FDA/EMA di >3.000 composti |
+| [33827113](https://pubmed.ncbi.nlm.nih.gov/33827113/) | 2021 | Meccanistico in vitro | Nature | Niclosamide (come inibitore di TMEM16) blocca i sincizi multinucleati indotti dallo spike di SARS-CoV-2 nei pneumociti; implica l'asse TMEM16 nella patologia polmonare e cardiaca correlata a COVID-19 |
+| [41453737](https://pubmed.ncbi.nlm.nih.gov/41453737/) | 2026 | Meccanistico | American Journal of Transplantation | L'interazione TMEM16F-CLIC1 media la cross-decorazione delle cellule dendritiche del ricevente dopo il trapianto cardiaco; la modulazione di TMEM16 da niclosamide può avere implicazioni per il rigetto del trapianto |
+| [40133574](https://pubmed.ncbi.nlm.nih.gov/40133574/) | 2025 | Bioinformatica/scRNA-seq | Scientific Reports | Identifica i biomarcatori del percorso Hippo (NAMPT, CXCL1, CREM) nei sottotipi di infarto miocardico acuto; fornisce il contesto genomico per l'inibizione di Wnt/STAT3 di niclosamide come bersaglio cardioprotezione |
+| [29736201](https://pubmed.ncbi.nlm.nih.gov/29736201/) | 2018 | Studio animale | American Journal of Translational Research | Il sale etanolamina di niclosamide migliora il diabete di tipo 1 e la malattia renale diabetica nei topi; i benefici metabolici sono indirettamente rilevanti per la prevenzione della cardiomiopatia diabetica |
 
 ---
 
-## Safety Considerations
+## Considerazioni sulla sicurezza
 
-Please refer to the package insert for safety information.
+Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
 
-> **Additional note:** A vasoconstriction signal from TMEM16A potentiation (PMID 38814250) has been identified in the literature. This represents a potential cardiovascular adverse effect that should be specifically evaluated in any future cardiac indication development program, particularly in patients with hypertension or coronary artery disease.
+> **Nota aggiuntiva:** Un segnale di vasocostrizione dalla potenziazione di TMEM16A (PMID 38814250) è stato identificato nella letteratura. Questo rappresenta un potenziale effetto avverso cardiovascolare che dovrebbe essere specificamente valutato in qualsiasi futuro programma di sviluppo dell'indicazione cardiaca, in particolare nei pazienti con ipertensione o malattia coronarica.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e prossimi passi
 
-**Decision: Hold**
+**Decisione: Trattenere**
 
-**Rationale:**
-Despite compelling mechanistic hypotheses and direct animal-model evidence for heart failure (PMID 34736968), there are currently no completed clinical trials evaluating niclosamide for any heart disease indication, package insert safety data is unavailable for review, and the drug is not marketed in Taiwan. The evidence base remains at the preclinical/mechanistic stage (L3), insufficient to justify advancing toward clinical development without additional foundational work.
+**Motivazione:**
+Nonostante le ipotesi meccanicistiche convincenti e l'evidenza diretta da modello animale per l'insufficienza cardiaca (PMID 34736968), attualmente non ci sono studi clinici completati che valutano niclosamide per qualsiasi indicazione di malattia cardiaca, i dati di sicurezza del foglio illustrativo non sono disponibili per la revisione, e il farmaco non è commercializzato a Taiwan. La base di evidenza rimane nella fase preclinica/meccanicistica (L3), insufficiente per giustificare l'avanzamento verso lo sviluppo clinico senza ulteriori lavori fondamentali.
 
-**To proceed, the following is needed:**
+**Per procedere, è necessario quanto segue:**
 
-- **Safety data retrieval:** Obtain and review the full niclosamide package insert (TFDA/FDA/EMA) for warnings, contraindications, and organ toxicity profile — currently a blocking data gap
-- **Vascular safety clarification:** Characterize the TMEM16A potentiation–vasoconstriction interaction (PMID 38814250) in a cardiovascular safety study before exposing cardiac patients
-- **MOA confirmation:** Query DrugBank (DB06803) for complete mechanism of action, target binding profile, and pharmacokinetic data
-- **Drug-drug interaction assessment:** Screen for interactions relevant to cardiac co-medications (antihypertensives, anticoagulants, antiplatelets, statins)
-- **Focused preclinical program:** Establish a dose-response and tolerability profile specifically in validated cardiac disease models (pressure-overload HF, calcific aortic valve disease)
-- **Regulatory pathway scoping:** Assess feasibility of a new indication filing in Taiwan or other jurisdictions given current zero-license status
-- **Phase 1 study design:** Upon satisfactory preclinical safety, design a dedicated Phase 1 cardiac trial (suggested target: heart failure with reduced ejection fraction or calcific aortic valve disease) with biomarker endpoints (STAT3 activity, echocardiographic parameters, valve calcification scores)
+- **Recupero dei dati di sicurezza:** Ottenere e rivedere il foglio illustrativo completo di niclosamide (TFDA/FDA/EMA) per avvertenze, controindicazioni, e profilo di tossicità degli organi — attualmente un gap di dati bloccante
+- **Chiarimento della sicurezza vascolare:** Caratterizzare l'interazione potenziazione TMEM16A–vasocostrizione (PMID 38814250) in uno studio di sicurezza cardiovascolare prima di esporre i pazienti cardiaci
+- **Conferma del MOA:** Interrogare DrugBank (DB06803) per il meccanismo d'azione completo, profilo di binding del bersaglio, e dati farmacocinetici
+- **Valutazione delle interazioni farmaco-farmaco:** Screening per le interazioni rilevanti ai farmaci co-somministrati cardiaci (antipertensivi, anticoagulanti, antiaggreganti, statine)
+- **Programma preclinico focalizzato:** Stabilire un profilo di dose-risposta e tollerabilità specificamente in modelli validati di malattia cardiaca (HF da sovraccarico di pressione, malattia valvolare aortica calcifica)
+- **Ambito del percorso normativo:** Valutare la fattibilità di un deposito di nuova indicazione a Taiwan o in altre giurisdizioni dato lo stato di zero-licenza attuale
+- **Progettazione dello studio di Fase 1:** Su sicurezza preclinica soddisfacente, progettare uno studio clinico dedicato di Fase 1 cardiaca (bersaglio suggerito: insufficienza cardiaca con frazione di eiezione ridotta o malattia valvolare aortica calcifica) con endpoint di biomarcatori (attività di STAT3, parametri ecocardiografici, punteggi di calcificazione valvolare)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,67 +29,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Emicizumab: Repurposing Evaluation — Insufficient Data for Full Assessment
+# Emicizumab: Valutazione del Riutilizzo Terapeutico — Dati Insufficienti per la Valutazione Completa
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Emicizumab (DB13923) is a bispecific antibody recognized internationally for hemophilia A prophylaxis, but this Evidence Pack contains **no TxGNN-predicted indications** and critical data gaps across mechanism of action, safety warnings, and regulatory filings.
-Without predicted indications, a standard repurposing pathway evaluation cannot be completed at this time.
-The recommended decision is **Hold** pending data remediation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in this Evidence Pack |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (model pipeline produced no output) |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Emicizumab (DB13923) è un anticorpo biespecifico riconosciuto a livello internazionale per la profilassi dell'emofilia A, tuttavia questo pacchetto di evidenze **non contiene indicazioni previste da TxGNN** e presenta lacune critiche di dati per quanto riguarda il meccanismo d'azione, gli avvertimenti di sicurezza e le domande di autorizzazione normativa.
+Senza indicazioni previste, non è possibile completare una valutazione del percorso di riutilizzo standard in questo momento.
+La decisione consigliata è **Sospensione** in attesa della correzione dei dati.
 
 ---
 
-## Why Evaluation Cannot Proceed
+## Panoramica Rapida
 
-The Evidence Pack for Emicizumab has three compounding data gaps that block standard evaluation:
-
-**1. No TxGNN predicted indications.** The `predicted_indications` array is empty, meaning the knowledge-graph / deep-learning pipeline did not return any repurposing candidates for this drug. This may occur when the drug's node representation in the TxGNN knowledge graph is incomplete or when it was not included in the training entity set. Without at least one predicted indication, the core repurposing hypothesis does not exist.
-
-**2. Mechanism of action unavailable.** The MOA field is missing, which prevents the mechanistic plausibility analysis that anchors every repurposing argument. Emicizumab is publicly known to be an anti-factor IXa/Xa bispecific antibody, but this must be confirmed from a structured data source (DrugBank API) before it can be cited in a formal evaluation.
-
-**3. No regulatory filings in Taiwan.** With zero TFDA licenses and no package insert data retrieved, the local safety baseline (warnings, contraindications, dosing) is absent. The DDI query also returned no results.
-
----
-
-## Taiwan Market Information
-
-No TFDA authorizations found. Emicizumab has not been registered in Taiwan as of the data cut-off date (2026-04-20).
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originale | Non disponibile in questo pacchetto di evidenze |
+| Indicazione Nuova Prevista | Nessuna previsione generata |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Prova | L5 (la pipeline del modello non ha prodotto output) |
+| Stato del Mercato Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Sospensione** |
 
 ---
 
-## Safety Considerations
+## Perché la Valutazione Non Può Procedere
 
-Please refer to the package insert and internationally approved labeling (FDA/EMA) for safety information, as no Taiwan-specific safety data was available in this Evidence Pack.
+Il pacchetto di evidenze per Emicizumab presenta tre lacune di dati che si compongono bloccando la valutazione standard:
+
+**1. Nessuna indicazione prevista da TxGNN.** L'array `predicted_indications` è vuoto, il che significa che la pipeline del grafo della conoscenza / deep learning non ha restituito alcun candidato di riutilizzo per questo farmaco. Ciò può verificarsi quando la rappresentazione del nodo del farmaco nel grafo della conoscenza TxGNN è incompleta o quando il farmaco non è stato incluso nel set di entità di addestramento. Senza almeno un'indicazione prevista, l'ipotesi centrale di riutilizzo non esiste.
+
+**2. Meccanismo d'azione non disponibile.** Il campo MOA è mancante, il che impedisce l'analisi della plausibilità meccanicistica che sostiene ogni argomento di riutilizzo. Emicizumab è pubblicamente noto per essere un anticorpo biespecifico anti-fattore IXa/Xa, ma ciò deve essere confermato da una fonte di dati strutturata (API DrugBank) prima di poter essere citato in una valutazione formale.
+
+**3. Nessuna domanda di autorizzazione normativa in Taiwan.** Con zero licenze TFDA e nessun dato di foglio illustrativo recuperato, il profilo di sicurezza locale (avvertimenti, controindicazioni, dosaggio) è assente. La ricerca delle interazioni farmacologiche ha inoltre restituito nessun risultato.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Taiwan
 
-**Decision: Hold**
+Nessuna autorizzazione TFDA trovata. Emicizumab non è stata registrata a Taiwan alla data di taglio dei dati (2026-04-20).
 
-**Rationale:**
-The TxGNN pipeline generated zero repurposing predictions for Emicizumab, and the two blocking data gaps (MOA and safety warnings) prevent even a preliminary feasibility assessment. There is no actionable repurposing hypothesis to evaluate at this stage.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di Sicurezza
 
-- **[DG001 — Blocking]** Retrieve TFDA package insert PDF and extract warnings and contraindications, enabling S1 safety screening.
-- **[DG002 — High]** Query DrugBank API for Emicizumab (DB13923) to obtain structured MOA, pharmacology, and toxicity data.
-- **Re-run TxGNN pipeline** after confirming that Emicizumab's knowledge graph node (entities, edges, drug–gene–disease links) is fully populated; then re-generate `predicted_indications`.
-- Once predictions are available, re-issue this Evidence Pack with `predicted_indications[0]` populated to trigger a full L1–L5 evidence review.
+Si prega di consultare il foglio illustrativo e l'etichettatura approvata a livello internazionale (FDA/EMA) per informazioni sulla sicurezza, poiché nel pacchetto di evidenze non erano disponibili dati di sicurezza specifici per Taiwan.
+
+---
+
+## Conclusione e Passaggi Successivi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+La pipeline TxGNN ha generato zero previsioni di riutilizzo per Emicizumab, e le due lacune di dati che bloccano (MOA e avvertimenti di sicurezza) impediscono anche una valutazione preliminare della fattibilità. Al momento non esiste alcuna ipotesi di riutilizzo praticabile da valutare.
+
+**Per procedere, è necessario quanto segue:**
+
+- **[DG001 — Bloccante]** Recuperare il PDF del foglio illustrativo TFDA ed estrarre gli avvertimenti e le controindicazioni, permettendo lo screening di sicurezza S1.
+- **[DG002 — Alto]** Interrogare l'API DrugBank per Emicizumab (DB13923) al fine di ottenere dati strutturati su MOA, farmacologia e tossicità.
+- **Ri-eseguire la pipeline TxGNN** dopo aver confermato che il nodo del grafo della conoscenza di Emicizumab (entità, spigoli, link farmaco-gene-malattia) sia completamente popolato; quindi rigenerare `predicted_indications`.
+- Una volta disponibili le previsioni, emetere di nuovo questo pacchetto di evidenze con `predicted_indications[0]` popolato per attivare una revisione della prova L1–L5 completa.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

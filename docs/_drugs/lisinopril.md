@@ -29,90 +29,80 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-使用 `txgnn-pipeline` 確認此為 TW 系列 Evidence Pack 報告任務。現在根據 Evidence Pack JSON 產生報告。
+# Lisinopril: dall'Ipertensione / Insufficienza Cardiaca all'Infarto Miocardico Posterolaterale
 
-**分析重點：**
-- Drug: Lisinopril (DB00722)，ACE 抑制劑，原始 MOA 缺失
-- 最高排名預測：Posterolateral MI（Rank 1，L4，無臨床試驗/文獻）
-- 台灣Not marketed，授權數 0
-- 非抗腫瘤藥物，省略 Cytotoxicity 章節
-- 所有安全性資料均為 Data Gap，使用 fallback 文字
+## Sintesi in una frase
+
+Il Lisinopril è un inibitore dell'ACE consolidato utilizzato a livello mondiale per l'ipertensione, l'insufficienza cardiaca e la gestione dell'infarto miocardico post-acuto, sebbene attualmente non sia registrata alcuna autorizzazione normativa a Taiwan.
+Il modello TxGNN prevede che possa essere efficace per l'**Infarto Miocardico Posterolaterale** — un sottotipo anatomico specifico di IM — con **nessuna sperimentazione clinica dedicata o pubblicazioni** identificate per questo particolare sottotipo al momento.
 
 ---
 
-# Lisinopril: From Hypertension / Heart Failure to Posterolateral Myocardial Infarction
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Lisinopril is a well-established ACE inhibitor used globally for hypertension, heart failure, and post-myocardial infarction management, though no Taiwan regulatory approval is currently on record.
-The TxGNN model predicts it may be effective for **Posterolateral Myocardial Infarction** — a specific anatomical subtype of MI — with **no dedicated clinical trials or publications** identified for this particular subtype at present.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | No Taiwan regulatory record (globally: hypertension, heart failure, acute MI) |
-| Predicted New Indication | Posterolateral Myocardial Infarction |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione Originale | Nessuna registrazione normativa a Taiwan (globalmente: ipertensione, insufficienza cardiaca, IM acuto) |
+| Nuova Indicazione Prevista | Infarto Miocardico Posterolaterale |
+| Punteggio di Predizione TxGNN | 99.90% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato a Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Predizione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Lisinopril is an ACE (Angiotensin-Converting Enzyme) inhibitor that blocks the renin-angiotensin-aldosterone system (RAAS) by preventing the conversion of angiotensin I to angiotensin II. This leads to vasodilation, reduced aldosterone secretion, decreased cardiac afterload, and — critically — suppression of the angiotensin II–mediated myocardial fibrosis and ventricular remodeling that drives adverse outcomes after MI.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. Sulla base della farmacologia consolidata, il Lisinopril è un inibitore dell'ACE (Angiotensin-Converting Enzyme) che blocca il sistema renina-angiotensina-aldosterone (SRAA) prevenendo la conversione dell'angiotensina I in angiotensina II. Questo porta a vasodilatazione, ridotta secrezione di aldosterone, diminuzione del postcarico cardiaco e — in modo critico — soppressione della fibrosi miocardica mediata da angiotensina II e del rimodellamento ventricolare che guida i risultati avversi dopo infarto miocardico.
 
-Posterolateral myocardial infarction is an anatomical subtype typically resulting from occlusion of the circumflex artery, affecting the posterior and lateral walls of the left ventricle. The pathophysiological cascade that follows — neurohormonal activation, RAAS upregulation, and progressive left ventricular remodeling — is fundamentally identical to that seen in any other MI territory. The landmark GISSI-3 randomized trial demonstrated that Lisinopril significantly improved six-week mortality and reduced left ventricular dysfunction across the broad acute MI population, providing strong mechanistic grounds for its applicability to this specific subtype.
+L'infarto miocardico posterolaterale è un sottotipo anatomico tipicamente risultante dall'occlusione dell'arteria circonflessa, che interessa la parete posteriore e laterale del ventricolo sinistro. La cascata fisiopatologica che segue — attivazione neuroumorale, sovraregolazione del SRAA, e progressivo rimodellamento ventricolare sinistro — è fondamentalmente identica a quella osservata in qualsiasi altro territorio di infarto. Lo studio randomizzato landmark GISSI-3 ha dimostrato che il Lisinopril ha migliorato significativamente la mortalità a sei settimane e ha ridotto la disfunzione ventricolare sinistra in tutta la popolazione di IM acuto, fornendo fondamenti meccanicistici forti per la sua applicabilità a questo specifico sottotipo.
 
-The absence of dedicated evidence for posterolateral MI therefore reflects a gap in clinical trial subgroup reporting, not a genuine mechanistic limitation. Current cardiovascular guidelines (ESC, ACC/AHA) recommend ACE inhibitors for all MI patients with reduced ejection fraction or signs of heart failure, without restricting the recommendation by anatomical infarct location.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for posterolateral myocardial infarction specifically.
+L'assenza di evidenza dedicata per l'IM posterolaterale quindi riflette un gap nel reporting dei sottogruppi degli studi clinici, non una genuina limitazione meccanicistica. Le linee guida cardiovascolari attuali (ESC, ACC/AHA) raccomandano gli inibitori dell'ACE per tutti i pazienti con IM con frazione d'eiezione ridotta o segni di insufficienza cardiaca, senza limitare la raccomandazione per la localizzazione anatomica dell'infarto.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available for posterolateral myocardial infarction specifically.
-
----
-
-## Taiwan Market Information
-
-No Taiwan regulatory approvals on record for Lisinopril.
+Attualmente non ci sono studi clinici correlati registrati specificamente per l'infarto miocardico posterolaterale.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-Please refer to the package insert for safety information.
-
-> **Note:** Taiwan TFDA package insert data (warnings and contraindications) is currently unavailable — this is a blocking data gap that must be resolved before any clinical use evaluation can proceed.
+Attualmente nessuna letteratura correlata disponibile specificamente per l'infarto miocardico posterolaterale.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni di Mercato a Taiwan
 
-**Decision: Hold**
+Nessuna registrazione normativa a Taiwan per il Lisinopril.
 
-**Rationale:**
-While the mechanistic basis for Lisinopril in posterolateral MI is well-grounded — directly supported by the GISSI-3 RCT covering general acute MI — no independent clinical trial or publication specifically addresses this anatomical subtype, and critical safety data (Taiwan TFDA package insert) is currently missing.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni sulla Sicurezza
 
-- **\[Blocking\]** Obtain Taiwan TFDA package insert — retrieve warnings and contraindications before any safety evaluation can begin
-- **\[High Priority\]** Retrieve detailed MOA data from DrugBank (DB00722)
-- Search for subgroup-level outcomes in existing large MI trials (GISSI-3, ISIS-4, CONSENSUS II) specifically reporting on posterolateral or circumflex-territory infarction cohorts
-- Clarify whether existing general post-MI indications under current prescribing guidelines already encompass this anatomical subtype, which may make a dedicated repurposing pathway unnecessary
-- Review whether Lisinopril is available or planned for Taiwan market entry, given current zero-license status
+Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+
+> **Nota:** I dati del foglio illustrativo TFDA di Taiwan (avvertenze e controindicazioni) non sono attualmente disponibili — questo è un data gap bloccante che deve essere risolto prima che qualsiasi valutazione dell'uso clinico possa procedere.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+Sebbene il fondamento meccanicistico per il Lisinopril nell'IM posterolaterale sia ben fondato — direttamente supportato dallo studio RCT GISSI-3 che copre l'IM acuto generale — nessuno studio clinico indipendente o pubblicazione affronta specificamente questo sottotipo anatomico, e i dati critici sulla sicurezza (foglio illustrativo TFDA di Taiwan) sono attualmente mancanti.
+
+**Per procedere, è necessario quanto segue:**
+
+- **\[Bloccante\]** Ottenere il foglio illustrativo TFDA di Taiwan — recuperare avvertenze e controindicazioni prima che qualsiasi valutazione della sicurezza possa iniziare
+- **\[Alta Priorità\]** Recuperare i dati dettagliati del meccanismo d'azione da DrugBank (DB00722)
+- Cercare i risultati a livello di sottogruppo negli studi IM di grandi dimensioni esistenti (GISSI-3, ISIS-4, CONSENSUS II) che riportino specificamente le coorti con infarto posterolaterale o nel territorio della circonflessa
+- Chiarire se le indicazioni post-IM generali esistenti secondo le linee guida di prescrizione attuali già comprendono questo sottotipo anatomico, il che potrebbe rendere non necessario un percorso dedicato di riadattamento terapeutico
+- Esaminare se il Lisinopril è disponibile o pianificato per l'immissione in commercio a Taiwan, dato lo stato attuale di zero autorizzazioni
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

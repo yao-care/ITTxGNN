@@ -29,75 +29,74 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
----
+# Tolcapone: dalla malattia di Parkinson all'encefalite subacuta di Rasmussen
 
-# Tolcapone: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+## Riassunto in una frase
 
-## One-Sentence Summary
-
-Tolcapone is a selective COMT (catechol-O-methyltransferase) inhibitor, originally approved as adjunct therapy in adult Parkinson's disease to extend the effect of levodopa.
-The TxGNN model predicts it may be effective for **Rasmussen Subacute Encephalitis**, a rare chronic autoimmune encephalopathy.
-Currently, **no clinical trials** and **no published literature** support this direction — the prediction rests entirely on the model's graph-level inference.
+Tolcapone è un inibitore selettivo della COMT (catecol-O-metiltransferasi), originariamente approvato come terapia adiuvante nella malattia di Parkinson dell'adulto per estendere l'effetto della levodopa.
+Il modello TxGNN prevede che possa essere efficace per **l'encefalite subacuta di Rasmussen**, un'encefalopatia autoimmune cronica rara.
+Attualmente, **nessuno studio clinico** e **nessuna letteratura pubblicata** supportano questa direzione — la previsione poggia interamente sull'inferenza a livello di grafo del modello.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
-|------|---------|
-| Original Indication | Parkinson's disease (adjunct to levodopa/carbidopa) |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on contextual information throughout the dataset, Tolcapone is a COMT inhibitor — it blocks the enzyme that degrades dopamine and levodopa in the periphery and brain, thereby increasing dopamine availability at the synapse. Its efficacy in Parkinson's disease is well-established along this dopaminergic axis.
-
-Rasmussen subacute encephalitis is a rare, progressive autoimmune disorder in which cytotoxic T-cells attack neurons in one cerebral hemisphere, causing drug-resistant focal epilepsy and progressive neurological decline. The core pathology is immune-mediated — not dopamine-related. There is no known mechanism by which COMT inhibition would suppress autoreactive T-cell activity or reduce neuronal destruction in this disease.
-
-The high TxGNN score (99.93%) most likely reflects **graph-level disease proximity** — Tolcapone and Rasmussen encephalitis both occupy "neurological disease" nodes in the knowledge graph, creating an apparent link through network propagation rather than genuine pharmacological relevance. This is a recognized limitation of graph neural network models: high scores can arise from structural graph similarity without mechanistic support. At this stage, this prediction should be treated as a hypothesis-generating signal only.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Malattia di Parkinson (adiuvante a levodopa/carbidopa) |
+| Nuova indicazione prevista | Encefalite subacuta di Rasmussen |
+| Punteggio di previsione TxGNN | 99.93% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Clinical Trial Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related clinical trials registered.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Pacchetto di evidenze. In base alle informazioni contestuali in tutto il set di dati, tolcapone è un inibitore della COMT — blocca l'enzima che degrada la dopamina e la levodopa in periferia e nel cervello, aumentando così la disponibilità di dopamina alla sinapsi. La sua efficacia nella malattia di Parkinson è ben stabilita lungo questo asse dopaminergico.
 
----
+L'encefalite subacuta di Rasmussen è un disturbo autoimmune raro e progressivo in cui le cellule T citotossiche attaccano i neuroni in un emisfero cerebrale, causando epilessia focale resistente ai farmaci e declino neurologico progressivo. La patologia centrale è mediata dal sistema immunitario — non è correlata alla dopamina. Non esiste un meccanismo noto per il quale l'inibizione della COMT sopprimrebbe l'attività delle cellule T autoreattive o ridurrebbe la distruzione neuronale in questa malattia.
 
-## Literature Evidence
-
-Currently no related literature available.
+L'alto punteggio TxGNN (99.93%) probabilmente riflette **la prossimità delle malattie a livello di grafo** — tolcapone e l'encefalite di Rasmussen occupano entrambi i nodi di "malattia neurologica" nel grafo di conoscenza, creando un collegamento apparente attraverso la propagazione della rete piuttosto che per una rilevanza farmacologica genuina. Questa è una limitazione riconosciuta dei modelli di reti neurali grafiche: i punteggi alti possono derivare da somiglianza strutturale del grafo senza supporto meccanicistico. A questo stadio, questa previsione dovrebbe essere trattata solo come un segnale di generazione di ipotesi.
 
 ---
 
-## Safety Considerations
+## Evidenza dagli studi clinici
 
-Please refer to the package insert for safety information.
-
-> **Note:** Tolcapone carries a known risk of **fatal fulminant hepatic failure**. This is one of the most serious concerns with this drug class and should be a central consideration in any repurposing evaluation. Full safety profiling — including contraindications, black box warnings, and drug-drug interactions — must be retrieved from the official package insert before any clinical development is pursued.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-Despite a very high TxGNN score, this prediction has no mechanistic basis, no supporting clinical trials, and no relevant literature. The score almost certainly reflects graph topology artefact rather than pharmacological signal, and Tolcapone's known hepatotoxicity profile raises a significant safety bar for any new indication.
+---
 
-**To proceed, the following is needed:**
-- Full MOA documentation and safety profile (including black box hepatotoxicity warning) retrieved from the official package insert or DrugBank API
-- A biologically plausible hypothesis connecting COMT inhibition to Rasmussen encephalitis pathophysiology (e.g., any role of catecholamine dysregulation in autoimmune neuroinflammation)
-- At minimum one preclinical study or case report before this indication can be elevated above L5
-- Italy/AIFA regulatory status verification if a market authorization pathway is to be explored
-- Comparative review of the higher-ranked mechanistically plausible predictions (e.g., Rank 10: juvenile-onset Parkinsonism; Rank 6: Lewy body dementia) which share the dopaminergic disease axis and carry stronger mechanistic rationale
+## Considerazioni sulla sicurezza
+
+Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+
+> **Nota:** Tolcapone comporta un rischio noto di **insufficienza epatica fulminante fatale**. Questo è una delle preoccupazioni più gravi di questa classe di farmaci e dovrebbe essere una considerazione centrale in qualsiasi valutazione di repurposing. Il profilo di sicurezza completo — comprese le controindicazioni, gli avvertimenti di scatola nera e le interazioni farmaco-farmaco — deve essere recuperato dal foglio illustrativo ufficiale prima che qualsiasi sviluppo clinico sia perseguito.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Nonostante un punteggio TxGNN molto elevato, questa previsione non ha base meccanicistica, nessuno studio clinico di supporto e nessuna letteratura pertinente. Il punteggio riflette quasi certamente un artefatto della topologia del grafo piuttosto che un segnale farmacologico, e il profilo di epatotossicità noto di tolcapone innalza una barriera di sicurezza significativa per qualsiasi nuova indicazione.
+
+**Per procedere è necessario quanto segue:**
+- Documentazione completa del meccanismo d'azione e profilo di sicurezza (compreso l'avvertimento di scatola nera sull'epatotossicità) recuperati dal foglio illustrativo ufficiale o dall'API di DrugBank
+- Un'ipotesi biologicamente plausibile che colleghi l'inibizione della COMT alla fisiopatologia dell'encefalite di Rasmussen (ad es., qualsiasi ruolo della disregolazione delle catecolamine nella neuroinfammazione autoimmune)
+- Almeno uno studio preclinico o una relazione di caso prima che questa indicazione possa essere elevata al di sopra di L5
+- Verifica dello stato normativo italiano/AIFA se è da esplorare un percorso di autorizzazione al commercio
+- Revisione comparativa delle previsioni di rango più elevato meccanicisticamente plausibili (ad es., Rank 10: parkinsonismo ad esordio giovanile; Rank 6: demenza a corpi di Lewy) che condividono l'asse della malattia dopaminergica e presentano una base meccanicistica più forte
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

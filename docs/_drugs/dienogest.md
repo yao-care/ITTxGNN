@@ -29,78 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# DIENOGEST: Repurposing Candidate — Insufficient Data for Full Evaluation
+# DIENOGEST: Candidato di riposizionamento — Dati insufficienti per valutazione completa
 
-## One-Sentence Summary
+## Riassunto sintetico
 
-Dienogest (DrugBank DB09123) is a synthetic progestogen; however, the current Evidence Pack contains no original indication records from the regulatory database and **no TxGNN-predicted new indications**, making a standard repurposing evaluation impossible at this stage. Critical data gaps in mechanism of action, safety warnings, and regulatory history must be resolved before any evidence-based conclusion can be drawn.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available (no Taiwan regulatory records found) |
-| Predicted New Indication | Not available (TxGNN predictions not yet generated) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 — Model prediction not yet run; no supporting studies retrievable |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Dienogest (DrugBank DB09123) è un progestinico sintetico; tuttavia, l'Evidence Pack attuale non contiene alcun record di indicazione originaria dal database normativo e **nessuna nuova indicazione predetta da TxGNN**, rendendo una valutazione standard di riposizionamento impossibile a questo stadio. I gap critici nei dati relativi al meccanismo d'azione, agli avvertimenti di sicurezza e alla storia normativa devono essere risolti prima di poter trarre alcuna conclusione basata sull'evidenza.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-No TxGNN-predicted indication is available in this Evidence Pack (`predicted_indications: []`). Without a target disease, a mechanistic rationale cannot be constructed.
-
-Currently, detailed mechanism of action data is also not available. Based on DrugBank record DB09123, Dienogest is classified as a progestogen (fourth-generation synthetic progestin). Its pharmacological activity is mediated through progesterone receptor agonism, and it is widely used in European and Asian markets for endometriosis and hormonal contraception — though none of these indications appear in the Taiwan regulatory database queried.
-
-**To proceed with this section**, the TxGNN prediction pipeline must first be run and a target disease must be confirmed before any mechanistic bridge can be evaluated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered under this Evidence Pack. This is because no predicted indication has been identified; once a target disease is confirmed, a ClinicalTrials.gov query can be executed.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Non disponibile (nessun record normativo di Taiwan trovato) |
+| Nuova indicazione predetta | Non disponibile (predizioni TxGNN non ancora generate) |
+| Punteggio di predizione TxGNN | — |
+| Livello di evidenza | L5 — Predizione del modello non ancora eseguita; nessuno studio di supporto recuperabile |
+| Stato mercato Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospensione** |
 
 ---
 
-## Literature Evidence
+## Perché questa predizione è ragionevole?
 
-Currently no related literature available. Target indication must be specified before a PubMed query can yield meaningful results.
+Nessuna indicazione predetta da TxGNN è disponibile in questo Evidence Pack (`predicted_indications: []`). Senza una malattia target, una logica meccanicistica non può essere costruita.
 
----
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili. Basandosi sul record DrugBank DB09123, Dienogest è classificato come un progestinico (progestina sintetica di quarta generazione). La sua attività farmacologica è mediata dall'agonismo del recettore del progesterone, ed è ampiamente utilizzato nei mercati europei e asiatici per l'endometriosi e la contraccezione ormonale — sebbene nessuna di queste indicazioni compaia nel database normativo di Taiwan interrogato.
 
-## Taiwan Market Information
-
-No authorizations found. The TFDA query (2026-03-29) returned 0 records for DIENOGEST.
+**Per procedere con questa sezione**, la pipeline di predizione TxGNN deve prima essere eseguita e una malattia target deve essere confermata prima che qualsiasi ponte meccanicistico possa essere valutato.
 
 ---
 
-## Safety Considerations
+## Evidenza da studi clinici
 
-Please refer to the package insert for safety information.
-
-No drug interaction data was found in the DDI database query (2026-03-29). TFDA package insert parsing was recorded as successful (query ID 4), but extracted warning and contraindication fields are unavailable in this Evidence Pack version.
+Attualmente nessuno studio clinico correlato registrato in questo Evidence Pack. Ciò è dovuto al fatto che nessuna indicazione predetta è stata identificata; una volta confermata una malattia target, una query su ClinicalTrials.gov può essere eseguita.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile. L'indicazione target deve essere specificata prima che una query su PubMed possa produrre risultati significativi.
 
-**Rationale:**
-The Evidence Pack for Dienogest is missing all three elements required for a repurposing evaluation: a TxGNN-predicted target indication, mechanism of action data, and safety/regulatory content. There is no basis on which to assess efficacy plausibility, evidence strength, or risk profile at this time.
+---
 
-**To proceed, the following is needed:**
+## Informazioni di mercato di Taiwan
 
-1. **Run TxGNN prediction pipeline** — Generate ranked candidate indications for DB09123 so a target disease can be selected
-2. **Retrieve MOA from DrugBank API** — Populate `original_moa` to enable mechanistic rationale (Data Gap DG002, severity: High)
-3. **Download and parse TFDA package insert PDF** — Extract warnings and contraindications to unblock the safety evaluation (Data Gap DG001, severity: Blocking)
-4. **Confirm original indication** — Query DrugBank or WHO INN records to populate `original_indications` (currently empty)
-5. **Re-run Evidence Pack generation** (target version: v5) — Once gaps above are resolved, resubmit for a complete L1–L5 evidence grading and Go/Hold/Proceed recommendation
+Nessuna autorizzazione trovata. La query TFDA (2026-03-29) ha restituito 0 record per DIENOGEST.
+
+---
+
+## Considerazioni di sicurezza
+
+Fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+Nessun dato di interazione farmacologica è stato trovato nella query del database DDI (2026-03-29). L'analisi del foglio illustrativo TFDA è stata registrata come riuscita (ID query 4), ma i campi di avvertimento e controindicazione estratti non sono disponibili in questa versione dell'Evidence Pack.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+L'Evidence Pack per Dienogest manca di tutti e tre gli elementi richiesti per una valutazione di riposizionamento: un'indicazione target predetta da TxGNN, dati del meccanismo d'azione e contenuto di sicurezza/normativo. Non esiste alcuna base su cui valutare la plausibilità di efficacia, la forza dell'evidenza o il profilo di rischio in questo momento.
+
+**Per procedere, è necessario quanto segue:**
+
+1. **Eseguire la pipeline di predizione TxGNN** — Generare indicazioni candidate classificate per DB09123 in modo che una malattia target possa essere selezionata
+2. **Recuperare il MOA dall'API DrugBank** — Popolare `original_moa` per abilitare la logica meccanicistica (Data Gap DG002, gravità: Alta)
+3. **Scaricare e analizzare il PDF del foglio illustrativo TFDA** — Estrarre avvertimenti e controindicazioni per sbloccare la valutazione di sicurezza (Data Gap DG001, gravità: Bloccante)
+4. **Confermare l'indicazione originaria** — Interrogare i record DrugBank o WHO INN per popolare `original_indications` (attualmente vuoto)
+5. **Ri-eseguire la generazione dell'Evidence Pack** (versione target: v5) — Una volta risolti i gap di cui sopra, inviare nuovamente per una classificazione completa L1–L5 dell'evidenza e una raccomandazione Go/Hold/Proceed
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

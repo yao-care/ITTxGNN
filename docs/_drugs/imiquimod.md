@@ -29,121 +29,122 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Imiquimod: From Actinic Keratosis to Pre-malignant Neoplasm
+# Imiquimod: Dalla Cheratosi Attinica alla Neoplasia Premalignante
 
-## One-Sentence Summary
+## Riassunto in una Frase
 
-Imiquimod is a topical TLR7/8 agonist and immune response modifier approved internationally for superficial skin conditions including actinic keratosis, superficial basal cell carcinoma, and external genital warts.
-The TxGNN model predicts it may be effective for **Pre-malignant Neoplasm** more broadly,
-with **19 clinical trials** and **9 publications** currently supporting this direction.
+Imiquimod è un agonista topico TLR7/8 e modificatore della risposta immunitaria approvato a livello internazionale per condizioni cutanee superficiali, tra cui cheratosi attinica, carcinoma basocellulare superficiale e verruche genitali esterne.
+Il modello TxGNN prevede che possa essere efficace per la **Neoplasia Premalignante** più in generale,
+con **19 trial clinici** e **9 pubblicazioni** che attualmente supportano questa direzione.
 
 ---
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Actinic keratosis, superficial basal cell carcinoma, external genital warts (international approvals; no registration currently recorded in Italy) |
-| Predicted New Indication | Pre-malignant Neoplasm |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L2 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione Originaria | Cheratosi attinica, carcinoma basocellulare superficiale, verruche genitali esterne (approvazioni internazionali; nessuna registrazione attualmente registrata in Italia) |
+| Indicazione Nuova Prevista | Neoplasia Premalignante |
+| Punteggio di Previsione TxGNN | 99.92% |
+| Livello di Evidenza | L2 |
+| Stato del Mercato Italiano | Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Garanzie |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Imiquimod functions as a Toll-like receptor 7 and 8 (TLR7/8) agonist. Upon topical application, it activates innate immune signalling through the MyD88/NF-κB pathway, triggering the release of pro-inflammatory cytokines — primarily IFN-α, TNF-α, and IL-12. This cascade recruits NK cells and cytotoxic CD8+ T lymphocytes to the site of dysplastic tissue, ultimately inducing apoptosis in abnormal proliferating cells while largely sparing healthy surrounding tissue. Plasmacytoid dendritic cells are particularly sensitive to TLR7 stimulation, making imiquimod a potent activator of local antitumour immunity.
+Imiquimod funziona come agonista del recettore Toll-like 7 e 8 (TLR7/8). Dopo l'applicazione topica, attiva la segnalazione immunitaria innata attraverso la via MyD88/NF-κB, innescando il rilascio di citochine pro-infiammatorie — principalmente IFN-α, TNF-α e IL-12. Questa cascata recluta cellule NK e linfociti T citotossici CD8+ nel sito del tessuto displastico, inducendo infine l'apoptosi nelle cellule proliferanti anomale, risparmiando largamente il tessuto circostante sano. Le cellule dendritiche plasmocitoidi sono particolarmente sensibili alla stimolazione di TLR7, rendendo imiquimod un potente attivatore dell'immunità antitumorale locale.
 
-Pre-malignant neoplasms — including actinic keratosis (AK), cervical intraepithelial neoplasia (CIN), vulvar intraepithelial neoplasia (VIN), anal intraepithelial neoplasia (AIN), actinic cheilitis, and lentigo maligna — share a common pathological substrate: uncontrolled epithelial proliferation driven by chronic UV damage or persistent HPV infection, typically accompanied by local immune evasion. Imiquimod's mechanism directly counteracts this evasion by re-engaging innate and adaptive immune surveillance against dysplastic cells. HPV-associated lesions in particular are highly susceptible to TLR7-mediated immune clearance, given the virus's known strategy of suppressing type I interferon responses.
+Le neoplasie premalignanti — tra cui cheratosi attinica (AK), neoplasia intraepiteliale cervicale (CIN), neoplasia intraepiteliale vulvare (VIN), neoplasia intraepiteliale anale (AIN), cheilite attinica e lentigo maligna — condividono un substrato patologico comune: proliferazione epiteliale incontrollata guidata da danno cronico UV o infezione persistente da HPV, tipicamente accompagnata da evasione immunitaria locale. Il meccanismo di imiquimod contrasta direttamente questa evasione reinserendo la sorveglianza immunitaria innata e adattativa contro le cellule displastiche. Le lesioni associate a HPV in particolare sono altamente suscettibili all'eliminazione mediata da TLR7, dato che il virus è noto per la sua strategia di soppressione delle risposte dell'interferone di tipo I.
 
-In fact, imiquimod is already established in clinical practice for several pre-malignant subtypes — VIN, AIN, AK, and lentigo maligna — with Phase 2–3 trial data and multiple Cochrane systematic reviews supporting its use. The TxGNN prediction therefore reflects a mechanistic continuum already validated in clinical evidence, and the model's high confidence score (99.92%) is consistent with this body of real-world support.
+In realtà, imiquimod è già affermato nella pratica clinica per diversi sottotipi premalignanti — VIN, AIN, AK e lentigo maligna — con dati di trial di fase 2–3 e multiple revisioni sistematiche Cochrane che ne supportano l'uso. La previsione di TxGNN quindi riflette un continuum meccanicistico già validato nelle prove cliniche, e il punteggio di fiducia elevato del modello (99.92%) è coerente con questo corpo di supporto reale.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da Trial Clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero Trial | Fase | Stato | Arruolamento | Principali Risultati |
 |-------------|-------|--------|------------|--------------|
-| [NCT03233412](https://clinicaltrials.gov/study/NCT03233412) | Phase 2 | Completed | 90 | RCT evaluating topical imiquimod for high-grade CIN 2/3 (HPV-associated cervical pre-malignant lesion); assessed spontaneous regression vs. standard LLETZ surgical excision |
-| [NCT01720407](https://clinicaltrials.gov/study/NCT01720407) | Phase 3 | Completed | 259 | Imiquimod as neo-adjuvant treatment for lentigo maligna of the face (intraepidermal melanocytic pre-malignant proliferation); assessed whether pre-treatment reduces excision size and risk of intralesional margins |
-| [NCT02329171](https://clinicaltrials.gov/study/NCT02329171) | Phase 3 | Terminated | 9 | RCT of topical imiquimod for CIN 2–3; terminated early due to slow enrolment (n=9), but design validates immunotherapy as a fertility-sparing alternative to LLETZ — mechanistic intent is highly relevant |
-| [NCT04219358](https://clinicaltrials.gov/study/NCT04219358) | Phase 1 | Terminated | 49 | Head-to-head comparison of 5%, 0.05%, and nanoencapsulated 0.05% imiquimod gel for actinic cheilitis (pre-malignant lower lip lesion with SCC potential); provides formulation optimisation data despite termination |
-| [NCT04883645](https://clinicaltrials.gov/study/NCT04883645) | Early Phase 1 | Completed | 16 | Pilot neoadjuvant trial of topical Aldara (imiquimod) as TLR7 agonist in early-stage oral squamous cell carcinoma; evaluated feasibility, safety, immune infiltration, and tumour cell self-destruction |
-| [NCT00175643](https://clinicaltrials.gov/study/NCT00175643) | Phase 3 | Completed | 20 | Open-label study of imiquimod 5% cream 3×/week for actinic keratoses on the head; evaluated duration of response after 1 or 2 treatment cycles |
-| [NCT01229319](https://clinicaltrials.gov/study/NCT01229319) | Phase 4 | Unknown | 20 | Imiquimod 3.75% cream following cryotherapy for hypertrophic actinic keratoses on dorsal hands and forearms; targets field cancerisation — subclinical pre-malignant change in UV-damaged skin |
-| [NCT00941811](https://clinicaltrials.gov/study/NCT00941811) | Phase 2 | Completed | 5 | Exploratory mechanistic study of imiquimod treatment for HPV-associated VIN 2/3 and anogenital warts; analysed immune escape mechanisms to understand why some lesions regress and others persist |
-| [NCT02242929](https://clinicaltrials.gov/study/NCT02242929) | Phase 3 | Unknown | 145 | Non-inferiority RCT: surgical excision vs. curettage combined with imiquimod for nodular basal cell carcinoma; evaluates imiquimod as a function-preserving alternative |
-| [NCT00142454](https://clinicaltrials.gov/study/NCT00142454) | Phase 1 | Completed | 9 | NY-ESO-1 protein vaccination with imiquimod as immune adjuvant in resected Stage IIB–III malignant melanoma; assessed safety and immunogenicity of TLR7-boosted tumour vaccination strategy |
+| [NCT03233412](https://clinicaltrials.gov/study/NCT03233412) | Fase 2 | Completato | 90 | RCT che valuta imiquimod topico per CIN ad alto grado 2/3 (lesione cervicale premalignante associata a HPV); ha valutato la regressione spontanea vs. l'escissione chirurgica standard LLETZ |
+| [NCT01720407](https://clinicaltrials.gov/study/NCT01720407) | Fase 3 | Completato | 259 | Imiquimod come trattamento neo-adiuvante per lentigo maligna della faccia (proliferazione melanocitica intraepidermica premalignante); ha valutato se il pretrattamento riduce la dimensione dell'escissione e il rischio di margini intralesionali |
+| [NCT02329171](https://clinicaltrials.gov/study/NCT02329171) | Fase 3 | Terminato | 9 | RCT di imiquimod topico per CIN 2–3; terminato prematuramente a causa del lento arruolamento (n=9), ma il disegno valida l'immunoterapia come alternativa che preserva la fertilità a LLETZ — l'intento meccanicistico è altamente rilevante |
+| [NCT04219358](https://clinicaltrials.gov/study/NCT04219358) | Fase 1 | Terminato | 49 | Confronto testa-a-testa del gel di imiquimod al 5%, 0.05% e nanoincapsulato 0.05% per cheilite attinica (lesione premalignante del labbro inferiore con potenziale SCC); fornisce dati di ottimizzazione della formulazione nonostante la terminazione |
+| [NCT04883645](https://clinicaltrials.gov/study/NCT04883645) | Fase 1 Precoce | Completato | 16 | Trial pilota neo-adiuvante di Aldara topico (imiquimod) come agonista TLR7 nel carcinoma squamoso orale in stadio precoce; ha valutato la fattibilità, la sicurezza, l'infiltrazione immunitaria e l'auto-distruzione cellulare tumorale |
+| [NCT00175643](https://clinicaltrials.gov/study/NCT00175643) | Fase 3 | Completato | 20 | Studio aperto di crema di imiquimod al 5% 3×/settimana per cheratosi attiniche sulla testa; ha valutato la durata della risposta dopo 1 o 2 cicli di trattamento |
+| [NCT01229319](https://clinicaltrials.gov/study/NCT01229319) | Fase 4 | Sconosciuto | 20 | Crema di imiquimod al 3.75% dopo crioterapia per cheratosi attiniche ipertrofiche sui dorsi delle mani e degli avambracci; ha affrontato la cancerizzazione di campo — cambiamento premalignante subclinico nella pelle fotodanneggiata |
+| [NCT00941811](https://clinicaltrials.gov/study/NCT00941811) | Fase 2 | Completato | 5 | Studio meccanicistico esplorativo del trattamento di imiquimod per VIN 2/3 associate a HPV e verruche anogenitali; ha analizzato i meccanismi di evasione immunitaria per comprendere perché alcune lesioni regrediscono e altre persistono |
+| [NCT02242929](https://clinicaltrials.gov/study/NCT02242929) | Fase 3 | Sconosciuto | 145 | RCT di non-inferiorità: escissione chirurgica vs. curettage combinato con imiquimod per carcinoma basocellulare nodulare; valuta imiquimod come alternativa che preserva la funzione |
+| [NCT00142454](https://clinicaltrials.gov/study/NCT00142454) | Fase 1 | Completato | 9 | Vaccinazione con proteina NY-ESO-1 con imiquimod come adiuvante immunitario nel melanoma maligno allo stadio IIB–III resecato; ha valutato la sicurezza e l'immunogenicità della strategia di vaccinazione tumorale potenziata da TLR7 |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Principali Risultati |
 |------|------|------|---------|--------------|
-| [23235673](https://pubmed.ncbi.nlm.nih.gov/23235673/) | 2012 | Cochrane Review | Cochrane Database Syst Rev | Systematic review of interventions for anal canal intraepithelial neoplasia (AIN); imiquimod assessed as an option for this HPV-associated pre-malignant condition in HIV-positive MSM and immunosuppressed patients |
-| [21491403](https://pubmed.ncbi.nlm.nih.gov/21491403/) | 2011 | Cochrane Review | Cochrane Database Syst Rev | Cochrane review of medical interventions for high-grade VIN; imiquimod evaluated as non-surgical alternative given high surgical morbidity and relapse rates — supports use in the broader pre-malignant neoplasm category |
-| [26516853](https://pubmed.ncbi.nlm.nih.gov/26516853/) | 2015 | Systematic Review | Int J Mol Sci | Review of PDT combinations for non-melanoma skin cancer; discusses imiquimod synergy for BCC and SCC field treatment, relevant to sequential and combination strategies for pre-malignant lesions |
-| [20505896](https://pubmed.ncbi.nlm.nih.gov/20505896/) | 2010 | Clinical Review | Skin Therapy Lett | Management review of actinic keratosis; positions imiquimod as a first-line topical field therapy for AK, with discussion of clearance rates, dosing schedules, and local inflammatory reaction profile |
-| [15584683](https://pubmed.ncbi.nlm.nih.gov/15584683/) | 2004 | Narrative Review | Semin Cutan Med Surg | Describes emerging roles of topical agents (5-FU, diclofenac, imiquimod, PDT) for non-melanoma skin cancers and pre-malignant lesions; one of the early systematic descriptions of imiquimod's immunomodulatory antitumour mechanism |
-| [30284955](https://pubmed.ncbi.nlm.nih.gov/30284955/) | 2019 | Case Report | Int J STD AIDS | Successful clearance of high-grade VIN with imiquimod 5% in a renal transplant recipient on immunosuppression; demonstrates activity in compromised immune settings and raises questions about optimising dosing in such populations |
-| [29500135](https://pubmed.ncbi.nlm.nih.gov/29500135/) | 2018 | Preclinical PK/PD | Urol Oncol | Rat model PK/PD study of two TLR-7 agonists (TMX-101, TMX-202) for non-muscle-invasive bladder cancer; demonstrates that TLR7 agonism can be extended beyond skin to other epithelial pre-malignant conditions with appropriate delivery routes |
-| [15601490](https://pubmed.ncbi.nlm.nih.gov/15601490/) | 2004 | Case Report | Int J STD AIDS | Successful clearance of bowenoid papulosis of the penis (HPV-associated pre-malignant anogenital condition) with topical imiquimod 5% cream once weekly for 8 weeks; well tolerated with no recurrence at follow-up |
-| [18931984](https://pubmed.ncbi.nlm.nih.gov/18931984/) | 2008 | Case Study | Hautarzt | Disseminated superficial actinic porokeratosis co-existing with multiple pre-malignant lesions (AK, Bowen's disease, SCC); highlights cases where imiquimod was ineffective, providing context on treatment limitations and resistance patterns |
+| [23235673](https://pubmed.ncbi.nlm.nih.gov/23235673/) | 2012 | Revisione Cochrane | Cochrane Database Syst Rev | Revisione sistematica degli interventi per la neoplasia intraepiteliale del canale anale (AIN); imiquimod valutato come opzione per questa condizione premalignante associata a HPV in MSM sieropositivi e pazienti immunosoppressi |
+| [21491403](https://pubmed.ncbi.nlm.nih.gov/21491403/) | 2011 | Revisione Cochrane | Cochrane Database Syst Rev | Revisione Cochrane degli interventi medici per VIN ad alto grado; imiquimod valutato come alternativa non chirurgica data l'elevata morbilità chirurgica e i tassi di ricaduta — supporta l'uso nella più ampia categoria di neoplasia premalignante |
+| [26516853](https://pubmed.ncbi.nlm.nih.gov/26516853/) | 2015 | Revisione Sistematica | Int J Mol Sci | Revisione delle combinazioni di PDT per il carcinoma della pelle non melanoma; discute la sinergia di imiquimod per il trattamento di campo BCC e SCC, rilevante per strategie sequenziali e combinate per lesioni premalignanti |
+| [20505896](https://pubmed.ncbi.nlm.nih.gov/20505896/) | 2010 | Revisione Clinica | Skin Therapy Lett | Revisione della gestione della cheratosi attinica; posiziona imiquimod come terapia topica di campo di prima linea per AK, con discussione dei tassi di clearance, degli schemi posologici e del profilo di reazione infiammatoria locale |
+| [15584683](https://pubmed.ncbi.nlm.nih.gov/15584683/) | 2004 | Revisione Narrativa | Semin Cutan Med Surg | Descrive i ruoli emergenti degli agenti topici (5-FU, diclofenac, imiquimod, PDT) per i carcinomi della pelle non melanoma e le lesioni premalignanti; una delle prime descrizioni sistematiche del meccanismo immunomodulatore antitumorale di imiquimod |
+| [30284955](https://pubmed.ncbi.nlm.nih.gov/30284955/) | 2019 | Case Report | Int J STD AIDS | Clearance riuscita di VIN ad alto grado con imiquimod al 5% in un ricevente di trapianto renale in immunosoppressione; dimostra attività in ambienti immunologici compromessi e solleva interrogativi sull'ottimizzazione della posologia in tali popolazioni |
+| [29500135](https://pubmed.ncbi.nlm.nih.gov/29500135/) | 2018 | PK/PD Preclinico | Urol Oncol | Studio PK/PD in modello di ratto di due agonisti TLR-7 (TMX-101, TMX-202) per il carcinoma della vescica non muscolo-invasivo; dimostra che l'agonismo TLR7 può essere esteso oltre la pelle ad altre condizioni epiteliali premalignanti con opportune vie di somministrazione |
+| [15601490](https://pubmed.ncbi.nlm.nih.gov/15601490/) | 2004 | Case Report | Int J STD AIDS | Clearance riuscita della papulosi bowenoidea del pene (condizione anogenitale premalignante associata a HPV) con crema di imiquimod topico al 5% una volta alla settimana per 8 settimane; ben tollerato senza ricaduta al follow-up |
+| [18931984](https://pubmed.ncbi.nlm.nih.gov/18931984/) | 2008 | Case Study | Hautarzt | Porokeratosi attinica superficiale disseminata coesistente con multiple lesioni premalignanti (AK, malattia di Bowen, SCC); evidenzia i casi in cui imiquimod è stato inefficace, fornendo contesto su limitazioni del trattamento e modelli di resistenza |
 
 ---
 
-## Italy Market Information
+## Informazioni sul Mercato Italiano
 
-Imiquimod is currently not registered or marketed in Italy. No AIFA authorisation has been identified in the current dataset.
+Imiquimod attualmente non è registrato o commercializzato in Italia. Nessuna autorizzazione AIFA è stata identificata nel set di dati attuale.
 
-Prescribers seeking to use imiquimod in Italy should consult the AIFA Farmaci Registrati database for any recent approval activity. If no authorisation exists, the applicable legal framework is Italian Law 648/96 (off-label access for serious conditions without alternatives), subject to Ethics Committee approval and individual patient prescription.
+I prescrittori che desiderano utilizzare imiquimod in Italia dovrebbero consultare il database Farmaci Registrati dell'AIFA per eventuali attività di approvazione recente. Se nessuna autorizzazione esiste, il quadro legale applicabile è la Legge italiana 648/96 (accesso fuori etichetta per condizioni gravi senza alternative), soggetto ad approvazione da parte della Commissione Etica e prescrizione per il paziente individuale.
 
 ---
 
-## Cytotoxicity
+## Citotossicità
 
-Imiquimod has established antineoplastic clinical use (superficial basal cell carcinoma, actinic keratosis), qualifying it for evaluation under this section.
+Imiquimod ha uso clinico antineoplastico affermato (carcinoma basocellulare superficiale, cheratosi attinica), qualificandolo per la valutazione in questa sezione.
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Cytotoxicity Classification | Immunotherapy — TLR7/8 agonist / immune response modifier; not a conventional cytotoxic or targeted kinase inhibitor; antitumour effect is immune-mediated rather than directly cytocidal |
-| Myelosuppression Risk | Low — standard topical application results in minimal systemic absorption; systemic myelosuppression is not a recognised risk for approved topical doses; large-surface or prolonged use may cause transient systemic flu-like symptoms |
-| Emetogenicity Classification | Not applicable for topical formulation; systemic administration routes under investigation have not established a defined emetogenic potential |
-| Monitoring Items | Local skin reactions (erythema, erosion, ulceration, crusting) at application site; systemic symptoms (fatigue, fever, myalgia) if used on large surface areas or at high frequency; CBC if extended use is anticipated beyond standard labelled durations |
-| Handling Protection | Standard protection (avoid contact with eyes, mucous membranes, and broken skin when applying); formal cytotoxic drug handling regulations are not required for standard topical cream formulation |
+| Classificazione della Citotossicità | Immunoterapia — agonista TLR7/8 / modificatore della risposta immunitaria; non un inibitore citotossico convenzionale o inibitore della chinasi mirata; l'effetto antitumorale è mediato dal sistema immunitario piuttosto che direttamente citocida |
+| Rischio di Mielosoppressione | Basso — l'applicazione topica standard risulta in minimo assorbimento sistemico; la mielosoppressione sistemica non è un rischio riconosciuto per le dosi topiche approvate; l'uso su larga superficie o prolungato può causare sintomi sistemici transitori simil-influenzali |
+| Classificazione dell'Emetogenicità | Non applicabile per formulazione topica; le vie di somministrazione sistemica in fase di investigazione non hanno stabilito un potenziale emetogenico definito |
+| Elementi di Monitoraggio | Reazioni cutanee locali (eritema, erosione, ulcerazione, croste) nel sito di applicazione; sintomi sistemici (affaticamento, febbre, mialgia) se utilizzato su aree di superficie ampia o ad alta frequenza; CBC se è previsto un uso esteso oltre le durate standard etichettate |
+| Protezione nella Manipolazione | Protezione standard (evitare il contatto con gli occhi, le mucose e la pelle lesa durante l'applicazione); le normative formali sulla manipolazione dei farmaci citotossici non sono richieste per la formulazione standard di crema topica |
 
 ---
 
-## Safety Considerations
+## Considerazioni sulla Sicurezza
 
-Full safety data including TFDA/AIFA package insert warnings and contraindications are not available in the current dataset. Please refer to the Aldara® (imiquimod 5% cream) package insert or an approved prescribing information document for complete warnings, contraindications, and drug interaction data.
+I dati di sicurezza completi inclusi gli avvertimenti del foglio illustrativo TFDA/AIFA e le controindicazioni non sono disponibili nel set di dati attuale. Si prega di fare riferimento al foglio illustrativo di Aldara® (crema di imiquimod al 5%) o a un documento di informazioni approvate dal prescrittore per gli avvertimenti completi, le controindicazioni e i dati sulle interazioni farmacologiche.
 
-Key areas to review before prescribing include:
-- **Local inflammatory reactions**: erythema, erosion, ulceration, and scarring, particularly with over-application
-- **Systemic flu-like syndrome**: fatigue, fever, rigors, and myalgia with high-frequency or large-area use
-- **Use in immunocompromised patients**: evidence is limited; case reports show activity but also unpredictable inflammatory responses in transplant recipients
-- **Use in pregnancy**: safety not established; avoid unless benefit clearly outweighs risk
+Le aree chiave da esaminare prima di prescrivere includono:
+- **Reazioni infiammatorie locali**: eritema, erosione, ulcerazione e cicatrici, in particolare con l'applicazione eccessiva
+- **Sindrome sistemica simil-influenzale**: affaticamento, febbre, brividi e mialgia con uso ad alta frequenza o su aree di superficie ampia
+- **Uso in pazienti immunocompromessi**: l'evidenza è limitata; i case report mostrano attività ma anche risposte infiammatorie impredittibili nei riceventi di trapianto
+- **Uso in gravidanza**: la sicurezza non è stabilita; evitare se non chiaro che il beneficio supera nettamente il rischio
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Procedere con Garanzie**
 
-**Rationale:**
-A completed Phase 2 RCT (NCT03233412, n=90) for HPV-associated CIN and a completed Phase 3 trial (NCT01720407, n=259) for lentigo maligna provide meaningful clinical evidence that imiquimod is active against pre-malignant neoplasms beyond its originally approved skin indications. Two Cochrane systematic reviews further establish its evidence base for high-grade VIN and AIN. The TLR7/8 immunomodulatory mechanism is directly relevant to the shared pathophysiology of HPV-associated and UV-induced pre-malignant lesions, making the prediction biologically coherent and clinically actionable — provided the appropriate indication subtype and administration route are clearly defined.
+**Razionale:**
+Un RCT di Fase 2 completato (NCT03233412, n=90) per CIN associata a HPV e uno studio di Fase 3 completato (NCT01720407, n=259) per lentigo maligna forniscono prove cliniche significative che imiquimod è attivo contro le neoplasie premalignanti oltre le sue indicazioni cutanee originariamente approvate. Due revisioni sistematiche Cochrane stabiliscono ulteriormente la sua base di prove per VIN ad alto grado e AIN. Il meccanismo immunomodulatorio TLR7/8 è direttamente rilevante alla fisiopatologia condivisa delle lesioni premalignanti associate a HPV e indotte da UV, rendendo la previsione biologicamente coerente e clinicamente praticabile — a condizione che il sottotipo di indicazione appropriato e la via di somministrazione siano chiaramente definiti.
 
-**To proceed, the following is needed:**
+**Per procedere, è necessario quanto segue:**
 
-- **Regulatory package insert**: Obtain full AIFA-approved or EMA reference product data for imiquimod to complete the safety and contraindication review (currently a blocking data gap)
-- **Indication specificity**: Define which pre-malignant neoplasm subtype is the primary target (e.g., CIN 2/3, high-grade VIN, AIN, actinic cheilitis) to enable focused evidence synthesis and protocol design
-- **Formulation and route confirmation**: Clarify whether standard 5% cream, 3.75% cream, or an investigational delivery system (e.g., nanoencapsulated gel for mucosal use) is appropriate for the target anatomical site
-- **Italy access pathway**: Assess eligibility for AIFA off-label access under Law 648/96 or Decreto Ministeriale 8 maggio 2003 for the selected indication
-- **Post-marketing safety review**: Cross-reference pharmacovigilance data from FDA, EMA, and MHRA for known real-world safety signals in pre-malignant indication use, especially in immunocompromised populations
+- **Pacchetto normativo**: Ottenere dati completi di imiquimod approvati AIFA o di prodotto di riferimento EMA per completare la revisione della sicurezza e delle controindicazioni (attualmente un divario di dati bloccante)
+- **Specificità dell'indicazione**: Definire quale sottotipo di neoplasia premalignante è il target primario (ad es. CIN 2/3, VIN ad alto grado, AIN, cheilite attinica) per consentire la sintesi focalizzata delle prove e la progettazione del protocollo
+- **Conferma della formulazione e della via**: Chiarire se la crema standard al 5%, la crema al 3.75% o un sistema di somministrazione investigazionale (ad es. gel nanoincapsulato per uso mucosale) è appropriato per il sito anatomico target
+- **Percorso di accesso italiano**: Valutare l'idoneità per l'accesso fuori etichetta AIFA secondo la Legge 648/96 o il Decreto Ministeriale 8 maggio 2003 per l'indicazione selezionata
+- **Revisione della sicurezza post-commercializzazione**: Incrociare i dati di farmacovigilanza della FDA, dell'EMA e della MHRA per identificare i segnali di sicurezza noti dall'esperienza clinica reale nell'uso per indicazioni premalignanti, in particolare nelle popolazioni immunocompromesse
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

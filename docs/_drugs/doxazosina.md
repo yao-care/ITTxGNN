@@ -29,67 +29,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Doxazosina: Drug Repurposing Evaluation — Insufficient Data to Complete Assessment
+# Doxazosina: Valutazione della riproposizione farmacologica — Dati insufficienti per completare la valutazione
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Doxazosina (international INN: Doxazosin) is an alpha-1 adrenergic receptor blocker with established clinical use in hypertension and benign prostatic hyperplasia. The current Evidence Pack contains **no TxGNN repurposing predictions** for this drug, and no Italy market authorizations were found under the queried name. A full repurposing evaluation cannot be completed until prediction data, regulatory records, and safety information are retrieved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in Evidence Pack (general knowledge: hypertension, BPH) |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — prediction data absent |
-| Italy Market Status | Not found (0 authorizations under "DOXAZOSINA") |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adrenergici alfa-1 con un uso clinico consolidato nell'ipertensione e nell'iperplasia prostatica benigna. L'Evidence Pack attuale non contiene **alcuna previsione di riproposizione di TxGNN** per questo farmaco, e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato. Una valutazione completa della riproposizione non può essere completata fino a quando i dati di previsione, i dossier normativi e le informazioni sulla sicurezza non saranno recuperati.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacological knowledge, Doxazosina is a selective alpha-1 adrenergic receptor antagonist. Its efficacy in hypertension (via vascular smooth muscle relaxation) and benign prostatic hyperplasia (via relaxation of prostatic smooth muscle) has been well established clinically.
-
-No TxGNN prediction output was present in the `predicted_indications` field of the Evidence Pack. As a result, it is not possible to evaluate whether the mechanism of action supports any specific new indication. This section will be fully populated once prediction data becomes available.
-
----
-
-## Italy Market Information
-
-No market authorization records were returned under the search term **"DOXAZOSINA"**. This is most likely a **name-matching issue**: the English INN is "Doxazosin" and the brand name widely used in Europe is **Cardura** (Pfizer). A re-query using the English INN or brand name against the AIFA database is expected to return active authorizations.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | No records found | — | Re-query required with "Doxazosin" or "Cardura" |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Non disponibile nell'Evidence Pack (conoscenza generale: ipertensione, IPB) |
+| Nuova indicazione prevista | Non disponibile |
+| Punteggio di previsione TxGNN | Non disponibile |
+| Livello di evidenza | L5 — dati di previsione assenti |
+| Stato del mercato italiano | Non trovato (0 autorizzazioni con "DOXAZOSINA") |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **In sospeso** |
 
 ---
 
-## Safety Considerations
+## Perché questa previsione è ragionevole?
 
-Please refer to the package insert for safety information.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack. In base alle conoscenze farmacologiche generali, Doxazosina è un antagonista selettivo dei recettori adrenergici alfa-1. La sua efficacia nell'ipertensione (tramite rilassamento della muscolatura liscia vascolare) e nell'iperplasia prostatica benigna (tramite rilassamento della muscolatura liscia prostatica) è stata ben consolidata clinicamente.
+
+Nessun output di previsione di TxGNN era presente nel campo `predicted_indications` dell'Evidence Pack. Di conseguenza, non è possibile valutare se il meccanismo d'azione supporta alcuna indicazione nuova specifica. Questa sezione sarà completamente popolata una volta che i dati di previsione diventeranno disponibili.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**. Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer). Si prevede che una ricerca con l'INN inglese o il nome commerciale nel database AIFA restituisca autorizzazioni attive.
 
-**Rationale:**
-The Evidence Pack returned no TxGNN repurposing predictions, no Italy regulatory data, and no safety profile — the three core inputs required for a repurposing evaluation. Proceeding without these would result in an evidence-free recommendation.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|--------------------------|-------------------|-------------------|-----------------------|
+| — | Nessun record trovato | — | Ricerca richiesta con "Doxazosin" o "Cardura" |
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN pipeline** using the correct English INN **"Doxazosin"** (expected DrugBank ID: DB00590) to obtain ranked repurposing candidate indications
-- **Re-query AIFA / Italy regulatory database** using "Doxazosin" or brand name "Cardura" to retrieve active market authorization records and approved indications
-- **Retrieve MOA from DrugBank** (DB00590) to populate mechanism-of-action analysis
-- **Obtain AIFA package insert** for key warnings, contraindications, and special population precautions
-- **Re-run DDI check** using standardized INN "Doxazosin" (current query returned no results under "DOXAZOSINA")
-- **Confirm DrugBank ID** — the Evidence Pack lists `drugbank_id: null`; this must be resolved before any pipeline re-run
+## Considerazioni sulla sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: In sospeso**
+
+**Logica:**
+L'Evidence Pack non ha restituito previsioni di riproposizione di TxGNN, nessun dato normativo italiano e nessun profilo di sicurezza — i tre input fondamentali richiesti per una valutazione di riproposizione. Procedere senza questi comporterebbe una raccomandazione priva di evidenze.
+
+**Per procedere, sono necessari i seguenti elementi:**
+
+- **Rieseguire la pipeline TxGNN** utilizzando l'INN inglese corretto **"Doxazosin"** (DrugBank ID previsto: DB00590) per ottenere le indicazioni candidate di riproposizione classificate
+- **Ricerca nel database AIFA / italiano** utilizzando "Doxazosin" o il nome commerciale "Cardura" per recuperare i record di autorizzazione commerciale attiva e le indicazioni approvate
+- **Recuperare il MOA da DrugBank** (DB00590) per popolare l'analisi del meccanismo d'azione
+- **Ottenere il foglio illustrativo AIFA** per gli avvertimenti chiave, le controindicazioni e le precauzioni nelle popolazioni speciali
+- **Rieseguire il controllo DDI** utilizzando l'INN standardizzato "Doxazosin" (la ricerca attuale non ha restituito risultati con "DOXAZOSINA")
+- **Confermare l'ID DrugBank** — l'Evidence Pack elenca `drugbank_id: null`; questo deve essere risolto prima di qualsiasi riesecuzione della pipeline
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,59 +29,60 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Donepezil: Evidence Pack Incomplete — TxGNN Repurposing Analysis Pending
+# Donepezil: Pacchetto di Evidenze Incompleto — Analisi di Riadattamento TxGNN in Sospeso
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Donepezil (DrugBank: DB00843) has been retrieved from DrugBank, but this Evidence Pack contains **no TxGNN predicted indications**, no original indication records, and no safety data.
-A repurposing evaluation cannot be completed at this stage; the recommended action is to resolve the identified data gaps before proceeding.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in this Evidence Pack |
-| Predicted New Indication | No TxGNN predictions returned |
-| TxGNN Prediction Score | — |
-| Evidence Level | Not assessable |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Donepezil (DrugBank: DB00843) è stato recuperato da DrugBank, ma questo Pacchetto di Evidenze non contiene **nessuna indicazione predetta da TxGNN**, nessun record di indicazione originale e nessun dato di sicurezza.
+Una valutazione di riadattamento non può essere completata in questa fase; l'azione consigliata è risolvere i gap di dati identificati prima di procedere.
 
 ---
 
-## Safety Considerations
+## Panoramica rapida
 
-Please refer to the package insert for safety information.
-
-> Note: The TFDA package insert query returned a result (query log ID 4, status: success), but the safety fields in this Evidence Pack have not yet been populated. A follow-up extraction step is needed.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Non disponibile in questo Pacchetto di Evidenze |
+| Nuova Indicazione Predetta | Nessuna previsione di TxGNN restituita |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Evidenza | Non valutabile |
+| Stato di Commercializzazione Taiwan | Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **In sospeso** |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-The Evidence Pack for Donepezil is missing three critical components — TxGNN predicted indications, original indication records, and safety data — making it impossible to assess repurposing potential or risk profile at this time.
+> Nota: La query del foglio illustrativo TFDA ha restituito un risultato (ID log query 4, stato: riuscita), ma i campi di sicurezza in questo Pacchetto di Evidenze non sono ancora stati compilati. È necessario un passaggio di estrazione successivo.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking] Resolve DG001 — TFDA Package Insert Safety Data**
-  The TFDA package insert query succeeded but safety fields remain empty. Parse the retrieved PDF to populate key warnings, contraindications, and dosing precautions.
+## Conclusione e prossimi passi
 
-- **[High] Resolve DG002 — Mechanism of Action (MOA)**
-  Query DrugBank API for DB00843 to retrieve pharmacological action, target proteins, and therapeutic category. This is essential for mechanistic plausibility analysis of any predicted indication.
+**Decisione: In sospeso**
 
-- **[Critical] Re-run TxGNN Prediction Pipeline**
-  `predicted_indications` is empty. Verify whether the model run completed successfully for DB00843, check for mapping errors between DrugBank ID and the KG node, and re-execute if necessary.
+**Razionale:**
+Il Pacchetto di Evidenze per Donepezil è privo di tre componenti critiche — indicazioni predette da TxGNN, record di indicazione originale e dati di sicurezza — rendendo impossibile valutare il potenziale di riadattamento o il profilo di rischio in questa fase.
 
-- **[Required] Populate Original Indications**
-  `original_indications` is empty despite a successful DrugBank query. Confirm whether the extraction step parsed approved indications correctly and re-populate this field.
+**Per procedere, è necessario quanto segue:**
 
-- Once the above data gaps are resolved, resubmit this Evidence Pack for a full v5 evaluation.
+- **[Bloccante] Risolvere DG001 — Dati di Sicurezza del Foglio Illustrativo TFDA**
+  La query del foglio illustrativo TFDA ha avuto successo ma i campi di sicurezza rimangono vuoti. Analizzare il PDF recuperato per compilare avvertenze chiave, controindicazioni e precauzioni di dosaggio.
+
+- **[Alto] Risolvere DG002 — Meccanismo d'Azione (MOA)**
+  Interrogare l'API di DrugBank per DB00843 per recuperare l'azione farmacologica, le proteine bersaglio e la categoria terapeutica. Questo è essenziale per l'analisi della plausibilità meccanicistica di qualsiasi indicazione predetta.
+
+- **[Critico] Rieseguire la Pipeline di Previsione TxGNN**
+  `predicted_indications` è vuoto. Verificare se l'esecuzione del modello è stata completata correttamente per DB00843, controllare eventuali errori di mappatura tra l'ID di DrugBank e il nodo KG e rieseguire se necessario.
+
+- **[Obbligatorio] Popolare le Indicazioni Originali**
+  `original_indications` è vuoto nonostante una query di DrugBank riuscita. Confermare se il passaggio di estrazione ha analizzato correttamente le indicazioni approvate e ripopolare questo campo.
+
+- Una volta risolti i gap di dati di cui sopra, inviare nuovamente questo Pacchetto di Evidenze per una valutazione completa della versione 5.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

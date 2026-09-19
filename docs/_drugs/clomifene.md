@@ -29,104 +29,105 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Clomifene: From Ovulation Induction to Anovulation
+# Clomifene: Dall'induzione dell'ovulazione all'anovulazione
 
-## One-Sentence Summary
+## Sintesi a una frase
 
-Clomifene (clomiphene citrate) is a selective estrogen receptor modulator (SERM) with over 60 years of global clinical use as a first-line ovulation induction agent for anovulatory infertility, though it is not currently registered in Italy.
-The TxGNN model generated 10 predicted indications; **anovulation** (rank #10, score 99.52%) is the sole prediction with robust clinical support, backed by **50 clinical trials** and **20 publications** — the only L1-level finding in the entire prediction set.
-The top-ranked predictions (ranks 1–9) were assessed as Hold or Research Question due to absent mechanistic links or lack of any clinical evidence, making anovulation the single actionable candidate from this TxGNN run.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in Italy; globally established for ovulation induction in anovulatory infertility (incl. PCOS) |
-| Predicted New Indication | Anovulation (WHO Group II) |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L1 |
-| Italy Market Status | Not registered |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Il Clomifene (citrato di clomifene) è un modulatore selettivo dei recettori degli estrogeni (SERM) con oltre 60 anni di uso clinico globale come agente di prima linea per l'induzione dell'ovulazione nell'infertilità anovulatoria, sebbene non sia attualmente registrato in Italia.
+Il modello TxGNN ha generato 10 indicazioni previste; **anovulazione** (rank #10, score 99.52%) è l'unica previsione con robuste prove cliniche, supportata da **50 trial clinici** e **20 pubblicazioni** — l'unico risultato di livello L1 nell'intero set di previsioni.
+Le previsioni con ranking più alto (rank 1–9) sono state valutate come Sospensione o Domanda di ricerca a causa di assenti legami meccanicistici o mancanza di qualsiasi evidenza clinica, rendendo l'anovulazione il singolo candidato attuabile da questa esecuzione TxGNN.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Formal DrugBank mechanism of action data for Clomifene was not retrieved in this evidence pack. Based on the well-established clinical literature, Clomifene is a SERM of the triphenylethylene class. It competitively occupies estrogen receptors (ERα/ERβ) in the hypothalamic arcuate nucleus, blocking the normal estrogen negative-feedback signal. This disruption increases Kisspeptin/GnRH pulse frequency and amplitude, driving a synchronized rise in pituitary FSH and LH. The resulting gonadotropin surge stimulates follicle recruitment, dominant follicle maturation, and ultimately ovulation.
-
-This mechanism directly addresses the root pathophysiology of WHO Group II anovulatory disorders — including polycystic ovary syndrome (PCOS) — where the hypothalamic-pituitary-ovarian (HPO) axis is functionally dysregulated but the ovarian machinery itself remains capable of responding. For these patients, removing the hypothalamic estrogen-feedback block is sufficient to restore the endogenous hormonal cascade needed for ovulation. This is why Clomifene has remained the backbone of first-line ovulation induction therapy for more than six decades, with multiple Phase 3/4 RCTs and several Cochrane systematic reviews confirming its efficacy.
-
-> **TxGNN Prediction Context — Ranks 1–9:** The nine higher-ranked predictions include chromosomal copy-number disorders (partial trisomy/tetrasomy of chr5, chr12, chr18), anatomical structural defects (transverse and longitudinal vaginal septa), and rare genetic syndromes (46,XY testicular steroidogenesis defect, fragile X female carrier, BPES and its 3q23 variant). Each was assessed as **Hold** or **Research Question**: chromosomal dosage anomalies are inaccessible to any SERM mechanism; structural anatomical defects require surgical correction; and while BPES/fragile X–associated POI share a theoretical estrogen-axis intersection, no clinical evidence exists. Near-identical TxGNN scores across multiple chromosomal entries (0.99537–0.99538) strongly suggest knowledge-graph clustering artefacts in the reproductive-system node neighbourhood rather than genuine biological signal. Anovulation remains the only prediction supported by direct mechanistic and clinical evidence.
+| Elemento | Contenuto |
+|---------|---------|
+| Indicazione originaria | Non registrata in Italia; globalmente consolidata per l'induzione dell'ovulazione nell'infertilità anovulatoria (incl. PCOS) |
+| Indicazione prevista nuova | Anovulazione (Gruppo II OMS) |
+| Score di previsione TxGNN | 99.52% |
+| Livello di evidenza | L1 |
+| Stato del mercato italiano | Non registrata |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con protezioni |
 
 ---
 
-## Clinical Trial Evidence
+## Perché questa previsione è ragionevole?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+I dati formali del meccanismo d'azione di DrugBank per il Clomifene non sono stati recuperati in questo pacchetto di evidenze. Sulla base della letteratura clinica ben consolidata, il Clomifene è un SERM della classe trifeniletilidene. Occupa competitivamente i recettori degli estrogeni (ERα/ERβ) nel nucleo arcuato ipotalamico, bloccando il normale segnale di feedback negativo degli estrogeni. Questa interruzione aumenta la frequenza e l'ampiezza degli impulsi di Kisspeptina/GnRH, determinando un aumento sincronizzato di FSH e LH ipofisari. L'aumento di gonadotropine risultante stimola il reclutamento dei follicoli, la maturazione del follicolo dominante e infine l'ovulazione.
+
+Questo meccanismo affronta direttamente la fisiopatologia di base dei disturbi anovulatori del Gruppo II OMS — inclusa la sindrome dell'ovaio policistico (PCOS) — dove l'asse ipotalamico-ipofisario-ovarico (HPO) è funzionalmente disregolato ma la macchina ovarica rimane in grado di rispondere. Per questi pazienti, rimuovere il blocco ipotalamico del feedback degli estrogeni è sufficiente per ripristinare la cascata ormonale endogena necessaria per l'ovulazione. Questo è il motivo per cui il Clomifene rimane la spina dorsale della terapia di induzione dell'ovulazione di prima linea da più di sei decenni, con molteplici RCT di Fase 3/4 e diverse revisioni sistematiche Cochrane che confermano la sua efficacia.
+
+> **Contesto della previsione TxGNN — Rank 1–9:** Le nove previsioni con ranking più alto includono disturbi della copia numero cromosomico (trisomia parziale/tetrasomia di chr5, chr12, chr18), difetti strutturali anatomici (setti vaginali trasversali e longitudinali) e sindromi genetiche rare (difetto della steroidogenesi testicolare 46,XY, portatrice di X fragile femmina, BPES e sua variante 3q23). Ognuno è stato valutato come **Sospensione** o **Domanda di ricerca**: le anomalie del dosaggio cromosomico sono inaccessibili a qualsiasi meccanismo SERM; i difetti anatomici strutturali richiedono correzione chirurgica; e sebbene BPES e insufficienza ovarica prematura associata a X fragile condividano un'intersezione teorica dell'asse estrogenico, non esiste alcuna evidenza clinica. Score TxGNN quasi identici su molteplici voci cromosomiche (0.99537–0.99538) suggeriscono fortemente artefatti di clustering del grafo della conoscenza nel vicinato del nodo del sistema riproduttivo piuttosto che vero segnale biologico. L'anovulazione rimane l'unica previsione supportata da evidenza diretta meccanicistica e clinica.
+
+---
+
+## Evidenza da trial clinici
+
+| Numero trial | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00478504](https://clinicaltrials.gov/study/NCT00478504) | Phase 4 | Completed | 159 | Double-blind crossover RCT: letrozole vs Clomifene for ovulation induction in PCOS; assessed pregnancy rate, multiple pregnancy rate, and live birth rate — primary Phase 4 head-to-head comparison |
-| [NCT00610077](https://clinicaltrials.gov/study/NCT00610077) | Phase 3 | Completed | 55 | Open randomized multicenter trial: letrozole vs Clomifene in anovulatory infertility; cycle-by-cycle follicular response and pregnancy outcomes compared across 59 vs 68 cycles |
-| [NCT00296465](https://clinicaltrials.gov/study/NCT00296465) | Phase 2/3 | Completed | 132 | Multicenter double-blind placebo-controlled RCT: pulsatile GnRH (IV/SC) vs Clomifene in anovulatory/oligoovulatory infertility; directly evaluated Clomifene ovulation induction efficacy and safety |
-| [NCT00213148](https://clinicaltrials.gov/study/NCT00213148) | Phase 2 | Completed | 271 | Multicenter double-blind dose-finding study: anastrozole vs Clomifene in ovulatory dysfunction; large sample providing dose-response data for follicular growth and ovulation induction |
-| [NCT00795808](https://clinicaltrials.gov/study/NCT00795808) | Phase 4 | Completed | 171 | Multicenter RCT: Metformin + Clomifene vs Clomifene alone vs Metformin alone in anovulatory PCOS; stratified by BMI (≤32 vs >32) to evaluate additive insulin-sensitising benefit |
-| [NCT01573858](https://clinicaltrials.gov/study/NCT01573858) | N/A | Completed | 1,000 | PCOSAct trial — four-arm large RCT: two acupuncture protocols combined with Clomifene vs placebo in anovulatory PCOS women; primary endpoint live birth rate; large-scale real-world evidence |
-| [NCT01896492](https://clinicaltrials.gov/study/NCT01896492) | Phase 4 | Completed | 200 | Double-blind RCT: Clomifene + N-acetyl cysteine (antioxidant adjuvant) vs Clomifene alone in newly diagnosed PCOS; assessed impact on ovulation and pregnancy rates |
-| [NCT00558077](https://clinicaltrials.gov/study/NCT00558077) | Phase 4 | Completed | 50 | RCT: laparoscopic ovarian diathermy vs Metformin + Clomifene as second-line treatment after Clomifene monotherapy failure in anovulatory PCOS |
-| [NCT02381184](https://clinicaltrials.gov/study/NCT02381184) | Phase 2/3 | Completed | 160 | RCT: extended Clomifene regimen (10-day) vs laparoscopic ovarian drilling in Clomifene-resistant PCOS; ovulation rate, endometrial thickness, and pregnancy rate as co-primary outcomes |
-| [NCT06486870](https://clinicaltrials.gov/study/NCT06486870) | Phase 3 | Completed | 183 | Three-arm RCT comparing two ovulation induction therapies vs laparoscopic ovarian drilling in Clomifene-resistant PCOS women; completed January 2024 — most recent Phase 3 evidence in this indication |
+| [NCT00478504](https://clinicaltrials.gov/study/NCT00478504) | Fase 4 | Completato | 159 | RCT crossover in doppio cieco: letrozolo vs Clomifene per induzione dell'ovulazione in PCOS; valutato tasso di gravidanza, tasso di gravidanza multipla e tasso di nascita viva — confronto head-to-head primario di Fase 4 |
+| [NCT00610077](https://clinicaltrials.gov/study/NCT00610077) | Fase 3 | Completato | 55 | Trial multicentrico randomizzato aperto: letrozolo vs Clomifene nell'infertilità anovulatoria; risposta follicolare ciclo per ciclo e risultati di gravidanza confrontati tra 59 e 68 cicli |
+| [NCT00296465](https://clinicaltrials.gov/study/NCT00296465) | Fase 2/3 | Completato | 132 | RCT multicentrico in doppio cieco controllato con placebo: GnRH pulsatile (IV/SC) vs Clomifene nell'infertilità anovulatoria/oligoovulatoria; ha valutato direttamente l'efficacia e la sicurezza dell'induzione dell'ovulazione con Clomifene |
+| [NCT00213148](https://clinicaltrials.gov/study/NCT00213148) | Fase 2 | Completato | 271 | Studio multicentrico in doppio cieco di ricerca della dose: anastrozolo vs Clomifene nella disfunzione ovulatoria; ampio campione che fornisce dati dose-risposta per la crescita follicolare e l'induzione dell'ovulazione |
+| [NCT00795808](https://clinicaltrials.gov/study/NCT00795808) | Fase 4 | Completato | 171 | RCT multicentrico: Metformina + Clomifene vs Clomifene da solo vs Metformina da sola nella PCOS anovulatoria; stratificato per BMI (≤32 vs >32) per valutare il beneficio additivo della sensibilità all'insulina |
+| [NCT01573858](https://clinicaltrials.gov/study/NCT01573858) | N/A | Completato | 1,000 | Trial PCOSAct — RCT a quattro bracci: due protocolli di agopuntura combinati con Clomifene vs placebo in donne PCOS anovulatorie; endpoint primario tasso di nascita viva; evidenza reale su larga scala |
+| [NCT01896492](https://clinicaltrials.gov/study/NCT01896492) | Fase 4 | Completato | 200 | RCT in doppio cieco: Clomifene + N-acetilcisteina (aggiunta antiossidante) vs Clomifene da solo in PCOS di nuova diagnosi; valutato impatto su tassi di ovulazione e gravidanza |
+| [NCT00558077](https://clinicaltrials.gov/study/NCT00558077) | Fase 4 | Completato | 50 | RCT: diatermocoagulazione laparoscopica ovarica vs Metformina + Clomifene come trattamento di seconda linea dopo fallimento della monoterapia con Clomifene nella PCOS anovulatoria |
+| [NCT02381184](https://clinicaltrials.gov/study/NCT02381184) | Fase 2/3 | Completato | 160 | RCT: regime Clomifene esteso (10 giorni) vs drilling ovarico laparoscopico nella PCOS resistente a Clomifene; tasso di ovulazione, spessore endometriale e tasso di gravidanza come outcome co-primari |
+| [NCT06486870](https://clinicaltrials.gov/study/NCT06486870) | Fase 3 | Completato | 183 | RCT a tre bracci che confronta due terapie di induzione dell'ovulazione vs drilling ovarico laparoscopico in donne PCOS resistenti a Clomifene; completato gennaio 2024 — evidenza di Fase 3 più recente in questa indicazione |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|------|------|------|---------|
-| [36165742](https://pubmed.ncbi.nlm.nih.gov/36165742/) | 2022 | Cochrane SR / Meta-analysis | Cochrane Database Syst Rev | Letrozole vs Clomifene for ovulation induction in PCOS: letrozole yields higher live birth and ovulation rates; Clomifene confirmed as the historical first-line standard against which all alternatives are benchmarked |
-| [29273245](https://pubmed.ncbi.nlm.nih.gov/29273245/) | 2018 | 2×2 Factorial RCT | Lancet | M-OVIN trial: gonadotrophins vs Clomifene ± IUI in normogonadotropic anovulation with Clomifene failure; defines when to escalate from Clomifene to second-line therapy |
-| [29183107](https://pubmed.ncbi.nlm.nih.gov/29183107/) | 2017 | Cochrane SR | Cochrane Database Syst Rev | Insulin-sensitising drugs (metformin, TZDs) vs Clomifene for PCOS subfertility; supports Clomifene's central role in standard treatment algorithms for anovulatory PCOS |
-| [28143834](https://pubmed.ncbi.nlm.nih.gov/28143834/) | 2017 | Network Meta-analysis | BMJ | Systematic review + network meta-analysis comparing all first-line treatments for WHO Group II anovulation; provides ranked comparative effectiveness including Clomifene |
-| [15674894](https://pubmed.ncbi.nlm.nih.gov/15674894/) | 2005 | Cochrane SR | Cochrane Database Syst Rev | Oral anti-oestrogens and adjuncts for anovulation-related subfertility; foundational review establishing Clomifene's first-line status and evaluating tamoxifen, dexamethasone, bromocriptine, and aromatase inhibitors for resistance |
-| [36622200](https://pubmed.ncbi.nlm.nih.gov/36622200/) | 2023 | Follow-up RCT Analysis | Hum Reprod | Long-term outcomes after switching to gonadotrophins vs continuing Clomifene ± IUI in normogonadotropic anovulation; critical evidence for treatment-sequencing decisions post-Clomifene failure |
-| [41863134](https://pubmed.ncbi.nlm.nih.gov/41863134/) | 2026 | Review | Gynecol Endocrinol | Most recent comprehensive review of Clomiphene citrate in anovulation: MOA, epidemiology, clinical efficacy, predictors of treatment outcome, and current limitations |
-| [25681838](https://pubmed.ncbi.nlm.nih.gov/25681838/) | 2015 | Clinical Review | Obstet Gynecol Clin North Am | Ovulation induction review: pharmacology, indications, dosing regimens, efficacy, adjuvant therapies, and monitoring — standard clinical reference for Clomifene use |
-| [21406133](https://pubmed.ncbi.nlm.nih.gov/21406133/) | 2010 | Clinical Review | BMJ Clin Evid | Evidence-based review of female infertility treatments, including Clomifene for ovulatory failure; contextualises Clomifene within the broader infertility management pathway |
-| [2282740](https://pubmed.ncbi.nlm.nih.gov/2282740/) | 1990 | Pharmacological Review | Baillières Clin Obstet Gynaecol | Seminal pharmacological review of Clomiphene citrate: mechanism, clinical use, dosing principles, and side-effect profile — the foundational reference establishing its role in anovulation treatment |
+| [36165742](https://pubmed.ncbi.nlm.nih.gov/36165742/) | 2022 | Cochrane SR / Meta-analisi | Cochrane Database Syst Rev | Letrozolo vs Clomifene per induzione dell'ovulazione in PCOS: letrozolo produce tassi più elevati di nascita viva e ovulazione; Clomifene confermato come standard storico di prima linea rispetto al quale tutti gli alternative sono valutati |
+| [29273245](https://pubmed.ncbi.nlm.nih.gov/29273245/) | 2018 | RCT fattoriale 2×2 | Lancet | Trial M-OVIN: gonadotropine vs Clomifene ± IUI nell'anovulazione normogonadotropica con fallimento del Clomifene; definisce quando passare da Clomifene alla terapia di seconda linea |
+| [29183107](https://pubmed.ncbi.nlm.nih.gov/29183107/) | 2017 | Cochrane SR | Cochrane Database Syst Rev | Farmaci che aumentano la sensibilità all'insulina (metformina, TZD) vs Clomifene per subfertilità PCOS; supporta il ruolo centrale del Clomifene negli algoritmi di trattamento standard per PCOS anovulatoria |
+| [28143834](https://pubmed.ncbi.nlm.nih.gov/28143834/) | 2017 | Meta-analisi di rete | BMJ | Revisione sistematica + meta-analisi di rete che confronta tutti i trattamenti di prima linea per anovulazione del Gruppo II OMS; fornisce efficacia comparativa classificata incluso il Clomifene |
+| [15674894](https://pubmed.ncbi.nlm.nih.gov/15674894/) | 2005 | Cochrane SR | Cochrane Database Syst Rev | Anti-estrogeni orali e adiuvanti per subfertilità correlata all'anovulazione; revisione fondamentale che stabilisce lo status di prima linea del Clomifene e valuta tamoxifene, desametasone, bromocriptina e inibitori dell'aromatasi per la resistenza |
+| [36622200](https://pubmed.ncbi.nlm.nih.gov/36622200/) | 2023 | Analisi di follow-up RCT | Hum Reprod | Risultati a lungo termine dopo il passaggio a gonadotropine vs continuazione di Clomifene ± IUI nell'anovulazione normogonadotropica; evidenza critica per decisioni di sequenziamento del trattamento post-fallimento del Clomifene |
+| [41863134](https://pubmed.ncbi.nlm.nih.gov/41863134/) | 2026 | Revisione | Gynecol Endocrinol | Revisione più recente e completa del citrato di clomifene nell'anovulazione: MOA, epidemiologia, efficacia clinica, predittori di esito del trattamento e limitazioni attuali |
+| [25681838](https://pubmed.ncbi.nlm.nih.gov/25681838/) | 2015 | Revisione clinica | Obstet Gynecol Clin North Am | Revisione dell'induzione dell'ovulazione: farmacologia, indicazioni, schemi di dosaggio, efficacia, terapie adiuvanti e monitoraggio — riferimento clinico standard per l'uso del Clomifene |
+| [21406133](https://pubmed.ncbi.nlm.nih.gov/21406133/) | 2010 | Revisione clinica | BMJ Clin Evid | Revisione basata su evidenze dei trattamenti dell'infertilità femminile, incluso il Clomifene per il fallimento ovulatorio; contestualizza il Clomifene nel percorso più ampio di gestione dell'infertilità |
+| [2282740](https://pubmed.ncbi.nlm.nih.gov/2282740/) | 1990 | Revisione farmacologica | Baillières Clin Obstet Gynaecol | Revisione farmacologica seminale del citrato di clomifene: meccanismo, uso clinico, principi di dosaggio e profilo degli effetti collaterali — il riferimento fondamentale che stabilisce il suo ruolo nel trattamento dell'anovulazione |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Clomifene is currently **not registered with AIFA** in Italy. No marketing authorizations are on record (0 licenses). Any clinical use in Italy at this time would require either a formal marketing authorization application or access through a compassionate use / off-label prescribing pathway under applicable Italian regulation.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Based on the established clinical literature, the following safety aspects are recognized for Clomifene in ovulation induction:
-> - **Multiple pregnancy**: Twin rate approximately 5–10%; higher-order multiples are possible, particularly at higher doses
-> - **Ovarian hyperstimulation syndrome (OHSS)**: Lower risk than FSH-based gonadotropin protocols, but ultrasound monitoring during stimulation cycles is recommended
-> - **Anti-estrogenic peripheral effects**: May reduce endometrial thickness and cervical mucus quality, potentially lowering implantation rates despite successful ovulation — a recognized gap between ovulation rate (~80%) and pregnancy rate (~40%) per cycle
+Il Clomifene attualmente **non è registrato presso AIFA** in Italia. Non sono presenti autorizzazioni di commercializzazione (0 licenze). Qualsiasi uso clinico in Italia in questo momento richiederebbe sia una domanda formale di autorizzazione di commercializzazione che l'accesso attraverso un percorso di uso compassionevole / prescrizione off-label secondo la normativa italiana applicabile.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-Clomifene has the highest possible evidence level (L1) for anovulation, supported by multiple completed Phase 3/4 RCTs, Cochrane systematic reviews, and six decades of clinical practice globally. The TxGNN model assigns a 99.52% prediction score, and the drug's SERM mechanism directly and specifically addresses the HPO-axis dysregulation underlying WHO Group II anovulatory infertility. The primary barrier to use in Italy is the current absence of AIFA registration rather than any gap in clinical efficacy evidence.
+> Sulla base della letteratura clinica consolidata, i seguenti aspetti di sicurezza sono riconosciuti per il Clomifene nell'induzione dell'ovulazione:
+> - **Gravidanza multipla**: Il tasso di gemelli è approssimativamente 5–10%; i multipli di ordine superiore sono possibili, in particolare a dosi più elevate
+> - **Sindrome da iperstimolazione ovarica (OHSS)**: Rischio più basso rispetto ai protocolli basati su gonadotropine FSH, ma si consiglia il monitoraggio ecografico durante i cicli di stimolazione
+> - **Effetti periferici anti-estrogenici**: Può ridurre lo spessore endometriale e la qualità del muco cervicale, abbassando potenzialmente i tassi di impianto nonostante l'ovulazione riuscita — un gap riconosciuto tra il tasso di ovulazione (~80%) e il tasso di gravidanza (~40%) per ciclo
 
-**To proceed, the following is needed:**
-- Obtain formal package insert for Clomifene (contraindications, warnings, full safety profile) to complete the S1 safety screen currently blocked by the data gap
-- Retrieve complete DrugBank MOA documentation (currently flagged as data gap DG002)
-- Evaluate the AIFA regulatory pathway: marketing authorization application vs. off-label/compassionate use framework
-- Develop a clinical safety monitoring protocol covering: ultrasound surveillance per stimulation cycle, multiple pregnancy counseling, OHSS risk stratification, and a maximum treatment duration policy (standard practice: ≤6 consecutive cycles)
-- Review current first-line positioning of Clomifene relative to letrozole in the Italian clinical context, given that recent Cochrane evidence (2022) and the PCOS international guidelines increasingly favour letrozole as preferred first-line for PCOS-related anovulation
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Procedere con protezioni**
+
+**Razionale:**
+Il Clomifene ha il più alto livello di evidenza possibile (L1) per l'anovulazione, supportato da molteplici RCT di Fase 3/4 completati, revisioni sistematiche Cochrane e sei decenni di pratica clinica globale. Il modello TxGNN assegna uno score di previsione del 99.52%, e il meccanismo SERM del farmaco affronta direttamente e specificamente la disregolazione dell'asse HPO sottostante all'infertilità anovulatoria del Gruppo II OMS. La barriera primaria all'uso in Italia è l'attuale assenza di registrazione AIFA piuttosto che qualsiasi gap nell'evidenza di efficacia clinica.
+
+**Per procedere, è necessario quanto segue:**
+- Ottenere il foglio illustrativo formale per il Clomifene (controindicazioni, avvertenze, profilo di sicurezza completo) per completare lo screening di sicurezza S1 attualmente bloccato dal gap di dati
+- Recuperare la documentazione completa del MOA di DrugBank (attualmente contrassegnata come gap di dati DG002)
+- Valutare il percorso normativo AIFA: domanda di autorizzazione di commercializzazione vs. framework di uso off-label/compassionevole
+- Sviluppare un protocollo di monitoraggio della sicurezza clinica che copra: sorveglianza ecografica per ciclo di stimolazione, consulenza sulla gravidanza multipla, stratificazione del rischio OHSS e una politica di durata massima del trattamento (pratica standard: ≤6 cicli consecutivi)
+- Esaminare il posizionamento attuale di prima linea del Clomifene rispetto al letrozolo nel contesto clinico italiano, dato che l'evidenza Cochrane recente (2022) e le linee guida PCOS internazionali sempre più favoriscono il letrozolo come preferito di prima linea per l'anovulazione correlata a PCOS
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

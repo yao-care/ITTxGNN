@@ -29,82 +29,83 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Clopidogrel: Drug Repurposing Evaluation — No Predictions Available
+# Clopidogrel: Valutazione del riposizionamento del farmaco — Nessuna previsione disponibile
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Clopidogrel (DrugBank ID: DB00758) is a pharmaceutical compound submitted for drug repurposing evaluation in this cycle.
-However, the TxGNN model did not generate any predicted new indications, and critical data items — including mechanism of action, original indication, and safety information — are currently unavailable.
-This report documents the data gaps and outlines the steps required before a substantive evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current dataset |
-| Predicted New Indication | No prediction generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction not generated; evaluation cannot proceed |
-| Italy Market Status | Not marketed (per current dataset) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Clopidogrel (DrugBank ID: DB00758) è un composto farmaceutico sottoposto a valutazione del riposizionamento del farmaco in questo ciclo.
+Tuttavia, il modello TxGNN non ha generato alcuna indicazione nuova prevista, e elementi di dati critici — incluso il meccanismo d'azione, l'indicazione originaria e le informazioni sulla sicurezza — non sono attualmente disponibili.
+Questo rapporto documenta i gap nei dati e delinea i passaggi necessari prima che una valutazione sostanziale possa procedere.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-No mechanism of action data is available for this evaluation cycle. The `original_moa` field was not populated, and although the DrugBank query returned one result, the MOA content was not extracted into the Evidence Pack.
-
-Because `predicted_indications` is empty, the TxGNN model did not produce any repurposing candidates for Clopidogrel in this run. Without a target indication, it is not possible to assess mechanistic plausibility or the relationship between original and new uses.
-
-Additionally, the original indications list is empty, which prevents a baseline characterisation of what therapeutic area the drug currently addresses.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Non disponibile nel set di dati attuale |
+| Indicazione nuova prevista | Nessuna previsione generata |
+| Punteggio di previsione TxGNN | N/D |
+| Livello di evidenza | L5 — Previsione del modello non generata; la valutazione non può procedere |
+| Stato di commercializzazione Italia | Non commercializzato (secondo il set di dati attuale) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related literature available.
+Non sono disponibili dati sul meccanismo d'azione per questo ciclo di valutazione. Il campo `original_moa` non è stato compilato, e sebbene la query di DrugBank abbia restituito un risultato, il contenuto del MOA non è stato estratto nell'Evidence Pack.
 
----
+Poiché `predicted_indications` è vuoto, il modello TxGNN non ha prodotto alcun candidato di riposizionamento per il clopidogrel in questa esecuzione. Senza un'indicazione target, non è possibile valutare la plausibilità meccanicistica o la relazione tra gli usi originali e nuovi.
 
-## Italy Market Information
-
-No regulatory authorizations found in the current dataset. The queried Italy market status returned zero licenses.
-
-> **Note:** The TFDA/AIFA package insert query log shows a successful result (`result_count: 1`), but the contents were not parsed into the Evidence Pack. Italy registration data may exist and should be retrieved in the next data collection cycle.
+Inoltre, l'elenco delle indicazioni originarie è vuoto, il che impedisce una caratterizzazione basale dell'area terapeutica che il farmaco attualmente affronta.
 
 ---
 
-## Safety Considerations
+## Evidenza da studi clinici
 
-Please refer to the package insert for safety information.
-
-> The package insert query returned a successful result but was not parsed into structured safety fields. Key warnings, contraindications, and drug interaction data remain unavailable.
+Attualmente non vi sono prove cliniche correlate registrate.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da letteratura
 
-**Decision: Hold**
+Attualmente non è disponibile alcuna letteratura correlata.
 
-**Rationale:**
-The Evidence Pack for Clopidogrel is incomplete at a foundational level — no TxGNN predictions were generated and all drug-level data fields are empty or unpopulated. A repurposing evaluation cannot be meaningfully conducted under these conditions.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul mercato italiano
 
-- **Re-run TxGNN prediction pipeline** for DB00758 to generate `predicted_indications` with scores, clinical trial links, and literature references
-- **Extract MOA from DrugBank** — the DrugBank query returned 1 successful result; the mechanism of action should be parsed and populated (Data Gap DG002)
-- **Parse package insert for safety data** — the TFDA package insert query returned 1 successful result; key warnings and contraindications should be extracted (Data Gap DG001)
-- **Verify Italy/AIFA market status** — Clopidogrel is a widely distributed antiplatelet agent; the current 0-license result likely reflects a data pipeline gap rather than actual market absence
-- **Populate original indications** — the `original_indications` field is empty and must be filled before any from/to repurposing framing is possible
+Nessuna autorizzazione normativa trovata nel set di dati attuale. Lo stato di commercializzazione Italia interrogato ha restituito zero licenze.
+
+> **Nota:** Il registro di query del foglio illustrativo TFDA/AIFA mostra un risultato positivo (`result_count: 1`), ma i contenuti non sono stati analizzati nell'Evidence Pack. I dati di registrazione italiana potrebbero esistere e dovrebbero essere recuperati nel prossimo ciclo di raccolta dati.
+
+---
+
+## Considerazioni sulla sicurezza
+
+Per informazioni sulla sicurezza, fare riferimento al foglio illustrativo.
+
+> La query del foglio illustrativo ha restituito un risultato positivo ma non è stata analizzata in campi di sicurezza strutturati. Le informazioni su avvertenze chiave, controindicazioni e dati di interazioni farmacologiche rimangono non disponibili.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+L'Evidence Pack per il clopidogrel è incompleto a livello fondamentale — non sono state generate previsioni TxGNN e tutti i campi di dati a livello farmaco sono vuoti o non compilati. Una valutazione del riposizionamento non può essere condotta in modo significativo in queste condizioni.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Rieseguire la pipeline di previsione TxGNN** per DB00758 per generare `predicted_indications` con punteggi, link a prove cliniche e riferimenti letterari
+- **Estrarre MOA da DrugBank** — la query di DrugBank ha restituito 1 risultato positivo; il meccanismo d'azione dovrebbe essere analizzato e compilato (Lacuna di dati DG002)
+- **Analizzare il foglio illustrativo per i dati sulla sicurezza** — la query del foglio illustrativo TFDA ha restituito 1 risultato positivo; le avvertenze chiave e le controindicazioni dovrebbero essere estratte (Lacuna di dati DG001)
+- **Verificare lo stato di commercializzazione Italia/AIFA** — Il clopidogrel è un agente antipiastrinico ampiamente distribuito; il risultato attuale di 0 licenze probabilmente riflette un gap nella pipeline dei dati piuttosto che un'assenza effettiva dal mercato
+- **Compilare le indicazioni originarie** — il campo `original_indications` è vuoto e deve essere compilato prima che qualsiasi framing da/a del riposizionamento sia possibile
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

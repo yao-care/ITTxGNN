@@ -29,80 +29,81 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Siponimod: From Secondary Progressive Multiple Sclerosis to Pulmonary Hypertension
+# Siponimod: dalla sclerosi multipla progressiva secondaria all'ipertensione polmonare
 
-## One-Sentence Summary
+## Sommario
 
-Siponimod (Mayzent) is a selective sphingosine-1-phosphate (S1P) receptor modulator approved for secondary progressive multiple sclerosis (SPMS), where it reduces CNS lymphocyte infiltration and slows disease progression.
-The TxGNN model predicts it may be effective for **Pulmonary Hypertension**,
-however there are currently **0 clinical trials** and **0 publications** directly supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Secondary Progressive Multiple Sclerosis (SPMS) |
-| Predicted New Indication | Pulmonary Hypertension |
-| TxGNN Prediction Score | 99.68% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Siponimod (Mayzent) è un modulatore selettivo dei recettori della sfingosina-1-fosfato (S1P) approvato per la sclerosi multipla progressiva secondaria (SPMS), dove riduce l'infiltrazione di linfociti nel SNC e rallenta la progressione della malattia.
+Il modello TxGNN predice che potrebbe essere efficace per l'**ipertensione polmonare**,
+tuttavia attualmente ci sono **0 trial clinici** e **0 pubblicazioni** che supportano direttamente questa direzione.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, siponimod is a selective S1P1/S1P5 receptor modulator approved for secondary progressive multiple sclerosis. It acts by retaining lymphocytes in lymph nodes, reducing their infiltration into the CNS, and additionally exerts neuroprotective effects via S1P5 receptors in the brain and spinal cord.
-
-The theoretical connection to pulmonary hypertension lies in the vascular biology of S1P signaling. S1P1 receptors are expressed on pulmonary vascular endothelial cells, and the S1P axis regulates vascular tone, endothelial barrier integrity, and smooth muscle cell proliferation — all processes that are dysregulated in pulmonary arterial hypertension (PAH). An S1P1 modulator could, in principle, influence pathological pulmonary vascular remodeling.
-
-However, this mechanistic link operates in both directions. Siponimod carries established cardiac safety warnings — including first-dose bradycardia and AV conduction block — which represent a specific concern in pulmonary hypertension patients who commonly have compromised right ventricular function. This safety profile may constitute a relative or absolute contraindication in this population. Pre-clinical validation in pulmonary vascular disease models would be essential before any further development in this direction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Sclerosi Multipla Progressiva Secondaria (SPMS) |
+| Indicazione nuova predetta | Ipertensione polmonare |
+| Punteggio di predizione TxGNN | 99.68% |
+| Livello di evidenza | L5 |
+| Stato di commercializzazione in Italia | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Literature Evidence
+## Perché questa predizione è ragionevole?
 
-Currently no related literature available.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. In base alle informazioni note, siponimod è un modulatore selettivo dei recettori S1P1/S1P5 approvato per la sclerosi multipla progressiva secondaria. Agisce trattenendo i linfociti nei linfonodi, riducendo la loro infiltrazione nel SNC, e inoltre esercita effetti neuroprotettivi attraverso i recettori S1P5 nel cervello e nel midollo spinale.
 
----
+Il collegamento teorico all'ipertensione polmonare risiede nella biologia vascolare della segnalazione S1P. I recettori S1P1 sono espressi sulle cellule endoteliali vascolari polmonari, e l'asse S1P regola il tono vascolare, l'integrità della barriera endoteliale e la proliferazione delle cellule muscolari lisce — tutti processi disregolati nell'ipertensione polmonare arteriosa (PAH). Un modulatore S1P1 potrebbe, in linea di principio, influenzare il rimodellamento vascolare polmonare patologico.
 
-## Italy Market Information
-
-Siponimod is not currently marketed in Italy. No AIFA authorizations are on record.
+Tuttavia, questo collegamento meccanicistico opera in entrambe le direzioni. Siponimod ha avvertimenti di sicurezza cardiaca consolidati — inclusa bradicardia alla prima dose e blocco della conduzione AV — che rappresentano una preoccupazione specifica nei pazienti affetti da ipertensione polmonare che comunemente hanno funzione ventricolare destra compromessa. Questo profilo di sicurezza può costituire una controindicazione relativa o assoluta in questa popolazione. La validazione preclinica in modelli di malattia vascolare polmonare sarebbe essenziale prima di qualsiasi ulteriore sviluppo in questa direzione.
 
 ---
 
-## Safety Considerations
+## Evidenza da trial clinici
 
-Please refer to the package insert for safety information.
-
-> **Note:** Package insert warnings and contraindications data were not retrievable in this evidence pack. Based on the drug's pharmacological class (S1P receptor modulator), clinically relevant safety considerations include: first-dose bradycardia, AV conduction block, macular oedema, risk of infections due to lymphopenia, and CYP2C9 genotype-dependent dosing requirements.
+Attualmente nessun trial clinico correlato è registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata è disponibile.
 
-**Rationale:**
-The TxGNN model assigns a high prediction score (99.68%) based on knowledge graph connectivity between S1P1 receptor biology and pulmonary vascular disease, but there is currently zero clinical or published literature evidence specifically supporting siponimod in pulmonary hypertension. Furthermore, the drug's known cardiac safety profile raises specific concerns in this patient population.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul mercato italiano
 
-- **Pre-clinical validation:** Pulmonary arterial hypertension animal model studies (e.g., monocrotaline or Sugen/hypoxia rat model) examining the effect of S1P1 modulation on pulmonary vascular remodeling
-- **Cardiac safety assessment:** Right ventricular hemodynamic evaluation in a PH-specific context, given known bradycardia and AV block risks
-- **Full MOA data retrieval:** DrugBank API query to confirm receptor selectivity profile (S1P1 vs. S1P5 vs. other subtypes) and downstream signaling
-- **Regulatory safety review:** Download and parse the full EMA/AIFA package insert to identify whether pulmonary hypertension or cardiac conduction abnormalities are listed as contraindications
-- **Comparator landscape review:** Survey other S1P modulators (fingolimod, ozanimod) for any available PAH preclinical or clinical data to assess class-level plausibility
+Siponimod non è attualmente commercializzato in Italia. Nessuna autorizzazione AIFA è registrata.
+
+---
+
+## Considerazioni sulla sicurezza
+
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+
+> **Nota:** I dati sugli avvertimenti del foglio illustrativo e sulle controindicazioni non erano recuperabili in questo pacchetto di evidenze. In base alla classe farmacologica del farmaco (modulatore del recettore S1P), le considerazioni di sicurezza clinicamente rilevanti includono: bradicardia alla prima dose, blocco della conduzione AV, edema maculare, rischio di infezioni dovute a linfopenia e requisiti di dosaggio dipendenti dal genotipo CYP2C9.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Il modello TxGNN assegna un punteggio di predizione elevato (99.68%) basato sulla connettività del grafo di conoscenza tra la biologia del recettore S1P1 e la malattia vascolare polmonare, ma attualmente non esiste alcuna evidenza clinica o letteraria pubblicata che supporti specificamente siponimod nell'ipertensione polmonare. Inoltre, il noto profilo di sicurezza cardiaca del farmaco suscita preoccupazioni specifiche in questa popolazione di pazienti.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Validazione preclinica:** Studi su modelli animali di ipertensione polmonare arteriosa (ad es., modello di ratto con monocrotalina o Sugen/ipossia) che esaminano l'effetto della modulazione S1P1 sul rimodellamento vascolare polmonare
+- **Valutazione della sicurezza cardiaca:** Valutazione emodinamica ventricolare destra in un contesto specifico per PH, dato il rischio noto di bradicardia e blocco AV
+- **Recupero dati MOA completi:** Query dell'API DrugBank per confermare il profilo di selettività dei recettori (S1P1 vs. S1P5 vs. altri sottotipi) e la segnalazione a valle
+- **Revisione della sicurezza normativa:** Scaricare e analizzare il foglio illustrativo completo EMA/AIFA per identificare se l'ipertensione polmonare o le anomalie della conduzione cardiaca sono elencate come controindicazioni
+- **Revisione del panorama comparativo:** Esaminare altri modulatori S1P (fingolimod, ozanimod) per eventuali dati preclinici o clinici PAH disponibili per valutare la plausibilità a livello di classe
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

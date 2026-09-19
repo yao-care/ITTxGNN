@@ -29,77 +29,78 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# EFMOROCTOCOG ALFA: Evidence Pack Insufficient for Repurposing Evaluation
+# EFMOROCTOCOG ALFA: Pacchetto di Prove Insufficiente per la Valutazione del Riutilizzo
 
-## One-Sentence Summary
+## Riassunto in una Frase
 
-EFMOROCTOCOG ALFA (DrugBank: DB11607) is identified in the DrugBank database, but this Evidence Pack contains no original indication records, no TxGNN-predicted new indications, and no Italy market authorizations.
-A complete drug repurposing evaluation **cannot be performed** at this stage — the report below documents the current data status and recommended remediation steps.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in this Evidence Pack |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no predictions to evaluate |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+EFMOROCTOCOG ALFA (DrugBank: DB11607) è identificato nel database DrugBank, ma questo Pacchetto di Prove non contiene registri di indicazione originaria, nessuna nuova indicazione predetta da TxGNN, e nessuna autorizzazione di commercializzazione in Italia.
+Una valutazione completa del riutilizzo del farmaco **non può essere eseguita** in questa fase — il rapporto sottostante documenta lo stato attuale dei dati e i passaggi di correzione consigliati.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-No mechanism of action data is available in this Evidence Pack. The `original_moa` field is absent, and `original_indications` is an empty list, so it is not possible to construct a mechanistic rationale linking EFMOROCTOCOG ALFA to any candidate new indication.
-
-Furthermore, the TxGNN prediction pipeline returned zero candidate indications for this drug. Without at least one scored prediction, the downstream analysis — clinical trial matching, literature retrieval, evidence grading — cannot proceed.
-
-Until the two blocking data gaps (package insert and MOA) are resolved and TxGNN predictions are generated, any mechanistic commentary would be speculative and is therefore omitted per reporting standards.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for any predicted indication.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Non disponibile in questo Pacchetto di Prove |
+| Nuova Indicazione Predetta | Nessuna predizione generata |
+| Punteggio di Predizione TxGNN | N/A |
+| Livello di Evidenza | N/A — nessuna predizione da valutare |
+| Stato del Mercato in Italia | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Sospensione** |
 
 ---
 
-## Literature Evidence
+## Perché questa Predizione è Ragionevole?
 
-Currently no related literature available for any predicted indication.
+Nessun dato sul meccanismo di azione è disponibile in questo Pacchetto di Prove. Il campo `original_moa` è assente, e `original_indications` è un elenco vuoto, quindi non è possibile costruire una razionale meccanicistica che colleghi EFMOROCTOCOG ALFA a nessuna nuova indicazione candidata.
 
----
+Inoltre, la pipeline di predizione TxGNN ha restituito zero indicazioni candidate per questo farmaco. Senza almeno una predizione con punteggio, l'analisi a valle — abbinamento con i trial clinici, recupero della letteratura, classificazione delle prove — non può procedere.
 
-## Italy Market Information
-
-No marketing authorizations are recorded for EFMOROCTOCOG ALFA in Italy.
+Finché i due spazi di dati bloccanti (foglio illustrativo e meccanismo di azione) non saranno risolti e le predizioni TxGNN non saranno generate, qualsiasi commento meccanicistico sarebbe speculativo e quindi è omesso secondo gli standard di rendicontazione.
 
 ---
 
-## Safety Considerations
+## Evidenza dei Trial Clinici
 
-Please refer to the package insert for safety information.
+Attualmente non ci sono trial clinici correlati registrati per nessuna indicazione predetta.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza della Letteratura
 
-**Decision: Hold**
+Attualmente non è disponibile letteratura correlata per nessuna indicazione predetta.
 
-**Rationale:**
-This Evidence Pack contains no TxGNN-predicted indications and no original indication records, making it impossible to conduct a meaningful repurposing evaluation. Both identified data gaps carry **Blocking / High** severity ratings and must be resolved before the candidate can advance to S1 safety screening.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul Mercato in Italia
 
-- **\[DG001 — Blocking\]** Download and parse the TFDA package insert PDF to extract key warnings and contraindications; this is a prerequisite for S1 safety screening
-- **\[DG002 — High\]** Query the DrugBank API for EFMOROCTOCOG ALFA to retrieve the mechanism of action; required for mechanistic plausibility analysis
-- Re-run the TxGNN prediction pipeline once the above inputs are available, to generate candidate indications with confidence scores
-- After predictions are available, re-trigger evidence collection (ClinicalTrials.gov + PubMed) for the top-ranked indication
-- Verify Italy regulatory status via AIFA database in case a post-cutoff authorization exists
+Nessuna autorizzazione di commercializzazione è registrata per EFMOROCTOCOG ALFA in Italia.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Passaggi Successivi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Questo Pacchetto di Prove non contiene indicazioni predette da TxGNN e nessun registro di indicazione originaria, rendendo impossibile condurre una valutazione significativa del riutilizzo. Entrambi gli spazi di dati identificati hanno valutazioni di gravità **Blocking / High** e devono essere risolti prima che il candidato possa passare allo screening di sicurezza S1.
+
+**Per procedere, è necessario quanto segue:**
+
+- **\[DG001 — Blocking\]** Scaricare e analizzare il PDF del foglio illustrativo TFDA per estrarre avvertenze chiave e controindicazioni; questo è un prerequisito per lo screening di sicurezza S1
+- **\[DG002 — High\]** Interrogare l'API DrugBank per EFMOROCTOCOG ALFA per recuperare il meccanismo di azione; richiesto per l'analisi della plausibilità meccanicistica
+- Rieseguire la pipeline di predizione TxGNN una volta che gli input di cui sopra sono disponibili, per generare indicazioni candidate con punteggi di confidenza
+- Dopo che le predizioni sono disponibili, ri-attivare la raccolta delle prove (ClinicalTrials.gov + PubMed) per l'indicazione con il rango più alto
+- Verificare lo stato normativo italiano tramite il database AIFA nel caso in cui esista un'autorizzazione post-cutoff
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

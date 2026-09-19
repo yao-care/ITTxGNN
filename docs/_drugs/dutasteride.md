@@ -29,79 +29,80 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dutasteride: Repurposing Evaluation Cannot Proceed — Evidence Pack Incomplete
+# Dutasteride: La valutazione del riposizionamento non può procedere — Dossier di evidenze incompleto
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Dutasteride is a dual 5α-reductase inhibitor (5-ARI), broadly approved internationally for benign prostatic hyperplasia (BPH) and androgenetic alopecia, but currently not marketed in Taiwan.
-This Evidence Pack contains **no TxGNN-predicted new indications**, and critical data including mechanism of action and safety warnings are missing.
-A complete repurposing evaluation cannot be conducted until the identified data gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Benign prostatic hyperplasia (BPH) *(from general pharmaceutical knowledge; not supplied in Evidence Pack)* |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — no supporting studies provided in this pack |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Dutasteride è un inibitore duale della 5α-reduttasi (5-ARI), ampiamente approvato a livello internazionale per l'iperplasia prostatica benigna (IPB) e l'alopecia androgenetica, ma attualmente non commercializzato a Taiwan.
+Questo Dossier di evidenze non contiene **alcuna nuova indicazione prevista da TxGNN**, e dati critici inclusi il meccanismo d'azione e le avvertenze di sicurezza sono mancanti.
+Una valutazione completa del riposizionamento non può essere condotta finché le lacune identificate nei dati non vengono risolte.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-No TxGNN-predicted indication is included in this Evidence Pack, so a mechanistic bridge between original and new indication cannot be drawn at this time.
-
-Mechanism of action data is also absent from the Evidence Pack. Based on general pharmacological knowledge, dutasteride irreversibly inhibits both Type 1 and Type 2 isoforms of 5α-reductase, blocking the peripheral conversion of testosterone to dihydrotestosterone (DHT). This androgenic suppression underpins its efficacy in BPH and hair-loss indications and has motivated investigational use in prostate cancer prevention (e.g., the REDUCE trial). However, without a specific predicted indication to evaluate, the relevance of this mechanism to any new target cannot be formally assessed here.
-
-This section will be completed once TxGNN prediction output (candidate_id: `TW-DB01126-multi`) is retrieved and appended to the Evidence Pack.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available in this Evidence Pack; clinical trial evidence cannot be scoped or listed.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originaria | Iperplasia prostatica benigna (IPB) *(da conoscenze farmaceutiche generali; non fornite nel Dossier di evidenze)* |
+| Nuova indicazione prevista | Non disponibile |
+| Punteggio di previsione TxGNN | Non disponibile |
+| Livello di evidenza | L5 — nessuno studio di supporto fornito in questo dossier |
+| Stato del mercato a Taiwan | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Attesa** |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no predicted indication is available in this Evidence Pack; literature evidence cannot be scoped or listed.
+Nel Dossier di evidenze non è inclusa alcuna indicazione prevista da TxGNN, pertanto un ponte meccanicistico tra l'indicazione originaria e quella nuova non può essere tracciato al momento.
 
----
+Anche i dati sul meccanismo d'azione sono assenti dal Dossier di evidenze. Sulla base della conoscenza farmacologica generale, dutasteride inibisce irreversibilmente entrambi gli isoenzimi Tipo 1 e Tipo 2 della 5α-reduttasi, bloccando la conversione periferica del testosterone in diidrotestosterone (DHT). Questa soppressione androgenica è alla base della sua efficacia nelle indicazioni di IPB e perdita di capelli e ha motivato l'uso investigazionale nella prevenzione del cancro della prostata (ad es., il trial REDUCE). Tuttavia, senza una specifica indicazione prevista da valutare, la rilevanza di questo meccanismo per qualsiasi nuovo target non può essere formalmente valutata qui.
 
-## Taiwan Market Information
-
-Dutasteride is **not currently marketed in Taiwan**. No TFDA licenses are on record (TFDA query returned 0 results on 2026-03-29).
+Questa sezione sarà completata non appena l'output della previsione TxGNN (candidate_id: `TW-DB01126-multi`) sarà recuperato e aggiunto al Dossier di evidenze.
 
 ---
 
-## Safety Considerations
+## Evidenza da trial clinici
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not retrieved in this Evidence Pack.
-
-> **Data Gap Notice:** TFDA package insert warnings/contraindications (DG001, severity: Blocking) and DrugBank MOA/safety data (DG002, severity: High) are both outstanding. Until DG001 is resolved, the candidate cannot advance past the S1 safety screening gate.
+Attualmente nessuna indicazione prevista è disponibile in questo Dossier di evidenze; l'evidenza da trial clinici non può essere delimitata o elencata.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna indicazione prevista è disponibile in questo Dossier di evidenze; l'evidenza dalla letteratura non può essere delimitata o elencata.
 
-**Rationale:**
-The Evidence Pack for dutasteride is structurally incomplete — there are no TxGNN predictions to evaluate and two blocking-level data gaps remain unresolved, preventing any meaningful safety or mechanistic analysis.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul mercato di Taiwan
 
-1. **[Blocking] Retrieve TxGNN prediction results** — candidate_id `TW-DB01126-multi` should include at least one predicted indication; confirm whether the prediction pipeline was executed and why output is absent
-2. **[Blocking] Download and parse the TFDA package insert PDF** (DG001) — extract key warnings, contraindications, and dosing restrictions to enable S1 safety screening
-3. **[High] Retrieve MOA and DrugBank structured data** (DG002) — DrugBank query returned 1 result on 2026-03-29 but MOA was not populated; re-fetch and parse the pharmacodynamics field
-4. **[Medium] Confirm original approved indications** — `original_indications` array is empty; cross-reference TFDA, EMA, or FDA labeling to populate this field before proceeding to indication-mapping analysis
+Dutasteride **non è attualmente commercializzato a Taiwan**. Nessuna licenza TFDA è registrata (la ricerca TFDA ha restituito 0 risultati il 2026-03-29).
+
+---
+
+## Considerazioni di sicurezza
+
+Si rimanda al foglio illustrativo per le informazioni di sicurezza. Le avvertenze chiave, le controindicazioni e i dati sulle interazioni farmacologiche non sono stati recuperati in questo Dossier di evidenze.
+
+> **Avviso di lacuna nei dati:** Le avvertenze/controindicazioni del foglio illustrativo TFDA (DG001, gravità: Bloccante) e i dati MOA/sicurezza di DrugBank (DG002, gravità: Alta) sono entrambi in sospeso. Finché DG001 non è risolto, il candidato non può avanzare oltre la porta di screening di sicurezza S1.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Attesa**
+
+**Razionale:**
+Il Dossier di evidenze per dutasteride è strutturalmente incompleto — non ci sono previsioni TxGNN da valutare e due lacune nei dati a livello bloccante rimangono irrisolte, impedendo qualsiasi analisi significativa di sicurezza o meccanicistica.
+
+**Per procedere, è necessario quanto segue:**
+
+1. **[Bloccante] Recuperare i risultati della previsione TxGNN** — il candidate_id `TW-DB01126-multi` dovrebbe includere almeno una indicazione prevista; confermare se la pipeline di previsione è stata eseguita e perché l'output è assente
+2. **[Bloccante] Scaricare e analizzare il PDF del foglio illustrativo TFDA** (DG001) — estrarre le avvertenze chiave, le controindicazioni e le restrizioni di dosaggio per abilitare lo screening di sicurezza S1
+3. **[Alta] Recuperare i dati MOA e strutturati di DrugBank** (DG002) — la query di DrugBank ha restituito 1 risultato il 2026-03-29 ma il MOA non è stato popolato; recuperare nuovamente e analizzare il campo farmacodinamica
+4. **[Media] Confermare le indicazioni originarie approvate** — l'array `original_indications` è vuoto; incrociare le informazioni con l'etichettatura TFDA, EMA o FDA per popolare questo campo prima di procedere all'analisi di mappatura delle indicazioni
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

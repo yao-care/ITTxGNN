@@ -29,84 +29,82 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-Using `txgnn-pipeline` skill context confirmed. Now generating the Irbesartan repurposing evaluation report based on the Evidence Pack.
+# Irbesartan: Dall'ipertensione all'ipertensione renovascolare maligna
+
+## Riassunto in una frase
+
+L'irbesartan è un antagonista dei recettori dell'angiotensina II di tipo 1 (AT1) (ARB), riconosciuto a livello mondiale per l'ipertensione essenziale e la protezione renale nella nefropatia diabetica di tipo 2.
+Il modello TxGNN predice che potrebbe essere efficace per l'**ipertensione renovascolare maligna** con un punteggio di previsione del 99.31%; tuttavia, **nessuno studio clinico dedicato o pubblicazione** è stato identificato per questa indicazione specifica.
+Criticamente, una ben nota controindicazione della classe degli ARB — rischio di insufficienza renale acuta in caso di stenosi bilaterale dell'arteria renale — si sovrappone direttamente con l'eziologia più comune di questa indicazione predetta e vincola sostanzialmente l'ipotesi clinica.
 
 ---
 
-# Irbesartan: From Hypertension to Malignant Renovascular Hypertension
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Irbesartan is an angiotensin II type-1 (AT1) receptor blocker (ARB), globally established for essential hypertension and renal protection in type 2 diabetic nephropathy.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension** with a prediction score of 99.31%; however, **no dedicated clinical trials or publications** have been identified for this specific indication.
-Critically, a well-known ARB class contraindication — acute renal failure risk in bilateral renal artery stenosis — directly overlaps with the most common aetiology of this predicted indication and substantially constrains the clinical hypothesis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Essential hypertension / Diabetic nephropathy (established ARB; no Italy authorization on file) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Ipertensione essenziale / Nefropatia diabetica (ARB consolidato; nessuna autorizzazione italiana registrata) |
+| Indicazione nuova predetta | Ipertensione renovascolare maligna |
+| Punteggio di previsione TxGNN | 99.31% |
+| Livello di evidenza | L4 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché è ragionevole questa previsione?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (DrugBank query pending). Based on established pharmacology, Irbesartan is a selective angiotensin II type-1 (AT1) receptor antagonist. By blocking AT1 receptors, it interrupts the renin-angiotensin-aldosterone system (RAAS): reducing vasoconstriction, lowering aldosterone-driven sodium retention, and — critically for the kidney — decreasing efferent arteriolar resistance and intraglomerular pressure, resulting in reduced proteinuria and slower nephrosclerosis.
+Attualmente, i dati dettagliati del meccanismo di azione non sono disponibili in questo Evidence Pack (query DrugBank in sospeso). Sulla base della farmacologia consolidata, l'irbesartan è un antagonista selettivo dei recettori dell'angiotensina II di tipo 1 (AT1). Bloccando i recettori AT1, interrompe il sistema renina-angiotensina-aldosterone (RAAS): riducendo la vasocostrizione, abbassando la ritenzione di sodio mediata dall'aldosterone, e — criticamente per il rene — diminuendo la resistenza arteriolare efferente e la pressione intraglomerulare, risultando in proteinuria ridotta e nefrosclerosi più lenta.
 
-The mechanistic fit with malignant renovascular hypertension is immediately apparent: the core pathophysiology follows the sequence renal artery stenosis → renal ischaemia → massive renin release → angiotensin II surge → AT1 receptor overactivation → runaway blood pressure with end-organ damage. Since Irbesartan sits precisely at the AT1 effector step, it targets the apex of this cascade. The TxGNN score of 99.31% most likely reflects the strong knowledge-graph connectivity between this disease and the hypertension/RAAS node cluster. An analogous, closely related indication — **malignant hypertensive renal disease (rank 2, same score)** — is supported by indirect Phase 3 evidence: the IDNT trial (Lewis EJ et al., *NEJM* 2001) demonstrated that Irbesartan significantly delays renal composite endpoints (HR 0.80, p = 0.02) in diabetic nephropathy, a condition sharing the same RAAS-driven nephrosclerosis and glomerular hypertension mechanism.
+La corrispondenza meccanicistica con l'ipertensione renovascolare maligna è immediatamente evidente: la fisiopatologia centrale segue la sequenza stenosi dell'arteria renale → ischemia renale → massiccio rilascio di renina → picco di angiotensina II → sovra-attivazione dei recettori AT1 → pressione arteriosa incontrollata con danno d'organo. Poiché l'irbesartan agisce precisamente al livello effettore AT1, mira all'apice di questa cascata. Il punteggio TxGNN di 99.31% molto probabilmente riflette la forte connettività del grafo di conoscenza tra questa malattia e il cluster dei nodi ipertensione/RAAS. Un'indicazione analoga, strettamente correlata — **malattia renale ipertensiva maligna (rango 2, stesso punteggio)** — è supportata da evidenza indiretta di Fase 3: lo studio IDNT (Lewis EJ et al., *NEJM* 2001) ha dimostrato che l'irbesartan ritarda significativamente gli endpoint compositi renali (HR 0.80, p = 0.02) nella nefropatia diabetica, una condizione che condivide lo stesso meccanismo di nefrosclerosi mediata dal RAAS e ipertensione glomerulare.
 
-However, a **well-established class-level contraindication** must be foregrounded: patients with bilateral renal artery stenosis (or unilateral stenosis in a solitary kidney) depend on angiotensin II–maintained efferent arteriolar tone to preserve glomerular filtration pressure. ARB or ACE inhibitor use in this anatomical context can precipitate acute renal failure. Because bilateral renal artery stenosis is a leading cause of renovascular hypertension, this contraindication applies to a significant — possibly majority — subpopulation of patients in the predicted indication. The TxGNN model captures pharmacological plausibility at the pathway level but does not appear to have encoded this anatomical exception, which is the central caveat for this prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, una **controindicazione ben consolidata a livello di classe** deve essere messa in primo piano: i pazienti con stenosi bilaterale dell'arteria renale (o stenosi unilaterale in un rene solitario) dipendono dal tono arteriolare efferente mantenuto dall'angiotensina II per preservare la pressione di filtrazione glomerulare. L'uso di ARB o inibitori dell'ACE in questo contesto anatomico può precipitare insufficienza renale acuta. Poiché la stenosi bilaterale dell'arteria renale è una causa principale dell'ipertensione renovascolare, questa controindicazione si applica a una sottopopolazione significativa — possibilmente maggioritaria — di pazienti nell'indicazione predetta. Il modello TxGNN cattura la plausibilità farmacologica a livello del percorso, ma non sembra aver codificato questa eccezione anatomica, che è il caveat centrale per questa previsione.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Irbesartan holds **no marketing authorizations** in Italy according to the current regulatory dataset (AIFA query: 0 records). No approved product entries or indication texts are available for review. Irbesartan is, however, widely authorized in other jurisdictions (EU, US, Japan) as an ARB for hypertension and diabetic nephropathy — a discrepancy that may warrant a regulatory data refresh before drawing country-specific conclusions.
+Attualmente nessuno studio clinico correlato è registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza da letteratura
 
-Please refer to the package insert for safety information.
-
-> **Clinician Alert (derived from repurposing rationale, not from safety data fields):** A critical class-level risk is documented for all ARBs: in bilateral renal artery stenosis or solitary kidney, AT1 blockade removes the angiotensin II–dependent support of glomerular filtration pressure and may precipitate **acute renal failure**. This risk is directly and specifically relevant to the primary predicted indication (malignant renovascular hypertension) and constitutes a prerequisite safety assessment before any clinical investigation is designed.
+Attualmente nessuna letteratura correlata è disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+L'irbesartan non ha **autorizzazioni di commercializzazione** in Italia secondo il database normativo attuale (query AIFA: 0 record). Nessuna voce di prodotto approvato o testo di indicazione è disponibile per la revisione. L'irbesartan è, tuttavia, ampiamente autorizzato in altre giurisdizioni (UE, US, Giappone) come ARB per l'ipertensione e la nefropatia diabetica — una discrepanza che potrebbe giustificare un aggiornamento dei dati normativi prima di trarre conclusioni specifiche per paese.
 
-**Rationale:**
-No dedicated clinical trials or publications support Irbesartan specifically in malignant renovascular hypertension, and the single most important anatomical subtype of this disease (bilateral renal artery stenosis) represents a known ARB contraindication — meaning the prediction, while mechanistically logical at the pathway level, is clinically high-risk without patient stratification. The closely related rank-2 indication (malignant hypertensive renal disease) carries a stronger evidence base (L3; IDNT trial indirect support; recommendation: Proceed with Guardrails) and may be a more viable near-term repurposing target.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di sicurezza
 
-- **Patient stratification data**: proportion of malignant renovascular hypertension cases with unilateral vs. bilateral renal artery stenosis, to define the subset where ARB use is safe and potentially beneficial
-- **Formal MOA documentation**: DrugBank API query (DG002 pending) to confirm receptor binding profile, selectivity, and pharmacokinetics
-- **Italy SPC (Summary of Product Characteristics) review**: AIFA package insert warnings and contraindications (DG001 Blocking gap) required before any safety-level assessment can be completed
-- **Retrospective cohort evidence**: a search for real-world or registry data on ARB use outcomes specifically in unilateral renovascular hypertension as proof-of-concept before trial design
-- **Reconsideration of rank-2 indication** (malignant hypertensive renal disease) as the primary repurposing target, given its mechanistic overlap with the IDNT trial and a more actionable evidence-to-risk profile
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+> **Avviso al clinico (derivato dalla logica di riutilizzo, non da campi di dati di sicurezza):** Un rischio critico a livello di classe è documentato per tutti gli ARB: in caso di stenosi bilaterale dell'arteria renale o rene solitario, il blocco AT1 rimuove il supporto della pressione di filtrazione glomerulare dipendente dall'angiotensina II e può precipitare **insufficienza renale acuta**. Questo rischio è direttamente e specificamente rilevante all'indicazione predetta primaria (ipertensione renovascolare maligna) e costituisce un prerequisito di valutazione della sicurezza prima che qualsiasi indagine clinica sia progettata.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+
+Nessuno studio clinico dedicato o pubblicazione supporta l'irbesartan specificamente nell'ipertensione renovascolare maligna, e il singolo sottotipo anatomico più importante di questa malattia (stenosi bilaterale dell'arteria renale) rappresenta una controindicazione nota degli ARB — significando che la previsione, sebbene logica dal punto di vista meccanicistico a livello del percorso, è clinicamente ad alto rischio senza stratificazione del paziente. L'indicazione strettamente correlata di rango 2 (malattia renale ipertensiva maligna) ha una base di evidenza più forte (L3; supporto indiretto dello studio IDNT; raccomandazione: Procedere con Guardrails) e potrebbe essere un obiettivo di riutilizzo a breve termine più fattibile.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Dati di stratificazione del paziente**: proporzione di casi di ipertensione renovascolare maligna con stenosi unilaterale vs. bilaterale dell'arteria renale, per definire il sottoinsieme in cui l'uso di ARB è sicuro e potenzialmente benefico
+- **Documentazione formale del meccanismo di azione**: query API di DrugBank (DG002 in sospeso) per confermare il profilo di legame recettoriale, la selettività e la farmacocinetica
+- **Revisione dell'RCP italiano (Riassunto delle Caratteristiche del Prodotto)**: avvertenze del foglio illustrativo AIFA e controindicazioni (DG001 Blocking gap) richieste prima che qualsiasi valutazione della sicurezza possa essere completata
+- **Evidenza da coorte retrospettiva**: una ricerca di dati del mondo reale o di registro su outcomes di utilizzo di ARB specificamente nell'ipertensione renovascolare unilaterale come proof-of-concept prima della progettazione dello studio
+- **Riconsiderazione dell'indicazione di rango 2** (malattia renale ipertensiva maligna) come obiettivo primario di riutilizzo, data la sua sovrapposizione meccanicistica con lo studio IDNT e un profilo di rischio-evidenza più azionabile
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

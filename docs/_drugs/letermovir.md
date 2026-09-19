@@ -29,68 +29,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Letermovir: From CMV Prophylaxis to Vulvovaginal Candidiasis
+# Letermovir: dalla profilassi della CMV alla candidosi vulvovaginale
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Letermovir is an antiviral agent specifically developed for prophylaxis against cytomegalovirus (CMV) infection in hematopoietic stem cell transplant recipients.
-The TxGNN model predicts it may be effective for **Vulvovaginal Candidiasis**, yet **zero clinical trials** and **zero publications** currently support this direction — evidence sits at the lowest level (L5), and mechanistic analysis strongly suggests this is a knowledge graph topological false positive rather than a genuine pharmacological signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | CMV prophylaxis in hematopoietic stem cell transplant recipients |
-| Predicted New Indication | Vulvovaginal Candidiasis |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L5 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Letermovir è un agente antivirale sviluppato specificamente per la profilassi dell'infezione da citomegalovirus (CMV) nei riceventi di trapianto di cellule staminali ematopoietiche. Il modello TxGNN prevede che potrebbe essere efficace per la **Candidosi Vulvovaginale**, tuttavia **zero trial clinici** e **zero pubblicazioni** attualmente supportano questa direzione — l'evidenza si situa al livello più basso (L5), e l'analisi meccanicistica suggerisce fortemente che si tratti di un falso positivo topologico del grafo di conoscenza piuttosto che di un genuino segnale farmacologico.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not formally available in this Evidence Pack. Based on known pharmacology, Letermovir selectively inhibits the **CMV viral terminase complex** (subunits UL51/UL56/UL89) — an enzyme the virus uses to cleave and package newly replicated DNA into virion capsids. This mechanism is exquisitely specific to human herpesvirus 5 (CMV) and has no documented activity against any fungal pathogen.
-
-Vulvovaginal candidiasis is caused by *Candida* spp. (predominantly *C. albicans*), whose pathogenesis involves ergosterol biosynthesis and β-1,3-glucan cell wall synthesis — biochemical pathways entirely unrelated to viral DNA terminase enzymes. There is no established or plausible biological bridge between Letermovir's antiviral mechanism and antifungal activity.
-
-The strikingly high TxGNN score (99.88%) almost certainly reflects a **knowledge graph topological false positive**: immunosuppressed hematopoietic stem cell transplant recipients receive Letermovir for CMV prophylaxis while simultaneously carrying elevated risk for opportunistic fungal infections, including candidiasis. This patient-level co-occurrence creates spurious node co-association in the knowledge graph — a statistical artifact, not a pharmacological relationship.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Voce | Contenuto |
+|------|----------|
+| Indicazione originale | Profilassi della CMV nei riceventi di trapianto di cellule staminali ematopoietiche |
+| Indicazione nuova prevista | Candidosi Vulvovaginale |
+| Punteggio di predizione TxGNN | 99.88% |
+| Livello di evidenza | L5 |
+| Stato di commercializzazione in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Literature Evidence
+## Perché questa predizione è ragionevole?
 
-Currently no related literature available.
+Attualmente, dati dettagliati sul meccanismo d'azione non sono formalmente disponibili in questo Pacchetto di Evidenze. Sulla base della farmacologia nota, Letermovir inibisce selettivamente il **complesso terminasi virale della CMV** (subunità UL51/UL56/UL89) — un enzima che il virus utilizza per scindere e confezionare il DNA appena replicato nei capsidi dei virioni. Questo meccanismo è straordinariamente specifico per l'herpesvirus umano 5 (CMV) e non ha attività documentata contro alcun patogeno fungino.
 
----
+La candidosi vulvovaginale è causata da specie di *Candida* (prevalentemente *C. albicans*), la cui patogenesi coinvolge la biosintesi dell'ergosterolo e la sintesi della parete cellulare β-1,3-glucano — vie biochimiche completamente non correlate agli enzimi terminasi del DNA virale. Non esiste un ponte biologico stabilito o plausibile tra il meccanismo antivirale di Letermovir e l'attività antifungina.
 
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Il punteggio TxGNN straordinariamente elevato (99.88%) quasi certamente riflette un **falso positivo topologico del grafo di conoscenza**: i riceventi di trapianto di cellule staminali ematopoietiche immunosoppressi ricevono Letermovir per la profilassi della CMV mentre simultaneamente presentano rischio elevato di infezioni fungine opportunistiche, inclusa la candidosi. Questa co-occorrenza a livello di paziente crea co-associazione spuria dei nodi nel grafo di conoscenza — un artefatto statistico, non una relazione farmacologica.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dai trial clinici
 
-**Decision: Hold**
+Attualmente non sono registrati trial clinici correlati.
 
-**Rationale:**
-The TxGNN prediction linking Letermovir to vulvovaginal candidiasis is assessed as a knowledge graph topological false positive with no mechanistic basis, no clinical trial support, and no literature evidence (Evidence Level L5). Pursuing this indication without any biological rationale would not be a responsible use of development resources.
+---
 
-**To revisit this decision, the following would be needed:**
-- In vitro data demonstrating any Letermovir activity against *Candida* species
-- A credible mechanistic hypothesis explaining how CMV terminase inhibition could produce antifungal effects
-- At minimum one preclinical study (animal model or cell-based) showing efficacy in a fungal infection setting
+## Evidenza dalla letteratura
+
+Attualmente non è disponibile alcuna letteratura correlata.
+
+---
+
+## Considerazioni di sicurezza
+
+Fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+---
+
+## Conclusioni e passi successivi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+La predizione TxGNN che collega Letermovir alla candidosi vulvovaginale è valutata come un falso positivo topologico del grafo di conoscenza senza base meccanicistica, senza supporto da trial clinici, e senza evidenza dalla letteratura (Livello di evidenza L5). Perseguire questa indicazione senza alcun razionale biologico non sarebbe un utilizzo responsabile delle risorse di sviluppo.
+
+**Per riconsiderare questa decisione, sarebbe necessario:**
+- Dati in vitro che dimostrino qualsiasi attività di Letermovir contro specie di *Candida*
+- Un'ipotesi meccanicistica credibile che spieghi come l'inibizione della terminasi di CMV potrebbe produrre effetti antifungini
+- Almeno uno studio preclinico (modello animale o studi su cellule) che dimostri l'efficacia in un contesto di infezione fungina
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

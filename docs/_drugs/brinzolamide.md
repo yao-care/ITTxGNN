@@ -29,75 +29,72 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-以下是根據 Evidence Pack 生成的藥師評估報告：
+# Brinzolamide: Da Glaucoma ad Angolo Aperto / Ipertensione Oculare a Glaucoma Ereditario Primario
+
+## Riepilogo in una Frase
+
+Brinzolamide è un inibitore topico dell'anidrasi carbonica (CAI), utilizzato clinicamente per abbassare la pressione intraoculare (IOP) elevata nel glaucoma ad angolo aperto e nell'ipertensione oculare.
+Il modello TxGNN predice che potrebbe essere efficace per il **Glaucoma Ereditario Primario (PHG)**, una forma di glaucoma dello sviluppo causata da un deflusso dell'umor acqueo strutturalmente compromesso.
+Attualmente, non sono stati identificati **studi clinici** e **pubblicazioni** specificamente a supporto di questa combinazione — questa previsione è basata su meccanismo e si trova allo stadio di ipotesi.
 
 ---
 
-# Brinzolamide: From Open-angle Glaucoma / Ocular Hypertension to Primary Hereditary Glaucoma
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Brinzolamide is a topical carbonic anhydrase inhibitor (CAI), used clinically to lower elevated intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma (PHG)**, a developmental form of glaucoma driven by structurally impaired aqueous humor outflow.
-Currently, **no clinical trials** and **no publications** specifically supporting this combination have been identified — this prediction is mechanism-driven and sits at the hypothesis stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Voce | Contenuto |
 |------|---------|
-| Original Indication | No Taiwan registration found; pharmacologically established for elevated IOP in open-angle glaucoma / ocular hypertension |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L4 (mechanism-based model prediction; no clinical trials or publications found) |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione Originaria | Nessuna registrazione trovata a Taiwan; consolidata farmacologicamente per l'IOP elevato nel glaucoma ad angolo aperto / ipertensione oculare |
+| Nuova Indicazione Predetta | Glaucoma Ereditario Primario |
+| Punteggio di Previsione TxGNN | 99.48% |
+| Livello di Evidenza | L4 (previsione basata su modello meccanico; nessuno studio clinico o pubblicazione trovati) |
+| Stato del Mercato Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Rinvio |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Brinzolamide is a selective inhibitor of carbonic anhydrase II (CA-II) in the ciliary body epithelium. By blocking CA-II, it suppresses bicarbonate synthesis — the rate-limiting step for aqueous humor secretion — and thereby reduces IOP. This mechanism is pharmacologically well-established and shared with the broader CAI drug class (e.g., Dorzolamide, Acetazolamide).
+Brinzolamide è un inibitore selettivo dell'anidrasi carbonica II (CA-II) nell'epitelio del corpo ciliare. Bloccando CA-II, sopprime la sintesi del bicarbonato — il passaggio limitante la velocità della secrezione dell'umor acqueo — e così riduce l'IOP. Questo meccanismo è farmacologicamente ben consolidato e condiviso con la più ampia classe di farmaci CAI (es., Dorzolamide, Acetazolamide).
 
-Primary Hereditary Glaucoma (PHG), also called Primary Congenital Glaucoma (PCG), is caused by developmental malformation of the trabecular meshwork, most commonly due to *CYP1B1* mutations. The structural defect impairs aqueous humor drainage, causing chronic IOP elevation and progressive optic nerve injury. The mechanistic logic for repurposing is direct and complementary: PHG's pathology lies in the outflow pathway, while Brinzolamide targets the inflow side — reducing the volume of aqueous humor that needs to drain. Even when outflow resistance is fixed by an irreversible structural defect, suppressing production can still meaningfully lower IOP and protect the optic nerve.
+Il Glaucoma Ereditario Primario (PHG), detto anche Glaucoma Congenito Primario (PCG), è causato da una malformazione dello sviluppo della rete trabecolare, generalmente dovuta a mutazioni di *CYP1B1*. Il difetto strutturale compromette il deflusso dell'umor acqueo, causando elevazione cronica dell'IOP e lesioni progressive del nervo ottico. La logica meccanicistica per il riutilizzo è diretta e complementare: la patologia di PHG si trova nel percorso di deflusso, mentre Brinzolamide mira al lato dell'afflusso — riducendo il volume dell'umor acqueo che ha bisogno di drenare. Anche quando la resistenza al deflusso è fissata da un difetto strutturale irreversibile, la soppressione della produzione può comunque abbassare significativamente l'IOP e proteggere il nervo ottico.
 
-Class-effect precedent supports biological plausibility. Dorzolamide, a close structural analogue in the same CAI class, is already used as adjunctive or bridge therapy in pediatric congenital glaucoma when surgical correction is delayed or incomplete. TxGNN's high score of 0.9948 reflects this mechanistic alignment rather than evidence from clinical studies, which are absent for this specific drug–disease combination.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Il precedente dell'effetto di classe supporta la plausibilità biologica. Dorzolamide, un analogo strutturale strettamente correlato nella stessa classe CAI, è già utilizzato come terapia adiuvante o ponte nel glaucoma congenito pediatrico quando la correzione chirurgica è ritardata o incompleta. L'alto punteggio di TxGNN di 0.9948 riflette questo allineamento meccanicistico piuttosto che l'evidenza da studi clinici, che sono assenti per questa combinazione farmaco-malattia specifica.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-The scientific case for Brinzolamide in Primary Hereditary Glaucoma is mechanistically coherent — the drug directly suppresses aqueous humor production, offering a complementary approach to the outflow obstruction that defines this condition. However, with zero clinical trials and zero published literature specifically supporting this combination, the evidence is at L4 (model prediction + mechanism only), which is insufficient to advance without foundational corroborating data.
+---
 
-**To proceed, the following is needed:**
-- Systematic review of the CAI class (especially Dorzolamide) in congenital and hereditary glaucoma to formally establish class-effect precedent
-- Preclinical evidence in animal models of *CYP1B1*-mutant glaucoma to quantify IOP-lowering magnitude and durability
-- Retrospective case series or registry data on Brinzolamide use in pediatric or congenital glaucoma patients
-- Paediatric pharmacokinetic and safety assessment: systemic CA-II inhibition risk, ocular surface tolerability, and long-term IOP trajectory in the developing eye
-- Regulatory pathway scoping with Taiwan TFDA for orphan/paediatric ophthalmic drug development
+## Considerazioni di Sicurezza
+
+Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: Rinvio**
+
+**Fondamento Logico:**
+Il caso scientifico per Brinzolamide nel Glaucoma Ereditario Primario è meccanicisticamente coerente — il farmaco sopprime direttamente la produzione dell'umor acqueo, offrendo un approccio complementare all'ostruzione del deflusso che caratterizza questa condizione. Tuttavia, con zero studi clinici e zero letteratura pubblicata specificamente a supporto di questa combinazione, l'evidenza è a L4 (previsione del modello + meccanismo solo), che è insufficiente per progredire senza dati corroboranti fondamentali.
+
+**Per procedere, è necessario quanto segue:**
+- Revisione sistematica della classe CAI (in particolare Dorzolamide) nel glaucoma congenito ed ereditario per stabilire formalmente il precedente dell'effetto di classe
+- Evidenza preclinica in modelli animali di glaucoma mutante *CYP1B1* per quantificare l'entità e la durabilità dell'abbassamento dell'IOP
+- Serie di casi retrospettivi o dati di registro sull'uso di Brinzolamide nei pazienti con glaucoma pediatrico o congenito
+- Valutazione farmacocinetica e di sicurezza pediatrica: rischio di inibizione sistemica di CA-II, tollerabilità della superficie oculare e traiettoria dell'IOP a lungo termine nell'occhio in sviluppo
+- Definizione del percorso normativo con Taiwan TFDA per lo sviluppo di farmaci oftalmici orfani/pediatrici
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

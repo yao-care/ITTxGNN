@@ -29,86 +29,87 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Eletriptan: Drug Repurposing Evaluation — No TxGNN Predictions Available
+# Eletriptan: Valutazione di Riutilizzo Farmacologico — Nessuna Predizione TxGNN Disponibile
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Eletriptan is a selective serotonin 5-HT1B/1D receptor agonist belonging to the triptan class, used for the acute treatment of migraine with or without aura.
-The current Evidence Pack contains **no TxGNN model predictions** for new indications, and the drug is **not marketed in Taiwan** with zero approved authorizations.
-Evaluation cannot proceed until TxGNN prediction data and safety information are supplemented.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Migraine — acute treatment (triptan class) |
-| Predicted New Indication | N/A — No TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+L'eletriptan è un agonista selettivo del recettore della serotonina 5-HT1B/1D appartenente alla classe dei triptani, utilizzato nel trattamento acuto dell'emicrania con o senza aura.
+Il Pacchetto di Evidenza attuale contiene **nessuna predizione del modello TxGNN** per nuove indicazioni, e il farmaco è **non commercializzato a Taiwan** con zero autorizzazioni approvate.
+La valutazione non può procedere fino a quando i dati di predizione TxGNN e le informazioni sulla sicurezza non vengono integrati.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Panoramica Rapida
 
-No TxGNN predicted indications are present in this Evidence Pack, so mechanistic plausibility analysis for a new indication cannot be performed at this stage.
-
-For context, Eletriptan belongs to the triptan class and acts as a selective agonist at serotonin 5-HT1B and 5-HT1D receptors. This dual-receptor mechanism produces selective cranial vasoconstriction and inhibits the presynaptic release of vasoactive neuropeptides — including CGRP and substance P — thereby interrupting the trigeminovascular cascade responsible for migraine pain. Detailed MOA data has been flagged as a data gap (DG002: High severity) and requires formal retrieval from DrugBank before any mechanistic bridge to a new indication can be assessed.
-
-Once TxGNN model predictions are generated, the analysis should focus on whether 5-HT1 receptor signalling or CGRP-pathway modulation overlaps with the disease biology of any candidate indication. The serotonergic system has documented involvement in mood disorders, cluster headache, and certain pain syndromes, which may provide plausible mechanistic anchors — but this remains speculative until prediction data are available.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted new indication is available to search against.
+| Item | Contenuto |
+|------|---------|
+| Indicazione Originale | Emicrania — trattamento acuto (classe dei triptani) |
+| Indicazione Predetta Nuova | N/A — Nessuna predizione TxGNN disponibile |
+| Punteggio di Predizione TxGNN | N/A |
+| Livello di Evidenza | N/A |
+| Stato del Mercato Taiwan | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In Attesa |
 
 ---
 
-## Literature Evidence
+## Perché Questa Predizione è Ragionevole?
 
-Currently no related literature available — no predicted new indication is available to search against.
+Nessuna indicazione predetta da TxGNN è presente in questo Pacchetto di Evidenza, quindi l'analisi della plausibilità meccanicistica per una nuova indicazione non può essere eseguita in questa fase.
 
----
+Per contesto, l'eletriptan appartiene alla classe dei triptani e agisce come agonista selettivo dei recettori della serotonina 5-HT1B e 5-HT1D. Questo meccanismo a doppio recettore produce vasocostrizione cranica selettiva e inibisce il rilascio presinaptico di neuropeptidi vasoattivi — inclusi CGRP e sostanza P — interrompendo così il ciclo trigeminovascolare responsabile del dolore emicranico. I dati dettagliati sul meccanismo di azione sono stati contrassegnati come lacuna nei dati (DG002: gravità alta) e richiedono un recupero formale da DrugBank prima che qualsiasi ponte meccanicistico verso una nuova indicazione possa essere valutato.
 
-## Taiwan Market Information
-
-Eletriptan has no approved authorizations in Taiwan. No license records are available for display.
-
-> Note: Eletriptan (brand name Relpax, Pfizer) is approved in the EU, US, and several other markets for acute migraine treatment. A Taiwan regulatory filing has not been submitted or approved based on current TFDA data.
+Una volta generate le predizioni del modello TxGNN, l'analisi dovrebbe concentrarsi su se la segnalazione del recettore 5-HT1 o la modulazione del percorso CGRP si sovrappongono alla biologia della malattia di qualsiasi indicazione candidata. Il sistema serotoninergico ha un coinvolgimento documentato nei disturbi dell'umore, nell'emicrania a grappolo e in alcune sindromi dolorose, che possono fornire ancore meccanicistiche plausibili — ma questo rimane speculativo fino a quando i dati di predizione non saranno disponibili.
 
 ---
 
-## Safety Considerations
+## Evidenza da Trial Clinici
 
-Safety data including key warnings and contraindications are currently unavailable due to data gaps identified during the Evidence Pack build:
-
-- **DG001 (Blocking):** TFDA package insert warnings and contraindications — required for S1 safety screening; must be retrieved from the TFDA website before evaluation can advance.
-- **DG002 (High):** Mechanism of action detail — required for mechanistic plausibility analysis; must be retrieved from DrugBank.
-- **DDI query:** Returned no results (query status: not found).
-
-Please refer to the international package insert (SmPC / USPI) for interim safety guidance.
+Attualmente nessun trial clinico correlato registrato — nessuna nuova indicazione predetta è disponibile per la ricerca.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza da Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile — nessuna nuova indicazione predetta è disponibile per la ricerca.
 
-**Rationale:**
-The Evidence Pack for Eletriptan is critically incomplete — the `predicted_indications` array is empty and two blocking/high-severity data gaps prevent safety screening and mechanistic analysis from proceeding. There is no actionable repurposing signal to evaluate at this time.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul Mercato Taiwan
 
-- **TxGNN model predictions** must be generated for Eletriptan (`predicted_indications` is currently empty — the pipeline may not have processed DB00216)
-- **MOA data** from DrugBank (DG002 — High): needed for mechanistic plausibility analysis
-- **Safety data** from TFDA package insert (DG001 — Blocking): key warnings and contraindications required before S1 safety screening
-- **DDI database re-query**: the current not-found result may reflect a query issue; interaction data for a 5-HT1 agonist is clinically relevant (especially with MAOIs, SSRIs, and other triptans)
-- **Regulatory pathway scoping**: if Taiwan market entry is a goal, a full new drug application (NDA) would be required given zero existing authorizations
+L'eletriptan non ha autorizzazioni approvate a Taiwan. Nessun record di licenza è disponibile per la visualizzazione.
+
+> Nota: L'eletriptan (nome commerciale Relpax, Pfizer) è approvato nell'UE, negli USA e in diversi altri mercati per il trattamento dell'emicrania acuta. Un deposito normativo a Taiwan non è stato presentato o approvato in base ai dati TFDA attuali.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+I dati sulla sicurezza inclusi avvisi chiave e controindicazioni sono attualmente non disponibili a causa di lacune nei dati identificate durante la costruzione del Pacchetto di Evidenza:
+
+- **DG001 (Blocking):** Avvisi del foglio illustrativo TFDA e controindicazioni — necessari per lo screening di sicurezza S1; devono essere recuperati dal sito web TFDA prima che la valutazione possa procedere.
+- **DG002 (Alta):** Dettaglio del meccanismo di azione — necessario per l'analisi della plausibilità meccanicistica; deve essere recuperato da DrugBank.
+- **Query DDI:** Non ha restituito risultati (stato della query: non trovato).
+
+Si prega di fare riferimento al foglio illustrativo internazionale (SmPC / USPI) per una guida sulla sicurezza provvisoria.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: In Attesa**
+
+**Razionale:**
+Il Pacchetto di Evidenza per l'eletriptan è criticamente incompleto — l'array `predicted_indications` è vuoto e due lacune nei dati di blocco/alta gravità impediscono al screening di sicurezza e all'analisi meccanicistica di procedere. Non esiste attualmente alcun segnale di riutilizzo farmacologico fruibile da valutare.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Predizioni del modello TxGNN** devono essere generate per l'eletriptan (`predicted_indications` è attualmente vuoto — la pipeline potrebbe non aver processato DB00216)
+- **Dati MOA** da DrugBank (DG002 — Alta): necessari per l'analisi della plausibilità meccanicistica
+- **Dati sulla sicurezza** dal foglio illustrativo TFDA (DG001 — Blocking): avvisi chiave e controindicazioni necessari prima dello screening di sicurezza S1
+- **Ri-query del database DDI**: il risultato non trovato attuale può riflettere un problema di query; i dati di interazione per un agonista 5-HT1 sono clinicamente rilevanti (in particolare con MAOI, SSRI e altri triptani)
+- **Definizione del Percorso Normativo**: se l'ingresso nel mercato Taiwan è un obiettivo, sarebbe richiesta una domanda di nuovo farmaco (NDA) completa data l'assenza di autorizzazioni esistenti
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
