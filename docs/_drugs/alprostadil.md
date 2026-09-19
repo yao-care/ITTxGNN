@@ -29,70 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Alprostadil: Preliminary Evaluation — Awaiting TxGNN Prediction Data
+# Alprostadil: Valutazione preliminare — In attesa dei dati di previsione di TxGNN
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Alprostadil (prostaglandin E1) is a vasodilatory prostaglandin analogue known for its use in patent ductus arteriosus maintenance and erectile dysfunction. The TxGNN model has **not yet generated predicted indications** for this drug, and no original indications are recorded in the current evidence pack. This report serves as a baseline assessment pending completion of the prediction pipeline.
+L'alprostadil (prostaglandina E1) è un analogo di prostaglandina vasodilatatorio noto per il suo utilizzo nel mantenimento della pervietà del dotto arterioso e nella disfunzione erettile. Il modello TxGNN **non ha ancora generato indicazioni previste** per questo farmaco, e nessuna indicazione originaria è registrata nel pacchetto di prove attuale. Questo rapporto serve come valutazione di base in attesa del completamento della pipeline di previsione.
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not recorded in current evidence pack |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione originaria | Non registrata nel pacchetto di prove attuale |
+| Indicazione nuova prevista | — (Nessuna previsione TxGNN disponibile) |
+| Punteggio di previsione TxGNN | — |
+| Livello di prove | L5 (Nessuna previsione o studi di supporto) |
+| Stato del mercato Taiwan | ✗ Non commercializzato (Non commercializzato) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospendere** |
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, the TxGNN model has not produced any predicted new indications for Alprostadil. Without a specific predicted indication, a mechanistic plausibility analysis cannot be performed at this time.
+Attualmente, il modello TxGNN non ha prodotto alcuna indicazione nuova prevista per l'alprostadil. Senza un'indicazione specifica prevista, un'analisi di plausibilità meccanicistica non può essere eseguita in questo momento.
 
-Alprostadil is a synthetic form of prostaglandin E1 (PGE1). Detailed mechanism of action data was not available in the evidence pack; however, it is well established that Alprostadil acts as a vasodilator by relaxing vascular smooth muscle via activation of adenylate cyclase and elevation of intracellular cAMP. It also inhibits platelet aggregation. These properties underlie its clinical use in maintaining patency of the ductus arteriosus in neonates with congenital heart defects, and in treating erectile dysfunction through local vasodilation.
+L'alprostadil è una forma sintetica di prostaglandina E1 (PGE1). I dati dettagliati sul meccanismo d'azione non erano disponibili nel pacchetto di prove; tuttavia, è ben stabilito che l'alprostadil agisce come vasodilatatore rilassando la muscolatura liscia vascolare tramite l'attivazione dell'adenilil ciclasi e l'aumento del cAMP intracellulare. Inibisce inoltre l'aggregazione piastrinica. Queste proprietà sono alla base del suo utilizzo clinico nel mantenimento della pervietà del dotto arterioso nei neonati con difetti cardiaci congeniti, e nel trattamento della disfunzione erettile attraverso la vasodilatazione locale.
 
-Once the TxGNN prediction pipeline is executed for this drug, a full mechanistic rationale linking the original and predicted indications can be developed.
+Una volta che la pipeline di previsione di TxGNN viene eseguita per questo farmaco, una razionale meccanicistica completa che colleghi le indicazioni originarie e previste potrà essere sviluppata.
 
-## Clinical Trial Evidence
+## Prove degli studi clinici
 
-Currently no TxGNN-predicted indications are available; therefore, targeted clinical trial evidence cannot be compiled at this stage.
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, le prove di studi clinici mirati non possono essere compilate in questa fase.
 
-## Literature Evidence
+## Prove di letteratura
 
-Currently no TxGNN-predicted indications are available; therefore, targeted literature evidence cannot be compiled at this stage.
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, le prove di letteratura mirate non possono essere compilate in questa fase.
 
-## Taiwan Market Information
+## Informazioni sul mercato Taiwan
 
-Alprostadil currently holds **no active marketing authorizations** from TFDA (Taiwan FDA). No licensed products are registered in Taiwan at this time.
+L'alprostadil attualmente non dispone di **autorizzazioni di commercializzazione attive** da TFDA (Taiwan FDA). Nessun prodotto autorizzato è registrato a Taiwan in questo momento.
 
-## Safety Considerations
+## Considerazioni sulla sicurezza
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack.
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. I dati sulle avvertenze chiave, le controindicazioni e le interazioni farmacologiche non erano disponibili nel pacchetto di prove attuale.
 
-## Data Gaps Identified
+## Lacune di dati identificate
 
-The following critical data gaps have been flagged and must be resolved before proceeding:
+Le seguenti lacune di dati critici sono state segnalate e devono essere risolte prima di procedere:
 
-| Gap ID | Item | Severity | Impact | Remediation |
+| ID Gap | Elemento | Gravità | Impatto | Risoluzione |
 |--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter Stage 1 safety assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+| DG001 | Avvertenze/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Impossibile accedere alla valutazione della sicurezza della fase 1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Meccanismo d'azione (MOA) | Alto | Incide sull'analisi della rilevanza meccanicistica | Recuperare i dati dell'API DrugBank |
 
-## Conclusion and Next Steps
+## Conclusioni e prossimi passaggi
 
-**Decision: Hold**
+**Decisione: Sospendere**
 
-**Rationale:**
-No TxGNN-predicted indications have been generated for Alprostadil, and the drug currently has no marketing authorization in Taiwan. Multiple blocking data gaps exist that prevent safety evaluation. The evaluation cannot advance until prediction data is available.
+**Razionale:**
+Nessuna indicazione prevista da TxGNN è stata generata per l'alprostadil, e il farmaco attualmente non ha alcuna autorizzazione di commercializzazione a Taiwan. Esistono molteplici lacune di dati bloccanti che impediscono la valutazione della sicurezza. La valutazione non può procedere fino a quando i dati di previsione non sono disponibili.
 
-**To proceed, the following is needed:**
-- Complete the TxGNN prediction pipeline to generate candidate new indications for Alprostadil
-- Resolve **DG001** (Blocking): Obtain and parse TFDA package insert for safety warnings and contraindications
-- Resolve **DG002** (High): Retrieve detailed mechanism of action data from DrugBank
-- Investigate Taiwan market availability or identify alternative regulatory pathways if repurposing candidates are identified
-- Once predictions are available, conduct targeted PubMed and ClinicalTrials.gov evidence searches for the top-ranked indications
+**Per procedere, è necessario quanto segue:**
+- Completare la pipeline di previsione di TxGNN per generare candidate indicazioni nuove per l'alprostadil
+- Risolvere **DG001** (Bloccante): Ottenere e analizzare il foglio illustrativo TFDA per le avvertenze sulla sicurezza e le controindicazioni
+- Risolvere **DG002** (Alto): Recuperare i dati dettagliati sul meccanismo d'azione da DrugBank
+- Investigare la disponibilità del mercato Taiwan o identificare percorsi normativi alternativi se vengono identificati candidati di riutilizzo
+- Una volta che le previsioni sono disponibili, condurre ricerche di prove mirate su PubMed e ClinicalTrials.gov per le indicazioni meglio classificate
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

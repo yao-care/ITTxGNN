@@ -29,58 +29,59 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Colchicine (Colchicina): Drug Repurposing Evaluation — Data Insufficient for Full Analysis
+# Colchicina (Colchicina): Valutazione del Riposizionamento del Farmaco — Dati Insufficienti per l'Analisi Completa
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Colchicine (Colchicina) is a well-established pharmaceutical compound, but the current Evidence Pack contains **no populated original indications**, **no TxGNN predicted indications**, and critical data gaps in mechanism of action and safety information. A meaningful repurposing analysis cannot be completed until these gaps are remediated; this report serves as a status record and remediation roadmap.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not populated in Evidence Pack |
-| Predicted New Indication | No TxGNN predictions available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not assessable |
-| Italy Market Status | ✗ Not Marketed (0 authorizations found) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Colchicina (Colchicina) è un farmaco consolidato, ma l'Evidence Pack attuale contiene **nessuna indicazione originale compilata**, **nessuna indicazione prevista da TxGNN** e lacune critiche di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Un'analisi significativa del riposizionamento non può essere completata fino al rimedio di queste lacune; questo rapporto funge da registro dello stato e mappa stradale di rimedio.
 
 ---
 
-## Italy Market Information
+## Panoramica Rapida
 
-No marketing authorizations were returned from the registry query. Total licenses on record: **0**.
-
-> **Note:** The query log confirms the registry search was executed successfully (result\_status: "success") but returned 0 records. If Colchicina is known to have market presence in the target territory under an alternate product name or license holder, a targeted product-name search is recommended as a follow-up step.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> The registry query for the package insert returned 1 result (query\_log id: 4), but the content was not transferred to the Evidence Pack. Retrieval and parsing of this document is classified as a **Blocking** gap (DG001) and must be completed before any safety evaluation can proceed.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originale | Non compilata nell'Evidence Pack |
+| Indicazione Nuova Prevista | Nessuna previsione TxGNN disponibile |
+| Punteggio di Previsione TxGNN | Non disponibile |
+| Livello di Evidenza | Non valutabile |
+| Stato del Mercato Italiano | ✗ Non Commercializzato (0 autorizzazioni trovate) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **In Sospeso** |
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro. Licenze totali nel record: **0**.
 
-**Rationale:**
-The Evidence Pack contains no TxGNN predicted indications, no original indication data, and two unresolved data gaps — one Blocking and one High severity — that prevent any meaningful repurposing or safety evaluation from being conducted at this time.
+> **Nota:** Il log di query conferma che la ricerca nel registro è stata eseguita con successo (result_status: "success") ma ha restituito 0 record. Se Colchicina è nota per avere una presenza di mercato nel territorio target con un nome di prodotto o un titolare di licenza alternativo, è consigliata una ricerca mirata per nome di prodotto come fase successiva.
 
-**To proceed, the following is needed:**
+---
 
-- **\[Blocking — DG001\]** Parse the package insert PDF already retrieved from the registry (query\_log id: 4) to extract warnings and contraindications; this is the precondition for entering the S1 safety screening stage
-- **\[High — DG002\]** Query the DrugBank record already identified (query\_log id: 3, result\_count: 1) to populate the mechanism of action (MOA) field and original indications
-- **\[Required\]** Re-run the TxGNN prediction pipeline with Colchicina as input to generate candidate repurposing indications; without predictions, no repurposing analysis can be initiated
-- **\[Advisory\]** Verify Italy/AIFA marketing authorization status via a product-name search (e.g., "Colchicina Houde" or other known brand names), as the current 0-license result may reflect a query scope limitation rather than true market absence
-- **\[Advisory\]** Confirm DrugBank ID and map to standardized INN to ensure consistent cross-source identification in future pipeline runs
+## Considerazioni di Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+> La query del registro per il foglio illustrativo ha restituito 1 risultato (query_log id: 4), ma il contenuto non è stato trasferito all'Evidence Pack. Il recupero e l'analisi di questo documento sono classificati come lacuna **Blocking** (DG001) e devono essere completati prima di procedere con qualsiasi valutazione di sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: In Sospeso**
+
+**Razionale:**
+L'Evidence Pack non contiene indicazioni previste da TxGNN, nessun dato di indicazione originale, e due lacune di dati irrisolte — una Blocking e una ad alta severità — che impediscono qualsiasi valutazione significativa del riposizionamento o della sicurezza da condursi in questo momento.
+
+**Per procedere, è necessario quanto segue:**
+
+- **\[Blocking — DG001\]** Analizzare il PDF del foglio illustrativo già recuperato dal registro (query_log id: 4) per estrarre avvertenze e controindicazioni; questo è la precondizione per entrare nella fase di screening di sicurezza S1
+- **\[High — DG002\]** Interrogare il record DrugBank già identificato (query_log id: 3, result_count: 1) per compilare il campo del meccanismo d'azione (MOA) e le indicazioni originali
+- **\[Required\]** Rieseguire la pipeline di previsione TxGNN con Colchicina come input per generare candidate di indicazioni di riposizionamento; senza previsioni, nessuna analisi di riposizionamento può essere avviata
+- **\[Advisory\]** Verificare lo stato di autorizzazione di commercializzazione Italia/AIFA tramite una ricerca per nome di prodotto (ad es. "Colchicina Houde" o altri nomi di marchio conosciuti), poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato
+- **\[Advisory\]** Confermare l'ID di DrugBank e mappare all'INN standardizzato per garantire un'identificazione coerente tra fonti nei futuri cicli di pipeline
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

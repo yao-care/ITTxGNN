@@ -29,78 +29,75 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context, then generating the report based on the Evidence Pack.
+# BENAZEPRIL: dall'Ipertensione all'Ipertensione Renovascolare Maligna
+
+## Riassunto in Una Frase
+
+Benazepril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), consolidato nella pratica clinica per il trattamento dell'ipertensione e dell'insufficienza cardiaca attraverso il blocco della via RAAS.
+Il modello TxGNN prevede che possa essere efficace per **l'Ipertensione Renovascolare Maligna** con un punteggio di **99.65%**,
+tuttavia **nessuno studio clinico** e **nessuna pubblicazione diretta** specifica per questa combinazione sono attualmente disponibili — e una controindicazione seria ben nota si applica nella stenosi bilaterale dell'arteria renale.
 
 ---
 
-# BENAZEPRIL: From Hypertension to Malignant Renovascular Hypertension
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Benazepril is an ACE (angiotensin-converting enzyme) inhibitor, established in clinical practice for the treatment of hypertension and heart failure via RAAS pathway blockade.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension** with a score of **99.65%**,
-however **no clinical trials** and **no direct publications** specific to this combination are currently available — and a well-known serious contraindication applies in bilateral renal artery stenosis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension (no formal Italy registration record found) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L4 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originale | Ipertensione (nessun record di registrazione formale trovato in Italia) |
+| Indicazione Prevista | Ipertensione Renovascolare Maligna |
+| Punteggio di Previsione TxGNN | 99.65% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato Italiano | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In Sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available from the DrugBank source queried. Based on established pharmacological knowledge, Benazepril is an ACE inhibitor — it competitively inhibits angiotensin-converting enzyme, blocking the conversion of angiotensin I to angiotensin II. This suppresses vasoconstriction and aldosterone secretion, resulting in systemic blood pressure reduction and decreased cardiac afterload.
+Attualmente, i dati dettagliati del meccanismo di azione non sono disponibili dalla fonte DrugBank consultata. Sulla base della conoscenza farmacologica consolidata, benazepril è un inibitore dell'ACE — inibisce competitivamente l'enzima di conversione dell'angiotensina, bloccando la conversione dell'angiotensina I in angiotensina II. Ciò sopprime la vasocostrizione e la secrezione di aldosterone, determinando la riduzione della pressione arteriosa sistemica e la diminuzione del postcarico cardiaco.
 
-Malignant renovascular hypertension shares the RAAS pathway as its core driver: renal artery stenosis triggers renin hypersecretion, leading to runaway angiotensin II production and severe, treatment-resistant hypertension. Because benazepril directly targets the central effector of this cascade, the mechanistic rationale is coherent — and explains why TxGNN assigned a 99.65% repurposing score. The disease and the drug mechanism point at the same biological axis.
+L'ipertensione renovascolare maligna condivide la via RAAS come suo fattore determinante: la stenosi dell'arteria renale scatena l'ipersecrezione di renina, portando alla sovrapproduzione incontrollata di angiotensina II e all'ipertensione grave, resistente al trattamento. Poiché benazepril agisce direttamente sull'effettore centrale di questa cascata, la razionalità meccanicistica è coerente — e spiega perché TxGNN ha assegnato un punteggio di riposizionamento del 99.65%. La malattia e il meccanismo di azione del farmaco puntano verso lo stesso asse biologico.
 
-However, this apparent mechanistic alignment collapses under a critical safety constraint. In **bilateral renal artery stenosis** — a common anatomical variant in malignant renovascular hypertension — ACE inhibitors remove the angiotensin II–mediated efferent arteriolar tone that maintains glomerular filtration pressure. The consequence is an abrupt, severe drop in GFR and potentially irreversible acute kidney injury (AKI). This is a well-recognised, serious contraindication that fundamentally limits the clinical applicability of benazepril in this indication. It is not a theoretical risk; it is a documented clinical hazard.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, questo apparente allineamento meccanicistico è compromesso da un vincolo di sicurezza critico. Nella **stenosi bilaterale dell'arteria renale** — una variante anatomica comune nell'ipertensione renovascolare maligna — gli inibitori dell'ACE rimuovono il tono dell'arteriola efferente mediato dall'angiotensina II che mantiene la pressione di filtrazione glomerulare. La conseguenza è un calo abrupto e grave del GFR e potenzialmente un danno renale acuto (AKI) irreversibile. Questa è una controindicazione seria e ben riconosciuta che limita fondamentalmente l'applicabilità clinica di benazepril in questa indicazione. Non è un rischio teorico; è un pericolo clinico documentato.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note for reviewers:** Although formal safety data could not be retrieved from this pipeline run, the mechanistic analysis identifies a clinically critical concern — ACE inhibitors are contraindicated in bilateral renal artery stenosis due to risk of acute kidney injury. This should be confirmed against the full AIFA-approved labelling before any further evaluation.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-Despite the theoretically compelling RAAS mechanistic link, there is zero clinical trial or literature evidence specifically supporting Benazepril in malignant renovascular hypertension, and a known life-threatening contraindication (AKI in bilateral renal artery stenosis) creates a blocking safety concern that cannot be resolved without further data.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di Sicurezza
 
-- **Formal MOA documentation** — retrieve full DrugBank record (DB00542) to complete mechanistic analysis and enable similarity scoring
-- **Safety profile completion** — obtain AIFA (Italy) package insert to document contraindications and warnings formally; bilateral renal artery stenosis contraindication must be explicitly evaluated
-- **Patient subgroup stratification** — distinguish unilateral from bilateral RAS: ACE inhibitors may carry a more manageable benefit-risk profile in unilateral stenosis, which warrants a separate sub-analysis
-- **Class-effect literature review** — search evidence on related ACE inhibitors (e.g., Ramipril, Enalapril) in malignant renovascular hypertension; class-level evidence could indirectly inform a benazepril repurposing case
-- **Consider escalating Rank 2** — Malignant Hypertensive Renal Disease (same TxGNN score, L4, recommendation: Research Question) may represent a more tractable repurposing opportunity given available mechanistic support from the REIN trial with Ramipril; consider making this the primary research question
+Consultare il foglio illustrativo per le informazioni di sicurezza.
+
+> **Nota per i revisori:** Sebbene i dati formali di sicurezza non potessero essere recuperati da questa esecuzione della pipeline, l'analisi meccanicistica identifica un problema clinicamente critico — gli inibitori dell'ACE sono controindicati nella stenosi bilaterale dell'arteria renale a causa del rischio di danno renale acuto. Questo dovrebbe essere confermato rispetto all'etichettatura completa approvata dall'AIFA prima di qualsiasi ulteriore valutazione.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: In Sospeso**
+
+**Razionale:**
+Nonostante il collegamento meccanicistico RAAS teoricamente convincente, non esiste alcuna evidenza da studi clinici o letteratura che supporti specificamente benazepril nell'ipertensione renovascolare maligna, e una controindicazione nota che rappresenta un pericolo per la vita (AKI nella stenosi bilaterale dell'arteria renale) crea un ostacolo critico di sicurezza che non può essere risolto senza ulteriori dati.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Documentazione formale del MOA** — recuperare il record completo di DrugBank (DB00542) per completare l'analisi meccanicistica e consentire il calcolo del punteggio di similarità
+- **Completamento del profilo di sicurezza** — ottenere il foglio illustrativo dell'AIFA (Italia) per documentare formalmente le controindicazioni e gli avvertimenti; la controindicazione della stenosi bilaterale dell'arteria renale deve essere esplicitamente valutata
+- **Stratificazione per Sottogruppi di Pazienti** — distinguere la stenosi renale unilaterale da quella bilaterale: gli inibitori dell'ACE potrebbero presentare un profilo di beneficio-rischio più gestibile nella stenosi unilaterale, il che richiede un'analisi secondaria separata
+- **Revisione della Letteratura sull'Effetto di Classe** — raccogliere evidenze su inibitori dell'ACE correlati (ad es. Ramipril, Enalapril) nell'ipertensione renovascolare maligna; l'evidenza a livello di classe potrebbe indirettamente informare un caso di riposizionamento di benazepril
+- **Considerare il Rank 2** — La Malattia Renale Ipertensiva Maligna (stesso punteggio TxGNN, L4, raccomandazione: Domanda di ricerca) potrebbe rappresentare un'opportunità di riposizionamento più trattabile dato il supporto meccanicistico disponibile dallo studio REIN con Ramipril; considerare di porla come la domanda di ricerca primaria
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

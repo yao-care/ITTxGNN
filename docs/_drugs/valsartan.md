@@ -29,84 +29,85 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Valsartan: From Hypertension to Malignant Hypertensive Renal Disease
+# Valsartan: dall'Ipertensione alla Malattia Renale da Ipertensione Maligna
 
 ---
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Valsartan is an angiotensin II receptor blocker (ARB) established for the treatment of hypertension and heart failure by selectively blocking the AT1 receptor.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, with a prediction score of **99.97%**.
-Current evidence supporting this direction is limited to **1 preclinical mechanistic study** and **no registered clinical trials** specific to this indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension / Heart Failure (ARB class; no Taiwan TFDA registration data captured in this dataset) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Valsartan è un bloccante del recettore dell'angiotensina II (ARB) consolidato per il trattamento dell'ipertensione e dell'insufficienza cardiaca mediante il blocco selettivo del recettore AT1.
+Il modello TxGNN prevede che potrebbe essere efficace per la **Malignant Hypertensive Renal Disease**, con un punteggio di predizione del **99.97%**.
+Le prove attuali a supporto di questa direzione si limitano a **1 studio meccanicistico preclinico** e **nessuna prova clinica registrata** specifica per questa indicazione.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Currently, detailed mechanism of action data is not available from the data source. Based on established pharmacological knowledge, Valsartan belongs to the angiotensin II receptor blocker (ARB) class. It selectively blocks the AT1 receptor subtype, preventing angiotensin II (Ang II) from exerting its vasoconstrictive, pro-fibrotic, and pro-inflammatory effects. In the kidney, this translates to reduced intraglomerular pressure, decreased proteinuria, and suppression of TGF-β–mediated renal fibrosis — the same pathways driving end-organ damage in hypertensive emergencies.
-
-Malignant hypertensive renal disease (malignant nephrosclerosis) develops when severely elevated blood pressure causes acute nephrotoxic injury, characterised by fibrinoid necrosis of arterioles, thrombotic microangiopathy, and rapid deterioration of renal function. The central pathological driver is overactivation of Ang II via the renin-angiotensin-aldosterone system (RAAS), leading to sustained AT1R stimulation and a self-amplifying cycle of vasoconstriction and glomerular injury. Valsartan directly blocks this receptor, making the mechanistic rationale essentially first-principles: interrupt Ang II signalling at the primary effector point.
-
-The TxGNN model's high prediction score (99.97%) is therefore mechanistically coherent. The principal uncertainty is not biological plausibility but the complete absence of dedicated clinical trial evidence specific to this severe disease subtype. Indirect preclinical support exists from animal models of RAAS-hyperactivated hypertensive nephropathy, though using a different drug mechanism (endothelin antagonism). Formal clinical investigation of ARBs — including valsartan — in malignant hypertensive nephropathy remains an open and clinically relevant research question.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for malignant hypertensive renal disease.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Ipertensione / Insufficienza cardiaca (classe ARB; nessun dato di registrazione TFDA di Taiwan acquisito in questo dataset) |
+| Indicazione Predetta Nuova | Malignant Hypertensive Renal Disease |
+| Punteggio Predizione TxGNN | 99.97% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato Taiwan | Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In Sospeso |
 
 ---
 
-## Literature Evidence
+## Perché questa Predizione è Ragionevole?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Animal/Mechanistic | Pharmacological Research | Avosentan (endothelin-A antagonist) provided nephroprotection in double-transgenic rats overexpressing human renin and angiotensinogen — a model of severe RAAS-driven hypertensive nephropathy — at doses below those causing fluid retention; confirms pharmacological modulation of the renin-angiotensin axis can arrest hypertensive renal injury in vivo |
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dalla fonte dati. Sulla base della conoscenza farmacologica consolidata, valsartan appartiene alla classe dei bloccanti del recettore dell'angiotensina II (ARB). Blocca selettivamente il sottotipo di recettore AT1, prevenendo all'angiotensina II (Ang II) di esercitare i suoi effetti vasocostrittivi, pro-fibrotici e pro-infiammatori. Nel rene, questo si traduce in una riduzione della pressione intraglomerulare, diminuzione della proteinuria e soppressione della fibrosi renale mediata da TGF-β — gli stessi percorsi che guidano il danno d'organo nelle emergenze ipertensive.
 
-> **Important caveat:** The above study evaluates avosentan (an endothelin antagonist), not valsartan. Its relevance is mechanistic — it validates RAAS-hyperactivation as the primary pathological driver of malignant hypertensive nephropathy and demonstrates organ protection is achievable through targeted pathway blockade. No direct clinical or experimental evidence for valsartan in this specific indication was identified.
+La malattia renale da ipertensione maligna (nefroangiosclerosi maligna) si sviluppa quando una pressione sanguigna gravemente elevata causa danno renale acuto nefrotossico, caratterizzato da necrosi fibrinoide delle arteriole, microangiopatia trombotica e deterioramento rapido della funzione renale. Il driver patologico centrale è l'iperattivazione dell'Ang II attraverso il sistema renina-angiotensina-aldosterone (RAAS), che porta a stimolazione sostenuta di AT1R e a un ciclo autoamplificante di vasocostrizione e danno glomerulare. Valsartan blocca direttamente questo recettore, rendendo la logica meccanicistica essenzialmente di primo principio: interrompere la segnalazione dell'Ang II nel punto effettore primario.
 
----
-
-## Taiwan Market Information
-
-No TFDA (Taiwan Food and Drug Administration) registration records for Valsartan were found in this dataset. Valsartan is broadly approved across major regulatory jurisdictions (U.S. FDA, EMA, PMDA) for hypertension, heart failure with reduced ejection fraction, and post-MI left ventricular dysfunction. The absence of Taiwan registration data in this evidence pack may reflect a data collection gap and should be verified directly against the TFDA drug database before regulatory decisions are made.
+Il punteggio di predizione elevato del modello TxGNN (99.97%) è quindi meccanicisticamente coerente. L'incertezza principale non è la plausibilità biologica ma l'assenza completa di prove cliniche dedicate specifiche per questo sottotipo di malattia grave. Un supporto preclinico indiretto esiste da modelli animali di nefropatia ipertensiva iperazione RAAS, sebbene utilizzando un meccanismo farmacologico diverso (antagonismo dell'endotelina). L'indagine clinica formale degli ARB — incluso valsartan — nella nefropatia ipertensiva maligna rimane una questione di ricerca aperta e clinicamente rilevante.
 
 ---
 
-## Safety Considerations
+## Prove da Prove Cliniche
 
-Please refer to the package insert for safety information.
+Attualmente nessuna prova clinica correlata registrata per malattia renale da ipertensione maligna.
 
 ---
 
-## Conclusion and Next Steps
+## Prove da Letteratura
 
-**Decision: Hold**
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
+|------|------|------|---------|-----------------|
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Animale/Meccanicistico | Pharmacological Research | Avosentan (antagonista dell'endotelina-A) ha fornito nefroprotezzione in ratti transgenici doppi che sovraesprimono renina umana e angiotensinogeno — un modello di nefropatia ipertensiva grave guidata da RAAS — a dosi inferiori a quelle che causano ritenzione di fluidi; conferma che la modulazione farmacologica dell'asse renina-angiotensina può arrestare il danno renale ipertensivo in vivo |
 
-**Rationale:**
-Although the mechanistic case for Valsartan in malignant hypertensive renal disease is biologically compelling — AT1R blockade directly addresses the RAAS-driven glomerular injury cascade — the current evidence base is L4, consisting solely of one preclinical study using a mechanistically distinct drug. No clinical or human observational data exist to support advancement at this stage.
+> **Avvertenza importante:** Lo studio precedente valuta avosentan (un antagonista dell'endotelina), non valsartan. La sua rilevanza è meccanicistica — convalida l'iperattivazione di RAAS come il driver patologico primario della nefropatia ipertensiva maligna e dimostra che la protezione degli organi è conseguibile attraverso il blocco mirato del percorso. Non è stata identificata alcuna prova diretta clinica o sperimentale per valsartan in questa indicazione specifica.
 
-**To proceed, the following is needed:**
+---
 
-- **Clinical evidence:** Retrospective cohort study or registry analysis evaluating outcomes of ARB use (specifically valsartan or losartan as a comparator) in patients with confirmed malignant hypertensive nephropathy
-- **Mechanistic data:** Formal MOA documentation from DrugBank (AT1R selectivity, binding kinetics, downstream RAAS suppression profile)
-- **Safety data:** TFDA package insert or equivalent source to establish key warnings, contraindications, and renal-dose adjustment requirements (critical given the target population has severe renal impairment by definition)
-- **Trial design:** Define diagnostic criteria distinguishing malignant hypertensive renal disease from other hypertensive nephropathy subtypes, and identify measurable endpoints (eGFR trajectory, proteinuria reduction, renal survival at 12 months)
-- **Translational bridge:** Consider initiating a systematic literature review or meta-analysis on ARB use in hypertensive emergency with renal involvement as a lower-cost precursor to prospective trial planning
+## Informazioni sul Mercato di Taiwan
+
+Nessun record di registrazione TFDA (Taiwan Food and Drug Administration) per valsartan è stato trovato in questo dataset. Valsartan è ampiamente approvato in tutte le principali giurisdizioni normative (U.S. FDA, EMA, PMDA) per ipertensione, insufficienza cardiaca con frazione di eiezione ridotta e disfunzione ventricolare sinistra post-MI. L'assenza di dati di registrazione di Taiwan in questo pacchetto di prove può riflettere una lacuna nella raccolta dati e dovrebbe essere verificata direttamente rispetto al database dei farmaci TFDA prima di prendere decisioni normative.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: In Sospeso**
+
+**Razionale:**
+Sebbene il caso meccanicistico per valsartan nella malattia renale da ipertensione maligna sia biologicamente convincente — il blocco di AT1R affronta direttamente il cascata di danno glomerulare guidata da RAAS — la base di prove attuale è L4, consistente unicamente di uno studio preclinico utilizzando un farmaco meccanicisticamente distinto. Non esistono dati clinici o osservazionali umani per supportare l'avanzamento in questa fase.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Prove cliniche:** Studio di coorte retrospettivo o analisi di registro valutando gli esiti dell'uso di ARB (specificamente valsartan o losartan come comparatore) in pazienti con nefropatia ipertensiva maligna confermata
+- **Dati meccanicistici:** Documentazione formale del MOA da DrugBank (selettività AT1R, cinetica di legame, profilo di soppressione di RAAS a valle)
+- **Dati sulla sicurezza:** Foglio illustrativo TFDA o fonte equivalente per stabilire avvertenze chiave, controindicazioni e requisiti di aggiustamento della dose renale (critico considerando che la popolazione target ha compromissione renale grave per definizione)
+- **Design dello studio:** Definire criteri diagnostici che distinguono la malattia renale da ipertensione maligna da altri sottotipi di nefropatia ipertensiva e identificare endpoint misurabili (traiettoria di eGFR, riduzione della proteinuria, sopravvivenza renale a 12 mesi)
+- **Ponte traslazionale:** Considerare l'avvio di una revisione sistematica della letteratura o metanalisi sull'uso di ARB nell'emergenza ipertensiva con coinvolgimento renale come precursore a minor costo della pianificazione prospettica della prova
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

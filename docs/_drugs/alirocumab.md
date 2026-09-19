@@ -29,88 +29,89 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# ALIROCUMAB: Drug Repurposing Evaluation — Awaiting Predicted Indications
+# ALIROCUMAB: Valutazione del Riutilizzo di Farmaci — In Attesa di Indicazioni Previste
 
-## One-Sentence Summary
+## Riepilogo in una Frase
 
-Alirocumab (Praluent®) is a fully human monoclonal antibody targeting PCSK9, originally developed for the treatment of hypercholesterolemia and reduction of cardiovascular risk. The TxGNN model has **not yet generated predicted new indications** for this drug, and the evidence pack currently contains **no clinical trials** and **no literature** to evaluate. Further data collection is required before a repurposing assessment can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not listed in current evidence pack (known: hypercholesterolemia, cardiovascular risk reduction) |
-| Predicted New Indication | — (No TxGNN predictions available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+L'alirocumab (Praluent®) è un anticorpo monoclonale completamente umano che mira a PCSK9, originariamente sviluppato per il trattamento dell'ipercolesterolemia e la riduzione del rischio cardiovascolare. Il modello TxGNN **non ha ancora generato indicazioni nuove previste** per questo farmaco, e il dossier probatorio attualmente contiene **nessuna sperimentazione clinica** e **nessuna letteratura** da valutare. È necessaria un'ulteriore raccolta di dati prima che una valutazione del riutilizzo possa procedere.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Currently, the TxGNN model has not generated any predicted new indications for Alirocumab, so a mechanistic plausibility assessment cannot be performed at this time.
-
-For reference, Alirocumab is a PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitor. PCSK9 normally binds to LDL receptors on the surface of hepatocytes, promoting their degradation and thereby reducing the liver's ability to clear LDL cholesterol from the blood. By blocking PCSK9, Alirocumab increases the number of available LDL receptors, significantly lowering LDL-C levels. This mechanism has been validated in the landmark ODYSSEY OUTCOMES trial demonstrating cardiovascular event reduction.
-
-The PCSK9 pathway has been implicated in areas beyond lipid metabolism — including inflammation, sepsis, hepatic regeneration, and viral infection — suggesting potential repurposing avenues. However, until TxGNN predictions are generated, no formal mechanistic bridging analysis can be conducted.
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indication is available; therefore, no indication-specific clinical trial search has been performed.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Non elencata nel dossier probatorio attuale (nota: ipercolesterolemia, riduzione del rischio cardiovascolare) |
+| Indicazione Nuova Prevista | — (Nessuna previsione TxGNN disponibile) |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Evidenza | L5 (Nessuna previsione o studi di supporto) |
+| Stato di Commercializzazione a Taiwan | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Mantenere** |
 
 ---
 
-## Literature Evidence
+## Perché Questa Previsione è Ragionevole?
 
-Currently no TxGNN-predicted indication is available; therefore, no indication-specific literature search has been performed.
+Attualmente, il modello TxGNN non ha generato alcuna indicazione nuova prevista per l'alirocumab, quindi un'analisi di plausibilità meccanicistica non può essere condotta al momento.
 
----
+Per riferimento, l'alirocumab è un inibitore di PCSK9 (proprotein convertase subtilisin/kexin type 9). PCSK9 normalmente si lega ai recettori LDL sulla superficie degli epatociti, promuovendo la loro degradazione e riducendo così la capacità del fegato di eliminare il colesterolo LDL dal sangue. Bloccando PCSK9, l'alirocumab aumenta il numero di recettori LDL disponibili, riducendo significativamente i livelli di LDL-C. Questo meccanismo è stato convalidato nello studio cardine ODYSSEY OUTCOMES che ha dimostrato la riduzione degli eventi cardiovascolari.
 
-## Taiwan Market Information
-
-Alirocumab is **not currently marketed in Taiwan**. No TFDA marketing authorizations were found (query date: 2026-03-29).
-
-> Note: Alirocumab is approved in the US (FDA), EU (EMA), and many other markets under the brand name **Praluent®** (Sanofi / Regeneron) for primary hypercholesterolemia, mixed dyslipidemia, and established atherosclerotic cardiovascular disease to reduce cardiovascular risk.
+La via PCSK9 è stata implicata in aree al di là del metabolismo lipidico — compresa l'infiammazione, la sepsi, la rigenerazione epatica e l'infezione virale — suggerendo potenziali strategie di riutilizzo. Tuttavia, fino a quando le previsioni TxGNN non saranno generate, nessuna analisi formale di collegamento meccanicistico potrà essere condotta.
 
 ---
 
-## Safety Considerations
+## Prove da Studi Clinici
 
-No safety data (warnings, contraindications, or drug-drug interactions) is available in the current evidence pack.
-
-> Please refer to the package insert for safety information. Key known safety considerations for Alirocumab from the approved label include:
-> - **Hypersensitivity reactions** (including pruritus, rash, urticaria; rare cases of hypersensitivity vasculitis)
-> - **Injection site reactions** (most common adverse event)
-> - **Neurocognitive events** (monitored in clinical trials; no confirmed causal relationship)
-> - **Hepatic impairment** (no dose adjustment needed for mild-to-moderate; limited data in severe)
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca specifica per indicazione di studi clinici è stata condotta.
 
 ---
 
-## Conclusion and Next Steps
+## Prove dalla Letteratura
 
-**Decision: Hold**
-
-**Rationale:**
-The evidence pack for Alirocumab is critically incomplete — no TxGNN predicted indications have been generated, no Taiwan marketing authorizations exist, and safety/MOA data remain unfilled. Without a predicted new indication, no repurposing evaluation pathway can be initiated.
-
-**To proceed, the following is needed:**
-
-1. **TxGNN Prediction Run** — Execute the TxGNN model for Alirocumab (DB09302) to generate candidate repurposing indications with prediction scores
-2. **Mechanism of Action (MOA) Data** — Query DrugBank API to retrieve full MOA, target, and pathway data (Data Gap DG002)
-3. **TFDA Package Insert** — Obtain and parse the official package insert for warnings and contraindications (Data Gap DG001), or if not marketed in Taiwan, source from FDA/EMA approved labels
-4. **Drug-Drug Interaction Data** — Re-query DDI databases; Alirocumab as a monoclonal antibody has limited CYP-mediated interactions, but statin co-administration patterns should be documented
-5. **Taiwan Market Access Assessment** — If repurposing candidates are identified, evaluate pathway for TFDA registration or compassionate use
+Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca specifica per indicazione della letteratura è stata condotta.
 
 ---
 
-*This report was generated on 2026-04-03 based on Evidence Pack v4 (candidate ID: TW-DB09302-multi). Results are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Informazioni sul Mercato di Taiwan
+
+L'alirocumab **non è attualmente commercializzato a Taiwan**. Nessuna autorizzazione di commercializzazione TFDA è stata trovata (data della ricerca: 2026-03-29).
+
+> Nota: L'alirocumab è approvato negli USA (FDA), nell'UE (EMA) e in molti altri mercati con il nome commerciale **Praluent®** (Sanofi / Regeneron) per l'ipercolesterolemia primaria, la dislipidemia mista e la malattia cardiovascolare aterosclerotica accertata per ridurre il rischio cardiovascolare.
+
+---
+
+## Considerazioni di Sicurezza
+
+Nessun dato di sicurezza (avvertenze, controindicazioni o interazioni farmacologiche) è disponibile nel dossier probatorio attuale.
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Le considerazioni di sicurezza note principali per l'alirocumab dall'etichetta approvata includono:
+> - **Reazioni di ipersensibilità** (incluse prurito, eruzione cutanea, orticaria; rari casi di vasculite da ipersensibilità)
+> - **Reazioni nel sito di iniezione** (evento avverso più comune)
+> - **Eventi neurocognitivi** (monitorati negli studi clinici; nessuna relazione causale confermata)
+> - **Compromissione epatica** (nessun aggiustamento della dose necessario per lieve-moderata; dati limitati in grave)
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Mantenere**
+
+**Razionale:**
+Il dossier probatorio per l'alirocumab è criticamente incompleto — nessuna indicazione nuova prevista da TxGNN è stata generata, nessuna autorizzazione di commercializzazione a Taiwan esiste, e i dati di sicurezza/meccanismo d'azione rimangono assenti. Senza un'indicazione nuova prevista, nessun percorso di valutazione del riutilizzo può essere avviato.
+
+**Per procedere, quanto segue è necessario:**
+
+1. **Esecuzione di Previsione TxGNN** — Eseguire il modello TxGNN per l'alirocumab (DB09302) per generare candidati di indicazioni di riutilizzo con punteggi di previsione
+2. **Dati sul Meccanismo d'Azione (MOA)** — Interrogare l'API di DrugBank per recuperare i dati completi di MOA, target e via (Lacuna di Dati DG002)
+3. **Foglio Illustrativo TFDA** — Ottenere e analizzare il foglio illustrativo ufficiale per avvertenze e controindicazioni (Lacuna di Dati DG001), o se non commercializzato a Taiwan, reperire da etichette approvate FDA/EMA
+4. **Dati di Interazione Farmacologica** — Ri-interrogare i database di interazione farmacologica; l'alirocumab come anticorpo monoclonale ha interazioni mediate da CYP limitate, ma gli schemi di co-somministrazione con statine dovrebbero essere documentati
+5. **Valutazione dell'Accesso al Mercato di Taiwan** — Se candidati di riutilizzo sono identificati, valutare il percorso per la registrazione TFDA o l'uso compassionevole
+
+---
+
+*Questo rapporto è stato generato il 2026-04-03 in base al dossier probatorio v4 (ID candidato: TW-DB09302-multi). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. I candidati di riutilizzo di farmaci richiedono una convalida clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

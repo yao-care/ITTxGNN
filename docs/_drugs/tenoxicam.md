@@ -29,87 +29,88 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Tenoxicam: From Musculoskeletal Inflammation to Rheumatoid Arthritis
+# Tenoxicam: dall'infiammazione muscoloscheletrica all'artrite reumatoide
 
-## One-Sentence Summary
+## Riepilogo in una frase
 
-Tenoxicam is a non-steroidal anti-inflammatory drug (NSAID) of the oxicam class, used internationally for the treatment of musculoskeletal and inflammatory conditions including osteoarthritis, ankylosing spondylitis, and rheumatoid arthritis.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis** — a prediction strongly corroborated by decades of clinical data, with **1 registered clinical trial** and **20 publications** (including multiple large RCTs) currently on record.
-Tenoxicam is currently not marketed in Taiwan and carries no domestic regulatory authorisation.
+Tenoxicam è un farmaco antinfiammatorio non steroideo (FANS) della classe degli oxicam, utilizzato a livello internazionale per il trattamento di condizioni muscoloscheletriche e infiammatorie tra cui l'artrosi, la spondilite anchilosante e l'artrite reumatoide.
+Il modello TxGNN prevede che possa essere efficace per l'**artrite reumatoide** — una previsione fortemente corroborata da decenni di dati clinici, con **1 studio clinico registrato** e **20 pubblicazioni** (inclusi multipli RCT di grandi dimensioni) attualmente registrati.
+Tenoxicam attualmente non è commercializzato a Taiwan e non dispone di autorizzazione normativa interna.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not available in Taiwan (known globally as NSAID for inflammatory musculoskeletal conditions) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Non disponibile a Taiwan (noto globalmente come FANS per le condizioni muscoloscheletriche infiammatorie) |
+| Indicazione nuova prevista | Artrite reumatoide |
+| Punteggio di previsione TxGNN | 99.90% |
+| Livello di evidenza | L2 |
+| Stato del mercato a Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Tenoxicam belongs to the oxicam class of NSAIDs, pharmacologically closely related to piroxicam. Although a formal mechanism of action entry is not available from DrugBank for this evaluation, tenoxicam's mechanism is well-characterised in clinical literature: it inhibits both COX-1 and COX-2 enzymes, suppressing the synthesis of prostaglandin E2 (PGE2) and prostacyclin (PGI2). This cascade reduces synovial inflammation and vascular permeability, relieving the joint pain, morning stiffness, and swelling that define rheumatoid arthritis. A key pharmacokinetic advantage is its long plasma half-life (~70 hours), enabling effective once-daily dosing — a clinical convenience factor relevant for chronic disease management.
+Tenoxicam appartiene alla classe dei FANS oxicam, farmacologicamente strettamente correlato al piroxicam. Sebbene una voce di meccanismo d'azione formale non sia disponibile da DrugBank per questa valutazione, il meccanismo del tenoxicam è ben caratterizzato nella letteratura clinica: inibisce sia gli enzimi COX-1 che COX-2, sopprimendo la sintesi della prostaglandina E2 (PGE2) e della prostaciclina (PGI2). Questa cascata riduce l'infiammazione sinoviale e la permeabilità vascolare, alleviando il dolore articolare, la rigidità mattutina e il gonfiore che caratterizzano l'artrite reumatoide. Un vantaggio farmacocinetico chiave è la sua lunga emivita plasmatica (~70 ore), che consente un dosaggio efficace una volta al giorno — un fattore di convenienza clinica rilevante per la gestione delle malattie croniche.
 
-The mechanistic link to rheumatoid arthritis is direct, not inferential. RA is characterised by chronic synovial inflammation driven by prostaglandins, and COX inhibition is the shared foundational mechanism of all approved NSAIDs used in RA, including piroxicam, meloxicam, and naproxen. Multiple head-to-head comparative RCTs have confirmed that tenoxicam's efficacy in RA is at least equivalent to piroxicam, and a large-scale observational study (N = 2,963) demonstrated clinically meaningful pain reduction and functional improvement in both RA and osteoarthritis patients over 12–52 weeks of treatment.
+Il collegamento meccanistico all'artrite reumatoide è diretto, non deduttivo. L'artrite reumatoide è caratterizzata da infiammazione sinoviale cronica guidata da prostaglandine, e l'inibizione della COX è il meccanismo fondamentale condiviso di tutti i FANS approvati utilizzati nell'artrite reumatoide, inclusi piroxicam, meloxicam e naprossene. Multipli RCT comparativi testa a testa hanno confermato che l'efficacia del tenoxicam nell'artrite reumatoide è almeno equivalente al piroxicam, e uno studio osservazionale su larga scala (N = 2,963) ha dimostrato una riduzione del dolore clinicamente significativa e un miglioramento funzionale sia nei pazienti con artrite reumatoide che con artrosi per 12–52 settimane di trattamento.
 
-The high TxGNN prediction score (99.90%) reflects a mechanistically sound and empirically confirmed repurposing signal. The body of evidence spans three continents, includes a 4-year long-term trial, diverse patient populations, and integrated pharmacokinetic studies demonstrating high synovial fluid penetration — directly relevant to joint-compartment efficacy. The primary barrier to clinical deployment in Taiwan is not efficacy uncertainty, but the absence of a domestic marketing authorisation and complete package insert safety data.
+L'alto punteggio di previsione TxGNN (99.90%) riflette un segnale di riposizionamento meccanicamente valido e empiricamente confermato. L'insieme delle prove abbraccia tre continenti, include una sperimentazione a lungo termine di 4 anni, popolazioni di pazienti diversi e studi farmacocaenetici integrati che dimostrano un'elevata penetrazione del fluido sinoviale — direttamente rilevante per l'efficacia a livello del compartimento articolare. La barriera principale al dispiegamento clinico a Taiwan non è l'incertezza sull'efficacia, ma l'assenza completa di un'autorizzazione commerciale a Taiwan (TFDA) e di dati di sicurezza completi nel foglietto illustrativo.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza degli studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT05508451](https://clinicaltrials.gov/study/NCT05508451) | N/A | Completed | 80 | Compared tenoxicam, paracetamol, and their combination for postoperative pain in double-jaw surgery patients; demonstrates anti-inflammatory and analgesic activity but is not specific to rheumatoid arthritis |
+| [NCT05508451](https://clinicaltrials.gov/study/NCT05508451) | N/A | Completato | 80 | Ha confrontato tenoxicam, paracetamolo e la loro combinazione per il dolore postoperatorio nei pazienti sottoposti a chirurgia del doppio mascellare; dimostra l'attività antinfiammatoria e analgesica ma non è specifico per l'artrite reumatoide |
 
-> **Note:** No ClinicalTrials.gov registrations specifically evaluating tenoxicam in rheumatoid arthritis were identified. The above trial confirms pharmacological activity; RA efficacy evidence is primarily drawn from pre-registration era RCT literature (see Literature Evidence below).
+> **Nota:** Nessuna registrazione ClinicalTrials.gov che valuta specificamente il tenoxicam nell'artrite reumatoide è stata identificata. Lo studio precedente conferma l'attività farmacologica; l'evidenza di efficacia nell'artrite reumatoide è principalmente tratta dalla letteratura RCT dell'era pre-registrazione (vedi Evidenza letteraria di seguito).
 
 ---
 
-## Literature Evidence
+## Evidenza letteraria
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [1593574](https://pubmed.ncbi.nlm.nih.gov/1593574/) | 1992 | RCT | J Rheumatology | Tenoxicam 20 mg OD vs piroxicam 20 mg OD in 102 RA patients across 5 centres; no significant efficacy difference, comparable adverse event profile |
-| [8894360](https://pubmed.ncbi.nlm.nih.gov/8894360/) | 1996 | RCT | Clin Rheumatology | Aceclofenac vs tenoxicam in 292 RA patients (3-month multicentre double-blind); both groups showed sustained clinical improvement in pain and function scores |
-| [2292331](https://pubmed.ncbi.nlm.nih.gov/2292331/) | 1990 | Multicenter RCT | J Int Medical Research | Tenoxicam 20 mg/day in 2,963 OA/RA patients recruited from 252 general practices; significant, durable pain reduction over 12–52 weeks |
-| [2695152](https://pubmed.ncbi.nlm.nih.gov/2695152/) | 1989 | RCT | Brit J Clin Practice | Tenoxicam vs piroxicam in 1,328 OA/RA patients (large parallel-group double-blind); tenoxicam showed slightly superior global assessment and equivalent stiffness improvement |
-| [2512637](https://pubmed.ncbi.nlm.nih.gov/2512637/) | 1989 | Long-term RCT | Scand J Rheumatology Suppl | 4-year trial in 20 RA patients on tenoxicam 20 mg/day plus gold salts or D-penicillamine; analgesic and anti-inflammatory effect maintained throughout long-term follow-up |
-| [3915885](https://pubmed.ncbi.nlm.nih.gov/3915885/) | 1985 | RCT | Eur J Rheumatology Inflammation | Series of double-blind parallel trials in OA, RA, and ankylosing spondylitis; tenoxicam at least as effective as piroxicam across all three conditions at 20 mg once daily |
-| [3915889](https://pubmed.ncbi.nlm.nih.gov/3915889/) | 1985 | Clinical Study | Eur J Rheumatology Inflammation | Open multicentre study of rectal tenoxicam (20 mg/day) in 79 patients with arthrosis (40) or RA (39) over 6 weeks; significant improvement in pain, mobility, and function |
-| [1711963](https://pubmed.ncbi.nlm.nih.gov/1711963/) | 1991 | Review | Drugs | Comprehensive pharmacology update: tenoxicam effective for RA, OA, ankylosing spondylitis, tendinitis, bursitis, and sciatica; at least equivalent to other NSAIDs and probably better tolerated than diclofenac and indomethacin |
-| [1778090](https://pubmed.ncbi.nlm.nih.gov/1778090/) | 1991 | Clinical Study | Curr Med Research Opinion | Open study in 736 African outpatients with RA, OA, tendinitis, and bursitis; tenoxicam 20 mg/day demonstrated efficacy and tolerability across a geographically and demographically diverse population |
-| [3262939](https://pubmed.ncbi.nlm.nih.gov/3262939/) | 1988 | PK Study | Therapeutic Drug Monitoring | Integrated plasma and synovial fluid PK after single 40 mg oral dose in RA/OA patients; high synovial fluid penetration supports effective drug concentration at the site of joint inflammation |
+| [1593574](https://pubmed.ncbi.nlm.nih.gov/1593574/) | 1992 | RCT | J Rheumatology | Tenoxicam 20 mg OD vs piroxicam 20 mg OD in 102 pazienti con artrite reumatoide in 5 centri; nessuna differenza di efficacia significativa, profilo di eventi avversi comparabile |
+| [8894360](https://pubmed.ncbi.nlm.nih.gov/8894360/) | 1996 | RCT | Clin Rheumatology | Aceclofenac vs tenoxicam in 292 pazienti con artrite reumatoide (3 mesi, multicentrico, in doppio cieco); entrambi i gruppi hanno mostrato un miglioramento clinico sostenuto nei punteggi del dolore e della funzione |
+| [2292331](https://pubmed.ncbi.nlm.nih.gov/2292331/) | 1990 | RCT multicentrico | J Int Medical Research | Tenoxicam 20 mg/day in 2,963 pazienti con artrosi/artrite reumatoide reclutati da 252 ambulatori di medicina generale; riduzione significativa e duratura del dolore per 12–52 settimane |
+| [2695152](https://pubmed.ncbi.nlm.nih.gov/2695152/) | 1989 | RCT | Brit J Clin Practice | Tenoxicam vs piroxicam in 1,328 pazienti con artrosi/artrite reumatoide (studio parallelo di grandi dimensioni in doppio cieco); tenoxicam ha mostrato una valutazione globale leggermente superiore e un miglioramento equivalente della rigidità |
+| [2512637](https://pubmed.ncbi.nlm.nih.gov/2512637/) | 1989 | RCT a lungo termine | Scand J Rheumatology Suppl | Studio di 4 anni in 20 pazienti con artrite reumatoide su tenoxicam 20 mg/day più sali d'oro o D-penicillamina; effetto analgesico e antinfiammatorio mantenuto durante tutto il follow-up a lungo termine |
+| [3915885](https://pubmed.ncbi.nlm.nih.gov/3915885/) | 1985 | RCT | Eur J Rheumatology Inflammation | Serie di studi paralleli in doppio cieco in artrosi, artrite reumatoide e spondilite anchilosante; tenoxicam almeno efficace quanto il piroxicam in tutte e tre le condizioni a 20 mg una volta al giorno |
+| [3915889](https://pubmed.ncbi.nlm.nih.gov/3915889/) | 1985 | Studio clinico | Eur J Rheumatology Inflammation | Studio multicentrico aperto di tenoxicam rettale (20 mg/day) in 79 pazienti con artrosi (40) o artrite reumatoide (39) per 6 settimane; miglioramento significativo nel dolore, mobilità e funzione |
+| [1711963](https://pubmed.ncbi.nlm.nih.gov/1711963/) | 1991 | Revisione | Drugs | Aggiornamento farmacologico completo: tenoxicam efficace per l'artrite reumatoide, artrosi, spondilite anchilosante, tendinite, borsite e sciatica; almeno equivalente agli altri FANS e probabilmente meglio tollerato di diclofenac e indometacina |
+| [1778090](https://pubmed.ncbi.nlm.nih.gov/1778090/) | 1991 | Studio clinico | Curr Med Research Opinion | Studio aperto in 736 pazienti ambulatoriali africani con artrite reumatoide, artrosi, tendinite e borsite; tenoxicam 20 mg/day ha dimostrato efficacia e tollerabilità in una popolazione geograficamente e demograficamente diversa |
+| [3262939](https://pubmed.ncbi.nlm.nih.gov/3262939/) | 1988 | Studio PK | Therapeutic Drug Monitoring | PK integrata del plasma e del fluido sinoviale dopo singola dose orale di 40 mg in pazienti con artrite reumatoide/artrosi; l'elevata penetrazione del fluido sinoviale supporta una concentrazione di farmaco efficace nel sito dell'infiammazione articolare |
 
 ---
 
-## Safety Considerations
+## Considerazioni sulla sicurezza
 
-Please refer to the package insert for safety information.
+Si prega di consultare il foglietto illustrativo per informazioni sulla sicurezza.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusioni e prossimi passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Procedere con cautele**
 
-**Rationale:**
-Multiple large randomised controlled trials spanning 1985–1996 consistently demonstrate tenoxicam's efficacy and tolerability in rheumatoid arthritis; its COX-1/2 inhibition mechanism is directly applicable to RA pathophysiology and is the same mechanism underpinning all NSAIDs currently approved in this indication. Evidence quality is high for this drug class and era — the largest study enrolled nearly 3,000 patients across 252 centres. The central limitation is not efficacy uncertainty, but the complete absence of a Taiwan (TFDA) marketing authorisation and domestic safety documentation.
+**Razionale:**
+Multipli ampi studi controllati randomizzati che vanno dal 1985 al 1996 dimostrano coerentemente l'efficacia e la tollerabilità del tenoxicam nell'artrite reumatoide; il suo meccanismo di inibizione della COX-1/2 è direttamente applicabile alla patofisiologia dell'artrite reumatoide ed è lo stesso meccanismo alla base di tutti i FANS attualmente approvati in questa indicazione. La qualità dell'evidenza è elevata per questa classe di farmaci e per l'era considerata — lo studio più grande ha arruolato quasi 3.000 pazienti in 252 centri. La limitazione centrale non è l'incertezza sull'efficacia, ma l'assenza completa di un'autorizzazione commerciale a Taiwan (TFDA) e della documentazione di sicurezza interna.
 
-**To proceed, the following is needed:**
-- Retrieve and review the TFDA package insert (or a reference country equivalent such as the EMA or FDA label) to complete the warnings, contraindications, and drug interaction profile
-- Confirm mechanism of action details via DrugBank API query to support the mechanistic argument in any regulatory submission
-- Conduct a comparative benefit-risk analysis against currently approved NSAIDs in Taiwan (e.g., meloxicam, celecoxib, naproxen) to justify regulatory and clinical differentiation
-- Define the intended patient population and the appropriate route of administration (oral, injectable, or rectal) for the Taiwan indication
-- Identify the TFDA regulatory pathway (new drug application or import licence) and assess whether existing international RCT data satisfies domestic evidentiary requirements
-- Establish a risk management plan covering GI, cardiovascular, and renal safety for long-term NSAID use in the RA population, particularly for elderly patients
+**Per procedere, è necessario quanto segue:**
+- Recuperare e rivedere il foglietto illustrativo TFDA (o equivalente di un paese di riferimento come l'etichetta EMA o FDA) per completare il profilo di avvertenze, controindicazioni e interazioni farmacologiche
+- Confermare i dettagli del meccanismo d'azione tramite interrogazione API di DrugBank per supportare l'argomento meccanicistico in qualsiasi presentazione normativa
+- Condurre un'analisi comparativa beneficio-rischio rispetto ai FANS attualmente approvati a Taiwan (ad es. meloxicam, celecoxib, naprossene) per giustificare la differenziazione normativa e clinica
+- Definire la popolazione di pazienti prevista e la via di somministrazione appropriata (orale, iniettabile o rettale) per l'indicazione a Taiwan
+- Identificare il percorso normativo TFDA (applicazione per nuovo farmaco o licenza di importazione) e valutare se i dati RCT internazionali esistenti soddisfano i requisiti di prove normative interne
+- Stabilire un piano di gestione del rischio che copra la sicurezza gastrointestinale, cardiovascolare e renale per l'uso a lungo termine di FANS nella popolazione con artrite reumatoide, in particolare per i pazienti anziani
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

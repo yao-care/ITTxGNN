@@ -29,98 +29,99 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# APIXABAN: Drug Repurposing Evaluation Report
+# APIXABAN: Rapporto di Valutazione del Riposizionamento Farmacologico
 
-## One-Sentence Summary
+## Riepilogo in una Frase
 
-Apixaban (DrugBank: DB06605) is a well-known direct oral anticoagulant (Factor Xa inhibitor), marketed globally under the brand name Eliquis for stroke prevention in atrial fibrillation and treatment/prevention of venous thromboembolism. The TxGNN model has **not generated any predicted new indications** for this drug at this time. The evidence pack contains multiple critical data gaps that must be resolved before further evaluation can proceed.
+Apixaban (DrugBank: DB06605) è un anticoagulante orale diretto (inibitore del Fattore Xa) ben noto, commercializzato a livello mondiale con il nome commerciale Eliquis per la prevenzione dell'ictus nella fibrillazione atriale e il trattamento/prevenzione del tromboembolismo venoso. Il modello TxGNN **non ha generato alcuna nuova indicazione prevista** per questo farmaco al momento presente. Il pacchetto di prove contiene molteplici lacune critiche nei dati che devono essere risolte prima di procedere con ulteriori valutazioni.
 
 ---
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Drug (INN) | Apixaban |
-| DrugBank ID | DB06605 |
-| Original Indication | Not recorded in evidence pack (known globally: anticoagulation — stroke prevention in non-valvular AF, DVT/PE treatment and prevention) |
-| Predicted New Indication | **None** — TxGNN did not generate predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No prediction, no supporting studies in this pack) |
-| Taiwan Market Status | ❌ Not marketed (Not marketed) |
-| Number of TFDA Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Farmaco (DCI) | Apixaban |
+| ID DrugBank | DB06605 |
+| Indicazione Originaria | Non registrata nel pacchetto di prove (nota a livello mondiale: anticoagulazione — prevenzione dell'ictus nella fibrillazione atriale non valvolare, trattamento e prevenzione di DVT/PE) |
+| Nuova Indicazione Prevista | **Nessuna** — TxGNN non ha generato previsioni |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | **L5** (Nessuna previsione, nessuno studio di supporto in questo pacchetto) |
+| Stato di Mercato Taiwan | ❌ Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni TFDA | 0 |
+| Decisione Consigliata | **Hold** |
 
 ---
 
-## Why Is There No Prediction?
+## Perché Non C'è Nessuna Previsione?
 
-The TxGNN model returned an empty `predicted_indications` array for Apixaban. Several factors may explain this:
+Il modello TxGNN ha restituito un array vuoto di `predicted_indications` per Apixaban. Diversi fattori potrebbero spiegare questo:
 
-1. **Data gaps in the input pipeline**: The evidence pack flags two critical gaps — (DG001) TFDA package insert warnings/contraindications are missing, rated as "Blocking" severity; and (DG002) the mechanism of action (MOA) is not populated, rated as "High" severity. Without MOA data feeding into the knowledge graph, the model may lack sufficient connectivity to generate confident predictions.
+1. **Lacune nei dati della pipeline di input**: Il pacchetto di prove evidenzia due lacune critiche — (DG001) i moniti/controindicazioni del foglio illustrativo TFDA mancano, valutati con una gravità "Blocking"; e (DG002) il meccanismo d'azione (MOA) non è popolato, valutato con una gravità "Alta". Senza i dati del MOA che alimentano il grafo di conoscenza, il modello potrebbe non avere una connettività sufficiente per generare previsioni fiduciose.
 
-2. **Taiwan regulatory absence**: Apixaban has zero TFDA licenses recorded (market status: Not marketed). This may limit the drug's representation in the Taiwan-specific knowledge graph used by TxGNN, reducing the model's ability to identify repurposing opportunities.
+2. **Assenza normativa Taiwan**: Apixaban ha zero licenze TFDA registrate (stato di mercato: Non commercializzato). Questo potrebbe limitare la rappresentazione del farmaco nel grafo di conoscenza specifico di Taiwan utilizzato da TxGNN, riducendo la capacità del modello di identificare opportunità di riposizionamento.
 
-3. **Known pharmacology context**: Apixaban is a selective, reversible direct Factor Xa inhibitor that blocks free and clot-bound Factor Xa, as well as prothrombinase activity. It is widely approved internationally (FDA, EMA) for: (a) reduction of stroke risk in non-valvular atrial fibrillation, (b) treatment of DVT and PE, (c) prophylaxis of DVT following hip or knee replacement surgery. This pharmacological profile is highly specific to the coagulation cascade, which may limit the model's ability to identify cross-indication signals.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication exists, so no targeted clinical trial search was performed.
-
-> To generate meaningful clinical trial evidence, TxGNN predictions or manual hypothesis generation is required first.
+3. **Contesto farmacologico noto**: Apixaban è un inibitore diretto del Fattore Xa selettivo e reversibile che blocca il Fattore Xa libero e legato al coagulo, nonché l'attività della protrombinasi. È ampiamente approvato a livello internazionale (FDA, EMA) per: (a) riduzione del rischio di ictus nella fibrillazione atriale non valvolare, (b) trattamento di DVT e PE, (c) profilassi di DVT dopo intervento di sostituzione dell'anca o del ginocchio. Questo profilo farmacologico è altamente specifico della cascata coagulativa, il che potrebbe limitare la capacità del modello di identificare segnali cross-indicazione.
 
 ---
 
-## Literature Evidence
+## Evidenza degli Studi Clinici
 
-Currently no predicted indication exists, so no targeted literature search was performed.
+Al momento non esiste alcuna indicazione prevista, quindi non è stata eseguita alcuna ricerca mirata di studi clinici.
 
----
-
-## Taiwan Market Information
-
-Apixaban has **no TFDA-approved licenses** in Taiwan as of the data cutoff (2026-04-03).
-
-> **Note:** Apixaban (Eliquis®, Bristol-Myers Squibb / Pfizer) is widely marketed in many other jurisdictions. The absence of Taiwan licensing may reflect a data collection gap rather than a true regulatory absence. This should be verified against the TFDA database directly.
+> Per generare evidenze significative da studi clinici, sono necessarie prima le previsioni di TxGNN o la generazione manuale di ipotesi.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-> No safety data is available in this evidence pack. Key warnings, contraindications, and drug-drug interactions all returned as data gaps or "not found."
+Al momento non esiste alcuna indicazione prevista, quindi non è stata eseguita alcuna ricerca letteraria mirata.
+
+---
+
+## Informazioni sul Mercato Taiwan
+
+Apixaban non ha **licenze approvate da TFDA** a Taiwan alla data del cutoff dei dati (2026-04-03).
+
+> **Nota:** Apixaban (Eliquis®, Bristol-Myers Squibb / Pfizer) è ampiamente commercializzato in molte altre giurisdizioni. L'assenza di licenze Taiwan potrebbe riflettere una lacuna nella raccolta dei dati piuttosto che un'assenza normativa vera. Questo dovrebbe essere verificato direttamente rispetto al database TFDA.
+
+---
+
+## Considerazioni di Sicurezza
+
+> Nel pacchetto di prove non sono disponibili dati di sicurezza. Tutti i moniti chiave, le controindicazioni e le interazioni farmaco-farmaco sono risultati come lacune nei dati o "non trovati".
 >
-> Please refer to the package insert for safety information.
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Known safety profile (general reference):** Apixaban carries class-wide anticoagulant risks including bleeding (major and minor), and has specific warnings regarding spinal/epidural anesthesia procedures, prosthetic heart valves, and premature discontinuation increasing thrombotic risk. These should be confirmed through the TFDA package insert once available.
+**Profilo di sicurezza noto (riferimento generale):** Apixaban comporta rischi di anticoagulanti a livello di classe, incluso sanguinamento (maggiore e minore), e ha moniti specifici riguardanti procedure di anestesia spinale/epidurale, valvole cardiache protesiche e l'interruzione prematura che aumenta il rischio trombotico. Questi dovrebbero essere confermati tramite il foglio illustrativo TFDA una volta disponibile.
 
 ---
 
-## Data Gaps Summary
+## Riepilogo delle Lacune nei Dati
 
-The following critical gaps were identified in this evidence pack:
+Le seguenti lacune critiche sono state identificate in questo pacchetto di prove:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
+| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
 |--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA package insert warnings/contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Affects mechanism-association analysis | Query DrugBank API |
+| DG001 | Livello Farmaco | Moniti/controindicazioni del foglio illustrativo TFDA | **Blocking** | Impossibile entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | **Alta** | Influisce sull'analisi di associazione del meccanismo | Interrogare l'API DrugBank |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Hold**
+**Decisione: Hold**
 
-**Rationale:**
-No TxGNN predicted indications were generated for Apixaban, and the evidence pack contains a Blocking-severity data gap (TFDA package insert) that prevents safety preliminary assessment. The drug's Taiwan market status shows zero authorizations, which may indicate an upstream data issue. Without a target indication to evaluate, no repurposing assessment can proceed.
+**Razionale:**
+Nessuna indicazione prevista da TxGNN è stata generata per Apixaban, e il pacchetto di prove contiene una lacuna nei dati di gravità Blocking (foglio illustrativo TFDA) che impedisce la valutazione preliminare di sicurezza. Lo stato di mercato Taiwan del farmaco mostra zero autorizzazioni, il che potrebbe indicare un problema di dati a monte. Senza un'indicazione target da valutare, non può procedere alcuna valutazione di riposizionamento.
 
-**To proceed, the following is needed:**
-- **Resolve DG001 (Blocking):** Obtain and parse TFDA package insert for Apixaban to enable safety preliminary assessment
-- **Resolve DG002 (High):** Populate MOA data from DrugBank API (Factor Xa inhibitor) to enable mechanism-based prediction
-- **Verify Taiwan market status:** Confirm whether Apixaban truly has no TFDA licenses, as it is widely marketed internationally under the brand Eliquis®
-- **Re-run TxGNN prediction:** After resolving data gaps, re-execute the TxGNN model to generate predicted indications
-- **If predictions are generated:** Collect clinical trial and literature evidence for the top predicted indication(s)
+**Per procedere, è necessario quanto segue:**
+- **Risolvere DG001 (Blocking):** Ottenere e analizzare il foglio illustrativo TFDA per Apixaban per abilitare la valutazione preliminare di sicurezza
+- **Risolvere DG002 (Alta):** Popolare i dati del MOA dall'API DrugBank (inibitore del Fattore Xa) per abilitare la previsione basata sul meccanismo
+- **Verificare lo stato di mercato Taiwan:** Confermare se Apixaban veramente non ha licenze TFDA, poiché è ampiamente commercializzato a livello internazionale con il marchio Eliquis®
+- **Rieseguire la previsione TxGNN:** Dopo aver risolto le lacune nei dati, rieseguire il modello TxGNN per generare indicazioni previste
+- **Se vengono generate previsioni:** Raccogliere evidenze da studi clinici e letteratura per le principali indicazioni previste
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

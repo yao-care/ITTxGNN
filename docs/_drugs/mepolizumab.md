@@ -29,84 +29,81 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-以下是根據 Evidence Pack 產生的藥師評估報告：
+# Mepolizumab: Dalla Sindrome Ipereosinofila alla Trombocitopenia da Distruzione Immune
+
+## Riassunto in Una Frase
+
+Mepolizumab è un anticorpo monoclonale anti-IL-5 utilizzato internazionalmente per condizioni eosinofile inclusa l'asma eosinofilo grave e la sindrome ipereosinofila (HES); non è attualmente approvato a Taiwan.
+Il modello TxGNN prevede che potrebbe essere efficace per **trombocitopenia da distruzione immune**, con **0 studi clinici** e **1 case report** che attualmente supportano questo orientamento.
+Il collegamento meccanicistico è indiretto e dipendente dal contesto, applicabile solo nello specifico ambito della trombocitopenia complicata da HES.
 
 ---
 
-# Mepolizumab: From Hypereosinophilic Syndrome to Thrombocytopenia Due to Immune Destruction
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Mepolizumab is an anti-IL-5 monoclonal antibody used internationally for eosinophilic conditions including severe eosinophilic asthma and hypereosinophilic syndrome (HES); it is not currently approved in Taiwan.
-The TxGNN model predicts it may be effective for **thrombocytopenia due to immune destruction**, with **0 clinical trials** and **1 case report** currently supporting this direction.
-The mechanistic link is indirect and context-dependent, applicable only in the narrow setting of HES-complicated thrombocytopenia.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Hypereosinophilic syndrome / Eosinophilic conditions (international approval; not approved in Taiwan) |
-| Predicted New Indication | Thrombocytopenia due to immune destruction |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione Originale | Sindrome ipereosinofila / Condizioni eosinofile (approvazione internazionale; non approvata a Taiwan) |
+| Nuova Indicazione Prevista | Trombocitopenia da distruzione immune |
+| Punteggio di Predizione TxGNN | 99.66% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato a Taiwan | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa Predizione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, mepolizumab is an anti-IL-5 monoclonal antibody that blocks interleukin-5 (IL-5), the cytokine primarily responsible for eosinophil proliferation, activation, and survival. By depleting circulating eosinophils, mepolizumab prevents eosinophil-mediated end-organ damage, including tissue infiltration and the release of toxic granule proteins.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni note, mepolizumab è un anticorpo monoclonale anti-IL-5 che blocca l'interleuchina-5 (IL-5), la citochina principalmente responsabile della proliferazione, dell'attivazione e della sopravvivenza degli eosinofili. Riducendo gli eosinofili circolanti, mepolizumab previene il danno d'organo mediato dagli eosinofili, inclusa l'infiltrazione tissutale e il rilascio di proteine granulari tossiche.
 
-The proposed mechanistic bridge to immune-mediated thrombocytopenia runs through HES: activated eosinophils in HES release cytotoxic granule proteins — eosinophil cationic protein (ECP) and major basic protein (MBP) — which can physically damage platelet membranes, drive platelet consumption, and trigger secondary immune-mediated platelet destruction. In this highly specific scenario, reducing the eosinophil burden with mepolizumab may indirectly improve platelet counts.
+Il ponte meccanicistico proposto alla trombocitopenia mediata dal sistema immunitario passa attraverso HES: gli eosinofili attivati in HES rilasciano proteine granulari citotossiche — proteina cationica eosinofila (ECP) e proteina basica maggiore (MBP) — che possono danneggiare fisicamente le membrane piastriniche, provocare il consumo piastrinico e scatenare la distruzione piastrinica mediata dal sistema immunitario secondaria. In questo scenario altamente specifico, ridurre il carico eosinofilo con mepolizumab potrebbe migliorare indirettamente i conteggi piastrinici.
 
-Critically, this pathway is indirect and context-dependent. Mepolizumab does not directly address the core mechanisms of primary immune thrombocytopenic purpura (ITP), such as anti-GPIIb/IIIa autoantibodies or T-cell-mediated platelet destruction. The TxGNN prediction is therefore plausible only when thrombocytopenia arises as a complication of active HES — not as a standalone therapy for primary ITP.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+È fondamentale sottolineare che questo percorso è indiretto e dipendente dal contesto. Mepolizumab non affronta direttamente i meccanismi fondamentali della porpora trombocitopenica immune primaria (ITP), come gli autoanticorpi anti-GPIIb/IIIa o la distruzione piastrinica mediata da cellule T. La predizione di TxGNN è quindi plausibile solo quando la trombocitopenia si presenta come complicanza di HES attiva — non come terapia autonoma per ITP primaria.
 
 ---
 
-## Literature Evidence
+## Evidenza di Studi Clinici
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente nessuno studio clinico correlato è registrato.
+
+---
+
+## Evidenza dalla Letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
 |------|------|------|---------|--------------|
-| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Case Report | Blood Cells, Molecules & Diseases | Mepolizumab resolved steroid-resistant hypereosinophilic immune diathesis in a patient with atypical hemolytic uremic syndrome (aHUS), with concurrent amelioration of mixed thrombotic microangiopathy — suggesting that eosinophil-mediated platelet pathology may be partially reversible with IL-5 blockade. |
+| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Case Report | Blood Cells, Molecules & Diseases | Mepolizumab ha risolto la diatesi immunitaria ipereosinofila resistente agli steroidi in un paziente con sindrome emolitica uremica atipica (aHUS), con concomitante miglioramento della microangiopatia trombotica mista — suggerendo che la patologia piastrinica mediata dagli eosinofili potrebbe essere parzialmente reversibile con il blocco IL-5. |
 
 ---
 
-## Taiwan Market Information
+## Informazioni di Mercato a Taiwan
 
-Mepolizumab is currently not approved or marketed in Taiwan. No TFDA authorization records are on file.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Mepolizumab non è attualmente approvato né commercializzato a Taiwan. Nessun record di autorizzazione TFDA è disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
 
-**Rationale:**
-The sole piece of supportive evidence is a single case report in a highly unusual, multi-system clinical context (aHUS + HES + thrombotic microangiopathy); there are no registered clinical trials and no systematic data linking mepolizumab to immune-mediated platelet destruction in a general patient population.
+---
 
-**To proceed, the following is needed:**
+## Conclusioni e Prossimi Passi
 
-- **MOA documentation**: Retrieve full mechanism of action from DrugBank (DG002) to strengthen the mechanistic rationale
-- **Taiwan safety data**: Download and parse the TFDA package insert to complete warnings and contraindications assessment (DG001)
-- **Patient subpopulation definition**: Clearly define the target cohort as "HES-associated immune thrombocytopenia" rather than primary ITP, to narrow the clinical hypothesis
-- **Prospective case series or observational study**: At least a multi-centre case series is needed before advancing to a formal clinical trial design
-- **International regulatory review**: Confirm whether any HES-complicated thrombocytopenia cases have been captured in the EMA or FDA post-marketing surveillance data for mepolizumab
+**Decisione: In sospeso**
+
+**Razionale:**
+L'unico elemento di prova a favore è un singolo case report in un contesto clinico multi-sistemico altamente inusuale (aHUS + HES + microangiopatia trombotica); non ci sono studi clinici registrati e nessun dato sistematico che colleghi mepolizumab alla distruzione piastrinica mediata dal sistema immunitario in una popolazione generale di pazienti.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Documentazione sul MOA**: Recuperare il completo meccanismo d'azione da DrugBank (DG002) per rafforzare la razionale meccanicistica
+- **Dati sulla sicurezza a Taiwan**: Scaricare e analizzare il foglio illustrativo TFDA per completare la valutazione delle avvertenze e delle controindicazioni (DG001)
+- **Definizione della sottopopolazione di pazienti**: Definire chiaramente la coorte target come "trombocitopenia immune associata a HES" piuttosto che ITP primaria, per restringere l'ipotesi clinica
+- **Serie di casi prospettica o studio osservazionale**: È necessaria almeno una serie di casi multi-centro prima di avanzare a un disegno formale di studio clinico
+- **Revisione normativa internazionale**: Confermare se i dati di sorveglianza post-commercializzazione dell'EMA o della FDA per mepolizumab hanno catturato eventuali casi di trombocitopenia complicata da HES
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

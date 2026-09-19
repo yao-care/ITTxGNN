@@ -29,81 +29,82 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ziprasidone: From Schizophrenia to Trichotillomania
+# Ziprasidone: dalla Schizofrenia alla Tricotillomania
 
-## One-Sentence Summary
+## Sommario in una frase
 
-Ziprasidone is a second-generation (atypical) antipsychotic primarily used for schizophrenia and bipolar disorder, with dopamine D2 and serotonin 5-HT2A receptor antagonism as its core pharmacological profile.
-The TxGNN model predicts it may be effective for **Trichotillomania** (hair-pulling disorder, an OCD-spectrum condition),
-however **no clinical trials or published literature** currently support this specific repurposing direction — the evidence level is **L5 (model prediction only)**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia / Bipolar disorder (known pharmacological use; no Italy license on record) |
-| Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Ziprasidone è un antipsicotico di seconda generazione (atipico) utilizzato principalmente per la schizofrenia e il disturbo bipolare, con antagonismo dei recettori dopaminergici D2 e della serotonina 5-HT2A come profilo farmacologico fondamentale.
+Il modello TxGNN predice che potrebbe essere efficace per la **Tricotillomania** (disturbo da strappo di capelli, una condizione dello spettro OCD),
+tuttavia **nessuna sperimentazione clinica o letteratura pubblicata** attualmente supporta questa specifica direzione di riposizionamento — il livello di evidenza è **L5 (sola predizione del modello)**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available from this evidence pack. Based on established pharmacological knowledge, ziprasidone is an atypical antipsychotic that acts primarily through dopamine D2 receptor antagonism and serotonin 5-HT2A antagonism, with additional partial agonism at 5-HT1A receptors and inhibition of norepinephrine/serotonin reuptake. Its efficacy in schizophrenia and bipolar mania has been confirmed through multiple Phase 3 randomised controlled trials.
-
-Trichotillomania is classified within the obsessive-compulsive and related disorders (OCD spectrum) in DSM-5. Theoretically, D2 receptor antagonism may dampen compulsive repetitive behaviors by modulating dopaminergic reward and habit circuits — a pathway shared with other OCD-spectrum interventions. Additionally, the 5-HT2A antagonism component may contribute to impulse control through serotonergic modulation. Some antipsychotics have been explored as augmentation agents in OCD-spectrum disorders, providing indirect biological plausibility.
-
-However, this mechanistic rationale is highly speculative for trichotillomania specifically. No ziprasidone-specific clinical trials or publications in this indication have been identified. The TxGNN prediction likely reflects graph-level structural proximity within the disease–drug knowledge network rather than direct clinical evidence. At this stage, the prediction should be treated as a hypothesis-generating signal only, not actionable clinical evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Schizofrenia / Disturbo bipolare (uso farmacologico noto; nessuna licenza italiana in archivio) |
+| Nuova indicazione prevista | Tricotillomania |
+| Punteggio di predizione TxGNN | 99.83% |
+| Livello di evidenza | L5 — Sola predizione del modello, nessuno studio effettivo |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Literature Evidence
+## Perché questa predizione è ragionevole?
 
-Currently no related literature available.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili da questo pacchetto di evidenze. Sulla base delle conoscenze farmacologiche consolidate, ziprasidone è un antipsicotico atipico che agisce principalmente attraverso l'antagonismo dei recettori dopaminergici D2 e l'antagonismo della serotonina 5-HT2A, con agonismo parziale aggiuntivo ai recettori 5-HT1A e inibizione della ricaptazione della noradrenalina/serotonina. La sua efficacia nella schizofrenia e nella mania bipolare è stata confermata attraverso numerosi studi randomizzati controllati di Fase 3.
 
----
+La tricotillomania è classificata all'interno dei disturbi ossessivo-compulsivi e correlati (spettro OCD) nel DSM-5. Teoricamente, l'antagonismo del recettore D2 potrebbe attenuare i comportamenti ripetitivi compulsivi modulando i circuiti dopaminergici di ricompensa e di abitudine — un percorso condiviso con altri interventi dello spettro OCD. Inoltre, la componente di antagonismo 5-HT2A potrebbe contribuire al controllo degli impulsi attraverso la modulazione serotoninergica. Alcuni antipsicotici sono stati esplorati come agenti di potenziamento nei disturbi dello spettro OCD, fornendo una plausibilità biologica indiretta.
 
-## Italy Market Information
-
-Ziprasidone currently holds **no marketing authorizations in Italy**. No license records are available in this evidence pack.
-
-> Note: Ziprasidone is marketed in other jurisdictions (e.g., as Geodon® in the United States, Zeldox® in Europe) for schizophrenia and acute bipolar mania. Italy-specific approval status should be verified directly with AIFA.
+Tuttavia, questa razionale meccanicistica è altamente speculativa per la tricotillomania in modo specifico. Non sono state identificate sperimentazioni cliniche specifiche per ziprasidone né pubblicazioni in questa indicazione. La predizione di TxGNN probabilmente riflette la prossimità strutturale a livello di grafo all'interno della rete di conoscenze malattia-farmaco piuttosto che evidenza clinica diretta. In questa fase, la predizione dovrebbe essere trattata come segnale per la generazione di ipotesi soltanto, non come evidenza clinica azionabile.
 
 ---
 
-## Safety Considerations
+## Evidenza da studi clinici
 
-Please refer to the package insert for safety information.
-
-> Key note: Ziprasidone carries a known class risk of **QTc interval prolongation**, which is a particular concern for use in populations not already monitored under a psychiatry framework. This should be a primary safety consideration in any future feasibility assessment.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-No clinical trials or published literature support ziprasidone's use in trichotillomania. The mechanistic link is biologically plausible in principle but remains entirely speculative without preclinical or clinical validation. There is insufficient evidence to proceed beyond hypothesis generation at this time.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and review the full package insert (AIFA/EMA SmPC) to characterise key warnings, contraindications, and QTc-related risk
-- Confirm detailed mechanism of action data via DrugBank API (DG002 remediation)
-- Conduct a targeted literature search on antipsychotics and/or dopamine modulators in OCD-spectrum disorders, specifically trichotillomania
-- Assess whether any exploratory or investigator-initiated trials exist in registries outside ClinicalTrials.gov (e.g., EU CTR, ISRCTN)
-- If biological rationale is strengthened, consider preclinical proof-of-concept study planning before any clinical trial investment
+## Informazioni sul mercato italiano
+
+Ziprasidone attualmente non detiene **nessuna autorizzazione di commercializzazione in Italia**. Nessun record di licenza è disponibile in questo pacchetto di evidenze.
+
+> Nota: Ziprasidone è commercializzato in altre giurisdizioni (ad es., come Geodon® negli Stati Uniti, Zeldox® in Europa) per la schizofrenia e la mania bipolare acuta. Lo stato di approvazione specifico per l'Italia dovrebbe essere verificato direttamente con AIFA.
+
+---
+
+## Considerazioni sulla sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+
+> Nota chiave: Ziprasidone comporta il noto rischio di prolungamento dell'intervallo QTc (rischio di classe), che rappresenta una preoccupazione particolare per l'uso in popolazioni non già monitorate in un contesto psichiatrico. Questo dovrebbe essere una considerazione di sicurezza primaria in qualsiasi valutazione di fattibilità futura.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+Nessuno studio clinico o letteratura pubblicata supporta l'uso di ziprasidone nella tricotillomania. Il collegamento meccanicistico è biologicamente plausibile in linea di principio ma rimane completamente speculativo senza validazione preclinica o clinica. Vi è evidenza insufficiente per procedere oltre la generazione di ipotesi in questa fase.
+
+**Per procedere, quanto segue è necessario:**
+- Recuperare e rivedere il foglio illustrativo completo (AIFA/EMA SmPC) per caratterizzare i principali avvertimenti, controindicazioni e rischi correlati a QTc
+- Confermare i dati dettagliati del meccanismo d'azione tramite DrugBank API (remediation DG002)
+- Condurre una ricerca letteraria mirata su antipsicotici e/o modulatori della dopamina nei disturbi dello spettro OCD, specificamente tricotillomania
+- Valutare se negli archivi al di fuori di ClinicalTrials.gov (ad es., EU CTR, ISRCTN) esistano studi esplorativi o promossi dagli investigatori
+- Se la razionale biologica è rafforzata, considerare la pianificazione di uno studio preclinico di dimostrazione del principio prima di qualsiasi investimento in studi clinici
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

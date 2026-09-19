@@ -29,80 +29,77 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-The skill confirms this is the right TxGNN drug repurposing context. Now generating the evaluation report based on the Evidence Pack.
+# Primidone: Dall'Epilessia al Neoplasma del Nervo Trigemino
+
+## Riassunto in una frase
+
+Primidone è un farmaco anticonvulsivante della classe dei barbiturici con una lunga storia di utilizzo nei disturbi convulsivi e nella gestione del tremore essenziale.
+Il modello TxGNN prevede che potrebbe essere efficace per il **Neoplasma del Nervo Trigemino** con un punteggio di **99.99%**, tuttavia **0 studi clinici** e **0 pubblicazioni** supportano direttamente questa indicazione.
+L'analisi del dossier probatorio suggerisce fortemente che questa previsione riflette una perdita semantica nel grafo della conoscenza piuttosto che un vero segnale terapeutico.
 
 ---
 
-# Primidone: From Epilepsy to Trigeminal Nerve Neoplasm
+## Panoramica Rapida
 
-## One-Sentence Summary
-
-Primidone is a barbiturate-class antiepileptic drug with a long history of use in seizure disorders and essential tremor management.
-The TxGNN model predicts it may be effective for **Trigeminal Nerve Neoplasm** with a score of **99.99%**, yet **0 clinical trials** and **0 publications** directly support this direction.
-The evidence pack's own analysis strongly suggests this prediction reflects semantic leakage in the knowledge graph rather than a genuine therapeutic signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in Italy; established pharmacological use for epilepsy and essential tremor |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Non registrata in Italia; uso farmacologico consolidato per epilessia e tremore essenziale |
+| Indicazione Prevista | Neoplasma del Nervo Trigemino |
+| Punteggio Previsione TxGNN | 99.99% |
+| Livello di Evidenza | L5 |
+| Stato Mercato Italia | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospensione |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacological knowledge, Primidone is a barbiturate-class antiepileptic drug that is metabolised in vivo to phenobarbital and phenylethylmalonamide (PEMA). These active metabolites primarily enhance GABA-A receptor-mediated inhibitory neurotransmission and stabilise neuronal voltage-gated sodium channels, thereby suppressing pathological hyperexcitability. This dual mechanism underpins Primidone's established efficacy in generalised tonic-clonic seizures, partial seizures, and essential tremor.
+Attualmente i dati dettagliati sul meccanismo d'azione non sono disponibili nel dossier probatorio. Basandosi sulla conoscenza farmacologica consolidata, Primidone è un farmaco anticonvulsivante della classe dei barbiturici che viene metabolizzato in vivo in fenobarbital e feniletilmalonamide (PEMA). Questi metaboliti attivi aumentano primariamente la neurotrasmissione inibitoria mediata dai recettori GABA-A e stabilizzano i canali del sodio voltaggio-dipendenti neuronali, sopprimendo così l'ipereccitabilità patologica. Questo doppio meccanismo sostiene l'efficacia consolidata di Primidone nelle crisi tonico-cloniche generalizzate, nelle crisi parziali e nel tremore essenziale.
 
-Trigeminal nerve neoplasm is a structural, proliferative lesion of the trigeminal nerve — a fundamentally different pathophysiology from the electrophysiological dysregulation that Primidone addresses. Tumour growth is driven by uncontrolled cellular proliferation and survival signalling (e.g., growth factor receptors, apoptosis evasion), processes entirely outside the scope of GABA-A enhancement or sodium channel blockade. Neither Primidone nor its metabolites possess any known cytotoxic, antiproliferative, or antiangiogenic properties.
+Il neoplasma del nervo trigemino è una lesione strutturale e proliferativa del nervo trigemino — una fisiopatologia fondamentalmente diversa dalla disregolazione elettrofisiologica affrontata da Primidone. La crescita tumorale è guidata da segnali di proliferazione e sopravvivenza cellulare incontrollati (ad es. recettori dei fattori di crescita, evasione dell'apoptosi), processi completamente al di fuori dell'ambito del potenziamento GABA-A o del blocco dei canali del sodio. Né Primidone né i suoi metaboliti posseggono proprietà citotossiche, antiproliferative o antiangiogeniche note.
 
-The 99.99% TxGNN prediction score almost certainly arises from **semantic leakage**: in the biomedical knowledge graph, the node "trigeminal nerve neoplasm" sits adjacent to "trigeminal neuralgia" — an indication where anticonvulsants (particularly carbamazepine) have well-documented efficacy. The model conflates structural proximity in graph space with therapeutic relevance, producing a high score that does not correspond to a real treatment signal. This prediction should therefore be treated as a known artefact of graph-based modelling rather than a drug repurposing opportunity.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Il punteggio di previsione TxGNN del 99.99% quasi certamente nasce da **perdita semantica**: nel grafo della conoscenza biomedica, il nodo "neoplasma del nervo trigemino" si trova adiacente a "nevralgia trigemino" — un'indicazione in cui gli anticonvulsivanti (in particolare carbamazepina) hanno un'efficacia ben documentata. Il modello confonde la prossimità strutturale nello spazio del grafo con la rilevanza terapeutica, producendo un punteggio elevato che non corrisponde a un vero segnale di trattamento. Questa previsione dovrebbe quindi essere trattata come un noto artefatto della modellazione basata su grafo piuttosto che come un'opportunità di riproposta del farmaco.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Primidone is not currently authorised or marketed in Italy. No AIFA license records are on file.
+Attualmente nessuno studio clinico correlato registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Primidone non è attualmente autorizzato o commercializzato in Italia. Nessun record di licenza AIFA è disponibile.
 
-**Rationale:**
-Trigeminal nerve neoplasm is a proliferative disease with no mechanistic connection to Primidone's antiepileptic pharmacology; the extremely high TxGNN score is almost certainly a false positive caused by knowledge-graph semantic leakage between "trigeminal nerve neoplasm" and the adjacent "trigeminal neuralgia" node, and there is zero clinical trial or literature evidence to support this indication.
+---
 
-**To proceed, the following is needed:**
-- Do not pursue trigeminal nerve neoplasm as a repurposing target unless independent preclinical data directly demonstrate an effect of Primidone or its metabolites on trigeminal nerve tumour biology
-- Redirect analysis to mechanistically defensible indications within the same prediction set — **trigeminal neuralgia** (rank 9, L3 evidence, S2 Proceed with Guardrails), **audiogenic seizures** (rank 3, L4), **startle epilepsy** (rank 7, L4), and **reading seizures** (rank 8, L4) are more promising candidates
-- Retrieve Primidone's complete MOA data from DrugBank API to fill the current data gap (DG002) and enable proper mechanistic-link scoring across all predicted indications
-- Obtain and parse the TFDA/AIFA package insert (DG001) to complete the safety profile before any clinical feasibility assessment
+## Considerazioni sulla Sicurezza
+
+Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Il neoplasma del nervo trigemino è una malattia proliferativa senza connessione meccanicistica con la farmacologia anticonvulsivante di Primidone; il punteggio TxGNN estremamente alto è quasi certamente un falso positivo causato dalla perdita semantica nel grafo della conoscenza tra "neoplasma del nervo trigemino" e il nodo adiacente "nevralgia trigemino", e non vi è alcuna evidenza da studi clinici o dalla letteratura a supporto di questa indicazione.
+
+**Per procedere è necessario quanto segue:**
+- Non perseguire il neoplasma del nervo trigemino come bersaglio di riproposta a meno che dati preclinici indipendenti non dimostrino direttamente un effetto di Primidone o dei suoi metaboliti sulla biologia del tumore del nervo trigemino
+- Reindirizzare l'analisi verso indicazioni meccanicisticamente difendibili all'interno dello stesso insieme di previsioni — **nevralgia trigemino** (posizione 9, L3 evidenza, S2 Procedere con Cautele), **crisi audiogeniche** (posizione 3, L4), **epilessia da spavento** (posizione 7, L4), e **crisi da lettura** (posizione 8, L4) sono candidati più promettenti
+- Recuperare i dati completi del meccanismo d'azione di Primidone dall'API DrugBank per colmare il gap di dati attuale (DG002) e consentire un corretto scoring del collegamento meccanicistico su tutte le indicazioni previste
+- Ottenere e analizzare il foglio illustrativo TFDA/AIFA (DG001) per completare il profilo di sicurezza prima di qualsiasi valutazione della fattibilità clinica
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,79 +29,80 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Aciclovir: Drug Repurposing Evaluation Report — Preliminary Assessment
+# Aciclovir: Rapporto di valutazione del riutilizzo del farmaco — Valutazione preliminare
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Aciclovir is a widely used antiviral agent, primarily indicated for the treatment of herpes simplex virus (HSV) and varicella-zoster virus (VZV) infections. The TxGNN model has **not yet generated any predicted new indications** for this drug, and the current evidence pack contains significant data gaps that must be resolved before evaluation can proceed.
+L'aciclovir è un agente antivirale ampiamente utilizzato, principalmente indicato per il trattamento delle infezioni da herpes simplex virus (HSV) e herpes zoster (varicella-zoster virus - VZV). Il modello TxGNN **non ha ancora generato alcuna indicazione nuova prevista** per questo farmaco, e il pacchetto di evidenze attuale contiene lacune significative nei dati che devono essere risolte prima di procedere con la valutazione.
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current data (known use: HSV and VZV infections) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Non disponibile nei dati attuali (uso noto: infezioni da HSV e VZV) |
+| Indicazione nuova prevista | — (Nessuna previsione TxGNN disponibile) |
+| Punteggio di previsione TxGNN | — |
+| Livello di evidenza | L5 (Nessuna previsione o studi di supporto) |
+| Stato del mercato a Taiwan | ✗ Non commercializzato (Non commercializzato) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Sospendere** |
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacological knowledge, Aciclovir is a synthetic nucleoside analogue that selectively targets herpes virus–infected cells. It is phosphorylated by viral thymidine kinase and subsequently by cellular kinases to its active triphosphate form, which inhibits viral DNA polymerase and terminates viral DNA chain elongation.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di evidenze. In base alle conoscenze farmacologiche consolidate, l'aciclovir è un analogo nucleosidico sintetico che colpisce selettivamente le cellule infette da herpes virus. Viene fosforilato dalla timidina chinasi virale e successivamente da chinasi cellulari nella sua forma trifosfato attiva, che inibisce la DNA polimerasi virale e interrompe l'allungamento della catena di DNA virale.
 
-However, **no TxGNN-predicted new indications have been generated for Aciclovir at this time**. The absence of a prediction means there is no mechanistic bridge to evaluate between the original indication and a potential new therapeutic use. This may be due to insufficient input data, network connectivity limitations in the knowledge graph, or the drug not meeting the model's threshold for novel indication prediction.
+Tuttavia, **nessuna indicazione nuova prevista da TxGNN è stata generata per l'aciclovir in questo momento**. L'assenza di una previsione significa che non esiste un ponte meccanicistico da valutare tra l'indicazione originale e un potenziale nuovo uso terapeutico. Ciò potrebbe essere dovuto a dati di input insufficienti, limitazioni di connettività della rete nel grafico della conoscenza, o al fatto che il farmaco non soddisfa la soglia del modello per la previsione di indicazioni nuove.
 
-Before any repurposing assessment can be conducted, the data gaps identified below must be addressed, and the TxGNN model must produce at least one candidate indication with a confidence score.
+Prima che qualsiasi valutazione del riutilizzo possa essere condotta, le lacune nei dati identificate di seguito devono essere affrontate, e il modello TxGNN deve produrre almeno una indicazione candidata con un punteggio di confidenza.
 
-## Clinical Trial Evidence
+## Evidenza degli studi clinici
 
-Currently no related clinical trials registered for a new predicted indication.
+Attualmente non sono registrati studi clinici correlati per una nuova indicazione prevista.
 
-## Literature Evidence
+## Evidenza della letteratura
 
-Currently no related literature available for a new predicted indication.
+Attualmente non è disponibile letteratura correlata per una nuova indicazione prevista.
 
-## Taiwan Market Information
+## Informazioni sul mercato a Taiwan
 
-No TFDA marketing authorizations were found for Aciclovir. The drug is currently classified as **not marketed (Not marketed)** in Taiwan based on the TFDA query conducted on 2026-03-29.
+Nessuna autorizzazione di commercializzazione della TFDA è stata trovata per l'aciclovir. Il farmaco è attualmente classificato come **non commercializzato (Non commercializzato)** a Taiwan in base alla query TFDA condotta il 2026-03-29.
 
-## Safety Considerations
+## Considerazioni di sicurezza
 
-> Please refer to the package insert for safety information. The current evidence pack contains no resolved safety data (warnings, contraindications, or drug–drug interactions were not retrieved from available sources).
+> Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza. Il pacchetto di evidenze attuale non contiene dati di sicurezza risolti (avvertenze, controindicazioni, o interazioni farmaco-farmaco non sono stati recuperati da fonti disponibili).
 
-## Data Gaps Requiring Resolution
+## Lacune nei dati che richiedono risoluzione
 
-The following critical data gaps were identified in this evidence pack and must be addressed before further evaluation:
+Le seguenti lacune critiche nei dati sono state identificate in questo pacchetto di evidenze e devono essere affrontate prima di una ulteriore valutazione:
 
-| Gap ID | Category | Item | Severity | Remediation |
-|--------|----------|------|----------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings/Contraindications | **Blocking** | Download and parse package insert PDF from the TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Query DrugBank API for complete MOA data |
+| ID della lacuna | Categoria | Elemento | Gravità | Soluzione |
+|---|---|---|---|---|
+| DG001 | Livello del farmaco | Avvertenze/Controindicazioni del foglio illustrativo della TFDA | **Bloccante** | Scaricare e analizzare il PDF del foglio illustrativo dal sito web della TFDA |
+| DG002 | Livello del farmaco | Meccanismo d'azione (MOA) | Alta | Interrogare l'API DrugBank per i dati MOA completi |
 
-Additionally, the following items are absent:
-- **DrugBank ID**: Not linked — limits cross-referencing with DrugBank safety, pharmacology, and interaction databases
-- **Original Indications**: Not populated in the evidence pack — need to extract from regulatory or reference sources
-- **TxGNN Predicted Indications**: Empty — the model has not produced candidate indications for this drug
+Inoltre, i seguenti elementi sono assenti:
+- **ID DrugBank**: Non collegato — limita il cross-referencing con i database DrugBank di sicurezza, farmacologia, e interazioni
+- **Indicazioni originali**: Non compilate nel pacchetto di evidenze — necessario estrarre da fonti normative o di riferimento
+- **Indicazioni previste da TxGNN**: Vuoto — il modello non ha prodotto indicazioni candidate per questo farmaco
 
-## Conclusion and Next Steps
+## Conclusioni e prossimi passi
 
-**Decision: Hold**
+**Decisione: Sospendere**
 
-**Rationale:**
-The evidence pack for Aciclovir is critically incomplete. There are **no TxGNN-predicted new indications**, no resolved safety data, no Taiwan marketing authorizations, and two identified data gaps (one of which is Blocking severity). Evaluation cannot proceed until fundamental input data is available.
+**Fondamento logico:**
+Il pacchetto di evidenze per l'aciclovir è criticamente incompleto. Non ci sono **indicazioni nuove previste da TxGNN**, nessun dato di sicurezza risolto, nessuna autorizzazione di commercializzazione a Taiwan, e due lacune nei dati identificate (una delle quali di gravità bloccante). La valutazione non può procedere fino a quando i dati di input fondamentali non siano disponibili.
 
-**To proceed, the following is needed:**
-- Resolve **DG001** (Blocking): Obtain and parse TFDA package insert for warnings and contraindications
-- Resolve **DG002** (High): Retrieve mechanism of action from DrugBank (DrugBank ID: [DB00787](https://go.drugbank.com/drugs/DB00787) for Aciclovir)
-- Populate the `original_indications` field from regulatory or pharmacopoeia sources
-- Re-run the TxGNN prediction pipeline to generate candidate new indications
-- Once a predicted indication is available, collect clinical trial and literature evidence to support evaluation
+**Per procedere, è necessario quanto segue:**
+- Risolvere **DG001** (Bloccante): Ottenere e analizzare il foglio illustrativo della TFDA per avvertenze e controindicazioni
+- Risolvere **DG002** (Alta): Recuperare il meccanismo d'azione da DrugBank (ID DrugBank: [DB00787](https://go.drugbank.com/drugs/DB00787) per l'aciclovir)
+- Compilare il campo `original_indications` da fonti normative o di farmacopea
+- Eseguire di nuovo la pipeline di previsione TxGNN per generare indicazioni candidate nuove
+- Una volta disponibile una indicazione prevista, raccogliere le evidenze degli studi clinici e della letteratura per supportare la valutazione
 
 ---
 
-*This report was generated on 2026-04-03. Results are for research reference only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Questo rapporto è stato generato il 2026-04-03. I risultati sono solo per riferimento di ricerca e non costituiscono consigli medici. Qualsiasi candidato al riutilizzo del farmaco richiede validazione clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

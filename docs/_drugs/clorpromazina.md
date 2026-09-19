@@ -29,51 +29,52 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Clorpromazina: Repurposing Evaluation Incomplete — TxGNN Predictions Not Available
+# Clorpromazina: Valutazione della Riproposizione Incompleta — Previsioni di TxGNN Non Disponibili
 
-## One-Sentence Summary
+## Riassunto in una Riga
 
-Clorpromazina (chlorpromazine) is a first-generation phenothiazine antipsychotic with established use in psychiatric conditions.
-However, this Evidence Pack contains **no TxGNN-predicted new indications** and is missing critical fields — original indications, mechanism of action, and safety data — making a full repurposing evaluation impossible at this time.
-The data pipeline has confirmed that DrugBank and package insert sources each returned one result, but their content was not yet integrated into the Evidence Pack.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in Evidence Pack |
-| Predicted New Indication | None — TxGNN predictions not populated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Clorpromazina (chlorpromazine) è un antipsicoptico fenotiazinico di prima generazione con un uso consolidato nelle patologie psichiatriche.
+Tuttavia, questo Evidence Pack non contiene **alcun'indicazione nuova prevista da TxGNN** e mancano campi critici — indicazioni originarie, meccanismo d'azione e dati di sicurezza — rendendo impossibile al momento una valutazione completa della riproposizione.
+La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrativo hanno ciascuna restituito un risultato, ma il loro contenuto non era ancora stato integrato nell'Evidence Pack.
 
 ---
 
-## Safety Considerations
+## Panoramica Rapida
 
-Please refer to the package insert for safety information.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Non disponibile nell'Evidence Pack |
+| Indicazione Nuova Prevista | Nessuna — previsioni di TxGNN non popolate |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | N/A |
+| Stato nel Mercato Italiano | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In sospeso |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Hold**
+Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
 
-**Rationale:**
-The Evidence Pack for Clorpromazina is critically incomplete — without TxGNN predictions, original indications, mechanism of action, or safety data, no repurposing hypothesis can be formed or evaluated.
+---
 
-**To proceed, the following is needed:**
+## Conclusione e Prossimi Passi
 
-- **TxGNN model output** — `predicted_indications` array is empty; the model must be run or results loaded for this drug before any evaluation can begin
-- **Original approved indications** — `original_indications` is empty; retrieve from AIFA database or package insert
-- **Mechanism of action** — DrugBank query returned 1 result on 2026-03-29 but the data was not integrated into `drug.original_moa`; extract and populate
-- **Safety information** — Package insert query returned 1 result on 2026-03-29 but `key_warnings` and `contraindications` remain unpopulated; parse and integrate
-- **Drug interaction data** — DDI query returned no results; consider querying an alternative DDI database (e.g., DrugBank interactions, Drugs.com)
-- **Italy market verification** — Confirm whether Clorpromazina holds any AIFA authorizations; 0 licenses is unexpected for a compound in this class
+**Decisione: In sospeso**
+
+**Razionale:**
+L'Evidence Pack per Clorpromazina è criticamente incompleto — senza previsioni di TxGNN, indicazioni originarie, meccanismo d'azione o dati di sicurezza, nessuna ipotesi di riproposizione può essere formulata o valutata.
+
+**Per procedere, è necessario il seguente:**
+
+- **Output del modello TxGNN** — l'array `predicted_indications` è vuoto; il modello deve essere eseguito o i risultati caricati per questo farmaco prima che possa iniziare qualsiasi valutazione
+- **Indicazioni Originarie Approvate** — `original_indications` è vuoto; recuperare dal database AIFA o dal foglio illustrativo
+- **Meccanismo d'azione** — la query DrugBank ha restituito 1 risultato il 2026-03-29 ma i dati non sono stati integrati in `drug.original_moa`; estrarre e popolare
+- **Informazioni sulla Sicurezza** — la query del foglio illustrativo ha restituito 1 risultato il 2026-03-29 ma `key_warnings` e `contraindications` rimangono non compilati; analizzare e integrare
+- **Dati di Interazione Farmacologica** — la query DDI non ha restituito risultati; considerare l'interrogazione di un database DDI alternativo (ad es., interazioni DrugBank, Drugs.com)
+- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA; 0 licenze è inaspettato per un composto di questa classe
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

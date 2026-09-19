@@ -29,59 +29,60 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Denosumab: Drug Repurposing Evaluation — Insufficient Data to Complete Assessment
+# Denosumab: Valutazione del Riposizionamento Farmacologico — Dati Insufficienti per Completare la Valutazione
 
-## One-Sentence Summary
+## Sommario in una Frase
 
-Denosumab (DrugBank ID: DB06643) is included in this repurposing pipeline; however, the current Evidence Pack contains no original indication records, no TxGNN-predicted new indications, and no mechanism of action data. A standard repurposing evaluation cannot be completed at this time — the decision is **Hold** pending data remediation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not recorded in this Evidence Pack |
-| Predicted New Indication | No TxGNN predictions available |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 — pipeline output not yet generated |
-| Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Il Denosumab (DrugBank ID: DB06643) è incluso in questa procedura di riposizionamento; tuttavia, l'attuale Pacchetto di Evidenze non contiene registrazioni di indicazioni originali, nessuna nuova indicazione prevista da TxGNN e nessun dato sul meccanismo d'azione. Una valutazione standard di riposizionamento non può essere completata in questo momento — la decisione è **Sospensione** in attesa del completamento dei dati.
 
 ---
 
-## Why Cannot the Evaluation Proceed?
+## Panoramica Rapida
 
-Three critical data gaps block a complete repurposing assessment for Denosumab:
-
-**1. No TxGNN predicted indications.** The `predicted_indications` array is empty. Without a target disease, all downstream analysis — clinical trial mapping, literature review, and mechanism plausibility scoring — cannot be performed. This is the single most important prerequisite for generating this report.
-
-**2. No mechanism of action (MOA) data.** The MOA field was flagged as a High-severity gap (DG002). Understanding how Denosumab works at the molecular level is essential for evaluating whether any new indication is mechanistically plausible.
-
-**3. No safety profile.** Package insert warnings and contraindications are absent (DG001, Blocking severity). Safety screening is a prerequisite before any clinical feasibility assessment can begin.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Non registrato in questo Pacchetto di Evidenze |
+| Nuova Indicazione Prevista | Nessuna previsione TxGNN disponibile |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Evidenza | L5 — output della procedura non ancora generato |
+| Stato del Mercato | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Sospensione** |
 
 ---
 
-## Conclusion and Next Steps
+## Perché la Valutazione non può Procedere?
 
-**Decision: Hold**
+Tre lacune critiche di dati bloccano una valutazione completa del riposizionamento per il Denosumab:
 
-**Rationale:**
-Denosumab's Evidence Pack is missing all three minimum inputs for a valid repurposing evaluation: TxGNN predictions, mechanism of action, and safety data. Proceeding without these would produce an assessment with no evidential basis.
+**1. Nessuna indicazione prevista da TxGNN.** L'array `predicted_indications` è vuoto. Senza una malattia bersaglio, tutta l'analisi successiva — mappatura delle prove cliniche, revisione della letteratura e valutazione della plausibilità del meccanismo d'azione — non può essere eseguita. Questo è il prerequisito più importante per generare questo rapporto.
 
-**To proceed, the following is needed:**
+**2. Nessun dato sul meccanismo d'azione (MOA).** Il campo MOA è stato contrassegnato come una lacuna di gravità elevata (DG002). Comprendere come il Denosumab agisce a livello molecolare è essenziale per valutare se una nuova indicazione è plausibile dal punto di vista del meccanismo d'azione.
 
-- **[Blocking]** Run the TxGNN pipeline to generate predicted indications for Denosumab (DB06643)
-- **[Blocking]** Download and parse the package insert PDF to extract warnings and contraindications
-- **[High]** Query the DrugBank API for Denosumab's mechanism of action
-- Re-submit the completed Evidence Pack for a full evaluation
+**3. Nessun profilo di sicurezza.** Gli avvertimenti e le controindicazioni del foglio illustrativo sono assenti (DG001, gravità bloccante). Lo screening della sicurezza è un prerequisito prima di qualsiasi valutazione di fattibilità clinica.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Il Pacchetto di Evidenze del Denosumab è privo di tutti e tre gli input minimi per una valutazione valida di riposizionamento: previsioni TxGNN, meccanismo d'azione e dati di sicurezza. Procedere senza questi comporterebbe una valutazione senza alcuna base di evidenza.
+
+**Per procedere, è necessario quanto segue:**
+
+- **[Bloccante]** Eseguire la procedura di TxGNN per generare indicazioni previste per il Denosumab (DB06643)
+- **[Bloccante]** Scaricare e analizzare il PDF del foglio illustrativo per estrarre avvertimenti e controindicazioni
+- **[Elevata]** Interrogare l'API di DrugBank per il meccanismo d'azione del Denosumab
+- Inviare nuovamente il Pacchetto di Evidenze completato per una valutazione completa
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

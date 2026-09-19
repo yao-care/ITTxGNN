@@ -29,65 +29,66 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Cortisone: Drug Repurposing Evaluation — Insufficient Data for Full Assessment
+# Cortisone: Valutazione del Riposizionamento Farmacologico — Dati Insufficienti per una Valutazione Completa
 
-## One-Sentence Summary
+## Riepilogo in una Frase
 
-Cortisone (DB14681) is a steroid compound with no original indications recorded in the current Evidence Pack.
-The TxGNN pipeline returned **no predicted new indications** for this candidate, and the drug is **not marketed in Italy**.
-Without prediction output or regulatory history, a full repurposing evaluation cannot be completed at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no predictions to evaluate |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Cortisone (DB14681) è un composto steroideo senza indicazioni originali registrate nel pacchetto di prove attuali.
+La pipeline TxGNN non ha restituito **alcuna indicazione nuova prevista** per questo candidato, e il farmaco **non è commercializzato in Italia**.
+Senza output di previsione o anamnesi normativa, una valutazione completa del riposizionamento non può essere completata in questo momento.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological class, Cortisone belongs to the glucocorticoid (corticosteroid) family, but neither original indications nor MOA have been populated in the structured data fields.
-
-No original indication is recorded in the `original_indications` field, and the TxGNN model returned an empty `predicted_indications` array. This may indicate that the candidate was filtered out prior to scoring, or that the knowledge graph lacked sufficient edges to generate a confident prediction.
-
-Without mechanism data or model output, no mechanistic bridge between an original and a candidate new indication can be constructed at this stage.
-
----
-
-## Italy Market Information
-
-Cortisone has **no marketing authorizations** in Italy. No license records were returned from the regulatory query.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Non disponibile nei dati attuali |
+| Indicazione Nuova Prevista | Nessuna previsione generata |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | N/A — nessuna previsione da valutare |
+| Stato del Mercato Italiano | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Rinvio** |
 
 ---
 
-## Safety Considerations
+## Perché Questa Previsione è Ragionevole?
 
-Please refer to the package insert for safety information.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di prove. In base alla classe farmacologica nota, Cortisone appartiene alla famiglia dei glucocorticoidi (corticosteroidi), ma né le indicazioni originali né il MOA sono stati compilati nei campi di dati strutturati.
+
+Nessuna indicazione originale è registrata nel campo `original_indications`, e il modello TxGNN ha restituito un array `predicted_indications` vuoto. Questo potrebbe indicare che il candidato è stato filtrato prima della valutazione, oppure che il grafo della conoscenza mancava di sufficienti spigoli per generare una previsione affidabile.
+
+Senza dati sul meccanismo o output del modello, nessun ponte meccanicistico tra un'indicazione originale e una candidata indicazione nuova può essere costruito in questa fase.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Cortisone non ha **alcuna autorizzazione di commercializzazione** in Italia. Nessun record di licenza è stato restituito dalla ricerca normativa.
 
-**Rationale:**
-The TxGNN pipeline produced no predicted indications for Cortisone, and critical data inputs — including mechanism of action and original indication text — are missing. Without a prediction target, repurposing evaluation cannot proceed.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni sulla Sicurezza
 
-- **Resolve DG001 (Blocking):** Obtain the package insert PDF from the official regulatory authority and parse key warnings and contraindications. This is a blocking gap that prevents safety pre-screening.
-- **Resolve DG002 (High):** Query the DrugBank API to retrieve the structured mechanism of action (MOA) for DB14681. This is required for mechanistic plausibility analysis.
-- **Investigate empty `predicted_indications`:** Confirm whether Cortisone was excluded from TxGNN scoring due to missing knowledge graph edges, or whether the model ran but produced no high-confidence predictions. If the former, supplement the KG with curated pharmacological data and re-run.
-- **Populate `original_indications`:** Source original approved indications from DrugBank or WHO INN records and add to the Evidence Pack before re-evaluation.
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Rinvio**
+
+**Giustificazione:**
+La pipeline TxGNN non ha prodotto alcuna indicazione prevista per Cortisone e gli input di dati critici — incluso il meccanismo d'azione e il testo dell'indicazione originale — sono mancanti. Senza un obiettivo di previsione, la valutazione del riposizionamento non può procedere.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Risolvere DG001 (Blocco):** Ottenere il file PDF del foglio illustrativo dall'autorità normativa ufficiale e analizzare avvertenze chiave e controindicazioni. Questo è un gap di blocco che impedisce lo screening preliminare di sicurezza.
+- **Risolvere DG002 (Alto):** Interrogare l'API DrugBank per recuperare il meccanismo d'azione strutturato (MOA) per DB14681. Questo è richiesto per l'analisi della plausibilità meccanicistica.
+- **Investigare `predicted_indications` vuote:** Confermare se Cortisone è stato escluso dal punteggio TxGNN a causa di spigoli del grafo della conoscenza mancanti, oppure se il modello è stato eseguito ma non ha prodotto previsioni ad alta confidenza. Se il primo, integrare il KG con dati farmacologici curati e rieseguire.
+- **Compilare `original_indications`:** Reperire le indicazioni originali approvate dai record DrugBank o WHO INN e aggiungere al pacchetto di prove prima della rivalutazione.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

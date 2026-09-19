@@ -29,79 +29,76 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-The `txgnn-pipeline` skill covers pipeline management and deployment — it doesn't override the report format instructions in the system prompt. I'll proceed directly with generating the evaluation report from the Evidence Pack.
+# Galcanezumab: Dalla prevenzione dell'emicrania alla carenza di eparina-cofattore 2
+
+## Riepilogo in una frase
+
+Galcanezumab (Emgality) è un anticorpo monoclonale umanizzato che bersaglia il CGRP, approvato globalmente per il trattamento preventivo dell'emicrania e della cefalea a grappolo episodica. Il modello TxGNN predice che potrebbe essere efficace per la **carenza di eparina-cofattore 2** — un raro disturbo ereditario della coagulazione — con **0 trial clinici** e **0 pubblicazioni** che attualmente supportano questa direzione. Tutti e tre i principali predicati si raggruppano attorno a disturbi rari della coagulazione con punteggi uniformemente elevati, suscitando gravi preoccupazioni che questi risultati riflettano un artefatto del grafo della conoscenza piuttosto che segnali genuini di riposizionamento biologico.
 
 ---
 
-# Galcanezumab: From Migraine Prevention to Heparin Cofactor 2 Deficiency
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Galcanezumab (Emgality) is a humanized monoclonal antibody targeting CGRP, approved globally for the preventive treatment of migraine and episodic cluster headache. The TxGNN model predicts it may be effective for **Heparin Cofactor 2 Deficiency** — a rare hereditary coagulation disorder — with **0 clinical trials** and **0 publications** currently supporting this direction. All three top predictions cluster around rare coagulation disorders with suspiciously uniform high scores, raising serious concerns that these results reflect a knowledge graph artifact rather than genuine biological repurposing signals.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Migraine prevention; episodic cluster headache (no Italian authorization on record) |
-| Predicted New Indication | Heparin Cofactor 2 Deficiency |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione originale | Prevenzione dell'emicrania; cefalea a grappolo episodica (nessuna autorizzazione italiana registrata) |
+| Nuova indicazione prevista | Carenza di eparina-cofattore 2 |
+| Punteggio di previsione TxGNN | 99.50% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **In attesa** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, galcanezumab is an anti-CGRP monoclonal antibody whose proven efficacy in migraine prevention is grounded in blocking CGRP-mediated trigeminal sensitization and cranial vasodilation. It operates entirely within the nervous system's pain-signaling axis — specifically at the CGRP–RAMP1/CLR receptor interface — and has no established role in the coagulation cascade.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni note, galcanezumab è un anticorpo monoclonale anti-CGRP la cui provata efficacia nella prevenzione dell'emicrania è basata sul blocco della sensibilizzazione del trigemino mediata dal CGRP e sulla vasodilatazione cranica. Opera interamente all'interno dell'asse di segnalazione del dolore del sistema nervoso — nello specifico all'interfaccia recettoriale CGRP–RAMP1/CLR — e non ha un ruolo stabilito nella cascata della coagulazione.
 
-Heparin Cofactor II (HCFII) is a serpin-family thrombin inhibitor. HCFII deficiency leads to unopposed thrombin activity and a prothrombotic state. The HCFII–thrombin inhibition axis and the CGRP–receptor signaling system are functionally and biochemically distinct pathways, with no demonstrated crosstalk in the current scientific literature.
+L'eparina-cofattore II (HCFII) è un inibitore della trombina della famiglia dei serpini. La carenza di HCFII porta a un'attività trombina non contrastata e uno stato protrombotico. L'asse inibizione HCFII–trombina e il sistema di segnalazione CGRP–recettore sono percorsi funzionalmente e biochimicamente distinti, senza dimostrata attività di crosstalk nella letteratura scientifica attuale.
 
-Critically, the same implausibility applies to all three top TxGNN predictions — HCFII deficiency, antithrombin deficiency type 2, and factor V excess with spontaneous thrombosis — which are all rare hereditary coagulation disorders with TxGNN scores exceeding 0.994. This tight clustering pattern is a hallmark of systematic supernode overprediction within the knowledge graph's "vascular regulation" cluster, not genuine individual biological signals. These predictions should be treated as graph topology artifacts until a dedicated KG audit confirms or refutes this hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+È fondamentale notare che la stessa implausibilità si applica a tutti e tre i principali predicati di TxGNN — carenza di HCFII, carenza di antitrombina di tipo 2, e eccesso di fattore V con trombosi spontanea — che sono tutti rari disturbi ereditari della coagulazione con punteggi TxGNN superiori a 0.994. Questo pattern di clustering stretto è un'evidenza di sovrapredizione sistematica del supernodo all'interno del cluster "vascular regulation" del grafo della conoscenza, non segnali biologici genuini individuali. Queste predizioni dovrebbero essere trattate come artefatti della topologia del grafo finché un audit KG dedicato non confermi o refuti questa ipotesi.
 
 ---
 
-## Literature Evidence
+## Evidenza dai trial clinici
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Galcanezumab is not currently approved or marketed in Italy. No marketing authorizations are on record. Note that galcanezumab (Emgality) does hold EMA approval in Europe for migraine prevention — clinicians should refer to the EMA SmPC for the full authorized indication and safety profile.
+Attualmente nessun trial clinico correlato registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla letteratura
 
-Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Galcanezumab non è attualmente approvato o commercializzato in Italia. Nessuna autorizzazione di immissione in commercio è registrata. Si noti che galcanezumab (Emgality) possiede l'approvazione EMA in Europa per la prevenzione dell'emicrania — i clinici dovrebbero fare riferimento allo SmPC EMA per l'indicazione autorizzata completa e il profilo di sicurezza.
 
-**Rationale:**
-All three TxGNN-predicted indications are rare hereditary coagulation disorders with zero supporting clinical trials or literature, and the mechanistic link between CGRP inhibition and coagulation factor pathways is biologically unestablished. The clustering of scores >0.994 across three thematically identical indications is a strong indicator of a knowledge graph overprediction artifact rather than a genuine repurposing opportunity.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di sicurezza
 
-- **KG topology audit**: Investigate whether the TxGNN vascular/coagulation supernode is generating systematic false-positive signals; compare galcanezumab's KG neighborhood against confirmed negative controls
-- **MOA data retrieval** (DG002): Pull galcanezumab's full biological interaction profile from DrugBank to formally characterize any cross-pathway activity
-- **Mechanistic literature screen**: Conduct a targeted review to determine whether any peer-reviewed evidence supports CGRP–coagulation axis crosstalk before committing further evaluation resources
-- **Safety data completion** (DG001): Retrieve the EMA SmPC / TFDA package insert to complete warnings, contraindications, and DDI assessment — currently all safety fields are data gaps
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+
+---
+
+## Conclusioni e fasi successive
+
+**Decisione: In attesa**
+
+**Motivazione:**
+Tutte e tre le indicazioni previste da TxGNN sono rari disturbi ereditari della coagulazione senza trial clinici o letteratura di supporto, e il collegamento meccanicistico tra l'inibizione del CGRP e le vie dei fattori della coagulazione è biologicamente non stabilito. L'agglomerazione di punteggi >0.994 tra tre indicazioni tematicamente identiche è un forte indicatore di un artefatto di sovrapredizione del grafo della conoscenza piuttosto che di una genuina opportunità di riposizionamento.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Audit della topologia KG**: Indagare se il supernodo vascolare/coagulazione di TxGNN sta generando segnali falsi positivi sistematici; confrontare il vicinato KG di galcanezumab con controlli negativi confermati
+- **Recupero dati MAO** (DG002): Estrarre il profilo completo di interazione biologica di galcanezumab da DrugBank per caratterizzare formalmente qualsiasi attività cross-pathway
+- **Screening della letteratura meccanicistica**: Condurre una revisione mirata per determinare se alcuna letteratura peer-reviewed supporta il crosstalk dell'asse CGRP–coagulazione prima di impegnare ulteriori risorse di valutazione
+- **Completamento dei dati di sicurezza** (DG001): Recuperare lo SmPC EMA / il foglio illustrativo TFDA per completare gli avvertimenti, le controindicazioni e la valutazione delle interazioni farmaco-farmaco — attualmente mancano dati per tutti i campi di sicurezza
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

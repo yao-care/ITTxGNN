@@ -29,72 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
----
+# Perindopril: Dall'Ipertensione all'Ipertensione Renovascolare Maligna
 
-# Perindopril: From Hypertension to Malignant Renovascular Hypertension
+## Riepilogo in una frase
 
-## One-Sentence Summary
-
-Perindopril is a well-established ACE (Angiotensin-Converting Enzyme) inhibitor, widely used for the treatment of hypertension and chronic heart failure. The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, a severe, RAAS-driven hypertensive emergency. Currently, **0 clinical trials** and **0 directly relevant publications** support this specific repurposing direction, placing the evidence at a model-prediction-only level.
+Perindopril è un inibitore dell'ACE (Enzima Convertitore dell'Angiotensina) consolidato, ampiamente utilizzato per il trattamento dell'ipertensione e dell'insufficienza cardiaca cronica. Il modello TxGNN prevede che possa essere efficace per l'**Ipertensione Renovascolare Maligna**, una grave emergenza ipertensiva guidata dal RAAS. Attualmente, **0 studi clinici** e **0 pubblicazioni direttamente pertinenti** supportano questa specifica direzione di riprogrammazione, collocando le prove a un livello basato esclusivamente sulla predizione del modello.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension, chronic heart failure (ACE inhibitor class) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Perindopril belongs to the ACE inhibitor class, which exerts its primary effect by blocking the conversion of Angiotensin I to Angiotensin II within the Renin-Angiotensin-Aldosterone System (RAAS). The result is reduced vasoconstriction, lower aldosterone secretion, and decreased blood pressure. Detailed MOA data from DrugBank was not retrieved in this pipeline run, but the class-level mechanism is well established in clinical pharmacology.
-
-Malignant renovascular hypertension is a hypertensive emergency most commonly caused by renal artery stenosis, which triggers a runaway activation of the RAAS — circulating Angiotensin II levels rise dramatically, driving the extreme blood pressure elevation that defines the condition. Because ACE inhibitors act directly upstream of this cascade by blocking Ang II production, the TxGNN model's high-scoring prediction is mechanistically coherent: targeting the primary driver of pathological vasoconstriction is a logical therapeutic approach.
-
-However, a well-documented clinical paradox significantly complicates this prediction. In patients with bilateral renal artery stenosis — or stenosis of a functionally solitary kidney — ACE inhibitors can precipitate acute renal failure. This occurs because, when renal perfusion pressure is already critically reduced by the stenosis, glomerular filtration is maintained only by Angiotensin II-mediated constriction of the efferent arteriole. Removing that constriction with an ACE inhibitor collapses the filtration gradient. This is a class-level, mechanism-inherent safety concern directly relevant to the predicted indication, and must be addressed before any progression beyond Hold.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Ipertensione, insufficienza cardiaca cronica (classe inibitore dell'ACE) |
+| Indicazione nuova prevista | Ipertensione Renovascolare Maligna |
+| Punteggio di previsione TxGNN | 99.77% |
+| Livello di evidenza | L5 |
+| Stato di commercializzazione in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Attesa |
 
 ---
 
-## Clinical Trial Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related clinical trials registered for Perindopril in malignant renovascular hypertension.
+Perindopril appartiene alla classe degli inibitori dell'ACE, che esercita il suo effetto primario bloccando la conversione dell'Angiotensina I in Angiotensina II all'interno del Sistema Renina-Angiotensina-Aldosterone (RAAS). Il risultato è una ridotta vasocostrizione, una minore secrezione di aldosterone e una diminuzione della pressione arteriosa. I dati dettagliati del MOA da DrugBank non sono stati recuperati in questa esecuzione della pipeline, ma il meccanismo a livello di classe è ben consolidato nella farmacologia clinica.
 
----
+L'ipertensione renovascolare maligna è un'emergenza ipertensiva più comunemente causata da stenosi dell'arteria renale, che innesca un'attivazione incontrollata del RAAS — i livelli circolanti di Angiotensina II aumentano drammaticamente, determinando l'estremo aumento della pressione arteriosa che caratterizza la condizione. Poiché gli inibitori dell'ACE agiscono direttamente a monte di questa cascata bloccando la produzione di Ang II, la previsione ad alto punteggio del modello TxGNN è coerente dal punto di vista meccanicistico: colpire il fattore principale della vasocostrizione patologica è un approccio terapeutico logico.
 
-## Literature Evidence
-
-Currently no related literature available directly evaluating Perindopril in malignant renovascular hypertension.
+Tuttavia, un paradosso clinico ben documentato complica significativamente questa previsione. Nei pazienti con stenosi dell'arteria renale bilaterale — o stenosi di un rene funzionalmente solitario — gli inibitori dell'ACE possono precipitare insufficienza renale acuta. Ciò accade perché, quando la pressione di perfusione renale è già criticamente ridotta dalla stenosi, la filtrazione glomerulare è mantenuta solo dalla costrizione mediata dall'Angiotensina II dell'arteriola efferente. Rimuovere quella costrizione con un inibitore dell'ACE collassa il gradiente di filtrazione. Questo è un problema di sicurezza inerente al meccanismo a livello di classe direttamente rilevante all'indicazione prevista, e deve essere affrontato prima di qualsiasi progressione ulteriore.
 
 ---
 
-## Safety Considerations
+## Evidenza degli studi clinici
 
-Please refer to the package insert for safety information.
+Attualmente nessuno studio clinico correlato registrato per perindopril nell'ipertensione renovascolare maligna.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile che valuti direttamente il perindopril nell'ipertensione renovascolare maligna.
 
-**Rationale:**
-The prediction rests entirely on the TxGNN model (L5), with zero supporting clinical trials or directly relevant publications for this indication; furthermore, the predicted disease context — renovascular hypertension associated with renal artery stenosis — represents a well-known high-risk setting for the ACE inhibitor class, where use can paradoxically precipitate acute renal failure, making clinical progression without additional safety data unjustifiable.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di sicurezza
 
-- **MOA confirmation**: Retrieve complete DrugBank record for Perindopril to document RAAS pathway details and known class-level contraindications formally
-- **Safety data gap resolution**: Obtain and parse the AIFA package insert (DG001 — currently Blocking severity) to confirm contraindication language regarding renal artery stenosis
-- **Targeted literature search**: Commission a systematic review specifically on ACE inhibitor use in renovascular hypertension (including case series and observational cohort studies) to establish whether any subpopulation — e.g., unilateral stenosis with a contralateral normal kidney — may benefit safely
-- **Patient stratification framework**: Define eligibility criteria to identify cases where the risk of renal function deterioration is manageable (e.g., functional imaging to exclude bilateral stenosis prior to any trial)
-- **Preclinical bridging data**: If a viable patient subgroup is identified, a prospective pilot safety study with intensive renal function monitoring (serum creatinine, eGFR, potassium) should be designed before any Phase 2 consideration
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Attesa**
+
+**Razionale:**
+La previsione si basa interamente sul modello TxGNN (L5), senza prove cliniche di supporto o pubblicazioni direttamente pertinenti per questa indicazione; inoltre, il contesto della malattia prevista — ipertensione renovascolare associata a stenosi dell'arteria renale — rappresenta un'impostazione ad alto rischio ben nota per la classe degli inibitori dell'ACE, dove l'uso può paradossalmente precipitare insufficienza renale acuta, rendendo la progressione clinica ingiustificabile senza dati di sicurezza aggiuntivi.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Conferma del MOA**: Recuperare il record completo di DrugBank per perindopril per documentare formalmente i dettagli del percorso RAAS e le controindicazioni note a livello di classe
+- **Risoluzione del divario dei dati di sicurezza**: Ottenere e analizzare il foglio illustrativo AIFA (DG001 — attualmente a livello Blocking) per confermare il linguaggio relativo alle controindicazioni riguardante la stenosi dell'arteria renale
+- **Ricerca bibliografica mirata**: Condurre una revisione sistematica specificamente sull'uso degli inibitori dell'ACE nell'ipertensione renovascolare (inclusi case series e studi di coorte osservazionali) per stabilire se qualche sottopopolazione — ad esempio, stenosi unilaterale con un rene contralaterale normale — possa beneficiare in modo sicuro
+- **Quadro di stratificazione dei pazienti**: Definire i criteri di idoneità per identificare i casi in cui il rischio di deterioramento della funzione renale è gestibile (ad esempio, imaging funzionale per escludere stenosi bilaterale prima di qualsiasi studio)
+- **Studi preclinici di supporto**: Se viene identificato un sottogruppo di pazienti potenzialmente idoneo, uno studio pilota prospettico di sicurezza con monitoraggio intensivo della funzione renale (creatinina sierica, eGFR, potassio) dovrebbe essere progettato prima di qualsiasi considerazione di Fase 2
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,52 +29,53 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Eftrenonacog Alfa: From Haemophilia B — No TxGNN Prediction Available
+# Eftrenonacog Alfa: Da Emofilia B — Nessuna Previsione TxGNN Disponibile
 
-## One-Sentence Summary
+## Riassunto in una riga
 
-Eftrenonacog alfa (brand name: Alprolix) is a recombinant coagulation Factor IX Fc fusion protein indicated for the prevention and treatment of bleeding episodes in Haemophilia B (congenital Factor IX deficiency).
-The current Evidence Pack contains **no TxGNN-predicted new indications** for this drug, and no original indication data was retrieved from the regulatory source.
-Without a predicted target indication, this candidate **cannot proceed to standard repurposing evaluation** at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Haemophilia B (congenital Factor IX deficiency) — from background knowledge; not retrieved in this Evidence Pack |
-| Predicted New Indication | — (No prediction returned by TxGNN) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (Model prediction only — and none available) |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Eftrenonacog alfa (nome commerciale: Alprolix) è una proteina ricombinante di fusione Fc del Fattore IX della coagulazione indicata per la prevenzione e il trattamento degli episodi emorragici nell'Emofilia B (carenza congenita del Fattore IX).
+Il Pacchetto di Evidenze attuale contiene **nessuna nuova indicazione prevista da TxGNN** per questo farmaco, e nessun dato di indicazione originale è stato recuperato dalla fonte normativa.
+Senza un'indicazione target prevista, questo candidato **non può procedere alla valutazione standard del riposizionamento** in questa fase.
 
 ---
 
-## Safety Considerations
+## Panoramica rapida
 
-Please refer to the package insert for safety information.
-
-> No warning, contraindication, or drug interaction data was returned in this Evidence Pack. The TFDA package insert query returned a result (`result_count: 1`), but its contents were not parsed into the structured fields. DrugBank was queried successfully, however MOA and safety fields remain unpopulated.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Emofilia B (carenza congenita del Fattore IX) — da conoscenza di base; non recuperato in questo Pacchetto di Evidenze |
+| Nuova Indicazione Prevista | — (Nessuna previsione restituita da TxGNN) |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Evidenza | L5 (Solo previsione del modello — e nessuna disponibile) |
+| Stato del Mercato Italiano | Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Rimandare** |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla Sicurezza
 
-**Decision: Hold**
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-The Evidence Pack for Eftrenonacog Alfa is critically incomplete — the `predicted_indications` array is empty, meaning TxGNN returned no candidate repurposing targets, and key structured fields (original indications, MOA, safety warnings, contraindications) are all absent. There is no basis on which to evaluate mechanistic plausibility, evidence strength, or safety for any new indication.
+> Nessun dato di avvertenza, controindicazione o interazione farmacologica è stato restituito in questo Pacchetto di Evidenze. La query del foglio illustrativo TFDA ha restituito un risultato (`result_count: 1`), ma i suoi contenuti non sono stati analizzati nei campi strutturati. DrugBank è stato interrogato con successo, tuttavia i campi MOA e sicurezza rimangono non compilati.
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN inference** for DB11608 and confirm whether an empty prediction list reflects a genuine null result or a pipeline failure
-- **Resolve DG001 (Blocking):** Parse the TFDA/AIFA package insert PDF to extract warnings and contraindications — this data is available (`result_count: 1`) but was not ingested into the structured pack
-- **Resolve DG002 (High):** Query DrugBank API for MOA, pharmacodynamics, and drug categories to enable mechanistic analysis
-- **Populate `original_indications`:** Confirm regulatory indication text from AIFA/TFDA label (known clinically as Haemophilia B prophylaxis and on-demand treatment)
-- **Re-generate Evidence Pack v5** after all blocking data gaps are resolved before re-evaluating this candidate
+## Conclusione e Prossimi Passi
+
+**Decisione: Rimandare**
+
+**Logica:**
+Il Pacchetto di Evidenze per Eftrenonacog Alfa è criticamente incompleto — l'array `predicted_indications` è vuoto, il che significa che TxGNN non ha restituito candidati di riposizionamento, e campi strutturati chiave (indicazioni originali, MOA, avvertenze di sicurezza, controindicazioni) sono tutti assenti. Non c'è alcuna base su cui valutare la plausibilità meccanicistica, la forza dell'evidenza o la sicurezza per qualsiasi nuova indicazione.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Rieseguire l'inferenza TxGNN** per DB11608 e confermare se un elenco di previsioni vuoto riflette un vero risultato nullo o un fallimento della pipeline
+- **Risolvere DG001 (Bloccante):** Analizzare il PDF del foglio illustrativo TFDA/AIFA per estrarre avvertenze e controindicazioni — questi dati sono disponibili (`result_count: 1`) ma non sono stati acquisiti nel pacchetto strutturato
+- **Risolvere DG002 (Alto):** Interrogare l'API DrugBank per MOA, farmacodinamica e categorie di farmaci per consentire l'analisi meccanicistica
+- **Popolare `original_indications`:** Confermare il testo dell'indicazione normativa da etichetta AIFA/TFDA (noto clinicamente come profilassi dell'Emofilia B e trattamento al bisogno)
+- **Rigenerare il Pacchetto di Evidenze v5** dopo che tutti i gap di dati bloccanti sono stati risolti prima di rivalutare questo candidato
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

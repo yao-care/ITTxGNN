@@ -29,44 +29,45 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dronedarone: Drug Repurposing Evaluation — Pending Indication Data
+# Dronedarone: Valutazione del Riposizionamento del Farmaco — Dati di Indicazione in Sospeso
 
-## One-Sentence Summary
+## Riepilogo in una Frase
 
-Dronedarone (DrugBank ID: DB04855) is a candidate drug entered into the TxGNN repurposing pipeline.
-The current Evidence Pack contains **no TxGNN-predicted new indications** and no recorded original indications,
-meaning a substantive repurposing assessment cannot be completed at this stage.
-The two blocking data gaps — mechanism of action and package insert safety data — must be resolved before evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current Evidence Pack |
-| Predicted New Indication | None generated |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — model output pending |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Dronedarone (DrugBank ID: DB04855) è un farmaco candidato inserito nella pipeline di riposizionamento TxGNN.
+L'Evidence Pack attuale non contiene alcuna indicazione nuova prevista da TxGNN e nessuna indicazione originale registrata,
+il che significa che una valutazione sostanziale del riposizionamento non può essere completata in questa fase.
+I due divari di dati bloccanti — meccanismo di azione e dati di sicurezza del foglietto illustrativo — devono essere risolti prima di procedere con la valutazione.
 
 ---
 
-## Conclusion and Next Steps
+## Panoramica Rapida
 
-**Decision: Hold**
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Non disponibile nell'Evidence Pack attuale |
+| Indicazione Nuova Prevista | Nessuna generata |
+| Punteggio di Previsione TxGNN | Non disponibile |
+| Livello di Evidenza | L5 — output del modello in sospeso |
+| Stato del Mercato Taiwan | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In sospeso |
 
-**Rationale:**
-The TxGNN pipeline has not produced any predicted indications for Dronedarone in this Evidence Pack version (v4, data cutoff 2026-04-20), and the two data gaps flagged as High/Blocking severity prevent both mechanistic analysis and safety pre-screening. There is no basis on which to evaluate repurposing potential at this time.
+---
 
-**To proceed, the following is needed:**
+## Conclusione e Prossimi Passi
 
-- **\[DG001 — Blocking\]** Retrieve and parse the official package insert (PDF) to extract warnings and contraindications — required for safety pre-screening (S1 gate)
-- **\[DG002 — High\]** Query DrugBank API for mechanism of action (MOA) — required for mechanistic plausibility analysis
-- **Run TxGNN prediction** for Dronedarone (DB04855) to generate at least one ranked indication candidate before this report template can be meaningfully populated
-- **Confirm original approved indication(s)** from TFDA or equivalent regulatory source (the `original_indications` field is currently empty)
+**Decisione: In sospeso**
+
+**Motivazione:**
+La pipeline TxGNN non ha prodotto alcuna indicazione prevista per dronedarone in questa versione dell'Evidence Pack (v4, data di cutoff 2026-04-20), e i due divari di dati segnalati come High/Blocking severity impediscono sia l'analisi meccanicistica che lo screening di sicurezza preliminare. Non esiste una base su cui valutare il potenziale di riposizionamento in questa fase.
+
+**Per procedere, è necessario quanto segue:**
+
+- **\[DG001 — Bloccante\]** Recuperare e analizzare il foglietto illustrativo ufficiale (PDF) per estrarre avvertenze e controindicazioni — necessario per lo screening di sicurezza preliminare (gate S1)
+- **\[DG002 — Alto\]** Interrogare l'API DrugBank per il meccanismo di azione (MOA) — necessario per l'analisi della plausibilità meccanicistica
+- **Eseguire la previsione TxGNN** per dronedarone (DB04855) per generare almeno un candidato di indicazione classificato prima che questo modello di rapporto possa essere significativamente popolato
+- **Confermare l'indicazione/le indicazioni approvata/e originale/i** dalla TFDA o da una fonte normativa equivalente (il campo `original_indications` è attualmente vuoto)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

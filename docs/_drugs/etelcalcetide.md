@@ -29,85 +29,80 @@ Livello di evidenza: **L3** | Indicazioni previste: **4**
 
 </div>
 
-The skill confirms this is a TxGNN pipeline task. Now let me generate the report based on the Evidence Pack.
+# Etelcalcetide: dall'iperparatiroidismo secondario all'iperfosfatemia
+
+## Riassunto in una frase
+
+L'etelcalcetide è un calcimimetico per via endovenosa (agonista del recettore sensibile al calcio) approvato in diversi paesi per l'iperparatiroidismo secondario (SHPT) negli adulti con malattia renale cronica (CKD) in emodialisi. Il modello TxGNN prevede che possa essere efficace per **l'iperfosfatemia**, con **1 trial clinico** e **3 pubblicazioni** che attualmente supportano questa direzione.
 
 ---
 
-# Etelcalcetide: From Secondary Hyperparathyroidism to Hyperphosphatemia
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Etelcalcetide is an intravenous calcimimetic (calcium-sensing receptor agonist) approved in multiple countries for secondary hyperparathyroidism (SHPT) in adults with chronic kidney disease (CKD) on hemodialysis.
-The TxGNN model predicts it may be effective for **Hyperphosphatemia**,
-with **1 clinical trial** and **3 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Secondary hyperparathyroidism in CKD patients on hemodialysis (no Italian registration on record) |
-| Predicted New Indication | Hyperphosphatemia |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L3 |
-| Italy Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Iperparatiroidismo secondario nei pazienti CKD in emodialisi (nessuna registrazione italiana registrata) |
+| Indicazione nuova prevista | Iperfosfatemia |
+| Punteggio di previsione TxGNN | 99.42% |
+| Livello di evidenza | L3 |
+| Stato mercato Italia | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con salvaguardie |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Etelcalcetide activates the calcium-sensing receptor (CaSR) on parathyroid chief cells, powerfully suppressing PTH secretion. By driving down circulating PTH, it reduces osteoclast-mediated bone resorption — one of the key sources of phosphate release into the bloodstream in CKD-mineral and bone disorder (CKD-MBD). This indirect chain — CaSR activation → PTH suppression → reduced bone phosphate efflux → lower serum phosphate — forms the mechanistic basis for TxGNN's prediction.
+L'etelcalcetide attiva il recettore sensibile al calcio (CaSR) sulle cellule principali della paratiroide, sopprimendo potentemente la secrezione di PTH. Riducendo i livelli circolanti di PTH, riduce il riassorbimento osseo mediato da osteoclasti — una delle fonti chiave del rilascio di fosfato nel flusso sanguigno nel disturbo minerale osseo correlato alla CKD (CKD-MBD). Questa catena indiretta — attivazione di CaSR → soppressione di PTH → riduzione del deflusso di fosfato osseo → riduzione del fosfato sierico — forma la base meccanicistica per la previsione di TxGNN.
 
-In CKD-MBD, secondary hyperparathyroidism and hyperphosphatemia are tightly coupled pathologies. Elevated PTH drives bone resorption, releasing phosphate into the circulation; simultaneously, impaired renal phosphate clearance compounds the burden. Because etelcalcetide directly tackles PTH excess, treating SHPT with this agent naturally produces a measurable downstream reduction in phosphate levels, making this prediction biologically coherent.
+Nel CKD-MBD, l'iperparatiroidismo secondario e l'iperfosfatemia sono patologie strettamente correlate. L'PTH elevato stimola il riassorbimento osseo, rilasciando fosfato nella circolazione; contemporaneamente, la clearance renale del fosfato alterata aggrava ulteriormente il carico. Poiché l'etelcalcetide affronta direttamente l'eccesso di PTH, il trattamento dell'SHPT con questo agente naturalmente produce una riduzione misurabile a valle dei livelli di fosfato, rendendo questa previsione biologicamente coerente.
 
-It is important to flag, however, that **hyperphosphatemia is not etelcalcetide's direct pharmacological target** — phosphate reduction is a secondary benefit rather than the primary mechanism. Clinical guidelines for CKD-MBD recommend combining calcimimetics with phosphate binders for optimal phosphate control, which suggests etelcalcetide is unlikely to be sufficient as standalone therapy for hyperphosphatemia and would need to be positioned as part of a multimodal regimen.
+È importante segnalare, tuttavia, che **l'iperfosfatemia non è il bersaglio farmacologico diretto dell'etelcalcetide** — la riduzione del fosfato è un beneficio secondario piuttosto che il meccanismo primario. Le linee guida cliniche per il CKD-MBD raccomandano di combinare i calcimimetici con i leganti del fosfato per un controllo ottimale del fosfato, il che suggerisce che l'etelcalcetide difficilmente sarà sufficiente come terapia autonoma per l'iperfosfatemia e dovrebbe essere posizionato come parte di un regime multimodale.
 
-> Currently, detailed mechanism of action data has not been retrieved from DrugBank (Data Gap DG002). The above mechanistic reasoning is based on the drug class (calcimimetic / CaSR agonist) and supporting literature found in this Evidence Pack.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Completed | 21 | Mechanistic study examining the effect of active vitamin D and etelcalcetide on osteoclast activity in CKD-MBD patients. Hyperphosphatemia is a feature of the study population but not the primary endpoint; results provide supportive mechanistic evidence for the PTH–phosphate axis, though not direct efficacy data for hyperphosphatemia as an indication. |
+> Attualmente, i dati dettagliati sul meccanismo d'azione non sono stati recuperati da DrugBank (Lacuna di dati DG002). Il ragionamento meccanicistico di cui sopra si basa sulla classe di farmaci (calcimimetico / agonista di CaSR) e sulla letteratura di supporto trovata in questo Pacchetto di evidenze.
 
 ---
 
-## Literature Evidence
+## Evidenza da trial clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | Phase 2/3 RCT | Kidney International Reports | DUET trial — prospective randomised study of etelcalcetide in hemodialysis patients with SHPT. Evaluated a multilateral CKD-MBD treatment strategy; phosphate control is a secondary outcome, providing indirect evidence that etelcalcetide contributes to phosphate reduction as part of SHPT management. |
-| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Review | International Journal of Nephrology and Renovascular Disease | Expert review of etelcalcetide's role in SHPT management in hemodialysis. Discusses PTH reduction mechanism, clinical trial results, and downstream effects on phosphate and bone metabolism; contextualises etelcalcetide within the broader CKD-MBD treatment landscape. |
-| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Case Report | Clinical Nephrology | Case of temporary metastatic pulmonary calcification in a peritoneal dialysis patient with SHPT. Illustrates the severe clinical consequences of uncontrolled hyperparathyroidism and hyperphosphatemia; indirect support for aggressive CaSR-targeted intervention in mineral disorder management. |
+| Numero di trial | Fase | Stato | Arruolamento | Risultati chiave |
+|-----------------|------|-------|--------------|------------------|
+| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Completato | 21 | Studio meccanicistico che esamina l'effetto della vitamina D attiva e dell'etelcalcetide sull'attività degli osteoclasti nei pazienti CKD-MBD. L'iperfosfatemia è una caratteristica della popolazione dello studio ma non l'endpoint primario; i risultati forniscono evidenza meccanicistica di supporto per l'asse PTH–fosfato, sebbene non dati di efficacia diretti per l'iperfosfatemia come indicazione. |
 
 ---
 
-## Safety Considerations
+## Evidenza dalla letteratura
 
-Please refer to the package insert (SmPC) for safety information. Full warnings, contraindications, and drug interaction data were not available in this Evidence Pack (Data Gaps DG001 and DG002).
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|------|------|------|---------|------------------|
+| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | Studio controllato randomizzato fase 2/3 | Kidney International Reports | Trial DUET — studio randomizzato prospettico dell'etelcalcetide in pazienti in emodialisi con SHPT. Ha valutato una strategia di trattamento multilaterale del CKD-MBD; il controllo del fosfato è un outcome secondario, fornendo evidenza indiretta che l'etelcalcetide contribuisce alla riduzione del fosfato come parte della gestione dell'SHPT. |
+| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Revisione | International Journal of Nephrology and Renovascular Disease | Revisione di esperti del ruolo dell'etelcalcetide nella gestione dell'SHPT nell'emodialisi. Discute il meccanismo di riduzione di PTH, i risultati dei trial clinici e gli effetti a valle sul fosfato e il metabolismo osseo; contestualizza l'etelcalcetide nel panorama più ampio del trattamento del CKD-MBD. |
+| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Caso clinico | Clinical Nephrology | Caso di calcificazione polmonare metastatica temporanea in un paziente in dialisi peritoneale con SHPT. Illustra le gravi conseguenze cliniche dell'iperparatiroidismo incontrollato e dell'iperfosfatemia; supporto indiretto per l'intervento aggressivo mirato a CaSR nel management del disturbo minerale. |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo (SmPC) per le informazioni sulla sicurezza. I dati completi su avvertenze, controindicazioni e interazioni farmacologiche non erano disponibili in questo Pacchetto di evidenze (Lacune di dati DG001 e DG002).
 
-**Rationale:**
-The TxGNN prediction is mechanistically grounded — etelcalcetide's suppression of PTH indirectly reduces phosphate load in CKD-MBD patients, and this effect is corroborated by the DUET Phase 2/3 RCT and supporting review literature (L3). However, phosphate reduction is a downstream secondary benefit rather than a primary pharmacological action, the drug is not currently registered in Italy, and critical safety data remain unresolved.
+---
 
-**To proceed, the following is needed:**
+## Conclusione e prossimi passi
 
-- **Regulatory clarification**: Verify the AIFA registration status; etelcalcetide is approved in the EU as Parsabiv® (EMA) — confirm whether this covers Italy and reconcile with the zero-license finding.
-- **Full safety dossier**: Retrieve the SmPC / package insert to assess key warnings, contraindications, hypocalcaemia risk, and monitoring requirements (DG001).
-- **MOA data**: Pull complete mechanism of action from DrugBank (DG002) to strengthen the mechanistic rationale.
-- **Dedicated hyperphosphatemia endpoint study**: Existing evidence uses hyperphosphatemia only as a secondary outcome; a prospective study with phosphate as the primary endpoint is needed to formally support this new indication.
-- **Combination strategy evaluation**: Assess the clinical value of etelcalcetide + phosphate binder regimens specifically designed to target hyperphosphatemia, rather than repurposing a SHPT dosing protocol.
-- **Specialist review**: Consult a nephrologist to evaluate clinical feasibility in Italy, particularly for CKD-MBD patients not yet on hemodialysis (current IV administration requires dialysis access).
+**Decisione: Procedere con salvaguardie**
+
+**Razionale:**
+La previsione di TxGNN è fondata meccanicisticamente — la soppressione di PTH da parte dell'etelcalcetide riduce indirettamente il carico di fosfato nei pazienti CKD-MBD, e questo effetto è corroborato dal trial Phase 2/3 DUET e dalla letteratura di revisione di supporto (L3). Tuttavia, la riduzione del fosfato è un beneficio secondario a valle piuttosto che un'azione farmacologica primaria, il farmaco non è attualmente registrato in Italia e i dati di sicurezza critici rimangono irrisolti.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Chiarimento normativo**: Verificare lo stato di registrazione AIFA; l'etelcalcetide è approvato nell'UE come Parsabiv® (EMA) — confermare se questo copre l'Italia e riconciliare con il risultato di zero licenze.
+- **Dossier di sicurezza completo**: Recuperare lo SmPC / foglio illustrativo per valutare gli avvertimenti chiave, le controindicazioni, il rischio di ipocalcemia e i requisiti di monitoraggio (DG001).
+- **Dati MOA**: Estrarre il meccanismo d'azione completo da DrugBank (DG002) per rafforzare la razionale meccanicistica.
+- **Studio dedicato con endpoint di iperfosfatemia**: L'evidenza esistente utilizza l'iperfosfatemia solo come outcome secondario; uno studio prospettico con il fosfato come endpoint primario è necessario per supportare formalmente questa nuova indicazione.
+- **Valutazione della strategia di combinazione**: Valutare il valore clinico dei regimi etelcalcetide + legante del fosfato specificamente progettati per mirare all'iperfosfatemia, piuttosto che riproporre un protocollo di dosaggio SHPT.
+- **Revisione specialistica**: Consultare un nefrologo per valutare la fattibilità clinica in Italia, in particolare per i pazienti CKD-MBD non ancora in emodialisi (la somministrazione IV attuale richiede un accesso dialittico).
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

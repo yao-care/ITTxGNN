@@ -29,106 +29,107 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# ACECLOFENAC: Drug Repurposing Evaluation — Preliminary Assessment
+# ACECLOFENAC: Valutazione di Riposizionamento Farmacologico — Valutazione Preliminare
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Aceclofenac is a non-steroidal anti-inflammatory drug (NSAID) of the phenylacetic acid class, widely used internationally for pain and inflammation management in musculoskeletal conditions.
-The TxGNN model has **not yet generated predicted new indications** for this compound,
-and **no clinical trial or literature evidence** has been collected at this stage.
+L'aceclofenac è un farmaco antinfiammatorio non steroideo (FANS) della classe degli acidi fenilacetici, ampiamente utilizzato a livello internazionale per il trattamento del dolore e dell'infiammazione nelle condizioni muscoloscheletriche.
+Il modello TxGNN **non ha ancora generato nuove indicazioni previste** per questo composto,
+e **nessuna evidenza di trial clinici o letteratura scientifica** è stata raccolta in questa fase.
 
 ---
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Drug Name (INN) | Aceclofenac |
+| Nome Farmaco (INN) | Aceclofenac |
 | DrugBank ID | [DB06736](https://go.drugbank.com/drugs/DB06736) |
-| Original Indication | Not available in current evidence pack (known NSAID for osteoarthritis, rheumatoid arthritis, ankylosing spondylitis) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | **L5** — Model prediction pending; no supporting studies collected |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of TFDA Licenses | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originale | Non disponibile nel pacchetto di evidenze attuale (noto FANS per osteoartrosi, artrite reumatoide, spondilite anchilosante) |
+| Nuova Indicazione Prevista | — (Nessuna previsione TxGNN disponibile) |
+| Punteggio di Previsione TxGNN | — |
+| Livello di Evidenza | **L5** — Previsione del modello in attesa; nessuno studio di supporto raccolto |
+| Stato di Mercato Taiwan | ✗ Non commercializzato |
+| Numero di Licenze TFDA | 0 |
+| Decisione Consigliata | **Sospensione** |
 
 ---
 
-## Why is This Drug Being Evaluated?
+## Perché Questo Farmaco Viene Valutato?
 
-Aceclofenac (CAS 89796-99-6) is a second-generation NSAID and a prodrug of diclofenac. It preferentially inhibits cyclooxygenase-2 (COX-2), reducing prostaglandin synthesis and thereby exerting anti-inflammatory, analgesic, and antipyretic effects. It is marketed in numerous countries across Europe, Asia, and Latin America for the management of pain and inflammation associated with osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis.
+L'aceclofenac (CAS 89796-99-6) è un FANS di seconda generazione ed è un profarmaco del diclofenac. Inibisce preferibilmente la cicloossigenasi-2 (COX-2), riducendo la sintesi di prostaglandine e quindi esercitando effetti antinfiammatori, analgesici e antipiretici. È commercializzato in numerosi paesi in Europa, Asia e America Latina per il trattamento del dolore e dell'infiammazione associati all'osteoartrosi, all'artrite reumatoide e alla spondilite anchilosante.
 
-Currently, detailed mechanism of action data was not returned from the evidence pack sources. Based on established pharmacological knowledge, aceclofenac's COX-2-preferential inhibition profile and its metabolic conversion to diclofenac provide a well-characterized mechanism. This NSAID mechanism could theoretically be relevant to inflammatory-driven conditions beyond musculoskeletal disease, but **no TxGNN predictions have been generated at this time** to guide exploration of specific new indications.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication has been generated, and therefore no related clinical trials have been collected.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono stati restituiti dalle fonti del pacchetto di evidenze. Sulla base delle conoscenze farmacologiche consolidate, il profilo di inibizione preferenziale della COX-2 dell'aceclofenac e la sua conversione metabolica al diclofenac forniscono un meccanismo ben caratterizzato. Questo meccanismo FANS potrebbe teoricamente essere rilevante per condizioni guidate dall'infiammazione al di là della malattia muscoloscheletrica, ma **nessuna previsione TxGNN è stata generata in questo momento** per guidare l'esplorazione di nuove indicazioni specifiche.
 
 ---
 
-## Literature Evidence
+## Evidenza da Trial Clinici
 
-Currently no predicted indication has been generated, and therefore no related literature has been collected.
-
----
-
-## Taiwan (TFDA) Market Information
-
-Aceclofenac currently holds **no valid TFDA marketing authorizations** in Taiwan. The drug is classified as **not marketed** in the Taiwanese market.
+Attualmente nessuna indicazione prevista è stata generata, e pertanto nessun trial clinico correlato è stato raccolto.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available from the queried sources for the Taiwan market.
+Attualmente nessuna indicazione prevista è stata generata, e pertanto nessuna letteratura correlata è stata raccolta.
+
+---
+
+## Informazioni sul Mercato Taiwan (TFDA)
+
+L'aceclofenac attualmente **non ha autorizzazioni di commercializzazione TFDA valide** a Taiwan. Il farmaco è classificato come **non commercializzato** nel mercato taiwanese.
+
+---
+
+## Considerazioni sulla Sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. I dati chiave su avvertenze, controindicazioni e interazioni farmacologiche non erano disponibili dalle fonti interrogate per il mercato taiwanese.
 >
-> **General NSAID class warnings** (based on established pharmacology) include:
-> - Cardiovascular thrombotic risk with prolonged use
-> - Gastrointestinal bleeding, ulceration, and perforation risk
-> - Renal function impairment, especially in patients with pre-existing renal disease
-> - Contraindicated in patients with known hypersensitivity to aceclofenac, aspirin, or other NSAIDs
-> - Caution in patients with asthma, hepatic impairment, or coagulation disorders
+> **Avvertenze generali della classe FANS** (sulla base della farmacologia consolidata) includono:
+> - Rischio trombico cardiovascolare con uso prolungato
+> - Rischio di sanguinamento gastrointestinale, ulcerazione e perforazione
+> - Compromissione della funzione renale, soprattutto nei pazienti con malattia renale preesistente
+> - Controindicato nei pazienti con ipersensibilità nota all'aceclofenac, all'aspirina o ad altri FANS
+> - Cautela nei pazienti con asma, compromissione epatica o disturbi della coagulazione
 >
-> *These are general class-level considerations and do not replace product-specific labelling.*
+> *Queste sono considerazioni generali a livello di classe e non sostituiscono l'etichettatura specifica del prodotto.*
 
 ---
 
-## Data Gaps Identified
+## Lacune nei Dati Identificate
 
-The following critical data gaps were flagged during evidence collection:
+Le seguenti lacune critiche nei dati sono state evidenziate durante la raccolta delle evidenze:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
+| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
 |--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API for full MOA data |
+| DG001 | Livello Farmaco | Avvertenze / Controindicazioni del Foglio Illustrativo TFDA | **Bloccante** | Impossibile entrare nello screening di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | Alta | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API di DrugBank per i dati MOA completi |
 
-Additionally:
-- **No TxGNN predictions** have been generated for this drug — the `predicted_indications` array is empty
-- **No DDI data** was found in the queried sources
-- **No TFDA licenses** exist, meaning Taiwan-specific prescribing information is unavailable
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-Aceclofenac cannot proceed through the drug repurposing evaluation pipeline at this time. The TxGNN model has not generated any predicted new indications, and multiple blocking data gaps remain unresolved — most critically, the absence of TFDA safety labelling data (DG001) which prevents entry into the S1 safety screening stage.
-
-**To proceed, the following is needed:**
-1. **Run TxGNN prediction** for Aceclofenac (DB06736) to generate candidate new indications with confidence scores
-2. **Resolve DG001** — Obtain TFDA package insert warnings and contraindications (or confirm no Taiwan-marketed product exists, and source equivalent data from EMA/MHRA/TGA)
-3. **Resolve DG002** — Retrieve full MOA data from DrugBank API to enable mechanistic relevance analysis
-4. **Collect clinical trial and literature evidence** once a predicted indication is available
-5. **Reassess Taiwan regulatory pathway** — Since Aceclofenac is not marketed in Taiwan, any repurposing effort would require either a new drug application or a special import pathway
+Inoltre:
+- **Nessuna previsione TxGNN** è stata generata per questo farmaco — l'array `predicted_indications` è vuoto
+- **Nessun dato DDI** è stato trovato nelle fonti interrogate
+- **Nessuna licenza TFDA** esiste, il che significa che le informazioni sulla prescrizione specifiche di Taiwan non sono disponibili
 
 ---
 
-*This report was generated on 2026-04-03 based on Evidence Pack v4 (candidate ID: TW-DB06736-multi). Results are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Conclusione e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+L'aceclofenac non può procedere attraverso la pipeline di valutazione del riposizionamento farmacologico in questo momento. Il modello TxGNN non ha generato alcuna nuova indicazione prevista, e rimangono irrisolte più lacune critiche nei dati — soprattutto l'assenza di dati di etichettatura di sicurezza TFDA (DG001) che impedisce l'ingresso nella fase di screening di sicurezza S1.
+
+**Per procedere, è necessario quanto segue:**
+1. **Eseguire la previsione TxGNN** per Aceclofenac (DB06736) per generare candidati di nuove indicazioni con punteggi di confidenza
+2. **Risolvere DG001** — Ottenere avvertenze e controindicazioni dal foglio illustrativo TFDA (o confermare che non esiste un prodotto commercializzato a Taiwan, e cercare dati equivalenti da EMA/MHRA/TGA)
+3. **Risolvere DG002** — Recuperare dati MOA completi dall'API di DrugBank per abilitare l'analisi della rilevanza meccanicistica
+4. **Raccogliere evidenze da trial clinici e letteratura** una volta che un'indicazione prevista è disponibile
+5. **Rivalutare il percorso normativo taiwanese** — Poiché l'aceclofenac non è commercializzato a Taiwan, qualsiasi sforzo di riposizionamento richiederebbe una nuova domanda di farmaco o un percorso di importazione speciale
+
+---
+
+*Questo rapporto è stato generato il 2026-04-03 sulla base del Pacchetto di Evidenze v4 (ID candidato: TW-DB06736-multi). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. I candidati al riposizionamento farmacologico richiedono validazione clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,91 +29,88 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
+# Toremifene: Dal cancro della mammella alle malattie infettive da HIV
+
+## Sintesi in una riga
+
+Toremifene è un modulatore selettivo dei recettori estrogenici (SERM) consolidato nel trattamento del cancro della mammella. Il modello TxGNN predice che potrebbe essere applicabile nelle **Malattie Infettive da HIV** — più plausibilmente affrontando le infezioni opportunistiche da cryptococcus associate all'HIV piuttosto che il virus stesso. Questo indirizzo è attualmente supportato da **0 prove cliniche** e **1 pubblicazione preclinica**, posizionando l'evidenza in una fase esplorativa iniziale.
 
 ---
 
-# Toremifene: From Breast Cancer to HIV Infectious Disease
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Toremifene is a selective estrogen receptor modulator (SERM) established in breast cancer treatment. The TxGNN model predicts it may be applicable in **HIV Infectious Disease** — most plausibly by addressing HIV-associated cryptococcal opportunistic infections rather than the virus itself. This direction is currently supported by **0 clinical trials** and **1 preclinical publication**, placing the evidence at an early exploratory stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Breast cancer (estrogen receptor antagonist / SERM class) |
-| Predicted New Indication | HIV Infectious Disease |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Cancro della mammella (antagonista del recettore degli estrogeni / classe SERM) |
+| Indicazione nuova prevista | Malattie infettive da HIV |
+| Punteggio previsione TxGNN | 99.41% |
+| Livello di evidenza | L4 |
+| Stato di commercializzazione in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on information derived from the supporting literature, Toremifene is a selective estrogen receptor modulator (SERM) of the same class as tamoxifen, with established clinical use in estrogen receptor-positive breast cancer. Its antitumour activity operates through hormone receptor blockade, but its molecular interactions extend beyond the endocrine system.
+Dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. In base alle informazioni derivate dalla letteratura di supporto, toremifene è un modulatore selettivo dei recettori estrogenici (SERM) della stessa classe del tamoxifene, con un uso clinico consolidato nel cancro della mammella recettore-positivo per gli estrogeni. La sua attività antitumorale opera attraverso il blocco del recettore ormonale, ma le sue interazioni molecolari si estendono oltre il sistema endocrino.
 
-The mechanistic link to HIV Infectious Disease is indirect but biologically plausible. A 2014 preclinical study (PMID 24520056) demonstrated that SERM-class drugs — including toremifene — exhibit fungicidal activity against *Cryptococcus neoformans* by directly binding EF-hand calcium-binding proteins (calmodulin-like proteins) in the fungal cell, disrupting calcium signalling. Toremifene also synergized with fluconazole in vitro. Since cryptococcal meningitis is one of the most common and lethal opportunistic infections among AIDS patients, the model likely traces the pathway: **HIV → immunocompromise → cryptococcal opportunistic infection → need for anti-cryptococcal agents**.
+Il collegamento meccanicistico alle malattie infettive da HIV è indiretto ma biologicamente plausibile. Uno studio preclinico del 2014 (PMID 24520056) ha dimostrato che i farmaci della classe SERM — incluso toremifene — mostrano attività fungicida contro *Cryptococcus neoformans* legandosi direttamente alle proteine a mani EF di legame del calcio (proteine simili alla calmodulina) nella cellula fungina, interrompendo la segnalazione del calcio. Toremifene ha inoltre sinergizzato con fluconazolo in vitro. Poiché la meningite da cryptococcus è una delle infezioni opportunistiche più comuni e letali tra i pazienti con AIDS, il modello probabilmente traccia il percorso: **HIV → immunocompromissione → infezione opportunistica da cryptococcus → necessità di agenti anti-cryptococcus**.
 
-It is important to emphasize that this is an **indirect** repurposing rationale — toremifene would target an HIV-related complication, not HIV itself. The entire evidence base currently rests on a single in vitro experiment with no clinical data in HIV patients, which significantly limits confidence in this prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+È importante sottolineare che questa è una razionale di **riadattamento indiretto** — toremifene affronterebbe una complicanza correlata all'HIV, non l'HIV stesso. L'intera base di prove attualmente poggia su un singolo esperimento in vitro senza dati clinici in pazienti con HIV, il che limita significativamente la fiducia in questa previsione.
 
 ---
 
-## Literature Evidence
+## Evidenza da prove cliniche
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente nessuna prova clinica correlata registrata.
+
+---
+
+## Evidenza dalla letteratura
+
+| PMID | Anno | Tipo | Journal | Risultati principali |
 |------|------|------|---------|-------------|
-| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | In vitro / Preclinical | mBio | Toremifene and tamoxifen are fungicidal against *C. neoformans*; both drugs bind EF-hand calcium proteins to disrupt fungal calcium signalling and synergize with fluconazole in vitro — supporting a potential role in HIV-associated cryptococcosis |
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | In vitro / Preclinico | mBio | Toremifene e tamoxifene sono fungicidi contro *C. neoformans*; entrambi i farmaci si legano alle proteine di calcio a mani EF per interrompere la segnalazione del calcio fungino e sinergizzano con fluconazolo in vitro — supportando un potenziale ruolo nella cryptococcosi associata all'HIV |
 
 ---
 
-## Cytotoxicity
+## Citotossicità
 
-Toremifene is an antineoplastic agent (SERM class) used in breast cancer treatment.
+Toremifene è un agente antineoplastico (classe SERM) utilizzato nel trattamento del cancro della mammella.
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted hormonal therapy — Selective Estrogen Receptor Modulator (SERM) |
-| Myelosuppression Risk | Low — SERMs do not typically cause clinically significant myelosuppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | QT/QTc interval (toremifene carries a known QT prolongation risk), liver function tests, endometrial assessment in female patients |
-| Handling Protection | Standard precautions sufficient; not classified as a cytotoxic hazardous drug requiring specialized handling |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+| Elemento | Contenuto |
+|----------|-----------|
+| Classificazione della citotossicità | Terapia ormonale mirata — Modulatore selettivo dei recettori estrogenici (SERM) |
+| Rischio di mielosoppressione | Basso — i SERM non causano tipicamente mielosoppressione clinicamente significativa |
+| Classificazione dell'emetogenicità | Bassa |
+| Voci di monitoraggio | Intervallo QT/QTc (toremifene comporta un rischio noto di prolungamento QT), test di funzionalità epatica, valutazione endometriale nelle pazienti donne |
+| Protezione nella manipolazione | Precauzioni standard sufficienti; non classificato come farmaco citotossico pericoloso che richiede una manipolazione specializzata |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Hold**
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-The entire evidence base consists of a single in vitro preclinical study from 2014; there are no registered clinical trials, no human data in HIV patients, and the mechanistic link is indirect — toremifene would address a cryptococcal opportunistic infection rather than HIV itself. The drug is also not marketed in Italy, adding a regulatory barrier.
+---
 
-**To proceed, the following is needed:**
+## Conclusione e passi successivi
 
-- Confirm official MOA and DrugBank pharmacological classification for toremifene
-- In vivo animal model data confirming anti-cryptococcal efficacy and tolerability in immunocompromised hosts
-- CNS pharmacokinetic/pharmacodynamic data (cryptococcal meningitis requires adequate CNS drug penetration)
-- Assessment of QT prolongation risk in HIV patients, who frequently co-receive other QT-prolonging antiretrovirals
-- At least one exploratory Phase 1/2 clinical trial in HIV patients with active or at-risk cryptococcal infection
-- Italian regulatory pathway review for repurposed or off-label use in this indication
+**Decisione: In sospeso**
+
+**Razionale:**
+L'intera base di prove consiste in uno studio preclinico in vitro singolo del 2014; non ci sono prove cliniche registrate, nessun dato umano in pazienti con HIV, e il collegamento meccanicistico è indiretto — toremifene affronterebbe un'infezione opportunistica da cryptococcus piuttosto che l'HIV stesso. Il farmaco inoltre non è commercializzato in Italia, aggiungendo una barriera normativa.
+
+**Per procedere, è necessario quanto segue:**
+
+- Confermare il MOA ufficiale e la classificazione farmacologica DrugBank per toremifene
+- Dati di modello animale in vivo che confermano l'efficacia anti-cryptococcus e la tollerabilità negli ospiti immunocompromessi
+- Dati di farmacocinetica/farmacodinamica del SNC (la meningite da cryptococcus richiede un'adeguata penetrazione del farmaco nel SNC)
+- Valutazione del rischio di prolungamento QT nei pazienti con HIV, che frequentemente ricevono in concomitanza altri antiretrovirali che prolungano QT
+- Almeno una prova clinica esplorativa Fase 1/2 in pazienti con HIV con infezione da cryptococcus attiva o a rischio
+- Revisione del percorso normativo italiano per l'uso riadattato o off-label in questa indicazione
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,88 +29,85 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-The skill confirms this is a TxGNN pipeline task. I'll now generate the evaluation report following the v5 format, based on the Evidence Pack data for Imatinib (DB00619).
+# Imatinib: Dalla LMC e GIST al Fibrosarcoma Cardiaco
+
+## Riepilogo in una frase
+
+Imatinib (Gleevec/Glivec) è un inibitore della tirosin-chinasi originariamente sviluppato per la Leucemia Mieloide Cronica (LMC) e i Tumori Stromali Gastrointestinali (GIST), che colpisce le chinasi BCR-ABL, c-KIT e PDGFR.
+Il modello TxGNN predice che potrebbe essere efficace per il **Fibrosarcoma Cardiaco**,
+con **0 studi clinici** e **1 pubblicazione** attualmente identificati per questa indicazione — rappresentando una previsione solo del modello con prove dirette minime.
 
 ---
 
-# Imatinib: From CML & GIST to Heart Fibrosarcoma
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Imatinib (Gleevec/Glivec) is a tyrosine kinase inhibitor originally developed for Chronic Myeloid Leukaemia (CML) and Gastrointestinal Stromal Tumours (GIST), targeting the BCR-ABL, c-KIT, and PDGFR kinases.
-The TxGNN model predicts it may be effective for **Heart Fibrosarcoma**,
-with **0 clinical trials** and **1 publication** currently identified for this indication — representing a model-only prediction with minimal direct evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Chronic Myeloid Leukaemia (CML) and Gastrointestinal Stromal Tumours (GIST) |
-| Predicted New Indication | Heart Fibrosarcoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Leucemia Mieloide Cronica (LMC) e Tumori Stromali Gastrointestinali (GIST) |
+| Nuova indicazione prevista | Fibrosarcoma Cardiaco |
+| Punteggio di previsione TxGNN | 99.94% |
+| Livello di evidenza | L5 |
+| Stato del mercato Taiwan | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the provided dataset. Based on well-established published literature, imatinib is a small-molecule tyrosine kinase inhibitor that competitively blocks three key oncogenic kinases: BCR-ABL (the driving fusion protein in CML), c-KIT (constitutively mutated in GIST and other sarcomas), and PDGFR-α/β (overactivated in fibroblastic tumours such as dermatofibrosarcoma protuberans). Its landmark success in CML and GIST established the paradigm of molecularly targeted therapy, and its PDGFR-blocking activity has since been applied across multiple fibroblastic and mesenchymal tumour types.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel set di dati fornito. Sulla base della letteratura pubblicata consolidata, imatinib è un inibitore di piccole molecole della tirosin-chinasi che blocca competitivamente tre chinasi oncogeniche chiave: BCR-ABL (la proteina di fusione che guida la LMC), c-KIT (mutata costitutivamente nel GIST e in altri sarcomi), e PDGFR-α/β (sovraattivato in tumori fibroblastici come il dermatofibrosarcoma protuberans). Il suo successo di riferimento nella LMC e nel GIST ha stabilito il paradigma della terapia mirata molecolarmente, e la sua attività di blocco di PDGFR è stata successivamente applicata in più tipi di tumori fibroblastici e mesenchimali.
 
-Cardiac fibrosarcoma is an exceptionally rare primary malignancy of the heart, with fewer than 100 documented cases in the entire published literature. For imatinib to be mechanistically relevant here, tumour cells would need to harbour activating mutations or overexpression of BCR-ABL, c-KIT, or PDGFR — none of which has been reported in heart fibrosarcoma to date. The theoretical rationale remains plausible in principle, given imatinib's known activity against fibroblastic tumours driven by the PDGF pathway, but is entirely unsupported by direct clinical or preclinical data for this specific tumour site.
+Il fibrosarcoma cardiaco è una neoplasia primaria del cuore estremamente rara, con meno di 100 casi documentati in tutta la letteratura pubblicata. Perché imatinib sia rilevante dal punto di vista meccanicistico qui, le cellule tumorali dovrebbero presentare mutazioni attivanti o sovraespressione di BCR-ABL, c-KIT o PDGFR — nessuno dei quali è stato segnalato nel fibrosarcoma cardiaco fino ad oggi. La razionalità teorica rimane plausibile in linea di principio, data l'attività nota di imatinib contro i tumori fibroblastici guidati dal percorso PDGF, ma è interamente non supportata da dati clinici o preclinici diretti per questo sito tumorale specifico.
 
-The TxGNN prediction score of 99.94% reflects graph-network similarity across the drug-disease knowledge graph, not clinical efficacy. Because cardiac fibrosarcoma is so rare that it generates almost no literature signal, the model prediction cannot be independently validated at this stage. This is a hypothesis-generating output, not an evidence-based recommendation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Il punteggio di previsione TxGNN del 99.94% riflette la similarità della rete di grafici nella rete di conoscenza droga-malattia, non l'efficacia clinica. Poiché il fibrosarcoma cardiaco è così raro che genera quasi nessun segnale letterario, la previsione del modello non può essere validata indipendentemente in questa fase. Questo è un output generatore di ipotesi, non una raccomandazione basata su prove.
 
 ---
 
-## Literature Evidence
+## Evidenza degli studi clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Editorial / Commentary | Prescrire International | Narrative review of imatinib's expanding indications beyond CML, including Ph+ ALL and other haematological/solid tumours; discusses lack of robust evidence for many new uses. Does not address heart fibrosarcoma — retrieved due to broad imatinib indication review. |
+Attualmente nessuna prova clinica correlata registrata.
 
 ---
 
-## Cytotoxicity
+## Evidenza dalla letteratura
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy (Tyrosine Kinase Inhibitor — BCR-ABL / c-KIT / PDGFR-α/β inhibitor) |
-| Myelosuppression Risk | Moderate — neutropenia, thrombocytopenia, and anaemia are frequently reported; severity is generally lower than conventional cytotoxic chemotherapy |
-| Emetogenicity Classification | Low to moderate (oral administration; nausea is common but usually manageable) |
-| Monitoring Items | Complete blood count (CBC with differential), liver function tests (ALT, AST, bilirubin), renal function (serum creatinine), fluid retention / peripheral oedema assessment, body weight |
-| Handling Protection | Standard cytotoxic drug handling precautions apply; no special biocontainment beyond routine oral TKI protocols |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|------|------|---------|----------------------|
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Editoriale / Commento | Prescrire International | Rassegna narrativa delle indicazioni in espansione di imatinib oltre la LMC, includendo LLA Ph+ e altri tumori ematologici/solidi; discute la mancanza di prove robuste per molti nuovi usi. Non affronta il fibrosarcoma cardiaco — recuperato a causa della rassegna ampia dell'indicazione di imatinib. |
 
 ---
 
-## Safety Considerations
+## Citotossicità
 
-Please refer to the package insert for safety information.
+| Elemento | Contenuto |
+|----------|-----------|
+| Classificazione della citotossicità | Terapia mirata (Inibitore della tirosin-chinasi — inibitore di BCR-ABL / c-KIT / PDGFR-α/β) |
+| Rischio di mielosoppressione | Moderato — neutropenia, trombocitopenia e anemia sono frequentemente segnalate; la gravità è generalmente inferiore alla chemioterapia citotossica convenzionale |
+| Classificazione dell'emetogenicità | Bassa a moderata (somministrazione per via orale; la nausea è comune ma di solito gestibile) |
+| Elementi di monitoraggio | Emocromo completo (CBC con differenziale), test di funzionalità epatica (ALT, AST, bilirubina), funzionalità renale (creatinina sierica), valutazione della ritenzione di liquidi / edema periferico, peso corporeo |
+| Protezione nella manipolazione | Si applicano precauzioni standard per la manipolazione di farmaci citotossici; nessun contenimento speciale oltre i protocolli standard di TKI per via orale |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
 
-**Rationale:**
-Heart fibrosarcoma is an extremely rare tumour with no documented BCR-ABL, c-KIT, or PDGFR alterations, and the single identified publication is a general editorial that does not address this indication. No clinical trials exist and the biological plausibility remains unverified. Proceeding would be premature without foundational molecular data.
+---
 
-**To proceed, the following is needed:**
-- Molecular pathology of cardiac fibrosarcoma tissue: IHC or NGS profiling for PDGFR-α/β expression, c-KIT mutation, or other imatinib-sensitive kinase alterations
-- Establishment of preclinical models (cell lines or patient-derived xenografts) specific to cardiac fibrosarcoma
-- Mechanism of action data retrieval from DrugBank (data gap DG002) to formally document biological plausibility
-- Taiwan package insert (TFDA) and safety data (data gap DG001) to enable full S1 safety evaluation before any clinical consideration
+## Conclusione e passi successivi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Il fibrosarcoma cardiaco è un tumore estremamente raro senza alterazioni documentate di BCR-ABL, c-KIT o PDGFR, e l'unica pubblicazione identificata è un editoriale generale che non affronta questa indicazione. Non esistono studi clinici e la plausibilità biologica rimane non verificata. Procedere sarebbe prematuro senza dati patologici molecolari fondamentali.
+
+**Per procedere, è necessario quanto segue:**
+- Patologia molecolare del tessuto del fibrosarcoma cardiaco: profilo IHC o NGS per l'espressione di PDGFR-α/β, mutazione c-KIT o altre alterazioni di chinasi sensibili a imatinib
+- Creazione di modelli preclinici (linee cellulari o xenotrapianti derivati da pazienti) specifici per il fibrosarcoma cardiaco
+- Recupero dei dati del meccanismo d'azione da DrugBank (lacuna di dati DG002) per documentare formalmente la plausibilità biologica
+- Foglio illustrativo Taiwan (TFDA) e dati di sicurezza (lacuna di dati DG001) per abilitare la valutazione completa della sicurezza S1 prima di qualsiasi considerazione clinica
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

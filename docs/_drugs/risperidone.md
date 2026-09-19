@@ -29,117 +29,112 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm context — this is a multi-indication drug repurposing evaluation for the Italy (AIFA) TxGNN deployment. I'll now generate the report.
-
-The Evidence Pack is rank-ordered by TxGNN score, but **rank 1 (gaze palsy) has L5 evidence / Hold status** while **rank 6 (major affective disorder) has L1 evidence / Proceed with Guardrails** — the highest actionable signal. The report focuses on the most clinically meaningful prediction per the spirit of the format.
-
----
-
 # Risperidone: From Schizophrenia to Major Affective Disorder
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Risperidone is a second-generation atypical antipsychotic established in the treatment of schizophrenia and acute bipolar mania.
-The TxGNN model — evaluated across 6 predicted indications in this multi-indication pack — identifies **Major Affective Disorder** (encompassing major depressive disorder and bipolar spectrum conditions) as the highest-evidence repurposing target,
-supported by **37 clinical trials** and **20 publications**, including 5 systematic reviews and meta-analyses.
+Risperidone è un antipsicotidco atipico di seconda generazione consolidato nel trattamento della schizofrenia e della mania bipolare acuta.
+Il modello TxGNN — valutato in 6 indicazioni previste in questo pacchetto multidisciplinare — identifica **Major Affective Disorder** (che comprende il disturbo depressivo maggiore e le condizioni dello spettro bipolare) come il bersaglio di riproposizionamento con il miglior supporto di evidenze,
+supportato da **37 studi clinici** e **20 pubblicazioni**, incluse 5 revisioni sistematiche e meta-analisi.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Item | Contenuto |
 |------|---------|
-| Original Indication | Schizophrenia / Bipolar Mania (established drug profile; no Italy authorizations on record) |
-| Predicted New Indication | Major Affective Disorder |
-| TxGNN Prediction Score | 99.11% |
-| Evidence Level | L1 |
-| Italy Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Schizofrenia / Mania bipolare (profilo farmacologico consolidato; nessuna autorizzazione italiana registrata) |
+| Indicazione prevista | Major Affective Disorder |
+| Punteggio di previsione TxGNN | 99.11% |
+| Livello di evidenza | L1 |
+| Stato di mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Proceed with Guardrails |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Formal mechanism-of-action data from DrugBank was not captured in this evidence pack. However, Risperidone's pharmacology is extensively characterised in the published literature: it acts as a combined **D2 dopamine receptor** and **5-HT2A serotonin receptor antagonist**. D2 blockade provides antimanic and antipsychotic effects by dampening excess dopaminergic tone, while 5-HT2A antagonism disinhibits prefrontal serotonin transmission — a pathway directly linked to antidepressant augmentation. This dual receptor profile maps precisely onto the neurobiological substrate of major affective disorder.
+I dati formali sui meccanismi d'azione da DrugBank non sono stati acquisiti in questo pacchetto di evidenze. Tuttavia, la farmacologia della risperidone è ampiamente caratterizzata nella letteratura pubblicata: agisce come un antagonista combinato del **recettore D2 della dopamina** e del **recettore 5-HT2A della serotonina**. Il blocco D2 fornisce effetti antiman­iacali e antipsicotici attenuando l'eccesso di tono dopaminergico, mentre l'antagonismo 5-HT2A disinibisce la trasmissione serotoninergica prefrontale — un percorso direttamente collegato all'incremento antidepressivo. Questo profilo di doppio recettore si mappa precisamente sul substrato neurobiologico del disturbo affettivo maggiore.
 
-Major affective disorder is pathophysiologically characterised by dysregulation of both dopaminergic and serotonergic circuits. Bipolar mania involves dopaminergic hyperactivity amenable to D2 antagonism, while treatment-resistant depression (TRD) often reflects insufficient serotonergic signalling that benefits from 5-HT2A-mediated disinhibition when Risperidone is added to an antidepressant. This mechanistic duality makes Risperidone uniquely positioned across the affective spectrum, as confirmed by the breadth of Phase 3 RCT evidence in this pack.
+Il disturbo affettivo maggiore è caratterizzato patofisiologicamente da disregolazione di circuiti dopaminergici e serotoninergici. La mania bipolare comporta iperattività dopaminergica sensibile all'antagonismo D2, mentre la depressione resistente al trattamento (TRD) riflette spesso segnalazione serotoninergica insufficiente che beneficia della disinibizione 5-HT2A quando la risperidone viene aggiunta a un antidepressivo. Questa dualità meccanicistica pone la risperidone in una posizione unica nello spettro affettivo, come confermato dall'ampiezza delle evidenze degli RCT di Fase 3 in questo pacchetto.
 
-One important regulatory caveat must be flagged: Risperidone already holds FDA approval for acute bipolar mania and ASD-related irritability. The `original_indications: []` field in this evidence pack almost certainly reflects a data extraction gap rather than the absence of prior approvals. The TxGNN prediction therefore likely represents a mix of **existing indication confirmation** (bipolar mania) and **genuine repurposing** (TRD augmentation) — the boundary must be clarified with AIFA before this is classified as a novel repurposing application.
+Un importante avvertimento normativo deve essere sottolineato: risperidone ha già un'approvazione FDA per la mania bipolare acuta e l'irritabilità correlata all'ASD. Il campo `original_indications: []` in questo pacchetto di evidenze quasi certamente riflette un gap nell'estrazione dati piuttosto che l'assenza di approvazioni precedenti. La previsione TxGNN rappresenta quindi probabilmente un mix di **conferma di indicazione esistente** (mania bipolare) e **vero riproposizionamento** (incremento TRD) — il confine deve essere chiarito con l'AIFA prima che questo sia classificato come un'applicazione di riproposizionamento novel.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00391222](https://clinicaltrials.gov/study/NCT00391222) | Phase 3 | Completed | 585 | Double-blind, placebo- and active-controlled RCT of Risperidone LAI monotherapy vs placebo (+ olanzapine comparator) for prevention of mood episode recurrence in Bipolar I disorder; largest and highest-powered trial in this dataset |
-| [NCT00057681](https://clinicaltrials.gov/study/NCT00057681) | Phase 3 | Completed | 379 | TEAM Study — head-to-head comparison of lithium, valproate, and risperidone in children/adolescents with early-onset mania; landmark paediatric Phase 3 RCT |
-| [NCT00095134](https://clinicaltrials.gov/study/NCT00095134) | Phase 3 | Completed | 630 | Adjunctive risperidone vs placebo in MDD patients with sub-optimal antidepressant response; among the largest Phase 3 augmentation RCTs for treatment-resistant MDD |
-| [NCT00044681](https://clinicaltrials.gov/study/NCT00044681) | Phase 3 | Completed | 258 | Risperidone augmentation of SSRI monotherapy in TRD — includes long-term maintenance phase comparing risperidone vs placebo add-on to demonstrate durability of response |
-| [NCT00277654](https://clinicaltrials.gov/study/NCT00277654) | Phase 3 | Completed | 111 | Risperidone monotherapy vs placebo in ambulatory bipolar disorder with comorbid panic or generalised anxiety disorder; double-blind RCT evaluating single-agent efficacy |
-| [NCT00176202](https://clinicaltrials.gov/study/NCT00176202) | Phase 3 | Completed | 65 | Risperidone vs divalproex sodium in paediatric bipolar disorder with neuroimaging circuit assessment; tests equivalence hypothesis in children |
-| [NCT00174577](https://clinicaltrials.gov/study/NCT00174577) | Phase 3 | Unknown | 84 | Risperidone augmentation in patients who failed or only partially responded to an adequate antidepressant trial; evaluates safety and efficacy in the partial-responder population |
-| [NCT00167479](https://clinicaltrials.gov/study/NCT00167479) | Phase 4 | Completed | 60 | Risperidone monotherapy in ambulatory bipolar disorder with moderately severe anxiety; double-blind, placebo-controlled real-world efficacy data |
-| [NCT00203723](https://clinicaltrials.gov/study/NCT00203723) | Phase 4 | Terminated | 45 | ECT combined with risperidone vs ECT alone for treatment-resistant depression; early termination limits conclusions, but provides preliminary MDD-specific augmentation signal |
-| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Phase 1/2 | Completed | 42 | Double-blind pilot comparing risperidone vs olanzapine as add-on to a failed SSRI in TRD; first direct head-to-head comparison of atypical antipsychotics in treatment-resistant depression |
+| [NCT00391222](https://clinicaltrials.gov/study/NCT00391222) | Fase 3 | Completato | 585 | RCT in doppio cieco, controllato con placebo e con controllo attivo, di monoterapia LAI con risperidone vs placebo (+ comparatore olanzapina) per la prevenzione della ricorrenza dell'episodio di umore nel disturbo bipolare I; lo studio più grande e ad alta potenza in questo dataset |
+| [NCT00057681](https://clinicaltrials.gov/study/NCT00057681) | Fase 3 | Completato | 379 | Studio TEAM — confronto testa a testa di litio, acido valproico e risperidone in bambini/adolescenti con mania ad esordio precoce; RCT di Fase 3 pediatrica di riferimento |
+| [NCT00095134](https://clinicaltrials.gov/study/NCT00095134) | Fase 3 | Completato | 630 | Risperidone aggiuntivo vs placebo in pazienti con MDD e risposta antidepressiva subottimale; uno dei più grandi RCT di Fase 3 per il riproposizionamento nella MDD resistente al trattamento |
+| [NCT00044681](https://clinicaltrials.gov/study/NCT00044681) | Fase 3 | Completato | 258 | Incremento con risperidone della monoterapia SSRI nella TRD — include fase di mantenimento a lungo termine che confronta risperidone vs placebo aggiunto per dimostrare la durabilità della risposta |
+| [NCT00277654](https://clinicaltrials.gov/study/NCT00277654) | Fase 3 | Completato | 111 | Monoterapia con risperidone vs placebo nel disturbo bipolare ambulatoriale con comorbidità di panico o disturbo d'ansia generalizzato; RCT in doppio cieco che valuta l'efficacia del singolo agente |
+| [NCT00176202](https://clinicaltrials.gov/study/NCT00176202) | Fase 3 | Completato | 65 | Risperidone vs valpromato di sodio nel disturbo bipolare pediatrico con valutazione del circuito di neuroimaging; verifica l'ipotesi di equivalenza nei bambini |
+| [NCT00174577](https://clinicaltrials.gov/study/NCT00174577) | Fase 3 | Sconosciuto | 84 | Incremento con risperidone in pazienti che hanno fallito o solo parzialmente risposto ad un'adeguata prova di antidepressivo; valuta la sicurezza e l'efficacia nella popolazione di risponditori parziali |
+| [NCT00167479](https://clinicaltrials.gov/study/NCT00167479) | Fase 4 | Completato | 60 | Monoterapia con risperidone nel disturbo bipolare ambulatoriale con ansia moderatamente grave; dati di efficacia nel mondo reale controllati con placebo in doppio cieco |
+| [NCT00203723](https://clinicaltrials.gov/study/NCT00203723) | Fase 4 | Terminato | 45 | ECT combinato con risperidone vs ECT solo per la depressione resistente al trattamento; la terminazione precoce limita le conclusioni, ma fornisce un segnale preliminare di incremento specifico per MDD |
+| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Fase 1/2 | Completato | 42 | Confronto in doppio cieco tra risperidone vs olanzapina come aggiunta a un SSRI fallito nella TRD; primo confronto testa a testa diretto di antipsicotici atipici nella depressione resistente al trattamento |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic Review & Network Meta-analysis | J Affect Disorders | Compared efficacy and discontinuation rates across augmentation agents for adult TRD using network meta-analysis; risperidone included as an active comparator |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematic Review & Meta-analysis | J Psychopharmacology | Evaluated adjunctive and combination treatments for early-stage TRD; SGAs including risperidone assessed for response and remission benefit over antidepressant monotherapy |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematic Review & Meta-analysis | J Psychopharmacology | Compared antidepressants + SGAs vs esketamine vs lithium for MDD treatment; provides head-to-head tolerability and efficacy context for risperidone augmentation |
-| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Systematic Review & Meta-analysis | Psychological Medicine | Comprehensive meta-analysis of antipsychotics as both monotherapy and adjunctive therapy in MDD; risperidone efficacy and tolerability data pooled across multiple RCTs |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Systematic Review | Cochrane Database Syst Rev | Cochrane review of second-generation antipsychotics for MDD and dysthymia; foundational evidence synthesis showing risperidone as an effective antidepressant-augmenting agent |
-| [17975181](https://pubmed.ncbi.nlm.nih.gov/17975181/) | 2007 | RCT | Ann Intern Med | Randomised trial of risperidone augmentation for treatment-refractory MDD published in Annals of Internal Medicine; demonstrated significant response benefit vs placebo add-on |
-| [25295435](https://pubmed.ncbi.nlm.nih.gov/25295435/) | 2014 | Population-based Study | J Clin Psychiatry | Nationwide population-based study evaluating real-world effectiveness of aripiprazole, olanzapine, quetiapine, and risperidone augmentation for MDD using national health insurance data |
-| [21189367](https://pubmed.ncbi.nlm.nih.gov/21189367/) | 2011 | Clinical Review | Ann Pharmacother | Reviewed efficacy and safety of risperidone augmentation in MDD patients failing antidepressant monotherapy; synthesises trial-level evidence to support clinical practice guidance |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Clinical Practice Review | Acta Psychiatr Scand | Evidence-based treatment algorithms for bipolar mania; reviews risperidone positioning alongside mood stabilisers with clinical management recommendations |
-| [20486830](https://pubmed.ncbi.nlm.nih.gov/20486830/) | 2010 | Clinical Review | Expert Opin Pharmacother | Risperidone LAI as monotherapy and adjunctive therapy in Bipolar I maintenance; addresses long-term prophylaxis and treatment nonadherence with injectable formulation |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Revisione sistematica e meta-analisi di rete | J Affect Disorders | Ha confrontato l'efficacia e i tassi di interruzione tra gli agenti di incremento per la TRD dell'adulto utilizzando la meta-analisi di rete; risperidone incluso come comparatore attivo |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Revisione sistematica e meta-analisi | J Psychopharmacology | Ha valutato i trattamenti aggiuntivi e combinati per la TRD in fase iniziale; le SGA inclusa risperidone valutate per il beneficio di risposta e remissione rispetto alla monoterapia antidepressiva |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Revisione sistematica e meta-analisi | J Psychopharmacology | Ha confrontato antidepressivi + SGA vs esketamina vs litio per il trattamento del MDD; fornisce contesto di tollerabilità e efficacia testa a testa per l'incremento con risperidone |
+| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Revisione sistematica e meta-analisi | Psychological Medicine | Meta-analisi completa degli antipsicotici sia come monoterapia che come terapia aggiuntiva nel MDD; dati di efficacia e tollerabilità della risperidone aggregati attraverso molteplici RCT |
+| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Revisione sistematica | Cochrane Database Syst Rev | Revisione Cochrane degli antipsicotici di seconda generazione per MDD e distimia; sintesi di evidenze fondamentale che mostra risperidone come un agente efficace di potenziamento antidepressivo |
+| [17975181](https://pubmed.ncbi.nlm.nih.gov/17975181/) | 2007 | RCT | Ann Intern Med | Studio randomizzato di incremento con risperidone per MDD refrattaria al trattamento pubblicato in Annals of Internal Medicine; ha dimostrato un beneficio di risposta significativo vs aggiunta di placebo |
+| [25295435](https://pubmed.ncbi.nlm.nih.gov/25295435/) | 2014 | Studio basato sulla popolazione | J Clin Psychiatry | Studio basato sulla popolazione a livello nazionale che ha valutato l'efficacia nel mondo reale dell'incremento di aripiprazolo, olanzapina, quetiapina e risperidone per il MDD utilizzando i dati dell'assicurazione sanitaria nazionale |
+| [21189367](https://pubmed.ncbi.nlm.nih.gov/21189367/) | 2011 | Revisione clinica | Ann Pharmacother | Ha revisionato l'efficacia e la sicurezza dell'incremento con risperidone in pazienti con MDD che hanno fallito la monoterapia antidepressiva; sintetizza le evidenze a livello di studio per supportare la guida della pratica clinica |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Revisione della pratica clinica | Acta Psychiatr Scand | Algoritmi di trattamento basati su evidenze per la mania bipolare; rivede il posizionamento della risperidone accanto agli stabilizzatori dell'umore con raccomandazioni di gestione clinica |
+| [20486830](https://pubmed.ncbi.nlm.nih.gov/20486830/) | 2010 | Revisione clinica | Expert Opin Pharmacother | LAI risperidone come monoterapia e terapia aggiuntiva nel mantenimento del Bipolare I; affronta la profilassi a lungo termine e la non aderenza al trattamento con formulazione iniettabile |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Risperidone currently has **no registered authorizations on record in Italy (AIFA)**. No product names, dosage forms, or approved indications were returned in this evidence pack.
+Risperidone attualmente non ha autorizzazioni registrate nel record in Italia (AIFA). Nessun nome di prodotto, forma di dosaggio o indicazioni approvate è stato restituito in questo pacchetto di evidenze.
 
-> ⚠️ **This result is anomalous.** Risperidone is a widely-used antipsychotic with regulatory approvals across the US, EU, Japan, and most major markets. A zero-authorization result almost certainly reflects a data extraction limitation rather than actual absence from the Italian market. **Direct verification via the AIFA online registry (farmaci.agenziafarmaco.gov.it) is mandatory before drawing any regulatory conclusions.**
+> ⚠️ **Questo risultato è anomalo.** Risperidone è un antipsicotidco ampiamente utilizzato con approvazioni normative negli USA, UE, Giappone e nella maggior parte dei mercati importanti. Un risultato di zero autorizzazioni quasi certamente riflette una limitazione nell'estrazione di dati piuttosto che l'effettiva assenza dal mercato italiano. **La verifica diretta tramite il registro online dell'AIFA (farmaci.agenziafarmaco.gov.it) è obbligatoria prima di trarre qualsiasi conclusione normativa.**
 
 ---
 
-## Safety Considerations
+## Considerazioni sulla sicurezza
 
-Please refer to the package insert for safety information.
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-> The drug interaction (DDI) database returned no results, and Italy-specific package insert warnings were not captured in this evidence pack. Based on Risperidone's established pharmacological profile, the following areas should be proactively addressed in any clinical protocol:
-> - **Metabolic monitoring**: weight, fasting glucose, HbA1c, lipid panel (metabolic syndrome risk with long-term use)
-> - **Neurological monitoring**: extrapyramidal symptoms (EPS), tardive dyskinesia (AIMS scale), akathisia
-> - **Cardiovascular**: QTc prolongation baseline ECG and follow-up
-> - **Endocrine**: hyperprolactinaemia (especially in women of reproductive age)
+> Il database delle interazioni farmacologiche (DDI) non ha restituito risultati, e gli avvertimenti del foglio illustrativo specifico dell'Italia non sono stati acquisiti in questo pacchetto di evidenze. In base al profilo farmacologico consolidato di risperidone, le seguenti aree dovrebbero essere affrontate proattivamente in qualsiasi protocollo clinico:
+> - **Monitoraggio metabolico**: peso, glicemia a digiuno, HbA1c, profilo lipidico (rischio di sindrome metabolica con uso a lungo termine)
+> - **Monitoraggio neurologico**: sintomi extrapiramidali (EPS), discinesie tardive (scala AIMS), acatisia
+> - **Cardiovascolare**: prolungamento QTc, ECG basale e follow-up
+> - **Endocrino**: iperprolattinemia (soprattutto nelle donne in età riproduttiva)
 >
-> Formal safety data retrieval from the EMA SmPC or AIFA-approved package insert is required before any clinical application proceeds.
+> È necessario il recupero formale dei dati di sicurezza dal SmPC dell'EMA o dal foglio illustrativo approvato dall'AIFA prima che qualsiasi applicazione clinica proceda.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e prossimi passi
 
-**Decision: Proceed with Guardrails**
+**Decisione: Proceed with Guardrails**
 
-**Rationale:**
-Multiple completed Phase 3 RCTs — including a 585-patient double-blind Bipolar I maintenance trial (NCT00391222), the TEAM Study in paediatric mania (NCT00057681, N=379), and a 630-patient TRD augmentation trial (NCT00095134) — combined with five systematic reviews/meta-analyses, constitute L1-grade evidence. Risperidone's D2/5-HT2A dual mechanism is directly aligned with the dopaminergic and serotonergic pathophysiology of major affective disorder, and the evidence base is sufficient to support moving to a formal feasibility and regulatory review stage.
+**Razionale:**
+Molteplici RCT di Fase 3 completati — incluso uno studio di mantenimento del disturbo bipolare I in doppio cieco su 585 pazienti (NCT00391222), lo Studio TEAM nella mania pediatrica (NCT00057681, N=379) e uno studio di incremento TRD su 630 pazienti (NCT00095134) — combinati con cinque revisioni sistematiche/meta-analisi, costituiscono evidenze di grado L1. Il meccanismo duale D2/5-HT2A della risperidone è direttamente allineato con la fisiopatologia dopaminergica e serotoninergica del disturbo affettivo maggiore, e la base di evidenze è sufficiente a supportare il passaggio a una fase formale di revisione della fattibilità e normativa.
 
-**To proceed, the following is needed:**
+**Per procedere, è necessario quanto segue:**
 
-- **Regulatory boundary clarification**: Confirm whether "Major Affective Disorder" partially overlaps with Risperidone's existing approved indications (bipolar mania, schizophrenia). Resolve the `original_indications: []` data gap before classifying this as a true repurposing vs. an indication-extension application — this distinction has significant regulatory and commercial implications
-- **Italy AIFA market status verification**: The 0-authorization finding must be confirmed directly via the AIFA registry; existing EU approvals (EMA) may already cover the target indication
-- **Safety data retrieval**: Obtain the EMA SmPC or AIFA-registered package insert to populate formal warnings, contraindications, and DDI profiles
-- **Indication subgroup stratification**: The evidence quality differs by affective subtype — design separate analysis pathways for (a) Bipolar I maintenance, (b) MDD adjunctive/augmentation, and (c) TRD; do not pool these as a single development track
-- **Monitoring protocol definition**: Establish baseline and follow-up monitoring schedule for metabolic parameters, EPS/tardive dyskinesia, QTc, and prolactin before any investigator-initiated trial submission
-- **Secondary indication triage**: This multi-indication pack also flags **Trichotillomania** (L3, 10 publications, Research Question) and **Phelan-McDermid syndrome** (L4, preclinical zebrafish data + case reports) as candidates for future exploratory research after the major affective disorder track is resolved
+- **Chiarimento del confine normativo**: Confermare se "Major Affective Disorder" si sovrappone parzialmente alle indicazioni già approvate di risperidone (mania bipolare, schizofrenia). Risolvere il gap nei dati `original_indications: []` prima di classificare questo come un vero riproposizionamento vs un'applicazione di estensione dell'indicazione — questa distinzione ha implicazioni normative e commerciali significative
+- **Verifica dello stato del mercato italiano AIFA**: Il risultato di 0 autorizzazioni deve essere confermato direttamente tramite il registro dell'AIFA; le approvazioni UE esistenti (EMA) potrebbero già coprire l'indicazione target
+- **Recupero dei dati di sicurezza**: Ottenere lo SmPC dell'EMA o il foglio illustrativo registrato dall'AIFA per popolare avvertimenti formali, controindicazioni e profili DDI
+- **Stratificazione di sottogruppi di indicazione**: La qualità dell'evidenza differisce per sottotipo affettivo — progettare percorsi di analisi separati per (a) mantenimento Bipolare I, (b) aggiuntivo/incremento MDD e (c) TRD; non unire questi come un singolo percorso di sviluppo
+- **Definizione del protocollo di monitoraggio**: Stabilire la pianificazione di monitoraggio basale e di follow-up per i parametri metabolici, EPS/discinesie tardive, QTc e prolattina prima di qualsiasi presentazione di studio patrocinato da investigatori
+- **Triage di indicazioni secondarie**: Questo pacchetto multidisciplinare segnala anche **Trichotillomania** (L3, 10 pubblicazioni, Domanda di ricerca) e **Sindrome di Phelan-McDermid** (L4, dati preclinici di zebrafish + rapporti di casi) come candidati per ricerca esplorativa futura dopo che la traccia del disturbo affettivo maggiore è stata risolta
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

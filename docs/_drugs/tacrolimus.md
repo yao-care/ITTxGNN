@@ -29,93 +29,90 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 </div>
 
-Using the txgnn-pipeline skill context, I'll now generate the full evaluation report based on the Evidence Pack.
+# Tacrolimus: dalla dermatite atopica alla dermatite seborroica
+
+## Sommario in una frase
+
+Tacrolimus (Protopic®) è un inibitore topico della calcineurina approvato per il trattamento della dermatite atopica, che agisce bloccando l'attivazione delle cellule T attraverso l'asse calcineurina–NFAT.
+Il modello TxGNN prevede che possa essere efficace per la **Dermatite Seborroica**, con **2 studi clinici** e **20 pubblicazioni** che supportano attualmente questa direzione.
+La forza dell'evidenza è elevata: almeno uno studio clinico completato di Fase 3 controllato con placebo ha valutato direttamente l'unguento di tacrolimus come terapia di mantenimento per la dermatite seborroica facciale grave, collocando questo candidato al livello di evidenza **L1**.
 
 ---
 
-# Tacrolimus: From Atopic Dermatitis to Seborrheic Dermatitis
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Tacrolimus (Protopic®) is a topical calcineurin inhibitor established for the treatment of atopic dermatitis, acting by blocking T-cell activation through the calcineurin–NFAT axis.
-The TxGNN model predicts it may be effective for **Seborrheic Dermatitis**, with **2 clinical trials** and **20 publications** currently supporting this direction.
-Evidence strength is high: at least one completed Phase 3 RCT directly evaluated tacrolimus ointment as maintenance therapy for severe facial seborrheic dermatitis, placing this candidate at evidence level **L1**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Atopic Dermatitis |
-| Predicted New Indication | Seborrheic Dermatitis |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L1 |
-| Italy Market Status | Not Marketed (0 registered authorizations in current registry) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione Originaria | Dermatite Atopica |
+| Indicazione Predetta Nuova | Dermatite Seborroica |
+| Punteggio di Previsione TxGNN | 99.26% |
+| Livello di Evidenza | L1 |
+| Status di Mercato in Italia | Non Commercializzato (0 autorizzazioni registrate nel registro corrente) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed pharmacological mechanism of action data is not currently available in this evidence pack. Based on known information, tacrolimus is a macrolide lactone immunomodulator (FK506) belonging to the topical calcineurin inhibitor (TCI) class. It binds to the intracellular protein FKBP12, and the resulting complex inhibits calcineurin, thereby blocking the calcineurin–NFAT signaling axis. This precisely suppresses antigen-specific T-cell activation and downstream secretion of pro-inflammatory cytokines — including IL-2 and IL-17 — without involving corticosteroid receptors, and therefore carries no risk of skin atrophy.
+I dati dettagliati del meccanismo farmacologico d'azione non sono attualmente disponibili in questo evidence pack. Sulla base delle informazioni disponibili, tacrolimus è un immunomodulatore lattone macrolide (FK506) appartenente alla classe degli inibitori topici della calcineurina (TCI). Si lega alla proteina intracellulare FKBP12, e il complesso risultante inibisce la calcineurina, bloccando così l'asse di segnalazione calcineurina–NFAT. Questo sopprime precisamente l'attivazione delle cellule T antigene-specifica e la conseguente secrezione di citochine pro-infiammatorie — includendo IL-2 e IL-17 — senza coinvolgere i recettori dei corticosteroidi, e quindi non presenta rischio di atrofia cutanea.
 
-Seborrheic dermatitis (SD) and atopic dermatitis share a core pathological feature: both are T-cell–mediated inflammatory skin conditions driven by immune dysregulation and impaired barrier function. In SD, colonization by *Malassezia* yeast triggers a Th1/Th17-skewed inflammatory cascade, producing the characteristic erythema, scaling, and pruritus seen predominantly on sebaceous-rich facial areas. Because tacrolimus directly targets the same T-cell activation pathway involved in SD pathogenesis, the mechanistic rationale is highly plausible — and its steroid-sparing profile makes it particularly attractive for long-term facial maintenance therapy, where topical corticosteroids carry well-documented local risks.
+La dermatite seborroica (SD) e la dermatite atopica condividono una caratteristica patologica fondamentale: entrambe sono condizioni infiammatorie cutanee mediate da cellule T guidate da disregolazione immunitaria e da disfunzione della barriera compromessa. Nella SD, la colonizzazione da lievito *Malassezia* scatena una cascata infiammatoria orientata verso Th1/Th17, producendo l'eritema, il desquamazione e il prurito caratteristici visti prevalentemente sulle aree facciali ricche di ghiandole sebacee. Poiché tacrolimus colpisce direttamente lo stesso percorso di attivazione delle cellule T coinvolto nella patogenesi della SD, la razionale meccanicistica è altamente plausibile — e il suo profilo privo di steroidi lo rende particolarmente attraente per la terapia di mantenimento facciale a lungo termine, dove i corticosteroidi topici comportano rischi locali ben documentati.
 
-This mechanistic rationale has been validated in clinical practice. A completed Phase 3 RCT (NCT02004860, n=120) directly assessed Protopic® for maintenance treatment of severe facial SD, and a Phase 4 post-marketing study (NCT01591070, n=104) confirmed that proactive twice-weekly application reduces relapse frequency. Multiple peer-reviewed publications — including head-to-head RCTs against standard-of-care agents (hydrocortisone, ciclopiroxolamine, sertaconazole) and systematic reviews — collectively establish tacrolimus as a well-evidenced option for this indication, lending strong support to the TxGNN prediction.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Phase 3 | Completed | 120 | Evaluated Protopic® (tacrolimus ointment) as maintenance therapy for severe seborrheic dermatitis on the adult face; primary aim was to reduce relapse frequency, prolong remissions achieved after acute treatment, and reduce topical steroid dependence |
-| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Phase 4 | Completed | 104 | Assessed whether proactive once- or twice-weekly application of 0.1% tacrolimus ointment maintains adult facial seborrheic dermatitis in remission and reduces the incidence of disease exacerbation |
+Questa razionale meccanicistica è stata convalidata nella pratica clinica. Uno studio clinico completato di Fase 3 (NCT02004860, n=120) ha valutato direttamente Protopic® per il trattamento di mantenimento della SD facciale grave, e uno studio post-commercializzazione di Fase 4 (NCT01591070, n=104) ha confermato che l'applicazione proattiva due volte alla settimana riduce la frequenza delle ricadute. Molteplici pubblicazioni peer-reviewed — inclusi studi controllati randomizzati testa a testa contro agenti standard di cura (idrocortisone, ciclopiroxolamina, sertaconazolo) e revisioni sistematiche — collettivamente stabiliscono tacrolimus come un'opzione ben documentata per questa indicazione, fornendo un forte supporto alla previsione TxGNN.
 
 ---
 
-## Literature Evidence
+## Evidenza degli Studi Clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [33010323](https://pubmed.ncbi.nlm.nih.gov/33010323/) | 2021 | RCT (Multicenter, Double-blind) | J Am Acad Dermatol | First long-term maintenance therapy RCT in SD: tacrolimus 0.1% vs. ciclopiroxolamine 1% in severe facial seborrheic dermatitis; directly informs long-term use strategy |
-| [22101215](https://pubmed.ncbi.nlm.nih.gov/22101215/) | 2012 | RCT (Single-blind) | J Am Acad Dermatol | Tacrolimus 0.1% ointment vs. hydrocortisone 1% ointment in adult facial SD; tacrolimus demonstrated immunomodulatory, anti-inflammatory, and fungicidal activity |
-| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | Clinical Trial | Annals of Parasitology | Head-to-head comparison of sertaconazole 2% cream vs. tacrolimus 0.03% cream in 60 patients with seborrheic dermatitis; assessed antifungal vs. immunomodulatory approach |
-| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | Clinical Study (Interventional) | Annals of Dermatology | Maintenance therapy with 0.1% tacrolimus ointment for facial SD, adapting the proactive treatment paradigm established in atopic dermatitis |
-| [37067129](https://pubmed.ncbi.nlm.nih.gov/37067129/) | 2023 | Comparative Clinical Trial | Indian J Dermatol Venereol Leprol | Oral itraconazole (2-day pulse) plus topical tacrolimus vs. topical tacrolimus alone for SD maintenance; evaluated combination vs. monotherapy in Vietnamese cohort |
-| [12833030](https://pubmed.ncbi.nlm.nih.gov/12833030/) | 2003 | Open-label Pilot | J Am Acad Dermatol | 18 patients with SD treated with 0.1% tacrolimus for 28 days; 61% achieved complete clearance — earliest proof-of-concept for this indication |
-| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Systematic Review | Am J Clin Dermatol | Comprehensive systematic review of topical treatments for facial SD; positioned tacrolimus and other TCIs as effective corticosteroid-sparing alternatives |
-| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Review | Am J Clin Dermatol | Reviewed pathophysiology, safety, and efficacy of topical calcineurin inhibitors — including tacrolimus — specifically in seborrheic dermatitis |
-| [39219446](https://pubmed.ncbi.nlm.nih.gov/39219446/) | 2024 | Cochrane Systematic Review / NMA | Clin Exp Allergy | Network meta-analysis of topical anti-inflammatory treatments for eczema; broad comparative evidence synthesis relevant to TCI class positioning and relative effectiveness |
-| [11770914](https://pubmed.ncbi.nlm.nih.gov/11770914/) | 2001 | Review | Semin Cutan Med Surg | Early review of off-label uses of topical tacrolimus and pimecrolimus including seborrheic dermatitis, psoriasis, and lichen planus; established the rationale for TCI use beyond atopic dermatitis |
+| Numero dello Studio | Fase | Status | Arruolamento | Risultati Chiave |
+|------------------|------|--------|-------------|-----------------|
+| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Fase 3 | Completato | 120 | Ha valutato Protopic® (unguento di tacrolimus) come terapia di mantenimento per la dermatite seborroica grave sulla faccia in adulti; l'obiettivo primario era ridurre la frequenza delle ricadute, prolungare le remissioni ottenute dopo il trattamento acuto, e ridurre la dipendenza dagli steroidi topici |
+| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Fase 4 | Completato | 104 | Ha valutato se l'applicazione proattiva una o due volte alla settimana di unguento di tacrolimus allo 0.1% mantiene la dermatite seborroica facciale in adulti in remissione e riduce l'incidenza di riacutizzazioni della malattia |
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-Please refer to the package insert for safety information.
-
-> **Note:** Key warnings, contraindications, and drug interaction data were not retrievable from the current registry. Full review of the package insert is required before clinical application, with particular attention to: (1) the theoretical risk of *Tinea incognito* (fungal infection masked by topical immunomodulation), which has been reported with tacrolimus use and is particularly relevant given *Malassezia*'s role in SD; and (2) the FDA/EMA black-box warning regarding long-term malignancy risk associated with systemic calcineurin inhibitors, though topical application carries minimal systemic absorption.
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
+|------|------|------|---------|-----------------|
+| [33010323](https://pubmed.ncbi.nlm.nih.gov/33010323/) | 2021 | RCT (Multicentrico, Double-blind) | J Am Acad Dermatol | Primo RCT di terapia di mantenimento a lungo termine nella SD: tacrolimus 0.1% vs. ciclopiroxolamina 1% nella dermatite seborroica facciale grave; informa direttamente la strategia di uso a lungo termine |
+| [22101215](https://pubmed.ncbi.nlm.nih.gov/22101215/) | 2012 | RCT (Single-blind) | J Am Acad Dermatol | Unguento di tacrolimus 0.1% vs. unguento di idrocortisone 1% nella SD facciale in adulti; tacrolimus ha dimostrato attività immunomodulatoria, anti-infiammatoria e fungicida |
+| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | Clinical Trial | Annals of Parasitology | Confronto testa a testa di crema di sertaconazolo 2% vs. crema di tacrolimus 0.03% in 60 pazienti con dermatite seborroica; ha valutato l'approccio antifungino vs. immunomodulatorio |
+| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | Clinical Study (Interventional) | Annals of Dermatology | Terapia di mantenimento con unguento di tacrolimus allo 0.1% per SD facciale, adattando il paradigma di trattamento proattivo stabilito nella dermatite atopica |
+| [37067129](https://pubmed.ncbi.nlm.nih.gov/37067129/) | 2023 | Comparative Clinical Trial | Indian J Dermatol Venereol Leprol | Itraconazolo per via orale (pulse di 2 giorni) più tacrolimus topico vs. tacrolimus topico solo per il mantenimento della SD; ha valutato la terapia combinata vs. monoterapia in una coorte vietnamita |
+| [12833030](https://pubmed.ncbi.nlm.nih.gov/12833030/) | 2003 | Open-label Pilot | J Am Acad Dermatol | 18 pazienti con SD trattati con tacrolimus allo 0.1% per 28 giorni; il 61% ha ottenuto un clearance completo — la più precoce prova di concetto per questa indicazione |
+| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Systematic Review | Am J Clin Dermatol | Revisione sistematica comprensiva dei trattamenti topici per la SD facciale; ha posizionato tacrolimus e altri TCI come alternative prive di corticosteroidi efficaci |
+| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Review | Am J Clin Dermatol | Ha revisionato la patofisiologia, la sicurezza e l'efficacia degli inibitori topici della calcineurina — incluso tacrolimus — specificamente nella dermatite seborroica |
+| [39219446](https://pubmed.ncbi.nlm.nih.gov/39219446/) | 2024 | Cochrane Systematic Review / NMA | Clin Exp Allergy | Meta-analisi di rete dei trattamenti topici anti-infiammatori per l'eczema; sintesi di ampia evidenza comparativa rilevante per il posizionamento della classe TCI e l'efficacia relativa |
+| [11770914](https://pubmed.ncbi.nlm.nih.gov/11770914/) | 2001 | Review | Semin Cutan Med Surg | Revisione precoce degli usi off-label di tacrolimus e pimecrolimus topici inclusa la dermatite seborroica, la psoriasi, e il lichen planus; ha stabilito la razionale per l'uso dei TCI al di là della dermatite atopica |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla Sicurezza
 
-**Decision: Proceed with Guardrails**
+Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-A completed Phase 3 RCT and a Phase 4 post-marketing study directly support tacrolimus ointment for seborrheic dermatitis, supplemented by head-to-head RCTs against standard-of-care comparators and a body of systematic review evidence — placing this candidate firmly at evidence level L1 with a 99.26% TxGNN prediction score that is fully consistent with the available clinical data.
+> **Nota:** I dati chiave su avvertenze, controindicazioni e interazioni farmacologiche non erano recuperabili dal registro corrente. Una revisione completa del foglio illustrativo è obbligatoria prima dell'applicazione clinica, con particolare attenzione a: (1) il rischio teorico di *Tinea incognito* (infezione fungina mascherata dall'immunomodulazione topica), che è stata segnalata con l'uso di tacrolimus ed è particolarmente rilevante dato il ruolo di *Malassezia* nella SD; e (2) l'avvertenza black-box FDA/EMA riguardante il rischio di malignità a lungo termine associato agli inibitori sistemici della calcineurina, sebbene l'applicazione topica comporti un assorbimento sistemico minimo.
 
-**To proceed, the following is needed:**
+---
 
-- **Package insert review**: Obtain full prescribing information (warnings, contraindications, precautions) before any clinical or regulatory action — this is currently a blocking data gap
-- **MOA documentation**: Retrieve complete pharmacological mechanism of action from DrugBank (DB00864) to finalize the mechanistic justification
-- **DDI profile**: Drug interaction data was not found in the current query; a dedicated DDI review is required
-- **Italy regulatory clarification**: The current registry shows 0 authorized products, but tacrolimus ointment (Protopic®) holds EMA approval for atopic dermatitis and may already be marketed in Italy — formal AIFA registration status should be confirmed before assuming a regulatory gap
-- **Long-term safety monitoring plan**: Design a post-use surveillance protocol specifically addressing *Tinea incognito* risk, local skin reactions, and systemic exposure in patients with large or compromised skin surface areas
-- **Fungal co-infection screening**: Given *Malassezia*'s dual role as the trigger of SD and a potential safety concern under immunomodulation, clinical protocols should include baseline fungal assessment prior to treatment initiation
+## Conclusione e Prossimi Passi
+
+**Decisione: Procedere con Cautele**
+
+**Razionale:**
+Uno studio clinico completato di Fase 3 e uno studio post-commercializzazione di Fase 4 supportano direttamente l'unguento di tacrolimus per la dermatite seborroica, integrati da studi controllati randomizzati testa a testa contro comparatori standard di cura e da un corpo di evidenza di revisione sistematica — collocando questo candidato fermamente al livello di evidenza L1 con un punteggio di previsione TxGNN del 99.26% che è pienamente coerente con i dati clinici disponibili.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Revisione del foglio illustrativo**: Ottenere le informazioni prescrittive complete (avvertenze, controindicazioni, precauzioni) prima di qualsiasi azione clinica o normativa — questo è attualmente un gap di dati critico
+- **Documentazione MOA**: Recuperare il completo meccanismo farmacologico d'azione da DrugBank (DB00864) per finalizzare la giustificazione meccanicistica
+- **Profilo DDI**: I dati sulle interazioni farmacologiche non sono stati trovati nella query corrente; una revisione dedicata alle DDI è obbligatoria
+- **Chiarimento normativo in Italia**: Il registro corrente mostra 0 prodotti autorizzati, ma l'unguento di tacrolimus (Protopic®) detiene l'approvazione EMA per la dermatite atopica e può già essere commercializzato in Italia — lo status di registrazione AIFA formale dovrebbe essere confermato prima di assumere un gap normativo
+- **Piano di monitoraggio della sicurezza a lungo termine**: Progettare un protocollo di sorveglianza post-uso che affronti specificamente il rischio di *Tinea incognito*, le reazioni cutanee locali e l'esposizione sistemica nei pazienti con superfici cutanee ampia o compromessa
+- **Screening della co-infezione fungina**: Dato il ruolo duale di *Malassezia* come innesco della SD e potenziale preoccupazione di sicurezza sotto immunomodulazione, i protocolli clinici dovrebbero includere la valutazione fungina basale prima dell'inizio del trattamento
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,85 +29,82 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-Using the `txgnn-pipeline` skill confirmed the context. Now generating the report from the Evidence Pack.
+# Ciclesonide: Dall'asma all'eczema atopico
+
+## Riassunto in una frase
+
+Ciclesonide è un corticosteroide inalatorio (ICS) approvato per l'asma, agisce come agonista del recettore dei glucocorticoidi (GR) che sopprime l'infiammazione delle vie aeree tramite l'attivazione enzimatica polmonare nel suo metabolita attivo, des-ciclesonide.
+Il modello TxGNN prevede che potrebbe essere efficace per l'**eczema atopico**, ma attualmente con **nessun trial clinico** e **nessuna letteratura pubblicata** che supporti questa specifica direzione.
+Esiste una barriera critica: ciclesonide è un profarmaco polmonare senza alcuna formulazione topica dermatologica, rendendo la compatibilità della via di somministrazione una sfida fondamentale non ancora risolta per le indicazioni cutanee.
 
 ---
 
-# Ciclesonide: From Asthma to Atopic Eczema
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Ciclesonide is an inhaled corticosteroid (ICS) approved for asthma, acting as a glucocorticoid receptor (GR) agonist that suppresses airway inflammation via pulmonary enzymatic activation to its active metabolite, des-ciclesonide.
-The TxGNN model predicts it may be effective for **Atopic Eczema**, but with **no clinical trials** and **no published literature** currently supporting this specific direction.
-A critical barrier exists: ciclesonide is a pulmonary prodrug with no topical dermatological formulation, making route compatibility a fundamental unresolved challenge for skin indications.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Asthma (inhaled corticosteroid) |
-| Predicted New Indication | Atopic Eczema |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Asma (corticosteroide inalatorio) |
+| Indicazione nuova prevista | Eczema atopico |
+| Punteggio di previsione TxGNN | 99.96% |
+| Livello di evidenza | L5 |
+| Stato del mercato di Taiwan | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Ciclesonide is a glucocorticoid receptor (GR) agonist engineered specifically as an inhaled prodrug. After inhalation, pulmonary esterases convert it to its active metabolite, des-ciclesonide, which inhibits NF-κB activation in airway epithelial cells and suppresses pro-inflammatory cytokines including IL-6, IL-8, and TNF-α. This highly targeted pulmonary activation mechanism is a deliberate design feature intended to reduce systemic corticosteroid side effects.
+Ciclesonide è un agonista del recettore dei glucocorticoidi (GR) progettato specificamente come profarmaco inalatorio. Dopo l'inalazione, le esterasi polmonari lo convertono nel suo metabolita attivo, des-ciclesonide, che inibisce l'attivazione di NF-κB nelle cellule epiteliali delle vie aeree e sopprime le citochine pro-infiammatorie incluse IL-6, IL-8 e TNF-α. Questo meccanismo di attivazione polmonare altamente mirato è una caratteristica di design deliberata destinata a ridurre gli effetti collaterali sistemici dei corticosteroidi.
 
-Atopic eczema is driven primarily by Th2-mediated immune dysregulation, characterized by overactivation of IL-4, IL-13, and IgE pathways leading to chronic skin barrier dysfunction and inflammation. At the class level, GR agonists are central to atopic eczema management — topical corticosteroids remain a first-line standard of care. The TxGNN model likely captures this broad corticosteroid-class mechanistic overlap, which accounts for the high prediction score.
+L'eczema atopico è guidato principalmente dalla disregolazione immunitaria mediata da Th2, caratterizzata dall'iperattivazione dei percorsi IL-4, IL-13 e IgE che portano a disfunzione della barriera cutanea cronica e infiammazione. A livello di classe, gli agonisti GR sono centrali nella gestione dell'eczema atopico — i corticosteroidi topici rimangono uno standard di prima linea di cura. Il modello TxGNN probabilmente cattura questo ampio sovrapposizione meccanicistica della classe corticosteroidi, che spiega l'alto punteggio di previsione.
 
-However, there is a **fundamental route compatibility barrier**: ciclesonide is pharmacologically engineered to be activated by lung-specific esterases, not skin enzymes. No topical or transdermal formulation of ciclesonide currently exists, and it is unclear whether cutaneous esterases can sufficiently convert ciclesonide to des-ciclesonide at therapeutically relevant concentrations. Without a viable delivery route, the mechanistic rationale cannot translate to clinical application without significant pharmaceutical development. The 99.96% TxGNN score should therefore be interpreted as reflecting **class-level plausibility**, not ciclesonide-specific evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, esiste una **barriera fondamentale di compatibilità della via di somministrazione**: ciclesonide è farmacologicamente progettato per essere attivato da esterasi specifiche dei polmoni, non da enzimi cutanei. Attualmente non esiste alcuna formulazione topica o transdermale di ciclesonide, e non è chiaro se le esterasi cutanee possono convertire sufficientemente ciclesonide in des-ciclesonide a concentrazioni terapeuticamente rilevanti. Senza una via di somministrazione praticabile, la logica meccanicistica non può tradursi in applicazione clinica senza uno sviluppo farmaceutico significativo. Il punteggio TxGNN 99.96% dovrebbe quindi essere interpretato come riflettente **plausibilità a livello di classe**, non evidenza specifica di ciclesonide.
 
 ---
 
-## Literature Evidence
+## Prove da trial clinici
 
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Ciclesonide has no approved drug licenses on record in Taiwan (0 authorizations). No authorization table is available.
+Attualmente nessun trial clinico correlato registrato.
 
 ---
 
-## Safety Considerations
+## Prove dalla letteratura
 
-Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato di Taiwan
 
-**Decision: Hold**
+Ciclesonide non ha alcuna licenza di farmaco approvato registrata a Taiwan (0 autorizzazioni). Nessuna tabella di autorizzazione è disponibile.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.96%), the evidence for ciclesonide in atopic eczema is L5 (model prediction only) with zero supporting clinical trials or literature, and — more critically — ciclesonide's prodrug pharmacology poses a fundamental route compatibility barrier that cannot be resolved without new formulation development.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni sulla sicurezza
 
-- **Formulation feasibility study**: Determine whether a topical or transdermal ciclesonide formulation can deliver therapeutically active des-ciclesonide to the skin (requires pharmaceutical R&D investment before any clinical step)
-- **Skin esterase assessment**: Characterize whether human cutaneous esterases can activate ciclesonide to des-ciclesonide at relevant tissue concentrations — this single data point would dramatically change the plausibility of skin indications
-- **Preclinical proof-of-concept**: In vitro keratinocyte models and in vivo atopic dermatitis mouse models using ciclesonide to establish basic efficacy signal before any human study
-- **MOA data confirmation**: Obtain full DrugBank mechanism data to strengthen mechanistic rationale documentation
+Consultare il foglio illustrativo per informazioni sulla sicurezza.
 
-> **Strategic note — consider reprioritizing to Bronchitis (Rank 4):** Among all six predicted indications, bronchitis/COPD presents the most immediately actionable research question. Ciclesonide is already an ICS with established airway anti-inflammatory action; GOLD guidelines support ICS use in COPD; and Finnish COPD treatment guidelines ([PMID 25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/)) cite ICS pharmacotherapy in this context. No new formulation development is needed, and the route of administration is identical to the approved indication.
+---
 
-> **Caution — Contact Dermatitis (Rank 5) carries counter-evidence:** The only available literature for this indication ([PMID 22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/)) is a case report documenting ciclesonide as a **cross-reactive allergen** in systemic allergic dermatitis caused by inhaled budesonide — not a therapeutic agent. This indication should not be pursued.
+## Conclusione e fasi successive
+
+**Decisione: Sospendere**
+
+**Logica:**
+Nonostante un alto punteggio di previsione TxGNN (99.96%), l'evidenza per ciclesonide nell'eczema atopico è L5 (solo previsione del modello) con zero trial clinici di supporto o letteratura, e — più criticamente — la farmacologia del profarmaco di ciclesonide pone una barriera fondamentale di compatibilità della via di somministrazione che non può essere risolta senza lo sviluppo di una nuova formulazione.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Studio di fattibilità della formulazione**: determinare se una formulazione topica o transdermale di ciclesonide può fornire des-ciclesonide terapeuticamente attivo alla pelle (richiede investimento in R&D farmaceutica prima di qualsiasi fase clinica)
+- **Valutazione dell'esterasi cutanea**: caratterizzare se le esterasi cutanee umane possono attivare ciclesonide in des-ciclesonide a concentrazioni tissutali rilevanti — questo singolo punto dati cambierebbe drasticamente la plausibilità delle indicazioni cutanee
+- **Prova di concetto preclinica**: modelli di cheratinociti in vitro e modelli murini di dermatite atopica in vivo utilizzando ciclesonide per stabilire un segnale di efficacia di base prima di qualsiasi studio umano
+- **Conferma dei dati di MOA**: ottenere dati meccanismo completo di DrugBank per rafforzare la documentazione della logica meccanicistica
+
+> **Nota strategica — considerare di riprioritizzare a Bronchite (Rank 4):** tra tutte e sei le indicazioni previste, bronchite/BPCO presenta la questione di ricerca più immediatamente attuabile. Ciclesonide è già un ICS con azione anti-infiammatoria delle vie aeree consolidata; le linee guida GOLD supportano l'uso di ICS in BPCO; e le linee guida finlandesi per il trattamento della BPCO ([PMID 25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/)) citano la farmacoterapia ICS in questo contesto. Non è necessario alcuno sviluppo di nuova formulazione, e la via di somministrazione è identica all'indicazione approvata.
+
+> **Avvertenza — Dermatite da contatto (Rank 5) contiene contro-evidenza:** l'unica letteratura disponibile per questa indicazione ([PMID 22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/)) è un rapporto di caso che documenta ciclesonide come **allergene reattivo incrociato** nella dermatite allergica sistemica causata dal budesonide inalato — non come agente terapeutico. Questa indicazione non dovrebbe essere perseguita.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

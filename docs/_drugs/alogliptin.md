@@ -29,92 +29,93 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# ALOGLIPTIN: Drug Repurposing Evaluation Report
+# ALOGLIPTIN: Rapporto di Valutazione del Drug Repurposing
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Alogliptin (DB06203) is a DPP-4 inhibitor primarily used for the treatment of type 2 diabetes mellitus. Currently, the TxGNN model has **no predicted new indications** for this drug, and there are **no clinical trials** or **publications** associated with a repurposing direction. This candidate requires further data collection before evaluation can proceed.
+Alogliptin (DB06203) è un inibitore della DPP-4 utilizzato principalmente per il trattamento del diabete mellito di tipo 2. Attualmente, il modello TxGNN **non ha indicazioni nuove previste** per questo farmaco, e non vi sono **studi clinici** o **pubblicazioni** associate a una direzione di repurposing. Questo candidato richiede ulteriore raccolta di dati prima che la valutazione possa procedere.
 
 ---
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (DPP-4 inhibitor; no Taiwan-approved indication on record) |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies available) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originale | Diabete mellito di tipo 2 (inibitore della DPP-4; nessuna indicazione approvata in Taiwan registrata) |
+| Indicazione Nuova Prevista | Nessuna — TxGNN non ha restituito previsioni |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | L5 (Nessuna previsione o studi di supporto disponibili) |
+| Stato del Mercato Taiwanese | ✗ Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Mantenere** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Currently, the TxGNN model has not generated any predicted new indications for alogliptin. Without a repurposing hypothesis, a mechanistic rationale cannot be evaluated at this time.
+Attualmente, il modello TxGNN non ha generato indicazioni nuove previste per alogliptin. Senza un'ipotesi di repurposing, una razionale meccanicistica non può essere valutata in questo momento.
 
-Based on publicly available knowledge, alogliptin is a selective dipeptidyl peptidase-4 (DPP-4) inhibitor that works by preventing the degradation of incretin hormones (GLP-1 and GIP), thereby increasing insulin secretion and decreasing glucagon secretion in a glucose-dependent manner. It is approved in multiple markets (including the US, EU, and Japan) for the management of type 2 diabetes mellitus, often in combination with metformin or pioglitazone.
+Basandosi sulla conoscenza pubblicamente disponibile, alogliptin è un inibitore selettivo della dipeptidil peptidasi-4 (DPP-4) che funziona prevenendo la degradazione degli ormoni incretini (GLP-1 e GIP), aumentando così la secrezione di insulina e diminuendo la secrezione di glucagone in modo glucosio-dipendente. È approvato in molteplici mercati (inclusi gli USA, l'UE e il Giappone) per la gestione del diabete mellito di tipo 2, spesso in combinazione con metformina o pioglitazone.
 
-> **Note:** The Evidence Pack lists the mechanism of action as unavailable. The above description is based on established pharmacological literature for alogliptin. Once DrugBank API data is retrieved (see Data Gap DG002), this section should be updated with the authoritative MOA description.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for any repurposing indication.
-
-*(This section will be populated once TxGNN generates predicted indications and evidence is collected.)*
+> **Nota:** l'Evidence Pack elenca il meccanismo d'azione come non disponibile. La descrizione di cui sopra è basata sulla letteratura farmacologica consolidata per alogliptin. Una volta recuperati i dati dall'API di DrugBank (vedi Lacuna di Dati DG002), questa sezione dovrebbe essere aggiornata con la descrizione autorevole del MOA.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-Currently no related literature available for any repurposing indication.
+Attualmente nessuno studio clinico correlato registrato per alcuna indicazione di repurposing.
 
-*(This section will be populated once TxGNN generates predicted indications and evidence is collected.)*
-
----
-
-## Taiwan Market Information
-
-Alogliptin currently holds **no marketing authorizations** in Taiwan (TFDA). No licenses were found in the regulatory query performed on 2026-03-29.
+*(Questa sezione sarà compilata una volta che TxGNN generi indicazioni previste e le evidenze siano raccolte.)*
 
 ---
 
-## Safety Considerations
+## Evidenza dalla Letteratura
 
-> Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile per alcuna indicazione di repurposing.
+
+*(Questa sezione sarà compilata una volta che TxGNN generi indicazioni previste e le evidenze siano raccolte.)*
+
+---
+
+## Informazioni sul Mercato Taiwanese
+
+Alogliptin attualmente non detiene **alcuna autorizzazione di commercializzazione** a Taiwan (TFDA). Nessuna licenza è stata trovata nella query normativa eseguita il 2026-03-29.
+
+---
+
+## Considerazioni di Sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> **Note:** TFDA package insert data and DrugBank safety warnings were not available at the time of this report. Key warnings, contraindications, and drug-drug interactions remain to be collected (see Data Gaps below).
+> **Nota:** i dati del foglio illustrativo TFDA e gli avvertimenti di DrugBank non erano disponibili al momento di questo rapporto. Avvertimenti chiave, controindicazioni e interazioni farmacologiche rimangono da raccogliere (vedi lacune di dati di seguito).
 
 ---
 
-## Data Gaps Requiring Resolution
+## Lacune di Dati Che Richiedono Risoluzione
 
-The following critical data gaps were identified during evidence pack assembly:
+Le seguenti lacune di dati critiche sono state identificate durante l'assemblaggio dell'evidence pack:
 
-| Gap ID | Category | Item | Severity | Impact | Remediation |
+| ID Lacuna | Categoria | Elemento | Severità | Impatto | Rimedio |
 |--------|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Affects mechanistic relevance analysis | Query DrugBank API |
+| DG001 | Livello Farmaco | Avvertimenti del Foglio Illustrativo TFDA / Controindicazioni | **Bloccante** | Non è possibile entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | **Alto** | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API di DrugBank |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Hold**
+**Decisione: Mantenere**
 
-**Rationale:**
-There are no TxGNN-predicted new indications for alogliptin at this time. Additionally, two critical data gaps (TFDA package insert and MOA) remain unresolved — one of which (DG001) is classified as **Blocking** and prevents safety assessment from proceeding.
+**Razionale:**
+Non vi sono indicazioni nuove previste da TxGNN per alogliptin in questo momento. Inoltre, due lacune di dati critiche (foglio illustrativo TFDA e MOA) rimangono irrisolte — una delle quali (DG001) è classificata come **Bloccante** e impedisce che la valutazione della sicurezza proceda.
 
-**To proceed, the following is needed:**
-- **Run or re-run TxGNN prediction** for alogliptin to determine if any new indications are generated
-- **Resolve DG001 (Blocking):** Obtain TFDA package insert warnings and contraindications, or source equivalent safety data from another regulatory authority (e.g., FDA, EMA, PMDA) given alogliptin is not marketed in Taiwan
-- **Resolve DG002 (High):** Retrieve detailed mechanism of action from DrugBank API
-- **Reassess market availability:** Since alogliptin is not marketed in Taiwan, consider whether the drug can be sourced through special import channels or clinical trial supply if a repurposing indication is identified
-- **Re-evaluate** once the above data is collected and TxGNN predictions are available
+**Per procedere, è necessario quanto segue:**
+- **Eseguire o rieseguire la previsione TxGNN** per alogliptin al fine di determinare se vengono generate indicazioni nuove
+- **Risolvere DG001 (Bloccante):** Ottenere gli avvertimenti del foglio illustrativo TFDA e le controindicazioni, o fornire dati di sicurezza equivalenti da un'altra autorità normativa (ad es., FDA, EMA, PMDA) dato che alogliptin non è commercializzato a Taiwan
+- **Risolvere DG002 (Alto):** Recuperare il meccanismo d'azione dettagliato dall'API di DrugBank
+- **Rivalutare la disponibilità di mercato:** Poiché alogliptin non è commercializzato a Taiwan, considerare se il farmaco può essere fornito attraverso canali di importazione speciale o fornitura da studi clinici se viene identificata un'indicazione di repurposing
+- **Rivalutare** una volta che i dati sopra indicati sono stati raccolti e le previsioni TxGNN sono disponibili
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

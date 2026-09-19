@@ -29,86 +29,87 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Verapamil: From Cardiac Arrhythmia / Hypertension to Obsolete Bundle Branch Block
+# Verapamil: da aritmia cardiaca / ipertensione a blocco di branca obsoleto
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Verapamil is a well-established L-type calcium channel blocker (CCB) used clinically for supraventricular tachycardia, angina pectoris, and hypertension; no formal Italy (AIFA) authorization records were found in this dataset.
-The TxGNN model's top prediction links it to **Obsolete Bundle Branch Block** — a retired SNOMED/OMOP clinical concept — with **no clinical trials** and **no supporting publications** identified.
-⚠️ This prediction warrants particular caution: the disease label is no longer in active clinical use, and Verapamil is pharmacologically regarded as contraindicated in bundle branch block due to the risk of inducing complete heart block.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Cardiac arrhythmia, hypertension, angina pectoris (based on established pharmacological knowledge; no AIFA license records found in dataset) |
-| Predicted New Indication | Obsolete Bundle Branch Block |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not marketed (no AIFA records found) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Verapamil è un bloccante consolidato dei canali del calcio di tipo L (CCB) utilizzato clinicamente per la tachicardia sopraventricolare, l'angina pectoris e l'ipertensione; nessun record di autorizzazione formale dell'Italia (AIFA) è stato trovato in questo set di dati.
+La principale previsione del modello TxGNN lo collega al **blocco di branca obsoleto** — un concetto clinico ritirato da SNOMED/OMOP — **senza studi clinici** e **nessuna pubblicazione di supporto** identificati.
+⚠️ Questa previsione merita una cautela particolare: l'etichetta della malattia non è più in uso clinico attivo, e Verapamil è farmacologicamente considerato controindicato nel blocco di branca a causa del rischio di indurre un blocco cardiaco completo.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Verapamil belongs to the phenylalkylamine class of L-type voltage-gated calcium channel blockers. By blocking calcium entry into cardiac and smooth muscle cells, it slows conduction through the atrioventricular (AV) node, reduces heart rate and contractility, and dilates peripheral vasculature. These properties underpin its established clinical roles in supraventricular tachycardia (rate control), atrial fibrillation, stable angina, and hypertension. Detailed MOA data was not recoverable from the data pipeline for this report (flagged as data gap DG002), but Verapamil's cardiac electrophysiological profile is well characterised in the literature.
-
-At surface level, the mechanistic link to bundle branch block (BBB) exists — Verapamil acts on cardiac conduction tissue, which is the anatomical substrate of BBB. However, this relationship is one of **pharmacological risk, not therapeutic benefit**: slowing AV nodal conduction in a patient with pre-existing BBB risks progression to complete (third-degree) heart block, a life-threatening condition. Clinical guidelines therefore list BBB — especially bifascicular or trifascicular block — as a contraindication or high-risk caution for Verapamil use.
-
-A further critical issue undermines this prediction entirely: the disease label carries an "**obsolete**" prefix, indicating that this concept has been formally retired from the SNOMED CT / OMOP CDM ontology. The TxGNN knowledge graph likely retains this legacy node, which may explain the high model score. In practice, "obsolete bundle branch block" no longer corresponds to any active diagnostic category, and clinical translation of this prediction is not meaningful.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Aritmia cardiaca, ipertensione, angina pectoris (basato su conoscenze farmacologiche consolidate; nessun record di licenza AIFA trovato nel set di dati) |
+| Indicazione prevista nuova | Blocco di branca obsoleto |
+| Punteggio di previsione TxGNN | 99.62% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | ✗ Non commercializzato (nessun record AIFA trovato) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Hold |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related literature available.
+Verapamil appartiene alla classe delle fenilalchilammine tra i bloccanti dei canali del calcio voltaggio-dipendenti di tipo L. Bloccando l'ingresso del calcio nelle cellule cardiache e della muscolatura liscia, rallenta la conduzione attraverso il nodo atrioventricolare (AV), riduce la frequenza cardiaca e la contrattilità, e dilata la vascolatura periferica. Queste proprietà supportano i suoi ruoli clinici consolidati nella tachicardia sopraventricolare (controllo della frequenza), fibrillazione atriale, angina stabile e ipertensione. I dati dettagliati del meccanismo d'azione non sono stati recuperabili dalla pipeline dei dati per questo rapporto (segnalato come data gap DG002), ma il profilo elettrofisiologico cardiaco di Verapamil è ben caratterizzato nella letteratura.
 
----
+A livello superficiale, il collegamento meccanicistico al blocco di branca (BBB) esiste — Verapamil agisce sul tessuto di conduzione cardiaca, che è il substrato anatomico del BBB. Tuttavia, questa relazione è una di rischio farmacologico, non di beneficio terapeutico: il rallentamento della conduzione nodale AV in un paziente con BBB preesistente rischia una progressione verso un blocco cardiaco completo (di terzo grado), una condizione potenzialmente fatale. Le linee guida cliniche quindi elencano il BBB — specialmente il blocco bifascicolare o trifascicolare — come controindicazione o cautela ad alto rischio per l'uso di Verapamil.
 
-## Italy Market Information
-
-No AIFA authorizations for Verapamil were identified in this dataset. The drug is recorded as **not marketed** in Italy under the queried records (0 licenses, data as of 2026-03-29).
-
-> **Note:** Verapamil (marketed globally as Isoptin®, Calan®, Veramil®, and generics) has regulatory approvals in many countries for arrhythmia, angina, and hypertension. A targeted AIFA database re-query is recommended to confirm the Italian market status before any formulary or licensing assessment is finalized.
+Un ulteriore problema critico mina completamente questa previsione: l'etichetta della malattia porta un prefisso "obsoleto", indicando che questo concetto è stato formalmente ritirato dall'ontologia SNOMED CT / OMOP CDM. Il grafo di conoscenza TxGNN probabilmente conserva questo nodo legacy, il che potrebbe spiegare l'alto punteggio del modello. In pratica, il "blocco di branca obsoleto" non corrisponde più a nessuna categoria diagnostica attiva, e la traduzione clinica di questa previsione non è significativa.
 
 ---
 
-## Safety Considerations
+## Evidenza da studi clinici
 
-Please refer to the package insert for safety information.
+Attualmente nessuno studio clinico correlato registrato.
 
-> **Clinical note derived from mechanistic analysis:** Across all 7 predicted indications in this Evidence Pack, the `repurposing_rationale` explicitly identifies mechanistic concerns for at least 4 predictions:
-> - **Rank 1 (Obsolete Bundle Branch Block):** Verapamil is relatively contraindicated — risk of complete heart block.
-> - **Rank 4 & 5 (Pulmonary Hypertension, Groups 3 & 5):** CCBs are not recommended in Group 3/5 PH; may worsen ventilation-perfusion mismatch in Group 3.
-> - **Rank 2 (Malignant Renovascular Hypertension):** CCB monotherapy is less effective than RAAS inhibitors in the context of renal artery stenosis.
+---
+
+## Evidenza da letteratura
+
+Attualmente nessuna letteratura correlata disponibile.
+
+---
+
+## Informazioni sul mercato italiano
+
+Nessuna autorizzazione AIFA per Verapamil è stata identificata in questo set di dati. Il farmaco è registrato come non commercializzato in Italia secondo i record interrogati (0 licenze, dati al 2026-03-29).
+
+> **Nota:** Verapamil (commercializzato a livello globale come Isoptin®, Calan®, Veramil® e generici) ha approvazioni normative in molti paesi per aritmia, angina e ipertensione. Si consiglia un'interrogazione mirata del database AIFA per confermare lo stato del mercato italiano prima che qualsiasi valutazione formulare o di licenza sia finalizzata.
+
+---
+
+## Considerazioni sulla sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+> **Nota clinica derivata dall'analisi meccanicistica:** In tutte le 7 indicazioni previste in questo Evidence Pack, il `repurposing_rationale` identifica esplicitamente preoccupazioni meccanicistiche per almeno 4 previsioni:
+> - **Rank 1 (Blocco di branca obsoleto):** Verapamil è relativamente controindicato — rischio di blocco cardiaco completo.
+> - **Rank 4 & 5 (Ipertensione polmonare, Gruppi 3 & 5):** I CCB non sono raccomandati nell'ipertensione polmonare Gruppo 3/5; possono peggiorare il disadattamento ventilazione-perfusione nel Gruppo 3.
+> - **Rank 2 (Ipertensione renovascolare maligna):** La monoterapia con CCB è meno efficace degli inibitori del RAAS nel contesto della stenosi dell'arteria renale.
 >
-> Full warnings and contraindications should be verified against the package insert once obtained via TFDA/AIFA.
+> Gli avvertimenti completi e le controindicazioni devono essere verificati contro il foglio illustrativo una volta ottenuti via TFDA/AIFA.
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e prossimi passi
 
-**Decision: Hold**
+**Decisione: Hold**
 
-**Rationale:**
-The top TxGNN prediction targets a retired ontology concept with no active clinical relevance; the mechanistic relationship between Verapamil and bundle branch block is one of contraindication rather than therapeutic opportunity. No clinical trials or supporting literature were identified for any of the 7 predicted indications, and all predictions carry the lowest evidence grade (L5) with unanimous "Hold" or equivalent recommendations.
+**Fondamento:**
+La principale previsione di TxGNN si rivolge a un concetto di ontologia ritirato senza rilevanza clinica attiva; la relazione meccanicistica tra Verapamil e il blocco di branca è una di controindicazione piuttosto che di opportunità terapeutica. Nessuno studio clinico o letteratura di supporto è stato identificato per nessuna delle 7 indicazioni previste, e tutte le previsioni portano il più basso grado di evidenza (L5) con raccomandazioni unanimi di "Hold" o equivalenti.
 
-**To proceed, the following is needed:**
+**Per procedere, è necessario quanto segue:**
 
-- **Resolve Italy market status:** Conduct a direct AIFA database query to confirm whether Verapamil holds any Italian authorizations — the current dataset returned zero records, which may reflect a query limitation rather than a genuine absence from the Italian market.
-- **Obtain full MOA data:** Query the DrugBank API to fill data gap DG002 and enable proper mechanistic analysis across indications.
-- **Update disease ontology mapping:** Re-run TxGNN with a current SNOMED CT / OMOP CDM mapping to exclude retired ("obsolete") disease nodes from candidate outputs and improve prediction signal quality.
-- **Explore rank 7 as a research hypothesis:** "Periodic paralysis with transient compartment-like syndrome" (rank 7) carries the only "Research Question" recommendation and the strongest plausible mechanistic hypothesis (VGCC mutations, Andersen-Tawil syndrome overlap). This is the only candidate in this report that merits a targeted literature deep-dive before formal hold.
+- **Risolvere lo stato del mercato italiano:** Condurre un'interrogazione diretta del database AIFA per confermare se Verapamil mantiene autorizzazioni italiane — il set di dati corrente ha restituito zero record, il che potrebbe riflettere una limitazione della query piuttosto che un'assenza genuina dal mercato italiano.
+- **Ottenere i dati MOA completi:** Interrogare l'API DrugBank per colmare il data gap DG002 e abilitare una corretta analisi meccanicistica tra le indicazioni.
+- **Aggiornare il mapping dell'ontologia della malattia:** Rieseguire TxGNN con un mapping SNOMED CT / OMOP CDM corrente per escludere i nodi di malattia ritirati ("obsoleti") dagli output candidati e migliorare la qualità del segnale di previsione.
+- **Esplorare il rank 7 come ipotesi di ricerca:** "Paralisi periodica con sindrome simile a compartimento transitoria" (rank 7) porta la sola raccomandazione di "Domanda di ricerca" e l'ipotesi meccanicistica più plausibile (mutazioni VGCC, sovrapposizione della sindrome di Andersen-Tawil). Questo è l'unico candidato in questo rapporto che merita un'immersione profonda mirata nella letteratura prima di un hold formale.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

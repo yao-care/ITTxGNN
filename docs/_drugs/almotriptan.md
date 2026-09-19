@@ -29,100 +29,101 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# ALMOTRIPTAN: Drug Repurposing Evaluation Report
+# ALMOTRIPTAN: Relazione di valutazione del riutilizzo di farmaci
 
-## One-Sentence Summary
+## Riassunto in una frase
 
-Almotriptan is a selective 5-HT₁B/₁D receptor agonist, widely known for the acute treatment of migraine headaches. The TxGNN model currently has **no predicted new indications** for this drug, and the evidence pack contains significant data gaps in mechanism of action, safety, and regulatory information. Further data collection is required before any repurposing assessment can proceed.
+Almotriptano è un agonista selettivo del recettore 5-HT₁B/₁D, ampiamente noto per il trattamento acuto delle cefalee emicraniche. Il modello TxGNN attualmente **non presenta indicazioni nuove previste** per questo farmaco, e il pacchetto di prove contiene significative lacune nei dati riguardanti il meccanismo d'azione, la sicurezza e le informazioni normative. Prima di procedere con qualsiasi valutazione del riutilizzo sono necessari ulteriori raccolta di dati.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Drug Name (INN) | Almotriptan |
-| DrugBank ID | [DB00918](https://go.drugbank.com/drugs/DB00918) |
-| Original Indication | Acute migraine treatment (per general pharmacological knowledge; not populated in evidence pack) |
-| Predicted New Indication | — (No TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** — Model prediction only; no predicted indications or supporting studies |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of TFDA Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Nome del farmaco (INN) | Almotriptano |
+| ID DrugBank | [DB00918](https://go.drugbank.com/drugs/DB00918) |
+| Indicazione originale | Trattamento acuto dell'emicrania (secondo le conoscenze farmacologiche generali; non compilato nel pacchetto di prove) |
+| Indicazione nuova prevista | — (Nessuna previsione TxGNN disponibile) |
+| Punteggio di previsione TxGNN | N/A |
+| Livello di evidenza | **L5** — Previsione del modello solo; nessuna indicazione prevista o studi di supporto |
+| Stato del mercato taiwanese | ✗ Non commercializzato (Non commercializzato) |
+| Numero di autorizzazioni TFDA | 0 |
+| Decisione consigliata | **In sospeso** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, the TxGNN model has not generated any predicted new indications for Almotriptan, so there is no repurposing hypothesis to evaluate at this time.
+Attualmente, il modello TxGNN non ha generato alcuna indicazione nuova prevista per Almotriptano, quindi non esiste alcuna ipotesi di riutilizzo da valutare in questo momento.
 
-From general pharmacological knowledge, Almotriptan is a second-generation triptan — a selective serotonin 5-HT₁B/₁D receptor agonist. It works by constricting dilated intracranial blood vessels and inhibiting the release of pro-inflammatory neuropeptides, thereby aborting acute migraine attacks. Its high selectivity for 5-HT₁B/₁D receptors (with minimal activity at other serotonin receptor subtypes) gives it a favorable tolerability profile among the triptans.
+Dalle conoscenze farmacologiche generali, Almotriptano è un triptano di seconda generazione — un agonista selettivo del recettore 5-HT₁B/₁D. Funziona costringendo i vasi sanguigni intracranici dilatati e inibendo il rilascio di neuropeptidi pro-infiammatori, interrompendo così gli attacchi acuti di emicrania. La sua elevata selettività per i recettori 5-HT₁B/₁D (con attività minima su altri sottotipi di recettori della serotonina) gli conferisce un profilo di tollerabilità favorevole tra i triptani.
 
-> ⚠️ **Data Gap:** The evidence pack's `original_moa` field is not populated. The mechanism described above is based on established pharmacological literature. A formal DrugBank API query is recommended to fill this gap (see remediation plan DG002).
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indications exist for Almotriptan, so no targeted clinical trial search was performed for repurposing candidates.
+> ⚠️ **Lacuna nei dati:** Il campo `original_moa` del pacchetto di prove non è compilato. Il meccanismo descritto sopra si basa sulla letteratura farmacologica consolidata. Si consiglia una interrogazione formale dell'API di DrugBank per colmare questa lacuna (vedere piano di correzione DG002).
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-Currently no TxGNN-predicted indications exist for Almotriptan, so no targeted literature search was performed for repurposing candidates.
-
----
-
-## Taiwan Market Information
-
-Almotriptan is **not marketed in Taiwan**. No TFDA drug licenses were found (query date: 2026-03-29). There are no authorized products, dosage forms, or approved indications registered with the TFDA.
+Attualmente non esistono indicazioni previste da TxGNN per Almotriptano, quindi non è stata effettuata alcuna ricerca mirata di studi clinici per candidati di riutilizzo.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla letteratura
 
-> Please refer to the package insert for safety information.
+Attualmente non esistono indicazioni previste da TxGNN per Almotriptano, quindi non è stata effettuata alcuna ricerca mirata della letteratura per candidati di riutilizzo.
+
+---
+
+## Informazioni sul mercato taiwanese
+
+Almotriptano **non è commercializzato a Taiwan**. Non sono state trovate licenze farmacologiche TFDA (data della query: 2026-03-29). Non ci sono prodotti autorizzati, forme farmaceutiche o indicazioni approvate registrate con la TFDA.
+
+---
+
+## Considerazioni di sicurezza
+
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> ⚠️ **Data Gap (Blocking):** TFDA package insert warnings and contraindications could not be retrieved (DG001). This is classified as a **Blocking** gap — the candidate cannot enter Stage 1 safety screening until this is resolved.
+> ⚠️ **Lacuna nei dati (Bloccante):** Le avvertenze e le controindicazioni del foglio illustrativo TFDA non potevano essere recuperate (DG001). Questa è classificata come una lacuna **Bloccante** — il candidato non può entrare nello screening di sicurezza S1 finché questo non sarà risolto.
 >
-> No drug-drug interaction (DDI) data was found in the queried databases.
+> Non sono stati trovati dati su interazioni tra farmaci (DDI) nei database interrogati.
 
 ---
 
-## Data Gaps Summary
+## Riepilogo delle lacune nei dati
 
-The following critical data gaps were identified and must be addressed before any repurposing evaluation can proceed:
+Sono state identificate le seguenti lacune critiche nei dati che devono essere affrontate prima di qualsiasi valutazione del riutilizzo:
 
-| Gap ID | Item | Severity | Impact | Remediation |
+| ID lacuna | Elemento | Gravità | Impatto | Correzione |
 |--------|------|----------|--------|-------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | **High** | Affects mechanism-indication relationship analysis | Query DrugBank API |
-| — | TxGNN Predicted Indications | **High** | No repurposing candidates to evaluate | Run/re-run TxGNN prediction pipeline for DB00918 |
-| — | Original Indications (structured) | Medium | Quick Overview table incomplete | Populate from DrugBank or TFDA data |
+| DG001 | Avvertenze/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Non può entrare nello screening di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Meccanismo d'azione (MOA) | **Alto** | Influisce sull'analisi della relazione meccanismo-indicazione | Query API di DrugBank |
+| — | Indicazioni previste da TxGNN | **Alto** | Nessun candidato di riutilizzo da valutare | Eseguire/rieseguire la pipeline di previsione TxGNN per DB00918 |
+| — | Indicazioni originali (strutturate) | Medio | Tabella Panoramica rapida incompleta | Compilare da dati DrugBank o TFDA |
 
 ---
 
-## Conclusion and Next Steps
+## Conclusione e prossimi passaggi
 
-**Decision: Hold**
+**Decisione: In sospeso**
 
-**Rationale:**
-Almotriptan currently has no TxGNN-predicted new indications, is not marketed in Taiwan, and has multiple blocking data gaps. There is insufficient information to evaluate any repurposing hypothesis at this time.
+**Motivazione:**
+Almotriptano attualmente non ha indicazioni nuove previste da TxGNN, non è commercializzato a Taiwan e presenta molteplici lacune bloccanti nei dati. Non ci sono informazioni sufficienti per valutare qualsiasi ipotesi di riutilizzo in questo momento.
 
-**To proceed, the following is needed:**
-1. **Run/re-run the TxGNN prediction pipeline** for Almotriptan (DB00918) to generate candidate indications
-2. **Resolve DG001 (Blocking):** Obtain TFDA package insert warnings and contraindications — required before Stage 1 safety screening
-3. **Resolve DG002 (High):** Query DrugBank API for detailed mechanism of action data to enable mechanism–indication relationship analysis
-4. **Populate original indication data** from DrugBank or authoritative pharmacological references
-5. **Reassess Taiwan regulatory pathway** — since Almotriptan is not marketed in Taiwan, any repurposing effort would need to account for initial market authorization requirements
+**Per procedere, è necessario quanto segue:**
+1. **Eseguire/rieseguire la pipeline di previsione TxGNN** per Almotriptano (DB00918) al fine di generare indicazioni candidate
+2. **Risolvere DG001 (Bloccante):** Ottenere le avvertenze e le controindicazioni del foglio illustrativo TFDA — obbligatorio prima dello screening di sicurezza S1
+3. **Risolvere DG002 (Alto):** Query API di DrugBank per dati dettagliati sul meccanismo d'azione al fine di abilitare l'analisi della relazione meccanismo-indicazione
+4. **Compilare i dati sull'indicazione originale** da DrugBank o riferimenti farmacologici autorevoli
+5. **Rivalutare il percorso normativo taiwanese** — poiché Almotriptano non è commercializzato a Taiwan, qualsiasi sforzo di riutilizzo dovrebbe tenere conto dei requisiti iniziali di autorizzazione del mercato
 
 ---
 
-*Report generated: 2026-04-03 | Evidence Pack version: v4 | Candidate ID: TW-DB00918-multi*
+*Relazione generata: 2026-04-03 | Versione del pacchetto di prove: v4 | ID candidato: TW-DB00918-multi*
 
-*⚠️ This report is for research reference only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*⚠️ Questa relazione è solo per riferimento di ricerca e non costituisce consiglio medico. Qualsiasi candidato di riutilizzo di farmaci richiede convalida clinica prima dell'applicazione.*
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

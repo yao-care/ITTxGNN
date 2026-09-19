@@ -29,95 +29,96 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Teriparatide: From Postmenopausal Osteoporosis to Pregnancy-Associated Osteoporosis
+# Teriparatide: dall'osteoporosi postmenopausale all'osteoporosi associata alla gravidanza
 
-## One-Sentence Summary
+## Riepilogo in una sola frase
 
-Teriparatide (PTH 1-34) is a recombinant parathyroid hormone analogue approved globally for the anabolic treatment of osteoporosis in postmenopausal women and men at high fracture risk.
-The TxGNN model predicts it may be effective for **Pregnancy-Associated Osteoporosis (PLO)**, with **2 clinical trials** and **20 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Osteoporosis (postmenopausal women; men with primary or hypogonadal osteoporosis; glucocorticoid-induced osteoporosis) |
-| Predicted New Indication | Pregnancy Associated Osteoporosis |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L3 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+Teriparatide (PTH 1-34) è un analogo ricombinante dell'ormone paratiroideo approvato a livello mondiale per il trattamento anabolico dell'osteoporosi nelle donne postmenopausali e negli uomini ad alto rischio di frattura.
+Il modello TxGNN predice che potrebbe essere efficace per l'**osteoporosi associata alla gravidanza (PLO)**, con **2 trial clinici** e **20 pubblicazioni** attualmente a supporto di questa direzione.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Teriparatide is a synthetic 34-amino acid N-terminal fragment of human parathyroid hormone (PTH 1-34) that acts as a full agonist at the PTH1 receptor (PTH1R). Unlike conventional antiresorptive agents (bisphosphonates, denosumab), it works anabolically — directly stimulating osteoblast differentiation and activity, increasing bone mineral density (BMD), improving trabecular microarchitecture, and reducing vertebral and non-vertebral fracture risk. Detailed MOA data from DrugBank was not available in this evidence pack; the characterisation above is based on the published pharmacological literature.
-
-Pregnancy- and lactation-associated osteoporosis (PLO) is a rare but severe condition in which the maternal skeleton cannot compensate for the calcium demands of fetal development and breastfeeding. During lactation, the mammary gland and placenta secrete large quantities of PTHrP (PTH-related protein), which signals through the same PTH1R receptor as teriparatide, driving accelerated osteoclastic bone resorption. The result is rapid BMD loss concentrated in the trabecular-rich spine, sometimes producing multiple vertebral compression fractures in otherwise healthy young women. The pathological driver of PLO and the therapeutic mechanism of teriparatide therefore converge on the same receptor axis.
-
-Because teriparatide shares the PTH1R target with the endogenous instigator of PLO-related bone loss, its use as a therapeutic agent to shift receptor signalling from resorption toward formation is mechanistically coherent. This is further supported by a growing body of retrospective cohort studies, systematic reviews, and meta-analyses that have specifically evaluated teriparatide in PLO patients, consistently demonstrating BMD recovery at the lumbar spine and reduction in subsequent fracture risk. The TxGNN prediction reflects a biologically credible and clinically emerging extension of teriparatide's established bone-anabolic profile.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02440581](https://clinicaltrials.gov/study/NCT02440581) | N/A | Completed | 141 | Renal osteodystrophy and CKD-associated osteoporosis; provides supportive safety and efficacy context for teriparatide in metabolic bone diseases characterised by disrupted mineral homeostasis — a pathophysiological domain overlapping with PLO |
-| [NCT00277706](https://clinicaltrials.gov/study/NCT00277706) | Phase 1 | Completed | 40 | PTH 1-34 (Forteo) combined with periodontal surgery for oral bone regeneration; confirms PTH1R-mediated osteogenic mechanism and the basic safety profile of subcutaneous teriparatide dosing |
-
-> **Note:** No registered clinical trials directly studying teriparatide in PLO were identified. The two trials above provide indirect mechanistic and safety support. The main evidence base for this indication comes from observational literature.
+| Elemento | Contenuto |
+|----------|----------|
+| Indicazione originale | Osteoporosi (donne postmenopausali; uomini con osteoporosi primitiva o ipogonadica; osteoporosi indotta da glucocorticoidi) |
+| Nuova indicazione prevista | Osteoporosi associata alla gravidanza |
+| Punteggio predittivo TxGNN | 99.55% |
+| Livello di evidenza | L3 |
+| Stato del mercato in Italia | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con salvaguardie |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [40205203](https://pubmed.ncbi.nlm.nih.gov/40205203/) | 2025 | Systematic Review & Meta-analysis | *Osteoporosis International* | 35 studies, 943 patients; comprehensive analysis of presentation, risk factors, and treatment response in pregnancy-associated osteoporosis; vertebral fractures and back pain were the dominant features |
-| [37708365](https://pubmed.ncbi.nlm.nih.gov/37708365/) | 2024 | Systematic Review & Meta-analysis | *J Clin Endocrinol Metab* | Comparative effectiveness of therapeutic interventions in PLO; teriparatide evaluated alongside bisphosphonates and other anabolic agents as a key treatment modality |
-| [39008200](https://pubmed.ncbi.nlm.nih.gov/39008200/) | 2024 | Clinical Review | *Endocrine* | Focused review of teriparatide use in PLO; identifies it as a promising anabolic strategy for spine fractures occurring during late pregnancy or the postpartum lactation period |
-| [34132853](https://pubmed.ncbi.nlm.nih.gov/34132853/) | 2021 | Cohort Study | *Calcified Tissue International* | Multicenter retrospective cohort, 19 women treated with teriparatide 20 µg/day vs. conventional management in PLO; teriparatide group showed superior lumbar spine BMD and trabecular bone score (TBS) recovery |
-| [35903718](https://pubmed.ncbi.nlm.nih.gov/35903718/) | 2022 | Cohort Study | *Geburtshilfe und Frauenheilkunde* | 47 patients with PLO and postpartum vertebral fractures (mean 4 fractures/patient) treated with teriparatide; assessed impact on subsequent fracture incidence and BMD |
-| [34037833](https://pubmed.ncbi.nlm.nih.gov/34037833/) | 2021 | Cohort Study | *Calcified Tissue International* | Retrospective study of bone density trajectories after teriparatide discontinuation in PLO, with or without sequential antiresorptive therapy; addresses a key clinical management gap |
-| [36764958](https://pubmed.ncbi.nlm.nih.gov/36764958/) | 2023 | Case Report | *Calcified Tissue International* | Severe PLO with multiple vertebral fractures treated with teriparatide followed by zoledronic acid; high-resolution imaging documented substantial improvements in bone microarchitecture and strength |
-| [39976715](https://pubmed.ncbi.nlm.nih.gov/39976715/) | 2025 | Review | *Z Rheumatologie* | Risk factors, fracture patterns, and treatment strategies for PLO; teriparatide and bisphosphonates identified as best pharmacological options for severe cases |
-| [33620518](https://pubmed.ncbi.nlm.nih.gov/33620518/) | 2022 | Review | *Calcified Tissue International* | Comprehensive review of PLO pathogenesis, skeletal fragility features, and treatment landscape including teriparatide and emerging biologics |
-| [40837111](https://pubmed.ncbi.nlm.nih.gov/40837111/) | 2025 | Review | *J Endocrine Society* | Reviews calcium physiology during pregnancy and lactation, PTHrP-driven bone resorption mechanisms, and their relevance to PLO — directly supports the mechanistic rationale for teriparatide |
+Teriparatide è un frammento sintetico di 34 aminoacidi della regione N-terminale dell'ormone paratiroideo umano (PTH 1-34) che agisce come agonista completo del recettore PTH1 (PTH1R). A differenza degli agenti antiassorbitivi convenzionali (bifosfonati, denosumab), funziona in modo anabolico — stimolando direttamente la differenziazione e l'attività degli osteoblasti, aumentando la densità minerale ossea (DMO), migliorando la microarchitettura trabecolare e riducendo il rischio di fratture vertebrali e non vertebrali. I dati dettagliati del meccanismo d'azione da DrugBank non erano disponibili in questo dossier probatorio; la caratterizzazione di cui sopra si basa sulla letteratura farmacologica pubblicata.
+
+L'osteoporosi associata alla gravidanza e all'allattamento (PLO) è una condizione rara ma grave in cui lo scheletro materno non riesce a compensare le esigenze di calcio dello sviluppo fetale e dell'allattamento al seno. Durante l'allattamento, la ghiandola mammaria e la placenta secernono grandi quantità di PTHrP (proteina correlata a PTH), che segnala attraverso lo stesso recettore PTH1R di teriparatide, determinando un riassorbimento osseo osteoclastico accelerato. Il risultato è una perdita di DMO rapida concentrata nella colonna vertebrale ricca di trabecole, a volte producendo multiple fratture da schiacciamento vertebrale in giovani donne altrimenti sane. Il fattore patologico della PLO e il meccanismo terapeutico di teriparatide convergono quindi sullo stesso asse recettoriale.
+
+Poiché teriparatide condivide il bersaglio PTH1R con l'instigatore endogeno della perdita ossea correlata a PLO, il suo utilizzo come agente terapeutico per spostare la segnalazione recettoriale dal riassorbimento verso la formazione è coerente dal punto di vista meccanicistico. Questo è ulteriormente supportato da un corpo crescente di studi di coorte retrospettivi, revisioni sistematiche e meta-analisi che hanno specificamente valutato teriparatide nei pazienti con PLO, dimostrando costantemente il recupero della DMO alla colonna vertebrale lombare e la riduzione del rischio di fratture successive. La previsione TxGNN riflette un'estensione biologicamente credibile e clinicamente emergente del profilo osteoanabolico consolidato di teriparatide.
 
 ---
 
-## Italy Market Information
+## Evidenze da trial clinici
 
-Teriparatide is **not currently authorised in Italy**. No marketing authorizations were found in the regulatory database. Teriparatide is, however, authorised in the European Union under the brand names **Forsteo** (Eli Lilly) and generic formulations via EMA centralised procedure; Italy-specific AIFA registration should be verified independently.
+| Numero del trial | Fase | Stato | Arruolamento | Risultati chiave |
+|------------------|------|--------|--------------|------------------|
+| [NCT02440581](https://clinicaltrials.gov/study/NCT02440581) | N/A | Completato | 141 | Osteodistrofia renale e osteoporosi associata a CKD; fornisce contesto di sicurezza e efficacia a supporto per teriparatide nelle malattie ossee metaboliche caratterizzate da omeostasi minerale disturbata — un dominio fisiopatologico che si sovrappone con PLO |
+| [NCT00277706](https://clinicaltrials.gov/study/NCT00277706) | Fase 1 | Completato | 40 | PTH 1-34 (Forteo) combinato con chirurgia parodontale per la rigenerazione ossea orale; conferma il meccanismo osteogenico mediato da PTH1R e il profilo di sicurezza basale della somministrazione sottocutanea di teriparatide |
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Detailed warnings and contraindications (including the osteosarcoma black-box warning applicable in other markets) were not available in this evidence pack. These are critical to evaluate before any use in the PLO population, particularly given that PLO affects premenopausal women of childbearing age — a population that may not be covered by standard teriparatide prescribing guidelines.
+> **Nota:** Non sono stati identificati trial clinici registrati che studiano direttamente teriparatide in PLO. I due trial di cui sopra forniscono supporto indiretto meccanicistico e di sicurezza. La principale base di evidenza per questa indicazione proviene dalla letteratura osservazionale.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenze dalla letteratura
 
-**Decision: Proceed with Guardrails**
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|------|------|------|---------|------------------|
+| [40205203](https://pubmed.ncbi.nlm.nih.gov/40205203/) | 2025 | Revisione sistematica e meta-analisi | *Osteoporosis International* | 35 studi, 943 pazienti; analisi completa della presentazione, fattori di rischio e risposta al trattamento nell'osteoporosi associata alla gravidanza; le fratture vertebrali e il mal di schiena erano le caratteristiche dominanti |
+| [37708365](https://pubmed.ncbi.nlm.nih.gov/37708365/) | 2024 | Revisione sistematica e meta-analisi | *J Clin Endocrinol Metab* | Efficacia comparativa degli interventi terapeutici in PLO; teriparatide valutata insieme a bifosfonati e altri agenti anabolici come modalità di trattamento chiave |
+| [39008200](https://pubmed.ncbi.nlm.nih.gov/39008200/) | 2024 | Revisione clinica | *Endocrine* | Revisione focalizzata sull'uso di teriparatide in PLO; lo identifica come strategia anabolica promettente per le fratture spinali che si verificano durante la fine della gravidanza o il periodo postpartum dell'allattamento |
+| [34132853](https://pubmed.ncbi.nlm.nih.gov/34132853/) | 2021 | Studio di coorte | *Calcified Tissue International* | Coorte retrospettiva multicentrica, 19 donne trattate con teriparatide 20 µg/giorno vs. gestione convenzionale in PLO; il gruppo con teriparatide ha mostrato un recupero superiore della DMO alla colonna vertebrale lombare e del punteggio trabecolare osseo (TBS) |
+| [35903718](https://pubmed.ncbi.nlm.nih.gov/35903718/) | 2022 | Studio di coorte | *Geburtshilfe und Frauenheilkunde* | 47 pazienti con PLO e fratture vertebrali postpartum (media 4 fratture/paziente) trattati con teriparatide; valutazione dell'impatto sull'incidenza di fratture successive e DMO |
+| [34037833](https://pubmed.ncbi.nlm.nih.gov/34037833/) | 2021 | Studio di coorte | *Calcified Tissue International* | Studio retrospettivo delle traiettorie della densità ossea dopo la sospensione di teriparatide in PLO, con o senza terapia antiassorbitiva sequenziale; affronta un divario di gestione clinica chiave |
+| [36764958](https://pubmed.ncbi.nlm.nih.gov/36764958/) | 2023 | Caso clinico | *Calcified Tissue International* | PLO grave con multiple fratture vertebrali trattate con teriparatide seguita da acido zoledronico; l'imaging ad alta risoluzione ha documentato miglioramenti sostanziali nella microarchitettura ossea e nella resistenza |
+| [39976715](https://pubmed.ncbi.nlm.nih.gov/39976715/) | 2025 | Revisione | *Z Rheumatologie* | Fattori di rischio, pattern di fratture e strategie di trattamento per PLO; teriparatide e bifosfonati identificati come migliori opzioni farmacologiche per i casi gravi |
+| [33620518](https://pubmed.ncbi.nlm.nih.gov/33620518/) | 2022 | Revisione | *Calcified Tissue International* | Revisione completa della patogenesi di PLO, caratteristiche di fragilità scheletrica e panorama terapeutico inclusi teriparatide e biologici emergenti |
+| [40837111](https://pubmed.ncbi.nlm.nih.gov/40837111/) | 2025 | Revisione | *J Endocrine Society* | Esamina la fisiologia del calcio durante la gravidanza e l'allattamento, i meccanismi di riassorbimento osseo mediati da PTHrP e la loro rilevanza per PLO — supporta direttamente la razionale meccanicistica per teriparatide |
 
-**Rationale:**
-Multiple retrospective cohort studies and two independent systematic reviews with meta-analyses directly document teriparatide's efficacy in PLO — a condition driven by the same PTH1R receptor pathway that teriparatide targets. While no randomised controlled trials in PLO have been completed (largely due to the rarity of the condition), the mechanistic coherence and consistent observational evidence across international centres support an L3 evidence classification and justify conditional advancement.
+---
 
-**To proceed, the following is needed:**
+## Informazioni sul mercato italiano
 
-- Obtain the full EMA/AIFA-authorised package insert for teriparatide (Forsteo) to review contraindications, particularly the osteosarcoma risk signal (Paget's disease, prior radiation, unexplained elevation of alkaline phosphatase) and its applicability to premenopausal PLO patients
-- Retrieve MOA data from DrugBank (DB06285) to formally document the PTH1R agonist pharmacology and receptor binding kinetics
-- Define the sequential therapy strategy: teriparatide in PLO is typically followed by antiresorptive consolidation (bisphosphonate or denosumab); a clinical protocol for this transition should be specified
-- Confirm that Italian AIFA registration status for Forsteo (or biosimilars) is current and that the indication can be pursued as a labelled off-label use or through a dedicated expanded indication pathway
-- Assess the feasibility of a prospective observational registry or adaptive trial in PLO given the rarity of the condition (estimated incidence < 1:10,000 pregnancies)
+Teriparatide **non è attualmente autorizzata in Italia**. Nel database normativo non sono state trovate autorizzazioni all'immissione in commercio. Teriparatide è, tuttavia, autorizzata nell'Unione Europea con i nomi di marca **Forsteo** (Eli Lilly) e formulazioni generiche tramite procedura centralizzata EMA; la registrazione specifica dell'AIFA per l'Italia dovrebbe essere verificata indipendentemente.
+
+---
+
+## Considerazioni di sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+> Gli avvertimenti e le controindicazioni dettagliati (incluso l'avvertimento black-box per l'osteosarcoma applicabile in altri mercati) non erano disponibili in questo dossier probatorio. Questi sono critici da valutare prima di qualsiasi utilizzo nella popolazione PLO, in particolare dato che PLO colpisce donne in età fertile premenopausali — una popolazione che potrebbe non essere coperta dalle linee guida standard di prescrizione di teriparatide.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Procedere con salvaguardie**
+
+**Razionale:**
+Molteplici studi di coorte retrospettivi e due revisioni sistematiche indipendenti con meta-analisi documentano direttamente l'efficacia di teriparatide in PLO — una condizione guidata dallo stesso percorso recettoriale PTH1R che teriparatide bersaglia. Sebbene nessun trial controllato randomizzato in PLO sia stato completato (largamente a causa della rarità della condizione), la coerenza meccanicistica e le evidenze osservazionali coerenti tra centri internazionali supportano una classificazione di evidenza L3 e giustificano un avanzamento condizionato.
+
+**Per procedere, è necessario il seguente:**
+
+- Ottenere il foglio illustrativo completo autorizzato da EMA/AIFA per teriparatide (Forsteo) per rivedere le controindicazioni, in particolare il segnale di rischio di osteosarcoma (malattia di Paget, precedente irradiazione, aumento inspiegabile della fosfatasi alcalina) e la sua applicabilità ai pazienti premenopausali con PLO
+- Recuperare i dati del meccanismo d'azione da DrugBank (DB06285) per documentare formalmente la farmacologia agonista PTH1R e la cinetica del legame recettoriale
+- Definire la strategia della terapia sequenziale: teriparatide in PLO è tipicamente seguita da consolidamento antiassorbitivo (bifosfonato o denosumab); deve essere specificato un protocollo clinico per questa transizione
+- Confermare che lo stato di registrazione dell'AIFA italiana per Forsteo (o biosimilari) è attuale e che l'indicazione può essere perseguita come uso off-label etichettato o tramite un percorso di indicazione ampliata dedicato
+- Valutare la fattibilità di un registro osservazionale prospettico o di un trial adattivo in PLO data la rarità della condizione (incidenza stimata < 1:10,000 gravidanze)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

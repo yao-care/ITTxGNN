@@ -29,58 +29,59 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# CLOZAPINA (Clozapine): Drug Repurposing Evaluation — Insufficient Data to Complete Analysis
+# CLOZAPINA (Clozapine): Valutazione di Riuso Farmacologico — Dati Insufficienti per Completare l'Analisi
 
-## One-Sentence Summary
+## Sommario in una frase
 
-CLOZAPINA is the Italian/Spanish INN for clozapine, an atypical antipsychotic well-established for treatment-resistant schizophrenia.
-However, this Evidence Pack contains **no TxGNN-predicted new indications**, **no regulatory records in the queried market**, and **no safety data** — making a full repurposing evaluation impossible at this stage.
-The report below documents the current data state and identifies what must be resolved before analysis can proceed.
+CLOZAPINA è l'INN italiano/spagnolo per la clozapina, un antipsicotico atipico ben consolidato per il trattamento della schizofrenia resistente ai farmaci.
+Tuttavia, questo Fascicolo di Prove non contiene **alcuna nuova indicazione prevista da TxGNN**, **nessun record normativo nel mercato interrogato**, e **nessun dato di sicurezza** — rendendo impossibile una valutazione completa del riuso in questa fase.
+Il rapporto sottostante documenta lo stato attuale dei dati e identifica cosa deve essere risolto prima che l'analisi possa procedere.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | Not recorded in this Evidence Pack |
-| Predicted New Indication | No predictions available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — Model prediction only (no actual studies linked) |
-| Italy Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originale | Non registrata in questo Fascicolo di Prove |
+| Indicazione Nuova Prevista | Nessuna previsione disponibile |
+| Punteggio di Previsione TxGNN | Non disponibile |
+| Livello di Evidenza | L5 — Solo previsione del modello (nessuno studio reale collegato) |
+| Stato Mercato Italia | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Hold** |
 
 ---
 
-## Italy Market Information
+## Informazioni Mercato Italia
 
-No regulatory authorizations were found for CLOZAPINA in the queried market database. The TFDA query (2026-03-29) returned 0 results.
+Nessuna autorizzazione normativa è stata trovata per CLOZAPINA nel database del mercato interrogato. La query TFDA (2026-03-29) ha restituito 0 risultati.
 
-> This drug is currently not registered or marketed under this INN in the queried jurisdiction. Cross-reference with AIFA (Italy) or EMA records may be needed if the product is marketed under a brand name or alternative INN spelling.
-
----
-
-## Safety Considerations
-
-> All safety fields returned no data from the queried sources. Please refer to the official package insert for warnings, contraindications, and drug interaction information before any clinical consideration.
+> Questo farmaco non è attualmente registrato o commercializzato sotto questo INN nella giurisdizione interrogata. La verifica incrociata con i record AIFA (Italia) o EMA potrebbe essere necessaria se il prodotto è commercializzato sotto un nome commerciale o uno spelling INN alternativo.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Hold**
+> Tutti i campi di sicurezza non hanno restituito dati dalle fonti interrogate. Si prega di fare riferimento al foglio illustrativo ufficiale per avvertenze, controindicazioni e informazioni sulle interazioni farmacologiche prima di qualsiasi considerazione clinica.
 
-**Rationale:**
-The Evidence Pack for CLOZAPINA is critically incomplete — there are no predicted indications from TxGNN, no approved indications on record, no mechanism of action data, and no safety information available. No repurposing evaluation can be performed until these gaps are resolved.
+---
 
-**To proceed, the following is needed:**
+## Conclusioni e Passi Successivi
 
-- **TxGNN prediction results**: Rerun the TxGNN pipeline with a confirmed DrugBank ID for clozapine (DrugBank: DB00363) to generate scored candidate indications
-- **Original indication confirmation**: Confirm and record clozapine's approved indications (treatment-resistant schizophrenia, suicidality in schizophrenia/schizoaffective disorder) as the repurposing baseline
-- **MOA data** (Data Gap DG002, High severity): Query DrugBank API for mechanism of action — clozapine's D2/5-HT2A receptor profile is central to understanding any mechanistic crossover
-- **Safety data** (Data Gap DG001, Blocking severity): Download and parse the official package insert from the TFDA or AIFA website to extract warnings and contraindications — this is marked **Blocking** and must be resolved before any safety screening
-- **Market scope clarification**: Verify whether this evaluation targets the Italian (AIFA) market or another jurisdiction, as the field label and query source appear mismatched in this Evidence Pack
+**Decisione: Hold**
+
+**Razionale:**
+Il Fascicolo di Prove per CLOZAPINA è criticamente incompleto — non ci sono indicazioni previste da TxGNN, nessuna indicazione autorizzata in registro, nessun dato sul meccanismo d'azione e nessuna informazione di sicurezza disponibile. Nessuna valutazione del riuso può essere eseguita fino a quando questi vuoti non siano risolti.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Risultati della previsione TxGNN**: Rieseguire la pipeline TxGNN con un ID DrugBank confermato per la clozapina (DrugBank: DB00363) per generare indicazioni candidate con punteggio
+- **Conferma dell'indicazione originale**: Confermare e registrare le indicazioni approvate per la clozapina (trattamento della schizofrenia resistente ai farmaci, suicidalità nella schizofrenia/disturbo schizoaffettivo) come baseline del riuso
+- **Dati MOA** (Data Gap DG002, Alta gravità): Interrogare l'API di DrugBank per il meccanismo d'azione — il profilo dei recettori D2/5-HT2A della clozapina è centrale per comprendere qualsiasi crossover meccanicistico
+- **Dati di sicurezza** (Data Gap DG001, Gravità Bloccante): Scaricare e analizzare il foglio illustrativo ufficiale dal sito web TFDA o AIFA per estrarre avvertenze e controindicazioni — questo è contrassegnato come **Bloccante** e deve essere risolto prima di qualsiasi screening di sicurezza
+- **Chiarimento dell'ambito di mercato**: Verificare se questa valutazione è destinata al mercato italiano (AIFA) o a un'altra giurisdizione, poiché l'etichetta del campo e la fonte della query sembrano non corrispondere in questo Fascicolo di Prove
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

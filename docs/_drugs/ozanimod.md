@@ -29,106 +29,103 @@ Livello di evidenza: **L1** | Indicazioni previste: **1**
 
 </div>
 
-The txgnn-pipeline skill confirms the context. The report format is fully defined in the system prompt. I'll now generate the evaluation report directly from the Evidence Pack.
+# Ozanimod: dalla sclerosi multipla ricorrente-remittente alla sclerosi multipla progressivo-ricorrente
+
+## Riassunto in una sola frase
+
+Ozanimod (ZEPOSIA®) è un modulatore selettivo del recettore della sfingosina-1-fosfato (S1P), approvato negli USA e nell'UE dal 2020 per le forme ricorrenti della sclerosi multipla (SM), inclusa la malattia ricorrente-remittente e la malattia progressiva secondaria attiva.
+Il modello TxGNN prevede che possa essere efficace per la **Sclerosi Multipla Progressivo-Ricorrente (SMPR)**, con **8 studi clinici** e **18 pubblicazioni** che attualmente supportano questa direzione.
+La qualità complessiva dell'evidenza è valutata **L1**, ancorata da un RCT di fase 3 completato che ha arruolato 2.494 pazienti.
 
 ---
 
-# Ozanimod: From Relapsing Multiple Sclerosis to Progressive Relapsing Multiple Sclerosis
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Ozanimod (ZEPOSIA®) is a selective sphingosine-1-phosphate (S1P) receptor modulator, approved in the US and EU since 2020 for relapsing forms of multiple sclerosis (MS), including relapsing-remitting disease and active secondary progressive disease.
-The TxGNN model predicts it may be effective for **Progressive Relapsing Multiple Sclerosis (PRMS)**, with **8 clinical trials** and **18 publications** currently supporting this direction.
-The overall evidence quality is rated **L1**, anchored by a completed Phase 3 RCT enrolling 2,494 patients.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Relapsing forms of multiple sclerosis (FDA approved March 2020; EMA approved May 2020) |
-| Predicted New Indication | Progressive Relapsing Multiple Sclerosis |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L1 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Voce | Contenuto |
+|------|----------|
+| Indicazione originale | Forme ricorrenti di sclerosi multipla (approvazione FDA marzo 2020; approvazione EMA maggio 2020) |
+| Nuova indicazione prevista | Sclerosi Multipla Progressivo-Ricorrente |
+| Punteggio di previsione TxGNN | 99,34% |
+| Livello di evidenza | L1 |
+| Stato di commercializzazione in Italia | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con Presidi |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Ozanimod is a next-generation, orally administered S1P receptor modulator that acts as a **functional antagonist at receptor subtypes S1PR1 and S1PR5**. By binding to S1PR1 on the surface of lymphocytes, it triggers receptor internalization, causing autoreactive T and B lymphocytes to be sequestered in the lymph nodes and unable to cross into the central nervous system. This directly interrupts the neuroinflammatory cascade that drives both relapses and early progressive disability in relapsing MS phenotypes.
+Ozanimod è un modulatore del recettore S1P di nuova generazione, somministrato per via orale, che agisce come **antagonista funzionale dei sottotipi di recettore S1PR1 e S1PR5**. Legandosi a S1PR1 sulla superficie dei linfociti, innesca l'internalizzazione del recettore, causando il sequestro dei linfociti T e B autoreattivi nei linfonodi e impedendo loro di attraversare il sistema nervoso centrale. Ciò interrompe direttamente la cascata neuroinfiammatoria che guida sia le ricadute che la disabilità progressiva iniziale nei fenotipi SM ricorrente.
 
-The additional modulation of **S1PR5** — expressed predominantly on NK cells and CNS oligodendrocytes — provides a mechanistic dimension beyond simple peripheral immunosuppression. S1PR5 activity influences myeloid and NK cell trafficking within the CNS, as well as oligodendrocyte survival and myelin integrity. This dual receptor selectivity is hypothesized to contribute neuroprotective effects in progressive MS, where compartmentalized CNS inflammation is a major driver of disability accumulation not adequately addressed by peripheral-only therapies.
+La modulazione aggiuntiva di **S1PR5** — espressa predominantemente sulle cellule NK e gli oligodendrociti del SNC — fornisce una dimensione meccanicistica oltre la semplice immunosoppressione periferica. L'attività di S1PR5 influenza il traffico di cellule mieloidi e NK all'interno del SNC, così come la sopravvivenza degli oligodendrociti e l'integrità della mielina. Questa doppia selettività del recettore è ipotizzata per contribuire agli effetti neuroprotettivi nella SM progressiva, dove l'infiammazione compartimentalizzata del SNC è un fattore importante nell'accumulo di disabilità non adeguatamente affrontato dalle terapie solo periferiche.
 
-Progressive relapsing MS (PRMS) is characterized by continuous neurological decline from disease onset with superimposed acute relapses — sharing the same inflammatory attack mechanism as RRMS but with added progressive pathology. Since ozanimod's mechanism directly targets the core inflammatory pathway common to all relapsing MS phenotypes, its applicability to PRMS is mechanistically well-grounded. This is further supported by the landmark **Phase 3 RADIANCE Part B trial** (NCT02576717, n=2,494), which enrolled a broad relapsing MS population that encompassed PRMS subtypes, and by the real-world ORION study (n=9,000) currently generating long-term post-market safety data.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02576717](https://clinicaltrials.gov/study/NCT02576717) | Phase 3 | Completed | 2,494 | RADIANCE Part B: double-blind, double-dummy RCT of ozanimod vs. IFN-β1a in relapsing MS (including PRMS); provides the highest-level direct efficacy and safety evidence for ozanimod in this population |
-| [NCT05605782](https://clinicaltrials.gov/study/NCT05605782) | N/A | Active, Not Recruiting | 9,000 | ORION: large post-authorisation, real-world safety study comparing ozanimod vs. other S1P receptor modulators and non-S1P DMTs in RRMS; long-term adverse event surveillance through 2033 |
-| [NCT06396039](https://clinicaltrials.gov/study/NCT06396039) | Phase 4 | Active, Not Recruiting | 84 | Single-arm open-label Phase 4 study assessing ozanimod effectiveness and safety specifically in Chinese adults with relapsing MS; provides real-world complement to Phase 3 registration data |
-| [NCT05828901](https://clinicaltrials.gov/study/NCT05828901) | N/A | Recruiting | 60 | Observational study predicting disease activity and rebound risk in MS patients treated with S1P receptor modulators including ozanimod; directly relevant to stopping/switching risk management |
-| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | N/A | Active, Not Recruiting | 900 | TREAT-MS: pragmatic trial evaluating early aggressive therapy vs. escalation strategy in relapsing MS (n=900); contextualizes ozanimod's positioning within treatment algorithm |
-| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Phase 4 | Active, Not Recruiting | 800 | DELIVER-MS: compares early high-efficacy DMT vs. escalation in relapsing-remitting MS; findings applicable to ozanimod's therapeutic class and strategic placement |
-| [NCT04676204](https://clinicaltrials.gov/study/NCT04676204) | N/A | Enrolling by Invitation | 323 | STATURE: multi-site observational study measuring treatment burden and medication adherence across 6 oral DMTs including ozanimod; informs patient-centred prescribing decisions |
-| [NCT05688436](https://clinicaltrials.gov/study/NCT05688436) | N/A | Recruiting | 1,178 | Pregnancy outcomes registry for diroximel fumarate in MS; limited direct ozanimod relevance, but provides safety class context for oral DMTs in women of childbearing age |
+La SM progressivo-ricorrente (SMPR) è caratterizzata dal declino neurologico continuo dall'esordio della malattia con ricadute acute sovrapposte — condividendo lo stesso meccanismo di attacco infiammatorio della RRMS ma con patologia progressiva aggiuntiva. Poiché il meccanismo di ozanimod mira direttamente al percorso infiammatorio comune a tutti i fenotipi SM ricorrente, la sua applicabilità alla SMPR è ben fondata dal punto di vista meccanicistico. Ciò è ulteriormente supportato dalla storica **prova di fase 3 RADIANCE Parte B** (NCT02576717, n=2.494), che ha arruolato una popolazione SM ricorrente ampia che comprendeva sottotipi SMPR, e dallo studio ORION nel mondo reale (n=9.000) attualmente in corso di generazione di dati di sicurezza post-market a lungo termine.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network Meta-Analysis | Cochrane Database Syst Rev | Updated 2024 Cochrane NMA comparing immunomodulators and immunosuppressants for RRMS; establishes the relative efficacy hierarchy of approved DMTs including ozanimod |
-| [39254048](https://pubmed.ncbi.nlm.nih.gov/39254048/) | 2024 | Network Meta-Analysis | Cochrane Database Syst Rev | Cochrane NMA specifically for **progressive** MS; evaluates relative benefit and safety of immunomodulatory therapies in PMS — the most directly relevant systematic review for the PRMS indication |
-| [33287177](https://pubmed.ncbi.nlm.nih.gov/33287177/) | 2020 | Comprehensive Drug Review | Neurology International | Ozanimod-specific review covering disease background, S1P mechanism, Phase 2/3 trial efficacy data, and side-effect profile for relapsing MS |
-| [32059809](https://pubmed.ncbi.nlm.nih.gov/32059809/) | 2020 | Regulatory Review | Drugs | First-approval regulatory review of ozanimod (ZEPOSIA®); documents FDA/EMA approval scope, registrational trial results (RADIANCE, SUNFLOWER), and mechanistic basis |
-| [36946625](https://pubmed.ncbi.nlm.nih.gov/36946625/) | 2023 | Therapeutic Class Review | Expert Opin Pharmacother | Updated comparative review of S1PR modulators (fingolimod, siponimod, ozanimod, ponesimod); positions ozanimod within the class and summarizes its selectivity advantage |
-| [38162670](https://pubmed.ncbi.nlm.nih.gov/38162670/) | 2023 | Pharmacological Review | Frontiers in Immunology | Reviews CNS-bioavailable DMTs; discusses evidence for direct CNS penetration vs. peripheral-only action — directly relevant to the neuroprotection rationale for PRMS |
-| [33797705](https://pubmed.ncbi.nlm.nih.gov/33797705/) | 2021 | Drug Class Review | CNS Drugs | Reviews S1PR modulator class mechanism and clinical evidence from fingolimod to ozanimod; contextualizes ozanimod's S1PR1/5 selectivity and improved cardiac safety profile |
-| [37638037](https://pubmed.ncbi.nlm.nih.gov/37638037/) | 2023 | Preclinical Study | Frontiers in Immunology | Selective S1PR1/5 modulator shows beneficial effects in a CNS neurodegeneration model; provides preclinical mechanistic support for S1PR5 targeting in progressive MS neuroprotection |
-| [31598138](https://pubmed.ncbi.nlm.nih.gov/31598138/) | 2019 | Therapeutic Review | Ther Adv Neurol Disord | Reviews emerging therapeutic strategies for progressive MS including S1PR modulators; highlights the rationale for targeting compartmentalized CNS inflammation in PRMS |
-| [41919069](https://pubmed.ncbi.nlm.nih.gov/41919069/) | 2026 | Real-World Evidence | Ther Adv Neurol Disord | MSBase registry comparative effectiveness of anti-CD20 therapies vs. S1P receptor modulators in late-onset MS; provides 2026 real-world performance data relevant to S1PR modulator class |
+| Numero di studio | Fase | Stato | Arruolamento | Risultati principali |
+|------------------|------|-------|--------------|---------------------|
+| [NCT02576717](https://clinicaltrials.gov/study/NCT02576717) | Fase 3 | Completato | 2.494 | RADIANCE Parte B: RCT in doppio cieco, doppio-dummy di ozanimod vs. IFN-β1a in SM ricorrente (inclusa SMPR); fornisce l'evidenza di efficacia e sicurezza diretta di livello più elevato per ozanimod in questa popolazione |
+| [NCT05605782](https://clinicaltrials.gov/study/NCT05605782) | N/A | Attivo, non in corso di arruolamento | 9.000 | ORION: grande studio di sicurezza post-autorizzazione nel mondo reale che confronta ozanimod con altri modulatori del recettore S1P e DMT non-S1P in RRMS; sorveglianza degli eventi avversi a lungo termine fino al 2033 |
+| [NCT06396039](https://clinicaltrials.gov/study/NCT06396039) | Fase 4 | Attivo, non in corso di arruolamento | 84 | Studio di fase 4 in open-label a braccio singolo che valuta l'efficacia e la sicurezza di ozanimod specificamente negli adulti cinesi con SM ricorrente; fornisce un complemento nel mondo reale ai dati di registrazione di fase 3 |
+| [NCT05828901](https://clinicaltrials.gov/study/NCT05828901) | N/A | In corso di arruolamento | 60 | Studio osservazionale per prevedere l'attività della malattia e il rischio di rimbalzo nei pazienti affetti da SM trattati con modulatori del recettore S1P incluso ozanimod; direttamente rilevante per la gestione del rischio di interruzione/cambio |
+| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | N/A | Attivo, non in corso di arruolamento | 900 | TREAT-MS: studio pragmatico che valuta la terapia aggressiva precoce vs. strategia di escalation in SM ricorrente (n=900); contextualizza il posizionamento di ozanimod all'interno dell'algoritmo di trattamento |
+| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Fase 4 | Attivo, non in corso di arruolamento | 800 | DELIVER-MS: confronta la DMT ad alta efficacia precoce vs. escalation in SM ricorrente-remittente; i risultati sono applicabili alla classe terapeutica di ozanimod e al posizionamento strategico |
+| [NCT04676204](https://clinicaltrials.gov/study/NCT04676204) | N/A | Arruolamento su invito | 323 | STATURE: studio osservazionale multi-sito che misura il carico di trattamento e l'aderenza ai farmaci in 6 DMT orali incluso ozanimod; informa le decisioni di prescrizione incentrate sul paziente |
+| [NCT05688436](https://clinicaltrials.gov/study/NCT05688436) | N/A | In corso di arruolamento | 1.178 | Registro degli esiti della gravidanza per diroximel fumarato nella SM; rilevanza diretta limitata per ozanimod, ma fornisce il contesto di sicurezza della classe per i DMT orali nelle donne in età fertile |
 
 ---
 
-## Italy Market Information
+## Evidenza dalla letteratura
 
-No regulatory authorizations for ozanimod are currently on record in Italy per the available data (0 licenses, AIFA query returned no results).
-
-> **Note:** Ozanimod (ZEPOSIA®) holds EMA approval since May 2020 for relapsing forms of MS in adult patients. Local AIFA registration and reimbursement status should be independently confirmed via the official AIFA registry before any formulary or prescribing decisions.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|------|------|---------|---------------------|
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network Meta-Analisi | Cochrane Database Syst Rev | NMA Cochrane aggiornata 2024 che confronta immunomodulatori e immunosoppressori per RRMS; stabilisce la gerarchia di efficacia relativa dei DMT approvati incluso ozanimod |
+| [39254048](https://pubmed.ncbi.nlm.nih.gov/39254048/) | 2024 | Network Meta-Analisi | Cochrane Database Syst Rev | NMA Cochrane specificamente per **SM progressiva**; valuta il beneficio relativo e la sicurezza delle terapie immunomodulatorie in SM progressiva — la revisione sistematica più direttamente rilevante per l'indicazione SMPR |
+| [33287177](https://pubmed.ncbi.nlm.nih.gov/33287177/) | 2020 | Revisione completa del farmaco | Neurology International | Revisione specifica di ozanimod che copre il background della malattia, il meccanismo S1P, i dati di efficacia degli studi di fase 2/3, e il profilo degli effetti indesiderati per SM ricorrente |
+| [32059809](https://pubmed.ncbi.nlm.nih.gov/32059809/) | 2020 | Revisione normativa | Drugs | Revisione normativa della prima approvazione di ozanimod (ZEPOSIA®); documenta l'ambito di approvazione FDA/EMA, i risultati degli studi registrativi (RADIANCE, SUNFLOWER), e la base meccanicistica |
+| [36946625](https://pubmed.ncbi.nlm.nih.gov/36946625/) | 2023 | Revisione della classe terapeutica | Expert Opin Pharmacother | Revisione comparativa aggiornata dei modulatori S1PR (fingolimod, siponimod, ozanimod, ponesimod); posiziona ozanimod all'interno della classe e riassume il suo vantaggio di selettività |
+| [38162670](https://pubmed.ncbi.nlm.nih.gov/38162670/) | 2023 | Revisione farmacologica | Frontiers in Immunology | Rivede i DMT biodisponibili nel SNC; discute l'evidenza per la penetrazione diretta del SNC vs. l'azione solo periferica — direttamente rilevante alla razionale di neuroprotection per SMPR |
+| [33797705](https://pubmed.ncbi.nlm.nih.gov/33797705/) | 2021 | Revisione della classe di farmaci | CNS Drugs | Rivede il meccanismo della classe di modulatori S1PR e l'evidenza clinica da fingolimod a ozanimod; contextualizza la selettività S1PR1/5 di ozanimod e il profilo di sicurezza cardiaca migliorato |
+| [37638037](https://pubmed.ncbi.nlm.nih.gov/37638037/) | 2023 | Studio preclinico | Frontiers in Immunology | Il modulatore selettivo S1PR1/5 mostra effetti benefici in un modello di neurodegenerazione del SNC; fornisce supporto meccanicistico preclinico per il targeting di S1PR5 nella neuroprotection della SM progressiva |
+| [31598138](https://pubmed.ncbi.nlm.nih.gov/31598138/) | 2019 | Revisione terapeutica | Ther Adv Neurol Disord | Rivede le strategie terapeutiche emergenti per la SM progressiva inclusi i modulatori S1PR; evidenzia la razionale per il targeting dell'infiammazione compartimentalizzata del SNC in SMPR |
+| [41919069](https://pubmed.ncbi.nlm.nih.gov/41919069/) | 2026 | Evidenza nel mondo reale | Ther Adv Neurol Disord | Registro MSBase di efficacia comparativa delle terapie anti-CD20 vs. modulatori del recettore S1P nella SM ad esordio tardivo; fornisce dati di performance nel mondo reale del 2026 rilevanti per la classe di modulatori S1PR |
 
 ---
 
-## Safety Considerations
+## Informazioni sul mercato italiano
 
-Please refer to the package insert for safety information.
+Nessuna autorizzazione normativa per ozanimod è attualmente registrata in Italia secondo i dati disponibili (0 licenze, la query AIFA non ha restituito risultati).
 
-> **Note:** Formal safety data (key warnings, contraindications, drug-drug interactions) was not retrievable from the queried sources at the time of this report. As a class effect, S1P receptor modulators are associated with bradycardia/atrioventricular block at initiation, macular oedema, elevated liver enzymes, and increased risk of infections. Prescribers should consult the official ZEPOSIA® Summary of Product Characteristics (SmPC) for complete guidance before initiating therapy.
+> **Nota:** Ozanimod (ZEPOSIA®) detiene l'approvazione EMA dal maggio 2020 per le forme ricorrenti di SM nei pazienti adulti. Lo stato di registrazione AIFA locale e lo stato di rimborso dovrebbero essere confermati indipendentemente tramite il registro AIFA ufficiale prima di qualsiasi decisione di formulario o di prescrizione.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
 
-**Rationale:**
-The completed Phase 3 RADIANCE Part B trial (n=2,494) and the large ongoing real-world ORION safety cohort (n=9,000) provide L1-level evidence for ozanimod in relapsing MS including the PRMS subtype, with mechanistic plausibility strongly supported by the dual S1PR1/5 selectivity profile. The TxGNN model score of 99.34% further corroborates the biological signal, and the 2024 Cochrane NMA for progressive MS provides a rigorous systematic evidence base.
+> **Nota:** I dati formali di sicurezza (avvertenze chiave, controindicazioni, interazioni farmacologiche) non erano recuperabili dalle fonti interrogate al momento di questo rapporto. Come effetto di classe, i modulatori del recettore S1P sono associati a bradicardia/blocco atrioventricolare all'inizio, edema maculare, elevati enzimi epatici, e aumento del rischio di infezioni. I prescrittori dovrebbero consultare il Riassunto ufficiale delle Caratteristiche del Prodotto (RCP) di ZEPOSIA® per una guida completa prima di iniziare la terapia.
 
-**To proceed, the following is needed:**
-- Obtain the full ZEPOSIA® SmPC / package insert to complete warnings, contraindications, and drug interaction review (currently a blocking data gap)
-- Confirm current AIFA registration and reimbursement eligibility via the official AIFA database
-- Establish a cardiac monitoring protocol (ECG pre-dose, 6-hour first-dose observation) per class requirements for S1PR modulators
-- Define an ophthalmologic monitoring schedule for macular oedema risk (baseline exam + follow-up at 3–4 months)
-- Confirm hepatic function monitoring plan given S1PR modulator hepatotoxicity signals (LFTs at baseline and periodically)
-- Clarify patient subgroup criteria distinguishing PRMS from RRMS and active SPMS to define the intended clinical implementation population
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Procedere con Presidi**
+
+**Razionale:**
+La prova di fase 3 RADIANCE Parte B completata (n=2.494) e la grande coorte di sicurezza ORION nel mondo reale in corso (n=9.000) forniscono evidenza di livello L1 per ozanimod nella SM ricorrente incluso il sottotipo SMPR, con plausibilità meccanicistica fortemente supportata dal profilo di doppia selettività S1PR1/5. Il punteggio del modello TxGNN di 99,34% corrobora ulteriormente il segnale biologico, e la NMA Cochrane del 2024 per la SM progressiva fornisce una base di evidenza sistematica rigorosa.
+
+**Per procedere, è necessario quanto segue:**
+- Ottenere il RCP/foglio illustrativo completo di ZEPOSIA® per completare la revisione di avvertenze, controindicazioni e interazioni farmacologiche (attualmente un gap di dati che blocca)
+- Confermare la registrazione AIFA attuale e l'idoneità al rimborso tramite il database AIFA ufficiale
+- Stabilire un protocollo di monitoraggio cardiaco (ECG pre-dose, osservazione 6 ore alla prima dose) secondo i requisiti di classe per i modulatori S1PR
+- Definire un programma di monitoraggio oftalmologico per il rischio di edema maculare (esame baseline + follow-up a 3–4 mesi)
+- Confermare il piano di monitoraggio della funzione epatica dato i segnali di epatotossicità dei modulatori S1PR (test di funzionalità epatica al baseline e periodicamente)
+- Chiarire i criteri di sottogruppo di pazienti che distinguono la SMPR da RRMS e SPMS attiva per definire la popolazione di implementazione clinica prevista
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

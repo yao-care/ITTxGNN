@@ -29,108 +29,105 @@ Livello di evidenza: **L2** | Indicazioni previste: **8**
 
 </div>
 
-The txgnn-pipeline skill covers pipeline operations and deployment rather than report generation — the detailed report format instructions in this session's system prompt take full precedence. Proceeding with the report now.
+# Regorafenib: Dal cancro colorettale / GIST al liposaracoma
+
+## Sintesi in una Frase
+
+Regorafenib (Stivarga®) è un inibitore multitirosinico orale approvato in più mercati principali (FDA, EMA) per il cancro colorettale metastatico, il tumore stromale gastrointestinale (GIST) refrattario e l'epatocarcinoma, anche se attualmente non è registrato in Italia.
+Il modello TxGNN prevede che possa essere efficace per il **liposaracoma**, un sottotipo di sarcoma dei tessuti molli, con un punteggio di previsione di **99.76%**.
+Questa direzione è supportata da **2 studi clinici di Fase 2 completati** che includono specificamente coorti di liposaracoma e **9 pubblicazioni**, ponendo l'evidenza complessiva al livello L2.
 
 ---
 
-# Regorafenib: From Colorectal Cancer / GIST to Liposarcoma
+## Panoramica Veloce
 
-## One-Sentence Summary
-
-Regorafenib (Stivarga®) is an oral multikinase inhibitor approved in multiple major markets (FDA, EMA) for metastatic colorectal cancer, refractory gastrointestinal stromal tumour (GIST), and hepatocellular carcinoma, though it is not currently registered in Italy.
-The TxGNN model predicts it may be effective for **Liposarcoma**, a subtype of soft tissue sarcoma, with a prediction score of **99.76%**.
-This direction is supported by **2 completed Phase 2 clinical trials** specifically including liposarcoma cohorts and **9 publications**, placing the overall evidence at Level L2.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not registered in Italy; globally approved for metastatic colorectal cancer, refractory GIST, and hepatocellular carcinoma |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L2 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Elemento | Contenuto |
+|----------|----------|
+| Indicazione Originaria | Non registrato in Italia; approvato a livello mondiale per il cancro colorettale metastatico, il GIST refrattario e l'epatocarcinoma |
+| Indicazione Predetta Nuova | Liposaracoma |
+| Punteggio di Previsione TxGNN | 99.76% |
+| Livello di Evidenza | L2 |
+| Stato di Mercato in Italia | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Regorafenib is an oral multikinase inhibitor that broadly targets angiogenic kinases (VEGFR1–3, TIE2), stromal kinases (PDGFR-β, FGFR), and oncogenic kinases (KIT, RET, RAF). Its established efficacy in colorectal cancer, GIST, and HCC all rely on blocking tumour vascular dependence — a mechanism shared across many solid tumour types. Detailed mechanistic data was not available from the regulatory database for this report; however, the target profile is extensively described in published literature (e.g., PMID 30069758, 24756792).
+Regorafenib è un inibitore multitirosinico orale che colpisce in senso ampio le chinasi angiogeniche (VEGFR1–3, TIE2), le chinasi stromali (PDGFR-β, FGFR) e le chinasi oncogeniche (KIT, RET, RAF). La sua efficacia consolidata nel cancro colorettale, nel GIST e nell'HCC si basano tutti sul blocco della dipendenza vascolare tumorale — un meccanismo condiviso in molti tipi di tumore solido. I dati meccanicistici dettagliati non erano disponibili dal database normativo per questo rapporto; tuttavia, il profilo target è ampiamente descritto nella letteratura pubblicata (ad es., PMID 30069758, 24756792).
 
-Liposarcoma belongs to the soft tissue sarcoma (STS) family and its tumour microenvironment is heavily driven by VEGFR/PDGFR-mediated angiogenesis, particularly in the dedifferentiated subtype where MDM2/CDK4 amplification co-exists with active angiogenic signalling. Regorafenib's simultaneous blockade of VEGFR1–3 and PDGFR-β provides a biologically plausible mechanism for anti-tumour activity, especially in dedifferentiated liposarcoma with high angiogenic burden.
+Il liposaracoma appartiene alla famiglia dei sarcomi dei tessuti molli (STS) e il suo microambiente tumorale è fortemente guidato dall'angiogenesi mediata da VEGFR/PDGFR, in particolare nel sottotipo indifferenziato dove l'amplificazione di MDM2/CDK4 coesiste con una segnalazione angiogenica attiva. Il blocco simultaneo di VEGFR1–3 e PDGFR-β da parte di regorafenib fornisce un meccanismo biologicamente plausibile per l'attività antitumorale, specialmente nel liposaracoma indifferenziato con alto carico angiogenico.
 
-The most critical context, however, is that two randomized Phase 2 trials — REGOSARC (NCT01900743) and SARC024 (NCT02048371) — directly tested regorafenib in liposarcoma-specific cohorts. Both confirmed limited activity in the *broad* liposarcoma population: the REGOSARC trial demonstrated significant PFS improvement in non-adipocytic STS subtypes (leiomyosarcoma, synovial sarcoma) but not in the liposarcoma cohort; SARC024 similarly did not support routine use in liposarcoma overall. These findings suggest that while a biologically rational subpopulation may exist, patient selection criteria or combination strategies will be essential to realising clinical benefit.
+Il contesto più critico, tuttavia, è che due studi randomizzati di Fase 2 — REGOSARC (NCT01900743) e SARC024 (NCT02048371) — hanno testato direttamente regorafenib in coorti specifiche di liposaracoma. Entrambi hanno confermato un'attività limitata nella popolazione *ampia* di liposaracoma: lo studio REGOSARC ha dimostrato un significativo miglioramento della PFS nei sottotipi di STS non adipocitici (leiomiosarcoma, sarcoma sinoviale) ma non nella coorte di liposaracoma; SARC024 allo stesso modo non ha supportato l'uso routinario nel liposaracoma nel complesso. Questi risultati suggeriscono che sebbene possa esistere una sottopopolazione biologicamente razionale, i criteri di selezione dei pazienti o le strategie di combinazione saranno essenziali per realizzare il beneficio clinico.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da Studi Clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di Studio | Fase | Stato | Arruolamento | Risultati Chiave |
 |---------|------|------|------|---------|
-| [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | Phase 2 | Completed | 219 | REGOSARC: International, randomised, double-blind, placebo-controlled trial of regorafenib vs placebo in metastatic/unresectable STS after anthracycline failure. Includes a dedicated Liposarcoma cohort (Cohort A). Significant PFS improvement confirmed in non-adipocytic subtypes; liposarcoma cohort showed a trend but did not reach statistical significance (primary results: PMID 27751846). |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | SARC024: Umbrella Phase 2 study of oral regorafenib across multiple sarcoma subtypes, each analysed independently. The liposarcoma cohort results (PMID 32701199) did not support routine use of regorafenib in this population; the authors conclude that novel therapies or combination approaches are warranted given limited treatment options. |
+| [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | Fase 2 | Completato | 219 | REGOSARC: studio internazionale, randomizzato, in doppio cieco, controllato con placebo di regorafenib vs placebo in STS metastatico/non resecabile dopo fallimento dell'antraciclina. Include una coorte dedicata di liposaracoma (Coorte A). Miglioramento significativo della PFS confermato nei sottotipi non adipocitici; la coorte di liposaracoma ha mostrato un trend ma non ha raggiunto la significatività statistica (risultati primari: PMID 27751846). |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Fase 2 | Completato | 131 | SARC024: studio ombrello di Fase 2 di regorafenib orale tra molteplici sottotipi di sarcoma, ognuno analizzato indipendentemente. I risultati della coorte di liposaracoma (PMID 32701199) non hanno supportato l'uso routinario di regorafenib in questa popolazione; gli autori concludono che nuove terapie o approcci di combinazione sono giustificati data la scarsità di opzioni terapeutiche. |
 
 ---
 
-## Literature Evidence
+## Evidenza da Letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati Chiave |
 |------|------|------|---------|---------|
-| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | Randomized Phase 2 RCT | *The Lancet Oncology* | REGOSARC primary results: Regorafenib significantly improved PFS over placebo in non-adipocytic STS (leiomyosarcoma, synovial sarcoma, other subtypes); liposarcoma cohort did not meet the primary endpoint. Establishes differential activity by histological subtype. |
-| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | Randomized Phase 2 RCT | *The Oncologist* | SARC024 liposarcoma cohort: Confirms REGOSARC findings — regorafenib does not support routine use in the broad liposarcoma population. Emphasises need for novel therapies and combination approaches. |
-| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | Phase 2 Cross-over Analysis | *European Journal of Cancer* | Updated REGOSARC analysis including post-cross-over regorafenib activity: confirmed efficacy in non-adipocytic STS; liposarcoma (adipocytic) remains a subgroup without significant benefit. Provides long-term follow-up data. |
-| [33290314](https://pubmed.ncbi.nlm.nih.gov/33290314/) | 2021 | Retrospective Study | *Anti-Cancer Drugs* | Anlotinib in unresectable/metastatic well-differentiated/dedifferentiated liposarcoma. References that TKIs including regorafenib are approved in non-adipocytic STS, contextualising the class of agents in this disease and the unmet need in the adipocytic subtypes. |
-| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Systematic Review | *Critical Reviews in Oncology/Hematology* | Systematic review of maintenance therapy strategies in advanced STS. Reviews eight randomized trials including regorafenib-based approaches, contextualising its role within the overall STS treatment landscape post-first-line doxorubicin. |
-| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | Phase 2 Secondary Analysis | *Cancer* | Q-TWiST analysis of REGOSARC: Integrated measure of clinical benefit (progression-free time + quality of life − toxicity time) in non-adipocytic sarcoma. Supports net clinical benefit of regorafenib when QoL and toxicity are factored in alongside PFS. |
-| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Narrative Review | *Targeted Oncology* | Comprehensive review of regorafenib's growing role across STS subtypes (liposarcoma, leiomyosarcoma, GIST). Summarises Phase 2/3 trial data and discusses the varying activity by histological subtype. |
-| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Trial Protocol | *BMC Cancer* | REGOSARC protocol paper: describes scientific rationale (angiogenesis as a key target in sarcoma biology), study design, stratification by histological subtype, and primary/secondary endpoints. Useful for understanding the trial's a priori hypotheses. |
-| [26266019](https://pubmed.ncbi.nlm.nih.gov/26266019/) | 2015 | Case Series (Indirect) | *Rare Tumors* | Pazopanib activity in metastatic Ewing sarcoma; provided the clinical rationale for expanding the SARC024 umbrella to include Ewing sarcoma alongside liposarcoma and osteosarcoma. Indirect reference supporting TKI class rationale in sarcoma. |
+| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT di Fase 2 Randomizzato | *The Lancet Oncology* | Risultati primari REGOSARC: Regorafenib ha significativamente migliorato la PFS rispetto al placebo negli STS non adipocitici (leiomiosarcoma, sarcoma sinoviale, altri sottotipi); la coorte di liposaracoma non ha raggiunto l'endpoint primario. Stabilisce un'attività differenziale per sottotipo istologico. |
+| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT di Fase 2 Randomizzato | *The Oncologist* | Coorte di liposaracoma SARC024: Conferma i risultati REGOSARC — regorafenib non supporta l'uso routinario nella popolazione ampia di liposaracoma. Sottolinea la necessità di nuove terapie e approcci di combinazione. |
+| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | Analisi Cross-over di Fase 2 | *European Journal of Cancer* | Analisi aggiornata di REGOSARC incluso l'attività di regorafenib post-cross-over: efficacia confermata negli STS non adipocitici; il liposaracoma (adipocitico) rimane un sottogruppo senza beneficio significativo. Fornisce dati di follow-up a lungo termine. |
+| [33290314](https://pubmed.ncbi.nlm.nih.gov/33290314/) | 2021 | Studio Retrospettivo | *Anti-Cancer Drugs* | Anlotinib nel liposaracoma ben differenziato/indifferenziato non resecabile/metastatico. Riferisce che i TKI incluso regorafenib sono approvati negli STS non adipocitici, contestualizzando la classe di agenti in questa malattia e il bisogno non soddisfatto nei sottotipi adipocitici. |
+| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Revisione Sistematica | *Critical Reviews in Oncology/Hematology* | Revisione sistematica delle strategie di terapia di mantenimento negli STS avanzati. Esamina otto studi randomizzati inclusi gli approcci basati su regorafenib, contestualizzando il suo ruolo nel panorama generale del trattamento degli STS post-prima linea di doxorubicina. |
+| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | Analisi Secondaria di Fase 2 | *Cancer* | Analisi Q-TWiST di REGOSARC: misura integrata del beneficio clinico (tempo libero da progressione + qualità della vita − tempo di tossicità) nel sarcoma non adipocitico. Supporta il beneficio clinico netto di regorafenib quando la QoL e la tossicità sono considerate insieme alla PFS. |
+| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Revisione Narrativa | *Targeted Oncology* | Revisione completa del ruolo crescente di regorafenib tra i sottotipi di STS (liposaracoma, leiomiosarcoma, GIST). Riassume i dati degli studi di Fase 2/3 e discute l'attività variabile per sottotipo istologico. |
+| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Protocollo di Studio | *BMC Cancer* | Articolo del protocollo REGOSARC: descrive la logica scientifica (l'angiogenesi come target chiave nella biologia dei sarcomi), il design dello studio, la stratificazione per sottotipo istologico e gli endpoint primari/secondari. Utile per comprendere le ipotesi a priori dello studio. |
+| [26266019](https://pubmed.ncbi.nlm.nih.gov/26266019/) | 2015 | Serie di Casi (Indiretta) | *Rare Tumors* | Attività di pazopanib nel sarcoma di Ewing metastatico; ha fornito la logica clinica per espandere l'ombrello SARC024 per includere il sarcoma di Ewing insieme al liposaracoma e all'osteosarcoma. Riferimento indiretto che supporta la logica della classe TKI nel sarcoma. |
 
 ---
 
-## Italy Market Information
+## Informazioni di Mercato in Italia
 
-Regorafenib is **not currently registered in Italy (AIFA)**. No marketing authorizations were identified in the regulatory search conducted on 2026-03-29.
+Regorafenib **non è attualmente registrato in Italia (AIFA)**. Non sono state identificate autorizzazioni al commercio nella ricerca normativa condotta il 2026-03-29.
 
-> **Note:** Regorafenib (Stivarga®) holds marketing authorizations in other major regulatory jurisdictions, including the US (FDA, approved 2012 for mCRC; 2013 for GIST; 2017 for HCC) and the EU (EMA). Any compassionate use or named-patient access in Italy would need to follow AIFA's relevant provisions (e.g., Law 648/1996 or Article 3 of Law 79/2014).
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Multikinase Inhibitor (VEGFR/PDGFR/RAF/KIT/RET/FGFR inhibitor); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low to moderate — thrombocytopenia and neutropenia are reported adverse events, but myelosuppression is generally less severe than with conventional cytotoxic chemotherapy |
-| Emetogenicity Classification | Low — oral targeted therapy; nausea occurs but high-grade emesis is uncommon |
-| Monitoring Items | Complete blood count (with differential and platelets), liver function tests (ALT, AST, bilirubin, alkaline phosphatase), serum creatinine, blood pressure, thyroid function, urinalysis for protein |
-| Handling Protection | Follow institutional protocols for oral cytotoxic/targeted agent handling; standard precautions for preparation and disposal apply |
+> **Nota:** Regorafenib (Stivarga®) detiene autorizzazioni al commercio in altre principali giurisdizioni normative, inclusi gli USA (FDA, approvato nel 2012 per mCRC; 2013 per il GIST; 2017 per l'HCC) e l'UE (EMA). Qualsiasi uso compassionevole o accesso per pazienti nominativi in Italia dovrebbe seguire le relative disposizioni dell'AIFA (ad es., Legge 648/1996 o Articolo 3 della Legge 79/2014).
 
 ---
 
-## Safety Considerations
+## Citotossicità
 
-Please refer to the package insert for safety information.
+| Elemento | Contenuto |
+|----------|----------|
+| Classificazione Citotossicità | Terapia mirata — Inibitore Multitirosinico (inibitore VEGFR/PDGFR/RAF/KIT/RET/FGFR); non un agente citotossico convenzionale |
+| Rischio di Mielosoppressione | Da basso a moderato — trombocitopenia e neutropenia sono eventi avversi segnalati, ma la mielosoppressione è generalmente meno grave rispetto alla chemioterapia citotossica convenzionale |
+| Classificazione Emetogenicità | Bassa — terapia orale mirata; la nausea si verifica ma l'emesi di alto grado è rara |
+| Elementi di Monitoraggio | Conta ematica completa (con differenziale e piastrine), test della funzionalità epatica (ALT, AST, bilirubina, fosfatasi alcalina), creatinina sierica, pressione arteriosa, funzione tiroidea, analisi delle urine per proteine |
+| Protezione della Manipolazione | Seguire i protocolli istituzionali per la manipolazione di agenti citotossici/mirati per via orale; si applicano le precauzioni standard per la preparazione e lo smaltimento |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
 
-**Rationale:**
-Two completed, randomised Phase 2 trials (REGOSARC and SARC024) have directly investigated regorafenib in liposarcoma-specific cohorts, establishing an L2 evidence base. However, both trials showed that regorafenib does not provide significant benefit in the *broad* liposarcoma population — the effect is concentrated in non-adipocytic STS subtypes. Biological plausibility is genuine (VEGFR/PDGFR pathway dependence in dedifferentiated liposarcoma), but clinical development should target molecularly enriched subgroups rather than unselected patients.
+---
 
-**To proceed, the following is needed:**
-- **Mechanistic data (MOA):** Obtain from DrugBank API or Italy package insert to confirm kinase target profile relevant to liposarcoma biology
-- **Safety documentation:** Retrieve Italy/EMA package insert for complete warnings, contraindications, and drug interaction data; AIFA access pathway assessment
-- **Patient selection criteria:** Identify biomarker-defined subgroups in dedifferentiated liposarcoma (e.g., high angiogenic gene signature, VEGFR/PDGFR expression) most likely to respond to multikinase inhibition
-- **Combination strategy exploration:** Evaluate regorafenib + immunotherapy (PD-1/L1) or CDK4/6 inhibition combinations in dedifferentiated liposarcoma, where single-agent VEGFR targeting showed insufficient activity
-- **Regulatory pathway:** Define a compassionate use or named-patient access strategy under AIFA provisions given absence of Italian registration
+## Conclusione e Prossimi Passi
+
+**Decisione: Procedere con Cautele**
+
+**Logica:**
+Due studi di Fase 2 completati e randomizzati (REGOSARC e SARC024) hanno indagato direttamente regorafenib in coorti specifiche di liposaracoma, stabilendo una base di evidenza L2. Tuttavia, entrambi gli studi hanno mostrato che regorafenib non fornisce beneficio significativo nella popolazione *ampia* di liposaracoma — l'effetto è concentrato nei sottotipi di STS non adipocitici. La plausibilità biologica è genuina (dipendenza dalla via VEGFR/PDGFR nel liposaracoma indifferenziato), ma lo sviluppo clinico dovrebbe indirizzarsi verso sottogruppi arricchiti molecolarmente piuttosto che pazienti non selezionati.
+
+**Per procedere, è necessario quanto segue:**
+- **Dati meccanicistici (MOA):** Ottenere dall'API di DrugBank o dal foglio illustrativo italiano per confermare il profilo target di chinasi rilevante per la biologia del liposaracoma
+- **Documentazione di sicurezza:** Recuperare il foglio illustrativo italiano/EMA per avvertimenti completi, controindicazioni e dati di interazione farmacologica; valutazione del percorso di accesso AIFA
+- **Criteri di selezione dei pazienti:** Identificare sottogruppi definiti da biomarcatori nel liposaracoma indifferenziato (ad es., firma genica angiogenica elevata, espressione VEGFR/PDGFR) più probabili di rispondere all'inibizione multitirosinica
+- **Esplorazione della strategia di combinazione:** Valutare combinazioni di regorafenib + immunoterapia (PD-1/L1) o inibizione CDK4/6 nel liposaracoma indifferenziato, dove il targeting singolo di VEGFR ha mostrato un'attività insufficiente
+- **Percorso normativo:** Definire una strategia di uso compassionevole o accesso per pazienti nominativi secondo le disposizioni dell'AIFA data l'assenza di registrazione italiana
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

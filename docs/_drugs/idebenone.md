@@ -29,80 +29,77 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-Using the `txgnn-pipeline` skill confirmed this is a standard TxGNN report generation task. Now I'll generate the evaluation report based on the Evidence Pack.
+# Idebenone: Dalla Neuropatia Ottica Ereditaria di Leber alla Porfiria Epatica
+
+## Riassunto in una frase
+
+Idebenone è un analogo sintetico del coenzima Q10 (ubichinone) con potenti proprietà antiossidanti e di supporto mitocondriale, noto in alcuni mercati per l'uso approvato nella Neuropatia Ottica Ereditaria di Leber (LHON). Il modello TxGNN predice che potrebbe essere efficace per la **Porfiria Epatica** con un punteggio del **99.92%**. Tuttavia, questa previsione è attualmente supportata da **nessuna sperimentazione clinica e nessuna letteratura pubblicata**, collocandola al Livello di Evidenza L5.
 
 ---
 
-# Idebenone: From Leber's Hereditary Optic Neuropathy to Hepatic Porphyria
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Idebenone is a synthetic coenzyme Q10 analogue with potent antioxidant and mitochondrial-support properties, known in certain markets for its approved use in Leber's Hereditary Optic Neuropathy (LHON). The TxGNN model predicts it may be effective for **Hepatic Porphyria** with a score of **99.92%**. However, this prediction is currently supported by **no clinical trials and no published literature**, placing it at the earliest stage of evidence (L5).
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Voce | Contenuto |
 |------|---------|
-| Original Indication | Not registered in Taiwan; known approved use for LHON in other markets |
-| Predicted New Indication | Hepatic Porphyria |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 (Model prediction only, no actual studies) |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione originaria | Non registrato a Taiwan; uso approvato noto per LHON in altri mercati |
+| Indicazione prevista nuova | Porfiria Epatica |
+| Punteggio di previsione TxGNN | 99.92% |
+| Livello di evidenza | L5 (solo previsione del modello, nessuno studio effettivo) |
+| Stato di mercato Italia | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Idebenone is a synthetic analogue of coenzyme Q10 (ubiquinone) that functions as a potent free radical scavenger and supports mitochondrial electron transport chain function. Its established use in LHON — a mitochondrial disease causing retinal ganglion cell death from oxidative damage — demonstrates a proven protective effect in oxidative-stress-driven tissue injury.
+Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni farmacologiche note, l'Idebenone è un analogo sintetico del coenzima Q10 (ubichinone) che funziona come un potente captatore di radicali liberi e supporta la funzione della catena di trasporto degli elettroni mitocondriale. Il suo uso consolidato nella LHON — una malattia mitocondriale che causa la morte delle cellule gangliari retiniche a causa del danno ossidativo — dimostra un effetto protettivo comprovato nel danno tissutale causato da stress ossidativo.
 
-Hepatic porphyria is a group of disorders arising from enzyme defects in the heme biosynthesis pathway, causing toxic porphyrin intermediates to accumulate in the liver. Oxidative stress is a recognized secondary pathogenic mechanism in this condition: accumulated porphyrins act as photosensitizers that generate reactive oxygen species (ROS), directly injuring hepatocytes. Idebenone's free radical scavenging capability could theoretically reduce this oxidative burden and limit secondary hepatocellular toxicity — a hypothesis that is biologically plausible but mechanistically indirect, since Idebenone does not address the root enzyme deficiency.
+La porfiria epatica è un gruppo di disturbi derivanti da difetti enzimatici nel percorso della biosintesi dell'eme, che causano l'accumulo di intermedi della porfirina tossici nel fegato. Lo stress ossidativo è un meccanismo patogenetico secondario riconosciuto in questa condizione: le porfirine accumulate agiscono come fotosensibilizzanti che generano specie reattive dell'ossigeno (ROS), causando direttamente lesioni agli epatociti. La capacità di captazione dei radicali liberi dell'Idebenone potrebbe teoricamente ridurre questo carico ossidativo e limitare la tossicità epatocellulare secondaria — un'ipotesi biologicamente plausibile ma meccanicisticamente indiretta, poiché l'Idebenone non affronta il difetto enzimatico di base.
 
-It is important to note that this mechanistic link is weak. Idebenone's potential role in porphyria, if any, would be as an adjunctive antioxidant rather than a disease-modifying agent. The TxGNN high prediction score likely reflects knowledge graph proximity between oxidative-stress-related rare liver diseases, rather than Idebenone-specific pharmacology against porphyria. This prediction is best treated as a research hypothesis at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+È importante notare che questo collegamento meccanicistico è debole. Il potenziale ruolo dell'Idebenone nella porfiria, se esistesse, sarebbe come agente antiossidante adiuvante piuttosto che come agente che modifica la malattia. L'elevato punteggio di previsione di TxGNN riflette probabilmente la prossimità nel grafo della conoscenza tra malattie epatiche rare correlate allo stress ossidativo, piuttosto che la farmacologia specifica dell'Idebenone contro la porfiria. Questa previsione è meglio considerata come un'ipotesi di ricerca in questa fase.
 
 ---
 
-## Literature Evidence
+## Prova di sperimentazione clinica
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-Idebenone has no registered product authorizations. No license data is available for this market.
+Attualmente nessuna sperimentazione clinica correlata registrata.
 
 ---
 
-## Safety Considerations
+## Prova della letteratura
 
-Please refer to the package insert for safety information.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato Italia
 
-**Decision: Hold**
+L'Idebenone non ha autorizzazioni di prodotto registrate. Nessun dato di licenza è disponibile per questo mercato.
 
-**Rationale:**
-All 10 predicted indications for Idebenone sit at Evidence Level L5, supported exclusively by TxGNN model scores with zero clinical trials and zero published literature across every queried disease. The top prediction (hepatic porphyria) carries a biologically plausible but mechanistically indirect hypothesis that has not been tested in any preclinical or clinical setting. The drug is not registered in Taiwan, and complete safety profile data (warnings, contraindications, DDI) is currently unavailable — making it impossible to advance even to an initial safety screen.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni sulla sicurezza
 
-- Retrieve full MOA documentation from DrugBank or peer-reviewed sources
-- Obtain package insert data (warnings, contraindications) from a market where Idebenone is approved (e.g., EU/Raxone label for LHON)
-- Conduct a targeted preclinical literature search for Idebenone in oxidative-stress-driven liver injury models (e.g., heme/porphyrin-induced hepatotoxicity)
-- Consult a rare disease specialist or clinical pharmacologist to assess whether the antioxidant hypothesis merits a formal in vitro study in porphyria cell models
-- Re-evaluate the remaining 9 predicted indications to identify whether any disease sub-group (particularly the myopathy cluster: IMNM, antisynthetase syndrome, focal myositis) offers a stronger mechanistic and evidence basis for parallel development
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+Tutte le 10 indicazioni previste per l'Idebenone si collocano al Livello di Evidenza L5, supportate esclusivamente da punteggi del modello TxGNN senza alcuna sperimentazione clinica e letteratura pubblicata per tutte le malattie interrogate. La previsione principale (porfiria epatica) propone un'ipotesi biologicamente plausibile ma meccanicisticamente indiretta che non è stata testata in nessun contesto preclinico o clinico. Il farmaco non è registrato a Taiwan e i dati completi del profilo di sicurezza (avvertenze, controindicazioni, DDI) attualmente non sono disponibili — impedendo persino una valutazione iniziale della sicurezza.
+
+**Per procedere, è necessario quanto segue:**
+
+- Recuperare la documentazione completa del meccanismo d'azione da DrugBank o fonti peer-reviewed
+- Ottenere i dati del foglio illustrativo (avvertenze, controindicazioni) da un mercato dove l'Idebenone è approvato (ad es., etichetta EU/Raxone per LHON)
+- Condurre una ricerca mirata della letteratura preclinica per l'Idebenone in modelli di danno epatico indotto dallo stress ossidativo (ad es., epatotossicità indotta da eme/porfirina)
+- Consultare uno specialista di malattie rare o un farmacologo clinico per valutare se l'ipotesi antiossidante merita uno studio formale in vitro in modelli cellulari di porfiria
+- Re-valutare le 9 indicazioni previste rimanenti per identificare se un sottogruppo di malattia (in particolare il cluster di miopatia: IMNM, sindrome antisintasi, miosite focale) offre una base meccanicistica e di prova più forte per lo sviluppo parallelo
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,101 +29,102 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Progesterone: From Hormone Replacement Therapy to Amenorrhea
+# Progesterone: dalla terapia ormonale sostitutiva all'amenorrea
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Progesterone is a natural endogenous steroid hormone foundational to female reproductive physiology, widely used in reproductive medicine for luteal phase support, hormone replacement therapy, and menstrual cycle regulation.
-The TxGNN model predicts it may be effective for **Amenorrhea (disease)** — the clinical absence of menstruation — with **multiple completed Phase 3 clinical trials** and **18 publications** currently supporting this direction.
-Given that progesterone is the central hormonal driver of the menstrual cycle, this prediction represents one of the most mechanistically direct and evidence-supported repurposing candidates in the dataset.
+Progesterone è un ormone steroideo endogeno naturale fondamentale per la fisiologia riproduttiva femminile, ampiamente utilizzato in medicina riproduttiva per il supporto della fase luteale, la terapia ormonale sostitutiva e la regolazione del ciclo mestruale.
+Il modello TxGNN prevede che possa essere efficace per **Amenorrea (malattia)** — l'assenza clinica della mestruazione — con **molteplici studi clinici di Fase 3 completati** e **18 pubblicazioni** che supportano attualmente questa direzione.
+Dato che progesterone è l'ormone centrale del ciclo mestruale, questa previsione rappresenta uno dei candidati al riposizionamento più diretto dal punto di vista meccanicistico e supportato da prove nel dataset.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | None (no marketing authorization recorded in Italy) |
-| Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.9996% |
-| Evidence Level | L1 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Indicazione originale | Nessuna (nessuna autorizzazione di commercializzazione registrata in Italia) |
+| Nuova indicazione prevista | Amenorrea (malattia) |
+| Punteggio di previsione TxGNN | 99.9996% |
+| Livello di evidenza | L1 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Proseguire con salvaguardie |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available from the DrugBank source. Based on known pharmacological and clinical information, Progesterone (DB00396) is the principal endogenous progestogen of the female reproductive system, produced by the corpus luteum following ovulation. Its relationship to amenorrhea is not merely plausible — it is mechanistically direct: amenorrhea is fundamentally a state of failed or absent progesterone cycling.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dalla fonte DrugBank. Sulla base delle informazioni farmacologiche e cliniche note, Progesterone (DB00396) è il principale progestinico endogeno del sistema riproduttivo femminile, prodotto dal corpo luteo dopo l'ovulazione. La sua relazione con l'amenorrea non è meramente plausibile — è direttamente meccanicistica: l'amenorrea è fondamentalmente uno stato di ciclo di progesterone mancato o assente.
 
-The **Progestogen Challenge Test (PCT)** is the internationally accepted first diagnostic step in evaluating secondary amenorrhea. A clinician administers a short course of exogenous progesterone and observes whether withdrawal bleeding occurs; a positive response confirms an intact, estrogen-primed endometrium and locates the cause to hypothalamic-pituitary-ovarian axis dysfunction rather than structural outflow obstruction. This diagnostic use is itself a therapeutic mechanism — in anovulatory patients (such as those with PCOS or functional hypothalamic amenorrhea), a single progesterone course induces menstruation.
+Il **Test di stimolazione con progesterone (PCT)** è il primo passo diagnostico internazionalmente accettato nella valutazione dell'amenorrea secondaria. Un clinico somministra un breve ciclo di progesterone esogeno e osserva se si verifica sanguinamento da sospensione; una risposta positiva conferma un endometrio integro, sensibilizzato agli estrogeni, e localizza la causa alla disfunzione dell'asse ipotalamico-ipofisario-ovarico piuttosto che all'ostruzione del deflusso strutturale. Questo uso diagnostico è esso stesso un meccanismo terapeutico — nei pazienti anovulatori (come quelli con PCOS o amenorrea ipotalamica funzionale), un singolo ciclo di progesterone induce la mestruazione.
 
-The literature confirms two additional mechanistic dimensions. First, oral micronized progesterone regulates hypothalamic kisspeptin-neurokinin B-dynorphin (KNDy) neuronal pulsatility, directly modulating LH/FSH secretion and restoring ovulatory cycles in some patients. Second, in premature ovarian insufficiency (POI) and surgical menopause, combined estrogen-progesterone replacement restores the full endometrial cycle. In both pathways, the causal absence of progesterone IS the definition of the amenorrhoeic state. The TxGNN near-perfect score of 99.9996% (rank 13 overall) reflects this established clinical reality rather than a speculative connection.
+La letteratura conferma due dimensioni meccanicistiche aggiuntive. In primo luogo, il progesterone micronizzato per via orale regola la pulsatilità dei neuroni ipotalamici kisspeptina-neurochinina B-dinorfina (KNDy), modulando direttamente la secrezione di LH/FSH e ripristinando i cicli ovulatori in alcuni pazienti. In secondo luogo, nell'insufficienza ovarica prematura (POI) e nella menopausa chirurgica, la terapia ormonale sostitutiva combinata con estrogeni-progesterone ripristina il ciclo endometriale completo. In entrambi i percorsi, l'assenza causale di progesterone È la definizione dello stato amenorroico. Il punteggio quasi perfetto di TxGNN del 99.9996% (rango 13 complessivo) riflette questa realtà clinica consolidata piuttosto che una connessione speculativa.
 
 ---
 
-## Clinical Trial Evidence
+## Evidenza da studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero di studio | Fase | Stato | Iscrizione | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT01942668](https://clinicaltrials.gov/study/NCT01942668) | Phase 3 | Completed | 1,845 | Large RCT of Estradiol + Progesterone combination for vasomotor symptoms in postmenopausal women; directly validates progesterone's role in hormonal management of cycle-associated amenorrhea and endometrial protection in the intact uterus |
-| [NCT01185782](https://clinicaltrials.gov/study/NCT01185782) | Phase 3 | Completed | 300 | FSH preparation vs. purified pituitary gonadotropin in patients with **amenorrhea I or anovulatory cycles** due to hypothalamic/pituitary dysfunction; establishes amenorrhea as a primary Phase 3 indication |
-| [NCT05312190](https://clinicaltrials.gov/study/NCT05312190) | N/A | Unknown | 330 | Multicenter RCT directly comparing **Progesterone Capsules** vs. traditional herbal formula vs. combination for menstrual disorders including amenorrhea in adult women; the most direct pharmacological evidence in this dataset |
-| [NCT03309176](https://clinicaltrials.gov/study/NCT03309176) | Phase 4 | Completed | 42 | RCT testing whether withholding **progesterone-induced endometrial withdrawal bleeding** before ovulation induction affects pregnancy rates in oligo/amenorrhea patients; directly interrogates progesterone's mechanism in cycle restoration |
-| [NCT03309709](https://clinicaltrials.gov/study/NCT03309709) | Phase 3 | Unknown | 90 | Randomized study of subcutaneous progesterone 25 mg (cycle days 18–25) for endometrial polyp regression; directly uses progesterone as the study intervention |
-| [NCT00068601](https://clinicaltrials.gov/study/NCT00068601) | Phase 3 | Completed | 257 | Goserelin during chemotherapy to prevent **chemotherapy-induced ovarian failure/amenorrhea** in stage I–IIIA breast cancer; validates amenorrhea prevention as a regulated primary Phase 3 clinical endpoint |
-| [NCT01441635](https://clinicaltrials.gov/study/NCT01441635) | Phase 2 | Completed | 271 | Elagolix (GnRH antagonist) for heavy uterine bleeding associated with fibroids; amenorrhea induced as a controlled model, confirming progesterone withdrawal as the biochemical trigger |
-| [NCT07224438](https://clinicaltrials.gov/study/NCT07224438) | Phase 2 | Recruiting | 20 | Kisspeptin SC for hypothalamic amenorrhea; targets the KNDy neuronal pathway upstream of progesterone synthesis, providing mechanistic context for the neuroendocrine basis of progesterone deficiency in this phenotype |
-| [NCT02449161](https://clinicaltrials.gov/study/NCT02449161) | Phase 3 | Terminated | 60 | Post-ablation **medroxyprogesterone acetate** to modify endometrial amenorrhea rates after ablation; directly tests a progestogen for modulating amenorrhea outcomes (terminated early, results limited) |
-| [NCT01927432](https://clinicaltrials.gov/study/NCT01927432) | N/A | Completed | 73 | Observational ultrasound characterization of ovarian follicle wave dynamics in women with amenorrhea; establishes the link between follicular dysfunction, anovulation, and amenorrhea that progesterone therapy addresses |
+| [NCT01942668](https://clinicaltrials.gov/study/NCT01942668) | Fase 3 | Completato | 1,845 | Grande RCT di combinazione Estradiolo + Progesterone per sintomi vasomotori in donne in postmenopausa; convalida direttamente il ruolo del progesterone nella gestione ormonale dell'amenorrea associata al ciclo e della protezione endometriale nell'utero integro |
+| [NCT01185782](https://clinicaltrials.gov/study/NCT01185782) | Fase 3 | Completato | 300 | Preparazione di FSH vs. gonadotropina ipofisaria purificata in pazienti con **amenorrea I o cicli anovulatori** dovuti a disfunzione ipotalamica/ipofisaria; stabilisce l'amenorrea come indicazione primaria di Fase 3 |
+| [NCT05312190](https://clinicaltrials.gov/study/NCT05312190) | N/A | Sconosciuto | 330 | RCT multicentrico che confronta direttamente **Capsule di Progesterone** vs. formula tradizionale a base di erbe vs. combinazione per disturbi mestruali inclusa l'amenorrea in donne adulte; l'evidenza farmacologica più diretta in questo dataset |
+| [NCT03309176](https://clinicaltrials.gov/study/NCT03309176) | Fase 4 | Completato | 42 | RCT che testa se la sospensione dello **sanguinamento da ritiro indotto da progesterone** prima dell'induzione dell'ovulazione influenza i tassi di gravidanza in pazienti con oligo/amenorrea; interroga direttamente il meccanismo del progesterone nel ripristino del ciclo |
+| [NCT03309709](https://clinicaltrials.gov/study/NCT03309709) | Fase 3 | Sconosciuto | 90 | Studio randomizzato di progesterone sottocutaneo 25 mg (giorni del ciclo 18–25) per regressione di polipi endometriali; utilizza direttamente il progesterone come intervento di studio |
+| [NCT00068601](https://clinicaltrials.gov/study/NCT00068601) | Fase 3 | Completato | 257 | Goserelina durante la chemioterapia per prevenire il **fallimento ovarico/amenorrea indotta da chemioterapia** in carcinoma mammario stadio I–IIIA; convalida la prevenzione dell'amenorrea come endpoint clinico primario regolamentato di Fase 3 |
+| [NCT01441635](https://clinicaltrials.gov/study/NCT01441635) | Fase 2 | Completato | 271 | Elagolix (antagonista del GnRH) per sanguinamento uterino pesante associato a fibromi; l'amenorrea indotta come modello controllato, confermando il ritiro del progesterone come il trigger biochimico |
+| [NCT07224438](https://clinicaltrials.gov/study/NCT07224438) | Fase 2 | In reclutamento | 20 | Kisspeptina SC per amenorrea ipotalamica; ha come bersaglio il percorso neuronale KNDy a monte della sintesi del progesterone, fornendo il contesto meccanicistico per la base neuroendocrina della carenza di progesterone in questo fenotipo |
+| [NCT02449161](https://clinicaltrials.gov/study/NCT02449161) | Fase 3 | Terminato | 60 | **Acetato di medroxiprogesterone** post-ablazione per modificare i tassi di amenorrea endometriale dopo ablazione; testa direttamente un progestinico per la modulazione degli esiti dell'amenorrea (terminato in anticipo, risultati limitati) |
+| [NCT01927432](https://clinicaltrials.gov/study/NCT01927432) | N/A | Completato | 73 | Caratterizzazione ecografica osservazionale della dinamica dell'onda follicolare ovarica in donne con amenorrea; stabilisce il collegamento tra disfunzione follicolare, anovulazione e amenorrea che la terapia con progesterone affronta |
 
 ---
 
-## Literature Evidence
+## Evidenza dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Clinical Review | Reviews in Endocrine & Metabolic Disorders | Comprehensive review of oral micronized progesterone in endocrinology; documents its role in regulating LH/FSH pulsatility via KNDy neurons, controlling endometrial cycling, and its diagnostic/therapeutic use across the amenorrhea spectrum |
-| [35525789](https://pubmed.ncbi.nlm.nih.gov/35525789/) | 2022 | Review | Current Problems in Pediatric & Adolescent Health Care | Systematic review of amenorrhea etiology and management in adolescents and young adults; positions progesterone/estrogen replacement as the cornerstone treatment for HPO axis dysfunction causing amenorrhea |
-| [40474175](https://pubmed.ncbi.nlm.nih.gov/40474175/) | 2025 | Retrospective Cohort | BMC Surgery | High-dose estrogen and **progesterone sequential therapy** combined with hysteroscopic cold knife separation significantly improves uterine cavity morphology recovery in patients with severe intrauterine adhesion (IUA)-induced amenorrhea |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Frontiers in Endocrinology | Review of POI (premature ovarian insufficiency) etiology and treatment; identifies progesterone-containing HRT as standard care to restore cyclicity and prevent long-term complications in POI-associated amenorrhea |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | Management of postmenopausal vaginal bleeding; menopause is clinically defined as 12 months of complete amenorrhea due to declining estrogen and progesterone — directly positions progesterone deficiency as the central cause |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Reviews in Endocrine & Metabolic Disorders | Hormonal treatments for endometriosis; discusses progestogen therapy as first-line hormonal intervention, including management of associated anovulatory amenorrhea through progesterone-mediated decidualization |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Seminars in Reproductive Medicine | Intrauterine adhesions (Asherman's syndrome) as a structural cause of amenorrhea; progesterone combined with estrogen is used post-hysteroscopic lysis to restore endometrial cycling |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | American Family Physician | Classic clinical guide to evaluating amenorrhea; outlines the **progestogen challenge test** as the pivotal diagnostic step to differentiate anovulatory from anatomical causes |
-| [945033](https://pubmed.ncbi.nlm.nih.gov/945033/) | 1976 | Case Series | Annals of Internal Medicine | 15 patients with galactorrhea-amenorrhea syndrome; LH and progesterone failed to show normal ovulatory peaks; documents progesterone deficiency as the biochemical signature of amenorrhea, restored upon effective treatment |
-| [35463307](https://pubmed.ncbi.nlm.nih.gov/35463307/) | 2022 | Meta-analysis | Frontiers in Oncology | Meta-analysis of chemotherapy-induced amenorrhea in premenopausal breast cancer patients; identifies age and regimen as risk factors and underscores the importance of progesterone-based hormonal monitoring and protection strategies |
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Revisione clinica | Reviews in Endocrine & Metabolic Disorders | Revisione completa del progesterone micronizzato per via orale in endocrinologia; documenta il suo ruolo nella regolazione della pulsatilità LH/FSH attraverso neuroni KNDy, nel controllo della ciclicità endometriale e il suo uso diagnostico/terapeutico in tutto lo spettro dell'amenorrea |
+| [35525789](https://pubmed.ncbi.nlm.nih.gov/35525789/) | 2022 | Revisione | Current Problems in Pediatric & Adolescent Health Care | Revisione sistematica dell'eziologia dell'amenorrea e della gestione negli adolescenti e negli adulti giovani; posiziona la sostituzione con progesterone/estrogeni come pietra angolare del trattamento della disfunzione dell'asse HPO causante amenorrea |
+| [40474175](https://pubmed.ncbi.nlm.nih.gov/40474175/) | 2025 | Coorte retrospettiva | BMC Surgery | La terapia sequenziale ad alte dosi di estrogeni e **progesterone** combinata con separazione a freddo isteroscopica migliora significativamente il recupero della morfologia della cavità uterina nei pazienti con amenorrea indotta da aderenze intrauterine (IUA) severa |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Revisione | Frontiers in Endocrinology | Revisione dell'eziologia della POI (insufficienza ovarica prematura) e del trattamento; identifica la TOS contenente progesterone come standard clinico per ripristinare la ciclicità e prevenire le complicanze a lungo termine nell'amenorrea associata a POI |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Revisione | Climacteric | Gestione dei sanguinamenti vaginali postmenopausali; la menopausa è clinicamente definita come 12 mesi di amenorrea completa dovuta al declino di estrogeni e progesterone — posiziona direttamente la carenza di progesterone come la causa centrale |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Revisione | Reviews in Endocrine & Metabolic Disorders | Trattamenti ormonali per l'endometriosi; discute la terapia con progestinici come intervento ormonale di prima linea, inclusa la gestione dell'amenorrea anovulatoria associata attraverso la decidualizzazione mediata dal progesterone |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Revisione | Seminars in Reproductive Medicine | Le aderenze intrauterine (sindrome di Asherman) come causa strutturale di amenorrea; il progesterone combinato con estrogeni viene utilizzato dopo la lisi isteroscopica per ripristinare la ciclicità endometriale |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Revisione | American Family Physician | Guida clinica classica alla valutazione dell'amenorrea; delinea il **test di stimolazione con progestinico** come il passo diagnostico fondamentale per differenziare le cause anovulatorie da quelle anatomiche |
+| [945033](https://pubmed.ncbi.nlm.nih.gov/945033/) | 1976 | Serie di casi | Annals of Internal Medicine | 15 pazienti con sindrome galattorrea-amenorrea; LH e progesterone non hanno mostrato picchi ovulatori normali; documenta la carenza di progesterone come la firma biochimica dell'amenorrea, ripristinata con trattamento efficace |
+| [35463307](https://pubmed.ncbi.nlm.nih.gov/35463307/) | 2022 | Meta-analisi | Frontiers in Oncology | Meta-analisi dell'amenorrea indotta da chemioterapia in pazienti con carcinoma mammario in premenopausa; identifica l'età e il regime come fattori di rischio e sottolinea l'importanza dei controlli ormonali basati sul progesterone e delle strategie di protezione |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Progesterone (DB00396) currently has **no approved marketing authorizations in Italy**. No product registrations, licensed indications, or dosage form data were identified in the regulatory database. The drug is classified as **not marketed** in Italy at the time of this assessment (data cutoff: 2026-05-06).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** The formal safety dataset for this assessment contains data gaps in key warning and contraindication categories. Before clinical use, prescribers should consult the current SmPC/package insert and relevant AIFA guidance. Of particular relevance for progesterone are known class-level considerations including thromboembolism risk, hormone-sensitive conditions (e.g., hormone-receptor-positive breast cancer), and hepatic impairment.
+Progesterone (DB00396) attualmente **non ha autorizzazioni di commercializzazione approvate in Italia**. Nessuna registrazione di prodotto, indicazioni concesse in licenza o dati sulla forma farmaceutica sono stati identificati nel database normativo. Il farmaco è classificato come **non commercializzato** in Italia al momento di questa valutazione (data di cutoff: 2026-05-06).
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-The TxGNN prediction is unambiguously supported by established pharmacology — progesterone IS the hormonal foundation of menstrual cycle regulation, and its clinical use in amenorrhea management is already standard practice worldwide across multiple sub-indications. With L1 evidence (multiple completed Phase 3 RCTs confirmed), the scientific and clinical case is robust. The primary barriers to proceeding are regulatory (no Italian authorization) and data completeness (safety documentation gaps in this dataset), rather than any deficiency in clinical evidence.
+> **Nota:** Il dataset formale sulla sicurezza per questa valutazione contiene lacune nei dati in categorie chiave di avvertenze e controindicazioni. Prima dell'uso clinico, i prescrittori dovrebbero consultare lo SmPC/foglio illustrativo attuale e le linee guida AIFA rilevanti. Di particolare rilevanza per il progesterone sono considerazioni note a livello di classe incluso il rischio di tromboembolismo, le condizioni sensibili agli ormoni (ad es., carcinoma mammario positivo ai recettori ormonali) e l'insufficienza epatica.
 
-**To proceed, the following is needed:**
-- Obtain and review the full SmPC / prescribing information to document contraindications, warnings, drug interactions, and special population guidance (the most critical outstanding data gap)
-- Retrieve formal mechanism of action documentation from DrugBank (MOA currently unavailable in dataset)
-- Define the specific target sub-population for the Italian context: anovulatory amenorrhea (PCOS/functional hypothalamic), POI-related amenorrhea, post-chemotherapy amenorrhea, or post-surgical (IUA-related) amenorrhea — each requires a distinct clinical protocol
-- Initiate regulatory pathway assessment with AIFA for marketing authorization (new application, mutual recognition, or decentralized procedure)
-- Establish a safety monitoring plan addressing thromboembolism risk, hormonal contraindications, and monitoring of endometrial response in long-term use scenarios
+---
+
+## Conclusioni e passaggi successivi
+
+**Decisione: Proseguire con salvaguardie**
+
+**Razionale:**
+La previsione di TxGNN è inequivocabilmente supportata dalla farmacologia consolidata — il progesterone È il fondamento ormonale della regolazione del ciclo mestruale, e il suo uso clinico nella gestione dell'amenorrea è già pratica standard in tutto il mondo in molteplici sotto-indicazioni. Con evidenza L1 (molteplici RCT di Fase 3 completati confermati), il caso scientifico e clinico è robusto. I principali ostacoli al procedimento sono normativi (nessuna autorizzazione italiana) e completezza dei dati (lacune nella documentazione di sicurezza in questo dataset), piuttosto che qualsiasi carenza nelle prove cliniche.
+
+**Per procedere, quanto segue è necessario:**
+- Ottenere e rivedere lo SmPC completo / l'informazione per il prescrittore per documentare le controindicazioni, gli avvertimenti, le interazioni farmacologiche e le linee guida per le popolazioni speciali (la lacuna di dati in sospeso più critica)
+- Recuperare la documentazione formale del meccanismo d'azione da DrugBank (MOA attualmente non disponibile nel dataset)
+- Definire la sottopopolazione target specifica per il contesto italiano: amenorrea anovulatoria (PCOS/funzionale ipotalamica), amenorrea correlata a POI, amenorrea post-chemioterapia o post-chirurgica (correlata a IUA) — ognuna richiede un protocollo clinico distinto
+- Avviare la valutazione del percorso normativo con AIFA per l'autorizzazione di commercializzazione (nuova domanda, riconoscimento reciproco o procedura decentralizzata)
+- Stabilire un piano di monitoraggio della sicurezza affrontando il rischio di tromboembolismo, le controindicazioni ormonali e il monitoraggio della risposta endometriale negli scenari di uso a lungo termine
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

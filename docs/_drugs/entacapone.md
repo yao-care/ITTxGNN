@@ -29,78 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Entacapone: From Parkinson's Disease to PLA2G6-Associated Neurodegeneration
+# Entacapone: dalla Malattia di Parkinson alla Neurodegenrazione Associata a PLA2G6
 
-## One-Sentence Summary
+## Riassunto in una Frase
 
-Entacapone is a catechol-O-methyltransferase (COMT) inhibitor, clinically established as an adjunct to levodopa/carbidopa therapy in adults with Parkinson's disease experiencing "off" episodes.
-The TxGNN model predicts it may be effective for **PLA2G6-Associated Neurodegeneration (PLAN)**, a rare iron-accumulation neurodegenerative disorder presenting with Parkinson-like features.
-Currently, **no clinical trials** and **no published literature** support this specific repurposing direction — this remains a model-only prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Parkinson's Disease (adjunct to levodopa, for "off" period management) |
-| Predicted New Indication | PLA2G6-Associated Neurodegeneration (PLAN) |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L5 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+L'entacapone è un inibitore della catecolo-O-metiltransferasi (COMT), farmaco clinicamente consolidato come adiuvante della terapia con levodopa/carbidopa negli adulti con malattia di Parkinson che presentano episodi "off".
+Il modello TxGNN predice che possa essere efficace nella **Neurodegenrazione Associata a PLA2G6 (PLAN)**, un raro disturbo neurodegenerativo con accumulo di ferro che presenta caratteristiche simili al Parkinson.
+Attualmente, **nessuno studio clinico** e **nessuna letteratura pubblicata** supportano questa specifica direzione di ripurposing — rimane una predizione solo da modello.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on established pharmacological knowledge, entacapone is a selective, reversible peripheral COMT inhibitor. By blocking the enzymatic breakdown of levodopa in the bloodstream, it increases the fraction of each levodopa dose that crosses the blood-brain barrier and is converted to dopamine in the nigrostriatal pathway. In Parkinson's disease, this extends the duration of levodopa's therapeutic effect and reduces motor fluctuations ("wearing-off").
-
-PLA2G6-Associated Neurodegeneration (PLAN) is caused by loss-of-function mutations in the *PLA2G6* gene encoding phospholipase A2, a subtype of Neurodegeneration with Brain Iron Accumulation (NBIA). A clinically significant subset of PLAN patients — particularly those with the adult-onset atypical Parkinson phenotype — exhibit nigrostriatal dopaminergic degeneration that is phenotypically indistinguishable from idiopathic Parkinson's disease. This shared neuroanatomical vulnerability is the most plausible basis for the TxGNN prediction.
-
-However, phenotypic similarity does not equal therapeutic equivalence. The dopaminergic deficit in PLAN arises from a fundamentally different upstream cause (phospholipid membrane dysregulation and iron toxicity) rather than aggregated α-synuclein pathology. Whether PLAN patients' motor symptoms are levodopa-responsive — a prerequisite for COMT inhibition to add any benefit — is inconsistent in published case reports. The TxGNN score most likely reflects graph-proximity clustering between PLAN and classic Parkinson nodes, not direct mechanistic evidence. At present, this connection is purely hypothetical.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for entacapone in PLA2G6-associated neurodegeneration.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Malattia di Parkinson (adiuvante della levodopa, per la gestione dei periodi "off") |
+| Indicazione Predetta | Neurodegenrazione Associata a PLA2G6 (PLAN) |
+| Punteggio di Predizione TxGNN | 99.76% |
+| Livello di Evidenza | L5 |
+| Stato di Mercato Italia | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In Sospeso |
 
 ---
 
-## Literature Evidence
+## Perché questa Predizione è Ragionevole?
 
-Currently no related literature available for entacapone in PLA2G6-associated neurodegeneration.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dall'Evidence Pack. Sulla base delle conoscenze farmacologiche consolidate, l'entacapone è un inibitore selettivo e reversibile della COMT periferica. Bloccando la degradazione enzimatica della levodopa nel sangue, aumenta la frazione di ogni dose di levodopa che attraversa la barriera emato-encefalica e viene convertita in dopamina nella via nigrostriatale. Nella malattia di Parkinson, questo estende la durata dell'effetto terapeutico della levodopa e riduce le fluttuazioni motorie ("wearing-off").
 
----
+La Neurodegenrazione Associata a PLA2G6 (PLAN) è causata da mutazioni loss-of-function nel gene *PLA2G6* che codifica la fosfolipasi A2, un sottotipo di Neurodegenrazione con Accumulo di Ferro Cerebrale (NBIA). Un sottogruppo clinicamente significativo di pazienti con PLAN — in particolare quelli con fenotipo Parkinson ad esordio nell'adulto — presenta degenerazione dopaminergica nigrostriatale indistinguibile dalla malattia di Parkinson idiopatica. Questa vulnerabilità neuroanatomica condivisa è la base più plausibile per la predizione TxGNN.
 
-## Italy Market Information
-
-Entacapone has no approved marketing authorizations in Italy and is not currently available on the Italian market.
+Tuttavia, la somiglianza fenotipica non equivale all'equivalenza terapeutica. Il deficit dopaminergico in PLAN nasce da una causa a monte fondamentalmente diversa (disregolazione della membrana fosfolipidica e tossicità del ferro) piuttosto che dalla patologia dell'α-sinucleina aggregata. Se i sintomi motori dei pazienti con PLAN siano responsivi alla levodopa — un prerequisito affinché l'inibizione della COMT aggiunga qualche beneficio — è incoerente nei case report pubblicati. Il punteggio TxGNN molto probabilmente riflette il clustering di prossimità nel grafo di conoscenza tra i nodi PLAN e Parkinson classico, non evidenza meccanicistica diretta. Al presente, questa connessione è puramente ipotetica.
 
 ---
 
-## Safety Considerations
+## Evidenza da Studi Clinici
 
-Please refer to the package insert for safety information.
+Attualmente nessuno studio clinico registrato correlato all'entacapone nella neurodegenrazione associata a PLA2G6.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura disponibile correlata all'entacapone nella neurodegenrazione associata a PLA2G6.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.76%), this score reflects phenotypic overlap in the knowledge graph between PLAN and Parkinson's disease — not actual therapeutic evidence. There is zero clinical, observational, or preclinical data specifically evaluating entacapone in PLAN, and the mechanistic link is indirect at best.
+---
 
-**To proceed, the following is needed:**
+## Informazioni di Mercato Italia
 
-- **MOA data**: Retrieve complete mechanism of action from DrugBank API (currently missing; blocks mechanistic plausibility analysis)
-- **Safety data**: Obtain EMA/AIFA-approved package insert to assess contraindications and key warnings before any further evaluation
-- **Levodopa responsiveness data in PLAN**: Systematic review of published PLAN case reports to determine what proportion of adult-onset phenotype patients respond to levodopa — this is the prerequisite gate for COMT inhibition to be clinically relevant
-- **Preclinical signal**: Identify any in vitro or animal model studies using COMT inhibition in NBIA/PLA2G6 knockout models
-- **Expert consultation**: Neurologist specializing in rare movement disorders to assess clinical plausibility before resource investment
+L'entacapone non ha autorizzazioni di commercializzazione approvate in Italia e non è attualmente disponibile sul mercato italiano.
+
+---
+
+## Considerazioni di Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: In Sospeso**
+
+**Razionale:**
+Nonostante un alto punteggio di predizione TxGNN (99.76%), questo punteggio riflette la sovrapposizione fenotipica nel grafo di conoscenza tra PLAN e malattia di Parkinson — non l'evidenza terapeutica effettiva. Non esiste alcun dato clinico, osservazionale o preclinico che valuti specificamente l'entacapone in PLAN, e il collegamento meccanicistico è al massimo indiretto.
+
+**Per procedere, è necessario il seguente:**
+
+- **Dati su MOA**: Recuperare il meccanismo d'azione completo dall'API DrugBank (attualmente mancante; blocca l'analisi di plausibilità meccanicistica)
+- **Dati di sicurezza**: Ottenere il foglio illustrativo approvato da EMA/AIFA per valutare controindicazioni e avvertenze chiave prima di qualsiasi ulteriore valutazione
+- **Dati di responsività alla levodopa in PLAN**: Revisione sistematica dei case report pubblicati su PLAN per determinare quale proporzione di pazienti con fenotipo ad esordio nell'adulto risponde alla levodopa — questo è il gate di prerequisito affinché l'inibizione della COMT sia clinicamente rilevante
+- **Segnale preclinico**: Identificare qualsiasi studio in vitro o su modelli animali che utilizzi l'inibizione della COMT in modelli knockout di NBIA/PLA2G6
+- **Consulenza di esperti**: Neurologo specializzato in disturbi del movimento rari per valutare la plausibilità clinica prima dell'investimento di risorse
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

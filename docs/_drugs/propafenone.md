@@ -29,100 +29,97 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-The txgnn-pipeline skill is noted. This task is report generation from an Evidence Pack, so I'll proceed directly to produce the structured Markdown evaluation report.
+# Propafenone: Dall'aritmia cardiaca al disturbo bipolare affettivo maniacale
+
+## Sintesi in una frase
+
+Propafenone è un farmaco antiaritmico di classe IC utilizzato in clinica per gestire le aritmie cardiache, inclusa la fibrillazione atriale e la tachicardia ventricolare.
+Il modello TxGNN prevede che potrebbe essere efficace per il **disturbo bipolare affettivo maniacale**, con **0 trial clinici** e **3 pubblicazioni** nel set di dati — tuttavia, queste pubblicazioni descrivono eventi avversi e interazioni farmacologiche piuttosto che qualsiasi uso terapeutico.
+In questa fase, questa previsione è considerata biologicamente implicabile e la raccomandazione complessiva è **Sospendere**.
 
 ---
 
-# Propafenone: From Cardiac Arrhythmia to Manic Bipolar Affective Disorder
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Propafenone is a Class IC antiarrhythmic agent used clinically to manage cardiac arrhythmias including atrial fibrillation and ventricular tachycardia.
-The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**, with **0 clinical trials** and **3 publications** in the dataset — however, these publications describe adverse events and drug interactions rather than any therapeutic use.
-At this stage, this prediction is considered mechanistically implausible and the overall recommendation is **Hold**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Cardiac Arrhythmia (Class IC Antiarrhythmic; no Italy regulatory record available) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Aritmia cardiaca (farmaco antiaritmico di classe IC; nessun record normativo italiano disponibile) |
+| Nuova indicazione prevista | Disturbo bipolare affettivo maniacale |
+| Punteggio di previsione TxGNN | 99.80% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, propafenone is a Class IC antiarrhythmic agent that primarily blocks cardiac sodium channels (Nav1.5). It also possesses mild beta-adrenergic blocking and weak calcium channel antagonist properties. Crucially, its CNS penetration is very low due to insufficient lipophilicity — and no known mood-stabilizing or anti-manic mechanism has been identified for this drug.
+Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo Evidence Pack. In base alla farmacologia nota, propafenone è un farmaco antiaritmico di classe IC che blocca principalmente i canali del sodio cardiaci (Nav1.5). Possiede inoltre un blando blocco adrenergico beta e deboli proprietà antagoniste dei canali del calcio. Crucialmente, la sua penetrazione nel SNC è molto bassa a causa dell'insufficiente lipofilicità — e nessun meccanismo noto di stabilizzazione dell'umore o anti-maniacale è stato identificato per questo farmaco.
 
-Cardiac arrhythmia and manic bipolar affective disorder are mechanistically unrelated conditions. The TxGNN model appears to have misidentified a co-occurrence signal in its knowledge graph: the available "supporting" literature describes propafenone *causing* mania as an adverse effect (PMID 2579063) and documents harmful interactions between cardiovascular drugs and antipsychotics (PMID 32124390) — not evidence of therapeutic benefit in bipolar disorder. This is a known failure mode in graph-based models, where causal direction between a drug node and disease node is not properly resolved.
+L'aritmia cardiaca e il disturbo bipolare affettivo maniacale sono condizioni meccanisticamente non correlate. Il modello TxGNN sembra aver identificato erroneamente un segnale di co-occorrenza nel suo grafo della conoscenza: la letteratura "di supporto" disponibile descrive propafenone *causante* mania come un evento avverso (PMID 2579063) e documenta interazioni dannose tra farmaci cardiovascolari e antipsicotici (PMID 32124390) — non evidenza di beneficio terapeutico nel disturbo bipolare. Questo è un noto modo di fallimento nei modelli basati su grafi, dove la direzione causale tra un nodo farmaco e un nodo malattia non è adeguatamente risolta.
 
-In summary, this rank-1 prediction does not have a biologically plausible rationale. The model has conflated an adverse event relationship (propafenone → mania) with a therapeutic one. No additional investigation for this indication is recommended.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+In sintesi, questa previsione di rango 1 non ha una razionale biologicamente plausibile. Il modello ha confuso una relazione di evento avverso (propafenone → mania) con una terapeutica. Nessuna investigazione aggiuntiva per questa indicazione è consigliata.
 
 ---
 
-## Literature Evidence
+## Evidenza da trial clinici
 
-> ⚠️ **Important caveat**: The publications below do **not** support propafenone as a treatment for bipolar disorder. They document adverse events and drug interactions. They appear in this dataset because propafenone and bipolar disorder co-occur in a safety context, not a therapeutic one.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [32124390](https://pubmed.ncbi.nlm.nih.gov/32124390/) | 2020 | Review | Pharmacological Reports | Evaluates harmful interactions between antipsychotics and cardiovascular medications; does not support propafenone as a treatment for bipolar disorder |
-| [11949740](https://pubmed.ncbi.nlm.nih.gov/11949740/) | 2001 | Case Report | Int J Psychiatry in Medicine | Reports a case of organic psychosis resulting from a venlafaxine–propafenone drug interaction in a bipolar patient — this is an adverse event, not a therapeutic application |
-| [2579063](https://pubmed.ncbi.nlm.nih.gov/2579063/) | 1985 | Case Report | J Clin Psychiatry | Describes mania induced by propafenone administration; notes chemical similarity to bupropion (antidepressant) as a possible mechanism of psychiatric side effects |
+Attualmente nessun trial clinico correlato è registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza da letteratura
 
-Please refer to the package insert for safety information.
+> ⚠️ **Avvertenza importante**: Le pubblicazioni seguenti **non** supportano propafenone come trattamento per il disturbo bipolare. Documentano eventi avversi e interazioni farmacologiche. Appaiono in questo set di dati perché propafenone e disturbo bipolare co-occorrono in un contesto di sicurezza, non terapeutico.
 
----
-
-## Summary of All Predicted Indications
-
-For context, the following table summarises all 8 TxGNN-predicted indications and their evidence status:
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision |
-|------|---------|-------------|----------------|----------|
-| 1 | Manic Bipolar Affective Disorder | 99.80% | L5 | **Hold** — adverse event misread as therapeutic |
-| 2 | Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) | 99.79% | L3 | **Proceed with Guardrails** — direct RyR2 inhibition mechanism; 9 publications |
-| 3 | Periodic Paralysis with Transient Compartment-like Syndrome | 99.67% | L5 | **Hold** — channel selectivity mismatch (Nav1.5 vs Nav1.4) |
-| 4 | Prinzmetal Angina | 99.45% | L5 | **Hold** — Class IC agents may worsen ischaemia-related arrhythmia |
-| 5 | Incessant Infant Ventricular Tachycardia | 99.44% | L3 | **Proceed with Guardrails** — paediatric use on record since 1987; 5 publications |
-| 6 | Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC) | 99.42% | L3 | **Research Question** — proarrhythmia risk in structural heart disease; 12 publications |
-| 7 | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) | 99.23% | L5 | **Hold** — no mechanistic intersection |
-| 8 | Trichotillomania | 99.17% | L5 | **Hold** — peripheral cardiac drug; negligible CNS penetration |
-
-The **most scientifically compelling** repurposing candidate is **CPVT (Rank 2)**: propafenone directly inhibits RyR2 calcium release channels — the primary pathological driver in CPVT — while its Nav1.5 blockade and mild beta-blocking properties provide complementary suppression of triggered arrhythmias.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|------|------|---------|--------|
+| [32124390](https://pubmed.ncbi.nlm.nih.gov/32124390/) | 2020 | Revisione | Pharmacological Reports | Valuta le interazioni dannose tra antipsicotici e farmaci cardiovascolari; non supporta propafenone come trattamento per il disturbo bipolare |
+| [11949740](https://pubmed.ncbi.nlm.nih.gov/11949740/) | 2001 | Case Report | Int J Psychiatry in Medicine | Riporta un caso di psicosi organica risultante da un'interazione farmacologica venlafaxina–propafenone in un paziente bipolare — questo è un evento avverso, non un'applicazione terapeutica |
+| [2579063](https://pubmed.ncbi.nlm.nih.gov/2579063/) | 1985 | Case Report | J Clin Psychiatry | Descrive mania indotta dall'amministrazione di propafenone; nota la somiglianza chimica con bupropione (antidepressivo) come possibile meccanismo degli effetti collaterali psichiatrici |
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Hold** *(for Rank 1: Manic Bipolar Affective Disorder)*
+Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
 
-**Rationale:**
-The TxGNN rank-1 prediction is mechanistically implausible. Propafenone's very low CNS penetration, absence of any mood-stabilizing pathway, and the fact that the only available literature documents propafenone *causing* psychiatric adverse effects collectively make this a clear false positive. The model appears to have reversed the causal direction of a known adverse drug reaction.
+---
 
-**To proceed with further evaluation:**
-- **Do not pursue** manic bipolar affective disorder as a repurposing target for propafenone
-- **Recommended pivot**: Initiate a full evidence synthesis for **CPVT (Rank 2)**, which has mechanistic grounding (RyR2 inhibition, PMID 21270101, 26121139), observational cohort support, and a long-term case report of 35-year successful treatment (PMID 30820400)
-- **Obtain package insert / regulatory data**: Retrieve Italy (AIFA) and Taiwan (TFDA) prescribing information to fill the safety data gap before any clinical planning
-- **Obtain formal MOA documentation**: Query DrugBank API for DB01182 to complete mechanism-of-action analysis
-- **For ARVC (Rank 6)**: Commission a systematic safety review specifically examining Class IC proarrhythmia risk in structural heart disease before proceeding further
+## Sintesi di tutte le indicazioni previste
+
+Per contesto, la seguente tabella riassume tutte le 8 indicazioni previste da TxGNN e il loro stato di evidenza:
+
+| Rango | Malattia | Punteggio TxGNN | Livello di evidenza | Decisione |
+|-------|---------|-----------------|-------------------|----------|
+| 1 | Disturbo bipolare affettivo maniacale | 99.80% | L5 | **Sospendere** — evento avverso interpretato erroneamente come terapeutico |
+| 2 | Tachicardia ventricolare polimorca catecolaminergica (CPVT) | 99.79% | L3 | **Procedere con criteri di sicurezza** — meccanismo di inibizione diretta RyR2; 9 pubblicazioni |
+| 3 | Paralisi periodica con sindrome compartimentale transitoria | 99.67% | L5 | **Sospendere** — mancata selettività del canale (Nav1.5 vs Nav1.4) |
+| 4 | Angina di Prinzmetal | 99.45% | L5 | **Sospendere** — gli agenti di classe IC possono peggiorare l'aritmia correlata all'ischemia |
+| 5 | Tachicardia ventricolare incessante nell'infanzia | 99.44% | L3 | **Procedere con criteri di sicurezza** — uso pediatrico registrato dal 1987; 5 pubblicazioni |
+| 6 | Cardiomiopatia aritmogena del ventricolo destro (ARVC) | 99.42% | L3 | **Domanda di ricerca** — rischio proaritmico nella malattia cardiaca strutturale; 12 pubblicazioni |
+| 7 | Sindrome nefrogena di inappropriata antidiuresi (NSIAD) | 99.23% | L5 | **Sospendere** — nessuna intersezione meccanistica |
+| 8 | Tricotillomania | 99.17% | L5 | **Sospendere** — farmaco cardiaco periferico; penetrazione nel SNC trascurabile |
+
+Il candidato al riposizionamento **più scientificamente convincente** è **CPVT (Rango 2)**: propafenone inibisce direttamente i canali di rilascio del calcio RyR2 — il driver patologico primario in CPVT — mentre il suo blocco Nav1.5 e le proprietà blande di blocco beta forniscono soppressione complementare delle aritmie triggeriate.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Sospendere** *(per il Rango 1: Disturbo bipolare affettivo maniacale)*
+
+**Razionale:**
+La previsione di rango 1 di TxGNN è biologicamente implicabile. La penetrazione del SNC molto bassa di propafenone, l'assenza di qualsiasi via di stabilizzazione dell'umore e il fatto che l'unica letteratura disponibile documenta propafenone *causante* effetti avversi psichiatrici collettivamente rendono questo un chiaro falso positivo. Il modello sembra aver invertito la direzione causale di una nota reazione avversa ai farmaci.
+
+**Per procedere con ulteriore valutazione:**
+- **Non perseguire** il disturbo bipolare affettivo maniacale come target di riposizionamento per propafenone
+- **Pivot consigliato**: Avviare una sintesi completa di evidenza per **CPVT (Rango 2)**, che ha fondamenti meccanistici (inibizione RyR2, PMID 21270101, 26121139), supporto da coorti osservazionali e un rapporto di caso a lungo termine di trattamento di successo di 35 anni (PMID 30820400)
+- **Ottenere foglio illustrativo / dati normativi**: Recuperare le informazioni di prescrizione dell'Italia (AIFA) e di Taiwan (TFDA) per colmare il divario nei dati di sicurezza prima di qualsiasi pianificazione clinica
+- **Ottenere documentazione formale del meccanismo d'azione**: Consultare l'API di DrugBank per DB01182 per completare l'analisi del meccanismo d'azione
+- **Per ARVC (Rango 6)**: Commissionare una revisione sistematica della sicurezza che esamini specificamente il rischio proaritmico degli agenti di classe IC nella malattia cardiaca strutturale prima di procedere ulteriormente
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

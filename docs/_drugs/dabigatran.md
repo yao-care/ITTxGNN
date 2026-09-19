@@ -29,72 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# DABIGATRAN: 藥物再利用候選評估 — 資料不足，無法完成完整報告
+# DABIGATRAN: valutazione candidata di riposizionamento dei farmaci — dati insufficienti, impossibile completare relazione completa
 
-## One-Sentence Summary
+## Riepilogo in una frase
 
-DABIGATRAN（DrugBank ID: DB14726）為本次藥物再利用掃描所識別之候選藥物。
-然而，目前的 Evidence Pack **未能擷取原始適應症**、**無 TxGNN 預測適應症**、且**全部安全性資料缺失**，
-無法依標準格式產生完整評估報告，建議先補齊資料後再進行評估。
+DABIGATRAN (DrugBank ID: DB14726) è un farmaco candidato identificato dalla scansione di riposizionamento dei farmaci in questa sessione. Tuttavia, l'Evidence Pack attuale **non riesce ad acquisire l'indicazione originale**, **non ha indicazioni predette da TxGNN** e **tutti i dati di sicurezza sono mancanti**, rendendo impossibile generare una valutazione completa nel formato standard; si consiglia di completare i dati prima di procedere alla valutazione.
 
 ---
 
-## Quick Overview
+## Panoramica rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|---------|
-| Original Indication | 未擷取（原始適應症欄位為空） |
-| Predicted New Indication | 無可用預測（`predicted_indications` 陣列為空） |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — 無臨床試驗或文獻資料 |
-| Italy Market Status | Not marketed（查詢結果：Not marketed，授權數量 0） |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione originale | Non acquisita (il campo dell'indicazione originale è vuoto) |
+| Indicazione nuova predetta | Nessuna previsione disponibile (array `predicted_indications` vuoto) |
+| Punteggio di previsione TxGNN | N/A |
+| Livello di evidenza | N/A — nessun trial clinico o dati della letteratura |
+| Stato di mercato Italia | Not marketed (risultato della query: Not marketed, numero di autorizzazioni 0) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | **Hold** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-無法進行機轉關聯性分析。
+Impossibile eseguire un'analisi di correlazione del meccanismo.
 
-本次 Evidence Pack 顯示兩項關鍵資料缺口：
+L'Evidence Pack attuale mostra due lacune critiche nei dati:
 
-1. **原始適應症未擷取**：`original_indications` 欄位為空陣列，`original_moa` 亦無資料。
-2. **無 TxGNN 預測結果**：`predicted_indications` 為空陣列，代表模型預測尚未執行或結果未納入 Pack。
+1. **Indicazione originale non acquisita**: il campo `original_indications` è un array vuoto, e `original_moa` non contiene dati.
+2. **Nessun risultato di previsione TxGNN**: `predicted_indications` è un array vuoto, indicando che la previsione del modello non è stata ancora eseguita o i risultati non sono stati inclusi nel Pack.
 
-在缺乏「新預測適應症」的情況下，無從比較原適應症與新適應症之間的機轉重疊性，
-亦無從判斷此候選藥物是否值得進一步評估。
-
----
-
-## Italy Market Information
-
-DABIGATRAN 在 Italy 查無任何上市授權紀錄（`total_licenses: 0`，`licenses` 為空）。
+In assenza di "nuove indicazioni predette", non è possibile confrontare la sovrapposizione meccanicistica tra l'indicazione originale e le nuove indicazioni, né è possibile giudicare se questo farmaco candidato meriti un'ulteriore valutazione.
 
 ---
 
-## Safety Considerations
+## Informazioni sul mercato italiano
 
-Please refer to the package insert for safety information.
+DABIGATRAN non ha alcun record di autorizzazione di commercializzazione in Italia (`total_licenses: 0`, `licenses` vuoto).
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Hold**
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-DABIGATRAN 的 Evidence Pack 存在多項關鍵資料缺口（原始適應症、MOA、TxGNN 預測、安全性資料均缺失），
-無法執行任何程度的再利用可行性評估，不建議在資料補齊前推進。
+---
 
-**To proceed, the following is needed:**
+## Conclusioni e prossimi passi
 
-- **\[Blocking\] 補齊 TxGNN 預測結果**：重新執行模型，將 DABIGATRAN（DB14726）納入預測管線，確認 `predicted_indications` 輸出正確寫入 Evidence Pack
-- **\[Blocking\] 擷取原始適應症**：從 DrugBank API 或核准仿單取得已核准適應症文字，填入 `original_indications`
-- **\[High\] 補齊 MOA 資料**：查詢 DrugBank 取得完整作用機轉描述，支援後續機轉關聯分析
-- **\[High\] 解析仿單安全性資料**：下載並解析 TFDA 仿單 PDF（query\_log 顯示已成功查詢），提取警語、禁忌症，填入 `safety` 欄位
-- **\[Medium\] 確認 Italy（AIFA）上市狀態**：DABIGATRAN（Pradaxa®）在歐洲為已知上市藥物，建議直接查詢 AIFA 資料庫確認授權情況，更新 `taiwan_regulatory`（應調整為 `italy_regulatory`）欄位
-- **資料補齊後重新產生 Evidence Pack v5**，再進行完整的再利用評估流程
+**Decisione: Hold**
+
+**Motivazione:**
+L'Evidence Pack di DABIGATRAN presenta molteplici lacune critiche nei dati (indicazione originale, MOA, previsione TxGNN, dati di sicurezza sono tutti mancanti), rendendo impossibile eseguire una valutazione di fattibilità di riposizionamento di qualsiasi entità; non è consigliabile procedere prima che i dati siano completati.
+
+**Per procedere, è necessario quanto segue:**
+
+- **\[Blocking\] Completa i risultati della previsione TxGNN**: riesegui il modello, includi DABIGATRAN (DB14726) nella pipeline di previsione, verifica che l'output di `predicted_indications` sia scritto correttamente nell'Evidence Pack
+- **\[Blocking\] Acquisisci l'indicazione originale**: ottieni il testo dell'indicazione approvata dall'API DrugBank o dal foglio illustrativo approvato, popola `original_indications`
+- **\[High\] Completa i dati MOA**: interroga DrugBank per ottenere una descrizione completa del meccanismo d'azione, supportando l'analisi di correlazione del meccanismo successiva
+- **\[High\] Analizza i dati di sicurezza del foglio illustrativo**: scarica e analizza il PDF del foglio illustrativo TFDA (il `query_log` mostra che la query è riuscita), estrai avvertenze e controindicazioni, popola il campo `safety`
+- **\[Medium\] Conferma lo stato di commercializzazione in Italia (AIFA)**: DABIGATRAN (Pradaxa®) è un farmaco noto come commercializzato in Europa, si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione, aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)
+- **Dopo il completamento dei dati, genera nuovamente l'Evidence Pack v5**, quindi procedi con il processo completo di valutazione del riposizionamento
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

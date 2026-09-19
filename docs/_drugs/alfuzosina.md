@@ -29,63 +29,64 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Alfuzosina: Drug Repurposing Evaluation Report
+# Alfuzosina: Rapporto di Valutazione del Riposizionamento del Farmaco
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Alfuzosina (Alfuzosin) is an alpha-1 adrenergic receptor antagonist historically used for benign prostatic hyperplasia (BPH). Currently, the TxGNN model has **no predicted new indications** for this drug, and there are **no clinical trials** or **publications** associated with a repurposing direction. Significant data gaps remain, including mechanism of action details and regulatory safety information.
+Alfuzosina (Alfuzosin) è un antagonista dei recettori adrenergici alfa-1 storicamente utilizzato per l'iperplasia prostatica benigna (IPB). Attualmente, il modello TxGNN non ha **alcuna nuova indicazione prevista** per questo farmaco, e non ci sono **studi clinici** o **pubblicazioni** associati a una direzione di riposizionamento. Rimangono importanti lacune nei dati, inclusi i dettagli del meccanismo d'azione e le informazioni sulla sicurezza normativa.
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not available (no approved licenses found in Taiwan) |
-| Predicted New Indication | None — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No model prediction or supporting studies) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originaria | Non disponibile (nessuna licenza approvata trovata in Taiwan) |
+| Nuova Indicazione Prevista | Nessuna — nessuna previsione TxGNN disponibile |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | L5 (Nessuna previsione del modello o studi di supporto) |
+| Stato del Mercato Taiwan | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **In Sospeso** |
 
-## Why is This Prediction Reasonable?
+## Perché Questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on general pharmacological knowledge, Alfuzosina (Alfuzosin) is a selective alpha-1 adrenergic receptor antagonist. It works by relaxing smooth muscle in the prostate and bladder neck, thereby improving urinary flow in patients with benign prostatic hyperplasia (BPH). It is not classified as an antineoplastic agent.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dal Pacchetto di Evidenza. Sulla base della conoscenza farmacologica generale, Alfuzosina (Alfuzosin) è un antagonista selettivo dei recettori adrenergici alfa-1. Funziona rilassando il muscolo liscio della prostata e del collo della vescica, migliorando così il flusso urinario nei pazienti con iperplasia prostatica benigna (IPB). Non è classificato come agente antineoplastico.
 
-However, the TxGNN model has not generated any predicted new indications for Alfuzosina at this time. Without a predicted indication, no mechanism-based rationale for repurposing can be assessed. The absence of a prediction may reflect insufficient representation of Alfuzosina in the knowledge graph, or it may indicate that the model did not identify a statistically meaningful disease association above its threshold.
+Tuttavia, il modello TxGNN non ha generato alcuna nuova indicazione prevista per Alfuzosina in questo momento. Senza una indicazione prevista, nessun razionale basato sul meccanismo per il riposizionamento può essere valutato. L'assenza di una previsione può riflettere una rappresentazione insufficiente di Alfuzosina nel grafo della conoscenza, o può indicare che il modello non ha identificato un'associazione di malattia statisticamente significativa al di sopra della sua soglia.
 
-Additionally, Alfuzosina has no approved licenses in Taiwan (TFDA), meaning there is no local regulatory footprint from which to derive approved indication text or safety labeling. This further limits the ability to conduct a meaningful repurposing evaluation.
+Inoltre, Alfuzosina non ha licenze approvate in Taiwan (TFDA), il che significa che non c'è un'impronta normativa locale da cui derivare il testo dell'indicazione approvata o l'etichettatura di sicurezza. Questo limita ulteriormente la possibilità di condurre una valutazione di riposizionamento significativa.
 
-## Clinical Trial Evidence
+## Evidenza da Studi Clinici
 
-Currently no related clinical trials registered for any repurposing indication.
+Attualmente non sono registrati studi clinici correlati per alcuna indicazione di riposizionamento.
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-Currently no related literature available for any repurposing indication.
+Attualmente nessuna letteratura correlata disponibile per alcuna indicazione di riposizionamento.
 
-## Taiwan Market Information
+## Informazioni sul Mercato Taiwan
 
-Alfuzosina has **no approved licenses** registered with the TFDA. The drug is currently **not marketed** in Taiwan.
+Alfuzosina ha **nessuna licenza approvata** registrata presso la TFDA. Il farmaco è attualmente **non commercializzato** in Taiwan.
 
-## Safety Considerations
+## Considerazioni sulla Sicurezza
 
-> Please refer to the package insert for safety information.
+> Fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> All safety fields (key warnings, contraindications, and drug-drug interactions) returned as data gaps or not found. The TFDA package insert query returned 1 result, but structured safety data was not extracted. A manual review of the source package insert is recommended before any clinical decision-making.
+> Tutti i campi di sicurezza (avvisi chiave, controindicazioni e interazioni tra farmaci) sono stati restituiti come lacune nei dati o non trovati. La query del foglio illustrativo TFDA ha restituito 1 risultato, ma i dati di sicurezza strutturati non sono stati estratti. Una revisione manuale del foglio illustrativo di origine è consigliata prima di qualsiasi processo decisionale clinico.
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Hold**
+**Decisione: In Sospeso**
 
-**Rationale:**
-No TxGNN-predicted indications exist for Alfuzosina, and the drug is not currently marketed in Taiwan. There is insufficient data to evaluate any repurposing hypothesis at this time.
+**Razionale:**
+Non esistono indicazioni previste da TxGNN per Alfuzosina, e il farmaco non è attualmente commercializzato in Taiwan. Non ci sono dati sufficienti per valutare alcuna ipotesi di riposizionamento in questo momento.
 
-**To proceed, the following is needed:**
-- **TxGNN model re-run**: Ensure Alfuzosina is properly represented in the knowledge graph and re-run predictions
-- **DrugBank ID resolution**: The DrugBank ID is missing (`null`); resolving this (likely **DB00346**) would unlock MOA, target, and pathway data
-- **TFDA package insert parsing**: Extract structured safety data (warnings, contraindications) from the package insert PDF identified in the query log
-- **MOA data retrieval**: Query DrugBank API with the resolved ID to fill the mechanism of action data gap (DG002, severity: High)
-- **Regulatory safety data**: Address blocking data gap DG001 (severity: Blocking) — retrieve and parse TFDA labeling information before any safety screening can proceed
+**Per procedere, è necessario quanto segue:**
+- **Riesecuzione del modello TxGNN**: Assicurarsi che Alfuzosina sia correttamente rappresentata nel grafo della conoscenza e rieseguire le previsioni
+- **Risoluzione dell'ID DrugBank**: L'ID DrugBank è mancante (`null`); risolvere questo (probabilmente **DB00346**) sbloccerebbe i dati MOA, target e pathway
+- **Analisi del foglio illustrativo TFDA**: Estrarre i dati di sicurezza strutturati (avvisi, controindicazioni) dal PDF del foglio illustrativo identificato nel registro delle query
+- **Recupero dei dati MOA**: Eseguire una query dell'API DrugBank con l'ID risolto per colmare la lacuna nei dati del meccanismo d'azione (DG002, gravità: Alta)
+- **Dati di sicurezza normativa**: Affrontare la lacuna critica nei dati DG001 (gravità: Blocco) — recuperare e analizzare le informazioni di etichettatura TFDA prima che qualsiasi screening di sicurezza possa procedere
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -29,83 +29,84 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Eplerenone: From Hypertension / Post-MI Heart Failure to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Eplerenone: Dall'ipertensione / insufficienza cardiaca post-infarto miocardico all'ipertensione polmonare con meccanismo multifatteriale poco chiaro
 
-## One-Sentence Summary
+## Sintesi in una frase
 
-Eplerenone is a selective mineralocorticoid receptor antagonist (sMRA), pharmacologically established for hypertension and post-myocardial infarction heart failure, though its original indication data is not available from the Italian regulatory record.
-The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, with a prediction score of **99.50%**.
-Currently, there are **no clinical trials** and **no directly relevant publications** supporting this new indication, placing this prediction at evidence level **L5**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available from Italy regulatory data (established pharmacological uses: hypertension, post-MI heart failure) |
-| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Eplerenone è un antagonista selettivo del recettore dei mineralcorticoidi (sMRA), farmacologicamente consolidato per l'ipertensione e l'insufficienza cardiaca post-infarto miocardico, anche se i dati dell'indicazione originaria non sono disponibili nel registro normativo italiano.
+Il modello TxGNN prevede che potrebbe essere efficace per l'**ipertensione polmonare con meccanismo multifatteriale poco chiaro**, con un punteggio di previsione del **99.50%**.
+Attualmente, non vi sono **studi clinici** e **nessuna pubblicazione direttamente rilevante** a supporto di questa nuova indicazione, collocando questa previsione al livello di evidenza **L5**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica rapida
 
-Currently, detailed mechanism of action data is not available from the regulatory database. Based on established pharmacology, Eplerenone is a selective mineralocorticoid receptor (MR) antagonist — it competitively blocks aldosterone at the MR, thereby reducing sodium retention, lowering systemic blood pressure, and attenuating aldosterone-driven tissue fibrosis and vascular inflammation. Its efficacy in hypertension and post-MI left ventricular dysfunction has been validated in landmark trials (e.g., EPHESUS, EMPHASIS-HF for the MRA class).
-
-The biological rationale connecting Eplerenone to pulmonary hypertension is grounded in the renin-angiotensin-aldosterone system (RAAS). RAAS over-activation is recognized as a contributor to pulmonary arterial hypertension (PAH) pathophysiology: aldosterone promotes pulmonary arterial smooth muscle cell proliferation, extracellular matrix deposition, and vasoconstriction. Animal model data for MR antagonism in pulmonary hypertension have generated early positive signals. Blocking the terminal MR effector could theoretically interrupt this aldosterone-mediated pulmonary vascular remodeling cycle.
-
-However, the "unclear multifactorial mechanism" classification reflects a highly heterogeneous PH subgroup — multiple overlapping etiologies with varying degrees of RAAS involvement. The degree to which aldosterone is the dominant driver in any given patient within this category is unknown. While mechanistic plausibility exists, there is currently no clinical trial and no directly relevant literature to validate this hypothesis in humans. The prediction should therefore be treated as a research signal rather than a therapeutic lead.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Non disponibile nei dati normativi italiani (usi farmacologici consolidati: ipertensione, insufficienza cardiaca post-infarto miocardico) |
+| Nuova indicazione prevista | Ipertensione polmonare con meccanismo multifatteriale poco chiaro |
+| Punteggio di previsione TxGNN | 99.50% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Sospendere |
 
 ---
 
-## Literature Evidence
+## Perché questa previsione è ragionevole?
 
-Currently no related literature directly linking Eplerenone to pulmonary hypertension with unclear multifactorial mechanism is available.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel database normativo. Sulla base della farmacologia consolidata, l'eplerenone è un antagonista selettivo del recettore dei mineralcorticoidi (MR) — blocca competitivamente l'aldosterone presso l'MR, riducendo così la ritenzione di sodio, abbassando la pressione arteriosa sistemica e attenuando la fibrosi tessutale e l'infiammazione vascolare mediate dall'aldosterone. La sua efficacia nell'ipertensione e nella disfunzione ventricolare sinistra post-infarto è stata convalidata in studi di riferimento (ad es. EPHESUS, EMPHASIS-HF per la classe degli MRA).
 
-> **Note:** The evidence search retrieved 20 publications for the related indication "pulmonary hypertension owing to lung disease and/or hypoxia" (rank 2), but all retrieved papers address the general biology of hypoxia (HIF-1α signaling, neurological hypoxia, oncological hypoxia) and contain no data on Eplerenone or MR antagonism in pulmonary hypertension. They are not presented as supporting evidence.
+La base biologica che collega l'eplerenone all'ipertensione polmonare è radicata nel sistema renina-angiotensina-aldosterone (SRAA). L'iperattivazione del SRAA è riconosciuta come fattore che contribuisce alla fisiopatologia dell'ipertensione arteriosa polmonare (IAP): l'aldosterone promuove la proliferazione delle cellule della muscolatura liscia arteriosa polmonare, la deposizione della matrice extracellulare e la vasocostrizione. I dati dei modelli animali relativi all'antagonismo dell'MR nell'ipertensione polmonare hanno generato segnali iniziali positivi. Il blocco dell'effettore MR terminale potrebbe teoricamente interrompere il ciclo di rimodellamento vascolare polmonare mediato dall'aldosterone.
 
----
-
-## Italy Market Information
-
-Eplerenone currently holds **no marketing authorizations** in Italy and is not available on the Italian market. No product license data is on record.
+Tuttavia, la classificazione del "meccanismo multifatteriale poco chiaro" riflette un sottogruppo IP altamente eterogeneo — eziologie sovrapposte multiple con diversi gradi di coinvolgimento del SRAA. Il grado in cui l'aldosterone è il fattore dominante in uno qualsiasi dei pazienti all'interno di questa categoria è sconosciuto. Sebbene esista una plausibilità meccanicistica, attualmente non vi è alcuno studio clinico e nessuna letteratura direttamente rilevante per validare questa ipotesi negli esseri umani. La previsione dovrebbe quindi essere trattata come un segnale di ricerca piuttosto che come un promettente farmaco terapeutico.
 
 ---
 
-## Safety Considerations
+## Evidenza degli studi clinici
 
-Please refer to the package insert for safety information.
-
-> **Note:** Key warnings, contraindications, and drug interaction data were not available in the current evidence pack. Package insert retrieval from official regulatory sources is a prerequisite before any clinical evaluation proceeds.
+Attualmente non sono registrati studi clinici correlati.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente non è disponibile alcuna letteratura direttamente collegata all'eplerenone e all'ipertensione polmonare con meccanismo multifatteriale poco chiaro.
 
-**Rationale:**
-This prediction rests entirely on TxGNN model output (evidence level L5), with zero supporting clinical trials and no directly relevant literature. The mechanistic hypothesis (aldosterone-driven pulmonary vascular remodeling blocked by Eplerenone) is biologically coherent but entirely unvalidated in humans. The heterogeneous and poorly defined nature of the "unclear multifactorial mechanism" PH subtype further reduces the probability that a single RAAS-directed agent would be broadly effective.
+> **Nota:** La ricerca delle evidenze ha recuperato 20 pubblicazioni per l'indicazione correlata "ipertensione polmonare dovuta a malattia polmonare e/o ipossia" (classificazione 2), ma tutti gli articoli recuperati affrontano la biologia generale dell'ipossia (segnalazione di HIF-1α, ipossia neurologica, ipossia oncologica) e non contengono dati sull'eplerenone o sull'antagonismo dell'MR nell'ipertensione polmonare. Non sono presentati come evidenza di supporto.
 
-**To proceed, the following is needed:**
+---
 
-- **Safety prerequisites:** Retrieve and parse the full package insert from regulatory sources (TFDA/EMA/AIFA) to obtain contraindications, key warnings, and drug interactions — currently a blocking data gap
-- **MOA confirmation:** Query DrugBank API to formally document the mechanism of action for mechanistic linkage analysis
-- **Class-effect evidence sweep:** Conduct a systematic literature review for the broader MRA class (spironolactone, finerenone) in pulmonary hypertension, to assess whether a class-level signal exists before committing to Eplerenone specifically
-- **PH subtype refinement:** Stratify "multifactorial" PH patients by RAAS biomarkers (plasma aldosterone, renin activity) to identify a subpopulation most likely to respond
-- **Preclinical data:** Identify any animal or in vitro studies of Eplerenone or selective MR antagonism in models of pulmonary hypertension
-- **Expert validation:** Convene pulmonary hypertension specialists and clinical pharmacologists to assess feasibility of a pilot investigator-initiated trial before committing to formal development
+## Informazioni sul mercato italiano
+
+Eplerenone attualmente non detiene **nessuna autorizzazione all'immissione in commercio** in Italia e non è disponibile sul mercato italiano. Nessun dato di licenza del prodotto è registrato.
+
+---
+
+## Considerazioni sulla sicurezza
+
+Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+
+> **Nota:** I dati sugli avvertimenti chiave, le controindicazioni e le interazioni farmacologiche non erano disponibili nel pacchetto di evidenze corrente. Il recupero del foglio illustrativo da fonti normative ufficiali è un prerequisito prima che qualsiasi valutazione clinica proceda.
+
+---
+
+## Conclusione e prossimi passaggi
+
+**Decisione: Sospendere**
+
+**Razionale:**
+Questa previsione poggia interamente sull'output del modello TxGNN (livello di evidenza L5), senza alcun supporto di studi clinici e nessuna letteratura direttamente rilevante. L'ipotesi meccanicistica (rimodellamento vascolare polmonare mediato dall'aldosterone bloccato dall'eplerenone) è biologicamente coerente ma completamente non validata negli esseri umani. La natura eterogenea e poco definita del sottotipo IP "multifatteriale poco chiaro" riduce ulteriormente la probabilità che un singolo agente diretto al SRAA sarebbe ampiamente efficace.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Prerequisiti di sicurezza:** Recuperare e analizzare il foglio illustrativo completo da fonti normative (TFDA/EMA/AIFA) per ottenere controindicazioni, avvertimenti chiave e interazioni farmacologiche — attualmente un divario di dati bloccante
+- **Conferma del MOA:** Interrogare l'API DrugBank per documentare formalmente il meccanismo d'azione per l'analisi del collegamento meccanicistico
+- **Ricerca di evidenza sugli effetti di classe:** Condurre una revisione sistematica della letteratura per la classe più ampia degli MRA (spironolattone, finerenone) nell'ipertensione polmonare, per valutare se esiste un segnale di classe prima di impegnarsi specificamente nell'eplerenone
+- **Raffinamento del sottotipo IP:** Stratificare i pazienti con IP "multifatteriale" in base ai biomarcatori del SRAA (aldosterone plasmatico, attività della renina) per identificare una sottopopolazione più propensa a rispondere
+- **Dati preclinici:** Identificare eventuali studi su animali o in vitro dell'eplerenone o dell'antagonismo selettivo dell'MR in modelli di ipertensione polmonare
+- **Validazione da esperti:** Convocare specialisti di ipertensione polmonare e farmacologi clinici per valutare la fattibilità di uno studio pilota condotto da ricercatori indipendenti prima di impegnarsi nello sviluppo formale
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

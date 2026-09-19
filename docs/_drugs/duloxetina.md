@@ -29,68 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# DULOXETINA: Evaluation Suspended – Incomplete Evidence Pack
+# DULOXETINA: Valutazione Sospesa – Dossier di Prove Incompleto
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Duloxetina (Duloxetine) is an internationally recognized serotonin-norepinephrine reuptake inhibitor (SNRI), approved in multiple countries for major depressive disorder, generalized anxiety disorder, and neuropathic pain.
-However, this Evidence Pack contains **no TxGNN-predicted new indications**, **no Italy regulatory records**, and **no safety data**, making a standard drug repurposing evaluation impossible at this stage.
-A corrected re-query with the proper DrugBank identifier is required before any evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not recorded in Italy regulatory database |
-| Predicted New Indication | None (TxGNN predictions absent) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Not assessable |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+Duloxetina (duloxetine) è un inibitore della ricaptazione della serotonina e della norepinefrina (SNRI) riconosciuto a livello internazionale, approvato in diversi paesi per il disturbo depressivo maggiore, il disturbo d'ansia generalizzato e il dolore neuropatico.
+Tuttavia, questo Dossier di Prove non contiene **alcuna nuova indicazione prevista da TxGNN**, **alcun registro normativo italiano** e **alcun dato di sicurezza**, rendendo una valutazione standard del riposizionamento del farmaco impossibile in questa fase.
+È richiesta una ri-interrogazione corretta con l'identificatore DrugBank appropriato prima che qualsiasi valutazione possa procedere.
 
 ---
 
-## Why Are No Predictions Available?
+## Panoramica Rapida
 
-Duloxetina returned zero results from the Italy (AIFA) regulatory database, and the Evidence Pack carries no DrugBank ID. Without a valid DrugBank node, the TxGNN knowledge graph pipeline cannot map the drug to any disease node and therefore produces no predicted indications.
-
-This is almost certainly a **data linkage problem**, not a genuine absence of repurposing potential. Duloxetine is a well-characterized compound with an established mechanism (dual inhibition of the serotonin transporter SERT and the norepinephrine transporter NET) and an active research portfolio covering cancer-related neuropathic pain, stress urinary incontinence, fibromyalgia, and chemotherapy-induced peripheral neuropathy, among others.
-
-The most likely root causes are: (1) the INN spelling "DULOXETINA" not matching the AIFA database entry (which may index under "duloxetina" with lower-case, or by brand names **Cymbalta** / **Xeristar**), and (2) the absence of a DrugBank ID preventing TxGNN from running. Correcting these two points should unlock both the MOA data and the full prediction set.
-
----
-
-## Italy Market Information
-
-No authorizations were found in the Italy regulatory database for the query term **"DULOXETINA"**.
-
-> **Note:** Duloxetine is commercially available in Italy under the brand names **Cymbalta** and **Xeristar**. The zero-result query likely reflects a spelling mismatch or search-scope limitation in the automated pipeline rather than actual market absence. A manual AIFA search using the brand name or the lowercase INN "duloxetina" is recommended.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originaria | Non registrata nel database normativo italiano |
+| Indicazione Nuova Prevista | Nessuna (previsioni TxGNN assenti) |
+| Punteggio Previsione TxGNN | N/A |
+| Livello di Evidenza | Non valutabile |
+| Stato del Mercato Italia | Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | In Sospeso |
 
 ---
 
-## Safety Considerations
+## Perché Non Sono Disponibili Previsioni?
 
-Please refer to the package insert for safety information.
+Duloxetina ha restituito zero risultati dal database normativo italiano (AIFA), e il Dossier di Prove non contiene alcun ID DrugBank. Senza un nodo DrugBank valido, la pipeline del grafo della conoscenza TxGNN non può mappare il farmaco su alcun nodo di malattia e pertanto non produce alcuna indicazione prevista.
+
+Questo è quasi certamente un **problema di collegamento dei dati**, non un'assenza genuina di potenziale di riposizionamento. Duloxetina è un composto ben caratterizzato con un meccanismo stabilito (inibizione duale del trasportatore della serotonina SERT e del trasportatore della norepinefrina NET) e un portafoglio di ricerca attivo che copre il dolore neuropatico correlato al cancro, l'incontinenza urinaria da sforzo, la fibromialgia e la neuropatia periferica indotta dalla chemioterapia, tra gli altri.
+
+Le cause radice più probabili sono: (1) lo spelling dell'INN "DULOXETINA" che non corrisponde alla voce del database AIFA (che potrebbe essere indicizzato come "duloxetina" in minuscolo, o per i nomi commerciali **Cymbalta** / **Xeristar**), e (2) l'assenza di un ID DrugBank che impedisce l'esecuzione di TxGNN. La correzione di questi due punti dovrebbe sbloccare sia i dati del meccanismo d'azione che l'intero set di previsioni.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**.
 
-**Rationale:**
-The Evidence Pack contains no TxGNN-predicted indications, no AIFA regulatory records, and no safety warnings — none of the minimum data required for a Level-1 to Level-5 evidence assessment is present. Proceeding to evaluation would produce a structurally empty report with no actionable content.
+> **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo "duloxetina".
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve DrugBank ID:** Duloxetine's likely identifier is **DB00476**; confirm and re-inject into the pipeline.
-- **Re-query AIFA:** Use lowercase "duloxetina" and/or brand names "Cymbalta" / "Xeristar" to retrieve existing Italy market authorizations and approved indications.
-- **Re-run TxGNN:** With a valid DrugBank ID, re-execute the knowledge-graph prediction step to generate ranked predicted indications.
-- **Retrieve package insert:** Download the AIFA/TFDA package insert PDF to populate key warnings, contraindications, and DDI data.
-- **Resubmit a complete Evidence Pack:** Once the above gaps are resolved, regenerate the Evidence Pack and return for a full evaluation.
+## Considerazioni sulla Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: In Sospeso**
+
+**Razionale:**
+Il Dossier di Prove non contiene alcuna indicazione prevista da TxGNN, alcun record normativo AIFA e alcun avviso di sicurezza — nessuno dei dati minimi richiesti per una valutazione di livello di evidenza da L1 a L5 è presente. Procedere con la valutazione produrrebbe un rapporto strutturalmente vuoto senza contenuto azionabile.
+
+**Per procedere, è necessario quanto segue:**
+
+- **Risolvere l'ID DrugBank:** L'identificatore probabile di duloxetina è **DB00476**; confermare e ri-iniettare nella pipeline.
+- **Ri-interrogare AIFA:** Utilizzare la minuscola "duloxetina" e/o i nomi commerciali "Cymbalta" / "Xeristar" per recuperare le autorizzazioni di mercato italiane esistenti e le indicazioni approvate.
+- **Ri-eseguire TxGNN:** Con un ID DrugBank valido, ri-eseguire il passo di previsione del grafo della conoscenza per generare indicazioni previste classificate.
+- **Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA/TFDA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.
+- **Riconsegnare un Dossier di Prove completo:** Una volta colmate le lacune di cui sopra, rigenerare il Dossier di Prove e riconsegnare per una valutazione completa.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

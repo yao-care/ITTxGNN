@@ -29,105 +29,102 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-以下是根據 Evidence Pack 生成的完整評估報告：
+# Levetiracetam: Dalle convulsioni ad esordio parziale all'epilessia visiva
+
+## Riassunto in una frase
+
+Levetiracetam (Keppra®) è un farmaco anticonvulsivante di seconda generazione consolidato, approvato a livello mondiale per le convulsioni ad esordio parziale, le convulsioni miocloniche e le convulsioni tonico-cloniche generalizzate primarie, anche se attualmente non è autorizzato in Italia.
+Il modello TxGNN prevede che potrebbe essere efficace per l'**epilessia visiva** (epilessia fotosensibile/epilessia da ipereccitabilità della corteccia visiva),
+con **9 studi clinici** e **20 pubblicazioni** che attualmente supportano questa direzione.
 
 ---
 
-# Levetiracetam: From Partial-Onset Seizures to Visual Epilepsy
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Levetiracetam (Keppra®) is an established second-generation antiseizure medication globally approved for partial-onset seizures, myoclonic seizures, and primary generalized tonic-clonic seizures, though it is not currently authorized in Italy.
-The TxGNN model predicts it may be effective for **Visual Epilepsy** (photosensitive/visual cortex hyperexcitability epilepsy),
-with **9 clinical trials** and **20 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Partial-onset seizures (globally approved; no current Italian authorization) |
-| Predicted New Indication | Visual Epilepsy |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Voce | Contenuto |
+|------|-----------|
+| Indicazione originale | Convulsioni ad esordio parziale (approvate a livello mondiale; nessuna autorizzazione italiana attuale) |
+| Nuova indicazione prevista | Epilessia visiva |
+| Punteggio di previsione TxGNN | 99.98% |
+| Livello di evidenza | L2 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Procedere con tutele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacological literature, levetiracetam is a second-generation antiseizure medication that binds to synaptic vesicle glycoprotein 2A (SV2A), a protein embedded in presynaptic vesicle membranes. By modulating SV2A, levetiracetam attenuates abnormal burst firing and excessive neuronal synchronization without affecting normal baseline neurotransmission — a property that sets it apart from sodium channel blockers and GABA-enhancing agents.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di prove. Sulla base della letteratura farmacologica nota, levetiracetam è un farmaco anticonvulsivante di seconda generazione che si lega alla glicoproteina 2A della vescicola sinaptica (SV2A), una proteina incorporata nelle membrane delle vescicole presinaptiche. Modulando SV2A, levetiracetam attenua gli scarichi anomali a scoppio e la sincronizzazione neuronale eccessiva senza interessare la neurotrasmissione basale normale — una proprietà che la distingue dai bloccanti dei canali del sodio e dagli agenti potenzianti il GABA.
 
-Visual epilepsy (photosensitive epilepsy) is defined by visual cortex hyperexcitability: flickering light or high-contrast visual patterns trigger abnormal, synchronized cortical discharges — often expressed as generalized spike-and-wave bursts on EEG, myoclonic jerks, or tonic-clonic seizures. This core pathology maps directly onto levetiracetam's mechanism: SV2A-mediated suppression of presynaptic vesicle cycling inhibits the rapid, repetitive firing that underlies photoparoxysmal responses (PPR). The overlap is mechanistically direct.
+L'epilessia visiva (epilessia fotosensibile) è definita da ipereccitabilità della corteccia visiva: luci tremolanti o motivi visivi ad alto contrasto innescano scarichi corticali anormali e sincronizzati — spesso espressi come scoppi generalizzati di punta e onda all'EEG, scosse miocloniche o convulsioni tonico-cloniche. Questa patologia centrale si sovrappone direttamente al meccanismo di levetiracetam: la soppressione mediata da SV2A del ciclo delle vescicole presinaptiche inibisce gli scarichi rapidi e ripetitivi che sottendono alle risposte fotoparossistiche (PPR). La sovrapposizione è meccanicamente diretta.
 
-Visual and photosensitive epilepsies largely cluster within the spectrum of idiopathic generalized epilepsies (IGE), particularly juvenile myoclonic epilepsy (JME) and epilepsy with eyelid myoclonia (Jeavons syndrome). A 2025 meta-analysis (PMID 40450767) and a 2023 network meta-analysis (PMID 37378757) both position levetiracetam as an effective agent across myoclonic IGE phenotypes. A completed Phase 2 double-blind placebo-controlled trial (NCT00105040, n=87) in children with refractory partial-onset seizures is considered the highest-grade direct clinical evidence supporting levetiracetam's role in seizure types that overlap with the visual epilepsy pathway.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Phase 2 | Completed | 87 | Double-blind, placebo-controlled RCT evaluating cognitive/neuropsychological effects and anti-seizure efficacy of LEV (20–60 mg/kg/day) as adjunctive therapy in children with refractory partial-onset seizures; considered the most directly relevant trial for photosensitive/visual epilepsy EEG endpoints (PPR suppression) |
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | Prospective observational study (Liceo study) assessing levetiracetam and other new-generation AEDs as first-choice combination therapy in focal epilepsy; includes broad generalized epilepsy phenotypes, providing indirect support for LEV in visual epilepsy |
-| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Phase 4 | Unknown | 40 | Levetiracetam versus phenobarbital for neonatal seizure control; demonstrates LEV's broad-spectrum anti-seizure profile, though the neonatal population differs from visual epilepsy |
-| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | N/A | Completed | 31 | Open-label trial evaluating LEV for prophylactic treatment of migraine with or without visual aura; the aura component shares mechanistic overlap with photosensitive cortical reactivity |
-| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Phase 2 | Completed | 62 | LEV modulation of hippocampal hyperactivity in psychosis assessed with a visual scene processing task (BOLD fMRI); LEV's measurable effect on visual cortex processing circuits provides indirect mechanistic support |
-| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Phase 3 | Not Yet Recruiting | 580 | Randomized double-blind Phase 3 trial of prophylactic LEV in acute intracerebral hemorrhage (PEACH-2); large-scale seizure prevention trial, indication distinct from visual epilepsy |
-| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Phase 2 | Terminated | 1 | Pharmacologic modulation of hippocampal activity in psychosis; terminated early (n=1); not relevant to visual epilepsy |
-| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Phase 3 | Not Yet Recruiting | 1,649 | MAST trial: management of AED course duration after traumatic brain injury; large-scale Phase 3 design with LEV arm, population not specific to visual epilepsy |
-| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Phase 1/2 | Enrolling by Invitation | 24 | Intracranial gene therapy (AVASPA) for Canavan disease; LEV used as background anti-seizure medication, not the primary intervention |
+Le epilessie visive e fotosensibili si raggruppano ampiamente all'interno dello spettro delle epilessie idiopatiche generalizzate (IGE), in particolare l'epilessia mioclonica giovanile (JME) e l'epilessia con mioclonia delle palpebre (sindrome di Jeavons). Una meta-analisi del 2025 (PMID 40450767) e una meta-analisi di rete del 2023 (PMID 37378757) posizionano entrambe levetiracetam come agente efficace nei fenotipi di IGE mioclonica. Uno studio clinico di Fase 2 in doppio cieco controllato con placebo completato (NCT00105040, n=87) in bambini con convulsioni ad esordio parziale refrattarie è considerato la prova clinica diretta di più alto grado che supporta il ruolo di levetiracetam nei tipi di convulsioni che si sovrappongono al percorso dell'epilessia visiva.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-| PMID | Year | Type | Journal | Key Findings |
+| Numero dello studio | Fase | Stato | Arruolamento | Principali risultati |
+|---|---|---|---|---|
+| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Fase 2 | Completato | 87 | RCT in doppio cieco controllato con placebo che valuta gli effetti cognitivi/neuropsicologici e l'efficacia anticonvulsivante di LEV (20–60 mg/kg/giorno) come terapia aggiuntiva in bambini con convulsioni ad esordio parziale refrattarie; considerato lo studio più direttamente rilevante per gli endpoint EEG di epilessia fotosensibile/visiva (soppressione di PPR) |
+| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Fase 4 | Completato | 111 | Studio osservazionale prospettico (studio Liceo) che valuta levetiracetam e altri farmaci anticonvulsivanti di nuova generazione come terapia combinata di prima scelta nell'epilessia focale; include ampi fenotipi di epilessia generalizzata, fornendo supporto indiretto per LEV nell'epilessia visiva |
+| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Fase 4 | Sconosciuto | 40 | Levetiracetam versus fenobarbital per il controllo delle convulsioni neonatali; dimostra il profilo anticonvulsivante ad ampio spettro di LEV, sebbene la popolazione neonatale differisca dall'epilessia visiva |
+| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | N/A | Completato | 31 | Studio aperto che valuta LEV per il trattamento profilattico dell'emicrania con o senza aura visiva; la componente aura condivide una sovrapposizione meccanistica con la reattività corticale fotosensibile |
+| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Fase 2 | Completato | 62 | Modulazione LEV dell'iperattività ippocampale nella psicosi valutata con un compito di elaborazione di scene visive (BOLD fMRI); l'effetto misurabile di LEV sui circuiti di elaborazione della corteccia visiva fornisce supporto meccanistico indiretto |
+| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Fase 3 | Non ancora reclutamento | 580 | Studio di Fase 3 randomizzato in doppio cieco di LEV profilattico nell'emorragia intracerebrale acuta (PEACH-2); ampio studio di prevenzione delle convulsioni, indicazione distinta dall'epilessia visiva |
+| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Fase 2 | Terminato | 1 | Modulazione farmacologica dell'attività ippocampale nella psicosi; terminato prematuramente (n=1); non rilevante per l'epilessia visiva |
+| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Fase 3 | Non ancora reclutamento | 1,649 | Studio MAST: gestione della durata del corso del farmaco anticonvulsivante dopo trauma cranico; grande design di Fase 3 con braccio LEV, popolazione non specifica per epilessia visiva |
+| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Fase 1/2 | Arruolamento per invito | 24 | Terapia genica intracranica (AVASPA) per la malattia di Canavan; LEV utilizzato come farmaco anticonvulsivante di sfondo, non l'intervento primario |
+
+---
+
+## Evidenza dalla letteratura
+
+| PMID | Anno | Tipo | Rivista | Principali risultati |
 |------|------|------|---------|--------------|
-| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Systematic Review + Meta-analysis | *Epilepsy & Behavior* | Compares LEV with other ASMs specifically for myoclonic seizures in IGE (including JME); supports LEV efficacy in the generalized epilepsy phenotypes most closely related to photosensitive/visual epilepsy |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematic Review + Network Meta-analysis | *Journal of Neurology* | Network meta-analysis of ASMs as monotherapy and adjunctive therapy for idiopathic generalized epilepsies; positions LEV within the IGE treatment landscape directly relevant to photosensitive epilepsy |
-| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | *Seizure* | Open-label RCT comparing phenytoin vs. LEV for acute symptomatic seizures in children with acute encephalitis syndrome; provides direct RCT evidence for LEV as an effective ASM in paediatric seizure management |
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | *Pediatrics* | Randomized controlled trial of LEV versus phenobarbital for neonatal seizures; establishes LEV's favorable efficacy and safety profile across seizure types |
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | Phase 3 RCT | *The Lancet Neurology* | PEACH trial: double-blind, placebo-controlled Phase 3 trial of prophylactic LEV in intracerebral hemorrhage; high-quality evidence for LEV safety and tolerability as a seizure prevention agent |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Systematic Review + Meta-analysis | *Neurocritical Care* | Systematic review and meta-analysis of LEV for seizure prophylaxis across neurocritical conditions; evaluates optimal dosing, efficacy, and adverse event profile |
-| [38316735](https://pubmed.ncbi.nlm.nih.gov/38316735/) | 2024 | Clinical Guideline | *Neurocritical Care* | NCS clinical practice guideline for seizure prophylaxis in moderate-to-severe TBI; recommends LEV as a guideline-endorsed antiseizure agent |
-| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Review | *New England Journal of Medicine* | Authoritative review of initial seizure management in adults; establishes LEV's central role in contemporary epilepsy pharmacotherapy |
-| [35976303](https://pubmed.ncbi.nlm.nih.gov/35976303/) | 2022 | Review | *Arquivos de Neuro-Psiquiatria* | Review of status epilepticus diagnosis, monitoring, and treatment; contextualizes LEV's SV2A mechanism within broader epilepsy pathophysiology |
-| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Review | *CNS Drugs* | Comprehensive spotlight on levetiracetam documenting global approved indications, including myoclonic seizures in JME and primary generalized tonic-clonic seizures — phenotypes within the photosensitive/visual epilepsy spectrum |
+| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Revisione sistematica + Meta-analisi | *Epilepsy & Behavior* | Confronta LEV con altri ASM specificamente per le convulsioni miocloniche in IGE (incluso JME); supporta l'efficacia di LEV nei fenotipi di epilessia generalizzata più strettamente correlati all'epilessia fotosensibile/visiva |
+| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Revisione sistematica + Meta-analisi di rete | *Journal of Neurology* | Meta-analisi di rete dei farmaci anticonvulsivanti come monoterapia e terapia aggiuntiva per le epilessie idiopatiche generalizzate; posiziona LEV all'interno del panorama del trattamento IGE direttamente rilevante per l'epilessia fotosensibile |
+| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | *Seizure* | RCT aperto che confronta fenitoina vs. LEV per le convulsioni sintomatiche acute in bambini con sindrome di encefalite acuta; fornisce prova RCT diretta per LEV come farmaco anticonvulsivante efficace nella gestione delle convulsioni pediatriche |
+| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | *Pediatrics* | Studio controllato randomizzato di LEV versus fenobarbital per le convulsioni neonatali; stabilisce il profilo di efficacia e sicurezza favorevole di LEV nei tipi di convulsioni |
+| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT di Fase 3 | *The Lancet Neurology* | Studio PEACH: RCT di Fase 3 in doppio cieco controllato con placebo di LEV profilattico nell'emorragia intracerebrale; prova di alta qualità per la sicurezza e la tollerabilità di LEV come agente di prevenzione delle convulsioni |
+| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Revisione sistematica + Meta-analisi | *Neurocritical Care* | Revisione sistematica e meta-analisi di LEV per la profilassi delle convulsioni in condizioni neuro-critiche; valuta il dosaggio ottimale, l'efficacia e il profilo degli eventi avversi |
+| [38316735](https://pubmed.ncbi.nlm.nih.gov/38316735/) | 2024 | Linea guida clinica | *Neurocritical Care* | Linea guida di pratica clinica NCS per la profilassi delle convulsioni nel trauma cranico da moderato a grave; raccomanda LEV come agente anticonvulsivante raccomandato dalle linee guida |
+| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Revisione | *New England Journal of Medicine* | Revisione autorevole della gestione iniziale delle convulsioni negli adulti; stabilisce il ruolo centrale di LEV nella farmacoterapia dell'epilessia contemporanea |
+| [35976303](https://pubmed.ncbi.nlm.nih.gov/35976303/) | 2022 | Revisione | *Arquivos de Neuro-Psiquiatria* | Revisione della diagnosi dello stato di male epilettico, monitoraggio e trattamento; contestualizza il meccanismo SV2A di LEV all'interno della più ampia fisiopatologia dell'epilessia |
+| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Revisione | *CNS Drugs* | Panoramica completa su levetiracetam documentando le indicazioni approvate globalmente, incluse le convulsioni miocloniche in JME e le convulsioni tonico-cloniche generalizzate primarie — fenotipi all'interno dello spettro dell'epilessia fotosensibile/visiva |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Levetiracetam is **not currently authorized in Italy**. No marketing authorizations are recorded in the AIFA database for this active ingredient. This is notable given levetiracetam's widespread approval in other major markets (US FDA, EMA, Japan PMDA) for partial-onset seizures, myoclonic seizures, and primary generalized tonic-clonic seizures.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** Full safety data (warnings, contraindications, drug interaction profile) could not be retrieved from TFDA or DDI databases during this evidence collection cycle. Italian prescribing information should be obtained from the EMA European Public Assessment Report (EPAR) for Keppra® / generic levetiracetam before any clinical application.
+Levetiracetam è **attualmente non autorizzato in Italia**. Nessuna autorizzazione commerciale è registrata nel database AIFA per questo principio attivo. Questo è notevole considerando l'approvazione diffusa di levetiracetam in altri mercati principali (FDA degli Stati Uniti, EMA, PMDA del Giappone) per le convulsioni ad esordio parziale, le convulsioni miocloniche e le convulsioni tonico-cloniche generalizzate primarie.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-Levetiracetam's SV2A-mediated mechanism directly addresses the core pathology of visual epilepsy (visual cortex hyperexcitability), and Level L2 evidence — including a completed Phase 2 double-blind RCT and two high-quality meta-analyses in closely related IGE phenotypes — provides sufficient scientific justification to advance this candidate beyond hypothesis stage. The absence of Italian regulatory authorization is a procedural, not clinical, barrier.
+> **Nota:** I dati di sicurezza completi (avvertenze, controindicazioni, profilo di interazione farmacologica) non potevano essere recuperati dai database TFDA o DDI durante questo ciclo di raccolta di prove. Le informazioni di prescrizione italiane dovrebbero essere ottenute dalla Relazione pubblica europea di valutazione (EPAR) dell'EMA per Keppra® / levetiracetam generico prima di qualsiasi applicazione clinica.
 
-**To proceed, the following is needed:**
-- Obtain full Italian/European prescribing information (EMA SmPC for levetiracetam) to complete the safety profile, contraindications, and drug interaction assessment
-- Retrieve DrugBank API data to formally document the SV2A mechanism of action
-- Commission or identify a dedicated Phase 2/3 trial specifically targeting photoparoxysmal response (PPR) suppression on EEG as the primary endpoint
-- Confirm route-of-administration compatibility (oral and IV formulations are established; suitability for the target population should be verified)
-- Convene a specialist neurologist/epileptologist review panel to confirm clinical plausibility and define target patient population (e.g., pure photosensitive epilepsy vs. IGE with photosensitivity)
-- Pursue Italian market authorization via EMA/AIFA pathway as a prerequisite for any formal clinical programme in Italy
+---
+
+## Conclusione e fasi successive
+
+**Decisione: Procedere con tutele**
+
+**Motivazione:**
+Il meccanismo mediato da SV2A di levetiracetam affronta direttamente la patologia centrale dell'epilessia visiva (ipereccitabilità della corteccia visiva), e l'evidenza di livello L2 — incluso un RCT di Fase 2 in doppio cieco completato e due meta-analisi di alta qualità in fenotipi IGE strettamente correlati — fornisce una giustificazione scientifica sufficiente per far avanzare questo candidato oltre la fase ipotesi. L'assenza di autorizzazione normativa italiana è una barriera procedurale, non clinica.
+
+**Per procedere, è necessario quanto segue:**
+- Ottenere le informazioni complete sulla prescrizione italiana/europea (SmPC dell'EMA per levetiracetam) per completare il profilo di sicurezza, le controindicazioni e la valutazione delle interazioni farmacologiche
+- Recuperare i dati dell'API DrugBank per documentare formalmente il meccanismo d'azione SV2A
+- Commissionare o identificare uno studio clinico dedicato di Fase 2/3 specificamente mirato alla soppressione della risposta fotoparossistica (PPR) all'EEG come endpoint primario
+- Confermare la compatibilità della via di somministrazione (le formulazioni orali e IV sono consolidate; l'idoneità per la popolazione target dovrebbe essere verificata)
+- Riunire un panel di revisione di esperti neurologo/epilettologo per confermare la plausibilità clinica e definire la popolazione di pazienti target (ad es. epilessia fotosensibile pura vs. IGE con fotosensibilità)
+- Perseguire l'autorizzazione al mercato italiano tramite il percorso EMA/AIFA come prerequisito per qualsiasi programma clinico formale in Italia
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

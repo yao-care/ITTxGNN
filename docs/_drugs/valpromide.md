@@ -29,83 +29,78 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-The txgnn-pipeline skill is about pipeline management and doesn't override this report-generation task. I'll proceed with generating the evaluation report directly from the Evidence Pack.
+# Valpromide: Dall'Anticonvulsivante/Disturbi dell'Umore all'Insonnia
+
+## Sommario in una frase
+
+Valpromide è un prodotto farmaceutico amidico dell'acido valproico, storicamente associato ad applicazioni anticonvulsivanti e stabilizzanti dell'umore — sebbene nessuna indicazione approvata sia formalmente registrata in Italia. Il modello TxGNN prevede che potrebbe essere efficace per l'insonnia, con 0 studi clinici e 1 pubblicazione attualmente a supporto di questa direzione. La base di evidenza complessiva rimane minima, posizionando questo candidato al più precoce stadio di esplorazione.
 
 ---
 
-# Valpromide: From Anticonvulsant/Mood Disorders to Insomnia
+## Panoramica veloce
 
-## One-Sentence Summary
-
-Valpromide is an amide prodrug of valproic acid, historically associated with anticonvulsant and mood-stabilizing applications — though no approved indication is formally registered in Italy.
-The TxGNN model predicts it may be effective for **insomnia**, with **0 clinical trials** and **1 publication** currently supporting this direction.
-The overall evidence base remains minimal, placing this candidate at the earliest stage of exploration.
-
----
-
-## Quick Overview
-
-| Item | Content |
+| Voce | Contenuto |
 |------|---------|
-| Original Indication | No registered indication in Italy (drug not marketed) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Indicazione originale | Nessuna indicazione registrata in Italia (farmaco non commercializzato) |
+| Indicazione nuova prevista | Insonnia |
+| Punteggio di previsione TxGNN | 99.79% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data is not available for Valpromide. Based on known pharmacological information, Valpromide is a structural amide prodrug of valproic acid — upon metabolism it is converted to valproic acid, which in turn enhances GABAergic neurotransmission in the central nervous system. This mechanism is broadly analogous to that of benzodiazepines, a major class of approved sleep aids, providing a theoretical basis for a sedative/hypnotic effect.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili per valpromide. Sulla base delle informazioni farmacologiche note, valpromide è un prodotto farmaceutico amidico strutturale dell'acido valproico — durante il metabolismo viene convertito in acido valproico, che a sua volta potenzia la neurotrasmissione GABAergica nel sistema nervoso centrale. Questo meccanismo è ampiamente analogo a quello delle benzodiazepine, una classe importante di farmaci ipnotici approvati, fornendo una base teorica per un effetto sedativo/ipnotico.
 
-The conceptual link between anticonvulsant/mood-stabilizing drugs and insomnia is not unprecedented: valproate-class agents are sometimes observed to improve sleep architecture as a secondary effect in patients with epilepsy or bipolar disorder. Insomnia frequently co-occurs with agitation and anxiety disorders, and the GABAergic enhancement pathway that underlies Valpromide's anticonvulsant activity could plausibly reduce sleep-onset latency or improve sleep continuity.
+Il collegamento concettuale tra farmaci anticonvulsivanti/stabilizzanti l'umore e l'insonnia non è senza precedenti: gli agenti della classe dei valproati sono talvolta osservati migliorare l'architettura del sonno come effetto secondario nei pazienti con epilessia o disturbo bipolare. L'insonnia si presenta frequentemente insieme ad agitazione e disturbi d'ansia, e il percorso di potenziamento GABAergico che sta alla base dell'attività anticonvulsivante della valpromide potrebbe plausibilmente ridurre la latenza di inizio del sonno o migliorare la continuità del sonno.
 
-However, it is important to emphasise that this mechanistic reasoning is derived **indirectly** from the valproate class. Valpromide itself has not been directly validated for GABA-mediated sleep promotion in controlled human studies. The TxGNN model prediction (score 99.79%) reflects graph-based biological plausibility, not clinical evidence — and must be interpreted accordingly until prospective data are available.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, è importante sottolineare che questo ragionamento meccanicistico è derivato indirettamente dalla classe dei valproati. Valpromide stessa non è stata direttamente validata per la promozione del sonno mediata da GABA in studi controllati sull'uomo. La previsione del modello TxGNN (punteggio 99.79%) riflette la plausibilità biologica basata su grafo, non l'evidenza clinica — e deve essere interpretata di conseguenza fino a quando non saranno disponibili dati prospettici.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente non ci sono studi clinici correlati registrati.
+
+---
+
+## Evidenza dalla letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|------|------|---------|-------------|
-| [10370890](https://pubmed.ncbi.nlm.nih.gov/10370890/) | 1999 | Case Series (n=8) | L'Encephale | Valpromide and carbamazepine used to manage aggressive agitation, anxiety, and insomnia in Alzheimer's dementia patients; both agents showed efficacy with a more favourable side-effect profile than neuroleptics |
+| [10370890](https://pubmed.ncbi.nlm.nih.gov/10370890/) | 1999 | Serie di casi (n=8) | L'Encephale | Valpromide e carbamazepina utilizzate per gestire l'agitazione aggressiva, l'ansia e l'insonnia in pazienti con demenza di Alzheimer; entrambi gli agenti hanno mostrato efficacia con un profilo di effetti collaterali più favorevole rispetto agli antipsicotici |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Valpromide currently holds no marketing authorizations in Italy and is not commercially available on the Italian market.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No drug interaction data, contraindications, or key warnings could be retrieved for Valpromide at this time.
+Valpromide non ha attualmente autorizzazioni di commercializzazione in Italia e non è disponibile in commercio nel mercato italiano.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Non sono stati recuperati dati su interazioni farmacologiche, controindicazioni o avvertenze chiave per valpromide in questo momento.
 
-**Rationale:**
-Evidence supporting Valpromide for insomnia consists of a single 1999 case series (n=8) in which insomnia was a secondary symptom — not a primary endpoint — in a dementia population. There are no registered clinical trials, no regulatory approvals in Italy, and no verified MOA data. The TxGNN score reflects mechanistic plausibility through graph inference, not clinical validation.
+---
 
-**To proceed, the following is needed:**
-- Retrieval and review of the Valpromide package insert (TFDA/EMA sources) to establish key warnings and contraindications before any safety assessment can be conducted
-- Confirmation of mechanism of action via DrugBank API query (DG002)
-- Prospective pharmacokinetic/pharmacodynamic studies characterising Valpromide's direct CNS sleep-promoting effects independently of valproic acid conversion
-- At minimum one Phase 2 exploratory clinical trial in primary insomnia patients (general adult population, not solely dementia cohorts) before upgrading the evidence level
-- Assessment of whether Italy/EU regulatory pathway is feasible given zero existing authorizations and no approved indication in any country
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Razionale:**
+L'evidenza a supporto di valpromide per l'insonnia consiste in un'unica serie di casi del 1999 (n=8) in cui l'insonnia era un sintomo secondario — non un endpoint primario — in una popolazione con demenza. Non ci sono studi clinici registrati, nessuna approvazione normativa in Italia e nessun dato verificato sul meccanismo d'azione. Il punteggio TxGNN riflette la plausibilità meccanicistica attraverso l'inferenza su grafo, non la convalida clinica.
+
+**Per procedere, sono necessari i seguenti elementi:**
+- Recupero e revisione del foglio illustrativo di valpromide (fonti TFDA/EMA) per stabilire le avvertenze chiave e le controindicazioni prima che qualsiasi valutazione della sicurezza possa essere condotta
+- Conferma del meccanismo d'azione tramite query API DrugBank (DG002)
+- Studi prospettici di farmacocinetica/farmacodinamica che caratterizzano gli effetti ipnotici diretti della valpromide nel SNC indipendentemente dalla conversione dell'acido valproico
+- Almeno uno studio clinico esplorativo di Fase 2 in pazienti con insonnia primaria (popolazione adulta generale, non solo coorti con demenza) prima di aggiornare il livello di evidenza
+- Valutazione della fattibilità della via normativa italiana/UE dato zero autorizzazioni esistenti e nessuna indicazione approvata in nessun paese
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

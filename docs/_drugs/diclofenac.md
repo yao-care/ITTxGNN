@@ -29,68 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Diclofenac: Evidence Pack Incomplete — Repurposing Prediction Unavailable
+# Diclofenac: Pacchetto di Evidenze Incompleto — Previsione di Ripropozionamento Non Disponibile
 
-## One-Sentence Summary
+## Riepilogo in una frase
 
-Diclofenac (DrugBank ID: DB00586) is a well-known non-steroidal anti-inflammatory drug (NSAID) widely used for pain and inflammation management globally.
-However, the current Evidence Pack contains **no TxGNN-predicted new indications**, and key data fields including mechanism of action, original indication records, and safety warnings are absent.
-As a result, **a formal repurposing analysis cannot be performed at this stage.**
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | No data in Evidence Pack |
-| Predicted New Indication | None — TxGNN prediction not available |
-| TxGNN Prediction Score | Not applicable |
-| Evidence Level | Not applicable (no prediction generated) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Diclofenac (DrugBank ID: DB00586) è un noto farmaco antinfiammatorio non steroideo (FANS) ampiamente utilizzato per la gestione del dolore e dell'infiammazione a livello globale.
+Tuttavia, il presente Pacchetto di Evidenze non contiene **alcuna nuova indicazione prevista da TxGNN** e sono assenti campi di dati cruciali, tra cui il meccanismo d'azione, i registri dell'indicazione originale e gli avvisi di sicurezza.
+Di conseguenza, **a questo stadio non è possibile eseguire un'analisi formale di ripropozionamento**.
 
 ---
 
-## Why the Prediction Is Not Available
+## Panoramica Rapida
 
-The `predicted_indications` field in this Evidence Pack is empty. This typically occurs when:
-
-1. The TxGNN pipeline was not executed or did not return output for this drug candidate.
-2. The drug was filtered out prior to the scoring step due to missing graph embedding or missing DrugBank node linkage.
-3. A pipeline error occurred upstream of the prediction stage.
-
-Without a predicted indication, the core sections of a repurposing evaluation report — mechanism-to-indication mapping, clinical trial alignment, and literature support — cannot be generated. The report cannot proceed past this point without a valid TxGNN output.
-
----
-
-## Taiwan Market Information
-
-Diclofenac has **no registered product licenses in Taiwan** according to this Evidence Pack (TFDA query returned 0 results on 2026-03-29). This is inconsistent with the global status of diclofenac, which is marketed in many countries under numerous brand names. The query result should be verified — it is possible the TFDA query used "DICLOFENAC" as the exact search string and missed records listed under Chinese INN transliterations or brand names.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Nessun dato nel Pacchetto di Evidenze |
+| Nuova Indicazione Prevista | Nessuna — previsione TxGNN non disponibile |
+| Punteggio di Previsione TxGNN | Non applicabile |
+| Livello di Evidenza | Non applicabile (nessuna previsione generata) |
+| Stato del Mercato di Taiwan | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Sospendere** |
 
 ---
 
-## Safety Considerations
+## Perché la Previsione Non è Disponibile
 
-Please refer to the package insert for safety information.
+Il campo `predicted_indications` in questo Pacchetto di Evidenze è vuoto. Questo si verifica tipicamente quando:
+
+1. La pipeline TxGNN non è stata eseguita o non ha restituito output per questo candidato farmaco.
+2. Il farmaco è stato filtrato prima della fase di scoring a causa di un incorporamento del grafo mancante o di un collegamento del nodo DrugBank mancante.
+3. Si è verificato un errore della pipeline a monte della fase di previsione.
+
+Senza un'indicazione prevista, le sezioni principali di un rapporto di valutazione del ripropozionamento — mappatura meccanismo-indicazione, allineamento con le prove cliniche e supporto della letteratura — non possono essere generate. Il rapporto non può procedere oltre questo punto senza un valido output di TxGNN.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato di Taiwan
 
-**Decision: Hold**
+Diclofenac **non ha licenze di prodotto registrate a Taiwan** secondo questo Pacchetto di Evidenze (la query TFDA ha restituito 0 risultati il 2026-03-29). Ciò è incoerente con lo stato globale del diclofenac, che è commercializzato in molti paesi con numerosi nomi di marca. Il risultato della query dovrebbe essere verificato — è possibile che la query TFDA abbia utilizzato "DICLOFENAC" come stringa di ricerca esatta e abbia omesso i record elencati con traslitterazioni INN cinesi o nomi di marca.
 
-**Rationale:**
-This Evidence Pack is critically incomplete — there are no TxGNN-predicted indications, no original indication records, no mechanism of action data, and no safety data. No repurposing evaluation can be conducted without at minimum a predicted indication and supporting evidence.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni di Sicurezza
 
-- **Re-run TxGNN pipeline** for Diclofenac (DB00586) and confirm that a predicted indication output is generated
-- **Retrieve MOA data** from DrugBank API (DB00586 — known COX-1/COX-2 inhibitor; should be readily available)
-- **Re-query TFDA** using Chinese INN or common brand names (e.g., 待克菲納) to check for registered products
-- **Retrieve safety data** from TFDA package insert (query log shows `tfda_package_insert` result_status = "success" with result_count = 1 — this data was retrieved but not parsed into the Evidence Pack)
-- Once the above are resolved, re-generate Evidence Pack v5 and resubmit for evaluation
+Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Sospendere**
+
+**Giustificazione:**
+Questo Pacchetto di Evidenze è criticamente incompleto — non vi sono indicazioni previste da TxGNN, nessun record di indicazione originale, nessun dato sul meccanismo d'azione e nessun dato di sicurezza. Nessuna valutazione di ripropozionamento può essere condotta senza almeno un'indicazione prevista e prove di supporto.
+
+**Per procedere, quanto segue è necessario:**
+
+- **Eseguire nuovamente la pipeline TxGNN** per Diclofenac (DB00586) e confermare che un output di indicazione prevista sia generato
+- **Recuperare i dati MOA** dall'API DrugBank (DB00586 — inibitore COX-1/COX-2 noto; dovrebbe essere facilmente disponibile)
+- **Effettuare una nuova query TFDA** utilizzando l'INN cinese o nomi di marca comuni (es., 待克菲納) per verificare la presenza di prodotti registrati
+- **Recuperare i dati di sicurezza** dal foglio illustrativo TFDA (il log delle query mostra `tfda_package_insert` result_status = "success" con result_count = 1 — questi dati sono stati recuperati ma non analizzati nel Pacchetto di Evidenze)
+- Una volta risolti i problemi di cui sopra, rigenerare Pacchetto di Evidenze v5 e inviare nuovamente per la valutazione
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

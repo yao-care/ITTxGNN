@@ -29,78 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Disulfiram: Alcohol Use Disorder — Repurposing Evaluation (Incomplete Data)
+# Disulfiram: Disturbo da Uso di Alcol — Valutazione di Repurposing (Dati Incompleti)
 
-## One-Sentence Summary
+## Riassunto in Una Frase
 
-Disulfiram is an aldehyde dehydrogenase inhibitor historically used as an alcohol deterrent for alcohol use disorder (AUD). This Evidence Pack contains **no TxGNN repurposing predictions** — the `predicted_indications` array is empty — and key safety and mechanistic data are absent due to unresolved data gaps. **A full repurposing evaluation cannot be completed until the TxGNN pipeline output and package insert data are obtained.**
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Alcohol Use Disorder (general knowledge; not populated in Evidence Pack) |
-| Predicted New Indication | Not available — `predicted_indications` is empty |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Undetermined (no prediction output) |
-| Italy Market Status | ✗ Not Marketed (0 authorizations) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+Il disulfiram è un inibitore della aldeide deidrogenasi (ALDH) utilizzato storicamente come deterrente alcolico per il disturbo da uso di alcol (AUD). Questo Fascicolo di Evidenze contiene **nessuna previsione di repurposing di TxGNN** — l'array `predicted_indications` è vuoto — e i dati critici di sicurezza e i dati meccanicistici sono assenti a causa di lacune nei dati non risolte. **Una valutazione completa di repurposing non può essere completata fino a quando non saranno ottenuti i dati dell'output della pipeline TxGNN e i dati del foglio illustrativo.**
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panoramica Rapida
 
-No TxGNN predictions are present in this Evidence Pack, so no evidence-based mechanistic rationale for a new indication can be provided at this stage.
-
-Disulfiram is broadly known as an ALDH (aldehyde dehydrogenase) inhibitor that causes aversive acetaldehyde accumulation upon alcohol ingestion. Outside of AUD, exploratory research has examined its copper-chelating and proteasome-inhibiting properties in oncology contexts — but these directions are **not the subject of this report**, as no formal TxGNN prediction has been generated to guide the evaluation.
-
-Detailed mechanism of action data is also flagged as a high-severity data gap (DG002) and must be retrieved from DrugBank before any repurposing mechanistic analysis can be conducted.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — `predicted_indications` data is empty and no target indication has been identified.
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Disturbo da Uso di Alcol (conoscenza generale; non compilato nel Fascicolo di Evidenze) |
+| Nuova Indicazione Prevista | Non disponibile — `predicted_indications` è vuoto |
+| Punteggio di Previsione TxGNN | Non disponibile |
+| Livello di Evidenza | Indeterminato (nessun output di previsione) |
+| Stato di Commercializzazione in Italia | ✗ Non Commercializzato (0 autorizzazioni) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Rinvio** |
 
 ---
 
-## Literature Evidence
+## Perché Questa Previsione è Ragionevole?
 
-Currently no related literature available — `predicted_indications` data is empty and no target indication has been identified.
+Nessuna previsione di TxGNN è presente in questo Fascicolo di Evidenze, quindi nessuna rationale meccanicistica basata su evidenze per una nuova indicazione può essere fornita in questa fase.
 
----
+Il disulfiram è ampiamente noto come inibitore di ALDH (aldeide deidrogenasi) che causa un accumulo avversario di acetaldeide all'ingestione di alcol. Al di là del DUA, la ricerca esplorativa ha esaminato le sue proprietà chelanti il rame e inibenti il proteasoma in contesti oncologici — ma questi indirizzi **non sono oggetto di questo rapporto**, poiché nessuna previsione formale di TxGNN è stata generata per guidare la valutazione.
 
-## Italy Market Information
-
-Disulfiram has no approved product authorizations in Italy. The regulatory query returned 0 results — this drug is not currently marketed in Italy.
+I dati dettagliati del meccanismo d'azione sono inoltre segnalati come una lacuna nei dati di alta gravità (DG002) e devono essere recuperati da DrugBank prima che qualsiasi analisi meccanicistica del repurposing possa essere condotta.
 
 ---
 
-## Safety Considerations
+## Evidenza da Trial Clinici
 
-Please refer to the package insert for safety information.
-
-> Note: Although the TFDA package insert query (`tfda_package_insert`) returned a success status with 1 result, the structured safety fields (warnings, contraindications) were not parsed into the Evidence Pack. DDI query also returned no results. All three safety data categories require follow-up before any clinical safety assessment is possible.
+Attualmente nessun trial clinico correlato registrato — i dati di `predicted_indications` sono vuoti e nessuna indicazione target è stata identificata.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla Letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile — i dati di `predicted_indications` sono vuoti e nessuna indicazione target è stata identificata.
+
+---
+
+## Informazioni sul Mercato Italiano
+
+Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è attualmente commercializzato in Italia.
+
+---
+
+## Considerazioni di Sicurezza
+
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+> Nota: Sebbene la query del foglio illustrativo TFDA (`tfda_package_insert`) abbia restituito uno stato di successo con 1 risultato, i campi di sicurezza strutturati (avvertenze, controindicazioni) non sono stati analizzati nel Fascicolo di Evidenze. La query DDI ha inoltre restituito nessun risultato. Tutte e tre le categorie di dati di sicurezza richiedono un follow-up prima che sia possibile qualsiasi valutazione della sicurezza clinica.
+
+---
+
+## Conclusione e Prossimi Passi
+
+**Decisione: Rinvio**
 
 **Rationale:**
-This Evidence Pack is missing the three minimum inputs required for a repurposing evaluation: TxGNN prediction output, mechanism of action data, and structured safety information. Proceeding without these would produce an unsupported recommendation.
+Questo Fascicolo di Evidenze manca dei tre input minimi richiesti per una valutazione di repurposing: output di previsione TxGNN, dati del meccanismo d'azione e informazioni sulla sicurezza strutturate. Procedere senza questi produrrebbe una raccomandazione non supportata.
 
-**To proceed, the following is needed:**
+**Per procedere, quanto segue è necessario:**
 
-1. **Run TxGNN pipeline for Disulfiram** — generate `predicted_indications` with scores, trial links, and literature references; without this the report has no target indication to evaluate
-2. **Parse TFDA package insert content** (DG001, Blocking) — the query returned a result but structured safety data was not extracted; warnings and contraindications must be populated before any safety screening
-3. **Retrieve MOA from DrugBank API** (DG002, High) — the DrugBank query returned a result but MOA remains unpopulated; this is required for mechanistic plausibility analysis
-4. **Supplement DDI data from an alternative source** — current DDI query returned `not_found`; consult DrugBank DDI database or MICROMEDEX to rule out interaction risks
-5. **Check EMA / FDA databases for approved indications** — since Italy has 0 authorizations, international regulatory labels may provide the approved indication context needed for the report header
+1. **Eseguire la pipeline TxGNN per Disulfiram** — generare `predicted_indications` con punteggi, link ai trial e riferimenti bibliografici; senza questo il rapporto non ha nessuna indicazione target da valutare
+2. **Analizzare il contenuto del foglio illustrativo TFDA** (DG001, Blocco) — la query ha restituito un risultato ma i dati di sicurezza strutturati non sono stati estratti; avvertenze e controindicazioni devono essere compilate prima che qualsiasi screening di sicurezza sia possibile
+3. **Recuperare MOA da DrugBank API** (DG002, Alta) — la query di DrugBank ha restituito un risultato ma MOA rimane non compilato; questo è necessario per l'analisi di plausibilità meccanicistica
+4. **Integrare i dati DDI da una fonte alternativa** — la query DDI corrente ha restituito `not_found`; consultare il database DrugBank DDI o MICROMEDEX per escludere i rischi di interazione
+5. **Controllare i database EMA / FDA per le indicazioni approvate** — poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

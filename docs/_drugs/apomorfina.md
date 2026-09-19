@@ -29,59 +29,60 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# APOMORFINA: Initial Drug Repurposing Assessment
+# APOMORFINA: Valutazione Iniziale di Riposizionamento del Farmaco
 
-## One-Sentence Summary
+## Sintesi in una Frase
 
-Apomorfina (Apomorphine) is a dopamine agonist known internationally for the treatment of Parkinson's disease motor fluctuations. The TxGNN model has **no predicted new indications** for this drug at present, and the evidence pack contains significant data gaps that prevent a full evaluation.
+Apomorfina (Apomorphine) è un agonista della dopamina noto internazionalmente per il trattamento delle fluttuazioni motorie nella malattia di Parkinson. Il modello TxGNN non ha **nessuna nuova indicazione prevista** per questo farmaco al momento attuale, e il pacchetto di evidenze contiene lacune significative nei dati che impediscono una valutazione completa.
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not available in current dataset |
-| Predicted New Indication | None (no TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only, insufficient data |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originaria | Non disponibile nel dataset attuale |
+| Nuova Indicazione Prevista | Nessuna (nessuna previsione TxGNN disponibile) |
+| Punteggio di Previsione TxGNN | N/A |
+| Livello di Evidenza | L5 — Previsione del modello soltanto, dati insufficienti |
+| Stato del Mercato Taiwanese | ✗ Non commercializzato (Non commercializzato) |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | **Rinvio** |
 
-## Why is This Prediction Reasonable?
+## Perché questa Previsione è Ragionevole?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, Apomorfina (Apomorphine) is a non-selective dopamine agonist acting on both D1 and D2 receptor subtypes. It is used internationally as a rescue therapy for acute "off" episodes in advanced Parkinson's disease, typically administered via subcutaneous injection or sublingual film.
+Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di evidenze. In base alle informazioni pubblicamente note, Apomorfina (Apomorphine) è un agonista della dopamina non selettivo che agisce su entrambi i sottotipi di recettori D1 e D2. È usato internazionalmente come terapia di salvataggio per gli episodi acuti "off" nella malattia di Parkinson avanzata, tipicamente somministrato tramite iniezione sottocutanea o film sublinguale.
 
-However, the TxGNN model has not generated any predicted new indications for this compound. This may be due to incomplete knowledge-graph mapping, the absence of a DrugBank ID linkage, or insufficient network connectivity in the prediction model. Without a predicted indication, no mechanistic plausibility analysis can be performed at this time.
+Tuttavia, il modello TxGNN non ha generato alcuna nuova indicazione prevista per questo composto. Ciò potrebbe essere dovuto a una mappatura incompleta del grafo della conoscenza, all'assenza di un collegamento dell'ID DrugBank, o a una connettività di rete insufficiente nel modello di previsione. Senza un'indicazione prevista, nessuna analisi di plausibilità meccanicistica può essere eseguita al momento attuale.
 
-## Clinical Trial Evidence
+## Evidenza da Trial Clinici
 
-No TxGNN-predicted indications are available; therefore, no targeted clinical trial search was conducted for repurposing candidates.
+Nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata di trial clinici è stata condotta per i candidati di riposizionamento.
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-No TxGNN-predicted indications are available; therefore, no targeted literature search was conducted for repurposing candidates.
+Nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata della letteratura è stata condotta per i candidati di riposizionamento.
 
-## Taiwan Market Information
+## Informazioni sul Mercato Taiwanese
 
-Apomorfina currently holds **no valid marketing authorizations** from the TFDA. The drug is classified as **not marketed (Not marketed)** in Taiwan.
+Apomorfina attualmente non detiene **nessuna autorizzazione di commercializzazione valida** dalla TFDA. Il farmaco è classificato come **non commercializzato (Non commercializzato)** in Taiwan.
 
-## Safety Considerations
+## Considerazioni sulla Sicurezza
 
-> Please refer to the package insert for safety information. No TFDA label warnings, contraindications, or drug-drug interaction data were available for this compound in the current dataset.
+> Consultare il foglio illustrativo per le informazioni sulla sicurezza. Nessun avvertimento dell'etichetta TFDA, controindicazioni, o dati sulle interazioni fra farmaci erano disponibili per questo composto nel dataset attuale.
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Hold**
+**Decisione: Rinvio**
 
-**Rationale:**
-The evidence pack for Apomorfina contains critical data gaps — no DrugBank ID linkage, no original indication data, no mechanism of action, no TFDA authorization, and most importantly, **no TxGNN-predicted new indications**. Without a candidate repurposing indication, no evaluation can proceed.
+**Razionale:**
+Il pacchetto di evidenze per Apomorfina contiene lacune critiche nei dati — nessun collegamento dell'ID DrugBank, nessun dato sull'indicazione originaria, nessun meccanismo d'azione, nessuna autorizzazione TFDA, e soprattutto, **nessuna nuova indicazione prevista da TxGNN**. Senza un'indicazione candidata di riposizionamento, nessuna valutazione può procedere.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank linkage** — Confirm the DrugBank ID for Apomorphine (likely DB00714) and re-run the knowledge graph mapping
-- **Re-run TxGNN prediction** — With correct DrugBank linkage, regenerate predicted indications
-- **Obtain MOA data** — Query DrugBank API for detailed mechanism of action (dopamine D1/D2 agonism)
-- **Clarify regulatory scope** — If Taiwan marketing is not planned, consider whether another country's regulatory dataset (e.g., EMA, FDA) should be used as reference
-- **TFDA package insert analysis** — The query log indicates a successful package insert retrieval (query #4, result_count=1); this data should be parsed and integrated into the next version of the evidence pack
+**Per procedere, è necessario quanto segue:**
+- **Risolvere il collegamento DrugBank** — Confermare l'ID DrugBank per Apomorfina (probabilmente DB00714) e eseguire di nuovo la mappatura del grafo della conoscenza
+- **Eseguire di nuovo la previsione TxGNN** — Con il collegamento DrugBank corretto, rigenerare le indicazioni previste
+- **Ottenere dati sul meccanismo d'azione** — Interrogare l'API di DrugBank per il meccanismo d'azione dettagliato (agonismo dopaminergico D1/D2)
+- **Chiarire l'ambito normativo** — Se la commercializzazione in Taiwan non è prevista, considerare se dovrebbe essere utilizzato come riferimento il dataset normativo di un altro paese (ad es., EMA, FDA)
+- **Analisi del foglio illustrativo TFDA** — Il registro di query indica un recupero riuscito del foglio illustrativo (query #4, result_count=1); questi dati dovrebbero essere analizzati e integrati nella prossima versione del pacchetto di evidenze
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

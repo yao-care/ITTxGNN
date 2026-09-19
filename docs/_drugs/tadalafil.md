@@ -29,88 +29,85 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-The skill confirms this is the EU (Italy) deployment of the TxGNN pipeline. Now generating the report.
+# TADALAFIL: da Disfunzione Erettile / Ipertensione Arteriosa Polmonare a Ipertricosi Universale Congenita di Tipo Ambras
+
+## Riassunto in una frase
+
+Il tadalafil è un inibitore selettivo della PDE5 ampiamente approvato per la disfunzione erettile, l'ipertensione arteriosa polmonare (PAH) e l'iperplasia prostatica benigna.
+Il modello TxGNN assegna il suo punteggio più alto a **Ipertricosi Universale Congenita di Tipo Ambras**, con **0 trial clinici** e **0 pubblicazioni di supporto** — e l'evidenza meccanicistica suggerisce fortemente che si tratta di un **falso positivo**: il tadalafil è lui stesso una causa documentata di crescita eccessiva dei capelli (tricomegalia) come effetto avverso, il che significa che il modello ha probabilmente appreso un'associazione farmaco-effetto collaterale e l'ha erroneamente classificata come un segnale di trattamento.
 
 ---
 
-# TADALAFIL: From Erectile Dysfunction / Pulmonary Arterial Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+## Panoramica rapida
 
-## One-Sentence Summary
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originale | Disfunzione erettile, ipertensione arteriosa polmonare, iperplasia prostatica benigna (noto dalla letteratura farmaceutica; nessun record normativo italiano disponibile) |
+| Indicazione nuova prevista | Ipertricosi Universale Congenita di Tipo Ambras |
+| Punteggio di previsione TxGNN | 99.98% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | ✗ Non commercializzato (0 licenze registrate nei dati) |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
-Tadalafil is a selective PDE5 inhibitor widely approved for erectile dysfunction, pulmonary arterial hypertension (PAH), and benign prostatic hyperplasia.
-The TxGNN model assigns its highest score to **Ambras Type Hypertrichosis Universalis Congenita**, with **0 clinical trials** and **0 supporting publications** — and the mechanistic evidence strongly suggests this is a **false positive**: tadalafil is itself a documented cause of excessive hair growth (trichomegaly) as an adverse effect, meaning the model has likely learned a drug–side-effect association and misclassified it as a treatment signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Erectile dysfunction, pulmonary arterial hypertension, benign prostatic hyperplasia (known from pharmaceutical literature; no Italy regulatory record available) |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Italy Market Status | ✗ Not Marketed (0 registered licenses in data) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
-> ⚠️ **Data Note**: Tadalafil (Cialis®, Adcirca®) is commercially available across the EU, including Italy. The zero-license result likely reflects a data retrieval gap rather than true absence from the Italian market. Regulatory confirmation via AIFA should be obtained before drawing conclusions about market status.
+> ⚠️ **Nota sui dati**: Il tadalafil (Cialis®, Adcirca®) è disponibile in commercio in tutta l'UE, inclusa l'Italia. Il risultato zero licenze riflette probabilmente un divario nel recupero dei dati piuttosto che una vera assenza dal mercato italiano. Una conferma normativa tramite AIFA dovrebbe essere ottenuta prima di trarre conclusioni sullo stato del mercato.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed mechanism of action data is not present in the Evidence Pack. Based on established pharmaceutical knowledge, Tadalafil selectively inhibits phosphodiesterase type 5 (PDE5), preventing degradation of cyclic guanosine monophosphate (cGMP). The resulting rise in intracellular cGMP promotes smooth muscle relaxation and vasodilation — the basis for its approved uses in penile vasculature (erectile dysfunction), pulmonary vasculature (PAH), and prostatic smooth muscle (BPH).
+I dati dettagliati del meccanismo d'azione non sono presenti nel Pacchetto di Prove. Sulla base della conoscenza farmaceutica consolidata, il tadalafil inibisce selettivamente la fosfodiesterasi di tipo 5 (PDE5), prevenendo la degradazione del monofosfato di guanosina ciclico (cGMP). L'aumento risultante di cGMP intracellulare promuove il rilassamento della muscolatura liscia e la vasodilatazione — la base per i suoi usi approvati nella vascolatura peniena (disfunzione erettile), nella vascolatura polmonare (PAH) e nella muscolatura liscia prostatica (IPB).
 
-Ambras type hypertrichosis universalis congenita is a rare autosomal dominant disorder caused by mutations in the *TRPS1* gene. It is characterized by diffuse, excessive growth of terminal hair over the entire body surface. The pathology is rooted in abnormal hair follicle development driven by TRPS1 dysfunction, with **no known intersection with the PDE5/cGMP signaling pathway**.
+L'ipertricosi universale congenita di tipo Ambras è un raro disturbo autosomico dominante causato da mutazioni nel gene *TRPS1*. È caratterizzato da crescita eccessiva e diffusa di peli terminali sulla superficie corporea intera. La patologia è radicata nello sviluppo anomalo del follicolo pilifero guidato da disfunzione di TRPS1, con **nessuna intersezione nota con il percorso di segnalazione PDE5/cGMP**.
 
-The mechanistic direction here is, in fact, **reversed**: trichomegaly (excessive eyelash elongation) is a recognized adverse effect of PDE5 inhibitors including tadalafil, documented in multiple pharmacovigilance reports. This means that elevated cGMP likely *promotes* hair follicle growth rather than suppressing it — precisely the opposite of what would be needed to treat hypertrichosis. The TxGNN model appears to have encoded this drug–side-effect co-occurrence as a positive treatment association, a known failure mode in knowledge graph–based repurposing algorithms. **This prediction should be classified as a false positive and excluded from further development.**
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+La direzione meccanicistica qui è, in effetti, **invertita**: la tricomegalia (allungamento eccessivo delle ciglia) è un effetto avverso riconosciuto degli inibitori della PDE5, incluso il tadalafil, documentato in molteplici rapporti di farmacovigilanza. Ciò significa che l'aumento di cGMP probabilmente *promuove* la crescita del follicolo pilifero piuttosto che sopprimerla — esattamente il contrario di ciò che sarebbe necessario per trattare l'ipertricosi. Il modello TxGNN sembra aver codificato questa co-occorrenza farmaco-effetto collaterale come un'associazione di trattamento positivo, una modalità di fallimento nota negli algoritmi di repurposing basati su grafi di conoscenza. **Questa previsione dovrebbe essere classificata come un falso positivo ed esclusa da ulteriori sviluppi.**
 
 ---
 
-## Literature Evidence
+## Evidenza da trial clinici
 
-Currently no related literature available.
-
----
-
-## Italy Market Information
-
-No Italy regulatory authorizations are on record for Tadalafil in the current dataset. As noted above, this is likely a data gap. Tadalafil is EU-authorized under Cialis® (erectile dysfunction, BPH) and Adcirca® (pulmonary arterial hypertension); AIFA records should be queried directly to confirm the active authorization list.
+Attualmente nessun trial clinico correlato è registrato.
 
 ---
 
-## Safety Considerations
+## Evidenza dalla letteratura
 
-Please refer to the package insert for safety information.
-
-> Additional note relevant to the predictions in this pack: PDE5 inhibitors are known to trigger headache and, in documented cases, migraine aura via the NO–cGMP pathway activating the trigeminovascular system. One case report (PMID [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/)) records tadalafil-associated typical migraine aura without headache. This is directly relevant because rank-8 prediction (migraine with brainstem aura) represents a *safety risk*, not a treatment opportunity.
+Attualmente nessuna letteratura correlata disponibile.
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul mercato italiano
 
-**Decision: Hold**
+Nessuna autorizzazione normativa italiana è registrata per il tadalafil nel dataset attuale. Come notato sopra, probabilmente si tratta di un divario nei dati. Il tadalafil è autorizzato dall'UE con i marchi Cialis® (disfunzione erettile, IPB) e Adcirca® (ipertensione arteriosa polmonare); i record AIFA dovrebbero essere interrogati direttamente per confermare l'elenco delle autorizzazioni attive.
 
-**Rationale:**
-All top-ranked TxGNN predictions for tadalafil exhibit a systematic pattern of false positives — hair-related disorders (ranks 1, 2, 5, 6) that reflect a drug–adverse-effect inversion, a structural brain malformation with no mechanistic link (rank 4), a periodontal condition where 20 retrieved publications are disease-general literature entirely unrelated to tadalafil (rank 3), and a migraine subtype where the sole relevant publication documents tadalafil as the *cause* of the aura (rank 8). None of the top 8 predictions constitutes a viable repurposing candidate based on current evidence.
+---
 
-**The one direction worth formal investigation:**
+## Considerazioni di sicurezza
 
-Rank 7 — **kyphoscoliotic heart disease** — is the only prediction with an indirect but biologically coherent rationale: severe thoracic kyphoscoliosis can cause restrictive lung disease → chronic hypoxia → secondary pulmonary arterial hypertension, and tadalafil (Adcirca®) is FDA- and EMA-approved for PAH. While no dedicated clinical trials exist for this subgroup, tadalafil's use in scoliosis-associated PAH falls within the scope of its approved mechanism.
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**To proceed, the following is needed:**
+> Nota aggiuntiva rilevante per le previsioni in questo pacchetto: Gli inibitori della PDE5 sono noti per innescare emicrania e, in casi documentati, aura emicranica tramite il percorso NO–cGMP che attiva il sistema trigeminovascolare. Un case report (PMID [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/)) registra aura emicranica tipica associata al tadalafil senza emicrania. Questo è direttamente rilevante perché la previsione di rango 8 (emicrania con aura del tronco cerebrale) rappresenta un *rischio di sicurezza*, non un'opportunità di trattamento.
 
-- **Data gap remediation**: Retrieve MOA data from DrugBank API (DG002) and package insert warnings/contraindications (DG001) to enable a complete safety evaluation.
-- **AIFA regulatory verification**: Confirm current Tadalafil authorization status in Italy (Cialis® and Adcirca® are expected to be listed; absence from current data is likely a retrieval error).
-- **Model audit**: Flag the tadalafil predictions as a test case for PDE5i false-positive filtering. The model appears to systematically confuse side-effect graph edges with therapeutic edges for this drug class. Consider adding a side-effect exclusion layer to the post-processing pipeline.
-- **Research question (rank 7 only)**: Design a retrospective case series or sub-group analysis examining PDE5 inhibitor use in patients with kyphoscoliosis-associated PAH, using existing PAH registry data.
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: In sospeso**
+
+**Razionale:**
+Tutte le previsioni TxGNN di più alto rango per il tadalafil mostrano un modello sistematico di falsi positivi — disturbi correlati ai capelli (ranghi 1, 2, 5, 6) che riflettono un'inversione farmaco-effetto avverso, una malformazione cerebrale strutturale senza collegamento meccanicistico (rango 4), una condizione parodontale dove 20 pubblicazioni recuperate sono letteratura medica generale completamente non correlata al tadalafil (rango 3), e un sottotipo di emicrania dove l'unica pubblicazione rilevante documenta il tadalafil come la *causa* dell'aura (rango 8). Nessuna delle prime 8 previsioni costituisce un candidato viabile per il repurposing basato sulle evidenze attuali.
+
+**L'unica direzione degna di investigazione formale:**
+
+Rango 7 — **malattia cardiaca cifoscoliotica** — è l'unica previsione con una razionale indiretto ma biologicamente coerente: una grave cifoscoliosi toracica può causare malattia polmonare restrittiva → ipossia cronica → ipertensione arteriosa polmonare secondaria, e il tadalafil (Adcirca®) è approvato da FDA e EMA per PAH. Mentre nessun trial clinico dedicato esiste per questo sottogruppo, l'uso del tadalafil nell'ipertensione polmonare associata alla scoliosi rientra nell'ambito del suo meccanismo approvato.
+
+**Per procedere, quanto segue è necessario:**
+
+- **Remediation divario nei dati**: Recuperare i dati MOA dall'API DrugBank (DG002) e gli avvertimenti del foglio illustrativo/controindicazioni (DG001) per consentire una valutazione completa della sicurezza.
+- **Verifica normativa AIFA**: Confermare lo stato di autorizzazione attuale del tadalafil in Italia (Cialis® e Adcirca® dovrebbero essere elencati; l'assenza dai dati attuali è probabilmente un errore nel recupero).
+- **Audit del modello**: Segnalare le previsioni del tadalafil come caso di prova per il filtro di falso positivo PDE5i. Il modello sembra confondere sistematicamente i bordi del grafo degli effetti collaterali con i bordi terapeutici per questa classe di farmaci. Considerare di aggiungere un livello di esclusione degli effetti collaterali alla pipeline di post-processing.
+- **Domanda di ricerca (solo rango 7)**: Progettare una serie di casi retrospettivi o un'analisi di sottogruppo che esamini l'uso di inibitori della PDE5 in pazienti con ipertensione polmonare associata a cifoscoliosi, utilizzando i dati del registro PAH esistente.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

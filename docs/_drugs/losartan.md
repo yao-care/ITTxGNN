@@ -29,84 +29,81 @@ Livello di evidenza: **L4** | Indicazioni previste: **8**
 
 </div>
 
-The txgnn-pipeline skill confirms this is a report generation task within the TxGNN pipeline. Now I'll generate the full evaluation report based on the Evidence Pack.
+# Losartan: dall'Ipertensione all'Ipertensione Renovascolare Maligna
+
+## Riassunto in una frase
+
+Losartan è un antagonista consolidato dei recettori dell'angiotensina II di tipo 1 (AT1R), ampiamente utilizzato a livello mondiale per il trattamento dell'ipertensione e la protezione renale nella nefropatia diabetica — sebbene nel dataset attuale non sia registrata alcuna approvazione italiana.
+Il modello TxGNN prevede che possa essere efficace per l'**Ipertensione Renovascolare Maligna**,
+con **0 studi clinici** e **2 pubblicazioni** attualmente a supporto di questa direzione specifica.
 
 ---
 
-# Losartan: From Hypertension to Malignant Renovascular Hypertension
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Losartan is a well-established angiotensin II type 1 receptor (AT1R) blocker, widely used globally for the treatment of hypertension and renal protection in diabetic nephropathy — though no Italy approval is recorded in the current dataset.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**,
-with **0 clinical trials** and **2 publications** currently supporting this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension (no Italy approval on record; based on established pharmacology) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Ipertensione (nessuna approvazione italiana registrata; basata su farmacologia consolidata) |
+| Nuova Indicazione Prevista | Ipertensione Renovascolare Maligna |
+| Punteggio di Previsione TxGNN | 99.73% |
+| Livello di Evidenza | L4 |
+| Stato del Mercato Italiano | ✗ Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Sospensione |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on the repurposing rationale provided, Losartan is an angiotensin II type 1 receptor (AT1R) blocker — the founding member of the ARB (angiotensin receptor blocker) drug class. It directly antagonizes the vasoconstrictive, pro-inflammatory, and pro-fibrotic effects of angiotensin II (AngII) by competitively binding the AT1 receptor.
+I dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack attuale. Sulla base della razionale di riutilizzo fornita, Losartan è un antagonista dei recettori dell'angiotensina II di tipo 1 (AT1R) — il membro fondatore della classe di farmaci ARB (antagonisti dei recettori dell'angiotensina). Antagonizza direttamente gli effetti vasocostrittori, pro-infiammatori e pro-fibrotici dell'angiotensina II (AngII) legandosi competitivamente al recettore AT1.
 
-Malignant renovascular hypertension is a severe, life-threatening condition driven by extreme, sustained overactivation of the renin-angiotensin-aldosterone system (RAAS). The trigger — typically renal artery stenosis or vasculitis (e.g., Takayasu's arteritis) — causes the kidney to produce excess renin, generating high circulating AngII that drives intense afferent arteriolar constriction, dangerously elevated intraglomerular pressure, and end-organ damage. Because AT1R blockade directly cuts off this central effector, the mechanistic link between Losartan and this condition is physiologically coherent and strong.
+L'ipertensione renovascolare maligna è una condizione grave e potenzialmente letale guidata dall'iperattivazione estrema e sostenuta del sistema renina-angiotensina-aldosterone (RAAS). Il fattore scatenante — tipicamente la stenosi dell'arteria renale o la vasculite (ad es., arterite di Takayasu) — causa la produzione eccessiva di renina da parte del rene, generando elevati livelli di AngII circolante che guidano l'intensa costrizione arteriolare afferente, l'elevazione pericolosa della pressione intraglomerulare e il danno d'organo. Poiché il blocco AT1R interrompe direttamente questo effettore centrale, il collegamento meccanicistico tra Losartan e questa condizione è fisiologicamente coerente e forte.
 
-The most relevant publication (PMID 10667645) describes a real patient: Takayasu's arteritis with unilateral nephrectomy, renal artery stenosis, and malignant hypertension refractory to conventional antihypertensive regimens and non-amendable to angioplasty. Combination enalapril + losartan successfully controlled blood pressure. While this is a single case report, it directly supports the model's prediction and is fully consistent with the RAAS blockade rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Losartan in malignant renovascular hypertension.
+La pubblicazione più rilevante (PMID 10667645) descrive un paziente reale: arterite di Takayasu con nefrectomia unilaterale, stenosi dell'arteria renale e ipertensione maligna refrattaria a schemi antipertensivi convenzionali e non emendabile con angioplastica. La combinazione enalapril + losartan ha controllato con successo la pressione arteriosa. Sebbene si tratti di un singolo case report, supporta direttamente la previsione del modello ed è completamente coerente con la razionale del blocco RAAS.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [10667645](https://pubmed.ncbi.nlm.nih.gov/10667645/) | 2000 | Case Report | Angiology | Enalapril + losartan successfully controlled refractory malignant hypertension in a patient with Takayasu's arteritis and renal artery stenosis; blood pressure improved without further renal deterioration |
-| [22294399](https://pubmed.ncbi.nlm.nih.gov/22294399/) | 2009 | Animal Study | Current Protocols in Pharmacology | Describes validated rodent models (SHR, DOCA-salt, Goldblatt 2K1C) for antihypertensive evaluation; captopril and reference ARBs demonstrate activity in renovascular hypertension models, providing pharmacological context |
+Attualmente nessuna sperimentazione clinica correlata registrata per Losartan nell'ipertensione renovascolare maligna.
 
 ---
 
-## Italy Market Information
+## Evidenza dalla Letteratura
 
-Losartan currently has no recorded authorizations in Italy per this dataset (market status: Not Marketed, 0 licenses). This is notable given Losartan's widespread approval in other major markets (US, EU, Japan, Taiwan). Data completeness should be verified against the AIFA registry directly before drawing conclusions.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+| PMID | Anno | Tipo | Rivista | Risultati Principali |
+|------|------|------|---------|----------------------|
+| [10667645](https://pubmed.ncbi.nlm.nih.gov/10667645/) | 2000 | Case Report | Angiology | Enalapril + losartan ha controllato con successo l'ipertensione maligna refrattaria in un paziente con arterite di Takayasu e stenosi dell'arteria renale; la pressione arteriosa è migliorata senza ulteriore deterioramento renale |
+| [22294399](https://pubmed.ncbi.nlm.nih.gov/22294399/) | 2009 | Studio su Animali | Current Protocols in Pharmacology | Descrive modelli validati su roditori (SHR, DOCA-salt, Goldblatt 2K1C) per la valutazione antipertensiva; captopril e ARB di riferimento dimostrano attività in modelli di ipertensione renovascolare, fornendo un contesto farmacologico |
 
 ---
 
-## Conclusion and Next Steps
+## Informazioni sul Mercato Italiano
 
-**Decision: Hold**
+Losartan attualmente non ha autorizzazioni registrate in Italia secondo questo dataset (stato del mercato: Non Commercializzato, 0 licenze). Ciò è notevole dato l'ampio riconoscimento di Losartan in altri principali mercati (USA, UE, Giappone, Taiwan). La completezza dei dati dovrebbe essere verificata direttamente rispetto al registro AIFA prima di trarre conclusioni.
 
-**Rationale:**
-Despite a highly compelling mechanistic link through RAAS/AT1R blockade, the evidence base for Losartan specifically in malignant renovascular hypertension is limited to a single case report and one animal model study (L4). No registered clinical trials exist for this indication, and all Italy regulatory and safety data are unavailable, making it premature to advance without resolving these gaps.
+---
 
-**To proceed, the following is needed:**
-- Verify Italy (AIFA) approval status — Losartan is approved in most major markets; absence of records likely reflects a data gap rather than true non-approval
-- Obtain full package insert (warnings, contraindications, DDI profile) from the official AIFA/TFDA source to complete the S1 safety screen
-- Retrieve complete MOA documentation from DrugBank (DB00678)
-- Commission a targeted systematic literature review for ARBs in malignant hypertension and renovascular hypertension subtypes to establish whether L3 evidence (observational studies, meta-analyses) already exists
-- If literature review supports advancement, design a prospective pilot study or registry in patients with malignant renovascular hypertension receiving AT1R blocker therapy
+## Considerazioni di Sicurezza
+
+Fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusioni e Prossimi Passi
+
+**Decisione: Sospensione**
+
+**Razionale:**
+Nonostante un collegamento meccanicistico altamente convincente attraverso il blocco RAAS/AT1R, la base di evidenze per Losartan specificamente nell'ipertensione renovascolare maligna è limitata a un singolo case report e uno studio su modello animale (L4). Non esistono studi clinici registrati per questa indicazione, e tutti i dati normativi e di sicurezza italiani non sono disponibili, rendendo prematuro avanzare senza risolvere questi gap.
+
+**Per procedere, è necessario quanto segue:**
+- Verificare lo stato di approvazione italiano (AIFA) — Losartan è approvato nella maggior parte dei principali mercati; l'assenza di registrazioni probabilmente riflette un gap di dati piuttosto che una vera mancanza di approvazione
+- Ottenere il foglio illustrativo completo (avvertenze, controindicazioni, profilo DDI) dalla fonte ufficiale AIFA/TFDA per completare lo screening di sicurezza S1
+- Recuperare la documentazione completa MOA da DrugBank (DB00678)
+- Commissare una revisione sistematica della letteratura mirata per gli ARB nell'ipertensione maligna e nei sottotipi di ipertensione renovascolare per stabilire se l'evidenza L3 (studi osservazionali, meta-analisi) esiste già
+- Se la revisione della letteratura supporta l'avanzamento, progettare uno studio pilota prospettico o un registro in pazienti con ipertensione renovascolare maligna che ricevono terapia con bloccanti AT1R
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

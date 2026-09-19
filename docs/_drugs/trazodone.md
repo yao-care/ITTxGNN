@@ -29,93 +29,90 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-The `txgnn-pipeline` skill focuses on pipeline operations (training, validation, deployment), not report writing — my current task is governed by the system prompt's report format. I'll proceed directly to generating the evaluation report.
+# Trazodone: dal Disturbo Depressivo Maggiore al Disturbo Ossessivo-Compulsivo
+
+## Riassunto in una frase
+
+Trazodone è un antidepressivo atipico approvato dalla FDA per il trattamento del Disturbo Depressivo Maggiore, che funziona principalmente attraverso meccanismi serotoninergici.
+Il modello TxGNN predice che potrebbe essere efficace per il **Disturbo Ossessivo-Compulsivo (DOC)**,
+con **0 studi clinici** e **20 pubblicazioni** che attualmente supportano questa direzione.
 
 ---
 
-# Trazodone: From Major Depressive Disorder to Obsessive-Compulsive Disorder
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Trazodone is an atypical antidepressant that has been FDA-approved for the treatment of Major Depressive Disorder, working primarily through serotonergic mechanisms.
-The TxGNN model predicts it may be effective for **Obsessive-Compulsive Disorder (OCD)**,
-with **0 clinical trials** and **20 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder (FDA-approved; not registered in Italy) |
-| Predicted New Indication | Obsessive-Compulsive Disorder (OCD) |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L2 |
-| Italy Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione Originale | Disturbo Depressivo Maggiore (approvato dalla FDA; non registrato in Italia) |
+| Indicazione Prevista Nuova | Disturbo Ossessivo-Compulsivo (DOC) |
+| Punteggio di Previsione TxGNN | 99.95% |
+| Livello di Evidenza | L2 |
+| Stato del Mercato Italiano | Non Commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Consigliata | Procedere con Cautele |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, formal mechanism of action data is not available from DrugBank. However, based on the published literature, trazodone is an atypical antidepressant with two key pharmacological actions: (1) inhibition of serotonin (5-HT) reuptake, and (2) antagonism at 5-HT2A/2C receptors. These dual serotonergic effects form the theoretical foundation for its potential use in OCD.
+Attualmente, i dati formali sul meccanismo d'azione non sono disponibili da DrugBank. Tuttavia, sulla base della letteratura pubblicata, trazodone è un antidepressivo atipico con due azioni farmacologiche chiave: (1) inibizione del reuptake della serotonina (5-HT), e (2) antagonismo ai recettori 5-HT2A/2C. Questi doppi effetti serotoninergici costituiscono la base teorica per il suo potenziale utilizzo nel DOC.
 
-OCD is understood to involve dysregulation of serotonin neurotransmission, and the current first-line pharmacotherapy — SSRIs and clomipramine — work precisely through the serotonin system. Trazodone shares this serotonergic profile, though its affinity for the 5-HT transporter is lower than that of typical SSRIs, which may limit its potency relative to standard OCD treatments. Notably, a 1987 neuroimaging study (PMID 3501130) found that trazodone's treatment response in OCD patients correlated with measurable shifts in caudate nucleus glucose metabolism measured by PET — providing rare neurobiological evidence for a mechanistic link.
+Il DOC è compreso come implicante una disregolazione della neurotrasmissione serotoninergica, e la farmacoterapia di prima linea attuale — SSRI e clomipramina — agisce precisamente attraverso il sistema della serotonina. Trazodone condivide questo profilo serotoninergico, sebbene la sua affinità per il trasportatore 5-HT sia inferiore a quella degli SSRI tipici, il che può limitare la sua potenza rispetto ai trattamenti standard per il DOC. Degno di nota, uno studio di neuroimaging del 1987 (PMID 3501130) ha riscontrato che la risposta al trattamento con trazodone nei pazienti con DOC era correlata a cambiamenti misurabili nel metabolismo del glucosio nel nucleo caudato misurato mediante PET — fornendo rare prove neurobiologiche per un collegamento meccanicistico.
 
-The mechanistic overlap is therefore genuine, if partial. Trazodone may be particularly useful in OCD patients who are clomipramine-resistant, in those with comorbid depression and insomnia (where trazodone's H1-antagonist sedating properties provide additional benefit), or as an augmentation strategy. The evidence is modest and dates primarily from the late 1980s–1990s, which means modern controlled trials are lacking — but the biological rationale is well-grounded.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+La sovrapposizione meccanicistica è quindi genuina, seppur parziale. Trazodone può essere particolarmente utile nei pazienti con DOC resistenti a clomipramina, in quelli con depressione comorbida e insonnia (dove le proprietà sedative dell'antagonista H1 di trazodone forniscono un beneficio aggiuntivo), o come strategia di potenziamento. L'evidenza è modesta e risale principalmente dalla fine degli anni '80-'90, il che significa che mancano studi controllati moderni — ma la base biologica è ben fondata.
 
 ---
 
-## Literature Evidence
+## Evidenza da Studi Clinici
 
-| PMID | Year | Type | Journal | Key Findings |
+Attualmente nessuno studio clinico correlato registrato.
+
+---
+
+## Evidenza da Letteratura
+
+| PMID | Anno | Tipo | Rivista | Principali Risultati |
 |------|------|------|---------|-------------|
-| [1629380](https://pubmed.ncbi.nlm.nih.gov/1629380/) | 1992 | RCT | Journal of Clinical Psychopharmacology | Double-blind, placebo-controlled study of trazodone in OCD patients; investigated antiobsessive efficacy in a controlled setting |
-| [8993077](https://pubmed.ncbi.nlm.nih.gov/8993077/) | 1996 | Review | Psychopharmacology Bulletin | Reviews mono- and polypharmacotherapy of OCD; OCD responds exclusively to SRIs; trazodone discussed in augmentation context |
-| [8134850](https://pubmed.ncbi.nlm.nih.gov/8134850/) | 1994 | Review | Southern Medical Journal | Pharmacologic management of OCD; serotonin/dopamine dysregulation hypothesis; serotonergic agents including trazodone reviewed |
-| [27744763](https://pubmed.ncbi.nlm.nih.gov/27744763/) | 2017 | Review | Postgraduate Medicine | Comprehensive review of trazodone's mechanism, formulations, and off-label uses including OCD, insomnia, and anxiety disorders |
-| [8331098](https://pubmed.ncbi.nlm.nih.gov/8331098/) | 1993 | Review | The Journal of Clinical Psychiatry | Biological approaches to treatment-resistant OCD; serotonin-augmentation strategies reviewed; trazodone referenced in open-label reports |
-| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Open-label study | Clinical Neuropharmacology | Trazodone in 9 clomipramine-resistant OCD patients; whole-group showed significant mild improvement; 3 patients responded very favorably with relapse on withdrawal |
-| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Neuroimaging study | Psychopathology | Treatment response to trazodone (±MAOI) correlated with shifts in caudate nucleus glucose metabolism by PET; neurobiological mechanism support |
-| [29343875](https://pubmed.ncbi.nlm.nih.gov/29343875/) | 2017 | Case report | Rivista di Psichiatria | Trazodone prolonged-release in bipolar II/OCD comorbidity; simultaneously managed depressive and obsessive-compulsive symptoms |
-| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Case report | The Journal of Nervous and Mental Disease | Two severe OCD + depression patients unresponsive to multiple antidepressants achieved rapid and impressive improvement with trazodone |
-| [6703152](https://pubmed.ncbi.nlm.nih.gov/6703152/) | 1984 | Case series | The American Journal of Psychiatry | Early clinical observation documenting trazodone use in OCD patients |
+| [1629380](https://pubmed.ncbi.nlm.nih.gov/1629380/) | 1992 | RCT | Journal of Clinical Psychopharmacology | Studio in doppio cieco, controllato con placebo, di trazodone in pazienti con DOC; ha investigato l'efficacia antiossiccativa in un contesto controllato |
+| [8993077](https://pubmed.ncbi.nlm.nih.gov/8993077/) | 1996 | Revisione | Psychopharmacology Bulletin | Revisioni di mono- e polifarmacoterapia del DOC; il DOC risponde esclusivamente agli SSRI; trazodone discusso nel contesto di potenziamento |
+| [8134850](https://pubmed.ncbi.nlm.nih.gov/8134850/) | 1994 | Revisione | Southern Medical Journal | Gestione farmacologica del DOC; ipotesi di disregolazione serotonina/dopamina; agenti serotoninergici incluso trazodone revisati |
+| [27744763](https://pubmed.ncbi.nlm.nih.gov/27744763/) | 2017 | Revisione | Postgraduate Medicine | Revisione completa del meccanismo di trazodone, formulazioni, e usi off-label inclusi DOC, insonnia, e disturbi d'ansia |
+| [8331098](https://pubmed.ncbi.nlm.nih.gov/8331098/) | 1993 | Revisione | The Journal of Clinical Psychiatry | Approcci biologici al DOC resistente al trattamento; strategie di potenziamento della serotonina revisate; trazodone riferito in rapporti in open-label |
+| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Studio open-label | Clinical Neuropharmacology | Trazodone in 9 pazienti con DOC resistenti a clomipramina; l'intero gruppo ha mostrato un miglioramento significativo lieve; 3 pazienti hanno risposto molto favorevolmente con ricaduta dopo la sospensione |
+| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Studio neuroimaging | Psychopathology | La risposta al trattamento con trazodone (±IMAO) è correlata a cambiamenti nel metabolismo del glucosio nel nucleo caudato mediante PET; supporto del meccanismo neurobiologico |
+| [29343875](https://pubmed.ncbi.nlm.nih.gov/29343875/) | 2017 | Rapporto di caso | Rivista di Psichiatria | Trazodone a rilascio prolungato in comorbilità bipolare II/DOC; ha gestito simultaneamente i sintomi depressivi e ossessivo-compulsivi |
+| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Rapporto di caso | The Journal of Nervous and Mental Disease | Due pazienti gravi con DOC + depressione non responsivi a molteplici antidepressivi hanno ottenuto un miglioramento rapido e impressionante con trazodone |
+| [6703152](https://pubmed.ncbi.nlm.nih.gov/6703152/) | 1984 | Serie di casi | The American Journal of Psychiatry | Osservazione clinica precoce documentazione dell'uso di trazodone in pazienti con DOC |
 
 ---
 
-## Italy Market Information
+## Informazioni sul Mercato Italiano
 
-Trazodone is not currently marketed in Italy. No marketing authorizations are on record.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Trazodone non è attualmente commercializzato in Italia. Non sono registrate autorizzazioni di immissione in commercio.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni di Sicurezza
 
-**Decision: Proceed with Guardrails**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-TxGNN assigns a near-perfect prediction score (99.95%), and the serotonergic mechanism of trazodone provides a credible biological basis for OCD treatment. A double-blind, placebo-controlled RCT (PMID 1629380) and an open-label study in clomipramine-resistant patients (PMID 2119885) provide Level 2 evidence, though the trials are small and dated (1990s). The absence of any registered modern clinical trial and Italy's zero-authorization status mean this should be treated as a research-stage hypothesis, not a clinical recommendation.
+---
 
-**To proceed, the following is needed:**
-- Retrieve full text and results of the 1992 RCT (PMID 1629380) to assess effect size, sample size, and outcome measures
-- Obtain trazodone's full mechanism of action data from DrugBank to strengthen the mechanistic rationale
-- Obtain Italy package insert warnings and contraindications (currently a blocking data gap)
-- Clarify the drug interaction profile, particularly with other serotonergic agents used in OCD (clomipramine, fluoxetine, fluvoxamine)
-- Consider designing or identifying an ongoing Phase 2/3 trial in treatment-resistant OCD as the most efficient path to upgrade evidence from L2 to L1
-- Evaluate whether the prolonged-release formulation (referenced in PMID 29343875) offers a more favorable tolerability profile for OCD patients
+## Conclusione e Prossimi Passi
+
+**Decisione: Procedere con Cautele**
+
+**Fondamento logico:**
+TxGNN assegna un punteggio di previsione quasi perfetto (99.95%), e il meccanismo serotoninergico di trazodone fornisce una base biologica credibile per il trattamento del DOC. Un RCT in doppio cieco, controllato con placebo (PMID 1629380) e uno studio open-label in pazienti resistenti a clomipramina (PMID 2119885) forniscono un'evidenza di Livello L2, sebbene gli studi siano piccoli e datati (anni '90). L'assenza di qualsiasi studio clinico moderno registrato e lo stato zero-autorizzazioni dell'Italia significano che questo dovrebbe essere trattato come un'ipotesi in fase di ricerca, non una raccomandazione clinica.
+
+**Per procedere, è necessario:**
+- Recuperare il testo completo e i risultati dell'RCT del 1992 (PMID 1629380) per valutare la dimensione dell'effetto, la dimensione del campione, e le misure di risultato
+- Ottenere i dati completi del meccanismo d'azione di trazodone da DrugBank per rafforzare la base meccanicistica
+- Ottenere gli avvertimenti del foglio illustrativo italiano e le controindicazioni (attualmente una lacuna dati bloccante)
+- Chiarire il profilo di interazione farmacologica, in particolare con altri agenti serotoninergici utilizzati nel DOC (clomipramina, fluoxetine, fluvoxamina)
+- Considerare la progettazione o l'identificazione di un trial di Fase 2/3 in corso nel DOC resistente al trattamento come il percorso più efficiente per aggiornare l'evidenza da L2 a L1
+- Valutare se la formulazione a rilascio prolungato (riferita in PMID 29343875) offre un profilo di tollerabilità più favorevole per i pazienti con DOC
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

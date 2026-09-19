@@ -29,102 +29,99 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-Looking at the Evidence Pack, I'll now generate the Modafinil repurposing evaluation report.
+# Modafinil: Da Narcolessia / Sonnolenza Diurna Eccessiva a Insonnia
+
+## Riassunto in una frase
+
+Il modafinil è un agente promotore della veglia approvato a livello globale per la narcolessia, l'eccessiva sonnolenza associata all'apnea ostruttiva del sonno e il disturbo del sonno legato al lavoro a turni — ma attualmente non dispone di autorizzazione all'immissione in commercio in Italia.
+Il modello TxGNN predice che potrebbe avere rilevanza per l'**Insonnia**, con **29 studi clinici** e **19 pubblicazioni** identificate nella ricerca sulle prove.
+Tuttavia, la stragrande maggioranza affronta la sonnolenza diurna piuttosto che l'insonnia direttamente, e un fondamentale paradosso meccanicistico mina significativamente la plausibilità di questa previsione.
 
 ---
 
-# Modafinil: From Narcolepsy / Excessive Daytime Sleepiness to Insomnia
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Modafinil is a wakefulness-promoting agent approved globally for narcolepsy, obstructive sleep apnea-associated excessive sleepiness, and shift work sleep disorder — but currently carries no marketing authorization in Italy.
-The TxGNN model predicts it may have relevance for **Insomnia**, with **29 clinical trials** and **19 publications** identified in the evidence search.
-However, the vast majority address daytime sleepiness rather than insomnia directly, and a fundamental mechanistic paradox significantly undermines the plausibility of this prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Narcolepsy, OSA-associated excessive sleepiness, shift work sleep disorder (globally approved; no Italy marketing authorization) |
-| Predicted New Indication | Insomnia (disease) |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 |
-| Italy Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Narcolessia, eccessiva sonnolenza associata a OSA, disturbo del sonno legato al lavoro a turni (approvato a livello globale; nessuna autorizzazione all'immissione in commercio in Italia) |
+| Indicazione prevista | Insonnia (malattia) |
+| Punteggio di previsione TxGNN | 99.85% |
+| Livello di evidenza | L4 |
+| Stato del mercato italiano | ✗ Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | In sospeso |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on published literature, modafinil is a wakefulness-promoting agent that inhibits the dopamine transporter (DAT), thereby increasing synaptic dopamine availability in wake-promoting circuits. It also enhances norepinephrine (NE) and orexin/hypocretin signaling — effects that collectively sustain alertness and counteract pathological sleepiness. These properties underpin its approved uses across narcolepsy, obstructive sleep apnea (residual excessive sleepiness), and shift work sleep disorder.
+I dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base della letteratura pubblicata, il modafinil è un agente promotore della veglia che inibisce il trasportatore della dopamina (DAT), aumentando così la disponibilità di dopamina sinaptica nei circuiti promotori della veglia. Migliora anche la segnalazione di noradrenalina (NE) e orexina/ipocretina — effetti che collettivamente sostengono l'allerta e contrastano la sonnolenza patologica. Queste proprietà sono alla base dei suoi usi approvati nella narcolessia, nell'apnea ostruttiva del sonno (eccessiva sonnolenza residua) e nel disturbo del sonno legato al lavoro a turni.
 
-Because modafinil carries approved indications across multiple sleep disorder subtypes, all of which cluster together in the TxGNN knowledge graph, the model likely generated a high prediction score (99.85%) based on topological proximity to insomnia rather than a directional therapeutic signal. One Phase 4 trial (NCT00124384) did specifically enroll primary insomnia patients, though the study aim was to improve *daytime functioning* when modafinil was added to cognitive behavioral therapy — not to treat nighttime sleep difficulties directly.
+Poiché il modafinil porta indicazioni approvate su molteplici sottotipi di disturbi del sonno, tutti i quali si raggruppano insieme nel grafo della conoscenza TxGNN, il modello probabilmente ha generato un punteggio di previsione elevato (99.85%) basato sulla prossimità topologica al nodo insonnia piuttosto che su un segnale terapeutico direzionale. Uno studio di Fase 4 (NCT00124384) ha specificamente arruolato pazienti con insonnia primaria, sebbene l'obiettivo dello studio fosse di migliorare il *funzionamento diurno* quando il modafinil è stato aggiunto alla terapia cognitivo-comportamentale — non per trattare direttamente le difficoltà di sonno notturno.
 
-**Critical mechanistic concern:** There is a fundamental paradox at the core of this prediction. Insomnia is characterised by unwanted wakefulness and difficulty maintaining sleep, and effective treatment requires agents that facilitate sleep onset or maintenance. Modafinil, however, *promotes* wakefulness — and is itself classified as a drug that can *cause* insomnia as an adverse effect. This prediction almost certainly reflects a knowledge-graph false positive: graph proximity to sleep disorder nodes does not capture the directionality of pharmacological action. This prediction should be interpreted with extreme caution and does not constitute a credible repurposing candidate without additional mechanistic justification.
+**Preoccupazione meccanicistica critica:** Esiste un paradosso fondamentale al centro di questa previsione. L'insonnia è caratterizzata da veglia indesiderata e difficoltà nel mantenere il sonno, e il trattamento efficace richiede agenti che facilitino l'inizio del sonno o il suo mantenimento. Il modafinil, tuttavia, *promuove* la veglia — ed è esso stesso classificato come un farmaco che può *causare* insonnia come effetto avverso. Questa previsione quasi certamente riflette un falso positivo del grafo della conoscenza: la prossimità del grafo ai nodi dei disturbi del sonno non cattura la direzionalità dell'azione farmacologica. Questa previsione deve essere interpretata con estrema cautela e non costituisce un candidato credibile al riposizionamento senza una ulteriore giustificazione meccanicistica.
 
 ---
 
-## Clinical Trial Evidence
+## Prove da studi clinici
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Numero trial | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Phase 4 | Completed | 40 | **Modafinil** alone or combined with CBT-I in primary insomnia; primary goal was improving daytime functioning, with secondary assessment of insomnia severity — does not constitute an insomnia treatment trial |
-| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | Completed | 138 | CBT-I ± armodafinil for insomnia and fatigue in breast cancer survivors post-chemotherapy; four-arm design; armodafinil intended to counter cancer-related fatigue, not as a direct sleep aid |
-| [NCT01019187](https://clinicaltrials.gov/study/NCT01019187) | Phase 2 | Completed | 226 | CBT-I ± armodafinil in cancer survivors with insomnia and fatigue after chemotherapy; same rationale as NCT01091974 — larger companion study |
-| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | Completed | 70 | Pilot study of BBT-I ± armodafinil 150 mg/day in breast cancer patients with insomnia; preliminary design, limited power |
-| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | N/A | Completed | 39 | Armodafinil and/or CBT-I for insomnia comorbid with obstructive sleep apnea; assessed sleep continuity and CPAP adherence — small sample, no Phase designation |
-| [NCT06404086](https://clinicaltrials.gov/study/NCT06404086) | Phase 2 | Completed | 830 | RECOVER-SLEEP platform: multi-intervention evaluation for sleep disturbances in Long COVID (PASC); specific interventions per appendix, modafinil role unclear from summary |
-| [NCT06404099](https://clinicaltrials.gov/study/NCT06404099) | Phase 2 | Active, not recruiting | 361 | RECOVER-SLEEP platform: ongoing evaluation of interventions for PASC sleep disturbances; results pending |
-| [NCT01965925](https://clinicaltrials.gov/study/NCT01965925) | Phase 4 | Completed | 18 | **Modafinil** for circadian and cognitive dysfunction in stable bipolar disorder; sleep measured as secondary endpoint — very small sample (n=18) |
-| [NCT00233090](https://clinicaltrials.gov/study/NCT00233090) | Phase 2 | Terminated | 21 | **Modafinil** vs. placebo for post-TBI fatigue; terminated early — insufficient evidence |
-| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Phase 4 | Terminated | 2 | **Modafinil** for sleep/wake disturbances in older adults; terminated after enrolling only 2 participants — no conclusions possible |
+| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fase 4 | Completato | 40 | **Modafinil** da solo o combinato con CBT-I nell'insonnia primaria; l'obiettivo principale era il miglioramento del funzionamento diurno, con valutazione secondaria della gravità dell'insonnia — non costituisce uno studio sul trattamento dell'insonnia |
+| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Fase 2 | Completato | 138 | CBT-I ± armodafinil per insonnia e affaticamento in sopravvissuti al cancro al seno dopo chemioterapia; disegno a quattro bracci; l'armodafinil era inteso a contrastare l'affaticamento correlato al cancro, non come ausilio diretto del sonno |
+| [NCT01019187](https://clinicaltrials.gov/study/NCT01019187) | Fase 2 | Completato | 226 | CBT-I ± armodafinil nei sopravvissuti al cancro con insonnia e affaticamento dopo chemioterapia; stessa logica di NCT01091974 — studio gemello più ampio |
+| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Fase 2 | Completato | 70 | Studio pilota di BBT-I ± armodafinil 150 mg/giorno in pazienti con cancro al seno con insonnia; disegno preliminare, potenza limitata |
+| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | N/A | Completato | 39 | Armodafinil e/o CBT-I per insonnia comorbida con apnea ostruttiva del sonno; valutati continuità del sonno e aderenza CPAP — campione piccolo, nessuna designazione di Fase |
+| [NCT06404086](https://clinicaltrials.gov/study/NCT06404086) | Fase 2 | Completato | 830 | Piattaforma RECOVER-SLEEP: valutazione multi-intervento per disturbi del sonno nel Long COVID (PASC); il ruolo specifico del modafinil non è chiaro dal riassunto |
+| [NCT06404099](https://clinicaltrials.gov/study/NCT06404099) | Fase 2 | Attivo, non in reclutamento | 361 | Piattaforma RECOVER-SLEEP: valutazione in corso di interventi per disturbi del sonno PASC; risultati in sospeso |
+| [NCT01965925](https://clinicaltrials.gov/study/NCT01965925) | Fase 4 | Completato | 18 | **Modafinil** per disfunzione circadiana e cognitiva nel disturbo bipolare stabile; sonno misurato come endpoint secondario — campione molto piccolo (n=18) |
+| [NCT00233090](https://clinicaltrials.gov/study/NCT00233090) | Fase 2 | Terminato | 21 | **Modafinil** vs. placebo per affaticamento post-TBI; terminato precocemente — prove insufficienti |
+| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fase 4 | Terminato | 2 | **Modafinil** per disturbi del sonno/veglia in anziani; terminato dopo l'arruolamento di soli 2 partecipanti — nessuna conclusione possibile |
 
 ---
 
-## Literature Evidence
+## Prove dalla letteratura
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|------|------|---------|---------|
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Evidence-based review | *Drugs* | Comprehensive RCT-based review of approved and investigational modafinil uses; confirms wake-promoting profile across narcolepsy, OSA, SWSD, and fatigue states — no support for primary insomnia treatment |
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematic review / Meta-analysis | *PLoS One* | Modafinil significantly reduces fatigue and excessive daytime sleepiness in multiple neurological disorders; confirms unidirectional wake-promoting effect |
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Cochrane-style systematic review | *Parkinsonism & Related Disorders* | Modafinil improves daytime sleepiness in Parkinson's disease; does not address insomnia as a treatment target |
-| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | EBM guideline review | *Movement Disorders* | MDS evidence-based review of non-motor Parkinson's treatments; modafinil recommended for excessive daytime sleepiness — not for insomnia |
-| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Narrative review | *Expert Opinion on Pharmacotherapy* | Pharmacological and non-pharmacological management of sleep disturbances in Parkinson's disease; modafinil discussed for sleepiness, not insomnia |
-| [15824337](https://pubmed.ncbi.nlm.nih.gov/15824337/) | 2005 | RCT | *Neurology* | Modafinil for fatigue in multiple sclerosis; confirms wake-promoting effect — insomnia not an endpoint |
-| [18219235](https://pubmed.ncbi.nlm.nih.gov/18219235/) | 2008 | RCT | *J Head Trauma Rehabilitation* | Modafinil for fatigue and excessive daytime sleepiness in chronic TBI; no insomnia-specific endpoint |
-| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | *Drugs* | Shift work sleep disorder: burden and management; modafinil reduces EDS in SWSD — directionality opposite to insomnia therapy |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | *Revue Neurologique* | Narcolepsy with cataplexy; sleep maintenance insomnia noted as a narcolepsy symptom, but modafinil's role targets daytime sleepiness, not nocturnal sleep |
-| [20166851](https://pubmed.ncbi.nlm.nih.gov/20166851/) | 2010 | Review | *Expert Opinion on Emerging Drugs* | Emerging treatments for narcolepsy; modafinil reviewed as the primary daytime EDS pharmacotherapy — not applicable to insomnia |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Revisione basata su prove | *Drugs* | Revisione completa basata su RCT degli usi del modafinil approvati e investigazionali; conferma il profilo promotore della veglia nella narcolessia, OSA, SWSD e stati di affaticamento — nessun supporto per il trattamento dell'insonnia primaria |
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Revisione sistematica / Meta-analisi | *PLoS One* | Il modafinil riduce significativamente l'affaticamento e l'eccessiva sonnolenza diurna in molteplici disturbi neurologici; conferma l'effetto promotore della veglia unidirezionale |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Revisione nello stile Cochrane | *Parkinsonism & Related Disorders* | Il modafinil migliora la sonnolenza diurna nella malattia di Parkinson; non affronta l'insonnia come obiettivo terapeutico |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Revisione linee guida EBM | *Movement Disorders* | Revisione basata su prove MDS dei trattamenti non motori del Parkinson; il modafinil è raccomandato per l'eccessiva sonnolenza diurna — non per l'insonnia |
+| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Revisione narrativa | *Expert Opinion on Pharmacotherapy* | Gestione farmacologica e non farmacologica dei disturbi del sonno nella malattia di Parkinson; il modafinil discusso per la sonnolenza, non per l'insonnia |
+| [15824337](https://pubmed.ncbi.nlm.nih.gov/15824337/) | 2005 | RCT | *Neurology* | Modafinil per affaticamento nella sclerosi multipla; conferma l'effetto promotore della veglia — nessun endpoint specifico per l'insonnia |
+| [18219235](https://pubmed.ncbi.nlm.nih.gov/18219235/) | 2008 | RCT | *J Head Trauma Rehabilitation* | Modafinil per affaticamento e eccessiva sonnolenza diurna nel TBI cronico; nessun endpoint specifico per l'insonnia |
+| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Revisione | *Drugs* | Disturbo del sonno legato al lavoro a turni: onere e gestione; il modafinil riduce l'EDS nel SWSD — direzionalità opposta alla terapia dell'insonnia |
+| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Revisione | *Revue Neurologique* | Narcolessia con cataplessia; l'insonnia nel mantenimento del sonno annotata come sintomo della narcolessia, ma il ruolo del modafinil è rivolto alla sonnolenza diurna, non al sonno notturno |
+| [20166851](https://pubmed.ncbi.nlm.nih.gov/20166851/) | 2010 | Revisione | *Expert Opinion on Emerging Drugs* | Trattamenti emergenti per la narcolessia; il modafinil esaminato come la principale farmacoterapia per l'EDS diurno — non applicabile all'insonnia |
 
 ---
 
-## Italy Market Information
+## Informazioni sul mercato italiano
 
-Modafinil has **no marketing authorizations** currently registered in Italy. No license or approved indication data is available for this report.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Il modafinil attualmente **non ha autorizzazioni all'immissione in commercio** registrate in Italia. Non sono disponibili dati di licenza o indicazioni approvate per questo rapporto.
 
 ---
 
-## Conclusion and Next Steps
+## Considerazioni sulla sicurezza
 
-**Decision: Hold**
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-**Rationale:**
-This TxGNN prediction presents a fundamental mechanistic paradox — modafinil is a wake-promoting agent whose core pharmacology runs directly counter to the goal of insomnia therapy, and no completed RCT has demonstrated modafinil efficacy as a primary insomnia treatment. The high prediction score (99.85%) most likely reflects a knowledge-graph false positive arising from modafinil's broad presence in the sleep disorder disease space, not a genuine therapeutic signal.
+---
 
-**To proceed, the following is needed:**
-- A credible mechanistic hypothesis explaining how a wake-promoting agent could benefit insomnia (e.g., daytime wake consolidation improving nocturnal sleep architecture via homeostatic sleep pressure)
-- Retrieval of full EMA/AIFA package insert data (warnings, contraindications, drug interactions) before any further regulatory or clinical planning
-- Targeted mechanistic or preclinical study examining bidirectional sleep-wake effects of modafinil, particularly effects on nighttime sleep architecture (polysomnography)
-- If a plausible hypothesis emerges, a small Phase 2 proof-of-concept trial in primary insomnia with objective PSG-based endpoints would be required before any repurposing pathway can be considered
+## Conclusione e prossimi passi
+
+**Decisione: In sospeso**
+
+**Logica:**
+Questa previsione TxGNN presenta un paradosso meccanicistico fondamentale — il modafinil è un agente promotore della veglia la cui farmacologia di base va direttamente contro l'obiettivo della terapia dell'insonnia, e nessun RCT completato ha dimostrato l'efficacia del modafinil come trattamento dell'insonnia primaria. Il punteggio di previsione elevato (99.85%) molto probabilmente riflette un falso positivo del grafo della conoscenza derivante dalla ampia presenza del modafinil nello spazio delle malattie dei disturbi del sonno, non un genuino segnale terapeutico.
+
+**Per procedere, quanto segue è necessario:**
+- Un'ipotesi meccanicistica credibile che spieghi come un agente promotore della veglia potrebbe beneficiare l'insonnia (ad es. consolidamento della veglia diurna migliorando l'architettura del sonno notturno attraverso la pressione omeostatica del sonno)
+- Recupero dei dati completi del foglio illustrativo EMA/AIFA (avvertenze, controindicazioni, interazioni farmacologiche) prima di qualsiasi ulteriore pianificazione normativa o clinica
+- Studio meccanicistico mirato o preclinico che esamini gli effetti bidirezzionali del sonno-veglia del modafinil, in particolare gli effetti sull'architettura del sonno notturno (polisonnografia)
+- Se un'ipotesi plausibile emerge, uno studio di proof-of-concept di Fase 2 piccolo nell'insonnia primaria con endpoint basati su PSG obiettivi sarebbe necessario prima che qualsiasi percorso di riposizionamento possa essere considerato
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

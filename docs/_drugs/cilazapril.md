@@ -29,76 +29,73 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-以下是根據 Evidence Pack 生成的完整評估報告：
+# Cilazapril: dall'Ipertensione all'Ipertensione Polmonare con Meccanismo Multifattoriale Poco Chiaro
+
+## Riassunto in una frase
+
+Cilazapril è un inibitore dell'enzima di conversione dell'angiotensina (ACEI) appartenente alla classe di farmaci che bloccano la RAAS, principalmente stabilito per il trattamento dell'ipertensione.
+Il modello TxGNN prevede che potrebbe avere potenziale nell'**Ipertensione Polmonare con Meccanismo Multifattoriale Poco Chiaro (Gruppo 5 PH)**,
+con **0 studi clinici** e **0 pubblicazioni** che attualmente supportano questa direzione specifica — ponendolo a livello di previsione del modello solo.
 
 ---
 
-# Cilazapril: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+## Panoramica rapida
 
-## One-Sentence Summary
-
-Cilazapril is an angiotensin-converting enzyme inhibitor (ACEI) belonging to the RAAS-blocking drug class, primarily established for the treatment of hypertension.
-The TxGNN model predicts it may have potential in **Pulmonary Hypertension with Unclear Multifactorial Mechanism (Group 5 PH)**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction — placing it at the model-prediction level only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension (ACEI class; no Italy market authorization on record) |
-| Predicted New Indication | Pulmonary Hypertension with Unclear Multifactorial Mechanism (Group 5 PH) |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L5 |
-| Italy Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Elemento | Contenuto |
+|----------|-----------|
+| Indicazione originaria | Ipertensione (classe ACEI; nessuna autorizzazione al mercato italiano registrata) |
+| Nuova indicazione prevista | Ipertensione Polmonare con Meccanismo Multifattoriale Poco Chiaro (Gruppo 5 PH) |
+| Punteggio di previsione TxGNN | 99.20% |
+| Livello di evidenza | L5 |
+| Stato del mercato italiano | Non commercializzato |
+| Numero di autorizzazioni | 0 |
+| Decisione consigliata | Attesa |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Perché questa previsione è ragionevole?
 
-Currently, detailed mechanism of action data was not retrieved for this Evidence Pack. Based on established pharmacological knowledge, cilazapril is a prodrug ACE inhibitor that is hydrolysed in vivo to its active form, cilazaprilat. It blocks the conversion of angiotensin I to angiotensin II, thereby reducing RAAS-mediated vasoconstriction, aldosterone secretion, and vascular remodelling. The broader ACEI class (captopril, ramipril, lisinopril) holds strong Phase 3 RCT support across hypertension, heart failure, and hypertensive nephropathy — providing a solid mechanistic foundation from which TxGNN can draw its prediction.
+Attualmente, i dati dettagliati del meccanismo d'azione non sono stati recuperati per questo Evidence Pack. Basandosi sulle conoscenze farmacologiche consolidate, cilazapril è un profarmaco ACE-inibitore che viene idrolizzato in vivo nella sua forma attiva, cilazaprilato. Blocca la conversione dell'angiotensina I in angiotensina II, riducendo così la vasocostrizione mediata da RAAS, la secrezione di aldosterone e il rimodellamento vascolare. La classe più ampia degli ACE-inibitori (captopril, ramipril, lisinopril) ha un forte supporto da RCT di Fase 3 in ipertensione, insufficienza cardiaca e nefropatia ipertensiva — fornendo una solida base meccanicistica da cui TxGNN può trarre la sua previsione.
 
-The model's reasoning for Group 5 PH is theoretically plausible: angiotensin II promotes endothelin-1 (ET-1) upregulation and direct pulmonary vasoconstriction, while ACEI-related bradykinin accumulation can facilitate nitric oxide (NO) release — both pathways are known to influence pulmonary vascular tone. Additionally, RAAS overactivation has been documented in certain systemic conditions that underlie Group 5 PH (e.g., chronic kidney disease, haematological disorders), offering a secondary mechanistic link.
+La logica del modello per il Gruppo 5 PH è teoricamente plausibile: l'angiotensina II promuove l'aumento della regolazione dell'endotelina-1 (ET-1) e la vasocostrizione polmonare diretta, mentre l'accumulo di bradichinina correlato ad ACE-inibitore può facilitare il rilascio di ossido nitrico (NO) — entrambi i percorsi sono noti per influenzare il tono vascolare polmonare. Inoltre, la sovraattivazione della RAAS è stata documentata in certe condizioni sistemiche che sottendono il Gruppo 5 PH (ad es., malattia renale cronica, disturbi ematologici), offrendo un collegamento meccanicistico secondario.
 
-However, the clinical case remains weak. Group 5 PH is defined by its heterogeneous and multifactorial aetiology — encompassing haematological, metabolic, and systemic disorders — making it highly unlikely that RAAS blockade alone can address the core pathology. Current **ESC/ERS 2022 pulmonary hypertension guidelines explicitly do not recommend ACEIs as targeted PAH therapy for Group 5 PH**, and no clinical evidence specific to cilazapril in this setting has been identified. This prediction should therefore be treated as a hypothesis-generating signal only, not a clinical candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Tuttavia, il caso clinico rimane debole. Il Gruppo 5 PH è definito dalla sua eziologia eterogenea e multifattoriale — comprendendo disturbi ematologici, metabolici e sistemici — rendendo molto improbabile che il blocco della RAAS da solo possa affrontare la patologia di base. Le attuali **linee guida ESC/ERS 2022 sull'ipertensione polmonare non raccomandano esplicitamente gli ACE-inibitori come terapia PAH mirata per il Gruppo 5 PH**, e nessuna evidenza clinica specifica per cilazapril in questo contesto è stata identificata. Questa previsione dovrebbe quindi essere trattata come un segnale generatore di ipotesi solo, non come un candidato clinico.
 
 ---
 
-## Literature Evidence
+## Evidenza da studi clinici
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Attualmente non ci sono studi clinici correlati registrati.
 
 ---
 
-## Conclusion and Next Steps
+## Evidenza dalla letteratura
 
-**Decision: Hold**
+Attualmente nessuna letteratura correlata disponibile.
 
-**Rationale:**
-This prediction is supported exclusively by TxGNN model scoring (L5 — no clinical trials, no publications), and the mechanistic rationale for ACEI use in this aetiologically heterogeneous PH subtype is not endorsed by current clinical guidelines. No Italy market authorization exists to provide a regulatory foundation for further development.
+---
 
-**To proceed, the following is needed:**
+## Considerazioni sulla sicurezza
 
-- Retrieve full MOA data from DrugBank (DB01340) to enable formal mechanistic analysis
-- Conduct a systematic literature search for ACEI class-effect signals in Group 5 PH specifically (distinct from other PH groups)
-- Review ESC/ERS 2022 PH guidelines for any RAAS-targeted signals in relevant Group 5 sub-conditions (e.g., CKD-associated PH, haematological PH)
-- Obtain and review the full prescribing information / package insert for cilazapril to assess key warnings and contraindications
-- Evaluate whether a lower-ranked indication with stronger mechanistic grounding (e.g., **malignant hypertensive renal disease**, Rank 3, L4) represents a more actionable repurposing candidate for prioritisation
+Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Attesa**
+
+**Razionale:**
+Questa previsione è supportata esclusivamente dal punteggio del modello TxGNN (L5 — nessuno studio clinico, nessuna pubblicazione), e la razionale meccanicistica per l'uso di ACE-inibitore in questo sottotipo di PH eterogeneo dal punto di vista eziologico non è approvata dalle attuali linee guida cliniche. Nessuna autorizzazione al mercato italiano esiste per fornire una base normativa per ulteriore sviluppo.
+
+**Per procedere, è necessario quanto segue:**
+
+- Recuperare i dati MOA completi da DrugBank (DB01340) per consentire un'analisi meccanicistica formale
+- Condurre una ricerca sistematica della letteratura per i segnali di effetto di classe ACE-inibitore nel Gruppo 5 PH specificamente (distinto da altri gruppi di PH)
+- Esaminare le linee guida ESC/ERS 2022 PH per eventuali segnali mirati alla RAAS nelle sottocondizioni rilevanti del Gruppo 5 (ad es., PH associata a CKD, PH ematologica)
+- Ottenere ed esaminare le informazioni prescrittive complete / foglio illustrativo per cilazapril per valutare le avvertenze chiave e le controindicazioni
+- Valutare se un'indicazione di rango inferiore con basi meccanicistiche più forti (ad es., **malattia renale ipertensiva maligna**, Rank 3, L4) rappresenta un candidato di repurposing più attuabile per prioritizzazione
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

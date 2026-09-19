@@ -29,73 +29,74 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Albutrepenonacog Alfa: Preliminary Assessment — No New Indications Predicted
+# Albutrepenonacog Alfa: Valutazione Preliminare — Nessuna Nuova Indicazione Predetta
 
-## One-Sentence Summary
+## Riepilogo in Una Frase
 
-Albutrepenonacog alfa (DB13884) is a recombinant coagulation factor IX–albumin fusion protein, known internationally under the brand name Idelvion, used for the treatment and prophylaxis of **Hemophilia B**.
-The TxGNN model has **not generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps that prevent a full evaluation.
+Albutrepenonacog alfa (DB13884) è una proteina di fusione ricombinante del fattore di coagulazione IX–albumina, conosciuta a livello internazionale con il nome commerciale Idelvion, utilizzata per il trattamento e la profilassi dell'**Emofilia B**.
+Il modello TxGNN **non ha generato alcuna indicazione nuova predetta** per questo farmaco, e il pacchetto di prove contiene lacune significative nei dati che impediscono una valutazione completa.
 
-## Quick Overview
+## Panoramica Rapida
 
-| Item | Content |
+| Elemento | Contenuto |
 |------|------|
-| Original Indication | Not recorded in evidence pack (known: Hemophilia B) |
-| Predicted New Indication | None — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions, no supporting studies) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Indicazione Originale | Non registrata nel pacchetto di prove (nota: Emofilia B) |
+| Indicazione Nuova Predetta | Nessuna — nessuna predizione TxGNN disponibile |
+| Punteggio di Predizione TxGNN | N/A |
+| Livello di Evidenza | L5 (Nessuna predizione, nessuno studio di supporto) |
+| Stato del Mercato Taiwan | ✗ Non commercializzato |
+| Numero di Autorizzazioni | 0 |
+| Decisione Raccomandata | **Sospensione** |
 
-## Why is This Prediction Reasonable?
+## Perché Questa Predizione è Ragionevole?
 
-There are currently no TxGNN predictions for albutrepenonacog alfa, so no mechanistic plausibility assessment can be performed.
+Attualmente non ci sono predizioni TxGNN per albutrepenonacog alfa, quindi nessuna valutazione della plausibilità meccanicistica può essere eseguita.
 
-Based on publicly available information, albutrepenonacog alfa is a recombinant fusion protein that links human coagulation factor IX (FIX) with recombinant human albumin. The albumin moiety extends the half-life of FIX, allowing less frequent dosing. It restores the missing clotting factor in patients with Hemophilia B (congenital factor IX deficiency), enabling normal haemostasis.
+Basato su informazioni disponibili pubblicamente, albutrepenonacog alfa è una proteina di fusione ricombinante che unisce il fattore di coagulazione IX umano (FIX) con albumina umana ricombinante. La moietà dell'albumina estende l'emivita del FIX, consentendo dosaggi meno frequenti. Ripristina il fattore coagulante mancante nei pazienti con Emofilia B (deficienza congenita del fattore IX), consentendo l'emostasi normale.
 
-Detailed mechanism of action data was not available in the evidence pack (flagged as Data Gap DG002). Without a TxGNN prediction or MOA data in the pack, no drug repurposing hypothesis can be evaluated at this time.
+I dati dettagliati del meccanismo d'azione non erano disponibili nel pacchetto di prove (segnalati come Lacuna Dati DG002). Senza una predizione TxGNN o dati MOA nel pacchetto, nessuna ipotesi di riutilizzo del farmaco può essere valutata in questo momento.
 
-## Clinical Trial Evidence
+## Evidenza Clinica da Studi
 
-Currently no related clinical trials registered for any predicted new indication (no new indication was predicted by TxGNN).
+Attualmente non sono registrati studi clinici correlati per alcuna nuova indicazione predetta (nessuna nuova indicazione è stata predetta da TxGNN).
 
-## Literature Evidence
+## Evidenza dalla Letteratura
 
-Currently no related literature available for any predicted new indication.
+Attualmente non è disponibile letteratura correlata per alcuna nuova indicazione predetta.
 
-## Taiwan Market Information
+## Informazioni sul Mercato Taiwan
 
-Albutrepenonacog alfa has **no marketing authorizations** recorded with TFDA. The drug is classified as **not marketed** in Taiwan.
+Albutrepenonacog alfa **non ha autorizzazioni di commercializzazione** registrate con TFDA. Il farmaco è classificato come **non commercializzato** a Taiwan.
 
-## Safety Considerations
+## Considerazioni sulla Sicurezza
 
-> Please refer to the package insert for safety information.
+> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 >
-> All safety fields (key warnings, contraindications, drug–drug interactions) returned as data gaps. The TFDA package insert query returned 1 result — this document should be retrieved and parsed to complete the safety profile (see Data Gap DG001).
+> Tutti i campi di sicurezza (avvertimenti chiave, controindicazioni, interazioni farmaco–farmaco) sono risultati come lacune nei dati. La query del foglio illustrativo TFDA ha restituito 1 risultato — questo documento dovrebbe essere recuperato e analizzato per completare il profilo di sicurezza (vedere Lacuna Dati DG001).
 
-## Data Gaps Requiring Resolution
+## Lacune nei Dati Richiedenti Risoluzione
 
-The following critical data gaps were identified and must be addressed before any repurposing evaluation can proceed:
+Le seguenti lacune critiche nei dati sono state identificate e devono essere affrontate prima che qualsiasi valutazione di riutilizzo possa procedere:
 
-| Gap ID | Item | Severity | Impact | Recommended Remediation |
+| ID Lacuna | Elemento | Gravità | Impatto | Rimediazione Consigliata |
 |--------|------|----------|--------|------------------------|
-| DG001 | TFDA Package Insert Warnings/Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | **High** | Affects mechanistic relevance analysis | Query DrugBank API for full MOA data |
+| DG001 | Avvertimenti/Controindicazioni del Foglio Illustrativo TFDA | **Bloccante** | Non può entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
+| DG002 | Meccanismo d'Azione (MOA) | **Alto** | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API DrugBank per i dati completi del MOA |
 
-## Conclusion and Next Steps
+## Conclusione e Prossimi Passi
 
-**Decision: Hold**
+**Decisione: Sospensione**
 
-**Rationale:**
-No new indications have been predicted by TxGNN for albutrepenonacog alfa. Additionally, the evidence pack contains blocking data gaps (TFDA package insert warnings) and high-severity gaps (MOA data) that preclude any meaningful repurposing assessment. The drug is not marketed in Taiwan, further limiting immediate applicability.
+**Motivazione:**
+Nessuna nuova indicazione è stata predetta da TxGNN per albutrepenonacog alfa. Inoltre, il pacchetto di prove contiene lacune nei dati bloccanti (avvertimenti del foglio illustrativo TFDA) e lacune di alta gravità (dati MOA) che precludono qualsiasi valutazione di riutilizzo significativa. Il farmaco non è commercializzato a Taiwan, limitando ulteriormente l'applicabilità immediata.
 
-**To proceed, the following is needed:**
-- TxGNN model predictions for this drug (currently the `predicted_indications` array is empty)
-- Resolution of DG001: Retrieve and parse the TFDA package insert to extract warnings and contraindications
-- Resolution of DG002: Query DrugBank API for detailed mechanism of action
-- Confirmation of original approved indication(s) from regulatory source documents
-- If the drug is not in the TxGNN knowledge graph, assess whether the molecular entity (recombinant FIX–albumin fusion) has sufficient representation in the training data to generate reliable predictions
+**Per procedere, è necessario il seguente:**
+- Predizioni del modello TxGNN per questo farmaco (attualmente l'array `predicted_indications` è vuoto)
+- Risoluzione di DG001: Recuperare e analizzare il foglio illustrativo TFDA per estrarre gli avvertimenti e le controindicazioni
+- Risoluzione di DG002: Interrogare l'API DrugBank per il meccanismo d'azione dettagliato
+- Conferma delle indicazioni originali approvate da documenti di fonte normativa
+- Se il farmaco non è nel grafo di conoscenza TxGNN, valutare se l'entità molecolare (fusione ricombinante FIX–albumina) ha una rappresentazione sufficiente nei dati di addestramento per generare predizioni affidabili
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
