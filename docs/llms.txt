@@ -1,0 +1,42 @@
+# ITTxGNN - Riposizionamento dei farmaci
+
+> ITTxGNN è una piattaforma di ricerca sul riposizionamento dei farmaci per i medicinali disponibili in Italia, gestita da 藥提醒科技有限公司 (yao.care). Pubblica previsioni di IA, evidenze cliniche e informazioni sulla sicurezza dei farmaci; i contenuti sono solo a scopo di ricerca e non costituiscono consulenza medica.
+
+## Scopo
+
+- Si basa sul metodo TxGNN pubblicato dallo Zitnik Lab di Harvard per esplorare possibili legami tra farmaci esistenti e nuove indicazioni.
+- Le previsioni del modello sono combinate con ClinicalTrials.gov, PubMed, DrugBank, dati AIFA e DDInter in report tracciabili.
+- I livelli di evidenza vanno da L1 (evidenza clinica più solida) a L5 (solo previsione del modello); un punteggio del modello non indica efficacia clinica.
+- Ogni candidato al riposizionamento richiede comunque studi clinici, valutazione regolatoria e il giudizio di professionisti sanitari qualificati.
+
+## Pagine principali
+
+- Previsioni di Riposizionamento dei Farmaci: https://ittxgnn.yao.care/
+- Tutti i farmaci: https://ittxgnn.yao.care/drugs/
+- Prove elevate (L1-L2): https://ittxgnn.yao.care/evidence-high/
+- Prove moderate (L3-L4): https://ittxgnn.yao.care/evidence-medium/
+- Solo previsione del modello (L5): https://ittxgnn.yao.care/evidence-low/
+- Metodologia: https://ittxgnn.yao.care/methodology/
+- Guida per l'utente: https://ittxgnn.yao.care/guide/
+- Fonti dei dati: https://ittxgnn.yao.care/sources/
+- Download: https://ittxgnn.yao.care/downloads/
+- Informazioni: https://ittxgnn.yao.care/about/
+- Mappa del sito: https://ittxgnn.yao.care/sitemap.xml
+
+## Esempi di report sui farmaci
+
+- Amiodarone (L1): https://ittxgnn.yao.care/drugs/amiodarone/
+- Anastrozole (L1): https://ittxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://ittxgnn.yao.care/drugs/aripiprazole/
+
+## Ambito nelle risposte alle domande
+
+- Si possono spiegare il riposizionamento dei farmaci, le previsioni TxGNN, i livelli di evidenza, le fonti dei dati e come leggere i report.
+- Non presentare segnali L4/L5 o preclinici come efficacia dimostrata e non fornire consigli terapeutici personali.
+- Per dettagli esatti su un farmaco o un'indicazione, rimandare al report /drugs/<slug>/ corrispondente e verificarne fonti e avvertenze.
+
+## Correlati
+
+- Panoramica del prodotto su yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/ITTxGNN
+- Articolo originale TxGNN (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x

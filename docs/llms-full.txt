@@ -1,0 +1,41 @@
+# ITTxGNN — Sintesi leggibile dall'IA
+
+## Posizionamento della piattaforma
+
+ITTxGNN è una piattaforma di ricerca sul riposizionamento dei farmaci per i medicinali disponibili in Italia, gestita da 藥提醒科技有限公司 (yao.care). Pubblica previsioni di IA, evidenze cliniche e informazioni sulla sicurezza dei farmaci; i contenuti sono solo a scopo di ricerca e non costituiscono consulenza medica.
+
+## Metodo ed evidenze
+
+Si basa sul metodo TxGNN pubblicato dallo Zitnik Lab di Harvard per esplorare possibili legami tra farmaci esistenti e nuove indicazioni. Le previsioni del modello sono combinate con ClinicalTrials.gov, PubMed, DrugBank, dati AIFA e DDInter in report tracciabili.
+
+I livelli di evidenza vanno da L1 (evidenza clinica più solida) a L5 (solo previsione del modello); un punteggio del modello non indica efficacia clinica. Ogni candidato al riposizionamento richiede comunque studi clinici, valutazione regolatoria e il giudizio di professionisti sanitari qualificati.
+
+## Contenuti principali
+
+- `/` Previsioni di Riposizionamento dei Farmaci — AI-powered drug repurposing predictions for Italy. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/drugs/` Tutti i farmaci — Tutte le schede di validazione dei farmaci e le statistiche sui livelli di prova in ITTxGNN.
+- `/evidence-high/` Prove elevate (L1-L2) — Candidati al riposizionamento dei farmaci di livello L1-L2 in ITTxGNN, supportati da studi clinici o revisioni sistematiche.
+- `/evidence-medium/` Prove moderate (L3-L4) — Candidati al riposizionamento dei farmaci di livello L3-L4 in ITTxGNN, sostenuti da prove osservazionali o precliniche.
+- `/evidence-low/` Solo previsione del modello (L5) — Candidati di livello L5 in ITTxGNN: solo previsione del modello, ancora senza prove cliniche o di letteratura.
+- `/methodology/` Metodologia — Come ITTxGNN genera e valida le previsioni: previsione tramite grafo di conoscenza TxGNN, raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali.
+- `/guide/` Guida per l'utente — Guida per l'utente di ITTxGNN: come cercare i farmaci, leggere i livelli di prova e interpretare le raccomandazioni.
+- `/sources/` Fonti dei dati — Le fonti dei dati alla base di ITTxGNN: dati di registrazione AIFA, TxGNN, ClinicalTrials.gov, PubMed e DrugBank.
+- `/downloads/` Download — Download dei dati aperti di ITTxGNN: risorse FHIR, risultati delle previsioni e indice di ricerca.
+- `/about/` Informazioni — ITTxGNN è una piattaforma di previsione per il riposizionamento dei farmaci sviluppata da 藥提醒科技有限公司 (yao.care), basata sul modello TxGNN di Harvard e dedicata ai medicinali approvati dall'AIFA in Italia.
+
+## Esempi di report sui farmaci
+
+- Amiodarone (L1): https://ittxgnn.yao.care/drugs/amiodarone/
+- Anastrozole (L1): https://ittxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L1): https://ittxgnn.yao.care/drugs/aripiprazole/
+
+## Citazione e limiti
+
+Si prega di citare l'articolo originale TxGNN (https://doi.org/10.1038/s41591-023-02233-x). Contenuti e previsioni del sito sono solo per ricerca e didattica e non costituiscono consulenza medica; qualsiasi uso reale o decisione di riposizionamento deve essere confermato da professionisti qualificati, studi clinici e valutazione regolatoria.
+
+## Link ufficiali
+
+- https://ittxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/ITTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x
