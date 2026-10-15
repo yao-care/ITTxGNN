@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Almotriptan
-parent: Solo previsione del modello (L5)
-nav_order: 22
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 33
+evidence_level: L4
 indication_count: 3
 ---
 
 # Almotriptan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,110 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# ALMOTRIPTAN: Relazione di valutazione del riutilizzo di farmaci
+# Almotriptan: dall'emicrania all'emicrania con aura del tronco encefalico
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Almotriptano è un agonista selettivo del recettore 5-HT₁B/₁D, ampiamente noto per il trattamento acuto delle cefalee emicraniche. Il modello TxGNN attualmente **non presenta indicazioni nuove previste** per questo farmaco, e il pacchetto di prove contiene significative lacune nei dati riguardanti il meccanismo d'azione, la sicurezza e le informazioni normative. Prima di procedere con qualsiasi valutazione del riutilizzo sono necessari ulteriori raccolta di dati.
+Almotriptan è un agonista selettivo dei recettori della serotonina 5-HT1B/1D, originariamente usato per il trattamento acuto dell'emicrania. Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura del tronco encefalico**, ma al momento non risultano **sperimentazioni cliniche registrate** per questa indicazione. Sono disponibili **18 pubblicazioni**, quasi tutte revisioni sull'emicrania in generale e non studi specifici sul sottotipo previsto.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Nome del farmaco (INN) | Almotriptano |
-| ID DrugBank | [DB00918](https://go.drugbank.com/drugs/DB00918) |
-| Indicazione originale | Trattamento acuto dell'emicrania (secondo le conoscenze farmacologiche generali; non compilato nel pacchetto di prove) |
-| Indicazione nuova prevista | — (Nessuna previsione TxGNN disponibile) |
-| Punteggio di previsione TxGNN | N/A |
-| Livello di evidenza | **L5** — Previsione del modello solo; nessuna indicazione prevista o studi di supporto |
-| Stato del mercato taiwanese | ✗ Non commercializzato (Non commercializzato) |
-| Numero di autorizzazioni TFDA | 0 |
-| Decisione consigliata | **In sospeso** |
+| Indicazione originale | Emicrania (con o senza aura). Il testo dell'indicazione approvata AIFA non è disponibile; l'indicazione deriva dal grafo di conoscenza |
+| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
+| Punteggio di predizione TxGNN | 99,98% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 12 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-Attualmente, il modello TxGNN non ha generato alcuna indicazione nuova prevista per Almotriptano, quindi non esiste alcuna ipotesi di riutilizzo da valutare in questo momento.
+Almotriptan appartiene alla classe dei triptani e agisce come agonista dei recettori 5-HT1B/1D. I dati compilati non riportano il meccanismo d'azione originale: questa informazione è dedotta dalla classe farmacologica e dalla letteratura. È un farmaco consolidato per l'emicrania acuta, con una lunga esperienza clinica (oltre 20 anni, più di 15.000 pazienti negli studi).
 
-Dalle conoscenze farmacologiche generali, Almotriptano è un triptano di seconda generazione — un agonista selettivo del recettore 5-HT₁B/₁D. Funziona costringendo i vasi sanguigni intracranici dilatati e inibendo il rilascio di neuropeptidi pro-infiammatori, interrompendo così gli attacchi acuti di emicrania. La sua elevata selettività per i recettori 5-HT₁B/₁D (con attività minima su altri sottotipi di recettori della serotonina) gli conferisce un profilo di tollerabilità favorevole tra i triptani.
+L'emicrania con aura del tronco encefalico è un sottotipo di emicrania e condivide la fisiopatologia di base: attivazione trigeminovascolare, rilascio di CGRP e vasodilatazione cranica. Da qui il legame meccanicistico plausibile con l'indicazione originale.
 
-> ⚠️ **Lacuna nei dati:** Il campo `original_moa` del pacchetto di prove non è compilato. Il meccanismo descritto sopra si basa sulla letteratura farmacologica consolidata. Si consiglia una interrogazione formale dell'API di DrugBank per colmare questa lacuna (vedere piano di correzione DG002).
+Tuttavia, c'è un'importante riserva di sicurezza. I triptani sono stati storicamente usati con cautela, o controindicati, nell'emicrania emiplegica e di tipo basilare per il rischio teorico legato alla vasocostrizione. Il punteggio TxGNN molto alto riflette probabilmente la vicinanza al'indicazione approvata nel grafo di conoscenza più che un'evidenza indipendente.
 
----
-
-## Evidenza da studi clinici
-
-Attualmente non esistono indicazioni previste da TxGNN per Almotriptano, quindi non è stata effettuata alcuna ricerca mirata di studi clinici per candidati di riutilizzo.
+Le altre due predizioni (atrofoderma vermicolare e uleritema ofriogene) non hanno alcun razionale meccanicistico, né studi né letteratura, e sono verosimilmente artefatti del grafo. Per questo non vengono approfondite.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze da sperimentazioni cliniche
 
-Attualmente non esistono indicazioni previste da TxGNN per Almotriptano, quindi non è stata effettuata alcuna ricerca mirata della letteratura per candidati di riutilizzo.
-
----
-
-## Informazioni sul mercato taiwanese
-
-Almotriptano **non è commercializzato a Taiwan**. Non sono state trovate licenze farmacologiche TFDA (data della query: 2026-03-29). Non ci sono prodotti autorizzati, forme farmaceutiche o indicazioni approvate registrate con la TFDA.
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ---
 
-## Considerazioni di sicurezza
+## Evidenze dalla letteratura
 
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
->
-> ⚠️ **Lacuna nei dati (Bloccante):** Le avvertenze e le controindicazioni del foglio illustrativo TFDA non potevano essere recuperate (DG001). Questa è classificata come una lacuna **Bloccante** — il candidato non può entrare nello screening di sicurezza S1 finché questo non sarà risolto.
->
-> Non sono stati trovati dati su interazioni tra farmaci (DDI) nei database interrogati.
+Tutte le pubblicazioni sono relative all'emicrania in generale o ad almotriptan/altri triptani; nessuna riguarda specificamente l'aura del tronco encefalico.
 
----
-
-## Riepilogo delle lacune nei dati
-
-Sono state identificate le seguenti lacune critiche nei dati che devono essere affrontate prima di qualsiasi valutazione del riutilizzo:
-
-| ID lacuna | Elemento | Gravità | Impatto | Correzione |
-|--------|------|----------|--------|-------------|
-| DG001 | Avvertenze/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Non può entrare nello screening di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Meccanismo d'azione (MOA) | **Alto** | Influisce sull'analisi della relazione meccanismo-indicazione | Query API di DrugBank |
-| — | Indicazioni previste da TxGNN | **Alto** | Nessun candidato di riutilizzo da valutare | Eseguire/rieseguire la pipeline di previsione TxGNN per DB00918 |
-| — | Indicazioni originali (strutturate) | Medio | Tabella Panoramica rapida incompleta | Compilare da dati DrugBank o TFDA |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione | Headache | Valutazione aggiornata dell'American Headache Society sulle evidenze dei farmaci per l'emicrania acuta |
+| [30845850](https://pubmed.ncbi.nlm.nih.gov/30845850/) | 2019 | Revisione | Expert Rev Neurother | 20 anni di esperienza clinica con almotriptan: dati su oltre 15.000 pazienti |
+| [20945537](https://pubmed.ncbi.nlm.nih.gov/20945537/) | 2010 | Revisione | Expert Rev Neurother | 10 anni di esperienza con almotriptan, tra RCT e studi post-marketing |
+| [12749502](https://pubmed.ncbi.nlm.nih.gov/12749502/) | 2003 | Revisione | Clin Ther | Effetti di almotriptan e altri triptani su esiti rilevanti per i pazienti (es. assenza di dolore sostenuta) |
+| [12455302](https://pubmed.ncbi.nlm.nih.gov/12455302/) | 2002 | Revisione | Am J Health Syst Pharm | Farmacologia, efficacia e sicurezza di almotriptan nell'emicrania con o senza aura |
+| [11380642](https://pubmed.ncbi.nlm.nih.gov/11380642/) | 2001 | Revisione | Headache | Sicurezza e tollerabilità di almotriptan orale dagli studi pre-commercializzazione |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi | J Headache Pain | Efficacia di frovatriptan rispetto ad altri triptani (incluso almotriptan) nell'emicrania con aura |
+| [21726161](https://pubmed.ncbi.nlm.nih.gov/21726161/) | 2011 | Revisione | Expert Opin Pharmacother | Almotriptan nell'emicrania mestruale |
+| [11768838](https://pubmed.ncbi.nlm.nih.gov/11768838/) | 2001 | RCT | Clin Ther | Almotriptan sottocutaneo nell'emicrania acuta: studio dose-finding in doppio cieco |
+| [14629242](https://pubmed.ncbi.nlm.nih.gov/14629242/) | 2003 | Studio clinico | Headache | Il trattamento precoce (dolore lieve) migliora la risposta sostenuta senza dolore |
 
 ---
 
-## Conclusione e prossimi passaggi
+## Informazioni sul mercato italiano
 
-**Decisione: In sospeso**
+Tutte le 12 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati (le confezioni sono compresse rivestite da 12,5 mg).
+
+| N. autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 050204015 | ALMOGRAN 6 cpr rivestite 12,5 mg | GMM Farma Srl | Cancellata |
+| 034995011 | ALMOTREX 3 cpr rivestite 12,5 mg | Almirall S.A. | Cancellata |
+| 043074020 | ALMOTRIPTAN 6 cpr rivestite 12,5 mg | DOC Generici Srl | Cancellata |
+| 034996037 | ALMOGRAN 6 cpr rivestite 12,5 mg | Almirall S.A. | Cancellata |
+| 041813039 | ALMOTRIPTAN 6 cpr rivestite 12,5 mg | Mylan SpA | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) non sono disponibili nei dati compilati. Le seguenti indicazioni provengono dal grafo di conoscenza e non dal testo dell'etichetta.
+
+- **Controindicazioni segnalate dal grafo di conoscenza**, in particolare:
+  - Cardiovascolari: ipertensione, coronaropatia, infarto miocardico, ischemia miocardica, angina di Prinzmetal, arresto cardiaco improvviso, malattie della conduzione cardiaca
+  - Cerebrovascolari: ictus, infarto cerebrale, attacco ischemico transitorio, insufficienza vertebrobasilare, ischemia cerebrale
+  - Vascolari periferici: arteriopatia periferica, claudicatio intermittente, malattia di Raynaud
+  - Neurologiche: **emicrania emiplegica familiare o sporadica** (particolarmente rilevante per il sottotipo previsto), sindrome serotoninergica
+  - Metaboliche/altre: epatopatia, malattia della colecisti, diabete, chetoacidosi diabetica, obesità, emoglobinopatie
+- **Interazioni farmacologiche** (56 in totale). Quelle di livello **Maggiore** riguardano:
+  - Dexfenfluramina, fenfluramina, lorcaserina, sibutramina (rischio serotoninergico)
+  - Antagonisti 5-HT3: dolasetron, granisetron, ondansetron, palonosetron
+- Interazioni di livello **Moderato**: aprepitant, claritromicina, morfina (anche liposomiale).
+- Altre interazioni risultano di livello non definito (es. pantoprazolo, metformina, omeprazolo, lansoprazolo, simvastatina, prednisone).
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
 
 **Motivazione:**
-Almotriptano attualmente non ha indicazioni nuove previste da TxGNN, non è commercializzato a Taiwan e presenta molteplici lacune bloccanti nei dati. Non ci sono informazioni sufficienti per valutare qualsiasi ipotesi di riutilizzo in questo momento.
+La predizione si basa soprattutto sulla vicinanza all'indicazione approvata, senza sperimentazioni né studi specifici sull'aura del tronco encefalico (livello di evidenza L4). Inoltre, i triptani sono storicamente controindicati o usati con cautela nelle forme emiplegiche/basilari, e in Italia tutte le autorizzazioni di almotriptan risultano cancellate.
 
-**Per procedere, è necessario quanto segue:**
-1. **Eseguire/rieseguire la pipeline di previsione TxGNN** per Almotriptano (DB00918) al fine di generare indicazioni candidate
-2. **Risolvere DG001 (Bloccante):** Ottenere le avvertenze e le controindicazioni del foglio illustrativo TFDA — obbligatorio prima dello screening di sicurezza S1
-3. **Risolvere DG002 (Alto):** Query API di DrugBank per dati dettagliati sul meccanismo d'azione al fine di abilitare l'analisi della relazione meccanismo-indicazione
-4. **Compilare i dati sull'indicazione originale** da DrugBank o riferimenti farmacologici autorevoli
-5. **Rivalutare il percorso normativo taiwanese** — poiché Almotriptano non è commercializzato a Taiwan, qualsiasi sforzo di riutilizzo dovrebbe tenere conto dei requisiti iniziali di autorizzazione del mercato
-
----
-
-*Relazione generata: 2026-04-03 | Versione del pacchetto di prove: v4 | ID candidato: TW-DB00918-multi*
-
-*⚠️ Questa relazione è solo per riferimento di ricerca e non costituisce consiglio medico. Qualsiasi candidato di riutilizzo di farmaci richiede convalida clinica prima dell'applicazione.*
-
+**Per procedere sono necessari:**
+- Valutazione approfondita del rischio vasocostrittivo nell'emicrania con aura del tronco encefalico, con revisione di esperti neurologi
+- Acquisizione del foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate), indispensabile per lo screening di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Studi o dati clinici specifici sul sottotipo previsto
+- Chiarimento dello stato regolatorio in Italia (autorizzazioni attualmente cancellate) e della disponibilità del prodotto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

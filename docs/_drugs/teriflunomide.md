@@ -2,7 +2,7 @@
 layout: default
 title: Teriflunomide
 parent: Prove elevate (L1-L2)
-nav_order: 196
+nav_order: 429
 evidence_level: L1
 indication_count: 1
 ---
@@ -29,105 +29,113 @@ Livello di evidenza: **L1** | Indicazioni previste: **1**
 
 </div>
 
-# Teriflunomide: Dal Metabolita Attivo della Leflunomide alla Sclerosi Multipla Recidivante-Remittente
+# Teriflunomide: Dalla sclerosi multipla alla sclerosi multipla recidivante-remittente
 
-## Riassunto in Una Frase
+## Sintesi in una frase
 
-Teriflunomide è il metabolita farmacologicamente attivo della leflunomide—un agente immunomodulatore orale sviluppato originariamente dalla famiglia di farmaci per l'artrite reumatoide—che funziona attraverso l'inibizione selettiva della sintesi de novo di pirimidine per sopprimere la proliferazione di linfociti autoreattivi.
-Il modello TxGNN prevede che potrebbe essere altamente efficace per la **sclerosi multipla recidivante-remittente (RRMS)**,
-supportato da **molteplici trial pivotali completati di Fase 3** e **19 pubblicazioni peer-reviewed**, inclusi studi che hanno già formato la base per le approvazioni normative FDA (2012) ed EMA (2013)—rendendo questo una validazione TxGNN di un'indicazione globale stabilita non ancora registrata a Taiwan.
+Il teriflunomide è un immunomodulatore orale, originariamente impiegato nel trattamento della sclerosi multipla. Il modello TxGNN prevede che possa essere efficace per la **sclerosi multipla recidivante-remittente (RRMS)**, con **13 studi clinici** e **20 pubblicazioni** reperiti nei dati compilati per questo report. Poiché la RRMS è di fatto l'indicazione già approvata, si tratta di una conferma di un uso esistente più che di un vero riposizionamento.
 
 ---
 
-## Panoramica Rapida
+## Quadro di sintesi
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione Originale | Non registrata a Taiwan; derivata globalmente dalla linea della leflunomide (artrite reumatoide) |
-| Indicazione Prevista Nuova | Sclerosi Multipla Recidivante-Remittente (RRMS) |
-| Punteggio di Previsione TxGNN | 99.24% |
-| Livello di Evidenza | L1 |
-| Stato del Mercato a Taiwan | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Guardrail |
+|------|------|
+| Indicazione originale | Sclerosi multipla (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Sclerosi multipla recidivante-remittente |
+| Punteggio di predizione TxGNN | 99,24% |
+| Livello di evidenza | L1 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 13 (tutte cancellate; nessuna valida) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
 
-## Perché Questa Previsione è Ragionevole?
+## Perché questa predizione è plausibile?
 
-Teriflunomide è il metabolita attivo della leflunomide, inibendo selettivamente e reversibilmente la diidoorotato deidrogenasi (DHODH)—l'enzima mitocondriale che limita la velocità nella via di sintesi de novo di pirimidine. L'intuizione biologica che guida questo meccanismo è elegante: le cellule T e B attivate dipendono in modo unico dalla sintesi de novo di pirimidine (piuttosto che dalla via di salvataggio) per mantenere la proliferazione rapida durante una risposta immunitaria. I linfociti a riposo, che si affidano alla via di salvataggio, sono in gran parte risparmiati. Questa selettività significa che l'inibizione di DHODH colpisce i linfociti autoreattivi patologicamente attivati preservando la sorveglianza immunitaria di base—un profilo immunologico ideale per una malattia autoimmune come la RRMS.
+Il teriflunomide è il metabolita attivo della leflunomide. Inibisce l'enzima mitocondriale diidroorotato deidrogenasi (DHODH), limitando la sintesi de novo delle pirimidine nei linfociti T e B attivati, che proliferano rapidamente. Ne risultano una ridotta proliferazione linfocitaria e una minore attività infiammatoria autoimmune, che sostiene la RRMS. I dati di DrugBank sul meccanismo d'azione non sono disponibili nel materiale compilato, ma il meccanismo descritto è ben consolidato e coerente con la letteratura reperita (ad es. Drugs 2019, che lo descrive come inibitore selettivo e reversibile della DHODH).
 
-Nella sclerosi multipla recidivante-remittente, le cellule T e B autoreattive orchestrano attacchi infiammatori al sistema nervoso centrale, portando a demielinazione, danno assonale, ricadute episodiche e accumulo progressivo di disabilità. Bloccando l'espansione proliferativa di questi linfociti autoreattivi in periferia, teriflunomide interrompe direttamente la cascata immunologica a monte prima che avvenga l'invasione del SNC. Questo allineamento meccanicistico—dalla disregolazione del linfocita autoimmune al blocco proliferativo dipendente dalla pirimidina—spiega perché il modello TxGNN ha assegnato un punteggio di previsione quasi perfetto di 99.24%.
-
-Oltre alla via primaria di DHODH, i dati meccanicistici di Fase IV (NCT03464448) hanno dimostrato che teriflunomide modula positivamente i linfociti B regolatori (cellule Breg), fornendo una dimensione immunoregolatoria aggiuntiva che può contribuire al controllo sostenuto a lungo termine della malattia. La convergenza dell'inibizione di DHODH, della ridotta attivazione di cellule T e B e dell'aumento di Breg crea un profilo immunomodulatorio multistrato che è particolarmente adatto alla natura cronica e ricorrente della RRMS—un risultato ulteriormente rafforzato dalla Meta-Analisi di Rete Cochrane 2024 e dal ruolo coerente di teriflunomide come comparatore attivo nei recenti trial di Fase 3 con DMT ad alta efficacia.
+Dal punto di vista concettuale, la RRMS è la forma più comune di sclerosi multipla (oltre l'80% dei casi) ed è proprio la forma per cui il teriflunomide è stato sviluppato e registrato. L'alto punteggio TxGNN (0,992) è quindi coerente con un'indicazione già nota. Il riposizionamento in senso stretto non è in discussione: il valore del report sta nella conferma del livello di evidenza e nella valutazione dello stato regolatorio in Italia.
 
 ---
 
-## Evidenza da Trial Clinici
+## Evidenze dagli studi clinici
 
-| Numero di Trial | Fase | Stato | Arruolamento | Risultati Chiave |
+| Numero studio | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Fase 3 | Completato | 1,088 | RCT doppio cieco pivotale in RRMS: entrambe le dosi di 7 mg e 14 mg hanno ridotto significativamente il tasso di ricaduta annualizzato (ARR) rispetto al placebo; ha anche valutato la progressione della disabilità (EDSS), il carico lesionale alla RMI e l'affaticamento riferito dal paziente |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Fase 3 | Completato | 324 | RCT testa-a-testa vs. interferone β-1a (s.c.) per 108 settimane più estensione a lungo termine: valutato il tempo al fallimento del trattamento, la frequenza delle ricadute, l'affaticamento e la soddisfazione del paziente al trattamento |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Fase 3 | Completato | 742 | Estensione di sicurezza a lungo termine del trial pivotale EFC6049: profilo di sicurezza/tollerabilità documentato multi-anno ed efficacia sostenuta sulla progressione della disabilità, sul tasso di ricaduta e sugli endpoint di RMI |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Fase 2 | Completato | 147 | Estensione a lungo termine del primo studio RRMS di Fase 2 della sua classe: ha fornito dati di sicurezza e efficacia a lungo termine fondamentali che hanno sostenuto la progettazione del programma di Fase 3 |
-| [NCT02776072](https://clinicaltrials.gov/study/NCT02776072) | N/A (Osservazionale) | Completato | 2,978 | Più grande studio comparativo nel mondo reale in questo set di dati: ha valutato i tassi di ricaduta a 12 mesi per teriflunomide vs. dimetil fumarato, acetato di glatiramer e fingolimod nella pratica clinica RRMS |
-| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A (Osservazionale) | Completato | 106 | Studio di efficacia nel mondo reale avviato da ricercatori per ≥2 anni presso una clinica SM: dati di generalizzabilità complementari al di fuori delle condizioni RCT |
-| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A (Meccanicistico) | Completato | 30 | Studio meccanicistico di Fase IV in aperto: ha caratterizzato l'effetto di teriflunomide sui marcatori di attivazione delle cellule B, sulle molecole costimolanti, sulla secrezione di citochine e sui linfociti B regolatori (Breg) nei pazienti con RRMS |
-| [NCT03768648](https://clinicaltrials.gov/study/NCT03768648) | N/A (Osservazionale) | Completato | 75 | Valutazione della funzione cognitiva quotidiana utilizzando valutazioni ecologiche e marcatori RMI non convenzionali nei pazienti con RRMS in teriflunomide; ha contribuito ai dati di qualità della vita e ai risultati cognitivi |
-| [NCT05962177](https://clinicaltrials.gov/study/NCT05962177) | N/A (Coorte Prospettica) | In Reclutamento | 400 | Coorte prospettica monocentrica in corso (2023–2030) caratterizzazione dei pazienti con RRMS nella routine clinica attuale, inclusa teriflunomide come braccio di trattamento di prima linea insieme alle terapie ad alta efficacia |
-| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A (Osservazionale) | Non ancora in Reclutamento | 100 | ROOF-MS: coorte prospettica multicentrica che confronta teriflunomide vs. dimetil fumarato sui risultati di affaticabilità fisica e cognitiva; previsto l'inizio a novembre 2025 |
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Fase 3 | Completato | 1088 | Studio randomizzato, in doppio cieco, controllato con placebo: teriflunomide sulla frequenza delle recidive e sull'accumulo di disabilità nella SM con recidive |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Fase 3 | Completato | 324 | Teriflunomide (due dosi) vs interferone beta-1a, con valutatore in cieco, in SM recidivante, con estensione a lungo termine |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Fase 3 | Completato | 742 | Estensione a lungo termine per la sicurezza di teriflunomide 7 e 14 mg |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Fase 2 | Completato | 147 | Estensione di fase II: sicurezza ed efficacia a lungo termine |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/D | Completato | 106 | Studio osservazionale di efficacia nella pratica clinica in RRMS |
+| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/D | Completato | 30 | Studio meccanicistico sul ruolo dei linfociti B regolatori nell'effetto di teriflunomide |
+| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Fase 3 | Completato | 185 | Ofatumumab vs DMT di prima linea (a scelta del medico) in SM recidivante di nuova diagnosi |
+| [NCT03561402](https://clinicaltrials.gov/study/NCT03561402) | N/D | Completato | 24 | Biomarcatori associati all'attività di malattia in pazienti trattati con teriflunomide |
+| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | N/D | Completato | 900 | Studio pragmatico: terapia precoce aggressiva vs escalation (teriflunomide possibile comparatore) |
+| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Fase 4 | Attivo, non in arruolamento | 800 | DELIVER-MS: approccio intensivo precoce vs escalation (rilevanza indiretta) |
 
 ---
 
-## Evidenza dalla Letteratura
+## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
 |------|-----|------|------|---------|
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Meta-Analisi di Rete | Cochrane Database Syst Rev | Meta-analisi di rete Cochrane aggiornata di tutti gli immunomodulatori e immunosoppressori per RRMS; quantifica sistematicamente il beneficio relativo di teriflunomide vs. placebo e comparatori attivi su tutto il panorama delle DMT |
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT (Fase 3, ASCLEPIOS I/II) | N Engl J Med | Ofatumumab (anti-CD20) vs. teriflunomide in 1,882 pazienti con SM recidivante: ofatumumab superiore su endpoint ARR e RMI; teriflunomide è servito come comparatore attivo, confermando la sua linea di base di efficacia stabilita in Fase 3 |
-| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT (Fase 3) | N Engl J Med | Tolebrutinib (inibitore di BTK orale che penetra il cervello) vs. teriflunomide in SM recidivante: ha valutato la modulazione che penetra il SNC della microglia e delle cellule B; teriflunomide come braccio di riferimento benchmark |
-| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT (Fase 3, ULTIMATE I/II) | N Engl J Med | Ublituximab (anti-CD20 glicoingegnerizzato) vs. teriflunomide: deplezione superiore di cellule B e riduzione di ARR; convalida ulteriormente teriflunomide come comparatore di prima linea standard di cura |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT (Fase 3, evolutionRMS 1 & 2) | Lancet Neurology | Evobrutinib (inibitore di BTK) vs. teriflunomide in due trial di Fase 3 in SM recidivante: rinforza il ruolo incrollabile di teriflunomide come braccio di riferimento per lo sviluppo della DMT orale di prossima generazione |
-| [37691530](https://pubmed.ncbi.nlm.nih.gov/37691530/) | 2023 | Estensione RCT (ALITHIOS) | Mult Scler | Dati di estensione di ofatumumab di quattro anni vs. teriflunomide: superiorità sostenuta della terapia anti-CD20 documentata; fornisce anche uno dei più lunghi set di dati sulla sicurezza disponibili di teriflunomide come comparatore attivo |
-| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Revisione Sistematica | CNS Drugs | Revisione sistematica che confronta tutti i cinque DMT orali approvati per RRMS (fingolimod, DMF, teriflunomide, cladribine, siponimod); riassume i confronti di efficacia e sicurezza diretti e indiretti |
-| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Revisione | JAMA | Revisione clinica JAMA della diagnosi e del trattamento della SM (pazienti statunitensi stimati 900.000); posiziona teriflunomide come DMT orale di prima linea standard all'interno dell'algoritmo di trattamento moderno |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Revisione | Drugs | Monografia dedicata a teriflunomide: meccanismo (inibizione di DHODH, selettività linfocitaria), riassunto dell'efficacia RCT, efficacia nel mondo reale e profilo di tollerabilità; riferimento di prescrizione chiave |
-| [37382446](https://pubmed.ncbi.nlm.nih.gov/37382446/) | 2023 | Studio Clinico (Pediatrico) | Expert Rev Neurother | Teriflunomide come DMT di prima linea nei bambini e negli adolescenti con RRMS; riassume la base per l'approvazione pediatrica UE e estende la base di prove oltre le popolazioni adulte |
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Ofatumumab vs teriflunomide nella SM (ASCLEPIOS): teriflunomide come comparatore attivo |
+| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab vs teriflunomide nella SM recidivante |
+| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib vs teriflunomide nella SM recidivante |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | Evobrutinib vs teriflunomide, due studi di fase 3 (evolutionRMS1 e 2) |
+| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | Ponesimod vs teriflunomide nello studio OPTIMUM |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analisi | Cochrane Database Syst Rev | Immunomodulatori e immunosoppressori nella RRMS: confronto dei benefici relativi |
+| [38032059](https://pubmed.ncbi.nlm.nih.gov/38032059/) | 2023 | Network meta-analisi | Cochrane Database Syst Rev | Eventi avversi delle immunoterapie per la SM |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Revisione | Drugs | Teriflunomide nella RRMS: efficace e generalmente ben tollerato, sulla base di RCT e dati real-world |
+| [37578431](https://pubmed.ncbi.nlm.nih.gov/37578431/) | 2023 | Studio osservazionale | Eur J Neurol | Confronto real-world tra dimetilfumarato e teriflunomide nella RRMS |
+| [35696880](https://pubmed.ncbi.nlm.nih.gov/35696880/) | 2022 | Studio real-world | Mult Scler Relat Disord | Qualità di vita, efficacia, sicurezza e aderenza in pazienti RRMS nei paesi nordici |
 
 ---
 
-## Informazioni sul Mercato a Taiwan
+## Informazioni sul mercato italiano
 
-Teriflunomide è attualmente **non registrato o commercializzato a Taiwan**. Il database della TFDA non contiene autorizzazioni approvate per questo composto.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 042921027 | AUBAGIO 28 cpr rivestite 14 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
+| 042921066 | AUBAGIO 28 cpr rivestite 7 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
+| 050408032 | TERGIO 28 cpr rivestite 14 mg (Viatris Healthcare) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
+| 050360092 | TEREBYO 28 cpr rivestite 14 mg (Sandoz) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
+| 050322015 | TERIFLUNOMIDE 28 cpr rivestite 14 mg (EG SpA) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
 
-> Per riferimento: Teriflunomide è approvato come **Aubagio®** (Sanofi) in oltre 80 paesi, inclusi gli Stati Uniti (FDA, settembre 2012), l'Unione Europea (EMA, agosto 2013) e il Giappone (PMDA). Un'indicazione RRMS pediatrica è stata ulteriormente approvata nell'UE nel 2023.
-
----
-
-## Considerazioni di Sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
-
-> Il foglio illustrativo della TFDA (avvertimenti chiave, controindicazioni) non è stato recuperabile nel pacchetto di prove attuale ed è contrassegnato come lacuna di dati bloccante (DG001). La query del database DDI non ha restituito risultati. Per riferimento immediato, il Riassunto delle Caratteristiche del Prodotto (SmPC) dell'EMA per Aubagio® dovrebbe essere consultato per i requisiti di monitoraggio dell'epatotossicità, il rischio di teratogenicità, le procedure di eliminazione accelerata e le soglie di conteggio dei linfociti.
+Sono presenti in totale 13 autorizzazioni, tutte cancellate; qui sono elencate le 5 principali. Non risultano autorizzazioni valide al momento della compilazione dei dati.
 
 ---
 
-## Conclusioni e Prossimi Passi
+## Considerazioni sulla sicurezza
 
-**Decisione: Procedere con Guardrail**
+I dati su avvertenze e controindicazioni dal foglietto illustrativo AIFA non sono disponibili. Per queste informazioni si rimanda al foglietto illustrativo.
 
-**Fondamento Logico:**
-Teriflunomide ha una delle basi di prove più forti nel panorama farmacologico della RRMS—molteplici RCT di Fase 3 completati (incluso il trial pivotale di 1.088 pazienti e un confronto testa-a-testa vs. IFN β-1a), una Meta-Analisi di Rete Cochrane 2024 e la selezione coerente come comparatore attivo in non meno di quattro recenti trial di Fase 3 per le DMT di prossima generazione. La classificazione delle prove L1 è inequivocabile. La barriera primaria al dispiegamento a Taiwan non è l'incertezza dell'efficacia ma l'assenza di dati normativi locali.
+**Interazioni farmacologiche** (100 interazioni complessive rilevate; principali di gravità maggiore):
+- Corticosteroidi: idrocortisone, triamcinolone, desametasone, betametasone, budesonide
+- Antidiabetici: acarbose, pioglitazone
+- Bupropione
+- Acido acetilsalicilico
+- Claritromicina e minociclina
+- Acido chenodesossicolico
+- Steroidi anabolizzanti: oxandrolone, oximetolone
 
-**Per procedere, sono necessari i seguenti:**
-- **[Bloccante – DG001]** Scarica e analizza il PDF del foglio illustrativo della TFDA per estrarre avvertimenti chiave e controindicazioni, in particolare il monitoraggio dell'epatotossicità (ALT/AST), il rischio di teratogenicità (equivalente alla Categoria X) e i requisiti di conteggio dei linfociti
-- **[Alto – DG002]** Query l'API di DrugBank per i dati MOA completi inclusi gli effetti off-target noti e i dettagli del percorso metabolico
-- Recupera i dati DDI da EMA SmPC o dall'etichetta FDA come sostituto provvisorio in attesa dei risultati specifici del database DDI della TFDA
-- Stabilire un piano di monitoraggio della sicurezza specifico a Taiwan: test della funzionalità epatica (basale + mensile per 6 mesi), emocromo completo, pressione arteriosa e un piano di comunicazione formale del rischio di teratogenicità con documentazione del protocollo di eliminazione accelerata (lavaggio con colestiramina/carbone attivato)
-- Valutare se i dati RRMS pediatrici (approvazione UE 2023; PMID 37382446) sono rilevanti per qualsiasi popolazione SM pediatrica a Taiwan
-- Conferma il percorso formulario dell'assicurazione sanitaria nazionale di Taiwan e il panorama dei comparatori (disponibilità di interferone β, acetato di glatiramer, fingolimod) per posizionare teriflunomide negli algoritmi di trattamento locali
+Sono presenti anche interazioni di gravità moderata (ad es. alosetron, cimetidina, empagliflozin, sitagliptin) e minore (solfato e acetato di zinco).
 
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Proceed with Guardrails**
+
+**Motivazione:**
+Il teriflunomide dispone di studi di fase 3 randomizzati completati (NCT00134563, NCT00883337) e di numerosi RCT che lo usano come comparatore attivo, quindi il livello di evidenza è L1. Tuttavia la RRMS è l'indicazione già approvata, e tutte le 13 autorizzazioni italiane risultano cancellate: serve chiarire lo stato regolatorio prima di qualsiasi sviluppo.
+
+**Per procedere sono necessari:**
+- Acquisire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna che impedisce lo screening di sicurezza
+- Completare i dati sul meccanismo d'azione da DrugBank
+- Verificare il motivo delle cancellazioni delle autorizzazioni in Italia e l'eventuale disponibilità di prodotti equivalenti
+- Definire un piano di gestione delle interazioni di gravità maggiore (in particolare corticosteroidi e antidiabetici)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

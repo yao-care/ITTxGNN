@@ -2,7 +2,7 @@
 layout: default
 title: Pioglitazone
 parent: Solo previsione del modello (L5)
-nav_order: 165
+nav_order: 352
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,76 +29,76 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Pioglitazone: Dal Diabete Mellito di Tipo 2 all'Opsismodisplasia
+# Pioglitazone: dal diabete mellito di tipo 2 all'opsismodisplasia
 
-## Riassunto in una frase
+## Sintesi
 
-La pioglitazone è un agonista PPARγ della classe delle tiazolidinedioni (TZD), ampiamente utilizzato nel trattamento del diabete mellito di tipo 2 mediante il miglioramento della sensibilità insulinica periferica.
-La predizione di più alto rango del modello TxGNN lo posiziona come candidato potenziale per l'**opsismodisplasia**, una displasia scheletrica rara e grave causata da mutazioni del gene *INPPL1* (SHIP2).
-Questa predizione è attualmente supportata da **0 studi clinici** e **0 pubblicazioni**, e la logica meccanicistica solleva preoccupazioni significative riguardo la plausibilità biologica.
+Il pioglitazone è un antidiabetico orale, originariamente impiegato nel trattamento del diabete mellito di tipo 2.
+Il modello TxGNN prevede che possa essere efficace per l'**opsismodisplasia**, una rara displasia scheletrica, con un punteggio molto alto (99,59%).
+Tuttavia, per questa indicazione non risultano **né sperimentazioni cliniche né pubblicazioni**: la previsione si basa solo sul modello.
 
----
+## Quadro generale
 
-## Panoramica rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Diabete mellito di tipo 2 (dalla knowledge graph TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Opsismodisplasia |
+| Punteggio di predizione TxGNN | 99,59% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 15 (tutte cancellate; 0 valide) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|---|---|
-| Indicazione Originaria | Diabete Mellito di Tipo 2 |
-| Nuova Indicazione Predetta | Opsismodisplasia |
-| Punteggio di Predizione TxGNN | 99.59% |
-| Livello di Evidenza | L5 |
-| Stato del Mercato Italiano | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | In sospeso |
+## Perché questa previsione è plausibile?
 
----
+Per i dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il pioglitazone è un agonista di PPAR-gamma e un insulino-sensibilizzante, la cui efficacia nel diabete di tipo 2 è documentata.
 
-## Perché questa predizione è ragionevole?
+L'opsismodisplasia è causata da mutazioni di INPPL1 (carenza di SHIP2), che coinvolgono la via di segnalazione PI3K/insulina e la crescita ossea endocondrale. Un nesso con il pioglitazone sarebbe solo indiretto e speculativo: **non è stato stabilito alcun legame meccanicistico**. Il punteggio elevato deriva esclusivamente dalle associazioni nel grafo di conoscenza e non è una prova di efficacia.
 
-I dati formali del meccanismo d'azione non sono stati recuperati dal foglio illustrativo normativo per questo rapporto. Sulla base della farmacologia consolidata, la pioglitazone è un **agonista PPARγ (Recettore gamma attivato da proliferatori di perossisomi) selettivo** della classe delle tiazolidinedioni. L'attivazione di PPARγ rimodella i programmi di trascrizione genica nel tessuto adiposo, nel muscolo scheletrico e nel fegato, riducendo infine la resistenza all'insulina. Questa è anche la base di tutti i nove record bibliografici identificati per la pioglitazone nel sistema — tutti affrontano il diabete mellito di tipo 2 e le condizioni metaboliche correlate, senza alcun collegamento diretto con le malattie scheletriche.
+Tra le altre indicazioni previste figurano la sindrome della persona rigida classica e la sindrome dell'arto rigido focale (punteggio 99,50%), la sindrome da disfunzione tiamino-responsiva, diverse lipodistrofie localizzate e l'agenesia pancreatica. Anche queste restano ipotesi senza evidenze cliniche. In particolare, per l'agenesia pancreatica il pioglitazone richiede insulina endogena per agire e non può sostituire le cellule beta mancanti, quindi non è appropriato come terapia primaria.
 
-L'opsismodisplasia è causata da mutazioni con perdita di funzione in *INPPL1*, che codifica per la fosfatasi SHIP2. SHIP2 modula l'asse di segnalazione PI3K/Akt, essenziale per la normale differenziazione dei condrociti e l'ossificazione endocondrale. Sebbene la pioglitazone interagisca indirettamente con i bersagli a valle di PI3K/Akt attraverso PPARγ, il collegamento è meccanicamente problematico piuttosto che supportivo: l'attivazione di PPARγ è ben documentata nel **sopprimere** la differenziazione degli osteoblasti antagonizzando i percorsi RUNX2 e Wnt/β-catenina — i programmi di trascrizione stessi richiesti per la corretta formazione ossea.
+## Evidenze dagli studi clinici
 
-In una condizione già caratterizzata da mineralizzazione scheletrica gravemente compromessa, l'agonismo PPARγ potrebbe plausibilmente peggiorare piuttosto che migliorare la fisiopatologia. Il punteggio di alta confidenza del modello TxGNN (99.59%) molto probabilmente riflette la topologia di rete condivisa con vicini metabolici o di segnalazione nel grafo conoscitivo, piuttosto che una rilevanza meccanicistica convalidata per questa indicazione scheletrica rara. La plausibilità biologica complessiva è valutata come **bassa a negativa**.
+Attualmente non risultano studi clinici registrati correlati.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza da studi clinici
+Attualmente non risulta letteratura correlata per l'opsismodisplasia.
 
-Attualmente non ci sono studi clinici correlati registrati.
-
----
-
-## Evidenza bibliografica
-
-Attualmente nessuna letteratura correlata disponibile.
-
----
+Per completezza, per la quarta indicazione prevista, l'agenesia pancreatica, sono state recuperate 7 pubblicazioni. Riguardano il diabete di tipo 2 e i tiazolidinedioni in generale, non la malattia in questione, e offrono quindi solo evidenza indiretta sulla classe di farmaci.
 
 ## Informazioni sul mercato italiano
 
-La pioglitazone non detiene alcuna autorizzazione alla commercializzazione in Italia. Nessun prodotto approvato o record di indicazione è disponibile dal database normativo.
+Tutte le 15 autorizzazioni sono cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile.
 
----
+| N. autorizzazione | Prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 034946018 | ACTOS 28 cpr 15 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 034946044 | ACTOS 28 cpr 30 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 034946121 | ACTOS 28 cpr 45 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 040476032 | Pioglitazone 28 cpr 15 mg | Mylan SpA | Cancellata |
+| 042677221 | Pioglitazone 28 cpr 45 mg | Accord Healthcare SLU | Cancellata |
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni suggerite dal grafo di conoscenza** (non derivate dal foglio illustrativo): insufficienza cardiaca congestizia, malattie renali, malattie epatiche, malattie della colecisti, insufficienza surrenalica/malattia di Addison, ipopituitarismo e deficit di ormone della crescita, malattie del timo, malattie infettive.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni (fonte DDInter). Tra quelle di livello moderato: abiraterone, acetazolamide, alpelisib, epinefrina, fenilefrina, pseudoefedrina, formoterolo, salbutamolo, idroclorotiazide, idrocortisone, etanolo e abametapir (topico). Tra quelle di livello minore: nifedipina, etinilestradiolo e vari corticosteroidi topici.
 
----
+Avvertenze e controindicazioni ufficiali del foglio illustrativo AIFA non sono disponibili: consultare il foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Hold**
 
-**Logica:** Questo candidato si basa interamente su una predizione del modello (Livello di Evidenza L5) senza alcuno studio clinico di supporto o letteratura pubblicata. Più criticamente, l'analisi meccanicistica attuale suggerisce che l'agonismo PPARγ potrebbe essere controproducente nell'opsismodisplasia — un disturbo scheletrico dove la funzione degli osteoblasti e dei condrociti è già compromessa — rendendo questa un'ipotesi di riutilizzo a bassa plausibilità indipendentemente dal punteggio TxGNN elevato.
+**Motivazione:**
+La previsione è basata solo sul modello (L5), senza studi clinici o letteratura e senza un legame meccanicistico chiaro. Inoltre in Italia non esistono autorizzazioni valide e il profilo di sicurezza ufficiale non è disponibile.
 
-**Per procedere, è necessario quanto segue:**
-- Studi preclinici (in vitro/in vivo) che esaminano l'effetto della modulazione di PPARγ in modelli di condrociti o tessuti scheletrici carenti di *INPPL1*/*SHIP2*
-- Chiarimento meccanicistico di se qualsiasi azione indipendente da PPARγ della pioglitazone (ad es., effetti anti-infiammatori, mitocondriali) potrebbe offrire qualche beneficio parziale in questo contesto di malattia
-- Recupero formale dei dati MOA e di sicurezza: query API DrugBank per la farmacologia completa, e revisione AIFA/foglio illustrativo per avvertenze, controindicazioni e interazioni farmacologiche note
-- Rivalutazione delle predizioni TxGNN di rango inferiore (ad es., Ranghi 5–8: sottotipi di lipodistrofia) che portano una logica meccanicistica più forte attraverso il ruolo di PPARγ come regolatore principale dell'adipogenesi, e potrebbero rappresentare candidati di riutilizzo più praticabili per il follow-up prioritario
-
+**Per procedere è necessario:**
+- Acquisire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
+- Ottenere i dati sul meccanismo d'azione (ad es. da DrugBank)
+- Condurre una valutazione preclinica del nesso tra PPAR-gamma/insulino-sensibilizzazione e la via INPPL1/SHIP2
+- Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate
+- Eventualmente riconsiderare altre indicazioni previste con razionale biologico più plausibile (ad es. le lipodistrofie)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

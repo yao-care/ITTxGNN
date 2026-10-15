@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluticasone
-parent: Solo previsione del modello (L5)
-nav_order: 111
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 208
+evidence_level: L4
 indication_count: 3
 ---
 
 # Fluticasone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,95 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Fluticasone: Da Rinite Allergica a Emicrania
+# Fluticasone: Dall'indicazione originale non documentata all'emicrania (migraine disorder)
 
-## Riepilogo in una Frase
+## Sintesi in una frase
 
-Il fluticasone è un glucocorticoide sintetico potente ampiamente utilizzato come corticosteroide inalato o intranasale per la rinite allergica, l'asma e le condizioni infiammatorie correlate, sebbene non abbia alcuna autorizzazione normativa attuale in Italia.
-Il modello TxGNN prevede che potrebbe essere efficace per l'**Emicrania**, tuttavia con **0 sperimentazioni cliniche** e solo **1 pubblicazione perifericamente correlata** disponibili, la base di evidenza è minima in questa fase.
+Il fluticasone è un corticosteroide glucocorticoide, di cui nei dati compilati per questo report non risulta però un'indicazione originale approvata in Italia (il testo delle indicazioni nelle autorizzazioni AIFA è vuoto). Il modello TxGNN ne prevede un possibile impiego nell'**emicrania (migraine disorder)**, ma a sostegno di questa direzione ci sono **0 studi clinici** e **1 pubblicazione**, che peraltro riguarda eventi avversi neuropsichiatrici e non un beneficio terapeutico.
 
 ---
 
-## Panoramica Rapida
+## Panoramica rapida
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione Originale | Rinite allergica / Asma (classe corticosteroide; nessuna autorizzazione italiana registrata) |
-| Nuova Indicazione Prevista | Emicrania |
-| Punteggio di Previsione TxGNN | 99.20% |
-| Livello di Evidenza | L5 |
-| Stato del Mercato in Italia | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospendere |
+|------|------|
+| Indicazione originale | Non disponibile (testo delle indicazioni assente nelle autorizzazioni AIFA) |
+| Nuova indicazione prevista | Emicrania (migraine disorder) |
+| Punteggio di previsione TxGNN | 99,20% |
+| Livello di evidenza | L4 |
+| Stato sul mercato italiano | Solo autorizzazioni revocate/cessate |
+| Numero di autorizzazioni | 20 (0 valide, 20 cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché Questa Previsione è Ragionevole?
+## Perché questa previsione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nel dossier probatorio. Basandosi sulla farmacologia consolidata, il fluticasone è un glucocorticoide sintetico potente che agisce tramite recettori glucocorticoidi intracellulari per sopprimere ampiamente l'espressione genica infiammatoria — compresa l'inibizione della segnalazione di NF-κB, dell'attività della COX-2 e del rilascio di citochine pro-infiammatorie (ad es., IL-1β, TNF-α).
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il fluticasone è un glucocorticoide con attività antinfiammatoria, e la neuroinflammazione e l'infiammazione neurogena sono ritenute possibili contributori alla fisiopatologia dell'emicrania. Questo è però un collegamento solo ipotetico.
 
-L'infiammazione neurale è una componente riconosciuta della fisiopatologia dell'emicrania: l'attivazione del nervo trigemino provoca il rilascio di neuropeptidi infiammatori come CGRP e sostanza P, che a loro volta promuovono la vasodilatazione durale e la sensibilizzazione centrale al dolore. Il profilo antinfiammatorio del fluticasone teoricamente si sovrappone a questi percorsi. Inoltre, la via di somministrazione intranasale può influenzare ulteriormente il ganglio sfenopala tino (SPG) — un ganglio parasimpatico in stretta vicinanza alla mucosa nasale che è già un bersaglio interventistico consolidato per il trattamento dell'emicrania (blocco SPG).
+L'unica pubblicazione recuperata è una revisione sui corticosteroidi intranasali e sui disturbi neuropsichiatrici (PMID 18681087). Essa riguarda effetti avversi (inclusi cefalea e disturbi dell'umore/comportamento), non un beneficio terapeutico, e non supporta l'efficacia nell'emicrania: se mai, segnala un possibile problema di sicurezza.
 
-Detto questo, questo collegamento meccanicistico rimane indiretto e teorico. La biodisponibilità sistemica del fluticasone intranasale è molto bassa (< 2%), rendendo incerta la penetrazione significativa del SNC. Nessuno studio farmacologico diretto ha dimostrato attività antinfiammatoria trigeminale a dosi clinicamente realizzabili. L'elevato punteggio di previsione del modello TxGNN probabilmente riflette caratteristiche di rete biologica condivise tra i percorsi corticosteroidi e i nodi correlati all'emicrania nel grafo della conoscenza, piuttosto che l'evidenza farmacologica diretta.
+Il punteggio elevato di TxGNN (0,992) va quindi interpretato con cautela: in assenza di studi clinici e di un meccanismo dimostrato, il legame meccanicistico resta non accertato.
 
----
+### Altre previsioni del modello (per completezza)
 
-## Evidenza da Sperimentazioni Cliniche
-
-Attualmente nessuna sperimentazione clinica correlata registrata.
-
----
-
-## Evidenza da Letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|------------------|
-| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Revisione di Farmacovigilanza | Ann Allergy Asthma Immunol | I dati del WHO Uppsala Monitoring Centre hanno rivelato un inaspettato cluster di eventi avversi neuropsichiatrici durante l'uso di corticosteroidi intranasali — suggerendo che nonostante l'azione locale presunta, l'esposizione del SNC e gli effetti neurologici si verificano effettivamente, conferendo plausibilità biologica indiretta all'attività del SNC del fluticasone intranasale |
-
-> **Nota:** Questa pubblicazione è un'analisi del segnale di evento avverso, non uno studio di efficacia terapeutica per l'emicrania. Fornisce solo un contesto meccanicistico indiretto.
+- **Angina di Prinzmetal** (punteggio 99,19%, livello L5): nessuno studio clinico né pubblicazione. L'angina vasospastica è guidata da vasospasmo coronarico, disfunzione endoteliale e iperreattività della muscolatura liscia; non è stato identificato alcun meccanismo plausibile che colleghi il fluticasone al controllo del vasospasmo. La previsione è verosimilmente un artefatto del grafo di conoscenza.
+- **Emicrania con aura del tronco encefalico** (punteggio 99,09%, livello L5): nessuno studio clinico né pubblicazione. Il punteggio riflette probabilmente la vicinanza ontologica al termine genitore "emicrania" e non un'evidenza indipendente.
 
 ---
 
-## Informazioni sul Mercato Italiano
+## Evidenze da studi clinici
 
-Il fluticasone (DB13867) attualmente non detiene autorizzazioni alla commercializzazione in Italia. Non ci sono registrazioni di prodotti approvati registrate.
-
----
-
-## Considerazioni di Sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Al momento non risulta alcuno studio clinico registrato correlato.
 
 ---
 
-## Conclusione e Passaggi Successivi
+## Evidenze dalla letteratura
 
-**Decisione: Sospendere**
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Revisione | Annals of Allergy, Asthma & Immunology | Revisione dei dati di farmacovigilanza OMS: un insieme inatteso di segnalazioni di disturbi neuropsichiatrici durante l'uso di corticosteroidi intranasali. Non fornisce evidenza di efficacia nell'emicrania. |
 
-**Logica:**
-Nonostante un punteggio di previsione TxGNN del 99.20%, l'evidenza di supporto è al Livello L5 — nessuna sperimentazione clinica ha testato il fluticasone per l'emicrania, l'unica pubblicazione identificata è una revisione di evento avverso di farmacovigilanza piuttosto che uno studio terapeutico, e il percorso meccanicistico proposto (soppressione dell'infiammazione neurale tramite somministrazione GC intranasale) rimane un'ipotesi indiretta, non convalidata.
+---
 
-**Per procedere, è necessario quanto segue:**
-- Recuperare i dati completi del meccanismo d'azione (MOA) da DrugBank per confermare i bersagli pertinenti dei recettori GC
-- Ottenere gli avvertimenti ufficiali del foglio illustrativo e le controindicazioni (AIFA / TFDA) per valutare il profilo di sicurezza di base
-- Commissionare o identificare studi preclinici che valutano l'effetto del fluticasone sull'infiammazione neurale trigeminale o sul rilascio di CGRP
-- Valutare la biodisponibilità del SNC: qualche formulazione intranasale o sistemica di fluticasone raggiunge un'esposizione sufficiente a livello del nucleo trigemino o della dura madre?
-- Cercare almeno uno studio clinico di proof-of-concept o una serie di casi testando corticosteroidi (livello di classe) nella gestione dell'emicrania acuta o profilattica, per stabilire l'evidenza di classe meccanicistica
-- Chiarire la compatibilità della via: identificare se esiste una via di somministrazione appropriata per raggiungere il coinvolgimento del bersaglio farmacologico richiesto per l'emicrania
+## Informazioni sul mercato italiano
 
+Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Di seguito le prime 5 autorizzazioni (la forma è desunta dal nome del prodotto).
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 029014014 | FLIXODERM crema derm 30 g 0,5 mg/g (GlaxoSmithKline) | Crema dermatologica | Non disponibile |
+| 028667020 | FLIXOTIDE 50 sospensione inalatoria 120 erogazioni 50 mcg (GlaxoSmithKline) | Sospensione per inalazione | Non disponibile |
+| 043082015 | FLUTICASONE sospensione inalatoria 120 erogazioni 125 mcg (DOC Generici) | Sospensione per inalazione | Non disponibile |
+| 028675104 | FLUSPIRAL sospensione inalatoria 120 dosi 50 mcg (A. Menarini) | Sospensione per inalazione | Non disponibile |
+| 028675270 | FLUSPIRAL DISKUS polvere inalatoria 60 dosi 250 mcg (A. Menarini) | Polvere per inalazione | Non disponibile |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni complessive; tra quelle elencate:
+  - **Maggiore**: claritromicina.
+  - **Moderata**: aprepitant, insulina umana (inalatoria, ad azione rapida).
+  - **Livello non classificato**: calcitriolo, fentermina, pantoprazolo, mesalazina, doxiciclina, clotrimazolo, morfina, omeprazolo, lansoprazolo, cimetidina, vancomicina, levocarnitina, nizatidina, triamcinolone, oxandrolone, prednisone, simvastatina.
+- Per avvertenze e controindicazioni si rimanda al foglio illustrativo, non disponibile nei dati compilati.
+- La revisione di farmacovigilanza (PMID 18681087) segnala possibili disturbi neuropsichiatrici con corticosteroidi intranasali.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La previsione si basa quasi esclusivamente sul punteggio del modello TxGNN. Non ci sono studi clinici, l'unica pubblicazione riguarda eventi avversi e non efficacia, il meccanismo non è dimostrato e tutte le autorizzazioni italiane sono cancellate.
+
+**Per procedere è necessario:**
+- Recuperare avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza).
+- Acquisire i dati sul meccanismo d'azione (ad es. tramite DrugBank).
+- Individuare le indicazioni originali approvate e le forme farmaceutiche.
+- Cercare evidenze precliniche o cliniche sull'uso di corticosteroidi nell'emicrania, valutando il segnale neuropsichiatrico.
+- Chiarire la compatibilità della via di somministrazione, dato che nessun prodotto è oggi in commercio in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

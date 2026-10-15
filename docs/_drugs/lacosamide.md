@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lacosamide
-parent: Prove elevate (L1-L2)
-nav_order: 128
-evidence_level: L2
+parent: Prove moderate (L3-L4)
+nav_order: 252
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,122 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Lacosamide: dalla epilessia focale al disturbo bipolare affettivo maniacale
+# Lacosamide: Dall'epilessia focale al disturbo bipolare maniacale
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-La lacosamide (Vimpat®) è un farmaco anticonvulsivante approvato per il trattamento dell'epilessia focale (a esordio parziale).
-Il modello TxGNN prevede che potrebbe essere efficace per il **disturbo bipolare affettivo maniacale**,
-con **1 studio clinico** e **14 pubblicazioni** attualmente che supportano questa direzione.
+Lacosamide è un farmaco antiepilettico che agisce sui canali del sodio voltaggio-dipendenti. Il modello TxGNN predice che possa essere efficace per il **disturbo bipolare maniacale** (primo nella classifica delle predizioni), ma per questa indicazione non risultano sperimentazioni cliniche registrate e la letteratura disponibile è limitata a uno studio retrospettivo, a una serie di case report e a una revisione. Tra le predizioni, **l'emicrania** è quella con il supporto più solido (4 sperimentazioni cliniche, di cui 3 di Fase 3, e 1 RCT pubblicato nel 2026), e per questo è trattata in dettaglio nelle sezioni successive come indicazione alternativa.
 
 ---
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|----------|
-| Indicazione originale | Epilessia focale (crisi a esordio parziale) |
-| Indicazione prevista nuova | Disturbo bipolare affettivo maniacale |
-| Punteggio di previsione TxGNN | 99.96% |
-| Livello di evidenza | L2 |
-| Stato del mercato taiwanese | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con cautele |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (nessun testo di indicazione approvata nelle autorizzazioni AIFA). Il farmaco è noto come antiepilettico per le crisi focali. |
+| Nuova indicazione predetta (rank 1) | Disturbo bipolare maniacale |
+| Punteggio di predizione TxGNN | 99,96% |
+| Livello di evidenza (rank 1) | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata (rank 1) | Hold (domanda di ricerca) |
+
+**Predizione alternativa con evidenza più forte: emicrania** (punteggio TxGNN 99,87%, livello di evidenza L1, decisione: Proceed with Guardrails).
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Attualmente, i dati formali sul meccanismo d'azione non sono disponibili in questo evidence pack. Sulla base della letteratura pubblicata, la lacosamide è un farmaco anticonvulsivante di terza generazione che agisce principalmente potenziando selettivamente l'inattivazione lenta dei canali del sodio voltaggio-dipendenti (Nav1.x), stabilizzando le membrane neuronali ipereccitabili e riducendo la scarica neuronale ripetitiva. Un meccanismo secondario riguarda il legame alla proteina 2 mediatore della risposta del collasso (CRMP2), che modula il traffico dei canali ionici e la connettività sinaptica nei circuiti limbici.
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nel dossier compilato. In base alle conoscenze della letteratura inclusa, lacosamide potenzia l'inattivazione lenta dei canali del sodio voltaggio-dipendenti e modula la proteina CRMP2. Questo meccanismo è in parte condiviso con anticonvulsivanti già usati come stabilizzatori dell'umore (ad esempio lamotrigina e carbamazepina).
 
-La razionale meccanicistica è forte: lamotrigina e carbamazepina — entrambi modulatori dei canali del sodio nella stessa classe farmacologica — sono trattamenti consolidati di prima linea per il disturbo bipolare. La lacosamide condivide il meccanismo di modulazione Nav1.x, suggerendo un percorso plausibile di stabilizzazione dell'umore. Inoltre, la modulazione di CRMP2 potrebbe influenzare indipendentemente la plasticità sinaptica nelle regioni limbiche coinvolte nella regolazione dell'umore, fornendo un secondo ponte meccanicistico ai disturbi affettivi.
+Per il disturbo bipolare maniacale, il legame con l'indicazione originale è la stabilizzazione di membrana neuronale. Tuttavia le prove cliniche sono scarse: uno studio retrospettivo a 30 giorni nel disturbo bipolare, un case report di neutropenia in un paziente bipolare con epilessia, e una coorte in epilessia con effetti su depressione e ansia. **Non esistono studi prospettici sulla mania.**
 
-Clinicamente, la progressione dell'evidenza segue un arco coerente: gli studi osservazionali hanno inizialmente notato miglioramenti incidentali nei sintomi depressivi e ansiosi nei pazienti epilettici in trattamento con lacosamide; uno studio retrospettivo di confronto di 30 giorni (PMID 30251375) e uno studio pilota open-label di 12 settimane (PMID 33666402) hanno quindi esaminato direttamente la lacosamide nei pazienti con disturbo bipolare senza epilessia, entrambi riportando segnali positivi; uno studio RCT di fase 3 (NCT07412132) sta ora reclutando attivamente. **Un'importante avvertenza:** l'evidenza clinica esistente affronta principalmente gli **episodi bipolari depressivi**, non specificamente gli episodi maniacali — la distinzione di fase della malattia è clinicamente critica e rappresenta un'interruzione nella base di evidenza attuale.
-
----
-
-## Prove di studi clinici
-
-| Numero di studio | Fase | Stato | Arruolamento | Risultati principali |
-|-------------|-------|--------|------------|-------------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Fase 3 | In arruolamento | 40 | Studio randomizzato, in doppio cieco, con gruppi paralleli valutando la lacosamide come potenziamento ai trattamenti di prima o seconda linea negli episodi bipolari depressivi da moderati a gravi (Tipi I & II). Nota: n=40 è sostanzialmente al di sotto degli standard tipici della Fase 3 (≥200); la potenza statistica è una preoccupazione. Il formato dell'ID NCT è atipico e richiede verifica. |
+Per l'emicrania il razionale è più forte: lacosamide agisce su CRMP2, che può inibire il rilascio di CGRP nel sistema trigeminale, e uno studio preclinico sul topo ha mostrato un effetto sulla depolarizzazione corticale diffusa, meccanismo plausibile per la profilassi dell'emicrania.
 
 ---
 
-## Prove da letteratura
+## Evidenze dalle sperimentazioni cliniche
+
+### Disturbo bipolare maniacale (rank 1)
+
+Al momento non risultano sperimentazioni cliniche registrate.
+
+### Emicrania (rank 5, predizione con maggiore supporto)
+
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT05851781](https://clinicaltrials.gov/study/NCT05851781) | Fase 3 | Completato | 600 | Lacosamide vs propranololo: riduzione dei giorni di emicrania mensili e quota di pazienti con riduzione ≥50% |
+| [NCT06243692](https://clinicaltrials.gov/study/NCT06243692) | Fase 3 | Sconosciuto | 600 | Lacosamide vs topiramato nell'emicrania, stessi endpoint; nessun risultato disponibile |
+| [NCT05632133](https://clinicaltrials.gov/study/NCT05632133) | Fase 3 | Completato | 200 | Studio pilota randomizzato sull'effetto di lacosamide sui livelli sierici di CGRP in emicrania episodica (endpoint biomarcatore) |
+| [NCT00440518](https://clinicaltrials.gov/study/NCT00440518) | Fase 2 | Completato | 218 | Studio multicentrico in doppio cieco controllato con placebo (100 e 300 mg/die) per la profilassi dell'emicrania; il titolo nei dati è troncato, quindi l'indicazione va verificata |
+
+---
+
+## Evidenze dalla letteratura
+
+### Disturbo bipolare maniacale (rank 1)
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|-------------|
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Studio pilota open-label | J Clin Psychopharmacol | Studio pilota di 12 settimane che dimostra l'efficacia e la tollerabilità della lacosamide per la depressione bipolare — primo segnale clinico prospettico |
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Confronto retrospettivo | Psychiatry Clin Neurosci | Confronto di 30 giorni tra lacosamide e altri anticonvulsivanti nei pazienti BD ospedalizzati senza epilessia; risultati positivi in un setting psichiatrico del mondo reale |
-| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | Multicentrico prospettico | Epilepsy Behav | La lacosamide ha migliorato i punteggi di depressione e ansia nei pazienti con epilessia focale refrattaria; gli effetti sembrano parzialmente indipendenti dal controllo delle crisi, suggerendo un'attività psicotropa intrinseca |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Caso clinico | Acta Bio-Medica | Stabilizzazione clinica dell'umore con lacosamide in un paziente con disturbo dell'umore, PTSD ed epilessia fronto-temporale; discute l'inattivazione lenta Nav come meccanismo di stabilizzazione della membrana in psichiatria |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Rapporto di evento avverso | Indian J Psychol Med | ⚠️ Segnale di sicurezza: la lacosamide ha causato neutropenia in un paziente BD con epilessia comorbida — è indicato un monitoraggio ematologico |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Revisione | ACS Chem Neurosci | CRMP2 come bersaglio neurologico farmacologico; spiega il legame di lacosamide a CRMP2 e la sua rilevanza al traffico dei canali ionici e alla plasticità sinaptica limbica |
-| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Caso clinico | Cureus | Gestione complessa di una paziente BD di Tipo I incinta con epilessia e PNES comorbide; dimostra l'uso nel mondo reale della lacosamide nella sovrapposizione psichiatrica–neurologica |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Revisione | Ther Drug Monit | Aggiornamento TDM 2018 notando l'espandersi dell'uso clinico della lacosamide oltre l'epilessia, inclusi dolore e disturbo bipolare |
-| [37782796](https://pubmed.ncbi.nlm.nih.gov/37782796/) | 2023 | Studio strutturale | PNAS | Strutture cryo-EM di Nav1.7 umano legato a farmaci anticonvulsivanti (riluzole, lamotrigina); fornisce il quadro meccanicistico di come gli AED che colpiscono Nav raggiungono i loro effetti farmacologici condivisi |
-| [40777679](https://pubmed.ncbi.nlm.nih.gov/40777679/) | 2025 | Caso clinico | Cureus | Ritiro da xilazina in un paziente con disturbo bipolare comorbido; lacosamide utilizzata come parte della gestione — illustra il contesto di sovrapposizione clinica BD–epilessia |
+|------|-----|------|------|---------|
+| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Coorte retrospettiva | Psychiatry Clin Neurosci | Lacosamide nel disturbo bipolare senza epilessia, confronto a 30 giorni con un gruppo di controllo retrospettivo trattato con altri antiepilettici |
+| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Studio pilota open-label | J Clin Psychopharmacol | Efficacia e sicurezza di lacosamide nella depressione bipolare in 12 settimane |
+| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | Coorte prospettica | Epilepsy Behav | Effetto di lacosamide su sintomi depressivi e ansiosi in pazienti con epilessia focale refrattaria |
+| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Case report | Acta Biomed | Stabilizzazione clinica di un disturbo dell'umore con PTSD ed epilessia fronto-temporale |
+| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Case report | Indian J Psychol Med | Neutropenia indotta da lacosamide in un paziente con disturbo bipolare ed epilessia |
+| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Revisione | Ther Drug Monit | Monitoraggio terapeutico dei farmaci antiepilettici, usati anche nel disturbo bipolare |
+
+### Emicrania (rank 5)
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [41863672](https://pubmed.ncbi.nlm.nih.gov/41863672/) | 2026 | RCT in doppio cieco | Mol Neurobiol | Lacosamide vs propranololo nella prevenzione dell'emicrania episodica, in particolare per pazienti che non tollerano il propranololo |
+| [38502425](https://pubmed.ncbi.nlm.nih.gov/38502425/) | 2024 | RCT | Acta Neurol Belg | Effetto di lacosamide sul CGRP sierico in pazienti con emicrania episodica |
+| [22779776](https://pubmed.ncbi.nlm.nih.gov/22779776/) | 2013 | Revisione sistematica/meta-analisi | Epilepsia | Profilo degli eventi avversi di lacosamide negli RCT |
+| [40670944](https://pubmed.ncbi.nlm.nih.gov/40670944/) | 2025 | Preclinico (topo) | J Headache Pain | Effetto di lacosamide sulla depolarizzazione corticale diffusa |
+| [27917413](https://pubmed.ncbi.nlm.nih.gov/27917413/) | 2016 | Preclinico | Pain Reports | Efficacia di (S)-lacosamide in modelli preclinici di dolore cefalico tramite CRMP2 e rilascio di CGRP |
 
 ---
 
-## Considerazioni di sicurezza
+## Informazioni sul mercato italiano
 
-Consultare il foglio illustrativo per le informazioni di sicurezza.
+Tutte le 20 autorizzazioni risultano **cancellate**; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile per nessuna di esse. Principali autorizzazioni:
 
-> **Segnale di sicurezza derivato dalla letteratura:** PMID 30275630 documenta un caso di **neutropenia** indotta da lacosamide in un paziente con disturbo bipolare ed epilessia comorbida. Il monitoraggio ematologico basale e periodico (CBC con differenziale) è consigliabile se la lacosamide viene utilizzata nelle popolazioni psichiatriche.
+| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 038919116 | VIMPAT 56 cpr rivestite 200 mg | UCB Pharma S.A. | Cancellata |
+| 045648250 | Lacosamide 56 cpr rivestite 200 mg | Sandoz SpA | Cancellata |
+| 048265146 | Lacosamide 56 cpr rivestite 200 mg | Krka d.d. Novo Mesto | Cancellata |
+| 047010057 | LAPRYSTA 56 cpr rivestite 100 mg | Neuraxpharm Italy SpA | Cancellata |
+| 049898063 | NEPILEX 56 cpr rivestite 150 mg | S.F. Group Srl | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni derivate dal grafo di conoscenza (non dal foglietto illustrativo)**: malattie epatiche e della colecisti; disturbi del ritmo e della conduzione cardiaca (fibrillazione atriale, flutter atriale, blocco atrioventricolare, sindrome del seno malato, anche familiare); cardiopatia ischemica e malattia coronarica; ipotensione ortostatica, sindrome da tachicardia posturale ortostatica e atrofia multisistemica.
+- **Interazioni farmacologiche**: sono state identificate 25 interazioni; tra quelle di livello **maggiore** figurano dolasetron, ceritinib e siponimod. Tra quelle di livello moderato: claritromicina, etanolo, cobicistat, clorochina, idrossiclorochina, meflochina, lidocaina, ketoconazolo, pasireotide, alectinib, brigatinib, crizotinib, fingolimod, idelalisib, imatinib, ozanimod e sunitinib. Molte di queste riguardano farmaci con effetti sulla conduzione cardiaca, coerentemente con le controindicazioni cardiache sopra indicate.
+- **Segnalazione dalla letteratura**: un case report descrive neutropenia associata a lacosamide in un paziente bipolare.
+
+Per avvertenze e controindicazioni ufficiali fare riferimento al foglietto illustrativo.
 
 ---
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Procedere con cautele**
+**Decisione: Hold per il disturbo bipolare maniacale (rank 1); Proceed with Guardrails per l'emicrania (rank 5)**
 
-**Razionale:**
-La lacosamide condivide una classe farmacologica meccanicistica con lamotrigina e carbamazepina — entrambi trattamenti consolidati di prima linea per il disturbo bipolare — e i dati clinici preliminari da uno studio retrospettivo e da uno studio pilota open-label di 12 settimane hanno dimostrato segnali positivi. Uno studio RCT di Fase 3 attivo conferma il crescente impegno clinico verso questa ipotesi. Tuttavia, la base di evidenza esistente affronta principalmente gli **episodi bipolari depressivi**, mentre l'indicazione prevista da TxGNN è la **fase maniacale**, lasciando un'interruzione diretta nella base di evidenza per la gestione degli episodi maniacali.
+**Motivazione:**
+- Per la mania, l'evidenza è L3: solo studi osservazionali, case report e revisioni, senza studi prospettici né sperimentazioni registrate. Il punteggio TxGNN molto alto è solo una predizione.
+- Per l'emicrania, l'evidenza è L1: tre studi di Fase 3 completati o in corso, uno studio di Fase 2 controllato con placebo e un RCT pubblicato nel 2026. I confronti sono però con farmaci attivi e non con placebo.
+- Le altre predizioni (sindrome di Tourette, tricotillomania, sindrome nefrogenica da inappropriata antidiuresi, insonnia, congiuntivite papillare, disturbo ossessivo-compulsivo) non hanno supporto clinico e vanno mantenute in Hold. Per la sindrome di Tourette la letteratura suggerisce anzi un possibile segnale di tic indotti dagli antiepilettici. Per la sindrome miofasciale esiste un solo studio di Fase 2 (n=159, in realtà sulla fibromialgia) senza risultati disponibili: resta una domanda di ricerca.
 
-**Per procedere, è necessario quanto segue:**
-
-- Completamento e piena pubblicazione dei risultati della Fase 3 NCT07412132 (con revisione dell'adeguatezza della dimensione dell'arruolamento)
-- Evidenza clinica diretta specificamente per l'efficacia dell'**episodio maniacale** (non solo episodio depressivo)
-- Documentazione completa del meccanismo d'azione da DrugBank (gap di dati DG002)
-- Protocollo di monitoraggio della sicurezza incluso CBC con differenziale (rischio di neutropenia)
-- Valutazione del percorso normativo taiwanese (TFDA) per l'uso off-label o l'applicazione di nuova indicazione, data l'attuale stato di zero autorizzazioni
-- Progettazione di confronto testa a testa rispetto ai trattamenti BD consolidati (litio, valproato, lamotrigina) per definire il posizionamento clinico competitivo
-
+**Per procedere è necessario:**
+- Recuperare dal sito AIFA il foglietto illustrativo (avvertenze, controindicazioni, indicazioni approvate), poiché i dati di sicurezza ufficiali mancano.
+- Ottenere i dati sul meccanismo d'azione da DrugBank.
+- Verificare risultati e rischio di bias dell'RCT pubblicato nel 2026 e lo stato dello studio contro topiramato (NCT06243692); chiarire l'indicazione dello studio NCT00440518.
+- Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve chiarire la disponibilità attuale del prodotto.
+- Per la mania: studi prospettici controllati e valutazione del segnale di neutropenia.
+- Per le controindicazioni cardiache e le interazioni maggiori: piano di monitoraggio (ECG, funzionalità epatica) per le popolazioni a rischio.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

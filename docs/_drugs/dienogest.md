@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dienogest
-parent: Solo previsione del modello (L5)
-nav_order: 73
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 146
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dienogest
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,97 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# DIENOGEST: Candidato di riposizionamento — Dati insufficienti per valutazione completa
+# Dienogest: Dall'endometriosi all'amenorrea (ipotesi da verificare)
 
-## Riassunto sintetico
+## Sintesi
 
-Dienogest (DrugBank DB09123) è un progestinico sintetico; tuttavia, l'Evidence Pack attuale non contiene alcun record di indicazione originaria dal database normativo e **nessuna nuova indicazione predetta da TxGNN**, rendendo una valutazione standard di riposizionamento impossibile a questo stadio. I gap critici nei dati relativi al meccanismo d'azione, agli avvertimenti di sicurezza e alla storia normativa devono essere risolti prima di poter trarre alcuna conclusione basata sull'evidenza.
-
----
-
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Non disponibile (nessun record normativo di Taiwan trovato) |
-| Nuova indicazione predetta | Non disponibile (predizioni TxGNN non ancora generate) |
-| Punteggio di predizione TxGNN | — |
-| Livello di evidenza | L5 — Predizione del modello non ancora eseguita; nessuno studio di supporto recuperabile |
-| Stato mercato Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **Sospensione** |
+Il dienogest è un progestinico selettivo, originariamente utilizzato nel trattamento dell'endometriosi. Il modello TxGNN lo prevede come potenzialmente efficace per l'**amenorrea**, ma la direzione terapeutica è dubbia: il dienogest tende a *indurre* amenorrea, non a trattarla. Attualmente non risultano **studi clinici registrati** e la letteratura raccolta (**7 pubblicazioni**) riguarda quasi solo l'endometriosi e gli effetti avversi, senza alcuno studio che testi direttamente il dienogest nell'amenorrea.
 
 ---
 
-## Perché questa predizione è ragionevole?
+## Quadro generale
 
-Nessuna indicazione predetta da TxGNN è disponibile in questo Evidence Pack (`predicted_indications: []`). Senza una malattia target, una logica meccanicistica non può essere costruita.
-
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili. Basandosi sul record DrugBank DB09123, Dienogest è classificato come un progestinico (progestina sintetica di quarta generazione). La sua attività farmacologica è mediata dall'agonismo del recettore del progesterone, ed è ampiamente utilizzato nei mercati europei e asiatici per l'endometriosi e la contraccezione ormonale — sebbene nessuna di queste indicazioni compaia nel database normativo di Taiwan interrogato.
-
-**Per procedere con questa sezione**, la pipeline di predizione TxGNN deve prima essere eseguita e una malattia target deve essere confermata prima che qualsiasi ponte meccanicistico possa essere valutato.
-
----
-
-## Evidenza da studi clinici
-
-Attualmente nessuno studio clinico correlato registrato in questo Evidence Pack. Ciò è dovuto al fatto che nessuna indicazione predetta è stata identificata; una volta confermata una malattia target, una query su ClinicalTrials.gov può essere eseguita.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Endometriosi (dato dalla letteratura; i testi delle indicazioni nelle autorizzazioni AIFA non sono disponibili) |
+| Nuova indicazione predetta | Amenorrea |
+| Punteggio di predizione TxGNN | 99,71% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza da letteratura
+## Perché questa predizione potrebbe essere ragionevole?
 
-Attualmente nessuna letteratura correlata disponibile. L'indicazione target deve essere specificata prima che una query su PubMed possa produrre risultati significativi.
+Dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, il dienogest è un progestinico selettivo con effetti antiproliferativi, antinfiammatori e lievemente antigonadotropici. Sopprime l'ovulazione e induce atrofia endometriale.
 
----
+Proprio per questo il legame con l'amenorrea è biologicamente plausibile, ma in senso opposto a quello terapeutico: l'amenorrea è un effetto frequentemente osservato durante il trattamento dell'endometriosi (effetto avverso o esito atteso). Un'amenorrea dovuta a ipoestrogenismo non trarrebbe beneficio da un'ulteriore soppressione ovarica.
 
-## Informazioni di mercato di Taiwan
-
-Nessuna autorizzazione trovata. La query TFDA (2026-03-29) ha restituito 0 record per DIENOGEST.
+La predizione va quindi considerata una **domanda di ricerca** più che un'indicazione candidata credibile.
 
 ---
 
-## Considerazioni di sicurezza
+## Evidenze da studi clinici
 
-Fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
-
-Nessun dato di interazione farmacologica è stato trovato nella query del database DDI (2026-03-29). L'analisi del foglio illustrativo TFDA è stata registrata come riuscita (ID query 4), ma i campi di avvertimento e controindicazione estratti non sono disponibili in questa versione dell'Evidence Pack.
+Attualmente non risultano studi clinici correlati registrati.
 
 ---
 
-## Conclusione e prossimi passi
+## Evidenze dalla letteratura
 
-**Decisione: Sospensione**
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Revisione sistematica/meta-analisi | BMC Pharmacol Toxicol | Sintesi bayesiana degli eventi avversi del dienogest in endometriosi e adenomiosi |
+| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Coorte retrospettiva (514 donne) | Reprod Sci | Efficacia e sicurezza a lungo termine (oltre 12 mesi) in donne con endometrioma ovarico |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Revisione | Rev Endocr Metab Disord | Basi endocrine dei trattamenti ormonali per l'endometriosi |
+| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Studio clinico/farmacodinamico | Eur J Contracept Reprod Health Care | Elevato rapporto di inibizione e indice di trasformazione del dienogest 2 mg nell'endometriosi |
+| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Revisione | J Pediatr Adolesc Gynecol | Visualizzazione avanzata (3D/VR) per anomalie mülleriane e pianificazione chirurgica |
+| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Caso clinico | Medicine | Tumore della granulosa ovarica in paziente con sindrome dell'ovaio policistico |
+| [42438810](https://pubmed.ncbi.nlm.nih.gov/42438810/) | 2026 | Caso clinico | JCEM Case Reports | Iperparatiroidismo primario emerso dopo dienogest, con implicazioni sull'omeostasi del calcio |
 
-**Razionale:**
-L'Evidence Pack per Dienogest manca di tutti e tre gli elementi richiesti per una valutazione di riposizionamento: un'indicazione target predetta da TxGNN, dati del meccanismo d'azione e contenuto di sicurezza/normativo. Non esiste alcuna base su cui valutare la plausibilità di efficacia, la forza dell'evidenza o il profilo di rischio in questo momento.
+Nessuno di questi lavori valuta il dienogest come trattamento dell'amenorrea.
 
-**Per procedere, è necessario quanto segue:**
+---
 
-1. **Eseguire la pipeline di predizione TxGNN** — Generare indicazioni candidate classificate per DB09123 in modo che una malattia target possa essere selezionata
-2. **Recuperare il MOA dall'API DrugBank** — Popolare `original_moa` per abilitare la logica meccanicistica (Data Gap DG002, gravità: Alta)
-3. **Scaricare e analizzare il PDF del foglio illustrativo TFDA** — Estrarre avvertimenti e controindicazioni per sbloccare la valutazione di sicurezza (Data Gap DG001, gravità: Bloccante)
-4. **Confermare l'indicazione originaria** — Interrogare i record DrugBank o WHO INN per popolare `original_indications` (attualmente vuoto)
-5. **Ri-eseguire la generazione dell'Evidence Pack** (versione target: v5) — Una volta risolti i gap di cui sopra, inviare nuovamente per una classificazione completa L1–L5 dell'evidenza e una raccomandazione Go/Hold/Proceed
+## Informazioni sul mercato italiano
 
+Tutte le 14 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.
+
+| Numero di autorizzazione | Nome del prodotto | Titolare |
+|---------|------|------|
+| 051177018 | VISANNE 28 cpr 2 mg | GMM Farma Srl |
+| 046307029 | DEVICIUS 84 cpr rivestite 2 mg | Stragen Nordic A/S |
+| 041407014 | VISANNE 28 cpr 2 mg | Bayer SpA |
+| 046899011 | ENDOVELLE 1x28 cpr 2 mg | Exeltis Healthcare S.L. |
+| 046945022 | ZAFRILLA 3x28 cpr 2 mg | Gedeon Richter Plc |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni suggerite dal grafo di conoscenza (TxGNN/PrimeKG, non dal foglietto illustrativo)**: ipertensione, epilessia, disturbi d'ansia, porfiria, malattie renali, malattie epatiche e della colecisti, ipotiroidismo, lupus eritematoso sistemico, asma, diabete mellito, ipertrigliceridemia, ipercalcemia, carcinoma mammario femminile, tromboflebite.
+- **Interazioni farmacologiche**: 37 interazioni registrate. Tra quelle di livello **maggiore**: sugammadex, griseofulvina, bexarotene, brigatinib, dabrafenib, encorafenib. Tra quelle di livello moderato: linaclotide, metreleptina, procalopride, miltefosina, adalimumab, anakinra, canakinumab, certolizumab pegol, cladribina, emapalumab, enasidenib, asparaginasi.
+- **Segnali dalla letteratura**: un caso clinico riporta iperparatiroidismo primario dopo l'inizio del dienogest, con possibile effetto sull'omeostasi del calcio.
+
+Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativo.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Il punteggio TxGNN è molto alto, ma la direzione terapeutica è contraddittoria (il dienogest provoca amenorrea), non esistono studi clinici né letteratura diretta, e il prodotto non ha attualmente autorizzazioni valide in Italia. Anche le altre predizioni (insufficienza ovarica primaria, ipogonadismo ipogonadotropo, ecc.) mancano di una base meccanicistica razionale; solo la malattia fibrocistica della mammella ha un supporto indiretto debole (una revisione del 2009).
+
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (DrugBank)
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Verifica se l'amenorrea in esame sia una condizione in cui un progestinico abbia un razionale clinico (ad esempio amenorrea secondaria con estrogeni endogeni conservati)
+- Valutazione di indicazioni alternative con maggiore plausibilità, come la malattia fibrocistica della mammella
+- Chiarimento della situazione regolatoria, dato che tutte le autorizzazioni sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

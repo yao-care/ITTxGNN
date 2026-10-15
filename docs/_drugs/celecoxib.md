@@ -2,7 +2,7 @@
 layout: default
 title: Celecoxib
 parent: Prove elevate (L1-L2)
-nav_order: 50
+nav_order: 100
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,106 +29,109 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Celecoxib: dall'Artrite alla Spondiopatia Infiammatoria
+# Celecoxib: Dall'artrite reumatoide alla spondilopatia infiammatoria
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Il celecoxib è un inibitore selettivo della COX-2 autorizzato a livello globale per l'osteoartrosi, l'artrite reumatoide e la spondilite anchilosante, sebbene attualmente non detenga alcuna autorizzazione al commercio in Italia.
-Il modello TxGNN prevede che possa essere efficace per la **Spondiopatia Infiammatoria** (che comprende la spondilite anchilosante e la spondiloartrite assiale),
-con **19 trial clinici** e **20 pubblicazioni** che attualmente supportano questa direzione — inclusi molteplici trial controllati randomizzati di Fase 3 completati che stabiliscono **L1** come livello di evidenza.
+Celecoxib è un inibitore selettivo della COX-2 (antinfiammatorio non steroideo), utilizzato originariamente per artrite reumatoide, spondilite anchilosante, osteoartrosi e artrite idiopatica giovanile.
+Il modello TxGNN prevede che possa essere efficace per la **spondilopatia infiammatoria** (punteggio 99,80%), con **11 studi clinici** e **20 pubblicazioni** nei dati compilati per questo report.
+Si tratta però di un'indicazione già molto vicina a quelle originarie (spondilite anchilosante e spondiloartrite assiale), quindi più di un uso on-label o quasi che di un vero riposizionamento.
 
 ---
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione Originale | Autorizzata a livello globale per l'osteoartrosi, l'artrite reumatoide e la spondilite anchilosante; nessuna autorizzazione italiana registrata |
-| Indicazione Prevista Nuova | Spondiopatia Infiammatoria |
-| Punteggio di Previsione TxGNN | 99.80% |
-| Livello di Evidenza | L1 |
-| Stato del Mercato Italiano | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Guardrails |
+|------|------|
+| Indicazione originaria | Artrite reumatoide, spondilite anchilosante, osteoartrosi, artrite idiopatica giovanile (testo autorizzativo AIFA non disponibile; indicazioni tratte dal grafo di conoscenza) |
+| Nuova indicazione prevista | Spondilopatia infiammatoria (*inflammatory spondylopathy*) |
+| Punteggio di predizione TxGNN | 99,80% |
+| Livello di evidenza | L1 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 16 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dalla fonte dati primaria. Sulla base dell'evidenza pubblicata, il celecoxib è il primo inibitore selettivo della cicloossigenasi-2 (COX-2) introdotto nella pratica clinica. È stato specificamente progettato per fornire un'efficacia antinfiammatoria e analgesica paragonabile ai FANS non selettivi, risparmiando la COX-1 per ridurre la tossicità gastrointestinale superiore. Bloccando selettivamente la COX-2, il celecoxib sopprime la sintesi delle prostaglandine pro-infiammatorie — in particolare la PGE₂ — che sono mediatori centrali del dolore, del gonfiore articolare, dell'infiammazione entesiale e della distruzione tissutale nelle malattie muscoloscheletriche infiammatorie.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle conoscenze generali, celecoxib è un inibitore selettivo della COX-2: riduce la sintesi di prostaglandine (in particolare PGE2), mediatori dell'infiammazione e del dolore articolare. La sua efficacia nelle malattie reumatiche infiammatorie è già stabilita.
 
-La spondiopatia infiammatoria (spondilite anchilosante / spondiloartrite assiale) è una malattia infiammatoria cronica in cui la cascata delle prostaglandine mediata dalla COX-2 gioca un ruolo patologico particolarmente prominente. Il beneficio previsto del celecoxib opera attraverso almeno tre meccanismi convergenti: **(1)** ridurre l'infiammazione sinoviale e entesiale; **(2)** inibire l'attivazione degli osteoclasti per rallentare il danno osseo erosivo; e **(3)** — in particolare, una meta-analisi del 2025 ha dimostrato che il celecoxib è l'**unico FANS** dimostrato di inibire la formazione radiografica del sindesmofita (osso di ponte spinale), il che implica un effetto modificante l'osso diretto al di là della classica antinfiammazione, con il meccanismo preciso ancora in attiva investigazione.
-
-La logica biologica e clinica che collega il celecoxib alla spondiopatia infiammatoria è eccezionalmente forte. Le revisioni normative dell'UE pubblicate confermano che il celecoxib (Celebrex®) è già indicato nell'Unione Europea per il trattamento sintomatico della spondilite anchilosante negli adulti. La previsione di TxGNN riflette quindi una base di evidenza globale esistente che non è ancora stata formalizzata in un'autorizzazione al commercio italiana — rendendola un'opportunità di accesso al mercato piuttosto che un'ipotesi di riposizionamento puramente esplorativa.
+La spondilopatia infiammatoria comprende la spondilite anchilosante e la spondiloartrite assiale, già presenti tra le indicazioni originarie del farmaco. Il meccanismo è quindi direttamente applicabile. Pubblicazioni recenti suggeriscono inoltre che celecoxib possa inibire la progressione ossea radiografica nella spondiloartrite (PMID 39757202, PMID 36800138). È un possibile segnale di modificazione della malattia, che richiede conferma.
 
 ---
 
-## Evidenza da Trial Clinici
+## Evidenze dagli studi clinici
 
-| Numero del Trial | Fase | Stato | Arruolamento | Risultati Chiave |
+| Numero studio | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
-| [NCT00648141](https://clinicaltrials.gov/study/NCT00648141) | Fase 3 | Completato | 458 | Trial controllato randomizzato in doppio cieco di 12 settimane: Celecoxib 200mg QD vs 200mg BID vs Diclofenac 75mg SR BID in SA — ha confrontato sicurezza ed efficacia tra diversi schemi di dose |
-| [NCT00762463](https://clinicaltrials.gov/study/NCT00762463) | Fase 3 | Completato | 240 | Trial controllato randomizzato in doppio cieco di 6 settimane con estensione di 6 settimane in pazienti cinesi con SA: Celecoxib 200mg QD vs Diclofenac 75mg SR — ha valutato il sollievo dei sintomi e la sicurezza |
-| [NCT02528201](https://clinicaltrials.gov/study/NCT02528201) | Fase 4 | Completato | 330 | Trial in doppio cieco di 12 settimane per la conferma della dose: Celecoxib 200mg QD vs 400mg QD vs Diclofenac TID in SA — ha confermato i dati di efficacia e sicurezza post-commercializzazione |
-| [NCT01934933](https://clinicaltrials.gov/study/NCT01934933) | Fase 4 | Completato | 150 | Trial controllato randomizzato in aperto di 54 settimane: Etanercept + Celecoxib vs Etanercept da solo vs Celecoxib da solo in SA attiva — endpoint primario punteggio SPARCC MRI dell'articolazione sacroiliaca |
-| [NCT02758782](https://clinicaltrials.gov/study/NCT02758782) | Fase 4 | Completato | 156 | Trial CONSUL: Celecoxib + Golimumab vs monoterapia Golimumab in SA — ha valutato l'impatto sulla progressione del danno strutturale radiografico spinale nel corso di 2 anni |
-| [NCT03190603](https://clinicaltrials.gov/study/NCT03190603) | Fase 4 | Completato | 12 | Studio pilota MRI: effetto FANS sulla risoluzione delle lesioni infiammatorie nella spondiloartrite assiale — ha valutato il cambiamento dal basale nell'edema del midollo osseo |
-| [NCT04115098](https://clinicaltrials.gov/study/NCT04115098) | Fase 2 | Terminato | 42 | Trial N-of-1 confrontando inibitori selettivi della COX-2 vs non selettivi nella axSpA — ha esaminato il miglioramento dell'attività di malattia e biomarcatori proteomici |
-| [NCT01572675](https://clinicaltrials.gov/study/NCT01572675) | N/A | Completato | 547 | Studio francese di farmacoepidemiologia su etoricoxib e celecoxib (Celebrex®) nella pratica clinica di routine — modelli di utilizzo nel mondo reale |
-| [NCT03473665](https://clinicaltrials.gov/study/NCT03473665) | Fase 4 | Terminato | 9 | Trial controllato randomizzato in doppio cieco di 6 settimane confrontando 4 FANS nella spondiloartrite assiale — ha valutato il cambiamento del punteggio del dolore alla settimana 4 vs settimana 6 |
-| [NCT02456363](https://clinicaltrials.gov/study/NCT02456363) | Fase 2 | Sconosciuto | 300 | Progetto di registro: Adalimumab + FANS vs Adalimumab da solo nella spondilite anchilosante — ha valutato la sicurezza e l'efficacia della strategia di combinazione |
+| [NCT00648141](https://clinicaltrials.gov/study/NCT00648141) | Fase 3 | Completato | 458 | Celecoxib 200 mg una/due volte al giorno vs diclofenac 75 mg SR per 12 settimane nella spondilite anchilosante |
+| [NCT00762463](https://clinicaltrials.gov/study/NCT00762463) | Fase 3 | Completato | 240 | Celecoxib 200 mg vs diclofenac SR in pazienti cinesi con spondilite anchilosante, con estensione a 6 settimane |
+| [NCT02528201](https://clinicaltrials.gov/study/NCT02528201) | Fase 4 | Completato | 330 | Due dosi di celecoxib vs diclofenac, doppio cieco, 12 settimane |
+| [NCT01934933](https://clinicaltrials.gov/study/NCT01934933) | Fase 4 | Completato | 150 | Etanercept e celecoxib da soli o in associazione nella spondilite anchilosante attiva |
+| [NCT02758782](https://clinicaltrials.gov/study/NCT02758782) | Fase 4 | Completato | 156 | Celecoxib aggiunto ad anti-TNF (golimumab) vs anti-TNF da solo sulla progressione del danno strutturale spinale (studio CONSUL) |
+| [NCT04115098](https://clinicaltrials.gov/study/NCT04115098) | Fase 2 | Terminato | 42 | Studi N-of-1 che confrontano COX-2 selettivi e non selettivi nella spondiloartrite assiale; terminato in anticipo |
+| [NCT03473665](https://clinicaltrials.gov/study/NCT03473665) | Fase 4 | Terminato | 9 | Studio pilota su 4 FANS nella spondiloartrite assiale; contributo limitato |
+| [NCT03190603](https://clinicaltrials.gov/study/NCT03190603) | Fase 4 | Completato | 12 | Effetto dei FANS sulle lesioni infiammatorie alla RM nella spondiloartrite assiale |
+| [NCT02638896](https://clinicaltrials.gov/study/NCT02638896) | Fase 4 | Sconosciuto | 100 | Riduzione della dose di etanercept nella spondilite anchilosante; non incentrato su celecoxib |
+| [NCT01709656](https://clinicaltrials.gov/study/NCT01709656) | N/D | Completato | 120 | Studio molecolare su marcatori di rischio patogenetico nella spondilite anchilosante; non è uno studio di efficacia di celecoxib |
 
 ---
 
-## Evidenza dalla Letteratura
+## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|---------|
-| [39757202](https://pubmed.ncbi.nlm.nih.gov/39757202/) | 2025 | Revisione Sistematica / Meta-analisi | BMB Reports | Il celecoxib è l'**unico FANS** dimostrato di inibire la progressione radiografica dell'osso nella spondiloartrite — meccanismo proposto distinto dalla pura inibizione della COX |
-| [40911151](https://pubmed.ncbi.nlm.nih.gov/40911151/) | 2025 | Umbrella Review | Drugs | Sintesi sistematica di meta-analisi sulla sicurezza del celecoxib nelle condizioni muscoloscheletriche croniche — valutazione completa dei segnali di sicurezza cardiovascolare, gastrointestinale e renale |
-| [38832489](https://pubmed.ncbi.nlm.nih.gov/38832489/) | 2024 | RCT | Scandinavian Journal of Rheumatology | Iguratimod + celecoxib vs celecoxib da solo nella axSpA attiva — trial controllato randomizzato in doppio cieco con placebo che valuta l'efficacia e la sicurezza dell'aggiunta |
-| [38228361](https://pubmed.ncbi.nlm.nih.gov/38228361/) | 2024 | RCT | Annals of the Rheumatic Diseases | Risultati del trial CONSUL: l'aggiunta di celecoxib a golimumab non ha ridotto significativamente la progressione spinale radiografica nel corso di 2 anni rispetto alla monoterapia TNFi |
-| [36800138](https://pubmed.ncbi.nlm.nih.gov/36800138/) | 2023 | RCT / Studio Clinico | Clinical Rheumatology | Imrecoxib e celecoxib modulano entrambi l'infiammazione dell'articolazione sacroiliaca nella axSpA attraverso cambiamenti nei marcatori del metabolismo osseo e negli indici di angiogenesi |
-| [28626213](https://pubmed.ncbi.nlm.nih.gov/28626213/) | 2017 | RCT | Medical Science Monitor | Celecoxib 200mg BID vs imrecoxib 100mg BID nella axSpA nel corso di 12 settimane — efficacia equivalente; entrambi hanno influenzato i livelli di DKK-1 nel siero correlati al miglioramento dell'imaging |
-| [40028763](https://pubmed.ncbi.nlm.nih.gov/40028763/) | 2025 | Coorte Comparativa | Scandinavian Journal of Rheumatology | Coorte retrospettiva nazionale nella SA: rischio di malattia cardiovascolare e sanguinamento gastrointestinale paragonabile tra celecoxib e FANS non selettivi |
-| [16960941](https://pubmed.ncbi.nlm.nih.gov/16960941/) | 2006 | RCT | The Journal of Rheumatology | Il celecoxib è efficace e ben tollerato nel trattamento dei segni e dei sintomi della spondilite anchilosante — dati di efficacia di Fase 3 fondamentali |
-| [27603385](https://pubmed.ncbi.nlm.nih.gov/27603385/) | 2016 | Coorte Basata sulla Popolazione | Medicine | Database NHI di Taiwan (n=4.829 pazienti con SA): l'uso di celecoxib e sulfasalazina è stato negativamente associato al rischio di malattia delle arterie coronariche nella SA |
-| [17983259](https://pubmed.ncbi.nlm.nih.gov/17983259/) | 2007 | Revisione Completa dei Farmaci | Drugs | Celecoxib autorizzato in molteplici paesi per OA, RA, JRA (≥2 anni) e SA — revisione di un decennio di pratica clinica che conferma il profilo di indicazione muscoloscheletrica ampio |
-
----
-
-## Informazioni sul Mercato Italiano
-
-Il celecoxib attualmente non detiene alcuna autorizzazione al commercio in Italia. Non ci sono prodotti approvati, forme farmaceutiche o indicazioni autorizzate registrate nel database normativo italiano.
-
-> Nota: Il celecoxib (Celebrex®) è autorizzato nell'Unione Europea per il trattamento sintomatico dell'osteoartrosi, dell'artrite reumatoide e della spondilite anchilosante negli adulti, secondo le revisioni normative dell'UE pubblicate. Un ingresso nel mercato italiano richiederebbe una presentazione all'AIFA.
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|------|-----|------|------|---------|
+| [38228361](https://pubmed.ncbi.nlm.nih.gov/38228361/) | 2024 | RCT | Ann Rheum Dis | Celecoxib aggiunto a golimumab vs golimumab da solo sulla progressione radiografica spinale a 2 anni (studio CONSUL) |
+| [40676732](https://pubmed.ncbi.nlm.nih.gov/40676732/) | 2025 | RCT (N-of-1) | Rheumatology (Oxford) | Individualizzazione della terapia con FANS (celecoxib, meloxicam, naprossene) nella spondiloartrite assiale con analisi bayesiana |
+| [39757202](https://pubmed.ncbi.nlm.nih.gov/39757202/) | 2025 | Coorte/comparativo | BMB Reports | Celecoxib sarebbe l'unico FANS in grado di inibire la progressione ossea nella spondiloartrite |
+| [16960941](https://pubmed.ncbi.nlm.nih.gov/16960941/) | 2006 | Studio clinico | J Rheumatol | Celecoxib efficace e ben tollerato nei segni e sintomi della spondilite anchilosante |
+| [40911151](https://pubmed.ncbi.nlm.nih.gov/40911151/) | 2025 | Revisione ombrello | Drugs | Sintesi delle evidenze sulla sicurezza di celecoxib nelle patologie muscoloscheletriche croniche |
+| [40028763](https://pubmed.ncbi.nlm.nih.gov/40028763/) | 2025 | Coorte retrospettiva | Scand J Rheumatol | Rischio cardiovascolare ed emorragico gastrointestinale comparabile tra celecoxib e FANS non selettivi nella spondilite anchilosante |
+| [36800138](https://pubmed.ncbi.nlm.nih.gov/36800138/) | 2023 | Coorte | Clin Rheumatol | Imrecoxib e celecoxib influenzano l'infiammazione sacroiliaca regolando metabolismo osseo e angiogenesi |
+| [18613804](https://pubmed.ncbi.nlm.nih.gov/18613804/) | 2008 | Revisione | Expert Opin Drug Saf | Sicurezza di celecoxib nel trattamento della spondilite anchilosante |
+| [17196469](https://pubmed.ncbi.nlm.nih.gov/17196469/) | 2007 | Meta-analisi | Am J Cardiol | Rischio di eventi cardiovascolari nei pazienti trattati con celecoxib negli studi randomizzati |
+| [22141388](https://pubmed.ncbi.nlm.nih.gov/22141388/) | 2011 | Revisione | Drugs | Uso di celecoxib per il sollievo sintomatico in osteoartrosi, artrite reumatoide e spondilite anchilosante |
 
 ---
 
-## Considerazioni di Sicurezza
+## Informazioni sul mercato italiano
 
-Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 034624460 | CELEBREX 20 cps 200 mg (Viatris Pharma) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 034624066 | CELEBREX 40 cps 100 mg (Viatris Pharma) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 043133026 | COXIBEN 20 cps 200 mg (S.F. Group) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 045187034 | COXART 20 cps 200 mg (S.F. Group) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 042559031 | CELARTROX 20 cps 200 mg (S.F. Group) | Capsule | Non disponibile (autorizzazione cancellata) |
 
-> I dati formali di sicurezza (principali avvertenze, controindicazioni, interazioni farmaco-farmaco) non sono stati recuperabili dal database normativo italiano per questo farmaco. L'evidenza clinica nella letteratura documenta profili di rischio cardiovascolare e gastrointestinale (si veda PMID [40911151](https://pubmed.ncbi.nlm.nih.gov/40911151/) e [40028763](https://pubmed.ncbi.nlm.nih.gov/40028763/)), che dovrebbero essere rivisti come parte di qualsiasi presentazione normativa o protocollo clinico.
+Sono presenti 16 autorizzazioni complessive, tutte cancellate; non risulta alcuna autorizzazione valida. Altre sono a nome di titolari di medicinali generici (Zentiva, Sandoz, Teva, Mylan, Aurobindo, ecc.). È opportuno verificare la disponibilità effettiva sul territorio.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Considerazioni sulla sicurezza
 
-**Decisione: Procedere con Guardrails**
+- **Controindicazioni segnalate nel grafo di conoscenza** (non derivate dal foglietto illustrativo): ipertensione, malattia renale, malattia epatica, malattia della colecisti, insufficienza cardiaca congestizia, ulcera peptica (anche attiva), asma, abuso/dipendenza da sostanze, ictus e malattie cerebrovascolari, infarto miocardico e trombosi coronarica, emoglobinopatie e anemie, malattie cardiovascolari e cardiache.
+- **Interazioni farmacologiche**: sono state registrate 100 interazioni. Tra quelle esaminate, una è di livello **maggiore** (eliglustat); le altre sono di livello moderato, tra cui idrocortisone, metformina, sulfaniluree (glimepiride, glipizide, gliburide, clorpropamide, acetoesamide), nateglinide, exenatide, cimetidina, mesalazina, balsalazide, olsalazina, levofloxacina, metronidazolo, kanamicina, naltrexone, fenfluramina e destrofenfluramina.
 
-**Logica:**
-Due trial controllati randomizzati di Fase 3 completati e molteplici trial di Fase 4 che valutano direttamente il celecoxib nella spondilite anchilosante / spondiopatia infiammatoria stabiliscono L1 come evidenza. Il celecoxib è già approvato dall'UE per questa indicazione in linea di principio, e una meta-analisi del 2025 suggerisce che potrebbe essere l'unico FANS con potenziale modificante la malattia nella spondiloartrite — un differenziatore clinicamente significativo.
+Per le avvertenze e le controindicazioni formali si rimanda al foglietto illustrativo.
 
-**Per procedere, è necessario quanto segue:**
+---
 
-- **Percorso normativo**: Avviare un'applicazione AIFA per l'autorizzazione al commercio per l'indicazione di spondilite anchilosante / spondiopatia infiammatoria, sfruttando il pacchetto di evidenza EMA esistente
-- **Documentazione del MOA**: Ottenere i dati completi sul meccanismo d'azione da DrugBank (DB00482) per supportare il dossier normativo e la logica meccanicistica
-- **Dossier di sicurezza**: Recuperare lo SmPC AIFA / foglio illustrativo per controindicazioni conformi all'italiano, avvertenze e orientamenti sulla popolazione speciale
-- **Valutazione dell'interazione farmacologica**: Revisione formale DDI per la co-prescrizione con inibitori del TNF (etanercept, golimumab, adalimumab), DMARD e corticosteroidi — comuni nella popolazione di spondiloartrite bersaglio
-- **Piano di rischio cardiovascolare**: Definire stratificazione del rischio cardiovascolare e protocollo di monitoraggio per la popolazione bersaglio, tenendo conto del segnale cardiovascolare noto a livello di classe degli inibitori selettivi della COX-2
-- **Considerazione pediatrica**: Chiarire se la presentazione italiana includerà l'indicazione JIA/RF+ pJIA, data l'approvazione FDA per il celecoxib nei pazienti con JIA ≥2 anni (evidenza: PMID [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/))
+## Conclusione e prossimi passi
 
+**Decisione: Proceed with Guardrails**
+
+**Motivazione:**
+Sono disponibili più studi di fase 3 completati (NCT00648141, NCT00762463) e studi randomizzati di fase 4, oltre a un RCT recente (CONSUL), che sostengono l'efficacia di celecoxib nella spondilite anchilosante e nella spondiloartrite assiale. L'indicazione è però già prossima a quelle originarie, e lo stato di mercato italiano (solo autorizzazioni cancellate) richiede verifica.
+
+**Per procedere è necessario:**
+- Verificare la disponibilità e lo stato regolatorio effettivo in Italia (autorizzazioni cancellate)
+- Ottenere e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni)
+- Acquisire dati dettagliati sul meccanismo d'azione
+- Confermare il possibile segnale di inibizione della progressione radiografica con studi dedicati
+- Definire un piano di screening del rischio cardiovascolare, gastrointestinale e renale, con la dose minima efficace e rivalutazioni periodiche
+- Rivedere le 100 interazioni farmacologiche registrate, in particolare quella di livello maggiore (eliglustat)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

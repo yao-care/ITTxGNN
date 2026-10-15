@@ -2,7 +2,7 @@
 layout: default
 title: Temozolomide
 parent: Prove elevate (L1-L2)
-nav_order: 193
+nav_order: 425
 evidence_level: L1
 indication_count: 2
 ---
@@ -29,111 +29,120 @@ Livello di evidenza: **L1** | Indicazioni previste: **2**
 
 </div>
 
-# Temozolomide: dal glioblastoma al tumore astrocitario dell'adulto
+# Temozolomide: Dal glioma astrocitario all'astrocitoma adulto (conferma d'uso esistente)
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Temozolomide (TMZ) è un agente alchilante orale che rappresenta il fondamento del **protocollo di Stupp** — lo standard globale di cura per il glioblastoma appena diagnosticato — dove è combinato con radioterapia per estendere significativamente la sopravvivenza.
-Il modello TxGNN prevede che possa essere efficace per la più ampia categoria di **tumore astrocitario dell'adulto**, con **2 studi clinici** e **20 pubblicazioni** che attualmente supportano questa direzione, inclusi molteplici RCT Fase 3 di riferimento.
-Notevolmente, il glioblastoma è esso stesso il tumore astrocitario dell'adulto di grado più elevato, il che significa che questa previsione è fortemente ancorata alla pratica clinica consolidata.
+Temozolomide è un agente alchilante orale, originariamente impiegato per il trattamento dell'astrocitoma anaplastico, dell'astrocitoma (escluso il glioblastoma) e del glioblastoma cerebrale.
+Il modello TxGNN predice un possibile beneficio per il **tumore astrocitico dell'adulto**, ma questa indicazione si sovrappone di fatto a quelle già esistenti, quindi non è un vero riposizionamento. Il supporto è di **2 studi clinici** e **20 pubblicazioni**.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Glioblastoma / astrocitoma maligno (consolidato da prove di RCT Fase 3 di riferimento; nessuna registrazione TFDA di Taiwan trovata) |
-| Indicazione nuova prevista | Tumore astrocitario dell'adulto |
-| Punteggio previsione TxGNN | 99.36% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Astrocitoma anaplastico, astrocitoma (escluso il glioblastoma), glioblastoma cerebrale (dalle indicazioni del knowledge graph; nelle autorizzazioni AIFA il testo dell'indicazione non è disponibile) |
+| Nuova indicazione prevista | Tumore astrocitico dell'adulto |
+| Punteggio di predizione TxGNN | 99,36% |
 | Livello di evidenza | L1 |
-| Stato del mercato di Taiwan | ✗ Non commercializzato (Non commercializzato) |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con precauzioni |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché la predizione è ragionevole?
 
-Temozolomide appartiene alla classe **imidazotetrazina** degli agenti alchilanti. Dopo somministrazione orale, spontaneamente si idrolizza al suo metabolita attivo **MTIC**, che metila il DNA alle posizioni O⁶-guanina e N7-guanina. L'addotto O⁶-metilguanina è riconosciuto dal sistema di riparazione degli errori di appaiamento (MMR), innescando infine l'apoptosi. Un vantaggio farmacologico critico è la sua **eccellente penetrazione della barriera emato-encefalica** (rapporto CSF-plasma ≈ 0.4), che la rende unica per i tumori del sistema nervoso centrale.
+Temozolomide è un agente alchilante orale che metila il DNA (O6-guanina, N7-guanina, N3-adenina). Ciò causa lesioni citotossiche e porta all'apoptosi delle cellule tumorali. I dati di meccanismo d'azione compilati per questo report non sono disponibili; la descrizione si basa quindi sulle conoscenze farmacologiche generali.
 
-L'efficacia è fortemente modulata dallo **stato di metilazione del promotore MGMT**: quando il gene MGMT è silenziato dalla metilazione, la cellula tumorale non può riparare il danno al DNA indotto da TMZ, producendo risultati sostanzialmente migliori. Questo marcatore biologico di risposta è stato dimostrato in molteplici studi Fase 3 ed è ora un test predittivo di routine prima di iniziare la terapia basata su TMZ.
+I tumori astrocitici dell'adulto, compresi l'astrocitoma anaplastico e il glioblastoma, coincidono con le indicazioni originali del farmaco. Il legame meccanicistico è quindi diretto. L'efficacia è modulata dallo stato di metilazione del promotore di MGMT, il principale biomarcatore predittivo.
 
-I tumori astrocitari dell'adulto comprendono uno spettro istologico — da astrocitoma diffuso WHO Grado 2 attraverso astrocitoma anaplastico Grado 3 a glioblastoma Grado 4 (GBM). GBM è precisamente l'indicazione per la quale il protocollo di Stupp (TMZ concomitante + radioterapia, seguito da TMZ adiuvante) è stato convalidato e adottato globalmente. La previsione del modello TxGNN quindi riflette la continuità meccanicistica e clinica: l'azione alchilante di TMZ sulle cellule tumorali neuroepiteliali, combinata con la sua penetrazione nel SNC, la rende razionalmente applicabile lungo l'intero spettro astrocitario dell'adulto.
+**Nota importante:** poiché l'indicazione prevista coincide con quelle già note, il caso rappresenta la conferma di un uso esistente più che un nuovo riposizionamento.
+
+### Seconda predizione (a titolo informativo)
+
+TxGNN prevede anche il **neoplasma della cauda equina** (punteggio 99,30%), per lo più ependimomi mixopapillari. Il meccanismo alchilante potrebbe applicarsi ai tumori gliali, ma la biologia differisce dai gliomi astrocitici e il ruolo di MGMT negli ependimomi spinali non è stabilito. L'evidenza si limita a un caso clinico (PMID 29270703) di risposta a temozolomide in un ependimoma mixopapillare spinale recidivante, senza studi clinici registrati. Livello di evidenza L4: resta una domanda di ricerca.
 
 ---
 
-## Evidenza da studi clinici
+## Evidenza dagli studi clinici
 
-| Numero dello studio | Fase | Stato | Arruolamento | Risultati chiave |
-|-------------------|------|-------|--------------|------------------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fase 3 | Completato | 500 | Studio randomizzato confrontando TMZ solo vs PCV (procarbazina + lomustina + vincristina) in tumori astrocitari ricorrenti WHO Grado III–IV. Evidenza RCT diretta testa-a-testa per TMZ in questa esatta categoria di malattia. |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fase 1 | Completato | 26 | Studio di determinazione della dose di XL184 (cabozantinib) aggiunto a TMZ + radioterapia come trattamento di prima linea per glioblastoma. TMZ serve come base standard, confermando la sua sicurezza consolidata e fattibilità in questo contesto. |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fase 3 | Completato | 500 | Studio randomizzato: temozolomide vs PCV (procarbazina, lomustina, vincristina) nei gliomi maligni ricorrenti (astrocitomi WHO grado III e IV) |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fase 1 | Completato | 26 | Dose-finding di sicurezza e farmacocinetica di XL184 (cabozantinib) con temozolomide e radioterapia in prima linea nel glioblastoma; non valuta l'efficacia di temozolomide da sola |
 
 ---
 
 ## Evidenza dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|------------------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT Fase 3 | N Engl J Med | **Studio Stupp di riferimento**: RT + TMZ concomitante/adiuvante vs RT solo in GBM appena diagnosticato. Ha confermato TMZ come standard di cura (mediana OS 14.6 vs 12.1 mesi; sopravvivenza a 2 anni 26.5% vs 10.4%). |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | Follow-up RCT Fase 3 | Lancet Oncol | Analisi 5-anni dello studio Stupp EORTC-NCIC. Confermato il beneficio OS sostenuto di TMZ + RT; metilazione MGMT identificata come marcatore biologico predittivo chiave (OS 5-anni 13.8% vs 1.9% per MGMT-metilato vs non metilato). |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT Fase 3 | Lancet Oncol | **Studio NOA-08**: TMZ solo vs radioterapia solo in pazienti anziani con astrocitoma maligno (astrocitoma anaplastico o GBM). TMZ non inferiore a RT; metilazione MGMT ha predetto il beneficio da TMZ. |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT Fase 3 | N Engl J Med | RTOG 0825: aggiunta di bevacizumab al TMZ + RT standard in GBM appena diagnosticato. TMZ-RT è il braccio di controllo di riferimento; bevacizumab non ha migliorato l'OS. |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT Fase 3 | JAMA | **Studio EF-14**: Campi di trattamento dei tumori (TTFields) + TMZ vs TMZ solo per terapia di mantenimento in GBM. TTFields + TMZ ha migliorato la mediana OS (20.9 vs 16.0 mesi) e PFS. |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT Fase 3 | Lancet | **Studio CeTeG/NOA-09**: Combinazione lomustina-TMZ vs TMZ standard in GBM appena diagnosticato con metilazione MGMT. Il braccio combinazione ha mostrato OS migliorato (48.1 vs 31.4 mesi) nei pazienti metilati. |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | Sottoinsieme RCT Fase 2/3 | J Neuro-oncol | RT + TMZ in astrocitoma anaplastico (AA) e oligo-astrocitoma anaplastico (AOA). Coorte esplorativa; supporta TMZ + RT come regime attivo lungo lo spettro più ampio di tumori astrocitari. |
-| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT Fase 2/3 | J Clin Oncol | **NRG BN007**: Doppio blocco dei checkpoint (ipilimumab + nivolumab) aggiunto alla chemioradioterapia TMZ standard in GBM MGMT-non metilato. La base di TMZ di nuovo utilizzata come braccio standard di controllo. |
-| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Revisione sistematica | JAMA | Revisione completa del glioblastoma e di altre malignità cerebrali primarie nell'adulto. Conferma il protocollo Stupp basato su TMZ come standard consolidato; delinea i bisogni insoddisfatti e terapie emergenti. |
-| [10914698](https://pubmed.ncbi.nlm.nih.gov/10914698/) | 2000 | Revisione | Clin Cancer Res | Revisione clinica iniziale di TMZ in gliomi maligni (GBM e astrocitoma anaplastico). Documenta i segnali di efficacia iniziale che hanno portato a studi Fase 3 e alla successiva approvazione. |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Radioterapia più temozolomide concomitante e adiuvante vs sola radioterapia nel glioblastoma |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT (follow-up a 5 anni) | Lancet Oncol | Analisi a 5 anni dello studio EORTC-NCIC: beneficio di sopravvivenza di temozolomide con radioterapia |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08: temozolomide da sola vs sola radioterapia nell'astrocitoma maligno dell'anziano |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09: lomustina-temozolomide vs temozolomide standard nel glioblastoma con MGMT metilato |
+| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | Campi a bassa intensità (TTFields) più temozolomide di mantenimento vs temozolomide da sola |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT (analisi ad interim) | JAMA | TTFields più temozolomide vs temozolomide da sola nel glioblastoma |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Aggiunta di bevacizumab nel glioblastoma di nuova diagnosi trattato con temozolomide e radioterapia |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | Aggiunta di veliparib a temozolomide nel glioblastoma con MGMT metilato |
+| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Linea guida | J Clin Oncol | Linea guida ASCO-SNO sulla terapia dei tumori astrocitici e oligodendrogliali diffusi dell'adulto |
+| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Revisione | Crit Rev Oncol Hematol | Astrocitoma anaplastico dell'adulto: la chemioterapia ha dato risultati incoerenti, con una meta-analisi che mostra un beneficio modesto |
 
 ---
 
-## Informazioni sul mercato di Taiwan
+## Informazioni sul mercato italiano
 
-Temozolomide attualmente ha **zero autorizzazioni registrate** nel database TFDA di Taiwan in base ai dati recuperati per questo rapporto (data della query: 2026-03-29, conteggio risultati: 0). Non ci sono prodotti autorizzati, indicazioni approvate, o forme di dosaggio registrate.
+Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Si elencano le principali:
 
-> **Nota:** Questo risultato merita verifica indipendente rispetto al database attuale della licenza farmacologica online TFDA, dato che Temozolomide (Temodar®/Temodal®) tiene approvazione normativa in numerosi mercati principali (USA, UE, Giappone). L'assenza di registri TFDA potrebbe riflettere una limitazione nel recupero dei dati o il farmaco disponibile sotto un nome commerciale diverso o tramite importazione speciale.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 034527174 | TEMODAL 5 bust 5 cps 140 mg | Merck Sharp & Dohme BV | Cancellata |
+| 034527198 | TEMODAL 5 bust 5 cps 180 mg | Merck Sharp & Dohme BV | Cancellata |
+| 034527212 | TEMODAL 5 bust 5 cps 250 mg | Merck Sharp & Dohme BV | Cancellata |
+| 039649052 | TEMOZOLOMIDE 5 cps 100 mg | Teva B.V. | Cancellata |
+| 042082077 | TEMOMEDAC 5 cps 140 mg | Medac GmbH | Cancellata |
 
 ---
 
 ## Citotossicità
 
-Temozolomide è classificato come agente antineoplastico (agente alchilante orale, classe imidazotetrazina). La seguente tabella si applica.
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Classificazione citotossicità | Citotossico convenzionale — Agente alchilante (classe Imidazotetrazina / Triazene) |
-| Rischio di mielosoppressione | **Alto** — Trombocitopenia e neutropenia sono le tossicità dose-limitanti; generalmente nadir ai giorni 21–28 di ogni ciclo di 28 giorni. La trombocitopenia di Grado 3/4 si verifica in ~14% dei pazienti nello schema standard di 5 giorni. |
-| Classificazione emetogenicità | Moderata (profilassi antiemetica standard consigliata prima di ogni dose) |
-| Elementi di monitoraggio | Conteggio ematico completo con differenziale e conteggio delle piastrine (al Giorno 22 e Giorno 29 di ogni ciclo prima del ciclo successivo); test della funzione epatica (ALT, AST, bilirubina); funzione renale; stato di metilazione del promotore MGMT (baseline, per prognosi e selezione del trattamento) |
-| Protezione durante la manipolazione | Deve essere manipolato secondo i regolamenti di manipolazione dei farmaci citotossici — evitare la frantumazione delle capsule, utilizzare l'appropriato DPI durante la preparazione e lo smaltimento |
+| Voce | Contenuto |
+|------|------|
+| Classificazione di citotossicità | Citotossico convenzionale (agente alchilante, imidazotetrazinone) |
+| Rischio di mielosoppressione | Da valutare: il knowledge graph segnala controindicazioni correlate a trombocitopenia, neutropenia, pancitopenia, anemia aplastica e linfopenia, coerenti con un rischio ematologico rilevante |
+| Classificazione emetogenica | Medio (secondo la categoria del farmaco; consultare il foglio illustrativo) |
+| Parametri da monitorare | Emocromo completo con formula, funzionalità epatica e renale |
+| Protezione nella manipolazione | Seguire le norme di manipolazione dei farmaci citotossici |
 
 ---
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-I dati di sicurezza formali (avvertimenti del foglio illustrativo TFDA, controindicazioni e interazioni farmacologiche) non sono stati recuperabili da fonti disponibili al momento di questo rapporto.
+- **Condizioni associate a controindicazione nel knowledge graph** (non dal testo del foglio illustrativo): insufficienza epatica, trombocitopenia, neutropenia, agranulocitosi, anemia (compresa quella macrocitica e aplastica idiopatica), pancitopenia, linfopenia, sindrome mielodisplastica, anemia aplastica e pneumocistosi.
+- **Interazioni farmacologiche** (100 totali rilevate; livello principale):
+  - Moderata: naltrexone
+  - Minore: levofloxacina
+  - Livello non classificato: tra gli altri calcitriolo, pantoprazolo, omeprazolo, lansoprazolo, doxiciclina, morfina, metformina, prednisone, idrocortisone, amfotericina B.
 
-> Si prega di fare riferimento al foglio illustrativo ufficiale (SmPC Temodar®/Temodal® o informazioni sulla prescrizione FDA) per informazioni complete sulla sicurezza, inclusi gli avvertimenti riguardanti la mielosoppressione, le infezioni opportunistiche (ad es. profilassi *Pneumocystis jirovecii* consigliata durante la fase di RT concomitante), epatotossicità, e uso in gravidanza.
+Per avvertenze e controindicazioni ufficiali fare riferimento al foglio illustrativo.
 
 ---
 
-## Conclusione e passaggi successivi
+## Conclusione e prossimi passi
 
-**Decisione: Procedere con precauzioni**
+**Decisione: Proceed with Guardrails**
 
-**Razionale:**
-La base di evidenza per Temozolomide nei tumori astrocitari dell'adulto è tra le più forti in neuro-oncologia — lo studio Stupp Fase 3 di riferimento e il suo follow-up a 5 anni hanno direttamente consolidato TMZ + radioterapia come lo standard globale di cura per il glioblastoma (tumore astrocitario WHO Grado 4), e gli studi successivi hanno esteso l'evidenza all'astrocitoma anaplastico (Grado 3). Il punteggio di previsione TxGNN di 99.36% è completamente concordante con questa evidenza clinica consolidata, con molteplici RCT Fase 3 completati che si qualificano come evidenza Livello L1.
+**Motivazione:**
+Esistono evidenze solide (livello L1) con RCT di fase 3 che sostengono l'uso di temozolomide nei tumori astrocitici dell'adulto. Tuttavia, l'indicazione coincide con quelle originali, quindi non si tratta di un vero riposizionamento. In Italia tutte le autorizzazioni risultano cancellate, e mancano i dati di sicurezza dal foglio illustrativo AIFA.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Chiarimento del percorso normativo di Taiwan**: Verificare se Temozolomide è disponibile a Taiwan sotto un nome commerciale (Temodar®), tramite importazione speciale, o sotto rimborso NHI — la query TFDA ha restituito 0 risultati e necessita di conferma manuale.
-- **Dati di sicurezza formali**: Recuperare e documentare il foglio illustrativo completo (avvertimenti, controindicazioni, DDI) — attualmente non disponibile nell'Evidence Pack a causa della lacuna nei dati segnalata come DG001 (Bloccante).
-- **Protocollo di test del marcatore biologico MGMT**: Consolidare il flusso di lavoro istituzionale per il test di metilazione del promotore MGMT per guidare la selezione dei pazienti e la risposta attesa.
-- **Piano di profilassi delle infezioni opportunistiche**: Confermare il protocollo di profilassi *P. jirovecii* per i pazienti che ricevono TMZ + radioterapia concomitante.
-- **Revisione del rimborso**: Valutare il percorso di finanziamento NHI o istituzionale per TMZ dato la sua assenza dai registri TFDA.
-
+**Per procedere sono necessari:**
+- Verificare perché le autorizzazioni sono cancellate (ritiro commerciale o altri motivi) e se esistono alternative disponibili in Italia
+- Acquisire dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni ufficiali
+- Integrare i dati sul meccanismo d'azione da DrugBank
+- Definire un piano di monitoraggio ematologico e della funzionalità epatica
+- Per il neoplasma della cauda equina: servono studi clinici prospettici prima di qualsiasi valutazione, essendo oggi disponibile solo un caso clinico
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

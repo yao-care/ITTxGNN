@@ -2,7 +2,7 @@
 layout: default
 title: Pegfilgrastim
 parent: Solo previsione del modello (L5)
-nav_order: 161
+nav_order: 343
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,74 +29,75 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Pegfilgrastim: Dalla Neutropenia Indotta da Chemioterapia alla Retinopatia Diabetica Severa Non Proliferativa
+# Pegfilgrastim: dalla neutropenia da chemioterapia alla retinopatia diabetica non proliferante grave
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Pegfilgrastim è una forma a lunga durata d'azione di G-CSF (fattore stimolante le colonie dei granulociti) PEGilata, utilizzata principalmente per ridurre il rischio di neutropenia febbrile nei pazienti sottoposti a chemioterapia mielosoppressiva.
-Il modello TxGNN predice che potrebbe essere efficace per la **Retinopatia Diabetica Severa Non Proliferativa (SNPDR)**,
-con **0 studi clinici** e **0 pubblicazioni** attualmente a sostegno di questa direzione.
+Pegfilgrastim è un analogo PEGilato del G-CSF, che stimola la produzione di neutrofili; nei dati compilati per questo report non risulta un'indicazione approvata in forma testuale. Il modello TxGNN prevede un possibile effetto nella **retinopatia diabetica non proliferante grave**, ma al momento non ci sono **né studi clinici né pubblicazioni** a supporto: la previsione resta puramente computazionale.
 
----
+## Quadro generale
 
-## Panoramica Veloce
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
+| Nuova indicazione prevista | Retinopatia diabetica non proliferante grave |
+| Punteggio di predizione TxGNN | 99,89% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Prevenzione della neutropenia febbrile dopo chemioterapia citotossica |
-| Indicazione Nuova Predetta | Retinopatia Diabetica Severa Non Proliferativa |
-| Punteggio di Predizione TxGNN | 99.89% |
-| Livello di Evidenza | L5 |
-| Stato di Commercializzazione in Italia | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospensione |
+## Perché questa previsione potrebbe essere ragionevole?
 
----
+I dati sul meccanismo d'azione non sono al momento disponibili. Sulla base delle conoscenze generali, pegfilgrastim appartiene alla classe dei fattori di crescita granulocitari (G-CSF) a lunga durata d'azione e stimola la produzione di neutrofili. Il legame meccanicistico con la retinopatia diabetica non è verificabile con i dati disponibili.
 
-## Perché questa predizione è ragionevole?
+In via puramente ipotetica, il G-CSF può mobilizzare dal midollo osseo le cellule progenitrici endoteliali, con un possibile ruolo nella riparazione del microcircolo retinico. Tuttavia, gli effetti pro-infiammatori e pro-angiogenici del G-CSF potrebbero al contrario peggiorare una malattia retinica neovascolare. Nessuna delle due ipotesi è supportata da evidenze nei dati compilati.
 
-Attualmente, dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack. Sulla base delle informazioni farmacologiche note, Pegfilgrastim è un derivato PEGilato di filgrastim che agisce come agonista del recettore G-CSF (CSF3R). Legandosi a CSF3R sulle cellule progenitrici del midollo osseo, stimola la proliferazione e la differenziazione dei precursori dei neutrofili e mobilizza cellule staminali ematopoietiche (HSPC) e cellule progenitrici endoteliali (EPC) in circolo periferico. La sua emivita prolungata rispetto a filgrastim consente la somministrazione una volta per ciclo nel contesto della chemioterapia.
+La seconda indicazione prevista, la **retinopatia diabetica** (punteggio 99,73%), è una categoria più ampia che include la prima e non fornisce evidenze indipendenti.
 
-Il ponte meccanicistico proposto alla retinopatia diabetica si basa sull'ipotesi della mobilizzazione di EPC: le EPC mobilizzate dalla segnalazione di G-CSF teoricamente raggiungono siti di danno microvasculare nella retina e partecipano alla riparazione dei vasi. Nella retinopatia diabetica non proliferativa da lieve a moderata, dove la perdita microvasculare è la patologia dominante, questa ipotesi di rigenerazione vascolare fornisce almeno una razionalità biologica per l'esplorazione.
+## Evidenza dagli studi clinici
 
-Tuttavia, la predizione comporta un rischio specifico e serio allo stadio SNPDR. G-CSF contemporaneamente aumenta l'espressione di VEGF da parte delle cellule mobilizzate — lo stesso segnale che guida l'angiogenesi patologica nella retinopatia diabetica proliferativa (PDR). Alla soglia di SNPDR, dove l'occhio è già ad alto rischio di conversione a PDR, qualsiasi stimolo che aumenta VEGF potrebbe accelerare la progressione al distacco trattivo della retina e alla perdita irreversibile della vista. Lo stesso evidence pack evidenzia questo come un rischio bidirezionale dove la preoccupazione per la sicurezza probabilmente supera il beneficio terapeutico teorico in questo particolare stadio della malattia.
+Al momento non risultano studi clinici correlati registrati.
 
----
+## Evidenza dalla letteratura
 
-## Evidenza da Studi Clinici
+Al momento non è disponibile letteratura correlata.
 
-Attualmente nessuno studio clinico correlato registrato.
+## Informazioni sul mercato italiano
 
----
+Tutte le autorizzazioni elencate risultano cancellate.
 
-## Evidenza Bibliografica
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 047090016 | Pelgraz, siringa SC 6 mg/0,6 ml con copriago + tampone alcolico | Accord Healthcare SLU | Cancellata |
+| 047364017 | Ziextenzo, siringa SC 6 mg/0,6 ml | Sandoz GmbH | Cancellata |
+| 047401029 | Fulphila, siringa SC 6 mg/0,6 ml con cappuccio dell'ago | Biosimilar Collaborations Ireland Ltd | Cancellata |
+| 047090028 | Pelgraz, iniettore preriempito SC 6 mg/0,6 ml + tampone imbevuto di alcol | Accord Healthcare SLU | Cancellata |
+| 035716036 | Neulasta, siringa SC 6 mg/0,6 ml con protezione ago | Amgen Europe B.V. | Cancellata |
 
-Attualmente nessuna letteratura correlata disponibile.
+## Considerazioni sulla sicurezza
 
----
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni (fonte DDInter). Quelle elencate di seguito sono di livello moderato:
+  - Chemioterapici e antineoplastici: paclitaxel, mercaptopurina, trimetrexato, azacitidina, altretamina, triossido di arsenico, asparaginasi (E. coli)
+  - Inibitori di chinasi e altri target: abemaciclib, acalabrutinib, avapritinib
+  - Anticorpi e immunomodulatori: alemtuzumab, aldesleukina, belantamab mafodotin, levamisolo, pegvaliasi
+  - Radiofarmaci e anticorpi radiomarcati: iobenguano (I-131), fludesossiglucosio (18F), ibritumomab tiuxetan, tositumomab, tositumomab (I-131)
 
-## Considerazioni sulla Sicurezza
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+## Conclusione e prossimi passi
 
----
+**Decisione: Hold**
 
-## Conclusione e Prossimi Passi
+**Motivazione:**
+La previsione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o dati meccanicistici a supporto. Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare) e tutte le autorizzazioni italiane risultano cancellate.
 
-**Decisione: Sospensione**
-
-**Razionale:**
-La predizione TxGNN è tracciabile dal punto di vista meccanicistico ma si basa interamente sull'inferenza computazionale (L5); non ci sono studi registrati, nessuna letteratura pubblicata, e nessun dato preclinico per convalidare l'efficacia in SNPDR — e lo stesso meccanismo di G-CSF che teoricamente supporta la riparazione dei vasi retinici comporta anche un rischio plausibile di scatenare la progressione della malattia guidata da VEGF in questo stadio critico della malattia.
-
-**Per procedere, è necessario quanto segue:**
-- **Dati di sicurezza preclinici**: Studi in vitro e in vivo in modelli di SNPDR che valutano specificamente se la mobilizzazione di EPC mediata da G-CSF è accompagnata da un aumento netto di VEGF e da rischio angiogenico a livello retinico
-- **Stratificazione per stadio della malattia**: Determinare se esiste una finestra terapeutica (es., NPDR precoce vs. SNPDR) dove il segnale di riparazione vascolare supera il rischio pro-angiogenico
-- **Documentazione completa del meccanismo d'azione**: Recuperare dati completi sul meccanismo d'azione da DrugBank per consentire una valutazione meccanicistica formale
-- **Revisione del foglio illustrativo**: Ottenere la documentazione completa della prescrizione per estrarre controindicazioni, avvertenze principali e profilo di interazioni farmacologiche prima di qualsiasi valutazione della sicurezza di S1
-- **Consultazione con esperti di oftalmologia**: Convalidare l'ipotesi della mobilizzazione di EPC e valutare la plausibilità clinica con uno specialista della retina
-- **Analisi del gap bibliografico**: Ricerca sistematica di studi con G-CSF o filgrastim (analogo non PEGilato) in modelli di retinopatia diabetica, che potrebbero fornire evidenza meccanicistica indiretta
-- Se i dati preclinici supportano il beneficio netto, uno studio proof-of-concept di Fase 1/2 con endpoint di imaging retinico rigorosi (OCTA, angiografia fluoresceinica) sarebbe il livello minimo di soglia per l'avanzamento
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA), ad esempio tramite DrugBank
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Revisione sistematica della letteratura su G-CSF/pegfilgrastim e retinopatia diabetica, inclusi dati preclinici
+- Valutazione della compatibilità delle vie di somministrazione (la somministrazione sistemica sottocutanea rispetto alla somministrazione oculare)
+- Chiarimento dell'attuale disponibilità commerciale in Italia (prodotti oggi cancellati)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

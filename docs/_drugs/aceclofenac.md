@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aceclofenac
-parent: Solo previsione del modello (L5)
-nav_order: 13
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 16
+evidence_level: L4
 indication_count: 10
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,84 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# ACECLOFENAC: Valutazione di Riposizionamento Farmacologico — Valutazione Preliminare
+# Aceclofenac: dall'artrite reumatoide alla spondilopatia infiammatoria
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-L'aceclofenac è un farmaco antinfiammatorio non steroideo (FANS) della classe degli acidi fenilacetici, ampiamente utilizzato a livello internazionale per il trattamento del dolore e dell'infiammazione nelle condizioni muscoloscheletriche.
-Il modello TxGNN **non ha ancora generato nuove indicazioni previste** per questo composto,
-e **nessuna evidenza di trial clinici o letteratura scientifica** è stata raccolta in questa fase.
+Aceclofenac è un farmaco antinfiammatorio non steroideo (FANS) usato per il dolore e l'infiammazione in malattie reumatiche come artrite reumatoide, spondilite anchilosante e osteoartrosi. Il modello TxGNN lo indica come possibile candidato per la **spondilopatia infiammatoria** (la più solida tra le prime 10 predizioni), con **0 studi clinici registrati** e **17 pubblicazioni** reperite. Tuttavia, questa indicazione coincide di fatto con una delle indicazioni già note (spondilite anchilosante), quindi non si tratta di un vero riposizionamento.
 
----
+> Nota: la predizione con il punteggio più alto (rank 1) è la sindrome brachiolmia-amelogenesi imperfetta (99,89%), ma è priva di qualsiasi evidenza e di un legame meccanicistico. Il report si concentra sulla spondilopatia infiammatoria perché è l'unica predizione con letteratura pertinente.
 
-## Panoramica Rapida
+## Panoramica rapida
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Nome Farmaco (INN) | Aceclofenac |
-| DrugBank ID | [DB06736](https://go.drugbank.com/drugs/DB06736) |
-| Indicazione Originale | Non disponibile nel pacchetto di evidenze attuale (noto FANS per osteoartrosi, artrite reumatoide, spondilite anchilosante) |
-| Nuova Indicazione Prevista | — (Nessuna previsione TxGNN disponibile) |
-| Punteggio di Previsione TxGNN | — |
-| Livello di Evidenza | **L5** — Previsione del modello in attesa; nessuno studio di supporto raccolto |
-| Stato di Mercato Taiwan | ✗ Non commercializzato |
-| Numero di Licenze TFDA | 0 |
-| Decisione Consigliata | **Sospensione** |
+| Indicazione originale | Artrite reumatoide, spondilite anchilosante, osteoartrosi, artropatia, spalla congelata (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione predetta | Spondilopatia infiammatoria (rank 8 per punteggio) |
+| Punteggio di predizione TxGNN | 99,63% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 8 |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è ragionevole?
 
-## Perché Questo Farmaco Viene Valutato?
+I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Sulla base delle conoscenze generali, aceclofenac è un FANS preferenziale per la COX-2: l'inibizione della sintesi delle prostaglandine riduce infiammazione e dolore.
 
-L'aceclofenac (CAS 89796-99-6) è un FANS di seconda generazione ed è un profarmaco del diclofenac. Inibisce preferibilmente la cicloossigenasi-2 (COX-2), riducendo la sintesi di prostaglandine e quindi esercitando effetti antinfiammatori, analgesici e antipiretici. È commercializzato in numerosi paesi in Europa, Asia e America Latina per il trattamento del dolore e dell'infiammazione associati all'osteoartrosi, all'artrite reumatoide e alla spondilite anchilosante.
+La spondilopatia infiammatoria e la spondilite anchilosante appartengono alla stessa famiglia delle spondiloartriti assiali, per cui il razionale farmacologico coincide. Gli studi sulla spondilite anchilosante (PMID 8823693 e 8823692) sono quindi pertinenti, ma confermano un'indicazione già nota più che un riposizionamento.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono stati restituiti dalle fonti del pacchetto di evidenze. Sulla base delle conoscenze farmacologiche consolidate, il profilo di inibizione preferenziale della COX-2 dell'aceclofenac e la sua conversione metabolica al diclofenac forniscono un meccanismo ben caratterizzato. Questo meccanismo FANS potrebbe teoricamente essere rilevante per condizioni guidate dall'infiammazione al di là della malattia muscoloscheletrica, ma **nessuna previsione TxGNN è stata generata in questo momento** per guidare l'esplorazione di nuove indicazioni specifiche.
+Le altre predizioni ad alto punteggio (displasie scheletriche genetiche come brachiolmia, displasia acromesomelica tipo Hunter-Thompson, pseudoacondroplasia) non hanno alcun meccanismo plausibile e sembrano artefatti del grafo. Artrite reumatoide correlata (vasculite reumatoide, artrite reumatoide giovanile poliarticolare) è biologicamente vicina, ma senza dati e con terapie standard diverse.
 
----
+## Evidenze da studi clinici
 
-## Evidenza da Trial Clinici
+Al momento non risultano studi clinici correlati registrati.
 
-Attualmente nessuna indicazione prevista è stata generata, e pertanto nessun trial clinico correlato è stato raccolto.
+## Evidenze dalla letteratura
 
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | Studio clinico controllato | J Rheumatol | Efficacia e tollerabilità di aceclofenac vs indometacina nella spondilite anchilosante attiva (studio multicentrico) |
+| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | Studio comparativo in doppio cieco | J Rheumatol | Aceclofenac sicuro ed efficace quanto tenoxicam in 3 mesi nella spondilite anchilosante |
+| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Revisione | J Pain Res | Effetti analgesici e antinfiammatori di aceclofenac nei disturbi muscoloscheletrici |
+| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Revisione | Expert Opin Pharmacother | Efficacia paragonabile a diclofenac, naprossene, piroxicam (osteoartrosi) e a tenoxicam, naprossene, indometacina (spondilite anchilosante) |
+| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Revisione | Drugs | Sollievo sintomatico in varie condizioni dolorose e reumatiche |
+| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Revisione | Rev Med Liege | Ruolo nelle patologie osteoarticolari croniche e effetti sul rimodellamento della cartilagine |
+| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Revisione | Drugs | Proprietà farmacodinamiche simili al diclofenac, con minore potenziale di danno gastrointestinale negli studi preclinici |
+| [10081315](https://pubmed.ncbi.nlm.nih.gov/10081315/) | 1999 | Scheda del farmaco | Rev Med Liege | Indicato per artropatie infiammatorie e degenerative; dose abituale 100 mg due volte al giorno |
+| [16922973](https://pubmed.ncbi.nlm.nih.gov/16922973/) | 2006 | Caso clinico | J Eur Acad Dermatol Venereol | Psoriasi pustolosa generalizzata scatenata da aceclofenac (segnale di sicurezza) |
+| [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Raccomandazioni | Ann Rheum Dis | Raccomandazioni ASAS per la raccolta dell'assunzione di FANS negli studi sulla spondiloartrite assiale |
 
-## Evidenza dalla Letteratura
+Molti dei 17 articli reperiti sono revisioni generali o studi di formulazione; il disegno e la numerosità degli studi clinici non sono stati verificati.
 
-Attualmente nessuna indicazione prevista è stata generata, e pertanto nessuna letteratura correlata è stata raccolta.
+## Informazioni sul mercato italiano
 
----
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 031842014 | KAFENAC 40 cpr rivestite 100 mg (Almirall) | Compresse rivestite | Cancellata |
+| 032773020 | AIRTAL 40 cpr rivestite 100 mg (Almirall) | Compresse rivestite | Cancellata |
+| 042403042 | ACECLOFENAC 40 cpr rivestite 100 mg (Accord Healthcare) | Compresse rivestite | Cancellata |
+| 031842026 | KAFENAC orale sosp polv 30 bust 100 mg (Almirall) | Polvere per sospensione orale | Cancellata |
+| 031220015 | GLADIO 40 cpr rivestite 100 mg (Abiogen Pharma) | Compresse rivestite | Cancellata |
 
-## Informazioni sul Mercato Taiwan (TFDA)
+Sono presenti 8 autorizzazioni in totale, tutte cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile; la colonna indica lo stato dell'autorizzazione.
 
-L'aceclofenac attualmente **non ha autorizzazioni di commercializzazione TFDA valide** a Taiwan. Il farmaco è classificato come **non commercializzato** nel mercato taiwanese.
+## Considerazioni sulla sicurezza
 
----
+I dati di sicurezza specifici non sono disponibili. Per le informazioni di sicurezza si rimanda al foglietto illustrativo. Come segnalazione dalla letteratura, è stato descritto un caso di psoriasi pustolosa generalizzata scatenata da aceclofenac (PMID 16922973).
 
-## Considerazioni sulla Sicurezza
+## Conclusione e prossimi passi
 
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. I dati chiave su avvertenze, controindicazioni e interazioni farmacologiche non erano disponibili dalle fonti interrogate per il mercato taiwanese.
->
-> **Avvertenze generali della classe FANS** (sulla base della farmacologia consolidata) includono:
-> - Rischio trombico cardiovascolare con uso prolungato
-> - Rischio di sanguinamento gastrointestinale, ulcerazione e perforazione
-> - Compromissione della funzione renale, soprattutto nei pazienti con malattia renale preesistente
-> - Controindicato nei pazienti con ipersensibilità nota all'aceclofenac, all'aspirina o ad altri FANS
-> - Cautela nei pazienti con asma, compromissione epatica o disturbi della coagulazione
->
-> *Queste sono considerazioni generali a livello di classe e non sostituiscono l'etichettatura specifica del prodotto.*
+**Decisione: Hold**
 
----
+**Motivazione:**
+La predizione più pertinente (spondilopatia infiammatoria) coincide con un'indicazione già nota (spondilite anchilosante) e non è un vero riposizionamento. Le altre predizioni ad alto punteggio sono prive di evidenza o di meccanismo plausibile. In Italia tutte le autorizzazioni sono cancellate, e mancano i dati di sicurezza del foglietto illustrativo.
 
-## Lacune nei Dati Identificate
-
-Le seguenti lacune critiche nei dati sono state evidenziate durante la raccolta delle evidenze:
-
-| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Livello Farmaco | Avvertenze / Controindicazioni del Foglio Illustrativo TFDA | **Bloccante** | Impossibile entrare nello screening di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | Alta | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API di DrugBank per i dati MOA completi |
-
-Inoltre:
-- **Nessuna previsione TxGNN** è stata generata per questo farmaco — l'array `predicted_indications` è vuoto
-- **Nessun dato DDI** è stato trovato nelle fonti interrogate
-- **Nessuna licenza TFDA** esiste, il che significa che le informazioni sulla prescrizione specifiche di Taiwan non sono disponibili
-
----
-
-## Conclusione e Prossimi Passi
-
-**Decisione: Sospensione**
-
-**Razionale:**
-L'aceclofenac non può procedere attraverso la pipeline di valutazione del riposizionamento farmacologico in questo momento. Il modello TxGNN non ha generato alcuna nuova indicazione prevista, e rimangono irrisolte più lacune critiche nei dati — soprattutto l'assenza di dati di etichettatura di sicurezza TFDA (DG001) che impedisce l'ingresso nella fase di screening di sicurezza S1.
-
-**Per procedere, è necessario quanto segue:**
-1. **Eseguire la previsione TxGNN** per Aceclofenac (DB06736) per generare candidati di nuove indicazioni con punteggi di confidenza
-2. **Risolvere DG001** — Ottenere avvertenze e controindicazioni dal foglio illustrativo TFDA (o confermare che non esiste un prodotto commercializzato a Taiwan, e cercare dati equivalenti da EMA/MHRA/TGA)
-3. **Risolvere DG002** — Recuperare dati MOA completi dall'API di DrugBank per abilitare l'analisi della rilevanza meccanicistica
-4. **Raccogliere evidenze da trial clinici e letteratura** una volta che un'indicazione prevista è disponibile
-5. **Rivalutare il percorso normativo taiwanese** — Poiché l'aceclofenac non è commercializzato a Taiwan, qualsiasi sforzo di riposizionamento richiederebbe una nuova domanda di farmaco o un percorso di importazione speciale
-
----
-
-*Questo rapporto è stato generato il 2026-04-03 sulla base del Pacchetto di Evidenze v4 (ID candidato: TW-DB06736-multi). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. I candidati al riposizionamento farmacologico richiedono validazione clinica prima dell'applicazione.*
-
+**Per procedere è necessario:**
+- Reperire avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza)
+- Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank)
+- Verificare disegno e numerosità degli studi sulla spondilite anchilosante
+- Chiarire il motivo della cancellazione delle autorizzazioni in Italia e la disponibilità commerciale attuale
+- Valutare se esista un'indicazione realmente nuova, dato che le predizioni sulle displasie scheletriche non hanno supporto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

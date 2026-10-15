@@ -2,7 +2,7 @@
 layout: default
 title: Exemestane
 parent: Solo previsione del modello (L5)
-nav_order: 101
+nav_order: 187
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,98 +29,95 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Exemestane: Dal Cancro al Seno alla Carenza di Antitrombina Tipo 2
+# Exemestane: dal carcinoma mammario all'amenorrea (predizione di bassa plausibilità)
 
-## Riassunto in una Frase
+## Riepilogo in una frase
 
-Exemestane è un inibitore dell'aromatasi steroidale di terza generazione, riconosciuto come terapia endocrina standard per il cancro al seno con recettori ormonali positivi nelle donne in postmenopausa. Il modello TxGNN predice che potrebbe essere efficace per la **Carenza di Antitrombina Tipo 2**, classificata al #1 con un punteggio del 99.83% — tuttavia, questa previsione è supportata da **0 trial clinici** e **0 pubblicazioni** che affrontano direttamente questa indicazione. Su tutte le 7 indicazioni previste in questo dossier di evidenze, ogni candidato si posiziona al livello di evidenza L4–L5, e tutti ricevono una raccomandazione di **Hold**.
+Exemestane è un inibitore steroideo dell'aromatasi, usato nel trattamento del carcinoma mammario ormono-dipendente. Il modello TxGNN lo associa con punteggio elevato all'**amenorrea** (e a diverse condizioni trombofiliche ed emicraniche), ma la predizione di rango 1, il **deficit di antitrombina di tipo 2**, non ha **alcuno studio clinico né pubblicazione** a supporto. La predizione di rango 2, l'amenorrea, ha **0 studi clinici** e **5 pubblicazioni** indirette, che descrivono un effetto farmacologico atteso più che una indicazione terapeutica.
 
----
+## Panoramica rapida
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
+| Nuova indicazione predetta | Deficit di antitrombina di tipo 2 (rango 1) |
+| Punteggio di predizione TxGNN | 99,83% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Cancro al seno con recettori ormonali positivi (postmenopausa) |
-| Indicazione Nuova Prevista | Carenza di Antitrombina Tipo 2 |
-| Punteggio di Previsione TxGNN | 99.83% |
-| Livello di Evidenza | L5 |
-| Stato del Mercato Italiano | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Raccomandata | Hold |
+## Perché questa predizione è ragionevole?
 
----
+I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, exemestane è un inibitore steroideo dell'aromatasi che riduce la sintesi di estrogeni; la sua efficacia nel carcinoma mammario ormono-positivo in postmenopausa è nota.
 
-## Perché questa Previsione è Ragionevole?
+Per il deficit di antitrombina di tipo 2 **non emerge alcun razionale meccanicistico**: si tratta di un difetto ereditario del gene SERPINC1, e la soppressione estrogenica non corregge la funzione dell'antitrombina. Lo stesso vale per il fattore V in eccesso con trombosi spontanea e per il deficit del cofattore II dell'eparina: la predizione è solo un output del modello, senza supporto clinico o bibliografico.
 
-I dati dettagliati del meccanismo d'azione non sono disponibili nel dataset attuale. In base alla farmacologia consolidata, Exemestane è un inibitore dell'aromatasi irreversibile steroidale che inattiva permanentemente l'enzima CYP19A1, bloccando la conversione degli androgeni in estrogeni e riducendo l'estradiolo circolante (E2) a livelli quasi non rilevabili. A differenza degli inibitori dell'aromatasi non steroidali (anastrozolo, letrozolo), la struttura androgeno-simile di Exemestane conferisce un meccanismo di legame irreversibile (inibitore "suicide"), che è clinicamente significativo quando viene considerata la cross-resistenza o la sequenziazione degli agenti endocrini.
+Per l'**amenorrea**, exemestane sopprime gli estrogeni, quindi l'amenorrea è più correttamente un effetto farmacologico atteso o un esito legato al trattamento che un bersaglio terapeutico. La letteratura riguarda il recupero della funzione ovarica dopo chemioterapia e la soppressione ovarica nelle pazienti premenopausali con carcinoma mammario, non il trattamento dell'amenorrea con exemestane.
 
-Il collegamento previsto alla Carenza di Antitrombina Tipo 2 si basa su una catena indiretta a due passaggi: l'estrogeno è noto per sopprimere la sintesi dell'antitrombina III (AT-III) nel fegato, quindi la riduzione di E2 mediante l'inibizione dell'aromatasi potrebbe teoricamente aumentare l'AT-III circolante e compensare parzialmente la carenza. Questa logica ha un difetto critico — la Carenza di Antitrombina **Tipo 2** è un difetto *funzionale (qualitativo)*, il che significa che la proteina è prodotta ma non funzionale. Aumentare i livelli di sintesi di una proteina non funzionale non fornisce alcun beneficio terapeutico. La credibilità meccanicistica di questa previsione al primo rango è quindi bassa.
+Per la trombofilia esiste solo un razionale debole e speculativo (meno estrogeni, minor ipercoagulabilità indotta da estrogeni), mentre per l'emicrania (comune e con aura del tronco encefalico) l'ipotesi estrogenica è teorica e gli inibitori dell'aromatasi possono causare cefalea.
 
-Un pattern più ampio si mantiene su tutte le 7 previsioni TxGNN in questo dossier. Le indicazioni 1–4 (carenza di antitrombina tipo 2, amenorrea, eccesso di fattore 5, carenza di cofattore 2 dell'eparina) coinvolgono tutte vie di coagulazione con catene di inferenza meccanicistica che sono incerte di direzione o funzionalmente inapplicabili. Le indicazioni 5–6 (trombofilia, disturbo da emicrania) comportano il razionale meccanicistico più plausibile — l'estrogeno è un fattore di rischio trombottico riconosciuto, e l'emicrania mestruale ha un trigger di ritiro dell'estrogeno ben caratterizzato — ma nessuno ha alcuna evidenza clinica diretta. L'indicazione 7 (emicrania con aura del tronco encefalico) solleva ulteriori preoccupazioni di sicurezza dato il coinvolgimento vascolare complesso di quel sottotipo di emicrania.
+## Evidenza da studi clinici
 
----
+Al momento non risultano studi clinici correlati registrati per la predizione di rango 1 (deficit di antitrombina di tipo 2).
 
-## Evidenza da Trial Clinici
+## Evidenza dalla letteratura
 
-Attualmente nessun trial clinico correlato è registrato per alcuna delle 7 indicazioni previste.
+Per la predizione di rango 1 non è disponibile letteratura correlata. Di seguito la letteratura per il rango 2 (amenorrea), che resta indiretta:
 
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [23108951](https://pubmed.ncbi.nlm.nih.gov/23108951/) | 2013 | Coorte | Annals of Oncology | Incidenza e fattori predittivi del recupero della funzione ovarica in pazienti con carcinoma mammario e amenorrea indotta da chemioterapia passate da tamoxifene a exemestane |
+| [26178334](https://pubmed.ncbi.nlm.nih.gov/26178334/) | 2015 | Revisione | Oncology (Williston Park) | Ruolo della soppressione ovarica nelle donne premenopausali con carcinoma mammario HR-positivo in fase precoce |
+| [26951320](https://pubmed.ncbi.nlm.nih.gov/26951320/) | 2016 | Revisione | J Clin Oncol | Necessità del monitoraggio dell'estradiolo nelle donne in soppressione ovarica per carcinoma mammario |
+| [31379370](https://pubmed.ncbi.nlm.nih.gov/31379370/) | 2019 | Revisione | Recenti Progressi in Medicina | Ruolo attuale degli analoghi LHRH nel carcinoma mammario precoce e avanzato in premenopausa |
+| [28118723](https://pubmed.ncbi.nlm.nih.gov/28118723/) | 2016 | Revisione | Klinicka Onkologie | Trattamento con inibitori dell'aromatasi in postmenopausa e possibilità di gestirne gli effetti collaterali |
 
-## Evidenza dalla Letteratura
+## Informazioni sul mercato italiano
 
-Nessuna letteratura è disponibile per la previsione al primo rango (carenza di antitrombina tipo 2). Cinque pubblicazioni sono state recuperate per la previsione al secondo rango (amenorrea), ma tutti provengono da **contesti di trattamento del cancro al seno** dove l'amenorrea è un *effetto collaterale o surrogato terapeutico della soppressione ovarica* — non una condizione in fase di trattamento con Exemestane. Questi sono inclusi di seguito per trasparenza, con un avvertimento esplicito contro l'errata interpretazione.
+Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni:
 
-> ⚠️ **Nota critica di interpretazione:** In ognuna di queste pubblicazioni, l'amenorrea rappresenta un marcatore di soppressione della funzione ovarica, che è l'*endpoint terapeutico desiderato* nella terapia adiuvante del cancro al seno in premenopausa. Exemestane *causa* amenorrea; non la tratta. Conteggiare questa letteratura come evidenza per la riproposizione di Exemestane nel trattamento dell'amenorrea rappresenta un errore direzionale fondamentale.
-
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|------------------|
-| [26178334](https://pubmed.ncbi.nlm.nih.gov/26178334/) | 2015 | Revisione Sistematica / Meta-analisi RCT | Oncology (Williston Park) | Esamina le strategie di soppressione ovarica nel cancro al seno precoce in premenopausa; l'amenorrea indotta dalla chemioterapia si correla con una sopravvivenza migliorata; viene valutato il ruolo della soppressione ovarica farmacologica (comprese regimen a base di exemestane) |
-| [23108951](https://pubmed.ncbi.nlm.nih.gov/23108951/) | 2013 | Coorte Prospettica | Annals of Oncology | Esamina l'incidenza e i predittori del *recupero* della funzione ovarica nei pazienti con cancro al seno con amenorrea indotta da chemioterapia che hanno cambiato regime a exemestane; l'amenorrea è l'endpoint monitorato, non il target |
-| [26951320](https://pubmed.ncbi.nlm.nih.gov/26951320/) | 2016 | Osservazionale / Trasversale | Journal of Clinical Oncology | Discute se il monitoraggio routinario dell'estradiolo è necessario nelle donne in trattamento con soppressione ovarica per il cancro al seno; l'amenorrea è utilizzata come surrogato per una soppressione adeguata |
-| [28118723](https://pubmed.ncbi.nlm.nih.gov/28118723/) | 2016 | Revisione | Klinicka Onkologie | Esamina gli inibitori dell'aromatasi di terza generazione (anastrozolo, letrozolo, exemestane) come trattamento standard del cancro al seno ER+ in postmenopausa; nota che gli IA sono controindicati nelle donne con funzione ovarica intatta |
-| [31379370](https://pubmed.ncbi.nlm.nih.gov/31379370/) | 2019 | Revisione Narrativa | Recenti Progressi in Medicina | Riassume il ruolo dell'analogo LHRH nel cancro al seno in premenopausa; l'amenorrea indotta da chemioterapia è associata a ridotta ricorrenza; viene revisionata la combinazione LHRH + exemestane |
-
----
-
-## Informazioni sul Mercato Italiano
-
-Exemestane non ha autorizzazioni AIFA ed è attualmente non commercializzato in Italia. Nessun dato di licenza è disponibile per la tabulazione.
-
-> Nota: Exemestane (marchi Aromasin, generici) detiene approvazioni nell'UE, USA, Giappone e in numerosi altri mercati per il cancro al seno HR+. L'assenza di una voce italiana in questo dataset potrebbe riflettere un'insufficienza nel recupero dei dati piuttosto che un'assenza vera di approvazione UE, e dovrebbe essere verificata rispetto al registro AIFA attuale prima di trarre conclusioni normative.
-
----
+| N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
+|---------|------|------|------|-----------|
+| 034678033 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Pfizer Italia Srl | Cancellata |
+| 045700010 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Medifarm Srl | Cancellata |
+| 040320018 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | EG SpA | Cancellata |
+| 040535041 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | Sandoz SpA | Cancellata |
+| 040012015 | Axelta 30 cpr rivestite 25 mg | Compresse rivestite | Ist. Gentili Srl | Cancellata |
 
 ## Citotossicità
 
-Exemestane è un agente antineoplastico (terapia endocrina/ormonale per il cancro al seno).
+Exemestane è un farmaco antineoplastico (inibitore dell'aromatasi, terapia ormonale), non un citotossico convenzionale.
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Classificazione della Citotossicità | Terapia endocrina mirata — inibitore dell'aromatasi steroidale (non un agente citotossico convenzionale; nessun meccanismo di danneggiamento del DNA) |
-| Rischio di Mielosoppressione | Basso — gli inibitori dell'aromatasi non causano mielosoppressione clinicamente significativa |
-| Classificazione dell'Emetogenicità | Bassa — potenziale emetogeno minimo tipico degli agenti endocrini orali |
-| Elementi di Monitoraggio | Densità minerale ossea (il rischio di osteoporosi / frattura da fragilità è la preoccupazione primaria a lungo termine); test della funzione epatica; profilo lipidico; sintomi articolari e muscoloscheletrici (artralgia frequente); in contesti in premenopausa, livelli di estradiolo per confermare la soppressione ovarica |
-| Protezione nella Manipolazione | Manipolazione standard di compresse orali; precauzioni dedicate nella preparazione citotossica (trasferimento a circuito chiuso, DPI per la ricostituzione) non sono routinariamente richieste per agenti ormonali |
+| Voce | Contenuto |
+|------|------|
+| Classificazione | Terapia ormonale/mirata (inibitore steroideo dell'aromatasi) |
+| Rischio di mielosoppressione | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
+| Classificazione emetogena | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
+| Parametri da monitorare | Si rimanda al foglio illustrativo (tipicamente emocromo, funzionalità epatica e renale) |
+| Protezione nella manipolazione | Si rimanda al foglio illustrativo |
 
----
+## Considerazioni sulla sicurezza
 
-## Conclusione e Prossimi Passi
+Le informazioni su avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili nei dati compilati; si rimanda al foglio illustrativo.
+
+**Interazioni farmacologiche:** la ricerca ha individuato 100 interazioni (20 mostrate nei dati). Quelle di livello **moderato** sono con **desametasone** e **troglitazone**. Le altre, tra cui pantoprazolo, morfina, metformina, omeprazolo, simvastatina, acido acetilsalicilico e rosuvastatina, hanno livello di gravità non classificato.
+
+Nota di contesto: le condizioni trombofiliche predette sono rilevanti poiché gli inibitori dell'aromatasi hanno proprie avvertenze tromboemboliche, seppur inferiori a quelle del tamoxifene.
+
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
-**Razionale:**
-Tutte le 7 indicazioni previste da TxGNN si posizionano al livello di evidenza L4 o L5, con zero trial clinici registrati su nessuna delle malattie candidate, e l'unica letteratura recuperata (5 articoli per l'amenorrea) riflette un'attribuzione direzionale errata — Exemestane induce l'amenorrea come meccanismo terapeutico nel cancro al seno piuttosto che trattarla. La previsione al primo rango (carenza di antitrombina tipo 2) comporta un ulteriore disqualificatore meccanicistico: la malattia target è un difetto proteico qualitativo che non può essere corretto modulando i livelli di sintesi.
+**Motivazione:**
+Le predizioni si basano solo sul punteggio del modello (livello L5 per il rango 1; L4 per l'amenorrea, che è un effetto farmacologico atteso e non un obiettivo di riposizionamento). Mancano studi clinici, razionale meccanicistico e dati di sicurezza dal foglio illustrativo. Inoltre, tutte le autorizzazioni italiane sono cancellate.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Risolvere DG001 (Bloccante):** Recuperare il foglio illustrativo AIFA/TFDA per ottenere gli avvertimenti completi, le controindicazioni e il profilo di interazioni farmacologiche — questo è un prerequisito per qualsiasi screening di sicurezza
-- **Risolvere DG002 (Alto):** Interrogare l'API di DrugBank per compilare i campi formali del MOA e confermare la classificazione farmacologica
-- **Verificare lo stato del mercato italiano:** Controllare incrociatamente rispetto al registro AIFA aggiornato; Aromasin ha autorizzazione a livello dell'UE e l'assenza da questo dataset potrebbe essere un'insufficienza nel recupero
-- **Prioritizzare trombofilia e disturbo da emicrania** (ranghi 5–6) come i candidati più meccanicisticamente difendibili per studi preclinici che generano ipotesi — dovrebbero essere riformulati come domande di ricerca formali prima di qualsiasi design di trial
-- **Contrassegnare emicrania con aura del tronco encefalico** (rango 7) come richiedente una valutazione della sicurezza dedicata prima di qualsiasi indagine, data l'incertezza degli effetti vascolari della soppressione dell'estrogeno sulla vascolatura del tronco encefalico
-- **Ritirare formalmente i ranghi 1–4** (carenza di antitrombina tipo 2, amenorrea, eccesso di fattore 5, carenza di cofattore 2 dell'eparina) dalla considerazione attiva a meno che non emergano nuove evidenze meccanicistiche; documentare il razionale dell'esclusione nel registro della pipeline
-
+**Per procedere sono necessari:**
+- Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Chiarimento delle indicazioni originali approvate e della forma farmaceutica
+- Verifica del motivo della cancellazione delle autorizzazioni e dell'eventuale disponibilità attuale del prodotto
+- Per qualsiasi indicazione candidata, razionale biologico credibile e dati preclinici o clinici prima di riconsiderare la decisione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

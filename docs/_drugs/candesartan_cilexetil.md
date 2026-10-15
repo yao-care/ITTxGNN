@@ -2,7 +2,7 @@
 layout: default
 title: Candesartan Cilexetil
 parent: Solo previsione del modello (L5)
-nav_order: 44
+nav_order: 86
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,86 +29,100 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Candesartan Cilexetil: dall'Ipertensione all'Ipertensione Renovascolare Maligna
+# Candesartan cilexetil: dall'ipertensione all'ipertensione renovascolare maligna
 
-## Riassunto in una Frase
+## Sintesi in una frase
 
-Candesartan cilexetil è un antagonista dei recettori dell'angiotensina II (ARB) consolidato nella gestione dell'ipertensione e dell'insufficienza cardiaca, che agisce bloccando selettivamente i recettori AT1 per ridurre la vasocostrizione guidata dal sistema renina-angiotensina-aldosterone (RAAS).
-Il modello TxGNN prevede che potrebbe essere efficace per l'**Ipertensione Renovascolare Maligna**, una condizione in cui l'intensa attivazione del RAAS svolge un ruolo fisiopatologico centrale.
-Tuttavia, **nessuna prova clinica e nessuna letteratura direttamente rilevante** sono attualmente disponibili per questa specifica coppia farmaco-malattia, collocando questa previsione in una fase iniziale di inferenza meccanicistica (L4).
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Ipertensione (classe ARB; nessuna registrazione in Italia) |
-| Indicazione Predetta | Ipertensione Renovascolare Maligna |
-| Punteggio di Previsione TxGNN | 99.68% |
-| Livello di Evidenza | L4 (solo inferenza meccanicistica) |
-| Stato del Mercato in Italia | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospendere |
+Candesartan cilexetil è un antagonista del recettore dell'angiotensina II di tipo 1, utilizzato originariamente per il trattamento dell'ipertensione.
+Il modello TxGNN prevede che possa essere efficace per la **ipertensione renovascolare maligna**, ma al momento **non risultano studi clinici né pubblicazioni** che supportino direttamente questa indicazione: si tratta di una predizione puramente computazionale.
 
 ---
 
-## Perché Questa Previsione È Ragionevole?
+## Panoramica rapida
 
-Candesartan cilexetil è un profarmaco che viene idrolizzato dopo l'assorbimento orale nella sua forma attiva, candesartan — un antagonista selettivo e insuperabile del recettore del tipo 1 dell'angiotensina II (AT1). Bloccando AT1, candesartan abolisce la vasocostrizione mediata dall'angiotensina II, la secrezione di aldosterone e l'attivazione simpatica, determinando una riduzione sostenuta della pressione arteriosa e protezione renale. Sebbene i dati dettagliati sul meccanismo d'azione non siano stati recuperati in questa raccolta di evidenze, il meccanismo di classe del farmaco è ben consolidato nella letteratura farmacologica.
-
-L'ipertensione renovascolare maligna è una sindrome grave e rapidamente progressiva guidata dalla stenosi dell'arteria renale che innesca un'estrema attivazione del RAAS. Le concentrazioni di angiotensina II aumentano vertiginosamente, producendo intensa vasocostrizione sistemica e renale e danno ai reni, alla retina e al cervello. Poiché il meccanismo ARB antagonizza direttamente il fattore fisiopatologico dominante di questa condizione, la previsione di TxGNN ha una razionale meccanicistica coerente.
-
-Una preoccupazione critica per la sicurezza, tuttavia, è intrinseca a questa indicazione: **nei pazienti con stenosi bilaterale dell'arteria renale** — che è frequente nella malattia renovascolare — l'uso di ARB può precipitare un'insufficienza renale acuta rimuovendo il meccanismo di compensazione dipendente dall'angiotensina II che mantiene la pressione di filtrazione glomerulare. Questo non è un motivo per scartare la previsione, ma è un prerequisito obbligatorio di screening prima di qualsiasi valutazione clinica. Attualmente non esiste alcuno studio clinico randomizzato specifico per candesartan o studio osservazionale per questa indicazione; l'argomento meccanicistico si basa interamente sulla farmacologia di classe degli ARB.
-
----
-
-## Evidenza da Studi Clinici
-
-Attualmente non sono registrati studi clinici correlati.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione (disturbo ipertensivo) |
+| Nuova indicazione prevista | Ipertensione renovascolare maligna |
+| Punteggio di predizione TxGNN | 99,68% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza da Letteratura
+## Perché questa predizione è ragionevole?
 
-Attualmente non è disponibile letteratura correlata.
+Allo stato attuale, i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Sulla base delle conoscenze generali, candesartan è un bloccante del recettore AT1 dell'angiotensina II (sartano) ed è utilizzato nell'ipertensione.
 
-> **Nota sulla letteratura di Rank 3:** I 20 record PubMed recuperati per l'indicazione "ipertensione polmonare dovuta a malattia polmonare e/o ipossia" sono articoli di fisiopatologia e patologia dell'ipossia generale (che coprono malattia neurodegenerativa, biologia del cancro e medicina dell'altitudine). Nessuno affronta candesartan o farmaci della classe ARB nel contesto dell'ipertensione polmonare e non costituisce evidenza clinica di supporto per alcuna indicazione predetta in questo rapporto.
+L'ipertensione renovascolare è sostenuta in larga parte dall'attivazione del sistema renina-angiotensina, quindi il meccanismo è biologicamente plausibile. Tuttavia, nella stenosi bilaterale dell'arteria renale e nella fase maligna della malattia, il blocco del sistema renina-angiotensina comporta un rischio di peggioramento acuto della funzione renale, che richiede una valutazione attenta della sicurezza.
 
----
+Va inoltre sottolineato che questa indicazione si sovrappone in modo sostanziale all'indicazione originale (ipertensione): non rappresenta un vero segnale di riposizionamento verso una malattia nuova, ma piuttosto una forma grave o secondaria della stessa condizione. Il punteggio TxGNN elevato (0,997) potrebbe riflettere la vicinanza nel grafo di conoscenza ad altri termini legati all'ipertensione.
 
-## Informazioni sul Mercato in Italia
+### Altre predizioni nel modello
 
-Candesartan cilexetil ha **nessuna autorizzazione di commercializzazione registrata in Italia**. Non esiste un prodotto approvato da cui fare riferimento per il testo dell'indicazione, la forma farmaceutica o le condizioni di prescrizione.
-
----
-
-## Considerazioni di Sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per informazioni complete sulla sicurezza.
-
-Inoltre, una preoccupazione meccanicistica per la sicurezza è direttamente rilevante per l'indicazione predetta e merita attenzione esplicita:
-
-- **Stenosi bilaterale dell'arteria renale (SBR)**: L'uso di ARB nei pazienti con SBR può causare insufficienza renale acuta abolendo il tono arteriolare efferente dipendente dall'angiotensina II, che è il meccanismo di compensazione che mantiene la GFR quando il flusso afferente è compromesso. La SBR deve essere esclusa prima di considerare la terapia con ARB in qualsiasi setting di ipertensione renovascolare.
+| Rango | Malattia prevista | Punteggio TxGNN | Evidenza | Note |
+|------|------|------|------|------|
+| 2 | Nefropatia ipertensiva maligna | 99,68% | L5 | Forma grave dell'ipertensione già indicata; da valutare iperkaliemia e danno renale acuto |
+| 3 | Ipertensione polmonare da malattia polmonare e/o ipossia | 99,67% | L5 | Due lavori reperiti, ma non pertinenti (studio preclinico murino sull'ipossia neonatale e studio su una formula erboristica nel danno renale) |
+| 4 | Ipertensione polmonare a meccanismo multifattoriale non chiaro | 99,67% | L5 | Legame indiretto; rischio di ipotensione sistemica |
+| 5 | Sindrome di Braddock | 99,56% | L5 | Malattia rarissima, nessun legame meccanicistico evidente; probabile artefatto del grafo |
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenze da studi clinici
 
-**Decisione: Sospendere**
+Al momento non risultano studi clinici correlati registrati.
 
-**Razionale:**
-La previsione di TxGNN è plausibile dal punto di vista meccanicistico — il blocco AT1 di candesartan colpisce direttamente l'iperattivazione del RAAS che guida l'ipertensione renovascolare maligna — ma c'è un'assenza completa di studi clinici di supporto o letteratura specifica per candesartan, un requisito obbligatorio di screening della sicurezza (escludere la stenosi bilaterale dell'arteria renale), e nessuna presenza nel mercato italiano da cui sfruttare i percorsi di uso off-label.
+---
 
-**Per procedere, quanto segue è necessario:**
+## Evidenze dalla letteratura
 
-- **Prerequisito di sicurezza**: Definire un protocollo di screening dei pazienti per escludere la stenosi bilaterale dell'arteria renale prima di qualsiasi valutazione clinica
-- **Revisione dell'evidenza di classe**: Condurre una revisione sistematica dei dati della classe ARB (RENAAL losartan, IDNT irbesartan e altri RCT) nella nefropatia ipertensiva e nella malattia renovascolare per valutare se l'estrapolazione a livello di classe sia difendibile
-- **Gap dei dati specifici per candesartan**: Cercare eventuali studi preclinici (modello animale) di candesartan nei modelli di ipertensione renovascolare o maligna per determinare se esiste evidenza meccanicistica a livello di specie
-- **Dati MOA e sicurezza**: Recuperare la voce DrugBank completa e il foglio illustrativo per completare il profilo farmacocinetico, le interazioni farmacologiche e le controindicazioni
-- **Percorso normativo**: Dato zero autorizzazioni in Italia, valutare se un Programma Paziente Nominato, uso compassionevole o uno studio promosso da ricercatore sarebbero il punto di ingresso normativo appropriato
-- **Indicazioni secondarie**: Rank 2 (malattia renale ipertensiva maligna, L4) condivide la stessa razionale meccanicistica ARB-RAAS e potrebbe essere valutata in parallelo; Ranks 4–5 (ipertensione polmonare multifattoriale, sindrome di Braddock) sono valutate come Sospendere con fondamento meccanicistico insufficiente e non dovrebbero essere prioritizzate
+Al momento non risulta letteratura correlata disponibile per l'indicazione principale (ipertensione renovascolare maligna).
 
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Di seguito le principali (il testo dell'indicazione approvata non è presente nei dati compilati).
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 033577469 | RATACAND 28 cpr 32 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 033577305 | RATACAND 28 cpr 16 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 033577180 | RATACAND 28 cpr 8 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 033451360 | BLOPRESS 28 cpr 32 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
+| 044804021 | BLOPRESS 28 cpr 32 mg | Medifarm Srl | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+Dal grafo di conoscenza (non dal foglio illustrativo) emergono associazioni di controindicazione con le seguenti condizioni:
+
+- **Condizioni renali e vascolari**: anuria, compromissione della funzione renale, ostruzione dell'arteria renale, ipotensione
+- **Condizioni epatiche e biliari**: epatopatia, coma epatico, encefalopatia epatica, malattia della colecisti, pancreatite, ittero neonatale
+- **Condizioni metaboliche ed elettrolitiche**: diabete mellito, chetoacidosi diabetica, carenza di potassio, ipercalcemia, disturbi del metabolismo del fosforo, nefrocalcinosi, iperparatiroidismo, osteite fibrosa, iperuricemia, gotta
+- **Condizioni autoimmuni**: lupus eritematoso sistemico (inclusa la forma pediatrica)
+
+Si tratta di segnali provenienti da un grafo di conoscenza e non di testo di scheda tecnica: vanno verificati con il foglio illustrativo ufficiale. Per le avvertenze e le interazioni farmacologiche, consultare il foglio illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Tutte le predizioni sono supportate solo dal modello (L5), senza studi clinici né letteratura pertinente. L'indicazione principale coincide in larga parte con l'indicazione originale e comporta un rischio renale specifico; inoltre, tutte le autorizzazioni italiane sono cancellate.
+
+**Per procedere sono necessari:**
+- Acquisizione del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Ricerca di studi clinici e letteratura specifici su candesartan nell'ipertensione renovascolare maligna
+- Valutazione della sicurezza renale (iperkaliemia, danno renale acuto, stenosi bilaterale dell'arteria renale)
+- Chiarimento della situazione regolatoria in Italia (nessuna autorizzazione valida)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

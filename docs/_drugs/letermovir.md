@@ -2,7 +2,7 @@
 layout: default
 title: Letermovir
 parent: Solo previsione del modello (L5)
-nav_order: 134
+nav_order: 261
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,68 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Letermovir: dalla profilassi della CMV alla candidosi vulvovaginale
+# Letermovir: Da infezione da citomegalovirus a candidosi vulvovaginale
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Letermovir è un agente antivirale sviluppato specificamente per la profilassi dell'infezione da citomegalovirus (CMV) nei riceventi di trapianto di cellule staminali ematopoietiche. Il modello TxGNN prevede che potrebbe essere efficace per la **Candidosi Vulvovaginale**, tuttavia **zero trial clinici** e **zero pubblicazioni** attualmente supportano questa direzione — l'evidenza si situa al livello più basso (L5), e l'analisi meccanicistica suggerisce fortemente che si tratti di un falso positivo topologico del grafo di conoscenza piuttosto che di un genuino segnale farmacologico.
-
----
+Letermovir è un antivirale originariamente utilizzato per l'infezione da citomegalovirus (CMV). Il modello TxGNN prevede una possibile efficacia nella **candidosi vulvovaginale**, ma al momento non risultano **studi clinici** né **pubblicazioni** a supporto: la previsione si basa esclusivamente sul modello computazionale.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|----------|
-| Indicazione originale | Profilassi della CMV nei riceventi di trapianto di cellule staminali ematopoietiche |
-| Indicazione nuova prevista | Candidosi Vulvovaginale |
-| Punteggio di predizione TxGNN | 99.88% |
+|------|------|
+| Indicazione originale | Infezione da citomegalovirus |
+| Nuova indicazione prevista | Candidosi vulvovaginale |
+| Punteggio di previsione TxGNN | 99,88% |
 | Livello di evidenza | L5 |
-| Stato di commercializzazione in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché questa predizione è ragionevole?
+Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Letermovir è noto come inibitore del complesso terminasi del DNA del CMV (pUL56/pUL51/pUL89), un bersaglio specifico dei herpesvirus.
 
-Attualmente, dati dettagliati sul meccanismo d'azione non sono formalmente disponibili in questo Pacchetto di Evidenze. Sulla base della farmacologia nota, Letermovir inibisce selettivamente il **complesso terminasi virale della CMV** (subunità UL51/UL56/UL89) — un enzima che il virus utilizza per scindere e confezionare il DNA appena replicato nei capsidi dei virioni. Questo meccanismo è straordinariamente specifico per l'herpesvirus umano 5 (CMV) e non ha attività documentata contro alcun patogeno fungino.
+**Non è stato identificato un collegamento meccanicistico credibile** con la candidosi vulvovaginale. Candida è un fungo e per questo bersaglio virale non è noto alcun omologo. Non sono disponibili dati di attività antifungina in vitro né osservazioni cliniche che supportino la previsione.
 
-La candidosi vulvovaginale è causata da specie di *Candida* (prevalentemente *C. albicans*), la cui patogenesi coinvolge la biosintesi dell'ergosterolo e la sintesi della parete cellulare β-1,3-glucano — vie biochimiche completamente non correlate agli enzimi terminasi del DNA virale. Non esiste un ponte biologico stabilito o plausibile tra il meccanismo antivirale di Letermovir e l'attività antifungina.
+Il punteggio molto elevato (0,9988) è quindi un risultato del grafo di conoscenza e va interpretato con cautela: potrebbe riflettere artefatti di rete, ad esempio associazioni condivise con nodi di interazioni farmacologiche o di co-medicazione, piuttosto che una reale attività antifungina.
 
-Il punteggio TxGNN straordinariamente elevato (99.88%) quasi certamente riflette un **falso positivo topologico del grafo di conoscenza**: i riceventi di trapianto di cellule staminali ematopoietiche immunosoppressi ricevono Letermovir per la profilassi della CMV mentre simultaneamente presentano rischio elevato di infezioni fungine opportunistiche, inclusa la candidosi. Questa co-occorrenza a livello di paziente crea co-associazione spuria dei nodi nel grafo di conoscenza — un artefatto statistico, non una relazione farmacologica.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenza dai trial clinici
+## Evidenze dalla letteratura
 
-Attualmente non sono registrati trial clinici correlati.
+Attualmente non risulta alcuna letteratura correlata disponibile.
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza dalla letteratura
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 045890023 | PREVYMIS 28x1 cpr rivestite 480 mg | Compresse rivestite | Non disponibile |
+| 045890011 | PREVYMIS 28x1 cpr rivestite 240 mg | Compresse rivestite | Non disponibile |
 
-Attualmente non è disponibile alcuna letteratura correlata.
+Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+I dati su avvertenze e controindicazioni non sono disponibili; si rimanda al foglio illustrativo per le informazioni complete.
 
-Fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+**Interazioni farmacologiche**: dalla ricerca sono emerse 100 interazioni; le principali tra quelle elencate:
 
----
+- **Gravi (Major)**: eliglustat, naloxegol, cisapride
+- **Moderate**: idrocortisone, desametasone, betametasone, triamcinolone, budesonide (anche nasale), pioglitazone, aprepitant, omeprazolo, lansoprazolo, claritromicina, saxagliptin, glimepiride, clorpropamide, acetoexamide, naldemedina, nitisinone
 
-## Conclusioni e passi successivi
+## Conclusione e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Razionale:**
-La predizione TxGNN che collega Letermovir alla candidosi vulvovaginale è valutata come un falso positivo topologico del grafo di conoscenza senza base meccanicistica, senza supporto da trial clinici, e senza evidenza dalla letteratura (Livello di evidenza L5). Perseguire questa indicazione senza alcun razionale biologico non sarebbe un utilizzo responsabile delle risorse di sviluppo.
+**Motivazione:**
+La previsione si fonda solo sul modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico credibile. Letermovir agisce su un bersaglio virale privo di omologhi noti nei funghi, e in Italia le autorizzazioni sono attualmente cancellate.
 
-**Per riconsiderare questa decisione, sarebbe necessario:**
-- Dati in vitro che dimostrino qualsiasi attività di Letermovir contro specie di *Candida*
-- Un'ipotesi meccanicistica credibile che spieghi come l'inibizione della terminasi di CMV potrebbe produrre effetti antifungini
-- Almeno uno studio preclinico (modello animale o studi su cellule) che dimostri l'efficacia in un contesto di infezione fungina
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Dati di attività antifungina in vitro contro *Candida* spp.
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Verifica della compatibilità delle vie di somministrazione (per una candidosi vulvovaginale sarebbe rilevante una via locale)
+- Chiarimento dello stato regolatorio in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

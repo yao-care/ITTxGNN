@@ -2,7 +2,7 @@
 layout: default
 title: Flunisolide
 parent: Prove moderate (L3-L4)
-nav_order: 108
+nav_order: 202
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,79 +29,90 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Flunisolide: Dall'asma/rinite allergica all'eczema atopico
+# Flunisolide: dall'asma alla dermatite atopica (eczema atopico)
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Flunisolide è un corticosteroide inalato (ICS) approvato per il trattamento dell'asma e della rinite allergica.
-Il modello TxGNN prevede che possa essere efficace per l'**eczema atopico**,
-con **nessuna sperimentazione clinica** e **1 pubblicazione** che attualmente supporta questa direzione.
+Il flunisolide è un corticosteroide per via inalatoria/nasale, originariamente impiegato per asma e rinite allergica o vasomotoria. Il modello TxGNN ne prevede una possibile efficacia nell'**eczema atopico**, ma al momento non risultano **studi clinici registrati** e sono disponibili solo **1 pubblicazione osservazionale** indiretta. La previsione si basa quindi essenzialmente sul modello.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originaria | Asma / Rinite allergica (classe ICS, uso approvato) |
-| Indicazione nuova prevista | Eczema atopico |
-| Punteggio di previsione TxGNN | 99.98% |
+|------|------|
+| Indicazione originale | Asma, asma intrinseca, asma allergica, rinite allergica, rinite vasomotoria (derivate dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Eczema atopico |
+| Punteggio di previsione TxGNN | 99,98% |
 | Livello di evidenza | L4 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione è plausibile?
 
-Attualmente i dati dettagliati sul meccanismo d'azione non sono disponibili. Sulla base delle informazioni note, flunisolide è un corticosteroide fluorurato sintetico appartenente alla classe dei corticosteroidi inalati (ICS). Esercita i suoi effetti legandosi ai recettori dei glucocorticoidi, sopprimendo la trascrizione delle citochine pro-infiammatorie, riducendo l'infiltrazione eosinofila e attenuando l'attivazione immunitaria mucosale. La sua efficacia nell'asma e nella rinite allergica è stata ben stabilita attraverso decenni di uso clinico.
+Nei dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il flunisolide è un corticosteroide con attività antinfiammatoria. Questa classe di farmaci è già utilizzata, per via topica o sistemica, nella dermatite atopica.
 
-L'eczema atopico (dermatite atopica) è guidato dalla disregolazione immunitaria mediata da Th2 — lo stesso asse infiammatorio che i corticosteroidi ampiamente sopprimono. Questa sovrapposizione meccanicistica spiega perché i corticosteroidi topici sono lo standard di cura di prima linea per la dermatite atopica, ed è plausibile che la rete neurale grafica TxGNN abbia identificato questa biologia della malattia condivisa come un potenziale collegamento a flunisolide.
+Asma, rinite allergica e dermatite atopica sono malattie atopiche, con infiammazione di tipo Th2 in comune. Ciò rende biologicamente ragionevole un'estensione a livello di classe terapeutica.
 
-Tuttavia, è necessario notare una limitazione critica: flunisolide è formulato esclusivamente come inalatore e spray nasale. L'eczema atopico richiede un'applicazione topica sulla pelle, rendendo il riutilizzo diretto della formulazione esistente non praticabile. Qualsiasi sforzo traslazionale richiederebbe lo sviluppo farmaceutico dedicato di una preparazione topica di flunisolide — un passaggio aggiuntivo sostanziale oltre il riutilizzo standard. La previsione del modello riflette la farmacologia a livello di classe, non la prontezza della formulazione.
-
----
-
-## Evidenza da sperimentazioni cliniche
-
-Attualmente nessuna sperimentazione clinica correlata registrata.
+Il legame resta però **indiretto**: l'unico studio recuperato misura citochine e pH nel condensato dell'aria espirata in bambini con asma e dermatite atopica. È uno studio osservazionale su biomarcatori e non testa il flunisolide nell'eczema. Inoltre, il flunisolide è formulato soprattutto per inalazione e nebulizzazione, e la compatibilità della via di somministrazione con un uso dermatologico non è stata valutata.
 
 ---
 
-## Evidenza da letteratura
+## Evidenze dagli studi clinici
+
+Al momento non risultano studi clinici correlati registrati.
+
+---
+
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|-------------|
-| [18926054](https://pubmed.ncbi.nlm.nih.gov/18926054/) | 2008 | Osservazionale/Biomarcatore | Allergy and Asthma Proceedings | Misurato il condensato di respiro esalato (EBC) pH e le citochine Th1/Th2/Treg nei bambini con asma e dermatite atopica; valutato se il trattamento con corticosteroidi inalati influisce sulle concentrazioni di citochine — fornisce contesto meccanicistico che collega gli effetti dell'ICS all'immunologia dell'AD, ma non studia flunisolide come trattamento per l'AD |
+|------|-----|------|------|---------|
+| [18926054](https://pubmed.ncbi.nlm.nih.gov/18926054/) | 2008 | Coorte | Allergy and Asthma Proceedings | Misura citochine (Th1, Th2, T regolatori) e pH nel condensato dell'aria espirata in bambini con asma e dermatite atopica, valutando l'effetto di un breve ciclo di corticosteroide inalatorio. Studio su biomarcatori, senza dati di efficacia del flunisolide sull'eczema. |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Flunisolide attualmente non detiene autorizzazioni di commercializzazione in Italia. Nessun prodotto è approvato o commercialmente disponibile sul mercato italiano.
+Tutte le 20 autorizzazioni risultano cancellate. Testo dell'indicazione e forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5:
+
+| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 036372035 | NEBULGEN AD soluz. nebul. 30 flaconi 1 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
+| 036364040 | FORBEST BB soluz. nebul. 30 fiale 0,5 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
+| 036321026 | ELIOSID soluz. nebul. 15 fiale 1 mg/2 ml | Soluzione per nebulizzatore | Non riportata |
+| 033339045 | PULMIST BB soluz. nebul. 15 fiale 1 mg/2 ml | Soluzione per nebulizzatore | Non riportata |
+| 036363036 | SAFLINEB AD soluz. nebul. 30 fiale 1 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
 
 ---
 
 ## Considerazioni di sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni (da relazioni del grafo di conoscenza, non da testo di scheda tecnica)**: malattia epatica, malattia della cistifellea, morbillo, cheratite da herpes simplex, insufficienza corticosurrenalica, morbo di Addison, infezione da varicella zoster, infezioni fungine, dermatofitosi, glaucoma, infezioni parassitarie, malattie infettive, malattie delle basse e alte vie respiratorie, malattie dei seni paranasali e della cavità nasale.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni in totale. Quelle di livello moderato includono **claritromicina**, **insulina umana (inalatoria, ad azione rapida)** e **cobicistat**. Per molte altre (ad es. prednisone, desametasone, morfina, omeprazolo, simvastatina, glibenclamide, glipizide) il livello di gravità non è classificato.
+
+Per avvertenze e controindicazioni ufficiali consultare il foglietto illustrativo; i dati AIFA corrispondenti non sono stati reperiti.
 
 ---
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Razionale:**
-L'evidenza per flunisolide nell'eczema atopico è limitata a un singolo studio osservazionale di biomarcatori che non valuta direttamente flunisolide come trattamento; inoltre, la formulazione inalata/spray nasale del farmaco è fondamentalmente incompatibile con la via topica richiesta per l'eczema atopico, creando una barriera farmacologica e normativa che il riutilizzo standard non può superare senza lo sviluppo di una nuova formulazione.
+**Motivazione:**
+Il punteggio del modello è molto alto, ma non esistono studi clinici né evidenze dirette sul flunisolide nell'eczema atopico. Il farmaco non ha inoltre autorizzazioni valide in Italia, e mancano dati di sicurezza ufficiali.
 
-**Per procedere, è necessario quanto segue:**
-- Chiarimento della via di somministrazione target: se è prevista la somministrazione topica, una formulazione topica dedicata (crema/unguento) di flunisolide deve essere sviluppata e testata separatamente
-- Reperimento del foglio illustrativo completo (TFDA/EMA) per valutare le avvertenze di sicurezza, le controindicazioni e i dati di assorbimento sistemico rilevanti per qualsiasi nuova via
-- Dati del meccanismo d'azione da DrugBank per convalidare formalmente il collegamento immunologico ICS–dermatite atopica
-- Almeno uno studio osservazionale controllato o una sperimentazione clinica pilota che valuti specificamente flunisolide (in qualsiasi formulazione) per l'eczema atopico prima di progredire verso stadi decisionali superiori
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) del flunisolide
+- Scheda tecnica AIFA con avvertenze e controindicazioni ufficiali
+- Valutazione della compatibilità della via di somministrazione e della formulazione per l'uso dermatologico
+- Studi clinici o evidenze comparative con i corticosteroidi topici già approvati per la dermatite atopica
+- Verifica della situazione regolatoria (autorizzazioni attualmente tutte cancellate)
 
+**Nota su altre previsioni:** tra le successive previsioni, la **bronchite** (punteggio 99,93%, livello L3) ha un supporto debole, costituito da uno studio clinico del 1981 con disegno poco chiaro. Le altre previsioni (polipi di orecchio, seni paranasali, ecc.) sono basate solo sul modello o su evidenze indirette.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

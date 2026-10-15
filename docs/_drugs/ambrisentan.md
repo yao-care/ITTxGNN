@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ambrisentan
-parent: Solo previsione del modello (L5)
-nav_order: 25
-evidence_level: L5
+parent: Prove elevate (L1-L2)
+nav_order: 36
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,106 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ambrisentan: Valutazione del Riposizionamento del Farmaco
+# Ambrisentan: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a malattia del tessuto connettivo
 
-## Riassunto in una frase
+## Sintesi
 
-Ambrisentan (DrugBank: DB06403) è un antagonista selettivo del recettore dell'endotelina di tipo A (ETA), indicato principalmente per il trattamento dell'ipertensione arteriosa polmonare (IAP). Il modello TxGNN **non ha generato alcuna indicazione nuova prevista** per questo farmaco al momento, e il pacchetto di evidenze contiene importanti lacune nei dati che impediscono una valutazione completa.
+Ambrisentan è un antagonista del recettore dell'endotelina, originariamente usato per l'ipertensione arteriosa polmonare (PAH).
+Il modello TxGNN prevede un possibile beneficio in diverse forme di PAH associate ad altre condizioni. Tra le previsioni ad alto punteggio, quella con le prove più solide è la **PAH associata a malattia del tessuto connettivo (CTD-PAH)**, supportata da **2 studi clinici completati** e **19 pubblicazioni**.
+
+Il primo risultato del modello, la malformazione arterovenosa polmonare (punteggio 99,41%), è invece supportato da un solo case report e non è stato scelto come indicazione principale.
 
 ---
 
-## Panoramica Rapida
+## Panoramica rapida
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Farmaco (DCI) | Ambrisentan |
-| ID DrugBank | DB06403 |
-| Indicazione Originale | Non elencata nel pacchetto di evidenze (uso noto: Ipertensione Arteriosa Polmonare) |
-| Indicazione Nuova Prevista | — Nessuna prevista — |
-| Punteggio di Previsione TxGNN | N/A |
-| Livello di Evidenza | L5 (Nessuna previsione o studi di supporto disponibili) |
-| Stato del Mercato Taiwan | Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Sospensione** |
+| Indicazione originale | Ipertensione arteriosa polmonare |
+| Nuova indicazione prevista | PAH associata a malattia del tessuto connettivo (selezionata tra le prime 10 previsioni per solidità delle prove; prima per punteggio: malformazione arterovenosa polmonare) |
+| Punteggio di previsione TxGNN | 99,30% (CTD-PAH); 99,41% per la malformazione arterovenosa polmonare |
+| Livello di evidenza | L2 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails |
 
 ---
 
 ## Perché questa previsione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non erano disponibili nel pacchetto di evidenze. In base alle informazioni pubblicamente disponibili, Ambrisentan è un antagonista selettivo del recettore dell'endotelina di tipo A (ETA). L'endotelina-1 (ET-1) è un potente vasocostrittore e mitogeno della muscolatura liscia, e bloccando selettivamente il recettore ETA, Ambrisentan promuove la vasodilatazione e riduce la resistenza vascolare polmonare. È approvato in più mercati (ad es., negli Stati Uniti come Letairis®, nell'UE come Volibris®) per l'ipertensione arteriosa polmonare (IAP) di Gruppo WHO 1.
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle conoscenze note, ambrisentan è un antagonista selettivo del recettore dell'endotelina, la cui efficacia nella PAH è documentata, e dal punto di vista meccanicistico può essere applicabile alla CTD-PAH.
 
-Poiché nessuna indicazione prevista è stata generata dal modello TxGNN, non è attualmente disponibile alcuna analisi del collegamento meccanicistico da eseguire. Ciò potrebbe essere dovuto all'assenza del farmaco dal mercato taiwanese e alla limitata rappresentazione nella rete di conoscenza utilizzata dal modello. Ulteriore arricchimento dei dati — inclusi i dettagli sul meccanismo d'azione, i profili di sicurezza completi e la mappatura più ampia delle indicazioni — sarebbe necessario prima che il modello possa generare previsioni praticabili.
+La CTD-PAH, inclusa quella associata a sclerosi sistemica, è un sottotipo di PAH del Gruppo 1. L'antagonismo del recettore dell'endotelina agisce quindi direttamente sulla via patogenetica già bersaglio dell'indicazione originale. Si tratta, più che di un vero riposizionamento, di un'estensione all'interno della stessa classe di indicazione.
 
----
-
-## Evidenze da Studi Clinici
-
-Attualmente nessuna indicazione prevista disponibile — la ricerca di studi clinici non è stata eseguita.
+Altre previsioni ad alto punteggio hanno un supporto più debole: la PAH associata a cardiopatia congenita e quella associata a HIV hanno solo prove indirette (L4), mentre le forme associate ad anemia emolitica cronica e a schistosomiasi non hanno prove (L5). Previsioni come ipertricosi, ipotricosi del cuoio capelluto, sindromi con componente odontale e sindrome di Dandy-Walker non hanno alcun legame meccanicistico plausibile con l'antagonismo dell'endotelina.
 
 ---
 
-## Evidenze dalla Letteratura
+## Evidenze da studi clinici
 
-Attualmente nessuna indicazione prevista disponibile — la ricerca della letteratura non è stata eseguita.
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT02290613](https://clinicaltrials.gov/study/NCT02290613) | Fase 2 | Completato | 38 | Trattamento precoce della PAH borderline associata a sclerosi sistemica (EDITA); studio randomizzato, in doppio cieco, controllato con placebo, proof-of-concept |
+| [NCT01042158](https://clinicaltrials.gov/study/NCT01042158) | Fase 4 | Completato | 25 | Ambrisentan più tadalafil in PAH associata a sclerodermia; studio in aperto a braccio singolo di 36 settimane (distanza al test del cammino di 6 minuti, classe NYHA, emodinamica) |
+
+Nota: nessuno dei due studi è un RCT di Fase 3 e i campioni sono ridotti.
 
 ---
 
-## Informazioni sul Mercato Taiwan
+## Evidenze dalla letteratura
 
-Ambrisentan **non è attualmente commercializzato a Taiwan** (Non commercializzato). Nessuna autorizzazione TFDA è stata trovata.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [38378970](https://pubmed.ncbi.nlm.nih.gov/38378970/) | 2024 | Revisione sistematica e meta-analisi | Intern Emerg Med | Trattamento della PAH nelle malattie del tessuto connettivo, basato su RCT |
+| [23906950](https://pubmed.ncbi.nlm.nih.gov/23906950/) | 2013 | Meta-analisi | BMJ Open | Meta-analisi di studi clinici sulla PAH associata a CTD |
+| [32161055](https://pubmed.ncbi.nlm.nih.gov/32161055/) | 2020 | Analisi post hoc (AMBITION) | Ann Rheum Dis | Terapia di combinazione iniziale ambrisentan + tadalafil in CTD-PAH rispetto alla monoterapia |
+| [28039187](https://pubmed.ncbi.nlm.nih.gov/28039187/) | 2017 | Analisi di sottogruppo (AMBITION) | Ann Rheum Dis | Combinazione iniziale ambrisentan + tadalafil in CTD-PAH |
+| [27492539](https://pubmed.ncbi.nlm.nih.gov/27492539/) | 2016 | Analisi di sottogruppo (ARIES-E) | Respir Med | Efficacia e sicurezza a 3 anni di ambrisentan in CTD-PAH |
+| [26360334](https://pubmed.ncbi.nlm.nih.gov/26360334/) | 2015 | Studio clinico | Am J Respir Crit Care Med | Terapia di combinazione up-front ambrisentan + tadalafil nella PAH da sclerodermia |
+| [28425346](https://pubmed.ncbi.nlm.nih.gov/28425346/) | 2017 | Revisione | Ther Adv Respir Dis | Profilo di ambrisentan nella PAH, incluso l'uso in CTD-PAH |
+| [37765060](https://pubmed.ncbi.nlm.nih.gov/37765060/) | 2023 | Revisione | Pharmaceuticals (Basel) | Progressi recenti nel trattamento della PAH associata a CTD |
+| [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Revisione | Drugs | Trattamento della PAH nelle malattie del tessuto connettivo |
+| [24787237](https://pubmed.ncbi.nlm.nih.gov/24787237/) | 2014 | Studio di coorte retrospettivo | Ther Adv Respir Dis | Uso clinico e tollerabilità di ambrisentan in un centro di riferimento |
 
-| Numero di Autorizzazione | Nome del Prodotto | Forma Farmaceutica | Indicazione Approvata |
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| — | — | — | Nessuna autorizzazione registrata |
+| 048081018 | Ambrisentan 5 mg, 30 compresse rivestite (Viatris) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 049229040 | Ambrisentan 5 mg, 30x1 compresse rivestite (Zentiva) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 046559023 | Ambrisentan 5 mg, 30 compresse rivestite (Medac Pharma) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 038528042 | Volibris 10 mg, 30 compresse rivestite (GlaxoSmithKline) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048211027 | Ambrisentan 5 mg, 30 compresse rivestite (Accord Healthcare) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+
+Sono presenti 11 autorizzazioni in totale, tutte cancellate; qui ne sono elencate 5.
 
 ---
 
-## Considerazioni di Sicurezza
+## Considerazioni sulla sicurezza
 
-> Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
->
-> Nota: Nel pacchetto di evidenze non erano disponibili avvertenze dal foglio illustrativo TFDA, controindicazioni o dati sulle interazioni farmacologiche. Per riferimento, i problemi di sicurezza noti a livello internazionale per Ambrisentan includono:
-> - **Rischio di epatotossicità** (richiede il monitoraggio della funzionalità epatica)
-> - **Teratogenicità** (Categoria di Gravidanza X — controindicato rigorosamente in gravidanza; richiede test di gravidanza e contraccezione nelle donne in età fertile)
-> - **Ritenzione di liquidi e edema periferico**
-> - **Diminuzione dell'emoglobina / ematocrito**
->
-> I prescrittori devono consultare l'etichettatura approvata del prodotto nella giurisdizione pertinente (ad es., foglio illustrativo FDA Letairis® negli USA, SmPC Volibris® dell'EMA).
+- **Controindicazioni (da relazioni farmaco-malattia della base di conoscenza, non dal foglio illustrativo)**: insufficienza cardiaca congestizia, anemia, anemia macrocitica, malattia veno-occlusiva polmonare.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Quelle di livello moderato includono canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, eliglustat e naltrexone. Quelle di livello minore includono claritromicina, miconazolo e omeprazolo.
+- **Altri aspetti** (dalla valutazione della previsione CTD-PAH): tossicità embrio-fetale (necessari controlli di tipo REMS), monitoraggio epatico ed edema periferico.
+
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, non disponibile nei dati compilati.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Conclusione e prossimi passi
 
-**Decisione: Sospensione**
+**Decisione: Proceed with Guardrails**
 
-**Razionale:**
-Il modello TxGNN non ha generato alcuna indicazione nuova prevista per Ambrisentan. Inoltre, il farmaco non è commercializzato a Taiwan e il pacchetto di evidenze ha lacune critiche nei dati (meccanismo d'azione, avvertenze di sicurezza, controindicazioni). Senza una indicazione prevista, nessuna valutazione del riposizionamento può procedere.
+**Motivazione:**
+Per la CTD-PAH esistono due studi clinici completati (Fase 2 e Fase 4), meta-analisi e analisi di sottogruppo di studi pivotali (AMBITION, ARIES-E), ma nessun RCT di Fase 3 dedicato, quindi il livello è L2. Poiché la CTD-PAH rientra nella classe PAH già trattata, il rischio di riposizionamento è contenuto; le altre previsioni (L4-L5) restano in attesa (Hold) o come domande di ricerca.
 
-**Per procedere, è necessario quanto segue:**
-
-1. **Risolvere la Lacuna Critica nei Dati (DG001):** Ottenere le avvertenze del foglio illustrativo TFDA e le controindicazioni (o etichettatura internazionale equivalente) per consentire lo screening di sicurezza di Fase 1.
-2. **Risolvere la Lacuna ad Alta Priorità nei Dati (DG002):** Recuperare i dati dettagliati del meccanismo d'azione dall'API di DrugBank per supportare l'analisi del collegamento meccanicistico.
-3. **Arricchimento della Rete di Conoscenza:** Assicurare che Ambrisentan e la sua classe di antagonisti del recettore dell'endotelina siano adeguatamente rappresentati nella rete di conoscenza TxGNN, quindi rieseguire le previsioni.
-4. **Rivalutazione:** Una volta colmate le lacune nei dati e disponibili le previsioni, rigenerare il pacchetto di evidenze e rivalutare.
-
----
-
-*Rapporto generato: 2026-04-03 | Versione del pacchetto di evidenze: v4 | ID del Candidato: TW-DB06403-multi*
-
-*⚠️ Questo rapporto è solo per scopi di ricerca e non costituisce consulenza medica. Qualsiasi candidato di riposizionamento del farmaco richiede validazione clinica prima dell'applicazione.*
-
+**Per procedere occorre:**
+- Verificare la disponibilità del prodotto, poiché tutte le autorizzazioni italiane risultano cancellate
+- Ottenere il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
+- Integrare i dati sul meccanismo d'azione da DrugBank
+- Definire un piano di controllo della gravidanza (tossicità embrio-fetale) e di monitoraggio epatico e dell'edema
+- Valutare la conferma con studi di dimensioni maggiori o RCT di Fase 3 in CTD-PAH
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

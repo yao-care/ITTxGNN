@@ -2,7 +2,7 @@
 layout: default
 title: Simoctocog Alfa
 parent: Solo previsione del modello (L5)
-nav_order: 186
+nav_order: 404
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,83 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Simoctocog Alfa: Dall'Emofilia A alla Pseudo-Malattia di von Willebrand
+# Simoctocog alfa: dall'emofilia alla pseudo-malattia di von Willebrand
 
-## Riassunto in Una Frase
+## Sintesi in una frase
 
-Simoctocog alfa (Nuwiq) è un prodotto ricombinante umano di Fattore VIII di 4ª generazione (rFVIII), approvato per la prevenzione e il trattamento degli episodi emorragici nei pazienti con Emofilia A.
-Il modello TxGNN prevede che possa essere efficace nella **pseudo-malattia di von Willebrand**,
-tuttavia attualmente vi sono **0 studi clinici** e **0 pubblicazioni** che supportano direttamente questa applicazione — rendendo questa una previsione basata esclusivamente su modello con razionale meccanicistico debole.
+Simoctocog alfa è un fattore VIII della coagulazione ricombinante umano (con delezione del dominio B), usato originariamente per il trattamento dell'emofilia.
+Il modello TxGNN ne prevede una possibile efficacia nella **pseudo-malattia di von Willebrand**, ma al momento **non sono presenti sperimentazioni cliniche né pubblicazioni** a sostegno di questa ipotesi: la previsione si basa solo sul modello.
 
----
-
-## Panoramica Rapida
+## Quadro di sintesi
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione Originaria | Emofilia A (prevenzione e trattamento degli episodi emorragici) |
-| Indicazione Nuova Prevista | Pseudo-Malattia di von Willebrand |
-| Punteggio di Previsione TxGNN | 99.997% |
-| Livello di Evidenza | L5 |
-| Stato del Mercato Italiano | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | In sospeso |
+|------|------|
+| Indicazione originale | Emofilia (incluso il quadro sintomatico dell'emofilia nelle donne portatrici) |
+| Nuova indicazione prevista | Pseudo-malattia di von Willebrand |
+| Punteggio di previsione TxGNN | 99,997% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché Questa Previsione è Ragionevole?
+Simoctocog alfa è un fattore VIII ricombinante con delezione del dominio B, che sostituisce l'attività del FVIII carente. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione, ma la funzione di sostituzione del FVIII è quella nota per questa classe di farmaci.
 
-Simoctocog alfa è un prodotto ricombinante umano di Fattore VIII di 4ª generazione con dominio B eliminato. Nella via della coagulazione intrinseca, il FVIII funge da cofattore per il Fattore IXa nel complesso della Tenasi, che attiva il Fattore X e infine guida la generazione della trombina. Nel flusso sanguigno, il FVIII circola legato al Fattore di von Willebrand (vWF), che funge da proteina portatrice e lo protegge dalla degradazione proteolitica prematura. La sostituzione del FVIII deficiente è la pietra angolare della gestione dell'Emofilia A, e simoctocog alfa svolge questa funzione ripristinando direttamente la cascata della coagulazione intrinseca.
+Il legame con la nuova indicazione è però debole. La pseudo-malattia di von Willebrand (tipo piastrinico) è causata da un difetto di guadagno di funzione della glicoproteina piastrinica GPIbα, che aumenta il legame con il fattore di von Willebrand (VWF). Ne derivano perdita dei multimeri VWF ad alto peso molecolare e trombocitopenia. Il difetto primario riguarda l'interazione piastrine/VWF e non la carenza di FVIII; la sostituzione di FVIII ha quindi solo un razionale indiretto (è possibile una riduzione secondaria di FVIII).
 
-La pseudo-malattia di von Willebrand (vWD di tipo piastrinico) è un disturbo distinto causato da una mutazione gain-of-function nel GPIbα piastrinico, che porta al legame spontaneo delle piastrine al vWF e al consumo dei multimeri del vWF ad alto peso molecolare. Poiché il vWF è il portatore del FVIII, una riduzione secondaria del FVIII è teoricamente possibile nei casi gravi — e questo collegamento strutturale vWF–FVIII è probabilmente il motivo per cui TxGNN posiziona simoctocog alfa vicino alla pseudo-vWD nel grafo della conoscenza. Tuttavia, l'obiettivo di trattamento primario per la pseudo-vWD è la **sostituzione del vWF** (utilizzando concentrati contenenti vWF) o DDAVP a bassa dose, non l'integrazione isolata del FVIII. Il collegamento meccanicistico è indiretto e clinicamente fragile.
+Il punteggio elevato riflette la prossimità nella rete di conoscenza (grafo) tra malattie emorragiche, non prove cliniche.
 
-È importante notare che tutte le 10 indicazioni previste da TxGNN per questo farmaco sono disturbi emorragici o piastrinici — che vanno dalla trombastenia di Glanzmann alla porpora trombotica trombocitopenica — nessuna delle quali ha prove di supporto. Questo modello suggerisce fortemente una **distorsione topologica del grafo della conoscenza**: TxGNN sta raggruppando simoctocog alfa con nodi di disturbi emorragici vicini in base alla prossimità malattia-malattia, piuttosto che identificare una vera relazione farmacologica. I punteggi di previsione alti da soli non indicano validità clinica quando il razionale meccanicistico è assente o contraddetto dalla letteratura esistente.
+### Altre indicazioni previste (valutazione sintetica)
 
----
+| Rango | Malattia prevista | Punteggio TxGNN | Livello | Plausibilità meccanicistica |
+|---|---|---|---|---|
+| 2 | Disturbo da difetto di rilascio piastrinico | 99,997% | L5 | Non supportata: il difetto è piastrinico intrinseco |
+| 3 | Trombastenia di Glanzmann | 99,995% | L5 | Nessun ruolo chiaro: fattori della coagulazione normali; trattamenti standard piastrine e rFVIIa |
+| 4 | Sindrome di Scott | 99,969% | L5 | Speculativa: il FVIII è cofattore del complesso tenasi, ma manca la superficie fosfolipidica |
+| 5 | Carenza acquisita di fattori della coagulazione | 99,952% | L5 | La più plausibile (es. emofilia A acquisita), ma gli autoanticorpi inibitori spesso rendono inefficace la sostituzione |
+| 6 | Diatesi emorragica da difetto del recettore del collagene | 99,921% | L5 | Nessun razionale diretto: patologia piastrinica |
+| 7 | Disturbo emorragico da trombocitopenia costituzionale | 99,917% | L5 | Non supportata: il fattore limitante è la piastrina |
+| 8 | Trombocitopenia alloimmune fetale e neonatale | 99,845% | L5 | Nessun ruolo meccanicistico: processo immunitario |
+| 9 | Emofilia A con anomalia vascolare | 99,779% | L4 | Evidenza solo indiretta; sovrapposta all'indicazione già esistente, non una vera opportunità di riposizionamento |
+| 10 | Porpora trombotica trombocitopenica | 99,724% | L5 | Non supportata; possibile preoccupazione di sicurezza (stato protrombotico) |
 
-## Evidenza da Studi Clinici
+## Evidenza da sperimentazioni cliniche
 
-Attualmente non ci sono studi clinici correlati registrati.
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
----
-
-## Evidenza dalla Letteratura
+## Evidenza dalla letteratura
 
 Attualmente non è disponibile letteratura correlata.
 
----
+## Informazioni sul mercato italiano
 
-## Considerazioni di Sicurezza
+Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate. Il testo dell'indicazione approvata non è disponibile.
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+| Numero di autorizzazione | Nome del prodotto | Stato |
+|---------|------|------|
+| 043534080 | NUWIQ 1.500 UI + siringa solvente 2,5 ml + accessori | Cancellata |
+| 043534066 | NUWIQ 3.000 UI + siringa solvente 2,5 ml + accessori | Cancellata |
+| 043534054 | NUWIQ 2.500 UI + siringa solvente 2,5 ml + accessori | Cancellata |
+| 043534041 | NUWIQ 2.000 UI + siringa solvente 2,5 ml | Cancellata |
+| 043534039 | NUWIQ 1.000 UI + siringa solvente 2,5 ml | Cancellata |
 
----
+## Considerazioni sulla sicurezza
 
-## Conclusione e Prossimi Passi
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non risultano interazioni farmacologiche né controindicazioni derivate dal grafo di conoscenza. Per la porpora trombotica trombocitopenica, la sostituzione di FVIII potrebbe teoricamente aggravare lo stato protrombotico.
 
-**Decisione: In sospeso**
+## Conclusione e prossimi passi
 
-**Razionale:**
-Tutte le 10 indicazioni previste da TxGNN hanno un livello di evidenza L5 (previsione basata solo su modello), con zero studi clinici di supporto o pubblicazioni identificate per qualsiasi indicazione. La previsione principale — pseudo-malattia di von Willebrand — ha un collegamento meccanicistico così debole che il trattamento con il FVIII isolato potrebbe essere considerato off-target; l'intervento corretto per la pseudo-vWD è la sostituzione con prodotto contenente vWF. I punteggi elevati di TxGNN in tutto un cluster di disturbi emorragici sono coerenti con un artefatto topologico del grafo della conoscenza piuttosto che con un segnale di repurposing utilizzabile.
+**Decisione: Hold**
 
-**Per procedere, è necessario quanto segue:**
+**Motivazione:**
+La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto clinico o bibliografico (L5) e il meccanismo (difetto piastrinico/VWF) non è corretto dalla sostituzione di FVIII. Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia.
 
-- **Dati di sicurezza**: Ottenere il foglio illustrativo completo (TFDA o EMA/AIFA) per completare la valutazione avvertenze e controindicazioni — attualmente una lacuna critica nei dati
-- **Verifica dello stato del mercato italiano/EMA**: Simoctocog alfa (Nuwiq) detiene l'approvazione EMA per l'Emofilia A; re-interrogare i registri di registrazione AIFA poiché lo stato attuale "Non Commercializzato" potrebbe essere incompleto
-- **Approfondimento meccanicistico**: Condurre una revisione mirata della letteratura sull'uso di rFVIII negli stati di deficienza di FVIII secondaria (ad es. pseudo-vWD, sindrome da acquisizione vWF) per determinare se esista qualche evidenza a livello di caso
-- **Revisione da esperti**: Consultare un ematologo specializzato in disturbi emorragici rari prima di avanzare una qualsiasi delle 10 indicazioni previste oltre lo stato L5
-- **Investigazione distorsione KG**: Valutare se il cluster di disturbi emorragici nel grafo della conoscenza TxGNN richieda correzioni a livello topologico per ridurre i falsi positivi per i farmaci della classe FVIII
-
+**Per procedere sarebbe necessario:**
+- Recuperare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
+- Ottenere i dati sul meccanismo d'azione da DrugBank
+- Valutare in via prioritaria le indicazioni più plausibili, in particolare la carenza acquisita di fattori della coagulazione (emofilia A acquisita), con una revisione della letteratura sul ruolo del FVIII sostitutivo in presenza di inibitori
+- Chiarire la disponibilità commerciale del prodotto (autorizzazioni cancellate) o individuare formulazioni alternative di FVIII ricombinante
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Midazolam
-parent: Prove elevate (L1-L2)
-nav_order: 147
-evidence_level: L2
+parent: Prove moderate (L3-L4)
+nav_order: 301
+evidence_level: L3
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **1** 
+Livello di evidenza: **L3** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,84 @@ Livello di evidenza: **L2** | Indicazioni previste: **1**
 
 </div>
 
-# Midazolam: dalla sedazione procedurale all'insonnia
+# Midazolam: Dall'ansia all'insonnia
 
-## Sintesi in una frase
+## Sintesi
 
-Il midazolam è un benzodiazepinico a breve durata d'azione ampiamente utilizzato nella pratica clinica per la sedazione procedurale, l'induzione dell'anestesia e la sedazione in terapia intensiva.
-Il modello TxGNN prevede che potrebbe essere efficace per l'**insonnia**, con una confidenza di previsione del **99.74%**.
-La base di prove include **4 RCT pubblicati** (1981–1990) che studiano direttamente il midazolam per i disturbi del sonno, insieme a diversi trial di sedazione comparativi, che producono un livello di prove complessivo di **L2**.
+Il midazolam è una benzodiazepina ad azione breve, originariamente associata al trattamento dell'ansia.
+Il modello TxGNN prevede che possa essere efficace per l'**insonnia**,
+con **2 studi clinici** (entrambi solo indirettamente pertinenti) e **10 pubblicazioni** reperite, di cui solo alcune studi clinici storici (1981-1990) sul midazolam orale nell'insonnia cronica.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione originale | Sedazione procedurale / Induzione dell'anestesia (uso clinico consolidato; nessuna autorizzazione italiana in archivio) |
+|------|------|
+| Indicazione originale | Ansia (secondo gli archi di indicazione del knowledge graph; il testo delle indicazioni approvate AIFA non è disponibile) |
 | Nuova indicazione prevista | Insonnia |
-| Punteggio di previsione TxGNN | 99.74% |
-| Livello di prove | L2 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendi |
+| Punteggio di predizione TxGNN | 99,74% |
+| Livello di evidenza | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è ragionevole?
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze note, il midazolam è una benzodiazepina che potenzia l'attività del recettore GABA-A (modulazione allosterica positiva), con effetti sedativo-ipnotici. Si tratta di un meccanismo plausibile e coerente con il trattamento dell'insonnia.
 
-Il midazolam è un benzodiazepinico a breve durata d'azione che agisce come un **modulatore allosterico positivo del recettore GABA-A**, potenziando la neurotrasmissione GABAergica inibitoria nel SNC. Questo meccanismo accorcia la latenza d'inizio del sonno e prolunga il sonno NREM — lo stesso percorso sfruttato dai sonniferi benzodiazepinici approvati come il triazolam e il temazepam. Il punteggio TxGNN del 99.74% è quindi ben fondato da un punto di vista meccanicistico: il midazolam condivide la sua classe farmacologica con farmaci già sul mercato per l'insonnia.
+L'ansia e l'insonnia condividono una componente di iperattivazione (*hyperarousal*) del sistema nervoso centrale, sulla quale le benzodiazepine agiscono. Studi clinici storici, condotti tra il 1981 e il 1990, hanno valutato direttamente il midazolam orale in pazienti con insonnia: uno studio di definizione della dose, un confronto con flurazepam per 14 giorni e uno studio multicentrico.
 
-Da un punto di vista di correlazione indicativa, la sedazione procedurale e l'insonnia coinvolgono entrambe lo stesso bersaglio molecolare (upregolazione del recettore GABA-A) e lo stesso obiettivo a valle (riduzione della veglia). Gli RCT pubblicati degli anni '80 e inizio '90 hanno testato esplicitamente il midazolam orale (10–30 mg) come ipnotico in pazienti con insonnia e hanno confermato l'efficacia, convalidando ulteriormente la previsione del modello.
+Vi sono però limiti importanti: si tratta di studi datati e di piccole dimensioni, con rigore metodologico limitato rispetto agli standard attuali. L'emivita breve del midazolam può ridurre la sedazione residua il giorno successivo, ma può anche limitare il mantenimento del sonno. Restano inoltre i rischi di tolleranza, dipendenza e insonnia da rimbalzo. Nuovi farmaci (Z-drugs, antagonisti dell'orexina come lemborexant) hanno in gran parte sostituito le benzodiazepine in questo ambito.
 
-Il limite critico, tuttavia, è **farmacocinetico**: il midazolam ha un'emivita di eliminazione di soli circa 1.5–2.5 ore. Ciò consente un'affidabile induzione del sonno ma fornisce una scarsa copertura del mantenimento del sonno, e l'eliminazione rapida può causare ansia da rimbalzo o risveglio precoce mattutino. Questa proprietà — non alcuna lacuna meccanicistica — spiega perché il midazolam non è stato sviluppato come sonnifero standard, ed è la ragione principale per cui la raccomandazione rimane **Sospendi** in attesa di dati provenienti da trial moderni.
+## Evidenze dagli studi clinici
 
----
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fase 4 | Completato | 111 | Qualità del sonno postoperatorio con sedazione con dexmedetomidina vs midazolam in resezione prostatica transuretrale (TURP); il midazolam è comparatore, evidenza solo indiretta |
+| [NCT00886314](https://clinicaltrials.gov/study/NCT00886314) | Non applicabile | Sconosciuto | 80 | Clown doctor vs premedicazione sedativa per l'ansia preoperatoria nei bambini; non pertinente all'insonnia |
 
-## Prove cliniche da trial
+## Evidenze dalla letteratura
 
-| Numero trial | Fase | Stato | Iscritti | Risultati chiave |
-|-------------|-------|--------|-----------|-------------|
-| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fase 4 | Completato | 111 | RCT diretto che confronta dexmedetomidina vs midazolam combinato con anestesia spinale sulla **qualità del sonno postoperatorio** in pazienti TURP — il trial più direttamente rilevante in questo set di dati |
-| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | Fase NA | In reclutamento | 280 | RCT prospettico di **midazolam orale preoperatorio** in pazienti con cancro colorettale con disturbi del sonno o ansia; l'endpoint primario include il miglioramento della qualità del sonno e il dolore postoperatorio |
-| [NCT04082767](https://clinicaltrials.gov/study/NCT04082767) | Fase 3 | Sconosciuto | 120 | Dexmedetomidina vs midazolam per sedazione in pazienti pediatrici criticamente malati; fornisce dati comparativi di Fase 3 sul continuum sedazione-sonno del midazolam |
-| [NCT05606315](https://clinicaltrials.gov/study/NCT05606315) | Fase 4 | Sconosciuto | 285 | Remimazolam besilato (un derivato benzodiazepinico della classe del midazolam) vs midazolam per sedazione in terapia intensiva; fornisce prove a livello di classe di Fase 4 |
-| [NCT01050699](https://clinicaltrials.gov/study/NCT01050699) | Fase 4 | Completato | 90 | Dexmedetomidina vs sedazione con agonista GABA (midazolam) sul sonno e l'infiammazione in pazienti con ALI/ARDS; risultati polisonnografici di Fase 4 |
-| [NCT01966315](https://clinicaltrials.gov/study/NCT01966315) | N/A | Terminato | 5 | Polisonnografia di 24 ore che confronta dexmedetomidina vs qualità del sonno con midazolam in pazienti in terapia intensiva; terminato anticipatamente (n=5), valore di prove minimo |
-| [NCT00826553](https://clinicaltrials.gov/study/NCT00826553) | Fase 1 | Terminato | 6 | Confronto polisonnografico di agonista α₂ vs agonista GABA (classe del midazolam) sugli stadi del sonno; terminato anticipatamente con campione molto piccolo |
-| [NCT04879771](https://clinicaltrials.gov/study/NCT04879771) | N/A | Sconosciuto | 100 | Confronto di endoscopia gastrointestinale sedato mattina vs pomeriggio (midazolam utilizzato) sulla qualità del sonno postoperatorio |
-| [NCT01791296](https://clinicaltrials.gov/study/NCT01791296) | Fase 4 | Completato | 100 | Protocollo di sonno notturno con dexmedetomidina vs cure standard (baseline benzodiazepinico/midazolam) in terapia intensiva; misura delirio e risultati del sonno |
-| [NCT05466279](https://clinicaltrials.gov/study/NCT05466279) | N/A | Completato | 131 | Anestesia generale con remimazolam vs propofol + controllo midazolam; include risultati di qualità del sonno in pazienti sottoposti a chirurgia oncologica |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | Studio clinico randomizzato in doppio cieco | J Clin Psychopharmacol | Sonno, prestazioni e livelli plasmatici in insonni cronici durante 14 giorni di flurazepam o midazolam |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | Studio multicentrico | J Clin Psychopharmacol | Sintesi esecutiva dello studio multicentrico su flurazepam e midazolam in insonni cronici |
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | Studio clinico in doppio cieco | Br J Clin Pharmacol | Midazolam 15 mg vs Vesparax in 30 pazienti con insonnia secondaria a malattia neuromuscolare; entrambi efficaci, midazolam meglio tollerato e senza effetti da postumi |
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Studio clinico (definizione della dose) | Arzneimittel-Forschung | Midazolam orale 10-30 mg in 75 pazienti ospedalizzati con insonnia da lieve a moderata |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Revisione | Acta Psychiatr Scand Suppl | Uso clinico degli ipnotici e necessità di una varietà di farmaci con diversi profili farmacocinetici |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Revisione | Orv Hetil | Insonnia e ipoperfusione cerebrale; non specifica per il midazolam |
 
----
+## Informazioni sul mercato italiano
 
-## Prove dalla letteratura
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 042021028 | BUCCOLAM 4 siringhe soluz. mucosa orale 5 mg/1 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
+| 042021030 | BUCCOLAM 4 siringhe soluz. mucosa orale 7,5 mg/1,5 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
+| 042021042 | BUCCOLAM 4 siringhe soluz. mucosa orale 10 mg/2 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
+| 042021016 | BUCCOLAM 4 siringhe soluz. mucosa orale 2,5 mg/0,5 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
 
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|-------------|
-| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | RCT Fase 2 (Studio di titolazione della dose) | Arzneimittel-Forschung | Midazolam orale 10–30 mg in 75 pazienti ospedalizzati con insonnia; ha stabilito l'intervallo di dose ottimale per l'efficacia sonno-sedazione |
-| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Prova controllata con placebo in doppio cieco di midazolam 15 mg vs Vesparax in 30 pazienti con insonnia; midazolam efficace e meglio tollerato senza hangover |
-| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT Multicentrico (14 giorni) | Journal of Clinical Psychopharmacology | Introduzione a uno studio multicentrico di grandi dimensioni che esamina il sonno, le prestazioni e i livelli plasmatici in insonni cronici trattati con flurazepam vs midazolam per 14 giorni |
-| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT Multicentrico (14 giorni) | Journal of Clinical Psychopharmacology | Riassunto esecutivo dello studio multicentrico di cui sopra; conferma l'efficacia del midazolam nell'insonnia cronica con valutazione degli effetti sulla prestazione e l'umore |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Revisione clinica | Acta Psychiatrica Scandinavica (Suppl.) | Revisione dei sonniferi benzodiazepinici per sottotipi di insonnia; discute il midazolam tra gli agenti disponibili con profili farmacocianetici e clinici comparativi |
-| [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | Osservazionale / Pilota | Journal of Clinical Medicine | Studio pilota che confronta lemborexant con benzodiazepinici (inclusa la classe del midazolam) per l'insonnia in pazienti ad alto rischio sottoposti a endoscopia; è stato evidenziato il rischio di delirio indotto da benzodiazepinici |
-| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Revisione / Serie di casi | Orvosi Hetilap | Revisione sulla patogenesi dell'insonnia e l'ipoperfusione cerebrale; contestualizza i bersagli farmacologici inclusi gli agenti GABAergici |
-
----
+Tutte le autorizzazioni sono intestate a Neuraxpharm Pharmaceuticals S.L. e risultano cancellate.
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni derivate dal knowledge graph** (non dal foglietto illustrativo): broncopneumopatia cronica ostruttiva (anche grave a esordio precoce), cirrosi epatica, glaucoma ad angolo chiuso, malattia renale cronica, insufficienza renale cronica e insufficienza renale terminale.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Tra quelle di livello moderato figurano ranitidina, bupropione, aprepitant, morfina, omeprazolo, cimetidina, claritromicina, dronabinolo, metoclopramide, miconazolo e clotrimazolo. Di livello lieve: desametasone, betametasone, ossido di magnesio, idrossido di alluminio e carbonato di calcio. In particolare, gli inibitori e gli induttori del CYP3A4 complicano un uso cronico sicuro come ipnotico.
+- Rischi generali della classe: tolleranza, dipendenza, insonnia da rimbalzo.
 
-> **Nota:** I dati su avvertenze chiave, controindicazioni e interazioni farmaco-farmaco non erano disponibili in questo Evidence Pack. Data la classe benzodiazepinica del midazolam, i clinici dovrebbero essere consapevoli dei rischi generali della classe inclusi dipendenza, tolleranza, sindrome di astinenza, insonnia da rimbalzo, depressione del SNC/respiratoria e interazioni con altri depressori del SNC — tutti questi fattori devono essere verificati dalle etichette approvate correnti prima di qualsiasi decisione di riposizionamento.
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo AIFA, che non è risultato disponibile per questo report.
 
----
+## Conclusione e prossimi passi
 
-## Conclusione e fasi successive
+**Decisione: Hold**
 
-**Decisione: Sospendi**
+**Motivazione:**
+Il meccanismo è plausibile e esistono studi clinici storici sul midazolam orale nell'insonnia, ma sono datati, di piccole dimensioni e non confermati da evidenze moderne. Le autorizzazioni italiane sono tutte cancellate, il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.
 
-**Razionale:**
-Sebbene il collegamento meccanicistico sia chiaro e gli RCT storici confermino l'efficacia ipnotica, le prove di supporto hanno più di 30 anni e non soddisfano gli standard moderni dei trial per l'insonnia (polisonnografia, Insomnia Severity Index, endpoint WASO). Il midazolam non ha attualmente un'autorizzazione al commercio italiana, e nessun RCT moderno di Fase 3 per un'indicazione di insonnia è registrato o completato. Il profilo farmacocinetico (T½ breve) solleva anche domande sull'adeguatezza del mantenimento del sonno che non sono state affrontate da studi contemporanei.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Conferma MOA e PK**: Recuperare i dati completi di DrugBank per documentare formalmente il meccanismo GABA-A e le implicazioni dell'emivita per il mantenimento del sonno vs. l'inizio del sonno
-- **Prove cliniche moderne**: Sarebbe necessario un trial randomizzato controllato contemporaneo utilizzando endpoint di insonnia accettati (ISI, PSG, efficienza del sonno, WASO) per effettuare l'upgrade a L1
-- **Percorso normativo italiano**: Valutare i requisiti AIFA per una nuova indicazione senza un'autorizzazione nazionale esistente; considerare se sia fattibile una nuova MAA o un'estensione dell'etichetta
-- **Revisione della sicurezza specifica per i benzodiazepinici**: Documentare formalmente il potenziale di dipendenza, lo sviluppo della tolleranza, l'insonnia da rimbalzo, la sindrome di astinenza e il rischio di depressione respiratoria — particolarmente rilevante per la gestione dell'insonnia cronica
-- **Posizionamento comparativo**: Valutare se il midazolam offre vantaggi rispetto ai sonniferi benzodiazepinici a breve durata d'azione già approvati (ad es. triazolam) dato il meccanismo e la farmacocinetica quasi identici
-
+**Per procedere è necessario:**
+- Acquisire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
+- Ottenere i dati sul meccanismo d'azione da DrugBank
+- Valutare la compatibilità di vie di somministrazione e formulazioni (le formulazioni italiane cancellate sono per mucosa orale, non per uso ipnotico orale)
+- Confrontare il midazolam con gli standard terapeutici attuali (Z-drugs, antagonisti dell'orexina) in termini di efficacia e sicurezza
+- Definire un piano di gestione delle interazioni, in particolare con i farmaci che agiscono sul CYP3A4
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

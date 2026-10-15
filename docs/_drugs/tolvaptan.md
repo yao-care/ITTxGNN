@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tolvaptan
-parent: Prove elevate (L1-L2)
-nav_order: 201
-evidence_level: L1
+parent: Solo previsione del modello (L5)
+nav_order: 441
+evidence_level: L5
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,93 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Tolvaptan: dalla malattia renale policistica autosomica dominante alla malattia renale policistica di tipo 3 con malattia epatica policistica
+# Tolvaptan: dalla sindrome da inappropriata secrezione di ADH alla malattia policistica renale 3 (con o senza malattia policistica epatica)
 
-## Sommario in una frase
+## Sintesi
 
-Tolvaptan è un antagonista orale del recettore V2 della vasopressina inizialmente approvato (FDA/EMA) per rallentare il declino della funzione renale negli adulti con malattia renale policistica autosomica dominante (ADPKD) a progressione rapida, sottotipi PKD1/PKD2, sebbene attualmente non possieda un'autorizzazione all'immissione in commercio in Italia.
-Il modello TxGNN prevede che possa essere efficace anche per la **malattia renale policistica di tipo 3 (PKD3) con o senza malattia epatica policistica** — un disturbo della famiglia ADPKD causato da mutazioni di GANAB che condividono lo stesso meccanismo di cistogenesi dipendente da cAMP.
-Questa previsione è supportata da **2 studi clinici di fase 3 randomizzati e controllati pubblicati** e da **18 pubblicazioni aggiuntive** su tolvaptan nell'ADPKD in generale, producendo un livello di evidenza complessivo di **L1**.
+Il tolvaptan è un antagonista selettivo del recettore V2 della vasopressina, originariamente utilizzato per la sindrome da inappropriata secrezione di ADH (SIADH), la sindrome nefrogenica da inappropriata antidiuresi e la malattia policistica renale. Il modello TxGNN prevede che possa essere efficace per la **malattia policistica renale 3 con o senza malattia policistica epatica (PKD3, correlata a GANAB)**. Al momento non risultano **studi clinici registrati** per questa specifica indicazione, ma sono disponibili **20 pubblicazioni**, tra cui studi randomizzati pivotal condotti nella ADPKD (PKD1/PKD2) e una revisione sistematica Cochrane.
 
----
+## Quadro generale
 
-## Panoramica rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Sindrome da inappropriata secrezione di ADH; sindrome nefrogenica da inappropriata antidiuresi; malattia policistica renale (dal grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
+| Nuova indicazione prevista | Malattia policistica renale 3 con o senza malattia policistica epatica |
+| Punteggio di predizione TxGNN | 99,99% |
+| Livello di evidenza | L1 (evidenza ottenuta in popolazioni ADPKD; per PKD3 l'applicabilità è per estensione meccanicistica) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 8 |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Malattia renale policistica autosomica dominante (ADPKD, sottotipi PKD1/PKD2) — approvata da FDA/EMA; non registrata in Italia |
-| Indicazione nuova predetta | Malattia renale policistica di tipo 3 (PKD3) con o senza malattia epatica policistica |
-| Punteggio di predizione TxGNN | 99.99% |
-| Livello di evidenza | L1 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con salvaguardie |
+## Perché questa predizione è ragionevole?
 
----
+Il tolvaptan è un antagonista selettivo del recettore V2 della vasopressina. Nella malattia policistica renale l'aumento della segnalazione dell'AMP ciclico (cAMP) nelle cellule dei tubuli renali favorisce la crescita delle cisti e la secrezione di liquido. Il blocco del recettore V2 riduce il cAMP: è lo stesso meccanismo alla base dell'uso approvato del tolvaptan nella ADPKD.
 
-## Perché questa previsione è ragionevole?
+Il sottotipo PKD3 (correlato a GANAB) condivide con la ADPKD il fenotipo cistico e la fisiopatologia guidata dal cAMP. Per questo l'estensione del trattamento a questa forma è plausibile dal punto di vista meccanicistico.
 
-Tolvaptan blocca selettivamente il recettore V2 della vasopressina (V2R) espresso sulle cellule del tubulo collettore renale. Secondo la fisiologia normale, il legame della vasopressina a V2R attiva la produzione di cAMP via adenilato ciclasi. Nella malattia renale policistica, l'elevato cAMP intracellulare cronico è l'interruttore principale per la proliferazione delle cellule epiteliali cistiche e la secrezione di fluidi — attiva sia i percorsi mTOR che MAPK/ERK che guidano l'allargamento progressivo della ciste e la crescita del volume renale. Bloccando l'antagonismo V2R, tolvaptan interrompe questo segnale e dimostrabilmente rallenta la crescita del volume renale totale (TKV) e il declino del GFR, come stabilito negli studi di fase 3 TEMPO 3:4 e REPRISE.
+Una cautela importante: le evidenze cliniche disponibili derivano da popolazioni ADPKD (PKD1/PKD2) e non da pazienti con malattia associata a GANAB. L'applicabilità è quindi un'estensione per analogia meccanicistica e non è dimostrata direttamente. Inoltre, i dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione originale; la descrizione sopra si basa sulla conoscenza farmacologica generale del tolvaptan.
 
-La malattia renale policistica di tipo 3 (PKD3), causata da mutazioni con perdita di funzione in GANAB (che codifica l'unità alfa della glucosidasi II), interrompe l'elaborazione post-traduzionale delle glicoproteine sia della policistina-1 che della policistina-2. Il fenotipo risultante coincide sostanzialmente con quello dell'ADPKD classica: cistogenesi renale bilaterale progressiva, malattia epatica policistica come manifestazione extrarenale predominante, e — crucialmente — la medesima dipendenza fondamentale dal cAMP elevato per la crescita cistica. Poiché i pazienti con PKD3 portano la medesima base patologica dell'accumulo di cAMP dipendente da V2R sovraattivata, il meccanismo terapeutico di tolvaptan è direttamente applicabile.
+## Evidenze dagli studi clinici
 
-È importante sottolineare che PKD3/GANAB è uno dei loci minori riconosciuti di ADPKD. Il consenso di esperti ERA/ERKNET/PKDI del 2022 (PMID 35134221) e la Linea guida di pratica clinica EASL del 2022 sulle malattie epatiche cistiche (PMID 35728731) classificano questi pazienti nel quadro di gestione dell'ADPKD e supportano l'uso di tolvaptan per i casi a progressione rapida, indipendentemente dal gene causale specifico. L'assenza di studi specifici per PKD3 registrati quindi riflette la rarità di questo genotipo piuttosto che un'incompatibilità meccanicistica.
+Al momento non risultano studi clinici correlati registrati per questa indicazione specifica. Gli studi pivotal TEMPO 3:4 e REPRISE (vedi sotto) sono documentati attraverso le pubblicazioni.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza da studi clinici
-
-Attualmente nessuna sperimentazione clinica relativa a tolvaptan specificamente in PKD3 con o senza malattia epatica policistica è registrata in ClinicalTrials.gov o ICTRP. La base di evidenza esistente deriva interamente da studi ADPKD che hanno arruolato pazienti genotipizzati prevalentemente come PKD1 o PKD2, all'interno dei quali i pazienti con PKD3 rappresentano un sottogruppo numericamente piccolo ma meccanicamente analogo.
-
----
-
-## Evidenza dalla letteratura
-
-| PMID | Anno | Tipo | Giornale | Principali risultati |
-|------|------|------|----------|----------------------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT di fase 3 | N Engl J Med | Studio TEMPO 3:4: tolvaptan ha rallentato significativamente la crescita del TKV e il declino della funzione renale vs placebo nell'ADPKD precoce; ha stabilito l'antagonismo V2R come meccanismo modificante la malattia |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT di fase 3 | N Engl J Med | Studio REPRISE: tolvaptan ha rallentato il declino del GFR nell'ADPKD in stadio successivo; ha confermato il segnale di epatotossicità (transaminasi elevate/bilirubina) richiedente monitoraggio epatico |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Consenso di esperti | Nephrol Dial Transplant | Aggiornamento del consenso ERA/ERKNET/PKDI su tolvaptan nell'ADPKD: criteri basati su evidenze per l'inizio, stratificazione del rischio, monitoraggio e interruzione nei genotipi ADPKD |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Linea guida di pratica clinica | J Hepatol | Linea guida EASL sulle malattie epatiche cistiche: diagnosi e gestione della malattia epatica policistica (compresa la malattia epatica policistica associata ad ADPKD); rilevante per le manifestazioni epatiche di PKD3 |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Revisione sistematica e meta-analisi | Nefrologia | Revisione sistematica e meta-analisi che confermano l'efficacia di tolvaptan nel ritardare la progressione dell'insufficienza renale terminale nell'ADPKD, con profilo di sicurezza accettabile quando vengono seguiti i protocolli di monitoraggio |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Revisione Cochrane | Cochrane Database Syst Rev | Revisione Cochrane degli interventi modificanti la malattia per la progressione dell'ADPKD; valuta tolvaptan all'interno della pipeline terapeutica in evoluzione |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Revisione narrativa | JAMA | Revisione attuale dell'ADPKD in JAMA: epidemiologia (5–10% dell'insufficienza renale), fisiopatologia e tolvaptan come principale agente modificante la malattia approvato |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Revisione narrativa | Clin Liver Dis | Revisione della malattia renale e epatica policistica: afferma esplicitamente che tolvaptan rallenta il deterioramento della funzione renale e la crescita della ciste nell'ADPKD; contestualizza il carico cistico renale-epatico combinato rilevante per PKD3 |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Revisione narrativa | Curr Opin Nephrol Hypertens | Terapie nell'ADPKD oltre tolvaptan: conferma tolvaptan come l'unico agente modificante la malattia approvato dalla FDA; esamina la pipeline emergente mirata alla cistogenesi |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Revisione di genetica | Adv Kidney Dis Health | Spettro genetico delle malattie renali e epatiche policistiche: caratterizza PKD1, PKD2 e i sette loci minori ADPKD compresi GANAB/PKD3; background essenziale per l'identificazione del bersaglio di trattamento |
-
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (TEMPO 3:4) | N Engl J Med | Gli studi preclinici indicavano che gli antagonisti V2 inibiscono la crescita delle cisti e rallentano il declino della funzione renale; il tolvaptan è stato valutato nella ADPKD |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (REPRISE) | N Engl J Med | Tolvaptan nella ADPKD in stadio più avanzato; in precedenza aveva rallentato la crescita del volume renale totale e il declino dell'eGFR, con aumento degli enzimi epatici |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Revisione sistematica/meta-analisi (Cochrane) | Cochrane Database Syst Rev | Interventi per prevenire la progressione della ADPKD, inclusi gli agenti modificanti la malattia |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Revisione | JAMA | Revisione sulla ADPKD, il più comune disturbo renale ereditario |
+| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Revisione | Renal Failure | Panoramica dei recenti progressi genetici e clinici nella ADPKD |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Revisione | Curr Opin Nephrol Hypertens | Terapie oltre il tolvaptan; il tolvaptan resta l'unica terapia approvata dalla FDA che agisce sulla progressione |
+| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Revisione | Lancet | Solida base di evidenze per il tolvaptan come trattamento modificante la malattia, da usare precocemente nei pazienti ad alto rischio |
+| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Revisione (Core Curriculum) | Am J Kidney Dis | Approccio a diagnosi, prognosi e gestione; terapia modificante la malattia nei pazienti a rischio |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Revisione | Clin Liver Dis | Malattia policistica epatica come manifestazione extrarenale della ADPKD; il tolvaptan può rallentare il declino renale |
+| [31853789](https://pubmed.ncbi.nlm.nih.gov/31853789/) | 2020 | Rassegna | J Nephrol | Gestione attuale e studi in corso nella ADPKD, con dati sull'Italia (almeno 32.000 pazienti) |
 
 ## Informazioni sul mercato italiano
 
-Tolvaptan attualmente detiene **nessuna autorizzazione all'immissione in commercio in Italia** e non è disponibile commercialmente attraverso i prodotti elencati da AIFA. Nessun'altra licenza di prodotto approvata è stata identificata in questo pacchetto di evidenza.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044202036 | JINARC 7 cpr 30 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
+| 044202012 | JINARC 7 cpr 15 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
+| 044202101 | JINARC 28 cpr 30 mg + 28 cpr 60 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
+| 044202075 | JINARC 28 cpr 15 mg + 28 cpr 45 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
+| 048669269 | Tolvaptan 28 cpr 30 mg + 28 cpr 60 mg (Teva) | n.d. | n.d. (autorizzazione revocata) |
 
-> Tolvaptan (nomi commerciali Jinarc® / Jynarque®) detiene l'autorizzazione EMA per l'ADPKD a progressione rapida nell'Unione europea. La prescrizione in Italia richiederebbe la verifica dello stato attuale del registro AIFA e potrebbe necessitare l'uso di un percorso di uso nominale del paziente o di uso compassionevole. È fortemente consigliata la verifica normativa prima di qualsiasi approvvigionamento.
+Tutte le 8 autorizzazioni risultano revocate; non vi sono autorizzazioni valide. Lo stato va verificato rispetto all'etichettatura regionale attuale.
 
----
+## Cytotoxicity
 
-## Considerazioni di sicurezza
+Il tolvaptan non è un farmaco antineoplastico: la sezione non è applicabile.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+## Considerazioni sulla sicurezza
 
-> **Avviso di epatotossicità**: Sebbene i dati di sicurezza formali non fossero disponibili in questo pacchetto di evidenza, lo studio REPRISE (PMID 29105594) ha identificato un segnale di epatotossicità clinicamente significativo con tolvaptan, incluse lesioni epatiche potenzialmente gravi e fatali. Sia l'FDA (programma REMS) che l'EMA hanno imposto il monitoraggio della funzione epatica come condizione dell'autorizzazione. ALT, AST e bilirubina devono essere valutati al basale, mensilmente nei primi 18 mesi e ogni 3 mesi in seguito. Le controindicazioni complete, le interazioni farmacologiche e i requisiti di monitoraggio devono essere ottenuti dal foglio illustrativo approvato prima di qualsiasi uso clinico.
+- **Epatotossicità**: rischio noto che richiede il monitoraggio della funzione epatica. Negli studi nella ADPKD sono stati osservati aumenti di aminotransferasi e bilirubina.
+- **Controindicazioni segnalate dal grafo di conoscenza** (non derivate dal testo dell'etichetta): insufficienza epatica, cirrosi epatica, abuso/dipendenza da sostanze, ulcera peptica attiva, malattie demielinizzanti.
+- **Interazioni farmacologiche** (100 interazioni totali; principali esempi):
+  - **Maggiore**: claritromicina.
+  - **Moderate**: aprepitant, desametasone, empagliflozin, eliglustat, loperamide, miconazolo, naltrexone, rifaximina, rolapitant, nitisinone e sali di potassio (citrato, bicarbonato, cloruro, gluconato).
+  - **Minori**: fidaxomicina, naloxegol, prucalopride.
 
----
+Per le informazioni complete su avvertenze e controindicazioni, fare riferimento al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Procedere con salvaguardie**
+**Decisione: Proceed with Guardrails**
 
-**Razionale:**
-PKD3 (mutazione GANAB) condivide il meccanismo di cistogenesi dipendente da cAMP e dipendente da V2R con l'ADPKD classica, e due grandi RCT di fase 3 pubblicati nel NEJM — insieme a linee guida multiple e una revisione Cochrane — forniscono evidenza L1 che tolvaptan modifica significativamente la progressione della malattia in questo percorso. L'assenza di dati di studi specifici per PKD3 riflette la rarità del genotipo, non una barriera meccanicistica; gli attuali quadri di consenso di esperti già includono i loci minori ADPKD nella medesima guida di trattamento.
+**Motivazione:**
+Esistono RCT pivotal (TEMPO 3:4, REPRISE) e una revisione Cochrane nella ADPKD, con meccanismo (riduzione del cAMP) condiviso con il PKD3. Mancano però dati specifici per la malattia associata a GANAB, l'epatotossicità richiede un monitoraggio stretto e in Italia le autorizzazioni risultano tutte revocate.
 
-**Per procedere, quanto segue è necessario:**
+**Per procedere sono necessari:**
+- Verifica dello stato regolatorio attuale in Italia (foglio illustrativo AIFA, avvertenze e controindicazioni)
+- Dati clinici o preclinici specifici sul PKD3/GANAB, per confermare l'estensione dalla ADPKD
+- Piano di monitoraggio della funzione epatica e dei valori di laboratorio
+- Dati sul meccanismo d'azione originale (MOA) da DrugBank
+- Valutazione delle interazioni, in particolare con inibitori forti del CYP3A (es. claritromicina)
 
-- **Conferma della genotipizzazione**: I pazienti candidati dovrebbero avere la variante GANAB/PKD3 caratterizzata da genetica molecolare per confermare l'idoneità dal punto di vista meccanicistico
-- **Revisione di sicurezza completa**: Ottenere e rivedere il foglio illustrativo attuale per gli avvisi completi di epatotossicità, controindicazioni (incluse malattia epatica, ipernatremia non corretta, esaurimento del volume) e protocolli di monitoraggio richiesti
-- **Percorso normativo italiano**: Verificare lo stato attuale dell'autorizzazione AIFA/EMA; se non direttamente disponibile, identificare il percorso di uso nominale del paziente o di uso compassionevole all'importazione
-- **Programma di monitoraggio epatico**: Stabilire il test della funzione epatica (ALT, AST, bilirubina) al basale e secondo la pianificazione obbligatoria prima di qualsiasi prescrizione
-- **Iscrizione ai registri specifici per PKD3**: Considerare l'iscrizione di pazienti nei registri osservazionali ADPKD esistenti o nelle reti europee di malattie renali rare (ERKNet) per raccogliere prospetticamente dati di esito e sicurezza specifici per PKD3
-- **Documentazione del meccanismo d'azione**: Ottenere dati completi del MOA di DrugBank per supportare la giustificazione meccanicistica formale in qualsiasi presentazione normativa o etica
-
+**Altre predizioni (punteggio simile, evidenza debole):** nefrite interstiziale cariomegalica, displasia renale-epatica-pancreatica, sindrome di Joubert con difetto renale, malformazione toracica e altre sono basate solo sul modello (L4–L5) e vanno mantenute in *Hold*; la sindrome di Joubert con coinvolgimento renale è una possibile domanda di ricerca preclinica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

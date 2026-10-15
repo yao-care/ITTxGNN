@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Iloprost
-parent: Solo previsione del modello (L5)
-nav_order: 122
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 233
+evidence_level: L3
 indication_count: 9
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,102 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Iloprost: Dall'Ipertensione Polmonare Arteriosa all'Ipotricosi Semplice del Cuoio Capelluto
+# Iloprost: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a cardiopatia congenita
 
-## Riassunto in una Frase
+## Sintesi in una frase
 
-L'iloprost è un analogo sintetico della prostaciclina (PGI₂), riconosciuto globalmente come trattamento per l'Ipertensione Polmonare Arteriosa (PAH); non è attualmente registrato o commercializzato a Taiwan.
-Il modello TxGNN predice che potrebbe essere efficace per **Ipotricosi Semplice del Cuoio Capelluto**, ma questa direzione è supportata da **zero studi clinici e zero pubblicazioni**, suggerendo che la predizione molto probabilmente riflette la topologia del grafo della conoscenza piuttosto che una genuina connessione meccanicistica.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione Originale | Non registrato a Taiwan; globalmente affermato per l'Ipertensione Polmonare Arteriosa (PAH) |
-| Indicazione Nuova Prevista | Ipotricosi Semplice del Cuoio Capelluto |
-| Punteggio di Predizione TxGNN | 99.45% |
-| Livello di Evidenza | L5 |
-| Stato del Mercato Taiwan | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospensione |
+Iloprost è un analogo della prostaciclina, originariamente utilizzato per il trattamento dell'ipertensione arteriosa polmonare (PAH).
+Il modello TxGNN prevede che possa essere efficace per la **PAH associata a cardiopatia congenita**, con **0 studi clinici registrati** e **20 pubblicazioni** nei dati compilati per questo report (prevalentemente studi osservazionali, serie di casi e revisioni).
+Si tratta di una sottopopolazione della PAH già trattata, perciò la novità del riposizionamento è limitata.
 
 ---
 
-## Perché questa Predizione è Ragionevole?
+## Quadro generale
 
-Attualmente, i dati dettagliati sul meccanismo di azione non sono disponibili in questo Pacchetto di Evidenze. Sulla base delle informazioni farmacologiche note, l'iloprost è un analogo sintetico stabile della prostaciclina (PGI₂) che attiva selettivamente i recettori IP sulla muscolatura liscia vascolare e sulle piastrine, producendo vasodilatazione polmonare, inibizione dell'aggregazione piastrinica e soppressione del rimodellamento vascolare. È approvato in molteplici paesi (UE, USA, altri) per la PAH con nomi commerciali come Ventavis (inalato) e Ilomedin (IV/infusione).
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione arteriosa polmonare (fonte: grafo di conoscenza TxGNN; i testi delle indicazioni nelle autorizzazioni AIFA non sono disponibili) |
+| Nuova indicazione predetta | PAH associata a cardiopatia congenita (predizione di rango 3) |
+| Punteggio di predizione TxGNN | 99,32% |
+| Livello di evidenza | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
-L'Ipotricosi Semplice del Cuoio Capelluto è una rara genodermatosi autosomica dominante causata da mutazioni loss-of-function nel gene *CDSN*, che codifica la corneodesmosin — una proteina strutturale critica per i corneodesmosomi (giunzioni di adesione cellulare) nell'epidermide del cuoio capelluto e nella guaina radicale interna dei follicoli piliferi. Il meccanismo della malattia è interamente strutturale: l'adesione dei cheratinociti fallisce, portando a una progressiva miniaturizzazione follicolare e alla caduta dei capelli. Non vi è alcuna componente vascolare, piastrinica o di recettore IP nota nella sua patologia.
-
-Sebbene le prostaglandine in generale (in particolare PGE₂ tramite recettori EP2/EP4) siano state dimostrate promuovere il ciclo follicolare in fase anagen, il bersaglio farmacologico specifico dell'iloprost — il recettore IP — è una via di segnalazione distinta senza un ruolo stabilito nell'integrità strutturale dipendente da CDSN. La razionale del riutilizzo pertanto manca di una base meccanicistica credibile. L'alto punteggio di TxGNN (99.45%) è più plausibilmente attribuibile alla vicinanza topologica dei nodi "malattia del cuoio capelluto/della pelle" nel grafo della conoscenza piuttosto che a una vera correlazione biologica alla farmacologia del recettore IP di tipo PAH.
-
----
-
-## Evidenza da Studi Clinici
-
-Attualmente nessuno studio clinico correlato registrato.
-
----
-
-## Evidenza da Letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
+**Nota sulla scelta del candidato:** le prime due predizioni per punteggio (ipotricosi semplice del cuoio capelluto e ipotricosi congenita con milia) e la nona (alopecia areata diffusa) non hanno né studi né letteratura (L5, Hold). Le predizioni più solide sono quelle per PAH associata a cardiopatia congenita e a malattie del tessuto connettivo (entrambe L3). Questo report si concentra sulla PAH associata a cardiopatia congenita, cioè sul candidato con evidenza più coerente tra quelli di rango superiore.
 
 ---
 
-## Considerazioni di Sicurezza
+## Perché questa predizione è ragionevole?
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle conoscenze disponibili, iloprost è un analogo sintetico della prostaciclina che agisce sui recettori IP: provoca vasodilatazione polmonare e inibisce l'aggregazione piastrinica e la proliferazione delle cellule muscolari lisce. Questo è lo stesso meccanismo alla base dell'indicazione originale nella PAH.
+
+La PAH associata a cardiopatia congenita (inclusa la sindrome di Eisenmenger) è un sottogruppo della PAH, con alterazioni vascolari polmonari ostruttive simili. Per questo è meccanisticamente plausibile che iloprost sia applicabile. La letteratura comprende studi su biomarcatori, emodinamica, funzione ventricolare destra e uso pediatrico.
+
+Va però sottolineato che l'evidenza proviene da studi piccoli o non controllati; non sono stati forniti RCT né studi registrati. Per questo il livello è L3 e non L2.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenze da studi clinici
 
-**Decisione: Sospensione**
+Attualmente non risultano studi clinici correlati registrati per questa indicazione.
 
-**Razionale:**
-Non vi è alcuna evidenza da studi clinici o letteratura pubblicata per l'iloprost nell'ipotricosi semplice del cuoio capelluto, e il collegamento meccanicistico tra l'agonismo del recettore IP e i difetti strutturali dei follicoli piliferi dipendenti da CDSN non è biologicamente coerente. Procedere in questa fase non sarebbe un uso produttivo delle risorse di ricerca.
+---
 
-**Per procedere, sarebbero necessari i seguenti:**
-- Un'ipotesi meccanicistica credibile che colleghi la segnalazione del recettore IP/prostaciclina all'espressione proteica CDSN, alla stabilità dei corneodesmosomi, o alla regolazione del ciclo del follicolo pilifero
-- Come minimo, evidenza in vitro (ad es., saggi con cheratinociti o organoidi follicolari) che dimostrino una qualsiasi risposta biologica all'attivazione del recettore IP in modelli CDSN-deficienti
-- Recupero del foglio illustrativo completo dell'iloprost (TFDA/EMA) per documentare il meccanismo di azione, le avvertenze e le controindicazioni prima che possa procedere qualsiasi ulteriore valutazione della sicurezza
+## Evidenze dalla letteratura
 
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [31371115](https://pubmed.ncbi.nlm.nih.gov/31371115/) | 2020 | Studio pilota randomizzato, controllato con placebo, in doppio cieco, crossover | Int J Cardiol | Iloprost nebulizzato in pazienti con sindrome di Eisenmenger (studio pilota monocentrico) |
+| [28608969](https://pubmed.ncbi.nlm.nih.gov/28608969/) | 2017 | Coorte | Clin Exp Pharmacol Physiol | Effetto di iloprost su biomarcatori endoteliali (NO, ET-1, ADMA, Gal-3, BNP, acido urico) in CHD-PAH |
+| [29426959](https://pubmed.ncbi.nlm.nih.gov/29426959/) | 2018 | Coorte | Pediatr Cardiol | Sicurezza ed effetti emodinamici acuti di iloprost inalato in bambini con PAH e difetti cardiaci semplici |
+| [27492657](https://pubmed.ncbi.nlm.nih.gov/27492657/) | 2017 | Coorte | J Cardiol | Effetti del trattamento a lungo termine con iloprost sulla funzione ventricolare destra nella sindrome di Eisenmenger |
+| [24729548](https://pubmed.ncbi.nlm.nih.gov/24729548/) | 2015 | Coorte | Pediatr Pulmonol | Effetti a lungo termine di iloprost inalato in bambini con ipertensione polmonare |
+| [36010107](https://pubmed.ncbi.nlm.nih.gov/36010107/) | 2022 | Serie di casi | Children (Basel) | Terapia add-on con sildenafil, bosentan e iloprost in 5 pazienti con sindrome di Eisenmenger |
+| [19436672](https://pubmed.ncbi.nlm.nih.gov/19436672/) | 2009 | Revisione | Vasc Health Risk Manag | Revisione di iloprost inalato nella PAH pediatrica |
+| [30719004](https://pubmed.ncbi.nlm.nih.gov/30719004/) | 2018 | Studio prospettico | Front Pharmacol | L'inalazione acuta di iloprost migliora la funzione del ventricolo destro nella PAH (studio con risonanza magnetica cardiaca, 69 pazienti) |
+| [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Revisione | Drugs | Trattamento della PAH nelle malattie del tessuto connettivo, con cenni alla PAH associata a cardiopatia congenita |
+| [21852894](https://pubmed.ncbi.nlm.nih.gov/21852894/) | 2009 | Revisione | Prog Pediatr Cardiol | PAH pediatrica non associata a cardiopatia congenita (rilevanza solo indiretta) |
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 036019091 | VENTAVIS, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
+| 036019014 | VENTAVIS, 30 fiale soluzione per nebulizzazione 2 ml 10 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
+| 046536025 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 10 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
+| 046536076 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
+
+Tutte e 4 le autorizzazioni risultano cancellate: non vi è attualmente alcun prodotto valido sul mercato italiano.
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni derivate dal grafo di conoscenza (TxGNN/PrimeKG, non dal foglietto illustrativo):** insufficienza epatica, broncopneumopatia cronica ostruttiva (anche severa a esordio precoce), disturbi ipotensivi, edema polmonare, malattie bronchiali.
+- **Interazioni farmacologiche:** sono state identificate 100 interazioni. Tra quelle di livello moderato figurano epinefrina, acido acetilsalicilico, gliflozine (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), insulina umana inalatoria ad azione rapida, mannitolo, efedrina (anche nasale), fenfluramina, destrofenfluramina, glicerina, papaverina e sibutramina. Altre interazioni con livello non classificato riguardano calcitriolo, pantoprazolo, morfina, metformina e omeprazolo.
+- L'effetto additivo con altri vasodilatatori o antiaggreganti va valutato con attenzione, in particolare con l'acido acetilsalicilico.
+
+Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativo, che non è stato reso disponibile nei dati compilati.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Proceed with Guardrails (procedere con cautele)**
+
+**Motivazione:**
+Per la PAH associata a cardiopatia congenita esiste un insieme coerente di studi osservazionali, serie di casi e revisioni (livello L3), con un meccanismo identico a quello dell'indicazione originale. L'assenza di studi clinici registrati e di RCT di dimensioni adeguate, e il fatto che tutte le autorizzazioni italiane siano cancellate, impongono prudenza.
+
+**Per procedere sono necessari:**
+- Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Dati sul meccanismo d'azione da DrugBank
+- Studi controllati (idealmente RCT) specifici per PAH associata a cardiopatia congenita
+- Chiarimento della situazione regolatoria in Italia (motivi della cancellazione e possibile nuova autorizzazione o importazione)
+- Piano di gestione delle interazioni farmacologiche e delle controindicazioni (ipotensione, patologie polmonari ed epatiche)
+- Per le altre predizioni (ipotricosi, alopecia areata, malformazione arterovenosa polmonare), nessuna evidenza: restano in Hold. Per la malformazione arterovenosa polmonare esiste inoltre un possibile rischio teorico di peggioramento dello shunt destro-sinistro.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

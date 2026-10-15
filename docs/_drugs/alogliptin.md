@@ -2,7 +2,7 @@
 layout: default
 title: Alogliptin
 parent: Solo previsione del modello (L5)
-nav_order: 23
+nav_order: 34
 evidence_level: L5
 indication_count: 0
 ---

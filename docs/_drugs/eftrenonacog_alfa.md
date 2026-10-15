@@ -2,7 +2,7 @@
 layout: default
 title: Eftrenonacog Alfa
 parent: Solo previsione del modello (L5)
-nav_order: 87
+nav_order: 166
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,53 +29,85 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Eftrenonacog Alfa: Da Emofilia B — Nessuna Previsione TxGNN Disponibile
+# Eftrenonacog alfa: Dall'emofilia alla pseudo-malattia di von Willebrand
 
-## Riassunto in una riga
+## Riepilogo in una frase
 
-Eftrenonacog alfa (nome commerciale: Alprolix) è una proteina ricombinante di fusione Fc del Fattore IX della coagulazione indicata per la prevenzione e il trattamento degli episodi emorragici nell'Emofilia B (carenza congenita del Fattore IX).
-Il Pacchetto di Evidenze attuale contiene **nessuna nuova indicazione prevista da TxGNN** per questo farmaco, e nessun dato di indicazione originale è stato recuperato dalla fonte normativa.
-Senza un'indicazione target prevista, questo candidato **non può procedere alla valutazione standard del riposizionamento** in questa fase.
+Eftrenonacog alfa è una proteina di fusione ricombinante del fattore IX con frammento Fc (rFIXFc), utilizzata originariamente nel trattamento dell'emofilia. Il modello TxGNN ne prevede una possibile efficacia nella **pseudo-malattia di von Willebrand** (malattia di von Willebrand di tipo piastrinico), ma al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: si tratta di una previsione puramente computazionale.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Emofilia B (carenza congenita del Fattore IX) — da conoscenza di base; non recuperato in questo Pacchetto di Evidenze |
-| Nuova Indicazione Prevista | — (Nessuna previsione restituita da TxGNN) |
-| Punteggio di Previsione TxGNN | — |
-| Livello di Evidenza | L5 (Solo previsione del modello — e nessuna disponibile) |
-| Stato del Mercato Italiano | Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Rimandare** |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emofilia (anche forma sintomatica nelle portatrici femminili), secondo gli archi di indicazione della base di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile |
+| Nuova indicazione prevista | Pseudo-malattia di von Willebrand |
+| Punteggio di predizione TxGNN | 99,48% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni annullate |
+| Numero di autorizzazioni | 5 (tutte annullate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Considerazioni sulla Sicurezza
+## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, eftrenonacog alfa sostituisce il fattore IX carente nell'emofilia B, intervenendo nella via intrinseca della coagulazione (emostasi secondaria).
 
-> Nessun dato di avvertenza, controindicazione o interazione farmacologica è stato restituito in questo Pacchetto di Evidenze. La query del foglio illustrativo TFDA ha restituito un risultato (`result_count: 1`), ma i suoi contenuti non sono stati analizzati nei campi strutturati. DrugBank è stato interrogato con successo, tuttavia i campi MOA e sicurezza rimangono non compilati.
+La pseudo-malattia di von Willebrand (di tipo piastrinico) è causata da varianti con guadagno di funzione del gene *GP1BA* piastrinico, che aumentano il legame delle piastrine al fattore di von Willebrand. Ne derivano perdita dei multimeri ad alto peso molecolare del VWF e trombocitopenia. Il fattore IX non fa parte di questo difetto, quindi **non esiste un chiaro razionale meccanicistico**. Il punteggio elevato è verosimilmente un'associazione a livello di rete all'interno della cascata coagulativa. Il trattamento dei sanguinamenti in questa condizione prevede in genere trasfusioni di piastrine o misure dirette sul VWF, non la sostituzione del FIX.
+
+Anche le altre due previsioni di rilievo sono meccanicisticamente deboli:
+- **Disturbo primario del rilascio piastrinico** (punteggio 99,42%): il difetto riguarda la secrezione dei granuli piastrinici (emostasi primaria); la sostituzione del FIX non lo corregge.
+- **Trombastenia di Glanzmann** (punteggio 99,28%): il difetto riguarda l'integrina αIIbβ3 (GPIIb/IIIa) e l'aggregazione piastrinica; la gestione standard utilizza trasfusioni piastriniche, fattore VIIa ricombinante e antifibrinolitici.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenze da studi clinici
 
-**Decisione: Rimandare**
+Attualmente non risultano studi clinici correlati registrati.
 
-**Logica:**
-Il Pacchetto di Evidenze per Eftrenonacog Alfa è criticamente incompleto — l'array `predicted_indications` è vuoto, il che significa che TxGNN non ha restituito candidati di riposizionamento, e campi strutturati chiave (indicazioni originali, MOA, avvertenze di sicurezza, controindicazioni) sono tutti assenti. Non c'è alcuna base su cui valutare la plausibilità meccanicistica, la forza dell'evidenza o la sicurezza per qualsiasi nuova indicazione.
+---
 
-**Per procedere, è necessario quanto segue:**
+## Evidenze dalla letteratura
 
-- **Rieseguire l'inferenza TxGNN** per DB11608 e confermare se un elenco di previsioni vuoto riflette un vero risultato nullo o un fallimento della pipeline
-- **Risolvere DG001 (Bloccante):** Analizzare il PDF del foglio illustrativo TFDA/AIFA per estrarre avvertenze e controindicazioni — questi dati sono disponibili (`result_count: 1`) ma non sono stati acquisiti nel pacchetto strutturato
-- **Risolvere DG002 (Alto):** Interrogare l'API DrugBank per MOA, farmacodinamica e categorie di farmaci per consentire l'analisi meccanicistica
-- **Popolare `original_indications`:** Confermare il testo dell'indicazione normativa da etichetta AIFA/TFDA (noto clinicamente come profilassi dell'Emofilia B e trattamento al bisogno)
-- **Rigenerare il Pacchetto di Evidenze v5** dopo che tutti i gap di dati bloccanti sono stati risolti prima di rivalutare questo candidato
+Attualmente non risulta alcuna letteratura correlata disponibile.
 
+---
+
+## Informazioni sul mercato italiano
+
+Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazioni valide.
+
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044888042 | ALPROLIX, 1 flacone EV da 2.000 UI + kit di somministrazione | Non indicata | Non disponibile |
+| 044888055 | ALPROLIX, 1 flacone EV da 3.000 UI + kit di somministrazione | Non indicata | Non disponibile |
+| 044888016 | ALPROLIX, 1 flacone EV da 250 UI + kit di somministrazione | Non indicata | Non disponibile |
+| 044888028 | ALPROLIX, 1 flacone EV da 500 UI + kit di somministrazione | Non indicata | Non disponibile |
+| 044888030 | ALPROLIX, 1 flacone EV da 1.000 UI + kit di somministrazione | Non indicata | Non disponibile |
+
+---
+
+## Considerazioni sulla sicurezza
+
+Per le informazioni di sicurezza, si rimanda al foglio illustrativo. Non sono state identificate interazioni farmacologiche nei dati compilati.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La previsione si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole: il fattore IX non agisce sui difetti piastrinici o del VWF alla base della malattia prevista. Inoltre, tutte le autorizzazioni italiane risultano annullate, il che limita la disponibilità pratica per eventuali studi di riposizionamento.
+
+**Per procedere sarebbe necessario:**
+- Reperire dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Ottenere i dati sul meccanismo d'azione da DrugBank
+- Verificare se esistano evidenze precliniche o cliniche a supporto di un ruolo del FIX nella pseudo-malattia di von Willebrand
+- Chiarire lo stato regolatorio e la disponibilità del prodotto (autorizzazioni annullate)
+- Valutare se le alternative standard (trasfusioni piastriniche, misure dirette sul VWF) rendano il riposizionamento superfluo
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

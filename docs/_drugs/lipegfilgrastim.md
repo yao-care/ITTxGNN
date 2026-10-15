@@ -2,7 +2,7 @@
 layout: default
 title: Lipegfilgrastim
 parent: Solo previsione del modello (L5)
-nav_order: 136
+nav_order: 273
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,73 +29,86 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Lipegfilgrastim: Dalla neutropenia indotta da chemioterapia al disturbo primario del rilascio delle piastrine
+# Lipegfilgrastim: dall'uso nella neutropenia al disturbo primario di rilascio piastrinico
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Il lipegfilgrastim è un fattore stimolante le colonie di granulociti (G-CSF) a lunga durata d'azione e glicopeguilato, utilizzato principalmente per ridurre la durata della neutropenia nei pazienti sottoposti a chemioterapia citotossica.
-Il modello TxGNN prevede che potrebbe essere efficace per il **disturbo primario del rilascio delle piastrine**, con **0 studi clinici** e **0 pubblicazioni** che attualmente supportano questo indirizzo — facendo di questa una previsione solo da modello in questa fase.
-Data l'assenza di prove corroboranti e la debole razionale meccanicistica, la raccomandazione attuale è **Mantenere**.
+Lipegfilgrastim è un analogo pegilato del fattore stimolante le colonie di granulociti (G-CSF), che stimola la proliferazione e la differenziazione della linea neutrofila. Il modello TxGNN lo indica come possibile candidato per il **disturbo primario di rilascio piastrinico**, ma attualmente **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: si tratta di una previsione puramente computazionale.
+
+Nota: i dati compilati per questo report non riportano il testo dell'indicazione approvata in Italia; la descrizione dell'uso originario deriva dalla classe farmacologica del prodotto.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione originale | Nessun dato di indicazione approvata in Italia |
-| Nuova indicazione prevista | Disturbo primario del rilascio delle piastrine |
-| Punteggio di previsione TxGNN | 99.93% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione AIFA è vuoto) |
+| Nuova indicazione prevista | Disturbo primario di rilascio piastrinico |
+| Punteggio di previsione TxGNN | 99,93% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Mantenere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (nessuna attualmente valida) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione potrebbe essere plausibile?
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo pacchetto di prove. In base alla sua classe farmacologica, il lipegfilgrastim è una forma glicopeguilata di filgrastim che agisce come agonista del G-CSF (fattore stimolante le colonie di granulociti) al recettore CSF3R. Questo attiva le cascate di segnalazione JAK2/STAT3 e PI3K/Akt, promuovendo la proliferazione, differenziazione e rilascio dei progenitori dei neutrofili dal midollo osseo. La modifica della glicopeguilazione estende la sua emivita rispetto al filgrastim standard, permettendo la somministrazione una volta per ciclo nei pazienti in chemioterapia.
+I dati sul meccanismo d'azione originale non sono al momento disponibili. Lipegfilgrastim appartiene alla classe dei G-CSF pegilati, che agiscono sul recettore del G-CSF delle cellule mieloidi stimolando la proliferazione e la differenziazione dei neutrofili.
 
-L'indicazione nuova prevista — disturbo primario del rilascio delle piastrine — si riferisce a un difetto funzionale nell'esocitosi dei granuli α o dei granuli densi dalle piastrine, mediato da complessi proteici SNARE (ad es., VAMP-8, syntaxin-11) che sono strutturalmente e meccanicisticamente separati dall'asse di segnalazione G-CSF/CSF3R. Il G-CSF ha infatti effetti indiretti sui megacariociti (le cellule precursore delle piastrine) attraverso la segnalazione incrociata del recettore MPL o la secrezione stromale di IL-6, che potrebbe teoricamente influenzare la trombopoiesi. Tuttavia, questa influenza si riferisce alla quantità di piastrine piuttosto che alla macchina del rilascio dei granuli che è difettosa nei disturbi del rilascio — rendendo il ponte meccanicistico speculativo.
+Il disturbo primario di rilascio piastrinico è invece un difetto qualitativo della funzione piastrinica (alterata secrezione dei granuli e della segnalazione). **Non esiste un legame meccanicistico noto** tra la segnalazione del recettore del G-CSF e le vie di secrezione piastrinica. L'elevato punteggio TxGNN (0,999) è quindi una previsione basata sul grafo di conoscenza, senza conferma clinica.
 
-La previsione di TxGNN molto probabilmente riflette la **vicinanza del grafo di conoscenza ematopoietica**: i disturbi piastrinici e i disturbi neutrofili coabitano in vicinanze sovrapposte del grafo (nicchia di midollo osseo condivisa, antenati delle cellule staminali ematopoietiche, ambienti di citochine condivisi). Questa similarità topologica nel grafo di conoscenza non si traduce necessariamente in rilevanza funzionale o terapeutica. Nessun modello preclinico, studio clinico o letteratura pubblicata attualmente collega il lipegfilgrastim ai disturbi del rilascio dei granuli piastrinici.
+### Altre previsioni del modello (tutte di livello L5, decisione Hold)
+
+| Rango | Indicazione prevista | Punteggio TxGNN | Considerazione |
+|------|------|------|------|
+| 2 | Retinopatia diabetica non proliferante grave | 99,91% | Possibile ruolo teorico della mobilizzazione di cellule progenitrici nella riparazione vascolare, ma il G-CSF potrebbe favorire neovascolarizzazione o infiammazione retinica; ipotesi speculativa |
+| 3 | Pseudo-malattia di von Willebrand | 99,91% | Difetto di gain-of-function della GPIbα piastrinica; il lipegfilgrastim non ha effetti noti sull'asse GPIb-VWF |
+| 4 | Trombastenia di Glanzmann | 99,91% | Deficit dell'integrina αIIbβ3; l'agonismo sul recettore del G-CSF non corregge il difetto |
+| 5 | Retinopatia diabetica | 99,75% | Come per la forma non proliferante grave, solo ipotesi speculativa |
 
 ---
 
-## Evidenza da studi clinici
+## Evidenze da studi clinici
 
-Attualmente nessuno studio clinico correlato registrato.
+Attualmente non risultano studi clinici correlati registrati.
 
 ---
 
-## Evidenza da letteratura
+## Evidenze dalla letteratura
 
-Attualmente nessuna letteratura correlata disponibile.
+Attualmente non risulta alcuna letteratura correlata.
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
+|---------|------|------|------|-----------|
+| 042919011 | LONQUEX*1 siringa 6 mg 0,6 ml (TEVA B.V.) | Non indicata | Cancellata | Non indicata |
+| 042919047 | LONQUEX*6 flaconcini SC 6 mg 0,6 ml (TEVA B.V.) | Non indicata | Cancellata | Non indicata |
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non sono presenti avvertenze, controindicazioni o interazioni farmacologiche documentate.
 
 ---
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
-**Decisione: Mantenere**
+**Decisione: Hold**
 
-**Razionale:**
-Questa è una previsione solo da modello (L5) con zero prove cliniche o precliniche di supporto, e la connessione meccanicistica tra la segnalazione del recettore G-CSF e il rilascio dei granuli piastrinici mediato da SNARE è al massimo indiretta — il punteggio di TxGNN probabilmente riflette la vicinanza strutturale del grafo di conoscenza piuttosto che la plausibilità biologica.
+**Motivazione:**
+Tutte le previsioni poggiano esclusivamente sul punteggio del modello TxGNN, senza studi clinici, pubblicazioni né un razionale meccanicistico plausibile. Inoltre, in Italia le autorizzazioni disponibili sono entrambe cancellate.
 
-**Per procedere, sono necessari i seguenti elementi:**
-
-- **Conferma MOA**: Recuperare il record completo di DrugBank (DB13200) per caratterizzare formalmente il percorso G-CSF/CSF3R–JAK2/STAT3 e qualsiasi effetto megacariocitario documentato
-- **Evidenza preclinica**: Identificare o commissionare studi di modelli in vitro/animali che esaminano l'effetto del lipegfilgrastim sulla secrezione dei granuli piastrinici prima che si formi qualsiasi ipotesi clinica
-- **Revisione dello stato normativo**: Confermare se il lipegfilgrastim ha un'autorizzazione EMA (ce l'ha in Europa con il nome commerciale *Lonquex*) e valutare se esiste un'autorizzazione AIFA italiana, poiché ciò influenzerebbe il percorso normativo per il riposizionamento
-- **Profilo di sicurezza nei disturbi ematologici**: Valutare il rischio di sanguinamento, il rischio di trombocitopenia e l'interazione emostatica nei pazienti con disturbi del rilascio delle piastrine — una popolazione in cui un intervento con fattore di crescita non ha una linea di base di sicurezza stabilita
-- **Revisione delle indicazioni alternative**: Considerare le altre previsioni meglio classificate (ad es., retinopatia diabetica tramite mobilizzazione delle EPC) per determinare se qualcuna ha un supporto meccanicistico più forte prima di investire risorse in questo indirizzo
-
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (indicazioni, avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
+- Dati sul meccanismo d'azione da DrugBank per analizzare un eventuale legame meccanicistico
+- Studi preclinici o revisioni della letteratura che colleghino la segnalazione del G-CSF alla funzione piastrinica
+- Verifica della compatibilità delle vie di somministrazione e chiarimento dello stato regolatorio (autorizzazioni cancellate)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

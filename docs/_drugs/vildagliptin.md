@@ -2,7 +2,7 @@
 layout: default
 title: Vildagliptin
 parent: Solo previsione del modello (L5)
-nav_order: 212
+nav_order: 464
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Vildagliptin: Dal Diabete Mellito di Tipo 2 alla Sindrome Rigida Personale Classica
+# Vildagliptin: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
 
-## Sommario a Frase Singola
+## Sintesi
 
-Vildagliptin è un inibitore selettivo della DPP-4 (dipeptidil peptidasi-4) consolidato nel trattamento del Diabete Mellito di Tipo 2, che agisce prolungando l'attività degli ormoni incretini GLP-1 e GIP per migliorare il controllo glicemico.
-La previsione con il ranking più alto del modello TxGNN è la **Sindrome Rigida Personale Classica** (punteggio 99.88%); tuttavia, questa è attualmente supportata da **zero trial clinici e zero pubblicazioni**, il che la rende un segnale esclusivamente generatore di ipotesi.
-È importante notare che il **Diabete Mellito di Tipo 1** (rank 10, punteggio 99.37%) presenta la più forte evidenza nel mondo reale in questa analisi — includendo **1 RCT in doppio cieco di Fase 2** e **20 pubblicazioni** — e rappresenta il segnale di riposizionamento più azionabile in questo pacchetto.
+Vildagliptin è un inibitore della dipeptidil peptidasi-4 (DPP-4), utilizzato originariamente nel trattamento del diabete mellito di tipo 2.
+Il modello TxGNN lo indica come possibile candidato per la **sindrome della persona rigida classica** (*classic stiff person syndrome*), ma per questa indicazione non esistono **sperimentazioni cliniche né pubblicazioni** a supporto: la previsione si basa solo sul grafo di conoscenza.
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Diabete mellito di tipo 2 |
+| Nuova indicazione prevista | Sindrome della persona rigida classica |
+| Punteggio di previsione TxGNN | 99,88% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate (nessuna autorizzazione valida) |
+| Numero di autorizzazioni | 11 (tutte revocate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Diabete Mellito di Tipo 2 (uso farmacologico consolidato; nessun record normativo italiano disponibile) |
-| Nuova Indicazione Prevista | Sindrome Rigida Personale Classica |
-| Punteggio Previsione TxGNN | 99.88% |
-| Livello di Evidenza | L5 |
-| Stato di Mercato in Italia | Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Hold |
+## Perché questa previsione è (poco) plausibile?
 
----
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. Sulla base delle informazioni note, vildagliptin appartiene alla classe degli inibitori della DPP-4, la sua efficacia nel diabete di tipo 2 è consolidata e agisce aumentando i livelli di GLP-1 e GIP attivi.
 
-## Perché questa Previsione è Ragionevole?
+La sindrome della persona rigida è un disturbo neurologico autoimmune, tipicamente associato agli anticorpi anti-GAD65. Non è stato stabilito alcun meccanismo plausibile che colleghi l'inibizione della DPP-4 a questa malattia. Eventuali effetti immunomodulatori di vildagliptin in questo contesto sono puramente speculativi.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni farmacologiche note, vildagliptin è un inibitore della DPP-4 — la DPP-4 (nota anche come CD26) è una proteasi serina legata alla membrana che degrada rapidamente gli ormoni incretini GLP-1 e GIP dopo l'assunzione di cibo. Bloccando questa degradazione, vildagliptin estende l'attività degli incretini, determinando una stimolazione glucosio-dipendente della secrezione di insulina e la soppressione del glucagone. Questo meccanismo ha provata efficacia nel Diabete Mellito di Tipo 2.
+Il punteggio elevato è probabilmente dovuto alla vicinanza nel grafo di conoscenza (la sindrome è spesso associata al diabete autoimmune), non a un'evidenza biologica o clinica indipendente. Lo conferma il fatto che la forma focale (*focal stiff limb syndrome*) riceve esattamente lo stesso punteggio: è probabile un artefatto del grafo.
 
-Il ponte teorico verso la Sindrome Rigida Personale Classica (SPS) passa attraverso il ruolo immunologico della DPP-4/CD26. La SPS è un disordine neurologico autoimmune caratterizzato da disruzione mediata dagli anticorpi anti-GAD-65 della funzione degli interneuroni GABAergici, risultando in rigidità muscolare progressiva e spasmi. Poiché CD26 è altamente espressa sui linfociti T attivati e modula la costimolazione delle cellule T, l'inibizione della DPP-4 potrebbe teoricamente attenuare l'attivazione patologica delle cellule T, riducendo il danno neuronale mediato dall'autoimmunità. Questa razionale immunomodulatoria è stata esplorata in altri contesti autoimmuni.
+## Evidenza dalle sperimentazioni cliniche
 
-Tuttavia, la plausibilità meccanicistica rimane bassa per la SPS nello specifico. Vildagliptin non ha un'azione nota diretta sul sistema GABA, e la patologia centrale della SPS è neurologica piuttosto che metabolica o ampiamente immunologica. Il punteggio TxGNN identico condiviso tra la SPS Classica (rank 1) e la Sindrome Rigida Focale degli Arti (rank 2, punteggio 0.99884462…) suggerisce fortemente che questi siano trattati come nodi grafici quasi identici dal modello — riflettendo ontologia condivisa piuttosto che segnale biologico indipendente. Questa previsione dovrebbe essere trattata esclusivamente come un'ipotesi.
+Attualmente non risultano sperimentazioni cliniche registrate correlate.
 
----
+## Evidenza dalla letteratura
 
-## Evidenza da Trial Clinici
+Attualmente non è disponibile letteratura correlata.
 
-Attualmente nessun trial clinico correlato registrato.
+## Informazioni sul mercato italiano
 
----
+Tutte le autorizzazioni risultano revocate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni:
 
-## Evidenza da Letteratura
+| N. autorizzazione | Prodotto | Titolare | Stato |
+|---------|------|------|------|
+| 045976065 | Vildagliptin 56 cpr 50 mg | TEVA B.V. | Revocata |
+| 050102021 | Vildagliptin 56 cpr 50 mg | PHARMACARE Srl | Revocata |
+| 044763050 | Vildagliptin 56 cpr rivestite 50 mg | SANDOZ SpA | Revocata |
+| 038144059 | Galvus 56 cpr 50 mg | NOVARTIS EUROPHARM LTD | Revocata |
+| 047877042 | Vildagliptin 56 cpr 50 mg | ACCORD HEALTHCARE SLU | Revocata |
 
-Attualmente nessuna letteratura correlata disponibile.
+## Considerazioni di sicurezza
 
----
+Per le informazioni di sicurezza (avvertenze, controindicazioni e interazioni) si rimanda al foglietto illustrativo.
 
-## Considerazioni di Sicurezza
-
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
-
----
-
-## Conclusione e Prossimi Passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
-**Razionale:**
-La Sindrome Rigida Personale Classica porta una classificazione di evidenza L5 — previsione del modello solo — con zero trial clinici o pubblicazioni di supporto. Il collegamento meccanicistico tra l'inibizione della DPP-4 e la patologia autoimmune GABAergica è indiretto e speculativo, fornendo una base insufficiente per l'investigazione clinica in questa fase.
+**Motivazione:**
+- La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile.
+- Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica.
 
-**Per procedere, è necessario quanto segue:**
-- Studi preclinici esaminando se l'inibizione della DPP-4/CD26 modula la produzione di anticorpi anti-GAD-65 o l'autoreattività delle cellule T in modelli animali rilevanti
-- Chiarimento meccanicistico di se l'immunomodulazione di CD26 può influenzare significativamente il pathway GABAergico disrupto nella SPS
-- Una scansione più ampia della letteratura sugli inibitori della DPP-4 e i disturbi neurologici autoimmuni (es. sclerosi multipla, miastenia gravis) per stabilire un segnale a livello di classe prima di focalizzarsi sulla SPS
+**Per procedere sarebbe necessario:**
+- Un razionale meccanicistico credibile tra inibizione della DPP-4 e patogenesi autoimmune della sindrome (anti-GAD65), supportato da dati preclinici.
+- Dati sul meccanismo d'azione e sulla sicurezza (avvertenze e controindicazioni dal foglietto illustrativo AIFA).
+- Una verifica della situazione regolatoria, dato che tutte le autorizzazioni risultano revocate.
 
----
-
-> **⚠️ Avviso — Segnale a Priorità Superiore Identificato in Questo Pacchetto**
->
-> Tra tutte le 10 indicazioni previste, il **Diabete Mellito di Tipo 1** (rank 10, punteggio TxGNN 99.37%, Livello di Evidenza **L2**) merita una valutazione separata e dedicata. L'evidenza di supporto include:
-> - **NCT02803892** (RCT di Fase 2, completato, n=55): *Rapamicina + Vildagliptin nel T1DM di lunga data* — l'unico trial di Fase 2 in doppio cieco diretto di vildagliptin nel T1DM, esaminando il recupero della funzione delle cellule β.
-> - **PMID 33124663** (*J Clin Endocrinol Metab*, 2021): RCT in doppio cieco confermando segnali di funzione delle cellule β con Rapamicina + Vildagliptin.
-> - **PMID 22855332** (*J Clin Endocrinol Metab*, 2012): Studio clinico controllato mostrando che vildagliptin riduce il glucagone durante l'iperglicemia preservando contemporaneamente la risposta controrgolatoria durante l'ipoglicemia nel T1DM.
-> - **PMID 30848158** (*Expert Opin Investig Drugs*, 2019): Revisione sistematica sugli inibitori della DPP-4 nel T1DM — protezione delle cellule β ed effetti renali.
-> - **20 pubblicazioni in totale**, includendo studi di neogenesi animale, RCT negli adolescenti con T1DM durante il Ramadan, e studi meccanicistici umani.
->
-> La razionale meccanicistica è sostanzialmente più forte: inibizione della DPP-4 → ↑GLP-1 → neogenesi e sopravvivenza delle cellule β, soppressione del glucagone, e potenziale attenuazione mediata da CD26 della distruzione autoimmune delle cellule β. Decisione consigliata per questa indicazione: **Domanda di Ricerca / Procedere con Guardrails** — un report di evidenza completo per il T1DM è consigliato.
-
+**Nota su un'altra indicazione prevista:** tra le altre previsioni per vildagliptin, il **diabete mellito di tipo 1** (punteggio TxGNN 99,37%) è l'unica con evidenza clinica, di livello L2. Comprende studi di fase 2 completati (tra cui rapamicina più vildagliptin sulla funzione β-cellulare, con un RCT pubblicato nel 2021) e uno studio di fase 3 con stato sconosciuto su 44 pazienti. Le prove sono però di piccola dimensione, in parte di tipo meccanicistico, e il disegno in combinazione non isola l'effetto di vildagliptin. Rimane inoltre il segnale di sicurezza di pancreatite da monitorare. Merita quindi di essere valutata separatamente come domanda di ricerca, indipendentemente dall'indicazione principale di questo rapporto.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

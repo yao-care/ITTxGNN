@@ -2,15 +2,15 @@
 layout: default
 title: Progesterone
 parent: Prove elevate (L1-L2)
-nav_order: 172
-evidence_level: L1
+nav_order: 364
+evidence_level: L2
 indication_count: 10
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,102 +29,110 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Progesterone: dalla terapia ormonale sostitutiva all'amenorrea
+# Progesterone: dall'endometriosi e dall'iperplasia/carcinoma endometriale all'amenorrea
 
 ## Sintesi in una frase
 
-Progesterone è un ormone steroideo endogeno naturale fondamentale per la fisiologia riproduttiva femminile, ampiamente utilizzato in medicina riproduttiva per il supporto della fase luteale, la terapia ormonale sostitutiva e la regolazione del ciclo mestruale.
-Il modello TxGNN prevede che possa essere efficace per **Amenorrea (malattia)** — l'assenza clinica della mestruazione — con **molteplici studi clinici di Fase 3 completati** e **18 pubblicazioni** che supportano attualmente questa direzione.
-Dato che progesterone è l'ormone centrale del ciclo mestruale, questa previsione rappresenta uno dei candidati al riposizionamento più diretto dal punto di vista meccanicistico e supportato da prove nel dataset.
+Il progesterone è un ormone steroideo usato in ambito ginecologico ed endocrinologico, con indicazioni originarie per endometriosi, patologie endometriali (inclusi carcinoma e neoplasie dell'endometrio), osteoporosi post-menopausale e vaginite atrofica post-menopausale.
+Il modello TxGNN prevede che possa essere utile per l'**amenorrea**, con **4 studi clinici** registrati (1 di fase 3 e 1 di fase 2/3 completati) e **18 pubblicazioni** associate.
+Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e non isolano l'effetto specifico del progesterone.
 
 ---
 
-## Panoramica rapida
+## Quadro di sintesi
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Indicazione originale | Nessuna (nessuna autorizzazione di commercializzazione registrata in Italia) |
-| Nuova indicazione prevista | Amenorrea (malattia) |
-| Punteggio di previsione TxGNN | 99.9996% |
-| Livello di evidenza | L1 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Proseguire con salvaguardie |
+| Indicazione originaria | Endometriosi, patologie endometriali, osteoporosi post-menopausale, vaginite atrofica post-menopausale (da grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Amenorrea |
+| Punteggio di predizione TxGNN | 99,99% |
+| Livello di evidenza | L2 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili dalla fonte DrugBank. Sulla base delle informazioni farmacologiche e cliniche note, Progesterone (DB00396) è il principale progestinico endogeno del sistema riproduttivo femminile, prodotto dal corpo luteo dopo l'ovulazione. La sua relazione con l'amenorrea non è meramente plausibile — è direttamente meccanicistica: l'amenorrea è fondamentalmente uno stato di ciclo di progesterone mancato o assente.
+Nei dati compilati per questo report il meccanismo d'azione dettagliato non è disponibile. In base alle informazioni note, il progesterone è l'ormone fisiologicamente complementare agli estrogeni nel ciclo mestruale. La sua efficacia in ambito ginecologico (endometrio, endometriosi) è consolidata e, dal punto di vista meccanicistico, può essere applicabile all'amenorrea.
 
-Il **Test di stimolazione con progesterone (PCT)** è il primo passo diagnostico internazionalmente accettato nella valutazione dell'amenorrea secondaria. Un clinico somministra un breve ciclo di progesterone esogeno e osserva se si verifica sanguinamento da sospensione; una risposta positiva conferma un endometrio integro, sensibilizzato agli estrogeni, e localizza la causa alla disfunzione dell'asse ipotalamico-ipofisario-ovarico piuttosto che all'ostruzione del deflusso strutturale. Questo uso diagnostico è esso stesso un meccanismo terapeutico — nei pazienti anovulatori (come quelli con PCOS o amenorrea ipotalamica funzionale), un singolo ciclo di progesterone induce la mestruazione.
+Nell'amenorrea ipotalamica o ipoestrogenica (atlete, anoressia nervosa) il progesterone può favorire il sanguinamento da sospensione e la regolazione del ciclo. Il progesterone orale micronizzato è usato in endocrinologia sia a scopo diagnostico (test di sfida con progestinico) sia terapeutico (PMID 38652231).
 
-La letteratura conferma due dimensioni meccanicistiche aggiuntive. In primo luogo, il progesterone micronizzato per via orale regola la pulsatilità dei neuroni ipotalamici kisspeptina-neurochinina B-dinorfina (KNDy), modulando direttamente la secrezione di LH/FSH e ripristinando i cicli ovulatori in alcuni pazienti. In secondo luogo, nell'insufficienza ovarica prematura (POI) e nella menopausa chirurgica, la terapia ormonale sostitutiva combinata con estrogeni-progesterone ripristina il ciclo endometriale completo. In entrambi i percorsi, l'assenza causale di progesterone È la definizione dello stato amenorroico. Il punteggio quasi perfetto di TxGNN del 99.9996% (rango 13 complessivo) riflette questa realtà clinica consolidata piuttosto che una connessione speculativa.
+**Cautela importante:** gli studi registrati valutano soprattutto la sostituzione estrogenica o strategie di ripristino ormonale in donne ipoestrogeniche. Il contributo specifico del progesterone non è quindi isolato.
 
 ---
 
-## Evidenza da studi clinici
+## Evidenze da studi clinici
 
-| Numero di studio | Fase | Stato | Iscrizione | Risultati principali |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT01942668](https://clinicaltrials.gov/study/NCT01942668) | Fase 3 | Completato | 1,845 | Grande RCT di combinazione Estradiolo + Progesterone per sintomi vasomotori in donne in postmenopausa; convalida direttamente il ruolo del progesterone nella gestione ormonale dell'amenorrea associata al ciclo e della protezione endometriale nell'utero integro |
-| [NCT01185782](https://clinicaltrials.gov/study/NCT01185782) | Fase 3 | Completato | 300 | Preparazione di FSH vs. gonadotropina ipofisaria purificata in pazienti con **amenorrea I o cicli anovulatori** dovuti a disfunzione ipotalamica/ipofisaria; stabilisce l'amenorrea come indicazione primaria di Fase 3 |
-| [NCT05312190](https://clinicaltrials.gov/study/NCT05312190) | N/A | Sconosciuto | 330 | RCT multicentrico che confronta direttamente **Capsule di Progesterone** vs. formula tradizionale a base di erbe vs. combinazione per disturbi mestruali inclusa l'amenorrea in donne adulte; l'evidenza farmacologica più diretta in questo dataset |
-| [NCT03309176](https://clinicaltrials.gov/study/NCT03309176) | Fase 4 | Completato | 42 | RCT che testa se la sospensione dello **sanguinamento da ritiro indotto da progesterone** prima dell'induzione dell'ovulazione influenza i tassi di gravidanza in pazienti con oligo/amenorrea; interroga direttamente il meccanismo del progesterone nel ripristino del ciclo |
-| [NCT03309709](https://clinicaltrials.gov/study/NCT03309709) | Fase 3 | Sconosciuto | 90 | Studio randomizzato di progesterone sottocutaneo 25 mg (giorni del ciclo 18–25) per regressione di polipi endometriali; utilizza direttamente il progesterone come intervento di studio |
-| [NCT00068601](https://clinicaltrials.gov/study/NCT00068601) | Fase 3 | Completato | 257 | Goserelina durante la chemioterapia per prevenire il **fallimento ovarico/amenorrea indotta da chemioterapia** in carcinoma mammario stadio I–IIIA; convalida la prevenzione dell'amenorrea come endpoint clinico primario regolamentato di Fase 3 |
-| [NCT01441635](https://clinicaltrials.gov/study/NCT01441635) | Fase 2 | Completato | 271 | Elagolix (antagonista del GnRH) per sanguinamento uterino pesante associato a fibromi; l'amenorrea indotta come modello controllato, confermando il ritiro del progesterone come il trigger biochimico |
-| [NCT07224438](https://clinicaltrials.gov/study/NCT07224438) | Fase 2 | In reclutamento | 20 | Kisspeptina SC per amenorrea ipotalamica; ha come bersaglio il percorso neuronale KNDy a monte della sintesi del progesterone, fornendo il contesto meccanicistico per la base neuroendocrina della carenza di progesterone in questo fenotipo |
-| [NCT02449161](https://clinicaltrials.gov/study/NCT02449161) | Fase 3 | Terminato | 60 | **Acetato di medroxiprogesterone** post-ablazione per modificare i tassi di amenorrea endometriale dopo ablazione; testa direttamente un progestinico per la modulazione degli esiti dell'amenorrea (terminato in anticipo, risultati limitati) |
-| [NCT01927432](https://clinicaltrials.gov/study/NCT01927432) | N/A | Completato | 73 | Caratterizzazione ecografica osservazionale della dinamica dell'onda follicolare ovarica in donne con amenorrea; stabilisce il collegamento tra disfunzione follicolare, anovulazione e amenorrea che la terapia con progesterone affronta |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fase 3 | Completato | 121 | Modulazione della funzione riproduttiva ed endocrina in giovani atlete; estrogeni transdermici/orali vs nessun estrogeno per densità ossea in atlete amenorroiche. Popolazione pertinente, effetto specifico del progesterone incerto |
+| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Fase 2/3 | Completato | 110 | Effetti dell'anoressia nervosa sul picco di massa ossea; ruolo della somministrazione di estrogeni in adolescenti con amenorrea ipogonadica. Endpoint primario: massa ossea |
+| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Fase 2 | Attivo, non in reclutamento | 120 | Estradiolo transdermico con progesterone ciclico vs placebo in adolescenti/giovani adulte ipoestrogeniche con disturbi alimentari; endpoint cognitivi, solo indirettamente legati all'amenorrea |
+| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Fase 2 | Completato | 29 | Aterosclerosi e infiammazione in giovani donne con amenorrea ipotalamica funzionale; endpoint cardiovascolari, non il ripristino del ciclo |
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Revisione clinica | Reviews in Endocrine & Metabolic Disorders | Revisione completa del progesterone micronizzato per via orale in endocrinologia; documenta il suo ruolo nella regolazione della pulsatilità LH/FSH attraverso neuroni KNDy, nel controllo della ciclicità endometriale e il suo uso diagnostico/terapeutico in tutto lo spettro dell'amenorrea |
-| [35525789](https://pubmed.ncbi.nlm.nih.gov/35525789/) | 2022 | Revisione | Current Problems in Pediatric & Adolescent Health Care | Revisione sistematica dell'eziologia dell'amenorrea e della gestione negli adolescenti e negli adulti giovani; posiziona la sostituzione con progesterone/estrogeni come pietra angolare del trattamento della disfunzione dell'asse HPO causante amenorrea |
-| [40474175](https://pubmed.ncbi.nlm.nih.gov/40474175/) | 2025 | Coorte retrospettiva | BMC Surgery | La terapia sequenziale ad alte dosi di estrogeni e **progesterone** combinata con separazione a freddo isteroscopica migliora significativamente il recupero della morfologia della cavità uterina nei pazienti con amenorrea indotta da aderenze intrauterine (IUA) severa |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Revisione | Frontiers in Endocrinology | Revisione dell'eziologia della POI (insufficienza ovarica prematura) e del trattamento; identifica la TOS contenente progesterone come standard clinico per ripristinare la ciclicità e prevenire le complicanze a lungo termine nell'amenorrea associata a POI |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Revisione | Climacteric | Gestione dei sanguinamenti vaginali postmenopausali; la menopausa è clinicamente definita come 12 mesi di amenorrea completa dovuta al declino di estrogeni e progesterone — posiziona direttamente la carenza di progesterone come la causa centrale |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Revisione | Reviews in Endocrine & Metabolic Disorders | Trattamenti ormonali per l'endometriosi; discute la terapia con progestinici come intervento ormonale di prima linea, inclusa la gestione dell'amenorrea anovulatoria associata attraverso la decidualizzazione mediata dal progesterone |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Revisione | Seminars in Reproductive Medicine | Le aderenze intrauterine (sindrome di Asherman) come causa strutturale di amenorrea; il progesterone combinato con estrogeni viene utilizzato dopo la lisi isteroscopica per ripristinare la ciclicità endometriale |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Revisione | American Family Physician | Guida clinica classica alla valutazione dell'amenorrea; delinea il **test di stimolazione con progestinico** come il passo diagnostico fondamentale per differenziare le cause anovulatorie da quelle anatomiche |
-| [945033](https://pubmed.ncbi.nlm.nih.gov/945033/) | 1976 | Serie di casi | Annals of Internal Medicine | 15 pazienti con sindrome galattorrea-amenorrea; LH e progesterone non hanno mostrato picchi ovulatori normali; documenta la carenza di progesterone come la firma biochimica dell'amenorrea, ripristinata con trattamento efficace |
-| [35463307](https://pubmed.ncbi.nlm.nih.gov/35463307/) | 2022 | Meta-analisi | Frontiers in Oncology | Meta-analisi dell'amenorrea indotta da chemioterapia in pazienti con carcinoma mammario in premenopausa; identifica l'età e il regime come fattori di rischio e sottolinea l'importanza dei controlli ormonali basati sul progesterone e delle strategie di protezione |
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Revisione | Rev Endocr Metab Disord | Uso diagnostico e terapeutico del progesterone orale micronizzato in endocrinologia; controllo dell'asse ipotalamo-ipofisi-ovaio e dell'endometrio |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Revisione | Rev Endocr Metab Disord | Basi endocrine dei trattamenti ormonali per l'endometriosi (dipendenza estrogenica e resistenza al progesterone) |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Revisione | Front Endocrinol | Eziologia, sintomi e trattamento dell'insufficienza ovarica prematura |
+| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Revisione | Reprod Sci | Metodi di riparazione e rigenerazione dell'endometrio danneggiato (aderenze intrauterine, endometrio sottile) |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Revisione | Semin Reprod Med | Aderenze intrauterine (sindrome di Asherman), con spettro che va dall'amenorrea alla mestruazione normale |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Revisione | Am Fam Physician | Valutazione diagnostica dell'amenorrea |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Rassegna clinica | Climacteric | Gestione clinica del sanguinamento vaginale nelle donne in post-menopausa |
+| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | Rassegna | Gynecol Endocrinol | Controllo neuroendocrino dell'ovulazione; anovulazione/amenorrea da insufficienza ipotalamica |
+| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | Rassegna | South Med J | Insufficienza ovarica primaria e terapia ormonale sostitutiva |
+| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | Rassegna | Am Fam Physician | Approccio diagnostico all'amenorrea, incluso il sanguinamento dopo ciclo di solo progesterone |
+
+Nessuna delle pubblicazioni elencate è uno studio randomizzato controllato sul progesterone nell'amenorrea.
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Progesterone (DB00396) attualmente **non ha autorizzazioni di commercializzazione approvate in Italia**. Nessuna registrazione di prodotto, indicazioni concesse in licenza o dati sulla forma farmaceutica sono stati identificati nel database normativo. Il farmaco è classificato come **non commercializzato** in Italia al momento di questa valutazione (data di cutoff: 2026-05-06).
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 032132033 | CRINONE gel vaginale 15 applicatori 8% (Merck Serono) | Gel vaginale | Autorizzazione cancellata |
+| 035042011 | PROGEFFIK 30 capsule molli orali o vaginali 100 mg (Effik Italia) | Capsule molli | Autorizzazione cancellata |
+| 005239052 | PRONTOGEST 3 fiale IM 100 mg/1 ml (IBSA) | Fiale intramuscolo | Autorizzazione cancellata |
+| 044825026 | AMELGEN 15 ovuli vaginali 400 mg (Gedeon Richter) | Ovuli vaginali | Autorizzazione cancellata |
+| 035042035 | PROGEFFIK 15 capsule molli orali o vaginali 200 mg (Effik Italia) | Capsule molli | Autorizzazione cancellata |
+
+Sono presenti altre 2 autorizzazioni (PROMETRIUM 100 mg e 200 mg, Besins), anch'esse cancellate. Nessuna autorizzazione è attualmente valida.
 
 ---
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni segnalate dal grafo di conoscenza** (non da testo di scheda tecnica): ipertensione, insufficienza e malattie epatiche, epilessia, disturbi d'ansia e nevrotici, porfiria, malattie renali e della colecisti, iperglicemia, ipotiroidismo, osteoporosi, lupus eritematoso sistemico, asma, diabete mellito e chetoacidosi diabetica, ipertrigliceridemia, abuso/dipendenza da sostanze.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni, di livello moderato nei principali esempi riportati. Riguardano soprattutto antidiabetici (acarbosio, metformina, pioglitazone, glimepiride, repaglinide, inibitori SGLT2 e DPP-4, agonisti del GLP-1, insuline) e inoltre aprepitant e claritromicina.
 
-> **Nota:** Il dataset formale sulla sicurezza per questa valutazione contiene lacune nei dati in categorie chiave di avvertenze e controindicazioni. Prima dell'uso clinico, i prescrittori dovrebbero consultare lo SmPC/foglio illustrativo attuale e le linee guida AIFA rilevanti. Di particolare rilevanza per il progesterone sono considerazioni note a livello di classe incluso il rischio di tromboembolismo, le condizioni sensibili agli ormoni (ad es., carcinoma mammario positivo ai recettori ormonali) e l'insufficienza epatica.
+Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo.
 
 ---
 
-## Conclusioni e passaggi successivi
+## Conclusione e prossimi passi
 
-**Decisione: Proseguire con salvaguardie**
+**Decisione: Proceed with Guardrails (procedere con cautele)**
 
-**Razionale:**
-La previsione di TxGNN è inequivocabilmente supportata dalla farmacologia consolidata — il progesterone È il fondamento ormonale della regolazione del ciclo mestruale, e il suo uso clinico nella gestione dell'amenorrea è già pratica standard in tutto il mondo in molteplici sotto-indicazioni. Con evidenza L1 (molteplici RCT di Fase 3 completati confermati), il caso scientifico e clinico è robusto. I principali ostacoli al procedimento sono normativi (nessuna autorizzazione italiana) e completezza dei dati (lacune nella documentazione di sicurezza in questo dataset), piuttosto che qualsiasi carenza nelle prove cliniche.
+**Motivazione:**
+- Sono presenti studi di fase 3 e fase 2/3 completati nella popolazione pertinente (amenorrea ipoestrogenica), ma testano soprattutto gli estrogeni; il contributo del progesterone non è isolato. Per questo l'evidenza è L2 e non superiore.
+- Inoltre, tutte le autorizzazioni italiane sono cancellate: un eventuale riposizionamento richiederebbe una nuova autorizzazione.
 
-**Per procedere, quanto segue è necessario:**
-- Ottenere e rivedere lo SmPC completo / l'informazione per il prescrittore per documentare le controindicazioni, gli avvertimenti, le interazioni farmacologiche e le linee guida per le popolazioni speciali (la lacuna di dati in sospeso più critica)
-- Recuperare la documentazione formale del meccanismo d'azione da DrugBank (MOA attualmente non disponibile nel dataset)
-- Definire la sottopopolazione target specifica per il contesto italiano: amenorrea anovulatoria (PCOS/funzionale ipotalamica), amenorrea correlata a POI, amenorrea post-chemioterapia o post-chirurgica (correlata a IUA) — ognuna richiede un protocollo clinico distinto
-- Avviare la valutazione del percorso normativo con AIFA per l'autorizzazione di commercializzazione (nuova domanda, riconoscimento reciproco o procedura decentralizzata)
-- Stabilire un piano di monitoraggio della sicurezza affrontando il rischio di tromboembolismo, le controindicazioni ormonali e il monitoraggio della risposta endometriale negli scenari di uso a lungo termine
+**Per procedere sono necessari:**
+- Studi che isolino l'effetto del progesterone (ad esempio confronto con e senza progesterone, ripristino del ciclo come endpoint).
+- Dati sul meccanismo d'azione.
+- Testi ufficiali di avvertenze e controindicazioni dal foglio illustrativo AIFA (attualmente mancanti, quindi lo screening di sicurezza non è completabile).
+- Valutazione della via di somministrazione e del percorso regolatorio, dato lo stato di mercato.
 
+---
+
+*Nota sulle altre predizioni:* le altre indicazioni predette hanno evidenza molto più debole: malattia fibrocistica della mammella, displasia mammaria benigna, endometriosi cervicale, endometriosi del setto rettovaginale e cicatriziale (L4, da considerare solo come quesiti di ricerca), ipoplasia renale, adenosi a dotti ostruiti e adenosi apocrina (L5, Hold). In particolare, per la malattia mammaria benigna la direzione dell'effetto del progesterone è incerta, perché ha anche effetti proliferativi sul tessuto mammario.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

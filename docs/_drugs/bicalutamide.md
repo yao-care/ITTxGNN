@@ -2,7 +2,7 @@
 layout: default
 title: Bicalutamide
 parent: Prove elevate (L1-L2)
-nav_order: 37
+nav_order: 70
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,99 +29,123 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Bicalutamide: dal Cancro alla Prostata al Carcinoma della Mammella Femminile
+# Bicalutamide: dal carcinoma prostatico al carcinoma mammario femminile
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Bicalutamide è un antagonista del recettore degli androgeni (AR) non steroideo con approvazione normativa globale per il cancro della prostata, attualmente non registrato in Italia.
-Il modello TxGNN predice che potrebbe essere efficace per il **Carcinoma della Mammella Femminile** — in particolare per il sottotipo di carcinoma mammario triplo-negativo AR-positivo (LAR-TNBC) —
-con **1 trial clinico di Fase 2** e **20 pubblicazioni** attualmente a supporto di questa direzione.
+Bicalutamide è un antiandrogeno non steroideo, un antagonista del recettore degli androgeni. In Italia tutte le autorizzazioni risultano oggi revocate o cancellate e nei dati compilati non è riportata alcuna indicazione approvata.
+Il modello TxGNN lo associa a diverse malattie. Per questo report è stata valutata la predizione con il supporto clinico più concreto: il **carcinoma mammario femminile**, con **1 studio clinico di Fase 2** e **20 pubblicazioni** (in gran parte preclinici e revisioni).
+La predizione con il punteggio più alto (ipertricosi) ha invece solo un commento a un articolo come evidenza indiretta.
 
 ---
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione Originale | Cancro della Prostata (approvato a livello globale; non attualmente registrato in Italia) |
-| Indicazione Predetta Nuova | Carcinoma della Mammella Femminile |
-| Punteggio di Predizione TxGNN | 99.11% |
-| Livello di Evidenza | L2 |
-| Stato del Mercato in Italia | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Salvaguardie |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle licenze AIFA sono vuoti) |
+| Nuova indicazione predetta | Carcinoma mammario femminile (nona predizione per punteggio; scelta per la solidità dell'evidenza) |
+| Punteggio di predizione TxGNN | 99,11% (la predizione con il punteggio più alto, ipertricosi, ha 99,69%) |
+| Livello di evidenza | L2 |
+| Stato di mercato in Italia | Solo autorizzazioni cancellate |
+| Numero di autorizzazioni | 20 (0 valide, 20 cancellate) |
+| Decisione raccomandata | Hold |
+
+**Nota sulla scelta dell'indicazione:** la predizione di rango 1 è l'ipertricosi (99,69%, evidenza L4, Hold). Il report si concentra sul carcinoma mammario perché è l'unica indicazione con uno studio clinico direttamente pertinente al farmaco.
+
+**Nota sul livello di evidenza:** L2 è il livello assegnato nei dati compilati. Lo studio di Fase 2 disponibile è a braccio singolo, con 30 pazienti, e non ha risultati riportati. Il livello è quindi da intendere come provvisorio e non come evidenza forte. Non è presente alcuno studio di Fase 3.
 
 ---
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Bicalutamide è un antagonista del recettore degli androgeni (AR) non steroideo: si lega competitivamente al dominio di legame dei ligandi di AR, bloccando l'attivazione mediata dagli androgeni della trascrizione genica. Questo meccanismo è la base della terapia ormonale del cancro della prostata, dove la segnalazione di AR è il principale fattore di crescita. I dati dettagliati del meccanismo d'azione dal bugiardino italiano non erano reperibili in questo pacchetto dati; la descrizione di cui sopra si basa sulla letteratura farmacologica ben consolidata.
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati. In base alle conoscenze note, bicalutamide è un antagonista del recettore degli androgeni (AR) usato in oncologia ormonale. Meccanisticamente può essere applicabile ai tumori della mammella che esprimono AR.
 
-Il recettore degli androgeni è espresso nel 70–90% circa di tutti i carcinomi mammari. All'interno del carcinoma mammario triplo-negativo (TNBC) — un sottotipo privo di recettore degli estrogeni, recettore del progesterone e amplificazione di HER2 — circa il 10–35% dei casi appartiene al sottotipo **luminale con recettore degli androgeni (LAR)**, dove AR è il principale segnale oncogenico. Nei tumori LAR-TNBC, AR promuove la proliferazione e l'invasione attraverso l'attivazione della trascrizione di β-catenina, cascate di fosforilazione di ERK e soppressione mediata da FOXC2 della ferroptosi. Molteplici studi in vitro confermano che bicalutamide sopprime la crescita delle cellule LAR-TNBC bloccando direttamente questi percorsi dipendenti da AR.
+Il recettore degli androgeni è espresso in una quota consistente dei tumori mammari, in particolare nel sottotipo triplo negativo "luminal androgen receptor" (LAR) e nel carcinoma apocrino. In questi contesti l'AR può sostenere la crescita tumorale. Bloccarlo è quindi un'ipotesi terapeutica razionale. Studi preclinici mostrano che bicalutamide riduce proliferazione e invasività di cellule di carcinoma mammario triplo negativo (per esempio MDA-MB-231) e ha effetti sinergici con altri agenti, tra cui curcumina, inibitori di ERK e chemioterapia.
 
-Il parallelo meccanicistico con il cancro della prostata è quindi diretto e biologicamente coerente: lo stesso blocco di AR che controlla il cancro della prostata castrazione-naive si applica ai sottotipi di cancro della mammella guidati da AR. L'esistenza di un trial di Fase 2 in corso che combina bicalutamide con doppio blocco del checkpoint immunitario (NCT03650894), insieme a un caso documentato di risposta clinica completa e pubblicazioni recenti fino al 2026, conferma che questa è una direzione di ricerca attiva e scientificamente credibile — non un'estrapolazione speculativa.
+I dati clinici sono però limitati e non univoci. In uno studio di Fase 2 a braccio singolo, bicalutamide associato a un inibitore dell'aromatasi in pazienti con carcinoma avanzato ER+/AR+ non ha mostrato sinergia (beneficio clinico a 6 mesi 16,7%, risposta obiettiva 0%) ed è stato interrotto. Servirebbe un approccio selezionato per biomarcatore, cioè limitato ai tumori AR-positivi.
 
 ---
 
-## Evidenza da Trial Clinici
+## Evidenze da studi clinici
 
-| Numero Trial | Fase | Stato | Arruolamento | Risultati Chiave |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) | Fase 2 | Attivo, Non in Reclutamento | 30 | Valuta la sicurezza e l'efficacia di bicalutamide combinato con nivolumab e ipilimumab nel carcinoma mammario metastatico HER2-negativo; progettato per integrare il blocco di AR con doppio inibizione del checkpoint immunitario come strategia senza chemioterapia |
+| [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) | Fase 2 | Attivo, non in arruolamento | 30 | Nivolumab + bicalutamide + ipilimumab nel carcinoma mammario metastatico HER2-negativo. Studio a braccio singolo che combina blocco dell'AR e immunoterapia. Nessun risultato riportato nei dati compilati. |
+
+Gli studi collegati alle altre predizioni (per esempio NCT03878524 e NCT02615223 per le neoplasie endocrine multiple) non sono pertinenti e non sono qui elencati.
 
 ---
 
-## Evidenza dalla Letteratura
+## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|---------|
-| [40853613](https://pubmed.ncbi.nlm.nih.gov/40853613/) | 2025 | Revisione | Current Medical Science | Revisione completa degli agenti anti-androgeni (bicalutamide, enzalutamide, enobosarm) per TNBC AR+; copre approcci combinatori con chemioterapia e immunoterapia |
-| [40974527](https://pubmed.ncbi.nlm.nih.gov/40974527/) | 2026 | Preclinico | Science China. Life Sciences | AR + co-inibizione di ERK innesca ferroptosi via FOXC2 in TNBC; bicalutamide + GDC-0994 mostrano significativo effetto sinergico anti-tumorale in vitro e in vivo |
-| [33341447](https://pubmed.ncbi.nlm.nih.gov/33341447/) | 2021 | Traslazionale | European Journal of Cancer | La PET con [¹⁸F]-FDHT seriale dimostra la cinetica di occupazione di AR durante il trattamento con bicalutamide nel carcinoma mammario metastatico AR+; propone l'imaging di AR come biomarcatore predittivo di risposta |
-| [31434793](https://pubmed.ncbi.nlm.nih.gov/31434793/) | 2020 | Fase II | The Oncologist | Bicalutamide + inibitore dell'aromatasi nel carcinoma mammario avanzato ER+/AR+ resistente agli inibitori dell'aromatasi; studio monocentrico di Fase II terminato anticipatamente per efficacia limitata (CBR 16.7% a 6 mesi, ORR 0%) — evidenzia l'importanza della selezione dei pazienti |
-| [32332626](https://pubmed.ncbi.nlm.nih.gov/32332626/) | 2020 | In vitro | Medicine | Bicalutamide inibisce la proliferazione e l'invasione delle cellule TNBC MDA-MB-231; meccanicisticamente collegato alla soppressione del percorso di segnalazione di AR |
-| [31917699](https://pubmed.ncbi.nlm.nih.gov/31917699/) | 2020 | In vitro | Anti-Cancer Drugs | La combinazione bicalutamide + curcumina mostra un forte effetto terapeutico sulle cellule TNBC AR+; sinergismo attraverso doppia disruzione del percorso |
-| [29069648](https://pubmed.ncbi.nlm.nih.gov/29069648/) | 2017 | Meccanicistico | Cellular Physiology and Biochemistry | Bicalutamide antagonizza AR e inibisce il complesso di trascrizione AR–β-catenina nel carcinoma mammario ER-negativo; fornisce la razionale meccanicistica per gli studi di Fase II in corso |
-| [24888812](https://pubmed.ncbi.nlm.nih.gov/24888812/) | 2016 | Case Report | Journal of Clinical Oncology | Risposta completa del carcinoma mammario metastatico AR-positivo alla monoterapia con bicalutamide — primo proof-of-concept clinico pubblicato per l'attività come agente singolo |
-| [21633166](https://pubmed.ncbi.nlm.nih.gov/21633166/) | 2011 | Traslazionale | Journal of Clinical Investigation | Articolo di riferimento che identifica 6 sottotipi molecolari di TNBC incluso il LAR (recettore degli androgeni luminale); stabilisce AR come bersaglio terapeutico primario e razionale per la terapia anti-androgena in TNBC |
-| [29940524](https://pubmed.ncbi.nlm.nih.gov/29940524/) | 2018 | Revisione | Cancer Treatment Reviews | Caratterizzazione dettagliata del sottotipo LAR-TNBC: caratteristiche genomiche (arricchimento di PIK3CA), prevalenza di espressione di AR (~10–35% di TNBC), e razionale clinico per la terapia mirata ad AR |
+Sono riportate le pubblicazioni più rilevanti tra le 20 disponibili (priorità a studi clinici, poi revisioni, poi studi preclinici).
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [31434793](https://pubmed.ncbi.nlm.nih.gov/31434793/) | 2020 | Fase 2, braccio singolo | The Oncologist | Bicalutamide + inibitore dell'aromatasi in carcinoma avanzato ER+/AR+: nessuna sinergia, risposta obiettiva 0%, studio interrotto. |
+| [40853613](https://pubmed.ncbi.nlm.nih.gov/40853613/) | 2025 | Revisione | Current Medical Science | Stato dell'arte della terapia antiandrogenica nel carcinoma mammario triplo negativo, incluse le combinazioni con chemioterapia e immunoterapia. |
+| [29940524](https://pubmed.ncbi.nlm.nih.gov/29940524/) | 2018 | Revisione | Cancer Treatment Reviews | L'AR come potenziale bersaglio nel sottotipo triplo negativo, in particolare LAR. |
+| [32145961](https://pubmed.ncbi.nlm.nih.gov/32145961/) | 2020 | Revisione | Bulletin du Cancer | Biologia e terapia del carcinoma triplo negativo AR-positivo (circa 30% dei casi). |
+| [24740738](https://pubmed.ncbi.nlm.nih.gov/24740738/) | 2014 | Revisione | J Mol Endocrinol | Ruolo rivisto dell'AR nel carcinoma mammario e dell'interazione con ERα. |
+| [35027319](https://pubmed.ncbi.nlm.nih.gov/35027319/) | 2022 | Revisione | Clinical Breast Cancer | Caratteristiche molecolari e cliniche del carcinoma apocrino, ER-negativo e AR-positivo. |
+| [32332626](https://pubmed.ncbi.nlm.nih.gov/32332626/) | 2020 | Preclinico | Medicine | Effetto di bicalutamide su proliferazione e invasione delle cellule MDA-MB-231. |
+| [31917699](https://pubmed.ncbi.nlm.nih.gov/31917699/) | 2020 | Preclinico | Anti-Cancer Drugs | Combinazione bicalutamide + curcumina con forte effetto terapeutico nei tumori triplo negativi AR-positivi. |
+| [40974527](https://pubmed.ncbi.nlm.nih.gov/40974527/) | 2026 | Preclinico | Science China Life Sciences | Inibizione combinata di AR ed ERK (bicalutamide + GDC-0994) con sinergia e induzione di ferroptosi nel carcinoma triplo negativo. |
+| [39063165](https://pubmed.ncbi.nlm.nih.gov/39063165/) | 2024 | Preclinico | Int J Mol Sci | Bicalutamide potenzia la chemioterapia in linee cellulari di carcinoma mammario infiammatorio umano e canino. |
+
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 20 autorizzazioni risultano cancellate. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili nei dati compilati (compresse rivestite da 50 mg e 150 mg).
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 031113018 | Casodex, 28 compresse rivestite 50 mg | Lab. Juvisé Pharmaceuticals | Cancellata |
+| 031113020 | Casodex, 28 compresse rivestite 150 mg | Lab. Juvisé Pharmaceuticals | Cancellata |
+| 038959060 | Bikader, 28 compresse rivestite 50 mg | Ecupharma Srl | Cancellata |
+| 039241029 | Midelut, 28 compresse rivestite 50 mg | Nextad Pharma Srl | Cancellata |
+| 040072035 | Bicalutamide, 28 compresse rivestite 150 mg | Sun Pharmaceutical Ind. Eu. B.V. | Cancellata |
 
 ---
 
 ## Citotossicità
 
 | Voce | Contenuto |
-|------|---------|
-| Classificazione della Citotossicità | Terapia mirata — Antagonista del Recettore degli Androgeni (antiandrogeno non steroideo; terapia ormonale/endocrina) |
-| Rischio di Mielosoppressione | Basso (bicalutamide manca di attività citotossica diretta sulle cellule progenitrici ematopoietiche; la mielosoppressione non è un effetto di classe riconosciuto) |
-| Classificazione dell'Emetogenicità | Bassa |
-| Elementi di Monitoraggio | Test della funzione epatica (ALT, AST, bilirubina totale — danno epatico indotto dal farmaco è un rischio noto), CBC al basale, funzionalità renale |
-| Protezione della Manipolazione | Procedure standard di manipolazione farmaceutica; le misure speciali di contenimento citotossico (dispositivi di trasferimento a sistema chiuso, ecc.) generalmente non sono richieste per questa classe di farmaci |
+|------|------|
+| Classificazione di citotossicità | Terapia ormonale mirata (antiandrogeno non steroideo), non chemioterapico citotossico convenzionale |
+| Rischio di mielosoppressione | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
+| Classificazione emetogenica | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
+| Parametri da monitorare | Funzionalità epatica, glicemia ed emocromo, in base alle condizioni segnalate nel grafo di conoscenza (vedi sezione sulla sicurezza) |
+| Protezione nella manipolazione | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
 
 ---
 
-## Considerazioni sulla Sicurezza
+## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al bugiardino per le informazioni sulla sicurezza.
+- **Controindicazioni e condizioni a rischio (dal grafo di conoscenza TxGNN, non dal testo del foglio illustrativo):** malattia epatica, malattia della colecisti, iperglicemia, diabete mellito, chetoacidosi diabetica, anemia (anche macrocitica), malattia polmonare interstiziale, danno epatico da farmaci.
+- **Interazioni farmacologiche:** sono state rilevate 100 interazioni. Tra quelle elencate, le più rilevanti di livello **maggiore** sono con **cisapride** e **dolasetron**. Quelle di livello moderato includono famotidina, loperamide, aprepitant, claritromicina, levofloxacina, granisetron, budesonide ed eliglustat, oltre a diversi lassativi (bisacodile, lattulosio, lattitolo, olio di ricino, citrato e idrossido di magnesio, glicerina, olio minerale). Il metronidazolo è di livello minore.
 
-> **Nota:** I dati completi sulla sicurezza (avvertenze approvate da AIFA, controindicazioni e interazioni farmacologiche) non erano disponibili in questo Pacchetto Evidenze. Il recupero della Scheda Tecnica ufficiale italiana è richiesto prima di qualsiasi decisione clinica.
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 ---
 
-## Conclusione e Passi Successivi
+## Conclusioni e prossimi passi
 
-**Decisione: Procedere con Salvaguardie**
+**Decisione: Hold**
 
-**Razionale:**
-Bicalutamide possiede un meccanismo diretto e biologicamente coerente (blocco di AR) per il trattamento del carcinoma della mammella AR-positivo, convalidato da un trial di Fase 2 in corso, molteplici studi in vitro, un caso documentato di risposta clinica completa e pubblicazioni recenti fino al 2026. L'evidenza è sufficiente per far avanzare questa ipotesi — ma deve essere applicata rigorosamente ai pazienti selezionati per biomarcatore (tumori AR+, in particolare LAR-TNBC) per evitare il fallimento di efficacia osservato in popolazioni non selezionate.
+**Motivazione:**
+- Per il carcinoma mammario esiste un razionale biologico credibile (AR nei tumori LAR/triplo negativi) e uno studio di Fase 2 in corso, ma è a braccio singolo, in combinazione e senza risultati. Uno studio di Fase 2 su bicalutamide più inibitore dell'aromatasi è stato negativo e interrotto, e non vi sono studi di Fase 3.
+- Tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo, che bloccano l'avanzamento allo screening di sicurezza.
+- Le altre predizioni (ipertricosi, leprosa, ipertensione polmonare e altre) hanno evidenza assente o solo indiretta e non sono supportate da un legame meccanicistico.
 
-**Per procedere, è necessario quanto segue:**
-- **Revisione della sicurezza**: Recuperare e analizzare la Scheda Tecnica ufficiale AIFA (o informazioni sul prodotto EMA) per documentare gli avvertimenti di epatotossicità, controindicazioni e interazioni farmacologiche prima di qualsiasi applicazione clinica
-- **Prerequisito del biomarcatore**: Stabilire il test di espressione di AR (IHC ≥10% di soglia o conferma del sottotipo molecolare LAR) come criterio obbligatorio di selezione dei pazienti — bicalutamide non dovrebbe beneficiare i tumori AR-negativi
-- **Attendere i risultati della Fase 2**: Monitorare NCT03650894 (completamento previsto dicembre 2026) per il riassunto di sicurezza ed efficacia prima di espandere ai protocolli di immunoterapia combinata
-- **Analisi del percorso normativo**: Condurre una valutazione della fattibilità di autorizzazione AIFA per l'Italia, incluso il quadro di uso off-label o una domanda formale di ripropensionamento del farmaco, dato zero registrazioni attuali nel paese
-- **Pianificazione della strategia di combinazione**: Per l'approccio emergente di co-targeting AR + ERK (bicalutamide + inibitore di ERK; dati 2026 su FOXC2/ferroptosi), un pacchetto preclinico dedicato dovrebbe essere completato prima di iniziare l'escalation di dose di Fase 1 negli umani
-
+**Per procedere sono necessari:**
+- Avvertenze e controindicazioni ufficiali dal foglio illustrativo AIFA (lacuna bloccante).
+- Dati dettagliati sul meccanismo d'azione, per esempio da DrugBank.
+- I risultati dello studio NCT03650894 e, se positivi, studi randomizzati in pazienti selezionati per positività all'AR (per esempio carcinoma triplo negativo LAR).
+- Una verifica dello stato regolatorio in Italia, poiché nessuna autorizzazione risulta valida.
+- Un piano di monitoraggio della sicurezza epatica e metabolica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

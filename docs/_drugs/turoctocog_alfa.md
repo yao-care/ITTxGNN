@@ -2,7 +2,7 @@
 layout: default
 title: Turoctocog Alfa
 parent: Solo previsione del modello (L5)
-nav_order: 208
+nav_order: 455
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Turoctocog alfa: dall'emofilia A al disturbo primario del rilascio piastrinico
+# Turoctocog alfa: dall'emofilia a un disturbo di rilascio piastrinico primario
 
-## Riassunto in una sola frase
+## Riepilogo in una frase
 
-Turoctocog alfa (NovoEight®) è un Fattore VIII ricombinante umano troncato nel dominio B (rFVIII), originariamente sviluppato per la prevenzione e il trattamento degli episodi emorragici nell'emofilia A.
-Il modello TxGNN prevede che potrebbe essere efficace per il **disturbo primario del rilascio piastrinico**, con un punteggio di predizione di **99.99%**.
-Tuttavia, questa indicazione è attualmente supportata da **0 studi clinici** e **0 pubblicazioni** — la predizione si basa interamente sulla topologia del grafo di conoscenza e non dispone di alcuna evidenza clinica empirica.
-
----
+Turoctocog alfa è un fattore VIII della coagulazione ricombinante umano, utilizzato originariamente per il trattamento dell'emofilia (inclusa la forma sintomatica nelle portatrici di sesso femminile). Il modello TxGNN prevede una possibile efficacia nel **disturbo primario del rilascio piastrinico**, ma attualmente **non risulta alcuno studio clinico né alcuna pubblicazione** a sostegno di questa direzione: si tratta di una previsione puramente computazionale.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Emofilia A (deficienza congenita del Fattore VIII) |
-| Nuova indicazione predetta | Disturbo primario del rilascio piastrinico |
-| Punteggio di predizione TxGNN | 99.99% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emofilia; forma sintomatica di emofilia nelle portatrici di sesso femminile (testo di indicazione AIFA non disponibile) |
+| Nuova indicazione prevista | Disturbo primario del rilascio piastrinico |
+| Punteggio di previsione TxGNN | 99,99% |
 | Livello di evidenza | L5 |
-| Stato di commercializzazione in Italia | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Non procedere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché questa predizione è ragionevole?
+Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili. Sulla base delle informazioni note, turoctocog alfa è un fattore VIII ricombinante che sostituisce il fattore carente nell'emofilia A e partecipa al complesso tenasi della cascata coagulativa.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di evidenze. Sulla base della conoscenza farmacologica consolidata, turoctocog alfa è un Fattore VIII ricombinante umano troncato nel dominio B. Funziona come cofattore nel complesso tenasi intrinseco (FVIIIa + FIXa), amplificando notevolmente la generazione di trombina attraverso la cascata coagulativa intrinseca. La sua efficacia consolidata è nell'emofilia A — una malattia definita dalla deficienza di FVIII che porta a una compromissione dell'emostasi secondaria.
+Nel caso specifico, il collegamento meccanicistico è **debole**. I disturbi del rilascio piastrinico sono dovuti a difetti intrinseci della secrezione piastrinica e non a una carenza di fattore VIII, quindi la sostituzione del FVIII non corregge il difetto di base. L'elevato punteggio TxGNN riflette probabilmente la vicinanza nel grafo di conoscenza tra i disturbi della coagulazione e quelli emorragici, più che una reale plausibilità biologica.
 
-Il disturbo primario del rilascio piastrinico (malattia da carenza di riserve) implica il rilascio difettoso di contenuti dei granuli α e/o δ dalle piastrine, compromettendo l'emostasi primaria. Questo è un dominio fisiopatologico fondamentalmente diverso dal meccanismo del FVIII: il FVIII agisce sull'emostasi secondaria (cascata coagulativa), mentre i disturbi nel rilascio dei granuli piastrnici interessano l'emostasi primaria (formazione del tappo piastrinico). Il collegamento del modello TxGNN qui sembra derivare da nodi di convergenza a valle tra la cascata coagulativa e i percorsi di attivazione piastrinica nel grafo di conoscenza — un collegamento topologico indiretto piuttosto che una relazione meccanicistica diretta.
+Tra le altre previsioni di rilievo, la più plausibile dal punto di vista meccanicistico è la **carenza acquisita di fattori della coagulazione** (punteggio 99,95%), in cui la sostituzione del FVIII potrebbe in teoria essere utile. La categoria è però ampia ed eterogenea e, ad esempio, nell'emofilia acquisita gli autoanticorpi neutralizzano il FVIII e sono preferiti altri agenti. Altre previsioni (trombastenia di Glanzmann, pseudo-malattia di von Willebrand, sindrome di Scott) non hanno un supporto meccanicistico diretto. La **porpora trombotica trombocitopenica** (PTT) solleva invece una preoccupazione di sicurezza: un fattore procoagulante potrebbe in principio aggravare la trombosi.
 
-In sintesi, l'alto punteggio di predizione riflette la vicinanza nel grafo di conoscenza malattia-farmaco, non una relazione terapeutica meccanicistica diretta. L'integrazione di FVIII non affronta il difetto sottostante nella secrezione dei granuli piastrnici, e attualmente nessuna base biologica supporta un beneficio clinico in questa condizione.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenza da studi clinici
+## Evidenze dalla letteratura
 
-Attualmente non sono registrati studi clinici correlati.
+Attualmente non risulta alcuna letteratura correlata disponibile.
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza bibliografica
+| Numero di autorizzazione | Nome del prodotto | Stato | Indicazione approvata |
+|---------|------|------|-----------|
+| 043153067 | NOVOEIGHT 3.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
+| 043153030 | NOVOEIGHT 1.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
+| 043153028 | NOVOEIGHT 500 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
+| 043153055 | NOVOEIGHT 2.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
+| 043153016 | NOVOEIGHT 250 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
 
-Attualmente non è disponibile letteratura correlata.
-
----
+Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci. Nessuna autorizzazione risulta attualmente valida.
 
 ## Considerazioni sulla sicurezza
 
-Per le informazioni sulla sicurezza, si prega di consultare il foglio illustrativo.
+Le informazioni su avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili nei dati compilati per questo report, e non sono state identificate interazioni farmacologiche. Si rimanda al foglio illustrativo per le informazioni di sicurezza.
 
----
+Si segnala inoltre, sul piano teorico, che l'uso di un fattore procoagulante in condizioni trombotiche (come la PTT) o con piastrine elevate (come la trombocitosi ereditaria) potrebbe aumentare il rischio trombotico.
 
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
-**Decisione: Non procedere**
+**Decisione: Hold**
 
-**Razionale:**
-La predizione è classificata come L5 (solo modello, senza supporto empirico), il collegamento meccanicistico tra l'integrazione di FVIII e i disturbi del rilascio piastrinico è indiretto e biologicamente implausibile come strategia terapeutica primaria, e non esistono studi clinici o pubblicazioni per convalidare questa ipotesi di riutilizzo. Il farmaco inoltre non è attualmente autorizzato in Italia, aggiungendo un ostacolo normativo a qualsiasi percorso di sviluppo.
+**Motivazione:**
+Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Per la previsione principale manca un razionale meccanicistico, e il prodotto non ha attualmente autorizzazioni valide in Italia.
 
-**Per procedere, sarebbe necessario:**
-
-- **Risoluzione dei gap di dati**: Ottenere il foglio illustrativo completo / il Riassunto delle Caratteristiche del Prodotto (RCP) per caratterizzare le avvertenze note, le controindicazioni e le indicazioni approvate
-- **Chiarimento del meccanismo d'azione**: Confermare il meccanismo d'azione dettagliato da DrugBank o dalla letteratura sui prodotti dell'EMA
-- **Rivalutazione della plausibilità meccanicistica**: Commissionare una revisione bibliografica mirata che valuti se alcuni effetti secondari correlati al FVIII (ad es., amplificazione della scarica di trombina) potrebbero teoricamente compensare i difetti del rilascio dei granuli piastrnici in modelli ex vivo o animali
-- **Indicazioni alternative a priorità più elevata**: Tra le 10 indicazioni predette, **Deficienza acquisita del fattore coagulativo** (rank 5, include Emofilia A acquisita) rappresenta un candidato di riutilizzo molto più plausibile dal punto di vista meccanicistico e dovrebbe essere valutato per primo
-- **Strategia normativa italiana**: Data l'assenza attuale di autorizzazioni in Italia, un'analisi del divario normativo (potenziale designazione di farmaco orfano EMA, framework di utilizzo off-label) sarebbe necessaria prima che qualsiasi sviluppo clinico venga avviato
-
----
-
-> **⚠️ Nota sulla qualità dei dati — Rank 8 ("flood factor deficiency"):** Questo termine di malattia è probabilmente un artefatto OCR/di codifica di "blood factor deficiency". Questa entità dovrebbe essere corretta e rivalutata prima di essere inclusa in qualsiasi punteggio o presentazione normativa.
->
-> **📌 Dichiarazione di esclusione di responsabilità:** Questo rapporto è a solo scopo di ricerca e non costituisce consulenza medica. Qualsiasi candidato di riutilizzo di farmaci deve subire validazione clinica prima dell'applicazione terapeutica.
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Verifica della denominazione di alcune malattie previste (ad esempio «flood factor deficiency») rispetto a ontologie standard come MONDO o Orphanet
+- Valutazione prioritaria della «carenza acquisita di fattori della coagulazione» come candidato più plausibile, con revisione della letteratura e degli studi esistenti
+- Chiarimento dello stato regolatorio (cancellazione delle autorizzazioni) e della disponibilità di prodotti alternativi
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

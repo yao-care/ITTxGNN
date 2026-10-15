@@ -2,7 +2,7 @@
 layout: default
 title: Octreotide
 parent: Solo previsione del modello (L5)
-nav_order: 156
+nav_order: 325
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,80 +29,72 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Octreotide: Da Acromegalia/Tumori Neuroendocrini a Cheratosi Follicolata Invertita Vulvare
+# Octreotide: Dall'acromegalia alla cheratosi follicolare invertita vulvare
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Octreotide è un analogo sintetico della somatostatina con indicazioni cliniche consolidate nell'acromegalia, nella sindrome carcinoide e nei tumori neuroendocrini.
-Il modello TxGNN ne predice l'efficacia per la **Cheratosi Follicolata Invertita Vulvare**,
-ma con **0 studi clinici** e **0 pubblicazioni** a supporto di questa direzione, la predizione riposa interamente su inferenza del modello.
-
----
+L'octreotide è un analogo della somatostatina, originariamente utilizzato per il trattamento di acromegalia, iperpituitarismo e sindrome da carcinoide.
+Il modello TxGNN ne prevede una possibile efficacia per la **cheratosi follicolare invertita vulvare** (e, in seconda posizione, per la **cheratosi seborroica**), ma al momento **non risulta alcuna sperimentazione clinica né alcuna pubblicazione** a sostegno di questa direzione: si tratta di una predizione puramente computazionale.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originaria | Acromegalia, sindrome carcinoide, tumori neuroendocrini (nessuna autorizzazione italiana in archivio) |
-| Indicazione nuova predetta | Cheratosi Follicolata Invertita Vulvare |
-| Punteggio predizione TxGNN | 99.58% |
+|------|------|
+| Indicazione originaria | Acromegalia, iperpituitarismo, sindrome da carcinoide (da grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
+| Nuova indicazione predetta | Cheratosi follicolare invertita vulvare |
+| Punteggio di predizione TxGNN | 99,58% |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, l'octreotide è un analogo della somatostatina che agisce principalmente sui recettori della somatostatina SSTR2 e SSTR5, e la sua efficacia nelle patologie neuroendocrine e ipersecretive originarie è nota.
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili nel Pacchetto di evidenze. In base alla farmacologia consolidata, Octreotide è un analogo sintetico dell'ottapeptide della somatostatina che agonizza principalmente i recettori SSTR2 e SSTR5, sopprimendo l'ormone della crescita (GH), l'IGF-1 e vari ormoni gastrointestinali. La sua efficacia provata nell'acromegalia e nei tumori neuroendocrini è mediata interamente da questo asse dei recettori della somatostatina.
+Non vi è però alcuna evidenza, nei dati forniti, che questi recettori abbiano un ruolo nella cheratosi follicolare invertita, una lesione epiteliale benigna. Il collegamento meccanicistico non è quindi supportato. Il punteggio TxGNN (0,996) è una predizione derivata dal modello e non è corroborato da studi.
 
-Il collegamento meccanicistico proposto con la **Cheratosi Follicolata Invertita Vulvare (IFK)** è altamente indiretto e richiede almeno quattro passaggi inferenziali: (1) i recettori SSTR2/5 sono espressi a bassi livelli nei cheratinociti epidermici; (2) Octreotide sopprime il rilascio di IGF-1, che potrebbe teoricamente attenuare la proliferazione dei cheratinociti guidata da IGF-1R; (3) l'IFK è un raro tumore benigno di origine del follicolo pilifero associato all'infezione da HPV e a differenziamento acantomatoso — condizioni senza alcun collegamento consolidato all'asse SSTR; (4) nessuno studio ha direttamente esplorato l'agonismo SSTR nell'IFK o nelle cheratosi follicolari correlate.
+Anche la seconda predizione, la **cheratosi seborroica** (punteggio 99,55%), è una proliferazione epidermica benigna senza evidenze a supporto. I due punteggi sono molto vicini, il che suggerisce che condividano lo stesso segnale basato sul grafo: non vanno considerati come supporti indipendenti.
 
-Il modello di rete grafica TxGNN assegna un punteggio numerico elevato (99.58%), ma ciò riflette la prossimità strutturale nel grafo della conoscenza, non la plausibilità clinica. L'inferenza meccanicistica qui è tra i segnali di riproposizionamento della categoria più debole, e l'estrema rarità dell'IFK vulvare rende la validazione clinica prospettica altamente impraticabile senza almeno una conferma preclinica in vitro come minimo.
+## Evidenze da sperimentazioni cliniche
 
----
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
-## Evidenza da studi clinici
+## Evidenze dalla letteratura
 
-Attualmente nessuno studio clinico correlato registrato.
-
----
-
-## Evidenza da letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
-
----
+Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Octreotide attualmente non detiene **alcun'autorizzazione commerciale in Italia**. Il farmaco non è commercializzato e nessuna licenza approvata da AIFA è in archivio.
+Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Si elencano le prime 5 a titolo informativo:
 
----
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 040014021 | Octreotide, 10 fiale SC/EV 1 ml 0,1 mg/ml | Bioindustria L.I.M. SpA | Cancellata |
+| 040014033 | Octreotide, 10 fiale SC/EV 1 ml 0,5 mg/ml | Bioindustria L.I.M. SpA | Cancellata |
+| 041156011 | Octreotide, 5 fiale EV/SC 0,05 mg 1 ml | Sun Pharmaceutical Ind. Eu. B.V. | Cancellata |
+| 027083094 | Sandostatina LAR, 1 flacone IM 20 mg + siringa 2 ml + ago | Novartis Farma SpA | Cancellata |
+| 039101011 | Siroctid, 5 siringhe 1 ml 50 mcg/ml | Chemi SpA | Cancellata |
 
 ## Considerazioni di sicurezza
 
-Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni suggerite dal grafo di conoscenza** (relazioni farmaco-malattia di PrimeKG, non testo del foglietto illustrativo): iperglicemia, ipotiroidismo, mixedema, ipotiroidismo congenito, cirrosi epatica, diabete mellito, chetoacidosi diabetica, malattia della colecisti, malattie epatiche, ileo, occlusione intestinale, arresto cardiaco improvviso, malattie della conduzione cardiaca, ipoglicemia, colelitiasi, colecistolitiasi, coledocolitiasi, insufficienza renale, uremia, carenza di vitamina B12.
+- **Interazioni farmacologiche**: la ricerca ha individuato 100 interazioni; quelle mostrate sono tutte di livello **moderato**, soprattutto con antidiabetici (acarbosio, metformina, glimepiride, clorpropamide, linagliptin, alogliptin), agonisti GLP-1 (albiglutide, dulaglutide, semaglutide), inibitori SGLT2 (canagliflozin, dapagliflozin, empagliflozin) e varie insuline (aspart, degludec, detemir, glargine, glulisine, umana regolare e isofano, inalatoria). È necessario un monitoraggio della glicemia in caso di associazione.
 
----
+Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
 
-## Conclusioni e fasi successive
+## Conclusioni e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Razionale:**
-Questo è un segnale di predizione pura del modello (Livello di evidenza L5) senza studi clinici di supporto o letteratura pubblicata. Il collegamento meccanicistico tra l'agonismo dei recettori della somatostatina di Octreotide e la cheratosi follicolata invertita vulvare copre ≥4 salti grafici indiretti senza validazione sperimentale a nessun livello — cellulare, animale o umano.
+**Motivazione:**
+La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con una lesione epiteliale benigna. Inoltre, tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Validazione meccanicistica preclinica:** Confermare l'espressione funzionale di SSTR2/5 nelle cellule tumorali IFK e testare l'attività anti-proliferativa di Octreotide in vitro prima di qualsiasi ulteriore investimento
-- **Revisione letteraria ampliata:** Ampliare la ricerca ad analoghi della somatostatina + cheratosi della pelle, tumori follicolari e proliferazione epiteliale guidata da HPV per identificare eventuali evidenze di supporto indirette
-- **Documentazione MOA:** Recuperare i dati completi di farmacologia DrugBank per caratterizzare formalmente il percorso grafico farmaco-malattia
-- **Profilo di sicurezza:** Ottenere informazioni complete sulla prescrizione (avvertenze, controindicazioni, DDI) — attualmente tutti i campi di sicurezza sono lacune nei dati
-- **Percorso normativo italiano:** Octreotide non è commercializzato in Italia; stabilire lo stato normativo e la disponibilità di formulazioni è un prerequisito per qualsiasi programma di sviluppo clinico in questa giurisdizione
-- **Verifica della fattibilità della malattia:** L'IFK vulvare è una condizione benigna estremamente rara — condurre uno scoping epidemiologico per valutare se una popolazione di studio clinico è realizzabile
-
+**Per procedere, sono necessari:**
+- Dati sul meccanismo d'azione (MOA) e verifica del ruolo dei recettori SSTR2/SSTR5 nella cheratosi follicolare invertita
+- Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Una revisione della letteratura e dei registri di sperimentazioni per la nuova indicazione
+- Valutazione della compatibilità della via di somministrazione e della disponibilità commerciale attuale in Italia, dato che non esistono autorizzazioni valide
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

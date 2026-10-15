@@ -2,7 +2,7 @@
 layout: default
 title: Imatinib
 parent: Solo previsione del modello (L5)
-nav_order: 123
+nav_order: 234
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,85 +29,108 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Imatinib: Dalla LMC e GIST al Fibrosarcoma Cardiaco
+# Imatinib: dalla leucemia mieloide cronica al fibrosarcoma cardiaco
 
-## Riepilogo in una frase
+## Sintesi in una frase
 
-Imatinib (Gleevec/Glivec) è un inibitore della tirosin-chinasi originariamente sviluppato per la Leucemia Mieloide Cronica (LMC) e i Tumori Stromali Gastrointestinali (GIST), che colpisce le chinasi BCR-ABL, c-KIT e PDGFR.
-Il modello TxGNN predice che potrebbe essere efficace per il **Fibrosarcoma Cardiaco**,
-con **0 studi clinici** e **1 pubblicazione** attualmente identificati per questa indicazione — rappresentando una previsione solo del modello con prove dirette minime.
+Imatinib è un inibitore delle tirosin-chinasi, originariamente utilizzato per la leucemia mieloide cronica BCR-ABL1 positiva, i tumori stromali gastrointestinali (GIST) e altre neoplasie correlate. Il modello TxGNN prevede che possa essere efficace per il **fibrosarcoma cardiaco**, ma per questa indicazione non sono registrati **studi clinici** e l'unica pubblicazione collegata è un commento generale (**1 pubblicazione**) che segnala un'evidenza non robusta.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Leucemia Mieloide Cronica (LMC) e Tumori Stromali Gastrointestinali (GIST) |
-| Nuova indicazione prevista | Fibrosarcoma Cardiaco |
-| Punteggio di previsione TxGNN | 99.94% |
-| Livello di evidenza | L5 |
-| Stato del mercato Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Mastocitosi sistemica, tumore stromale gastrointestinale (GIST), leucemia mieloide cronica BCR-ABL1 positiva, leucemia eosinofila cronica, dermatofibrosarcoma protuberans, sindrome ipereosinofila (dal grafo di conoscenza; il testo delle indicazioni approvate AIFA non è disponibile) |
+| Nuova indicazione prevista | Fibrosarcoma cardiaco |
+| Punteggio di predizione TxGNN | 99,94% |
+| Livello di evidenza | L5 (solo predizione del modello, nessuno studio effettivo specifico) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
-
-## Perché questa previsione è ragionevole?
-
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel set di dati fornito. Sulla base della letteratura pubblicata consolidata, imatinib è un inibitore di piccole molecole della tirosin-chinasi che blocca competitivamente tre chinasi oncogeniche chiave: BCR-ABL (la proteina di fusione che guida la LMC), c-KIT (mutata costitutivamente nel GIST e in altri sarcomi), e PDGFR-α/β (sovraattivato in tumori fibroblastici come il dermatofibrosarcoma protuberans). Il suo successo di riferimento nella LMC e nel GIST ha stabilito il paradigma della terapia mirata molecolarmente, e la sua attività di blocco di PDGFR è stata successivamente applicata in più tipi di tumori fibroblastici e mesenchimali.
-
-Il fibrosarcoma cardiaco è una neoplasia primaria del cuore estremamente rara, con meno di 100 casi documentati in tutta la letteratura pubblicata. Perché imatinib sia rilevante dal punto di vista meccanicistico qui, le cellule tumorali dovrebbero presentare mutazioni attivanti o sovraespressione di BCR-ABL, c-KIT o PDGFR — nessuno dei quali è stato segnalato nel fibrosarcoma cardiaco fino ad oggi. La razionalità teorica rimane plausibile in linea di principio, data l'attività nota di imatinib contro i tumori fibroblastici guidati dal percorso PDGF, ma è interamente non supportata da dati clinici o preclinici diretti per questo sito tumorale specifico.
-
-Il punteggio di previsione TxGNN del 99.94% riflette la similarità della rete di grafici nella rete di conoscenza droga-malattia, non l'efficacia clinica. Poiché il fibrosarcoma cardiaco è così raro che genera quasi nessun segnale letterario, la previsione del modello non può essere validata indipendentemente in questa fase. Questo è un output generatore di ipotesi, non una raccomandazione basata su prove.
+Nota: la classificazione interna dei dati compilati assegna L4 a questa indicazione, ma poiché non esistono studi clinici né preclinici specifici per il fibrosarcoma cardiaco, in questo report la valutazione prudente è L5.
 
 ---
 
-## Evidenza degli studi clinici
+## Perché questa predizione è plausibile?
 
-Attualmente nessuna prova clinica correlata registrata.
+Imatinib inibisce le chinasi PDGFR, KIT e ABL. Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nella scheda del farmaco, ma questa è l'informazione mappata nei dati compilati per questo report.
+
+I tumori di tipo fibrosarcomatoso, in particolare il dermatofibrosarcoma protuberans (DFSP, già tra le indicazioni originali del farmaco), sono guidati dalla fusione COL1A1-PDGFB, che attiva il segnale PDGFRB. Per analogia di classe, l'uso di imatinib è quindi plausibile.
+
+Tuttavia, non esistono evidenze specifiche per il fibrosarcoma cardiaco. L'unico articolo collegato è un commento generale su una nuova indicazione di imatinib (Prescrire International, 2008), che sottolinea come le evidenze per le nuove indicazioni non fossero robuste. Il collegamento meccanicistico resta quindi indiretto.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze da studi clinici
+
+Al momento non risultano studi clinici correlati registrati per il fibrosarcoma cardiaco.
+
+---
+
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|----------------------|
-| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Editoriale / Commento | Prescrire International | Rassegna narrativa delle indicazioni in espansione di imatinib oltre la LMC, includendo LLA Ph+ e altri tumori ematologici/solidi; discute la mancanza di prove robuste per molti nuovi usi. Non affronta il fibrosarcoma cardiaco — recuperato a causa della rassegna ampia dell'indicazione di imatinib. |
+|------|-----|------|------|---------|
+| [18623899](https://pubmed.ncbi.nlm.nih.gov/18623899/) | 2008 | Revisione | Prescrire International | Commento sulle nuove indicazioni di imatinib (es. leucemia linfoblastica acuta Ph+); le nuove indicazioni si basano su evidenze non robuste |
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 042867200 | Imatinib 400 mg, 30 compresse rivestite (Accord Healthcare) | Compresse rivestite | Non disponibile |
+| 042867263 | Imatinib 100 mg, 120 compresse rivestite (Accord Healthcare) | Compresse rivestite | Non disponibile |
+| 043805047 | Imatinib 100 mg, 120 compresse rivestite (Sandoz) | Compresse rivestite | Non disponibile |
+| 045053067 | Imatinib 100 mg, 120 capsule (Dr. Reddy's) | Capsule | Non disponibile |
+| 043760038 | Imanivec 100 mg, 120 compresse rivestite (HCS BV) | Compresse rivestite | Non disponibile |
+
+Tutte le 9 autorizzazioni risultano cancellate; sono qui elencate le prime 5.
 
 ---
 
 ## Citotossicità
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Classificazione della citotossicità | Terapia mirata (Inibitore della tirosin-chinasi — inibitore di BCR-ABL / c-KIT / PDGFR-α/β) |
-| Rischio di mielosoppressione | Moderato — neutropenia, trombocitopenia e anemia sono frequentemente segnalate; la gravità è generalmente inferiore alla chemioterapia citotossica convenzionale |
-| Classificazione dell'emetogenicità | Bassa a moderata (somministrazione per via orale; la nausea è comune ma di solito gestibile) |
-| Elementi di monitoraggio | Emocromo completo (CBC con differenziale), test di funzionalità epatica (ALT, AST, bilirubina), funzionalità renale (creatinina sierica), valutazione della ritenzione di liquidi / edema periferico, peso corporeo |
-| Protezione nella manipolazione | Si applicano precauzioni standard per la manipolazione di farmaci citotossici; nessun contenimento speciale oltre i protocolli standard di TKI per via orale |
+| Voce | Contenuto |
+|------|------|
+| Classificazione di citotossicità | Terapia mirata (inibitore delle tirosin-chinasi), non citotossico convenzionale |
+| Rischio di mielosoppressione | Da consultare il foglio illustrativo; tra le condizioni associate a controindicazione nel grafo di conoscenza figurano neutropenia, trombocitopenia, agranulocitosi e anemia |
+| Classificazione emetogenica | Consultare il foglio illustrativo |
+| Parametri da monitorare | Emocromo completo, funzionalità epatica e renale |
+| Protezione nella manipolazione | Consultare le avvertenze e precauzioni del foglio illustrativo |
 
 ---
 
 ## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+- **Controindicazioni/condizioni a rischio (dal grafo di conoscenza, non dal testo del foglio illustrativo)**: insufficienza epatica e malattie epatiche, malattie renali, scompenso cardiaco congestizio e altre cardiopatie (malattie valvolari, versamento pericardico, coronaropatia), trombocitopenia, neutropenia, agranulocitosi, anemia, ipertensione, diabete mellito e chetoacidosi diabetica, edema polmonare e cerebrale, ipofosfatemia, iperbilirubinemia (incl. sindrome di Gilbert), ulcera peptica attiva, malattie della colecisti, obesità.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Tra quelle mostrate, di livello **maggiore**: eliglustat e naloxegol. Di livello moderato, tra le altre: corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), pioglitazone, glimepiride, saxagliptin, aprepitant, morfina, cimetidina, claritromicina, lansoprazolo, dexlansoprazolo, naltrexone, naldemedine e metreleptina.
+- **Segnale di sicurezza dalla letteratura (collegato ad altra indicazione)**: è descritto un caso di reazione da farmaco con eosinofilia e sintomi sistemici (DRESS) indotta da imatinib.
+
+Per le avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 
 ---
 
-## Conclusione e passi successivi
+## Conclusione e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Razionale:**
-Il fibrosarcoma cardiaco è un tumore estremamente raro senza alterazioni documentate di BCR-ABL, c-KIT o PDGFR, e l'unica pubblicazione identificata è un editoriale generale che non affronta questa indicazione. Non esistono studi clinici e la plausibilità biologica rimane non verificata. Procedere sarebbe prematuro senza dati patologici molecolari fondamentali.
+**Motivazione:**
+Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (99,94%) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.
 
-**Per procedere, è necessario quanto segue:**
-- Patologia molecolare del tessuto del fibrosarcoma cardiaco: profilo IHC o NGS per l'espressione di PDGFR-α/β, mutazione c-KIT o altre alterazioni di chinasi sensibili a imatinib
-- Creazione di modelli preclinici (linee cellulari o xenotrapianti derivati da pazienti) specifici per il fibrosarcoma cardiaco
-- Recupero dei dati del meccanismo d'azione da DrugBank (lacuna di dati DG002) per documentare formalmente la plausibilità biologica
-- Foglio illustrativo Taiwan (TFDA) e dati di sicurezza (lacuna di dati DG001) per abilitare la valutazione completa della sicurezza S1 prima di qualsiasi considerazione clinica
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) e analisi del collegamento meccanicistico con il fibrosarcoma cardiaco
+- Testo delle indicazioni e delle avvertenze/controindicazioni dal foglio illustrativo AIFA (attualmente mancante, requisito bloccante per lo screening di sicurezza)
+- Evidenze specifiche: serie di casi, studi preclinici o studi clinici nel fibrosarcoma cardiaco
+- Verifica dello stato commerciale attuale di imatinib in Italia, dato che le autorizzazioni elencate risultano tutte cancellate
 
+---
+
+### Nota su altre indicazioni predette
+
+Tra le altre predizioni, il **liposarcoma** ha l'evidenza più solida (L2, tre studi di fase 1/2 su sarcomi dei tessuti molli, ma senza risultati specifici per liposarcoma e con razionale meccanicistico non specifico; stato: domanda di ricerca). Il **fibroblastic neoplasm** è in larga parte riconducibile al DFSP, che è già un'indicazione esistente e non una vera nuova indicazione di riposizionamento.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

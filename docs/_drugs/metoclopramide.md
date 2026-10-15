@@ -2,15 +2,15 @@
 layout: default
 title: Metoclopramide
 parent: Prove moderate (L3-L4)
-nav_order: 145
-evidence_level: L3
+nav_order: 294
+evidence_level: L4
 indication_count: 5
 ---
 
 # Metoclopramide
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **5** 
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,81 @@ Livello di evidenza: **L3** | Indicazioni previste: **5**
 
 </div>
 
-# Metoclopramide: dalla nausea e gastroparesi all'ulcera gastrica
+# Metoclopramide: dalla malattia da reflusso gastroesofageo all'ulcera gastrica
 
-## Riassunto in una frase
+## Sintesi
 
-Metoclopramide è un antagonista della dopamina e un agente procinetico ben consolidato, ampiamente utilizzato per gestire nausea, vomito e svuotamento gastrico ritardato (gastroparesi).
-Il modello TxGNN predice che potrebbe avere un ruolo aggiuntivo vantaggioso nell'**Ulcera gastrica (malattia)** accelerando lo svuotamento gastrico e riducendo il reflusso biliare — un driver patologico indipendente del danno mucosale gastrico.
-Le prove attuali includono **2 studi clinici** (di rilevanza limitata al trattamento dell'ulcera) e **20 pubblicazioni**, composte principalmente da studi su animali e revisioni narrative.
+La metoclopramide è un procinetico e antiemetico, nel grafo di conoscenza associato al trattamento della malattia da reflusso gastroesofageo, dell'esofagite e dell'esofagite peptica. Il modello TxGNN ne prevede un possibile impiego nell'**ulcera gastrica**, ma i dati compilati mostrano soltanto **1 studio clinico** (uso procedurale, non terapeutico) e una letteratura composta soprattutto da rassegne datate. Il supporto è quindi molto debole.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Antiemetico; gestione della gastroparesi (nessuna autorizzazione locale registrata) |
-| Indicazione predetta | Ulcera gastrica (malattia) |
-| Punteggio di predizione TxGNN | 99.93% |
-| Livello di evidenza | L3 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Hold |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Malattia da reflusso gastroesofageo, esofagite, esofagite peptica (dal grafo di conoscenza; i testi di indicazione AIFA non sono disponibili) |
+| Nuova indicazione prevista | Ulcera gastrica |
+| Punteggio di predizione TxGNN | 99,93% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Metoclopramide agisce come antagonista del recettore D2 della dopamina sia nel sistema nervoso centrale che nel tratto gastrointestinale. Bloccando l'effetto inibitorio della dopamina sulla muscolatura liscia GI e potenziando il rilascio di acetilcolina, aumenta la contrazione antrale gastrica, incrementa il tono dello sfintere pilorico e accelera lo svuotamento gastrico. Questo meccanismo è ben documentato nella letteratura farmacologica (Albibi & McCallum, *Annals of Internal Medicine*, 1983 — PMID 6336644).
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato. Dalla letteratura raccolta, la metoclopramide è un antagonista del recettore D2 e agonista 5-HT4 che accelera lo svuotamento gastrico e stimola la motilità del tratto gastrointestinale superiore.
 
-Le ulcere gastriche derivano da uno squilibrio tra fattori dannosi alla mucosa (acido gastrico, infezione da H. pylori, uso di FANS, e reflusso biliare) e i meccanismi protettivi dello stomaco. Il reflusso biliare è un contributo patologico indipendente: abbreviando il tempo di contatto acido gastrico-mucosa e rafforzando il tono pilorico per prevenire il reflusso duodenogastrico, metoclopramide potrebbe teoricamente ridurre due di queste esposizioni dannose. Uno studio di coorte clinico (Dippy et al., 1973 — PMID 4779253) ha fornito prove osservazionali dirette che collegano metoclopramide alla riduzione del reflusso biliare nei pazienti con ulcera gastrica, conferendo plausibilità biologica a questa predizione. Studi su animali in ratti e cavie hanno ulteriormente confermato un effetto gastroprotettivo indipendente dai cambiamenti della secrezione acida (PMID 2730234; PMID 6436177).
+Il legame con l'ulcera gastrica è però **sintomatico e indiretto**: il farmaco può alleviare nausea, ritardato svuotamento e reflusso associati alla malattia ulcerosa, ma non favorisce la guarigione della mucosa né riduce la secrezione acida. Uno studio sperimentale sul ratto (PMID 2730234) ha mostrato un effetto protettivo in modelli di ulcera indotta, ma non è un dato clinico.
 
-Tuttavia, metoclopramide non inibisce la secrezione acida gastrica — uno studio randomizzato in doppio cieco (Schneider et al., 1981 — PMID 6782467) non ha mostrato cambiamenti significativi nei livelli di gastrina o nell'output di acido dopo la somministrazione — e non possiede attività anti-*Helicobacter pylori*. Pertanto, il suo ruolo nella gestione dell'ulcera gastrica, anche se convalidato, sarebbe strettamente aggiuntivo alle terapie standard di cura (inibitori della pompa protonica, regimi di eradicazione H. pylori). Nessuno studio clinico dedicato ha valutato metoclopramide come trattamento dell'ulcera gastrica, e cautela è consigliabile dato il profilo noto di effetti avversi neurologici con uso prolungato.
+Il punteggio TxGNN molto alto va quindi interpretato con cautela: riflette probabilmente la vicinanza nel grafo tra reflusso, esofagite e malattie peptiche, più che un reale effetto terapeutico sull'ulcera.
 
----
-
-## Prove di studi clinici
-
-| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
-|-------------------|------|-------|--------------|---------------------|
-| [NCT05746377](https://clinicaltrials.gov/study/NCT05746377) | Fase 4 | Sconosciuto | 60 | Ha valutato se metoclopramide IV somministrato prima dell'endoscopia migliora la visibilità della parete gastrica e riduce la necessità di procedure ripetute nell'emorragia gastrointestinale superiore (inclusa l'emorragia da ulcera gastrica). Direttamente rilevante al contesto dell'ulcera gastrica, sebbene l'endpoint sia l'ottimizzazione endoscopica piuttosto che la guarigione dell'ulcera. |
-| [NCT03747107](https://clinicaltrials.gov/study/NCT03747107) | N/A | Completato | 19 | Programma di miglioramento della qualità guidato dal farmacista nell'assistenza primaria scozzese utilizzando uno strumento informatico per la revisione dei farmaci. Non è uno studio di efficacia di metoclopramide; la rilevanza al trattamento dell'ulcera gastrica è trascurabile. |
+Altre predizioni nella stessa area (gastroduodenite, ulcera peptica, ulcera gastrodigiunale) poggiano sullo stesso razionale procinetico. Per la **perforazione ulcerosa**, invece, non esiste alcun razionale terapeutico: è un'emergenza chirurgica in cui un procinetico non è indicato e potrebbe essere dannoso.
 
 ---
 
-## Prove dalla letteratura
+## Evidenza dagli studi clinici
+
+| Studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT05746377](https://clinicaltrials.gov/study/NCT05746377) | Fase 4 | Sconosciuto | 60 | Premedicazione con metoclopramide in sanguinamento gastrointestinale superiore: valuta la necessità di ripetere l'endoscopia e la visibilità delle pareti gastriche. Studio randomizzato in doppio cieco; uso procedurale, non prova di efficacia sull'ulcera |
+
+---
+
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|---------------------|
-| [4779253](https://pubmed.ncbi.nlm.nih.gov/4779253/) | 1973 | Coorte clinica | Current Medical Research and Opinion | Osservato che metoclopramide ha ridotto il reflusso biliare nei pazienti con ulcera gastrica — fornisce la prova clinica più diretta che collega metoclopramide a un endpoint rilevante per l'ulcera gastrica. |
-| [6782467](https://pubmed.ncbi.nlm.nih.gov/6782467/) | 1981 | RCT (doppio cieco) | MMW Münchener Medizinische Wochenschrift | Studio incrociato randomizzato in 12 volontari sani: né domperidone né metoclopramide hanno alterato significativamente la gastrina sierica o la secrezione acida, confermando che metoclopramide non è un soppressore di acido. |
-| [6336644](https://pubmed.ncbi.nlm.nih.gov/6336644/) | 1983 | Revisione | Annals of Internal Medicine | Revisione farmacologica completa che copre l'antagonismo della dopamina di metoclopramide, l'effetto antiemetico centrale e la stimolazione della muscolatura liscia GI — il riferimento farmacologico standard per questo farmaco. |
-| [16807979](https://pubmed.ncbi.nlm.nih.gov/16807979/) | 2006 | RCT | Yonsei Medical Journal | RCT prospettico in doppio cieco (n=40): metoclopramide IV + ranitidina ha ridotto il volume gastrico preoperatorio e l'acidità vs. placebo, supportando la sua capacità di modificare le condizioni intragastriche. |
-| [6436177](https://pubmed.ncbi.nlm.nih.gov/6436177/) | 1984 | Studio su animali | Indian Journal of Physiology and Pharmacology | Metoclopramide ha protetto contro tutti e tre i modelli sperimentali di ulcera gastrica nelle cavie senza influenzare la secrezione acida gastrica; l'effetto protettivo è attribuito al miglioramento del drenaggio gastrico e alla prevenzione del reflusso pilorico. |
-| [2730234](https://pubmed.ncbi.nlm.nih.gov/2730234/) | 1989 | Studio su animali | Archives Internationales de Pharmacodynamie et de Thérapie | Ha dimostrato effetti antiulcera e antisecretori di metoclopramide (20–50 mg/kg) nei modelli di ulcera gastrica indotta da aspirina e a piloro legato nei ratti, con efficacia paragonabile a ranitidina a queste dosi. |
-| [28652516](https://pubmed.ncbi.nlm.nih.gov/28652516/) | 2017 | Studio su animali | Journal of Smooth Muscle Research | Ha investigato come la posizione dell'ulcera ha influenzato lo svuotamento gastrico nei ratti e l'impatto dei procinetici; ha confermato il ruolo di metoclopramide nel migliorare lo svuotamento gastrico compromesso dall'ulcerazione. |
-| [8095331](https://pubmed.ncbi.nlm.nih.gov/8095331/) | 1993 | Revisione | Postgraduate Medicine | Ha rivisto le strategie per lesioni peptiche refrattarie — menziona metoclopramide come opzione aggiuntiva quando la disfunzione della motilità gastrica contribuisce al fallimento del trattamento. |
-| [19225](https://pubmed.ncbi.nlm.nih.gov/19225/) | 1977 | Revisione storica | Drugs | Revisione narrativa iniziale che nota il potenziale ruolo di metoclopramide nell'accelerare la guarigione dell'ulcera gastrica promuovendo il drenaggio gastrico, tra altri agenti anti-ulcera dell'epoca. |
-| [11879596](https://pubmed.ncbi.nlm.nih.gov/11879596/) | 2002 | Revisione | Current Treatment Options in Gastroenterology | Ha discusso i procinetici incluso metoclopramide nella dispepsia funzionale, una condizione patofisiologicamente sovrapposta ai contribuenti dell'ulcera gastrica correlati alla motilità. |
+|------|-----|------|------|---------|
+| [42259699](https://pubmed.ncbi.nlm.nih.gov/42259699/) | 2026 | RCT | Rev Gastroenterol Mex | Metoclopramide ad alte dosi vs placebo per la visualizzazione endoscopica nel sanguinamento digestivo alto: utilità controversa |
+| [38059896](https://pubmed.ncbi.nlm.nih.gov/38059896/) | 2024 | RCT | Am J Gastroenterol | Efficacia della metoclopramide per la visualizzazione gastrica nel sanguinamento digestivo alto attivo |
+| [42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/) | 2026 | Linea guida | Endoscopy | Linea guida ESGE sulla gestione endoscopica del sanguinamento da ulcera peptica; non dimostra l'efficacia della metoclopramide |
+| [786607](https://pubmed.ncbi.nlm.nih.gov/786607/) | 1976 | Rassegna | Drugs | Proprietà farmacologiche e uso clinico della metoclopramide, incluso il supporto all'endoscopia d'urgenza |
+| [6336644](https://pubmed.ncbi.nlm.nih.gov/6336644/) | 1983 | Rassegna | Ann Intern Med | Farmacologia e applicazioni cliniche: antiemetico e stimolante della muscolatura liscia gastrointestinale |
+| [8095331](https://pubmed.ncbi.nlm.nih.gov/8095331/) | 1993 | Rassegna | Postgrad Med | Strategie per ulcere ed esofagite da reflusso refrattarie ai regimi standard |
+| [2730234](https://pubmed.ncbi.nlm.nih.gov/2730234/) | 1989 | Studio preclinico | Arch Int Pharmacodyn Ther | Effetto antiulcera e antisecretorio della metoclopramide nel ratto |
+| [6782467](https://pubmed.ncbi.nlm.nih.gov/6782467/) | 1981 | Studio crossover | MMW Munch Med Wochenschr | Nessuna variazione significativa di gastrina e secrezione acida in volontari sani |
+| [1441547](https://pubmed.ncbi.nlm.nih.gov/1441547/) | 1992 | Rassegna | Wiad Lek | Dispepsia non ulcerosa: tra i procinetici preferiti figura la metoclopramide |
+| [6372664](https://pubmed.ncbi.nlm.nih.gov/6372664/) | 1984 | Rassegna | Annu Rev Med | Gastrite ed esofagite da reflusso alcalino |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Metoclopramide attualmente ha **nessuna autorizzazione normativa registrata** nel set di dati disponibile (0 licenze, stato del mercato: non commercializzato). Nessuna tabella di autorizzazione è disponibile per questo farmaco.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 042091013 | Metoclopramide, 5 fiale IM EV 10 mg/2 ml (SALF SpA) | Fiale iniettabili | Non disponibile (autorizzazione cancellata) |
+| 020766010 | Plasil, 10 mg/2 ml soluzione iniettabile, 5 fiale (Sanofi Srl) | Soluzione iniettabile | Non disponibile (autorizzazione cancellata) |
 
 ---
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+- **Controindicazioni dal grafo di conoscenza** (non provenienti dal foglio illustrativo): ipertensione, epilessia, disturbi d'ansia e nevrotici, distimia, porfiria, cirrosi epatica, insufficienza renale, feocromocitoma e paraganglioma, tumori di duodeno, intestino tenue, cuore e surrene, ulcera peptica attiva, sindrome neurolettica maligna, discinesia tardiva, disturbi parkinsoniani e malattia di Parkinson, distonia di torsione, deficit di piruvato deidrogenasi E3 e metaemoglobinemia da deficit di metaemoglobina reduttasi.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle visibili, le principali di livello **maggiore** riguardano **tramadolo** e **amisulpride**. Numerose interazioni di livello moderato coinvolgono oppioidi (fentanil, codeina, diidrocodeina, alfentanil), sedativi e ansiolitici (alprazolam, amobarbital, etanolo), antistaminici (clorfenamina, cetirizina) e altri (amitriptilina, amantadina, abiraterone). Il paracetamolo è di livello minore.
+- Particolarmente rilevante: l'ulcera peptica attiva e la perforazione compaiono tra le situazioni a rischio, il che si scontra con l'indicazione prevista.
 
-> **Nota:** I dati di sicurezza (avvertenze chiave, controindicazioni, interazioni farmacologiche) non erano recuperabili dalle fonti interrogate al momento di questo rapporto. Questo è un divario di dati bloccante che deve essere risolto prima che possa procedere qualsiasi valutazione di fattibilità clinica. I clinici dovrebbero essere consapevoli che metoclopramide comporta un rischio di classe ben noto di **discinesia tardiva** con uso prolungato o ad alte dosi — un fattore che sostanzialmente vincola il suo uso nelle condizioni gastriche croniche.
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, non disponibile nei dati compilati.
 
 ---
 
@@ -107,17 +111,16 @@ Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicur
 
 **Decisione: Hold**
 
-**Razionale:**
-Le prove per metoclopramide nell'ulcera gastrica consistono interamente in modelli animali, revisioni storiche e un'osservazione di coorte clinica sul reflusso biliare — senza nessuno studio clinico dedicato che dimostri il beneficio della guarigione dell'ulcera negli umani. Il suo meccanismo (miglioramento della motilità gastrica, riduzione del reflusso biliare) è plausibile e rilevante in modo aggiuntivo, ma non può sostituire la soppressione dell'acido o l'eradicazione H. pylori, che sono i pilastri consolidati della terapia dell'ulcera gastrica.
+**Motivazione:**
+- L'evidenza è a livello L4: l'unico studio clinico riguarda un uso procedurale (visualizzazione endoscopica) e non la guarigione dell'ulcera; la letteratura è costituita in gran parte da rassegne datate. Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva.
+- Inoltre, tutte le autorizzazioni italiane risultano cancellate.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Foglio illustrativo / dati di sicurezza**: Recuperare le informazioni prescrittive TFDA (o EMA) per completare le avvertenze chiave e le controindicazioni — attualmente un divario bloccante per qualsiasi valutazione della sicurezza
-- **Profilo di interazione farmacologica**: Valutare la compatibilità con gli agenti anti-ulcera di prima linea (PPI, amoxicillina, claritromicina) prima che venga considerata qualsiasi terapia di combinazione
-- **Documentazione formale del meccanismo d'azione**: Ottenere dati strutturati del meccanismo d'azione da DrugBank per supportare l'analisi della plausibilità meccanistica
-- **Prove cliniche dedicate**: Identificare o commissionare uno studio osservazionale prospettico o uno studio pilota RCT valutando metoclopramide come terapia aggiuntiva nelle ulcere gastriche con eradicazione H. pylori o correlate a FANS con dismotilità documentata
-- **Valutazione del rischio di discinesia tardiva**: Definire una durata massima di trattamento sicura e un protocollo di monitoraggio dato il rischio neurologico con uso prolungato — essenziale prima che qualsiasi indicazione aggiuntiva cronica possa essere proposta
-
+**Per procedere è necessario:**
+- Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
+- Ottenere i dati sul meccanismo d'azione da DrugBank.
+- Definire con precisione il bersaglio clinico (sollievo sintomatico vs. guarigione dell'ulcera vs. uso procedurale in endoscopia): quest'ultimo appare il filone più concreto, grazie ai recenti RCT del 2024 e 2026.
+- Valutare lo stato regolatorio attuale e le formulazioni disponibili, dato che le autorizzazioni note sono cancellate.
+- Eseguire studi clinici controllati con endpoint di guarigione ulcerosa o di sintomi, se si vuole sostenere l'indicazione terapeutica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

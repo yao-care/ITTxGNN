@@ -2,7 +2,7 @@
 layout: default
 title: Mepolizumab
 parent: Prove moderate (L3-L4)
-nav_order: 144
+nav_order: 285
 evidence_level: L4
 indication_count: 5
 ---
@@ -29,81 +29,82 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Mepolizumab: Dalla Sindrome Ipereosinofila alla Trombocitopenia da Distruzione Immune
+# Mepolizumab: Dalla polmonite eosinofila alla trombocitopenia da distruzione immunitaria
 
-## Riassunto in Una Frase
+## Sintesi
 
-Mepolizumab è un anticorpo monoclonale anti-IL-5 utilizzato internazionalmente per condizioni eosinofile inclusa l'asma eosinofilo grave e la sindrome ipereosinofila (HES); non è attualmente approvato a Taiwan.
-Il modello TxGNN prevede che potrebbe essere efficace per **trombocitopenia da distruzione immune**, con **0 studi clinici** e **1 case report** che attualmente supportano questo orientamento.
-Il collegamento meccanicistico è indiretto e dipendente dal contesto, applicabile solo nello specifico ambito della trombocitopenia complicata da HES.
+Mepolizumab è un anticorpo monoclonale anti-IL-5, originariamente associato al trattamento della polmonite eosinofila e dell'eosinofilia polmonare. Il modello TxGNN ne predice una possibile efficacia nella **trombocitopenia da distruzione immunitaria**, ma l'evidenza è molto limitata: **nessuno studio clinico** e **1 pubblicazione** (un caso clinico) tra i dati compilati per questo report.
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Polmonite eosinofila / eosinofilia polmonare (dal grafo di conoscenza; il testo dell'indicazione autorizzata non è disponibile) |
+| Nuova indicazione predetta | Trombocitopenia da distruzione immunitaria |
+| Punteggio di predizione TxGNN | 99,66% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione Originale | Sindrome ipereosinofila / Condizioni eosinofile (approvazione internazionale; non approvata a Taiwan) |
-| Nuova Indicazione Prevista | Trombocitopenia da distruzione immune |
-| Punteggio di Predizione TxGNN | 99.66% |
-| Livello di Evidenza | L4 |
-| Stato del Mercato a Taiwan | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | In sospeso |
+## Perché questa predizione può essere plausibile?
 
----
+I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. Mepolizumab è tuttavia noto come anticorpo anti-IL-5 che deprime gli eosinofili.
 
-## Perché questa Predizione è Ragionevole?
+Un legame plausibile esiste solo in un contesto ristretto: la sindrome ipereosinofila (HES) con citopenia immuno-mediata secondaria. In questo caso, controllare la disregolazione immunitaria guidata dagli eosinofili potrebbe ridurre indirettamente la distruzione piastrinica immuno-mediata.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni note, mepolizumab è un anticorpo monoclonale anti-IL-5 che blocca l'interleuchina-5 (IL-5), la citochina principalmente responsabile della proliferazione, dell'attivazione e della sopravvivenza degli eosinofili. Riducendo gli eosinofili circolanti, mepolizumab previene il danno d'organo mediato dagli eosinofili, inclusa l'infiltrazione tissutale e il rilascio di proteine granulari tossiche.
+Per la trombocitopenia immune primaria non esiste un meccanismo stabilito: la patogenesi è dominata da autoanticorpi contro le glicoproteine piastriniche e da disregolazione dei linfociti T, non dall'asse IL-5/eosinofili. L'elevatissimo punteggio TxGNN (0,997) è una predizione computazionale e non è supportato da dati clinici.
 
-Il ponte meccanicistico proposto alla trombocitopenia mediata dal sistema immunitario passa attraverso HES: gli eosinofili attivati in HES rilasciano proteine granulari citotossiche — proteina cationica eosinofila (ECP) e proteina basica maggiore (MBP) — che possono danneggiare fisicamente le membrane piastriniche, provocare il consumo piastrinico e scatenare la distruzione piastrinica mediata dal sistema immunitario secondaria. In questo scenario altamente specifico, ridurre il carico eosinofilo con mepolizumab potrebbe migliorare indirettamente i conteggi piastrinici.
+## Evidenze da studi clinici
 
-È fondamentale sottolineare che questo percorso è indiretto e dipendente dal contesto. Mepolizumab non affronta direttamente i meccanismi fondamentali della porpora trombocitopenica immune primaria (ITP), come gli autoanticorpi anti-GPIIb/IIIa o la distruzione piastrinica mediata da cellule T. La predizione di TxGNN è quindi plausibile solo quando la trombocitopenia si presenta come complicanza di HES attiva — non come terapia autonoma per ITP primaria.
+Al momento non risultano studi clinici correlati registrati.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza di Studi Clinici
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Caso clinico | Blood Cells Mol Dis | Risoluzione di una diatesi immunitaria ipereosinofila resistente agli steroidi con mepolizumab e miglioramento concomitante di una microangiopatia trombotica mista (contesto di sindrome emolitico-uremica atipica) |
 
-Attualmente nessuno studio clinico correlato è registrato.
+## Informazioni sul mercato italiano
 
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044648057 | NUCALA siringa preriempita SC 100 mg 1 ml (1 pz) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 044648095 | NUCALA siringa preriempita SC 40 mg 0,4 ml (1 pz) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 044648069 | NUCALA siringhe preriempite SC 100 mg 1 ml (3 pz) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 044648032 | NUCALA penna preriempita SC 100 mg 1 ml (1 pz) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 044648044 | NUCALA penne preriempite SC 100 mg 1 ml (3 pz) | Non indicata | Non disponibile (autorizzazione cancellata) |
 
-## Evidenza dalla Letteratura
+Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata.
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|--------------|
-| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Case Report | Blood Cells, Molecules & Diseases | Mepolizumab ha risolto la diatesi immunitaria ipereosinofila resistente agli steroidi in un paziente con sindrome emolitica uremica atipica (aHUS), con concomitante miglioramento della microangiopatia trombotica mista — suggerendo che la patologia piastrinica mediata dagli eosinofili potrebbe essere parzialmente reversibile con il blocco IL-5. |
+## Altre predizioni TxGNN (a titolo informativo)
 
----
+Le altre indicazioni predette hanno punteggi altrettanto elevati ma evidenza ancora più debole, e per tutte la raccomandazione è Hold:
 
-## Informazioni di Mercato a Taiwan
+- **Disturbo primario del rilascio piastrinico** (99,61%, L4): solo una revisione generale sulla gestione della HES; nessun legame meccanicistico diretto.
+- **Pseudo-malattia di von Willebrand** (99,44%, L5): nessuna evidenza; via patogenetica non correlata all'IL-5.
+- **Trombocitopenia autoimmune** (99,33%, L5): probabile variante della ITP; nessuna evidenza.
+- **Trombastenia di Glanzmann** (99,28%, L5): difetto ereditario dell'integrina αIIbβ3; nessun ruolo plausibile per l'inibizione di IL-5.
 
-Mepolizumab non è attualmente approvato né commercializzato a Taiwan. Nessun record di autorizzazione TFDA è disponibile.
+La vicinanza nel grafo di conoscenza tra disturbi piastrinici sembra spiegare questi punteggi più di una reale base biologica.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di Sicurezza
+Non sono disponibili dati su avvertenze, controindicazioni o interazioni farmacologiche nei dati compilati. Si rimanda al foglio illustrativo per le informazioni di sicurezza.
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+## Conclusioni e prossimi passi
 
----
+**Decisione: Hold**
 
-## Conclusioni e Prossimi Passi
+**Motivazione:**
+La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza.
 
-**Decisione: In sospeso**
-
-**Razionale:**
-L'unico elemento di prova a favore è un singolo case report in un contesto clinico multi-sistemico altamente inusuale (aHUS + HES + microangiopatia trombotica); non ci sono studi clinici registrati e nessun dato sistematico che colleghi mepolizumab alla distruzione piastrinica mediata dal sistema immunitario in una popolazione generale di pazienti.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Documentazione sul MOA**: Recuperare il completo meccanismo d'azione da DrugBank (DG002) per rafforzare la razionale meccanicistica
-- **Dati sulla sicurezza a Taiwan**: Scaricare e analizzare il foglio illustrativo TFDA per completare la valutazione delle avvertenze e delle controindicazioni (DG001)
-- **Definizione della sottopopolazione di pazienti**: Definire chiaramente la coorte target come "trombocitopenia immune associata a HES" piuttosto che ITP primaria, per restringere l'ipotesi clinica
-- **Serie di casi prospettica o studio osservazionale**: È necessaria almeno una serie di casi multi-centro prima di avanzare a un disegno formale di studio clinico
-- **Revisione normativa internazionale**: Confermare se i dati di sorveglianza post-commercializzazione dell'EMA o della FDA per mepolizumab hanno catturato eventuali casi di trombocitopenia complicata da HES
-
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un limite bloccante per lo screening di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Verifica dello stato regolatorio attuale in Italia (le autorizzazioni elencate sono cancellate) e del testo delle indicazioni
+- Evidenze cliniche aggiuntive, almeno in sottopopolazioni con HES e citopenia immuno-mediata concomitante
+- Valutazione di compatibilità della via di somministrazione e della similarità con l'indicazione originale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

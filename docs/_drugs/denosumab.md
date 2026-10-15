@@ -2,7 +2,7 @@
 layout: default
 title: Denosumab
 parent: Solo previsione del modello (L5)
-nav_order: 70
+nav_order: 140
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,60 +29,87 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Denosumab: Valutazione del Riposizionamento Farmacologico — Dati Insufficienti per Completare la Valutazione
+# Denosumab: Dall'osteoporosi alla retinopatia diabetica non proliferativa grave
 
-## Sommario in una Frase
+## Riepilogo in una frase
 
-Il Denosumab (DrugBank ID: DB06643) è incluso in questa procedura di riposizionamento; tuttavia, l'attuale Pacchetto di Evidenze non contiene registrazioni di indicazioni originali, nessuna nuova indicazione prevista da TxGNN e nessun dato sul meccanismo d'azione. Una valutazione standard di riposizionamento non può essere completata in questo momento — la decisione è **Sospensione** in attesa del completamento dei dati.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Non registrato in questo Pacchetto di Evidenze |
-| Nuova Indicazione Prevista | Nessuna previsione TxGNN disponibile |
-| Punteggio di Previsione TxGNN | — |
-| Livello di Evidenza | L5 — output della procedura non ancora generato |
-| Stato del Mercato | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Sospensione** |
+Denosumab è un anticorpo monoclonale originariamente utilizzato per il trattamento dell'osteoporosi (inclusa quella postmenopausale e quella indotta da farmaci). Il modello TxGNN prevede che possa essere efficace per la **retinopatia diabetica non proliferativa grave**, con un punteggio molto alto, ma al momento sono disponibili **0 studi clinici** e **0 pubblicazioni** a supporto diretto di questa indicazione. Per l'indicazione correlata, la retinopatia diabetica, sono state raccolte 2 pubblicazioni, che però offrono solo un contesto indiretto.
 
 ---
 
-## Perché la Valutazione non può Procedere?
+## Quadro generale
 
-Tre lacune critiche di dati bloccano una valutazione completa del riposizionamento per il Denosumab:
-
-**1. Nessuna indicazione prevista da TxGNN.** L'array `predicted_indications` è vuoto. Senza una malattia bersaglio, tutta l'analisi successiva — mappatura delle prove cliniche, revisione della letteratura e valutazione della plausibilità del meccanismo d'azione — non può essere eseguita. Questo è il prerequisito più importante per generare questo rapporto.
-
-**2. Nessun dato sul meccanismo d'azione (MOA).** Il campo MOA è stato contrassegnato come una lacuna di gravità elevata (DG002). Comprendere come il Denosumab agisce a livello molecolare è essenziale per valutare se una nuova indicazione è plausibile dal punto di vista del meccanismo d'azione.
-
-**3. Nessun profilo di sicurezza.** Gli avvertimenti e le controindicazioni del foglio illustrativo sono assenti (DG001, gravità bloccante). Lo screening della sicurezza è un prerequisito prima di qualsiasi valutazione di fattibilità clinica.
-
----
-
-## Considerazioni sulla Sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Osteoporosi, osteoporosi postmenopausale, osteoporosi indotta da farmaci (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Retinopatia diabetica non proliferativa grave |
+| Punteggio di predizione TxGNN | 99,63% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Decisione raccomandata | Hold (sospendere) |
 
 ---
 
-## Conclusione e Prossimi Passi
+## Perché questa predizione è ragionevole?
 
-**Decisione: Sospensione**
+Denosumab è un anticorpo monoclonale che inibisce RANKL. I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report. Sulla base delle conoscenze generali, l'asse RANKL/OPG è stato associato a infiammazione, alterazioni vascolari (come la calcificazione vascolare) e funzione endoteliale, e forse al metabolismo del glucosio.
 
-**Razionale:**
-Il Pacchetto di Evidenze del Denosumab è privo di tutti e tre gli input minimi per una valutazione valida di riposizionamento: previsioni TxGNN, meccanismo d'azione e dati di sicurezza. Procedere senza questi comporterebbe una valutazione senza alcuna base di evidenza.
+Il collegamento con la retinopatia diabetica è quindi **speculativo**: la patologia microvascolare retinica potrebbe in teoria risentire di questi processi. Non sono stati però forniti dati specifici sulla retina né un meccanismo validato. Si tratta di una predizione puramente computazionale. Anche la somiglianza tra l'indicazione originale e quella nuova non è stata ancora valutata.
 
-**Per procedere, è necessario quanto segue:**
+---
 
-- **[Bloccante]** Eseguire la procedura di TxGNN per generare indicazioni previste per il Denosumab (DB06643)
-- **[Bloccante]** Scaricare e analizzare il PDF del foglio illustrativo per estrarre avvertimenti e controindicazioni
-- **[Elevata]** Interrogare l'API di DrugBank per il meccanismo d'azione del Denosumab
-- Inviare nuovamente il Pacchetto di Evidenze completato per una valutazione completa
+## Evidenze dagli studi clinici
 
+Attualmente non risulta alcuno studio clinico registrato correlato.
+
+---
+
+## Evidenze dalla letteratura
+
+Per la retinopatia diabetica (seconda predizione, punteggio 99,23%) sono state raccolte due pubblicazioni. Nessuna risulta valutare direttamente esiti retinici; per entrambe è disponibile solo il titolo/abstract e il tipo di studio non è confermato.
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [38899553](https://pubmed.ncbi.nlm.nih.gov/38899553/) | 2024 | Probabile studio osservazionale/revisione con meta-analisi (da confermare) | Diabetes, Obesity & Metabolism | Denosumab vs bisfosfonati: riduzione dell'incidenza di diabete di tipo 2, delle ulcere del piede e della mortalità per tutte le cause in dati reali; valutate anche complicanze microvascolari, inclusa la retinopatia, ma l'esito retinico specifico non è noto dai dati disponibili |
+| [36960265](https://pubmed.ncbi.nlm.nih.gov/36960265/) | 2023 | Probabile studio osservazionale | Cureus | Uso dello strumento FRAX per il rischio di frattura in adulti con diabete di tipo 2; contesto indiretto, nessun dato sulla retinopatia |
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 040108033 | PROLIA*1 siringa SC 60 mg 1 ml (AMGEN EUROPE B.V.) | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041300017 | XGEVA*1 flaconcino SC 120 mg 1,7 ml (AMGEN EUROPE B.V.) | Non specificata | Non disponibile (autorizzazione cancellata) |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Interazioni farmacologiche**: la ricerca ha individuato 100 interazioni in totale; tra quelle mostrate, tutte di livello **moderato** (fonte: DDInter). Le principali includono:
+  - Corticosteroidi: idrocortisone, triamcinolone (anche oftalmico), desametasone, betametasone, budesonide, prednisolone, prednisone, metilprednisolone
+  - Radiofarmaci/anticorpi: ibritumomab tiuxetano, iobenguane (I-131), tositumomab (anche I-131)
+  - Immunomodulatori/citotossici: levamisolo, trimetrexato, mercaptopurina, tacrolimus
+  - Altri: dupilumab, corticotropina, tetracosactide
+
+Per avvertenze e controindicazioni, fare riferimento al foglio illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold (sospendere)**
+
+**Motivazione:**
+Il punteggio TxGNN è molto alto, ma non esistono studi clinici né pubblicazioni che valutino direttamente denosumab nella retinopatia diabetica; l'evidenza è di livello L5 (solo predizione del modello). Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza del foglio illustrativo.
+
+**Per procedere, è necessario:**
+- Acquisire avvertenze e controindicazioni dal foglio illustrativo AIFA (lacune bloccanti per lo screening di sicurezza)
+- Reperire i dati sul meccanismo d'azione da DrugBank
+- Verificare se le due pubblicazioni riportino esiti retinici specifici (consultando il testo completo) e cercare studi dedicati alla retinopatia diabetica
+- Chiarire lo stato regolatorio in Italia (autorizzazioni cancellate) e la compatibilità della via di somministrazione (sottocutanea) con una patologia retinica
+- Valutare la plausibilità biologica con studi preclinici o meccanicistici sulla retina
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

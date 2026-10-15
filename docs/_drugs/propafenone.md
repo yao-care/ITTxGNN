@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Propafenone
-parent: Solo previsione del modello (L5)
-nav_order: 173
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 365
+evidence_level: L3
 indication_count: 8
 ---
 
 # Propafenone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **8** 
+Livello di evidenza: **L3** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,106 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Propafenone: Dall'aritmia cardiaca al disturbo bipolare affettivo maniacale
+# Propafenone: dalla fibrillazione atriale e tachicardia ventricolare alla tachicardia ventricolare polimorfa catecolaminergica
 
 ## Sintesi in una frase
 
-Propafenone è un farmaco antiaritmico di classe IC utilizzato in clinica per gestire le aritmie cardiache, inclusa la fibrillazione atriale e la tachicardia ventricolare.
-Il modello TxGNN prevede che potrebbe essere efficace per il **disturbo bipolare affettivo maniacale**, con **0 trial clinici** e **3 pubblicazioni** nel set di dati — tuttavia, queste pubblicazioni descrivono eventi avversi e interazioni farmacologiche piuttosto che qualsiasi uso terapeutico.
-In questa fase, questa previsione è considerata biologicamente implicabile e la raccomandazione complessiva è **Sospendere**.
+Il propafenone è un antiaritmico originariamente utilizzato per la fibrillazione atriale e la tachicardia ventricolare.
+Il modello TxGNN lo indica come possibile candidato per la **tachicardia ventricolare polimorfa catecolaminergica (CPVT)**, con **nessuno studio clinico registrato** e **10 pubblicazioni** (soprattutto studi preclinici, coorti e casi clinici) a supporto di questa direzione.
+
+Nota metodologica: l'indicazione con il punteggio TxGNN più alto (rank 1) è il disturbo bipolare maniacale, ma i dati compilati per questo report indicano un possibile danno anziché un beneficio. Per questo motivo il report si concentra sulla CPVT, che è l'ipotesi più plausibile tra quelle valutate, e riassume le altre candidate nella sezione conclusiva.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Aritmia cardiaca (farmaco antiaritmico di classe IC; nessun record normativo italiano disponibile) |
-| Nuova indicazione prevista | Disturbo bipolare affettivo maniacale |
-| Punteggio di previsione TxGNN | 99.80% |
-| Livello di evidenza | L5 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
-
----
-
-## Perché questa previsione è ragionevole?
-
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo Evidence Pack. In base alla farmacologia nota, propafenone è un farmaco antiaritmico di classe IC che blocca principalmente i canali del sodio cardiaci (Nav1.5). Possiede inoltre un blando blocco adrenergico beta e deboli proprietà antagoniste dei canali del calcio. Crucialmente, la sua penetrazione nel SNC è molto bassa a causa dell'insufficiente lipofilicità — e nessun meccanismo noto di stabilizzazione dell'umore o anti-maniacale è stato identificato per questo farmaco.
-
-L'aritmia cardiaca e il disturbo bipolare affettivo maniacale sono condizioni meccanisticamente non correlate. Il modello TxGNN sembra aver identificato erroneamente un segnale di co-occorrenza nel suo grafo della conoscenza: la letteratura "di supporto" disponibile descrive propafenone *causante* mania come un evento avverso (PMID 2579063) e documenta interazioni dannose tra farmaci cardiovascolari e antipsicotici (PMID 32124390) — non evidenza di beneficio terapeutico nel disturbo bipolare. Questo è un noto modo di fallimento nei modelli basati su grafi, dove la direzione causale tra un nodo farmaco e un nodo malattia non è adeguatamente risolta.
-
-In sintesi, questa previsione di rango 1 non ha una razionale biologicamente plausibile. Il modello ha confuso una relazione di evento avverso (propafenone → mania) con una terapeutica. Nessuna investigazione aggiuntiva per questa indicazione è consigliata.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Fibrillazione atriale; tachicardia ventricolare (dalle relazioni del knowledge graph; i testi di indicazione AIFA non sono disponibili) |
+| Nuova indicazione predetta | Tachicardia ventricolare polimorfa catecolaminergica (CPVT) |
+| Punteggio di predizione TxGNN | 99,79% |
+| Livello di evidenza | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Decisione raccomandata | Hold (con indicazione di approfondimento come quesito di ricerca) |
 
 ---
 
-## Evidenza da trial clinici
+## Perché questa predizione è ragionevole?
 
-Attualmente nessun trial clinico correlato è registrato.
+I dati sul meccanismo d'azione del propafenone non sono al momento disponibili nei dati compilati. Sulla base delle informazioni note, il propafenone è un antiaritmico di classe IC (bloccante dei canali del sodio), efficace nelle aritmie ventricolari e sopraventricolari, e dal punto di vista meccanicistico può essere applicabile alla CPVT.
+
+La CPVT è causata da disfunzione del recettore della rianodina di tipo 2 (RyR2), con perdita diastolica di Ca²⁺ e post-depolarizzazioni ritardate. Studi preclinici (PMID 21270101, 26121139, 21798265) mostrano che antiaritmici di classe I, tra cui flecainide e propafenone (in particolare l'R-propafenone), sopprimono il rilascio di Ca²⁺ attraverso RyR2, e che l'efficacia è correlata all'inibizione del canale.
+
+Esiste inoltre un caso clinico di 35 anni di trattamento efficace con propafenone nella CPVT (PMID 30820400). La flecainide è l'agente aggiuntivo consolidato rispetto ai beta-bloccanti; il propafenone sarebbe quindi un'alternativa o un agente di seconda linea. Vanno valutati i rischi di proaritmia e di allargamento del QRS, soprattutto in presenza di cardiopatia strutturale.
 
 ---
 
-## Evidenza da letteratura
+## Evidenze dagli studi clinici
 
-> ⚠️ **Avvertenza importante**: Le pubblicazioni seguenti **non** supportano propafenone come trattamento per il disturbo bipolare. Documentano eventi avversi e interazioni farmacologiche. Appaiono in questo set di dati perché propafenone e disturbo bipolare co-occorrono in un contesto di sicurezza, non terapeutico.
+Al momento non risultano studi clinici correlati registrati.
+
+---
+
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|--------|
-| [32124390](https://pubmed.ncbi.nlm.nih.gov/32124390/) | 2020 | Revisione | Pharmacological Reports | Valuta le interazioni dannose tra antipsicotici e farmaci cardiovascolari; non supporta propafenone come trattamento per il disturbo bipolare |
-| [11949740](https://pubmed.ncbi.nlm.nih.gov/11949740/) | 2001 | Case Report | Int J Psychiatry in Medicine | Riporta un caso di psicosi organica risultante da un'interazione farmacologica venlafaxina–propafenone in un paziente bipolare — questo è un evento avverso, non un'applicazione terapeutica |
-| [2579063](https://pubmed.ncbi.nlm.nih.gov/2579063/) | 1985 | Case Report | J Clin Psychiatry | Descrive mania indotta dall'amministrazione di propafenone; nota la somiglianza chimica con bupropione (antidepressivo) come possibile meccanismo degli effetti collaterali psichiatrici |
+|------|-----|------|------|---------|
+| [30820400](https://pubmed.ncbi.nlm.nih.gov/30820400/) | 2019 | Caso clinico | HeartRhythm Case Reports | Trattamento efficace con propafenone per 35 anni in un paziente con CPVT |
+| [21270101](https://pubmed.ncbi.nlm.nih.gov/21270101/) | 2011 | Preclinico/meccanicistico | Circ Arrhythm Electrophysiol | L'efficacia degli antiaritmici di classe I nella CPVT dipende dall'inibizione dei canali RyR2 |
+| [26121139](https://pubmed.ncbi.nlm.nih.gov/26121139/) | 2015 | Preclinico/meccanicistico | PLoS One | L'attività di RyR2 determina potenza ed efficacia di flecainide e R-propafenone contro le onde di Ca²⁺ aritmogene |
+| [21798265](https://pubmed.ncbi.nlm.nih.gov/21798265/) | 2011 | Preclinico/meccanicistico | J Mol Cell Cardiol | Screening degli antiaritmici di classe I sulle onde di Ca²⁺ in miociti privi di calsequestrina |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Revisione sistematica | Life (Basel) | Caratteristiche cliniche, genetiche ed esiti aritmici di pazienti cinesi con CPVT |
+| [39564160](https://pubmed.ncbi.nlm.nih.gov/39564160/) | 2024 | Coorte | Ann Pediatr Cardiol | Decorso clinico a lungo termine (oltre 10 anni) di pazienti con CPVT |
+| [23965883](https://pubmed.ncbi.nlm.nih.gov/23965883/) | 2013 | Coorte | Zhongguo Dang Dai Er Ke Za Zhi | Esiti a lungo termine e fattori predittivi di aritmia ventricolare nella CPVT |
+| [36082968](https://pubmed.ncbi.nlm.nih.gov/36082968/) | 2023 | Preclinico/meccanicistico | Clin Exp Pharmacol Physiol | Mutazione con guadagno di funzione R1760W-RyR2 in un paziente con CPVT |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Caso clinico | Medicine | Diagnosi ritardata di CPVT in un bambino con mutazione di RYR2 |
+| [42558477](https://pubmed.ncbi.nlm.nih.gov/42558477/) | 2026 | Caso clinico | Front Pediatr | Sovrapposizione di sindrome del QT lungo e CPVT in due bambini con calmodulinopatia |
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 024862106 | RYTMONORM 28 cps 425 mg rilascio prolungato (Teva Italia) | Non disponibile | Non disponibile |
+| 024862029 | RYTMONORM 30 cpr rivestite 300 mg (Teva Italia) | Non disponibile | Non disponibile |
+| 024862017 | RYTMONORM 30 cpr rivestite 150 mg (Teva Italia) | Non disponibile | Non disponibile |
+| 024862031 | RYTMONORM 5 fiale EV 70 mg/20 ml (Teva Italia) | Non disponibile | Non disponibile |
+| 024862094 | RYTMONORM 28 cps 325 mg rilascio prolungato (Teva Italia) | Non disponibile | Non disponibile |
+
+Tutte le 14 autorizzazioni (comprese quelle di medicinali equivalenti di Towa, EG, Accord, DOC Generici e Ratiopharm) risultano cancellate; al momento non è presente alcuna autorizzazione valida.
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+- **Controindicazioni (dalle relazioni del knowledge graph, non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, malattia renale, malattia epatica, malattia della colecisti, carenza di potassio, ipotensione, infarto miocardico, malattia coronarica e aterosclerosi, miastenia gravis, agranulocitosi e neutropenia (comprese le forme congenite).
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni. Tra quelle di livello **maggiore** figurano dolasetron ed eliglustat. Tra quelle di livello moderato: famotidina, alosetron, loperamide, bupropione, aprepitant, lorcaserina, cimetidina, claritromicina, levofloxacina, ondansetron e palonosetron, oltre a diversi lassativi. Il metronidazolo è di livello minore.
+- **Segnali specifici per le altre indicazioni predette**: casi di mania indotta da propafenone, psicosi da interazione con venlafaxina, allargamento del QRS e tachicardia ventricolare incessante in pazienti con cardiomiopatia aritmogena del ventricolo destro.
 
----
-
-## Sintesi di tutte le indicazioni previste
-
-Per contesto, la seguente tabella riassume tutte le 8 indicazioni previste da TxGNN e il loro stato di evidenza:
-
-| Rango | Malattia | Punteggio TxGNN | Livello di evidenza | Decisione |
-|-------|---------|-----------------|-------------------|----------|
-| 1 | Disturbo bipolare affettivo maniacale | 99.80% | L5 | **Sospendere** — evento avverso interpretato erroneamente come terapeutico |
-| 2 | Tachicardia ventricolare polimorca catecolaminergica (CPVT) | 99.79% | L3 | **Procedere con criteri di sicurezza** — meccanismo di inibizione diretta RyR2; 9 pubblicazioni |
-| 3 | Paralisi periodica con sindrome compartimentale transitoria | 99.67% | L5 | **Sospendere** — mancata selettività del canale (Nav1.5 vs Nav1.4) |
-| 4 | Angina di Prinzmetal | 99.45% | L5 | **Sospendere** — gli agenti di classe IC possono peggiorare l'aritmia correlata all'ischemia |
-| 5 | Tachicardia ventricolare incessante nell'infanzia | 99.44% | L3 | **Procedere con criteri di sicurezza** — uso pediatrico registrato dal 1987; 5 pubblicazioni |
-| 6 | Cardiomiopatia aritmogena del ventricolo destro (ARVC) | 99.42% | L3 | **Domanda di ricerca** — rischio proaritmico nella malattia cardiaca strutturale; 12 pubblicazioni |
-| 7 | Sindrome nefrogena di inappropriata antidiuresi (NSIAD) | 99.23% | L5 | **Sospendere** — nessuna intersezione meccanistica |
-| 8 | Tricotillomania | 99.17% | L5 | **Sospendere** — farmaco cardiaco periferico; penetrazione nel SNC trascurabile |
-
-Il candidato al riposizionamento **più scientificamente convincente** è **CPVT (Rango 2)**: propafenone inibisce direttamente i canali di rilascio del calcio RyR2 — il driver patologico primario in CPVT — mentre il suo blocco Nav1.5 e le proprietà blande di blocco beta forniscono soppressione complementare delle aritmie triggeriate.
+Per le avvertenze complete si rimanda al foglietto illustrativo.
 
 ---
 
 ## Conclusione e prossimi passi
 
-**Decisione: Sospendere** *(per il Rango 1: Disturbo bipolare affettivo maniacale)*
+**Decisione: Hold** (con la CPVT da considerare come quesito di ricerca)
 
-**Razionale:**
-La previsione di rango 1 di TxGNN è biologicamente implicabile. La penetrazione del SNC molto bassa di propafenone, l'assenza di qualsiasi via di stabilizzazione dell'umore e il fatto che l'unica letteratura disponibile documenta propafenone *causante* effetti avversi psichiatrici collettivamente rendono questo un chiaro falso positivo. Il modello sembra aver invertito la direzione causale di una nota reazione avversa ai farmaci.
+**Motivazione:**
+- La CPVT ha un razionale biologico credibile e un'evidenza di livello L3 (dati preclinici e un caso clinico), ma non esistono studi clinici registrati e la flecainide è già l'agente consolidato. Inoltre, tutte le autorizzazioni italiane sono cancellate, il che limita la praticabilità regolatoria.
 
-**Per procedere con ulteriore valutazione:**
-- **Non perseguire** il disturbo bipolare affettivo maniacale come target di riposizionamento per propafenone
-- **Pivot consigliato**: Avviare una sintesi completa di evidenza per **CPVT (Rango 2)**, che ha fondamenti meccanistici (inibizione RyR2, PMID 21270101, 26121139), supporto da coorti osservazionali e un rapporto di caso a lungo termine di trattamento di successo di 35 anni (PMID 30820400)
-- **Ottenere foglio illustrativo / dati normativi**: Recuperare le informazioni di prescrizione dell'Italia (AIFA) e di Taiwan (TFDA) per colmare il divario nei dati di sicurezza prima di qualsiasi pianificazione clinica
-- **Ottenere documentazione formale del meccanismo d'azione**: Consultare l'API di DrugBank per DB01182 per completare l'analisi del meccanismo d'azione
-- **Per ARVC (Rango 6)**: Commissionare una revisione sistematica della sicurezza che esamini specificamente il rischio proaritmico degli agenti di classe IC nella malattia cardiaca strutturale prima di procedere ulteriormente
+**Altre indicazioni predette (sintesi):**
+- **Tachicardia ventricolare infantile incessante** (L3, quesito di ricerca): piccoli studi non controllati e datati; vanno considerati la sicurezza pediatrica e le alternative (amiodarone, sotalolo, flecainide).
+- **Cardiomiopatia aritmogena del ventricolo destro** (L4, Hold): segnali di sicurezza prevalenti rispetto al potenziale beneficio.
+- **Disturbo bipolare maniacale, angina di Prinzmetal, paralisi periodica, NSIAD, tricotillomania** (L5, Hold): predizioni solo computazionali, senza evidenze di supporto; per il disturbo bipolare i dati suggeriscono possibile danno.
 
+**Per procedere sono necessari:**
+- Recupero del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
+- Dati sul meccanismo d'azione da DrugBank
+- Studi clinici o serie di casi più ampi sulla CPVT, con confronto diretto rispetto alla flecainide
+- Valutazione del rischio proaritmico (QRS, cardiopatia strutturale) e della gestione delle interazioni farmacologiche
+- Chiarimento della situazione regolatoria in Italia, dato che non esistono autorizzazioni valide
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

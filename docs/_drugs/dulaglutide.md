@@ -2,7 +2,7 @@
 layout: default
 title: Dulaglutide
 parent: Solo previsione del modello (L5)
-nav_order: 80
+nav_order: 157
 evidence_level: L5
 indication_count: 0
 ---

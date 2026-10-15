@@ -2,7 +2,7 @@
 layout: default
 title: Ezetimibe
 parent: Prove elevate (L1-L2)
-nav_order: 102
+nav_order: 188
 evidence_level: L1
 indication_count: 4
 ---
@@ -29,100 +29,104 @@ Livello di evidenza: **L1** | Indicazioni previste: **4**
 
 </div>
 
-# Ezetimibe: dall'Inibitore dell'Assorbimento del Colesterolo all'Iperlipoproteinemia
+# Ezetimibe: Dall'ipercolesterolemia all'iperlipoproteinemia
 
-## Riassunto in Una Frase
+## Riepilogo in una frase
 
-L'ezetimibe è un inibitore selettivo dell'assorbimento del colesterolo che blocca l'assorbimento intestinale del colesterolo dietetico e biliare tramite il trasportatore NPC1L1, riducendo direttamente i livelli circolanti di LDL-C.
-Il modello TxGNN prevede che possa essere efficace per l'**Iperlipoproteinemia**, con **50 studi clinici** e **19 pubblicazioni** che attualmente supportano questa direzione.
+Ezetimibe è un inibitore dell'assorbimento intestinale del colesterolo, già utilizzato per il trattamento dell'iperlipidemia, compresa l'ipercolesterolemia familiare omozigote e la sitosterolemia. Il modello TxGNN prevede che possa essere efficace per l'**iperlipoproteinemia** (punteggio 99,63%), con **40 studi clinici** e **19 pubblicazioni** raccolti per questa indicazione. Si tratta però di una estensione molto vicina all'indicazione originale, più che di un vero riposizionamento.
 
----
-
-## Panoramica Rapida
+## Panoramica rapida
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione Originaria | Nessuna indicazione approvata registrata (non registrato in Italia) |
-| Indicazione Nuova Prevista | Iperlipoproteinemia |
-| Punteggio di Predizione TxGNN | 99.63% |
-| Livello di Evidenza | L1 |
-| Stato di Mercato in Italia | Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Cautele |
+|------|------|
+| Indicazione originale | Iperlipidemia (incluse ipercolesterolemia familiare omozigote e sitosterolemia). Nelle autorizzazioni italiane il testo dell'indicazione non è disponibile. |
+| Nuova indicazione prevista | Iperlipoproteinemia |
+| Punteggio di predizione TxGNN | 99,63% |
+| Livello di evidenza | L1 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
----
+## Perché questa predizione è ragionevole?
 
-## Perché Questa Predizione è Ragionevole?
+I dati compilati per questo report non riportano il meccanismo d'azione. In base alla farmacologia consolidata, ezetimibe inibisce la proteina NPC1L1 a livello dell'orletto a spazzola dell'enterocita, riducendo l'assorbimento intestinale di colesterolo e fitosteroli e quindi i livelli di LDL-C. Questo è lo stesso meccanismo alla base dell'indicazione originale.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel database normativo. Sulla base delle evidenze farmacologiche note, l'ezetimibe inibisce selettivamente il trasportatore NPC1L1 (Niemann-Pick C1-Like 1) localizzato sulle cellule epiteliali dell'orletto a spazzola intestinale. Questo trasportatore è responsabile dell'assorbimento sia del colesterolo dietetico che di quello biliare dal lume intestinale. Bloccando NPC1L1, l'ezetimibe riduce l'assorbimento intestinale del colesterolo di circa il 54%, il che abbassa direttamente i livelli circolanti di LDL-C senza influenzare la sintesi degli acidi biliari o i percorsi delle lipoproteine ricche di trigliceridi — un meccanismo che è fondamentalmente distinto da, e complementare a, la terapia con statine.
+L'iperlipoproteinemia è di fatto una riformulazione o un'estensione stretta dell'iperlipidemia: la predizione è quindi coerente, ma non rappresenta un riposizionamento in senso proprio. Lo stesso vale per l'ipercolesterolemia familiare (secondo risultato del modello), dove ezetimibe offre un abbassamento additivo di LDL-C in aggiunta alle statine; le forme familiari e omozigote sono già tra le indicazioni originali.
 
-Il collegamento meccanicistico all'iperlipoproteinemia è eccezionalmente diretto: i livelli elevati di lipoproteine — in particolare LDL — sono in parte guidati da un eccessivo assorbimento intestinale del colesterolo che fornisce substrato per l'assemblaggio epatico delle lipoproteine. L'ezetimibe affronta questo dal lato dell'offerta, mentre le statine riducono la sintesi epatica. La terapia combinata ha dimostrato costantemente riduzioni additive di LDL-C del 15–25% oltre quello che le statine raggiungono da sole, sottolineando la razionale clinica per l'ezetimibe nei pazienti che non possono raggiungere i bersagli di LDL-C con monoterapia.
+Le altre due predizioni sono molto più deboli. Per l'ipercolesterolemia da deficit di colesterolo 7-alfa-idrossilasi, il razionale è plausibile ma supportato solo da uno studio preclinico indiretto (decisione: Hold). Per il deficit di CETP non esiste un razionale terapeutico consolidato per un farmaco che abbassa LDL-C e non vi sono prove dirette (decisione: Hold).
 
-Il punteggio TxGNN di 0.9963 (classificato #2,407 a livello globale) riflette una connessione strutturale molto forte tra i nodi dei bersagli molecolari dell'ezetimibe e i nodi della malattia associati all'iperlipoproteinemia nel grafo della conoscenza. Questo è potentemente corroborato dalla base di evidenze cliniche: molteplici studi di Fase 3 completati hanno impiegato l'ezetimibe sia come farmaco investigativo primario che come benchmark del comparatore attivo — indicando che è considerato lo standard clinico di riferimento per l'inibizione dell'assorbimento del colesterolo in quest'area di malattia.
+## Evidenze dagli studi clinici
 
----
+Per l'iperlipoproteinemia sono stati raccolti 40 studi. Di seguito i più rilevanti (in ordine di pertinenza e solidità del disegno).
 
-## Evidenza da Studi Clinici
-
-| Numero di Studio | Fase | Stato | Arruolamento | Risultati Chiave |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00093899](https://clinicaltrials.gov/study/NCT00093899) | Fase 3 | Completato | 611 | Coamministrazione di Ezetimibe/Simvastatina + Fenofibrato nell'iperlipoproteinemia mista (colesterolo e trigliceridi elevati); valutazione centrale dell'efficacia e della sicurezza della strategia combinata di riduzione dei lipidi |
-| [NCT01763827](https://clinicaltrials.gov/study/NCT01763827) | Fase 3 | Completato | 615 | Evolocumab vs. Ezetimibe vs. placebo in 12 settimane in adulti ipercolesterolomici a basso rischio; l'ezetimibe ha servito come comparatore attivo, stabilendo il benchmark clinico di LDL-C |
-| [NCT01043380](https://clinicaltrials.gov/study/NCT01043380) | Fase 4 | Completato | 245 | PRECISE-IVUS: Ezetimibe (inibitore dell'assorbimento) vs. statina (inibitore della sintesi) sulla regressione della placca coronarica misurata mediante ecografia intravascolare; valutazione dei risultati aterosclerotici oltre la LDL-C |
-| [NCT06005597](https://clinicaltrials.gov/study/NCT06005597) | Fase 3 | Completato | 407 | Combinazione a dose fissa di Obicetrapib 10mg + Ezetimibe 10mg vs. placebo in pazienti con ipercolesterolemia familiare/ASCVD su terapia massimale di riduzione dei lipidi; valutazione della riduzione aggiuntiva di LDL-C |
-| [NCT00092560](https://clinicaltrials.gov/study/NCT00092560) | Fase 3 | Completato | 587 | Coamministrazione di Fenofibrato e Ezetimibe nell'iperlipoproteinemia mista; valutazione completa dell'efficacia di riduzione del colesterolo e della sicurezza della combinazione doppia |
-| [NCT00349284](https://clinicaltrials.gov/study/NCT00349284) | Fase 3 | Completato | 181 | Fenofibrato vs. Ezetimibe vs. loro combinazione nella dislipidemia di tipo IIb con caratteristiche della sindrome metabolica; valutazione del miglioramento complementare del profilo lipidico aterogenico |
-| [NCT04433533](https://clinicaltrials.gov/study/NCT04433533) | Fase 4 | Sconosciuto | 200 | Combinazione di Rosuvastatina/Ezetimibe vs. monoterapia con Rosuvastatina in pazienti coreani con disfunzione diastolica ventricolare sinistra e iperlipoproteinemia (LDL ≥ 100 mg/dL) |
-| [NCT00092833](https://clinicaltrials.gov/study/NCT00092833) | Fase 3 | Terminato | 49 | Studio di uso terapeutico in aperto: Ezetimibe 10mg/die nell'ipercolesterolemia familiare omozigote e sitosterolemia; programma di accesso anticipato con raccolta dati di sicurezza (terminato; interpretare con cautela) |
-| [NCT00843661](https://clinicaltrials.gov/study/NCT00843661) | Fase 4 | Sconosciuto | 60 | Ezetimibe + Fenofibrato vs. monoterapia con Pravastatina in pazienti HIV-positivi su inibitori delle proteasi con iperlipoproteinemia; affrontamento delle sfide di interazione farmacologica in contesti clinici complessi |
-| [NCT04862260](https://clinicaltrials.gov/study/NCT04862260) | Fase 1 Precoce | Attivo, Non in Reclutamento | 3 | Riprogrammazione esplorativa del metabolismo del colesterolo (Evolocumab + Atorvastatina + Ezetimibe) con standard of care nell'adenocarcinoma pancreatico avanzato; indagine del ruolo del colesterolo nella progressione del cancro |
+| [NCT03847506](https://clinicaltrials.gov/study/NCT03847506) | Fase 4 | Completato | 127 | Studio randomizzato in doppio cieco: ezetimibe/rosuvastatina con candesartan/amlodipina in pazienti con ipertensione e iperlipidemia |
+| [NCT00271817](https://clinicaltrials.gov/study/NCT00271817) | Fase 3 | Completato | 1220 | Ezetimibe/simvastatina più niacina a rilascio prolungato in iperlipidemia di tipo IIa/IIb |
+| [NCT00092573](https://clinicaltrials.gov/study/NCT00092573) | Fase 3 | Completato | 576 | Co-somministrazione di fenofibrato ed ezetimibe in iperlipidemia mista |
+| [NCT00093899](https://clinicaltrials.gov/study/NCT00093899) | Fase 3 | Completato | 611 | Ezetimibe/simvastatina più fenofibrato in iperlipidemia mista |
+| [NCT00092560](https://clinicaltrials.gov/study/NCT00092560) | Fase 3 | Completato | 587 | Fenofibrato ed ezetimibe in iperlipidemia mista |
+| [NCT01984424](https://clinicaltrials.gov/study/NCT01984424) | Fase 3 | Completato | 511 | Evolocumab vs ezetimibe in pazienti intolleranti alle statine (ezetimibe come comparatore) |
+| [NCT01763905](https://clinicaltrials.gov/study/NCT01763905) | Fase 3 | Completato | 307 | Evolocumab vs ezetimibe in pazienti intolleranti alle statine (ezetimibe come comparatore) |
+| [NCT00092833](https://clinicaltrials.gov/study/NCT00092833) | Fase 3 | Terminato | 49 | Studio open-label di uso terapeutico di ezetimibe 10 mg/die in ipercolesterolemia familiare omozigote o sitosterolemia |
+| [NCT00753883](https://clinicaltrials.gov/study/NCT00753883) | Fase 4 | Completato | 40 | Confronto randomizzato in aperto tra ezetimibe e statina nell'ipercolesterolemia |
+| [NCT00705211](https://clinicaltrials.gov/study/NCT00705211) | N/D | Completato | 1794 | Sorveglianza post-marketing a 52 settimane di Zetia 10 mg in Giappone, senza gruppo di controllo |
 
----
+Molte delle altre registrazioni riguardano associazioni con statine, fibrati o nuovi farmaci in cui ezetimibe è un comparatore o una terapia di fondo.
 
-## Evidenza dalla Letteratura
+## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|---------|
-| [40347969](https://pubmed.ncbi.nlm.nih.gov/40347969/) | 2025 | RCT Fase 3 | Lancet | Studio TANDEM: la combinazione a dose fissa di Obicetrapib + Ezetimibe ha ridotto significativamente la LDL-C rispetto al placebo nei pazienti in terapia massimale di riduzione dei lipidi; convalida il ruolo centrale dell'ezetimibe nella gestione combinata innovativa dei lipidi |
-| [41206969](https://pubmed.ncbi.nlm.nih.gov/41206969/) | 2026 | RCT Fase 3 | JAMA | Inibitore orale di PCSK9 enlicitide vs. placebo in adulti con ipercolesterolemia familiare; i partecipanti erano già in terapia di base includente l'ezetimibe, stabilendo il suo ruolo come fondamento standard della gestione di LDL-C |
-| [23956253](https://pubmed.ncbi.nlm.nih.gov/23956253/) | 2013 | Linea Guida/Revisione | European Heart Journal | Consenso EAS: ipercolesterolemia familiare sottodiagnosticata e sottotattata globalmente; l'ezetimibe è esplicitamente raccomandato nell'algoritmo di trattamento per prevenire la malattia coronarica |
-| [25939291](https://pubmed.ncbi.nlm.nih.gov/25939291/) | 2015 | Revisione | Cardiology Clinics | Panoramica della gestione dell'ipercolesterolemia familiare: l'ezetimibe è un trattamento provato per abbassare la LDL-C; la terapia combinata precoce con statine riduce sostanzialmente gli eventi cardiovascolari e la mortalità |
-| [34480646](https://pubmed.ncbi.nlm.nih.gov/34480646/) | 2021 | Revisione | Current Cardiology Reports | Carico globale dell'ipercolesterolemia familiare e gestione attuale; l'ezetimibe è posizionato come agente chiave di seconda linea per i pazienti che non raggiungono i bersagli di LDL-C con monoterapia con statine |
-| [29219151](https://pubmed.ncbi.nlm.nih.gov/29219151/) | 2017 | Revisione | Nature Reviews Disease Primers | Revisione definitiva dell'ipercolesterolemia familiare che copre la patofisiologia delle mutazioni LDLR/APOB/PCSK9, lo spettro clinico e la strategia di trattamento includente l'ezetimibe nell'algoritmo terapeutico |
-| [37762244](https://pubmed.ncbi.nlm.nih.gov/37762244/) | 2023 | Revisione | Int J Molecular Sciences | Patofisiologia dell'iperlipoproteinemia postprandiale, aterogenesi e trattamento; l'ezetimibe riduce la lipemia postprandiale inibendo NPC1L1 intestinale, affrontando una finestra di rischio aterogenico distinta |
-| [40682836](https://pubmed.ncbi.nlm.nih.gov/40682836/) | 2025 | Revisione | Molecular Medicine Reports | Revisione completa dei farmaci che mirano all'iperlipoproteinemia; il meccanismo dell'ezetimibe di assorbimento del colesterolo intestinale, i dati di efficacia clinica e il ruolo attuale nella prevenzione dell'ASCVD esaminati in contesto moderno |
-| [38599725](https://pubmed.ncbi.nlm.nih.gov/38599725/) | 2024 | Revisione | Indian Heart Journal | Gestione dell'ipercolesterolemia familiare e importanza dello screening in cascata; l'ezetimibe è un'aggiunta standard alla terapia con statine, particolarmente critica nelle popolazioni con alta prevalenza di ipercolesterolemia familiare e sottodiagnosi |
-| [19654419](https://pubmed.ncbi.nlm.nih.gov/19654419/) | 2009 | Revisione | Drug and Therapeutics Bulletin | Aggiornamento sull'ezetimibe: riduce la LDL-C plasmatica e il colesterolo totale come monoterapia o combinato con statine; discute l'evidenza degli esiti cardiovascolari a quel periodo e il posizionamento clinico |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [41206969](https://pubmed.ncbi.nlm.nih.gov/41206969/) | 2026 | RCT | JAMA | Efficacia e sicurezza dell'inibitore orale di PCSK9 enlicitide nella ipercolesterolemia familiare eterozigote |
+| [40347969](https://pubmed.ncbi.nlm.nih.gov/40347969/) | 2025 | RCT (fase 3) | Lancet | Associazione fissa obicetrapib/ezetimibe per la riduzione del colesterolo LDL (TANDEM) |
+| [25282519](https://pubmed.ncbi.nlm.nih.gov/25282519/) | 2015 | RCT | Lancet | Evolocumab nella ipercolesterolemia familiare eterozigote (RUTHERFORD-2) |
+| [37850379](https://pubmed.ncbi.nlm.nih.gov/37850379/) | 2024 | RCT | Circulation | Inclisiran nella ipercolesterolemia familiare omozigote (ORION-5) |
+| [35101175](https://pubmed.ncbi.nlm.nih.gov/35101175/) | 2022 | Coorte retrospettiva | Lancet | Esperienza mondiale nella ipercolesterolemia familiare omozigote |
+| [40682836](https://pubmed.ncbi.nlm.nih.gov/40682836/) | 2025 | Revisione | Molecular Medicine Reports | Progressi nei farmaci attuali per l'iperlipidemia |
+| [33766264](https://pubmed.ncbi.nlm.nih.gov/33766264/) | 2021 | Revisione | JACC | Terapie nuove ed emergenti per la riduzione di LDL-C e apolipoproteina B |
+| [19654419](https://pubmed.ncbi.nlm.nih.gov/19654419/) | 2009 | Revisione | Drug and Therapeutics Bulletin | Aggiornamento su ezetimibe: riduce LDL-C da solo o con statina, senza prove di effetto su morbilità e mortalità cardiovascolare all'epoca |
+| [25939291](https://pubmed.ncbi.nlm.nih.gov/25939291/) | 2015 | Revisione | Cardiology Clinics | Ipercolesterolemia familiare: statine, ezetimibe e altre opzioni terapeutiche |
+| [23956253](https://pubmed.ncbi.nlm.nih.gov/23956253/) | 2013 | Consenso | European Heart Journal | Sottodiagnosi e sottotrattamento dell'ipercolesterolemia familiare (EAS) |
 
----
+Si noti che diversi RCT riguardano altri farmaci in cui ezetimibe è solo terapia di fondo o comparatore: l'evidenza diretta su ezetimibe deriva soprattutto dagli studi clinici elencati sopra.
 
-## Informazioni di Mercato in Italia
+## Informazioni sul mercato italiano
 
-L'ezetimibe **non è attualmente registrato** in Italia. Il database normativo restituisce 0 autorizzazioni attive e nessun record di indicazione approvata. La valutazione di un percorso di autorizzazione di mercato tramite AIFA sarebbe richiesta prima di qualsiasi uso clinico in Italia.
+Tutte e 20 le autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
----
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 036016145 | Ezetrol 30 cpr 10 mg | Organon Italia Srl | Cancellata |
+| 036017147 | Zetia 30 cpr 10 mg | Neopharmed Gentili SpA | Cancellata |
+| 046620011 | Trizibe 30 cpr 10 mg | Piam Farmaceutici SpA | Cancellata |
+| 050670013 | Dyslizet 3x10 cpr 10 mg | Egis Pharmaceuticals PLC | Cancellata |
+| 044115172 | Kobey 50 cpr 10 mg | I.B.N. Savio Srl | Cancellata |
 
-## Considerazioni di Sicurezza
+Le restanti 15 autorizzazioni riguardano ezetimibe generico di vari titolari (Accord, Alter, Zentiva, Mylan, Teva, EG, Tecnigen, Almus, e altre confezioni Ezetrol di BB Farma, Difarmed, Farmed), tutte cancellate.
 
-Consultare il foglio illustrativo per le informazioni sulla sicurezza.
+## Considerazioni sulla sicurezza
 
----
+- **Controindicazioni suggerite dal grafo di conoscenza** (non derivate dal foglietto illustrativo): pancreatite, malattia epatica, malattia della colecisti, miopatia, malattie muscolari e dello muscolo scheletrico, paralisi periodica familiare, abuso/dipendenza da sostanze, rabdomiolisi, fascite nodulare.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Quelle di livello moderato includono acido chenodesossicolico, eluxadolina, rosuvastatina e simvastatina. Altre interazioni di livello non classificato riguardano, tra le altre, calcitriolo, pantoprazolo, glimepiride, mesalazina, doxiciclina, metformina, omeprazolo e vancomicina.
 
-## Conclusioni e Prossimi Passi
+Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illustrativo.
 
-**Decisione: Procedere con Cautele**
+## Conclusione e prossimi passi
 
-**Razionale:**
-Molteplici RCT di Fase 3 completati e un ampio corpo di letteratura sottoposta a revisione paritaria confermano l'efficacia ben consolidata dell'ezetimibe nel ridurre la LDL-C nei pazienti con iperlipoproteinemia — la predizione TxGNN è fortemente convalidata e riflette la pratica clinica esistente nella maggior parte dei mercati. L'assenza di autorizzazione di mercato italiana è la barriera operativa primaria, non una mancanza di evidenze cliniche.
+**Decisione: Proceed with Guardrails (procedere con cautele)**
 
-**Per procedere, è necessario quanto segue:**
-- Presentazione di un'applicazione di autorizzazione di mercato all'AIFA (Agenzia Italiana del Farmaco) per l'indicazione dell'iperlipoproteinemia
-- Risoluzione del divario dei dati del meccanismo d'azione tramite DrugBank (DG002, severità Alta)
-- Revisione completa del foglio illustrativo per avvertenze di sicurezza, controindicazioni e interazioni farmacologiche (DG001, severità Bloccante — richiesta prima della valutazione di sicurezza S1)
-- Valutazione dell'interazione farmaco-farmaco, in particolare per l'uso concomitante con statine, fibrati, ciclosporina e inibitori delle proteasi HIV
-- Protocollo della sottopopolazione pediatrica: revisione dedicata per bambini di età 6–17 anni con ipercolesterolemia familiare, dove sono disponibili evidenze di Fase 3 (NCT00867165, n=138)
-- Piano di monitoraggio degli esiti cardiovascolari a lungo termine, includente sorveglianza della funzione epatica durante l'uso cronico
+**Motivazione:**
+- Per iperlipoproteinemia e ipercolesterolemia familiare esistono numerosi studi di fase 3 completati e il meccanismo è consolidato (livello di evidenza L1). Tuttavia si tratta in gran parte di un uso già on-label o quasi, non di un vero riposizionamento.
+- Le predizioni per il deficit di colesterolo 7-alfa-idrossilasi (L4) e per il deficit di CETP (L5) rimangono in **Hold**: mancano studi clinici e il razionale è debole o assente.
+- Attualmente tutte le autorizzazioni italiane sono cancellate, quindi un eventuale uso richiederebbe di verificare la disponibilità commerciale e lo stato regolatorio.
 
+**Per procedere sono necessari:**
+- Verifica dello stato regolatorio attuale in Italia e dei motivi delle cancellazioni (commerciali o di sicurezza).
+- Acquisizione del foglietto illustrativo AIFA per avvertenze e controindicazioni ufficiali (dato mancante, bloccante per lo screening di sicurezza).
+- Dati sul meccanismo d'azione da DrugBank.
+- Valutazione della rilevanza clinica delle interazioni moderate (in particolare con statine) e delle controindicazioni epatiche e muscolari.
+- Per le indicazioni in Hold, evidenza clinica specifica prima di qualsiasi ulteriore valutazione.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -2,7 +2,7 @@
 layout: default
 title: Edoxaban
 parent: Solo previsione del modello (L5)
-nav_order: 85
+nav_order: 164
 evidence_level: L5
 indication_count: 0
 ---

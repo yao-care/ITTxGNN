@@ -2,7 +2,7 @@
 layout: default
 title: Dabigatran
 parent: Solo previsione del modello (L5)
-nav_order: 63
+nav_order: 132
 evidence_level: L5
 indication_count: 0
 ---

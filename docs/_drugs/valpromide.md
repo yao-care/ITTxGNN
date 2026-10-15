@@ -2,7 +2,7 @@
 layout: default
 title: Valpromide
 parent: Solo previsione del modello (L5)
-nav_order: 209
+nav_order: 458
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,78 +29,65 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Valpromide: Dall'Anticonvulsivante/Disturbi dell'Umore all'Insonnia
+# Valpromide: Dall'indicazione originale non documentata all'insonnia
 
-## Sommario in una frase
+## Sintesi in una frase
 
-Valpromide è un prodotto farmaceutico amidico dell'acido valproico, storicamente associato ad applicazioni anticonvulsivanti e stabilizzanti dell'umore — sebbene nessuna indicazione approvata sia formalmente registrata in Italia. Il modello TxGNN prevede che potrebbe essere efficace per l'insonnia, con 0 studi clinici e 1 pubblicazione attualmente a supporto di questa direzione. La base di evidenza complessiva rimane minima, posizionando questo candidato al più precoce stadio di esplorazione.
+Valpromide è un derivato amidico dell'acido valproico; nei dati compilati per questo report non risulta alcuna indicazione approvata in Italia.
+Il modello TxGNN prevede una possibile efficacia nell'**insonnia**,
+ma l'evidenza è molto limitata: **nessuno studio clinico registrato** e **1 pubblicazione** (serie di casi).
 
----
-
-## Panoramica veloce
+## Panoramica rapida
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione originale | Nessuna indicazione registrata in Italia (farmaco non commercializzato) |
-| Indicazione nuova prevista | Insonnia |
-| Punteggio di previsione TxGNN | 99.79% |
+|------|------|
+| Indicazione originale | Non disponibile (il testo dell'indicazione nella licenza AIFA è vuoto) |
+| Nuova indicazione prevista | Insonnia |
+| Punteggio di predizione TxGNN | 99,79% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Hold |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è plausibile?
 
-## Perché questa previsione è ragionevole?
+I dati sul meccanismo d'azione di valpromide non sono al momento disponibili. In base alle informazioni note, valpromide è un analogo amidico dell'acido valproico (valproato); per analogia con la classe, ci si aspetta un potenziamento della neurotrasmissione GABAergica e una modulazione dei canali del sodio voltaggio-dipendenti. Tali effetti potrebbero ridurre l'ipereccitabilità neuronale e favorire il sonno.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili per valpromide. Sulla base delle informazioni farmacologiche note, valpromide è un prodotto farmaceutico amidico strutturale dell'acido valproico — durante il metabolismo viene convertito in acido valproico, che a sua volta potenzia la neurotrasmissione GABAergica nel sistema nervoso centrale. Questo meccanismo è ampiamente analogo a quello delle benzodiazepine, una classe importante di farmaci ipnotici approvati, fornendo una base teorica per un effetto sedativo/ipnotico.
+Questo collegamento è però dedotto dalla classe del valproato e non è documentato per valpromide stessa. L'indicazione originale non è reperibile nei dati, quindi non è possibile valutare con precisione la relazione tra uso originale e nuova indicazione. Il punteggio TxGNN molto alto (0,998) è una predizione computazionale e non costituisce evidenza clinica.
 
-Il collegamento concettuale tra farmaci anticonvulsivanti/stabilizzanti l'umore e l'insonnia non è senza precedenti: gli agenti della classe dei valproati sono talvolta osservati migliorare l'architettura del sonno come effetto secondario nei pazienti con epilessia o disturbo bipolare. L'insonnia si presenta frequentemente insieme ad agitazione e disturbi d'ansia, e il percorso di potenziamento GABAergico che sta alla base dell'attività anticonvulsivante della valpromide potrebbe plausibilmente ridurre la latenza di inizio del sonno o migliorare la continuità del sonno.
+## Evidenza dagli studi clinici
 
-Tuttavia, è importante sottolineare che questo ragionamento meccanicistico è derivato indirettamente dalla classe dei valproati. Valpromide stessa non è stata direttamente validata per la promozione del sonno mediata da GABA in studi controllati sull'uomo. La previsione del modello TxGNN (punteggio 99.79%) riflette la plausibilità biologica basata su grafo, non l'evidenza clinica — e deve essere interpretata di conseguenza fino a quando non saranno disponibili dati prospettici.
-
----
-
-## Evidenza da studi clinici
-
-Attualmente non ci sono studi clinici correlati registrati.
-
----
+Al momento non risultano studi clinici correlati registrati.
 
 ## Evidenza dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|-------------|
-| [10370890](https://pubmed.ncbi.nlm.nih.gov/10370890/) | 1999 | Serie di casi (n=8) | L'Encephale | Valpromide e carbamazepina utilizzate per gestire l'agitazione aggressiva, l'ansia e l'insonnia in pazienti con demenza di Alzheimer; entrambi gli agenti hanno mostrato efficacia con un profilo di effetti collaterali più favorevole rispetto agli antipsicotici |
-
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [10370890](https://pubmed.ncbi.nlm.nih.gov/10370890/) | 1999 | Serie di casi | L'Encephale | Otto casi di pazienti anziani con demenza e agitazione/aggressività, insonnia e ansia generalizzata; valpromide e carbamazepina proposte come alternative ai neurolettici, che spesso causano sonnolenza e confusione |
 
 ## Informazioni sul mercato italiano
 
-Valpromide non ha attualmente autorizzazioni di commercializzazione in Italia e non è disponibile in commercio nel mercato italiano.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 023105036 | DEPAMIDE*30 cpr gastrores 300 mg (SANOFI Srl) | Compresse gastroresistenti | Non disponibile (autorizzazione cancellata) |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non sono disponibili avvertenze, controindicazioni o interazioni farmacologiche documentate.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Non sono stati recuperati dati su interazioni farmacologiche, controindicazioni o avvertenze chiave per valpromide in questo momento.
-
----
-
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
-**Razionale:**
-L'evidenza a supporto di valpromide per l'insonnia consiste in un'unica serie di casi del 1999 (n=8) in cui l'insonnia era un sintomo secondario — non un endpoint primario — in una popolazione con demenza. Non ci sono studi clinici registrati, nessuna approvazione normativa in Italia e nessun dato verificato sul meccanismo d'azione. Il punteggio TxGNN riflette la plausibilità meccanicistica attraverso l'inferenza su grafo, non la convalida clinica.
+**Motivazione:**
+L'evidenza è al livello L5: la predizione si basa solo sul modello, con una singola serie di casi del 1999 e nessuno studio clinico registrato. Il farmaco non è più commercializzato in Italia (unica licenza cancellata) e mancano dati su meccanismo e sicurezza.
 
-**Per procedere, sono necessari i seguenti elementi:**
-- Recupero e revisione del foglio illustrativo di valpromide (fonti TFDA/EMA) per stabilire le avvertenze chiave e le controindicazioni prima che qualsiasi valutazione della sicurezza possa essere condotta
-- Conferma del meccanismo d'azione tramite query API DrugBank (DG002)
-- Studi prospettici di farmacocinetica/farmacodinamica che caratterizzano gli effetti ipnotici diretti della valpromide nel SNC indipendentemente dalla conversione dell'acido valproico
-- Almeno uno studio clinico esplorativo di Fase 2 in pazienti con insonnia primaria (popolazione adulta generale, non solo coorti con demenza) prima di aggiornare il livello di evidenza
-- Valutazione della fattibilità della via normativa italiana/UE dato zero autorizzazioni esistenti e nessuna indicazione approvata in nessun paese
-
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), necessari per lo screening di sicurezza
+- Dati sul meccanismo d'azione di valpromide (ad es. da DrugBank)
+- Chiarimento dell'indicazione originale e della relazione con l'insonnia
+- Studi clinici o revisioni della letteratura più solidi sull'uso in insonnia
+- Valutazione della fattibilità regolatoria, dato lo stato di autorizzazione cancellata
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

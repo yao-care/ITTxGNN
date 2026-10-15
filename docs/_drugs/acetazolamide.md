@@ -2,7 +2,7 @@
 layout: default
 title: Acetazolamide
 parent: Solo previsione del modello (L5)
-nav_order: 14
+nav_order: 19
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,85 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# ACETAZOLAMIDE: Rapporto di valutazione del rifiuto di farmaci
+# Acetazolamide: Dal glaucoma e dall'epilessia da assenza all'ipertermia maligna indotta da esercizio
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Acetazolamide (DrugBank: DB00819) è un inibitore della anidrasi carbonica ben noto, storicamente utilizzato per il glaucoma, l'epilessia, il mal di montagna e l'edema. Il modello TxGNN **non ha generato alcuna nuova indicazione prevista** per questo farmaco al momento. Combinato con l'assenza di autorizzazione sul mercato di Taiwan e significativi gap di dati, questo candidato è attualmente **in sospeso** in attesa di ulteriore raccolta di dati.
-
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|------|------|
-| Nome del farmaco (INN) | ACETAZOLAMIDE |
-| DrugBank ID | DB00819 |
-| Indicazione originale | Non disponibile nel dataset attuale |
-| Nuova indicazione prevista | Nessuna (nessuna previsione TxGNN generata) |
-| Punteggio di previsione TxGNN | N/A |
-| Livello di evidenza | L5 — Nessuna previsione o studi di supporto disponibili |
-| Stato del mercato di Taiwan | ✗ Non commercializzato (Non commercializzato) |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **In sospeso** |
-
-## Perché questa previsione è ragionevole?
-
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. Sulla base di informazioni farmacologiche ampiamente conosciute, Acetazolamide è un **inibitore della anidrasi carbonica** (derivato solfonamidico) che riduce la formazione di ioni idrogeno e bicarbonato, portando a una diminuzione della secrezione di fluido. Ha un uso clinico consolidato a livello mondiale per condizioni tra cui il glaucoma (riducendo la pressione intraoculare), l'epilessia (terapia adiuvante), la profilassi del mal di montagna e l'edema associato all'insufficienza cardiaca.
-
-Tuttavia, il modello TxGNN **non ha generato alcuna nuova indicazione prevista** per Acetazolamide nell'esecuzione dell'analisi attuale. Ciò potrebbe essere dovuto a dati di input incompleti, all'assenza del farmaco dal database normativo di Taiwan, o al modello che determina che nessuna nuova indicazione ha raggiunto la soglia di confidenza. Senza un'indicazione prevista, nessun'analisi di ponte meccanismo-malattia può essere eseguita in questo momento.
-
-I gap di dati principali — dati MOA mancanti nel pacchetto di evidenze e avvertimenti del foglio illustrativo TFDA mancanti — sono classificati come gravità **Elevata** e **Bloccante** rispettivamente, il che limita ulteriormente la capacità di condurre una valutazione significativa del rifiuto di farmaci.
-
-## Evidenza da studi clinici
-
-Attualmente nessuna indicazione prevista è stata generata da TxGNN; pertanto, nessuna ricerca mirata di studi clinici è stata condotta.
-
-## Evidenza dalla letteratura
-
-Attualmente nessuna indicazione prevista è stata generata da TxGNN; pertanto, nessuna ricerca mirata della letteratura è stata condotta.
-
-## Informazioni sul mercato di Taiwan
-
-Acetazolamide non è attualmente commercializzato a Taiwan. Nessun record di autorizzazione TFDA è stato trovato (0 licenze).
-
-## Considerazioni di sicurezza
-
-> Per favore fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Il pacchetto di evidenze attuale non contiene avvertimenti del foglio illustrativo TFDA, controindicazioni o dati di interazione tra farmaci per questo medicinale a Taiwan. Questo è contrassegnato come un gap di dati **Bloccante** (DG001) che deve essere risolto prima di procedere alla valutazione preliminare di sicurezza di Fase 1.
-
-## Riepilogo dei gap di dati
-
-I seguenti gap di dati critici sono stati identificati e devono essere affrontati:
-
-| ID Gap | Elemento | Gravità | Impatto | Rimedio |
-|--------|------|----------|--------|-------------|
-| DG001 | Avvertimenti/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Non è possibile entrare nella valutazione preliminare di sicurezza di S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Meccanismo d'azione (MOA) | **Elevata** | Influisce sull'analisi della rilevanza del meccanismo | Interrogare l'API di DrugBank |
-
-## Conclusioni e prossimi passi
-
-**Decisione: In sospeso**
-
-**Razionale:**
-Nessuna indicazione prevista da TxGNN è stata generata per Acetazolamide, e ci sono gap di dati a livello bloccante nelle informazioni di sicurezza. Senza un'indicazione candidata nuova e i dati di sicurezza di base, far avanzare questo farmaco attraverso la pipeline di rifiuto non è giustificato al momento.
-
-**Per procedere, è necessario quanto segue:**
-- Risolvere **DG001** (Bloccante): Ottenere i dati del foglio illustrativo TFDA — scaricare e analizzare il PDF ufficiale del foglio illustrativo per popolare gli avvertimenti e le controindicazioni
-- Risolvere **DG002** (Elevata): Recuperare i dati MOA dettagliati dall'API di DrugBank per abilitare l'analisi basata sul meccanismo
-- Rieseguire il modello di previsione TxGNN con dati di input completi (MOA, indicazione, profilo di sicurezza) per determinare se nuove indicazioni raggiungono la soglia di confidenza
-- Investigare se l'assenza di Acetazolamide dal mercato di Taiwan (Non commercializzato) influisce sulla sua idoneità per la pipeline di rifiuto, o se i dati di registrazione internazionale possono essere utilizzati come sostituto
-- Se le previsioni TxGNN vengono generate dopo la risoluzione dei gap di dati, aggiornare questo rapporto con le evidenze da studi clinici e letteratura
+L'acetazolamide è un inibitore dell'anidrasi carbonica, utilizzato in origine per glaucoma, epilessia da assenza, scompenso cardiaco congestizio e mal di montagna.
+Il modello TxGNN ne prevede una possibile efficacia nell'**ipertermia maligna indotta da esercizio**, con un punteggio molto alto (99,95%).
+Per questa indicazione, però, **non esistono studi clinici né pubblicazioni** tra i dati compilati: il sostegno è solo di tipo predittivo.
 
 ---
 
-*Rapporto generato: 2026-04-03 | Versione del pacchetto di evidenze: v4 | ID candidato: TW-DB00819-multi*
+## Panoramica rapida
 
-*Dichiarazione di non responsabilità: Questo rapporto è solo per riferimento di ricerca e non costituisce consiglio medico. I candidati al rifiuto di farmaci richiedono validazione clinica prima dell'applicazione.*
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Epilessia da assenza, scompenso cardiaco congestizio, glaucoma ad angolo aperto e chiuso, mal di montagna (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipertermia maligna indotta da esercizio |
+| Punteggio di predizione TxGNN | 99,95% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 1 (revocata) |
+| Decisione raccomandata | Hold |
 
+---
+
+## Perché questa predizione è ragionevole?
+
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, l'acetazolamide appartiene alla classe degli inibitori dell'anidrasi carbonica, la cui efficacia è consolidata nelle indicazioni originali (glaucoma, mal di montagna, edema da scompenso cardiaco), e potrebbe, in via meramente ipotetica, essere applicabile alla nuova indicazione.
+
+Un possibile collegamento riguarda la modifica dell'equilibrio acido-base o della gestione degli ioni a livello muscolare tramite l'inibizione dell'anidrasi carbonica. Si tratta tuttavia di un'ipotesi speculativa, non supportata da alcuna evidenza nei dati compilati. Anche la similarità con le indicazioni originali risulta ancora da valutare.
+
+Il punteggio elevato del modello riflette quindi un'associazione nel grafo di conoscenza, non un razionale farmacologico dimostrato.
+
+---
+
+## Evidenze da studi clinici
+
+Attualmente non risulta registrato alcuno studio clinico correlato.
+
+---
+
+## Evidenze dalla letteratura
+
+Attualmente non è disponibile alcuna letteratura correlata a questa indicazione.
+
+*Nota: tra le altre indicazioni previste, la cardiomiopatia ipertrofica (rank 2) e la cardiomiopatia (rank 7) mostrano solo letteratura indiretta (revisioni sullo scompenso cardiaco, casi clinici sull'uso dell'acetazolamide come diuretico aggiuntivo, un caso di edema polmonare non cardiogenico dopo somministrazione endovenosa e uno studio preclinico su cuori isolati di coniglio), senza prove di efficacia specifica. Per l'ostruzione intestinale (rank 8) sono riportati casi di ileo adinamico indotto da acetazolamide, un segnale di sicurezza che sconsiglia questa direzione.*
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 009277017 | DIAMOX 12 cpr 250 mg (TEOFARMA Srl) | Compresse | Non disponibile (autorizzazione revocata) |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni derivate dal grafo di conoscenza** (non da testo di scheda tecnica): insufficienza epatica e malattie epatiche, malattia renale, malattie ematologiche, malattie della colecisti, gotta, diabete mellito di tipo 1 e 2, chetoacidosi diabetica, insufficienza respiratoria, insufficienza surrenalica (incluso morbo di Addison e iperplasia surrenalica congenita), acidosi tubulare renale e piourete.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Tra quelle mostrate, di livello **maggiore** sono quelle con acido acetilsalicilico e cisapride. Di livello **moderato** si segnalano antidiabetici (acarbosio, acetoesamide, alogliptin, canagliflozin, dapagliflozin, clorpropamide, albiglutide, dulaglutide), corticosteroidi (beclometasone, betametasone, desametasone), amfotericina B (varie formulazioni) e lassativi (bisacodile, olio di ricino). Con la doxiciclina l'interazione è di livello minore.
+- Dalla letteratura emergono inoltre segnalazioni di ileo adinamico e di edema polmonare non cardiogenico associati all'acetazolamide.
+
+Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La predizione ha un punteggio molto alto, ma è priva di qualsiasi studio clinico o pubblicazione (livello L5), manca un razionale meccanicistico, e l'unica autorizzazione italiana è stata revocata. Non ci sono basi per procedere.
+
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) dell'acetazolamide e analisi del legame meccanicistico con l'ipertermia maligna da esercizio
+- Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
+- Ricerca di studi preclinici o clinici specifici sulla nuova indicazione
+- Valutazione della compatibilità della via di somministrazione e della disponibilità commerciale in Italia (autorizzazione attualmente revocata)
+- Revisione delle indicazioni alternative con evidenza indiretta (cardiomiopatie), tenendo conto dei segnali di sicurezza osservati
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

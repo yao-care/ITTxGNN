@@ -2,7 +2,7 @@
 layout: default
 title: Finasteride
 parent: Solo previsione del modello (L5)
-nav_order: 106
+nav_order: 198
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,81 +29,98 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Finasteride: Dall'Alopecia Androgenetica all'Ipertricosi Universale Congenita di Tipo Ambras
+# Finasteride: Dall'iperplasia prostatica benigna all'ipertricosi
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Finasteride è un inibitore della 5α-reduttasi di tipo II, approvato a livello mondiale per l'alopecia androgenetica maschile (1 mg) e l'iperplasia prostatica benigna (5 mg), entrambe guidate dall'eccesso di diidrotestosterone (DHT).
-Il modello TxGNN prevede che potrebbe essere efficace per **Ipertricosi Universale Congenita di Tipo Ambras**, un raro disturbo congenito della crescita eccessiva dei capelli generalizzata.
-Tuttavia, **nessuna sperimentazione clinica e nessuna pubblicazione di supporto** sono state identificate per questa indicazione specifica, collocando l'evidenza al livello più basso.
+Finasteride è un inibitore della 5-alfa-reduttasi di tipo II, originariamente utilizzato per il trattamento dell'iperplasia prostatica benigna.
+Il modello TxGNN ne prevede una possibile efficacia per l'**ipertricosi** (e, con punteggio leggermente più alto, per la sindrome di Ambras), ma al momento non risultano **studi clinici** registrati e sono disponibili solo **4 pubblicazioni** di tipo generale, senza evidenza diretta di efficacia.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Nessuna indicazione approvata registrata in Italia (dati di licenza non disponibili) |
-| Indicazione nuova prevista | Ipertricosi Universale Congenita di Tipo Ambras |
-| Punteggio di previsione TxGNN | 99.99% |
-| Livello di evidenza | L5 |
-| Stato di mercato in Italia | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+Nota: la predizione con rango 1 (sindrome di Ambras) è priva di qualsiasi evidenza e di un razionale meccanicistico plausibile. Per questo la tabella riporta la predizione di rango 1 come indicato nel modello di report, mentre l'analisi delle evidenze si concentra sull'ipertricosi (rango 2), l'unica con letteratura associata.
+
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Iperplasia prostatica benigna (dato dal grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
+| Nuova indicazione prevista (rango 1) | Ipertricosi universale congenita di tipo Ambras |
+| Punteggio di predizione TxGNN | 99,99% |
+| Livello di evidenza | L5 (L4 per l'ipertricosi, rango 2) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non erano disponibili nel pacco di evidenze. Sulla base delle conoscenze farmacologiche consolidate, Finasteride inibisce l'enzima 5α-reduttasi di tipo II, bloccando la conversione periferica del testosterone in diidrotestosterone (DHT). La riduzione di DHT a livello del follicolo pilifero è la base del suo uso approvato nei disturbi dei capelli androgeno-dipendenti — in particolare nell'alopecia androgenetica maschile — dove la miniaturizzazione del follicolo è guidata dall'ipersensibilità al DHT.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze generali, finasteride inibisce la 5-alfa-reduttasi di tipo II e riduce i livelli di diidrotestosterone (DHT). Questo meccanismo è alla base della sua efficacia nell'iperplasia prostatica benigna e nell'alopecia androgenetica.
 
-La sindrome di Ambras (ipertricosi universale congenita di tipo Ambras) è una rara condizione congenita causata da riarrangiamento cromosomico a Xq24–q27.1, che porta a crescita eccessiva dei capelli corporei diffusa dalla nascita o dalla prima infanzia. Criticamente, questo disturbo **non è androgeno-dipendente**: la sua patogenesi deriva da un'anomalia genomica strutturale, non da una disregolazione dell'asse androgeni/DHT. Il meccanismo d'azione di Finasteride, quindi, non ha una base biologica diretta per affrontare questa condizione.
+Per la **sindrome di Ambras** (rango 1) il legame meccanicistico è debole: si tratta di una condizione congenita legata a riarrangiamenti cromosomici che alterano la regolazione di TRPS1, non primariamente guidata dagli androgeni. L'alto punteggio (0,99994) deriva solo dal grafo di conoscenza.
 
-Lo score TxGNN estremamente elevato (99.99%) probabilmente riflette uno **spillover del vicinato della rete neurale grafica** dal cluster di nodi 'malattia dei capelli' più ampio piuttosto che un vero segnale biologico. Le previsioni di questo tipo — punteggio di modello elevato, zero evidenza clinica, biologicamente implausibile — sono un limite noto del ripropositioning basato su grafici di conoscenza e dovrebbero essere considerate come rumore generatore di ipotesi piuttosto che come iniziative praticabili in questa fase.
-
----
-
-## Evidenza da studi clinici
-
-Attualmente nessuno studio clinico correlato è registrato.
+Per l'**ipertricosi** (rango 2) il collegamento è anch'esso limitato. L'ipertricosi riguarda aree non androgeno-dipendenti, mentre finasteride agisce su condizioni androgeno-dipendenti come l'alopecia androgenetica e, in parte, l'irsutismo. L'unico punto di contatto è la sovrapposizione con l'irsutismo. Le altre predizioni (malformazioni odontali/parodontali, sindrome di Dandy-Walker, anomalie genetiche isolate del fusto del capello, tricomegalia familiare isolata) non mostrano un meccanismo plausibile e sembrano artefatti del grafo. Per la sindrome di Dandy-Walker si aggiungono possibili preoccupazioni di sicurezza, poiché gli antiandrogeni influenzano lo sviluppo.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze da studi clinici
 
-Attualmente nessuna letteratura correlata è disponibile.
+Al momento non risultano studi clinici correlati registrati.
+
+---
+
+## Evidenze dalla letteratura
+
+Pubblicazioni associate all'ipertricosi (rango 2):
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [12223963](https://pubmed.ncbi.nlm.nih.gov/12223963/) | 2002 | Revisione | Ann Dermatol Venereol | Distingue ipertricosi (aree non androgeno-dipendenti, spesso iatrogena o metabolica) da irsutismo; non richiede monitoraggio ormonale |
+| [10330884](https://pubmed.ncbi.nlm.nih.gov/10330884/) | 1999 | Revisione | Ther Umsch | Panoramica dei trattamenti per alopecia androgenetica e irsutismo |
+| [12942187](https://pubmed.ncbi.nlm.nih.gov/12942187/) | 2003 | Revisione | Hautarzt | Finasteride per la calvizie maschile; laser per ipertricosi e irsutismo |
+| [12444520](https://pubmed.ncbi.nlm.nih.gov/12444520/) | 2002 | Altro (strumento diagnostico) | Hautarzt | Descrizione di TrichoScan per l'analisi digitale dei capelli |
+
+Si tratta di articoli narrativi di contesto: nessuno fornisce evidenza diretta dell'efficacia di finasteride nell'ipertricosi.
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Finasteride non ha autorizzazioni registrate in Italia sulla base dei dati normativi disponibili. Nessun record di licenza è stato recuperato dalla query del database AIFA.
+Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Principali autorizzazioni (compresse rivestite da 5 mg):
 
-> **Nota:** Finasteride (Propecia® 1 mg, Proscar® 5 mg) è noto essere commercializzato in diversi mercati europei. L'assenza di record potrebbe riflettere un divario nel recupero dei dati piuttosto che una vera assenza di autorizzazione. Si consiglia di verificare il registro online AIFA attuale prima di trarre conclusioni normative.
-
----
-
-## Considerazioni sulla sicurezza
-
-Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
-
-> I dati sulla sicurezza (avvertenze principali, controindicazioni e interazioni tra farmaci) non sono stati recuperabili dalle fonti interrogate per questo pacco di evidenze. Il foglio illustrativo del prodotto approvato in Italia dovrebbe essere consultato direttamente. I rischi clinicamente rilevanti noti per finasteride includono disfunzione sessuale (diminuzione della libido, disfunzione erettile, disturbo dell'eiaculazione), sindrome post-finasteride (effetti avversi persistenti dopo l'interruzione) e teratogenicità (Categoria X in gravidanza — rischio di esposizione per le donne in età fertile che maneggiano compresse frantumate).
+| N. autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 028308017 | Proscar, 15 cpr rivestite 5 mg | Organon Italia Srl | Cancellata |
+| 038791024 | Finasteride, 15 cpr rivestite 5 mg | Teva Italia Srl | Cancellata |
+| 038413011 | Finestar, 15 cpr rivestite 5 mg | Eberlife Farmaceutici SpA | Cancellata |
+| 038443014 | Stecur, 15 cpr rivestite 5 mg | Genetic SpA | Cancellata |
+| 039681010 | Terip, 15 cpr rivestite 5 mg | Pharmacare Srl | Cancellata |
 
 ---
 
-## Conclusione e passaggi successivi
+## Considerazioni di sicurezza
 
-**Decisione: In sospeso**
+- **Controindicazioni (dal grafo di conoscenza, non dal foglietto illustrativo)**: malattia epatica, malattia della colecisti.
+- **Interazioni farmacologiche**: sono state identificate 100 possibili interazioni, ma per quelle esaminate il livello di gravità è sconosciuto. Tra i farmaci coinvolti: calcitriolo, doxiciclina, clotrimazolo, dolasetron, dicicloverina, clorexidina, famotidina, acido acetilsalicilico, amoxicillina, bupropione, pantoprazolo, glimepiride, mesalazina, acarbosio, morfina, metformina, omeprazolo, sucralfato, palonosetrone, rosiglitazone.
 
-**Razionale:**
-L'ipertricosi universale congenita di tipo Ambras è un disturbo genetico non androgeno-dipendente; il meccanismo di riduzione del DHT di finasteride non ha una via biologica stabilita o plausibile per affrontare l'eziologia cromosomica sottostante, e zero evidenza clinica o preclinica supporta questa direzione di ripropositioning.
+Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
 
-**Per procedere, è necessario quanto segue:**
-- Evidenza meccanicistica preclinica che dimostri qualsiasi effetto della soppressione del DHT sul fenotipo del riarrangiamento Xq24–q27.1 o sulla crescita eccessiva dei capelli mediata non da androgeni
-- Verifica dello stato normativo italiano (AIFA) per finasteride tramite query diretta del registro
-- Dati sulla sicurezza completi dal foglio illustrativo approvato da AIFA (avvertenze, controindicazioni, teratogenicità)
-- Revisione della previsione di rango 2 — **ipertricosi (malattia)** (L4, Domanda di ricerca) — che, sebbene limitata a revisioni narrative più vecchie, ha una base meccanicistica parziale per sottotipi guidati da androgeni e rappresenta un punto di partenza più scientificamente difendibile per qualsiasi lavoro futuro di generazione di ipotesi
+---
 
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Le predizioni hanno punteggi TxGNN molto alti ma si basano solo sul grafo di conoscenza: nessuno studio clinico, letteratura solo di contesto, meccanismo poco plausibile (ipertricosi non androgeno-dipendente). Inoltre non esistono autorizzazioni italiane valide. Per l'ipertricosi (rango 2) può essere considerata al più una domanda di ricerca (L4).
+
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione da DrugBank
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Evidenza preclinica o clinica diretta sull'efficacia di finasteride nell'ipertricosi, o nella sottopopolazione con componente androgeno-dipendente (irsutismo)
+- Valutazione del livello di gravità delle interazioni farmacologiche
+- Verifica della situazione regolatoria in Italia, dato che tutte le autorizzazioni sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

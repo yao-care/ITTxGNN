@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Etoposide
-parent: Prove moderate (L3-L4)
-nav_order: 97
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 183
+evidence_level: L5
 indication_count: 10
 ---
 
 # Etoposide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,142 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Etoposide: Dal Cancro Polmonare a Piccole Cellule e Tumori delle Cellule Germinali all'Adenocarcinoma Fetale Ben Differenziato del Polmone
+# Etoposide: dal carcinoma polmonare a piccole cellule al sarcoma di Ewing
 
-## Riassunto in una frase
+## Sintesi
 
-L'etoposide è un agente chemioterapico citotossico ben consolidato a livello internazionale per il trattamento del cancro polmonare a piccole cellule, dei tumori delle cellule germinali e dei linfomi, dove agisce inibendo la DNA topoisomerasi II.
-Il modello TxGNN prevede che possa essere efficace per l'**Adenocarcinoma Fetale Ben Differenziato del Polmone (AFBD)**, una rarissima malignità polmonare all'interno della famiglia del blastoma polmonare.
-Questa previsione è attualmente supportata da solo **1 case report indiretto** e **nessuna sperimentazione clinica registrata**, collocando questa indicazione in una fase molto precoce esplorativa.
+L'etoposide è un chemioterapico antineoplastico originariamente impiegato nel carcinoma polmonare a piccole cellule e nei tumori germinali del testicolo (seminoma, tumore del sacco vitellino, teratoma). Il modello TxGNN, tra le 10 indicazioni candidate, ne prevede l'efficacia in particolare nel **sarcoma di Ewing**, con **oltre 30 studi clinici registrati** (di cui diversi di fase 3) e **numerose pubblicazioni**, tra cui più RCT di fase 3. In questo caso l'impiego è già pratica clinica consolidata e non una vera novità di riposizionamento.
+
+> Nota: la predizione rank 1 del modello (adenocarcinoma fetale ben differenziato del polmone) ha una sola evidenza (case report) e decisione "Hold". Questo report si concentra sull'indicazione con le evidenze più solide, il sarcoma di Ewing, e riassume le altre in una tabella.
 
 ---
 
-## Panoramica rapida
+## Quadro di sintesi
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Non registrato in Italia; utilizzato a livello internazionale per carcinoma polmonare a piccole cellule, tumori delle cellule germinali e linfomi |
-| Indicazione predetta | Adenocarcinoma Fetale Ben Differenziato del Polmone |
-| Punteggio di previsione TxGNN | 99.94% |
-| Livello di evidenza | L4 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Rinviare |
+| Indicazione originale | Carcinoma polmonare a piccole cellule; tumori germinali del testicolo (il testo dell'indicazione approvata AIFA non è disponibile nei dati compilati) |
+| Nuova indicazione prevista | Sarcoma di Ewing (la predizione con il punteggio più alto, "adenocarcinoma fetale ben differenziato del polmone", ha evidenza L4 e decisione Hold) |
+| Punteggio di predizione TxGNN | 99,85% (sarcoma di Ewing); 99,94% per la prima predizione in classifica |
+| Livello di evidenza | L1 (sarcoma di Ewing) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché la predizione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nel dataset normativo attuale. Sulla base della letteratura farmacologica pubblicata, l'etoposide è un'epipodofillotossina semisintetica che inibisce la DNA topoisomerasi II — un enzima essenziale per lo svolgimento del DNA a doppio filamento durante la replicazione. Stabilizzando il complesso scissione DNA-topoisomerasi II, l'etoposide causa rotture irreversibili del DNA a doppio filamento, colpendo selettivamente le cellule in rapida proliferazione. È un componente fondamentale dei regimi consolidati che includono EPOCH, ICE, BEP e IE, con efficacia provata in diversi tipi di cancro.
+Il dato dettagliato sul meccanismo d'azione non è disponibile nei dati compilati. In base alle informazioni note, l'etoposide è un inibitore della topoisomerasi II, la cui efficacia nel carcinoma polmonare a piccole cellule e nei tumori germinali è dimostrata. Meccanisticamente può essere applicabile ai tumori a piccole cellule rotonde, a rapida proliferazione e chemiosensibili, come il sarcoma di Ewing.
 
-L'Adenocarcinoma Fetale Ben Differenziato (AFBD) è un sottotipo raro all'interno dello spettro del blastoma polmonare, caratterizzato da strutture ghiandolari che ricordano il polmone embrionale a 10-16 settimane di gestazione e che portano mutazioni CTNNB1 (attivazione della via della β-catenina). Poiché l'attività della topoisomerasi II è upregolata nelle cellule embrionali e altamente proliferanti, il meccanismo d'azione dell'etoposide è teoricamente applicabile. I sottotipi correlati del blastoma polmonare condividono componenti mesenchimali embrionali che storicamente mostrano sensibilità agli agenti genotossici.
-
-Tuttavia, la base meccanicistica rimane teorica per questo sottotipo istologico specifico. L'unica pubblicazione di supporto (PMID 33107372) descrive un classico blastoma polmonare bifasico — un'entità correlata ma distinta — dove l'etoposide non faceva parte del trattamento primario. Non sono disponibili dati clinici diretti riguardanti il trattamento dell'AFBD con etoposide, e nessuna sperimentazione è attualmente registrata. Il punteggio elevato di TxGNN probabilmente riflette la similarità strutturale presente nel grafo delle conoscenze della malattia con altre categorie di tumori embrionali sensibili all'etoposide.
+Il sarcoma di Ewing è noto per l'elevata sensibilità ad agenti genotossici come l'etoposide (Gorthi et al., *Nature* 2018). L'aggiunta di ifosfamide ed etoposide alla chemioterapia standard ha migliorato la sopravvivenza libera da eventi nella malattia non metastatica (RCT di fase 3 INT-0154, PMID 12594313). I regimi con etoposide (per es. VDC/IE) sono standard di cura e compaiono nelle raccomandazioni di consenso. Si tratta quindi di pratica clinica già stabilita più che di riposizionamento in senso stretto.
 
 ---
 
-## Evidenze da Studi Clinici
+## Evidenze da studi clinici (sarcoma di Ewing)
 
-Attualmente non sono registrate sperimentazioni cliniche correlate per l'adenocarcinoma fetale ben differenziato del polmone.
+Selezione dei più rilevanti tra gli studi registrati (massimo 10):
+
+| Numero studio | Fase | Stato | Arruolamento | Risultati chiave |
+|---------|------|------|------|---------|
+| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | Fase 3 | Sconosciuto | N/D | EICESS 92: confronto randomizzato di regimi chemioterapici con etoposide in Ewing, più chirurgia e radioterapia |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Fase 3 | Sconosciuto | 1200 | EURO-E.W.I.N.G.99: chemioterapia con o senza radioterapia/chirurgia e trapianto di cellule staminali |
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Fase 3 | Completato | 587 | Intensificazione della chemioterapia per compressione degli intervalli in Ewing e tumori correlati |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Fase 3 | Completato | 642 | Aggiunta di vincristina-topotecan-ciclofosfamide al regime standard a 5 farmaci (incluso etoposide) nella malattia non metastatica |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Fase 3 | Completato | 278 | Intensificazione della dose nella malattia non metastatica: trattamento standard vs intensivo |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Fase 3 | Attivo, non in arruolamento | 312 | Aggiunta di ganitumab alla chemioterapia multi-agente (con etoposide) nella malattia metastatica |
+| [NCT02727387](https://clinicaltrials.gov/study/NCT02727387) | Fase 2 | Completato | 155 | Alte dosi di chemioterapia, radioterapia e consolidamento nel sarcoma di Ewing metastatico |
+| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | Fase 2 | Completato | N/D | Ciclofosfamide, doxorubicina, vincristina, etoposide e ifosfamide seguiti da resezione e radioterapia in PNET/Ewing |
+| [NCT01864109](https://clinicaltrials.gov/study/NCT01864109) | Fase 2 | Attivo, non in arruolamento | 83 | Irinotecan e temozolomide aggiunti a chemioterapia ad alte dosi in Ewing di nuova diagnosi |
+| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Fase 2 | Completato | 130 | Terapia intensiva con supporto di fattori di crescita in Ewing metastatico alla diagnosi |
 
 ---
 
-## Evidenze dalla Letteratura
+## Evidenze dalla letteratura (sarcoma di Ewing)
 
 | PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|-------------|
-| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Case Report | J Int Med Research | Blastoma polmonare bifasico classico (strettamente correlato all'AFBD); il paziente è stato sottoposto a resezione chirurgica seguita da nedaplatin + paclitaxel; la malattia è ricorsa. L'etoposide non è stato utilizzato, ma lo spettro dei BP, incluso l'AFBD, è stato revisionato. Evidenzia l'assenza di linee guida di trattamento standard per questa famiglia di tumori. |
+|------|-----|------|------|---------|
+| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT fase 3 | N Engl J Med | L'aggiunta di ifosfamide ed etoposide alla chemioterapia standard migliora la sopravvivenza in Ewing/PNET dell'osso di nuova diagnosi |
+| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT fase 3 | Lancet | EE2012: confronto di due regimi chemioterapici standard (europeo e USA) in Ewing di nuova diagnosi |
+| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT fase 3 | J Clin Oncol | Ganitumab con chemioterapia a intervalli compressi nel sarcoma di Ewing metastatico |
+| [23091096](https://pubmed.ncbi.nlm.nih.gov/23091096/) | 2012 | RCT | J Clin Oncol | Chemioterapia a intervalli compressi (alternanza VDC e IE) nel sarcoma di Ewing localizzato |
+| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | Protocollo RCT | Trials | Protocollo EURO EWING 2012 per Ewing di nuova diagnosi |
+| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Linee guida di consenso | Cancer | Raccomandazioni del National Ewing Sarcoma Tumor Board sulla gestione del sarcoma di Ewing |
+| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Revisione | J Clin Oncol | Gestione attuale e approcci futuri nel sarcoma di Ewing |
+| [39713774](https://pubmed.ncbi.nlm.nih.gov/39713774/) | 2024 | Analisi retrospettiva | Sarcoma | Etoposide orale in 33 pazienti adolescenti e adulti con Ewing recidivante o refrattario |
+| [29513652](https://pubmed.ncbi.nlm.nih.gov/29513652/) | 2018 | Studio meccanicistico | Nature | EWS-FLI1 causa R-loop e blocca la riparazione BRCA1, spiegando la sensibilità all'etoposide |
+| [37651654](https://pubmed.ncbi.nlm.nih.gov/37651654/) | 2023 | Follow-up a lungo termine | J Clin Oncol | Esiti a lungo termine in Ewing localizzato trattato con chemioterapia a intervalli compressi (AEWS0031) |
+
+---
+
+## Altre indicazioni previste dal modello
+
+| Indicazione | Punteggio | Evidenza | Decisione | Nota |
+|------|------|------|------|------|
+| Adenocarcinoma fetale ben differenziato del polmone | 99,94% | L4 | Hold | Un solo case report/revisione; nessuno studio registrato |
+| Linfoma polmonare primitivo | 99,94% | L4 | Hold | Letteratura prevalentemente su altri sottotipi di linfoma; nessuno studio specifico |
+| Blastoma polmonare | 99,94% | L4 | Hold | Solo case report e piccole serie; malattia rara |
+| Rabdomiosarcoma (generale) | 99,79% | L1 | Proceed with Guardrails | Ifosfamide/etoposide superiore a vincristina/melfalan nella malattia metastatica (PMID 11846301); studio di fase 3 NCT00003052; il contributo indipendente dell'etoposide non è isolato e il backbone standard resta VAC |
+| Rabdomiosarcoma embrionale botrioide della vagina | 99,80% | L4 | Hold | Solo un case report (cervice uterina) |
+| Rabdomiosarcoma embrionale parameningeo | 99,76% | L4 | Hold | Letteratura generale, indiretta |
+| Rabdomiosarcoma embrionale prostatico | 99,74% | L4 | Hold | Una sola revisione del 1987 |
+| Rabdomiosarcoma embrionale dei dotti biliari extraepatici (due voci) | 99,76% / 99,75% | L5 | Hold | Nessuno studio né letteratura; segnale solo predittivo |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-L'etoposide attualmente non dispone di **nessuna autorizzazione al commercio in Italia**. Nessun record di licenza è archiviato presso l'autorità normativa.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 024639039 | VEPESID 20 capsule molli da 50 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione revocata |
+| 024639041 | VEPESID 10 capsule molli da 100 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione revocata |
+
+Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati.
 
 ---
 
 ## Citotossicità
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Classificazione citotossicità | Citotossico convenzionale — classe Epipodofillotossina (inibitore della Topoisomerasi II) |
-| Rischio di mielosoppressione | **Elevato** — leucopenia e trombocitopenia sono le tossicità dose-limitanti; neutropenia nadir tipicamente si verifica 7-14 giorni dopo la somministrazione |
-| Classificazione emetogenicità | Bassa-moderata (endovenosa); bassa (orale) |
-| Elementi di monitoraggio | Emocromo con differenziale (ad ogni ciclo), conta piastrinica, enzimi epatici (ALT/AST), creatinina sierica, pressione arteriosa durante l'infusione endovenosa |
-| Protezione nella manipolazione | Deve conformarsi alle normative sulla manipolazione e lo smaltimento dei farmaci citotossici; dispositivi di trasferimento farmaco a sistema chiuso consigliati |
+| Classificazione di citotossicità | Citotossico convenzionale (inibitore della topoisomerasi II, epipodofillotossina) |
+| Rischio di mielosoppressione | Alto (i dati sulle controindicazioni del grafo di conoscenza segnalano neutropenia, trombocitopenia, leucopenia, agranulocitosi e anemia) |
+| Classificazione emetogenica | Bassa-moderata (secondo la classe del farmaco; consultare il foglietto illustrativo) |
+| Parametri da monitorare | Emocromo con formula, funzionalità epatica e renale, equilibrio acido-base |
+| Protezione nella manipolazione | Necessarie le misure previste per la manipolazione dei farmaci citotossici |
 
 ---
 
 ## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+**Controindicazioni/condizioni a rischio (dal grafo di conoscenza TxGNN, non dal foglietto illustrativo):** trombocitopenia, neutropenia, agranulocitosi, anemia (inclusa macrocitica), leucopenia, malattia polmonare interstiziale, fibrosi polmonare (anche post-infiammatoria), compromissione della funzione renale, acidosi (inclusa metabolica), danno epatico indotto da farmaci.
+
+**Interazioni farmacologiche** (100 interazioni totali rilevate; principali di livello moderato):
+- Aprepitant, rolapitant (antiemetici)
+- Metronidazolo, tinidazolo
+- Eliglustat
+- Rosuvastatina, simvastatina
+
+Sono presenti anche interazioni minori (levofloxacina) e di livello non noto (per es. calcitriolo, vitamina A, doxiciclina, cimetidina, amfotericina B, morfina).
+
+Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo AIFA, non disponibile nei dati compilati.
 
 ---
 
-## Conclusioni e Prossimi Passi
+## Conclusione e prossimi passi
 
-**Decisione: Rinviare**
+**Decisione: Proceed with Guardrails**
 
-**Razionale:**
-Nonostante un punteggio di previsione TxGNN di 99.94%, la base di evidenze per l'etoposide nell'adenocarcinoma fetale ben differenziato del polmone è limitata a un singolo case report indiretto su un'entità tumorale correlata, senza sperimentazioni cliniche registrate — insufficiente per supportare lo sviluppo clinico o l'investimento nel riproporzionamento del farmaco in questo momento.
+**Motivazione:**
+- Per il sarcoma di Ewing esistono più RCT di fase 3 (evidenza L1) e raccomandazioni di consenso che includono regimi con etoposide: l'uso è già standard di cura.
+- Le altre indicazioni previste sono per lo più supportate solo da case report o da estrapolazione (Hold); il rabdomiosarcoma generale è L1 ma con contributo dell'etoposide non isolato.
 
-**Per procedere, è necessario quanto segue:**
-- Studi preclinici (modelli in vitro e in vivo) che valutano specificamente l'attività dell'etoposide in linee cellulari di AFBD o modelli di adenocarcinoma polmonare con mutazione CTNNB1
-- Profilo completo del meccanismo d'azione (recupero API di DrugBank; attualmente segnalato come Data Gap DG002)
-- Dati del foglio illustrativo per la valutazione del rischio specifico dell'Italia (attualmente segnalato come Data Gap DG001)
-- Revisione sistematica delle serie di casi di tutti i casi di blastoma polmonare pubblicati per identificare eventuali regimi contenenti etoposide che hanno ottenuto risposte obiettive specificamente nel sottotipo AFBD
-- Profilazione genetica/molecolare (stato di mutazione CTNNB1, espressione della topoisomerasi II nei tumori AFBD) per convalidare l'ipotesi meccanicistica
-- Data l'estrema rarità dell'AFBD, considerazione di un registro internazionale o di un quadro di uso compassionevole piuttosto che di un disegno di sperimentazione autonomo
-
+**Per procedere sono necessari:**
+- Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank
+- Chiarimento dello stato regolatorio in Italia (autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)
+- Piano di monitoraggio: mielosoppressione, rischio di leucemia secondaria, dosaggio e schedula adeguati all'età
+- Utilizzo in protocolli specializzati di oncologia pediatrica
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

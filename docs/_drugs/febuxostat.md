@@ -2,15 +2,15 @@
 layout: default
 title: Febuxostat
 parent: Prove moderate (L3-L4)
-nav_order: 104
-evidence_level: L3
+nav_order: 191
+evidence_level: L4
 indication_count: 3
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **3** 
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,96 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-# Febuxostat: dall'Iperuricemia (Gotta) all'Ipouricemia Renale
+# Febuxostat: Dall'iperuricemia all'ipouricemia renale
 
-## Sintesi in Una Sola Frase
+## Riepilogo in una frase
 
-Febuxostat è un inibitore della xantina ossidasi affermato e approvato a livello mondiale per la gestione dell'iperuricemia nei pazienti adulti con gotta.
-Il modello TxGNN prevede che possa essere efficace per l'**Ipouricemia Renale (ipouricemia, renale)**,
-con **1 studio clinico** e **2 pubblicazioni** a supporto di questa direzione.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Iperuricemia nei pazienti adulti con gotta |
-| Indicazione Nuova Prevista | Ipouricemia Renale (ipouricemia, renale) |
-| Punteggio di Predizione TxGNN | 99.99% |
-| Livello di Evidenza | L3 |
-| Stato di Commercializzazione Taiwan | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Mantenere |
+Febuxostat è un inibitore selettivo non purinico della xantina ossidasi, originariamente utilizzato per l'iperuricemia.
+Il modello TxGNN prevede una possibile efficacia per **l'ipouricemia renale**, ma il supporto è molto debole: **1 studio clinico** di rilevanza bassa e **2 pubblicazioni** di tipo revisione/descrittivo, nessuna delle quali dimostra un beneficio terapeutico.
 
 ---
 
-## Perché Questa Predizione è Ragionevole?
+## Panoramica rapida
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo dossier di evidenza. In base alla farmacologia consolidata, febuxostat è un inibitore selettivo non-purinico della xantina ossidasi (XO) — l'enzima che converte ipoxantina → xantina → acido urico. Bloccando XO, febuxostat riduce la biosintesi dell'acido urico, il che costituisce la base della sua efficacia nella gotta. Questa classe meccanicistica è distinta dall'allopurinolo (un analogo della purina) perché febuxostat si lega a un sito diverso su XO con maggiore selettività.
-
-L'ipouricemia renale (RHUC) è causata da mutazioni a perdita di funzione nei trasportatori di acido urico (principalmente URAT1/SLC22A12), con conseguente perdita renale eccessiva di acido urico e livelli sierici di urato anormalmente bassi. Nonostante i bassi livelli di acido urico sierico, i pazienti con RHUC affrontano una complicazione seria: insufficienza renale acuta indotta dall'esercizio (EIAKI). Il meccanismo proposto è che durante l'esercizio anaerobico intenso, XO produce un'esplosione di specie reattive dell'ossigeno (ROS) e xantina nei tubuli renali, causando danni tubulari ossidativi acuti — indipendenti dai livelli sierici di acido urico.
-
-È proprio qui che l'inibizione di XO da parte di febuxostat diventa rilevante in un contesto nuovo: piuttosto che abbassare l'acido urico sierico (già basso in RHUC), febuxostat potrebbe prevenire l'EIAKI sopprimendo l'esplosione di ROS tubulari renali innescata dall'esercizio. PMID 36754409 descrive precisamente questo caso — un atleta di 16 anni con RHUC familiare e EIAKI ricorrente in cui febuxostat è stato utilizzato come profilassi dopo il fallimento dell'idratazione standard. Questo pivot meccanicistico (riduzione sistemica dell'urato → protezione ossidativa tubulare renale) fornisce una base biologica plausibile per la predizione di TxGNN.
-
----
-
-## Evidenza da Studi Clinici
-
-| Numero dello Studio | Fase | Stato | Arruolamento | Risultati Principali |
-|-------------|-------|--------|------------|--------------|
-| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Fase 4 | Sconosciuto | 100 | Studio controllato prospettico che esamina gli effetti del controllo dell'acido urico sulla ricorrenza dei calcoli renali e sulla funzione renale nei pazienti con iperuricemia e urolitiasi (Shanghai Xu-hui Central Hospital, 2020–2022) |
-
-> **Nota:** Questo studio si concentra sull'iperuricemia con malattia calcolosa, non specificamente sull'ipouricemia renale. La sua rilevanza per RHUC è indiretta — fornisce evidenza degli effetti renali di febuxostat ma non prende di mira la popolazione RHUC.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Iperuricemia (da grafo di conoscenza; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
+| Nuova indicazione prevista | Ipouricemia renale |
+| Punteggio di predizione TxGNN | 99,99% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza dalla Letteratura
+## Perché questa predizione è ragionevole?
 
-| PMID | Anno | Tipo | Rivista | Risultati Principali |
-|------|------|------|---------|--------------|
-| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Case Report | Internal Medicine (Tokyo) | Febuxostat utilizzato come profilassi per EIAKI ricorrente in un giocatore di calcio di 16 anni con RHUC familiare (mutazione eterozigote composta di URAT1); l'idratazione standard aveva fallito — supporta l'inibizione di XO come meccanismo preventivo in EIAKI associato a RHUC |
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Revisione | Clinical Rheumatology | Revisione narrativa dell'ipouricemia per reumatologi esperti; copre l'eziologia (renale vs. non-renale), le presentazioni cliniche e la gestione; stabilisce il contesto della malattia e il quadro clinico per RHUC |
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, febuxostat inibisce la xantina ossidasi e riduce la produzione di acido urico; la sua efficacia nell'iperuricemia è consolidata.
 
----
+Tuttavia, il legame meccanicistico con l'ipouricemia renale è debole. Questa condizione è caratterizzata da livelli sierici di urato già bassi, dovuti a un difetto del riassorbimento renale (per esempio perdita di funzione di URAT1/SLC22A12 o GLUT9). Un'ulteriore riduzione dell'urato non ha un razionale terapeutico chiaro e potrebbe essere dannosa. Il punteggio elevato di TxGNN riflette probabilmente la vicinanza nella rete (nodi comuni del metabolismo dell'urato) più che una vera relazione terapeutica.
 
-## Informazioni sul Mercato Taiwan
-
-Febuxostat attualmente non ha **nessuna autorizzazione di commercializzazione** a Taiwan (0 licenze registrate). Non ci sono prodotti approvati, forme farmaceutiche o indicazioni locali da visualizzare.
-
-> Febuxostat è approvato in altri mercati sotto nomi commerciali come **Uloric** (USA) e **Adenuric** (UE/Giappone) per l'iperuricemia correlata alla gotta, ma non ha ricevuto approvazione TFDA fino ad oggi.
+L'unico spunto in letteratura (PMID 36754409) è un caso riportato in cui un inibitore non purinico della xantina ossidoreduttasi è stato considerato per prevenire il danno renale acuto da sforzo in un paziente con ipouricemia renale. È un concetto speculativo, indiretto e preventivo, non terapeutico.
 
 ---
 
-## Considerazioni di Sicurezza
+## Evidenze da studi clinici
 
-I dati di sicurezza dal bugiardino Taiwan e dal database delle interazioni farmacologiche non erano recuperabili per questo dossier di evidenza. Si prega di fare riferimento al bugiardino e alle informazioni prescrittive attuali per avvertenze, controindicazioni e interazioni farmacologiche.
-
-> **Nota per il clinico:** Nei mercati internazionali, febuxostat porta un avvertimento normativo riguardante l'aumento del rischio di mortalità cardiovascolare rispetto all'allopurinolo (basato sullo studio CARES). Questo dovrebbe essere considerato quando si valuta l'idoneità del paziente, in attesa del recupero dei dati di sicurezza locali.
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Fase 4 | Sconosciuto | 100 | Effetto del controllo dell'acido urico sulla recidiva dei calcoli e sulla funzione renale in pazienti con calcolosi e iperuricemia. Rilevanza bassa (grado C): probabilmente uno studio su iperuricemia/urologia, non collegato all'ipouricemia renale |
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenze dalla letteratura
 
-**Decisione: Mantenere**
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Revisione | Clinical Rheumatology | Aggiornamento sull'ipouricemia (urato sierico < 2 mg/dL) per il reumatologo: cause e inquadramento clinico |
+| [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Revisione/caso clinico | Internal Medicine | Calciatore sedicenne con ipouricemia renale familiare (mutazioni di URAT1) e danno renale acuto da sforzo ricorrente; ipotesi d'uso di un inibitore non purinico della xantina ossidoreduttasi a scopo preventivo |
 
-**Razionale:**
-Il collegamento meccanicistico tra l'inibizione di XO e la prevenzione di EIAKI nei pazienti con RHUC è biologicamente plausibile e supportato da un case report pubblicato, ma la base di evidenza complessiva rimane limitata a un singolo caso e una revisione narrativa — insufficiente per l'implementazione clinica senza ulteriori dati prospettici.
+---
 
-**Per procedere, è necessario il seguente:**
+## Informazioni sul mercato italiano
 
-- **Documentazione MOA**: Interrogare l'API di DrugBank (DB04854) per popolare formalmente i dati sul meccanismo d'azione
-- **Dati di sicurezza Taiwan**: Recuperare il bugiardino TFDA (avvertenze, controindicazioni, profilo DDI) — attualmente contrassegnato come gap bloccante
-- **Evidenza clinica prospettica**: Studio RCT pilota o studio di coorte prospettico che valuta febuxostat per la prevenzione di EIAKI specificamente nei pazienti con RHUC
-- **Valutazione del rischio cardiovascolare**: Rivedere i dati dello studio CARES e confermare che il profilo di rischio cardiovascolare è accettabile per la popolazione RHUC (tipicamente atleti giovani)
-- **Ottimizzazione del dosaggio**: Stabilire il dosaggio appropriato di febuxostat per la profilassi di EIAKI, che potrebbe differire dal dosaggio standard per la gotta
+Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
 
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 047082021 | Febuxostat 80 mg, 28 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
+| 046043168 | Febuxostat 120 mg, 28 cpr rivestite (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile |
+| 045367075 | Alphabux 120 mg, 28 cpr rivestite (So.Se.Pharm) | Compresse rivestite | Non disponibile |
+| 047770021 | Febuxostat 80 mg, 28 cpr rivestite (Krka) | Compresse rivestite | Non disponibile |
+| 047825183 | Dymauric 120 mg, 28 cpr rivestite (Dymalife Pharmaceutical) | Compresse rivestite | Non disponibile |
+
+---
+
+## Considerazioni di sicurezza
+
+- **Controindicazioni (da relazioni del grafo di conoscenza, non dal foglietto illustrativo)**: ictus, disturbi cerebrovascolari, infarto cerebrale, infarto miocardico, trombosi coronarica ed emoglobinopatie.
+- **Interazioni farmacologiche**: sono state identificate 22 interazioni; tra quelle di gravità **maggiore** figurano mercaptopurina, azatioprina, leflunomide e teriflunomide. Tra quelle di gravità moderata: teofillina, aminofillina, diffillina, ossitrifillina, metotrexato, tioguanina, epirubicina, trabectedina, naltrexone, asparaginasi, pegaspargasi, brentuximab vedotin, clofarabina e vari interferoni beta.
+
+Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato è già basso, e l'unica evidenza è uno studio non pertinente e due lavori indiretti. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni del foglietto illustrativo AIFA
+- Evidenze cliniche dirette nell'ipouricemia renale (per esempio studi di prevenzione del danno renale acuto da sforzo)
+- Valutazione del rischio di ulteriore riduzione dell'urato e del profilo di sicurezza cardiovascolare
+
+---
+
+### Note su altre indicazioni previste (non principali)
+
+Il modello ha previsto anche il **deficit parziale di HPRT** (punteggio 99,98%) e la **sindrome di Lesch-Nyhan** (99,68%). In entrambi i casi vi è un razionale meccanicistico plausibile per il controllo dell'iperuricemia, ma l'evidenza si limita a casi clinici e serie di casi (livello L4), senza studi clinici. Restano questioni aperte come il rischio di formazione di calcoli di xantina, i dati pediatrici limitati e il fatto che il farmaco non agisce sulle manifestazioni neurologiche. Queste indicazioni sono valutate come "domanda di ricerca" e meritano un'analisi separata.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

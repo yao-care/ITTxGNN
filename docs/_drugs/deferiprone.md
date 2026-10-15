@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Deferiprone
-parent: Solo previsione del modello (L5)
-nav_order: 67
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 137
+evidence_level: L4
 indication_count: 9
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,96 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Deferiprone: farmaco per il sovraccarico di ferro — Valutazione del riposizionamento (dati insufficienti)
+# Deferiprone: Dalla sovraccarico di ferro nella talassemia alla porfiria epatica
 
-## Sintesi in una frase
+## Riepilogo in una frase
 
-Deferiprone (DB08826) è un chelante del ferro noto utilizzato storicamente per trattare il sovraccarico di ferro trasfusionale in pazienti con sindromi talassemiche. Tuttavia, l'attuale Pacchetto di evidenze **non contiene alcuna nuova indicazione predetta da TxGNN** e **non ha autorizzazioni di mercato a Taiwan**, rendendo una valutazione standard del riposizionamento impossibile in questa fase. Numerosi gap critici dei dati — inclusa la documentazione mancante del MOA, gli avvertimenti del foglio illustrativo e le controindicazioni — devono essere risolti prima che qualsiasi percorso di riposizionamento possa essere valutato.
+Il deferiprone è un chelante orale del ferro, originariamente usato per il sovraccarico di ferro (emosiderosi) e per le forme di beta-talassemia.
+Il modello TxGNN prevede che possa essere efficace per la **porfiria epatica**.
+Al momento non risultano **sperimentazioni cliniche** registrate; il supporto è costituito da **2 pubblicazioni** di tipo preclinico o basato su casi.
 
 ---
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originaria | Sovraccarico di ferro (talassemia; non formalmente acquisita in questo Pacchetto di evidenze) |
-| Nuova indicazione predetta | Nessuna — le previsioni TxGNN non sono disponibili in questo Pacchetto di evidenze |
-| Punteggio di previsione TxGNN | N/A |
-| Livello di evidenza | L5 (previsione del modello non disponibile; nessuno studio di supporto recuperabile) |
-| Stato di mercato a Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **Mantenere in sospeso** |
+|------|------|
+| Indicazione originale | Emosiderosi e beta-talassemia (il testo dell'indicazione approvata AIFA non è disponibile; indicazioni ricavate dal grafo di conoscenza TxGNN) |
+| Nuova indicazione prevista | Porfiria epatica |
+| Punteggio di predizione TxGNN | 99,20% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché non è disponibile alcuna previsione
+## Perché questa predizione è ragionevole?
 
-Il Pacchetto di evidenze per Deferiprone è stato costruito solo da dati DrugBank (`inputs_received: ["drugbank"]`). Due gap critici o ad alta gravità dei dati bloccano direttamente la previsione e l'analisi:
+I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. In base alle informazioni note, il deferiprone è un chelante orale del ferro, la cui efficacia nel sovraccarico di ferro è documentata, e dal punto di vista meccanicistico potrebbe essere applicabile alla porfiria epatica.
 
-1. **Avvertimenti e controindicazioni del foglio illustrativo a Taiwan mancanti (DG001 — Bloccante):** Senza questo documento, la fase di pre-screening della sicurezza (S1) non può iniziare. Il percorso di rimedio è scaricare il relativo PDF del foglio illustrativo dal sito ufficiale della TFDA e analizzarlo.
+Nelle porfirie, il ferro in eccesso o disponibile peggiora l'accumulo di porfirine; ad esempio, nella porfiria cutanea tarda il ferro inibisce l'uroporfirinogeno decarbossilasi. Ridurre il ferro disponibile tramite chelazione potrebbe quindi attenuare l'attività di malattia legata al ferro.
 
-2. **Dati del meccanismo d'azione mancanti (DG002 — Alto):** Senza un MOA confermato, la plausibilità meccanicistica che collega la farmacologia di Deferiprone a qualsiasi nuova indicazione target non può essere valutata. Una query API a DrugBank dovrebbe recuperare questo.
-
-Fino a quando entrambi i gap non saranno risolti, il punteggio TxGNN per questo candidato non può essere considerato affidabile o interpretato.
+Questo legame è sostenuto da un modello murino di uroporfiria e da uno studio sulla porfiria eritropoietica congenita, ma **non esistono sperimentazioni cliniche** nella porfiria epatica. La predizione resta quindi una domanda di ricerca.
 
 ---
 
-## Informazioni sul mercato a Taiwan
+## Evidenze da sperimentazioni cliniche
 
-Nessuna autorizzazione di prodotto per Deferiprone è stata trovata nel database di Taiwan (TFDA) al cutoff dei dati (2026-04-20). Il farmaco è attualmente **non commercializzato** a Taiwan.
-
-> Se i dati di autorizzazione di commercializzazione esistono in altre giurisdizioni (ad es. approvazione EMA/FDA per Ferriprox), devono essere recuperati separatamente e incorporati in un Pacchetto di evidenze revisionato.
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ---
 
-## Considerazioni sulla sicurezza
+## Evidenze dalla letteratura
 
-I dati di sicurezza non potevano essere recuperati per questa valutazione. Si prega di fare riferimento al foglio illustrativo ufficiale (ottenibile da TFDA o EMA) per le avvertenze complete, le controindicazioni e le informazioni sulle interazioni farmacologiche prima di procedere.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Preclinico / basato su casi | Blood | La chelazione del ferro ha migliorato l'anemia emolitica e la fotosensibilità cutanea nella porfiria eritropoietica congenita |
+| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Studio preclinico su animali | Hepatology | In un modello murino di porfiria cutanea tarda (topi Hfe-/-), il deferiprone è stato confrontato con diete povere di ferro nel ridurre l'accumulo epatico di uroporfirina |
 
 ---
 
-## Conclusione e passaggi successivi
+## Informazioni sul mercato italiano
 
-**Decisione: Mantenere in sospeso**
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 034525028 | FERRIPROX soluzione orale 250 ml 100 mg/ml (Chiesi Farmaceutici) | Soluzione orale | Non disponibile (cancellata) |
+| 034525042 | FERRIPROX 50 compresse rivestite 1.000 mg (Chiesi Farmaceutici) | Compresse rivestite | Non disponibile (cancellata) |
+| 034525016 | FERRIPROX 100 compresse rivestite 500 mg (Chiesi Farmaceutici) | Compresse rivestite | Non disponibile (cancellata) |
+| 045565025 | DEFERIPRONE 50 compresse rivestite 1.000 mg (DOC Generici) | Compresse rivestite | Non disponibile (cancellata) |
+| 047186010 | DEFERIPRONE 100 compresse rivestite 500 mg (Lipomed GmbH) | Compresse rivestite | Non disponibile (cancellata) |
 
-**Razionale:**
-Il Pacchetto di evidenze è incompleto in due dimensioni bloccanti — nessuna previsione TxGNN è stata generata e la documentazione di sicurezza critica (foglio illustrativo) è assente — rendendo impossibile valutare la fattibilità del riposizionamento o la sicurezza del paziente in questa fase.
+---
 
-**Per procedere, è necessario quanto segue:**
+## Considerazioni di sicurezza
 
-- **[DG001 — Bloccante]** Scarica e analizza il foglio illustrativo di Deferiprone dal sito web della TFDA per estrarre avvertimenti e controindicazioni approvati; questo sblocca la fase di pre-screening della sicurezza S1
-- **[DG002 — Alto]** Interroga l'API DrugBank per il meccanismo d'azione confermato di Deferiprone (percorso di chelazione del ferro, proteine target) per consentire l'analisi della plausibilità meccanicistica
-- **Esegui nuovamente la pipeline TxGNN** dopo che i gap dei dati sono stati risolti in modo che venga generato un elenco classificato delle nuove indicazioni predette
-- **Espandi i dati normativi di input** per includere i record di autorizzazione EMA/FDA (Deferiprone/Ferriprox detiene approvazioni al di fuori di Taiwan che possono informare il contesto di riposizionamento)
-- Una volta disponibili le previsioni, **rigenerare questo report** utilizzando il Pacchetto di evidenze completo (v5+)
+**Interazioni farmacologiche**: sono state identificate 100 interazioni, tutte di livello moderato nei dati mostrati. Le principali riguardano cationi polivalenti e antiacidi, che possono legare il farmaco o interferire con la chelazione:
 
+- Sali di calcio (fosfato, acetato, carbonato, citrato, gluconato, lattato, glubionato)
+- Sali e composti di magnesio (ossido, carbonato, cloruro, citrato, gluconato, idrossido, solfato), magaldrato
+- Idrossido di alluminio, caolino, attapulgite
+- Ferro
+- Sucralfato
+
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La predizione per la porfiria epatica si basa solo su evidenze precliniche e su un singolo studio in una forma diversa (porfiria eritropoietica congenita), senza alcuna sperimentazione clinica. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza dal foglio illustrativo.
+
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per la valutazione di sicurezza
+- Dati dettagliati sul meccanismo d'azione (MOA)
+- Studi clinici esplorativi o serie di casi nella porfiria epatica, in particolare nella porfiria cutanea tarda
+- Chiarimento dello stato regolatorio in Italia e della disponibilità del prodotto
+- Piano di gestione delle interazioni con antiacidi e integratori minerali
+
+**Altre predizioni (nota):** la beta-talassemia con altre manifestazioni (L4) è sostanzialmente un'estensione dell'indicazione esistente più che un vero riposizionamento. Il deficit di piruvato chinasi (L5) ha una plausibilità legata al sovraccarico secondario di ferro, ma è priva di dati. Le restanti predizioni (sclerosi epatoportale, sindrome epatopolmonare, trombosi portale primitiva, ipertensione portale non cirrotica familiare, cirrosi associata a rame, piropoichilocitosi ereditaria) non hanno evidenze e restano in Hold.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -2,7 +2,7 @@
 layout: default
 title: Efmoroctocog Alfa
 parent: Solo previsione del modello (L5)
-nav_order: 86
+nav_order: 165
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,104 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# EFMOROCTOCOG ALFA: Pacchetto di Prove Insufficiente per la Valutazione del Riutilizzo
+# Efmoroctocog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
 
-## Riassunto in una Frase
+## Sintesi
 
-EFMOROCTOCOG ALFA (DrugBank: DB11607) è identificato nel database DrugBank, ma questo Pacchetto di Prove non contiene registri di indicazione originaria, nessuna nuova indicazione predetta da TxGNN, e nessuna autorizzazione di commercializzazione in Italia.
-Una valutazione completa del riutilizzo del farmaco **non può essere eseguita** in questa fase — il rapporto sottostante documenta lo stato attuale dei dati e i passaggi di correzione consigliati.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Non disponibile in questo Pacchetto di Prove |
-| Nuova Indicazione Predetta | Nessuna predizione generata |
-| Punteggio di Predizione TxGNN | N/A |
-| Livello di Evidenza | N/A — nessuna predizione da valutare |
-| Stato del Mercato in Italia | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Sospensione** |
+Efmoroctocog alfa è un fattore VIII della coagulazione ricombinante fuso al frammento Fc, utilizzato in origine per il trattamento dell'emofilia, inclusa la forma sintomatica nelle portatrici di sesso femminile.
+Il modello TxGNN prevede che possa essere efficace per la **pseudo-malattia di von Willebrand**, con un punteggio molto alto, ma **senza alcuno studio clinico né pubblicazione** a supporto.
+Il punteggio elevato riflette probabilmente la vicinanza nel grafo di conoscenza ai disturbi emorragici, più che un reale legame terapeutico.
 
 ---
 
-## Perché questa Predizione è Ragionevole?
+## Quadro generale
 
-Nessun dato sul meccanismo di azione è disponibile in questo Pacchetto di Prove. Il campo `original_moa` è assente, e `original_indications` è un elenco vuoto, quindi non è possibile costruire una razionale meccanicistica che colleghi EFMOROCTOCOG ALFA a nessuna nuova indicazione candidata.
-
-Inoltre, la pipeline di predizione TxGNN ha restituito zero indicazioni candidate per questo farmaco. Senza almeno una predizione con punteggio, l'analisi a valle — abbinamento con i trial clinici, recupero della letteratura, classificazione delle prove — non può procedere.
-
-Finché i due spazi di dati bloccanti (foglio illustrativo e meccanismo di azione) non saranno risolti e le predizioni TxGNN non saranno generate, qualsiasi commento meccanicistico sarebbe speculativo e quindi è omesso secondo gli standard di rendicontazione.
-
----
-
-## Evidenza dei Trial Clinici
-
-Attualmente non ci sono trial clinici correlati registrati per nessuna indicazione predetta.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emofilia; forma sintomatica di emofilia nelle portatrici di sesso femminile (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Pseudo-malattia di von Willebrand (pseudo-von Willebrand) |
+| Punteggio di predizione TxGNN | 99,997% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza della Letteratura
+## Perché questa predizione può essere ragionevole (o no)?
 
-Attualmente non è disponibile letteratura correlata per nessuna indicazione predetta.
+Efmoroctocog alfa è un fattore VIII ricombinante fuso a Fc (rFVIII-Fc) che sostituisce il FVIII carente. I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo rapporto.
+
+La pseudo-malattia di von Willebrand (forma di tipo piastrinico) è causata da una mutazione con guadagno di funzione di GP1BA sulle piastrine, che aumenta il legame con il fattore di von Willebrand (VWF) e ne determina la clearance dei multimeri ad alto peso molecolare. Il difetto primario è quindi **piastrinico**, non una carenza di FVIII. La sostituzione del FVIII non ha una chiara base meccanicistica.
+
+Di conseguenza, il punteggio elevato è verosimilmente un artefatto di prossimità nel grafo di conoscenza (fenotipo emorragico condiviso) e non indica un reale beneficio terapeutico.
+
+### Altre indicazioni previste
+
+Anche le altre nove indicazioni previste hanno evidenza di livello L4-L5 e nessuno studio o pubblicazione.
+
+| Rango | Malattia prevista | Punteggio | Valutazione meccanicistica |
+|---|---|---|---|
+| 2 | Disturbo da difetto di rilascio piastrinico | 99,997% | Difetto piastrinico non corretto dal FVIII |
+| 3 | Trombastenia di Glanzmann | 99,995% | Difetto di aggregazione (αIIbβ3); base razionale debole |
+| 4 | Sindrome di Scott | 99,969% | Difetto di superficie procoagulante piastrinica; legame improbabile |
+| 5 | Carenza acquisita di fattori della coagulazione | 99,952% | La più plausibile, ma limitata da inibitori e carenze multiple |
+| 6 | Diatesi emorragica da difetto del recettore del collagene | 99,921% | Probabile artefatto del grafo |
+| 7 | Disordine emorragico da trombocitopenia costituzionale | 99,917% | Il problema è il numero/funzione piastrinica |
+| 8 | Trombocitopenia alloimmune fetale e neonatale | 99,845% | Nessun ruolo meccanicistico del FVIII |
+| 9 | Emofilia A con anomalia vascolare | 99,779% | Sottotipo dell'indicazione già approvata; scarsa novità |
+| 10 | Porpora trombotica trombocitopenica | 99,724% | Possibile rischio: il FVIII è procoagulante |
 
 ---
 
-## Informazioni sul Mercato in Italia
+## Evidenza clinica
 
-Nessuna autorizzazione di commercializzazione è registrata per EFMOROCTOCOG ALFA in Italia.
-
----
-
-## Considerazioni sulla Sicurezza
-
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+Attualmente non risulta alcuno studio clinico correlato registrato.
 
 ---
 
-## Conclusione e Passaggi Successivi
+## Evidenza dalla letteratura
 
-**Decisione: Sospensione**
+Attualmente non sono disponibili pubblicazioni correlate.
 
-**Razionale:**
-Questo Pacchetto di Prove non contiene indicazioni predette da TxGNN e nessun registro di indicazione originaria, rendendo impossibile condurre una valutazione significativa del riutilizzo. Entrambi gli spazi di dati identificati hanno valutazioni di gravità **Blocking / High** e devono essere risolti prima che il candidato possa passare allo screening di sicurezza S1.
+---
 
-**Per procedere, è necessario quanto segue:**
+## Informazioni sul mercato italiano
 
-- **\[DG001 — Blocking\]** Scaricare e analizzare il PDF del foglio illustrativo TFDA per estrarre avvertenze chiave e controindicazioni; questo è un prerequisito per lo screening di sicurezza S1
-- **\[DG002 — High\]** Interrogare l'API DrugBank per EFMOROCTOCOG ALFA per recuperare il meccanismo di azione; richiesto per l'analisi della plausibilità meccanicistica
-- Rieseguire la pipeline di predizione TxGNN una volta che gli input di cui sopra sono disponibili, per generare indicazioni candidate con punteggi di confidenza
-- Dopo che le predizioni sono disponibili, ri-attivare la raccolta delle prove (ClinicalTrials.gov + PubMed) per l'indicazione con il rango più alto
-- Verificare lo stato normativo italiano tramite il database AIFA nel caso in cui esista un'autorizzazione post-cutoff
+Tutte e 6 le autorizzazioni (prodotto ELOCTA, titolare Swedish Orphan Biovitrum AB) risultano cancellate; nessuna è attualmente valida.
 
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044563082 | ELOCTA, 1 flaconcino EV 3.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+| 044563070 | ELOCTA, 1 flaconcino EV 2.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+| 044563068 | ELOCTA, 1 flaconcino EV 1.500 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+| 044563056 | ELOCTA, 1 flaconcino EV 1.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+| 044563029 | ELOCTA, 1 flaconcino EV 500 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+
+---
+
+## Considerazioni di sicurezza
+
+- **Interazioni farmacologiche**: nessuna interazione registrata nei dati compilati.
+- **Rischio specifico per le nuove indicazioni**: nella porpora trombotica trombocitopenica (TTP), la somministrazione di FVIII, un fattore procoagulante, potrebbe essere dannosa in uno stato protrombotico, poiché livelli elevati di FVIII sono un fattore di rischio trombotico.
+
+Per le avvertenze e le controindicazioni complete, consultare il foglio illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Per la pseudo-malattia di von Willebrand non esistono studi clinici né pubblicazioni, e il difetto primario è piastrinico, quindi la sostituzione del FVIII non ha una base meccanicistica chiara. Inoltre, tutte le autorizzazioni italiane del prodotto sono cancellate, il che limita lo sviluppo pratico.
+
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione (MOA) del farmaco
+- Evidenza preclinica o clinica che dimostri un beneficio del FVIII nei disturbi piastrinici o del VWF
+- Testo del foglio illustrativo AIFA con avvertenze e controindicazioni per la valutazione di sicurezza
+- Valutazione dello stato regolatorio e della disponibilità del prodotto in Italia
+- Se si volesse esplorare un'altra direzione, la carenza acquisita di fattori della coagulazione (rango 5) è l'ipotesi più plausibile come domanda di ricerca, tenendo conto del ruolo degli inibitori nell'emofilia acquisita
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

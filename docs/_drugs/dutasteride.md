@@ -2,7 +2,7 @@
 layout: default
 title: Dutasteride
 parent: Solo previsione del modello (L5)
-nav_order: 83
+nav_order: 161
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,86 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dutasteride: La valutazione del riposizionamento non può procedere — Dossier di evidenze incompleto
+# Dutasteride: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
 
-## Riassunto in una frase
+## Sintesi
 
-Dutasteride è un inibitore duale della 5α-reduttasi (5-ARI), ampiamente approvato a livello internazionale per l'iperplasia prostatica benigna (IPB) e l'alopecia androgenetica, ma attualmente non commercializzato a Taiwan.
-Questo Dossier di evidenze non contiene **alcuna nuova indicazione prevista da TxGNN**, e dati critici inclusi il meccanismo d'azione e le avvertenze di sicurezza sono mancanti.
-Una valutazione completa del riposizionamento non può essere condotta finché le lacune identificate nei dati non vengono risolte.
+Dutasteride è un inibitore della 5-alfa-reduttasi, originariamente impiegato nel trattamento dell'**iperplasia prostatica benigna**.
+Il modello TxGNN prevede una possibile efficacia nell'**ipertricosi universale congenita di tipo Ambras**, con un punteggio molto alto (99,998%), ma **senza alcuno studio clinico né pubblicazione** a supporto nei dati compilati per questo report. La previsione resta quindi puramente computazionale.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originaria | Iperplasia prostatica benigna (IPB) *(da conoscenze farmaceutiche generali; non fornite nel Dossier di evidenze)* |
-| Nuova indicazione prevista | Non disponibile |
-| Punteggio di previsione TxGNN | Non disponibile |
-| Livello di evidenza | L5 — nessuno studio di supporto fornito in questo dossier |
-| Stato del mercato a Taiwan | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **Attesa** |
+|------|------|
+| Indicazione originale | Iperplasia prostatica benigna (da grafo di conoscenza; il testo dell'indicazione nelle autorizzazioni AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras |
+| Punteggio di predizione TxGNN | 99,998% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione potrebbe avere senso?
 
-Nel Dossier di evidenze non è inclusa alcuna indicazione prevista da TxGNN, pertanto un ponte meccanicistico tra l'indicazione originaria e quella nuova non può essere tracciato al momento.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. In base alle conoscenze generali, dutasteride inibisce la 5-alfa-reduttasi di tipo 1 e 2, riducendo il diidrotestosterone (DHT). Questo meccanismo è consolidato nell'iperplasia prostatica benigna e rilevante per i follicoli piliferi androgeno-sensibili.
 
-Anche i dati sul meccanismo d'azione sono assenti dal Dossier di evidenze. Sulla base della conoscenza farmacologica generale, dutasteride inibisce irreversibilmente entrambi gli isoenzimi Tipo 1 e Tipo 2 della 5α-reduttasi, bloccando la conversione periferica del testosterone in diidrotestosterone (DHT). Questa soppressione androgenica è alla base della sua efficacia nelle indicazioni di IPB e perdita di capelli e ha motivato l'uso investigazionale nella prevenzione del cancro della prostata (ad es., il trial REDUCE). Tuttavia, senza una specifica indicazione prevista da valutare, la rilevanza di questo meccanismo per qualsiasi nuovo target non può essere formalmente valutata qui.
-
-Questa sezione sarà completata non appena l'output della previsione TxGNN (candidate_id: `TW-DB01126-multi`) sarà recuperato e aggiunto al Dossier di evidenze.
+La sindrome di Ambras, invece, è un disturbo genetico della crescita dei peli (riarrangiamenti del cromosoma 8q22 che alterano l'espressione di TRPS1) e non dipende primariamente dal DHT. Il legame meccanicistico è quindi **speculativo** e si basa soltanto sul punteggio elevato del modello. Le altre previsioni ad alto punteggio (ipertricosi, anomalie genetiche del fusto del pelo, ipotricosi semplice del cuoio capelluto) condividono lo stesso limite: il fenotipo pilifero è simile, ma la causa non è mediata dal DHT. Per alcune previsioni (sindromi malformative dentali, sindrome con malformazione di Dandy-Walker) non si riconosce alcun meccanismo plausibile.
 
 ---
 
-## Evidenza da trial clinici
+## Evidenze dagli studi clinici
 
-Attualmente nessuna indicazione prevista è disponibile in questo Dossier di evidenze; l'evidenza da trial clinici non può essere delimitata o elencata.
-
----
-
-## Evidenza dalla letteratura
-
-Attualmente nessuna indicazione prevista è disponibile in questo Dossier di evidenze; l'evidenza dalla letteratura non può essere delimitata o elencata.
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ---
 
-## Informazioni sul mercato di Taiwan
+## Evidenze dalla letteratura
 
-Dutasteride **non è attualmente commercializzato a Taiwan**. Nessuna licenza TFDA è registrata (la ricerca TFDA ha restituito 0 risultati il 2026-03-29).
+Per l'indicazione principale non è disponibile alcuna letteratura correlata.
 
 ---
 
-## Considerazioni di sicurezza
+## Informazioni sul mercato italiano
 
-Si rimanda al foglio illustrativo per le informazioni di sicurezza. Le avvertenze chiave, le controindicazioni e i dati sulle interazioni farmacologiche non sono stati recuperati in questo Dossier di evidenze.
+Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate non è presente nei dati. Elenco delle principali 5:
 
-> **Avviso di lacuna nei dati:** Le avvertenze/controindicazioni del foglio illustrativo TFDA (DG001, gravità: Bloccante) e i dati MOA/sicurezza di DrugBank (DG002, gravità: Alta) sono entrambi in sospeso. Finché DG001 non è risolto, il candidato non può avanzare oltre la porta di screening di sicurezza S1.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 044410025 | Dutasteride 30 cps molli 0,5 mg | Sandoz GmbH | Cancellata |
+| 045364027 | Dutasteride 30 cps molli 0,5 mg | Accord Healthcare SLU | Cancellata |
+| 043912056 | Prodirexan 90 capsule molli 0,5 mg | I.B.N. Savio Srl | Cancellata |
+| 035896012 | Duagen 30 cps molli 0,5 mg | GlaxoSmithKline SpA | Cancellata |
+| 046973018 | Durital 30 cps molli 0,5 mg | Pharmacare Srl | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni/condizioni di attenzione (da grafo di conoscenza, non dal foglio illustrativo)**: atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, malattia epatica, malattia della colecisti, priapismo, sindrome dell'iride flaccida intraoperatoria.
+- **Interazioni farmacologiche**: individuate 100 interazioni complessive. Quelle di livello **moderato** sono: aprepitant, cimetidina, claritromicina, clotrimazolo e miconazolo. Altre interazioni (ad es. omeprazolo, pantoprazolo, metformina, simvastatina, prednisone) hanno livello non classificato.
+- **Rischio teratogeno**: il rischio per i feti di sesso maschile è un'ulteriore preoccupazione, in particolare nelle sindromi malformative congenite.
+
+Per le avvertenze complete, fare riferimento al foglio illustrativo.
 
 ---
 
 ## Conclusione e prossimi passi
 
-**Decisione: Attesa**
+**Decisione: Hold**
 
-**Razionale:**
-Il Dossier di evidenze per dutasteride è strutturalmente incompleto — non ci sono previsioni TxGNN da valutare e due lacune nei dati a livello bloccante rimangono irrisolte, impedendo qualsiasi analisi significativa di sicurezza o meccanicistica.
+**Motivazione:**
+La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello (livello L5), senza studi né pubblicazioni, e senza un meccanismo plausibile legato al DHT. Inoltre, in Italia non esistono autorizzazioni attualmente valide.
 
-**Per procedere, è necessario quanto segue:**
-
-1. **[Bloccante] Recuperare i risultati della previsione TxGNN** — il candidate_id `TW-DB01126-multi` dovrebbe includere almeno una indicazione prevista; confermare se la pipeline di previsione è stata eseguita e perché l'output è assente
-2. **[Bloccante] Scaricare e analizzare il PDF del foglio illustrativo TFDA** (DG001) — estrarre le avvertenze chiave, le controindicazioni e le restrizioni di dosaggio per abilitare lo screening di sicurezza S1
-3. **[Alta] Recuperare i dati MOA e strutturati di DrugBank** (DG002) — la query di DrugBank ha restituito 1 risultato il 2026-03-29 ma il MOA non è stato popolato; recuperare nuovamente e analizzare il campo farmacodinamica
-4. **[Media] Confermare le indicazioni originarie approvate** — l'array `original_indications` è vuoto; incrociare le informazioni con l'etichettatura TFDA, EMA o FDA per popolare questo campo prima di procedere all'analisi di mappatura delle indicazioni
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione registrato (DrugBank)
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Evidenze precliniche o cliniche specifiche per la sindrome di Ambras
+- Valutazione della fattibilità regolatoria, data la mancanza di autorizzazioni valide in Italia
+- Valutazione di indicazioni correlate più plausibili (ad es. ipertricosi/irsutismo androgeno-dipendente o alopecia androgenetica), da considerare come domande di ricerca distinte
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

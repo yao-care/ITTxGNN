@@ -2,7 +2,7 @@
 layout: default
 title: Lonafarnib
 parent: Solo previsione del modello (L5)
-nav_order: 139
+nav_order: 276
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,70 +29,86 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Lonafarnib: Da Sindrome di Hutchinson-Gilford al Lebbra
+# Lonafarnib: Dalla indicazione originaria alla lebbra (indicazione prevista)
 
-## Sintesi in una frase
+## Riepilogo in una frase
 
-Lonafarnib (Zokinvy) è un inibitore della farnesiltransferasi (FTase) e la prima terapia approvata dalla FDA per la Sindrome di Hutchinson-Gilford (HGPS) e le Laminopatie Progeroidi con difetto di processamento.
-Il modello TxGNN predice che potrebbe avere potenziale terapeutico per il **Lebbra**, ma con **0 studi clinici** e **0 pubblicazioni** attualmente a supporto di questa direzione, la previsione poggia interamente sull'inferenza del modello derivata dal grafo della conoscenza biomedica — nessuna prova clinica o sperimentale è disponibile.
+Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.
+Il modello TxGNN prevede che possa essere efficace per la **lebbra**, con un punteggio molto alto (99,14%).
+Al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
 
----
+## Panoramica rapida
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originaria | Non disponibile nei dati compilati (il testo dell'indicazione nelle autorizzazioni AIFA è vuoto) |
+| Nuova indicazione prevista | Lebbra |
+| Punteggio di predizione TxGNN | 99,14% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni annullate |
+| Numero di autorizzazioni | 2 (0 valide, 2 annullate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Sindrome di Hutchinson-Gilford (HGPS); non registrata a Taiwan |
-| Nuova Indicazione Prevista | Lebbra |
-| Punteggio di Previsione TxGNN | 99.14% |
-| Livello di Prova | L5 |
-| Stato del Mercato Taiwanese | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Attendere |
+## Perché questa previsione è plausibile?
 
----
+I dati sul meccanismo d'azione originale non sono al momento disponibili. Lonafarnib appartiene alla classe degli inibitori della farnesiltransferasi (FTI), che bloccano la prenilazione di proteine come HRAS e la progerina.
 
-## Perché questa previsione è ragionevole?
+Tra l'indicazione originaria e la lebbra non emerge un legame diretto. Un'ipotesi plausibile, ma non verificata, è che l'interferenza con la prenilazione delle proteine dell'ospite possa modulare la segnalazione cellulare o la risposta immunitaria a *Mycobacterium leprae*. La prenilazione dipende inoltre dalla via del mevalonato, che alcuni patogeni intracellulari sfruttano.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono inclusi in questo Evidence Pack. Sulla base di informazioni farmacologiche pubblicamente disponibili, Lonafarnib è un inibitore della farnesiltransferasi (FTase) — blocca competitivamente l'attacco di un gruppo farnesile (derivato da farnesilpirofofato) a proteine con motivo CaaX. Nella Sindrome di Hutchinson-Gilford, questo impedisce l'accumulo nucleare di progerina, una forma troncata permanentemente farnesilata di Lamin A che guida l'invecchiamento vascolare accelerato. Lo stesso meccanismo anti-farnesilazione era il razionale originale per investigare Lonafarnib come agente antitumorale, poiché le proteine Ras oncogeniche richiedono anche farnesilazione per l'ancoraggio alla membrana e l'attivazione.
+Questo collegamento è **speculativo** e non è supportato da alcuna evidenza clinica o bibliografica recuperata. Il punteggio elevato del modello va quindi interpretato come un segnale da esplorare, non come una prova di efficacia.
 
-Il collegamento biologico tra Lonafarnib e il lebbra non è ben supportato. *Mycobacterium leprae*, il batterio causativo del lebbra, non ha proteine di virulenza note che richiedono farnesilazione mediata dall'ospite. Inoltre, non ci sono prove pubblicate di una via meccanicistica diretta che colleghi l'inibizione della FTase dell'ospite all'attività anti-micobatterica o alla modulazione della risposta immunitaria granulomatosa caratteristica del lebbra.
+## Evidenza clinica
 
-Il punteggio di previsione elevato del modello TxGNN (0,9913) molto probabilmente riflette la vicinanza strutturale indiretta all'interno del grafo della conoscenza biomedica — ad esempio, nodi di comorbilità condivisi, intorni di interazione proteina-proteina, o annotazioni di percorsi sovrapposte — piuttosto che un razionale meccanicistico diretto. Tali punteggi derivati dalla topologia del grafo possono occasionalmente far emergere candidati genuini per il riposizionamento, ma senza un meccanismo biologicamente interpretabile questa previsione non può essere prioritizzata senza ulteriore validazione sperimentale.
+Al momento non risultano studi clinici correlati registrati.
 
----
+## Evidenza bibliografica
 
-## Prova da Studi Clinici
+Al momento non risulta alcuna letteratura correlata.
 
-Attualmente non ci sono studi clinici correlati registrati.
+## Informazioni sul mercato italiano
 
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
+|---------|------|------|------|-----------|
+| 050224017 | ZOKINVY 30 cps 50 mg flacone | Capsule | Annullata | Non disponibile |
+| 050224029 | ZOKINVY 30 cps 75 mg flacone | Capsule | Annullata | Non disponibile |
 
-## Prova da Letteratura
+Titolare: TMC Pharma (EU) Limited.
 
-Attualmente nessuna letteratura correlata disponibile.
+## Citotossicità
 
----
+Lonafarnib non rientra con certezza tra i farmaci antineoplastici convenzionali sulla base dei dati disponibili, quindi la sezione non viene sviluppata.
 
-## Considerazioni sulla Sicurezza
+## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+**Interazioni farmacologiche**: dai dati compilati risultano 100 interazioni segnalate (fonte DDInter). Tra quelle di livello **maggiore** figurano:
 
----
+- Loperamide
+- Aprepitant
+- Triamcinolone
+- Desametasone
+- Budesonide
+- Cimetidina
+- Claritromicina
+- Eliglustat
+- Naloxegol
 
-## Conclusioni e Prossimi Passi
+Tra quelle di livello **moderato** figurano idrocortisone, omeprazolo, betametasone, clorpropamide, saxagliptin, empagliflozin, ossandrolone e naldemedina. Molte interazioni riguardano corticosteroidi e farmaci metabolizzati o modulati dal CYP3A, quindi è necessaria particolare cautela nella co-somministrazione.
 
-**Decisione: Attendere**
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
-**Razionale:**
-Questa previsione è supportata solo da prova L5 — inferenza del modello TxGNN senza studi clinici, nessuna letteratura pubblicata, e nessuna via meccanicistica stabilita che colleghi l'inibizione della farnesiltransferasi all'infezione da *Mycobacterium leprae* o alla patogenesi del lebbra.
+## Conclusioni e prossimi passi
 
-**Per procedere, è necessario quanto segue:**
-- Studi preclinici (in vitro o modello animale) esaminando se Lonafarnib o altri inibitori di FTase influenzano la viabilità, la crescita, o le risposte immunitarie dell'ospite a M. leprae
-- Analisi meccanicistica chiarendo se l'inibizione della FTase dell'ospite potrebbe plausibilmente influenzare la sopravvivenza intracellulare micobatterica o la risposta granulomatosa nel lebbra
-- Analisi di tracciamento dei percorsi del grafo della conoscenza TxGNN che hanno generato questo punteggio, per valutare se qualsiasi nodo biologico intermedio fornisce un razionale credibile
-- Revisione del profilo di sicurezza completo includendo avvertenze, controindicazioni, e dati di interazione farmacologica dal foglio illustrativo approvato prima di qualsiasi ulteriore considerazione clinica
+**Decisione: Hold**
 
+**Motivazione:**
+La previsione per la lebbra si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Inoltre le autorizzazioni italiane sono tutte annullate e mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.
+
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate)
+- Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
+- Una ricerca bibliografica e di studi preclinici sul ruolo della prenilazione nella patogenesi della lebbra
+- Verifica del motivo dell'annullamento delle autorizzazioni e della disponibilità del farmaco in Italia
+- Un piano di gestione delle interazioni farmacologiche maggiori
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

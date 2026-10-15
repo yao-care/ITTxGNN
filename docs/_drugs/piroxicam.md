@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Piroxicam
-parent: Prove elevate (L1-L2)
-nav_order: 166
-evidence_level: L2
+parent: Solo previsione del modello (L5)
+nav_order: 354
+evidence_level: L5
 indication_count: 10
 ---
 
 # Piroxicam
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,81 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Piroxicam: Dal Dolore Reumatico e Muscoloscheletrico all'Artrite Idiopatica Giovanile
+# Piroxicam: dall'artrite reumatoide alla sindrome da microftalmia colobomatosa-displasia rizomelica
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Il piroxicam è un inibitore non selettivo COX-1/COX-2 (FANS) con decenni di utilizzo clinico per condizioni infiammatorie e muscoloscheletriche, incluse l'artrite reumatoide e l'artrosi.
-Il modello TxGNN prevede che possa essere efficace per l'**Artrite Idiopatica Giovanile (JIA)**, con **0 studi clinici registrati** e **13 pubblicazioni**—inclusi due studi controllati direttamente confrontando piroxicam e naprossene in pazienti pediatrici—attualmente a supporto di questa direzione.
-Nota: le previsioni a punteggio più alto di TxGNN (ranghi 1–8) sono sindromi displasie scheletriche genetiche rare senza collegamento meccanicistico all'inibizione COX e senza evidenza di supporto (tutti L5/Hold); JIA (rango 10) è selezionata qui come il target più attuabile e coerente dal punto di vista meccanicistico.
-
----
+Il piroxicam è un antinfiammatorio non steroideo (FANS) usato per artrite reumatoide e osteoartrosi. Il modello TxGNN lo indica come possibile candidato per la **sindrome da microftalmia colobomatosa-displasia rizomelica**, una rara malattia genetica dello sviluppo. Questa previsione si basa solo sul punteggio del modello: **non risultano studi clinici né pubblicazioni** a supporto.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|----------|
-| Indicazione originaria | Non disponibile dai dati normativi taiwanesi (non commercializzato a Taiwan); globalmente affermato per artrite reumatoide, artrosi e dolore muscoloscheletrico |
-| Indicazione predetta | Artrite Idiopatica Giovanile (JIA) |
-| Punteggio di previsione TxGNN | 99.93% |
-| Livello di evidenza | L2 |
-| Stato di commercializzazione a Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con Cautele |
-
----
+|------|------|
+| Indicazione originale | Artrite reumatoide, osteoartrosi, artropatia (dal grafo di conoscenza TxGNN; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
+| Nuova indicazione prevista | Sindrome da microftalmia colobomatosa-displasia rizomelica |
+| Punteggio di previsione TxGNN | 99,996% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni cancellate (nessuna autorizzazione valida) |
+| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
-I dati formali del meccanismo d'azione sono elencati come lacuna nei dati di questo dossier di evidenza. Tuttavia, la farmacologia del piroxicam è ampiamente documentata nella letteratura globale: inibisce non selettivamente entrambi gli enzimi COX-1 e COX-2, bloccando la conversione dell'acido arachidonico in prostaglandine e riducendo così la sintesi di PGE2—un mediatore centrale del dolore, febbre e infiammazione articolare.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. Il piroxicam è noto come FANS che inibisce in modo non selettivo le ciclossigenasi (COX-1 e COX-2) e riduce la sintesi di prostaglandine. La sua efficacia nelle patologie articolari infiammatorie è consolidata.
 
-La patologia centrale di JIA è la sinovite cronica guidata dall'attivazione delle cellule T e da citochine pro-infiammatorie (IL-1, IL-6, TNF-α), con PGE2 che svolge un ruolo chiave nel perpetuare il gonfiore e il dolore articolare. Il piroxicam colpisce direttamente questa cascata infiammatoria. I FANS sono endorsed come trattamento sintomatico di prima linea per JIA sia dalle linee guida EULAR che ACR, rendendo il collegamento meccanicistico tra piroxicam e JIA diretto.
+Per questa indicazione **non emerge alcun legame meccanicistico plausibile**. La sindrome è una malattia genetica dello sviluppo oculare e scheletrico, e nulla indica che l'inibizione delle COX agisca sulla sua patogenesi. L'alto punteggio di TxGNN (99,996%, posizione 69 nella classifica del modello) deriva solo da relazioni nel grafo di conoscenza e va considerato un'ipotesi non validata.
 
-In modo cruciale, l'evidenza qui non è meramente a livello di classe: uno studio multicentrico in doppio cieco incrociato del 1986 (PMID 3510686) ha confrontato direttamente piroxicam versus naprossene in 47 bambini con artrite cronica giovanile (la categoria di malattia precursore di JIA) e ha trovato un'efficacia comparabile con buona tollerabilità; uno studio del 1987 (PMID 2957205) ha allo stesso modo dimostrato una riduzione significativa delle articolazioni dolenti e gonfie. L'emivita lunga del piroxicam (~32 ore nei bambini, secondo PMID 1782984) consente il dosaggio una volta al giorno—un vantaggio pratico significativo nell'aderenza pediatrica.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici registrati correlati.
 
-## Evidenza da studi clinici
+## Evidenze dalla letteratura
 
-Attualmente non sono registrati studi clinici correlati (la ricerca su ClinicalTrials.gov ha restituito 0 risultati per piroxicam + artrite idiopatica giovanile).
+Attualmente non risulta letteratura correlata disponibile.
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza letteraria
+Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.
 
-| PMID | Anno | Tipo | Rivista | Principali risultati |
-|------|------|------|---------|-------|
-| [3510686](https://pubmed.ncbi.nlm.nih.gov/3510686/) | 1986 | Studio controllato multicentrico | British Journal of Rheumatology | Piroxicam vs. naprossene in 47 bambini (età 5–16) con AJC sieronegativa; crossover in doppio cieco di 8 settimane; nessuna differenza di efficacia significativa, buona tollerabilità in entrambi i bracci |
-| [2957205](https://pubmed.ncbi.nlm.nih.gov/2957205/) | 1987 | Studio clinico | European Journal of Rheumatology and Inflammation | Piroxicam vs. naprossene in 26 pazienti AJR (età 3–25); riduzione significativa delle articolazioni dolenti e gonfie (p<0.05) |
-| [38680254](https://pubmed.ncbi.nlm.nih.gov/38680254/) | 2024 | Revisione sistematica + Metanalisi in rete | World Journal of Clinical Cases | Metanalisi in rete confrontando più FANS per JIA; valuta l'efficacia comparativa e la selezione ottimale del farmaco tra la classe FANS |
-| [33632948](https://pubmed.ncbi.nlm.nih.gov/33632948/) | 2021 | Revisione sistematica + Metanalisi in rete | Indian Pediatrics | Efficacia e sicurezza comparativa di 9 FANS in JIA; piroxicam incluso; conferma il beneficio di classe con differenziazione a livello di farmaco |
-| [1782984](https://pubmed.ncbi.nlm.nih.gov/1782984/) | 1991 | Studio farmacocinetico | European Journal of Clinical Pharmacology | PK a stato stazionario del piroxicam in 10 bambini con AR (età 7–16, 20–63 kg); emivita media 32.6 h; conferma la fattibilità del dosaggio una volta al giorno nella popolazione pediatrica |
-| [9890680](https://pubmed.ncbi.nlm.nih.gov/9890680/) | 1998 | Coorte di sicurezza a lungo termine | Clinical Rheumatology | 117 bambini seguiti per media 8.6 anni in clinica di reumatologia pediatrica; 155 esposizioni a FANS documentate; caratterizza il profilo di tossicità a lungo termine dei FANS in JIA |
-| [7797387](https://pubmed.ncbi.nlm.nih.gov/7797387/) | 1994 | Studio di coorte | International Ophthalmology | CI riscontrata nel 56% dei pazienti AJC poliarticolare ANA-positivi; evidenzia l'importanza del monitoraggio extraarticolare insieme alla terapia con FANS |
-| [2185374](https://pubmed.ncbi.nlm.nih.gov/2185374/) | 1990 | Revisione | Kinderarztliche Praxis | Terapia farmacologica attuale per artrite cronica giovanile; piroxicam presentato insieme a sulfasalazina come agente terapeutico più recente in questa malattia |
-| [21175420](https://pubmed.ncbi.nlm.nih.gov/21175420/) | 2010 | Revisione (Drug Delivery) | Critical Reviews in Therapeutic Drug Carrier Systems | Microincapsulazione di FANS per tipi di artrite inclusa JIA; discute l'ottimizzazione della somministrazione del piroxicam per migliorare la tollerabilità GI |
-| [6753142](https://pubmed.ncbi.nlm.nih.gov/6753142/) | 1982 | Revisione | Schweizerische Medizinische Wochenschrift | Linee guida per la prescrizione di FANS con approccio safety-first; piroxicam referenziato tra gli agenti più recenti; copre popolazioni speciali incluse pazienti pediatrici e con ulcera |
-
----
-
-## Informazioni sul mercato Taiwan
-
-Il piroxicam non è attualmente commercializzato a Taiwan. Nessun record di autorizzazione è presente nei file della TFDA. Nessuna tabella di prodotto può essere generata.
-
----
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|------|
+| 033788011 | PIROXICAM 30 cps 20 mg | DOC Generici Srl | Cancellata |
+| 034919035 | IPSOFLOG 6 fiale IM 20 mg 1 ml | Tecnopharma Italia Srl | Cancellata |
+| 026446056 | BREXIN 30 cpr 20 mg | Promedica Srl | Cancellata |
+| 029534031 | PIROXICAM 30 cpr solubili 20 mg | EG SpA | Cancellata |
+| 024249029 | FELDENE 30 cps 20 mg | Pfizer Italia Srl | Cancellata |
 
 ## Considerazioni di sicurezza
 
-Si rimanda al foglio illustrativo per le informazioni sulla sicurezza. I dati del foglio illustrativo normativo Taiwan (avvertenze, controindicazioni) non erano reperibili al momento di questo rapporto e costituiscono una **lacuna di dati bloccante** (DG001) che deve essere risolta prima di procedere alla valutazione clinica.
+**Controindicazioni derivate dal grafo di conoscenza** (non provengono dal foglio illustrativo): ipertensione, malattie renali, malattie epatiche (compresi epatite, insufficienza epatica acuta e danno epatico da farmaci), malattie della colecisti, insufficienza cardiaca congestizia, infarto del miocardio e altre malattie cardiovascolari, ictus e disturbi cerebrovascolari, disturbi della coagulazione, malattie trombotiche, ulcera peptica attiva, anemie ed emoglobinopatie, disturbi della vista, abuso o dipendenza da sostanze.
 
----
+**Interazioni farmacologiche:** sono state rilevate 100 interazioni; nell'elenco esaminato (20 voci) quelle principali di livello moderato riguardano:
+- corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone)
+- acido acetilsalicilico
+- metformina e antidiabetici sulfonilureici (clorpropamide, glimepiride)
+- mesalazina e balsalazide
+- aprepitant
+- sali di potassio e preparati per la pulizia intestinale
+
+Le interazioni con famotidina, ranitidina, cimetidina e linaclotide sono di livello lieve.
+
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Procedere con Cautele**
+**Decisione: Hold**
 
-**Razionale:**
-Il piroxicam ha evidenza da studi controllati diretti testa a testa in pazienti pediatrici con artrite giovanile, dimostrando un'efficacia comparabile a quella del naprossene con tollerabilità accettabile; poiché i FANS sono terapia di prima linea endorsed dalle linee guida per JIA, la base meccanicistica e clinica per questa direzione di rivalutazione è ben stabilita attraverso più di tre decenni di letteratura.
+**Motivazione:**
+- La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile.
+- Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile.
 
-**Per procedere, quanto segue è necessario:**
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e un'ipotesi biologica che colleghi il piroxicam alla patogenesi della sindrome.
+- Studi preclinici o descrizioni di casi a supporto.
+- I testi di avvertenze e controindicazioni dal foglio illustrativo AIFA.
+- Una verifica della fattibilità regolatoria, data l'assenza di autorizzazioni valide.
 
-- **[Bloccante]** Recuperare il foglio illustrativo normativo Taiwan (TFDA) per completare la valutazione delle avvertenze e controindicazioni—obbligatorio prima di qualsiasi valutazione di sicurezza S1
-- **[Alto]** Confermare i dati formali del MOA tramite API di DrugBank (DG002)—necessario per la documentazione completa della razionale meccanicistica
-- Rivedere le linee guida attuali di dosaggio pediatrico: la maggior parte dei dati dei trial proviene dagli anni 1980–1990; i protocolli di dosaggio attuali basati sul peso dovrebbero essere verificati rispetto agli standard attuali
-- Screening delle interazioni farmacologiche per i co-medicamenti JIA comuni (metotrexato, corticosteroidi, biologici), in particolare il noto rischio di interazione FANS-MTX
-- Valutare la fattibilità di registrazione a Taiwan: il piroxicam non è attualmente commercializzato a Taiwan; una valutazione del percorso normativo è richiesta prima di qualsiasi implementazione clinica
-- Considerare se uno studio osservazionale prospettico dedicato o la raccolta di dati di registro potrebbe aggiornare l'evidenza da L2 a L1 (nessun RCT Phase 3 attualmente esiste nel framework diagnostico JIA moderno)
-
+**Nota:** tra le altre indicazioni previste, solo l'**artrite idiopatica giovanile** ha una base di letteratura. Comprende uno studio multicentrico del 1986 che confronta piroxicam e naprossene, dati farmacocinetici pediatrici e revisioni sistematiche con meta-analisi di rete sui FANS. Questa indicazione (livello L3) merita una valutazione separata come domanda di ricerca, perché è vicina all'uso originale del farmaco nelle artropatie.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

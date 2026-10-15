@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Apixaban
-parent: Solo previsione del modello (L5)
-nav_order: 31
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 49
+evidence_level: L4
 indication_count: 1
 ---
 
 # Apixaban
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **L4** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# APIXABAN: Rapporto di Valutazione del Riposizionamento Farmacologico
+# Apixaban: Dalla prevenzione tromboembolica all'emicrania (migraine disorder)
 
-## Riepilogo in una Frase
+## Sintesi in una frase
 
-Apixaban (DrugBank: DB06605) è un anticoagulante orale diretto (inibitore del Fattore Xa) ben noto, commercializzato a livello mondiale con il nome commerciale Eliquis per la prevenzione dell'ictus nella fibrillazione atriale e il trattamento/prevenzione del tromboembolismo venoso. Il modello TxGNN **non ha generato alcuna nuova indicazione prevista** per questo farmaco al momento presente. Il pacchetto di prove contiene molteplici lacune critiche nei dati che devono essere risolte prima di procedere con ulteriori valutazioni.
+Apixaban è un anticoagulante orale diretto, inibitore del fattore Xa, commercializzato in Italia come Eliquis; per le autorizzazioni italiane non sono disponibili testi di indicazione approvata. Il modello TxGNN ne prevede un possibile effetto sull'**emicrania**, ma le evidenze dirette sono molto limitate: **1 studio clinico** solo indirettamente correlato e **3 pubblicazioni** (due case report e uno studio retrospettivo), con risultati in parte contraddittori.
 
----
+## Panoramica rapida
 
-## Panoramica Rapida
-
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Farmaco (DCI) | Apixaban |
-| ID DrugBank | DB06605 |
-| Indicazione Originaria | Non registrata nel pacchetto di prove (nota a livello mondiale: anticoagulazione — prevenzione dell'ictus nella fibrillazione atriale non valvolare, trattamento e prevenzione di DVT/PE) |
-| Nuova Indicazione Prevista | **Nessuna** — TxGNN non ha generato previsioni |
-| Punteggio di Previsione TxGNN | N/A |
-| Livello di Evidenza | **L5** (Nessuna previsione, nessuno studio di supporto in questo pacchetto) |
-| Stato di Mercato Taiwan | ❌ Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni TFDA | 0 |
-| Decisione Consigliata | **Hold** |
+| Indicazione originale | Non disponibile nei dati compilati per questo report |
+| Nuova indicazione prevista | Emicrania (migraine disorder) |
+| Punteggio di predizione TxGNN | 99,02% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione può essere ragionevole?
 
-## Perché Non C'è Nessuna Previsione?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Apixaban è noto come inibitore diretto del fattore Xa della coagulazione, ma i dati compilati per questo report non riportano un MOA formale né le indicazioni originali, per cui l'analisi del legame meccanicistico resta limitata.
 
-Il modello TxGNN ha restituito un array vuoto di `predicted_indications` per Apixaban. Diversi fattori potrebbero spiegare questo:
+Un collegamento plausibile ma non dimostrato riguarda l'emicrania con aura, associata a shunt destro-sinistro (ad esempio forame ovale pervio) o a stati protrombotici (ad esempio anticorpi antifosfolipidi). In questi contesti, una terapia antitrombotica potrebbe ridurre i fattori scatenanti microembolici o trombotici.
 
-1. **Lacune nei dati della pipeline di input**: Il pacchetto di prove evidenzia due lacune critiche — (DG001) i moniti/controindicazioni del foglio illustrativo TFDA mancano, valutati con una gravità "Blocking"; e (DG002) il meccanismo d'azione (MOA) non è popolato, valutato con una gravità "Alta". Senza i dati del MOA che alimentano il grafo di conoscenza, il modello potrebbe non avere una connettività sufficiente per generare previsioni fiduciose.
+Il punteggio TxGNN è molto alto (0,99), ma deriva da una predizione basata su rete di conoscenza e non da un meccanismo stabilito. I case report disponibili sono contrastanti e suggeriscono che apixaban potrebbe non essere efficace, e in alcuni pazienti persino associato a peggioramento.
 
-2. **Assenza normativa Taiwan**: Apixaban ha zero licenze TFDA registrate (stato di mercato: Non commercializzato). Questo potrebbe limitare la rappresentazione del farmaco nel grafo di conoscenza specifico di Taiwan utilizzato da TxGNN, riducendo la capacità del modello di identificare opportunità di riposizionamento.
+## Evidenze dagli studi clinici
 
-3. **Contesto farmacologico noto**: Apixaban è un inibitore diretto del Fattore Xa selettivo e reversibile che blocca il Fattore Xa libero e legato al coagulo, nonché l'attività della protrombinasi. È ampiamente approvato a livello internazionale (FDA, EMA) per: (a) riduzione del rischio di ictus nella fibrillazione atriale non valvolare, (b) trattamento di DVT e PE, (c) profilassi di DVT dopo intervento di sostituzione dell'anca o del ginocchio. Questo profilo farmacologico è altamente specifico della cascata coagulativa, il che potrebbe limitare la capacità del modello di identificare segnali cross-indicazione.
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fase 3 | Completato | 664 | Chiusura del forame ovale pervio o anticoagulanti vs terapia antiaggregante per prevenire la recidiva di ictus. Non è uno studio sull'emicrania: questa compare al massimo come esito secondario o incidentale, e non è confermato che il braccio anticoagulante preveda apixaban. Rilevanza giudicata bassa (grado C). |
 
----
+## Evidenze dalla letteratura
 
-## Evidenza degli Studi Clinici
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Studio retrospettivo (75 pazienti) | Lupus | Risposta alla terapia antitrombotica in pazienti con emicrania refrattaria e anticorpi antifosfolipidi; il ruolo specifico di apixaban va verificato nel testo completo |
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Case report | Headache | Donna di 55 anni con emicrania con aura in remissione per 12 anni con warfarin; sintomi ricomparsi entro 3 settimane dal passaggio ad apixaban e risolti di nuovo con la ripresa di warfarin |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Case report e revisione | The Neurologist | Emicrania con aura peggiorata dopo l'inizio di apixaban; la letteratura sugli anticoagulanti orali diretti nell'emicrania è scarsa e controversa |
 
-Al momento non esiste alcuna indicazione prevista, quindi non è stata eseguita alcuna ricerca mirata di studi clinici.
+## Informazioni sul mercato italiano
 
-> Per generare evidenze significative da studi clinici, sono necessarie prima le previsioni di TxGNN o la generazione manuale di ipotesi.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 041225145 | ELIQUIS 28 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041225020 | ELIQUIS 20 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041225095 | ELIQUIS 60 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041225018 | ELIQUIS 10 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041225032 | ELIQUIS 60 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
 
----
+Titolare: Bristol-Myers Squibb/Pfizer EEIG. Tutte e 5 le autorizzazioni risultano cancellate.
 
-## Evidenza dalla Letteratura
+## Considerazioni sulla sicurezza
 
-Al momento non esiste alcuna indicazione prevista, quindi non è stata eseguita alcuna ricerca letteraria mirata.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni complessive. Tra quelle di livello **maggiore** figurano acido acetilsalicilico, cobicistat, deferasirox, ibritumomab tiuxetano e tositumomab (anche I-131). Tra quelle di livello **moderato** figurano aprepitant, claritromicina, clotrimazolo, desametasone, fenfluramina, miconazolo, rolapitant, sibutramina e sugammadex, tra le altre.
+- **Segnale di sicurezza dalla letteratura**: due case report descrivono mancata risposta o peggioramento dell'emicrania con aura durante il trattamento con apixaban.
 
----
+Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
-## Informazioni sul Mercato Taiwan
-
-Apixaban non ha **licenze approvate da TFDA** a Taiwan alla data del cutoff dei dati (2026-04-03).
-
-> **Nota:** Apixaban (Eliquis®, Bristol-Myers Squibb / Pfizer) è ampiamente commercializzato in molte altre giurisdizioni. L'assenza di licenze Taiwan potrebbe riflettere una lacuna nella raccolta dei dati piuttosto che un'assenza normativa vera. Questo dovrebbe essere verificato direttamente rispetto al database TFDA.
-
----
-
-## Considerazioni di Sicurezza
-
-> Nel pacchetto di prove non sono disponibili dati di sicurezza. Tutti i moniti chiave, le controindicazioni e le interazioni farmaco-farmaco sono risultati come lacune nei dati o "non trovati".
->
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
-
-**Profilo di sicurezza noto (riferimento generale):** Apixaban comporta rischi di anticoagulanti a livello di classe, incluso sanguinamento (maggiore e minore), e ha moniti specifici riguardanti procedure di anestesia spinale/epidurale, valvole cardiache protesiche e l'interruzione prematura che aumenta il rischio trombotico. Questi dovrebbero essere confermati tramite il foglio illustrativo TFDA una volta disponibile.
-
----
-
-## Riepilogo delle Lacune nei Dati
-
-Le seguenti lacune critiche sono state identificate in questo pacchetto di prove:
-
-| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
-|--------|----------|------|----------|--------|-------------|
-| DG001 | Livello Farmaco | Moniti/controindicazioni del foglio illustrativo TFDA | **Blocking** | Impossibile entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | **Alta** | Influisce sull'analisi di associazione del meccanismo | Interrogare l'API DrugBank |
-
----
-
-## Conclusione e Prossimi Passi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
-**Razionale:**
-Nessuna indicazione prevista da TxGNN è stata generata per Apixaban, e il pacchetto di prove contiene una lacuna nei dati di gravità Blocking (foglio illustrativo TFDA) che impedisce la valutazione preliminare di sicurezza. Lo stato di mercato Taiwan del farmaco mostra zero autorizzazioni, il che potrebbe indicare un problema di dati a monte. Senza un'indicazione target da valutare, non può procedere alcuna valutazione di riposizionamento.
+**Motivazione:**
+La predizione si basa solo sul modello (livello L4): l'unico studio clinico non riguarda l'emicrania e le pubblicazioni sono case report o uno studio retrospettivo, con indizi di possibile inefficacia o peggioramento. Inoltre, tutte le autorizzazioni italiane sono cancellate.
 
-**Per procedere, è necessario quanto segue:**
-- **Risolvere DG001 (Blocking):** Ottenere e analizzare il foglio illustrativo TFDA per Apixaban per abilitare la valutazione preliminare di sicurezza
-- **Risolvere DG002 (Alta):** Popolare i dati del MOA dall'API DrugBank (inibitore del Fattore Xa) per abilitare la previsione basata sul meccanismo
-- **Verificare lo stato di mercato Taiwan:** Confermare se Apixaban veramente non ha licenze TFDA, poiché è ampiamente commercializzato a livello internazionale con il marchio Eliquis®
-- **Rieseguire la previsione TxGNN:** Dopo aver risolto le lacune nei dati, rieseguire il modello TxGNN per generare indicazioni previste
-- **Se vengono generate previsioni:** Raccogliere evidenze da studi clinici e letteratura per le principali indicazioni previste
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Dati sul meccanismo d'azione e sulle indicazioni originali (ad esempio da DrugBank)
+- Verifica nel testo completo del ruolo di apixaban nello studio retrospettivo (PMID 33402037)
+- Chiarimento dei risultati di NCT00562289 sull'emicrania e del braccio anticoagulante utilizzato
+- Studi mirati su sottogruppi (emicrania con aura e shunt destro-sinistro o anticorpi antifosfolipidi) prima di considerare qualsiasi sperimentazione
+- Chiarimento della situazione regolatoria in Italia, dato lo stato di sole autorizzazioni cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

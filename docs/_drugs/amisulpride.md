@@ -2,7 +2,7 @@
 layout: default
 title: Amisulpride
 parent: Solo previsione del modello (L5)
-nav_order: 27
+nav_order: 41
 evidence_level: L5
 indication_count: 0
 ---

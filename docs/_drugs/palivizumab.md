@@ -2,7 +2,7 @@
 layout: default
 title: Palivizumab
 parent: Solo previsione del modello (L5)
-nav_order: 160
+nav_order: 337
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,65 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Palivizumab: dalla profilassi del RSV al neoplasma benigno della lingua
+# Palivizumab: Dall'infezione da virus respiratorio sinciziale a neoplasia benigna della lingua
 
-## Sommario in una frase
+## Sintesi
 
-Palivizumab è un anticorpo monoclonale che colpisce la proteina F del virus respiratorio sinciziale (RSV), utilizzato per la profilassi del RSV in neonati e bambini piccoli ad alto rischio.
-Il modello TxGNN prevede che potrebbe essere efficace per il **neoplasma benigno della lingua**, tuttavia ci sono **0 studi clinici** e **0 pubblicazioni** che attualmente supportano questa direzione.
-Questa predizione è valutata come un artefatto del grafo di conoscenza senza base meccanicistica e non è raccomandata per ulteriore sviluppo.
-
----
+Palivizumab è un anticorpo monoclonale umanizzato originariamente impiegato contro l'infezione da virus respiratorio sinciziale (RSV). Il modello TxGNN lo associa, con un punteggio molto alto, alla **neoplasia benigna della lingua**. Questa previsione non è però supportata da **alcuno studio clinico né da alcuna pubblicazione**: si tratta di una previsione puramente computazionale (livello di evidenza L5).
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Profilassi del RSV in pazienti pediatrici ad alto rischio |
-| Nuova indicazione prevista | Neoplasma benigno della lingua |
-| Punteggio di predizione TxGNN | 99.94% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Infezione da virus respiratorio sinciziale (RSV) |
+| Nuova indicazione prevista | Neoplasia benigna della lingua |
+| Punteggio di previsione TxGNN | 99,94% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è plausibile?
 
-## Perché questa predizione è ragionevole?
+Palivizumab è un anticorpo monoclonale umanizzato diretto contro la proteina F dell'RSV. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione.
 
-Non lo è. Questa sezione spiega perché il punteggio TxGNN è elevato nonostante l'assenza di qualsiasi collegamento biologico reale.
+Non è stato individuato alcun legame meccanicistico tra la neutralizzazione della proteina F dell'RSV e la biologia di una neoplasia benigna della lingua. Non risulta alcun bersaglio o via associata all'RSV in questa patologia. Il punteggio elevato (0,9994) riflette probabilmente la similarità a livello di grafo tra nodi di neoplasie del distretto testa-collo, più che una base biologica. Anche la similarità con l'indicazione originale è ancora da valutare.
 
-Palivizumab è un anticorpo monoclonale umanizzato (IgG1κ) che si lega alla proteina di fusione (F) del virus respiratorio sinciziale (RSV), bloccando l'ingresso virale nelle cellule epiteliali respiratorie dell'ospite. Il suo meccanismo è puramente antivirale ed interamente specifico per l'RSV. Non ci sono attività note o ipotizzate antiproliferative, antitumorali o immunomodulatorie rilevanti per il tessuto neoplastico.
-
-Il neoplasma benigno della lingua (ad es. fibroma, papilloma) origina da trauma locale, infezione da HPV o fattori dello sviluppo. L'RSV non ha un potenziale oncogenico stabilito e non infetta la mucosa orale o orofaringea come bersaglio primario. Non ci sono dati pubblicati — nemmeno rapporti di caso — che collegano l'infezione da RSV o l'esposizione a palivizumab a qualsiasi esito di neoplasma della lingua.
-
-La spiegazione più probabile per l'alto punteggio TxGNN è un artefatto di nodo condiviso del grafo di conoscenza: palivizumab è registrato come farmaco pediatrico in più set di dati KG, e molte delle indicazioni previste (neoplasmi benigni, neuroblastoma, cisti del dotto tireoglosso) sono anche condizioni prevalenti in pediatria. Il modello cattura questa co-occorrenza come un segnale di associazione malattia-farmaco, ma il segnale riflette la co-occorrenza demografica, non il meccanismo farmacologico. Tutte le 10 indicazioni previste con il ranking più alto seguono lo stesso pattern e tutte portano una raccomandazione di "In sospeso".
-
----
+Anche le altre previsioni nelle prime dieci posizioni (neoplasia dell'epiglottide, neuroblastoma cervicale, neoplasia benigna dell'ipofaringe, neoplasia benigna del pavimento della bocca, tumore del testicolo e del paratesticolo, neoplasia cistica, schwannoma del forame giugulare, mesenchimoma, cisti del dotto tireoglosso) hanno punteggi simili (circa 0,9994), livello L5 e nessuna evidenza a supporto. Per nessuna è stato individuato un meccanismo plausibile.
 
 ## Evidenza da studi clinici
 
-Attualmente nessuno studio clinico correlato registrato.
-
----
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenza dalla letteratura
 
-Attualmente nessuna letteratura correlata disponibile.
+Attualmente non è disponibile alcuna letteratura correlata.
 
----
+## Informazioni sul mercato italiano
 
-## Considerazioni di sicurezza
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 034529040 | SYNAGIS*1 flaconcino IM 1 ml 100 mg/ml (AstraZeneca AB) – cancellata | Non indicata | Non indicata |
+| 034529038 | SYNAGIS*1 flaconcino IM 0,5 ml 100 mg/ml (AstraZeneca AB) – cancellata | Non indicata | Non indicata |
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Entrambe le autorizzazioni risultano cancellate; non ci sono autorizzazioni valide in Italia.
 
----
+## Considerazioni sulla sicurezza
+
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono state rilevate interazioni farmacologiche nei dati compilati per questo report.
 
 ## Conclusione e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Hold**
 
 **Motivazione:**
-Tutte le indicazioni previste da TxGNN per palivizumab sono condizioni neoplastiche o evolutive senza collegamento meccanicistico all'attività anti-RSV; i punteggi di predizione elevati sono coerenti con un artefatto di co-occorrenza demografica del grafo di conoscenza piuttosto che con qualsiasi segnale farmacologico. Non esiste evidenza clinica o preclinica a sostegno di nessuna delle 10 indicazioni classificate.
+La previsione si basa solo sul punteggio del modello, senza studi clinici, letteratura o un meccanismo plausibile. Un anticorpo specifico per l'RSV non ha un bersaglio noto nei tumori benigni della lingua. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
 
-**Per procedere, è necessario quanto segue:**
-
-- Rivalutazione meccanicistica: Se la ricerca futura identifica un'attività immunomodulatoria o antitumorale per gli anticorpi monoclonali anti-RSV (ad es. attivazione off-target dell'immunità innata), la base di evidenza dovrebbe essere rivalutata.
-- Audit del modello KG: Il pattern di artefatto di nodo condiviso osservato in tutte le 10 previsioni dovrebbe essere riportato al team di modellazione TxGNN per la riponderazione dei bordi del grafo o la correzione dei fattori confondenti demografici.
-- Non iniziare alcun lavoro di riproposizionamento preclinico o clinico per nessuna delle 10 indicazioni previste in questo momento.
-
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la nuova indicazione
+- Dati su avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Evidenze precliniche o letteratura che giustifichino l'ipotesi
+- Valutazione della compatibilità della via di somministrazione e della similarità con l'indicazione originale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

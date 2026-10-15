@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Toremifene
-parent: Prove moderate (L3-L4)
-nav_order: 203
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 444
+evidence_level: L5
 indication_count: 1
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,96 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Toremifene: Dal cancro della mammella alle malattie infettive da HIV
+# Toremifene: dal carcinoma mammario all'infezione da HIV (predizione del modello)
 
-## Sintesi in una riga
+## Sintesi
 
-Toremifene è un modulatore selettivo dei recettori estrogenici (SERM) consolidato nel trattamento del cancro della mammella. Il modello TxGNN predice che potrebbe essere applicabile nelle **Malattie Infettive da HIV** — più plausibilmente affrontando le infezioni opportunistiche da cryptococcus associate all'HIV piuttosto che il virus stesso. Questo indirizzo è attualmente supportato da **0 prove cliniche** e **1 pubblicazione preclinica**, posizionando l'evidenza in una fase esplorativa iniziale.
+Il toremifene è un modulatore selettivo del recettore degli estrogeni (SERM), noto come farmaco per il carcinoma mammario. Il modello TxGNN lo predice come potenzialmente efficace per l'**infezione da HIV**, ma il supporto è molto debole: **nessuno studio clinico** registrato e **1 pubblicazione** preclinica, che riguarda l'attività antifungina contro *Cryptococcus* e non l'attività anti-HIV.
 
----
-
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Cancro della mammella (antagonista del recettore degli estrogeni / classe SERM) |
-| Indicazione nuova prevista | Malattie infettive da HIV |
-| Punteggio previsione TxGNN | 99.41% |
-| Livello di evidenza | L4 |
-| Stato di commercializzazione in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+Nota: i dati compilati per questo report non riportano un'indicazione approvata in Italia. L'indicazione originale sopra citata deriva dalla conoscenza generale del farmaco e non da dati AIFA.
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Quadro generale
 
-Dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. In base alle informazioni derivate dalla letteratura di supporto, toremifene è un modulatore selettivo dei recettori estrogenici (SERM) della stessa classe del tamoxifene, con un uso clinico consolidato nel cancro della mammella recettore-positivo per gli estrogeni. La sua attività antitumorale opera attraverso il blocco del recettore ormonale, ma le sue interazioni molecolari si estendono oltre il sistema endocrino.
-
-Il collegamento meccanicistico alle malattie infettive da HIV è indiretto ma biologicamente plausibile. Uno studio preclinico del 2014 (PMID 24520056) ha dimostrato che i farmaci della classe SERM — incluso toremifene — mostrano attività fungicida contro *Cryptococcus neoformans* legandosi direttamente alle proteine a mani EF di legame del calcio (proteine simili alla calmodulina) nella cellula fungina, interrompendo la segnalazione del calcio. Toremifene ha inoltre sinergizzato con fluconazolo in vitro. Poiché la meningite da cryptococcus è una delle infezioni opportunistiche più comuni e letali tra i pazienti con AIDS, il modello probabilmente traccia il percorso: **HIV → immunocompromissione → infezione opportunistica da cryptococcus → necessità di agenti anti-cryptococcus**.
-
-È importante sottolineare che questa è una razionale di **riadattamento indiretto** — toremifene affronterebbe una complicanza correlata all'HIV, non l'HIV stesso. L'intera base di prove attualmente poggia su un singolo esperimento in vitro senza dati clinici in pazienti con HIV, il che limita significativamente la fiducia in questa previsione.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati AIFA (testo dell'indicazione vuoto) |
+| Nuova indicazione predetta | HIV infectious disease (infezione da HIV) |
+| Punteggio di predizione TxGNN | 99,41% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 (cancellata) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza da prove cliniche
+## Perché questa predizione può essere ragionevole?
 
-Attualmente nessuna prova clinica correlata registrata.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa che il toremifene è un SERM, cioè un antagonista del recettore degli estrogeni, ma non è possibile costruire un ragionamento meccanicistico basato sulle annotazioni dei bersagli farmacologici.
+
+Il punteggio TxGNN è molto elevato (0,994), ma deriva solo da una predizione basata su rete di conoscenza. L'unica pubblicazione disponibile (2014) è uno studio preclinico che mostra come gli antagonisti del recettore degli estrogeni, tra cui il toremifene, legano proteine con dominio EF-hand (come la calmodulina) e hanno attività fungicida contro *Cryptococcus neoformans*, con sinergia con fluconazolo e amfotericina B in vitro.
+
+Il legame con l'HIV è solo indiretto: la meningite criptococcica è un'importante infezione opportunistica nei pazienti con HIV/AIDS avanzato. Tuttavia lo studio non dimostra alcuna attività anti-HIV (effetto antivirale, soppressione virale o ricostituzione immunitaria). Il collegamento riguarda una coinfezione, non l'HIV in sé. Un'eventuale razionale di riposizionamento andrebbe definito separatamente, ad esempio come terapia antifungina adiuvante nella criptococcosi associata a HIV, e non come trattamento dell'HIV.
+
+---
+
+## Evidenza dagli studi clinici
+
+Al momento non risultano studi clinici correlati registrati.
 
 ---
 
 ## Evidenza dalla letteratura
 
-| PMID | Anno | Tipo | Journal | Risultati principali |
-|------|------|------|---------|-------------|
-| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | In vitro / Preclinico | mBio | Toremifene e tamoxifene sono fungicidi contro *C. neoformans*; entrambi i farmaci si legano alle proteine di calcio a mani EF per interrompere la segnalazione del calcio fungino e sinergizzano con fluconazolo in vitro — supportando un potenziale ruolo nella cryptococcosi associata all'HIV |
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Preclinico (in vitro / meccanicistico) | mBio | Gli antagonisti del recettore degli estrogeni (tamoxifene, toremifene) sono fungicidi contro *Cryptococcus*, si legano a proteine EF-hand e sono sinergici con fluconazolo e amfotericina B |
 
 ---
 
-## Citotossicità
+## Informazioni sul mercato italiano
 
-Toremifene è un agente antineoplastico (classe SERM) utilizzato nel trattamento del cancro della mammella.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 029914013 | FARESTON*30 cpr 60 mg (ORION CORPORATION) – cancellata | Non specificata | Non disponibile |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Classificazione della citotossicità | Terapia ormonale mirata — Modulatore selettivo dei recettori estrogenici (SERM) |
-| Rischio di mielosoppressione | Basso — i SERM non causano tipicamente mielosoppressione clinicamente significativa |
-| Classificazione dell'emetogenicità | Bassa |
-| Voci di monitoraggio | Intervallo QT/QTc (toremifene comporta un rischio noto di prolungamento QT), test di funzionalità epatica, valutazione endometriale nelle pazienti donne |
-| Protezione nella manipolazione | Precauzioni standard sufficienti; non classificato come farmaco citotossico pericoloso che richiede una manipolazione specializzata |
+---
+
+## Cytotoxicity
+
+| Voce | Contenuto |
+|------|------|
+| Classificazione citotossica | Terapia ormonale antineoplastica (SERM), non chemioterapico citotossico convenzionale |
+| Rischio di mielosoppressione | Si rimanda alle avvertenze e precauzioni del foglio illustrativo; tra le malattie associate nella rete di conoscenza compaiono leucopenia e trombocitopenia |
+| Classificazione emetogenica | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
+| Parametri da monitorare | Emocromo, funzionalità epatica e renale, elettroliti (potassio, calcio), ECG per l'intervallo QT |
+| Protezione nella manipolazione | Si rimanda alle avvertenze e precauzioni del foglio illustrativo |
 
 ---
 
 ## Considerazioni di sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+Le informazioni su avvertenze e controindicazioni del foglio illustrativo AIFA non sono disponibili. Si rimanda al foglio illustrativo.
+
+- **Controindicazioni/condizioni a rischio dalla rete di conoscenza (TxGNN/PrimeKG, non dal testo del foglio illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, trombocitopenia, deficit di potassio, ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo, leucopenia, iperplasia endometriale.
+- **Interazioni farmacologiche** (100 interazioni totali, banca dati DDInter); tra le principali di livello **maggiore**: desametasone, claritromicina, levofloxacina, dolasetron, palonosetron, acido picosolfurico, polietilenglicole con elettroliti, solfato di sodio. Livello moderato, ad esempio: famotidina, pioglitazone, loperamide, aprepitant, cimetidina, miconazolo, nateglinide. Molte interazioni maggiori sono compatibili con un rischio additivo di prolungamento del QT o con alterazioni elettrolitiche.
 
 ---
 
-## Conclusione e passi successivi
+## Conclusione e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Hold**
 
-**Razionale:**
-L'intera base di prove consiste in uno studio preclinico in vitro singolo del 2014; non ci sono prove cliniche registrate, nessun dato umano in pazienti con HIV, e il collegamento meccanicistico è indiretto — toremifene affronterebbe un'infezione opportunistica da cryptococcus piuttosto che l'HIV stesso. Il farmaco inoltre non è commercializzato in Italia, aggiungendo una barriera normativa.
+**Motivazione:**
+La predizione si basa solo sul modello (livello L5). L'unica pubblicazione è preclinica e riguarda l'attività antifungina, non anti-HIV. Inoltre l'unica autorizzazione italiana è cancellata e i dati di sicurezza del foglio illustrativo mancano.
 
-**Per procedere, è necessario quanto segue:**
-
-- Confermare il MOA ufficiale e la classificazione farmacologica DrugBank per toremifene
-- Dati di modello animale in vivo che confermano l'efficacia anti-cryptococcus e la tollerabilità negli ospiti immunocompromessi
-- Dati di farmacocinetica/farmacodinamica del SNC (la meningite da cryptococcus richiede un'adeguata penetrazione del farmaco nel SNC)
-- Valutazione del rischio di prolungamento QT nei pazienti con HIV, che frequentemente ricevono in concomitanza altri antiretrovirali che prolungano QT
-- Almeno una prova clinica esplorativa Fase 1/2 in pazienti con HIV con infezione da cryptococcus attiva o a rischio
-- Revisione del percorso normativo italiano per l'uso riadattato o off-label in questa indicazione
-
+**Per procedere sono necessari:**
+- Dati di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente bloccanti per lo screening di sicurezza
+- Dati sul meccanismo d'azione (ad esempio da DrugBank)
+- Evidenze dirette di attività anti-HIV, oppure ridefinizione dell'ipotesi (ad esempio terapia antifungina adiuvante nella criptococcosi associata a HIV) con studi in vivo e clinici
+- Valutazione del rischio di prolungamento del QT e delle interazioni maggiori nella popolazione HIV in terapia combinata
+- Chiarimento dello stato regolatorio e della disponibilità del prodotto in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

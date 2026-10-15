@@ -2,7 +2,7 @@
 layout: default
 title: Abaloparatide
 parent: Solo previsione del modello (L5)
-nav_order: 11
+nav_order: 12
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,93 +29,75 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# ABALOPARATIDE: Valutazione preliminare — In attesa di dati di predizione
+# Abaloparatide: dall'osteoporosi post-menopausale alla malformazione esofagea non sindromica
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Abaloparatide (DrugBank: DB05084) è un analogo peptidico sintetico della proteina correlata all'ormone paratiroideo (PTHrP), noto a livello internazionale per il trattamento dell'osteoporosi postmenopausale ad alto rischio di frattura. Il modello TxGNN **non ha ancora generato alcuna nuova indicazione predetta** per questo farmaco, e il pacchetto di prove contiene importanti lacune di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Questo rapporto funge da **record di base** in attesa del completamento della predizione e dell'arricchimento dei dati.
-
----
+Abaloparatide è un analogo del peptide PTHrP che agisce sul recettore PTH1 e stimola la formazione ossea; è approvato a livello internazionale per l'osteoporosi post-menopausale ad alto rischio di frattura. Il modello TxGNN lo prevede come potenzialmente efficace per la **malformazione esofagea non sindromica**, ma al momento **non risulta alcuno studio clinico né alcuna pubblicazione** a sostegno di questa ipotesi: si tratta di una previsione puramente computazionale.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Non registrata nel pacchetto di prove attuale (nota esternamente: osteoporosi postmenopausale) |
-| Nuova indicazione predetta | — (Nessuna predizione disponibile) |
-| Punteggio di predizione TxGNN | — |
-| Livello di evidenza | **L5** (Nessuna predizione o studi di supporto) |
-| Stato del mercato di Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **Sospensione** |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Osteoporosi post-menopausale ad alto rischio di frattura (da dati di farmacologia; il testo dell'indicazione nella licenza AIFA non è disponibile) |
+| Nuova indicazione prevista | Malformazione esofagea non sindromica |
+| Punteggio di previsione TxGNN | 99,84% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 (cancellata) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Si sa che abaloparatide è un analogo di PTHrP e un agonista del recettore PTH1 (gene PTH1R), con effetto anabolico sull'osso. Nello studio di fase 3 NCT01343004 ha ridotto il rischio di nuove fratture nelle donne in post-menopausa rispetto al placebo, con minore incidenza di ipercalcemia rispetto a teriparatide.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di prove. In base alle informazioni pubblicamente note, abaloparatide è un analogo sintetico della proteina correlata all'ormone paratiroideo umano (PTHrP(1-34)). Agisce come attivatore selettivo della via di segnalazione del recettore PTH1, stimolando preferibilmente la conformazione RG del recettore, che promuove la formazione ossea rispetto al riassorbimento osseo. È approvato negli Stati Uniti (nome commerciale: Tymlos) per il trattamento delle donne in postmenopausa con osteoporosi ad alto rischio di frattura.
+Non è stato individuato un collegamento meccanicistico consolidato tra la stimolazione del recettore PTH1 e le malformazioni dello sviluppo esofageo. La segnalazione PTHrP partecipa ad alcuni processi epiteliali e di sviluppo, ma questa è un'ipotesi speculativa, non supportata dai dati disponibili. Il punteggio TxGNN (0,998) deriva dal grafo di conoscenza e non costituisce una prova di efficacia. Poiché il meccanismo originale non è documentato nei dati, la previsione non può essere verificata rispetto alla farmacologia nota.
 
-**Nessuna predizione TxGNN è stata generata per questo farmaco.** L'array `predicted_indications` è vuoto, il che significa che il modello non ha ancora elaborato questo composto o non ha identificato indicazioni candidate al di sopra della soglia di confidenza. Senza una nuova indicazione predetta, nessuna analisi di plausibilità basata sul meccanismo può essere condotta in questo momento.
+Altre previsioni del modello, tutte con evidenza di livello L5 e decisione Hold:
 
-Per procedere, sono richiesti i seguenti passi di arricchimento dei dati:
-1. Completare la pipeline di predizione TxGNN per ABALOPARATIDE
-2. Recuperare e popolare il meccanismo d'azione (MOA) dall'API di DrugBank
-3. Ottenere gli avvertimenti e le controindicazioni del foglio illustrativo TFDA
+| Indicazione prevista | Punteggio TxGNN | Osservazione |
+|------|------|------|
+| Malattia esofagea | 99,75% | Categoria troppo eterogenea per formulare un'ipotesi significativa |
+| Amenorrea | 99,72% | Possibile legame solo indiretto, tramite la protezione ossea nell'amenorrea ipoestrogenica; non tratterebbe l'amenorrea stessa e l'uso nelle donne in premenopausa non è stabilito |
+| Ulcera esofagea | 99,02% | Nessuna via nota per la guarigione della mucosa; esistono già terapie standard consolidate |
 
----
+## Evidenza da studi clinici
 
-## Prove da studi clinici
+Attualmente non risultano studi clinici correlati registrati per la nuova indicazione prevista.
 
-Attualmente nessuna indicazione predetta è disponibile; pertanto, nessuna ricerca mirata di studi clinici è stata eseguita.
+## Evidenza dalla letteratura
 
----
+Attualmente non risulta alcuna letteratura correlata disponibile.
 
-## Prove da letteratura
+## Informazioni sul mercato italiano
 
-Attualmente nessuna indicazione predetta è disponibile; pertanto, nessuna ricerca mirata della letteratura è stata eseguita.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 050465018 | ELADYNOS (penna da 1,5 ml, 2 mg/ml), THERAMEX IRELAND LIMITED | Penna preriempita (iniettabile) | Non disponibile; autorizzazione cancellata |
 
----
+## Considerazioni di sicurezza
 
-## Informazioni sul mercato di Taiwan
+- **Interazioni farmacologiche** (3 segnalazioni nei dati compilati):
+  - Calcitriolo (uso topico): livello moderato
+  - Calcipotriolo (uso topico): livello moderato
+  - Recettore PTH1: bersaglio farmacologico primario di abaloparatide (non è un'interazione con un altro farmaco); non sono disponibili dati di affinità
 
-ABALOPARATIDE **non è attualmente commercializzato a Taiwan**. Nessuna autorizzazione commerciale TFDA è stata trovata (data della query: 2026-03-29). Ci sono zero licenze registrate e nessuna forma di dosaggio è disponibile attraversi i canali locali.
+Per le avvertenze e le controindicazioni, si rimanda al foglio illustrativo.
 
----
+## Conclusioni e prossimi passi
 
-## Considerazioni sulla sicurezza
-
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
->
-> Nota: gli avvertimenti/controindicazioni del foglio illustrativo TFDA e i dati sulle interazioni farmaco-farmaco non sono attualmente disponibili per questo farmaco a Taiwan. La query DDI non ha restituito risultati. Questi rappresentano **lacune di dati bloccanti** che devono essere risolte prima che qualsiasi valutazione della sicurezza possa procedere.
-
----
-
-## Riepilogo delle lacune di dati
-
-Le seguenti lacune critiche di dati sono state identificate in questo pacchetto di prove:
-
-| ID lacuna | Categoria | Elemento | Gravità | Rimedio |
-|-----------|-----------|----------|---------|---------|
-| DG001 | Livello del farmaco | Avvertimenti/Controindicazioni del foglio illustrativo TFDA | **Bloccante** | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Livello del farmaco | Meccanismo d'azione (MOA) | **Alto** | Interrogare l'API di DrugBank |
-| — | Predizione | Indicazioni predette da TxGNN | **Bloccante** | Eseguire la pipeline di predizione TxGNN |
-
----
-
-## Conclusione e fasi successive
-
-**Decisione: Sospensione**
+**Decisione: Hold**
 
 **Motivazione:**
-Nessuna indicazione predetta da TxGNN è disponibile per ABALOPARATIDE, e rimangono lacune critiche di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Senza una nuova indicazione predetta, la valutazione del livello di evidenza e l'analisi del rapporto rischio-beneficio non possono essere eseguite. Il farmaco inoltre non è commercializzato a Taiwan, il che aggiunge complessità normativa a qualsiasi potenziale sforzo di riproposta.
+La previsione si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, letteratura o un razionale meccanicistico verificabile. In Italia l'unica autorizzazione è cancellata, e mancano i dati di sicurezza della scheda AIFA, che impediscono di procedere alla fase di screening di sicurezza.
 
-**Per procedere, è necessario quanto segue:**
-- Eseguire il modello di predizione TxGNN per ABALOPARATIDE per generare nuove indicazioni candidate
-- Recuperare i dati dettagliati sul meccanismo d'azione (MOA) dall'API di DrugBank (DG002)
-- Ottenere il foglio illustrativo TFDA per gli avvertimenti di sicurezza e le controindicazioni (DG001), o ottenere dati normativi di sicurezza equivalenti da FDA/EMA se l'etichettatura taiwanese non è disponibile
-- Se le previsioni vengono generate, condurre ricerche mirate di studi clinici e letteratura per l'indicazione con il ranking più alto
-- Rivalutare il livello di evidenza e la decisione una volta che le lacune di cui sopra sono colmate
-
+**Per procedere sono necessari:**
+- Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
+- Dati dettagliati sul meccanismo d'azione (ad es. da DrugBank)
+- Una revisione della letteratura sul ruolo di PTHrP/PTH1R nello sviluppo e nella riparazione dell'esofago
+- Un'ipotesi più precisa rispetto a categorie ampie come "malattia esofagea"
+- Valutazione della compatibilità della via di somministrazione (iniettabile) con la nuova indicazione
+- Dati preclinici a supporto, prima di qualsiasi considerazione clinica
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

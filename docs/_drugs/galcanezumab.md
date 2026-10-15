@@ -2,7 +2,7 @@
 layout: default
 title: Galcanezumab
 parent: Solo previsione del modello (L5)
-nav_order: 115
+nav_order: 218
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,76 +29,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Galcanezumab: Dalla prevenzione dell'emicrania alla carenza di eparina-cofattore 2
+# Galcanezumab: dall'emicrania alla carenza di cofattore 2 dell'eparina
 
 ## Riepilogo in una frase
 
-Galcanezumab (Emgality) è un anticorpo monoclonale umanizzato che bersaglia il CGRP, approvato globalmente per il trattamento preventivo dell'emicrania e della cefalea a grappolo episodica. Il modello TxGNN predice che potrebbe essere efficace per la **carenza di eparina-cofattore 2** — un raro disturbo ereditario della coagulazione — con **0 trial clinici** e **0 pubblicazioni** che attualmente supportano questa direzione. Tutti e tre i principali predicati si raggruppano attorno a disturbi rari della coagulazione con punteggi uniformemente elevati, suscitando gravi preoccupazioni che questi risultati riflettano un artefatto del grafo della conoscenza piuttosto che segnali genuini di riposizionamento biologico.
+Galcanezumab è un anticorpo monoclonale diretto contro il peptide correlato al gene della calcitonina (CGRP), originariamente impiegato nella prevenzione dell'emicrania.
+Il modello TxGNN lo predice come potenzialmente efficace per la **carenza di cofattore 2 dell'eparina**, ma i dati compilati per questo report non riportano **alcuno studio clinico** né **alcuna pubblicazione** a supporto: si tratta di una previsione puramente computazionale.
 
----
+## Quadro di sintesi
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione originale | Prevenzione dell'emicrania; cefalea a grappolo episodica (nessuna autorizzazione italiana registrata) |
-| Nuova indicazione prevista | Carenza di eparina-cofattore 2 |
-| Punteggio di previsione TxGNN | 99.50% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emicrania (anche con o senza aura); il testo dell'indicazione autorizzata in Italia non è disponibile |
+| Nuova indicazione prevista | Carenza di cofattore 2 dell'eparina |
+| Punteggio di previsione TxGNN | 99,50% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **In attesa** |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 (cancellata) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è (poco) ragionevole?
 
-## Perché questa previsione è ragionevole?
+Il meccanismo d'azione dettagliato non è disponibile nei dati compilati. Per quanto noto, galcanezumab neutralizza il CGRP, un neuropeptide coinvolto nella vasodilatazione e nella trasmissione del dolore nell'emicrania.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni note, galcanezumab è un anticorpo monoclonale anti-CGRP la cui provata efficacia nella prevenzione dell'emicrania è basata sul blocco della sensibilizzazione del trigemino mediata dal CGRP e sulla vasodilatazione cranica. Opera interamente all'interno dell'asse di segnalazione del dolore del sistema nervoso — nello specifico all'interfaccia recettoriale CGRP–RAMP1/CLR — e non ha un ruolo stabilito nella cascata della coagulazione.
+La carenza di cofattore 2 dell'eparina è un disordine trombofilico, legato a un'inibizione ridotta della trombina mediata dalla serpina (SERPIND1). Non esiste alcun collegamento noto tra il blocco del CGRP e l'inibizione della trombina o l'attività del cofattore dell'eparina. L'elevato punteggio TxGNN (0,995) riflette verosimilmente artefatti a livello di rete del grafo di conoscenza più che un razionale biologico.
 
-L'eparina-cofattore II (HCFII) è un inibitore della trombina della famiglia dei serpini. La carenza di HCFII porta a un'attività trombina non contrastata e uno stato protrombotico. L'asse inibizione HCFII–trombina e il sistema di segnalazione CGRP–recettore sono percorsi funzionalmente e biochimicamente distinti, senza dimostrata attività di crosstalk nella letteratura scientifica attuale.
+Anche le altre due previsioni di punta presentano la stessa debolezza:
 
-È fondamentale notare che la stessa implausibilità si applica a tutti e tre i principali predicati di TxGNN — carenza di HCFII, carenza di antitrombina di tipo 2, e eccesso di fattore V con trombosi spontanea — che sono tutti rari disturbi ereditari della coagulazione con punteggi TxGNN superiori a 0.994. Questo pattern di clustering stretto è un'evidenza di sovrapredizione sistematica del supernodo all'interno del cluster "vascular regulation" del grafo della conoscenza, non segnali biologici genuini individuali. Queste predizioni dovrebbero essere trattate come artefatti della topologia del grafo finché un audit KG dedicato non confermi o refuti questa ipotesi.
+| Rango | Indicazione prevista | Punteggio TxGNN | Evidenza | Considerazione |
+|------|------|------|------|------|
+| 2 | Carenza di antitrombina di tipo 2 | 99,41% | L5, nessuno studio | Nessun ruolo noto del CGRP nella regolazione della coagulazione; gli approcci consolidati sono concentrati di antitrombina e anticoagulazione |
+| 3 | Eccesso di fattore V con trombosi spontanea | 99,41% | L5, nessuno studio | Nessun effetto noto sulla cascata coagulativa; i farmaci della via CGRP richiedono cautela vascolare in popolazioni ad alto rischio trombotico |
 
----
+## Evidenze da studi clinici
 
-## Evidenza dai trial clinici
+Attualmente non risulta registrato alcuno studio clinico correlato.
 
-Attualmente nessun trial clinico correlato registrato.
+## Evidenze dalla letteratura
 
----
-
-## Evidenza dalla letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
-
----
+Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Galcanezumab non è attualmente approvato o commercializzato in Italia. Nessuna autorizzazione di immissione in commercio è registrata. Si noti che galcanezumab (Emgality) possiede l'approvazione EMA in Europa per la prevenzione dell'emicrania — i clinici dovrebbero fare riferimento allo SmPC EMA per l'indicazione autorizzata completa e il profilo di sicurezza.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 047424015 | EMGALITY, 1 penna SC 120 mg/1 ml (Eli Lilly Nederland BV) | Penna sottocutanea | Non disponibile (autorizzazione cancellata) |
 
 ## Considerazioni di sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono state rilevate interazioni farmacologiche nei dati compilati.
 
----
+## Conclusioni e prossimi passi
 
-## Conclusioni e fasi successive
-
-**Decisione: In attesa**
+**Decisione: Hold**
 
 **Motivazione:**
-Tutte e tre le indicazioni previste da TxGNN sono rari disturbi ereditari della coagulazione senza trial clinici o letteratura di supporto, e il collegamento meccanicistico tra l'inibizione del CGRP e le vie dei fattori della coagulazione è biologicamente non stabilito. L'agglomerazione di punteggi >0.994 tra tre indicazioni tematicamente identiche è un forte indicatore di un artefatto di sovrapredizione del grafo della conoscenza piuttosto che di una genuina opportunità di riposizionamento.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e non esiste un collegamento meccanicistico plausibile tra il blocco del CGRP e le vie della coagulazione. L'unica autorizzazione italiana risulta cancellata.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Audit della topologia KG**: Indagare se il supernodo vascolare/coagulazione di TxGNN sta generando segnali falsi positivi sistematici; confrontare il vicinato KG di galcanezumab con controlli negativi confermati
-- **Recupero dati MAO** (DG002): Estrarre il profilo completo di interazione biologica di galcanezumab da DrugBank per caratterizzare formalmente qualsiasi attività cross-pathway
-- **Screening della letteratura meccanicistica**: Condurre una revisione mirata per determinare se alcuna letteratura peer-reviewed supporta il crosstalk dell'asse CGRP–coagulazione prima di impegnare ulteriori risorse di valutazione
-- **Completamento dei dati di sicurezza** (DG001): Recuperare lo SmPC EMA / il foglio illustrativo TFDA per completare gli avvertimenti, le controindicazioni e la valutazione delle interazioni farmaco-farmaco — attualmente mancano dati per tutti i campi di sicurezza
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione da DrugBank, per un'analisi del collegamento meccanicistico
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Evidenze precliniche o di letteratura che colleghino il CGRP alla regolazione della coagulazione
+- Valutazione della sicurezza vascolare dei farmaci anti-CGRP in pazienti con rischio trombotico elevato
+- Verifica dello stato commerciale attuale del prodotto in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

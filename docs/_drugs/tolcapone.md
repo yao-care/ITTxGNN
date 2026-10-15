@@ -2,7 +2,7 @@
 layout: default
 title: Tolcapone
 parent: Solo previsione del modello (L5)
-nav_order: 200
+nav_order: 440
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,70 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tolcapone: dalla malattia di Parkinson all'encefalite subacuta di Rasmussen
+# Tolcapone: Dal morbo di Parkinson alla encefalite subacuta di Rasmussen
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Tolcapone è un inibitore selettivo della COMT (catecol-O-metiltransferasi), originariamente approvato come terapia adiuvante nella malattia di Parkinson dell'adulto per estendere l'effetto della levodopa.
-Il modello TxGNN prevede che possa essere efficace per **l'encefalite subacuta di Rasmussen**, un'encefalopatia autoimmune cronica rara.
-Attualmente, **nessuno studio clinico** e **nessuna letteratura pubblicata** supportano questa direzione — la previsione poggia interamente sull'inferenza a livello di grafo del modello.
+Tolcapone è un inibitore della COMT, originariamente impiegato nel trattamento del morbo di Parkinson e delle sindromi parkinsoniane correlate. Il modello TxGNN ne prevede una possibile efficacia nell'**encefalite subacuta di Rasmussen**, ma per questa direzione non risultano **né studi clinici né pubblicazioni** a supporto: la previsione si basa solo sul modello.
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Malattia di Parkinson (adiuvante a levodopa/carbidopa) |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Morbo di Parkinson e sindromi parkinsoniane correlate (il testo dell'indicazione autorizzata in Italia non è disponibile) |
 | Nuova indicazione prevista | Encefalite subacuta di Rasmussen |
-| Punteggio di previsione TxGNN | 99.93% |
+| Punteggio di previsione TxGNN | 99,93% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
-
----
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 1 (revocata) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Pacchetto di evidenze. In base alle informazioni contestuali in tutto il set di dati, tolcapone è un inibitore della COMT — blocca l'enzima che degrada la dopamina e la levodopa in periferia e nel cervello, aumentando così la disponibilità di dopamina alla sinapsi. La sua efficacia nella malattia di Parkinson è ben stabilita lungo questo asse dopaminergico.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, tolcapone è un inibitore della catecol-O-metiltransferasi (COMT), enzima che degrada le catecolamine, ed è utilizzato nel morbo di Parkinson per prolungare l'effetto della levodopa.
 
-L'encefalite subacuta di Rasmussen è un disturbo autoimmune raro e progressivo in cui le cellule T citotossiche attaccano i neuroni in un emisfero cerebrale, causando epilessia focale resistente ai farmaci e declino neurologico progressivo. La patologia centrale è mediata dal sistema immunitario — non è correlata alla dopamina. Non esiste un meccanismo noto per il quale l'inibizione della COMT sopprimrebbe l'attività delle cellule T autoreattive o ridurrebbe la distruzione neuronale in questa malattia.
+Tra l'indicazione originale e quella prevista **non emerge un legame meccanicistico plausibile**. L'encefalite di Rasmussen è una encefalite cronica immuno-mediata, con neuroinfiammazione sostenuta dai linfociti T, mentre l'inibizione della COMT agisce sul metabolismo delle catecolamine. L'elevato punteggio (0,999) riflette probabilmente la vicinanza nel grafo di conoscenza ad altre patologie neurologiche, più che una base biologica specifica.
 
-L'alto punteggio TxGNN (99.93%) probabilmente riflette **la prossimità delle malattie a livello di grafo** — tolcapone e l'encefalite di Rasmussen occupano entrambi i nodi di "malattia neurologica" nel grafo di conoscenza, creando un collegamento apparente attraverso la propagazione della rete piuttosto che per una rilevanza farmacologica genuina. Questa è una limitazione riconosciuta dei modelli di reti neurali grafiche: i punteggi alti possono derivare da somiglianza strutturale del grafo senza supporto meccanicistico. A questo stadio, questa previsione dovrebbe essere trattata solo come un segnale di generazione di ipotesi.
+Altre previsioni nella stessa lista sono più coerenti dal punto di vista biologico:
+- **Demenza a corpi di Lewy** (punteggio 99,64%): condivide con il Parkinson la patologia da alfa-sinucleina e la disfunzione dopaminergica. L'unica pubblicazione trovata è però un modello preclinico, non uno studio su tolcapone.
+- **Neurodegenerazione associata a PLA2G6**: i fenotipi di distonia-parkinsonismo si sovrappongono a quelli dell'indicazione originale, ma non esistono evidenze dirette.
+- **Paralisi agitante giovanile di Hunt**: è un termine storico per il parkinsonismo a esordio giovanile, quindi molto vicino alle indicazioni originali. Si tratta più di un'indicazione affine che di un vero riposizionamento.
 
----
+## Evidenze da studi clinici
 
-## Evidenza dagli studi clinici
+Al momento non risultano studi clinici correlati registrati.
 
-Attualmente nessuno studio clinico correlato registrato.
+## Evidenze dalla letteratura
 
----
+Per l'encefalite subacuta di Rasmussen al momento non è disponibile letteratura correlata.
 
-## Evidenza dalla letteratura
+## Informazioni sul mercato italiano
 
-Attualmente nessuna letteratura correlata disponibile.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 033280049 | TASMAR 100 mg compresse rivestite (flacone) | Non indicata | Non indicata (autorizzazione revocata; titolare: Viatris Healthcare Limited) |
 
 ## Considerazioni sulla sicurezza
 
-Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+- **Controindicazioni derivate dal grafo di conoscenza** (non dal foglio illustrativo): malattia epatica, malattia della colecisti, melanoma, disturbi ipotensivi, rabdomiolisi, fascite nodulare, discinesia tardiva, discinesia linguo-facciale-buccale.
+- **Interazioni farmacologiche**: sono state identificate 65 interazioni. Quelle di gravità **maggiore** includono il **blu di metilene**. Tra quelle di gravità moderata figurano epinefrina, morfina, codeina, dronabinolo, nabilone, naltrexone, metoclopramide, prometazina, clorfenamina, cetirizina, destrometorfano ed etanolo. Per warfarin e dicumarolo la gravità è minore. L'interazione con omeprazolo ha livello non classificato.
+- **Epatotossicità**: segnalata nell'analisi delle singole previsioni come rischio rilevante, in particolare in malattie epatiche o metaboliche e in pazienti pediatrici.
 
-> **Nota:** Tolcapone comporta un rischio noto di **insufficienza epatica fulminante fatale**. Questo è una delle preoccupazioni più gravi di questa classe di farmaci e dovrebbe essere una considerazione centrale in qualsiasi valutazione di repurposing. Il profilo di sicurezza completo — comprese le controindicazioni, gli avvertimenti di scatola nera e le interazioni farmaco-farmaco — deve essere recuperato dal foglio illustrativo ufficiale prima che qualsiasi sviluppo clinico sia perseguito.
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e prossimi passi
+**Decisione: Hold**
 
-**Decisione: Sospendere**
+**Motivazione:**
+La previsione per l'encefalite di Rasmussen è priva di studi clinici, di letteratura e di un legame meccanicistico plausibile (livello L5). Il prodotto è inoltre senza autorizzazioni valide in Italia e presenta un noto rischio di epatotossicità.
 
-**Razionale:**
-Nonostante un punteggio TxGNN molto elevato, questa previsione non ha base meccanicistica, nessuno studio clinico di supporto e nessuna letteratura pertinente. Il punteggio riflette quasi certamente un artefatto della topologia del grafo piuttosto che un segnale farmacologico, e il profilo di epatotossicità noto di tolcapone innalza una barriera di sicurezza significativa per qualsiasi nuova indicazione.
-
-**Per procedere è necessario quanto segue:**
-- Documentazione completa del meccanismo d'azione e profilo di sicurezza (compreso l'avvertimento di scatola nera sull'epatotossicità) recuperati dal foglio illustrativo ufficiale o dall'API di DrugBank
-- Un'ipotesi biologicamente plausibile che colleghi l'inibizione della COMT alla fisiopatologia dell'encefalite di Rasmussen (ad es., qualsiasi ruolo della disregolazione delle catecolamine nella neuroinfammazione autoimmune)
-- Almeno uno studio preclinico o una relazione di caso prima che questa indicazione possa essere elevata al di sopra di L5
-- Verifica dello stato normativo italiano/AIFA se è da esplorare un percorso di autorizzazione al commercio
-- Revisione comparativa delle previsioni di rango più elevato meccanicisticamente plausibili (ad es., Rank 10: parkinsonismo ad esordio giovanile; Rank 6: demenza a corpi di Lewy) che condividono l'asse della malattia dopaminergica e presentano una base meccanicistica più forte
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e un'analisi della plausibilità biologica rispetto alla patogenesi immuno-mediata.
+- Avvertenze e controindicazioni del foglio illustrativo AIFA.
+- Evidenze precliniche o cliniche specifiche per tolcapone.
+- Una valutazione del rapporto rischio-beneficio epatico e della fattibilità regolatoria, dato lo stato di autorizzazione revocata.
+- Come alternativa, dare priorità alle previsioni più coerenti con l'indicazione originale (demenza a corpi di Lewy, parkinsonismo giovanile) come quesiti di ricerca.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitisinone
-parent: Prove moderate (L3-L4)
-nav_order: 155
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 320
+evidence_level: L5
 indication_count: 10
 ---
 
 # Nitisinone
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,94 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Nitisinone: Dalla Tirossinemia Ereditaria di Tipo 1 all'Acidosi Tubulare Renale
+# Nitisinone: Dalla tirosinemia all'acidosi tubulare renale
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Nitisinone (NTBC) è un inibitore dell'enzima HPPD originariamente approvato per la Tirossinemia Ereditaria di Tipo 1 (HT-1), una rara malattia metabolica congenita del catabolismo della tirosina che causa danno epatico e renale progressivo.
-Il modello TxGNN predice che potrebbe essere efficace per l'**Acidosi Tubulare Renale**, con **0 trial clinici** e **2 pubblicazioni** attualmente a supporto di questa direzione — entrambe le quali descrivono il recupero della funzione tubulare renale specificamente in pazienti con HT-1 trattati con NTBC, piuttosto che evidenze di efficacia nell'acidosi tubulare renale primaria.
+Nitisinone è un inibitore dell'enzima HPPD, originariamente utilizzato nel trattamento della tirosinemia. Il modello TxGNN prevede che possa essere efficace per l'**acidosi tubulare renale**, ma al momento **non risultano studi clinici né pubblicazioni** a supporto di questa indicazione: si tratta di una predizione basata esclusivamente sul modello.
 
-## Panoramica Rapida
+---
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Tirossinemia Ereditaria di Tipo 1 (HT-1) — derivata da contesto clinico; nessuna registrazione italiana in archivio |
-| Indicazione Prevista | Acidosi Tubulare Renale |
-| Punteggio di Previsione TxGNN | 99.96% |
-| Livello di Evidenza | L4 |
-| Stato del Mercato Italiano | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospendere |
+## Panoramica rapida
 
-## Perché questa Previsione è Ragionevole?
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Tirosinemia |
+| Nuova indicazione prevista | Acidosi tubulare renale |
+| Punteggio di predizione TxGNN | 99,96% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni annullate |
+| Numero di autorizzazioni | 9 (tutte annullate) |
+| Decisione raccomandata | Hold |
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. Sulla base della farmacologia nota, nitisinone inibisce la **4-idrossifenil piruvato diossigenasi (HPPD)**, un enzima del percorso di degradazione della tirosina. Nell'HT-1, un enzima a valle difettoso (fumarilacetoacetato idrolasi, FAH) causa l'accumulo di metaboliti tossici — principalmente **succinylacetone** —. Bloccando HPPD a monte, nitisinone previene la produzione di succinylacetone e arresta la cascata del danno epatico e renale.
+---
 
-Il collegamento previsto all'acidosi tubulare renale deriva dal fenotipo renale dell'HT-1: succinylacetone danneggia direttamente i tubuli renali prossimali, producendo sindrome di Fanconi secondaria con caratteristiche di acidosi tubulare. Le osservazioni cliniche confermano che la terapia con NTBC migliora questa disfunzione tubulare nei pazienti con HT-1 — spiegando perché il grafo di conoscenza TxGNN ha collegato nitisinone al nodo di acidosi tubulare renale.
+## Perché questa predizione è ragionevole?
 
-Tuttavia, questo ponte meccanicistico è **strettamente specifico per l'HT-1**. L'acidosi tubulare renale primaria (guidata da mutazioni in SLC4A1, ATP6V1B1, CA2 o altri trasportatori tubulari) non ha alcun percorso metabolico a monte condiviso con l'HT-1. Nitisinone non offre alcuna razionale farmacologica contro l'acidosi tubulare renale primaria. La previsione TxGNN molto probabilmente riflette una vicinanza condivisa nel grafo ("accumulo di metaboliti tossici → danno tubulare") piuttosto che un genuino nuovo percorso indicativo.
+Nei dati compilati per questo report i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle conoscenze note, nitisinone inibisce la 4-idrossifenilpiruvato diossigenasi (HPPD), enzima della via di catabolismo della tirosina. La sua efficacia nella tirosinemia è stabilita.
 
-## Evidenze da Trial Clinici
+Nella tirosinemia ereditaria di tipo 1, l'accumulo tossico di succinilacetone causa anche una disfunzione tubulare renale (di tipo Fanconi), che nitisinone contribuisce a prevenire. Questo è un collegamento plausibile con la tubulopatia prossimale.
 
-Attualmente nessun trial clinico correlato registrato.
+Tuttavia, non esistono prove dirette a favore dell'acidosi tubulare renale come indicazione autonoma. Il punteggio molto elevato di TxGNN resta una semplice predizione e non va interpretato come evidenza clinica.
 
-## Evidenze da Letteratura
+---
 
-| PMID | Anno | Tipo | Rivista | Risultati Principali |
-|------|------|------|---------|----------------------|
-| [25172236](https://pubmed.ncbi.nlm.nih.gov/25172236/) | 2014 | Studio Osservazionale | Molecular Genetics and Metabolism | Follow-up prospettico in pazienti con HT-1 che mostra che la terapia con NTBC produce un miglioramento precoce e misurabile della disfunzione tubulare renale prossimale (marcatori della sindrome di Fanconi) entro settimane dall'inizio del trattamento |
-| [27109516](https://pubmed.ncbi.nlm.nih.gov/27109516/) | 2016 | Serie di Casi | Indian Journal of Gastroenterology | Quattro casi pediatrici di HT-1 trattati con NTBC: tre mantennero la funzione epatica normale, succinylacetone non rilevabile nelle urine, e nessun segno di ipertensione portale o disfunzione tubulare renale residua dopo ~3 anni di terapia |
+## Evidenze da studi clinici
 
-> **Nota:** Entrambe le pubblicazioni riportano gli esiti renali come risultati secondari nella gestione dell'HT-1, non come studi autonomi di nitisinone nell'acidosi tubulare renale.
+Attualmente non risultano studi clinici correlati registrati.
 
-## Informazioni sul Mercato Italiano
+---
 
-Nitisinone non è registrato in Italia. Nessuna autorizzazione al commercio è in archivio. Orfadin® (la formulazione brandizzata) detiene designazione di farmaco orfano EMA ed è approvato nell'UE per l'HT-1, ma i dati di autorizzazione specifici per l'Italia non erano disponibili in questo pacchetto di evidenze.
+## Evidenze dalla letteratura
 
-## Considerazioni sulla Sicurezza
+Attualmente non risulta letteratura correlata disponibile per l'acidosi tubulare renale.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+---
 
-## Conclusione e Passi Successivi
+## Informazioni sul mercato italiano
 
-**Decisione: Sospendere**
+Tutte le 9 autorizzazioni risultano annullate; nessuna è attualmente valida.
 
-**Razionale:**
-La previsione TxGNN per l'acidosi tubulare renale è biologicamente spiegabile, ma solo nel contesto della malattia HT-1 — entrambe le pubblicazioni di supporto descrivono miglioramento renale secondario in pazienti con HT-1, non attività terapeutica contro l'acidosi tubulare renale primaria o idiopatica. Senza un meccanismo plausibile al di fuori dell'HT-1 e con zero trial clinici registrati, questa indicazione non giustifica uno sviluppo attivo come bersaglio terapeutico.
+| Numero di autorizzazione | Nome del prodotto | Titolare |
+|---------|------|-----------|
+| 036870018 | ORFADIN orale, 60 cps 2 mg | Swedish Orphan Biovitrum Int. AB |
+| 036870020 | ORFADIN 60 cps 5 mg | Swedish Orphan Biovitrum Int. AB |
+| 036870032 | ORFADIN 60 cps 10 mg | Swedish Orphan Biovitrum Int. AB |
+| 036870044 | ORFADIN 60 cps 20 mg | Swedish Orphan Biovitrum Int. AB |
+| 036870057 | ORFADIN sospensione orale 4 mg/ml, flacone da 90 ml | Swedish Orphan Biovitrum Int. AB |
 
-**Per procedere, è necessario:**
+Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH). Il testo delle indicazioni approvate non è disponibile.
 
-- Un'ipotesi meccanicistica per l'attività di NTBC nell'acidosi tubulare renale primaria (ad es., trasportopatie ereditarie o acidosi tubulare renale secondaria tossica da altre cause metaboliche)
-- Identificazione di sottotipi di acidosi tubulare renale dove i metaboliti tossici della tirosina, o un blocco di enzima analogo a monte, potrebbero essere operativi
-- Dati preclinici (cellulari o modelli animali di acidosi tubulare renale primaria) che testano nitisinone
-- Recupero del foglio illustrativo completo (TFDA / SmPC EMA) per valutare controindicazioni, avvertenze chiave e interazioni farmacologiche prima che possa procedere qualsiasi valutazione di sicurezza
-- Revisione di esperti da parte di uno specialista di malattie metaboliche per valutare la plausibilità predetta dal grafo rispetto alla realtà clinica
+---
 
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni segnalate nel grafo di conoscenza (TxGNN/PrimeKG, non testo di scheda tecnica)**: malattia renale, piourete, trombocitopenia, leucopenia, ipofosfatemia e tirosinemia.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni, per lo più di livello moderato. Tra quelle principali: abiraterone, isotretinoina, nifedipina, ibuprofene, aldesleuchina, pioglitazone, amiodarone, amlodipina, amobarbital, apalutamide, aprepitant, atazanavir, avatrombopag, baricitinib, desametasone, bexarotene, bicalutamide e zenzero. L'interazione con armodafinil è di livello minore.
+
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
+
+---
+
+## Altre predizioni di TxGNN (contesto)
+
+Tra le prime 10 predizioni, nessuna dispone di studi clinici. Per galattosemia e glicogenosi esistono solo revisioni generali sulle malattie epatiche pediatriche, che non dimostrano l'efficacia di nitisinone. Le altre indicazioni (serpinopatia, deficit di inibitore C1, malattia da corpi di poliglucosano dell'adulto, sindrome di Griscelli, malattia granulomatosa cronica, fenotipo ermine) non mostrano un meccanismo plausibile e hanno livello di evidenza L5.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La predizione per l'acidosi tubulare renale ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5). Il collegamento meccanicistico, pur plausibile per la tubulopatia della tirosinemia, non è dimostrato per questa indicazione. Inoltre in Italia tutte le autorizzazioni sono annullate.
+
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione da DrugBank per un'analisi più solida del legame meccanicistico
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
+- Una revisione sistematica della letteratura su nitisinone e tubulopatie renali, inclusi casi clinici
+- Chiarimento dello stato regolatorio e della disponibilità del farmaco in Italia
+- Valutazione della sicurezza renale ed ematologica, dato che il grafo di conoscenza segnala malattia renale, trombocitopenia e leucopenia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

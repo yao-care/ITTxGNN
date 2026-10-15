@@ -2,7 +2,7 @@
 layout: default
 title: Etoricoxib
 parent: Solo previsione del modello (L5)
-nav_order: 98
+nav_order: 184
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,95 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Etoricoxib: dal dolore muscoloscheletrico al disturbo dell'emicrania
+# Etoricoxib: Dalle patologie reumatiche e dolorose alla Emicrania
 
-## Sommario di una riga
+## Riepilogo in una frase
 
-L'etoricoxib è un inibitore altamente selettivo di COX-2 (FANS), approvato in molti mercati per condizioni infiammatorie inclusa l'osteoartrosi, l'artrite reumatoide, la spondilite anchilosante e la gotta acuta. Il modello TxGNN predice che potrebbe essere efficace per il **disturbo dell'emicrania** con un punteggio di predizione quasi perfetto; tuttavia, attualmente vi sono **0 studi clinici** e **0 pubblicazioni** che supportano direttamente questa indicazione specifica, collocando l'evidenza al livello più basso (L5). Indicazioni strettamente correlate — disturbo cefalico e cefalgia autonomica trigeminale — hanno invece prove preliminari da serie di casi che forniscono plausibilità biologica indiretta.
-
----
+Etoricoxib è un inibitore selettivo della COX-2, utilizzato in ambito infiammatorio e doloroso (artrite reumatoide, artrosi, lombalgia cronica, spondilite anchilosante, dolore acuto e gotta). Il modello TxGNN ne prevede una possibile efficacia nella **emicrania** (*migraine disorder*) con un punteggio molto alto, ma **non esistono studi clinici registrati** e la letteratura collegata non fornisce prove dirette: l'evidenza è di fatto solo predittiva (**livello L5**).
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Nessun registro di autorizzazione in Italia disponibile; l'etoricoxib è un inibitore selettivo di COX-2 utilizzato per il dolore articolare infiammatorio |
-| Indicazione nuova predetta | Disturbo dell'emicrania |
-| Punteggio di predizione TxGNN | 99.90% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati AIFA compilati; da fonti farmacologiche: artrite reumatoide, artrosi, lombalgia cronica, spondilite anchilosante, dolore acuto, gotta |
+| Nuova indicazione prevista | Emicrania (migraine disorder) |
+| Punteggio di predizione TxGNN | 99,90% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospensione |
-
----
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili da questo dataset. Sulla base di informazioni farmacologiche note, l'etoricoxib è un inibitore altamente selettivo della cicloossigenasi-2 (COX-2), l'isoforma inducibile responsabile della sintesi delle prostaglandine durante l'infiammazione e il dolore. La sua efficacia nelle condizioni infiammatorie muscoloscheletriche è ben consolidata, e dal punto di vista meccanicistico potrebbe essere applicabile al disturbo dell'emicrania attraverso un percorso infiammatorio condiviso.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. Sulla base delle conoscenze farmacologiche, etoricoxib inibisce selettivamente la COX-2 (gene *PTGS2*), riducendo la sintesi di prostaglandina E2 (PGE2).
 
-Il collegamento biologico all'emicrania si basa sull'ipotesi trigeminovascolare: l'inibizione della COX-2 riduce la sintesi della prostaglandina E₂ (PGE₂), un mediatore chiave dell'infiammazione neurogena nel sistema trigeminovascolare. Attenuando la sensibilizzazione guidata da PGE₂ delle terminazioni del nervo trigemino nella dura madre, un inibitore selettivo della COX-2 come l'etoricoxib teoricamente potrebbe interrompere o prevenire gli attacchi emicranici. Questo è coerente con il meccanismo stabilito dell'indometacina — un inibitore non selettivo di COX che è un trattamento riconosciuto per diversi sottotipi di cefalea responsive all'indometacina — e i resoconti di casi mostrano che l'etoricoxib può sostituire l'indometacina in quelle sindromi (vedi l'evidenza per l'indicazione correlata di rango 9, disturbo cefalico).
+La PGE2 contribuisce alla sensibilizzazione trigemino-vascolare e all'infiammazione neurogenica nell'emicrania, quindi il meccanismo è plausibile. Il legame tra l'indicazione originale (dolore infiammatorio) e quella nuova poggia sulla via comune delle prostaglandine nel dolore.
 
-Tuttavia, deve essere notata una distinzione critica: l'emicrania comporta non solo l'infiammazione mediata dalle prostaglandine ma anche la segnalazione del CGRP, la depressione corticale diffusa, e la sensibilizzazione centrale — percorsi non direttamente colpiti dall'inibizione della COX-2. Il modello TxGNN probabilmente predice questo collegamento attraverso la prossimità della rete grafica tra il profilo target dell'etoricoxib e il nodo della malattia emicrania, informato in parte dalla letteratura più ampia sulla suscettibilità genetica condivisa epilessia-emicrania catturata sotto il rango 3 (suscettibilità all'emicrania con o senza aura). Questa prossimità della rete genetica è meccanicisticamente distante da un effetto terapeutico diretto, il che spiega perché non esiste alcuna prova clinica diretta.
+Va però sottolineato che l'unico lavoro collegato direttamente all'emicrania (PMID 42841395) è una scoping review sulla cefalea da digiuno durante il Ramadan e non fornisce prove su etoricoxib. Il punteggio TxGNN molto elevato è una previsione del modello, non una conferma clinica.
 
----
+### Altre predizioni rilevanti (sintesi)
 
-## Evidenza da studi clinici
+- **Cefalea (headache disorder)**, punteggio 99,31%, livello L4: diversi case report e piccole serie indicano risposte di cefalea a stilettata primaria, cefalee responsive all'indometacina e cefalea da tosse secondaria a etoricoxib o ad altri inibitori COX-2. Non esistono studi controllati.
+- **Cefalea autonomica trigeminale**, punteggio 99,15%, livello L4: un lavoro suggerisce che gli inibitori COX-2 possano essere un'alternativa quando l'indometacina non è tollerata; evidenza indiretta e di basso livello.
+- **Emicrania con o senza aura, suscettibilità**, punteggio 99,84%, livello L4: studio preclinico sul ratto che supporta l'asse CGRP/PGE2, ma l'etichetta indica una suscettibilità genetica e non un'indicazione clinica trattabile.
+- Altre predizioni (emicrania con aura del tronco encefalico, atrodermia vermicolata, ulerythema ophryogenes, ipertensione polmonare, iperplasia prostatica benigna, cardiopatia cifoscoliotica) sono prive di studi e senza un legame meccanicistico plausibile. Per ipertensione polmonare e cardiopatia, il profilo di rischio cardiovascolare e di ritenzione idrica degli inibitori COX-2 è un elemento sfavorevole.
 
-Attualmente nessuno studio clinico correlato registrato per l'etoricoxib nel disturbo dell'emicrania.
+## Evidenze da studi clinici
 
----
+Al momento non risulta alcuno studio clinico registrato correlato.
 
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
-Attualmente nessuna letteratura correlata disponibile per l'etoricoxib nel disturbo dell'emicrania.
+Per l'emicrania (indicazione principale prevista):
 
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Review | Pain management | Scoping review sulla cefalea da digiuno durante il Ramadan; non specifica per etoricoxib e senza evidenza diretta nell'emicrania |
+
+Per indicazioni correlate (cefalee e altre forme):
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/) | 2022 | Serie di casi | Headache | Cefalee responsive all'indometacina sensibili a etoricoxib e celecoxib, con minori effetti avversi gastrointestinali |
+| [36893522](https://pubmed.ncbi.nlm.nih.gov/36893522/) | 2023 | Case report | Clin Neurol Neurosurg | Due pazienti con cefalea da tosse secondaria, risposta a etoricoxib |
+| [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/) | 2008 | Case report/serie | Eur J Neurol | La cefalea a stilettata primaria può rispondere a etoricoxib |
+| [17883876](https://pubmed.ncbi.nlm.nih.gov/17883876/) | 2007 | Case report | J Med Case Rep | Uso di etoricoxib in cefalea a stilettata idiopatica |
+| [29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/) | 2017 | Preclinico (animale/in vitro) | Mediators Inflamm | Effetti di nimesulide, etoricoxib e ketoprofene sul rilascio di CGRP e PGE2 dai gangli trigeminali di ratto |
+| [25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/) | 2014 | Case report (evento avverso) | Clin Neuropharmacol | Sindrome da vasocostrizione cerebrale reversibile possibilmente indotta da etoricoxib (segnale di sicurezza) |
+| [21373319](https://pubmed.ncbi.nlm.nih.gov/21373319/) | 2010 | Case report (evento avverso) | Int J Emerg Med | Iperkaliemia grave e disfunzione renale acuta da etoricoxib in un paziente in terapia con telmisartan |
 
 ## Informazioni sul mercato italiano
 
-L'etoricoxib attualmente non ha autorizzazioni di commercializzazione registrate in Italia in questo dataset (0 autorizzazioni, stato del mercato: Non commercializzato).
+Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si elencano le prime 5:
 
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 043747068 | Etoricoxib 60 mg, 20 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
+| 043004252 | Etoricoxib 90 mg, 20 cpr rivestite (Sandoz) | Compresse rivestite | Non disponibile |
+| 035821204 | Algix 90 mg, 20 cpr rivestite (Neopharmed Gentili) | Compresse rivestite | Non disponibile |
+| 044969020 | Etoricoxib 90 mg, 20 cpr rivestite (Tecnigen) | Compresse rivestite | Non disponibile |
+| 043004151 | Etoricoxib 60 mg, 20 cpr rivestite (Sandoz) | Compresse rivestite | Non disponibile |
 
 ## Considerazioni di sicurezza
 
-Si prega di consultare il riassunto delle caratteristiche del prodotto per informazioni sulla sicurezza.
+- **Interazioni**: la ricerca ha individuato come unica voce il bersaglio farmacologico COX-2 (*PTGS2*); non sono disponibili interazioni farmaco-farmaco specifiche con livello di gravità.
+- **Segnali dalla letteratura**: sono stati riportati un caso di sindrome da vasocostrizione cerebrale reversibile possibilmente indotta da etoricoxib e un caso di iperkaliemia grave con disfunzione renale acuta in associazione a telmisartan e dieta povera di sodio. Gli inibitori COX-2 sono inoltre associati a rischio cardiovascolare e ritenzione idrica.
 
-> ⚠️ **Nota dall'Evidence Pack:** Un resoconto di caso di evento avverso (PMID [21373319](https://pubmed.ncbi.nlm.nih.gov/21373319/)) ha documentato iperkaliemia potenzialmente letale e disfunzione renale acuta con etoricoxib in un paziente in trattamento con telmisartan e una dieta povera di sodio. Un resoconto di caso separato (PMID [25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/)) ha descritto una sindrome di vasocostrizione cerebrale reversibile (RCVS) possibilmente indotta da etoricoxib — particolarmente rilevante dato che i pazienti con emicrania possono avere un rischio RCVS sovrapposto. Questi segnali, sebbene derivati dalla query di evidenza del disturbo cefalico piuttosto che dalla query di emicrania direttamente, sono clinicamente importanti per qualsiasi uso neurologico dell'etoricoxib.
-
----
+Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Sospensione**
+**Decisione: Hold**
 
 **Motivazione:**
-Il modello TxGNN assegna un punteggio quasi perfetto al disturbo dell'emicrania, ma la base di evidenza è interamente assente — nessuno studio clinico e nessuna pubblicazione affrontano direttamente l'etoricoxib per questa indicazione. La predizione è biologicamente plausibile a livello teorico (percorso COX-2/PGE₂/trigeminovascolare), ma la sola plausibilità biologica è insufficiente per far avanzare un candidato al riposizionamento. L'indicazione strettamente correlata del **disturbo cefalico (rango 9)** ha un caso di ricerca più forte, supportato da multiple serie di casi pubblicate che mostrano l'etoricoxib come un'alternativa efficace all'indometacina nelle sindromi di cefalea responsive all'indometacina, e dovrebbe essere considerato come l'obiettivo di ricerca a breve termine più attuabile.
+La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da un meccanismo plausibile, senza studi clinici né letteratura diretta su etoricoxib. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano dati di sicurezza dal foglio illustrativo. Le cefalee primarie rare (cefalea a stilettata, cefalee responsive all'indometacina) mostrano segnali aneddotici come possibile linea di ricerca (livello L4).
 
-**Per procedere, è necessario quanto segue:**
-
-- **Dati MOA da DrugBank:** Recuperare la farmacologia completa, i bersagli del farmaco e il profilo di tossicità per l'etoricoxib (DB01628) per completare l'analisi del meccanismo d'azione e perfezionare il razionale del percorso dell'emicrania.
-- **Riassunto delle caratteristiche del prodotto TFDA/EMA:** Ottenere il testo completo delle controindicazioni e degli avvertimenti chiave (attualmente bloccando lo screening di sicurezza preliminare alla fase S0) per valutare se l'uso neurologico/vascolare è formalmente controindicato.
-- **Ricerca letteraria mirata:** Condurre una ricerca dedicata su PubMed combinando specificamente "etoricoxib" AND "migraine" (piuttosto che il termine di malattia di suscettibilità più ampio utilizzato in questo dataset) per confermare se esiste alcuna prova diretta che sia stata persa dalla strategia di interrogazione attuale.
-- **Riclassificare il candidato principale:** Considerare di elevare il **disturbo cefalico** (rango 9, Livello di evidenza L4, fase S1) come il candidato principale al riposizionamento per l'investigazione a breve termine, dato che ha prova diretta di casi pubblicati dell'efficacia dell'etoricoxib e un collegamento meccanicistico chiaro attraverso il percorso indometacina-COX-2.
-- **Valutazione del rischio RCVS:** Prima di perseguire qualsiasi indicazione neurologica, è richiesta una valutazione formale rischio-beneficio per RCVS (vasocostrizione indotta da etoricoxib) nei pazienti con emicrania — che già presentano sensibilità cerebrovascolare elevata.
-
+**Per procedere, è necessario:**
+- Recuperare avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
+- Condurre una revisione sistematica della letteratura sugli inibitori COX-2 nell'emicrania ed eventualmente studi controllati
+- Valutare il profilo cardiovascolare, renale e neurovascolare nei pazienti candidati
+- Chiarire la situazione regolatoria, dato che non esistono autorizzazioni valide in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

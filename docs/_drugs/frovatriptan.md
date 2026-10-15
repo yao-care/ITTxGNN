@@ -2,15 +2,15 @@
 layout: default
 title: Frovatriptan
 parent: Prove moderate (L3-L4)
-nav_order: 114
-evidence_level: L3
+nav_order: 216
+evidence_level: L4
 indication_count: 3
 ---
 
 # Frovatriptan
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **3** 
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,99 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-# Frovatriptano: Dall'emicrania acuta all'emicrania con aura del tronco encefalico
+# Frovatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
 
 ## Sintesi in una frase
 
-Il frovatriptano è un tripano di seconda generazione (agonista dei recettori 5-HT₁B/1D) consolidato per il trattamento acuto dell'emicrania con o senza aura negli adulti. Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura del tronco encefalico** — un sottotipo specifico storicamente considerato una controindicazione ai triptani ma ora riconosciuto come condividere gli stessi meccanismi trigeminovascolari. Questa previsione è supportata da **19 pubblicazioni** che includono meta-analisi, revisioni sistematiche e trial controllati randomizzati, sebbene nessun trial clinico dedicato a questo sottotipo specifico sia stato registrato.
+Il frovatriptan è un agonista dei recettori serotoninergici 5-HT1B/1D, originariamente usato per il trattamento acuto dell'emicrania con o senza aura. Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura del tronco encefalico**, ma al momento non risultano **sperimentazioni cliniche registrate** per questa indicazione specifica; sono disponibili **18 pubblicazioni** sull'emicrania in generale, che non trattano in modo specifico questo sottotipo.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Emicrania acuta (con o senza aura) |
-| Indicazione nuova prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di previsione TxGNN | 99.98% |
-| Livello di evidenza | L3 |
-| Stato di commercializzazione in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con cautele |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emicrania (con o senza aura); il testo delle indicazioni approvate AIFA non è disponibile nei dati compilati |
+| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
+| Punteggio di previsione TxGNN | 99,98% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
 ## Perché questa previsione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili dal database normativo. Sulla base della letteratura pubblicata, il frovatriptano è un agonista selettivo dei recettori 5-HT₁B/1D. Si ritiene che il suo meccanismo comporti due azioni complementari: la vasocostrizione dei vasi sanguigni intracranici dilatati e l'inibizione dei terminali nervosi trigemini dal rilascio di neuropeptidi pro-infiammatori incluso il CGRP (peptide correlato al gene della calcitonina) e la sostanza P. Tra tutti i triptani, il frovatriptano è distintivo per la sua emivita plasmatica eccezionalmente lunga (~26 ore) e il corrispondente basso tasso di recidiva dell'emicrania (~17%).
+I dati compilati non riportano il meccanismo d'azione dettagliato. In base alle conoscenze note, il frovatriptan appartiene alla classe dei triptani; la letteratura lo descrive come agonista dei recettori 5-HT1B e 5-HT1D, con inibizione della vasodilatazione delle arterie intracraniche ed extracerebrali e possibile effetto antinfiammatorio. Il meccanismo preciso resta non del tutto chiarito.
 
-L'emicrania con aura del tronco encefalico (precedentemente denominata emicrania di tipo basilare) coinvolge gli stessi meccanismi trigeminovascolari e le proiezioni serotoninergiche del rafe dorsale del tronco encefalico dell'emicrania ordinaria, rendendo il collegamento meccanicistico al frovatriptano diretto e biologicamente credibile. Inoltre, l'emivita prolungata del frovatriptano è particolarmente vantaggiosa per questo sottotipo, che caratteristicamente si presenta con una durata di attacco prolungata e difficile da controllare.
+L'emicrania con aura del tronco encefalico è un sottotipo di emicrania e condivide la fisiopatologia neurovascolare e trigeminovascolare dell'indicazione originale. Ciò è coerente con l'elevato punteggio TxGNN (0,9998), che riflette la forte sovrapposizione a livello di malattia.
 
-Storicamente, i triptani erano evitati nell'emicrania con aura del tronco encefalico a causa di preoccupazioni teoriche sulla vasocostrizione nella circolazione posteriore. Tuttavia, le linee guida cliniche moderne — in particolare la valutazione dell'evidenza dell'American Headache Society (AHS 2015) — hanno riconsiderato e sostanzialmente allentato questa restrizione, riflettendo i dati accumulati da studi nel mondo reale e trial che mostrano una sicurezza accettabile. Il punteggio di previsione TxGNN del 99.98%, combinato con questa plausibilità meccanicistica e a livello di linee guida, fornisce una forte base scientifica per un'esplorazione clinica formale.
+Va però sottolineata una cautela importante: i triptani sono stati storicamente usati con prudenza nell'aura del tronco encefalico (in passato "emicrania di tipo basilare") per il timore teorico di vasocostrizione. La letteratura raccolta supporta l'efficacia nell'emicrania in generale e in quella con aura, ma non affronta questo sottotipo. La sicurezza in questa popolazione resta quindi non dimostrata.
 
----
-
-## Evidenza da trial clinici
-
-Al momento nessun trial clinico correlato è registrato.
+Le altre due previsioni (atrofoderma vermiculata e ulerythema ophryogenesis) non hanno alcun razionale meccanicistico plausibile, né studi o letteratura a supporto; sono considerate solo previsioni computazionali (livello L5, decisione Hold) e non sono approfondite in questo report.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze dagli studi clinici
 
-| PMID | Anno | Tipo | Journal | Risultati principali |
-|------|------|------|---------|----------------------|
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi | J Headache Pain | Meta-analisi testa a testa del frovatriptano vs. rizatriptano, zolmitriptano e almotriptano nell'emicrania con aura; dati di confronto direttamente rilevanti |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione sistematica / Linee guida | Headache | Valutazione dell'evidenza AHS 2015 dei farmaci per la farmacoterapia acuta dell'emicrania; linee guida riviste sull'uso dei triptani nel sottotipo emicrania con aura del tronco encefalico |
-| [18457529](https://pubmed.ncbi.nlm.nih.gov/18457529/) | 2008 | Fase 3 | Expert Rev Neurother | Frovatriptano caratterizzato come agonista 5-HT₁B/1D con emivita di 26 ore e tasso di recidiva del 17%; efficacia confermata nell'emicrania con/senza aura e nell'emicrania mestruale |
-| [24363238](https://pubmed.ncbi.nlm.nih.gov/24363238/) | 2014 | RCT | Cephalalgia | Combinazione di frovatriptano + desketoprofene vs. monoterapia con frovatriptano nell'emicrania con o senza aura; la combinazione ha dimostrato sollievo dai sintomi superiore |
-| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Analisi di sottogruppo di RCT | Neurological Sciences | Frovatriptano vs. zolmitriptano in pazienti con emicrania con aura; RCT doppio cieco, multicentrico italiano, analisi di sottogruppo; informa direttamente l'uso nel sottotipo aura |
-| [27757013](https://pubmed.ncbi.nlm.nih.gov/27757013/) | 2016 | Revisione narrativa | Drug Des Dev Ther | Revisione completa del profilo clinico del frovatriptano; sottolinea i vantaggi dell'emivita lunga per la gestione degli attacchi prolungati e ricorrenti |
-| [22900951](https://pubmed.ncbi.nlm.nih.gov/22900951/) | 2012 | Revisione narrativa | CNS Drugs | Revisione farmacologica del frovatriptano; meccanismo dell'agonismo 5-HT₁B/1D che produce vasocostrizione cranica e possibili effetti anti-infiammatori |
-| [24867847](https://pubmed.ncbi.nlm.nih.gov/24867847/) | 2014 | Analisi di sottogruppo | Neurological Sciences | Efficacia del frovatriptano nei sottogruppi BMI (peso normale vs. obesi) nei dati pooled dell'RCT italiano |
-| [23695053](https://pubmed.ncbi.nlm.nih.gov/23695053/) | 2013 | Analisi di sottogruppo | Neurological Sciences | Efficacia del frovatriptano negli emicranici ipertesi vs. normotesi; tre studi crociati doppio-ciechi randomizzati italiani |
-| [27910087](https://pubmed.ncbi.nlm.nih.gov/27910087/) | 2017 | Revisione | Headache | Opzioni di trattamento dell'emicrania mestruale; regime di mini-profilassi con frovatriptano valutato insieme alle strategie di trattamento acuto |
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ---
 
-## Informazioni del mercato italiano
+## Evidenze dalla letteratura
 
-Il frovatriptano attualmente non ha registrazioni di autorizzazioni al commercio nel database normativo italiano. Nessun record di autorizzazione è disponibile.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [26017535](https://pubmed.ncbi.nlm.nih.gov/26017535/) | 2015 | RCT (analisi post hoc) | Neurol Sci | Frovatriptan + dexketoprofene, assunzione precoce (≤1 h) vs tardiva, rispetto al frovatriptan da solo nell'emicrania con o senza aura |
+| [24363238](https://pubmed.ncbi.nlm.nih.gov/24363238/) | 2014 | RCT | Cephalalgia | Confronto tra frovatriptan + dexketoprofene (25 o 37,5 mg) e frovatriptan da solo negli attacchi emicranici |
+| [24867846](https://pubmed.ncbi.nlm.nih.gov/24867846/) | 2014 | RCT | Neurol Sci | Uso precoce vs tardivo di frovatriptan con dexketoprofene vs frovatriptan da solo |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi/Review | J Headache Pain | Efficacia del frovatriptan rispetto a rizatriptan, zolmitriptan e almotriptan nell'emicrania con aura |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | Valutazione dell'American Headache Society delle terapie farmacologiche per l'emicrania acuta |
+| [22900951](https://pubmed.ncbi.nlm.nih.gov/22900951/) | 2012 | Review | CNS Drugs | Farmacologia, efficacia e tollerabilità del frovatriptan nel trattamento acuto dell'emicrania |
+| [22644173](https://pubmed.ncbi.nlm.nih.gov/22644173/) | 2012 | Analisi di sottogruppo | Neurol Sci | Frovatriptan vs zolmitriptan in 18 pazienti con emicrania con aura (studio italiano in doppio cieco, crossover) |
+| [18457529](https://pubmed.ncbi.nlm.nih.gov/18457529/) | 2008 | Review | Expert Rev Neurother | Frovatriptan nel trattamento acuto e nella prevenzione dell'emicrania mestruale prevedibile; emivita lunga (26 h) e bassa ricorrenza |
+| [12028324](https://pubmed.ncbi.nlm.nih.gov/12028324/) | 2002 | Studi controllati con placebo | Headache | Conferma dell'efficacia clinica del frovatriptan 2,5 mg |
+| [27757013](https://pubmed.ncbi.nlm.nih.gov/27757013/) | 2016 | Review | Drug Des Devel Ther | Panoramica dell'efficacia del frovatriptan; tre studi crossover di preferenza vs altri triptani |
 
 ---
 
-## Considerazioni di sicurezza
+## Informazioni sul mercato italiano
 
-Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata | Stato |
+|---------|------|------|-----------|------|
+| 042611020 | Frovatriptan 2,5 mg, 6 compresse rivestite (Mylan) | Compresse rivestite | Non disponibile | Cancellata |
+| 035673021 | Auradol 2,5 mg, 2 compresse rivestite (Lusofarmaco) | Compresse rivestite | Non disponibile | Cancellata |
+| 042910051 | Frovatriptan 2,5 mg, 6 compresse rivestite (Teva) | Compresse rivestite | Non disponibile | Cancellata |
+| 035674035 | Rilamig 2,5 mg, 6 compresse rivestite (Menarini) | Compresse rivestite | Non disponibile | Cancellata |
+| 042911053 | Frovatriptan 2,5 mg, 6 compresse rivestite (EG) | Compresse rivestite | Non disponibile | Cancellata |
+
+Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.
 
 ---
 
-## Conclusioni e prossimi passi
+## Considerazioni sulla sicurezza
 
-**Decisione: Procedere con cautele**
+- **Controindicazioni (da relazioni farmaco-malattia nel grafo di conoscenza, non dal foglietto illustrativo)**: ipertensione, diabete mellito e chetoacidosi diabetica, coronaropatia, vasospasmo coronarico e angina di Prinzmetal, ischemia miocardica, ictus e disturbi cerebrovascolari, infarto cerebrale, attacco ischemico transitorio, insufficienza vertebrobasilare, arresto cardiaco improvviso, malattie della conduzione cardiaca, arteriopatia periferica e claudicatio intermittens, malattia di Raynaud, ischemia intestinale, sindrome serotoninergica, emicrania emiplegica familiare o sporadica, obesità. In particolare, l'insufficienza vertebrobasilare e l'emicrania emiplegica sono rilevanti per l'indicazione prevista, data la vicinanza con l'aura del tronco encefalico.
+- **Interazioni farmacologiche**: sono state identificate 31 interazioni; tra quelle di gravità **maggiore** figurano dolasetron, palonosetron, ondansetron, granisetron (antiemetici 5-HT3), lorcaserina, fenfluramina, destrofenfluramina, sibutramina e blu di metilene (rischio di sindrome serotoninergica o effetti serotoninergici additivi). Di gravità **moderata**: morfina, codeina, idrocodone e deferasirox.
 
-**Razionale:**
-La base meccanicistica che collega l'agonismo 5-HT₁B/1D del frovatriptano all'emicrania con aura del tronco encefalico è biologicamente fondata e allineata con le linee guida AHS 2015 aggiornate che non vietano più categoricamente l'uso di triptani in questo sottotipo. Diciannove pubblicazioni — che spaziano da meta-analisi, revisioni sistematiche e RCT — forniscono una solida base di evidenza indiretta (L3) per questa direzione di indicazione specifica, anche se nessun trial dedicato all'aura del tronco encefalico è stato registrato.
+Per le avvertenze complete fare riferimento al foglietto illustrativo.
 
-**Per procedere è necessario:**
+---
 
-- Trial clinici dedicati che reclutino pazienti specificamente diagnosticati con emicrania con aura del tronco encefalico secondo i criteri ICHD-3 (registrazione NCT consigliata)
-- Foglio illustrativo ufficiale (SmPC riconosciuto da AIFA) per confermare formalmente gli avvertimenti attuali, le controindicazioni e le condizioni di prescrizione in Italia
-- Caratterizzazione farmacocinetica/farmacodinamica formale dell'attività del frovatriptano nella circolazione posteriore e nella vascolatura del tronco encefalico
-- Dati nel mondo reale o dati di registro sull'uso di triptani nella popolazione con emicrania con aura del tronco encefalico per integrare l'attuale evidenza trial indiretta
+## Conclusione e prossimi passi
 
+**Decisione: Hold**
+
+**Motivazione:**
+Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione. Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica.
+
+**Per procedere sono necessari:**
+- Dati di meccanismo d'azione (MOA) completi
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Revisione della letteratura e dei dati di sicurezza specifici sull'uso dei triptani nell'aura del tronco encefalico
+- Chiarimento dello stato regolatorio e della reale disponibilità del farmaco in Italia
+- Eventuale studio clinico esplorativo con criteri rigorosi di esclusione per i pazienti a rischio cardiovascolare e cerebrovascolare
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

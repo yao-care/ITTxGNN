@@ -2,7 +2,7 @@
 layout: default
 title: Ebastina
 parent: Solo previsione del modello (L5)
-nav_order: 84
+nav_order: 162
 evidence_level: L5
 indication_count: 0
 ---

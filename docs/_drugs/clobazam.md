@@ -2,7 +2,7 @@
 layout: default
 title: Clobazam
 parent: Prove moderate (L3-L4)
-nav_order: 54
+nav_order: 114
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,75 +29,89 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Clobazam: Dalla sindrome di Lennox-Gastaut (terapia adiuvante) alla sindrome epilettica correlata a infezione febbrile
+# Clobazam: dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
 
-## Riassunto in una frase
+## Sintesi
 
-Il clobazam è una benzodiazzepin-1,5 con un uso consolidato come ansiolitico e come terapia adiuvante anticrisi — in particolare per la sindrome di Lennox-Gastaut (LGS), per la quale dispone dell'approvazione della FDA.
-Il modello TxGNN prevede che possa essere efficace per la **sindrome epilettica correlata a infezione febbrile (FIRES)**,
-con **0 studi clinici** e **2 pubblicazioni** che supportano attualmente questa direzione specifica.
+Il clobazam è una benzodiazepina utilizzata come antiepilettico, con indicazione originaria per la **sindrome di Lennox-Gastaut**. Il modello TxGNN predice una possibile efficacia per la **sindrome epilettica correlata a infezione febbrile (FIRES)**, ma i dati compilati per questo report non contengono studi clinici registrati e includono solo **2 pubblicazioni** (serie di casi), che non valutano direttamente il clobazam. L'evidenza si basa quindi essenzialmente sulla predizione del modello.
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Ansiolitico; trattamento anticroisi adiuvante nella LGS (nessuna autorizzazione italiana in archivio) |
-| Indicazione prevista nuova | Sindrome epilettica correlata a infezione febbrile (FIRES) |
-| Punteggio di predizione TxGNN | 99.82% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Sindrome di Lennox-Gastaut (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
+| Nuova indicazione predetta | Sindrome epilettica correlata a infezione febbrile (FIRES) |
+| Punteggio di predizione TxGNN | 99,82% |
 | Livello di evidenza | L4 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 3 (tutte revocate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è plausibile?
 
-## Perché questa predizione è ragionevole?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nel database. In base alle conoscenze generali, il clobazam è un modulatore allosterico positivo del recettore GABA-A, e la sua efficacia nella sindrome di Lennox-Gastaut è nota. Meccanicisticamente, potrebbe essere applicabile anche ad altre epilessie refrattarie.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. In base alle informazioni disponibili, il clobazam è una benzodiazzepin-1,5 — strutturalmente distinta dalle benzodiazzepin-1,4 classiche (come il diazepam e il clonazepam). La letteratura pubblicata la descrive in modo coerente come un modulatore allosterico positivo dei recettori GABA-A con una preferenza segnalata per le sottounità α2/α3 rispetto alla α1, che potrebbe tradursi in uno spettro anticrisi più ampio e un carico di sedazione relativamente inferiore. Ciò ha supportato il suo ruolo non solo come ansiolitico ma come agente adiuvante anticrisi in sindromi farmacoresistenti, inclusa la sindrome di Lennox-Gastaut e la sindrome di Dravet (dove fa parte del protocollo stiripentol approvato).
+La FIRES è una sindrome epilettica refrattaria, una forma di stato epilettico refrattario di nuova insorgenza (NORSE) che colpisce bambini precedentemente sani. Viene spesso trattata con agenti GABAergici (benzodiazepine, barbiturici) e con anestetici ad alte dosi. Questo spiega perché una benzodiazepina come il clobazam risulti plausibile per il modello.
 
-FIRES è una forma di stato di male epilettico di nuova insorgenza ultraresistente ai farmaci innescata da una malattia febbrile, che colpisce prevalentemente bambini precedentemente sani. La gestione clinica si concentra sul coma farmacologico con midazolam IV o altri anestetici generali — agenti che condividono lo stesso meccanismo di modulazione GABA-A del clobazam. La predizione di TxGNN è fondata meccanicisticamente: poiché le crisi in FIRES sono guidate dal fallimento del circuito GABA-A, il potenziamento del tono inibitorio tramite modulazione GABA-A è sia la strategia acuta consolidata che il bersaglio logico per il mantenimento. La biodisponibilità orale ed enterale del clobazam gli conferisce un vantaggio distintivo come potenziale agente di transizione durante la fase critica di svezzamento, quando i pazienti devono essere trasferiti dalla sedazione IV. Una serie di casi nel pacchetto di evidenze (PMID 35770765) dimostra il lorazepam enterale come efficace sostituto di svezzamento in pazienti con FIRES dipendenti da midazolam, illustrando direttamente la razionalità clinica che potrebbe estendersi al clobazam.
+Va però sottolineato che le due pubblicazioni recuperate riguardano il lorazepam enterale e il perampanel, non il clobazam. Supportano la plausibilità dell'uso di benzodiazepine, ma non testano il farmaco in esame. Il punteggio molto elevato di TxGNN è una predizione, non un'evidenza clinica.
 
-Va notato che nessuna sperimentazione clinica è stata registrata specificamente per indagare il clobazam in FIRES, e la malattia è estremamente rara e grave. Il punteggio TxGNN di 99.82% probabilmente riflette la forte sovrapposizione meccanicistica all'interno del panorama benzodiazzepin-GABA-A piuttosto che dati di efficacia specifici della malattia. La predizione dovrebbe attualmente essere considerata come un'ipotesi da esplorare piuttosto che come una raccomandazione clinica.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenza da studi clinici
+## Evidenze dalla letteratura
 
-Attualmente nessuna sperimentazione clinica correlata registrata.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Serie di casi | Epileptic Disorders | Il lorazepam enterale come strategia di svezzamento efficace nei pazienti con FIRES dipendenti da midazolam |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Caso clinico | Cureus | Possibile ruolo del perampanel nel ridurre la dipendenza da barbiturici in un ragazzo di 13 anni con FIRES |
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza dalla letteratura
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 045041035 | EPACLOB flacone orale sospensione 250 ml 1 mg/ml (revocata) | Sospensione orale | Non disponibile |
+| 045041023 | EPACLOB flacone orale sospensione 150 ml 1 mg/ml (revocata) | Sospensione orale | Non disponibile |
+| 045041062 | EPACLOB flacone orale sospensione 250 ml 2 mg/ml (revocata) | Sospensione orale | Non disponibile |
 
-| PMID | Anno | Tipo | Rivista | Principali risultati |
-|------|------|------|---------|-----------|
-| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Serie di casi | Epileptic Disorders | Il lorazepam enterale è stato utilizzato come efficace sostituto di svezzamento in pazienti con FIRES dipendenti da midazolam; supporta il concetto di terapia di transizione benzodiazzepin orale/enterale durante la fase di svezzamento da BZD |
-| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Caso clinico | Cureus | Il perampanel ha ridotto la dipendenza dal barbiturico in un tredicenne con FIRES; evidenzia il bisogno clinico insoddisfatto di agenti di svezzamento non anestetici e la rilevanza delle opzioni anticroisi non-IV |
+Tutte e tre le autorizzazioni (titolare: Ethypharm S.A.) risultano revocate; non sono presenti autorizzazioni valide.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra le principali di livello **Maggiore**: morfina (anche liposomiale) ed eliglustat. Tra quelle di livello **Moderato**: bupropione, aprepitant, omeprazolo, esomeprazolo, lansoprazolo, cimetidina, claritromicina, metoclopramide, dronabinolo, fenfluramina e dexfenfluramina. Gli antiacidi (ossido, carbonato e idrossido di magnesio, idrossido di alluminio, carbonato di calcio, magaldrato) mostrano interazioni di livello **Minore**.
+- **Aspetti da considerare**: sedazione, tolleranza ed eventi avversi comportamentali meritano attenzione, in particolare nei bambini.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Per le avvertenze e le controindicazioni complete, consultare il foglio illustrativo.
 
----
+## Conclusioni e prossimi passi
 
-## Conclusione e prossimi passi
+**Decisione: Hold**
 
-**Decisione: In sospeso**
+**Motivazione:**
+Per la FIRES non esistono studi clinici né dati diretti sul clobazam; l'evidenza è limitata a predizione del modello e a letteratura su altri farmaci. Inoltre, in Italia tutte le autorizzazioni sono revocate e i dati di sicurezza da foglio illustrativo non sono disponibili.
 
-**Razionale:**
-Il collegamento meccanicistico tra la modulazione GABA-A del clobazam e la fisiopatologia di FIRES è plausibile, ma l'attuale base di evidenze consiste di sole 2 pubblicazioni a livello di caso che coinvolgono benzodiazzepin correlate — non il clobazam stesso. Nessuna sperimentazione clinica è stata registrata, e il livello di evidenza è L4. L'Italia non ha alcuna autorizzazione di commercializzazione per il clobazam, e i dati di sicurezza non sono disponibili per una valutazione formale.
+**Per procedere sono necessari:**
+- Dati diretti sul clobazam nella FIRES (serie di casi o studi clinici specifici)
+- Acquisizione del foglio illustrativo AIFA con avvertenze e controindicazioni
+- Dati sul meccanismo d'azione
+- Verifica della disponibilità di una formulazione autorizzata in Italia, adatta alla popolazione pediatrica
+- Piano di monitoraggio della sicurezza (sedazione, tolleranza, eventi comportamentali, interazioni con oppioidi)
 
-**Per procedere, è necessario quanto segue:**
-- Dati del meccanismo d'azione (MOA) da DrugBank per confermare formalmente il profilo di legame della sottounità GABA-A
-- Avvertimenti del foglio illustrativo italiano/TFDA e controindicazioni per completare il profilo di sicurezza
-- Serie di casi prospettica o studio pilota valutando il clobazam specificamente come agente di svezzamento enterale in FIRES o NORSE (Stato di male epilettico refrattario di nuova insorgenza)
-- Profilo di interazione farmaco-farmaco con agenti comunemente co-somministrati nella gestione ICU di FIRES (es. ketamine, phenobarbital, valproate, topiramate)
-- Chiarimento del percorso normativo: il clobazam non è attualmente commercializzato in Italia, quindi qualsiasi impiego clinico richiederebbe un programma di uso compassionevole o autorizzazione off-label
+## Altre indicazioni predette (per riferimento)
 
+| Indicazione predetta | Punteggio TxGNN | Livello di evidenza | Raccomandazione |
+|------|------|------|------|
+| Epilessia con mioclonie periorali e assenze | 99,79% | L5 | Hold |
+| Spasmi epilettici tardivi criptogenici | 99,77% | L5 | Hold |
+| Epilessia infantile atipica con punte centrotemporali | 99,77% | L4 | Research Question |
+| Epilessia fotosensibile del lobo occipitale | 99,77% | L5 | Hold |
+| **Encefalopatia epilettica a esordio infantile** | 99,59% | L3 | **Proceed with Guardrails** |
+| Epilessia occipitale benigna | 99,58% | L4 | Research Question |
+| Encefalopatia epilettica precoce da mutazione GRIN2A | 99,40% | L5 | Hold |
+| Sindrome delle gambe senza riposo | 99,30% | L5 | Hold |
+| Polimicrogiria con ipoplasia del nervo ottico | 99,09% | L5 | Hold |
+
+Tra queste, l'**encefalopatia epilettica a esordio infantile** è l'indicazione con il supporto più solido (linee guida e revisioni su LGS, sindrome di Dravet e altre encefalopatie dello sviluppo e epilettiche che discutono il clobazam). Si tratta però di un'estrapolazione dall'indicazione già nota, e richiede conferma specifica per sindrome.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

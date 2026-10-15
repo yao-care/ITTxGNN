@@ -2,7 +2,7 @@
 layout: default
 title: Cefditoren
 parent: Solo previsione del modello (L5)
-nav_order: 47
+nav_order: 94
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,72 +29,75 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Cefditoren: Dalle infezioni batteriche alla suscettibilità all'osteoartrosi
+# Cefditoren: Dall'infezione batterica all'osteoartrite (suscettibilità)
 
-## Riepilogo in una frase
+## Sintesi in una frase
 
-Cefditoren è un antibiotico cefalosporina di terza generazione che agisce legandosi alle proteine che legano la penicillina (PBP) per inibire la sintesi della parete cellulare batterica, originariamente indicato per infezioni batteriche delle vie respiratorie e della pelle/tessuti molli.
-Il modello TxGNN predice che potrebbe essere efficace per **Suscettibilità all'osteoartrosi**,
-tuttavia attualmente non ci sono **studi clinici** e **nessuna pubblicazione** che supportano questa direzione.
-
----
+Cefditoren è un antibiotico cefalosporinico orale di terza generazione. Il modello TxGNN ne prevede una possibile efficacia per la **suscettibilità all'osteoartrite**, ma i dati compilati per questo report non riportano **alcuno studio clinico** né **alcuna pubblicazione** a supporto di tale direzione. La previsione resta puramente computazionale.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Infezioni batteriche (vie respiratorie, pelle/tessuti molli — classe antibiotica cefalosporina) |
-| Nuova indicazione prevista | Suscettibilità all'osteoartrosi |
-| Punteggio di previsione TxGNN | 99.16% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione approvata è vuoto in tutte le autorizzazioni) |
+| Nuova indicazione prevista | Suscettibilità all'osteoartrite (seconda previsione: artrite reumatoide) |
+| Punteggio di previsione TxGNN | 99,16% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
-
----
+| Stato sul mercato italiano | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo set di dati. Sulla base delle informazioni farmacologiche note, cefditoren è un antibiotico β-lattamico cefalosporina di terza generazione. Esercita il suo effetto antibatterico legandosi covalentemente alle proteine che legano la penicillina (PBP) sulla superficie cellulare batterica, bloccando così la transpeptidazione e inibendo la sintesi della parete cellulare batterica, portando infine alla lisi cellulare e alla morte.
+Allo stato attuale i dati sul meccanismo d'azione non sono disponibili. Cefditoren è una cefalosporina orale di terza generazione la cui azione antibatterica deriva dall'inibizione della sintesi della parete cellulare batterica (legame alle proteine leganti la penicillina).
 
-Il collegamento meccanicistico tra cefditoren e la suscettibilità all'osteoartrosi è estremamente tenue. L'inibizione delle metallo-proteinasi di matrice (MMP) è un bersaglio terapeutico primario nell'osteoartrosi, ma nessun antibiotico β-lattamico è noto per inibire direttamente gli MMP. Sebbene alcuni composti β-lattamici abbiano mostrato una debole modulazione della via NF-κB in esperimenti in vitro isolati, nessun dato del genere esiste per cefditoren in particolare, e questo effetto non è considerato una proprietà farmacologica clinicamente significativa per questa classe.
+I dati compilati non indicano alcun legame meccanicistico tra questo meccanismo e la fisiopatologia dell'osteoartrite (degradazione della cartilagine, infiammazione di basso grado, predisposizione genetica). Anche la dicitura «suscettibilità» suggerisce un fenotipo di associazione genetica più che una condizione clinica trattabile. Il punteggio elevato (0,992) riflette probabilmente la prossimità nel grafo di conoscenza, non una rilevanza biologica dimostrata. Qualsiasi ipotesi, ad esempio un effetto antinfiammatorio o antimicrobico, sarebbe speculativa.
 
-Il punteggio di previsione elevato del modello TxGNN (99.16%) molto probabilmente riflette i collegamenti indiretti dei nodi all'interno del grafo di conoscenza sottostante — per esempio, vicinanza di proteine bersaglio condivise o metriche di prossimità malattia-farmaco — piuttosto che qualsiasi attività farmacologica genuina contro l'osteoartrosi. Senza un ponte meccanicistico plausibile e in completa assenza di prove cliniche o precliniche corroboranti, questa previsione dovrebbe essere interpretata solo come un segnale generatore di ipotesi, non come evidenza azionabile.
+Per la seconda previsione, l'artrite reumatoide (punteggio 99,02%), vale lo stesso giudizio: cefditoren è un antibiotico beta-lattamico senza attività immunomodulatoria nota sulle vie rilevanti (TNF, IL-6, JAK, linfociti B/T). Esistono inoltre numerose terapie efficaci già approvate, quindi un riposizionamento richiederebbe un solido razionale preclinico, qui assente.
 
----
+## Evidenza da studi clinici
 
-## Prove da studi clinici
+Attualmente non risultano studi clinici correlati registrati.
 
-Attualmente non sono registrati studi clinici correlati.
+## Evidenza dalla letteratura
 
----
+Attualmente non è disponibile alcuna letteratura correlata.
 
-## Prove di letteratura
+## Informazioni sul mercato italiano
 
-Attualmente non è disponibile letteratura correlata.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
+|---------|------|------|-----------|
+| 037146040 | GIASION 10 cpr rivestite 400 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
+| 037147028 | REDEGUAN 20 cpr rivestite 200 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
+| 037146026 | GIASION 20 cpr rivestite 200 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
 
----
+Tutte e tre le autorizzazioni sono state cancellate; nessun prodotto risulta attualmente valido sul mercato italiano.
 
 ## Considerazioni sulla sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+- **Interazioni farmacologiche**: sono state identificate 27 interazioni, tutte di livello moderato. Tra le principali, secondo i dati compilati:
+  - **Antiacidi e sali di alluminio/magnesio/calcio/sodio**: idrossido di alluminio, carbonato di calcio, magaldrato, carbonato di magnesio, idrossido di magnesio, ossido di magnesio, citrato di sodio, bicarbonato di sodio.
+  - **Antagonisti dei recettori H2**: famotidina, ranitidina (anche come citrato di bismuto), cimetidina, nizatidina.
+  - **Inibitori di pompa protonica**: omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo.
+  - **Anticoagulanti**: dicumarolo.
 
----
+  Nel complesso, i farmaci che riducono l'acidità gastrica sono il gruppo più rappresentato.
 
-## Conclusioni e prossimi passi
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
-**Decisione: In sospeso**
+## Conclusione e prossimi passi
 
-**Razionale:**
-Questa previsione si basa esclusivamente su un punteggio del modello a grafo di conoscenza (L5), senza prove cliniche, pubblicazioni o studi preclinici di supporto; inoltre, non è stato stabilito nessun meccanismo farmacologicamente plausibile che colleghi un antibiotico cefalosporina alla patobiologia dell'osteoartrosi.
+**Decisione: Hold**
 
-**Per procedere, è necessario:**
-- Studi preclinici (in vitro / in vivo) che dimostrino qualsiasi attività anti-infiammatoria, inibitoria degli MMP o protettiva della cartilagine per cefditoren o cefalosporine correlate
-- Dati epidemiologici o di farmacovigilanza che esaminino l'incidenza dell'osteoartrosi nelle popolazioni di pazienti esposti agli antibiotici cefalosporina
-- Caratterizzazione completa del meccanismo d'azione rilevante per i percorsi della malattia articolare (NF-κB, IL-1β, TNF-α, cascata MMP)
-- Dati del foglio illustrativo sulla sicurezza (avvertimenti chiave, controindicazioni, interazioni farmacologiche) prima che possa iniziare qualsiasi valutazione della fattibilità clinica
-- Revisione normativa dei requisiti di autorizzazione del mercato italiano, nel caso in cui emergessero prove a supporto di un ulteriore sviluppo
+**Motivazione:**
+La previsione si basa solo sul modello TxGNN (livello L5), senza studi clinici, pubblicazioni o legame meccanicistico documentato. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo.
 
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e un razionale biologico plausibile verso l'osteoartrite o l'artrite reumatoide
+- Evidenze preclinicali o di letteratura a supporto
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Indicazione originale approvata, oggi non disponibile
+- Valutazione della fattibilità regolatoria e commerciale, dato lo stato di autorizzazioni cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

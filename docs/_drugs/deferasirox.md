@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Deferasirox
-parent: Solo previsione del modello (L5)
-nav_order: 66
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 136
+evidence_level: L4
 indication_count: 5
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,77 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# DEFERASIROX: Valutazione in sospeso — Nessuna previsione TxGNN disponibile
+# Deferasirox: Dall'indicazione originale (talassemia beta / emoglobinopatia) all'infezione da HIV
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-DEFERASIROX è un chelante del ferro per via orale utilizzato nel trattamento dell'accumulo cronico di ferro causato da trasfusioni di sangue e da condizioni correlate.
-L'attuale Dossier di evidenze non contiene **indicazioni previste da TxGNN**, e dati critici inclusi il meccanismo d'azione, gli avvertimenti di sicurezza e le autorizzazioni normative risultano assenti.
-Una valutazione completa del riposizionamento non può essere completata in questa fase.
+Deferasirox è un chelante del ferro, originariamente associato a talassemia beta ed emoglobinopatie.
+Il modello TxGNN prevede che possa essere efficace per l'**infezione da HIV**,
+ma il supporto attuale è limitato a **0 studi clinici** e **2 pubblicazioni** (una sola con dati mirati, di tipo preclinico).
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Non disponibile nel Dossier di evidenze |
-| Indicazione nuova prevista | Nessuna previsione generata |
-| Punteggio di predizione TxGNN | — |
-| Livello di evidenza | — (Nessuna previsione da valutare) |
-| Stato di commercializzazione in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | **Sospensione** |
-
----
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Talassemia beta ed emoglobinopatie (dal grafo di conoscenza TxGNN; nelle autorizzazioni AIFA il testo dell'indicazione non è disponibile) |
+| Nuova indicazione prevista | Infezione da HIV |
+| Punteggio di predizione TxGNN | 99,40% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
-Nessuna indicazione prevista da TxGNN è presente in questo Dossier di evidenze, quindi una razionale basata sul meccanismo per una specifica nuova indicazione non può essere fornita in questa fase.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, deferasirox è un chelante del ferro, la sua azione sul sovraccarico di ferro è collegata alle indicazioni originali (talassemia beta ed emoglobinopatie), e a livello meccanicistico potrebbe essere rilevante per l'HIV tramite l'omeostasi del ferro.
 
-DEFERASIROX è ampiamente riconosciuto come chelante del ferro tridentato con alta selettività per il ferro ferrico (Fe³⁺), formando complessi stabili che vengono escreti principalmente tramite le feci. È un trattamento consolidato per l'accumulo cronico di ferro trasfusionale in malattie come la beta-talassemia major e le sindromi mielodisplastiche. I dati del meccanismo d'azione (MOA) sono evidenziati come un gap informativo in questo Dossier e devono essere recuperati da DrugBank prima che qualsiasi analisi a livello di meccanismo possa procedere.
+Uno studio preclinico del 2021 (PMID 34550543) indica che il ferro negli endolisosomi limita la transattivazione della LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat e l'espressione di β-catenina. Questo collega il ferro alla trascrizione di HIV-1, ma si tratta di evidenza indiretta: non dimostra un'efficacia antivirale di deferasirox, e la chelazione del ferro potrebbe alterare questa via in entrambe le direzioni. L'altra pubblicazione è una panoramica generale di nuovi farmaci, senza dati specifici sull'HIV.
 
-Da un punto di vista scientifico, la disregolazione del ferro è stata implicata in una serie di condizioni al di là dell'accumulo di ferro — incluse alcune malignità, percorsi correlati alla ferroptosi e malattie neurodegenerative — rendendo DEFERASIROX un interessante candidato di riposizionamento in linea di principio. Tuttavia, senza l'output del modello TxGNN, qualsiasi tale ragionamento rimane speculativo e non deve essere citato come evidenza.
+La previsione resta quindi un'ipotesi di ricerca, non un'indicazione supportata da dati clinici.
 
----
+## Evidenze da studi clinici
 
-## Evidenza da trial clinici
+Attualmente non risultano studi clinici correlati registrati.
 
-Nessuna indicazione prevista da TxGNN è disponibile, quindi l'evidenza da trial clinici non può essere identificata o recuperata in questa fase.
+## Evidenze dalla letteratura
 
-Una volta che un'indicazione target è identificata tramite TxGNN, i trial rilevanti dovrebbero essere recuperati da [ClinicalTrials.gov](https://clinicaltrials.gov/).
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Studio preclinico/in vitro meccanicistico | Journal of neurovirology | Il ferro endolisosomiale limita la transattivazione della LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat e l'espressione di β-catenina |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Review | Journal of the American Pharmacists Association | Panoramica di nuovi farmaci (ramelteon, tipranavir, nepafenac, deferasirox); nessun dato specifico su HIV e deferasirox |
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza dalla letteratura
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 037421118 | EXJADE 30 cpr rivestite 90 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 037421144 | EXJADE 30 cpr rivestite 180 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 037421171 | EXJADE 30 cpr rivestite 360 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 049404015 | Deferasirox 30 cpr rivestite 90 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048432025 | Deferasirox 30x1 cpr rivestite 90 mg (Accord Healthcare) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
 
-Nessuna indicazione prevista da TxGNN è disponibile, quindi l'evidenza dalla letteratura non può essere identificata o recuperata in questa fase.
-
-Una volta che un'indicazione target è identificata, le pubblicazioni rilevanti dovrebbero essere recuperate da [PubMed](https://pubmed.ncbi.nlm.nih.gov/).
-
----
+Sono elencate 5 delle 20 autorizzazioni, tutte cancellate; nessuna risulta attualmente valida.
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+Non sono disponibili avvertenze e controindicazioni dal foglio illustrativo; si rimanda al foglio illustrativo per le informazioni di sicurezza.
 
-> Nota: Il foglio illustrativo TFDA è stato interrogato (2026-03-29) e un risultato è stato trovato (`result_count: 1`), ma gli avvertimenti e le controindicazioni non sono stati analizzati nel Dossier di evidenze. Questo è classificato come un gap informativo **Bloccante** (DG001) e deve essere risolto prima che la revisione di sicurezza possa procedere.
+- **Controindicazioni segnalate dal grafo di conoscenza** (non dal testo dell'etichetta): insufficienza epatica, malattia epatica, cirrosi, malattia renale e funzione renale ridotta, trombocitopenia, neutropenia (incluse le forme congenite), agranulocitosi, anemia, iperbilirubinemia, sindrome di Gilbert, ulcera peptica attiva, ipertensione oculare, sindrome da disfunzione multiorgano e cancro.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra quelle di livello **maggiore** figurano corticosteroidi (idrocortisone, desametasone, betametasone, triamcinolone), amfotericina B (incluse le formulazioni lipidiche e liposomiali), mesalazina, balsalazide e acido acetilsalicilico. Tra quelle di livello **moderato**: rabeprazolo, pioglitazone, alosetron, aprepitant, claritromicina, saxagliptin, idrossido di alluminio, cisapride e dexfenfluramina.
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e passaggi successivi
+**Decisione: Hold**
 
-**Decisione: Sospensione**
+**Motivazione:**
+Per l'HIV non esistono studi clinici e l'unico dato mirato è preclinico e indiretto. Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza è delicato (rischio epatico, renale ed ematologico, numerose interazioni maggiori). Per ora la previsione resta una domanda di ricerca.
 
-**Razionale:**
-Il Dossier di evidenze per DEFERASIROX è strutturalmente incompleto — non ci sono indicazioni previste da TxGNN e nessun dato di sicurezza o normativo. Una valutazione di riposizionamento non può procedere fino a quando i gap informativi bloccanti non sono risolti.
-
-**Per procedere, è necessario quanto segue:**
-
-- **[Bloccante — DG001]** Analizzare il foglio illustrativo TFDA (già recuperato, `result_count: 1`) per estrarre avvertimenti e controindicazioni
-- **[Alto — DG002]** Recuperare il meccanismo d'azione (MOA) da DrugBank (DB01609)
-- **[Critico]** Eseguire il modello TxGNN per generare indicazioni previste per DEFERASIROX
-- Confermare lo stato normativo nei mercati target (Italia / Taiwan) e recuperare i record di autorizzazione se esistono
-- Rieseguire il processo di generazione del Dossier di evidenze una volta che tutti gli input sono disponibili per produrre un Dossier v5 completo
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Studi in vitro e in vivo che verifichino l'effetto di deferasirox sulla replicazione di HIV-1 e sulla via Tat/LTR
+- Chiarimento sulle ragioni della cancellazione delle autorizzazioni e sulla disponibilità del farmaco in Italia
+- Valutazione del rapporto rischio/beneficio in persone con HIV, considerando tossicità epatica, renale ed ematologica e le interazioni farmacologiche
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

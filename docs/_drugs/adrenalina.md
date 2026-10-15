@@ -2,7 +2,7 @@
 layout: default
 title: Adrenalina
 parent: Solo previsione del modello (L5)
-nav_order: 16
+nav_order: 23
 evidence_level: L5
 indication_count: 0
 ---

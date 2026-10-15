@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cortisone
-parent: Solo previsione del modello (L5)
-nav_order: 62
-evidence_level: L5
+parent: Prove moderate (L3-L4)
+nav_order: 129
+evidence_level: L4
 indication_count: 9
 ---
 
 # Cortisone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,66 +29,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Cortisone: Valutazione del Riposizionamento Farmacologico — Dati Insufficienti per una Valutazione Completa
+# Cortisone: Dall'insufficienza surrenalica al linfoma cutaneo a cellule T primitivo
 
-## Riepilogo in una Frase
+## Sintesi in una frase
 
-Cortisone (DB14681) è un composto steroideo senza indicazioni originali registrate nel pacchetto di prove attuali.
-La pipeline TxGNN non ha restituito **alcuna indicazione nuova prevista** per questo candidato, e il farmaco **non è commercializzato in Italia**.
-Senza output di previsione o anamnesi normativa, una valutazione completa del riposizionamento non può essere completata in questo momento.
+Il cortisone è un glucocorticoide, profarmaco del cortisolo, storicamente usato nella terapia sostitutiva dell'insufficienza surrenalica e come antinfiammatorio. Il modello TxGNN ne predice una possibile efficacia nel **linfoma cutaneo a cellule T primitivo** (primary cutaneous T-cell lymphoma), ma il sostegno clinico è molto debole: **1 studio clinico** solo indirettamente correlato e **5 pubblicazioni**, tutte casi clinici o rassegne degli anni 1950-1960.
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione dell'unica autorizzazione è vuoto). Il dato più coerente è l'insufficienza surrenalica |
+| Nuova indicazione predetta | Linfoma cutaneo a cellule T primitivo |
+| Punteggio di predizione TxGNN | 99,67% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Non disponibile nei dati attuali |
-| Indicazione Nuova Prevista | Nessuna previsione generata |
-| Punteggio di Previsione TxGNN | N/A |
-| Livello di Evidenza | N/A — nessuna previsione da valutare |
-| Stato del Mercato Italiano | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Rinvio** |
+## Perché questa predizione è ragionevole?
 
----
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, il cortisone è un glucocorticoide che viene convertito nel cortisolo attivo dall'enzima 11β-HSD1. I glucocorticoidi inducono apoptosi nelle cellule linfoidi e sono da tempo usati come terapia aggiuntiva nei disordini linfoproliferativi, micosi fungoide inclusa.
 
-## Perché Questa Previsione è Ragionevole?
+Il legame con la nuova indicazione è quindi plausibile sul piano biologico, ma l'evidenza si limita a casi clinici degli anni 1950-1960. Lo studio clinico elencato non testa il cortisone e non riguarda il linfoma cutaneo a cellule T. Nella pratica moderna i corticosteroidi sono inoltre presenti solo come componenti di regimi combinati, con altri steroidi (prednisone, desametasone).
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di prove. In base alla classe farmacologica nota, Cortisone appartiene alla famiglia dei glucocorticoidi (corticosteroidi), ma né le indicazioni originali né il MOA sono stati compilati nei campi di dati strutturati.
+## Evidenze da studi clinici
 
-Nessuna indicazione originale è registrata nel campo `original_indications`, e il modello TxGNN ha restituito un array `predicted_indications` vuoto. Questo potrebbe indicare che il candidato è stato filtrato prima della valutazione, oppure che il grafo della conoscenza mancava di sufficienti spigoli per generare una previsione affidabile.
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT04799275](https://clinicaltrials.gov/study/NCT04799275) | Fase 2/3 | Attivo, non in reclutamento | 422 | R-miniCHOP con o senza azacitidina orale in pazienti ≥75 anni con linfoma diffuso a grandi cellule B. Sottotipo di linfoma diverso; il prednisone fa solo parte dello schema CHOP. Nessuna evidenza diretta per il linfoma cutaneo a cellule T |
 
-Senza dati sul meccanismo o output del modello, nessun ponte meccanicistico tra un'indicazione originale e una candidata indicazione nuova può essere costruito in questa fase.
+## Evidenze dalla letteratura
 
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [14169182](https://pubmed.ncbi.nlm.nih.gov/14169182/) | 1964 | Rassegna | Journal de médecine et de chirurgie pratiques | Rassegna sulla micosi fungoide (abstract non disponibile) |
+| [14896727](https://pubmed.ncbi.nlm.nih.gov/14896727/) | 1951 | Caso clinico | Dermatologica | Effetti del cortisone in due casi di micosi fungoide |
+| [14884116](https://pubmed.ncbi.nlm.nih.gov/14884116/) | 1951 | Caso clinico | Svenska läkartidningen | Terapia combinata ACTH e cortisone in impetigo erpetiforme, micosi fungoide ed eritrodermia psoriasica |
+| [13612293](https://pubmed.ncbi.nlm.nih.gov/13612293/) | 1958 | Caso clinico | Lyon médical | Due casi di micosi trattati con delta-cortisone; processo ulcero-necrotico terminale probabilmente legato al farmaco |
+| [13536705](https://pubmed.ncbi.nlm.nih.gov/13536705/) | 1957 | Caso clinico | Bulletin de la Société française de dermatologie et de syphiligraphie | Due casi di epitelioma bronchiale in pazienti con micosi fungoide trattati con cortisone |
 
-## Informazioni sul Mercato Italiano
+## Informazioni sul mercato italiano
 
-Cortisone non ha **alcuna autorizzazione di commercializzazione** in Italia. Nessun record di licenza è stato restituito dalla ricerca normativa.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 004561015 | CORTONE ACETATO*20 cpr 25 mg (TEOFARMA Srl) | Compresse | Non disponibile (autorizzazione cancellata) |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni sulla Sicurezza
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Le avvertenze e le controindicazioni ufficiali non sono disponibili nei dati compilati e non risultano interazioni farmacologiche registrate.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Dalla letteratura emerge comunque un segnale: nel caso dei pazienti con micosi fungoide trattati con cortisone è stato descritto un processo ulcero-necrotico terminale, probabilmente correlato al farmaco.
 
----
+## Conclusione e prossimi passi
 
-## Conclusione e Prossimi Passi
+**Decisione: Hold**
 
-**Decisione: Rinvio**
+**Motivazione:**
+La predizione ha un punteggio alto, ma l'evidenza è L4: solo casi clinici storici e nessuno studio che testi il cortisone nel linfoma cutaneo a cellule T. Il cortisone è inoltre commercializzato in Italia solo con un'autorizzazione cancellata, e i dati di sicurezza ufficiali mancano.
 
-**Giustificazione:**
-La pipeline TxGNN non ha prodotto alcuna indicazione prevista per Cortisone e gli input di dati critici — incluso il meccanismo d'azione e il testo dell'indicazione originale — sono mancanti. Senza un obiettivo di previsione, la valutazione del riposizionamento non può procedere.
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante)
+- Dati sul meccanismo d'azione da DrugBank
+- Studi clinici moderni su glucocorticoidi nel linfoma cutaneo a cellule T, con confronto rispetto a steroidi oggi in uso (prednisone, idrocortisone)
+- Valutazione della compatibilità delle vie di somministrazione
 
-**Per procedere, è necessario quanto segue:**
+## Altre indicazioni predette (panoramica)
 
-- **Risolvere DG001 (Blocco):** Ottenere il file PDF del foglio illustrativo dall'autorità normativa ufficiale e analizzare avvertenze chiave e controindicazioni. Questo è un gap di blocco che impedisce lo screening preliminare di sicurezza.
-- **Risolvere DG002 (Alto):** Interrogare l'API DrugBank per recuperare il meccanismo d'azione strutturato (MOA) per DB14681. Questo è richiesto per l'analisi della plausibilità meccanicistica.
-- **Investigare `predicted_indications` vuote:** Confermare se Cortisone è stato escluso dal punteggio TxGNN a causa di spigoli del grafo della conoscenza mancanti, oppure se il modello è stato eseguito ma non ha prodotto previsioni ad alta confidenza. Se il primo, integrare il KG con dati farmacologici curati e rieseguire.
-- **Compilare `original_indications`:** Reperire le indicazioni originali approvate dai record DrugBank o WHO INN e aggiungere al pacchetto di prove prima della rivalutazione.
+Per completezza, il quadro delle altre predizioni è il seguente:
 
+- **Insufficienza surrenalica** (punteggio 99,38%, L1, *Proceed with Guardrails*): è un uso consolidato più che un vero riposizionamento. Due studi di fase 3/4 completati (NCT02277587, NCT06260462) confrontano formulazioni di idrocortisone, non il cortisone stesso, quindi l'evidenza è indiretta. La pratica attuale preferisce l'idrocortisone.
+- **Sindrome mielodisplastica, linfosarcoma, colite di Crohn**: evidenza L4, *Hold*. Supporto clinico debole o indiretto (steroidi diversi inseriti in regimi combinati, o rassegne storiche).
+- **Candidosi**: L5, *Hold*. La letteratura usa il cortisone per immunosopprimere i modelli animali e favorire l'infezione, quindi vi è un possibile danno e non un razionale terapeutico.
+- **Citopenia refrattaria dell'infanzia, sindrome mielodisplastica non classificata, delezione parziale del braccio lungo del cromosoma 5**: L5, *Hold*. Solo predizione del modello, senza studi né letteratura.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

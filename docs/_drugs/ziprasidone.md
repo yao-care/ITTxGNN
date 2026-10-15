@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ziprasidone
-parent: Solo previsione del modello (L5)
-nav_order: 214
-evidence_level: L5
+parent: Prove elevate (L1-L2)
+nav_order: 469
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,101 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ziprasidone: dalla Schizofrenia alla Tricotillomania
+# Ziprasidone: dalla schizofrenia e dal disturbo bipolare al disturbo affettivo maggiore
 
-## Sommario in una frase
+## Riepilogo in una frase
 
-Ziprasidone è un antipsicotico di seconda generazione (atipico) utilizzato principalmente per la schizofrenia e il disturbo bipolare, con antagonismo dei recettori dopaminergici D2 e della serotonina 5-HT2A come profilo farmacologico fondamentale.
-Il modello TxGNN predice che potrebbe essere efficace per la **Tricotillomania** (disturbo da strappo di capelli, una condizione dello spettro OCD),
-tuttavia **nessuna sperimentazione clinica o letteratura pubblicata** attualmente supporta questa specifica direzione di riposizionamento — il livello di evidenza è **L5 (sola predizione del modello)**.
+Ziprasidone è un antipsicotico atipico, originariamente utilizzato per schizofrenia, disturbo bipolare e mania bipolare.
+Il modello TxGNN prevede che possa essere efficace per il **disturbo affettivo maggiore** (indicazione con il maggior supporto clinico tra le prime 10 previsioni), con **7 studi clinici** e **20 pubblicazioni** attualmente a supporto di questa direzione.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originale | Schizofrenia / Disturbo bipolare (uso farmacologico noto; nessuna licenza italiana in archivio) |
-| Nuova indicazione prevista | Tricotillomania |
-| Punteggio di predizione TxGNN | 99.83% |
-| Livello di evidenza | L5 — Sola predizione del modello, nessuno studio effettivo |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+|------|------|
+| Indicazione originale | Schizofrenia, disturbo bipolare, mania bipolare (dalla base di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Disturbo affettivo maggiore (major affective disorder) |
+| Punteggio di previsione TxGNN | 99,66% |
+| Livello di evidenza | L2 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 3 (tutte revocate) |
+| Decisione raccomandata | Proceed with Guardrails |
 
----
+Nota: la previsione con il punteggio più alto in assoluto è la trichotillomania (99,83%), ma senza alcuna evidenza clinica (L5). Questo report approfondisce il disturbo affettivo maggiore, perché è la previsione supportata dall'evidenza più solida. Anche la sindrome di Tourette (L3) ha un supporto parziale, descritto nelle conclusioni.
 
-## Perché questa predizione è ragionevole?
+## Perché questa previsione è plausibile?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili da questo pacchetto di evidenze. Sulla base delle conoscenze farmacologiche consolidate, ziprasidone è un antipsicotico atipico che agisce principalmente attraverso l'antagonismo dei recettori dopaminergici D2 e l'antagonismo della serotonina 5-HT2A, con agonismo parziale aggiuntivo ai recettori 5-HT1A e inibizione della ricaptazione della noradrenalina/serotonina. La sua efficacia nella schizofrenia e nella mania bipolare è stata confermata attraverso numerosi studi randomizzati controllati di Fase 3.
+I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report. In base alle conoscenze note, ziprasidone è un antagonista dei recettori 5-HT2A e D2, agonista parziale 5-HT1A e inibitore della ricaptazione di serotonina e noradrenalina. Questo profilo è mechanisticamente compatibile con l'azione sui disturbi dell'umore.
 
-La tricotillomania è classificata all'interno dei disturbi ossessivo-compulsivi e correlati (spettro OCD) nel DSM-5. Teoricamente, l'antagonismo del recettore D2 potrebbe attenuare i comportamenti ripetitivi compulsivi modulando i circuiti dopaminergici di ricompensa e di abitudine — un percorso condiviso con altri interventi dello spettro OCD. Inoltre, la componente di antagonismo 5-HT2A potrebbe contribuire al controllo degli impulsi attraverso la modulazione serotoninergica. Alcuni antipsicotici sono stati esplorati come agenti di potenziamento nei disturbi dello spettro OCD, fornendo una plausibilità biologica indiretta.
+Il disturbo bipolare è già un'indicazione originale del farmaco. Il segnale nuovo riguarda quindi soprattutto la depressione unipolare, la depressione psicotica e l'uso come terapia aggiuntiva (augmentation) agli antidepressivi. Altri antipsicotici atipici (quetiapina, aripiprazolo, olanzapina) hanno già ottenuto approvazioni come terapia aggiuntiva nella depressione maggiore, il che rafforza la plausibilità della classe.
 
-Tuttavia, questa razionale meccanicistica è altamente speculativa per la tricotillomania in modo specifico. Non sono state identificate sperimentazioni cliniche specifiche per ziprasidone né pubblicazioni in questa indicazione. La predizione di TxGNN probabilmente riflette la prossimità strutturale a livello di grafo all'interno della rete di conoscenze malattia-farmaco piuttosto che evidenza clinica diretta. In questa fase, la predizione dovrebbe essere trattata come segnale per la generazione di ipotesi soltanto, non come evidenza clinica azionabile.
+Va però precisato che non esistono studi di fase 3 specifici sull'efficacia nella depressione unipolare. Lo studio di fase 3 presente (NCT00421954) è un piccolo studio in aperto (n=8) su adolescenti psicotici e non costituisce evidenza di livello L1.
 
----
+## Evidenza dagli studi clinici
 
-## Evidenza da studi clinici
-
-Attualmente nessuno studio clinico correlato registrato.
-
----
+| Numero studio | Fase | Stato | Arruolamento | Risultati chiave |
+|---------|------|------|------|---------|
+| [NCT00633399](https://clinicaltrials.gov/study/NCT00633399) | Fase 2 | Completato | 458 | Ziprasidone aggiunto a SSRI in pazienti con depressione maggiore non responsivi, studio in tre fasi su efficacia e sicurezza |
+| [NCT00555997](https://clinicaltrials.gov/study/NCT00555997) | Fase 2 | Completato | 120 | Studio randomizzato, in doppio cieco, controllato con placebo, di 12 settimane, su ziprasidone nella depressione maggiore |
+| [NCT00490542](https://clinicaltrials.gov/study/NCT00490542) | Fase 2 | Completato | 73 | Studio in doppio cieco controllato con placebo nello stato misto depressivo |
+| [NCT00340379](https://clinicaltrials.gov/study/NCT00340379) | Fase 2/3 | Completato | 72 | Ziprasidone in monoterapia vs sertralina + aloperidolo nella depressione maggiore con sintomi psicotici |
+| [NCT01168674](https://clinicaltrials.gov/study/NCT01168674) | Fase 4 | Completato | 49 | Predittori di risposta all'augmentation con ziprasidone nella depressione maggiore (crossover in doppio cieco) |
+| [NCT00237666](https://clinicaltrials.gov/study/NCT00237666) | Fase 4 | Completato | 30 | Studio in aperto a dose flessibile nella depressione maggiore del disturbo bipolare II |
+| [NCT00421954](https://clinicaltrials.gov/study/NCT00421954) | Fase 3 | Completato | 8 | Studio di fattibilità in aperto in adolescenti con disturbo psicotico; valore probatorio limitato |
 
 ## Evidenza dalla letteratura
 
-Attualmente nessuna letteratura correlata disponibile.
-
----
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|------|-----|------|------|---------|
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Revisione sistematica/meta-analisi in rete | J Affect Disord | Confronto di efficacia e interruzione delle strategie di augmentation nella depressione resistente |
+| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Revisione sistematica/meta-analisi | Psychol Med | Efficacia e tollerabilità degli antipsicotici nella depressione maggiore, in monoterapia e in associazione |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Revisione sistematica/meta-analisi | J Psychopharmacol | Antidepressivi più antipsicotici di seconda generazione vs esketamina vs litio |
+| [40808264](https://pubmed.ncbi.nlm.nih.gov/40808264/) | 2025 | Revisione sistematica | Bipolar Disord | Interventi farmacologici nella depressione con caratteristiche miste |
+| [27835715](https://pubmed.ncbi.nlm.nih.gov/27835715/) | 2017 | Studio randomizzato (analisi di sicurezza) | J Clin Psychiatry | Effetti cardiaci, endocrini, metabolici e motori dell'augmentation con ziprasidone a escitalopram |
+| [27306192](https://pubmed.ncbi.nlm.nih.gov/27306192/) | 2016 | Analisi post-hoc di studio randomizzato | Int Clin Psychopharmacol | Effetto ansiolitico dell'augmentation con ziprasidone nella depressione ansiosa |
+| [26619770](https://pubmed.ncbi.nlm.nih.gov/26619770/) | 2015 | Revisione | Am J Psychiatry | Ziprasidone come terapia aggiuntiva nella depressione maggiore e stato degli antipsicotici atipici aggiuntivi |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Revisione | Asia Pac Psychiatry | Antipsicotici usati come antidepressivi, a dosi subantipsicotiche |
+| [19040553](https://pubmed.ncbi.nlm.nih.gov/19040553/) | 2008 | Revisione | CNS Neurosci Ther | Ziprasidone nei disturbi affettivi, con profilo metabolico favorevole |
+| [26891297](https://pubmed.ncbi.nlm.nih.gov/26891297/) | 2016 | Revisione sistematica/meta-analisi esplorativa | Int J Mol Sci | Antipsicotici atipici nella depressione bipolare acuta con caratteristiche miste |
 
 ## Informazioni sul mercato italiano
 
-Ziprasidone attualmente non detiene **nessuna autorizzazione di commercializzazione in Italia**. Nessun record di licenza è disponibile in questo pacchetto di evidenze.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 041339060 | ZIPRASIDONE 56 cps 20 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
+| 041339161 | ZIPRASIDONE 56 cps 40 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
+| 041339262 | ZIPRASIDONE 56 cps 60 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
 
-> Nota: Ziprasidone è commercializzato in altre giurisdizioni (ad es., come Geodon® negli Stati Uniti, Zeldox® in Europa) per la schizofrenia e la mania bipolare acuta. Lo stato di approvazione specifico per l'Italia dovrebbe essere verificato direttamente con AIFA.
+Tutte e tre le autorizzazioni risultano revocate: attualmente non vi sono prodotti validi in commercio in Italia.
 
----
+## Citotossicità
 
-## Considerazioni sulla sicurezza
+Ziprasidone non è un farmaco antineoplastico: sezione non applicabile.
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+## Considerazioni di sicurezza
 
-> Nota chiave: Ziprasidone comporta il noto rischio di prolungamento dell'intervallo QTc (rischio di classe), che rappresenta una preoccupazione particolare per l'uso in popolazioni non già monitorate in un contesto psichiatrico. Questo dovrebbe essere una considerazione di sicurezza primaria in qualsiasi valutazione di fattibilità futura.
+- **Controindicazioni segnalate dal grafo di conoscenza TxGNN** (non derivate dal testo del foglietto illustrativo): condizioni cardiache e di conduzione (sindrome del QT lungo, anche familiare; torsione di punta; infarto del miocardio; arresto cardiaco improvviso; malattie della conduzione cardiaca), ipotensione ortostatica e atrofia multisistemica, epilessia, insufficienza epatica, malattia renale, discrasie ematiche (neutropenia, agranulocitosi), disturbi metabolici (diabete, chetoacidosi diabetica, iperglicemia, iperlipidemia, obesità, carenza di potassio), carcinoma mammario femminile e disturbi del movimento (malattie dei gangli della base, distonia focale della mano, blefarospasmo).
+- **Rischio cardiaco**: la letteratura sottolinea la necessità di cautela sul prolungamento del QTc, in particolare nelle popolazioni pediatriche (PMID 39549076).
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra quelle di livello **maggiore** figurano idrocortisone, amfotericina B (anche in complesso lipidico), bupropione e morfina. Tra quelle di livello moderato: acarbose, famotidina, epinefrina, metformina, pioglitazone, atropina, loperamide, bisacodile e glicopirronio, tra gli altri. Alcune interazioni minori riguardano aprepitant e desametasone.
 
----
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo.
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Proceed with Guardrails**
 
-**Razionale:**
-Nessuno studio clinico o letteratura pubblicata supporta l'uso di ziprasidone nella tricotillomania. Il collegamento meccanicistico è biologicamente plausibile in linea di principio ma rimane completamente speculativo senza validazione preclinica o clinica. Vi è evidenza insufficiente per procedere oltre la generazione di ipotesi in questa fase.
+**Motivazione:**
+Per il disturbo affettivo maggiore esistono diversi studi randomizzati di fase 2 controllati con placebo e meta-analisi sulla classe degli antipsicotici come terapia aggiuntiva, ma manca evidenza di fase 3 specifica per ziprasidone (livello L2). Il rischio di prolungamento del QT e lo stato di mercato "solo revocate" richiedono cautele.
 
-**Per procedere, quanto segue è necessario:**
-- Recuperare e rivedere il foglio illustrativo completo (AIFA/EMA SmPC) per caratterizzare i principali avvertimenti, controindicazioni e rischi correlati a QTc
-- Confermare i dati dettagliati del meccanismo d'azione tramite DrugBank API (remediation DG002)
-- Condurre una ricerca letteraria mirata su antipsicotici e/o modulatori della dopamina nei disturbi dello spettro OCD, specificamente tricotillomania
-- Valutare se negli archivi al di fuori di ClinicalTrials.gov (ad es., EU CTR, ISRCTN) esistano studi esplorativi o promossi dagli investigatori
-- Se la razionale biologica è rafforzata, considerare la pianificazione di uno studio preclinico di dimostrazione del principio prima di qualsiasi investimento in studi clinici
+**Per procedere sono necessari:**
+- Studi di fase 3 randomizzati e controllati sulla depressione unipolare o psicotica
+- Dati sul meccanismo d'azione dalle fonti ufficiali (DrugBank)
+- Foglietto illustrativo AIFA con avvertenze e controindicazioni (al momento mancante, elemento bloccante per lo screening di sicurezza)
+- Piano di monitoraggio cardiaco (ECG/QTc, elettroliti) e verifica delle interazioni con farmaci che prolungano il QT
+- Valutazione della situazione regolatoria, dato che tutte le autorizzazioni italiane sono revocate
 
+**Altre previsioni:**
+- **Sindrome di Tourette** (punteggio 99,63%, livello L3, decisione indicativa: domanda di ricerca): vi è uno studio pilota pediatrico (PMID 10714048) e il razionale dell'antagonismo D2. Rimane però limitata a un piccolo studio e a revisioni e linee guida, senza studi clinici registrati, e richiede cautele sul QTc pediatrico.
+- **Tricotillomania** (punteggio 99,83%) e le restanti previsioni (idranencefalia, difetti congeniti della glicosilazione, miopie genetiche, distrofie retiniche, polimicrogiria): livello L5, decisione Hold. Sono solo previsioni computazionali, senza evidenza clinica; alcune sono probabilmente artefatti del grafo di conoscenza.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

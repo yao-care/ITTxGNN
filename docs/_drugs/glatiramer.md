@@ -2,7 +2,7 @@
 layout: default
 title: Glatiramer
 parent: Solo previsione del modello (L5)
-nav_order: 117
+nav_order: 221
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,76 +29,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Glatiramer: Dalla Sclerosi Multipla all'Emoglobinopatie
+# Glatiramer: dalla sclerosi multipla all'emoglobinopatia
 
-## Riassunto in Una Frase
+## Sintesi
 
-L'acetato di glatiramer (Copaxone) è un farmaco immunomodulante ben consolidato per la sclerosi multipla ricorrente-remittente (RRMS), che modula le risposte delle cellule T per sopprimere l'infiammazione neurologica.
-Il modello TxGNN predice che potrebbe essere efficace per **Emoglobinopatie**,
-tuttavia, con **nessuna sperimentazione clinica** e solo **1 case report tangenzialmente correlato**, la base di evidenze è estremamente limitata, collocando questa previsione al confine tra L4–L5.
+Glatiramer (glatiramer acetato) è un immunomodulatore utilizzato nella sclerosi multipla. Il modello TxGNN lo associa all'**emoglobinopatia** con un punteggio molto alto, ma l'associazione non è supportata da evidenze reali: non risultano **sperimentazioni cliniche** e l'unica **pubblicazione** collegata non riguarda questa indicazione.
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non riportata nei dati compilati per questo report (le autorizzazioni AIFA non contengono il testo dell'indicazione) |
+| Nuova indicazione prevista | Emoglobinopatia |
+| Punteggio di previsione TxGNN | 99,03% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 4 |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Sclerosi multipla ricorrente-remittente (RRMS) |
-| Nuova Indicazione Predetta | Emoglobinopatie |
-| Punteggio di Previsione TxGNN | 99.03% |
-| Livello di Evidenza | L4–L5 (borderline) |
-| Stato di Commercializzazione in Italia | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | In sospeso |
+## Perché questa previsione è (poco) plausibile?
 
----
+Il meccanismo d'azione originale non è disponibile nei dati compilati. In base alle conoscenze generali, glatiramer acetato è un immunomodulatore che sposta la risposta dei linfociti T verso un fenotipo Th2 e agisce come "esca" per la proteina basica della mielina nella sclerosi multipla.
 
-## Perché Questa Previsione è Ragionevole?
+Le emoglobinopatie (ad esempio anemia falciforme e talassemie) sono causate da difetti nella struttura o nell'espressione dei geni della globina. Con i dati disponibili non emerge alcun ponte meccanicistico plausibile tra l'azione immunomodulatoria di glatiramer e la fisiopatologia di queste malattie.
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo pacchetto di prove. Sulla base della conoscenza farmacologica consolidata, l'acetato di glatiramer è un polipeptide sintetico casuale di quattro aminoacidi (alanina, lisina, acido glutammico, tirosina) che imita la proteina basica della mielina (MBP). La sua azione primaria è spostare le risposte delle cellule T-helper da fenotipi pro-infiammatori Th1 verso fenotipi anti-infiammatori Th2, e indurre popolazioni di cellule T regolatorie che attenuano l'autoimmunità del sistema nervoso centrale.
+Il punteggio elevato di TxGNN è un risultato di un modello basato su grafi di conoscenza, non un'evidenza clinica. L'associazione è verosimilmente un artefatto della connettività del grafo, ad esempio tramite nodi condivisi legati al sistema immunitario o alla sclerosi multipla.
 
-Le emoglobinopatie — incluse la malattia falciforme (SCD) e la talassemia beta — sono fondamentalmente disturbi genetici causati da mutazioni nei geni della globina, che portano a emoglobina strutturalmente anomala o insufficiente e conseguenti globuli rossi disfunzionali. Mentre componenti infiammatorie secondarie sono sempre più riconosciute nella SCD (attivazione dell'endotelio vascolare, infiammazione sterile), il meccanismo della malattia principale è di natura ematopoietica e molecolare, non autoimmune.
+## Evidenze da sperimentazioni cliniche
 
-Il ponte meccanicistico tra l'asse immunomodulante mirato al SNC del glatiramer e la patobiologia primaria dell'emoglobinopia è indiretto nel migliore dei casi. Lo stesso pacchetto di prove fornito in questa valutazione riconosce che l'asse immunitario del glatiramer e la principale patologia dell'emoglobinopia mancano di una connessione meccanicistica diretta plausibile ("缺乏合理直接機轉橋接"). Questa previsione molto probabilmente riflette una correlazione computazionale rilevata attraverso nodi di rete immunitaria condivisi nel grafo di conoscenza TxGNN, piuttosto che un percorso terapeutico clinicamente azionabile.
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
----
+## Evidenze dalla letteratura
 
-## Evidenze da Studi Clinici
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [28372806](https://pubmed.ncbi.nlm.nih.gov/28372806/) | 2017 | Caso clinico / commento | Revue neurologique | Disturbi immunitari multipli dopo l'interruzione di natalizumab in una paziente con sclerosi multipla e anamnesi di beta-talassemia. Non riguarda glatiramer né dimostra un'attività in questa condizione. |
 
-Attualmente nessuna sperimentazione clinica correlata registrata.
+## Informazioni sul mercato italiano
 
----
+Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
 
-## Evidenze dalla Letteratura
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare | Indicazione approvata |
+|---------|------|------|------|-----------|
+| 035418060 | COPAXONE 12 siringhe SC 40 mg/ml 1 ml + ago | Non disponibile | TEVA GmbH | Non disponibile |
+| 043860028 | COPEMYL 28 siringhe SC 20 mg/ml | Non disponibile | MYLAN SpA | Non disponibile |
+| 045673023 | COPEMYLTRI 12 siringhe preriempite 40 mg/ml 1 ml | Non disponibile | MYLAN SpA | Non disponibile |
+| 035418021 | COPAXONE 28 siringhe SC 20 mg/ml 1 ml | Non disponibile | TEVA GmbH | Non disponibile |
 
-| PMID | Anno | Tipo | Journal | Risultati Chiave |
-|------|------|------|---------|------------------|
-| [28372806](https://pubmed.ncbi.nlm.nih.gov/28372806/) | 2017 | Case Report | Revue Neurologique | Un paziente con SM di 35 anni con una **storia clinica di talassemia beta** ha sviluppato complicanze immunitarie dopo l'interruzione del natalizumab. Il glatiramer **non è il farmaco in studio**; la talassemia beta è una comorbidità incidentale, non il bersaglio del trattamento. |
+## Considerazioni sulla sicurezza
 
-> ⚠️ **Importante avvertenza:** Questo case report studia il **natalizumab**, non il glatiramer. La menzione della talassemia beta è un dettaglio della storia medica del paziente, non un risultato terapeutico. Questa pubblicazione **non fornisce alcuna evidenza diretta** per il glatiramer nell'emoglobinopia.
+- **Interazioni farmacologiche**: è stata rilevata 1 interazione di livello **Maggiore** con **natalizumab** (fonte: DDInter).
 
----
+Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si rimanda al foglio illustrativo.
 
-## Considerazioni sulla Sicurezza
+## Conclusione e prossimi passi
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+**Decisione: Hold**
 
----
+**Motivazione:**
+La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile. Inoltre, in Italia non vi sono autorizzazioni attive.
 
-## Conclusioni e Prossimi Passi
-
-**Decisione: In sospeso**
-
-**Razionale:**
-Non ci sono studi clinici registrati e l'unica pubblicazione recuperata è un case report su un farmaco diverso (natalizumab) nel quale l'emoglobinopia appare solo come comorbidità di background del paziente — questo non costituisce evidenza per l'efficacia del glatiramer nell'emoglobinopia. Combinato con l'assenza di una razionale meccanicistica chiara, questa previsione è improbabile che rappresenti un'opportunità di drug repurposing vitale in questo momento.
-
-**Per procedere, è necessario quanto segue:**
-- Studio di fattibilità meccanicistica: investigare se qualsiasi percorso infiammatorio secondario nella SCD o talassemia beta (ad es. attivazione di NF-κB, disregolazione delle cellule T) effettivamente si sovrappone con i bersagli noti del glatiramer
-- Dati preclinici (in vitro o in modello animale) che dimostrino specificamente un effetto del glatiramer in modelli di malattia dell'emoglobinopia
-- Revisione mirata della letteratura sulla disregolazione immunitaria nella malattia falciforme e talassemia per valutare la plausibilità biologica più rigorosamente
-- Consultazione con esperti con un ematologo e immunologo clinico per valutare se uno spostamento Th1→Th2 potrebbe avere una rilevanza terapeutica significativa nelle emoglobinopatie
-- Recupero di dati MOA completi da DrugBank (identificato come lacuna nei dati) prima di qualsiasi ulteriore valutazione
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (ad esempio da DrugBank) per valutare un eventuale collegamento biologico con le emoglobinopatie
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
+- Studi preclinici o mirati che mostrino un'attività di glatiramer in modelli di emoglobinopatia
+- Verifica dello stato regolatorio attuale e della disponibilità del prodotto in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

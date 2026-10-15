@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Amiodarone
-parent: Solo previsione del modello (L5)
-nav_order: 26
-evidence_level: L5
+parent: Prove elevate (L1-L2)
+nav_order: 40
+evidence_level: L1
 indication_count: 10
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,137 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# AMIODARONE: Relazione di Valutazione del Ripropositioning Farmacologico
+# Amiodarone: dalla fibrillazione ventricolare alla tachicardia ventricolare
 
-## Riassunto in Una Frase
+## Sintesi in una frase
 
-L'amiodarone è un noto agente antiaritmico di Classe III ampiamente utilizzato a livello internazionale per la gestione delle aritmie ventricolari e sopraventricolari. Il modello TxGNN **non ha generato alcuna indicazione nuova prevista** per questo farmaco al momento attuale. Il pacchetto di prove contiene importanti lacune di dati che devono essere risolte prima di poter procedere con ulteriori valutazioni.
+L'amiodarone è un antiaritmico originariamente utilizzato per la fibrillazione ventricolare. Il modello TxGNN lo prevede efficace per la **tachicardia ventricolare**, che nei dati compilati per questo report è l'indicazione prevista con il supporto clinico più solido: **18 sperimentazioni cliniche** e **20 pubblicazioni** sostengono questa direzione, incluse due sperimentazioni di Fase 3 completate (AVID e ALPS).
 
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Nome del Farmaco (INN) | Amiodarone |
-| ID DrugBank | [DB01118](https://go.drugbank.com/drugs/DB01118) |
-| Indicazione Originale | Non disponibile nel pacchetto di prove (noto a livello internazionale: aritmie cardiache) |
-| Indicazione Nuova Prevista | — (Nessuna predizione TxGNN disponibile) |
-| Punteggio di Predizione TxGNN | — |
-| Livello di Evidenza | L5 (Nessuna predizione, nessuno studio di supporto) |
-| Stato del Mercato Taiwan (TFDA) | ❌ Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni TFDA | 0 |
-| Decisione Consigliata | **Sospensione** |
+Nota: la tachicardia ventricolare è di fatto vicina all'indicazione storica del farmaco. Si tratta quindi più di una conferma dell'uso già consolidato che di un vero riposizionamento. Il report si concentra su questa indicazione; le altre predizioni sono riassunte in coda.
 
 ---
 
-## Perché Non c'è Previsione?
+## Panoramica rapida
 
-L'amiodarone (DrugBank: DB01118) è stato interrogato attraverso la pipeline TxGNN, ma il modello ha restituito **nessuna indicazione nuova prevista**. Questo potrebbe essere dovuto a uno o più dei seguenti motivi:
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Fibrillazione ventricolare (testo approvato AIFA non disponibile) |
+| Nuova indicazione prevista | Tachicardia ventricolare |
+| Punteggio di predizione TxGNN | 99,64% |
+| Livello di evidenza | L1 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Decisione raccomandata | Proceed with Guardrails |
 
-1. **Caratteristiche di input insufficienti** — Il pacchetto di prove è privo di dati critici inclusi il meccanismo d'azione (MOA), gli avvertimenti del foglio illustrativo TFDA e i profili di controindicazione. Senza questi, il collegamento del grafo di conoscenza del modello potrebbe essere incompleto.
-2. **Nessuna presenza sul mercato TFDA** — L'amiodarone ha zero autorizzazioni TFDA a Taiwan, il che significa che non c'è un ancoraggio normativo locale da cui derivare il testo dell'indicazione o i metadati di sicurezza per la pipeline di ripropositioning.
-
-A livello internazionale, l'amiodarone è riconosciuto come un potente agente antiaritmico di Classe III che funziona principalmente bloccando i canali del potassio, prolungando il potenziale d'azione cardiaco e il periodo refrattario. Inoltre, mostra proprietà di Classe I (blocco dei canali del sodio), Classe II (blocco beta-adrenergico) e Classe IV (blocco dei canali del calcio), rendendolo uno degli antiaritmici più complessi dal punto di vista farmacologico disponibili. Le sue indicazioni note includono aritmie ventricolari potenzialmente mortali (fibrillazione ventricolare, tachicardia ventricolare emodinamicamente instabile) e fibrillazione/flutter atriale refrattaria ad altri trattamenti.
-
----
-
-## Evidenza di Studi Clinici
-
-Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata di studi clinici è stata eseguita per un'indicazione di ripropositioning.
-
----
-
-## Evidenza della Letteratura
-
-Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca mirata della letteratura è stata eseguita per un'indicazione di ripropositioning.
+*Nota sul punteggio: la prima predizione per punteggio nell'elenco è la tachicardia ventricolare polimorfa catecolaminergica (99,78%), ma con evidenza solo di livello L4 e raccomandazione Hold. La tachicardia ventricolare (rank 3) è stata scelta perché è l'indicazione con l'evidenza più forte.*
 
 ---
 
-## Informazioni sul Mercato Taiwan (TFDA)
+## Perché questa predizione è ragionevole?
 
-L'amiodarone attualmente ha **zero autorizzazioni TFDA** a Taiwan. La query TFDA (2026-03-29) ha restituito zero risultati. Questo farmaco è classificato come **Non commercializzato (non commercializzato)** nel sistema normativo taiwanese.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel dossier originale. In base alle informazioni disponibili, l'amiodarone è un antiaritmico multicanale: blocca i canali del potassio, del sodio e del calcio e ha un effetto antagonista beta-adrenergico. Il suo effetto principale è il prolungamento della ripolarizzazione (classe III di Vaughan Williams).
 
----
-
-## Considerazioni sulla Sicurezza
-
-> I dati sulla sicurezza (avvertimenti, controindicazioni e interazioni farmaco-farmaco) non potevano essere recuperati dalle fonti del pacchetto di prove. Si prega di fare riferimento al foglio illustrativo internazionale (ad es., etichettatura approvata dalla FDA per Cordarone®/Pacerone®) per informazioni complete sulla sicurezza.
->
-> **Problemi di sicurezza critica noti (dall'etichettatura internazionale):**
-> - **Avvertimento Black Box (FDA):** Tossicità polmonare (potenzialmente fatale), epatotossicità ed effetti pro-aritmici. Dovrebbe essere utilizzato solo per aritmie potenzialmente mortali a causa della sostanziale tossicità.
-> - **Disfunzione tiroidea:** L'amiodarone contiene circa il 37% di iodio in peso; sia l'ipotiroidismo che l'ipertiroidismo sono comuni.
-> - **Rischio di prolungamento dell'intervallo QT e Torsades de Pointes.**
-> - **Depositi di microcristalli corneali** si verificano in quasi tutti i pazienti.
-> - **Estese interazioni farmaco-farmaco** dovute all'inibizione di CYP3A4 e CYP2C8 (ad es., con warfarin, digossina, simvastatina e altri agenti che prolungano l'intervallo QT).
->
-> ⚠️ *Queste note sulla sicurezza si basano su conoscenze farmacologiche generali e non provengono dal pacchetto di prove. Sono fornite solo come riferimento.*
+La fibrillazione ventricolare e la tachicardia ventricolare sono aritmie ventricolari strettamente correlate: la tachicardia ventricolare può degenerare in fibrillazione ventricolare ed entrambe sono sostenute da meccanismi di rientro e attività triggerata. Il blocco multicanale sopprime questi meccanismi, per cui l'applicabilità alla tachicardia ventricolare è meccanicisticamente plausibile e supportata da studi clinici diretti.
 
 ---
 
-## Lacune di Dati che Richiedono Risoluzione
+## Evidenze dalle sperimentazioni cliniche
 
-Il pacchetto di prove ha segnalato le seguenti lacune critiche:
+Sono elencate le sperimentazioni più rilevanti (le 18 registrate comprendono anche studi di ablazione con amiodarone come comparatore).
 
-| ID Lacuna | Categoria | Elemento | Gravità | Impatto | Rimedio |
-|-----------|-----------|----------|---------|---------|---------|
-| DG001 | Livello Farmaco | Avvertimenti del Foglio Illustrativo TFDA/Controindicazioni | **Bloccante** | Non può entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Livello Farmaco | Meccanismo d'Azione (MOA) | Alto | Influisce sull'analisi di associazione del meccanismo | Interrogare l'API DrugBank |
-
----
-
-## Conclusione e Prossimi Passi
-
-**Decisione: Sospensione**
-
-**Razionale:**
-Il modello TxGNN non ha prodotto alcuna indicazione nuova prevista per l'amiodarone. Inoltre, ci sono **lacune di dati a livello bloccante** (dati di sicurezza TFDA mancanti e MOA) che impediscono al candidato di entrare anche nella fase preliminare di valutazione della sicurezza (S1). Senza un'indicazione prevista da valutare, non c'è al momento alcuna ipotesi di ripropositioning attuabile.
-
-**Per procedere, è necessario quanto segue:**
-- **[Bloccante]** Ottenere i dati del foglio illustrativo TFDA (avvertimenti, controindicazioni) — oppure, se nessuna approvazione TFDA esiste, reperire dati equivalenti dall'etichettatura FDA/EMA
-- **[Alto]** Completare il meccanismo d'azione (MOA) dall'API DrugBank per abilitare il collegamento del grafo di conoscenza
-- **[Alto]** Investigare perché TxGNN non ha prodotto alcuna previsione — verificare che il nodo del farmaco sia propriamente collegato nel grafo di conoscenza e che le caratteristiche di input siano complete
-- **[Medio]** Se l'amiodarone non è commercializzato a Taiwan, considerare se la pipeline di ripropositioning dovrebbe valutarlo secondo un quadro normativo alternativo (ad es., riferimenti incrociati con indicazioni FDA/EMA)
-- **[Opzionale]** Rieseguire la predizione TxGNN dopo la risoluzione delle lacune di dati per determinare se emergono nuove indicazioni
+| Numero studio | Fase | Stato | Arruolamento | Risultati chiave |
+|---------|------|------|------|---------|
+| [NCT00000531](https://clinicaltrials.gov/study/NCT00000531) | Fase 3 | Completato | N/D | AVID: defibrillatori impiantabili vs terapia antiaritmica (soprattutto amiodarone) in aritmie ventricolari potenzialmente letali |
+| [NCT01401647](https://clinicaltrials.gov/study/NCT01401647) | Fase 3 | Completato | 3024 | ALPS: amiodarone vs lidocaina vs placebo nell'arresto cardiaco extraospedaliero da FV/TV senza polso |
+| [NCT00257959](https://clinicaltrials.gov/study/NCT00257959) | Fase 4 | Completato | 400 | OPTIC: amiodarone + beta-bloccante vs beta-bloccante vs sotalolo nella prevenzione degli shock da ICD |
+| [NCT00383799](https://clinicaltrials.gov/study/NCT00383799) | Fase 4 | Terminato | 302 | PROCAMIO: amiodarone vs procainamide EV nella tachicardia a QRS largo ben tollerata |
+| [NCT03299517](https://clinicaltrials.gov/study/NCT03299517) | Fase 4 | Sconosciuto | 80 | Amiodarone vs lidocaina nella TV stabile in pronto soccorso |
+| [NCT02830360](https://clinicaltrials.gov/study/NCT02830360) | Fase 4 | Completato | 416 | VANISH2: ablazione vs terapia antiaritmica in TV monomorfa post-infarto |
+| [NCT03734562](https://clinicaltrials.gov/study/NCT03734562) | N/A | Completato | 180 | Ablazione con radiofrequenza vs farmaci antiaritmici in cardiomiopatia ischemica con TV |
+| [NCT01722942](https://clinicaltrials.gov/study/NCT01722942) | N/A | Sconosciuto | 1100 | CHAGASICS: amiodarone vs ICD nella cardiomiopatia di Chagas con TV non sostenuta |
+| [NCT01097330](https://clinicaltrials.gov/study/NCT01097330) | Fase 3 | Terminato | 12 | Ablazione transcatetere vs amiodarone nei portatori di ICD con TV (arruolamento molto ridotto) |
+| [NCT02303639](https://clinicaltrials.gov/study/NCT02303639) | Fase 4 | Sconosciuto | 120 | Terapia antiaritmica vs ablazione in tachiaritmie ventricolari ischemiche |
 
 ---
 
-*Questo rapporto è stato generato il 2026-04-03 sulla base del Pacchetto di Prove v4 (data di aggiornamento: 2026-04-03). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. Qualsiasi candidato di ripropositioning farmacologico richiede convalida clinica prima dell'applicazione.*
+## Evidenze dalla letteratura
 
+| PMID | Anno | Tipo | Rivista | Risultati chiave |
+|------|-----|------|------|---------|
+| [27354046](https://pubmed.ncbi.nlm.nih.gov/27354046/) | 2017 | RCT | European Heart Journal | PROCAMIO: confronto randomizzato tra procainamide e amiodarone EV nella tachicardia a QRS largo tollerata |
+| [41217320](https://pubmed.ncbi.nlm.nih.gov/41217320/) | 2026 | Sottostudio di RCT | J Am Coll Cardiol | Sottostudio VANISH2: ablazione vs sotalolo o amiodarone nella TV |
+| [30084131](https://pubmed.ncbi.nlm.nih.gov/30084131/) | 2018 | Coorte | Emerg Med Australas | Sicurezza ed efficacia dell'amiodarone nella TV stabile in ambito preospedaliero |
+| [20730062](https://pubmed.ncbi.nlm.nih.gov/20730062/) | 2010 | Revisione | Vasc Health Risk Manag | L'amiodarone come principale terapia antiaritmica per terminare e prevenire FV/TV |
+| [36878200](https://pubmed.ncbi.nlm.nih.gov/36878200/) | 2023 | Revisione | Cardiology | Farmacoterapia delle aritmie ventricolari |
+| [9137212](https://pubmed.ncbi.nlm.nih.gov/9137212/) | 1997 | Revisione | J Am Coll Cardiol | Amiodarone EV per aritmie ventricolari maligne e resistenti |
+| [10666663](https://pubmed.ncbi.nlm.nih.gov/10666663/) | 2000 | Revisione | Curr Opin Cardiol | Studi clinici di prevenzione primaria e secondaria con amiodarone (EMIAT, CAMIAT) |
+| [36293490](https://pubmed.ncbi.nlm.nih.gov/36293490/) | 2022 | Revisione | Int J Mol Sci | Terapie promettenti per fibrillazione atriale e tachicardia ventricolare |
+| [37380314](https://pubmed.ncbi.nlm.nih.gov/37380314/) | 2023 | Studio clinico | JACC Clin Electrophysiol | Carico di TV e di terapie ICD con ablazione vs terapia antiaritmica intensificata |
+| [8258259](https://pubmed.ncbi.nlm.nih.gov/8258259/) | 1993 | Caso clinico | Clin Pharm | Disfunzione tiroidea indotta da amiodarone in un paziente con TV ricorrente |
+
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 8 autorizzazioni risultano **cancellate**; non ve ne sono di valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati.
+
+| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 033200015 | Amiodarone 20 cpr 200 mg | Sandoz SpA | Cancellata |
+| 044112023 | Amiodarone 20 cpr 200 mg | Aurobindo Pharma Italia Srl | Cancellata |
+| 022033031 | Amiodar 20 cpr 200 mg | Alfasigma SpA | Cancellata |
+| 040758029 | Amiodarone 20 cpr 200 mg | Mylan SpA | Cancellata |
+| 025035015 | Cordarone 20 cpr 200 mg | Sanofi Srl | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni (dal grafo di conoscenza TxGNN, non dal foglio illustrativo):** sindrome del QT lungo (anche familiare), torsione di punta, blocco atrioventricolare, malattia del nodo del seno, ipotiroidismo e ipertiroidismo (incl. malattia di Graves, tireotossicosi), malattie epatiche e danno epatico da farmaci, malattia polmonare interstiziale, polmonite eosinofila, alveolite allergica estrinseca, neuropatia periferica, neurite ottica, depositi corneali, carenza di potassio.
+- **Interazioni farmacologiche:** sono state identificate 100 interazioni. Tra quelle di livello **maggiore** figurano: cisapride, claritromicina, clotrimazolo, desametasone, idrocortisone, dolasetron, eliglustat, agalsidasi beta e le formulazioni di amfotericina B. Tra quelle di livello moderato: famotidina, cimetidina, aprepitant, bisacodile, budesonide e olio di ricino.
+- **Segnali dalla letteratura:** tossicità tiroidea, polmonare (fibrosi, emorragia alveolare), epatica e oculare; rischio proaritmico con prolungamento del QT.
+
+Per le avvertenze complete e le controindicazioni ufficiali occorre consultare il foglio illustrativo.
+
+---
+
+## Citotossicità
+
+Sezione omessa: l'amiodarone non è un farmaco antineoplastico.
+
+---
+
+## Altre indicazioni previste (sintesi)
+
+| Indicazione | Punteggio | Livello di evidenza | Decisione | Commento |
+|------|------|------|------|------|
+| TV polimorfa catecolaminergica | 99,78% | L4 | Hold | Solo coorti, casi clinici e revisioni; amiodarone usato come rescue, non come terapia studiata (prima linea: beta-bloccanti) |
+| TV infantile incessante | 99,65% | L2 | Research Question | RCT in doppio cieco di amiodarone EV in bambini (PMID 16316969), ma popolazione mista sopraventricolare/ventricolare |
+| Blocco di branca (termine obsoleto) | 99,58% | L5 | Hold | Probabile artefatto del modello; l'amiodarone può causare disturbi di conduzione |
+| Artrite reumatoide | 99,40% | L5 | Hold | La letteratura riguarda solo effetti avversi, non efficacia |
+| Sindrome brachidattilia-sindattilia | 99,38% | L5 | Hold | Nessuna evidenza né meccanismo plausibile |
+| Deficit di cofattore 2 dell'eparina | 99,36% | L5 | Hold | Nessuna evidenza né meccanismo plausibile |
+| Tricotillomania | 99,30% | L5 | Hold | Nessuna evidenza né meccanismo plausibile |
+| Sindrome da microftalmia colobomatosa-displasia rizomelica | 99,26% | L5 | Hold | Nessuna evidenza né meccanismo plausibile |
+| Gotta | 99,19% | L5 | Hold | La letteratura riguarda interazioni e eventi avversi, non benefici |
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Proceed with Guardrails**
+
+**Motivazione:**
+L'indicazione tachicardia ventricolare è sostenuta da più sperimentazioni di Fase 3 completate (AVID, ALPS) e da diversi studi di Fase 4 comparativi (OPTIC, PROCAMIO), con un'ampia letteratura. Si tratta però di un uso che coincide in sostanza con l'indicazione storica del farmaco, e le 8 autorizzazioni italiane sono tutte cancellate: non si tratta quindi di un vero riposizionamento, e la disponibilità del prodotto va verificata.
+
+**Per procedere è necessario:**
+- Verificare la disponibilità commerciale in Italia (formulazioni orali ed endovenose) e lo stato regolatorio attuale presso AIFA
+- Acquisire e analizzare il foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate), attualmente mancante
+- Integrare i dati sul meccanismo d'azione da DrugBank
+- Definire un piano di monitoraggio: funzione tiroidea, polmonare ed epatica, esame oculare, ECG (QT), con dose e durata minime efficaci
+- Gestire il rischio di interazioni (100 segnalate, molte di livello maggiore), in particolare con farmaci che prolungano il QT
+- Per la TV infantile incessante: valutare uno studio dedicato al sottogruppo ventricolare con salvaguardie di sicurezza pediatriche
+- Per la TV polimorfa catecolaminergica: sono necessari studi specifici prima di qualsiasi considerazione oltre l'uso di salvataggio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

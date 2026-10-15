@@ -2,7 +2,7 @@
 layout: default
 title: Disulfiram
 parent: Solo previsione del modello (L5)
-nav_order: 75
+nav_order: 149
 evidence_level: L5
 indication_count: 0
 ---

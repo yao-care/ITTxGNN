@@ -2,7 +2,7 @@
 layout: default
 title: Leflunomide
 parent: Solo previsione del modello (L5)
-nav_order: 132
+nav_order: 259
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,79 +29,83 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Leflunomide: Dalla malattia autoimmune (DMARD) alla sindrome da brachydactyly-sindattilia
+# Leflunomide: Dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
 
-## Riassunto in una sola frase
+## Sintesi in una frase
 
-Leflunomide è un immunosoppressore appartenente alla classe DMARD, che agisce attraverso l'inibizione del DHODH per sopprimere la proliferazione dei linfociti; i dati ufficiali dell'indicazione originale non sono disponibili in questo Pacchetto di Evidenze.
-Il modello TxGNN prevede che potrebbe essere efficace per la **sindrome da brachydactyly-sindattilia**, tuttavia attualmente non ci sono **0 trial clinici** e **0 pubblicazioni** che supportano questa direzione — la base di prove è puramente generata dal modello senza supporto empirico.
+Leflunomide è un farmaco immunomodulatore, originariamente utilizzato per il trattamento dell'artrite reumatoide e dell'artrite psoriasica.
+Il modello TxGNN ne prevede una possibile efficacia nella **sindrome brachidattilia-sindattilia**,
+ma al momento **non sono presenti studi clinici né pubblicazioni** a supporto: la previsione si basa esclusivamente sul punteggio del modello.
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Non disponibile nel Pacchetto di Evidenze (classe DMARD, immunosoppressivo) |
-| Nuova indicazione prevista | Sindrome da brachydactyly-sindattilia |
-| Punteggio di previsione TxGNN | 99.93% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Artrite reumatoide e artrite psoriasica |
+| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia |
+| Punteggio di previsione TxGNN | 99,93% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Sulla base delle conoscenze generali, leflunomide (tramite il suo metabolita attivo teriflunomide) inibisce l'enzima diidroorotato deidrogenasi (DHODH), riducendo la sintesi delle pirimidine nelle cellule a rapida proliferazione, in particolare i linfociti attivati. Questo spiega la sua efficacia nelle patologie autoimmuni.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Pacchetto di Evidenze. Sulla base delle informazioni citate nella razionale di riposizionamento, Leflunomide è un immunosoppressore che inibisce DHODH (dihydroorotate dehydrogenase), limitando così la sintesi della pirimidina e riducendo la proliferazione dei linfociti. Appartiene alla classe DMARD (farmaco antireumatico modificante la malattia).
+Il legame con una malformazione congenita degli arti è, allo stato attuale, **speculativo**. Si potrebbe ipotizzare un coinvolgimento di vie di sviluppo dipendenti dal metabolismo delle pirimidine, ma nessun dato disponibile lo conferma. Inoltre l'inibizione di DHODH è associata a teratogenicità, il che rappresenta una criticità rilevante in qualsiasi contesto di disturbo dello sviluppo.
 
-La sindrome da brachydactyly-sindattilia è un raro disturbo dello sviluppo scheletrico congenito, causato principalmente da mutazioni in geni come *HRAS* o *FGFR2*, che interrompono la formazione delle ossa delle dita durante l'embriogenesi. Si tratta di un difetto genetico strutturale — le anomalie anatomiche sono stabilite prima della nascita e la somministrazione di farmaci postnatale non può invertirle.
+Il punteggio elevato di TxGNN (0,9993) è l'unico elemento a supporto; da solo non è sufficiente a giustificare un avanzamento.
 
-Il collegamento meccanicistico tra l'inibizione del DHODH da parte di Leflunomide e questa sindrome congenita è considerato **estremamente debole**. Il meccanismo di soppressione della proliferazione cellulare di Leflunomide non fornisce un percorso correttivo plausibile per una malformazione scheletrica fissa. Inoltre, Leflunomide ha una tossicità teratogena ben documentata (FDA Categoria di gravidanza X), il che significa che qualsiasi uso durante l'embriogenesi — l'unica finestra temporale in cui si sviluppa la patologia — è rigorosamente controindicato. Non esiste un'ipotesi di trattamento credibile a supporto di questa direzione di riposizionamento.
+Una seconda previsione, la **sindrome da microftalmia colobomatosa-displasia rizomelica** (punteggio 99,93%), presenta lo stesso profilo: livello L5, nessuno studio o pubblicazione, rationale puramente speculativo e decisione Hold.
 
----
+## Evidenze da studi clinici
 
-## Evidenza da trial clinici
+Attualmente non sono registrati studi clinici correlati.
 
-Attualmente non sono registrati trial clinici correlati.
+## Evidenze dalla letteratura
 
----
-
-## Evidenza dalla letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
-
----
+Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
-Leflunomide attualmente non è commercializzato in Italia. Nessuna autorizzazione commerciale è stata identificata nel database normativo (licenze totali: 0).
+Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvata non è presente nei dati compilati.
 
----
+| N. autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 050037098 | Leflunomide 30 cpr rivestite 20 mg | Aurobindo Pharma Italia Srl | Cancellata |
+| 034702098 | Arava 3 cpr rivestite 100 mg | Sanofi Aventis Deutschland GmbH | Cancellata |
+| 042083067 | Leflunomide 30 cpr rivestite 20 mg (flacone) | Medac GmbH | Cancellata |
+| 041230107 | Leflunomide 30 cpr rivestite 20 mg | Mylan SpA | Cancellata |
+| 034702074 | Arava 30 cpr rivestite 20 mg (flacone) | Sanofi Aventis Deutschland GmbH | Cancellata |
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+- **Controindicazioni derivate dal knowledge graph** (non dal foglietto illustrativo): insufficienza epatica, malattie epatiche e della colecisti, epatite B e C croniche, malattie renali, trombocitopenia, neutropenia (comprese varie forme congenite), agranulocitosi, pancitopenia, anemia, neuropatia periferica, malattia polmonare interstiziale, pneumocistosi e aspergillosi.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni complessive. Tra quelle di livello **maggiore** figurano:
+  - corticosteroidi (idrocortisone, desametasone, betametasone, triamcinolone, budesonide);
+  - antidiabetici (acarbosio, pioglitazone);
+  - bupropione, acido acetilsalicilico, naltrexone, claritromicina, minociclina;
+  - steroidi anabolizzanti (oxandrolone, oxymetholone) e acido chenodesossicolico.
 
-> ⚠️ **Nota:** Gli avvertimenti del foglio illustrativo TFDA/AIFA e le controindicazioni sono stati contrassegnati come una lacuna di dati bloccante (DG001) in questo Pacchetto di Evidenze e non sono stati estratti. La valutazione della sicurezza non può essere completata fino a quando questi dati non verranno recuperati.
+  Sono presenti anche interazioni moderate (ad es. metronidazolo, clorpropamide, acetoesamide) e minori (solfato e acetato di zinco).
+- **Teratogenicità**: l'inibizione di DHODH è nota per il rischio teratogeno, particolarmente rilevante per disturbi dello sviluppo.
 
----
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Razionale:**
-Non ci sono trial clinici e nessuno studio pubblicato che supporti Leflunomide per la sindrome da brachydactyly-sindattilia, e il collegamento meccanicistico tra l'inibizione del DHODH e un difetto strutturale scheletrico congenito è considerato scientificamente implausibile. L'alto punteggio TxGNN (99.93%) riflette solo l'inferenza del modello e non è corroborato da alcuna evidenza del mondo reale.
+**Motivazione:**
+La previsione si fonda unicamente sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo è speculativo, il profilo teratogeno è preoccupante e tutte le autorizzazioni italiane sono cancellate.
 
-**Per procedere, sono necessari i seguenti elementi:**
-- Un'ipotesi meccanicistica credibile che spieghi come l'inibizione del DHODH postnatale potrebbe beneficiare una malformazione scheletrica congenita fissa
-- Evidenza preclinica in vitro o in vivo che dimostri qualsiasi attività biologica rilevante in questa indicazione
-- Dati completi sul meccanismo d'azione da DrugBank (DG002) per completare l'analisi meccanicistica
-- Avvertimenti del foglio illustrativo TFDA/AIFA e controindicazioni (DG001) per un profilo di sicurezza completo
-- Considerazione se qualsiasi indicazione di malattia rara adiacente (ad es. malattia ossea infiammatoria o autoimmune) potrebbe essere un target di riposizionamento più scientificamente fondato per Leflunomide
-
+**Per procedere è necessario:**
+- Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
+- Acquisire i dati dettagliati sul meccanismo d'azione (ad es. da DrugBank)
+- Condurre studi preclinici o una revisione della letteratura che colleghi DHODH/metabolismo delle pirimidine alla patogenesi della sindrome prevista
+- Valutare in modo approfondito il rischio teratogeno rispetto al contesto di malattia dello sviluppo
+- Chiarire la situazione regolatoria, dato che nessuna autorizzazione è attualmente valida in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

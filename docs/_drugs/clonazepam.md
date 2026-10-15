@@ -2,7 +2,7 @@
 layout: default
 title: Clonazepam
 parent: Prove moderate (L3-L4)
-nav_order: 56
+nav_order: 118
 evidence_level: L3
 indication_count: 3
 ---
@@ -29,88 +29,86 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-# Clonazepam: Da Epilessia e Disturbo da Panico a Sindrome delle Gambe Senza Riposo
+# Clonazepam: Dall'epilessia e dal disturbo d'ansia alla sindrome delle gambe senza riposo
 
-## Sintesi in Una Frase
+## Sintesi in una frase
 
-Il clonazepam è una benzodiazzeina a lunga durata d'azione indicata principalmente per le crisi epilettiche e il disturbo da panico, agisce attraverso l'inibizione del sistema nervoso centrale via potenziamento del recettore GABA-A. Il modello TxGNN prevede che possa essere efficace per la **Sindrome delle Gambe Senza Riposo (SGSR)**, con **nessuna sperimentazione clinica registrata** ma **20 pubblicazioni** — inclusa una revisione sistematica Cochrane e due studi randomizzati — attualmente a supporto di questa direzione.
+Il clonazepam è una benzodiazepina utilizzata originariamente per varie forme di epilessia (tra cui l'assenza e la sindrome di Lennox-Gastaut) e per il disturbo d'ansia.
+Il modello TxGNN prevede che possa essere efficace per la **sindrome delle gambe senza riposo (RLS)**, con un punteggio molto alto.
+Per questa direzione non risultano **sperimentazioni cliniche registrate**, ma sono disponibili **20 pubblicazioni**, tra cui una linea guida AASM 2025 e una revisione Cochrane del 2017.
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originaria | Epilessia (assenza, sindrome di Lennox-Gastaut, encefalopatia mioclonica precoce) e disturbo d'ansia (indicazioni derivate dal grafo di conoscenza; il testo dell'indicazione autorizzata non è disponibile) |
+| Nuova indicazione prevista | Sindrome delle gambe senza riposo (restless legs syndrome) |
+| Punteggio di predizione TxGNN | 99,65% |
+| Livello di evidenza | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Decisione raccomandata | Hold (con la RLS come questione di ricerca) |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Nessun record di autorizzazione a Taiwan; la classe benzodiazzeina è comunemente indicata per epilessia e disturbo da panico |
-| Indicazione Nuova Prevista | Sindrome delle Gambe Senza Riposo (SGSR) |
-| Punteggio di Previsione TxGNN | 99.65% |
-| Livello di Evidenza | L3 |
-| Stato del Mercato a Taiwan | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Cautele |
+## Perché questa predizione è ragionevole?
 
----
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Sulla base delle conoscenze generali di classe, il clonazepam è una benzodiazepina che potenzia l'attività del recettore GABA-A. Questo può ridurre l'iperattivazione sensoriale e motoria e la frammentazione del sonno tipiche della RLS e dei movimenti periodici degli arti.
 
-## Perché Questa Previsione è Ragionevole?
+Il punteggio molto alto del modello è coerente con l'uso clinico consolidato del clonazepam nella RLS. Le prove sono però soprattutto di livello linee guida, revisioni e studi storici, non sperimentazioni registrate.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nel Pacchetto di Evidenze. Basandosi sulla farmacologia nota, il clonazepam è una benzodiazzeina che potenzia l'attività del recettore GABA-A — specificamente aumentando la frequenza dell'apertura del canale del cloro alle sinapsi inibitorie — producendo una generale soppressione del sistema nervoso centrale. Questo meccanismo riduce l'ipereccitabilità neuronale nel midollo spinale e nella corteccia motoria.
+Va sottolineato che la linea guida AASM 2025 (PMID 39324694) colloca le benzodiazepine dopo gli agenti di prima linea, come i ligandi alfa-2-delta e la terapia con ferro. Il ruolo del clonazepam è quindi più limitato di quanto il punteggio lasci intendere.
 
-La Sindrome delle Gambe Senza Riposo è un disturbo neurologico sensorimotorio caratterizzato da sensazioni di strisciamento sgradevole negli arti inferiori e da un irresistibile bisogno di muovere, che si verifica a riposo e peggiora di sera. Una caratteristica chiave è il Periodic Limb Movements during Sleep (PLMS) — scatti involontari e ripetitivi delle gambe che riflettono ipereccitabilità del motore spinale. I deficit delle vie GABAergiche sono stati implicati nella fisiopatologia della SGSR, il che rende la soppressione GABAergica un target terapeutico plausibile dal punto di vista meccanicistico.
+## Evidenze dalle sperimentazioni cliniche
 
-Il ruolo del clonazepam nella SGSR è stato documentato per oltre quattro decenni. Un trial in doppio cieco, controllato con placebo e incrociato del 1984 (PMID 6380197) è stato uno tra i primi a dimostrare un miglioramento significativo nella qualità del sonno e nella disestesia alle gambe. Successive linee guida internazionali (AASM 2025, MDS Task Force 2008) e una revisione Cochrane (2017) classificano costantemente il clonazepam come agente di seconda linea o adiuvante per la SGSR — in particolare per i pazienti che non tollerano o non rispondono ai trattamenti dopaminergici di prima linea. Non è considerato un sostituto degli agonisti della dopamina, ma piuttosto un'opzione complementare che affronta sia la soppressione del PLMS che l'inizio del sonno.
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza da Sperimentazioni Cliniche
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Linea guida | J Clin Sleep Med | Raccomandazioni AASM per il trattamento di RLS e disturbo da movimenti periodici degli arti, negli adulti e nei pazienti pediatrici |
+| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Revisione sistematica (Cochrane) | Cochrane Database Syst Rev | Benzodiazepine, in particolare clonazepam, usate per i sintomi della RLS; valutazione delle prove disponibili |
+| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Revisione sistematica e metanalisi | J Clin Sleep Med | Risposta farmacologica dei movimenti periodici degli arti durante il sonno nella RLS |
+| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Revisione storica | Tremor Other Hyperkinet Mov | Ruolo delle benzodiazepine, incluso il clonazepam, nella RLS; circa il 25% di 16.694 pazienti trattati le riceveva; individuati 17 articoli sul clonazepam |
+| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Revisione basata sulle evidenze | Mov Disord | Revisione della task force MDS sulle terapie della RLS |
+| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Studio in laboratorio del sonno controllato con placebo | Eur Neuropsychopharmacol | Effetti acuti di 1 mg di clonazepam sul sonno e sul risveglio in RLS e PLMD |
+| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | Studio clinico randomizzato in doppio cieco, crossover (6 pazienti) | Acta Neurol Scand | Efficacia significativa del clonazepam rispetto al placebo su qualità del sonno e disestesie alle gambe; conferma a lungo termine necessaria |
+| [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Studio clinico | Sleep | Effetti differenziali di agonisti dopaminergici e clonazepam sui movimenti dei grandi gruppi muscolari nella RLS |
+| [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Studio clinico | Prog Neuropsychopharmacol Biol Psychiatry | Dose equivalenti proposte tra clonazepam e pramipexolo nella RLS |
+| [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Revisione | Neurotherapeutics | Panoramica delle terapie per la RLS |
 
-Attualmente nessuna sperimentazione clinica correlata è registrata.
+## Informazioni sul mercato italiano
 
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044150011 | CLONAZEPAM*orale gtt 2,5 mg/ml 10 ml (EG SpA) | Gocce orali (da denominazione) | Non disponibile (autorizzazione cancellata) |
+| 023159039 | RIVOTRIL*orale gtt 10 ml 2,5 mg/ml (Cheplapharm Arzneimittel GmbH) | Gocce orali (da denominazione) | Non disponibile (autorizzazione cancellata) |
 
-## Evidenza dalla Letteratura
+## Considerazioni sulla sicurezza
 
-| PMID | Anno | Tipo | Rivista | Risultati Chiave |
-|------|------|------|---------|------------------|
-| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | RCT | Acta Neurologica Scandinavica | Trial incrociato in doppio cieco (n=6) vs placebo; il clonazepam ha migliorato significativamente la qualità soggettiva del sonno e la disestesia alle gambe nella SGSR — lo studio controllato fondazionale |
-| [31942156](https://pubmed.ncbi.nlm.nih.gov/31942156/) | 2019 | RCT | Journal of Mid-Life Health | RCT prospettico a etichetta aperta confrontando clonazepam vs nortriptilina in donne >40 anni con SGSR; valutato il tasso, la frequenza e la gravità dei sintomi |
-| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Linea Guida di Pratica Clinica | Journal of Clinical Sleep Medicine | Linea guida AASM che stabilisce le raccomandazioni di trattamento per SGSR e PLMD in adulti e bambini; riferimento più attuale e autorevole |
-| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Revisione Sistematica Cochrane | Cochrane Database of Systematic Reviews | Revisione sistematica delle benzodiazzeine (in particolare il clonazepam) per la SGSR; nonostante l'uso clinico diffuso (~25% dei pazienti trattati), la base di evidenza RCT formale rimane limitata |
-| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Revisione Sistematica e Meta-analisi | Journal of Clinical Sleep Medicine | Revisione sistematica e meta-analisi della reattività farmacologica del PLMS nella SGSR; valutata l'efficacia tra le classi di farmaci incluse le benzodiazzeine |
-| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Revisione Narrativa | Tremor and Other Hyperkinetic Movements | Panoramica storica di 17 studi sull'uso del clonazepam nella SGSR e nel PLMS; contestualizza il ruolo delle benzodiazzeine nel corso di decenni di pratica clinica |
-| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Revisione Basata su Evidenze | Movement Disorders | Revisione basata su evidenze della MDS Task Force; il clonazepam classificato come "probabilmente efficace" per la SGSR sulla base delle evidenze disponibili |
-| [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Revisione | Neurotherapeutics | Panoramica del panorama del trattamento della SGSR; il clonazepam elencato tra le opzioni adiuvanti con discussione dei paradigmi di trattamento in evoluzione |
-| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Consenso di Esperti | Arquivos de Neuro-Psiquiatria | Consenso di esperti brasiliani sulla diagnosi e il trattamento della SGSR; rileva che l'evidenza di Classe I supporta gli agonisti della dopamina come prima linea, con benzodiazzeine come adiuvanti |
-| [9444111](https://pubmed.ncbi.nlm.nih.gov/9444111/) | 1997 | Revisione | ANNA Journal | Revisione della farmacocinetica del clonazepam specificamente nei pazienti con ESRD e SGSR; nota il profilo di sicurezza favorevole con funzione renale alterata |
+Le informazioni di sicurezza tratte dal foglio illustrativo AIFA non sono disponibili; si rimanda al foglio illustrativo.
 
----
+- **Controindicazioni segnalate nel grafo di conoscenza** (non derivate dal testo dell'etichetta): insufficienza epatica e malattie epatiche, malattie renali, malattie della colecisti, porfiria, glaucoma ad angolo chiuso e ad angolo aperto, sindrome da apnea notturna ostruttiva e altre forme di apnea del sonno, insufficienza respiratoria, sindrome da ipoventilazione centrale congenita, disturbi correlati a sostanze e abuso/dipendenza da sostanze.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle elencate, le più rilevanti sono di livello **Maggiore** con morfina (anche liposomiale), per il rischio di depressione del sistema nervoso centrale e respiratoria. Le interazioni di livello **Moderato** includono bupropione, aprepitant, omeprazolo, cimetidina, claritromicina, dronabinolo, metoclopramide, nabilone, oppio, sibutramina e teduglutide. Gli antiacidi (ossido, idrossido e carbonato di magnesio, idrossido di alluminio, carbonato di calcio, magaldrato) hanno interazioni di livello Minore.
+- **Segnali dalla letteratura**: lungo emivita, con rischio di sedazione diurna, tolleranza, dipendenza, cadute ed effetti cognitivi, soprattutto negli anziani e nelle popolazioni neurodegenerative; è inoltre riportato un caso di mania associata al clonazepam (PMID 1949970).
 
-## Informazioni sul Mercato a Taiwan
+## Altre indicazioni previste
 
-Il clonazepam attualmente non detiene autorizzazioni di prodotto a Taiwan e non è commercializzato. Nessun record di licenza è disponibile per la revisione.
+- **Insonnia** (punteggio 99,32%, livello L4, decisione Hold): il meccanismo GABAergico rende plausibile un effetto sedativo-ipnotico, ma la letteratura fornita è in gran parte indiretta (revisioni su disturbi del sonno nel Parkinson, disturbo di panico, farmacocinetica degli ansiolitici, studio di prescrizione trasversale) e non ci sono sperimentazioni registrate. Le linee guida attuali privilegiano la CBT-I e limitano l'uso delle benzodiazepine.
+- **Neoplasia del nervo trigemino** (punteggio 99,30%, livello L5, decisione Hold): non vi è alcun razionale meccanicistico per un effetto antitumorale diretto; il punteggio riflette verosimilmente associazioni di rete. Non ci sono studi né pubblicazioni.
 
----
+## Conclusioni e prossimi passi
 
-## Considerazioni di Sicurezza
+**Decisione: Hold**
 
-Si prega di fare riferimento al bugiardino per le informazioni di sicurezza.
+**Motivazione:**
+- Per la RLS le evidenze sono di livello L3 (linee guida, revisioni e piccoli studi storici), senza sperimentazioni registrate. Le linee guida più recenti collocano le benzodiazepine dopo le terapie di prima linea.
+- In Italia non esistono autorizzazioni valide per il clonazepam in forma orale a gocce, e i dati di sicurezza dal foglio illustrativo mancano; ciò impedisce di procedere oltre la fase iniziale di valutazione. La RLS resta una questione di ricerca.
 
----
-
-## Conclusione e Prossimi Passi
-
-**Decisione: Procedere con Cautele**
-
-**Razionale:**
-Il meccanismo biologico è coerente — la soppressione mediata da GABA-A dell'ipereccitabilità del motore spinale affronta direttamente la fisiopatologia del PLMS nella SGSR — e l'uso del clonazepam in questa indicazione è supportato da oltre 40 anni di storia clinica, una revisione Cochrane, l'approvazione delle linee guida internazionali e due studi randomizzati. Tuttavia, occupa solo un ruolo di seconda linea/adiuvante, e l'assenza di grandi studi di registrazione di Fase 3 riflette il divario di evidenza comune ai farmaci più vecchi e non coperti da brevetto.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Remediation dei dati di sicurezza**: Gli avvertimenti del bugiardino di Taiwan e le controindicazioni sono attualmente mancanti (Data Gap DG001); i dati sulle interazioni farmaco-farmaco non sono stati trovati — entrambi devono essere recuperati prima di qualsiasi valutazione clinica
-- **Documentazione del MOA**: Il record formale del MOA di DrugBank deve essere reperibile per completare l'analisi meccanicistica (Data Gap DG002)
-- **Divario delle sperimentazioni cliniche**: Nessuno studio specifico per la SGSR dedicato al clonazepam esiste in ClinicalTrials.gov; uno studio controllato pragmatico o di Fase 2 in una popolazione SGSR ben definita fortifirebbe significativamente la base di evidenza
-- **Valutazione rischi-benefici per la popolazione target**: La lunga emivita del clonazepam (20–80 h) suscita preoccupazioni per la sedazione residua diurna, il rischio di cadute, il compromissione cognitiva e la dipendenza — in particolare negli anziani, che sono colpiti sproporzionatamente dalla SGSR; è richiesta una valutazione formale rischi-benefici
-- **Percorso normativo di Taiwan**: L'autorizzazione al commercio non esiste attualmente a Taiwan; la strategia normativa e la pianificazione del percorso sono prerequisiti per qualsiasi implementazione locale
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (dato bloccante)
+- Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
+- Confronto con le terapie di prima linea (ligandi alfa-2-delta, ferro) e valutazione del rapporto beneficio-rischio, incluso il rischio di dipendenza
+- Chiarimento dello stato regolatorio e delle formulazioni disponibili in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

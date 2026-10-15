@@ -2,7 +2,7 @@
 layout: default
 title: Glimepiride
 parent: Solo previsione del modello (L5)
-nav_order: 118
+nav_order: 223
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,76 +29,108 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Glimepiride: dal Diabete Mellito di Tipo 2 alla Sindrome Classica della Persona Rigida
+# Glimepiride: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Glimepiride è un agente antidiabetico sulfonilurea di terza generazione, ampiamente utilizzato per trattare il Diabete Mellito di Tipo 2 stimolando la secrezione insulinica pancreatica. Il modello TxGNN prevede che potrebbe essere efficace per la **Sindrome Classica della Persona Rigida**, tuttavia attualmente ci sono **0 trial clinici** e **0 pubblicazioni** a sostegno di questa direzione — lasciando questa previsione al livello di evidenza più basso possibile.
+Glimepiride è una sulfonilurea usata per il trattamento del diabete mellito di tipo 2.
+Il modello TxGNN ne prevede una possibile efficacia nella **sindrome della persona rigida classica**,
+ma per questa direzione **non risulta alcuno studio clinico né alcuna pubblicazione** nei dati compilati per questo report: la previsione è puramente computazionale.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Diabete Mellito di Tipo 2 (basato sulla classe di farmaco; nessun record normativo Taiwan disponibile) |
-| Indicazione nuova prevista | Sindrome Classica della Persona Rigida |
-| Punteggio previsione TxGNN | 99.75% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Diabete mellito di tipo 2 |
+| Nuova indicazione prevista | Sindrome della persona rigida classica (classic stiff person syndrome) |
+| Punteggio di predizione TxGNN | 99,75% |
 | Livello di evidenza | L5 |
-| Stato del mercato Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Rinviare |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 16 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole
 
-Attualmente, dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base di informazioni farmacologiche note, Glimepiride appartiene alla classe delle sulfoniluree di terza generazione e agisce principalmente legandosi al canale di potassio sensibile all'ATP (K-ATP) sulle cellule β pancreatiche, innescando il rilascio di insulina. Ha anche un debole effetto agonista parziale su PPAR-γ, che è molto meno pronunciato di quello delle tiazolidindioni.
+Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, glimepiride appartiene alla classe delle sulfonuree: agisce chiudendo i canali del potassio ATP-dipendenti (K-ATP) delle cellule beta pancreatiche, stimolando la secrezione di insulina. Questo meccanismo è ben consolidato nel diabete di tipo 2, ma non ha un legame noto con la neurotrasmissione GABAergica né con la rigidità neuromuscolare di origine autoimmune.
 
-La Sindrome Classica della Persona Rigida (SPS) è un raro disturbo neurologico autoimmune caratterizzato da anticorpi anti-GAD65 (decarbossilasi dell'acido glutammico 65). GAD65 è anche l'antigene autoimmune chiave preso di mira nel Diabete Mellito di Tipo 1. Poiché entrambe le condizioni condividono il targeting immune del GAD65, è probabile che TxGNN abbia catturato questa sovrapposizione biologica nella sua struttura grafica — creando un apparente ponte meccanicistico. Inoltre, le cellule neuronali esprimono canali K-ATP, quindi esiste un percorso teorico attraverso il quale Glimepiride potrebbe influenzare l'eccitabilità degli interneuroni GABAergici (poiché GAD65 catalizza la sintesi del GABA).
+L'unico collegamento ipotizzabile è indiretto: la sindrome della persona rigida è associata agli anticorpi anti-GAD65 e si presenta spesso insieme al diabete di tipo 1. È probabile che il punteggio elevato rifletta questa vicinanza nella rete di conoscenza (associazioni con il diabete) più che un reale razionale terapeutico. Questo legame non può essere verificato con i dati attuali.
 
-Tuttavia, il collegamento meccanicistico è altamente indiretto e speculativo. L'ipotesi che Glimepiride potrebbe migliorare la funzione degli interneuroni GABAergici in SPS non ha alcun supporto sperimentale. Il punteggio TxGNN elevato molto probabilmente riflette la topologia dell'antigene GAD65 condiviso nel grafico della conoscenza, piuttosto che qualsiasi azione farmacologica diretta o clinicamente plausibile. Questo è un caso classico in cui un modello cattura la prossimità della malattia ma non la vera idoneità farmaco-bersaglio.
+Anche la seconda previsione (sindrome dell'arto rigido focale) ha lo stesso identico punteggio e deriva probabilmente dalla vicinanza alla sindrome della persona rigida, non da evidenze indipendenti.
+
+### Altre indicazioni previste (sintesi)
+
+Per tutte le altre previsioni di alto rango non sono disponibili studi clinici e le evidenze sono di livello L5. Il razionale è, nel migliore dei casi, debole:
+
+| Rango | Indicazione prevista | Punteggio | Considerazioni |
+|------|------|------|------|
+| 2 | Sindrome dell'arto rigido focale | 99,75% | Vicinanza di rete alla sindrome della persona rigida; nessun razionale farmacologico plausibile |
+| 3 | Opsismodisplasia | 99,74% | Displasia scheletrica legata a INPPL1 (via PI3K/insulina); legame solo ipotetico |
+| 4 | Sindrome da disfunzione responsiva alla tiamina | 99,73% | Il diabete è una caratteristica della malattia; eventuale gestione solo sintomatica della glicemia |
+| 5 | Lipodistrofia localizzata indotta da farmaci | 99,62% | Probabile associazione con il trattamento del diabete; nessun ruolo terapeutico noto |
+| 6 | Lipodistrofia centrifuga | 99,60% | Associazione di categoria nel grafo; nessun razionale |
+| 7 | Lipoatrofia localizzata da pressione | 99,59% | Atrofia adiposa meccanica; nessuna via plausibile |
+| 8 | Lipodistrofia localizzata idiopatica | 99,56% | Possibile debole legame con gli effetti extrapancreatici di sensibilizzazione all'insulina |
+| 9 | Agenesia pancreatica | 99,55% | In linea di principio inefficace: senza massa beta-cellulare residua la sulfonilurea non agisce; servono insulina |
 
 ---
 
-## Evidenza da trial clinici
+## Evidenze da studi clinici
 
-Attualmente nessun trial clinico correlato registrato.
-
----
-
-## Evidenza dalla letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ---
 
-## Informazioni sul mercato Taiwan
+## Evidenze dalla letteratura
 
-Glimepiride non ha autorizzazioni approvate registrate a Taiwan (TFDA). Nessuna licenza di prodotto, forme di dosaggio o indicazioni approvate sono disponibili.
+Per la sindrome della persona rigida classica attualmente non è disponibile alcuna letteratura correlata.
+
+Per completezza, tra le altre previsioni è stata individuata una sola pubblicazione, relativa all'agenesia pancreatica (rango 9) e non pertinente alla terapia:
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) | 2003 | Revisione / studio di imaging diagnostico | European Journal of Endocrinology | Insidie dell'ecoendoscopia nella diagnosi di sospetti insulinomi (noduli pancreatici di natura incerta); non riguarda il trattamento dell'agenesia pancreatica |
+
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni attualmente valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati disponibili (le confezioni sono compresse). Elenco delle principali 5:
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 032845226 | AMARYL 30 cpr 4 mg | Sanofi Srl | Cancellata |
+| 032117222 | SOLOSA 30 cpr 4 mg | Laboratori Guidotti SpA | Cancellata |
+| 032117018 | SOLOSA 30 cpr 2 mg | Laboratori Guidotti SpA | Cancellata |
+| 045365020 | GLIMEPIRIDE 30 cpr 2 mg | Aurobindo Pharma Italia Srl | Cancellata |
+| 032845164 | AMARYL 30 cpr 3 mg | Sanofi Srl | Cancellata |
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per informazioni sulla sicurezza.
+- **Controindicazioni suggerite dal grafo di conoscenza** (non derivate dal foglio illustrativo): malattie renali, malattie epatiche, malattie della colecisti, insufficienza cardiaca congestizia, ipopituitarismo e deficit di ormoni ipofisari (inclusi deficit isolato dell'ormone della crescita, sindrome di Sheehan, sindrome di Kallmann, ipogonadismo ipogonadotropo), malattie del timo, osteoporosi (anche postmenopausale) e malattie infettive.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle di livello moderato rientrano fenilefrina, acebutololo, acetazolamide, famotidina, ranitidina, acitretina, formoterolo, pseudoefedrina, ketorolac, adrenalina, ibuprofene, etinilestradiolo, idrocortisone, albiglutide, salbutamolo, etanolo, nitazoxanide e idroclorotiazide. Le interazioni di livello minore includono idrocortisone e alclometasone per uso topico.
+
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, non disponibile nei dati compilati.
 
 ---
 
 ## Conclusione e prossimi passi
 
-**Decisione: Rinviare**
+**Decisione: Hold**
 
-**Razionale:**
-La previsione TxGNN riposa interamente su un'ipotesi meccanicistica altamente indiretta — l'antigene GAD65 autoimmune condiviso tra il Diabete Mellito di Tipo 1 e la Sindrome Classica della Persona Rigida — senza un singolo trial clinico di supporto o studio pubblicato. Inoltre, il meccanismo primario del farmaco (stimolazione della secrezione insulinica residua delle cellule β) è irrilevante per la patologia neurologica del SPS, e nessun percorso terapeutico plausibile è stato dimostrato sperimentalmente.
+**Motivazione:**
+La previsione per la sindrome della persona rigida classica si basa solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale farmacologico plausibile per una sulfonilurea. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.
 
-**Per procedere, è necessario quanto segue:**
-- Recuperare dati completi del MOA da DrugBank (correzione DG002) per confermare se esiste un qualsiasi engagement del bersaglio neurologico
-- Ottenere avvertenze del foglio illustrativo TFDA e controindicazioni (correzione DG001) prima che possa iniziare qualsiasi valutazione della sicurezza
-- Avviare studi preclinici per esplorare se Glimepiride modula l'attività degli interneuroni GABAergici o l'immunità anti-GAD65 in modelli animali di SPS
-- Consultazione con esperti neurologi o neuroimunologi specializzati nella Sindrome della Persona Rigida per valutare la plausibilità biologica
-- Chiarire se il punteggio TxGNN elevato riflette una vera relazione farmaco-malattia o un artefatto della topologia grafica dal nodo GAD65 condiviso (revisione dell'interpretabilità del modello consigliata)
-
+**Per procedere sarebbe necessario:**
+- Reperire i dati sul meccanismo d'azione (DrugBank) e verificare un eventuale legame con la fisiopatologia della sindrome (anti-GAD65, neurotrasmissione GABAergica)
+- Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Condurre una revisione sistematica della letteratura e, se giustificato, studi preclinici
+- Chiarire la situazione regolatoria e di disponibilità del farmaco in Italia, dato che non vi sono autorizzazioni valide
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

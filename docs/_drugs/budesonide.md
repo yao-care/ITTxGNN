@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Budesonide
-parent: Prove moderate (L3-L4)
-nav_order: 42
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 78
+evidence_level: L5
 indication_count: 10
 ---
 
 # Budesonide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,106 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Budesonide: dalle patologie infiammatorie all'eczema atopico
+# Budesonide: Dalla malattia di Crohn e dall'asma alla bronchite
 
-## Sommario in una frase
+## Riepilogo in una frase
 
-Il budesonide è un potente glucocorticoide sintetico utilizzato a livello mondiale per l'asma, la BPCO, la rinite allergica e le patologie infiammatorie intestinali; tuttavia, attualmente non è registrata alcuna indicazione approvata nel database italiano AIFA. Il modello TxGNN prevede che possa essere efficace per l'**eczema atopico**, in base al suo meccanismo di soppressione delle citochine Th2 che sono centrali in questa malattia della pelle. L'evidenza attuale consiste di **2 studi clinici recuperati** (nessuno dei quali valuta direttamente il budesonide per l'eczema) e **20 pubblicazioni** — con il supporto diretto più forte proveniente da uno studio di formulazione nanoparticellare preclinico del 2024 — collocando il livello di evidenza complessivo a **L4**.
+La budesonide è un corticosteroide a elevata attività antinfiammatoria locale, originariamente impiegato per la malattia di Crohn, le malattie infiammatorie intestinali, l'asma e la rinite allergica. Il modello TxGNN la indica come potenzialmente efficace per l'**eczema atopico** (primo nella classifica, ma senza alcuno studio clinico), mentre la **bronchite** è l'indicazione con il supporto più concreto, con **10 studi clinici** registrati e **18 pubblicazioni** raccolte. Nel complesso l'evidenza è ancora limitata e indiretta.
+
+> **Nota sulla scelta dell'indicazione.** Il primo candidato per punteggio, l'eczema atopico, non ha studi clinici né dati diretti di efficacia, e la voce «dermatite atopica» (rank 3) coincide con la stessa malattia. Per fornire un'analisi utile, questo report approfondisce la **bronchite** (rank 2), l'unica con studi clinici e il più alto livello di evidenza (L2). Gli altri candidati sono riassunti nella sezione dedicata.
 
 ---
 
-## Panoramica rapida
+## Quadro di sintesi
 
-| Elemento | Contenuto |
-|----------|----------|
-| Indicazione originaria | Nessuna indicazione approvata trovata nel database italiano AIFA |
-| Indicazione predetta | Eczema atopico |
-| Punteggio di predizione TxGNN | 99.96% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Hold |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Malattia di Crohn, malattie infiammatorie intestinali, asma, rinite allergica (dalle relazioni del grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
+| Nuova indicazione prevista | Bronchite (candidato con evidenza più solida; primo per punteggio: eczema atopico) |
+| Punteggio di predizione TxGNN | 99,81% (bronchite); 99,96% (eczema atopico) |
+| Livello di evidenza | L2 (bronchite); L5 (eczema atopico) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate, nessuna valida) |
+| Decisione raccomandata | Hold (con la bronchite come questione di ricerca da approfondire) |
 
 ---
 
 ## Perché questa predizione è ragionevole?
 
-Il budesonide è un potente glucocorticoide sintetico che esercita i suoi effetti antinfiammatori legandosi ai recettori glucocorticoidi intracellulari (GR). Una volta legato, sopprime la trascrizione delle citochine Th2 chiave — incluse IL-4, IL-5 e IL-13 — inibendo contemporaneamente il reclutamento degli eosinofili e riducendo le cascate infiammatorie dipendenti da NF-κB. I dati dettagliati del MOA da DrugBank non erano disponibili per questa valutazione; il meccanismo descritto qui è basato sulla conoscenza farmacologica consolidata e sulla logica di riposizionamento fornita nel pacchetto di evidenze.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze note, la budesonide è un glucocorticoide con ampia azione antinfiammatoria e immunosoppressiva, già consolidato nell'asma e nelle patologie infiammatorie della mucosa. Dal punto di vista meccanicistico può quindi essere applicabile ad altre infiammazioni delle vie aeree.
 
-L'eczema atopico (ICD-10 L20) è principalmente guidato da una risposta infiammatoria dominante Th2, caratterizzata da segnalazione elevata IL-4/IL-13, funzione barriera cutanea compromessa e infiltrazione eosinofila tissutale. Il meccanismo del budesonide di sopprimere direttamente questi stessi percorsi citochino-mediati fornisce una logica meccanisticamente coerente per la sua potenziale utilità in questa indicazione. Infatti, i corticosteroidi topici in generale sono già un trattamento di prima linea per la dermatite atopica — la questione per questo candidato di riposizionamento risiede nel fatto se il budesonide specificamente, in particolare in formati di somministrazione innovativi, offra vantaggi significativi.
+L'asma, indicazione originale, e la bronchite condividono vie infiammatorie delle vie respiratorie. La budesonide inalatoria riduce l'infiammazione delle vie aeree e viene già usata nella BPCO. Diversi studi di fase 2 hanno testato budesonide/formoterolo nella bronchiolite, compresa la bronchiolite obliterante dopo trapianto di cellule staminali.
 
-Una nota aggiuntiva di cautela: TxGNN ha classificato sia "eczema atopico" (rango #1, punteggio 99.96%) che "dermatite, atopica" (rango #3, punteggio 99.81%) come predizioni separate. Questi sono clinicamente la stessa entità (ICD-10 L20), suggerendo che il modello sta predicendo la stessa indicazione da due nodi del grafo di conoscenza diversi. L'evidenza umana più diretta in letteratura proviene da PMID 38275852 (2024), che ha sviluppato idrogel nanoparticellari di budesonide sensibili al pH esplicitamente progettati per la dermatite atopica pediatrica, confermando la logica farmacologica riconosciuta. Tuttavia, questo rimane uno studio di formulazione preclinico.
-
----
-
-## Evidenza da studi clinici
-
-Nessuno dei due studi recuperati valuta direttamente il budesonide come trattamento per l'eczema atopico. Entrambi sono Grado C — la malattia atopica appare come criterio di arruolamento di base o comorbilità, non come target di trattamento primario.
-
-| Numero dello studio | Fase | Stato | Arruolamento | Principali risultati |
-|-------------------|------|-------|-------------|-----------------|
-| [NCT04680117](https://clinicaltrials.gov/study/NCT04680117) | NA | Sconosciuto | 150 | Caratterizza gli endotipi di asma grave pediatrico utilizzando analisi immunitarie, metabolomiche e microbiche; l'atopia (incluso l'eczema) è una variabile fenotipica di base, non un endpoint di trattamento — non applicabile come evidenza di budesonide per l'eczema |
-| [NCT01028560](https://clinicaltrials.gov/study/NCT01028560) | Fase 1/2 | Completato | 58 | Immunoterapia allergica (non budesonide) in bambini asmatici atopici ad alto rischio per l'asma; l'eczema è elencato come fattore di rischio di arruolamento — non applicabile come evidenza diretta di trattamento |
+Occorre cautela: le popolazioni sono eterogenee (trapiantati, pediatrici, BPCO), i campioni sono piccoli e l'uso di prodotti in combinazione impedisce di attribuire l'effetto alla sola budesonide. Una meta-analisi nella BPCO segnala inoltre rischi, in particolare la polmonite.
 
 ---
 
-## Evidenza da letteratura
+## Evidenze dagli studi clinici
 
-| PMID | Anno | Tipo | Rivista | Principali risultati |
-|------|------|------|---------|-----------------|
-| [38275852](https://pubmed.ncbi.nlm.nih.gov/38275852/) | 2024 | Preclinico / Formulazione | Gels (Basel) | Nanoparticelle di Eudragit L100 caricate di budesonide formulate in idrogel sensibili al pH per la terapia locale della dermatite atopica pediatrica; sfrutta i cambiamenti di pH nelle lesioni atopiche per il rilascio mirato — l'evidenza diretta più forte disponibile, ma solo preclinico |
-| [21062310](https://pubmed.ncbi.nlm.nih.gov/21062310/) | 2010 | RCT veterinaria | J Vet Pharmacol Ther | Studio randomizzato, in cieco, controllato con placebo, crossover (n=29 cani) di balsamo leave-on di budesonide 0,025% (Barazone) per la dermatite atopica canina; ha ridotto significativamente le lesioni cutanee e il prurito — unica evidenza di studio controllato, ma in un modello non umano |
-| [9496795](https://pubmed.ncbi.nlm.nih.gov/9496795/) | 1998 | Studio clinico | Pediatric Dermatology | Studio di knemometria in 14 bambini (5–12 anni) con dermatite atopica trattati con budesonide topico; ha rilevato un'attività glucocorticoide sistemica misurabile — conferma l'assorbimento dermico e la preoccupazione sulla sicurezza sistemica nei bambini |
-| [8864369](https://pubmed.ncbi.nlm.nih.gov/8864369/) | 1996 | Studio clinico | Dermatology (Basel) | Glucocorticosteroidi topici nei bambini con dermatite atopica valutati per gli effetti sull'asse IGF, ricambio di collagene osseo; assorbimento percutaneo confermato — baseline di sicurezza pertinente per l'uso topico pediatrico |
-| [19875223](https://pubmed.ncbi.nlm.nih.gov/19875223/) | 2010 | Studio clinico prospettico | Allergologia et Immunopathologia | Risposta differenziale al budesonide in lattanti atopici vs. non-atopici con sibili ricorrenti; lo stato atopico ha modulato la risposta terapeutica — evidenza indiretta della sensibilità farmacologica nel fenotipo atopico |
-| [33931866](https://pubmed.ncbi.nlm.nih.gov/33931866/) | 2021 | Trasversale | Contact Dermatitis | Serie di patch-test di base italiana SIDAPA (2018–2019): la frequenza dell'allergia al budesonide è diminuita negli ultimi due decenni; conferma che il budesonide rimane il marcatore standard di ipersensibilità ai corticosteroidi in Italia |
-| [35133669](https://pubmed.ncbi.nlm.nih.gov/35133669/) | 2022 | Trasversale | Contact Dermatitis | Modelli di sensibilizzazione da contatto in pazienti di dermatologia asiatici con e senza dermatite atopica; positività al patch-test simile o superiore nei pazienti con DA — segnale di sicurezza pertinente per l'uso topico di budesonide |
-| [31705907](https://pubmed.ncbi.nlm.nih.gov/31705907/) | 2020 | Revisione | J Allergy Clin Immunol | Revisione delle terapie emergenti per l'EoE; i corticosteroidi topici ingeriti (incluso il budesonide) sono il trattamento off-label standard attuale — dimostra il ruolo antinfiammatorio mucosale consolidato con base meccanistica Th2 condivisa |
-| [14616123](https://pubmed.ncbi.nlm.nih.gov/14616123/) | 2003 | Revisione | Allergy | Ipersensibilità ai corticosteroidi nei pazienti asmatici; il budesonide identificato come causante allergia da contatto ritardata — segnale di sicurezza direttamente rilevante per l'applicazione topica nei pazienti atopici |
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Revisione | Neuroimmunomodulation | Corticosteroidi intranasali e soppressione dell'asse HPA; discute la sicurezza sistemica nei pazienti con rinite allergica comorbida e dermatite atopica — supporta la necessità di monitoraggio sistemico nei contesti di politerapia |
+Sono riportati gli studi più pertinenti alla bronchite (sono esclusi quelli non rilevanti, come ibrutinib per la GVHD cronica e ivermectina per il COVID-19).
+
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT00624754](https://clinicaltrials.gov/study/NCT00624754) | Fase 2 | Completato | 32 | Budesonide/formoterolo nella bronchiolite obliterante dopo trapianto allogenico di cellule staminali |
+| [NCT01560689](https://clinicaltrials.gov/study/NCT01560689) | Fase 2 | Completato | 32 | Studio in aperto di budesonide/formoterolo inalatorio nella bronchiolite obliterante dopo trapianto |
+| [NCT00483743](https://clinicaltrials.gov/study/NCT00483743) | Fase 2 | Completato | 62 | Studio randomizzato in doppio cieco di 6 settimane: TPI 1020 inalatorio vs budesonide vs placebo in pazienti con BPCO |
+| [NCT02002715](https://clinicaltrials.gov/study/NCT02002715) | Fase 4 | Completato | 106 | Confronto di durate diverse di corticosteroidi inalatori nella bronchite eosinofila (rilevanza incerta) |
+| [NCT03436225](https://clinicaltrials.gov/study/NCT03436225) | Fase 1 | Stato sconosciuto | 80 | Terapia steroidea nella bronchiolite acuta (steroide specifico non chiaro) |
+| [NCT00202189](https://clinicaltrials.gov/study/NCT00202189) | Fase 4 | Completato | 4 | Effetti acuti dei corticosteroidi inalatori sulla funzione delle vie aeree nella BPCO (solo meccanicistico) |
+| [NCT01432080](https://clinicaltrials.gov/study/NCT01432080) | Fase 2 | Terminato | 12 | Immunosoppressione e malattia polmonare associata al trapianto (campione troppo piccolo) |
+| [NCT06571942](https://clinicaltrials.gov/study/NCT06571942) | Fase 4 | Stato sconosciuto | 128 | Terapie triple inalatorie sulle piccole vie aeree in BPCO/bronchite cronica (indiretto) |
+
+---
+
+## Evidenze dalla letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [31015757](https://pubmed.ncbi.nlm.nih.gov/31015757/) | 2019 | Meta-analisi | Int J Chron Obstruct Pulmon Dis | Rischi di budesonide/formoterolo nella BPCO stabile |
+| [11129126](https://pubmed.ncbi.nlm.nih.gov/11129126/) | 2000 | Revisione | Drugs | Uso della sospensione inalatoria di budesonide in disturbi respiratori infiammatori di bambini e adulti |
+| [8620234](https://pubmed.ncbi.nlm.nih.gov/8620234/) | 1996 | Studio clinico | Arch Pediatr Adolesc Med | La terapia antinfiammatoria (cromoglicato o budesonide) riduce il respiro sibilante dopo bronchiolite |
+| [10780759](https://pubmed.ncbi.nlm.nih.gov/10780759/) | 2000 | Studio clinico | Eur Respir J | Infiammazione delle vie aeree e tosse prima e dopo budesonide inalatoria nella bronchite eosinofila |
+| [28810628](https://pubmed.ncbi.nlm.nih.gov/28810628/) | 2017 | Studio clinico | Exp Ther Med | Budesonide più terbutalina per aerosol nella bronchite asmatica pediatrica acuta |
+| [37954384](https://pubmed.ncbi.nlm.nih.gov/37954384/) | 2023 | Meta-analisi | Heliyon | Budesonide e ambroxolo inalatori nella polmonite pediatrica |
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Linee guida | Basic Clin Pharmacol Toxicol | Diagnosi e farmacoterapia della BPCO stabile (Finlandia) |
+| [9057793](https://pubmed.ncbi.nlm.nih.gov/9057793/) | 1997 | Revisione | Pediatr Clin North Am | Progressi nel trattamento di bronchiolite e laringite |
+| [41654451](https://pubmed.ncbi.nlm.nih.gov/41654451/) | 2026 | Farmacovigilanza | Clin Ther | Valutazione di sicurezza di budesonide/formoterolo su FAERS, JADER e CVAR |
+| [24000786](https://pubmed.ncbi.nlm.nih.gov/24000786/) | 2013 | Studio veterinario | J Small Anim Pract | Budesonide inalatoria nei gatti con asma e bronchite cronica |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Il budesonide non è registrato nel database italiano AIFA. Nessun record di prodotto autorizzato è disponibile per questo mercato.
+Tutte le 20 autorizzazioni risultano cancellate; per nessuna è disponibile il testo dell'indicazione approvata. Di seguito le prime 5.
+
+| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 034734018 | ENTOCIR 50 cps 3 mg rilascio modificato | Tillotts Pharma GmbH | Cancellata |
+| 043461033 | CORTIMENT 30 cpr 9 mg rilascio prolungato | Ferring SpA | Cancellata |
+| 033736075 | AIRCORT nebul 20 fiale 2 ml 0,5 mg/ml | Italchimici SpA | Cancellata |
+| 045928090 | JORVEZA 90 cpr orodispersibili 0,5 mg | Dr. Falk Pharma GmbH | Cancellata |
+| 027621061 | PULMAXAN 20 flaconcini sosp. nebul. 2 ml 0,5 mg/ml | AstraZeneca SpA | Cancellata |
 
 ---
 
-## Considerazioni di sicurezza
+## Aspetti di sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
+- **Controindicazioni (da relazioni del grafo di conoscenza, non dal foglietto illustrativo):** ipertensione, epilessia, epatopatie, malattie della colecisti, iperglicemia, scompenso cardiaco congestizio, cheratite da herpes simplex, morbillo, ipopituitarismo e deficit di ormone della crescita, alcuni difetti del ciclo dell'urea.
+- **Interazioni farmacologiche:** sono state rilevate 100 interazioni; tra quelle di livello **maggiore** figurano **adalimumab** e **fosamprenavir**. Numerose le interazioni di livello moderato (ad es. ketorolac, ibuprofene, nifedipina, fluvoxamina, isotretinoina, etinilestradiolo, zidovudina). Formoterolo e salbutamolo hanno interazione lieve.
+- **Segnali dalla letteratura:** rischio di polmonite con budesonide/formoterolo nella BPCO; soppressione surrenalica con corticosteroidi intranasali; sensibilizzazione da contatto e allergia ai corticosteroidi; effetti sulla crescita nei bambini con corticosteroidi topici.
 
-> ⚠️ **Importante segnale di sicurezza identificato in letteratura**: Studi indipendenti multipli — inclusi PMID 30053491, 24603519, 35184304, 19183418, e 37550231 — riportano in modo coerente che il budesonide è un allergene da contatto riconosciuto nei pazienti con dermatite atopica, rientrante nel cluster di cross-reattività dei corticosteroidi del Gruppo B. Questo crea un paradosso terapeutico: l'agente antinfiammatorio previsto potrebbe agire lui stesso come aptene sensibilizzante nella popolazione di pazienti target. Questo risultato è specifico per le vie di somministrazione topica e deve essere affrontato come preoccupazione di sicurezza prioritaria prima che proceda qualsiasi indagine clinica nell'eczema atopico.
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo AIFA, non ancora acquisito.
+
+---
+
+## Altri candidati previsti
+
+| Indicazione | Punteggio | Livello | Valutazione |
+|------|------|------|------|
+| Eczema atopico / dermatite atopica (stessa malattia, da unire) | 99,96% / 99,81% | L5 | Nessuno studio clinico; letteratura su sensibilizzazione da contatto e formulazioni precliniche. Hold |
+| Polipo del seno frontale | 99,69% | L4 | Il più plausibile tra i polipi (steroidi consolidati nella rinosinusite polipoide), ma evidenza indiretta |
+| Polipo dell'orecchio medio | 99,71% | L5 | Solo estrapolazione dalla rinosinusite |
+| Polipo delle corde vocali, epulide, polipo fibroepiteliale, polipo uterino, polipo del condotto uditivo esterno | 99,69–99,71% | L5 | Solo predizione, nessun supporto clinico o meccanicistico |
 
 ---
 
@@ -107,18 +136,15 @@ Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
 
 **Decisione: Hold**
 
-**Logica:**
-La base meccanistica per il budesonide nell'eczema atopico è farmacologicamente coerente (soppressione Th2 mediata da GR), ma l'evidenza attuale è limitata al lavoro di formulazione preclinico e ai segnali clinici indiretti. Criticamente, un rischio di sensibilizzazione da contatto ben documentato nella popolazione target esatta crea una preoccupazione di sicurezza che deve essere risolta prima di avanzare questo candidato.
+**Motivazione:**
+- L'indicazione di punta per punteggio (eczema atopico) è sostenuta solo dal modello. Per la bronchite esistono studi di fase 2 e 4, ma piccoli, eterogenei e spesso con combinazioni che non isolano il contributo della budesonide, quindi la decisione resta in attesa. Inoltre, tutte le autorizzazioni italiane sono cancellate.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Risoluzione della lacuna di dati di sicurezza**: Ottenere il foglio illustrativo AIFA italiano (Data Gap DG001 — Bloccante) e i dati MOA di DrugBank (Data Gap DG002 — Alto) prima di qualsiasi ulteriore fase di valutazione
-- **Valutazione del rischio di sensibilizzazione da contatto**: Condurre un protocollo formale di screening patch-test per l'ipersensibilità al budesonide nei pazienti con dermatite atopica prospettica; considerare la profilazione della cross-reattività dei corticosteroidi del Gruppo B
-- **Evidenza di studi clinici umani**: Attualmente non esiste uno studio RCT o prospettico umano che valuti direttamente il budesonide per l'eczema atopico — uno studio di proof-of-concept di Fase 2 è richiesto per avanzare all'evidenza L2
-- **Strategia di somministrazione innovativa**: Se si persegue questa indicazione, dare la priorità ai sistemi di somministrazione con nanoparticelle o incapsulati (come esplorato in PMID 38275852) per ridurre l'esposizione diretta al sensibilizzante e migliorare la concentrazione locale del farmaco
-- **Deduplicazione del grafo di conoscenza**: "Eczema atopico" (rango #1) e "Dermatite, atopica" (rango #3) sono la stessa entità clinica (ICD-10 L20); queste due predizioni TxGNN dovrebbero essere unite nella pipeline per evitare il doppio conteggio dell'evidenza e delle raccomandazioni
-- **Valutare il rango #2 (Bronchite) come candidato di priorità superiore**: L'indicazione di bronchite riporta evidenza L2 con una meta-analisi e revisione sistematica direttamente coinvolgente il budesonide, e una raccomandazione "Procedere con Guardrails" — questo potrebbe rappresentare un'opportunità di riposizionamento più immediata
-
+**Per procedere è necessario:**
+- Acquisire il foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza).
+- Ottenere i dati sul meccanismo d'azione da DrugBank.
+- Condurre una revisione mirata sulla bronchite/bronchiolite con budesonide in monoterapia, separando le popolazioni (pediatrica, post-trapianto, BPCO).
+- Valutare la fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia.
+- Verificare, per i polipi sinonasali, una revisione dedicata alla rinosinusite cronica con poliposi nasale.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -2,7 +2,7 @@
 layout: default
 title: Siponimod
 parent: Solo previsione del modello (L5)
-nav_order: 187
+nav_order: 406
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,81 +29,83 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Siponimod: dalla sclerosi multipla progressiva secondaria all'ipertensione polmonare
+# Siponimod: Dalla sclerosi multipla secondaria progressiva all'ipertensione polmonare
 
-## Sommario
+## Riepilogo in una frase
 
-Siponimod (Mayzent) è un modulatore selettivo dei recettori della sfingosina-1-fosfato (S1P) approvato per la sclerosi multipla progressiva secondaria (SPMS), dove riduce l'infiltrazione di linfociti nel SNC e rallenta la progressione della malattia.
-Il modello TxGNN predice che potrebbe essere efficace per l'**ipertensione polmonare**,
-tuttavia attualmente ci sono **0 trial clinici** e **0 pubblicazioni** che supportano direttamente questa direzione.
+Siponimod è un modulatore selettivo dei recettori S1P1/S5 della sfingosina-1-fosfato, commercializzato in Italia con il nome Mayzent. Il modello TxGNN ne prevede una possibile efficacia nell'**ipertensione polmonare** (punteggio molto alto, ma privo di sperimentazioni cliniche e pubblicazioni a sostegno): l'evidenza è quindi solo di tipo predittivo. Per le indicazioni correlate all'emicrania e all'artrite reumatoide esiste solo una letteratura indiretta o aneddotica.
 
----
+> Nota: i dati compilati per questo report non riportano il testo dell'indicazione approvata in Italia. L'indicazione originale non è quindi indicata in modo formale; i riferimenti alla sclerosi multipla derivano dalla letteratura citata e dalla classe del farmaco.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Sclerosi Multipla Progressiva Secondaria (SPMS) |
-| Indicazione nuova predetta | Ipertensione polmonare |
-| Punteggio di predizione TxGNN | 99.68% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non disponibile nei dati AIFA compilati (la letteratura associa siponimod alla sclerosi multipla secondaria progressiva) |
+| Nuova indicazione prevista | Ipertensione polmonare |
+| Punteggio di previsione TxGNN | 99,68% |
 | Livello di evidenza | L5 |
-| Stato di commercializzazione in Italia | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché questa predizione è ragionevole?
+Siponimod è un modulatore selettivo dei recettori S1P1 e S1P5. I dati di meccanismo d'azione presenti nel database sono incompleti, ma il razionale della classe è noto: la modulazione di S1P1 riduce la fuoriuscita dei linfociti dai linfonodi e attenua la neuroinflammazione.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. In base alle informazioni note, siponimod è un modulatore selettivo dei recettori S1P1/S1P5 approvato per la sclerosi multipla progressiva secondaria. Agisce trattenendo i linfociti nei linfonodi, riducendo la loro infiltrazione nel SNC, e inoltre esercita effetti neuroprotettivi attraverso i recettori S1P5 nel cervello e nel midollo spinale.
+Per l'ipertensione polmonare il legame è solo teorico: la segnalazione S1P è coinvolta nel rimodellamento vascolare polmonare e nella funzione di barriera endoteliale, ma non vi sono dati specifici su siponimod. Il punteggio TxGNN è molto elevato (0,997), senza però alcuna sperimentazione clinica o pubblicazione a supporto.
 
-Il collegamento teorico all'ipertensione polmonare risiede nella biologia vascolare della segnalazione S1P. I recettori S1P1 sono espressi sulle cellule endoteliali vascolari polmonari, e l'asse S1P regola il tono vascolare, l'integrità della barriera endoteliale e la proliferazione delle cellule muscolari lisce — tutti processi disregolati nell'ipertensione polmonare arteriosa (PAH). Un modulatore S1P1 potrebbe, in linea di principio, influenzare il rimodellamento vascolare polmonare patologico.
+Altre previsioni ad alto punteggio, tutte con raccomandazione Hold salvo dove indicato:
 
-Tuttavia, questo collegamento meccanicistico opera in entrambe le direzioni. Siponimod ha avvertimenti di sicurezza cardiaca consolidati — inclusa bradicardia alla prima dose e blocco della conduzione AV — che rappresentano una preoccupazione specifica nei pazienti affetti da ipertensione polmonare che comunemente hanno funzione ventricolare destra compromessa. Questo profilo di sicurezza può costituire una controindicazione relativa o assoluta in questa popolazione. La validazione preclinica in modelli di malattia vascolare polmonare sarebbe essenziale prima di qualsiasi ulteriore sviluppo in questa direzione.
+- **Emicrania (e sottotipi)**: ipotesi basata sulla neuroinflammazione e sulla depressione corticale diffusa. La letteratura disponibile è debole (vedi sotto).
+- **Artrite reumatoide**: la modulazione S1P riduce il traffico linfocitario verso i tessuti infiammati. Esistono revisioni di classe che sostengono indirettamente l'ipotesi; è l'unica previsione classificata come "domanda di ricerca".
+- **Cardiopatia cifoscoliotica, angina di Prinzmetal, atrofoderma vermicolare**: nessun legame meccanicistico plausibile o solo teorico, e nessuna evidenza. Nelle patologie cardiache la bradicardia e i ritardi di conduzione atrioventricolare di siponimod sono una preoccupazione di sicurezza.
 
----
+## Evidenze da studi clinici
 
-## Evidenza da trial clinici
+Al momento non risultano studi clinici registrati correlati all'ipertensione polmonare. Nessuna delle otto indicazioni previste ha studi clinici registrati.
 
-Attualmente nessun trial clinico correlato è registrato.
+## Evidenze dalla letteratura
 
----
+Per l'ipertensione polmonare, l'indicazione principale, non risulta alcuna letteratura correlata. Di seguito la letteratura disponibile per le indicazioni previste di rango inferiore (emicrania e artrite reumatoide).
 
-## Evidenza da letteratura
-
-Attualmente nessuna letteratura correlata è disponibile.
-
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [35382764](https://pubmed.ncbi.nlm.nih.gov/35382764/) | 2022 | Caso clinico/commento | BMC Anesthesiology | Descrive un caso di remissione dell'emicrania grave in comorbilità con l'avvio di interferone β1a; discute le terapie immunomodulanti (interferone β1a, siponimod) nell'emicrania. Non è un'evidenza interventistica |
+| [33983615](https://pubmed.ncbi.nlm.nih.gov/33983615/) | 2021 | Revisione | Drugs | Il targeting della segnalazione S1P nelle malattie immuno-mediate oltre la sclerosi multipla; supporto indiretto di classe |
+| [29500302](https://pubmed.ncbi.nlm.nih.gov/29500302/) | 2019 | Revisione | Cold Spring Harb Perspect Med | Terapie orali per la sclerosi multipla; rilevanza indiretta per l'artrite reumatoide |
+| [30629375](https://pubmed.ncbi.nlm.nih.gov/30629375/) | 2019 | Rassegna generica | Revue médicale suisse | Rassegna di neurologia: siponimod riduce in modo significativo la progressione della disabilità nella SM secondaria progressiva; menziona gli anticorpi anti-CGRP per l'emicrania. Rilevanza per l'emicrania non dimostrabile |
+| [28703543](https://pubmed.ncbi.nlm.nih.gov/28703543/) | 2017 | Rassegna generica | Revue médicale suisse | Rassegna di neurologia con titolo generico; menziona le terapie per l'emicrania ma non siponimod in modo specifico per questa indicazione |
 
 ## Informazioni sul mercato italiano
 
-Siponimod non è attualmente commercializzato in Italia. Nessuna autorizzazione AIFA è registrata.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 048440073 | MAYZENT 28 cpr rivestite 1 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048440010 | MAYZENT 12 cpr rivestite 0,25 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048440034 | MAYZENT 28 cpr rivestite 2 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
 
 ## Considerazioni sulla sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra le principali di livello **maggiore** figurano famotidina, ranitidina, cimetidina, idrocortisone, desametasone, betametasone, triamcinolone, budesonide, aprepitant, claritromicina, dolasetron, palonosetron, ossandrolone e levofloxacina. Tra quelle di livello **moderato**: loperamide, bisacodile, acido picosolfurico, polietilenglicole con elettroliti, solfato di sodio e naltrexone.
+- **Aspetti di classe**: i modulatori S1P possono causare bradicardia e ritardi di conduzione atrioventricolare, da considerare in particolare nelle indicazioni cardiovascolari e polmonari.
 
-> **Nota:** I dati sugli avvertimenti del foglio illustrativo e sulle controindicazioni non erano recuperabili in questo pacchetto di evidenze. In base alla classe farmacologica del farmaco (modulatore del recettore S1P), le considerazioni di sicurezza clinicamente rilevanti includono: bradicardia alla prima dose, blocco della conduzione AV, edema maculare, rischio di infezioni dovute a linfopenia e requisiti di dosaggio dipendenti dal genotipo CYP2C9.
+Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e prossimi passi
+**Decisione: Hold**
 
-**Decisione: Sospendere**
+**Motivazione:**
+- La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico. In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili.
 
-**Razionale:**
-Il modello TxGNN assegna un punteggio di predizione elevato (99.68%) basato sulla connettività del grafo di conoscenza tra la biologia del recettore S1P1 e la malattia vascolare polmonare, ma attualmente non esiste alcuna evidenza clinica o letteraria pubblicata che supporti specificamente siponimod nell'ipertensione polmonare. Inoltre, il noto profilo di sicurezza cardiaca del farmaco suscita preoccupazioni specifiche in questa popolazione di pazienti.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Validazione preclinica:** Studi su modelli animali di ipertensione polmonare arteriosa (ad es., modello di ratto con monocrotalina o Sugen/ipossia) che esaminano l'effetto della modulazione S1P1 sul rimodellamento vascolare polmonare
-- **Valutazione della sicurezza cardiaca:** Valutazione emodinamica ventricolare destra in un contesto specifico per PH, dato il rischio noto di bradicardia e blocco AV
-- **Recupero dati MOA completi:** Query dell'API DrugBank per confermare il profilo di selettività dei recettori (S1P1 vs. S1P5 vs. altri sottotipi) e la segnalazione a valle
-- **Revisione della sicurezza normativa:** Scaricare e analizzare il foglio illustrativo completo EMA/AIFA per identificare se l'ipertensione polmonare o le anomalie della conduzione cardiaca sono elencate come controindicazioni
-- **Revisione del panorama comparativo:** Esaminare altri modulatori S1P (fingolimod, ozanimod) per eventuali dati preclinici o clinici PAH disponibili per valutare la plausibilità a livello di classe
-
+**Per procedere sono necessari:**
+- Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni) e dell'indicazione approvata
+- Dati dettagliati sul meccanismo d'azione (da DrugBank)
+- Studi preclinici sul ruolo di S1P1/S5 nell'ipertensione polmonare
+- Valutazione della sicurezza cardiovascolare e polmonare (bradicardia, conduzione AV) nella popolazione target
+- Chiarimento dello stato di commercializzazione in Italia
+- Eventualmente, approfondimento dell'artrite reumatoide come domanda di ricerca, in base alle revisioni di classe disponibili
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

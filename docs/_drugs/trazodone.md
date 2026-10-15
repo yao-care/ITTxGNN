@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trazodone
-parent: Prove elevate (L1-L2)
-nav_order: 206
-evidence_level: L2
+parent: Prove moderate (L3-L4)
+nav_order: 449
+evidence_level: L3
 indication_count: 10
 ---
 
 # Trazodone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,99 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Trazodone: dal Disturbo Depressivo Maggiore al Disturbo Ossessivo-Compulsivo
+# Trazodone: dalla depressione al disturbo ossessivo-compulsivo
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Trazodone è un antidepressivo atipico approvato dalla FDA per il trattamento del Disturbo Depressivo Maggiore, che funziona principalmente attraverso meccanismi serotoninergici.
-Il modello TxGNN predice che potrebbe essere efficace per il **Disturbo Ossessivo-Compulsivo (DOC)**,
-con **0 studi clinici** e **20 pubblicazioni** che attualmente supportano questa direzione.
+Il trazodone è un antidepressivo originariamente impiegato nella depressione (unipolare, endogena, disturbo depressivo maggiore) e nei disturbi d'ansia.
+Il modello TxGNN prevede che possa essere efficace nel **disturbo ossessivo-compulsivo (DOC)**.
+Al momento non risultano **sperimentazioni cliniche registrate**, ma sono disponibili **20 pubblicazioni**, in larga parte datate e di piccole dimensioni: casi clinici, serie di casi e un unico studio in doppio cieco controllato con placebo (PMID 1629380) di cui non è possibile verificare esito e numerosità.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Disturbo Depressivo Maggiore (approvato dalla FDA; non registrato in Italia) |
-| Indicazione Prevista Nuova | Disturbo Ossessivo-Compulsivo (DOC) |
-| Punteggio di Previsione TxGNN | 99.95% |
-| Livello di Evidenza | L2 |
-| Stato del Mercato Italiano | Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Procedere con Cautele |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (testo dell'indicazione AIFA non disponibile) |
+| Nuova indicazione prevista | Disturbo ossessivo-compulsivo |
+| Punteggio di predizione TxGNN | 99,95% |
+| Livello di evidenza | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-Attualmente, i dati formali sul meccanismo d'azione non sono disponibili da DrugBank. Tuttavia, sulla base della letteratura pubblicata, trazodone è un antidepressivo atipico con due azioni farmacologiche chiave: (1) inibizione del reuptake della serotonina (5-HT), e (2) antagonismo ai recettori 5-HT2A/2C. Questi doppi effetti serotoninergici costituiscono la base teorica per il suo potenziale utilizzo nel DOC.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Dalla letteratura identificata, il trazodone antagonizza i recettori 5-HT2A/2C e inibisce debolmente la ricaptazione della serotonina; il suo metabolita attivo, la mCPP, è un agente serotoninergico.
 
-Il DOC è compreso come implicante una disregolazione della neurotrasmissione serotoninergica, e la farmacoterapia di prima linea attuale — SSRI e clomipramina — agisce precisamente attraverso il sistema della serotonina. Trazodone condivide questo profilo serotoninergico, sebbene la sua affinità per il trasportatore 5-HT sia inferiore a quella degli SSRI tipici, il che può limitare la sua potenza rispetto ai trattamenti standard per il DOC. Degno di nota, uno studio di neuroimaging del 1987 (PMID 3501130) ha riscontrato che la risposta al trattamento con trazodone nei pazienti con DOC era correlata a cambiamenti misurabili nel metabolismo del glucosio nel nucleo caudato misurato mediante PET — fornendo rare prove neurobiologiche per un collegamento meccanicistico.
+La modulazione serotoninergica è la base farmacologica consolidata del trattamento del DOC, dominato da SSRI e clomipramina. Il legame meccanicistico è quindi plausibile, e la depressione e il DOC spesso coesistono. Il trazodone è stato provato come terapia di potenziamento nel DOC resistente alla clomipramina.
 
-La sovrapposizione meccanicistica è quindi genuina, seppur parziale. Trazodone può essere particolarmente utile nei pazienti con DOC resistenti a clomipramina, in quelli con depressione comorbida e insonnia (dove le proprietà sedative dell'antagonista H1 di trazodone forniscono un beneficio aggiuntivo), o come strategia di potenziamento. L'evidenza è modesta e risale principalmente dalla fine degli anni '80-'90, il che significa che mancano studi controllati moderni — ma la base biologica è ben fondata.
-
----
-
-## Evidenza da Studi Clinici
-
-Attualmente nessuno studio clinico correlato registrato.
+I risultati clinici sono però contrastanti: alcuni pazienti hanno risposto in modo favorevole, mentre un pilota con triptofano ha mostrato benefici marginali. Il trazodone non è un agente di prima linea nel DOC.
 
 ---
 
-## Evidenza da Letteratura
+## Evidenze da sperimentazioni cliniche
 
-| PMID | Anno | Tipo | Rivista | Principali Risultati |
-|------|------|------|---------|-------------|
-| [1629380](https://pubmed.ncbi.nlm.nih.gov/1629380/) | 1992 | RCT | Journal of Clinical Psychopharmacology | Studio in doppio cieco, controllato con placebo, di trazodone in pazienti con DOC; ha investigato l'efficacia antiossiccativa in un contesto controllato |
-| [8993077](https://pubmed.ncbi.nlm.nih.gov/8993077/) | 1996 | Revisione | Psychopharmacology Bulletin | Revisioni di mono- e polifarmacoterapia del DOC; il DOC risponde esclusivamente agli SSRI; trazodone discusso nel contesto di potenziamento |
-| [8134850](https://pubmed.ncbi.nlm.nih.gov/8134850/) | 1994 | Revisione | Southern Medical Journal | Gestione farmacologica del DOC; ipotesi di disregolazione serotonina/dopamina; agenti serotoninergici incluso trazodone revisati |
-| [27744763](https://pubmed.ncbi.nlm.nih.gov/27744763/) | 2017 | Revisione | Postgraduate Medicine | Revisione completa del meccanismo di trazodone, formulazioni, e usi off-label inclusi DOC, insonnia, e disturbi d'ansia |
-| [8331098](https://pubmed.ncbi.nlm.nih.gov/8331098/) | 1993 | Revisione | The Journal of Clinical Psychiatry | Approcci biologici al DOC resistente al trattamento; strategie di potenziamento della serotonina revisate; trazodone riferito in rapporti in open-label |
-| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Studio open-label | Clinical Neuropharmacology | Trazodone in 9 pazienti con DOC resistenti a clomipramina; l'intero gruppo ha mostrato un miglioramento significativo lieve; 3 pazienti hanno risposto molto favorevolmente con ricaduta dopo la sospensione |
-| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Studio neuroimaging | Psychopathology | La risposta al trattamento con trazodone (±IMAO) è correlata a cambiamenti nel metabolismo del glucosio nel nucleo caudato mediante PET; supporto del meccanismo neurobiologico |
-| [29343875](https://pubmed.ncbi.nlm.nih.gov/29343875/) | 2017 | Rapporto di caso | Rivista di Psichiatria | Trazodone a rilascio prolungato in comorbilità bipolare II/DOC; ha gestito simultaneamente i sintomi depressivi e ossessivo-compulsivi |
-| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Rapporto di caso | The Journal of Nervous and Mental Disease | Due pazienti gravi con DOC + depressione non responsivi a molteplici antidepressivi hanno ottenuto un miglioramento rapido e impressionante con trazodone |
-| [6703152](https://pubmed.ncbi.nlm.nih.gov/6703152/) | 1984 | Serie di casi | The American Journal of Psychiatry | Osservazione clinica precoce documentazione dell'uso di trazodone in pazienti con DOC |
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ---
 
-## Informazioni sul Mercato Italiano
+## Evidenze dalla letteratura
 
-Trazodone non è attualmente commercializzato in Italia. Non sono registrate autorizzazioni di immissione in commercio.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [1629380](https://pubmed.ncbi.nlm.nih.gov/1629380/) | 1992 | RCT (doppio cieco, placebo) | J Clin Psychopharmacol | Studio controllato del trazodone nel DOC; piccolo e datato, esito non verificabile dai dati disponibili |
+| [2119885](https://pubmed.ncbi.nlm.nih.gov/2119885/) | 1990 | Serie di casi | Clin Neuropharmacol | 9 pazienti con DOC resistente alla clomipramina: miglioramento lieve ma significativo; 3 responder netti, con ritorno dei sintomi alla sospensione |
+| [3501130](https://pubmed.ncbi.nlm.nih.gov/3501130/) | 1987 | Studio clinico piccolo | Psychopathology | La risposta al trazodone nel DOC è correlata a variazioni del metabolismo del glucosio nei nuclei caudati (PET) |
+| [8434675](https://pubmed.ncbi.nlm.nih.gov/8434675/) | 1993 | Serie di casi | Am J Psychiatry | Trattamento di DOC e tricotillomania con trazodone |
+| [3571943](https://pubmed.ncbi.nlm.nih.gov/3571943/) | 1986 | Studio pilota in aperto | Int Clin Psychopharmacol | Trazodone + triptofano in 11 pazienti: risultati non incoraggianti, beneficio marginale e scarsa tollerabilità |
+| [4009160](https://pubmed.ncbi.nlm.nih.gov/4009160/) | 1985 | Casi clinici | J Nerv Ment Dis | Due pazienti con DOC grave e depressione, refrattari ad altri antidepressivi, con miglioramento rapido |
+| [6703152](https://pubmed.ncbi.nlm.nih.gov/6703152/) | 1984 | Caso clinico | Am J Psychiatry | Segnalazione di DOC trattato con trazodone |
+| [26088119](https://pubmed.ncbi.nlm.nih.gov/26088119/) | 2015 | Revisione | Curr Pharm Des | Uso off-label del trazodone, incluso il DOC: evidenze, benefici e rischi |
+| [27744763](https://pubmed.ncbi.nlm.nih.gov/27744763/) | 2017 | Revisione | Postgrad Med | Uso del trazodone in condizioni psichiatriche e mediche |
+| [29343875](https://pubmed.ncbi.nlm.nih.gov/29343875/) | 2017 | Caso clinico | Riv Psichiatr | Trazodone a rilascio prolungato nella comorbilità disturbo bipolare II-DOC |
 
 ---
 
-## Considerazioni di Sicurezza
+## Informazioni sul mercato italiano
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 022323113 | TRITTICO 14 cpr rivestite div Contramid 150 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
+| 022323048 | TRITTICO 30 cpr rivestite div 100 mg | Compresse rivestite | Non disponibile |
+| 022323190 | TRITTICO 30 cpr rivestite div Contramid 300 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
+| 022323036 | TRITTICO 30 cpr rivestite div 50 mg | Compresse rivestite | Non disponibile |
+| 022323075 | TRITTICO 20 cpr div 150 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
+
+Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Considerazioni sulla sicurezza
 
-**Decisione: Procedere con Cautele**
+- **Controindicazioni derivate dal grafo di conoscenza** (non dal testo del foglietto illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, malattie cardiache e cardiovascolari, ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, atrofia multisistemica, carenza di potassio, iperplasia prostatica benigna, disturbi della coagulazione, priapismo, sindrome da inappropriata secrezione di ADH e sindrome nefrogenica da inappropriata antidiuresi.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle di livello **maggiore** figurano bupropione, lorcaserina, dolasetron, palonosetron, cisapride, destrofenfluramina e fenfluramina. Tra quelle di livello moderato: famotidina, loperamide, aprepitant, morfina, claritromicina ed eliglustat. Molte interazioni riguardano farmaci che prolungano il QT o aumentano il rischio serotoninergico.
 
-**Fondamento logico:**
-TxGNN assegna un punteggio di previsione quasi perfetto (99.95%), e il meccanismo serotoninergico di trazodone fornisce una base biologica credibile per il trattamento del DOC. Un RCT in doppio cieco, controllato con placebo (PMID 1629380) e uno studio open-label in pazienti resistenti a clomipramina (PMID 2119885) forniscono un'evidenza di Livello L2, sebbene gli studi siano piccoli e datati (anni '90). L'assenza di qualsiasi studio clinico moderno registrato e lo stato zero-autorizzazioni dell'Italia significano che questo dovrebbe essere trattato come un'ipotesi in fase di ricerca, non una raccomandazione clinica.
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo.
 
-**Per procedere, è necessario:**
-- Recuperare il testo completo e i risultati dell'RCT del 1992 (PMID 1629380) per valutare la dimensione dell'effetto, la dimensione del campione, e le misure di risultato
-- Ottenere i dati completi del meccanismo d'azione di trazodone da DrugBank per rafforzare la base meccanicistica
-- Ottenere gli avvertimenti del foglio illustrativo italiano e le controindicazioni (attualmente una lacuna dati bloccante)
-- Chiarire il profilo di interazione farmacologica, in particolare con altri agenti serotoninergici utilizzati nel DOC (clomipramina, fluoxetine, fluvoxamina)
-- Considerare la progettazione o l'identificazione di un trial di Fase 2/3 in corso nel DOC resistente al trattamento come il percorso più efficiente per aggiornare l'evidenza da L2 a L1
-- Valutare se la formulazione a rilascio prolungato (riferita in PMID 29343875) offre un profilo di tollerabilità più favorevole per i pazienti con DOC
+---
 
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Il legame serotoninergico con il DOC è plausibile e la letteratura è relativamente ampia, ma si tratta in prevalenza di studi degli anni '80-'90, piccoli, con risultati contrastanti; non esistono sperimentazioni registrate né dati moderni. Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e le informazioni di sicurezza ufficiali sono mancanti. Il DOC è già ben coperto da SSRI e clomipramina.
+
+**Per procedere sono necessari:**
+- Acquisire le avvertenze e le controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Reperire i dati sul meccanismo d'azione da DrugBank
+- Verificare design, numerosità ed esito dello studio controllato con placebo (PMID 1629380)
+- Valutare la fattibilità di una sperimentazione moderna, ad esempio come potenziamento nel DOC resistente agli SSRI
+- Definire un piano di monitoraggio cardiaco (QT) e delle interazioni serotoninergiche
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

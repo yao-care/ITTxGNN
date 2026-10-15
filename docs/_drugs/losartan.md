@@ -2,7 +2,7 @@
 layout: default
 title: Losartan
 parent: Prove moderate (L3-L4)
-nav_order: 141
+nav_order: 278
 evidence_level: L4
 indication_count: 8
 ---
@@ -29,81 +29,90 @@ Livello di evidenza: **L4** | Indicazioni previste: **8**
 
 </div>
 
-# Losartan: dall'Ipertensione all'Ipertensione Renovascolare Maligna
+# Losartan: dall'ipertensione alla ipertensione renovascolare maligna
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Losartan è un antagonista consolidato dei recettori dell'angiotensina II di tipo 1 (AT1R), ampiamente utilizzato a livello mondiale per il trattamento dell'ipertensione e la protezione renale nella nefropatia diabetica — sebbene nel dataset attuale non sia registrata alcuna approvazione italiana.
-Il modello TxGNN prevede che possa essere efficace per l'**Ipertensione Renovascolare Maligna**,
-con **0 studi clinici** e **2 pubblicazioni** attualmente a supporto di questa direzione specifica.
-
----
-
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Ipertensione (nessuna approvazione italiana registrata; basata su farmacologia consolidata) |
-| Nuova Indicazione Prevista | Ipertensione Renovascolare Maligna |
-| Punteggio di Previsione TxGNN | 99.73% |
-| Livello di Evidenza | L4 |
-| Stato del Mercato Italiano | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospensione |
+Il losartan è un antagonista del recettore dell'angiotensina II (AT1), utilizzato originariamente per il trattamento dell'ipertensione e della nefropatia diabetica.
+Il modello TxGNN predice che possa essere efficace per la **ipertensione renovascolare maligna**,
+ma al momento sono disponibili **0 studi clinici** e solo **2 pubblicazioni** (un caso clinico e un modello preclinico sul ratto).
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Quadro generale
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack attuale. Sulla base della razionale di riutilizzo fornita, Losartan è un antagonista dei recettori dell'angiotensina II di tipo 1 (AT1R) — il membro fondatore della classe di farmaci ARB (antagonisti dei recettori dell'angiotensina). Antagonizza direttamente gli effetti vasocostrittori, pro-infiammatori e pro-fibrotici dell'angiotensina II (AngII) legandosi competitivamente al recettore AT1.
-
-L'ipertensione renovascolare maligna è una condizione grave e potenzialmente letale guidata dall'iperattivazione estrema e sostenuta del sistema renina-angiotensina-aldosterone (RAAS). Il fattore scatenante — tipicamente la stenosi dell'arteria renale o la vasculite (ad es., arterite di Takayasu) — causa la produzione eccessiva di renina da parte del rene, generando elevati livelli di AngII circolante che guidano l'intensa costrizione arteriolare afferente, l'elevazione pericolosa della pressione intraglomerulare e il danno d'organo. Poiché il blocco AT1R interrompe direttamente questo effettore centrale, il collegamento meccanicistico tra Losartan e questa condizione è fisiologicamente coerente e forte.
-
-La pubblicazione più rilevante (PMID 10667645) descrive un paziente reale: arterite di Takayasu con nefrectomia unilaterale, stenosi dell'arteria renale e ipertensione maligna refrattaria a schemi antipertensivi convenzionali e non emendabile con angioplastica. La combinazione enalapril + losartan ha controllato con successo la pressione arteriosa. Sebbene si tratti di un singolo case report, supporta direttamente la previsione del modello ed è completamente coerente con la razionale del blocco RAAS.
-
----
-
-## Evidenza da Studi Clinici
-
-Attualmente nessuna sperimentazione clinica correlata registrata per Losartan nell'ipertensione renovascolare maligna.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione, nefropatia diabetica (dal grafo di conoscenza TxGNN; il testo delle indicazioni autorizzate AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipertensione renovascolare maligna |
+| Punteggio di predizione TxGNN | 99,73% |
+| Livello di evidenza | L4 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza dalla Letteratura
+## Perché questa predizione è plausibile?
 
-| PMID | Anno | Tipo | Rivista | Risultati Principali |
-|------|------|------|---------|----------------------|
-| [10667645](https://pubmed.ncbi.nlm.nih.gov/10667645/) | 2000 | Case Report | Angiology | Enalapril + losartan ha controllato con successo l'ipertensione maligna refrattaria in un paziente con arterite di Takayasu e stenosi dell'arteria renale; la pressione arteriosa è migliorata senza ulteriore deterioramento renale |
-| [22294399](https://pubmed.ncbi.nlm.nih.gov/22294399/) | 2009 | Studio su Animali | Current Protocols in Pharmacology | Descrive modelli validati su roditori (SHR, DOCA-salt, Goldblatt 2K1C) per la valutazione antipertensiva; captopril e ARB di riferimento dimostrano attività in modelli di ipertensione renovascolare, fornendo un contesto farmacologico |
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze note, il losartan blocca il recettore AT1 dell'angiotensina II, che è centrale nell'ipertensione mediata dal sistema renina-angiotensina, e la sua efficacia nell'ipertensione è consolidata.
 
----
+L'ipertensione renovascolare maligna è una forma grave di ipertensione in cui l'attivazione del sistema renina-angiotensina ha un ruolo di primo piano. Il blocco di AT1 è quindi meccanisticamente coerente con l'uso antipertensivo già noto del farmaco.
 
-## Informazioni sul Mercato Italiano
-
-Losartan attualmente non ha autorizzazioni registrate in Italia secondo questo dataset (stato del mercato: Non Commercializzato, 0 licenze). Ciò è notevole dato l'ampio riconoscimento di Losartan in altri principali mercati (USA, UE, Giappone, Taiwan). La completezza dei dati dovrebbe essere verificata direttamente rispetto al registro AIFA prima di trarre conclusioni.
+Va però considerata una cautela importante: gli ARB comportano un rischio noto nella stenosi bilaterale dell'arteria renale, con possibile peggioramento acuto della funzione renale. Questo aspetto richiede particolare attenzione proprio in questa popolazione.
 
 ---
 
-## Considerazioni di Sicurezza
+## Evidenze da studi clinici
 
-Fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+Attualmente non risultano studi clinici registrati correlati.
 
 ---
 
-## Conclusioni e Prossimi Passi
+## Evidenze dalla letteratura
 
-**Decisione: Sospensione**
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [10667645](https://pubmed.ncbi.nlm.nih.gov/10667645/) | 2000 | Caso clinico | Angiology | Paziente con arterite di Takayasu, nefrectomizzata unilateralmente, con ipertensione maligna da stenosi dell'arteria renale e refrattaria alle terapie convenzionali: enalapril e losartan hanno migliorato la pressione arteriosa senza deterioramento della funzione renale |
+| [22294399](https://pubmed.ncbi.nlm.nih.gov/22294399/) | 2009 | Modello preclinico (ratto) | Current Protocols in Pharmacology | Protocolli per valutare l'attività antipertensiva nel ratto cosciente (modelli SHR, DOCA-sale, Goldblatt), con farmaci di riferimento |
 
-**Razionale:**
-Nonostante un collegamento meccanicistico altamente convincente attraverso il blocco RAAS/AT1R, la base di evidenze per Losartan specificamente nell'ipertensione renovascolare maligna è limitata a un singolo case report e uno studio su modello animale (L4). Non esistono studi clinici registrati per questa indicazione, e tutti i dati normativi e di sicurezza italiani non sono disponibili, rendendo prematuro avanzare senza risolvere questi gap.
+---
 
-**Per procedere, è necessario quanto segue:**
-- Verificare lo stato di approvazione italiano (AIFA) — Losartan è approvato nella maggior parte dei principali mercati; l'assenza di registrazioni probabilmente riflette un gap di dati piuttosto che una vera mancanza di approvazione
-- Ottenere il foglio illustrativo completo (avvertenze, controindicazioni, profilo DDI) dalla fonte ufficiale AIFA/TFDA per completare lo screening di sicurezza S1
-- Recuperare la documentazione completa MOA da DrugBank (DB00678)
-- Commissare una revisione sistematica della letteratura mirata per gli ARB nell'ipertensione maligna e nei sottotipi di ipertensione renovascolare per stabilire se l'evidenza L3 (studi osservazionali, meta-analisi) esiste già
-- Se la revisione della letteratura supporta l'avanzamento, progettare uno studio pilota prospettico o un registro in pazienti con ipertensione renovascolare maligna che ricevono terapia con bloccanti AT1R
+## Informazioni sul mercato italiano
 
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 039198027 | LOSARTAN 28 cpr rivestite 50 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 043614066 | LOSARTAN 28 cpr rivestite 50 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 029384043 | LORTAAN 28 cpr rivestite 100 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 029384017 | LORTAAN 28 cpr rivestite 50 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 039164037 | LOSARTAN 28 cpr rivestite 50 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+
+Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.
+
+---
+
+## Considerazioni sulla sicurezza
+
+- **Controindicazioni (da relazioni farmaco-malattia del grafo di conoscenza, non dal foglietto illustrativo)**: pancreatite, malattie epatiche, malattie della colecisti, lupus eritematoso sistemico, carenza di potassio, diabete mellito, chetoacidosi diabetica, iperuricemia, ipotensione, iperparatiroidismo, encefalopatia/coma epatico, ittero neonatale, anuria, gotta, ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo, ostruzione dell'arteria renale, insufficienza renale.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni complessive. Quelle di livello **maggiore** riguardano i sali di potassio (citrato di potassio, bicarbonato di potassio), con rischio di iperkaliemia. Tra quelle di livello moderato figurano corticosteroidi (idrocortisone, desametasone, betametasone, triamcinolone, budesonide), inibitori di SGLT2 (canagliflozin, dapagliflozin, empagliflozin), insuline, acido acetilsalicilico, morfina, bupropione, aprepitant e dronabinolo.
+
+Le avvertenze del foglietto illustrativo AIFA non sono disponibili: si rimanda al foglietto illustrativo per le informazioni di sicurezza complete.
+
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un caso clinico e a un lavoro preclinico, senza alcuno studio clinico. In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante.
+
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) da fonti come DrugBank
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza
+- Studi clinici, o almeno serie di casi/studi osservazionali, nell'ipertensione renovascolare, con attenzione alla funzione renale
+- Verifica dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

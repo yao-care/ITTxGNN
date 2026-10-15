@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Irbesartan
-parent: Prove moderate (L3-L4)
-nav_order: 126
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 244
+evidence_level: L5
 indication_count: 4
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,95 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Irbesartan: Dall'ipertensione all'ipertensione renovascolare maligna
+# Irbesartan: dall'ipertensione e nefropatia diabetica all'ipertensione renovascolare maligna
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-L'irbesartan è un antagonista dei recettori dell'angiotensina II di tipo 1 (AT1) (ARB), riconosciuto a livello mondiale per l'ipertensione essenziale e la protezione renale nella nefropatia diabetica di tipo 2.
-Il modello TxGNN predice che potrebbe essere efficace per l'**ipertensione renovascolare maligna** con un punteggio di previsione del 99.31%; tuttavia, **nessuno studio clinico dedicato o pubblicazione** è stato identificato per questa indicazione specifica.
-Criticamente, una ben nota controindicazione della classe degli ARB — rischio di insufficienza renale acuta in caso di stenosi bilaterale dell'arteria renale — si sovrappone direttamente con l'eziologia più comune di questa indicazione predetta e vincola sostanzialmente l'ipotesi clinica.
+Irbesartan è un antagonista del recettore AT1 dell'angiotensina II, utilizzato originariamente per l'ipertensione e la nefropatia diabetica.
+Il modello TxGNN ne prevede una possibile efficacia nell'**ipertensione renovascolare maligna** (punteggio 99,31%), ma per questa indicazione **non sono disponibili studi clinici né pubblicazioni** a supporto: si tratta di una previsione puramente computazionale.
 
----
+## Quadro generale
 
-## Panoramica rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione, nefropatia diabetica (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Ipertensione renovascolare maligna |
+| Punteggio di predizione TxGNN | 99,31% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Ipertensione essenziale / Nefropatia diabetica (ARB consolidato; nessuna autorizzazione italiana registrata) |
-| Indicazione nuova predetta | Ipertensione renovascolare maligna |
-| Punteggio di previsione TxGNN | 99.31% |
-| Livello di evidenza | L4 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | In sospeso |
+## Perché questa previsione è ragionevole?
 
----
+I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, irbesartan appartiene alla classe degli antagonisti del recettore AT1 (sartani); la sua efficacia nell'ipertensione e nella nefropatia diabetica è riconosciuta e, dal punto di vista meccanicistico, potrebbe essere applicabile anche alle forme di ipertensione guidate dall'attivazione del sistema renina-angiotensina.
 
-## Perché è ragionevole questa previsione?
+L'ipertensione renovascolare maligna è caratterizzata da una marcata attivazione di questo sistema, per cui il blocco di AT1 è plausibile. Tuttavia, i sartani comportano un rischio noto nella malattia renovascolare: in caso di stenosi bilaterale dell'arteria renale possono provocare danno renale acuto. Questo aspetto richiede una valutazione di sicurezza accurata.
 
-Attualmente, i dati dettagliati del meccanismo di azione non sono disponibili in questo Evidence Pack (query DrugBank in sospeso). Sulla base della farmacologia consolidata, l'irbesartan è un antagonista selettivo dei recettori dell'angiotensina II di tipo 1 (AT1). Bloccando i recettori AT1, interrompe il sistema renina-angiotensina-aldosterone (RAAS): riducendo la vasocostrizione, abbassando la ritenzione di sodio mediata dall'aldosterone, e — criticamente per il rene — diminuendo la resistenza arteriolare efferente e la pressione intraglomerulare, risultando in proteinuria ridotta e nefrosclerosi più lenta.
+Il punteggio elevato di TxGNN riflette con ogni probabilità la vicinanza all'indicazione già esistente di ipertensione nel grafo di conoscenza, più che un'evidenza indipendente. Lo stesso punteggio (99,31%) è attribuito alla **malattia renale ipertensiva maligna**, che è in larga parte un'estensione degli usi già approvati.
 
-La corrispondenza meccanicistica con l'ipertensione renovascolare maligna è immediatamente evidente: la fisiopatologia centrale segue la sequenza stenosi dell'arteria renale → ischemia renale → massiccio rilascio di renina → picco di angiotensina II → sovra-attivazione dei recettori AT1 → pressione arteriosa incontrollata con danno d'organo. Poiché l'irbesartan agisce precisamente al livello effettore AT1, mira all'apice di questa cascata. Il punteggio TxGNN di 99.31% molto probabilmente riflette la forte connettività del grafo di conoscenza tra questa malattia e il cluster dei nodi ipertensione/RAAS. Un'indicazione analoga, strettamente correlata — **malattia renale ipertensiva maligna (rango 2, stesso punteggio)** — è supportata da evidenza indiretta di Fase 3: lo studio IDNT (Lewis EJ et al., *NEJM* 2001) ha dimostrato che l'irbesartan ritarda significativamente gli endpoint compositi renali (HR 0.80, p = 0.02) nella nefropatia diabetica, una condizione che condivide lo stesso meccanismo di nefrosclerosi mediata dal RAAS e ipertensione glomerulare.
+### Altre previsioni nel set di dati
 
-Tuttavia, una **controindicazione ben consolidata a livello di classe** deve essere messa in primo piano: i pazienti con stenosi bilaterale dell'arteria renale (o stenosi unilaterale in un rene solitario) dipendono dal tono arteriolare efferente mantenuto dall'angiotensina II per preservare la pressione di filtrazione glomerulare. L'uso di ARB o inibitori dell'ACE in questo contesto anatomico può precipitare insufficienza renale acuta. Poiché la stenosi bilaterale dell'arteria renale è una causa principale dell'ipertensione renovascolare, questa controindicazione si applica a una sottopopolazione significativa — possibilmente maggioritaria — di pazienti nell'indicazione predetta. Il modello TxGNN cattura la plausibilità farmacologica a livello del percorso, ma non sembra aver codificato questa eccezione anatomica, che è il caveat centrale per questa previsione.
+- **Ipertensione polmonare da malattia polmonare e/o ipossia** (punteggio 99,25%, livello L4): esistono solo studi preclinici (cellulari e animali) che suggeriscono un effetto protettivo di irbesartan in condizioni di ipossia, ad esempio nel mal di montagna cronico e nell'ipertensione polmonare d'alta quota nel ratto. Questi dati riguardano principalmente il danno cardiaco o ipossico e non l'ipertensione polmonare nell'uomo. Raccomandazione: tema di ricerca.
+- **Ipertensione polmonare a meccanismo multifattoriale non chiaro** (punteggio 99,25%, livello L5): indicazione mal definita, senza studi né letteratura. Raccomandazione: Hold.
 
----
+## Evidenza dagli studi clinici
 
-## Evidenza da studi clinici
+Attualmente non risultano studi clinici registrati correlati alla nuova indicazione prevista.
 
-Attualmente nessuno studio clinico correlato è registrato.
+## Evidenza dalla letteratura
 
----
+Per l'indicazione principale (ipertensione renovascolare maligna) non è disponibile letteratura correlata.
 
-## Evidenza da letteratura
+Per la previsione di ipertensione polmonare da ipossia, i lavori più pertinenti sono preclinici:
 
-Attualmente nessuna letteratura correlata è disponibile.
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [34147903](https://pubmed.ncbi.nlm.nih.gov/34147903/) | 2021 | Preclinico (animale) | Biomed Pharmacother | Irbesartan migliora le lesioni dell'arteria polmonare in un modello di ratto di mal di montagna cronico |
+| [34286497](https://pubmed.ncbi.nlm.nih.gov/34286497/) | 2021 | Preclinico (animale) | Eur Rev Med Pharmacol Sci | Irbesartan riduce lo stress ossidativo nell'ipertensione polmonare d'alta quota nel ratto, tramite la flora intestinale |
+| [34626328](https://pubmed.ncbi.nlm.nih.gov/34626328/) | 2022 | Preclinico (animale) | Sleep Breath | Irbesartan attenua l'apoptosi cardiaca indotta dall'ipossia intermittente da apnea notturna |
+| [30356256](https://pubmed.ncbi.nlm.nih.gov/30356256/) | 2018 | Preclinico (in vitro) | PLoS One | Effetto protettivo di irbesartan sui cardiomiociti sotto stress ipossico |
+| [17142340](https://pubmed.ncbi.nlm.nih.gov/17142340/) | 2007 | Preclinico (animale) | Am J Physiol Heart Circ Physiol | Irbesartan inibisce l'angiogenesi coronarica stimolata dall'ipossia intermittente cronica nei ratti neonati |
+| [35288835](https://pubmed.ncbi.nlm.nih.gov/35288835/) | 2022 | Revisione | Inflammopharmacology | Effetti pleiotropici degli antagonisti AT1 nell'ipossia da ischemia cardiaca |
+| [15526904](https://pubmed.ncbi.nlm.nih.gov/15526904/) | 2004 | Preclinico (animale) | Ren Fail | Irbesartan attenua la nefrotossicità della ciclosporina |
 
----
+Altri documenti recuperati sono solo marginalmente pertinenti (estratti di medicina tradizionale cinese, un caso clinico su roxadustat).
 
 ## Informazioni sul mercato italiano
 
-L'irbesartan non ha **autorizzazioni di commercializzazione** in Italia secondo il database normativo attuale (query AIFA: 0 record). Nessuna voce di prodotto approvato o testo di indicazione è disponibile per la revisione. L'irbesartan è, tuttavia, ampiamente autorizzato in altre giurisdizioni (UE, US, Giappone) come ARB per l'ipertensione e la nefropatia diabetica — una discrepanza che potrebbe giustificare un aggiornamento dei dati normativi prima di trarre conclusioni specifiche per paese.
+Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni (tutte monocomponente):
 
----
+| N. autorizzazione | Nome prodotto | Titolare |
+|---------|------|------|
+| 033263043 | Karvea 28 cpr 150 mg | Sanofi Winthrop Industrie |
+| 033263070 | Karvea 28 cpr 300 mg | Sanofi Winthrop Industrie |
+| 033264045 | Aprovel 28 cpr 150 mg | Sanofi Winthrop Industrie |
+| 041666088 | Ifirmasta 28 cpr rivestite 150 mg | Krka d.d. Novo Mesto |
+| 041888025 | Irbetens 28 cpr rivestite 150 mg | Lanova Farmaceutici Srl |
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+Dal grafo di conoscenza (non dal testo del foglio illustrativo) emergono associazioni di controindicazione con: angioedema (incluso quello indotto da bloccanti del sistema renina-angiotensina), anuria, stenosi/ostruzione dell'arteria renale, ipotensione, iperkaliemia/squilibri elettrolitici, gotta e iperuricemia, diabete e chetoacidosi diabetica, pancreatite, lupus eritematoso sistemico, miopatia e rabdomiolisi, encefalopatia epatica, iperparatiroidismo e ipercalcemia.
 
-> **Avviso al clinico (derivato dalla logica di riutilizzo, non da campi di dati di sicurezza):** Un rischio critico a livello di classe è documentato per tutti gli ARB: in caso di stenosi bilaterale dell'arteria renale o rene solitario, il blocco AT1 rimuove il supporto della pressione di filtrazione glomerulare dipendente dall'angiotensina II e può precipitare **insufficienza renale acuta**. Questo rischio è direttamente e specificamente rilevante all'indicazione predetta primaria (ipertensione renovascolare maligna) e costituisce un prerequisito di valutazione della sicurezza prima che qualsiasi indagine clinica sia progettata.
+**Interazioni farmacologiche** (100 interazioni totali rilevate; esempi principali):
+- **Gravi**: citrato di potassio, bicarbonato di potassio (rischio di iperkaliemia).
+- **Moderate**: corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), acido acetilsalicilico, morfina, bupropione, aprepitant, inibitori di SGLT2 (canagliflozin, dapagliflozin, empagliflozin), insuline (aspart, degludec), dronabinolo e alcuni lassativi/preparati intestinali.
 
----
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Hold**
 
-**Razionale:**
+**Motivazione:**
+La previsione per l'ipertensione renovascolare maligna si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre, l'uso dei sartani nella malattia renovascolare pone un rilevante problema di sicurezza renale, e tutte le autorizzazioni italiane sono attualmente cancellate.
 
-Nessuno studio clinico dedicato o pubblicazione supporta l'irbesartan specificamente nell'ipertensione renovascolare maligna, e il singolo sottotipo anatomico più importante di questa malattia (stenosi bilaterale dell'arteria renale) rappresenta una controindicazione nota degli ARB — significando che la previsione, sebbene logica dal punto di vista meccanicistico a livello del percorso, è clinicamente ad alto rischio senza stratificazione del paziente. L'indicazione strettamente correlata di rango 2 (malattia renale ipertensiva maligna) ha una base di evidenza più forte (L3; supporto indiretto dello studio IDNT; raccomandazione: Procedere con Guardrails) e potrebbe essere un obiettivo di riutilizzo a breve termine più fattibile.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Dati di stratificazione del paziente**: proporzione di casi di ipertensione renovascolare maligna con stenosi unilaterale vs. bilaterale dell'arteria renale, per definire il sottoinsieme in cui l'uso di ARB è sicuro e potenzialmente benefico
-- **Documentazione formale del meccanismo di azione**: query API di DrugBank (DG002 in sospeso) per confermare il profilo di legame recettoriale, la selettività e la farmacocinetica
-- **Revisione dell'RCP italiano (Riassunto delle Caratteristiche del Prodotto)**: avvertenze del foglio illustrativo AIFA e controindicazioni (DG001 Blocking gap) richieste prima che qualsiasi valutazione della sicurezza possa essere completata
-- **Evidenza da coorte retrospettiva**: una ricerca di dati del mondo reale o di registro su outcomes di utilizzo di ARB specificamente nell'ipertensione renovascolare unilaterale come proof-of-concept prima della progettazione dello studio
-- **Riconsiderazione dell'indicazione di rango 2** (malattia renale ipertensiva maligna) come obiettivo primario di riutilizzo, data la sua sovrapposizione meccanicistica con lo studio IDNT e un profilo di rischio-evidenza più azionabile
-
+**Per procedere sono necessari:**
+- Le avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- I dati sul meccanismo d'azione da DrugBank
+- Una revisione sistematica della letteratura clinica su sartani e ipertensione renovascolare/maligna, con particolare attenzione al rischio di danno renale acuto
+- Per l'ipertensione polmonare, studi clinici o almeno evidenze traslazionali più solide rispetto agli attuali modelli animali
+- Una verifica della possibilità di commercializzazione, dato lo stato di autorizzazioni solo cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

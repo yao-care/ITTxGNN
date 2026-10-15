@@ -2,7 +2,7 @@
 layout: default
 title: Albutrepenonacog Alfa
 parent: Solo previsione del modello (L5)
-nav_order: 17
+nav_order: 25
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,74 +29,86 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Albutrepenonacog Alfa: Valutazione Preliminare — Nessuna Nuova Indicazione Predetta
+# Albutrepenonacog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
 
-## Riepilogo in Una Frase
+## Sintesi
 
-Albutrepenonacog alfa (DB13884) è una proteina di fusione ricombinante del fattore di coagulazione IX–albumina, conosciuta a livello internazionale con il nome commerciale Idelvion, utilizzata per il trattamento e la profilassi dell'**Emofilia B**.
-Il modello TxGNN **non ha generato alcuna indicazione nuova predetta** per questo farmaco, e il pacchetto di prove contiene lacune significative nei dati che impediscono una valutazione completa.
+Albutrepenonacog alfa è un fattore IX della coagulazione ricombinante fuso con albumina, utilizzato originariamente per il trattamento dell'emofilia. Il modello TxGNN ne prevede una possibile efficacia nella **malattia di pseudo-von Willebrand**, ma **non risulta alcuno studio clinico né alcuna pubblicazione** a supporto di questa direzione: la previsione resta puramente computazionale.
 
-## Panoramica Rapida
+---
 
-| Elemento | Contenuto |
+## Quadro generale
+
+| Voce | Contenuto |
 |------|------|
-| Indicazione Originale | Non registrata nel pacchetto di prove (nota: Emofilia B) |
-| Indicazione Nuova Predetta | Nessuna — nessuna predizione TxGNN disponibile |
-| Punteggio di Predizione TxGNN | N/A |
-| Livello di Evidenza | L5 (Nessuna predizione, nessuno studio di supporto) |
-| Stato del Mercato Taiwan | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Raccomandata | **Sospensione** |
+| Indicazione originale | Emofilia (inclusa la forma sintomatica nelle portatrici femminili) |
+| Nuova indicazione prevista | Malattia di pseudo-von Willebrand |
+| Punteggio di predizione TxGNN | 99,94% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
-## Perché Questa Predizione è Ragionevole?
+---
 
-Attualmente non ci sono predizioni TxGNN per albutrepenonacog alfa, quindi nessuna valutazione della plausibilità meccanicistica può essere eseguita.
+## Perché questa previsione è plausibile?
 
-Basato su informazioni disponibili pubblicamente, albutrepenonacog alfa è una proteina di fusione ricombinante che unisce il fattore di coagulazione IX umano (FIX) con albumina umana ricombinante. La moietà dell'albumina estende l'emivita del FIX, consentendo dosaggi meno frequenti. Ripristina il fattore coagulante mancante nei pazienti con Emofilia B (deficienza congenita del fattore IX), consentendo l'emostasi normale.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, albutrepenonacog alfa è un fattore IX ricombinante legato all'albumina (rIX-FP), che sostituisce l'attività del fattore IX mancante nell'emofilia B.
 
-I dati dettagliati del meccanismo d'azione non erano disponibili nel pacchetto di prove (segnalati come Lacuna Dati DG002). Senza una predizione TxGNN o dati MOA nel pacchetto, nessuna ipotesi di riutilizzo del farmaco può essere valutata in questo momento.
+La malattia di pseudo-von Willebrand, invece, è un disturbo di tipo piastrinico, causato da un difetto di guadagno di funzione della GPIbα piastrinica, che aumenta il legame con il fattore di von Willebrand. Non si tratta di un deficit di fattore IX, quindi **non esiste un razionale meccanicistico chiaro** per la terapia sostitutiva con fattore IX. Il punteggio elevato di TxGNN (0,9994) deriva solo dalla struttura del grafo di conoscenza e va interpretato con grande cautela.
 
-## Evidenza Clinica da Studi
+Anche le altre indicazioni previste condividono questo limite. Si tratta di disturbi piastrinici o della superficie piastrinica, in cui il fattore IX non corregge il difetto di fondo:
 
-Attualmente non sono registrati studi clinici correlati per alcuna nuova indicazione predetta (nessuna nuova indicazione è stata predetta da TxGNN).
+| Rango | Malattia prevista | Punteggio TxGNN | Considerazione |
+|------|------|------|------|
+| 2 | Disturbo primario del rilascio piastrinico | 99,94% | Difetto di secrezione dei granuli; ogni legame passa solo da un effetto emostatico generico, speculativo |
+| 3 | Trombastenia di Glanzmann | 99,92% | Difetto dell'integrina αIIbβ3; la gestione standard prevede trasfusioni di piastrine e fattore VIIa ricombinante |
+| 4 | Sindrome di Scott | 99,63% | Difetto di esposizione della fosfatidilserina (TMEM16F/ANO6); legame concettuale vago con il complesso tenasi, senza evidenze |
+| 5 | Diatesi emorragica da difetto del recettore del collagene | 99,28% | Difetto dei recettori piastrinici (es. GPVI); nessun supporto meccanicistico |
+| 6 | Disordine emorragico da trombocitopenia costituzionale | 99,26% | Deficit numerico delle piastrine, non del fattore IX |
 
-## Evidenza dalla Letteratura
+---
 
-Attualmente non è disponibile letteratura correlata per alcuna nuova indicazione predetta.
+## Evidenze degli studi clinici
 
-## Informazioni sul Mercato Taiwan
+Attualmente non risulta alcuno studio clinico correlato registrato.
 
-Albutrepenonacog alfa **non ha autorizzazioni di commercializzazione** registrate con TFDA. Il farmaco è classificato come **non commercializzato** a Taiwan.
+---
 
-## Considerazioni sulla Sicurezza
+## Evidenze dalla letteratura
 
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
->
-> Tutti i campi di sicurezza (avvertimenti chiave, controindicazioni, interazioni farmaco–farmaco) sono risultati come lacune nei dati. La query del foglio illustrativo TFDA ha restituito 1 risultato — questo documento dovrebbe essere recuperato e analizzato per completare il profilo di sicurezza (vedere Lacuna Dati DG001).
+Attualmente non risulta alcuna letteratura correlata disponibile.
 
-## Lacune nei Dati Richiedenti Risoluzione
+---
 
-Le seguenti lacune critiche nei dati sono state identificate e devono essere affrontate prima che qualsiasi valutazione di riutilizzo possa procedere:
+## Informazioni sul mercato italiano
 
-| ID Lacuna | Elemento | Gravità | Impatto | Rimediazione Consigliata |
-|--------|------|----------|--------|------------------------|
-| DG001 | Avvertimenti/Controindicazioni del Foglio Illustrativo TFDA | **Bloccante** | Non può entrare nella valutazione preliminare di sicurezza S1 | Scaricare e analizzare il PDF del foglio illustrativo dal sito web TFDA |
-| DG002 | Meccanismo d'Azione (MOA) | **Alto** | Influisce sull'analisi della rilevanza meccanicistica | Interrogare l'API DrugBank per i dati completi del MOA |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 044891036 | IDELVION, 1 flacone EV 1.000 UI + solvente e dispositivi per la somministrazione | CSL Behring GmbH | Cancellata |
+| 044891024 | IDELVION, 1 flacone EV 500 UI + solvente e dispositivi per la somministrazione | CSL Behring GmbH | Cancellata |
+| 044891048 | IDELVION, 1 flacone EV 2.000 UI + solvente e dispositivi per la somministrazione | CSL Behring GmbH | Cancellata |
 
-## Conclusione e Prossimi Passi
+---
 
-**Decisione: Sospensione**
+## Considerazioni sulla sicurezza
+
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati per questo report non risultano interazioni farmacologiche note.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
 
 **Motivazione:**
-Nessuna nuova indicazione è stata predetta da TxGNN per albutrepenonacog alfa. Inoltre, il pacchetto di prove contiene lacune nei dati bloccanti (avvertimenti del foglio illustrativo TFDA) e lacune di alta gravità (dati MOA) che precludono qualsiasi valutazione di riutilizzo significativa. Il farmaco non è commercializzato a Taiwan, limitando ulteriormente l'applicabilità immediata.
+La previsione si basa solo sul modello computazionale (livello L5), senza studi clinici né letteratura. Inoltre il meccanismo del fattore IX non corrisponde al difetto piastrinico della malattia prevista, e tutte le autorizzazioni italiane risultano cancellate.
 
-**Per procedere, è necessario il seguente:**
-- Predizioni del modello TxGNN per questo farmaco (attualmente l'array `predicted_indications` è vuoto)
-- Risoluzione di DG001: Recuperare e analizzare il foglio illustrativo TFDA per estrarre gli avvertimenti e le controindicazioni
-- Risoluzione di DG002: Interrogare l'API DrugBank per il meccanismo d'azione dettagliato
-- Conferma delle indicazioni originali approvate da documenti di fonte normativa
-- Se il farmaco non è nel grafo di conoscenza TxGNN, valutare se l'entità molecolare (fusione ricombinante FIX–albumina) ha una rappresentazione sufficiente nei dati di addestramento per generare predizioni affidabili
-
+**Per procedere è necessario:**
+- Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un ostacolo bloccante per lo screening di sicurezza
+- Ottenere i dati sul meccanismo d'azione da DrugBank
+- Condurre una revisione sistematica della letteratura e uno studio preclinico per verificare un eventuale legame meccanicistico
+- Chiarire la situazione regolatoria in Italia (motivo e implicazioni delle cancellazioni) e la compatibilità della via di somministrazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -2,7 +2,7 @@
 layout: default
 title: Alizapride
 parent: Solo previsione del modello (L5)
-nav_order: 21
+nav_order: 31
 evidence_level: L5
 indication_count: 0
 ---

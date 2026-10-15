@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sumatriptan
-parent: Prove moderate (L3-L4)
-nav_order: 189
-evidence_level: L3
+parent: Solo previsione del modello (L5)
+nav_order: 416
+evidence_level: L5
 indication_count: 1
 ---
 
 # Sumatriptan
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,88 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Sumatriptano: dall'emicrania acuta all'emicrania con aura del tronco encefalico
+# Sumatriptan: dall'emicrania all'emicrania con aura del tronco encefalico
 
 ## Riepilogo in una frase
 
-Il sumatriptano è il triptan prototipico, ampiamente utilizzato nel trattamento acuto degli attacchi emicranici (con o senza aura) e della cefalea a grappolo. Il modello TxGNN prevede che potrebbe essere efficace per l'**emicrania con aura del tronco encefalico** (precedentemente nota come emicrania di tipo basilare), con **0 studi clinici registrati** e **18 pubblicazioni** attualmente a supporto di questa direzione. Sebbene la razionale meccanicistica sia scientificamente plausibile, le precauzioni storiche di prescrizione specifiche per questo sottotipo e l'assenza di prove dirette da trial clinici richiedono una valutazione attenta prima di procedere.
-
----
+Il sumatriptan è un agonista dei recettori 5-HT1B/1D, originariamente usato per il trattamento dell'emicrania e della cefalea a grappolo.
+Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura del tronco encefalico**, ma al momento non sono registrati **studi clinici** specifici e la letteratura raccolta (**18 pubblicazioni**) riguarda soprattutto l'emicrania in generale, non questa sottoforma.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Emicrania acuta (con o senza aura); cefalea a grappolo |
-| Indicazione predetta (nuova) | Emicrania con aura del tronco encefalico |
-| Punteggio di predizione TxGNN | 99.74% |
-| Livello di evidenza | L3 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con misure di cautela |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Emicrania e cefalea a grappolo (dal grafo di conoscenza; il testo delle indicazioni approvate AIFA non è disponibile) |
+| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
+| Punteggio di predizione TxGNN | 99,74% |
+| Livello di evidenza | L5 (solo predizione del modello; nessuno studio diretto sulla nuova indicazione) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è plausibile?
 
-## Perché questa predizione è ragionevole?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel materiale compilato. In base alle conoscenze generali, il sumatriptan è un agonista 5-HT1B/1D, che agisce tramite vasocostrizione cranica e inibizione del rilascio di neuropeptidi (tra cui CGRP) da parte delle fibre trigeminali.
 
-Il sumatriptano è un agonista selettivo dei recettori 5-HT1B/1D — il membro primo e più studiato della classe dei triptani. Interrompe gli attacchi emicranici attraverso due meccanismi complementari: il restringimento dei vasi sanguigni cranici dilatati e l'inibizione del rilascio di neuropeptidi vasoattivi (CGRP, sostanza P) dagli assoni trigemino perivascolari della dura madre. Questa azione interrompe direttamente l'attivazione trigeminovascolare, il percorso centrale nella generazione del dolore emicranico.
+L'emicrania con aura del tronco encefalico è un sottotipo dello stesso disturbo per cui il sumatriptan è già usato, con fisiopatologia in parte sovrapposta (attivazione trigeminovascolare, rilascio di CGRP). Il punteggio molto alto (0,997) riflette probabilmente la vicinanza nell'ontologia delle malattie rispetto alle indicazioni approvate, più che nuove evidenze.
 
-L'emicrania con aura del tronco encefalico (MBA) è un sottotipo di emicrania caratterizzato da sintomi di aura di origine dal tronco encefalico — inclusi disartria, vertigini, acufene, diplopia, parestesia bilaterale o ridotto livello di coscienza — che si verificano prima della fase cefalalgica. La sua fisiopatologia coinvolge la depressione corticale diffusa (CSD) che si estende nel tronco encefalico e l'attivazione del complesso cervicale trigeminale. Poiché i bersagli primari del sumatriptano (recettori 5-HT1B/1D, vie trigeminovascolarí) si sovrappongono precisamente con questi meccanismi MBA, la predizione TxGNN ha una base meccanicistica credibile.
+**Cautela importante:** storicamente i triptani sono stati controindicati o usati con prudenza nell'aura del tronco encefalico (in passato emicrania di tipo basilare) e nell'emicrania emiplegica, per il rischio teorico di ischemia da vasocostrizione nel circolo posteriore. I dati forniti non risolvono questa questione di sicurezza.
 
-Detto questo, la International Headache Society (IHS) ha storicamente elencato l'MBA (allora chiamata "emicrania di tipo basilare") come controindicazione relativa ai triptani, citando il rischio teorico di vasospasmo dell'arteria basilare. La letteratura post-2004 ha sempre più messo in discussione se questa precauzione sia troppo conservatrice, dato l'assenza di eventi di vasospasmo documentati — ma nessun RCT dedicato in pazienti con MBA è stato ancora condotto. Aggravando la situazione, PMID 25841032 (Hansen et al., 2015, *Neurology*) ha documentato che il sumatriptano mostra un'efficacia significativamente ridotta nell'emicrania con aura rispetto all'emicrania senza aura, suggerendo che l'MBA — un sottotipo di aura più grave — potrebbe rispondere meno robustamente dell'emicrania generale.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Prove da studi clinici
+## Evidenze dalla letteratura
 
-Attualmente non ci sono studi clinici correlati registrati per il sumatriptano specificamente nell'emicrania con aura del tronco encefalico.
+Nessuna pubblicazione riguarda direttamente l'emicrania con aura del tronco encefalico. Le più rilevanti, riguardanti sumatriptan ed emicrania con aura in generale:
 
----
-
-## Prove dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|------------------|
-| [25841032](https://pubmed.ncbi.nlm.nih.gov/25841032/) | 2015 | Studio clinico comparativo | *Neurology* | Il sumatriptano dimostra un'efficacia ridotta nell'emicrania con aura rispetto a quella senza aura — direttamente rilevante per il sottotipo di aura del tronco encefalico e una precauzione chiave per questo riutilizzo |
-| [33567890](https://pubmed.ncbi.nlm.nih.gov/33567890/) | 2021 | RCT | *Cephalalgia* | La somministrazione precoce di sumatriptano previene gli attacchi emicranici indotti da PACAP38 in uno studio clinico controllato randomizzato; conferma l'efficacia dei triptani nei modelli di emicrania provocata |
-| [1313746](https://pubmed.ncbi.nlm.nih.gov/1313746/) | 1992 | RCT | *Cephalalgia* | Studio in doppio cieco, controllato con placebo, a gruppi paralleli di sumatriptano orale 200 mg nell'emicrania acuta con aura; tassi di efficacia del 70–85% stabiliti in studi in aperto |
-| [23657930](https://pubmed.ncbi.nlm.nih.gov/23657930/) | 2014 | RCT | *Phytotherapy Research* | RCT in doppio cieco confrontando la polvere di zenzero rispetto al sumatriptano nell'emicrania acuta senza aura (n=100); efficacia comparabile tra i bracci |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione sistematica | *Headache* | Valutazione aggiornata della American Headache Society di tutte le terapie farmacologiche per l'emicrania acuta; il sumatriptano riceve la valutazione più alta delle prove per il trattamento acuto |
-| [8536293](https://pubmed.ncbi.nlm.nih.gov/8536293/) | 1995 | Revisione | *Cephalalgia* | Revisione completa dell'esperienza clinica del sumatriptano nell'emicrania e nella cefalea a grappolo; dettagli del meccanismo dei recettori 5-HT1 e degli effetti vascolari rilevanti al dibattito sulla controindicazione MBA |
-| [8559405](https://pubmed.ncbi.nlm.nih.gov/8559405/) | 1996 | Revisione | *Neurology* | Affronta l'uso del sumatriptano durante la fase di aura emicranica; discute la razionale farmacologica e le implicazioni cliniche |
-| [31135819](https://pubmed.ncbi.nlm.nih.gov/31135819/) | 2019 | Studio clinico | *JAMA Neurology* | Studio di imaging PET che mostra il legame centrale dei recettori 5-HT1B del sumatriptano durante gli attacchi emicranici; chiarisce il meccanismo del SNC e l'estensione della penetrazione centrale |
-| [21469920](https://pubmed.ncbi.nlm.nih.gov/21469920/) | 2011 | Revisione dell'approvazione farmacologica | *Expert Review of Neurotherapeutics* | Esamina l'approvazione del sumatriptano sottocutaneo senza aghi per l'emicrania acuta con o senza aura e la cefalea a grappolo; evidenzia la superiorità della via sottocutanea negli attacchi refrattari |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Revisione | *Handbook of Clinical Neurology* | Status migrainosus (attacco emicranico >72 h): complicazioni, decorso clinico e onere terapeutico; inquadra l'estremità superiore della gravità dello spettro emicranico dove rimangono lacune nel trattamento |
-
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [1313746](https://pubmed.ncbi.nlm.nih.gov/1313746/) | 1992 | RCT (controllato con placebo) | Cephalalgia | Sumatriptan 200 mg orale nel trattamento acuto dell'emicrania con aura |
+| [23657930](https://pubmed.ncbi.nlm.nih.gov/23657930/) | 2014 | RCT in doppio cieco | Phytotherapy Research | Zenzero vs sumatriptan in 100 pazienti con emicrania senza aura; non riguarda l'aura del tronco encefalico |
+| [25841032](https://pubmed.ncbi.nlm.nih.gov/25841032/) | 2015 | Studio clinico | Neurology | Efficacia ridotta del sumatriptan nell'emicrania con aura rispetto a quella senza aura |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione (valutazione delle evidenze) | Headache | Valutazione dell'American Headache Society sulle terapie farmacologiche acute dell'emicrania |
+| [12917936](https://pubmed.ncbi.nlm.nih.gov/12917936/) | 2003 | Revisione Cochrane | Cochrane Database Syst Rev | Sumatriptan orale nell'emicrania acuta (la versione del 2012, PMID 22336784, è stata ritirata) |
+| [8536293](https://pubmed.ncbi.nlm.nih.gov/8536293/) | 1995 | Revisione | Cephalalgia | Gestione di emicrania e cefalea a grappolo con sumatriptan |
+| [8559405](https://pubmed.ncbi.nlm.nih.gov/8559405/) | 1996 | Articolo | Neurology | Sumatriptan sottocutaneo e aura emicranica |
+| [26628293](https://pubmed.ncbi.nlm.nih.gov/26628293/) | 2016 | Revisione | Drugs | Sumatriptan/naprossene nell'emicrania con o senza aura; studi di fase 3 positivi |
+| [27681528](https://pubmed.ncbi.nlm.nih.gov/27681528/) | 2016 | Revisione | Drugs | Sumatriptan polvere nasale nel trattamento acuto dell'emicrania |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Revisione | Handbook of Clinical Neurology | Stato emicranico, complicanza dell'emicrania con o senza aura |
 
 ## Informazioni sul mercato italiano
 
-Il sumatriptano non possiede attualmente autorizzazioni di commercializzazione in Italia. Nessun dato sul prodotto è disponibile per questo mercato.
+Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili. Sono elencate le principali 5:
 
----
+| N. autorizzazione | Nome prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 027975073 | IMIGRAN 4 cpr rivestite 50 mg | GlaxoSmithKline SpA | Cancellata |
+| 027975061 | IMIGRAN 2 siringhe preriempite SC 6 mg 0,5 ml + autoiniettore penkit | GlaxoSmithKline SpA | Cancellata |
+| 027975123 | IMIGRAN spray nasale 2 flaconi 10 mg | GlaxoSmithKline SpA | Cancellata |
+| 027975135 | IMIGRAN spray nasale 2 flaconi 20 mg | GlaxoSmithKline SpA | Cancellata |
+| 039982018 | SUMATRIPTAN 2 penne SC 6 mg 0,5 ml | Sun Pharmaceutical Ind. Europe B.V. | Cancellata |
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
+- **Controindicazioni suggerite dal grafo di conoscenza** (non dal foglietto illustrativo): ipertensione, coronaropatia, infarto miocardico, ictus e disturbi cerebrovascolari, vasculopatia periferica, scompenso cardiaco, insufficienza epatica, malattia renale, epilessia, diabete, disturbi della coagulazione, emoglobinopatie e anemie, obesità, abuso/dipendenza da sostanze. Prevalgono le condizioni cardiovascolari e cerebrovascolari, coerenti con il rischio vasocostrittore dei triptani.
+- **Interazioni farmacologiche** (100 segnalate, di cui le principali):
+  - **Gravità maggiore:** dexfenfluramina, fenfluramina, lorcaserina, sibutramina (rischio serotoninergico), dolasetron, granisetron, ondansetron, palonosetron (antagonisti 5-HT3).
+  - **Gravità moderata:** morfina (anche liposomiale).
+  - Altre interazioni a gravità non definita (es. omeprazolo, pantoprazolo, metformina, doxiciclina).
+- Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo: il testo AIFA non è disponibile nei dati compilati.
 
-> ⚠️ **Nota clinica**: La storica controindicazione IHS dei triptani nell'emicrania di tipo basilare (ora MBA) deriva da un rischio teorico di vasospasmo dell'arteria basilare. Nessun evento di vasospasmo confermato attribuibile al sumatriptano in questo sottotipo è stato documentato in letteratura, ma questo profilo di rischio deve essere formalmente rivalutato rispetto alle prove attuali prima dell'uso clinico. Il sumatriptano è inoltre controindicato in caso di cardiopatia ischemica, precedente ictus o TIA, e ipertensione incontrollata — condizioni che richiedono uno screening attivo nei pazienti con MBA dato il loro profilo di sintomi sovrapposti.
+## Conclusione e prossimi passi
 
----
+**Decisione: Hold**
 
-## Conclusioni e passaggi successivi
+**Motivazione:**
+La predizione si basa quasi esclusivamente sulla vicinanza tra malattie nel modello, senza studi clinici né letteratura specifica sull'aura del tronco encefalico. Il rischio teorico di ischemia nel circolo posteriore è irrisolto, e tutte le autorizzazioni italiane sono cancellate.
 
-**Decisione: Procedere con misure di cautela**
-
-**Fondamento:**
-Il meccanismo d'azione del sumatriptano si sovrappone direttamente ai percorsi trigemino e vascolari implicati nell'emicrania con aura del tronco encefalico, e il modello TxGNN assegna una fiducia quasi massimale (99.74%). Tuttavia, non esistono studi clinici dedicati per questo sottotipo specifico, la base di prove (L3) si basa su dati osservazionali e di revisione per l'emicrania in generale, un'efficacia ridotta per il sottotipo con aura è stata documentata, e la storica controindicazione non è stata formalmente risolta da dati di trial prospettici.
-
-**Per procedere, è necessario:**
-
-- **Risolvere la storica controindicazione**: Commissionare una revisione sistematica delle prove post-2004 affrontando specificamente la sicurezza dei triptani nell'MBA, con il contributo di uno specialista in cefalee
-- **Condurre uno studio prospettico dedicato**: Progettare un RCT di fase 2 in pazienti con MBA confermati (criteri IHS ICHD-3) per stabilire i benchmark di efficacia e sicurezza
-- **Colmare le lacune normative nei dati**: Ottenere il foglio illustrativo completo (tutte le controindicazioni, le interazioni farmacologiche, le avvertenze) prima di emettere qualsiasi guida di prescrizione
-- **Stabilire un piano di monitoraggio della sicurezza**: Includere il monitoraggio cardiovascolare e cerebrovascolare, in particolare per i pazienti con fattori di rischio vascolare, data la sovrapposizione dei sintomi dell'MBA con ictus/TIA
-- **Chiarire i dati del MOA**: Recuperare dati farmacodinamici formali di DrugBank per rafforzare la documentazione meccanicistica nel fascicolo probatorio
-
+**Per procedere, sono necessari:**
+- Revisione specifica della sicurezza dei triptani nell'emicrania con aura del tronco encefalico (rischio ischemico nel circolo posteriore)
+- Controindicazioni e avvertenze dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Dati sul meccanismo d'azione da DrugBank
+- Verifica dello stato regolatorio attuale e delle formulazioni disponibili in Italia
+- Studi clinici o serie di casi mirati a questo sottotipo
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

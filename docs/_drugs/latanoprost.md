@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: Prove elevate (L1-L2)
-nav_order: 131
-evidence_level: L2
+parent: Solo previsione del modello (L5)
+nav_order: 258
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,87 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Latanoprost: Dal glaucoma ad angolo aperto al glaucoma ereditario primario
+# Latanoprost: dal glaucoma ad angolo aperto all'ipertensione oculare, verso il glaucoma ereditario primario
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Latanoprost è un agonista del recettore prostaglandina F2α (FP) ampiamente utilizzato per ridurre la pressione intraoculare (IOP) nel glaucoma ad angolo aperto e nell'ipertensione oculare. Il modello TxGNN predice che potrebbe essere efficace per il **glaucoma ereditario primario**, con **1 trial clinico di fase 2 completato** che fornisce attualmente prove dirette di supporto per questa direzione.
+Latanoprost è un analogo della prostaglandina F2-alfa, originariamente utilizzato per il **glaucoma ad angolo aperto** e l'**ipertensione oculare**.
+Il modello TxGNN ne predice una possibile efficacia nel **glaucoma ereditario primario**, ma nei dati compilati per questo report non risulta **nessuno studio clinico** né **alcuna pubblicazione** a sostegno di tale indicazione.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Glaucoma ad angolo aperto / Ipertensione oculare |
-| Nuova indicazione predetta | Glaucoma ereditario primario |
-| Punteggio di previsione TxGNN | 99.88% |
-| Livello di evidenza | L2 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Prosegui con cautele |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Glaucoma ad angolo aperto; ipertensione oculare (da grafo di conoscenza; il testo autorizzato AIFA non è disponibile) |
+| Nuova indicazione prevista | Glaucoma ereditario primario (primary hereditary glaucoma) |
+| Punteggio di predizione TxGNN | 99,88% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nell'Evidence Pack. Sulla base della farmacologia nota, latanoprost è un agonista selettivo del recettore prostaglandina F2α (FP) che riduce la pressione intraoculare aumentando il deflusso dell'umor acqueo attraverso il percorso uvosclerale. La sua efficacia e sicurezza nel ridurre l'IOP nel glaucoma ad angolo aperto e nell'ipertensione oculare sono ben consolidate nel corso di decenni di uso clinico.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, latanoprost è un analogo della prostaglandina F2-alfa che riduce la pressione intraoculare (PIO) aumentando il deflusso uveosclerale. La sua efficacia nel glaucoma ad angolo aperto è consolidata.
 
-Il glaucoma ereditario primario — causato da mutazioni in geni come *MYOC* (miocilina) e *CYP1B1* — condivide lo stesso punto finale patologico del glaucoma ad angolo aperto: aumento dell'IOP che porta al danno progressivo del nervo ottico e alla perdita visiva irreversibile. Sebbene la causa radice sia genetica piuttosto che acquisita, il controllo dell'IOP rimane la pietra miliare della gestione per la maggior parte delle forme di glaucoma ereditario, inclusi i casi refrattari alle procedure chirurgiche.
+Il glaucoma ereditario primario è caratterizzato anch'esso da PIO elevata, per cui un meccanismo ipotensivo oculare è biologicamente plausibile. Tuttavia, l'alto punteggio TxGNN riflette probabilmente la somiglianza con l'indicazione già approvata, più che un'evidenza nuova di riposizionamento. Va inoltre considerato che le forme pediatriche e congenite richiedono spesso un trattamento chirurgico, quindi il beneficio della terapia topica è incerto.
 
-Poiché il meccanismo d'azione del latanoprost agisce a valle del difetto genetico — migliorando direttamente il deflusso uvosclerale indipendentemente dalla mutazione a monte — il suo effetto di riduzione dell'IOP è biologicamente applicabile a questa popolazione. In particolare, uno studio di fase 2 (NCT01527682) ha valutato direttamente una combinazione di analogo della prostaglandina e dorzolamide in pazienti pediatrici affetti da glaucoma ereditario che avevano già fallito la chirurgia, fornendo le prove cliniche dirette più forti attualmente disponibili per questo percorso di riposizionamento farmacologico.
-
----
-
-## Evidenze dagli studi clinici
-
-| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fase 2 | Completato | 37 | Ha valutato l'efficacia ipotensiva oculare e la sicurezza di un analogo della prostaglandina (classe latanoprost) più dorzolamide in pazienti pediatrici con glaucoma refrattario alla chirurgia. Era previsto arruolare 68 occhi in 34–68 pazienti; il protocollo è stato modificato nel corso dello studio. Revisione del testo completo necessaria per confermare i risultati dell'endpoint primario. |
+Tra le altre predizioni di rilievo, l'**ipotricosi** (semplice del cuoio capelluto, e ipotricosi milia congenita) ha un legame meccanicistico debole ma plausibile, dato che gli analoghi delle prostaglandine stimolano la crescita delle ciglia. Per le altre indicazioni previste (calcifilassi viscerale, sindromi dello stretto toracico, angiodisplasia gastrica, sindrome del dito blu, linfangectasia) non emerge un legame meccanicistico chiaro. Per tutte, i dati non contengono studi né letteratura.
 
 ---
 
-## Evidenze dalla letteratura
+## Evidenza clinica
 
-Attualmente nessuna letteratura correlata disponibile.
+Al momento non risulta alcuno studio clinico correlato registrato.
+
+---
+
+## Evidenza dalla letteratura
+
+Al momento non è disponibile alcuna letteratura correlata.
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Latanoprost non è attualmente approvato né commercializzato in Italia (AIFA). Nessun record di autorizzazione è disponibile.
+Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione autorizzata e la forma farmaceutica non sono presenti nei dati. Tutti i prodotti sono colliri. Di seguito le principali 5:
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 045967015 | Lastafry collirio 2,5 ml 50 mcg/ml | DOC Generici Srl | Cancellata |
+| 039468018 | Latanoprost collirio 2,5 ml 50 mcg/ml | Teva B.V. | Cancellata |
+| 041429061 | Monoprost collirio 50 mcg/ml 6 ml | Laboratoires Théa | Cancellata |
+| 039983010 | Latanoprost collirio 2,5 ml 50 mcg/ml | Mylan SpA | Cancellata |
+| 033219015 | Xalatan collirio 2,5 ml 50 mcg/ml | Viatris Pharma Srl | Cancellata |
 
 ---
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni derivate dal grafo di conoscenza** (non dal foglio illustrativo): uveite, malattie dell'iride, malattie del corpo ciliare, panuveite, edema maculare retinico, edema maculare cistoide, irite, congiuntivite (incluse le forme contagiose acute).
+- **Interazioni farmacologiche**: la ricerca è stata completata e ha individuato 100 interazioni, tutte con livello di gravità non classificato ("Unknown"). Tra quelle elencate: calcitriolo, glimepiride, doxiciclina, clotrimazolo, lansoprazolo, cimetidina, atropina, pantoprazolo, mesalazina, acarbosio, morfina, metformina, omeprazolo, sucralfato, rosiglitazone, vancomicina, lattulosio, triamcinolone, prednisone, simvastatina. Senza classificazione di gravità, la rilevanza clinica non è valutabile.
+
+Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 
 ---
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
-**Decisione: Prosegui con cautele**
+**Decisione: Hold**
 
-**Razionale:**
-Uno studio di fase 2 completato valuta direttamente la terapia con analogo della prostaglandina nel glaucoma ereditario primario pediatrico refrattario alla chirurgia, e la riduzione dell'IOP mediata dal recettore FP di latanoprost è meccanicisticamente valida indipendentemente dall'eziologia genetica sottostante — rendendo questo un candidato di riposizionamento ben fondato.
+**Motivazione:**
+La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre non esistono autorizzazioni valide in Italia e mancano i dati di sicurezza del foglio illustrativo.
 
-**Per procedere, sono necessari i seguenti elementi:**
-- Revisione del testo completo di NCT01527682 per confermare il raggiungimento dell'endpoint primario, il profilo di sicurezza e gli outcome specifici dei sottogruppi
-- Dati sul meccanismo d'azione (MOA) dall'API di DrugBank per completare la razionale meccanicistica
-- Dati di sicurezza e controindicazioni dal foglio illustrativo italiano / AIFA per consentire lo screening di sicurezza S1
-- Valutazione della dosimetria pediatrica e dell'appropriatezza della formulazione per la popolazione con glaucoma ereditario primario
-- Revisione del profilo di interazioni farmaco-farmaco (DDI), in particolare per i pazienti in terapia antiglaucoma concomitante
-
+**Per procedere sono necessari:**
+- Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), requisito bloccante per lo screening di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Revisione sistematica della letteratura su latanoprost nel glaucoma ereditario/congenito, e sugli analoghi delle prostaglandine nell'ipotricosi del cuoio capelluto
+- Verifica dello stato commerciale: eventuale riautorizzazione o disponibilità di prodotti equivalenti in Italia
+- Valutazione della fattibilità della terapia topica nelle forme pediatriche/congenite, spesso trattate chirurgicamente
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

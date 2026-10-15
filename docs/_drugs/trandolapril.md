@@ -2,7 +2,7 @@
 layout: default
 title: Trandolapril
 parent: Solo previsione del modello (L5)
-nav_order: 204
+nav_order: 446
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,83 +29,98 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Trandolapril: Dall'ipertensione all'ipertensione renovascolare maligna
+# Trandolapril: Dall'ipertensione alla malattia renale ipertensiva maligna e all'ipertensione renovascolare maligna
 
-## Riassunto in una frase
+## Sintesi
 
-Trandolapril è un inibitore dell'ACE (enzima di conversione dell'angiotensina) consolidato per il trattamento dell'ipertensione e della disfunzione ventricolare sinistra in seguito a infarto del miocardio. Il modello TxGNN predice che potrebbe essere efficace per l'**ipertensione renovascolare maligna**, con **0 studi clinici** e **0 pubblicazioni** che supportano direttamente questa direzione. Criticamente, il meccanismo d'azione del farmaco pone un paradosso di sicurezza fondamentale per questa indicazione — gli inibitori dell'ACE sono controindicati nella stenosi bilaterale dell'arteria renale, l'eziologia più comune dell'ipertensione renovascolare, rendendo inappropriato l'avanzamento clinico immediato senza un ulteriore profilo di sicurezza.
+Trandolapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), originariamente impiegato nel trattamento dell'ipertensione arteriosa. Il modello TxGNN prevede un possibile effetto su **ipertensione renovascolare maligna** (punteggio 99,92%), ma per questa indicazione nei dati compilati per questo report non risultano **né studi clinici né pubblicazioni**. Il supporto è quindi solo di tipo predittivo.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originale | Ipertensione e disfunzione ventricolare sinistra post-IM (nessun record di autorizzazione in Italia in questo dataset) |
-| Indicazione prevista | Ipertensione renovascolare maligna |
-| Punteggio predittivo di TxGNN | 99.92% |
+|------|------|
+| Indicazione originale | Ipertensione arteriosa (dalla base di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipertensione renovascolare maligna |
+| Punteggio di predizione TxGNN | 99,92% |
 | Livello di evidenza | L5 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Mantenere in sospeso |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 (cancellata) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Basandosi sulla farmacologia consolidata, trandolapril appartiene alla classe degli inibitori dell'ACE — agisce bloccando l'enzima che converte l'angiotensina I in angiotensina II, riducendo così la vasocostrizione, diminuendo la secrezione di aldosterone e abbassando sia la resistenza vascolare sistemica che la pressione arteriosa. Queste proprietà sostengono la sua efficacia provata nell'ipertensione essenziale e nel rimodellamento cardiaco post-IM.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, trandolapril è un inibitore dell'ACE: riduce la formazione di angiotensina II e quindi la vasocostrizione e il carico pressorio. Questo meccanismo è coerente con l'ipertensione renovascolare, in cui l'attivazione del sistema renina-angiotensina ha un ruolo centrale.
 
-La logica biologica che connette trandolapril all'**ipertensione renovascolare maligna** passa direttamente attraverso il sistema renina-angiotensina-aldosterone (RAAS). Nella malattia renovascolare, la stenosi dell'arteria renale induce il rilascio eccessivo di renina, guidando la vasocostrizione mediata dall'angiotensina II e un'ipertensione grave, spesso refrattaria. L'inibizione dell'ACE può, in linea di principio, interrompere questa cascata patologica alla fonte — il che spiega perché il modello della rete della knowledge-graph di TxGNN assegna un punteggio predittivo estremamente elevato (99.92%).
+Va però sottolineato che questa indicazione è molto vicina a quella originale (ipertensione), perciò **non si tratta di un vero riposizionamento**. Inoltre, gli ACE-inibitori comportano un rischio noto in caso di stenosi bilaterale dell'arteria renale (peggioramento acuto della funzione renale).
 
-Tuttavia, lo stesso meccanismo crea un paradosso clinico critico. Nella stenosi **bilaterale** dell'arteria renale — la causa più comune di ipertensione renovascolare — la pressione di filtrazione glomerulare è mantenuta quasi interamente dalla vasocostrizione dell'arteriola efferente mediata dall'angiotensina II. Rimuovere questo supporto compensatorio con un inibitore dell'ACE rischia una perdita precipitosa della perfusione renale e insufficienza renale acuta. Questa è una controindicazione clinica ben riconosciuta. L'alto punteggio di TxGNN probabilmente riflette la prossimità a livello di rete tra la modulazione del RAAS e la patologia renovascolare, ma il modello non codifica questa controindicazione. Qualsiasi esplorazione clinica di questa previsione deve essere ristretta a una sottopopolazione attentamente definita — ad esempio, RAS unilaterale con un rene controlaterale confermato normale — e richiede una revisione obbligatoria della nefrologia prima di procedere.
+Altre predizioni nella stessa lista:
+
+- **Malattia renale ipertensiva maligna** (99,92%): il blocco del sistema renina-angiotensina potrebbe ridurre la pressione intraglomerulare e rallentare il danno renale. È un'estensione naturale dell'indicazione originale, senza studi a supporto.
+- **Ipertensione polmonare** (multifattoriale e da malattia polmonare/ipossia, 99,92%): il legame con il rimodellamento vascolare polmonare è debole e gli ACE-inibitori non sono una terapia consolidata; la vasodilatazione sistemica può causare ipotensione.
+- **Sindrome di Braddock** (99,88%): non emerge una chiara base meccanicistica; il punteggio riflette probabilmente associazioni di rete.
+- **Cuore polmonare cronico** (99,19%): esiste un solo studio preclinico sul ratto, indiretto.
 
 ---
 
-## Evidenza da studi clinici
+## Evidenze da studi clinici
 
-Attualmente nessuno studio clinico correlato registrato per trandolapril nell'ipertensione renovascolare maligna.
+Al momento non risultano studi clinici registrati correlati.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
-Attualmente nessuna letteratura correlata disponibile per trandolapril nell'ipertensione renovascolare maligna.
+Per l'indicazione principale (ipertensione renovascolare maligna) non sono disponibili pubblicazioni. Per le predizioni successive si segnalano questi lavori, tutti indiretti:
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [8166049](https://pubmed.ncbi.nlm.nih.gov/8166049/) | 1994 | Revisione | Am J Cardiol | Basi molecolari della regressione dell'ipertrofia cardiaca (ipertensione polmonare da malattia polmonare/ipossia) |
+| [7511729](https://pubmed.ncbi.nlm.nih.gov/7511729/) | 1994 | Preclinico (animale) | J Cardiovasc Pharmacol | Trandolapril in ratti spontaneamente ipertesi: regressione dell'ipertrofia ventricolare sinistra e effetti su resistenza coronarica e compliance |
+| [9218195](https://pubmed.ncbi.nlm.nih.gov/9218195/) | 1997 | Preclinico (animale) | J Hypertens Suppl | Associazione verapamil + trandolapril: riduzione pressoria e benefici metabolici/cardiovascolari |
+| [8909991](https://pubmed.ncbi.nlm.nih.gov/8909991/) | 1996 | Preclinico (animale) | Gen Pharmacol | Trandolapril + verapamil inibiscono il vasospasmo coronarico da ipossia dopo ischemia-riperfusione nel cane |
+| [8989645](https://pubmed.ncbi.nlm.nih.gov/8989645/) | 1996 | Preclinico (animale) | J Card Fail | Trattamento a lungo termine con trandolapril sulla vasocostrizione accentuata in ratti con scompenso cardiaco cronico |
+| [17393952](https://pubmed.ncbi.nlm.nih.gov/17393952/) | 2007 | Caso clinico | J Natl Med Assoc | Risoluzione del dolore da anemia falciforme in una paziente trattata con trandolapril (rilevanza incerta) |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Trandolapril attualmente non detiene **nessuna autorizzazione al commercio** in Italia. Nessun prodotto autorizzato o indicazione approvata è registrato in questo dataset.
-
-> **Nota:** Il log di interrogazione conferma che è stata eseguita una ricerca di successo nel database AIFA (2026-03-29) con zero risultati. Trandolapril è disponibile con marchi come Gopten in altri mercati europei; l'assenza di autorizzazione italiana dovrebbe essere verificata indipendentemente attraverso il registro AIFA ufficiale prima di trarre conclusioni normative.
-
----
-
-## Considerazioni di sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per le informazioni di sicurezza.
-
-> **Avvertimento meccanicistico importante:** Anche se i record formali di sicurezza non sono stati recuperabili per questo dataset, l'analisi della logica di riproposto identifica una preoccupazione clinicamente significativa indipendente dal foglio illustrativo: gli inibitori dell'ACE come classe — incluso trandolapril — possono precipitare insufficienza renale acuta in pazienti con stenosi bilaterale dell'arteria renale o stenosi di un rene funzionante solitario. Poiché questa anatomia è il fattore determinante predominante dell'ipertensione renovascolare, qualsiasi decisione di prescrizione in questa indicazione richiede una precedente imaging vascolare renale e una valutazione specialistica.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 038260105 | TRANDOLAPRIL*14 cps 2 mg (MYLAN SpA) | Non indicata | Non indicata (autorizzazione cancellata) |
 
 ---
 
-## Conclusione e prossimi step
+## Considerazioni sulla sicurezza
 
-**Decisione: Mantenere in sospeso**
+**Controindicazioni segnalate dalla base di conoscenza TxGNN** (non derivano dal foglio illustrativo): malattia renale, malattia epatica, malattia della colecisti, angioedema (incluse le forme ereditarie, acquisite e indotte da bloccanti del sistema renina-angiotensina), neutropenia, agranulocitosi, stenosi aortica e valvulopatie aortiche, ipotensione, malattie del tessuto connettivo, cardiomiopatia ipertrofica, ostruzione dell'arteria renale, miastenia gravis, tachicardia ventricolare, blocco atrioventricolare, scompenso cardiaco.
 
-**Logica:**
-La previsione di primo livello (ipertensione renovascolare maligna, 99.92%) porta zero studi clinici di supporto e zero letteratura pubblicata, e l'analisi meccanicistica rivela una probabile controindicazione nella presentazione clinica più comune della malattia — non un'opportunità di riproposto. Procedere alla valutazione clinica senza prima risolvere questo paradosso di sicurezza e definire una sottopopolazione sicura di pazienti sarebbe inappropriato.
+**Interazioni farmacologiche** (100 interazioni totali; sono riportate le principali):
 
-**Per procedere, è necessario quanto segue:**
+- **Maggiori**: citrato di potassio, bicarbonato di potassio (rischio di iperkaliemia).
+- **Moderate**: corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), antidiabetici (metformina, alogliptin, canagliflozin, dapagliflozin, empagliflozin, glimepiride, clorpropamide), bupropione, morfina, acido acetilsalicilico, dronabinolo, picosolfato e polietilenglicole con elettroliti.
 
-- **Recuperare il foglio illustrativo completo (SmPC) EMA/AIFA** per trandolapril al fine di documentare formalmente controindicazioni, avvertimenti e requisiti di monitoraggio renale
-- **Definire la sottopopolazione di pazienti idonei:** RAS unilaterale con funzione renale controlaterale confermata normale, dove l'inibizione dell'ACE è meccanicamente più sicura
-- **Ampliare la ricerca letteraria** dalle query specifiche di trandolapril agli inibitori dell'ACE come classe nell'ipertensione renovascolare, per stabilire la base di evidenza esistente
-- **Valutare indicazioni alternative previste** con profili beneficio-rischio più favorevoli come potenziali priorità di sviluppo precedenti:
-  - **Malattia cardiaca polmonare cronica** (Rank 6, Livello di evidenza L4) — supportata da uno studio animale ([PMID 8989645](https://pubmed.ncbi.nlm.nih.gov/8989645/)) che mostra come il trattamento prolungato con trandolapril attenua la vasocostrizione aumentata in ratti con insufficienza cardiaca cronica; la logica meccanicistica attraverso il rimodellamento del ventricolo destro mediato dal RAAS è plausibile
-  - **Ipertensione polmonare dovuta a malattia polmonare/ipossia** (Rank 4, Livello di evidenza L5) — l'ipertensione polmonare di Gruppo 3 presenta preoccupazioni di pressione arteriosa sistemica inferiori rispetto al Gruppo 1 PAH, rendendo l'inibizione dell'ACE meccanicamente più sicura da esplorare; l'angiotensina II elevata in condizioni di ipossia fornisce un punto di ingresso biologico
-- **Confermare lo stato del mercato italiano** tramite ricerca diretta nel registro AIFA, poiché la disponibilità commerciale nei mercati dell'UE vicini (ad es. Gopten in Germania/Regno Unito) potrebbe influenzare la pianificazione del percorso normativo
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, che non è stato reso disponibile per questo report.
 
+---
+
+## Conclusioni e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+L'evidenza è di livello L5 (solo predizione del modello) per l'indicazione principale, senza studi clinici né letteratura. Inoltre l'indicazione prevista è molto vicina a quella originale e non rappresenta un reale riposizionamento. L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza ufficiali.
+
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Dati sul meccanismo d'azione da DrugBank
+- Ricerca di studi clinici e letteratura specifici su ipertensione renovascolare maligna e malattia renale ipertensiva maligna
+- Valutazione del rischio renale in caso di stenosi bilaterale dell'arteria renale
+- Verifica della disponibilità commerciale in Italia, dato che l'unica autorizzazione risulta cancellata
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

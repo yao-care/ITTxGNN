@@ -2,15 +2,15 @@
 layout: default
 title: Cefprozil
 parent: Prove elevate (L1-L2)
-nav_order: 48
-evidence_level: L1
+nav_order: 96
+evidence_level: L2
 indication_count: 10
 ---
 
 # Cefprozil
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,81 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Cefprozil: dalle Infezioni delle Vie Respiratorie all'Infezione delle Vie Urinarie
+# Cefprozil: Dalle infezioni respiratorie alle infezioni delle vie urinarie
 
-## Riassunto in una frase
+## Sintesi
 
-Il cefprozil è un antibiotico cefalosporina orale di seconda generazione, originariamente sviluppato per le infezioni delle vie respiratorie superiori e inferiori e le infezioni della pelle/tessuti molli. Il modello TxGNN predice che potrebbe essere efficace per l'**Infezione delle Vie Urinarie**, con **nessuna sperimentazione clinica registrata** ma **9 pubblicazioni**—tra cui **3 RCT comparativi**—che attualmente supportano questa direzione.
+Il cefprozil è una cefalosporina orale di seconda generazione, originariamente usata per bronchite, tonsillite, otite media infettiva e altre infezioni delle vie respiratorie.
+Il modello TxGNN prevede che possa essere efficace per le **infezioni delle vie urinarie**,
+con **0 sperimentazioni cliniche registrate** e **9 pubblicazioni** reperite, tra cui 3 studi randomizzati controllati (RCT) di confronto con cefaclor, tutti datati 1991-1992.
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Infezioni delle vie respiratorie, infezioni della pelle e tessuti molli |
-| Indicazione predetta | Infezione delle Vie Urinarie |
-| Punteggio di predizione TxGNN | 99.99% |
-| Livello di evidenza | L1 |
-| Stato del mercato Taiwan | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con Salvaguardie |
-
----
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Bronchite, tonsillite, otite media infettiva, infezioni streptococciche e stafilococciche, infezioni delle vie respiratorie, raffreddore comune (testo autorizzativo AIFA non disponibile; indicazioni tratte dal grafo di conoscenza) |
+| Nuova indicazione prevista | Infezione delle vie urinarie |
+| Punteggio di predizione TxGNN | 99,99% |
+| Livello di evidenza | L2 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili da DrugBank per questo record di farmaco. Sulla base delle informazioni farmacologiche note dalla letteratura pubblicata, il cefprozil è una cefalosporina orale di seconda generazione che inibisce la sintesi della parete cellulare batterica legandosi alle proteine leganti penicillina (PBP). Questo interrompe il cross-linking del peptidoglicano e porta alla lisi cellulare. La razionale di riproposizione dell'Evidence Pack conferma specificamente che il cefprozil dimostra un'attività inibitoria delle PBP ben caratterizzata nei confronti dei principali uropatogeni responsabili dell'infezione urinaria non complicata — *Escherichia coli*, *Klebsiella pneumoniae*, e *Staphylococcus saprophyticus*.
+Non sono attualmente disponibili dati dettagliati sul meccanismo d'azione nelle informazioni compilate. In base alle conoscenze generali, il cefprozil è una cefalosporina di seconda generazione che inibisce la sintesi della parete cellulare batterica legandosi alle proteine che legano la penicillina (PBP). La sua efficacia nelle infezioni respiratorie e cutanee è documentata.
 
-La connessione tra infezioni respiratorie e infezioni delle vie urinarie è meccanicistica piuttosto che anatomica. Entrambi i contesti coinvolgono patogeni comuni acquisiti in comunità sensibili agli antibiotici beta-lattamici. Il profilo ad ampio spettro del cefprozil — in particolare attivo contro i cocchi gram-positivi e gli Enterobatteri gram-negativi — significa che lo stesso meccanismo d'azione che elimina gli agenti patogeni respiratori colpisce anche i batteri più responsabili delle infezioni urinarie non complicate. La sua biodisponibilità orale e l'escrezione urinaria documentata supportano ulteriormente concentrazioni farmacologiche adeguate nel sito dell'infezione.
+Le infezioni urinarie sono sostenute in prevalenza da *Escherichia coli*, *Klebsiella pneumoniae* e *Proteus mirabilis*, verso i quali il cefprozil mostra attività in vitro (oltre l'80% degli isolati di *E. coli* e *K. pneumoniae* inibiti a 8 mg/l in uno studio di Taiwan). Il meccanismo battericida è quindi applicabile anche a questo contesto.
 
-Questa predizione non è quindi un salto speculativo. Tre studi randomizzati e controllati indipendenti condotti nei primi anni '90 hanno già dimostrato che il cefprozil raggiunge tassi di guarigione clinica e batteriologica paragonabili al cefaclor negli adulti e nei bambini con infezione urinaria acuta non complicata. Il modello TxGNN sta in gran parte confermando un'applicazione supportata dall'evidenza che non è ancora stata formalmente registrata come indicazione approvata a Taiwan.
+Il legame con le indicazioni originali è di natura antibatterica: si tratta di un'estensione dello spettro d'uso, non di un meccanismo completamente nuovo. Le evidenze sono tuttavia datate (1991-1995), non esistono sperimentazioni registrate e il farmaco non ha attualmente autorizzazioni valide in Italia, per cui il livello resta L2 e non L1. Le fasi degli studi sono dedotte dai titoli della letteratura e non confermate.
 
----
+## Evidenze dagli studi clinici
 
-## Evidenza da Studi Clinici
+Attualmente non risultano sperimentazioni cliniche registrate per questa indicazione.
 
-Attualmente nessuno studio clinico registrato correlato per il cefprozil nell'infezione delle vie urinarie.
-
----
-
-## Evidenza dalla Letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|-------------|
-| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT comparativo | J Antimicrobial Chemother | Cefprozil 500 mg una volta al giorno vs cefaclor 250 mg TID in 102 adulti con infezione urinaria acuta non complicata; efficacia paragonabile, supportando la posologia semplificata una volta al giorno |
-| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT comparativo | Antimicrob Agents Chemother | 108 donne universitarie con infezione urinaria: cefprozil una volta al giorno vs cefaclor TID per 10 giorni; guarigione clinica ~94% e guarigione batterica ~93% per cefprozil, non significativamente diversa da cefaclor |
-| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT comparativo | Clinical Therapeutics | RCT multicentrico (pazienti ≥2 anni) confrontando cefprozil una volta al giorno vs cefaclor TID per 10 giorni in infezione urinaria acuta non complicata; tassi di risposta clinica soddisfacente paragonabili tra i gruppi |
-| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Studio clinico prospettico | Jpn J Antibiotics | Studio PK pediatrico dei granuli di cefprozil; concentrazioni seriche e urinarie confermate; 3 casi di infezione urinaria inclusi con buoni risultati clinici |
-| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Studio clinico prospettico | Jpn J Antibiotics | 21 bambini con infezioni batteriche acute inclusi 3 casi di infezione urinaria; risposta clinica buona-eccellente in 19/21 pazienti; eradicazione batterica completa raggiunta in tutti gli 11 casi confermati da coltura |
-| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | Studio in vitro | Chemotherapy | Studio in vitro taiwanese di 637 isolati clinici: cefprozil ha inibito >80% di *E. coli* e *K. pneumoniae* a 8 mg/L, confermando l'attività nei confronti dei principali uropatogeni in un contesto clinico locale |
-| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Revisione | Drugs | Revisione completa dello spettro antibatterico del cefprozil, farmacocinetica e applicazioni terapeutiche; documenta l'attività contro gli Enterobatteri e i patogeni urinari |
-| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Revisione | Pediatric Annals | Panoramica del cefprozil nelle infezioni pediatriche; nota il potenziale ruolo nella gestione delle infezioni respiratorie, della pelle e delle vie urinarie dato il suo profilo di sicurezza e la praticità del dosaggio |
-| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Revisione | Am Family Physician | Revisione comparativa delle nuove cefalosporine orali; conclude che il cefprozil è efficace per le infezioni della pelle, respiratorie e delle vie urinarie, evidenziando il dosaggio due volte al giorno come vantaggio clinico |
+|------|-----|------|------|---------|
+| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT | Clinical Therapeutics | Studio multicentrico: cefprozil una volta al giorno vs cefaclor tre volte al giorno per 10 giorni in infezioni urinarie acute non complicate (età ≥2 anni) |
+| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT | Antimicrob Agents Chemother | 108 donne: guarigione clinica 94% e batteriologica 93% con cefprozil 500 mg/die, contro 94% e 94% con cefaclor (differenza non significativa); entrambi sicuri ed efficaci |
+| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT | J Antimicrob Chemother | Studio aperto randomizzato: cefprozil 500 mg/die vs cefaclor 250 mg tre volte al giorno in infezioni urinarie acute non complicate |
+| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Revisione | Drugs | Attività antibatterica, farmacocinetica e potenziale terapeutico del cefprozil |
+| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Revisione | Pediatric Annals | Attività verso patogeni respiratori e cutanei; bassa incidenza di effetti gastrointestinali e dermatologici |
+| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Revisione | American Family Physician | Nuove cefalosporine orali come alternative nelle infezioni cutanee, respiratorie e urinarie |
+| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | In vitro | Chemotherapy | Buona attività su *E. coli* e *K. pneumoniae* in 637 isolati clinici di Kaohsiung (Taiwan) |
+| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Coorte | Jpn J Antibiot | Studi di laboratorio e clinici in ambito pediatrico |
+| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Coorte | Jpn J Antibiot | 21 bambini con infezioni batteriche acute (incluse infezioni urinarie): risposta buona o eccellente in 19 su 21 |
 
----
+## Informazioni sul mercato italiano
 
-## Informazioni sul Mercato Taiwan
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 039655016 | PROLIZIP*6 cpr rivestite 500 mg (FARTO Srl) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 039655028 | PROLIZIP*orale sosp 1 flacone 60 ml 250 mg/5 ml (FARTO Srl) | Sospensione orale | Non disponibile (autorizzazione revocata) |
 
-Il cefprozil attualmente **non è commercializzato a Taiwan**. Nessuna richiesta di licenza farmaceutica o autorizzazioni approvate è registrata. I pazienti a Taiwan che richiedono cefprozil attualmente non avrebbero accesso a un prodotto domestico approvato.
+## Considerazioni sulla sicurezza
 
----
+- **Controindicazioni (dal grafo di conoscenza, non dal foglio illustrativo)**: colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, deficit congenito di protrombina.
+- **Interazioni farmacologiche**: sono state rilevate 55 interazioni. Quelle di livello moderato riguardano balsalazide, kanamicina, neomicina, streptomicina e acido picosolfurico. Altre interazioni, di livello non classificato, riguardano ad esempio acido acetilsalicilico, amoxicillina, inibitori di pompa protonica (omeprazolo, pantoprazolo, lansoprazolo), anti-H2 (cimetidina, nizatidina), corticosteroidi (prednisone, prednisolone, idrocortisone, triamcinolone), simvastatina, metformina, clotrimazolo e cloruro di potassio.
 
-## Considerazioni sulla Sicurezza
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+## Conclusioni e prossimi passi
 
-> Nessun dato sulla sicurezza (avvertenze, controindicazioni o interazioni farmacologiche) è stato recuperabile dalle attuali fonti di dati. Il foglio illustrativo dell'TFDA o dell'FDA dovrebbe essere revisionato prima di qualsiasi uso clinico.
+**Decisione: Hold**
 
----
+**Motivazione:**
+Tre RCT di confronto con cefaclor sostengono l'efficacia clinica nelle infezioni urinarie non complicate, ma risalgono al 1991-1992, non vi sono sperimentazioni registrate e tutte le autorizzazioni italiane sono revocate. Mancano inoltre i dati di sicurezza ufficiali, per cui non è possibile procedere a una valutazione di sicurezza.
 
-## Conclusione e Passaggi Successivi
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (scaricare e analizzare il PDF dal sito AIFA)
+- Dati sul meccanismo d'azione (ad esempio tramite DrugBank)
+- Dati aggiornati di sensibilità dei patogeni urinari e delle resistenze in Italia
+- Verifica della fattibilità regolatoria, dato che non esistono autorizzazioni valide e che le fasi degli studi sono solo dedotte dai titoli
+- Rivalutazione dopo la risoluzione delle lacune, anche in confronto con le alternative orali attualmente raccomandate per le infezioni urinarie
 
-**Decisione: Procedere con Salvaguardie**
-
-**Razionale:**
-Tre studi randomizzati e controllati comparativi indipendenti hanno dimostrato in modo coerente che il cefprozil 500 mg una volta al giorno è sicuro ed efficace tanto quanto il cefaclor per l'infezione urinaria acuta non complicata, con tassi di guarigione clinica di circa il 93–94%. La razionale meccanicistica — inibizione delle PBP degli uropatogeni comuni con escrezione urinaria confermata — è direttamente applicabile, e il punteggio di predizione TxGNN del 99.99% è ben supportato dal corpo della letteratura esistente.
-
-**Per procedere, è necessario quanto segue:**
-- **Completamento del profilo di sicurezza**: Ottenere le avvertenze, le controindicazioni e le precauzioni dal foglio illustrativo dell'TFDA/FDA (attualmente bloccando lo screening formale della sicurezza)
-- **Documentazione del MOA**: Recuperare i dati completi del meccanismo d'azione da DrugBank per completare il dossier meccanicistico
-- **Screening DDI**: Condurre una revisione delle interazioni farmacologiche per i farmaci comunemente co-somministrati nelle popolazioni di pazienti con infezione urinaria
-- **Valutazione del panorama della resistenza**: Valutare i dati correnti di suscettibilità antimicrobica per *E. coli* e *Klebsiella* a Taiwan — gli RCT esistenti risalgono al 1991–1995, e i modelli di resistenza locale potrebbero essere cambiati significativamente
-- **Revisione del percorso normativo**: Determinare i requisiti normativi e la fattibilità per cercare l'autorizzazione del mercato Taiwan per l'indicazione dell'infezione urinaria
-
+**Nota sulle altre indicazioni previste:** la polmonite (L2) è un'estensione molto vicina alle indicazioni respiratorie originali, più che un vero riposizionamento; l'unico studio registrato (NCT06494072, fase 4, durata dell'antibiotico in polmonite pediatrica) non riguarda specificamente il cefprozil. La laringite (L3) dispone solo di due report pediatrici giapponesi del 1992, verosimilmente non controllati. Le altre indicazioni (epiglottite, uretrite da *Ureaplasma* e gonococcica, pielonefrite xantogranulomatosa, malattia infiammatoria uterina, tubercolosi urogenitale e addominale) sono solo predizioni computazionali (L5) e mancano di plausibilità meccanicistica o clinica: *Ureaplasma* non ha parete cellulare e i micobatteri sono resistenti ai beta-lattamici.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

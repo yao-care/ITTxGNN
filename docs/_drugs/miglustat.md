@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Miglustat
-parent: Prove elevate (L1-L2)
-nav_order: 148
-evidence_level: L2
+parent: Solo previsione del modello (L5)
+nav_order: 302
+evidence_level: L5
 indication_count: 10
 ---
 
 # Miglustat
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,106 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Miglustat: dalla malattia di Gaucher alla malattia di Tay-Sachs
+# Miglustat: Dalla malattia di Gaucher alla malattia di Tay-Sachs
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Miglustat (Zavesca®) è una terapia orale con riduzione del substrato originariamente approvata per la malattia di Gaucher di tipo 1, che agisce inibendo la glucosilceramide sintasi (GCS) per ridurre la produzione di glicosfingolipidi nelle cellule sottoposte a stress lisosomiale.
-Il modello TxGNN predice che potrebbe essere efficace per la **malattia di Tay-Sachs** (gangliosidosi GM2), supportato da **5 studi clinici** e **20 pubblicazioni**.
-Sebbene la razionalità meccanicistica sia scientificamente convincente, gli studi di Fase 3 nella forma infantile sono stati interrotti anticipatamente — l'opportunità più realistica risiede nella **variante a insorgenza tardiva**, dove l'attività enzimatica residua consente alla terapia di riduzione del substrato di avere più spazio per agire.
+Miglustat è un inibitore della glucosilceramide sintasi, originariamente utilizzato per la malattia di Gaucher e la malattia di Niemann-Pick. Il modello TxGNN ne prevede una possibile efficacia nella **malattia di Tay-Sachs**, la previsione con il maggior supporto tra le dieci generate. Per questa indicazione i dati compilati riportano **4 studi clinici** e **11 pubblicazioni**, ma l'efficacia clinica resta incerta.
 
----
+Il report si concentra su Tay-Sachs (classificata al 7° posto per punteggio TxGNN) perché è l'unica delle dieci indicazioni previste con evidenza clinica. Le altre nove non hanno studi né letteratura e sono riassunte più avanti.
 
-## Panoramica rapida
+## Quadro generale
 
-| Elemento | Contenuto |
+| Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Gaucher di tipo 1 (secondo la letteratura pubblicata; nessuna autorizzazione di commercializzazione in Italia registrata) |
-| Nuova indicazione prevista | Malattia di Tay-Sachs |
-| Punteggio di previsione TxGNN | 99.75% |
-| Livello di evidenza | L2 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con salvaguardie |
-
----
+| Indicazione originale | Malattia di Gaucher; malattia di Niemann-Pick (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Malattia di Tay-Sachs (7ª nella classifica delle previsioni; la prima in classifica, "ittiosi autosomica con decorso fatale", non ha alcuna evidenza) |
+| Punteggio di previsione TxGNN | 99,75% (per Tay-Sachs); 99,83% per la prima in classifica |
+| Livello di evidenza | L1 formalmente (presenza di studi di fase 3), da leggere con cautela: vedi sotto |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cessate |
+| Numero di autorizzazioni | 6 (tutte cessate) |
+| Decisione raccomandata | Hold (vedi conclusioni) |
 
 ## Perché questa previsione è ragionevole?
 
-Miglustat è un imino-zucchero di piccole dimensioni che inibisce la glucosilceramide sintasi (GCS), il primo enzima impegnato nella biosintesi dei glicosfingolipidi. Piuttosto che sostituire un enzima carente, funziona come una **terapia di riduzione del substrato (SRT)**: rallentando la velocità con cui il substrato viene prodotto, riduce il carico lisosomiale a un livello in cui l'attività enzimatica residua può mantenere l'equilibrio metabolico.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nel database dei farmaci. In base alla letteratura compilata, miglustat inibisce la glucosilceramide sintasi (UGCG) e riduce la sintesi dei glicosfingolipidi: si tratta di una terapia di riduzione del substrato.
 
-La malattia di Tay-Sachs è causata da una deficienza di β-esosaminidasi A (HexA, codificata da *HEXA*), che normalmente degrada il glicoside GM2 nei lisosomi. Senza HexA funzionante, il GM2 si accumula implacabilmente nei neuroni, determinando neurodegenerazione progressiva. Poiché il GM2 è sintetizzato **a valle** della glucosilceramide nella via dei sfingolipidi, l'inibizione della GCS da parte del miglustat riduce l'apporto a monte dei precursori del GM2 — targeting direttamente la cascata di accumulo che HexA non può più risolvere.
+Nella malattia di Tay-Sachs la carenza di esosaminidasi A causa l'accumulo del ganglioside GM2 nei neuroni. Ridurre la sintesi dei precursori di GM2 è quindi un razionale coerente con il meccanismo. Inoltre miglustat attraversa la barriera ematoencefalica, caratteristica rilevante per una malattia neuronopatica in cui le terapie enzimatiche sostitutive non raggiungono il sistema nervoso centrale.
 
-Questo è precisamente lo stesso principio meccanicistico dietro l'uso approvato di miglustat nella malattia di Gaucher, dove la deficienza di glucocerebrosidasi porta all'accumulo di glucosilceramide. Sia la malattia di Gaucher che Tay-Sachs sono disturbi dell'immagazzinamento lisosomiale causati da difetti negli enzimi di catabolismo dei glicosfingolipidi, rendendo il concetto di SRT meccanicisticamente trasferibile. La distinzione clinica critica è che la **malattia di Tay-Sachs a insorgenza tardiva** (con attività HexA residua e accumulo più lento) rappresenta un bersaglio molto più trattabile della forma acuta infantile, dove la quasi-totale deficienza enzimatica e la progressione della malattia rapida rendono la SRT insufficiente da sola.
+Il legame con le indicazioni originali è la comune natura di malattie lisosomiali da accumulo di glicosfingolipidi. Va però detto che i risultati clinici disponibili sono contrastanti: in due pazienti con Tay-Sachs infantile la terapia non ha arrestato il deterioramento neurologico, pur con concentrazioni significative del farmaco nel liquor e prevenzione della macrocefalia (PMID 16434676). Il report sulla revisione sistematica e lo studio randomizzato nella forma tardiva non descrivono nei dati compilati i risultati, quindi non è possibile confermarne le conclusioni.
 
-> I dati formali del meccanismo di azione da DrugBank non erano disponibili per questo rapporto. L'analisi meccanicistica di cui sopra è derivata dalla letteratura pubblicata contenuta nel pacchetto di prove.
+## Evidenza dagli studi clinici
 
----
-
-## Prove da studi clinici
-
-| Numero dello studio | Fase | Stato | Arruolamento | Risultati principali |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00418847](https://clinicaltrials.gov/study/NCT00418847) | Fase 2 | Completato | 5 | PK e tollerabilità del miglustat nella gangliosidosi GM2 giovanile; conferma la penetrazione nel SNC ma il campione è troppo piccolo per conclusioni sull'efficacia |
-| [NCT00672022](https://clinicaltrials.gov/study/NCT00672022) | Fase 3 | Completato | 10 | PK e sicurezza del miglustat nella gangliosidosi GM2 infantile (Tay-Sachs/Sandhoff); stabilisce la fattibilità del dosaggio ma non è progettato per valutare l'efficacia |
-| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Fase 3 | Interrotto | 30 | Efficacia del miglustat in Sandhoff infantile/Tay-Sachs — interrotto anticipatamente; segnale negativo significativo per il fenotipo infantile |
-| [NCT02030015](https://clinicaltrials.gov/study/NCT02030015) | Fase 4 | Interrotto | 16 | Studio Syner-G: miglustat + dieta chetogenica nella gangliosidosi — interrotto anticipatamente; la strategia combinata rimane irrisolta |
-| [NCT07399704](https://clinicaltrials.gov/study/NCT07399704) | Fase 2 | In corso di reclutamento | 21 | Sicurezza a lungo termine di Nizubaglustat (AZ-3102) in GM2/NPC; include coorte in transizione da miglustat stabile — segnali di competizione attiva con SRT di prossima generazione |
+| [NCT00672022](https://clinicaltrials.gov/study/NCT00672022) | Fase 3 | Completato | 10 | Farmacocinetica, sicurezza e tollerabilità di miglustat in GM2 gangliosidosi infantile a esordio acuto; studio di piccole dimensioni, non di efficacia |
+| [NCT02030015](https://clinicaltrials.gov/study/NCT02030015) | Fase 4 | Terminato | 16 | Regime enterale sinergico (miglustat + dieta chetogenica) nelle gangliosidosi (Syner-G); la combinazione impedisce di attribuire l'effetto a miglustat |
+| [NCT00418847](https://clinicaltrials.gov/study/NCT00418847) | Fase 2 | Completato | 5 | Farmacocinetica e tollerabilità in GM2 gangliosidosi giovanile; campione molto ridotto |
+| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Fase 3 | Terminato | 30 | Effetti di miglustat su sintomi neurologici e sistemici nelle forme infantili di Sandhoff e Tay-Sachs; la terminazione riduce il peso dell'evidenza |
 
----
-
-## Prove dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [19346952](https://pubmed.ncbi.nlm.nih.gov/19346952/) | 2009 | RCT (Fase 2) | Genetics in Medicine | RCT di 12 mesi + estensione di 24 mesi che valuta la sicurezza e l'efficacia del miglustat nella gangliosidosi GM2 **a insorgenza tardiva** (Tay-Sachs/Sandhoff); base di prove principale per questa indicazione |
-| [37209042](https://pubmed.ncbi.nlm.nih.gov/37209042/) | 2023 | Revisione sistematica | European Journal of Neurology | Revisione sistematica completa del miglustat nella gangliosidosi GM2; i risultati sono incoerenti tra gli studi — quadro di efficacia complessivamente misto |
-| [32867370](https://pubmed.ncbi.nlm.nih.gov/32867370/) | 2020 | Revisione | Int J Molecular Sciences | Caratteristiche cliniche, fisiopatologia e opzioni terapeutiche attuali in tutte le gangliosidosi GM2; panoramica utile della malattia |
-| [30524313](https://pubmed.ncbi.nlm.nih.gov/30524313/) | 2018 | Revisione | Frontiers in Physiology | Approcci terapeutici emergenti per Tay-Sachs inclusi SRT, terapia genica e potenziamento enzimatico — SRT posizionato come terapia ponte |
-| [12808890](https://pubmed.ncbi.nlm.nih.gov/12808890/) | 2003 | Revisione del profilo del farmaco | Curr Opin Investigational Drugs | Profilo iniziale del farmaco miglustat; documenta l'approvazione originale di Gaucher e il programma di sviluppo in fase iniziale per Tay-Sachs/Fabry/NPC |
-| [16434676](https://pubmed.ncbi.nlm.nih.gov/16434676/) | 2006 | Serie di casi | Neurology | Miglustat SRT in 2 pazienti infantili con TSD; il deterioramento neurologico non è stato fermato, ma è stata confermata l'esposizione del farmaco nel CSF — supporta l'accesso al SNC, non l'efficacia infantile |
-| [28476546](https://pubmed.ncbi.nlm.nih.gov/28476546/) | 2017 | Osservazionale | Mol Genetics and Metabolism | Storia naturale della gangliosidosi GM2 infantile; nota il miglustat limitato da effetti collaterali gastrointestinali — segnale di tollerabilità rilevante |
-| [33738443](https://pubmed.ncbi.nlm.nih.gov/33738443/) | 2021 | Coorte/Multi-malattia | Brain Communications | Acetil-leucina nei disturbi dell'immagazzinamento lisosomiale inclusa la gangliosidosi GM2; contesto per approcci di terapia combinata con SRT |
-| [18618288](https://pubmed.ncbi.nlm.nih.gov/18618288/) | 2008 | Studio pilota | J Inherited Metabolic Disease | Test neurocognitivo nella Tay-Sachs a insorgenza tardiva come potenziale misura di outcome; informa il disegno dello studio per futuri studi sul miglustat |
-| [9572057](https://pubmed.ncbi.nlm.nih.gov/9572057/) | 1998 | Revisione di scienze di base | Molecular Medicine Today | Biologia fondamentale della gangliosidosi GM2 e razionalità per strategie di riduzione del substrato; base scientifica storica |
-
----
+| [19346952](https://pubmed.ncbi.nlm.nih.gov/19346952/) | 2009 | RCT | Genetics in Medicine | Studio randomizzato controllato di 12 mesi (con 24 mesi di estensione) su sicurezza ed efficacia di miglustat nella Tay-Sachs a esordio tardivo; i risultati non sono riportati nei dati compilati |
+| [37209042](https://pubmed.ncbi.nlm.nih.gov/37209042/) | 2023 | Revisione sistematica | European Journal of Neurology | Valutazione di efficacia e sicurezza di miglustat nella GM2 gangliosidosi, a fronte di risultati precedenti incoerenti |
+| [42794762](https://pubmed.ncbi.nlm.nih.gov/42794762/) | 2026 | Revisione | Int J Mol Sci | Razionale biologico, evidenza clinica e limiti del riposizionamento di miglustat nei disturbi lisosomiali neuronopatici |
+| [30743792](https://pubmed.ncbi.nlm.nih.gov/30743792/) | 2009 | Revisione | Expert Rev Endocrinol Metab | Terapia di riduzione del substrato con miglustat nei disturbi da accumulo di glicosfingolipidi che colpiscono il cervello |
+| [16763917](https://pubmed.ncbi.nlm.nih.gov/16763917/) | 2006 | Revisione | J Inherit Metab Dis | Terapia di riduzione del substrato nei disturbi da accumulo di glicosfingolipidi |
+| [30524313](https://pubmed.ncbi.nlm.nih.gov/30524313/) | 2018 | Revisione | Front Physiol | Nuovi approcci terapeutici per la malattia di Tay-Sachs |
+| [16434676](https://pubmed.ncbi.nlm.nih.gov/16434676/) | 2006 | Serie di casi | Neurology | Due pazienti con Tay-Sachs infantile: la terapia non ha arrestato il deterioramento neurologico, ma con penetrazione nel liquor e prevenzione della macrocefalia |
+| [18618288](https://pubmed.ncbi.nlm.nih.gov/18618288/) | 2008 | Studio pilota | J Inherit Metab Dis | Test neurocognitivi nella Tay-Sachs a esordio tardivo come possibile misura di esito |
+| [28476546](https://pubmed.ncbi.nlm.nih.gov/28476546/) | 2017 | Storia naturale/Revisione | Mol Genet Metab | Cronologia clinica delle gangliosidosi infantili; la terapia con miglustat è limitata dagli effetti collaterali gastrointestinali |
+| [12808890](https://pubmed.ncbi.nlm.nih.gov/12808890/) | 2003 | Profilo del farmaco | Curr Opin Investig Drugs | Profilo di sviluppo di miglustat, anche per Tay-Sachs, Fabry e Niemann-Pick di tipo C |
 
 ## Informazioni sul mercato italiano
 
-Miglustat non ha alcuna autorizzazione di commercializzazione in Italia. Non sono registrate licenze di prodotto.
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 047623032 | MIGLUSTAT 84 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione cessata) |
+| 047623018 | MIGLUSTAT 84x1 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione cessata) |
+| 045773013 | MIGLUSTAT 84 cps rigide 100 mg (Gen.Orph) | Capsule rigide | Non disponibile (autorizzazione cessata) |
+| 045685029 | MIGLUSTAT 84x1 cps 100 mg (Accord Healthcare) | Capsule | Non disponibile (autorizzazione cessata) |
+| 045318019 | YARGESA 84x1 cps 100 mg (Piramal Critical Care) | Capsule | Non disponibile (autorizzazione cessata) |
 
-> Per riferimento: In altri stati membri dell'UE, il miglustat (Zavesca®, Actelion/Janssen) è autorizzato per la malattia di Gaucher di tipo 1 nei pazienti per i quali la terapia sostitutiva enzimatica è inappropriata, e per la malattia di Niemann-Pick di tipo C. Qualsiasi applicazione di repositioning in Italia dovrebbe procedere attraverso i percorsi AIFA per i farmaci orfani o l'accesso off-label.
+Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata. Nessuna autorizzazione risulta attualmente valida.
 
----
+## Considerazioni di sicurezza
 
-## Considerazioni sulla sicurezza
+- **Controindicazioni (da relazioni farmaco-malattia del grafo di conoscenza, non dal foglio illustrativo)**: malattie del sistema nervoso periferico, neuropatia periferica, compromissione della funzione renale.
+- **Interazioni farmacologiche**: interazione di livello moderato con imiglucerasi (terapia enzimatica sostitutiva per la malattia di Gaucher). Il bersaglio farmacologico noto è la glucosilceramide sintasi (UGCG).
+- Per avvertenze e precauzioni complete, consultare il foglio illustrativo.
+- Negli studi sulle gangliosidosi infantili sono segnalati effetti collaterali gastrointestinali che limitano la terapia.
 
-Nessun dato formale di sicurezza è stato recuperato per questo rapporto (le avvertenze del foglio illustrativo e il database di interazioni tra farmaci hanno entrambi restituito nessun risultato).
+## Altre indicazioni previste (senza evidenza clinica)
 
-In base alla letteratura pubblicata all'interno del pacchetto di prove:
-- **Effetti gastrointestinali**: Diarrea, flatulenza e dolore addominale sono gli eventi avversi più comunemente segnalati; questi sono stati abbastanza significativi da limitare il dosaggio nei pazienti pediatrici con gangliosidosi.
-- **Effetti neurologici**: Il tremore è stato segnalato; richiede monitoraggio in un contesto di malattia neurodegenerativa.
+Le restanti nove previsioni non dispongono di studi né di letteratura nei dati compilati (livello L5, decisione Hold). Il punteggio elevato è solo una previsione computazionale.
 
-> Si prega di fare riferimento al Riassunto delle caratteristiche del prodotto (RCP) di Zavesca® per il profilo di sicurezza completo prima di qualsiasi decisione clinica o prescrittiva.
+| Malattia prevista | Punteggio TxGNN | Plausibilità meccanicistica |
+|------|------|------|
+| Ittiosi autosomica con decorso fatale | 99,83% | Speculativa (metabolismo di sfingolipidi/ceramidi epidermici) |
+| Malattia da accumulo di esteri del colesterolo | 99,82% | Debole (carenza di lipasi acida lisosomiale) |
+| Malattia di Krabbe | 99,78% | Teoricamente plausibile (riduzione del substrato) |
+| Leucodistrofia metacromatica | 99,77% | Teoricamente plausibile (riduzione del substrato) |
+| Malattia di Wolman | 99,76% | Debole e indiretta |
+| Encefalopatia da deficit di prosaposina | 99,75% | Concettualmente plausibile |
+| Neoplasia benigna del surrene | 99,74% | Nessun legame identificato; probabile artefatto di rete |
+| Ittiosi recessiva legata all'X | 99,73% | Speculativa |
+| Neurodegenerazione associata all'idrossilasi degli acidi grassi | 99,72% | Speculativa (via degli sfingolipidi) |
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e prossimi passi
+**Decisione: Hold**
 
-**Decisione: Procedere con salvaguardie**
+**Motivazione:**
+Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma gli studi sono di piccole dimensioni, orientati a farmacocinetica e sicurezza, in parte terminati, e senza risultati di efficacia confermati nei dati compilati. In pratica l'evidenza è più vicina a una domanda di ricerca che a una prova di efficacia. Inoltre tutte le autorizzazioni italiane sono cessate e mancano i dati di sicurezza dal foglio illustrativo AIFA, un vuoto che blocca lo screening di sicurezza.
 
-**Razionalità:**
-La base meccanicistica per il miglustat nella malattia di Tay-Sachs è scientificamente solida e direttamente analoga al suo uso approvato nella malattia di Gaucher — entrambe sono disturbi dell'immagazzinamento di glicosfingolipidi lisosomiali amenevoli alla riduzione del substrato. Un RCT di Fase 2 completato e una revisione sistematica del 2023 forniscono prove cliniche reali, anche se i risultati sono incoerenti e in gran parte limitati al fenotipo a insorgenza tardiva. La forma infantile non è un bersaglio praticabile data la terminazione anticipata della Fase 3.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Specificare la popolazione target**: Lo sviluppo clinico dovrebbe concentrarsi esclusivamente sulla **malattia di Tay-Sachs a insorgenza tardiva (giovanile/adulta)**, dove l'attività HexA residua e l'accumulo più lento rendono meccanicisticamente fattibile la SRT; la Tay-Sachs infantile ha prove negative della Fase 3 (NCT03822013 interrotto)
-- **Compilare DG001**: Ottenere le avvertenze del foglio illustrativo TFDA/AIFA e le controindicazioni prima che qualsiasi valutazione della sicurezza possa avanzare a S1
-- **Compilare DG002**: Recuperare dati meccanicistici completi da DrugBank per il dossier meccanicistico completo
-- **Valutare il panorama competitivo**: Nizubaglustat (AZ-3102, NCT07399704) sta attivamente reclutando come SRT di prossima generazione e potrebbe surclassare il miglustat in questo spazio
-- **Definire gli endpoint di outcome**: Le misure di stabilità neurocognitiva e neurologica (informate da PMID 18618288) dovrebbero ancorare qualsiasi disegno di studio prospettico
-- **Percorso normativo**: Valutare la fattibilità della designazione di farmaco orfano AIFA o dell'accesso secondo la Legge 648 prima di avviare qualsiasi programma specifico per l'Italia
-
+**Per procedere sono necessari:**
+- Recuperare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni)
+- Ottenere i risultati completi dello studio randomizzato (PMID 19346952), della revisione sistematica (PMID 37209042) e degli studi NCT00672022 e NCT03822013, compresi i motivi della terminazione
+- Acquisire i dati sul meccanismo d'azione dal database dei farmaci
+- Chiarire la situazione regolatoria in Italia (autorizzazioni cessate, disponibilità del prodotto)
+- Definire un piano di monitoraggio della sicurezza, in particolare per neuropatia periferica, funzione renale ed effetti gastrointestinali
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

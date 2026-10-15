@@ -2,7 +2,7 @@
 layout: default
 title: Clonidina
 parent: Solo previsione del modello (L5)
-nav_order: 57
+nav_order: 119
 evidence_level: L5
 indication_count: 0
 ---

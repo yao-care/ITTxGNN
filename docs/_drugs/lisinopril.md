@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lisinopril
-parent: Prove moderate (L3-L4)
-nav_order: 137
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 274
+evidence_level: L5
 indication_count: 10
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,90 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Lisinopril: dall'Ipertensione / Insufficienza Cardiaca all'Infarto Miocardico Posterolaterale
+# Lisinopril: dall'ipertensione all'infarto miocardico posterolaterale
 
 ## Sintesi in una frase
 
-Il Lisinopril è un inibitore dell'ACE consolidato utilizzato a livello mondiale per l'ipertensione, l'insufficienza cardiaca e la gestione dell'infarto miocardico post-acuto, sebbene attualmente non sia registrata alcuna autorizzazione normativa a Taiwan.
-Il modello TxGNN prevede che possa essere efficace per l'**Infarto Miocardico Posterolaterale** — un sottotipo anatomico specifico di IM — con **nessuna sperimentazione clinica dedicata o pubblicazioni** identificate per questo particolare sottotipo al momento.
+Il lisinopril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), utilizzato originariamente per ipertensione e infarto miocardico. Il modello TxGNN prevede che possa essere efficace per l'**infarto miocardico posterolaterale**, ma si tratta di un sottotipo anatomico di un'indicazione già esistente. Per questa previsione non risultano **né studi clinici né pubblicazioni** specifiche (0 studi, 0 articoli).
 
----
+## Quadro generale
 
-## Panoramica Rapida
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione, infarto miocardico (il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile; le indicazioni derivano dal grafo di conoscenza PrimeKG) |
+| Nuova indicazione prevista | Infarto miocardico posterolaterale |
+| Punteggio di previsione TxGNN | 99,90% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 20 (tutte revocate) |
+| Decisione raccomandata | Hold |
 
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione Originale | Nessuna registrazione normativa a Taiwan (globalmente: ipertensione, insufficienza cardiaca, IM acuto) |
-| Nuova Indicazione Prevista | Infarto Miocardico Posterolaterale |
-| Punteggio di Predizione TxGNN | 99.90% |
-| Livello di Evidenza | L4 |
-| Stato del Mercato a Taiwan | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | In sospeso |
+## Perché questa previsione è ragionevole?
 
----
+I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, il lisinopril è un inibitore dell'ACE: riduce la formazione di angiotensina II e, di conseguenza, il tono vascolare e il rimodellamento cardiaco dopo infarto.
 
-## Perché questa Predizione è Ragionevole?
+L'infarto miocardico posterolaterale è un sottotipo anatomico dell'infarto miocardico, indicazione già associata al lisinopril. Non si tratta quindi di un vero riposizionamento. Il punteggio elevato riflette probabilmente la vicinanza ontologica al termine "infarto miocardico" nel grafo di conoscenza, più che un'evidenza specifica per questo sottotipo.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. Sulla base della farmacologia consolidata, il Lisinopril è un inibitore dell'ACE (Angiotensin-Converting Enzyme) che blocca il sistema renina-angiotensina-aldosterone (SRAA) prevenendo la conversione dell'angiotensina I in angiotensina II. Questo porta a vasodilatazione, ridotta secrezione di aldosterone, diminuzione del postcarico cardiaco e — in modo critico — soppressione della fibrosi miocardica mediata da angiotensina II e del rimodellamento ventricolare che guida i risultati avversi dopo infarto miocardico.
+Tra le altre previsioni del modello, alcune sono meccanisticamente plausibili ma poco supportate:
 
-L'infarto miocardico posterolaterale è un sottotipo anatomico tipicamente risultante dall'occlusione dell'arteria circonflessa, che interessa la parete posteriore e laterale del ventricolo sinistro. La cascata fisiopatologica che segue — attivazione neuroumorale, sovraregolazione del SRAA, e progressivo rimodellamento ventricolare sinistro — è fondamentalmente identica a quella osservata in qualsiasi altro territorio di infarto. Lo studio randomizzato landmark GISSI-3 ha dimostrato che il Lisinopril ha migliorato significativamente la mortalità a sei settimane e ha ridotto la disfunzione ventricolare sinistra in tutta la popolazione di IM acuto, fornendo fondamenti meccanicistici forti per la sua applicabilità a questo specifico sottotipo.
+- **Cuore polmonare cronico** (punteggio 99,68%): due lavori specifici sul lisinopril (PMID 14524095 e 17047621), probabilmente piccoli studi clinici, suggeriscono un beneficio emodinamico ed endoteliale. Il disegno e la numerosità non sono verificabili.
+- **Ipertensione polmonare da malattia polmonare/ipossia**: la letteratura recuperata è per lo più non pertinente (fisiologia animale, trote, retinopatia del prematuro). Gli ACE-inibitori non sono raccomandati dalle linee guida per l'ipertensione polmonare e la vasodilatazione sistemica potrebbe peggiorare l'ipossiemia.
+- **Ipertensione/nefropatia ipertensiva maligna e ipertensione nefrovascolare maligna**: plausibili per il coinvolgimento del sistema renina-angiotensina, ma gli ACE-inibitori possono causare peggioramento della funzione renale in presenza di stenosi dell'arteria renale.
 
-L'assenza di evidenza dedicata per l'IM posterolaterale quindi riflette un gap nel reporting dei sottogruppi degli studi clinici, non una genuina limitazione meccanicistica. Le linee guida cardiovascolari attuali (ESC, ACC/AHA) raccomandano gli inibitori dell'ACE per tutti i pazienti con IM con frazione d'eiezione ridotta o segni di insufficienza cardiaca, senza limitare la raccomandazione per la localizzazione anatomica dell'infarto.
+## Evidenza da studi clinici
 
----
+Attualmente non risultano studi clinici registrati correlati a questa previsione.
 
-## Evidenza da Studi Clinici
+## Evidenza dalla letteratura
 
-Attualmente non ci sono studi clinici correlati registrati specificamente per l'infarto miocardico posterolaterale.
+Attualmente non è disponibile letteratura correlata per l'infarto miocardico posterolaterale.
 
----
+Per completezza, le previsioni di rango inferiore dispongono di pochi riferimenti rilevanti:
 
-## Evidenza dalla Letteratura
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Studio clinico (disegno non verificato) | Kardiologiia | Il lisinopril 10 mg/die ha attenuato l'ipertensione polmonare e migliorato la funzione sistolica del ventricolo destro in pazienti con scompenso cardiaco, cardiopatia ischemica e BPCO |
+| [14524095](https://pubmed.ncbi.nlm.nih.gov/14524095/) | 2003 | Studio clinico (disegno non verificato) | Probl Tuberk Bolezn Legk | Lisinopril nel trattamento di pazienti con cuore polmonare cronico (abstract non disponibile) |
+| [39018146](https://pubmed.ncbi.nlm.nih.gov/39018146/) | 2024 | Caso clinico | JPMA | ACE-inibitore più coenzima Q10 come trattamento aggiuntivo in un caso di rottura del setto interventricolare dopo infarto; evidenza solo indiretta |
+| [20852161](https://pubmed.ncbi.nlm.nih.gov/20852161/) | 2010 | Caso clinico | Am J Health Syst Pharm | Ipotensione e bradicardia gravi con l'associazione tizanidina e lisinopril (segnale di sicurezza) |
 
-Attualmente nessuna letteratura correlata disponibile specificamente per l'infarto miocardico posterolaterale.
+## Informazioni sul mercato italiano
 
----
+Tutte e 20 le autorizzazioni risultano revocate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5:
 
-## Informazioni di Mercato a Taiwan
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 037426158 | LISINOPRIL*14 cpr 20 mg | Ratiopharm GmbH | Revocata |
+| 026834022 | ZESTRIL*14 cpr 20 mg | Atnahs Pharma Netherlands BV | Revocata |
+| 026837017 | ALAPRIL*14 cpr 5 mg | Neopharmed Gentili SpA | Revocata |
+| 026837029 | ALAPRIL*14 cpr 20 mg | Neopharmed Gentili SpA | Revocata |
+| 037471188 | LISINOPRIL*28 cpr 20 mg | Sandoz SpA | Revocata |
 
-Nessuna registrazione normativa a Taiwan per il Lisinopril.
+## Considerazioni sulla sicurezza
 
----
+I dati di etichetta (avvertenze e controindicazioni) non sono disponibili; si rimanda al foglio illustrativo.
 
-## Considerazioni sulla Sicurezza
+**Controindicazioni e condizioni a rischio (dal grafo di conoscenza, non dal testo dell'etichetta):** angioedema (incluso quello ereditario, acquisito e indotto da bloccanti del sistema renina-angiotensina-aldosterone), malattia renale, malattia epatica ed encefalopatia epatica, pancreatite, malattie della colecisti, lupus eritematoso sistemico, diabete e chetoacidosi diabetica, deficit di potassio, neutropenia/agranulocitosi, stenosi aortica, ipotensione, iperparatiroidismo, malattie del tessuto connettivo e malattie ossee.
 
-Si prega di consultare il foglio illustrativo per informazioni sulla sicurezza.
+**Interazioni farmacologiche:** sono state rilevate 100 interazioni complessive; tra quelle elencate:
+- **Maggiori:** citrato di potassio, bicarbonato di potassio (rischio di iperkaliemia).
+- **Moderate:** corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), antidiabetici (metformina, inibitori di SGLT2 e DPP-4, clorpropamide), acido acetilsalicilico, morfina, bupropione, dronabinolo, lassativi/preparati per la pulizia intestinale.
 
-> **Nota:** I dati del foglio illustrativo TFDA di Taiwan (avvertenze e controindicazioni) non sono attualmente disponibili — questo è un data gap bloccante che deve essere risolto prima che qualsiasi valutazione dell'uso clinico possa procedere.
+Dalla letteratura emerge inoltre un segnale di ipotensione e bradicardia con l'associazione a tizanidina.
 
----
+## Conclusione e prossimi passi
 
-## Conclusione e Prossimi Passi
+**Decisione: Hold**
 
-**Decisione: In sospeso**
+**Motivazione:**
+La previsione riguarda un sottotipo anatomico di un'indicazione già nota e non è supportata da studi o pubblicazioni specifici (livello L5). Inoltre, tutte le autorizzazioni italiane sono revocate, quindi non vi è un prodotto commercializzato su cui basare un'estensione.
 
-**Razionale:**
-Sebbene il fondamento meccanicistico per il Lisinopril nell'IM posterolaterale sia ben fondato — direttamente supportato dallo studio RCT GISSI-3 che copre l'IM acuto generale — nessuno studio clinico indipendente o pubblicazione affronta specificamente questo sottotipo anatomico, e i dati critici sulla sicurezza (foglio illustrativo TFDA di Taiwan) sono attualmente mancanti.
-
-**Per procedere, è necessario quanto segue:**
-
-- **\[Bloccante\]** Ottenere il foglio illustrativo TFDA di Taiwan — recuperare avvertenze e controindicazioni prima che qualsiasi valutazione della sicurezza possa iniziare
-- **\[Alta Priorità\]** Recuperare i dati dettagliati del meccanismo d'azione da DrugBank (DB00722)
-- Cercare i risultati a livello di sottogruppo negli studi IM di grandi dimensioni esistenti (GISSI-3, ISIS-4, CONSENSUS II) che riportino specificamente le coorti con infarto posterolaterale o nel territorio della circonflessa
-- Chiarire se le indicazioni post-IM generali esistenti secondo le linee guida di prescrizione attuali già comprendono questo sottotipo anatomico, il che potrebbe rendere non necessario un percorso dedicato di riadattamento terapeutico
-- Esaminare se il Lisinopril è disponibile o pianificato per l'immissione in commercio a Taiwan, dato lo stato attuale di zero autorizzazioni
-
+**Per procedere sono necessari:**
+- Verifica dell'attuale stato regolatorio in Italia e delle ragioni delle revoche
+- Testo delle indicazioni approvate e dati di etichetta (avvertenze e controindicazioni) dalle schede tecniche AIFA
+- Dati sul meccanismo d'azione da DrugBank
+- Valutazione se l'infarto miocardico posterolaterale rientri già nell'indicazione "infarto miocardico", rendendo superfluo un riposizionamento
+- Per le previsioni di rango inferiore (in particolare il cuore polmonare cronico): verifica del disegno e della numerosità degli studi esistenti e, se opportuno, studi clinici controllati
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

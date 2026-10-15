@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Quinapril
-parent: Prove moderate (L3-L4)
-nav_order: 174
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 370
+evidence_level: L5
 indication_count: 5
 ---
 
 # Quinapril
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,80 +31,91 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 # Quinapril: Dall'ipertensione alla malattia renale ipertensiva maligna
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Quinapril è un inibitore dell'ACE (ACEI) appartenente alla classe dei bloccanti del sistema renina-angiotensina-aldosterone (RAAS), classicamente utilizzato per trattare l'ipertensione e l'insufficienza cardiaca.
-Il modello TxGNN prevede che possa essere efficace per la **Malattia renale ipertensiva maligna**, con un punteggio di predizione del 99.86%.
-Attualmente, **nessun trial clinico dedicato** e **nessuna pubblicazione diretta** per questa specifica coppia farmaco-malattia sono stati identificati; la logica di supporto si basa su prove di meccanismo a livello di classe per gli inibitori dell'ACE nella nefropatia ipertensiva.
+Quinapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), originariamente usato per il trattamento dell'ipertensione. Il modello TxGNN prevede che possa essere efficace per la **malattia renale ipertensiva maligna**, ma al momento **non risultano studi clinici né pubblicazioni** a sostegno diretto di questa indicazione: la previsione si basa solo sul modello e su un ragionamento di classe.
 
 ---
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Ipertensione / Insufficienza cardiaca (classe ACEI; nessun record di autorizzazione italiana) |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione (testo dell'indicazione autorizzata non disponibile nei dati compilati; indicazione tratta dal grafo di conoscenza TxGNN) |
 | Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99.86% |
-| Livello di evidenza | L4 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Mantenere |
+| Punteggio di previsione TxGNN | 99,86% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa predizione è ragionevole?
+## Perché questa previsione è plausibile?
 
-Attualmente, i dati dettagliati del meccanismo d'azione non sono disponibili in questo pacchetto di evidenze. Sulla base delle informazioni note sulla classe farmacologica, Quinapril è un inibitore dell'ACE che blocca la conversione dell'angiotensina I in angiotensina II — un potente vasocostrittore che stimola anche la secrezione di aldosterone e promuove la fibrosi renale. Sopprimendo la produzione di angiotensina II, Quinapril dilata l'arteriola glomerulare efferente, riduce la pressione di filtrazione glomerulare intraglomerulare e rallenta la progressione della glomerulosclerosi e della proteinuria. L'accumulo di bradichinina — una conseguenza secondaria dell'inibizione dell'ACE — contribuisce ulteriormente alla vasodilatazione attraverso il rilascio di ossido nitrico.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze di classe, quinapril è un inibitore dell'ACE: bloccando il sistema renina-angiotensina riduce la produzione di angiotensina II, un potente vasocostrittore, e quindi la pressione arteriosa.
 
-La malattia renale ipertensiva cronica e il suo sottotipo maligno comportano entrambi un'accentuata sovra-attivazione del RAAS che guida la microangiopatia renale. Per la nefropatia ipertensiva cronica, la classe ACEI è supportata da prove di classe a livello di linee guida molto forti. La malattia renale ipertensiva maligna è il sottotipo acuto, rapidamente accelerante caratterizzato da grave elevazione della pressione arteriosa, necrosi fibrinoide delle arteriole renali e danno renale acuto — un contesto in cui la soppressione del RAAS è ben motivata dal punto di vista meccanicistico data l'estrema sovra-attivazione renina-angiotensina vista in questi pazienti.
+Nella nefropatia ipertensiva maligna, il danno vascolare e l'ipertensione glomerulare dipendono in parte dall'angiotensina II. Per questo il blocco del sistema renina-angiotensina è meccanicisticamente coerente. Va però sottolineato che questa indicazione è molto vicina a quella originale (l'ipertensione): si tratta più di un'estensione dell'uso esistente che di un vero riposizionamento.
 
-Tuttavia, una importante sfumatura clinica deve essere segnalata: la malattia renale ipertensiva maligna si presenta frequentemente come un'emergenza medica. Quinapril, come prodrug ACEI orale ad azione prolungata, non è stato specificamente studiato in questo sottotipo acuto-critico tramite RCT. Il modello TxGNN plausibilmente cattura il collegamento biologico tra l'inibizione dell'ACE e la protezione renale, ma l'applicabilità clinica al sottotipo maligno — incluso il dosaggio appropriato, i tempi e il rischio di eccessiva correzione della pressione arteriosa acuta — richiede un'indagine dedicata prima che qualsiasi raccomandazione di riposizionamento possa essere fatta.
+Anche per la seconda previsione, l'ipertensione renovascolare maligna (punteggio 99,86%), il razionale è coerente perché la malattia dipende fortemente dal sistema renina-angiotensina. Gli ACE-inibitori però comportano un rischio noto di peggioramento della funzione renale nella stenosi bilaterale dell'arteria renale, da valutare con attenzione.
 
----
-
-## Evidenza da trial clinici
-
-Attualmente nessun trial clinico correlato registrato.
+Tra le altre previsioni, l'unica con un minimo di supporto è l'ipertensione polmonare da malattia polmonare e/o ipossia (punteggio 99,85%, livello L4). Uno studio preclinico sull'animale del 1996 (PMID 8873672) mostra che quinapril ha ridotto l'ipertensione polmonare ipossica e il rimodellamento vascolare. Mancano studi sull'uomo. Per l'ipertensione polmonare ad eziologia multifattoriale non chiara e per la sindrome di Braddock il razionale meccanicistico è debole o non stabilito.
 
 ---
 
-## Evidenza da letteratura
+## Evidenze da studi clinici
 
-Attualmente nessuna letteratura correlata disponibile.
+Attualmente non risultano studi clinici registrati correlati.
+
+---
+
+## Evidenze dalla letteratura
+
+Per l'indicazione principale (malattia renale ipertensiva maligna) non è disponibile letteratura. Le uniche pubblicazioni raccolte riguardano l'ipertensione polmonare da ipossia, una previsione secondaria:
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [8873672](https://pubmed.ncbi.nlm.nih.gov/8873672/) | 1996 | Studio preclinico su animali | Circulation | L'inibizione dell'ACE tissutale con quinapril riduce l'ipertensione polmonare ipossica e il rimodellamento vascolare polmonare |
+| [8720418](https://pubmed.ncbi.nlm.nih.gov/8720418/) | 1996 | Studio preclinico su animali | Journal of Cardiovascular Pharmacology | Quinapril preserva la funzione meccanica ventricolare sinistra e il metabolismo energetico nei ratti dopo infarto miocardico (non riguarda direttamente l'ipertensione polmonare) |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-Quinapril non detiene alcuna autorizzazione al commercio attuale in Italia e non è elencato come prodotto commercializzato. Nessun record di licenza di prodotto è disponibile. Una valutazione del percorso normativo con AIFA sarebbe necessaria prima di qualsiasi applicazione clinica in Italia.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 027225010 | QUINAZIL 28 cpr rivestite div 5 mg (Malesci) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 027225034 | QUINAZIL 14 cpr rivestite div 20 mg (Malesci) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 037203229 | QUINAPRIL 14 cpr rivestite 20 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione cancellata) |
+
+Nessuna autorizzazione risulta attualmente valida.
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) non sono disponibili. Di seguito i dati reperibili da altre fonti.
 
-> **Nota:** I dati su avvertenze e controindicazioni chiave non erano disponibili in questo pacchetto di evidenze. Di particolare rilevanza clinica per questa indicazione, la controindicazione nota a livello di classe degli inibitori dell'ACE nella stenosi bilaterale dell'arteria renale deve essere valutata prima dell'uso in qualsiasi paziente con ipertensione renovascolare.
+- **Condizioni associate a controindicazione o cautela (dal grafo di conoscenza TxGNN, non dal testo dell'etichetta)**: angioedema (acquisito, ereditario, indotto da bloccanti del sistema renina-angiotensina), malattia renale, anuria, malattia epatica ed encefalopatia epatica, pancreatite, malattia della colecisti, lupus eritematoso sistemico, diabete mellito e chetoacidosi diabetica, carenza di potassio, ipotensione, iperparatiroidismo, neutropenia e agranulocitosi, gotta/iperuricemia, malattie del tessuto connettivo, malattie ossee e cartilaginee, ittero neonatale.
+- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle mostrate, una di livello **maggiore** con il citrato di potassio (rischio di iperpotassiemia) e numerose di livello moderato, tra cui metformina, acido acetilsalicilico, corticosteroidi (idrocortisone, desametasone, betametasone, triamcinolone, budesonide), tetracicline (doxiciclina, tetraciclina), dapagliflozin, canagliflozin, clorpropamide, morfina, bupropione e atropina.
+- Per l'indicazione nefrologica/renovascolare è rilevante in particolare il rischio di peggioramento della funzione renale con ACE-inibitori nella stenosi bilaterale dell'arteria renale.
 
 ---
 
 ## Conclusione e prossimi passi
 
-**Decisione: Mantenere**
+**Decisione: Hold**
 
-**Logica:**
-Il caso meccanicistico per Quinapril nella malattia renale ipertensiva maligna è concettualmente coerente — la soppressione del RAAS tramite inibizione dell'ACE affronta direttamente la fisiopatologia — ma nessun trial clinico specifico per quinapril o letteratura diretta per questa indicazione sono stati identificati, dati di sicurezza chiave sono mancanti, e il farmaco non è commercializzato in Italia, lasciando la base di evidenze a L4 (solo logica meccanicistica).
+**Motivazione:**
+La previsione ha un punteggio elevato (99,86%), ma l'evidenza è solo di livello L5: nessuno studio clinico né pubblicazione per l'indicazione principale. L'indicazione è inoltre molto vicina a quella originale, e tutte le autorizzazioni italiane risultano cancellate. Non è possibile procedere allo screening di sicurezza in assenza del foglio illustrativo.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Ampliamento della ricerca bibliografica**: Revisione sistematica dell'uso di ACEI (come classe) nell'ipertensione maligna con coinvolgimento renale — inclusi dati di coorti osservazionali, case series, e linee guida nefrologiche internazionali
-- **Revisione del foglio illustrativo**: Ottenere e analizzare le informazioni complete sulla prescrizione di Quinapril per documentare le controindicazioni (in particolare stenosi bilaterale dell'arteria renale, insufficienza renale acuta), avvertenze e guida al dosaggio nell'insufficienza renale
-- **Dati MOA**: Recuperare il meccanismo d'azione formale da DrugBank (DB00881) per supportare la sezione della logica meccanicistica
-- **Chiarimento sulla sicurezza renovascolare**: Distinguere la malattia renale ipertensiva maligna (sovra-attivazione primaria del RAAS — ACEI potenzialmente appropriato) dall'ipertensione renovascolare maligna (stenosi-guida — ACEI potenzialmente controindicato, come segnalato nel rango previsto 2)
-- **Consultazione con esperto nefrologo**: Convalidare la fattibilità clinica di una progettazione di studio osservazionale o prospettico in questa popolazione di pazienti ad alto-acuità
-- **Valutazione del percorso normativo AIFA**: Valutare la rotta verso l'autorizzazione in Italia dato lo stato attuale di non commercializzato
-
+**Per procedere sono necessari:**
+- Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
+- Dati sul meccanismo d'azione da DrugBank
+- Ricerca di studi clinici e di letteratura specifica sulla nefropatia ipertensiva maligna e sull'ipertensione renovascolare maligna
+- Per l'ipertensione polmonare da ipossia: studi sull'uomo che confermino i dati preclinici (livello L4)
+- Verifica della disponibilità commerciale in Italia, dato che non esistono autorizzazioni valide
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -2,7 +2,7 @@
 layout: default
 title: Ciclesonide
 parent: Solo previsione del modello (L5)
-nav_order: 51
+nav_order: 106
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,82 +29,81 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Ciclesonide: Dall'asma all'eczema atopico
+# Ciclesonide: Dall'asma alla dermatite atopica (eczema atopico)
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Ciclesonide è un corticosteroide inalatorio (ICS) approvato per l'asma, agisce come agonista del recettore dei glucocorticoidi (GR) che sopprime l'infiammazione delle vie aeree tramite l'attivazione enzimatica polmonare nel suo metabolita attivo, des-ciclesonide.
-Il modello TxGNN prevede che potrebbe essere efficace per l'**eczema atopico**, ma attualmente con **nessun trial clinico** e **nessuna letteratura pubblicata** che supporti questa specifica direzione.
-Esiste una barriera critica: ciclesonide è un profarmaco polmonare senza alcuna formulazione topica dermatologica, rendendo la compatibilità della via di somministrazione una sfida fondamentale non ancora risolta per le indicazioni cutanee.
+Il ciclesonide è un corticosteroide inalatorio utilizzato per il trattamento dell'asma e della rinite allergica.
+Il modello TxGNN prevede che possa essere efficace per l'**eczema atopico**, con un punteggio molto alto (99,96%).
+Tuttavia, per questa indicazione **non risulta alcuno studio clinico né alcuna pubblicazione** a supporto: la previsione è basata esclusivamente sul modello computazionale.
 
----
+## Quadro generale
 
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originaria | Asma (corticosteroide inalatorio) |
-| Indicazione nuova prevista | Eczema atopico |
-| Punteggio di previsione TxGNN | 99.96% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Asma, asma intrinseco, asma allergico, rinite allergica, rinite vasomotoria (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Eczema atopico |
+| Punteggio di previsione TxGNN | 99,96% |
 | Livello di evidenza | L5 |
-| Stato del mercato di Taiwan | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Sospendere |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è plausibile?
 
-## Perché questa previsione è ragionevole?
+Il ciclesonide è un profarmaco corticosteroide inalatorio, attivato dalle esterasi nel metabolita attivo des-ciclesonide. I dati sul meccanismo d'azione originale non sono disponibili nei dati compilati per questo rapporto; la descrizione si basa quindi sulla conoscenza generale della classe.
 
-Ciclesonide è un agonista del recettore dei glucocorticoidi (GR) progettato specificamente come profarmaco inalatorio. Dopo l'inalazione, le esterasi polmonari lo convertono nel suo metabolita attivo, des-ciclesonide, che inibisce l'attivazione di NF-κB nelle cellule epiteliali delle vie aeree e sopprime le citochine pro-infiammatorie incluse IL-6, IL-8 e TNF-α. Questo meccanismo di attivazione polmonare altamente mirato è una caratteristica di design deliberata destinata a ridurre gli effetti collaterali sistemici dei corticosteroidi.
+I corticosteroidi, topici o sistemici, sono una terapia standard per l'eczema atopico perché sopprimono l'infiammazione cutanea. L'asma e la dermatite atopica condividono inoltre una componente infiammatoria atopica/allergica, il che fornisce una logica meccanicistica per la previsione.
 
-L'eczema atopico è guidato principalmente dalla disregolazione immunitaria mediata da Th2, caratterizzata dall'iperattivazione dei percorsi IL-4, IL-13 e IgE che portano a disfunzione della barriera cutanea cronica e infiammazione. A livello di classe, gli agonisti GR sono centrali nella gestione dell'eczema atopico — i corticosteroidi topici rimangono uno standard di prima linea di cura. Il modello TxGNN probabilmente cattura questo ampio sovrapposizione meccanicistica della classe corticosteroidi, che spiega l'alto punteggio di previsione.
+Va però osservato che altri corticosteroidi topici dispongono già di solide evidenze in questa malattia, e il valore aggiunto del ciclesonide non è chiaro. Anche la compatibilità della via di somministrazione (formulazione inalatoria vs. cutanea) non è stata valutata.
 
-Tuttavia, esiste una **barriera fondamentale di compatibilità della via di somministrazione**: ciclesonide è farmacologicamente progettato per essere attivato da esterasi specifiche dei polmoni, non da enzimi cutanei. Attualmente non esiste alcuna formulazione topica o transdermale di ciclesonide, e non è chiaro se le esterasi cutanee possono convertire sufficientemente ciclesonide in des-ciclesonide a concentrazioni terapeuticamente rilevanti. Senza una via di somministrazione praticabile, la logica meccanicistica non può tradursi in applicazione clinica senza uno sviluppo farmaceutico significativo. Il punteggio TxGNN 99.96% dovrebbe quindi essere interpretato come riflettente **plausibilità a livello di classe**, non evidenza specifica di ciclesonide.
+Altre previsioni del modello, in ordine di punteggio: sensibilizzazione al 2-idrossietil metacrilato (99,76%), dermatite atopica (99,73%, sostanzialmente la stessa malattia dell'eczema atopico), bronchite (99,70%), dermatite da contatto (99,25%) e "tratti correlati all'asma, suscettibilità" (99,13%, probabile riformulazione dell'indicazione già esistente e non una vera nuova indicazione).
 
----
+## Evidenza dagli studi clinici
 
-## Prove da trial clinici
+Attualmente non risultano studi clinici registrati correlati.
 
-Attualmente nessun trial clinico correlato registrato.
+## Evidenza dalla letteratura
 
----
+Per l'indicazione principale (eczema atopico) non è disponibile alcuna letteratura. Per le previsioni secondarie è stato reperito solo materiale indiretto:
 
-## Prove dalla letteratura
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Revisione | Basic & Clinical Pharmacology & Toxicology | Linee guida finlandesi su diagnosi e farmacoterapia della BPCO stabile; evidenza indiretta (bronchite), senza dati specifici sul ciclesonide |
+| [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/) | 2012 | Caso clinico | Contact Dermatitis | Dermatite allergica sistemica da budesonide inalatorio con reattività crociata ai patch test con ciclesonide; è un segnale di sicurezza, non un beneficio terapeutico (dermatite da contatto) |
 
-Attualmente nessuna letteratura correlata disponibile.
+## Informazioni sul mercato italiano
 
----
-
-## Informazioni sul mercato di Taiwan
-
-Ciclesonide non ha alcuna licenza di farmaco approvato registrata a Taiwan (0 autorizzazioni). Nessuna tabella di autorizzazione è disponibile.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 038873055 | ALVESCO soluz. inal. 60 erog. 160 mcg (stato: cancellata) | Non indicata | Non disponibile |
+| 038873030 | ALVESCO soluz. inal. 60 erog. 80 mcg (stato: cancellata) | Non indicata | Non disponibile |
 
 ## Considerazioni sulla sicurezza
 
-Consultare il foglio illustrativo per informazioni sulla sicurezza.
+- **Controindicazioni (dal grafo di conoscenza, non dal foglio illustrativo)**: cheratite da herpes simplex, insufficienza corticosurrenalica, malattia di Addison, osteoporosi (anche postmenopausale), infezioni fungine, dermatofitosi, ipertensione oculare, glaucoma, infezioni parassitarie.
+- **Interazioni farmacologiche**: sono state identificate 63 interazioni. Tra quelle riportate:
+  - **Maggiore**: cladribina.
+  - **Moderate**: claritromicina, miconazolo, cobicistat, fostamatinib, abametapir (topico), fosamprenavir, atazanavir, amprenavir, ceritinib, boceprevir, conivaptan, insulina umana inalatoria ad azione rapida.
+  - **Minori**: formoterolo, salbutamolo, arformoterolo.
+  - Livello non definito: omeprazolo, lansoprazolo, prednisolone, famotidina.
+- **Segnale di allergia di classe**: un caso clinico documenta reattività crociata tra budesonide e ciclesonide nei patch test, il che suggerisce cautela in pazienti con allergia ai corticosteroidi.
 
----
+Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, attualmente non disponibile nei dati compilati.
 
-## Conclusione e fasi successive
+## Conclusione e prossimi passi
 
-**Decisione: Sospendere**
+**Decisione: Hold**
 
-**Logica:**
-Nonostante un alto punteggio di previsione TxGNN (99.96%), l'evidenza per ciclesonide nell'eczema atopico è L5 (solo previsione del modello) con zero trial clinici di supporto o letteratura, e — più criticamente — la farmacologia del profarmaco di ciclesonide pone una barriera fondamentale di compatibilità della via di somministrazione che non può essere risolta senza lo sviluppo di una nuova formulazione.
+**Motivazione:**
+La previsione ha un punteggio molto alto, ma non è supportata da alcuno studio clinico o pubblicazione specifica (livello L5). Inoltre le autorizzazioni italiane sono tutte cancellate, mancano i dati di sicurezza ufficiali e la compatibilità della via di somministrazione non è stata valutata.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Studio di fattibilità della formulazione**: determinare se una formulazione topica o transdermale di ciclesonide può fornire des-ciclesonide terapeuticamente attivo alla pelle (richiede investimento in R&D farmaceutica prima di qualsiasi fase clinica)
-- **Valutazione dell'esterasi cutanea**: caratterizzare se le esterasi cutanee umane possono attivare ciclesonide in des-ciclesonide a concentrazioni tissutali rilevanti — questo singolo punto dati cambierebbe drasticamente la plausibilità delle indicazioni cutanee
-- **Prova di concetto preclinica**: modelli di cheratinociti in vitro e modelli murini di dermatite atopica in vivo utilizzando ciclesonide per stabilire un segnale di efficacia di base prima di qualsiasi studio umano
-- **Conferma dei dati di MOA**: ottenere dati meccanismo completo di DrugBank per rafforzare la documentazione della logica meccanicistica
-
-> **Nota strategica — considerare di riprioritizzare a Bronchite (Rank 4):** tra tutte e sei le indicazioni previste, bronchite/BPCO presenta la questione di ricerca più immediatamente attuabile. Ciclesonide è già un ICS con azione anti-infiammatoria delle vie aeree consolidata; le linee guida GOLD supportano l'uso di ICS in BPCO; e le linee guida finlandesi per il trattamento della BPCO ([PMID 25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/)) citano la farmacoterapia ICS in questo contesto. Non è necessario alcuno sviluppo di nuova formulazione, e la via di somministrazione è identica all'indicazione approvata.
-
-> **Avvertenza — Dermatite da contatto (Rank 5) contiene contro-evidenza:** l'unica letteratura disponibile per questa indicazione ([PMID 22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/)) è un rapporto di caso che documenta ciclesonide come **allergene reattivo incrociato** nella dermatite allergica sistemica causata dal budesonide inalato — non come agente terapeutico. Questa indicazione non dovrebbe essere perseguita.
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
+- Valutazione della compatibilità tra la formulazione/via di somministrazione disponibile e quella necessaria per l'uso cutaneo
+- Ricerca di studi preclinici o clinici di ciclesonide nella dermatite atopica e confronto con i corticosteroidi topici già consolidati
+- Chiarimento dello stato regolatorio attuale (autorizzazioni cancellate) e della disponibilità del prodotto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

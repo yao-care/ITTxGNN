@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rufinamide
-parent: Prove moderate (L3-L4)
-nav_order: 183
-evidence_level: L4
+parent: Solo previsione del modello (L5)
+nav_order: 393
+evidence_level: L5
 indication_count: 5
 ---
 
 # Rufinamide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,73 +29,68 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Rufinamide: dalla Sindrome di Lennox-Gastaut alla Sindrome Epilettica Correlata a Infezione Febbrile
+# Rufinamide: Dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
 
-## Sommario in una riga
+## Sintesi in una frase
 
-Rufinamide (Banzel / Inovelon) è un farmaco antiepilettico con approvazione consolidata negli Stati Uniti e nell'UE per il trattamento adiuvante delle crisi associate alla Sindrome di Lennox-Gastaut (LGS), una delle più gravi encefalopatie epilettiche ad esordio in infanzia. Il modello TxGNN prevede che possa essere efficace nella **Sindrome Epilettica Correlata a Infezione Febbrile (FIRES)**, con un punteggio di previsione del **99.57%**. Nessuno studio clinico registrato è stato catturato dalla pipeline automatizzata; tuttavia, rapporti di casi esterni e piccole serie di casi suggeriscono una potenziale efficacia terapeutica di salvataggio nelle FIRES, posizionando questo candidato al **livello di evidenza L4 (meccanismo / preclinico)**.
+La rufinamide è un antiepilettico indicato per la sindrome di Lennox-Gastaut. Il modello TxGNN prevede che possa essere utile per la **sindrome epilettica correlata a infezione febbrile (FIRES)**, ma attualmente **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: la previsione si basa solo sul modello.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originale | Trattamento adiuvante delle crisi associate alla Sindrome di Lennox-Gastaut (LGS) |
-| Indicazione nuova prevista | Sindrome Epilettica Correlata a Infezione Febbrile (FIRES) |
-| Punteggio di previsione TxGNN | 99.57% |
-| Livello di evidenza | L4 |
-| Stato di commercializzazione in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Rinviare |
+|------|------|
+| Indicazione originale | Sindrome di Lennox-Gastaut (dalla base di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
+| Nuova indicazione prevista | Sindrome epilettica correlata a infezione febbrile (FIRES) |
+| Punteggio di previsione TxGNN | 99,57% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa previsione è ragionevole?
+Per i dati compilati per questo report, il meccanismo d'azione dettagliato non è disponibile. In base alle conoscenze generali di farmacologia (non ai dati forniti), la rufinamide modula i canali del sodio voltaggio-dipendenti prolungandone lo stato inattivo, e ha un'attività antiepilettica dimostrata nella sindrome di Lennox-Gastaut, una grave encefalopatia epilettica refrattaria. Un'attività anticonvulsivante in un'altra epilessia grave e refrattaria come la FIRES è quindi plausibile.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Dossier di Evidenze. In base alle conoscenze farmacologiche consolidate, rufinamide è un agente antiepilettico triazolo-carbossammide che prolunga lo stato inattivo dei canali del sodio voltaggio-dipendenti, limitando così le scariche neuronali ripetitive ad alta frequenza. Questo meccanismo è la base della sua efficacia provata in LGS — una condizione definita da scariche epilettiche intrattabili e multifocali diffuse nella corteccia.
+Vi è però un limite importante: la FIRES è considerata guidata in larga parte dalla neuroinfiammazione (ad esempio le vie di IL-1 e IL-6), un meccanismo che un bloccante dei canali del sodio difficilmente affronta. Al più potrebbe controllare le crisi in modo sintomatico, senza agire sul processo di fondo.
 
-FIRES è un'emergenza epilettica catastrofica che emerge giorni dopo una malattia febbrile e si manifesta come stato epilettico superresistente. Sia LGS che FIRES condividono una comunanza fisiopatologica critica: disfunzione corticale diffusa con scariche epilettiche sostenute, resistenti al trattamento, ad alta frequenza. Poiché il meccanismo di stabilizzazione dei canali del sodio di rufinamide attenua direttamente questo pattern di ipereccitabilità neuronale, esiste una base scientifica solida per il suo potenziale uso come agente terapeutico di salvataggio in FIRES — un'area dove le opzioni terapeutiche sono estremamente limitate.
+Altre indicazioni previste dal modello, tutte con punteggio simile (circa 99,4–99,5%) e senza alcuna evidenza clinica: mioclonie perorali con assenze, epilessia del lobo occipitale fotosensibile, spasmi epilettici criptogenici a esordio tardivo, epilessia infantile atipica con punte centrotemporali. Per le forme con assenze, alcuni bloccanti dei canali del sodio possono peggiorare le crisi, quindi l'adeguatezza meccanicistica è incerta.
 
-L'elevato punteggio di previsione TxGNN del 99.57% riflette la forte somiglianza all'interno della classe antiepilettica tra LGS e FIRES nel grafo della conoscenza malattia-gene-farmaco. In particolare, la letteratura esterna non catturata dalla pipeline automatizzata include rapporti di casi e piccole serie di casi in cui rufinamide è stato utilizzato come adiuvante di emergenza in FIRES, suggerendo un'adozione nel mondo reale precoce. Sebbene questa evidenza non soddisfi ancora gli standard degli studi clinici, l'allineamento meccanicistico con un'indicazione LGS già approvata rende FIRES un prossimo passo scientificamente credibile per l'indagine.
+## Evidenze da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenza dagli studi clinici
+## Evidenze dalla letteratura
 
-Attualmente nessuno studio clinico correlato è registrato.
+Attualmente non risulta alcuna letteratura correlata.
 
----
+## Informazioni sul mercato italiano
 
-## Evidenza dalla letteratura
-
-Attualmente nessuna letteratura correlata disponibile.
-
-> **Nota:** rapporti di casi esterni e piccole serie di casi che descrivono rufinamide come agente terapeutico di salvataggio in FIRES esistono in letteratura ma non sono stati catturati dalla query automatizzata della pipeline. Una revisione sistematica manuale della letteratura dedicata (ad es. ricerca PubMed: "rufinamide FIRES", "rufinamide febrile infection-related epilepsy") è fortemente consigliata prima che sia effettuata una valutazione finale dell'evidenza.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 038217143 | INOVELON 60 cpr rivestite div 400 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 038217016 | INOVELON 10 cpr rivestite div 100 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 038217093 | INOVELON 60 cpr rivestite 200 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
 
 ## Considerazioni sulla sicurezza
 
-Si prega di consultare il foglio illustrativo per le informazioni sulla sicurezza.
+- **Controindicazioni nel grafo di conoscenza** (relazioni farmaco-malattia di TxGNN, non testo del foglio illustrativo): insufficienza epatica, malattie epatiche, malattie della colecisti, leucopenia, disturbo d'ansia, disturbo nevrotico, disturbo distimico.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni; le prime 20 elencate sono tutte di livello moderato. Tra le principali: idrocortisone, prednisone, betametasone, triamcinolone (corticosteroidi), colecalciferolo, calcifediolo, calcitriolo (vitamina D), pioglitazone, bupropione, morfina, metoclopramide, ondansetron, dronabinolo, nabilone, difenossina, difenossilato, eliglustat, naloxegol, nitisinone e rolapitant.
 
----
+Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Rinviare**
+**Decisione: Hold**
 
-**Razionale:**
-L'evidenza è attualmente a L4 — nessuno studio clinico registrato o letteratura formalmente indicizzata dalla pipeline è stato identificato per rufinamide in FIRES, e i dati di sicurezza chiave (avvertimenti del foglio illustrativo, controindicazioni, interazioni farmacologiche) rimangono non verificati. Il caso meccanicistico è plausibile e il segnale TxGNN è forte, ma la validazione prospettica è richiesta prima dell'avanzamento clinico o normativo.
+**Motivazione:**
+La previsione si basa solo su un punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES. Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Revisione manuale della letteratura:** Recuperare sistematicamente rapporti di casi e serie di casi sull'uso di rufinamide in FIRES / stato epilettico superresistente (la pipeline non ha catturato questi)
-- **Documentazione del meccanismo d'azione:** Ottenere i dettagli completi del meccanismo d'azione da DrugBank API o fonti di farmacologia pubblicate
-- **Dati di sicurezza:** Recuperare gli avvertimenti del foglio illustrativo AIFA / EMA, controindicazioni e interazioni farmacologiche per rufinamide
-- **Valutazione del percorso normativo italiano:** Valutare la fattibilità dell'uso off-label o dell'autorizzazione per uso compassionevole per FIRES in Italia, dato che rufinamide non è attualmente commercializzato da AIFA
-- **Consultazione clinica con esperti:** Coinvolgere specialisti in neurologia pediatrica o epilessia per valutare la fattibilità clinica e i criteri di idoneità dei pazienti per uno studio pilota o un registro
-
+**Per procedere sono necessari:**
+- Una ricerca bibliografica sistematica sull'uso della rufinamide in FIRES e nelle altre epilessie previste, con revisione da parte di esperti
+- Dati sul meccanismo d'azione dettagliato (da DrugBank)
+- Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
+- Chiarimenti sullo stato regolatorio, dato che tutte le autorizzazioni sono cancellate, e sulle vie di somministrazione necessarie
+- Valutazione del rischio per le interazioni e per le condizioni epatiche ed ematologiche segnalate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

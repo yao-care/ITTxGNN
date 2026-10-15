@@ -2,7 +2,7 @@
 layout: default
 title: Alirocumab
 parent: Solo previsione del modello (L5)
-nav_order: 19
+nav_order: 29
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,89 +29,87 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# ALIROCUMAB: Valutazione del Riutilizzo di Farmaci — In Attesa di Indicazioni Previste
+# Alirocumab: Dall'ipercolesterolemia/aterosclerosi a Ittiosi X-linked senza deficit di steroide solfatasi
 
-## Riepilogo in una Frase
+## Sintesi
 
-L'alirocumab (Praluent®) è un anticorpo monoclonale completamente umano che mira a PCSK9, originariamente sviluppato per il trattamento dell'ipercolesterolemia e la riduzione del rischio cardiovascolare. Il modello TxGNN **non ha ancora generato indicazioni nuove previste** per questo farmaco, e il dossier probatorio attualmente contiene **nessuna sperimentazione clinica** e **nessuna letteratura** da valutare. È necessaria un'ulteriore raccolta di dati prima che una valutazione del riutilizzo possa procedere.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Non elencata nel dossier probatorio attuale (nota: ipercolesterolemia, riduzione del rischio cardiovascolare) |
-| Indicazione Nuova Prevista | — (Nessuna previsione TxGNN disponibile) |
-| Punteggio di Previsione TxGNN | — |
-| Livello di Evidenza | L5 (Nessuna previsione o studi di supporto) |
-| Stato di Commercializzazione a Taiwan | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | **Mantenere** |
+Alirocumab è un anticorpo monoclonale anti-PCSK9, originariamente utilizzato per le dislipidemie e le malattie aterosclerotiche (dislipidemia sindromica, aterosclerosi, arteriosclerosi, arteriolosclerosi).
+Il modello TxGNN predice una possibile efficacia per l'**ittiosi X-linked senza deficit di steroide solfatasi**, ma per questa indicazione non risultano **né studi clinici né pubblicazioni** a supporto: la predizione si basa solo sul modello (livello di evidenza L5).
 
 ---
 
-## Perché Questa Previsione è Ragionevole?
+## Panoramica rapida
 
-Attualmente, il modello TxGNN non ha generato alcuna indicazione nuova prevista per l'alirocumab, quindi un'analisi di plausibilità meccanicistica non può essere condotta al momento.
-
-Per riferimento, l'alirocumab è un inibitore di PCSK9 (proprotein convertase subtilisin/kexin type 9). PCSK9 normalmente si lega ai recettori LDL sulla superficie degli epatociti, promuovendo la loro degradazione e riducendo così la capacità del fegato di eliminare il colesterolo LDL dal sangue. Bloccando PCSK9, l'alirocumab aumenta il numero di recettori LDL disponibili, riducendo significativamente i livelli di LDL-C. Questo meccanismo è stato convalidato nello studio cardine ODYSSEY OUTCOMES che ha dimostrato la riduzione degli eventi cardiovascolari.
-
-La via PCSK9 è stata implicata in aree al di là del metabolismo lipidico — compresa l'infiammazione, la sepsi, la rigenerazione epatica e l'infezione virale — suggerendo potenziali strategie di riutilizzo. Tuttavia, fino a quando le previsioni TxGNN non saranno generate, nessuna analisi formale di collegamento meccanicistico potrà essere condotta.
-
----
-
-## Prove da Studi Clinici
-
-Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca specifica per indicazione di studi clinici è stata condotta.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Dislipidemia sindromica, aterosclerosi, arteriosclerosi, arteriolosclerosi (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione predetta | Ittiosi X-linked senza deficit di steroide solfatasi |
+| Punteggio di predizione TxGNN | 99,43% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Prove dalla Letteratura
+## Perché questa predizione è ragionevole?
 
-Attualmente nessuna indicazione prevista da TxGNN è disponibile; pertanto, nessuna ricerca specifica per indicazione della letteratura è stata condotta.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. È noto tuttavia che alirocumab è un anticorpo che inibisce PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9), aumentando la disponibilità dei recettori LDL e la clearance del colesterolo LDL.
 
----
+Per l'ittiosi X-linked, **non è stato identificato un legame meccanicistico plausibile**. Questa malattia comporta l'accumulo di colesterolo solfato nella cute, un processo su cui l'inibizione di PCSK9 non ha un effetto stabilito. Nonostante il punteggio elevato, l'assenza di studi e di letteratura indica che la predizione sembra un artefatto del grafo di conoscenza.
 
-## Informazioni sul Mercato di Taiwan
-
-L'alirocumab **non è attualmente commercializzato a Taiwan**. Nessuna autorizzazione di commercializzazione TFDA è stata trovata (data della ricerca: 2026-03-29).
-
-> Nota: L'alirocumab è approvato negli USA (FDA), nell'UE (EMA) e in molti altri mercati con il nome commerciale **Praluent®** (Sanofi / Regeneron) per l'ipercolesterolemia primaria, la dislipidemia mista e la malattia cardiovascolare aterosclerotica accertata per ridurre il rischio cardiovascolare.
+Va inoltre segnalato che, tra le altre predizioni del modello, il **xantomatosi** è biologicamente plausibile (la riduzione del LDL-C potrebbe ridurre il carico xantomatoso, con evidenza solo indiretta da due case report) e la **malattia del catabolismo del colesterolo** si sovrappone alle indicazioni lipidiche già approvate, quindi rappresenta più una riformulazione dell'uso esistente che un vero riposizionamento. Entrambe sono candidate più sensate rispetto a quella di rango 1.
 
 ---
 
-## Considerazioni di Sicurezza
+## Evidenza da studi clinici
 
-Nessun dato di sicurezza (avvertenze, controindicazioni o interazioni farmacologiche) è disponibile nel dossier probatorio attuale.
-
-> Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza. Le considerazioni di sicurezza note principali per l'alirocumab dall'etichetta approvata includono:
-> - **Reazioni di ipersensibilità** (incluse prurito, eruzione cutanea, orticaria; rari casi di vasculite da ipersensibilità)
-> - **Reazioni nel sito di iniezione** (evento avverso più comune)
-> - **Eventi neurocognitivi** (monitorati negli studi clinici; nessuna relazione causale confermata)
-> - **Compromissione epatica** (nessun aggiustamento della dose necessario per lieve-moderata; dati limitati in grave)
+Attualmente non risultano studi clinici correlati registrati per questa indicazione.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenza dalla letteratura
 
-**Decisione: Mantenere**
-
-**Razionale:**
-Il dossier probatorio per l'alirocumab è criticamente incompleto — nessuna indicazione nuova prevista da TxGNN è stata generata, nessuna autorizzazione di commercializzazione a Taiwan esiste, e i dati di sicurezza/meccanismo d'azione rimangono assenti. Senza un'indicazione nuova prevista, nessun percorso di valutazione del riutilizzo può essere avviato.
-
-**Per procedere, quanto segue è necessario:**
-
-1. **Esecuzione di Previsione TxGNN** — Eseguire il modello TxGNN per l'alirocumab (DB09302) per generare candidati di indicazioni di riutilizzo con punteggi di previsione
-2. **Dati sul Meccanismo d'Azione (MOA)** — Interrogare l'API di DrugBank per recuperare i dati completi di MOA, target e via (Lacuna di Dati DG002)
-3. **Foglio Illustrativo TFDA** — Ottenere e analizzare il foglio illustrativo ufficiale per avvertenze e controindicazioni (Lacuna di Dati DG001), o se non commercializzato a Taiwan, reperire da etichette approvate FDA/EMA
-4. **Dati di Interazione Farmacologica** — Ri-interrogare i database di interazione farmacologica; l'alirocumab come anticorpo monoclonale ha interazioni mediate da CYP limitate, ma gli schemi di co-somministrazione con statine dovrebbero essere documentati
-5. **Valutazione dell'Accesso al Mercato di Taiwan** — Se candidati di riutilizzo sono identificati, valutare il percorso per la registrazione TFDA o l'uso compassionevole
+Attualmente non risulta letteratura correlata disponibile per questa indicazione.
 
 ---
 
-*Questo rapporto è stato generato il 2026-04-03 in base al dossier probatorio v4 (ID candidato: TW-DB09302-multi). I risultati sono solo per riferimento di ricerca e non costituiscono consulenza medica. I candidati di riutilizzo di farmaci richiedono una convalida clinica prima dell'applicazione.*
+## Informazioni sul mercato italiano
 
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 044500027 | PRALUENT, 2 penne preriempite SC 1 ml 75 mg | – | Non disponibile (autorizzazione cancellata) |
+| 044500078 | PRALUENT, 1 penna preriempita SC 1 ml 150 mg | – | Non disponibile (autorizzazione cancellata) |
+| 044500015 | PRALUENT, 1 penna preriempita SC 1 ml 75 mg | – | Non disponibile (autorizzazione cancellata) |
+| 044500080 | PRALUENT, 2 penne preriempite SC 150 mg 1 ml | – | Non disponibile (autorizzazione cancellata) |
+| 044500193 | PRALUENT, 1 penna preriempita SC 2 ml 300 mg (150 mg/ml) | – | Non disponibile (autorizzazione cancellata) |
+
+Titolare: Sanofi Winthrop Industrie. Tutte e 5 le autorizzazioni risultano cancellate, nessuna è attualmente valida.
+
+---
+
+## Considerazioni di sicurezza
+
+- **Interazioni**: l'interrogazione ha rilevato una sola voce, di natura farmacologica e non una vera interazione tra farmaci: il bersaglio di alirocumab, PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9). Alirocumab è stato approvato dalla FDA nel luglio 2015 come primo agente anti-PCSK9 per l'ipercolesterolemia familiare eterozigote o la malattia cardiovascolare aterosclerotica clinica non adeguatamente controllate con dieta e statine; l'approvazione EMA è seguita pochi mesi dopo.
+- **Sicurezza generale**: un'analisi aggregata dello studio ODYSSEY OUTCOMES (47.296 anni-paziente di osservazione controllata con placebo, PMID 38658193) ha descritto il profilo di sicurezza di alirocumab nella popolazione cardiovascolare.
+
+Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
+
+---
+
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
+
+**Motivazione:**
+Per l'ittiosi X-linked non esistono studi clinici né letteratura, e non è stato identificato un legame meccanicistico con l'inibizione di PCSK9: l'elevato punteggio TxGNN (99,43%) appare un artefatto del modello. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+
+**Per procedere sarebbe necessario:**
+- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Ottenere i dati sul meccanismo d'azione (MOA) da DrugBank
+- Verificare le ragioni della cancellazione delle autorizzazioni italiane e la disponibilità effettiva del prodotto
+- Valutare in alternativa candidati più plausibili, come la xantomatosi (rango 3), previa raccolta di evidenza clinica diretta
+- Stabilire preliminarmente un'ipotesi biologica per l'ittiosi X-linked prima di qualsiasi studio preclinico
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

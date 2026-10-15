@@ -2,7 +2,7 @@
 layout: default
 title: Primidone
 parent: Solo previsione del modello (L5)
-nav_order: 171
+nav_order: 362
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,65 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Primidone: Dall'Epilessia al Neoplasma del Nervo Trigemino
+# Primidone: Dall'epilessia al neoplasma del nervo trigemino
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Primidone è un farmaco anticonvulsivante della classe dei barbiturici con una lunga storia di utilizzo nei disturbi convulsivi e nella gestione del tremore essenziale.
-Il modello TxGNN prevede che potrebbe essere efficace per il **Neoplasma del Nervo Trigemino** con un punteggio di **99.99%**, tuttavia **0 studi clinici** e **0 pubblicazioni** supportano direttamente questa indicazione.
-L'analisi del dossier probatorio suggerisce fortemente che questa previsione riflette una perdita semantica nel grafo della conoscenza piuttosto che un vero segnale terapeutico.
+Primidone è un anticonvulsivante utilizzato originariamente nel trattamento dell'epilessia (crisi tonico-cloniche generalizzate, epilessia parziale, sindrome di Lennox-Gastaut). Il modello TxGNN prevede una possibile efficacia nel **neoplasma del nervo trigemino**, ma per questa indicazione **non risulta alcuno studio clinico né alcuna pubblicazione**: la previsione resta puramente computazionale.
 
----
+## Quadro generale
 
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Non registrata in Italia; uso farmacologico consolidato per epilessia e tremore essenziale |
-| Indicazione Prevista | Neoplasma del Nervo Trigemino |
-| Punteggio Previsione TxGNN | 99.99% |
-| Livello di Evidenza | L5 |
-| Stato Mercato Italia | Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Sospensione |
-
----
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Epilessia (indicazioni derivate dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Neoplasma del nervo trigemino |
+| Punteggio di previsione TxGNN | 99,99% |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 1 (cancellata) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
-Attualmente i dati dettagliati sul meccanismo d'azione non sono disponibili nel dossier probatorio. Basandosi sulla conoscenza farmacologica consolidata, Primidone è un farmaco anticonvulsivante della classe dei barbiturici che viene metabolizzato in vivo in fenobarbital e feniletilmalonamide (PEMA). Questi metaboliti attivi aumentano primariamente la neurotrasmissione inibitoria mediata dai recettori GABA-A e stabilizzano i canali del sodio voltaggio-dipendenti neuronali, sopprimendo così l'ipereccitabilità patologica. Questo doppio meccanismo sostiene l'efficacia consolidata di Primidone nelle crisi tonico-cloniche generalizzate, nelle crisi parziali e nel tremore essenziale.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Primidone è un antiepilettico il cui effetto è legato anche ai metaboliti attivi (fenobarbital e PEMA), e la sua efficacia nell'epilessia è consolidata.
 
-Il neoplasma del nervo trigemino è una lesione strutturale e proliferativa del nervo trigemino — una fisiopatologia fondamentalmente diversa dalla disregolazione elettrofisiologica affrontata da Primidone. La crescita tumorale è guidata da segnali di proliferazione e sopravvivenza cellulare incontrollati (ad es. recettori dei fattori di crescita, evasione dell'apoptosi), processi completamente al di fuori dell'ambito del potenziamento GABA-A o del blocco dei canali del sodio. Né Primidone né i suoi metaboliti posseggono proprietà citotossiche, antiproliferative o antiangiogeniche note.
+Per il neoplasma del nervo trigemino, tuttavia, i dati compilati **non sostengono un meccanismo biologicamente plausibile**: primidone non ha alcuna nota azione antineoplastica. Il punteggio molto elevato è probabilmente dovuto alla prossimità nella rete di conoscenza con nodi legati al nervo trigemino o alle crisi epilettiche, e non a un'evidenza biologica o clinica.
 
-Il punteggio di previsione TxGNN del 99.99% quasi certamente nasce da **perdita semantica**: nel grafo della conoscenza biomedica, il nodo "neoplasma del nervo trigemino" si trova adiacente a "nevralgia trigemino" — un'indicazione in cui gli anticonvulsivanti (in particolare carbamazepina) hanno un'efficacia ben documentata. Il modello confonde la prossimità strutturale nello spazio del grafo con la rilevanza terapeutica, producendo un punteggio elevato che non corrisponde a un vero segnale di trattamento. Questa previsione dovrebbe quindi essere trattata come un noto artefatto della modellazione basata su grafo piuttosto che come un'opportunità di riproposta del farmaco.
+Tra le altre previsioni di alto rango, quelle più coerenti con l'indicazione originale sono le epilessie riflesse (crisi audiogene, startle epilepsy, crisi indotte dalla lettura) e la nevralgia del trigemino (plausibile per estensione di classe degli anticonvulsivanti, ma senza evidenze specifiche per primidone). Esse vanno valutate separatamente e non modificano la valutazione del candidato principale.
 
----
+## Evidenze dagli studi clinici
 
-## Evidenza da Studi Clinici
+Attualmente non risultano studi clinici registrati correlati.
 
-Attualmente nessuno studio clinico correlato registrato.
+## Evidenze dalla letteratura
 
----
+Attualmente non è disponibile letteratura correlata per il neoplasma del nervo trigemino.
 
-## Evidenza dalla Letteratura
+## Informazioni sul mercato italiano
 
-Attualmente nessuna letteratura correlata disponibile.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 009340011 | MYSOLINE 30 cpr 250 mg (SIT Laboratorio Farmaceutico Srl) | Non indicata | Non indicata (autorizzazione cancellata) |
 
----
+## Considerazioni sulla sicurezza
 
-## Informazioni sul Mercato Italiano
+- **Controindicazioni (dal grafo di conoscenza, non dal foglietto illustrativo):** ansia e disturbi nevrotici, disturbo distimico, porfiria (ereditaria e del metabolismo delle porfirine), malattia renale, malattia epatica, malattia della colecisti, trombocitopenia, neutropenia (incluse le forme congenite), agranulocitosi, leucopenia, pancitopenia, anemia (anche macrocitica), abuso/dipendenza da sostanze, sindromi da apnea notturna e ipoventilazione centrale congenita.
+- **Interazioni farmacologiche:** sono state rilevate 100 interazioni. Tra quelle di gravità **maggiore** figurano **morfina** ed **eliglustat**. Interazioni di gravità moderata comprendono, tra le altre, doxiciclina, idrocortisone, desametasone, betametasone, triamcinolone, colecalciferolo, calcitriolo, pioglitazone, bupropione, aprepitant, metronidazolo, canagliflozin e saxagliptin; l'interazione con cimetidina è di gravità minore.
 
-Primidone non è attualmente autorizzato o commercializzato in Italia. Nessun record di licenza AIFA è disponibile.
+Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
 
----
+## Conclusione e prossimi passi
 
-## Considerazioni sulla Sicurezza
+**Decisione: Hold**
 
-Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+**Motivazione:**
+La previsione per il neoplasma del nervo trigemino si basa solo sul punteggio del modello (livello L5), senza studi clinici, senza letteratura e senza un meccanismo plausibile. Inoltre il prodotto in Italia risulta soltanto con autorizzazione cancellata.
 
----
-
-## Conclusioni e Prossimi Passi
-
-**Decisione: Sospensione**
-
-**Razionale:**
-Il neoplasma del nervo trigemino è una malattia proliferativa senza connessione meccanicistica con la farmacologia anticonvulsivante di Primidone; il punteggio TxGNN estremamente alto è quasi certamente un falso positivo causato dalla perdita semantica nel grafo della conoscenza tra "neoplasma del nervo trigemino" e il nodo adiacente "nevralgia trigemino", e non vi è alcuna evidenza da studi clinici o dalla letteratura a supporto di questa indicazione.
-
-**Per procedere è necessario quanto segue:**
-- Non perseguire il neoplasma del nervo trigemino come bersaglio di riproposta a meno che dati preclinici indipendenti non dimostrino direttamente un effetto di Primidone o dei suoi metaboliti sulla biologia del tumore del nervo trigemino
-- Reindirizzare l'analisi verso indicazioni meccanicisticamente difendibili all'interno dello stesso insieme di previsioni — **nevralgia trigemino** (posizione 9, L3 evidenza, S2 Procedere con Cautele), **crisi audiogeniche** (posizione 3, L4), **epilessia da spavento** (posizione 7, L4), e **crisi da lettura** (posizione 8, L4) sono candidati più promettenti
-- Recuperare i dati completi del meccanismo d'azione di Primidone dall'API DrugBank per colmare il gap di dati attuale (DG002) e consentire un corretto scoring del collegamento meccanicistico su tutte le indicazioni previste
-- Ottenere e analizzare il foglio illustrativo TFDA/AIFA (DG001) per completare il profilo di sicurezza prima di qualsiasi valutazione della fattibilità clinica
-
+**Per procedere, è necessario:**
+- Acquisire dati sul meccanismo d'azione e verificare se esista un razionale biologico per i tumori del nervo trigemino
+- Reperire dal sito AIFA il foglietto illustrativo con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
+- Valutare in via prioritaria le indicazioni alternative più plausibili (epilessie riflesse, nevralgia del trigemino) con evidenze specifiche per primidone
+- Chiarire la disponibilità commerciale attuale del farmaco in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

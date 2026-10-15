@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rizatriptan
-parent: Prove moderate (L3-L4)
-nav_order: 181
-evidence_level: L3
+parent: Solo previsione del modello (L5)
+nav_order: 387
+evidence_level: L5
 indication_count: 2
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,103 @@ Livello di evidenza: **L3** | Indicazioni previste: **2**
 
 </div>
 
-# RIZATRIPTANO: Dall'emicrania acuta all'emicrania con aura del tronco encefalico
+# Rizatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
 
-## Riassunto in una frase
+## Riepilogo in una frase
 
-Rizatriptano è un triptano di seconda generazione (agonista dei recettori 5-HT₁B/1D) consolidato come trattamento standard dell'emicrania acuta, ma storicamente evitato nei sottotipi di emicrania con sintomi del tronco encefalico per preoccupazioni vascolari teoriche.
-Il modello TxGNN prevede che possa essere efficace per l'**Emicrania con aura del tronco encefalico** (precedentemente nota come emicrania basilare),
-con **0 trial clinici registrati** e **19 pubblicazioni** attualmente disponibili per valutare questa direzione.
+Rizatriptan è un agonista dei recettori della serotonina 5-HT1B/1D (classe dei triptani), originariamente impiegato per il trattamento acuto dell'emicrania.
+Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura del tronco encefalico**, ma al momento non esistono **studi clinici registrati** e le **19 pubblicazioni** reperite riguardano l'emicrania in generale, non specificamente questo sottotipo. Il livello di evidenza è quindi molto limitato.
 
 ---
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione originale | Emicrania acuta (con o senza aura) — basato sulla letteratura pubblicata; farmaco non registrato in Italia |
-| Indicazione nuova prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di previsione TxGNN | 99.94% |
-| Livello di evidenza | L3 |
-| Stato del mercato italiano | Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con salvaguardie |
+|------|------|
+| Indicazione originale | Emicrania (emicrania con o senza aura), da base di conoscenza TxGNN; il testo delle indicazioni autorizzate AIFA non è disponibile |
+| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
+| Punteggio di previsione TxGNN | 99,94% |
+| Livello di evidenza | L4 (nessuno studio clinico; solo letteratura generale sull'emicrania e razionale farmacologico) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate, nessuna valida) |
+| Decisione raccomandata | Hold |
 
 ---
 
 ## Perché questa previsione è ragionevole?
 
-Attualmente, i dati strutturati sul MOA non sono disponibili dal set di dati normativo. Sulla base della letteratura pubblicata inclusa in questo pacchetto di prove, rizatriptano è un agonista orale del recettore della serotonina 5-HT₁B/1D della classe dei triptani. Agisce sui recettori localizzati sui vasi sanguigni intracranici e sui terminali nervosi trigeminali, inducendo contemporaneamente vasocostrizione cranica e inibendo il rilascio di neuropeptidi pro-infiammatori — in particolare CGRP (peptide correlato al gene della calcitonina) e sostanza P. Questo meccanismo combinato vascolare-neurogeno è la base della sua efficacia nell'emicrania acuta standard.
+I dati sul meccanismo d'azione non sono disponibili nei dati compilati per questo rapporto. Sulla base delle conoscenze generali, rizatriptan è un agonista 5-HT1B/1D: il suo effetto nell'emicrania è attribuito alla vasocostrizione dei vasi intracranici e all'inibizione del rilascio di neuropeptidi (tra cui CGRP) a livello trigeminovascolare.
 
-L'emicrania con aura del tronco encefalico (precedentemente "emicrania di tipo basilare") condivide la stessa fisiopatologia trigeminovascolare di base dell'emicrania standard. Criticamente, i sintomi dell'aura del tronco encefalico — vertigini, diplopia, atassia, disartria — sono ora compresi come originanti dalla depressione corticale propagante che si estende nel tronco encefalico, non dal vasospasmo dell'arteria basilare come precedentemente teorizzato. Questa reinterpretazione meccanicistica mina direttamente la controindicazione tradizionale contro l'uso dei triptani in questo sottotipo. Il targeting 5-HT₁B/1D del rizatriptano della neuroinfiammazione trigemale è quindi direttamente rilevante per la fisiopatologia dell'emicrania con aura del tronco encefalico.
+L'emicrania con aura del tronco encefalico (in passato "emicrania di tipo basilare") è un sottotipo di emicrania con aura, quindi condivide la fisiopatologia di base (attivazione trigeminovascolare, rilascio di CGRP, depressione corticale diffusa). Questo rende plausibile un effetto terapeutico.
 
-I dati clinici del mondo reale supportano questa posizione. Un'analisi retrospettiva del 2001 (PMID 11903526) ha specificamente esaminato l'uso di triptani — incluso rizatriptano — nell'emicrania basilare e nell'emicrania con aura prolungata, fornendo evidenze precoci ma direttamente rilevanti. Le società internazionali di cefalea hanno progressivamente rivalutato la controindicazione generalizzata, con alcune linee guida attuali che consentono l'uso cauto dei triptani in questa popolazione.
+Vi è però un'importante cautela: storicamente i triptani sono sconsigliati o controindicati nell'aura del tronco encefalico e nell'emicrania emiplegica, per il timore teorico di vasocostrizione nei pazienti con sintomi del circolo posteriore. Il punteggio elevato di TxGNN riflette probabilmente la stretta vicinanza ontologica con l'indicazione già approvata, più che un'evidenza indipendente per questo sottotipo.
 
----
-
-## Evidenza da trial clinici
-
-Attualmente non sono presenti trial clinici correlati registrati per rizatriptano nell'emicrania con aura del tronco encefalico.
+*Nota: il secondo candidato previsto, l'atrofoderma vermicolato (punteggio 99,19%), non ha alcun razionale meccanicistico plausibile, né studi né pubblicazioni, e resta in Hold (livello L5).*
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze da studi clinici
 
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|------------------|
-| [11903526](https://pubmed.ncbi.nlm.nih.gov/11903526/) | 2001 | Serie di casi retrospettiva | Headache | Riporta direttamente l'uso di triptani (incluso rizatriptano) nell'emicrania basilare e nell'emicrania con aura prolungata — evidenza più specifica della malattia disponibile |
-| [11687054](https://pubmed.ncbi.nlm.nih.gov/11687054/) | 2001 | Revisione sistematica | Cochrane Database Syst Rev | Valutazione basata sull'evidenza completa di rizatriptano in più RCT per l'emicrania acuta; valuta il bilancio benefici-danni |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Valutazione dell'evidenza / Linea guida | Headache | Revisione aggiornata dell'American Headache Society dell'evidenza per tutte le terapie farmacologiche dell'emicrania acuta, inclusa la classe dei triptani |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi | J Headache Pain | Confronta frovatriptano vs rizatriptano nell'emicrania con aura; valuta se i triptani sono efficaci durante la fase cefalea nell'emicrania di tipo aura |
-| [15209688](https://pubmed.ncbi.nlm.nih.gov/15209688/) | 2004 | RCT (Fase 3) | Headache | Studio controllato con placebo che valuta la somministrazione precoce di rizatriptano durante un attacco di emicrania; supporta l'approccio di trattamento rapido rilevante per le varianti di aura |
-| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Revisione | Frontiers in Neurology | Riassume le opzioni di trattamento per l'emicrania vestibolare, che si sovrappone clinicamente all'aura del tronco encefalico; discute l'uso di triptani in questa popolazione |
-| [32952420](https://pubmed.ncbi.nlm.nih.gov/32952420/) | 2020 | Studio osservazionale | Noro Psikiyatri Arsivi | Indaga i cambiamenti emodinamici cerebrali durante gli attacchi di emicrania e dopo il trattamento con rizatriptano; fornisce dati emodinamici meccanicistici |
-| [22211870](https://pubmed.ncbi.nlm.nih.gov/22211870/) | 2012 | Revisione | Headache | Esamina la terapia di salvataggio dell'emicrania acuta con triptani e DHE in ambienti di emergenza e cure urgenti |
-| [16336021](https://pubmed.ncbi.nlm.nih.gov/16336021/) | 2005 | Revisione farmacoeconomica | PharmacoEconomics | Conferma la farmacologia dell'agonista 5-HT₁B/1D del rizatriptano; documenta un sollievo dal dolore più rapido rispetto a diversi comparatori con tollerabilità simile |
-| [15613223](https://pubmed.ncbi.nlm.nih.gov/15613223/) | 1999 | Studio PK | Headache | Farmacocinetica di rizatriptano durante vs tra gli attacchi di emicrania; dimostra un assorbimento mantenuto nonostante la stasi gastrica — rilevante per la gestione dell'aura acuta |
+Attualmente non risultano studi clinici correlati registrati.
+
+---
+
+## Evidenze dalla letteratura
+
+Sono elencate le pubblicazioni più rilevanti (revisioni e studi randomizzati in primo piano). Nessuna è specifica per l'aura del tronco encefalico.
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [24867845](https://pubmed.ncbi.nlm.nih.gov/24867845/) | 2014 | RCT (analisi aggregata) | Neurol Sci | Efficacia di frovatriptan rispetto ad altri triptani per genere in tre studi italiani crossover in doppio cieco |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Revisione | Headache | Valutazione dell'American Headache Society sulle evidenze dei farmaci per il trattamento acuto dell'emicrania |
+| [11687054](https://pubmed.ncbi.nlm.nih.gov/11687054/) | 2001 | Revisione sistematica | Cochrane Database Syst Rev | Rizatriptan nell'emicrania acuta |
+| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analisi | J Headache Pain | Efficacia di frovatriptan vs rizatriptan, zolmitriptan e almotriptan nell'emicrania con aura |
+| [17718700](https://pubmed.ncbi.nlm.nih.gov/17718700/) | 2007 | Studio osservazionale | Eur J Neurol | Triptani nell'emicrania emiplegica: risposta media 6,9/10 su 76 soggetti; nessun ictus ischemico o infarto riferito |
+| [15209688](https://pubmed.ncbi.nlm.nih.gov/15209688/) | 2004 | Studio controllato con placebo | Headache | Trattamento precoce dell'emicrania con rizatriptan |
+| [23695053](https://pubmed.ncbi.nlm.nih.gov/23695053/) | 2013 | Revisione di studi randomizzati | Neurol Sci | Efficacia di frovatriptan e altri triptani in soggetti ipertesi e normotesi |
+| [24867847](https://pubmed.ncbi.nlm.nih.gov/24867847/) | 2014 | Revisione di studi randomizzati | Neurol Sci | Efficacia dei triptani in soggetti di peso normale e obesi |
+| [25538676](https://pubmed.ncbi.nlm.nih.gov/25538676/) | 2014 | Revisione | Front Neurol | Opzioni terapeutiche nell'emicrania vestibolare |
+| [27910087](https://pubmed.ncbi.nlm.nih.gov/27910087/) | 2017 | Revisione | Headache | Opzioni di trattamento dell'emicrania mestruale |
+
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni approvate non è disponibile. Sono riportate le prime 5.
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 034115105 | MAXALT RPD*3 orale liof 10 mg | Organon Italia Srl | Cancellata |
+| 034130106 | RIZALIV RPD*3 orale liof 10 mg | Neopharmed Gentili SpA | Cancellata |
+| 041302062 | RIZATRIPTAN*3 cpr orodisper 10 mg | Sandoz SpA | Cancellata |
+| 041302074 | RIZATRIPTAN*6 cpr orodispers 10 mg | Sandoz SpA | Cancellata |
+| 034115055 | MAXALT*6 cpr 10 mg | Organon Italia Srl | Cancellata |
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+I dati del foglio illustrativo AIFA (avvertenze e controindicazioni) non sono disponibili; si rimanda al foglio illustrativo.
+
+- **Controindicazioni desunte dal grafo di conoscenza** (non da testo di scheda tecnica): ipertensione, malattie epatiche e della colecisti, ictus e malattie cerebrovascolari, infarto miocardico, cardiopatia ischemica e coronaropatia, angina di Prinzmetal, malattia vascolare periferica, insufficienza renale cronica/terminale, emoglobinopatie ed emicrania emiplegica familiare o sporadica.
+- **Interazioni farmacologiche**: 80 interazioni identificate. Le principali di livello **maggiore** riguardano farmaci serotoninergici o con rischio di sindrome serotoninergica: lorcaserin, dolasetron, palonosetron, ondansetron, granisetron, dexfenfluramina, fenfluramina e sibutramina. Livello **moderato**: morfina (anche liposomiale).
+
+La presenza di controindicazioni cerebrovascolari e dell'emicrania emiplegica è particolarmente rilevante per l'aura del tronco encefalico.
 
 ---
 
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
-**Decisione: Procedere con salvaguardie**
+**Decisione: Hold**
 
-**Razionale:**
-Il punteggio di previsione TxGNN è eccezionalmente alto (99.94%) e la base meccanicistica — l'agonismo del recettore 5-HT₁B/1D che sopprime la neuroinfiammazione trigeminovascolare — è direttamente applicabile all'emicrania con aura del tronco encefalico data la comprensione aggiornata che i sintomi dell'aura del tronco encefalico derivano dalla depressione corticale propagante, non dal vasospasmo. Tuttavia, i dati dedicati dei trial clinici per questo sottotipo specifico sono completamente assenti, e la controindicazione storica sulla sicurezza giustifica il monitoraggio clinico strutturato prima dell'uso diffuso.
+**Motivazione:**
+La previsione è sostenuta solo dalla vicinanza al sottotipo di emicrania già trattato, senza studi clinici né letteratura specifica; inoltre i triptani sono tradizionalmente sconsigliati in questo sottotipo per timori vascolari. Tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Dati prospettivi da trial clinici** che valutano specificamente rizatriptano nell'emicrania con aura del tronco encefalico (attualmente non sono presenti trial registrati)
-- **Documentazione formale del MOA** da DrugBank per completare il dossier della base farmacologica
-- **Revisione normativa italiana** — recuperare il foglio illustrativo del produttore per estrarre gli avvertimenti approvati, le controindicazioni e qualsiasi guida esistente sull'aura del tronco encefalico
-- **Consultazione di esperti di neurologia** per riconciliare formalmente la controindicazione storica dei triptani nell'aura del tronco encefalico con le revisioni attuali delle linee guida diagnostiche e di trattamento dell'IHS
-- **Protocollo di monitoraggio della sicurezza** che definisca quali presentazioni di aura del tronco encefalico (ad esempio, debolezza motoria concomitante, atassia grave) dovrebbero rimanere escluse anche se l'uso cauto viene adottato
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Dati sul meccanismo d'azione da DrugBank
+- Studi o serie di casi specifici su emicrania con aura del tronco encefalico, con valutazione del rischio cerebrovascolare
+- Chiarimento dello stato regolatorio attuale (formulazioni disponibili in Italia, dato che tutte le licenze risultano cancellate)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

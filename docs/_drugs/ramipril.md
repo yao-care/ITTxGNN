@@ -2,7 +2,7 @@
 layout: default
 title: Ramipril
 parent: Solo previsione del modello (L5)
-nav_order: 176
+nav_order: 373
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,92 +29,107 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ramipril: Dall'Ipertensione all'Ipertensione Polmonare Dovuta a Malattia Polmonare e/o Ipossia
+# Ramipril: Dall'ipertensione e dall'ictus all'ipertensione polmonare da malattia polmonare e/o ipossia
 
-## Riassunto in una Frase
+## Sintesi in una frase
 
-Ramipril è un inibitore consolidato dell'enzima di conversione dell'angiotensina (inibitore ACE) utilizzato a livello internazionale per l'ipertensione, lo scompenso cardiaco e la renoprotezione nella nefropatia diabetica — sebbene attualmente non esista un'autorizzazione al commercio in Italia.
-Il modello TxGNN prevede che possa essere efficace per l'**ipertensione polmonare dovuta a malattia polmonare e/o ipossia** (PH Gruppo 3),
-ma le prove attualmente recuperate comprendono **0 studi clinici** e **20 pubblicazioni** — tutte revisioni generali sulla biologia dell'ipossia senza alcuno studio diretto di Ramipril in questa condizione specifica.
-
----
-
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originale | Ipertensione, scompenso cardiaco, renoprotezione (nessun dato regolatorio italiano disponibile) |
-| Nuova Indicazione Prevista | Ipertensione Polmonare Dovuta a Malattia Polmonare e/o Ipossia |
-| Punteggio di Previsione TxGNN | 99.93% |
-| Livello di Evidenza | L5 |
-| Stato di Commercializzazione in Italia | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
-| Decisione Consigliata | Hold |
+Il ramipril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), utilizzato per il trattamento dell'ipertensione e per la prevenzione di ictus e malattie cerebrovascolari.
+Il modello TxGNN prevede che possa essere efficace per l'**ipertensione polmonare da malattia polmonare e/o ipossia**,
+ma al momento **non risultano studi clinici registrati** e le evidenze si limitano a **studi preclinici** (un unico studio sul ratto pertinente al tema).
 
 ---
 
-## Perché questa Previsione è Ragionevole?
+## Panoramica rapida
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nel pacchetto di prove attuali. Basandosi sulla conoscenza farmacologica consolidata, Ramipril appartiene alla classe degli inibitori dell'ACE: blocca la conversione dell'angiotensina I in angiotensina II, riducendo così la resistenza vascolare sistemica, sopprimendo la secrezione di aldosterone e fornendo effetti cardioprotetivi e nefroprotettivi. La sua efficacia nell'ipertensione, nello scompenso cardiaco post-infartuale (studio HOPE, studio AIRE) e nella malattia renale cronica (studio REIN) è robustamente documentata nella letteratura globale.
-
-La base teorica che collega Ramipril all'ipertensione polmonare di Gruppo 3 è la seguente: l'ipossia cronica innesca una vasocostrizione polmonare prolungata, un processo parzialmente mediato dall'elevata attività dell'angiotensina II. L'inibizione dell'ACE potrebbe teoricamente attenuare questa vasocostrizione e rallentare il rimodellamento vascolare. Questa rappresenta un'ipotesi biologicamente credibile, ma che non è stata testata in studi clinici dedicati per questa indicazione.
-
-Criticamente, le 20 pubblicazioni recuperate sono revisioni generali sulla biologia dell'ipossia che coprono la neurodegenerazione, il deterioramento cognitivo, la segnalazione di HIF-1α, la biologia del cancro e la fisiologia dell'altitudine — **nessuna indaga direttamente Ramipril o inibitori dell'ACE nell'ipertensione polmonare dovuta a malattia polmonare**. Il modello TxGNN sembra aver effettuato questo abbinamento attraverso un nodo di concetto indiretto "ipossia" nel grafo della conoscenza, piuttosto che da prove dirette droga-malattia. L'attuale cura standard per la PH di Gruppo 3 si basa sul trattamento della malattia polmonare sottostante; le terapie mirate (inibitori della PDE5, antagonisti dei recettori dell'endotelina, analoghi delle prostacicline) vengono utilizzate con cautela e non sono di routine.
-
----
-
-## Evidenza degli Studi Clinici
-
-Attualmente nessuno studio clinico registrato correlato per Ramipril nell'ipertensione polmonare dovuta a malattia polmonare e/o ipossia.
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Ipertensione e malattie cerebrovascolari/ictus (dal grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipertensione polmonare da malattia polmonare e/o ipossia |
+| Punteggio di predizione TxGNN | 99,93% |
+| Livello di evidenza | L4 (solo dati preclinici) |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Decisione raccomandata | Hold |
 
 ---
 
-## Evidenza dalla Letteratura
+## Perché questa predizione è plausibile?
 
-Tutte le 20 pubblicazioni recuperate sono revisioni generali sui meccanismi dell'ipossia. Nessuna valuta Ramipril terapeuticamente in questa malattia. Gli elementi più rilevanti dal punto di vista contestuale sono elencati di seguito come riferimento di background:
+Il ramipril inibisce l'ACE e riduce la produzione di angiotensina II, un potente vasocostrittore che contribuisce anche al rimodellamento vascolare. Nella circolazione polmonare l'ipossia cronica favorisce vasocostrizione e rimodellamento dei vasi, per cui il blocco del sistema renina-angiotensina è biologicamente coerente con l'ipertensione polmonare associata a ipossia. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione; la spiegazione qui riportata si basa sulla classe farmacologica (inibitori dell'ACE).
 
-| PMID | Anno | Tipo | Rivista | Risultati Principali |
-|------|------|------|---------|-------------|
-| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respiratory Care Clinics of North America | Revisione fondamentale dei meccanismi di ipossemia: squilibrio V/Q, ipoventilazione, shunt — background rilevante per la fisiopatologia della PH di Gruppo 3 |
-| [9446167](https://pubmed.ncbi.nlm.nih.gov/9446167/) | 1997 | Review | Revue Medicale de Liege | Sindrome epatopolmonare — coinvolgimento vascolare polmonare indotto dall'ipossia come processo secondario |
-| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Review | Rev Med Inst Mex Seguro Soc | Ipossia ipobarica in quota; meccanismi di acclimatazione fisiologica |
-| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | Ipossia e invecchiamento cerebrale; effetti neuroprotettivi vs. neurodegenerativi |
-| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Meccanismi clinici e molecolari del deterioramento cognitivo sotto ipossia acuta/cronica |
-| [31961750](https://pubmed.ncbi.nlm.nih.gov/31961750/) | 2020 | Review | Annual Review of Immunology | Via HIF nell'immunità innata e nell'ipossia infiammatoria |
-| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | Journal of Cellular Biochemistry | Controllo biologico mediato dall'ipossia: metabolismo, omeostasi del pH, angiogenesi |
-| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Modifica terapeutica dell'ipossia tumorale; resistenza radiante |
-| [28219680](https://pubmed.ncbi.nlm.nih.gov/28219680/) | 2017 | Review | Experimental Cell Research | Meccanismi di repressione trascrizionale mediata da HIF sotto ipossia |
-| [24557798](https://pubmed.ncbi.nlm.nih.gov/24557798/) | 2014 | Review | Journal of Applied Physiology | Panoramica della ricerca traslazionale sull'ipossia |
+L'indicazione originale (ipertensione sistemica e malattie cerebrovascolari) e quella prevista condividono un coinvolgimento del tono e della struttura vascolare. L'unico studio direttamente pertinente (PMID 9200213, ratto, 1996) ha mostrato che il ramipril somministrato durante 3 settimane di ipossia ha ridotto la pressione di perfusione basale e attenuato gli effetti dell'ipossia cronica sui vasi polmonari. È però un modello animale: non vi sono dati umani.
 
-> ⚠️ **Nota**: Nessuna delle pubblicazioni di cui sopra studia direttamente Ramipril nell'ipertensione polmonare. Questi sono riferimenti di background recuperati tramite sovrapposizione di parole chiave con il concetto di malattia. L'evidenza diretta droga-malattia è assente.
+Gli altri lavori recuperati riguardano contesti cardiaci, renali, di necrosi cerebrale da radiazioni o di endometriosi, e non affrontano direttamente l'ipertensione polmonare. Il punteggio elevato di TxGNN è una predizione computazionale e non una prova di efficacia.
 
 ---
 
-## Informazioni sul Mercato in Italia
+## Evidenze da studi clinici
 
-Ramipril non ha autorizzazioni al commercio attuali in Italia. Nessun dato regolatorio a livello di prodotto è disponibile.
-
----
-
-## Considerazioni sulla Sicurezza
-
-Si rimanda al foglio illustrativo per le informazioni sulla sicurezza.
+Attualmente non risultano studi clinici correlati registrati.
 
 ---
 
-## Conclusione e Prossimi Passi
+## Evidenze dalla letteratura
+
+Sono riportate le pubblicazioni più rilevanti, in ordine di pertinenza. Tutte sono precliniche o non direttamente correlate; nessuna è uno studio randomizzato controllato.
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [9200213](https://pubmed.ncbi.nlm.nih.gov/9200213/) | 1996 | Preclinico (animale) | Physiological Research | Nel ratto, il ramipril durante ipossia cronica ha attenuato gli effetti dell'ipossia sui vasi polmonari, con pressione di perfusione basale più bassa |
+| [12069940](https://pubmed.ncbi.nlm.nih.gov/12069940/) | 2002 | Preclinico (ratto transgenico) | Am J Physiol Regul Integr Comp Physiol | Il sistema renina-angiotensina sembra proteggere la funzione contrattile cardiaca dal danno da ipossia-riossigenazione |
+| [15671045](https://pubmed.ncbi.nlm.nih.gov/15671045/) | 2005 | Preclinico/tessuto umano | European Heart Journal | Espressione di ACE2 aumentata dopo infarto miocardico nel ratto e nel cuore umano |
+| [19380417](https://pubmed.ncbi.nlm.nih.gov/19380417/) | 2009 | Preclinico | Cardiovascular Research | L'inibizione dell'ACE favorisce le cellule progenitrici endoteliali e la neoangiogenesi nel sovraccarico pressorio cardiaco |
+| [24907870](https://pubmed.ncbi.nlm.nih.gov/24907870/) | 2014 | Preclinico (animale) | Basic Research in Cardiology | L'attivazione della guanilato ciclasi solubile migliora il rimodellamento cardiaco dopo infarto, con vantaggio rispetto all'inibizione dell'ACE |
+| [18464162](https://pubmed.ncbi.nlm.nih.gov/18464162/) | 2008 | Preclinico (animale, renale) | Microcirculation | Ramipril o valsartan riducono la perdita di capillari peritubulari |
+| [32822951](https://pubmed.ncbi.nlm.nih.gov/32822951/) | 2020 | Preclinico (sperimentale) | World Neurosurgery | Confronto tra ramipril e bevacizumab nella necrosi cerebrale da radiazioni (contesto non correlato) |
+
+---
+
+## Informazioni sul mercato italiano
+
+Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano 5 delle autorizzazioni principali.
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|---------|------|------|-----------|
+| 027161064 | TRIATEC 14 cpr div 5 mg | SANOFI Srl | Cancellata |
+| 037577208 | RAMIPRIL 14 cpr 5 mg | MYLAN SpA | Cancellata |
+| 037692035 | RAMIPRIL 14 cpr div 5 mg | ZENTIVA ITALIA Srl | Cancellata |
+| 038214021 | HERZATEC 14 cpr 5 mg | EPIFARMA Srl | Cancellata |
+| 038355020 | TENSIRAM 14 cpr div 5 mg | I.B.N. SAVIO Srl | Cancellata |
+
+---
+
+## Considerazioni sulla sicurezza
+
+I dati compilati non includono avvertenze e controindicazioni dal foglio illustrativo AIFA. Dal grafo di conoscenza TxGNN (non dal testo dell'etichetta) emergono le seguenti condizioni associate a controindicazione:
+
+- **Renali e vascolari**: nefropatia, ostruzione dell'arteria renale, disturbi ipotensivi
+- **Epatobiliari**: epatopatia, malattia della colecisti
+- **Immunitarie e del connettivo**: lupus eritematoso sistemico (anche pediatrico), connettivopatie, sclerodermia (anche localizzata), sclerosi sistemica, malattie di ossa e cartilagini
+- **Ematologiche**: neutropenia, agranulocitosi
+- **Altre**: angioedema ereditario (anche con deficit di C1-inibitore), piureter
+
+**Interazioni farmacologiche** (100 interazioni totali; esempi principali):
+- **Maggiori**: citrato di potassio, bicarbonato di potassio (rischio di iperkaliemia)
+- **Moderate**: corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), antidiabetici (metformina, glimepiride, clorpropamide, alogliptin, inibitori SGLT2 come dapagliflozin, empagliflozin, canagliflozin), acido acetilsalicilico, morfina, bupropione, dronabinolo
+
+Per informazioni complete sulla sicurezza fare riferimento al foglio illustrativo.
+
+---
+
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
-**Fondamento:**
-Nonostante un elevato punteggio di previsione TxGNN (99.93%), il livello di evidenza è L5 — previsione del modello solamente, senza studi clinici e senza letteratura direttamente pertinente che colleghi Ramipril all'ipertensione polmonare di Gruppo 3. La previsione sembra derivare da un abbinamento indiretto a livello di concetto nel grafo della conoscenza, piuttosto che da prove meccanicistiche o cliniche specifiche di questa indicazione.
+**Motivazione:**
+La predizione si basa su un punteggio computazionale molto alto e su un solo studio preclinico sul ratto (1996), senza alcuno studio clinico sull'uomo. Inoltre tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza da etichetta non sono disponibili. Le altre indicazioni previste (ad es. ictus, ipertensione maligna) sono vicine a quelle già note, o con prove miste o assenti, e non cambiano la valutazione.
 
-**Per procedere, quanto segue è necessario:**
-- Una ricerca mirata della letteratura per "ramipril AND pulmonary hypertension" o "ACE inhibitor AND Group 3 pulmonary hypertension" per confermare il vero gap di evidenza
-- Validazione meccanicistica del collegamento RAAS-vasocostrizione ipossia nella PH di Gruppo 3 specificamente (distinto dall'ipertensione arteriosa polmonare di Gruppo 1, dove gli inibitori dell'ACE possono peggiorare gli esiti)
-- Recupero dell'informazione completa su Ramipril (meccanismo d'azione, avvertenze, controindicazioni, interazioni farmacologiche) dai database AIFA o EMA per consentire una corretta valutazione della sicurezza
-- Prioritizzazione di candidati meglio classificati dallo stesso pacchetto di prove con fondamento meccanicistico più forte: **occlusione dell'arteria cerebrale** (Rank 10, L3, Procedere con Cautele — studio umano diretto su Ramipril presso PMID 8797135) e **malattia renale ipertensiva maligna** (Rank 4, L4, Domanda di Ricerca — supportata dallo studio REIN come evidenza laterale) sono entrambi ipotesi di riutilizzo più praticabili
-
+**Per procedere sono necessari:**
+- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
+- Dati sul meccanismo d'azione da DrugBank
+- Conferma della posizione regolatoria (autorizzazioni attuali o nuove) per un eventuale uso in Italia
+- Studi preclinici aggiuntivi e confronto con terapie standard per l'ipertensione polmonare, prima di valutare uno studio clinico esplorativo
+- Un piano di monitoraggio della sicurezza per le popolazioni con le condizioni controindicate elencate (in particolare funzione renale e potassiemia)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

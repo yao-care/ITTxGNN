@@ -2,7 +2,7 @@
 layout: default
 title: Desloratadina
 parent: Solo previsione del modello (L5)
-nav_order: 71
+nav_order: 141
 evidence_level: L5
 indication_count: 0
 ---

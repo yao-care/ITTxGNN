@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ruxolitinib
-parent: Prove elevate (L1-L2)
-nav_order: 184
-evidence_level: L2
+parent: Solo previsione del modello (L5)
+nav_order: 394
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ruxolitinib
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,118 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Ruxolitinib: dalle neoplasie mieloproliferative alla sindrome emofagocitica associata all'infezione
+# Ruxolitinib: Dalle neoplasie mieloproliferative alla sindrome emofagocitica associata a infezione
 
-## Riassunto in una frase
+## Sintesi in una frase
 
-Ruxolitinib è un inibitore selettivo JAK1/2 consolidato nel trattamento delle neoplasie mieloproliferative, che agisce bloccando la segnalazione JAK-STAT aberrante che guida la proliferazione cellulare anormale e l'infiammazione sistemica.
-Il modello TxGNN prevede che potrebbe essere efficace per la sindrome emofagocitica associata all'infezione (HPS/HLH) — un disturbo di tempesta citochinica pericoloso per la vita scatenato da patogeni virali o batterici —
-con 2 studi clinici registrati e 20 pubblicazioni che attualmente supportano questa direzione, l'evidenza più forte tra le 10 indicazioni previste valutate in questo pacchetto di evidenza.
-
-> **Ambito del pacchetto di evidenza:** TxGNN ha identificato 10 candidati di indicazioni di riposizionamento per ruxolitinib. Sette sono tumori rari dello spettro PEComa/TSC (Ranghi 1–4, 7) o tumore rabdoide (Rango 6) con sola evidenza L5. Il liposarcoma (Rango 5) ha evidenza meccanistica L4. L'HLH associato a malignità (Rango 9) ha evidenza L3. L'HPS associato a infezione (Rango 10) è l'unica indicazione che raggiunge L2 con una raccomandazione attuabile.
+Il ruxolitinib è un inibitore di JAK1/2 impiegato originariamente nelle neoplasie mieloproliferative (policitemia vera, mielofibrosi primaria e condizioni correlate). Il modello TxGNN lo propone per diverse nuove indicazioni; la più solida sul piano delle evidenze è la **sindrome emofagocitica associata a infezione** (emofagocitosi linfoistiocitica, HLH), sostenuta da **19 pubblicazioni** e nessuno studio clinico registrato. La prima indicazione per punteggio TxGNN è invece il **tumore a cellule epitelioidi perivascolari (PEComa) del corpo uterino**, privo di qualsiasi evidenza.
 
 ---
 
-## Panoramica rapida
+## Quadro generale
+
+Nota metodologica: il modello ordina le predizioni in base al punteggio TxGNN. La prima in graduatoria (PEComa uterino) non ha alcuna evidenza a supporto, quindi la tabella riporta anche la predizione con le evidenze più ampie (HLH associata a infezione), che è quella analizzata in dettaglio nelle sezioni seguenti.
 
 | Voce | Contenuto |
-|------|---------|
-| Indicazione originale | Nessuna indicazione approvata registrata in Taiwan |
-| Nuova indicazione prevista | Sindrome emofagocitica associata all'infezione |
-| Punteggio di previsione TxGNN | 99.32% |
-| Livello di evidenza | L2 |
-| Stato del mercato taiwanese | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Procedere con salvaguardie |
+|------|------|
+| Indicazione originale | Neoplasie mieloproliferative (policitemia vera, mielofibrosi primaria, mielofibrosi); il testo delle indicazioni autorizzate AIFA non è disponibile |
+| Nuova indicazione prevista (prima in graduatoria) | Tumore a cellule epitelioidi perivascolari del corpo uterino |
+| Punteggio TxGNN (prima in graduatoria) | 99,73% |
+| Livello di evidenza (prima in graduatoria) | L5 |
+| Nuova indicazione con più evidenze | Sindrome emofagocitica associata a infezione (punteggio TxGNN 99,32%) |
+| Livello di evidenza (HLH associata a infezione) | L3 |
+| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Decisione raccomandata | Hold per la prima in graduatoria; Proceed with Guardrails (come domanda di ricerca) per HLH associata a infezione |
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-I dati dettagliati del meccanismo d'azione non sono disponibili in questo pacchetto di evidenza. Basandosi su note analitiche incorporate in tutta la logica di riposizionamento, ruxolitinib è un potente inibitore JAK1/2 che sopprime simultaneamente molteplici assi citochinici pro-infiammatori — più criticamente IFN-γ (via JAK1/2–STAT1), IL-6 (via JAK1–STAT3) e IL-2/IL-15 (via JAK1/3–STAT5). Questo posiziona ruxolitinib come un modulatore di tempesta citochinica ampio piuttosto che un bloccante di un singolo percorso.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Sulla base delle conoscenze note, il ruxolitinib è un inibitore di JAK1/2, la sua efficacia nelle neoplasie mieloproliferative è dimostrata e, sul piano meccanicistico, potrebbe essere applicabile a condizioni guidate da segnali citochinici.
 
-L'HPS/HLH associato all'infezione si sviluppa quando i patogeni — predominantemente il virus di Epstein-Barr, l'adenovirus e alcuni batteri — dirottano l'attivazione delle cellule T e dei macrofagi, scatenando una cascata citochinica catastrofica. IFN-γ è il driver principale: attiva i macrofagi attraverso JAK1/2–STAT1, che a loro volta producono più IFN-γ e IL-6 in un ciclo di auto-amplificazione, portando a febbre, pancitopenia, iperferritinemia, epatosplenomegalia e insufficienza multiorgano. L'asse JAK1/2–STAT è il percorso di segnalazione finale condiviso per quasi ogni citochina implicata in questo processo. Ruxolitinib lo blocca alla fonte.
+**HLH associata a infezione.** L'HLH è uno stato iperinfiammatorio guidato da citochine, in particolare l'interferone-gamma, che agisce attraverso la via JAK/STAT. Il blocco di JAK1/2 attenua questi segnali. Il razionale è supportato da due studi meccanicistici: uno in modelli murini di HLH (PMID 31015190) e uno che mostra come l'inibizione di JAK/STAT sensibilizzi i linfociti T CD8 all'apoptosi indotta dal desametasone (PMID 32530039).
 
-Questa logica meccanistica è stata validata in molteplici livelli di evidenza. Gli studi preclinici nei modelli murini di HLH carenti di perforina (PMID 31015190) hanno confermato che ruxolitinib riduce l'attivazione delle cellule T, attenua la segnalazione a valle di IFN-γ e diminuisce l'immunopatologia. Gli studi di combinazione nello stesso modello hanno ulteriormente mostrato sinergia con la neutralizzazione di IFN-γ (PMID 37228616). Clinicamente, questi risultati si traducono in risposte osservate in tutta la HLH-EBV pediatrica, l'HPS post-trapianto associato all'adenovirus, l'HPS trigger-panniculite, l'HPS associato all'infezione in gravidanza e l'HLH secondaria associata all'AIDS — coprendo diversi tipi di trigger e popolazioni di pazienti con logica meccanistica coerente.
+**Liposarcoma.** Due studi preclinici indicano che la via JAK-STAT controlla le proprietà staminali tumorali e la chemioresistenza nel liposarcoma mixoide. Il razionale è plausibile ma indiretto, e non è confermato che il ruxolitinib sia stato testato.
 
----
-
-## Evidenza da studi clinici
-
-| Numero dello studio | Fase | Stato | Arruolamento | Risultati chiave |
-|---------|------|------|------|---------|
-| [NCT07424222](https://clinicaltrials.gov/study/NCT07424222) | Fase 1 | Non ancora in arruolamento | 16 | Studio pilota di ruxolitinib per la sindrome simil-HLH associata a cellule effettrici immunitarie (IEC-HS) che si verifica dopo la terapia CAR-T; valuta la sicurezza, l'efficacia, la durata ottimale del trattamento, i biomarcatori di risposta immunologica e la dinamica di espansione CAR-T post-ruxolitinib |
-| [NCT04424056](https://clinicaltrials.gov/study/NCT04424056) | Fase 3 | Unknown | 216 | Studio randomizzato in aperto di anakinra e/o tocilizumab ± ruxolitinib nell'iperinfiammazione associata a COVID-19 grave (Stadio 2b/3, CRP >200 mg/L, ARDS); testa direttamente la combinazione di ruxolitinib in un'impostazione di tempesta citochinica — lo stato di pubblicazione finale richiede conferma |
+**PEComa, linfangioleiomiomatosi e altre.** Queste patologie sono tipicamente guidate dall'attivazione della via mTOR (TSC1/TSC2). Nei dati forniti non è documentato un razionale per l'inibizione di JAK/STAT: la predizione è puramente computazionale.
 
 ---
 
-## Evidenza dalla letteratura
+## Evidenze da studi clinici
 
-| PMID | Anno | Tipo | Rivista | Risultati chiave |
-|------|------|------|---------|---------|
-| [34605776](https://pubmed.ncbi.nlm.nih.gov/34605776/) | 2022 | Linee guida di consenso | Critical Care Medicine | Linee guida di consenso multidisciplinari internazionali per il riconoscimento dell'HLH, diagnosi, cure di supporto e trattamento in ICU; stabilisce il quadro diagnostico e gestionale all'interno del quale ruxolitinib viene valutato |
-| [35344583](https://pubmed.ncbi.nlm.nih.gov/35344583/) | 2022 | Coorte prospettica | Blood | Ruxolitinib come terapia di prima linea per l'HLH pediatrico con stratificazione del trattamento basata sulla risposta (ChiCTR2000031702, n=50+); mostra la fattibilità di prima linea di ruxolitinib e supporta l'inibizione precoce JAK per prevenire l'escalation della malattia |
-| [40665481](https://pubmed.ncbi.nlm.nih.gov/40665481/) | 2025 | Coorte retrospettiva | British Journal of Haematology | Maggior confronto pubblicato di regime basato su RUX (n=53) vs chemioterapia HLH-94 adattata (n=42) in EBV-HLH pediatrico; fornisce dati di efficacia e sicurezza comparativi diretti per ruxolitinib vs standard di cura |
-| [37787838](https://pubmed.ncbi.nlm.nih.gov/37787838/) | 2023 | Coorte retrospettiva (n=12) | Annals of Hematology | Sintilimab combinato con ruxolitinib come terapia compassionevole per 12 pazienti adulti con EBV-HLH; dimostra strategia di immunoterapia mirata combinata per l'HLH adulto refrattario con sopravvivenza globale insoddisfacente con terapia convenzionale |
-| [37702780](https://pubmed.ncbi.nlm.nih.gov/37702780/) | 2023 | Revisione | Innere Medizin | Revisione della gestione dell'HLH nei pazienti in ICU incluso ruxolitinib e emapalumab; discute l'HLH associato a CAR-T come indicazione emergente e inquadra l'inibizione JAK all'interno di algoritmi di trattamento in evoluzione |
-| [31943120](https://pubmed.ncbi.nlm.nih.gov/31943120/) | 2020 | Revisione | QJM | Revisione completa della diagnosi, trigger e trattamento dell'HLH adulto; caratterizza l'alto onere di mortalità e documenta le limitazioni di HLH-94 nelle popolazioni adulte |
-| [38691058](https://pubmed.ncbi.nlm.nih.gov/38691058/) | 2024 | Serie di casi | Journal of Pediatric Hematology/Oncology | Emapalumab + ruxolitinib + desametasone per EBV-HLH con danno multiorgano e infezione grave; illustra un approccio di combinazione multi-target per i casi refrattari sia a HLH-94 che a monoterapia con ruxolitinib |
-| [38984023](https://pubmed.ncbi.nlm.nih.gov/38984023/) | 2024 | Caso clinico | Translational Pediatrics | Ruxolitinib come terapia di salvataggio per l'HPS associato all'adenovirus che si verifica dopo il trapianto allogenico aploidentico HSCT; risultato positivo in uno scenario raro di HLH post-trapianto con opzioni di trattamento limitate |
-| [39620213](https://pubmed.ncbi.nlm.nih.gov/39620213/) | 2024 | Caso clinico | Frontiers in Immunology | HPS associato all'infezione durante la gravidanza trattato con induzione di ruxolitinib seguito dal protocollo HLH-94; notevole evidenza che ruxolitinib può essere utilizzato in pazienti ad alto rischio dove la chemioterapia citotossica comporta un rischio aggiuntivo |
-| [36533357](https://pubmed.ncbi.nlm.nih.gov/36533357/) | 2022 | Caso clinico | Journal of Peking University Health Sciences | Due casi di HPS associato a panniculite efficacemente risolti con ruxolitinib; dimostra efficacia in un trigger HPS atipico con sovrapposizione autoimmune-infiammatoria |
+Al momento non risulta alcuno studio clinico registrato correlato.
 
 ---
 
-## Informazioni sul mercato taiwanese
+## Evidenze dalla letteratura
 
-Ruxolitinib attualmente non ha autorizzazioni di commercializzazione in Taiwan. Nessun prodotto approvato, indicazione o forma di dosaggio è registrato presso la Taiwan FDA.
+Le evidenze si riferiscono a **HLH associata a infezione** (selezione delle pubblicazioni più rilevanti). Il tipo di studio è stato desunto dai titoli e va verificato sui testi completi.
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [35344583](https://pubmed.ncbi.nlm.nih.gov/35344583/) | 2022 | Studio clinico (trattamento stratificato, pediatrico) | Blood | Ruxolitinib come farmaco di prima linea nell'HLH pediatrica, con trattamento stratificato in base alla risposta precoce |
+| [33523540](https://pubmed.ncbi.nlm.nih.gov/33523540/) | 2021 | Serie di casi | Eur J Haematol | Ruxolitinib come terapia aggiuntiva nell'HLH secondaria |
+| [40665481](https://pubmed.ncbi.nlm.nih.gov/40665481/) | 2025 | Studio retrospettivo | Br J Haematol | Efficacia e sicurezza di un regime a base di ruxolitinib (n=53) vs HLH-94 modificato (n=42) nell'HLH pediatrica da EBV |
+| [31879790](https://pubmed.ncbi.nlm.nih.gov/31879790/) | 2020 | Studio clinico | Ann Hematol | Ruxolitinib per GVHD acuta steroido-refrattaria in 12 pazienti con EBV-HLH sottoposti ad allo-HSCT |
+| [37787838](https://pubmed.ncbi.nlm.nih.gov/37787838/) | 2023 | Analisi di uso compassionevole | Ann Hematol | Sintilimab più ruxolitinib in 12 adulti con HLH associata a EBV |
+| [41934358](https://pubmed.ncbi.nlm.nih.gov/41934358/) | 2026 | Indagine retrospettiva nazionale | Pediatr Hematol Oncol | Uso di ruxolitinib in 17 bambini giapponesi con HLH |
+| [38691058](https://pubmed.ncbi.nlm.nih.gov/38691058/) | 2024 | Caso clinico | J Pediatr Hematol Oncol | Emapalumab con ruxolitinib e desametasone in EBV-HLH con danno multiorgano |
+| [36263041](https://pubmed.ncbi.nlm.nih.gov/36263041/) | 2022 | Caso clinico | Front Immunol | Ruxolitinib di prima linea per HLH secondaria in pazienti con AIDS |
+| [31015190](https://pubmed.ncbi.nlm.nih.gov/31015190/) | 2019 | Preclinico (modelli murini) | Blood | Meccanismi d'azione del ruxolitinib nei modelli murini di HLH |
+| [32530039](https://pubmed.ncbi.nlm.nih.gov/32530039/) | 2020 | Preclinico/meccanicistico | Blood | L'inibizione di JAK/STAT sensibilizza i linfociti T CD8 all'apoptosi indotta dal desametasone |
+
+Per il liposarcoma sono disponibili due studi preclinici (PMID [35186752](https://pubmed.ncbi.nlm.nih.gov/35186752/), 2022, e [30650179](https://pubmed.ncbi.nlm.nih.gov/30650179/), 2019) sul ruolo della via JAK-STAT nel liposarcoma mixoide.
+
+---
+
+## Informazioni sul mercato italiano
+
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 050666027 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione cancellata |
+| 050666015 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione cancellata |
+
+---
+
+## Citotossicità
+
+| Voce | Contenuto |
+|------|------|
+| Classificazione di citotossicità | Terapia mirata (inibitore di JAK1/2), non citotossico convenzionale |
+| Rischio di mielosoppressione | Si rimanda alle avvertenze e precauzioni del foglietto illustrativo |
+| Classificazione emetogena | Si rimanda alle avvertenze e precauzioni del foglietto illustrativo |
+| Parametri da monitorare | Emocromo completo; funzionalità epatica e renale (si rimanda al foglietto illustrativo) |
+| Protezione nella manipolazione | Si rimanda alle avvertenze e precauzioni del foglietto illustrativo |
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-Si prega di fare riferimento al foglietto illustrativo per le informazioni sulla sicurezza.
+**Interazioni farmacologiche** (100 interazioni totali rilevate; di seguito le principali):
 
-> ⚠️ **Avviso di lacuna di dati:** I dati del foglietto illustrativo taiwanese avvertenze, controindicazioni e interazioni farmacologiche non erano disponibili in questo pacchetto di evidenza. Questi sono classificati come una lacuna di dati bloccante (DG001) che deve essere risolta prima che lo screening formale della sicurezza (Fase S1) possa procedere.
+- **Maggiori**: claritromicina, cobicistat, deferasirox, deferiprone, ibritumomab tiuxetan, tositumomab, tositumomab (I-131), samario (153Sm) lexidronam
+- **Moderate**: desametasone, rosuvastatina, dexfenfluramina, fenfluramina, sibutramina, troglitazone, palifermina, cloruro di stronzio Sr-89
+- **Minori**: aprepitant, cimetidina, miconazolo, clotrimazolo
+
+Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 
 ---
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
-**Decisione: Procedere con salvaguardie**
+**Decisione: Hold per la predizione con punteggio più alto (PEComa uterino); Proceed with Guardrails, come domanda di ricerca, per l'HLH associata a infezione**
 
-**Razionale:**
-L'inibizione JAK1/2 di ruxolitinib colpisce direttamente e meccanicisticamente la cascata di tempesta citochinica guidata da IFN-γ che definisce l'HPS/HLH associato all'infezione. La base di evidenze cliniche in crescita — che va da una coorte prospettica in Blood, alla più grande coorte comparativa pediatrica fino ad oggi in British Journal of Haematology, a molteplici coorti retrospettive, a uno studio RCT di Fase 3 in corso (NCT04424056, n=216) e a uno studio di Fase 1 imminente nell'HLH associato a CAR-T (NCT07424222) — stabilisce una coerenza meccanismo-clinica sufficientemente forte per giustificare un avanzamento cauto sotto salvaguardie strutturate.
+**Motivazione:**
+- La predizione di punteggio più alto (PEComa uterino, L5) è priva di studi e di razionale meccanicistico, e la patologia è guidata da mTOR. Per l'HLH associata a infezione esistono invece evidenze cliniche precoci (serie di casi, studi retrospettivi e uno studio pediatrico stratificato), accompagnate da un solido razionale meccanicistico (livello L3). Si tratta tuttavia di studi non randomizzati.
 
-**Per procedere, è necessario quanto segue:**
-
-- **Confermare i risultati finali di NCT04424056** — lo stato di Fase 3 è elencato come "Unknown"; se i risultati sono positivi, il livello di evidenza si aggiorna da L2 a L1, il che rafforza significativamente il caso di riposizionamento
-- **Risolvere la lacuna di dati del foglietto illustrativo taiwanese (DG001)** — ottenere e analizzare il PDF 仿單 dal sito web di TFDA per completare lo screening della sicurezza e abilitare la valutazione formale della Fase S1
-- **Ottenere dati MOA completi da DrugBank (DG002)** — richiesto per completare l'analisi del collegamento meccanicistico e documentare formalmente il profilo di inibizione JAK1/2
-- **Perseguire l'importazione taiwanese o la registrazione per uso compassionevole** — dato zero autorizzazioni attuali, un percorso normativo deve essere identificato prima che la disponibilità clinica possa essere stabilita
-- **Stratificare l'evidenza per tipo di trigger HPS** — EBV-HLH ha i dati più numerosi; sviluppare un piano di analisi di sottogruppo specifico per Taiwan per identificare la popolazione di pazienti più responsiva
-- **Progettare uno studio pilota prospettico o un registro dei pazienti** — per generare dati di sicurezza ed efficacia specifici per la popolazione taiwanese nei casi di HPS associato all'infezione
-
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
+- Verifica dei disegni di studio sui testi completi delle pubblicazioni
+- Studi clinici prospettivi o randomizzati nell'HLH
+- Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibilità della via di somministrazione sistemica
+- Per liposarcoma e altre predizioni: studi che testino direttamente il ruxolitinib
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

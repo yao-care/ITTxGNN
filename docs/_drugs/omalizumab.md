@@ -2,7 +2,7 @@
 layout: default
 title: Omalizumab
 parent: Prove moderate (L3-L4)
-nav_order: 157
+nav_order: 328
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,93 +29,78 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Omalizumab: Dall'asma allergica alla bronchite
+# Omalizumab: Dall'asma allergico alla bronchite
 
-## Riassunto di una frase
+## Sintesi in una frase
 
-Omalizumab è un anticorpo monoclonale umanizzato ricombinante anti-IgE, approvato in più paesi per l'asma allergica da moderata a grave e l'orticaria spontanea cronica.
-Il modello TxGNN predice che potrebbe essere efficace anche per la **Bronchite**, con **2 studi clinici** e **8 pubblicazioni** che attualmente supportano questa direzione.
-Tuttavia, il collegamento meccanicistico è parziale — applicabile specificamente al sottotipo di bronchite allergica con IgE elevata — e le evidenze esistenti sono insufficienti per supportare una decisione positiva al momento.
-
----
+Omalizumab è un anticorpo monoclonale anti-IgE, originariamente utilizzato per l'asma (allergico e intrinseco) e per l'orticaria idiopatica.
+Il modello TxGNN ne prevede una possibile efficacia nella **bronchite**, ma il segnale deriva in gran parte dalla sovrapposizione con le malattie delle vie aeree allergiche. Per questa indicazione esistono **2 studi clinici registrati**, di pertinenza solo indiretta, e **7 pubblicazioni** per lo più di tipo revisione.
 
 ## Panoramica rapida
 
-| Elemento | Contenuto |
-|------|---------|
-| Indicazione originaria | Asma allergica da moderata a grave (non approvata in Italia; nessuna autorizzazione italiana in archivio) |
-| Indicazione prevista nuova | Bronchite |
-| Punteggio di predizione TxGNN | 99.999% |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Asma (allergico e intrinseco), orticaria idiopatica (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Nuova indicazione prevista | Bronchite |
+| Punteggio di predizione TxGNN | 99,999% |
 | Livello di evidenza | L3 |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
-| Decisione consigliata | Hold |
-
----
+| Stato sul mercato italiano | Solo autorizzazioni revocate |
+| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili in questo Evidence Pack. Sulla base delle informazioni note dalla letteratura di supporto, omalizumab è un anticorpo monoclonale umanizzato ricombinante che si lega specificamente al dominio Cε3 dell'IgE — il sito dove l'IgE si attacca al suo recettore ad alta affinità FcεRI su mastociti e basofili. Sequestrando l'IgE libera, omalizumab riduce l'espressione del recettore FcεRI e attenua la cascata infiammatoria allergica a valle, includendo il rilascio di istamina, la secrezione di citochine e l'infiammazione delle vie aeree.
+I dati compilati non riportano una descrizione dettagliata del meccanismo d'azione. È noto però che omalizumab è un anticorpo anti-IgE: si lega alle IgE libere e ne impedisce l'interazione con mastociti e basofili (bersaglio: catena pesante epsilon delle immunoglobuline, IGHE). Il meccanismo è consolidato nell'asma allergico.
 
-La bronchite è una condizione eterogenea. Il sottotipo allergico (eosinofilo) di bronchite cronica condivide caratteristiche fisiopatologiche chiave con l'asma: IgE sierica elevata, attivazione del mastocita mediata da IgE, infiammazione mucosale delle vie aeree e ipersecrezione di muco. In questa popolazione sovrapposta, la base teorica per la terapia anti-IgE è plausibile. Uno studio di fase 2/3 completato (NCT02049294) ha studiato direttamente l'effetto risparmiatore di steroidi dell'omalizumab in pazienti con asma e bronchite eosinofila, fornendo il collegamento clinico più diretto — sebbene severamente limitato dalla dimensione del campione (n=11).
+Il segnale per la bronchite sembra dovuto soprattutto alla sovrapposizione con le patologie delle vie aeree (asma, sovrapposizione asma-BPCO, malattie delle vie aeree legate al fumo). Il razionale meccanicistico è plausibile solo per il sottogruppo allergico/eosinofilo. Non vi sono evidenze per la bronchite infettiva o cronica come entità distinta.
 
-In modo critico, la maggior parte dei casi di bronchite acuta infettiva è guidata da trigger virali o batterici, e la bronchite cronica indotta dal fumo è governata dallo stress ossidativo e dall'infiammazione neutrofila — nessuna delle quali coinvolge l'IgE. Il punteggio di predizione elevato del modello TxGNN molto probabilmente riflette la biologia delle vie aeree condivisa con l'asma (indicazione provata dell'omalizumab). Un beneficio significativo è atteso solo in una sottopopolazione selezionata con cura con elevazione documentata di IgE e sensibilizzazione agli allergeni, non attraverso la più ampia popolazione di pazienti con bronchite.
+## Evidenze dagli studi clinici
 
----
+| Studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Fase 2/3 | Completato | 11 | Studio controllato con placebo sull'effetto di risparmio degli steroidi in pazienti con asma e bronchite eosinofila persistente; campione molto piccolo |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Fase 2 | Completato | 382 | Studio di ricerca della dose (QGE031, anti-IgE) nell'orticaria cronica spontanea; relazione con la bronchite incerta |
 
-## Evidenza da studi clinici
-
-| Numero di studio | Fase | Stato | Arruolamento | Risultati principali |
-|-------------|-------|--------|-----------|-------------|
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Fase 2/3 | Completato | 11 | RCT in doppio cieco controllato con placebo che valuta l'effetto risparmiatore di steroidi dell'omalizumab in pazienti con asma e **bronchite eosinofila**. Lo studio più direttamente rilevante per questa indicazione, ma severamente sottodimensionato (n=11). |
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Fase 2b | Completato | 382 | RCT di ricerca della dose di QGE031 (anti-IgE di prossima generazione) vs omalizumab come comparatore attivo in orticaria spontanea cronica; in doppio cieco, controllato con placebo e comparatore attivo. Non mirato alla bronchite, ma fornisce caratterizzazione dose-risposta per la classe anti-IgE. |
-
----
-
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|------|------|---------|-------------|
-| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Studio clinico | Current Medical Research and Opinion | Analisi di sicurezza pooled dell'omalizumab nei bambini con asma allergica mediata da IgE; caratterizza il profilo di sicurezza in una popolazione di malattie delle vie aeree pediatriche strettamente correlata alla bronchite allergica. |
-| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Osservazionale | Postepy Dermatologii i Alergologii | Omalizumab in pazienti di mezza età/anziani con grave asma allergica–COPD overlap; segnala beneficio clinico significativo in questo fenotipo di malattia ostruttiva cronica delle vie aeree con componente mediata da IgE. |
-| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Revisione | Clinical Reviews in Allergy & Immunology | Revisione completa dell'approvazione FDA dell'omalizumab e dell'esperienza post-approvazione; descrive il meccanismo di riduzione dell'IgE e la riduzione documentata dell'infiammazione delle vie aeree e delle riacutizzazioni. |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Revisione | Expert Opinion on Pharmacotherapy | Rivede le sfide del trattamento farmacologico nelle malattie delle vie aeree indotte dal fumo (bronchite cronica, enfisema, asma–COPD overlap); evidenzia l'esclusione dei fumatori dalla maggior parte degli studi sull'omalizumab come lacuna di evidenza chiave. |
-| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Revisione | Masui — Japanese Journal of Anesthesiology | Revisione di gestione preoperatoria che copre sia l'asma bronchiale che la bronchite cronica; menziona omalizumab come opzione di trattamento per l'asma bronchiale grave allergica con coinvolgimento cronico delle vie aeree. |
-| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Revisione | Allergologia et Immunopathologia | Panoramica degli anticorpi monoclonali in pediatria includendo omalizumab per malattie allergiche; fornisce background meccanicistico sulla terapia anti-IgE attraverso indicazioni respiratorie. |
-| [21163396](https://pubmed.ncbi.nlm.nih.gov/21163396/) | 2010 | Revisione | Revue des Maladies Respiratoires | Revisione del pannello di esperti francesi sulle riacutizzazioni dell'asma negli adulti; discute la fisiopatologia, l'escalation del trattamento e l'overlap contestuale con presentazioni acute-on-chronic bronchite. |
-| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Rapporto di caso | Journal of Investigational Allergology & Clinical Immunology | Caso di bronchite plastica seguente termoplastica bronchiale; documenta una complicanza rara della bronchite in un paziente con asma grave — segnale contestuale per la gestione della malattia delle vie aeree refrattaria. |
-
----
+|------|-----|------|------|---------|
+| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Revisione | Clin Rev Allergy Immunol | Omalizumab efficace nell'asma persistente da moderato a grave; esperienza post-approvazione |
+| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Studio di sicurezza (analisi aggregata) | Curr Med Res Opin | Sicurezza e tollerabilità nei bambini con asma allergico |
+| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Coorte | Postepy Dermatol Alergol | Utilità nei pazienti di mezza età o anziani con sovrapposizione asma allergico grave-BPCO |
+| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Revisione | Masui | Gestione preoperatoria di pazienti con asma bronchiale o bronchite cronica; omalizumab citato per l'asma allergico grave |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Revisione | Expert Opin Pharmacother | Gestione dell'asma associato a malattie delle vie aeree da fumo (inclusa la bronchite cronica) |
+| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Revisione | Allergol Immunopathol | Anticorpi monoclonali in pediatria, incluse le malattie allergiche |
+| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Caso clinico | J Investig Allergol Clin Immunol | Raro caso di bronchite plastica dopo termoplastica bronchiale |
 
 ## Informazioni sul mercato italiano
 
-Omalizumab non è attualmente **approvato o commercializzato in Italia**. Nessun record di autorizzazione è in archivio nel dataset normativo.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 036892053 | XOLAIR*1 siringa SC 75 mg 0,5 ml (revocata) | Non indicata | Non disponibile |
+| 036892089 | XOLAIR*1 siringa SC 150 mg 1 ml (revocata) | Non indicata | Non disponibile |
 
-> **Nota:** Omalizumab (nome commerciale Xolair®) detiene approvazione normativa da EMA e FDA per l'asma allergica da moderata a grave e l'orticaria spontanea cronica. L'autorizzazione di commercializzazione specifica all'Italia non è stata identificata in questo dataset. Qualsiasi uso clinico in Italia richiederebbe un framework off-label o una futura autorizzazione AIFA.
+Titolare: Novartis Europharm Ltd. Entrambe le autorizzazioni risultano revocate; nessuna è attualmente valida.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Interazioni farmacologiche**: sono state rilevate 8 voci di interazione. La maggior parte è di livello minore (solfato, acetato, gluconato e cloruro di zinco; echinacea; vitamina E). È segnalata un'interazione di livello **moderato** con omacetaxina mepesuccinato. Per le interazioni minori non sono disponibili dettagli aggiuntivi.
 
-Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
----
-
-## Conclusione e prossimi passaggi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
-**Razionale:**
-I due studi clinici identificati non forniscono evidenza adeguatamente dimensionata e specifica per la bronchite — l'unico studio direttamente rilevante (NCT02049294) ha arruolato solo 11 pazienti, e la razionale meccanicistica si applica esclusivamente al sottotipo di bronchite allergica/eosinofila con IgE elevata, che rappresenta una minoranza della popolazione complessiva di pazienti con bronchite. Senza autorizzazione di commercializzazione italiana e con dati clinici insufficienti, questo candidato non soddisfa ancora la soglia per lo sviluppo attivo.
+**Motivazione:**
+Per la bronchite il segnale è indiretto: i due studi registrati sono di pertinenza debole (uno con soli 11 pazienti nella bronchite eosinofila) e la letteratura è composta quasi solo da revisioni. L'effetto plausibile riguarda soltanto il sottogruppo allergico/eosinofilo, già coperto in parte dall'indicazione per l'asma. Inoltre, le autorizzazioni italiane sono tutte revocate.
 
-**Per procedere, è necessario il seguente:**
-- Recuperare e confermare il meccanismo d'azione completo dell'omalizumab da DrugBank (lacuna di dati attuale)
-- Ottenere i dati completi del foglio illustrativo italiano per avvertenze, controindicazioni e popolazioni speciali
-- Definire una chiara sottopopolazione target: pazienti con bronchite cronica, elevazione documentata di IgE (≥30 IU/mL), e sensibilizzazione positiva agli allergeni
-- Commissionare o identificare uno studio di coorte prospettico adeguatamente dimensionato o RCT di Fase 2 specificamente in bronchite cronica allergica/eosinofila
-- Valutare il percorso normativo AIFA per potenziale uso compassionevole o deposito di nuova indicazione
-- Condurre un'analisi di economia sanitaria per giustificare l'investimento data la disponibilità di alternative consolidate (corticosteroidi inalati, dupilumab in fenotipi atopici sovrapposti)
+**Per procedere sono necessari:**
+- Studi controllati mirati sulla bronchite eosinofila/allergica, con definizione chiara del fenotipo
+- Dati sul meccanismo d'azione e sul foglio illustrativo AIFA (avvertenze e controindicazioni)
+- Verifica dello stato autorizzativo e della disponibilità in Italia (autorizzazioni attuali revocate)
 
+**Nota su altre indicazioni previste:** il modello segnala anche altre predizioni più supportate, tra cui la dermatite atopica (livello L2, incluso uno studio di fase 4 completato in età pediatrica, n=62) e la malattia polmonare ostruttiva (studio di fase 2 COPD-OMA in corso, in soggetti sensibilizzati agli allergeni). Meritano una valutazione separata.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
