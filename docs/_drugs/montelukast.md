@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Montelukast: nuova indicazione prevista, Bronchite (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria…"
+monitor_inn: "MONTELUKAST"
+predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to"]
 ---
 
 # Montelukast

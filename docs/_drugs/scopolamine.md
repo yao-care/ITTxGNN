@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (livello di evidenza L5). Indicazione originale: Cinetosi, sindrome dell'intestino irritabile, ulcera peptica…"
+monitor_inn: "Scopolamine"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
 ---
 
 # Scopolamine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glatiramer: nuova indicazione prevista, Emoglobinopatia (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati per questo report (le autorizzazioni…"
+monitor_inn: "GLATIRAMER"
+predicted_indications: ["hemoglobinopathy"]
 ---
 
 # Glatiramer

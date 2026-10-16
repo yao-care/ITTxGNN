@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Labetalol: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Disturbi ipertensivi / ipertensione (dal grafo di conoscenza TxGNN"
+monitor_inn: "labetalol"
+predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Labetalol

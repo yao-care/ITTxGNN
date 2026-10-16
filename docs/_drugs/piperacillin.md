@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Piperacillin: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (antibiotico beta-lattamico per in…"
+monitor_inn: "piperacillin"
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "osteoarthritis susceptibility", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 ---
 
 # Piperacillin

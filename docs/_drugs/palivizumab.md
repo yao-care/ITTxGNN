@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Palivizumab: nuova indicazione prevista, Neoplasia benigna della lingua (livello di evidenza L5). Indicazione originale: Infezione da virus respiratorio sinciziale (RSV)"
+monitor_inn: "PALIVIZUMAB"
+predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 ---
 
 # Palivizumab

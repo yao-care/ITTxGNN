@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Goserelin: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Endometriosi (secondo gli archi di indicazione della base di conoscen…"
+monitor_inn: "GOSERELIN"
+predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 ---
 
 # Goserelin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (otite media infettiva…"
+monitor_inn: "Cefuroxime"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "suppurative otitis media", "hematological disease associated with an acquired peripheral neuropathy"]
 ---
 
 # Cefuroxime

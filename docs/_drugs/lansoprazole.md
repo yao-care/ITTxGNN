@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Lansoprazole: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L5). Indicazione originale: Ulcera gastrica, ulcera peptica, malattia da reflusso gastroesofageo…"
+monitor_inn: "lansoprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Lansoprazole

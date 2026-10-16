@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Pioglitazone: nuova indicazione prevista, Opsismodisplasia (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
+monitor_inn: "PIOGLITAZONE"
+predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Pioglitazone

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Felbamate: nuova indicazione prevista, Nevralgia del trigemino (prima prevista: tumore del nervo trigemino… (livello di evidenza L4). Indicazione originale: Epilessia, epilessia parziale…"
+monitor_inn: "Felbamate"
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Felbamate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (livello di evidenza L5). Indicazione originale: Infezioni da pneumococco…"
+monitor_inn: "lincomycin"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 ---
 
 # Lincomycin

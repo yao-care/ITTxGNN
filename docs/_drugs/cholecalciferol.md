@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cholecalciferol: nuova indicazione prevista, Osteodistrofia renale (la più solida tra le indicazioni predette (livello di evidenza L5). Indicazione originale: Osteoporosi, osteoporosi postmenopausale…"
+monitor_inn: "cholecalciferol"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

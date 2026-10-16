@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lomitapide: nuova indicazione prevista, Marcotrombocitopenia con insufficienza della valvola mitrale (livello di evidenza L5). Indicazione originale: Ipercolesterolemia familiare omozigote"
+monitor_inn: "LOMITAPIDE"
+predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "hyperlipoproteinemia", "platelet storage pool deficiency"]
 ---
 
 # Lomitapide

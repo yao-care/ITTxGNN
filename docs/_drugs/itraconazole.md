@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (livello di evidenza L5). Indicazione originale: Micosi sistemiche (candidosi esofagea e disseminata, candidemia…"
+monitor_inn: "itraconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trifluoperazine: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (livello di evidenza L5). Indicazione originale: Schizofrenia, ansia (da indicazioni della base di conoscenza TxGNN"
+monitor_inn: "Trifluoperazine"
+predicted_indications: ["manic bipolar affective disorder"]
 ---
 
 # Trifluoperazine

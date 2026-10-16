@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (crisi tonico-cloniche generalizzate, crisi parziali…"
+monitor_inn: "Phenytoin"
+predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "eating seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin

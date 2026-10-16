@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (livello di evidenza L4). Indicazione originale: Infezioni fungine, tra cui aspergillosi, candidosi (anche orale)…"
+monitor_inn: "posaconazole"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Posaconazole

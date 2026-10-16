@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pregabalin: nuova indicazione prevista, Emicrania (disturbo emicranico) (livello di evidenza L5). Indicazione originale: Disturbo d'ansia, fibromialgia, sindrome miofasciale dolorosa…"
+monitor_inn: "PREGABALIN"
+predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Pregabalin

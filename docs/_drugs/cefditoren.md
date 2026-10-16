@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Cefditoren: nuova indicazione prevista, Suscettibilità all'osteoartrite (seconda previsione: artrite reumatoi… (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il …"
+monitor_inn: "CEFDITOREN"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis"]
 ---
 
 # Cefditoren

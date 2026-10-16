@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: nuova indicazione prevista, Stato epilettico (livello di evidenza L5). Indicazione originale: Epilessia parziale"
+monitor_inn: "LEVETIRACETAM"
+predicted_indications: ["visual epilepsy", "startle epilepsy", "audiogenic seizures", "eating seizures", "thinking seizures", "micturation-induced seizures", "orgasm-induced seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Deferasirox: nuova indicazione prevista, Infezione da HIV (livello di evidenza L4). Indicazione originale: Talassemia beta ed emoglobinopatie (dal grafo di conoscenza TxGNN"
+monitor_inn: "DEFERASIROX"
+predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 ---
 
 # Deferasirox

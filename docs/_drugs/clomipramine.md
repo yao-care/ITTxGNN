@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clomipramine: nuova indicazione prevista, Disturbo d'ansia (livello di evidenza L1). Indicazione originale: Disturbo ossessivo-compulsivo (il testo dell'indicazione autorizzata…"
+monitor_inn: "Clomipramine"
+predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acyclovir: nuova indicazione prevista, Verruca volgare (common wart) (livello di evidenza L2). Indicazione originale: Infezioni da herpesvirus (herpes simplex, herpes zoster, varicella…"
+monitor_inn: "Acyclovir"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
 ---
 
 # Acyclovir

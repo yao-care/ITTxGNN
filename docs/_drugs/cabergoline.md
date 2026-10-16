@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline: nuova indicazione prevista, Adenocarcinoma ipofisario (livello di evidenza L4). Indicazione originale: Iperprolattinemia (comprese le forme familiari e acquisite) e tumore…"
+monitor_inn: "Cabergoline"
+predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

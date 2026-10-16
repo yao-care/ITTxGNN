@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (livello di evidenza L3). Indicazione originale: Iperparatiroidismo (testo di indicazione autorizzata non disponibile…"
+monitor_inn: "ETELCALCETIDE"
+predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
 ---
 
 # Etelcalcetide

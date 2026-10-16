@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L4). Indicazione originale: Malattia di Alzheimer (il testo dell'indicazione approvata AIFA non è…"
+monitor_inn: "Rivastigmine"
+predicted_indications: ["glaucoma"]
 ---
 
 # Rivastigmine

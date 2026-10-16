@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (livello di evidenza L5). Indicazione originale: Sindrome coronarica acuta, arteriopatia periferica…"
+monitor_inn: "TICAGRELOR"
+predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "mesenteric vascular occlusion", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 ---
 
 # Ticagrelor

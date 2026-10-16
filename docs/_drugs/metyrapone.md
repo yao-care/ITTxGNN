@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Metyrapone: nuova indicazione prevista, Ipertermia maligna da esercizio fisico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (uso clinico noto da…"
+monitor_inn: "metyrapone"
+predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 ---
 
 # Metyrapone

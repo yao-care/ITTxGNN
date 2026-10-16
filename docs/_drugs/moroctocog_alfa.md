@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Moroctocog Alfa: nuova indicazione prevista, Disturbo da rilascio piastrinico primario (livello di evidenza L5). Indicazione originale: Emofilia (inclusa la forma sintomatica nelle portatrici femmini…"
+monitor_inn: "MOROCTOCOG ALFA"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 ---
 
 # Moroctocog Alfa

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Almotriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (con o senza aura). Il testo dell'indicazione approvata AI…"
+monitor_inn: "ALMOTRIPTAN"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Almotriptan

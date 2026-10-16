@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Abacavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L4). Indicazione originale: Infezione da HIV, AIDS"
+monitor_inn: "abacavir"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Abacavir

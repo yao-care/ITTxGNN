@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Doxofylline: nuova indicazione prevista, Sindrome di Pierre Robin associata ad anomalia cromosomica (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (t…"
+monitor_inn: "doxofylline"
+predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
 ---
 
 # Doxofylline

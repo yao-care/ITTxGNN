@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
+monitor_inn: "mianserin"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic depression", "neurotic disorder"]
 ---
 
 # Mianserin

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus ipertrofico (livello di evidenza L4). Indicazione originale: Dermatosi infiammatorie (es. dermatite atopica, dermatite da contatto…"
+monitor_inn: "FLUOCINOLONE ACETONIDE"
+predicted_indications: ["hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides"]
 ---
 
 # Fluocinolone Acetonide

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Sotalol: nuova indicazione prevista, Stroke disorder (ictus) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza TxGNN"
+monitor_inn: "sotalol"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
 ---
 
 # Sotalol

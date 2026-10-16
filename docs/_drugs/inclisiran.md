@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inclisiran: nuova indicazione prevista, Carenza di potassio (potassium deficiency disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazio…"
+monitor_inn: "INCLISIRAN"
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran

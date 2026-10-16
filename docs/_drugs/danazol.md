@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Danazol: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Endometriosi, endometriosi dell'utero…"
+monitor_inn: "danazol"
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 ---
 
 # Danazol

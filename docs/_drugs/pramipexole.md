@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Malattia di Parkinson e sindrome delle gambe senza ri…"
+monitor_inn: "pramipexole"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 ---
 
 # Pramipexole

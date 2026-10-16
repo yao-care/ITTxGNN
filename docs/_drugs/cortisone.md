@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primitivo (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione dell'un…"
+monitor_inn: "CORTISONE"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "adrenocortical insufficiency", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "Crohn's colitis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
 ---
 
 # Cortisone

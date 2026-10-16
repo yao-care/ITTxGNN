@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Epinephrine: nuova indicazione prevista, Malattia polmonare ostruttiva (livello di evidenza L1). Indicazione originale: Asma, bronchite, anafilassi, enfisema…"
+monitor_inn: "Epinephrine"
+predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine

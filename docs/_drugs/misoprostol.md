@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Misoprostol: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA…"
+monitor_inn: "misoprostol"
+predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 ---
 
 # Misoprostol

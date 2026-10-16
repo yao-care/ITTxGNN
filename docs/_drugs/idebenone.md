@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Idebenone: nuova indicazione prevista, Porfiria epatica (livello di evidenza L5). Indicazione originale: Neuropatia ottica ereditaria di Leber (fonte: grafo di conoscenza TxG…"
+monitor_inn: "IDEBENONE"
+predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 ---
 
 # Idebenone

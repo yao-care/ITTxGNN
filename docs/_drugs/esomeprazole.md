@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Esomeprazole: nuova indicazione prevista, Reflusso duodenogastrico (livello di evidenza L4). Indicazione originale: Ulcera peptica, malattia da reflusso gastroesofageo…"
+monitor_inn: "esomeprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Esomeprazole

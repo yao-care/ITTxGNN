@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Lonoctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia"
+monitor_inn: "LONOCTOCOG ALFA"
+predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
 ---
 
 # Lonoctocog Alfa

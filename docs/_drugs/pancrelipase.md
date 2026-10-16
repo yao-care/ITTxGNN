@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anom… (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
+monitor_inn: "pancrelipase"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
 ---
 
 # Pancrelipase

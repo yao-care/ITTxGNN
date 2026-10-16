@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bupropion: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Depressione maggiore e dipendenza da nicotina (tra le a…"
+monitor_inn: "bupropion"
+predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
 ---
 
 # Bupropion

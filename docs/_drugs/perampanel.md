@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perampanel: nuova indicazione prevista, Epilessia visiva (livello di evidenza L4). Indicazione originale: Epilessia parziale"
+monitor_inn: "PERAMPANEL"
+predicted_indications: ["visual epilepsy", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "eating seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

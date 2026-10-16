@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Apixaban: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati per questo report"
+monitor_inn: "APIXABAN"
+predicted_indications: ["migraine disorder"]
 ---
 
 # Apixaban

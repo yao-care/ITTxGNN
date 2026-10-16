@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Bosentan: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Ipertensione polmonare / ipertensione arteriosa polmonare…"
+monitor_inn: "BOSENTAN"
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "limited systemic sclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 ---
 
 # Bosentan

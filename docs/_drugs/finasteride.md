@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Iperplasia prostatica benigna (dato dal grafo di conoscenza"
+monitor_inn: "FINASTERIDE"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
 
 # Finasteride

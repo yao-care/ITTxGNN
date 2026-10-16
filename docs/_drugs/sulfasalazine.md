@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sulfasalazine: nuova indicazione prevista, Osteoartrite (prima indicazione con evidenza disponibile (livello di evidenza L4). Indicazione originale: Artrite reumatoide, colite ulcerosa…"
+monitor_inn: "Sulfasalazine"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Sulfasalazine

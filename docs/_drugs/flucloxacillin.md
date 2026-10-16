@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flucloxacillin: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Non disponibile"
+monitor_inn: "flucloxacillin"
+predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Prinzmetal angina", "conjunctivitis (disease)", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "thrombotic disease", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Flucloxacillin

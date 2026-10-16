@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Denosumab: nuova indicazione prevista, Retinopatia diabetica non proliferativa grave (livello di evidenza L5). Indicazione originale: Osteoporosi, osteoporosi postmenopausale…"
+monitor_inn: "DENOSUMAB"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 ---
 
 # Denosumab

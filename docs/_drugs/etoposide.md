@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etoposide: nuova indicazione prevista, Sarcoma di Ewing (la predizione con il punteggio più alto… (livello di evidenza L5). Indicazione originale: Carcinoma polmonare a piccole cellule"
+monitor_inn: "ETOPOSIDE"
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 ---
 
 # Etoposide

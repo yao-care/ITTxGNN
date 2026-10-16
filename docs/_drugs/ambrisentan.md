@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ambrisentan: nuova indicazione prevista, PAH associata a malattia del tessuto connettivo (selezionata tra le p… (livello di evidenza L2). Indicazione originale: Ipertensione arteriosa polmonare"
+monitor_inn: "AMBRISENTAN"
+predicted_indications: ["pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Ambrisentan

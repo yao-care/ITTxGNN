@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Tetracycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Infezioni delle vie urinarie, bronchite, acne, antrace, gonorrea…"
+monitor_inn: "tetracycline"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 ---
 
 # Tetracycline

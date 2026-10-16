@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lurasidone: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (livello di evidenza L4). Indicazione originale: Disturbo bipolare"
+monitor_inn: "LURASIDONE"
+predicted_indications: ["manic bipolar affective disorder", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 ---
 
 # Lurasidone

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Alfacalcidol: nuova indicazione prevista, Ipoparatiroidismo isolato familiare da alterata secrezione di PTH (livello di evidenza L5). Indicazione originale: Iperparatiroidismo, osteite fibrosa, ipopa…"
+monitor_inn: "alfacalcidol"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

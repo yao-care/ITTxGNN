@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Ciclesonide: nuova indicazione prevista, Eczema atopico (livello di evidenza L5). Indicazione originale: Asma, asma intrinseco, asma allergico, rinite allergica…"
+monitor_inn: "CICLESONIDE"
+predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis", "asthma-related traits, susceptibility to"]
 ---
 
 # Ciclesonide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L5). Indicazione originale: Ulcera duodenale (dal grafo di conoscenza"
+monitor_inn: "Sucralfate"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Sucralfate

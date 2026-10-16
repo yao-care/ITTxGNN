@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Erythromycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Infezioni batteriche, tra cui congiuntivite, polmonite, pertosse…"
+monitor_inn: "Erythromycin"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin

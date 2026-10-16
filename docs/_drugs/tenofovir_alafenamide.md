@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tenofovir Alafenamide: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L5). Indicazione originale: HIV (infezione) e AIDS, secondo le rel…"
+monitor_inn: "TENOFOVIR ALAFENAMIDE"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Tenofovir Alafenamide

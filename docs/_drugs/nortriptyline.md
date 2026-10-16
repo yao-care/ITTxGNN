@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Nortriptyline: nuova indicazione prevista, ADHD (disturbo da deficit di attenzione e iperattività) (livello di evidenza L5). Indicazione originale: Ansia, disturbi nevrotici, distimia (da grafo di co…"
+monitor_inn: "Nortriptyline"
+predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 ---
 
 # Nortriptyline

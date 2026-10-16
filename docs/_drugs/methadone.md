@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Methadone: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
+monitor_inn: "methadone"
+predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 ---
 
 # Methadone

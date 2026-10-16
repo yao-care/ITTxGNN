@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Clindamycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni da stafilococco e streptococco, acne, vaginosi batterica…"
+monitor_inn: "Clindamycin"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clindamycin

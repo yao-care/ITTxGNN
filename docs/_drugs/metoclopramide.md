@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Metoclopramide: nuova indicazione prevista, Ulcera gastrica (livello di evidenza L4). Indicazione originale: Malattia da reflusso gastroesofageo, esofagite…"
+monitor_inn: "METOCLOPRAMIDE"
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer"]
 ---
 
 # Metoclopramide

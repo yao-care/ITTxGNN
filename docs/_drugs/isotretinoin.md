@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione / disturbo ipertensivo (secondo il grafo di conoscenza"
+monitor_inn: "Isotretinoin"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension"]
 ---
 
 # Isotretinoin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L5). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza"
+monitor_inn: "FLECAINIDE"
+predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Flecainide

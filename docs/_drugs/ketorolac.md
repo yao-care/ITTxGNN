@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L5). Indicazione originale: Congiuntivite atopica, papillare e primaverile (da grafo di conoscenza"
+monitor_inn: "KETOROLAC"
+predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ketorolac

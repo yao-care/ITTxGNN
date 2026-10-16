@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rifabutin: nuova indicazione prevista, Infezione da HIV (infectious disease) (livello di evidenza L1). Indicazione originale: Non disponibile nei dati compilati"
+monitor_inn: "rifabutin"
+predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 ---
 
 # Rifabutin

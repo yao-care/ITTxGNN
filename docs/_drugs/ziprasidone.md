@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ziprasidone: nuova indicazione prevista, Disturbo affettivo maggiore (major affective disorder) (livello di evidenza L2). Indicazione originale: Schizofrenia, disturbo bipolare…"
+monitor_inn: "ZIPRASIDONE"
+predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 ---
 
 # Ziprasidone

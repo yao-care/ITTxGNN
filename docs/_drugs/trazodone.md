@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trazodone: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L3). Indicazione originale: Depressione unipolare, depressione endogena…"
+monitor_inn: "TRAZODONE"
+predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
 ---
 
 # Trazodone

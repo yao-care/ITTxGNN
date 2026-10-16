@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Benzoic Acid: nuova indicazione prevista, Bronchite (livello di evidenza L5). Indicazione originale: Pemfigo, malattia di Peyronie, fibromatosi del pene, sclerodermia…"
+monitor_inn: "benzoic acid"
+predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
 ---
 
 # Benzoic Acid

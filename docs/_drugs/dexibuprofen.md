@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dexibuprofen: nuova indicazione prevista, Spondilite anchilosante (prima in classifica per punteggio: sindrome… (livello di evidenza L5). Indicazione originale: Artrite reumatoide, cefalea, artrosi, …"
+monitor_inn: "dexibuprofen"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "WHIM syndrome"]
 ---
 
 # Dexibuprofen

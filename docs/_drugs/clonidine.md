@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (livello di evidenza L5). Indicazione originale: Ipertensione, glaucoma ad angolo aperto, ADHD (dal grafo di conoscenza"
+monitor_inn: "Clonidine"
+predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
 ---
 
 # Clonidine

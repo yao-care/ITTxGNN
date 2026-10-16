@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Empagliflozin: nuova indicazione prevista, Sindrome della rigidità focale degli arti (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2 (dalle indi…"
+monitor_inn: "EMPAGLIFLOZIN"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
 ---
 
 # Empagliflozin

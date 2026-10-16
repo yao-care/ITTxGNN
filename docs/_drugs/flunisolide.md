@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flunisolide: nuova indicazione prevista, Eczema atopico (livello di evidenza L4). Indicazione originale: Asma, asma intrinseca, asma allergica, rinite allergica…"
+monitor_inn: "FLUNISOLIDE"
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "asthma-related traits, susceptibility to", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Flunisolide

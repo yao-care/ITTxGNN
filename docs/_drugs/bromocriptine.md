@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bromocriptine: nuova indicazione prevista, Malattia congenita della glicosilazione con fucosilazione difettosa (livello di evidenza L5). Indicazione originale: Malattia di Parkinson, iperprolattinemi…"
+monitor_inn: "Bromocriptine"
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
 ---
 
 # Bromocriptine

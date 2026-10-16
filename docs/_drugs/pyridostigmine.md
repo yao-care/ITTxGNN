@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Pyridostigmine: nuova indicazione prevista, Miastenia gravis con iperplasia del timo (livello di evidenza L3). Indicazione originale: Miastenia gravis (dalle indicazioni di riferimento del grafo di c…"
+monitor_inn: "Pyridostigmine"
+predicted_indications: ["myasthenia gravis with thymus hyperplasia", "neonatal myasthenia gravis", "autoimmune disease of peripheral nervous system", "myasthenia, limb-girdle, autoimmune", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 ---
 
 # Pyridostigmine

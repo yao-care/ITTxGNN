@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (livello di evidenza L5). Indicazione originale: Leucemia promielocitica acuta, acne, cheratosi acquisite…"
+monitor_inn: "Tretinoin"
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 ---
 
 # Tretinoin

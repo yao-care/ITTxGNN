@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (livello di evidenza L5). Indicazione originale: ADHD (disturbo da deficit di attenzione e iperattività)"
+monitor_inn: "Atomoxetine"
+predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 ---
 
 # Atomoxetine

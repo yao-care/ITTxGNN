@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Buprenorphine: nuova indicazione prevista, Porfiria acuta intermittente (livello di evidenza L4). Indicazione originale: Dipendenza da oppioidi"
+monitor_inn: "Buprenorphine"
+predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
 ---
 
 # Buprenorphine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Silodosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Ipertrofia prostatica benigna (da indicazioni del grafo di cono…"
+monitor_inn: "Silodosin"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
 
 # Silodosin

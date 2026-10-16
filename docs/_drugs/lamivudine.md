@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: nuova indicazione prevista, Sindrome da immunodeficienza acquisita felina (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite B"
+monitor_inn: "Lamivudine"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 ---
 
 # Lamivudine

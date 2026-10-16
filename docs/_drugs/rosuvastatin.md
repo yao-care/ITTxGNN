@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rosuvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (livello di evidenza L1). Indicazione originale: Ipertrigliceridemia, iperlipoproteinemia, aterosclerosi…"
+monitor_inn: "Rosuvastatin"
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis", "hyperlipidemia"]
 ---
 
 # Rosuvastatin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (livello di evidenza L5). Indicazione originale: Ipertrigliceridemia (indicata dal grafo di conoscenza TxGNN"
+monitor_inn: "icosapent ethyl"
+predicted_indications: ["hemoglobinopathy"]
 ---
 
 # Icosapent Ethyl

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Filgrastim: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder… (livello di evidenza L5). Indicazione originale: Neutropenia costituzionale / neutropenia…"
+monitor_inn: "FILGRASTIM"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 ---
 
 # Filgrastim

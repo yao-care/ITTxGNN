@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mometasone: nuova indicazione prevista, Linfoma cutaneo primitivo a cellule T (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
+monitor_inn: "MOMETASONE"
+predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
 
 # Mometasone

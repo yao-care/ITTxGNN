@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L4). Indicazione originale: Ipertrigliceridemia (dal grafo di conoscenza TxGNN"
+monitor_inn: "GEMFIBROZIL"
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
 
 # Gemfibrozil

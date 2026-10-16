@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ebastine: nuova indicazione prevista, Malattia coronarica (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria…"
+monitor_inn: "Ebastine"
+predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 ---
 
 # Ebastine

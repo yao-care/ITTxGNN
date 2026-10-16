@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Artrite reumatoide e artrite psoriasica"
+monitor_inn: "LEFLUNOMIDE"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Leflunomide

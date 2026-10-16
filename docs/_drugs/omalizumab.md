@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Omalizumab: nuova indicazione prevista, Bronchite (livello di evidenza L3). Indicazione originale: Asma (allergico e intrinseco)…"
+monitor_inn: "OMALIZUMAB"
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 ---
 
 # Omalizumab

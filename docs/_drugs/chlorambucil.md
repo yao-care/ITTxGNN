@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Chlorambucil: nuova indicazione prevista, Linfoma polmonare primitivo (candidato di rango 4 (livello di evidenza L5). Indicazione originale: Linfoma di Hodgkin, linfoma follicolare…"
+monitor_inn: "chlorambucil"
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "acute lymphoblastic leukemia (disease)", "small cell lung carcinoma"]
 ---
 
 # Chlorambucil

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Pegfilgrastim: nuova indicazione prevista, Retinopatia diabetica non proliferante grave (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni …"
+monitor_inn: "PEGFILGRASTIM"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 ---
 
 # Pegfilgrastim

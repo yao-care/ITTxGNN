@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tolvaptan: nuova indicazione prevista, Malattia policistica renale 3 con o senza malattia policistica epatica (livello di evidenza L5). Indicazione originale: Sindrome da inappropriata secrezione di …"
+monitor_inn: "TOLVAPTAN"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Tolvaptan

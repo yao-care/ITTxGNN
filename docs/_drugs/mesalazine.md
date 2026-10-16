@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). Indicazione originale: Colite ulcerosa, malattia infiammatoria intestinale…"
+monitor_inn: "Mesalazine"
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 ---
 
 # Mesalazine

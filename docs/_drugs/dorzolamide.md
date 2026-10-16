@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dorzolamide: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto, ipertensione oculare"
+monitor_inn: "DORZOLAMIDE"
+predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "glaucoma 1, open angle", "open angle glaucoma", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 ---
 
 # Dorzolamide

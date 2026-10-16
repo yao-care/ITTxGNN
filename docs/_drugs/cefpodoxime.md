@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Cefpodoxime: nuova indicazione prevista, Osteoartrite susceptibility (predizione di rango 1) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo delle indica…"
+monitor_inn: "cefpodoxime"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis"]
 ---
 
 # Cefpodoxime

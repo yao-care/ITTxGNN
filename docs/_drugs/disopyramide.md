@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Disopyramide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (nessun testo di indicazione nelle…"
+monitor_inn: "disopyramide"
+predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Disopyramide

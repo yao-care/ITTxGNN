@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Methylergometrine: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni nelle a…"
+monitor_inn: "methylergometrine"
+predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Methylergometrine

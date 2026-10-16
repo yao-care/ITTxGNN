@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ceftazidime: nuova indicazione prevista, Infezione delle vie urinarie (valutata) (livello di evidenza L5). Indicazione originale: Infezioni batteriche (streptococciche, polmonite batterica…"
+monitor_inn: "Ceftazidime"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
 ---
 
 # Ceftazidime

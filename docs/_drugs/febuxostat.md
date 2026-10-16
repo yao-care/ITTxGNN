@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (livello di evidenza L4). Indicazione originale: Iperuricemia (da grafo di conoscenza"
+monitor_inn: "FEBUXOSTAT"
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 ---
 
 # Febuxostat

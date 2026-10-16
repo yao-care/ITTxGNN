@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Narcolessia e sindrome da apnea ostruttiva del sonno…"
+monitor_inn: "solriamfetol"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 ---
 
 # Solriamfetol

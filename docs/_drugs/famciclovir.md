@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (livello di evidenza L4). Indicazione originale: Herpes zoster (dal grafo di conoscenza TxGNN"
+monitor_inn: "FAMCICLOVIR"
+predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Famciclovir

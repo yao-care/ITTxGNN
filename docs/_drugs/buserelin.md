@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Buserelin: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Carcinoma della prostata (da dati di farmacologia"
+monitor_inn: "BUSERELIN"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 ---
 
 # Buserelin

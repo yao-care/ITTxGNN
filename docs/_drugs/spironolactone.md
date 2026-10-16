@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Ipertensione, scompenso cardiaco congestizio…"
+monitor_inn: "spironolactone"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 ---
 
 # Spironolactone

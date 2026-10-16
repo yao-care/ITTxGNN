@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (livello di evidenza L4). Indicazione originale: Infezioni batteriche e oculari (meningite batterica, uveite…"
+monitor_inn: "Tobramycin"
+predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 ---
 
 # Tobramycin

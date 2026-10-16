@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Fenofibrate: nuova indicazione prevista, Ipercolesterolemia familiare omozigote (livello di evidenza L4). Indicazione originale: Ipertrigliceridemia, iperlipidemia, iperlipidemia familiare combinata…"
+monitor_inn: "Fenofibrate"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
 ---
 
 # Fenofibrate

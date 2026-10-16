@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Carteolol: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto…"
+monitor_inn: "carteolol"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Carteolol

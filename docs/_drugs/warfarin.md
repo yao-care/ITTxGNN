@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (livello di evidenza L4). Indicazione originale: Embolia polmonare, malattia trombotica…"
+monitor_inn: "WARFARIN"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Warfarin

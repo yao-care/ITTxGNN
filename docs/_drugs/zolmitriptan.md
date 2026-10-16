@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Zolmitriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Emicrania (con o senza aura)"
+monitor_inn: "ZOLMITRIPTAN"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan

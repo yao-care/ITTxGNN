@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amikacin: nuova indicazione prevista, Febbre paratifoide (livello di evidenza L4). Indicazione originale: Polmonite batterica, infezioni da Pseudomonas aeruginosa, colangite…"
+monitor_inn: "amikacin"
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
 ---
 
 # Amikacin

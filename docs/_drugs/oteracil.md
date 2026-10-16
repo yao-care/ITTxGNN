@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oteracil: nuova indicazione prevista, Neoplasia del colon (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (il testo dell'indicazione autorizzata non è prese…"
+monitor_inn: "oteracil"
+predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 ---
 
 # Oteracil

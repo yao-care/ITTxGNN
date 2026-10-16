@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Acebutolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Disturbo ipertensivo / ipertensione (il testo dell'indicazione autori…"
+monitor_inn: "acebutolol"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension"]
 ---
 
 # Acebutolol

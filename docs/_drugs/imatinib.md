@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imatinib: nuova indicazione prevista, Fibrosarcoma cardiaco (livello di evidenza L5). Indicazione originale: Mastocitosi sistemica, tumore stromale gastrointestinale (GIST)…"
+monitor_inn: "IMATINIB"
+predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 ---
 
 # Imatinib

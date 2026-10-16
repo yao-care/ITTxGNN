@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Carcinoma del colon-retto metastatico, carcinoma epatocellulare…"
+monitor_inn: "REGORAFENIB"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 ---
 
 # Regorafenib

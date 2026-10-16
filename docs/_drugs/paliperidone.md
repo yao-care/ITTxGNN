@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Paliperidone: nuova indicazione prevista, Schizofrenia resistente al trattamento (previsione con evidenza dispo… (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo schizoaffettiv…"
+monitor_inn: "PALIPERIDONE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy", "treatment-refractory schizophrenia"]
 ---
 
 # Paliperidone

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norethisterone: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Endometriosi, insufficienza ovarica primaria…"
+monitor_inn: "norethisterone"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norethisterone

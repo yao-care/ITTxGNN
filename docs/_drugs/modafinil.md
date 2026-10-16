@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Modafinil: nuova indicazione prevista, Insonnia (livello di evidenza L3). Indicazione originale: Narcolessia e sindrome narcolessia-cataplessia (dal grafo di conoscen…"
+monitor_inn: "MODAFINIL"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Modafinil

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Fluconazole: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Candidosi (orale, vulvovaginale, esofagea, sistemica)…"
+monitor_inn: "fluconazole"
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fluconazole

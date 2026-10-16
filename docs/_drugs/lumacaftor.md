@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Lumacaftor: nuova indicazione prevista, Lebbra (livello di evidenza L5). Indicazione originale: Fibrosi cistica (derivata dal grafo di conoscenza TxGNN"
+monitor_inn: "lumacaftor"
+predicted_indications: ["leprosy"]
 ---
 
 # Lumacaftor
