@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 462,
+  "drug_count": 436,
   "indication_count": 1771,
   "drugs": [
     {
@@ -40,14 +40,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Acamprosato",
-      "slug": "acamprosato",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acarbose",
@@ -199,14 +191,6 @@
       ]
     },
     {
-      "name": "Aciclovir",
-      "slug": "aciclovir",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acitretin",
       "slug": "acitretin",
       "brands": [],
@@ -313,14 +297,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Adrenalina",
-      "slug": "adrenalina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Albendazole",
@@ -454,14 +430,6 @@
       ]
     },
     {
-      "name": "Alfuzosina",
-      "slug": "alfuzosina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Alirocumab",
       "slug": "alirocumab",
       "brands": [],
@@ -513,14 +481,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Alizapride",
-      "slug": "alizapride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Allopurinol",
@@ -589,14 +549,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Alogliptin",
-      "slug": "alogliptin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Alprostadil",
@@ -741,30 +693,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Amisulpride",
-      "slug": "amisulpride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amitriptilina",
-      "slug": "amitriptilina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amlodipina",
-      "slug": "amlodipina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Amlodipine",
@@ -954,14 +882,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Apomorfina",
-      "slug": "apomorfina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Apomorphine",
@@ -2980,14 +2900,6 @@
       ]
     },
     {
-      "name": "Clonidina",
-      "slug": "clonidina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Clonidine",
       "slug": "clonidine",
       "brands": [],
@@ -3071,14 +2983,6 @@
       ]
     },
     {
-      "name": "Clorpromazina",
-      "slug": "clorpromazina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Clothiapine",
       "slug": "clothiapine",
       "brands": [],
@@ -3091,14 +2995,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Clozapina",
-      "slug": "clozapina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Codeine",
@@ -3133,14 +3029,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Colchicina",
-      "slug": "colchicina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Colchicine",
@@ -3283,22 +3171,6 @@
       ]
     },
     {
-      "name": "Dabigatran",
-      "slug": "dabigatran",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Damoctocog Alfa Pegol",
-      "slug": "damoctocog-alfa-pegol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Danazol",
       "slug": "danazol",
       "brands": [],
@@ -3316,14 +3188,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Dapagliflozin",
-      "slug": "dapagliflozin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Deferasirox",
@@ -3394,14 +3258,6 @@
       ]
     },
     {
-      "name": "Deferoxamina",
-      "slug": "deferoxamina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Degarelix",
       "slug": "degarelix",
       "brands": [],
@@ -3438,14 +3294,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Desloratadina",
-      "slug": "desloratadina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Desloratadine",
@@ -3706,14 +3554,6 @@
       ]
     },
     {
-      "name": "Disulfiram",
-      "slug": "disulfiram",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Donepezil",
       "slug": "donepezil",
       "brands": [],
@@ -3816,14 +3656,6 @@
       ]
     },
     {
-      "name": "Doxazosina",
-      "slug": "doxazosina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Doxofylline",
       "slug": "doxofylline",
       "brands": [],
@@ -3904,22 +3736,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Dulaglutide",
-      "slug": "dulaglutide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Duloxetina",
-      "slug": "duloxetina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Duloxetine",
@@ -4024,14 +3840,6 @@
       ]
     },
     {
-      "name": "Ebastina",
-      "slug": "ebastina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ebastine",
       "slug": "ebastine",
       "brands": [],
@@ -4064,14 +3872,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Edoxaban",
-      "slug": "edoxaban",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Efmoroctocog Alfa",
@@ -4233,14 +4033,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Eliglustat",
-      "slug": "eliglustat",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Emicizumab",

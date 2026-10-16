@@ -12,7 +12,7 @@ I livelli di evidenza vanno da L1 (evidenza clinica più solida) a L5 (solo prev
 
 ## Contenuti principali
 
-- `/` Previsioni di Riposizionamento dei Farmaci — AI-powered drug repurposing predictions for Italy. Evidence-based analysis of approved medicines for potential new therapeutic indications.
+- `/` Previsioni di Riposizionamento dei Farmaci — Previsioni di riposizionamento dei farmaci basate sull'IA per l'Italia. Analisi basata sulle evidenze di possibili nuove indicazioni terapeutiche dei farmaci autorizzati.
 - `/drugs/` Tutti i farmaci — Tutte le schede di validazione dei farmaci e le statistiche sui livelli di prova in ITTxGNN.
 - `/evidence-high/` Prove elevate (L1-L2) — Candidati al riposizionamento dei farmaci di livello L1-L2 in ITTxGNN, supportati da studi clinici o revisioni sistematiche.
 - `/evidence-medium/` Prove moderate (L3-L4) — Candidati al riposizionamento dei farmaci di livello L3-L4 in ITTxGNN, sostenuti da prove osservazionali o precliniche.
