@@ -48,20 +48,15 @@ le prove vengono classificate da L1 a L5 e infine viene emessa una raccomandazio
 
 ---
 
-## Previsione a doppio motore
+## Come vengono generate le previsioni
 
-Due metodi vengono eseguiti in parallelo e un'etichetta di confidenza registra se concordano:
+Il modello di deep learning (DL) di TxGNN assegna un punteggio a ogni coppia farmaco–malattia. Vengono poi rimosse le indicazioni e le controindicazioni già registrate per il farmaco nel grafo di conoscenza (KG) di TxGNN, quindi le pagine dei farmaci mostrano solo nuove indicazioni previste con punteggio di almeno 0,99 (fino a 10 per farmaco).
 
-| Metodo | Velocità | Precisione | Descrizione |
-|--------|-------|-----------|-------------|
-| Grafo di conoscenza (KG) | Rapido | Inferiore | Inferenza sulle relazioni DrugBank e sulla struttura del grafo |
-| Deep learning (DL) | Lento | Superiore | Modello di rete neurale a grafo TxGNN |
-
-| Confidenza | Origine | Significato |
-|------------|--------|---------|
-| very_high | KG + DL | Entrambi i metodi concordano |
-| high | Solo DL | Supporto del deep learning con punteggio elevato |
-| medium | Solo KG | Supporto del grafo di conoscenza |
+| Fase | Ruolo |
+|------|-------|
+| Deep learning (DL) | La rete neurale su grafo di TxGNN assegna un punteggio a ogni coppia farmaco–malattia |
+| Verifica degli usi noti (KG) | Rimuove indicazioni e controindicazioni già registrate nel grafo di conoscenza; non sono conteggiate come nuove previsioni |
+| Raccolta delle evidenze | Cerca su ClinicalTrials.gov e PubMed ogni previsione rimanente e assegna un livello di evidenza (L1–L5) |
 
 ---
 
