@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Dulaglutide
 parent: Solo previsione del modello (L5)

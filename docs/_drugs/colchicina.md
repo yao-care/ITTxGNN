@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Colchicina
 parent: Solo previsione del modello (L5)

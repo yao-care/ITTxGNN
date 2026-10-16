@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Disulfiram
 parent: Solo previsione del modello (L5)

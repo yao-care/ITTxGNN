@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Dabigatran
 parent: Solo previsione del modello (L5)

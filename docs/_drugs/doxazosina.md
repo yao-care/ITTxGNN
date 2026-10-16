@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Doxazosina
 parent: Solo previsione del modello (L5)

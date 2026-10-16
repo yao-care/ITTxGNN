@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Desloratadina
 parent: Solo previsione del modello (L5)

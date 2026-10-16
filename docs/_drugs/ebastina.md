@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ebastina
 parent: Solo previsione del modello (L5)
