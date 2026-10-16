@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "total_count": 462,
+  "total_count": 436,
   "source": "ITTxGNN",
   "drugs": [
     {
@@ -22,16 +22,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/abaloparatide/"
-    },
-    {
-      "slug": "acamprosato",
-      "name": "Acamprosato",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acamprosato/"
     },
     {
       "slug": "acarbose",
@@ -94,16 +84,6 @@
       "url": "/drugs/acetazolamide/"
     },
     {
-      "slug": "aciclovir",
-      "name": "Aciclovir",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aciclovir/"
-    },
-    {
       "slug": "acitretin",
       "name": "Acitretin",
       "evidence_level": "L4",
@@ -122,16 +102,6 @@
       "predicted_indication": "Cheratocongiuntivite epiteliale puntata",
       "txgnn_score": "",
       "url": "/drugs/acyclovir/"
-    },
-    {
-      "slug": "adrenalina",
-      "name": "Adrenalina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/adrenalina/"
     },
     {
       "slug": "albendazole",
@@ -174,16 +144,6 @@
       "url": "/drugs/alfuzosin/"
     },
     {
-      "slug": "alfuzosina",
-      "name": "Alfuzosina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alfuzosina/"
-    },
-    {
       "slug": "alirocumab",
       "name": "Alirocumab",
       "evidence_level": "L5",
@@ -204,16 +164,6 @@
       "url": "/drugs/aliskiren/"
     },
     {
-      "slug": "alizapride",
-      "name": "Alizapride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alizapride/"
-    },
-    {
       "slug": "allopurinol",
       "name": "Allopurinol",
       "evidence_level": "L5",
@@ -232,16 +182,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/almotriptan/"
-    },
-    {
-      "slug": "alogliptin",
-      "name": "Alogliptin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alogliptin/"
     },
     {
       "slug": "alprostadil",
@@ -304,36 +244,6 @@
       "url": "/drugs/amiodarone/"
     },
     {
-      "slug": "amisulpride",
-      "name": "Amisulpride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amisulpride/"
-    },
-    {
-      "slug": "amitriptilina",
-      "name": "Amitriptilina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amitriptilina/"
-    },
-    {
-      "slug": "amlodipina",
-      "name": "Amlodipina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipina/"
-    },
-    {
       "slug": "amlodipine",
       "name": "Amlodipine",
       "evidence_level": "L5",
@@ -392,16 +302,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/apixaban/"
-    },
-    {
-      "slug": "apomorfina",
-      "name": "Apomorfina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/apomorfina/"
     },
     {
       "slug": "apomorphine",
@@ -1084,16 +984,6 @@
       "url": "/drugs/clonazepam/"
     },
     {
-      "slug": "clonidina",
-      "name": "Clonidina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/clonidina/"
-    },
-    {
       "slug": "clonidine",
       "name": "Clonidine",
       "evidence_level": "L5",
@@ -1114,16 +1004,6 @@
       "url": "/drugs/clopidogrel/"
     },
     {
-      "slug": "clorpromazina",
-      "name": "Clorpromazina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/clorpromazina/"
-    },
-    {
       "slug": "clothiapine",
       "name": "Clothiapine",
       "evidence_level": "L5",
@@ -1134,16 +1014,6 @@
       "url": "/drugs/clothiapine/"
     },
     {
-      "slug": "clozapina",
-      "name": "Clozapina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/clozapina/"
-    },
-    {
       "slug": "codeine",
       "name": "Codeine",
       "evidence_level": "L5",
@@ -1152,16 +1022,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/codeine/"
-    },
-    {
-      "slug": "colchicina",
-      "name": "Colchicina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/colchicina/"
     },
     {
       "slug": "colchicine",
@@ -1214,26 +1074,6 @@
       "url": "/drugs/cyclosporine/"
     },
     {
-      "slug": "dabigatran",
-      "name": "Dabigatran",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dabigatran/"
-    },
-    {
-      "slug": "damoctocog-alfa-pegol",
-      "name": "Damoctocog Alfa Pegol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/damoctocog-alfa-pegol/"
-    },
-    {
       "slug": "danazol",
       "name": "Danazol",
       "evidence_level": "L3",
@@ -1242,16 +1082,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/danazol/"
-    },
-    {
-      "slug": "dapagliflozin",
-      "name": "Dapagliflozin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dapagliflozin/"
     },
     {
       "slug": "deferasirox",
@@ -1274,16 +1104,6 @@
       "url": "/drugs/deferiprone/"
     },
     {
-      "slug": "deferoxamina",
-      "name": "Deferoxamina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/deferoxamina/"
-    },
-    {
       "slug": "degarelix",
       "name": "Degarelix",
       "evidence_level": "L5",
@@ -1302,16 +1122,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/denosumab/"
-    },
-    {
-      "slug": "desloratadina",
-      "name": "Desloratadina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/desloratadina/"
     },
     {
       "slug": "desloratadine",
@@ -1384,16 +1194,6 @@
       "url": "/drugs/disopyramide/"
     },
     {
-      "slug": "disulfiram",
-      "name": "Disulfiram",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/disulfiram/"
-    },
-    {
       "slug": "donepezil",
       "name": "Donepezil",
       "evidence_level": "L5",
@@ -1422,16 +1222,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/doxazosin/"
-    },
-    {
-      "slug": "doxazosina",
-      "name": "Doxazosina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/doxazosina/"
     },
     {
       "slug": "doxofylline",
@@ -1464,26 +1254,6 @@
       "url": "/drugs/dronedarone/"
     },
     {
-      "slug": "dulaglutide",
-      "name": "Dulaglutide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dulaglutide/"
-    },
-    {
-      "slug": "duloxetina",
-      "name": "Duloxetina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/duloxetina/"
-    },
-    {
       "slug": "duloxetine",
       "name": "Duloxetine",
       "evidence_level": "L2",
@@ -1514,16 +1284,6 @@
       "url": "/drugs/dutasteride/"
     },
     {
-      "slug": "ebastina",
-      "name": "Ebastina",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ebastina/"
-    },
-    {
       "slug": "ebastine",
       "name": "Ebastine",
       "evidence_level": "L5",
@@ -1532,16 +1292,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ebastine/"
-    },
-    {
-      "slug": "edoxaban",
-      "name": "Edoxaban",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/edoxaban/"
     },
     {
       "slug": "efmoroctocog-alfa",
@@ -1582,16 +1332,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/eletriptan/"
-    },
-    {
-      "slug": "eliglustat",
-      "name": "Eliglustat",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/eliglustat/"
     },
     {
       "slug": "emicizumab",
