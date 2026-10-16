@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 24
 evidence_level: L2
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Albendazole: nuova indicazione prevista, Echinococcosi alveolare (livello di evidenza L2). Indicazione originale: Echinococcosi cistica, cisticercosi…"
 ---
 
 # Albendazole

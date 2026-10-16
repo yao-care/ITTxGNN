@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 70
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bicalutamide: nuova indicazione prevista, Carcinoma mammario femminile (nona predizione per punteggio (livello di evidenza L2). Indicazione originale: Non disponibile nei dati compilati"
 ---
 
 # Bicalutamide

@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 108
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (livello di evidenza L4). Indicazione originale: Infezioni batteriche (febbre tifoide, salmonellosi…"
 ---
 
 # Ciprofloxacin

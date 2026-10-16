@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (prima nella classifica TxGNN) (livello di evidenza L5). Indicazione originale: Malattia di Alzheimer (dalle relazioni del gr…"
 ---
 
 # Galantamine

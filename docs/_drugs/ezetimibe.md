@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 188
 evidence_level: L1
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Ezetimibe: nuova indicazione prevista, Iperlipoproteinemia (livello di evidenza L1). Indicazione originale: Iperlipidemia (incluse ipercolesterolemia familiare omozigote e sitos…"
 ---
 
 # Ezetimibe

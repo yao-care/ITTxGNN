@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria, congiuntivite atopica…"
 ---
 
 # Fexofenadine

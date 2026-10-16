@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 177
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Erenumab: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (prevenzione)"
 ---
 
 # Erenumab

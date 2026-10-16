@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 327
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Olodaterol: nuova indicazione prevista, Bronchite (livello di evidenza L4). Indicazione originale: Broncopneumopatia cronica ostruttiva (BPCO)"
 ---
 
 # Olodaterol

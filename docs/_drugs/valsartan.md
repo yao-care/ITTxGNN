@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 459
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 ---
 
 # Valsartan

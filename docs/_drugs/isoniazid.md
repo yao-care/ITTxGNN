@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 245
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Isoniazid: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Tubercolosi polmonare (dal grafo di conoscenza TxGNN"
 ---
 
 # Isoniazid

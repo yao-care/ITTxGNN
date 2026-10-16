@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 368
 evidence_level: L3
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Pyridostigmine: nuova indicazione prevista, Miastenia gravis con iperplasia del timo (livello di evidenza L3). Indicazione originale: Miastenia gravis (dalle indicazioni di riferimento del grafo di c…"
 ---
 
 # Pyridostigmine

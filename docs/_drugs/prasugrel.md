@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 358
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Prasugrel: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L3). Indicazione originale: Sindrome coronarica acuta"
 ---
 
 # Prasugrel

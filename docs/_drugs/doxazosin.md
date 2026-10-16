@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 152
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Doxazosin: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L4). Indicazione originale: Ipertensione e iperplasia prostatica benigna"
 ---
 
 # Doxazosin

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Quinapril: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione (testo dell'indicazione autorizzata non disponibile nei…"
 ---
 
 # Quinapril

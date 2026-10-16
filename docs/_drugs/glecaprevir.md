@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C (dal grafo di conoscenza"
 ---
 
 # Glecaprevir

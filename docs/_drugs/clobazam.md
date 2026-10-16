@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 114
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clobazam: nuova indicazione prevista, Sindrome epilettica correlata a infezione febbrile (FIRES) (livello di evidenza L4). Indicazione originale: Sindrome di Lennox-Gastaut (dal grafo di conoscenza"
 ---
 
 # Clobazam

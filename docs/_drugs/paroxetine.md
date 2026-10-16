@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (livello di evidenza L5). Indicazione originale: Disturbo depressivo maggiore, disturbi d'ansia…"
 ---
 
 # Paroxetine

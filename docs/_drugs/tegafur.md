@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 423
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tegafur: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (nei dati compilati compaiono anche neoplasia gast…"
 ---
 
 # Tegafur

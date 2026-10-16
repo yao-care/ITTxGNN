@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 469
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ziprasidone: nuova indicazione prevista, Disturbo affettivo maggiore (major affective disorder) (livello di evidenza L2). Indicazione originale: Schizofrenia, disturbo bipolare…"
 ---
 
 # Ziprasidone

@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 205
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluoxetine: nuova indicazione prevista, Disturbo schizotipico di personalità (livello di evidenza L3). Indicazione originale: Disturbo depressivo maggiore, disturbi d'ansia…"
 ---
 
 # Fluoxetine

@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (dislipidemia e rischio cardiovascolare associati) (livello di evidenza L2). Indicazione originale: Iperlipidemie (ipertrigliceridemia, iperl…"
 ---
 
 # Pravastatin

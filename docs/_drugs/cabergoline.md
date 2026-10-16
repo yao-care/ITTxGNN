@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 82
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Cabergoline: nuova indicazione prevista, Adenocarcinoma ipofisario (livello di evidenza L4). Indicazione originale: Iperprolattinemia (comprese le forme familiari e acquisite) e tumore…"
 ---
 
 # Cabergoline

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia"
 ---
 
 # Emicizumab

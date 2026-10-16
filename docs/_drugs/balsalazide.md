@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Balsalazide: nuova indicazione prevista, Gotta (livello di evidenza L5). Indicazione originale: Colite ulcerosa"
 ---
 
 # Balsalazide

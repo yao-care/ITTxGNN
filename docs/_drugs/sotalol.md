@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 410
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Sotalol: nuova indicazione prevista, Stroke disorder (ictus) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza TxGNN"
 ---
 
 # Sotalol

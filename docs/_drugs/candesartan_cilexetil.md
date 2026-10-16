@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Candesartan Cilexetil: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 ---
 
 # Candesartan Cilexetil

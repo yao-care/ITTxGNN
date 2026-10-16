@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 174
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (livello di evidenza L3). Indicazione originale: Infezione cronica da virus dell'epatite B (il testo dell'indicazione…"
 ---
 
 # Entecavir

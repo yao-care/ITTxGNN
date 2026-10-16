@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 391
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (livello di evidenza L5). Indicazione originale: Anemia refrattaria (dal grafo di conoscenza TxGNN"
 ---
 
 # Roxadustat

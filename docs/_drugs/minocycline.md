@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Minocycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni batteriche e altre condizioni (infezioni delle vie urinarie…"
 ---
 
 # Minocycline

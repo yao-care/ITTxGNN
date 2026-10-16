@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 443
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L3). Indicazione originale: Carcinoma ovarico (inclusi adenocarcinoma ovarico…"
 ---
 
 # Topotecan

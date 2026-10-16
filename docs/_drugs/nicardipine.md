@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Nicardipine: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (seconda pre… (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (disturbo ipert…"
 ---
 
 # Nicardipine

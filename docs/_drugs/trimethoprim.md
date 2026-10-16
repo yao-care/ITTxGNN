@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezione delle vie urinarie, otite media infettiva, pneumocistosi…"
 ---
 
 # Trimethoprim

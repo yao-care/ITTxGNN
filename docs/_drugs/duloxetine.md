@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 159
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Duloxetine: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L2). Indicazione originale: Depressione maggiore (unipolare ed endogena), disturbi d'ansia…"
 ---
 
 # Duloxetine

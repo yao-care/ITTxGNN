@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 304
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 ---
 
 # Mirtazapine

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Miglustat: nuova indicazione prevista, Malattia di Tay-Sachs (7ª nella classifica delle previsioni (livello di evidenza L5). Indicazione originale: Malattia di Gaucher"
 ---
 
 # Miglustat

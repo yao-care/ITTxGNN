@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Doxofylline: nuova indicazione prevista, Sindrome di Pierre Robin associata ad anomalia cromosomica (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (t…"
 ---
 
 # Doxofylline

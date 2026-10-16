@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 363
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Procarbazine: nuova indicazione prevista, Linfoma follicolare (livello di evidenza L3). Indicazione originale: Linfoma di Hodgkin (incluso il linfoma di Hodgkin classico)"
 ---
 
 # Procarbazine

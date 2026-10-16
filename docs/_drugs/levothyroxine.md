@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 269
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levothyroxine: nuova indicazione prevista, Gozzo nodulare (malattia) (livello di evidenza L5). Indicazione originale: Ipotiroidismo (e altre patologie tiroidee: mixedema…"
 ---
 
 # Levothyroxine

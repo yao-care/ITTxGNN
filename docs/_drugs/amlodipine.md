@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amlodipine: nuova indicazione prevista, Emorragia intracerebrale (indicazione con le evidenze più forti (livello di evidenza L5). Indicazione originale: Ipertensione, angina di Prinzmetal…"
 ---
 
 # Amlodipine

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Labetalol: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Disturbi ipertensivi / ipertensione (dal grafo di conoscenza TxGNN"
 ---
 
 # Labetalol

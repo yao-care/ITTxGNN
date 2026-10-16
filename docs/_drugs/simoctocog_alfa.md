@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Simoctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia (incluso il quadro sintomatico dell'emofilia nelle donne por…"
 ---
 
 # Simoctocog Alfa

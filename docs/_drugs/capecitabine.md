@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 87
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Capecitabine: nuova indicazione prevista, Adenocarcinoma gastrico tubulare (rango 4 per evidenza (livello di evidenza L1). Indicazione originale: Carcinoma gastrico e metastasi da tumore maligno del …"
 ---
 
 # Capecitabine

@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 255
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lanadelumab: nuova indicazione prevista, Deficit di C1 inibitore (livello di evidenza L1). Indicazione originale: Angioedema ereditario (anche con deficit di C1 inibitore)"
 ---
 
 # Lanadelumab

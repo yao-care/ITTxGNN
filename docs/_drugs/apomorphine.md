@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Apomorphine: nuova indicazione prevista, Schizofrenia (indicazione con evidenza più ampia tra le prime 10 prev… (livello di evidenza L5). Indicazione originale: Malattia di Parkinson (il testo delle …"
 ---
 
 # Apomorphine

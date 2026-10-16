@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Chlorpromazine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare maniacale…"
 ---
 
 # Chlorpromazine

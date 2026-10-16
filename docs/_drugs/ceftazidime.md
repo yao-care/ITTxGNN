@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ceftazidime: nuova indicazione prevista, Infezione delle vie urinarie (valutata) (livello di evidenza L5). Indicazione originale: Infezioni batteriche (streptococciche, polmonite batterica…"
 ---
 
 # Ceftazidime

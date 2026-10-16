@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Budesonide: nuova indicazione prevista, Bronchite (candidato con evidenza più solida (livello di evidenza L5). Indicazione originale: Malattia di Crohn, malattie infiammatorie intestinali, asma…"
 ---
 
 # Budesonide

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Paromomycin: nuova indicazione prevista, Cirrosi associata al rame idiopatica (livello di evidenza L5). Indicazione originale: Coma epatico / encefalopatia epatica (dal grafo di conoscenza TxGNN"
 ---
 
 # Paromomycin

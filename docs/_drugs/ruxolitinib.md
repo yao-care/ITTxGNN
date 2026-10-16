@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ruxolitinib: nuova indicazione prevista, Tumore a cellule epitelioidi perivascolari del corpo uterino (livello di evidenza L5). Indicazione originale: Neoplasie mieloproliferative (policitemia vera, …"
 ---
 
 # Ruxolitinib

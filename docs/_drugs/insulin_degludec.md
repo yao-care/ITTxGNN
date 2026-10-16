@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 240
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Insulin Degludec: nuova indicazione prevista, Diabete mellito di tipo 1 (livello di evidenza L1). Indicazione originale: Diabete mellito (il testo dell'indicazione approvata nelle autorizzaz…"
 ---
 
 # Insulin Degludec

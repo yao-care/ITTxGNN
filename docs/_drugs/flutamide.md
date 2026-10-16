@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flutamide: nuova indicazione prevista, Suscettibilità al carcinoma prostatico/cerebrale (livello di evidenza L5). Indicazione originale: Carcinoma della prostata (testo dell'indicazione AIFA non disp…"
 ---
 
 # Flutamide

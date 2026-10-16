@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Catridecacog: nuova indicazione prevista, Disturbo primario di rilascio piastrinico (livello di evidenza L5). Indicazione originale: Deficit di fattore XIII…"
 ---
 
 # Catridecacog

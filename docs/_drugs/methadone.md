@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 289
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Methadone: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 ---
 
 # Methadone

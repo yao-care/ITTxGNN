@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 465
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (livello di evidenza L2). Indicazione originale: Carcinoma polmonare non a piccole cellule / tumore del polmone (dal g…"
 ---
 
 # Vinorelbine

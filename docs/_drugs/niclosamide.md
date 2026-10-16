@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 319
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Niclosamide: nuova indicazione prevista, Malattia cardiaca (heart disease) (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati"
 ---
 
 # Niclosamide

@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 293
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylprednisolone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Malattie autoimmuni (tra cui malattia di Crohn…"
 ---
 
 # Methylprednisolone

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pioglitazone: nuova indicazione prevista, Opsismodisplasia (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 ---
 
 # Pioglitazone

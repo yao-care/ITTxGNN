@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 71
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bimatoprost: nuova indicazione prevista, Alopecia (livello di evidenza L2). Indicazione originale: Glaucoma ad angolo aperto e ipertensione oculare (dal grafo di conosc…"
 ---
 
 # Bimatoprost

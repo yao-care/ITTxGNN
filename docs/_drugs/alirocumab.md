@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alirocumab: nuova indicazione prevista, Ittiosi X-linked senza deficit di steroide solfatasi (livello di evidenza L5). Indicazione originale: Dislipidemia sindromica, aterosclerosi, arteriosclerosi…"
 ---
 
 # Alirocumab

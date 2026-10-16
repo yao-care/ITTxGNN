@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 136
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Deferasirox: nuova indicazione prevista, Infezione da HIV (livello di evidenza L4). Indicazione originale: Talassemia beta ed emoglobinopatie (dal grafo di conoscenza TxGNN"
 ---
 
 # Deferasirox

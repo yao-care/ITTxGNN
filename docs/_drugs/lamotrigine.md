@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (incluse epilessia parziale e sindrome di Lennox-Gastaut)"
 ---
 
 # Lamotrigine

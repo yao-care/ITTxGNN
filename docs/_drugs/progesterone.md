@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 364
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Progesterone: nuova indicazione prevista, Amenorrea (livello di evidenza L2). Indicazione originale: Endometriosi, patologie endometriali, osteoporosi post-menopausale…"
 ---
 
 # Progesterone

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Rufinamide: nuova indicazione prevista, Sindrome epilettica correlata a infezione febbrile (FIRES) (livello di evidenza L5). Indicazione originale: Sindrome di Lennox-Gastaut (dalla base di conoscenz…"
 ---
 
 # Rufinamide

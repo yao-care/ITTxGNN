@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Degarelix: nuova indicazione prevista, Ipertricosi (malattia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati per questo report (le autorizzazioni…"
 ---
 
 # Degarelix

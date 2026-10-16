@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide: nuova indicazione prevista, Sarcoma di Ewing (la predizione con il punteggio più alto… (livello di evidenza L5). Indicazione originale: Carcinoma polmonare a piccole cellule"
 ---
 
 # Etoposide

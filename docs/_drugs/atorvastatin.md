@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 57
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Atorvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (livello di evidenza L1). Indicazione originale: Ipertrigliceridemia, iperlipoproteinemia, aterosclerosi…"
 ---
 
 # Atorvastatin

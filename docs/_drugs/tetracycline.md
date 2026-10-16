@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 432
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Tetracycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Infezioni delle vie urinarie, bronchite, acne, antrace, gonorrea…"
 ---
 
 # Tetracycline

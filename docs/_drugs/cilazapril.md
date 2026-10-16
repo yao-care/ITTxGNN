@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 107
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Cilazapril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (livello di evidenza L4). Indicazione originale: Ipertensione arteriosa (indicazione ricavata dal graf…"
 ---
 
 # Cilazapril

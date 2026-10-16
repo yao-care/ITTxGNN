@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 181
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (livello di evidenza L3). Indicazione originale: Iperparatiroidismo (testo di indicazione autorizzata non disponibile…"
 ---
 
 # Etelcalcetide

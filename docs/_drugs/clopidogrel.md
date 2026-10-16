@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 121
 evidence_level: L2
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Clopidogrel: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L2). Indicazione originale: Sindrome coronarica acuta, embolia intracranica…"
 ---
 
 # Clopidogrel

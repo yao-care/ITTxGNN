@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 21
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Acitretin: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA…"
 ---
 
 # Acitretin

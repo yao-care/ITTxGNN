@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 35
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alprostadil: nuova indicazione prevista, Malformazione aortica (livello di evidenza L4). Indicazione originale: Disfunzione erettile (fonte: grafo di conoscenza"
 ---
 
 # Alprostadil

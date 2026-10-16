@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Teriparatide: nuova indicazione prevista, Ulcera duodenale (livello di evidenza L5). Indicazione originale: Osteoporosi postmenopausale / osteoporosi (da indicazioni del grafo d…"
 ---
 
 # Teriparatide

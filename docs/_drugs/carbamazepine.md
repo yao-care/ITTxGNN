@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carbamazepine: nuova indicazione prevista, Tumore del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (anche parziale e tonico-clonica generalizzata)…"
 ---
 
 # Carbamazepine

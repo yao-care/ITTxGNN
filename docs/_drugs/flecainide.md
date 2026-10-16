@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 199
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L5). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza"
 ---
 
 # Flecainide

@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 202
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flunisolide: nuova indicazione prevista, Eczema atopico (livello di evidenza L4). Indicazione originale: Asma, asma intrinseca, asma allergica, rinite allergica…"
 ---
 
 # Flunisolide

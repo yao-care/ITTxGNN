@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 384
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Ritonavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L4). Indicazione originale: Infezione da HIV / AIDS"
 ---
 
 # Ritonavir

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Sumatriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Emicrania e cefalea a grappolo (dal grafo di conoscenza"
 ---
 
 # Sumatriptan

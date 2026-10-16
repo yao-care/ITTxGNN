@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Felodipine: nuova indicazione prevista, Ipertensione polmonare con meccanismo multifattoriale non chiaro (pri… (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (il testo delle …"
 ---
 
 # Felodipine

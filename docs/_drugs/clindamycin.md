@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Clindamycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni da stafilococco e streptococco, acne, vaginosi batterica…"
 ---
 
 # Clindamycin

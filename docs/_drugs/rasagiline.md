@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (livello di evidenza L5). Indicazione originale: Morbo di Parkinson (e sindromi parkinsoniane correlate…"
 ---
 
 # Rasagiline

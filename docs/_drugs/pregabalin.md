@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pregabalin: nuova indicazione prevista, Emicrania (disturbo emicranico) (livello di evidenza L5). Indicazione originale: Disturbo d'ansia, fibromialgia, sindrome miofasciale dolorosa…"
 ---
 
 # Pregabalin

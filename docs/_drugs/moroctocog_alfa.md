@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Moroctocog Alfa: nuova indicazione prevista, Disturbo da rilascio piastrinico primario (livello di evidenza L5). Indicazione originale: Emofilia (inclusa la forma sintomatica nelle portatrici femmini…"
 ---
 
 # Moroctocog Alfa

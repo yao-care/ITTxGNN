@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paliperidone: nuova indicazione prevista, Schizofrenia resistente al trattamento (previsione con evidenza dispo… (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo schizoaffettiv…"
 ---
 
 # Paliperidone

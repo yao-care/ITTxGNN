@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (livello di evidenza L5). Indicazione originale: Embolia polmonare, coagulazione intravascolare diss…"
 ---
 
 # Enoxaparin

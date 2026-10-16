@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 262
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Letrozole: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L1). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni nelle a…"
 ---
 
 # Letrozole

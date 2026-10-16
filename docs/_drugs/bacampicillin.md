@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 60
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bacampicillin: nuova indicazione prevista, Malattia dell'uretra (nello specifico, uretrite non gonococcica) (livello di evidenza L3). Indicazione originale: Infezioni delle vie urinarie, gonorrea, fa…"
 ---
 
 # Bacampicillin

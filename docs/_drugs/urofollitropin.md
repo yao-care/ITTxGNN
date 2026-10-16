@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Urofollitropin: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati (nessun testo di indicazione nelle a…"
 ---
 
 # Urofollitropin

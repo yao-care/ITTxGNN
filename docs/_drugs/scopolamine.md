@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (livello di evidenza L5). Indicazione originale: Cinetosi, sindrome dell'intestino irritabile, ulcera peptica…"
 ---
 
 # Scopolamine

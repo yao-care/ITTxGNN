@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 37
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amikacin: nuova indicazione prevista, Febbre paratifoide (livello di evidenza L4). Indicazione originale: Polmonite batterica, infezioni da Pseudomonas aeruginosa, colangite…"
 ---
 
 # Amikacin

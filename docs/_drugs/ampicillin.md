@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 46
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ampicillin: nuova indicazione prevista, Laringite (livello di evidenza L4). Indicazione originale: Infezioni batteriche (ad es. infezioni delle vie urinarie…"
 ---
 
 # Ampicillin

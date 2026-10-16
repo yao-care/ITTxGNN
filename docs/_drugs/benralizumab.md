@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Benralizumab: nuova indicazione prevista, Dermatite (in particolare dermatite atopica) (livello di evidenza L5). Indicazione originale: Polmonite eosinofila"
 ---
 
 # Benralizumab

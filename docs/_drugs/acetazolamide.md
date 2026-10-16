@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Acetazolamide: nuova indicazione prevista, Ipertermia maligna indotta da esercizio (livello di evidenza L5). Indicazione originale: Epilessia da assenza, scompenso cardiaco congestizio…"
 ---
 
 # Acetazolamide

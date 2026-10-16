@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 208
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile (testo delle indicazioni assente nelle autorizzazioni…"
 ---
 
 # Fluticasone

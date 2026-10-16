@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolcapone: nuova indicazione prevista, Encefalite subacuta di Rasmussen (livello di evidenza L5). Indicazione originale: Morbo di Parkinson e sindromi parkinsoniane correlate (il testo dell'…"
 ---
 
 # Tolcapone

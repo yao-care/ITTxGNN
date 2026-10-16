@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 301
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Midazolam: nuova indicazione prevista, Insonnia (livello di evidenza L3). Indicazione originale: Ansia"
 ---
 
 # Midazolam

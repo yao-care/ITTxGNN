@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 30
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Aliskiren: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (livello di evidenza L4). Indicazione originale: Ipertensione arteriosa (disturbo ipertensivo)"
 ---
 
 # Aliskiren

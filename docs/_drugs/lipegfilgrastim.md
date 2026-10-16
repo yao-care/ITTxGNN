@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 273
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lipegfilgrastim: nuova indicazione prevista, Disturbo primario di rilascio piastrinico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione A…"
 ---
 
 # Lipegfilgrastim

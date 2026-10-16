@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 419
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tamoxifen: nuova indicazione prevista, Carcinoma mammario in situ (DCIS e neoplasia intraepiteliale) (livello di evidenza L1). Indicazione originale: Carcinoma mammario femminile (carcinoma duttale i…"
 ---
 
 # Tamoxifen

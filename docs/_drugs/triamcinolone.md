@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 451
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). Indicazione originale: Malattie autoimmuni, insufficienza surrenalica, malattia di Crohn…"
 ---
 
 # Triamcinolone

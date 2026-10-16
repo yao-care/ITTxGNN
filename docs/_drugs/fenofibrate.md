@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 195
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Fenofibrate: nuova indicazione prevista, Ipercolesterolemia familiare omozigote (livello di evidenza L4). Indicazione originale: Ipertrigliceridemia, iperlipidemia, iperlipidemia familiare combinata…"
 ---
 
 # Fenofibrate

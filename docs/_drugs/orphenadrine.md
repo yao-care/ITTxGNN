@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Orphenadrine: nuova indicazione prevista, Schizofrenia (livello di evidenza L5). Indicazione originale: Parkinsonismo / malattia di Parkinson"
 ---
 
 # Orphenadrine

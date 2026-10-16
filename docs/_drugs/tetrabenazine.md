@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tetrabenazine: nuova indicazione prevista, Malattia policistica renale di tipo 3 con o senza malattia policistic… (livello di evidenza L5). Indicazione originale: Malattia di Huntington (e condizioni…"
 ---
 
 # Tetrabenazine

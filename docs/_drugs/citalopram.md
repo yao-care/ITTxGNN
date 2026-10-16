@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 109
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L2). Indicazione originale: Disturbo depressivo maggiore, depressione unipolare e endogena…"
 ---
 
 # Citalopram

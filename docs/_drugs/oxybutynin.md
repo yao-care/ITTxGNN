@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (livello di evidenza L5). Indicazione originale: Vescica iperattiva, vescica neurogena (dal grafo di conoscenza"
 ---
 
 # Oxybutynin

@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 339
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pantoprazole: nuova indicazione prevista, Ulcera peptica attiva (livello di evidenza L1). Indicazione originale: Ulcera peptica, malattia da reflusso gastroesofageo, esofagite…"
 ---
 
 # Pantoprazole

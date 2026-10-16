@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Ciclesonide: nuova indicazione prevista, Eczema atopico (livello di evidenza L5). Indicazione originale: Asma, asma intrinseco, asma allergico, rinite allergica…"
 ---
 
 # Ciclesonide

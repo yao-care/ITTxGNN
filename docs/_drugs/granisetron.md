@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 ---
 
 # Granisetron

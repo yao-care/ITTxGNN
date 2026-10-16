@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Eftrenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia (anche forma sintomatica nelle portatrici femminili)…"
 ---
 
 # Eftrenonacog Alfa

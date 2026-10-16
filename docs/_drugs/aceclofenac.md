@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 16
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Aceclofenac: nuova indicazione prevista, Spondilopatia infiammatoria (livello di evidenza L4). Indicazione originale: Artrite reumatoide, spondilite anchilosante, osteoartrosi, artropatia…"
 ---
 
 # Aceclofenac

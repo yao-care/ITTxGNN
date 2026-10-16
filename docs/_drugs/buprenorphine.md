@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 79
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Buprenorphine: nuova indicazione prevista, Porfiria acuta intermittente (livello di evidenza L4). Indicazione originale: Dipendenza da oppioidi"
 ---
 
 # Buprenorphine

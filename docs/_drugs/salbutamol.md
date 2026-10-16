@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Salbutamol: nuova indicazione prevista, Congiuntivite papillare (livello di evidenza L5). Indicazione originale: Asma e malattia bronchiale (dal grafo di conoscenza"
 ---
 
 # Salbutamol

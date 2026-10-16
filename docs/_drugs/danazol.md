@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 134
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Danazol: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Endometriosi, endometriosi dell'utero…"
 ---
 
 # Danazol

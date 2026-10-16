@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 285
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Mepolizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (livello di evidenza L4). Indicazione originale: Polmonite eosinofila / eosinofilia polmonare (dal grafo di conosce…"
 ---
 
 # Mepolizumab

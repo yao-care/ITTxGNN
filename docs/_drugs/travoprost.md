@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Travoprost: nuova indicazione prevista, Calcifilassi viscerale (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto…"
 ---
 
 # Travoprost

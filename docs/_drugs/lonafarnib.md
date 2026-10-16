@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Lonafarnib: nuova indicazione prevista, Lebbra (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione nelle a…"
 ---
 
 # Lonafarnib

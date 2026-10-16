@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 67
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Betamethasone: nuova indicazione prevista, Alopecia areata (livello di evidenza L2). Indicazione originale: Malattie autoimmuni e infiammatorie (es. morbo di Crohn…"
 ---
 
 # Betamethasone

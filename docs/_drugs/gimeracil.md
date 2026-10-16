@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 220
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Gimeracil: nuova indicazione prevista, Neoplasia del colon (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (dal grafo di conoscenza"
 ---
 
 # Gimeracil

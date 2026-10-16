@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Glimepiride: nuova indicazione prevista, Sindrome della persona rigida classica (classic stiff person syndrome) (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 ---
 
 # Glimepiride

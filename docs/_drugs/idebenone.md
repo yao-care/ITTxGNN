@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Idebenone: nuova indicazione prevista, Porfiria epatica (livello di evidenza L5). Indicazione originale: Neuropatia ottica ereditaria di Leber (fonte: grafo di conoscenza TxG…"
 ---
 
 # Idebenone

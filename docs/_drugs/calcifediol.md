@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Calcifediol: nuova indicazione prevista, Carenza di vitamina D (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo…"
 ---
 
 # Calcifediol

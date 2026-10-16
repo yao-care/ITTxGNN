@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 100
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Celecoxib: nuova indicazione prevista, Spondilopatia infiammatoria (inflammatory spondylopathy) (livello di evidenza L1). Indicazione originale: Artrite reumatoide, spondilite anchilosante, osteoartr…"
 ---
 
 # Celecoxib

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramipril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (livello di evidenza L5). Indicazione originale: Ipertensione e malattie cerebrovascolari/ictus (dal gra…"
 ---
 
 # Ramipril

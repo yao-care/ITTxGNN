@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 390
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rotigotine: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L4). Indicazione originale: Sindrome delle gambe senza riposo…"
 ---
 
 # Rotigotine

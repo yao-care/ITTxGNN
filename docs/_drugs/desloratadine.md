@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 142
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Desloratadine: nuova indicazione prevista, Orticaria da freddo (cold urticaria) (livello di evidenza L1). Indicazione originale: Rinite allergica, rinite vasomotoria…"
 ---
 
 # Desloratadine

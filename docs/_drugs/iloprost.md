@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 233
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Iloprost: nuova indicazione prevista, PAH associata a cardiopatia congenita (predizione di rango 3) (livello di evidenza L3). Indicazione originale: Ipertensione arteriosa polmonare (fonte: grafo di …"
 ---
 
 # Iloprost

@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 405
 evidence_level: L1
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Simvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (livello di evidenza L1). Indicazione originale: Ipercolesterolemia/dislipidemie e malattie aterosclerotiche e cerebro…"
 ---
 
 # Simvastatin

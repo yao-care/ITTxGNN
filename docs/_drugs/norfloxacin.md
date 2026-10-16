@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (infezioni delle vie urinarie, febbre tifoide…"
 ---
 
 # Norfloxacin

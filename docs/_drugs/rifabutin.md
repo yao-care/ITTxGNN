@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 378
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rifabutin: nuova indicazione prevista, Infezione da HIV (infectious disease) (livello di evidenza L1). Indicazione originale: Non disponibile nei dati compilati"
 ---
 
 # Rifabutin

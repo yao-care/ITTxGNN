@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 182
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ethambutol: nuova indicazione prevista, Epiglottite (livello di evidenza L4). Indicazione originale: Tubercolosi polmonare (da archi di indicazione del grafo di conoscenza"
 ---
 
 # Ethambutol

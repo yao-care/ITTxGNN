@@ -5,6 +5,8 @@ parent: Prove elevate (L1-L2)
 nav_order: 36
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ambrisentan: nuova indicazione prevista, PAH associata a malattia del tessuto connettivo (selezionata tra le p… (livello di evidenza L2). Indicazione originale: Ipertensione arteriosa polmonare"
 ---
 
 # Ambrisentan

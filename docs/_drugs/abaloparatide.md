@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Abaloparatide: nuova indicazione prevista, Malformazione esofagea non sindromica (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale ad alto rischio di frattura"
 ---
 
 # Abaloparatide

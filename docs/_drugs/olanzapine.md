@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare, depressione…"
 ---
 
 # Olanzapine

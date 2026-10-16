@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (livello di evidenza L5). Indicazione originale: Carenza vitaminica"
 ---
 
 # Folic Acid

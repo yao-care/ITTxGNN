@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 190
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Famotidine: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L4). Indicazione originale: Ulcera gastrica e duodenale, reflusso gastroesofageo, esofagite…"
 ---
 
 # Famotidine

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (livello di evidenza L5). Indicazione originale: Embolia polmonare, coagulazione intravascolare disseminata…"
 ---
 
 # Parnaparin

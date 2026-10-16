@@ -5,6 +5,8 @@ parent: Prove moderate (L3-L4)
 nav_order: 129
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primitivo (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione dell'un…"
 ---
 
 # Cortisone

@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare (mania)…"
 ---
 
 # Risperidone

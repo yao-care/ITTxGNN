@@ -5,6 +5,8 @@ parent: Solo previsione del modello (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (crisi tonico-cloniche generalizzate, crisi parziali…"
 ---
 
 # Phenytoin
