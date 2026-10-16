@@ -70,7 +70,7 @@ per cui il rischio di fallimento è inferiore.
 ## Che cos'è TxGNN?
 
 <p class="key-answer" data-question="Che cos'è TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> è un modello di deep learning
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> è un modello di deep learning
 sviluppato dallo Zitnik Lab della Harvard Medical School e pubblicato su <em>Nature Medicine</em>.
 Prevede nuove associazioni farmaco&ndash;malattia ed è il primo modello di base per il riposizionamento
 dei farmaci progettato specificamente per i clinici.
@@ -105,7 +105,7 @@ le malattie rare."
 ## Base accademica
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Previsioni di Riposizionamento dei Farmaci
 nav_order: 1
-description: "AI-powered drug repurposing predictions for Italy. Evidence-based analysis of approved medicines for potential new therapeutic indications."
+description: "Previsioni di riposizionamento dei farmaci basate sull'IA per l'Italia. Analisi basata sulle evidenze di possibili nuove indicazioni terapeutiche dei farmaci autorizzati."
 permalink: /
 ---
 
