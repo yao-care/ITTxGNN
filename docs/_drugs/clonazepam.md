@@ -6,9 +6,9 @@ nav_order: 118
 evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). Indicazione originale: Epilessia (assenza, sindrome di Lennox-Gastaut…"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
+description: "Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3)."
 ---
 
 # Clonazepam

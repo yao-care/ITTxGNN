@@ -6,9 +6,9 @@ nav_order: 159
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Duloxetine: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L2). Indicazione originale: Depressione maggiore (unipolare ed endogena), disturbi d'ansia…"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+description: "Duloxetine: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L2)."
 ---
 
 # Duloxetine

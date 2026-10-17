@@ -6,9 +6,9 @@ nav_order: 147
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Diltiazem: nuova indicazione prevista, Suscettibilità all'ictus ischemico (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipertensione, fibrillazione atriale, angina di Prinzmetal…"
 monitor_inn: "DILTIAZEM"
 predicted_indications: ["obsolete susceptibility to ischemic stroke"]
+description: "Diltiazem: nuova indicazione prevista, Suscettibilità all'ictus ischemico (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipertensione, fibrillazione atriale, angina di Prinzmetal"
 ---
 
 # Diltiazem

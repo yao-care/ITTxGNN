@@ -6,9 +6,9 @@ nav_order: 325
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Octreotide: nuova indicazione prevista, Cheratosi follicolare invertita vulvare (livello di evidenza L5). Indicazione originale: Acromegalia, iperpituitarismo…"
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
+description: "Octreotide: nuova indicazione prevista, Cheratosi follicolare invertita vulvare (livello di evidenza L5)."
 ---
 
 # Octreotide
