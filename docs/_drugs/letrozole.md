@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Letrozole: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L1). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni nelle a…"
 monitor_inn: "letrozole"
-predicted_indications: ["female breast carcinoma", "nipple carcinoma", "estrogen-receptor negative breast cancer", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "breast fibrocystic disease", "benign mammary dysplasia"]
+predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Letrozole
@@ -27,7 +27,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

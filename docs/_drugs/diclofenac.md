@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Testo di indicazione autorizzata non disponibile nei dati compilati.…"
 monitor_inn: "DICLOFENAC"
-predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "WHIM syndrome"]
 ---
 
 # Diclofenac
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

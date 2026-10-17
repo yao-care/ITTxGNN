@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nystatin: nuova indicazione prevista, Vulvovaginite (livello di evidenza L3). Indicazione originale: Candidosi cutanea, orale, vulvovaginale (dal grafo di conoscenza TxGNN"
 monitor_inn: "Nystatin"
-predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 ---
 
 # Nystatin
@@ -27,7 +27,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

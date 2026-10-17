@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Fremanezumab: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (disturbo emicranico"
 monitor_inn: "FREMANEZUMAB"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
+predicted_indications: ["atrophoderma vermiculata"]
 ---
 
 # Fremanezumab
@@ -27,7 +27,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

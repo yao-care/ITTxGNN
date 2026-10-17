@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Desloratadine: nuova indicazione prevista, Orticaria da freddo (cold urticaria) (livello di evidenza L1). Indicazione originale: Rinite allergica, rinite vasomotoria…"
 monitor_inn: "Desloratadine"
-predicted_indications: ["cold urticaria", "nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 ---
 
 # Desloratadine
@@ -27,7 +27,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

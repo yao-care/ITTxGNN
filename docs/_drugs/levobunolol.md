@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Levobunolol: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto e ipertensione oculare (da base di conoscen…"
-monitor_inn: "levobunolol"
-predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Levobunolol
@@ -27,7 +25,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Acetaminophen: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria, emicrania, raffreddore comun…"
-monitor_inn: "acetaminophen"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Acetaminophen
@@ -27,7 +25,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

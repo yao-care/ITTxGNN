@@ -76,7 +76,7 @@ dei farmaci progettato specificamente per i clinici.
 </p>
 
 <blockquote class="expert-quote">
-"TxGNN integra un grafo di conoscenza di 17.080 entità biomediche e utilizza reti neurali a grafo
+"TxGNN integra un grafo di conoscenza che copre 17.080 malattie e utilizza reti neurali a grafo
 per apprendere le relazioni complesse tra i nodi, prevedendo la potenziale efficacia dei farmaci contro
 le malattie rare."
 <cite>&mdash; Huang et al., Nature Medicine (2024)</cite>

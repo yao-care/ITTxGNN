@@ -6,9 +6,9 @@ nav_order: 250
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-monitor_inn: "KETOROLAC"
-predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L5)."
+monitor_inn: "KETOROLAC"
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ketorolac
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

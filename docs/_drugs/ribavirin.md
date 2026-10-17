@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (livello di evidenza L5). Indicazione originale: Infezione cronica da HCV"
 monitor_inn: "Ribavirin"
-predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
+predicted_indications: ["hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
 ---
 
 # Ribavirin
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

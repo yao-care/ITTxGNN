@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Primidone: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (indicazioni derivate dal grafo di conoscenza"
 monitor_inn: "PRIMIDONE"
-predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "audiogenic seizures", "micturation-induced seizures", "eating seizures", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Primidone
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

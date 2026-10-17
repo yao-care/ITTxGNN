@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Salmeterol: nuova indicazione prevista, Bronchite (livello di evidenza L1)."
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma-related traits, susceptibility to", "atopic eczema"]
+predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
 ---
 
 # Salmeterol
@@ -27,7 +27,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria, congiuntivite atopica…"
-monitor_inn: "Fexofenadine"
-predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Fexofenadine
@@ -27,7 +25,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

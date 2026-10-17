@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Eletriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (con o senza aura)"
 monitor_inn: "ELETRIPTAN"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
 ---
 
 # Eletriptan
@@ -27,7 +27,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

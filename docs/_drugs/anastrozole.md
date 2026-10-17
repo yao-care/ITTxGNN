@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Anastrozole: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L1). Indicazione originale: Non riportata nei dati di autorizzazione AIFA"
 monitor_inn: "anastrozole"
-predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
+predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 ---
 
 # Anastrozole
@@ -27,7 +27,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Atenolol: nuova indicazione prevista, Infarto miocardico posterolaterale (livello di evidenza L5). Indicazione originale: Ipertensione, infarto miocardico"
 monitor_inn: "atenolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Atenolol
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

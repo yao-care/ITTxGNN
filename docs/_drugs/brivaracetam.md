@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brivaracetam: nuova indicazione prevista, Stato epilettico (seconda per punteggio TxGNN… (livello di evidenza L3). Indicazione originale: Epilessia parziale / epilessia motoria parziale (dal grafo di…"
 monitor_inn: "BRIVARACETAM"
-predicted_indications: ["visual epilepsy", "status epilepticus", "eating seizures", "micturation-induced seizures", "thinking seizures", "orgasm-induced seizures", "startle epilepsy", "audiogenic seizures", "beta-ketothiolase deficiency", "adolescent/adult onset autosomal dominant epilepsy with auditory features"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Brivaracetam
@@ -27,7 +27,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

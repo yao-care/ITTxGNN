@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

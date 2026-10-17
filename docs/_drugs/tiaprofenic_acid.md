@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Artrite reumatoide, osteoartrosi…"
 monitor_inn: "tiaprofenic acid"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
 ---
 
 # Tiaprofenic Acid
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

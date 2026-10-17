@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Felodipine: nuova indicazione prevista, Ipertensione polmonare con meccanismo multifattoriale non chiaro (pri… (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (il testo delle …"
 monitor_inn: "Felodipine"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
 ---
 
 # Felodipine
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

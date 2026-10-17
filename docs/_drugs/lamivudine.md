@@ -6,9 +6,9 @@ nav_order: 253
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-monitor_inn: "Lamivudine"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: nuova indicazione prevista, Sindrome da immunodeficienza acquisita felina (livello di evidenza L5)."
+monitor_inn: "Lamivudine"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Lamivudine
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

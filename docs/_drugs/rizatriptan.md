@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Rizatriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Emicrania (emicrania con o senza aura), da base di conoscenza TxGNN"
 monitor_inn: "RIZATRIPTAN"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
+predicted_indications: ["atrophoderma vermiculata"]
 ---
 
 # Rizatriptan
@@ -27,7 +27,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 

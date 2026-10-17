@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Apraclonidine: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto (dal grafo di conoscenza TxGNN"
-monitor_inn: "Apraclonidine"
-predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Apraclonidine
@@ -27,7 +25,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Relazione di valutazione farmaceutica
 
