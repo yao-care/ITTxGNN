@@ -168,9 +168,9 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebSite",
       "@id": "https://ittxgnn.yao.care/#website",
-      "name": "ITTxGNN Drug Repurposing Evidence Reports",
+      "name": "Rapporti sulle evidenze di riposizionamento dei farmaci di ITTxGNN",
       "url": "https://ittxgnn.yao.care/",
-      "description": "AI-predicted new indications for medicines approved in Italy, with clinical evidence reports",
+      "description": "Nuove indicazioni previste dall'IA per i farmaci autorizzati in Italia, con rapporti sulle evidenze cliniche",
       "isPartOf": {
         "@id": "https://ittxgnn.yao.care/#software"
       },
@@ -181,8 +181,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "WebPage",
       "@id": "https://ittxgnn.yao.care/#article",
-      "headline": "Drug Repurposing: From Data to Evidence",
-      "description": "AI-predicted new indications for medicines approved in Italy, with clinical trial and literature evidence reports",
+      "headline": "Riposizionamento dei farmaci: dai dati alle evidenze",
+      "description": "Nuove indicazioni previste dall'IA per i farmaci autorizzati in Italia, con rapporti sulle evidenze da studi clinici e letteratura",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -219,8 +219,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "About ITTxGNN",
-      "description": "About the ITTxGNN drug repurposing evidence reports: project overview, data sources and how to cite",
+      "name": "Informazioni su ITTxGNN",
+      "description": "Informazioni sui rapporti sulle evidenze di riposizionamento di ITTxGNN: panoramica del progetto, fonti dei dati e come citare",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -234,26 +234,26 @@ window.TXGNN_ANALYTICS = {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is drug repurposing?",
+          "name": "Che cos'è il riposizionamento dei farmaci?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Drug repurposing is the discovery of new therapeutic uses for existing medicines. Developing a new drug takes 10-15 years and USD 1-2 billion, whereas repurposing takes 3-5 years and USD 100-300 million, and human safety data already exist."
+            "text": "Il riposizionamento dei farmaci consiste nello scoprire nuovi usi terapeutici per farmaci esistenti. Sviluppare un nuovo farmaco richiede 10-15 anni e 1-2 miliardi di USD, mentre il riposizionamento richiede 3-5 anni e 100-300 milioni di USD, e i dati di sicurezza sull'uomo esistono già."
           }
         },
         {
           "@type": "Question",
-          "name": "What is TxGNN?",
+          "name": "Che cos'è TxGNN?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TxGNN is a deep learning model developed by a Harvard Medical School team. It integrates a knowledge graph of 17,080 nodes and uses a graph neural network to predict new drug-disease associations."
+            "text": "TxGNN è un modello di deep learning sviluppato da un gruppo della Harvard Medical School. Usa una rete neurale su grafo addestrata su un grafo di conoscenza biomedica che copre 17.080 malattie per prevedere nuove associazioni farmaco-malattia."
           }
         },
         {
           "@type": "Question",
-          "name": "What data sources are used?",
+          "name": "Quali fonti di dati vengono usate?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "This platform integrates public data sources including TxGNN (AI predictions), ClinicalTrials.gov (clinical trials), PubMed (literature), DrugBank (drug information), AIFA (marketing authorisations in Italy) and DDInter (drug interactions)."
+            "text": "Questa piattaforma integra fonti di dati pubbliche come TxGNN (previsioni dell'IA), ClinicalTrials.gov (studi clinici), PubMed (letteratura), DrugBank (informazioni sui farmaci), AIFA (autorizzazioni all'immissione in commercio in Italia) e DDInter (interazioni farmacologiche)."
           }
         }
       ]
@@ -289,32 +289,32 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "ITTxGNN Prediction and Validation Methods",
-      "description": "The full workflow from AI prediction to evidence validation",
+      "name": "Metodi di previsione e convalida di ITTxGNN",
+      "description": "L'intero flusso dalla previsione dell'IA alla convalida delle evidenze",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "name": "TxGNN prediction",
-          "text": "Drug-disease relationships are predicted with a knowledge graph and a graph neural network, using a minimum prediction score of 99%."
+          "name": "Previsione TxGNN",
+          "text": "La rete neurale su grafo di TxGNN assegna un punteggio alle coppie farmaco-malattia. Le indicazioni e controindicazioni già registrate per il farmaco nel grafo di conoscenza vengono escluse e sono elencate solo le previsioni con punteggio di almeno 0,99."
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "name": "Evidence collection",
-          "text": "For each predicted pair, evidence is collected automatically from ClinicalTrials.gov, PubMed, DrugBank, AIFA and other sources."
+          "name": "Raccolta delle evidenze",
+          "text": "Per ogni coppia prevista, le evidenze vengono raccolte automaticamente da ClinicalTrials.gov, PubMed, DrugBank, AIFA e altre fonti."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "name": "Evidence grading",
-          "text": "Based on the collected evidence, each prediction is graded L1-L5: L1 is the highest (multiple Phase 3 RCTs) and L5 is model prediction only."
+          "name": "Classificazione delle evidenze",
+          "text": "In base alle evidenze raccolte, ogni previsione è classificata da L1 a L5: L1 è il livello più alto (più RCT di fase 3) e L5 è solo previsione del modello."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "name": "Decision recommendation",
-          "text": "Based on the evidence level and other factors, a Go, Proceed, Consider, Explore or Hold recommendation is given."
+          "name": "Raccomandazione decisionale",
+          "text": "In base al livello di evidenza e ad altri fattori, viene data una raccomandazione Go, Proceed, Consider, Explore o Hold."
         }
       ]
     },
@@ -349,15 +349,15 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Drug Reports - ITTxGNN",
-      "description": "All ITTxGNN drug evidence reports",
+      "name": "Rapporti sui farmaci - ITTxGNN",
+      "description": "Tutti i rapporti sulle evidenze dei farmaci di ITTxGNN",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "ITTxGNN Drug Evidence Reports",
-      "description": "Drug repurposing evidence reports for medicines approved in Italy",
+      "name": "Rapporti sulle evidenze dei farmaci di ITTxGNN",
+      "description": "Rapporti sulle evidenze di riposizionamento per i farmaci autorizzati in Italia",
       "numberOfItems": {{ site.drugs.size }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
@@ -374,7 +374,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Drug Reports",
+          "name": "Rapporti sui farmaci",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -392,7 +392,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "Health News Monitoring - ITTxGNN",
+      "name": "Monitoraggio delle notizie sulla salute - ITTxGNN",
       "description": {{ page.description | default: 'Automated monitoring of the latest health news on the drugs and indications covered' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
@@ -400,7 +400,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "Thing",
-        "name": "Health News"
+        "name": "Notizie sulla salute"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -420,7 +420,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Notizie sulla salute",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -472,7 +472,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Health News",
+          "name": "Notizie sulla salute",
           "item": "https://ittxgnn.yao.care/news/"
         },
         {
