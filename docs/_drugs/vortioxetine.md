@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Vortioxetine: nuova indicazione prevista, Melanconia (indicazione con le evidenze più solide tra le cinque cand… (livello di evidenza L1). Indicazione originale: Depressione unipolare, depressione en…"
 monitor_inn: "Vortioxetine"
-predicted_indications: ["neurotic disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy"]
 ---
 
 # Vortioxetine

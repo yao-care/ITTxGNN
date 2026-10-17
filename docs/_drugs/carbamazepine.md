@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carbamazepine: nuova indicazione prevista, Tumore del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (anche parziale e tonico-clonica generalizzata)…"
 monitor_inn: "Carbamazepine"
-predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "startle epilepsy", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 ---
 
 # Carbamazepine

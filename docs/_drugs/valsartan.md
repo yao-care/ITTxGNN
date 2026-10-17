@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 monitor_inn: "VALSARTAN"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Valsartan

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Omeprazole: nuova indicazione prevista, Reflusso duodenogastrico (livello di evidenza L4). Indicazione originale: Ulcera gastrica, ulcera duodenale, MRGE, esofagite…"
 monitor_inn: "omeprazole"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Omeprazole

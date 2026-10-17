@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levothyroxine: nuova indicazione prevista, Gozzo nodulare (malattia) (livello di evidenza L5). Indicazione originale: Ipotiroidismo (e altre patologie tiroidee: mixedema…"
 monitor_inn: "Levothyroxine"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "substernal goiter", "dyshormonogenic goiter", "lingual goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
 ---
 
 # Levothyroxine

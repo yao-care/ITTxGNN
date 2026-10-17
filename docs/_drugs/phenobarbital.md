@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenobarbital: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (anche con crisi tonico-cloniche generalizzate e parziale)…"
 monitor_inn: "Phenobarbital"
-predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "startle epilepsy", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenobarbital

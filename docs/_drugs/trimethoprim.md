@@ -6,8 +6,6 @@ nav_order: 454
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-monitor_inn: "trimethoprim"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "conjunctivitis (disease)"]
 description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5)."
 ---
 

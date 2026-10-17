@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (livello di evidenza L2). Indicazione originale: Bronchite, tonsillite, otite media infettiva…"
 monitor_inn: "CEFPROZIL"
-predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 ---
 
 # Cefprozil

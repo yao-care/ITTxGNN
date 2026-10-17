@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: nuova indicazione prevista, Ulcera peptica attiva (livello di evidenza L1). Indicazione originale: Ulcera peptica, malattia da reflusso gastroesofageo, esofagite…"
 monitor_inn: "pantoprazole"
-predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Pantoprazole

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluoxetine: nuova indicazione prevista, Disturbo schizotipico di personalità (livello di evidenza L3). Indicazione originale: Disturbo depressivo maggiore, disturbi d'ansia…"
 monitor_inn: "Fluoxetine"
-predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
+predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
 ---
 
 # Fluoxetine

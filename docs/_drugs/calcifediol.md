@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Calcifediol: nuova indicazione prevista, Carenza di vitamina D (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo…"
 monitor_inn: "calcifediol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
 ---
 
 # Calcifediol

@@ -6,9 +6,9 @@ nav_order: 100
 evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
-monitor_inn: "CELECOXIB"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "inflammatory spondylopathy", "WHIM syndrome"]
 description: "Celecoxib: nuova indicazione prevista, Spondilopatia infiammatoria (inflammatory spondylopathy) (livello di evidenza L1)."
+monitor_inn: "CELECOXIB"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
 ---
 
 # Celecoxib

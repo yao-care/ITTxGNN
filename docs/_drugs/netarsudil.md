@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Netarsudil: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto, ipertensione oculare"
 monitor_inn: "netarsudil"
-predicted_indications: ["primary hereditary glaucoma", "glaucoma"]
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Netarsudil

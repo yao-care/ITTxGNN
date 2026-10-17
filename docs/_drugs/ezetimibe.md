@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Ezetimibe: nuova indicazione prevista, Iperlipoproteinemia (livello di evidenza L1). Indicazione originale: Iperlipidemia (incluse ipercolesterolemia familiare omozigote e sitos…"
 monitor_inn: "EZETIMIBE"
-predicted_indications: ["hyperlipoproteinemia", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
 ---
 
 # Ezetimibe

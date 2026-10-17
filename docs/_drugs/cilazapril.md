@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Cilazapril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (livello di evidenza L4). Indicazione originale: Ipertensione arteriosa (indicazione ricavata dal graf…"
 monitor_inn: "CILAZAPRIL"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Cilazapril

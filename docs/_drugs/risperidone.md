@@ -6,9 +6,9 @@ nav_order: 383
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare (mania)"
+monitor_inn: "RISPERIDONE"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 ---
 
 # Risperidone

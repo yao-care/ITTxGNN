@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Rabeprazole: nuova indicazione prevista, Mastocitosi sistemica smouldering (livello di evidenza L5). Indicazione originale: Malattia ulcerosa peptica, malattia da reflusso gastroesofageo…"
-monitor_inn: "rabeprazole"
-predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Rabeprazole

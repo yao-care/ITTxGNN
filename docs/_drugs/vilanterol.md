@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vilanterol: nuova indicazione prevista, Malattia polmonare ostruttiva (livello di evidenza L1). Indicazione originale: BPCO, asma, bronchite…"
 monitor_inn: "vilanterol"
-predicted_indications: ["obstructive lung disease", "interstitial emphysema", "compensatory emphysema", "hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "congenital lobar emphysema", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
+predicted_indications: ["tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 ---
 
 # Vilanterol

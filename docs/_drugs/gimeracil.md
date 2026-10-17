@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gimeracil: nuova indicazione prevista, Neoplasia del colon (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (dal grafo di conoscenza"
 monitor_inn: "gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "malignant gastric granular cell tumor", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "cardia cancer", "colonic lymphangioma", "colon leiomyoma", "gastric lymphoma"]
+predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 ---
 
 # Gimeracil
