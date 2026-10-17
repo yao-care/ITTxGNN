@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Trandolapril: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (dalla base di conoscenza TxGNN"
 monitor_inn: "TRANDOLAPRIL"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease"]
 ---
 
 # Trandolapril
