@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Lovastatin: nuova indicazione prevista, Ipercolesterolemia familiare omozigote (livello di evidenza L5). Indicazione originale: Iperlipidemia, ipertrigliceridemia…"
 monitor_inn: "Lovastatin"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency"]
 ---
 
 # Lovastatin

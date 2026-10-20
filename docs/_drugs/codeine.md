@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Codeine: nuova indicazione prevista, Malattia della cavità nasale (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria, faringite, raffreddore comune…"
 monitor_inn: "codeine"
-predicted_indications: ["acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 ---
 
 # Codeine

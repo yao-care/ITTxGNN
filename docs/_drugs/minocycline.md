@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Minocycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni batteriche e altre condizioni (infezioni delle vie urinarie"
 monitor_inn: "minocycline"
-predicted_indications: ["exposure keratitis"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 ---
 
 # Minocycline

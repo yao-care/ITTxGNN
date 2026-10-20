@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tazobactam: nuova indicazione prevista, Polmonite (livello di evidenza L1)."
-monitor_inn: "tazobactam"
-predicted_indications: ["urinary tract infection (disease)"]
 ---
 
 # Tazobactam

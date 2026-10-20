@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Famotidine: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L4). Indicazione originale: Ulcera gastrica e duodenale, reflusso gastroesofageo, esofagite…"
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine

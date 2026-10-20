@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Verapamil: nuova indicazione prevista, Blocco di branca (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipertensione, fibrillazione atriale, sindrome coronarica acuta…"
 monitor_inn: "VERAPAMIL"
-predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "periodic paralysis with transient compartment-like syndrome"]
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 ---
 
 # Verapamil

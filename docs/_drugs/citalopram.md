@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L2). Indicazione originale: Disturbo depressivo maggiore, depressione unipolare e endogena…"
 monitor_inn: "CITALOPRAM"
-predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
+predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
 ---
 
 # Citalopram

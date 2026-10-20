@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Indacaterol: nuova indicazione prevista, Malattia bronchiale (bronchial disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (testo dell'indicazio"
 monitor_inn: "indacaterol"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 ---
 
 # Indacaterol

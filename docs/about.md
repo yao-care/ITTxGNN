@@ -91,7 +91,7 @@ le malattie rare."
 <tr><th>Tipo</th><th>Fonte</th><th>Descrizione</th></tr>
 </thead>
 <tbody>
-<tr><td>Previsione IA</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Modello di previsione su grafo di conoscenza di Harvard</td></tr>
+<tr><td>Previsione IA</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Rete neurale a grafo di Harvard addestrata su un grafo di conoscenza</td></tr>
 <tr><td>Studi clinici</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Registro globale degli studi clinici</td></tr>
 <tr><td>Letteratura</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Banca dati della letteratura biomedica</td></tr>
 <tr><td>Informazioni sui farmaci</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Banca dati di farmaci e bersagli</td></tr>
