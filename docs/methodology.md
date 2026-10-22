@@ -3,7 +3,7 @@ layout: default
 title: Metodologia
 nav_order: 91
 permalink: /methodology/
-description: "Come ITTxGNN genera e valida le previsioni: previsione tramite grafo di conoscenza TxGNN, raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali."
+description: "Come ITTxGNN genera e valida le previsioni: previsione tramite il modello TxGNN (apprendimento profondo), raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali."
 ---
 
 # Metodologia
@@ -17,13 +17,13 @@ Dalla previsione dell'IA alla classificazione delle prove — ogni candidato ha 
 ## Flusso complessivo
 
 <p class="key-answer" data-question="Come genera le sue previsioni ITTxGNN?">
-La piattaforma utilizza un flusso in quattro fasi: il modello a grafo di conoscenza TxGNN prevede potenziali
+La piattaforma utilizza un flusso in quattro fasi: il modello TxGNN (apprendimento profondo) prevede potenziali
 associazioni farmaco&ndash;malattia, le prove vengono poi raccolte automaticamente per ciascuna coppia prevista,
 le prove vengono classificate da L1 a L5 e infine viene emessa una raccomandazione decisionale.
 </p>
 
 <ol class="actionable-steps">
-<li><strong>Previsione TxGNN</strong>: relazioni farmaco&ndash;malattia previste con un grafo di conoscenza combinato con reti neurali a grafo.</li>
+<li><strong>Previsione TxGNN</strong>: relazioni farmaco&ndash;malattia previste dal modello TxGNN (apprendimento profondo: una rete neurale a grafo addestrata su un grafo di conoscenza biomedico).</li>
 <li><strong>Raccolta delle prove</strong>: per ciascuna coppia prevista, le prove vengono raccolte da ClinicalTrials.gov, PubMed, DrugBank e AIFA.</li>
 <li><strong>Classificazione delle prove</strong>: classificate da L1 a L5, dove L1 è il livello più forte (più RCT di Fase 3) e L5 corrisponde alla sola previsione del modello.</li>
 <li><strong>Raccomandazione decisionale</strong>: Go, Proceed, Consider, Explore o Hold, in base al livello di prova.</li>

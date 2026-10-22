@@ -17,7 +17,7 @@ I livelli di evidenza vanno da L1 (evidenza clinica più solida) a L5 (solo prev
 - `/evidence-high/` Prove elevate (L1-L2) — Candidati al riposizionamento dei farmaci di livello L1-L2 in ITTxGNN, supportati da studi clinici o revisioni sistematiche.
 - `/evidence-medium/` Prove moderate (L3-L4) — Candidati al riposizionamento dei farmaci di livello L3-L4 in ITTxGNN, sostenuti da prove osservazionali o precliniche.
 - `/evidence-low/` Solo previsione del modello (L5) — Candidati di livello L5 in ITTxGNN: solo previsione del modello, ancora senza prove cliniche o di letteratura.
-- `/methodology/` Metodologia — Come ITTxGNN genera e valida le previsioni: previsione tramite grafo di conoscenza TxGNN, raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali.
+- `/methodology/` Metodologia — Come ITTxGNN genera e valida le previsioni: previsione tramite il modello TxGNN (apprendimento profondo), raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali.
 - `/guide/` Guida per l'utente — Guida per l'utente di ITTxGNN: come cercare i farmaci, leggere i livelli di prova e interpretare le raccomandazioni.
 - `/sources/` Fonti dei dati — Le fonti dei dati alla base di ITTxGNN: dati di registrazione AIFA, TxGNN, ClinicalTrials.gov, PubMed e DrugBank.
 - `/downloads/` Download — Download dei dati aperti di ITTxGNN: risorse FHIR, risultati delle previsioni e indice di ricerca.
