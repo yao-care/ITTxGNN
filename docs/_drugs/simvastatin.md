@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **8**
 
 </div>
 
-# Simvastatina: dall'ipercolesterolemia alla ipercolesterolemia familiare
+## Simvastatina: dall'ipercolesterolemia alla ipercolesterolemia familiare
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

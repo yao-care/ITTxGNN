@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Doxofillina: dalla broncopneumopatia alla sindrome di Pierre Robin associata ad anomalia cromosomica
+## Doxofillina: dalla broncopneumopatia alla sindrome di Pierre Robin associata ad anomalia cromosomica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

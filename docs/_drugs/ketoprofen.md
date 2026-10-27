@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ketoprofene: dall'artropatia e artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+## Ketoprofene: dall'artropatia e artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Turoctocog alfa: dall'emofilia a un disturbo di rilascio piastrinico primario
+## Turoctocog alfa: dall'emofilia a un disturbo di rilascio piastrinico primario
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

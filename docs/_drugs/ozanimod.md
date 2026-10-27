@@ -31,7 +31,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Ozanimod: dalla sclerosi multipla alla sclerosi multipla progressiva recidivante
+## Ozanimod: dalla sclerosi multipla alla sclerosi multipla progressiva recidivante
+{: .text-alpha }
 
 ## Riepilogo in breve
 

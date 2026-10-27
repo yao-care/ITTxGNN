@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Bimatoprost: dal glaucoma ad angolo aperto all'alopecia
+## Bimatoprost: dal glaucoma ad angolo aperto all'alopecia
+{: .text-alpha }
 
 ## Sintesi
 

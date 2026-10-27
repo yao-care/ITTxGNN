@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Flucloxacillina: dall'uso antibatterico alla congiuntivite (predizione computazionale)
+## Flucloxacillina: dall'uso antibatterico alla congiuntivite (predizione computazionale)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

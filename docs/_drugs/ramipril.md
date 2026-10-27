@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ramipril: Dall'ipertensione e dall'ictus all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Ramipril: Dall'ipertensione e dall'ictus all'ipertensione polmonare da malattia polmonare e/o ipossia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

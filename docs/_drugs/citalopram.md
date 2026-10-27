@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **5**
 
 </div>
 
-# Citalopram: Dalla depressione al disturbo ossessivo-compulsivo
+## Citalopram: Dalla depressione al disturbo ossessivo-compulsivo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **4**
 
 </div>
 
-# Epinefrina: da asma e anafilassi a malattia polmonare ostruttiva
+## Epinefrina: da asma e anafilassi a malattia polmonare ostruttiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

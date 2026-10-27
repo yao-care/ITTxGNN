@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Almotriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+## Almotriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

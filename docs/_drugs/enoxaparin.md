@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Enoxaparina: dall'embolia polmonare alla trombofilia da deficit di proteina C (autosomico recessivo)
+## Enoxaparina: dall'embolia polmonare alla trombofilia da deficit di proteina C (autosomico recessivo)
+{: .text-alpha }
 
 ## Sintesi
 

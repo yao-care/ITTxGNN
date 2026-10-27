@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Nistatina: dalla candidosi cutanea e orale alla vulvovaginite
+## Nistatina: dalla candidosi cutanea e orale alla vulvovaginite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

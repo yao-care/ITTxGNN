@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Posaconazolo: dalle infezioni fungine invasive alla pneumocistosi
+## Posaconazolo: dalle infezioni fungine invasive alla pneumocistosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

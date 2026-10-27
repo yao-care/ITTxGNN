@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Alfacalcidolo: dall'iperparatiroidismo alla forma familiare di ipoparatiroidismo isolato da alterata secrezione di PTH
+## Alfacalcidolo: dall'iperparatiroidismo alla forma familiare di ipoparatiroidismo isolato da alterata secrezione di PTH
+{: .text-alpha }
 
 ## Sintesi in una frase
 

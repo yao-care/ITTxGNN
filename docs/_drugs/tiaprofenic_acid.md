@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acido tiaprofenico: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Acido tiaprofenico: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

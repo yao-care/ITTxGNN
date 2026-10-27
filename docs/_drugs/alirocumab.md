@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Alirocumab: Dall'ipercolesterolemia/aterosclerosi a Ittiosi X-linked senza deficit di steroide solfatasi
+## Alirocumab: Dall'ipercolesterolemia/aterosclerosi a Ittiosi X-linked senza deficit di steroide solfatasi
+{: .text-alpha }
 
 ## Sintesi
 

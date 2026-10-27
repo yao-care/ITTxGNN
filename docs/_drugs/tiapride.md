@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Tiapride: Dalle indicazioni originali all'emicrania (migraine disorder)
+## Tiapride: Dalle indicazioni originali all'emicrania (migraine disorder)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

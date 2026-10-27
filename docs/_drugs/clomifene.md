@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Clomifene: dall'infertilità femminile al disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare
+## Clomifene: dall'infertilità femminile al disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

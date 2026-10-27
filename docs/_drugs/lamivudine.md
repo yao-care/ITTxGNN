@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Lamivudina: dall'infezione da HIV/epatite B alla sindrome da immunodeficienza acquisita felina
+## Lamivudina: dall'infezione da HIV/epatite B alla sindrome da immunodeficienza acquisita felina
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Triamcinolone: Dalle malattie autoimmuni e infiammatorie all'alopecia mucinosa
+## Triamcinolone: Dalle malattie autoimmuni e infiammatorie all'alopecia mucinosa
+{: .text-alpha }
 
 ## Sintesi in una frase
 

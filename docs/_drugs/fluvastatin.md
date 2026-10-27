@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Fluvastatina: dall'ipercolesterolemia/aterosclerosi all'ipercolesterolemia familiare
+## Fluvastatina: dall'ipercolesterolemia/aterosclerosi all'ipercolesterolemia familiare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

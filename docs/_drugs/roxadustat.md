@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Roxadustat: Dall'anemia refrattaria alla sindrome dell'occhio secco
+## Roxadustat: Dall'anemia refrattaria alla sindrome dell'occhio secco
+{: .text-alpha }
 
 ## Sintesi in una frase
 

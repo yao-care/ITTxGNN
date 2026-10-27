@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Empagliflozin: Dal diabete di tipo 2 alla sindrome della rigidità focale degli arti
+## Empagliflozin: Dal diabete di tipo 2 alla sindrome della rigidità focale degli arti
+{: .text-alpha }
 
 ## Sintesi in una frase
 

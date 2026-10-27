@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-# Clonazepam: Dall'epilessia e dal disturbo d'ansia alla sindrome delle gambe senza riposo
+## Clonazepam: Dall'epilessia e dal disturbo d'ansia alla sindrome delle gambe senza riposo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

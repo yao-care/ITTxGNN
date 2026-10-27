@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Acido tranexamico: dall'endometriosi all'amenorrea
+## Acido tranexamico: dall'endometriosi all'amenorrea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

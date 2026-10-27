@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# AMLODIPINA: Rapporto di Valutazione della Riutilizzazione di Farmaci
+## AMLODIPINA: Rapporto di Valutazione della Riutilizzazione di Farmaci
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

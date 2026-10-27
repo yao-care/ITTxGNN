@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Deferasirox: Dall'indicazione originale (talassemia beta / emoglobinopatia) all'infezione da HIV
+## Deferasirox: Dall'indicazione originale (talassemia beta / emoglobinopatia) all'infezione da HIV
+{: .text-alpha }
 
 ## Sintesi in una frase
 

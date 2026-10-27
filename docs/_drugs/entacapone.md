@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Entacapone: Dal morbo di Parkinson alla neurodegenerazione associata a PLA2G6
+## Entacapone: Dal morbo di Parkinson alla neurodegenerazione associata a PLA2G6
+{: .text-alpha }
 
 ## Sintesi in una frase
 

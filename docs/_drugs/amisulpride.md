@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# AMISULPRIDE: Valutazione del Riposizionamento del Farmaco — In Attesa dei Dati di Previsione
+## AMISULPRIDE: Valutazione del Riposizionamento del Farmaco — In Attesa dei Dati di Previsione
+{: .text-alpha }
 
 ## Sintesi in una Frase
 

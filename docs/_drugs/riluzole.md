@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Riluzolo: dalla sclerosi laterale amiotrofica alla polimicrogiria parieto-occipitale parasagittale bilaterale
+## Riluzolo: dalla sclerosi laterale amiotrofica alla polimicrogiria parieto-occipitale parasagittale bilaterale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

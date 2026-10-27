@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Mometasone: dall'uso come corticosteroide a un possibile impiego nel linfoma cutaneo primitivo a cellule T
+## Mometasone: dall'uso come corticosteroide a un possibile impiego nel linfoma cutaneo primitivo a cellule T
+{: .text-alpha }
 
 ## Sintesi in una frase
 

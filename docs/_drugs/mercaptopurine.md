@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Mercaptopurina: da leucemia linfoblastica acuta a leucemia mieloide
+## Mercaptopurina: da leucemia linfoblastica acuta a leucemia mieloide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

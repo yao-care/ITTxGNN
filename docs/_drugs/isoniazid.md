@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Isoniazide: dalla tubercolosi polmonare alla congiuntivite
+## Isoniazide: dalla tubercolosi polmonare alla congiuntivite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

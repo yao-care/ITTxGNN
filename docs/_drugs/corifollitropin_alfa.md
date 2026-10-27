@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Corifollitropina alfa: dall'indicazione originale a gastroduodenite (predizione computazionale)
+## Corifollitropina alfa: dall'indicazione originale a gastroduodenite (predizione computazionale)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

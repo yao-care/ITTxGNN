@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-# Desloratadina: dall'rinite allergica e orticaria all'orticaria da freddo
+## Desloratadina: dall'rinite allergica e orticaria all'orticaria da freddo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

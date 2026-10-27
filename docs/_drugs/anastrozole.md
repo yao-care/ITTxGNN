@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-# Anastrozolo: dal carcinoma mammario al carcinoma mammario femminile (indicazione già consolidata)
+## Anastrozolo: dal carcinoma mammario al carcinoma mammario femminile (indicazione già consolidata)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

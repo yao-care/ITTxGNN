@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Apixaban: Dalla prevenzione tromboembolica all'emicrania (migraine disorder)
+## Apixaban: Dalla prevenzione tromboembolica all'emicrania (migraine disorder)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Norfloxacina: da infezioni batteriche a sindrome da iperviscosità policlonale
+## Norfloxacina: da infezioni batteriche a sindrome da iperviscosità policlonale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Flurbiprofene: dall'artrite reumatoide alla spondilite anchilosante
+## Flurbiprofene: dall'artrite reumatoide alla spondilite anchilosante
+{: .text-alpha }
 
 ## Sintesi in una frase
 

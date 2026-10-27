@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Degarelix: Dal carcinoma prostatico all'ipertricosi (predizione computazionale)
+## Degarelix: Dal carcinoma prostatico all'ipertricosi (predizione computazionale)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

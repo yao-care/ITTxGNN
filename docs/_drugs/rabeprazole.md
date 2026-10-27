@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Rabeprazolo: dalla malattia da reflusso gastroesofageo alla mastocitosi sistemica indolente (smouldering)
+## Rabeprazolo: dalla malattia da reflusso gastroesofageo alla mastocitosi sistemica indolente (smouldering)
+{: .text-alpha }
 
 ## Sintesi
 

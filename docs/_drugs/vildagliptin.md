@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Vildagliptin: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
+## Vildagliptin: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
+{: .text-alpha }
 
 ## Sintesi
 

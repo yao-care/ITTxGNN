@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Deferoxamina: Valutazione in sospeso — Pacchetto di prove incompleto
+## Deferoxamina: Valutazione in sospeso — Pacchetto di prove incompleto
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

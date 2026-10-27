@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Famotidina: da ulcera gastrica e reflusso gastroesofageo a reflusso duodeno-gastrico
+## Famotidina: da ulcera gastrica e reflusso gastroesofageo a reflusso duodeno-gastrico
+{: .text-alpha }
 
 ## Sintesi
 

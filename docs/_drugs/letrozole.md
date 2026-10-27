@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Letrozolo: dal carcinoma mammario ormonodipendente al carcinoma mammario femminile (ER+)
+## Letrozolo: dal carcinoma mammario ormonodipendente al carcinoma mammario femminile (ER+)
+{: .text-alpha }
 
 ## Sintesi
 

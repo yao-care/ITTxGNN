@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Etoricoxib: Dalle patologie reumatiche e dolorose alla Emicrania
+## Etoricoxib: Dalle patologie reumatiche e dolorose alla Emicrania
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

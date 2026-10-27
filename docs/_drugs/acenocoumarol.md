@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Acenocumarolo: Dalla trombofilia/embolia polmonare al deficit di cofattore 2 dell'eparina
+## Acenocumarolo: Dalla trombofilia/embolia polmonare al deficit di cofattore 2 dell'eparina
+{: .text-alpha }
 
 ## Sintesi
 

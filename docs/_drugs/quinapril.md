@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Quinapril: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Quinapril: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

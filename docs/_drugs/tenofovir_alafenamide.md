@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Tenofovir alafenamide: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+## Tenofovir alafenamide: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

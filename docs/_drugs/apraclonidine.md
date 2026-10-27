@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Apraclonidina: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+## Apraclonidina: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

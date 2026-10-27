@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# ADRENALINA: Rapporto di Valutazione del Repositioning Farmacologico
+## ADRENALINA: Rapporto di Valutazione del Repositioning Farmacologico
+{: .text-alpha }
 
 ## Riassunto in una sola frase
 

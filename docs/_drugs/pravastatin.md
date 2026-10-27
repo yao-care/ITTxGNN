@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **9**
 
 </div>
 
-# Pravastatina: dall'iperlipidemia alla HIV (dislipidemia associata all'infezione da HIV)
+## Pravastatina: dall'iperlipidemia alla HIV (dislipidemia associata all'infezione da HIV)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

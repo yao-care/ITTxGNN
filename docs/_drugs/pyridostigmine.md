@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **7**
 
 </div>
 
-# Piridostigmina: dalla miastenia gravis alla miastenia gravis con iperplasia del timo
+## Piridostigmina: dalla miastenia gravis alla miastenia gravis con iperplasia del timo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

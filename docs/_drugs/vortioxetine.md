@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **5**
 
 </div>
 
-# Vortioxetina: dalla depressione maggiore alla melanconia
+## Vortioxetina: dalla depressione maggiore alla melanconia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

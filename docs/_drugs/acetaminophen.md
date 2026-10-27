@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Paracetamolo (acetaminofene): dalla cefalea e dall'emicrania all'emicrania con aura del tronco encefalico
+## Paracetamolo (acetaminofene): dalla cefalea e dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

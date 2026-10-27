@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Damoctocog Alfa Pegol: Valutazione di Riposizionamento Farmacologico — Dati Insufficienti per Valutazione Completa
+## Damoctocog Alfa Pegol: Valutazione di Riposizionamento Farmacologico — Dati Insufficienti per Valutazione Completa
+{: .text-alpha }
 
 ## Riassunto in una Frase
 

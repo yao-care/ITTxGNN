@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Lovastatina: dall'ipercolesterolemia all'ipercolesterolemia familiare omozigote
+## Lovastatina: dall'ipercolesterolemia all'ipercolesterolemia familiare omozigote
+{: .text-alpha }
 
 ## Sintesi
 

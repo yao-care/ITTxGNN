@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Prednisone: Dall'autoimmunità sistemica all'alopecia areata
+## Prednisone: Dall'autoimmunità sistemica all'alopecia areata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

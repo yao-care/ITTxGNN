@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Dapagliflozin: Evidence Pack Incompleto — Valutazione di Riposizionamento in Sospeso
+## Dapagliflozin: Evidence Pack Incompleto — Valutazione di Riposizionamento in Sospeso
+{: .text-alpha }
 
 ## Riassunto in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Disopyramide: Dalle aritmie cardiache alla sindrome di Tourette
+## Disopyramide: Dalle aritmie cardiache alla sindrome di Tourette
+{: .text-alpha }
 
 ## Sintesi
 

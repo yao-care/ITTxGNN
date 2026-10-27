@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Diltiazem: Dall'ipertensione alla suscettibilità all'ictus ischemico (indicazione obsoleta)
+## Diltiazem: Dall'ipertensione alla suscettibilità all'ictus ischemico (indicazione obsoleta)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

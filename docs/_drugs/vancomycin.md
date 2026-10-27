@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Vancomicina: dall'infezione da Clostridium difficile alla sclerodermia diffusa
+## Vancomicina: dall'infezione da Clostridium difficile alla sclerodermia diffusa
+{: .text-alpha }
 
 ## Sintesi in una frase
 

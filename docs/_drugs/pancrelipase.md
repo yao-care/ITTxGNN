@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Pancrelipase: Dall'insufficienza pancreatica esocrina al disturbo della fosforilazione ossidativa mitocondriale
+## Pancrelipase: Dall'insufficienza pancreatica esocrina al disturbo della fosforilazione ossidativa mitocondriale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

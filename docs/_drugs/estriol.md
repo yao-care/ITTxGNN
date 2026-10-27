@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Estriolo: dalla terapia estrogenica locale all'amenorrea
+## Estriolo: dalla terapia estrogenica locale all'amenorrea
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

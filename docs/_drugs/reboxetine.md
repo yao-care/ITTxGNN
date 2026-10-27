@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Reboxetina: dalla depressione maggiore all'agorafobia
+## Reboxetina: dalla depressione maggiore all'agorafobia
+{: .text-alpha }
 
 ## Sintesi
 

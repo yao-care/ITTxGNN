@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acetazolamide: Dal glaucoma e dall'epilessia da assenza all'ipertermia maligna indotta da esercizio
+## Acetazolamide: Dal glaucoma e dall'epilessia da assenza all'ipertermia maligna indotta da esercizio
+{: .text-alpha }
 
 ## Sintesi in una frase
 

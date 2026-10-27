@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ticagrelor: Dalla sindrome coronarica acuta all'arteriosclerosi intracranica
+## Ticagrelor: Dalla sindrome coronarica acuta all'arteriosclerosi intracranica
+{: .text-alpha }
 
 ## Riepilogo in breve
 

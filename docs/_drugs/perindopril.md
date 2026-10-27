@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Perindopril: dall'ipertensione all'ipertensione renovascolare maligna
+## Perindopril: dall'ipertensione all'ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Sofosbuvir: dall'epatite C cronica all'epatite E (infezione da virus dell'epatite E)
+## Sofosbuvir: dall'epatite C cronica all'epatite E (infezione da virus dell'epatite E)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

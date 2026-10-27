@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Cefprozil: Dalle infezioni respiratorie alle infezioni delle vie urinarie
+## Cefprozil: Dalle infezioni respiratorie alle infezioni delle vie urinarie
+{: .text-alpha }
 
 ## Sintesi
 

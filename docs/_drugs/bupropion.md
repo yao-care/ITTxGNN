@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Bupropione: dalla depressione al disturbo da deficit di attenzione e iperattività (ADHD)
+## Bupropione: dalla depressione al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **6**
 
 </div>
 
-# Rifaximina: dall'encefalopatia epatica alla candidiasi orale
+## Rifaximina: dall'encefalopatia epatica alla candidiasi orale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

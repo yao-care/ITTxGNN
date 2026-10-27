@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Fenofibrato: dall'ipertrigliceridemia/iperlipidemia all'ipercolesterolemia familiare omozigote
+## Fenofibrato: dall'ipertrigliceridemia/iperlipidemia all'ipercolesterolemia familiare omozigote
+{: .text-alpha }
 
 ## Sintesi in una frase
 

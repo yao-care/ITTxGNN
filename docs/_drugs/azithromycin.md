@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Azitromicina: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+## Azitromicina: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+{: .text-alpha }
 
 ## Sintesi
 

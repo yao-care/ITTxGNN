@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Metronidazolo: dalle infezioni anaerobiche e protozoarie alla pneumocistosi
+## Metronidazolo: dalle infezioni anaerobiche e protozoarie alla pneumocistosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

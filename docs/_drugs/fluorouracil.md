@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Fluorouracile: dal carcinoma basocellulare superficiale e dalla cheratosi attinica al rabdomiosarcoma
+## Fluorouracile: dal carcinoma basocellulare superficiale e dalla cheratosi attinica al rabdomiosarcoma
+{: .text-alpha }
 
 ## Sintesi
 

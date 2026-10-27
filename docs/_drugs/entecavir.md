@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Entecavir: Dall'epatite B cronica all'epatite C cronica
+## Entecavir: Dall'epatite B cronica all'epatite C cronica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

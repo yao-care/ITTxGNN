@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Inclisiran: Dall'ipercolesterolemia a una predizione di carenza di potassio (ipopotassiemia)
+## Inclisiran: Dall'ipercolesterolemia a una predizione di carenza di potassio (ipopotassiemia)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

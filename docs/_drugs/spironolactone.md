@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Spironolattone: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+## Spironolattone: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+{: .text-alpha }
 
 ## Sintesi in una frase
 

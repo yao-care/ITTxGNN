@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Etambutolo: dalla tubercolosi polmonare all'epiglottite
+## Etambutolo: dalla tubercolosi polmonare all'epiglottite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

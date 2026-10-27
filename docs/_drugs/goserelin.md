@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **3**
 
 </div>
 
-# Goserelin: Dall'endometriosi all'amenorrea
+## Goserelin: Dall'endometriosi all'amenorrea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

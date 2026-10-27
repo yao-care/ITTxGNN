@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Rifampicina: dalla tubercolosi polmonare alla congiuntivite
+## Rifampicina: dalla tubercolosi polmonare alla congiuntivite
+{: .text-alpha }
 
 ## Sintesi
 

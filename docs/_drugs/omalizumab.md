@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Omalizumab: Dall'asma allergico alla bronchite
+## Omalizumab: Dall'asma allergico alla bronchite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

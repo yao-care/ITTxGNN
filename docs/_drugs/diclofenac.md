@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Diclofenac: dai disturbi reumatici e dermatologici all'ipotricosi semplice del cuoio capelluto
+## Diclofenac: dai disturbi reumatici e dermatologici all'ipotricosi semplice del cuoio capelluto
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Prasugrel: Dalla sindrome coronarica acuta alla emicrania
+## Prasugrel: Dalla sindrome coronarica acuta alla emicrania
+{: .text-alpha }
 
 ## Sintesi in una frase
 

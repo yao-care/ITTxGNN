@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Fluticasone: Dall'indicazione originale non documentata all'emicrania (migraine disorder)
+## Fluticasone: Dall'indicazione originale non documentata all'emicrania (migraine disorder)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

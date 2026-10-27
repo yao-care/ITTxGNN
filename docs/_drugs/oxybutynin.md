@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Oxybutynin: Dal trattamento della vescica iperattiva alla sindrome delle gambe senza riposo
+## Oxybutynin: Dal trattamento della vescica iperattiva alla sindrome delle gambe senza riposo
+{: .text-alpha }
 
 ## Riepilogo in breve
 

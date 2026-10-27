@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-# Omeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+## Omeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+{: .text-alpha }
 
 ## Riepilogo in breve
 

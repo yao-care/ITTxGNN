@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Sertralina: Dal disturbo d'ansia al disturbo schizoide di personalità
+## Sertralina: Dal disturbo d'ansia al disturbo schizoide di personalità
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

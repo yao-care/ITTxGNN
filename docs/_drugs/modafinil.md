@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Modafinil: Dalla narcolessia all'insonnia
+## Modafinil: Dalla narcolessia all'insonnia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

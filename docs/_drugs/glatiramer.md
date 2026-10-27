@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Glatiramer: dalla sclerosi multipla all'emoglobinopatia
+## Glatiramer: dalla sclerosi multipla all'emoglobinopatia
+{: .text-alpha }
 
 ## Sintesi
 

@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# ALOGLIPTIN: Rapporto di Valutazione del Drug Repurposing
+## ALOGLIPTIN: Rapporto di Valutazione del Drug Repurposing
+{: .text-alpha }
 
 ## Riassunto in Una Frase
 

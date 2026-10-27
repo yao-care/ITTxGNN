@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Nabumetone: Dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+## Nabumetone: Dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

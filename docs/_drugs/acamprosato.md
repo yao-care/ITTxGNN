@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Acamprosato: Rapporto di Valutazione della Ripropositura del Farmaco
+## Acamprosato: Rapporto di Valutazione della Ripropositura del Farmaco
+{: .text-alpha }
 
 ## Riassunto in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Celecoxib: Dall'artrite reumatoide alla spondilopatia infiammatoria
+## Celecoxib: Dall'artrite reumatoide alla spondilopatia infiammatoria
+{: .text-alpha }
 
 ## Sintesi in una frase
 

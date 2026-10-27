@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Acarbosio: dal diabete mellito di tipo 2 alla sindrome dell'arto rigido focale
+## Acarbosio: dal diabete mellito di tipo 2 alla sindrome dell'arto rigido focale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Siponimod: Dalla sclerosi multipla secondaria progressiva all'ipertensione polmonare
+## Siponimod: Dalla sclerosi multipla secondaria progressiva all'ipertensione polmonare
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Carteololo: dall'ipertensione e glaucoma ad angolo aperto al glaucoma ereditario primario
+## Carteololo: dall'ipertensione e glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Betaxololo: Da ipertensione e glaucoma ad angolo aperto a glaucoma ereditario primario
+## Betaxololo: Da ipertensione e glaucoma ad angolo aperto a glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

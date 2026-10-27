@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Olanzapina: dal disturbo bipolare e dalla schizofrenia alla torcicollo parossistico benigno dell'infanzia
+## Olanzapina: dal disturbo bipolare e dalla schizofrenia alla torcicollo parossistico benigno dell'infanzia
+{: .text-alpha }
 
 ## Sintesi
 

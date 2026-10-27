@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Aripiprazolo: dal disturbo bipolare e dalla schizofrenia al disturbo affettivo maggiore
+## Aripiprazolo: dal disturbo bipolare e dalla schizofrenia al disturbo affettivo maggiore
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Lenograstim: Dal trattamento della neutropenia al disturbo primario del rilascio piastrinico
+## Lenograstim: Dal trattamento della neutropenia al disturbo primario del rilascio piastrinico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

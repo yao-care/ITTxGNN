@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Urofollitropina: da stimolazione ovarica a emicrania (ipotesi predittiva)
+## Urofollitropina: da stimolazione ovarica a emicrania (ipotesi predittiva)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

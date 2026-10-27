@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# CLOZAPINA (Clozapine): Valutazione di Riuso Farmacologico — Dati Insufficienti per Completare l'Analisi
+## CLOZAPINA (Clozapine): Valutazione di Riuso Farmacologico — Dati Insufficienti per Completare l'Analisi
+{: .text-alpha }
 
 ## Sommario in una frase
 

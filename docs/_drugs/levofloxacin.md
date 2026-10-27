@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Levofloxacina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Levofloxacina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi
 

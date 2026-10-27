@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Metadone: dalla dipendenza da oppioidi alla sindrome di Tourette
+## Metadone: dalla dipendenza da oppioidi alla sindrome di Tourette
+{: .text-alpha }
 
 ## Sintesi in una frase
 

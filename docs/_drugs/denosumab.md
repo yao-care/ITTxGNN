@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Denosumab: Dall'osteoporosi alla retinopatia diabetica non proliferativa grave
+## Denosumab: Dall'osteoporosi alla retinopatia diabetica non proliferativa grave
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

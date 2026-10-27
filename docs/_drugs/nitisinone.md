@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Nitisinone: Dalla tirosinemia all'acidosi tubulare renale
+## Nitisinone: Dalla tirosinemia all'acidosi tubulare renale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Oteracil: Dal carcinoma gastrico alla neoplasia del colon
+## Oteracil: Dal carcinoma gastrico alla neoplasia del colon
+{: .text-alpha }
 
 ## Sintesi in una frase
 

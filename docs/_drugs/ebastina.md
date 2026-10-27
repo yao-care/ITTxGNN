@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Ebastina: Valutazione Non Completabile per Dati Insufficienti
+## Ebastina: Valutazione Non Completabile per Dati Insufficienti
+{: .text-alpha }
 
 ## One-Sentence Summary
 

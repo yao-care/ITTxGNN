@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Leflunomide: Dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Leflunomide: Dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

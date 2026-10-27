@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **4**
 
 </div>
 
-# Selegilina: dalla malattia di Parkinson alla schizofrenia
+## Selegilina: dalla malattia di Parkinson alla schizofrenia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

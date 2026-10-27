@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Isotretinoina: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Isotretinoina: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

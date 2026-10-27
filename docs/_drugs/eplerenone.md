@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Eplerenone: dall'ipertensione all'ipertensione polmonare
+## Eplerenone: dall'ipertensione all'ipertensione polmonare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

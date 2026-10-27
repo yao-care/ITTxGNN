@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Etoposide: dal carcinoma polmonare a piccole cellule al sarcoma di Ewing
+## Etoposide: dal carcinoma polmonare a piccole cellule al sarcoma di Ewing
+{: .text-alpha }
 
 ## Sintesi
 

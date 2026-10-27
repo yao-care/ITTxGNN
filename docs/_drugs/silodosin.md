@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Silodosina: dall'ipertrofia prostatica benigna alla Ipertricosi universale congenita di tipo Ambras
+## Silodosina: dall'ipertrofia prostatica benigna alla Ipertricosi universale congenita di tipo Ambras
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

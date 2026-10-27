@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Alprostadil: Dalla disfunzione erettile alla malformazione aortica
+## Alprostadil: Dalla disfunzione erettile alla malformazione aortica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

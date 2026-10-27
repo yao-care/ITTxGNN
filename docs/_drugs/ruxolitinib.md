@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ruxolitinib: Dalle neoplasie mieloproliferative alla sindrome emofagocitica associata a infezione
+## Ruxolitinib: Dalle neoplasie mieloproliferative alla sindrome emofagocitica associata a infezione
+{: .text-alpha }
 
 ## Sintesi in una frase
 

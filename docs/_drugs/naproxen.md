@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Naprossene: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Naprossene: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

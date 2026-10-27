@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Alfuzosina: Rapporto di Valutazione del Riposizionamento del Farmaco
+## Alfuzosina: Rapporto di Valutazione del Riposizionamento del Farmaco
+{: .text-alpha }
 
 ## Riassunto in Una Frase
 

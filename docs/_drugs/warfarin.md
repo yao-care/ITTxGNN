@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Warfarin: Dalla trombosi alla carenza di cofattore eparinico II
+## Warfarin: Dalla trombosi alla carenza di cofattore eparinico II
+{: .text-alpha }
 
 ## Sintesi in una frase
 

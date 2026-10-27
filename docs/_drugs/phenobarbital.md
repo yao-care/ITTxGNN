@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Fenobarbital: dall'epilessia al neoplasma del nervo trigemino
+## Fenobarbital: dall'epilessia al neoplasma del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi
 

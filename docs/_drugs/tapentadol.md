@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Tapentadolo: dal dolore a un'ipotetica indicazione per l'emicrania
+## Tapentadolo: dal dolore a un'ipotetica indicazione per l'emicrania
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 </div>
 
-# Tacrolimus: Dalla dermatite atopica alla dermatite seborroica
+## Tacrolimus: Dalla dermatite atopica alla dermatite seborroica
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

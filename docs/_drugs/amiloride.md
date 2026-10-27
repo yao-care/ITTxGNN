@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Amiloride: dall'ipertensione alla ipertensione renovascolare maligna
+## Amiloride: dall'ipertensione alla ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

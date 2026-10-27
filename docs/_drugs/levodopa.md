@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Levodopa: dalla malattia di Parkinson all'encefalite subacuta di Rasmussen
+## Levodopa: dalla malattia di Parkinson all'encefalite subacuta di Rasmussen
+{: .text-alpha }
 
 ## Sintesi
 

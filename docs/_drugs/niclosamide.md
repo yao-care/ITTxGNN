@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Niclosamide: Dall'uso antielmintico alla malattia cardiaca
+## Niclosamide: Dall'uso antielmintico alla malattia cardiaca
+{: .text-alpha }
 
 ## Sintesi in una frase
 

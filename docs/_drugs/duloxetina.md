@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# DULOXETINA: Valutazione Sospesa – Dossier di Prove Incompleto
+## DULOXETINA: Valutazione Sospesa – Dossier di Prove Incompleto
+{: .text-alpha }
 
 ## Riassunto in Una Frase
 

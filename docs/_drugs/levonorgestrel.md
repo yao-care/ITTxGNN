@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Levonorgestrel: dall'osteoporosi post-menopausale all'acne
+## Levonorgestrel: dall'osteoporosi post-menopausale all'acne
+{: .text-alpha }
 
 ## Sintesi in una frase
 

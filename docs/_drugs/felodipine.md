@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Felodipina: dall'ipertensione arteriosa all'angina di Prinzmetal
+## Felodipina: dall'ipertensione arteriosa all'angina di Prinzmetal
+{: .text-alpha }
 
 ## Sintesi in una frase
 

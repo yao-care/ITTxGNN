@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Aceclofenac: dall'artrite reumatoide alla spondilopatia infiammatoria
+## Aceclofenac: dall'artrite reumatoide alla spondilopatia infiammatoria
+{: .text-alpha }
 
 ## Sintesi in una frase
 

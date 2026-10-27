@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Clobetasolo: dalle patologie cutanee infiammatorie al linfoma cutaneo primario a cellule T
+## Clobetasolo: dalle patologie cutanee infiammatorie al linfoma cutaneo primario a cellule T
+{: .text-alpha }
 
 ## Sintesi in una frase
 

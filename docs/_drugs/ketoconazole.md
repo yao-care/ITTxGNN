@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Ketoconazolo: Da infezioni fungine cutanee e sistemiche ad Acne
+## Ketoconazolo: Da infezioni fungine cutanee e sistemiche ad Acne
+{: .text-alpha }
 
 ## Riepilogo in breve
 

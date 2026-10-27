@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Budesonide: Dalla malattia di Crohn e dall'asma alla bronchite
+## Budesonide: Dalla malattia di Crohn e dall'asma alla bronchite
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

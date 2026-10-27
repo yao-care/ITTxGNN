@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Pramipexolo: dalla malattia di Parkinson e sindrome delle gambe senza riposo al disturbo da deficit di attenzione e iperattività (ADHD)
+## Pramipexolo: dalla malattia di Parkinson e sindrome delle gambe senza riposo al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Tetraciclina: dall'uso in infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Tetraciclina: dall'uso in infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

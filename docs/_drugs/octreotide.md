@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Octreotide: Dall'acromegalia alla cheratosi follicolare invertita vulvare
+## Octreotide: Dall'acromegalia alla cheratosi follicolare invertita vulvare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

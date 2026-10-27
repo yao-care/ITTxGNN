@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Baclofene: dall'indicazione originale (non disponibile nei dati) al disturbo da deficit di attenzione e iperattività (ADHD)
+## Baclofene: dall'indicazione originale (non disponibile nei dati) al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

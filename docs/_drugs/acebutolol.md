@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Acebutolol: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Acebutolol: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi
 

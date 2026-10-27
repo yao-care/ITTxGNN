@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Acido folico: dalla carenza vitaminica alla malattia del metabolismo della biotina
+## Acido folico: dalla carenza vitaminica alla malattia del metabolismo della biotina
+{: .text-alpha }
 
 ## Sintesi
 

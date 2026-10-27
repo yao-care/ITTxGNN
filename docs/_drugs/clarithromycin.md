@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Claritromicina: Dalle infezioni batteriche delle vie respiratorie all'iperamilasemia
+## Claritromicina: Dalle infezioni batteriche delle vie respiratorie all'iperamilasemia
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

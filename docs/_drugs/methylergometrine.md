@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Metilergometrina: Dall'uso ostetrico a Ipertricosi (predizione TxGNN, evidenza solo computazionale)
+## Metilergometrina: Dall'uso ostetrico a Ipertricosi (predizione TxGNN, evidenza solo computazionale)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

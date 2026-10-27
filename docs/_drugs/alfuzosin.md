@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Alfuzosina: dall'ipertrofia prostatica benigna alla ipertricosi universale congenita di tipo Ambras
+## Alfuzosina: dall'ipertrofia prostatica benigna alla ipertricosi universale congenita di tipo Ambras
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Bexarotene: dal linfoma cutaneo a cellule T al linfoma cutaneo a cellule B primitivo
+## Bexarotene: dal linfoma cutaneo a cellule T al linfoma cutaneo a cellule B primitivo
+{: .text-alpha }
 
 ## Riepilogo in breve
 

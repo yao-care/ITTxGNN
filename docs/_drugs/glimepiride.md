@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Glimepiride: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
+## Glimepiride: dal diabete mellito di tipo 2 alla sindrome della persona rigida classica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

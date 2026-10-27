@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tetrabenazina: dalla malattia di Huntington alla malattia policistica renale di tipo 3
+## Tetrabenazina: dalla malattia di Huntington alla malattia policistica renale di tipo 3
+{: .text-alpha }
 
 ## Riepilogo in breve
 

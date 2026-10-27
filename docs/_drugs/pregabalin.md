@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Pregabalin: Dal dolore neuropatico e dalla fibromialgia all'emicrania
+## Pregabalin: Dal dolore neuropatico e dalla fibromialgia all'emicrania
+{: .text-alpha }
 
 ## Sintesi in una frase
 

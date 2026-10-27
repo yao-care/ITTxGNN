@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Fluconazolo: Dalla candidosi alla cheratocongiuntivite epiteliale puntata
+## Fluconazolo: Dalla candidosi alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Tegafur: dal carcinoma gastrico alla neoplasia del colon
+## Tegafur: dal carcinoma gastrico alla neoplasia del colon
+{: .text-alpha }
 
 ## Sintesi in una frase
 

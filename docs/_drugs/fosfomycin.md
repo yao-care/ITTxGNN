@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Fosfomicina: dall'infezione delle vie urinarie all'uretrite gonococcica
+## Fosfomicina: dall'infezione delle vie urinarie all'uretrite gonococcica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

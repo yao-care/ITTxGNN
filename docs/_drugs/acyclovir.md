@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Aciclovir: Dalle infezioni erpetiche alla verruca volgare (common wart)
+## Aciclovir: Dalle infezioni erpetiche alla verruca volgare (common wart)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

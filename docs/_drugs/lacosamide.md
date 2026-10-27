@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Lacosamide: Dall'epilessia focale al disturbo bipolare maniacale
+## Lacosamide: Dall'epilessia focale al disturbo bipolare maniacale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

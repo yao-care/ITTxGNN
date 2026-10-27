@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-# Atorvastatina: dall'ipercolesterolemia all'ipercolesterolemia familiare
+## Atorvastatina: dall'ipercolesterolemia all'ipercolesterolemia familiare
+{: .text-alpha }
 
 ## Sintesi
 

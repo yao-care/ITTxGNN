@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Flunisolide: dall'asma alla dermatite atopica (eczema atopico)
+## Flunisolide: dall'asma alla dermatite atopica (eczema atopico)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

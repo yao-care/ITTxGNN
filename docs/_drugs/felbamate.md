@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-# Felbamato: Dall'epilessia alla nevralgia del trigemino
+## Felbamato: Dall'epilessia alla nevralgia del trigemino
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Amoxicillina: dalle infezioni batteriche all'iperamilasemia
+## Amoxicillina: dalle infezioni batteriche all'iperamilasemia
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Lisinopril: dall'ipertensione all'infarto miocardico posterolaterale
+## Lisinopril: dall'ipertensione all'infarto miocardico posterolaterale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Nicardipina: dall'ipertensione all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Nicardipina: dall'ipertensione all'ipertensione polmonare da malattia polmonare e/o ipossia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

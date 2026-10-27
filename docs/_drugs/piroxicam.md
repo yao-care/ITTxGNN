@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Piroxicam: dall'artrite reumatoide alla sindrome da microftalmia colobomatosa-displasia rizomelica
+## Piroxicam: dall'artrite reumatoide alla sindrome da microftalmia colobomatosa-displasia rizomelica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

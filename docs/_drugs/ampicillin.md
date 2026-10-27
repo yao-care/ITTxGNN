@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Ampicillina: dalle infezioni batteriche alla laringite
+## Ampicillina: dalle infezioni batteriche alla laringite
+{: .text-alpha }
 
 ## Sintesi
 

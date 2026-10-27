@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Pimozide: Dalla sindrome di Tourette alla tricotillomania
+## Pimozide: Dalla sindrome di Tourette alla tricotillomania
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Icosapent etile: dall'ipertrigliceridemia all'emoglobinopatia
+## Icosapent etile: dall'ipertrigliceridemia all'emoglobinopatia
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

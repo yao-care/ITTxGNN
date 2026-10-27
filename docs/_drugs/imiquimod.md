@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Imiquimod: dalla cheratosi attinica alle neoplasie pre-maligne
+## Imiquimod: dalla cheratosi attinica alle neoplasie pre-maligne
+{: .text-alpha }
 
 ## Sintesi
 

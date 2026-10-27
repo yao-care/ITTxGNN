@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Risperidone: dalla schizofrenia e dal disturbo bipolare alla paralisi dello sguardo orizzontale familiare con scoliosi progressiva
+## Risperidone: dalla schizofrenia e dal disturbo bipolare alla paralisi dello sguardo orizzontale familiare con scoliosi progressiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

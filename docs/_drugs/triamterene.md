@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Triamterene: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Triamterene: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

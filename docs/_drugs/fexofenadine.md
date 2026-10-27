@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Fexofenadina: dalle indicazioni allergiche alla congiuntivite da rosacea
+## Fexofenadina: dalle indicazioni allergiche alla congiuntivite da rosacea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Rotigotina: Dalla malattia di Parkinson al disturbo da deficit di attenzione e iperattività (ADHD)
+## Rotigotina: Dalla malattia di Parkinson al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

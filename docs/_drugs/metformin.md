@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Metformina: dal diabete mellito di tipo 2 alla sindrome della gamba rigida focale
+## Metformina: dal diabete mellito di tipo 2 alla sindrome della gamba rigida focale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

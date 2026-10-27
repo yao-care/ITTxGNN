@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Emicizumab: dall'emofilia alla pseudo-malattia di von Willebrand
+## Emicizumab: dall'emofilia alla pseudo-malattia di von Willebrand
+{: .text-alpha }
 
 ## Sintesi in una frase
 

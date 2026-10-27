@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-# Olodaterolo: dalla BPCO alla bronchite
+## Olodaterolo: dalla BPCO alla bronchite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

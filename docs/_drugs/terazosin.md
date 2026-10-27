@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Terazosina: dall'ipertensione e iperplasia prostatica benigna alla perdita di capelli (ipotricosi semplice del cuoio capelluto)
+## Terazosina: dall'ipertensione e iperplasia prostatica benigna alla perdita di capelli (ipotricosi semplice del cuoio capelluto)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

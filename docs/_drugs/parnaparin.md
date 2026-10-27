@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Parnaparin: Dall'embolia polmonare alla malattia fibrocistica della mammella
+## Parnaparin: Dall'embolia polmonare alla malattia fibrocistica della mammella
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

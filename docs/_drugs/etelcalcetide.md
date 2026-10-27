@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **4**
 
 </div>
 
-# Etelcalcetide: dall'iperparatiroidismo all'iperfosfatemia
+## Etelcalcetide: dall'iperparatiroidismo all'iperfosfatemia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

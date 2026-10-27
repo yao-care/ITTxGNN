@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Trazodone: dalla depressione al disturbo ossessivo-compulsivo
+## Trazodone: dalla depressione al disturbo ossessivo-compulsivo
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

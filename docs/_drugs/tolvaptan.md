@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tolvaptan: dalla sindrome da inappropriata secrezione di ADH alla malattia policistica renale 3 (con o senza malattia policistica epatica)
+## Tolvaptan: dalla sindrome da inappropriata secrezione di ADH alla malattia policistica renale 3 (con o senza malattia policistica epatica)
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Labetalolo: dall'ipertensione all'ipertensione renovascolare maligna
+## Labetalolo: dall'ipertensione all'ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

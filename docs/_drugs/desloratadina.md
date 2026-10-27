@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Desloratadina: pacchetto di prove incompleto — nessuna previsione di riposizionamento disponibile
+## Desloratadina: pacchetto di prove incompleto — nessuna previsione di riposizionamento disponibile
+{: .text-alpha }
 
 ## Sommario
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Ribavirina: dall'epatite C cronica all'epatite B cronica
+## Ribavirina: dall'epatite C cronica all'epatite B cronica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

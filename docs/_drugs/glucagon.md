@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Glucagone: dal trattamento dell'ipoglicemia alla sindrome dell'intestino irritabile
+## Glucagone: dal trattamento dell'ipoglicemia alla sindrome dell'intestino irritabile
+{: .text-alpha }
 
 ## Sintesi in una frase
 

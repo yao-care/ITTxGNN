@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Flecainide: Dalla fibrillazione atriale all'ictus (stroke disorder)
+## Flecainide: Dalla fibrillazione atriale all'ictus (stroke disorder)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

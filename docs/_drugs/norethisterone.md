@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Noretisterone: dalle indicazioni ginecologiche e endocrine all'amenorrea
+## Noretisterone: dalle indicazioni ginecologiche e endocrine all'amenorrea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

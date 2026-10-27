@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Bosentan: dall'ipertensione arteriosa polmonare all'artrite reumatoide
+## Bosentan: dall'ipertensione arteriosa polmonare all'artrite reumatoide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

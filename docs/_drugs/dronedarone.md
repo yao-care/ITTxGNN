@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Dronedarone: Dalla fibrillazione atriale al disturbo cerebrovascolare (ictus)
+## Dronedarone: Dalla fibrillazione atriale al disturbo cerebrovascolare (ictus)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

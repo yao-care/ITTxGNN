@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Benralizumab: dalla polmonite eosinofila alla dermatite
+## Benralizumab: dalla polmonite eosinofila alla dermatite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

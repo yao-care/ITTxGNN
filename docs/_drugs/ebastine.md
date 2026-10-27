@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Ebastina: Dall'allergia alla malattia coronarica
+## Ebastina: Dall'allergia alla malattia coronarica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Efmoroctocog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
+## Efmoroctocog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
+{: .text-alpha }
 
 ## Sintesi
 

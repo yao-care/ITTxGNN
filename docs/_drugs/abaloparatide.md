@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Abaloparatide: dall'osteoporosi post-menopausale alla malformazione esofagea non sindromica
+## Abaloparatide: dall'osteoporosi post-menopausale alla malformazione esofagea non sindromica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

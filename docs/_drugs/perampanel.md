@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Perampanel: Dall'epilessia parziale alla epilessia visiva
+## Perampanel: Dall'epilessia parziale alla epilessia visiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

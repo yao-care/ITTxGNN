@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **6**
 
 </div>
 
-# Rimegepant: Dall'emicrania alla emicrania con aura del tronco encefalico
+## Rimegepant: Dall'emicrania alla emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Dienogest: Dall'endometriosi all'amenorrea (ipotesi da verificare)
+## Dienogest: Dall'endometriosi all'amenorrea (ipotesi da verificare)
+{: .text-alpha }
 
 ## Sintesi
 

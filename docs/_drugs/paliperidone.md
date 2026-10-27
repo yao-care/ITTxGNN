@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Paliperidone: Dalla schizofrenia alla schizofrenia resistente al trattamento
+## Paliperidone: Dalla schizofrenia alla schizofrenia resistente al trattamento
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Pioglitazone: dal diabete mellito di tipo 2 all'opsismodisplasia
+## Pioglitazone: dal diabete mellito di tipo 2 all'opsismodisplasia
+{: .text-alpha }
 
 ## Sintesi
 

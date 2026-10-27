@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Atomoxetina: dall'ADHD alla Sindrome di Tourette (disturbo specifico dello sviluppo come primo risultato del modello)
+## Atomoxetina: dall'ADHD alla Sindrome di Tourette (disturbo specifico dello sviluppo come primo risultato del modello)
+{: .text-alpha }
 
 ## Sintesi
 

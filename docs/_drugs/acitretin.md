@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Acitretina: dall'uso dermatologico sistemico all'acne (indicazione predetta)
+## Acitretina: dall'uso dermatologico sistemico all'acne (indicazione predetta)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

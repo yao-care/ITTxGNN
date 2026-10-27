@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Zuclopentixolo: dalla schizofrenia alla distrofia retinica (con o senza anomalie extraoculari)
+## Zuclopentixolo: dalla schizofrenia alla distrofia retinica (con o senza anomalie extraoculari)
+{: .text-alpha }
 
 ## Sintesi
 

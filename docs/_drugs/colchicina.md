@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Colchicina (Colchicina): Valutazione del Riposizionamento del Farmaco — Dati Insufficienti per l'Analisi Completa
+## Colchicina (Colchicina): Valutazione del Riposizionamento del Farmaco — Dati Insufficienti per l'Analisi Completa
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **6**
 
 </div>
 
-# Cetirizina: dall'orticaria idiopatica all'orticaria allergica
+## Cetirizina: dall'orticaria idiopatica all'orticaria allergica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

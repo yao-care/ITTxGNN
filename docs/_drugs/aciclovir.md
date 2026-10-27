@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Aciclovir: Rapporto di valutazione del riutilizzo del farmaco — Valutazione preliminare
+## Aciclovir: Rapporto di valutazione del riutilizzo del farmaco — Valutazione preliminare
+{: .text-alpha }
 
 ## Riassunto in una frase
 

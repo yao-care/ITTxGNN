@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Insulina glargine: dal diabete mellito all'ooforite autoimmune
+## Insulina glargine: dal diabete mellito all'ooforite autoimmune
+{: .text-alpha }
 
 ## Sintesi in una frase
 

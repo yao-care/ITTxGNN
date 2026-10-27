@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Oxacillina: da infezioni stafilococciche a epiglottite
+## Oxacillina: da infezioni stafilococciche a epiglottite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

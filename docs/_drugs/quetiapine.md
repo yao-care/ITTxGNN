@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Quetiapina: dal disturbo bipolare e dalla schizofrenia alla tricotillomania
+## Quetiapina: dal disturbo bipolare e dalla schizofrenia alla tricotillomania
+{: .text-alpha }
 
 ## Sintesi in una frase
 

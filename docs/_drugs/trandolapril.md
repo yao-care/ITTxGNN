@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Trandolapril: Dall'ipertensione alla malattia renale ipertensiva maligna e all'ipertensione renovascolare maligna
+## Trandolapril: Dall'ipertensione alla malattia renale ipertensiva maligna e all'ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi
 

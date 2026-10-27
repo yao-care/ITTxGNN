@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acido valproico: dall'epilessia al neoplasma del nervo trigemino
+## Acido valproico: dall'epilessia al neoplasma del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi in una frase
 

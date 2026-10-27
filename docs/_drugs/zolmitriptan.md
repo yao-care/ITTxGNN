@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Zolmitriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+## Zolmitriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

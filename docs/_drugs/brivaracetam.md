@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Brivaracetam: Dall'epilessia parziale allo stato epilettico
+## Brivaracetam: Dall'epilessia parziale allo stato epilettico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

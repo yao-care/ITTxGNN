@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Lamotrigina: dall'epilessia al neoplasma del nervo trigemino (predizione da verificare)
+## Lamotrigina: dall'epilessia al neoplasma del nervo trigemino (predizione da verificare)
+{: .text-alpha }
 
 ## Sintesi
 

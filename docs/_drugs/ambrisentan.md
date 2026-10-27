@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Ambrisentan: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a malattia del tessuto connettivo
+## Ambrisentan: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a malattia del tessuto connettivo
+{: .text-alpha }
 
 ## Sintesi
 

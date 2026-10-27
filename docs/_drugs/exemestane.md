@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Exemestane: dal carcinoma mammario all'amenorrea (predizione di bassa plausibilità)
+## Exemestane: dal carcinoma mammario all'amenorrea (predizione di bassa plausibilità)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

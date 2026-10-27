@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Aliskiren: Dall'ipertensione all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Aliskiren: Dall'ipertensione all'ipertensione polmonare da malattia polmonare e/o ipossia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Mebendazolo: Dagli elmintiasi intestinali all'acne (predizione computazionale)
+## Mebendazolo: Dagli elmintiasi intestinali all'acne (predizione computazionale)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

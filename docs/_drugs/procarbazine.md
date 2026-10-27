@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **5**
 
 </div>
 
-# Procarbazina: dal linfoma di Hodgkin al linfoma follicolare
+## Procarbazina: dal linfoma di Hodgkin al linfoma follicolare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

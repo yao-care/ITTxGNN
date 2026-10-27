@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Miglustat: Dalla malattia di Gaucher alla malattia di Tay-Sachs
+## Miglustat: Dalla malattia di Gaucher alla malattia di Tay-Sachs
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

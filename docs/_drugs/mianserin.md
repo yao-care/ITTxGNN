@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Mianserina: dalla depressione unipolare alla distimia (disturbo distimico)
+## Mianserina: dalla depressione unipolare alla distimia (disturbo distimico)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

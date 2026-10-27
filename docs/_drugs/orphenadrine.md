@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Orfenadrina: Dal Parkinsonismo alla Schizofrenia
+## Orfenadrina: Dal Parkinsonismo alla Schizofrenia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

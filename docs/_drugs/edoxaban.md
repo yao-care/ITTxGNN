@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# EDOXABAN (DB09075): Valutazione del riposizionamento del farmaco — Dati insufficienti per procedere
+## EDOXABAN (DB09075): Valutazione del riposizionamento del farmaco — Dati insufficienti per procedere
+{: .text-alpha }
 
 ## Riassunto in una frase
 

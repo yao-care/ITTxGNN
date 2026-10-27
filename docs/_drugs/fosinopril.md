@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Fosinopril: Dall'ipertensione alla Ipertensione renovascolare maligna
+## Fosinopril: Dall'ipertensione alla Ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

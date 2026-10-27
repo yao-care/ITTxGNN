@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Sapropterin: Dalla fenilchetonuria al disturbo del metabolismo della tirosina
+## Sapropterin: Dalla fenilchetonuria al disturbo del metabolismo della tirosina
+{: .text-alpha }
 
 ## Sintesi in una frase
 

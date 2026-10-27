@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Topiramato: Dall'epilessia alla neoplasia del nervo trigemino
+## Topiramato: Dall'epilessia alla neoplasia del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi in una frase
 

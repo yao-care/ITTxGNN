@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Dupilumab: dalla dermatite atopica alla bronchite
+## Dupilumab: dalla dermatite atopica alla bronchite
+{: .text-alpha }
 
 ## Sintesi in breve
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-# Midazolam: Dall'ansia all'insonnia
+## Midazolam: Dall'ansia all'insonnia
+{: .text-alpha }
 
 ## Sintesi
 

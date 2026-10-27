@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Sucralfato: Dall'ulcera duodenale al reflusso duodeno-gastrico
+## Sucralfato: Dall'ulcera duodenale al reflusso duodeno-gastrico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

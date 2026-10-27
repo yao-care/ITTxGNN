@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Ropinirolo: dalla sindrome delle gambe senza riposo e malattia di Parkinson al disturbo da deficit di attenzione e iperattività (ADHD)
+## Ropinirolo: dalla sindrome delle gambe senza riposo e malattia di Parkinson al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi
 

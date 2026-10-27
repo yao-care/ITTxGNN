@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **3**
 
 </div>
 
-# Albendazolo: dalla echinococcosi cistica all'echinococcosi alveolare
+## Albendazolo: dalla echinococcosi cistica all'echinococcosi alveolare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

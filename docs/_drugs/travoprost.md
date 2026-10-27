@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Travoprost: Dal glaucoma ad angolo aperto alla malattia vascolare
+## Travoprost: Dal glaucoma ad angolo aperto alla malattia vascolare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

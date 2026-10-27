@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Mesalazina: Dalla colite ulcerosa alla congenital hypotrichosis with juvenile macular dystrophy
+## Mesalazina: Dalla colite ulcerosa alla congenital hypotrichosis with juvenile macular dystrophy
+{: .text-alpha }
 
 ## Sintesi in una frase
 

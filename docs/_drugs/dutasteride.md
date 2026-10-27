@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dutasteride: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+## Dutasteride: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+{: .text-alpha }
 
 ## Sintesi
 

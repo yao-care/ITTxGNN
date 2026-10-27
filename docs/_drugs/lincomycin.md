@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Lincomicina: dalle infezioni batteriche all'iperamilasemia
+## Lincomicina: dalle infezioni batteriche all'iperamilasemia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

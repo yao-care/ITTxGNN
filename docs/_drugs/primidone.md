@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Primidone: Dall'epilessia al neoplasma del nervo trigemino
+## Primidone: Dall'epilessia al neoplasma del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Granisetron: Dal controllo della nausea e del vomito al disturbo bipolare maniacale
+## Granisetron: Dal controllo della nausea e del vomito al disturbo bipolare maniacale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

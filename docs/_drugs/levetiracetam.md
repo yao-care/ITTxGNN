@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Levetiracetam: Dall'epilessia parziale allo stato epilettico
+## Levetiracetam: Dall'epilessia parziale allo stato epilettico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

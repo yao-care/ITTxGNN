@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Calcipotriolo: dalla psoriasi alla cheratosi seborroica
+## Calcipotriolo: dalla psoriasi alla cheratosi seborroica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

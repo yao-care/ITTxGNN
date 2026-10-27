@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **9**
 
 </div>
 
-# Deferiprone: Dalla sovraccarico di ferro nella talassemia alla porfiria epatica
+## Deferiprone: Dalla sovraccarico di ferro nella talassemia alla porfiria epatica
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

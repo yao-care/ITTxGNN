@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Lonafarnib: Dalla indicazione originaria alla lebbra (indicazione prevista)
+## Lonafarnib: Dalla indicazione originaria alla lebbra (indicazione prevista)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

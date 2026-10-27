@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Clortalidone: Da ipertensione e scompenso cardiaco congestizio a glaucoma primario ereditario
+## Clortalidone: Da ipertensione e scompenso cardiaco congestizio a glaucoma primario ereditario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

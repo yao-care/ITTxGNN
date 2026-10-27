@@ -31,7 +31,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Capecitabina: dal carcinoma gastrico al adenocarcinoma gastrico tubulare
+## Capecitabina: dal carcinoma gastrico al adenocarcinoma gastrico tubulare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Zonisamide: Dall'epilessia alla sindrome di Tourette
+## Zonisamide: Dall'epilessia alla sindrome di Tourette
+{: .text-alpha }
 
 ## Sintesi in una frase
 

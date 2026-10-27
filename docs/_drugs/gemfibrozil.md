@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Gemfibrozil: dall'ipertrigliceridemia all'artrite reumatoide
+## Gemfibrozil: dall'ipertrigliceridemia all'artrite reumatoide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Rufinamide: Dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
+## Rufinamide: Dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

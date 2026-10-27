@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Captopril: dall'ipertensione alla malattia renale ipertensiva maligna
+## Captopril: dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Riepilogo in breve
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Metolazone: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Metolazone: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Lanreotide: dall'acromegalia all'ipertricosi
+## Lanreotide: dall'acromegalia all'ipertricosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

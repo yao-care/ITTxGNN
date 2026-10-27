@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tolcapone: Dal morbo di Parkinson alla encefalite subacuta di Rasmussen
+## Tolcapone: Dal morbo di Parkinson alla encefalite subacuta di Rasmussen
+{: .text-alpha }
 
 ## Sintesi in una frase
 

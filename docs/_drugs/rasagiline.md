@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Rasagilina: dal morbo di Parkinson alla neurodegenerazione associata a PLA2G6
+## Rasagilina: dal morbo di Parkinson alla neurodegenerazione associata a PLA2G6
+{: .text-alpha }
 
 ## Sintesi in una frase
 

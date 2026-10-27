@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Calcifediol: Dalle indicazioni attuali alla carenza di vitamina D (predizione TxGNN)
+## Calcifediol: Dalle indicazioni attuali alla carenza di vitamina D (predizione TxGNN)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

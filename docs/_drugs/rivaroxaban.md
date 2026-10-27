@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Rivaroxaban: Dall'uso antitrombotico all'artrite reumatoide (predizione TxGNN)
+## Rivaroxaban: Dall'uso antitrombotico all'artrite reumatoide (predizione TxGNN)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

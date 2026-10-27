@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Clomipramina: dal disturbo ossessivo-compulsivo al disturbo d'ansia
+## Clomipramina: dal disturbo ossessivo-compulsivo al disturbo d'ansia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Ciclesonide: Dall'asma alla dermatite atopica (eczema atopico)
+## Ciclesonide: Dall'asma alla dermatite atopica (eczema atopico)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

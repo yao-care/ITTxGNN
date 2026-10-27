@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Atenololo: dall'ipertensione e dall'infarto miocardico all'infarto miocardico posterolaterale
+## Atenololo: dall'ipertensione e dall'infarto miocardico all'infarto miocardico posterolaterale
+{: .text-alpha }
 
 ## Sintesi
 

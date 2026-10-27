@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Insulina glulisina: dal diabete mellito al diabete mellito di tipo 1
+## Insulina glulisina: dal diabete mellito al diabete mellito di tipo 1
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Evolocumab: Dall'ipercolesterolemia familiare omozigote alla forma sintomatica di emofilia nelle portatrici
+## Evolocumab: Dall'ipercolesterolemia familiare omozigote alla forma sintomatica di emofilia nelle portatrici
+{: .text-alpha }
 
 ## Sintesi in una frase
 

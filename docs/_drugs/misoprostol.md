@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Misoprostolo: dall'indicazione originale non documentata all'amenorrea
+## Misoprostolo: dall'indicazione originale non documentata all'amenorrea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

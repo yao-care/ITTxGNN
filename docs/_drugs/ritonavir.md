@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Ritonavir: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+## Ritonavir: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

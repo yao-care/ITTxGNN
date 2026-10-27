@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Cefuroxima: dalle infezioni batteriche all'infezione delle vie urinarie
+## Cefuroxima: dalle infezioni batteriche all'infezione delle vie urinarie
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Gliquidone: Dal diabete mellito di tipo 2 alla sindrome dell'arto rigido focale
+## Gliquidone: Dal diabete mellito di tipo 2 alla sindrome dell'arto rigido focale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

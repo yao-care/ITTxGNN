@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Netarsudil: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+## Netarsudil: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi
 

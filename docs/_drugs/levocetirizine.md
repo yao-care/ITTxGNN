@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Levocetirizina: dalla rinite allergica all'artrite reumatoide
+## Levocetirizina: dalla rinite allergica all'artrite reumatoide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

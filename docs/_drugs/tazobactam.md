@@ -31,7 +31,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **2**
 
 </div>
 
-# Tazobactam: Dalle infezioni batteriche originarie alla polmonite (nosocomiale)
+## Tazobactam: Dalle infezioni batteriche originarie alla polmonite (nosocomiale)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

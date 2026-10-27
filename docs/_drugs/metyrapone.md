@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Metirapone: Dall'indicazione originale a "ipertermia maligna da esercizio fisico"
+## Metirapone: Dall'indicazione originale a "ipertermia maligna da esercizio fisico"
+{: .text-alpha }
 
 ## Sintesi in una frase
 

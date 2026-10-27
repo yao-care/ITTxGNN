@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Tenoxicam: dalle malattie articolari artritiche all'artrite reumatoide
+## Tenoxicam: dalle malattie articolari artritiche all'artrite reumatoide
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

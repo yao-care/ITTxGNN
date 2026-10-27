@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Galantamina: Da Alzheimer a Disturbi del movimento ed extrapiramidali (con segnale su discinesia linguo-facio-buccale)
+## Galantamina: Da Alzheimer a Disturbi del movimento ed extrapiramidali (con segnale su discinesia linguo-facio-buccale)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

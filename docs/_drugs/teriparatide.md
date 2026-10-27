@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Teriparatide: Dall'osteoporosi postmenopausale all'ulcera duodenale
+## Teriparatide: Dall'osteoporosi postmenopausale all'ulcera duodenale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Clorpromazina: Valutazione della Riproposizione Incompleta — Previsioni di TxGNN Non Disponibili
+## Clorpromazina: Valutazione della Riproposizione Incompleta — Previsioni di TxGNN Non Disponibili
+{: .text-alpha }
 
 ## Riassunto in una Riga
 

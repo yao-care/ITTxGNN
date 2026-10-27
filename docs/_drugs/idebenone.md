@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Idebenone: dalla neuropatia ottica ereditaria di Leber alla porfiria epatica
+## Idebenone: dalla neuropatia ottica ereditaria di Leber alla porfiria epatica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

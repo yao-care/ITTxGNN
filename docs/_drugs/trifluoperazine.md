@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Trifluoperazina: dalla schizofrenia al disturbo bipolare maniacale
+## Trifluoperazina: dalla schizofrenia al disturbo bipolare maniacale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

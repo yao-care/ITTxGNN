@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Simoctocog alfa: dall'emofilia alla pseudo-malattia di von Willebrand
+## Simoctocog alfa: dall'emofilia alla pseudo-malattia di von Willebrand
+{: .text-alpha }
 
 ## Sintesi in una frase
 

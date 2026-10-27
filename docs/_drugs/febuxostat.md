@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Febuxostat: Dall'iperuricemia all'ipouricemia renale
+## Febuxostat: Dall'iperuricemia all'ipouricemia renale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Tamoxifene: dal carcinoma mammario al carcinoma duttale in situ della mammella
+## Tamoxifene: dal carcinoma mammario al carcinoma duttale in situ della mammella
+{: .text-alpha }
 
 ## Sintesi in una frase
 

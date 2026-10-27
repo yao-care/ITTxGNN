@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acido clavulanico: dalle infezioni batteriche all'uretrite gonococcica
+## Acido clavulanico: dalle infezioni batteriche all'uretrite gonococcica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

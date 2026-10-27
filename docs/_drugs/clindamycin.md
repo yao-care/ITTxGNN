@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Clindamicina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Clindamicina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

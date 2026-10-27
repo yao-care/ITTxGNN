@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Biperiden: dal morbo di Parkinson alla encefalite subacuta di Rasmussen
+## Biperiden: dal morbo di Parkinson alla encefalite subacuta di Rasmussen
+{: .text-alpha }
 
 ## Sintesi
 

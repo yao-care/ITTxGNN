@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Sumatriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+## Sumatriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

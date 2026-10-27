@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dorzolamide: Dal glaucoma ad angolo aperto al glaucoma ereditario primario
+## Dorzolamide: Dal glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

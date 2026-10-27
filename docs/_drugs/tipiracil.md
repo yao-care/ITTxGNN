@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tipiracil: Dal carcinoma del colon-retto all'adenoma villoso del cieco
+## Tipiracil: Dal carcinoma del colon-retto all'adenoma villoso del cieco
+{: .text-alpha }
 
 ## Sintesi in una frase
 

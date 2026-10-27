@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Tezacaftor: Dalla fibrosi cistica all'infezione da HIV
+## Tezacaftor: Dalla fibrosi cistica all'infezione da HIV
+{: .text-alpha }
 
 ## Sintesi in una frase
 

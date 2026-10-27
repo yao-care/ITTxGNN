@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Apomorfina: dalla malattia di Parkinson alla schizofrenia
+## Apomorfina: dalla malattia di Parkinson alla schizofrenia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

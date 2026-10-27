@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Lipegfilgrastim: dall'uso nella neutropenia al disturbo primario di rilascio piastrinico
+## Lipegfilgrastim: dall'uso nella neutropenia al disturbo primario di rilascio piastrinico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

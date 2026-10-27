@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Clorpromazina: dalla schizofrenia alla distrofia retinica (con o senza anomalie extraoculari)
+## Clorpromazina: dalla schizofrenia alla distrofia retinica (con o senza anomalie extraoculari)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

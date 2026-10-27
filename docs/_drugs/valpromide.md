@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Valpromide: Dall'indicazione originale non documentata all'insonnia
+## Valpromide: Dall'indicazione originale non documentata all'insonnia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

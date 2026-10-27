@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Everolimus: Dal carcinoma a cellule renali al liposarcoma
+## Everolimus: Dal carcinoma a cellule renali al liposarcoma
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

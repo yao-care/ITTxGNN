@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Meloxicam: Dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+## Meloxicam: Dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Lanadelumab: dall'angioedema ereditario al deficit di C1 inibitore
+## Lanadelumab: dall'angioedema ereditario al deficit di C1 inibitore
+{: .text-alpha }
 
 ## Riepilogo in breve
 

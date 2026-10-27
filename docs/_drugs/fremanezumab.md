@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-# Fremanezumab: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Fremanezumab: Dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

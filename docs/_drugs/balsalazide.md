@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Balsalazide: dalla colite ulcerosa alla gotta
+## Balsalazide: dalla colite ulcerosa alla gotta
+{: .text-alpha }
 
 ## Sintesi
 

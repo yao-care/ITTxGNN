@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Lumacaftor: Dalla fibrosi cistica alla lebbra
+## Lumacaftor: Dalla fibrosi cistica alla lebbra
+{: .text-alpha }
 
 ## Sintesi in una frase
 

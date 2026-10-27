@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Sulbactam: Dalle infezioni da S. aureus ed E. coli all'artrite batterica
+## Sulbactam: Dalle infezioni da S. aureus ed E. coli all'artrite batterica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

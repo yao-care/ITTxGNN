@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Metoprololo: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Metoprololo: Dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

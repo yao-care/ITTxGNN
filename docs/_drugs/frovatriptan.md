@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Frovatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Frovatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

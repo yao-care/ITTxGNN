@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Cefpodoxime: Dalle infezioni batteriche all'osteoartrite (predizione computazionale)
+## Cefpodoxime: Dalle infezioni batteriche all'osteoartrite (predizione computazionale)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

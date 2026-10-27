@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Cladribina: dalla leucemia a cellule capellute al rabdomiosarcoma embrionale parameningeo
+## Cladribina: dalla leucemia a cellule capellute al rabdomiosarcoma embrionale parameningeo
+{: .text-alpha }
 
 ## Sintesi
 

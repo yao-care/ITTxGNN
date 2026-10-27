@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Fluocinolone acetonide: dalle dermatosi infiammatorie al lichen planus ipertrofico
+## Fluocinolone acetonide: dalle dermatosi infiammatorie al lichen planus ipertrofico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

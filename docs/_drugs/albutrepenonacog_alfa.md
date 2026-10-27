@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Albutrepenonacog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
+## Albutrepenonacog alfa: dall'emofilia alla malattia di von Willebrand pseudo-tipo (pseudo-von Willebrand)
+{: .text-alpha }
 
 ## Sintesi
 

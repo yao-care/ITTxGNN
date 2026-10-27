@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Galcanezumab: dall'emicrania alla carenza di cofattore 2 dell'eparina
+## Galcanezumab: dall'emicrania alla carenza di cofattore 2 dell'eparina
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

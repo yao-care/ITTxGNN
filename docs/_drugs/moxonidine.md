@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Moxonidina: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+## Moxonidina: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Amiodarone: dalla fibrillazione ventricolare alla tachicardia ventricolare
+## Amiodarone: dalla fibrillazione ventricolare alla tachicardia ventricolare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

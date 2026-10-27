@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Nebivololo: dall'ipertensione alla nefropatia ipertensiva maligna
+## Nebivololo: dall'ipertensione alla nefropatia ipertensiva maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

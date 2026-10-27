@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **8**
 
 </div>
 
-# Roxitromicina: dalle infezioni batteriche alla lebbra
+## Roxitromicina: dalle infezioni batteriche alla lebbra
+{: .text-alpha }
 
 ## Sintesi in una frase
 

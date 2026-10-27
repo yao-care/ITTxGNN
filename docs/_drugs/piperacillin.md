@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-# Piperacillina: dall'uso antibatterico all'artrite reumatoide
+## Piperacillina: dall'uso antibatterico all'artrite reumatoide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Scopolamina: dalla cinetosi alla sindrome della cauda equina
+## Scopolamina: dalla cinetosi alla sindrome della cauda equina
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Aminofillina: dall'indicazione originale non documentata all'emicrania
+## Aminofillina: dall'indicazione originale non documentata all'emicrania
+{: .text-alpha }
 
 ## Sintesi
 

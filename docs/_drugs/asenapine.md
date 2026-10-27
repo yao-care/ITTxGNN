@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Asenapina: dalla schizofrenia e dal disturbo bipolare alla distrofia retinica con o senza anomalie extraoculari
+## Asenapina: dalla schizofrenia e dal disturbo bipolare alla distrofia retinica con o senza anomalie extraoculari
+{: .text-alpha }
 
 ## Sintesi in una frase
 

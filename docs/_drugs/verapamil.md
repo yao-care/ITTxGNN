@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Verapamil: Dall'ipertensione e dalle aritmie al blocco di branca (termine obsoleto)
+## Verapamil: Dall'ipertensione e dalle aritmie al blocco di branca (termine obsoleto)
+{: .text-alpha }
 
 ## Sintesi
 

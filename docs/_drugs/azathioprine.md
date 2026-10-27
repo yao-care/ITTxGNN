@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Azatioprina: da artrite reumatoide a sindrome microftalmia-coloboma con displasia rizomelica
+## Azatioprina: da artrite reumatoide a sindrome microftalmia-coloboma con displasia rizomelica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

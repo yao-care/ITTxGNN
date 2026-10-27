@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Tadalafil: Dalla disfunzione erettile all'ipertricosi di Ambras (ipertricosi universale congenita)
+## Tadalafil: Dalla disfunzione erettile all'ipertricosi di Ambras (ipertricosi universale congenita)
+{: .text-alpha }
 
 ## Sintesi
 

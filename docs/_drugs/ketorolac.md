@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Ketorolac: Dalla congiuntivite allergica al disturbo da cefalea
+## Ketorolac: Dalla congiuntivite allergica al disturbo da cefalea
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

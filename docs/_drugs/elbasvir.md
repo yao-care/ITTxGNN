@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Elbasvir: Dall'epatite C cronica all'infezione da virus dell'epatite B
+## Elbasvir: Dall'epatite C cronica all'infezione da virus dell'epatite B
+{: .text-alpha }
 
 ## Sintesi in una frase
 

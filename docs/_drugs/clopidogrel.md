@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **8**
 
 </div>
 
-# Clopidogrel: Dall'infarto miocardico e sindrome coronarica acuta all'emicrania
+## Clopidogrel: Dall'infarto miocardico e sindrome coronarica acuta all'emicrania
+{: .text-alpha }
 
 ## Sintesi
 

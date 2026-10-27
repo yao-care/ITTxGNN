@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Eftrenonacog alfa: Dall'emofilia alla pseudo-malattia di von Willebrand
+## Eftrenonacog alfa: Dall'emofilia alla pseudo-malattia di von Willebrand
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

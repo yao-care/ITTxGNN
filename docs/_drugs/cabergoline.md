@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Cabergolina: dall'iperprolattinemia all'adenocarcinoma ipofisario
+## Cabergolina: dall'iperprolattinemia all'adenocarcinoma ipofisario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

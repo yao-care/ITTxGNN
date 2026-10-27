@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Tobramicina: dalle infezioni oculari e batteriche alla cheratite da esposizione
+## Tobramicina: dalle infezioni oculari e batteriche alla cheratite da esposizione
+{: .text-alpha }
 
 ## Sintesi
 

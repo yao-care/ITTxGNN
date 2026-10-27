@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **8**
 
 </div>
 
-# Regorafenib: Dal carcinoma del colon-retto e GIST al liposarcoma
+## Regorafenib: Dal carcinoma del colon-retto e GIST al liposarcoma
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

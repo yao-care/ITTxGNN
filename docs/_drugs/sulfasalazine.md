@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Sulfasalazina: dall'artrite reumatoide all'osteoartrite
+## Sulfasalazina: dall'artrite reumatoide all'osteoartrite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

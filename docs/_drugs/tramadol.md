@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tramadolo: dall'osteoartrosi alla displasia acromesomelica di tipo Hunter-Thompson
+## Tramadolo: dall'osteoartrosi alla displasia acromesomelica di tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Sintesi
 

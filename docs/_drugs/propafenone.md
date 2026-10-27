@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **8**
 
 </div>
 
-# Propafenone: dalla fibrillazione atriale e tachicardia ventricolare alla tachicardia ventricolare polimorfa catecolaminergica
+## Propafenone: dalla fibrillazione atriale e tachicardia ventricolare alla tachicardia ventricolare polimorfa catecolaminergica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Salbutamolo: dall'asma alla congiuntivite papillare
+## Salbutamolo: dall'asma alla congiuntivite papillare
+{: .text-alpha }
 
 ## Sintesi in breve
 

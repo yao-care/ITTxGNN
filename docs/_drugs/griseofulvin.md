@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Griseofulvina: Dalla tinea alla miasi (predizione TxGNN)
+## Griseofulvina: Dalla tinea alla miasi (predizione TxGNN)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

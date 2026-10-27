@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-# Pantoprazolo: dall'ulcera peptica all'ulcera peptica attiva (uso già in etichetta)
+## Pantoprazolo: dall'ulcera peptica all'ulcera peptica attiva (uso già in etichetta)
+{: .text-alpha }
 
 ## Riepilogo in breve
 

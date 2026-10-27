@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Ibuprofene: dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+## Ibuprofene: dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

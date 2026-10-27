@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Propranololo: dall'ipertensione alla distrofia/miopatia distale di tipo Tateyama (predizione TxGNN)
+## Propranololo: dall'ipertensione alla distrofia/miopatia distale di tipo Tateyama (predizione TxGNN)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

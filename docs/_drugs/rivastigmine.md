@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Rivastigmina: dalla malattia di Alzheimer al glaucoma
+## Rivastigmina: dalla malattia di Alzheimer al glaucoma
+{: .text-alpha }
 
 ## Sintesi
 

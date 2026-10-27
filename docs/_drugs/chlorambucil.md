@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Clorambucile: Da linfomi e leucemie a Linfoma polmonare primitivo
+## Clorambucile: Da linfomi e leucemie a Linfoma polmonare primitivo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

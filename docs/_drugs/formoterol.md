@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Formoterolo: Da asma ed enfisema polmonare a malformazione respiratoria
+## Formoterolo: Da asma ed enfisema polmonare a malformazione respiratoria
+{: .text-alpha }
 
 ## Sintesi in una frase
 

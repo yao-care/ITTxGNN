@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-# Doxazosin: Dall'ipertensione e dall'iperplasia prostatica benigna all'emicrania
+## Doxazosin: Dall'ipertensione e dall'iperplasia prostatica benigna all'emicrania
+{: .text-alpha }
 
 ## Sintesi in una frase
 

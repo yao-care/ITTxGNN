@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Bicalutamide: dal carcinoma prostatico al carcinoma mammario femminile
+## Bicalutamide: dal carcinoma prostatico al carcinoma mammario femminile
+{: .text-alpha }
 
 ## Sintesi in una frase
 

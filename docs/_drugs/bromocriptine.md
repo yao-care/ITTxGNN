@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Bromocriptina: Dalla malattia di Parkinson alla schizofrenia
+## Bromocriptina: Dalla malattia di Parkinson alla schizofrenia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

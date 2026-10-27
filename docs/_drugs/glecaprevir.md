@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Glecaprevir: dall'epatite C cronica all'infezione da HIV
+## Glecaprevir: dall'epatite C cronica all'infezione da HIV
+{: .text-alpha }
 
 ## Sintesi in una frase
 

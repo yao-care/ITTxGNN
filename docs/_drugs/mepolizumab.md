@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Mepolizumab: Dalla polmonite eosinofila alla trombocitopenia da distruzione immunitaria
+## Mepolizumab: Dalla polmonite eosinofila alla trombocitopenia da distruzione immunitaria
+{: .text-alpha }
 
 ## Sintesi
 

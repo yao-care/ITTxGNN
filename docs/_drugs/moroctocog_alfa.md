@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Moroctocog alfa: dall'emofilia al disturbo da rilascio piastrinico primario
+## Moroctocog alfa: dall'emofilia al disturbo da rilascio piastrinico primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

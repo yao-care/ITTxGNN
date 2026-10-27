@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Letermovir: Da infezione da citomegalovirus a candidosi vulvovaginale
+## Letermovir: Da infezione da citomegalovirus a candidosi vulvovaginale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

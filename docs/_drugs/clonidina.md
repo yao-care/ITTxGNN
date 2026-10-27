@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Clonidina: Dati Insufficienti per la Valutazione del Ripescaggio del Farmaco
+## Clonidina: Dati Insufficienti per la Valutazione del Ripescaggio del Farmaco
+{: .text-alpha }
 
 ## Riassunto in una frase
 

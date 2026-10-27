@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Levotiroxina: dall'ipotiroidismo al gozzo nodulare
+## Levotiroxina: dall'ipotiroidismo al gozzo nodulare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

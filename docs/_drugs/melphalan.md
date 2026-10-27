@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Melfalan: dal carcinoma ovarico al tumore germinale delle gonadi
+## Melfalan: dal carcinoma ovarico al tumore germinale delle gonadi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

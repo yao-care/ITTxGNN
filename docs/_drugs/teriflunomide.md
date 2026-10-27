@@ -31,7 +31,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **1**
 
 </div>
 
-# Teriflunomide: Dalla sclerosi multipla alla sclerosi multipla recidivante-remittente
+## Teriflunomide: Dalla sclerosi multipla alla sclerosi multipla recidivante-remittente
+{: .text-alpha }
 
 ## Sintesi in una frase
 

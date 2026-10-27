@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Clotiapina: dall'indicazione originaria non documentata all'insonnia
+## Clotiapina: dall'indicazione originaria non documentata all'insonnia
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Fluvoxamina: dal disturbo ossessivo-compulsivo al disturbo schizotipico di personalità
+## Fluvoxamina: dal disturbo ossessivo-compulsivo al disturbo schizotipico di personalità
+{: .text-alpha }
 
 ## Sintesi
 

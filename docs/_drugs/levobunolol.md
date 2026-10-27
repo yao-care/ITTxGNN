@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Levobunololo: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+## Levobunololo: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

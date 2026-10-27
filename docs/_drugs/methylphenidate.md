@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Metilfenidato: dal disturbo da deficit di attenzione e iperattività al disturbo specifico dello sviluppo
+## Metilfenidato: dal disturbo da deficit di attenzione e iperattività al disturbo specifico dello sviluppo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

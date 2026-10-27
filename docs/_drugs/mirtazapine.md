@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Mirtazapina: dalla depressione maggiore alla sindrome di Ohdo e varianti
+## Mirtazapina: dalla depressione maggiore alla sindrome di Ohdo e varianti
+{: .text-alpha }
 
 ## Sintesi in una frase
 

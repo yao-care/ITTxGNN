@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **9**
 
 </div>
 
-# Cortisone: Dall'insufficienza surrenalica al linfoma cutaneo a cellule T primitivo
+## Cortisone: Dall'insufficienza surrenalica al linfoma cutaneo a cellule T primitivo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

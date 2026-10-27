@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# DABIGATRAN: valutazione candidata di riposizionamento dei farmaci — dati insufficienti, impossibile completare relazione completa
+## DABIGATRAN: valutazione candidata di riposizionamento dei farmaci — dati insufficienti, impossibile completare relazione completa
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

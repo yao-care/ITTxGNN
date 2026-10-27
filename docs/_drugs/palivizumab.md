@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Palivizumab: Dall'infezione da virus respiratorio sinciziale a neoplasia benigna della lingua
+## Palivizumab: Dall'infezione da virus respiratorio sinciziale a neoplasia benigna della lingua
+{: .text-alpha }
 
 ## Sintesi
 

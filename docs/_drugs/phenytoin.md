@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Fenitoina: Dall'epilessia alla neoplasia del nervo trigemino
+## Fenitoina: Dall'epilessia alla neoplasia del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi
 

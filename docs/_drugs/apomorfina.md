@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# APOMORFINA: Valutazione Iniziale di Riposizionamento del Farmaco
+## APOMORFINA: Valutazione Iniziale di Riposizionamento del Farmaco
+{: .text-alpha }
 
 ## Sintesi in una Frase
 

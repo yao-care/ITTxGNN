@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Prulifloxacina: dall'uso antibatterico alla malattia cardiaca (predizione non supportata)
+## Prulifloxacina: dall'uso antibatterico alla malattia cardiaca (predizione non supportata)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

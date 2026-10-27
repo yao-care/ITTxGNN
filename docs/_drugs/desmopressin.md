@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Desmopressina: Dalla malattia di von Willebrand al deficit congenito di protrombina
+## Desmopressina: Dalla malattia di von Willebrand al deficit congenito di protrombina
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Minociclina: Dall'infezione batterica alla cheratocongiuntivite epiteliale puntata
+## Minociclina: Dall'infezione batterica alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Eliglustat: Malattia di Gaucher — Dati di previsione TxGNN insufficienti, valutazione in sospeso
+## Eliglustat: Malattia di Gaucher — Dati di previsione TxGNN insufficienti, valutazione in sospeso
+{: .text-alpha }
 
 ---
 

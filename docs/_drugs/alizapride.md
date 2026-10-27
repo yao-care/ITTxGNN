@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Alizapride: Rapporto di valutazione del repositioning farmacologico
+## Alizapride: Rapporto di valutazione del repositioning farmacologico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

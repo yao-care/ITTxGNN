@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **6**
 
 </div>
 
-# Buprenorfina: dalla dipendenza da oppioidi alla porfiria acuta intermittente
+## Buprenorfina: dalla dipendenza da oppioidi alla porfiria acuta intermittente
+{: .text-alpha }
 
 ## Sintesi in una frase
 

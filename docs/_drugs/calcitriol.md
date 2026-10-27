@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Calcitriolo: dai disturbi del metabolismo calcio-fosforo al deficit di vitamina D (termine obsoleto)
+## Calcitriolo: dai disturbi del metabolismo calcio-fosforo al deficit di vitamina D (termine obsoleto)
+{: .text-alpha }
 
 ## Sintesi
 

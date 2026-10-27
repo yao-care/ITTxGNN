@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Progesterone: dall'endometriosi e dall'iperplasia/carcinoma endometriale all'amenorrea
+## Progesterone: dall'endometriosi e dall'iperplasia/carcinoma endometriale all'amenorrea
+{: .text-alpha }
 
 ## Sintesi in una frase
 

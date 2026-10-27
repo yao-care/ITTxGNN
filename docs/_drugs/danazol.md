@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Danazolo: dall'endometriosi all'amenorrea (menopausa indotta / soppressione mestruale)
+## Danazolo: dall'endometriosi all'amenorrea (menopausa indotta / soppressione mestruale)
+{: .text-alpha }
 
 ## Sintesi
 

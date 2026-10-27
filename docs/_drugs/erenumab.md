@@ -31,7 +31,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Erenumab: dall'emicrania all'emicrania con aura del tronco encefalico
+## Erenumab: dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

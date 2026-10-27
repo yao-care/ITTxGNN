@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-# Insulina degludec: dal diabete mellito al diabete mellito di tipo 1
+## Insulina degludec: dal diabete mellito al diabete mellito di tipo 1
+{: .text-alpha }
 
 ## Sintesi in una frase
 

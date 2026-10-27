@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Colchicina: da gotta e febbre mediterranea familiare a malaria da Plasmodium falciparum
+## Colchicina: da gotta e febbre mediterranea familiare a malaria da Plasmodium falciparum
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

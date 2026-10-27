@@ -31,7 +31,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Pilocarpina: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+## Pilocarpina: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Dexibuprofene: dalle patologie reumatiche e infiammatorie alla spondilite anchilosante
+## Dexibuprofene: dalle patologie reumatiche e infiammatorie alla spondilite anchilosante
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

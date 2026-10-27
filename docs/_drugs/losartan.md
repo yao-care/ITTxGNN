@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **8**
 
 </div>
 
-# Losartan: dall'ipertensione alla ipertensione renovascolare maligna
+## Losartan: dall'ipertensione alla ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

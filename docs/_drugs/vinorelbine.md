@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Vinorelbina: dal carcinoma polmonare non a piccole cellule al sarcoma di Ewing
+## Vinorelbina: dal carcinoma polmonare non a piccole cellule al sarcoma di Ewing
+{: .text-alpha }
 
 ## Sintesi
 

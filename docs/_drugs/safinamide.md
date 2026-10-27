@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Safinamide: Dalla malattia di Parkinson alla encefalite subacuta di Rasmussen
+## Safinamide: Dalla malattia di Parkinson alla encefalite subacuta di Rasmussen
+{: .text-alpha }
 
 ## Sintesi in una frase
 

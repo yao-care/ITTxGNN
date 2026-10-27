@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Betametasone: dalle malattie autoimmuni e infiammatorie all'alopecia areata
+## Betametasone: dalle malattie autoimmuni e infiammatorie all'alopecia areata
+{: .text-alpha }
 
 ## Riepilogo in breve
 

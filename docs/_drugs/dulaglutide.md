@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Dulaglutide: Dalla Diabete Mellito di Tipo 2 — Dati Insufficienti nella Pipeline di Riposizionamento
+## Dulaglutide: Dalla Diabete Mellito di Tipo 2 — Dati Insufficienti nella Pipeline di Riposizionamento
+{: .text-alpha }
 
 ---
 

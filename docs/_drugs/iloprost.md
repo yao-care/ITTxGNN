@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **9**
 
 </div>
 
-# Iloprost: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a cardiopatia congenita
+## Iloprost: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a cardiopatia congenita
+{: .text-alpha }
 
 ## Sintesi in una frase
 

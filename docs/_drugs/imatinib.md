@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Imatinib: dalla leucemia mieloide cronica al fibrosarcoma cardiaco
+## Imatinib: dalla leucemia mieloide cronica al fibrosarcoma cardiaco
+{: .text-alpha }
 
 ## Sintesi in una frase
 

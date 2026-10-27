@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Doxazosina: Valutazione della riproposizione farmacologica — Dati insufficienti per completare la valutazione
+## Doxazosina: Valutazione della riproposizione farmacologica — Dati insufficienti per completare la valutazione
+{: .text-alpha }
 
 ## Riassunto in una frase
 

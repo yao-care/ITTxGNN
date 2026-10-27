@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Pentamidina: dalla polmonite da Pneumocystis alla cheratocongiuntivite epiteliale puntata
+## Pentamidina: dalla polmonite da Pneumocystis alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi
 

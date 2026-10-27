@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Rosuvastatina: dall'ipercolesterolemia omozigote familiare all'ipercolesterolemia familiare
+## Rosuvastatina: dall'ipercolesterolemia omozigote familiare all'ipercolesterolemia familiare
+{: .text-alpha }
 
 ## Sintesi in una frase
 

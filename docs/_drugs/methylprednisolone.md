@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Metilprednisolone: dalle malattie autoimmuni e infiammatorie all'alopecia areata
+## Metilprednisolone: dalle malattie autoimmuni e infiammatorie all'alopecia areata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

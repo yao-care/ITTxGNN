@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Miconazolo: dalle micosi cutanee all'acne
+## Miconazolo: dalle micosi cutanee all'acne
+{: .text-alpha }
 
 ## Sintesi in una frase
 

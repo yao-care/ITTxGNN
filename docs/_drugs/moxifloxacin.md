@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Moxifloxacina: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+## Moxifloxacina: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

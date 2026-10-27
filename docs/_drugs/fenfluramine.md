@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Fenfluramina: dall'obesità alla sindrome da microdelezione prossimale 16p11.2
+## Fenfluramina: dall'obesità alla sindrome da microdelezione prossimale 16p11.2
+{: .text-alpha }
 
 ## Sintesi in una frase
 

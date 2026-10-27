@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Metoclopramide: dalla malattia da reflusso gastroesofageo all'ulcera gastrica
+## Metoclopramide: dalla malattia da reflusso gastroesofageo all'ulcera gastrica
+{: .text-alpha }
 
 ## Sintesi
 

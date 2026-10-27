@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Metotrexato: dalla leucemia linfoblastica acuta al linfoma polmonare primario
+## Metotrexato: dalla leucemia linfoblastica acuta al linfoma polmonare primario
+{: .text-alpha }
 
 ## Sintesi
 

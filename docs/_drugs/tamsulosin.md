@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tamsulosina: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+## Tamsulosina: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

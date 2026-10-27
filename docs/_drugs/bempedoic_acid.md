@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acido bempedoico: dall'ipercolesterolemia a ipertiroidismo (predizione TxGNN di primo rango)
+## Acido bempedoico: dall'ipercolesterolemia a ipertiroidismo (predizione TxGNN di primo rango)
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

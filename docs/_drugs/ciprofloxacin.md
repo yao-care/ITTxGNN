@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Ciprofloxacina: dalle infezioni batteriche alla sclerodermia diffusa
+## Ciprofloxacina: dalle infezioni batteriche alla sclerodermia diffusa
+{: .text-alpha }
 
 ## Riepilogo in breve
 

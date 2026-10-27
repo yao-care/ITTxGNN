@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Amitriptilina (AMITRIPTILINA): Rapporto di Valutazione del Riposizionamento di Farmaco
+## Amitriptilina (AMITRIPTILINA): Rapporto di Valutazione del Riposizionamento di Farmaco
+{: .text-alpha }
 
 ## Riassunto in una frase
 

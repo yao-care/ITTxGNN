@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Mizolastina: dalla rinite allergica alla porfiria acuta intermittente
+## Mizolastina: dalla rinite allergica alla porfiria acuta intermittente
+{: .text-alpha }
 
 ## Sintesi
 

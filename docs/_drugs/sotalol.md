@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Sotalolo: dalla fibrillazione atriale all'ictus (stroke disorder)
+## Sotalolo: dalla fibrillazione atriale all'ictus (stroke disorder)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

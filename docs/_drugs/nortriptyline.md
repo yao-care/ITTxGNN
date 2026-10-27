@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Nortriptilina: dall'ansia e dai disturbi nevrotici al disturbo da deficit di attenzione e iperattività (ADHD)
+## Nortriptilina: dall'ansia e dai disturbi nevrotici al disturbo da deficit di attenzione e iperattività (ADHD)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

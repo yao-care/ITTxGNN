@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Cefazolina: dalle infezioni batteriche alle infezioni dell'orecchio medio (otite media infettiva)
+## Cefazolina: dalle infezioni batteriche alle infezioni dell'orecchio medio (otite media infettiva)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

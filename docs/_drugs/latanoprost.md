@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Latanoprost: dal glaucoma ad angolo aperto all'ipertensione oculare, verso il glaucoma ereditario primario
+## Latanoprost: dal glaucoma ad angolo aperto all'ipertensione oculare, verso il glaucoma ereditario primario
+{: .text-alpha }
 
 ## Sintesi in una frase
 

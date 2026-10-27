@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **2**
 
 </div>
 
-# Temozolomide: Dal glioma astrocitario all'astrocitoma adulto (conferma d'uso esistente)
+## Temozolomide: Dal glioma astrocitario all'astrocitoma adulto (conferma d'uso esistente)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

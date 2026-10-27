@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Ceftriaxone: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+## Ceftriaxone: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+{: .text-alpha }
 
 ## Riepilogo in breve
 

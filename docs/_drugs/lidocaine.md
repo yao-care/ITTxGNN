@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Lidocaina: dal dolore neuropatico e dalle condizioni cutanee alla cheratocongiuntivite epiteliale puntata
+## Lidocaina: dal dolore neuropatico e dalle condizioni cutanee alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

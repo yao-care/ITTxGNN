@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Liotironina: dall'ipotiroidismo all'ipoplasia/aplasia renale (predizione computazionale)
+## Liotironina: dall'ipotiroidismo all'ipoplasia/aplasia renale (predizione computazionale)
+{: .text-alpha }
 
 ## Sintesi
 

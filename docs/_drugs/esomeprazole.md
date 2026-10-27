@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Esomeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+## Esomeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

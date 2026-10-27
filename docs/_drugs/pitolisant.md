@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-# Pitolisant: dalla narcolessia all'insonnia (ipotesi predetta)
+## Pitolisant: dalla narcolessia all'insonnia (ipotesi predetta)
+{: .text-alpha }
 
 ## Sintesi
 

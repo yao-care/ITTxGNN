@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Indacaterolo: da broncopneumopatia ostruttiva a malattia bronchiale
+## Indacaterolo: da broncopneumopatia ostruttiva a malattia bronchiale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

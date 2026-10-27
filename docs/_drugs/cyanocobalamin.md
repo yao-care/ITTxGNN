@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Cianocobalamina: Dalla carenza di vitamina B12 alla malattia metabolica della biotina
+## Cianocobalamina: Dalla carenza di vitamina B12 alla malattia metabolica della biotina
+{: .text-alpha }
 
 ## Sintesi in una frase
 

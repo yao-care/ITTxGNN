@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Itraconazolo: dalle micosi sistemiche alla pneumocistosi
+## Itraconazolo: dalle micosi sistemiche alla pneumocistosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

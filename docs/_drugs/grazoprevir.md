@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Grazoprevir: dall'epatite C cronica all'infezione da HIV
+## Grazoprevir: dall'epatite C cronica all'infezione da HIV
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Amikacina: dalle infezioni batteriche gravi alla febbre paratifoide
+## Amikacina: dalle infezioni batteriche gravi alla febbre paratifoide
+{: .text-alpha }
 
 ## Sintesi in una frase
 

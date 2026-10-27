@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Filgrastim: dalla neutropenia congenita a «primary release disorder of platelets» (disturbo primario del rilascio piastrinico)
+## Filgrastim: dalla neutropenia congenita a «primary release disorder of platelets» (disturbo primario del rilascio piastrinico)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

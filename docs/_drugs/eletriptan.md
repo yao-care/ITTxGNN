@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Eletriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Eletriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

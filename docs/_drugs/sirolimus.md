@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Sirolimus: Dal carcinoma renale al liposarcoma
+## Sirolimus: Dal carcinoma renale al liposarcoma
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

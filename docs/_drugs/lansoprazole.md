@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Lansoprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodeno-gastrico
+## Lansoprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodeno-gastrico
+{: .text-alpha }
 
 ## Sintesi
 

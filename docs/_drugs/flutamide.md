@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Flutamide: Dal carcinoma della prostata alla suscettibilità al carcinoma prostatico/cerebrale
+## Flutamide: Dal carcinoma della prostata alla suscettibilità al carcinoma prostatico/cerebrale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

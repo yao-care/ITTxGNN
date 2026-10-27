@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Doxiciclina: dalle infezioni batteriche (bronchite, acne, polmonite) alla cheratocongiuntivite epiteliale puntata
+## Doxiciclina: dalle infezioni batteriche (bronchite, acne, polmonite) alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

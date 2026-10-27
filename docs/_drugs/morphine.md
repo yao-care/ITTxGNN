@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Morfina: dalla diarrea alla sindrome da dolore miofasciale
+## Morfina: dalla diarrea alla sindrome da dolore miofasciale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

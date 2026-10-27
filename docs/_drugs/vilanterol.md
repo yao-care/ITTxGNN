@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Vilanterolo: Da BPCO e asma a malattia polmonare ostruttiva
+## Vilanterolo: Da BPCO e asma a malattia polmonare ostruttiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Pegfilgrastim: dalla neutropenia da chemioterapia alla retinopatia diabetica non proliferante grave
+## Pegfilgrastim: dalla neutropenia da chemioterapia alla retinopatia diabetica non proliferante grave
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

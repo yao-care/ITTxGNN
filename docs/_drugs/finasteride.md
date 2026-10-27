@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-# Finasteride: Dall'iperplasia prostatica benigna all'ipertricosi
+## Finasteride: Dall'iperplasia prostatica benigna all'ipertricosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

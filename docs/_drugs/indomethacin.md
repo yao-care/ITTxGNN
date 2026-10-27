@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Indometacina: da artrite reumatoide e patologie muscoloscheletriche infiammatorie a artrite idiopatica giovanile
+## Indometacina: da artrite reumatoide e patologie muscoloscheletriche infiammatorie a artrite idiopatica giovanile
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

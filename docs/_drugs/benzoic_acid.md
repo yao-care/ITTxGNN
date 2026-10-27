@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Acido benzoico: dalle indicazioni originali alla bronchite
+## Acido benzoico: dalle indicazioni originali alla bronchite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

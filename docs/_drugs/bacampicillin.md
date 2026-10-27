@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Bacampicillina: Da infezioni delle vie urinarie a malattia dell'uretra
+## Bacampicillina: Da infezioni delle vie urinarie a malattia dell'uretra
+{: .text-alpha }
 
 ## Sintesi in una frase
 

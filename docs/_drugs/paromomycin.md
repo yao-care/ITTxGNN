@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Paromomicina: dall'encefalopatia epatica alla cirrosi associata al rame idiopatica
+## Paromomicina: dall'encefalopatia epatica alla cirrosi associata al rame idiopatica
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Codeina: Da cefalea e infiammazioni delle vie respiratorie superiori a malattia della cavità nasale
+## Codeina: Da cefalea e infiammazioni delle vie respiratorie superiori a malattia della cavità nasale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

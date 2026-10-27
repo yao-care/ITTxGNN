@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-# Rifabutina: dalla profilassi delle infezioni micobatteriche all'infezione da HIV
+## Rifabutina: dalla profilassi delle infezioni micobatteriche all'infezione da HIV
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **7**
 
 </div>
 
-# Salmeterolo: dall'asma e dall'enfisema alla bronchite
+## Salmeterolo: dall'asma e dall'enfisema alla bronchite
+{: .text-alpha }
 
 ## Sintesi
 

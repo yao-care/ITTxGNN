@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Montelukast: Dall'asma e la rinite allergica alla bronchite
+## Montelukast: Dall'asma e la rinite allergica alla bronchite
+{: .text-alpha }
 
 ## Sintesi in una frase
 

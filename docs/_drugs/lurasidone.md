@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Lurasidone: Dal disturbo bipolare e dalla schizofrenia al disturbo affettivo bipolare maniacale
+## Lurasidone: Dal disturbo bipolare e dalla schizofrenia al disturbo affettivo bipolare maniacale
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

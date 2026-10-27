@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Cefditoren: Dall'infezione batterica all'osteoartrite (suscettibilità)
+## Cefditoren: Dall'infezione batterica all'osteoartrite (suscettibilità)
+{: .text-alpha }
 
 ## Sintesi in una frase
 

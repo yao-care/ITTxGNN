@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Duloxetina: dalla depressione maggiore al disturbo ossessivo-compulsivo
+## Duloxetina: dalla depressione maggiore al disturbo ossessivo-compulsivo
+{: .text-alpha }
 
 ## Sintesi in una frase
 

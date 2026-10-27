@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Irbesartan: dall'ipertensione e nefropatia diabetica all'ipertensione renovascolare maligna
+## Irbesartan: dall'ipertensione e nefropatia diabetica all'ipertensione renovascolare maligna
+{: .text-alpha }
 
 ## Sintesi in una frase
 

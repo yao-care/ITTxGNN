@@ -33,7 +33,8 @@ Livello di evidenza: **L1** | Indicazioni previste: **4**
 
 </div>
 
-# Ezetimibe: Dall'ipercolesterolemia all'iperlipoproteinemia
+## Ezetimibe: Dall'ipercolesterolemia all'iperlipoproteinemia
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

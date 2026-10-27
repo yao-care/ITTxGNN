@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Paroxetina: Dalla depressione maggiore alla sindrome di Ohdo e varianti
+## Paroxetina: Dalla depressione maggiore alla sindrome di Ohdo e varianti
+{: .text-alpha }
 
 ## Sintesi in una frase
 

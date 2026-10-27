@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-# Eritromicina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Eritromicina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi in una frase
 

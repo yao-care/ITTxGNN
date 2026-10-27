@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Fluoxetina: dal disturbo depressivo maggiore al disturbo schizotipico di personalità
+## Fluoxetina: dal disturbo depressivo maggiore al disturbo schizotipico di personalità
+{: .text-alpha }
 
 ## Sintesi in una frase
 

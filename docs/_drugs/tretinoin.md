@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Tretinoina: dalla leucemia promielocitica acuta e dall'acne alla noduolosi reumatoide
+## Tretinoina: dalla leucemia promielocitica acuta e dall'acne alla noduolosi reumatoide
+{: .text-alpha }
 
 ## Sintesi
 

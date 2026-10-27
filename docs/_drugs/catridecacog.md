@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-# Catridecacog: Dal deficit di fattore XIII (subunità A) al disturbo primario di rilascio piastrinico
+## Catridecacog: Dal deficit di fattore XIII (subunità A) al disturbo primario di rilascio piastrinico
+{: .text-alpha }
 
 ## Sintesi in una frase
 

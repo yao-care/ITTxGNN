@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Velpatasvir: dall'epatite C cronica all'infezione da virus dell'epatite B
+## Velpatasvir: dall'epatite C cronica all'infezione da virus dell'epatite B
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-# Ziprasidone: dalla schizofrenia e dal disturbo bipolare al disturbo affettivo maggiore
+## Ziprasidone: dalla schizofrenia e dal disturbo bipolare al disturbo affettivo maggiore
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

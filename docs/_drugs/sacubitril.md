@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Sacubitril: dall'insufficienza cardiaca alla nefropatia diabetica
+## Sacubitril: dall'insufficienza cardiaca alla nefropatia diabetica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

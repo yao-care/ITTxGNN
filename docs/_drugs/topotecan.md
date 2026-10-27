@@ -33,7 +33,8 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-# Topotecan: Dal carcinoma ovarico al carcinoma mammario femminile
+## Topotecan: Dal carcinoma ovarico al carcinoma mammario femminile
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

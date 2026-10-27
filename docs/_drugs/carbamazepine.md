@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Carbamazepina: dall'epilessia al tumore del nervo trigemino
+## Carbamazepina: dall'epilessia al tumore del nervo trigemino
+{: .text-alpha }
 
 ## Sintesi
 

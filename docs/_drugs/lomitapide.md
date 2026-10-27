@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Lomitapide: dall'ipercolesterolemia familiare omozigote alla marcotrombocitopenia con insufficienza della valvola mitrale
+## Lomitapide: dall'ipercolesterolemia familiare omozigote alla marcotrombocitopenia con insufficienza della valvola mitrale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-# Cilazapril: Dall'ipertensione arteriosa all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Cilazapril: Dall'ipertensione arteriosa all'ipertensione polmonare da malattia polmonare e/o ipossia
+{: .text-alpha }
 
 ## Riepilogo in breve
 

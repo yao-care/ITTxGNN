@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Clonidina: dall'ipertensione alla faciodigitogenital syndrome (sindrome di Aarskog-Scott)
+## Clonidina: dall'ipertensione alla faciodigitogenital syndrome (sindrome di Aarskog-Scott)
+{: .text-alpha }
 
 ## Sintesi
 

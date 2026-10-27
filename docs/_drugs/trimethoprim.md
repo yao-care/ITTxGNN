@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-# Trimetoprim: dall'infezione delle vie urinarie alla cheratocongiuntivite epiteliale puntata
+## Trimetoprim: dall'infezione delle vie urinarie alla cheratocongiuntivite epiteliale puntata
+{: .text-alpha }
 
 ## Sintesi
 

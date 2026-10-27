@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Telmisartan: dall'ipertensione e dall'ictus alla occlusione dell'arteria cerebrale
+## Telmisartan: dall'ipertensione e dall'ictus alla occlusione dell'arteria cerebrale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Oxcarbazepina: da epilessia parziale a epilessia visiva
+## Oxcarbazepina: da epilessia parziale a epilessia visiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

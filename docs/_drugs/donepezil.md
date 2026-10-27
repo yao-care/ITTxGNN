@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-# Donepezil: dalla malattia di Alzheimer ai disturbi del movimento psicogeni
+## Donepezil: dalla malattia di Alzheimer ai disturbi del movimento psicogeni
+{: .text-alpha }
 
 ## Sintesi
 

@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Amlodipina: dall'ipertensione all'ictus emorragico (emorragia intracerebrale)
+## Amlodipina: dall'ipertensione all'ictus emorragico (emorragia intracerebrale)
+{: .text-alpha }
 
 ## Sintesi
 

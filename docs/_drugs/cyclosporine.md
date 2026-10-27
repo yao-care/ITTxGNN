@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Ciclosporina: Dalla secchezza oculare/artrite reumatoide alla malattia granulomatosa cronica autosomica recessiva
+## Ciclosporina: Dalla secchezza oculare/artrite reumatoide alla malattia granulomatosa cronica autosomica recessiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

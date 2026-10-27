@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-# Buserelin: Dal carcinoma della prostata all'ipertricosi
+## Buserelin: Dal carcinoma della prostata all'ipertricosi
+{: .text-alpha }
 
 ## Sintesi in una frase
 

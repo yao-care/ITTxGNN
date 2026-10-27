@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-# Valsartan: dall'ipertensione alla malattia renale ipertensiva maligna
+## Valsartan: dall'ipertensione alla malattia renale ipertensiva maligna
+{: .text-alpha }
 
 ## Riepilogo in una frase
 

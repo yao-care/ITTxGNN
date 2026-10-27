@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Toremifene: dal carcinoma mammario all'infezione da HIV (predizione del modello)
+## Toremifene: dal carcinoma mammario all'infezione da HIV (predizione del modello)
+{: .text-alpha }
 
 ## Sintesi
 

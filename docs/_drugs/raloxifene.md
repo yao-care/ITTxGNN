@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-# Raloxifene: dall'osteoporosi post-menopausale all'ulcera duodenale
+## Raloxifene: dall'osteoporosi post-menopausale all'ulcera duodenale
+{: .text-alpha }
 
 ## Sintesi in una frase
 

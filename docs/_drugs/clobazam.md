@@ -33,7 +33,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-# Clobazam: dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
+## Clobazam: dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
+{: .text-alpha }
 
 ## Sintesi
 

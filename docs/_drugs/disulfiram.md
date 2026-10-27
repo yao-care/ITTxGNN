@@ -32,7 +32,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-# Disulfiram: Disturbo da Uso di Alcol — Valutazione di Repurposing (Dati Incompleti)
+## Disulfiram: Disturbo da Uso di Alcol — Valutazione di Repurposing (Dati Incompleti)
+{: .text-alpha }
 
 ## Riassunto in Una Frase
 

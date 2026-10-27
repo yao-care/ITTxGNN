@@ -31,7 +31,8 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-# Tiagabina: dall'epilessia parziale all'epilessia visiva
+## Tiagabina: dall'epilessia parziale all'epilessia visiva
+{: .text-alpha }
 
 ## Sintesi in una frase
 

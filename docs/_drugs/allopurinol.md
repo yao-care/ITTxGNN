@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-# Allopurinolo: dalla gotta alla porfiria epatica
+## Allopurinolo: dalla gotta alla porfiria epatica
+{: .text-alpha }
 
 ## Sintesi in una frase
 

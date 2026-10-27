@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-# Sulfametossazolo: dalle infezioni batteriche alla congiuntivite contagiosa acuta
+## Sulfametossazolo: dalle infezioni batteriche alla congiuntivite contagiosa acuta
+{: .text-alpha }
 
 ## Riepilogo in breve
 

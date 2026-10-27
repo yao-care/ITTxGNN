@@ -33,7 +33,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-# Colecalciferolo: dall'osteoporosi e dal deficit di vitamina D all'osteodistrofia renale
+## Colecalciferolo: dall'osteoporosi e dal deficit di vitamina D all'osteodistrofia renale
+{: .text-alpha }
 
 ## Sintesi in una frase
 
