@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-27T05:57:33.423440+00:00",
+  "fetched_at": "2026-10-27T07:00:10.520439+00:00",
   "source": "Google News Health RSS",
-  "count": 81,
+  "count": 82,
   "articles": [
     {
       "id": "ccf59b6a0d9c",
@@ -11,6 +11,16 @@
       "source": {
         "name": "Mondosanità",
         "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "0d9baee26491",
+      "title": "Il farmaco brucia il grasso, ma il grasso sa come vendicarsi nelle nostre cellule - La Stampa",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUx2OHNoZmpwYjYza0pFdGR0TTI3b05lMENjNmRKeUJtMlpGWHJvd01VTnVFc21UaEdsSW9BcE1XQkh4Z1dUQXpPVVAtVndTaEx3Y0Zab0RLc2E5VEJWQ05uWnpTTjRQak9Tb1V5TmZEd256bWxaQnh5cU9CUngwdzZGck9hRWVoTEJnZ2o0UTNtTXF0NlVOSXFETUFSd205UDdKbG1xcHVBZWRGdW9EbDNiRnp4SzhCU3J6Qk53YUdoUU5KTHhmQnZJTHhHVGs2NUpQX21URmx3Mjda0gHiAUFVX3lxTE5YbmlrV3RjTjNNUkZuaTdRcHQ1eWpVZFk3MWNGUWFfQ2k3ZW1udnhGS1NMa1NsVl9kaFFSWWFfUGVyR1RjN1ZweGRfRmROYkZmMTRqdkxzeC1NVm1IRW5BT2Zfb0FSWnQ1d1RYbFFHNXVvdy1HLUNkZzc4VWJGZm1VQmlTQUhnQXdhVlJFLUY0ck1lWi1DZ2VrUk55aWM3UXcyUWhYQWpCT3NvbnVJeHFCd2dzbXVwc2I5X2JxN3pLaHpZcmZVWWo0d0IxbmZYc0FOeWwybDhNWENuQnhsc0pQakE?oc=5",
+      "published": "2026-10-24T23:00:00+00:00",
+      "source": {
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it"
       }
     },
     {
@@ -74,16 +84,6 @@
       }
     },
     {
-      "id": "e26820eaeae6",
-      "title": "Obesità oltre la bilancia: come scegliere i farmaci - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTdBUHdWemV6WmgzX3FOMy1qS0JxRkhlX01iR2hzdmFaLVFCcm15SzlNSmVqZTJYcjAydXlXLTRkZWItY24zZG5KWUR3eXpOY21jbC1aSDhFa1FpV1FzNjhsVDdkSFFRekRXcmlnQi1wYlFtUG5YcFhWeFk2aFVCc0ZYZzZvZ0E0cUlXNF9VN2tMbWctTVVwZ2w4OWxDdmE5QWdZ?oc=5",
-      "published": "2026-10-24T07:40:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "09906eef4b41",
       "title": "Sperimentazione animale, milioni di animali nei laboratori: perché si continua nonostante le nuove alternative - Mondosanità",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZHRPNWdiNkZBa2N2UVhFXzJBUmFhTmt1NjdpRHFic2lUazF2bVF4TXhvQmtYM1F6Wm91WmwtVjVGMFo4cnB2WGFjQ3YxOEw0NDMxWDgySFNUSWxNc3ZJclVkWV9RNnBGdUp0aF9mWlZ0NXlVeGF5MEY1eXhPTXdRN2trZWdCNjNpNlV5V201OC1ONFNjb0E2WnlDRFl6NEdzNHlkMnJwc0ZBQmdVLTdsV2pqYlVPMF9IUFM4Mlk0ZFZhZ2w5ZFZiSEpTZzhIcFlENkd2cW1LWGc5ZEVobTJ5MkNzQVo5by03QjNfNXRJT2Q?oc=5",
@@ -94,13 +94,23 @@
       }
     },
     {
-      "id": "909451ee6779",
-      "title": "Tumore allo stomaco, nuovo farmaco riduce il rischio di morte del 42%: sopravvivenza raddoppiata - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWZzRGJWY0E4cjFpQXQtUUV4M3pNYlhfMFpub1NoN0N2U2hGTlNUN1lTQ0M0Nlo0OEZMaGlGMFp4eG5DdTkza25FWmJDWnpUNC01Ym5reGd1OG5RUVBTMkdFMmUwSm1nbTRGcExiUjVpd2lGVi1UYzV0MUNrX3lMY0pQT3k2cVo5VHVhMEpmcUFOTnpGQ1JUSWhMRDlfQXBGZUdweC16UXVOSnR5NEFiRTdB0gGsAUFVX3lxTFB1aExiUkxzamN5c1dsOGRmWVRnQmQ4YW5QVDd4Y0NTT1R0VkVaOU1uRzNRMFRLZVFMZ3lvZnI2Zm9iNU1VV3J1NUw4cjg3RTZ1czFTU3dxMldvSFB4T29mZWRsTW1iRU84WGxjck81eXlmeklqV3hFZlNSRmQzTGhQbUlMLXAzUVBaUnlHUW1MX3NBNnpzS0lJR2R1SlVXSDA5X2VyRlRqVVdNZVQ?oc=5",
-      "published": "2026-10-26T06:00:05+00:00",
+      "id": "e26820eaeae6",
+      "title": "Obesità oltre la bilancia: come scegliere i farmaci - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTdBUHdWemV6WmgzX3FOMy1qS0JxRkhlX01iR2hzdmFaLVFCcm15SzlNSmVqZTJYcjAydXlXLTRkZWItY24zZG5KWUR3eXpOY21jbC1aSDhFa1FpV1FzNjhsVDdkSFFRekRXcmlnQi1wYlFtUG5YcFhWeFk2aFVCc0ZYZzZvZ0E0cUlXNF9VN2tMbWctTVVwZ2w4OWxDdmE5QWdZ?oc=5",
+      "published": "2026-10-24T07:40:00+00:00",
       "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
+      }
+    },
+    {
+      "id": "c8f98c9ef05f",
+      "title": "Candida auris, il fungo che impara a sfuggire ai farmaci - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWN3OWVtYm5pVnN4NmlGb0RtdlltZURsUFpJYUk2Z3lrUWRGQkM0d280dWxHSy04ajVvc2pXVGQwbG91cjhwelhmUHhHTU10Z2paaEVHaVAtbzJ4VjlLc2N5UENma3lKYjVOcGNWVEY5dEh3RlJvOWRRaW9DRVlzNnF6V01rcUZNc083TXM1NjA4RjRnR3dCQl82V2JnSXZOWkpLVDd4UndfUQ?oc=5",
+      "published": "2026-10-27T06:30:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -174,16 +184,6 @@
       }
     },
     {
-      "id": "1b657b9d1acf",
-      "title": "Farmaci scaduti: perché non vanno nel WC o nell’indifferenziata e dove portarli - Mondosanità",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjB2WDBSV2RWdWw5bEp4N0I2VExSSWZCNU53NUI4RkhYUTBHLTNiR3VjLVViNWtxelNfdjdRXzNqQ0ZvcUdyM0RQZEtfQlJMYUpyMm41NVduQ3FLeTNsZ0NBcTlxSUdiMW9jRVhWX2hGblFOd0IwYjdLcVN1eUdNRFhNMzFNRVNaMG5aVENFSV96cGFpTzdzajhYYUM5UnNOZUlNMjEyQXF1TWx1Z2lKMHU2YUc1R25tcHRNeVBnR0VZTk53M0JZ?oc=5",
-      "published": "2026-10-24T15:29:00+00:00",
-      "source": {
-        "name": "Mondosanità",
-        "url": "https://www.mondosanita.it"
-      }
-    },
-    {
       "id": "0042f2963e8b",
       "title": "Salute del cuore. A Verona screening gratuiti per le donne in farmacia - Il Farmacista Online",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdC1fc2VxRUVrckxUTmZlMm16TE9rTk5XeEwwY1FDSVZTaDRLRTdXRHc0UGJvbFNNaFoyZC1KRUxXN3FINzFfMjU5MVRqVy1USlkzcGl0RjZjMWpwaTVwM1IwUDRId0R3cnpzNC1OaEVqdlFzWGJHdTRuNFA1ZEo3dHg2YTM2dw?oc=5",
@@ -191,6 +191,16 @@
       "source": {
         "name": "Il Farmacista Online",
         "url": "https://www.ilfarmacistaonline.it"
+      }
+    },
+    {
+      "id": "1b657b9d1acf",
+      "title": "Farmaci scaduti: perché non vanno nel WC o nell’indifferenziata e dove portarli - Mondosanità",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjB2WDBSV2RWdWw5bEp4N0I2VExSSWZCNU53NUI4RkhYUTBHLTNiR3VjLVViNWtxelNfdjdRXzNqQ0ZvcUdyM0RQZEtfQlJMYUpyMm41NVduQ3FLeTNsZ0NBcTlxSUdiMW9jRVhWX2hGblFOd0IwYjdLcVN1eUdNRFhNMzFNRVNaMG5aVENFSV96cGFpTzdzajhYYUM5UnNOZUlNMjEyQXF1TWx1Z2lKMHU2YUc1R25tcHRNeVBnR0VZTk53M0JZ?oc=5",
+      "published": "2026-10-24T15:29:00+00:00",
+      "source": {
+        "name": "Mondosanità",
+        "url": "https://www.mondosanita.it"
       }
     },
     {
@@ -274,23 +284,13 @@
       }
     },
     {
-      "id": "6143c92314e7",
-      "title": "Farmaci allo specchio: quando una molecola ha una “mano giusta” - IlPescara",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUlqbS11THpfV2o1WlhkN09QOWFXN1RKeGdQWnl0MmNOVmVVajJEM3pFQ0U2ZTI2QkMwYk5mYkgzNFJ0aGlZWmQ3UUJxU0hXUHV3VHlETWV2NzVsMk5rY2R5WHFwN0tVQk9RQkh1NEF4bU5uZXJsYjlkSV9IMTFQUkJJbG5HX3lTMThkSHVNMVF3cDQ?oc=5",
-      "published": "2026-10-26T08:44:04+00:00",
+      "id": "764b87bf4f4d",
+      "title": "FARMACI ANTI-OBESITÀ: PERDERE GRASSO, NON MUSCOLI. FINO AL 40% DEL PESO PERDUTO PUÒ ESSERE MASSA MAGRA - imgpress",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdkJfSHh5UVk2Z1dQUHFZVy1sZ05mY0JUV1cxeEF6dFZ2S3J3ejZYVENVMXBBQWo1MEhTZnVEX1RsTWFzTE9SeTdjM1RyN2tyMjhXVlZpQURSRVNvejdYT2xrdWZzVld2d0VmRm5EN29fSUVBaXR5R0Q3dHh6OTdBVkhJNmROMmhjTFJCN3p3RmhGMVhrYTdtUURjX0o1cm9hTVU4bURnRU1nRGhsQXJUOWJESGp4RThBQWJnOEtwWkFkZmM4WmN5T0liNA?oc=5",
+      "published": "2026-10-27T06:49:28+00:00",
       "source": {
-        "name": "IlPescara",
-        "url": "https://www.ilpescara.it"
-      }
-    },
-    {
-      "id": "be6fe78ee18e",
-      "title": "Insulina e semaglutide in un’unica iniezione settimanale: nuove prospettive per la cura del diabete di tipo 2 - insalutenews.it",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSElOTHk3YUJlVF9pRjI4d3pOTVA4SGdnaG5fZzZ3LWxITC1TY1VPOUZ4REJZa2JRVkJYYjBTZk1JTVJobEt6aVhqdHZTTWVqNERXOU4zSFpWOXQzc1BDa2lBWk5ZX1Y2cjhhNFdyV0YyemgtNFpsMHVmdXdfT1VGdGlRTm1aaEtlMUFFdUVqcmUtMUoyZ1RHUFdKLUFXMGhVdXJaczFLaGdoTXZOc2RWdENCX0VGZER6STZfUGg1azlUT2lRSXpHTl9jSERmNm5xYmRZUHdYNlBGMkU2ZVVB?oc=5",
-      "published": "2026-10-26T11:20:00+00:00",
-      "source": {
-        "name": "insalutenews.it",
-        "url": "https://www.insalutenews.it"
+        "name": "imgpress",
+        "url": "https://www.imgpress.it"
       }
     },
     {
@@ -324,13 +324,13 @@
       }
     },
     {
-      "id": "28dc014c0827",
-      "title": "Diabete di tipo 2, primo ok dall’Ema al nuovo trattamento con una sola iniezione a settimana - LaPresse",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcktGU01qUl9CQ1Y2ellkOGM4SFFpWUxoVkpsOGVXZzRTcGhPdXFHUVZCaG1pazE2OUdOdDE2cG9NZlQwM0VBeTZGQlNFUkVpaHN3V0p5UUFoVnRJcUNIQmlSbTJoWXpXc2xLVzZSaUc2bEItQ3MzVDYxMXhBOTVnVDU2S2NmWWoxcFZjMFprTUg1TzRfdEFhWUo1RnhyU293MUNNdUl6X2NKbC05cDZpOVU2SXBqU0RFbVJmX0ticGZOaGxGTVRFYWRVUDNDQWJCdDFhVm1oU2w?oc=5",
-      "published": "2026-10-26T11:55:29+00:00",
+      "id": "6143c92314e7",
+      "title": "Farmaci allo specchio: quando una molecola ha una “mano giusta” - IlPescara",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUlqbS11THpfV2o1WlhkN09QOWFXN1RKeGdQWnl0MmNOVmVVajJEM3pFQ0U2ZTI2QkMwYk5mYkgzNFJ0aGlZWmQ3UUJxU0hXUHV3VHlETWV2NzVsMk5rY2R5WHFwN0tVQk9RQkh1NEF4bU5uZXJsYjlkSV9IMTFQUkJJbG5HX3lTMThkSHVNMVF3cDQ?oc=5",
+      "published": "2026-10-26T08:44:04+00:00",
       "source": {
-        "name": "LaPresse",
-        "url": "https://www.lapresse.it"
+        "name": "IlPescara",
+        "url": "https://www.ilpescara.it"
       }
     },
     {
@@ -344,13 +344,23 @@
       }
     },
     {
-      "id": "0d9baee26491",
-      "title": "Il farmaco brucia il grasso, ma il grasso sa come vendicarsi nelle nostre cellule - La Stampa",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUx2OHNoZmpwYjYza0pFdGR0TTI3b05lMENjNmRKeUJtMlpGWHJvd01VTnVFc21UaEdsSW9BcE1XQkh4Z1dUQXpPVVAtVndTaEx3Y0Zab0RLc2E5VEJWQ05uWnpTTjRQak9Tb1V5TmZEd256bWxaQnh5cU9CUngwdzZGck9hRWVoTEJnZ2o0UTNtTXF0NlVOSXFETUFSd205UDdKbG1xcHVBZWRGdW9EbDNiRnp4SzhCU3J6Qk53YUdoUU5KTHhmQnZJTHhHVGs2NUpQX21URmx3Mjda0gHiAUFVX3lxTE5YbmlrV3RjTjNNUkZuaTdRcHQ1eWpVZFk3MWNGUWFfQ2k3ZW1udnhGS1NMa1NsVl9kaFFSWWFfUGVyR1RjN1ZweGRfRmROYkZmMTRqdkxzeC1NVm1IRW5BT2Zfb0FSWnQ1d1RYbFFHNXVvdy1HLUNkZzc4VWJGZm1VQmlTQUhnQXdhVlJFLUY0ck1lWi1DZ2VrUk55aWM3UXcyUWhYQWpCT3NvbnVJeHFCd2dzbXVwc2I5X2JxN3pLaHpZcmZVWWo0d0IxbmZYc0FOeWwybDhNWENuQnhsc0pQakE?oc=5",
-      "published": "2026-10-24T23:00:00+00:00",
+      "id": "be6fe78ee18e",
+      "title": "Insulina e semaglutide in un’unica iniezione settimanale: nuove prospettive per la cura del diabete di tipo 2 - insalutenews.it",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSElOTHk3YUJlVF9pRjI4d3pOTVA4SGdnaG5fZzZ3LWxITC1TY1VPOUZ4REJZa2JRVkJYYjBTZk1JTVJobEt6aVhqdHZTTWVqNERXOU4zSFpWOXQzc1BDa2lBWk5ZX1Y2cjhhNFdyV0YyemgtNFpsMHVmdXdfT1VGdGlRTm1aaEtlMUFFdUVqcmUtMUoyZ1RHUFdKLUFXMGhVdXJaczFLaGdoTXZOc2RWdENCX0VGZER6STZfUGg1azlUT2lRSXpHTl9jSERmNm5xYmRZUHdYNlBGMkU2ZVVB?oc=5",
+      "published": "2026-10-26T11:20:00+00:00",
       "source": {
-        "name": "La Stampa",
-        "url": "https://www.lastampa.it"
+        "name": "insalutenews.it",
+        "url": "https://www.insalutenews.it"
+      }
+    },
+    {
+      "id": "2796f0051f5a",
+      "title": "Bonus sanità 2027, fino a 500 euro per gli anziani over 75: arriva la nuova card per visite, farmaci e cure - Torino Cronaca",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVU9FWjdJX3k4THVjUS1uQlJUOVVUbF9hei1nZ21FdmVKTXE5anpPS2E4Nkx4eTdWS3VHb1BPY29oTXp6RUUzeGhKMUpRcmw2TjdkLWYtNmFEVWt1VDA4NlkxTEhDaUtLb05sZ1lmZlZPdkRQNjdWZ1RkeFVEVjFzYkdVVUFtZzFBaG5wS0Y5VmdoSFhCbjVXNkRhZ3Awa3ZnMVFMMmdMaUFYTzdyQkJOLVRvRTh5cHRKcERNQUZiTVJKYkxMeDdWVEF0NjZXNUJGX0xYb0c2aUxLUkdOaXd5SWJEVzB2UkctNkpYYUw0dw?oc=5",
+      "published": "2026-10-27T06:45:00+00:00",
+      "source": {
+        "name": "Torino Cronaca",
+        "url": "https://www.torinocronaca.it"
       }
     },
     {
@@ -364,6 +374,16 @@
       }
     },
     {
+      "id": "28dc014c0827",
+      "title": "Diabete di tipo 2, primo ok dall’Ema al nuovo trattamento con una sola iniezione a settimana - LaPresse",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcktGU01qUl9CQ1Y2ellkOGM4SFFpWUxoVkpsOGVXZzRTcGhPdXFHUVZCaG1pazE2OUdOdDE2cG9NZlQwM0VBeTZGQlNFUkVpaHN3V0p5UUFoVnRJcUNIQmlSbTJoWXpXc2xLVzZSaUc2bEItQ3MzVDYxMXhBOTVnVDU2S2NmWWoxcFZjMFprTUg1TzRfdEFhWUo1RnhyU293MUNNdUl6X2NKbC05cDZpOVU2SXBqU0RFbVJmX0ticGZOaGxGTVRFYWRVUDNDQWJCdDFhVm1oU2w?oc=5",
+      "published": "2026-10-26T11:55:29+00:00",
+      "source": {
+        "name": "LaPresse",
+        "url": "https://www.lapresse.it"
+      }
+    },
+    {
       "id": "f9fbaa8fa1fe",
       "title": "Tumore dell'endometrio, nuove cure allungano la vita. E per alcune donne si può evitare la chemio - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTnAwOFJvNWpMaWlSX1hBTGVYQkZPbDBIMklLZEVsLW55aU5rOVQ1WTFmX3doZGRnUV9RX1gxdEI1aUFhQ0lnWEQzRU1SN2QxbXdzMktBS0xXeEJ2ZGNXTjZQbXpSZ3dKOGFJMUNHTnhwVExMWG9JbW1UU0NRa05rTG5kcGxBOGdiY2pndXNuQW5XeFNKakd1TlgwS3JUOHFDeHJrUlFLQ05SdS0tak9GdmZVc2psMVUzdXptZ19IS2Q2bTRKNmI3YmtGTGJKODRXaUloMzlMUjZUYVZ5OGZOZkR5amtZVUlpOFA0TEhia2lCM0J4X1ZOSVRxUDBhNXdDdHfSAYcCQVVfeXFMUGpoTThIU1lzR29zaENkWm1OVy1EdE5LVXZrVVVWWFpJQ0FldGszWXE1OEw3LS1FVGhOajNlVHJTek01MXd3U01Ga09jZXJSS1ZvYVFSWTBFYzRzNmN3eUZfZTFubjE1R29IdVBNWHFuZFZXcEc2OVhUa0Z6cGZHX0dzRlEtWHFOMVNqTXZCS3Q5LVMxdW1YWWhCN0l1SjVXa3hBQ0hSU2ZRRV9BVFlxTWIwN3hJajBlUEpfRlVuck9JTGRNREljeTJIWHktUldpWks2OVBxZ3VjQV9GUWVJWFlGeUJfRmJTRlVpdno4QnFrQ1hSbVBERmdvbHBNcW1pNHdJS2dOd1k?oc=5",
@@ -371,16 +391,6 @@
       "source": {
         "name": "la Repubblica",
         "url": "https://www.repubblica.it"
-      }
-    },
-    {
-      "id": "731f8f93e4c5",
-      "title": "Apnea notturna, il nuovo farmaco dimagrante retatrutide riduce le pause respiratorie fino al 40% - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamtXSkx6ZmlMOEJCbXd2ZVdpSlJIRGQzcXZqQ3l0YWRPa25PWTgzTUF1b2VDaDlMWk9hNGRZVWFyTnoxQm5ZWkY5amYxLWt0UVR0Wjcwem9WakZwNXhSLTYwTzN5UWR3Y3ZuWXZlU1dDb0FGN2JOMUZnbzFib2p4dUs5N1FhRjY4ME1nUUg0LWpsVW9fZ3NjeUhzamREVW9nN3hwNXJWdDRQUHfSAagBQVVfeXFMTnVQNmJFcDJBRDdWSUNPeTFPOVVPWnpBZHJCZmdndGM4RWxqRlYwdGVoSEdYaGxZUk0weWxEUFZSbGFhRzhfcXFTeDlpSzZSR29iMmM5Nk5BaThnX1gtMUFQY0ltNThRb3VuS0hzejZLeExkTjFVWEwzQzVjUko2dC0xRzRKSDlCVHBDWUFqTzJNVHVwTnNoSHhpTUtOR2Y3MEhSeHdjOVlH?oc=5",
-      "published": "2026-10-26T12:50:16+00:00",
-      "source": {
-        "name": "Il Messaggero",
-        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -398,6 +408,16 @@
       "title": "Tumore allo stomaco, arriva l'anticorpo-farmaco “cavallo di Troia”: riduce il rischio di morte del 42% - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkhkVWlEYVBxMWhfUEd5dktzZjVXUExFNE0xWU1NNTV2RjNBZVRJU0VXU2d2NlVUQ2xxWkJYc2cyb0hEZFZFOWhPSjd4MFk3dUFDak9ibUdidGhZbFBsempZNjNyYm9tbXdLVlViYk8tb1JkYmZqVk5rbTcyWUl2NzRSOFM0NFpNTTlEOW5PZHkzR1NuR2FOcUs5QV82eXpUUVhhdmNOZVXSAaIBQVVfeXFMT1hXaGg3QXA4UmZabGhweWVsM1FZc1E1dzRhTy0ya3R2bHVQcFlfelhIbGxHZllFaW1PdUZXaGRjNEF0czk4cDZkYklFMkRjZy1HczBsZHN4YmhsSTNycy1GQndtVnZDNk1EanRNcmhLbmlOYThWX1pTa21qN1FCbFdKRW9jVnhjS2NIRTZjNVRpR2h3OWtKZXNOZ0I3WVM5OXNR?oc=5",
       "published": "2026-10-25T17:33:06+00:00",
+      "source": {
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
+      }
+    },
+    {
+      "id": "731f8f93e4c5",
+      "title": "Apnea notturna, il nuovo farmaco dimagrante retatrutide riduce le pause respiratorie fino al 40% - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamtXSkx6ZmlMOEJCbXd2ZVdpSlJIRGQzcXZqQ3l0YWRPa25PWTgzTUF1b2VDaDlMWk9hNGRZVWFyTnoxQm5ZWkY5amYxLWt0UVR0Wjcwem9WakZwNXhSLTYwTzN5UWR3Y3ZuWXZlU1dDb0FGN2JOMUZnbzFib2p4dUs5N1FhRjY4ME1nUUg0LWpsVW9fZ3NjeUhzamREVW9nN3hwNXJWdDRQUHfSAagBQVVfeXFMTnVQNmJFcDJBRDdWSUNPeTFPOVVPWnpBZHJCZmdndGM4RWxqRlYwdGVoSEdYaGxZUk0weWxEUFZSbGFhRzhfcXFTeDlpSzZSR29iMmM5Nk5BaThnX1gtMUFQY0ltNThRb3VuS0hzejZLeExkTjFVWEwzQzVjUko2dC0xRzRKSDlCVHBDWUFqTzJNVHVwTnNoSHhpTUtOR2Y3MEhSeHdjOVlH?oc=5",
+      "published": "2026-10-26T12:50:16+00:00",
       "source": {
         "name": "Il Messaggero",
         "url": "https://www.ilmessaggero.it"
@@ -444,13 +464,13 @@
       }
     },
     {
-      "id": "31ab795ebe5a",
-      "title": "Il Ministro della Salute, Alexandru Rogobete, annuncia misure per prevenire le interruzioni nell’approvvigionamento di medicinali - Informat.ro",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVFiQXpPdEhEcG1MandnVVBrRkJsMXZrRVd1MjhxZzljcFotVVJ3QkNnN3FuS0F4azE2VVB0SnRGSk9WakJzenI0VXN2MDFEV1pwNEtTOXQySDgtTEktMlVxbnZnSWNoVFM4SnRWQnNpcVI1SWJpSkZHRjJ0QWxJdWRBRzZhSEFucWpZZU5uTXRWdUNpTjh2T0RFNEtWQQ?oc=5",
-      "published": "2026-10-26T17:27:22+00:00",
+      "id": "909451ee6779",
+      "title": "Tumore allo stomaco, nuovo farmaco riduce il rischio di morte del 42%: sopravvivenza raddoppiata - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWZzRGJWY0E4cjFpQXQtUUV4M3pNYlhfMFpub1NoN0N2U2hGTlNUN1lTQ0M0Nlo0OEZMaGlGMFp4eG5DdTkza25FWmJDWnpUNC01Ym5reGd1OG5RUVBTMkdFMmUwSm1nbTRGcExiUjVpd2lGVi1UYzV0MUNrX3lMY0pQT3k2cVo5VHVhMEpmcUFOTnpGQ1JUSWhMRDlfQXBGZUdweC16UXVOSnR5NEFiRTdB0gGsAUFVX3lxTFB1aExiUkxzamN5c1dsOGRmWVRnQmQ4YW5QVDd4Y0NTT1R0VkVaOU1uRzNRMFRLZVFMZ3lvZnI2Zm9iNU1VV3J1NUw4cjg3RTZ1czFTU3dxMldvSFB4T29mZWRsTW1iRU84WGxjck81eXlmeklqV3hFZlNSRmQzTGhQbUlMLXAzUVBaUnlHUW1MX3NBNnpzS0lJR2R1SlVXSDA5X2VyRlRqVVdNZVQ?oc=5",
+      "published": "2026-10-26T06:00:05+00:00",
       "source": {
-        "name": "Informat.ro",
-        "url": "https://informat.ro"
+        "name": "Il Messaggero",
+        "url": "https://www.ilmessaggero.it"
       }
     },
     {
@@ -464,13 +484,23 @@
       }
     },
     {
-      "id": "38e6dbedef70",
-      "title": "Farmacia dei servizi, 20 anni fa la svolta che ha ridisegnato la professione - Alto Adige",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUFYcjk2a3pBVzJQZ1VZa1dMb2h5VUg2Y1BQRmZ1WVA4ZmxSaVRfWDc2WThZV0hLRS1LUTlERE5zb25oLVlfSlNpVWQxTWxPQ3VCWkZUSExhT2dFUUkwVlRUMFBXYV8yWHlsVHcyTkpyaHNsZmpJYXo4TV8yTU4ySFo4RUZwMFFJT3V2X0dmUDU0cjh3QXY3clhheWtsclczMVFDUEJpaXRrcmVXeUNMa0hVTGhiVmlUQS1sVDdTbHo5Ym9TT29v?oc=5",
-      "published": "2026-10-26T09:19:00+00:00",
+      "id": "31ab795ebe5a",
+      "title": "Il Ministro della Salute, Alexandru Rogobete, annuncia misure per prevenire le interruzioni nell’approvvigionamento di medicinali - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVFiQXpPdEhEcG1MandnVVBrRkJsMXZrRVd1MjhxZzljcFotVVJ3QkNnN3FuS0F4azE2VVB0SnRGSk9WakJzenI0VXN2MDFEV1pwNEtTOXQySDgtTEktMlVxbnZnSWNoVFM4SnRWQnNpcVI1SWJpSkZHRjJ0QWxJdWRBRzZhSEFucWpZZU5uTXRWdUNpTjh2T0RFNEtWQQ?oc=5",
+      "published": "2026-10-26T17:27:22+00:00",
       "source": {
-        "name": "Alto Adige",
-        "url": "https://www.altoadige.it"
+        "name": "Informat.ro",
+        "url": "https://informat.ro"
+      }
+    },
+    {
+      "id": "6626607db6ca",
+      "title": "Vaccino antinfluenzale gratis al Sant'Anna di Como: open day per bambini e donne in gravidanza - QuiComo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVpwUEF3b0dNdTR4U08tVVI4YkxQX095SkEtUngxYXdGUWZTS1h5TUZGeHpfdHpuMWRCeTVjaFVSREFvX0xJREdfaDhtWm5wc2I0d3IxVHNoYlkzSjVOeXp1UjlxS0FxaDZNcFVZS3laQmsxR2x3N0JUc0llb2NrME1nSXdKc2RNSDQtVU1fcS1oU01JckltU1MxNzd3bzlOaWhz?oc=5",
+      "published": "2026-10-26T16:56:45+00:00",
+      "source": {
+        "name": "QuiComo",
+        "url": "https://www.quicomo.it"
       }
     },
     {
@@ -491,6 +521,16 @@
       "source": {
         "name": "QuiComo",
         "url": "https://www.quicomo.it"
+      }
+    },
+    {
+      "id": "38e6dbedef70",
+      "title": "Farmacia dei servizi, 20 anni fa la svolta che ha ridisegnato la professione - Alto Adige",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUFYcjk2a3pBVzJQZ1VZa1dMb2h5VUg2Y1BQRmZ1WVA4ZmxSaVRfWDc2WThZV0hLRS1LUTlERE5zb25oLVlfSlNpVWQxTWxPQ3VCWkZUSExhT2dFUUkwVlRUMFBXYV8yWHlsVHcyTkpyaHNsZmpJYXo4TV8yTU4ySFo4RUZwMFFJT3V2X0dmUDU0cjh3QXY3clhheWtsclczMVFDUEJpaXRrcmVXeUNMa0hVTGhiVmlUQS1sVDdTbHo5Ym9TT29v?oc=5",
+      "published": "2026-10-26T09:19:00+00:00",
+      "source": {
+        "name": "Alto Adige",
+        "url": "https://www.altoadige.it"
       }
     },
     {
@@ -541,16 +581,6 @@
       "source": {
         "name": "Farmacista33",
         "url": "https://www.farmacista33.it"
-      }
-    },
-    {
-      "id": "da9dc34cb222",
-      "title": "La Salute Vien Mangiando - I farmaci sono sempre più innovativi e mirati - Quotidiano Nazionale",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEl6M3prVk1uRDg0anVWS09mUk5KV2hNeWdpZkx4NzBDYnl1TkhkbkxTeWdZemRiemZWam9DT0k5MzZSR3hpX2N6V0M0bUxHNktIb0YwaUpNdjV4bG1wOE1nVzNJNDF4WklXaHl0aGpydkZxa1FvOGM0Q2phM2VPdFI4bVBzaWF0Z3Z5QW1Fb3dGRnJIZXdRcTYwRWFSZjlqYXpEM09DcXBNdzZIMV9ETXhB?oc=5",
-      "published": "2026-10-23T12:58:32+00:00",
-      "source": {
-        "name": "Quotidiano Nazionale",
-        "url": "https://www.quotidiano.net"
       }
     },
     {
@@ -611,6 +641,16 @@
       "source": {
         "name": "Scienze Notizie",
         "url": "https://www.scienzenotizie.it"
+      }
+    },
+    {
+      "id": "1c4095dff439",
+      "title": "Farmaci antiobesità e antidiabete: benefici anche per la salute mentale - Federazione Nazionale degli Ordini dei Biologi",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT095Mng5S1Y3TlRtcWdsdmpPaENRYllSTExSZWRUNjN5R3lUSEtuYXRuRy10ZTRHVFBDWUNEdE5IWXNNVFM1VlVHT0d3RF8tN2xjWklmQkplYlZvMnFIZFhPQUpOSEphWDE3eXMwN1N3R2ZJRFhWVEpNMzRkZlJYZ1l5aHZrR3lWWXM0Z3lkZVFkMWplOEJWWUc4QU5VWmFVTFlPZg?oc=5",
+      "published": "2026-02-13T08:00:00+00:00",
+      "source": {
+        "name": "Federazione Nazionale degli Ordini dei Biologi",
+        "url": "https://www.fnob.it"
       }
     },
     {
@@ -714,16 +754,6 @@
       }
     },
     {
-      "id": "456de2090c17",
-      "title": "5° Rapporto annuale sulla Farmacia presidio di salute sul territorio - Cittadinanzattiva",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTZ5amQtME1zY04ySXMxcTcwVzcyaUFfX3ZDN3lfUmJ3M3d2STg3QjZTSzUtSlFJN29CcjZRM0JhUFFPRnJrNnVmWlBwelQ1dkZjMjRUY0NaUEhyakktYnJEQ0lnSEJZUDRDa0ExaDQ5cVk3amxsTmhXTWh6OGhXbXh1ZTVidmJha1VPRGotRVBSVXRidEh4dGxmclJSTGlLS1Nzd3J5cVhRZGVuWFdERzlMUmZuZW5ONTJaNQ?oc=5",
-      "published": "2022-07-13T07:00:00+00:00",
-      "source": {
-        "name": "Cittadinanzattiva",
-        "url": "https://www.cittadinanzattiva.it"
-      }
-    },
-    {
       "id": "81ac1ed0405e",
       "title": "Ritiro dei farmaci con il fascicolo sanitario elettronico - Regione Puglia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm1FZFAtRTlZZGNVWHhGdGFoY3lqSUhtN3Joemp6UXdJdDNvMm8xMFh3VWg0QmFBVGpnYk1LWFhadnhlTS03QWFBYlBwYlZsenlnSDNrMm5QN1pQOVZBVlczeGNGUGdkOURPRjdzaTR6OFRSMW1aYllGc1AzS0w3TjM3WHYwNjZ3XzNjaEZLRHB6TVNoSmdPcnhDbUpYNEgxakFpeUFKUWNaQmNwTzNLejQ1ZEdIX080dHo0?oc=5",
@@ -741,16 +771,6 @@
       "source": {
         "name": "Regione Puglia",
         "url": "https://www.regione.puglia.it"
-      }
-    },
-    {
-      "id": "998b3b7451f1",
-      "title": "(Farmaci) Carabinieri NAS Milano: sequestrati 25.500 farmaci anti-Covid illegali - Ministero della Salute",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW1NOXNHdDJFREMteno1VTJQYllVN09mejNqcnUyNFZteklpeGdfRnN5Wnl6MmdaUk1wWnRvN2FiS1Nrbk5SX3RBU05La2NYbGE4NFgzR1I5Qi1KejNlMDhtNUJoYnB3VXUzLVI0U1B1QzJaZ2IyM05sRXJacEpURzJOYTNHejFJUzIzYk45ejZBbm5uUUF3bXpSQmZ0MlBaUDlSSVJ3ZldkSUJYZlBoUEVtSEs3MzZjUDBDbGtR?oc=5",
-      "published": "2021-01-27T08:00:00+00:00",
-      "source": {
-        "name": "Ministero della Salute",
-        "url": "https://www.salute.gov.it"
       }
     },
     {
@@ -774,16 +794,6 @@
       }
     },
     {
-      "id": "4e816749a8d3",
-      "title": "Vaccini in farmacia, Federfarma Marche rafforza la campagna di prevenzione sul territorio - Vivere Marche",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnU4THlvX1JUNWpjTzA5XzlpQXIzSjFQUXZkRk9XeEkxVHA3c0wyWVV5QlgyYjBWLV9iM0Y3NlVXWDRsS3RxVUE3NmkzZVZIY2VoMm54S1BQZTJqaDFDaEZaU2NvWkRlRW9lUjlKb3R0Qnl2UUduLVFlY3ZGdkFNclJDbDBHT1hnMVdnMm83amF3NWFuUWFqX19KblpwWEt3RGFuUmlQSmIwdnhuLXZWOWlyV1lMZ3BObWVWZGFlQm5wMU4tbDlFRnczNHFFVXp5?oc=5",
-      "published": "2026-10-26T14:21:00+00:00",
-      "source": {
-        "name": "Vivere Marche",
-        "url": "https://www.viveremarche.it"
-      }
-    },
-    {
       "id": "22ee5a19b50f",
       "title": "Bonus Salute da 300 a 500 Euro per gli Anziani: Nuova Card per Visite Mediche, Farmaci e Dentista - TuttoLavoro24",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1o3SEhyeEw2RUFfRk1aa1F3WWdRc09XbnFHNV9JU3lkM2FlZnktRVltbERpUHNPcFZRQjNnZk1QTk1ONWhJLUxKdjlmaUloNzB0UHZUVU8tRk1kd0NyUF9UN3p6enBzcjJjc3Y0SXhHbUhfMDNFdmdPMTNxdy1YZDJaZy15blNqNl94YTBBb3d5UHVLQXlISVdGUUwwYkxVMmxzZVY1MksxYUJjV1p6OEVtbzQ1Zno5VnhkQ1JUWkN1QkozblRwR3N4d1o?oc=5",
@@ -794,13 +804,13 @@
       }
     },
     {
-      "id": "f155d7a09d58",
-      "title": "Fentanyl, test rapidi a rischio falsi positivi: uno studio Iss svela l’interferenza del risperidone - Affaritaliani",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSjQxMkhqRmVpX1R1aHVuSkMxbXhmWGc3em9qX3NFcmNWZEpDUndGX25hM2Z2SDdFVGU5aWhkSGt5Q0RmMzhsYlVMZFQ1cE1OZzcxQXc4YXgyUFZ1b2xJR25UUWY3SGNFMnZqRFdFeFphdk1lQmRDeVpSZTRQNzNVbTJtNi1rSW9aYlZKT2xHbnM3M0VwaVpteXBsalJONk80UFV0THZZRHRlVkcxZDZsZl9LUjA4MjZ2c2tRWFJHT19YNEU0VUVJQTNPM29TMzFKV3pMdFdVYw?oc=5",
-      "published": "2026-10-26T15:56:46+00:00",
+      "id": "4e816749a8d3",
+      "title": "Vaccini in farmacia, Federfarma Marche rafforza la campagna di prevenzione sul territorio - Vivere Marche",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnU4THlvX1JUNWpjTzA5XzlpQXIzSjFQUXZkRk9XeEkxVHA3c0wyWVV5QlgyYjBWLV9iM0Y3NlVXWDRsS3RxVUE3NmkzZVZIY2VoMm54S1BQZTJqaDFDaEZaU2NvWkRlRW9lUjlKb3R0Qnl2UUduLVFlY3ZGdkFNclJDbDBHT1hnMVdnMm83amF3NWFuUWFqX19KblpwWEt3RGFuUmlQSmIwdnhuLXZWOWlyV1lMZ3BObWVWZGFlQm5wMU4tbDlFRnczNHFFVXp5?oc=5",
+      "published": "2026-10-26T14:21:00+00:00",
       "source": {
-        "name": "Affaritaliani",
-        "url": "https://www.affaritaliani.it"
+        "name": "Vivere Marche",
+        "url": "https://www.viveremarche.it"
       }
     },
     {
