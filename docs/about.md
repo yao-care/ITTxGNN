@@ -116,7 +116,7 @@ le malattie rare."
 
 | Voce | Valore |
 |------|-------|
-| Schede farmaco | {{ site.drugs.size }} |
+| Schede farmaco | {{ site.data.drug_stats.total_drugs }} |
 | Autorità regolatoria | AIFA |
 | Siti attivi | 30 paesi / regioni |
 

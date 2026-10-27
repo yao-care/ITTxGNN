@@ -19,7 +19,7 @@ Previsioni di riposizionamento di farmaci per farmaci approvati da AIFA (Italy) 
 
 | Elemento | Quantita |
 |------|------|
-| **Rapporti sui farmaci** | 333 |
+| **Rapporti sui farmaci** | 436 |
 | **Previsioni totali** | 7,794,696 |
 | **Farmaci unici** | 407 |
 | **Indicazioni uniche** | 16,985 |
