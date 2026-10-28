@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tranexamic Acid: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Endometriosi (secondo la base di conoscenza TxGNN"
 monitor_inn: "tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]

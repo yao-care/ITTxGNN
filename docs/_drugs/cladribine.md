@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cladribine: nuova indicazione prevista, Rabdomiosarcoma embrionale parameningeo (parameningeal embryonal rhabdomyosarcoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loca…"
 ---
 

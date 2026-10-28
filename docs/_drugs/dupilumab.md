@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 160
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dupilumab: nuova indicazione prevista, Bronchite (livello di evidenza L3). Indicazione originale: Dermatite atopica (eczema atopico)"
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]

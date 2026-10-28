@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cetirizine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

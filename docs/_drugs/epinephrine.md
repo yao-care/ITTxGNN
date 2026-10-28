@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Epinephrine: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

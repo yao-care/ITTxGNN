@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "EFMOROCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Efmoroctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

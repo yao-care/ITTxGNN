@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (livello di evidenza L4). Indicazione originale: Fenilchetonuria"
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]

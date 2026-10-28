@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 435
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tiapride: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L3). Indicazione originale: Non disponibile nei dati AIFA (il testo dell'indicazione approvata è…"
 monitor_inn: "TIAPRIDE"
 predicted_indications: ["migraine disorder"]

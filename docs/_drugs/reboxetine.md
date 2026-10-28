@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Reboxetine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "Reboxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]

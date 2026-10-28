@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 311
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Morphine: nuova indicazione prevista, Sindrome da dolore miofasciale (livello di evidenza L4). Indicazione originale: Malattia diarroica (dalla base di conoscenza TxGNN"
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]

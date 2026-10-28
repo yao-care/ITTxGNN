@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 39
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Aminophylline: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile"
 monitor_inn: "aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]

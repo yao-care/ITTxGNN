@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Cefazolin: nuova indicazione prevista, Otite media infettiva (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite batterica, colangite, endocardite…"
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]

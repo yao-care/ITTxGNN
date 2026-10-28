@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ebastine: nuova indicazione prevista, Malattia coronarica (coronary artery disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

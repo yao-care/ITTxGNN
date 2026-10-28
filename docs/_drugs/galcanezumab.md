@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Galcanezumab: nuova indicazione prevista, Carenza di cofattore 2 dell'eparina (livello di evidenza L5). Indicazione originale: Emicrania (anche con o senza aura)"
 monitor_inn: "GALCANEZUMAB"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]

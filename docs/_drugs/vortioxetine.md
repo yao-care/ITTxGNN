@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 466
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: nuova indicazione prevista, Neurotic disorder (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"

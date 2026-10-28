@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 199
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"

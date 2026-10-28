@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Rivaroxaban: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi di indicazione delle auto…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]

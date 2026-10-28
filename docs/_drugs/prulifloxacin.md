@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Prulifloxacin: nuova indicazione prevista, Malattia cardiaca (heart disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (il testo dell'indicazione è…"
 monitor_inn: "prulifloxacin"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "mitral valve disease", "Jeune syndrome situs inversus"]

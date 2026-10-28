@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Denosumab: nuova indicazione prevista, Retinopatia diabetica non proliferativa grave (severe nonproliferative diabetic retinopathy) (livello di evidenza L5). Indicazione originale: Non riportata nei …"
 ---
 

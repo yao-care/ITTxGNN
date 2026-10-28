@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 351
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"

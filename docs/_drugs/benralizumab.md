@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Benralizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (thrombocytopenia due to immune destruction) (livello di evidenza L5). Indicazione originale: Non riportata nei da…"
 ---
 

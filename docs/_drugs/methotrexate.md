@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

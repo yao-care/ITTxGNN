@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 355
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"

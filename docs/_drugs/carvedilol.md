@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Carvedilol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

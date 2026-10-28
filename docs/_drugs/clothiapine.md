@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "clothiapine"
 predicted_indications: ["insomnia (disease)"]
 description: "Clothiapine: nuova indicazione prevista, Insonnia (livello di evidenza L5)."

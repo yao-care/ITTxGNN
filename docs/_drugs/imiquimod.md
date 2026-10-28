@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 235
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: nuova indicazione prevista, Pre-malignant neoplasm (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"

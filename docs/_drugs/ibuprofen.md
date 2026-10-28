@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Ibuprofen: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata ne…"

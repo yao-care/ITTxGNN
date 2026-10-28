@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 353
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Piperacillin: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (antibiotico beta-lattamico per in…"
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]

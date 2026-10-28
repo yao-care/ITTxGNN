@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Baclofen: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Non disponibile (i testi di indicazione delle autorizzaz…"
 monitor_inn: "baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]

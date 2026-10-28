@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 419
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: nuova indicazione prevista, Mammary Paget disease (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"

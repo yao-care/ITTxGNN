@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CILAZAPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cilazapril: nuova indicazione prevista, Ipertensione polmonare con meccanismo multifattoriale poco chiaro (pulmonary hypertension with unclear multifactorial m… (livello di evidenza L5). Indicazione …"
 ---
 

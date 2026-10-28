@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 262
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: nuova indicazione prevista, Nipple carcinoma (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"

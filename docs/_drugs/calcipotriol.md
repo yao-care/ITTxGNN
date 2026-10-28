@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 84
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Calcipotriol: nuova indicazione prevista, Cheratosi seborroica (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (testi delle indicazioni AIFA vuot…"
 monitor_inn: "calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]

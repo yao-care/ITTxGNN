@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 380
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Rifaximin: nuova indicazione prevista, Candidiasi orale (livello di evidenza L4). Indicazione originale: Encefalopatia epatica, coma epatico"
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]

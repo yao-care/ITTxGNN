@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 357
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L4). Indicazione originale: Non riportata nei…"

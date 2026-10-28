@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 392
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Roxithromycin: nuova indicazione prevista, Lebbra (livello di evidenza L3). Indicazione originale: Infezioni delle vie respiratorie…"
 monitor_inn: "roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]

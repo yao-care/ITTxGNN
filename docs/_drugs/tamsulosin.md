@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 description: "Tamsulosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riporta…"

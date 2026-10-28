@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bacampicillin: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

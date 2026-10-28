@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 description: "Azathioprine: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

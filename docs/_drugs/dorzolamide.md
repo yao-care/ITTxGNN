@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dorzolamide: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 365
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 description: "Propafenone: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"

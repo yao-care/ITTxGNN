@@ -3,7 +3,7 @@ layout: default
 title: Betaxolol
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 68
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Betaxolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 indication_count: 0

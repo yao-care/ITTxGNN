@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CATRIDECACOG"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Catridecacog: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati lo…"
 ---
 

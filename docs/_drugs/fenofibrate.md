@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fenofibrate: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

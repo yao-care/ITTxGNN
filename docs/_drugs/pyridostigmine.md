@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

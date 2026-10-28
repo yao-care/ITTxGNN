@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALISKIREN"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aliskiren: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) (livello di evidenza L5). Indicazione ori…"
 ---
 

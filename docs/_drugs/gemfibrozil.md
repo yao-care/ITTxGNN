@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 219
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"

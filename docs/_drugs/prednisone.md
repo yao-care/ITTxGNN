@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 360
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
 description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 464
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Vildagliptin: nuova indicazione prevista, Sindrome della persona rigida classica (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]

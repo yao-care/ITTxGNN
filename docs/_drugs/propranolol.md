@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: nuova indicazione prevista, Distal myopathy, Tateyama type (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

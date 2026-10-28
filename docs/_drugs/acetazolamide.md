@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ACETAZOLAMIDE"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acetazolamide: nuova indicazione prevista, Ipertermia maligna da sforzo (exercise-induced malignant hyperthermia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

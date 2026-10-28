@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

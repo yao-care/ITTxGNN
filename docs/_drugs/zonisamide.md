@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Zonisamide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Epilessia (crisi parziali)"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]

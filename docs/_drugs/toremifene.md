@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Toremifene: nuova indicazione prevista, HIV infectious disease (infezione da HIV) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA (testo dell'indicazione vuoto)"
 monitor_inn: "TOREMIFENE"
 predicted_indications: ["HIV infectious disease"]

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 182
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 description: "Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"

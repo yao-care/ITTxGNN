@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Duloxetine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dat…"
 ---
 

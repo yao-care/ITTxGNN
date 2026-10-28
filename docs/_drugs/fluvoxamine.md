@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
 description: "Fluvoxamine: nuova indicazione prevista, Schizotypal personality disorder (livello di evidenza L5)."

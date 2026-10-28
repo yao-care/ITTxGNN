@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dexibuprofen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

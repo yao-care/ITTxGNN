@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 21
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Acitretin: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA…"
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]

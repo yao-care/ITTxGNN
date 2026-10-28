@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 412
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"

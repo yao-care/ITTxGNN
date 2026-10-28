@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "KETOROLAC"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L1)."

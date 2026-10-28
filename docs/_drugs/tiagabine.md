@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 434
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tiagabine: usi noti e stato di mercato in Italia; attualmente nessuna nuova indicazione candidata"
 predicted_indications: []
 ---

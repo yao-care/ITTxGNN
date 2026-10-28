@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

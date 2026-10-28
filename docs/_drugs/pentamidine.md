@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
 description: "Pentamidine: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"

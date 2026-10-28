@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Voxilaprevir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 309
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
 description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"

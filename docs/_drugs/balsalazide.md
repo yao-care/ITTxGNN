@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BALSALAZIDE"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Balsalazide: nuova indicazione prevista, Gotta (gout) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

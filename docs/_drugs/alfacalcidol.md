@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Alfacalcidolo: nuova indicazione prevista, craniofacial conodysplasia (livello di evidenza L5). Indicazione originale: Iperparatiroidismo, osteite fibrosa, ipoparatiroidismo…"
 ---
 

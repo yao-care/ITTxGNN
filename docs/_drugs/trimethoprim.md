@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5)."
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AMIODARONE"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Amiodarone: nuova indicazione prevista, Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia) (livello di evidenza L5). Indicazione originale: N…"
 ---
 

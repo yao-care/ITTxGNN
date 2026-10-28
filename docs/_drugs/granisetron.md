@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

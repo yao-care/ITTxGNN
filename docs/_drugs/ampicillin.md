@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 46
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ampicillin: nuova indicazione prevista, Laringite (livello di evidenza L4). Indicazione originale: Infezioni batteriche (ad es. infezioni delle vie urinarie…"
 monitor_inn: "ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Siponimod: nuova indicazione prevista, Ipertensione polmonare (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (la letteratura associa sipon…"
 monitor_inn: "SIPONIMOD"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]

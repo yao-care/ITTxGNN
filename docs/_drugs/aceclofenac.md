@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ACECLOFENAC"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aceclofenac: nuova indicazione prevista, Sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei …"
 ---
 

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 463
 evidence_level: L1
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol: nuova indicazione prevista, Hyperlucent lung (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"

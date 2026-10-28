@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Vancomycin: nuova indicazione prevista, Sclerodermia diffusa (livello di evidenza L5). Indicazione originale: Colite da Clostridium difficile, infezioni stafilococciche…"
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]

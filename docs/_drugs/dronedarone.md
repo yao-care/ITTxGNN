@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 156
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dronedarone: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (testo dell'indicazione AIFA non disponibile ne…"
 monitor_inn: "DRONEDARONE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]

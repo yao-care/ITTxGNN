@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 56
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: nuova indicazione prevista, Specific developmental disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"

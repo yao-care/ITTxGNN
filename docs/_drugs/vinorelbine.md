@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 465
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"

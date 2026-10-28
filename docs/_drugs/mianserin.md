@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 248
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ketoconazole: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Micosi cutanee e sistemiche (tinea pedis, tinea corporis…"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]

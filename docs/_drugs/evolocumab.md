@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
 description: "Evolocumab: nuova indicazione prevista, Forma sintomatica di emofilia nelle portatrici (symptomatic form of hemophilia in female carriers) (livello di evidenza L5). Indicazione originale: Non riporta…"

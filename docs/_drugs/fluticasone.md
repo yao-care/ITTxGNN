@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FLUTICASONE"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
 description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

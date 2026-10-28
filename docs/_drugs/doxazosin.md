@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Doxazosin: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

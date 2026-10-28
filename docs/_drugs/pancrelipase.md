@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
 monitor_inn: "pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]

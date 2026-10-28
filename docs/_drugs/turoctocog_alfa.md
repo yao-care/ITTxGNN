@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
 description: "Turoctocog Alfa: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
