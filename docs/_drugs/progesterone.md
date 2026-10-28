@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-29
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (dise… (livello di evidenza L2)."
+description: "Progesterone: nuova indicazione prevista, Amenorrhea (disease) (livello di evidenza L2)."
 ---
 
 # Progesterone
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **7**
 
 </div>
 
-## Progesterone: Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease))
+## Progesterone: Amenorrhea (disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,8 +48,8 @@ Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Endometriosi, patologie endometriali, osteoporosi post-menopausale, vaginite atrofica post-menopausale (da grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) |
+| Indicazione originaria | Non riportata nei dati locali |
+| Nuova indicazione prevista | Amenorrhea (disease) |
 | Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L2 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |

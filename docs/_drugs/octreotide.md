@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 325
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: nuova indicazione prevista, Vulvar inverted follicular keratosis (livello di evidenza L5)."
@@ -45,7 +45,7 @@ Il modello TxGNN ne prevede una possibile efficacia per la **cheratosi follicola
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Acromegalia, iperpituitarismo, sindrome da carcinoide (da grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione predetta | Vulvar inverted follicular keratosis |
 | Punteggio di predizione TxGNN | 0.9958 |
 | Livello di evidenza | L5 |

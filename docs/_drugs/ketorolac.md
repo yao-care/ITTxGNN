@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "KETOROLAC"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L1)."
@@ -46,7 +46,7 @@ Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni orig
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Congiuntivite atopica, papillare e primaverile (da grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione prevista | Disturbo da cefalea (headache disorder) |
 | Punteggio di predizione TxGNN | 0.9943 |
 | Livello di evidenza | L1 (al limite con L2, vedi note) |

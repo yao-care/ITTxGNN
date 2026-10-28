@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 398
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L1)."
@@ -46,7 +46,7 @@ Il salmeterolo è un beta-2 agonista a lunga durata d'azione (LABA), originariam
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Enfisema polmonare, asma intrinseca, asma allergica (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione prevista | Bronchite (bronchitis) |
 | Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L1 |

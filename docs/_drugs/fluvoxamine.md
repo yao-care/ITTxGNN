@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
 description: "Fluvoxamine: nuova indicazione prevista, Schizotypal personality disorder (livello di evidenza L5)."
@@ -44,7 +44,7 @@ La fluvoxamina è un antidepressivo inibitore selettivo della ricaptazione della
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Fobia sociale, disturbi fobici, disturbo ossessivo-compulsivo (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione prevista | Schizotypal personality disorder |
 | Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 (solo predizione del modello, nessuno studio diretto; la letteratura disponibile è indiretta) |
