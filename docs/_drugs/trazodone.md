@@ -4,17 +4,17 @@ title: Trazodone
 parent: Prove moderate (L3-L4)
 nav_order: 449
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Trazodone: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L3). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "TRAZODONE"
-predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
+predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 ---
 
 # Trazodone
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Al momento non risultano **sperimentazioni cliniche registrate**, ma sono dispon
 |------|------|
 | Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (testo dell'indicazione AIFA non disponibile) |
 | Nuova indicazione prevista | Disturbo ossessivo-compulsivo |
-| Punteggio di predizione TxGNN | 99,95% |
+| Punteggio di predizione TxGNN | 0,9995 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -107,7 +107,7 @@ Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni derivate dal grafo di conoscenza** (non dal testo del foglietto illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, malattie cardiache e cardiovascolari, ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, atrofia multisistemica, carenza di potassio, iperplasia prostatica benigna, disturbi della coagulazione, priapismo, sindrome da inappropriata secrezione di ADH e sindrome nefrogenica da inappropriata antidiuresi.
+- **Controindicazioni** (non tratte dal testo del foglietto illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, malattie cardiache e cardiovascolari, ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, atrofia multisistemica, carenza di potassio, iperplasia prostatica benigna, disturbi della coagulazione, priapismo, sindrome da inappropriata secrezione di ADH e sindrome nefrogenica da inappropriata antidiuresi.
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle di livello **maggiore** figurano bupropione, lorcaserina, dolasetron, palonosetron, cisapride, destrofenfluramina e fenfluramina. Tra quelle di livello moderato: famotidina, loperamide, aprepitant, morfina, claritromicina ed eliglustat. Molte interazioni riguardano farmaci che prolungano il QT o aumentano il rischio serotoninergico.
 
 Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo.

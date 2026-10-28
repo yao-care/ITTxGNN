@@ -6,9 +6,9 @@ nav_order: 355
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pitolisant: nuova indicazione prevista, Insonnia (livello di evidenza L4). Indicazione originale: Narcolessia / sindrome narcolessia-cataplessia (dal grafo di conoscen…"
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
+description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pitolisant
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Pitolisant: dalla narcolessia all'insonnia (ipotesi predetta)
+## Pitolisant: Insonnia (insomnia (disease))
 {: .text-alpha }
 
 ## Sintesi
@@ -44,26 +44,26 @@ Il pitolisant è un antagonista/agonista inverso del recettore H3 dell'istamina,
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Narcolessia / sindrome narcolessia-cataplessia (dal grafo di conoscenza; il testo dell'indicazione autorizzata non è disponibile) |
-| Nuova indicazione predetta | Insonnia |
-| Punteggio di predizione TxGNN | 99,71% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Insonnia (insomnia (disease)) |
+| Punteggio di predizione TxGNN | 0.9971 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa predizione è (poco) ragionevole?
 
 Il pitolisant blocca il recettore H3 e aumenta la trasmissione istaminergica, favorendo la veglia. Per questo è utile nella sonnolenza diurna della narcolessia. I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione registrato, ma il profilo farmacologico emerge dalla letteratura.
 
-Per l'insonnia la logica è invertita: stimolare la veglia dovrebbe peggiorare l'inizio e il mantenimento del sonno, e l'insonnia è un effetto avverso documentato del pitolisant. Il punteggio elevato di TxGNN riflette probabilmente la vicinanza, nel grafo di conoscenza, ai disturbi sonno-veglia (come la narcolessia), non una vera logica terapeutica.
+Per l'insonnia la logica è invertita: stimolare la veglia dovrebbe peggiorare l'inizio e il mantenimento del sonno, e l'insonnia è un effetto avverso documentato del pitolisant. Il punteggio elevato di TxGNN proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate (come i disturbi sonno-veglia, tra cui la narcolessia), non evidenza biologica né una vera logica terapeutica.
 
 Le due sperimentazioni randomizzate sull'apnea ostruttiva (PMID 33121980 e 31917607) riguardano la sonnolenza residua, un'indicazione diversa.
 
 ### Altre predizioni esaminate
 
-- **Disturbo da deficit di attenzione e iperattività (ADHD)**, punteggio 99,36%, livello L4, indicazione "domanda di ricerca": l'antagonismo H3 aumenta il rilascio di istamina, acetilcolina, noradrenalina e dopamina nella corteccia prefrontale, il che dà un razionale plausibile ma solo indiretto e di classe. Non ci sono studi clinici specifici sul pitolisant nell'ADHD. Potrebbe giustificare uno studio esplorativo, tenendo conto del profilo di eventi avversi di tipo stimolante e psichiatrico (ansia, insonnia).
-- **Sindrome faciodigitogenitale (Aarskog-Scott)**, punteggio 99,29%, livello L5, decisione Hold: malattia rara legata all'X da mutazioni di FGD1, senza alcun legame meccanicistico noto con la farmacologia H3 e senza studi né pubblicazioni. Probabile artefatto del grafo di conoscenza.
+- **Disturbo da deficit di attenzione e iperattività (ADHD)**, punteggio 0,9936, livello L4, indicazione "domanda di ricerca": l'antagonismo H3 aumenta il rilascio di istamina, acetilcolina, noradrenalina e dopamina nella corteccia prefrontale, il che dà un razionale plausibile ma solo indiretto e di classe. Non ci sono studi clinici specifici sul pitolisant nell'ADHD. Potrebbe giustificare uno studio esplorativo, tenendo conto del profilo di eventi avversi di tipo stimolante e psichiatrico (ansia, insonnia).
+- **Sindrome faciodigitogenitale (Aarskog-Scott)**, punteggio 0,9929, livello L5, decisione Hold: malattia rara legata all'X da mutazioni di FGD1, senza alcun legame meccanicistico noto con la farmacologia H3 e senza studi né pubblicazioni. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese tra malattie correlate, non evidenza biologica.
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -92,10 +92,10 @@ Tutte e quattro le autorizzazioni (titolare BIOPROJET PHARMA) risultano cancella
 
 | Numero di autorizzazione | Nome del prodotto | Stato |
 |---------|------|------|
-| 049682026 | OZAWADE, 30 compresse rivestite da 18 mg | Cancellata |
-| 044839025 | WAKIX, 30 compresse rivestite da 18 mg | Cancellata |
-| 044839013 | WAKIX, 30 compresse rivestite da 4,5 mg | Cancellata |
-| 049682014 | OZAWADE, 30 compresse rivestite da 4,5 mg | Cancellata |
+| 049682026 | OZAWADE, 30 compresse rivestite da 18 mg | Valida |
+| 044839025 | WAKIX, 30 compresse rivestite da 18 mg | Valida |
+| 044839013 | WAKIX, 30 compresse rivestite da 4,5 mg | Valida |
+| 049682014 | OZAWADE, 30 compresse rivestite da 4,5 mg | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -109,7 +109,7 @@ Per avvertenze e controindicazioni complete consultare il foglietto illustrativo
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'insonnia il meccanismo (promozione della veglia) è opposto all'effetto terapeutico necessario, non esistono studi specifici e il punteggio TxGNN elevato sembra un effetto di prossimità nel grafo. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
+Per l'insonnia il meccanismo (promozione della veglia) è opposto all'effetto terapeutico necessario, non esistono studi specifici e il punteggio TxGNN elevato proviene dal modello (deep learning) e può riflettere somiglianze apprese tra malattie correlate, non evidenza biologica. In Italia il farmaco è commercializzato, con 4 autorizzazioni valide su 4.
 
 **Per procedere sarebbe necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza

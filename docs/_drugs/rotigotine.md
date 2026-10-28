@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rotigotine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 390
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rotigotine: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L4). Indicazione originale: Sindrome delle gambe senza riposo…"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "schizophren
 # Rotigotine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ La rotigotina è un agonista dopaminergico non ergolinico, somministrato per via
 |------|------|
 | Indicazione originale | Sindrome delle gambe senza riposo, malattia di Parkinson (e forme parkinsoniane correlate) |
 | Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 99,99% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Punteggio di predizione TxGNN | 0,9999 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ---

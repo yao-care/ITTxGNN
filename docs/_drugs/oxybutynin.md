@@ -6,9 +6,9 @@ nav_order: 334
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (livello di evidenza L5). Indicazione originale: Vescica iperattiva, vescica neurogena (dal grafo di conoscenza"
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
+description: "Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Oxybutynin
@@ -33,12 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Oxybutynin: Dal trattamento della vescica iperattiva alla sindrome delle gambe senza riposo
+## Oxybutynin: Sindrome delle gambe senza riposo (restless legs syndrome)
 {: .text-alpha }
 
 ## Riepilogo in breve
 
-L'ossibutinina è un farmaco antimuscarinico con attività antispastica, originariamente usato per la vescica iperattiva e la vescica neurogena. Il modello TxGNN prevede che possa essere efficace per la **sindrome delle gambe senza riposo** (punteggio 99,7%), ma per questa indicazione non sono stati compilati **né studi clinici né pubblicazioni**. L'unico supporto è quindi la predizione computazionale (livello di evidenza L5).
+L'ossibutinina è un farmaco antimuscarinico con attività antispastica, originariamente usato per la vescica iperattiva e la vescica neurogena. Il modello TxGNN (deep learning) prevede che possa essere efficace per la **sindrome delle gambe senza riposo** (punteggio 0.9974), ma per questa indicazione non sono stati compilati **né studi clinici né pubblicazioni**. L'unico supporto è quindi la predizione computazionale (livello di evidenza L5). Il punteggio deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ---
 
@@ -46,12 +46,12 @@ L'ossibutinina è un farmaco antimuscarinico con attività antispastica, origina
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Vescica iperattiva, vescica neurogena (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome delle gambe senza riposo |
-| Punteggio di predizione TxGNN | 99,74% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome delle gambe senza riposo (restless legs syndrome) |
+| Punteggio di predizione TxGNN | 0.9974 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -64,8 +64,8 @@ Il collegamento con la sindrome delle gambe senza riposo è debole. Questa patol
 
 ### Altre indicazioni previste (a titolo di confronto)
 
-- **Gastroduodenite** (punteggio 99,62%, L5): l'attività antimuscarinica e antispastica potrebbe teoricamente ridurre secrezione gastrica e motilità, ma non esistono dati clinici e gli anticolinergici non sono un trattamento consolidato.
-- **Ulcera peptica** (punteggio 99,31%, L4): ha un razionale storico (gli antimuscarinici erano usati come coadiuvanti), ma le fonti sono datate e di basso livello. Con le terapie attuali (inibitori di pompa, eradicazione di H. pylori) il razionale è debole. Un caso del 1990 segnala inoltre esofagite da reflusso indotta dal farmaco.
+- **Gastroduodenite** (punteggio 0,9962, L5): l'attività antimuscarinica e antispastica potrebbe teoricamente ridurre secrezione gastrica e motilità, ma non esistono dati clinici e gli anticolinergici non sono un trattamento consolidato.
+- **Ulcera peptica** (punteggio 0,9931, L4): ha un razionale storico (gli antimuscarinici erano usati come coadiuvanti), ma le fonti sono datate e di basso livello. Con le terapie attuali (inibitori di pompa, eradicazione di H. pylori) il razionale è debole. Un caso del 1990 segnala inoltre esofagite da reflusso indotta dal farmaco.
 
 ---
 
@@ -91,8 +91,8 @@ Per la sindrome delle gambe senza riposo non è disponibile letteratura. Le pubb
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035733043 | OXIBUTININA*30 cpr 5 mg (EG SpA) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 034261115 | OSSIBUTININA CLORIDRATO*30 cpr 5 mg (Mylan SpA) | Compresse | Non disponibile (autorizzazione cancellata) |
+| 035733043 | OXIBUTININA*30 cpr 5 mg (EG SpA) | Compresse | Non disponibile (autorizzazione valida) |
+| 034261115 | OSSIBUTININA CLORIDRATO*30 cpr 5 mg (Mylan SpA) | Compresse | Non disponibile (autorizzazione valida) |
 
 ---
 

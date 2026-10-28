@@ -4,17 +4,17 @@ title: Primidone
 parent: Solo previsione del modello (L5)
 nav_order: 362
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Primidone: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (indicazioni derivate dal grafo di conoscenza"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Primidone: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Primidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Primidone: Dall'epilessia al neoplasma del nervo trigemino
+## Primidone: Neoplasma del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Primidone è un anticonvulsivante utilizzato originariamente nel trattamento del
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia (indicazioni derivate dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Neoplasma del nervo trigemino |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neoplasma del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Primid
 
 Per il neoplasma del nervo trigemino, tuttavia, i dati compilati **non sostengono un meccanismo biologicamente plausibile**: primidone non ha alcuna nota azione antineoplastica. Il punteggio molto elevato è probabilmente dovuto alla prossimità nella rete di conoscenza con nodi legati al nervo trigemino o alle crisi epilettiche, e non a un'evidenza biologica o clinica.
 
-Tra le altre previsioni di alto rango, quelle più coerenti con l'indicazione originale sono le epilessie riflesse (crisi audiogene, startle epilepsy, crisi indotte dalla lettura) e la nevralgia del trigemino (plausibile per estensione di classe degli anticonvulsivanti, ma senza evidenze specifiche per primidone). Esse vanno valutate separatamente e non modificano la valutazione del candidato principale.
+Tra le altre previsioni di alto rango, quella più coerente con l'indicazione originale è la nevralgia del trigemino (plausibile per estensione di classe degli anticonvulsivanti, ma senza evidenze specifiche per primidone). Va valutata separatamente e non modifica la valutazione del candidato principale.
 
 ## Evidenze dagli studi clinici
 
@@ -72,7 +72,7 @@ Attualmente non è disponibile letteratura correlata per il neoplasma del nervo 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 009340011 | MYSOLINE 30 cpr 250 mg (SIT Laboratorio Farmaceutico Srl) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 009340011 | MYSOLINE 30 cpr 250 mg (SIT Laboratorio Farmaceutico Srl) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

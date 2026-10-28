@@ -39,7 +39,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 ## Sintesi in una frase
 
 Il raloxifene è un modulatore selettivo dei recettori degli estrogeni (SERM), utilizzato originariamente per il trattamento dell'osteoporosi post-menopausale.
-Il modello TxGNN ne prevede una possibile efficacia nell'**ulcera duodenale** (punteggio molto alto, 99,72%), ma finora **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: si tratta di una predizione puramente computazionale.
+Il modello TxGNN ne prevede una possibile efficacia nell'**ulcera duodenale** (punteggio molto alto, 0,9972), ma finora **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: si tratta di una predizione puramente computazionale.
 
 ## Quadro generale
 
@@ -47,13 +47,13 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ulcera duodenale** (p
 |------|------|
 | Indicazione originale | Osteoporosi post-menopausale / osteoporosi |
 | Nuova indicazione prevista | Ulcera duodenale |
-| Punteggio di predizione TxGNN | 99,72% |
+| Punteggio di predizione TxGNN | 0,9972 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
-Nota: l'indicazione originale deriva dagli archi delle indicazioni del grafo di conoscenza; i testi delle indicazioni autorizzate AIFA non sono disponibili nei dati compilati.
+Nota: l'indicazione originale non è ricavabile dai testi delle indicazioni autorizzate AIFA, che non sono disponibili nei dati compilati.
 
 ## Perché questa predizione è ragionevole?
 
@@ -67,9 +67,9 @@ Il punteggio elevato è quindi, allo stato attuale, l'unico elemento a favore e 
 
 | Rango | Indicazione prevista | Punteggio TxGNN | Considerazioni |
 |------|------|------|------|
-| 2 | Ipoalfalipoproteinemia | 99,65% | Il raloxifene riduce modestamente LDL-C e fibrinogeno nelle donne in post-menopausa, ma gli effetti sull'HDL-C sono in genere piccoli o neutri; il beneficio non è supportato. |
-| 3 | Ostruzione duodenale | 99,64% | Condizione prevalentemente meccanica/strutturale, gestita per via chirurgica o endoscopica; la predizione è probabilmente un artefatto di prossimità nella rete. |
-| 4 | Reflusso duodeno-gastrico | 99,59% | Disturbo di motilità e funzione pilorica; il raloxifene non ha azione procinetica, chelante dei sali biliari o di protezione mucosale nota. |
+| 2 | Ipoalfalipoproteinemia | 0,9965 | Il raloxifene riduce modestamente LDL-C e fibrinogeno nelle donne in post-menopausa, ma gli effetti sull'HDL-C sono in genere piccoli o neutri; il beneficio non è supportato. |
+| 3 | Ostruzione duodenale | 0,9964 | Condizione prevalentemente meccanica/strutturale, gestita per via chirurgica o endoscopica; la predizione è probabilmente un artefatto di prossimità nella rete. |
+| 4 | Reflusso duodeno-gastrico | 0,9959 | Disturbo di motilità e funzione pilorica; il raloxifene non ha azione procinetica, chelante dei sali biliari o di protezione mucosale nota. |
 
 ## Evidenze da studi clinici
 
@@ -83,10 +83,10 @@ Attualmente non risulta alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034154017 | OPTRUMA 14 compresse rivestite 60 mg | Eli Lilly Nederland BV | Cancellata |
-| 040742025 | RALOXIFENE 28 compresse rivestite 60 mg | Sandoz SpA | Cancellata |
-| 034153027 | EVISTA 28 compresse rivestite 60 mg | Substipharm | Cancellata |
-| 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Cancellata |
+| 034154017 | OPTRUMA 14 compresse rivestite 60 mg | Eli Lilly Nederland BV | Valida |
+| 040742025 | RALOXIFENE 28 compresse rivestite 60 mg | Sandoz SpA | Valida |
+| 034153027 | EVISTA 28 compresse rivestite 60 mg | Substipharm | Valida |
+| 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Valida |
 
 Tutte e quattro le autorizzazioni sono monocomponente e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.
 

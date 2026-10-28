@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Famotidine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 190
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Famotidine: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L4). Indicazione originale: Ulcera gastrica e duodenale, reflusso gastroesofageo, esofagite…"
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+description: "Famotidine: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Famotidina: da ulcera gastrica e reflusso gastroesofageo a reflusso duodeno-gastrico
+## Famotidine: Duodenal obstruction
 {: .text-alpha }
 
 ## Sintesi
 
 La famotidina è un antagonista dei recettori H2 dell'istamina, originariamente impiegato per ulcera gastrica e duodenale, malattia da reflusso gastroesofageo, esofagite e sindrome di Zollinger-Ellison.
-Il modello TxGNN prevede che possa essere efficace per il **reflusso duodeno-gastrico** (punteggio 99,99%), ma per questa indicazione sono disponibili **nessuno studio clinico registrato** e solo **2 pubblicazioni**, di piccole dimensioni o datate.
 Tra le indicazioni previste, quella con le evidenze più solide è la **malattia ulcerosa peptica** (8 studi clinici, di cui uno di fase 3), che però rientra già negli usi originari del farmaco e quindi non rappresenta un vero riposizionamento.
 
 ---
@@ -48,12 +47,12 @@ Tra le indicazioni previste, quella con le evidenze più solide è la **malattia
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ulcera gastrica e duodenale, reflusso gastroesofageo, esofagite, dispepsia, sindrome di Zollinger-Ellison (testo AIFA dell'indicazione non disponibile) |
-| Nuova indicazione prevista | Reflusso duodeno-gastrico |
-| Punteggio di predizione TxGNN | 99,99% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Duodenal obstruction |
+| Punteggio di predizione TxGNN | 0.9999 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -89,8 +88,8 @@ Attualmente non risultano studi clinici registrati correlati al reflusso duodeno
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034433122 | Famotidina 20 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 034433096 | Famotidina 10 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 034433122 | Famotidina 20 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
+| 034433096 | Famotidina 10 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 

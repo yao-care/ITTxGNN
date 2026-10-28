@@ -6,9 +6,9 @@ nav_order: 252
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lacosamide: nuova indicazione prevista, Disturbo bipolare maniacale (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (nessun testo di indicazione appro…"
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
+description: "Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lacosamide
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Lacosamide: Dall'epilessia focale al disturbo bipolare maniacale
+## Lacosamide: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,15 +46,15 @@ Lacosamide è un farmaco antiepilettico che agisce sui canali del sodio voltaggi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati compilati (nessun testo di indicazione approvata nelle autorizzazioni AIFA). Il farmaco è noto come antiepilettico per le crisi focali. |
-| Nuova indicazione predetta (rank 1) | Disturbo bipolare maniacale |
-| Punteggio di predizione TxGNN | 99,96% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta (rank 1) | Manic bipolar affective disorder |
+| Punteggio di predizione TxGNN | 0.9996 |
 | Livello di evidenza (rank 1) | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata (rank 1) | Hold (domanda di ricerca) |
 
-**Predizione alternativa con evidenza più forte: emicrania** (punteggio TxGNN 99,87%, livello di evidenza L1, decisione: Proceed with Guardrails).
+**Predizione alternativa con evidenza più forte: emicrania** (punteggio TxGNN 0,9987, livello di evidenza L1, decisione: Proceed with Guardrails).
 
 ---
 
@@ -112,15 +112,15 @@ Al momento non risultano sperimentazioni cliniche registrate.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano **cancellate**; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile per nessuna di esse. Principali autorizzazioni:
+Il testo dell'indicazione approvata non è disponibile per nessuna di esse. Principali autorizzazioni:
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 038919116 | VIMPAT 56 cpr rivestite 200 mg | UCB Pharma S.A. | Cancellata |
-| 045648250 | Lacosamide 56 cpr rivestite 200 mg | Sandoz SpA | Cancellata |
-| 048265146 | Lacosamide 56 cpr rivestite 200 mg | Krka d.d. Novo Mesto | Cancellata |
-| 047010057 | LAPRYSTA 56 cpr rivestite 100 mg | Neuraxpharm Italy SpA | Cancellata |
-| 049898063 | NEPILEX 56 cpr rivestite 150 mg | S.F. Group Srl | Cancellata |
+| 038919116 | VIMPAT 56 cpr rivestite 200 mg | UCB Pharma S.A. | Valida |
+| 045648250 | Lacosamide 56 cpr rivestite 200 mg | Sandoz SpA | Valida |
+| 048265146 | Lacosamide 56 cpr rivestite 200 mg | Krka d.d. Novo Mesto | Valida |
+| 047010057 | LAPRYSTA 56 cpr rivestite 100 mg | Neuraxpharm Italy SpA | Valida |
+| 049898063 | NEPILEX 56 cpr rivestite 150 mg | S.F. Group Srl | Valida |
 
 ---
 

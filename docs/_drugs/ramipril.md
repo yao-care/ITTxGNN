@@ -4,17 +4,17 @@ title: Ramipril
 parent: Solo previsione del modello (L5)
 nav_order: 373
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ramipril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (livello di evidenza L5). Indicazione originale: Ipertensione e malattie cerebrovascolari/ictus (dal gra…"
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+description: "Ramipril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) (livello di evidenza L5). Indicazione orig…"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Ramipril: Dall'ipertensione e dall'ictus all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Ramipril: Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,11 +48,11 @@ ma al momento **non risultano studi clinici registrati** e le evidenze si limita
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione e malattie cerebrovascolari/ictus (dal grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertensione polmonare da malattia polmonare e/o ipossia |
-| Punteggio di predizione TxGNN | 99,93% |
-| Livello di evidenza | L4 (solo dati preclinici) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) |
+| Punteggio di predizione TxGNN | 0.9993 |
+| Livello di evidenza | L5 (solo dati preclinici) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -96,11 +96,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il te
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 027161064 | TRIATEC 14 cpr div 5 mg | SANOFI Srl | Cancellata |
-| 037577208 | RAMIPRIL 14 cpr 5 mg | MYLAN SpA | Cancellata |
-| 037692035 | RAMIPRIL 14 cpr div 5 mg | ZENTIVA ITALIA Srl | Cancellata |
-| 038214021 | HERZATEC 14 cpr 5 mg | EPIFARMA Srl | Cancellata |
-| 038355020 | TENSIRAM 14 cpr div 5 mg | I.B.N. SAVIO Srl | Cancellata |
+| 027161064 | TRIATEC 14 cpr div 5 mg | SANOFI Srl | Valida |
+| 037577208 | RAMIPRIL 14 cpr 5 mg | MYLAN SpA | Valida |
+| 037692035 | RAMIPRIL 14 cpr div 5 mg | ZENTIVA ITALIA Srl | Valida |
+| 038214021 | HERZATEC 14 cpr 5 mg | EPIFARMA Srl | Valida |
+| 038355020 | TENSIRAM 14 cpr div 5 mg | I.B.N. SAVIO Srl | Valida |
 
 ---
 

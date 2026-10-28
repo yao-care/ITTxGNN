@@ -46,17 +46,17 @@ La prulifloxacina è un antibatterico fluorochinolonico (profarmaco dell'uliflox
 |------|------|
 | Indicazione originale | Non disponibile nei dati AIFA compilati (il testo dell'indicazione è vuoto); in base alla classe è un antibatterico fluorochinolonico |
 | Nuova indicazione predetta | Malattia cardiaca (heart disease) |
-| Punteggio di predizione TxGNN | 99,94% |
+| Punteggio di predizione TxGNN | 0,9994 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è (poco) ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, la prulifloxacina è un profarmaco dell'ulifloxacina, che inibisce la DNA girasi e la topoisomerasi IV batteriche. Questo meccanismo è specifico per i batteri e non ha un legame plausibile con la fisiopatologia delle malattie cardiache.
 
-Il punteggio TxGNN elevato (99,94%) è solo una predizione computazionale. Va notato che i punteggi delle prime 10 predizioni sono tutti quasi identici (circa 99,93–99,94%), e comprendono condizioni molto eterogenee, come difetti cardiaci congenitali, sindromi craniofacciali e anomalie cromosomiche. Ciò suggerisce che il punteggio da solo non discrimina tra indicazioni plausibili e non plausibili.
+Il punteggio TxGNN elevato (0,9994) è solo una predizione computazionale. Va notato che i punteggi delle prime 10 predizioni sono tutti quasi identici (circa 99,93–0,9994), e comprendono condizioni molto eterogenee, come difetti cardiaci congenitali, sindromi craniofacciali e anomalie cromosomiche. Ciò suggerisce che il punteggio da solo non discrimina tra indicazioni plausibili e non plausibili.
 
 Inoltre, i fluorochinoloni sono associati a preoccupazioni di sicurezza cardiaca, in particolare al prolungamento dell'intervallo QT e, raramente, ad aritmie ventricolari come la torsione di punta. Questo elemento va contro, e non a favore, un uso in ambito cardiaco.
 
@@ -76,10 +76,10 @@ Per le altre predizioni (ad esempio sindrome di Laubry-Pezzi, sindromi di Pierre
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035679036 | CHINOPLUS*5 cpr rivestite 600 mg | Compresse rivestite | Cancellata |
-| 035680038 | KERAFLOX*5 cpr rivestite 600 mg | Compresse rivestite | Cancellata |
-| 035678022 | UNIDROX*5 cpr rivestite 600 mg | Compresse rivestite | Cancellata |
-| 035678034 | UNIDROX*1 cpr rivestite 600 mg | Compresse rivestite | Cancellata |
+| 035679036 | CHINOPLUS*5 cpr rivestite 600 mg | Compresse rivestite | Valida |
+| 035680038 | KERAFLOX*5 cpr rivestite 600 mg | Compresse rivestite | Valida |
+| 035678022 | UNIDROX*5 cpr rivestite 600 mg | Compresse rivestite | Valida |
+| 035678034 | UNIDROX*1 cpr rivestite 600 mg | Compresse rivestite | Valida |
 
 Tutte e quattro le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide attualmente in Italia.
 

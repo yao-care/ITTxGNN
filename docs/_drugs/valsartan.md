@@ -4,7 +4,7 @@ title: Valsartan
 parent: Prove moderate (L3-L4)
 nav_order: 459
 evidence_level: L4
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 monitor_inn: "VALSARTAN"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Valsartan
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **7** 
+Livello di evidenza: **L4** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ Il modello TxGNN ne prevede una possibile efficacia nella **malattia renale iper
 |------|------|
 | Indicazione originale | Ipertensione (disturbo ipertensivo) |
 | Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99,97% |
+| Punteggio di predizione TxGNN | 0,9997 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -60,9 +60,9 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 Va però sottolineato che questa indicazione è molto vicina all'ipertensione già nota: non rappresenta un vero riposizionamento. L'unico articolo recuperato riguarda avosentan (un antagonista dell'endotelina), non valsartan, e offre quindi soltanto un supporto indiretto.
 
 Le altre indicazioni previste mostrano un quadro simile:
-- **Ipertensione renovascolare maligna** (punteggio 99,97%, L4): uno studio animale del 2001 mostra che il blocco AT1 previene l'ipertensione maligna letale. È un dato preclinico e indiretto. Inoltre, la forma renovascolare è un sottotipo dell'ipertensione già trattata, e per gli ARB vale la cautela nella stenosi bilaterale dell'arteria renale.
+- **Ipertensione renovascolare maligna** (punteggio 0,9997, L4): uno studio animale del 2001 mostra che il blocco AT1 previene l'ipertensione maligna letale. È un dato preclinico e indiretto. Inoltre, la forma renovascolare è un sottotipo dell'ipertensione già trattata, e per gli ARB vale la cautela nella stenosi bilaterale dell'arteria renale.
 - **Ipertensione polmonare** (forme multifattoriali e da malattia polmonare/ipossia): evidenze soprattutto precliniche, spesso riferite a sacubitril/valsartan e non a valsartan da solo (L4–L5).
-- **Cuore polmonare cronico** (punteggio 99,58%, L3): i dati derivano da popolazioni con scompenso cardiaco e dalla combinazione sacubitril/valsartan, non da valsartan da solo.
+- **Cuore polmonare cronico** (punteggio 0,9958, L3): i dati derivano da popolazioni con scompenso cardiaco e dalla combinazione sacubitril/valsartan, non da valsartan da solo.
 - **Sindrome di Braddock** e **angina di Prinzmetal**: solo predizione computazionale, senza meccanismo plausibile documentato (L5).
 
 ## Evidenze da studi clinici
@@ -93,11 +93,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Le pr
 
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 040782031 | Valsartan 80 mg, 28 cpr rivestite | EG SpA | Cancellata |
-| 040225043 | Valsartan 80 mg, 28 cps | Mylan SpA | Cancellata |
-| 039810066 | Valsartan 160 mg, 28 cpr rivestite | Laboratori Alter Srl | Cancellata |
-| 033178942 | Tareg 160 mg, 28 cpr rivestite | Novartis Farma SpA | Cancellata |
-| 033119138 | Valpression 40 mg, 14 cpr rivestite | A. Menarini Ind. Farm. Riun. Srl | Cancellata |
+| 040782031 | Valsartan 80 mg, 28 cpr rivestite | EG SpA | Valida |
+| 040225043 | Valsartan 80 mg, 28 cps | Mylan SpA | Valida |
+| 039810066 | Valsartan 160 mg, 28 cpr rivestite | Laboratori Alter Srl | Valida |
+| 033178942 | Tareg 160 mg, 28 cpr rivestite | Novartis Farma SpA | Valida |
+| 033119138 | Valpression 40 mg, 14 cpr rivestite | A. Menarini Ind. Farm. Riun. Srl | Valida |
 
 Le forme farmaceutiche e i testi delle indicazioni approvate non sono disponibili nei dati compilati.
 

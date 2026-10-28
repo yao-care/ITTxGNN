@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Esomeprazole
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 179
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Esomeprazole: nuova indicazione prevista, Reflusso duodenogastrico (livello di evidenza L4). Indicazione originale: Ulcera peptica, malattia da reflusso gastroesofageo…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
+last_modified_at: 2026-10-27
+description: "Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,95 +33,69 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Esomeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+## Esomeprazolo: inibitore della pompa protonica → ostruzione duodenale (duodenal obstruction)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-L'esomeprazolo è un inibitore di pompa protonica, usato per le malattie acido-correlate come ulcera peptica, malattia da reflusso gastroesofageo (MRGE), esofagite e sindrome di Zollinger-Ellison. Il modello TxGNN prevede che possa essere utile per il **reflusso duodenogastrico**, ma per questa indicazione **non risulta alcuno studio clinico registrato** e c'è **una sola pubblicazione**, una rassegna generale sugli inibitori di pompa protonica.
-
----
+L'esomeprazolo è un inibitore della pompa protonica (soppressore dell'acido gastrico). Il modello TxGNN prevede che possa essere utile per **ostruzione duodenale (duodenal obstruction)**. Al momento non risultano **studi clinici** né **pubblicazioni** che sostengano direttamente questa indicazione: la previsione si basa solo sul modello.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ulcera peptica, malattia da reflusso gastroesofageo, esofagite (anche peptica), sindrome di Zollinger-Ellison, anomalie della secrezione gastrica, iperinsulinismo (indicazioni derivate dal grafo di conoscenza TxGNN, non dal foglietto illustrativo) |
-| Nuova indicazione prevista | Reflusso duodenogastrico |
-| Punteggio di predizione TxGNN | 99,53% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ostruzione duodenale (duodenal obstruction) |
+| Punteggio di previsione TxGNN | 0,9945 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, l'esomeprazolo appartiene alla classe degli inibitori della pompa protonica, che riducono la secrezione acida gastrica.
 
-L'esomeprazolo inibisce in modo irreversibile la pompa protonica H+/K+ ATPasi della cellula parietale gastrica e riduce la produzione di acido. I dati dettagliati sul meccanismo d'azione non sono disponibili nelle fonti compilate per questo report. La descrizione qui riportata è quella generale della classe.
+L'ostruzione duodenale è però soprattutto una condizione meccanica (stenosi, tumore, pancreas anulare, cicatrici legate a ulcera). La soppressione dell'acido potrebbe, al massimo, favorire la guarigione in caso di stenosi correlata a ulcera, ma si tratta di un'ipotesi priva di sostegno diretto. L'elevato punteggio del modello è probabilmente dovuto alla vicinanza nella rete di relazioni con l'ulcera duodenale e con termini affini, più che a un meccanismo terapeutico specifico.
 
-Nel reflusso duodenogastrico il materiale che risale è alcalino o misto (bile, secrezioni pancreatiche). La soppressione acida può quindi attenuare il danno mucosale e i sintomi legati all'acidità, ma **non agisce sulla causa**, cioè il reflusso del contenuto duodenale. Il legame meccanicistico è plausibile, ma indiretto.
+## Evidenze da studi clinici
 
-Il punteggio molto alto di TxGNN (0,995) riflette probabilmente la vicinanza della molecola a concetti correlati di reflusso e malattia acida, più che un'evidenza indipendente. La MRGE è inoltre già tra le indicazioni originali, quindi la nuova indicazione si sovrappone in parte a quella nota.
+Attualmente non risultano studi clinici correlati registrati.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza dagli studi clinici
-
-Attualmente non risultano studi clinici registrati correlati a questa indicazione.
-
----
-
-## Evidenza dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Rassegna | Eur J Clin Pharmacol | Aggiornamento su uso clinico e farmacocinetica degli inibitori di pompa protonica, di prima scelta per ulcera peptica, infezione da *H. pylori*, MRGE, lesioni da FANS e sindrome di Zollinger-Ellison. Non tratta specificamente il reflusso duodenogastrico. |
-
----
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Delle 20 autorizzazioni, tutte monocomponente e cancellate, si riportano le prime 5. Forma farmaceutica e testo dell'indicazione approvata non sono disponibili. La forma indicata deriva dalla denominazione del prodotto.
+Il farmaco risulta commercializzato in Italia. L'elenco seguente riporta le principali autorizzazioni; l'elenco potrebbe essere parziale e il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| N. autorizzazione | Prodotto | Forma (da denominazione) | Titolare | Stato |
-|---------|------|------|------|------|
-| 044678062 | Esomeprazolo 40 mg, 28 cps gastroresistenti | Capsule gastroresistenti | DOC Generici Srl | Cancellata |
-| 040200038 | Ariliar 20 mg, 14 cps gastroresistenti | Capsule gastroresistenti | S.F. Group Srl | Cancellata |
-| 040124024 | Esomeprazolo 20 mg, 14 cps gastroresistenti | Capsule gastroresistenti | Mylan SpA | Cancellata |
-| 041803127 | Esomeprazolo 40 mg, 28 cpr gastroresistenti | Compresse gastroresistenti | EG SpA | Cancellata |
-| 040839019 | Esomeprazolo 20 mg, 14 cpr gastroresistenti | Compresse gastroresistenti | Sun Pharmaceutical Ind. EU B.V. | Cancellata |
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
+|---------|------|------|-----------|
+| 044678062 | ESOMEPRAZOLO*28 cps gastrores 40 mg | Non indicata | DOC GENERICI Srl |
+| 040200038 | ARILIAR*14 cps gastrores 20 mg | Non indicata | S.F. GROUP Srl |
+| 040124024 | ESOMEPRAZOLO*14 cps gastrores 20 mg | Non indicata | MYLAN SpA |
+| 041803127 | ESOMEPRAZOLO*28 cpr gastrores 40 mg | Non indicata | EG SpA |
+| 040839019 | ESOMEPRAZOLO*14 cpr gastrores 20 mg | Non indicata | SUN PHARMACEUTICAL IND.EU.B.V. |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni segnalate dal grafo di conoscenza** (relazioni farmaco-malattia di TxGNN, non testo del foglietto illustrativo): insufficienza epatica, osteoporosi, osteoporosi postmenopausale, frattura ossea, gastrite cronica atrofica.
-- **Interazioni farmacologiche**: sono state identificate 168 interazioni. Tra quelle visibili:
-  - **Maggiori**: acalabrutinib, atazanavir.
-  - **Moderate**: idroclorotiazide, amfotericina B, amikacina, anfetamina, fenofibrato, apalutamide, armodafinil, atorvastatina, bendamustina, bosutinib, bumetanide.
-  - **Minori**: acido acetilsalicilico, assitinib, bortezomib, brivaracetam, cianocobalamina.
+- **Interazioni farmacologiche**: sono state rilevate 168 interazioni. Tra quelle di livello maggiore figurano acalabrutinib e atazanavir. Tra quelle di livello moderato figurano, ad esempio, idroclorotiazide, amfotericina B, amikacina, anfetamina, fenofibrato, apalutamide, armodafinil, atorvastatina, bendamustina, bosutinib e bumetanide.
 
-Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativo.
-
----
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- Per il reflusso duodenogastrico non ci sono studi clinici né letteratura specifica: solo una rassegna generale sugli inibitori di pompa protonica.
-- Il meccanismo è indiretto, perché il reflusso alcalino non dipende dall'acidità, e l'indicazione si sovrappone in parte alla MRGE già nota.
-- Tutte le autorizzazioni italiane risultano cancellate.
+La previsione non è supportata da alcuno studio clinico o pubblicazione, e l'ostruzione duodenale è prevalentemente di natura meccanica, per cui un effetto dell'acido-soppressione è poco plausibile. Il livello di evidenza è L5.
 
-**Per procedere sono necessari:**
-- Studi clinici o evidenze osservazionali specifiche sul reflusso duodenogastrico, con esiti sintomatici ed endoscopici.
-- Dati dettagliati sul meccanismo d'azione.
-- Verifica dello stato reale delle autorizzazioni in Italia e recupero del foglietto illustrativo AIFA, con avvertenze e controindicazioni ufficiali.
-- Revisione delle interazioni farmacologiche, in particolare quelle di livello maggiore.
-
-**Nota:** nei dati compilati per questo farmaco, un'altra indicazione prevista, l'**ulcera duodenale** (punteggio TxGNN 99,40%), ha un'evidenza molto più solida: livello L1, con più studi di fase 3 completati e RCT in letteratura. Si tratta però di un'indicazione acido-correlata centrale, vicina a quella già nota, quindi più un uso già consolidato che un vero riposizionamento. Merita una valutazione separata.
+**Per procedere sarebbe necessario:**
+- Studi clinici o pubblicazioni che esaminino direttamente l'esomeprazolo nell'ostruzione duodenale
+- Dati sul meccanismo d'azione per valutare il legame meccanicistico
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, per la valutazione di sicurezza
+- Chiarimento del sottotipo di ostruzione (ad esempio da ulcera) in cui un beneficio sarebbe plausibile
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

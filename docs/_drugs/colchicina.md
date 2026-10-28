@@ -8,6 +8,7 @@ nav_order: 126
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Colchicina
@@ -49,8 +50,8 @@ Colchicina (Colchicina) è un farmaco consolidato, ma l'Evidence Pack attuale co
 | Indicazione Nuova Prevista | Nessuna previsione TxGNN disponibile |
 | Punteggio di Previsione TxGNN | Non disponibile |
 | Livello di Evidenza | Non valutabile |
-| Stato del Mercato Italiano | ✗ Non Commercializzato (0 autorizzazioni trovate) |
-| Numero di Autorizzazioni | 0 |
+| Stato del Mercato Italiano | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di Autorizzazioni | 2 (valide: 2) |
 | Decisione Consigliata | **In Sospeso** |
 
 ---

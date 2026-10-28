@@ -4,17 +4,17 @@ title: Nicardipine
 parent: Solo previsione del modello (L5)
 nav_order: 318
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Nicardipine: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (seconda pre… (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (disturbo ipert…"
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
+description: "Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Nicardipine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Nicardipina: dall'ipertensione all'ipertensione polmonare da malattia polmonare e/o ipossia
+## Nicardipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ipertensione polmonar
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione arteriosa (disturbo ipertensivo); nei dati compilati il testo dell'indicazione approvata AIFA non è disponibile |
-| Nuova indicazione prevista | Ipertensione polmonare da malattia polmonare e/o ipossia (seconda previsione in graduatoria; la prima è l'ipertensione polmonare a meccanismo multifattoriale non chiaro) |
-| Punteggio di previsione TxGNN | 99,26% |
-| Livello di evidenza | L4 (solo studi preclinici/meccanicistici) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pulmonary hypertension with unclear multifactorial mechanism |
+| Punteggio di previsione TxGNN | 0.9926 |
+| Livello di evidenza | L5 (solo studi preclinici/meccanicistici) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione è ragionevole?
@@ -86,7 +86,7 @@ Dei 20 lavori segnalati ne sono visibili 10; i più rilevanti sono elencati di s
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033129014 | NICARDIPINA 30 cps 40 mg rilascio prolungato (MYLAN SpA) | Capsule a rilascio prolungato | Non disponibile (autorizzazione cancellata) |
+| 033129014 | NICARDIPINA 30 cps 40 mg rilascio prolungato (MYLAN SpA) | Capsule a rilascio prolungato | Non disponibile (autorizzazione valida) |
 
 ## Aspetti di sicurezza
 
@@ -101,7 +101,7 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è alto (99,26%), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica, l'unica autorizzazione italiana è cancellata e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.
+Il punteggio TxGNN è alto (0,9926), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica, l'unica autorizzazione italiana è cancellata e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante

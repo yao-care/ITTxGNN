@@ -6,9 +6,9 @@ nav_order: 303
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Minocycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni batteriche e altre condizioni (infezioni delle vie urinarie"
 monitor_inn: "minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
+description: "Minocycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
 # Minocycline
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Minociclina: Dall'infezione batterica alla cheratocongiuntivite epiteliale puntata
+## Minocycline: Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Al momento però **non risultano studi clinici né pubblicazioni** a supporto: l
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche e altre condizioni (infezioni delle vie urinarie, bronchite, acne, antrace, parodontite, gonorrea, faringite, ecc.), secondo gli archi di indicazione del grafo di conoscenza TxGNN; il testo dell'indicazione approvata AIFA non è disponibile |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,63% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9963 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -60,7 +60,7 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Il legame con la cheratocongiuntivite epiteliale puntata è quindi plausibile sul piano meccanicistico, in quanto si tratta di una patologia infiammatoria della superficie oculare. Questa ipotesi resta tuttavia non confermata: non vi sono studi né letteratura nei dati forniti, e la similarità con l'indicazione originale non è stata valutata.
 
-Come indicazione secondaria, il modello prevede anche la **cheratite da esposizione** (punteggio 99,20%, livello L5, raccomandazione Hold). L'ipotesi è che gli effetti antinfiammatori e di inibizione delle MMP possano limitare la rottura dell'epitelio corneale e il danno stromale. Questa condizione si gestisce però soprattutto correggendo l'esposizione e lubrificando la superficie oculare, e il beneficio di un antibiotico sistemico è incerto.
+Come indicazione secondaria, il modello prevede anche la **cheratite da esposizione** (punteggio 0,9920, livello L5, raccomandazione Hold). L'ipotesi è che gli effetti antinfiammatori e di inibizione delle MMP possano limitare la rottura dell'epitelio corneale e il danno stromale. Questa condizione si gestisce però soprattutto correggendo l'esposizione e lubrificando la superficie oculare, e il beneficio di un antibiotico sistemico è incerto.
 
 ## Evidenza da studi clinici
 
@@ -74,9 +74,8 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 022240016 | MINOCIN*8 cps 100 mg (TEOFARMA Srl) | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 022240016 | MINOCIN*8 cps 100 mg (TEOFARMA Srl) | Non specificata | Non disponibile (autorizzazione valida) |
 
-Nessuna autorizzazione risulta attualmente valida in Italia.
 
 ## Considerazioni di sicurezza
 

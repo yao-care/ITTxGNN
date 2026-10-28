@@ -4,17 +4,17 @@ title: Acebutolol
 parent: Solo previsione del modello (L5)
 nav_order: 15
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Acebutolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Disturbo ipertensivo / ipertensione (il testo dell'indicazione autori…"
+indication_count: 1
 monitor_inn: "acebutolol"
 predicted_indications: ["malignant hypertensive renal disease"]
+last_modified_at: 2026-10-27
+description: "Acebutolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Acebutolol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,70 +33,67 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Acebutolol: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Acebutolol: beta-bloccante cardioselettivo → malattia renale ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
-## Sintesi
+## Sintesi in una frase
 
-L'acebutololo è un beta-bloccante cardioselettivo, originariamente utilizzato per il trattamento dell'ipertensione arteriosa. Il modello TxGNN ne predice una possibile efficacia nella **malattia renale ipertensiva maligna** (e, con lo stesso punteggio, nell'ipertensione renovascolare maligna). A sostegno di questa direzione non risultano **studi clinici registrati** e c'è **una sola pubblicazione** indiretta del 1975.
+Acebutolol è un beta-bloccante cardioselettivo (beta-1) con lieve attività simpaticomimetica intrinseca. Il modello TxGNN prevede che possa essere utile per la **malattia renale ipertensiva maligna (malignant hypertensive renal disease)**. Per questa direzione i dati compilati per questo report non riportano **nessuno studio clinico** e **nessuna pubblicazione**: il supporto è solo di tipo predittivo.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo ipertensivo / ipertensione (il testo dell'indicazione autorizzata in Italia non è disponibile) |
-| Nuova indicazione predetta | Malattia renale ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99,10% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di predizione TxGNN | 0,9910 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali sulla classe, l'acebutololo è un beta-1 bloccante cardioselettivo con lieve attività simpaticomimetica intrinseca. La sua efficacia nell'ipertensione è nota e, dal punto di vista meccanicistico, potrebbe essere applicabile alle forme gravi di ipertensione e al danno renale correlato.
+I dati sul meccanismo d'azione registrati per questo farmaco non sono disponibili. In base alla farmacologia generale della classe, acebutolol blocca i recettori beta-1 adrenergici, riducendo la frequenza cardiaca, la gittata e l'attività simpatica e reninica. Questi effetti abbassano la pressione arteriosa.
 
-La malattia renale ipertensiva maligna è una complicanza a valle della stessa condizione patologica, ovvero l'ipertensione severa e accelerata. La riduzione della pressione arteriosa, dell'attività simpatica e del rilascio di renina (tramite il blocco beta-1 delle cellule iuxtaglomerulari) offre quindi un razionale plausibile. Lo stesso ragionamento vale per l'ipertensione renovascolare maligna, in cui l'attivazione del sistema renina-angiotensina è centrale.
+La malattia renale ipertensiva maligna è una complicanza a valle di un'ipertensione severa e accelerata. Il controllo pressorio e la riduzione dell'attività del sistema simpatico e del sistema renina-angiotensina offrono quindi una logica farmacologica plausibile.
 
-Vanno però segnalati limiti importanti. Il punteggio TxGNN è una predizione del modello, identico per le due indicazioni, il che suggerisce un segnale basato sul grafo di conoscenza e non su prove specifiche per la malattia. Inoltre, l'ipertensione maligna viene di norma gestita con farmaci parenterali rapidamente titolabili e con il blocco del sistema RAAS; un beta-bloccante orale non è una scelta standard di prima linea.
+Va però osservato che la gestione dell'ipertensione maligna si basa di norma su farmaci parenterali rapidi e titolabili e sul blocco del sistema renina-angiotensina-aldosterone. Un beta-bloccante orale non è una scelta standard di prima linea. L'alto punteggio del modello è una predizione e non sostituisce prove cliniche.
 
-## Evidenze dagli studi clinici
+## Evidenza dagli studi clinici
 
-Al momento non risultano studi clinici correlati registrati.
+Attualmente non risultano studi clinici registrati correlati.
 
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
-Per l'indicazione di primo rango (malattia renale ipertensiva maligna) non è disponibile letteratura. Per la seconda indicazione (ipertensione renovascolare maligna) è disponibile un solo lavoro, indiretto:
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Studio clinico aperto | La Nouvelle Presse Médicale | 50 pazienti ipertesi trattati per un anno con acebutololo, da solo o in associazione ad altri antipertensivi: risultati buoni o moderati nel 74% dei casi, fallimenti nel 26%. Dose media 10 mg/kg, farmaco molto ben tollerato. Riguarda l'ipertensione arteriosa in generale, non specificamente le forme maligne o renovascolari. |
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 024155057 | SECTRAL*30 cpr 400 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Non disponibile | Non disponibile (autorizzazione revocata) |
+| 024155057 | SECTRAL*30 cpr 400 mg | Non indicata | Non registrata |
+
+Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH. Lo stato della singola autorizzazione risulta cancellato nei dati locali.
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni segnalate nel grafo di conoscenza** (non derivate dal foglio illustrativo): asma (intrinseca e allergica), enfisema polmonare, blocco atrioventricolare, sindrome del nodo del seno, malattia vascolare periferica (inclusa claudicatio intermittente), feocromocitoma e paraganglioma simpatico, miastenia grave e malattie della giunzione neuromuscolare, diabete mellito e chetoacidosi diabetica, malattie renali, epatiche e della colecisti, psoriasi e parapsoriasi, disturbi d'ansia, nevrotici e distimici.
-- **Interazioni farmacologiche**: nella ricerca sono state rilevate 230 interazioni complessive. Tra quelle di livello moderato figurano acetoesamide, clorpropamide, canagliflozin e dapagliflozin (antidiabetici), atropina e clidinio, betametasone e budesonide (corticosteroidi), bupropione, cimetidina e vari sali di calcio. Tra quelle di livello minore figurano idrossido di alluminio, acido acetilsalicilico e attapulgite.
+- **Interazioni farmacologiche**: sono state rilevate 230 interazioni in totale. Tra quelle di livello moderato figurano acetoesamide, atropina, betametasone, budesonide, bupropione, sali di calcio (acetato, carbonato, citrato, gluconato, lattato, fosfato), canagliflozin, clorpropamide, cimetidina, clidinio e dapagliflozin. Tra quelle di livello minore: idrossido di alluminio, acido acetilsalicilico e attapulgite.
 
-Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
+Per le avvertenze e le controindicazioni consultare il foglio illustrativo.
 
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è limitata al livello L5 (solo predizione del modello) per la malattia renale ipertensiva maligna e al livello L4 per l'ipertensione renovascolare maligna, supportata da un unico studio indiretto del 1975. Inoltre, il farmaco non è un trattamento standard per queste condizioni e lo stato di mercato italiano (solo autorizzazione revocata) limita lo sviluppo pratico.
+La predizione si basa solo sul modello (L5), senza studi clinici né pubblicazioni sulla malattia renale ipertensiva maligna. Inoltre, un beta-bloccante orale non è una scelta standard in questo contesto e la pratica clinica privilegia altri approcci.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA (attualmente non disponibili, lacuna bloccante per lo screening di sicurezza)
-- Studi clinici o letteratura specifici per ipertensione maligna e renovascolare
-- Valutazione della fattibilità regolatoria e commerciale, dato che l'unica autorizzazione italiana risulta revocata
+- Dati sul meccanismo d'azione (MOA)
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Studi preclinici o clinici che esaminino direttamente questa malattia
+- Verifica della fattibilità di sviluppo, dato il quadro autorizzativo locale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

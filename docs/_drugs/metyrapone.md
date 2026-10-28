@@ -4,17 +4,17 @@ title: Metyrapone
 parent: Solo previsione del modello (L5)
 nav_order: 298
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Metyrapone: nuova indicazione prevista, Ipertermia maligna da esercizio fisico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (uso clinico noto da…"
 monitor_inn: "metyrapone"
-predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
+predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 ---
 
 # Metyrapone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,17 +46,17 @@ Il metirapone è un inibitore della sintesi del cortisolo, usato in ambito endoc
 |------|------|
 | Indicazione originale | Non disponibile nei dati di autorizzazione AIFA (uso clinico noto da fonti farmacologiche: diagnostica della funzione ipotalamo-ipofisaria, sindrome di Cushing) |
 | Nuova indicazione prevista | Ipertermia maligna da esercizio fisico |
-| Punteggio di previsione TxGNN | 99,95% |
+| Punteggio di previsione TxGNN | 0,9995 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dai dati farmacologici compilati, il metirapone agisce sugli enzimi CYP11B1 (11-beta-idrossilasi) e CYP11B2, riducendo la sintesi del cortisolo surrenalico.
 
-Tuttavia, **non esiste un legame meccanicistico noto** con la nuova indicazione. L'ipertermia maligna è legata soprattutto a varianti di RYR1/CACNA1S che alterano il rilascio di calcio nel muscolo scheletrico; l'inibizione della steroidogenesi surrenalica non è collegata a questa via. L'elevato punteggio TxGNN sembra un artefatto del grafo di conoscenza (vicinanza a malattie con vicini condivisi), non una motivazione farmacologica.
+Tuttavia, **non esiste un legame meccanicistico noto** con la nuova indicazione. L'ipertermia maligna è legata soprattutto a varianti di RYR1/CACNA1S che alterano il rilascio di calcio nel muscolo scheletrico; l'inibizione della steroidogenesi surrenalica non è collegata a questa via. L'elevato punteggio TxGNN (0.9995) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 Lo stesso vale per le altre previsioni ad alto punteggio (suscettibilità all'ipertermia maligna, sindrome di King-Denborough, miopatia a nuclei centrali, miopatie multiminicore e centronucleari, ipertermia maligna da anestesia): tutte miopatie o condizioni correlate a RYR1, senza alcun supporto clinico o preclinico. Un'unica indicazione, la paralisi periodica familiare, presenta un segnale indiretto: uno studio fisiologico del 1971 ha usato il metirapone come sonda dell'attività surrenalica, senza valore terapeutico dimostrato. Anche per l'acidosi tubulare renale esiste solo un'ipotesi teorica legata ai precursori dei mineralcorticoidi.
 
@@ -78,7 +78,7 @@ A titolo informativo, per la previsione di rango 8 (paralisi periodica familiare
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043094010 | CORMETO*50 cps molli 250 mg flacone (ESTEVE PHARMACEUTICALS SA) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 043094010 | CORMETO*50 cps molli 250 mg flacone (ESTEVE PHARMACEUTICALS SA) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Citotossicità
 

@@ -4,17 +4,17 @@ title: Progesterone
 parent: Prove elevate (L1-L2)
 nav_order: 364
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Progesterone: nuova indicazione prevista, Amenorrea (livello di evidenza L2)."
+indication_count: 7
+last_modified_at: 2026-10-28
 monitor_inn: "PROGESTERONE"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (livello di evidenza L2)."
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-## Progesterone: dall'endometriosi e dall'iperplasia/carcinoma endometriale all'amenorrea
+## Progesterone: Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,11 +49,11 @@ Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Endometriosi, patologie endometriali, osteoporosi post-menopausale, vaginite atrofica post-menopausale (da grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Amenorrea |
-| Punteggio di predizione TxGNN | 99,99% |
+| Nuova indicazione prevista | Amenorrea (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) (amenorrhea (disease)) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -102,13 +102,13 @@ Nessuna delle pubblicazioni elencate è uno studio randomizzato controllato sul 
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 032132033 | CRINONE gel vaginale 15 applicatori 8% (Merck Serono) | Gel vaginale | Autorizzazione cancellata |
-| 035042011 | PROGEFFIK 30 capsule molli orali o vaginali 100 mg (Effik Italia) | Capsule molli | Autorizzazione cancellata |
-| 005239052 | PRONTOGEST 3 fiale IM 100 mg/1 ml (IBSA) | Fiale intramuscolo | Autorizzazione cancellata |
-| 044825026 | AMELGEN 15 ovuli vaginali 400 mg (Gedeon Richter) | Ovuli vaginali | Autorizzazione cancellata |
-| 035042035 | PROGEFFIK 15 capsule molli orali o vaginali 200 mg (Effik Italia) | Capsule molli | Autorizzazione cancellata |
+| 032132033 | CRINONE gel vaginale 15 applicatori 8% (Merck Serono) | Gel vaginale | Autorizzazione valida |
+| 035042011 | PROGEFFIK 30 capsule molli orali o vaginali 100 mg (Effik Italia) | Capsule molli | Autorizzazione valida |
+| 005239052 | PRONTOGEST 3 fiale IM 100 mg/1 ml (IBSA) | Fiale intramuscolo | Autorizzazione valida |
+| 044825026 | AMELGEN 15 ovuli vaginali 400 mg (Gedeon Richter) | Ovuli vaginali | Autorizzazione valida |
+| 035042035 | PROGEFFIK 15 capsule molli orali o vaginali 200 mg (Effik Italia) | Capsule molli | Autorizzazione valida |
 
-Sono presenti altre 2 autorizzazioni (PROMETRIUM 100 mg e 200 mg, Besins), anch'esse cancellate. Nessuna autorizzazione è attualmente valida.
+Sono presenti altre 2 autorizzazioni (PROMETRIUM 100 mg e 200 mg, Besins), anch'esse cancellate.
 
 ---
 

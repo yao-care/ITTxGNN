@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clomifene: nuova indicazione prevista, Disturbo dello sviluppo sessuale 46… (livello di evidenza L5). Indicazione originale: Infertilità femminile (da grafo di conoscenza"
 monitor_inn: "CLOMIFENE"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "anovulation"]
+last_modified_at: 2026-10-27
+description: "Clomifene: nuova indicazione prevista, Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46… (livello di evidenza L5). Indicazione originale: Non riportata nei dati …"
 ---
 
 # Clomifene
@@ -33,104 +33,65 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Clomifene: dall'infertilità femminile al disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare
+## Clomifene: modulatore selettivo del recettore degli estrogeni → Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il clomifene è un modulatore selettivo del recettore degli estrogeni, usato originariamente per trattare l'infertilità femminile da mancata ovulazione. Il modello TxGNN lo propone per il **disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare** con un punteggio molto alto, ma per questa indicazione non risultano **né studi clinici né pubblicazioni**. È quindi una previsione puramente computazionale, con un meccanismo poco plausibile.
+Il clomifene è un modulatore selettivo del recettore degli estrogeni. Il modello TxGNN lo indica come possibile candidato per il **disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect)**, con un punteggio di 0,9990. Per questa previsione non risultano **né studi clinici né pubblicazioni**: si tratta di una previsione basata solo sul modello.
 
-## Quadro generale
+## Quadro d'insieme
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infertilità femminile (da grafo di conoscenza; il testo delle autorizzazioni italiane non riporta l'indicazione) |
-| Nuova indicazione prevista | Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect) |
+| Punteggio di previsione TxGNN | 0,9990 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
-## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
+## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze note, il clomifene è un modulatore selettivo del recettore degli estrogeni (ESR1). Blocca i recettori estrogenici a livello ipotalamico e riduce il feedback negativo, con aumento di GnRH, FSH e LH. Questo meccanismo è consolidato per l'induzione dell'ovulazione.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Per conoscenza farmacologica generale, il clomifene blocca i recettori estrogenici a livello ipotalamico, riducendo il feedback negativo e aumentando la secrezione di gonadotropine (LH e FSH). Questo meccanismo è alla base dell'induzione dell'ovulazione.
 
-Un difetto primario della steroidogenesi testicolare è però tipicamente di origine gonadica e non dipende dal feedback ipotalamico. Aumentare l'output delle gonadotropine difficilmente correggerebbe un blocco enzimatico nel testicolo. Un meccanismo plausibile non è quindi chiaro, e il punteggio alto riflette probabilmente la vicinanza nel grafo di conoscenza più che una base biologica solida.
+Il difetto della steroidogenesi testicolare è però tipicamente un problema primario della gonade e non dipende dal feedback ipotalamico. Un meccanismo plausibile che colleghi il clomifene a questa condizione non è quindi evidente. In assenza di studi o letteratura, il punteggio elevato va letto come un'associazione del modello, non come una prova di efficacia.
 
-## Evidenze dagli studi clinici
+## Evidenza da studi clinici
 
-Al momento non risultano studi clinici registrati per questa indicazione.
+Attualmente non risultano studi clinici registrati correlati a questa previsione.
 
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
-Al momento non risulta letteratura correlata per questa indicazione.
-
-## Altre previsioni nei dati compilati
-
-Il modello ha generato altre previsioni di rilievo, quasi tutte prive di evidenze.
-
-| Indicazione prevista | Punteggio | Evidenza | Commento |
-|------|------|------|------|
-| Setto vaginale trasverso / longitudinale | 99,87% | L5 | Anomalia strutturale mülleriana a trattamento chirurgico; il clomifene non agisce sul difetto anatomico |
-| Sindrome X fragile sintomatica in portatrice | 99,69% | L5 | Possibile legame indiretto con l'insufficienza ovarica primaria; efficacia attesa limitata |
-| Blefarofimosi-epicanto inverso-ptosi (e variante 3q23) | 99,61% / 99,58% | L5 | Legame verosimilmente mediato dall'insufficienza ovarica; nessun supporto clinico |
-| Trisomie/tetrasomie parziali dei bracci corti dei cromosomi 18, 5, 12 | circa 99,54% | L5 | Nessun meccanismo plausibile |
-| **Anovulazione** | 99,52% | L1 (approssimato) | Unica previsione con studi e letteratura (vedi sotto) |
-
-### Anovulazione: l'unica previsione con evidenze
-
-Qui il meccanismo è solido: il clomifene aumenta GnRH, FSH e LH e stimola lo sviluppo follicolare e l'ovulazione, anche nella sindrome dell'ovaio policistico. Questo uso coincide però con l'indicazione originale (infertilità femminile), quindi è sostanzialmente **un uso on-label e non un vero riposizionamento**. Inoltre il livello L1 è approssimato: le evidenze sono uno studio di fase 4 e revisioni sistematiche, non due studi di fase 3 completati.
-
-**Studi clinici**
-
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT00478504](https://clinicaltrials.gov/study/NCT00478504) | Fase 4 | Completato | 159 | RCT in doppio cieco crossover: letrozolo vs clomifene citrato per l'induzione dell'ovulazione nella PCOS. Il clomifene è il comparatore attivo |
-| [NCT02544776](https://clinicaltrials.gov/study/NCT02544776) | N/A | Completato | 60 | Amlodipina più clomifene sul flusso sanguigno del follicolo preovulatorio in PCOS; l'amlodipina sembra migliorare flusso uterino/ovarico, dimensione follicolare e gravidanze |
-| [NCT07398924](https://clinicaltrials.gov/study/NCT07398924) | N/A | Completato | 90 | Estradiolo vaginale vs guaifenesina orale durante l'induzione con clomifene (spessore endometriale, muco cervicale, gravidanza). Rilevanza indiretta |
-
-**Letteratura (selezione)**
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|---------|---------|
-| [29273245](https://pubmed.ncbi.nlm.nih.gov/29273245/) | 2018 | RCT fattoriale 2×2 | Lancet | Gonadotropine vs clomifene citrato, con o senza inseminazione intrauterina, in donne con anovulazione normogonadotropa e fallimento del clomifene (M-OVIN) |
-| [22128296](https://pubmed.ncbi.nlm.nih.gov/22128296/) | 2012 | RCT | Hum Reprod | Clomifene citrato vs FSH a basse dosi come prima linea nella PCOS anovulatoria |
-| [18487613](https://pubmed.ncbi.nlm.nih.gov/18487613/) | 2008 | Analisi di sottogruppi di RCT | Hum Reprod | Aggiungere metformina al clomifene: ricerca di sottogruppi con più gravidanze |
-| [35351379](https://pubmed.ncbi.nlm.nih.gov/35351379/) | 2022 | Coorte | Reprod Biomed Online | Influenza dell'etnia sugli esiti dell'induzione con clomifene nella PCOS |
-| [17137400](https://pubmed.ncbi.nlm.nih.gov/17137400/) | 2006 | Revisione | Drugs | Inibitori dell'aromatasi come alternativa al clomifene, di cui si descrivono gli effetti antiestrogenici su endometrio e muco cervicale |
-| [31296604](https://pubmed.ncbi.nlm.nih.gov/31296604/) | 2019 | Revisione | J Clin Pathol | Inquadramento e gestione della subfertilità |
-| [8521770](https://pubmed.ncbi.nlm.nih.gov/8521770/) | 1995 | Revisione | Drugs | Il clomifene è in genere la prima scelta nell'amenorrea; in caso di fallimento si usano menotropine o GnRH |
-| [21406133](https://pubmed.ncbi.nlm.nih.gov/21406133/) | 2010 | Revisione | BMJ Clin Evid | Infertilità femminile: cause e opzioni di trattamento |
+Attualmente non risulta letteratura correlata a questa previsione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 020773026 | CLOMID*10 cpr 50 mg (Bruno Farmaceutici SpA) | Compresse (dalla denominazione) | Non riportata; autorizzazione **revocata** |
+| 020773026 | CLOMID*10 cpr 50 mg | Non indicata | Non registrata nei dati locali |
 
-Non risultano autorizzazioni in corso di validità in Italia.
+Il sistema registra una sola autorizzazione, del titolare BRUNO FARMACEUTICI SpA.
 
 ## Considerazioni sulla sicurezza
 
-I dati sulla sicurezza del foglio illustrativo AIFA non sono disponibili; per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
+- **Interazioni farmacologiche**: è segnalata un'interazione di livello maggiore (Major) con il **bexarotene**. Sono inoltre registrate associazioni farmacologiche con il recettore degli estrogeni alfa e con il canale VRAC, che sono bersagli del farmaco e non interazioni con altri medicinali.
 
-- **Controindicazioni segnalate dal grafo di conoscenza** (non da testo di etichetta): disturbi d'ansia e nevrotici, distimia, epatopatie, malattie della colecisti, ipotiroidismo (incluso mixedema e forma congenita), insufficienza surrenalica (morbo di Addison), tromboflebite, sindrome dell'ovaio policistico, endometriosi, carcinoma/neoplasie dell'endometrio, ipertiroidismo (malattia di Graves), tumori dell'ipofisi, cisti ovariche, sindrome da iperstimolazione ovarica, disturbi della vista e cecità.
-- **Interazioni farmacologiche**: è segnalata un'interazione di livello **maggiore** con **bexarotene**. Il clomifene agisce inoltre sul recettore degli estrogeni alfa (ESR1) e sul canale VRAC.
+Per le avvertenze e le controindicazioni complete, consultare il foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- Per l'indicazione principale prevista (disturbo 46,XY da difetto della steroidogenesi testicolare) non esistono studi né letteratura, e il meccanismo è poco plausibile.
-- L'unica previsione con supporto, l'anovulazione, è in sostanza l'uso già noto del farmaco e non un vero riposizionamento. L'unica autorizzazione italiana è peraltro revocata.
+La previsione si basa solo sul modello (livello L5): non esistono studi clinici o pubblicazioni sulla malattia prevista e il meccanismo d'azione del clomifene non spiega in modo plausibile un effetto su un difetto primario della steroidogenesi testicolare.
 
 **Per procedere sono necessari:**
-- Dati dettagliati sul meccanismo d'azione (MOA).
-- Il testo del foglio illustrativo AIFA (avvertenze e controindicazioni) per la valutazione di sicurezza.
-- Evidenze biologiche o cliniche che colleghino il clomifene al difetto della steroidogenesi testicolare, oppure la scelta di una previsione alternativa più sostenibile.
-- Per l'anovulazione, la chiarificazione se l'obiettivo sia l'uso on-label e non il riposizionamento, con verifica della disponibilità commerciale in Italia.
+- Dati sul meccanismo d'azione del clomifene, per valutare un eventuale legame con la steroidogenesi testicolare
+- Una revisione della letteratura mirata sulla condizione prevista, per verificare l'esistenza di qualsiasi evidenza diretta
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per qualsiasi valutazione di sicurezza
+- Studi preclinici o clinici esplorativi, solo se emergessero basi biologiche credibili
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -48,10 +48,10 @@ Nitisinone è un inibitore dell'enzima HPPD, originariamente utilizzato nel trat
 |------|------|
 | Indicazione originale | Tirosinemia |
 | Nuova indicazione prevista | Acidosi tubulare renale |
-| Punteggio di predizione TxGNN | 99,96% |
+| Punteggio di predizione TxGNN | 0,9996 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 9 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -80,7 +80,7 @@ Attualmente non risulta letteratura correlata disponibile per l'acidosi tubulare
 
 ## Informazioni sul mercato italiano
 
-Tutte le 9 autorizzazioni risultano annullate; nessuna è attualmente valida.
+Il farmaco è in commercio in Italia: tutte le 9 autorizzazioni risultano valide.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|-----------|
@@ -114,7 +114,7 @@ Tra le prime 10 predizioni, nessuna dispone di studi clinici. Per galattosemia e
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'acidosi tubulare renale ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5). Il collegamento meccanicistico, pur plausibile per la tubulopatia della tirosinemia, non è dimostrato per questa indicazione. Inoltre in Italia tutte le autorizzazioni sono annullate.
+La predizione per l'acidosi tubulare renale ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5). Il collegamento meccanicistico, pur plausibile per la tubulopatia della tirosinemia, non è dimostrato per questa indicazione. In Italia il farmaco è in commercio, con 9 autorizzazioni valide su 9.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank per un'analisi più solida del legame meccanicistico

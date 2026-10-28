@@ -6,9 +6,9 @@ nav_order: 170
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia"
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
+description: "Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Emicizumab
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Emicizumab: dall'emofilia alla pseudo-malattia di von Willebrand
+## Emicizumab: Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Tra le altre indicazioni previste, quella con le evidenze più solide è l'**emo
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emofilia; forma sintomatica dell'emofilia nelle portatrici femminili |
-| Nuova indicazione prevista | Pseudo-malattia di von Willebrand |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -68,12 +68,12 @@ Per la pseudo-malattia di von Willebrand il collegamento meccanicistico è **deb
 
 | Indicazione prevista | Punteggio TxGNN | Evidenza | Commento |
 |------|------|------|------|
-| Carenza acquisita di fattori della coagulazione (emofilia A acquisita) | 99,90% | L2 | Evidenza più solida: studi prospettici in aperto (fase 2/3), raccomandazioni di consenso |
-| Trombastenia di Glanzmann | 99,98% | L5 | Unica pubblicazione riguarda rFVIIa (NovoSeven), non emicizumab |
-| Sindrome di Scott | 99,92% | L5 | Rationale incerto: emicizumab richiede una superficie fosfolipidica |
-| Porpora trombotica trombocitopenica | 99,61% | L5 | **Preoccupazione di sicurezza**: possibile effetto dannoso |
-| Altre (disturbo da rilascio piastrinico, difetto del recettore del collagene, trombocitopenia costituzionale, trombocitopenia alloimmune fetale/neonatale) | 99,4–99,9% | L5 | Nessuna evidenza, legame meccanicistico debole |
-| «Flood factor deficiency» | 99,40% | L5 | Entità clinica non riconosciuta, probabile artefatto dei dati |
+| Carenza acquisita di fattori della coagulazione (emofilia A acquisita) | 0,9990 | L5 | Evidenza più solida: studi prospettici in aperto (fase 2/3), raccomandazioni di consenso |
+| Trombastenia di Glanzmann | 0,9998 | L5 | Unica pubblicazione riguarda rFVIIa (NovoSeven), non emicizumab |
+| Sindrome di Scott | 0,9992 | L5 | Rationale incerto: emicizumab richiede una superficie fosfolipidica |
+| Porpora trombotica trombocitopenica | 0,9961 | L5 | **Preoccupazione di sicurezza**: possibile effetto dannoso |
+| Altre (disturbo da rilascio piastrinico, difetto del recettore del collagene, trombocitopenia costituzionale, trombocitopenia alloimmune fetale/neonatale) | 99,4–0,9990 | L5 | Nessuna evidenza, legame meccanicistico debole |
+| «Flood factor deficiency» | 0,9940 | L5 | Entità clinica non riconosciuta, probabile artefatto dei dati |
 
 ---
 
@@ -104,13 +104,13 @@ Per riferimento, nell'indicazione prevista con maggiori evidenze (emofilia A acq
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 046130047 | HEMLIBRA 1 flaconcino SC 150 mg/ml 1 ml | — | Cancellata |
-| 046130011 | HEMLIBRA 1 flaconcino SC 30 mg/ml 1 ml | — | Cancellata |
-| 046130023 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,4 ml | — | Cancellata |
-| 046130035 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,7 ml | — | Cancellata |
-| 046130062 | HEMLIBRA 1 flaconcino SC 30 mg/ml 0,4 ml | — | Cancellata |
+| 046130047 | HEMLIBRA 1 flaconcino SC 150 mg/ml 1 ml | — | Valida |
+| 046130011 | HEMLIBRA 1 flaconcino SC 30 mg/ml 1 ml | — | Valida |
+| 046130023 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,4 ml | — | Valida |
+| 046130035 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,7 ml | — | Valida |
+| 046130062 | HEMLIBRA 1 flaconcino SC 30 mg/ml 0,4 ml | — | Valida |
 
-Titolare: Roche Registration GmbH. Tutte e cinque le autorizzazioni risultano cancellate; nessuna è attualmente valida.
+Titolare: Roche Registration GmbH.
 
 ---
 

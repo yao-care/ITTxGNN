@@ -49,10 +49,10 @@ Il modello TxGNN prevede che possa essere efficace per l'**acne**, ma il support
 |------|------|
 | Indicazione originale | Micosi cutanee e sistemiche (tinea pedis, tinea corporis, dermatite seborroica, pitiriasi versicolor, candidosi, istoplasmosi, aspergillosi, ecc.); il testo dell'indicazione autorizzata non è disponibile nei dati compilati |
 | Nuova indicazione prevista | Acne |
-| Punteggio di predizione TxGNN | 99,80% |
+| Punteggio di predizione TxGNN | 0,9980 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (0 valide, 1 cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -95,13 +95,13 @@ Nota: le altre pubblicazioni recuperate (ad es. PCOS, sindrome di Cushing, adapa
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043781018 | KETOCONAZOLE*60 cpr 200 mg (Esteve Pharmaceuticals SA) | Compresse (200 mg) | Non disponibile; autorizzazione cancellata |
+| 043781018 | KETOCONAZOLE*60 cpr 200 mg (Esteve Pharmaceuticals SA) | Compresse (200 mg) | Non disponibile; autorizzazione valida |
 
 ---
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni (da grafo di conoscenza, non da scheda tecnica)**: sindrome del QT lungo (anche familiare), torsione di punta, malattie epatiche, malattie della colecisti, insufficienza corticosurrenalica/morbo di Addison, atrofia cutanea, teleangectasie, malattie capillari, teleangectasia emorragica ereditaria, malattia vascolare periferica, claudicatio intermittente, arteriopatia periferica, acloridria.
+- **Controindicazioni (non da scheda tecnica)**: sindrome del QT lungo (anche familiare), torsione di punta, malattie epatiche, malattie della colecisti, insufficienza corticosurrenalica/morbo di Addison, atrofia cutanea, teleangectasie, malattie capillari, teleangectasia emorragica ereditaria, malattia vascolare periferica, claudicatio intermittente, arteriopatia periferica, acloridria.
 - **Interazioni farmacologiche**: 658 interazioni registrate. Quelle di livello **maggiore** includono loperamide, triamcinolone e budesonide. Tra quelle di livello moderato: famotidina, ranitidina, rabeprazolo, omeprazolo, idrocortisone, desametasone, betametasone, pioglitazone, alosetron, aprepitant, atropina, ioscina/iosciamina, bisacodile e metscopolamina. Amfotericina B è di livello minore.
 - **Rischi noti dell'uso sistemico** (dal razionale di riposizionamento): epatotossicità e soppressione surrenalica.
 

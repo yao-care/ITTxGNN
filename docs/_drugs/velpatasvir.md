@@ -49,10 +49,10 @@ Il modello TxGNN predice un possibile effetto per l'**infezione da virus dell'ep
 |------|------|
 | Indicazione originaria | Infezione cronica da virus dell'epatite C |
 | Nuova indicazione predetta | Infezione da virus dell'epatite B |
-| Punteggio di predizione TxGNN | 99,87% |
+| Punteggio di predizione TxGNN | 0,9987 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ---

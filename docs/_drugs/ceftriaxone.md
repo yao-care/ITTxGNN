@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (infezione streptococcica, polmonite batterica…"
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
+last_modified_at: 2026-10-27
+description: "Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ceftriaxone
@@ -33,72 +33,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Ceftriaxone: dalle infezioni batteriche alla sindrome da iperviscosità policlonale
+## Ceftriaxone: cefalosporina di terza generazione → sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
-## Riepilogo in breve
+## Sintesi
 
-Il ceftriaxone è una cefalosporina di terza generazione, utilizzata per infezioni batteriche come polmonite, meningite, gonorrea e salmonellosi. Il modello TxGNN lo associa con punteggio molto alto alla **sindrome da iperviscosità policlonale**, ma **non esistono studi clinici né pubblicazioni** a sostegno di questa direzione. La previsione appare quindi priva di plausibilità biologica e più probabilmente frutto di un artefatto del grafo di conoscenza.
+Ceftriaxone è un antibiotico cefalosporinico di terza generazione che agisce inibendo la sintesi della parete cellulare batterica. Il modello TxGNN lo associa alla **sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome)** con un punteggio elevato, ma per questa malattia i dati compilati non contengono **alcuno studio clinico né alcuna pubblicazione**. La previsione non ha quindi un supporto di evidenza concreto.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche (infezione streptococcica, polmonite batterica, meningite batterica, gonorrea, salmonellosi, artrite batterica e altre). Fonte: grafo di conoscenza, non il foglio illustrativo, perché i testi delle indicazioni autorizzate non sono disponibili |
-| Nuova indicazione prevista | Sindrome da iperviscosità policlonale |
-| Punteggio di previsione TxGNN | 99,39% |
-| Livello di evidenza | L5 (solo previsione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) |
+| Punteggio di previsione TxGNN | 0,9939 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
-## Perché questa previsione è (poco) ragionevole?
+## Perché questa previsione è (poco) plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Il ceftriaxone è una cefalosporina di terza generazione che inibisce la sintesi della parete cellulare batterica. La sua efficacia nelle infezioni batteriche è consolidata.
+I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. Per quanto noto, ceftriaxone è una cefalosporina di terza generazione, il cui effetto si esercita sulla sintesi della parete batterica.
 
-La sindrome da iperviscosità policlonale, invece, è causata da un eccesso di immunoglobuline e non ha alcun bersaglio antibatterico. Non è identificabile un legame meccanicistico con l'indicazione originale. L'alto punteggio del modello riflette probabilmente associazioni statistiche nel grafo di conoscenza, non una logica biologica.
+La sindrome da iperviscosità policlonale è causata da un eccesso di immunoglobuline e non presenta alcun bersaglio antibatterico. Non è stato individuato alcun legame meccanicistico tra il farmaco e questa condizione. Il punteggio elevato è verosimilmente un artefatto delle associazioni statistiche del modello e non riflette una motivazione biologica; va quindi interpretato con grande cautela.
 
-## Evidenze da studi clinici
+## Evidenza dagli studi clinici
 
-Attualmente nessuno studio clinico correlato risulta registrato.
+Attualmente non risultano studi clinici registrati correlati.
 
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
-Attualmente non è disponibile alcuna letteratura correlata.
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate e nessuna è attualmente valida. I testi delle indicazioni autorizzate e le forme farmaceutiche non sono riportati nei dati compilati. Le principali autorizzazioni:
+I dati locali elencano 20 autorizzazioni per ceftriaxone come singolo principio attivo (elenco possibilmente parziale), tutte senza testo di indicazione registrato. Alcuni esempi:
 
-| N. autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 035869039 | Ceftriaxone 1 g IM + solvente 3,5 ml | EG SpA | Cancellata |
-| 025202058 | Rocefin 1 g IM + solvente 3,5 ml | Roche SpA | Cancellata |
-| 025202019 | Rocefin 250 mg IM + solvente 2 ml | Roche SpA | Cancellata |
-| 036138028 | Ceftriaxone 1 g IM + solvente 3,5 ml | Eugia Pharma (Malta) Limited | Cancellata |
-| 035952023 | Pantoxon 1 g IM + solvente 3,5 ml | Aesculapius Farmaceutici Srl | Cancellata |
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 035869039 | Ceftriaxone, 1 fiala IM 1 g + solvente 3,5 ml (EG SpA) | Non indicata | Non registrata |
+| 025202058 | Rocefin, 1 flaconcino IM 1 g + solvente 3,5 ml (Roche SpA) | Non indicata | Non registrata |
+| 025202019 | Rocefin, 1 flaconcino IM 250 mg + solvente 2 ml (Roche SpA) | Non indicata | Non registrata |
+| 036138028 | Ceftriaxone, 1 fiala IM 1 g + solvente 3,5 ml (Eugia Pharma) | Non indicata | Non registrata |
+| 035952023 | Pantoxon, 1 flacone IM 1 g + solvente 3,5 ml (Aesculapius Farmaceutici) | Non indicata | Non registrata |
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-I dati sulle avvertenze e sulle controindicazioni del foglio illustrativo non sono disponibili.
+- **Interazioni farmacologiche** (principali): interazioni di livello maggiore con calcio cloruro, calcio glucoeptonato e calcio gluconato; interazioni di livello moderato con kanamicina, neomicina, streptomicina e acido picosolfurico.
 
-- **Controindicazioni segnalate dal grafo di conoscenza** (non da testo di etichetta): malattie epatiche, malattie della colecisti, ittero neonatale, colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, anemia emolitica.
-- **Interazioni farmacologiche** (100 interazioni totali; riportate le principali):
-  - **Maggiori**: cloruro di calcio, glucoeptonato di calcio, gluconato di calcio.
-  - **Moderate**: kanamicina, neomicina, streptomicina, acido picosolfurico.
-  - Per molte altre interazioni il livello di gravità non è determinato.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per la sindrome da iperviscosità policlonale non esistono studi clinici né letteratura, e manca un legame meccanicistico plausibile. Il livello di evidenza è L5. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+- Non esiste alcun legame meccanicistico identificabile né alcuno studio sulla sindrome da iperviscosità policlonale; l'evidenza è di livello L5 e il punteggio del modello da solo non basta a giustificare ulteriori investimenti.
 
-**Per procedere sarebbero necessari:**
-- Una revisione critica della previsione, per verificare se sia un artefatto del grafo.
-- I dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglio illustrativo AIFA.
-- Una rivalutazione delle previsioni alternative con maggiore plausibilità, in particolare l'otite media infettiva e l'otite media suppurativa (evidenza L3). Il loro uso è però già clinicamente consolidato e quindi poco innovativo come riposizionamento.
+**Per procedere sarebbe necessario:**
+- Un razionale biologico plausibile che colleghi ceftriaxone alla malattia.
+- Evidenze preliminari (studi preclinici o clinici) specifiche per questa condizione.
+- I dati di avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione di sicurezza.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -4,17 +4,17 @@ title: Salmeterol
 parent: Prove elevate (L1-L2)
 nav_order: 398
 evidence_level: L1
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Salmeterol: nuova indicazione prevista, Bronchite (livello di evidenza L1)."
 monitor_inn: "salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L1)."
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **7** 
+Livello di evidenza: **L1** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **7**
 
 </div>
 
-## Salmeterolo: dall'asma e dall'enfisema alla bronchite
+## Salmeterol: Bronchite (bronchitis)
 {: .text-alpha }
 
 ## Sintesi
@@ -47,10 +47,10 @@ Il salmeterolo è un beta-2 agonista a lunga durata d'azione (LABA), originariam
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Enfisema polmonare, asma intrinseca, asma allergica (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Bronchite |
-| Punteggio di predizione TxGNN | 99,92% |
+| Nuova indicazione prevista | Bronchite (bronchitis) |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte revocate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -101,7 +101,7 @@ Va sottolineato che questa predizione si colloca largamente all'interno dell'uso
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano revocate. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le principali:
+Il farmaco è in commercio in Italia, con 20 autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le principali:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
@@ -128,7 +128,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esistono diversi studi di fase 3 completati nella BPCO e un'importante letteratura di supporto, quindi il livello di evidenza è L1. Poiché l'indicazione prevista è molto vicina agli usi originari, il valore innovativo è limitato, e tutte le autorizzazioni italiane risultano revocate.
+Esistono diversi studi di fase 3 completati nella BPCO e un'importante letteratura di supporto, quindi il livello di evidenza è L1. Poiché l'indicazione prevista è molto vicina agli usi originari, il valore innovativo è limitato. Il farmaco è in commercio in Italia, con 20 autorizzazioni valide.
 
 **Per procedere sono necessari:**
 - Verifica della disponibilità commerciale attuale in Italia (prodotti con salmeterolo, da solo o in associazione) e valutazione di un'eventuale nuova autorizzazione

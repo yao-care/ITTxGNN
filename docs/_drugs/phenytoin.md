@@ -4,17 +4,17 @@ title: Phenytoin
 parent: Solo previsione del modello (L5)
 nav_order: 348
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (crisi tonico-cloniche generalizzate, crisi parziali…"
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Phenytoin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +33,37 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Fenitoina: Dall'epilessia alla neoplasia del nervo trigemino
+## Phenytoin: Neoplasia del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi
 
-La fenitoina è un antiepilettico utilizzato per il controllo delle crisi tonico-cloniche e delle crisi parziali complesse. Il modello TxGNN la indica come potenzialmente efficace per la **neoplasia del nervo trigemino** (punteggio molto alto), ma i dati compilati per questo report non contengono **alcuno studio clinico registrato** e la letteratura recuperata non riguarda affatto tumori del trigemino. Il punteggio sembra riflettere la vicinanza nel grafo di conoscenza alla nevralgia del trigemino, non un reale segnale antitumorale. Tra le 10 predizioni, la più solida sul piano clinico è la **nevralgia del trigemino** (livello L3).
+La fenitoina è un antiepilettico utilizzato per il controllo delle crisi tonico-cloniche e delle crisi parziali complesse. Il modello TxGNN la indica come potenzialmente efficace per il **Tumore del nervo trigemino** (punteggio molto alto), ma i dati compilati per questo report non contengono **alcuno studio clinico registrato** e la letteratura recuperata non riguarda affatto tumori del trigemino. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, come la nevralgia del trigemino, non un reale segnale antitumorale né un'evidenza biologica. Tra le 10 predizioni, la più solida sul piano clinico è la **nevralgia del trigemino** (livello L3).
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia (crisi tonico-cloniche generalizzate, crisi parziali, stato epilettico, sindrome di Lennox-Gastaut), secondo gli archi di indicazione del grafo di conoscenza; il testo dell'indicazione AIFA non è disponibile |
-| Nuova indicazione predetta | Neoplasia del nervo trigemino |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Neoplasia del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 1 (annullata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è (poco) ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle conoscenze note, la fenitoina blocca i canali del sodio voltaggio-dipendenti (la scheda farmacologica indica come bersaglio Nav1.2, gene SCN2A), il che riduce la propagazione delle crisi e le scariche neuronali ectopiche ad alta frequenza.
 
-Questo meccanismo è pertinente a crisi epilettiche e dolore neuropatico, **non al controllo tumorale**. Non emerge un legame meccanicistico diretto con le neoplasie del nervo trigemino. La letteratura recuperata riguarda la nevralgia del trigemino e la sindrome di Sturge-Weber, non tumori. Il punteggio elevato è verosimilmente un artefatto di prossimità nel grafo.
+Questo meccanismo è pertinente a crisi epilettiche e dolore neuropatico, **non al controllo tumorale**. Non emerge un legame meccanicistico diretto con le neoplasie del nervo trigemino. La letteratura recuperata riguarda la nevralgia del trigemino e la sindrome di Sturge-Weber, non tumori. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ### Altre predizioni esaminate
 
 | Predizione | Punteggio TxGNN | Livello | Valutazione |
 |------|------|------|------|
-| Nevralgia del trigemino | 99,97% | L3 | Meccanismo plausibile (stesso della carbamazepina, di prima linea); uso come opzione e.v. per le riacutizzazioni; linee guida EAN 2019 favorevoli a carbamazepina/oxcarbazepina |
-| Crisi audiogene | 99,98% | L4 | Evidenza quasi solo preclinica (modelli murini/ratto); non è un'indicazione umana consolidata |
-| Crisi indotte da minzione | 99,98% | L4 | Meccanismo plausibile; solo un caso clinico indiretto (clobazam + fenitoina); già rientra nell'ambito delle crisi epilettiche |
-| Epilessia da sussulto (startle) | 99,98% | L4 | Letteratura a favore della lamotrigina; nessuna evidenza clinica specifica per la fenitoina |
-| Crisi indotte dal pensiero, dall'alimentazione, dalla lettura | 99,97–99,98% | L4 | Letteratura largamente non pertinente; evidenza indiretta |
-| Crisi indotte dall'orgasmo | 99,98% | L5 | Solo predizione del modello, nessuna letteratura |
-| Deficit di beta-chetotiolasi | 99,95% | L5 | Nessun legame meccanicistico; verosimile artefatto del grafo |
+| Nevralgia del trigemino | 0,9997 | L3 | Meccanismo plausibile (stesso della carbamazepina, di prima linea); uso come opzione e.v. per le riacutizzazioni; linee guida EAN 2019 favorevoli a carbamazepina/oxcarbazepina |
+| Deficit di beta-chetotiolasi | 0,9995 | L5 | Nessun legame meccanicistico; il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese tra malattie correlate, non evidenze biologiche |
 
 ## Evidenza dagli studi clinici
 
@@ -98,7 +93,7 @@ Per la predizione principale (neoplasia del nervo trigemino) sono state recupera
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 002129017 | DINTOINA*30 cpr rivestite 100 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile — autorizzazione annullata |
+| 002129017 | DINTOINA*30 cpr rivestite 100 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile — autorizzazione valida |
 
 Non risultano autorizzazioni attualmente valide in Italia (0 monocomponente, 0 combinazioni).
 

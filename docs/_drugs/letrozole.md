@@ -4,17 +4,17 @@ title: Letrozole
 parent: Prove elevate (L1-L2)
 nav_order: 262
 evidence_level: L1
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Letrozole: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L1). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni nelle a…"
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Letrozole: nuova indicazione prevista, Nipple carcinoma (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Letrozolo: dal carcinoma mammario ormonodipendente al carcinoma mammario femminile (ER+)
+## Letrozole: Nipple carcinoma
 {: .text-alpha }
 
 ## Sintesi
@@ -44,11 +44,11 @@ Il letrozolo è un inibitore non steroideo dell'aromatasi, usato nella pratica c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni nelle autorizzazioni AIFA sono vuoti) |
-| Nuova indicazione prevista | Carcinoma mammario femminile |
-| Punteggio di predizione TxGNN | 99,98% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Nipple carcinoma |
+| Punteggio di predizione TxGNN | 0.9976 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -98,11 +98,11 @@ Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è attiva nes
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 040413041 | Letrozolo 30 cpr rivestite 2,5 mg | Zentiva Italia Srl | Cancellata |
-| 049762026 | Femara 30 cpr rivestite 2,5 mg | BB Farma Srl | Cancellata |
-| 044537025 | Femara 30 cpr rivestite 2,5 mg | Medifarm Srl | Cancellata |
-| 040645069 | Letrozolo 30 cpr rivestite 2,5 mg | Mylan SpA | Cancellata |
-| 040324042 | Letrozolo 30 cpr rivestite 2,5 mg | Sandoz SpA | Cancellata |
+| 040413041 | Letrozolo 30 cpr rivestite 2,5 mg | Zentiva Italia Srl | Valida |
+| 049762026 | Femara 30 cpr rivestite 2,5 mg | BB Farma Srl | Valida |
+| 044537025 | Femara 30 cpr rivestite 2,5 mg | Medifarm Srl | Valida |
+| 040645069 | Letrozolo 30 cpr rivestite 2,5 mg | Mylan SpA | Valida |
+| 040324042 | Letrozolo 30 cpr rivestite 2,5 mg | Sandoz SpA | Valida |
 
 ## Citotossicità
 

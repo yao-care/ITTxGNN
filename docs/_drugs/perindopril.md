@@ -4,17 +4,17 @@ title: Perindopril
 parent: Solo previsione del modello (L5)
 nav_order: 346
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Perindopril: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Ipertensione (disturbo ipertensivo)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Perindopril
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Perindopril: dall'ipertensione all'ipertensione renovascolare maligna
+## Perindopril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede che possa essere efficace per l'**ipertensione renovasc
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione (disturbo ipertensivo) |
-| Nuova indicazione prevista | Ipertensione renovascolare maligna |
-| Punteggio di previsione TxGNN | 99,77% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malignant hypertensive renal disease |
+| Punteggio di previsione TxGNN | 0.9977 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -65,7 +65,7 @@ L'ipertensione renovascolare maligna è sostenuta da una marcata attivazione del
 
 Vi sono però due limiti importanti. Primo, la previsione è molto vicina all'indicazione originale (ipertensione), quindi apporta poco valore di riposizionamento. Secondo, gli ACE-inibitori comportano un rischio significativo di insufficienza renale acuta in caso di stenosi bilaterale delle arterie renali o di rene singolo stenotico: questo è un serio problema di sicurezza proprio in questo contesto clinico.
 
-Altre previsioni nell'elenco (non analizzate in dettaglio sotto): ipertensione renale maligna (99,77%), ipertensione polmonare di origine multifattoriale non chiara e ipertensione polmonare da malattia polmonare/ipossia (99,75%), sindrome di Braddock (99,66%). Per l'ipertensione polmonare da malattia polmonare/ipossia esiste solo evidenza precliniche indiretta (studi su ratto, ad es. PMID 11282121 e 10602319), che la rende, tra le previsioni, l'unica formulabile come ipotesi di ricerca (livello L4).
+Altre previsioni nell'elenco (non analizzate in dettaglio sotto): ipertensione renale maligna (0.9977), ipertensione polmonare di origine multifattoriale non chiara e ipertensione polmonare da malattia polmonare/ipossia (0.9975), sindrome di Braddock (0.9966). Per l'ipertensione polmonare da malattia polmonare/ipossia esiste solo evidenza precliniche indiretta (studi su ratto, ad es. PMID 11282121 e 10602319), che la rende, tra le previsioni, l'unica formulabile come ipotesi di ricerca (livello L4).
 
 ---
 
@@ -83,15 +83,15 @@ Per l'ipertensione renovascolare maligna non è disponibile alcuna letteratura c
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è riportato nei dati compilati. Esempi tra le principali:
+Il testo dell'indicazione approvata non è riportato nei dati compilati. Esempi tra le principali:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 051109015 | COVERSYL 30 cpr rivestite 5 mg | NEW PHARMASHOP Srl | Cancellata |
-| 038764078 | PERINDOPRIL 30 cpr 4 mg | SANDOZ SpA | Cancellata |
-| 041788112 | PERINDOPRIL 30 cpr rivestite 10 mg | TEVA ITALIA Srl | Cancellata |
-| 027286210 | COVERSYL 30 cpr rivestite 5 mg | LES LABORATOIRES SERVIER | Cancellata |
-| 027469319 | PROCAPTAN 30 cpr rivestite 10 mg | STRODER Srl | Cancellata |
+| 051109015 | COVERSYL 30 cpr rivestite 5 mg | NEW PHARMASHOP Srl | Valida |
+| 038764078 | PERINDOPRIL 30 cpr 4 mg | SANDOZ SpA | Valida |
+| 041788112 | PERINDOPRIL 30 cpr rivestite 10 mg | TEVA ITALIA Srl | Valida |
+| 027286210 | COVERSYL 30 cpr rivestite 5 mg | LES LABORATOIRES SERVIER | Valida |
+| 027469319 | PROCAPTAN 30 cpr rivestite 10 mg | STRODER Srl | Valida |
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Frovatriptan
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 216
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Frovatriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (con o senza aura)"
 monitor_inn: "FROVATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Frovatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Frovatriptan
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Frovatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Frovatriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il frovatriptan è un agonista dei recettori serotoninergici 5-HT1B/1D, originar
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (con o senza aura); il testo delle indicazioni approvate AIFA non è disponibile nei dati compilati |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di previsione TxGNN | 99,98% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di previsione TxGNN | 0.9973 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -60,7 +60,7 @@ Il frovatriptan è un agonista dei recettori serotoninergici 5-HT1B/1D, originar
 
 I dati compilati non riportano il meccanismo d'azione dettagliato. In base alle conoscenze note, il frovatriptan appartiene alla classe dei triptani; la letteratura lo descrive come agonista dei recettori 5-HT1B e 5-HT1D, con inibizione della vasodilatazione delle arterie intracraniche ed extracerebrali e possibile effetto antinfiammatorio. Il meccanismo preciso resta non del tutto chiarito.
 
-L'emicrania con aura del tronco encefalico è un sottotipo di emicrania e condivide la fisiopatologia neurovascolare e trigeminovascolare dell'indicazione originale. Ciò è coerente con l'elevato punteggio TxGNN (0,9998), che riflette la forte sovrapposizione a livello di malattia.
+L'emicrania con aura del tronco encefalico è un sottotipo di emicrania e condivide la fisiopatologia neurovascolare e trigeminovascolare dell'indicazione originale.
 
 Va però sottolineata una cautela importante: i triptani sono stati storicamente usati con prudenza nell'aura del tronco encefalico (in passato "emicrania di tipo basilare") per il timore teorico di vasocostrizione. La letteratura raccolta supporta l'efficacia nell'emicrania in generale e in quella con aura, ma non affronta questo sottotipo. La sicurezza in questa popolazione resta quindi non dimostrata.
 
@@ -95,11 +95,11 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata | Stato |
 |---------|------|------|-----------|------|
-| 042611020 | Frovatriptan 2,5 mg, 6 compresse rivestite (Mylan) | Compresse rivestite | Non disponibile | Cancellata |
-| 035673021 | Auradol 2,5 mg, 2 compresse rivestite (Lusofarmaco) | Compresse rivestite | Non disponibile | Cancellata |
-| 042910051 | Frovatriptan 2,5 mg, 6 compresse rivestite (Teva) | Compresse rivestite | Non disponibile | Cancellata |
-| 035674035 | Rilamig 2,5 mg, 6 compresse rivestite (Menarini) | Compresse rivestite | Non disponibile | Cancellata |
-| 042911053 | Frovatriptan 2,5 mg, 6 compresse rivestite (EG) | Compresse rivestite | Non disponibile | Cancellata |
+| 042611020 | Frovatriptan 2,5 mg, 6 compresse rivestite (Mylan) | Compresse rivestite | Non disponibile | Valida |
+| 035673021 | Auradol 2,5 mg, 2 compresse rivestite (Lusofarmaco) | Compresse rivestite | Non disponibile | Valida |
+| 042910051 | Frovatriptan 2,5 mg, 6 compresse rivestite (Teva) | Compresse rivestite | Non disponibile | Valida |
+| 035674035 | Rilamig 2,5 mg, 6 compresse rivestite (Menarini) | Compresse rivestite | Non disponibile | Valida |
+| 042911053 | Frovatriptan 2,5 mg, 6 compresse rivestite (EG) | Compresse rivestite | Non disponibile | Valida |
 
 Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.
 

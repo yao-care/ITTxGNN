@@ -6,9 +6,9 @@ nav_order: 315
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Patologie muscolo-scheletriche infiammatorie e dolorose (artrite reum…"
 monitor_inn: "naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Naprossene: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Naproxen: Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **sindrome brach
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Patologie muscolo-scheletriche infiammatorie e dolorose (artrite reumatoide, osteoartrosi, spondilite anchilosante, gotta, tendinite, borsite), emicrania e cefalea (il testo autorizzativo AIFA non è disponibile; l'elenco deriva dal grafo di conoscenza) |
-| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia |
-| Punteggio di predizione TxGNN | 99,35% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) |
+| Punteggio di predizione TxGNN | 0.9935 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
+| Numero di autorizzazioni | 11 (valide: 11) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -63,7 +63,7 @@ I dati compilati non contengono una descrizione dettagliata del meccanismo d'azi
 
 La sindrome brachidattilia-sindattilia è una malformazione scheletrica congenita di origine genetica, che interessa lo sviluppo e la formazione degli arti. L'inibizione delle prostaglandine non è attesa correggere un difetto strutturale di patterning degli arti. Al massimo, un FANS potrebbe alleviare un dolore muscolo-scheletrico secondario, con un effetto solo sintomatico e non modificante la malattia.
 
-Non emerge quindi alcun legame meccanicistico sostenuto dai dati: il punteggio elevato (0,994) riflette una associazione calcolata dal modello nel grafo di conoscenza, non una prova biologica o clinica. Anche le altre tre predizioni di alto rango (sindrome colobomatosa con microftalmia e displasia rizomelica, displasia acromesomelica tipo Hunter-Thompson, sindrome brachiolmia-amelogenesi imperfetta) sono malattie genetiche dello sviluppo scheletrico, prive di studi e di un razionale meccanicistico.
+Non emerge quindi alcun legame meccanicistico sostenuto dai dati: il punteggio elevato (0,9935) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze che il modello ha appreso tra malattie correlate, non una prova biologica o clinica. Anche le altre tre predizioni di alto rango (sindrome colobomatosa con microftalmia e displasia rizomelica, displasia acromesomelica tipo Hunter-Thompson, sindrome brachiolmia-amelogenesi imperfetta) sono malattie genetiche dello sviluppo scheletrico, prive di studi e di un razionale meccanicistico.
 
 ---
 
@@ -81,15 +81,15 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 11 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 023177189 | NAPROSYN 20 cpr 750 mg rilascio modificato | Recordati SpA | Cancellata |
-| 023886082 | LASER 20 cpr 750 mg rilascio modificato | Euro-Pharma Srl | Cancellata |
-| 050505027 | NAPROSSENE 30 cpr rivestite 550 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 024667139 | NAPRIUS 30 cpr 500 mg | Aesculapius Farmaceutici Srl | Cancellata |
-| 034792010 | NAPROXENE SODICO 30 cpr rivestite 550 mg | DOC Generici Srl | Cancellata |
+| 023177189 | NAPROSYN 20 cpr 750 mg rilascio modificato | Recordati SpA | Valida |
+| 023886082 | LASER 20 cpr 750 mg rilascio modificato | Euro-Pharma Srl | Valida |
+| 050505027 | NAPROSSENE 30 cpr rivestite 550 mg | Aurobindo Pharma Italia Srl | Valida |
+| 024667139 | NAPRIUS 30 cpr 500 mg | Aesculapius Farmaceutici Srl | Valida |
+| 034792010 | NAPROXENE SODICO 30 cpr rivestite 550 mg | DOC Generici Srl | Valida |
 
 Elencate le prime 5 delle 11 autorizzazioni.
 

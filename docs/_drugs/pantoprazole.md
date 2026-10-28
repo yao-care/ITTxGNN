@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 339
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Pantoprazole: nuova indicazione prevista, Ulcera peptica attiva (livello di evidenza L1). Indicazione originale: Ulcera peptica, malattia da reflusso gastroesofageo, esofagite…"
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-## Pantoprazolo: dall'ulcera peptica all'ulcera peptica attiva (uso già in etichetta)
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -47,11 +47,11 @@ Il modello TxGNN lo indica come potenzialmente efficace per l'**ulcera peptica a
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ulcera peptica, malattia da reflusso gastroesofageo, esofagite, sindrome di Zollinger-Ellison (dal grafo di conoscenza; il testo autorizzato AIFA non è disponibile) |
-| Nuova indicazione prevista | Ulcera peptica attiva |
-| Punteggio di predizione TxGNN | 99,69% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Duodenal obstruction |
+| Punteggio di predizione TxGNN | 0.9921 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -75,7 +75,6 @@ Per l'ulcera peptica attiva:
 |---------|------|------|------|---------|
 | [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Fase 3 | Completato | 323 | Studio multicentrico, randomizzato, in doppio cieco, con controllo attivo: ilaprazolo vs pantoprazolo in triplice terapia di 7 giorni per l'eradicazione di H. pylori in pazienti con ulcera gastrica e/o duodenale. Comparatore e braccio di trattamento da verificare, perché il titolo è troncato |
 
-Per l'ulcera duodenale (predizione di rango 6), sono stati registrati ulteriori studi rilevanti:
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
@@ -115,11 +114,11 @@ Tutte le 20 autorizzazioni risultano **cancellate**; non ne è attiva alcuna. I 
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 042953063 | PANTORC 14 cpr gastroresistenti 20 mg | GMM FARMA Srl | Cancellata |
-| 038730053 | PANTOPRAZOLO 28 cpr gastroresistenti 20 mg | ALMUS Srl | Cancellata |
-| 039015134 | PANTOPRAZOLO 14 cpr gastroresistenti 40 mg | SUN PHARMACEUTICAL IND. EU B.V. | Cancellata |
-| 041979028 | INIPANT 14 cpr gastroresistenti 40 mg | SO.SE.PHARM Srl | Cancellata |
-| 038253264 | GASTROLOC 14 cpr gastroresistenti 40 mg | HALEON ITALY Srl | Cancellata |
+| 042953063 | PANTORC 14 cpr gastroresistenti 20 mg | GMM FARMA Srl | Valida |
+| 038730053 | PANTOPRAZOLO 28 cpr gastroresistenti 20 mg | ALMUS Srl | Valida |
+| 039015134 | PANTOPRAZOLO 14 cpr gastroresistenti 40 mg | SUN PHARMACEUTICAL IND. EU B.V. | Valida |
+| 041979028 | INIPANT 14 cpr gastroresistenti 40 mg | SO.SE.PHARM Srl | Valida |
+| 038253264 | GASTROLOC 14 cpr gastroresistenti 40 mg | HALEON ITALY Srl | Valida |
 
 ---
 

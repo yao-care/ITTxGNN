@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 53
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aripiprazole: nuova indicazione prevista, Disturbo affettivo maggiore (livello di evidenza L1). Indicazione originale: Schizofrenia, disturbo bipolare (episodi maniacali)…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+last_modified_at: 2026-10-27
+description: "Aripiprazole: nuova indicazione prevista, Disturbo affettivo maggiore (major affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,121 +33,95 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Aripiprazolo: dal disturbo bipolare e dalla schizofrenia al disturbo affettivo maggiore
+## Aripiprazolo: agonista parziale dei recettori dopaminergici D2/D3 e serotoninergici 5-HT1A → disturbo affettivo maggiore (major affective disorder)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-L'aripiprazolo è un antipsicotico atipico, originariamente utilizzato per schizofrenia, disturbo bipolare (episodi maniacali) e disturbi dello spettro autistico. Il modello TxGNN ne prevede l'efficacia nel **disturbo affettivo maggiore** (depressione maggiore), con **35 studi clinici** e **18 pubblicazioni** inclusi nei dati compilati per questa indicazione. Fra gli studi, diversi trial di fase 3 randomizzati, in doppio cieco e controllati con placebo sostengono l'uso come terapia aggiuntiva agli antidepressivi.
-
----
+L'aripiprazolo è un antipsicotico atipico che agisce come agonista parziale dei recettori dopaminergici D2/D3 e serotoninergici 5-HT1A.
+Il modello TxGNN prevede che possa essere efficace per il **disturbo affettivo maggiore (major affective disorder)**,
+con **39 studi clinici** e **19 pubblicazioni** attualmente a supporto di questa direzione, tra cui diversi studi di fase 3 controllati con placebo.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare (episodi maniacali), disturbi dello spettro autistico (testo autorizzativo AIFA non disponibile; indicazioni tratte dal grafo di conoscenza) |
-| Nuova indicazione prevista | Disturbo affettivo maggiore |
-| Punteggio di previsione TxGNN | 99,62% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
-
----
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo affettivo maggiore (major affective disorder) |
+| Punteggio di previsione TxGNN | 0,9962 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
+| Decisione raccomandata | Proceed with Guardrails |
 
 ## Perché questa previsione è ragionevole?
 
-L'aripiprazolo è un agonista parziale dei recettori dopaminergici D2/D3 e del recettore serotoninergico 5-HT1A, con attività antagonista su 5-HT2A. Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati; la valutazione si basa quindi sulla farmacologia generale del principio attivo. Questo profilo consente di modulare il tono dopaminergico e serotoninergico in associazione agli antidepressivi.
+I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. Sulla base della farmacologia generale, l'aripiprazolo è un agonista parziale dei recettori D2/D3 e 5-HT1A con attività antagonista sul recettore 5-HT2A. Questo profilo modula il tono dopaminergico e serotoninergico, e sostiene l'impiego come terapia aggiuntiva agli antidepressivi negli episodi depressivi.
 
-Le indicazioni originali (disturbo bipolare, mania) e il disturbo affettivo maggiore appartengono entrambe ai disturbi dell'umore e condividono una componente di disregolazione monoaminergica. Per questo motivo l'uso aggiuntivo nella depressione risulta plausibile dal punto di vista meccanicistico.
-
-A sostegno della previsione, diversi studi di fase 3 (NCT00683852, NCT00095823, NCT01421342) e meta-analisi in rete indicano l'efficacia dell'aggiunta di aripiprazolo nei pazienti con risposta inadeguata agli antidepressivi.
-
----
+Il disturbo affettivo maggiore include la depressione maggiore e i disturbi bipolari, condizioni in cui sono coinvolti entrambi i sistemi di neurotrasmissione. Numerosi studi di fase 3 (NCT00683852, NCT00095823, NCT01421342) e meta-analisi di rete sostengono l'uso aggiuntivo dell'aripiprazolo nella depressione maggiore con risposta inadeguata agli antidepressivi.
 
 ## Evidenze dagli studi clinici
 
-Sono mostrati i 10 studi più rilevanti (su 35 registrati).
+Sono riportati i 10 studi più rilevanti (su 39 registrati).
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Fase 3 | Completato | 1200 | Studio multicentrico, randomizzato, in doppio cieco, controllato con placebo (14 settimane): aripiprazolo aggiuntivo in depressione maggiore |
-| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Fase 3 | Completato | 1151 | Studio analogo di 14 settimane, controllato con placebo, su aripiprazolo aggiuntivo |
-| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Fase 3 | Completato | 1522 | VAST-D: confronto tra aggiunta di aripiprazolo o bupropione e passaggio a bupropione in veterani con depressione resistente |
-| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Fase 3 | Completato | 225 | Doppio cieco, placebo: dose ridotta di aripiprazolo aggiuntivo alla terapia antidepressiva |
-| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Fase 3 | Completato | 586 | Doppio cieco, placebo: aripiprazolo aggiuntivo a SSRI/SNRI |
-| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Fase 3 | Completato | 349 | Studio di 14 settimane, controllato con placebo, aripiprazolo aggiuntivo ad antidepressivo |
-| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Fase 3 | Completato | 1002 | Studio open-label di 52 settimane sulla sicurezza e tollerabilità a lungo termine |
-| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Fase 3 | Terminato | 211 | Combinazione aripiprazolo/escitalopram; interrotto precocemente, interpretabilità limitata |
-| [NCT02960763](https://clinicaltrials.gov/study/NCT02960763) | Fase 4 | Completato | 742 | Confronto di strategie antidepressive in anziani con depressione resistente |
-| [NCT01488266](https://clinicaltrials.gov/study/NCT01488266) | Non applicabile | Sconosciuto | 90 | Aggiunta di aripiprazolo vs passaggio ad altra classe di antidepressivi |
-
----
+| [NCT00095823](https://clinicaltrials.gov/study/NCT00095823) | Fase 3 | Completato | 1200 | Studio randomizzato, in doppio cieco, controllato con placebo: aripiprazolo aggiuntivo all'antidepressivo nella depressione maggiore, 14 settimane |
+| [NCT00095758](https://clinicaltrials.gov/study/NCT00095758) | Fase 3 | Completato | 1151 | Studio di 14 settimane, doppio cieco, controllato con placebo, aripiprazolo aggiuntivo nella depressione maggiore |
+| [NCT01421342](https://clinicaltrials.gov/study/NCT01421342) | Fase 3 | Completato | 1522 | VAST-D: potenziamento con aripiprazolo o bupropione vs passaggio a bupropione nella depressione resistente nei veterani |
+| [NCT00683852](https://clinicaltrials.gov/study/NCT00683852) | Fase 3 | Completato | 225 | Doppio cieco, controllato con placebo: dose ridotta di aripiprazolo aggiuntivo alla terapia antidepressiva |
+| [NCT00105196](https://clinicaltrials.gov/study/NCT00105196) | Fase 3 | Completato | 349 | Studio di 14 settimane, doppio cieco, controllato con placebo, aripiprazolo aggiuntivo |
+| [NCT00876343](https://clinicaltrials.gov/study/NCT00876343) | Fase 3 | Completato | 586 | Doppio cieco, controllato con placebo, aripiprazolo aggiuntivo a SSRI/SNRI |
+| [NCT00095745](https://clinicaltrials.gov/study/NCT00095745) | Fase 3 | Completato | 1002 | Studio in aperto di 52 settimane sulla sicurezza e tollerabilità dell'aripiprazolo aggiuntivo |
+| [NCT01111539](https://clinicaltrials.gov/study/NCT01111539) | Fase 3 | Terminato | 211 | Combinazione aripiprazolo/escitalopram in doppio cieco; interrotto precocemente |
+| [NCT00882362](https://clinicaltrials.gov/study/NCT00882362) | Fase 3 | Completato | 155 | Somministrazione a lungo termine di aripiprazolo aggiuntivo a SSRI/SNRI: sicurezza ed efficacia |
+| [NCT01488266](https://clinicaltrials.gov/study/NCT01488266) | Non applicabile | Sconosciuto | 90 | Potenziamento con aripiprazolo vs passaggio ad altra classe di antidepressivi nella depressione parzialmente responsiva |
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Revisione sistematica / network meta-analisi | JAMA Psychiatry | Antipsicotici aggiuntivi nel disturbo depressivo maggiore; l'FDA ha approvato 5 antipsicotici atipici in questa indicazione |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Revisione sistematica / network meta-analisi | J Affect Disord | Confronto di efficacia e interruzioni delle strategie di potenziamento nella depressione resistente |
-| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Revisione sistematica / network meta-analisi | Neuropsychopharmacology | Efficacia relativa dei trattamenti antidepressivi nella depressione resistente |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Revisione sistematica / meta-analisi | J Psychopharmacol | Trattamenti di potenziamento e combinazione nella depressione resistente in fase precoce |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Revisione sistematica / meta-analisi | J Psychopharmacol | Antidepressivi + antipsicotici di seconda generazione vs esketamina vs litio |
-| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | RCT | Mol Psychiatry | ASCERTAIN-TRD: potenziamento con aripiprazolo o rTMS vs passaggio a venlafaxina |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Revisione | Psychiatr Clin North Am | Antipsicotici atipici, tra cui aripiprazolo, sono tra gli agenti di potenziamento più studiati |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Revisione | Am J Psychiatry | Ruolo degli antipsicotici nel panorama terapeutico della depressione resistente |
-| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Revisione | Asia Pac Psychiatry | Quetiapina, aripiprazolo e olanzapina approvati come aggiuntivi nella depressione maggiore; efficaci a dosi sub-antipsicotiche |
-| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Network meta-analisi | Adv Ther | Confronto di efficacia e sicurezza degli antipsicotici atipici approvati come aggiuntivi nella depressione maggiore |
-
-Nota: una meta-analisi che confrontava aripiprazolo e bupropione (PMID 38669232) risulta ritirata e non è stata considerata come evidenza.
-
----
+| [42090141](https://pubmed.ncbi.nlm.nih.gov/42090141/) | 2026 | Revisione sistematica e meta-analisi di rete | JAMA Psychiatry | Antipsicotici aggiuntivi nella depressione maggiore |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Revisione sistematica e meta-analisi di rete | Journal of Affective Disorders | Strategie di potenziamento nella depressione maggiore resistente al trattamento |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Revisione sistematica e meta-analisi | Journal of Psychopharmacology | Trattamenti di potenziamento e combinazione nella depressione resistente in fase precoce |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Revisione sistematica e meta-analisi | Journal of Psychopharmacology | Antidepressivi più antipsicotici di seconda generazione vs esketamina vs litio |
+| [39739012](https://pubmed.ncbi.nlm.nih.gov/39739012/) | 2025 | Revisione sistematica e meta-analisi di rete | Neuropsychopharmacology | Efficacia relativa dei trattamenti antidepressivi nella depressione resistente |
+| [38454079](https://pubmed.ncbi.nlm.nih.gov/38454079/) | 2024 | RCT | Molecular Psychiatry | ASCERTAIN-TRD: potenziamento con aripiprazolo o rTMS vs passaggio a venlafaxina |
+| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Revisione | JAMA | Diagnosi e trattamento del disturbo bipolare |
+| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Revisione | Psychiatric Clinics of North America | Antidepressivi e antipsicotici atipici nella depressione resistente |
+| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Revisione | American Journal of Psychiatry | Ruolo degli antipsicotici nella depressione resistente al trattamento |
+| [42283956](https://pubmed.ncbi.nlm.nih.gov/42283956/) | 2026 | Meta-analisi di rete | Advances in Therapy | Lumateperone e altri antipsicotici atipici come terapia aggiuntiva nella depressione maggiore |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide al momento. Sono elencate le prime 5.
+Sono riportate 5 delle autorizzazioni; l'elenco può essere parziale.
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043743208 | ARIPIPRAZOLO*28 cpr 10 mg (Teva Italia) | Compresse | Non disponibile |
-| 043743347 | ARIPIPRAZOLO*28 cpr 15 mg (Teva Italia) | Compresse | Non disponibile |
-| 036582017 | ABILIFY*28 cpr 5 mg (Otsuka) | Compresse | Non disponibile |
-| 036582094 | ABILIFY*28 cpr orodispersibili 10 mg (Otsuka) | Compresse orodispersibili | Non disponibile |
-| 036582183 | ABILIFY*soluzione orale 150 ml 1 mg/ml (Otsuka) | Soluzione orale | Non disponibile |
+| 036582017 | ABILIFY 28 cpr 5 mg | Compresse | Non registrata nei dati locali |
+| 036582094 | ABILIFY 28 cpr orodispersibili 10 mg | Compresse orodispersibili | Non registrata nei dati locali |
+| 036582183 | ABILIFY soluzione orale 150 ml 1 mg/ml | Soluzione orale | Non registrata nei dati locali |
+| 043743208 | ARIPIPRAZOLO 28 cpr 10 mg (Teva Italia) | Compresse | Non registrata nei dati locali |
+| 044737017 | ARIPIPRAZOLO soluzione orale 150 ml 1 mg/ml (Mylan) | Soluzione orale | Non registrata nei dati locali |
 
----
+## Considerazioni di sicurezza
 
-## Considerazioni sulla sicurezza
+- **Interazioni farmacologiche**: sono state identificate 316 interazioni. Tra quelle di livello maggiore compare il bupropione. Tra quelle di livello moderato figurano antidiabetici (acarbosio, metformina, pioglitazone, canagliflozin), anticolinergici (atropina, iosciamina), epinefrina, claritromicina, cimetidina, famotidina e cisapride.
 
-- **Controindicazioni derivate dal grafo di conoscenza** (non da testo di scheda tecnica): condizioni come epilessia, diabete mellito e chetoacidosi diabetica, iperglicemia, neutropenia/agranulocitosi/leucopenia, ipotensione ortostatica, infarto miocardico e coronaropatia, disturbi della conduzione cardiaca, sindrome neurolettica maligna, disturbi cerebrovascolari, iperlipidemia e obesità.
-- **Interazioni farmacologiche**: sono state rilevate 316 interazioni. Quella di livello **Maggiore** riportata nell'elenco è con **bupropione**; tra quelle di livello Moderato figurano antidiabetici (acarbosio, metformina, pioglitazone, alogliptin, canagliflozin), anticolinergici (atropina, iosciamina), claritromicina, cimetidina, cisapride, epinefrina e aprepitant.
-- **Trichotillomania**: la letteratura segnala casi di comportamenti impulsivo-compulsivi, inclusa tricotillomania, associati ad aripiprazolo (PMID 38227009, 29257789).
-
-Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica, non disponibile nei dati compilati.
-
----
-
-## Altre indicazioni previste (evidenza limitata)
-
-- **Tricotillomania** (punteggio 99,26%, livello L3, raccomandazione: domanda di ricerca): un trial open-label (NCT00947154, n=12), diversi case report e una revisione sistematica; uno studio di fase 2 controllato con placebo (NCT05545891) è pianificato ma non ancora in reclutamento. La direzione dell'effetto va chiarita, dato che esistono segnalazioni di tricotillomania come effetto avverso.
-- **Altre previsioni** (sindrome di Asperger, sindrome di Phelan-McDermid, sindrome da microdelezione 17p13.3, sindrome di Malan, altre malattie rare): nessuno studio né pubblicazione disponibile (livello L5, raccomandazione: Hold). Alcune, legate allo spettro autistico, sono plausibili ma verosimilmente si sovrappongono alle indicazioni già esistenti; per altre (distrofia retinica, idranencefalia, sindrome da paralisi dello sguardo con scoliosi) non si individua un nesso meccanicistico plausibile.
-
----
+Per le avvertenze e le controindicazioni, si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Proceed with Guardrails (procedere con cautele)**
+**Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Per il disturbo affettivo maggiore esistono più studi di fase 3 completati, randomizzati e controllati con placebo, insieme a network meta-analisi, che sostengono l'uso aggiuntivo dell'aripiprazolo (livello di evidenza L1). Restano però lacune sulla sicurezza e il fatto che tutte le autorizzazioni italiane risultano cancellate.
+Più studi di fase 3 completati, randomizzati e controllati con placebo, e meta-analisi di rete, studiano direttamente l'aripiprazolo come terapia aggiuntiva nella depressione maggiore, con un'evidenza solida. Mancano però i dati sul meccanismo d'azione e sulle avvertenze di sicurezza dal foglio illustrativo.
 
-**Per procedere sono necessari:**
-- Acquisire la scheda tecnica AIFA (avvertenze e controindicazioni), attualmente un'informazione bloccante per la valutazione di sicurezza.
-- Ottenere i dati sul meccanismo d'azione da DrugBank.
-- Verificare lo stato regolatorio in Italia e il motivo della cancellazione delle autorizzazioni, anche per l'indicazione nella depressione.
-- Definire un piano di monitoraggio per le popolazioni a rischio (diabete, disturbi cardiovascolari, neutropenia, epilessia) e per le interazioni rilevanti (in particolare con bupropione).
-- Per la tricotillomania, attendere i risultati dello studio controllato NCT05545891 prima di qualsiasi decisione.
+**Per procedere è necessario:**
+- Acquisire dal foglio illustrativo AIFA le avvertenze e le controindicazioni
+- Integrare i dati dettagliati sul meccanismo d'azione
+- Definire un piano di monitoraggio di sicurezza (profilo metabolico, neutropenia, ipotensione ortostatica, interazioni con bupropione e inibitori del CYP)
+- Verificare lo stato regolatorio delle autorizzazioni locali per questa indicazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

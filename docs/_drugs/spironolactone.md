@@ -6,9 +6,9 @@ nav_order: 411
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Ipertensione, scompenso cardiaco congestizio…"
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Spironolactone
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Spironolattone: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+## Spironolactone: Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Lo spironolattone è un diuretico antagonista dell'aldosterone, originariamente 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, scompenso cardiaco congestizio, iperaldosteronismo (primario), sindrome di Bartter (da grafo di conoscenza; i testi autorizzativi AIFA non riportano indicazioni) |
-| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto |
-| Punteggio di predizione TxGNN | 99,26% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) |
+| Punteggio di predizione TxGNN | 0.9926 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
+| Numero di autorizzazioni | 11 (valide: 11) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Il legame con l'ipotricosi semplice, però, è debole. Si tratta di una rara patologia ereditaria causata da mutazioni in geni come CDSN, APCDD1 e RPL21, e non è principalmente guidata dagli androgeni. Il collegamento tra l'effetto anti-androgenico e questa condizione genetica è quindi speculativo e non verificato.
 
-Anche la seconda previsione, l'**ipotricosi congenita con milia** (punteggio 99,04%), è priva di studi clinici e letteratura. Probabilmente riflette la vicinanza nella rete di conoscenza ad altri fenotipi di perdita di capelli, più che un meccanismo validato.
+Anche la seconda previsione, l'**ipotricosi congenita con milia** (punteggio 0,9904), è priva di studi clinici e letteratura. Probabilmente riflette la vicinanza nella rete di conoscenza ad altri fenotipi di perdita di capelli, più che un meccanismo validato.
 
 ---
 
@@ -80,7 +80,7 @@ Attualmente non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 11 autorizzazioni risultano cancellate; nessuna è attualmente valida. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.
+I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.
 
 | N. autorizzazione | Nome prodotto | Titolare |
 |---------|------|------|
@@ -116,7 +116,6 @@ La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né let
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank).
 - Condurre una revisione sistematica della letteratura su spironolattone e ipotricosi ereditarie.
 - Verificare il collegamento con la via androgenica e la compatibilità delle vie di somministrazione (ad esempio una formulazione topica).
-- Chiarire la situazione regolatoria, dato che nessuna autorizzazione italiana è oggi valida.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

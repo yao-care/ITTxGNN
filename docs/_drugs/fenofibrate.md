@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fenofibrate
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 195
-evidence_level: L4
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Fenofibrate: nuova indicazione prevista, Ipercolesterolemia familiare omozigote (livello di evidenza L4). Indicazione originale: Ipertrigliceridemia, iperlipidemia, iperlipidemia familiare combinata…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Fenofibrate"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+last_modified_at: 2026-10-23
+description: "Fenofibrate: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fenofibrate
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,86 +33,76 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-## Fenofibrato: dall'ipertrigliceridemia/iperlipidemia all'ipercolesterolemia familiare omozigote
+## Fenofibrate: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Il fenofibrato è un agonista di PPAR-alfa usato per ridurre trigliceridi e colesterolo nelle dislipidemie (ipertrigliceridemia, iperlipidemia, iperlipidemia familiare combinata). Il modello TxGNN prevede che possa essere utile per l'**ipercolesterolemia familiare omozigote**, ma per questa indicazione **non esistono studi clinici con fenofibrato**: gli unici studi registrati riguardano alirocumab. Il supporto è quindi limitato a un modello predittivo, a un caso clinico isolato in una coorte del 1984 e a revisioni generali.
+Il fenofibrato è un agonista di PPARα utilizzato per ridurre i trigliceridi e il colesterolo nelle dislipidemie (relazioni registrate nel grafo di conoscenza: ipertrigliceridemia, iperlipidemia, iperlipidemia familiare). Il modello TxGNN ne prevede una possibile utilità nella **carenza di proteina di trasferimento degli esteri del colesterolo (CETP)**, ma al momento non sono disponibili **studi clinici** e le **3 pubblicazioni** reperite sono solo studi preclinici o meccanicistici, che non studiano direttamente questa malattia.
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertrigliceridemia, iperlipidemia, iperlipidemia familiare combinata, ipoalfalipoproteinemia (dal grafo di conoscenza; i testi autorizzativi AIFA non sono disponibili) |
-| Nuova indicazione prevista | Ipercolesterolemia familiare omozigote |
-| Punteggio di predizione TxGNN | 99,91% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 12 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cholesterol-ester transfer protein deficiency |
+| Punteggio di previsione TxGNN | 0.9961 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 12) |
+| Numero di autorizzazioni | 12 (valide: 12) |
 | Decisione raccomandata | Hold |
 
-## Perché questa predizione è plausibile?
+## Perché questa previsione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. Si sa però che il fenofibrato agisce come agonista del recettore PPAR-alfa (confermato dai dati farmacologici sul bersaglio PPARA) e che la sua attività risiede nel metabolita attivo. L'attivazione di PPAR-alfa aumenta l'attività della lipoproteina lipasi e l'ossidazione degli acidi grassi e riduce l'apoC-III: ne derivano trigliceridi più bassi e HDL-C più alto, con un effetto solo modesto sull'LDL-C.
+Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze note, il fenofibrato è un agonista di PPARα (confermato dai dati farmacologici sul bersaglio PPARA) che aumenta il colesterolo HDL e riduce i trigliceridi, in parte favorendo l'espressione di ApoA-I/ApoA-II e l'attività della lipoproteina lipasi. Nei topi induce inoltre il gene della proteina di trasferimento dei fosfolipidi (PLTP), con aumento delle dimensioni delle HDL (PMID 11342537).
 
-Qui sta il limite della predizione. L'ipercolesterolemia familiare omozigote è causata da una disfunzione del recettore delle LDL, che il fenofibrato non corregge. Un beneficio sarebbe quindi al più aggiuntivo, ad esempio su trigliceridi e lipoproteine remnant. L'unica osservazione specifica è un paziente omozigote in una coorte di 22 pazienti con iperlipoproteinemia di tipo II (1984), che mostrò la maggiore riduzione di colesterolo totale e LDL-C. Si tratta di un dato aneddotico, non di una prova solida.
+Il legame con la carenza di CETP è biologicamente plausibile ma indiretto: entrambi riguardano il metabolismo delle HDL. Tuttavia, la carenza di CETP si presenta già con livelli di HDL-C molto elevati, per cui un ulteriore aumento delle HDL non offre un beneficio clinico evidente. L'alto punteggio TxGNN (0,9961) riflette la prossimità tra le vie metaboliche (lipidi e HDL), non un reale bisogno terapeutico.
+
+La letteratura riguarda l'associazione tra inibizione di CETP e agonismo PPARα come strategia farmacologica in modelli murini (PMID 20332533), non il trattamento del deficit genetico. Uno studio del 2018 (PMID 30271349) indica inoltre che le HDL plasmatiche correlano poco con l'escrezione fecale di colesterolo e con la capacità di efflusso, indebolendo ulteriormente il razionale per trattare stati di HDL elevate.
 
 ## Evidenze dagli studi clinici
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fase 3 | Completato | 18 | Alirocumab (inibitore di PCSK9) in bambini e adolescenti con HoFH; non coinvolge il fenofibrato, quindi non fornisce evidenza diretta |
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [6593751](https://pubmed.ncbi.nlm.nih.gov/6593751/) | 1984 | Coorte | Pharmacol Res Commun | Fenofibrato 300 mg/die in 22 pazienti con iperlipoproteinemia di tipo II: colesterolo totale −22%, LDL-C −24%; il paziente con HoFH ha mostrato il calo maggiore |
-| [37979722](https://pubmed.ncbi.nlm.nih.gov/37979722/) | 2024 | Revisione | Indian Heart J | Farmaci ipolipemizzanti non statinici; l'indicazione più definita del fenofibrato in monoterapia è la trigliceridemia a digiuno >500 mg/dl |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Linea guida | Endocr Pract | Linee guida AACE/ACE per la gestione della dislipidemia |
-| [2042836](https://pubmed.ncbi.nlm.nih.gov/2042836/) | 1991 | Revisione | Ann N Y Acad Sci | Trattamento farmacologico e chirurgico delle dislipidemie pediatriche; il fenofibrato è tra i farmaci che hanno ridotto i lipidi nei bambini con ipercolesterolemia familiare |
-| [35499807](https://pubmed.ncbi.nlm.nih.gov/35499807/) | 2022 | Revisione | Curr Atheroscler Rep | Gestione della dislipidemia in gravidanza |
-| [24734312](https://pubmed.ncbi.nlm.nih.gov/24734312/) | 2014 | Studio farmacocinetico | Pharmacotherapy | Interazioni farmacocinetiche di lomitapide con ipolipemizzanti, fenofibrato incluso, in pazienti con HoFH |
+| [20332533](https://pubmed.ncbi.nlm.nih.gov/20332533/) | 2010 | Studio preclinico | J Cardiovasc Pharmacol Ther | In topi transgenici ApoB100/CETP umana, l'inibizione di CETP (torcetrapib) e l'agonismo PPARα (fenofibrato) modificano il profilo lipidico, con aumento di HDL-C e riduzione di LDL-C |
+| [11342537](https://pubmed.ncbi.nlm.nih.gov/11342537/) | 2001 | Studio meccanicistico preclinico | J Biol Chem | Il fenofibrato induce il gene PLTP, che spiega l'ingrandimento delle HDL nei topi trattati |
+| [30271349](https://pubmed.ncbi.nlm.nih.gov/30271349/) | 2018 | Studio preclinico/meccanicistico | Front Physiol | Le HDL plasmatiche non correlano con l'escrezione fecale di colesterolo né con la capacità di efflusso: conta la funzionalità delle HDL |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 12 autorizzazioni risultano cancellate; non ci sono prodotti con autorizzazione valida. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili nei dati compilati.
-
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029257019 | LIPSIN 20 cps 200 mg | I.B.N. Savio Srl | Non disponibile |
-| 033557036 | Fenofibrato 20 cps 200 mg | Zentiva Italia Srl | Non disponibile |
-| 037160049 | LIPERIAL 30 cpr rivestite 145 mg | Viatris Healthcare Limited | Non disponibile |
-| 048413025 | Fenofibrato 30 cpr rivestite 145 mg | Aurobindo Pharma Italia Srl | Non disponibile |
-| 041071046 | Fenofibrato 30 cpr 145 mg | DOC Generici Srl | Non disponibile |
+| 029257019 | LIPSIN 20 cps 200 mg | – | – |
+| 033557036 | FENOFIBRATO 20 cps 200 mg (Zentiva) | – | – |
+| 037160049 | LIPERIAL 30 cpr rivestite 145 mg | – | – |
+| 048413025 | FENOFIBRATO 30 cpr rivestite 145 mg (Aurobindo) | – | – |
+| 041071046 | FENOFIBRATO 30 cpr 145 mg (DOC Generici) | – | – |
+
+Sono presenti 12 autorizzazioni valide, tutte per il principio attivo singolo; qui sono elencate le prime 5. Il testo delle indicazioni approvate non è presente nei dati compilati.
 
 ## Considerazioni sulla sicurezza
 
-I dati sulle avvertenze e sulle controindicazioni dal foglio illustrativo AIFA non sono disponibili. Dal grafo di conoscenza (non dal testo del foglio illustrativo) risultano associazioni di controindicazione con:
+I dati del grafo di conoscenza (non derivati dal foglio illustrativo) registrano relazioni di controindicazione con: insufficienza epatica e malattie epatiche, pancreatite, malattie della colecisti e colelitiasi, miopatia e rabdomiolisi, trombocitopenia, leucopenia, neutropenia e agranulocitosi, anemia, e compromissione della funzione renale.
 
-- **Fegato e vie biliari**: insufficienza epatica, epatopatie, malattia della colecisti, colelitiasi e colecistolitiasi
-- **Pancreas**: pancreatite
-- **Muscolo**: miopatia, malattie muscolari e dello muscolo scheletrico, rabdomiolisi, paralisi periodica familiare
-- **Sangue**: trombocitopenia, anemia, leucopenia, agranulocitosi e varie forme di neutropenia (incluse quelle congenite)
-- **Rene**: compromissione della funzione renale
+**Interazioni:** i dati compilati riportano solo interazioni farmacologiche con bersagli (PPARα e proteina legante gli acidi grassi 1), non interazioni con altri farmaci.
 
-Interazioni: i dati disponibili riguardano solo la farmacologia del bersaglio (PPAR-alfa e proteina legante gli acidi grassi 1), non interazioni con altri farmaci. Per le interazioni clinicamente rilevanti, ad esempio con le statine, si rimanda al foglio illustrativo.
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- L'evidenza è di livello L4: manca qualsiasi studio con fenofibrato nell'HoFH e il meccanismo (nessuna correzione del difetto del recettore LDL) rende improbabile un beneficio rilevante sull'LDL-C. In più, in Italia non vi sono autorizzazioni valide.
+- Nessuno studio clinico o pubblicazione studia direttamente la carenza di CETP, quindi il livello di evidenza è L5. Poiché la carenza di CETP cursa già con HDL elevate, non è evidente un beneficio clinico.
 
-**Per procedere è necessario:**
-- Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna di dati bloccante per lo screening di sicurezza
-- Completare i dati sul meccanismo d'azione (da DrugBank)
-- Valutare studi mirati sul ruolo aggiuntivo del fenofibrato (ad esempio per i trigliceridi) in pazienti HoFH già in terapia con statine, ezetimibe o inibitori di PCSK9
-- Chiarire la situazione regolatoria in Italia, dato che tutte le autorizzazioni sono cancellate
-
-**Nota su altre indicazioni previste:** tra le altre predizioni, l'iperlipoproteinemia (rango 2) ha evidenza L1 con numerosi studi di fase 3 completati e una raccomandazione "Proceed with Guardrails", ma si sovrappone in larga parte alle indicazioni già note del farmaco e rappresenta più un'estensione dell'etichetta che un vero riposizionamento.
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e sulla relazione con la malattia
+- Testo del foglio illustrativo AIFA (indicazioni, avvertenze, controindicazioni)
+- Dimostrazione di un bisogno clinico e di studi che affrontino direttamente la carenza di CETP
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

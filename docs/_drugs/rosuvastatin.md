@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rosuvastatin
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 389
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Rosuvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (livello di evidenza L1). Indicazione originale: Ipertrigliceridemia, iperlipoproteinemia, aterosclerosi…"
 monitor_inn: "Rosuvastatin"
-predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
+description: "Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rosuvastatin
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Rosuvastatina: dall'ipercolesterolemia omozigote familiare all'ipercolesterolemia familiare
+## Rosuvastatin: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 La rosuvastatina è una statina (inibitore dell'HMG-CoA reduttasi) impiegata per ridurre il colesterolo LDL e il rischio cardiovascolare in ipercolesterolemia, ipertrigliceridemia, aterosclerosi e condizioni correlate.
-Il modello TxGNN la indica come potenzialmente efficace per l'**ipercolesterolemia familiare** (punteggio 99,54%), con **12 studi clinici** e **12 pubblicazioni** nei dati compilati per questo report.
+Il modello TxGNN la indica come potenzialmente efficace per l'**ipercolesterolemia familiare** (punteggio 0,9954), con **12 studi clinici** e **12 pubblicazioni** nei dati compilati per questo report.
 Questa indicazione è però molto vicina a quella originale (ipercolesterolemia familiare omozigote), quindi si tratta più di un uso già consolidato o affine che di un vero riposizionamento.
 
 ---
@@ -48,11 +48,11 @@ Questa indicazione è però molto vicina a quella originale (ipercolesterolemia 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertrigliceridemia, iperlipoproteinemia, aterosclerosi, ipercolesterolemia familiare omozigote e disturbi cerebrovascolari (testo di indicazione AIFA non disponibile) |
-| Nuova indicazione prevista | Ipercolesterolemia familiare |
-| Punteggio di predizione TxGNN | 99,54% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cholesterol-ester transfer protein deficiency |
+| Punteggio di predizione TxGNN | 0.9954 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 

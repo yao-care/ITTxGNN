@@ -4,17 +4,17 @@ title: Ampicillin
 parent: Prove moderate (L3-L4)
 nav_order: 46
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ampicillin: nuova indicazione prevista, Laringite (livello di evidenza L4). Indicazione originale: Infezioni batteriche (ad es. infezioni delle vie urinarie…"
 monitor_inn: "ampicillin"
-predicted_indications: ["laryngitis", "gonococcal urethritis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 ---
 
 # Ampicillin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 ## Sintesi
 
 L'ampicillina è un antibiotico beta-lattamico, originariamente usato per infezioni batteriche come le infezioni urinarie, l'otite media, la polmonite batterica e la meningite batterica.
-Il modello TxGNN la prevede potenzialmente efficace per la **laringite** (punteggio 99,97%), ma al momento non risultano **sperimentazioni cliniche registrate** e nessuno dei **20 articoli** recuperati valuta direttamente l'ampicillina in questa condizione.
+Il modello TxGNN la prevede potenzialmente efficace per la **laringite** (punteggio 0,9997), ma al momento non risultano **sperimentazioni cliniche registrate** e nessuno dei **20 articoli** recuperati valuta direttamente l'ampicillina in questa condizione.
 
 ---
 
@@ -49,10 +49,10 @@ Il modello TxGNN la prevede potenzialmente efficace per la **laringite** (punteg
 |------|------|
 | Indicazione originale | Infezioni batteriche (ad es. infezioni delle vie urinarie, otite media, polmonite batterica, meningite). Il testo dell'indicazione registrata in Italia non è disponibile. |
 | Nuova indicazione prevista | Laringite |
-| Punteggio di predizione TxGNN | 99,97% |
+| Punteggio di predizione TxGNN | 0,9997 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -99,8 +99,8 @@ Sono stati recuperati 20 articoli. Nessuno è un RCT; sono elencati quelli più 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036624029 | Ampicillina e sulbactam, 1 fiala IM/EV 500 mg + 250 mg + 1 fiala solvente 1,6 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione revocata) |
-| 036624017 | Ampicillina e sulbactam, 1 fiala IM 1 g + 500 mg + 1 fiala solvente 3,2 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione revocata) |
+| 036624029 | Ampicillina e sulbactam, 1 fiala IM/EV 500 mg + 250 mg + 1 fiala solvente 1,6 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
+| 036624017 | Ampicillina e sulbactam, 1 fiala IM 1 g + 500 mg + 1 fiala solvente 3,2 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

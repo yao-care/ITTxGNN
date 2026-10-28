@@ -6,9 +6,9 @@ nav_order: 301
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Midazolam: nuova indicazione prevista, Insonnia (livello di evidenza L3). Indicazione originale: Ansia"
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
+description: "Midazolam: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Midazolam
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-## Midazolam: Dall'ansia all'insonnia
+## Midazolam: Insonnia (insomnia (disease))
 {: .text-alpha }
 
 ## Sintesi
@@ -46,12 +46,12 @@ con **2 studi clinici** (entrambi solo indirettamente pertinenti) e **10 pubblic
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ansia (secondo gli archi di indicazione del knowledge graph; il testo delle indicazioni approvate AIFA non è disponibile) |
-| Nuova indicazione prevista | Insonnia |
-| Punteggio di predizione TxGNN | 99,74% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Insonnia (insomnia (disease)) |
+| Punteggio di predizione TxGNN | 0.9974 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -84,10 +84,10 @@ Vi sono però limiti importanti: si tratta di studi datati e di piccole dimensio
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042021028 | BUCCOLAM 4 siringhe soluz. mucosa orale 5 mg/1 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
-| 042021030 | BUCCOLAM 4 siringhe soluz. mucosa orale 7,5 mg/1,5 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
-| 042021042 | BUCCOLAM 4 siringhe soluz. mucosa orale 10 mg/2 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
-| 042021016 | BUCCOLAM 4 siringhe soluz. mucosa orale 2,5 mg/0,5 ml | Soluzione per mucosa orale | Autorizzazione cancellata |
+| 042021028 | BUCCOLAM 4 siringhe soluz. mucosa orale 5 mg/1 ml | Soluzione per mucosa orale | Autorizzazione valida |
+| 042021030 | BUCCOLAM 4 siringhe soluz. mucosa orale 7,5 mg/1,5 ml | Soluzione per mucosa orale | Autorizzazione valida |
+| 042021042 | BUCCOLAM 4 siringhe soluz. mucosa orale 10 mg/2 ml | Soluzione per mucosa orale | Autorizzazione valida |
+| 042021016 | BUCCOLAM 4 siringhe soluz. mucosa orale 2,5 mg/0,5 ml | Soluzione per mucosa orale | Autorizzazione valida |
 
 Tutte le autorizzazioni sono intestate a Neuraxpharm Pharmaceuticals S.L. e risultano cancellate.
 

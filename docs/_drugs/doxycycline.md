@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Doxycycline
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 155
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Doxycycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Bronchite, acne, polmonite batterica, antrace, gonorrea…"
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
+last_modified_at: 2026-10-27
+description: "Doxycycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
 # Doxycycline
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,75 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Doxiciclina: dalle infezioni batteriche (bronchite, acne, polmonite) alla cheratocongiuntivite epiteliale puntata
+## Doxicillina: tetraciclina ad ampio spettro → cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La doxiciclina è un antibiotico della classe delle tetracicline, usato per infezioni batteriche come bronchite, polmonite batterica, acne, gonorrea e antrace. Il modello TxGNN prevede che possa essere utile nella **cheratocongiuntivite epiteliale puntata**, con un punteggio molto alto (99,94%). Le prove a supporto sono però minime: **nessuno studio clinico registrato** e **una sola pubblicazione** (un case report del 1992).
+La doxiciclina è un antibiotico della classe delle tetracicline, usato per un ampio spettro di infezioni batteriche.
+Il modello TxGNN ne prevede un possibile impiego nella **cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)**, ma i dati raccolti per questo report comprendono **nessuno studio clinico** e **1 sola pubblicazione** (un caso clinico del 1992), quindi il supporto è molto limitato.
 
----
-
-## Quadro di sintesi
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Bronchite, acne, polmonite batterica, antrace, gonorrea, faringite e altre infezioni batteriche (da indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,94% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di previsione TxGNN | 0,9994 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è plausibile?
 
-## Perché questa predizione è plausibile?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la doxiciclina è una tetraciclina attiva contro *Chlamydia trachomatis* e dotata di effetti antinfiammatori e di inibizione delle metalloproteinasi di matrice (MMP) sulla superficie oculare.
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo rapporto. In base alle conoscenze generali, la doxiciclina inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 30S. È attiva contro *Chlamydia trachomatis* e ha anche effetti antinfiammatori e di inibizione delle metalloproteinasi di matrice (MMP) sulla superficie oculare.
+Il legame con la nuova indicazione è indiretto e si fonda su un'eziologia infettiva: la cheratite epiteliale puntata può comparire dopo una congiuntivite follicolare da clamidia. L'unico lavoro recuperato (1992) descrive due casi di cheratite epiteliale puntata persistente dopo la risoluzione della congiuntivite da clamidia, trattata con tetraciclina orale o doxiciclina. Le lesioni sono comparse dopo la guarigione dei follicoli, quindi il lavoro non dimostra un beneficio della doxiciclina sulla cheratite.
 
-Il collegamento con la nuova indicazione è soprattutto indiretto. La cheratite puntata superficiale può comparire dopo una congiuntivite follicolare da clamidia, che la doxiciclina tratta. Un secondo meccanismo ipotizzabile è quello antinfiammatorio e anti-MMP, utile in patologie della superficie corneale. Nessuno dei due è stato dimostrato con studi diretti per questa indicazione.
-
----
+Le regole di valutazione richiedono, per i livelli L1–L4, almeno uno studio che affronti direttamente la malattia prevista. Il caso clinico descrive la malattia ma non valuta l'effetto del farmaco su di essa; per prudenza il livello di evidenza è quindi fissato a L5.
 
 ## Evidenze da studi clinici
 
-Attualmente nessuno studio clinico correlato risulta registrato.
-
----
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Case report | Cornea | Due casi di congiuntivite follicolare da *Chlamydia trachomatis* trattati con tetraciclina o doxiciclina orale, con risoluzione dei follicoli. Successivamente comparvero lesioni epiteliali corneali puntate bilaterali, colorabili con fluoresceina, ricorrenti e persistenti dopo la guarigione dell'infezione. |
-
-Questo lavoro descrive una cheratite che persiste dopo il trattamento con doxiciclina. Non dimostra quindi un beneficio della doxiciclina sulla cheratite.
-
----
+| [1424659](https://pubmed.ncbi.nlm.nih.gov/1424659/) | 1992 | Caso clinico | Cornea | Due casi di congiuntivite follicolare da *C. trachomatis* trattata con tetraciclina orale o doxiciclina; dopo la risoluzione dei follicoli sono comparse lesioni epiteliali puntate ricorrenti e bilaterali |
 
 ## Informazioni sul mercato italiano
 
-Tutte e tre le autorizzazioni sono cancellate. Testo dell'indicazione e forma farmaceutica non sono disponibili.
-
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 022211039 | MIRACLIN*10 cpr 100 mg | Lab. Farmacologico Milanese Srl | Cancellata |
-| 021635065 | BASSADO*10 cpr 100 mg | Pfizer Italia Srl | Cancellata |
-| 021856051 | FARMODOXI*10 cpr 100 mg | Italfarmaco SpA | Cancellata |
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 022211039 | MIRACLIN*10 cpr 100 mg | Non indicata | Non indicata |
+| 021635065 | BASSADO*10 cpr 100 mg | Non indicata | Non indicata |
+| 021856051 | FARMODOXI*10 cpr 100 mg | Non indicata | Non indicata |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni segnalate dal grafo di conoscenza** (non dal foglio illustrativo): colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, discinesia dell'esofago.
-- **Interazioni farmacologiche**: sono state identificate 471 interazioni. Tra quelle mostrate:
-  - **Maggiori**: isotretinoina, acitretina, acido aminolevulinico.
-  - **Moderate**: idrossido di alluminio, aminofillina, amoxicillina, ampicillina, atracurio, balsalazide, bedaquilina.
-  - **Minori**: acetazolamide, amiloride, bendroflumetiazide.
-- Per l'uso otico/oculare, uno studio in vitro (PMID 37026784) indica che le tetracicline sono meno citotossiche dei chinoloni sui fibroblasti della membrana timpanica. Non riguarda direttamente la cheratocongiuntivite.
+**Interazioni farmacologiche**: nei dati compilati risultano 471 interazioni. Tra quelle di livello maggiore figurano:
+- Isotretinoina (maggiore)
+- Acitretina (maggiore)
+- Acido aminolevulinico (maggiore)
 
-Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
+Sono presenti anche numerose interazioni di livello moderato (ad esempio idrossido di alluminio, amoxicillina, ampicillina, aminofillina) e minore (ad esempio acetazolamide, amiloride).
 
----
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa quasi solo sul modello (livello L4). Non ci sono studi clinici registrati e l'unica pubblicazione è un case report indiretto del 1992, senza dimostrazione di efficacia. Inoltre tutte le autorizzazioni italiane sono cancellate.
+La previsione ha un punteggio TxGNN elevato, ma non esistono studi clinici e l'unica pubblicazione è un caso clinico che non valuta l'effetto della doxiciclina sulla cheratite. Le evidenze sono insufficienti per procedere.
 
 **Per procedere sono necessari:**
-- Studi clinici o revisioni sistematiche sull'uso della doxiciclina (orale o topica oftalmica) nelle cheratiti epiteliali puntate.
-- Dati sul meccanismo d'azione e sulla penetrazione oculare.
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA, e una valutazione della disponibilità di formulazioni in Italia.
-- Una valutazione della sicurezza e delle interazioni per le popolazioni target.
-
-**Nota:** tra le altre indicazioni previste dal modello, la categoria "disturbo post-batterico" ha un'evidenza più solida (livello L1). Riguarda la profilassi post-esposizione con doxiciclina (doxy-PEP) per le infezioni sessualmente trasmissibili, con numerosi studi di fase 3/4. Può essere un candidato più promettente da valutare separatamente, con attenzione alla resistenza antimicrobica.
+- Studi clinici o serie di casi che valutino direttamente la doxiciclina nella cheratocongiuntivite epiteliale puntata
+- Dati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Valutazione della via di somministrazione (sistemica o oculare) adatta all'indicazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

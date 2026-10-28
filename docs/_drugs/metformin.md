@@ -6,9 +6,9 @@ nav_order: 288
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
+description: "Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Metformin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Metformina: dal diabete mellito di tipo 2 alla sindrome della gamba rigida focale
+## Metformin: Sindrome della gamba rigida focale (focal stiff limb syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,11 +46,11 @@ La metformina è un farmaco antidiabetico, originariamente utilizzato per il tra
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito di tipo 2 |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Sindrome della gamba rigida focale (focal stiff limb syndrome) |
-| Punteggio di predizione TxGNN | 99,45% |
+| Punteggio di predizione TxGNN | 0.9945 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -68,10 +68,10 @@ Va inoltre notato che la sindrome della persona rigida classica ha lo stesso ide
 
 | Posizione | Indicazione | Punteggio TxGNN | Osservazione |
 |------|------|------|------|
-| 2 | Sindrome della persona rigida classica | 99,45% | Stessa fisiopatologia autoimmune/GABAergica; nessun legame terapeutico dimostrato |
-| 3 | Opsismodisplasia | 99,40% | Displasia scheletrica da mutazioni INPPL1 (SHIP2, regolatore della via PI3K/insulina); ipotesi solo generativa, non validata |
-| 4 | Sindrome da disfunzione responsiva alla tiamina | 99,40% | Il legame deriva dal fenotipo diabetico condiviso; il trattamento è la tiamina; possibile interazione con i trasportatori di cationi organici da valutare come aspetto di sicurezza |
-| 5 | Lipodistrofia localizzata indotta da farmaci | 99,06% | Maggiore vicinanza metabolica, ma processo tissutale locale improbabilmente sensibile a un insulino-sensibilizzante sistemico |
+| 2 | Sindrome della persona rigida classica | 0,9945 | Stessa fisiopatologia autoimmune/GABAergica; nessun legame terapeutico dimostrato |
+| 3 | Opsismodisplasia | 0,9940 | Displasia scheletrica da mutazioni INPPL1 (SHIP2, regolatore della via PI3K/insulina); ipotesi solo generativa, non validata |
+| 4 | Sindrome da disfunzione responsiva alla tiamina | 0,9940 | Il legame deriva dal fenotipo diabetico condiviso; il trattamento è la tiamina; possibile interazione con i trasportatori di cationi organici da valutare come aspetto di sicurezza |
+| 5 | Lipodistrofia localizzata indotta da farmaci | 0,9906 | Maggiore vicinanza metabolica, ma processo tissutale locale improbabilmente sensibile a un insulino-sensibilizzante sistemico |
 
 ---
 
@@ -89,15 +89,15 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali 5 autorizzazioni (tutte cancellate):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali 5 autorizzazioni (tutte cancellate):
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 017758020 | GLUCOPHAGE 40 cpr rivestite 850 mg | Bruno Farmaceutici SpA | Cancellata |
-| 039066509 | METFORMINA 30 cpr rivestite 500 mg | DOC Generici Srl | Cancellata |
-| 035195205 | METFORMINA 30 cpr rivestite 500 mg | Teva Italia Srl | Cancellata |
-| 050624093 | METFORMINA 60 cpr 750 mg a rilascio prolungato | Sandoz SpA | Cancellata |
-| 049629013 | METFORMINA 30 cpr rivestite 500 mg | EG SpA | Cancellata |
+| 017758020 | GLUCOPHAGE 40 cpr rivestite 850 mg | Bruno Farmaceutici SpA | Valida |
+| 039066509 | METFORMINA 30 cpr rivestite 500 mg | DOC Generici Srl | Valida |
+| 035195205 | METFORMINA 30 cpr rivestite 500 mg | Teva Italia Srl | Valida |
+| 050624093 | METFORMINA 60 cpr 750 mg a rilascio prolungato | Sandoz SpA | Valida |
+| 049629013 | METFORMINA 30 cpr rivestite 500 mg | EG SpA | Valida |
 
 ---
 

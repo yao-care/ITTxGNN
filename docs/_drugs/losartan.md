@@ -4,17 +4,17 @@ title: Losartan
 parent: Prove moderate (L3-L4)
 nav_order: 278
 evidence_level: L4
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Losartan: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L4). Indicazione originale: Ipertensione, nefropatia diabetica (dal grafo di conoscenza TxGNN"
 monitor_inn: "LOSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+description: "Losartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Losartan
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **8** 
+Livello di evidenza: **L4** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **8**
 
 </div>
 
-## Losartan: dall'ipertensione alla ipertensione renovascolare maligna
+## Losartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,11 +48,11 @@ ma al momento sono disponibili **0 studi clinici** e solo **2 pubblicazioni** (u
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, nefropatia diabetica (dal grafo di conoscenza TxGNN; il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertensione renovascolare maligna |
-| Punteggio di predizione TxGNN | 99,73% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malignant hypertensive renal disease |
+| Punteggio di predizione TxGNN | 0.9973 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -87,11 +87,11 @@ Attualmente non risultano studi clinici registrati correlati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 039198027 | LOSARTAN 28 cpr rivestite 50 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 043614066 | LOSARTAN 28 cpr rivestite 50 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 029384043 | LORTAAN 28 cpr rivestite 100 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 029384017 | LORTAAN 28 cpr rivestite 50 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 039164037 | LOSARTAN 28 cpr rivestite 50 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 039198027 | LOSARTAN 28 cpr rivestite 50 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 043614066 | LOSARTAN 28 cpr rivestite 50 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 029384043 | LORTAAN 28 cpr rivestite 100 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 029384017 | LORTAAN 28 cpr rivestite 50 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 039164037 | LOSARTAN 28 cpr rivestite 50 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.
 

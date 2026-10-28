@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Ebastine: nuova indicazione prevista, Malattia coronarica (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria…"
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
+last_modified_at: 2026-10-27
+description: "Ebastine: nuova indicazione prevista, Malattia coronarica (coronary artery disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ebastine
@@ -33,90 +33,71 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Ebastina: Dall'allergia alla malattia coronarica
+## Ebastina: antagonista dei recettori H1 → Malattia coronarica (coronary artery disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-L'ebastina è un antistaminico H1 di seconda generazione, utilizzato originariamente per la rinite allergica, la rinite vasomotoria e l'orticaria idiopatica.
-Il modello TxGNN prevede una possibile efficacia nella **malattia coronarica** (e, in seconda posizione, nell'**ischemia miocardica**),
-ma al momento **non risultano studi clinici né pubblicazioni** a supporto di questa direzione: la previsione è puramente computazionale.
+Ebastina è un antistaminico di seconda generazione, antagonista dei recettori H1. Il modello TxGNN prevede che possa essere efficace per la **malattia coronarica (coronary artery disease)**. Al momento, però, nei dati compilati per questo report non risulta alcuno studio clinico né alcuna pubblicazione a supporto: la previsione resta puramente computazionale.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Rinite allergica, rinite vasomotoria, orticaria idiopatica (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia coronarica |
-| Punteggio di previsione TxGNN | 99,18% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia coronarica (coronary artery disease) |
+| Punteggio di previsione TxGNN | 0,9918 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 10 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa previsione potrebbe avere senso?
+I dati compilati non contengono informazioni dettagliate sul meccanismo d'azione di ebastina, quindi non è stabilito alcun meccanismo per la nuova indicazione. Ebastina appartiene alla classe degli antagonisti dei recettori H1 di seconda generazione.
 
-I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione dell'ebastina. Sulla base delle conoscenze generali, l'ebastina è un antagonista del recettore H1 di seconda generazione, la cui efficacia nelle patologie allergiche è consolidata.
+Si può formulare solo un'ipotesi: istamina e attività dei mastociti sono state proposte come fattori coinvolti nel vasospasmo coronarico e nell'instabilità della placca aterosclerotica. Il blocco dei recettori H1 potrebbe quindi modulare questi processi. Si tratta di una speculazione non supportata da alcuna evidenza fornita qui.
 
-Il legame con la malattia coronarica è solo un'ipotesi: istamina e attività dei mastociti sono state proposte come fattori coinvolti nel vasospasmo coronarico e nell'instabilità della placca aterosclerotica. Il blocco del recettore H1 potrebbe quindi modulare la vasocostrizione coronarica mediata dall'istamina. Nessuna evidenza fornita in questa sede sostiene tale ipotesi.
+Il punteggio elevato (0,9918) è un risultato computazionale e non costituisce evidenza clinica. Una seconda previsione, l'ischemia miocardica (punteggio 0,9910), è strettamente collegata alla malattia coronarica, quindi le due previsioni probabilmente non sono indipendenti.
 
-Il punteggio elevato di TxGNN (0,992) è una previsione basata su un grafo di conoscenza e non costituisce evidenza clinica. La seconda previsione, l'**ischemia miocardica** (punteggio 99,10%), è strettamente correlata alla malattia coronarica: le due previsioni probabilmente non sono indipendenti. Anche per essa non esistono studi o pubblicazioni a supporto.
-
----
-
-## Evidenze da studi clinici
+## Evidenza da studi clinici
 
 Al momento non risultano studi clinici correlati registrati.
 
----
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 Al momento non è disponibile letteratura correlata.
 
----
-
 ## Informazioni sul mercato italiano
 
-Tutte le 10 autorizzazioni sono cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile. Si elencano le prime 5:
+| N. autorizzazione | Prodotto | Titolare |
+|---------|------|------|
+| 047251032 | EBASTINA 30 cpr orodispersibili 10 mg | Aurobindo Pharma Italia Srl |
+| 034930014 | KESTINE 30 cpr rivestite 10 mg | Almirall S.A. |
+| 034930141 | KESTINE orale 30 dosi liofilizzato 10 mg | Almirall S.A. |
+| 044598035 | EBASTINA 30 cpr orodispersibili 10 mg | Aristo Pharma GmbH |
+| 043728029 | EBASTINA 30 cpr orodispersibili 10 mg | EG SpA |
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 047251032 | Ebastina 30 cpr orodispersibili 10 mg (Aurobindo Pharma Italia) | Aurobindo Pharma Italia Srl | Cancellata |
-| 034930014 | Kestine 30 cpr rivestite 10 mg | Almirall S.A. | Cancellata |
-| 034930141 | Kestine orale 30 dosi liofilizzato 10 mg | Almirall S.A. | Cancellata |
-| 044598035 | Ebastina 30 cpr orodispersibili 10 mg | Aristo Pharma GmbH | Cancellata |
-| 043728029 | Ebastina 30 cpr orodispersibili 10 mg | EG SpA | Cancellata |
-
----
+Sono mostrate le prime 5 autorizzazioni; l'elenco completo comprende 10 autorizzazioni.
 
 ## Considerazioni di sicurezza
 
-Per l'ebastina non sono disponibili dati di sicurezza verificati (avvertenze e controindicazioni del foglio illustrativo AIFA non acquisiti; nessuna interazione farmacologica registrata nei dati compilati).
+Per le informazioni di sicurezza si rimanda al foglio illustrativo.
 
-Un punto di attenzione per l'indicazione cardiaca proposta: per alcuni antistaminici H1 (ad es. terfenadina e astemizolo) sono state descritte preoccupazioni relative al prolungamento dell'intervallo QT. Il profilo di sicurezza dell'ebastina nei pazienti con cardiopatia ischemica non è stato valutato in questo report e richiede una verifica specifica.
-
-Per le informazioni complete di sicurezza si rimanda al foglio illustrativo.
-
----
+Un aspetto da considerare: per gli antistaminici H1 sono state segnalate preoccupazioni sull'intervallo QT (ad esempio con terfenadina e astemizolo). Il profilo di sicurezza di ebastina nei pazienti con cardiopatia ischemica non è stato valutato nei dati compilati, ed è un punto critico per qualsiasi ipotesi di impiego in ambito cardiovascolare.
 
 ## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa esclusivamente sul modello TxGNN (livello di evidenza L5), senza studi clinici, letteratura o meccanismo documentato. Inoltre, tutte le autorizzazioni italiane sono cancellate e permangono dubbi di sicurezza cardiaca (QT) in un contesto di cardiopatia ischemica.
+La previsione si basa solo sul modello TxGNN, senza studi clinici né pubblicazioni sulla malattia coronarica; il livello di evidenza è L5. In più, il profilo di sicurezza cardiaca in questa popolazione non è noto.
 
 **Per procedere sono necessari:**
-- Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
-- Dati sul meccanismo d'azione (ad es. tramite DrugBank)
-- Revisione sistematica della letteratura preclinica e clinica su antistaminici H1 e malattia coronarica/ischemia miocardica
-- Valutazione della sicurezza cardiaca, in particolare QT e uso in pazienti con cardiopatia ischemica
-- Verifica della disponibilità del prodotto e delle vie di somministrazione, dato che non esistono autorizzazioni valide in Italia
+- Dati sul meccanismo d'azione di ebastina e sulla sua rilevanza per la fisiopatologia coronarica
+- Una revisione sistematica della letteratura e dei registri di studi clinici sulla malattia coronarica
+- Informazioni di sicurezza dal foglio illustrativo AIFA, con valutazione dell'effetto sull'intervallo QT e della sicurezza in pazienti con cardiopatia ischemica
+- Studi preclinici che verifichino il ruolo del blocco H1 nella malattia coronarica
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

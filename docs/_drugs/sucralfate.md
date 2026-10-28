@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sucralfate
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 412
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (livello di evidenza L5). Indicazione originale: Ulcera duodenale (dal grafo di conoscenza"
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sucralfate
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L2** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Sucralfato: Dall'ulcera duodenale al reflusso duodeno-gastrico
+## Sucralfate: Reflusso duodeno-gastrico (duodenogastric reflux)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,21 +46,21 @@ una direzione supportata da **11 pubblicazioni** (tra cui 2 studi randomizzati c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ulcera duodenale (dal grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
-| Nuova indicazione prevista | Reflusso duodeno-gastrico |
-| Punteggio di predizione TxGNN | 99,37% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Reflusso duodeno-gastrico (duodenogastric reflux) |
+| Punteggio di predizione TxGNN | 0.9937 |
 | Livello di evidenza | L2 (valutazione indicata nei dati compilati; si basa su piccoli RCT pubblicati, non su studi di fase 2/3 registrati) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold (con indicazione di approfondire come quesito di ricerca) |
 
 ## Perché questa predizione è plausibile?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nella banca dati. Sulla base delle conoscenze note, il sucralfato forma una barriera viscosa e protettiva sulla mucosa gastrica ed esofagea lesionata e lega sali biliari e pepsina. Questo è coerente con un possibile effetto nel ridurre il danno mucosale causato dal materiale biliare e alcalino refluito dal duodeno.
 
-L'ulcera duodenale e il reflusso duodeno-gastrico condividono il meccanismo di danno della mucosa del tratto digestivo superiore: la protezione di barriera che favorisce la guarigione dell'ulcera può quindi essere utile anche nella gastrite e nell'esofagite da reflusso alcalino. L'alto punteggio TxGNN (0,994) è in linea con questo legame biologico.
+L'ulcera duodenale e il reflusso duodeno-gastrico condividono il meccanismo di danno della mucosa del tratto digestivo superiore: la protezione di barriera che favorisce la guarigione dell'ulcera può quindi essere utile anche nella gastrite e nell'esofagite da reflusso alcalino. L'alto punteggio TxGNN (0,9937) è in linea con questo legame biologico.
 
-Per contro, la seconda predizione del modello, l'**ostruzione duodenale** (punteggio 99,30%), non ha un legame meccanicistico credibile: il sucralfato non risolve un'ostruzione meccanica o funzionale. Il punteggio elevato riflette probabilmente la vicinanza nel grafo con l'ulcera duodenale (le cicatrici da ulcera possono causare ostruzione). Evidenza L5, raccomandazione Hold.
+Per contro, la seconda predizione del modello, l'**ostruzione duodenale** (punteggio 0,9930), non ha un legame meccanicistico credibile: il sucralfato non risolve un'ostruzione meccanica o funzionale. Il punteggio, che proviene dal modello TxGNN (deep learning), può riflettere somiglianze apprese dal modello tra malattie correlate, come l'ulcera duodenale (le cicatrici da ulcera possono causare ostruzione), e non un'evidenza biologica. Evidenza L5, raccomandazione Hold.
 
 ## Evidenza dagli studi clinici
 
@@ -91,7 +91,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 022803074 | ANTEPSIN polvere orale 30 bustine 2 g (Baldacci) | Polvere orale | Non disponibile |
 | 034788012 | SUCRALFATO granulato orale 30 bustine 2 g (DOC Generici) | Granulato orale | Non disponibile |
 
-Tutte le 7 autorizzazioni risultano cancellate; nessuna è attualmente valida.
 
 ## Considerazioni sulla sicurezza
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 408
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (99,77%) (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C"
+last_modified_at: 2026-10-28
 monitor_inn: "sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
+description: "Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **8** 
+Livello di evidenza: **L2** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Sofosbuvir: dall'epatite C cronica all'epatite E (infezione da virus dell'epatite E)
+## Sofosbuvir: Infezione da virus dell'epatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -41,18 +41,18 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 Sofosbuvir è un analogo nucleotidico originariamente usato per l'infezione cronica da virus dell'epatite C (HCV).
 Il modello TxGNN lo prevede potenzialmente utile per diverse infezioni virali; tra le indicazioni predette, quella con il supporto più coerente sul piano meccanicistico e clinico diretto è l'**infezione da virus dell'epatite E (HEV)**, con **2 studi clinici** associati (di cui 1 specifico, di fase 2 su 10 pazienti) e **19 pubblicazioni** nei dati compilati. L'indicazione di rango 1 (epatite B) è invece considerata un probabile artefatto di prossimità nella rete di conoscenza.
 
-> Nota metodologica: la predizione con il punteggio più alto è l'epatite B (99,77%), ma l'analisi dei dati mostra che non esiste un meccanismo antivirale plausibile contro l'HBV. Questo report approfondisce quindi l'epatite E, e riassume le altre predizioni nella sezione dedicata.
+> Nota metodologica: la predizione con il punteggio più alto è l'epatite B (0,9977), ma l'analisi dei dati mostra che non esiste un meccanismo antivirale plausibile contro l'HBV. Questo report approfondisce quindi l'epatite E, e riassume le altre predizioni nella sezione dedicata.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite C |
-| Nuova indicazione predetta (rango 1 TxGNN) | Infezione da virus dell'epatite B (99,77%) |
-| Nuova indicazione approfondita | Infezione da virus dell'epatite E (99,49%) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Infezione da virus dell'epatite B (hepatitis B virus infection) |
+| Nuova indicazione approfondita | Hepatitis B virus infection |
 | Livello di evidenza | L2 (epatite E); L2 per epatite B ma solo come questione di sicurezza |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold (con domanda di ricerca aperta sull'epatite E) |
 
 ## Perché questa predizione è ragionevole?
@@ -101,11 +101,11 @@ Studi più rilevanti per l'epatite B (rango 1), da leggere come questione di sic
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044928024 | EPCLUSA 28 cpr rivestite 200 mg + 50 mg flacone | Compresse rivestite | Non disponibile nei dati compilati (autorizzazione cancellata) |
-| 044928048 | EPCLUSA 28 bust grat 200 mg + 50 mg | Granulato in bustine | Non disponibile (cancellata) |
-| 044928036 | EPCLUSA 28 bust grat 150 mg + 37,5 mg | Granulato in bustine | Non disponibile (cancellata) |
-| 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg flacone | Compresse rivestite | Non disponibile (cancellata) |
-| 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | Compresse rivestite | Non disponibile (cancellata) |
+| 044928024 | EPCLUSA 28 cpr rivestite 200 mg + 50 mg flacone | Compresse rivestite | Non disponibile nei dati compilati (autorizzazione valida) |
+| 044928048 | EPCLUSA 28 bust grat 200 mg + 50 mg | Granulato in bustine | Non disponibile (valida) |
+| 044928036 | EPCLUSA 28 bust grat 150 mg + 37,5 mg | Granulato in bustine | Non disponibile (valida) |
+| 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
+| 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
 
 Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide.
 
@@ -124,13 +124,13 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 
 | Indicazione | Punteggio TxGNN | Livello di evidenza | Valutazione |
 |---|---|---|---|
-| Infezione da HBV | 99,77% | L2 | Nessun meccanismo plausibile; dati solo di co-infezione, utili come questione di sicurezza |
-| Epatite virale, animale | 99,48% | L4 | Categoria troppo vaga; nessuno studio clinico. Hold |
-| Epatite A | 99,48% | L4 | Un solo studio in vitro; gli studi associati sono tutti su HCV. Hold |
-| Febbre emorragica di Omsk | 99,47% | L5 | Solo predizione, nessuna evidenza specifica. Hold |
-| Epatite B cronica | 99,46% | L2 | Come per l'HBV: questione di sicurezza, non di efficacia |
-| Malattia della foresta di Kyasanur | 99,45% | L5 | Un solo studio biochimico/in vitro. Hold |
-| Infezione da HIV | 99,23% | L3 | Nessun meccanismo antiretrovirale; i dati riguardano il trattamento dell'HCV in co-infetti, cioè l'indicazione originale |
+| Infezione da HBV | 0,9977 | L2 | Nessun meccanismo plausibile; dati solo di co-infezione, utili come questione di sicurezza |
+| Epatite virale, animale | 0,9948 | L4 | Categoria troppo vaga; nessuno studio clinico. Hold |
+| Epatite A | 0,9948 | L4 | Un solo studio in vitro; gli studi associati sono tutti su HCV. Hold |
+| Febbre emorragica di Omsk | 0,9947 | L5 | Solo predizione, nessuna evidenza specifica. Hold |
+| Epatite B cronica | 0,9946 | L2 | Come per l'HBV: questione di sicurezza, non di efficacia |
+| Malattia della foresta di Kyasanur | 0,9945 | L5 | Un solo studio biochimico/in vitro. Hold |
+| Infezione da HIV | 0,9923 | L3 | Nessun meccanismo antiretrovirale; i dati riguardano il trattamento dell'HCV in co-infetti, cioè l'indicazione originale |
 
 ## Conclusione e prossimi passi
 

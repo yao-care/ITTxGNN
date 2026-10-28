@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Solo previsione del modello (L5)
 nav_order: 312
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxifloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite, peritonite, congiuntivite, peste…"
+description: "Moxifloxacina: nuova indicazione prevista, sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite, peritonite, congiuntivite, peste…"
 monitor_inn: "Moxifloxacin"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 ## Riepilogo in una frase
 
 La moxifloxacina è un antibiotico fluorochinolonico, utilizzato originariamente per infezioni batteriche come polmonite, peritonite, congiuntivite e peste.
-Il modello TxGNN la indica come potenzialmente efficace per la **sindrome da iperviscosità policlonale**, ma per questa predizione **non esistono studi clinici né pubblicazioni** a supporto. Il punteggio elevato sembra un artefatto del grafo di conoscenza.
+Il modello TxGNN (deep learning) la indica come potenzialmente efficace per la **sindrome da iperviscosità policlonale**, ma per questa predizione **non esistono studi clinici né pubblicazioni** a supporto. Il punteggio elevato deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
 ## Panoramica rapida
 
@@ -47,17 +47,17 @@ Il modello TxGNN la indica come potenzialmente efficace per la **sindrome da ipe
 |------|------|
 | Indicazione originale | Infezioni batteriche (polmonite, peritonite, congiuntivite, peste, infezioni da stafilococco e streptococco, ecc.); il testo delle indicazioni autorizzate AIFA non è disponibile |
 | Nuova indicazione predetta | Sindrome da iperviscosità policlonale |
-| Punteggio di predizione TxGNN | 99,98% |
+| Punteggio di predizione TxGNN | 0,9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
 I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In generale, la moxifloxacina inibisce la DNA girasi e la topoisomerasi IV batteriche, e la sua efficacia nelle infezioni è consolidata.
 
-Per la sindrome da iperviscosità policlonale, causata da un eccesso di immunoglobuline policlonali, **non si identifica un meccanismo plausibile**. Un antibatterico non agisce sulla produzione o sull'accumulo di immunoglobuline. Il punteggio TxGNN molto alto (99,98%) è verosimilmente un artefatto del grafo di conoscenza, non il riflesso di un legame biologico reale.
+Per la sindrome da iperviscosità policlonale, causata da un eccesso di immunoglobuline policlonali, **non si identifica un meccanismo plausibile**. Un antibatterico non agisce sulla produzione o sull'accumulo di immunoglobuline. Il punteggio TxGNN molto alto (0,9998) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non un legame biologico reale.
 
 Anche le altre predizioni ad alto punteggio mostrano lo stesso limite: iperamilasemia, analbuminemia congenita, incompatibilità di gruppo sanguigno e condizioni ematologiche premaligne non hanno alcun razionale meccanicistico. Le uniche piste con un legame indiretto sono:
 
@@ -76,11 +76,11 @@ Per l'indicazione principale attualmente non è disponibile letteratura correlat
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 046817019 | Moxifloxacina*5 cpr rivestite 400 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 040580019 | Moxifloxacina*5 cpr rivestite 400 mg (Teva Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 043000013 | Moxifloxacina*5 cpr rivestite 400 mg (Krka) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 042077026 | Moxifloxacina*5 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 034436016 | Avalox*5 cpr rivestite 400 mg (Bayer) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 046817019 | Moxifloxacina*5 cpr rivestite 400 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 040580019 | Moxifloxacina*5 cpr rivestite 400 mg (Teva Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 043000013 | Moxifloxacina*5 cpr rivestite 400 mg (Krka) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 042077026 | Moxifloxacina*5 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034436016 | Avalox*5 cpr rivestite 400 mg (Bayer) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

@@ -48,10 +48,10 @@ Il dienogest è un progestinico selettivo, originariamente utilizzato nel tratta
 |------|------|
 | Indicazione originale | Endometriosi (dato dalla letteratura; i testi delle indicazioni nelle autorizzazioni AIFA non sono disponibili) |
 | Nuova indicazione predetta | Amenorrea |
-| Punteggio di predizione TxGNN | 99,71% |
+| Punteggio di predizione TxGNN | 0,9971 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
+| Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione raccomandata | Hold |
 
 ---

@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Empagliflozin: nuova indicazione prevista, Sindrome della rigidità focale degli arti (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2 (dalle indi…"
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+last_modified_at: 2026-10-27
+description: "Empagliflozin: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Empagliflozin
@@ -33,41 +33,38 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Empagliflozin: Dal diabete di tipo 2 alla sindrome della rigidità focale degli arti
+## Empagliflozin: inibitore di SGLT2 → sindrome dell'arto rigido focale (focal stiff limb syndrome)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Empagliflozin è un inibitore di SGLT2 originariamente usato per il trattamento del diabete mellito di tipo 2. Il modello TxGNN ne prevede una possibile efficacia nella **sindrome della rigidità focale degli arti (focal stiff limb syndrome)**, ma al momento **non risultano studi clinici né pubblicazioni** a sostegno: la predizione si basa solo sul modello.
+Empagliflozin è un inibitore del co-trasportatore sodio-glucosio di tipo 2 (SGLT2), utilizzato nel controllo della glicemia. Il modello TxGNN prevede un possibile effetto per la **sindrome dell'arto rigido focale (focal stiff limb syndrome)**, ma al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
+
+---
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito di tipo 2 (dalle indicazioni originali del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome della rigidità focale degli arti (focal stiff limb syndrome) |
-| Punteggio di predizione TxGNN | 99,06% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome dell'arto rigido focale (focal stiff limb syndrome) |
+| Punteggio di previsione TxGNN | 0,9906 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole?
+---
 
-I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. Sulla base delle informazioni note, empagliflozin è un inibitore del cotrasportatore sodio-glucosio di tipo 2 (SGLT2) a livello del tubulo prossimale renale e riduce il riassorbimento del glucosio. La sua efficacia nel diabete di tipo 2 è consolidata.
+## Perché questa previsione potrebbe avere senso?
 
-La sindrome della rigidità focale degli arti è una variante dello spettro della sindrome della persona rigida, un disturbo autoimmune con ridotta trasmissione GABAergica centrale (spesso con anticorpi anti-GAD65). Non emerge un collegamento meccanicistico diretto con l'inibizione di SGLT2. Eventuali ipotesi, come effetti antinfiammatori o metabolici, sono speculative. L'unico legame plausibile è la frequente comorbilità tra diabete autoimmune e positività anti-GAD65: si tratta di un'associazione, non di una motivazione terapeutica.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In generale, empagliflozin inibisce SGLT2 nel tubulo prossimale renale e riduce il riassorbimento di glucosio.
 
-Lo stesso punteggio (99,06%) è attribuito anche alla sindrome della persona rigida classica, il che suggerisce un segnale condiviso derivante dalla vicinanza nell'ontologia delle malattie e non evidenze indipendenti.
+La sindrome dell'arto rigido focale appartiene allo spettro della sindrome della persona rigida, un disturbo autoimmune con ridotta trasmissione inibitoria GABAergica (spesso con anticorpi anti-GAD65). Non si osserva un legame meccanicistico diretto con l'inibizione di SGLT2. Eventuali collegamenti sarebbero speculativi, per esempio tramite effetti antinfiammatori o metabolici, oppure tramite la frequente coesistenza di diabete autoimmune e positività anti-GAD65. Quest'ultima è però un'associazione di comorbidità, non una base terapeutica.
 
-## Predizioni alternative del modello
+Il punteggio elevato va quindi interpretato come un segnale statistico del modello, non come prova di efficacia.
 
-| Rango | Malattia | Punteggio TxGNN | Livello di evidenza | Decisione |
-|------|------|------|------|------|
-| 2 | Sindrome della persona rigida classica | 99,06% | L5 | Hold |
-| 3 | Opsismodisplasia | 99,03% | L5 | Hold |
-
-Per entrambe non sono disponibili studi clinici né letteratura. Nell'opsismodisplasia (displasia scheletrica congenita da mutazioni di INPPL1/SHIP2) esiste un possibile collegamento a livello di rete con la via di segnalazione dell'insulina, ma empagliflozin non agisce su SHIP2 né sullo sviluppo scheletrico; trattandosi di una condizione pediatrica e strutturale, la sicurezza in questa popolazione non è caratterizzata.
+---
 
 ## Evidenze da studi clinici
 
@@ -77,40 +74,40 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non è disponibile letteratura correlata.
 
+---
+
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043443136 | JARDIANCE 28 cpr rivestite 10 mg (Boehringer Ingelheim Int. GmbH) | Compresse rivestite | Cancellata |
-| 043443047 | JARDIANCE 28 cpr rivestite 25 mg (Boehringer Ingelheim Int. GmbH) | Compresse rivestite | Cancellata |
+| 043443136 | JARDIANCE 28 compresse rivestite 10 mg | Non indicata | Non registrata nei dati locali |
+| 043443047 | JARDIANCE 28 compresse rivestite 25 mg | Non indicata | Non registrata nei dati locali |
 
-Entrambe le autorizzazioni risultano cancellate; nessuna è attualmente valida.
+---
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-I dati su avvertenze e controindicazioni non sono disponibili: si rimanda al foglio illustrativo.
+**Interazioni farmacologiche** (100 interazioni complessive nei dati compilati; principali esempi):
 
-**Interazioni farmacologiche**: dalla ricerca completata risultano 100 interazioni. Tra quelle esaminate, la maggior parte è di livello **moderato**, ad esempio con:
-- simpaticomimetici e beta-agonisti: fenilefrina, pseudoefedrina, epinefrina, formoterolo, salbutamolo;
-- beta-bloccanti e calcio-antagonisti: acebutololo, nifedipina;
-- diuretici: acetazolamide, furosemide;
-- altri: etinilestradiolo, idrocortisone, etanolo, fosamprenavir, fosinopril, fosfenitoina, fostamatinib, fostemsavir, gemifloxacina.
+- Gravità moderata: fenilefrina, acebutololo, acetazolamide, formoterolo, pseudoefedrina, nifedipina, epinefrina, etinilestradiolo, idrocortisone, salbutamolo, etanolo, furosemide.
+- Gravità minore: idrocortisone (uso topico), alclometasone (uso topico).
 
-Le interazioni di livello **lieve** includono idrocortisone topico e alclometasone topico.
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
-## Conclusione e prossimi passi
+---
+
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è basata esclusivamente sul modello (L5), senza studi clinici né letteratura, e senza un collegamento meccanicistico plausibile tra l'inibizione di SGLT2 e la fisiopatologia autoimmune della rigidità degli arti. In più, le autorizzazioni italiane sono tutte cancellate.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né pubblicazioni sulla sindrome dell'arto rigido focale e senza un legame meccanicistico plausibile con l'inibizione di SGLT2.
 
-**Per procedere sarebbe necessario:**
-- Dati sul meccanismo d'azione e una giustificazione meccanicistica per le sindromi da rigidità.
-- Evidenze precliniche a supporto.
-- Foglio illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza.
-- Chiarimento dello stato autorizzativo in Italia.
-- Per l'opsismodisplasia, una valutazione specifica della sicurezza pediatrica.
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e una giustificazione biologica che colleghi SGLT2 alla via GABAergica/autoimmune coinvolta
+- Studi preclinici a supporto dell'ipotesi
+- Analisi delle avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Una valutazione della sicurezza nella popolazione di pazienti interessata
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

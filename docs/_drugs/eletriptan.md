@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Eletriptan
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 168
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Eletriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (con o senza aura)"
 monitor_inn: "ELETRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
+description: "Eletriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Eletriptan
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-## Eletriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Eletriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede che possa essere efficace anche per l'**emicrania con a
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (con o senza aura); il testo dell'indicazione approvata non è riportato nelle autorizzazioni AIFA compilate |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di predizione TxGNN | 99,99% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 15 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di predizione TxGNN | 0.9994 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -91,11 +91,11 @@ Tutte le 15 autorizzazioni risultano cancellate; non ve n'è alcuna attualmente 
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035307103 | RELPAX 3 cpr rivestite 20 mg | VIATRIS PHARMA Srl | Cancellata |
-| 045017124 | ELETRIPTAN 6 cpr rivestite 40 mg | EG SpA | Cancellata |
-| 035307305 | RELPAX 6 cpr rivestite 40 mg | VIATRIS PHARMA Srl | Cancellata |
-| 049946015 | RELPAX 6 cpr rivestite 40 mg | DIFARMED S.L.U. | Cancellata |
-| 042410148 | ELETRIPTAN 6 cpr rivestite 40 mg | VIATRIS PHARMA Srl | Cancellata |
+| 035307103 | RELPAX 3 cpr rivestite 20 mg | VIATRIS PHARMA Srl | Valida |
+| 045017124 | ELETRIPTAN 6 cpr rivestite 40 mg | EG SpA | Valida |
+| 035307305 | RELPAX 6 cpr rivestite 40 mg | VIATRIS PHARMA Srl | Valida |
+| 049946015 | RELPAX 6 cpr rivestite 40 mg | DIFARMED S.L.U. | Valida |
+| 042410148 | ELETRIPTAN 6 cpr rivestite 40 mg | VIATRIS PHARMA Srl | Valida |
 
 ## Considerazioni sulla sicurezza
 

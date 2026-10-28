@@ -6,9 +6,9 @@ nav_order: 229
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Griseofulvin: nuova indicazione prevista, Miasi (livello di evidenza L5). Indicazione originale: Tinea (tinea pedis, tinea corporis, tinea unguium…"
 monitor_inn: "Griseofulvin"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
+description: "Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Griseofulvin
@@ -33,34 +33,34 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Griseofulvina: Dalla tinea alla miasi (predizione TxGNN)
+## Griseofulvin: Myiasis
 {: .text-alpha }
 
 ## Riepilogo in una frase
 
-La griseofulvina è un antifungino orale utilizzato per le dermatofitosi (tinea del piede, del corpo, dell'unghia, della barba, del cuoio capelluto e dell'inguine). Il modello TxGNN la predice come potenzialmente efficace per la **miasi**, con un punteggio molto alto (99,4%). Per questa direzione non risultano **né sperimentazioni cliniche né pubblicazioni** tra i dati compilati per questo report: la predizione si basa solo sul modello.
+La griseofulvina è un antifungino orale utilizzato per le dermatofitosi (tinea del piede, del corpo, dell'unghia, della barba, del cuoio capelluto e dell'inguine). Il modello TxGNN la predice come potenzialmente efficace per la **miasi**, con un punteggio molto alto (0.9941). Per questa direzione non risultano **né sperimentazioni cliniche né pubblicazioni** tra i dati compilati per questo report: la predizione si basa solo sul modello.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Tinea (tinea pedis, tinea corporis, tinea unguium, tinea barbae e altre dermatofitosi). Il testo dell'indicazione approvata AIFA non è riportato nelle autorizzazioni; l'elenco deriva dal knowledge graph TxGNN |
-| Nuova indicazione predetta | Miasi |
-| Punteggio di predizione TxGNN | 99,41% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Myiasis |
+| Punteggio di predizione TxGNN | 0.9941 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole (o no)?
 
 I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In generale, la griseofulvina è un antifungino che interferisce con la funzione dei microtubuli e con la mitosi nei funghi. La sua efficacia nelle dermatofitosi è consolidata.
 
-Per la miasi, però, **non emerge un legame meccanicistico plausibile**. La miasi è un'infestazione da larve di ditteri e non esiste un'attività antifungina nota contro le larve di insetti. Il punteggio elevato riflette probabilmente la vicinanza nel grafo di conoscenza (ad esempio associazioni comuni con infezioni cutanee e dei tessuti molli) più che una plausibilità biologica. La gestione standard prevede la rimozione delle larve, la cura della ferita e, quando indicato, l'ivermectina.
+Per la miasi, però, **non emerge un legame meccanicistico plausibile**. La miasi è un'infestazione da larve di ditteri e non esiste un'attività antifungina nota contro le larve di insetti. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere similarità che il modello ha appreso tra malattie correlate (ad esempio tra infezioni cutanee e dei tessuti molli), non evidenza biologica. La gestione standard prevede la rimozione delle larve, la cura della ferita e, quando indicato, l'ivermectina.
 
 Lo stesso vale per le forme correlate predette: miasi da ferita, miasi strisciante (trattata con ivermectina o albendazolo, oppure con estrazione della larva) e miasi furuncolare (occlusione/estrazione della larva, talvolta ivermectina). In nessun caso è documentata un'attività larvicida della griseofulvina.
 
-Tra le altre predizioni, l'unica con un'ipotesi meccanicistica è l'**infezione da Echinococcus granulosus** (punteggio 99,3%). La griseofulvina agisce sul fuso mitotico, concettualmente affine ai benzimidazoli (albendazolo), che colpiscono la tubulina. Si tratta tuttavia di una pura ipotesi: non è dimostrata un'attività di legame alla tubulina negli elminti e non sono disponibili dati preclinici o clinici. Albendazolo, chirurgia e PAIR restano lo standard; sarebbero necessari test in vitro di attività protoscolicida prima di qualsiasi ulteriore valutazione.
+Tra le altre predizioni, l'unica con un'ipotesi meccanicistica è l'**infezione da Echinococcus granulosus** (punteggio 0.9932). La griseofulvina agisce sul fuso mitotico, concettualmente affine ai benzimidazoli (albendazolo), che colpiscono la tubulina. Si tratta tuttavia di una pura ipotesi: non è dimostrata un'attività di legame alla tubulina negli elminti e non sono disponibili dati preclinici o clinici. Albendazolo, chirurgia e PAIR restano lo standard; sarebbero necessari test in vitro di attività protoscolicida prima di qualsiasi ulteriore valutazione.
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -74,8 +74,8 @@ Al momento non è disponibile letteratura correlata.
 
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
 |---------|------|------|------|-----------|
-| 016762041 | FULCIN 500 mg, 10 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Cancellata | Non riportata |
-| 016762015 | FULCIN 125 mg, 20 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Cancellata | Non riportata |
+| 016762041 | FULCIN 500 mg, 10 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Valida | Non riportata |
+| 016762015 | FULCIN 125 mg, 20 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Valida | Non riportata |
 
 ## Considerazioni sulla sicurezza
 

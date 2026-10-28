@@ -6,7 +6,7 @@ nav_order: 338
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anom… (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
+description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
 monitor_inn: "pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Pancrelipase: Dall'insufficienza pancreatica esocrina al disturbo della fosforilazione ossidativa mitocondriale
+## Pancrelipase: Dall'insufficienza pancreatica esocrina al Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,10 +46,10 @@ La pancrelipase è una miscela di enzimi pancreatici (lipasi, proteasi, amilasi)
 |------|------|
 | Indicazione originale | Insufficienza pancreatica esocrina |
 | Nuova indicazione prevista | Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare |
-| Punteggio di previsione TxGNN | 99,99% |
+| Punteggio di previsione TxGNN | 0,9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (nessuna valida) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è (poco) ragionevole?
@@ -58,21 +58,21 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa 
 
 Le malattie della fosforilazione ossidativa mitocondriale da difetti genici nucleari compromettono la catena respiratoria all'interno della cellula. Un enzima digestivo non assorbito non può plausibilmente agire su questo bersaglio. L'unico beneficio concepibile sarebbe un supporto nutrizionale in caso di malassorbimento, che non modifica il decorso della malattia.
 
-Il punteggio molto alto (0,9999) riflette probabilmente artefatti del grafo di conoscenza e non una reale base biologica.
+Il punteggio molto alto (0.9999) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non una reale evidenza biologica.
 
 Anche le altre previsioni di rango elevato non hanno un legame meccanicistico credibile e restano tutte a livello L5 senza sperimentazioni né letteratura:
 
 | Rango | Malattia prevista | Punteggio TxGNN | Considerazione |
 |---|---|---|---|
-| 2 | Nanismo ipofisario | 99,61% | Nessun effetto sull'asse dell'ormone della crescita |
-| 3 | Deficit di citocromo-c ossidasi | 99,59% | Difetto intramitocondriale; stesso artefatto dei disturbi mitocondriali |
-| 4 | Displasia ossea primaria | 99,53% | Difetto genetico strutturale, nessun meccanismo noto |
-| 5 | Carcinoma polmonare a cellule squamose | 99,46% | Nessuna attività antitumorale documentata |
-| 6 | Varici esofagee con sanguinamento | 99,32% | Nessun effetto sull'ipertensione portale; possibile irritazione mucosa |
-| 7 | Varici esofagee senza sanguinamento | 99,32% | Punteggio identico al precedente, previsione duplicata |
-| 8 | Leishmaniosi cutanea diffusa | 99,28% | Nessuna attività antiparassitaria |
-| 9 | Carcinoma neuroendocrino a grandi cellule del timo | 99,27% | Nessun meccanismo antitumorale |
-| 10 | Carcinoma neuroendocrino a grandi cellule del pancreas | 99,14% | Solo supporto sintomatico per l'insufficienza esocrina, non effetto antitumorale |
+| 2 | Nanismo ipofisario | 0,9961 | Nessun effetto sull'asse dell'ormone della crescita |
+| 3 | Deficit di citocromo-c ossidasi | 0,9959 | Difetto intramitocondriale; stesso artefatto dei disturbi mitocondriali |
+| 4 | Displasia ossea primaria | 0,9953 | Difetto genetico strutturale, nessun meccanismo noto |
+| 5 | Carcinoma polmonare a cellule squamose | 0,9946 | Nessuna attività antitumorale documentata |
+| 6 | Varici esofagee con sanguinamento | 0,9932 | Nessun effetto sull'ipertensione portale; possibile irritazione mucosa |
+| 7 | Varici esofagee senza sanguinamento | 0,9932 | Punteggio identico al precedente, previsione duplicata |
+| 8 | Leishmaniosi cutanea diffusa | 0,9928 | Nessuna attività antiparassitaria |
+| 9 | Carcinoma neuroendocrino a grandi cellule del timo | 0,9927 | Nessun meccanismo antitumorale |
+| 10 | Carcinoma neuroendocrino a grandi cellule del pancreas | 0,9914 | Solo supporto sintomatico per l'insufficienza esocrina, non effetto antitumorale |
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -86,8 +86,8 @@ Attualmente non risulta letteratura correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 029018064 | CREON 10.000UI*100 cps gastrores 150 mg rilascio modificato | VIATRIS ITALIA Srl | Cancellata |
-| 047002098 | CREONIPE*100 cps gastrores 420 mg 35.000 U flacone | VIATRIS HEALTHCARE LIMITED | Cancellata |
+| 029018064 | CREON 10.000UI*100 cps gastrores 150 mg rilascio modificato | VIATRIS ITALIA Srl | Valida |
+| 047002098 | CREONIPE*100 cps gastrores 420 mg 35.000 U flacone | VIATRIS HEALTHCARE LIMITED | Valida |
 
 ## Considerazioni sulla sicurezza
 

@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Testo di indicazione autorizzata non disponibile nei dati compilati.…"
 monitor_inn: "DICLOFENAC"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Diclofenac
@@ -33,88 +33,73 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Diclofenac: dai disturbi reumatici e dermatologici all'ipotricosi semplice del cuoio capelluto
+## Diclofenac: inibitore delle COX (FANS) → ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il diclofenac è un antinfiammatorio non steroideo (FANS) usato per artrite reumatoide, osteoartrosi, spondilite anchilosante e alcune patologie cutanee come la cheratosi attinica. Il modello TxGNN lo propone per l'**ipotricosi semplice del cuoio capelluto** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a sostegno di questa direzione: è una previsione puramente computazionale.
+Il diclofenac è un farmaco antinfiammatorio non steroideo (FANS) che inibisce le ciclossigenasi. Il modello TxGNN lo predice come potenzialmente utile per l'**ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp)**, con un punteggio molto alto (0,9969). Tuttavia, per questa indicazione non sono stati trovati **studi clinici né pubblicazioni**: la predizione si basa solo sul modello.
 
----
-
-## Quadro di sintesi
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Testo di indicazione autorizzata non disponibile nei dati compilati. Dal grafo di conoscenza: artrite reumatoide, osteoartrosi, spondilite anchilosante, cheratosi attinica |
-| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto |
-| Punteggio di predizione TxGNN | 99,69% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) |
+| Punteggio di predizione TxGNN | 0,9969 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa previsione è (poco) plausibile
+Dai dati compilati per questo report non sono disponibili informazioni dettagliate sul meccanismo d'azione. Il diclofenac appartiene alla classe dei FANS e agisce inibendo COX-1 e COX-2, riducendo la sintesi di prostaglandine.
 
-I dati compilati non riportano il meccanismo d'azione dettagliato. È noto che il diclofenac è un inibitore delle ciclossigenasi COX-1 e COX-2, e che riduce la sintesi di prostaglandine con effetto antinfiammatorio e analgesico.
-
-L'ipotricosi semplice è invece un disturbo genetico della crescita dei capelli, associato a varianti in geni come CDSN, APCDD1 e RPL21. L'inibizione delle COX non agisce su questi difetti di base e non è stato identificato alcun legame meccanicistico credibile.
-
-L'alto punteggio TxGNN riflette probabilmente la vicinanza nel grafo di conoscenza con le indicazioni dermatologiche del farmaco, come la cheratosi attinica, e non una reale base biologica. Un'ipotesi indiretta, ancora priva di supporto, riguarda il ruolo delle prostaglandine nel ciclo del capello (la PGD2 inibisce la crescita), ma resta puramente teorica.
-
----
+Non è stato identificato un legame meccanicistico plausibile con la nuova indicazione. L'ipotricosi semplice è un disturbo genetico della crescita dei capelli, associato a varianti in geni come CDSN, APCDD1 e RPL21. L'inibizione delle COX non agisce su questi difetti di base. L'alto punteggio del modello riflette una previsione basata sulle relazioni tra dati, priva di sostegno clinico o bibliografico.
 
 ## Evidenze da studi clinici
 
-Al momento non risultano studi clinici correlati registrati.
-
----
+Attualmente non risultano studi clinici registrati correlati a questa indicazione.
 
 ## Evidenze dalla letteratura
 
-Al momento non è disponibile letteratura correlata.
-
----
+Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate, nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Principali autorizzazioni:
+I dati locali riportano 20 autorizzazioni per prodotti a base di solo diclofenac; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali. Di seguito alcune delle principali autorizzazioni:
 
-| N. autorizzazione | Prodotto | Titolare |
-|---------|------|------|
-| 038049045 | EMINOCS, soluzione orale 100 ml 50 mg/ml | Dymalife Pharmaceutical Srl |
-| 035248018 | Diclofenac, 5 fiale IM 75 mg 3 ml | DOC Generici Srl |
-| 028945020 | VOLTFAST, 30 compresse rivestite 50 mg | Novartis Farma SpA |
-| 029456011 | Diclofenac, 30 compresse gastroresistenti 50 mg | EG SpA |
-| 045242070 | SOLACUTAN, gel 90 g 3% | Mibe Pharma Italia Srl |
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 038049045 | EMINOCS soluzione orale 100 ml 50 mg/ml | Soluzione orale | Non registrata |
+| 035248018 | DICLOFENAC 5 fiale IM 75 mg 3 ml | Fiale IM | Non registrata |
+| 028945020 | VOLTFAST 30 compresse rivestite 50 mg | Compresse rivestite | Non registrata |
+| 029456011 | DICLOFENAC 30 compresse gastroresistenti 50 mg | Compresse gastroresistenti | Non registrata |
+| 045242070 | SOLACUTAN gel 90 g 3% | Gel | Non registrata |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+**Controindicazioni segnalate per il diclofenac** (relazioni di classe, non tratte dal foglio illustrativo): ipertensione, insufficienza epatica e malattie del fegato, malattie della colecisti, insufficienza cardiaca congestizia, ulcera peptica (anche attiva), malattia infiammatoria intestinale, asma (anche intrinseco e allergico), diabete mellito e chetoacidosi diabetica, abuso/dipendenza da sostanze, disturbi della coagulazione, ictus e malattie cerebrovascolari, infarto miocardico, emoglobinopatie e anemie, danno epatico indotto da farmaci, malattie cardiovascolari e cheratite.
 
-Le avvertenze e le controindicazioni tratte dal foglio illustrativo non sono disponibili. Per la sicurezza si rimanda al foglio illustrativo.
+**Interazioni farmacologiche** (100 interazioni rilevate; principali):
+- Gravità moderata: idrocortisone, desametasone, betametasone, triamcinolone, budesonide, metformina, aprepitant, mesalazina, balsalazide, acido acetilsalicilico, sulfaniluree (glimepiride, glipizide, clorpropamide, acetoexamide), exenatide, fenfluramina e destrofenfluramina.
+- Gravità minore: famotidina, ranitidina, cimetidina.
 
-- **Condizioni associate a controindicazione nel grafo di conoscenza** (non dal testo del foglio illustrativo): ipertensione, insufficienza cardiaca congestizia, infarto del miocardio e altre malattie cardiovascolari, ictus e malattie cerebrovascolari, ulcera peptica (anche attiva), malattia infiammatoria intestinale, insufficienza epatica, malattie epatiche e danno epatico da farmaci, asma, diabete mellito e chetoacidosi diabetica, disturbi della coagulazione, anemia ed emoglobinopatie, malattie della colecisti, cheratite, abuso o dipendenza da sostanze.
-- **Interazioni farmacologiche**: sono state rilevate 100 interazioni in totale. Tra quelle mostrate, di gravità moderata: acido acetilsalicilico, corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), metformina e altri antidiabetici (glimepiride, glipizide, clorpropamide, acetoesamide, exenatide), mesalazina, balsalazide, aprepitant, fenfluramina e destrofenfluramina. Di gravità minore: famotidina, ranitidina, cimetidina.
-
----
+Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione per l'ipotricosi semplice del cuoio capelluto non ha alcun supporto clinico o bibliografico (L5) e nessun meccanismo plausibile.
-- Tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza del foglio illustrativo sono mancanti.
+La predizione è basata solo sul modello (L5): non vi sono studi clinici o pubblicazioni sull'ipotricosi semplice del cuoio capelluto e non esiste un legame meccanicistico plausibile con l'inibizione delle COX.
 
 **Per procedere sarebbe necessario:**
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni.
-- Reperire i dati di meccanismo d'azione da DrugBank.
-- Disporre di dati preclinici che colleghino l'inibizione delle COX alla biologia del follicolo pilifero.
-
-**Nota su un'altra previsione:** tra le previsioni valutate, l'**artrite idiopatica giovanile** (punteggio 99,25%) è l'unica con una letteratura di qualche rilievo (livello L3). Comprende piccoli studi clinici datati, come uno studio crossover del 1988 che confronta diclofenac, naprossene e tolmetina, e alcune revisioni. Si tratta però di un'estensione naturale dell'uso dei FANS nelle artriti già note, più che di un vero riposizionamento. Se lo si volesse approfondire, andrebbe verificato lo stato di mercato per le formulazioni e la regione rilevanti.
+- Dati sul meccanismo d'azione e una giustificazione biologica del legame con la crescita dei capelli
+- Studi preclinici o clinici direttamente sulla malattia in questione
+- Acquisizione e analisi del foglio illustrativo AIFA per avvertenze e controindicazioni
+- Verifica della compatibilità delle vie di somministrazione e della valutazione rischio-beneficio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

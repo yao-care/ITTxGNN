@@ -4,17 +4,17 @@ title: Pravastatin
 parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (dislipidemia e rischio cardiovascolare associati) (livello di evidenza L2). Indicazione originale: Iperlipidemie (ipertrigliceridemia, iperl…"
+indication_count: 6
+last_modified_at: 2026-10-28
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **9** 
+Livello di evidenza: **L2** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **9**
 
 </div>
 
-## Pravastatina: dall'iperlipidemia alla HIV (dislipidemia associata all'infezione da HIV)
+## Pravastatin: Infezione da HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,15 +48,15 @@ A sostegno di questa direzione ci sono **12 studi clinici** e **19 pubblicazioni
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperlipidemie (ipertrigliceridemia, iperlipidemia familiare combinata, iperlipoproteinemia) e malattie aterosclerotiche/cerebrovascolari (ictus, infarto cerebrale, aterosclerosi), secondo gli archi di indicazione del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile |
-| Nuova indicazione prevista | Infezione da HIV (dislipidemia e rischio cardiovascolare associati) |
-| Punteggio di previsione TxGNN | 99,74% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
+| Punteggio di previsione TxGNN | 0.9974 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
-**Nota sulla selezione.** La prima previsione per punteggio è l'ipercolesterolemia familiare omozigote (99,95%), ma i dati la collocano a livello L4 con raccomandazione "domanda di ricerca": l'unico studio di fase 3 riguarda l'alirocumab e non la pravastatina. L'indicazione con evidenza più solida e coerente con una raccomandazione operativa è l'infezione da HIV (L2), ed è quella trattata in questo report. Le altre previsioni sono riassunte nelle conclusioni.
+**Nota sulla selezione.** L'indicazione con evidenza più solida e coerente con una raccomandazione operativa è l'infezione da HIV (L2), ed è quella trattata in questo report. Le altre previsioni sono riassunte nelle conclusioni.
 
 ---
 
@@ -112,11 +112,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Il te
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 037517226 | Pravastatina 14 cpr 40 mg | Teva Italia Srl | Cancellata |
-| 041337167 | Pravastatina 10 cpr 20 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 039239280 | Pravastatina 14 cpr 40 mg | Sandoz GmbH | Cancellata |
-| 027309032 | Pravaselect 14 cpr 40 mg | A. Menarini Ind. Farm. Riun. Srl | Cancellata |
-| 027776032 | Prasterol 14 cpr 40 mg | Ist. Lusofarmaco d'Italia SpA | Cancellata |
+| 037517226 | Pravastatina 14 cpr 40 mg | Teva Italia Srl | Valida |
+| 041337167 | Pravastatina 10 cpr 20 mg | Aurobindo Pharma Italia Srl | Valida |
+| 039239280 | Pravastatina 14 cpr 40 mg | Sandoz GmbH | Valida |
+| 027309032 | Pravaselect 14 cpr 40 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
+| 027776032 | Prasterol 14 cpr 40 mg | Ist. Lusofarmaco d'Italia SpA | Valida |
 
 ---
 
@@ -147,8 +147,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - Chiarire la situazione regolatoria, dato che tutte le autorizzazioni sono cancellate.
 
 **Altre previsioni TxGNN (sintesi):**
-- *Ipercolesterolemia familiare* (99,34%, L3): decisione "Proceed with Guardrails", con dati pediatrici specifici sulla pravastatina (PMID 12891228, 31618540); è un uso vicino all'indicazione originale più che un vero riposizionamento. Cautele: dosaggio pediatrico e monitoraggio della crescita.
-- *Ipercolesterolemia familiare omozigote* (99,95%, L4): domanda di ricerca; efficacia limitata delle statine per la funzione residua del recettore LDL, nessuno studio diretto sulla pravastatina.
+- Cautele: dosaggio pediatrico e monitoraggio della crescita.
 - *Ipoalfalipoproteinemia* (L4), *deficit di colesterolo 7α-idrossilasi*, *deficit di CETP*, *disturbo del neurosviluppo con atassia*, *infezione da virus dell'immunodeficienza delle scimmie* e *AIDS felina* (L5): Hold, senza studi di supporto o con rilevanza clinica umana limitata.
 ## Avvertenza
 

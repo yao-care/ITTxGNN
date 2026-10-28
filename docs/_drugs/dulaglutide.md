@@ -8,6 +8,7 @@ nav_order: 157
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dulaglutide
@@ -53,8 +54,8 @@ Questo rapporto documenta lo stato delle prove disponibili e raccomanda un risan
 | Nuova Indicazione Prevista | Non disponibile — la pipeline non ha restituito previsioni |
 | Punteggio di Previsione TxGNN | N/A |
 | Livello di Evidenza | N/A |
-| Stato del Mercato Italiano | Non trovato nella query normativa (0 licenze restituite) |
-| Numero di Autorizzazioni | 0 |
+| Stato del Mercato Italiano | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di Autorizzazioni | 2 (valide: 2) |
 | Decisione Consigliata | **Sospensione** |
 
 ---

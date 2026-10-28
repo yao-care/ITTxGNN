@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tetracycline
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 432
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Tetracycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Infezioni delle vie urinarie, bronchite, acne, antrace, gonorrea…"
+last_modified_at: 2026-10-28
 monitor_inn: "tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
+description: "Tetracycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati lo…"
 ---
 
 # Tetracycline
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-## Tetraciclina: dall'uso in infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Tetracycline: Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ L'evidenza è quindi molto limitata e il punteggio elevato riflette soprattutto 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni delle vie urinarie, bronchite, acne, antrace, gonorrea, faringite, congiuntivite, polmonite e altre infezioni batteriche (dalle indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,58% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9958 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -65,9 +65,9 @@ I dati compilati per questo report non includono una descrizione dettagliata del
 Il legame tra indicazione originale e nuova è soprattutto di prossimità: la cheratite epiteliale puntata può comparire dopo una congiuntivite da clamidia. L'unico articolo recuperato (PMID 1424659) descrive però una cheratite persistente comparsa *dopo* la risoluzione della congiuntivite trattata con tetraciclina o doxiciclina. Non dimostra quindi un beneficio della tetraciclina sulla cheratite. Il punteggio elevato riflette probabilmente la vicinanza all'indicazione già esistente di congiuntivite, più che nuove prove.
 
 Altre predizioni nello stesso elenco (per completezza):
-- **Rinosinusite cronica** (punteggio 99,15%, livello L4): la più supportata da letteratura, ma riguarda soprattutto doxiciclina e omadacicline, non la tetraciclina. È formulabile come domanda di ricerca a livello di classe.
-- **Sinusite etmoidale cronica** (99,15%, L4): solo uno studio di sensibilità antibiotica in vitro.
-- **Neoplasia dei seni paranasali** (99,10%, L5): nessuna evidenza, solo predizione del modello.
+- **Rinosinusite cronica** (punteggio 0,9915, livello L4): la più supportata da letteratura, ma riguarda soprattutto doxiciclina e omadacicline, non la tetraciclina. È formulabile come domanda di ricerca a livello di classe.
+- **Sinusite etmoidale cronica** (0.9915, L4): solo uno studio di sensibilità antibiotica in vitro.
+- **Neoplasia dei seni paranasali** (0.9910, L5): nessuna evidenza, solo predizione del modello.
 
 ---
 
@@ -89,7 +89,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | Non indicata | Non indicata (autorizzazione revocata) |
+| 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

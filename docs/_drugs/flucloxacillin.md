@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Flucloxacillin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 200
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flucloxacillin: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Non disponibile"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Pr
 # Flucloxacillin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ Il modello TxGNN prevede un possibile effetto su **congiuntivite** (punteggio mo
 |------|------|
 | Indicazione originale | Non disponibile (il testo dell'indicazione approvata è vuoto nella licenza AIFA) |
 | Nuova indicazione prevista | Congiuntivite |
-| Punteggio di predizione TxGNN | 99,84% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 1 (0 valide, 1 cancellata) |
+| Punteggio di predizione TxGNN | 0,9984 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -59,7 +59,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla 
 
 Il legame, però, è solo plausibile e non dimostrato. L'unica pubblicazione associata riguarda *Neisseria gonorrhoeae*, un patogeno che non è un bersaglio tipico della flucloxacillina, e non documenta alcuna efficacia del farmaco. L'alto punteggio TxGNN non è sostenuto da dati clinici.
 
-Gli altri esiti previsti dal modello (artrite reumatoide, lebbra, angina di Prinzmetal, sindromi congenite, malattie trombotiche e deficit di antitrombina) non hanno un meccanismo plausibile o hanno solo riscontri indiretti. Per l'artrite reumatoide, la letteratura riguarda infezioni articolari sovrapposte, interazioni con il metotrexato e reazioni avverse, non un beneficio sulla malattia. Queste predizioni sono probabilmente artefatti del grafo di conoscenza.
+Gli altri esiti previsti dal modello (artrite reumatoide, lebbra, angina di Prinzmetal, sindromi congenite, malattie trombotiche e deficit di antitrombina) non hanno un meccanismo plausibile o hanno solo riscontri indiretti. Per l'artrite reumatoide, la letteratura riguarda infezioni articolari sovrapposte, interazioni con il metotrexato e reazioni avverse, non un beneficio sulla malattia. Questi punteggi provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -75,7 +75,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033623012 | FLUCACID*12 cpr 1 g (EURO-PHARMA Srl), stato: cancellata | Non indicata | Non indicata |
+| 033623012 | FLUCACID*12 cpr 1 g (EURO-PHARMA Srl), stato: valida | Non indicata | Non indicata |
 
 ## Considerazioni sulla sicurezza
 

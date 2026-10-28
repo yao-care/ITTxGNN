@@ -4,17 +4,17 @@ title: Tretinoin
 parent: Solo previsione del modello (L5)
 nav_order: 450
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (livello di evidenza L5). Indicazione originale: Leucemia promielocitica acuta, acne, cheratosi acquisite…"
 monitor_inn: "Tretinoin"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tretinoina: dalla leucemia promielocitica acuta e dall'acne alla noduolosi reumatoide
+## Tretinoin: Noduolosi reumatoide (rheumatoid nodulosis)
 {: .text-alpha }
 
 ## Sintesi
 
 La tretinoina (acido all-trans retinoico) è un retinoide usato storicamente per l'acne, la leucemia promielocitica acuta, le cheratosi acquisite e la cheratodermia palmoplantare.
-Il modello TxGNN prevede una possibile efficacia nella **noduolosi reumatoide**, con un punteggio molto alto (99,84%), ma **senza studi clinici né pubblicazioni** nei dati compilati per questo report a sostegno di tale direzione.
+Il modello TxGNN prevede una possibile efficacia nella **noduolosi reumatoide**, con un punteggio molto alto (0,9984), ma **senza studi clinici né pubblicazioni** nei dati compilati per questo report a sostegno di tale direzione.
 
 ---
 
@@ -47,12 +47,12 @@ Il modello TxGNN prevede una possibile efficacia nella **noduolosi reumatoide**,
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Leucemia promielocitica acuta, acne, cheratosi acquisite, cheratodermia palmoplantare (da grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Noduolosi reumatoide |
-| Punteggio di previsione TxGNN | 99,84% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Noduolosi reumatoide (rheumatoid nodulosis) |
+| Punteggio di previsione TxGNN | 0.9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -83,7 +83,7 @@ Attualmente non è disponibile letteratura correlata alla noduolosi reumatoide.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029838024 | VESANOID 100 cps molli 10 mg flacone (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsule molli | Non riportata (autorizzazione cancellata) |
+| 029838024 | VESANOID 100 cps molli 10 mg flacone (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsule molli | Non riportata (autorizzazione valida) |
 
 ---
 

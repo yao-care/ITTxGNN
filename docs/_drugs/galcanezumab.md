@@ -47,24 +47,24 @@ Il modello TxGNN lo predice come potenzialmente efficace per la **carenza di cof
 |------|------|
 | Indicazione originale | Emicrania (anche con o senza aura); il testo dell'indicazione autorizzata in Italia non è disponibile |
 | Nuova indicazione prevista | Carenza di cofattore 2 dell'eparina |
-| Punteggio di previsione TxGNN | 99,50% |
+| Punteggio di previsione TxGNN | 0,9950 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è (poco) ragionevole?
 
 Il meccanismo d'azione dettagliato non è disponibile nei dati compilati. Per quanto noto, galcanezumab neutralizza il CGRP, un neuropeptide coinvolto nella vasodilatazione e nella trasmissione del dolore nell'emicrania.
 
-La carenza di cofattore 2 dell'eparina è un disordine trombofilico, legato a un'inibizione ridotta della trombina mediata dalla serpina (SERPIND1). Non esiste alcun collegamento noto tra il blocco del CGRP e l'inibizione della trombina o l'attività del cofattore dell'eparina. L'elevato punteggio TxGNN (0,995) riflette verosimilmente artefatti a livello di rete del grafo di conoscenza più che un razionale biologico.
+La carenza di cofattore 2 dell'eparina è un disordine trombofilico, legato a un'inibizione ridotta della trombina mediata dalla serpina (SERPIND1). Non esiste alcun collegamento noto tra il blocco del CGRP e l'inibizione della trombina o l'attività del cofattore dell'eparina. L'elevato punteggio TxGNN (0,9950) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 Anche le altre due previsioni di punta presentano la stessa debolezza:
 
 | Rango | Indicazione prevista | Punteggio TxGNN | Evidenza | Considerazione |
 |------|------|------|------|------|
-| 2 | Carenza di antitrombina di tipo 2 | 99,41% | L5, nessuno studio | Nessun ruolo noto del CGRP nella regolazione della coagulazione; gli approcci consolidati sono concentrati di antitrombina e anticoagulazione |
-| 3 | Eccesso di fattore V con trombosi spontanea | 99,41% | L5, nessuno studio | Nessun effetto noto sulla cascata coagulativa; i farmaci della via CGRP richiedono cautela vascolare in popolazioni ad alto rischio trombotico |
+| 2 | Carenza di antitrombina di tipo 2 | 0,9941 | L5, nessuno studio | Nessun ruolo noto del CGRP nella regolazione della coagulazione; gli approcci consolidati sono concentrati di antitrombina e anticoagulazione |
+| 3 | Eccesso di fattore V con trombosi spontanea | 0,9941 | L5, nessuno studio | Nessun effetto noto sulla cascata coagulativa; i farmaci della via CGRP richiedono cautela vascolare in popolazioni ad alto rischio trombotico |
 
 ## Evidenze da studi clinici
 
@@ -78,7 +78,7 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 047424015 | EMGALITY, 1 penna SC 120 mg/1 ml (Eli Lilly Nederland BV) | Penna sottocutanea | Non disponibile (autorizzazione cancellata) |
+| 047424015 | EMGALITY, 1 penna SC 120 mg/1 ml (Eli Lilly Nederland BV) | Penna sottocutanea | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

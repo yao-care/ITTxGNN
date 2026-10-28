@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Warfarin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 468
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (livello di evidenza L4). Indicazione originale: Embolia polmonare, malattia trombotica…"
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Warfarin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-## Warfarin: Dalla trombosi alla carenza di cofattore eparinico II
+## Warfarin: Carenza di cofattore eparinico II (heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il warfarin è un anticoagulante orale antagonista della vitamina K, utilizzato 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Embolia polmonare, malattia trombotica, embolia intracranica (dal grafo di conoscenza TxGNN; il testo AIFA non riporta l'indicazione) |
-| Nuova indicazione prevista | Carenza di cofattore eparinico II |
-| Punteggio di predizione TxGNN | 99,87% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) |
+| Punteggio di predizione TxGNN | 0.9987 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -92,7 +92,7 @@ Per completezza, per la predizione di rango 4 (trombofilia) è presente uno stud
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 016366027 | COUMADIN*30 cpr div 5 mg (TEOFARMA Srl) | Non indicata | Non indicata (autorizzazione revocata) |
+| 016366027 | COUMADIN*30 cpr div 5 mg (TEOFARMA Srl) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

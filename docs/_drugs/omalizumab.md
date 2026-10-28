@@ -6,9 +6,9 @@ nav_order: 328
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Omalizumab: nuova indicazione prevista, Bronchite (livello di evidenza L3). Indicazione originale: Asma (allergico e intrinseco)…"
 monitor_inn: "OMALIZUMAB"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
+description: "Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Omalizumab
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Omalizumab: Dall'asma allergico alla bronchite
+## Omalizumab: Bronchite (bronchitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN ne prevede una possibile efficacia nella **bronchite**, ma il s
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Asma (allergico e intrinseco), orticaria idiopatica (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Bronchite |
-| Punteggio di predizione TxGNN | 99,999% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Bronchite (bronchitis) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L3 |
-| Stato sul mercato italiano | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato sul mercato italiano | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -82,10 +82,10 @@ Il segnale per la bronchite sembra dovuto soprattutto alla sovrapposizione con l
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036892053 | XOLAIR*1 siringa SC 75 mg 0,5 ml (revocata) | Non indicata | Non disponibile |
-| 036892089 | XOLAIR*1 siringa SC 150 mg 1 ml (revocata) | Non indicata | Non disponibile |
+| 036892053 | XOLAIR*1 siringa SC 75 mg 0,5 ml (valida) | Non indicata | Non disponibile |
+| 036892089 | XOLAIR*1 siringa SC 150 mg 1 ml (valida) | Non indicata | Non disponibile |
 
-Titolare: Novartis Europharm Ltd. Entrambe le autorizzazioni risultano revocate; nessuna è attualmente valida.
+Titolare: Novartis Europharm Ltd.
 
 ## Considerazioni sulla sicurezza
 

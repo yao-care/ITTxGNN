@@ -6,9 +6,9 @@ nav_order: 187
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Exemestane: nuova indicazione prevista, Deficit di antitrombina di tipo 2 (rango 1) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni dell…"
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
+description: "Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Exemestane
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Exemestane: dal carcinoma mammario all'amenorrea (predizione di bassa plausibilità)
+## Exemestane: Antithrombin deficiency type 2
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,11 +44,11 @@ Exemestane è un inibitore steroideo dell'aromatasi, usato nel trattamento del c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
-| Nuova indicazione predetta | Deficit di antitrombina di tipo 2 (rango 1) |
-| Punteggio di predizione TxGNN | 99,83% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Antithrombin deficiency type 2 |
+| Punteggio di predizione TxGNN | 0.9983 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -80,15 +80,15 @@ Per la predizione di rango 1 non è disponibile letteratura correlata. Di seguit
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni:
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
 |---------|------|------|------|-----------|
-| 034678033 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Pfizer Italia Srl | Cancellata |
-| 045700010 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Medifarm Srl | Cancellata |
-| 040320018 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | EG SpA | Cancellata |
-| 040535041 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | Sandoz SpA | Cancellata |
-| 040012015 | Axelta 30 cpr rivestite 25 mg | Compresse rivestite | Ist. Gentili Srl | Cancellata |
+| 034678033 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Pfizer Italia Srl | Valida |
+| 045700010 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Medifarm Srl | Valida |
+| 040320018 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | EG SpA | Valida |
+| 040535041 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | Sandoz SpA | Valida |
+| 040012015 | Axelta 30 cpr rivestite 25 mg | Compresse rivestite | Ist. Gentili Srl | Valida |
 
 ## Citotossicità
 

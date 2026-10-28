@@ -48,10 +48,10 @@ L'acido benzoico è presente nello sciroppo Paracodina (autorizzazione ora cance
 |------|------|
 | Indicazione originale | Pemfigo, malattia di Peyronie, fibromatosi del pene, sclerodermia, sclerosi sistemica, dermatomiosite (dati della base di conoscenza TxGNN; il testo autorizzativo AIFA non riporta indicazioni) |
 | Nuova indicazione predetta | Bronchite |
-| Punteggio di predizione TxGNN | 99,98% |
+| Punteggio di predizione TxGNN | 0,9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---

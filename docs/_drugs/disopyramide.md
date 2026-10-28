@@ -46,20 +46,20 @@ Disopyramide è un antiaritmico di classe Ia (bloccante dei canali del sodio con
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (nessun testo di indicazione nelle autorizzazioni AIFA) |
 | Nuova indicazione prevista | Sindrome di Tourette |
-| Punteggio di predizione TxGNN | 99,86% |
+| Punteggio di predizione TxGNN | 0,9986 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, disopyramide è un antiaritmico di classe Ia che blocca i canali del sodio cardiaci ed esercita un'azione anticolinergica.
 
-**Per la sindrome di Tourette non emerge alcun legame meccanicistico consolidato.** La fisiopatologia di questa condizione è legata soprattutto alla disfunzione dei circuiti dopaminergici cortico-striatali, che non sono un bersaglio riconosciuto di disopyramide. L'alto punteggio TxGNN è una predizione basata sul grafo di conoscenza e non è sostenuta da studi.
+**Per la sindrome di Tourette non emerge alcun legame meccanicistico consolidato.** La fisiopatologia di questa condizione è legata soprattutto alla disfunzione dei circuiti dopaminergici cortico-striatali, che non sono un bersaglio riconosciuto di disopyramide. L'alto punteggio deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche; la predizione non è sostenuta da studi.
 
 Anche le altre indicazioni predette di rango elevato presentano la stessa debolezza:
-- **ADHD (e sottotipo inattentivo)**, **tricotillomania**, **disturbo specifico dello sviluppo**: nessun legame plausibile; i punteggi riflettono verosimilmente la vicinanza nel grafo ai termini neuroevolutivi. Gli effetti anticolinergici e cardiaci potrebbero anzi aggiungere eventi avversi.
+- **ADHD (e sottotipo inattentivo)**, **tricotillomania**, **disturbo specifico dello sviluppo**: nessun legame plausibile; i punteggi derivano dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie neuroevolutive correlate, non evidenze biologiche. Gli effetti anticolinergici e cardiaci potrebbero anzi aggiungere eventi avversi.
 - **Sindrome facio-digito-genitale**, **fibroma condromixoide**, **neoplasia del nervo trigemino**: nessun razionale biologico.
 - **Flutter atriale neonatale idiopatico** e **tachicardia atriale multifocale**: esiste una plausibilità indiretta, trattandosi di aritmie, ma mancano dati specifici. La sicurezza neonatale è una forte preoccupazione, e la tachicardia atriale multifocale si tratta di norma con correzione della patologia polmonare di base, calcio-antagonisti o beta-bloccanti.
 
@@ -81,8 +81,8 @@ Per completezza, tra le indicazioni predette di rango inferiore, l'unica pubblic
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021894035 | RITMODAN*40 cps 100 mg | Non disponibile | Non disponibile (autorizzazione cancellata) |
-| 027218015 | RITMODAN RETARD*20 cpr 250 mg | Non disponibile | Non disponibile (autorizzazione cancellata) |
+| 021894035 | RITMODAN*40 cps 100 mg | Non disponibile | Non disponibile (autorizzazione valida) |
+| 027218015 | RITMODAN RETARD*20 cpr 250 mg | Non disponibile | Non disponibile (autorizzazione valida) |
 
 Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH. Entrambe le autorizzazioni risultano cancellate.
 

@@ -4,17 +4,17 @@ title: Aminophylline
 parent: Prove moderate (L3-L4)
 nav_order: 39
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Aminophylline: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile"
 monitor_inn: "aminophylline"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
 ---
 
 # Aminophylline
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ L'aminofillina (INN: aminophylline) è un derivato della teofillina, antagonista
 |------|------|
 | Indicazione originale | Non disponibile (il testo dell'indicazione nella licenza AIFA è vuoto) |
 | Nuova indicazione prevista | Emicrania (*migraine disorder*) |
-| Punteggio di previsione TxGNN | 99,88% |
+| Punteggio di previsione TxGNN | 0,9988 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -100,7 +100,7 @@ A titolo informativo, per l'ipertensione polmonare (seconda indicazione prevista
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029827033 | AMINOFILLINA*10 fiale EV 240 mg 10 ml (GALENICA SENESE Srl) | Non specificata | Non disponibile (autorizzazione revocata) |
+| 029827033 | AMINOFILLINA*10 fiale EV 240 mg 10 ml (GALENICA SENESE Srl) | Non specificata | Non disponibile (autorizzazione valida) |
 
 ---
 

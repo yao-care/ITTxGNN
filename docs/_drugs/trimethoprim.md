@@ -4,7 +4,7 @@ title: Trimethoprim
 parent: Solo previsione del modello (L5)
 nav_order: 454
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5)."
 monitor_inn: "trimethoprim"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 # Trimethoprim
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Il trimetoprim è un antibatterico originariamente usato per infezioni delle vie
 |------|------|
 | Indicazione originaria | Infezione delle vie urinarie, otite media infettiva, pneumocistosi, shigellosi, congiuntivite (testo approvato AIFA non disponibile) |
 | Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,57% |
+| Punteggio di predizione TxGNN | 0,9957 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 2 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -58,7 +58,6 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Tuttavia, la cheratocongiuntivite epiteliale puntata è spesso di origine virale (ad esempio adenovirale) o infiammatoria, quindi un antibatterico avrebbe verosimilmente un beneficio limitato. La predizione è puramente computazionale e va considerata un'ipotesi da verificare.
 
-Per completezza, la seconda predizione (congiuntivite, punteggio 99,17%) non è un vero riposizionamento: è già un uso originario del farmaco. Le pubblicazioni recuperate (vedi sotto) ne supportano l'impiego clinico, soprattutto nella forma topica.
 
 ## Evidenze da studi clinici
 
@@ -83,8 +82,8 @@ Per la cheratocongiuntivite epiteliale puntata non è disponibile alcuna lettera
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (cancellata) | Non specificata | Non specificata |
-| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (cancellata) | Non specificata | Non specificata |
+| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (valida) | Non specificata | Non specificata |
+| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (valida) | Non specificata | Non specificata |
 
 ## Considerazioni sulla sicurezza
 

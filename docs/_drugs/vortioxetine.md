@@ -4,17 +4,17 @@ title: Vortioxetine
 parent: Prove elevate (L1-L2)
 nav_order: 466
 evidence_level: L1
-indication_count: 5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Vortioxetine: nuova indicazione prevista, Melanconia (indicazione con le evidenze più solide tra le cinque cand… (livello di evidenza L1). Indicazione originale: Depressione unipolare, depressione en…"
 monitor_inn: "Vortioxetine"
-predicted_indications: ["neurotic disorder", "melancholia", "benign paroxysmal torticollis of infancy", "dysthymic disorder"]
+predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
+description: "Vortioxetine: nuova indicazione prevista, Neurotic disorder (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Vortioxetine
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **5** 
+Livello di evidenza: **L1** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **5**
 
 </div>
 
-## Vortioxetina: dalla depressione maggiore alla melanconia
+## Vortioxetine: Neurotic disorder
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,15 +46,15 @@ La vortioxetina è un antidepressivo multimodale, originariamente utilizzato per
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (da grafo di conoscenza; il testo di indicazione AIFA non è disponibile) |
-| Nuova indicazione prevista | Melanconia (indicazione con le evidenze più solide tra le cinque candidate; vedi nota sotto) |
-| Punteggio di previsione TxGNN | 99,09% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neurotic disorder |
+| Punteggio di previsione TxGNN | 0.9924 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 3 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
-**Nota:** nei dati compilati la prima previsione per punteggio è «disturbo nevrotico» (99,24%), ma il termine è obsoleto e non specifico, con evidenza L5. Questo report si concentra sulla «melanconia», che ha il supporto clinico più solido. Le altre candidate sono riassunte nella conclusione.
+**Nota:** nei dati compilati la prima previsione per punteggio è «disturbo nevrotico» (0,9924), ma il termine è obsoleto e non specifico, con evidenza L5. Questo report si concentra sulla «melanconia», che ha il supporto clinico più solido. Le altre candidate sono riassunte nella conclusione.
 
 ---
 
@@ -102,11 +102,10 @@ Va sottolineato che si tratta di una sovrapposizione con l'indicazione già appr
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043187020 | BRINTELLIX 28 cpr rivestite 5 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
-| 043187107 | BRINTELLIX 28 cpr rivestite 10 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
-| 043187362 | BRINTELLIX gocce orali 15 ml 20 mg/ml (H. Lundbeck A/S) | Gocce orali | Non disponibile (autorizzazione revocata) |
+| 043187020 | BRINTELLIX 28 cpr rivestite 5 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 043187107 | BRINTELLIX 28 cpr rivestite 10 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 043187362 | BRINTELLIX gocce orali 15 ml 20 mg/ml (H. Lundbeck A/S) | Gocce orali | Non disponibile (autorizzazione valida) |
 
-Tutte e tre le autorizzazioni risultano revocate: non vi sono autorizzazioni valide in Italia secondo i dati compilati.
 
 ---
 
@@ -137,10 +136,7 @@ Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lung
 
 | Indicazione prevista | Punteggio TxGNN | Livello | Decisione |
 |------|------|------|------|
-| Disturbo nevrotico | 99,24% | L5 | Hold: termine obsoleto e non specifico, nessuno studio, unica pubblicazione non specifica per la vortioxetina |
-| Depressione nevrotica | 99,09% | L4 | Research Question: termine storico riconducibile alla depressione maggiore, evidenza solo indiretta |
-| Torcicollo parossistico benigno dell'infanzia | 99,07% | L5 | Hold: nessun razionale meccanicistico, nessuno studio né letteratura, probabile artefatto del grafo di conoscenza |
-| Disturbo distimico | 99,02% | L3 | Research Question: un solo studio di estensione open-label non specifico, servirebbe un RCT dedicato |
+| Disturbo nevrotico | 0,9924 | L5 | Hold: termine obsoleto e non specifico, nessuno studio, unica pubblicazione non specifica per la vortioxetina |
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

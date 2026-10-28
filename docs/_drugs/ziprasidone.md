@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ziprasidone
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 469
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ziprasidone: nuova indicazione prevista, Disturbo affettivo maggiore (major affective disorder) (livello di evidenza L2). Indicazione originale: Schizofrenia, disturbo bipolare…"
 monitor_inn: "ZIPRASIDONE"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+description: "Ziprasidone: nuova indicazione prevista, Trichotillomania (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-## Ziprasidone: dalla schizofrenia e dal disturbo bipolare al disturbo affettivo maggiore
+## Ziprasidone: Trichotillomania
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -45,15 +45,15 @@ Il modello TxGNN prevede che possa essere efficace per il **disturbo affettivo m
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare, mania bipolare (dalla base di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Disturbo affettivo maggiore (major affective disorder) |
-| Punteggio di previsione TxGNN | 99,66% |
-| Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 3 (tutte revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Trichotillomania |
+| Punteggio di previsione TxGNN | 0.9983 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Proceed with Guardrails |
 
-Nota: la previsione con il punteggio più alto in assoluto è la trichotillomania (99,83%), ma senza alcuna evidenza clinica (L5). Questo report approfondisce il disturbo affettivo maggiore, perché è la previsione supportata dall'evidenza più solida. Anche la sindrome di Tourette (L3) ha un supporto parziale, descritto nelle conclusioni.
+Nota: la previsione con il punteggio più alto in assoluto è la trichotillomania (0,9983), ma senza alcuna evidenza clinica (L5). Questo report approfondisce il disturbo affettivo maggiore, perché è la previsione supportata dall'evidenza più solida. Anche la sindrome di Tourette (L3) ha un supporto parziale, descritto nelle conclusioni.
 
 ## Perché questa previsione è plausibile?
 
@@ -94,11 +94,10 @@ Va però precisato che non esistono studi di fase 3 specifici sull'efficacia nel
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 041339060 | ZIPRASIDONE 56 cps 20 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
-| 041339161 | ZIPRASIDONE 56 cps 40 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
-| 041339262 | ZIPRASIDONE 56 cps 60 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione revocata) |
+| 041339060 | ZIPRASIDONE 56 cps 20 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
+| 041339161 | ZIPRASIDONE 56 cps 40 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
+| 041339262 | ZIPRASIDONE 56 cps 60 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
 
-Tutte e tre le autorizzazioni risultano revocate: attualmente non vi sono prodotti validi in commercio in Italia.
 
 ## Citotossicità
 
@@ -106,7 +105,6 @@ Ziprasidone non è un farmaco antineoplastico: sezione non applicabile.
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni segnalate dal grafo di conoscenza TxGNN** (non derivate dal testo del foglietto illustrativo): condizioni cardiache e di conduzione (sindrome del QT lungo, anche familiare; torsione di punta; infarto del miocardio; arresto cardiaco improvviso; malattie della conduzione cardiaca), ipotensione ortostatica e atrofia multisistemica, epilessia, insufficienza epatica, malattia renale, discrasie ematiche (neutropenia, agranulocitosi), disturbi metabolici (diabete, chetoacidosi diabetica, iperglicemia, iperlipidemia, obesità, carenza di potassio), carcinoma mammario femminile e disturbi del movimento (malattie dei gangli della base, distonia focale della mano, blefarospasmo).
 - **Rischio cardiaco**: la letteratura sottolinea la necessità di cautela sul prolungamento del QTc, in particolare nelle popolazioni pediatriche (PMID 39549076).
 - **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra quelle di livello **maggiore** figurano idrocortisone, amfotericina B (anche in complesso lipidico), bupropione e morfina. Tra quelle di livello moderato: acarbose, famotidina, epinefrina, metformina, pioglitazone, atropina, loperamide, bisacodile e glicopirronio, tra gli altri. Alcune interazioni minori riguardano aprepitant e desametasone.
 
@@ -124,11 +122,10 @@ Per il disturbo affettivo maggiore esistono diversi studi randomizzati di fase 2
 - Dati sul meccanismo d'azione dalle fonti ufficiali (DrugBank)
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (al momento mancante, elemento bloccante per lo screening di sicurezza)
 - Piano di monitoraggio cardiaco (ECG/QTc, elettroliti) e verifica delle interazioni con farmaci che prolungano il QT
-- Valutazione della situazione regolatoria, dato che tutte le autorizzazioni italiane sono revocate
 
 **Altre previsioni:**
-- **Sindrome di Tourette** (punteggio 99,63%, livello L3, decisione indicativa: domanda di ricerca): vi è uno studio pilota pediatrico (PMID 10714048) e il razionale dell'antagonismo D2. Rimane però limitata a un piccolo studio e a revisioni e linee guida, senza studi clinici registrati, e richiede cautele sul QTc pediatrico.
-- **Tricotillomania** (punteggio 99,83%) e le restanti previsioni (idranencefalia, difetti congeniti della glicosilazione, miopie genetiche, distrofie retiniche, polimicrogiria): livello L5, decisione Hold. Sono solo previsioni computazionali, senza evidenza clinica; alcune sono probabilmente artefatti del grafo di conoscenza.
+- **Sindrome di Tourette** (punteggio 0,9963, livello L3, decisione indicativa: domanda di ricerca): vi è uno studio pilota pediatrico (PMID 10714048) e il razionale dell'antagonismo D2. Rimane però limitata a un piccolo studio e a revisioni e linee guida, senza studi clinici registrati, e richiede cautele sul QTc pediatrico.
+- **Tricotillomania** (punteggio 0,9983) e le restanti previsioni (idranencefalia, difetti congeniti della glicosilazione, miopie genetiche, distrofie retiniche, polimicrogiria): livello L5, decisione Hold.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

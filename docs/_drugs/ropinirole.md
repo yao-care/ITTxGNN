@@ -6,9 +6,9 @@ nav_order: 388
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ropinirole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L3). Indicazione originale: Sindrome delle gambe senza riposo"
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+description: "Ropinirole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L3). Indicazione originale: Non riportata nei …"
 ---
 
 # Ropinirole
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Ropinirolo: dalla sindrome delle gambe senza riposo e malattia di Parkinson al disturbo da deficit di attenzione e iperattività (ADHD)
+## Ropinirole: Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder)
 {: .text-alpha }
 
 ## Sintesi
@@ -46,11 +46,11 @@ A supporto di questa direzione sono disponibili **0 studi clinici registrati** e
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome delle gambe senza riposo; malattia di Parkinson (indicazioni derivate dal grafo di conoscenza, poiché i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -83,11 +83,11 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 040525038 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (KRKA) | n.d. | n.d. (autorizzazione cancellata) |
-| 040814194 | ROPINIROLO 28 cpr 8 mg rilascio prolungato (TEVA ITALIA) | n.d. | n.d. (autorizzazione cancellata) |
-| 040358020 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (EG) | n.d. | n.d. (autorizzazione cancellata) |
-| 032261063 | REQUIP 21 cpr rivestite 0,25 mg (GlaxoSmithKline) | n.d. | n.d. (autorizzazione cancellata) |
-| 040257014 | ROPINIROLO 28 cpr 2 mg rilascio prolungato (DOC Generici) | n.d. | n.d. (autorizzazione cancellata) |
+| 040525038 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (KRKA) | n.d. | n.d. (autorizzazione valida) |
+| 040814194 | ROPINIROLO 28 cpr 8 mg rilascio prolungato (TEVA ITALIA) | n.d. | n.d. (autorizzazione valida) |
+| 040358020 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (EG) | n.d. | n.d. (autorizzazione valida) |
+| 032261063 | REQUIP 21 cpr rivestite 0,25 mg (GlaxoSmithKline) | n.d. | n.d. (autorizzazione valida) |
+| 040257014 | ROPINIROLO 28 cpr 2 mg rilascio prolungato (DOC Generici) | n.d. | n.d. (autorizzazione valida) |
 
 Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è valida nessuna.
 

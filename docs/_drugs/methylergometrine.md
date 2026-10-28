@@ -48,10 +48,10 @@ La metilergometrina (methylergometrine) è un alcaloide semisintetico della sega
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni nelle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Ipertricosi |
-| Punteggio di predizione TxGNN | 99,87% |
+| Punteggio di predizione TxGNN | 0,9987 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -60,9 +60,9 @@ La metilergometrina (methylergometrine) è un alcaloide semisintetico della sega
 
 I dati di meccanismo d'azione (MOA) non sono al momento disponibili. In base alle informazioni generali, la metilergometrina è un derivato semisintetico dell'ergot che agisce come ligando dei recettori serotoninergici 5-HT2, alfa-adrenergici e dopaminergici, con effetto uterotonico.
 
-**Per l'ipertricosi non è stato individuato alcun razionale meccanicistico.** Il punteggio molto alto (0,9987) deriva da una predizione basata sul grafo di conoscenza, senza dati clinici o di letteratura a supporto. L'ipertricosi indotta da farmaci non è un effetto noto dei derivati dell'ergot, e il punteggio potrebbe riflettere solo la prossimità nella rete a nodi correlati.
+**Per l'ipertricosi non è stato individuato alcun razionale meccanicistico.** Il punteggio molto alto (0,9987) proviene dal modello TxGNN (deep learning), senza dati clinici o di letteratura a supporto, e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche. L'ipertricosi indotta da farmaci non è un effetto noto dei derivati dell'ergot.
 
-Tra le altre predizioni ad alto punteggio, la più plausibile è l'**emicrania** (rank 3, punteggio 99,84%). La metilergometrina è il metabolita attivo della metisergide, storico farmaco di profilassi dell'emicrania che agisce sui recettori 5-HT1B/1D/2. Le due pubblicazioni trovate offrono però solo evidenza indiretta e sottolineano i rischi vascolari e fibrotici della classe, come vasocostrizione coronarica e fibrosi.
+Tra le altre predizioni ad alto punteggio, la più plausibile è l'**emicrania** (rank 3, punteggio 0,9984). La metilergometrina è il metabolita attivo della metisergide, storico farmaco di profilassi dell'emicrania che agisce sui recettori 5-HT1B/1D/2. Le due pubblicazioni trovate offrono però solo evidenza indiretta e sottolineano i rischi vascolari e fibrotici della classe, come vasocostrizione coronarica e fibrosi.
 
 Le altre predizioni non hanno un razionale credibile:
 - **Ipertensione polmonare**: i derivati dell'ergot sono associati a peggioramento dell'ipertensione polmonare e a valvulopatia tramite agonismo 5-HT2B, quindi un beneficio è dubbio e il rischio per la sicurezza è probabile.
@@ -93,8 +93,8 @@ Per l'ipertricosi non è disponibile alcuna letteratura. Per l'emicrania (rank 3
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 004225037 | METHERGIN*15 cpr rivestite 0,125 mg | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 004225025 | METHERGIN*6 fiale IM EV 1 ml 0,2 mg/ml | Fiale per uso IM/EV | Non disponibile (autorizzazione cancellata) |
+| 004225037 | METHERGIN*15 cpr rivestite 0,125 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 004225025 | METHERGIN*6 fiale IM EV 1 ml 0,2 mg/ml | Fiale per uso IM/EV | Non disponibile (autorizzazione valida) |
 
 Entrambe le autorizzazioni, intestate a Essential Pharma (M) Ltd, risultano cancellate.
 

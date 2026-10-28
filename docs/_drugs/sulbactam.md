@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulbactam
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 413
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sulbactam: nuova indicazione prevista, Artrite batterica (livello di evidenza L4). Indicazione originale: Colangite…"
 monitor_inn: "sulbactam"
 predicted_indications: ["bacterial arthritis"]
+description: "Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sulbactam
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Sulbactam: Dalle infezioni da S. aureus ed E. coli all'artrite batterica
+## Sulbactam: Artrite batterica (bacterial arthritis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,19 +44,19 @@ Sulbactam è un inibitore irreversibile delle beta-lattamasi, usato in associazi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Colangite, infezioni da *Staphylococcus aureus* e da *Escherichia coli* (secondo il grafo di conoscenza TxGNN; nelle autorizzazioni AIFA il testo dell'indicazione non è riportato) |
-| Nuova indicazione prevista | Artrite batterica |
-| Punteggio di predizione TxGNN | 99,79% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Artrite batterica (bacterial arthritis) |
+| Punteggio di predizione TxGNN | 0.9979 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
 Sulbactam inibisce in modo irreversibile le beta-lattamasi e ha un'attività intrinseca contro *Acinetobacter baumannii* tramite il legame alle PBP. In associazione con l'ampicillina estende la copertura a *S. aureus*, *E. coli*, *Bacteroides* spp. e anaerobi produttori di beta-lattamasi, patogeni frequenti nell'artrite settica e nelle infezioni osteoarticolari. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione originale.
 
-L'artrite batterica è più un'estensione dello spettro antibatterico già noto che un vero riposizionamento. Il punteggio elevato (0,998) riflette soprattutto la vicinanza alle indicazioni antinfettive esistenti e non costituisce una validazione clinica indipendente.
+L'artrite batterica è più un'estensione dello spettro antibatterico già noto che un vero riposizionamento. Il punteggio elevato (0,9979) riflette soprattutto la vicinanza alle indicazioni antinfettive esistenti e non costituisce una validazione clinica indipendente.
 
 ## Evidenze da studi clinici
 
@@ -83,8 +83,8 @@ Le restanti pubblicazioni sono case report, studi in vitro o studi descrittivi d
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036624029 | Ampicillina e Sulbactam, 1 fiala IM/EV 500 mg + 250 mg + 1 fiala solvente 1,6 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione revocata) |
-| 036624017 | Ampicillina e Sulbactam, 1 fiala IM 1 g + 500 mg + 1 fiala solvente 3,2 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione revocata) |
+| 036624029 | Ampicillina e Sulbactam, 1 fiala IM/EV 500 mg + 250 mg + 1 fiala solvente 1,6 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
+| 036624017 | Ampicillina e Sulbactam, 1 fiala IM 1 g + 500 mg + 1 fiala solvente 3,2 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

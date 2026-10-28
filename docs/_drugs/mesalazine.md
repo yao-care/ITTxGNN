@@ -4,17 +4,17 @@ title: Mesalazine
 parent: Solo previsione del modello (L5)
 nav_order: 287
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). Indicazione originale: Colite ulcerosa, malattia infiammatoria intestinale…"
 monitor_inn: "Mesalazine"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+description: "Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Mesalazina: Dalla colite ulcerosa alla congenital hypotrichosis with juvenile macular dystrophy
+## Mesalazine: Congenital hypotrichosis with juvenile macular dystrophy
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La mesalazina (acido 5-aminosalicilico, 5-ASA) è un antinfiammatorio intestinale usato originariamente per la colite ulcerosa e le altre malattie infiammatorie croniche intestinali. Il modello TxGNN la indica come potenzialmente efficace per la **congenital hypotrichosis with juvenile macular dystrophy** (ipotricosi congenita con distrofia maculare giovanile), ma questa previsione si basa solo sul grafo di conoscenza: **non sono presenti studi clinici né pubblicazioni** a supporto.
+La mesalazina (acido 5-aminosalicilico, 5-ASA) è un antinfiammatorio intestinale usato originariamente per la colite ulcerosa e le altre malattie infiammatorie croniche intestinali. Il modello TxGNN (deep learning) la indica come potenzialmente efficace per la **congenital hypotrichosis with juvenile macular dystrophy** (ipotricosi congenita con distrofia maculare giovanile), ma il punteggio proviene dal modello e può riflettere similarità apprese tra malattie correlate, non evidenze biologiche: **non sono presenti studi clinici né pubblicazioni** a supporto.
 
 ## Quadro di sintesi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Colite ulcerosa, malattia infiammatoria intestinale, proctosigmoidite ulcerosa (dal grafo di conoscenza PrimeKG; il testo delle indicazioni AIFA non è disponibile) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Congenital hypotrichosis with juvenile macular dystrophy |
-| Punteggio di predizione TxGNN | 99,65% |
+| Punteggio di predizione TxGNN | 0.9965 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -56,7 +56,7 @@ La mesalazina (acido 5-aminosalicilico, 5-ASA) è un antinfiammatorio intestinal
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la mesalazina ha attività antinfiammatoria (inibizione di COX e lipossigenasi, agonismo su PPAR-gamma, modulazione di NF-kB), con efficacia dimostrata nella colite ulcerosa.
 
-Per la condizione prevista **non è stato identificato alcun legame meccanicistico plausibile**. Si tratta di una rara malattia genetica legata a mutazioni di CDH3, senza un bersaglio antinfiammatorio su cui la mesalazina possa agire. L'elevato punteggio (0,996) è quindi un risultato basato esclusivamente sulla prossimità nel grafo e va interpretato con grande cautela.
+Per la condizione prevista **non è stato identificato alcun legame meccanicistico plausibile**. Si tratta di una rara malattia genetica legata a mutazioni di CDH3, senza un bersaglio antinfiammatorio su cui la mesalazina possa agire. L'elevato punteggio (0,9965) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese tra malattie correlate, non evidenze biologiche; va interpretato con grande cautela.
 
 ## Evidenza dagli studi clinici
 
@@ -72,9 +72,8 @@ Tra le altre previsioni del modello, solo due presentano un minimo di letteratur
 
 | Indicazione | Punteggio TxGNN | Livello di evidenza | Note |
 |------|------|------|------|
-| Osteoartrosi | 99,63% | L5 | Nessuno studio clinico. L'unico lavoro (PMID 38491514, 2024) è un'analisi trascrittomica che genera ipotesi, non evidenza clinica sulla mesalazina. |
-| Artrite reumatoide | 99,57% | L4 | Nessuno studio clinico registrato. La letteratura riguarda la sulfasalazina (di cui la mesalazina è la frazione attiva, ma l'effetto antireumatico è attribuito soprattutto alla sulfapiridina o alla molecola intera) e segnalazioni di reazioni avverse. Nessuna evidenza diretta di efficacia. |
-| Cheratosi seborroica, suscettibilità all'osteoartrosi, cheratosi follicolare invertita vulvare, pseudoacondroplasia | 99,18%–99,50% | L5 | Nessuno studio né letteratura; nessun razionale meccanicistico. |
+| Osteoartrosi | 0,9963 | L5 | Nessuno studio clinico. L'unico lavoro (PMID 38491514, 2024) è un'analisi trascrittomica che genera ipotesi, non evidenza clinica sulla mesalazina. |
+| Artrite reumatoide | 0,9957 | L4 | Nessuno studio clinico registrato. La letteratura riguarda la sulfasalazina (di cui la mesalazina è la frazione attiva, ma l'effetto antireumatico è attribuito soprattutto alla sulfapiridina o alla molecola intera) e segnalazioni di reazioni avverse. Nessuna evidenza diretta di efficacia. |
 
 ## Informazioni sul mercato italiano
 
@@ -82,11 +81,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il te
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 026416154 | ASACOL 7 clismi 4 g 100 ml sospensione rettale | Giuliani SpA | Cancellata |
-| 034836039 | MESALAZINA 7 clismi 4 g sospensione rettale + 7 cannule | Sandoz SpA | Cancellata |
-| 035509013 | PROCTASACOL 20 dosi 500 mg gel rettale | Giuliani SpA | Cancellata |
-| 034836027 | MESALAZINA 7 clismi 2 g sospensione rettale + 7 cannule | Sandoz SpA | Cancellata |
-| 037734011 | MESAVANCOL 60 cpr gastroresistenti 1.200 mg a rilascio prolungato | Giuliani SpA | Cancellata |
+| 026416154 | ASACOL 7 clismi 4 g 100 ml sospensione rettale | Giuliani SpA | Valida |
+| 034836039 | MESALAZINA 7 clismi 4 g sospensione rettale + 7 cannule | Sandoz SpA | Valida |
+| 035509013 | PROCTASACOL 20 dosi 500 mg gel rettale | Giuliani SpA | Valida |
+| 034836027 | MESALAZINA 7 clismi 2 g sospensione rettale + 7 cannule | Sandoz SpA | Valida |
+| 037734011 | MESAVANCOL 60 cpr gastroresistenti 1.200 mg a rilascio prolungato | Giuliani SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 

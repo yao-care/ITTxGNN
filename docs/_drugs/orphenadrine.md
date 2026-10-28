@@ -6,9 +6,9 @@ nav_order: 330
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Orphenadrine: nuova indicazione prevista, Schizofrenia (livello di evidenza L5). Indicazione originale: Parkinsonismo / malattia di Parkinson"
 monitor_inn: "Orphenadrine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
+description: "Orphenadrine: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Orphenadrine
@@ -33,25 +33,25 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Orfenadrina: Dal Parkinsonismo alla Schizofrenia
+## Orphenadrine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 L'orfenadrina è un farmaco anticolinergico originariamente usato per il **parkinsonismo e la malattia di Parkinson**. Il modello TxGNN prevede che possa essere utile per la **schizofrenia**, ma il supporto è limitato: **nessuno studio clinico registrato** e **16 pubblicazioni**, per lo più datate, che riguardano soprattutto la gestione degli effetti collaterali extrapiramidali degli antipsicotici e non il trattamento della psicosi stessa.
 
-*Nota metodologica*: il candidato con il punteggio TxGNN più alto è la distrofia retinica (99,29%), ma non ha alcuna evidenza né plausibilità meccanicistica. Questo report si concentra sulla schizofrenia (5ª in classifica), l'unica indicazione prevista con letteratura disponibile. Le altre previsioni sono riassunte in una sezione dedicata.
+*Nota metodologica*: il candidato con il punteggio TxGNN più alto è la distrofia retinica (0,9929), ma non ha alcuna evidenza né plausibilità meccanicistica. Questo report si concentra sulla schizofrenia (5ª in classifica), l'unica indicazione prevista con letteratura disponibile. Le altre previsioni sono riassunte in una sezione dedicata.
 
 ## Quadro d'insieme
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Parkinsonismo / malattia di Parkinson |
-| Nuova indicazione prevista | Schizofrenia |
-| Punteggio di predizione TxGNN | 99,13% |
-| Livello di evidenza | L3 (solo letteratura osservazionale/clinica datata e revisioni; nessuno studio registrato) |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 1 (annullata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Retinal dystrophy with or without extraocular anomalies |
+| Punteggio di predizione TxGNN | 0.9929 |
+| Livello di evidenza | L5 (solo letteratura osservazionale/clinica datata e revisioni; nessuno studio registrato) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione può essere ragionevole?
@@ -85,7 +85,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 013013040 | DISIPAL*50 cpr rivestite 50 mg (ECUPHARMA Srl) | Compresse rivestite | Non disponibile (autorizzazione annullata) |
+| 013013040 | DISIPAL*50 cpr rivestite 50 mg (ECUPHARMA Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 
@@ -101,12 +101,11 @@ Le altre previsioni non dispongono né di studi clinici né di letteratura (live
 
 | Malattia prevista | Punteggio TxGNN | Valutazione |
 |------|------|------|
-| Distrofia retinica con o senza anomalie extraoculari | 99,29% | Nessun legame meccanicistico identificato |
-| Disordine congenito della glicosilazione con fucosilazione difettosa | 99,27% | Nessun meccanismo plausibile; probabile artefatto della topologia del grafo |
-| Polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi | 99,21% | Malformazione dello sviluppo; un anticolinergico sintomatico non può modificarla |
-| Malattia di Charcot-Marie-Tooth demielinizzante tipo 1G | 99,19% | Possibile solo sollievo sintomatico (crampi, dolore); nessuna modifica della malattia |
-| Miopia X-linked | 99,09% | Solo razionale indiretto di classe (atropina); nessun dato oculare |
-| Miopia 26, X-linked, limitata alle femmine | 99,00% | Come sopra |
+| Distrofia retinica con o senza anomalie extraoculari | 0,9929 | Nessun legame meccanicistico identificato |
+| Polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi | 0,9921 | Malformazione dello sviluppo; un anticolinergico sintomatico non può modificarla |
+| Malattia di Charcot-Marie-Tooth demielinizzante tipo 1G | 0,9919 | Possibile solo sollievo sintomatico (crampi, dolore); nessuna modifica della malattia |
+| Miopia X-linked | 0,9909 | Solo razionale indiretto di classe (atropina); nessun dato oculare |
+| Miopia 26, X-linked, limitata alle femmine | 0,9900 | Come sopra |
 
 ## Conclusione e prossimi passi
 

@@ -6,9 +6,9 @@ nav_order: 253
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lamivudine: nuova indicazione prevista, Sindrome da immunodeficienza acquisita felina (livello di evidenza L5)."
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+description: "Lamivudine: nuova indicazione prevista, Feline acquired immunodeficiency syndrome (livello di evidenza L5)."
 ---
 
 # Lamivudine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Lamivudina: dall'infezione da HIV/epatite B alla sindrome da immunodeficienza acquisita felina
+## Lamivudine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,11 +47,11 @@ Le evidenze disponibili sono **0 studi clinici registrati** e **3 pubblicazioni*
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Infezione cronica da virus dell'epatite B; infezione da HIV; AIDS |
-| Nuova indicazione prevista | Sindrome da immunodeficienza acquisita felina |
-| Punteggio di previsione TxGNN | 99,93% |
-| Livello di evidenza | L3 (studi osservazionali di coorte, solo in ambito veterinario) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Nuova indicazione prevista | Feline acquired immunodeficiency syndrome |
+| Punteggio di previsione TxGNN | 0.9993 |
+| Livello di evidenza | L5 (studi osservazionali di coorte, solo in ambito veterinario) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -84,11 +84,11 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 041140017 | Lamivudina 28 cpr rivestite 100 mg (TEVA B.V.) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 034506016 | Zeffix 28 cpr rivestite 100 mg (GlaxoSmithKline) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 034506030 | Zeffix soluzione orale 240 ml 5 mg/ml (GlaxoSmithKline) | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 043569019 | Lamivudina 28 cpr rivestite 100 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 049113018 | Lamivudina 28 cpr rivestite 100 mg (Aurobindo Pharma Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 041140017 | Lamivudina 28 cpr rivestite 100 mg (TEVA B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034506016 | Zeffix 28 cpr rivestite 100 mg (GlaxoSmithKline) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034506030 | Zeffix soluzione orale 240 ml 5 mg/ml (GlaxoSmithKline) | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 043569019 | Lamivudina 28 cpr rivestite 100 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 049113018 | Lamivudina 28 cpr rivestite 100 mg (Aurobindo Pharma Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

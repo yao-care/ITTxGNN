@@ -6,9 +6,9 @@ nav_order: 307
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Modafinil: nuova indicazione prevista, Insonnia (livello di evidenza L3). Indicazione originale: Narcolessia e sindrome narcolessia-cataplessia (dal grafo di conoscen…"
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
+description: "Modafinil: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Modafinil
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-## Modafinil: Dalla narcolessia all'insonnia
+## Modafinil: Insonnia (insomnia (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN predice che possa essere efficace per l'**insonnia**, ma il sup
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Narcolessia e sindrome narcolessia-cataplessia (dal grafo di conoscenza; il testo dell'indicazione autorizzata in Italia non è disponibile) |
-| Nuova indicazione prevista | Insonnia |
-| Punteggio di predizione TxGNN | 99,85% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Insonnia (insomnia (disease)) |
+| Punteggio di predizione TxGNN | 0.9985 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate (non commercializzato) |
-| Numero di autorizzazioni | 1 (annullata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione può essere ragionevole?
@@ -59,7 +59,7 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Proprio perché promuove la veglia e non il sonno, un legame terapeutico diretto con il trattamento dell'insonnia è meccanicisticamente controintuitivo. Il collegamento più plausibile riguarda i disturbi del sonno/veglia e la sonnolenza diurna che accompagnano quadri simili all'insonnia, ad esempio negli anziani, nelle malattie neurologiche (morbo di Parkinson, malattia del motoneurone) e nel disturbo da lavoro a turni.
 
-Il punteggio molto alto di TxGNN (0,998) è una predizione computazionale e può riflettere la vicinanza nella rete alle indicazioni originali legate al sonno (narcolessia) più che un reale beneficio nell'insonnia. Non va considerato un'evidenza clinica. Inoltre il modafinil può peggiorare l'insonnia: il beneficio per l'insonnia come malattia è improbabile e il farmaco potrebbe risultare controproducente.
+Il punteggio molto alto di TxGNN (0,9985) è una predizione computazionale e può riflettere la vicinanza nella rete alle indicazioni originali legate al sonno (narcolessia) più che un reale beneficio nell'insonnia. Non va considerato un'evidenza clinica. Inoltre il modafinil può peggiorare l'insonnia: il beneficio per l'insonnia come malattia è improbabile e il farmaco potrebbe risultare controproducente.
 
 ## Evidenze degli studi clinici
 
@@ -89,7 +89,7 @@ Nessuna di queste pubblicazioni dimostra direttamente l'efficacia del modafinil 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034369013 | PROVIGIL*30 cpr 100 mg (TEVA ITALIA Srl) | Compresse | Non disponibile (autorizzazione annullata) |
+| 034369013 | PROVIGIL*30 cpr 100 mg (TEVA ITALIA Srl) | Compresse | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

@@ -4,17 +4,17 @@ title: Tamoxifen
 parent: Prove elevate (L1-L2)
 nav_order: 419
 evidence_level: L1
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tamoxifen: nuova indicazione prevista, Carcinoma mammario in situ (DCIS e neoplasia intraepiteliale) (livello di evidenza L1). Indicazione originale: Carcinoma mammario femminile (carcinoma duttale i…"
 monitor_inn: "tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Tamoxifen: nuova indicazione prevista, Mammary Paget disease (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Tamoxifene: dal carcinoma mammario al carcinoma duttale in situ della mammella
+## Tamoxifen: Mammary Paget disease
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Il tamoxifene è un modulatore selettivo del recettore degli estrogeni, originariamente usato per il carcinoma mammario femminile. Il modello TxGNN lo predice come potenzialmente efficace per il **carcinoma mammario in situ** (punteggio 99,67%), con **oltre 30 studi clinici** e **circa 20 pubblicazioni** associati a questa indicazione, tra cui studi randomizzati di fase 3. Va però notato che si tratta di un'indicazione già consolidata, quindi più una conferma che un vero riposizionamento.
+Il tamoxifene è un modulatore selettivo del recettore degli estrogeni, originariamente usato per il carcinoma mammario femminile. Il modello TxGNN lo predice come potenzialmente efficace per il **carcinoma mammario in situ** (punteggio 0,9967), con **oltre 30 studi clinici** e **circa 20 pubblicazioni** associati a questa indicazione, tra cui studi randomizzati di fase 3. Va però notato che si tratta di un'indicazione già consolidata, quindi più una conferma che un vero riposizionamento.
 
 > **Nota sulla scelta dell'indicazione.** La prima predizione in elenco è la malattia di Paget mammaria (evidenza L4, decisione "Hold"). Questa però si basa solo su case report e serie chirurgiche, senza prove dirette per il tamoxifene. Il report si concentra sul carcinoma mammario in situ, che ha l'evidenza più solida tra le predizioni (L1). Le altre predizioni sono riassunte nella sezione finale.
 
@@ -48,12 +48,12 @@ Il tamoxifene è un modulatore selettivo del recettore degli estrogeni, originar
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma mammario femminile (carcinoma duttale invasivo, adenocarcinoma duttale della mammella) |
-| Nuova indicazione predetta | Carcinoma mammario in situ (DCIS e neoplasia intraepiteliale) |
-| Punteggio di predizione TxGNN | 99,67% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Mammary Paget disease |
+| Punteggio di predizione TxGNN | 0.9969 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
+| Numero di autorizzazioni | 11 (valide: 11) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -110,11 +110,11 @@ Tutte le 11 autorizzazioni risultano **cancellate**; non esistono autorizzazioni
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034790028 | TAMOXENE*20 cpr rivestite 20 mg | S.F. Group Srl | Cancellata |
-| 034425049 | SERTAM*20 cpr 20 mg | S.F. Group Srl | Cancellata |
-| 033617022 | TAMOXIFENE*20 cpr rivestite 20 mg | Ratiopharm GmbH | Cancellata |
-| 023362039 | NOLVADEX*30 cpr rivestite 10 mg | AstraZeneca SpA | Cancellata |
-| 033688021 | TAMOXIFENE*20 cpr rivestite 20 mg | EG SpA | Cancellata |
+| 034790028 | TAMOXENE*20 cpr rivestite 20 mg | S.F. Group Srl | Valida |
+| 034425049 | SERTAM*20 cpr 20 mg | S.F. Group Srl | Valida |
+| 033617022 | TAMOXIFENE*20 cpr rivestite 20 mg | Ratiopharm GmbH | Valida |
+| 023362039 | NOLVADEX*30 cpr rivestite 10 mg | AstraZeneca SpA | Valida |
+| 033688021 | TAMOXIFENE*20 cpr rivestite 20 mg | EG SpA | Valida |
 
 ---
 

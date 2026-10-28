@@ -4,17 +4,17 @@ title: Flutamide
 parent: Solo previsione del modello (L5)
 nav_order: 207
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Flutamide: nuova indicazione prevista, Suscettibilità al carcinoma prostatico/cerebrale (livello di evidenza L5). Indicazione originale: Carcinoma della prostata (testo dell'indicazione AIFA non disp…"
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Flutamide: Dal carcinoma della prostata alla suscettibilità al carcinoma prostatico/cerebrale
+## Flutamide: Fibroma of prostate
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,19 +45,19 @@ Il modello TxGNN prevede una possibile efficacia per **suscettibilità al carcin
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma della prostata (testo dell'indicazione AIFA non disponibile; dato ricavato dal grafo di conoscenza) |
-| Nuova indicazione prevista | Suscettibilità al carcinoma prostatico/cerebrale |
-| Punteggio di previsione TxGNN | 99,98% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Fibroma of prostate |
+| Punteggio di previsione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze note, flutamide è un antagonista del recettore degli androgeni (tramite il metabolita idrossiflutamide), la cui efficacia nel carcinoma prostatico è consolidata.
 
-La previsione sembra riflettere soprattutto la vicinanza nel grafo di conoscenza al nodo "carcinoma della prostata", già indicazione originale. La "suscettibilità genetica" non è uno stato patologico trattabile, ma una predisposizione: non esiste quindi una vera indicazione terapeutica distinta da valutare.
+La "suscettibilità genetica" non è uno stato patologico trattabile, ma una predisposizione: non esiste quindi una vera indicazione terapeutica distinta da valutare.
 
 Pertanto la previsione non rappresenta un riposizionamento genuino e non è supportata da evidenze cliniche.
 
@@ -75,7 +75,7 @@ Attualmente non risulta alcuna letteratura correlata a questa previsione.
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034707012 | FLUTAMIDE*21 cpr 250 mg (EG SpA) | Compresse | Non disponibile (autorizzazione cancellata) |
+| 034707012 | FLUTAMIDE*21 cpr 250 mg (EG SpA) | Compresse | Non disponibile (autorizzazione valida) |
 
 ## Citotossicità
 

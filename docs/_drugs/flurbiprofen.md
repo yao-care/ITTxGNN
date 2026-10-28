@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Solo previsione del modello (L5)
 nav_order: 206
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flurbiprofen: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (livello di evidenza L5). Indicazione originale: Artrite reumatoide, osteoartrosi, artropatie (da grafo di cono…"
 monitor_inn: "flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Flurbiprofen: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata …"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Flurbiprofene: dall'artrite reumatoide alla spondilite anchilosante
+## Flurbiprofen: Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,13 +46,13 @@ Il flurbiprofene è un farmaco antinfiammatorio non steroideo (FANS), originaria
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, osteoartrosi, artropatie (da grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione predetta (rank 1 del modello) | Displasia acromesomelica tipo Hunter-Thompson |
-| Nuova indicazione con evidenza più solida | Spondilite anchilosante |
-| Punteggio TxGNN | 99,99% (rank 1); 99,97% (spondilite anchilosante) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta (rank 1 del modello) | Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Nuova indicazione con evidenza più solida | Acromesomelic dysplasia, Hunter-Thompson type |
+| Punteggio TxGNN | 0.9999 |
 | Livello di evidenza | L5 (rank 1); L3 (spondilite anchilosante) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (rank 1); Proceed with Guardrails limitato alla spondilite anchilosante come indicazione di classe |
 
 ---
@@ -63,7 +63,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 **Spondilite anchilosante.** Il legame è solido: i FANS sono terapia di prima linea per la spondiloartrite assiale e la patologia è biologicamente affine alle indicazioni reumatiche originali. Si tratta però di un effetto di classe più che di un vero riposizionamento. Mancano evidenze moderne di modificazione della malattia.
 
-**Predizione di rank 1 e altre malattie rare dello scheletro.** Per la displasia acromesomelica tipo Hunter-Thompson (mutazioni di perdita di funzione di CDMP1/GDF5), la sindrome brachidattilia-sindattilia, la sindrome microftalmia colobomatosa-displasia rizomelica, la sindrome brachiolmia-amelogenesi imperfetta, la brachiolmia e la pseudoacondroplasia (mutazioni COMP) non esiste un legame meccanicistico plausibile. L'inibizione di COX non incide su difetti genetici dello sviluppo; i punteggi elevati riflettono probabilmente la vicinanza nel grafo di conoscenza (fenotipi scheletrici condivisi). Al massimo i FANS potrebbero alleviare il dolore secondario. Per la miosclerosi il legame è debole e speculativo; per l'ipermobilità del coccige (coccigodinia) è plausibile un sollievo sintomatico, ma non supportato da dati. La "suscettibilità alla spondiloartropatia" è un'etichetta genetica, non una condizione trattabile: l'evidenza rilevante ricade sotto la spondilite anchilosante.
+**Predizione di rank 1 e altre malattie rare dello scheletro.** Per la displasia acromesomelica tipo Hunter-Thompson (mutazioni di perdita di funzione di CDMP1/GDF5), la sindrome brachidattilia-sindattilia, la sindrome microftalmia colobomatosa-displasia rizomelica, la sindrome brachiolmia-amelogenesi imperfetta, la brachiolmia e la pseudoacondroplasia (mutazioni COMP) non esiste un legame meccanicistico plausibile. L'inibizione di COX non incide su difetti genetici dello sviluppo; i punteggi elevati provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate (fenotipi scheletrici condivisi), non evidenza biologica. Al massimo i FANS potrebbero alleviare il dolore secondario. Per la miosclerosi il legame è debole e speculativo; per l'ipermobilità del coccige (coccigodinia) è plausibile un sollievo sintomatico, ma non supportato da dati. La "suscettibilità alla spondiloartropatia" è un'etichetta genetica, non una condizione trattabile: l'evidenza rilevante ricade sotto la spondilite anchilosante.
 
 ---
 
@@ -98,8 +98,8 @@ Nota: gli studi sono datati e la classificazione come RCT di fase 3 non è confe
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 024284034 | FROBEN*30 cpr rivestite 100 mg (VIATRIS ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 024284073 | FROBEN*1 flacone 160 ml 5 mg/ml sciroppo (VIATRIS ITALIA Srl) | Sciroppo | Non disponibile (autorizzazione cancellata) |
+| 024284034 | FROBEN*30 cpr rivestite 100 mg (VIATRIS ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 024284073 | FROBEN*1 flacone 160 ml 5 mg/ml sciroppo (VIATRIS ITALIA Srl) | Sciroppo | Non disponibile (autorizzazione valida) |
 
 ---
 

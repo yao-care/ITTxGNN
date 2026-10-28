@@ -50,10 +50,10 @@ Tra gli studi figurano diversi trial di fase 3 completati su regimi contenenti t
 |------|------|
 | Indicazione originale | Carcinoma gastrico (nei dati compilati compaiono anche neoplasia gastrica, adenocarcinoma gastrico diffuso, linite plastica gastrica e carcinoma gastrico). Il testo dell'indicazione approvata non è presente nelle autorizzazioni AIFA. |
 | Nuova indicazione prevista | Neoplasia del colon (*colonic neoplasm*) |
-| Punteggio di predizione TxGNN | 99,90% |
+| Punteggio di predizione TxGNN | 0,9990 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -106,8 +106,8 @@ Sono stati compilati altri studi (fase 1-2, osservazionali o in fase di avvio), 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione valida) |
+| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 

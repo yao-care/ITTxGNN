@@ -8,6 +8,7 @@ nav_order: 13
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Acamprosato
@@ -49,8 +50,8 @@ L'acamprosato (Acamprosate) è un farmaco utilizzato storicamente per il manteni
 | Nuova indicazione predetta | Nessuna — nessuna predizione TxGNN generata |
 | Punteggio di predizione TxGNN | N/A |
 | Livello di evidenza | L5 (Nessuna predizione del modello o studi di supporto disponibili) |
-| Stato del mercato italiano | ✗ Non commercializzato |
-| Numero di autorizzazioni | 0 |
+| Stato del mercato italiano | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione consigliata | **In sospeso** |
 
 ---

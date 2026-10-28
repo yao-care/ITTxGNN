@@ -4,17 +4,17 @@ title: Irbesartan
 parent: Solo previsione del modello (L5)
 nav_order: 244
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Irbesartan: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Ipertensione, nefropatia diabetica (dal grafo di conoscenza"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+description: "Irbesartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Irbesartan: dall'ipertensione e nefropatia diabetica all'ipertensione renovascolare maligna
+## Irbesartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 Irbesartan è un antagonista del recettore AT1 dell'angiotensina II, utilizzato originariamente per l'ipertensione e la nefropatia diabetica.
-Il modello TxGNN ne prevede una possibile efficacia nell'**ipertensione renovascolare maligna** (punteggio 99,31%), ma per questa indicazione **non sono disponibili studi clinici né pubblicazioni** a supporto: si tratta di una previsione puramente computazionale.
+Il modello TxGNN ne prevede una possibile efficacia nell'**ipertensione renovascolare maligna** (punteggio 0,9931), ma per questa indicazione **non sono disponibili studi clinici né pubblicazioni** a supporto: si tratta di una previsione puramente computazionale.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, nefropatia diabetica (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Ipertensione renovascolare maligna |
-| Punteggio di predizione TxGNN | 99,31% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malignant hypertensive renal disease |
+| Punteggio di predizione TxGNN | 0.9931 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Hold |
 
@@ -59,12 +59,12 @@ I dati compilati per questo report non includono una descrizione dettagliata del
 
 L'ipertensione renovascolare maligna è caratterizzata da una marcata attivazione di questo sistema, per cui il blocco di AT1 è plausibile. Tuttavia, i sartani comportano un rischio noto nella malattia renovascolare: in caso di stenosi bilaterale dell'arteria renale possono provocare danno renale acuto. Questo aspetto richiede una valutazione di sicurezza accurata.
 
-Il punteggio elevato di TxGNN riflette con ogni probabilità la vicinanza all'indicazione già esistente di ipertensione nel grafo di conoscenza, più che un'evidenza indipendente. Lo stesso punteggio (99,31%) è attribuito alla **malattia renale ipertensiva maligna**, che è in larga parte un'estensione degli usi già approvati.
+Lo stesso punteggio (0,9931) è attribuito alla **malattia renale ipertensiva maligna**, che è in larga parte un'estensione degli usi già approvati.
 
 ### Altre previsioni nel set di dati
 
-- **Ipertensione polmonare da malattia polmonare e/o ipossia** (punteggio 99,25%, livello L4): esistono solo studi preclinici (cellulari e animali) che suggeriscono un effetto protettivo di irbesartan in condizioni di ipossia, ad esempio nel mal di montagna cronico e nell'ipertensione polmonare d'alta quota nel ratto. Questi dati riguardano principalmente il danno cardiaco o ipossico e non l'ipertensione polmonare nell'uomo. Raccomandazione: tema di ricerca.
-- **Ipertensione polmonare a meccanismo multifattoriale non chiaro** (punteggio 99,25%, livello L5): indicazione mal definita, senza studi né letteratura. Raccomandazione: Hold.
+- **Ipertensione polmonare da malattia polmonare e/o ipossia** (punteggio 0,9925, livello L4): esistono solo studi preclinici (cellulari e animali) che suggeriscono un effetto protettivo di irbesartan in condizioni di ipossia, ad esempio nel mal di montagna cronico e nell'ipertensione polmonare d'alta quota nel ratto. Questi dati riguardano principalmente il danno cardiaco o ipossico e non l'ipertensione polmonare nell'uomo. Raccomandazione: tema di ricerca.
+- **Ipertensione polmonare a meccanismo multifattoriale non chiaro** (punteggio 0,9925, livello L5): indicazione mal definita, senza studi né letteratura. Raccomandazione: Hold.
 
 ## Evidenza dagli studi clinici
 

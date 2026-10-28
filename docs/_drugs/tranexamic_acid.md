@@ -49,10 +49,10 @@ Il modello TxGNN ne prevede un possibile impiego nell'**amenorrea**, ma le evide
 |------|------|
 | Indicazione originale | Endometriosi (secondo la base di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
 | Nuova indicazione prevista | Amenorrea |
-| Punteggio di predizione TxGNN | 99,19% |
-| Livello di evidenza | L4 (solo predizione del modello e razionale meccanicistico; nessuno studio clinico) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Punteggio di predizione TxGNN | 0,9919 |
+| Livello di evidenza | L5 (solo predizione del modello e razionale meccanicistico; nessuno studio clinico) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -63,7 +63,7 @@ I dati sul meccanismo d'azione originale non sono disponibili nei dati compilati
 
 Il legame con l'amenorrea è però indiretto. Il farmaco non agisce sull'asse ormonale responsabile dell'amenorrea: un eventuale beneficio deriverebbe dalla riduzione del sanguinamento, utile ad esempio per la soppressione del ciclo in pazienti ematologiche a rischio di sanguinamento importante, e non dal trattamento dell'amenorrea come condizione patologica.
 
-L'elevato punteggio TxGNN (0,99) è una predizione computazionale e non costituisce evidenza clinica.
+L'elevato punteggio TxGNN (0,9919) è una predizione computazionale e non costituisce evidenza clinica.
 
 ---
 
@@ -86,11 +86,11 @@ Al momento non risultano studi clinici correlati registrati.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 022019032 | TRANEX*6 fiale EV 500 mg 5 ml (Malesci) | Non specificata | Non disponibile (cancellata) |
-| 044760039 | ACIDO TRANEXAMICO*6 fiale EV 5 ml 100 mg/ml (Eugia Pharma) | Non specificata | Non disponibile (cancellata) |
-| 022019018 | TRANEX*30 cps 250 mg (Malesci) | Non specificata | Non disponibile (cancellata) |
-| 021458017 | UGUROL*20 cpr 250 mg (Viatris) | Non specificata | Non disponibile (cancellata) |
-| 022019020 | TRANEX*30 cps 500 mg (Malesci) | Non specificata | Non disponibile (cancellata) |
+| 022019032 | TRANEX*6 fiale EV 500 mg 5 ml (Malesci) | Non specificata | Non disponibile (valida) |
+| 044760039 | ACIDO TRANEXAMICO*6 fiale EV 5 ml 100 mg/ml (Eugia Pharma) | Non specificata | Non disponibile (valida) |
+| 022019018 | TRANEX*30 cps 250 mg (Malesci) | Non specificata | Non disponibile (valida) |
+| 021458017 | UGUROL*20 cpr 250 mg (Viatris) | Non specificata | Non disponibile (valida) |
+| 022019020 | TRANEX*30 cps 500 mg (Malesci) | Non specificata | Non disponibile (valida) |
 
 Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5.
 

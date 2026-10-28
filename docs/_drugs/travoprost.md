@@ -6,9 +6,9 @@ nav_order: 448
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Travoprost: nuova indicazione prevista, Calcifilassi viscerale (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto…"
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+description: "Travoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Travoprost
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Travoprost: Dal glaucoma ad angolo aperto alla malattia vascolare
+## Travoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Il supporto reale per la nuova indicazione è quindi **molto debole**: la previs
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Glaucoma ad angolo aperto, ipertensione oculare (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Calcifilassi viscerale (rank 1); la malattia vascolare (rank 5) è l'unica previsione con studi associati, ma non pertinenti |
-| Punteggio di previsione TxGNN | 99,99% (calcifilassi viscerale); 99,99% (malattia vascolare) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Visceral calciphylaxis |
+| Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 (calcifilassi viscerale); L4 (malattia vascolare) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 15 (tutte cancellate; 0 valide) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Hold |
 
 Nota: i punteggi TxGNN sono tutti prossimi a 1,0 per le prime dieci previsioni e non discriminano fra loro; non vanno interpretati come probabilità di efficacia clinica.
@@ -120,11 +120,11 @@ Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035409010 | TRAVATAN collirio 2,5 ml 40 mcg/ml | Novartis Europharm Ltd | Cancellata |
-| 043310010 | IZBA collirio 2,5 ml 30 mcg/ml | Novartis Europharm Ltd (UK) | Cancellata |
-| 042869014 | ACAMBA collirio 1 flacone 2,5 ml 40 mcg/ml | Fidia Farmaceutici SpA | Cancellata |
-| 042874014 | MENEZON collirio 1 flacone 2,5 ml 40 mcg/ml | Visufarma SpA | Cancellata |
-| 043353010 | BRUNITRAV collirio 1 flacone 2,5 ml 40 mcg/ml | Bruschettini Srl | Cancellata |
+| 035409010 | TRAVATAN collirio 2,5 ml 40 mcg/ml | Novartis Europharm Ltd | Valida |
+| 043310010 | IZBA collirio 2,5 ml 30 mcg/ml | Novartis Europharm Ltd (UK) | Valida |
+| 042869014 | ACAMBA collirio 1 flacone 2,5 ml 40 mcg/ml | Fidia Farmaceutici SpA | Valida |
+| 042874014 | MENEZON collirio 1 flacone 2,5 ml 40 mcg/ml | Visufarma SpA | Valida |
+| 043353010 | BRUNITRAV collirio 1 flacone 2,5 ml 40 mcg/ml | Bruschettini Srl | Valida |
 
 Elencate le prime 5 delle 15 autorizzazioni (le restanti sono generici e altri marchi di Teva, Zentiva, EG, Sandoz, Mylan, DOC Generici, A.G.F.).
 

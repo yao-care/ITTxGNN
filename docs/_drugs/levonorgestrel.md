@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levonorgestrel
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 268
-evidence_level: L5
-indication_count: 6
+evidence_level: L4
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Levonorgestrel: nuova indicazione prevista, Acne (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale / osteoporosi (dal grafo di conoscenza T…"
 monitor_inn: "levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+description: "Levonorgestrel: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **6** 
+Livello di evidenza: **L4** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Levonorgestrel: dall'osteoporosi post-menopausale all'acne
+## Levonorgestrel: Acne (acne (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Il levonorgestrel è un progestinico, qui presente come cerotto transdermico (FE
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Osteoporosi post-menopausale / osteoporosi (dal grafo di conoscenza TxGNN; il testo dell'indicazione AIFA non è disponibile) |
-| Nuova indicazione predetta | Acne |
-| Punteggio di predizione TxGNN | 99,88% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Acne (acne (disease)) |
+| Punteggio di predizione TxGNN | 0.9988 |
 | Livello di evidenza | L4 (secondo la valutazione compilata per questo report; nessuno studio clinico registrato) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -58,7 +58,7 @@ I dati sul meccanismo d'azione non sono al momento disponibili. Il levonorgestre
 
 Il legame con l'indicazione originale è debole. L'osteoporosi post-menopausale e l'acne hanno in comune solo l'ambito degli ormoni sessuali. Il beneficio sull'acne dei contraccettivi ormonali è attribuito soprattutto alla componente estrogenica e a progestinici antiandrogenici (ad esempio il clormadinone acetato), non al levonorgestrel in sé.
 
-L'alto punteggio TxGNN (0,999) non trova quindi un chiaro supporto meccanicistico. Le prove sono indirette: manca uno studio sull'acne con il levonorgestrel come unico principio attivo.
+L'alto punteggio TxGNN (0,9988) non trova quindi un chiaro supporto meccanicistico. Le prove sono indirette: manca uno studio sull'acne con il levonorgestrel come unico principio attivo.
 
 ## Evidenza dalle sperimentazioni cliniche
 

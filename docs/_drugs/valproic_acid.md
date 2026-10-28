@@ -4,17 +4,17 @@ title: Valproic Acid
 parent: Solo previsione del modello (L5)
 nav_order: 457
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia, disturbo bipolare maniacale…"
 monitor_inn: "valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Acido valproico: dall'epilessia al neoplasma del nervo trigemino
+## Valproic Acid: Neoplasma del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,11 +46,11 @@ L'acido valproico è un farmaco antiepilettico e stabilizzatore dell'umore, usat
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia, disturbo bipolare maniacale, epilessia di assenza (da archi di indicazione del grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Neoplasma del nervo trigemino |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neoplasma del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte revocate, 0 valide) |
 | Decisione raccomandata | Hold |
 
@@ -60,7 +60,7 @@ L'acido valproico è un farmaco antiepilettico e stabilizzatore dell'umore, usat
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel materiale compilato. In generale, l'acido valproico è noto per il blocco dei canali del sodio, il potenziamento della trasmissione GABAergica e l'inibizione dei canali del calcio di tipo T, oltre a una generica attività di inibizione delle istone deacetilasi (HDAC).
 
-Il legame con il neoplasma del nervo trigemino appare debole. L'unico lavoro collegato è una serie di casi del 1997 sulla sindrome di Sturge-Weber, che non è un tumore del trigemino; lì il valproato serve al controllo delle crisi, non ha un effetto antitumorale. Il razionale basato sull'inibizione delle HDAC è generico e non supportato da dati per questa indicazione. Il punteggio elevato è verosimilmente dovuto alla prossimità nel grafo con epilessia e termini neurologici, più che a un'evidenza biologica specifica.
+Il legame con il neoplasma del nervo trigemino appare debole. L'unico lavoro collegato è una serie di casi del 1997 sulla sindrome di Sturge-Weber, che non è un tumore del trigemino; lì il valproato serve al controllo delle crisi, non ha un effetto antitumorale. Il razionale basato sull'inibizione delle HDAC è generico e non supportato da dati per questa indicazione. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non un'evidenza biologica specifica.
 
 Per completezza, il modello propone anche altre indicazioni, in gran parte epilessie riflesse (visiva, startle, da alimentazione, da lettura, ecc.) e la nevralgia del trigemino. Per queste il valproato è meccanicisticamente plausibile, ma l'evidenza specifica è scarsa o indiretta; la più sostenuta è l'epilessia visiva (L3, "domanda di ricerca"), che è di fatto un'estensione di un uso già consolidato.
 
@@ -82,7 +82,7 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano revocate; il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
+Il farmaco è commercializzato e risultano 20 autorizzazioni valide; il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -111,13 +111,13 @@ Per avvertenze e precauzioni d'uso fare riferimento al foglio illustrativo, non 
 **Decisione: Hold**
 
 **Motivazione:**
-- Per il neoplasma del nervo trigemino non esistono studi clinici e l'unica pubblicazione collegata non è pertinente; il punteggio TxGNN molto alto riflette probabilmente la vicinanza nel grafo a termini neurologici, non un'evidenza reale (livello L5).
+- Per il neoplasma del nervo trigemino non esistono studi clinici e l'unica pubblicazione collegata non è pertinente; il punteggio TxGNN molto alto proviene dal modello (deep learning) e può riflettere similarità apprese tra malattie correlate, non un'evidenza reale (livello L5).
 - Il prodotto non ha autorizzazioni valide in Italia, e il profilo di sicurezza è rilevante (epatotossicità, controindicazioni in disturbi ematologici, pancreatite, ecc.).
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e prove precliniche dell'effetto antitumorale del valproato su tumori del trigemino/nervi cranici.
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
-- Verifica dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni risultano revocate.
+- Verifica dello stato regolatorio attuale in Italia, dato che il farmaco è commercializzato con 20 autorizzazioni valide.
 - Se l'obiettivo è clinicamente più realistico, dare priorità a indicazioni con razionale più solido (ad esempio l'epilessia visiva o la nevralgia del trigemino), con revisione sistematica dedicata al valproato.
 ## Avvertenza
 

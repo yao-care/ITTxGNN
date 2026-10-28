@@ -6,9 +6,9 @@ nav_order: 428
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Ipertensione e iperplasia prostatica benigna (dal grafo di conoscenza"
 monitor_inn: "terazosin"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
+description: "Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Terazosin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Terazosina: dall'ipertensione e iperplasia prostatica benigna alla perdita di capelli (ipotricosi semplice del cuoio capelluto)
+## Terazosin: Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede una possibile efficacia per l'**ipotricosi semplice del
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione e iperplasia prostatica benigna (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto |
-| Punteggio di previsione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) |
+| Punteggio di previsione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte annullate) |
 | Decisione raccomandata | Hold |
 
@@ -69,10 +69,10 @@ Per completezza, tra le prime 10 previsioni alcune dispongono di una letteratura
 
 | Indicazione prevista | Punteggio TxGNN | Evidenza | Note |
 |------|------|------|------|
-| Emicrania | 99,92% | L4 | Due pubblicazioni (1994, 1997), piccole e datate; domanda di ricerca |
-| Malattia di Raynaud | 99,83% | L4 | Una pubblicazione del 1997; meccanismo plausibile (riduzione della vasocostrizione simpatica); domanda di ricerca |
-| Alopecia | 99,95% | L4 | Solo una revisione generale del 2022 sugli effetti extracardiaci dei farmaci cardiovascolari |
-| Altre (alopecia areata diffusa, ipotricosi congenita, ecc.) | 99,5–99,97% | L5 | Solo previsione, nessuna evidenza |
+| Emicrania | 0,9992 | L4 | Due pubblicazioni (1994, 1997), piccole e datate; domanda di ricerca |
+| Malattia di Raynaud | 0,9983 | L4 | Una pubblicazione del 1997; meccanismo plausibile (riduzione della vasocostrizione simpatica); domanda di ricerca |
+| Alopecia | 0,9995 | L5 | Solo una revisione generale del 2022 sugli effetti extracardiaci dei farmaci cardiovascolari |
+| Altre (alopecia areata diffusa, ipotricosi congenita, ecc.) | 99,5–0,9997 | L5 | Solo previsione, nessuna evidenza |
 
 ---
 
@@ -96,15 +96,15 @@ Per la previsione affine **alopecia** è stata individuata una pubblicazione, di
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano annullate; nessuna è attualmente valida. Principali prodotti:
+Risultano valide 20 autorizzazioni in Italia; il farmaco è in commercio. Principali prodotti:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035046022 | Terafluss, 14 cpr div 5 mg | Viatris Italia Srl | Annullata |
-| 035295120 | Terazosina, 14 cpr 5 mg | Teva Italia Srl | Annullata |
-| 028652028 | Unoprost, 14 cpr div 5 mg | Laboratori Guidotti SpA | Annullata |
-| 026929036 | Itrin, 14 cpr 5 mg | Eberlife Farmaceutici SpA | Annullata |
-| 035622024 | Terazosina, 14 cpr div 5 mg | DOC Generici Srl | Annullata |
+| 035046022 | Terafluss, 14 cpr div 5 mg | Viatris Italia Srl | Valida |
+| 035295120 | Terazosina, 14 cpr 5 mg | Teva Italia Srl | Valida |
+| 028652028 | Unoprost, 14 cpr div 5 mg | Laboratori Guidotti SpA | Valida |
+| 026929036 | Itrin, 14 cpr 5 mg | Eberlife Farmaceutici SpA | Valida |
+| 035622024 | Terazosina, 14 cpr div 5 mg | DOC Generici Srl | Valida |
 
 ---
 
@@ -122,7 +122,7 @@ Per le avvertenze complete si rimanda al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'indicazione prevista si basa solo sul punteggio del modello (livello L5), senza studi clinici, letteratura né un meccanismo plausibile. Inoltre tutte le autorizzazioni italiane sono annullate, il che limita la praticabilità immediata.
+L'indicazione prevista si basa solo sul punteggio del modello TxGNN (deep learning, livello L5), che può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche, senza studi clinici, letteratura né un meccanismo plausibile. Inoltre il farmaco è in commercio in Italia con 20 autorizzazioni valide.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad es. da DrugBank) e valutazione di un nesso con la biologia del follicolo pilifero

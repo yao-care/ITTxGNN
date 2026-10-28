@@ -6,9 +6,9 @@ nav_order: 234
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Imatinib: nuova indicazione prevista, Fibrosarcoma cardiaco (livello di evidenza L5). Indicazione originale: Mastocitosi sistemica, tumore stromale gastrointestinale (GIST)…"
 monitor_inn: "IMATINIB"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
+description: "Imatinib: nuova indicazione prevista, Heart fibrosarcoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Imatinib
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Imatinib: dalla leucemia mieloide cronica al fibrosarcoma cardiaco
+## Imatinib: Heart fibrosarcoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Imatinib è un inibitore delle tirosin-chinasi, originariamente utilizzato per l
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Mastocitosi sistemica, tumore stromale gastrointestinale (GIST), leucemia mieloide cronica BCR-ABL1 positiva, leucemia eosinofila cronica, dermatofibrosarcoma protuberans, sindrome ipereosinofila (dal grafo di conoscenza; il testo delle indicazioni approvate AIFA non è disponibile) |
-| Nuova indicazione prevista | Fibrosarcoma cardiaco |
-| Punteggio di predizione TxGNN | 99,94% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Heart fibrosarcoma |
+| Punteggio di predizione TxGNN | 0.9994 |
 | Livello di evidenza | L5 (solo predizione del modello, nessuno studio effettivo specifico) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 Nota: la classificazione interna dei dati compilati assegna L4 a questa indicazione, ma poiché non esistono studi clinici né preclinici specifici per il fibrosarcoma cardiaco, in questo report la valutazione prudente è L5.
@@ -123,7 +123,7 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglio illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (99,94%) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.
+Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e analisi del collegamento meccanicistico con il fibrosarcoma cardiaco

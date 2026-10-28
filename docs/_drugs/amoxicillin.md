@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Amoxicillin: nuova indicazione prevista, Iperamilasemia (livello di evidenza L5). Indicazione originale: Infezioni batteriche (vie urinarie, otite media, faringite, polmonite…"
 monitor_inn: "amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-27
+description: "Amoxicillin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Amoxicillin
@@ -33,76 +33,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Amoxicillina: dalle infezioni batteriche all'iperamilasemia
+## Amoxicillina: antibiotico beta-lattamico → iperamilasemia (hyperamylasemia)
 {: .text-alpha }
 
-## Riepilogo in una frase
+## Sintesi
 
-L'amoxicillina è un antibiotico beta-lattamico, originariamente usato per infezioni batteriche come le infezioni delle vie urinarie, l'otite media, la faringite e la polmonite batterica.
-Il modello TxGNN la prevede potenzialmente efficace per l'**iperamilasemia**, ma per questa indicazione non esistono **studi clinici** né **pubblicazioni** a supporto: la predizione è esclusivamente computazionale.
+L'amoxicillina è un antibiotico beta-lattamico che inibisce la sintesi della parete cellulare batterica. Il modello TxGNN la indica come potenzialmente utile per **iperamilasemia (hyperamylasemia)**, ma per questa previsione non risulta alcuno studio clinico né alcuna pubblicazione nei dati compilati per questo report: il supporto è quindi solo computazionale.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche (vie urinarie, otite media, faringite, polmonite, infezioni da streptococco, stafilococco, *Escherichia coli* e *Klebsiella*). Il testo delle indicazioni autorizzate AIFA non è disponibile; l'elenco deriva dal grafo di conoscenza |
-| Nuova indicazione prevista | Iperamilasemia |
-| Punteggio di predizione TxGNN | 99,63% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Iperamilasemia (hyperamylasemia) |
+| Punteggio di previsione TxGNN | 0,9963 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
-## Perché questa predizione può (o non può) essere ragionevole?
+## Perché questa previsione potrebbe essere ragionevole?
 
-I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, l'amoxicillina è un beta-lattamico che inibisce la sintesi della parete cellulare batterica, e la sua efficacia nelle infezioni batteriche sensibili è consolidata.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. L'amoxicillina appartiene alla classe delle penicilline e agisce uccidendo i batteri sensibili tramite l'inibizione della sintesi della parete cellulare.
 
-L'iperamilasemia, però, è un reperto biochimico senza un chiaro bersaglio batterico. Non è stato identificato alcun legame meccanicistico con l'amoxicillina. Il punteggio elevato (0,996) riflette una vicinanza nel grafo di conoscenza, non un'evidenza terapeutica.
+L'iperamilasemia è un reperto biochimico (aumento dell'amilasi nel sangue) e non una malattia con un bersaglio batterico chiaro. Non è stato identificato alcun legame meccanicistico plausibile tra l'amoxicillina e questa condizione. Il punteggio elevato (0,9963) deriva da una previsione basata sulla rete di relazioni del modello e non è sostenuto da dati clinici. Va quindi interpretato come un'ipotesi da verificare, non come un indizio di efficacia.
 
-Le altre indicazioni previste hanno un profilo analogo. Iperviscosità policlonale, analbuminemia congenita, incompatibilità di gruppo sanguigno, malattie ematologiche premaligne e gammopatia monoclonale non hanno una base meccanicistica plausibile. Fa eccezione la **peste setticemica**, biologicamente plausibile perché causata da *Yersinia pestis*, ma l'amoxicillina non è una terapia standard: le linee guida indicano aminoglicosidi, fluorochinoloni e tetracicline. Per questa indicazione il livello di evidenza è L4, basato solo su dati in vitro e su modello animale.
+## Evidenze da studi clinici
 
-## Evidenza dagli studi clinici
+Attualmente non risultano studi clinici correlati registrati per questa previsione.
 
-Per l'iperamilasemia non risulta alcuno studio clinico registrato.
+## Evidenze dalla letteratura
 
-## Evidenza dalla letteratura
-
-Per l'iperamilasemia non è disponibile alcuna letteratura correlata.
+Attualmente non è disponibile letteratura correlata per questa previsione.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Le prime cinque:
+Nei dati locali risultano 20 autorizzazioni di medicinali monocomponente a base di amoxicillina; l'elenco potrebbe essere parziale. I dati sullo stato sono contraddittori (indicano sia autorizzazioni valide sia annullate), per cui non si può affermare con certezza quante siano effettivamente in commercio. Le principali:
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
 |---------|------|------|-----------|
-| 023097102 | VELAMOX 12 cpr orodispersibili 1 g (Neopharmed Gentili) | Compresse orodispersibili | Non disponibile |
-| 033151034 | Amoxicillina sospensione orale da polvere 5 g/100 ml (Sandoz) | Sospensione orale | Non disponibile |
-| 032892010 | Amoxicillina 12 cpr 1 g (Tecnigen) | Compresse | Non disponibile |
-| 023966106 | AMOXINA sospensione orale 250 mg/5 ml 100 ml (Aesculapius Farmaceutici) | Sospensione orale | Non disponibile |
-| 023966094 | AMOXINA 12 cpr dispersibili 1 g (Aesculapius Farmaceutici) | Compresse dispersibili | Non disponibile |
+| 023097102 | VELAMOX*12 cpr orodispers 1 g | Neopharmed Gentili SpA | Non registrata |
+| 033151034 | Amoxicillina*orale sosp polv 5 g/100 ml | Sandoz SpA | Non registrata |
+| 032892010 | Amoxicillina*12 cpr 1 g | Tecnigen Srl | Non registrata |
+| 023966106 | Amoxina*orale sosp 250 mg/5 ml 100 ml | Aesculapius Farmaceutici Srl | Non registrata |
+| 023966094 | Amoxina*12 cpr dispers 1 g | Aesculapius Farmaceutici Srl | Non registrata |
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-- **Controindicazioni segnalate nel grafo di conoscenza** (non provenienti dal foglietto illustrativo): sindrome del QT lungo, torsione di punta, tachicardia ventricolare, insufficienza epatica e malattie del fegato, colestasi, porfiria, malattia renale, colite da *Clostridium difficile*, miastenia grave, mononucleosi infettiva, osteoporosi, fratture ossee e malattie della colecisti.
-- **Interazioni farmacologiche**: individuate 271 interazioni. Quelle principali:
-  - **Maggiori**: metotrexato; vaccino vivo anticolera (*Vibrio cholerae* CVD 103-HgR).
-  - **Moderate**: doxiciclina, minociclina, demeclociclina, etinilestradiolo, estradiolo, anisindione, dicumarolo, entecavir, micofenolato mofetile, balsalazide, probiotici (*Lactobacillus acidophilus*, *Bifidobacterium longum infantis*) e indio In-111 ossichinolina.
-  - **Minori**: allopurinolo, amiloride, azitromicina, claritromicina, eritromicina.
+- **Interazioni farmacologiche**: sono state rilevate 271 interazioni. Tra quelle di livello maggiore figurano **metotrexato** e il vaccino vivo contro il colera (Vibrio cholerae ceppo CVD 103-HgR). Tra quelle di livello moderato: doxiciclina, minociclina, demeclociclina, etinilestradiolo, estradiolo, anisindione, dicumarolo, entecavir e micofenolato mofetile.
 
-Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
+Per avvertenze e controindicazioni si rimanda al foglietto illustrativo, perché i dati specifici non sono disponibili.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'iperamilasemia non esistono studi né letteratura e non è identificabile alcun meccanismo plausibile; la predizione è puramente computazionale (L5). Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La previsione per l'iperamilasemia si basa solo sul punteggio del modello (0,9963), senza studi clinici, senza letteratura e senza un meccanismo plausibile. Il livello di evidenza è L5.
 
 **Per procedere sarebbe necessario:**
-- Reperire le avvertenze e controindicazioni dal foglietto illustrativo AIFA (dato bloccante per lo screening di sicurezza)
-- Ottenere i dati sul meccanismo d'azione da DrugBank
-- Valutare se la peste setticemica (L4) meriti un'ulteriore indagine come questione di ricerca, tenendo conto che l'amoxicillina non è una terapia standard
-- Chiarire lo stato regolatorio in Italia, poiché non esistono autorizzazioni valide
+- Verificare se esista un'associazione clinica plausibile tra amoxicillina e iperamilasemia (compreso il possibile ruolo dell'amilasi come reperto da monitorare).
+- Ottenere dati sul meccanismo d'azione e una rassegna sistematica della letteratura.
+- Acquisire dal foglietto illustrativo AIFA avvertenze e controindicazioni.
+- Chiarire lo stato effettivo delle autorizzazioni in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

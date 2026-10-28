@@ -4,17 +4,17 @@ title: Melphalan
 parent: Solo previsione del modello (L5)
 nav_order: 284
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Melphalan: nuova indicazione prevista, Tumore germinale delle gonadi (livello di evidenza L5). Indicazione originale: Carcinoma ovarico (e sottotipi ovarici correlati…"
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+description: "Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Melfalan: dal carcinoma ovarico al tumore germinale delle gonadi
+## Melphalan: Female breast carcinoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ con **7 studi clinici** registrati (di cui solo 2 con rilevanza diretta elevata)
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma ovarico (e sottotipi ovarici correlati, secondo il grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata in Italia non è disponibile) |
-| Nuova indicazione prevista | Tumore germinale delle gonadi |
-| Punteggio di predizione TxGNN | 99,77% |
-| Livello di evidenza | L2 (valutazione assegnata ai dati compilati; vedi nota sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Female breast carcinoma |
+| Punteggio di predizione TxGNN | 0.9967 |
+| Livello di evidenza | L5 (valutazione assegnata ai dati compilati; vedi nota sotto) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 *Nota sul livello di evidenza:* gli studi disponibili sono di fase 2 a braccio singolo e non randomizzati; secondo le regole stringenti (RCT di fase 2/3 completato) l'evidenza sarebbe più vicina a L3–L4. Si usa L2 come indicato nei dati compilati, ma va interpretato con cautela.
@@ -96,7 +96,7 @@ Tra le altre predizioni, quelle per gli adenocarcinomi mucinosi (retto, colon, c
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021250030 | ALKERAN*25 cpr rivestite 2 mg (ASPEN PHARMA TRADING LIMITED) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 021250030 | ALKERAN*25 cpr rivestite 2 mg (ASPEN PHARMA TRADING LIMITED) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ---
 

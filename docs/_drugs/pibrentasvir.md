@@ -6,9 +6,9 @@ nav_order: 349
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C (dal grafo di conoscenza"
 monitor_inn: "pibrentasvir"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pibrentasvir
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Pibrentasvir: dall'epatite C cronica all'infezione da virus dell'epatite B
+## Pibrentasvir: Infezione da virus dell'epatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Pibrentasvir è un inibitore della proteina virale NS5A, usato in combinazione c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite C (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Infezione da virus dell'epatite B |
-| Punteggio di previsione TxGNN | 99,84% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da virus dell'epatite B (hepatitis B virus infection) |
+| Punteggio di previsione TxGNN | 0.9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -92,10 +92,10 @@ Le pubblicazioni recuperate per questa previsione sono tutte di tipo revisione e
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (stato: cancellata) | — | — |
-| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (stato: cancellata) | — | — |
+| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (stato: valida) | — | — |
+| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (stato: valida) | — | — |
 
-Entrambe le autorizzazioni, intestate ad AbbVie Deutschland GmbH & Co. KG, risultano cancellate.
+Entrambe le autorizzazioni, intestate ad AbbVie Deutschland GmbH & Co.
 
 ---
 

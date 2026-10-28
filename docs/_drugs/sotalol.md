@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sotalol
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 410
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Sotalol: nuova indicazione prevista, Stroke disorder (ictus) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza TxGNN"
 monitor_inn: "sotalol"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
+description: "Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sotalol
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 
 </div>
 
-## Sotalolo: dalla fibrillazione atriale all'ictus (stroke disorder)
+## Sotalol: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -41,7 +41,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **7**
 Il sotalolo è un beta-bloccante con attività antiaritmica di classe III, originariamente usato per la fibrillazione atriale.
 Il modello TxGNN prevede una possibile efficacia per **stroke disorder** (ictus), ma il supporto è solo indiretto: **1 studio clinico** di fase 3 sulla fibrillazione atriale e **20 pubblicazioni** per lo più di rassegna sulla gestione della fibrillazione atriale, nessuna delle quali dimostra che il sotalolo prevenga l'ictus.
 
-Nota: la prima previsione per punteggio TxGNN è la «sindrome del nodo del seno 2, autosomica dominante» (99,76%), ma senza alcuna evidenza e con una direzione d'effetto probabilmente dannosa. Questo report si concentra quindi sulla previsione di rango 4 (ictus), la prima con evidenze cliniche e bibliografiche recuperate.
+Nota: la prima previsione per punteggio TxGNN è la «sindrome del nodo del seno 2, autosomica dominante» (0,9976), ma senza alcuna evidenza e con una direzione d'effetto probabilmente dannosa. Questo report si concentra quindi sulla previsione di rango 4 (ictus), la prima con evidenze cliniche e bibliografiche recuperate.
 
 ---
 
@@ -49,12 +49,12 @@ Nota: la prima previsione per punteggio TxGNN è la «sindrome del nodo del seno
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Fibrillazione atriale (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Stroke disorder (ictus) |
-| Punteggio di predizione TxGNN | 99,44% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 (tutte cancellate, nessuna valida) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sick sinus syndrome 2, autosomal dominant |
+| Punteggio di predizione TxGNN | 0.9976 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -98,11 +98,11 @@ Inoltre, poiché la popolazione bersaglio coincide con quella dell'indicazione o
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035859040 | SOTALOLO*40 cpr div 80 mg (TEVA ITALIA) | n.d. | n.d. (cancellata) |
-| 029528041 | RYTMOBETA*50 cpr 160 mg (VIATRIS ITALIA) | n.d. | n.d. (cancellata) |
-| 029517012 | SOTALOLO*40 cpr 80 mg (SANDOZ) | n.d. | n.d. (cancellata) |
-| 023245020 | SOTALEX*40 cpr 80 mg (CHEPLAPHARM) | n.d. | n.d. (cancellata) |
-| 029528027 | RYTMOBETA*50 cpr 80 mg (VIATRIS ITALIA) | n.d. | n.d. (cancellata) |
+| 035859040 | SOTALOLO*40 cpr div 80 mg (TEVA ITALIA) | n.d. | n.d. (valida) |
+| 029528041 | RYTMOBETA*50 cpr 160 mg (VIATRIS ITALIA) | n.d. | n.d. (valida) |
+| 029517012 | SOTALOLO*40 cpr 80 mg (SANDOZ) | n.d. | n.d. (valida) |
+| 023245020 | SOTALEX*40 cpr 80 mg (CHEPLAPHARM) | n.d. | n.d. (valida) |
+| 029528027 | RYTMOBETA*50 cpr 80 mg (VIATRIS ITALIA) | n.d. | n.d. (valida) |
 
 Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia.
 
@@ -110,7 +110,6 @@ Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento no
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni (dal grafo di conoscenza TxGNN, non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, asma (intrinseco e allergico), malattie bronchiali, carenza di potassio, diabete mellito, chetoacidosi diabetica, disturbi ipotensivi, insufficienza renale, blocco atrioventricolare, malattia del nodo del seno (anche familiare), anafilassi.
 - **Interazioni farmacologiche**: sono state identificate 289 interazioni. Tra quelle di livello **maggiore** figurano epinefrina, claritromicina, acido picosolfurico e polietilenglicole (3350 con elettroliti). Molte altre sono di livello moderato (ad es. famotidina, cimetidina, atropina, bupropione, morfina, loperamide, canagliflozin, dapagliflozin, clorpropamide, bisacodile) e una minore (acido acetilsalicilico).
 - **Rischio proaritmico**: l'effetto di prolungamento del QT è una criticità rilevante, in particolare in popolazioni cardiomiopatiche o in associazione con antipsicotici.
 

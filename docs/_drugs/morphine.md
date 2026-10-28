@@ -46,10 +46,10 @@ La morfina è un analgesico oppioide; nella base di conoscenza di TxGNN la sua i
 |------|------|
 | Indicazione originale | Malattia diarroica (dalla base di conoscenza TxGNN; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
 | Nuova indicazione prevista | Sindrome da dolore miofasciale |
-| Punteggio di previsione TxGNN | 99,75% |
+| Punteggio di previsione TxGNN | 0,9975 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -83,15 +83,15 @@ Attualmente non risultano studi clinici registrati correlati alla sindrome da do
 
 | Indicazione | Punteggio TxGNN | Livello | Evidenze principali |
 |---|---|---|---|
-| Disturbo bipolare maniacale | 99,64% | L5 | Solo legami storici con il sistema oppioide endogeno; nessun supporto clinico; rischi di dipendenza e destabilizzazione dell'umore |
-| Sindrome di Tourette | 99,48% | L5 | Solo letteratura farmacologica correlata, nessun dato clinico con morfina |
-| **Sindrome delle gambe senza riposo** | 99,47% | **L3** | 1 studio di fase 1, registri e coorti osservazionali sugli oppioidi, case report di morfina intratecale |
-| ADHD, tipo inattentivo | 99,34% | L5 | Nessuna evidenza; potenziale d'abuso sfavorevole |
-| Emicrania | 99,32% | L4 | Evidenze meccanicistiche/osservazionali; in uno studio la morfina non è stata più efficace del placebo (PMID 8869763); oppioidi in genere sconsigliati |
-| Tricotillomania | 99,29% | L5 | Nessuna evidenza |
-| Metemoglobinemia | 99,15% | L5 | Associazione apparentemente spuria |
-| Emicrania con aura del tronco encefalico | 99,15% | L5 | Solo dati preclinici o incidentali |
-| Disturbo specifico dello sviluppo | 99,06% | L5 | Dati preclinici o tangenziali; categoria troppo ampia |
+| Disturbo bipolare maniacale | 0,9964 | L5 | Solo legami storici con il sistema oppioide endogeno; nessun supporto clinico; rischi di dipendenza e destabilizzazione dell'umore |
+| Sindrome di Tourette | 0,9948 | L5 | Solo letteratura farmacologica correlata, nessun dato clinico con morfina |
+| **Sindrome delle gambe senza riposo** | 0,9947 | **L3** | 1 studio di fase 1, registri e coorti osservazionali sugli oppioidi, case report di morfina intratecale |
+| ADHD, tipo inattentivo | 0,9934 | L5 | Nessuna evidenza; potenziale d'abuso sfavorevole |
+| Emicrania | 0,9932 | L4 | Evidenze meccanicistiche/osservazionali; in uno studio la morfina non è stata più efficace del placebo (PMID 8869763); oppioidi in genere sconsigliati |
+| Tricotillomania | 0,9929 | L5 | Nessuna evidenza |
+| Metemoglobinemia | 0,9915 | L5 | Associazione apparentemente spuria |
+| Emicrania con aura del tronco encefalico | 0,9915 | L5 | Solo dati preclinici o incidentali |
+| Disturbo specifico dello sviluppo | 0,9906 | L5 | Dati preclinici o tangenziali; categoria troppo ampia |
 
 ### Approfondimento: sindrome delle gambe senza riposo
 
@@ -108,11 +108,11 @@ Attualmente non risultano studi clinici registrati correlati alla sindrome da do
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029611035 | Morfina cloridrato, 5 fiale 20 mg/1 ml (Molteni) | Fiale | Non disponibile (cancellata) |
-| 030798021 | Morfina cloridrato, 5 fiale SC IM EV 20 mg/1 ml (Monico) | Fiale | Non disponibile (cancellata) |
-| 030677013 | Morfina cloridrato, 5 fiale 10 mg/1 ml (SALF) | Fiale | Non disponibile (cancellata) |
-| 030677025 | Morfina cloridrato, 5 fiale 20 mg/1 ml (SALF) | Fiale | Non disponibile (cancellata) |
-| 030798033 | Morfina cloridrato, 1 fiala SC IM EV 10 mg/1 ml (Monico) | Fiale | Non disponibile (cancellata) |
+| 029611035 | Morfina cloridrato, 5 fiale 20 mg/1 ml (Molteni) | Fiale | Non disponibile (valida) |
+| 030798021 | Morfina cloridrato, 5 fiale SC IM EV 20 mg/1 ml (Monico) | Fiale | Non disponibile (valida) |
+| 030677013 | Morfina cloridrato, 5 fiale 10 mg/1 ml (SALF) | Fiale | Non disponibile (valida) |
+| 030677025 | Morfina cloridrato, 5 fiale 20 mg/1 ml (SALF) | Fiale | Non disponibile (valida) |
+| 030798033 | Morfina cloridrato, 1 fiala SC IM EV 10 mg/1 ml (Monico) | Fiale | Non disponibile (valida) |
 
 Sono elencate 5 delle 9 autorizzazioni; tutte risultano cancellate, quindi nessun prodotto a base di morfina in questi dati è attualmente valido in Italia.
 

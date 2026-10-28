@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nortriptyline
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 323
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Nortriptyline: nuova indicazione prevista, ADHD (disturbo da deficit di attenzione e iperattività) (livello di evidenza L5). Indicazione originale: Ansia, disturbi nevrotici, distimia (da grafo di co…"
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
+description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Nortriptyline
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L2** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Nortriptilina: dall'ansia e dai disturbi nevrotici al disturbo da deficit di attenzione e iperattività (ADHD)
+## Nortriptyline: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ I dati compilati per questo report non riportano **studi clinici registrati**, m
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ansia, disturbi nevrotici, distimia (da grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | ADHD (disturbo da deficit di attenzione e iperattività) |
-| Punteggio di previsione TxGNN | 99,42% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Attention deficit-hyperactivity disorder |
+| Punteggio di previsione TxGNN | 0.9942 |
 | Livello di evidenza | L2 (valutazione dei dati compilati; si veda la nota nella sezione sulla letteratura) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/annullate |
-| Numero di autorizzazioni | 2 (entrambe annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -60,7 +60,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel rec
 
 Il potenziamento noradrenergico nei circuiti prefrontali è lo stesso meccanismo dei farmaci non stimolanti approvati per l'ADHD, come l'atomoxetina. Questo rende plausibile un legame con il controllo dei sintomi dell'ADHD. Uno studio PET (2014) ha inoltre mostrato un'occupazione del trasportatore NET da parte della nortriptilina in pazienti con depressione.
 
-Il punteggio TxGNN molto alto (0,994) è però solo una previsione computazionale e non costituisce evidenza clinica. Anche la seconda previsione (ADHD, tipo inattentivo; punteggio 99,33%) probabilmente riflette la stretta parentela con il termine ADHD generale, più che un segnale indipendente, e non ha alcuna evidenza specifica.
+Il punteggio TxGNN molto alto (0,9942) è però solo una previsione computazionale e non costituisce evidenza clinica. Anche la seconda previsione (ADHD, tipo inattentivo; punteggio 0,9933) probabilmente riflette la stretta parentela con il termine ADHD generale, più che un segnale indipendente, e non ha alcuna evidenza specifica.
 
 ## Evidenze da studi clinici
 
@@ -87,8 +87,8 @@ Attualmente non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 048433027 | NORITREN 28 cpr rivestite 25 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione annullata) |
-| 048433015 | NORITREN 28 cpr rivestite 10 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione annullata) |
+| 048433027 | NORITREN 28 cpr rivestite 25 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 048433015 | NORITREN 28 cpr rivestite 10 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia.
 

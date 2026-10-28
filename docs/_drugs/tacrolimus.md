@@ -4,17 +4,17 @@ title: Tacrolimus
 parent: Prove elevate (L1-L2)
 nav_order: 417
 evidence_level: L1
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (livello di evidenza L1). Indicazione originale: Dermatite atopica (eczema atopico)"
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **3** 
+Livello di evidenza: **L1** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 </div>
 
-## Tacrolimus: Dalla dermatite atopica alla dermatite seborroica
+## Tacrolimus: Dermatite seborroica (seborrheic dermatitis)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -48,11 +48,11 @@ con **2 studi clinici** direttamente pertinenti (uno di fase 3 completato e uno 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Dermatite atopica (eczema atopico); il testo dell'indicazione approvata non è presente nei dati AIFA compilati, quindi l'indicazione deriva dal grafo di conoscenza TxGNN |
-| Nuova indicazione prevista | Dermatite seborroica |
-| Punteggio di predizione TxGNN | 99,26% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Dermatite seborroica (seborrheic dermatitis) |
+| Punteggio di predizione TxGNN | 0.9926 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -98,11 +98,11 @@ Si precisa che questo collegamento meccanicistico si basa sulla farmacologia gen
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035575036 | PROTOPIC unguento dermatologico 30 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione cancellata) |
-| 035575051 | PROTOPIC unguento dermatologico 10 g 0,03% (LEO Pharma) | Unguento | Non disponibile (autorizzazione cancellata) |
-| 035575063 | PROTOPIC unguento dermatologico 10 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione cancellata) |
-| 043815048 | CARELIMUS unguento dermatologico 10 g 0,1% (Difa Cooper) | Unguento | Non disponibile (autorizzazione cancellata) |
-| 029485048 | PROGRAF 30 cps 5 mg (Astellas) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 035575036 | PROTOPIC unguento dermatologico 30 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
+| 035575051 | PROTOPIC unguento dermatologico 10 g 0,03% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
+| 035575063 | PROTOPIC unguento dermatologico 10 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
+| 043815048 | CARELIMUS unguento dermatologico 10 g 0,1% (Difa Cooper) | Unguento | Non disponibile (autorizzazione valida) |
+| 029485048 | PROGRAF 30 cps 5 mg (Astellas) | Capsule | Non disponibile (autorizzazione valida) |
 
 Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. La disponibilità effettiva dei prodotti deve essere verificata.
 
@@ -110,7 +110,7 @@ Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizz
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni (dal grafo di conoscenza, non dal foglietto illustrativo)**: il grafo di conoscenza TxGNN associa al tacrolimus condizioni quali ipertensione, sindrome del QT lungo e torsioni di punta, insufficienza epatica, malattia renale, iperglicemia e diabete (inclusa chetoacidosi diabetica), infezioni (herpes simplex, herpes zoster, mononucleosi infettiva, infezione cronica da virus di Epstein-Barr), tumori e linfomi (incluso linfoma primitivo del sistema nervoso centrale), leucoencefalopatia multifocale progressiva, sindrome da leucoencefalopatia posteriore, epilessia, delirio e alcune anemie aplastiche ereditarie. Queste associazioni sono soprattutto riferite alla via sistemica e non al testo ufficiale di etichetta.
+- **Controindicazioni (dal modello TxGNN, non dal foglietto illustrativo)**: il modello TxGNN (deep learning) associa al tacrolimus condizioni quali ipertensione, sindrome del QT lungo e torsioni di punta, insufficienza epatica, malattia renale, iperglicemia e diabete (inclusa chetoacidosi diabetica), infezioni (herpes simplex, herpes zoster, mononucleosi infettiva, infezione cronica da virus di Epstein-Barr), tumori e linfomi (incluso linfoma primitivo del sistema nervoso centrale), leucoencefalopatia multifocale progressiva, sindrome da leucoencefalopatia posteriore, epilessia, delirio e alcune anemie aplastiche ereditarie. Queste associazioni provengono dal modello e possono riflettere similarità apprese tra malattie correlate, non evidenze biologiche. Sono soprattutto riferite alla via sistemica e non al testo ufficiale di etichetta.
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni. Tra quelle di livello **maggiore** figurano amfotericina B (anche in complesso lipidico), loperamide, mesalazina, omeprazolo e balsalazide. Tra quelle di livello **moderato** figurano acarbosio, famotidina, rabeprazolo, idrocortisone, triamcinolone, desametasone, betametasone, budesonide, metronidazolo, aprepitant, metformina, pioglitazone, albiglutide e alogliptin.
 - **Avvertenza di classe**: per gli inibitori topici della calcineurina esiste un'avvertenza sul rischio teorico di neoplasie con l'uso prolungato; la revisione sistematica con meta-analisi del 2023 ([36370744](https://pubmed.ncbi.nlm.nih.gov/36370744/)) è rilevante per rivalutare questa preoccupazione.
 
@@ -136,8 +136,7 @@ Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 comple
 
 ## Altre indicazioni previste (breve nota)
 
-- **Dermatite (generica)**: punteggio TxGNN 99,17%, livello di evidenza L1. Il termine si sovrappone in larga parte all'indicazione originale (dermatite atopica), per cui si tratta di fatto di un uso on-label o quasi, più che di un vero riposizionamento. Decisione: Proceed with Guardrails.
-- **Parapsoriasi**: punteggio TxGNN 99,24%, livello di evidenza L4. Le evidenze si limitano a due case report su pitiriasi lichenoide trattata con tacrolimus topico ([15149526](https://pubmed.ncbi.nlm.nih.gov/15149526/), [12823321](https://pubmed.ncbi.nlm.nih.gov/12823321/)); il match con la parapsoriasi è approssimativo. Classificata come domanda di ricerca (Research Question).
+- **Parapsoriasi**: punteggio TxGNN 0,9924, livello di evidenza L4. Le evidenze si limitano a due case report su pitiriasi lichenoide trattata con tacrolimus topico ([15149526](https://pubmed.ncbi.nlm.nih.gov/15149526/), [12823321](https://pubmed.ncbi.nlm.nih.gov/12823321/)); il match con la parapsoriasi è approssimativo. Classificata come domanda di ricerca (Research Question).
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

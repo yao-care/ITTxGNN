@@ -46,17 +46,17 @@ Degarelix è un antagonista del recettore del GnRH, noto nella pratica clinica p
 |------|------|
 | Indicazione originale | Non riportata nei dati compilati per questo report (le autorizzazioni AIFA non contengono il testo dell'indicazione) |
 | Nuova indicazione predetta | Ipertricosi (malattia) |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0,9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, degarelix è un antagonista del recettore del GnRH: sopprime LH e FSH e riduce testosterone e androgeni a valle.
 
-Il legame con l'ipertricosi è **debole e speculativo**. L'ipertricosi, a differenza dell'irsutismo, in genere non è guidata dagli androgeni, quindi non c'è una chiara ragione per cui la soppressione androgenica possa essere utile. Il punteggio elevato riflette probabilmente la vicinanza nel grafo di conoscenza (fenotipi legati ai peli), non un'evidenza biologica o clinica.
+Il legame con l'ipertricosi è **debole e speculativo**. L'ipertricosi, a differenza dell'irsutismo, in genere non è guidata dagli androgeni, quindi non c'è una chiara ragione per cui la soppressione androgenica possa essere utile. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate (fenotipi legati ai peli), non un'evidenza biologica o clinica.
 
 Anche le altre predizioni ad alto punteggio mostrano un quadro simile:
 
@@ -76,8 +76,8 @@ Attualmente non risulta letteratura correlata disponibile.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 039232020 | FIRMAGON 2 flaconcini polv 120 mg + 2 siringhe solv 3 ml (Ferring Pharmaceuticals A/S) | Non indicata | Non indicata (autorizzazione cancellata) |
-| 039232018 | FIRMAGON 1 flaconcino 80 mg polv + 1 siringa solv 4,2 ml (Ferring Pharmaceuticals A/S) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 039232020 | FIRMAGON 2 flaconcini polv 120 mg + 2 siringhe solv 3 ml (Ferring Pharmaceuticals A/S) | Non indicata | Non indicata (autorizzazione valida) |
+| 039232018 | FIRMAGON 1 flaconcino 80 mg polv + 1 siringa solv 4,2 ml (Ferring Pharmaceuticals A/S) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Citotossicità
 
@@ -85,7 +85,7 @@ Degarelix è utilizzato in oncologia (carcinoma prostatico), ma è una terapia o
 
 ## Considerazioni di sicurezza
 
-**Controindicazioni derivate dal grafo di conoscenza** (associazioni farmaco-malattia di PrimeKG, non testo di scheda tecnica): sindrome del QT lungo (anche familiare), torsione di punta, malattie epatiche, malattie della cistifellea e carenza di potassio.
+**Controindicazioni riportate nelle associazioni farmaco-malattia di PrimeKG** (non testo di scheda tecnica): sindrome del QT lungo (anche familiare), torsione di punta, malattie epatiche, malattie della cistifellea e carenza di potassio.
 
 **Interazioni farmacologiche** (100 interazioni individuate; principali esempi):
 

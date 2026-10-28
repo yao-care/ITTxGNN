@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Montelukast
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 309
-evidence_level: L5
-indication_count: 5
+evidence_level: L2
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Montelukast: nuova indicazione prevista, Bronchite (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria…"
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L2** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Montelukast: Dall'asma e la rinite allergica alla bronchite
+## Montelukast: Bronchite (bronchitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,11 +46,11 @@ Il montelukast è un antagonista del recettore CysLT1 dei leucotrieni, originari
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Rinite allergica, rinite vasomotoria, asma intrinseco e allergico (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Bronchite |
-| Punteggio di predizione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Bronchite (bronchitis) |
+| Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L2 (nessuno studio di fase 3 completato nella bronchite; studi randomizzati di piccole dimensioni e studi di fase 2) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte revocate) |
 | Decisione raccomandata | Hold (da trattare come quesito di ricerca) |
 
@@ -106,11 +106,11 @@ Sono riportati i 10 studi più rilevanti (su 16 registrati per questa indicazion
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034001014 | Singulair, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
-| 034003057 | Montegen, 28 cpr masticabili 4 mg (Neopharmed Gentili) | Compresse masticabili | Non disponibile (autorizzazione revocata) |
-| 034004010 | Lukasm, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
-| 040398051 | Monkasta, 28 cpr masticabili 4 mg (Krka) | Compresse masticabili | Non disponibile (autorizzazione revocata) |
-| 041361039 | Leukast, 28 cpr rivestite 10 mg (Konpharma) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 034001014 | Singulair, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034003057 | Montegen, 28 cpr masticabili 4 mg (Neopharmed Gentili) | Compresse masticabili | Non disponibile (autorizzazione valida) |
+| 034004010 | Lukasm, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 040398051 | Monkasta, 28 cpr masticabili 4 mg (Krka) | Compresse masticabili | Non disponibile (autorizzazione valida) |
+| 041361039 | Leukast, 28 cpr rivestite 10 mg (Konpharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Sono elencate 5 delle 20 autorizzazioni, tutte con stato "revocata".
 
@@ -132,7 +132,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 
 **Motivazione:**
 - La plausibilità meccanicistica è reale, ma le evidenze nella bronchite sono eterogenee: gli studi sulla bronchiolite virale mostrano benefici incoerenti, mentre gli studi su BOS e bronchite eosinofila sono piccoli ed esplorativi. Non risultano studi di fase 3 completati con esito positivo specifico per questa indicazione (NCT00076973 è di fase 3, ma privo di una valutazione di rilevanza nei dati).
-- Tutte le 20 autorizzazioni italiane risultano revocate e pesano i segnali neuropsichiatrici.
+- Le 20 autorizzazioni italiane risultano valide, il farmaco è in commercio, e pesano i segnali neuropsichiatrici.
 
 **Per procedere, è necessario:**
 - Reperire e analizzare la scheda tecnica AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.

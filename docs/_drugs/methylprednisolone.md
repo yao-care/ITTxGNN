@@ -4,7 +4,7 @@ title: Methylprednisolone
 parent: Prove moderate (L3-L4)
 nav_order: 293
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Methylprednisolone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Malattie autoimmuni (tra cui malattia di Crohn…"
 monitor_inn: "methylprednisolone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Methylprednisolone
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ con **1 studio clinico** registrato e **20 pubblicazioni** a supporto di questa 
 |------|------|
 | Indicazione originale | Malattie autoimmuni (tra cui malattia di Crohn, malattia infiammatoria intestinale, insufficienza surrenalica, leucemia linfoblastica acuta); il testo dell'indicazione approvata AIFA non è disponibile |
 | Nuova indicazione prevista | Alopecia areata |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0,9999 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 15 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -99,11 +99,11 @@ Le 15 autorizzazioni risultano tutte cancellate; il testo dell'indicazione appro
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 048212031 | METILDROL 30 cpr 16 mg | SO.SE.PHARM Srl | Cancellata |
-| 046679039 | METILPREDNISOLONE 30 cpr 16 mg | DOC GENERICI Srl | Cancellata |
-| 023202043 | SOLUMEDROL 1 flacone IM EV 125 mg 2 ml | PFIZER ITALIA Srl | Cancellata |
-| 047328024 | METILPREDNISOLONE 20 cpr 16 mg | EG SpA | Cancellata |
-| 014159040 | MEDROL 20 cpr 16 mg | PFIZER ITALIA Srl | Cancellata |
+| 048212031 | METILDROL 30 cpr 16 mg | SO.SE.PHARM Srl | Valida |
+| 046679039 | METILPREDNISOLONE 30 cpr 16 mg | DOC GENERICI Srl | Valida |
+| 023202043 | SOLUMEDROL 1 flacone IM EV 125 mg 2 ml | PFIZER ITALIA Srl | Valida |
+| 047328024 | METILPREDNISOLONE 20 cpr 16 mg | EG SpA | Valida |
+| 014159040 | MEDROL 20 cpr 16 mg | PFIZER ITALIA Srl | Valida |
 
 ---
 

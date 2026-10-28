@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flecainide
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 199
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L5). Indicazione originale: Fibrillazione atriale (dal grafo di conoscenza"
 monitor_inn: "FLECAINIDE"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Flecainide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Flecainide: Dalla fibrillazione atriale all'ictus (stroke disorder)
+## Flecainide: Ictus (stroke disorder)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ La flecainide è un antiaritmico di classe IC (bloccante dei canali del sodio), 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Fibrillazione atriale (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Ictus (stroke disorder) |
-| Punteggio di previsione TxGNN | 99,91% |
+| Punteggio di previsione TxGNN | 0.9991 |
 | Livello di evidenza | L2 secondo la classificazione compilata; a nostro avviso, in senso stretto, più vicino a L5 (vedi sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 18 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 18 su 18) |
+| Numero di autorizzazioni | 18 (valide: 18) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Il legame con l'ictus è indiretto. La fibrillazione atriale è una causa importante di ictus cardioembolico: mantenendo il ritmo sinusale, la flecainide potrebbe ridurre il carico di aritmia e quindi il rischio embolico. Non è però stato dimostrato che la flecainide riduca direttamente l'ictus.
 
-Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzione delle aritmie atriali dopo la chiusura del forame ovale pervio (PFO), in una popolazione definita da ictus criptogenetico. L'endpoint è l'aritmia, non la recidiva di ictus. Il punteggio TxGNN è molto alto (0,999), ma la letteratura è costituita soprattutto da revisioni sulla gestione della fibrillazione atriale. Inoltre, la flecainide è controindicata nelle cardiopatie strutturali/ischemiche, frequenti nei pazienti con ictus.
+Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzione delle aritmie atriali dopo la chiusura del forame ovale pervio (PFO), in una popolazione definita da ictus criptogenetico. L'endpoint è l'aritmia, non la recidiva di ictus. Il punteggio TxGNN è molto alto (0,9991), ma la letteratura è costituita soprattutto da revisioni sulla gestione della fibrillazione atriale. Inoltre, la flecainide è controindicata nelle cardiopatie strutturali/ischemiche, frequenti nei pazienti con ictus.
 
 ---
 
@@ -95,11 +95,11 @@ Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzio
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042864064 | Fleiderina 30 cps 150 mg rilascio prolungato (Bruno Farmaceutici) | Capsule a rilascio prolungato | Cancellata |
-| 025728015 | Almarytm 20 cpr 100 mg (Viatris Healthcare) | Compresse | Cancellata |
-| 042854024 | Frequil 30 cps 50 mg rilascio prolungato (Dompé Farmaceutici) | Capsule a rilascio prolungato | Cancellata |
-| 038100018 | Flecainide 20 cpr 100 mg (Teva Italia) | Compresse | Cancellata |
-| 037415015 | Flecainide 20 cpr 100 mg (Sandoz) | Compresse | Cancellata |
+| 042864064 | Fleiderina 30 cps 150 mg rilascio prolungato (Bruno Farmaceutici) | Capsule a rilascio prolungato | Valida |
+| 025728015 | Almarytm 20 cpr 100 mg (Viatris Healthcare) | Compresse | Valida |
+| 042854024 | Frequil 30 cps 50 mg rilascio prolungato (Dompé Farmaceutici) | Capsule a rilascio prolungato | Valida |
+| 038100018 | Flecainide 20 cpr 100 mg (Teva Italia) | Compresse | Valida |
+| 037415015 | Flecainide 20 cpr 100 mg (Sandoz) | Compresse | Valida |
 
 Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 

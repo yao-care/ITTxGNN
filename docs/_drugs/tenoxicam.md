@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tenoxicam
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 427
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tenoxicam: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L3). Indicazione originale: Malattie articolari artritiche e artropatie"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "TENOXICAM"
-predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
+last_modified_at: 2026-10-23
+description: "Tenoxicam: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5)."
 ---
 
 # Tenoxicam
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,79 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Tenoxicam: dalle malattie articolari artritiche all'artrite reumatoide
+## Tenoxicam: dall'artropatia articolare alla sindrome brachidattilia-sindattilia
 {: .text-alpha }
 
-## Riepilogo in una frase
+## Sintesi in una frase
 
-Il tenoxicam è un antinfiammatorio non steroideo (FANS) della classe degli oxicam, originariamente impiegato per le malattie articolari artritiche e le artropatie.
-Il modello TxGNN prevede che possa essere efficace per l'**artrite reumatoide**, con **0 sperimentazioni cliniche registrate** e **19 pubblicazioni** a supporto di questa direzione; si tratta di un uso di fatto già vicino alle indicazioni originarie, non di un vero riposizionamento.
+Tenoxicam è un antinfiammatorio non steroideo (FANS), le cui indicazioni originarie registrate nel grafo di conoscenza sono la malattia articolare artritica e l'artropatia. Il modello TxGNN prevede una possibile utilità nei **disturbi della cefalea (headache disorder)**, supportata da **1 studio clinico** (di fase 4, ancora in corso e senza risultati) e **2 pubblicazioni** indirette; l'evidenza resta quindi debole e riferita alla classe farmacologica più che al singolo principio attivo.
 
----
+Nota: la predizione con il punteggio TxGNN più alto (rank 1) è la sindrome brachidattilia-sindattilia, priva di qualsiasi supporto clinico o bibliografico. Questo report si concentra sull'indicazione predetta con il maggior supporto, ossia la cefalea (rank 3).
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattie articolari artritiche e artropatie |
-| Nuova indicazione prevista | Artrite reumatoide |
-| Punteggio di predizione TxGNN | 99,90% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Indicazione originaria | Malattia articolare artritica, artropatia (relazioni registrate nel grafo di conoscenza; il testo dell'indicazione nella licenza AIFA non è disponibile) |
+| Nuova indicazione predetta | Disturbo della cefalea (headache disorder) |
+| Punteggio di predizione TxGNN | 0,9968 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
+| Decisione raccomandata | Hold |
 
----
+Il livello di evidenza è L5: lo studio NCT06786650 riguarda l'emicrania acuta, una forma di cefalea, ma non ha risultati disponibili. Le due pubblicazioni non confermano che tenoxicam sia stato valutato specificamente. Non c'è quindi uno studio concluso che dimostri direttamente l'effetto di tenoxicam sulla malattia predetta. Il livello L3 attribuito nei dati compilati non è sostenibile con questi elementi.
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Il tenoxicam inibisce COX-1 e COX-2 e riduce l'infiammazione e il dolore articolare mediati dalle prostaglandine. I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report; la descrizione si basa quindi sulle conoscenze generali della classe degli oxicam.
+I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati. In base alle conoscenze generali, tenoxicam è un FANS non selettivo che inibisce COX-1 e COX-2 e quindi la sintesi di prostaglandine. Queste molecole contribuiscono all'infiammazione neurogena e alla trasmissione del dolore nell'emicrania e in altre cefalee primarie.
 
-Il meccanismo è lo stesso delle indicazioni articolari originarie: l'artrite reumatoide è, di fatto, un uso in indicazione o quasi in indicazione, più che un vero riposizionamento. Gli studi comparativi e le rassegne pubblicate mostrano un'efficacia sintomatica, in linea con quella di altri FANS come il piroxicam.
+La relazione con l'indicazione originaria è di tipo sintomatico: dolore e infiammazione articolare da un lato, dolore cefalalgico mediato da prostaglandine dall'altro. I FANS sono una classe consolidata nel trattamento dell'attacco acuto di emicrania, quindi il legame biologico è credibile. Tuttavia le prove sono a livello di classe e non specifiche per tenoxicam.
 
-Va tenuto presente che i FANS alleviano i sintomi ma non modificano il decorso della malattia. Inoltre, poiché lo stato di mercato in Italia è «solo revocata», la disponibilità del prodotto è un vincolo pratico.
+Per le altre predizioni, il legame meccanicistico è assente o molto debole: sindromi malformative congenite, ipotricosi ereditarie e alopecia areata non hanno un meccanismo plausibile legato all'inibizione della COX. La cefalea autonomica trigeminale (rank 7) ha solo una plausibilità indiretta di classe (ad esempio l'emicrania parossistica risponde all'indometacina), senza dati su tenoxicam.
 
----
+## Evidenza da studi clinici
 
-## Evidenze dagli studi clinici
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
+|---------|------|------|------|---------|
+| [NCT06786650](https://clinicaltrials.gov/study/NCT06786650) | Fase 4 | Attivo, non in reclutamento | 100 | Confronto dell'effetto analgesico di ibuprofene e.v. e tenoxicam e.v. nell'attacco acuto di emicrania; nessun risultato ancora disponibile |
 
-Al momento non risultano sperimentazioni cliniche registrate per l'artrite reumatoide.
-
----
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [8894360](https://pubmed.ncbi.nlm.nih.gov/8894360/) | 1996 | RCT | Clinical Rheumatology | Studio in doppio cieco su 292 pazienti con artrite reumatoide: aceclofenac vs tenoxicam, miglioramento clinico in entrambi i gruppi per 3 mesi |
-| [2695152](https://pubmed.ncbi.nlm.nih.gov/2695152/) | 1989 | RCT in doppio cieco | Br J Clin Pract | 1.328 pazienti con artrosi o artrite reumatoide: tenoxicam vs piroxicam, con efficacia globale leggermente superiore per il tenoxicam |
-| [1593574](https://pubmed.ncbi.nlm.nih.gov/1593574/) | 1992 | Studio comparativo | J Rheumatol | Tenoxicam 20 mg vs piroxicam 20 mg in 102 pazienti con AR: nessuna differenza di efficacia e tollerabilità simile |
-| [3915885](https://pubmed.ncbi.nlm.nih.gov/3915885/) | 1985 | Studi clinici in doppio cieco | Eur J Rheumatol Inflamm | Tenoxicam 20 mg/die almeno efficace quanto il piroxicam in artrosi, AR e spondilite anchilosante |
-| [2292331](https://pubmed.ncbi.nlm.nih.gov/2292331/) | 1990 | Studio multicentrico | J Int Med Res | 2.963 pazienti in medicina generale con artrosi o AR trattati con 20 mg/die per 12 settimane |
-| [1711963](https://pubmed.ncbi.nlm.nih.gov/1711963/) | 1991 | Rassegna | Drugs | Aggiornamento su farmacologia ed efficacia nelle malattie reumatiche; efficacia almeno equivalente ad altri FANS |
-| [3315620](https://pubmed.ncbi.nlm.nih.gov/3315620/) | 1987 | Rassegna | Drugs | Revisione preliminare: 20 mg/die ugualmente efficace del piroxicam, con somministrazione una volta al giorno |
-| [3329109](https://pubmed.ncbi.nlm.nih.gov/3329109/) | 1987 | Rassegna | Eur J Rheumatol Inflamm | Panoramica di 133 studi clinici; dose ottimale 20 mg |
-| [3317799](https://pubmed.ncbi.nlm.nih.gov/3317799/) | 1987 | Rassegna | Scand J Rheumatol Suppl | Nove studi clinici; minor perdita ematica gastrointestinale rispetto all'aspirina |
-| [8137596](https://pubmed.ncbi.nlm.nih.gov/8137596/) | 1994 | Rassegna (farmacocinetica) | Clin Pharmacokinet | Assorbimento orale completo, legame alle proteine plasmatiche di circa il 99% |
+| [27813032](https://pubmed.ncbi.nlm.nih.gov/27813032/) | 2016 | Coorte | Agri | Confronto tra triptani, FANS e loro combinazione nel trattamento dell'attacco di emicrania |
+| [18345416](https://pubmed.ncbi.nlm.nih.gov/18345416/) | 2007 | Revisione | Arquivos de Neuro-Psiquiatria | Caratteristiche cliniche e trattamento delle cefalee primarie acute in un centro di emergenza; l'emicrania probabile è stata la forma più frequente |
 
----
+Non è stato possibile confermare dai soli titoli e abstract che tenoxicam sia valutato specificamente in queste pubblicazioni.
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034990010 | BART*30 cpr rivestite 20 mg (SO.SE.PHARM Srl) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 034990010 | BART*30 cpr rivestite 20 mg | Compresse rivestite | Non disponibile |
 
----
+Il prodotto è un medicinale a singolo principio attivo, in stato valido. Titolare: SO.SE.PHARM Srl.
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-Per le informazioni di sicurezza si rimanda al foglietto illustrativo.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non risultano interazioni farmacologiche registrate né controindicazioni derivate dal grafo di conoscenza.
 
-Dalla letteratura emerge inoltre una segnalazione di alopecia come possibile reazione avversa al tenoxicam (caso clinico, PMID 9303679).
+Un segnale di sicurezza emerge dalla letteratura: un case report del 1997 (PMID [9303679](https://pubmed.ncbi.nlm.nih.gov/9303679/)) descrive l'alopecia come possibile effetto avverso di tenoxicam. Ciò rende l'indicazione "alopecia" non solo priva di supporto, ma potenzialmente contraddetta.
 
----
+## Conclusione e prossimi passi
 
-## Altre indicazioni previste (sintesi)
-
-| Indicazione prevista | Punteggio TxGNN | Livello di evidenza | Raccomandazione |
-|------|------|------|------|
-| Cefalea (headache disorder) | 99,68% | L3 | Domanda di ricerca: studio di fase 4 in corso (NCT06786650, 100 pazienti) che confronta tenoxicam e ibuprofene per via endovenosa nell'attacco acuto di emicrania; nessun risultato ancora disponibile |
-| Alopecia | 99,60% | L4 | Hold: l'unica pubblicazione descrive l'alopecia come effetto avverso, quindi un segnale di sicurezza contrario all'uso |
-| Altre (sindrome brachidattilia-sindattilia, sindrome colobomatosa con microftalmia e displasia rizomelica, suscettibilità all'osteoartrite, ipotricosi, alopecia areata diffusa, cefalea autonomica trigeminale) | 99,6–99,8% | L5 | Hold: predizioni solo computazionali, senza studi né un meccanismo plausibile |
-
----
-
-## Conclusioni e prossimi passi
-
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-L'efficacia sintomatica del tenoxicam nell'artrite reumatoide è sostenuta da RCT comparativi e rassegne, ma si tratta di un uso quasi in indicazione, di evidenza datata, senza effetto modificante la malattia. Il prodotto autorizzato in Italia risulta inoltre revocato.
+Il legame biologico con la cefalea è plausibile per la classe dei FANS, ma l'unico studio su tenoxicam è ancora in corso e senza risultati, e la letteratura è indiretta. Le altre predizioni con punteggio più alto non hanno alcun supporto.
 
 **Per procedere sono necessari:**
-- Verifica della disponibilità commerciale o di una nuova autorizzazione in Italia
-- Consultazione del foglietto illustrativo AIFA per avvertenze e controindicazioni
-- Dati dettagliati sul meccanismo d'azione (MOA)
-- Confronto con i FANS oggi disponibili e con i trattamenti modificanti la malattia
-- Per la cefalea: attesa dei risultati dello studio NCT06786650
+- I risultati dello studio NCT06786650 (tenoxicam e.v. vs ibuprofene e.v. nell'emicrania acuta)
+- Dati sul meccanismo d'azione di tenoxicam
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA e l'indicazione approvata della licenza
+- Valutazione della compatibilità della via di somministrazione (la formulazione italiana è orale, lo studio usa la via endovenosa)
+- Studi mirati su tenoxicam, non solo sulla classe dei FANS, per le cefalee primarie
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

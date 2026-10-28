@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Glucagon
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 225
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati"
@@ -14,7 +14,7 @@ predicted_indications: ["irritable bowel syndrome"]
 # Glucagon
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **L3** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Il glucagone è un ormone peptidico usato in medicina per correggere l'ipoglicem
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle licenze AIFA sono vuoti) |
 | Nuova indicazione prevista | Sindrome dell'intestino irritabile |
-| Punteggio di predizione TxGNN | 99,24% |
+| Punteggio di predizione TxGNN | 0,9924 |
 | Livello di evidenza | L3 (evidenza indiretta: studi su analoghi del GLP-1, revisioni sistematiche e osservazionali; nessuno studio sul glucagone) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (mantenere come domanda di ricerca) |
 
 ## Perché questa predizione è ragionevole?
@@ -86,8 +86,8 @@ Va sottolineato che l'estrapolazione dagli agonisti del GLP-1 al glucagone è in
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 048407011 | BAQSIMI*1 flacone polv nasale 3 mg (AMPHASTAR FRANCE PHARMACEUTIC.) | Non indicata | Non indicata (autorizzazione revocata) |
-| 027489018 | GLUCAGEN HYPOKIT*1 fiala 1 mg + 1 siringa 1 ml (NOVO NORDISK A/S) | Non indicata | Non indicata (autorizzazione revocata) |
+| 048407011 | BAQSIMI*1 flacone polv nasale 3 mg (AMPHASTAR FRANCE PHARMACEUTIC.) | Non indicata | Non indicata (autorizzazione valida) |
+| 027489018 | GLUCAGEN HYPOKIT*1 fiala 1 mg + 1 siringa 1 ml (NOVO NORDISK A/S) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

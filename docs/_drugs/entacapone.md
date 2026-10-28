@@ -46,10 +46,10 @@ Entacapone è un inibitore della COMT, originariamente impiegato come terapia ag
 |------|------|
 | Indicazione originale | Morbo di Parkinson e sindromi parkinsoniane correlate (forme giovanili ed ereditarie) |
 | Nuova indicazione prevista | Neurodegenerazione associata a PLA2G6 |
-| Punteggio di predizione TxGNN | 99,76% |
+| Punteggio di predizione TxGNN | 0,9976 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 1 (annullata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione può essere ragionevole?
@@ -58,7 +58,7 @@ Il meccanismo d'azione dettagliato non è attualmente disponibile nei dati compi
 
 La neurodegenerazione associata a PLA2G6 comprende la distrofia neuroassonale infantile e la distonia-parkinsonismo correlata a PLA2G6. Un possibile punto di contatto è il deficit dopaminergico, che si sovrappone a quello delle sindromi parkinsoniane. Tuttavia, nessun dato dimostra un beneficio sulla malattia di base: l'inibizione della COMT potrebbe al massimo avere un ruolo sintomatico nella componente parkinsoniana, non modificare il decorso neurodegenerativo.
 
-Va inoltre notato che tra le altre previsioni del modello compaiono diverse patologie senza alcun legame meccanicistico evidente (ad esempio mielite, deficit di transaldolasi, deficit di fruttosio-1,6-bisfosfatasi). Ciò suggerisce che i punteggi elevati riflettano in parte la vicinanza nel grafo di conoscenza e non una reale plausibilità biologica.
+Va inoltre notato che tra le altre previsioni del modello compaiono diverse patologie senza alcun legame meccanicistico evidente (ad esempio mielite, deficit di transaldolasi, deficit di fruttosio-1,6-bisfosfatasi). Ciò suggerisce che i punteggi elevati, che provengono dal modello TxGNN (deep learning), possano riflettere somiglianze apprese dal modello tra patologie correlate e non una reale plausibilità biologica.
 
 ## Evidenza clinica
 
@@ -72,7 +72,7 @@ Attualmente non risulta alcuna letteratura correlata a questa indicazione.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034231062 | COMTAN 100 compresse rivestite 200 mg flacone (Orion Corporation) | Non indicata | Non indicata (autorizzazione annullata) |
+| 034231062 | COMTAN 100 compresse rivestite 200 mg flacone (Orion Corporation) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

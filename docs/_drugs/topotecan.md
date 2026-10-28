@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Topotecan
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 443
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (livello di evidenza L3). Indicazione originale: Carcinoma ovarico (inclusi adenocarcinoma ovarico…"
 monitor_inn: "TOPOTECAN"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+description: "Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (female breast carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Topotecan: Dal carcinoma ovarico al carcinoma mammario femminile
+## Topotecan: Carcinoma mammario femminile (female breast carcinoma)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace nel **carcinoma mammario femm
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma ovarico (inclusi adenocarcinoma ovarico, tumore a cellule germinali maligno dell'ovaio, tumore del sacco vitellino e altri sottotipi) |
-| Nuova indicazione prevista | Carcinoma mammario femminile |
-| Punteggio di predizione TxGNN | 99,92% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Carcinoma mammario femminile (female breast carcinoma) |
+| Punteggio di predizione TxGNN | 0.9992 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -98,7 +98,7 @@ Il carcinoma ovarico e quello mammario condividono inoltre componenti biologiche
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033306073 | HYCAMTIN 10 capsule rigide 1 mg (SANDOZ PHARMACEUTICALS D.D.) | Non indicata | Non indicata (autorizzazione revocata) |
+| 033306073 | HYCAMTIN 10 capsule rigide 1 mg (SANDOZ PHARMACEUTICALS D.D.) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 
@@ -107,7 +107,6 @@ Il carcinoma ovarico e quello mammario condividono inoltre componenti biologiche
 | Voce | Contenuto |
 |------|------|
 | Classificazione citotossica | Citotossico convenzionale (inibitore della topoisomerasi I, classe delle camptotecine) |
-| Rischio di mielosoppressione | Alto (la mielosoppressione è la tossicità dose-limitante; il grafo di conoscenza associa al farmaco trombocitopenia, neutropenia, agranulocitosi e anemia) |
 | Classificazione emetogena | Da consultare nel foglio illustrativo |
 | Parametri da monitorare | Emocromo completo con formula, funzionalità renale ed epatica |
 | Protezione nella manipolazione | Applicare le norme per la manipolazione dei farmaci citotossici |

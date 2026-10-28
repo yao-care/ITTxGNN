@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ribavirin
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 377
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (livello di evidenza L5). Indicazione originale: Infezione cronica da HCV"
 monitor_inn: "Ribavirin"
-predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
+predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
+description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ribavirin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Ribavirina: dall'epatite C cronica all'epatite B cronica
+## Ribavirin: Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede che possa essere utile per l'**epatite B cronica**, con
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da HCV; infezione da HCV; malattia infettiva da RSV (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Infezione cronica da virus dell'epatite B |
-| Punteggio di predizione TxGNN | 99,86% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) |
+| Punteggio di predizione TxGNN | 0.9986 |
 | Livello di evidenza | L1 (secondo la classificazione automatica; vedi nota sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 **Nota sul livello di evidenza:** la classificazione L1 richiede almeno due studi di fase 3 completati. Qui solo NCT00114361 è di fase 3, completato e direttamente pertinente all'HBV. Gli altri studi di fase 3 riguardano l'HCV o sono di stato sconosciuto. Un livello più prudente sarebbe quindi L2.
@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere utile per l'**epatite B cronica**, con
 
 Il meccanismo d'azione dettagliato non è presente nei dati compilati per questo report. La ribavirina è un analogo della guanosina ad ampio spettro antivirale: inibisce le inosina monofosfato deidrogenasi (IMPDH1 e IMPDH2), riduce il pool intracellulare di GTP e ha effetti immunomodulatori. Le due IMPDH sono i bersagli farmacologici riportati nei dati.
 
-HCV e HBV sono entrambi virus epatotropi che causano epatite cronica, cirrosi e carcinoma epatocellulare. Spesso i pazienti vengono trattati con regimi a base di interferone, e questo spiega la prossimità nel grafo di conoscenza. Tuttavia l'attività anti-HBV diretta della ribavirina è debole: un eventuale beneficio sarebbe come terapia aggiuntiva al peginterferone, non come farmaco singolo. Molti studi recuperati riguardano la coinfezione HCV/HBV, dove la ribavirina agisce sulla componente HCV.
+HCV e HBV sono entrambi virus epatotropi che causano epatite cronica, cirrosi e carcinoma epatocellulare. Spesso i pazienti vengono trattati con regimi a base di interferone; il punteggio deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche. Tuttavia l'attività anti-HBV diretta della ribavirina è debole: un eventuale beneficio sarebbe come terapia aggiuntiva al peginterferone, non come farmaco singolo. Molti studi recuperati riguardano la coinfezione HCV/HBV, dove la ribavirina agisce sulla componente HCV.
 
 Non ci sono prove di un beneficio solido rispetto alla terapia standard per l'HBV (analoghi nucleos(t)idici, peginterferone).
 

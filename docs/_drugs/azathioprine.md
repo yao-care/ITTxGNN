@@ -4,17 +4,17 @@ title: Azathioprine
 parent: Solo previsione del modello (L5)
 nav_order: 58
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Azathioprine: nuova indicazione prevista, Sindrome da microftalmia colobomatosa con displasia rizomelica (livello di evidenza L5). Indicazione originale: Artrite reumatoide"
 monitor_inn: "Azathioprine"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+description: "Azathioprine: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Azatioprina: da artrite reumatoide a sindrome microftalmia-coloboma con displasia rizomelica
+## Azathioprine: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ L'azatioprina è un immunosoppressore (antimetabolita delle purine), originariam
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide |
-| Nuova indicazione prevista | Sindrome da microftalmia colobomatosa con displasia rizomelica |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -60,7 +60,7 @@ L'azatioprina è un immunosoppressore (antimetabolita delle purine), originariam
 
 I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze disponibili, l'azatioprina è un antimetabolita purinico con azione immunosoppressiva, la cui efficacia nelle patologie immuno-mediate come l'artrite reumatoide è consolidata.
 
-La nuova indicazione prevista è invece una rara sindrome dello sviluppo, a base genetica, che coinvolge occhio e scheletro. **Non si individua alcun legame meccanicistico plausibile**: l'immunosoppressione non ha un ruolo razionale in una condizione malformativa non immuno-mediata. Il punteggio elevato riflette soltanto la struttura del grafo di conoscenza su cui si basa il modello e non è corroborato da alcuna evidenza clinica o bibliografica.
+La nuova indicazione prevista è invece una rara sindrome dello sviluppo, a base genetica, che coinvolge occhio e scheletro. **Non si individua alcun legame meccanicistico plausibile**: l'immunosoppressione non ha un ruolo razionale in una condizione malformativa non immuno-mediata.
 
 ---
 
@@ -78,14 +78,14 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte e quattro le autorizzazioni censite sono cancellate; nessuna è attualmente valida. I prodotti sono compresse rivestite da 50 mg.
+I prodotti sono compresse rivestite da 50 mg.
 
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 050866019 | Azatioprina 50 mg cpr rivestite | DOC Generici Srl | Cancellata |
-| 020957039 | Azatioprina 50 mg cpr rivestite | Aspen Pharma Trading Limited | Cancellata |
-| 036292050 | Azatioprina 50 mg cpr rivestite | Sandoz SpA | Cancellata |
-| 037534017 | Azafor 50 mg cpr rivestite | Dymalife Pharmaceutical Srl | Cancellata |
+| 050866019 | Azatioprina 50 mg cpr rivestite | DOC Generici Srl | Valida |
+| 020957039 | Azatioprina 50 mg cpr rivestite | Aspen Pharma Trading Limited | Valida |
+| 036292050 | Azatioprina 50 mg cpr rivestite | Sandoz SpA | Valida |
+| 037534017 | Azafor 50 mg cpr rivestite | Dymalife Pharmaceutical Srl | Valida |
 
 ---
 

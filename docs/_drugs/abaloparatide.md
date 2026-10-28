@@ -46,25 +46,25 @@ Abaloparatide è un analogo del peptide PTHrP che agisce sul recettore PTH1 e st
 |------|------|
 | Indicazione originale | Osteoporosi post-menopausale ad alto rischio di frattura (da dati di farmacologia; il testo dell'indicazione nella licenza AIFA non è disponibile) |
 | Nuova indicazione prevista | Malformazione esofagea non sindromica |
-| Punteggio di previsione TxGNN | 99,84% |
+| Punteggio di previsione TxGNN | 0,9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
 I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Si sa che abaloparatide è un analogo di PTHrP e un agonista del recettore PTH1 (gene PTH1R), con effetto anabolico sull'osso. Nello studio di fase 3 NCT01343004 ha ridotto il rischio di nuove fratture nelle donne in post-menopausa rispetto al placebo, con minore incidenza di ipercalcemia rispetto a teriparatide.
 
-Non è stato individuato un collegamento meccanicistico consolidato tra la stimolazione del recettore PTH1 e le malformazioni dello sviluppo esofageo. La segnalazione PTHrP partecipa ad alcuni processi epiteliali e di sviluppo, ma questa è un'ipotesi speculativa, non supportata dai dati disponibili. Il punteggio TxGNN (0,998) deriva dal grafo di conoscenza e non costituisce una prova di efficacia. Poiché il meccanismo originale non è documentato nei dati, la previsione non può essere verificata rispetto alla farmacologia nota.
+Non è stato individuato un collegamento meccanicistico consolidato tra la stimolazione del recettore PTH1 e le malformazioni dello sviluppo esofageo. La segnalazione PTHrP partecipa ad alcuni processi epiteliali e di sviluppo, ma questa è un'ipotesi speculativa, non supportata dai dati disponibili. Il punteggio TxGNN (0,9984) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche; non costituisce una prova di efficacia. Poiché il meccanismo originale non è documentato nei dati, la previsione non può essere verificata rispetto alla farmacologia nota.
 
 Altre previsioni del modello, tutte con evidenza di livello L5 e decisione Hold:
 
 | Indicazione prevista | Punteggio TxGNN | Osservazione |
 |------|------|------|
-| Malattia esofagea | 99,75% | Categoria troppo eterogenea per formulare un'ipotesi significativa |
-| Amenorrea | 99,72% | Possibile legame solo indiretto, tramite la protezione ossea nell'amenorrea ipoestrogenica; non tratterebbe l'amenorrea stessa e l'uso nelle donne in premenopausa non è stabilito |
-| Ulcera esofagea | 99,02% | Nessuna via nota per la guarigione della mucosa; esistono già terapie standard consolidate |
+| Malattia esofagea | 0,9975 | Categoria troppo eterogenea per formulare un'ipotesi significativa |
+| Amenorrea | 0,9972 | Possibile legame solo indiretto, tramite la protezione ossea nell'amenorrea ipoestrogenica; non tratterebbe l'amenorrea stessa e l'uso nelle donne in premenopausa non è stabilito |
+| Ulcera esofagea | 0,9902 | Nessuna via nota per la guarigione della mucosa; esistono già terapie standard consolidate |
 
 ## Evidenza da studi clinici
 
@@ -78,7 +78,7 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 050465018 | ELADYNOS (penna da 1,5 ml, 2 mg/ml), THERAMEX IRELAND LIMITED | Penna preriempita (iniettabile) | Non disponibile; autorizzazione cancellata |
+| 050465018 | ELADYNOS (penna da 1,5 ml, 2 mg/ml), THERAMEX IRELAND LIMITED | Penna preriempita (iniettabile) | Non disponibile; autorizzazione valida |
 
 ## Considerazioni di sicurezza
 

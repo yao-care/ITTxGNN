@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 405
-evidence_level: L1
-indication_count: 8
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Simvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (livello di evidenza L1). Indicazione originale: Ipercolesterolemia/dislipidemie e malattie aterosclerotiche e cerebro…"
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **8** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **8**
 
 </div>
 
-## Simvastatina: dall'ipercolesterolemia alla ipercolesterolemia familiare
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,11 +46,11 @@ Si tratta però di un'indicazione già consolidata o quasi coincidente con quell
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipercolesterolemia/dislipidemie e malattie aterosclerotiche e cerebrovascolari (testo autorizzativo AIFA non disponibile; indicazioni desunte dal grafo di conoscenza) |
-| Nuova indicazione prevista | Ipercolesterolemia familiare |
-| Punteggio di predizione TxGNN | 99,63% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Brain stem infarction |
+| Punteggio di predizione TxGNN | 0.9941 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -121,7 +121,6 @@ Avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili
 L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi di fase 3 completati e numerose revisioni e linee guida. Tuttavia si tratta di un uso già consolidato e non di un nuovo riposizionamento. Il profilo di interazioni e il rischio muscolare richiedono cautele, e tutte le autorizzazioni italiane sono cancellate.
 
 **Per procedere sono necessari:**
-- Foglio illustrativo AIFA (avvertenze e controindicazioni) e verifica dello stato regolatorio effettivo, dato che nessuna autorizzazione è valida.
 - Dati sul meccanismo d'azione da DrugBank.
 - Piano di gestione delle interazioni (CYP3A4, antiretrovirali, amiodarone, amlodipina, fibrati) e monitoraggio muscolare ed epatico.
 - Valutazione dedicata per l'uso pediatrico.

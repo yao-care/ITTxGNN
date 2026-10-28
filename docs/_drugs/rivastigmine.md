@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rivastigmine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 386
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L4). Indicazione originale: Malattia di Alzheimer (il testo dell'indicazione approvata AIFA non è…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
+description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Rivastigmina: dalla malattia di Alzheimer al glaucoma
+## Rivastigmine: Glaucoma
 {: .text-alpha }
 
 ## Sintesi
@@ -44,11 +44,11 @@ La rivastigmina è un inibitore delle colinesterasi, originariamente utilizzato 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Alzheimer (il testo dell'indicazione approvata AIFA non è disponibile nei dati compilati; l'indicazione deriva dal grafo di conoscenza TxGNN) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Glaucoma |
-| Punteggio di predizione TxGNN | 99,27% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Punteggio di predizione TxGNN | 0.9927 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -78,11 +78,11 @@ Tutte le 20 autorizzazioni risultano cancellate. Il testo dell'indicazione appro
 
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034078055 | EXELON 56 cps 3 mg | Novartis Europharm Ltd | Cancellata |
-| 034078081 | EXELON 56 cps 4,5 mg | Novartis Europharm Ltd | Cancellata |
-| 041261064 | DEMELORA 30 cerotti transdermici 9,5 mg/die | Neuraxpharm Italy SpA | Cancellata |
-| 041673106 | NIMVASTID 56 cps 3 mg | Krka d.d. Novo Mesto | Cancellata |
-| 043087143 | Rivastigmina 30 cerotti transdermici 4,6 mg/die | Sandoz GmbH | Cancellata |
+| 034078055 | EXELON 56 cps 3 mg | Novartis Europharm Ltd | Valida |
+| 034078081 | EXELON 56 cps 4,5 mg | Novartis Europharm Ltd | Valida |
+| 041261064 | DEMELORA 30 cerotti transdermici 9,5 mg/die | Neuraxpharm Italy SpA | Valida |
+| 041673106 | NIMVASTID 56 cps 3 mg | Krka d.d. Novo Mesto | Valida |
+| 043087143 | Rivastigmina 30 cerotti transdermici 4,6 mg/die | Sandoz GmbH | Valida |
 
 Le formulazioni autorizzate erano orali (capsule) e transdermiche (cerotti): un eventuale sviluppo oftalmico richiederebbe una nuova formulazione, ad esempio topica.
 

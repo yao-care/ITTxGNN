@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 329
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Omeprazole: nuova indicazione prevista, Reflusso duodenogastrico (livello di evidenza L4). Indicazione originale: Ulcera gastrica, ulcera duodenale, MRGE, esofagite…"
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-## Omeprazolo: dalla malattia da reflusso gastroesofageo al reflusso duodenogastrico
+## Omeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Riepilogo in breve
 
-L'omeprazolo è un inibitore della pompa protonica, originariamente usato per ulcera gastrica e duodenale, malattia da reflusso gastroesofageo (MRGE), esofagite e sindrome di Zollinger-Ellison. Il modello TxGNN lo indica come possibile candidato per il **reflusso duodenogastrico** (punteggio 99,64%), ma l'evidenza clinica diretta è molto limitata: **1 studio clinico** registrato (non pertinente come evidenza di efficacia) e **15 pubblicazioni**, in gran parte studi su animali, piccole serie cliniche o lavori non specifici.
+L'omeprazolo è un inibitore della pompa protonica, originariamente usato per ulcera gastrica e duodenale, malattia da reflusso gastroesofageo (MRGE), esofagite e sindrome di Zollinger-Ellison. Il modello TxGNN lo indica come possibile candidato per il **reflusso duodenogastrico** (punteggio 0,9964), ma l'evidenza clinica diretta è molto limitata: **1 studio clinico** registrato (non pertinente come evidenza di efficacia) e **15 pubblicazioni**, in gran parte studi su animali, piccole serie cliniche o lavori non specifici.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ulcera gastrica, ulcera duodenale, MRGE, esofagite, sindrome di Zollinger-Ellison (testo autorizzativo AIFA non disponibile; indicazioni tratte dal grafo di conoscenza) |
-| Nuova indicazione prevista | Reflusso duodenogastrico |
-| Punteggio di predizione TxGNN | 99,64% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Duodenal obstruction |
+| Punteggio di predizione TxGNN | 0.9964 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -83,15 +83,15 @@ Studi preclinici sul ratto segnalano inoltre che il blocco acido associato al re
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Esempi:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Esempi:
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 038082020 | Omeprazolo 14 cps gastroresistenti 10 mg | DOC Generici Srl | Cancellata |
-| 042236430 | Omeprazolo 28 cps gastroresistenti 20 mg | Teva Italia Srl | Cancellata |
-| 028245090 | Antra 14 cps gastroresistenti 20 mg | Cheplapharm Arzneimittel GmbH | Cancellata |
-| 037942024 | Limnos 28 cps gastroresistenti 20 mg | C.T. Lab. Farmaceutico Srl | Cancellata |
-| 037903010 | Maricrio 14 cps gastroresistenti 20 mg | Neopharmed Gentili SpA | Cancellata |
+| 038082020 | Omeprazolo 14 cps gastroresistenti 10 mg | DOC Generici Srl | Valida |
+| 042236430 | Omeprazolo 28 cps gastroresistenti 20 mg | Teva Italia Srl | Valida |
+| 028245090 | Antra 14 cps gastroresistenti 20 mg | Cheplapharm Arzneimittel GmbH | Valida |
+| 037942024 | Limnos 28 cps gastroresistenti 20 mg | C.T. Lab. Farmaceutico Srl | Valida |
+| 037903010 | Maricrio 14 cps gastroresistenti 20 mg | Neopharmed Gentili SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 

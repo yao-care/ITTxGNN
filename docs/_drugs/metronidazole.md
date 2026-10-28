@@ -6,9 +6,9 @@ nav_order: 297
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Metronidazole: nuova indicazione prevista, Pneumocistosi (livello di evidenza L5). Indicazione originale: Infezioni da batteri anaerobi, peritonite, giardiasi…"
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
+description: "Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Metronidazole
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Metronidazolo: dalle infezioni anaerobiche e protozoarie alla pneumocistosi
+## Metronidazole: Pneumocistosi (pneumocystosis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il metronidazolo è un antibiotico/antiprotozoario utilizzato originariamente pe
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni da batteri anaerobi, peritonite, giardiasi, vaginosi batterica, ascesso intracranico e altre (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Pneumocistosi |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pneumocistosi (pneumocystosis) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -68,10 +68,10 @@ Tra le altre candidate emerse dall'analisi, alcune hanno un razionale più plaus
 
 | Indicazione | Punteggio TxGNN | Livello | Note |
 |------|------|------|------|
-| Poliposi a cappuccio (cap polyposis) | 99,73% | L3 | Segnale più coerente: case report di remissione con regimi antibiotici contenenti metronidazolo; ipotesi di azione antinfiammatoria. Nessuno studio controllato; alcuni casi refrattari |
-| Ulcerazione della vulva | 99,72% | L3 | Utilizzo nella malattia di Crohn vulvare e nelle ulcere amebiche; effetto specifico per eziologia, non generalizzabile |
-| Proctosigmoidite ulcerosa | 99,87% | L4 | Evidenza indiretta (revisioni su IBD, pouchite); nessuno studio controllato |
-| Miasi | 99,75% | L4 | Ruolo solo adiuvante (controllo dell'odore nelle ferite maligne); le larve si trattano con ivermectina |
+| Poliposi a cappuccio (cap polyposis) | 0,9973 | L3 | Segnale più coerente: case report di remissione con regimi antibiotici contenenti metronidazolo; ipotesi di azione antinfiammatoria. Nessuno studio controllato; alcuni casi refrattari |
+| Ulcerazione della vulva | 0,9972 | L3 | Utilizzo nella malattia di Crohn vulvare e nelle ulcere amebiche; effetto specifico per eziologia, non generalizzabile |
+| Proctosigmoidite ulcerosa | 0,9987 | L4 | Evidenza indiretta (revisioni su IBD, pouchite); nessuno studio controllato |
+| Miasi | 0,9975 | L4 | Ruolo solo adiuvante (controllo dell'odore nelle ferite maligne); le larve si trattano con ivermectina |
 | Nocardiosi, meningite criptococcica, cheratocongiuntivite epiteliale puntata, congiuntivite papillare, vaginite atrofica postmenopausale | — | L4–L5 | Nessun razionale meccanicistico evidente |
 
 ---
@@ -105,11 +105,11 @@ Per la pneumocistosi (10 pubblicazioni; nessuna dimostra l'efficacia del metroni
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 018505038 | FLAGYL*20 cpr 250 mg (TEOFARMA Srl) | — | Stato: cancellata |
-| 020689028 | VAGILEN*20 cps 250 mg (DYMALIFE PHARMACEUTICAL Srl) | — | Stato: cancellata |
-| 048155016 | METRONIDAZOLO*20 cpr 250 mg (AUROBINDO PHARMA ITALIA Srl) | — | Stato: cancellata |
-| 021299033 | DEFLAMON*1 flacone EV 500 mg 100 ml (SPA) | — | Stato: cancellata |
-| 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | — | Stato: cancellata |
+| 018505038 | FLAGYL*20 cpr 250 mg (TEOFARMA Srl) | — | Stato: valida |
+| 020689028 | VAGILEN*20 cps 250 mg (DYMALIFE PHARMACEUTICAL Srl) | — | Stato: valida |
+| 048155016 | METRONIDAZOLO*20 cpr 250 mg (AUROBINDO PHARMA ITALIA Srl) | — | Stato: valida |
+| 021299033 | DEFLAMON*1 flacone EV 500 mg 100 ml (SPA) | — | Stato: valida |
+| 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | — | Stato: valida |
 
 Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati.
 

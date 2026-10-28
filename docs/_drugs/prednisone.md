@@ -6,9 +6,9 @@ nav_order: 360
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Malattie autoimmuni (ad es. malattia di Crohn…"
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
+description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Prednisone
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Prednisone: Dall'autoimmunità sistemica all'alopecia areata
+## Prednisone: Alopecia areata
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,11 +46,11 @@ Il prednisone è un glucocorticoide sistemico usato storicamente per malattie au
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattie autoimmuni (ad es. malattia di Crohn, malattia infiammatoria intestinale, insufficienza surrenalica, leucemia linfoblastica acuta). Il testo delle indicazioni approvate non è riportato nelle autorizzazioni italiane; l'elenco deriva dal grafo di conoscenza |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Alopecia areata |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
@@ -95,11 +95,11 @@ Nei dati compilati risultano 20 autorizzazioni per il prednisone, tutte cancella
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 045262058 | CISON 10 cpr 25 mg | Genetic SpA | Cancellata |
-| 010089035 | DELTACORTENE 10 cpr 25 mg | Bruno Farmaceutici SpA | Cancellata |
-| 038986067 | LODOTRA 30 cpr 2 mg a rilascio modificato | Mundipharma Pharmaceuticals Srl | Cancellata |
-| 045261068 | SOFLON 20 cpr 25 mg | S.F. Group Srl | Cancellata |
-| 043411040 | PREDNISONE 10 cpr 25 mg | Teva Italia Srl | Cancellata |
+| 045262058 | CISON 10 cpr 25 mg | Genetic SpA | Valida |
+| 010089035 | DELTACORTENE 10 cpr 25 mg | Bruno Farmaceutici SpA | Valida |
+| 038986067 | LODOTRA 30 cpr 2 mg a rilascio modificato | Mundipharma Pharmaceuticals Srl | Valida |
+| 045261068 | SOFLON 20 cpr 25 mg | S.F. Group Srl | Valida |
+| 043411040 | PREDNISONE 10 cpr 25 mg | Teva Italia Srl | Valida |
 
 ---
 

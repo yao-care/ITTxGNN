@@ -4,17 +4,17 @@ title: Levothyroxine
 parent: Solo previsione del modello (L5)
 nav_order: 269
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levothyroxine: nuova indicazione prevista, Gozzo nodulare (malattia) (livello di evidenza L5). Indicazione originale: Ipotiroidismo (e altre patologie tiroidee: mixedema…"
+indication_count: 4
 monitor_inn: "Levothyroxine"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "substernal goiter", "dyshormonogenic goiter", "lingual goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-23
+description: "Levothyroxine: nuova indicazione prevista, ipoplasia/aplasia renale (livello di evidenza L5). Indicazione originale: Ipotiroidismo"
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Levotiroxina: dall'ipotiroidismo al gozzo nodulare
+## Levotiroxina: dall'ipotiroidismo all'ipoplasia/aplasia renale
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo in una frase
 
-La levotiroxina è un ormone tiroideo sintetico (T4), usato originariamente per il trattamento dell'ipotiroidismo e di altre patologie tiroidee.
-Il modello TxGNN prevede che possa essere efficace per il **gozzo nodulare**, indicazione per la quale esistono **2 studi clinici registrati** e **18 pubblicazioni** nei dati compilati per questo report.
-
-Nota: il primo risultato per punteggio TxGNN è il gozzo endemico, ma privo di studi clinici registrati. Si è scelto il gozzo nodulare (terzo per punteggio), perché è l'indicazione con le prove più solide, tra cui uno studio randomizzato controllato con placebo su 1024 pazienti.
-
----
+La levotiroxina è un ormone tiroideo sintetico (T4), utilizzato originariamente nel trattamento dell'ipotiroidismo e delle patologie tiroidee correlate.
+Il modello TxGNN ne prevede una possibile efficacia per l'**ipoplasia/aplasia renale**, ma **non sono presenti sperimentazioni cliniche né pubblicazioni** a sostegno di questa direzione: si tratta di una previsione basata solo sul modello.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipotiroidismo (e altre patologie tiroidee: mixedema, ipotiroidismo congenito, gozzo, tiroidite di Hashimoto, carcinoma tiroideo differenziato); il testo delle indicazioni approvate AIFA non è disponibile |
-| Nuova indicazione prevista | Gozzo nodulare (malattia) |
-| Punteggio di previsione TxGNN | 99,64% |
-| Livello di evidenza | L1 (con cautela, vedi sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
-| Decisione raccomandata | Proceed with Guardrails |
+| Indicazione originale | Ipotiroidismo (relazione registrata nel grafo di conoscenza; il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile) |
+| Nuova indicazione prevista | Ipoplasia/aplasia renale |
+| Punteggio di predizione TxGNN | 0,9967 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | Almeno 20 (l'elenco potrebbe essere parziale) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze disponibili, la levotiroxina agisce come ligando dei recettori degli ormoni tiroidei alfa (THRA) e beta (THRB), ed è usata nella sostituzione ormonale tiroidea.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, la levotiroxina è l'ormone T4 sintetico, che agisce sui recettori degli ormoni tiroidei (THRA e THRB). La sua efficacia nell'ipotiroidismo è consolidata e, dal punto di vista meccanicistico, può essere applicabile al gozzo nodulare.
+Esiste solo un legame biologico generico: gli ormoni tiroidei partecipano allo sviluppo fetale e alla maturazione renale (nefrogenesi, maturazione tubulare). Tuttavia l'ipoplasia/aplasia renale è una malformazione strutturale congenita, generalmente legata a varianti genetiche (ad es. PAX2, HNF1B, RET) che agiscono nelle prime fasi dell'embriogenesi. La levotiroxina somministrata dopo la nascita non dovrebbe invertire un'agenesia strutturale.
 
-Il razionale è la soppressione del TSH: il TSH è il principale stimolo di crescita della tiroide, e la levotiroxina, riducendolo, può limitare la crescita dei noduli e il volume del gozzo. La malattia nodulare è quindi strettamente affine alle indicazioni tiroidee originali.
+L'elevato punteggio TxGNN (0.9967) deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate (fenotipi o geni correlati alla tiroide e allo sviluppo), non evidenza biologica, più che un reale segnale terapeutico.
 
-Va però sottolineato che il beneficio è modesto e che la soppressione prolungata del TSH comporta rischi (fibrillazione atriale, perdita ossea). Le linee guida sono per questo prudenti. Si tratta più di un'estensione di un'area terapeutica tiroidea esistente che di un vero riposizionamento.
+Altre previsioni nella stessa lista (agenesia renale bilaterale, sequenza di Potter, complesso di Carney) sono anch'esse prive di evidenze cliniche. Il complesso di Carney è la più plausibile dal punto di vista biologico, per il coinvolgimento tiroideo e la via cAMP/PKA, ma resta solo un'ipotesi.
 
----
+## Evidenze da sperimentazioni cliniche
 
-## Evidenza dagli studi clinici
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT00277589](https://clinicaltrials.gov/study/NCT00277589) | Fase 4 | Completato | 1024 | Studio randomizzato, in cieco per l'osservatore, controllato con placebo, di terapia adattata al TSH in pazienti con gozzo nodulare; obiettivo primario: variazione del volume totale dei noduli |
-| [NCT00941551](https://clinicaltrials.gov/study/NCT00941551) | N/D | Completato | 150 | Follow-up a 5 anni di uno studio randomizzato: recidiva di gozzo nodulare dopo lobectomia tiroidea con o senza levotiroxina postoperatoria |
+## Evidenze dalla letteratura
 
----
-
-## Evidenza dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [11238476](https://pubmed.ncbi.nlm.nih.gov/11238476/) | 2001 | RCT | J Clin Endocrinol Metab | Levotiroxina soppressiva vs iodio radioattivo nel gozzo nodulare non tossico sporadico (64 pazienti, 2 anni) |
-| [10426591](https://pubmed.ncbi.nlm.nih.gov/10426591/) | 1999 | Studio clinico | Endocr J | Terapia soppressiva per 6 mesi in 35 pazienti con gozzo diffuso e 35 con gozzo nodulare eutiroideo: effetti sul volume tiroideo e dei noduli |
-| [10382684](https://pubmed.ncbi.nlm.nih.gov/10382684/) | 1999 | Retrospettivo | Endocr Res | Terapia soppressiva vs sostitutiva con levotiroxina in noduli solitari e gozzo multinodulare |
-| [8299711](https://pubmed.ncbi.nlm.nih.gov/8299711/) | 1993 | Studio clinico | Exp Clin Endocrinol | Efficacia della terapia soppressiva nel gozzo multinodulare benigno non tossico (104 pazienti) |
-| [20683172](https://pubmed.ncbi.nlm.nih.gov/20683172/) | 2010 | Studio clinico | Endocr J | Effetti a breve termine della levotiroxina in donne in premenopausa con malattia multinodulare (71 pazienti) |
-| [19636201](https://pubmed.ncbi.nlm.nih.gov/19636201/) | 2009 | Retrospettivo | J Endocrinol Invest | Levotiroxina nella prevenzione della recidiva nodulare dopo emitiroidectomia |
-| [34961921](https://pubmed.ncbi.nlm.nih.gov/34961921/) | 2021 | Revisione sistematica Cochrane | Cochrane Database Syst Rev | Radioiodio assistito da rhTSH nel gozzo multinodulare non tossico; la levotiroxina è citata come alternativa |
-| [39217207](https://pubmed.ncbi.nlm.nih.gov/39217207/) | 2025 | Sondaggio | Endocrine | Le linee guida internazionali sconsigliano gli ormoni tiroidei nel gozzo semplice in crescita; indagine tra specialisti europei |
-| [8844728](https://pubmed.ncbi.nlm.nih.gov/8844728/) | 1996 | Revisione | Otolaryngol Clin North Am | Valutazione e gestione del gozzo multinodulare |
-| [27242669](https://pubmed.ncbi.nlm.nih.gov/27242669/) | 2016 | Revisione | Front Endocrinol | Trattamento ideale dei gozzi benigni non tossici; l'uso della levotiroxina resta controverso |
-
----
+Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il testo delle indicazioni approvate non è riportato nei dati. Le principali:
+Sono presenti almeno 20 autorizzazioni valide per prodotti monocomponente; l'elenco potrebbe essere parziale. Di seguito le principali 5 (il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati).
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 024402125 | Eutirox 50 cpr 50 mcg (Merck Serono) | Compresse | Non disponibile |
-| 024402063 | Eutirox 50 cpr 125 mcg (Merck Serono) | Compresse | Non disponibile |
-| 046860058 | Levotirsol soluz. orale 88 mcg (IBSA) | Soluzione orale | Non disponibile |
-| 034368086 | Tirosint soluz. orale 50 mcg/ml (IBSA) | Soluzione orale | Non disponibile |
-| 049815095 | Levotiroxina 50 cpr 125 mcg (Abdi Farma) | Compresse | Non disponibile |
+| 024402125 | EUTIROX 50 cpr 50 mcg | Merck Serono SpA | Valida |
+| 049815095 | LEVOTIROXINA 50 cpr 125 mcg | Abdi Farma GmbH | Valida |
+| 046860058 | LEVOTIRSOL soluzione orale 30 flaconcini 1 ml 88 mcg | IBSA Farmaceutici Italia Srl | Valida |
+| 046021414 | LEVOTIROXINA 50 cpr 125 mcg | DOC Generici Srl | Valida |
+| 034368086 | TIROSINT soluzione orale 30 flaconcini 1 ml 50 mcg/ml | IBSA Farmaceutici Italia Srl | Valida |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+Le seguenti controindicazioni derivano da relazioni farmaco-malattia registrate nel grafo di conoscenza (non dal testo del foglio illustrativo):
 
-- **Controindicazioni segnalate nel grafo di conoscenza (non dal foglietto illustrativo):** ipertensione, ipopituitarismo e deficit di ormoni ipofisari (incl. sindrome di Sheehan), ipogonadismo ipogonadotropo (incl. sindrome di Kallmann), osteoporosi (anche post-menopausale), diabete mellito e chetoacidosi diabetica, coronaropatia, infarto miocardico, malattie del timo.
-- **Rischi della soppressione prolungata del TSH:** fibrillazione atriale e perdita ossea, descritti anche nella letteratura raccolta (effetti su cuore e densità ossea).
-- **Interazioni:** nei dati compaiono solo interazioni farmacologiche con i recettori degli ormoni tiroidei alfa (THRA) e beta (THRB); non sono riportate interazioni con altri farmaci.
+- **Malattie cardiovascolari e metaboliche:** ipertensione, coronaropatia, infarto del miocardio, diabete mellito, chetoacidosi diabetica.
+- **Malattie ossee:** osteoporosi, osteoporosi post-menopausale.
+- **Insufficienze ipofisarie e ipogonadismi:** ipopituitarismo, deficit di ormone della crescita, ipogonadismo ipogonadotropo, sindrome di Kallmann, sindrome di Sheehan e forme correlate.
+- **Altro:** malattie del timo.
 
-Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrativo.
+Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo AIFA.
 
----
+## Conclusione e passi successivi
 
-## Conclusioni e prossimi passi
-
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-Esistono studi randomizzati (NCT00277589 con 1024 pazienti, controllato con placebo; NCT00941551) che sostengono un effetto sul gozzo nodulare. Tuttavia lo studio principale è di Fase 4 (non Fase 3, quindi il livello L1 va letto con cautela), il beneficio è modesto, radioiodio e chirurgia sono considerati più efficaci e la soppressione prolungata comporta rischi cardiaci e ossei. Inoltre nessuna autorizzazione italiana è attualmente valida.
+Non esistono studi clinici né pubblicazioni sull'uso della levotiroxina nell'ipoplasia/aplasia renale. Il punteggio deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica; non è plausibile che l'ormone inverta una malformazione strutturale congenita.
 
-**Per procedere è necessario:**
-- Reperire i risultati pubblicati dello studio NCT00277589 e valutarne la rilevanza clinica
-- Ottenere le avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA (dato bloccante per lo screening di sicurezza)
-- Acquisire i dati sul meccanismo d'azione da DrugBank
-- Chiarire lo stato regolatorio in Italia (autorizzazioni tutte cancellate) e le formulazioni disponibili
-- Definire un piano di monitoraggio (TSH, funzione cardiaca, densità ossea) per i pazienti trattati
-
-**Altre previsioni del modello (per completezza):** gozzo endemico e gozzo non tossico hanno evidenza limitata (L3 e L2) e restano questioni di ricerca; gozzo sostenuto da disormonogenesi, gozzo sternale e gozzo linguale hanno solo evidenza L4 (Hold). Ipoplasia/aplasia renale, agenesia renale bilaterale, sequenza di Potter e complesso di Carney non hanno alcun supporto meccanicistico o clinico e sono probabilmente artefatti del grafo di conoscenza (Hold).
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con lo sviluppo renale.
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA.
+- Evidenze precliniche o cliniche che studino direttamente la malattia prevista.
+- Una valutazione dei rischi di sovradosaggio (effetti cardiaci e ossei) nella popolazione interessata.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ketorolac
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 250
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L5)."
 monitor_inn: "KETOROLAC"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
+description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L1)."
 ---
 
 # Ketorolac
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L1** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Ketorolac: Dalla congiuntivite allergica al disturbo da cefalea
+## Ketorolac: Disturbo da cefalea (headache disorder)
 {: .text-alpha }
 
 ## Riepilogo in una frase
 
-Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN prevede che possa essere efficace per i **disturbi da cefalea**, in particolare l'emicrania, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia tutte le autorizzazioni risultano revocate o cancellate.
+Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN (deep learning) prevede che possa essere efficace per la **Cefalea**, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.
 
 ---
 
@@ -48,10 +48,10 @@ Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni orig
 |------|------|
 | Indicazione originaria | Congiuntivite atopica, papillare e primaverile (da grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
 | Nuova indicazione prevista | Disturbo da cefalea (headache disorder) |
-| Punteggio di predizione TxGNN | 99,43% |
+| Punteggio di predizione TxGNN | 0.9943 |
 | Livello di evidenza | L1 (al limite con L2, vedi note) |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 13 (0 valide, 13 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 13 su 13) |
+| Numero di autorizzazioni | 13 (valide: 13) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -66,8 +66,8 @@ Le prostaglandine contribuiscono all'infiammazione neurogena, alla sensibilizzaz
 
 ### Altre predizioni nel ranking
 
-- **Congiuntivite da rosacea** (punteggio 99,40%): nessuno studio clinico né pubblicazione. Evidenza L5, decisione **Hold**. Il punteggio probabilmente riflette la vicinanza alle indicazioni oculari esistenti nel grafo, non nuove prove.
-- **Cefalea autonomica trigeminale** (punteggio 99,39%): evidenza L4, decisione **Hold**. L'unico studio (NCT04353505) è stato ritirato senza arruolamento e non verifica il ketorolac in modo specifico. I FANS in genere non sono efficaci nella cefalea a grappolo (eccetto l'indometacina in alcune forme), e un caso clinico segnala tossicità da litio indotta dal ketorolac (PMID 7928331).
+- **Congiuntivite da rosacea** (punteggio 0.9940): nessuno studio clinico né pubblicazione. Evidenza L5, decisione **Hold**. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non prove biologiche.
+- **Cefalea autonomica trigeminale** (punteggio 0,9939): evidenza L4, decisione **Hold**. L'unico studio (NCT04353505) è stato ritirato senza arruolamento e non verifica il ketorolac in modo specifico. I FANS in genere non sono efficaci nella cefalea a grappolo (eccetto l'indometacina in alcune forme), e un caso clinico segnala tossicità da litio indotta dal ketorolac (PMID 7928331).
 
 ---
 
@@ -113,11 +113,11 @@ Tutte le 13 autorizzazioni risultano cancellate. Il testo delle indicazioni appr
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 038205023 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Eugia Pharma (Malta) Limited | Cancellata |
-| 037745015 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Towa Pharmaceutical SpA | Cancellata |
-| 037850017 | Ketorolac, 3 fiale IM/EV 30 mg/ml | DOC Generici Srl | Cancellata |
-| 027253020 | Toradol, 3 fiale IM/EV 30 mg | Recordati SpA | Cancellata |
-| 027257056 | Lixidol, 3 fiale IM/EV 30 mg | Atnahs Pharma Netherlands BV | Cancellata |
+| 038205023 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Eugia Pharma (Malta) Limited | Valida |
+| 037745015 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Towa Pharmaceutical SpA | Valida |
+| 037850017 | Ketorolac, 3 fiale IM/EV 30 mg/ml | DOC Generici Srl | Valida |
+| 027253020 | Toradol, 3 fiale IM/EV 30 mg | Recordati SpA | Valida |
+| 027257056 | Lixidol, 3 fiale IM/EV 30 mg | Atnahs Pharma Netherlands BV | Valida |
 
 ---
 

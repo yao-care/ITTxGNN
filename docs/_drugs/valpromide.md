@@ -48,17 +48,17 @@ ma l'evidenza è molto limitata: **nessuno studio clinico registrato** e **1 pub
 |------|------|
 | Indicazione originale | Non disponibile (il testo dell'indicazione nella licenza AIFA è vuoto) |
 | Nuova indicazione prevista | Insonnia |
-| Punteggio di predizione TxGNN | 99,79% |
+| Punteggio di predizione TxGNN | 0,9979 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
 
 I dati sul meccanismo d'azione di valpromide non sono al momento disponibili. In base alle informazioni note, valpromide è un analogo amidico dell'acido valproico (valproato); per analogia con la classe, ci si aspetta un potenziamento della neurotrasmissione GABAergica e una modulazione dei canali del sodio voltaggio-dipendenti. Tali effetti potrebbero ridurre l'ipereccitabilità neuronale e favorire il sonno.
 
-Questo collegamento è però dedotto dalla classe del valproato e non è documentato per valpromide stessa. L'indicazione originale non è reperibile nei dati, quindi non è possibile valutare con precisione la relazione tra uso originale e nuova indicazione. Il punteggio TxGNN molto alto (0,998) è una predizione computazionale e non costituisce evidenza clinica.
+Questo collegamento è però dedotto dalla classe del valproato e non è documentato per valpromide stessa. L'indicazione originale non è reperibile nei dati, quindi non è possibile valutare con precisione la relazione tra uso originale e nuova indicazione. Il punteggio TxGNN molto alto (0,9979) è una predizione computazionale e non costituisce evidenza clinica.
 
 ## Evidenza dagli studi clinici
 
@@ -74,7 +74,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023105036 | DEPAMIDE*30 cpr gastrores 300 mg (SANOFI Srl) | Compresse gastroresistenti | Non disponibile (autorizzazione cancellata) |
+| 023105036 | DEPAMIDE*30 cpr gastrores 300 mg (SANOFI Srl) | Compresse gastroresistenti | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

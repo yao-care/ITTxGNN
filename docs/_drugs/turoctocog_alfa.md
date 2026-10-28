@@ -6,9 +6,9 @@ nav_order: 455
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Turoctocog Alfa: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (livello di evidenza L5). Indicazione originale: Emofilia"
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
+description: "Turoctocog Alfa: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
 ---
 
 # Turoctocog Alfa
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Turoctocog alfa: dall'emofilia a un disturbo di rilascio piastrinico primario
+## Turoctocog Alfa: Disturbo primario del rilascio piastrinico (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,21 +44,21 @@ Turoctocog alfa è un fattore VIII della coagulazione ricombinante umano, utiliz
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emofilia; forma sintomatica di emofilia nelle portatrici di sesso femminile (testo di indicazione AIFA non disponibile) |
-| Nuova indicazione prevista | Disturbo primario del rilascio piastrinico |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo primario del rilascio piastrinico (primary release disorder of platelets) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
 Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili. Sulla base delle informazioni note, turoctocog alfa è un fattore VIII ricombinante che sostituisce il fattore carente nell'emofilia A e partecipa al complesso tenasi della cascata coagulativa.
 
-Nel caso specifico, il collegamento meccanicistico è **debole**. I disturbi del rilascio piastrinico sono dovuti a difetti intrinseci della secrezione piastrinica e non a una carenza di fattore VIII, quindi la sostituzione del FVIII non corregge il difetto di base. L'elevato punteggio TxGNN riflette probabilmente la vicinanza nel grafo di conoscenza tra i disturbi della coagulazione e quelli emorragici, più che una reale plausibilità biologica.
+Nel caso specifico, il collegamento meccanicistico è **debole**. I disturbi del rilascio piastrinico sono dovuti a difetti intrinseci della secrezione piastrinica e non a una carenza di fattore VIII, quindi la sostituzione del FVIII non corregge il difetto di base. L'elevato punteggio (0.9999) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
-Tra le altre previsioni di rilievo, la più plausibile dal punto di vista meccanicistico è la **carenza acquisita di fattori della coagulazione** (punteggio 99,95%), in cui la sostituzione del FVIII potrebbe in teoria essere utile. La categoria è però ampia ed eterogenea e, ad esempio, nell'emofilia acquisita gli autoanticorpi neutralizzano il FVIII e sono preferiti altri agenti. Altre previsioni (trombastenia di Glanzmann, pseudo-malattia di von Willebrand, sindrome di Scott) non hanno un supporto meccanicistico diretto. La **porpora trombotica trombocitopenica** (PTT) solleva invece una preoccupazione di sicurezza: un fattore procoagulante potrebbe in principio aggravare la trombosi.
+Tra le altre previsioni di rilievo, la più plausibile dal punto di vista meccanicistico è la **carenza acquisita di fattori della coagulazione** (punteggio 0,9995), in cui la sostituzione del FVIII potrebbe in teoria essere utile. La categoria è però ampia ed eterogenea e, ad esempio, nell'emofilia acquisita gli autoanticorpi neutralizzano il FVIII e sono preferiti altri agenti. Altre previsioni (trombastenia di Glanzmann, pseudo-malattia di von Willebrand, sindrome di Scott) non hanno un supporto meccanicistico diretto. La **porpora trombotica trombocitopenica** (PTT) solleva invece una preoccupazione di sicurezza: un fattore procoagulante potrebbe in principio aggravare la trombosi.
 
 ## Evidenze da studi clinici
 
@@ -72,13 +72,13 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Stato | Indicazione approvata |
 |---------|------|------|-----------|
-| 043153067 | NOVOEIGHT 3.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
-| 043153030 | NOVOEIGHT 1.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
-| 043153028 | NOVOEIGHT 500 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
-| 043153055 | NOVOEIGHT 2.000 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
-| 043153016 | NOVOEIGHT 250 UI + siringa solvente 4 ml | Cancellata | Non disponibile |
+| 043153067 | NOVOEIGHT 3.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
+| 043153030 | NOVOEIGHT 1.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
+| 043153028 | NOVOEIGHT 500 UI + siringa solvente 4 ml | Valida | Non disponibile |
+| 043153055 | NOVOEIGHT 2.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
+| 043153016 | NOVOEIGHT 250 UI + siringa solvente 4 ml | Valida | Non disponibile |
 
-Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci. Nessuna autorizzazione risulta attualmente valida.
+Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci.
 
 ## Considerazioni sulla sicurezza
 

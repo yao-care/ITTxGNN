@@ -49,10 +49,10 @@ Il modello TxGNN prevede una possibile efficacia nel **linfoma follicolare**, ma
 |------|------|
 | Indicazione originale | Linfoma di Hodgkin (incluso il linfoma di Hodgkin classico) |
 | Nuova indicazione prevista | Linfoma follicolare |
-| Punteggio di predizione TxGNN | 99,46% |
+| Punteggio di predizione TxGNN | 0,9946 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -94,7 +94,7 @@ Va sottolineato che l'effetto della procarbazina da sola non può essere isolato
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 020846010 | NATULAN 50 cps 50 mg flacone (LEADIANT GmbH) | Capsule | Non disponibile (autorizzazione cancellata) |
+| 020846010 | NATULAN 50 cps 50 mg flacone (LEADIANT GmbH) | Capsule | Non disponibile (autorizzazione valida) |
 
 ---
 

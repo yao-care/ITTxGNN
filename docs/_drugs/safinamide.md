@@ -48,10 +48,10 @@ Safinamide è stata sviluppata per il trattamento della malattia di Parkinson e 
 |------|------|
 | Indicazione originale | Malattia di Parkinson (e sindromi parkinsoniane correlate) |
 | Nuova indicazione prevista | Encefalite subacuta di Rasmussen |
-| Punteggio di predizione TxGNN | 99,63% |
+| Punteggio di predizione TxGNN | 0,9963 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 2 (entrambe annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -60,12 +60,12 @@ Safinamide è stata sviluppata per il trattamento della malattia di Parkinson e 
 
 I dati compilati per questo report non includono una descrizione ufficiale del meccanismo d'azione. In base alle conoscenze generali, safinamide è un inibitore reversibile della MAO-B che blocca anche i canali del sodio voltaggio-dipendenti e riduce il rilascio di glutammato. Queste proprietà potrebbero, in teoria, essere rilevanti per l'attività convulsiva e la neuroinfiammazione eccitotossica dell'encefalite di Rasmussen.
 
-Tuttavia, questa malattia è causata soprattutto da un danno autoimmune mediato dai linfociti T, quindi il legame meccanicistico resta **speculativo**. Il punteggio elevato di TxGNN è una predizione basata su grafo e non è supportato da dati clinici o di letteratura.
+Tuttavia, questa malattia è causata soprattutto da un danno autoimmune mediato dai linfociti T, quindi il legame meccanicistico resta **speculativo**. Il punteggio elevato di TxGNN (0.9963) proviene dal modello TxGNN (deep learning) e può riflettere similitudini apprese dal modello tra malattie correlate, non evidenze biologiche; non è supportato da dati clinici o di letteratura.
 
 Il modello ha individuato altre due candidate, entrambe di livello L5 e con raccomandazione Hold:
 
-- **Mielite** (punteggio 99,46%): possibili effetti neuroprotettivi (riduzione dello stress ossidativo, modulazione dei canali del sodio) puramente ipotetici; la mielite ha eziologie eterogenee (infettiva, autoimmune, post-infettiva) e non è stata identificata una motivazione specifica per safinamide.
-- **Neurodegenerazione associata a PLA2G6** (punteggio 99,22%): la più plausibile sul piano biologico, perché si presenta spesso con parkinsonismo e distonia, in sovrapposizione con le indicazioni originali. Un eventuale beneficio sarebbe sintomatico (potenziamento dopaminergico) e non modificante la malattia. Prima di qualsiasi avanzamento sarebbe opportuno cercare case report o dati preclinici.
+- **Mielite** (punteggio 0,9946): possibili effetti neuroprotettivi (riduzione dello stress ossidativo, modulazione dei canali del sodio) puramente ipotetici; la mielite ha eziologie eterogenee (infettiva, autoimmune, post-infettiva) e non è stata identificata una motivazione specifica per safinamide.
+- **Neurodegenerazione associata a PLA2G6** (punteggio 0,9922): la più plausibile sul piano biologico, perché si presenta spesso con parkinsonismo e distonia, in sovrapposizione con le indicazioni originali. Un eventuale beneficio sarebbe sintomatico (potenziamento dopaminergico) e non modificante la malattia. Prima di qualsiasi avanzamento sarebbe opportuno cercare case report o dati preclinici.
 
 ---
 
@@ -85,8 +85,8 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043906039 | XADAGO*30 cpr rivestite 50 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione annullata) |
-| 043906080 | XADAGO*30 cpr rivestite 100 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione annullata) |
+| 043906039 | XADAGO*30 cpr rivestite 50 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 043906080 | XADAGO*30 cpr rivestite 100 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ---
 

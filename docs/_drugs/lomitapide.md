@@ -4,17 +4,17 @@ title: Lomitapide
 parent: Solo previsione del modello (L5)
 nav_order: 275
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Lomitapide: nuova indicazione prevista, Marcotrombocitopenia con insufficienza della valvola mitrale (livello di evidenza L5). Indicazione originale: Ipercolesterolemia familiare omozigote"
 monitor_inn: "LOMITAPIDE"
-predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "hyperlipoproteinemia", "platelet storage pool deficiency"]
+predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "platelet storage pool deficiency"]
+description: "Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lomitapide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Lomitapide: dall'ipercolesterolemia familiare omozigote alla marcotrombocitopenia con insufficienza della valvola mitrale
+## Lomitapide: Marcothrombocytopenia with mitral valve insufficiency
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede una possibile efficacia nella **marcotrombocitopenia co
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipercolesterolemia familiare omozigote |
-| Nuova indicazione prevista | Marcotrombocitopenia con insufficienza della valvola mitrale |
-| Punteggio di previsione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Marcothrombocytopenia with mitral valve insufficiency |
+| Punteggio di previsione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cessate/revocate |
-| Numero di autorizzazioni | 3 (tutte cessate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -83,11 +83,10 @@ Attualmente nessuna pubblicazione correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 042920025 | LOJUXTA 28 capsule rigide 10 mg | Chiesi Farmaceutici SpA | Cessata |
-| 042920013 | LOJUXTA 28 capsule rigide 5 mg | Chiesi Farmaceutici SpA | Cessata |
-| 042920037 | LOJUXTA 28 capsule rigide 20 mg | Chiesi Farmaceutici SpA | Cessata |
+| 042920025 | LOJUXTA 28 capsule rigide 10 mg | Chiesi Farmaceutici SpA | Valida |
+| 042920013 | LOJUXTA 28 capsule rigide 5 mg | Chiesi Farmaceutici SpA | Valida |
+| 042920037 | LOJUXTA 28 capsule rigide 20 mg | Chiesi Farmaceutici SpA | Valida |
 
-Nessuna autorizzazione risulta attualmente valida in Italia.
 
 ---
 
@@ -108,13 +107,12 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglio il
 
 **Motivazione:**
 - La previsione per la marcotrombocitopenia con insufficienza della valvola mitrale è solo un risultato del modello (L5), senza studi, pubblicazioni o meccanismo plausibile. Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità) e non ha autorizzazioni valide in Italia.
-- Tra le previsioni di rango più basso, l'iperlipoproteinemia (punteggio 99,74%) è supportata da studi di fase 3 completati e da pubblicazioni, anche pediatriche. Tuttavia coincide di fatto con l'indicazione originale (HoFH), quindi non è un vero riposizionamento. Per eventuali proposte è necessario verificare la disponibilità commerciale del prodotto, oggi cessato.
+- Tuttavia coincide di fatto con l'indicazione originale (HoFH), quindi non è un vero riposizionamento. Per eventuali proposte è necessario verificare la disponibilità commerciale del prodotto, oggi cessato.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e un'analisi del possibile legame con la fisiopatologia piastrinica e valvolare.
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA.
 - Evidenze precliniche o cliniche specifiche per l'indicazione prevista.
-- Una valutazione della disponibilità del farmaco in Italia, dato che tutte le autorizzazioni risultano cessate.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

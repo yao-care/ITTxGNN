@@ -6,9 +6,9 @@ nav_order: 431
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tetrabenazine: nuova indicazione prevista, Malattia policistica renale di tipo 3 con o senza malattia policistic… (livello di evidenza L5). Indicazione originale: Malattia di Huntington (e condizioni…"
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
+description: "Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tetrabenazine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tetrabenazina: dalla malattia di Huntington alla malattia policistica renale di tipo 3
+## Tetrabenazine: Polycystic kidney disease 3 with or without polycystic liver disease
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -46,12 +46,12 @@ La tetrabenazina è un inibitore del trasportatore vescicolare delle monoamine (
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Huntington (e condizioni correlate: sindromi simil-Huntington, sindrome di McLeod) |
-| Nuova indicazione predetta | Malattia policistica renale di tipo 3 con o senza malattia policistica epatica |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Polycystic kidney disease 3 with or without polycystic liver disease |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -60,7 +60,7 @@ La tetrabenazina è un inibitore del trasportatore vescicolare delle monoamine (
 
 I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. Sulla base delle conoscenze farmacologiche note, la tetrabenazina è un inibitore reversibile di VMAT2 (e, secondo i dati di farmacologia disponibili, interagisce anche con VMAT1): riduce le riserve presinaptiche di monoamine (dopamina, serotonina, noradrenalina) nel sistema nervoso centrale. Questo spiega la sua utilità nei disturbi del movimento ipercinetici.
 
-La malattia policistica renale di tipo 3 (legata al gene GANAB) coinvolge invece un difetto nel ripiegamento delle glicoproteine e nella maturazione delle policistine nel reticolo endoplasmatico. **Non si riscontra alcun legame meccanicistico plausibile** tra la deplezione di monoamine e questa via patologica. L'elevato punteggio TxGNN sembra derivare dalla vicinanza topologica nel grafo di conoscenza, non da una via biologica credibile.
+La malattia policistica renale di tipo 3 (legata al gene GANAB) coinvolge invece un difetto nel ripiegamento delle glicoproteine e nella maturazione delle policistine nel reticolo endoplasmatico. **Non si riscontra alcun legame meccanicistico plausibile** tra la deplezione di monoamine e questa via patologica. L'elevato punteggio del modello TxGNN (deep learning) può riflettere similarità apprese dal modello tra malattie correlate, non un'evidenza biologica.
 
 Lo stesso vale per le altre predizioni di rango elevato (ad esempio displasia renale-epatica-pancreatica, sindrome di Joubert con difetto renale, nefrite interstiziale cariomegalica, porfiria acuta intermittente): in nessun caso è stato individuato un collegamento meccanicistico o un'evidenza clinica.
 
@@ -86,9 +86,9 @@ Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni v
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 046035010 | Tetrabenazina 112 cpr 25 mg flacone | Aristo Pharma GmbH | Cancellata |
-| 044251027 | Tetrabenazina 112 cpr 25 mg flacone | Sun Pharmaceutical Ind. Europe B.V. | Cancellata |
-| 036688012 | Xenazina 112 cpr div 25 mg | Pharmaswiss Ceska Republika s.r.o. | Cancellata |
+| 046035010 | Tetrabenazina 112 cpr 25 mg flacone | Aristo Pharma GmbH | Valida |
+| 044251027 | Tetrabenazina 112 cpr 25 mg flacone | Sun Pharmaceutical Ind. Europe B.V. | Valida |
+| 036688012 | Xenazina 112 cpr div 25 mg | Pharmaswiss Ceska Republika s.r.o. | Valida |
 
 ---
 

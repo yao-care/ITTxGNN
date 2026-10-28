@@ -6,9 +6,9 @@ nav_order: 231
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (livello di evidenza L5). Indicazione originale: Ipertrigliceridemia (indicata dal grafo di conoscenza TxGNN"
 monitor_inn: "icosapent ethyl"
 predicted_indications: ["hemoglobinopathy"]
+description: "Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (hemoglobinopathy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Icosapent Ethyl
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Icosapent etile: dall'ipertrigliceridemia all'emoglobinopatia
+## Icosapent Ethyl: Emoglobinopatia (hemoglobinopathy)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,12 +44,12 @@ Icosapent etile (estere etilico dell'acido eicosapentaenoico, EPA) nasce per il 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertrigliceridemia (indicata dal grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata in AIFA non è disponibile) |
-| Nuova indicazione prevista | Emoglobinopatia |
-| Punteggio di predizione TxGNN | 99,09% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Emoglobinopatia (hemoglobinopathy) |
+| Punteggio di predizione TxGNN | 0.9909 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione può essere ragionevole?
@@ -70,7 +70,7 @@ Attualmente non è disponibile letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 049428016 | VAZKEPA*120 cps molli 998 mg flacone | Amarin Pharma Ireland Limited | Cancellata |
+| 049428016 | VAZKEPA*120 cps molli 998 mg flacone | Amarin Pharma Ireland Limited | Valida |
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Non esistono autorizzazioni attualmente valide.
 

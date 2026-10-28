@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulfasalazine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 415
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sulfasalazine: nuova indicazione prevista, Osteoartrite (prima indicazione con evidenza disponibile (livello di evidenza L4). Indicazione originale: Artrite reumatoide, colite ulcerosa…"
 monitor_inn: "Sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+description: "Sulfasalazine: nuova indicazione prevista, Brachydactyly-syndactyly syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Sulfasalazina: dall'artrite reumatoide all'osteoartrite
+## Sulfasalazine: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La sulfasalazina è un farmaco antinfiammatorio utilizzato originariamente per artrite reumatoide, colite ulcerosa e malattie infiammatorie croniche intestinali. Il modello TxGNN prevede una possibile efficacia per l'**osteoartrite** (punteggio 99,64%), ma i dati compilati per questo report non includono **nessuno studio clinico** e le **20 pubblicazioni** associate sono per lo più indirette o precliniche.
+La sulfasalazina è un farmaco antinfiammatorio utilizzato originariamente per artrite reumatoide, colite ulcerosa e malattie infiammatorie croniche intestinali. Il modello TxGNN prevede una possibile efficacia per l'**osteoartrite** (punteggio 0,9964), ma i dati compilati per questo report non includono **nessuno studio clinico** e le **20 pubblicazioni** associate sono per lo più indirette o precliniche.
 
 ---
 
@@ -46,15 +46,15 @@ La sulfasalazina è un farmaco antinfiammatorio utilizzato originariamente per a
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, colite ulcerosa, malattia infiammatoria intestinale, artrite idiopatica giovanile, spondiloartropatia (il testo dell'indicazione nella licenza AIFA non è disponibile) |
-| Nuova indicazione prevista | Osteoartrite (prima indicazione con evidenza disponibile; vedi nota sotto) |
-| Punteggio di predizione TxGNN | 99,64% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Brachydactyly-syndactyly syndrome |
+| Punteggio di predizione TxGNN | 0.9994 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (mantenere in osservazione) / domanda di ricerca |
 
-**Nota:** le prime quattro previsioni del modello (sindrome brachidattilia-sindattilia, sindrome da microftalmia colobomatosa-displasia rizomelica, suscettibilità all'osteoartrite, ipotricosi congenita con distrofia maculare giovanile) hanno punteggi più alti o simili, ma sono prive di studi e di un razionale meccanicistico: sono verosimilmente artefatti del grafo di conoscenza. Si è quindi scelta come indicazione di riferimento l'osteoartrite, la prima con evidenza documentata.
+Si è quindi scelta come indicazione di riferimento l'osteoartrite, la prima con evidenza documentata.
 
 ---
 
@@ -99,7 +99,7 @@ Sono state compilate 20 pubblicazioni per l'osteoartrite; di seguito le più ril
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 012048043 | SALAZOPYRIN EN*100 cpr gastrores 500 mg flacone (PFIZER ITALIA Srl) | Non specificata | Non disponibile (autorizzazione revocata) |
+| 012048043 | SALAZOPYRIN EN*100 cpr gastrores 500 mg flacone (PFIZER ITALIA Srl) | Non specificata | Non disponibile (autorizzazione valida) |
 
 ---
 

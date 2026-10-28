@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lurasidone
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 281
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Lurasidone: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (livello di evidenza L4). Indicazione originale: Disturbo bipolare"
 monitor_inn: "LURASIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Lurasidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lurasidone
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Lurasidone: Dal disturbo bipolare e dalla schizofrenia al disturbo affettivo bipolare maniacale
+## Lurasidone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,12 +44,12 @@ Il lurasidone è un antipsicotico atipico, originariamente utilizzato per il dis
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo bipolare; schizofrenia (dai dati del grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Disturbo affettivo bipolare maniacale |
-| Punteggio di predizione TxGNN | 99,98% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Retinal dystrophy with or without extraocular anomalies |
+| Punteggio di predizione TxGNN | 0.9995 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -87,11 +87,11 @@ Nessuna delle pubblicazioni fornisce evidenze RCT dirette sull'uso del lurasidon
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 043335025 | LATUDA 28x1 cpr rivestite 18,5 mg | Angelini SpA | Cancellata |
-| 043335090 | LATUDA 28x1 cpr rivestite 37 mg | Angelini SpA | Cancellata |
-| 043335153 | LATUDA 28x1 cpr rivestite 74 mg | Angelini SpA | Cancellata |
-| 051219095 | Lurasidone 28 cpr rivestite 18,5 mg | Accord Healthcare SLU | Cancellata |
-| 051313031 | Lurasidone 28 cpr rivestite 37 mg | Teva B.V. | Cancellata |
+| 043335025 | LATUDA 28x1 cpr rivestite 18,5 mg | Angelini SpA | Valida |
+| 043335090 | LATUDA 28x1 cpr rivestite 37 mg | Angelini SpA | Valida |
+| 043335153 | LATUDA 28x1 cpr rivestite 74 mg | Angelini SpA | Valida |
+| 051219095 | Lurasidone 28 cpr rivestite 18,5 mg | Accord Healthcare SLU | Valida |
+| 051313031 | Lurasidone 28 cpr rivestite 37 mg | Teva B.V. | Valida |
 
 Sono presenti 9 autorizzazioni in totale, tutte cancellate; le prime 5 sono riportate sopra. Lo stato di mercato andrebbe verificato rispetto alla disponibilità attuale.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Olodaterol
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 327
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Olodaterol: nuova indicazione prevista, Bronchite (livello di evidenza L4). Indicazione originale: Broncopneumopatia cronica ostruttiva (BPCO)"
 monitor_inn: "olodaterol"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis"]
 # Olodaterol
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,17 +46,17 @@ L'olodaterolo è un beta2-agonista a lunga durata d'azione (LABA), somministrato
 |------|------|
 | Indicazione originale | Broncopneumopatia cronica ostruttiva (BPCO) |
 | Nuova indicazione prevista | Bronchite |
-| Punteggio di predizione TxGNN | 99,84% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Punteggio di predizione TxGNN | 0,9984 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
 
 Non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze di classe, l'olodaterolo attiva i recettori beta2-adrenergici, aumenta l'AMP ciclico e rilassa la muscolatura liscia bronchiale, con broncodilatazione prolungata.
 
-La bronchite, in particolare quella cronica, è una componente della BPCO, già indicazione approvata per il farmaco. Il punteggio TxGNN molto alto (0,998) riflette probabilmente la sovrapposizione tra bronchite e BPCO nel grafo di conoscenza, più che un'evidenza indipendente.
+La bronchite, in particolare quella cronica, è una componente della BPCO, già indicazione approvata per il farmaco. Il punteggio molto alto (0,9984) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
 La bronchite acuta è di norma autolimitante e non è un bersaglio standard della terapia con LABA. Oltre all'indicazione già esistente nella BPCO, il valore di riposizionamento per la bronchite appare quindi minimo.
 
@@ -75,9 +75,9 @@ Attualmente non risultano studi clinici registrati correlati alla bronchite.
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 042432056 | Striverdi Respimat, soluzione per inalazione, 60 erogazioni 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Cancellata |
-| 043661053 | Spiolto Respimat, soluzione per inalazione, 1 inalatore da 60 erogazioni 2,5 mcg + 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Cancellata |
-| 043661077 | Spiolto Respimat, soluzione per inalazione, 2,5 mcg + 2,5 mcg, 1 cartuccia, 60 erogazioni | Boehringer Ingelheim Int. GmbH | Cancellata |
+| 042432056 | Striverdi Respimat, soluzione per inalazione, 60 erogazioni 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Valida |
+| 043661053 | Spiolto Respimat, soluzione per inalazione, 1 inalatore da 60 erogazioni 2,5 mcg + 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Valida |
+| 043661077 | Spiolto Respimat, soluzione per inalazione, 2,5 mcg + 2,5 mcg, 1 cartuccia, 60 erogazioni | Boehringer Ingelheim Int. GmbH | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -100,7 +100,6 @@ Per la bronchite non esistono studi clinici specifici, l'evidenza è di livello 
 - Verifica dello stato regolatorio e della disponibilità sul mercato italiano, visto che le autorizzazioni sono cancellate.
 - Un piano di screening delle interazioni farmacologiche.
 
-**Nota:** la seconda indicazione predetta, la malattia polmonare ostruttiva (punteggio 99,57%), coincide di fatto con l'indicazione già approvata nella BPCO e non costituisce un vero riposizionamento. Per questa indicazione esistono numerosi studi di fase 3 completati, tra cui NCT01431274 (n=2624), NCT00796653 (n=937) e NCT01525615 (n=404). L'evidenza è però limitata alla BPCO e non va estesa ad altre condizioni ostruttive, come l'asma, dove la monoterapia con LABA pone problemi di sicurezza.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

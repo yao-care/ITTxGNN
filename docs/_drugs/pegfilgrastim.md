@@ -46,10 +46,10 @@ Pegfilgrastim è un analogo PEGilato del G-CSF, che stimola la produzione di neu
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Retinopatia diabetica non proliferante grave |
-| Punteggio di predizione TxGNN | 99,89% |
+| Punteggio di predizione TxGNN | 0,9989 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -58,7 +58,7 @@ I dati sul meccanismo d'azione non sono al momento disponibili. Sulla base delle
 
 In via puramente ipotetica, il G-CSF può mobilizzare dal midollo osseo le cellule progenitrici endoteliali, con un possibile ruolo nella riparazione del microcircolo retinico. Tuttavia, gli effetti pro-infiammatori e pro-angiogenici del G-CSF potrebbero al contrario peggiorare una malattia retinica neovascolare. Nessuna delle due ipotesi è supportata da evidenze nei dati compilati.
 
-La seconda indicazione prevista, la **retinopatia diabetica** (punteggio 99,73%), è una categoria più ampia che include la prima e non fornisce evidenze indipendenti.
+La seconda indicazione prevista, la **retinopatia diabetica** (punteggio 0,9973), è una categoria più ampia che include la prima e non fornisce evidenze indipendenti.
 
 ## Evidenza dagli studi clinici
 
@@ -74,11 +74,11 @@ Tutte le autorizzazioni elencate risultano cancellate.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 047090016 | Pelgraz, siringa SC 6 mg/0,6 ml con copriago + tampone alcolico | Accord Healthcare SLU | Cancellata |
-| 047364017 | Ziextenzo, siringa SC 6 mg/0,6 ml | Sandoz GmbH | Cancellata |
-| 047401029 | Fulphila, siringa SC 6 mg/0,6 ml con cappuccio dell'ago | Biosimilar Collaborations Ireland Ltd | Cancellata |
-| 047090028 | Pelgraz, iniettore preriempito SC 6 mg/0,6 ml + tampone imbevuto di alcol | Accord Healthcare SLU | Cancellata |
-| 035716036 | Neulasta, siringa SC 6 mg/0,6 ml con protezione ago | Amgen Europe B.V. | Cancellata |
+| 047090016 | Pelgraz, siringa SC 6 mg/0,6 ml con copriago + tampone alcolico | Accord Healthcare SLU | Valida |
+| 047364017 | Ziextenzo, siringa SC 6 mg/0,6 ml | Sandoz GmbH | Valida |
+| 047401029 | Fulphila, siringa SC 6 mg/0,6 ml con cappuccio dell'ago | Biosimilar Collaborations Ireland Ltd | Valida |
+| 047090028 | Pelgraz, iniettore preriempito SC 6 mg/0,6 ml + tampone imbevuto di alcol | Accord Healthcare SLU | Valida |
+| 035716036 | Neulasta, siringa SC 6 mg/0,6 ml con protezione ago | Amgen Europe B.V. | Valida |
 
 ## Considerazioni sulla sicurezza
 

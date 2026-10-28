@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Alirocumab: nuova indicazione prevista, Ittiosi X-linked senza deficit di steroide solfatasi (livello di evidenza L5). Indicazione originale: Dislipidemia sindromica, aterosclerosi, arteriosclerosi…"
 monitor_inn: "ALIROCUMAB"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
+last_modified_at: 2026-10-27
+description: "Alirocumab: nuova indicazione prevista, Ittiosi legata all'X senza deficit di steroide solfatasi (ichthyosis, X-linked, without steroid sulfatase deficiency) (livello di evidenza L5). Indicazione ori…"
 ---
 
 # Alirocumab
@@ -33,88 +33,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Alirocumab: Dall'ipercolesterolemia/aterosclerosi a Ittiosi X-linked senza deficit di steroide solfatasi
+## Alirocumab: inibitore di PCSK9 (anticorpo monoclonale) → Ittiosi legata all'X senza deficit di steroide solfatasi (ichthyosis, X-linked, without steroid sulfatase deficiency)
 {: .text-alpha }
 
 ## Sintesi
 
-Alirocumab è un anticorpo monoclonale anti-PCSK9, originariamente utilizzato per le dislipidemie e le malattie aterosclerotiche (dislipidemia sindromica, aterosclerosi, arteriosclerosi, arteriolosclerosi).
-Il modello TxGNN predice una possibile efficacia per l'**ittiosi X-linked senza deficit di steroide solfatasi**, ma per questa indicazione non risultano **né studi clinici né pubblicazioni** a supporto: la predizione si basa solo sul modello (livello di evidenza L5).
+Alirocumab è un anticorpo monoclonale che inibisce PCSK9, impiegato per abbassare il colesterolo LDL. Il modello TxGNN ne prevede un possibile effetto nell'**ittiosi legata all'X senza deficit di steroide solfatasi (ichthyosis, X-linked, without steroid sulfatase deficiency)**. Per questa previsione non risultano **né studi clinici né pubblicazioni** nei dati compilati per questo report: il supporto è solo di tipo computazionale.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Dislipidemia sindromica, aterosclerosi, arteriosclerosi, arteriolosclerosi (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione predetta | Ittiosi X-linked senza deficit di steroide solfatasi |
-| Punteggio di predizione TxGNN | 99,43% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ittiosi legata all'X senza deficit di steroide solfatasi (ichthyosis, X-linked, without steroid sulfatase deficiency) |
+| Punteggio di previsione TxGNN | 0,9943 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati disponibili sul meccanismo d'azione non sono completi. Alirocumab è un anticorpo monoclonale diretto contro PCSK9: impedendo a PCSK9 di degradare il recettore delle LDL, aumenta la clearance del colesterolo LDL dal sangue.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. È noto tuttavia che alirocumab è un anticorpo che inibisce PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9), aumentando la disponibilità dei recettori LDL e la clearance del colesterolo LDL.
+Per questa previsione specifica **non è stato individuato un collegamento meccanicistico plausibile**. L'ittiosi legata all'X coinvolge l'accumulo di colesterolo solfato nella pelle, una via su cui l'inibizione di PCSK9 non ha un effetto noto. Nonostante il punteggio elevato (0,9943), la previsione appare un artefatto del modello più che un'ipotesi biologicamente fondata. Non sono disponibili dati sulla similarità con l'indicazione originale né sulla compatibilità delle vie di somministrazione.
 
-Per l'ittiosi X-linked, **non è stato identificato un legame meccanicistico plausibile**. Questa malattia comporta l'accumulo di colesterolo solfato nella cute, un processo su cui l'inibizione di PCSK9 non ha un effetto stabilito. Nonostante il punteggio elevato, l'assenza di studi e di letteratura indica che la predizione sembra un artefatto del grafo di conoscenza.
+## Evidenze da studi clinici
 
-Va inoltre segnalato che, tra le altre predizioni del modello, il **xantomatosi** è biologicamente plausibile (la riduzione del LDL-C potrebbe ridurre il carico xantomatoso, con evidenza solo indiretta da due case report) e la **malattia del catabolismo del colesterolo** si sovrappone alle indicazioni lipidiche già approvate, quindi rappresenta più una riformulazione dell'uso esistente che un vero riposizionamento. Entrambe sono candidate più sensate rispetto a quella di rango 1.
+Attualmente non risultano studi clinici registrati correlati.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza da studi clinici
-
-Attualmente non risultano studi clinici correlati registrati per questa indicazione.
-
----
-
-## Evidenza dalla letteratura
-
-Attualmente non risulta letteratura correlata disponibile per questa indicazione.
-
----
+Attualmente non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+| N. autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044500027 | PRALUENT, 2 penne preriempite SC 1 ml 75 mg | – | Non disponibile (autorizzazione cancellata) |
-| 044500078 | PRALUENT, 1 penna preriempita SC 1 ml 150 mg | – | Non disponibile (autorizzazione cancellata) |
-| 044500015 | PRALUENT, 1 penna preriempita SC 1 ml 75 mg | – | Non disponibile (autorizzazione cancellata) |
-| 044500080 | PRALUENT, 2 penne preriempite SC 150 mg 1 ml | – | Non disponibile (autorizzazione cancellata) |
-| 044500193 | PRALUENT, 1 penna preriempita SC 2 ml 300 mg (150 mg/ml) | – | Non disponibile (autorizzazione cancellata) |
+| 044500027 | PRALUENT*2 penne preriempite SC 1 ml 75 mg | Penna preriempita | Non registrata |
+| 044500078 | PRALUENT*1 penna preriempita SC 1 ml 150 mg | Penna preriempita | Non registrata |
+| 044500015 | PRALUENT*1 penna preriempita SC 1 ml 75 mg | Penna preriempita | Non registrata |
+| 044500080 | PRALUENT*2 penne preriempite SC 150 mg 1 ml | Penna preriempita | Non registrata |
+| 044500193 | PRALUENT*1 penna preriempita SC 2 ml 300 mg 150 mg/ml | Penna preriempita | Non registrata |
 
-Titolare: Sanofi Winthrop Industrie. Tutte e 5 le autorizzazioni risultano cancellate, nessuna è attualmente valida.
+Titolare: Sanofi Winthrop Industrie.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Interazioni**: nei dati compilati è registrata una sola relazione farmacologica, con il bersaglio PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9), cioè il meccanismo d'azione stesso del farmaco; non sono elencate interazioni con altri farmaci.
 
-- **Interazioni**: l'interrogazione ha rilevato una sola voce, di natura farmacologica e non una vera interazione tra farmaci: il bersaglio di alirocumab, PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9). Alirocumab è stato approvato dalla FDA nel luglio 2015 come primo agente anti-PCSK9 per l'ipercolesterolemia familiare eterozigote o la malattia cardiovascolare aterosclerotica clinica non adeguatamente controllate con dieta e statine; l'approvazione EMA è seguita pochi mesi dopo.
-- **Sicurezza generale**: un'analisi aggregata dello studio ODYSSEY OUTCOMES (47.296 anni-paziente di osservazione controllata con placebo, PMID 38658193) ha descritto il profilo di sicurezza di alirocumab nella popolazione cardiovascolare.
-
-Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
-
----
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'ittiosi X-linked non esistono studi clinici né letteratura, e non è stato identificato un legame meccanicistico con l'inibizione di PCSK9: l'elevato punteggio TxGNN (99,43%) appare un artefatto del modello. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+- La previsione ha un punteggio TxGNN alto ma nessuno studio clinico, nessuna pubblicazione e nessun collegamento meccanicistico plausibile con l'inibizione di PCSK9; il livello di evidenza è L5.
 
 **Per procedere sarebbe necessario:**
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
-- Ottenere i dati sul meccanismo d'azione (MOA) da DrugBank
-- Verificare le ragioni della cancellazione delle autorizzazioni italiane e la disponibilità effettiva del prodotto
-- Valutare in alternativa candidati più plausibili, come la xantomatosi (rango 3), previa raccolta di evidenza clinica diretta
-- Stabilire preliminarmente un'ipotesi biologica per l'ittiosi X-linked prima di qualsiasi studio preclinico
+- Individuare un'ipotesi biologica che colleghi PCSK9 all'accumulo di colesterolo solfato nell'ittiosi legata all'X, ed eventuali studi preclinici a supporto
+- Acquisire i dati sul meccanismo d'azione e sulle avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Valutare la compatibilità della via di somministrazione (sottocutanea) con una patologia cutanea
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

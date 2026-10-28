@@ -4,17 +4,17 @@ title: Risperidone
 parent: Solo previsione del modello (L5)
 nav_order: 383
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare (mania)"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal… (livello di evidenza L5). Indicazione originale: Non r…"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Risperidone: dalla schizofrenia e dal disturbo bipolare alla paralisi dello sguardo orizzontale familiare con scoliosi progressiva
+## Risperidone: Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,11 +46,11 @@ Il risperidone è un antipsicotico atipico utilizzato per schizofrenia, disturbo
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare (mania), disturbi dello spettro autistico (dal grafo di conoscenza TxGNN; i testi autorizzativi italiani non riportano l'indicazione) |
-| Nuova indicazione prevista | Paralisi dello sguardo orizzontale familiare con scoliosi progressiva |
-| Punteggio di predizione TxGNN | 99,76% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis) |
+| Punteggio di predizione TxGNN | 0.9976 |
 | Livello di evidenza | L5 (solo previsione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni annullate (nessuna autorizzazione valida) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte annullate) |
 | Decisione raccomandata | Hold |
 
@@ -60,7 +60,7 @@ Il risperidone è un antipsicotico atipico utilizzato per schizofrenia, disturbo
 
 I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In generale, il risperidone agisce come antagonista dei recettori dopaminergici D2 e serotoninergici 5-HT2A, meccanismo alla base dei suoi usi psichiatrici consolidati.
 
-Per questa nuova indicazione **non emerge alcun legame meccanicistico plausibile**. La condizione è un raro disturbo genetico legato al gene ROBO3, che riguarda la guida assonale nel romboencefalo. La farmacologia recettoriale del risperidone non ha una rilevanza evidente per questa patologia. L'alto punteggio del modello va quindi letto come un segnale statistico del grafo di conoscenza, non come una conferma biologica o clinica.
+Per questa nuova indicazione **non emerge alcun legame meccanicistico plausibile**. La condizione è un raro disturbo genetico legato al gene ROBO3, che riguarda la guida assonale nel romboencefalo. La farmacologia recettoriale del risperidone non ha una rilevanza evidente per questa patologia. L'alto punteggio deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica o clinica.
 
 ---
 
@@ -78,15 +78,15 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni individuate sono **annullate**. Di seguito le prime 5 (prodotto originatore Risperdal, Janssen-Cilag SpA):
+Tutte le 20 autorizzazioni individuate sono **valide**. Di seguito le prime 5 (prodotto originatore Risperdal, Janssen-Cilag SpA):
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica (dalla denominazione) | Stato |
 |---------|------|------|-----------|
-| 028752057 | Risperdal 60 cpr rivestite 1 mg bianche | Compresse rivestite | Annullata |
-| 028752069 | Risperdal 60 cpr rivestite 2 mg arancioni | Compresse rivestite | Annullata |
-| 028752071 | Risperdal 60 cpr rivestite 3 mg gialle | Compresse rivestite | Annullata |
-| 028752083 | Risperdal 60 cpr rivestite 4 mg verdi | Compresse rivestite | Annullata |
-| 028752095 | Risperdal soluzione orale 100 ml 1 mg/ml | Soluzione orale | Annullata |
+| 028752057 | Risperdal 60 cpr rivestite 1 mg bianche | Compresse rivestite | Valida |
+| 028752069 | Risperdal 60 cpr rivestite 2 mg arancioni | Compresse rivestite | Valida |
+| 028752071 | Risperdal 60 cpr rivestite 3 mg gialle | Compresse rivestite | Valida |
+| 028752083 | Risperdal 60 cpr rivestite 4 mg verdi | Compresse rivestite | Valida |
+| 028752095 | Risperdal soluzione orale 100 ml 1 mg/ml | Soluzione orale | Valida |
 
 Le altre autorizzazioni riguardano generici di diversi titolari (Sandoz, Mylan, Aurobindo, Ratiopharm), anch'essi annullati.
 
@@ -110,7 +110,7 @@ I dati compilati per questo report non includono avvertenze e controindicazioni 
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione ha un punteggio TxGNN elevato (99,76%), ma è priva di sperimentazioni cliniche, letteratura e di un legame meccanicistico plausibile (livello L5).
+- La previsione ha un punteggio TxGNN elevato (0,9976), ma è priva di sperimentazioni cliniche, letteratura e di un legame meccanicistico plausibile (livello L5).
 - Inoltre, tutte le autorizzazioni italiane del risperidone risultano annullate, il che complica ulteriormente qualsiasi percorso di riposizionamento.
 
 **Per procedere sarebbe necessario:**

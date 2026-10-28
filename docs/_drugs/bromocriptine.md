@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bromocriptine: nuova indicazione prevista, Malattia congenita della glicosilazione con fucosilazione difettosa (livello di evidenza L5). Indicazione originale: Malattia di Parkinson, iperprolattinemi…"
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
+last_modified_at: 2026-10-27
+description: "Bromocriptine: nuova indicazione prevista, Malattia congenita della glicosilazione con difetto di fucosilazione (congenital disorder of glycosylation with defecti… (livello di evidenza L5). Indicazio…"
 ---
 
 # Bromocriptine
@@ -33,98 +33,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Bromocriptina: Dalla malattia di Parkinson alla schizofrenia
+## Bromocriptina: agonista dopaminergico D2 → malattia congenita della glicosilazione con difetto di fucosilazione (congenital disorder of glycosylation with defective fucosylation)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo
 
-La bromocriptina è un agonista dopaminergico, originariamente impiegato nella malattia di Parkinson, nell'iperprolattinemia e nell'acromegalia. Il modello TxGNN la indica come potenzialmente utile per diverse nuove indicazioni; tra quelle con un minimo di evidenza disponibile, la **schizofrenia** (in particolare come terapia aggiuntiva per i disturbi metabolici associati agli antipsicotici) è quella con **1 studio clinico** registrato (non ancora in reclutamento) e circa **20 pubblicazioni**, per lo più indirette. L'evidenza resta debole e comporta un possibile rischio di peggioramento della psicosi.
+La bromocriptina è un agonista dei recettori dopaminergici di tipo D2 (derivato ergolinico). Il modello TxGNN la indica come possibile candidata per la **malattia congenita della glicosilazione con difetto di fucosilazione (congenital disorder of glycosylation with defective fucosylation)**, con un punteggio molto alto (0,9983). Per questa indicazione non risulta tuttavia **nessuno studio clinico** né **alcuna pubblicazione**: si tratta di una predizione esclusivamente computazionale.
 
-> Nota metodologica: nei dati compilati per questo report la prima indicazione per punteggio TxGNN è una *malattia congenita della glicosilazione con fucosilazione difettosa* (punteggio 99,83%), priva di qualsiasi studio o pubblicazione. Per rendere la valutazione utile, la tabella seguente riporta questa predizione di primo rango e, di seguito, la discussione si concentra sulla schizofrenia (rango 9), che ha l'evidenza più ampia.
-
-## Quadro d'insieme
+## Quadro sintetico
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Parkinson, iperprolattinemia, acromegalia (il testo dell'indicazione approvata AIFA non è disponibile) |
-| Nuova indicazione prevista (rango 1) | Malattia congenita della glicosilazione con fucosilazione difettosa |
-| Punteggio di predizione TxGNN (rango 1) | 99,83% |
-| Livello di evidenza (rango 1) | L5 |
-| Nuova indicazione con maggiore evidenza | Schizofrenia (punteggio TxGNN 99,73%, livello L4) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia congenita della glicosilazione con difetto di fucosilazione (congenital disorder of glycosylation with defective fucosylation) |
+| Punteggio di predizione TxGNN | 0,9983 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle informazioni note, la bromocriptina è un derivato ergolinico che agisce come agonista dei recettori dopaminergici D2/D3 e, secondo i dati farmacologici raccolti, interagisce anche con numerosi recettori serotoninergici (5-HT1A, 2A, 2B, 2C ecc.), con i recettori α2-adrenergici e con i recettori D1, D4 e D5.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, la bromocriptina agisce soprattutto come agonista dei recettori dopaminergici D2, con attività anche su altri recettori dopaminergici, serotoninergici e alfa-adrenergici.
 
-Per la predizione di primo rango (difetto di fucosilazione), non esiste alcun legame meccanicistico plausibile tra l'agonismo dopaminergico e un difetto di glicosilazione: si tratta di una predizione puramente computazionale basata sul grafo di conoscenza. Lo stesso vale per le altre predizioni senza evidenza (malformazioni cerebrali, atassie, neuropatie, encefalopatia glicinica).
-
-Per la schizofrenia il rapporto è ambiguo. L'efficacia antipsicotica si basa sull'antagonismo o sull'agonismo parziale del recettore D2, mentre la bromocriptina è un agonista pieno. Esiste inoltre un caso clinico di schizofrenia indotta da bromocriptina. L'unico studio registrato non mira a trattare i sintomi psichiatrici, bensì l'alterata tolleranza al glucosio/insulino-resistenza associata agli antipsicotici, un'ipotesi di natura metabolica distinta da una vera indicazione per la schizofrenia.
-
-Tra le altre predizioni, la **distrofia retinica** (rango 3, livello L4) ha un minimo di supporto: uno studio preclinico (2024) su una combinazione di farmaci riposizionati che include la bromocriptina, e un caso clinico del 1991 sulla sindrome di Goldmann-Favre trattata con ciclosporina A e bromocriptina (effetto confuso dalla ciclosporina). Le forme di miopia hanno solo un razionale teorico legato alla segnalazione dopaminergica retinica.
+Nei dati disponibili non emerge alcun legame meccanicistico plausibile tra l'agonismo dopaminergico e un difetto di fucosilazione, cioè un'alterazione del metabolismo dei glicani. Il punteggio elevato riflette solo la struttura del modello predittivo e non è sostenuto da dati biologici o clinici. Non va letto come prova di efficacia.
 
 ## Evidenza dagli studi clinici
 
-Per la schizofrenia (unica predizione con studi registrati):
-
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT03575000](https://clinicaltrials.gov/study/NCT03575000) | Fase 4 | Non ancora in reclutamento | 15 | Studio pilota in aperto, a dose flessibile, di bromocriptina aggiuntiva in pazienti con schizofrenia e prediabete; valuta sicurezza e tollerabilità sulle alterazioni metaboliche da antipsicotici. Nessun risultato disponibile. |
-
-Per le altre predizioni non risultano studi clinici registrati.
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ## Evidenza dalla letteratura
 
-Pubblicazioni più rilevanti per la schizofrenia (le altre sono revisioni farmacologiche generali o indirette):
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [6574535](https://pubmed.ncbi.nlm.nih.gov/6574535/) | 1983 | Studio clinico su 10 pazienti | Psychiatry Research | Bromocriptina a dosi crescenti (fino a 40 mg) in schizofrenia cronica: valutazione di sintomi, sonno e risposta della prolattina |
-| [8120934](https://pubmed.ncbi.nlm.nih.gov/8120934/) | 1993 | Caso clinico | J Natl Med Assoc | Schizofrenia insorta dopo l'inizio di bromocriptina a basse dosi; risoluzione dopo la sospensione (segnale di sicurezza) |
-| [30805732](https://pubmed.ncbi.nlm.nih.gov/30805732/) | 2019 | Revisione | J Neural Transm | Panoramica sugli agonisti dopaminergici classici, inclusa la bromocriptina |
-| [39265262](https://pubmed.ncbi.nlm.nih.gov/39265262/) | 2024 | Revisione sistematica | Schizophrenia Research | Insulino-resistenza come via modificabile della disfunzione cognitiva nella schizofrenia |
-| [33571431](https://pubmed.ncbi.nlm.nih.gov/33571431/) | 2021 | Studio strutturale | Cell | Strutture dei complessi recettoriali D1 e D2 della dopamina |
-| [15711437](https://pubmed.ncbi.nlm.nih.gov/15711437/) | 2005 | Revisione di casi | Clin Neuropharmacol | Agenti aggiuntivi nella schizofrenia resistente alla clozapina |
-| [22713195](https://pubmed.ncbi.nlm.nih.gov/22713195/) | 2011 | Revisione | Acta Med Port | Iperprolattinemia nei pazienti con malattie psichiatriche |
-
-Per la distrofia retinica:
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [39009597](https://pubmed.ncbi.nlm.nih.gov/39009597/) | 2024 | Studio preclinico | Nature Communications | Combinazione di tamsulosina, metoprololo e bromocriptina con efficacia indipendente dalla mutazione in modelli di retinopatia |
-| [1753674](https://pubmed.ncbi.nlm.nih.gov/1753674/) | 1991 | Caso clinico | Klin Monatsbl Augenheilkd | Sindrome di Goldmann-Favre trattata con ciclosporina A e bromocriptina |
+Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023781038 | PARLODEL 30 cps 5 mg (EXELTIS ITALIA Srl) | Non disponibile | Non disponibile (autorizzazione cancellata) |
-| 023781014 | PARLODEL 30 cpr 2,5 mg (EXELTIS ITALIA Srl) | Non disponibile | Non disponibile (autorizzazione cancellata) |
-| 023781026 | PARLODEL 20 cps 10 mg (EXELTIS ITALIA Srl) | Non disponibile | Non disponibile (autorizzazione cancellata) |
+| 023781038 | PARLODEL*30 cps 5 mg | Non indicata | Non registrata nei dati locali |
+| 023781014 | PARLODEL*30 cpr 2,5 mg | Non indicata | Non registrata nei dati locali |
+| 023781026 | PARLODEL*20 cps 10 mg | Non indicata | Non registrata nei dati locali |
+
+Titolare: EXELTIS ITALIA Srl.
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni desunte dal grafo di conoscenza** (non da testo di scheda tecnica): ipertensione, malattie epatiche, malattie della colecisti, coronaropatia, ictus e disturbi cerebrovascolari, infarto cerebrale, preeclampsia (lieve e severa) e sindrome HELLP.
-- **Segnale specifico per la schizofrenia**: un caso clinico documenta l'insorgenza di schizofrenia dopo l'avvio della bromocriptina, con risoluzione alla sospensione; l'agonismo dopaminergico può peggiorare la psicosi.
-- **Profilo recettoriale / interazioni farmacologiche**: i dati raccolti (16 voci) descrivono l'attività su recettori serotoninergici (5-HT1A, 1B, 1D, 2A, 2B, 2C, 6, 7), α2-adrenergici (2A, 2B, 2C) e dopaminergici (D1–D5). Non sono disponibili interazioni con altri farmaci classificate per livello di gravità.
+- **Controindicazioni segnalate in letteratura di riferimento (non da testo del foglietto illustrativo)**: ipertensione, malattie del fegato e della colecisti, coronaropatia, malattie cerebrovascolari e ictus, preeclampsia grave e lieve, sindrome HELLP.
+- **Interazioni**: l'analisi ha rilevato 16 interazioni farmacologiche di tipo farmacologico, cioè legami con recettori serotoninergici (5-HT1A, 1B, 1D, 2A, 2B, 2C, 6, 7), alfa-2 adrenergici (2A, 2B, 2C) e dopaminergici (D1–D5). Non sono disponibili interazioni con altri farmaci classificate per gravità.
 
-Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica, non disponibile nei dati compilati.
+Per le avvertenze complete si rimanda al foglietto illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Hold (sospendere)**
+**Decisione: Hold**
 
 **Motivazione:**
-- Le predizioni a punteggio più alto (rango 1–8, 10) non hanno evidenza clinica o hanno solo un razionale teorico, e le autorizzazioni italiane sono tutte cancellate. Per la schizofrenia l'unico studio è un piccolo pilota metabolico non ancora avviato, mentre esiste un segnale di sicurezza (psicosi indotta). La distrofia retinica rappresenta una domanda di ricerca (L4), non un candidato pronto allo sviluppo.
+La predizione si basa solo sul modello computazionale, senza studi clinici, letteratura o un meccanismo biologico plausibile che colleghi la bromocriptina ai difetti di fucosilazione. Il livello di evidenza è L5.
 
-**Per procedere sono necessari:**
-- Scheda tecnica AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
-- Dati sul meccanismo d'azione da DrugBank
-- Verifica dell'abstract completo di PMID 39009597 per chiarire il contributo specifico della bromocriptina nella combinazione per la retinopatia
-- Risultati dello studio NCT03575000 e valutazione del rischio di esacerbazione psicotica
-- Per le predizioni senza evidenza, una validazione meccanicistica preclinica prima di qualsiasi ulteriore investimento
+**Per procedere sarebbe necessario:**
+- Individuare un'ipotesi meccanicistica che colleghi l'azione dopaminergica alla via di fucosilazione
+- Condurre studi preclinici (in vitro su cellule di pazienti o su modelli animali)
+- Acquisire il testo completo del foglietto illustrativo AIFA per avvertenze e controindicazioni
+- Completare i dati sul meccanismo d'azione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

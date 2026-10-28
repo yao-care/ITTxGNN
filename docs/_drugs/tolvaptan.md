@@ -4,17 +4,17 @@ title: Tolvaptan
 parent: Solo previsione del modello (L5)
 nav_order: 441
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tolvaptan: nuova indicazione prevista, Malattia policistica renale 3 con o senza malattia policistica epatica (livello di evidenza L5). Indicazione originale: Sindrome da inappropriata secrezione di …"
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tolvaptan: dalla sindrome da inappropriata secrezione di ADH alla malattia policistica renale 3 (con o senza malattia policistica epatica)
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## Sintesi
@@ -44,12 +44,12 @@ Il tolvaptan è un antagonista selettivo del recettore V2 della vasopressina, or
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome da inappropriata secrezione di ADH; sindrome nefrogenica da inappropriata antidiuresi; malattia policistica renale (dal grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
-| Nuova indicazione prevista | Malattia policistica renale 3 con o senza malattia policistica epatica |
-| Punteggio di predizione TxGNN | 99,99% |
-| Livello di evidenza | L1 (evidenza ottenuta in popolazioni ADPKD; per PKD3 l'applicabilità è per estensione meccanicistica) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Renal-hepatic-pancreatic dysplasia |
+| Punteggio di predizione TxGNN | 0.9998 |
+| Livello di evidenza | L5 (evidenza ottenuta in popolazioni ADPKD; per PKD3 l'applicabilità è per estensione meccanicistica) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?
@@ -83,13 +83,13 @@ Al momento non risultano studi clinici correlati registrati per questa indicazio
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044202036 | JINARC 7 cpr 30 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
-| 044202012 | JINARC 7 cpr 15 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
-| 044202101 | JINARC 28 cpr 30 mg + 28 cpr 60 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
-| 044202075 | JINARC 28 cpr 15 mg + 28 cpr 45 mg (Otsuka) | n.d. | n.d. (autorizzazione revocata) |
-| 048669269 | Tolvaptan 28 cpr 30 mg + 28 cpr 60 mg (Teva) | n.d. | n.d. (autorizzazione revocata) |
+| 044202036 | JINARC 7 cpr 30 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
+| 044202012 | JINARC 7 cpr 15 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
+| 044202101 | JINARC 28 cpr 30 mg + 28 cpr 60 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
+| 044202075 | JINARC 28 cpr 15 mg + 28 cpr 45 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
+| 048669269 | Tolvaptan 28 cpr 30 mg + 28 cpr 60 mg (Teva) | n.d. | n.d. (autorizzazione valida) |
 
-Tutte le 8 autorizzazioni risultano revocate; non vi sono autorizzazioni valide. Lo stato va verificato rispetto all'etichettatura regionale attuale.
+Lo stato va verificato rispetto all'etichettatura regionale attuale.
 
 ## Cytotoxicity
 

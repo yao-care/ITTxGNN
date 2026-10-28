@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aceclofenac
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 16
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aceclofenac: nuova indicazione prevista, Spondilopatia infiammatoria (livello di evidenza L4). Indicazione originale: Artrite reumatoide, spondilite anchilosante, osteoartrosi, artropatia…"
+evidence_level: L5
+indication_count: 7
 monitor_inn: "ACECLOFENAC"
-predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
+last_modified_at: 2026-10-27
+description: "Aceclofenac: nuova indicazione prevista, Sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei …"
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,71 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Aceclofenac: dall'artrite reumatoide alla spondilopatia infiammatoria
+## Aceclofenac: inibitore della ciclossigenasi (FANS) → sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Aceclofenac è un farmaco antinfiammatorio non steroideo (FANS) usato per il dolore e l'infiammazione in malattie reumatiche come artrite reumatoide, spondilite anchilosante e osteoartrosi. Il modello TxGNN lo indica come possibile candidato per la **spondilopatia infiammatoria** (la più solida tra le prime 10 predizioni), con **0 studi clinici registrati** e **17 pubblicazioni** reperite. Tuttavia, questa indicazione coincide di fatto con una delle indicazioni già note (spondilite anchilosante), quindi non si tratta di un vero riposizionamento.
+Aceclofenac è un farmaco antinfiammatorio non steroideo (FANS) con preferenza per la COX-2.
+Il modello TxGNN prevede un possibile effetto nella **sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome)**,
+ma per questa previsione sono disponibili **0 studi clinici** e **0 pubblicazioni**: il supporto è solo computazionale.
 
-> Nota: la predizione con il punteggio più alto (rank 1) è la sindrome brachiolmia-amelogenesi imperfetta (99,89%), ma è priva di qualsiasi evidenza e di un legame meccanicistico. Il report si concentra sulla spondilopatia infiammatoria perché è l'unica predizione con letteratura pertinente.
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, spondilite anchilosante, osteoartrosi, artropatia, spalla congelata (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione predetta | Spondilopatia infiammatoria (rank 8 per punteggio) |
-| Punteggio di predizione TxGNN | 99,63% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 |
-| Decisione raccomandata | Hold |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome) |
+| Punteggio di previsione TxGNN | 0,9989 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione è ragionevole?
+## Perché questa previsione è (poco) ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Sulla base delle conoscenze generali, aceclofenac è un FANS preferenziale per la COX-2: l'inibizione della sintesi delle prostaglandine riduce infiammazione e dolore.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In generale aceclofenac agisce come FANS con azione preferenziale sulla COX-2, con effetto antinfiammatorio e analgesico sintomatico.
 
-La spondilopatia infiammatoria e la spondilite anchilosante appartengono alla stessa famiglia delle spondiloartriti assiali, per cui il razionale farmacologico coincide. Gli studi sulla spondilite anchilosante (PMID 8823693 e 8823692) sono quindi pertinenti, ma confermano un'indicazione già nota più che un riposizionamento.
+La sindrome brachiolmia-amelogenesi imperfetta è un raro disturbo genetico scheletrico e dentale, legato a mutazioni di LTBP3. Non è stato stabilito alcun legame meccanicistico: l'inibizione della COX non agisce sul difetto di fondo. Il punteggio elevato non trova riscontro in dati clinici o di letteratura e va interpretato con cautela come esito puramente computazionale.
 
-Le altre predizioni ad alto punteggio (displasie scheletriche genetiche come brachiolmia, displasia acromesomelica tipo Hunter-Thompson, pseudoacondroplasia) non hanno alcun meccanismo plausibile e sembrano artefatti del grafo. Artrite reumatoide correlata (vasculite reumatoide, artrite reumatoide giovanile poliarticolare) è biologicamente vicina, ma senza dati e con terapie standard diverse.
+Anche le altre previsioni elencate (displasia acromesomelica di tipo Hunter-Thompson, miosclerosi, brachiolmia, pseudoacondroplasia, ipermobilità del coccige, malattia di Kümmell) sono prive di studi e di un razionale plausibile; al più un FANS potrebbe offrire sollievo sintomatico del dolore.
 
 ## Evidenze da studi clinici
 
-Al momento non risultano studi clinici correlati registrati.
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [8823693](https://pubmed.ncbi.nlm.nih.gov/8823693/) | 1996 | Studio clinico controllato | J Rheumatol | Efficacia e tollerabilità di aceclofenac vs indometacina nella spondilite anchilosante attiva (studio multicentrico) |
-| [8823692](https://pubmed.ncbi.nlm.nih.gov/8823692/) | 1996 | Studio comparativo in doppio cieco | J Rheumatol | Aceclofenac sicuro ed efficace quanto tenoxicam in 3 mesi nella spondilite anchilosante |
-| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Revisione | J Pain Res | Effetti analgesici e antinfiammatori di aceclofenac nei disturbi muscoloscheletrici |
-| [15163279](https://pubmed.ncbi.nlm.nih.gov/15163279/) | 2004 | Revisione | Expert Opin Pharmacother | Efficacia paragonabile a diclofenac, naprossene, piroxicam (osteoartrosi) e a tenoxicam, naprossene, indometacina (spondilite anchilosante) |
-| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Revisione | Drugs | Sollievo sintomatico in varie condizioni dolorose e reumatiche |
-| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Revisione | Rev Med Liege | Ruolo nelle patologie osteoarticolari croniche e effetti sul rimodellamento della cartilagine |
-| [8799688](https://pubmed.ncbi.nlm.nih.gov/8799688/) | 1996 | Revisione | Drugs | Proprietà farmacodinamiche simili al diclofenac, con minore potenziale di danno gastrointestinale negli studi preclinici |
-| [10081315](https://pubmed.ncbi.nlm.nih.gov/10081315/) | 1999 | Scheda del farmaco | Rev Med Liege | Indicato per artropatie infiammatorie e degenerative; dose abituale 100 mg due volte al giorno |
-| [16922973](https://pubmed.ncbi.nlm.nih.gov/16922973/) | 2006 | Caso clinico | J Eur Acad Dermatol Venereol | Psoriasi pustolosa generalizzata scatenata da aceclofenac (segnale di sicurezza) |
-| [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Raccomandazioni | Ann Rheum Dis | Raccomandazioni ASAS per la raccolta dell'assunzione di FANS negli studi sulla spondiloartrite assiale |
-
-Molti dei 17 articli reperiti sono revisioni generali o studi di formulazione; il disegno e la numerosità degli studi clinici non sono stati verificati.
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 031842014 | KAFENAC 40 cpr rivestite 100 mg (Almirall) | Compresse rivestite | Cancellata |
-| 032773020 | AIRTAL 40 cpr rivestite 100 mg (Almirall) | Compresse rivestite | Cancellata |
-| 042403042 | ACECLOFENAC 40 cpr rivestite 100 mg (Accord Healthcare) | Compresse rivestite | Cancellata |
-| 031842026 | KAFENAC orale sosp polv 30 bust 100 mg (Almirall) | Polvere per sospensione orale | Cancellata |
-| 031220015 | GLADIO 40 cpr rivestite 100 mg (Abiogen Pharma) | Compresse rivestite | Cancellata |
+| 031842014 | KAFENAC*40 cpr rivestite 100 mg | Compresse rivestite | — |
+| 032773020 | AIRTAL*40 cpr rivestite 100 mg | Compresse rivestite | — |
+| 042403042 | ACECLOFENAC*40 cpr rivestite 100 mg | Compresse rivestite | — |
+| 031842026 | KAFENAC*orale sosp polv 30 bust 100 mg | Polvere per sospensione orale | — |
+| 031220015 | GLADIO*40 cpr rivestite 100 mg | Compresse rivestite | — |
 
-Sono presenti 8 autorizzazioni in totale, tutte cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è disponibile; la colonna indica lo stato dell'autorizzazione.
+Sono mostrate 5 delle 8 autorizzazioni registrate.
 
 ## Considerazioni sulla sicurezza
 
-I dati di sicurezza specifici non sono disponibili. Per le informazioni di sicurezza si rimanda al foglietto illustrativo. Come segnalazione dalla letteratura, è stato descritto un caso di psoriasi pustolosa generalizzata scatenata da aceclofenac (PMID 16922973).
+Per le informazioni di sicurezza si rimanda al foglietto illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Hold**
+**Decisione: Hold (sospendere)**
 
 **Motivazione:**
-La predizione più pertinente (spondilopatia infiammatoria) coincide con un'indicazione già nota (spondilite anchilosante) e non è un vero riposizionamento. Le altre predizioni ad alto punteggio sono prive di evidenza o di meccanismo plausibile. In Italia tutte le autorizzazioni sono cancellate, e mancano i dati di sicurezza del foglietto illustrativo.
+La previsione si basa solo sul punteggio del modello, senza studi clinici, senza letteratura e senza un meccanismo plausibile: aceclofenac non agisce sul difetto genetico alla base della malattia.
 
-**Per procedere è necessario:**
-- Reperire avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza)
-- Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank)
-- Verificare disegno e numerosità degli studi sulla spondilite anchilosante
-- Chiarire il motivo della cancellazione delle autorizzazioni in Italia e la disponibilità commerciale attuale
-- Valutare se esista un'indicazione realmente nuova, dato che le predizioni sulle displasie scheletriche non hanno supporto
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e prove di un legame biologico con la via LTBP3
+- Studi preclinici che valutino un effetto sulla malattia
+- Revisione del foglietto illustrativo AIFA per avvertenze e controindicazioni
+- Valutazione della compatibilità della via di somministrazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

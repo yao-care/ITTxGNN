@@ -47,10 +47,10 @@ Il modello TxGNN ne predice una possibile efficacia nella **lebbra**, ma il supp
 |------|------|
 | Indicazione originale | Infezioni delle vie respiratorie, urinarie e dei tessuti molli (dalla letteratura farmacologica; il testo dell'indicazione AIFA non è disponibile) |
 | Nuova indicazione predetta | Lebbra |
-| Punteggio di predizione TxGNN | 99,70% |
+| Punteggio di predizione TxGNN | 0,9970 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -81,10 +81,10 @@ Attualmente non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 026919011 | ASSORAL 12 cpr rivestite 150 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 026919047 | ASSORAL 6 cpr rivestite 300 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 026727040 | RULID 6 cpr rivestite 300 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 026727014 | RULID 12 cpr rivestite 150 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 026919011 | ASSORAL 12 cpr rivestite 150 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 026919047 | ASSORAL 6 cpr rivestite 300 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 026727040 | RULID 6 cpr rivestite 300 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 026727014 | RULID 12 cpr rivestite 150 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

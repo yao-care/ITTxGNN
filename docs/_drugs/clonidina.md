@@ -8,6 +8,7 @@ nav_order: 119
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Clonidina
@@ -49,8 +50,8 @@ Clonidina è un agonista alfa-2 adrenergico consolidato utilizzato clinicamente 
 | Indicazione Nuova Predetta | Nessuna predizione generata |
 | Punteggio di Predizione TxGNN | N/A |
 | Livello di Evidenza | N/A |
-| Stato del Mercato Italiano | ✗ Non Commercializzato |
-| Numero di Autorizzazioni | 0 |
+| Stato del Mercato Italiano | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di Autorizzazioni | 2 (valide: 2) |
 | Decisione Consigliata | **In Sospeso** |
 
 ---

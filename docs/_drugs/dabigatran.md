@@ -8,6 +8,7 @@ nav_order: 132
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dabigatran
@@ -49,7 +50,7 @@ DABIGATRAN (DrugBank ID: DB14726) è un farmaco candidato identificato dalla sca
 | Indicazione nuova predetta | Nessuna previsione disponibile (array `predicted_indications` vuoto) |
 | Punteggio di previsione TxGNN | N/A |
 | Livello di evidenza | N/A — nessun trial clinico o dati della letteratura |
-| Stato di mercato Italia | Not marketed (risultato della query: Not marketed, numero di autorizzazioni 0) |
+| Stato di mercato Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 0 |
 | Decisione consigliata | **Hold** |
 

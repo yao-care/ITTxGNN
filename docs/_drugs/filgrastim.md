@@ -47,10 +47,10 @@ Il modello TxGNN ne predice un possibile effetto nel **disturbo primario del ril
 |------|------|
 | Indicazione originale | Neutropenia costituzionale / neutropenia congenita grave / emopoiesi ciclica / neutropenia cronica familiare (testo autorizzativo AIFA non disponibile) |
 | Nuova indicazione predetta | Disturbo primario del rilascio piastrinico (primary release disorder of platelets) |
-| Punteggio di predizione TxGNN | 99,998% |
+| Punteggio di predizione TxGNN | 1,0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?

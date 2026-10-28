@@ -6,9 +6,9 @@ nav_order: 418
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Tadalafil: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Disfunzione erettile, ipertensione polmonare…"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+description: "Tadalafil: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
 ---
 
 # Tadalafil
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Tadalafil: Dalla disfunzione erettile all'ipertricosi di Ambras (ipertricosi universale congenita)
+## Tadalafil: Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Sintesi
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per l'**ipertricosi universal
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disfunzione erettile, ipertensione polmonare, iperplasia prostatica benigna (dal grafo di conoscenza; il testo delle indicazioni autorizzate in Italia non è disponibile) |
-| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras |
-| Punteggio di previsione TxGNN | 99,98% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
+| Punteggio di previsione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 19 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 19 su 19) |
+| Numero di autorizzazioni | 19 (valide: 19) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -61,7 +61,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**ipertricosi universal
 
 I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. Sulla base delle conoscenze generali, tadalafil inibisce la PDE5, aumenta i livelli di cGMP e provoca vasodilatazione; la sua efficacia è accertata nella disfunzione erettile e nell'ipertensione arteriosa polmonare.
 
-Non è noto alcun legame meccanicistico tra l'inibizione della PDE5 e la base genetica della sindrome di Ambras, una rara forma congenita di ipertricosi. L'ipertricosi è inoltre un effetto avverso noto di alcuni vasodilatatori (ad esempio il minoxidil), non un bersaglio terapeutico: un meccanismo diverso che non sostiene l'uso di tadalafil come trattamento. Il punteggio molto alto riflette probabilmente la prossimità nella rete del grafo di conoscenza con nodi legati alla crescita dei capelli, non un effetto terapeutico atteso.
+Non è noto alcun legame meccanicistico tra l'inibizione della PDE5 e la base genetica della sindrome di Ambras, una rara forma congenita di ipertricosi. L'ipertricosi è inoltre un effetto avverso noto di alcuni vasodilatatori (ad esempio il minoxidil), non un bersaglio terapeutico: un meccanismo diverso che non sostiene l'uso di tadalafil come trattamento. Il punteggio molto alto proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 Altre previsioni nello stesso elenco (ipertricosi generica, anomalie genetiche del fusto del pelo, tricomegalia familiare isolata, sindromi malformative odontoiatriche o con malformazione di Dandy-Walker) hanno anch'esse evidenza L5 e nessuna plausibilità meccanicistica evidente. L'unica con un razionale biologico debole è la cardiopatia cifoscoliotica (cuore polmonare secondario), per la parentela con l'indicazione approvata nell'ipertensione polmonare; tuttavia i PDE5 inibitori nell'ipertensione polmonare da ipossia hanno dato risultati contrastanti e potrebbero peggiorare gli scambi gassosi.
 
@@ -87,11 +87,11 @@ Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni auto
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035672056 | CIALIS 12 cpr rivestite 20 mg | Eli Lilly Nederland BV | Cancellata |
-| 039598026 | ADCIRCA 56 cpr rivestite 20 mg | Eli Lilly Nederland BV | Cancellata |
-| 045248046 | TALMANCO 56x1 cpr rivestite 20 mg | Viatris Limited | Cancellata |
-| 050740087 | DINAMIS 12 cpr rivestite 20 mg | S.F. Group Srl | Cancellata |
-| 050738083 | TADUR 12 cpr rivestite 20 mg | S&R Farmaceutici SpA | Cancellata |
+| 035672056 | CIALIS 12 cpr rivestite 20 mg | Eli Lilly Nederland BV | Valida |
+| 039598026 | ADCIRCA 56 cpr rivestite 20 mg | Eli Lilly Nederland BV | Valida |
+| 045248046 | TALMANCO 56x1 cpr rivestite 20 mg | Viatris Limited | Valida |
+| 050740087 | DINAMIS 12 cpr rivestite 20 mg | S.F. Group Srl | Valida |
+| 050738083 | TADUR 12 cpr rivestite 20 mg | S&R Farmaceutici SpA | Valida |
 
 Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate.
 

@@ -4,17 +4,17 @@ title: Chlorpromazine
 parent: Solo previsione del modello (L5)
 nav_order: 103
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Chlorpromazine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare maniacale…"
+indication_count: 9
 monitor_inn: "Chlorpromazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+last_modified_at: 2026-10-27
+description: "Chlorpromazine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5). Indicazione origin…"
 ---
 
 # Chlorpromazine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,93 +33,75 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Clorpromazina: dalla schizofrenia alla distrofia retinica (con o senza anomalie extraoculari)
+## Clorpromazina: antagonista dopaminergico (fenotiazina antipsicotica) → distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La clorpromazina è un antipsicotico fenotiazinico usato storicamente per schizofrenia, disturbo bipolare in fase maniacale e altri disturbi psicotici. Il modello TxGNN la indica come possibile candidata per la **distrofia retinica con o senza anomalie extraoculari**, con un punteggio molto alto (99,95%). Questa previsione però non è sostenuta da **nessuno studio clinico** e da **una sola pubblicazione del 1967**, che descrive una reazione avversa (fototossicità) e non un beneficio terapeutico.
+La clorpromazina è un antipsicotico fenotiazinico che agisce su numerosi recettori (dopaminergici, serotoninergici, adrenergici e istaminergici). Il modello TxGNN prevede un possibile effetto per **distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)**, ma i dati compilati per questo report non contengono **alcuno studio clinico** e riportano **una sola pubblicazione**, del 1967, che descrive reazioni fototossiche indotte dal farmaco: un segnale di sicurezza, non un beneficio terapeutico.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare maniacale, disturbi psicotici e schizoaffettivi, porfiria acuta intermittente, disturbo oppositivo-provocatorio |
-| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari |
-| Punteggio di previsione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
+| Punteggio di predizione TxGNN | 0,9995 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole
 
-## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
+I dati sul meccanismo d'azione non sono disponibili in forma dettagliata. Dai dati di farmacologia compilati, la clorpromazina si lega ai recettori dopaminergici D1–D5, ai recettori serotoninergici 5-HT1A, 5-HT2A, 5-HT2C, 5-HT6 e 5-HT7, ai recettori α2-adrenergici (A, B, C) e al recettore H1 dell'istamina, oltre che al canale TRPC5.
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Si sa però che la clorpromazina agisce su numerosi recettori: dopaminergici (D1–D5), serotoninergici (5-HT1A, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7), alfa-2 adrenergici e istaminergici H1. L'effetto antipsicotico deriva principalmente dal blocco dei recettori dopaminergici D2.
-
-Tra schizofrenia e distrofia retinica non esiste un legame fisiopatologico diretto. Il collegamento ipotizzabile passa per la segnalazione dopaminergica nella retina, ma è puramente speculativo e non supportato dai dati disponibili. Le distrofie retiniche sono inoltre per lo più di origine genetica e degenerativa, e non c'è un razionale chiaro per cui un antagonista dopaminergico possa modificarne il decorso.
-
-L'unico elemento di letteratura associato alla previsione descrive reazioni fototossiche indotte da dosi elevate di clorpromazina. Questo è un **segnale di sicurezza** e non un'evidenza a favore dell'uso nelle malattie retiniche: in questa direzione, se mai, depone contro la proposta.
-
----
+Un legame con la retina è solo ipotizzabile in via generale, dato che la retina utilizza la segnalazione dopaminergica. Tuttavia i dati disponibili non sostengono un'ipotesi terapeutica per le distrofie retiniche, che sono in gran parte condizioni a eziologia genetica. L'unico elemento disponibile, una segnalazione del 1967 su reazioni fototossiche con dosi elevate, descrive un effetto avverso su tessuti fotosensibili e va considerato un segnale di cautela. Il punteggio molto alto del modello non trova quindi riscontro clinico o meccanicistico nei dati forniti.
 
 ## Evidenze da studi clinici
 
-Al momento non risultano studi clinici registrati correlati.
-
----
+Al momento non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [5336672](https://pubmed.ncbi.nlm.nih.gov/5336672/) | 1967 | Serie di casi / osservazionale (tossicità) | JAMA | Reazioni fototossiche indotte da dosi elevate di clorpromazina e tioridazina; descrive un effetto avverso, non un beneficio terapeutico |
+| [5336672](https://pubmed.ncbi.nlm.nih.gov/5336672/) | 1967 | Case report / osservazionale (tossicità) | JAMA | Reazioni fototossiche indotte da dosi elevate di clorpromazina e tioridazina; non indica un beneficio terapeutico |
 
----
+Questo studio non indaga un trattamento della malattia prevista, ma descrive un evento avverso.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 007899026 | LARGACTIL 25 cpr rivestite 25 mg | TEOFARMA Srl | Cancellata |
-| 007899038 | LARGACTIL 20 cpr rivestite 100 mg | TEOFARMA Srl | Cancellata |
-| 007899014 | LARGACTIL 5 fiale IM 50 mg 2 ml | TEOFARMA Srl | Cancellata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 007899026 | LARGACTIL*25 cpr rivestite 25 mg | Compresse rivestite | Non registrata |
+| 007899038 | LARGACTIL*20 cpr rivestite 100 mg | Compresse rivestite | Non registrata |
+| 007899014 | LARGACTIL*5 fiale IM 50 mg 2 ml | Fiale per uso intramuscolare | Non registrata |
 
-Nessuna autorizzazione risulta attualmente valida: la disponibilità pratica del farmaco in Italia è quindi limitata.
+## Citotossicità
 
----
+Non applicabile: la clorpromazina non è un farmaco antineoplastico.
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-- **Segnale di fototossicità**: la letteratura associata alla previsione documenta reazioni fototossiche con dosi elevate, rilevanti per un'eventuale applicazione su tessuti fotosensibili come la retina.
-- **Condizioni a rischio o controindicazioni**: dai dati compilati emergono come condizioni in cui l'uso è sconsigliato o richiede particolare cautela:
-  - **Cardiovascolari**: sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, infarto miocardico, trombosi coronarica, ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, atrofia multisistemica.
-  - **Ematologiche**: neutropenia, agranulocitosi, leucopenia, trombocitopenia, anemia (inclusa la macrocitica), emoglobinopatie.
-  - **Neurologiche**: epilessia, malattie dei gangli della base, distonia focale della mano, blefarospasmo.
-  - **Epatiche e biliari**: epatopatia, malattie della colecisti.
-  - **Metaboliche e altre**: iperglicemia, obesità (anche monogenica), iperplasia prostatica benigna, carcinoma mammario femminile, abuso o dipendenza da sostanze.
+Avvertenze e controindicazioni da fonte ufficiale non sono disponibili nei dati compilati; si rimanda al foglio illustrativo.
 
-Per le avvertenze ufficiali e le interazioni farmacologiche è necessario consultare il foglio illustrativo.
+Per quanto riguarda le interazioni, i dati compilati elencano 16 voci, che però descrivono soprattutto i bersagli farmacologici (recettori serotoninergici, dopaminergici, adrenergici, istaminergico H1, TRPC5, canale del cloro Maxi Cl⁻) e non interazioni con altri farmaci di rilevanza clinica.
 
----
+Da segnalare, inoltre, la reazione fototossica descritta in letteratura (1967) ad alte dosi, rilevante in particolare per un'eventuale applicazione in patologie retiniche.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la distrofia retinica si basa solo sul punteggio del modello, senza studi clinici né dati meccanicistici a supporto. L'unica pubblicazione disponibile descrive un effetto avverso fototossico, che depone contro l'uso. A ciò si aggiunge la mancanza di autorizzazioni valide in Italia.
+La predizione si basa unicamente sul modello (livello L5): non esistono studi clinici né pubblicazioni che studino direttamente la malattia prevista, e l'unica pubblicazione disponibile segnala un rischio di fototossicità, che va contro l'uso in patologie retiniche.
 
-**Per procedere sarebbe necessario:**
-- Dati sul meccanismo d'azione e un razionale biologico plausibile per il collegamento con le distrofie retiniche.
-- Studi preclinici (modelli retinici) che valutino sia l'efficacia sia la fototossicità retinica.
-- Le avvertenze e controindicazioni ufficiali dal foglio illustrativo AIFA, attualmente non disponibili.
-- Una valutazione della fattibilità regolatoria, dato che tutte le autorizzazioni italiane risultano cancellate.
-
-**Nota su altre previsioni:** tra le altre indicazioni previste, l'unica con letteratura di qualche rilievo è la **schizofrenia a esordio precoce** (livello L3, solo studi osservazionali e di associazione genetica). È un'estensione di un'indicazione già nota a una sottopopolazione per età, più che un vero riposizionamento. Richiederebbe in ogni caso un'attenta valutazione della sicurezza in età pediatrica e adolescenziale (sintomi extrapiramidali, sedazione).
+**Per procedere sono necessari:**
+- Dati preclinici o meccanicistici che colleghino la clorpromazina alla fisiopatologia della distrofia retinica
+- Dati di sicurezza oculare e di fototossicità a dosi terapeutiche
+- Dati dettagliati sul meccanismo d'azione e le avvertenze/controindicazioni dal foglio illustrativo AIFA
+- Valutazione della compatibilità della via di somministrazione per l'organo bersaglio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

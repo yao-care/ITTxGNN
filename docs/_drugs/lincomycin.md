@@ -6,9 +6,9 @@ nav_order: 271
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (livello di evidenza L5). Indicazione originale: Infezioni da pneumococco…"
 monitor_inn: "lincomycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
+description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lincomycin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Lincomicina: dalle infezioni batteriche all'iperamilasemia
+## Lincomycin: Iperamilasemia (hyperamylasemia)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN predice una possibile efficacia per l'**iperamilasemia**, ma qu
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni da pneumococco, stafilococco e streptococco (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Iperamilasemia |
-| Punteggio di previsione TxGNN | 99,14% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Iperamilasemia (hyperamylasemia) |
+| Punteggio di previsione TxGNN | 0.9914 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -63,9 +63,9 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dat
 
 L'iperamilasemia, invece, è un reperto di laboratorio associato a danno pancreatico o delle ghiandole salivari e ad altre cause. Nessun meccanismo antibatterico spiega plausibilmente un suo trattamento. Non emerge quindi alcun legame meccanicistico tra l'indicazione originale e quella prevista.
 
-Il punteggio elevato (99,14%) riflette probabilmente schemi di connettività nel grafo di conoscenza, non una relazione biologica validata. Va inoltre considerato che alcuni antibiotici sono stati associati a pancreatite come evento avverso, per cui l'associazione potrebbe addirittura avere direzione opposta.
+Va inoltre considerato che alcuni antibiotici sono stati associati a pancreatite come evento avverso, per cui l'associazione potrebbe addirittura avere direzione opposta.
 
-Altre due previsioni di pari livello (stesso punteggio circa 99%) sono prive di supporto: la sindrome da iperviscosità policlonale (99,14%) e l'analbuminemia congenita (99,06%). Anche per queste non esiste un legame meccanicistico plausibile né alcuno studio.
+Anche per queste non esiste un legame meccanicistico plausibile né alcuno studio.
 
 ---
 
@@ -85,8 +85,8 @@ Attualmente nessuna pubblicazione correlata risulta disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Titolare |
 |---------|------|------|-----------|------|
-| 020601098 | LINCOCIN*1 flaconcino iniett 600 mg 2 ml | Non indicata | Cancellata | Pfizer Italia Srl |
-| 020601023 | LINCOCIN*12 cps 500 mg | Non indicata | Cancellata | Pfizer Italia Srl |
+| 020601098 | LINCOCIN*1 flaconcino iniett 600 mg 2 ml | Non indicata | Valida | Pfizer Italia Srl |
+| 020601023 | LINCOCIN*12 cps 500 mg | Non indicata | Valida | Pfizer Italia Srl |
 
 ---
 

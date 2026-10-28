@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Selegiline
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 401
-evidence_level: L3
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Selegiline: nuova indicazione prevista, Schizofrenia (livello di evidenza L3). Indicazione originale: Malattia di Parkinson (e depressione, disturbi d'ansia…"
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+description: "Selegiline: nuova indicazione prevista, Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Selegiline
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **4**
 
 </div>
 
-## Selegilina: dalla malattia di Parkinson alla schizofrenia
+## Selegiline: Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,21 +49,21 @@ Nota: la prima previsione in graduatoria (polimicrogiria perisilviana con ipopla
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Parkinson (e depressione, disturbi d'ansia, secondo il grafo di conoscenza); il testo delle indicazioni approvate in Italia non è disponibile |
-| Nuova indicazione prevista | Schizofrenia |
-| Punteggio di predizione TxGNN | 99,14% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| Punteggio di predizione TxGNN | 0.9915 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Proceed with Guardrails (come ipotesi di ricerca) |
 
 Altre previsioni del modello, tutte con evidenza debole o assente:
 
 | Indicazione prevista | Punteggio TxGNN | Livello di evidenza | Decisione |
 |------|------|------|------|
-| Polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi | 99,15% | L5 | Hold |
-| Disturbo congenito della glicosilazione con fucosilazione difettosa | 99,02% | L5 | Hold |
-| Distrofia retinica con o senza anomalie extraoculari | 99,01% | L5 | Hold |
+| Polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi | 0,9915 | L5 | Hold |
+| Disturbo congenito della glicosilazione con fucosilazione difettosa | 0,9902 | L5 | Hold |
+| Distrofia retinica con o senza anomalie extraoculari | 0,9901 | L5 | Hold |
 
 ---
 
@@ -108,11 +108,10 @@ Gli altri documenti recuperati riguardano temi adiacenti (disfunzione sessuale d
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025462021 | JUMEX*25 cpr 10 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 032010011 | SELECOM*50 cpr 5 mg (Fulton Medicinali) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 025462019 | JUMEX*50 cpr 5 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione cancellata) |
+| 025462021 | JUMEX*25 cpr 10 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione valida) |
+| 032010011 | SELECOM*50 cpr 5 mg (Fulton Medicinali) | Compresse | Non disponibile (autorizzazione valida) |
+| 025462019 | JUMEX*50 cpr 5 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione valida) |
 
-Nessuna delle tre autorizzazioni è attualmente valida.
 
 ---
 
@@ -131,7 +130,6 @@ Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni non è 
 
 **Motivazione:**
 - Per la schizofrenia esistono un piccolo studio randomizzato completato (early Phase 1, n=70) e diversi RCT più datati sui sintomi negativi, oltre a una meta-analisi recente, ma i risultati non sono forniti nei dati compilati e non c'è conferma da studi di fase 2/3. L'evidenza è di livello L3: un segnale che genera ipotesi, non un beneficio dimostrato.
-- Il punteggio TxGNN elevato (99%) è una predizione basata sul grafo e, da solo, non è sufficiente a giustificare un avanzamento.
 
 **Per procedere sono necessari:**
 - Recupero e analisi dei risultati di NCT00456976 e degli RCT già pubblicati (PMID 15677608, 17972359, 10587287), con una sintesi quantitativa dell'effetto sui sintomi negativi

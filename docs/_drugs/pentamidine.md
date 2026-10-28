@@ -6,9 +6,9 @@ nav_order: 344
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Pentamidine: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Pneumocistosi, tripanosomiasi africana umana…"
 monitor_inn: "Pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
+description: "Pentamidine: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
 # Pentamidine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Pentamidina: dalla polmonite da Pneumocystis alla cheratocongiuntivite epiteliale puntata
+## Pentamidine: Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Sintesi
@@ -44,19 +44,19 @@ La pentamidina è un farmaco antimicrobico utilizzato originariamente per la pne
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Pneumocistosi, tripanosomiasi africana umana, tripanosomiasi (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,73% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9973 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
 I dati compilati per questo report non includono il meccanismo d'azione della pentamidina. Sulla base delle informazioni note, la pentamidina è un agente antimicrobico (antiprotozoario e antifungino) la cui efficacia è documentata nelle infezioni sopra citate. Un legame con una cheratocongiuntivite di origine infettiva potrebbe essere ipotizzato in teoria, ma si tratta di una speculazione non supportata da alcuna evidenza.
 
-Il punteggio elevato (0,997) è una previsione basata sul grafo di conoscenza. Le altre previsioni ad alto punteggio (cheratopatia neurotrofica, cheratite da esposizione, "malattia animale non umana", analbuminemia congenita) non hanno nemmeno un plausibile collegamento meccanicistico: alcune sono probabilmente artefatti del grafo, e "malattia animale non umana" è una categoria ontologica non clinica.
+Il punteggio elevato (0,9973) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica. Le altre previsioni ad alto punteggio (cheratopatia neurotrofica, cheratite da esposizione, "malattia animale non umana", analbuminemia congenita) non hanno nemmeno un plausibile collegamento meccanicistico: alcune sono probabilmente artefatti del modello, e "malattia animale non umana" è una categoria ontologica non clinica.
 
 ## Evidenze da studi clinici
 
@@ -70,13 +70,13 @@ Attualmente non è disponibile letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 027625019 | PENTACARINAT*1 fiala IM EV aerosol 300 mg (SANOFI Srl), revocata | Fiala (IM/EV/aerosol) | Non disponibile |
+| 027625019 | PENTACARINAT*1 fiala IM EV aerosol 300 mg (SANOFI Srl), valida | Fiala (IM/EV/aerosol) | Non disponibile |
 
 ## Considerazioni sulla sicurezza
 
 I dati di sicurezza tratti dal foglio illustrativo non sono disponibili. Si rimanda al foglio illustrativo per le avvertenze e le controindicazioni.
 
-- **Controindicazioni/condizioni a rischio (dal grafo di conoscenza, non da testo di etichetta)**: ipertensione e ipotensione, torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, malattie renali, malattie epatiche, malattie della colecisti, pancreatite, trombocitopenia, leucopenia, anemia (inclusa la macrocitica), iperglicemia, ipoglicemia, diabete mellito, chetoacidosi diabetica, asma (anche intrinseca e allergica), ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo, piourete.
+- **Controindicazioni/condizioni a rischio (non da testo di etichetta)**: ipertensione e ipotensione, torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, malattie renali, malattie epatiche, malattie della colecisti, pancreatite, trombocitopenia, leucopenia, anemia (inclusa la macrocitica), iperglicemia, ipoglicemia, diabete mellito, chetoacidosi diabetica, asma (anche intrinseca e allergica), ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo, piourete.
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra le principali (livello moderato) figurano:
   - antidiabetici (acarbose, metformina, pioglitazone, alogliptin, albiglutide, canagliflozin, dapagliflozin, clorpropamide);
   - amfotericina B (anche in complesso lipidico);

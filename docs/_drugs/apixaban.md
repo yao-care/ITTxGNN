@@ -46,10 +46,10 @@ Apixaban è un anticoagulante orale diretto, inibitore del fattore Xa, commercia
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati per questo report |
 | Nuova indicazione prevista | Emicrania (migraine disorder) |
-| Punteggio di predizione TxGNN | 99,02% |
+| Punteggio di predizione TxGNN | 0,9902 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione può essere ragionevole?
@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Apixab
 
 Un collegamento plausibile ma non dimostrato riguarda l'emicrania con aura, associata a shunt destro-sinistro (ad esempio forame ovale pervio) o a stati protrombotici (ad esempio anticorpi antifosfolipidi). In questi contesti, una terapia antitrombotica potrebbe ridurre i fattori scatenanti microembolici o trombotici.
 
-Il punteggio TxGNN è molto alto (0,99), ma deriva da una predizione basata su rete di conoscenza e non da un meccanismo stabilito. I case report disponibili sono contrastanti e suggeriscono che apixaban potrebbe non essere efficace, e in alcuni pazienti persino associato a peggioramento.
+Il punteggio TxGNN è molto alto (0,9902), ma deriva da una predizione basata su rete di conoscenza e non da un meccanismo stabilito. I case report disponibili sono contrastanti e suggeriscono che apixaban potrebbe non essere efficace, e in alcuni pazienti persino associato a peggioramento.
 
 ## Evidenze dagli studi clinici
 
@@ -78,11 +78,11 @@ Il punteggio TxGNN è molto alto (0,99), ma deriva da una predizione basata su r
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 041225145 | ELIQUIS 28 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 041225020 | ELIQUIS 20 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 041225095 | ELIQUIS 60 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 041225018 | ELIQUIS 10 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 041225032 | ELIQUIS 60 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 041225145 | ELIQUIS 28 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione valida) |
+| 041225020 | ELIQUIS 20 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
+| 041225095 | ELIQUIS 60 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione valida) |
+| 041225018 | ELIQUIS 10 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
+| 041225032 | ELIQUIS 60 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
 
 Titolare: Bristol-Myers Squibb/Pfizer EEIG. Tutte e 5 le autorizzazioni risultano cancellate.
 

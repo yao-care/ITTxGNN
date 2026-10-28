@@ -6,9 +6,9 @@ nav_order: 467
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Voxilaprevir: nuova indicazione prevista, Infezione da virus dell'epatite B (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C (dal grafo di conoscenza"
 monitor_inn: "voxilaprevir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Voxilaprevir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Voxilaprevir
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Voxilaprevir: Dall'epatite C cronica all'infezione da virus dell'epatite B
+## Voxilaprevir: Infezione da virus dell'epatite B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN lo predice come potenzialmente efficace per l'**infezione da vi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite C (dal grafo di conoscenza; il testo autorizzato AIFA non è disponibile) |
-| Nuova indicazione prevista | Infezione da virus dell'epatite B |
-| Punteggio di predizione TxGNN | 99,84% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da virus dell'epatite B (hepatitis B virus infection) |
+| Punteggio di predizione TxGNN | 0.9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -97,7 +97,7 @@ Le pubblicazioni raccolte per l'epatite B riguardano esclusivamente l'HCV (ritra
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 045494010 | VOSEVI*28 cpr rivestite 400 mg + 100 mg + 100 mg flacone (Gilead Sciences Ireland UC) | Non specificata | Non specificata (autorizzazione cancellata) |
+| 045494010 | VOSEVI*28 cpr rivestite 400 mg + 100 mg + 100 mg flacone (Gilead Sciences Ireland UC) | Non specificata | Non specificata (autorizzazione valida) |
 
 ---
 

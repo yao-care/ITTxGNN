@@ -4,17 +4,17 @@ title: Riluzole
 parent: Solo previsione del modello (L5)
 nav_order: 381
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Riluzole: nuova indicazione prevista, Polimicrogiria parieto-occipitale parasagittale bilaterale (livello di evidenza L5). Indicazione originale: Sclerosi laterale amiotrofica (SLA)"
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
+description: "Riluzole: nuova indicazione prevista, Bilateral parasagittal parieto-occipital polymicrogyria (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Riluzolo: dalla sclerosi laterale amiotrofica alla polimicrogiria parieto-occipitale parasagittale bilaterale
+## Riluzole: Bilateral parasagittal parieto-occipital polymicrogyria
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede una possibile efficacia nella **polimicrogiria parieto-
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sclerosi laterale amiotrofica (SLA) |
-| Nuova indicazione prevista | Polimicrogiria parieto-occipitale parasagittale bilaterale |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Bilateral parasagittal parieto-occipital polymicrogyria |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -65,11 +65,11 @@ Tra le prime 10 predizioni, alcune riguardano patologie vicine alla SLA e biolog
 
 | Posizione | Malattia prevista | Punteggio TxGNN | Livello di evidenza | Nota |
 |------|------|------|------|------|
-| 3 | Sindrome del motoneurone inferiore ad esordio nell'adulto tardivo | 99,99% | L5 | Plausibile per analogia con la SLA; nessuno studio specifico |
-| 6 | Amiotrofia monomelica | 99,99% | L5 | Di solito autolimitante; beneficio incerto |
-| 7 | Sindrome di Mills | 99,98% | L5 | Variante rara dello spettro dei motoneuroni; solo predizione |
-| 8 | SLA, suscettibilità | 99,98% | L4 | Sovrapposta all'indicazione originale, non un vero riposizionamento |
-| 10 | SLA di tipo 22 | 99,98% | L5 | Sottotipo genetico; nessuno studio specifico |
+| 3 | Sindrome del motoneurone inferiore ad esordio nell'adulto tardivo | 0,9999 | L5 | Plausibile per analogia con la SLA; nessuno studio specifico |
+| 6 | Amiotrofia monomelica | 0,9999 | L5 | Di solito autolimitante; beneficio incerto |
+| 7 | Sindrome di Mills | 0,9998 | L5 | Variante rara dello spettro dei motoneuroni; solo predizione |
+| 8 | SLA, suscettibilità | 0,9998 | L5 | Sovrapposta all'indicazione originale, non un vero riposizionamento |
+| 10 | SLA di tipo 22 | 0,9998 | L5 | Sottotipo genetico; nessuno studio specifico |
 
 Le altre predizioni (displasia spondilometafisaria assiale, sindrome tricomegalia-degenerazione pigmentaria retinica-nanismo, sindrome artrogriposi letale-malattia delle corna anteriori, miopatia mitocondriale autosomica dominante) non hanno un legame meccanicistico evidente con il riluzolo.
 

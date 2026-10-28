@@ -4,17 +4,17 @@ title: Tiaprofenic Acid
 parent: Solo previsione del modello (L5)
 nav_order: 436
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Artrite reumatoide, osteoartrosi…"
 monitor_inn: "tiaprofenic acid"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
+description: "Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tiaprofenic Acid
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Acido tiaprofenico: dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Tiaprofenic Acid: Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN lo indica come potenzialmente efficace per la **sindrome brachi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, osteoartrosi, artropatia (da indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (nessuna valida) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -61,11 +61,11 @@ Il modello TxGNN lo indica come potenzialmente efficace per la **sindrome brachi
 
 I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali (non presenti nei dati), l'acido tiaprofenico appartiene ai FANS della classe degli acidi propionici e agisce come inibitore non selettivo della cicloossigenasi (COX). Per questo la sua efficacia sintomatica nelle patologie articolari infiammatorie è ben compresa.
 
-La sindrome brachidattilia-sindattilia è invece una malformazione scheletrica congenita. L'inibizione della COX non può correggere un difetto genetico o dello sviluppo, quindi **non emerge alcun legame meccanicistico** con la nuova indicazione. L'elevato punteggio TxGNN riflette verosimilmente associazioni di fenotipo muscolo-scheletrico condivise nel grafo di conoscenza, e non un'effettiva plausibilità terapeutica.
+La sindrome brachidattilia-sindattilia è invece una malformazione scheletrica congenita. L'inibizione della COX non può correggere un difetto genetico o dello sviluppo, quindi **non emerge alcun legame meccanicistico** con la nuova indicazione. Il punteggio elevato (0.9999) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non un'evidenza biologica.
 
 ### Altre previsioni del modello
 
-Tra le prime 10 previsioni, tutte senza sperimentazioni o letteratura a supporto, la più plausibile dal punto di vista biologico è la **suscettibilità alla spondiloartropatia** (punteggio 99,99%, livello L4, classificata come "domanda di ricerca"). I FANS sono una terapia sintomatica standard per le spondiloartropatie e la condizione è affine alle indicazioni originali. Si tratta però di un'evidenza indiretta, per classe di farmaci e similarità delle indicazioni.
+Tra le prime 10 previsioni, tutte senza sperimentazioni o letteratura a supporto, la più plausibile dal punto di vista biologico è la **suscettibilità alla spondiloartropatia** (punteggio 0,9999, livello L4, classificata come "domanda di ricerca"). I FANS sono una terapia sintomatica standard per le spondiloartropatie e la condizione è affine alle indicazioni originali. Si tratta però di un'evidenza indiretta, per classe di farmaci e similarità delle indicazioni.
 
 Le altre previsioni (sindromi displasiche scheletriche, miosclerosi, disturbi della coagulazione come l'eccesso di fattore V e il deficit di cofattore eparinico II, pseudoacondroplasia) non hanno un legame meccanicistico supportato dai dati. Per i disturbi trombotici il profilo rischio-beneficio dei FANS risulterebbe addirittura sfavorevole.
 
@@ -87,8 +87,8 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
 |---------|------|------|------|-----------|
-| 025195052 | SURGAMYL*orale grat 30 bust 300 mg (SCHARPER SpA) | Non indicata | Cancellata | Non disponibile |
-| 025195025 | SURGAMYL*30 cpr 300 mg (SCHARPER SpA) | Non indicata | Cancellata | Non disponibile |
+| 025195052 | SURGAMYL*orale grat 30 bust 300 mg (SCHARPER SpA) | Non indicata | Valida | Non disponibile |
+| 025195025 | SURGAMYL*30 cpr 300 mg (SCHARPER SpA) | Non indicata | Valida | Non disponibile |
 
 ---
 

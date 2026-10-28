@@ -48,10 +48,10 @@ Eftrenonacog alfa è una proteina di fusione ricombinante del fattore IX con fra
 |------|------|
 | Indicazione originale | Emofilia (anche forma sintomatica nelle portatrici femminili), secondo gli archi di indicazione della base di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile |
 | Nuova indicazione prevista | Pseudo-malattia di von Willebrand |
-| Punteggio di predizione TxGNN | 99,48% |
+| Punteggio di predizione TxGNN | 0,9948 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 5 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -63,8 +63,8 @@ I dati compilati per questo report non includono una descrizione dettagliata del
 La pseudo-malattia di von Willebrand (di tipo piastrinico) è causata da varianti con guadagno di funzione del gene *GP1BA* piastrinico, che aumentano il legame delle piastrine al fattore di von Willebrand. Ne derivano perdita dei multimeri ad alto peso molecolare del VWF e trombocitopenia. Il fattore IX non fa parte di questo difetto, quindi **non esiste un chiaro razionale meccanicistico**. Il punteggio elevato è verosimilmente un'associazione a livello di rete all'interno della cascata coagulativa. Il trattamento dei sanguinamenti in questa condizione prevede in genere trasfusioni di piastrine o misure dirette sul VWF, non la sostituzione del FIX.
 
 Anche le altre due previsioni di rilievo sono meccanicisticamente deboli:
-- **Disturbo primario del rilascio piastrinico** (punteggio 99,42%): il difetto riguarda la secrezione dei granuli piastrinici (emostasi primaria); la sostituzione del FIX non lo corregge.
-- **Trombastenia di Glanzmann** (punteggio 99,28%): il difetto riguarda l'integrina αIIbβ3 (GPIIb/IIIa) e l'aggregazione piastrinica; la gestione standard utilizza trasfusioni piastriniche, fattore VIIa ricombinante e antifibrinolitici.
+- **Disturbo primario del rilascio piastrinico** (punteggio 0,9942): il difetto riguarda la secrezione dei granuli piastrinici (emostasi primaria); la sostituzione del FIX non lo corregge.
+- **Trombastenia di Glanzmann** (punteggio 0,9928): il difetto riguarda l'integrina αIIbβ3 (GPIIb/IIIa) e l'aggregazione piastrinica; la gestione standard utilizza trasfusioni piastriniche, fattore VIIa ricombinante e antifibrinolitici.
 
 ---
 
@@ -105,7 +105,7 @@ Per le informazioni di sicurezza, si rimanda al foglio illustrativo. Non sono st
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole: il fattore IX non agisce sui difetti piastrinici o del VWF alla base della malattia prevista. Inoltre, tutte le autorizzazioni italiane risultano annullate, il che limita la disponibilità pratica per eventuali studi di riposizionamento.
+La previsione si basa esclusivamente sul modello TxGNN (deep learning, livello L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole: il fattore IX non agisce sui difetti piastrinici o del VWF alla base della malattia prevista. Il farmaco è in commercio in Italia, con 5 autorizzazioni valide su 5.
 
 **Per procedere sarebbe necessario:**
 - Reperire dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)

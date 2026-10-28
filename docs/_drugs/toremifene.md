@@ -50,10 +50,10 @@ Nota: i dati compilati per questo report non riportano un'indicazione approvata 
 |------|------|
 | Indicazione originale | Non disponibile nei dati AIFA (testo dell'indicazione vuoto) |
 | Nuova indicazione predetta | HIV infectious disease (infezione da HIV) |
-| Punteggio di predizione TxGNN | 99,41% |
+| Punteggio di predizione TxGNN | 0,9941 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ Nota: i dati compilati per questo report non riportano un'indicazione approvata 
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa che il toremifene è un SERM, cioè un antagonista del recettore degli estrogeni, ma non è possibile costruire un ragionamento meccanicistico basato sulle annotazioni dei bersagli farmacologici.
 
-Il punteggio TxGNN è molto elevato (0,994), ma deriva solo da una predizione basata su rete di conoscenza. L'unica pubblicazione disponibile (2014) è uno studio preclinico che mostra come gli antagonisti del recettore degli estrogeni, tra cui il toremifene, legano proteine con dominio EF-hand (come la calmodulina) e hanno attività fungicida contro *Cryptococcus neoformans*, con sinergia con fluconazolo e amfotericina B in vitro.
+Il punteggio TxGNN è molto elevato (0,9941), ma deriva solo da una predizione basata su rete di conoscenza. L'unica pubblicazione disponibile (2014) è uno studio preclinico che mostra come gli antagonisti del recettore degli estrogeni, tra cui il toremifene, legano proteine con dominio EF-hand (come la calmodulina) e hanno attività fungicida contro *Cryptococcus neoformans*, con sinergia con fluconazolo e amfotericina B in vitro.
 
 Il legame con l'HIV è solo indiretto: la meningite criptococcica è un'importante infezione opportunistica nei pazienti con HIV/AIDS avanzato. Tuttavia lo studio non dimostra alcuna attività anti-HIV (effetto antivirale, soppressione virale o ricostituzione immunitaria). Il collegamento riguarda una coinfezione, non l'HIV in sé. Un'eventuale razionale di riposizionamento andrebbe definito separatamente, ad esempio come terapia antifungina adiuvante nella criptococcosi associata a HIV, e non come trattamento dell'HIV.
 
@@ -86,7 +86,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029914013 | FARESTON*30 cpr 60 mg (ORION CORPORATION) – cancellata | Non specificata | Non disponibile |
+| 029914013 | FARESTON*30 cpr 60 mg (ORION CORPORATION) – valida | Non specificata | Non disponibile |
 
 ---
 

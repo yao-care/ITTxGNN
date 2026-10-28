@@ -39,7 +39,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 ## Riepilogo in una frase
 
 Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.
-Il modello TxGNN prevede che possa essere efficace per la **lebbra**, con un punteggio molto alto (99,14%).
+Il modello TxGNN prevede che possa essere efficace per la **lebbra**, con un punteggio molto alto (0,9914).
 Al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
 
 ## Panoramica rapida
@@ -48,10 +48,10 @@ Al momento **non risultano studi clinici né pubblicazioni** a sostegno di quest
 |------|------|
 | Indicazione originaria | Non disponibile nei dati compilati (il testo dell'indicazione nelle autorizzazioni AIFA è vuoto) |
 | Nuova indicazione prevista | Lebbra |
-| Punteggio di predizione TxGNN | 99,14% |
+| Punteggio di predizione TxGNN | 0,9914 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 2 (0 valide, 2 annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -74,8 +74,8 @@ Al momento non risulta alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
 |---------|------|------|------|-----------|
-| 050224017 | ZOKINVY 30 cps 50 mg flacone | Capsule | Annullata | Non disponibile |
-| 050224029 | ZOKINVY 30 cps 75 mg flacone | Capsule | Annullata | Non disponibile |
+| 050224017 | ZOKINVY 30 cps 50 mg flacone | Capsule | Valida | Non disponibile |
+| 050224029 | ZOKINVY 30 cps 75 mg flacone | Capsule | Valida | Non disponibile |
 
 Titolare: TMC Pharma (EU) Limited.
 

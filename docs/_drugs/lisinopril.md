@@ -4,17 +4,17 @@ title: Lisinopril
 parent: Solo previsione del modello (L5)
 nav_order: 274
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Lisinopril: nuova indicazione prevista, Infarto miocardico posterolaterale (livello di evidenza L5). Indicazione originale: Ipertensione…"
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+description: "Lisinopril: nuova indicazione prevista, Pulmonary hypertension owing to lung disease and/or hypoxia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Lisinopril: dall'ipertensione all'infarto miocardico posterolaterale
+## Lisinopril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,11 +44,11 @@ Il lisinopril è un inibitore dell'enzima di conversione dell'angiotensina (ACE)
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, infarto miocardico (il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile; le indicazioni derivano dal grafo di conoscenza PrimeKG) |
-| Nuova indicazione prevista | Infarto miocardico posterolaterale |
-| Punteggio di previsione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| Punteggio di previsione TxGNN | 0.9989 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte revocate) |
 | Decisione raccomandata | Hold |
 
@@ -56,11 +56,11 @@ Il lisinopril è un inibitore dell'enzima di conversione dell'angiotensina (ACE)
 
 I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, il lisinopril è un inibitore dell'ACE: riduce la formazione di angiotensina II e, di conseguenza, il tono vascolare e il rimodellamento cardiaco dopo infarto.
 
-L'infarto miocardico posterolaterale è un sottotipo anatomico dell'infarto miocardico, indicazione già associata al lisinopril. Non si tratta quindi di un vero riposizionamento. Il punteggio elevato riflette probabilmente la vicinanza ontologica al termine "infarto miocardico" nel grafo di conoscenza, più che un'evidenza specifica per questo sottotipo.
+L'infarto miocardico posterolaterale è un sottotipo anatomico dell'infarto miocardico, indicazione già associata al lisinopril. Non si tratta quindi di un vero riposizionamento.
 
 Tra le altre previsioni del modello, alcune sono meccanisticamente plausibili ma poco supportate:
 
-- **Cuore polmonare cronico** (punteggio 99,68%): due lavori specifici sul lisinopril (PMID 14524095 e 17047621), probabilmente piccoli studi clinici, suggeriscono un beneficio emodinamico ed endoteliale. Il disegno e la numerosità non sono verificabili.
+- **Cuore polmonare cronico** (punteggio 0,9968): due lavori specifici sul lisinopril (PMID 14524095 e 17047621), probabilmente piccoli studi clinici, suggeriscono un beneficio emodinamico ed endoteliale. Il disegno e la numerosità non sono verificabili.
 - **Ipertensione polmonare da malattia polmonare/ipossia**: la letteratura recuperata è per lo più non pertinente (fisiologia animale, trote, retinopatia del prematuro). Gli ACE-inibitori non sono raccomandati dalle linee guida per l'ipertensione polmonare e la vasodilatazione sistemica potrebbe peggiorare l'ipossiemia.
 - **Ipertensione/nefropatia ipertensiva maligna e ipertensione nefrovascolare maligna**: plausibili per il coinvolgimento del sistema renina-angiotensina, ma gli ACE-inibitori possono causare peggioramento della funzione renale in presenza di stenosi dell'arteria renale.
 
@@ -83,15 +83,15 @@ Per completezza, le previsioni di rango inferiore dispongono di pochi riferiment
 
 ## Informazioni sul mercato italiano
 
-Tutte e 20 le autorizzazioni risultano revocate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 037426158 | LISINOPRIL*14 cpr 20 mg | Ratiopharm GmbH | Revocata |
-| 026834022 | ZESTRIL*14 cpr 20 mg | Atnahs Pharma Netherlands BV | Revocata |
-| 026837017 | ALAPRIL*14 cpr 5 mg | Neopharmed Gentili SpA | Revocata |
-| 026837029 | ALAPRIL*14 cpr 20 mg | Neopharmed Gentili SpA | Revocata |
-| 037471188 | LISINOPRIL*28 cpr 20 mg | Sandoz SpA | Revocata |
+| 037426158 | LISINOPRIL*14 cpr 20 mg | Ratiopharm GmbH | Valida |
+| 026834022 | ZESTRIL*14 cpr 20 mg | Atnahs Pharma Netherlands BV | Valida |
+| 026837017 | ALAPRIL*14 cpr 5 mg | Neopharmed Gentili SpA | Valida |
+| 026837029 | ALAPRIL*14 cpr 20 mg | Neopharmed Gentili SpA | Valida |
+| 037471188 | LISINOPRIL*28 cpr 20 mg | Sandoz SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -110,7 +110,7 @@ Dalla letteratura emerge inoltre un segnale di ipotensione e bradicardia con l'a
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione riguarda un sottotipo anatomico di un'indicazione già nota e non è supportata da studi o pubblicazioni specifici (livello L5). Inoltre, tutte le autorizzazioni italiane sono revocate, quindi non vi è un prodotto commercializzato su cui basare un'estensione.
+La previsione riguarda un sottotipo anatomico di un'indicazione già nota e non è supportata da studi o pubblicazioni specifici (livello L5).
 
 **Per procedere sono necessari:**
 - Verifica dell'attuale stato regolatorio in Italia e delle ragioni delle revoche

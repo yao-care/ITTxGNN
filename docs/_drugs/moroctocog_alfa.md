@@ -6,9 +6,9 @@ nav_order: 310
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Moroctocog Alfa: nuova indicazione prevista, Disturbo da rilascio piastrinico primario (livello di evidenza L5). Indicazione originale: Emofilia (inclusa la forma sintomatica nelle portatrici femmini…"
 monitor_inn: "MOROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
+description: "Moroctocog Alfa: nuova indicazione prevista, Primary release disorder of platelets (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Moroctocog Alfa
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Moroctocog alfa: dall'emofilia al disturbo da rilascio piastrinico primario
+## Moroctocog Alfa: Primary release disorder of platelets
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede una possibile efficacia nel **disturbo da rilascio pias
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emofilia (inclusa la forma sintomatica nelle portatrici femminili) |
-| Nuova indicazione prevista | Disturbo da rilascio piastrinico primario |
-| Punteggio di previsione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Primary release disorder of platelets |
+| Punteggio di previsione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 7 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -63,13 +63,13 @@ Il disturbo da rilascio piastrinico primario dipende invece da difetti della sec
 
 | Posizione | Malattia prevista | Punteggio TxGNN | Valutazione del legame meccanicistico |
 |------|------|------|------|
-| 2 | Pseudo-malattia di von Willebrand | 99,97% | Associazione biologica debole: il FVIII si lega al VWF, ma il difetto primario è a carico del GPIbα piastrinico; la terapia standard è la trasfusione di piastrine |
-| 3 | Trombastenia di Glanzmann | 99,96% | Difetto dell'integrina αIIbβ3; la sostituzione del FVIII non lo corregge; standard: piastrine e FVIIa ricombinante |
-| 4 | Carenza acquisita di fattori della coagulazione | 99,88% | Candidata più plausibile sul piano meccanicistico, ma nell'emofilia acquisita gli autoanticorpi inibitori neutralizzano il FVIII; la categoria è inoltre eterogenea |
-| 5 | Sindrome di Scott | 99,86% | Difetto di esposizione della fosfatidilserina (TMEM16F/ANO6); legame indiretto e speculativo |
-| 6 | Diatesi emorragica da difetto del recettore del collagene | 99,73% | Patologia dell'adesione piastrina-parete vasale, non della cascata dipendente dal FVIII |
-| 7 | Disordine emorragico da trombocitopenia costituzionale | 99,72% | Il problema è il numero o la funzione piastrinica, non il FVIII |
-| 8 | "Flood factor deficiency" | 99,11% | Termine non riconducibile a un'entità clinica nota, probabilmente un'etichetta errata o ambigua dell'ontologia; da verificare prima di ogni valutazione |
+| 2 | Pseudo-malattia di von Willebrand | 0,9997 | Associazione biologica debole: il FVIII si lega al VWF, ma il difetto primario è a carico del GPIbα piastrinico; la terapia standard è la trasfusione di piastrine |
+| 3 | Trombastenia di Glanzmann | 0,9996 | Difetto dell'integrina αIIbβ3; la sostituzione del FVIII non lo corregge; standard: piastrine e FVIIa ricombinante |
+| 4 | Carenza acquisita di fattori della coagulazione | 0,9988 | Candidata più plausibile sul piano meccanicistico, ma nell'emofilia acquisita gli autoanticorpi inibitori neutralizzano il FVIII; la categoria è inoltre eterogenea |
+| 5 | Sindrome di Scott | 0,9986 | Difetto di esposizione della fosfatidilserina (TMEM16F/ANO6); legame indiretto e speculativo |
+| 6 | Diatesi emorragica da difetto del recettore del collagene | 0,9973 | Patologia dell'adesione piastrina-parete vasale, non della cascata dipendente dal FVIII |
+| 7 | Disordine emorragico da trombocitopenia costituzionale | 0,9972 | Il problema è il numero o la funzione piastrinica, non il FVIII |
+| 8 | "Flood factor deficiency" | 0,9911 | Termine non riconducibile a un'entità clinica nota, probabilmente un'etichetta errata o ambigua dell'ontologia; da verificare prima di ogni valutazione |
 
 ## Evidenze dagli studi clinici
 
@@ -81,7 +81,6 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte e 7 le autorizzazioni (titolare: PFIZER EUROPE MA EEIG, prodotto REFACTO AF) risultano annullate; nessuna è attualmente valida.
 
 | Numero di autorizzazione | Nome del prodotto | Indicazione approvata |
 |---------|------|-----------|
@@ -108,7 +107,6 @@ La previsione per il disturbo da rilascio piastrinico primario si basa solo sul 
 - Una revisione sistematica della letteratura e delle registrazioni di studi per le indicazioni previste
 - La verifica dell'identità della malattia "flood factor deficiency"
 - Una valutazione preliminare della carenza acquisita di fattori della coagulazione, la candidata meccanicisticamente più plausibile, tenendo conto degli inibitori anti-FVIII
-- Una valutazione della disponibilità effettiva del prodotto, poiché tutte le autorizzazioni italiane sono annullate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

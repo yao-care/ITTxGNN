@@ -48,10 +48,10 @@ La rifabutina è un antibiotico della classe delle rifamicine, autorizzato in It
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione della licenza AIFA è vuoto) |
 | Nuova indicazione prevista | Infezione da HIV (infectious disease) |
-| Punteggio di predizione TxGNN | 99,88% |
+| Punteggio di predizione TxGNN | 0,9988 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate (cancellate) |
-| Numero di autorizzazioni | 1 (0 valide, 1 revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -108,7 +108,7 @@ Oltre a questi, sono registrati numerosi studi farmacocinetici sulle interazioni
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 028426017 | MYCOBUTIN*30 cps 150 mg (Pfizer Italia Srl) | Non indicata | Non indicata (autorizzazione revocata) |
+| 028426017 | MYCOBUTIN*30 cps 150 mg (Pfizer Italia Srl) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

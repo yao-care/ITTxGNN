@@ -48,10 +48,10 @@ Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica. 
 |------|------|
 | Indicazione originale | Angioedema ereditario (anche con deficit di C1 inibitore) |
 | Nuova indicazione prevista | Deficit di C1 inibitore |
-| Punteggio di predizione TxGNN | 99,996% |
+| Punteggio di predizione TxGNN | 1,0000 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -101,8 +101,8 @@ Le altre nove indicazioni previste (serpinopatia, pancreatite, pseudo-malattia d
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 047417011 | TAKHZYRO 1 flaconcino SC 2 ml 300 mg + 1 siringa + 2 aghi (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione cancellata |
-| 047417047 | TAKHZYRO 1 siringa preriempita SC 300 mg 2 ml (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione cancellata |
+| 047417011 | TAKHZYRO 1 flaconcino SC 2 ml 300 mg + 1 siringa + 2 aghi (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
+| 047417047 | TAKHZYRO 1 siringa preriempita SC 300 mg 2 ml (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
 
 ---
 

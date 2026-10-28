@@ -8,6 +8,7 @@ nav_order: 43
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amlodipina
@@ -51,7 +52,7 @@ L'amlodipina è un noto bloccante dei canali del calcio diidropiridinico ampiame
 | Indicazione prevista nuova | **Nessuna** — TxGNN non ha restituito alcuna previsione |
 | Punteggio di previsione TxGNN | N/A |
 | Livello di evidenza | **L5** (Nessuna previsione, nessuno studio di supporto) |
-| Stato del mercato italiano | ✗ Non commercializzato |
+| Stato del mercato italiano | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 0 |
 | Decisione consigliata | **Sospensione** |
 

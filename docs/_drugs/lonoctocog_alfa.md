@@ -39,7 +39,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 ## Sintesi in una frase
 
 Lonoctocog alfa è un fattore VIII ricombinante a catena singola, originariamente usato per il trattamento dell'emofilia (inclusa la forma sintomatica nelle portatrici di sesso femminile).
-Il modello TxGNN prevede che possa essere efficace per la **pseudo-malattia di von Willebrand** (punteggio 99,85%), ma attualmente **non sono presenti studi clinici né pubblicazioni** a sostegno: l'indicazione resta una previsione computazionale.
+Il modello TxGNN prevede che possa essere efficace per la **pseudo-malattia di von Willebrand** (punteggio 0,9985), ma attualmente **non sono presenti studi clinici né pubblicazioni** a sostegno: l'indicazione resta una previsione computazionale.
 
 ---
 
@@ -49,10 +49,10 @@ Il modello TxGNN prevede che possa essere efficace per la **pseudo-malattia di v
 |------|------|
 | Indicazione originale | Emofilia; forma sintomatica di emofilia nelle portatrici di sesso femminile |
 | Nuova indicazione prevista | Pseudo-malattia di von Willebrand |
-| Punteggio di previsione TxGNN | 99,85% |
+| Punteggio di previsione TxGNN | 0,9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cessate |
-| Numero di autorizzazioni | 5 (tutte cessate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -69,9 +69,9 @@ Altre indicazioni previste dal modello (tutte con evidenza L5 e decisione Hold):
 
 | Indicazione prevista | Punteggio TxGNN | Considerazione meccanicistica |
 |------|------|------|
-| Disturbo primario del rilascio piastrinico | 99,84% | Il difetto è nella secrezione dei granuli piastrinici; il FVIII agisce sulla cascata coagulatoria secondaria e non lo corregge. |
-| Trombastenia di Glanzmann | 99,76% | Il difetto riguarda l'integrina αIIbβ3; il FVIII non ne ripristina la funzione. Il trattamento standard prevede trasfusioni piastriniche, fattore VIIa ricombinante e antifibrinolitici. |
-| Sindrome di Scott | 99,44% | Il difetto riguarda l'esposizione della fosfatidilserina (TMEM16F/ANO6); il FVIII fa parte del complesso tenasi, ma il deficit è nella superficie fosfolipidica, non nella quantità di FVIII. |
+| Disturbo primario del rilascio piastrinico | 0,9984 | Il difetto è nella secrezione dei granuli piastrinici; il FVIII agisce sulla cascata coagulatoria secondaria e non lo corregge. |
+| Trombastenia di Glanzmann | 0,9976 | Il difetto riguarda l'integrina αIIbβ3; il FVIII non ne ripristina la funzione. Il trattamento standard prevede trasfusioni piastriniche, fattore VIIa ricombinante e antifibrinolitici. |
+| Sindrome di Scott | 0,9944 | Il difetto riguarda l'esposizione della fosfatidilserina (TMEM16F/ANO6); il FVIII fa parte del complesso tenasi, ma il deficit è nella superficie fosfolipidica, non nella quantità di FVIII. |
 
 ---
 
@@ -93,11 +93,11 @@ Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessa
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 045255041 | AFSTYLA, 1 flaconcino EV polv. 1.500 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Cessata |
-| 045255054 | AFSTYLA, 1 flaconcino EV polv. 2.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Cessata |
-| 045255078 | AFSTYLA, 1 flaconcino EV polv. 3.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Cessata |
-| 045255039 | AFSTYLA, 1 flaconcino EV polv. 1.000 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Cessata |
-| 045255027 | AFSTYLA, 500 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Cessata |
+| 045255041 | AFSTYLA, 1 flaconcino EV polv. 1.500 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
+| 045255054 | AFSTYLA, 1 flaconcino EV polv. 2.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
+| 045255078 | AFSTYLA, 1 flaconcino EV polv. 3.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
+| 045255039 | AFSTYLA, 1 flaconcino EV polv. 1.000 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Valida |
+| 045255027 | AFSTYLA, 500 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Valida |
 
 ---
 

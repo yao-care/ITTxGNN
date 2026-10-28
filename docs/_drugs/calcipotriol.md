@@ -50,10 +50,10 @@ Il calcipotriolo è un analogo topico della vitamina D3, utilizzato storicamente
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (testi delle indicazioni AIFA vuoti) |
 | Nuova indicazione prevista | Cheratosi seborroica |
-| Punteggio di previsione TxGNN | 99,96% |
+| Punteggio di previsione TxGNN | 0,9996 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate (nessuna autorizzazione valida) |
-| Numero di autorizzazioni | 15 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Hold (con ipotesi di ricerca da approfondire) |
 
 ---
@@ -87,7 +87,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 15 autorizzazioni risultano annullate; le forme farmaceutiche e i testi delle indicazioni non sono riportati. Si elencano le principali 5:
+Tutte le 15 autorizzazioni risultano valide (15 su 15); le forme farmaceutiche e i testi delle indicazioni non sono riportati. Si elencano le principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Le altre previsioni (cheratosi follicolare invertita vulvare, vulvovaginite, vul
 - Studi clinici controllati e randomizzati sul calcipotriolo nella cheratosi seborroica, con confronto rispetto ai trattamenti standard (crioterapia, curettage, laser)
 - Dati di sicurezza e avvertenze dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati dettagliati sul meccanismo d'azione da DrugBank
-- Verifica dello stato regolatorio in Italia, dato che tutte le autorizzazioni risultano annullate, e valutazione della via di somministrazione e della formulazione disponibili
+- Verifica dello stato regolatorio in Italia, dove il farmaco è commercializzato con 15 autorizzazioni valide su 15, e valutazione della via di somministrazione e della formulazione disponibili
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

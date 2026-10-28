@@ -6,9 +6,9 @@ nav_order: 161
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dutasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Iperplasia prostatica benigna (da grafo di conoscenza"
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
+description: "Dutasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
 ---
 
 # Dutasteride
@@ -33,13 +33,13 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Dutasteride: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+## Dutasteride: Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Sintesi
 
 Dutasteride è un inibitore della 5-alfa-reduttasi, originariamente impiegato nel trattamento dell'**iperplasia prostatica benigna**.
-Il modello TxGNN prevede una possibile efficacia nell'**ipertricosi universale congenita di tipo Ambras**, con un punteggio molto alto (99,998%), ma **senza alcuno studio clinico né pubblicazione** a supporto nei dati compilati per questo report. La previsione resta quindi puramente computazionale.
+Il modello TxGNN prevede una possibile efficacia nell'**ipertricosi universale congenita di tipo Ambras**, con un punteggio molto alto (1,0000), ma **senza alcuno studio clinico né pubblicazione** a supporto nei dati compilati per questo report. La previsione resta quindi puramente computazionale.
 
 ---
 
@@ -47,11 +47,11 @@ Il modello TxGNN prevede una possibile efficacia nell'**ipertricosi universale c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperplasia prostatica benigna (da grafo di conoscenza; il testo dell'indicazione nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras |
-| Punteggio di predizione TxGNN | 99,998% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 |
 | Decisione raccomandata | Hold |
 
@@ -79,15 +79,15 @@ Per l'indicazione principale non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate non è presente nei dati. Elenco delle principali 5:
+Il testo delle indicazioni approvate non è presente nei dati. Elenco delle principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 044410025 | Dutasteride 30 cps molli 0,5 mg | Sandoz GmbH | Cancellata |
-| 045364027 | Dutasteride 30 cps molli 0,5 mg | Accord Healthcare SLU | Cancellata |
-| 043912056 | Prodirexan 90 capsule molli 0,5 mg | I.B.N. Savio Srl | Cancellata |
-| 035896012 | Duagen 30 cps molli 0,5 mg | GlaxoSmithKline SpA | Cancellata |
-| 046973018 | Durital 30 cps molli 0,5 mg | Pharmacare Srl | Cancellata |
+| 044410025 | Dutasteride 30 cps molli 0,5 mg | Sandoz GmbH | Valida |
+| 045364027 | Dutasteride 30 cps molli 0,5 mg | Accord Healthcare SLU | Valida |
+| 043912056 | Prodirexan 90 capsule molli 0,5 mg | I.B.N. Savio Srl | Valida |
+| 035896012 | Duagen 30 cps molli 0,5 mg | GlaxoSmithKline SpA | Valida |
+| 046973018 | Durital 30 cps molli 0,5 mg | Pharmacare Srl | Valida |
 
 ---
 

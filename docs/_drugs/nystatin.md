@@ -6,9 +6,9 @@ nav_order: 324
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nystatin: nuova indicazione prevista, Vulvovaginite (livello di evidenza L3). Indicazione originale: Candidosi cutanea, orale, vulvovaginale (dal grafo di conoscenza TxGNN"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: nuova indicazione prevista, Vulvovaginite (vulvovaginitis) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Nystatin
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Nistatina: dalla candidosi cutanea e orale alla vulvovaginite
+## Nystatin: Vulvovaginite (vulvovaginitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ In pratica, questa indicazione si sovrappone in larga misura all'uso già noto n
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Candidosi cutanea, orale, vulvovaginale (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Vulvovaginite |
-| Punteggio di predizione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Vulvovaginite (vulvovaginitis) |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -99,7 +99,7 @@ Per la vulvite (indicazione correlata) sono disponibili anche studi comparativi,
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 010058030 | MYCOSTATIN orale sospensione 100.000 UI/ml, 100 ml (SUBSTIPHARM) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 010058030 | MYCOSTATIN orale sospensione 100.000 UI/ml, 100 ml (SUBSTIPHARM) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 
@@ -117,7 +117,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-L'indicazione è biologicamente coerente, perché la vulvovaginite candidosica rientra nello spettro della candidosi vulvovaginale già nota. Tuttavia le evidenze sono limitate a revisioni e panoramiche, senza studi clinici registrati, e la nistatina è oggi superata da azoli e triazoli come prima scelta. Le altre indicazioni previste dal modello (ad esempio patologie orbitali, teratoma cistico, cisti dermoide spinale) non hanno alcun fondamento biologico o clinico e appaiono artefatti del grafo.
+L'indicazione è biologicamente coerente, perché la vulvovaginite candidosica rientra nello spettro della candidosi vulvovaginale già nota. Tuttavia le evidenze sono limitate a revisioni e panoramiche, senza studi clinici registrati, e la nistatina è oggi superata da azoli e triazoli come prima scelta. Le altre indicazioni previste dal modello (ad esempio patologie orbitali, teratoma cistico, cisti dermoide spinale) non hanno alcun fondamento biologico o clinico: i punteggi provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 **Per procedere sono necessari:**
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, attualmente mancanti e che bloccano la valutazione di sicurezza

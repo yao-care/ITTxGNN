@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunisolide
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 202
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flunisolide: nuova indicazione prevista, Eczema atopico (livello di evidenza L4). Indicazione originale: Asma, asma intrinseca, asma allergica, rinite allergica…"
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+description: "Flunisolide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Flunisolide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Flunisolide: dall'asma alla dermatite atopica (eczema atopico)
+## Flunisolide: Eczema atopico (atopic eczema)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,11 +46,11 @@ Il flunisolide è un corticosteroide per via inalatoria/nasale, originariamente 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Asma, asma intrinseca, asma allergica, rinite allergica, rinite vasomotoria (derivate dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Eczema atopico |
-| Punteggio di previsione TxGNN | 99,98% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Eczema atopico (atopic eczema) |
+| Punteggio di previsione TxGNN | 0.9998 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -117,7 +117,7 @@ Il punteggio del modello è molto alto, ma non esistono studi clinici né eviden
 - Studi clinici o evidenze comparative con i corticosteroidi topici già approvati per la dermatite atopica
 - Verifica della situazione regolatoria (autorizzazioni attualmente tutte cancellate)
 
-**Nota su altre previsioni:** tra le successive previsioni, la **bronchite** (punteggio 99,93%, livello L3) ha un supporto debole, costituito da uno studio clinico del 1981 con disegno poco chiaro. Le altre previsioni (polipi di orecchio, seni paranasali, ecc.) sono basate solo sul modello o su evidenze indirette.
+**Nota su altre previsioni:** tra le successive previsioni, la **bronchite** (punteggio 0,9993, livello L3) ha un supporto debole, costituito da uno studio clinico del 1981 con disegno poco chiaro. Le altre previsioni (polipi di orecchio, seni paranasali, ecc.) sono basate solo sul modello o su evidenze indirette.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

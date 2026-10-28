@@ -4,17 +4,17 @@ title: Lamotrigine
 parent: Solo previsione del modello (L5)
 nav_order: 254
 evidence_level: L5
-indication_count: 9
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (incluse epilessia parziale e sindrome di Lennox-Gastaut)"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lamotrigine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-## Lamotrigina: dall'epilessia al neoplasma del nervo trigemino (predizione da verificare)
+## Lamotrigine: Neoplasma del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi
@@ -46,11 +46,11 @@ La lamotrigina è un antiepilettico utilizzato per l'epilessia, comprese le form
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia (incluse epilessia parziale e sindrome di Lennox-Gastaut) |
-| Nuova indicazione predetta | Neoplasma del nervo trigemino |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Neoplasma del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 (solo predizione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate (nessuna autorizzazione valida) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -83,7 +83,7 @@ Entrambe le pubblicazioni trattano la nevralgia del trigemino e non il trattamen
 
 ## Indicazione alternativa meglio supportata: nevralgia del trigemino
 
-Nei dati compilati la nevralgia del trigemino ha un punteggio TxGNN di 99,89%, livello di evidenza **L2** e decisione preliminare **Proceed with Guardrails**.
+Nei dati compilati la nevralgia del trigemino ha un punteggio TxGNN di 0,9989, livello di evidenza **L2** e decisione preliminare **Proceed with Guardrails**.
 
 **Studi clinici**
 
@@ -107,15 +107,15 @@ Il meccanismo è plausibile: come la carbamazepina, di prima scelta, la lamotrig
 
 ## Informazioni sul mercato italiano
 
-Nessuna autorizzazione è attualmente valida: le 20 registrate sono tutte cancellate. Di seguito le prime 5.
+Di seguito le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 041087471 | AMALESS 56 cpr dispersibili 50 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 041087673 | AMALESS 56 cpr dispersibili 100 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 049549037 | LAMICTAL 56 cpr masticabili/dispersibili 100 mg | Farma 1000 Srl | Cancellata |
-| 036486049 | LAMOTRIGINA 56 cpr dispersibili 100 mg | Sandoz SpA | Cancellata |
-| 036780993 | LAMOTRIGINA 56 cpr dispersibili 200 mg | EG SpA | Cancellata |
+| 041087471 | AMALESS 56 cpr dispersibili 50 mg | Aurobindo Pharma Italia Srl | Valida |
+| 041087673 | AMALESS 56 cpr dispersibili 100 mg | Aurobindo Pharma Italia Srl | Valida |
+| 049549037 | LAMICTAL 56 cpr masticabili/dispersibili 100 mg | Farma 1000 Srl | Valida |
+| 036486049 | LAMOTRIGINA 56 cpr dispersibili 100 mg | Sandoz SpA | Valida |
+| 036780993 | LAMOTRIGINA 56 cpr dispersibili 200 mg | EG SpA | Valida |
 
 ---
 

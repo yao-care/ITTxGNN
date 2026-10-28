@@ -6,9 +6,9 @@ nav_order: 400
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (livello di evidenza L5). Indicazione originale: Cinetosi, sindrome dell'intestino irritabile, ulcera peptica…"
 monitor_inn: "Scopolamine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
+description: "Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (cauda equina syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Scopolamine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Scopolamina: dalla cinetosi alla sindrome della cauda equina
+## Scopolamine: Sindrome della cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Sintesi
@@ -44,12 +44,12 @@ La scopolamina è un antimuscarinico non selettivo, originariamente impiegato pe
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Cinetosi, sindrome dell'intestino irritabile, ulcera peptica, rinite allergica, uveite, cicloplegia (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome della cauda equina |
-| Punteggio di previsione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome della cauda equina (cauda equina syndrome) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione potrebbe essere plausibile?
@@ -66,11 +66,11 @@ Le altre cinque previsioni del modello hanno tutte livello di evidenza L5, senza
 
 | Posizione | Indicazione prevista | Punteggio | Osservazioni |
 |------|------|------|------|
-| 2 | Vescica neurogena (termine obsoleto) | 99,98% | Il razionale è plausibile (blocco muscarinico del detrusore), ma la scopolamina ha forte penetrazione nel sistema nervoso centrale e scarsa tollerabilità nell'uso cronico; esistono alternative più selettive. Il termine è obsoleto nell'ontologia. |
-| 3 | Congiuntivite papillare | 99,98% | Patologia mediata da mastociti e istamina o da irritazione meccanica; gli antimuscarinici non agiscono sul meccanismo e possono causare midriasi, cicloplegia e secchezza oculare. |
-| 4 | Congiuntivite atopica | 99,80% | Malattia IgE- e mastocita-mediata; il blocco muscarinico non interviene su questa via. |
-| 5 | Congiuntivite rosacea | 99,40% | Nessun razionale meccanicistico chiaro; la riduzione della secrezione lacrimale potrebbe peggiorare la malattia della superficie oculare. |
-| 6 | Congiuntivite vernale | 99,08% | Malattia allergica cronica Th2; un beneficio sintomatico dalla cicloplegia sarebbe indiretto e speculativo. |
+| 2 | Vescica neurogena (termine obsoleto) | 0,9998 | Il razionale è plausibile (blocco muscarinico del detrusore), ma la scopolamina ha forte penetrazione nel sistema nervoso centrale e scarsa tollerabilità nell'uso cronico; esistono alternative più selettive. Il termine è obsoleto nell'ontologia. |
+| 3 | Congiuntivite papillare | 0,9998 | Patologia mediata da mastociti e istamina o da irritazione meccanica; gli antimuscarinici non agiscono sul meccanismo e possono causare midriasi, cicloplegia e secchezza oculare. |
+| 4 | Congiuntivite atopica | 0,9980 | Malattia IgE- e mastocita-mediata; il blocco muscarinico non interviene su questa via. |
+| 5 | Congiuntivite rosacea | 0,9940 | Nessun razionale meccanicistico chiaro; la riduzione della secrezione lacrimale potrebbe peggiorare la malattia della superficie oculare. |
+| 6 | Congiuntivite vernale | 0,9908 | Malattia allergica cronica Th2; un beneficio sintomatico dalla cicloplegia sarebbe indiretto e speculativo. |
 
 ## Evidenze da studi clinici
 
@@ -84,7 +84,7 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 006979037 | BUSCOPAN 6 fiale IM EV 20 mg 1 ml (OPELLA HEALTHCARE ITALY Srl) | Non indicata | Non indicata (autorizzazione revocata) |
+| 006979037 | BUSCOPAN 6 fiale IM EV 20 mg 1 ml (OPELLA HEALTHCARE ITALY Srl) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

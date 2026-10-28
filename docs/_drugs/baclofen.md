@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 ## Sintesi in una frase
 
-Il baclofene è un agonista del recettore GABA-B. Nella letteratura raccolta è descritto come farmaco usato per la spasticità, ma i dati regolatori italiani non riportano un'indicazione approvata. Il modello TxGNN lo prevede come potenzialmente efficace per l'**ADHD** (punteggio 99,3%), ma **non esistono studi clinici registrati** e nessuna delle pubblicazioni raccolte testa il baclofene nell'ADHD. Si tratta quindi di una previsione puramente computazionale.
+Il baclofene è un agonista del recettore GABA-B. Nella letteratura raccolta è descritto come farmaco usato per la spasticità, ma i dati regolatori italiani non riportano un'indicazione approvata. Il modello TxGNN (deep learning) lo prevede come potenzialmente efficace per l'**ADHD** (punteggio 0,9932), ma **non esistono studi clinici registrati** e nessuna delle pubblicazioni raccolte testa il baclofene nell'ADHD. Si tratta quindi di una previsione puramente computazionale.
 
 ---
 
@@ -48,10 +48,10 @@ Il baclofene è un agonista del recettore GABA-B. Nella letteratura raccolta è 
 |------|------|
 | Indicazione originale | Non disponibile (i testi di indicazione delle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 99,32% |
+| Punteggio di predizione TxGNN | 0,9932 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -92,9 +92,9 @@ Nessuna pubblicazione è specifica per baclofene nell'ADHD. Le più pertinenti s
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 022999027 | LIORESAL*50 cpr 25 mg | Novartis Farma SpA | Cancellata |
-| 037930029 | BACLOFENE*50 cpr div 25 mg | Mylan SpA | Cancellata |
-| 048166019 | BACLOFENE*50 cpr div 25 mg | DOC Generici Srl | Cancellata |
+| 022999027 | LIORESAL*50 cpr 25 mg | Novartis Farma SpA | Valida |
+| 037930029 | BACLOFENE*50 cpr div 25 mg | Mylan SpA | Valida |
+| 048166019 | BACLOFENE*50 cpr div 25 mg | DOC Generici Srl | Valida |
 
 Nei dati compilati non risultano autorizzazioni valide. Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.
 
@@ -116,7 +116,7 @@ Questi dati sono utili soprattutto per il rischio di depressione del sistema ner
 
 ## Seconda indicazione prevista con evidenza più solida: dipendenza da nicotina
 
-Il modello ha prodotto anche una seconda predizione, la **dipendenza da nicotina** (punteggio 99,19%), con evidenza di livello L2 e una raccomandazione di "domanda di ricerca".
+Il modello ha prodotto anche una seconda predizione, la **dipendenza da nicotina** (punteggio 0,9919), con evidenza di livello L2 e una raccomandazione di "domanda di ricerca".
 
 | Studio | Fase | Stato | Arruolati | Note |
 |---------|------|------|------|---------|

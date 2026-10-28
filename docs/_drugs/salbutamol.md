@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Solo previsione del modello (L5)
 nav_order: 397
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Salbutamol: nuova indicazione prevista, Congiuntivite papillare (livello di evidenza L5)."
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: nuova indicazione prevista, Congiuntivite papillare (papillary conjunctivitis) (livello di evidenza L5)."
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Salbutamolo: dall'asma alla congiuntivite papillare
+## Salbutamol: Congiuntivite papillare (papillary conjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in breve
@@ -45,11 +45,11 @@ Il salbutamolo è un broncodilatatore beta-2 agonista, usato originariamente per
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Asma e malattia bronchiale (dal grafo di conoscenza; i testi delle autorizzazioni AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Congiuntivite papillare |
-| Punteggio di predizione TxGNN | 99,996% (posizione 80 nella classifica del modello) |
+| Nuova indicazione prevista | Congiuntivite papillare (papillary conjunctivitis) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cessate (nessuna autorizzazione valida) |
-| Numero di autorizzazioni | 18 (tutte cessate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 18 su 18) |
+| Numero di autorizzazioni | 18 (valide: 18) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe essere plausibile?
@@ -68,15 +68,15 @@ Attualmente nessuna pubblicazione correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 18 autorizzazioni risultano cessate. Per le prime cinque non sono disponibili forma farmaceutica e indicazione approvata.
+Il farmaco è in commercio in Italia: tutte le 18 autorizzazioni risultano valide.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 022984052 | VENTOLIN sospensione inalatoria 200 erogazioni 100 mcg | GlaxoSmithKline SpA | Cessata |
-| 022991158 | BRONCOVALEAS sospensione inalatoria 200 erogazioni 100 mcg | Neopharmed Gentili SpA | Cessata |
-| 022991057 | BRONCOVALEAS soluzione per nebulizzatore 15 ml 0,5% | Neopharmed Gentili SpA | Cessata |
-| 039221015 | SALBUTAMOLO sospensione inalatoria 200 erogazioni 100 mcg | Sandoz SpA | Cessata |
-| 044646014 | BUTAPRAL soluzione per nebulizzatore 30 monodosi 2,5 ml (0,5 mg + 2,5 mg) | Genetic SpA | Cessata |
+| 022984052 | VENTOLIN sospensione inalatoria 200 erogazioni 100 mcg | GlaxoSmithKline SpA | Valida |
+| 022991158 | BRONCOVALEAS sospensione inalatoria 200 erogazioni 100 mcg | Neopharmed Gentili SpA | Valida |
+| 022991057 | BRONCOVALEAS soluzione per nebulizzatore 15 ml 0,5% | Neopharmed Gentili SpA | Valida |
+| 039221015 | SALBUTAMOLO sospensione inalatoria 200 erogazioni 100 mcg | Sandoz SpA | Valida |
+| 044646014 | BUTAPRAL soluzione per nebulizzatore 30 monodosi 2,5 ml (0,5 mg + 2,5 mg) | Genetic SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -91,7 +91,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 
 **Motivazione:**
 - La predizione si basa solo sul modello (L5), senza studi clinici né letteratura specifica sulla congiuntivite papillare.
-- Tutte le autorizzazioni italiane sono cessate.
+- Il farmaco è in commercio in Italia: 18 autorizzazioni valide su 18.
 - Il profilo di sicurezza è complesso, con molte controindicazioni indicate dal grafo e 756 interazioni.
 
 **Per procedere sarebbe necessario:**

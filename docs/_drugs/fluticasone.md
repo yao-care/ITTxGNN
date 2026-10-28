@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluticasone
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 208
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile (testo delle indicazioni assente nelle autorizzazioni…"
 monitor_inn: "FLUTICASONE"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
+description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fluticasone
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Fluticasone: Dall'indicazione originale non documentata all'emicrania (migraine disorder)
+## Fluticasone: Emicrania (migraine disorder)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il fluticasone è un corticosteroide glucocorticoide, di cui nei dati compilati 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile (testo delle indicazioni assente nelle autorizzazioni AIFA) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Emicrania (migraine disorder) |
-| Punteggio di previsione TxGNN | 99,20% |
-| Livello di evidenza | L4 |
-| Stato sul mercato italiano | Solo autorizzazioni revocate/cessate |
-| Numero di autorizzazioni | 20 (0 valide, 20 cancellate) |
+| Punteggio di previsione TxGNN | 0.9920 |
+| Livello di evidenza | L5 |
+| Stato sul mercato italiano | In commercio (autorizzazioni valide: 20 su 20) |
+| Numero di autorizzazioni | 20 (valide: 20) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -66,8 +66,8 @@ Il punteggio elevato di TxGNN (0,992) va quindi interpretato con cautela: in ass
 
 ### Altre previsioni del modello (per completezza)
 
-- **Angina di Prinzmetal** (punteggio 99,19%, livello L5): nessuno studio clinico né pubblicazione. L'angina vasospastica è guidata da vasospasmo coronarico, disfunzione endoteliale e iperreattività della muscolatura liscia; non è stato identificato alcun meccanismo plausibile che colleghi il fluticasone al controllo del vasospasmo. La previsione è verosimilmente un artefatto del grafo di conoscenza.
-- **Emicrania con aura del tronco encefalico** (punteggio 99,09%, livello L5): nessuno studio clinico né pubblicazione. Il punteggio riflette probabilmente la vicinanza ontologica al termine genitore "emicrania" e non un'evidenza indipendente.
+- **Angina di Prinzmetal** (punteggio 0,9919, livello L5): nessuno studio clinico né pubblicazione. L'angina vasospastica è guidata da vasospasmo coronarico, disfunzione endoteliale e iperreattività della muscolatura liscia; non è stato identificato alcun meccanismo plausibile che colleghi il fluticasone al controllo del vasospasmo. Il punteggio deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
+- **Emicrania con aura del tronco encefalico** (punteggio 0,9909, livello L5): nessuno studio clinico né pubblicazione. Il punteggio riflette probabilmente la vicinanza ontologica al termine genitore "emicrania" e non un'evidenza indipendente.
 
 ---
 
@@ -87,7 +87,7 @@ Al momento non risulta alcuno studio clinico registrato correlato.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Di seguito le prime 5 autorizzazioni (la forma è desunta dal nome del prodotto).
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Di seguito le prime 5 autorizzazioni (la forma è desunta dal nome del prodotto).
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|

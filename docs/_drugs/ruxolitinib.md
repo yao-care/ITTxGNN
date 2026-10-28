@@ -6,9 +6,9 @@ nav_order: 394
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ruxolitinib: nuova indicazione prevista, Tumore a cellule epitelioidi perivascolari del corpo uterino (livello di evidenza L5). Indicazione originale: Neoplasie mieloproliferative (policitemia vera, …"
 monitor_inn: "RUXOLITINIB"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
+description: "Ruxolitinib: nuova indicazione prevista, Uterine corpus perivascular epithelioid cell tumor (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ruxolitinib
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Ruxolitinib: Dalle neoplasie mieloproliferative alla sindrome emofagocitica associata a infezione
+## Ruxolitinib: Uterine corpus perivascular epithelioid cell tumor
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,14 +48,14 @@ Nota metodologica: il modello ordina le predizioni in base al punteggio TxGNN. L
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Neoplasie mieloproliferative (policitemia vera, mielofibrosi primaria, mielofibrosi); il testo delle indicazioni autorizzate AIFA non è disponibile |
-| Nuova indicazione prevista (prima in graduatoria) | Tumore a cellule epitelioidi perivascolari del corpo uterino |
-| Punteggio TxGNN (prima in graduatoria) | 99,73% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (prima in graduatoria) | Uterine corpus perivascular epithelioid cell tumor |
+| Punteggio TxGNN (prima in graduatoria) | 0.9973 |
 | Livello di evidenza (prima in graduatoria) | L5 |
-| Nuova indicazione con più evidenze | Sindrome emofagocitica associata a infezione (punteggio TxGNN 99,32%) |
+| Nuova indicazione con più evidenze | Uterine corpus perivascular epithelioid cell tumor |
 | Livello di evidenza (HLH associata a infezione) | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold per la prima in graduatoria; Proceed with Guardrails (come domanda di ricerca) per HLH associata a infezione |
 
 ---
@@ -103,8 +103,8 @@ Per il liposarcoma sono disponibili due studi preclinici (PMID [35186752](https:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 050666027 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione cancellata |
-| 050666015 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione cancellata |
+| 050666027 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione valida |
+| 050666015 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione valida |
 
 ---
 

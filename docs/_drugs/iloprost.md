@@ -4,17 +4,17 @@ title: Iloprost
 parent: Prove moderate (L3-L4)
 nav_order: 233
 evidence_level: L3
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Iloprost: nuova indicazione prevista, PAH associata a cardiopatia congenita (predizione di rango 3) (livello di evidenza L3). Indicazione originale: Ipertensione arteriosa polmonare (fonte: grafo di …"
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
+description: "Iloprost: nuova indicazione prevista, Hypotrichosis simplex of the scalp (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **9** 
+Livello di evidenza: **L3** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **9**
 
 </div>
 
-## Iloprost: Dall'ipertensione arteriosa polmonare all'ipertensione arteriosa polmonare associata a cardiopatia congenita
+## Iloprost: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Si tratta di una sottopopolazione della PAH già trattata, perciò la novità de
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione arteriosa polmonare (fonte: grafo di conoscenza TxGNN; i testi delle indicazioni nelle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione predetta | PAH associata a cardiopatia congenita (predizione di rango 3) |
-| Punteggio di predizione TxGNN | 99,32% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Hypotrichosis simplex of the scalp |
+| Punteggio di predizione TxGNN | 0.9945 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 **Nota sulla scelta del candidato:** le prime due predizioni per punteggio (ipotricosi semplice del cuoio capelluto e ipotricosi congenita con milia) e la nona (alopecia areata diffusa) non hanno né studi né letteratura (L5, Hold). Le predizioni più solide sono quelle per PAH associata a cardiopatia congenita e a malattie del tessuto connettivo (entrambe L3). Questo report si concentra sulla PAH associata a cardiopatia congenita, cioè sul candidato con evidenza più coerente tra quelli di rango superiore.
@@ -97,10 +97,10 @@ Attualmente non risultano studi clinici correlati registrati per questa indicazi
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036019091 | VENTAVIS, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
-| 036019014 | VENTAVIS, 30 fiale soluzione per nebulizzazione 2 ml 10 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
-| 046536025 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 10 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
-| 046536076 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione cancellata |
+| 036019091 | VENTAVIS, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
+| 036019014 | VENTAVIS, 30 fiale soluzione per nebulizzazione 2 ml 10 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
+| 046536025 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 10 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
+| 046536076 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
 
 Tutte e 4 le autorizzazioni risultano cancellate: non vi è attualmente alcun prodotto valido sul mercato italiano.
 

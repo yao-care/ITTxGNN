@@ -6,9 +6,9 @@ nav_order: 292
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (livello di evidenza L5). Indicazione originale: ADHD…"
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
+description: "Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Methylphenidate
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Metilfenidato: dal disturbo da deficit di attenzione e iperattività al disturbo specifico dello sviluppo
+## Methylphenidate: Sindrome faciodigitogenitale (faciodigitogenital syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,21 +49,21 @@ Nota metodologica: il rapporto è costruito sulla prima predizione in ordine di 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | ADHD, narcolessia (le autorizzazioni AIFA non riportano il testo dell'indicazione; le indicazioni derivano dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista (rank 1) | Sindrome faciodigitogenitale |
-| Punteggio di predizione TxGNN | 99,998% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (rank 1) | Sindrome faciodigitogenitale (faciodigitogenital syndrome) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 (solo predizione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold (sospendere) |
 
 Altre predizioni esaminate:
 
 | Rank | Indicazione prevista | Punteggio TxGNN | Livello di evidenza | Raccomandazione |
 |------|------|------|------|------|
-| 2 | Fibroma condromixoide | 99,991% | L5 | Hold |
-| 3 | Disturbo specifico dello sviluppo | 99,988% | L4 | Domanda di ricerca |
-| 4 | Disturbo distimico | 99,109% | L4 | Domanda di ricerca |
+| 2 | Fibroma condromixoide | 0,9999 | L5 | Hold |
+| 3 | Disturbo specifico dello sviluppo | 0,9999 | L5 | Domanda di ricerca |
+| 4 | Disturbo distimico | 0,9911 | L5 | Domanda di ricerca |
 
 ---
 
@@ -77,7 +77,7 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 **Disturbo distimico (rank 4).** La disfunzione dopaminergica e noradrenergica è coinvolta nei sintomi depressivi, quindi l'uso di uno psicostimolante come terapia aggiuntiva è plausibile. La letteratura, però, riguarda solo contesti di comorbidità con l'ADHD.
 
-**Fibroma condromixoide (rank 2).** Non è stato identificato alcun legame meccanicistico plausibile: si tratta di un tumore osseo benigno raro e il punteggio elevato è probabilmente un artefatto del grafo di conoscenza.
+**Fibroma condromixoide (rank 2).** Non è stato identificato alcun legame meccanicistico plausibile: si tratta di un tumore osseo benigno raro e il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ---
 
@@ -112,11 +112,11 @@ Tutte le 9 autorizzazioni risultano cancellate. Il testo dell'indicazione approv
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 041438045 | MEDIKINET 30 cps 10 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Cancellata |
-| 041889041 | EQUASYM 30 cps 10 mg rilascio modificato | Takeda Pharmaceuticals International AG Ireland Branch | Cancellata |
-| 041438108 | MEDIKINET 30 cps 40 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Cancellata |
-| 041438060 | MEDIKINET 30 cps 20 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Cancellata |
-| 035040017 | RITALIN 30 cpr 10 mg | Infectopharm Arzneimittel und Consilium GmbH | Cancellata |
+| 041438045 | MEDIKINET 30 cps 10 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
+| 041889041 | EQUASYM 30 cps 10 mg rilascio modificato | Takeda Pharmaceuticals International AG Ireland Branch | Valida |
+| 041438108 | MEDIKINET 30 cps 40 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
+| 041438060 | MEDIKINET 30 cps 20 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
+| 035040017 | RITALIN 30 cpr 10 mg | Infectopharm Arzneimittel und Consilium GmbH | Valida |
 
 ---
 

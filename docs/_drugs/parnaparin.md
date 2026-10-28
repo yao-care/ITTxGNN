@@ -6,9 +6,9 @@ nav_order: 340
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (livello di evidenza L5). Indicazione originale: Embolia polmonare, coagulazione intravascolare disseminata…"
 monitor_inn: "parnaparin"
 predicted_indications: ["breast fibrocystic disease", "thrombophilia due to protein C deficiency, autosomal recessive", "benign mammary dysplasia"]
+description: "Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Parnaparin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Parnaparin: Dall'embolia polmonare alla malattia fibrocistica della mammella
+## Parnaparin: Malattia fibrocistica della mammella (breast fibrocystic disease)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,21 +44,21 @@ Parnaparin è un'eparina a basso peso molecolare (EBPM) con azione anticoagulant
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Embolia polmonare, coagulazione intravascolare disseminata, porpora fulminante (da base di conoscenza TxGNN/PrimeKG; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia fibrocistica della mammella |
-| Punteggio di predizione TxGNN | 99,21% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia fibrocistica della mammella (breast fibrocystic disease) |
+| Punteggio di predizione TxGNN | 0.9921 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa che parnaparin è un'eparina a basso peso molecolare, con azione anticoagulante e antitrombotica e, a livello teorico, possibili effetti antinfiammatori e anti-angiogenici. Un legame meccanicistico con la malattia fibrocistica della mammella **non è però dimostrato** dai dati disponibili.
 
-Il punteggio elevato (0,992) riflette un'associazione calcolata dal modello e non un'evidenza biologica o clinica. Anche la terza previsione, la displasia mammaria benigna (punteggio 0,990), è sostanzialmente la stessa condizione sotto un nome diverso: non costituisce quindi un supporto indipendente.
+Il punteggio elevato (0,9921) riflette un'associazione calcolata dal modello e non un'evidenza biologica o clinica. Anche la terza previsione, la displasia mammaria benigna (punteggio 0,9903), è sostanzialmente la stessa condizione sotto un nome diverso: non costituisce quindi un supporto indipendente.
 
-Tra le altre previsioni, la **trombofilia da deficit di proteina C (autosomica recessiva)**, con punteggio 0,991, appare biologicamente più plausibile. Si tratta di uno stato ipercoagulabile strettamente correlato alla porpora fulminante e alla coagulazione intravascolare disseminata, già tra le indicazioni originali. Anche questa inferenza non è però supportata da studi nei dati compilati.
+Tra le altre previsioni, la **trombofilia da deficit di proteina C (autosomica recessiva)**, con punteggio 0,9911, appare biologicamente più plausibile. Si tratta di uno stato ipercoagulabile strettamente correlato alla porpora fulminante e alla coagulazione intravascolare disseminata, già tra le indicazioni originali. Anche questa inferenza non è però supportata da studi nei dati compilati.
 
 ## Evidenze da studi clinici
 
@@ -72,10 +72,10 @@ Attualmente non è disponibile letteratura correlata.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 026270088 | FLUXUM 6 siringhe SC 4.250 UI aXa 0,4 ml | ALFASIGMA SpA | Cancellata |
-| 026270076 | FLUXUM 6 siringhe SC 3.200 UI aXa 0,3 ml | ALFASIGMA SpA | Cancellata |
-| 026270090 | FLUXUM 6 siringhe SC 6.400 UI aXa 0,6 ml | ALFASIGMA SpA | Cancellata |
-| 026270126 | FLUXUM 6 siringhe SC 8.500 UI aXa 0,8 ml | ALFASIGMA SpA | Cancellata |
+| 026270088 | FLUXUM 6 siringhe SC 4.250 UI aXa 0,4 ml | ALFASIGMA SpA | Valida |
+| 026270076 | FLUXUM 6 siringhe SC 3.200 UI aXa 0,3 ml | ALFASIGMA SpA | Valida |
+| 026270090 | FLUXUM 6 siringhe SC 6.400 UI aXa 0,6 ml | ALFASIGMA SpA | Valida |
+| 026270126 | FLUXUM 6 siringhe SC 8.500 UI aXa 0,8 ml | ALFASIGMA SpA | Valida |
 
 Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di un riposizionamento.
 
@@ -96,7 +96,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la malattia fibrocistica della mammella si basa solo sul modello (livello L5), senza studi clinici né letteratura, e nessuna autorizzazione italiana è oggi valida. Mancano inoltre i dati su meccanismo d'azione e sicurezza ufficiale.
+Mancano inoltre i dati su meccanismo d'azione e sicurezza ufficiale.
 
 **Per procedere sono necessari:**
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.

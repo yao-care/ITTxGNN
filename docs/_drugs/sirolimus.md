@@ -4,17 +4,17 @@ title: Sirolimus
 parent: Prove moderate (L3-L4)
 nav_order: 407
 evidence_level: L3
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L3). Indicazione originale: Carcinoma a cellule renali (inclusi carcinoma a cellule chiare e non…"
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+description: "Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Sirolimus: Dal carcinoma renale al liposarcoma
+## Sirolimus: Liposarcoma
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,12 +46,12 @@ Sirolimus è un inibitore di mTOR, indicato in origine per il carcinoma a cellul
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma a cellule renali (inclusi carcinoma a cellule chiare e non papillare) e linfangioleiomiomatosi (dalle indicazioni del grafo di conoscenza; i testi delle autorizzazioni AIFA non riportano indicazioni) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Liposarcoma |
-| Punteggio di predizione TxGNN | 99,89% |
+| Punteggio di predizione TxGNN | 0.9989 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 4 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold (mantenere in osservazione; domanda di ricerca) |
 
 ---
@@ -126,10 +126,10 @@ PEComa:
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035120070 | RAPAMUNE 100 cpr rivestite 1 mg | Compresse rivestite | Non riportata (autorizzazione revocata) |
-| 035120017 | RAPAMUNE soluzione orale 60 ml + 30 siringhe | Soluzione orale | Non riportata (autorizzazione revocata) |
-| 035120094 | RAPAMUNE 30 cpr rivestite 2 mg | Compresse rivestite | Non riportata (autorizzazione revocata) |
-| 035120120 | RAPAMUNE 100 cpr rivestite 0,5 mg | Compresse rivestite | Non riportata (autorizzazione revocata) |
+| 035120070 | RAPAMUNE 100 cpr rivestite 1 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 035120017 | RAPAMUNE soluzione orale 60 ml + 30 siringhe | Soluzione orale | Non riportata (autorizzazione valida) |
+| 035120094 | RAPAMUNE 30 cpr rivestite 2 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 035120120 | RAPAMUNE 100 cpr rivestite 0,5 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
 
 Tutte e 4 le autorizzazioni (titolare: Pfizer Europe MA EEIG) risultano revocate; non ve ne sono di valide.
 
@@ -158,7 +158,7 @@ Per le informazioni complete si rimanda al foglio illustrativo.
 - Estrarre i risultati del sottogruppo con liposarcoma dallo studio NCT02821507 e, se possibile, uno studio randomizzato o a braccio singolo con sirolimus in monoterapia.
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza).
-- Chiarire lo stato regolatorio in Italia, poiché tutte le autorizzazioni RAPAMUNE sono revocate.
+- Verificare lo stato regolatorio in Italia: il farmaco è in commercio e tutte e 4 le autorizzazioni RAPAMUNE risultano valide (4 su 4).
 - Estrapolare in una revisione successiva l'evidenza dei PEComa di altre sedi verso le sedi senza dati diretti.
 ## Avvertenza
 

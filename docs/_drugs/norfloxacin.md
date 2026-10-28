@@ -6,9 +6,9 @@ nav_order: 322
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (infezioni delle vie urinarie, febbre tifoide…"
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Norfloxacin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Norfloxacina: da infezioni batteriche a sindrome da iperviscosità policlonale
+## Norfloxacin: Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN le attribuisce un punteggio molto alto per la **sindrome da ipe
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche (infezioni delle vie urinarie, febbre tifoide, salmonellosi, dissenteria, malattie diarroiche, bronchite, polmonite batterica e altre) |
-| Nuova indicazione prevista | Sindrome da iperviscosità policlonale |
-| Punteggio di previsione TxGNN | 99,70% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) |
+| Punteggio di previsione TxGNN | 0.9970 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 3 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -61,21 +61,21 @@ Il modello TxGNN le attribuisce un punteggio molto alto per la **sindrome da ipe
 
 Dai dati compilati per questo report non sono attualmente disponibili informazioni dettagliate sul meccanismo d'azione. Per conoscenza generale, la norfloxacina inibisce la DNA girasi e la topoisomerasi IV batteriche, e la sua efficacia nelle infezioni batteriche (soprattutto urinarie e intestinali) è consolidata.
 
-**Non esiste un legame meccanicistico plausibile** con la sindrome da iperviscosità policlonale: il farmaco non ha alcun effetto noto sui livelli di immunoglobuline sieriche né sulla viscosità del sangue. L'alto punteggio TxGNN riflette una previsione basata su grafo della conoscenza, non una motivazione biologica o clinica.
+**Non esiste un legame meccanicistico plausibile** con la sindrome da iperviscosità policlonale: il farmaco non ha alcun effetto noto sui livelli di immunoglobuline sieriche né sulla viscosità del sangue.
 
 Anche le altre previsioni con punteggio elevato risultano deboli o prive di fondamento:
 
 | Rango | Malattia prevista | Punteggio | Livello | Valutazione |
 |---|---|---|---|---|
-| 2 | Iperamilasemia | 99,70% | L5 | Nessun meccanismo terapeutico; i fluorochinoloni sono rari cause di pancreatite, quindi il segnale è più di sicurezza che di beneficio |
-| 3 | Analbuminemia congenita | 99,67% | L5 | Nessun legame con la sintesi dell'albumina |
-| 4 | Incompatibilità di gruppo sanguigno | 99,55% | L5 | Nessuna azione immunomodulante rilevante |
-| 5 | Cheratocongiuntivite epiteliale puntata | 99,54% | L4 | Evidenza indiretta (2 serie di casi su cheratocongiuntivite microsporidica); il beneficio sembra derivare dal debridement meccanico, non dalla norfloxacina |
-| 6 | Malattia ematologica premaligna | 99,48% | L5 | Nessun legame identificato |
-| 7 | Sclerodermia diffusa | 99,44% | L5 | Nessun meccanismo; gli effetti avversi su tendini e tessuto connettivo suggeriscono cautela |
-| 8 | Gammopatia monoclonale | 99,42% | L4 | Un solo studio, su resistenza e profilassi antibatterica, non sul trattamento della gammopatia |
-| 9 | Malattia ematologica con neuropatia periferica acquisita | 99,38% | L5 | La neuropatia periferica è un effetto avverso dei fluorochinoloni: possibile problema di sicurezza |
-| 10 | Peste setticemica | 99,37% | L4 | Plausibile a livello di classe (fluorochinoloni attivi su *Yersinia pestis*), ma dati solo preclinici e non specifici per la norfloxacina; scarso assorbimento sistemico, inadatta alla setticemia |
+| 2 | Iperamilasemia | 0,9970 | L5 | Nessun meccanismo terapeutico; i fluorochinoloni sono rari cause di pancreatite, quindi il segnale è più di sicurezza che di beneficio |
+| 3 | Analbuminemia congenita | 0,9967 | L5 | Nessun legame con la sintesi dell'albumina |
+| 4 | Incompatibilità di gruppo sanguigno | 0,9955 | L5 | Nessuna azione immunomodulante rilevante |
+| 5 | Cheratocongiuntivite epiteliale puntata | 0,9954 | L4 | Evidenza indiretta (2 serie di casi su cheratocongiuntivite microsporidica); il beneficio sembra derivare dal debridement meccanico, non dalla norfloxacina |
+| 6 | Malattia ematologica premaligna | 0,9948 | L5 | Nessun legame identificato |
+| 7 | Sclerodermia diffusa | 0,9944 | L5 | Nessun meccanismo; gli effetti avversi su tendini e tessuto connettivo suggeriscono cautela |
+| 8 | Gammopatia monoclonale | 0,9942 | L4 | Un solo studio, su resistenza e profilassi antibatterica, non sul trattamento della gammopatia |
+| 9 | Malattia ematologica con neuropatia periferica acquisita | 0,9938 | L5 | La neuropatia periferica è un effetto avverso dei fluorochinoloni: possibile problema di sicurezza |
+| 10 | Peste setticemica | 0,9937 | L4 | Plausibile a livello di classe (fluorochinoloni attivi su *Yersinia pestis*), ma dati solo preclinici e non specifici per la norfloxacina; scarso assorbimento sistemico, inadatta alla setticemia |
 
 ---
 
@@ -121,7 +121,6 @@ Non applicabile: la norfloxacina è un antibatterico e non un farmaco antineopla
 
 I dati di sicurezza provengono dal grafo della conoscenza e non dal testo del foglio illustrativo.
 
-- **Controindicazioni/condizioni a rischio (da grafo della conoscenza)**: sindrome del QT lungo (anche familiare) e torsione di punta; insufficienza epatica, epatopatie, cirrosi e malattie della colecisti; epilessia; disturbi d'ansia, psicotici e altri disturbi mentali; malattia renale; trombocitopenia; carenza di potassio; tendinite e altre patologie tendinee/periarticolari; diabete mellito e chetoacidosi diabetica; neuropatia periferica; rabdomiolisi; anemia.
 - **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra le principali di gravità **maggiore** figurano corticosteroidi (idrocortisone, triamcinolone, desametasone, betametasone), bupropione e clorpropamide. Tra quelle di gravità moderata: antidiabetici (acarbosio, metformina, pioglitazone, alogliptin, albiglutide, canagliflozin), famotidina, loperamide, acido acetilsalicilico, balsalazide, bisacodile e sali di calcio o potassio.
 
 Per le avvertenze complete fare riferimento al foglio illustrativo.

@@ -46,10 +46,10 @@ L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (il testo delle indicazioni autorizzate è vuoto) |
 | Nuova indicazione predetta | Amenorrea |
-| Punteggio di predizione TxGNN | 99,18% |
+| Punteggio di predizione TxGNN | 0,9918 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -79,8 +79,8 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
 |---------|------|------|-----------|
-| 025851066 | COLPOGYN*20 ov vag 1 mg | Ovuli vaginali | Revocata |
-| 025851027 | COLPOGYN*crema vag 30 g 0,0125% + 6 applicatori | Crema vaginale | Revocata |
+| 025851066 | COLPOGYN*20 ov vag 1 mg | Ovuli vaginali | Valida |
+| 025851027 | COLPOGYN*crema vag 30 g 0,0125% + 6 applicatori | Crema vaginale | Valida |
 
 Titolare di entrambe: Angelini Pharma Italia SpA. Il testo delle indicazioni approvate non è disponibile.
 

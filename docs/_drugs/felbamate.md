@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Felbamate
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 192
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Felbamate: nuova indicazione prevista, Nevralgia del trigemino (prima prevista: tumore del nervo trigemino… (livello di evidenza L4). Indicazione originale: Epilessia, epilessia parziale…"
 monitor_inn: "Felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Felbamate
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-## Felbamato: Dall'epilessia alla nevralgia del trigemino
+## Felbamate: Tumore del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -41,18 +41,18 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 Il felbamato è un farmaco antiepilettico, originariamente impiegato nel trattamento dell'epilessia (comprese l'epilessia parziale e la sindrome di Lennox-Gastaut).
 Il modello TxGNN ne prevede una possibile efficacia nella **nevralgia del trigemino**, ma le evidenze a supporto sono molto limitate: **nessuno studio clinico registrato** e **4 pubblicazioni**, di cui solo una riguarda direttamente il farmaco in questa indicazione (un case report del 1995).
 
-Nota: l'indicazione con il punteggio più alto (0,996) è il «tumore del nervo trigemino», ma è priva di qualsiasi evidenza e di un plausibile meccanismo antitumorale. Questo report si concentra quindi sulla seconda indicazione prevista, la nevralgia del trigemino, clinicamente più sensata.
+Nota: l'indicazione con il punteggio più alto (0,9962) è il «tumore del nervo trigemino», ma è priva di qualsiasi evidenza e di un plausibile meccanismo antitumorale. Questo report si concentra quindi sulla seconda indicazione prevista, la nevralgia del trigemino, clinicamente più sensata.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia, epilessia parziale, sindrome di Lennox-Gastaut (dal grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione prevista | Nevralgia del trigemino (prima prevista: tumore del nervo trigemino, punteggio 99,62%, evidenza L5) |
-| Punteggio di previsione TxGNN | 99,18% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Tumore del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di previsione TxGNN | 0.9962 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -80,12 +80,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 030822011 | TALOXA sospensione orale 230 ml 600 mg/5 ml (ORGANON ITALIA Srl) | Sospensione orale | Non disponibile (autorizzazione revocata) |
-| 030822035 | TALOXA 40 compresse 600 mg (ORGANON ITALIA Srl) | Compresse | Non disponibile (autorizzazione revocata) |
+| 030822011 | TALOXA sospensione orale 230 ml 600 mg/5 ml (ORGANON ITALIA Srl) | Sospensione orale | Non disponibile (autorizzazione valida) |
+| 030822035 | TALOXA 40 compresse 600 mg (ORGANON ITALIA Srl) | Compresse | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni dal grafo di conoscenza** (non derivate dal foglietto illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, malattie epatiche e della colecisti, malattie renali, malattie ematologiche, anemia aplastica (idiopatica), porfirie, disturbi d'ansia, disturbi nevrotici, disturbo distimico, piureter.
+- **Controindicazioni** (non derivate dal foglietto illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, malattie epatiche e della colecisti, malattie renali, malattie ematologiche, anemia aplastica (idiopatica), porfirie, disturbi d'ansia, disturbi nevrotici, disturbo distimico, piureter.
 - **Rischi gravi noti dalla letteratura e dalle analisi disponibili**: anemia aplastica e insufficienza epatica; è inoltre documentato un caso di anafilassi ritardata (PMID 7633024).
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle di livello moderato figurano colecalciferolo, calcifediolo, calcitriolo, ergocalciferolo, aprepitant, rolapitant, morfina, oppio, naltrexone, naloxegol, metoclopramide, dronabinolo, nabilone, saxagliptin, linagliptin, repaglinide, eliglustat e nitisinone.
 

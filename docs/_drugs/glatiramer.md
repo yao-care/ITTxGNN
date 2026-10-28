@@ -46,10 +46,10 @@ Glatiramer (glatiramer acetato) è un immunomodulatore utilizzato nella sclerosi
 |------|------|
 | Indicazione originale | Non riportata nei dati compilati per questo report (le autorizzazioni AIFA non contengono il testo dell'indicazione) |
 | Nuova indicazione prevista | Emoglobinopatia |
-| Punteggio di previsione TxGNN | 99,03% |
+| Punteggio di previsione TxGNN | 0,9903 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è (poco) plausibile?
@@ -58,7 +58,7 @@ Il meccanismo d'azione originale non è disponibile nei dati compilati. In base 
 
 Le emoglobinopatie (ad esempio anemia falciforme e talassemie) sono causate da difetti nella struttura o nell'espressione dei geni della globina. Con i dati disponibili non emerge alcun ponte meccanicistico plausibile tra l'azione immunomodulatoria di glatiramer e la fisiopatologia di queste malattie.
 
-Il punteggio elevato di TxGNN è un risultato di un modello basato su grafi di conoscenza, non un'evidenza clinica. L'associazione è verosimilmente un artefatto della connettività del grafo, ad esempio tramite nodi condivisi legati al sistema immunitario o alla sclerosi multipla.
+Il punteggio elevato di TxGNN è un risultato del modello TxGNN (deep learning), non un'evidenza clinica. Il punteggio può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ## Evidenze da sperimentazioni cliniche
 

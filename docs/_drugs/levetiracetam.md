@@ -4,17 +4,17 @@ title: Levetiracetam
 parent: Solo previsione del modello (L5)
 nav_order: 263
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levetiracetam: nuova indicazione prevista, Stato epilettico (livello di evidenza L5). Indicazione originale: Epilessia parziale"
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Levetiracetam: Dall'epilessia parziale allo stato epilettico
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,11 +48,11 @@ Il levetiracetam è un farmaco antiepilettico, originariamente impiegato per l'e
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia parziale (dal grafo di conoscenza; nelle licenze AIFA il testo dell'indicazione non è disponibile) |
-| Nuova indicazione prevista | Stato epilettico (indicazione con l'evidenza più solida; rank 9 per punteggio TxGNN) |
-| Punteggio di predizione TxGNN | 99,91% (per lo stato epilettico); 99,98% per l'epilessia visiva, rank 1 |
-| Livello di evidenza | L1 (≥2 RCT di fase 3 completati) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Beta-ketothiolase deficiency |
+| Punteggio di predizione TxGNN | 0.9990 |
+| Livello di evidenza | L5 (≥2 RCT di fase 3 completati) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Proceed with Guardrails (per lo stato epilettico) |
 
@@ -104,15 +104,7 @@ Va precisato che lo studio ESETT ha mostrato un'efficacia **comparabile** tra le
 
 | Rank | Indicazione | Punteggio TxGNN | Evidenza | Raccomandazione | Nota |
 |------|------|------|------|------|------|
-| 1 | Epilessia visiva | 99,98% | L4 | Hold | Letteratura su crisi generali, non specifica |
-| 2 | Epilessia da sussulto (startle) | 99,96% | L3 | Research Question | Piccole serie e casi clinici a favore, nessun RCT |
-| 3 | Crisi audiogene | 99,96% | L3 | Research Question | Evidenza prevalentemente animale (incluso RCT veterinario nei gatti) |
-| 4 | Crisi da alimentazione | 99,96% | L4 | Hold | Solo evidenza indiretta |
-| 5 | Crisi da pensiero | 99,96% | L4 | Hold | Solo razionale antiepilettico generico |
-| 6 | Crisi da minzione | 99,96% | L4 | Hold | Solo evidenza indiretta |
-| 7 | Crisi da orgasmo | 99,96% | L5 | Hold | Nessuno studio |
-| 8 | Crisi da lettura | 99,94% | L4 | Hold | Casi clinici; un caso con seletracetam, altro farmaco |
-| 10 | Deficit di beta-chetotiolasi | 99,90% | L5 | Hold | Nessun legame meccanicistico; probabile artefatto di rete |
+| 10 | Deficit di beta-chetotiolasi | 0,9990 | L5 | Hold | Nessun legame meccanicistico; probabile artefatto di rete |
 
 ---
 

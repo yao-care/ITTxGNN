@@ -4,17 +4,17 @@ title: Vilanterol
 parent: Prove elevate (L1-L2)
 nav_order: 463
 evidence_level: L1
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Vilanterol: nuova indicazione prevista, Malattia polmonare ostruttiva (livello di evidenza L1). Indicazione originale: BPCO, asma, bronchite…"
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
+description: "Vilanterol: nuova indicazione prevista, Hyperlucent lung (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Vilanterol
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Vilanterolo: Da BPCO e asma a malattia polmonare ostruttiva
+## Vilanterol: Hyperlucent lung
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Si tratta però di una categoria che si sovrappone alle indicazioni già note (B
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | BPCO, asma, bronchite, enfisema polmonare (le autorizzazioni AIFA non riportano il testo dell'indicazione; l'informazione deriva dal grafo di conoscenza) |
-| Nuova indicazione predetta | Malattia polmonare ostruttiva |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Hyperlucent lung |
+| Punteggio di predizione TxGNN | 0.9972 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 8 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -108,7 +108,6 @@ Nota: altri studi presenti (ad esempio NCT04671355 e NCT01435902, ritirati con 0
 
 ## Informazioni sul mercato italiano
 
-Tutte le 8 autorizzazioni AIFA risultano revocate; il testo dell'indicazione approvata non è disponibile nei dati compilati.
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -135,7 +134,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Studi di fase 3 numerosi e ampi (tra cui IMPACT e FULFIL) sostengono l'efficacia delle associazioni contenenti vilanterolo nelle malattie polmonari ostruttive, quindi il livello di evidenza è L1. Tuttavia, la predizione coincide con le indicazioni già note e le prove riguardano associazioni a dose fissa, non il vilanterolo da solo; inoltre in Italia tutte le autorizzazioni risultano revocate.
+Studi di fase 3 numerosi e ampi (tra cui IMPACT e FULFIL) sostengono l'efficacia delle associazioni contenenti vilanterolo nelle malattie polmonari ostruttive, quindi il livello di evidenza è L1.
 
 **Per procedere è necessario:**
 - Verificare lo stato di mercato effettivo in Italia, dato che le associazioni sembrano ancora studiate e usate

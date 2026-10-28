@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Glulisine
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 243
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Insulin Glulisine: nuova indicazione prevista, Diabete mellito di tipo 1 (livello di evidenza L1). Indicazione originale: Diabete mellito"
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Glulisine: nuova indicazione prevista, Thiamine-responsive dysfunction syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Insulin Glulisine
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Insulina glulisina: dal diabete mellito al diabete mellito di tipo 1
+## Insulin Glulisine: Thiamine-responsive dysfunction syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ L'insulina glulisina è un analogo dell'insulina ad azione rapida, originariamen
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito; chetoacidosi diabetica (dal grafo di conoscenza TxGNN: il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Diabete mellito di tipo 1 |
-| Punteggio di predizione TxGNN | 99,55% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 3 (tutte revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Thiamine-responsive dysfunction syndrome |
+| Punteggio di predizione TxGNN | 0.9947 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?
@@ -96,9 +96,9 @@ Sono elencati i 10 studi più rilevanti (priorità a fase 3 e a studi comparativ
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036684013 | APIDRA 1 flaconcino SC 10 ml 100 U/ml (revocata) | Non disponibile | Non disponibile |
-| 036684088 | APIDRA 5 cartucce SC 3 ml 300 U (revocata) | Non disponibile | Non disponibile |
-| 036684328 | APIDRA SoloStar 5 penne preriempite SC 100 U/ml 3 ml (revocata) | Non disponibile | Non disponibile |
+| 036684013 | APIDRA 1 flaconcino SC 10 ml 100 U/ml (valida) | Non disponibile | Non disponibile |
+| 036684088 | APIDRA 5 cartucce SC 3 ml 300 U (valida) | Non disponibile | Non disponibile |
+| 036684328 | APIDRA SoloStar 5 penne preriempite SC 100 U/ml 3 ml (valida) | Non disponibile | Non disponibile |
 
 Titolare di tutte e tre le autorizzazioni: Sanofi Aventis Deutschland GmbH.
 

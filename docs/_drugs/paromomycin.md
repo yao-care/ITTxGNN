@@ -6,9 +6,9 @@ nav_order: 341
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Paromomycin: nuova indicazione prevista, Cirrosi associata al rame idiopatica (livello di evidenza L5). Indicazione originale: Coma epatico / encefalopatia epatica (dal grafo di conoscenza TxGNN"
 monitor_inn: "paromomycin"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
+description: "Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Paromomycin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Paromomicina: dall'encefalopatia epatica alla cirrosi associata al rame idiopatica
+## Paromomycin: Idiopathic copper-associated cirrhosis
 {: .text-alpha }
 
 ## Sintesi
@@ -44,19 +44,19 @@ La paromomicina è un antibiotico aminoglicosidico poco assorbito per via orale,
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Coma epatico / encefalopatia epatica (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Cirrosi associata al rame idiopatica |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Idiopathic copper-associated cirrhosis |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe essere ragionevole (o no)
 
 I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In generale, la paromomicina è un aminoglicoside con attività antibatterica e antiprotozoaria, scarsamente assorbito per via orale: nell'encefalopatia epatica riduce la carica batterica intestinale.
 
-Non emerge alcun legame meccanicistico diretto con la cirrosi associata al rame, che dipende dal metabolismo del rame e non da un processo antibiotico-sensibile. Il punteggio elevato (0,999) riflette probabilmente la vicinanza, nel grafo, a nodi di malattie epatiche condivise con l'indicazione originale, e non una plausibilità biologica dimostrata.
+Non emerge alcun legame meccanicistico diretto con la cirrosi associata al rame, che dipende dal metabolismo del rame e non da un processo antibiotico-sensibile.
 
 Lo stesso punteggio è attribuito ad altre quattro predizioni (trombosi portale primitiva, sindrome epatopolmonare, sclerosi epatoportale, ipertensione portale non cirrotica familiare a esordio precoce), tutte prive di studi e con razionale solo ipotetico o speculativo. Il punteggio, quindi, discrimina poco.
 
@@ -68,7 +68,7 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Attualmente non risulta letteratura correlata alla cirrosi associata al rame idiopatica.
 
-Per la predizione di rango 8, la **peritonite** (punteggio 99,03%), sono state recuperate 16 pubblicazioni, ma riguardano soprattutto la leishmaniosi (suscettibilità in vitro, resistenza, formulazioni, combinazioni) e l'amebiasi, non la peritonite. Si citano per trasparenza le più rilevanti:
+Per la predizione di rango 8, la **peritonite** (punteggio 0,9903), sono state recuperate 16 pubblicazioni, ma riguardano soprattutto la leishmaniosi (suscettibilità in vitro, resistenza, formulazioni, combinazioni) e l'amebiasi, non la peritonite. Si citano per trasparenza le più rilevanti:
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
@@ -86,8 +86,8 @@ Nessuna di queste pubblicazioni supporta un uso della paromomicina nella periton
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 020177010 | KAMAN*16 cps 250 mg (I.B.N. Savio Srl) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 016531016 | HUMATIN*16 cps 250 mg (Pfizer Italia Srl) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 020177010 | KAMAN*16 cps 250 mg (I.B.N. Savio Srl) | Non indicata | Non disponibile (autorizzazione valida) |
+| 016531016 | HUMATIN*16 cps 250 mg (Pfizer Italia Srl) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Metoclopramide
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 294
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Metoclopramide: nuova indicazione prevista, Ulcera gastrica (livello di evidenza L4). Indicazione originale: Malattia da reflusso gastroesofageo, esofagite…"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
+description: "Metoclopramide: nuova indicazione prevista, Gastroduodenitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Metoclopramide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-## Metoclopramide: dalla malattia da reflusso gastroesofageo all'ulcera gastrica
+## Metoclopramide: Gastroduodenitis
 {: .text-alpha }
 
 ## Sintesi
 
-La metoclopramide è un procinetico e antiemetico, nel grafo di conoscenza associato al trattamento della malattia da reflusso gastroesofageo, dell'esofagite e dell'esofagite peptica. Il modello TxGNN ne prevede un possibile impiego nell'**ulcera gastrica**, ma i dati compilati mostrano soltanto **1 studio clinico** (uso procedurale, non terapeutico) e una letteratura composta soprattutto da rassegne datate. Il supporto è quindi molto debole.
+Il modello TxGNN ne prevede un possibile impiego nell'**ulcera gastrica**, ma i dati compilati mostrano soltanto **1 studio clinico** (uso procedurale, non terapeutico) e una letteratura composta soprattutto da rassegne datate. Il supporto è quindi molto debole.
 
 ---
 
@@ -46,12 +46,12 @@ La metoclopramide è un procinetico e antiemetico, nel grafo di conoscenza assoc
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia da reflusso gastroesofageo, esofagite, esofagite peptica (dal grafo di conoscenza; i testi di indicazione AIFA non sono disponibili) |
-| Nuova indicazione prevista | Ulcera gastrica |
-| Punteggio di predizione TxGNN | 99,93% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Gastroduodenitis |
+| Punteggio di predizione TxGNN | 0.9990 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,6 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Il legame con l'ulcera gastrica è però **sintomatico e indiretto**: il farmaco può alleviare nausea, ritardato svuotamento e reflusso associati alla malattia ulcerosa, ma non favorisce la guarigione della mucosa né riduce la secrezione acida. Uno studio sperimentale sul ratto (PMID 2730234) ha mostrato un effetto protettivo in modelli di ulcera indotta, ma non è un dato clinico.
 
-Il punteggio TxGNN molto alto va quindi interpretato con cautela: riflette probabilmente la vicinanza nel grafo tra reflusso, esofagite e malattie peptiche, più che un reale effetto terapeutico sull'ulcera.
 
 Altre predizioni nella stessa area (gastroduodenite, ulcera peptica, ulcera gastrodigiunale) poggiano sullo stesso razionale procinetico. Per la **perforazione ulcerosa**, invece, non esiste alcun razionale terapeutico: è un'emergenza chirurgica in cui un procinetico non è indicato e potrebbe essere dannoso.
 
@@ -97,8 +96,8 @@ Altre predizioni nella stessa area (gastroduodenite, ulcera peptica, ulcera gast
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042091013 | Metoclopramide, 5 fiale IM EV 10 mg/2 ml (SALF SpA) | Fiale iniettabili | Non disponibile (autorizzazione cancellata) |
-| 020766010 | Plasil, 10 mg/2 ml soluzione iniettabile, 5 fiale (Sanofi Srl) | Soluzione iniettabile | Non disponibile (autorizzazione cancellata) |
+| 042091013 | Metoclopramide, 5 fiale IM EV 10 mg/2 ml (SALF SpA) | Fiale iniettabili | Non disponibile (autorizzazione valida) |
+| 020766010 | Plasil, 10 mg/2 ml soluzione iniettabile, 5 fiale (Sanofi Srl) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
 
 ---
 

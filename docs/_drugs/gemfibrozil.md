@@ -4,17 +4,17 @@ title: Gemfibrozil
 parent: Prove moderate (L3-L4)
 nav_order: 219
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L4). Indicazione originale: Ipertrigliceridemia (dal grafo di conoscenza TxGNN"
 monitor_inn: "GEMFIBROZIL"
-predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Gemfibrozil: dall'ipertrigliceridemia all'artrite reumatoide
+## Gemfibrozil: Artrite reumatoide (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il gemfibrozil è un fibrato (agonista di PPAR-alfa) utilizzato originariamente 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertrigliceridemia (dal grafo di conoscenza TxGNN; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione prevista | Artrite reumatoide |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Artrite reumatoide (rheumatoid arthritis) |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -87,11 +87,11 @@ Attualmente non risultano studi clinici registrati correlati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034080010 | GEMFIBROZIL 30 cpr 600 mg (DOC Generici) | Compresse | Non disponibile (cancellata) |
-| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (cancellata) |
-| 025445026 | LOPID 30 cpr rivestite 600 mg (Pfizer Italia) | Compresse rivestite | Non disponibile (cancellata) |
-| 034080022 | GEMFIBROZIL 20 cpr 900 mg (DOC Generici) | Compresse | Non disponibile (cancellata) |
-| 029512023 | GEMFIBROZIL 30 cpr 600 mg (EG) | Compresse | Non disponibile (cancellata) |
+| 034080010 | GEMFIBROZIL 30 cpr 600 mg (DOC Generici) | Compresse | Non disponibile (valida) |
+| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (valida) |
+| 025445026 | LOPID 30 cpr rivestite 600 mg (Pfizer Italia) | Compresse rivestite | Non disponibile (valida) |
+| 034080022 | GEMFIBROZIL 20 cpr 900 mg (DOC Generici) | Compresse | Non disponibile (valida) |
+| 029512023 | GEMFIBROZIL 30 cpr 600 mg (EG) | Compresse | Non disponibile (valida) |
 
 Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. Sono qui elencate le prime 5.
 

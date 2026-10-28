@@ -6,9 +6,9 @@ nav_order: 172
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (livello di evidenza L5). Indicazione originale: Embolia polmonare, coagulazione intravascolare diss…"
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
+description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency… (livello di evidenza L5). Indicazione originale: Non rip…"
 ---
 
 # Enoxaparin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Enoxaparina: dall'embolia polmonare alla trombofilia da deficit di proteina C (autosomico recessivo)
+## Enoxaparin: Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency, autosomal recessive)
 {: .text-alpha }
 
 ## Sintesi
@@ -44,11 +44,11 @@ L'enoxaparina è un'eparina a basso peso molecolare, associata nella base di con
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Embolia polmonare, coagulazione intravascolare disseminata, porpora fulminante, porpora fulminante acquisita (da archi di indicazione del grafo di conoscenza TxGNN/PrimeKG; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Trombofilia da deficit di proteina C, autosomico recessivo |
-| Punteggio di predizione TxGNN | 99,58% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency, autosomal recessive) |
+| Punteggio di predizione TxGNN | 0.9958 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -74,11 +74,11 @@ Tutte le 20 autorizzazioni risultano cancellate. Testo dell'indicazione e forma 
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 044040145 | ROVINADIL*10 siringhe preriempite 6.000 UI 0,6 ml | Laboratorios Farmaceut. Rovi SA | Cancellata |
-| 029111046 | CLEXANE T*2 siringhe SC 6.000 UI 0,6 ml | Sanofi Srl | Cancellata |
-| 045104369 | INHIXA*6 siringhe preriempite 4.000 UI 0,4 ml con copriago | Techdow Pharma Netherlands BV | Cancellata |
-| 044269393 | GHEMAXAN*10 siringhe preriempite 4.000 UI 0,4 ml | Chemi SpA | Cancellata |
-| 029111109 | CLEXANE T*10 siringhe SC 10.000 UI 1 ml | Sanofi Srl | Cancellata |
+| 044040145 | ROVINADIL*10 siringhe preriempite 6.000 UI 0,6 ml | Laboratorios Farmaceut. Rovi SA | Valida |
+| 029111046 | CLEXANE T*2 siringhe SC 6.000 UI 0,6 ml | Sanofi Srl | Valida |
+| 045104369 | INHIXA*6 siringhe preriempite 4.000 UI 0,4 ml con copriago | Techdow Pharma Netherlands BV | Valida |
+| 044269393 | GHEMAXAN*10 siringhe preriempite 4.000 UI 0,4 ml | Chemi SpA | Valida |
+| 029111109 | CLEXANE T*10 siringhe SC 10.000 UI 1 ml | Sanofi Srl | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -107,7 +107,7 @@ Interazioni di livello Moderato includono fenfluramina, destrofenfluramina, sibu
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione ha un punteggio molto alto (99,58%) e un razionale biologico plausibile, ma è puramente computazionale (livello L5), senza sperimentazioni né letteratura. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.
+La predizione ha un punteggio molto alto (0,9958) e un razionale biologico plausibile, ma è puramente computazionale (livello L5), senza sperimentazioni né letteratura. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Revisione della letteratura primaria e delle linee guida sul trattamento del deficit severo di proteina C, incluso il ruolo delle eparine a basso peso molecolare rispetto al concentrato di proteina C

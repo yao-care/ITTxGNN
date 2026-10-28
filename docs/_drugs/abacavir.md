@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Abacavir
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 11
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Abacavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L4). Indicazione originale: Infezione da HIV, AIDS"
 monitor_inn: "abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Abacavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L5). Indicazione originale: Non riportata n…"
 ---
 
 # Abacavir
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,88 +33,63 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Abacavir: Dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+## Abacavir: inibitore nucleosidico della trascrittasi inversa → infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Abacavir è un inibitore nucleosidico della trascrittasi inversa (NRTI), originariamente utilizzato per il trattamento dell'infezione da HIV e dell'AIDS.
-Il modello TxGNN prevede che possa essere efficace contro l'**infezione da virus dell'immunodeficienza delle scimmie (SIV)**.
-Il supporto è però limitato: **nessuno studio clinico** e **1 sola pubblicazione** in vitro, quindi si tratta di un'evidenza solo indiretta.
+Abacavir è un inibitore nucleosidico della trascrittasi inversa (NRTI), utilizzato contro l'infezione da HIV. Il modello TxGNN prevede una possibile efficacia nell'**infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection)**, con punteggio 0,9979. A sostegno di questa direzione esiste **1 pubblicazione** (studio di sensibilità in vitro) e **nessuna sperimentazione clinica** registrata.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione da HIV, AIDS |
-| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (SIV) |
-| Punteggio di predizione TxGNN | 99,79% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) |
+| Punteggio di predizione TxGNN | 0,9979 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | Non in commercio (nessuna autorizzazione registrata) |
+| Numero di autorizzazioni | 0 (valide: 0) |
 | Decisione raccomandata | Hold |
-
----
 
 ## Perché questa predizione è ragionevole?
 
-I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze disponibili, abacavir è un NRTI la cui efficacia nell'infezione da HIV-1 è nota, e dal punto di vista meccanicistico potrebbe essere applicabile anche al SIV.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, abacavir appartiene alla classe degli NRTI, attivi sulla trascrittasi inversa dell'HIV-1. Il virus SIV è un lentivirus strettamente correlato all'HIV, con una trascrittasi inversa simile, per cui un'attività crociata è plausibile dal punto di vista meccanicistico.
 
-Il SIV è un lentivirus strettamente imparentato con l'HIV e dotato di una trascrittasi inversa simile, per cui un'attività crociata è plausibile. L'unico studio disponibile (2004) è un confronto di sensibilità in vitro di HIV-2, SIV e SHIV a diversi composti anti-HIV-1: costituisce quindi un'evidenza solo indiretta.
+L'unico studio disponibile (2004) è un confronto di sensibilità in vitro di HIV-2, SIV e SHIV a diversi composti anti-HIV-1: costituisce un'evidenza indiretta e non uno studio che valuti specificamente abacavir sull'infezione da SIV. Inoltre, l'infezione da SIV è una malattia di modelli animali non umani e non un'indicazione clinica umana: l'alto punteggio riflette soprattutto la somiglianza biologica con l'HIV.
 
-Un punto importante: il SIV è una malattia di un modello animale non umano, non un'indicazione clinica umana. L'alto punteggio TxGNN riflette soprattutto la somiglianza biologica con l'HIV e non indica un'opportunità terapeutica nell'uomo.
+## Evidenze dalle sperimentazioni cliniche
 
-Le altre due predizioni di rango più alto sono ancora più deboli:
-- **AIDS felina (FIV)**: indicazione veterinaria; l'unico studio (PMID 11684314, 2002) è preclinico in vitro e valuta la combinazione zidovudina + lamivudina + abacavir, senza isolare il contributo del solo abacavir.
-- **Disturbo del neurosviluppo con andatura atassica, assenza di linguaggio e riduzione della sostanza bianca corticale**: nessuno studio clinico né letteratura e nessun legame meccanicistico plausibile; va considerata solo un'ipotesi del modello.
-
----
-
-## Evidenze da studi clinici
-
-Attualmente non risultano studi clinici correlati registrati.
-
----
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | Studio di sensibilità in vitro | Antiviral Therapy | Valutata l'attività antivirale di 16 farmaci approvati e di un farmaco sperimentale (AMD3100) contro isolati di HIV-2, ceppi di SIV e di SHIV |
-
----
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | Studio di sensibilità in vitro | Antiviral Therapy | Valutazione dell'attività di 16 farmaci approvati e di un farmaco sperimentale contro isolati di HIV-2, SIV e SHIV; evidenza indiretta |
 
 ## Informazioni sul mercato italiano
 
-Attualmente non risultano autorizzazioni registrate in Italia per questo principio attivo (stato: non commercializzato).
+Nei dati locali non risultano autorizzazioni; il farmaco risulta non commercializzato in Italia.
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+**Interazioni farmacologiche**: sono registrate 93 interazioni; tra quelle di livello moderato figurano naltrexone e orlistat. Per molte altre interazioni (ad es. metformina, morfina, omeprazolo, prednisone) il livello di gravità non è determinato.
 
-- **Controindicazioni potenziali (dal grafo di conoscenza, non da testo di scheda tecnica)**: il grafo di conoscenza segnala relazioni di controindicazione con insufficienza epatica, malattie epatiche e steatosi epatica (inclusa steatoepatite non alcolica), malattie renali, pancreatite, malattie della colecisti, miopatie e malattie muscolari (inclusi dermatomiosite e miosite), paralisi periodica familiare, neutropenia, agranulocitosi, anemia (inclusa anemia macrocitica), ipertrigliceridemia, obesità (inclusa obesità monogenica), acidosi lattica e piuretere.
-- **Interazioni farmacologiche**: sono registrate **93 interazioni**. Tra quelle di livello moderato figurano **naltrexone** e **orlistat**. Per molte altre (ad es. metformina, morfina, omeprazolo, pantoprazolo, prednisone, vancomicina, amfotericina B) il livello di gravità non è classificato.
-- **Ipersensibilità**: abacavir è noto per il rischio di ipersensibilità associato all'allele HLA-B*57:01, da considerare in qualsiasi nuova popolazione trattata.
+Per le avvertenze e le controindicazioni, consultare il foglio illustrativo.
 
-Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
-
----
-
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un solo studio in vitro indiretto, senza studi clinici. Il SIV è una malattia di modello animale, non un'indicazione umana, e il farmaco non è commercializzato in Italia.
+- Non esiste alcuno studio che esamini direttamente abacavir nell'infezione da SIV: l'unico lavoro è uno studio in vitro indiretto. L'indicazione riguarda inoltre un modello animale e non una malattia umana, con rilevanza limitata per il riposizionamento clinico.
 
-**Per procedere sarebbe necessario:**
-- Chiarire se esista una reale esigenza di ricerca (ad es. uso come strumento in modelli animali) anziché un'indicazione clinica umana
-- Reperire i dati sul meccanismo d'azione
-- Acquisire le avvertenze e le controindicazioni dal foglio illustrativo AIFA
-- Valutare lo stato autorizzativo in Italia, dato che non risultano licenze attive
-- Riesaminare le predizioni a punteggio elevato ma privo di evidenze (disturbo del neurosviluppo) solo se emergono dati di supporto
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione
+- Studi specifici su abacavir nell'infezione da SIV
+- Avvertenze e controindicazioni dal foglio illustrativo
+- Verifica della rilevanza dell'indicazione per l'uso umano
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -6,9 +6,9 @@ nav_order: 217
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (prima nella classifica TxGNN) (livello di evidenza L5). Indicazione originale: Malattia di Alzheimer (dalle relazioni del gr…"
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
+description: "Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Galantamine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-## Galantamina: Da Alzheimer a Disturbi del movimento ed extrapiramidali (con segnale su discinesia linguo-facio-buccale)
+## Galantamine: Disturbi del movimento psicogeni (psychogenic movement disorders)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,15 +46,15 @@ La galantamina è un inibitore dell'acetilcolinesterasi, originariamente usato p
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Alzheimer (dalle relazioni del grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Disturbi del movimento psicogeni (prima nella classifica TxGNN) |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbi del movimento psicogeni (psychogenic movement disorders) |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 (solo predizione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold (sospendere) |
 
-Nota: tra le altre predizioni, la discinesia linguo-facio-buccale (punteggio 99,88%) ha evidenza di livello L4 ed è classificata come "domanda di ricerca" da approfondire. Le altre otto predizioni sono L5 o L4 con raccomandazione Hold.
+Nota: tra le altre predizioni, la discinesia linguo-facio-buccale (punteggio 0,9988) ha evidenza di livello L4 ed è classificata come "domanda di ricerca" da approfondire. Le altre otto predizioni sono L5 o L4 con raccomandazione Hold.
 
 ---
 

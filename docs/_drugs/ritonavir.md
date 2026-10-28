@@ -6,9 +6,9 @@ nav_order: 384
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ritonavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L4). Indicazione originale: Infezione da HIV / AIDS"
 monitor_inn: "ritonavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Ritonavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L4). Indicazione originale: Non riportata …"
 ---
 
 # Ritonavir
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Ritonavir: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+## Ritonavir: Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il ritonavir è un inibitore della proteasi dell'HIV-1, originariamente utilizza
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione da HIV / AIDS; infezione cronica da virus dell'epatite C (dalle indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (SIV) |
-| Punteggio di predizione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -64,7 +64,6 @@ Il SIV possiede una proteasi strettamente correlata a quella dell'HIV. Studi in 
 
 Va però precisato che il SIV è un modello animale dell'HIV e non un'indicazione clinica umana. L'indicazione HIV è già coperta dall'uso originale del farmaco, quindi **non si tratta di una vera opportunità di riposizionamento**. Il punteggio elevato di TxGNN riflette soprattutto la somiglianza tra SIV e HIV.
 
-Per completezza, le altre due predizioni di rango più alto sono ancora più deboli: l'AIDS felina (veterinaria, nessuno studio) e un raro disturbo del neurosviluppo con atassia (nessun legame meccanicistico plausibile, probabile artefatto del grafo).
 
 ---
 
@@ -93,7 +92,7 @@ Al momento non risulta registrato alcuno studio clinico correlato.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 049853017 | PAXLOVID (20 cpr rivestite da 150 mg + 10 cpr rivestite da 100 mg) | Compresse rivestite | Non disponibile (autorizzazione cancellata; titolare: Pfizer Europe MA EEIG) |
+| 049853017 | PAXLOVID (20 cpr rivestite da 150 mg + 10 cpr rivestite da 100 mg) | Compresse rivestite | Non disponibile (autorizzazione valida; titolare: Pfizer Europe MA EEIG) |
 
 ---
 
@@ -103,7 +102,6 @@ Non sono disponibili avvertenze o controindicazioni da foglio illustrativo; si r
 
 I dati compilati includono tuttavia i seguenti elementi complementari:
 
-- **Condizioni associate a controindicazione nel grafo di conoscenza** (non derivano dal testo dell'etichetta): sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, disturbi della conduzione cardiaca, blocco atrioventricolare, cardiomiopatie, cardiopatia ischemica e coronaropatia; pancreatite, epatopatie e cirrosi, malattie della colecisti; iperglicemia, diabete mellito e chetoacidosi diabetica; ipertrigliceridemia e iperlipidemia familiare combinata; iperbilirubinemia e sindrome di Gilbert; gotta e iperuricemia; carenza di potassio; epatite B cronica; emofilia.
 - **Interazioni farmacologiche**: sono state rilevate 343 interazioni totali. Tra quelle mostrate, di livello **maggiore** figurano loperamide, triamcinolone e budesonide; di livello moderato, tra le altre, acarbose, idrocortisone, metformina, desametasone, claritromicina, bupropione, aprepitant e metronidazolo.
 
 ---

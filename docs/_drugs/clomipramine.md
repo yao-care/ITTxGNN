@@ -4,7 +4,7 @@ title: Clomipramine
 parent: Prove elevate (L1-L2)
 nav_order: 117
 evidence_level: L1
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Clomipramine: nuova indicazione prevista, Disturbo d'ansia (livello di evidenza L1). Indicazione originale: Disturbo ossessivo-compulsivo (il testo dell'indicazione autorizzata…"
 monitor_inn: "Clomipramine"
@@ -14,7 +14,7 @@ predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of in
 # Clomipramine
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ La clomipramina è un antidepressivo triciclico, originariamente usato per il di
 |------|------|
 | Indicazione originale | Disturbo ossessivo-compulsivo (il testo dell'indicazione autorizzata in Italia non è disponibile) |
 | Nuova indicazione prevista | Disturbo d'ansia |
-| Punteggio di predizione TxGNN | 99,93% |
+| Punteggio di predizione TxGNN | 0,9993 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -104,10 +104,10 @@ Nessuno di questi studi testa direttamente la clomipramina in un disturbo d'ansi
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021643046 | ANAFRANIL 20 cpr div 75 mg rilascio prolungato (cancellata) | Non disponibile | Non disponibile |
-| 021643034 | ANAFRANIL 5 fiale IM EV 25 mg 2 ml (cancellata) | Non disponibile | Non disponibile |
-| 021643010 | ANAFRANIL 20 cpr rivestite 25 mg (cancellata) | Non disponibile | Non disponibile |
-| 021643022 | ANAFRANIL 50 cpr rivestite 10 mg (cancellata) | Non disponibile | Non disponibile |
+| 021643046 | ANAFRANIL 20 cpr div 75 mg rilascio prolungato (valida) | Non disponibile | Non disponibile |
+| 021643034 | ANAFRANIL 5 fiale IM EV 25 mg 2 ml (valida) | Non disponibile | Non disponibile |
+| 021643010 | ANAFRANIL 20 cpr rivestite 25 mg (valida) | Non disponibile | Non disponibile |
+| 021643022 | ANAFRANIL 50 cpr rivestite 10 mg (valida) | Non disponibile | Non disponibile |
 
 Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamente autorizzati in Italia secondo i dati compilati.
 

@@ -4,17 +4,17 @@ title: Quinapril
 parent: Solo previsione del modello (L5)
 nav_order: 370
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Quinapril: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione (testo dell'indicazione autorizzata non disponibile nei…"
 monitor_inn: "QUINAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Quinapril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Quinapril
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Quinapril: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Quinapril: Malattia renale ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Quinapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), or
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione (testo dell'indicazione autorizzata non disponibile nei dati compilati; indicazione tratta dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di previsione TxGNN | 99,86% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di previsione TxGNN | 0.9986 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,9 +62,9 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In bas
 
 Nella nefropatia ipertensiva maligna, il danno vascolare e l'ipertensione glomerulare dipendono in parte dall'angiotensina II. Per questo il blocco del sistema renina-angiotensina è meccanicisticamente coerente. Va però sottolineato che questa indicazione è molto vicina a quella originale (l'ipertensione): si tratta più di un'estensione dell'uso esistente che di un vero riposizionamento.
 
-Anche per la seconda previsione, l'ipertensione renovascolare maligna (punteggio 99,86%), il razionale è coerente perché la malattia dipende fortemente dal sistema renina-angiotensina. Gli ACE-inibitori però comportano un rischio noto di peggioramento della funzione renale nella stenosi bilaterale dell'arteria renale, da valutare con attenzione.
+Anche per la seconda previsione, l'ipertensione renovascolare maligna (punteggio 0,9986), il razionale è coerente perché la malattia dipende fortemente dal sistema renina-angiotensina. Gli ACE-inibitori però comportano un rischio noto di peggioramento della funzione renale nella stenosi bilaterale dell'arteria renale, da valutare con attenzione.
 
-Tra le altre previsioni, l'unica con un minimo di supporto è l'ipertensione polmonare da malattia polmonare e/o ipossia (punteggio 99,85%, livello L4). Uno studio preclinico sull'animale del 1996 (PMID 8873672) mostra che quinapril ha ridotto l'ipertensione polmonare ipossica e il rimodellamento vascolare. Mancano studi sull'uomo. Per l'ipertensione polmonare ad eziologia multifattoriale non chiara e per la sindrome di Braddock il razionale meccanicistico è debole o non stabilito.
+Tra le altre previsioni, l'unica con un minimo di supporto è l'ipertensione polmonare da malattia polmonare e/o ipossia (punteggio 0,9985, livello L4). Uno studio preclinico sull'animale del 1996 (PMID 8873672) mostra che quinapril ha ridotto l'ipertensione polmonare ipossica e il rimodellamento vascolare. Mancano studi sull'uomo. Per l'ipertensione polmonare ad eziologia multifattoriale non chiara e per la sindrome di Braddock il razionale meccanicistico è debole o non stabilito.
 
 ---
 
@@ -89,12 +89,11 @@ Per l'indicazione principale (malattia renale ipertensiva maligna) non è dispon
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 027225010 | QUINAZIL 28 cpr rivestite div 5 mg (Malesci) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 027225034 | QUINAZIL 14 cpr rivestite div 20 mg (Malesci) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 037203229 | QUINAPRIL 14 cpr rivestite 20 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 027225010 | QUINAZIL 28 cpr rivestite div 5 mg (Malesci) | Non indicata | Non disponibile (autorizzazione valida) |
+| 027225034 | QUINAZIL 14 cpr rivestite div 20 mg (Malesci) | Non indicata | Non disponibile (autorizzazione valida) |
+| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione valida) |
+| 037203229 | QUINAPRIL 14 cpr rivestite 20 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
 
-Nessuna autorizzazione risulta attualmente valida.
 
 ---
 
@@ -113,7 +112,7 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio elevato (99,86%), ma l'evidenza è solo di livello L5: nessuno studio clinico né pubblicazione per l'indicazione principale. L'indicazione è inoltre molto vicina a quella originale, e tutte le autorizzazioni italiane risultano cancellate. Non è possibile procedere allo screening di sicurezza in assenza del foglio illustrativo.
+La previsione ha un punteggio elevato (0,9986), ma l'evidenza è solo di livello L5: nessuno studio clinico né pubblicazione per l'indicazione principale. L'indicazione è inoltre molto vicina a quella originale, e tutte le autorizzazioni italiane risultano cancellate. Non è possibile procedere allo screening di sicurezza in assenza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza

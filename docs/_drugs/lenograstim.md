@@ -47,25 +47,25 @@ Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** co
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (testo dell'indicazione assente nell'autorizzazione AIFA) |
 | Nuova indicazione prevista | Disturbo primario del rilascio piastrinico |
-| Punteggio di previsione TxGNN | 99,91% |
+| Punteggio di previsione TxGNN | 0,9991 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
 Dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. Lenograstim è un G-CSF ricombinante umano che agisce sulla linea granulocitaria tramite il recettore del G-CSF.
 
-I disturbi del rilascio piastrinico (difetti dei granuli di deposito o della secrezione) sono difetti qualitativi della funzione piastrinica. Non è stabilito alcun legame meccanicistico diretto con la via di segnalazione del G-CSF. L'alto punteggio TxGNN (0,999) deriva da una previsione basata sulla rete di conoscenza e non è supportato da dati biologici o clinici.
+I disturbi del rilascio piastrinico (difetti dei granuli di deposito o della secrezione) sono difetti qualitativi della funzione piastrinica. Non è stabilito alcun legame meccanicistico diretto con la via di segnalazione del G-CSF. L'alto punteggio TxGNN (0,9991) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche o cliniche.
 
 Altre previsioni del modello, tutte con livello di evidenza L5 e raccomandazione Hold:
 
 | Indicazione prevista | Punteggio TxGNN | Considerazione meccanicistica |
 |------|------|------|
-| Trombastenia di Glanzmann | 99,89% | Il difetto riguarda il recettore integrinico αIIbβ3 (GPIIb/IIIa); il G-CSF non agisce su questa via. Un ruolo di supporto nel trapianto di cellule staminali è solo speculativo. |
-| Pseudo-malattia di von Willebrand | 99,88% | Dovuta a una mutazione con guadagno di funzione di GPIbα; nessuna azione nota del G-CSF su GPIb-IX-V o sul VWF. |
-| Retinopatia diabetica non proliferativa grave | 99,61% | Link teorico tramite la mobilizzazione di progenitori endoteliali dal midollo osseo, ma il G-CSF potrebbe favorire infiammazione e neovascolarizzazione retinica, con possibili problemi di sicurezza. |
+| Trombastenia di Glanzmann | 0,9989 | Il difetto riguarda il recettore integrinico αIIbβ3 (GPIIb/IIIa); il G-CSF non agisce su questa via. Un ruolo di supporto nel trapianto di cellule staminali è solo speculativo. |
+| Pseudo-malattia di von Willebrand | 0,9988 | Dovuta a una mutazione con guadagno di funzione di GPIbα; nessuna azione nota del G-CSF su GPIb-IX-V o sul VWF. |
+| Retinopatia diabetica non proliferativa grave | 0,9961 | Link teorico tramite la mobilizzazione di progenitori endoteliali dal midollo osseo, ma il G-CSF potrebbe favorire infiammazione e neovascolarizzazione retinica, con possibili problemi di sicurezza. |
 
 ## Evidenze dagli studi clinici
 

@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Carteolol
-parent: Solo previsione del modello (L5)
+parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 90
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Carteolol: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Carteolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
+predicted_indications: []
 ---
 
 # Carteolol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **N/A** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,53 +32,54 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Carteololo: dall'ipertensione e glaucoma ad angolo aperto al glaucoma ereditario primario
+<!-- known-uses-page -->
+<!-- description: Carteolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata -->
+## Carteolol: Usi noti e stato di mercato in Italia
 {: .text-alpha }
 
-## Sintesi in una frase
-
-Il carteololo è un beta-bloccante non selettivo, utilizzato in origine per il glaucoma ad angolo aperto e l'ipertensione oculare (oltre che per l'ipertensione arteriosa, secondo la base di conoscenza del modello).
-Il modello TxGNN prevede che possa essere efficace per il **glaucoma ereditario primario**, ma al momento **non risultano studi clinici né pubblicazioni** a supporto di questa indicazione: la previsione si basa solo sul modello.
-
----
+## Riepilogo
+I candidati prodotti dal modello TxGNN per Carteolol (punteggio ≥ 0,99) sono tutti usi già noti. Al momento non c'è quindi alcuna nuova indicazione prevista. Le informazioni qui sotto servono solo a inquadrare gli usi noti e lo stato di mercato in Italia.
 
 ## Panoramica rapida
-
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Glaucoma ad angolo aperto, ipertensione oculare (e disturbi ipertensivi, secondo la base di conoscenza TxGNN); il testo autorizzativo AIFA non riporta l'indicazione |
-| Nuova indicazione prevista | Glaucoma ereditario primario |
-| Punteggio di predizione TxGNN | 99,92% |
-| Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 10 |
-| Decisione raccomandata | Hold |
+| Nuove indicazioni previste | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
+| Usi noti tra i candidati del modello | 0 |
+| Livello di evidenza | Non applicabile |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 
----
+## Usi noti tra i candidati del modello
 
-## Perché questa predizione è ragionevole?
+### Approvate (supportate da autorizzazione o foglio illustrativo)
+| Indicazione | Fonte |
+|------|------|
+| Nessuna | Nessuna |
 
-Il carteololo è un antagonista beta-adrenergico non selettivo con attività simpaticomimetica intrinseca. Riduce la pressione intraoculare (IOP) diminuendo la produzione di umore acqueo nel corpo ciliare, meccanismo alla base dell'uso approvato nel glaucoma ad angolo aperto e nell'ipertensione oculare. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione originale; quanto sopra deriva dalle conoscenze farmacologiche generali.
+### Correlate a un'indicazione approvata (stessa categoria di malattia)
+| Indicazione | Categoria approvata |
+|------|------|
+| Nessuna | Nessuna |
 
-Il glaucoma ereditario primario (ad esempio il glaucoma congenito primario o le forme legate a MYOC e CYP1B1) è anch'esso caratterizzato da pressione intraoculare elevata, per cui un meccanismo ipotensivo oculare è plausibilmente rilevante.
-
-Occorre però cautela. Il punteggio TxGNN molto alto (0,999) riflette con ogni probabilità la vicinanza nella rete di conoscenza alle indicazioni già approvate per il glaucoma, e non un'evidenza indipendente. Le forme ereditarie spesso comportano difetti strutturali delle vie di deflusso (disgenesia del trabecolato) e sono frequentemente trattate in modo chirurgico; i beta-bloccanti topici hanno in genere un ruolo di supporto. Nei pazienti pediatrici l'assorbimento sistemico dei beta-bloccanti pone ulteriori problemi di sicurezza (bradicardia, broncospasmo).
-
----
+### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+| Indicazione |
+|------|
+| Nessuna |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 10 autorizzazioni risultano cancellate: non vi sono prodotti a base di carteololo attualmente validi in Italia. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Autorizzazioni principali (collirio):
-
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 026057048 | CARTEOL collirio 30 monodosi 0,3 ml 20 mg/ml | SIFI SpA | Cancellata |
-| 038373027 | FORTINOL collirio 3 ml 2% rilascio prolungato | Bausch & Lomb-IOM SpA | Cancellata |
-| 038373015 | FORTINOL collirio 3 ml 1% rilascio prolungato | Bausch & Lomb-IOM SpA | Cancellata |
-| 026057024 | CARTEOL collirio 5 ml 20 mg/ml | SIFI SpA | Cancellata |
-| 039626027 | FORTIDOSE collirio 30 flaconcini 0,2 ml 1% rilascio prolungato | Bausch & Lomb-IOM SpA | Cancellata |
-
----
+| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+|------|------|------|------|
+| 026057048 | Carteololo |  | Valida |
+| 038373027 | Carteololo |  | Valida |
+| 038373015 | Carteololo |  | Valida |
+| 026057024 | Carteololo |  | Valida |
+| 039626027 | Carteololo |  | Valida |
+| 026057036 | Carteololo |  | Valida |
+| 037506019 | Carteololo |  | Valida |
+| 026057012 | Carteololo |  | Valida |
+| 039626039 | Carteololo |  | Valida |
+| 037506033 | Carteololo |  | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -89,19 +91,6 @@ I dati compilati non includono avvertenze e controindicazioni dal foglio illustr
 
 ---
 
-## Conclusione e prossimi passi
-
-**Decisione: Hold**
-
-**Motivazione:**
-La previsione si fonda esclusivamente sul modello (livello L5), senza studi clinici né letteratura a supporto. Tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza dal foglio illustrativo mancano, il che impedisce di procedere alla valutazione di sicurezza. Inoltre, la gestione del glaucoma ereditario è spesso chirurgica e il profilo di rischio in età pediatrica è critico.
-
-**Per procedere sono necessari:**
-- Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un vuoto di dati bloccante
-- Dati sul meccanismo d'azione dettagliato (ad esempio da DrugBank)
-- Revisione sistematica della letteratura e ricerca di studi clinici sui beta-bloccanti topici nel glaucoma ereditario/congenito
-- Valutazione della compatibilità di via di somministrazione e formulazione, e dello stato commerciale (nessuna autorizzazione valida in Italia)
-- Piano di monitoraggio della sicurezza per la popolazione pediatrica e per i pazienti con condizioni cardiorespiratorie o metaboliche
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

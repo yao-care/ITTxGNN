@@ -6,9 +6,9 @@ nav_order: 242
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 1 e di tipo 2 (indicazioni derivate dal grafo…"
 monitor_inn: "insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+description: "Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Insulin Glargine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Insulina glargine: dal diabete mellito all'ooforite autoimmune
+## Insulin Glargine: Ooforite autoimmune (autoimmune oophoritis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ L'insulina glargine è un'insulina basale ad azione prolungata, utilizzata origi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito di tipo 1 e di tipo 2 (indicazioni derivate dal grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata non è disponibile nei dati compilati) |
-| Nuova indicazione prevista | Ooforite autoimmune |
-| Punteggio di previsione TxGNN | 99,88% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ooforite autoimmune (autoimmune oophoritis) |
+| Punteggio di previsione TxGNN | 0.9988 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -84,7 +84,7 @@ A titolo indicativo, per la seconda previsione per evidenza (agenzia pancreatica
 | 035724121 | LANTUS 1 flaconcino SC 1.000 U 10 ml | n.d. | n.d. |
 | 043192347 | TOUJEO SOLOSTAR 3 penne preriempite SC 300 U/ml 1,5 ml | n.d. | n.d. |
 
-Tutte le 8 autorizzazioni risultano cancellate; nessuna è attualmente valida. Sono mostrate le prime 5.
+Sono mostrate le prime 5.
 
 ## Considerazioni sulla sicurezza
 

@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Asenapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare (episodi maniacali)"
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
+last_modified_at: 2026-10-27
+description: "Asenapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5). Indicazione originale: …"
 ---
 
 # Asenapine
@@ -33,79 +33,55 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Asenapina: dalla schizofrenia e dal disturbo bipolare alla distrofia retinica con o senza anomalie extraoculari
+## Asenapina: antipsicotico atipico ad azione multirecettoriale (serotonina, dopamina, istamina) → Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-L'asenapina è un antipsicotico atipico sublinguale, usato per schizofrenia e episodi maniacali o misti del disturbo bipolare. Il modello TxGNN prevede che possa essere efficace per la **distrofia retinica con o senza anomalie extraoculari**, ma questa previsione è puramente computazionale: **nessuno studio clinico** e **nessuna pubblicazione** la sostengono.
+L'asenapina è un antipsicotico atipico ad azione multirecettoriale, in commercio in Italia come compresse sublinguali. Il modello TxGNN la indica come potenzialmente utile per la **distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)**, con un punteggio di 0,9977. Per questa indicazione non risultano **né studi clinici né pubblicazioni**: si tratta di una previsione puramente computazionale.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare (episodi maniacali) |
-| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari |
-| Punteggio di predizione TxGNN | 99,77% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
+| Punteggio di predizione TxGNN | 0,9977 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
-| Decisione raccomandata | Hold |
+| Stato sul mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
+| Decisione raccomandata | Hold (sospendere) |
 
-L'indicazione originale deriva dal grafo di conoscenza usato dal modello. I testi autorizzativi italiani non riportano un'indicazione approvata.
+## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non riportano un meccanismo d'azione dettagliato. Dai dati di farmacologia disponibili, l'asenapina si lega a diversi recettori della serotonina (5-HT1A, 1B, 1D, 1E, 2A), al recettore della dopamina D2 e al recettore dell'istamina H1. Questo profilo spiega la sua attività sul sistema nervoso centrale.
 
-I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione dell'asenapina. Dai dati di farmacologia emerge che il farmaco si lega a diversi recettori: serotoninergici (5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A), dopaminergico D2 e istaminico H1. Questo profilo è tipico di un antipsicotico atipico ed è coerente con l'uso in schizofrenia e mania bipolare.
-
-Non è invece stabilito alcun legame meccanicistico con le distrofie retiniche ereditarie. Non risulta nessun percorso noto che colleghi l'azione su questi recettori alla degenerazione dei fotorecettori o alle cause genetiche di queste malattie. Il punteggio elevato (0,998) riflette quindi probabilmente la vicinanza nella rete di conoscenza, non una motivazione farmacologica. Va considerato un segnale esplorativo e non un'ipotesi terapeutica fondata.
+Non è invece stato individuato alcun legame meccanicistico con le distrofie retiniche ereditarie, che sono malattie su base genetica della struttura e della funzione della retina. Nei dati disponibili nulla collega la farmacologia recettoriale dell'asenapina ai percorsi coinvolti in queste patologie. Il punteggio elevato va quindi letto come un segnale statistico del modello, non come una motivazione farmacologica.
 
 ## Evidenze da studi clinici
 
-Attualmente non risulta alcuno studio clinico registrato correlato a questa indicazione.
+Al momento non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
-Attualmente non risulta alcuna letteratura correlata a questa indicazione.
-
-## Informazioni sul mercato italiano
-
-| N. autorizzazione | Prodotto | Forma farmaceutica | Titolare | Stato |
-|---------|------|------|------|------|
-| 040761025 | SYCREST 60 cpr sublinguali 5 mg | Compresse sublinguali | ORGANON N.V. | Cancellata |
-| 040761052 | SYCREST 60 cpr sublinguali 10 mg | Compresse sublinguali | ORGANON N.V. | Cancellata |
-
-Nessuna autorizzazione risulta attualmente valida in Italia.
+Al momento non sono disponibili pubblicazioni correlate.
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni derivate dal grafo di conoscenza** (non dal testo del foglio illustrativo): il grafo associa all'asenapina una controindicazione per le condizioni seguenti, raggruppate per area.
-  - Cardiovascolari: sindrome del QT lungo (anche familiare), torsione di punta, ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, infarto miocardico, cardiopatia ischemica e coronaropatia, trombosi coronarica.
-  - Cerebrovascolari: ictus, malattie cerebrovascolari, infarto cerebrale.
-  - Ematologiche: neutropenia (inclusa la neutropenia congenita grave e la forma ciclica), agranulocitosi, leucopenia, emoglobinopatie.
-  - Metaboliche: diabete mellito, iperglicemia, chetoacidosi diabetica, obesità (anche monogenica), carenza di potassio.
-  - Neurologiche: epilessia, atrofia multisistemica, sindrome neurolettica maligna.
-  - Epatiche: insufficienza epatica.
-- **Interazioni**: i sette elementi di interazione disponibili sono bersagli recettoriali (5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, D2, H1), non interazioni farmacologiche con altri medicinali. Un elenco delle interazioni farmacologiche cliniche non è disponibile.
-- **Letteratura sulla sicurezza**: studi sulla classe degli antipsicotici segnalano sonnolenza (PMID 27372312), acatisia e rischio di interazioni con gli antidepressivi (PMID 24494611).
+Per le informazioni di sicurezza (avvertenze, controindicazioni, interazioni) si rimanda al foglio illustrativo del medicinale. I dati compilati per questo report non contengono testo di etichetta verificato su questi aspetti.
 
-Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio illustrativo.
-
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione per la distrofia retinica si basa solo sul modello, senza studi clinici, letteratura o legame meccanicistico plausibile (livello L5).
-- Il farmaco non ha autorizzazioni valide in Italia e il profilo di controindicazioni è ampio.
+- La previsione si basa solo sul modello, senza studi clinici, pubblicazioni o un'ipotesi meccanicistica plausibile. Il livello di evidenza è L5.
 
-**Per procedere sono necessari:**
-- Dati sul meccanismo d'azione e un'analisi del possibile legame con le vie patogenetiche delle distrofie retiniche.
-- Evidenze precliniche (modelli cellulari o animali) a sostegno della nuova indicazione.
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per qualsiasi valutazione di sicurezza.
-- Verifica della disponibilità del prodotto e dello stato regolatorio, dato che tutte le autorizzazioni italiane sono cancellate.
-
-**Nota:** tra le altre previsioni, quella per il "disturbo affettivo maggiore" (punteggio 99,57%) coincide di fatto con un'indicazione già nota, gli episodi maniacali o misti del disturbo bipolare I. È sostenuta da una meta-analisi di studi randomizzati (PMID 23719049) e da diverse revisioni. Non rappresenta quindi un vero riposizionamento.
+**Per procedere sarebbe necessario:**
+- Un'ipotesi biologica che colleghi l'azione recettoriale dell'asenapina alla fisiopatologia della distrofia retinica, ad esempio con studi preclinici.
+- Una revisione sistematica della letteratura sulla specifica malattia.
+- Il recupero del foglio illustrativo AIFA per completare la valutazione di sicurezza.
+- La conferma dello stato di commercializzazione e della disponibilità del prodotto in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Isoniazid
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 245
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isoniazid: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Tubercolosi polmonare (dal grafo di conoscenza TxGNN"
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
+description: "Isoniazid: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Isoniazide: dalla tubercolosi polmonare alla congiuntivite
+## Isoniazid: Congiuntivite (conjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ L'isoniazide è un farmaco antitubercolare, originariamente utilizzato per il tr
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Tubercolosi polmonare (dal grafo di conoscenza TxGNN; nelle autorizzazioni italiane il testo dell'indicazione non è disponibile) |
-| Nuova indicazione prevista | Congiuntivite |
-| Punteggio di predizione TxGNN | 99,36% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Congiuntivite (conjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9936 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ I dati sul meccanismo d'azione dell'isoniazide non sono al momento disponibili. 
 
 Il legame plausibile riguarda esclusivamente le patologie oculari correlate a *Mycobacterium tuberculosis*: la cheratocongiuntivite flittenulare (una reazione di ipersensibilità agli antigeni tubercolari) e la rara tubercolosi congiuntivale primaria. In questi casi l'isoniazide agisce trattando o prevenendo l'infezione micobatterica o la sensibilizzazione sottostante, **non** trattando la congiuntivite in generale.
 
-Uno studio del 1965 sulla profilassi con isoniazide in una popolazione ad alta incidenza di tubercolosi (Alaska) suggerisce una possibile riduzione della cheratocongiuntivite flittenulare. Il punteggio TxGNN elevato (0,994) resta una predizione del modello, non corroborata da dati di studi clinici.
+Uno studio del 1965 sulla profilassi con isoniazide in una popolazione ad alta incidenza di tubercolosi (Alaska) suggerisce una possibile riduzione della cheratocongiuntivite flittenulare. Il punteggio TxGNN elevato (0,9936) resta una predizione del modello, non corroborata da dati di studi clinici.
 
 ---
 
@@ -93,10 +93,10 @@ Gli altri lavori reperiti (tossicità epidermica necrolitica, poliartrite post-B
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 006455036 | NICOZID*50 cpr 200 mg | Compresse | Non disponibile (autorizzazione cancellata) |
-| 006455051 | NICOZID*5 fiale IM EV 500 mg 5 ml | Fiale | Non disponibile (autorizzazione cancellata) |
-| 025377033 | RIFINAH*24 cpr rivestite 300 mg + 150 mg | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 026981011 | RIFATER*40 cpr rivestite 50 mg + 300 mg + 120 mg | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 006455036 | NICOZID*50 cpr 200 mg | Compresse | Non disponibile (autorizzazione valida) |
+| 006455051 | NICOZID*5 fiale IM EV 500 mg 5 ml | Fiale | Non disponibile (autorizzazione valida) |
+| 025377033 | RIFINAH*24 cpr rivestite 300 mg + 150 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 026981011 | RIFATER*40 cpr rivestite 50 mg + 300 mg + 120 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ---
 

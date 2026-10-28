@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Deferasirox
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 136
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Deferasirox: nuova indicazione prevista, Infezione da HIV (livello di evidenza L4). Indicazione originale: Talassemia beta ed emoglobinopatie (dal grafo di conoscenza TxGNN"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-27
+description: "Deferasirox: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,94 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-## Deferasirox: Dall'indicazione originale (talassemia beta / emoglobinopatia) all'infezione da HIV
+## Deferasirox: chelante del ferro → Infezione da HIV (HIV infectious disease)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Deferasirox è un chelante del ferro, originariamente associato a talassemia beta ed emoglobinopatie.
-Il modello TxGNN prevede che possa essere efficace per l'**infezione da HIV**,
-ma il supporto attuale è limitato a **0 studi clinici** e **2 pubblicazioni** (una sola con dati mirati, di tipo preclinico).
+Il deferasirox è un chelante del ferro. Il modello TxGNN lo indica come possibile candidato per l'**infezione da HIV (HIV infectious disease)**. Per questa direzione non risultano sperimentazioni cliniche registrate; sono disponibili **2 pubblicazioni**, di cui una sola di tipo meccanicistico preclinico, quindi il supporto è molto limitato.
+
+---
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Talassemia beta ed emoglobinopatie (dal grafo di conoscenza TxGNN; nelle autorizzazioni AIFA il testo dell'indicazione non è disponibile) |
-| Nuova indicazione prevista | Infezione da HIV |
-| Punteggio di predizione TxGNN | 99,40% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
+| Punteggio di predizione TxGNN | 0,9940 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
-## Perché questa previsione è ragionevole?
+---
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, deferasirox è un chelante del ferro, la sua azione sul sovraccarico di ferro è collegata alle indicazioni originali (talassemia beta ed emoglobinopatie), e a livello meccanicistico potrebbe essere rilevante per l'HIV tramite l'omeostasi del ferro.
+## Perché questa predizione è ragionevole?
 
-Uno studio preclinico del 2021 (PMID 34550543) indica che il ferro negli endolisosomi limita la transattivazione della LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat e l'espressione di β-catenina. Questo collega il ferro alla trascrizione di HIV-1, ma si tratta di evidenza indiretta: non dimostra un'efficacia antivirale di deferasirox, e la chelazione del ferro potrebbe alterare questa via in entrambe le direzioni. L'altra pubblicazione è una panoramica generale di nuovi farmaci, senza dati specifici sull'HIV.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Il deferasirox è un chelante del ferro e, sul piano meccanicistico, un'azione sull'omeostasi del ferro potrebbe incidere sulla biologia dell'HIV.
 
-La previsione resta quindi un'ipotesi di ricerca, non un'indicazione supportata da dati clinici.
+Uno studio preclinico del 2021 (PMID 34550543) descrive che il ferro endolisosomiale limita la transattivazione del LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat. Questo collega il metabolismo del ferro alla trascrizione virale, ma è un'evidenza indiretta: non dimostra che il deferasirox abbia un'efficacia antivirale, e la chelazione del ferro potrebbe plausibilmente modificare questa via in entrambe le direzioni.
 
-## Evidenze da studi clinici
+Poiché nessuno studio citato esamina direttamente il deferasirox nell'infezione da HIV, il livello di evidenza resta L5, basato sulla sola predizione del modello.
 
-Attualmente non risultano studi clinici correlati registrati.
+---
+
+## Evidenze da sperimentazioni cliniche
+
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
+
+---
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Studio preclinico/in vitro meccanicistico | Journal of neurovirology | Il ferro endolisosomiale limita la transattivazione della LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat e l'espressione di β-catenina |
-| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Review | Journal of the American Pharmacists Association | Panoramica di nuovi farmaci (ramelteon, tipranavir, nepafenac, deferasirox); nessun dato specifico su HIV e deferasirox |
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Studio preclinico/meccanicistico in vitro | Journal of neurovirology | Il ferro endolisosomiale limita la transattivazione del LTR di HIV-1 mediata da Tat, aumentando l'oligomerizzazione di Tat e l'espressione di β-catenina |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Revisione | Journal of the American Pharmacists Association | Panoramica generale dei nuovi farmaci (incluso il deferasirox), senza dati specifici sull'HIV |
+
+---
 
 ## Informazioni sul mercato italiano
 
+Nei dati locali risultano 20 autorizzazioni a medicinali a base di solo deferasirox (il elenco potrebbe essere parziale). Il testo dell'indicazione approvata non è registrato nei dati locali. Principali autorizzazioni:
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 037421118 | EXJADE 30 cpr rivestite 90 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 037421144 | EXJADE 30 cpr rivestite 180 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 037421171 | EXJADE 30 cpr rivestite 360 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 049404015 | Deferasirox 30 cpr rivestite 90 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 048432025 | Deferasirox 30x1 cpr rivestite 90 mg (Accord Healthcare) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 037421118 | EXJADE 30 cpr rivestite 90 mg | Compresse rivestite | Non registrata |
+| 037421144 | EXJADE 30 cpr rivestite 180 mg | Compresse rivestite | Non registrata |
+| 037421171 | EXJADE 30 cpr rivestite 360 mg | Compresse rivestite | Non registrata |
+| 049404015 | DEFERASIROX 30 cpr rivestite 90 mg (Sandoz) | Compresse rivestite | Non registrata |
+| 048730055 | DEFERASIROX 30 cpr rivestite 360 mg (Abdi Farma) | Compresse rivestite | Non registrata |
 
-Sono elencate 5 delle 20 autorizzazioni, tutte cancellate; nessuna risulta attualmente valida.
+---
 
 ## Considerazioni sulla sicurezza
 
-Non sono disponibili avvertenze e controindicazioni dal foglio illustrativo; si rimanda al foglio illustrativo per le informazioni di sicurezza.
+**Interazioni farmacologiche** (100 interazioni complessive rilevate; tra quelle di livello maggiore):
+- Idrocortisone, desametasone, betametasone, triamcinolone (corticosteroidi)
+- Amfotericina B (incluse le formulazioni lipidica, colesterilsolfato e liposomiale)
+- Acido acetilsalicilico
+- Mesalazina e balsalazide
 
-- **Controindicazioni segnalate dal grafo di conoscenza** (non dal testo dell'etichetta): insufficienza epatica, malattia epatica, cirrosi, malattia renale e funzione renale ridotta, trombocitopenia, neutropenia (incluse le forme congenite), agranulocitosi, anemia, iperbilirubinemia, sindrome di Gilbert, ulcera peptica attiva, ipertensione oculare, sindrome da disfunzione multiorgano e cancro.
-- **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra quelle di livello **maggiore** figurano corticosteroidi (idrocortisone, desametasone, betametasone, triamcinolone), amfotericina B (incluse le formulazioni lipidiche e liposomiali), mesalazina, balsalazide e acido acetilsalicilico. Tra quelle di livello **moderato**: rabeprazolo, pioglitazone, alosetron, aprepitant, claritromicina, saxagliptin, idrossido di alluminio, cisapride e dexfenfluramina.
+Tra quelle di livello moderato: rabeprazolo, pioglitazone, alosetron, aprepitant, claritromicina, saxagliptin, idrossido di alluminio, cisapride, dexfenfluramina.
 
-## Conclusione e prossimi passi
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
+
+---
+
+## Conclusione e passi successivi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'HIV non esistono studi clinici e l'unico dato mirato è preclinico e indiretto. Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza è delicato (rischio epatico, renale ed ematologico, numerose interazioni maggiori). Per ora la previsione resta una domanda di ricerca.
+Non esistono sperimentazioni cliniche né studi che valutino direttamente il deferasirox nell'infezione da HIV; l'unico studio pertinente è preclinico e indiretto, con direzione dell'effetto incerta. La predizione resta una questione di ricerca.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Studi in vitro che testino direttamente il deferasirox sulla replicazione dell'HIV-1
+- Dati sul meccanismo d'azione del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Studi in vitro e in vivo che verifichino l'effetto di deferasirox sulla replicazione di HIV-1 e sulla via Tat/LTR
-- Chiarimento sulle ragioni della cancellazione delle autorizzazioni e sulla disponibilità del farmaco in Italia
-- Valutazione del rapporto rischio/beneficio in persone con HIV, considerando tossicità epatica, renale ed ematologica e le interazioni farmacologiche
+- Valutazione delle interazioni con i farmaci antiretrovirali
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

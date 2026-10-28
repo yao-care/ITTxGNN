@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clarithromycin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 111
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Clarithromycin: nuova indicazione prevista, Iperamilasemia (livello di evidenza L4). Indicazione originale: Infezioni batteriche delle vie respiratorie e altre infezioni (otite…"
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
+last_modified_at: 2026-10-27
+description: "Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Clarithromycin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,88 +33,78 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-## Claritromicina: Dalle infezioni batteriche delle vie respiratorie all'iperamilasemia
+## Claritromicina: macrolide antibiotico → iperamilasemia (hyperamylasemia)
 {: .text-alpha }
 
-## Riepilogo in una frase
+## Sintesi
 
-La claritromicina è un antibiotico macrolide, originariamente utilizzato per il trattamento di infezioni batteriche (otite media, polmonite, sinusite mascellare, infezioni da streptococco e stafilococco). Il modello TxGNN prevede che possa essere efficace per l'**iperamilasemia**, ma questa direzione è sostenuta da **nessuno studio clinico** e da **una sola pubblicazione** (un caso clinico), nella quale l'iperamilasemia sembra un reperto concomitante e non un bersaglio terapeutico.
-
----
+La claritromicina è un antibiotico macrolide, utilizzato nelle infezioni batteriche delle vie respiratorie e di altri distretti.
+Il modello TxGNN prevede una possibile efficacia per l'**iperamilasemia (hyperamylasemia)**,
+ma al momento non risultano sperimentazioni cliniche registrate e la letteratura si limita a **1 case report**, che non dimostra un effetto terapeutico.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche delle vie respiratorie e altre infezioni (otite media infettiva, polmonite batterica, sinusite mascellare, infezioni da streptococco e stafilococco, polmonite da Mycoplasma e da Chlamydia) |
-| Nuova indicazione prevista | Iperamilasemia |
-| Punteggio di predizione TxGNN | 99,35% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
-| Decisione raccomandata | Hold (sospendere) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Iperamilasemia (hyperamylasemia) |
+| Punteggio di predizione TxGNN | 0,9935 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati disponibili non riportano il meccanismo d'azione dettagliato. La claritromicina appartiene alla classe dei macrolidi, che inibiscono la sintesi proteica batterica; hanno inoltre un'attività immunomodulante e antinfiammatoria nota.
 
-I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, la claritromicina è un macrolide con efficacia dimostrata nelle infezioni respiratorie e possiede anche attività immunomodulatoria e antinfiammatoria.
+Non è stato individuato alcun meccanismo consolidato che colleghi la claritromicina al trattamento dell'iperamilasemia. L'unica pubblicazione trovata descrive un caso di infezione polmonare da *Mycobacterium abscessus* associata a macroamilasemia primaria: in quel contesto l'antibiotico è verosimilmente un trattamento dell'infezione e l'aumento dell'amilasi è un reperto concomitante, non un bersaglio terapeutico. Il punteggio elevato è dunque un risultato del modello, non supportato da evidenze cliniche.
 
-Per l'iperamilasemia, tuttavia, **non è noto alcun meccanismo che colleghi la claritromicina al trattamento di questa condizione**. L'unica pubblicazione individuata (2004) descrive un caso di infezione polmonare da *Mycobacterium abscessus* con macroamilasemia primaria: la claritromicina vi compare verosimilmente come antimicobatterico, mentre l'iperamilasemia è un reperto incidentale o un evento avverso. Il punteggio molto alto di TxGNN (0,993) è un risultato del modello, non supportato da evidenze cliniche.
+## Evidenze dalle sperimentazioni cliniche
 
-Tra le altre predizioni, l'unica biologicamente plausibile è la **cheratocongiuntivite epiteliale puntata** (punteggio 99,11%), perché i macrolidi hanno effetti antinfiammatori e di modulazione delle ghiandole di Meibomio. Anche qui l'evidenza è solo indiretta.
-
----
-
-## Evidenze da studi clinici
-
-Attualmente non risulta registrato alcuno studio clinico correlato.
-
----
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [15228140](https://pubmed.ncbi.nlm.nih.gov/15228140/) | 2004 | Caso clinico | Nihon Kokyuki Gakkai zasshi | Caso di infezione polmonare da *M. abscessus* in un uomo di 76 anni, complicata da macroamilasemia primaria; l'iperamilasemia non è un bersaglio terapeutico |
+| [15228140](https://pubmed.ncbi.nlm.nih.gov/15228140/) | 2004 | Case report | Nihon Kokyuki Gakkai zasshi | Caso di infezione polmonare da *M. abscessus* in un uomo di 76 anni, complicata da macroamilasemia primaria; non dimostra un effetto della claritromicina sull'iperamilasemia |
 
----
+Nessuno degli studi citati indaga direttamente l'iperamilasemia come bersaglio terapeutico della claritromicina.
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 038887028 | CLARITROL 14 cpr rivestite 500 mg | Compresse rivestite | Non disponibile |
-| 027530056 | MACLADIN 12 cpr rivestite 250 mg | Compresse rivestite | Non disponibile |
-| 038889022 | KRUKLAR 14 cpr rivestite 500 mg | Compresse rivestite | Non disponibile |
-| 037559212 | CLARITROMICINA 14 cpr rivestite 500 mg (Teva Italia) | Compresse rivestite | Non disponibile |
-| 027529130 | VECLAM RM 7 cpr rivestite 500 mg rilascio modificato | Compresse a rilascio modificato | Non disponibile |
+| 038887028 | CLARITROL 14 cpr rivestite 500 mg | Non indicata | Non registrata nei dati locali |
+| 027530056 | MACLADIN 12 cpr rivestite 250 mg | Non indicata | Non registrata nei dati locali |
+| 038889022 | KRUKLAR 14 cpr rivestite 500 mg | Non indicata | Non registrata nei dati locali |
+| 037559212 | CLARITROMICINA 14 cpr rivestite 500 mg (Teva Italia) | Non indicata | Non registrata nei dati locali |
+| 037720036 | CLARITROMICINA 12 cpr rivestite 250 mg (Sandoz) | Non indicata | Non registrata nei dati locali |
 
-Tutte le 20 autorizzazioni risultano cancellate; sono qui elencate le prime 5.
-
----
+L'elenco è parziale: i dati locali contengono altre autorizzazioni non riportate qui.
 
 ## Considerazioni sulla sicurezza
 
-Nei dati compilati per questo report non sono disponibili avvertenze o controindicazioni tratte dal foglietto illustrativo; si rimanda quindi al foglietto illustrativo.
+- **Interazioni farmacologiche** (alcune tra quelle rilevate; il totale segnalato è di 100):
+  - Gravi (Major): abemaciclib, fentanil, acalabrutinib
+  - Moderate: paclitaxel, tramadolo, nifedipina, famotidina, formoterolo, adenosina, afatinib, etinilestradiolo, idrocortisone, abirone/abiraterone, acarbosio, flunisolide, trastuzumab emtansine
+  - Minori: dolutegravir, zidovudina, loratadina
 
-- **Controindicazioni (da grafo di conoscenza, non da etichetta)**: sindrome del QT lungo, torsione di punta, tachicardia ventricolare, insufficienza epatica e altre malattie epatiche, colestasi, porfiria, malattie renali, malattie della colecisti, miastenia grave e malattie della giunzione neuromuscolare, colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, osteoporosi e fratture ossee, mononucleosi infettiva.
-- **Interazioni farmacologiche**: individuate 100 interazioni; tra quelle di gravità **maggiore** figurano **abemaciclib**, **fentanil** e **acalabrutinib**. Tra quelle di gravità moderata: paclitaxel, tramadolo, famotidina, formoterolo, nifedipina, adenosina, trastuzumab emtansine, flunisolide, afatinib, etinilestradiolo, idrocortisone e abiraterone. Tra quelle minori: dolutegravir, zidovudina e loratadina.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo, non disponibile nei dati compilati per questo report.
 
----
-
-## Conclusione e passi successivi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'iperamilasemia si basa solo sul modello TxGNN: non ci sono studi clinici, l'unica pubblicazione è un caso clinico in cui l'iperamilasemia non è il bersaglio del trattamento, e non esiste un meccanismo plausibile. Inoltre tutte le autorizzazioni italiane sono cancellate.
+Non esistono studi che indaghino direttamente l'iperamilasemia come indicazione della claritromicina; l'unica pubblicazione è un case report in cui l'aumento dell'amilasi è un reperto concomitante. La predizione resta quindi basata solo sul modello (L5).
 
 **Per procedere sarebbe necessario:**
-- Dati sul meccanismo d'azione (MOA) della claritromicina
-- Foglietto illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
-- Verifica dello stato di commercializzazione e delle vie di somministrazione disponibili
-- Valutazione di candidati alternativi più plausibili, in particolare la cheratocongiuntivite epiteliale puntata (in cui va verificato se lo studio PMID 38472959 abbia riguardato specificamente la claritromicina)
+- Verificare se esista una relazione fisiopatologica plausibile tra claritromicina e iperamilasemia (anche come possibile evento avverso)
+- Reperire i dati sul meccanismo d'azione
+- Acquisire dal foglio illustrativo AIFA avvertenze e controindicazioni
+- Condurre studi osservazionali o preclinici che valutino direttamente questa indicazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

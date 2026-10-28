@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Quetiapine
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 369
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari – punteggio 99… (livello di evidenza L5). Indicazione originale: Disturbo bipolare, disturbo affettivo mag…"
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
+description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5… (livello di evidenza L4). Indicazione originale: Non riportata nei dati lo…"
 ---
 
 # Quetiapine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Quetiapina: dal disturbo bipolare e dalla schizofrenia alla tricotillomania
+## Quetiapine: Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5, **Hold (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -42,7 +42,7 @@ La quetiapina è un antipsicotico atipico, originariamente utilizzato per il dis
 Il modello TxGNN la indica come potenzialmente utile per diverse nuove indicazioni; tra queste, la più rilevante dal punto di vista delle evidenze è la **tricotillomania**, sostenuta da **6 pubblicazioni** (soprattutto casi clinici e revisioni) e **nessuna sperimentazione clinica** registrata.
 Il livello di evidenza è basso: la predizione con il punteggio più alto (distrofia retinica) non ha alcun supporto nei dati compilati.
 
-> **Nota metodologica:** la predizione al primo posto per punteggio, la *distrofia retinica con o senza anomalie extraoculari* (99,57%), non dispone di alcuna evidenza clinica né bibliografica e non ha un legame meccanicistico plausibile. Per questo il report si concentra sulla tricotillomania (posizione 8, punteggio 99,38%), l'unica indicazione predetta con letteratura a supporto tra le prime 10.
+> **Nota metodologica:** la predizione al primo posto per punteggio, la *distrofia retinica con o senza anomalie extraoculari* (0,9957), non dispone di alcuna evidenza clinica né bibliografica e non ha un legame meccanicistico plausibile. Per questo il report si concentra sulla tricotillomania (posizione 8, punteggio 0,9938), l'unica indicazione predetta con letteratura a supporto tra le prime 10.
 
 ---
 
@@ -50,11 +50,11 @@ Il livello di evidenza è basso: la predizione con il punteggio più alto (distr
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo bipolare, disturbo affettivo maggiore, mania bipolare, schizofrenia (dal grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione predetta (primo posto per punteggio) | Distrofia retinica con o senza anomalie extraoculari – punteggio 99,57%, livello L5, **Hold** |
-| Nuova indicazione con maggiori evidenze | Tricotillomania – punteggio 99,38%, livello L4 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta (primo posto per punteggio) | Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5, **Hold (retinal dystrophy with or without extraocular anomalies) |
+| Nuova indicazione con maggiori evidenze | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
 | Livello di evidenza | L4 (tricotillomania); L5 per le altre nove predizioni |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Hold (per la predizione top-1); tricotillomania: domanda di ricerca da approfondire |
 
@@ -66,7 +66,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla 
 
 **Tricotillomania.** È un comportamento ripetitivo focalizzato sul corpo, appartenente allo spettro ossessivo-compulsivo. Gli antipsicotici atipici sono impiegati come terapia aggiuntiva in condizioni di questo spettro, attraverso la modulazione serotoninergica (5-HT2A) e dopaminergica (D2). Il legame è plausibile ma non dimostrato: la letteratura comprende resoconti di singoli casi, mentre mancano dati da studi controllati. Va notato che esiste anche una segnalazione di quetiapina che ha peggiorato sintomi ossessivo-compulsivi.
 
-**Altre predizioni.** Per le restanti nove predizioni (distrofia retinica, difetto congenito della glicosilazione, idranencefalia, sindrome da microdelezione 17p13.3, polimicrogiria, miopia X-linked e sindromica, Charcot-Marie-Tooth 1G) non emerge alcun legame meccanicistico plausibile con la farmacologia recettoriale della quetiapina. Si tratta probabilmente di artefatti del grafo di conoscenza: punteggi alti senza studi né pubblicazioni.
+**Altre predizioni.** Per le restanti nove predizioni (distrofia retinica, difetto congenito della glicosilazione, idranencefalia, sindrome da microdelezione 17p13.3, polimicrogiria, miopia X-linked e sindromica, Charcot-Marie-Tooth 1G) non emerge alcun legame meccanicistico plausibile con la farmacologia recettoriale della quetiapina. I punteggi elevati provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche: non ci sono studi né pubblicazioni a sostegno.
 
 ---
 
@@ -95,11 +95,11 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni appr
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 032944151 | SEROQUEL 60 cpr 400 mg rilascio prolungato | Cheplapharm Arzneimittel GmbH | Cancellata |
-| 041195823 | QUENTIAX 60 cpr 400 mg rilascio prolungato | KRKA d.d. Novo Mesto | Cancellata |
-| 042175024 | QUETAMED 30 cpr rivestite 25 mg | Fairmed Healthcare GmbH | Cancellata |
-| 046412110 | XETAMED 30 cpr rivestite 25 mg | Neuraxpharm Italy SpA | Cancellata |
-| 040510683 | QUETIAPINA 60 cpr rivestite 200 mg | Teva Italia Srl | Cancellata |
+| 032944151 | SEROQUEL 60 cpr 400 mg rilascio prolungato | Cheplapharm Arzneimittel GmbH | Valida |
+| 041195823 | QUENTIAX 60 cpr 400 mg rilascio prolungato | KRKA d.d. Novo Mesto | Valida |
+| 042175024 | QUETAMED 30 cpr rivestite 25 mg | Fairmed Healthcare GmbH | Valida |
+| 046412110 | XETAMED 30 cpr rivestite 25 mg | Neuraxpharm Italy SpA | Valida |
+| 040510683 | QUETIAPINA 60 cpr rivestite 200 mg | Teva Italia Srl | Valida |
 
 ---
 

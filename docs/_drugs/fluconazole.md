@@ -6,9 +6,9 @@ nav_order: 201
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fluconazole: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Candidosi (orale, vulvovaginale, esofagea, sistemica)…"
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Fluconazole: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
 # Fluconazole
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Fluconazolo: Dalla candidosi alla cheratocongiuntivite epiteliale puntata
+## Fluconazole: Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,11 +44,11 @@ Il fluconazolo è un antimicotico azolico, originariamente utilizzato per le can
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Candidosi (orale, vulvovaginale, esofagea, sistemica), meningite criptococcica |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di previsione TxGNN | 99,24% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di previsione TxGNN | 0.9924 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -56,7 +56,7 @@ Il fluconazolo è un antimicotico azolico, originariamente utilizzato per le can
 
 I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il fluconazolo è un antimicotico triazolico che inibisce l'enzima CYP51 e quindi la sintesi dell'ergosterolo nella membrana fungina. La sua efficacia nelle candidosi e nella meningite criptococcica è consolidata.
 
-Un legame plausibile ma non verificato potrebbe essere l'attività antimicotica contro componenti fungine di patologie della superficie oculare. Tuttavia la cheratocongiuntivite epiteliale puntata è più spesso di origine virale (ad esempio adenovirus) o non infettiva (occhio secco, danno tossico o da farmaci). Il meccanismo antimicotico potrebbe quindi non essere applicabile alla maggior parte dei casi. Il collegamento resta speculativo e poggia unicamente su una previsione basata su grafo di conoscenza.
+Un legame plausibile ma non verificato potrebbe essere l'attività antimicotica contro componenti fungine di patologie della superficie oculare. Tuttavia la cheratocongiuntivite epiteliale puntata è più spesso di origine virale (ad esempio adenovirus) o non infettiva (occhio secco, danno tossico o da farmaci). Il meccanismo antimicotico potrebbe quindi non essere applicabile alla maggior parte dei casi. Il collegamento resta speculativo e poggia unicamente su una previsione del modello TxGNN (apprendimento profondo).
 
 Non sono inoltre disponibili dati sulla compatibilità delle vie di somministrazione (ad esempio formulazioni oftalmiche) rispetto alle capsule orali oggi note.
 
@@ -70,15 +70,15 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni individuate risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Esempi di autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Esempi di autorizzazioni:
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 027267020 | DIFLUCAN 2 cps 150 mg | Pfizer Italia Srl | Cancellata |
-| 027267095 | DIFLUCAN 7 cps 200 mg | Pfizer Italia Srl | Cancellata |
-| 037380298 | FLUCONAZOLO 2 cps 150 mg | Sandoz SpA | Cancellata |
-| 038646016 | FLUCONAZOLO 10 cps 100 mg | Mylan SpA | Cancellata |
-| 027268097 | ELAZOR 7 cps 200 mg | Alfasigma SpA | Cancellata |
+| 027267020 | DIFLUCAN 2 cps 150 mg | Pfizer Italia Srl | Valida |
+| 027267095 | DIFLUCAN 7 cps 200 mg | Pfizer Italia Srl | Valida |
+| 037380298 | FLUCONAZOLO 2 cps 150 mg | Sandoz SpA | Valida |
+| 038646016 | FLUCONAZOLO 10 cps 100 mg | Mylan SpA | Valida |
+| 027268097 | ELAZOR 7 cps 200 mg | Alfasigma SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 

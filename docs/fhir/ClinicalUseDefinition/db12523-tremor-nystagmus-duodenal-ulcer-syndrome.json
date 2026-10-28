@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db12523-tremor-nystagmus-duodenal-ulcer-syndrome",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db12523"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "tremor-nystagmus-duodenal ulcer syndrome"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://ittxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://ittxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9969
+    }
+  ]
+}

@@ -4,17 +4,17 @@ title: Gimeracil
 parent: Prove elevate (L1-L2)
 nav_order: 220
 evidence_level: L1
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Gimeracil: nuova indicazione prevista, Neoplasia del colon (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (dal grafo di conoscenza"
 monitor_inn: "gimeracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+description: "Gimeracil: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Gimeracil: dal carcinoma gastrico alla neoplasia del colon
+## Gimeracil: Neoplasia del colon (colonic neoplasm)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Il gimeracil è un componente dell'associazione S-1 (tegafur/gimeracil/oteracil)
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma gastrico (dal grafo di conoscenza; il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Neoplasia del colon |
-| Punteggio di predizione TxGNN | 99,88% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neoplasia del colon (colonic neoplasm) |
+| Punteggio di predizione TxGNN | 0.9988 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?
@@ -88,8 +88,8 @@ Un limite importante: le prove cliniche riguardano il prodotto di associazione S
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042291017 | TEYSUNO 42 cps 15 mg + 4,35 mg + 11,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione cancellata) |
-| 042291031 | TEYSUNO 42 cps 20 mg + 5,8 mg + 15,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 042291017 | TEYSUNO 42 cps 15 mg + 4,35 mg + 11,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione valida) |
+| 042291031 | TEYSUNO 42 cps 20 mg + 5,8 mg + 15,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Citotossicità
 

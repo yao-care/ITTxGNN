@@ -4,7 +4,7 @@ title: Zonisamide
 parent: Solo previsione del modello (L5)
 nav_order: 471
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Zonisamide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Epilessia (crisi parziali)"
 monitor_inn: "ZONISAMIDE"
@@ -14,7 +14,7 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 # Zonisamide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ## Sintesi in una frase
 
-Lo zonisamide è un farmaco antiepilettico, autorizzato in Italia per l'epilessia (crisi parziali), ma tutte le autorizzazioni risultano oggi annullate. Il modello TxGNN lo indica come possibile candidato per la **sindrome di Tourette** (punteggio 99,85%), ma per questa indicazione non sono stati trovati **studi clinici né pubblicazioni** a supporto: la previsione resta puramente teorica.
+Lo zonisamide è un farmaco antiepilettico, autorizzato in Italia per l'epilessia (crisi parziali) e attualmente in commercio, con 9 autorizzazioni valide su 9. Il modello TxGNN (deep learning) lo indica come possibile candidato per la **sindrome di Tourette** (punteggio 0,9985), ma per questa indicazione non sono stati trovati **studi clinici né pubblicazioni** a supporto: la previsione resta puramente teorica.
 
 ---
 
@@ -48,10 +48,10 @@ Lo zonisamide è un farmaco antiepilettico, autorizzato in Italia per l'epilessi
 |------|------|
 | Indicazione originale | Epilessia (crisi parziali); il testo dell'indicazione non è riportato nelle autorizzazioni compilate |
 | Nuova indicazione prevista | Sindrome di Tourette |
-| Punteggio di previsione TxGNN | 99,85% |
+| Punteggio di previsione TxGNN | 0,9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 9 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Il legame, però, è debole e solo ipotetico. Una revisione pubblicata (PMID 36005856) indica che i farmaci antiepilettici possono addirittura **indurre** disturbi da tic e disturbo ossessivo-compulsivo: questo suggerisce cautela e non è un argomento a favore dell'uso.
 
-Il punteggio elevato del modello riflette la vicinanza nel grafo di conoscenza, non prove cliniche.
+Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non prove biologiche né cliniche.
 
 ---
 
@@ -84,11 +84,10 @@ Il modello ha prodotto altre previsioni con punteggi simili. Nessuna ha evidenza
 
 | Indicazione prevista | Punteggio | Livello | Osservazioni |
 |------|------|------|------|
-| Assenze epilettiche (absence epilepsy) | 99,24% | L3 | Razionale meccanicistico più solido (blocco dei canali T-type); studi piccoli o non controllati ([PMID 24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/), [PMID 15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/): 23 pazienti su 45 liberi da assenze in una revisione di cartelle cliniche). È un'estensione del tipo di crisi più che una nuova area terapeutica |
-| Disturbo bipolare maniacale | 99,35% | L4 | Solo studio pilota open-label nella depressione bipolare ([PMID 17163811](https://pubmed.ncbi.nlm.nih.gov/17163811/)); segnalato un caso di mania indotta dal farmaco ([PMID 2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/)) |
-| Fibromialgia | 99,20% | L5 | Unico studio ([NCT00259636](https://clinicaltrials.gov/study/NCT00259636), fase 4) ritirato con 0 partecipanti |
-| Tricotillomania, angina di Prinzmetal, congiuntivite | 99,16–99,78% | L5 | Nessuna evidenza; link meccanicistico solo speculativo |
-| Metemoglobinemia (e forme correlate) | 99,52–99,64% | L5 | Nessun legame meccanicistico plausibile; probabile artefatto del grafo di conoscenza |
+| Disturbo bipolare maniacale | 0,9935 | L4 | Solo studio pilota open-label nella depressione bipolare ([PMID 17163811](https://pubmed.ncbi.nlm.nih.gov/17163811/)); segnalato un caso di mania indotta dal farmaco ([PMID 2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/)) |
+| Fibromialgia | 0,9920 | L5 | Unico studio ([NCT00259636](https://clinicaltrials.gov/study/NCT00259636), fase 4) ritirato con 0 partecipanti |
+| Tricotillomania, angina di Prinzmetal, congiuntivite | 99,16–0,9978 | L5 | Nessuna evidenza; link meccanicistico solo speculativo |
+| Metemoglobinemia (e forme correlate) | 0,9953–0,9964 | L5 | Nessun legame meccanicistico plausibile; il punteggio del modello TxGNN (deep learning) può riflettere somiglianze apprese tra malattie correlate, non evidenza biologica |
 
 ---
 
@@ -96,11 +95,11 @@ Il modello ha prodotto altre previsioni con punteggi simili. Nessuna ha evidenza
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Titolare |
 |---------|------|------|-----------|-----------|
-| 036959017 | ZONEGRAN 14 cps 25 mg | Capsule | Annullata | AMDIPHARM LTD |
-| 036959094 | ZONEGRAN 28 cps 50 mg | Capsule | Annullata | AMDIPHARM LTD |
-| 036959043 | ZONEGRAN 56 cps 100 mg | Capsule | Annullata | AMDIPHARM LTD |
-| 044231013 | ZONISAMIDE 14 cps 25 mg | Capsule | Annullata | DOC GENERICI Srl |
-| 044836070 | ZONISAMIDE 28 cps 50 mg | Capsule | Annullata | VIATRIS LIMITED |
+| 036959017 | ZONEGRAN 14 cps 25 mg | Capsule | Valida | AMDIPHARM LTD |
+| 036959094 | ZONEGRAN 28 cps 50 mg | Capsule | Valida | AMDIPHARM LTD |
+| 036959043 | ZONEGRAN 56 cps 100 mg | Capsule | Valida | AMDIPHARM LTD |
+| 044231013 | ZONISAMIDE 14 cps 25 mg | Capsule | Valida | DOC GENERICI Srl |
+| 044836070 | ZONISAMIDE 28 cps 50 mg | Capsule | Valida | VIATRIS LIMITED |
 
 Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate). Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
@@ -131,7 +130,7 @@ Per la sindrome di Tourette in particolare, resta il segnale di cautela sui tic 
 **Decisione: Hold**
 
 **Motivazione:**
-Per la sindrome di Tourette esiste solo una previsione del modello (L5), senza studi clinici né letteratura, e la letteratura disponibile indica un possibile rischio di tic indotti da antiepilettici. Inoltre, tutte le autorizzazioni italiane sono annullate, e i dati di sicurezza ufficiali mancano.
+Per la sindrome di Tourette esiste solo una previsione del modello (L5), senza studi clinici né letteratura, e la letteratura disponibile indica un possibile rischio di tic indotti da antiepilettici. Inoltre, il medicinale è in commercio in Italia con 9 autorizzazioni valide su 9, e i dati di sicurezza ufficiali mancano.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza

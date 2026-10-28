@@ -6,9 +6,9 @@ nav_order: 438
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (livello di evidenza L5). Indicazione originale: Carcinoma del colon-retto (neoplasia maligna del colon)"
 monitor_inn: "tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
+description: "Tipiracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tipiracil
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tipiracil: Dal carcinoma del colon-retto all'adenoma villoso del cieco
+## Tipiracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ ma al momento **non sono presenti studi clinici né pubblicazioni** a supporto d
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma del colon-retto (neoplasia maligna del colon); il testo dell'indicazione autorizzata non è riportato nei dati compilati per questo report |
-| Nuova indicazione prevista | Adenoma villoso del cieco |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cecum villous adenoma |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 4 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -62,7 +62,7 @@ ma al momento **non sono presenti studi clinici né pubblicazioni** a supporto d
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, tipiracil è un componente dell'associazione con la trifluridina; agisce come inibitore della timidina fosforilasi, che previene la degradazione della trifluridina e ne aumenta l'esposizione. La sua efficacia nel carcinoma del colon-retto è documentata, ma da solo non possiede attività citotossica diretta.
 
-Il legame con l'adenoma villoso del cieco si basa soprattutto sulla vicinanza tissutale: si tratta di una lesione benigna dello stesso tratto intestinale in cui l'associazione è usata per la malattia maligna. Non esistono tuttavia studi o dati mirati che indichino un beneficio in una lesione benigna, e la similarità con l'indicazione originale non è stata valutata. Il punteggio elevato riflette probabilmente la prossimità nel grafo di conoscenza, non un'evidenza biologica o clinica.
+Il legame con l'adenoma villoso del cieco si basa soprattutto sulla vicinanza tissutale: si tratta di una lesione benigna dello stesso tratto intestinale in cui l'associazione è usata per la malattia maligna. Non esistono tuttavia studi o dati mirati che indichino un beneficio in una lesione benigna, e la similarità con l'indicazione originale non è stata valutata.
 
 Anche le altre nove predizioni di vertice (per esempio lipoma del colon, neoplasia della giunzione retto-sigmoidea, tumore neuroendocrino G1 del cieco, tumore stromale gastrointestinale colorettale) restano a livello L5 o L4 e, nel complesso, hanno un razionale meccanicistico debole. La neoplasia della giunzione retto-sigmoidea è verosimilmente già coperta dall'indicazione per il carcinoma colorettale, quindi non rappresenta un vero riposizionamento.
 
@@ -84,12 +84,12 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044856019 | LONSURF 20 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Annullata |
-| 044856033 | LONSURF 60 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Annullata |
-| 044856045 | LONSURF 20 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Annullata |
-| 044856060 | LONSURF 60 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Annullata |
+| 044856019 | LONSURF 20 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Valida |
+| 044856033 | LONSURF 60 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Valida |
+| 044856045 | LONSURF 20 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
+| 044856060 | LONSURF 60 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
 
-Tutte e quattro le autorizzazioni risultano annullate; nessuna è attualmente valida. Nei dati compilati non sono riportati il testo dell'indicazione approvata (la colonna indica quindi lo stato dell'autorizzazione) né la forma farmaceutica; la forma «compresse rivestite» è desunta dal nome del prodotto.
+Nei dati compilati non sono riportati il testo dell'indicazione approvata (la colonna indica quindi lo stato dell'autorizzazione) né la forma farmaceutica; la forma «compresse rivestite» è desunta dal nome del prodotto.
 
 ---
 
@@ -134,7 +134,7 @@ Per avvertenze e controindicazioni, fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'adenoma villoso del cieco si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre, tutte le autorizzazioni italiane risultano annullate e mancano i dati sul meccanismo d'azione e sulla sicurezza da foglietto illustrativo.
+La predizione per l'adenoma villoso del cieco si basa solo sul modello (livello L5), senza studi clinici né letteratura.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

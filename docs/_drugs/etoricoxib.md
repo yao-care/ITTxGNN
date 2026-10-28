@@ -4,17 +4,17 @@ title: Etoricoxib
 parent: Solo previsione del modello (L5)
 nav_order: 184
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Etoricoxib: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati"
 monitor_inn: "ETORICOXIB"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Etoricoxib
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Etoricoxib è un inibitore selettivo della COX-2, utilizzato in ambito infiammat
 |------|------|
 | Indicazione originale | Non disponibile nei dati AIFA compilati; da fonti farmacologiche: artrite reumatoide, artrosi, lombalgia cronica, spondilite anchilosante, dolore acuto, gotta |
 | Nuova indicazione prevista | Emicrania (migraine disorder) |
-| Punteggio di predizione TxGNN | 99,90% |
+| Punteggio di predizione TxGNN | 0,9990 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -62,9 +62,8 @@ Va però sottolineato che l'unico lavoro collegato direttamente all'emicrania (P
 
 ### Altre predizioni rilevanti (sintesi)
 
-- **Cefalea (headache disorder)**, punteggio 99,31%, livello L4: diversi case report e piccole serie indicano risposte di cefalea a stilettata primaria, cefalee responsive all'indometacina e cefalea da tosse secondaria a etoricoxib o ad altri inibitori COX-2. Non esistono studi controllati.
-- **Cefalea autonomica trigeminale**, punteggio 99,15%, livello L4: un lavoro suggerisce che gli inibitori COX-2 possano essere un'alternativa quando l'indometacina non è tollerata; evidenza indiretta e di basso livello.
-- **Emicrania con o senza aura, suscettibilità**, punteggio 99,84%, livello L4: studio preclinico sul ratto che supporta l'asse CGRP/PGE2, ma l'etichetta indica una suscettibilità genetica e non un'indicazione clinica trattabile.
+- **Cefalea (headache disorder)**, punteggio 0,9931, livello L4: diversi case report e piccole serie indicano risposte di cefalea a stilettata primaria, cefalee responsive all'indometacina e cefalea da tosse secondaria a etoricoxib o ad altri inibitori COX-2. Non esistono studi controllati.
+- **Cefalea autonomica trigeminale**, punteggio 0,9915, livello L4: un lavoro suggerisce che gli inibitori COX-2 possano essere un'alternativa quando l'indometacina non è tollerata; evidenza indiretta e di basso livello.
 - Altre predizioni (emicrania con aura del tronco encefalico, atrodermia vermicolata, ulerythema ophryogenes, ipertensione polmonare, iperplasia prostatica benigna, cardiopatia cifoscoliotica) sono prive di studi e senza un legame meccanicistico plausibile. Per ipertensione polmonare e cardiopatia, il profilo di rischio cardiovascolare e di ritenzione idrica degli inibitori COX-2 è un elemento sfavorevole.
 
 ## Evidenze da studi clinici

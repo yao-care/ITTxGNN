@@ -4,17 +4,17 @@ title: Telmisartan
 parent: Solo previsione del modello (L5)
 nav_order: 424
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). Indicazione originale: Ipertensione, ictus, disturbo cerebrovascolare…"
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Telmisartan: dall'ipertensione e dall'ictus alla occlusione dell'arteria cerebrale
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,11 +48,11 @@ Telmisartan è un bloccante del recettore dell'angiotensina II (sartano), origin
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, ictus, disturbo cerebrovascolare, infarto cerebrale (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione predetta (rank 1) | Prinzmetal angina |
-| Punteggio di predizione TxGNN | 99,98% |
+| Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L5 per Prinzmetal angina; L3 per occlusione dell'arteria cerebrale; L2 per emorragia intracerebrale |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Hold (per la Prinzmetal angina); Research Question per le indicazioni cerebrovascolari |
 
@@ -129,11 +129,11 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione appro
 
 | Numero autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Cancellata |
-| 034326126 | PRITOR 28 cpr 20 mg | Bayer AG | Cancellata |
-| 042284099 | TOLURA 28 cpr 40 mg | Krka d.d. Novo Mesto | Cancellata |
-| 040773210 | Telmisartan 28 cpr 80 mg | Zentiva Italia Srl | Cancellata |
-| 040121030 | Telmisartan 28 cpr 80 mg | Mylan SpA | Cancellata |
+| 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Valida |
+| 034326126 | PRITOR 28 cpr 20 mg | Bayer AG | Valida |
+| 042284099 | TOLURA 28 cpr 40 mg | Krka d.d. Novo Mesto | Valida |
+| 040773210 | Telmisartan 28 cpr 80 mg | Zentiva Italia Srl | Valida |
+| 040121030 | Telmisartan 28 cpr 80 mg | Mylan SpA | Valida |
 
 ---
 

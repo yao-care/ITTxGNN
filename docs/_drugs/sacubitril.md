@@ -6,9 +6,9 @@ nav_order: 395
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Sacubitril: nuova indicazione prevista, Nefropatia diabetica (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA"
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
+description: "Sacubitril: nuova indicazione prevista, Brain small vessel disease 1 with or without ocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sacubitril
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Sacubitril: dall'insufficienza cardiaca alla nefropatia diabetica
+## Sacubitril: Brain small vessel disease 1 with or without ocular anomalies
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Nota: i dati compilati per questo report non riportano le indicazioni approvate 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati AIFA; la letteratura indica l'insufficienza cardiaca (sacubitril/valsartan) |
-| Nuova indicazione prevista | Nefropatia diabetica |
-| Punteggio di previsione TxGNN | Per la prima previsione in elenco (sindrome dei piccoli vasi cerebrali COL4A1): 99,58%. Per la nefropatia diabetica (rank 3): 99,50% |
-| Livello di evidenza | L3 (nefropatia diabetica) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 6 (tutte revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Brain small vessel disease 1 with or without ocular anomalies |
+| Punteggio di previsione TxGNN | 0.9958 |
+| Livello di evidenza | L5 (nefropatia diabetica) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold (con la nefropatia diabetica come ipotesi di ricerca prioritaria) |
 
 **Nota sulla selezione:** le prime due previsioni per punteggio (malattie rare correlate a COL4A1) non hanno alcuna evidenza a supporto (livello L5). Il report si concentra quindi sulla nefropatia diabetica, l'unica previsione con evidenza sostanziale.
@@ -99,11 +99,11 @@ Gli studi preclinici su roditori (PMID 35992034, 36589853, 32596035, 33870733, 3
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044558029 | ENTRESTO 28 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (revocata) |
-| 044558068 | ENTRESTO 56 cpr rivestite 97 mg + 103 mg | Non indicata | Non indicata (revocata) |
-| 044558233 | ENTRESTO 60 cps granulato in capsule da aprire 6 mg + 6 mg | Non indicata | Non indicata (revocata) |
-| 044558031 | ENTRESTO 56 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (revocata) |
-| 044558017 | ENTRESTO 28 cpr rivestite 24 mg + 26 mg | Non indicata | Non indicata (revocata) |
+| 044558029 | ENTRESTO 28 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (valida) |
+| 044558068 | ENTRESTO 56 cpr rivestite 97 mg + 103 mg | Non indicata | Non indicata (valida) |
+| 044558233 | ENTRESTO 60 cps granulato in capsule da aprire 6 mg + 6 mg | Non indicata | Non indicata (valida) |
+| 044558031 | ENTRESTO 56 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (valida) |
+| 044558017 | ENTRESTO 28 cpr rivestite 24 mg + 26 mg | Non indicata | Non indicata (valida) |
 
 Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata. Il titolare è NOVARTIS EUROPHARM LTD.
 
@@ -128,11 +128,11 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La nefropatia diabetica dispone di un razionale meccanicistico credibile e di dati preclinici coerenti, ma l'unico studio clinico (Fase 4) ha stato sconosciuto e nessun risultato. Inoltre tutte le autorizzazioni italiane sono revocate e le informazioni di sicurezza AIFA non sono disponibili, il che impedisce di procedere allo screening di sicurezza. Le altre previsioni (COL4A1, artrite reumatoide, emoglobinopatia) sono solo predizioni computazionali, senza evidenza.
+La nefropatia diabetica dispone di un razionale meccanicistico credibile e di dati preclinici coerenti, ma l'unico studio clinico (Fase 4) ha stato sconosciuto e nessun risultato. Inoltre il farmaco è commercializzato in Italia (6 autorizzazioni valide su 6), ma le informazioni di sicurezza AIFA non sono disponibili, il che impedisce di procedere allo screening di sicurezza. Le altre previsioni (COL4A1, artrite reumatoide, emoglobinopatia) sono solo predizioni computazionali, senza evidenza.
 
 **Per procedere sono necessari:**
 - Scaricare ed elaborare il foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate)
-- Chiarire lo stato regolatorio attuale in Italia, dato che tutte le autorizzazioni risultano revocate
+- Verificare lo stato regolatorio attuale in Italia, dove il farmaco è commercializzato con 6 autorizzazioni valide su 6
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Verificare lo stato e i risultati dello studio NCT06501651 e il disegno dello studio PMID 37549515
 - Valutare gli esiti renali (albuminuria, eGFR) nei sottogruppi diabetici di studi clinici più ampi

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Prasugrel
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 358
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Prasugrel: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L3). Indicazione originale: Sindrome coronarica acuta"
 monitor_inn: "PRASUGREL"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
+description: "Prasugrel: nuova indicazione prevista, Pulmonary hypertension (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Prasugrel: Dalla sindrome coronarica acuta alla emicrania
+## Prasugrel: Pulmonary hypertension
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Il prasugrel è un antiaggregante piastrinico (antagonista del recettore P2Y12), originariamente usato nella sindrome coronarica acuta. Il modello TxGNN lo indica come potenzialmente efficace per l'**emicrania** (rank 2 tra le predizioni, con punteggio del 99,88%), con **2 studi clinici** registrati (nessuno testa direttamente il prasugrel) e **2 pubblicazioni** pertinenti, entrambe di piccole dimensioni e non randomizzate. Le prove restano quindi preliminari.
+Il prasugrel è un antiaggregante piastrinico (antagonista del recettore P2Y12), originariamente usato nella sindrome coronarica acuta. Il modello TxGNN lo indica come potenzialmente efficace per l'**emicrania** (rank 2 tra le predizioni, con punteggio del 0,9988), con **2 studi clinici** registrati (nessuno testa direttamente il prasugrel) e **2 pubblicazioni** pertinenti, entrambe di piccole dimensioni e non randomizzate. Le prove restano quindi preliminari.
 
-Nota metodologica: la prima predizione in graduatoria è l'ipertensione polmonare (punteggio 99,88%), ma senza alcuno studio clinico e con una letteratura non pertinente (livello L5). Questo report si concentra sull'emicrania, l'unica indicazione con un segnale di evidenza concreto.
+Nota metodologica: la prima predizione in graduatoria è l'ipertensione polmonare (punteggio 0,9988), ma senza alcuno studio clinico e con una letteratura non pertinente (livello L5). Questo report si concentra sull'emicrania, l'unica indicazione con un segnale di evidenza concreto.
 
 ---
 
@@ -48,12 +48,12 @@ Nota metodologica: la prima predizione in graduatoria è l'ipertensione polmonar
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome coronarica acuta |
-| Nuova indicazione prevista | Emicrania (migraine disorder) |
-| Punteggio di predizione TxGNN | 99,88% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pulmonary hypertension |
+| Punteggio di predizione TxGNN | 0.9988 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold (mantenere in attesa; tema di ricerca) |
 
 ---
@@ -90,11 +90,11 @@ Il legame con l'indicazione originale è indiretto: in entrambi i casi entra in 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 039055090 | EFIENT 28 cpr rivestite 10 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 045597402 | PRASUGREL 28x1 cpr rivestite 10 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 045597186 | PRASUGREL 28x1 cpr rivestite 5 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 039055025 | EFIENT 28 cpr rivestite 5 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 046634022 | PRASUGREL 28 cpr rivestite 10 mg flacone (Viatris) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 039055090 | EFIENT 28 cpr rivestite 10 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 045597402 | PRASUGREL 28x1 cpr rivestite 10 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 045597186 | PRASUGREL 28x1 cpr rivestite 5 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 039055025 | EFIENT 28 cpr rivestite 5 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 046634022 | PRASUGREL 28 cpr rivestite 10 mg flacone (Viatris) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ---
 

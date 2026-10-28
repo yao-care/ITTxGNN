@@ -6,9 +6,9 @@ nav_order: 27
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Alfuzosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Ipertrofia prostatica benigna"
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Alfuzosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
 ---
 
 # Alfuzosin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Alfuzosina: dall'ipertrofia prostatica benigna alla ipertricosi universale congenita di tipo Ambras
+## Alfuzosin: Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,19 +45,19 @@ Il modello TxGNN la prevede come potenzialmente efficace per l'**ipertricosi uni
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertrofia prostatica benigna |
-| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras |
-| Punteggio di previsione TxGNN | 99,999% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
+| Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 16 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
+| Numero di autorizzazioni | 16 (valide: 16) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è (poco) plausibile?
 
 I dati compilati per questo report non riportano il meccanismo d'azione dettagliato. In base alle conoscenze note, l'alfuzosina è un antagonista alfa-1 adrenergico uroselettivo; il suo legame con i sottotipi recettoriali ADRA1A, ADRA1B e ADRA1D è documentato. La sua efficacia nell'IPB deriva dal rilassamento della muscolatura liscia prostatica e del collo vescicale.
 
-Il legame con la sindrome di Ambras non è sostenuto da alcuna base farmacologica. Si tratta di una rara malattia genetica (riarrangiamenti cromosomici che alterano la regolazione di TRPS1) e il blocco alfa-1 non ha un ruolo noto nella regolazione del follicolo pilifero. Il punteggio molto alto è verosimilmente un artefatto di prossimità nel grafo di conoscenza rispetto ad altre indicazioni legate ai peli.
+Il legame con la sindrome di Ambras non è sostenuto da alcuna base farmacologica. Si tratta di una rara malattia genetica (riarrangiamenti cromosomici che alterano la regolazione di TRPS1) e il blocco alfa-1 non ha un ruolo noto nella regolazione del follicolo pilifero. Il punteggio molto alto proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 Anche le altre previsioni in elenco (ipertricosi, anomalie del fusto del pelo, ipotricosi, tricomegalia familiare, sindromi malformative, orticaria allergica, sindrome della circolazione fetale persistente) risultano tutte di livello L5, senza studi né pubblicazioni e senza un ponte meccanicistico plausibile. L'orticaria allergica è la più riconoscibile clinicamente, ma gli antistaminici H1 restano il trattamento standard e il blocco alfa-1 non è una via terapeutica stabilita.
 
@@ -71,19 +71,19 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 16 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata non è presente nei dati. Di seguito le principali:
+Il testo dell'indicazione approvata non è presente nei dati. Di seguito le principali:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 027314044 | XATRAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Cancellata |
-| 027314018 | XATRAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Cancellata |
-| 026670051 | MITTOVAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Cancellata |
-| 026670024 | MITTOVAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Cancellata |
-| 038422010 | FARALZIN 30 cpr 10 mg rilascio prolungato | Farma Group Srl | Cancellata |
+| 027314044 | XATRAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Valida |
+| 027314018 | XATRAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Valida |
+| 026670051 | MITTOVAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Valida |
+| 026670024 | MITTOVAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Valida |
+| 038422010 | FARALZIN 30 cpr 10 mg rilascio prolungato | Farma Group Srl | Valida |
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni segnalate nel grafo di conoscenza** (non derivate dal foglietto illustrativo): atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, disturbi ipotensivi, sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, malattie epatiche, malattie della colecisti, sindrome dell'iride flaccida intraoperatoria.
+- **Controindicazioni segnalate dal modello TxGNN (deep learning)** (non derivate dal foglietto illustrativo; possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche): atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, disturbi ipotensivi, sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, malattie epatiche, malattie della colecisti, sindrome dell'iride flaccida intraoperatoria.
 - **Interazioni**: i dati disponibili riguardano solo i bersagli farmacologici (recettori alfa-1A, alfa-1B, alfa-1D) e non interazioni con altri farmaci.
 
 Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illustrativo.

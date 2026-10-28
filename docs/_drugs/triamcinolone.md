@@ -4,17 +4,17 @@ title: Triamcinolone
 parent: Prove moderate (L3-L4)
 nav_order: 451
 evidence_level: L4
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). Indicazione originale: Malattie autoimmuni, insufficienza surrenalica, malattia di Crohn…"
 monitor_inn: "TRIAMCINOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Triamcinolone
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Triamcinolone: Dalle malattie autoimmuni e infiammatorie all'alopecia mucinosa
+## Triamcinolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il triamcinolone è un corticosteroide originariamente utilizzato per malattie a
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattie autoimmuni, insufficienza surrenalica, malattia di Crohn, leucemia linfoblastica acuta e altre (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Alopecia mucinosa |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -83,9 +83,9 @@ Attualmente non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 013972056 | KENACORT, 3 flaconcini sospensione iniettabile 40 mg/1 ml (Bristol-Myers Squibb) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 034262016 | TRIAMVIRGI, 3 flaconcini soluzione iniettabile 40 mg/1 ml (Fisiopharma) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 033919010 | TRIACORT, 3 fiale 40 mg/1 ml (Pharmatex Italia) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 013972056 | KENACORT, 3 flaconcini sospensione iniettabile 40 mg/1 ml (Bristol-Myers Squibb) | Non indicata | Non disponibile (autorizzazione valida) |
+| 034262016 | TRIAMVIRGI, 3 flaconcini soluzione iniettabile 40 mg/1 ml (Fisiopharma) | Non indicata | Non disponibile (autorizzazione valida) |
+| 033919010 | TRIACORT, 3 fiale 40 mg/1 ml (Pharmatex Italia) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 
@@ -120,15 +120,13 @@ La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche
 
 | Rango | Malattia | Punteggio | Evidenza | Decisione |
 |---|---|---|---|---|
-| 2 | Telogen effluvium | 99,99% | L5 | Hold |
-| 3 | Follicolite decalvante di Quinquaud | 99,99% | L3 | Research Question |
-| 4 | Alopecia con deficit anticorpale | 99,99% | L5 | Hold |
-| 5 | Ipotricosi ereditaria con vescicole cutanee ricorrenti | 99,99% | L5 | Hold |
-| 6 | Sindrome alopecia-disabilità intellettiva-ipogonadismo ipergonadotropo | 99,99% | L5 | Hold |
-| 7 | Atrichia con lesioni papulari | 99,96% | L5 | Hold |
-| 8 | Sindrome nefrosica idiopatica steroido-sensibile | 99,76% | L4 | Research Question |
-| 9 | Alopecia universale con onicodistrofia e vitiligine | 99,75% | L5 | Hold |
-| 10 | Sindrome nefrosica idiopatica sporadica steroido-resistente | 99,74% | L5 | Hold |
+| 2 | Telogen effluvium | 0,9999 | L5 | Hold |
+| 3 | Follicolite decalvante di Quinquaud | 0,9999 | L3 | Research Question |
+| 4 | Alopecia con deficit anticorpale | 0,9999 | L5 | Hold |
+| 5 | Ipotricosi ereditaria con vescicole cutanee ricorrenti | 0,9999 | L5 | Hold |
+| 6 | Sindrome alopecia-disabilità intellettiva-ipogonadismo ipergonadotropo | 0,9999 | L5 | Hold |
+| 7 | Atrichia con lesioni papulari | 0,9996 | L5 | Hold |
+| 9 | Alopecia universale con onicodistrofia e vitiligine | 0,9975 | L5 | Hold |
 
 Tra queste, la **follicolite decalvante** (revisione retrospettiva di 23 pazienti, senza controllo) e la **sindrome nefrosica steroido-sensibile** (solo revisioni sulle strategie di trattamento, con corticosteroidi sistemici diversi dal triamcinolone come standard) meritano un approfondimento come domande di ricerca.
 ## Avvertenza

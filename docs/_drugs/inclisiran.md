@@ -4,17 +4,17 @@ title: Inclisiran
 parent: Solo previsione del modello (L5)
 nav_order: 236
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Inclisiran: nuova indicazione prevista, Carenza di potassio (potassium deficiency disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazio…"
 monitor_inn: "INCLISIRAN"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,17 +46,17 @@ Inclisiran è un siRNA che silenzia la sintesi epatica di PCSK9 per ridurre il c
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione nell'autorizzazione AIFA è vuoto) |
 | Nuova indicazione prevista | Carenza di potassio (potassium deficiency disease) |
-| Punteggio di predizione TxGNN | 99,93% |
+| Punteggio di predizione TxGNN | 0,9993 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (0 valide, 1 cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, inclisiran è un piccolo RNA interferente (siRNA) che riduce la sintesi epatica di PCSK9, con conseguente calo del colesterolo LDL.
 
-Non emerge alcun legame meccanicistico plausibile tra il silenziamento di PCSK9 e l'omeostasi del potassio. L'elevato punteggio TxGNN (0,999) è un risultato derivato dal modello e non è sostenuto da alcuno studio clinico o pubblicazione. Va quindi considerato solo un'ipotesi da verificare, non un'indicazione supportata.
+Non emerge alcun legame meccanicistico plausibile tra il silenziamento di PCSK9 e l'omeostasi del potassio. L'elevato punteggio TxGNN (0,9993) è un risultato derivato dal modello e non è sostenuto da alcuno studio clinico o pubblicazione. Va quindi considerato solo un'ipotesi da verificare, non un'indicazione supportata.
 
 ## Evidenze da studi clinici
 
@@ -70,7 +70,7 @@ Al momento non è disponibile letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 049274020 | LEQVIO siringa preriempita SC 1,5 ml 284 mg (189 mg/ml) con dispositivo di protezione dell'ago | Soluzione iniettabile sottocutanea (siringa preriempita) | Non disponibile (stato: cancellata; titolare: Novartis Europharm Ltd) |
+| 049274020 | LEQVIO siringa preriempita SC 1,5 ml 284 mg (189 mg/ml) con dispositivo di protezione dell'ago | Soluzione iniettabile sottocutanea (siringa preriempita) | Non disponibile (stato: valida; titolare: Novartis Europharm Ltd) |
 
 ## Considerazioni sulla sicurezza
 

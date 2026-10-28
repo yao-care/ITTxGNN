@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Diltiazem
-parent: Solo previsione del modello (L5)
+parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 147
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-monitor_inn: "DILTIAZEM"
-predicted_indications: ["obsolete susceptibility to ischemic stroke"]
-description: "Diltiazem: nuova indicazione prevista, Suscettibilità all'ictus ischemico (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipertensione, fibrillazione atriale, angina di Prinzmetal"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Diltiazem: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
+predicted_indications: []
 ---
 
 # Diltiazem
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **N/A** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +32,66 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Diltiazem: Dall'ipertensione alla suscettibilità all'ictus ischemico (indicazione obsoleta)
+<!-- known-uses-page -->
+<!-- description: Diltiazem: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata -->
+## Diltiazem: Usi noti e stato di mercato in Italia
 {: .text-alpha }
 
-## Sintesi in una frase
-
-Il diltiazem è un calcio-antagonista usato originariamente per ipertensione, fibrillazione atriale, angina di Prinzmetal e tachicardia ventricolare.
-Il modello TxGNN ne prevede un possibile utilizzo per la **suscettibilità all'ictus ischemico** (termine classificato come obsoleto nell'ontologia di riferimento), ma al momento **non risultano studi clinici né pubblicazioni** a sostegno: si tratta di una predizione puramente computazionale.
+## Riepilogo
+Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma tutti i candidati riconducibili a una fonte sono usi già noti. Al momento non esiste quindi alcuna nuova indicazione predetta per questo farmaco.
 
 ## Panoramica rapida
-
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, fibrillazione atriale, angina di Prinzmetal, tachicardia ventricolare (dal grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione prevista | Suscettibilità all'ictus ischemico (termine obsoleto) |
-| Punteggio di predizione TxGNN | 99,08% |
-| Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
+| Usi noti tra i candidati del modello | 1 |
+| Livello di evidenza | Non applicabile |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 
-## Perché questa predizione è plausibile?
+## Usi noti tra i candidati del modello
 
-Per questo farmaco i dati compilati non riportano il meccanismo d'azione. In base alle conoscenze farmacologiche generali (non verificate con i dati di questo report), il diltiazem è un calcio-antagonista non diidropiridinico che agisce sui canali del calcio di tipo L, con effetti vasodilatatori e di controllo della frequenza cardiaca.
+### Approvati (supportati da un'autorizzazione o dal foglio illustrativo)
+| Indicazione | Fonte |
+|------|------|
+| Angina di Prinzmetal (Prinzmetal angina) | Autorizzazione in un altro Paese; indicazione approvata: angina |
 
-Un possibile legame con il rischio di ictus ischemico potrebbe passare per la riduzione della pressione arteriosa, una minore vasocostrizione cerebrovascolare e il controllo della frequenza nella fibrillazione atriale, importante fattore di rischio per l'ictus cardioembolico. L'ipertensione e la fibrillazione atriale, indicazioni originali, sono infatti fattori di rischio riconosciuti per l'ictus.
+### Correlati a un'indicazione approvata (stessa categoria di malattia)
+| Indicazione | Categoria approvata |
+|------|------|
+| Nessuna | Nessuna |
 
-Va però sottolineato che il punteggio elevato è solo una predizione del modello e non costituisce evidenza clinica. Inoltre, l'indicazione prevista è un termine obsoleto e la sua definizione clinica è vaga: la prevenzione del rischio non equivale al trattamento di una malattia definita.
-
-## Evidenze da studi clinici
-
-Attualmente non risultano studi clinici correlati registrati.
-
-## Evidenze dalla letteratura
-
-Attualmente non risulta letteratura correlata disponibile.
+### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+| Indicazione |
+|------|
+| Nessuna |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
+| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+|------|------|------|------|
+| 025275049 | Diltiazem |  | Valida |
+| 026675049 | Diltiazem |  | Valida |
+| 025275025 | Diltiazem |  | Valida |
+| 025277070 | Diltiazem |  | Valida |
+| 032808091 | Diltiazem |  | Valida |
+| 025277068 | Diltiazem |  | Valida |
+| 026675025 | Diltiazem |  | Valida |
+| 033581012 | Diltiazem |  | Valida |
+| 033581024 | Diltiazem |  | Valida |
+| 026675013 | Diltiazem |  | Valida |
+| 025278060 | Diltiazem |  | Valida |
+| 033682028 | Diltiazem |  | Valida |
+| 025278058 | Diltiazem |  | Valida |
+| 033682030 | Diltiazem |  | Valida |
+| 025271014 | Diltiazem |  | Valida |
+| 025275013 | Diltiazem |  | Valida |
+| 033581048 | Diltiazem |  | Valida |
+| 025278019 | Diltiazem |  | Valida |
+| 025277017 | Diltiazem |  | Valida |
+| 032808040 | Diltiazem |  | Valida |
 
-| Numero di autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 025275049 | DILADEL 36 cps 200 mg rilascio prolungato | Zentiva Italia Srl | Cancellata |
-| 026675049 | Diltiazem 14 cpr 300 mg rilascio prolungato | Mylan SpA | Cancellata |
-| 025275025 | DILADEL 24 cpr 120 mg rilascio prolungato | Zentiva Italia Srl | Cancellata |
-| 025277070 | DILZENE 14 cps 300 mg rilascio prolungato | Alfasigma SpA | Cancellata |
-| 032808091 | Diltiazem 24 cps 120 mg rilascio modificato | EG SpA | Cancellata |
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
 
 ## Considerazioni sulla sicurezza
 
@@ -97,20 +109,6 @@ Dal grafo di conoscenza TxGNN (non dal testo del foglio illustrativo) emergono a
 
 Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
 
-## Conclusione e prossimi passi
-
-**Decisione: Hold**
-
-**Motivazione:**
-La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura. L'indicazione prevista è un termine obsoleto e poco definito, e in Italia non esistono autorizzazioni valide.
-
-**Per procedere sono necessari:**
-- Una definizione clinica precisa dell'indicazione (ad esempio prevenzione dell'ictus nei pazienti ipertesi o con fibrillazione atriale) al posto del termine obsoleto
-- Una revisione sistematica della letteratura e la ricerca di studi clinici su diltiazem e prevenzione dell'ictus
-- I dati sul meccanismo d'azione (DrugBank)
-- Il foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per la valutazione della sicurezza
-- La verifica dello stato regolatorio: con tutte le autorizzazioni cancellate, occorre chiarire se esistano formulazioni ancora disponibili in Italia
-- Una valutazione di compatibilità delle vie di somministrazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

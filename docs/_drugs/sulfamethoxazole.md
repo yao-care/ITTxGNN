@@ -6,9 +6,9 @@ nav_order: 414
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (livello di evidenza L5). Indicazione originale: Non disponibile nel testo autorizzativo AIFA"
 monitor_inn: "sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
+description: "Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sulfamethoxazole
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Sulfametossazolo: dalle infezioni batteriche alla congiuntivite contagiosa acuta
+## Sulfamethoxazole: Congiuntivite contagiosa acuta (acute contagious conjunctivitis)
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -45,19 +45,19 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **congiuntivite 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nel testo autorizzativo AIFA; nel grafo di conoscenza compaiono otite media infettiva, nocardiosi, toxoplasmosi, pneumocistosi, shigellosi, congiuntivite, ecc. |
-| Nuova indicazione prevista | Congiuntivite contagiosa acuta |
-| Punteggio di predizione TxGNN | 99,63% |
-| Livello di evidenza | L4 (come assegnato nei dati compilati; nessuno studio clinico registrato, solo 1 studio di coorte retrospettivo) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Congiuntivite contagiosa acuta (acute contagious conjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9963 |
+| Livello di evidenza | L5 (come assegnato nei dati compilati; nessuno studio clinico registrato, solo 1 studio di coorte retrospettivo) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 I dati sul meccanismo d'azione non sono disponibili nelle informazioni compilate. In base alle conoscenze generali, il sulfametossazolo inibisce la diidropteroato sintasi batterica, bloccando la sintesi dei folati. È un meccanismo antibatterico compatibile con le congiuntiviti di origine batterica.
 
-Va però chiarito un punto importante: la congiuntivite è già tra le indicazioni originali del farmaco nel grafo di conoscenza. Il punteggio elevato (0,996) riflette con ogni probabilità questa sovrapposizione con un uso già noto, più che un segnale realmente nuovo. Inoltre il farmaco si usa in associazione fissa con il trimetoprim, quindi un'eventuale attività non può essere attribuita al solo sulfametossazolo.
+Va però chiarito un punto importante: il punteggio elevato (0,9963) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica. Inoltre il farmaco si usa in associazione fissa con il trimetoprim, quindi un'eventuale attività non può essere attribuita al solo sulfametossazolo.
 
 ## Evidenze da studi clinici
 
@@ -73,8 +73,8 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione cancellata) |
-| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione valida) |
+| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

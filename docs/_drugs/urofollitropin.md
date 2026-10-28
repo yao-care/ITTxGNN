@@ -4,17 +4,17 @@ title: Urofollitropin
 parent: Solo previsione del modello (L5)
 nav_order: 456
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Urofollitropin: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati (nessun testo di indicazione nelle a…"
 monitor_inn: "urofollitropin"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 ---
 
 # Urofollitropin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ La urofollitropina è un'FSH (ormone follicolo-stimolante) di origine urinaria, 
 |------|------|
 | Indicazione originale | Non riportata nei dati compilati (nessun testo di indicazione nelle autorizzazioni AIFA); l'uso noto è la stimolazione ovarica |
 | Nuova indicazione prevista | Emicrania (*migraine disorder*) |
-| Punteggio di previsione TxGNN | 99,85% |
+| Punteggio di previsione TxGNN | 0,9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione può (o non può) essere ragionevole?
@@ -58,7 +58,7 @@ I dati sul meccanismo d'azione non sono al momento disponibili. La urofollitropi
 
 L'unico collegamento plausibile è indiretto: l'emicrania ha associazioni ormonali (ad esempio l'emicrania mestruale legata alle fluttuazioni degli estrogeni). Questo non basta però a stabilire un legame meccanicistico con l'FSH.
 
-L'altissimo punteggio TxGNN (0,9985) deriva da una previsione basata su grafo di conoscenza, probabilmente guidata dalla prossimità nella rete e non da evidenze biologiche. Va quindi interpretato con cautela.
+L'altissimo punteggio TxGNN (0,9985) deriva da una previsione del modello TxGNN (apprendimento profondo), probabilmente guidata dalla prossimità nella rete e non da evidenze biologiche. Va quindi interpretato con cautela.
 
 Altre previsioni nelle prime posizioni (emicrania con aura del tronco encefalico, sindrome della cauda equina, tachicardia del fascio di His, sindrome delle gambe senza riposo, sindrome da tachicardia posturale ortostatica, malattia di Raynaud e altre) presentano tutte evidenza L5 e nessun meccanismo plausibile identificato. Diverse sono inoltre voci ontologiche obsolete o di suscettibilità genetica, non indicazioni cliniche trattabili.
 

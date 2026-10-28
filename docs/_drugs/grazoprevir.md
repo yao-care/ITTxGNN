@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Grazoprevir
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 228
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Grazoprevir: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C (il testo dell'indicazione…"
 monitor_inn: "grazoprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Grazoprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Grazoprevir
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Grazoprevir: dall'epatite C cronica all'infezione da HIV
+## Grazoprevir: Infezione da HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Grazoprevir è un inibitore della proteasi NS3/4A del virus dell'epatite C (HCV)
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite C (il testo dell'indicazione autorizzata in Italia non è disponibile; l'indicazione deriva dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista | Infezione da HIV |
-| Punteggio di previsione TxGNN | 99,73% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
+| Punteggio di previsione TxGNN | 0.9973 |
 | Livello di evidenza | L3 (solo studi osservazionali e revisioni; nessuna evidenza di efficacia anti-HIV) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -106,7 +106,7 @@ Anche in questo caso la letteratura documenta l'efficacia contro l'HCV e la gest
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044929014 | ZEPATIER*28 cpr rivestite 50 mg + 100 mg | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 044929014 | ZEPATIER*28 cpr rivestite 50 mg + 100 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 L'unica autorizzazione, intestata a Merck Sharp & Dohme BV, risulta revocata: non vi sono autorizzazioni valide attualmente in Italia.
 

@@ -6,9 +6,9 @@ nav_order: 211
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (livello di evidenza L5). Indicazione originale: Carenza vitaminica"
 monitor_inn: "folic acid"
 predicted_indications: ["biotin metabolic disease"]
+description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Folic Acid
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Acido folico: dalla carenza vitaminica alla malattia del metabolismo della biotina
+## Folic Acid: Malattia del metabolismo della biotina (biotin metabolic disease)
 {: .text-alpha }
 
 ## Sintesi
@@ -44,11 +44,11 @@ L'acido folico (vitamina B9) è utilizzato per correggere le carenze vitaminiche
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carenza vitaminica; anemia da carenza di folati (da archi di indicazione della knowledge graph; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia del metabolismo della biotina |
-| Punteggio di previsione TxGNN | 99,49% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia del metabolismo della biotina (biotin metabolic disease) |
+| Punteggio di previsione TxGNN | 0.9949 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -85,11 +85,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni val
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 045545023 | ACIDO FOLICO*28 cpr 5 mg | EG SpA | Cancellata |
-| 045532049 | NOVACID*120 cpr 5 mg | S.F. GROUP Srl | Cancellata |
-| 045534043 | FOLATEX*120 cpr 5 mg | S.F. GROUP Srl | Cancellata |
-| 045545050 | ACIDO FOLICO*28 cpr 400 mcg | EG SpA | Cancellata |
-| 036345027 | FOLIDEX*120 cpr 400 mcg | ITALFARMACO SpA | Cancellata |
+| 045545023 | ACIDO FOLICO*28 cpr 5 mg | EG SpA | Valida |
+| 045532049 | NOVACID*120 cpr 5 mg | S.F. GROUP Srl | Valida |
+| 045534043 | FOLATEX*120 cpr 5 mg | S.F. GROUP Srl | Valida |
+| 045545050 | ACIDO FOLICO*28 cpr 400 mcg | EG SpA | Valida |
+| 036345027 | FOLIDEX*120 cpr 400 mcg | ITALFARMACO SpA | Valida |
 
 ## Considerazioni di sicurezza
 

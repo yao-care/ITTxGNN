@@ -49,9 +49,9 @@ Il modello TxGNN lo associa all'**artrite reumatoide** con un punteggio molto al
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi di indicazione delle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione predetta | Artrite reumatoide |
-| Punteggio di predizione TxGNN | 99,57% |
+| Punteggio di predizione TxGNN | 0,9957 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -63,7 +63,7 @@ I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilat
 
 L'unico collegamento plausibile è indiretto: la via della coagulazione e l'infiammazione sono correlate. La trombina e il fattore Xa possono segnalare tramite i recettori PAR-1/PAR-2 e contribuire all'infiammazione sinoviale, e le malattie autoimmuni si associano ad alterata generazione di trombina e a un maggior rischio di tromboembolismo venoso. Si tratta **soltanto di un'ipotesi**: giustificherebbe al massimo un ruolo nella tromboprofilassi nei pazienti con artrite reumatoide, non un effetto modificante la malattia.
 
-Va sottolineato che il punteggio TxGNN (0,996) deriva da un grafo di conoscenza e non costituisce evidenza clinica.
+Va sottolineato che il punteggio TxGNN (0,9957) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica né clinica.
 
 ---
 

@@ -4,17 +4,17 @@ title: Isotretinoin
 parent: Solo previsione del modello (L5)
 nav_order: 246
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione / disturbo ipertensivo (secondo il grafo di conoscenza"
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
+description: "Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Isotretinoin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Isotretinoina: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Isotretinoin: Malattia renale ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Riepilogo in una frase
 
-L'isotretinoina è un retinoide noto soprattutto per il trattamento dell'acne grave; nel grafo di conoscenza utilizzato dal modello compaiono come indicazioni originali "ipertensione" e "disturbo ipertensivo", che non corrispondono a un uso clinico consolidato e potrebbero essere un artefatto della fonte dati.
-Il modello TxGNN prevede un possibile effetto sulla **malattia renale ipertensiva maligna** (punteggio 99,01%), ma a oggi sono disponibili **0 studi clinici** e **0 pubblicazioni** a supporto: si tratta di una predizione puramente computazionale.
+Il modello TxGNN prevede un possibile effetto sulla **malattia renale ipertensiva maligna** (punteggio 0,9901), ma a oggi sono disponibili **0 studi clinici** e **0 pubblicazioni** a supporto: si tratta di una predizione puramente computazionale.
 
 ---
 
@@ -47,12 +46,12 @@ Il modello TxGNN prevede un possibile effetto sulla **malattia renale ipertensiv
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione / disturbo ipertensivo (secondo il grafo di conoscenza; il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99,01% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di predizione TxGNN | 0.9901 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 15 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -63,7 +62,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. L'isot
 
 Il segnalamento dei retinoidi è stato studiato in ambito renale e vascolare (ad esempio effetti sui podociti, sull'espressione della renina e sul rimodellamento vascolare), ma si tratta di ipotesi speculative non supportate dai dati compilati per questo report.
 
-Va inoltre osservato che anche la seconda indicazione prevista (ipertensione renovascolare maligna) ha lo stesso identico punteggio (0,990). Ciò suggerisce che la predizione derivi da un vicinato comune di nodi del grafo legati all'ipertensione, piuttosto che da un segnale specifico per la singola malattia. Nessun legame meccanicistico può quindi essere verificato.
+Va inoltre osservato che anche la seconda indicazione prevista (ipertensione renovascolare maligna) ha lo stesso identico punteggio (0,9901). Nessun legame meccanicistico può quindi essere verificato.
 
 ---
 
@@ -85,11 +84,11 @@ Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni appr
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 051504013 | Isotretinoina 30 cps molli 10 mg | DOC Generici Srl | Cancellata |
-| 035258021 | Aisoskin 30 cps molli 20 mg | Fidia Farmaceutici SpA | Cancellata |
-| 041853072 | Isdiben 30 cps molli 20 mg | ISDIN Srl | Cancellata |
-| 041853045 | Isdiben 30 cps molli 10 mg | ISDIN Srl | Cancellata |
-| 037551076 | Isoriac 30 cps molli 20 mg | Pierre Fabre Italia SpA | Cancellata |
+| 051504013 | Isotretinoina 30 cps molli 10 mg | DOC Generici Srl | Valida |
+| 035258021 | Aisoskin 30 cps molli 20 mg | Fidia Farmaceutici SpA | Valida |
+| 041853072 | Isdiben 30 cps molli 20 mg | ISDIN Srl | Valida |
+| 041853045 | Isdiben 30 cps molli 10 mg | ISDIN Srl | Valida |
+| 037551076 | Isoriac 30 cps molli 20 mg | Pierre Fabre Italia SpA | Valida |
 
 ---
 
@@ -108,14 +107,13 @@ Per avvertenze e controindicazioni ufficiali fare riferimento al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul modello (livello L5), senza studi clinici né pubblicazioni; le indicazioni originali nel grafo sembrano non corrispondere all'uso reale del farmaco, e tutte le autorizzazioni italiane sono cancellate. Il profilo di sicurezza (teratogenicità, effetti epatici e lipidici, molte interazioni) sconsiglia di procedere senza dati a supporto.
+Il profilo di sicurezza (teratogenicità, effetti epatici e lipidici, molte interazioni) sconsiglia di procedere senza dati a supporto.
 
 **Per procedere sarebbe necessario:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank) per valutare un legame meccanicistico
 - Verificare e correggere le indicazioni originali registrate nel grafo di conoscenza
 - Condurre una revisione sistematica della letteratura preclinica sul segnalamento dei retinoidi nel rene e nel sistema renina-angiotensina
-- Valutare se un punteggio identico per due malattie correlate rifletta un artefatto del grafo piuttosto che un segnale specifico
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

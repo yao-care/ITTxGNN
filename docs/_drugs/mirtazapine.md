@@ -6,9 +6,9 @@ nav_order: 304
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
+description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Mirtazapine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Mirtazapina: dalla depressione maggiore alla sindrome di Ohdo e varianti
+## Mirtazapine: Sindrome di Ohdo e varianti (Ohdo syndrome and variants)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,23 +45,23 @@ Il modello TxGNN ne predice una possibile efficacia nella **sindrome di Ohdo e v
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione predetta | Sindrome di Ohdo e varianti |
-| Punteggio di predizione TxGNN | 99,42% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Sindrome di Ohdo e varianti (Ohdo syndrome and variants) |
+| Punteggio di predizione TxGNN | 0.9942 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 17 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 17 su 17) |
+| Numero di autorizzazioni | 17 (valide: 17) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione può (o non può) essere ragionevole?
 
 Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle informazioni farmacologiche note, la mirtazapina ha la maggiore affinità misurabile per i recettori alfa-2 adrenergici (2A > 2C > 2B) e per i recettori serotoninergici 5-HT2A e 5-HT2C. È un antidepressivo noradrenergico e serotoninergico specifico, con attività antagonista anche su recettori 5-HT3 e H1.
 
-La sindrome di Ohdo (comprese le varianti correlate a KAT6B) è una rara malattia genetica della regolazione della cromatina, caratterizzata da disabilità intellettiva e tratti craniofacciali. Non emerge alcun collegamento meccanicistico tra l'attività recettoriale della mirtazapina e la patologia di base. Il punteggio TxGNN è molto alto, ma deriva esclusivamente dalle relazioni nel grafo di conoscenza. Un eventuale beneficio sarebbe al massimo sintomatico (sonno, appetito, umore) e non modificante la malattia.
+La sindrome di Ohdo (comprese le varianti correlate a KAT6B) è una rara malattia genetica della regolazione della cromatina, caratterizzata da disabilità intellettiva e tratti craniofacciali. Non emerge alcun collegamento meccanicistico tra l'attività recettoriale della mirtazapina e la patologia di base. Il punteggio TxGNN è molto alto, ma deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche. Un eventuale beneficio sarebbe al massimo sintomatico (sonno, appetito, umore) e non modificante la malattia.
 
 Altre predizioni nell'elenco hanno la stessa debolezza:
-- **Sindrome blefarofimosi – disabilità intellettiva, tipo Ohdo** (punteggio 99,11%): molto probabilmente si sovrappone alla predizione principale, trattandosi di un sottotipo della stessa famiglia di malattie. Non ci sono studi clinici né pubblicazioni.
-- **Torcicollo parossistico benigno dell'infanzia** (punteggio 99,11%): esiste solo un legame speculativo, perché la condizione è considerata un equivalente emicranico o una canalopatia (associazione con CACNA1A) e la modulazione serotoninergica e antistaminica è rilevante per i disturbi dello spettro emicranico. È un'ipotesi indiretta, senza evidenze di supporto. In età infantile la sicurezza è un problema importante: la mirtazapina non è approvata in ambito pediatrico e comporta un avvertimento per il rischio di suicidalità nei pazienti giovani.
+- **Sindrome blefarofimosi – disabilità intellettiva, tipo Ohdo** (punteggio 0,9911): molto probabilmente si sovrappone alla predizione principale, trattandosi di un sottotipo della stessa famiglia di malattie. Non ci sono studi clinici né pubblicazioni.
+- **Torcicollo parossistico benigno dell'infanzia** (punteggio 0,9911): esiste solo un legame speculativo, perché la condizione è considerata un equivalente emicranico o una canalopatia (associazione con CACNA1A) e la modulazione serotoninergica e antistaminica è rilevante per i disturbi dello spettro emicranico. È un'ipotesi indiretta, senza evidenze di supporto. In età infantile la sicurezza è un problema importante: la mirtazapina non è approvata in ambito pediatrico e comporta un avvertimento per il rischio di suicidalità nei pazienti giovani.
 
 ## Evidenze da studi clinici
 
@@ -73,15 +73,15 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 17 autorizzazioni risultano revocate; non vi sono autorizzazioni valide. Di seguito le principali 5 (il testo dell'indicazione approvata non è disponibile).
+Il farmaco è in commercio: tutte le 17 autorizzazioni risultano valide (17 su 17). Di seguito le principali 5 (il testo dell'indicazione approvata non è disponibile).
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 037988211 | MIRTAZAPINA 30 cpr orosolubili 30 mg | ALMUS Srl | Revocata |
-| 038514030 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | TEVA ITALIA Srl | Revocata |
-| 037885249 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | SANDOZ GMBH | Revocata |
-| 050628015 | ZAPIN 30 cpr rivestite 30 mg | ECUPHARMA Srl | Revocata |
-| 029444181 | REMERON 30 cpr orodispersibili 30 mg | ORGANON ITALIA Srl | Revocata |
+| 037988211 | MIRTAZAPINA 30 cpr orosolubili 30 mg | ALMUS Srl | Valida |
+| 038514030 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | TEVA ITALIA Srl | Valida |
+| 037885249 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | SANDOZ GMBH | Valida |
+| 050628015 | ZAPIN 30 cpr rivestite 30 mg | ECUPHARMA Srl | Valida |
+| 029444181 | REMERON 30 cpr orodispersibili 30 mg | ORGANON ITALIA Srl | Valida |
 
 ## Considerazioni sulla sicurezza
 

@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Balsalazide: nuova indicazione prevista, Gotta (livello di evidenza L5). Indicazione originale: Colite ulcerosa"
 monitor_inn: "BALSALAZIDE"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
+last_modified_at: 2026-10-27
+description: "Balsalazide: nuova indicazione prevista, Gotta (gout) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Balsalazide
@@ -33,73 +33,80 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Balsalazide: dalla colite ulcerosa alla gotta
+## Balsalazide: profarmaco della mesalazina (5-ASA) → Gotta (gout)
 {: .text-alpha }
 
 ## Sintesi
 
-Balsalazide è un profarmaco dell'acido 5-aminosalicilico (5-ASA, mesalazina), utilizzato originariamente per la colite ulcerosa e le malattie infiammatorie croniche intestinali. Il modello TxGNN prevede una possibile efficacia nella **gotta** (punteggio 99,75%), ma i dati compilati per questo report non includono **nessuno studio clinico** né **alcuna pubblicazione** a supporto: la previsione è basata solo sul modello.
+Balsalazide è un profarmaco dell'acido 5-aminosalicilico (5-ASA, mesalazina) con attività antinfiammatoria a livello del colon. Il modello TxGNN prevede che possa essere efficace per la **gotta (gout)**, con un punteggio di 0,9975. Al momento nei dati compilati per questo report non risultano **né sperimentazioni cliniche né pubblicazioni** a sostegno di questa direzione: si tratta di una previsione basata solo sul modello.
+
+---
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Colite ulcerosa; malattia infiammatoria cronica intestinale (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Gotta |
-| Punteggio di previsione TxGNN | 99,75% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Gotta (gout) |
+| Punteggio di previsione TxGNN | 0,9975 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (0 valide, 1 cancellata) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
+| Decisione raccomandata | Hold (sospendere) |
+
+---
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Balsalazide rilascia nel colon il 5-ASA, che ha attività antinfiammatoria locale sulla mucosa intestinale; il carrier inerte è l'acido 4-aminobenzoil-β-alanina.
+I dati dettagliati sul meccanismo d'azione originale non sono al momento disponibili. Sulla base delle informazioni note, balsalazide rilascia 5-ASA nel colon, dove esercita un'azione antinfiammatoria locale.
 
-Il legame con la gotta è **speculativo**. Si potrebbe ipotizzare un coinvolgimento dell'infiammazione guidata dai neutrofili o dalla via NLRP3/IL-1β, ma il 5-ASA non è noto per influenzare il metabolismo dell'urato. L'elevato punteggio del modello (0,998) non è quindi verificabile con i dati disponibili.
+Un legame con l'infiammazione gottosa (ad esempio tramite la via NLRP3/IL-1β o l'infiammazione mediata dai neutrofili) è puramente speculativo. Il 5-ASA non è noto per influire sul metabolismo dell'urato. Il punteggio elevato (0,9975) riflette quindi una previsione del modello e non un'evidenza biologica o clinica verificata; il meccanismo non può essere confermato con i dati forniti.
 
-Tra le altre previsioni di TxGNN, alcune hanno una plausibilità biologica maggiore della gotta, anche se tutte restano senza evidenza clinica diretta:
-- **Spondilite anchilosante** (99,71%) e **spondilopatia infiammatoria** (99,53%): condividono l'asse intestino-articolazioni con le IBD; la sulfasalazina (che condivide il 5-ASA) è stata studiata nelle spondiloartriti, ma il beneficio riguarda soprattutto le articolazioni periferiche e potrebbe dipendere dalla sulfapiridina, assente in balsalazide.
-- **Artrite reumatoide** (99,64%) e **artrite reumatoide giovanile poliarticolare** (99,43%): l'estrapolazione dalla sulfasalazina è incerta per lo stesso motivo.
-- Altre previsioni (ipotricosi congenita con distrofia maculare giovanile, ipermobilità del coccige, malattia di Kümmell) sembrano artefatti del grafo di conoscenza, senza un legame biologico plausibile.
+---
 
-## Evidenza da studi clinici
+## Evidenze da sperimentazioni cliniche
 
-Attualmente non risultano studi clinici registrati correlati.
+Attualmente non risulta registrata alcuna sperimentazione clinica correlata.
 
-## Evidenza dalla letteratura
+---
 
-Attualmente non è disponibile letteratura correlata.
+## Evidenze dalla letteratura
+
+Attualmente non è disponibile alcuna letteratura correlata.
+
+---
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033858022 | BALZIDE 112 capsule 750 mg (Menarini) | Non specificata | Non specificata (autorizzazione cancellata) |
+| 033858022 | BALZIDE*112 cps 750 mg | Non indicata | Non registrata nei dati locali |
+
+---
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni dal grafo di conoscenza** (non tratte dal foglietto illustrativo): malattia renale, piouretere, stenosi del piloro.
-- **Interazioni farmacologiche**: sono state identificate 100 interazioni. Tra quelle elencate:
-  - **Maggiore**: immunoglobulina G umana (endovenosa).
-  - **Moderate** (esempi): azatioprina, ibuprofene, ketorolac, celecoxib, aciclovir, foscarnet, amfotericina B, amikacina, doxiciclina, amoxicillina, ampicillina, azitromicina, bacitracina, fosfomicina, nitrato di gallio, acetoesamide.
-  - Diverse di queste combinazioni (FANS, aminoglicosidi, amfotericina B, foscarnet) riguardano farmaci con tossicità renale, coerentemente con le controindicazioni renali sopra riportate.
+- **Interazioni farmacologiche**: dalla ricerca sono emerse 100 interazioni complessive. Tra quelle elencate, una è di livello **maggiore** (immunoglobulina G umana per via endovenosa); le altre sono di livello **moderato**, tra cui:
+  - Antinfiammatori non steroidei: ketorolac, ibuprofene, celecoxib
+  - Antibiotici e antivirali: doxiciclina, aciclovir, foscarnet, fosfomicina, amoxicillina, ampicillina, amikacina, azitromicina, bacitracina
+  - Altri: amfotericina B, nitrato di gallio, azatioprina, acetoesamide
 
-Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illustrativo.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
-## Conclusioni e prossimi passi
+---
+
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la gotta si basa unicamente sul modello (L5), senza studi clinici né letteratura, con un legame meccanicistico speculativo. Inoltre, l'unica autorizzazione italiana è cancellata, quindi il prodotto non è attualmente commercializzato.
+La previsione per la gotta si basa unicamente sul modello, senza sperimentazioni né pubblicazioni dirette, e il legame meccanicistico è speculativo (il 5-ASA non agisce sul metabolismo dell'urato). Il livello di evidenza è L5.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione e una revisione meccanicistica del legame tra 5-ASA e infiammazione gottosa
-- Ricerca di letteratura e studi preclinici o clinici su balsalazide/5-ASA nella gotta
-- Avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza
-- Verifica della disponibilità del farmaco in Italia, data la cancellazione dell'autorizzazione
-- Eventuale rivalutazione di indicazioni più plausibili (spondiloartriti associate a IBD), definendo sottotipi specifici e rivedendo i dati su sulfasalazina e 5-ASA
+- Dati sul meccanismo d'azione di balsalazide
+- Studi preclinici o clinici che valutino direttamente balsalazide nella gotta
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Verifica della compatibilità della via di somministrazione e valutazione di sicurezza per la popolazione target
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

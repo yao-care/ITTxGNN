@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Tiagabine
-parent: Prove moderate (L3-L4)
+parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 434
-evidence_level: L4
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Tiagabine: nuova indicazione prevista, Epilessia visiva (livello di evidenza L4). Indicazione originale: Epilessia parziale"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Tiagabine: usi noti e stato di mercato in Italia; attualmente nessuna nuova indicazione candidata"
+predicted_indications: []
 ---
 
 # Tiagabine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **N/A** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,61 +32,47 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Tiagabina: dall'epilessia parziale all'epilessia visiva
+<!-- known-uses-page -->
+<!-- description: Tiagabine: usi noti e stato di mercato in Italia; attualmente nessuna nuova indicazione candidata -->
+## Tiagabine: Usi noti e stato di mercato in Italia
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo
+I candidati prodotti dal modello TxGNN per Tiagabine sono tutti usi già noti. Al momento non c'è quindi alcuna nuova indicazione predetta per questo farmaco. Questa pagina riporta lo stato di mercato in Italia.
 
-La tiagabina è un antiepilettico inibitore della ricaptazione del GABA, originariamente usato per il trattamento dell'epilessia parziale. Il modello TxGNN ne prevede una possibile efficacia nell'**epilessia visiva**, ma il supporto si limita a **15 pubblicazioni** (in prevalenza revisioni generali) e **nessuno studio clinico** registrato specifico per questa indicazione.
-
-## Quadro generale
-
+## Panoramica rapida
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia parziale |
-| Nuova indicazione prevista | Epilessia visiva |
-| Punteggio di predizione TxGNN | 99,25% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
-| Decisione raccomandata | Hold (sospendere) |
+| Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
+| Usi noti tra i candidati del modello | 0 |
+| Livello di evidenza | Non applicabile |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 
-## Perché questa predizione è ragionevole?
+## Usi noti tra i candidati del modello
 
-La tiagabina è un inibitore selettivo del trasportatore GAT-1 (gene SLC6A1): blocca la ricaptazione del GABA nei neuroni e nella glia, aumentando il GABA sinaptico e rafforzando l'inibizione. Questa informazione deriva dalla letteratura e dai dati farmacologici compilati; i dati dettagliati sul meccanismo d'azione non sono invece disponibili nella fonte DrugBank utilizzata per questo report.
+### Approvate (supportate da autorizzazione o scheda tecnica)
+| Indicazione | Fonte |
+|------|------|
+| Nessuna | Nessuna |
 
-L'epilessia visiva è un tipo o una sindrome all'interno dello spettro epilettico, con crisi scatenate da stimoli visivi o con manifestazioni visive. Il razionale è quindi plausibile, perché si basa sullo stesso potenziamento dell'inibizione GABAergica. Va però detto che si tratta più di un'estensione dell'indicazione antiepilettica esistente che di un vero riposizionamento.
+### Correlate a un'indicazione approvata (stessa categoria di malattia)
+| Indicazione | Categoria approvata |
+|------|------|
+| Nessuna | Nessuna |
 
-Il punteggio elevato di TxGNN (0,99) riflette probabilmente la vicinanza nel grafo di conoscenza alla classe delle epilessie ed è solo una predizione. Nessuna fonte citata ha testato la tiagabina specificamente nell'epilessia visiva.
-
-## Evidenza da studi clinici
-
-Al momento non risultano studi clinici correlati registrati.
-
-## Evidenza dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Linea guida/Revisione | Neurology | Aggiornamento delle linee guida AAN/AES sui nuovi antiepilettici nell'epilessia di nuova insorgenza |
-| [12588906](https://pubmed.ncbi.nlm.nih.gov/12588906/) | 2003 | Revisione | J Neurol Neurosurg Psychiatry | Vigabatrin, tiagabina e campi visivi: riguarda la sicurezza visiva, non l'efficacia |
-| [26210064](https://pubmed.ncbi.nlm.nih.gov/26210064/) | 2015 | Revisione | Epilepsy & Behavior | Stato epilettico indotto da farmaci; segnalato rischio di aggravamento delle crisi con la tiagabina in alcuni pazienti |
-| [10530690](https://pubmed.ncbi.nlm.nih.gov/10530690/) | 1999 | Revisione | Epilepsia | Meccanismo unico di inibizione della ricaptazione del GABA; efficace come terapia aggiuntiva nelle crisi parziali; farmacocinetica lineare |
-| [9097364](https://pubmed.ncbi.nlm.nih.gov/9097364/) | 1997 | Revisione | Semin Pediatr Neurol | Efficacia nelle crisi parziali di adulti e adolescenti; dati pediatrici preliminari incoraggianti |
-| [8039477](https://pubmed.ncbi.nlm.nih.gov/8039477/) | 1994 | Revisione | Epilepsia | Effetto anticonvulsivante in modelli animali e in uno studio controllato con placebo nelle crisi parziali complesse |
-| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Revisione | Neuropharmacology | Meccanismi d'azione degli antiepilettici attualmente in uso |
-| [17560495](https://pubmed.ncbi.nlm.nih.gov/17560495/) | 2007 | Revisione | Pediatr Neurol | Effetti avversi visivi degli antiepilettici, in particolare su campo visivo e visione dei colori |
-| [10030435](https://pubmed.ncbi.nlm.nih.gov/10030435/) | 1998 | Revisione | J Intellect Disabil Res | Tiagabina come opzione terapeutica nell'epilessia parziale con disabilità intellettiva |
-| [11520315](https://pubmed.ncbi.nlm.nih.gov/11520315/) | 2001 | Revisione | Epilepsia | Meccanismi GABAergici nell'epilessia |
-
-Nessuna delle pubblicazioni è uno studio randomizzato controllato sulla tiagabina nell'epilessia visiva.
+### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+| Indicazione |
+|------|
+| Nessuna |
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 032951016 | GABITRIL 50 cpr rivestite 5 mg (TEVA ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 032951030 | GABITRIL 50 cpr rivestite 10 mg (TEVA ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 032951055 | GABITRIL 50 cpr rivestite 15 mg (TEVA ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+|------|------|------|------|
+| 032951016 | Tiagabina |  | Valida |
+| 032951030 | Tiagabina |  | Valida |
+| 032951055 | Tiagabina |  | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -95,19 +82,6 @@ Nessuna delle pubblicazioni è uno studio randomizzato controllato sulla tiagabi
 
 Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
 
-## Conclusione e prossimi passi
-
-**Decisione: Hold (sospendere)**
-
-**Motivazione:**
-La predizione si basa solo sul modello (livello di evidenza L4): non esistono studi clinici né studi mirati sulla tiagabina nell'epilessia visiva. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali, quindi non è possibile procedere alla valutazione di sicurezza.
-
-**Per procedere sono necessari:**
-- Foglio illustrativo AIFA con avvertenze e controindicazioni (dato bloccante)
-- Dati dettagliati sul meccanismo d'azione (MOA)
-- Evidenze cliniche o precliniche specifiche sulla tiagabina nell'epilessia visiva
-- Valutazione del rischio visivo (campi visivi) e del rischio di aggravamento delle crisi
-- Chiarimento sulla situazione regolatoria in Italia, dato che le autorizzazioni sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

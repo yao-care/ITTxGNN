@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tenofovir Alafenamide
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 426
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tenofovir Alafenamide: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (SIV) (livello di evidenza L5). Indicazione originale: HIV (infezione) e AIDS, secondo le rel…"
 monitor_inn: "TENOFOVIR ALAFENAMIDE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Tenofovir Alafenamide: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L4). Indicazione originale: No…"
 ---
 
 # Tenofovir Alafenamide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L4** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Tenofovir alafenamide: dall'infezione da HIV all'infezione da virus dell'immunodeficienza delle scimmie (SIV)
+## Tenofovir Alafenamide: Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Si tratta di un risultato utile come modello traslazionale dell'indicazione HIV 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | HIV (infezione) e AIDS, secondo le relazioni del grafo di conoscenza; il testo dell'indicazione autorizzata in Italia non è disponibile |
-| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (SIV) |
-| Punteggio di predizione TxGNN | 99,89% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) |
+| Punteggio di predizione TxGNN | 0.9989 |
 | Livello di evidenza | L4 (solo studi preclinici) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -93,7 +93,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 045253010 | VEMLIDY 30 compresse rivestite da 25 mg (flacone) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 045253010 | VEMLIDY 30 compresse rivestite da 25 mg (flacone) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 
@@ -120,7 +120,7 @@ L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno s
 
 ---
 
-*Nota sulle altre predizioni:* l'AIDS felina (punteggio 99,89%) e un raro disturbo del neurosviluppo con atassia, assenza di linguaggio e riduzione della sostanza bianca corticale (punteggio 99,87%) non hanno studi né pubblicazioni di supporto. La prima è una condizione veterinaria; per la seconda non emerge alcuna base meccanicistica. Entrambe sono probabili artefatti del grafo di conoscenza e restano in stato Hold.
+*Nota sulle altre predizioni:* l'AIDS felina (punteggio 0,9989) e un raro disturbo del neurosviluppo con atassia, assenza di linguaggio e riduzione della sostanza bianca corticale (punteggio 0,9987) non hanno studi né pubblicazioni di supporto. La prima è una condizione veterinaria; per la seconda non emerge alcuna base meccanicistica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

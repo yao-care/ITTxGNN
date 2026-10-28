@@ -4,17 +4,17 @@ title: Olanzapine
 parent: Solo previsione del modello (L5)
 nav_order: 326
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo bipolare, depressione…"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dat…"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Olanzapina: dal disturbo bipolare e dalla schizofrenia alla torcicollo parossistico benigno dell'infanzia
+## Olanzapine: Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
 ## Sintesi
@@ -48,11 +48,11 @@ Tra le tre indicazioni predette, l'**agorafobia** (6 pubblicazioni, nessuna sper
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo bipolare, depressione, disturbi d'ansia (il testo delle indicazioni approvate AIFA non è disponibile; dati dal grafo di conoscenza) |
-| Nuova indicazione predetta | Torcicollo parossistico benigno dell'infanzia |
-| Punteggio di predizione TxGNN | 99,54% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) |
+| Punteggio di predizione TxGNN | 0.9954 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -66,8 +66,7 @@ Per il torcicollo parossistico benigno dell'infanzia **non esiste una base mecca
 
 ### Altre indicazioni predette (per confronto)
 
-- **Agorafobia (rank 2, punteggio 99,47%, livello L3):** strettamente legata al disturbo di panico e allo spettro ansioso, già tra le indicazioni originali del farmaco. L'antagonismo 5-HT2A/2C e D2 rende plausibile un beneficio come terapia di potenziamento nel panico resistente al trattamento. Le prove si limitano a studi open-label di piccole dimensioni e a case report, senza dati randomizzati.
-- **Distimia (rank 3, punteggio 99,28%, livello L4):** plausibile per l'uso dell'olanzapina in ambito depressivo, ma la letteratura è indiretta e non esiste uno studio specifico sull'olanzapina nella distimia. Il rischio metabolico a lungo termine è una preoccupazione.
+- **Agorafobia (rank 2, punteggio 0,9947, livello L3):** strettamente legata al disturbo di panico e allo spettro ansioso, già tra le indicazioni originali del farmaco. L'antagonismo 5-HT2A/2C e D2 rende plausibile un beneficio come terapia di potenziamento nel panico resistente al trattamento. Le prove si limitano a studi open-label di piccole dimensioni e a case report, senza dati randomizzati.
 
 ---
 
@@ -100,11 +99,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ci sono autorizzazioni vali
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 040771115 | Olanzapina 28 cpr orodispersibili 5 mg | EG SpA | Cancellata |
-| 039034196 | Olanzapina 28 cpr rivestite 10 mg | Viatris Limited | Cancellata |
-| 033638115 | Zyprexa Velotab 28 cpr orodispersibili 5 mg | Cheplapharm Registration GmbH | Cancellata |
-| 041011077 | Zalasta 28 cpr 5 mg | KRKA d.d. Novo Mesto | Cancellata |
-| 040532020 | Lazapir 28 cpr orodispersibili 10 mg | Neuraxpharm Italy SpA | Cancellata |
+| 040771115 | Olanzapina 28 cpr orodispersibili 5 mg | EG SpA | Valida |
+| 039034196 | Olanzapina 28 cpr rivestite 10 mg | Viatris Limited | Valida |
+| 033638115 | Zyprexa Velotab 28 cpr orodispersibili 5 mg | Cheplapharm Registration GmbH | Valida |
+| 041011077 | Zalasta 28 cpr 5 mg | KRKA d.d. Novo Mesto | Valida |
+| 040532020 | Lazapir 28 cpr orodispersibili 10 mg | Neuraxpharm Italy SpA | Valida |
 
 ---
 
@@ -122,7 +121,7 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglietto illustr
 **Decisione: Hold**
 
 **Motivazione:**
-Nonostante il punteggio TxGNN molto alto (99,54%), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

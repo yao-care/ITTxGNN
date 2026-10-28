@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cetirizine
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 101
-evidence_level: L2
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Cetirizine: nuova indicazione prevista, Orticaria allergica (livello di evidenza L2). Indicazione originale: Rinite allergica, rinite vasomotoria…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Cetirizine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+last_modified_at: 2026-10-27
+description: "Cetirizine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Cetirizine
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,93 +33,69 @@ Livello di evidenza: **L2** | Indicazioni previste: **6**
 
 </div>
 
-## Cetirizina: dall'orticaria idiopatica all'orticaria allergica
+## Cetirizina: antagonista del recettore H1 → Malattia della cavità nasale (nasal cavity disease)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La cetirizina è un antistaminico anti-H1 di seconda generazione, utilizzato originariamente per rinite allergica, orticaria idiopatica e congiuntiviti allergiche.
-Il modello TxGNN ne predice l'efficacia per l'**orticaria allergica**, con **1 studio clinico** (fase 3, pilota, completato) e **17 pubblicazioni** reperite; la maggior parte della letteratura è però costituita da revisioni, spesso su altri antistaminici.
+La cetirizina è un antistaminico che agisce sul recettore H1 dell'istamina. Il modello TxGNN la indica come possibile candidata per **malattia della cavità nasale (nasal cavity disease)**, un termine molto ampio e poco specifico. Al momento non risultano sperimentazioni cliniche registrate e le **5 pubblicazioni** disponibili sono prevalentemente indirette (revisioni sugli antistaminici H1 e studi preclinici).
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Rinite allergica, rinite vasomotoria, orticaria idiopatica e altre (dal grafo di conoscenza; il testo dell'indicazione autorizzata AIFA non è disponibile) |
-| Nuova indicazione predetta | Orticaria allergica |
-| Punteggio di predizione TxGNN | 99,99% |
-| Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia della cavità nasale (nasal cavity disease) |
+| Punteggio di predizione TxGNN | 0,9977 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Dai dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze farmacologiche generali e ai dati di bersaglio raccolti, la cetirizina è un antagonista selettivo del recettore H1 dell'istamina (gene HRH1), con scarsa penetrazione cerebrale e quindi poco sedativa.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Dalle informazioni farmacologiche disponibili, la cetirizina è un antagonista del recettore H1 (gene HRH1), con scarsa penetrazione cerebrale negli studi sui roditori, motivo per cui non provoca la sonnolenza tipica di altri antistaminici.
 
-Nell'orticaria allergica il rilascio di istamina dai mastociti genera il tipico pomfo con eritema. Bloccare il recettore H1 agisce quindi direttamente sulla fisiopatologia. L'indicazione è inoltre molto vicina a quella già nota di orticaria idiopatica. Va precisato che questo collegamento meccanicistico si fonda su conoscenze farmacologiche generali e non sui dati di meccanismo forniti.
+L'istamina è un mediatore chiave dei sintomi nasali di tipo allergico (prurito, starnuti, rinorrea, congestione). Un antagonista H1 ha quindi una base biologica plausibile per agire sulle patologie della cavità nasale con componente allergica.
 
-Tra le altre predizioni, l'**orticaria da freddo** (punteggio 99,95%, evidenza L3) ha una plausibilità meccanicistica e alcuni dati specifici sulla cetirizina, ma nessuno studio registrato. Le restanti (malattia della cavità nasale, laringofaringite acuta, congiuntivite rosacea, dermatite atopica ricalcitrante) hanno evidenza debole o nulla e sono in gran parte sovrapposte alle indicazioni esistenti o poco plausibili.
+Va però sottolineato che il termine "malattia della cavità nasale" è generico e si sovrappone in larga parte a condizioni per cui gli antistaminici sono già usati (come la rinite allergica). La predizione, quindi, non rappresenta con chiarezza un uso realmente nuovo. La letteratura citata riguarda gli effetti di classe degli antistaminici H1 e non studia direttamente questa malattia come entità specifica; per questo il livello di evidenza è L5.
 
-## Evidenze da studi clinici
+## Evidenza dagli studi clinici
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT02023164](https://clinicaltrials.gov/study/NCT02023164) | Fase 3 | Completato | 36 | Studio pilota multicentrico, randomizzato, in doppio cieco, di fattibilità: cetirizina per via endovenosa (10 mg) vs difenidramina (50 mg) nell'orticaria acuta, in pronto soccorso, urgenze e ambulatori di allergologia |
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
-Si tratta di un piccolo studio di fattibilità, non di uno studio di efficacia definitivo: per questo l'evidenza è L2 e non L1.
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [7510611](https://pubmed.ncbi.nlm.nih.gov/7510611/) | 1993 | Revisione | Drugs | La cetirizina è efficace e ben tollerata nella rinite allergica stagionale/perenne e nell'orticaria cronica idiopatica dell'adulto |
-| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Revisione | Drugs | Proprietà farmacologiche e potenziale clinico in rinite allergica, asma da pollini e orticaria cronica; assenza di effetti depressivi sul SNC alla dose di 10 mg |
-| [7645679](https://pubmed.ncbi.nlm.nih.gov/7645679/) | 1995 | Revisione | Allergy | Studi clinici con cetirizina in rinite allergica e orticaria cronica |
-| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Revisione | Ann Pharmacother | Efficacia e sicurezza degli antistaminici di prima e nuova generazione in rinite allergica e orticaria cronica idiopatica |
-| [7530629](https://pubmed.ncbi.nlm.nih.gov/7530629/) | 1994 | Revisione | Drugs | Cause e trattamento dell'orticaria; gli antistaminici non sedativi sono il cardine della terapia della forma cronica idiopatica |
-| [8477125](https://pubmed.ncbi.nlm.nih.gov/8477125/) | 1993 | Revisione | Ann Pharmacother | Presentazione della cetirizina come antistaminico non sedativo: meccanismo, studi comparativi, effetti avversi |
-| [12113226](https://pubmed.ncbi.nlm.nih.gov/12113226/) | 2002 | Revisione | Clin Allergy Immunol | Antistaminici H1 nei bambini: efficacia ben documentata nella rinocongiuntivite allergica |
-| [27650241](https://pubmed.ncbi.nlm.nih.gov/27650241/) | 2016 | Revisione | Am J Med Sci | Farmaci antiallergici in gravidanza |
-| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Caso clinico | J Clin Gastroenterol | Caso di colestasi indotta da cetirizina in un uomo di 28 anni; aumenti transitori delle transaminasi in <2% dei pazienti negli studi statunitensi |
-| [19348661](https://pubmed.ncbi.nlm.nih.gov/19348661/) | 2009 | Caso clinico | J Dermatol | Orticaria indotta da antistaminici H1 multipli, evento raro |
-
-Altre revisioni reperite riguardano altri antistaminici (fexofenadina, levocetirizina, bilastina, rupatadina) e sono utili solo come evidenza di classe.
+| [11291777](https://pubmed.ncbi.nlm.nih.gov/11291777/) | 2000 | Revisione | Allergy | Gli antistaminici H1 agiscono soprattutto per antagonismo competitivo sul recettore H1; possibili ulteriori meccanismi antiallergici nella rinite allergica |
+| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Revisione | Vestnik otorinolaringologii | Approccio patogenetico al trattamento delle malattie infiammatorie del naso e dei seni paranasali |
+| [35818943](https://pubmed.ncbi.nlm.nih.gov/35818943/) | 2022 | Revisione | Vestnik otorinolaringologii | Antistaminici H1 moderni in pazienti con rinite allergica e infezioni respiratorie acute concomitanti |
+| [9301130](https://pubmed.ncbi.nlm.nih.gov/9301130/) | 1997 | Preclinico | Arerugi | Studio sul ratto/cavia con un altro farmaco (betotastina); la cetirizina è usata come confronto e inibisce l'aumento della permeabilità in modo dose-dipendente |
+| [36116201](https://pubmed.ncbi.nlm.nih.gov/36116201/) | 2022 | Preclinico | Phytomedicine | Capsula erboristica in un modello murino di rinite allergica; poco pertinente alla cetirizina |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano **cancellate**; non ne è valida alcuna. Il testo dell'indicazione autorizzata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+Le informazioni sulle autorizzazioni sono generate dal programma; l'elenco può essere parziale. I dati locali non riportano il testo delle indicazioni approvate.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043629017 | ZIRTEC 20 cpr rivestite 10 mg (GEKOFAR) | Compresse rivestite | Non disponibile |
-| 042955056 | ZIRTEC 20 cpr rivestite 10 mg (GMM FARMA) | Compresse rivestite | Non disponibile |
-| 037819036 | CETERIS gocce orali 20 ml 10 mg/ml (SO.SE.PHARM) | Gocce orali | Non disponibile |
-| 038054021 | CETIRIZINA gocce orali 20 ml 10 mg/ml (AUROBINDO) | Gocce orali | Non disponibile |
-| 037638020 | PRIZITEC gocce orali 20 ml 10 mg/ml (GENETIC) | Gocce orali | Non disponibile |
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Interazioni e farmacologia**: la cetirizina è un ligando del recettore H1 (HRH1).
 
-- **Controindicazioni suggerite dal grafo di conoscenza** (non dal foglio illustrativo): ipertensione, malattie renali (incluse insufficienza renale cronica e terminale), malattie epatiche e della colecisti, diabete e chetoacidosi diabetica, iperplasia prostatica benigna, coronaropatia e aterosclerosi, glaucoma ad angolo chiuso, ipertiroidismo (malattia di Graves, tireotossicosi). Vanno verificate sul foglio illustrativo.
-- **Interazioni**: l'unica voce riportata è l'interazione farmacologica con il bersaglio, il recettore H1, e non un'interazione con altri farmaci.
-- **Segnalazione dalla letteratura**: casi rari di colestasi con aumento transitorio delle transaminasi.
+Per le informazioni complete su avvertenze e controindicazioni, consultare il foglio illustrativo.
 
-Per le avvertenze e le controindicazioni ufficiali consultare il foglio illustrativo.
+## Conclusioni e prossimi passi
 
-## Conclusione e prossimi passi
-
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-Il meccanismo anti-H1 è molto plausibile per l'orticaria e la cetirizina ha già un'indicazione vicina (orticaria idiopatica). Esiste uno studio di fase 3 completato, ma è un piccolo pilota di fattibilità (n=36) e non basta per il livello L1.
+La predizione è basata sul solo modello computazionale, con un termine di malattia troppo generico e senza studi che ne valutino direttamente l'efficacia. La letteratura disponibile è indiretta (revisioni di classe e studi preclinici).
 
 **Per procedere sono necessari:**
-- Studi di efficacia di fase 3 adeguatamente dimensionati nell'orticaria allergica/acuta
-- Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
-- Dati sul meccanismo d'azione da DrugBank
-- Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi occorre verificare la disponibilità commerciale attuale
-- Valutazione della via di somministrazione (lo studio clinico usa la formulazione endovenosa, non quella orale autorizzata in precedenza)
-- Per l'orticaria da freddo, eventuale studio dedicato, dato che esistono dati specifici sulla cetirizina ma nessuno studio registrato
+- Definizione di una indicazione nasale più specifica rispetto al termine generico, distinguendo l'uso già noto da un reale nuovo impiego
+- Studi clinici o pubblicazioni che esaminino direttamente la condizione
+- Acquisizione del testo del foglio illustrativo AIFA (avvertenze e controindicazioni)
+- Dati dettagliati sul meccanismo d'azione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

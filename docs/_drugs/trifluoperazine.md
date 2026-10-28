@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Trifluoperazina: dalla schizofrenia al disturbo bipolare maniacale
+## Trifluoperazina: dalla schizofrenia al disturbo bipolare affettivo maniacale
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,10 +49,10 @@ Il modello TxGNN prevede che possa essere efficace per il **disturbo affettivo b
 |------|------|
 | Indicazione originale | Schizofrenia, ansia (da indicazioni della base di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
 | Nuova indicazione prevista | Disturbo affettivo bipolare maniacale |
-| Punteggio di predizione TxGNN | 99,51% |
+| Punteggio di predizione TxGNN | 0,9951 |
 | Livello di evidenza | L5 (solo predizione del modello, nessuno studio diretto sul farmaco nella nuova indicazione) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 *Nota: il punteggio di evidenza riportato nei dati compilati è L4; poiché la letteratura recuperata non include studi preclinici o meccanicistici specifici sulla mania, secondo le regole di classificazione il livello più coerente è L5. Il caso va considerato al confine tra i due livelli.*
@@ -65,7 +65,7 @@ I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili. In 
 
 Il blocco D2 è il meccanismo condiviso dagli antipsicotici impiegati nella mania acuta, e ciò rende il collegamento biologicamente plausibile. Schizofrenia e mania bipolare sono entrambe condizioni psichiatriche con componente psicotica e disregolazione dopaminergica.
 
-Il punteggio elevato di TxGNN (0,995) è una previsione computazionale e non sostituisce l'evidenza clinica. La letteratura recuperata è in gran parte generica sulla classe o tangenziale (sicurezza degli antipsicotici in gravidanza e allattamento, effetti avversi, schemi prescrittivi, effetti delle fenotiazine sull'apoptosi) e nessun lavoro valuta la trifluoperazina nella mania.
+Il punteggio elevato di TxGNN (0,9951) è una previsione computazionale e non sostituisce l'evidenza clinica. La letteratura recuperata è in gran parte generica sulla classe o tangenziale (sicurezza degli antipsicotici in gravidanza e allattamento, effetti avversi, schemi prescrittivi, effetti delle fenotiazine sull'apoptosi) e nessun lavoro valuta la trifluoperazina nella mania.
 
 ---
 
@@ -100,8 +100,8 @@ Sono presenti inoltre alcuni lavori storici degli anni '60 (ad es. [14084030](ht
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 019184050 | MODALINA*30 cpr rivestite 1 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 019184062 | MODALINA*30 cpr rivestite 2 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 019184050 | MODALINA*30 cpr rivestite 1 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 019184062 | MODALINA*30 cpr rivestite 2 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono prodotti a base di trifluoperazina in commercio in Italia.
 

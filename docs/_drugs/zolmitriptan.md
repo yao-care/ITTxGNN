@@ -4,17 +4,17 @@ title: Zolmitriptan
 parent: Solo previsione del modello (L5)
 nav_order: 470
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Zolmitriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Emicrania (con o senza aura)"
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Zolmitriptan: dall'emicrania all'emicrania con aura del tronco encefalico
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ ma al momento non risultano **sperimentazioni cliniche** registrate e le **20 pu
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (con o senza aura) |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 (predizione del modello, senza studi diretti sulla nuova indicazione) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -85,11 +85,11 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033345012 | ZOMIG 3 cpr rivestite 2,5 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 033345149 | ZOMIG RAPIMELT 6 cpr orodispersibili 2,5 mg (Grunenthal Italia) | Compresse orodispersibili | Non disponibile (autorizzazione cancellata) |
-| 040164081 | HEADZOL 6 cpr orodispersibili 2,5 mg (Lanova Farmaceutici) | Compresse orodispersibili | Non disponibile (autorizzazione cancellata) |
-| 039887031 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (DOC Generici) | Compresse orodispersibili | Non disponibile (autorizzazione cancellata) |
-| 039771035 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (Aurobindo Pharma Italia) | Compresse orodispersibili | Non disponibile (autorizzazione cancellata) |
+| 033345012 | ZOMIG 3 cpr rivestite 2,5 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 033345149 | ZOMIG RAPIMELT 6 cpr orodispersibili 2,5 mg (Grunenthal Italia) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
+| 040164081 | HEADZOL 6 cpr orodispersibili 2,5 mg (Lanova Farmaceutici) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
+| 039887031 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (DOC Generici) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
+| 039771035 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (Aurobindo Pharma Italia) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
 
 Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5.
 
@@ -115,7 +115,6 @@ La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmit
 - Valutazione approfondita del rischio cardio- e cerebrovascolare, in particolare dell'insufficienza vertebrobasilare
 - Verifica della disponibilità commerciale del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate
 
-Le altre due indicazioni previste (atrophoderma vermiculata e ulerythema ophryogenesis) non hanno alcun razionale meccanicistico né evidenze cliniche o bibliografiche (livello L5) e sono considerate probabili artefatti del grafo di conoscenza: raccomandazione Hold.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

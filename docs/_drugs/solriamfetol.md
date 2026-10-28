@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Solriamfetol
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 409
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Narcolessia e sindrome da apnea ostruttiva del sonno…"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 # Solriamfetol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Solriamfetol è un inibitore della ricaptazione di dopamina e noradrenalina, ori
 |------|------|
 | Indicazione originale | Narcolessia e sindrome da apnea ostruttiva del sonno (secondo la base di conoscenza TxGNN; il testo dell'indicazione autorizzata in Italia non è disponibile) |
 | Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0,9999 |
 | Livello di evidenza | L1 (vedi nota sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 *Nota sul livello di evidenza:* il livello L1 richiede almeno due studi di fase 3 randomizzati completati. Nei dati compilati è completato un solo studio di fase 3 (NCT05972044) più uno studio pilota di fase 2/3 (NCT04839562); gli altri studi di fase 3 sono ancora in corso. L'assegnazione L1 deriva dal punteggio dei dati compilati, ma andrebbe considerata prudenzialmente, più vicina a L2, finché non saranno disponibili i risultati.

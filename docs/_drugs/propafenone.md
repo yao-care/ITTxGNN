@@ -4,17 +4,17 @@ title: Propafenone
 parent: Prove moderate (L3-L4)
 nav_order: 365
 evidence_level: L3
-indication_count: 8
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Propafenone: nuova indicazione prevista, Tachicardia ventricolare polimorfa catecolaminergica (CPVT) (livello di evidenza L3). Indicazione originale: Fibrillazione atriale"
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
+description: "Propafenone: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Propafenone
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **8** 
+Livello di evidenza: **L3** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Livello di evidenza: **L3** | Indicazioni previste: **8**
 
 </div>
 
-## Propafenone: dalla fibrillazione atriale e tachicardia ventricolare alla tachicardia ventricolare polimorfa catecolaminergica
+## Propafenone: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 Il propafenone è un antiaritmico originariamente utilizzato per la fibrillazione atriale e la tachicardia ventricolare.
-Il modello TxGNN lo indica come possibile candidato per la **tachicardia ventricolare polimorfa catecolaminergica (CPVT)**, con **nessuno studio clinico registrato** e **10 pubblicazioni** (soprattutto studi preclinici, coorti e casi clinici) a supporto di questa direzione.
 
 Nota metodologica: l'indicazione con il punteggio TxGNN più alto (rank 1) è il disturbo bipolare maniacale, ma i dati compilati per questo report indicano un possibile danno anziché un beneficio. Per questo motivo il report si concentra sulla CPVT, che è l'ipotesi più plausibile tra quelle valutate, e riassume le altre candidate nella sezione conclusiva.
 
@@ -49,12 +48,12 @@ Nota metodologica: l'indicazione con il punteggio TxGNN più alto (rank 1) è il
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Fibrillazione atriale; tachicardia ventricolare (dalle relazioni del knowledge graph; i testi di indicazione AIFA non sono disponibili) |
-| Nuova indicazione predetta | Tachicardia ventricolare polimorfa catecolaminergica (CPVT) |
-| Punteggio di predizione TxGNN | 99,79% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Manic bipolar affective disorder |
+| Punteggio di predizione TxGNN | 0.9980 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
+| Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione raccomandata | Hold (con indicazione di approfondimento come quesito di ricerca) |
 
 ---
@@ -108,7 +107,7 @@ Tutte le 14 autorizzazioni (comprese quelle di medicinali equivalenti di Towa, E
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni (dalle relazioni del knowledge graph, non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, malattia renale, malattia epatica, malattia della colecisti, carenza di potassio, ipotensione, infarto miocardico, malattia coronarica e aterosclerosi, miastenia gravis, agranulocitosi e neutropenia (comprese le forme congenite).
+- **Controindicazioni (non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, malattia renale, malattia epatica, malattia della colecisti, carenza di potassio, ipotensione, infarto miocardico, malattia coronarica e aterosclerosi, miastenia gravis, agranulocitosi e neutropenia (comprese le forme congenite).
 - **Interazioni farmacologiche**: sono state rilevate 100 interazioni. Tra quelle di livello **maggiore** figurano dolasetron ed eliglustat. Tra quelle di livello moderato: famotidina, alosetron, loperamide, bupropione, aprepitant, lorcaserina, cimetidina, claritromicina, levofloxacina, ondansetron e palonosetron, oltre a diversi lassativi. Il metronidazolo è di livello minore.
 - **Segnali specifici per le altre indicazioni predette**: casi di mania indotta da propafenone, psicosi da interazione con venlafaxina, allargamento del QRS e tachicardia ventricolare incessante in pazienti con cardiomiopatia aritmogena del ventricolo destro.
 

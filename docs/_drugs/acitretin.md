@@ -48,10 +48,10 @@ L'acitretina è un retinoide sistemico di seconda generazione, noto per l'impieg
 |------|------|
 | Indicazione originale | Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione predetta | Acne |
-| Punteggio di predizione TxGNN | 99,94% |
+| Punteggio di predizione TxGNN | 0,9994 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -84,10 +84,10 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata | Stato |
 |---------|------|------|-----------|------|
-| 027480019 | NEOTIGASON 30 cps 10 mg | n.d. | n.d. | Cancellata |
-| 027480021 | NEOTIGASON 20 cps 25 mg | n.d. | n.d. | Cancellata |
-| 041619014 | ZORIAS 30 cps 10 mg | n.d. | n.d. | Cancellata |
-| 041619065 | ZORIAS 20 cps 25 mg | n.d. | n.d. | Cancellata |
+| 027480019 | NEOTIGASON 30 cps 10 mg | n.d. | n.d. | Valida |
+| 027480021 | NEOTIGASON 20 cps 25 mg | n.d. | n.d. | Valida |
+| 041619014 | ZORIAS 30 cps 10 mg | n.d. | n.d. | Valida |
+| 041619065 | ZORIAS 20 cps 25 mg | n.d. | n.d. | Valida |
 
 Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.
 
@@ -116,7 +116,7 @@ Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non es
 - Evidenza clinica diretta nell'acne e confronto con l'isotretinoina
 - Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate) e di un eventuale piano di gestione del rischio teratogeno
 
-**Note sulle altre predizioni** (tutte L5, Hold): lupus eritematoso sistemico pediatrico (punteggio 99,35%; legame speculativo e rischi pediatrici come chiusura precoce delle epifisi), eritroblastosi fetale (99,28%; probabile artefatto del grafo, clinicamente inappropriata per la teratogenicità) e sindrome familiare da teleangectasia cutanea e predisposizione al cancro orofaringeo (99,10%; legame teorico debole, richiederebbe un approccio specialistico caso per caso).
+**Note sulle altre predizioni** (tutte L5, Hold): lupus eritematoso sistemico pediatrico (punteggio 0,9935; legame speculativo e rischi pediatrici come chiusura precoce delle epifisi), eritroblastosi fetale (0,9928; il punteggio proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica; clinicamente inappropriata per la teratogenicità) e sindrome familiare da teleangectasia cutanea e predisposizione al cancro orofaringeo (0,9910; legame teorico debole, richiederebbe un approccio specialistico caso per caso).
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

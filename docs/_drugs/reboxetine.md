@@ -4,17 +4,17 @@ title: Reboxetine
 parent: Solo previsione del modello (L5)
 nav_order: 375
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Reboxetine: nuova indicazione prevista, Agorafobia (rango 2 (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
+description: "Reboxetine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "Reboxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "Ohdo syndrome and variants", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
 ---
 
 # Reboxetine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Reboxetina: dalla depressione maggiore all'agorafobia
+## Reboxetina: dalla depressione maggiore al torcicollo parossistico benigno dell'infanzia
 {: .text-alpha }
 
 ## Sintesi
@@ -41,7 +41,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 La reboxetina è un inibitore selettivo della ricaptazione della noradrenalina, originariamente utilizzato per la depressione (depressione unipolare, depressione endogena, disturbo depressivo maggiore) e i disturbi d'ansia.
 Il modello TxGNN prevede che possa essere efficace per l'**agorafobia** (la prima indicazione prevista, la paziente "benign paroxysmal torticollis of infancy", è priva di qualsiasi evidenza e viene discussa più avanti), con **0 studi clinici registrati** e **5 pubblicazioni** a supporto indiretto, riferite per lo più al disturbo di panico.
 
-> Nota: l'indicazione di rango 1 per TxGNN è la torcicollo parossistico benigno dell'infanzia (punteggio 99,92%), ma senza alcuna evidenza (L5). Per questo il report si concentra sull'agorafobia, la prima previsione con evidenza documentata. Le altre previsioni sono riassunte nella sezione dedicata.
+> Nota: l'indicazione di rango 1 per TxGNN è la torcicollo parossistico benigno dell'infanzia (punteggio 0,9992), ma senza alcuna evidenza (L5). Per questo il report si concentra sull'agorafobia, la prima previsione con evidenza documentata. Le altre previsioni sono riassunte nella sezione dedicata.
 
 ---
 
@@ -51,10 +51,10 @@ Il modello TxGNN prevede che possa essere efficace per l'**agorafobia** (la prim
 |------|------|
 | Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (testo autorizzativo AIFA non disponibile) |
 | Nuova indicazione prevista | Agorafobia (rango 2; il rango 1 è il torcicollo parossistico benigno dell'infanzia, senza evidenze) |
-| Punteggio di predizione TxGNN | 99,91% (agorafobia); 99,92% (torcicollo parossistico benigno dell'infanzia) |
-| Livello di evidenza | L3 (agorafobia) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Punteggio di predizione TxGNN | 0,9991 (agorafobia); 0,9992 (torcicollo parossistico benigno dell'infanzia) |
+| Livello di evidenza | L5 (agorafobia) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -89,15 +89,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Indicazione | Punteggio TxGNN | Livello di evidenza | Valutazione |
 |------|------|------|------|
-| Torcicollo parossistico benigno dell'infanzia | 99,92% | L5 | Solo predizione; nessun legame meccanicistico plausibile; criticità di sicurezza in ambito pediatrico |
-| Disturbo distimico | 99,87% | L3 | Studi piccoli o fisiologici sulla reboxetina nella distimia; meta-analisi sugli antidepressivi come classe |
-| Sindrome di Ohdo e varianti | 99,76% | L5 | Solo predizione, probabile artefatto del grafo di conoscenza |
-| Melancolia | 99,74% | L2 | Evidenza di classe nel disturbo depressivo maggiore; sostanzialmente un'indicazione originale |
-| Depressione nevrotica | 99,74% | L2 | Termine storico; evidenza di classe, efficacia comparativa debole |
-| Sindrome blefarofimosi–disabilità intellettiva, tipo Ohdo | 99,70% | L5 | Solo predizione |
-| Disturbo nevrotico | 99,66% | L4 | Categoria obsoleta; supporto solo indiretto |
-| Sindrome di Keppen-Lubinsky | 99,54% | L5 | Solo predizione |
-| Congiuntivite lignea | 99,40% | L5 | Solo predizione; patologia non correlata al segnale noradrenergico |
+| Torcicollo parossistico benigno dell'infanzia | 0,9992 | L5 | Solo predizione; nessun legame meccanicistico plausibile; criticità di sicurezza in ambito pediatrico |
+| Sindrome di Ohdo e varianti | 0,9976 | L5 | Solo predizione del modello TxGNN (deep learning), può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica |
+| Sindrome blefarofimosi–disabilità intellettiva, tipo Ohdo | 0,9970 | L5 | Solo predizione |
+| Disturbo nevrotico | 0,9966 | L5 | Categoria obsoleta; supporto solo indiretto |
+| Sindrome di Keppen-Lubinsky | 0,9954 | L5 | Solo predizione |
+| Congiuntivite lignea | 0,9940 | L5 | Solo predizione; patologia non correlata al segnale noradrenergico |
 
 ---
 
@@ -105,8 +102,8 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 033632011 | EDRONAX*20 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione revocata) |
-| 033632023 | EDRONAX*60 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione revocata) |
+| 033632011 | EDRONAX*20 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
+| 033632023 | EDRONAX*60 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
 
 ---
 

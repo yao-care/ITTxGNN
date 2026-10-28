@@ -4,7 +4,7 @@ title: Dupilumab
 parent: Prove moderate (L3-L4)
 nav_order: 160
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Dupilumab: nuova indicazione prevista, Bronchite (livello di evidenza L3). Indicazione originale: Dermatite atopica (eczema atopico)"
 monitor_inn: "DUPILUMAB"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neon
 # Dupilumab
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Dupilumab è un anticorpo monoclonale che blocca il recettore alfa dell'interleu
 |------|------|
 | Indicazione originale | Dermatite atopica (eczema atopico) |
 | Nuova indicazione prevista | Bronchite |
-| Punteggio di predizione TxGNN | 99,92% |
+| Punteggio di predizione TxGNN | 0,9992 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 10 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -97,11 +97,11 @@ Tutte le autorizzazioni del prodotto (DUPIXENT, titolare SANOFI WINTHROP INDUSTR
 
 | Numero di autorizzazione | Prodotto | Forma / confezione | Stato |
 |---------|------|------|-----------|
-| 045676133 | DUPIXENT 1 penna preriempita SC 200 mg 1,14 ml | Penna preriempita (SC) | Cancellata |
-| 045676273 | DUPIXENT 2 penne preriempite SC 300 mg 2 ml | Penna preriempita (SC) | Cancellata |
-| 045676172 | DUPIXENT 1 penna preriempita SC 300 mg 2 ml | Penna preriempita (SC) | Cancellata |
-| 045676057 | DUPIXENT 1 siringa preriempita SC 300 mg 2 ml | Siringa preriempita (SC) | Cancellata |
-| 045676246 | DUPIXENT 2 penne preriempite SC 200 mg 1,14 ml | Penna preriempita (SC) | Cancellata |
+| 045676133 | DUPIXENT 1 penna preriempita SC 200 mg 1,14 ml | Penna preriempita (SC) | Valida |
+| 045676273 | DUPIXENT 2 penne preriempite SC 300 mg 2 ml | Penna preriempita (SC) | Valida |
+| 045676172 | DUPIXENT 1 penna preriempita SC 300 mg 2 ml | Penna preriempita (SC) | Valida |
+| 045676057 | DUPIXENT 1 siringa preriempita SC 300 mg 2 ml | Siringa preriempita (SC) | Valida |
+| 045676246 | DUPIXENT 2 penne preriempite SC 200 mg 1,14 ml | Penna preriempita (SC) | Valida |
 
 ---
 

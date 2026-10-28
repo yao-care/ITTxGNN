@@ -4,17 +4,17 @@ title: Teriparatide
 parent: Solo previsione del modello (L5)
 nav_order: 430
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Teriparatide: nuova indicazione prevista, Ulcera duodenale (livello di evidenza L5). Indicazione originale: Osteoporosi postmenopausale / osteoporosi (da indicazioni del grafo d…"
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
+description: "Teriparatide: nuova indicazione prevista, Ulcera duodenale (duodenal ulcer (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Teriparatide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Teriparatide: Dall'osteoporosi postmenopausale all'ulcera duodenale
+## Teriparatide: Ulcera duodenale (duodenal ulcer (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Si tratta quindi di una previsione puramente computazionale, priva di un raziona
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Osteoporosi postmenopausale / osteoporosi (da indicazioni del grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Ulcera duodenale |
-| Punteggio di previsione TxGNN | 99,86% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ulcera duodenale (duodenal ulcer (disease)) |
+| Punteggio di previsione TxGNN | 0.9986 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 10 (0 valide, 10 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -64,7 +64,7 @@ Teriparatide è un analogo del paratormone umano (PTH 1-34). Agisce come agonist
 
 Il legame con l'ulcera duodenale non è plausibile. L'osteoporosi è una malattia del rimodellamento osseo, mentre l'ulcera duodenale è un danno della mucosa gastrointestinale, e non emerge alcun collegamento tra la segnalazione di PTH1R e la fisiopatologia dell'ulcera. L'analisi condotta sui dati disponibili conclude che non c'è un razionale meccanicistico evidente.
 
-L'elevato punteggio TxGNN (posizione 1153 nella classifica globale) riflette quindi una relazione statistica nel grafo di conoscenza e non un'evidenza biologica o clinica. Va considerato solo un segnale di partenza, da verificare.
+L'elevato punteggio TxGNN (posizione 1153 nella classifica globale) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non un'evidenza biologica o clinica. Va considerato solo un segnale di partenza, da verificare.
 
 ---
 
@@ -82,7 +82,7 @@ Al momento non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 10 autorizzazioni di teriparatide in Italia risultano cancellate; nessuna è attualmente valida. Si riportano le prime 5.
+Si riportano le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
@@ -117,7 +117,7 @@ Per l'ulcera duodenale esistono solo una previsione del modello e nessuno studio
 - Completare i dati sul meccanismo d'azione.
 - Individuare un razionale biologico credibile ed evidenze precliniche prima di qualsiasi sperimentazione.
 
-**Nota sulle altre previsioni:** tra le altre indicazioni previste, l'**osteoporosi associata a gravidanza e allattamento** (punteggio 99,55%, livello L3) ha il supporto più consistente. Comprende una revisione sistematica con meta-analisi, studi di coorte e numerose revisioni, e teriparatide è già usato off-label in questo contesto. Non risultano però RCT né studi registrati. Questa indicazione, più coerente con l'azione anabolica sull'osso, merita una valutazione dedicata, per esempio con studi prospettici controllati o registri. Anche l'osteoporosi in amenorrea ipotalamica funzionale (L4) ha un legame indiretto, limitato alla complicanza ossea.
+**Nota sulle altre previsioni:** tra le altre indicazioni previste, l'osteoporosi in amenorrea ipotalamica funzionale (L4) ha un legame indiretto, limitato alla complicanza ossea.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

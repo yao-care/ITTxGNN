@@ -6,9 +6,9 @@ nav_order: 321
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norethisterone: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Endometriosi, insufficienza ovarica primaria…"
 monitor_inn: "norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norethisterone: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Norethisterone
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Noretisterone: dalle indicazioni ginecologiche e endocrine all'amenorrea
+## Norethisterone: Amenorrea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede che possa essere utile per l'**amenorrea**, ma per ques
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Endometriosi, insufficienza ovarica primaria, osteoporosi post-menopausale, vaginite atrofica post-menopausale, acne (indicazioni dal knowledge graph; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Amenorrea |
-| Punteggio di predizione TxGNN | 99,60% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Amenorrea (amenorrhea (disease)) |
+| Punteggio di predizione TxGNN | 0.9960 |
 | Livello di evidenza | L5 (nessuno studio clinico registrato; solo predizione del modello, con letteratura indiretta) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 > Nota: l'analisi compilata assegna il livello L4 (domanda di ricerca). Applicando le regole di questo report, in assenza di studi clinici, di studi osservazionali specifici o di studi preclinici sull'amenorrea, il livello più appropriato è L5. La letteratura raccolta è per lo più indiretta.
@@ -88,9 +88,9 @@ Sono elencate le pubblicazioni più rilevanti. La maggior parte riguarda contrac
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034117010 | ACTIVELLE*28 cpr rivestite 1 mg + 0,5 mg (Novo Nordisk SpA) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 049616016 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg flacone (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 049616030 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 034117010 | ACTIVELLE*28 cpr rivestite 1 mg + 0,5 mg (Novo Nordisk SpA) | Non indicata | Non disponibile (autorizzazione valida) |
+| 049616016 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg flacone (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione valida) |
+| 049616030 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

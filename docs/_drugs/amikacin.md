@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amikacin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 37
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amikacin: nuova indicazione prevista, Febbre paratifoide (livello di evidenza L4). Indicazione originale: Polmonite batterica, infezioni da Pseudomonas aeruginosa, colangite…"
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
+last_modified_at: 2026-10-27
+description: "Amikacin: nuova indicazione prevista, Febbre paratifoide (paratyphoid fever) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Amikacin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Amikacina: dalle infezioni batteriche gravi alla febbre paratifoide
+## Amikacina: aminoglicoside antibatterico → Febbre paratifoide (paratyphoid fever)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-L'amikacina è un antibiotico aminoglicosidico usato per infezioni gravi da batteri Gram-negativi, come polmonite batterica, infezioni da *Pseudomonas aeruginosa* e meningite batterica. Il modello TxGNN prevede che possa essere efficace per la **febbre paratifoide**, ma a oggi non risultano **sperimentazioni cliniche registrate** e le **8 pubblicazioni** raccolte sono quasi tutte studi epidemiologici o di sensibilità, senza dati interventistici.
+L'amikacina è un antibiotico aminoglicosidico per uso iniettabile (intramuscolo ed endovenoso), con attività contro i batteri Gram-negativi. Il modello TxGNN prevede una possibile utilità per la **febbre paratifoide (paratyphoid fever)**, ma i dati compilati per questo report comprendono **0 studi clinici** e **8 pubblicazioni**, quasi tutte di tipo epidemiologico o di sensibilità agli antibiotici, senza dati interventistici diretti.
 
 ---
 
@@ -46,31 +46,29 @@ L'amikacina è un antibiotico aminoglicosidico usato per infezioni gravi da batt
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Polmonite batterica, infezioni da *Pseudomonas aeruginosa*, colangite, meningite batterica e altre infezioni da Gram-negativi (dal grafo di conoscenza; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Febbre paratifoide |
-| Punteggio di predizione TxGNN | 99,82% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 9 (tutte revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Febbre paratifoide (paratyphoid fever) |
+| Punteggio di predizione TxGNN | 0,9982 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ---
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, l'amikacina è un aminoglicoside che inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 30S, con attività sui batteri Gram-negativi. È quindi plausibile un'attività contro *Salmonella* Paratyphi, e questo spiega in parte la predizione.
+I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati. Per la classe, gli aminoglicosidi inibiscono la subunità ribosomiale 30S batterica e hanno attività sui Gram-negativi; è quindi plausibile un'attività in vitro contro *Salmonella paratyphi*.
 
-Esiste però un limite importante: gli aminoglicosidi penetrano male nelle cellule, mentre la *Salmonella* è un patogeno intracellulare. L'efficacia clinica nella febbre enterica è quindi dubbia. La terapia standard si basa su fluorochinoloni, azitromicina e cefalosporine di terza generazione.
+Tuttavia esiste un limite importante: gli aminoglicosidi penetrano male nelle cellule, mentre la Salmonella è un patogeno intracellulare. L'efficacia clinica nella febbre enterica è perciò dubbia. Le evidenze disponibili sono studi epidemiologici e antibiogrammi, senza dati di intervento.
 
-Le evidenze disponibili sono indirette (epidemiologia, antibiogrammi, casi clinici) e non c'è alcun dato interventistico a sostegno.
-
-Le altre indicazioni previste mostrano un quadro simile o più debole: febbre tifoide e salmonellosi (L4, solo dati indiretti), meningococcemia (L4, con ruolo non stabilito degli aminoglicosidi), mentre sclerodermia diffusa, analbuminemia congenita, iperamilasemia e sindrome da iperviscosità policlonale non hanno alcun legame meccanicistico plausibile e sono probabilmente artefatti del grafo.
+Secondo la regola di prudenza adottata, nessuno degli studi citati valuta direttamente l'amikacina nella febbre paratifoide come malattia bersaglio: per questo il livello di evidenza è fissato a L5, nonostante la presenza di letteratura indiretta.
 
 ---
 
-## Evidenze da sperimentazioni cliniche
+## Evidenze da studi clinici
 
-Al momento non risultano sperimentazioni cliniche correlate registrate.
+Attualmente non risultano studi clinici correlati registrati.
 
 ---
 
@@ -78,61 +76,51 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Coorte prospettica | J Indian Med Assoc | Studio clinico e microbiologico su 145 bambini con febbre enterica, con profilo di sensibilità agli antibiotici di *S.* Typhi e Paratyphi |
-| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Caso clinico | Pediatr Hematol Oncol | Colecistite acalculosa da *S.* Paratyphi B in un bambino con leucemia, trattato con successo con cefepime, amikacina e G-CSF |
-| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Report clinico | Mikrobiyol Bul | Trattamento e antibiogramma di 48 pazienti con infezione da paratifo B resistente alla terapia classica |
-| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Osservazionale | Med J Armed Forces India | Ricomparsa della sensibilità al cloramfenicolo in 45 casi di febbre enterica (*S.* Typhi e Paratyphi A) |
-| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologia | New Microbiol | Frequenza di *S.* Typhi e Paratyphi in Giordania nel periodo 1988-2000 |
-| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Studio microbiologico | Pak J Biol Sci | Isolamento di *S.* Paratyphi da pazienti con febbre enterica a Quetta |
-| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Antibiogramma | JNMA | Frequenza degli isolati da emocoltura e relativi profili di sensibilità |
-| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Serie di casi | J Pediatr Surg | Drenaggio percutaneo e antibiotici in 4 bambini con ascesso splenico |
-
-L'8° studio elencato nei dati (PMID 8354556, 1993, Indian J Pathol Microbiol) riguarda la resistenza di *S.* Typhi: i ceppi multiresistenti erano sensibili agli aminoglicosidi e al ciprofloxacina. Non è uno studio clinico sulla febbre paratifoide.
+| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Caso clinico | Pediatric Hematology and Oncology | Colecistite alitiasica da *S. paratyphi* B in un bambino con leucemia, trattata con successo con cefepime, amikacina e G-CSF |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Coorte prospettica | Journal of the Indian Medical Association | 145 casi pediatrici di febbre enterica; profilo clinico e sensibilità antibiotica di *S. typhi* e *S. paratyphi* |
+| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Rapporto clinico | Mikrobiyoloji Bülteni | 48 pazienti con infezione da paratyphi B resistente ai trattamenti classici; esiti degli antibiotici impiegati |
+| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Osservazionale | Medical Journal, Armed Forces India | Ritorno della sensibilità al cloramfenicolo nella febbre enterica (45 casi) |
+| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologia | The New Microbiologica | Frequenza di *S. typhi* e *S. paratyphi* in Giordania, 1988–2000 |
+| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Studio microbiologico | Pakistan Journal of Biological Sciences | Isolamento di *S. paratyphi* da pazienti con febbre enterica a Quetta |
+| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Antibiogramma | JNMA | Frequenza degli isolati da emocoltura e relativo antibiogramma |
+| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Serie di casi | Journal of Pediatric Surgery | Gestione di ascessi splenici pediatrici con drenaggio percutaneo e antibiotici |
 
 ---
 
 ## Informazioni sul mercato italiano
 
+Secondo i dati compilati, risultano 9 autorizzazioni, tutte di tipo monocomponente. I testi delle indicazioni approvate e le forme farmaceutiche non sono riportati.
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025513033 | CHEMACIN fiala IM EV 500 mg 2 ml (C.T. Lab. Farmaceutico) | Fiala | Revocata |
-| 024475067 | LIKACIN flaconcino IM EV 1 g 4 ml (Lisapharma) | Flaconcino | Revocata |
-| 024475055 | LIKACIN flaconcino IM EV 500 mg 2 ml (Lisapharma) | Flaconcino | Revocata |
-| 028423022 | MIKAN fiala IM EV 1 g 4 ml (S.F. Group) | Fiala | Revocata |
-| 024527071 | LUKADIN fiala IM EV 1 g 4 ml (Lanova Farmaceutici) | Fiala | Revocata |
-
-Complessivamente sono presenti 9 autorizzazioni, tutte revocate; nel quadro non risultano autorizzazioni valide. Il testo dell'indicazione approvata non è presente nei dati compilati.
+| 025513033 | CHEMACIN fiala IM EV 500 mg 2 ml | Non riportata | Non riportata |
+| 024475067 | LIKACIN flaconcino IM EV 1 g 4 ml | Non riportata | Non riportata |
+| 024475055 | LIKACIN flaconcino IM EV 500 mg 2 ml | Non riportata | Non riportata |
+| 028423022 | MIKAN fiala IM EV 1 g 4 ml | Non riportata | Non riportata |
+| 024527071 | LUKADIN fiala IM EV 1 g 4 ml | Non riportata | Non riportata |
 
 ---
 
-## Citotossicità
+## Considerazioni di sicurezza
 
-Non applicabile: l'amikacina è un antibiotico e non un farmaco antineoplastico.
+- **Interazioni farmacologiche**: sono state rilevate 212 interazioni. Quelle di livello **maggiore** includono solfato di magnesio e mannitolo. Tra quelle di livello moderato figurano amfotericina B, altri aminoglicosidi (kanamicina, neomicina), acido acetilsalicilico, mesalazina e vari inibitori di pompa protonica (omeprazolo, esomeprazolo, lansoprazolo, pantoprazolo, rabeprazolo).
 
----
-
-## Considerazioni sulla sicurezza
-
-- **Controindicazioni segnalate dal grafo di conoscenza** (non derivate dal foglietto illustrativo): malattia renale, piouretere, ipercalcemia, nefrocalcinosi, disturbi del metabolismo del fosforo, vertigini di origine centrale, miastenia gravis (anche ad esordio nell'adulto), malattie della giunzione neuromuscolare, parkinsonismo e malattia di Parkinson.
-- **Interazioni farmacologiche**: sono state identificate 212 interazioni. Quelle di livello **maggiore** riguardano **solfato di magnesio** e **mannitolo**. Tra quelle di livello moderato figurano amfotericina B (tutte le formulazioni), kanamicina, neomicina, acido acetilsalicilico, mesalazina, balsalazide, olsalazina, exenatide e gli inibitori di pompa protonica (omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo).
-
-Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illustrativo.
+Per le avvertenze e le controindicazioni si rimanda al foglietto illustrativo.
 
 ---
 
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è di livello L4: solo dati epidemiologici, di sensibilità in vitro e casi clinici, senza sperimentazioni registrate. A ciò si aggiungono la scarsa penetrazione intracellulare degli aminoglicosidi, l'esistenza di alternative standard efficaci e il fatto che in Italia tutte le autorizzazioni risultano revocate.
+- La predizione è sostenuta solo da letteratura indiretta (epidemiologia, antibiogrammi, singoli casi) e non da studi interventistici. Il trattamento standard della febbre enterica si basa su fluorochinoloni, azitromicina e cefalosporine di terza generazione, mentre gli aminoglicosidi hanno scarsa penetrazione intracellulare.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank
-- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (indispensabili per lo screening di sicurezza)
-- Studi comparativi o interventistici sulla febbre paratifoide/enterica che confrontino l'amikacina con le terapie standard
-- Dati su penetrazione intracellulare e farmacocinetica/farmacodinamica nelle infezioni da *Salmonella*
-- Verifica della disponibilità di prodotti a base di amikacina in Italia e della compatibilità della via di somministrazione
+- Dati sperimentali o clinici che valutino direttamente l'amikacina nella febbre paratifoide
+- Dati sul meccanismo d'azione
+- Testi di avvertenze e controindicazioni dal foglietto illustrativo AIFA
+- Un piano di monitoraggio della tossicità (renale e uditiva) tipica degli aminoglicosidi
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

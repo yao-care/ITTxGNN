@@ -6,9 +6,9 @@ nav_order: 237
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Indacaterol: nuova indicazione prevista, Malattia bronchiale (bronchial disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (testo dell'indicazio"
 monitor_inn: "indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+description: "Indacaterol: nuova indicazione prevista, Nephrogenic syndrome of inappropriate antidiuresis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Indacaterol
@@ -33,12 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Indacaterolo: da broncopneumopatia ostruttiva a malattia bronchiale
+## Indacaterol: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Indacaterolo è un agonista beta-2 adrenergico a lunghissima durata d'azione (ultra-LABA), impiegato per la broncodilatazione nelle malattie ostruttive delle vie aeree. Il modello TxGNN lo prevede come potenzialmente efficace per la **malattia bronchiale** (punteggio 99,18%), con **22 studi clinici** e **19 pubblicazioni** associati. Si tratta però in gran parte di una conferma dell'uso già noto della classe, non di un vero riposizionamento.
+Indacaterolo è un agonista beta-2 adrenergico a lunghissima durata d'azione (ultra-LABA), impiegato per la broncodilatazione nelle malattie ostruttive delle vie aeree. Il modello TxGNN lo prevede come potenzialmente efficace per la **malattia bronchiale** (punteggio 0,9918), con **22 studi clinici** e **19 pubblicazioni** associati. Si tratta però in gran parte di una conferma dell'uso già noto della classe, non di un vero riposizionamento.
 
 ---
 
@@ -46,12 +46,12 @@ Indacaterolo è un agonista beta-2 adrenergico a lunghissima durata d'azione (ul
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati di autorizzazione AIFA (testo dell'indicazione vuoto) |
-| Nuova indicazione prevista | Malattia bronchiale (bronchial disease) |
-| Punteggio di predizione TxGNN | 99,18% |
-| Livello di evidenza | L1 (secondo i dati compilati; vedi nota nella sezione Conclusioni) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Nephrogenic syndrome of inappropriate antidiuresis |
+| Punteggio di predizione TxGNN | 0.9954 |
+| Livello di evidenza | L5 (secondo i dati compilati; vedi nota nella sezione Conclusioni) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Proceed with Guardrails |
 
 Nota: la predizione di rango 1 per punteggio (sindrome nefrogenica di inappropriata antidiuresi) e le altre predizioni di rango superiore non hanno alcuna evidenza (L5, Hold). Questo report si concentra sulla predizione di rango 7, l'unica supportata da studi clinici e letteratura.
@@ -110,11 +110,11 @@ Nota: lo studio NCT04206761 (Fase 3, QVM149 con risonanza magnetica allo xeno) �
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 039664026 | ONBREZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 039664077 | ONBREZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 039699020 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 039699071 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 043031032 | ULTIBRO BREEZHALER polvere inalatoria 30x1 cps 85 mcg + 43 mcg | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 039664026 | ONBREZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione valida) |
+| 039664077 | ONBREZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione valida) |
+| 039699020 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione valida) |
+| 039699071 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione valida) |
+| 043031032 | ULTIBRO BREEZHALER polvere inalatoria 30x1 cps 85 mcg + 43 mcg | Non indicata | Non disponibile (autorizzazione valida) |
 
 Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide. La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n. 043033036).
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mercaptopurine
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 286
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (livello di evidenza L5). Indicazione originale: Leucemia linfoblastica acuta (fonte: grafo di conoscenza TxGNN"
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
+description: "Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Mercaptopurine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Mercaptopurina: da leucemia linfoblastica acuta a leucemia mieloide
+## Mercaptopurine: Leucemia mieloide (myeloid leukemia)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ La mercaptopurina è un antimetabolita purinico utilizzato originariamente nel t
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Leucemia linfoblastica acuta (fonte: grafo di conoscenza TxGNN; il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Leucemia mieloide |
-| Punteggio di predizione TxGNN | 99,94% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Leucemia mieloide (myeloid leukemia) |
+| Punteggio di predizione TxGNN | 0.9994 |
 | Livello di evidenza | L2 (valutazione compilata nei dati) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (da considerare come quesito di ricerca) |
 
 ---
@@ -104,8 +104,8 @@ Va inoltre considerato che parte del segnale deriva da sottotipi (LPA) in cui il
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044665014 | XALUPRINE (flacone orale 100 ml, 20 mg/ml) | Non indicata | Non indicata (autorizzazione cancellata) |
-| 010344012 | PURINETHOL (25 compresse da 50 mg) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 044665014 | XALUPRINE (flacone orale 100 ml, 20 mg/ml) | Non indicata | Non indicata (autorizzazione valida) |
+| 010344012 | PURINETHOL (25 compresse da 50 mg) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

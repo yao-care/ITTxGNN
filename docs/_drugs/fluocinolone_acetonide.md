@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluocinolone Acetonide
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 203
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus ipertrofico (livello di evidenza L4). Indicazione originale: Dermatosi infiammatorie (es. dermatite atopica, dermatite da contatto…"
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides"]
+description: "Fluocinolone Acetonide: nuova indicazione prevista, Hypertrophic lichen planus (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **4**
 
 </div>
 
-## Fluocinolone acetonide: dalle dermatosi infiammatorie al lichen planus ipertrofico
+## Fluocinolone Acetonide: Hypertrophic lichen planus
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Il fluocinolone acetonide è un corticosteroide topico, originariamente impiegat
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Dermatosi infiammatorie (es. dermatite atopica, dermatite da contatto, dermatite seborroica, "lichen disease", lupus eritematoso discoide). Il testo dell'indicazione approvata in Italia non è disponibile. |
-| Nuova indicazione prevista | Lichen planus ipertrofico |
-| Punteggio di predizione TxGNN | 99,42% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Hypertrophic lichen planus |
+| Punteggio di predizione TxGNN | 0.9942 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Tra le indicazioni originali figura la categoria generale "lichen disease". Il lichen planus ipertrofico è una dermatosi infiammatoria mediata dai linfociti T, e i corticosteroidi topici potenti sono un trattamento standard di prima linea per le varianti di lichen planus. Il punteggio elevato di TxGNN riflette verosimilmente la vicinanza con questa indicazione già esistente.
 
-Il razionale biologico è dunque plausibile, ma si basa su conoscenze di classe e non su dati specifici presenti in questo report. Lo stesso vale per le altre varianti previste dal modello (lichen planus pigmentoso, lichen planus atrofico anulare, lichen planus pemfigoide), tutte con punteggi simili (0,993–0,994) e livello di evidenza L5; per la forma atrofica anulare si aggiunge un'attenzione specifica, perché i corticosteroidi possono causare atrofia cutanea.
+Il razionale biologico è dunque plausibile, ma si basa su conoscenze di classe e non su dati specifici presenti in questo report.
 
 ## Evidenze da studi clinici
 
@@ -72,7 +72,7 @@ Attualmente non risulta letteratura correlata disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021822010 | FLUOVITEF*crema derm 30 g 0,025% (TEOFARMA Srl) | Crema (dermatologica) | Non disponibile (autorizzazione cancellata) |
+| 021822010 | FLUOVITEF*crema derm 30 g 0,025% (TEOFARMA Srl) | Crema (dermatologica) | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

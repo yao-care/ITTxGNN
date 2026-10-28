@@ -8,6 +8,7 @@ nav_order: 158
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Duloxetina
@@ -51,7 +52,7 @@ Tuttavia, questo Dossier di Prove non contiene **alcuna nuova indicazione previs
 | Indicazione Nuova Prevista | Nessuna (previsioni TxGNN assenti) |
 | Punteggio Previsione TxGNN | N/A |
 | Livello di Evidenza | Non valutabile |
-| Stato del Mercato Italia | Non commercializzato |
+| Stato del Mercato Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di Autorizzazioni | 0 |
 | Decisione Consigliata | In Sospeso |
 

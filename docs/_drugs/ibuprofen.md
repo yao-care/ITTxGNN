@@ -6,9 +6,9 @@ nav_order: 230
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Ibuprofen: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (livello di evidenza L5). Indicazione originale: Artrite reumatoide, cefalea, artrosi, artropatie…"
 monitor_inn: "ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Ibuprofen: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata ne…"
 ---
 
 # Ibuprofen
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Ibuprofene: dall'artrite reumatoide alla displasia acromesomelica di tipo Hunter-Thompson
+## Ibuprofen: Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede che possa essere efficace per la **displasia acromesome
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, cefalea, artrosi, artropatie, artrite idiopatica giovanile, spondiloartropatie, dotto arterioso pervio (dal grafo di conoscenza; il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione prevista | Displasia acromesomelica, tipo Hunter-Thompson |
-| Punteggio di predizione TxGNN | 99,74% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Punteggio di predizione TxGNN | 0.9974 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -63,18 +63,18 @@ Per i dati compilati, il meccanismo d'azione dettagliato non è disponibile. In 
 
 La displasia acromesomelica di tipo Hunter-Thompson è una rara displasia scheletrica causata da varianti con perdita di funzione del gene CDMP1/GDF5, che alterano lo sviluppo della cartilagine (condrogenesi). Si tratta di un difetto strutturale dello sviluppo, che l'inibizione delle COX non può plausibilmente correggere. Nel migliore dei casi, l'ibuprofene potrebbe offrire un sollievo sintomatico dal dolore, che non equivale a una modifica della malattia.
 
-È probabile che l'alta posizione del punteggio rifletta la vicinanza, nel grafo di conoscenza, a termini muscoloscheletrici e artropatici tra le indicazioni originali, più che un reale legame biologico.
+È probabile che l'alta posizione del punteggio, calcolato dal modello TxGNN (deep learning), rifletta somiglianze apprese dal modello tra malattie correlate (termini muscoloscheletrici e artropatici tra le indicazioni originali), più che un reale legame biologico.
 
 **Altre previsioni nella lista (tutte senza studi o pubblicazioni, livello L5, decisione Hold):**
 
 | Rango | Malattia prevista | Punteggio TxGNN | Considerazione |
 |---|---|---|---|
-| 2 | Sindrome brachiolmia-amelogenesi imperfetta | 99,71% | Nessun legame meccanicistico; al massimo analgesia sintomatica |
-| 3 | Miosclerosi | 99,68% | Legame debole e speculativo (componente infiammatoria/dolore); la più plausibile biologicamente tra le candidate |
-| 4 | Brachiolmia | 99,67% | Nessun legame meccanicistico |
-| 5 | Sindrome brachidattilia-sindattilia | 99,66% | Malformazione congenita; probabile artefatto del grafo |
-| 6 | Pseudoacondroplasia | 99,66% | Legame indiretto: possibile sollievo sintomatico del dolore articolare secondario |
-| 7 | Sindrome microftalmia colobomatosa-displasia rizomelica | 99,60% | Nessun legame meccanicistico |
+| 2 | Sindrome brachiolmia-amelogenesi imperfetta | 0,9971 | Nessun legame meccanicistico; al massimo analgesia sintomatica |
+| 3 | Miosclerosi | 0,9968 | Legame debole e speculativo (componente infiammatoria/dolore); la più plausibile biologicamente tra le candidate |
+| 4 | Brachiolmia | 0,9967 | Nessun legame meccanicistico |
+| 5 | Sindrome brachidattilia-sindattilia | 0,9966 | Malformazione congenita; il punteggio del modello TxGNN (deep learning) può riflettere somiglianze apprese tra malattie correlate, non evidenza biologica |
+| 6 | Pseudoacondroplasia | 0,9966 | Legame indiretto: possibile sollievo sintomatico del dolore articolare secondario |
+| 7 | Sindrome microftalmia colobomatosa-displasia rizomelica | 0,9960 | Nessun legame meccanicistico |
 
 ---
 
@@ -96,11 +96,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni vali
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 039693066 | BRUFEN 30 cpr rivestite 600 mg | Programmi Sanit. Integrati Srl | Cancellata |
-| 022593103 | BRUFEN granulato orale 30 bustine 600 mg | Viatris Italia Srl | Cancellata |
-| 043890045 | BRUFEN 30 cpr rivestite 600 mg | New Pharmashop Srl | Cancellata |
-| 042859064 | BRUFEN 30 cpr rivestite 600 mg | GMM Farma Srl | Cancellata |
-| 026916142 | SPIDIFEN granulato orale 30 bustine 600 mg, aroma cola limone | Zambon Italia Srl | Cancellata |
+| 039693066 | BRUFEN 30 cpr rivestite 600 mg | Programmi Sanit. Integrati Srl | Valida |
+| 022593103 | BRUFEN granulato orale 30 bustine 600 mg | Viatris Italia Srl | Valida |
+| 043890045 | BRUFEN 30 cpr rivestite 600 mg | New Pharmashop Srl | Valida |
+| 042859064 | BRUFEN 30 cpr rivestite 600 mg | GMM Farma Srl | Valida |
+| 026916142 | SPIDIFEN granulato orale 30 bustine 600 mg, aroma cola limone | Zambon Italia Srl | Valida |
 
 ---
 

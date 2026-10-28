@@ -6,9 +6,9 @@ nav_order: 361
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Pregabalin: nuova indicazione prevista, Emicrania (disturbo emicranico) (livello di evidenza L5). Indicazione originale: Disturbo d'ansia, fibromialgia, sindrome miofasciale dolorosa…"
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pregabalin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Pregabalin: Dal dolore neuropatico e dalla fibromialgia all'emicrania
+## Pregabalin: Tendinitis
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,15 +44,15 @@ Il pregabalin è un farmaco usato per ansia, fibromialgia, sindrome miofasciale 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo d'ansia, fibromialgia, sindrome miofasciale dolorosa, nevralgia post-erpetica (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Emicrania (disturbo emicranico) |
-| Punteggio di previsione TxGNN | 99,47% |
-| Livello di evidenza | L2 secondo la valutazione del dossier, da considerare con cautela: lo studio di fase 3 sull'emicrania è stato ritirato e le evidenze randomizzate sono pediatriche e di piccole dimensioni; in senso stretto, le regole indicherebbero un livello inferiore |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Tendinitis |
+| Punteggio di previsione TxGNN | 0.9971 |
+| Livello di evidenza | L5 secondo la valutazione del dossier, da considerare con cautela: lo studio di fase 3 sull'emicrania è stato ritirato e le evidenze randomizzate sono pediatriche e di piccole dimensioni; in senso stretto, le regole indicherebbero un livello inferiore |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
-Nota: la previsione con il punteggio TxGNN più alto è la tendinite (99,71%), ma ha solo evidenza di livello L4 e nessun dato clinico diretto. Anche le miositi (granulomatosa idiopatica, fibrosa, a corpi inclusi) sono solo previsioni del modello (L5), senza studi pertinenti. L'emicrania con aura del tronco encefalico (99,43%) ha solo dati preclinici (L4).
+Nota: la previsione con il punteggio TxGNN più alto è la tendinite (0,9971), ma ha solo evidenza di livello L4 e nessun dato clinico diretto. Anche le miositi (granulomatosa idiopatica, fibrosa, a corpi inclusi) sono solo previsioni del modello (L5), senza studi pertinenti. L'emicrania con aura del tronco encefalico (0,9943) ha solo dati preclinici (L4).
 
 ## Perché questa previsione è ragionevole?
 
@@ -90,11 +90,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il tes
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 043740113 | Pregabalin 14 cps 75 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 045399019 | Utufar 14 cps 25 mg | Genetic SpA | Cancellata |
-| 036476113 | Lyrica 14 cps rigide 75 mg | Upjohn EESV | Cancellata |
-| 045561014 | Pregenaq soluzione orale 20 mg/ml, flacone 250 ml | Neuraxpharm Italy SpA | Cancellata |
-| 049706029 | Lyrica 56 cps rigide 150 mg | GMM Farma Srl | Cancellata |
+| 043740113 | Pregabalin 14 cps 75 mg | Aurobindo Pharma Italia Srl | Valida |
+| 045399019 | Utufar 14 cps 25 mg | Genetic SpA | Valida |
+| 036476113 | Lyrica 14 cps rigide 75 mg | Upjohn EESV | Valida |
+| 045561014 | Pregenaq soluzione orale 20 mg/ml, flacone 250 ml | Neuraxpharm Italy SpA | Valida |
+| 049706029 | Lyrica 56 cps rigide 150 mg | GMM Farma Srl | Valida |
 
 ## Considerazioni sulla sicurezza
 

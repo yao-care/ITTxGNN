@@ -6,9 +6,9 @@ nav_order: 282
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Mebendazole: nuova indicazione prevista, Acne (livello di evidenza L5). Indicazione originale: Enterobiasi, ascaridiasi, tricuriasi (dal grafo di conoscenza TxGNN"
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
+description: "Mebendazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Mebendazole
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Mebendazolo: Dagli elmintiasi intestinali all'acne (predizione computazionale)
+## Mebendazole: Acne (acne (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Il mebendazolo è un antielmintico benzimidazolico, originariamente usato per en
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Enterobiasi, ascaridiasi, tricuriasi (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione predetta | Acne |
-| Punteggio di predizione TxGNN | 99,20% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Acne (acne (disease)) |
+| Punteggio di predizione TxGNN | 0.9920 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cessate |
-| Numero di autorizzazioni | 3 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -84,11 +84,11 @@ Al momento non sono registrati studi clinici correlati.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023821022 | VERMOX sospensione orale 30 ml 20 mg/ml (Janssen Cilag) | Sospensione orale | Non riportata (autorizzazione cessata) |
-| 023821010 | VERMOX 6 cpr 100 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione cessata) |
-| 023821034 | VERMOX 30 cpr 500 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione cessata) |
+| 023821022 | VERMOX sospensione orale 30 ml 20 mg/ml (Janssen Cilag) | Sospensione orale | Non riportata (autorizzazione valida) |
+| 023821010 | VERMOX 6 cpr 100 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione valida) |
+| 023821034 | VERMOX 30 cpr 500 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione valida) |
 
-Tutte e 3 le autorizzazioni risultano cessate: nessun prodotto a base di mebendazolo in forma singola o in associazione è attualmente valido.
+Tutte e 3 le autorizzazioni risultano valide: i prodotti a base di mebendazolo in forma singola o in associazione sono attualmente in commercio.
 
 ---
 
@@ -108,7 +108,7 @@ Per le avvertenze e le controindicazioni formali si rimanda al foglio illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul modello (livello L5), senza studi clinici, senza letteratura pertinente e senza un legame meccanicistico plausibile con l'acne. Inoltre, in Italia tutte le autorizzazioni del mebendazolo risultano cessate.
+La predizione si basa unicamente sul modello (livello L5), senza studi clinici, senza letteratura pertinente e senza un legame meccanicistico plausibile con l'acne. In Italia il mebendazolo è in commercio, con 3 autorizzazioni valide su 3.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank e analisi di un'eventuale ipotesi biologica specifica per l'acne

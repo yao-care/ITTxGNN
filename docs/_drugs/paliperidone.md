@@ -4,17 +4,17 @@ title: Paliperidone
 parent: Solo previsione del modello (L5)
 nav_order: 336
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Paliperidone: nuova indicazione prevista, Schizofrenia resistente al trattamento (previsione con evidenza dispo… (livello di evidenza L5). Indicazione originale: Schizofrenia, disturbo schizoaffettiv…"
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+description: "Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Paliperidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Paliperidone: Dalla schizofrenia alla schizofrenia resistente al trattamento
+## Paliperidone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,15 +46,15 @@ Le altre 9 previsioni con punteggio più alto (distrofia retinica, miopie X-link
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Schizofrenia, disturbo schizoaffettivo, disturbo schizofreniforme, disturbo psicotico (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Schizofrenia resistente al trattamento (previsione con evidenza disponibile) |
-| Punteggio di previsione TxGNN | 99,80% |
-| Livello di evidenza | L4 (L5 per tutte le altre previsioni) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 12 (tutte revocate, 0 valide) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Retinal dystrophy with or without extraocular anomalies |
+| Punteggio di previsione TxGNN | 0.9992 |
+| Livello di evidenza | L5 (L5 per tutte le altre previsioni) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 12) |
+| Numero di autorizzazioni | 12 (valide: 12) |
 | Decisione raccomandata | Hold |
 
-La previsione con il punteggio TxGNN più alto è la distrofia retinica, con o senza anomalie extraoculari (99,92%). Non ha alcuna evidenza e il suo legame meccanicistico non è identificabile: livello L5, Hold.
+La previsione con il punteggio TxGNN più alto è la distrofia retinica, con o senza anomalie extraoculari (0,9992). Non ha alcuna evidenza e il suo legame meccanicistico non è identificabile: livello L5, Hold.
 
 ## Perché questa previsione è ragionevole?
 
@@ -83,7 +83,7 @@ Entrambe le revisioni sono indirette e non valutano il paliperidone nella schizo
 
 ## Informazioni sul mercato italiano
 
-Tutte e 12 le autorizzazioni risultano revocate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5.
+Si elencano le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -101,7 +101,6 @@ Il paliperidone non è un farmaco antineoplastico: la sezione non si applica.
 
 Le informazioni dal foglietto illustrativo AIFA (avvertenze e controindicazioni) non sono disponibili nei dati compilati. Si rimanda al foglietto illustrativo.
 
-- **Controindicazioni dal grafo di conoscenza** (non dal testo dell'etichetta): sindrome del QT lungo (anche familiare), torsione di punta, infarto del miocardio, ipotensione ortostatica e disturbi ipotensivi, atrofia multisistemica, sindrome da tachicardia posturale ortostatica, epilessia, malattie dei gangli della base, neutropenia e agranulocitosi, iperglicemia, diabete mellito e chetoacidosi diabetica, iperlipidemia, obesità, malattia di Crohn e malattie infiammatorie intestinali, carenza di potassio, carcinoma mammario femminile, emoglobinopatie e funzione renale compromessa.
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni, di cui 20 riportate nei dati. Quelle di livello **maggiore** riguardano **bupropione** e **morfina**. Quelle di livello moderato includono antidiabetici (acarbosio, metformina, pioglitazone, alogliptin, albiglutide, canagliflozin, clorpropamide), anticolinergici (atropina, iosciamina, glicopirronio), loperamide, bisacodile, famotidina, epinefrina, idrocortisone, anfotericina B e lorcaserina.
 
 ## Conclusione e prossimi passi
@@ -110,7 +109,6 @@ Le informazioni dal foglietto illustrativo AIFA (avvertenze e controindicazioni)
 
 **Motivazione:**
 - La previsione con evidenza (schizofrenia resistente al trattamento) è una sottopopolazione dell'indicazione esistente, non un vero riposizionamento. Gli studi disponibili sono di fase 4 e non testano chiaramente il paliperidone come intervento, mentre la letteratura è costituita da revisioni indirette. Le altre previsioni sono puramente computazionali, senza evidenze né meccanismo plausibile.
-- In Italia tutte le autorizzazioni sono revocate: ogni sviluppo richiederebbe di chiarire la disponibilità commerciale.
 
 **Per procedere è necessario:**
 - Acquisire il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza.

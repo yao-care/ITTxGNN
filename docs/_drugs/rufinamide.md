@@ -4,17 +4,17 @@ title: Rufinamide
 parent: Solo previsione del modello (L5)
 nav_order: 393
 evidence_level: L5
-indication_count: 5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rufinamide: nuova indicazione prevista, Sindrome epilettica correlata a infezione febbrile (FIRES) (livello di evidenza L5). Indicazione originale: Sindrome di Lennox-Gastaut (dalla base di conoscenz…"
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
+description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rufinamide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Rufinamide: Dalla sindrome di Lennox-Gastaut alla sindrome epilettica correlata a infezione febbrile (FIRES)
+## Rufinamide: Perioral myoclonia with absences
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La rufinamide è un antiepilettico indicato per la sindrome di Lennox-Gastaut. Il modello TxGNN prevede che possa essere utile per la **sindrome epilettica correlata a infezione febbrile (FIRES)**, ma attualmente **non risultano studi clinici né pubblicazioni** a sostegno di questa ipotesi: la previsione si basa solo sul modello.
+La rufinamide è un antiepilettico indicato per la sindrome di Lennox-Gastaut.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome di Lennox-Gastaut (dalla base di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome epilettica correlata a infezione febbrile (FIRES) |
-| Punteggio di previsione TxGNN | 99,57% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Perioral myoclonia with absences |
+| Punteggio di previsione TxGNN | 0.9951 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -58,7 +58,7 @@ Per i dati compilati per questo report, il meccanismo d'azione dettagliato non �
 
 Vi è però un limite importante: la FIRES è considerata guidata in larga parte dalla neuroinfiammazione (ad esempio le vie di IL-1 e IL-6), un meccanismo che un bloccante dei canali del sodio difficilmente affronta. Al più potrebbe controllare le crisi in modo sintomatico, senza agire sul processo di fondo.
 
-Altre indicazioni previste dal modello, tutte con punteggio simile (circa 99,4–99,5%) e senza alcuna evidenza clinica: mioclonie perorali con assenze, epilessia del lobo occipitale fotosensibile, spasmi epilettici criptogenici a esordio tardivo, epilessia infantile atipica con punte centrotemporali. Per le forme con assenze, alcuni bloccanti dei canali del sodio possono peggiorare le crisi, quindi l'adeguatezza meccanicistica è incerta.
+Per le forme con assenze, alcuni bloccanti dei canali del sodio possono peggiorare le crisi, quindi l'adeguatezza meccanicistica è incerta.
 
 ## Evidenze da studi clinici
 
@@ -72,9 +72,9 @@ Attualmente non risulta alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 038217143 | INOVELON 60 cpr rivestite div 400 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 038217016 | INOVELON 10 cpr rivestite div 100 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 038217093 | INOVELON 60 cpr rivestite 200 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 038217143 | INOVELON 60 cpr rivestite div 400 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 038217016 | INOVELON 10 cpr rivestite div 100 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 038217093 | INOVELON 60 cpr rivestite 200 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

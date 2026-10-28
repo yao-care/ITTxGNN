@@ -6,9 +6,9 @@ nav_order: 204
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fluorouracil: nuova indicazione prevista, Rabdomiosarcoma embrionale botrioide della vagina (livello di evidenza L5). Indicazione originale: Carcinoma basocellulare superficiale multifocale, cheratos…"
 monitor_inn: "fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
+description: "Fluorouracil: nuova indicazione prevista, Botryoid-type embryonal rhabdomyosarcoma of the vagina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fluorouracil
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Fluorouracile: dal carcinoma basocellulare superficiale e dalla cheratosi attinica al rabdomiosarcoma
+## Fluorouracil: Botryoid-type embryonal rhabdomyosarcoma of the vagina
 {: .text-alpha }
 
 ## Sintesi
@@ -44,12 +44,12 @@ Il fluorouracile è un antimetabolita impiegato in oncologia e, in formulazione 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma basocellulare superficiale multifocale, cheratosi attinica, altre patologie cutanee, tumori gastrointestinali (dati del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione predetta | Rabdomiosarcoma embrionale botrioide della vagina |
-| Punteggio di predizione TxGNN | 99,75% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
+| Punteggio di predizione TxGNN | 0.9975 |
 | Livello di evidenza | L5 (solo predizione del modello); per il rabdomiosarcoma generico L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -83,15 +83,14 @@ In sintesi, nessuna pubblicazione dimostra l'efficacia del fluorouracile nel rab
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 046491015 | TOLERAK*1 tubo crema 20 g 40 mg/g (Pierre Fabre Italia) | Crema | Non disponibile (autorizzazione revocata) |
-| 045236015 | ACTIKERALL*1 flacone soluzione cutanea 5 mg/g + 100 mg/g (Almirall Hermal) | Soluzione cutanea | Non disponibile (autorizzazione revocata) |
+| 046491015 | TOLERAK*1 tubo crema 20 g 40 mg/g (Pierre Fabre Italia) | Crema | Non disponibile (autorizzazione valida) |
+| 045236015 | ACTIKERALL*1 flacone soluzione cutanea 5 mg/g + 100 mg/g (Almirall Hermal) | Soluzione cutanea | Non disponibile (autorizzazione valida) |
 
 ## Citotossicità
 
 | Voce | Contenuto |
 |------|------|
 | Classificazione di citotossicità | Citotossico convenzionale (antimetabolita, classe delle fluoropirimidine) |
-| Rischio di mielosoppressione | Elevato per uso sistemico (nel grafo di conoscenza sono associati neutropenia, trombocitopenia, leucopenia, agranulocitosi); basso per uso topico |
 | Classificazione emetogenica | Bassa-moderata per uso sistemico |
 | Parametri da monitorare | Emocromo con formula, funzionalità epatica e renale, elettroliti; valutazione del deficit di diidropirimidina deidrogenasi (DPD) prima dell'uso sistemico |
 | Protezione nella manipolazione | Necessaria secondo le norme per i farmaci citotossici |

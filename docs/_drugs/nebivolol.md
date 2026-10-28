@@ -4,17 +4,17 @@ title: Nebivolol
 parent: Solo previsione del modello (L5)
 nav_order: 316
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (disturbo ipertensivo)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Nebivololo: dall'ipertensione alla nefropatia ipertensiva maligna
+## Nebivolol: Nefropatia ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,11 +45,11 @@ Il modello TxGNN ne prevede una possibile efficacia nella **nefropatia ipertensi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione arteriosa (disturbo ipertensivo); il testo dell'indicazione autorizzata non è presente nei dati AIFA compilati |
-| Nuova indicazione prevista | Nefropatia ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99,42% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Nefropatia ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di predizione TxGNN | 0.9942 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold (sospendere) |
 
@@ -57,13 +57,12 @@ Il modello TxGNN ne prevede una possibile efficacia nella **nefropatia ipertensi
 
 I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle conoscenze generali, il nebivololo è un beta-bloccante β1 selettivo che, attraverso l'attivazione della eNOS (legata all'agonismo β3), favorisce la vasodilatazione mediata dall'ossido nitrico. Questo profilo è biologicamente coerente con il danno renale da ipertensione.
 
-L'ipertensione e la nefropatia ipertensiva maligna sono strettamente collegate: il controllo pressorio è il fondamento del trattamento. È probabile che l'elevato punteggio TxGNN rifletta soprattutto la vicinanza, nel grafo di conoscenza, all'indicazione ipertensiva già approvata, più che prove indipendenti di efficacia nella nefropatia. Va inoltre considerato che nell'ipertensione maligna l'uso dei beta-bloccanti richiede cautela clinica specifica.
+L'ipertensione e la nefropatia ipertensiva maligna sono strettamente collegate: il controllo pressorio è il fondamento del trattamento. Va inoltre considerato che nell'ipertensione maligna l'uso dei beta-bloccanti richiede cautela clinica specifica.
 
 Altre previsioni nello stesso elenco:
-- **Ipertensione renovascolare maligna** (99,42%, L5): plausibile la riduzione del rilascio di renina da parte dei beta-bloccanti, ma non verificata.
-- **Ipertensione polmonare da malattia polmonare e/o ipossia** (99,39%, L4): solo evidenze indirette precliniche (vedi sotto).
-- **Ipertensione polmonare ad eziologia multifattoriale non chiara** (99,39%, L5): solo previsione.
-- **Sindrome di Braddock** (99,14%, L5): nessun legame meccanicistico identificabile; probabile artefatto di prossimità nel grafo.
+- **Ipertensione renovascolare maligna** (0.9942, L5): plausibile la riduzione del rilascio di renina da parte dei beta-bloccanti, ma non verificata.
+- **Ipertensione polmonare da malattia polmonare e/o ipossia** (0.9939, L4): solo evidenze indirette precliniche (vedi sotto).
+- **Ipertensione polmonare ad eziologia multifattoriale non chiara** (0.9939, L5): solo previsione.
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -96,11 +95,11 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione appro
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 039418013 | Nebivololo 28 cpr 5 mg | Towa Pharmaceutical SpA | Cancellata |
-| 045621024 | Nebivololo 28 cpr 5 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 038132054 | Nebivololo 28 cpr 5 mg | Sandoz SpA | Cancellata |
-| 032209013 | Nebilox 28 cpr div 5 mg | Menarini Internat. O.L.S.A | Cancellata |
-| 032210015 | Lobivon 28 cpr 5 mg | A. Menarini Ind. Farm. Riun. Srl | Cancellata |
+| 039418013 | Nebivololo 28 cpr 5 mg | Towa Pharmaceutical SpA | Valida |
+| 045621024 | Nebivololo 28 cpr 5 mg | Aurobindo Pharma Italia Srl | Valida |
+| 038132054 | Nebivololo 28 cpr 5 mg | Sandoz SpA | Valida |
+| 032209013 | Nebilox 28 cpr div 5 mg | Menarini Internat. O.L.S.A | Valida |
+| 032210015 | Lobivon 28 cpr 5 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
 
 Altri nomi commerciali tra le autorizzazioni cancellate: Nebiscon, Nivolon, Nobistar.
 

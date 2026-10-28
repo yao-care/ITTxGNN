@@ -6,9 +6,9 @@ nav_order: 351
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pimozide: nuova indicazione prevista, Tricotillomania (livello di evidenza L3). Indicazione originale: Sindrome di Tourette (dai dati del grafo di conoscenza"
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
+description: "Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pimozide
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Pimozide: Dalla sindrome di Tourette alla tricotillomania
+## Pimozide: Tricotillomania (trichotillomania)
 {: .text-alpha }
 
 ## Sintesi
@@ -46,12 +46,12 @@ Il pimozide è un antipsicotico antagonista dei recettori dopaminergici D2, orig
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome di Tourette (dai dati del grafo di conoscenza; il testo autorizzativo AIFA non riporta alcuna indicazione) |
-| Nuova indicazione prevista | Tricotillomania |
-| Punteggio di predizione TxGNN | 99,996% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Tricotillomania (trichotillomania) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L3 |
-| Stato sul mercato italiano | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato sul mercato italiano | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -92,13 +92,13 @@ Attualmente non risulta registrato alcuno studio clinico correlato.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 022907036 | ORAP*20 cpr 4 mg (EUMEDICA PHARMACEUTICALS S.A.) | Non specificata | Non specificata (autorizzazione revocata) |
+| 022907036 | ORAP*20 cpr 4 mg (EUMEDICA PHARMACEUTICALS S.A.) | Non specificata | Non specificata (autorizzazione valida) |
 
 ---
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni segnalate nel grafo di conoscenza** (non derivate dal foglio illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, epilessia, malattie renali ed epatiche, deficit di potassio, neutropenia/agranulocitosi/leucopenia, glaucoma, ipertrofia prostatica benigna, sindrome neurolettica maligna, carcinoma mammario femminile, malattia di Alzheimer e altre condizioni.
+- **Controindicazioni** (non derivate dal foglio illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, epilessia, malattie renali ed epatiche, deficit di potassio, neutropenia/agranulocitosi/leucopenia, glaucoma, ipertrofia prostatica benigna, sindrome neurolettica maligna, carcinoma mammario femminile, malattia di Alzheimer e altre condizioni.
 - **Interazioni farmacologiche**: individuate 100 interazioni. Tra quelle di livello **maggiore**: idrocortisone, amfotericina B (anche in complesso lipidico), bupropione, aprepitant, morfina, lorcaserina, cimetidina, citrato di potassio, claritromicina, acido picosolfurico e polietilenglicole con elettroliti. Tra quelle di livello **moderato**: famotidina, epinefrina, iosciamina, loperamide, atropina, bisacodile, glicopirronio e diciclomina.
 - **Rischio di prolungamento del QT**: rilevante. Combinato con gli SSRI che inibiscono CYP2D6 o CYP3A4 (ad esempio paroxetina) può aumentare il rischio, il che limita l'uso proprio nello scenario terapeutico ipotizzato.
 

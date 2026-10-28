@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Itraconazole
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 247
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (livello di evidenza L5). Indicazione originale: Micosi sistemiche (candidosi esofagea e disseminata, candidemia…"
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **L4** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,25 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Itraconazolo: dalle micosi sistemiche alla pneumocistosi
+## Itraconazole: Pneumocistosi (pneumocystosis)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 L'itraconazolo è un antimicotico azolico, usato originariamente per candidosi (esofagea, disseminata, candidemia), istoplasmosi, aspergillosi, blastomicosi, coccidioidomicosi, sporotricosi, fusariosi e piedra bianca/nera.
-Il modello TxGNN lo predice come potenzialmente efficace per la **pneumocistosi**, con un punteggio elevato (99,34%).
+Il modello TxGNN lo predice come potenzialmente efficace per la **pneumocistosi**, con un punteggio elevato (0,9934).
 Il supporto è però debole: **nessuno studio clinico registrato** e **20 pubblicazioni** per lo più generiche (revisioni e casi clinici) che non dimostrano un'efficacia diretta.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Micosi sistemiche (candidosi esofagea e disseminata, candidemia, istoplasmosi, aspergillosi, blastomicosi, coccidioidomicosi, sporotricosi, fusariosi, piedra bianca e nera). Fonte: archi di indicazione del knowledge graph PrimeKG; il testo dell'indicazione autorizzata AIFA non è disponibile |
-| Nuova indicazione predetta | Pneumocistosi |
-| Punteggio di predizione TxGNN | 99,34% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Pneumocistosi (pneumocystosis) |
+| Punteggio di predizione TxGNN | 0.9934 |
 | Livello di evidenza | L4 (secondo la classificazione del dossier; nessuno studio clinico, solo revisioni e dati indiretti) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 10 (tutte cancellate; 0 valide) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -89,11 +89,11 @@ Tutte le autorizzazioni sono cancellate. Il testo dell'indicazione approvata e l
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035899018 | Itraconazolo 8 cps 100 mg | Sandoz SpA | Cancellata |
-| 036377012 | Itraconazolo 8 cps 100 mg | Teva Italia Srl | Cancellata |
-| 044757146 | Itragerm 8 cps 50 mg | Isdin Srl | Cancellata |
-| 037080037 | Itraconazolo 8 cps 100 mg | EG SpA | Cancellata |
-| 027814019 | Triasporin 8 cps 100 mg | Italfarmaco SpA | Cancellata |
+| 035899018 | Itraconazolo 8 cps 100 mg | Sandoz SpA | Valida |
+| 036377012 | Itraconazolo 8 cps 100 mg | Teva Italia Srl | Valida |
+| 044757146 | Itragerm 8 cps 50 mg | Isdin Srl | Valida |
+| 037080037 | Itraconazolo 8 cps 100 mg | EG SpA | Valida |
+| 027814019 | Triasporin 8 cps 100 mg | Italfarmaco SpA | Valida |
 
 ## Considerazioni di sicurezza
 

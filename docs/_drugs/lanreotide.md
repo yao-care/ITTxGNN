@@ -6,9 +6,9 @@ nav_order: 256
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Lanreotide: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Acromegalia, iperpituitarismo…"
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
+description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lanreotide
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Lanreotide: dall'acromegalia all'ipertricosi
+## Lanreotide: Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ipertricosi**, ma al 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Acromegalia, iperpituitarismo, gigantismo ipofisario (dal grafo di conoscenza TxGNN; nei dati AIFA il testo dell'indicazione approvata non è disponibile) |
-| Nuova indicazione prevista | Ipertricosi |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease)) |
+| Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate; 0 valide) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -71,15 +71,14 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni risultano cancellate; nessuna è attualmente valida.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 029399110 | IPSTYL siringa SC 60 mg | Ipsen SpA | Cancellata |
-| 029399122 | IPSTYL siringa SC 90 mg | Ipsen SpA | Cancellata |
-| 029399134 | IPSTYL siringa SC 120 mg | Ipsen SpA | Cancellata |
-| 048001010 | MYRELEZ siringa SC 60 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Cancellata |
-| 048001022 | MYRELEZ siringa SC 90 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Cancellata |
+| 029399110 | IPSTYL siringa SC 60 mg | Ipsen SpA | Valida |
+| 029399122 | IPSTYL siringa SC 90 mg | Ipsen SpA | Valida |
+| 029399134 | IPSTYL siringa SC 120 mg | Ipsen SpA | Valida |
+| 048001010 | MYRELEZ siringa SC 60 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
+| 048001022 | MYRELEZ siringa SC 90 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
 
 È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd). Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.
 
@@ -95,14 +94,13 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ipertricosi (punteggio 99,97%) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.
+La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.
 
 **Per procedere sono necessari:**
 - Acquisizione del foglio illustrativo AIFA (avvertenze e controindicazioni), necessaria per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Revisione sistematica della letteratura sul ruolo di GH/IGF-1 nella crescita del follicolo pilifero e sull'ipertricosi
 - Dati preclinici o un piccolo studio esplorativo che ne verifichino la plausibilità biologica
-- Chiarimento della situazione regolatoria in Italia (nessuna autorizzazione attualmente valida) e della compatibilità delle vie di somministrazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -8,6 +8,7 @@ nav_order: 138
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Deferoxamina
@@ -51,8 +52,8 @@ rendendo impossibile una valutazione standard di riposizionamento in questa fase
 | Indicazione nuova prevista | Non disponibile — nessuna previsione TxGNN restituita |
 | Punteggio previsione TxGNN | Non disponibile |
 | Livello di evidenza | Non disponibile |
-| Stato mercato Italia | Non commercializzato (0 autorizzazioni) |
-| Numero di autorizzazioni | 0 |
+| Stato mercato Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione consigliata | **Sospensione** |
 
 ---

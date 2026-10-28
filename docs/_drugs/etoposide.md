@@ -6,9 +6,9 @@ nav_order: 183
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Etoposide: nuova indicazione prevista, Sarcoma di Ewing (la predizione con il punteggio più alto… (livello di evidenza L5). Indicazione originale: Carcinoma polmonare a piccole cellule"
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
+description: "Etoposide: nuova indicazione prevista, Well-differentiated fetal adenocarcinoma of the lung (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Etoposide
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Etoposide: dal carcinoma polmonare a piccole cellule al sarcoma di Ewing
+## Etoposide: Well-differentiated fetal adenocarcinoma of the lung
 {: .text-alpha }
 
 ## Sintesi
@@ -48,12 +48,12 @@ L'etoposide è un chemioterapico antineoplastico originariamente impiegato nel c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma polmonare a piccole cellule; tumori germinali del testicolo (il testo dell'indicazione approvata AIFA non è disponibile nei dati compilati) |
-| Nuova indicazione prevista | Sarcoma di Ewing (la predizione con il punteggio più alto, "adenocarcinoma fetale ben differenziato del polmone", ha evidenza L4 e decisione Hold) |
-| Punteggio di predizione TxGNN | 99,85% (sarcoma di Ewing); 99,94% per la prima predizione in classifica |
-| Livello di evidenza | L1 (sarcoma di Ewing) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Well-differentiated fetal adenocarcinoma of the lung |
+| Punteggio di predizione TxGNN | 0.9994 |
+| Livello di evidenza | L5 (sarcoma di Ewing) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -106,14 +106,14 @@ Selezione dei più rilevanti tra gli studi registrati (massimo 10):
 
 | Indicazione | Punteggio | Evidenza | Decisione | Nota |
 |------|------|------|------|------|
-| Adenocarcinoma fetale ben differenziato del polmone | 99,94% | L4 | Hold | Un solo case report/revisione; nessuno studio registrato |
-| Linfoma polmonare primitivo | 99,94% | L4 | Hold | Letteratura prevalentemente su altri sottotipi di linfoma; nessuno studio specifico |
-| Blastoma polmonare | 99,94% | L4 | Hold | Solo case report e piccole serie; malattia rara |
-| Rabdomiosarcoma (generale) | 99,79% | L1 | Proceed with Guardrails | Ifosfamide/etoposide superiore a vincristina/melfalan nella malattia metastatica (PMID 11846301); studio di fase 3 NCT00003052; il contributo indipendente dell'etoposide non è isolato e il backbone standard resta VAC |
-| Rabdomiosarcoma embrionale botrioide della vagina | 99,80% | L4 | Hold | Solo un case report (cervice uterina) |
-| Rabdomiosarcoma embrionale parameningeo | 99,76% | L4 | Hold | Letteratura generale, indiretta |
-| Rabdomiosarcoma embrionale prostatico | 99,74% | L4 | Hold | Una sola revisione del 1987 |
-| Rabdomiosarcoma embrionale dei dotti biliari extraepatici (due voci) | 99,76% / 99,75% | L5 | Hold | Nessuno studio né letteratura; segnale solo predittivo |
+| Adenocarcinoma fetale ben differenziato del polmone | 0,9994 | L5 | Hold | Un solo case report/revisione; nessuno studio registrato |
+| Linfoma polmonare primitivo | 0,9994 | L5 | Hold | Letteratura prevalentemente su altri sottotipi di linfoma; nessuno studio specifico |
+| Blastoma polmonare | 0,9994 | L5 | Hold | Solo case report e piccole serie; malattia rara |
+| Rabdomiosarcoma (generale) | 0,9979 | L1 | Proceed with Guardrails | Ifosfamide/etoposide superiore a vincristina/melfalan nella malattia metastatica (PMID 11846301); studio di fase 3 NCT00003052; il contributo indipendente dell'etoposide non è isolato e il backbone standard resta VAC |
+| Rabdomiosarcoma embrionale botrioide della vagina | 0,9980 | L5 | Hold | Solo un case report (cervice uterina) |
+| Rabdomiosarcoma embrionale parameningeo | 0,9976 | L5 | Hold | Letteratura generale, indiretta |
+| Rabdomiosarcoma embrionale prostatico | 0,9974 | L5 | Hold | Una sola revisione del 1987 |
+| Rabdomiosarcoma embrionale dei dotti biliari extraepatici (due voci) | 0,9976 / 0,9975 | L5 | Hold | Nessuno studio né letteratura; segnale solo predittivo |
 
 ---
 
@@ -121,8 +121,8 @@ Selezione dei più rilevanti tra gli studi registrati (massimo 10):
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 024639039 | VEPESID 20 capsule molli da 50 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione revocata |
-| 024639041 | VEPESID 10 capsule molli da 100 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione revocata |
+| 024639039 | VEPESID 20 capsule molli da 50 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione valida |
+| 024639041 | VEPESID 10 capsule molli da 100 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione valida |
 
 Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati.
 

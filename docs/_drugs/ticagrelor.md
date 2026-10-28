@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Solo previsione del modello (L5)
 nav_order: 437
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (livello di evidenza L5). Indicazione originale: Sindrome coronarica acuta, arteriopatia periferica…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Ticagrelor: Dalla sindrome coronarica acuta all'arteriosclerosi intracranica
+## Ticagrelor: Arteriosclerosi intracranica (intracranial arteriosclerosis)
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -48,11 +48,11 @@ con **2 studi clinici** (1 di fase 3 ancora in corso) e **2 pubblicazioni** attu
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Sindrome coronarica acuta, arteriopatia periferica, claudicatio intermittente (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Arteriosclerosi intracranica |
-| Punteggio di previsione TxGNN | 99,97% |
-| Livello di evidenza | L2 (secondo la classificazione dei dati compilati; nessuno studio di fase 3 è ancora concluso, quindi il livello è da considerare provvisorio) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Arteriosclerosi intracranica (intracranial arteriosclerosis) |
+| Punteggio di previsione TxGNN | 0.9997 |
+| Livello di evidenza | L5 (secondo la classificazione dei dati compilati; nessuno studio di fase 3 è ancora concluso, quindi il livello è da considerare provvisorio) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold (con possibilità di Proceed with Guardrails solo dopo la pubblicazione dei risultati) |
 

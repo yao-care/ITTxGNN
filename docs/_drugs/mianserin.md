@@ -4,17 +4,17 @@ title: Mianserin
 parent: Solo previsione del modello (L5)
 nav_order: 299
 evidence_level: L5
-indication_count: 7
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "mianserin"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
+description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
 ---
 
 # Mianserin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Mianserina: dalla depressione unipolare alla distimia (disturbo distimico)
+## Mianserin: Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,15 +48,15 @@ Per la prima indicazione in classifica non esistono né **studi clinici** né **
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Depressione unipolare, depressione endogena, disturbo depressivo maggiore, disturbo d'ansia (da grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista (rank 1) | Torcicollo parossistico benigno dell'infanzia |
-| Punteggio di predizione TxGNN | 99,49% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (rank 1) | Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) |
+| Punteggio di predizione TxGNN | 0.9949 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
-Nota: tra le altre predizioni, il disturbo distimico (rank 2, punteggio 99,45%, livello L4) è quella con il razionale clinico più coerente; nei campi di ricerca (Research Question) rientrano anche melanconia, depressione nevrotica e disturbo nevrotico.
+Nota: nei campi di ricerca (Research Question) rientra anche il disturbo nevrotico.
 
 ---
 
@@ -103,7 +103,7 @@ Per la predizione di rank 1 non è disponibile letteratura correlata. Di seguito
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023695036 | LANTANON 30 cpr rivestite 30 mg (ORGANON ITALIA Srl) | Non indicata | Non indicata (autorizzazione revocata) |
+| 023695036 | LANTANON 30 cpr rivestite 30 mg (ORGANON ITALIA Srl) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

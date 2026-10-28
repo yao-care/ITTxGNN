@@ -4,7 +4,7 @@ title: Topiramate
 parent: Solo previsione del modello (L5)
 nav_order: 442
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Topiramate: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia con crisi tonico-cloniche generalizzate, epilessia parziale…"
 monitor_inn: "Topiramate"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 # Topiramate
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Le predizioni successive, più plausibili, riguardano forme rare di epilessia ri
 |------|------|
 | Indicazione originale | Epilessia con crisi tonico-cloniche generalizzate, epilessia parziale, sindrome di Lennox-Gastaut (testo autorizzativo AIFA non disponibile) |
 | Nuova indicazione prevista | Neoplasia del nervo trigemino |
-| Punteggio di predizione TxGNN | 99,70% |
+| Punteggio di predizione TxGNN | 0,9970 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -62,9 +62,8 @@ Le predizioni successive, più plausibili, riguardano forme rare di epilessia ri
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione per questo farmaco nei dati compilati per il report. In base alla letteratura generale sul topiramato, i suoi effetti antiepilettici sono attribuiti al blocco dei canali del sodio voltaggio-dipendenti, alla potenziazione dei recettori GABA-A, all'antagonismo dei recettori AMPA/kainato e a una debole inibizione dell'anidrasi carbonica.
 
-Per la **neoplasia del nervo trigemino** non emerge un nesso terapeutico plausibile. Le azioni anticonvulsivanti e neuromodulatorie del topiramato non hanno una relazione stabilita con la biologia dei tumori del nervo trigemino. La predizione sembra riflettere la vicinanza nel grafo di conoscenza (nodi trigeminali o neurologici) più che un reale razionale terapeutico.
+Per il **tumore del nervo trigemino** non emerge un nesso terapeutico plausibile. Le azioni anticonvulsivanti e neuromodulatorie del topiramato non hanno una relazione stabilita con la biologia dei tumori del nervo trigemino. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
-Le altre predizioni di alto punteggio sono invece forme di epilessia riflessa, vicine all'indicazione originale: epilessia visiva, crisi da pensiero, epilessia da sussulto, crisi indotte dalla minzione, crisi da alimentazione, crisi audiogeniche, crisi indotte dall'orgasmo e crisi da lettura. Qui il meccanismo antiepilettico è teoricamente applicabile, ma le prove sono indirette, ricavate dalle indicazioni epilettiche già approvate.
 
 ---
 

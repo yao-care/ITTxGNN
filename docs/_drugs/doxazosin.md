@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Doxazosin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 152
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Doxazosin: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L4). Indicazione originale: Ipertensione e iperplasia prostatica benigna"
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-27
+description: "Doxazosin: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Doxazosin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,93 +33,79 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-## Doxazosin: Dall'ipertensione e dall'iperplasia prostatica benigna all'emicrania
+## Doxazosin: antagonista dei recettori alfa-1 adrenergici → disturbo emicranico (migraine disorder)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Doxazosin è un antagonista selettivo dei recettori alfa-1 adrenergici, originariamente impiegato per il trattamento dell'ipertensione e dell'iperplasia prostatica benigna.
-Il modello TxGNN prevede che possa essere efficace per il **disturbo emicranico (migraine disorder)**,
-ma al momento l'evidenza si limita a **1 pubblicazione** di tipo narrativo e a **nessuno studio clinico registrato**.
+Doxazosin è un antagonista selettivo dei recettori alfa-1 adrenergici. Il modello TxGNN prevede una possibile efficacia nel **disturbo emicranico (migraine disorder)**, con un punteggio di 0,9920. A sostegno di questa direzione, nei dati compilati per questo report non risultano studi clinici registrati e compare **1 pubblicazione** di tipo narrativo, senza dati di efficacia controllati.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione e iperplasia prostatica benigna (dal knowledge graph; i testi delle autorizzazioni AIFA non riportano l'indicazione) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Disturbo emicranico (migraine disorder) |
-| Punteggio di predizione TxGNN | 99,20% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Punteggio di predizione TxGNN | 0,9920 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa predizione è plausibile?
 
-## Perché questa predizione è ragionevole?
+Nei dati compilati per questo report il meccanismo d'azione dettagliato non è disponibile. In base alla classe farmacologica, doxazosin blocca i recettori alfa-1 adrenergici (ADRA1A, ADRA1B e ADRA1D), come confermato dai dati di farmacologia sui bersagli.
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle conoscenze generali sulla classe, doxazosin è un antagonista alfa-1 adrenergico; i dati di farmacologia compilati confermano l'interazione con i recettori α1A, α1B e α1D (geni ADRA1A, ADRA1B, ADRA1D). La sua efficacia nell'ipertensione e nei sintomi urinari da iperplasia prostatica benigna è nota.
+Dal punto di vista meccanicistico, il blocco alfa-1 potrebbe modulare il tono noradrenergico e la reattività vascolare cerebrale e simpatica, aspetti ritenuti coinvolti nella fisiopatologia dell'emicrania. Si tratta però di un'inferenza dalla classe del farmaco, non di un dato misurato.
 
-Il possibile legame con l'emicrania passerebbe dalla modulazione del tono noradrenergico e della reattività vascolare cerebrale e simpatica, meccanismi coinvolti nella fisiopatologia dell'emicrania. Si tratta però di un'inferenza basata sulla classe farmacologica, non di un dato fornito direttamente.
-
-È importante sottolineare che il punteggio TxGNN molto alto (0,992) è una predizione computazionale e non costituisce evidenza clinica. Anche il sottotipo **emicrania con aura del tronco encefalico** ha ottenuto un punteggio quasi identico (99,19%), ma senza alcuno studio o pubblicazione a supporto: il valore sembra ereditato dal nodo generale "emicrania" e non da un segnale specifico del sottotipo. Resta in livello L5 e con raccomandazione Hold.
-
----
+Il punteggio elevato di TxGNN è una predizione computazionale e non costituisce evidenza clinica. L'unica pubblicazione disponibile è una discussione narrativa che descrive una piccola serie di 10 pazienti, senza gruppo di controllo.
 
 ## Evidenza dagli studi clinici
 
-Attualmente non risulta alcuno studio clinico registrato correlato.
-
----
+Al momento non risultano studi clinici correlati registrati.
 
 ## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Revisione narrativa | Headache | Discussione sul ruolo dei bloccanti alfa-1 nella profilassi dell'emicrania. In 10 pazienti trattati con terazosina o doxazosin, 9 hanno mostrato riduzione di frequenza e/o gravità degli attacchi, ma 5 hanno sospeso il farmaco per effetti collaterali. Non sono forniti dati controllati di efficacia. |
+| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Revisione narrativa | Headache | In 10 pazienti con emicrania trattati con terazosina o doxazosin, in quasi tutti si è osservata una riduzione della frequenza o della gravità degli attacchi; 5 pazienti hanno interrotto il trattamento per effetti collaterali. Nessun dato controllato. |
 
----
+Questo lavoro riguarda gli alfa-1 bloccanti in generale (terazosina e doxazosin) e non offre dati di efficacia controllati specifici per doxazosin. Per questo motivo non è sufficiente a superare il livello L5.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Di seguito le prime 5.
+I dati locali registrano 20 autorizzazioni per doxazosin come singolo principio attivo; l'elenco potrebbe essere parziale. Di seguito alcune delle principali.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034434187 | DOXAZOSINA 20 cpr 4 mg | EG SpA | Cancellata |
-| 040243065 | DOXAZOSIN 30 cpr 2 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 037248059 | KIMURA 30 cpr div 2 mg | S.F. Group Srl | Cancellata |
-| 039353026 | CARDURA 30 cpr div 2 mg | BB Farma Srl | Cancellata |
-| 037397015 | DOXAZOSIN 3x10 cpr 2 mg | DOC Generici Srl | Cancellata |
+| Numero di autorizzazione | Nome del prodotto | Titolare |
+|---------|------|-----------|
+| 034434187 | DOXAZOSINA 20 cpr 4 mg | EG SpA |
+| 026821025 | CARDURA 20 cpr div 4 mg | VIATRIS PHARMA Srl |
+| 026818029 | NORMOTHEN 20 cpr div 4 mg | VIATRIS PHARMA Srl |
+| 037927023 | QUORUM 20 cpr div 4 mg | S.F. GROUP Srl |
+| 038647018 | SAIDOX 30 cpr div 2 mg | S.F. GROUP Srl |
 
----
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati locali.
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-- **Controindicazioni associate nel knowledge graph** (non derivate dal foglietto illustrativo): atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, insufficienza epatica, malattie del fegato, malattie della colecisti, disturbi ipotensivi, stenosi del piloro, priapismo, sindrome dell'iride a bandiera intraoperatoria, ostruzione intestinale.
-- **Interazioni**: la ricerca è stata completata e ha individuato 3 interazioni di tipo farmacologico, tutte con i recettori α1A, α1B e α1D (bersagli terapeutici del farmaco). Non sono state identificate interazioni con altri farmaci.
-- **Nota sulla tollerabilità**: il blocco alfa-1 può causare ipotensione e capogiri, rilevanti in una popolazione con emicrania; nello studio del 1997, 5 pazienti su 10 hanno interrotto il trattamento per effetti collaterali. Per il sottotipo con aura del tronco encefalico gli effetti ipotensivi potrebbero essere particolarmente preoccupanti.
+- **Controindicazioni e condizioni di cautela** (da relazioni farmaco-malattia compilate, non da testo di foglietto illustrativo): ipotensione ortostatica, sindrome da tachicardia posturale ortostatica, atrofia multisistemica, disturbi ipotensivi, insufficienza e malattie epatiche, malattie della colecisti, stenosi del piloro, ostruzione intestinale, priapismo, sindrome dell'iride flaccida intraoperatoria.
+- **Interazioni**: i dati di farmacologia indicano come bersagli i recettori alfa-1A, alfa-1B e alfa-1D adrenergici; non sono riportate interazioni con altri farmaci.
+- Il blocco alfa-1 può causare ipotensione e capogiri, rilevanti per la tollerabilità in una popolazione con emicrania. Nella serie di casi citata, 5 pazienti su 10 hanno interrotto il trattamento per effetti collaterali.
 
-Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illustrativo.
-
----
+Per le avvertenze complete, fare riferimento al foglietto illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un punteggio computazionale elevato, ma l'unica evidenza è una revisione narrativa del 1997 con pochi pazienti e un alto tasso di interruzione per effetti collaterali. Non esistono studi clinici registrati. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La predizione si basa soprattutto su un punteggio computazionale e su una sola pubblicazione narrativa, senza studi clinici registrati né dati controllati; l'evidenza è quindi di livello L5. Inoltre gli effetti ipotensivi del blocco alfa-1 pongono questioni di tollerabilità.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank
-- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
-- Studi clinici controllati (idealmente RCT di fase 2) di doxazosin nella profilassi dell'emicrania
-- Valutazione del profilo di tollerabilità (ipotensione, capogiri) in pazienti con emicrania
-- Chiarimento dello stato regolatorio in Italia, visto che nessuna autorizzazione è valida
-- Evidenza specifica per sottotipo prima di considerare l'emicrania con aura del tronco encefalico
+- Studi clinici controllati (almeno fase 2) di doxazosin nella profilassi dell'emicrania
+- Dati dettagliati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA
+- Un piano di monitoraggio della pressione arteriosa e della tollerabilità
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

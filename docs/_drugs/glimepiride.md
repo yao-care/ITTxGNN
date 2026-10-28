@@ -50,10 +50,10 @@ ma per questa direzione **non risulta alcuno studio clinico né alcuna pubblicaz
 |------|------|
 | Indicazione originale | Diabete mellito di tipo 2 |
 | Nuova indicazione prevista | Sindrome della persona rigida classica (classic stiff person syndrome) |
-| Punteggio di predizione TxGNN | 99,75% |
+| Punteggio di predizione TxGNN | 0,9975 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 16 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
+| Numero di autorizzazioni | 16 (valide: 16) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -72,14 +72,14 @@ Per tutte le altre previsioni di alto rango non sono disponibili studi clinici e
 
 | Rango | Indicazione prevista | Punteggio | Considerazioni |
 |------|------|------|------|
-| 2 | Sindrome dell'arto rigido focale | 99,75% | Vicinanza di rete alla sindrome della persona rigida; nessun razionale farmacologico plausibile |
-| 3 | Opsismodisplasia | 99,74% | Displasia scheletrica legata a INPPL1 (via PI3K/insulina); legame solo ipotetico |
-| 4 | Sindrome da disfunzione responsiva alla tiamina | 99,73% | Il diabete è una caratteristica della malattia; eventuale gestione solo sintomatica della glicemia |
-| 5 | Lipodistrofia localizzata indotta da farmaci | 99,62% | Probabile associazione con il trattamento del diabete; nessun ruolo terapeutico noto |
-| 6 | Lipodistrofia centrifuga | 99,60% | Associazione di categoria nel grafo; nessun razionale |
-| 7 | Lipoatrofia localizzata da pressione | 99,59% | Atrofia adiposa meccanica; nessuna via plausibile |
-| 8 | Lipodistrofia localizzata idiopatica | 99,56% | Possibile debole legame con gli effetti extrapancreatici di sensibilizzazione all'insulina |
-| 9 | Agenesia pancreatica | 99,55% | In linea di principio inefficace: senza massa beta-cellulare residua la sulfonilurea non agisce; servono insulina |
+| 2 | Sindrome dell'arto rigido focale | 0,9975 | Vicinanza di rete alla sindrome della persona rigida; nessun razionale farmacologico plausibile |
+| 3 | Opsismodisplasia | 0,9974 | Displasia scheletrica legata a INPPL1 (via PI3K/insulina); legame solo ipotetico |
+| 4 | Sindrome da disfunzione responsiva alla tiamina | 0,9973 | Il diabete è una caratteristica della malattia; eventuale gestione solo sintomatica della glicemia |
+| 5 | Lipodistrofia localizzata indotta da farmaci | 0,9962 | Probabile associazione con il trattamento del diabete; nessun ruolo terapeutico noto |
+| 6 | Lipodistrofia centrifuga | 0,9960 | Punteggio del modello TxGNN (deep learning); può riflettere somiglianze apprese tra malattie correlate, non evidenze biologiche; nessun razionale |
+| 7 | Lipoatrofia localizzata da pressione | 0,9959 | Atrofia adiposa meccanica; nessuna via plausibile |
+| 8 | Lipodistrofia localizzata idiopatica | 0,9956 | Possibile debole legame con gli effetti extrapancreatici di sensibilizzazione all'insulina |
+| 9 | Agenesia pancreatica | 0,9955 | In linea di principio inefficace: senza massa beta-cellulare residua la sulfonilurea non agisce; servono insulina |
 
 ---
 
@@ -107,11 +107,11 @@ Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni att
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 032845226 | AMARYL 30 cpr 4 mg | Sanofi Srl | Cancellata |
-| 032117222 | SOLOSA 30 cpr 4 mg | Laboratori Guidotti SpA | Cancellata |
-| 032117018 | SOLOSA 30 cpr 2 mg | Laboratori Guidotti SpA | Cancellata |
-| 045365020 | GLIMEPIRIDE 30 cpr 2 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 032845164 | AMARYL 30 cpr 3 mg | Sanofi Srl | Cancellata |
+| 032845226 | AMARYL 30 cpr 4 mg | Sanofi Srl | Valida |
+| 032117222 | SOLOSA 30 cpr 4 mg | Laboratori Guidotti SpA | Valida |
+| 032117018 | SOLOSA 30 cpr 2 mg | Laboratori Guidotti SpA | Valida |
+| 045365020 | GLIMEPIRIDE 30 cpr 2 mg | Aurobindo Pharma Italia Srl | Valida |
+| 032845164 | AMARYL 30 cpr 3 mg | Sanofi Srl | Valida |
 
 ---
 

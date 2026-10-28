@@ -48,10 +48,10 @@ Il tiapride è un antagonista selettivo dei recettori dopaminergici D2/D3 della 
 |------|------|
 | Indicazione originale | Non disponibile nei dati AIFA (il testo dell'indicazione approvata è vuoto) |
 | Nuova indicazione prevista | Disturbo emicranico (migraine disorder) |
-| Punteggio di predizione TxGNN | 99,18% |
+| Punteggio di predizione TxGNN | 0,9918 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ I dati dettagliati sul meccanismo d'azione registrato non sono attualmente dispo
 
 L'iperattività dopaminergica è coinvolta nelle fasi premonitoria e nausea dell'emicrania. Gli antagonisti D2 (ad esempio metoclopramide e domperidone) sono consolidati nel trattamento dell'emicrania acuta. Anche benzamidi correlate, come il sulpiride, sono state studiate per la profilassi dell'emicrania. Un meccanismo basato sul blocco D2 è quindi plausibile.
 
-Occorre però precisare che il legame specifico tra tiapride e prevenzione dell'emicrania non è stato caratterizzato meccanicisticamente nei dati disponibili. Il punteggio TxGNN molto alto (0,99) supporta l'ipotesi ma non costituisce evidenza clinica.
+Occorre però precisare che il legame specifico tra tiapride e prevenzione dell'emicrania non è stato caratterizzato meccanicisticamente nei dati disponibili. Il punteggio TxGNN molto alto (0,9918) supporta l'ipotesi ma non costituisce evidenza clinica.
 
 ---
 
@@ -91,7 +91,7 @@ Attualmente non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023402023 | SEREPRILE*10 fiale IM EV 100 mg 2 ml (NEURAXPHARM ITALY SpA) | Fiale iniettabili (IM/EV) | Non disponibile (stato: cancellata) |
+| 023402023 | SEREPRILE*10 fiale IM EV 100 mg 2 ml (NEURAXPHARM ITALY SpA) | Fiale iniettabili (IM/EV) | Non disponibile (stato: valida) |
 
 ---
 

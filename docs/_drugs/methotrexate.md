@@ -4,17 +4,17 @@ title: Methotrexate
 parent: Solo previsione del modello (L5)
 nav_order: 290
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methotrexate: nuova indicazione prevista, Linfoma polmonare primario (seconda per punteggio (livello di evidenza L5). Indicazione originale: Leucemia linfoblastica acuta, artrite reumatoide, psoriasi"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Metotrexato: dalla leucemia linfoblastica acuta al linfoma polmonare primario
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## Sintesi
@@ -46,11 +46,11 @@ Per il linfoma polmonare primario esistono **0 studi clinici** e **20 pubblicazi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Leucemia linfoblastica acuta, artrite reumatoide, psoriasi, linfomi (da indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Linfoma polmonare primario (seconda per punteggio; la prima, il blastoma polmonare, è priva di evidenze) |
-| Punteggio di predizione TxGNN | 99,45% (blastoma polmonare, prima in graduatoria); 99,45% (linfoma polmonare primario) |
-| Livello di evidenza | L4 (linfoma polmonare primario); L5 (blastoma polmonare) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pulmonary blastoma |
+| Punteggio di predizione TxGNN | 0.9945 |
+| Livello di evidenza | L5 (linfoma polmonare primario); L5 (blastoma polmonare) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte revocate, 0 valide) |
 | Decisione raccomandata | Hold |
 
@@ -99,7 +99,7 @@ Nessuno di questi lavori dimostra l'efficacia del metotrexato nel linfoma polmon
 | 044224119 | METOTHER 4 siringhe preriempite 10 mg | Siringa preriempita | Non disponibile |
 | 019888142 | METHOTREXATE 4 siringhe 20 mg | Siringa | Non disponibile |
 
-Tutte le 20 autorizzazioni risultano revocate (produttori tra cui Alfasigma, Accord, S.F. Group, DIFA Cooper, Pfizer Italia, DOC Generici, Mylan). Non c'è alcuna autorizzazione valida.
+Non c'è alcuna autorizzazione valida.
 
 ## Citotossicità
 
@@ -124,7 +124,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo 
 **Decisione: Hold**
 
 **Motivazione:**
-- Per il linfoma polmonare primario non esistono studi clinici e la letteratura è indiretta (case report e lavori sul linfoma del SNC), per cui il livello di evidenza è L4. Per il blastoma polmonare, primo per punteggio, si è a L5. Tutte le autorizzazioni italiane sono revocate e mancano i dati di sicurezza del foglio illustrativo.
+- Per il linfoma polmonare primario non esistono studi clinici e la letteratura è indiretta (case report e lavori sul linfoma del SNC), per cui il livello di evidenza è L4. Per il blastoma polmonare, primo per punteggio, si è a L5.
 - Tra le altre predizioni, il rabdomiosarcoma (L2, studio di fase 2 con metotrexato ad alte dosi) e il linfoma di Hodgkin (L3, regime VBM storico) hanno evidenze più solide e meritano una valutazione prioritaria.
 
 **Per procedere sono necessari:**

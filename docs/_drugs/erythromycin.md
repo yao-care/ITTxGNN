@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Erythromycin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 178
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Erythromycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L4). Indicazione originale: Infezioni batteriche, tra cui congiuntivite, polmonite, pertosse…"
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+description: "Erythromycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati lo…"
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-## Eritromicina: dalle infezioni batteriche alla cheratocongiuntivite epiteliale puntata
+## Erythromycin: Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ L'eritromicina è un antibiotico macrolide, originariamente usato per infezioni 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche, tra cui congiuntivite, polmonite, pertosse, gonorrea, uretrite e acne (da grafo di conoscenza; il testo dell'indicazione AIFA non è disponibile) |
-| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata |
-| Punteggio di predizione TxGNN | 99,89% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9989 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa predizione è ragionevole?
@@ -74,11 +74,11 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 031421011 | Eritromicina lattobionato, 1 flaconcino soluz. iniett. 500 mg 10 ml (FISIOPHARMA Srl) | Soluzione iniettabile (flaconcino) | Non disponibile; autorizzazione cancellata |
+| 031421011 | Eritromicina lattobionato, 1 flaconcino soluz. iniett. 500 mg 10 ml (FISIOPHARMA Srl) | Soluzione iniettabile (flaconcino) | Non disponibile; autorizzazione valida |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni/condizioni a rischio (dal grafo di conoscenza, non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare) e torsione di punta; porfiria; malattie renali, epatiche, della colecisti ed ematologiche; dermatite esfoliativa e dermatite; colite da *Clostridium difficile*; enterocolite necrotizzante perinatale; miastenia grave e malattie della giunzione neuromuscolare; anemia da carenza di folati; disturbi dell'udito.
+- **Controindicazioni/condizioni a rischio (non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare) e torsione di punta; porfiria; malattie renali, epatiche, della colecisti ed ematologiche; dermatite esfoliativa e dermatite; colite da *Clostridium difficile*; enterocolite necrotizzante perinatale; miastenia grave e malattie della giunzione neuromuscolare; anemia da carenza di folati; disturbi dell'udito.
 - **Interazioni**: nei dati farmacologici compare l'interazione con il recettore della motilina (MLNR), di cui l'eritromicina è ligando; non sono riportate interazioni farmaco-farmaco con livello di gravità.
 
 Per le avvertenze ufficiali si rimanda al foglietto illustrativo.

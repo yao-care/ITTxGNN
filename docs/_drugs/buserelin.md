@@ -46,10 +46,10 @@ Buserelin è un agonista del recettore GnRH, utilizzato per il trattamento del c
 |------|------|
 | Indicazione originale | Carcinoma della prostata (da dati di farmacologia; il testo delle indicazioni AIFA non è disponibile) |
 | Nuova indicazione prevista | Ipertricosi |
-| Punteggio di predizione TxGNN | 99,75% |
+| Punteggio di predizione TxGNN | 0,9975 |
 | Livello di evidenza | L5 (solo predizione del modello; la pubblicazione trovata non verifica l'efficacia) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -74,10 +74,10 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025540030 | SUPREFACT siringa SC 6,3 mg rilascio prolungato (cancellata) | Iniettabile a rilascio prolungato | Non disponibile |
-| 025540016 | SUPREFACT fiala SC 5,5 ml 1 mg/ml (cancellata) | Fiala sottocutanea | Non disponibile |
-| 025540028 | SUPREFACT soluzione nasale 0,1 mg/erogazione, flacone 10 mg (cancellata) | Soluzione nasale | Non disponibile |
-| 025540042 | SUPREFACT siringa SC 9,45 mg impianto depot (cancellata) | Impianto depot | Non disponibile |
+| 025540030 | SUPREFACT siringa SC 6,3 mg rilascio prolungato (valida) | Iniettabile a rilascio prolungato | Non disponibile |
+| 025540016 | SUPREFACT fiala SC 5,5 ml 1 mg/ml (valida) | Fiala sottocutanea | Non disponibile |
+| 025540028 | SUPREFACT soluzione nasale 0,1 mg/erogazione, flacone 10 mg (valida) | Soluzione nasale | Non disponibile |
+| 025540042 | SUPREFACT siringa SC 9,45 mg impianto depot (valida) | Impianto depot | Non disponibile |
 
 Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate.
 

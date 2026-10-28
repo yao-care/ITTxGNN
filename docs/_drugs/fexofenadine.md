@@ -6,9 +6,9 @@ nav_order: 196
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria, congiuntivite atopica…"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fexofenadine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Fexofenadina: dalle indicazioni allergiche alla congiuntivite da rosacea
+## Fexofenadine: Congiuntivite da rosacea (rosacea conjunctivitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN ne prevede un possibile effetto nella **congiuntivite da rosace
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Rinite allergica, rinite vasomotoria, congiuntivite atopica, papillare e primaverile, orticaria idiopatica (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non sono disponibili) |
-| Nuova indicazione prevista | Congiuntivite da rosacea |
-| Punteggio di previsione TxGNN | 99,85% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Congiuntivite da rosacea (rosacea conjunctivitis) |
+| Punteggio di previsione TxGNN | 0.9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 10 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -85,11 +85,11 @@ Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni vali
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
 |---------|------|------|-----------|------|
-| 033304078 | Fexofenadina, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Cancellata |
-| 051211023 | Fexofenadina, 20 cpr rivestite 180 mg | Compresse rivestite | Aurobindo Pharma Italia Srl | Cancellata |
-| 033303330 | Telfast, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Cancellata |
-| 038229047 | Fixodin, 20 cpr rivestite 120 mg | Compresse rivestite | Anseris Farma Srl | Cancellata |
-| 038229124 | Fixodin, 20 cpr rivestite 180 mg | Compresse rivestite | Anseris Farma Srl | Cancellata |
+| 033304078 | Fexofenadina, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Valida |
+| 051211023 | Fexofenadina, 20 cpr rivestite 180 mg | Compresse rivestite | Aurobindo Pharma Italia Srl | Valida |
+| 033303330 | Telfast, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Valida |
+| 038229047 | Fixodin, 20 cpr rivestite 120 mg | Compresse rivestite | Anseris Farma Srl | Valida |
+| 038229124 | Fixodin, 20 cpr rivestite 180 mg | Compresse rivestite | Anseris Farma Srl | Valida |
 
 ---
 

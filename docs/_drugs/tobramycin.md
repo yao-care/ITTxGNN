@@ -6,9 +6,9 @@ nav_order: 439
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (livello di evidenza L4). Indicazione originale: Infezioni batteriche e oculari (meningite batterica, uveite…"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
+description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tobramycin
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Tobramicina: dalle infezioni oculari e batteriche alla cheratite da esposizione
+## Tobramycin: Cheratite da esposizione (exposure keratitis)
 {: .text-alpha }
 
 ## Sintesi
@@ -47,12 +47,12 @@ Il modello TxGNN la indica come possibile candidata per la **cheratite da esposi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche e oculari (meningite batterica, uveite, congiuntivite, infezione da *S. aureus*, ecc.). Il testo delle indicazioni approvate AIFA non è disponibile; l'elenco deriva dal grafo di conoscenza del modello |
-| Nuova indicazione prevista | Cheratite da esposizione |
-| Punteggio di predizione TxGNN | 99,93% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cheratite da esposizione (exposure keratitis) |
+| Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -90,15 +90,15 @@ Al momento non risultano sperimentazioni cliniche registrate correlate a questa 
 
 ## Informazioni sul mercato italiano
 
-Tutte le 9 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 041632011 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Teva Italia | Cancellata |
-| 023189044 | Nebicina 1 fiala IM/EV 20 mg/2 ml | Teofarma | Cancellata |
-| 023189032 | Nebicina 1 fiala IM/EV 40 mg/1 ml | Teofarma | Cancellata |
-| 036646038 | Bramitob soluz. nebul. 56 contenitori monodose 300 mg/4 ml | Chiesi Farmaceutici | Cancellata |
-| 044611010 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Sun Pharmaceutical Industries Europe | Cancellata |
+| 041632011 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Teva Italia | Valida |
+| 023189044 | Nebicina 1 fiala IM/EV 20 mg/2 ml | Teofarma | Valida |
+| 023189032 | Nebicina 1 fiala IM/EV 40 mg/1 ml | Teofarma | Valida |
+| 036646038 | Bramitob soluz. nebul. 56 contenitori monodose 300 mg/4 ml | Chiesi Farmaceutici | Valida |
+| 044611010 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Sun Pharmaceutical Industries Europe | Valida |
 
 Le altre quattro autorizzazioni (Nebicina 100 mg e 150 mg; Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini) sono ugualmente cancellate.
 
@@ -132,7 +132,7 @@ Per la cheratite da esposizione non esistono sperimentazioni né letteratura dir
 
 ### Altre indicazioni previste (breve nota)
 
-Tra le altre predizioni, l'**otite esterna** (punteggio 99,81%, livello L4) è biologicamente plausibile, perché *Pseudomonas aeruginosa* e *S. aureus* rientrano nello spettro della tobramicina. Le evidenze sono però solo casi clinici, studi di sensibilità e dati veterinari, con rischio di ototossicità in caso di perforazione timpanica; è considerata una domanda di ricerca. Le restanti predizioni (ad esempio sindrome emolitico-uremica da infezione o cardiomiopatia di Chagas) non hanno un razionale meccanicistico né evidenze cliniche.
+Tra le altre predizioni, l'**otite esterna** (punteggio 0,9981, livello L4) è biologicamente plausibile, perché *Pseudomonas aeruginosa* e *S. aureus* rientrano nello spettro della tobramicina. Le evidenze sono però solo casi clinici, studi di sensibilità e dati veterinari, con rischio di ototossicità in caso di perforazione timpanica; è considerata una domanda di ricerca. Le restanti predizioni (ad esempio sindrome emolitico-uremica da infezione o cardiomiopatia di Chagas) non hanno un razionale meccanicistico né evidenze cliniche.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

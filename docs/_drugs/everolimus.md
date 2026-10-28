@@ -4,7 +4,7 @@ title: Everolimus
 parent: Prove elevate (L1-L2)
 nav_order: 185
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Everolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Carcinoma a cellule renali (altre indicazioni nella base di conoscenz…"
 monitor_inn: "EVEROLIMUS"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 # Everolimus
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Everolimus è un inibitore di mTOR, noto per l'impiego nel carcinoma renale, nel
 |------|------|
 | Indicazione originale | Carcinoma a cellule renali (altre indicazioni nella base di conoscenza: carcinoma mammario, angiomiolipoma renale, sclerosi tuberosa) |
 | Nuova indicazione prevista | Liposarcoma |
-| Punteggio di predizione TxGNN | 99,88% |
+| Punteggio di predizione TxGNN | 0,9988 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 5 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 Nota: il testo delle indicazioni approvate non è presente nei dati compilati per questo report. L'indicazione originale deriva quindi dagli archi di indicazione della base di conoscenza TxGNN, non dal foglio illustrativo AIFA.
@@ -91,13 +91,13 @@ Il legame con l'indicazione originale è la via mTOR, già bersaglio terapeutico
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
 |---------|------|------|-----------|
-| 041397100 | VOTUBIA 30 cpr dispers. 2 mg | Non indicata | Revocata |
-| 036373025 | CERTICAN 60 cpr 0,25 mg | Non indicata | Revocata |
-| 036373227 | CERTICAN 60 cpr dispers. 0,25 mg | Non indicata | Revocata |
-| 036373102 | CERTICAN 60 cpr 0,75 mg | Non indicata | Revocata |
-| 041397124 | VOTUBIA 30 cpr dispers. 3 mg | Non indicata | Revocata |
+| 041397100 | VOTUBIA 30 cpr dispers. 2 mg | Non indicata | Valida |
+| 036373025 | CERTICAN 60 cpr 0,25 mg | Non indicata | Valida |
+| 036373227 | CERTICAN 60 cpr dispers. 0,25 mg | Non indicata | Valida |
+| 036373102 | CERTICAN 60 cpr 0,75 mg | Non indicata | Valida |
+| 041397124 | VOTUBIA 30 cpr dispers. 3 mg | Non indicata | Valida |
 
-Tutte le 5 autorizzazioni risultano revocate; non vi sono autorizzazioni valide.
+Tutte le 5 autorizzazioni risultano valide; il farmaco è in commercio.
 
 ---
 
@@ -131,7 +131,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Per il liposarcoma esiste un solo studio di fase 2 a braccio singolo in combinazione con ribociclib, che non permette di isolare il contributo di everolimus, e non vi sono studi randomizzati. Inoltre, tutte le autorizzazioni italiane sono revocate e mancano i dati di sicurezza ufficiali AIFA, quindi non è possibile procedere allo screening di sicurezza.
+Per il liposarcoma esiste un solo studio di fase 2 a braccio singolo in combinazione con ribociclib, che non permette di isolare il contributo di everolimus, e non vi sono studi randomizzati. Inoltre, il farmaco è in commercio con 5 autorizzazioni italiane valide su 5, ma mancano i dati di sicurezza ufficiali AIFA, quindi non è possibile procedere allo screening di sicurezza.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante)

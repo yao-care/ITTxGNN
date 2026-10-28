@@ -8,6 +8,7 @@ nav_order: 141
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Desloratadina
@@ -51,8 +52,8 @@ Inoltre, il farmaco è **attualmente non commercializzato in Italia** con questo
 | Nuova indicazione prevista | Non disponibile — TxGNN non ha restituito previsioni |
 | Punteggio di previsione TxGNN | N/A |
 | Livello di evidenza | N/A |
-| Stato del mercato in Italia | Non commercializzato |
-| Numero di autorizzazioni | 0 |
+| Stato del mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
+| Numero di autorizzazioni | 16 (valide: 16) |
 | Decisione consigliata | **Sospendere** |
 
 ---

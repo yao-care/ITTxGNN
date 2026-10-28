@@ -6,9 +6,9 @@ nav_order: 191
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (livello di evidenza L4). Indicazione originale: Iperuricemia (da grafo di conoscenza"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
+description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Febuxostat
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **3**
 
 </div>
 
-## Febuxostat: Dall'iperuricemia all'ipouricemia renale
+## Febuxostat: Ipouricemia renale (hypouricemia, renal)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede una possibile efficacia per **l'ipouricemia renale**, m
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperuricemia (da grafo di conoscenza; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione prevista | Ipouricemia renale |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipouricemia renale (hypouricemia, renal) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -123,7 +123,7 @@ Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato
 
 ### Note su altre indicazioni previste (non principali)
 
-Il modello ha previsto anche il **deficit parziale di HPRT** (punteggio 99,98%) e la **sindrome di Lesch-Nyhan** (99,68%). In entrambi i casi vi è un razionale meccanicistico plausibile per il controllo dell'iperuricemia, ma l'evidenza si limita a casi clinici e serie di casi (livello L4), senza studi clinici. Restano questioni aperte come il rischio di formazione di calcoli di xantina, i dati pediatrici limitati e il fatto che il farmaco non agisce sulle manifestazioni neurologiche. Queste indicazioni sono valutate come "domanda di ricerca" e meritano un'analisi separata.
+Il modello ha previsto anche il **deficit parziale di HPRT** (punteggio 0,9998) e la **sindrome di Lesch-Nyhan** (0,9968). In entrambi i casi vi è un razionale meccanicistico plausibile per il controllo dell'iperuricemia, ma l'evidenza si limita a casi clinici e serie di casi (livello L4), senza studi clinici. Restano questioni aperte come il rischio di formazione di calcoli di xantina, i dati pediatrici limitati e il fatto che il farmaco non agisce sulle manifestazioni neurologiche. Queste indicazioni sono valutate come "domanda di ricerca" e meritano un'analisi separata.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

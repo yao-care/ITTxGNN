@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Solo previsione del modello (L5)
+parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 75
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Brinzolamide: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto, ipertensione oculare"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **N/A** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,52 +32,49 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Brinzolamide: Dal glaucoma ad angolo aperto al glaucoma ereditario primario
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata -->
+## Brinzolamide: usi noti e stato di mercato in Italia
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo
+I candidati proposti dal modello TxGNN (punteggio ≥ 0,99) per Brinzolamide, tracciabili a una fonte, corrispondono tutti a usi già noti. Al momento, quindi, non risulta alcuna nuova indicazione predetta per questo principio attivo.
 
-La brinzolamide è un inibitore dell'anidrasi carbonica utilizzato in collirio, originariamente indicato per il **glaucoma ad angolo aperto** e l'**ipertensione oculare**. Il modello TxGNN ne prevede l'efficacia nel **glaucoma ereditario primario**, ma al momento **non risultano studi clinici né pubblicazioni** a supporto di questa direzione: la previsione resta puramente computazionale.
-
-## Quadro generale
-
+## Panoramica rapida
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Glaucoma ad angolo aperto, ipertensione oculare (dalle relazioni di indicazione del knowledge graph TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Glaucoma ereditario primario |
-| Punteggio di previsione TxGNN | 99,48% |
-| Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Nuove indicazioni predette | Nessuna (tutti i candidati del modello tracciabili a una fonte sono usi noti) |
+| Usi noti tra i candidati del modello | 1 |
+| Livello di evidenza | Non applicabile |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 
-## Perché la previsione è plausibile?
+## Usi noti tra i candidati del modello
 
-I dati compilati per questo report non riportano il meccanismo d'azione originale. In base alle conoscenze farmacologiche generali, la brinzolamide inibisce l'anidrasi carbonica II, riducendo la secrezione di umore acqueo e quindi la pressione intraoculare (IOP). Poiché l'IOP elevata è il principale fattore di danno al nervo ottico anche nel glaucoma ereditario primario (ad esempio il glaucoma congenito primario o il glaucoma giovanile ad angolo aperto), il meccanismo è potenzialmente applicabile.
+### Approvate (supportate da autorizzazione o scheda tecnica)
+| Indicazione | Fonte |
+|------|------|
+| glaucoma primario ereditario (primary hereditary glaucoma) | licenza in un altro Paese (indicazione approvata: glaucoma) |
 
-Il glaucoma ereditario primario è in larga parte un sottotipo della categoria glaucoma già coperta dalle indicazioni approvate. Il punteggio elevato è dunque coerente con le indicazioni esistenti e rappresenta più probabilmente un'**estensione di indicazione** che un vero riposizionamento.
+### Correlate a un'indicazione approvata (stessa categoria di malattia)
+| Indicazione | Categoria approvata |
+|------|------|
+| nessuna | nessuna |
 
-Va considerato che nel glaucoma congenito primario il trattamento di prima linea è chirurgico, mentre gli inibitori topici dell'anidrasi carbonica hanno in genere un ruolo di supporto. Nei neonati e nei lattanti restano inoltre preoccupazioni di sicurezza, come l'assorbimento sistemico e l'acidosi metabolica.
-
-## Evidenze da studi clinici
-
-Attualmente non risultano studi clinici correlati registrati.
-
-## Evidenze dalla letteratura
-
-Attualmente non risulta letteratura correlata disponibile.
+### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+| Indicazione |
+|------|
+| nessuna |
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni elencate risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
-
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 042648016 | Brinzolamide collirio, 1 flacone 5 ml 10 mg/ml | Sandoz SpA | Cancellata |
-| 042406013 | Brinzolamide collirio, 1 flacone 5 ml 10 mg/ml | EG SpA | Cancellata |
-| 042249019 | Brinzaflux collirio, 1 flacone 5 ml 10 mg/ml | DOC Generici Srl | Cancellata |
-| 034770014 | Azopt collirio, 5 ml 10 mg/ml | Novartis Europharm Ltd | Cancellata |
-| 043204015 | Brinzolamide collirio, 1 flacone 5 ml 10 mg/ml | Mylan SpA | Cancellata |
+| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+|------|------|------|------|
+| 042648016 | Brinzolamide |  | Valida |
+| 042406013 | Brinzolamide |  | Valida |
+| 042249019 | Brinzolamide |  | Valida |
+| 034770014 | Brinzolamide |  | Valida |
+| 043204015 | Brinzolamide |  | Valida |
 
 ## Considerazioni di sicurezza
 
@@ -85,20 +83,6 @@ Tutte le autorizzazioni elencate risultano cancellate; il testo dell'indicazione
 
 Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
-## Conclusioni e prossimi passi
-
-**Decisione: Hold**
-
-**Motivazione:**
-La previsione si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura a supporto. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo, un'assenza che blocca la fase di valutazione della sicurezza.
-
-**Per procedere sono necessari:**
-- Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
-- Dati sul meccanismo d'azione da DrugBank
-- Ricerca sistematica di studi clinici e letteratura sul glaucoma ereditario primario, in particolare in età pediatrica
-- Valutazione di sicurezza sistemica per i pazienti pediatrici
-- Chiarimento sulla differenza effettiva rispetto all'indicazione glaucoma già nota
-- Verifica della disponibilità di prodotti commercializzati, dato che tutte le autorizzazioni sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: Prove moderate (L3-L4)
 nav_order: 333
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxcarbazepine: nuova indicazione prevista, Epilessia visiva (visual epilepsy) (livello di evidenza L4). Indicazione originale: Epilessia parziale"
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Oxcarbazepina: da epilessia parziale a epilessia visiva
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-L'oxcarbazepina è un antiepilettico bloccante dei canali del sodio, originariamente impiegato nel trattamento dell'epilessia parziale (focale). Il modello TxGNN ne prevede una possibile efficacia nell'**epilessia visiva**, ma la previsione si basa quasi esclusivamente sul modello: **nessuno studio clinico** registrato e **16 pubblicazioni** generali sugli antiepilettici, nessuna delle quali tratta specificamente questa condizione.
+L'oxcarbazepina è un antiepilettico bloccante dei canali del sodio, originariamente impiegato nel trattamento dell'epilessia parziale (focale).
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia parziale; epilessia motoria parziale (dal grafo di conoscenza TxGNN; nelle autorizzazioni AIFA non è riportato alcun testo di indicazione) |
-| Nuova indicazione prevista | Epilessia visiva (visual epilepsy) |
-| Punteggio di previsione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Restless legs syndrome |
+| Punteggio di previsione TxGNN | 0.9989 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -80,13 +80,12 @@ Attualmente non risultano studi clinici registrati correlati a questa indicazion
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 048388021 | ZIGABAL*50 cpr 600 mg | Compresse | Non disponibile (cancellata) |
-| 028304018 | TOLEP*50 cpr div 300 mg | Compresse | Non disponibile (cancellata) |
-| 028304020 | TOLEP*50 cpr div 600 mg | Compresse | Non disponibile (cancellata) |
-| 042353021 | OXCARBAZEPINA*50 cpr 600 mg | Compresse | Non disponibile (cancellata) |
-| 048388019 | ZIGABAL*50 cpr 300 mg | Compresse | Non disponibile (cancellata) |
+| 048388021 | ZIGABAL*50 cpr 600 mg | Compresse | Non disponibile (valida) |
+| 028304018 | TOLEP*50 cpr div 300 mg | Compresse | Non disponibile (valida) |
+| 028304020 | TOLEP*50 cpr div 600 mg | Compresse | Non disponibile (valida) |
+| 042353021 | OXCARBAZEPINA*50 cpr 600 mg | Compresse | Non disponibile (valida) |
+| 048388019 | ZIGABAL*50 cpr 300 mg | Compresse | Non disponibile (valida) |
 
-Tutte e 6 le autorizzazioni (la sesta è OXCARBAZEPINA*50 cpr 300 mg, TECNIGEN) risultano cancellate; nessuna è attualmente valida.
 
 ## Considerazioni sulla sicurezza
 
@@ -100,7 +99,7 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'indicazione si fonda sul solo punteggio del modello e su un plausibile meccanismo comune alle crisi focali; mancano studi clinici e letteratura specifica sull'epilessia visiva. Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.
+Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliati (ad esempio da DrugBank)
@@ -108,7 +107,7 @@ L'indicazione si fonda sul solo punteggio del modello e su un plausibile meccani
 - Letteratura o casi clinici specifici sull'uso dell'oxcarbazepina nell'epilessia visiva/fotosensibile
 - Verifica dello stato regolatorio e della disponibilità commerciale del farmaco in Italia
 
-**Altre indicazioni previste (per riferimento):** la sindrome delle gambe senza riposo (punteggio 99,89%, evidenza L4) è supportata da tre case report e una revisione narrativa, senza studi controllati; le restanti previsioni (crisi riflesse di vario tipo, stato epilettico) hanno evidenza indiretta o assente. Per lo stato epilettico va segnalato un caso di mioclono con stato epilettico indotto dall'oxcarbazepina nell'epilessia mioclonica giovanile, che rappresenta un segnale di sicurezza.
+**Altre indicazioni previste (per riferimento):** la sindrome delle gambe senza riposo (punteggio 0,9989, evidenza L4) è supportata da tre case report e una revisione narrativa, senza studi controllati; le restanti previsioni (crisi riflesse di vario tipo, stato epilettico) hanno evidenza indiretta o assente. Per lo stato epilettico va segnalato un caso di mioclono con stato epilettico indotto dall'oxcarbazepina nell'epilessia mioclonica giovanile, che rappresenta un segnale di sicurezza.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

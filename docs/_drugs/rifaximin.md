@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifaximin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 380
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Rifaximin: nuova indicazione prevista, Candidiasi orale (livello di evidenza L4). Indicazione originale: Encefalopatia epatica, coma epatico"
@@ -14,7 +14,7 @@ predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteorad
 # Rifaximin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ Il modello TxGNN la predice come potenzialmente efficace per la **candidiasi ora
 |------|------|
 | Indicazione originale | Encefalopatia epatica, coma epatico |
 | Nuova indicazione prevista | Candidiasi orale |
-| Punteggio di predizione TxGNN | 99,75% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 |
+| Punteggio di predizione TxGNN | 0,9975 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è (poco) ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle conoscenze generali, la rifaximina è un antibiotico non assorbito che inibisce la RNA polimerasi batterica; agisce soprattutto a livello intestinale e non ha attività nota contro *Candida*.
 
-Non emerge quindi un legame meccanicistico plausibile con la candidiasi orale. L'alto punteggio TxGNN è verosimilmente un artefatto della propagazione nel grafo di conoscenza ed è contraddetto dal segnale clinico disponibile.
+Non emerge quindi un legame meccanicistico plausibile con la candidiasi orale. L'alto punteggio proviene dal modello TxGNN (deep learning) e può riflettere similitudini apprese dal modello tra malattie correlate, non evidenze biologiche; inoltre è contraddetto dal segnale clinico disponibile.
 
 Lo studio di coorte disponibile suggerisce anzi un possibile effetto avverso: l'uso di rifaximina nei pazienti sottoposti a trapianto allogenico di cellule staminali emopoietiche è stato associato a infezioni da *Candida* resistenti alla micafungina, probabilmente per alterazione del microbioma intestinale.
 
@@ -77,8 +77,8 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025300029 | NORMIX*12 cpr rivestite 200 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 041924046 | TIXTELLER*56 cpr rivestite 550 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 025300029 | NORMIX*12 cpr rivestite 200 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 041924046 | TIXTELLER*56 cpr rivestite 550 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia.
 

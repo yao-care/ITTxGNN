@@ -6,9 +6,9 @@ nav_order: 354
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Piroxicam: nuova indicazione prevista, Sindrome da microftalmia colobomatosa-displasia rizomelica (livello di evidenza L5). Indicazione originale: Artrite reumatoide, osteoartrosi…"
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
+description: "Piroxicam: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Piroxicam
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Piroxicam: dall'artrite reumatoide alla sindrome da microftalmia colobomatosa-displasia rizomelica
+## Piroxicam: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,19 +44,19 @@ Il piroxicam è un antinfiammatorio non steroideo (FANS) usato per artrite reuma
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, osteoartrosi, artropatia (dal grafo di conoscenza TxGNN; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione prevista | Sindrome da microftalmia colobomatosa-displasia rizomelica |
-| Punteggio di previsione TxGNN | 99,996% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate (nessuna autorizzazione valida) |
-| Numero di autorizzazioni | 11 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
+| Numero di autorizzazioni | 11 (valide: 11) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
 I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. Il piroxicam è noto come FANS che inibisce in modo non selettivo le ciclossigenasi (COX-1 e COX-2) e riduce la sintesi di prostaglandine. La sua efficacia nelle patologie articolari infiammatorie è consolidata.
 
-Per questa indicazione **non emerge alcun legame meccanicistico plausibile**. La sindrome è una malattia genetica dello sviluppo oculare e scheletrico, e nulla indica che l'inibizione delle COX agisca sulla sua patogenesi. L'alto punteggio di TxGNN (99,996%, posizione 69 nella classifica del modello) deriva solo da relazioni nel grafo di conoscenza e va considerato un'ipotesi non validata.
+Per questa indicazione **non emerge alcun legame meccanicistico plausibile**. La sindrome è una malattia genetica dello sviluppo oculare e scheletrico, e nulla indica che l'inibizione delle COX agisca sulla sua patogenesi.
 
 ## Evidenze da studi clinici
 
@@ -72,11 +72,11 @@ Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 033788011 | PIROXICAM 30 cps 20 mg | DOC Generici Srl | Cancellata |
-| 034919035 | IPSOFLOG 6 fiale IM 20 mg 1 ml | Tecnopharma Italia Srl | Cancellata |
-| 026446056 | BREXIN 30 cpr 20 mg | Promedica Srl | Cancellata |
-| 029534031 | PIROXICAM 30 cpr solubili 20 mg | EG SpA | Cancellata |
-| 024249029 | FELDENE 30 cps 20 mg | Pfizer Italia Srl | Cancellata |
+| 033788011 | PIROXICAM 30 cps 20 mg | DOC Generici Srl | Valida |
+| 034919035 | IPSOFLOG 6 fiale IM 20 mg 1 ml | Tecnopharma Italia Srl | Valida |
+| 026446056 | BREXIN 30 cpr 20 mg | Promedica Srl | Valida |
+| 029534031 | PIROXICAM 30 cpr solubili 20 mg | EG SpA | Valida |
+| 024249029 | FELDENE 30 cps 20 mg | Pfizer Italia Srl | Valida |
 
 ## Considerazioni di sicurezza
 

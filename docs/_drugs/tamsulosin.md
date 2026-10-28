@@ -6,9 +6,9 @@ nav_order: 420
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tamsulosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Iperplasia prostatica benigna (da grafo di conoscenza"
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
+description: "Tamsulosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riporta…"
 ---
 
 # Tamsulosin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tamsulosina: dall'iperplasia prostatica benigna all'ipertricosi universale congenita di tipo Ambras
+## Tamsulosin: Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN ne prevede una possibile efficacia per l'**ipertricosi universa
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperplasia prostatica benigna (da grafo di conoscenza; il testo delle indicazioni approvate AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras |
-| Punteggio di predizione TxGNN | 99,996% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Hold |
 
@@ -61,7 +61,7 @@ Il modello TxGNN ne prevede una possibile efficacia per l'**ipertricosi universa
 
 Allo stato attuale, i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, la tamsulosina è un antagonista dei recettori adrenergici alfa-1A/1D, la cui efficacia nell'iperplasia prostatica benigna è consolidata.
 
-Per l'indicazione prevista **non emerge un razionale meccanicistico plausibile**. La sindrome di Ambras deriva da riarrangiamenti genomici che alterano la regolazione di TRPS1, e non esiste alcuna via nota che colleghi il blocco alfa-1 adrenergico alla crescita eccessiva dei peli. L'elevato punteggio TxGNN (0,99996) riflette verosimilmente la vicinanza nel grafo di conoscenza a fenotipi legati ai peli, e non un legame biologico reale.
+Per l'indicazione prevista **non emerge un razionale meccanicistico plausibile**. La sindrome di Ambras deriva da riarrangiamenti genomici che alterano la regolazione di TRPS1, e non esiste alcuna via nota che colleghi il blocco alfa-1 adrenergico alla crescita eccessiva dei peli. L'elevato punteggio TxGNN (1,0000) deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
 Anche le altre predizioni di rango elevato (ipertricosi, anomalie del fusto del pelo, ipotricosi, alopecia areata diffusa, alopecia, emicrania con aura del tronco encefalico, sindromi malformative congenite) sono prive di evidenze e di meccanismi plausibili.
 
@@ -94,11 +94,11 @@ Tutte le 20 autorizzazioni risultano cancellate. Il testo delle indicazioni appr
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 036908010 | ANTUNES 20 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Cancellata |
-| 037004037 | TAMSULOSIN 20 cps 0,4 mg rilascio modificato | MYLAN SpA | Cancellata |
-| 037010055 | TAMSULOSINA 30 cps 0,4 mg rilascio modificato | SANDOZ SpA | Cancellata |
-| 050808017 | OMNIC 20 cps 0,4 mg rilascio modificato | FARMA 1000 Srl | Cancellata |
-| 040917104 | TAMSULOSINA 30 cps 400 mcg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Cancellata |
+| 036908010 | ANTUNES 20 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Valida |
+| 037004037 | TAMSULOSIN 20 cps 0,4 mg rilascio modificato | MYLAN SpA | Valida |
+| 037010055 | TAMSULOSINA 30 cps 0,4 mg rilascio modificato | SANDOZ SpA | Valida |
+| 050808017 | OMNIC 20 cps 0,4 mg rilascio modificato | FARMA 1000 Srl | Valida |
+| 040917104 | TAMSULOSINA 30 cps 400 mcg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Valida |
 
 ---
 

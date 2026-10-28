@@ -6,9 +6,9 @@ nav_order: 337
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Palivizumab: nuova indicazione prevista, Neoplasia benigna della lingua (livello di evidenza L5). Indicazione originale: Infezione da virus respiratorio sinciziale (RSV)"
 monitor_inn: "PALIVIZUMAB"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
+description: "Palivizumab: nuova indicazione prevista, Benign neoplasm of tongue (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Palivizumab
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Palivizumab: Dall'infezione da virus respiratorio sinciziale a neoplasia benigna della lingua
+## Palivizumab: Benign neoplasm of tongue
 {: .text-alpha }
 
 ## Sintesi
@@ -44,19 +44,19 @@ Palivizumab è un anticorpo monoclonale umanizzato originariamente impiegato con
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione da virus respiratorio sinciziale (RSV) |
-| Nuova indicazione prevista | Neoplasia benigna della lingua |
-| Punteggio di previsione TxGNN | 99,94% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Benign neoplasm of tongue |
+| Punteggio di previsione TxGNN | 0.9994 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 Palivizumab è un anticorpo monoclonale umanizzato diretto contro la proteina F dell'RSV. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione.
 
-Non è stato individuato alcun legame meccanicistico tra la neutralizzazione della proteina F dell'RSV e la biologia di una neoplasia benigna della lingua. Non risulta alcun bersaglio o via associata all'RSV in questa patologia. Il punteggio elevato (0,9994) riflette probabilmente la similarità a livello di grafo tra nodi di neoplasie del distretto testa-collo, più che una base biologica. Anche la similarità con l'indicazione originale è ancora da valutare.
+Non è stato individuato alcun legame meccanicistico tra la neutralizzazione della proteina F dell'RSV e la biologia di una neoplasia benigna della lingua. Non risulta alcun bersaglio o via associata all'RSV in questa patologia. Anche la similarità con l'indicazione originale è ancora da valutare.
 
 Anche le altre previsioni nelle prime dieci posizioni (neoplasia dell'epiglottide, neuroblastoma cervicale, neoplasia benigna dell'ipofaringe, neoplasia benigna del pavimento della bocca, tumore del testicolo e del paratesticolo, neoplasia cistica, schwannoma del forame giugulare, mesenchimoma, cisti del dotto tireoglosso) hanno punteggi simili (circa 0,9994), livello L5 e nessuna evidenza a supporto. Per nessuna è stato individuato un meccanismo plausibile.
 
@@ -72,8 +72,8 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034529040 | SYNAGIS*1 flaconcino IM 1 ml 100 mg/ml (AstraZeneca AB) – cancellata | Non indicata | Non indicata |
-| 034529038 | SYNAGIS*1 flaconcino IM 0,5 ml 100 mg/ml (AstraZeneca AB) – cancellata | Non indicata | Non indicata |
+| 034529040 | SYNAGIS*1 flaconcino IM 1 ml 100 mg/ml (AstraZeneca AB) – valida | Non indicata | Non indicata |
+| 034529038 | SYNAGIS*1 flaconcino IM 0,5 ml 100 mg/ml (AstraZeneca AB) – valida | Non indicata | Non indicata |
 
 Entrambe le autorizzazioni risultano cancellate; non ci sono autorizzazioni valide in Italia.
 

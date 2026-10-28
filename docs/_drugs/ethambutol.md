@@ -6,9 +6,9 @@ nav_order: 182
 evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Ethambutol: nuova indicazione prevista, Epiglottite (livello di evidenza L4). Indicazione originale: Tubercolosi polmonare (da archi di indicazione del grafo di conoscenza"
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
+description: "Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ethambutol
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **5**
 
 </div>
 
-## Etambutolo: dalla tubercolosi polmonare all'epiglottite
+## Ethambutol: Epiglottite (epiglottitis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ L'etambutolo è un farmaco antimicobatterico, originariamente usato per il tratt
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Tubercolosi polmonare (da archi di indicazione del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione predetta | Epiglottite |
-| Punteggio di predizione TxGNN | 99,90% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Epiglottite (epiglottitis) |
+| Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa predizione può essere ragionevole (o no)?
@@ -62,10 +62,10 @@ Questo meccanismo non è attivo contro i patogeni tipici dell'epiglottite batter
 
 | Rango | Malattia predetta | Punteggio | Livello | Valutazione |
 |------|------|------|------|------|
-| 2 | Laringite | 99,71% | L4 | Rilevante solo per la laringite tubercolare/da micobatteri non tubercolari; letteratura costituita da case report ed epidemiologia, nessuno studio |
-| 3 | Infezione meningococcica | 99,63% | L5 | Nessuna base meccanicistica (le arabinosil-transferasi sono assenti in *Neisseria meningitidis*); nessuna evidenza |
-| 4 | Peritonite | 99,20% | L3 | Segnale più solido, limitato alla peritonite tubercolare (revisione sistematica, report sulla terapia dell'TB addominale); estensione dell'indicazione TB, non utile per peritoniti non micobatteriche |
-| 5 | Otite media infettiva | 99,06% | L5 | Nessuna attività sui patogeni abituali; nessuna evidenza |
+| 2 | Laringite | 0,9971 | L4 | Rilevante solo per la laringite tubercolare/da micobatteri non tubercolari; letteratura costituita da case report ed epidemiologia, nessuno studio |
+| 3 | Infezione meningococcica | 0,9963 | L5 | Nessuna base meccanicistica (le arabinosil-transferasi sono assenti in *Neisseria meningitidis*); nessuna evidenza |
+| 4 | Peritonite | 0,9920 | L3 | Segnale più solido, limitato alla peritonite tubercolare (revisione sistematica, report sulla terapia dell'TB addominale); estensione dell'indicazione TB, non utile per peritoniti non micobatteriche |
+| 5 | Otite media infettiva | 0,9906 | L5 | Nessuna attività sui patogeni abituali; nessuna evidenza |
 
 ## Evidenza dalle sperimentazioni cliniche
 
@@ -81,7 +81,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021257023 | ETAPIAM*50 cpr rivestite 400 mg (PIAM FARMACEUTICI SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 021257023 | ETAPIAM*50 cpr rivestite 400 mg (PIAM FARMACEUTICI SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 L'unica autorizzazione registrata risulta cancellata; non vi sono autorizzazioni valide.
 

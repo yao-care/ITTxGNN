@@ -50,10 +50,10 @@ Il punteggio elevato è quindi una predizione del modello, non una conferma clin
 |------|------|
 | Indicazione originale | Infezioni batteriche (polmonite batterica, colangite, endocardite, artropatia batterica); il testo delle indicazioni approvate AIFA non è disponibile |
 | Nuova indicazione prevista | Otite media infettiva |
-| Punteggio di predizione TxGNN | 99,44% |
+| Punteggio di predizione TxGNN | 0,9944 |
 | Livello di evidenza | L5 (solo predizione del modello, nessuno studio clinico dedicato; la letteratura raccolta è costituita da una revisione e da un caso clinico) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -62,7 +62,7 @@ Il punteggio elevato è quindi una predizione del modello, non una conferma clin
 
 I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, la cefazolina è un beta-lattamico che inibisce la sintesi della parete cellulare batterica. È attiva soprattutto contro i batteri Gram-positivi come *Staphylococcus aureus* sensibile alla meticillina (MSSA) e gli streptococchi, che possono causare otite media. Esiste quindi un legame antibatterico plausibile con l'indicazione prevista.
 
-Vi sono però limiti importanti. La cefazolina ha un'attività limitata contro patogeni tipici dell'otite media come *H. influenzae* e *M. catarrhalis*. Inoltre il punteggio TxGNN molto alto (0,994) è solo una predizione computazionale, non una prova di efficacia.
+Vi sono però limiti importanti. La cefazolina ha un'attività limitata contro patogeni tipici dell'otite media come *H. influenzae* e *M. catarrhalis*. Inoltre il punteggio TxGNN molto alto (0,9944) è solo una predizione computazionale, non una prova di efficacia.
 
 Tra le altre indicazioni previste dal modello, alcune hanno un razionale più debole: l'otite media non suppurativa e quella allergica sono spesso non batteriche, quindi un antibiotico ha scarso fondamento meccanicistico. Le forme suppurative e croniche hanno invece un'evidenza clinica, seppur datata (vedi sotto).
 
@@ -89,11 +89,11 @@ Nota: per le altre indicazioni predette, l'unico dato clinico umano diretto è u
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 023853031 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – TEVA ITALIA | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 033575010 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – S.F. GROUP | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 033123011 | NEFAZOL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – NEW RESEARCH | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 023916051 | CEFAZIL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – ITALFARMACO | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 024127019 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – PHARMACARE | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 023853031 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – TEVA ITALIA | Non indicata | Non disponibile (autorizzazione valida) |
+| 033575010 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – S.F. GROUP | Non indicata | Non disponibile (autorizzazione valida) |
+| 033123011 | NEFAZOL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – NEW RESEARCH | Non indicata | Non disponibile (autorizzazione valida) |
+| 023916051 | CEFAZIL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – ITALFARMACO | Non indicata | Non disponibile (autorizzazione valida) |
+| 024127019 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – PHARMACARE | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 

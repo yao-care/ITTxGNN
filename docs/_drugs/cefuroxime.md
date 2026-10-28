@@ -4,17 +4,17 @@ title: Cefuroxime
 parent: Solo previsione del modello (L5)
 nav_order: 99
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (otite media infettiva…"
+indication_count: 9
 monitor_inn: "Cefuroxime"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "suppurative otitis media", "hematological disease associated with an acquired peripheral neuropathy"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-10-27
+description: "Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,123 +33,73 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Cefuroxima: dalle infezioni batteriche all'infezione delle vie urinarie
+## Cefuroxima: cefalosporina di seconda generazione → sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La cefuroxima è una cefalosporina di seconda generazione, utilizzata originariamente per infezioni batteriche come otite media, polmonite batterica, meningite batterica, gonorrea e malattia di Lyme.
-Il modello TxGNN prevede che possa essere efficace per la **sindrome da iperviscosità policlonale** (indicazione con il punteggio più alto), ma per questa previsione **non esistono studi clinici né pubblicazioni** a supporto.
-L'indicazione predetta con le evidenze più solide è l'**infezione delle vie urinarie** (**5 studi clinici** e **20 pubblicazioni**), che però è una naturale estensione dell'uso antibatterico già noto e non un vero riposizionamento.
-
----
+Cefuroxima è una cefalosporina di seconda generazione, antibiotico che inibisce la sintesi della parete cellulare batterica.
+Il modello TxGNN la associa come principale predizione alla **sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome)**, con un punteggio molto alto (0,9976), ma **senza alcuno studio clinico e senza pubblicazioni** a sostegno di questa direzione.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni batteriche (otite media infettiva, infezioni da streptococco e stafilococco, polmonite batterica, meningite batterica, gonorrea, malattia di Lyme, ecc.). Il testo delle indicazioni approvate AIFA non è disponibile; l'elenco deriva dal grafo di conoscenza |
-| Nuova indicazione predetta (rank 1) | Sindrome da iperviscosità policlonale |
-| Punteggio di predizione TxGNN | 99,76% |
-| Livello di evidenza | L5 (solo predizione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) |
+| Punteggio di predizione TxGNN | 0,9976 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
+| Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione raccomandata | Hold |
 
-**Nota sulle altre predizioni.** Oltre al rank 1, due candidati hanno evidenze rilevanti:
+## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole?
 
-| Indicazione predetta | Punteggio TxGNN | Livello di evidenza | Valutazione |
-|------|------|------|------|
-| Infezione delle vie urinarie | 99,62% | L3 | Domanda di ricerca (estensione dell'uso antibatterico) |
-| Otite media suppurativa | 99,56% | L4 | Domanda di ricerca (evidenze indirette) |
+Per la cefuroxima non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, si tratta di una cefalosporina di seconda generazione con attività antibatterica, basata sull'inibizione della sintesi della parete cellulare.
 
----
-
-## Perché questa predizione è ragionevole?
-
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, la cefuroxima è una cefalosporina di seconda generazione che inibisce la sintesi della parete cellulare batterica; la sua efficacia nelle infezioni batteriche è consolidata.
-
-**Per la predizione di rank 1 (sindrome da iperviscosità policlonale)** non si riscontra un collegamento meccanicistico plausibile. Si tratta di un disturbo reologico guidato da proteine/immunoglobuline, su cui un antibatterico non ha effetto noto. L'alto punteggio TxGNN deriva da associazioni nel grafo, senza supporto clinico o bibliografico. Analogamente, per iperamilasemia, analbuminemia congenita, incompatibilità di gruppo sanguigno, malattie ematologiche premaligne e neuropatie ematologiche non esiste alcun razionale meccanicistico.
-
-**Per le predizioni con base biologica** (infezione delle vie urinarie, otite media suppurativa, infezione da *Peptostreptococcus*) il razionale è solido: la cefuroxima è attiva sui comuni uropatogeni (*E. coli*, *Klebsiella*, *Proteus*) e sui patogeni dell'otite media (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). L'otite media infettiva è già tra le indicazioni originali, quindi si tratta di un'estensione dell'uso esistente. Per *Peptostreptococcus* l'unica fonte è uno studio in vitro del 1981, incentrato sulla ceftazidima, con copertura anaerobica della cefuroxima variabile.
-
----
+La sindrome da iperviscosità policlonale è invece un disturbo reologico legato a un eccesso di proteine/immunoglobuline nel sangue. Non si individua un collegamento meccanicistico plausibile tra un antibatterico e una condizione di questo tipo. Il punteggio elevato deriva da un'associazione calcolata dal modello e non è supportato da evidenze cliniche o bibliografiche. Per questo motivo la predizione va considerata, allo stato attuale, solo un'ipotesi computazionale.
 
 ## Evidenze da studi clinici
 
-Per la predizione di rank 1 non risultano studi clinici registrati. Di seguito gli studi relativi all'**infezione delle vie urinarie** (predizione con evidenze più solide):
-
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT04616352](https://clinicaltrials.gov/study/NCT04616352) | N/D | Completato | 973 | Effetto della terapia inappropriata con cefuroxima in adulti ospedalizzati con pielonefrite (rilevanza alta, ma non RCT) |
-| [NCT01507974](https://clinicaltrials.gov/study/NCT01507974) | N/D | Completato | 220 | Antibiotico-profilassi nel puerperio in donne con infezioni urinarie ricorrenti (specificità per cefuroxima non chiara) |
-| [NCT05577273](https://clinicaltrials.gov/study/NCT05577273) | N/D | Sconosciuto | 1000 | Profilassi antibiotica alla rimozione del catetere urinario (agente non specificato) |
-| [NCT02789579](https://clinicaltrials.gov/study/NCT02789579) | Fase 1 precoce | Sconosciuto | 150 | Prevenzione delle infezioni urinarie prima della litotrissia mininvasiva (disegno debole) |
-| [NCT02009098](https://clinicaltrials.gov/study/NCT02009098) | Fase 4 | Ritirato | 0 | Profilassi delle infezioni post-partum dopo taglio cesareo (nessun dato) |
-
-Non è presente alcuno studio di fase 3 randomizzato che dimostri direttamente l'efficacia della cefuroxima.
-
----
+Al momento non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
-Pubblicazioni più rilevanti per l'**infezione delle vie urinarie** (priorità a revisioni sistematiche e studi randomizzati):
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [2689345](https://pubmed.ncbi.nlm.nih.gov/2689345/) | 1989 | Confronto randomizzato | Infection | Aztreonam vs cefuroxima nelle infezioni urinarie alte da Gram-negativi |
-| [38215770](https://pubmed.ncbi.nlm.nih.gov/38215770/) | 2024 | RCT | Lancet Infect Dis | De-escalation da β-lattamici antipseudomonas in batteriemie da Enterobacterales (evidenza indiretta) |
-| [41693075](https://pubmed.ncbi.nlm.nih.gov/41693075/) | 2026 | Revisione sistematica | Pharmacotherapy | β-lattamici orali nelle infezioni urinarie complicate, confronto con TMP/SMX e fluorochinoloni |
-| [8799689](https://pubmed.ncbi.nlm.nih.gov/8799689/) | 1996 | Revisione | Drugs | Attività antibatterica, farmacocinetica ed efficacia terapeutica della cefuroxima axetil |
-| [18611587](https://pubmed.ncbi.nlm.nih.gov/18611587/) | 1994 | Revisione | Int J Antimicrob Agents | Cefuroxima axetil: spettro e uso nelle infezioni, in particolare respiratorie |
-| [6349019](https://pubmed.ncbi.nlm.nih.gov/6349019/) | 1983 | Revisione | Ther Drug Monit | Attività antimicrobica, farmacologia ed efficacia clinica della cefuroxima |
-| [6344037](https://pubmed.ncbi.nlm.nih.gov/6344037/) | 1983 | Revisione | Pharmacotherapy | Meccanismo d'azione, attività, farmacocinetica e indicazioni terapeutiche della cefuroxima |
-| [39005695](https://pubmed.ncbi.nlm.nih.gov/39005695/) | 2024 | Coorte/epidemiologia | Infect Dis Clin Microbiol | Microrganismi nelle infezioni urinarie comunitarie e fattori di rischio per ESBL |
-
-Per l'**otite media suppurativa** le 20 pubblicazioni sono per lo più revisioni e indagini microbiologiche di sensibilità; l'unico studio specifico sulla cefuroxima è la diffusione nell'essudato dell'orecchio medio nell'otite purulenta cronica ([PMID 7142073](https://pubmed.ncbi.nlm.nih.gov/7142073/), 1982). Non vi sono studi controllati.
-
----
+Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 14 autorizzazioni sono cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati; sono riportate le principali 5.
+Nei dati compilati per questo report risultano 14 autorizzazioni a medicinali monocomponente a base di cefuroxima. Per questi prodotti il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 037732308 | Cefuroxima compresse rivestite 500 mg (6 cpr) | Sandoz SpA | Cancellata |
-| 026915025 | Zinnat 250 mg (12 cpr rivestite) | Sandoz SpA | Cancellata |
-| 027002029 | Oraxim 250 mg (12 cpr rivestite) | Malesci SpA | Cancellata |
-| 026915037 | Zinnat 500 mg (6 cpr rivestite) | Sandoz SpA | Cancellata |
-| 023576022 | Curoxim 500 mg IM (flacone + solvente) | Sandoz SpA | Cancellata |
-
----
+| 037732308 | CEFUROXIMA 6 cpr rivestite 500 mg (Sandoz) | Compresse rivestite | Non registrata |
+| 026915025 | ZINNAT 12 cpr rivestite 250 mg (Sandoz) | Compresse rivestite | Non registrata |
+| 027002029 | ORAXIM 12 cpr rivestite 250 mg (Malesci) | Compresse rivestite | Non registrata |
+| 026915037 | ZINNAT 6 cpr rivestite 500 mg (Sandoz) | Compresse rivestite | Non registrata |
+| 023576022 | CUROXIM 1 flacone IM 500 mg + 1 fiala solvente 2 ml (Sandoz) | Flacone + solvente per uso intramuscolare | Non registrata |
 
 ## Considerazioni sulla sicurezza
 
-I dati su avvertenze e controindicazioni dal foglio illustrativo non sono disponibili. Dal grafo di conoscenza risultano controindicazioni associate a: malattia renale, malattia epatica, malattia della colecisti, disturbi della coagulazione, colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, deficit congenito di protrombina e piouretere (fonte: archi del grafo, non testo di etichetta).
+Per la sicurezza si rimanda al foglio illustrativo: nei dati compilati non sono disponibili avvertenze o controindicazioni tratte dal testo autorizzato.
 
-**Interazioni farmacologiche** (100 segnalate, tutte di livello moderato nei campioni disponibili):
-- Antiacidi/inibitori della secrezione acida: famotidina, ranitidina, cimetidina, nizatidina, omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo, idrossido di alluminio, carbonato di calcio, magaldrato, sali di magnesio
+**Interazioni farmacologiche** (livello moderato, 100 interazioni complessive; principali segnalate):
+- Antiacidi e farmaci che riducono l'acidità gastrica: famotidina, ranitidina, cimetidina, nizatidina, omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo, idrossido di alluminio, carbonato di calcio, composti del magnesio, magaldrato
 - Aminoglicosidi: kanamicina, neomicina
-- Altri: balsalazide
-
-Per ulteriori informazioni sulla sicurezza consultare il foglio illustrativo.
-
----
+- Balsalazide
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione con il punteggio più alto (sindrome da iperviscosità policlonale) non ha alcun razionale meccanicistico né evidenze cliniche o bibliografiche (L5). Inoltre tutte le autorizzazioni italiane sono cancellate. Le uniche indicazioni con evidenze (infezione delle vie urinarie, L3; otite media suppurativa, L4) sono estensioni dell'uso antibatterico esistente, e non veri riposizionamenti, e possono essere trattate come domande di ricerca.
+La predizione principale non ha studi clinici né pubblicazioni a supporto, né un razionale meccanicistico plausibile; il livello di evidenza è L5, basato solo sul modello.
 
-**Per procedere sono necessari:**
-- Foglio illustrativo AIFA (avvertenze e controindicazioni) per completare la valutazione di sicurezza
-- Dati sul meccanismo d'azione da DrugBank
-- Verifica della disponibilità del prodotto in Italia, dato che tutte le autorizzazioni sono cancellate
-- Per l'infezione delle vie urinarie: RCT o dati di resistenza locale specifici per la cefuroxima
-- Per l'otite media: studi controllati specifici sulla cefuroxima
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e un razionale biologico credibile per l'iperviscosità policlonale
+- Studi preclinici o clinici che esaminino direttamente questa patologia
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Verifica dello stato attuale delle autorizzazioni e della disponibilità dei prodotti in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

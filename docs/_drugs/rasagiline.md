@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (livello di evidenza L5). Indicazione originale: Morbo di Parkinson (e sindromi parkinsoniane correlate…"
+last_modified_at: 2026-10-28
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
+description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rasagiline
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Rasagilina: dal morbo di Parkinson alla neurodegenerazione associata a PLA2G6
+## Rasagiline: Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Per questa direzione non risulta però alcuna evidenza: **0 studi clinici** e **
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Morbo di Parkinson (e sindromi parkinsoniane correlate, secondo il grafo di conoscenza) |
-| Nuova indicazione prevista | Neurodegenerazione associata a PLA2G6 |
-| Punteggio di predizione TxGNN | 99,71% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) |
+| Punteggio di predizione TxGNN | 0.9971 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
+| Numero di autorizzazioni | 20 (valide: 20) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -67,10 +67,10 @@ La neurodegenerazione associata a PLA2G6 (che comprende la distrofia neuroassona
 Non ci si aspetta invece che modifichi il difetto di fondo, cioè il rimodellamento dei fosfolipidi e la disfunzione mitocondriale. Il legame meccanicistico si basa quindi solo su farmacologia generale, senza studi o letteratura a supporto.
 
 **Altre predizioni del modello (tutte a bassa plausibilità o non nuove):**
-- **Encefalite di Rasmussen** (99,56%): nessun legame meccanicistico evidente; il punteggio riflette probabilmente la vicinanza nella rete a nodi neurologici.
-- **Mielite** (99,32%): nessun ruolo antinfiammatorio o immunomodulatore stabilito; esistono solo segnali neuroprotettivi preclinici.
-- **Parkinsonismo giovanile di Hunt** (99,25%, livello L4): è sostanzialmente un sinonimo storico di indicazioni già coperte, quindi non rappresenta una vera opportunità di riposizionamento.
-- **Deficit di transaldolasi** (99,19%) e **polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi** (99,01%): nessuna base meccanicistica plausibile; probabili artefatti del grafo.
+- **Encefalite di Rasmussen** (0,9956): nessun legame meccanicistico evidente; il punteggio riflette probabilmente la vicinanza nella rete a nodi neurologici.
+- **Mielite** (0.9932): nessun ruolo antinfiammatorio o immunomodulatore stabilito; esistono solo segnali neuroprotettivi preclinici.
+- **Parkinsonismo giovanile di Hunt** (0.9925, livello L4): è sostanzialmente un sinonimo storico di indicazioni già coperte, quindi non rappresenta una vera opportunità di riposizionamento.
+- **Deficit di transaldolasi** (0,9919) e **polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi** (0,9901): nessuna base meccanicistica plausibile; i punteggi provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
 ---
 
@@ -88,15 +88,15 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5 autorizzazioni.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5 autorizzazioni.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 044400012 | RASAGILINA*28 cpr 1 mg | DOC Generici Srl | Cancellata |
-| 044372023 | AIDEX*28 cpr 1 mg | Ecupharma Srl | Cancellata |
-| 043902016 | RASARAL*28 cpr 1 mg | Ralpharma Srl | Cancellata |
-| 044945095 | RASABON*28 cpr 1 mg | Neuraxpharm Italy SpA | Cancellata |
-| 036983029 | AZILECT*28 cpr 1 mg | Teva B.V. | Cancellata |
+| 044400012 | RASAGILINA*28 cpr 1 mg | DOC Generici Srl | Valida |
+| 044372023 | AIDEX*28 cpr 1 mg | Ecupharma Srl | Valida |
+| 043902016 | RASARAL*28 cpr 1 mg | Ralpharma Srl | Valida |
+| 044945095 | RASABON*28 cpr 1 mg | Neuraxpharm Italy SpA | Valida |
+| 036983029 | AZILECT*28 cpr 1 mg | Teva B.V. | Valida |
 
 ---
 

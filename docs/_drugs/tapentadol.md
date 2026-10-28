@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Solo previsione del modello (L5)
 nav_order: 421
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tapentadol: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (le autorizzazioni AIFA non riport…"
 monitor_inn: "tapentadol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 ## Riepilogo in una frase
 
-Il tapentadolo è un analgesico oppioide ad azione centrale, commercializzato in Italia in compresse a rilascio prolungato. Il modello TxGNN ne prevede un possibile utilizzo nel **disturbo emicranico** (punteggio 99,7%), ma il supporto si basa solo sulla previsione del modello: **nessuno studio clinico** e **nessuna pubblicazione diretta** sull'efficacia in questa indicazione. Le due pubblicazioni trovate, collegate a un termine correlato, sono solo contestuali e riguardano la sicurezza degli oppioidi.
+Il tapentadolo è un analgesico oppioide ad azione centrale, commercializzato in Italia in compresse a rilascio prolungato. Il modello TxGNN (deep learning) ne prevede un possibile utilizzo nell'**Emicrania** (punteggio 0,9967), ma il supporto si basa solo sulla previsione del modello: **nessuno studio clinico** e **nessuna pubblicazione diretta** sull'efficacia in questa indicazione. Le due pubblicazioni trovate, collegate a un termine correlato, sono solo contestuali e riguardano la sicurezza degli oppioidi.
 
 ---
 
@@ -48,10 +48,10 @@ Il tapentadolo è un analgesico oppioide ad azione centrale, commercializzato in
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (le autorizzazioni AIFA non riportano il testo dell'indicazione) |
 | Nuova indicazione prevista | Disturbo emicranico (migraine disorder) |
-| Punteggio di previsione TxGNN | 99,67% |
+| Punteggio di previsione TxGNN | 0,9967 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 19 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 19 su 19) |
+| Numero di autorizzazioni | 19 (valide: 19) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -62,7 +62,7 @@ Il tapentadolo combina agonismo sul recettore oppioide mu e inibizione della ric
 
 Ci sono inoltre forti elementi di cautela. Gli oppioidi in generale non sono raccomandati per il trattamento dell'emicrania, per il rischio di cefalea da abuso di farmaci, cronicizzazione, abuso e dipendenza. Un'indicazione originale chiara non è disponibile, quindi non è possibile valutare la similarità con la nuova indicazione.
 
-Le altre due previsioni (emicrania con aura del tronco encefalico, punteggio 99,6%; suscettibilità genetica all'emicrania con o senza aura, punteggio 99,1%) sembrano ereditare il punteggio dal concetto più generale di emicrania. La seconda descrive una predisposizione genetica e non una condizione clinica trattabile, quindi è un bersaglio terapeutico poco adatto.
+L'altra previsione (emicrania con aura del tronco encefalico, punteggio 0,9957) sembra ereditare il punteggio dal concetto più generale di emicrania.
 
 ---
 
@@ -85,15 +85,15 @@ Per l'indicazione principale (disturbo emicranico) non c'è letteratura. Per il 
 
 ## Informazioni sul mercato italiano
 
-Tutte le 19 autorizzazioni sono revocate; nessuna è attualmente valida. Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
+Tutte le 19 autorizzazioni sono valide. Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 040422545 | PALEXIA 30 cpr 100 mg rilascio prolungato | Grünenthal Italia | Revocata |
-| 040422901 | PALEXIA 30 cpr 250 mg rilascio prolungato | Grünenthal Italia | Revocata |
-| 049512217 | TADOMON 30 cpr 50 mg rilascio prolungato | G.L. Pharma | Revocata |
-| 050302037 | TAPELOD 40x1 cpr 25 mg rilascio prolungato | Sandoz | Revocata |
-| 040422786 | PALEXIA 30 cpr 200 mg rilascio prolungato | Grünenthal Italia | Revocata |
+| 040422545 | PALEXIA 30 cpr 100 mg rilascio prolungato | Grünenthal Italia | Valida |
+| 040422901 | PALEXIA 30 cpr 250 mg rilascio prolungato | Grünenthal Italia | Valida |
+| 049512217 | TADOMON 30 cpr 50 mg rilascio prolungato | G.L. Pharma | Valida |
+| 050302037 | TAPELOD 40x1 cpr 25 mg rilascio prolungato | Sandoz | Valida |
+| 040422786 | PALEXIA 30 cpr 200 mg rilascio prolungato | Grünenthal Italia | Valida |
 
 ---
 
@@ -119,14 +119,13 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Il supporto è limitato al punteggio del modello (livello L5), senza studi clinici né letteratura diretta. Gli oppioidi non sono raccomandati nell'emicrania per i rischi di cefalea da abuso di farmaci e dipendenza. Inoltre, tutte le autorizzazioni italiane sono revocate.
+Il supporto è limitato al punteggio del modello (livello L5), senza studi clinici né letteratura diretta. Gli oppioidi non sono raccomandati nell'emicrania per i rischi di cefalea da abuso di farmaci e dipendenza.
 
 **Per procedere sarebbero necessari:**
 - Dati sul meccanismo d'azione e sulla sua rilevanza nell'emicrania
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Studi preclinici o clinici specifici sul tapentadolo nell'emicrania
 - Una valutazione del rapporto rischio-beneficio rispetto alle terapie standard (triptani, FANS), con attenzione al rischio di sindrome serotoninergica
-- Chiarimento dello stato regolatorio, essendo tutte le autorizzazioni revocate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

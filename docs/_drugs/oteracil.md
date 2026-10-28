@@ -6,9 +6,9 @@ nav_order: 331
 evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Oteracil: nuova indicazione prevista, Neoplasia del colon (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (il testo dell'indicazione autorizzata non è prese…"
 monitor_inn: "oteracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
+description: "Oteracil: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Oteracil
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Oteracil: Dal carcinoma gastrico alla neoplasia del colon
+## Oteracil: Neoplasia del colon (colonic neoplasm)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per la **neoplasia del colon*
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma gastrico (il testo dell'indicazione autorizzata non è presente nelle autorizzazioni AIFA; l'indicazione deriva dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista | Neoplasia del colon |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Neoplasia del colon (colonic neoplasm) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -103,8 +103,8 @@ La letteratura è composta quasi esclusivamente da casi clinici e da uno studio 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione cancellata) |
-| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
+| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
 
 Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.
 

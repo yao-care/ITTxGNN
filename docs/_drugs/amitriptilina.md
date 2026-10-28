@@ -8,6 +8,7 @@ nav_order: 42
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amitriptilina
@@ -51,8 +52,8 @@ L'amitriptilina (AMITRIPTILINA) è un ben noto antidepressivo triciclico ampiame
 | Indicazione Prevista Nuova | **Nessuna** — nessuna indicazione prevista da TxGNN |
 | Punteggio di Previsione TxGNN | N/A |
 | Livello di Evidenza | **L5** — Nessuna previsione e nessuno studio di supporto in questo pacchetto |
-| Stato di Mercato Italia | ❌ Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni | 0 |
+| Stato di Mercato Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di Autorizzazioni | 7 (valide: 7) |
 | Decisione Consigliata | **Sospensione** |
 
 ---

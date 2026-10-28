@@ -4,17 +4,17 @@ title: Metolazone
 parent: Solo previsione del modello (L5)
 nav_order: 295
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Metolazone: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Ipertensione (disturbo ipertensivo)…"
 monitor_inn: "METOLAZONE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Metolazone: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Metolazone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Metolazone: Dall'ipertensione alla malattia renale ipertensiva maligna
+## Metolazone: Malattia renale ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Metolazone è un diuretico simil-tiazidico, originariamente utilizzato per il tr
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione (disturbo ipertensivo), secondo gli archi di indicazione del grafo di conoscenza TxGNN; il testo dell'indicazione approvata AIFA non è disponibile |
-| Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di previsione TxGNN | 99,84% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di previsione TxGNN | 0.9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (entrambe cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -59,9 +59,8 @@ I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. In b
 Tuttavia, la plausibilità è limitata. L'ipertensione maligna è un'emergenza ipertensiva, che di solito richiede farmaci parenterali ad azione rapida; un diuretico orale a lunga durata d'azione difficilmente può essere la terapia principale. I diuretici tiazidici possono essere meno efficaci con un filtrato glomerulare ridotto, anche se metolazone è noto per mantenere attività nell'insufficienza renale.
 
 Altre previsioni del modello presentano la stessa debolezza:
-- **Ipertensione nefrovascolare maligna** (punteggio 99,84%): è una forma grave dell'indicazione già approvata, più che un uso realmente nuovo. Nell'ipertensione nefrovascolare domina l'attivazione del sistema renina-angiotensina, che la deplezione di volume indotta dal diuretico potrebbe stimolare ulteriormente.
-- **Ipertensione polmonare** (forma multifattoriale e forma associata a malattie polmonari/ipossia, punteggio 99,83%): è fisiopatologicamente distinta dall'ipertensione sistemica. Il diuretico potrebbe al massimo alleviare il sovraccarico di volume del cuore destro, in modo sintomatico e non modificante la malattia. Il punteggio elevato riflette probabilmente il termine «ipertensione» condiviso nel grafo di conoscenza.
-- **Sindrome di Braddock** (punteggio 99,78%): non è possibile stabilire alcun razionale meccanicistico; sembra un artefatto del grafo di conoscenza.
+- **Ipertensione nefrovascolare maligna** (punteggio 0,9984): è una forma grave dell'indicazione già approvata, più che un uso realmente nuovo. Nell'ipertensione nefrovascolare domina l'attivazione del sistema renina-angiotensina, che la deplezione di volume indotta dal diuretico potrebbe stimolare ulteriormente.
+- **Ipertensione polmonare** (forma multifattoriale e forma associata a malattie polmonari/ipossia, punteggio 0,9983): è fisiopatologicamente distinta dall'ipertensione sistemica. Il diuretico potrebbe al massimo alleviare il sovraccarico di volume del cuore destro, in modo sintomatico e non modificante la malattia.
 
 ## Evidenza dagli studi clinici
 
@@ -79,8 +78,8 @@ Per l'indicazione principale (malattia renale ipertensiva maligna) non è dispon
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 024488090 | ZAROXOLYN*50 cpr 10 mg (TEOFARMA Srl) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 024488064 | ZAROXOLYN*50 cpr 5 mg (TEOFARMA Srl) | Non indicata | Non disponibile (autorizzazione cancellata) |
+| 024488090 | ZAROXOLYN*50 cpr 10 mg (TEOFARMA Srl) | Non indicata | Non disponibile (autorizzazione valida) |
+| 024488064 | ZAROXOLYN*50 cpr 5 mg (TEOFARMA Srl) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

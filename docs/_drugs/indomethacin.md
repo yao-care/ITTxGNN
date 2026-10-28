@@ -6,9 +6,9 @@ nav_order: 238
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Indomethacin: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Artrite reumatoide, spondilite anchilosante, osteoartrosi, gotta…"
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+description: "Indomethacin: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Indomethacin
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Indometacina: da artrite reumatoide e patologie muscoloscheletriche infiammatorie a artrite idiopatica giovanile
+## Indomethacin: Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN la indica come possibile candidata per la **sindrome brachidatt
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide, spondilite anchilosante, osteoartrosi, gotta, borsite, tendinite, dotto arterioso pervio (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista (primo risultato) | Sindrome brachidattilia-sindattilia |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (primo risultato) | Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) |
+| Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 (per il primo risultato); L3 per l'AIG |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa predizione è ragionevole?
@@ -59,7 +59,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Per il primo risultato (sindrome brachidattilia-sindattilia) **non emerge alcun legame meccanicistico plausibile**: si tratta di una malformazione scheletrica dello sviluppo e non è evidente un percorso che colleghi la sintesi di prostaglandine a tale patologia. Lo stesso vale per gli altri risultati ad alto punteggio (displasia acromesomelica tipo Hunter-Thompson, sindrome WHIM, brachiolmia, miosclerosi e altre sindromi genetiche rare): il punteggio elevato riflette probabilmente la vicinanza nella rete di conoscenza alle indicazioni muscoloscheletriche, più che una rilevanza biologica.
 
-Diverso è il caso dell'**artrite idiopatica giovanile** (8° risultato, punteggio 99,84%): qui il razionale è biologicamente plausibile, perché l'effetto antinfiammatorio e analgesico dell'indometacina è coerente con l'uso approvato nell'artrite reumatoide. Va però precisato che si tratta di un uso sintomatico da FANS già noto e in gran parte storico, non di un vero riposizionamento. La gestione attuale della AIG si basa su DMARD e farmaci biologici; l'indometacina ha un ruolo solo adiuvante o sintomatico, anche per le preoccupazioni di sicurezza in età pediatrica. Anche l'artrite idiopatica giovanile sieropositiva per fattore reumatoide e la noduolosi reumatoide (indirettamente collegata all'artrite reumatoide) sono plausibili per estensione, ma senza evidenza specifica.
+Diverso è il caso dell'**artrite idiopatica giovanile** (8° risultato, punteggio 0,9984): qui il razionale è biologicamente plausibile, perché l'effetto antinfiammatorio e analgesico dell'indometacina è coerente con l'uso approvato nell'artrite reumatoide. Va però precisato che si tratta di un uso sintomatico da FANS già noto e in gran parte storico, non di un vero riposizionamento. La gestione attuale della AIG si basa su DMARD e farmaci biologici; l'indometacina ha un ruolo solo adiuvante o sintomatico, anche per le preoccupazioni di sicurezza in età pediatrica. Anche l'artrite idiopatica giovanile sieropositiva per fattore reumatoide e la noduolosi reumatoide (indirettamente collegata all'artrite reumatoide) sono plausibili per estensione, ma senza evidenza specifica.
 
 ## Evidenza dagli studi clinici
 
@@ -86,9 +86,9 @@ Per il primo risultato (sindrome brachidattilia-sindattilia) non è disponibile 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 022559037 | LIOMETACEN, 6 fiale EV 50 mg + 6 fiale solvente 2 ml (PROMEDICA Srl) | Non indicata | Non disponibile (autorizzazione cancellata) |
-| 020676021 | INDOXEN, 25 capsule 50 mg (ALFASIGMA SpA) | Capsula | Non disponibile (autorizzazione cancellata) |
-| 020676019 | INDOXEN, 25 capsule 25 mg (ALFASIGMA SpA) | Capsula | Non disponibile (autorizzazione cancellata) |
+| 022559037 | LIOMETACEN, 6 fiale EV 50 mg + 6 fiale solvente 2 ml (PROMEDICA Srl) | Non indicata | Non disponibile (autorizzazione valida) |
+| 020676021 | INDOXEN, 25 capsule 50 mg (ALFASIGMA SpA) | Capsula | Non disponibile (autorizzazione valida) |
+| 020676019 | INDOXEN, 25 capsule 25 mg (ALFASIGMA SpA) | Capsula | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 

@@ -5,10 +5,10 @@ parent: Prove elevate (L1-L2)
 nav_order: 24
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Albendazole: nuova indicazione prevista, Echinococcosi alveolare (livello di evidenza L2). Indicazione originale: Echinococcosi cistica, cisticercosi…"
 monitor_inn: "albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
+last_modified_at: 2026-10-27
+description: "Albendazole: nuova indicazione prevista, Echinococcosi alveolare (alveolar echinococcosis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Albendazole
@@ -33,84 +33,81 @@ Livello di evidenza: **L2** | Indicazioni previste: **3**
 
 </div>
 
-## Albendazolo: dalla echinococcosi cistica all'echinococcosi alveolare
+## Albendazolo: antielmintico benzimidazolico (inibitore della beta-tubulina) → Echinococcosi alveolare (alveolar echinococcosis)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi in breve
 
-L'albendazolo è un antielmintico benzimidazolico, originariamente impiegato per l'echinococcosi cistica e la cisticercosi. Il modello TxGNN ne prevede l'efficacia nell'**echinococcosi alveolare**, con **3 studi clinici** e **20 pubblicazioni** nei dati compilati per questa indicazione; si tratta però di evidenze prevalentemente di tipo revisione, con un solo studio di fase 2 direttamente pertinente.
+L'albendazolo è un antielmintico benzimidazolico. Il modello TxGNN prevede che possa essere efficace per l'**echinococcosi alveolare (alveolar echinococcosis)**, con **3 studi clinici** e **20 pubblicazioni** associati a questa direzione. Nel complesso l'evidenza è prevalentemente indiretta e di tipo revisionale.
 
-## Quadro generale
+## Quadro d'insieme
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Echinococcosi cistica, cisticercosi, infezione da *Echinococcus granulosus* (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Echinococcosi alveolare |
-| Punteggio di predizione TxGNN | 99,97% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Echinococcosi alveolare (alveolar echinococcosis) |
+| Punteggio di predizione TxGNN | 0,9997 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
+| Decisione raccomandata | Procedere con cautele (Proceed with Guardrails) |
 
 ## Perché questa predizione è ragionevole?
 
-L'albendazolo è un antielmintico benzimidazolico che si lega alla beta-tubulina del parassita, inibendo la polimerizzazione dei microtubuli e l'assorbimento del glucosio. Ne deriva un'alterazione del metabolismo delle larve di *Echinococcus*. I dati sul meccanismo d'azione originale non sono disponibili nei dati compilati; questa descrizione si basa sulla farmacologia nota della classe.
+Per questo farmaco i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alla farmacologia nota della classe, l'albendazolo si lega alla beta-tubulina del parassita, inibendo la polimerizzazione dei microtubuli e l'assorbimento del glucosio. Ne derivano un esaurimento energetico e un danno metabolico alle larve dei cestodi.
 
-*Echinococcus granulosus* (echinococcosi cistica, indicazione originale) ed *E. multilocularis* (echinococcosi alveolare) sono cestodi strettamente imparentati, per cui lo stesso meccanismo è applicabile. L'albendazolo è già il chemioterapico raccomandato dalle linee guida per l'echinococcosi alveolare. Ha però azione parassitostatica e non parassiticida: dopo chirurgia incompleta serve spesso un trattamento prolungato o a vita.
+*Echinococcus multilocularis*, agente dell'echinococcosi alveolare, è un cestode strettamente imparentato con *Echinococcus granulosus*, responsabile dell'echinococcosi cistica. Il bersaglio molecolare è quindi plausibilmente lo stesso. Le revisioni disponibili indicano che l'albendazolo è già la chemioterapia raccomandata dalle linee guida per questa malattia, con azione parassitostatica (non parassiticida): dopo una chirurgia incompleta o quando l'intervento non è possibile è spesso necessario un trattamento prolungato.
 
 ## Evidenze dagli studi clinici
 
-| Studio | Fase | Stato | Arruolamento | Risultati principali |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Fase 2 | Completato | 194 | Albendazolo nell'echinococcosi alveolare in stadio precoce (Kirghizistan); lo studio più pertinente, ma non è noto se randomizzato e non sono disponibili risultati |
-| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | N/D | Completato | 50 | Vitalità del parassita e marcatori di follow-up in pazienti con echinococcosi alveolare trattati con albendazolo; valuta il monitoraggio, non l'efficacia |
-| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | N/D | Sconosciuto | 24 | Studio randomizzato su albendazolo adiuvante dopo resezione di cisti idatidea polmonare; corrispondenza indiretta (di solito forma cistica) |
+| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Fase 2 | Completato | 194 | Trattamento con albendazolo in soggetti con echinococcosi alveolare in stadio precoce (focolaio in Kirghizistan); studio più pertinente, ma il disegno randomizzato non è confermato e non sono forniti risultati |
+| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | N/D | Completato | 50 | Vitalità del parassita e marcatori di follow-up in pazienti con echinococcosi alveolare epatica trattati con albendazolo; utile per il monitoraggio, non per l'efficacia |
+| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | N/D | Stato sconosciuto | 24 | Albendazolo adiuvante dopo resezione di cisti idatidea polmonare vs placebo; riguarda di norma la forma cistica, quindi indiretto |
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Revisione | Acta Trop | Consenso di esperti su diagnosi e trattamento dell'echinococcosi cistica e alveolare |
-| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Revisione | Tidsskr Nor Laegeforen | Trattamento: resezione chirurgica estesa e uso prolungato di antielmintici |
-| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Revisione | World J Gastroenterol | Gestione dell'echinococcosi epatica; la chirurgia è il cardine del trattamento |
+| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Revisione | Acta Tropica | Consenso di esperti su diagnosi, trattamento e follow-up dell'echinococcosi cistica e alveolare |
+| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Revisione | Tidsskr Nor Legeforen | Malattia alveolare epatica; trattamento con resezione chirurgica e uso prolungato di antiparassitari |
+| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Revisione | World J Gastroenterol | Gestione attuale dell'echinococcosi epatica, con chirurgia come cardine |
 | [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Revisione | Clin Microbiol Rev | Progressi del XXI secolo su diagnosi e trattamento dell'echinococcosi |
-| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Revisione | Semin Liver Dis | Echinococcosi alveolare epatica: quadro clinico e gestione |
-| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Revisione | Acta Trop | Albendazolo e mebendazolo restano gli unici farmaci antiechinococcici autorizzati |
-| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Studio osservazionale | J Antimicrob Chemother | 35 pazienti trattati con mebendazolo o albendazolo, follow-up medio di 39 mesi |
-| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Revisione | Parasitology | L'albendazolo non è parassiticida e può causare eventi avversi gravi; si valutano alternative (piromaridina) |
-| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinico | Antimicrob Agents Chemother | Formulazioni solubilizzanti dell'albendazolo in ratti con echinococcosi alveolare |
-| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Revisione | Chin J Schisto Control | Progressi sull'albendazolo: può rallentare la progressione nei pazienti non operabili |
+| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Revisione | Semin Liver Dis | Quadro clinico e gestione dell'echinococcosi alveolare epatica |
+| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Studio osservazionale | J Antimicrob Chemother | Trentacinque pazienti trattati con mebendazolo o albendazolo, follow-up medio di 39 mesi |
+| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Rassegna | Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi | Progressi sull'albendazolo: può rallentare la progressione nei pazienti non operabili |
+| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinico | Antimicrob Agents Chemother | Formulazioni solubilizzanti di albendazolo in ratti con echinococcosi alveolare epatica secondaria |
+| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Rassegna | Parasitology | Il trattamento si basa solo sull'albendazolo, non parassiticida e con possibili effetti avversi; ricerca di alternative |
+| [25526545](https://pubmed.ncbi.nlm.nih.gov/25526545/) | 2014 | Revisione | Parasite | Albendazolo e mebendazolo e opzioni terapeutiche emergenti |
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 027096041 | ZENTEL*3 cpr 400 mg | Non disponibile | Non disponibile (autorizzazione cancellata; titolare: Laboratoire GlaxoSmithKline) |
+| 027096041 | ZENTEL*3 cpr 400 mg | Non indicata | Non registrata nei dati locali |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni suggerite dal grafo di conoscenza** (non da testo di scheda tecnica): malattie epatiche, malattie della colecisti, neutropenia, agranulocitosi, anemia (incluse anemia macrocitica, aplastica e idiopatica), pancitopenia.
-- **Interazioni farmacologiche**: sono state identificate 96 interazioni. Tra quelle di livello moderato figurano aprepitant, cobicistat, deferasirox, iodio I-123 e I-131, fostamatinib, alemtuzumab, amprenavir, anagrelide, apalutamide, bendamustina, bexarotene, binimetinib, boceprevir e bosentan. Tra quelle di livello minore: cimetidina, desametasone, lidocaina e armodafinil.
+I dati compilati non contengono avvertenze o controindicazioni dal foglio illustrativo; per queste informazioni si rimanda al riassunto delle caratteristiche del prodotto.
 
-Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
+**Interazioni farmacologiche:** sono state rilevate 96 interazioni. Tra quelle elencate, di gravità moderata: aprepitant, cobicistat, deferasirox, iodio I-123 e I-131, fostamatinib, abametapir (topico), alemtuzumab, amprenavir, anagrelide, apalutamide, bendamustina, bexarotene, binimetinib, boceprevir, bosentan. Di gravità lieve: cimetidina, desametasone, lidocaina, armodafinil.
+
+**Condizioni da valutare con cautela:** le basi dati indicano una possibile controindicazione o particolare cautela in caso di malattie del fegato e della colecisti e di alterazioni ematologiche (neutropenia, agranulocitosi, anemia, anemia macrocitica, pancitopenia, anemia aplastica). Non provengono dal testo del foglio illustrativo e vanno verificate.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Proceed with Guardrails**
+**Decisione: Procedere con cautele (Proceed with Guardrails)**
 
 **Motivazione:**
-L'albendazolo è già lo standard terapeutico per l'echinococcosi alveolare e dispone di uno studio di fase 2 completato (n=194) direttamente pertinente, oltre a numerose revisioni. Mancano però studi di fase 3 e la forma autorizzata in Italia risulta cancellata, quindi sono necessarie cautele.
+L'albendazolo è già lo standard farmacologico raccomandato per l'echinococcosi alveolare e vi è uno studio di fase 2 completato (194 partecipanti) sulla coppia farmaco-malattia. Mancano però risultati pubblicati di studi randomizzati e l'evidenza è soprattutto revisionale; il farmaco è parassitostatico.
 
 **Per procedere sono necessari:**
-- Scheda tecnica AIFA con avvertenze e controindicazioni (dato mancante che blocca lo screening di sicurezza)
-- Dati sul meccanismo d'azione da DrugBank
-- Risultati pubblicati dello studio NCT07182305 e verifica del disegno (randomizzazione)
-- Valutazione della disponibilità di un prodotto a base di albendazolo autorizzato in Italia, poiché l'unica autorizzazione è cancellata
-- Piano di monitoraggio della sicurezza (emocromo e funzionalità epatica) per i trattamenti prolungati
-
----
-
-**Nota sulle altre predizioni:** *coenurosi* (punteggio 99,83%) è supportata solo da studi sulla neurocisticercosi, quindi l'evidenza è indiretta. *Infezione da cestodi* (99,74%) è una categoria troppo ampia, che include già le indicazioni originali, e non costituisce un candidato di riposizionamento distinto.
+- Risultati e disegno dello studio NCT07182305
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Dati dettagliati sul meccanismo d'azione
+- Piano di monitoraggio ematologico ed epatico per trattamenti prolungati
+- Verifica delle interazioni rilevanti per le terapie concomitanti
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

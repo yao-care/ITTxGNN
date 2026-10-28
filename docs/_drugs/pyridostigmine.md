@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pyridostigmine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 368
-evidence_level: L3
-indication_count: 7
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Pyridostigmine: nuova indicazione prevista, Miastenia gravis con iperplasia del timo (livello di evidenza L3). Indicazione originale: Miastenia gravis (dalle indicazioni di riferimento del grafo di c…"
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
+description: "Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Pyridostigmine
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **7**
 
 </div>
 
-## Piridostigmina: dalla miastenia gravis alla miastenia gravis con iperplasia del timo
+## Pyridostigmine: Autoimmune disease of peripheral nervous system
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ A sostegno di questa direzione ci sono **0 studi clinici registrati** e **3 pubb
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Miastenia gravis (dalle indicazioni di riferimento del grafo di conoscenza; il testo dell'indicazione nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Miastenia gravis con iperplasia del timo |
-| Punteggio di predizione TxGNN | 99,76% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (nessuna attualmente valida) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Autoimmune disease of peripheral nervous system |
+| Punteggio di predizione TxGNN | 0.9975 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -88,8 +88,8 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 009286042 | MESTINON*50 cpr 180 mg rilascio prolungato (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione revocata) |
-| 009286016 | MESTINON*20 cpr 60 mg (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione revocata) |
+| 009286042 | MESTINON*50 cpr 180 mg rilascio prolungato (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione valida) |
+| 009286016 | MESTINON*20 cpr 60 mg (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione valida) |
 
 ---
 

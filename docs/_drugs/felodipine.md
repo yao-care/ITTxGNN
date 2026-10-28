@@ -4,17 +4,17 @@ title: Felodipine
 parent: Solo previsione del modello (L5)
 nav_order: 193
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Felodipine: nuova indicazione prevista, Ipertensione polmonare con meccanismo multifattoriale non chiaro (pri… (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (il testo delle …"
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Felodipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Felodipine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Felodipina: dall'ipertensione arteriosa all'angina di Prinzmetal
+## Felodipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN la prevede come potenzialmente efficace in diverse condizioni c
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione arteriosa (il testo delle indicazioni autorizzate AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertensione polmonare con meccanismo multifattoriale non chiaro (prima nella classifica TxGNN); l'indicazione con più evidenze è l'angina di Prinzmetal |
-| Punteggio di predizione TxGNN | 99,91% (ipertensione polmonare); 99,07% (angina di Prinzmetal) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pulmonary hypertension with unclear multifactorial mechanism |
+| Punteggio di predizione TxGNN | 0.9991 |
 | Livello di evidenza | L5 per l'indicazione principale; L3 per l'angina di Prinzmetal |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 12 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 12) |
+| Numero di autorizzazioni | 12 (valide: 12) |
 | Decisione raccomandata | Hold (sospendere) per l'indicazione principale; l'angina di Prinzmetal può essere valutata come domanda di ricerca |
 
 ## Perché questa predizione è ragionevole?
@@ -61,7 +61,7 @@ Per l'**ipertensione polmonare**, la vasodilatazione è un meccanismo plausibile
 
 Per l'**angina di Prinzmetal**, causata da vasospasmo coronarico, i calcio-antagonisti sono una classe terapeutica già affermata e di prima scelta. Il blocco vascolo-selettivo della felodipina colpisce direttamente questo meccanismo. Il valore specifico della felodipina risiede soprattutto nella comodità della monosomministrazione giornaliera.
 
-Le altre predizioni (nefropatia ipertensiva maligna, ipertensione renovascolare maligna) sono sostanzialmente estensioni dell'indicazione originale, non vere opportunità di riposizionamento. Per la sindrome di Braddock non è stato identificato un legame meccanicistico chiaro e il punteggio appare un artefatto del grafo di conoscenza.
+Le altre predizioni (nefropatia ipertensiva maligna, ipertensione renovascolare maligna) sono sostanzialmente estensioni dell'indicazione originale, non vere opportunità di riposizionamento.
 
 ## Evidenze dagli studi clinici
 
@@ -93,13 +93,12 @@ Per l'ipertensione polmonare da malattia polmonare e/o ipossia sono state recupe
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
 |---------|------|------|-----------|
-| 037168248 | Felodipina 14 cpr 10 mg rilascio prolungato (Zentiva Italia) | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 038527026 | Felodipina 28 cpr 5 mg rilascio prolungato (Ratiopharm) | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 037565241 | Felodipina 14 cpr 10 mg rilascio prolungato (Sandoz) | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 028162030 | Plendil 14 cpr 10 mg rilascio prolungato (Glenwood) | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 027372010 | Prevex 28 cpr 5 mg rilascio prolungato con calendario (Glenwood) | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 037168248 | Felodipina 14 cpr 10 mg rilascio prolungato (Zentiva Italia) | Non specificata | Non disponibile (autorizzazione valida) |
+| 038527026 | Felodipina 28 cpr 5 mg rilascio prolungato (Ratiopharm) | Non specificata | Non disponibile (autorizzazione valida) |
+| 037565241 | Felodipina 14 cpr 10 mg rilascio prolungato (Sandoz) | Non specificata | Non disponibile (autorizzazione valida) |
+| 028162030 | Plendil 14 cpr 10 mg rilascio prolungato (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
+| 027372010 | Prevex 28 cpr 5 mg rilascio prolungato con calendario (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
 
-Sono presenti 12 autorizzazioni in totale, tutte cancellate; nessuna è attualmente valida.
 
 ## Considerazioni sulla sicurezza
 

@@ -50,10 +50,10 @@ Al momento **non risultano studi clinici né pubblicazioni** a supporto di quest
 |------|------|
 | Indicazione originaria | Non disponibile (il testo dell'indicazione nell'autorizzazione AIFA è vuoto) |
 | Nuova indicazione prevista | Insonnia |
-| Punteggio di predizione TxGNN | 99,84% |
+| Punteggio di predizione TxGNN | 0,9984 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ Al momento **non risultano studi clinici né pubblicazioni** a supporto di quest
 
 Nei dati compilati non è registrato il meccanismo d'azione della clotiapina. Di seguito si riporta quindi un'inferenza basata sulla classe e sulla struttura chimica, **non verificata**: la clotiapina è un antipsicotico dibenzotiazepinico, strutturalmente affine alla quetiapina. Farmaci di questo tipo tendono ad antagonizzare i recettori istaminici H1, serotoninergici 5-HT2A e alfa-1 adrenergici. Il blocco di H1 e 5-HT2A è un meccanismo plausibile di sedazione, rilevante per l'insonnia.
 
-Il punteggio TxGNN elevato (0,998) è una previsione computazionale e non sostituisce l'evidenza clinica. La similarità con l'indicazione originaria è ancora da valutare, perché l'indicazione originaria non è documentata nei dati disponibili.
+Il punteggio TxGNN elevato (0,9984) è una previsione computazionale e non sostituisce l'evidenza clinica. La similarità con l'indicazione originaria è ancora da valutare, perché l'indicazione originaria non è documentata nei dati disponibili.
 
 ---
 
@@ -82,7 +82,7 @@ Al momento non è disponibile letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 021553021 | ENTUMIN*orale gtt 10 ml 100 mg/ml (LAB. JUVISE' PHARMACEUTICALS) | Gocce orali (da denominazione del prodotto) | Non disponibile (autorizzazione cancellata) |
+| 021553021 | ENTUMIN*orale gtt 10 ml 100 mg/ml (LAB. JUVISE' PHARMACEUTICALS) | Gocce orali (da denominazione del prodotto) | Non disponibile (autorizzazione valida) |
 
 L'unica autorizzazione presente risulta cancellata: attualmente non c'è alcun prodotto a base di clotiapina con autorizzazione valida in Italia secondo i dati compilati.
 

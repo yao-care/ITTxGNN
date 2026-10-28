@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sapropterin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 399
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (livello di evidenza L4). Indicazione originale: Fenilchetonuria"
 monitor_inn: "sapropterin"
-predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
+predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
 ---
 
 # Sapropterin
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Sapropterin è una forma sintetica della tetraidrobiopterina (BH4), usata origin
 |------|------|
 | Indicazione originale | Fenilchetonuria; disturbo del metabolismo della fenilalanina |
 | Nuova indicazione prevista | Disturbo del metabolismo della tirosina |
-| Punteggio di predizione TxGNN | 99,89% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
+| Punteggio di predizione TxGNN | 0,9989 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -59,8 +59,8 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 Il collegamento, tuttavia, è solo indiretto. Nella PKU la tirosina diventa condizionatamente carente a valle del blocco enzimatico. La BH4 non agisce sugli enzimi difettosi nei principali disturbi primari del metabolismo della tirosina (tirosinemie di tipo I-III), come la fumarilacetoacetato idrolasi, la tirosina aminotransferasi e la 4-idrossifenilpiruvato diossigenasi. La letteratura raccolta riguarda la gestione della PKU e non le tirosinemie primarie.
 
 Altre predizioni nella stessa lista:
-- **Sindrome di Pierre Robin teratogenica** (punteggio 99,87%): non è stato individuato alcun razionale meccanicistico né alcuna evidenza. Il punteggio sembra un artefatto del grafo di conoscenza, forse legato alla teratogenicità della PKU materna.
-- **Iperfenilalaninemia/PKU responsiva alla BH4** (99,82%) e **iperfenilalaninemia da carenza di BH4** (99,10%): sono coerenti dal punto di vista meccanicistico, ma coincidono di fatto con l'indicazione originale o vi sono molto vicine, quindi non sono vero riposizionamento. Nella carenza di BH4 la sola sapropterin non basta: servono anche precursori dei neurotrasmettitori (L-dopa/carbidopa, 5-HTP).
+- **Sindrome di Pierre Robin teratogenica** (punteggio 0,9987): non è stato individuato alcun razionale meccanicistico né alcuna evidenza. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica; forse è legato alla teratogenicità della PKU materna.
+- **Iperfenilalaninemia da carenza di BH4** (0,9910): è coerente dal punto di vista meccanicistico, ma coincide di fatto con l'indicazione originale o vi è molto vicina, quindi non è vero riposizionamento. Nella carenza di BH4 la sola sapropterin non basta: servono anche precursori dei neurotrasmettitori (L-dopa/carbidopa, 5-HTP).
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -87,11 +87,11 @@ La letteratura seguente è stata associata alla predizione principale, ma riguar
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 049972019 | SAPROPTERINA 30 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione cancellata) |
-| 038922011 | KUVAN 30 cpr solub 100 mg (BioMarin) | Compresse solubili | Non disponibile (autorizzazione cancellata) |
-| 049972045 | SAPROPTERINA 30 buste orale polv 500 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione cancellata) |
-| 049972021 | SAPROPTERINA 120 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione cancellata) |
-| 049972033 | SAPROPTERINA 30 buste orale polv 100 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione cancellata) |
+| 049972019 | SAPROPTERINA 30 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione valida) |
+| 038922011 | KUVAN 30 cpr solub 100 mg (BioMarin) | Compresse solubili | Non disponibile (autorizzazione valida) |
+| 049972045 | SAPROPTERINA 30 buste orale polv 500 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione valida) |
+| 049972021 | SAPROPTERINA 120 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione valida) |
+| 049972033 | SAPROPTERINA 30 buste orale polv 100 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione valida) |
 
 Tutte le 8 autorizzazioni risultano cancellate; l'elenco sopra mostra le prime 5. Lo stato di mercato andrebbe verificato presso AIFA.
 

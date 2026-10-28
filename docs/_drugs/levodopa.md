@@ -6,9 +6,9 @@ nav_order: 266
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (livello di evidenza L5). Indicazione originale: Malattia di Parkinson (e sindromi parkinsoniane correlate)"
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
+description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Levodopa
@@ -33,24 +33,24 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Levodopa: dalla malattia di Parkinson all'encefalite subacuta di Rasmussen
+## Levodopa: Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ## Sintesi
 
 La levodopa è un precursore della dopamina, originariamente impiegato nel trattamento della malattia di Parkinson e delle sindromi parkinsoniane correlate.
-Il modello TxGNN ne prevede una possibile efficacia per l'**encefalite subacuta di Rasmussen**, con un punteggio molto alto (**99,06%**).
+Il modello TxGNN ne prevede una possibile efficacia per l'**encefalite subacuta di Rasmussen**, con un punteggio molto alto (**0,9906**).
 Tuttavia, nei dati compilati per questo report non risulta **nessuno studio clinico** né **alcuna pubblicazione** a sostegno di questa indicazione: la previsione si basa unicamente sul modello.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Parkinson (e sindromi parkinsoniane correlate) |
-| Nuova indicazione prevista | Encefalite subacuta di Rasmussen |
-| Punteggio di predizione TxGNN | 99,06% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) |
+| Punteggio di predizione TxGNN | 0.9906 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -60,7 +60,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 L'encefalite di Rasmussen è invece una malattia infiammatoria cerebrale cronica, tipicamente unilaterale e immunomediata (guidata dai linfociti T), che causa crisi focali farmacoresistenti (spesso epilessia parziale continua) e atrofia emisferica progressiva. Un possibile legame è l'esistenza di manifestazioni dei gangli della base o di disturbi del movimento associati ad atrofia cerebrale unilaterale (ad esempio la sindrome emiparkinsonismo-emiatrofia), ma si tratta di un'associazione indiretta nella rete di conoscenza.
 
-Non ci sono prove che la sostituzione dopaminergica agisca sull'infiammazione sottostante o sulle crisi epilettiche. È plausibile che la previsione rifletta la vicinanza nel grafo di conoscenza alle indicazioni parkinsoniane, più che un reale meccanismo terapeutico. Inoltre, gli agenti dopaminergici potrebbero abbassare la soglia convulsiva o peggiorare i sintomi neuropsichiatrici, per cui la sicurezza in questa popolazione non è stabilita.
+Non ci sono prove che la sostituzione dopaminergica agisca sull'infiammazione sottostante o sulle crisi epilettiche. Il punteggio (0.9906) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non un'evidenza biologica né un reale meccanismo terapeutico. Inoltre, gli agenti dopaminergici potrebbero abbassare la soglia convulsiva o peggiorare i sintomi neuropsichiatrici, per cui la sicurezza in questa popolazione non è stabilita.
 
 ## Evidenza da studi clinici
 
@@ -72,7 +72,7 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Le principali (testo dell'indicazione approvata non disponibile):
+Le principali (testo dell'indicazione approvata non disponibile):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
@@ -95,7 +95,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo:
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione poggia solo sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il legame meccanicistico è indiretto, e l'epilessia figura tra le controindicazioni nel grafo di conoscenza, con possibili rischi in una malattia dominata dalle crisi. In Italia, inoltre, nessuna autorizzazione è attualmente valida.
+La previsione poggia solo sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il legame meccanicistico è indiretto, e l'epilessia figura tra le controindicazioni nel grafo di conoscenza, con possibili rischi in una malattia dominata dalle crisi.
 
 **Per procedere sono necessari:**
 - Una revisione sistematica della letteratura su levodopa ed encefalite di Rasmussen (inclusi case report su emiparkinsonismo-emiatrofia)

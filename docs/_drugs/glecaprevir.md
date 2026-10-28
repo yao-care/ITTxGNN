@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 222
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Infezione cronica da virus dell'epatite C (dal grafo di conoscenza"
 monitor_inn: "glecaprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Glecaprevir: dall'epatite C cronica all'infezione da HIV
+## Glecaprevir: Infezione da HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,12 +48,12 @@ Il punteggio elevato sembra riflettere una vicinanza nella rete di conoscenze tr
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite C (dal grafo di conoscenza; il testo dell'indicazione approvata non è presente nei dati AIFA) |
-| Nuova indicazione prevista | Infezione da HIV |
-| Punteggio di predizione TxGNN | 99,87% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
+| Punteggio di predizione TxGNN | 0.9987 |
 | Livello di evidenza | L3 (studi osservazionali e revisioni; nessuno studio testa un effetto anti-HIV) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -109,8 +109,8 @@ Nessuna pubblicazione documenta un'attività di glecaprevir contro l'HIV.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione revocata) |
-| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione revocata) |
+| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
+| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

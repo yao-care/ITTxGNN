@@ -4,17 +4,17 @@ title: Verapamil
 parent: Solo previsione del modello (L5)
 nav_order: 462
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Verapamil: nuova indicazione prevista, Blocco di branca (termine obsoleto) (livello di evidenza L5). Indicazione originale: Ipertensione, fibrillazione atriale, sindrome coronarica acuta…"
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Verapamil: Dall'ipertensione e dalle aritmie al blocco di branca (termine obsoleto)
+## Verapamil: Obsolete bundle branch block
 {: .text-alpha }
 
 ## Sintesi
@@ -45,30 +45,30 @@ Il modello TxGNN predice che possa essere efficace per l'**"obsolete bundle bran
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione, fibrillazione atriale, sindrome coronarica acuta, angina di Prinzmetal, tachicardia ventricolare (dal grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione predetta | Blocco di branca (termine obsoleto) |
-| Punteggio di predizione TxGNN | 99,62% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Obsolete bundle branch block |
+| Punteggio di predizione TxGNN | 0.9962 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 12 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 12) |
+| Numero di autorizzazioni | 12 (valide: 12) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è (poco) ragionevole?
 
 Il verapamil blocca i canali del calcio di tipo L e rallenta la conduzione del nodo atrioventricolare. I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione; quanto segue si basa sulla conoscenza farmacologica generale.
 
-Il blocco di branca è un difetto di conduzione del sistema His-Purkinje. Rallentare la conduzione non dovrebbe aiutare e potrebbe peggiorare una malattia della conduzione. Inoltre il termine di malattia è contrassegnato come obsoleto: il punteggio elevato è con ogni probabilità un artefatto del grafo di conoscenza e non un segnale biologico reale.
+Il blocco di branca è un difetto di conduzione del sistema His-Purkinje. Rallentare la conduzione non dovrebbe aiutare e potrebbe peggiorare una malattia della conduzione. Inoltre il termine di malattia è contrassegnato come obsoleto: il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
 ### Altre indicazioni predette (per contesto)
 
 | Indicazione predetta | Punteggio | Livello | Valutazione sintetica |
 |------|------|------|------|
-| Ipertensione renovascolare maligna | 99,27% | L4 | Link indiretto plausibile (vasodilatazione), ma la patologia dipende dall'asse renina-angiotensina-aldosterone; le due pubblicazioni trovate sono solo tangenziali |
-| Nefropatia ipertensiva maligna | 99,27% | L5 | Solo similarità nel grafo; effetto nefroprotettivo non dimostrato |
-| Ipertensione polmonare a meccanismo multifattoriale incerto | 99,26% | L5 | Utile solo nel piccolo sottogruppo vasoreattivo; preferiti altri calcio-antagonisti; l'inotropismo negativo preoccupa in caso di disfunzione ventricolare destra |
-| Ipertensione polmonare da malattia polmonare/ipossia | 99,26% | L4 | Supporto solo preclinico e indiretto; rischio di peggiorare lo scambio gassioso |
-| Sindrome di Braddock | 99,15% | L5 | Nessun legame meccanicistico dimostrato |
-| Paralisi periodica con sindrome compartimentale transitoria | 99,08% | L5 | Link teorico (canalopatia), nessuna evidenza; possibile effetto dannoso |
+| Ipertensione renovascolare maligna | 0,9927 | L4 | Link indiretto plausibile (vasodilatazione), ma la patologia dipende dall'asse renina-angiotensina-aldosterone; le due pubblicazioni trovate sono solo tangenziali |
+| Nefropatia ipertensiva maligna | 0,9927 | L5 | Solo similarità apprese dal modello TxGNN (deep learning) tra malattie correlate; effetto nefroprotettivo non dimostrato |
+| Ipertensione polmonare a meccanismo multifattoriale incerto | 0,9926 | L5 | Utile solo nel piccolo sottogruppo vasoreattivo; preferiti altri calcio-antagonisti; l'inotropismo negativo preoccupa in caso di disfunzione ventricolare destra |
+| Ipertensione polmonare da malattia polmonare/ipossia | 0,9926 | L4 | Supporto solo preclinico e indiretto; rischio di peggiorare lo scambio gassioso |
+| Sindrome di Braddock | 0,9915 | L5 | Nessun legame meccanicistico dimostrato |
+| Paralisi periodica con sindrome compartimentale transitoria | 0,9908 | L5 | Link teorico (canalopatia), nessuna evidenza; possibile effetto dannoso |
 
 ## Evidenze da studi clinici
 
@@ -84,11 +84,11 @@ Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni vali
 
 | Numero di autorizzazione | Prodotto | Titolare | Stato |
 |------|------|------|------|
-| 034255048 | Verapamil 240 mg, 30 capsule a rilascio prolungato | DOC Generici Srl | Cancellata |
-| 032100036 | Verapamil 240 mg, 30 compresse a rilascio modificato | EG SpA | Cancellata |
-| 020609071 | Isoptin, 5 fiale EV 5 mg/2 ml | Viatris Italia Srl | Cancellata |
-| 032100024 | Verapamil 120 mg, 30 compresse a rilascio modificato | EG SpA | Cancellata |
-| 020609044 | Isoptin 120 mg, 30 compresse a rilascio prolungato | Viatris Italia Srl | Cancellata |
+| 034255048 | Verapamil 240 mg, 30 capsule a rilascio prolungato | DOC Generici Srl | Valida |
+| 032100036 | Verapamil 240 mg, 30 compresse a rilascio modificato | EG SpA | Valida |
+| 020609071 | Isoptin, 5 fiale EV 5 mg/2 ml | Viatris Italia Srl | Valida |
+| 032100024 | Verapamil 120 mg, 30 compresse a rilascio modificato | EG SpA | Valida |
+| 020609044 | Isoptin 120 mg, 30 compresse a rilascio prolungato | Viatris Italia Srl | Valida |
 
 ## Considerazioni sulla sicurezza
 

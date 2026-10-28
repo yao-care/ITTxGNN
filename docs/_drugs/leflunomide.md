@@ -6,9 +6,9 @@ nav_order: 259
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5). Indicazione originale: Artrite reumatoide e artrite psoriasica"
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Leflunomide
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Leflunomide: Dall'artrite reumatoide alla sindrome brachidattilia-sindattilia
+## Leflunomide: Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ ma al momento **non sono presenti studi clinici né pubblicazioni** a supporto: 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Artrite reumatoide e artrite psoriasica |
-| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia |
-| Punteggio di previsione TxGNN | 99,93% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) |
+| Punteggio di previsione TxGNN | 0.9993 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -62,7 +62,7 @@ Il legame con una malformazione congenita degli arti è, allo stato attuale, **s
 
 Il punteggio elevato di TxGNN (0,9993) è l'unico elemento a supporto; da solo non è sufficiente a giustificare un avanzamento.
 
-Una seconda previsione, la **sindrome da microftalmia colobomatosa-displasia rizomelica** (punteggio 99,93%), presenta lo stesso profilo: livello L5, nessuno studio o pubblicazione, rationale puramente speculativo e decisione Hold.
+Una seconda previsione, la **sindrome da microftalmia colobomatosa-displasia rizomelica** (punteggio 0,9993), presenta lo stesso profilo: livello L5, nessuno studio o pubblicazione, rationale puramente speculativo e decisione Hold.
 
 ## Evidenze da studi clinici
 
@@ -78,11 +78,11 @@ Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvat
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 050037098 | Leflunomide 30 cpr rivestite 20 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 034702098 | Arava 3 cpr rivestite 100 mg | Sanofi Aventis Deutschland GmbH | Cancellata |
-| 042083067 | Leflunomide 30 cpr rivestite 20 mg (flacone) | Medac GmbH | Cancellata |
-| 041230107 | Leflunomide 30 cpr rivestite 20 mg | Mylan SpA | Cancellata |
-| 034702074 | Arava 30 cpr rivestite 20 mg (flacone) | Sanofi Aventis Deutschland GmbH | Cancellata |
+| 050037098 | Leflunomide 30 cpr rivestite 20 mg | Aurobindo Pharma Italia Srl | Valida |
+| 034702098 | Arava 3 cpr rivestite 100 mg | Sanofi Aventis Deutschland GmbH | Valida |
+| 042083067 | Leflunomide 30 cpr rivestite 20 mg (flacone) | Medac GmbH | Valida |
+| 041230107 | Leflunomide 30 cpr rivestite 20 mg | Mylan SpA | Valida |
+| 034702074 | Arava 30 cpr rivestite 20 mg (flacone) | Sanofi Aventis Deutschland GmbH | Valida |
 
 ## Considerazioni sulla sicurezza
 
@@ -110,7 +110,6 @@ La previsione si fonda unicamente sul punteggio del modello (livello L5), senza 
 - Acquisire i dati dettagliati sul meccanismo d'azione (ad es. da DrugBank)
 - Condurre studi preclinici o una revisione della letteratura che colleghi DHODH/metabolismo delle pirimidine alla patogenesi della sindrome prevista
 - Valutare in modo approfondito il rischio teratogeno rispetto al contesto di malattia dello sviluppo
-- Chiarire la situazione regolatoria, dato che nessuna autorizzazione è attualmente valida in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

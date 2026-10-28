@@ -6,9 +6,9 @@ nav_order: 302
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Miglustat: nuova indicazione prevista, Malattia di Tay-Sachs (7ª nella classifica delle previsioni (livello di evidenza L5). Indicazione originale: Malattia di Gaucher"
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
+description: "Miglustat: nuova indicazione prevista, Autosomal ichthyosis syndrome with fatal disease course (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Miglustat
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Miglustat: Dalla malattia di Gaucher alla malattia di Tay-Sachs
+## Miglustat: Autosomal ichthyosis syndrome with fatal disease course
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -46,12 +46,12 @@ Il report si concentra su Tay-Sachs (classificata al 7° posto per punteggio TxG
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Gaucher; malattia di Niemann-Pick (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia di Tay-Sachs (7ª nella classifica delle previsioni; la prima in classifica, "ittiosi autosomica con decorso fatale", non ha alcuna evidenza) |
-| Punteggio di previsione TxGNN | 99,75% (per Tay-Sachs); 99,83% per la prima in classifica |
-| Livello di evidenza | L1 formalmente (presenza di studi di fase 3), da leggere con cautela: vedi sotto |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cessate |
-| Numero di autorizzazioni | 6 (tutte cessate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Autosomal ichthyosis syndrome with fatal disease course |
+| Punteggio di previsione TxGNN | 0.9983 |
+| Livello di evidenza | L5 formalmente (presenza di studi di fase 3), da leggere con cautela: vedi sotto |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold (vedi conclusioni) |
 
 ## Perché questa previsione è ragionevole?
@@ -90,13 +90,13 @@ Il legame con le indicazioni originali è la comune natura di malattie lisosomia
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 047623032 | MIGLUSTAT 84 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione cessata) |
-| 047623018 | MIGLUSTAT 84x1 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione cessata) |
-| 045773013 | MIGLUSTAT 84 cps rigide 100 mg (Gen.Orph) | Capsule rigide | Non disponibile (autorizzazione cessata) |
-| 045685029 | MIGLUSTAT 84x1 cps 100 mg (Accord Healthcare) | Capsule | Non disponibile (autorizzazione cessata) |
-| 045318019 | YARGESA 84x1 cps 100 mg (Piramal Critical Care) | Capsule | Non disponibile (autorizzazione cessata) |
+| 047623032 | MIGLUSTAT 84 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione valida) |
+| 047623018 | MIGLUSTAT 84x1 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione valida) |
+| 045773013 | MIGLUSTAT 84 cps rigide 100 mg (Gen.Orph) | Capsule rigide | Non disponibile (autorizzazione valida) |
+| 045685029 | MIGLUSTAT 84x1 cps 100 mg (Accord Healthcare) | Capsule | Non disponibile (autorizzazione valida) |
+| 045318019 | YARGESA 84x1 cps 100 mg (Piramal Critical Care) | Capsule | Non disponibile (autorizzazione valida) |
 
-Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata. Nessuna autorizzazione risulta attualmente valida.
+Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata.
 
 ## Considerazioni di sicurezza
 
@@ -111,22 +111,22 @@ Le restanti nove previsioni non dispongono di studi né di letteratura nei dati 
 
 | Malattia prevista | Punteggio TxGNN | Plausibilità meccanicistica |
 |------|------|------|
-| Ittiosi autosomica con decorso fatale | 99,83% | Speculativa (metabolismo di sfingolipidi/ceramidi epidermici) |
-| Malattia da accumulo di esteri del colesterolo | 99,82% | Debole (carenza di lipasi acida lisosomiale) |
-| Malattia di Krabbe | 99,78% | Teoricamente plausibile (riduzione del substrato) |
-| Leucodistrofia metacromatica | 99,77% | Teoricamente plausibile (riduzione del substrato) |
-| Malattia di Wolman | 99,76% | Debole e indiretta |
-| Encefalopatia da deficit di prosaposina | 99,75% | Concettualmente plausibile |
-| Neoplasia benigna del surrene | 99,74% | Nessun legame identificato; probabile artefatto di rete |
-| Ittiosi recessiva legata all'X | 99,73% | Speculativa |
-| Neurodegenerazione associata all'idrossilasi degli acidi grassi | 99,72% | Speculativa (via degli sfingolipidi) |
+| Ittiosi autosomica con decorso fatale | 0,9983 | Speculativa (metabolismo di sfingolipidi/ceramidi epidermici) |
+| Malattia da accumulo di esteri del colesterolo | 0,9982 | Debole (carenza di lipasi acida lisosomiale) |
+| Malattia di Krabbe | 0,9978 | Teoricamente plausibile (riduzione del substrato) |
+| Leucodistrofia metacromatica | 0,9977 | Teoricamente plausibile (riduzione del substrato) |
+| Malattia di Wolman | 0,9976 | Debole e indiretta |
+| Encefalopatia da deficit di prosaposina | 0,9975 | Concettualmente plausibile |
+| Neoplasia benigna del surrene | 0,9974 | Nessun legame identificato; probabile artefatto di rete |
+| Ittiosi recessiva legata all'X | 0,9973 | Speculativa |
+| Neurodegenerazione associata all'idrossilasi degli acidi grassi | 0,9972 | Speculativa (via degli sfingolipidi) |
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma gli studi sono di piccole dimensioni, orientati a farmacocinetica e sicurezza, in parte terminati, e senza risultati di efficacia confermati nei dati compilati. In pratica l'evidenza è più vicina a una domanda di ricerca che a una prova di efficacia. Inoltre tutte le autorizzazioni italiane sono cessate e mancano i dati di sicurezza dal foglio illustrativo AIFA, un vuoto che blocca lo screening di sicurezza.
+Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma gli studi sono di piccole dimensioni, orientati a farmacocinetica e sicurezza, in parte terminati, e senza risultati di efficacia confermati nei dati compilati. In pratica l'evidenza è più vicina a una domanda di ricerca che a una prova di efficacia.
 
 **Per procedere sono necessari:**
 - Recuperare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni)

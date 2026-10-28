@@ -4,7 +4,7 @@ title: Colchicine
 parent: Solo previsione del modello (L5)
 nav_order: 127
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Colchicine: nuova indicazione prevista, Malaria da Plasmodium falciparum (livello di evidenza L5). Indicazione originale: Gotta, febbre mediterranea familiare (da base di conoscenza TxGNN"
 monitor_inn: "Colchicine"
@@ -14,7 +14,7 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 # Colchicine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ La colchicina è un farmaco originariamente usato per la gotta e per la febbre m
 |------|------|
 | Indicazione originale | Gotta, febbre mediterranea familiare (da base di conoscenza TxGNN; nelle autorizzazioni AIFA il testo dell'indicazione non è riportato) |
 | Nuova indicazione prevista | Malaria da Plasmodium falciparum |
-| Punteggio di previsione TxGNN | 99,60% |
+| Punteggio di previsione TxGNN | 0,9960 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
@@ -61,8 +61,7 @@ Il legame con la malaria è plausibile ma indiretto. Uno studio preclinico sulla
 A ciò si aggiunge l'indice terapeutico ristretto della colchicina, che ne limita l'utilità pratica come antimalarico, data la disponibilità di farmaci efficaci già approvati.
 
 Altre previsioni emerse per il farmaco:
-- **Febbre mediterranea familiare autosomica dominante** (punteggio 99,38%, L4): è sostanzialmente un'estensione di un'indicazione già esistente. La colchicina è la terapia di prima linea per la FMF, ma le prove raccolte sono revisioni, senza studi specifici sul sottotipo dominante.
-- **Dermatofibrosarcoma protuberans** (punteggio 99,37%, L5): nessuno studio o pubblicazione. La malattia è guidata dalla fusione COL1A1-PDGFB e trattata con chirurgia e imatinib; il supporto è solo il punteggio del modello.
+- **Dermatofibrosarcoma protuberans** (punteggio 0,9937, L5): nessuno studio o pubblicazione. La malattia è guidata dalla fusione COL1A1-PDGFB e trattata con chirurgia e imatinib; il supporto è solo il punteggio del modello.
 
 ## Evidenze da studi clinici
 
@@ -81,8 +80,8 @@ Nessuna delle due pubblicazioni testa direttamente la colchicina contro la malar
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 009964038 | COLCHICINA LIRCA*2x30 cpr div 1 mg | Non riportata | Non riportata (autorizzazione cancellata) |
-| 009964040 | COLCHICINA LIRCA*60 cpr 0,5 mg | Non riportata | Non riportata (autorizzazione cancellata) |
+| 009964038 | COLCHICINA LIRCA*2x30 cpr div 1 mg | Non riportata | Non riportata (autorizzazione valida) |
+| 009964040 | COLCHICINA LIRCA*60 cpr 0,5 mg | Non riportata | Non riportata (autorizzazione valida) |
 
 ## Citotossicità
 

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
-description: "Octreotide: nuova indicazione prevista, Cheratosi follicolare invertita vulvare (livello di evidenza L5)."
+description: "Octreotide: nuova indicazione prevista, Vulvar inverted follicular keratosis (livello di evidenza L5)."
 ---
 
 # Octreotide
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Octreotide: Dall'acromegalia alla cheratosi follicolare invertita vulvare
+## Octreotide: Vulvar inverted follicular keratosis
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,20 +46,20 @@ Il modello TxGNN ne prevede una possibile efficacia per la **cheratosi follicola
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Acromegalia, iperpituitarismo, sindrome da carcinoide (da grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione predetta | Cheratosi follicolare invertita vulvare |
-| Punteggio di predizione TxGNN | 99,58% |
+| Nuova indicazione predetta | Vulvar inverted follicular keratosis |
+| Punteggio di predizione TxGNN | 0.9958 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
+| Numero di autorizzazioni | 20 (valide: 20) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
 I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, l'octreotide è un analogo della somatostatina che agisce principalmente sui recettori della somatostatina SSTR2 e SSTR5, e la sua efficacia nelle patologie neuroendocrine e ipersecretive originarie è nota.
 
-Non vi è però alcuna evidenza, nei dati forniti, che questi recettori abbiano un ruolo nella cheratosi follicolare invertita, una lesione epiteliale benigna. Il collegamento meccanicistico non è quindi supportato. Il punteggio TxGNN (0,996) è una predizione derivata dal modello e non è corroborato da studi.
+Non vi è però alcuna evidenza, nei dati forniti, che questi recettori abbiano un ruolo nella cheratosi follicolare invertita, una lesione epiteliale benigna. Il collegamento meccanicistico non è quindi supportato. Il punteggio TxGNN (0,9958) è una predizione derivata dal modello e non è corroborato da studi.
 
-Anche la seconda predizione, la **cheratosi seborroica** (punteggio 99,55%), è una proliferazione epidermica benigna senza evidenze a supporto. I due punteggi sono molto vicini, il che suggerisce che condividano lo stesso segnale basato sul grafo: non vanno considerati come supporti indipendenti.
+Anche la seconda predizione, la **cheratosi seborroica** (punteggio 0,9955), è una proliferazione epidermica benigna senza evidenze a supporto. I due punteggi sono molto vicini: derivano dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche; non vanno considerati come supporti indipendenti.
 
 ## Evidenze da sperimentazioni cliniche
 
@@ -75,11 +75,11 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni appr
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 040014021 | Octreotide, 10 fiale SC/EV 1 ml 0,1 mg/ml | Bioindustria L.I.M. SpA | Cancellata |
-| 040014033 | Octreotide, 10 fiale SC/EV 1 ml 0,5 mg/ml | Bioindustria L.I.M. SpA | Cancellata |
-| 041156011 | Octreotide, 5 fiale EV/SC 0,05 mg 1 ml | Sun Pharmaceutical Ind. Eu. B.V. | Cancellata |
-| 027083094 | Sandostatina LAR, 1 flacone IM 20 mg + siringa 2 ml + ago | Novartis Farma SpA | Cancellata |
-| 039101011 | Siroctid, 5 siringhe 1 ml 50 mcg/ml | Chemi SpA | Cancellata |
+| 040014021 | Octreotide, 10 fiale SC/EV 1 ml 0,1 mg/ml | Bioindustria L.I.M. SpA | Valida |
+| 040014033 | Octreotide, 10 fiale SC/EV 1 ml 0,5 mg/ml | Bioindustria L.I.M. SpA | Valida |
+| 041156011 | Octreotide, 5 fiale EV/SC 0,05 mg 1 ml | Sun Pharmaceutical Ind. Eu. B.V. | Valida |
+| 027083094 | Sandostatina LAR, 1 flacone IM 20 mg + siringa 2 ml + ago | Novartis Farma SpA | Valida |
+| 039101011 | Siroctid, 5 siringhe 1 ml 50 mcg/ml | Chemi SpA | Valida |
 
 ## Considerazioni di sicurezza
 

@@ -6,9 +6,9 @@ nav_order: 224
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Gliquidone: nuova indicazione prevista, Sindrome dell'arto rigido focale (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "GLIQUIDONE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome"]
+description: "Gliquidone: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Gliquidone
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Gliquidone: Dal diabete mellito di tipo 2 alla sindrome dell'arto rigido focale
+## Gliquidone: Sindrome dell'arto rigido focale (focal stiff limb syndrome)
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -44,21 +44,21 @@ Gliquidone è una sulfonilurea utilizzata per il trattamento del diabete mellito
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito di tipo 2 |
-| Nuova indicazione prevista | Sindrome dell'arto rigido focale |
-| Punteggio di predizione TxGNN | 99,00% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome dell'arto rigido focale (focal stiff limb syndrome) |
+| Punteggio di predizione TxGNN | 0.9900 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
 I dati sul meccanismo d'azione originale non sono al momento disponibili. In base alle conoscenze generali, gliquidone appartiene alla classe delle sulfonilurea, che bloccano i canali del potassio ATP-dipendenti (K-ATP) delle beta-cellule pancreatiche; la sua efficacia nel diabete di tipo 2 è nota, ma un'applicabilità meccanicistica alla nuova indicazione non è dimostrata.
 
-La sindrome dell'arto rigido focale è una condizione neuroimmunologica correlata alla sindrome della persona rigida, spesso associata ad autoanticorpi anti-GAD65 e a una ridotta inibizione GABAergica. Un'ipotesi plausibile ma non verificata è che l'associazione nel grafo di conoscenza derivi dalla comune autoimmunità anti-GAD osservata anche nel diabete di tipo 1. Tuttavia gliquidone è indicato nel diabete di tipo 2, quindi questo non costituisce una motivazione meccanicistica diretta. Il legame tra la modulazione dei canali K-ATP e la fisiopatologia della malattia resta speculativo.
+La sindrome dell'arto rigido focale è una condizione neuroimmunologica correlata alla sindrome della persona rigida, spesso associata ad autoanticorpi anti-GAD65 e a una ridotta inibizione GABAergica. Tuttavia gliquidone è indicato nel diabete di tipo 2, quindi questo non costituisce una motivazione meccanicistica diretta. Il legame tra la modulazione dei canali K-ATP e la fisiopatologia della malattia resta speculativo.
 
-La seconda predizione, la **sindrome della persona rigida classica**, ha lo stesso identico punteggio (99,00%). Ciò suggerisce una comune vicinanza nel grafo piuttosto che evidenze indipendenti. I trattamenti consolidati (benzodiazepine, baclofen, immunoglobuline per via endovenosa) hanno un meccanismo diverso.
+La seconda predizione, la **sindrome della persona rigida classica**, ha lo stesso identico punteggio (0,9900). I trattamenti consolidati (benzodiazepine, baclofen, immunoglobuline per via endovenosa) hanno un meccanismo diverso.
 
 ## Evidenze da studi clinici
 
@@ -72,7 +72,7 @@ Al momento non è disponibile letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 024080020 | GLURENOR*40 cpr 30 mg (Laboratori Guidotti SpA) | Non specificata | Non specificata (autorizzazione cancellata) |
+| 024080020 | GLURENOR*40 cpr 30 mg (Laboratori Guidotti SpA) | Non specificata | Non specificata (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

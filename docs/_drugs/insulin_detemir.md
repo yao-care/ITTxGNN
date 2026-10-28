@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 241
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Insulin Detemir: nuova indicazione prevista, Diabete mellito di tipo 1 (livello di evidenza L1). Indicazione originale: Diabete mellito"
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Insulin Detemir
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Insulina detemir: dal diabete mellito al diabete mellito di tipo 1
+## Insulin Detemir: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Sintesi
@@ -44,12 +44,12 @@ L'insulina detemir è un analogo dell'insulina ad azione prolungata (basale), or
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito; chetoacidosi diabetica (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Diabete mellito di tipo 1 |
-| Punteggio di predizione TxGNN | 99,77% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Autoimmune oophoritis |
+| Punteggio di predizione TxGNN | 0.9967 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa previsione è ragionevole?
@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dat
 
 Nel diabete di tipo 1 manca l'insulina endogena. Il farmaco si lega al recettore dell'insulina e la sostituisce, fornendo l'insulina basale in uno schema basale-bolo. Il diabete di tipo 1 rientra quindi nella categoria del diabete mellito già indicata come uso originale. La previsione conferma una terapia esistente.
 
-Tra le altre indicazioni previste, quasi tutte hanno punteggi TxGNN molto alti (oltre 0,99) ma nessuno studio clinico né pubblicazione a supporto, e vanno considerate in attesa ("Hold"). Alcune sono probabili artefatti di associazione: la sindrome della persona rigida condivide l'autoimmunità anti-GAD con il diabete di tipo 1, mentre la lipodistrofia localizzata da farmaci è un effetto avverso noto dell'insulina iniettata. L'agenesia pancreatica è l'unico caso con una logica terapeutica plausibile (sostituzione insulinica), ma senza evidenze dirette nei dati disponibili.
+Alcune sono probabili artefatti di associazione: la sindrome della persona rigida condivide l'autoimmunità anti-GAD con il diabete di tipo 1, mentre la lipodistrofia localizzata da farmaci è un effetto avverso noto dell'insulina iniettata. L'agenesia pancreatica è l'unico caso con una logica terapeutica plausibile (sostituzione insulinica), ma senza evidenze dirette nei dati disponibili.
 
 ## Evidenze degli studi clinici
 
@@ -98,7 +98,7 @@ Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036850055 | LEVEMIR FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Penna preriempita per uso sottocutaneo (stato: revocata) | Testo non disponibile |
+| 036850055 | LEVEMIR FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Penna preriempita per uso sottocutaneo (stato: valida) | Testo non disponibile |
 
 L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia.
 

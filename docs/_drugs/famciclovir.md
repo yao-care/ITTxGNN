@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Famciclovir
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 189
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (livello di evidenza L4). Indicazione originale: Herpes zoster (dal grafo di conoscenza TxGNN"
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+description: "Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (post-infectious neuralgia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Famciclovir
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **9**
 
 </div>
 
-## Famciclovir: dall'herpes zoster alla nevralgia post-infettiva
+## Famciclovir: Nevralgia post-infettiva (post-infectious neuralgia)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per la **nevralgia post-infet
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Herpes zoster (dal grafo di conoscenza TxGNN; i testi autorizzativi AIFA non riportano indicazioni) |
-| Nuova indicazione prevista | Nevralgia post-infettiva |
-| Punteggio di predizione TxGNN | 99,75% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 12 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Nevralgia post-infettiva (post-infectious neuralgia) |
+| Punteggio di predizione TxGNN | 0.9975 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 12) |
+| Numero di autorizzazioni | 12 (valide: 12) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -83,11 +83,11 @@ Attualmente non è disponibile letteratura correlata a questa indicazione previs
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 038106213 | FAMCICLOVIR 21 cpr rivestite 500 mg (Teva Italia) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
-| 038106112 | FAMCICLOVIR 21 cpr rivestite 250 mg (Teva Italia) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
-| 039428026 | COIRGEN 21 cpr rivestite 500 mg (Genetic) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
-| 039431022 | VILACIR 21 cpr rivestite 500 mg (Genetic) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
-| 029172044 | FAMVIR 10 cpr rivestite 125 mg (Phoenix Labs) | Compresse rivestite | Non riportata (autorizzazione cancellata) |
+| 038106213 | FAMCICLOVIR 21 cpr rivestite 500 mg (Teva Italia) | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 038106112 | FAMCICLOVIR 21 cpr rivestite 250 mg (Teva Italia) | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 039428026 | COIRGEN 21 cpr rivestite 500 mg (Genetic) | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 039431022 | VILACIR 21 cpr rivestite 500 mg (Genetic) | Compresse rivestite | Non riportata (autorizzazione valida) |
+| 029172044 | FAMVIR 10 cpr rivestite 125 mg (Phoenix Labs) | Compresse rivestite | Non riportata (autorizzazione valida) |
 
 Sono elencate 5 delle 12 autorizzazioni, tutte cancellate: attualmente non vi è alcun prodotto a base di famciclovir in commercio in Italia.
 

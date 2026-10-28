@@ -6,9 +6,9 @@ nav_order: 198
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (livello di evidenza L5). Indicazione originale: Iperplasia prostatica benigna (dato dal grafo di conoscenza"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
+description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
 ---
 
 # Finasteride
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Finasteride: Dall'iperplasia prostatica benigna all'ipertricosi
+## Finasteride: Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,11 +49,11 @@ Nota: la predizione con rango 1 (sindrome di Ambras) è priva di qualsiasi evide
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperplasia prostatica benigna (dato dal grafo di conoscenza; il testo delle indicazioni autorizzate non è disponibile) |
-| Nuova indicazione prevista (rango 1) | Ipertricosi universale congenita di tipo Ambras |
-| Punteggio di predizione TxGNN | 99,99% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (rango 1) | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
+| Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 (L4 per l'ipertricosi, rango 2) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -63,9 +63,9 @@ Nota: la predizione con rango 1 (sindrome di Ambras) è priva di qualsiasi evide
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze generali, finasteride inibisce la 5-alfa-reduttasi di tipo II e riduce i livelli di diidrotestosterone (DHT). Questo meccanismo è alla base della sua efficacia nell'iperplasia prostatica benigna e nell'alopecia androgenetica.
 
-Per la **sindrome di Ambras** (rango 1) il legame meccanicistico è debole: si tratta di una condizione congenita legata a riarrangiamenti cromosomici che alterano la regolazione di TRPS1, non primariamente guidata dagli androgeni. L'alto punteggio (0,99994) deriva solo dal grafo di conoscenza.
+Per la **sindrome di Ambras** (rango 1) il legame meccanicistico è debole: si tratta di una condizione congenita legata a riarrangiamenti cromosomici che alterano la regolazione di TRPS1, non primariamente guidata dagli androgeni. L'alto punteggio (0,9999) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
-Per l'**ipertricosi** (rango 2) il collegamento è anch'esso limitato. L'ipertricosi riguarda aree non androgeno-dipendenti, mentre finasteride agisce su condizioni androgeno-dipendenti come l'alopecia androgenetica e, in parte, l'irsutismo. L'unico punto di contatto è la sovrapposizione con l'irsutismo. Le altre predizioni (malformazioni odontali/parodontali, sindrome di Dandy-Walker, anomalie genetiche isolate del fusto del capello, tricomegalia familiare isolata) non mostrano un meccanismo plausibile e sembrano artefatti del grafo. Per la sindrome di Dandy-Walker si aggiungono possibili preoccupazioni di sicurezza, poiché gli antiandrogeni influenzano lo sviluppo.
+Per l'**ipertricosi** (rango 2) il collegamento è anch'esso limitato. L'ipertricosi riguarda aree non androgeno-dipendenti, mentre finasteride agisce su condizioni androgeno-dipendenti come l'alopecia androgenetica e, in parte, l'irsutismo. L'unico punto di contatto è la sovrapposizione con l'irsutismo. Le altre predizioni (malformazioni odontali/parodontali, sindrome di Dandy-Walker, anomalie genetiche isolate del fusto del capello, tricomegalia familiare isolata) non mostrano un meccanismo plausibile e i loro punteggi possono riflettere somiglianze apprese dal modello TxGNN (deep learning) tra malattie correlate, non evidenza biologica. Per la sindrome di Dandy-Walker si aggiungono possibili preoccupazioni di sicurezza, poiché gli antiandrogeni influenzano lo sviluppo.
 
 ---
 
@@ -96,11 +96,11 @@ Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il te
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 028308017 | Proscar, 15 cpr rivestite 5 mg | Organon Italia Srl | Cancellata |
-| 038791024 | Finasteride, 15 cpr rivestite 5 mg | Teva Italia Srl | Cancellata |
-| 038413011 | Finestar, 15 cpr rivestite 5 mg | Eberlife Farmaceutici SpA | Cancellata |
-| 038443014 | Stecur, 15 cpr rivestite 5 mg | Genetic SpA | Cancellata |
-| 039681010 | Terip, 15 cpr rivestite 5 mg | Pharmacare Srl | Cancellata |
+| 028308017 | Proscar, 15 cpr rivestite 5 mg | Organon Italia Srl | Valida |
+| 038791024 | Finasteride, 15 cpr rivestite 5 mg | Teva Italia Srl | Valida |
+| 038413011 | Finestar, 15 cpr rivestite 5 mg | Eberlife Farmaceutici SpA | Valida |
+| 038443014 | Stecur, 15 cpr rivestite 5 mg | Genetic SpA | Valida |
+| 039681010 | Terip, 15 cpr rivestite 5 mg | Pharmacare Srl | Valida |
 
 ---
 
@@ -118,7 +118,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Le predizioni hanno punteggi TxGNN molto alti ma si basano solo sul grafo di conoscenza: nessuno studio clinico, letteratura solo di contesto, meccanismo poco plausibile (ipertricosi non androgeno-dipendente). Inoltre non esistono autorizzazioni italiane valide. Per l'ipertricosi (rango 2) può essere considerata al più una domanda di ricerca (L4).
+Le predizioni hanno punteggi TxGNN molto alti, ma derivano dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese tra malattie correlate, non evidenza biologica: nessuno studio clinico, letteratura solo di contesto, meccanismo poco plausibile (ipertricosi non androgeno-dipendente). Il farmaco è commercializzato in Italia, con 20 autorizzazioni valide. Per l'ipertricosi (rango 2) può essere considerata al più una domanda di ricerca (L4).
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank

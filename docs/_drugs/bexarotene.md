@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Bexarotene: dal linfoma cutaneo a cellule T al linfoma cutaneo a cellule B primitivo
+## Bexarotene: Linfoma cutaneo primitivo a cellule B
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -46,17 +46,17 @@ Bexarotene è un retinoide selettivo per i recettori RXR, originariamente utiliz
 |------|------|
 | Indicazione originale | Linfoma cutaneo primitivo a cellule T (non-Hodgkin) |
 | Nuova indicazione prevista | Linfoma cutaneo primitivo a cellule B |
-| Punteggio di predizione TxGNN | 99,44% |
+| Punteggio di predizione TxGNN | 0,9944 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo rapporto. Sulla base delle conoscenze generali, bexarotene è un agonista selettivo dei recettori RXR che modula la crescita cellulare, l'apoptosi e la differenziazione dei linfociti T maligni. La sua efficacia nel CTCL è documentata.
 
-Il passaggio al linfoma a cellule B non è però diretto. Il razionale RXR è stato descritto per le cellule T maligne e i dati disponibili non supportano un meccanismo specifico per le cellule B. Il punteggio TxGNN molto elevato (0,994) riflette una vicinanza nella rete di conoscenza (entrambi sono linfomi cutanei) e non una prova di efficacia. Il legame meccanicistico non è quindi verificabile con i dati attuali.
+Il passaggio al linfoma a cellule B non è però diretto. Il razionale RXR è stato descritto per le cellule T maligne e i dati disponibili non supportano un meccanismo specifico per le cellule B. Il punteggio TxGNN molto elevato (0,9944) riflette una vicinanza nella rete di conoscenza (entrambi sono linfomi cutanei) e non una prova di efficacia. Il legame meccanicistico non è quindi verificabile con i dati attuali.
 
 Le revisioni reperite citano bexarotene tra le opzioni sistemiche per il linfoma cutaneo a cellule T, non per quello a cellule B.
 
@@ -83,8 +83,8 @@ Al momento non risultano studi clinici correlati registrati per questa indicazio
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 035710019 | TARGRETIN 100 capsule molli 75 mg, flacone (H.A.C. Pharma) | Capsule molli | Non riportata (autorizzazione revocata) |
-| 048410017 | BEXAROTENE 100 capsule molli 75 mg, flacone (Cipla Europe NV) | Capsule molli | Non riportata (autorizzazione revocata) |
+| 035710019 | TARGRETIN 100 capsule molli 75 mg, flacone (H.A.C. Pharma) | Capsule molli | Non riportata (autorizzazione valida) |
+| 048410017 | BEXAROTENE 100 capsule molli 75 mg, flacone (Cipla Europe NV) | Capsule molli | Non riportata (autorizzazione valida) |
 
 ## Citotossicità
 
@@ -109,7 +109,7 @@ Per le avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per il linfoma cutaneo a cellule B poggia solo sul punteggio del modello (livello L5): non esistono studi clinici né dati di letteratura specifici, e il meccanismo RXR è documentato per le cellule T, non per le B. Inoltre, tutte le autorizzazioni italiane sono revocate.
+La previsione per il linfoma cutaneo primitivo a cellule B poggia solo sul punteggio del modello (livello L5): non esistono studi clinici né dati di letteratura specifici, e il meccanismo RXR è documentato per le cellule T, non per le B. Inoltre, in Italia il farmaco è in commercio, con 2 autorizzazioni valide su 2.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e prove di un razionale specifico per le cellule B (studi preclinici su linee o campioni di linfoma B cutaneo)
@@ -122,8 +122,8 @@ La previsione per il linfoma cutaneo a cellule B poggia solo sul punteggio del m
 ### Nota su altre predizioni di rango superiore
 
 I dati compilati includono due ulteriori indicazioni previste, non oggetto di questo rapporto:
-- **Sindrome di Sézary** (punteggio 99,29%, livello L1): forma leucemica del CTCL, strettamente affine all'indicazione originale, quindi non un vero riposizionamento. Esiste uno studio di fase 3 (NCT00056056), terminato.
-- **Linfosarcoma** (punteggio 99,12%, livello L3): termine obsoleto e non specifico; le evidenze riguardano quasi esclusivamente il CTCL e la mappatura della malattia è imprecisa.
+- **Sindrome di Sézary** (punteggio 0,9929, livello L1): forma leucemica del CTCL, strettamente affine all'indicazione originale, quindi non un vero riposizionamento. Esiste uno studio di fase 3 (NCT00056056), terminato.
+- **Linfosarcoma** (punteggio 0,9912, livello L3): termine obsoleto e non specifico; le evidenze riguardano quasi esclusivamente il CTCL e la mappatura della malattia è imprecisa.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

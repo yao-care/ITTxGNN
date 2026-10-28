@@ -6,9 +6,9 @@ nav_order: 210
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (livello di evidenza L5)."
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+description: "Fluvoxamine: nuova indicazione prevista, Schizotypal personality disorder (livello di evidenza L5)."
 ---
 
 # Fluvoxamine
@@ -33,23 +33,23 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Fluvoxamina: dal disturbo ossessivo-compulsivo al disturbo schizotipico di personalità
+## Fluvoxamine: Schizotypal personality disorder
 {: .text-alpha }
 
 ## Sintesi
 
-La fluvoxamina è un antidepressivo inibitore selettivo della ricaptazione della serotonina (SSRI), originariamente impiegato per fobia sociale, disturbi fobici e disturbo ossessivo-compulsivo (DOC). Il modello TxGNN prevede che possa essere efficace per il **disturbo schizotipico di personalità** (punteggio 99,997%), ma per questa indicazione non esistono **studi clinici** e le **5 pubblicazioni** reperite sono solo casi clinici o serie di casi su pazienti con DOC, senza una valutazione diretta del farmaco nel disturbo.
+La fluvoxamina è un antidepressivo inibitore selettivo della ricaptazione della serotonina (SSRI), originariamente impiegato per fobia sociale, disturbi fobici e disturbo ossessivo-compulsivo (DOC). Il modello TxGNN prevede che possa essere efficace per il **disturbo schizotipico di personalità** (punteggio 1,0000), ma per questa indicazione non esistono **studi clinici** e le **5 pubblicazioni** reperite sono solo casi clinici o serie di casi su pazienti con DOC, senza una valutazione diretta del farmaco nel disturbo.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Fobia sociale, disturbi fobici, disturbo ossessivo-compulsivo (dal grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Disturbo schizotipico di personalità |
-| Punteggio di predizione TxGNN | 99,997% |
+| Nuova indicazione prevista | Schizotypal personality disorder |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 (solo predizione del modello, nessuno studio diretto; la letteratura disponibile è indiretta) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (entrambe revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 *Nota sul livello di evidenza:* i dati compilati assegnano a questa indicazione il livello L4 per via della letteratura indiretta; secondo le regole di determinazione (nessuno studio sull'indicazione stessa), la valutazione prudente resta tra L4 e L5. Qui si adotta L5.
@@ -78,8 +78,8 @@ Al momento non risultano studi clinici registrati correlati a questa indicazione
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034669059 | FLUVOXAMINA*30 cpr rivestite 50 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
-| 034669174 | FLUVOXAMINA*30 cpr rivestite 100 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 034669059 | FLUVOXAMINA*30 cpr rivestite 50 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034669174 | FLUVOXAMINA*30 cpr rivestite 100 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 
@@ -94,7 +94,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-L'indicazione si basa su un punteggio del modello molto alto ma privo di conferme cliniche: nessuno studio registrato e solo letteratura indiretta (casi clinici e comorbilità). Inoltre tutte le autorizzazioni italiane sono revocate, quindi la disponibilità del prodotto è da verificare.
+L'indicazione si basa su un punteggio del modello molto alto ma privo di conferme cliniche: nessuno studio registrato e solo letteratura indiretta (casi clinici e comorbilità).
 
 **Per procedere sono necessari:**
 - Studi clinici o almeno studi controllati che valutino la fluvoxamina nel disturbo schizotipico di personalità
@@ -109,9 +109,9 @@ L'indicazione si basa su un punteggio del modello molto alto ma privo di conferm
 
 I dati compilati includono altre previsioni, tra cui due con evidenza più consistente:
 
-- **Disturbo d'ansia** (TxGNN 99,974%; livello L1; Proceed with Guardrails): sono completati studi di fase 3 (NCT01933919, NCT00000389, NCT00074815) e meta-analisi a supporto. Il segnale conferma però in gran parte indicazioni già esistenti (DOC, fobia sociale), quindi non è un vero riposizionamento. Attenzione a interazioni CYP1A2/CYP2C19, avvertenze sul rischio suicidario pediatrico e stato di mercato.
-- **Agorafobia** (TxGNN 99,966%; livello L2; Research Question): studi controllati con placebo nel disturbo di panico con agorafobia (PMID 8927663, 7726307), ma datati e di piccole dimensioni; nessuno studio registrato.
-- **Depressione endogena** (TxGNN 99,852%; livello L2; Research Question): studio di fase 2 sulla melanconia (NCT04160377, n=150) con stato sconosciuto e grandi meta-analisi sugli antidepressivi.
+- **Disturbo d'ansia** (TxGNN 0,9997; livello L1; Proceed with Guardrails): sono completati studi di fase 3 (NCT01933919, NCT00000389, NCT00074815) e meta-analisi a supporto. Il segnale conferma però in gran parte indicazioni già esistenti (DOC, fobia sociale), quindi non è un vero riposizionamento. Attenzione a interazioni CYP1A2/CYP2C19, avvertenze sul rischio suicidario pediatrico e stato di mercato.
+- **Agorafobia** (TxGNN 0,9997; livello L2; Research Question): studi controllati con placebo nel disturbo di panico con agorafobia (PMID 8927663, 7726307), ma datati e di piccole dimensioni; nessuno studio registrato.
+- **Depressione endogena** (TxGNN 0,9985; livello L2; Research Question): studio di fase 2 sulla melanconia (NCT04160377, n=150) con stato sconosciuto e grandi meta-analisi sugli antidepressivi.
 - Le restanti previsioni (disturbi istrionico, schizoide, paranoide, dipendente, narcisistico di personalità e torcicollo parossistico benigno dell'infanzia) hanno evidenza solo predittiva o indiretta (L4-L5) e raccomandazione Hold.
 ## Avvertenza
 

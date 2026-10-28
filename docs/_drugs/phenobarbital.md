@@ -4,17 +4,17 @@ title: Phenobarbital
 parent: Solo previsione del modello (L5)
 nav_order: 347
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Phenobarbital: nuova indicazione prevista, Neoplasma del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia (anche con crisi tonico-cloniche generalizzate e parziale)…"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Phenobarbital: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Phenobarbital
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Fenobarbital: dall'epilessia al neoplasma del nervo trigemino
+## Phenobarbital: Neoplasma del nervo trigemino (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Sintesi
 
 Il fenobarbital è un barbiturico utilizzato storicamente come anticonvulsivante, con indicazioni principali per epilessia (inclusa quella con crisi tonico-cloniche generalizzate e parziale), sindrome di Lennox-Gastaut ed emicrania/cefalee.
 Il modello TxGNN lo propone per il **neoplasma del nervo trigemino** (punteggio molto alto), ma per questa indicazione non esistono **studi clinici** e vi è **1 sola pubblicazione**, che riguarda un'altra patologia (sindrome di Sturge-Weber).
-Si tratta quindi di una predizione basata solo sul modello, con evidenza scarsa e verosimilmente dovuta alla vicinanza nel grafo a termini neurologici.
+Si tratta quindi di una predizione basata solo sul modello, con evidenza scarsa: il punteggio deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
 ---
 
@@ -48,12 +48,12 @@ Si tratta quindi di una predizione basata solo sul modello, con evidenza scarsa 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia (anche con crisi tonico-cloniche generalizzate e parziale), sindrome di Lennox-Gastaut, emicrania e cefalee (dati dal grafo di conoscenza; il testo dell'indicazione autorizzata AIFA non è disponibile) |
-| Nuova indicazione predetta | Neoplasma del nervo trigemino |
-| Punteggio di predizione TxGNN | 99,96% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Neoplasma del nervo trigemino (trigeminal nerve neoplasm) |
+| Punteggio di predizione TxGNN | 0.9996 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -86,10 +86,10 @@ Attualmente non risulta registrato alcuno studio clinico correlato.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 004556015 | GARDENALE 20 cpr 100 mg (ATNAHS PHARMA NETHERLANDS BV) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 002860031 | LUMINALE 20 cpr 100 mg (SUBSTIPHARM) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 004556027 | GARDENALE 30 cpr 50 mg (ATNAHS PHARMA NETHERLANDS BV) | Compresse | Non disponibile (autorizzazione cancellata) |
-| 002860043 | LUMINALE 30 cpr 15 mg (SUBSTIPHARM) | Compresse | Non disponibile (autorizzazione cancellata) |
+| 004556015 | GARDENALE 20 cpr 100 mg (ATNAHS PHARMA NETHERLANDS BV) | Compresse | Non disponibile (autorizzazione valida) |
+| 002860031 | LUMINALE 20 cpr 100 mg (SUBSTIPHARM) | Compresse | Non disponibile (autorizzazione valida) |
+| 004556027 | GARDENALE 30 cpr 50 mg (ATNAHS PHARMA NETHERLANDS BV) | Compresse | Non disponibile (autorizzazione valida) |
+| 002860043 | LUMINALE 30 cpr 15 mg (SUBSTIPHARM) | Compresse | Non disponibile (autorizzazione valida) |
 
 ---
 

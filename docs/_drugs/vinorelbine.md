@@ -4,17 +4,17 @@ title: Vinorelbine
 parent: Prove elevate (L1-L2)
 nav_order: 465
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (livello di evidenza L2). Indicazione originale: Carcinoma polmonare non a piccole cellule / tumore del polmone (dal g…"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
+description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Vinorelbine
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **10**
 
 </div>
 
-## Vinorelbina: dal carcinoma polmonare non a piccole cellule al sarcoma di Ewing
+## Vinorelbine: Sarcoma di Ewing (Ewing sarcoma)
 {: .text-alpha }
 
 ## Sintesi
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per il **sarcoma di Ewing**, 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma polmonare non a piccole cellule / tumore del polmone (dal grafo di conoscenza; il testo delle indicazioni approvate AIFA non è disponibile) |
-| Nuova indicazione prevista | Sarcoma di Ewing |
-| Punteggio di predizione TxGNN | 99,999% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sarcoma di Ewing (Ewing sarcoma) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -92,11 +92,11 @@ Il sarcoma di Ewing è un tumore osseo maligno altamente proliferativo, con alti
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 049928017 | Vinorelbina capsule molli 20 mg (Medac) | Capsule molli | Cancellata |
-| 049928031 | Vinorelbina capsule molli 30 mg (Medac) | Capsule molli | Cancellata |
-| 046717017 | Vinorelbina capsule molli 20 mg (DOC Generici) | Capsule molli | Cancellata |
-| 046717031 | Vinorelbina capsule molli 30 mg (DOC Generici) | Capsule molli | Cancellata |
-| 027865106 | Navelbine capsule molli 20 mg (Pierre Fabre) | Capsule molli | Cancellata |
+| 049928017 | Vinorelbina capsule molli 20 mg (Medac) | Capsule molli | Valida |
+| 049928031 | Vinorelbina capsule molli 30 mg (Medac) | Capsule molli | Valida |
+| 046717017 | Vinorelbina capsule molli 20 mg (DOC Generici) | Capsule molli | Valida |
+| 046717031 | Vinorelbina capsule molli 30 mg (DOC Generici) | Capsule molli | Valida |
+| 027865106 | Navelbine capsule molli 20 mg (Pierre Fabre) | Capsule molli | Valida |
 
 Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilati non risultano autorizzazioni attualmente valide né testi di indicazione approvata.
 

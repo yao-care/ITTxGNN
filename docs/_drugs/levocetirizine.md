@@ -6,9 +6,9 @@ nav_order: 265
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Levocetirizine: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Rinite allergica, rinite vasomotoria…"
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+description: "Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Levocetirizine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Levocetirizina: dalla rinite allergica all'artrite reumatoide
+## Levocetirizine: Artrite reumatoide (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**artrite reumatoide**,
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Rinite allergica, rinite vasomotoria, orticaria idiopatica (dal grafo di conoscenza TxGNN; i testi delle autorizzazioni AIFA non riportano indicazioni) |
-| Nuova indicazione prevista | Artrite reumatoide |
-| Punteggio di predizione TxGNN | 99,73% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Artrite reumatoide (rheumatoid arthritis) |
+| Punteggio di predizione TxGNN | 0.9973 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 16 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
+| Numero di autorizzazioni | 16 (valide: 16) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -65,7 +65,7 @@ Un legame plausibile ma **non verificato** è che il blocco dei recettori H1 pos
 
 Questi effetti, tuttavia, non sono riconosciuti come modificanti la malattia nell'artrite reumatoide, che dipende soprattutto dalle vie di TNF, IL-6 e dai linfociti T e B. Il punteggio elevato di TxGNN va quindi interpretato con cautela.
 
-Le altre due previsioni di punteggio elevato (sindrome da microftalmia colobomatosa-displasia rizomelica, punteggio 99,59%; sindrome brachidattilia-sindattilia, punteggio 99,52%) non mostrano alcun legame meccanicistico plausibile: sono malformazioni congenite genetiche su cui un antistaminico sintomatico non può agire. Probabilmente riflettono artefatti della topologia del grafo di conoscenza. Anche per queste non vi sono studi né pubblicazioni.
+Le altre due previsioni di punteggio elevato (sindrome da microftalmia colobomatosa-displasia rizomelica, punteggio 0,9959; sindrome brachidattilia-sindattilia, punteggio 0,9952) non mostrano alcun legame meccanicistico plausibile: sono malformazioni congenite genetiche su cui un antistaminico sintomatico non può agire. I punteggi provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche. Anche per queste non vi sono studi né pubblicazioni.
 
 ---
 
@@ -83,15 +83,15 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 16 autorizzazioni risultano cancellate; nessuna è attualmente valida. Si elencano le prime 5.
+Si elencano le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 051063016 | XYZAL 20 cpr rivestite 5 mg | FARMED Srl | Cancellata |
-| 039439056 | Levocetirizina 20 cpr rivestite 5 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 035666205 | XYZAL gocce orali 20 ml 5 mg/ml | UCB Pharma SpA | Cancellata |
-| 040809042 | Levocetirizina 20 cpr rivestite 5 mg | KRKA d.d. Novo Mesto | Cancellata |
-| 049594029 | XYZAL 20 cpr rivestite 5 mg | Farma 1000 Srl | Cancellata |
+| 051063016 | XYZAL 20 cpr rivestite 5 mg | FARMED Srl | Valida |
+| 039439056 | Levocetirizina 20 cpr rivestite 5 mg | Aurobindo Pharma Italia Srl | Valida |
+| 035666205 | XYZAL gocce orali 20 ml 5 mg/ml | UCB Pharma SpA | Valida |
+| 040809042 | Levocetirizina 20 cpr rivestite 5 mg | KRKA d.d. Novo Mesto | Valida |
+| 049594029 | XYZAL 20 cpr rivestite 5 mg | Farma 1000 Srl | Valida |
 
 ---
 

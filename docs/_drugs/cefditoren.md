@@ -4,17 +4,17 @@ title: Cefditoren
 parent: Solo previsione del modello (L5)
 nav_order: 94
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Cefditoren: nuova indicazione prevista, Suscettibilità all'osteoartrite (seconda previsione: artrite reumatoi… (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il …"
+indication_count: 1
 monitor_inn: "CEFDITOREN"
-predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis"]
+predicted_indications: ["rheumatoid arthritis"]
+last_modified_at: 2026-10-23
+description: "Cefditoren: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione autoriz…"
 ---
 
 # Cefditoren
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,75 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Cefditoren: Dall'infezione batterica all'osteoartrite (suscettibilità)
+## Cefditoren: dall'infezione batterica all'artrite reumatoide
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Cefditoren è un antibiotico cefalosporinico orale di terza generazione. Il modello TxGNN ne prevede una possibile efficacia per la **suscettibilità all'osteoartrite**, ma i dati compilati per questo report non riportano **alcuno studio clinico** né **alcuna pubblicazione** a supporto di tale direzione. La previsione resta puramente computazionale.
+Cefditoren è una cefalosporina orale di terza generazione (somministrata come profarmaco cefditoren pivoxil), autorizzata in Italia come antibatterico. Il modello TxGNN prevede una possibile efficacia nell'**artrite reumatoide**, ma al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione approvata è vuoto in tutte le autorizzazioni) |
-| Nuova indicazione prevista | Suscettibilità all'osteoartrite (seconda previsione: artrite reumatoide) |
-| Punteggio di previsione TxGNN | 99,16% |
+| Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione autorizzata è vuoto in tutte le autorizzazioni) |
+| Nuova indicazione prevista | Artrite reumatoide |
+| Punteggio di previsione TxGNN | 0,9902 |
 | Livello di evidenza | L5 |
-| Stato sul mercato italiano | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Stato sul mercato italiano | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione potrebbe essere ragionevole?
 
-Allo stato attuale i dati sul meccanismo d'azione non sono disponibili. Cefditoren è una cefalosporina orale di terza generazione la cui azione antibatterica deriva dall'inibizione della sintesi della parete cellulare batterica (legame alle proteine leganti la penicillina).
+I dati compilati non riportano il meccanismo d'azione registrato. In base alle conoscenze generali, cefditoren agisce inibendo la sintesi della parete cellulare batterica attraverso il legame con le proteine che legano la penicillina (PBP). È un'azione antibatterica.
 
-I dati compilati non indicano alcun legame meccanicistico tra questo meccanismo e la fisiopatologia dell'osteoartrite (degradazione della cartilagine, infiammazione di basso grado, predisposizione genetica). Anche la dicitura «suscettibilità» suggerisce un fenotipo di associazione genetica più che una condizione clinica trattabile. Il punteggio elevato (0,992) riflette probabilmente la prossimità nel grafo di conoscenza, non una rilevanza biologica dimostrata. Qualsiasi ipotesi, ad esempio un effetto antinfiammatorio o antimicrobico, sarebbe speculativa.
+L'artrite reumatoide è invece una malattia autoimmune, guidata da infiammazione sinoviale con coinvolgimento di TNF, IL-6 e vie dei linfociti T e B. Non esiste un meccanismo consolidato che colleghi l'azione antibatterica di cefditoren a questa fisiopatologia.
 
-Per la seconda previsione, l'artrite reumatoide (punteggio 99,02%), vale lo stesso giudizio: cefditoren è un antibiotico beta-lattamico senza attività immunomodulatoria nota sulle vie rilevanti (TNF, IL-6, JAK, linfociti B/T). Esistono inoltre numerose terapie efficaci già approvate, quindi un riposizionamento richiederebbe un solido razionale preclinico, qui assente.
+Il punteggio elevato (0,9902) proviene dal modello TxGNN (deep learning) e potrebbe riflettere similarità apprese dal modello tra malattie correlate, non un'evidenza biologica. Ipotesi come un effetto indiretto tramite modulazione del microbioma o riacutizzazioni innescate da infezioni sono puramente speculative e non supportate dai dati disponibili. Anche il livello di evidenza è L5 perché nessuno studio citato riguarda direttamente l'artrite reumatoide.
 
-## Evidenza da studi clinici
+## Evidenza dagli studi clinici
 
 Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenza dalla letteratura
 
-Attualmente non è disponibile alcuna letteratura correlata.
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
-|---------|------|------|-----------|
-| 037146040 | GIASION 10 cpr rivestite 400 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
-| 037147028 | REDEGUAN 20 cpr rivestite 200 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
-| 037146026 | GIASION 20 cpr rivestite 200 mg (Zambon Italia Srl) | Compresse rivestite | Cancellata |
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare | Indicazione autorizzata |
+|---------|------|------|------|-----------|
+| 037146040 | GIASION, 10 compresse rivestite da 400 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
+| 037147028 | REDEGUAN, 20 compresse rivestite da 200 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
+| 037146026 | GIASION, 20 compresse rivestite da 200 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
 
-Tutte e tre le autorizzazioni sono state cancellate; nessun prodotto risulta attualmente valido sul mercato italiano.
+Tutte e tre le autorizzazioni sono valide e riguardano il principio attivo singolo.
 
 ## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: sono state identificate 27 interazioni, tutte di livello moderato. Tra le principali, secondo i dati compilati:
-  - **Antiacidi e sali di alluminio/magnesio/calcio/sodio**: idrossido di alluminio, carbonato di calcio, magaldrato, carbonato di magnesio, idrossido di magnesio, ossido di magnesio, citrato di sodio, bicarbonato di sodio.
-  - **Antagonisti dei recettori H2**: famotidina, ranitidina (anche come citrato di bismuto), cimetidina, nizatidina.
-  - **Inibitori di pompa protonica**: omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo.
-  - **Anticoagulanti**: dicumarolo.
+**Interazioni farmacologiche** (27 interazioni registrate; di seguito le principali, tutte di livello moderato):
 
-  Nel complesso, i farmaci che riducono l'acidità gastrica sono il gruppo più rappresentato.
+- **Antiacidi e sali di alluminio, calcio, magnesio e sodio:** idrossido di alluminio, carbonato di calcio, magaldrato, carbonato/idrossido/ossido di magnesio, citrato di sodio, bicarbonato di sodio
+- **Antagonisti dei recettori H2:** famotidina, ranitidina (anche come bismuto citrato), cimetidina, nizatidina
+- **Inibitori di pompa protonica:** omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo
+- **Anticoagulanti:** dicumarolo
 
 Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Hold**
+**Decisione: Hold (sospendere)**
 
 **Motivazione:**
-La previsione si basa solo sul modello TxGNN (livello L5), senza studi clinici, pubblicazioni o legame meccanicistico documentato. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo.
+La previsione per l'artrite reumatoide poggia solo sul punteggio del modello, senza studi clinici, pubblicazioni o un meccanismo plausibile che colleghi un antibiotico a una malattia autoimmune. L'evidenza è di livello L5.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione e un razionale biologico plausibile verso l'osteoartrite o l'artrite reumatoide
-- Evidenze preclinicali o di letteratura a supporto
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
-- Indicazione originale approvata, oggi non disponibile
-- Valutazione della fattibilità regolatoria e commerciale, dato lo stato di autorizzazioni cancellate
+- Dati sul meccanismo d'azione (MOA) e analisi di un'eventuale correlazione biologica con l'artrite reumatoide
+- Testo delle indicazioni autorizzate AIFA, per chiarire l'indicazione originale
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, necessarie per lo screening di sicurezza
+- Studi preclinici o clinici che valutino direttamente cefditoren nell'artrite reumatoide
+- Valutazione della compatibilità delle vie di somministrazione e della similarità con l'indicazione originale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

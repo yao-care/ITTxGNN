@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Posaconazole
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 356
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (livello di evidenza L4). Indicazione originale: Infezioni fungine, tra cui aspergillosi, candidosi (anche orale)…"
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Posaconazole
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Posaconazolo: dalle infezioni fungine invasive alla pneumocistosi
+## Posaconazole: Pneumocistosi (pneumocystosis)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN ne prevede una possibile efficacia nella **pneumocistosi**, ma 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni fungine, tra cui aspergillosi, candidosi (anche orale), istoplasmosi, coccidioidomicosi, fusariosi, sporotricosi, cromomicosi e micetoma (dal grafo di conoscenza TxGNN; il testo autorizzato AIFA non è disponibile) |
-| Nuova indicazione prevista | Pneumocistosi |
-| Punteggio di predizione TxGNN | 99,77% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 11 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Pneumocistosi (pneumocystosis) |
+| Punteggio di predizione TxGNN | 0.9977 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
+| Numero di autorizzazioni | 11 (valide: 11) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -89,13 +89,12 @@ Tuttavia, il collegamento meccanicistico con la pneumocistosi è debole. *Pneumo
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
 |---------|------|------|-----------|
-| 048149025 | Posaconazolo 24 cpr gastroresistenti 100 mg (Accord Healthcare) | Compressa gastroresistente | Non disponibile (autorizzazione cancellata) |
-| 037059021 | Noxafil 24 cpr gastroresistenti 100 mg (MSD) | Compressa gastroresistente | Non disponibile (autorizzazione cancellata) |
-| 046570014 | Posaconazolo sospensione orale 105 ml 40 mg/ml (EG) | Sospensione orale | Non disponibile (autorizzazione cancellata) |
-| 047254053 | Posaconazolo 24 cpr gastroresistenti 100 mg (EG) | Compressa gastroresistente | Non disponibile (autorizzazione cancellata) |
-| 037059019 | Noxafil sospensione orale 105 ml 40 mg/ml (MSD) | Sospensione orale | Non disponibile (autorizzazione cancellata) |
+| 048149025 | Posaconazolo 24 cpr gastroresistenti 100 mg (Accord Healthcare) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
+| 037059021 | Noxafil 24 cpr gastroresistenti 100 mg (MSD) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
+| 046570014 | Posaconazolo sospensione orale 105 ml 40 mg/ml (EG) | Sospensione orale | Non disponibile (autorizzazione valida) |
+| 047254053 | Posaconazolo 24 cpr gastroresistenti 100 mg (EG) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
+| 037059019 | Noxafil sospensione orale 105 ml 40 mg/ml (MSD) | Sospensione orale | Non disponibile (autorizzazione valida) |
 
-Sono elencate le prime 5 delle 11 autorizzazioni; tutte risultano cancellate e nessuna è attualmente valida.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 240
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Insulin Degludec: nuova indicazione prevista, Diabete mellito di tipo 1 (livello di evidenza L1). Indicazione originale: Diabete mellito (il testo dell'indicazione approvata nelle autorizzaz…"
 monitor_inn: "insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
+description: "Insulin Degludec: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **6**
 
 </div>
 
-## Insulina degludec: dal diabete mellito al diabete mellito di tipo 1
+## Insulin Degludec: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,19 +44,19 @@ L'insulina degludec è un'insulina basale ad azione ultra-prolungata, originaria
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito (il testo dell'indicazione approvata nelle autorizzazioni AIFA non è disponibile; l'indicazione deriva dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista | Diabete mellito di tipo 1 |
-| Punteggio di predizione TxGNN | 99,44% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Autoimmune oophoritis |
+| Punteggio di predizione TxGNN | 0.9923 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nei dati compilati. In base alle conoscenze note, l'insulina degludec è un analogo basale ad azione ultra-prolungata che si lega al recettore dell'insulina e abbassa la glicemia. Nel diabete di tipo 1 esiste un deficit assoluto di insulina, quindi la sostituzione con insulina basale è il fondamento terapeutico.
 
-Il diabete mellito di tipo 1 rientra nella categoria generale del diabete mellito, per cui il punteggio elevato (0,994) riflette in larga misura un'indicazione già consolidata. Per questo motivo non si tratta di un riposizionamento in senso stretto.
+Per questo motivo non si tratta di un riposizionamento in senso stretto.
 
 Va inoltre verificato lo stato di mercato (solo autorizzazioni cancellate) prima di trarre conclusioni regolatorie o commerciali.
 
@@ -98,8 +98,8 @@ Il registro include inoltre numerosi studi di fase 1 di farmacodinamica e farmac
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042658029 | TRESIBA FLEXTOUCH SC 5 penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione cancellata) |
-| 043619030 | XULTOPHY 5 penne preriempite SC 3 ml 100 U/ml + 3,6 mg/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione cancellata) |
+| 042658029 | TRESIBA FLEXTOUCH SC 5 penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione valida) |
+| 043619030 | XULTOPHY 5 penne preriempite SC 3 ml 100 U/ml + 3,6 mg/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 
@@ -122,7 +122,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Altre indicazioni previste (evidenza limitata)
 
-Le altre cinque predizioni (oofrite autoimmune, opsismodisplasia, sindrome da disfunzione tiamino-responsiva, sindrome della persona rigida classica e sindrome dell'arto rigido focale) non dispongono di studi clinici né di letteratura. Hanno livello di evidenza L5 e raccomandazione **Hold**: si tratta di predizioni basate solo sul grafo, probabilmente legate ad associazioni autoimmuni/endocrine con il diabete di tipo 1 o alla prossimità con le vie di segnalazione dell'insulina, senza alcun meccanismo terapeutico dimostrato per la degludec.
+Le altre cinque predizioni (oofrite autoimmune, opsismodisplasia, sindrome da disfunzione tiamino-responsiva, sindrome della persona rigida classica e sindrome dell'arto rigido focale) non dispongono di studi clinici né di letteratura.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -8,6 +8,7 @@ nav_order: 162
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ebastina
@@ -51,8 +52,8 @@ Sono necessari dati supplementari prima di procedere con qualsiasi valutazione d
 | Nuova Indicazione Predetta | Nessuna predizione TxGNN disponibile |
 | Score TxGNN | N/A |
 | Livello di Evidenza | **L5** — Predizione modello non disponibile; nessuno studio |
-| Stato di Mercato in Italia | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 0 |
+| Stato di Mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
+| Numero di Autorizzazioni | 10 (valide: 10) |
 | Decisione Raccomandata | **Hold** |
 
 ---

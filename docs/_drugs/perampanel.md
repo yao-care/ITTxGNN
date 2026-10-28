@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Perampanel
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 345
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Perampanel: nuova indicazione prevista, Epilessia visiva (livello di evidenza L4). Indicazione originale: Epilessia parziale"
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Perampanel: Dall'epilessia parziale alla epilessia visiva
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ Perampanel è un antagonista non competitivo dei recettori AMPA, originariamente
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Epilessia parziale; epilessia motoria parziale (dati del grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Epilessia visiva |
-| Punteggio di predizione TxGNN | 99,92% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cessate |
-| Numero di autorizzazioni | 7 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Beta-ketothiolase deficiency |
+| Punteggio di predizione TxGNN | 0.9979 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ---
@@ -70,7 +70,6 @@ Lo stesso ragionamento si applica ad altre epilessie riflesse previste dal model
 
 Per l'epilessia visiva: attualmente nessuno studio clinico correlato registrato.
 
-A titolo di confronto, per l'indicazione predetta con più evidenze, lo **stato epilettico** (punteggio TxGNN 99,77%, livello di evidenza L2):
 
 | Studio | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
@@ -106,11 +105,11 @@ Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano c
 
 | Numero di autorizzazione | Prodotto | Stato |
 |---------|------|-----------|
-| 042581013 | FYCOMPA 7 cpr rivestite 2 mg | Cancellata |
-| 042581037 | FYCOMPA 28 cpr rivestite 4 mg | Cancellata |
-| 042581064 | FYCOMPA 28 cpr rivestite 6 mg | Cancellata |
-| 042581090 | FYCOMPA 28 cpr rivestite 8 mg | Cancellata |
-| 042581126 | FYCOMPA 28 cpr rivestite 10 mg | Cancellata |
+| 042581013 | FYCOMPA 7 cpr rivestite 2 mg | Valida |
+| 042581037 | FYCOMPA 28 cpr rivestite 4 mg | Valida |
+| 042581064 | FYCOMPA 28 cpr rivestite 6 mg | Valida |
+| 042581090 | FYCOMPA 28 cpr rivestite 8 mg | Valida |
+| 042581126 | FYCOMPA 28 cpr rivestite 10 mg | Valida |
 
 (Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)
 
@@ -130,7 +129,7 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-Per l'epilessia visiva la predizione si basa su un punteggio elevato del modello e su un razionale meccanicistico generale, senza studi clinici né letteratura specifica (livello L4). In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.
+In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.
 
 **Per procedere sono necessari:**
 - Recupero dal sito AIFA del foglio illustrativo (avvertenze, controindicazioni, indicazioni approvate) per lo screening di sicurezza

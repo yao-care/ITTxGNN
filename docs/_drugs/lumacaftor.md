@@ -6,9 +6,9 @@ nav_order: 280
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lumacaftor: nuova indicazione prevista, Lebbra (livello di evidenza L5). Indicazione originale: Fibrosi cistica (derivata dal grafo di conoscenza TxGNN"
 monitor_inn: "lumacaftor"
 predicted_indications: ["leprosy"]
+description: "Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lumacaftor
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Lumacaftor: Dalla fibrosi cistica alla lebbra
+## Lumacaftor: Lebbra (leprosy)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede che possa essere efficace per la **lebbra**, ma al mome
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Fibrosi cistica (derivata dal grafo di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
-| Nuova indicazione prevista | Lebbra |
-| Punteggio di previsione TxGNN | 99,44% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Lebbra (leprosy) |
+| Punteggio di previsione TxGNN | 0.9944 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -59,7 +59,7 @@ Lumacaftor è un correttore di CFTR: agisce come chaperone farmacologico, miglio
 
 La lebbra è causata da *Mycobacterium leprae*, un patogeno intracellulare che colonizza macrofagi e cellule di Schwann. Un'ipotesi plausibile, ma **non dimostrata**, è che la modulazione del ripiegamento o del trasporto di proteine dell'ospite possa influenzare la sopravvivenza intracellulare del batterio o la risposta immunitaria. Nessun dato a disposizione sostiene questo collegamento.
 
-Il punteggio elevato (0,994) è una previsione del grafo di conoscenza e potrebbe riflettere la vicinanza in rete a nodi anti-infettivi o legati a CFTR, piuttosto che una vera relazione biologica. La somiglianza tra indicazione originale e nuova indicazione non è stata ancora valutata.
+Il punteggio elevato (0,9944) è una previsione del modello TxGNN (apprendimento profondo) e potrebbe riflettere la vicinanza in rete a nodi anti-infettivi o legati a CFTR, piuttosto che una vera relazione biologica. La somiglianza tra indicazione originale e nuova indicazione non è stata ancora valutata.
 
 ## Evidenze da studi clinici
 
@@ -75,10 +75,10 @@ Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risul
 
 | Numero di autorizzazione | Nome del prodotto | Stato |
 |---------|------|------|
-| 044560047 | ORKAMBI 112 cpr rivestite 100 mg + 125 mg | Cancellata |
-| 044560011 | ORKAMBI 112 cpr rivestite 200 mg + 125 mg | Cancellata |
-| 044560050 | ORKAMBI 56 buste granulato 100 mg + 125 mg | Cancellata |
-| 044560062 | ORKAMBI 56 buste granulato 150 mg + 188 mg | Cancellata |
+| 044560047 | ORKAMBI 112 cpr rivestite 100 mg + 125 mg | Valida |
+| 044560011 | ORKAMBI 112 cpr rivestite 200 mg + 125 mg | Valida |
+| 044560050 | ORKAMBI 56 buste granulato 100 mg + 125 mg | Valida |
+| 044560062 | ORKAMBI 56 buste granulato 150 mg + 188 mg | Valida |
 
 ## Considerazioni sulla sicurezza
 

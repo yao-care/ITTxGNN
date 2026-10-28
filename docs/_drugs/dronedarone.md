@@ -4,17 +4,17 @@ title: Dronedarone
 parent: Prove moderate (L3-L4)
 nav_order: 156
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Dronedarone: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (testo dell'indicazione AIFA non disponibile ne…"
 monitor_inn: "DRONEDARONE"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
+predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 ---
 
 # Dronedarone
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ Il modello TxGNN ne prevede una possibile utilità nell'**ictus** (stroke disord
 |------|------|
 | Indicazione originale | Fibrillazione atriale (testo dell'indicazione AIFA non disponibile nelle autorizzazioni) |
 | Nuova indicazione prevista | Ictus (stroke disorder) |
-| Punteggio di predizione TxGNN | 99,97% |
+| Punteggio di predizione TxGNN | 0,9997 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
 
 I dati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il dronedarone è un antiaritmico multicanale (blocco di canali del sodio, del potassio e del calcio), analogo non iodato dell'amiodarone. La sua efficacia nella fibrillazione atriale è documentata e, sul piano meccanicistico, potrebbe essere rilevante per la prevenzione dell'ictus cardioembolico.
 
-La fibrillazione atriale è una delle principali cause di ictus cardioembolico. Un eventuale beneficio sull'ictus sarebbe quindi probabilmente **indiretto**, mediato dal controllo del ritmo e della frequenza, e non dovuto a un'azione neuroprotettiva diretta. Il punteggio TxGNN molto alto (0,9997) è una predizione basata su grafo che riflette verosimilmente l'associazione fibrillazione atriale–ictus, per cui non costituisce da solo un supporto indipendente al riposizionamento.
+La fibrillazione atriale è una delle principali cause di ictus cardioembolico. Un eventuale beneficio sull'ictus sarebbe quindi probabilmente **indiretto**, mediato dal controllo del ritmo e della frequenza, e non dovuto a un'azione neuroprotettiva diretta. Il punteggio molto alto (0,9997) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, come fibrillazione atriale e ictus, non evidenza biologica: per questo non costituisce da solo un supporto indipendente al riposizionamento.
 
 Alcuni elementi vanno nella direzione di un possibile effetto: analisi post hoc dello studio ATHENA hanno suggerito una riduzione dell'ictus nella fibrillazione atriale parossistica o persistente, e uno studio ha descritto effetti anticoagulanti e antiaggreganti indipendenti dall'azione antiaritmica. Un lavoro preclinico descrive inoltre effetti pleiotropici sul danno da ischemia/riperfusione di cuore e cervello. Questi dati restano però secondari, retrospettivi o preclinici.
 
@@ -88,15 +88,15 @@ Per l'indicazione di rango 4 (disturbo cerebrovascolare) sono disponibili ulteri
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 048278030 | Dronedarone 60 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 039589039 | Multaq 60 cpr rivestite 400 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 046652044 | Dronedarone 60 cpr rivestite 400 mg (Aristo Pharma) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048278030 | Dronedarone 60 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 039589039 | Multaq 60 cpr rivestite 400 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 046652044 | Dronedarone 60 cpr rivestite 400 mg (Aristo Pharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni emerse dal grafo di conoscenza (non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, carenza di potassio, blocco atrioventricolare, malattia del nodo del seno (anche familiare).
+- **Controindicazioni riportate in letteratura/banche dati (non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, carenza di potassio, blocco atrioventricolare, malattia del nodo del seno (anche familiare).
 - **Segnali dalla letteratura**: negli studi PALLAS e ANDROMEDA sono stati osservati più eventi cardiovascolari nella fibrillazione atriale permanente e nello scompenso cardiaco scompensato o grave, il che limita un eventuale uso nella prevenzione dell'ictus. Il dronedarone può inoltre causare bradicardia e rallentamento della conduzione.
 - **Interazioni farmacologiche**: sono state rilevate 100 interazioni; tra quelle di gravità **maggiore** figurano idrocortisone, amfotericina B (incluse le formulazioni lipidica, colesterilsolfato e liposomiale), loperamide, claritromicina, acido picosolfurico, polietilenglicole 3350 con elettroliti e dolasetron. Tra quelle di gravità **moderata**: famotidina, alvimopan, aprepitant, desametasone, bisacodile, budesonide (anche nasale), cimetidina, saxagliptin e olio di ricino. Va inoltre considerata l'interazione con gli anticoagulanti orali diretti (aumento dell'esposizione per inibizione della P-gp).
 

@@ -46,21 +46,21 @@ Tezacaftor è un correttore della proteina CFTR, originariamente utilizzato per 
 |------|------|
 | Indicazione originale | Fibrosi cistica |
 | Nuova indicazione prevista | Infezione da HIV |
-| Punteggio di predizione TxGNN | 99,24% |
+| Punteggio di predizione TxGNN | 0,9924 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
 Per questo farmaco non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Sulla base delle conoscenze generali, tezacaftor agisce come correttore di CFTR, migliorando il ripiegamento e il trasporto della proteina alla membrana cellulare. Viene utilizzato in associazione con altri modulatori di CFTR (ivacaftor, elexacaftor) nella fibrosi cistica.
 
-Nei dati disponibili non è stato identificato alcun legame meccanicistico tra la correzione di CFTR e la patogenesi o il trattamento dell'HIV. Il punteggio TxGNN (0,992) è solo una previsione del modello e qualsiasi collegamento biologico resta, allo stato attuale, speculativo.
+Nei dati disponibili non è stato identificato alcun legame meccanicistico tra la correzione di CFTR e la patogenesi o il trattamento dell'HIV. Il punteggio TxGNN (0,9924) è solo una previsione del modello e qualsiasi collegamento biologico resta, allo stato attuale, speculativo.
 
 Il modello ha prodotto anche altre previsioni, anch'esse prive di evidenze di supporto:
-- **Lebbra** (punteggio 99,14%)
-- **Neoplasia endocrina multipla** (punteggio 99,06%)
+- **Lebbra** (punteggio 0,9914)
+- **Neoplasia endocrina multipla** (punteggio 0,9906)
 
 ## Evidenze da studi clinici
 

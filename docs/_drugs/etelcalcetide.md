@@ -48,10 +48,10 @@ Etelcalcetide è un calcimimetico per via endovenosa, originariamente impiegato 
 |------|------|
 | Indicazione originale | Iperparatiroidismo (testo di indicazione autorizzata non disponibile nei dati AIFA) |
 | Nuova indicazione prevista | Iperfosfatemia |
-| Punteggio di predizione TxGNN | 99,42% |
+| Punteggio di predizione TxGNN | 0,9942 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -89,9 +89,9 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 045182108 | PARSABIV 6 flaconcini soluz. iniett. 10 mg/2 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione cancellata) |
-| 045182060 | PARSABIV 6 flaconcini soluz. iniett. 5 mg/1 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione cancellata) |
-| 045182021 | PARSABIV 6 flaconcini soluz. iniett. 2,5 mg/0,5 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione cancellata) |
+| 045182108 | PARSABIV 6 flaconcini soluz. iniett. 10 mg/2 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
+| 045182060 | PARSABIV 6 flaconcini soluz. iniett. 5 mg/1 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
+| 045182021 | PARSABIV 6 flaconcini soluz. iniett. 2,5 mg/0,5 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
 
 ---
 

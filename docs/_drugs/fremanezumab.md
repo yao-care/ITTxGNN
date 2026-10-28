@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fremanezumab
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 215
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Fremanezumab: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L4). Indicazione originale: Emicrania (disturbo emicranico"
 monitor_inn: "FREMANEZUMAB"
 predicted_indications: ["atrophoderma vermiculata"]
+description: "Fremanezumab: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fremanezumab
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **2**
 
 </div>
 
-## Fremanezumab: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Fremanezumab: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -48,12 +48,12 @@ A sostegno di questa direzione non risultano **studi clinici registrati**, ma so
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (disturbo emicranico; emicrania con o senza aura). Il testo dell'indicazione approvata dall'AIFA non è disponibile nei dati compilati. |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di predizione TxGNN | 99,94% |
-| Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di predizione TxGNN | 0.9904 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (domanda di ricerca) |
 
 ---
@@ -97,8 +97,8 @@ Sono elencate le pubblicazioni più rilevanti, con priorità agli studi clinici 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 047791013 | AJOVY*1 siringa preriempita SC 1,5 ml 225 mg (TEVA GmbH) | Siringa preriempita per uso sottocutaneo | Non disponibile (autorizzazione cancellata) |
-| 047791025 | AJOVY*3 siringhe preriempite SC 1,5 ml 225 mg (TEVA GmbH) | Siringa preriempita per uso sottocutaneo | Non disponibile (autorizzazione cancellata) |
+| 047791013 | AJOVY*1 siringa preriempita SC 1,5 ml 225 mg (TEVA GmbH) | Siringa preriempita per uso sottocutaneo | Non disponibile (autorizzazione valida) |
+| 047791025 | AJOVY*3 siringhe preriempite SC 1,5 ml 225 mg (TEVA GmbH) | Siringa preriempita per uso sottocutaneo | Non disponibile (autorizzazione valida) |
 
 ---
 
@@ -129,7 +129,7 @@ Segnali di sicurezza dalla letteratura, da valutare con cautela:
 
 ---
 
-**Nota sulla seconda predizione:** per «atrofodermia vermicolata» (punteggio TxGNN 99,04%) non esistono studi clinici né letteratura, e non è documentato alcun meccanismo plausibile mediato dal CGRP. La predizione è probabilmente un artefatto del grafo di conoscenza (livello L5, decisione: Hold) e non è approfondita in questo report.
+**Nota sulla seconda predizione:** per «atrofodermia vermicolata» (punteggio TxGNN 0,9904) non esistono studi clinici né letteratura, e non è documentato alcun meccanismo plausibile mediato dal CGRP.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

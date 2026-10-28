@@ -4,17 +4,17 @@ title: Bisoprolol
 parent: Solo previsione del modello (L5)
 nav_order: 73
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L5). Indicazione originale: Disturbo ipertensivo / ipertensione"
+indication_count: 4
 monitor_inn: "bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Bisoprolol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,85 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Bisoprololo: dall'ipertensione alla malattia renale ipertensiva maligna
+## Bisoprololo: betabloccante beta-1 selettivo → malattia renale ipertensiva maligna (malignant hypertensive renal disease)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il bisoprololo è un beta-bloccante beta-1 selettivo, utilizzato originariamente per il trattamento dell'ipertensione.
-Il modello TxGNN prevede che possa essere efficace per la **malattia renale ipertensiva maligna**,
-ma per questa indicazione **non risultano né studi clinici né pubblicazioni**: la previsione si basa esclusivamente sul modello.
+Il bisoprololo è un betabloccante selettivo per i recettori beta-1, utilizzato in ambito cardiovascolare. Il modello TxGNN prevede un possibile effetto nella **malattia renale ipertensiva maligna (malignant hypertensive renal disease)**. Per questa direzione non risultano però **né studi clinici né pubblicazioni** nei dati compilati per questo report: la previsione si basa unicamente sul modello.
 
-## Panoramica rapida
+---
+
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo ipertensivo / ipertensione (derivata dal knowledge graph TxGNN; i testi autorizzativi AIFA non riportano l'indicazione) |
-| Nuova indicazione prevista | Malattia renale ipertensiva maligna |
-| Punteggio di predizione TxGNN | 99,94% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
+| Punteggio di previsione TxGNN | 0,9994 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate (nessuna autorizzazione valida) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Numero di autorizzazioni | almeno 20 |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa previsione è plausibile?
+---
 
-I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, il bisoprololo è un beta-1 bloccante selettivo, la cui efficacia nell'ipertensione è consolidata. Dal punto di vista meccanicistico, potrebbe essere applicabile a una complicanza ipertensiva grave.
+## Perché questa previsione può essere ragionevole?
 
-La malattia renale ipertensiva maligna è una complicanza severa a carico degli organi bersaglio dell'ipertensione. Il collegamento ipotizzato passa attraverso la riduzione della pressione arteriosa e la riduzione dell'attività simpatica e del sistema renina-angiotensina (il blocco beta-1 riduce il rilascio di renina). Si tratta tuttavia di un razionale teorico.
+I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il bisoprololo è un betabloccante beta-1 selettivo; il suo effetto di riduzione della pressione arteriosa è consolidato, e meccanicamente potrebbe essere applicabile a una complicanza d'organo dell'ipertensione.
 
-Il punteggio elevato (0,999) riflette probabilmente la vicinanza, nel grafo, all'indicazione ipertensiva già esistente, e non costituisce una prova di efficacia. L'ipertensione maligna è un'emergenza ipertensiva, di norma gestita con farmaci per via endovenosa: il bisoprololo orale non è un'opzione standard. La seconda previsione (ipertensione nefrovascolare maligna) ha lo stesso punteggio, il che suggerisce un "vicinato" comune nel grafo piuttosto che evidenze indipendenti.
+La malattia renale ipertensiva maligna è una grave complicanza a carico del rene dovuta a ipertensione severa. Un legame plausibile passa attraverso la riduzione della pressione arteriosa e la minore attivazione simpatica e del sistema renina-angiotensina.
 
-## Altre indicazioni previste (per contesto)
+Vi sono però limiti importanti. L'ipertensione maligna è un'emergenza ipertensiva, trattata di norma con farmaci per via endovenosa; il bisoprololo orale non è un'opzione standard. Il punteggio elevato è una previsione del modello e probabilmente riflette la vicinanza all'ipertensione, non una prova di efficacia.
 
-| Indicazione prevista | Punteggio TxGNN | Evidenza | Nota |
-|------|------|------|------|
-| Ipertensione nefrovascolare maligna | 99,94% | L5 | Razionale teorico (riduzione della renina), nessun dato clinico |
-| Ipertensione polmonare da malattia polmonare e/o ipossia | 99,93% | L4 | Solo letteratura indiretta; possibile rischio per la funzione ventricolare destra |
-| Ipertensione polmonare con meccanismo multifattoriale non chiaro | 99,93% | L5 | Nessun dato; il blocco beta potrebbe essere dannoso |
-| Sindrome di Braddock | 99,91% | L5 | Nessun legame meccanicistico identificabile |
+---
 
-## Evidenza dagli studi clinici
+## Evidenze da studi clinici
 
-Attualmente non risultano studi clinici registrati correlati.
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenza dalla letteratura
+---
 
-Per la nuova indicazione principale (malattia renale ipertensiva maligna) attualmente non è disponibile alcuna letteratura correlata.
+## Evidenze dalla letteratura
+
+Attualmente non è disponibile letteratura correlata per questa indicazione.
+
+---
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Esempi delle principali autorizzazioni:
-
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044048015 | CONGESCOR 28 cpr rivestite 2,5 mg | GEKOFAR Srl | Cancellata |
-| 034954420 | CARDICOR 28 cpr rivestite 10 mg | RECORDATI SpA | Cancellata |
-| 034953416 | CONGESCOR 28 cpr rivestite 10 mg | MERCK SERONO SpA | Cancellata |
-| 034952263 | SEQUACOR 28 cpr rivestite 5 mg | DOMPÉ FARMACEUTICI SpA | Cancellata |
-| 037130174 | BISOPROLOLO 28 cpr rivestite 10 mg | EG SpA | Cancellata |
+| 044048015 | CONGESCOR*28 cpr rivestite 2,5 mg | – | Non registrata |
+| 037130174 | BISOPROLOLO*28 cpr rivestite 10 mg | – | Non registrata |
+| 048314304 | BISOPROLOLO*28 cpr 3,75 mg | – | Non registrata |
+| 039829066 | CONGESCOR*28 cpr rivestite 2,5 mg | – | Non registrata |
+| 034954420 | CARDICOR*28 cpr rivestite 10 mg | – | Non registrata |
+
+L'elenco delle autorizzazioni è parziale: sono riportate solo le prime cinque.
+
+---
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni suggerite dal knowledge graph** (archi farmaco-malattia di TxGNN, non testo del foglio illustrativo): asma (anche intrinseca e allergica), diabete mellito e chetoacidosi diabetica, malattie epatiche (incluse encefalopatia e coma epatico), malattia renale, anuria, pancreatite, malattie della colecisti, lupus eritematoso sistemico, psoriasi, gotta e iperuricemia, miastenia grave, disturbi d'ansia e nevrotici, distimia, ipercalcemia, iperparatiroidismo, carenza di potassio, disturbi del metabolismo del fosforo e ittero neonatale.
-- **Interazioni farmacologiche**: sono state identificate 228 interazioni. Tra quelle riportate, di livello moderato: epinefrina, idrocortisone, desametasone, betametasone, budesonide, triamcinolone, bupropione, morfina, atropina, ioscimamina, metscopolamina, acetoesamide e vari sali di calcio. Di livello minore: acido acetilsalicilico, idrossido di alluminio e attapulgite.
-- **Considerazioni specifiche per le nuove indicazioni**: nell'ipertensione polmonare la funzione del ventricolo destro dipende da frequenza cardiaca e contrattilità, e nelle malattie polmonari con broncospasmo i beta-bloccanti comportano rischi. La selettività beta-1 del bisoprololo riduce ma non elimina tale rischio.
+- **Interazioni farmacologiche**: sono state individuate 228 interazioni. Tra quelle di livello moderato figurano epinefrina, idrocortisone, bupropione, morfina, atropina, desametasone, betametasone, budesonide, triamcinolone e diversi sali di calcio. Tra quelle minori: acido acetilsalicilico, idrossido di alluminio e attapulgite.
 
-Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
-## Conclusione e prossimi passi
+---
+
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per la malattia renale ipertensiva maligna non esistono studi clinici né letteratura (livello L5): il punteggio elevato è solo una previsione del modello. Inoltre l'ipertensione maligna è un'emergenza trattata di norma con farmaci endovenosi, e in Italia non esiste attualmente alcuna autorizzazione valida per il bisoprololo.
+Non esistono studi clinici né pubblicazioni sulla malattia renale ipertensiva maligna; il livello di evidenza è L5 e il punteggio del modello da solo non basta. Inoltre, nell'emergenza ipertensiva si usano di norma farmaci endovenosi.
 
-**Per procedere è necessario:**
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
-- Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank)
-- Verificare le ragioni della cancellazione delle autorizzazioni e la disponibilità effettiva del farmaco sul mercato italiano
-- Condurre una revisione sistematica della letteratura sull'uso dei beta-bloccanti nell'ipertensione maligna e nefrovascolare
-- Valutare preliminarmente la sicurezza, in particolare per le ipotesi riguardanti l'ipertensione polmonare
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione del bisoprololo
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Studi preclinici o clinici sulla malattia renale ipertensiva maligna
+- Una valutazione di sicurezza specifica per questa condizione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

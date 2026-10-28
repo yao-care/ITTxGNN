@@ -6,9 +6,9 @@ nav_order: 391
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (livello di evidenza L5). Indicazione originale: Anemia refrattaria (dal grafo di conoscenza TxGNN"
 monitor_inn: "ROXADUSTAT"
 predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
+description: "Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (dry eye syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Roxadustat
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Roxadustat: Dall'anemia refrattaria alla sindrome dell'occhio secco
+## Roxadustat: Sindrome dell'occhio secco (dry eye syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,12 +44,12 @@ Roxadustat è un inibitore della prolil-idrossilasi del fattore inducibile dall'
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Anemia refrattaria (dal grafo di conoscenza TxGNN; il testo dell'indicazione nelle autorizzazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Sindrome dell'occhio secco |
-| Punteggio di predizione TxGNN | 99,51% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome dell'occhio secco (dry eye syndrome) |
+| Punteggio di predizione TxGNN | 0.9951 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 5 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe essere ragionevole?
@@ -58,7 +58,7 @@ Roxadustat stabilizza i fattori HIF-1α e HIF-2α inibendo le prolil-idrossilasi
 
 Il legame con l'occhio secco è **speculativo**. L'attivazione di HIF potrebbe in teoria influire su infiammazione della superficie oculare, riparazione epiteliale e angiogenesi. Tuttavia, la stessa segnalazione pro-angiogenica e pro-infiammatoria potrebbe risultare dannosa per la superficie oculare. Anemia refrattaria e occhio secco sono inoltre condizioni molto distanti, e la similarità con l'indicazione originale non è stata valutata.
 
-Il punteggio elevato (0,995, posizione 2841 nella classifica del modello) è quindi da interpretare come un'associazione di rete, non come prova di beneficio.
+Il punteggio elevato (0,9951, posizione 2841 nella classifica del modello) è quindi da interpretare come un'associazione di rete, non come prova di beneficio.
 
 ## Evidenze da studi clinici
 
@@ -91,9 +91,9 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
 | Posizione | Malattia prevista | Punteggio | Evidenze | Commento |
 |------|------|------|------|------|
-| 2 | Malattia ossea di Paget | 99,12% | Nessuna | HIF influenza il rimodellamento osseo, ma la direzione dell'effetto è incerta e la terapia con bisfosfonati è già efficace |
-| 3 | Dentinogenesi imperfetta | 99,06% | Nessuna | Malattia genetica (tipicamente DSPP) senza un percorso meccanicistico plausibile |
-| 4 | Carcinoma squamocellulare | 99,02% | Nessuna | Rischio teorico di promozione tumorale; richiede prima una valutazione di sicurezza |
+| 2 | Malattia ossea di Paget | 0,9912 | Nessuna | HIF influenza il rimodellamento osseo, ma la direzione dell'effetto è incerta e la terapia con bisfosfonati è già efficace |
+| 3 | Dentinogenesi imperfetta | 0,9906 | Nessuna | Malattia genetica (tipicamente DSPP) senza un percorso meccanicistico plausibile |
+| 4 | Carcinoma squamocellulare | 0,9902 | Nessuna | Rischio teorico di promozione tumorale; richiede prima una valutazione di sicurezza |
 
 ## Conclusione e prossimi passi
 

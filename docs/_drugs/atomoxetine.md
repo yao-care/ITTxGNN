@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atomoxetine
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 56
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (livello di evidenza L5). Indicazione originale: ADHD (disturbo da deficit di attenzione e iperattività)"
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
+description: "Atomoxetine: nuova indicazione prevista, Specific developmental disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Atomoxetine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Atomoxetina: dall'ADHD alla Sindrome di Tourette (disturbo specifico dello sviluppo come primo risultato del modello)
+## Atomoxetine: Specific developmental disorder
 {: .text-alpha }
 
 ## Sintesi
@@ -44,12 +44,12 @@ L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | ADHD (disturbo da deficit di attenzione e iperattività); il testo delle indicazioni nelle autorizzazioni AIFA non è disponibile |
-| Nuova indicazione prevista (rank 1) | Disturbo specifico dello sviluppo |
-| Punteggio TxGNN | 99,998% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista (rank 1) | Specific developmental disorder |
+| Punteggio TxGNN | 1.0000 |
 | Livello di evidenza | L3 (L5 per le sole previsioni senza studi) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
 | Decisione raccomandata | Hold per il rank 1 (domanda di ricerca); Proceed with Guardrails per la sindrome di Tourette (solo ADHD con tic) |
 
 ## Perché questa previsione è ragionevole?
@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla 
 
 I disturbi specifici dello sviluppo (ad esempio dell'apprendimento) si associano spesso all'ADHD. La modulazione noradrenergica delle reti attentive prefrontali potrebbe migliorare i sintomi attentivi. Va però sottolineato che le evidenze riguardano i sintomi ADHD in popolazioni con comorbidità (ad esempio autismo, difficoltà di apprendimento), non i deficit di apprendimento centrali del disturbo.
 
-Tra le altre previsioni, la **sindrome di Tourette** e il **disturbo da tic transitorio** hanno la base più plausibile: l'atomoxetina è un'opzione non stimolante per l'ADHD con tic, e studi controllati e revisioni suggeriscono un miglioramento dei sintomi ADHD senza peggioramento dei tic. L'effetto riguarda l'ADHD in comorbidità, non i tic in sé. Per sindrome facio-digito-genitale, fibroma condromixoide, atassia cerebellare e atassia cerebellare autosomica dominante non esistono studi né un legame meccanicistico credibile: il punteggio è con ogni probabilità un artefatto del grafo.
+Tra le altre previsioni, la **sindrome di Tourette** e il **disturbo da tic transitorio** hanno la base più plausibile: l'atomoxetina è un'opzione non stimolante per l'ADHD con tic, e studi controllati e revisioni suggeriscono un miglioramento dei sintomi ADHD senza peggioramento dei tic. L'effetto riguarda l'ADHD in comorbidità, non i tic in sé.
 
 ## Evidenze dagli studi clinici
 
@@ -94,11 +94,11 @@ Nota di cautela: sono presenti anche segnalazioni di casi di tic esacerbati o in
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione cancellata) |
-| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione cancellata) |
-| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione cancellata) |
-| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione cancellata) |
-| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione cancellata) |
+| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
+| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
+| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
+| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
+| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
 
 Titolare: Eli Lilly Italia SpA. Tutte e 5 le autorizzazioni risultano cancellate.
 

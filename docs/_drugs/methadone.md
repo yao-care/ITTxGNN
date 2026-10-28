@@ -46,10 +46,10 @@ Il metadone è un oppioide sintetico agonista dei recettori mu, noto per l'uso n
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Sindrome di Tourette |
-| Punteggio di predizione TxGNN | 99,76% |
+| Punteggio di predizione TxGNN | 0,9976 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
@@ -77,17 +77,17 @@ Attualmente non risulta alcuno studio clinico correlato registrato.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029610223 | Metadone cloridrato soluzione orale 60 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 029610045 | Metadone cloridrato soluzione orale 100 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 029610033 | Metadone cloridrato soluzione orale 20 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 029610096 | Metadone cloridrato soluzione orale 5 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 029610072 | Metadone cloridrato soluzione orale 40 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione cancellata) |
+| 029610223 | Metadone cloridrato soluzione orale 60 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 029610045 | Metadone cloridrato soluzione orale 100 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 029610033 | Metadone cloridrato soluzione orale 20 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 029610096 | Metadone cloridrato soluzione orale 5 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 029610072 | Metadone cloridrato soluzione orale 40 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
 
 Tutte e 9 le autorizzazioni (titolare: Molteni & C. F.lli Alitti SpA) risultano cancellate; ne sono mostrate le prime 5.
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni suggerite dal grafo di conoscenza TxGNN** (non derivate dal foglio illustrativo): sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, epilessia, insufficienza respiratoria, asma, malattie renali ed epatiche, malattie della colecisti, ipotiroidismo/mixedema, malattie infiammatorie intestinali, ileo paralitico, occlusione intestinale, ipertrofia prostatica benigna, ipotensione, ipertensione intracranica/pseudotumor cerebri, stenosi uretrale, disturbi da uso di sostanze.
+- **Controindicazioni suggerite dal modello TxGNN (deep learning)** (non derivate dal foglio illustrativo; possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica): sindrome del QT lungo (anche familiare), torsione di punta, arresto cardiaco improvviso, malattie della conduzione cardiaca, epilessia, insufficienza respiratoria, asma, malattie renali ed epatiche, malattie della colecisti, ipotiroidismo/mixedema, malattie infiammatorie intestinali, ileo paralitico, occlusione intestinale, ipertrofia prostatica benigna, ipotensione, ipertensione intracranica/pseudotumor cerebri, stenosi uretrale, disturbi da uso di sostanze.
 - **Interazioni farmacologiche**: 267 interazioni registrate. Tra quelle di livello **maggiore**: alvimopan, bupropione, morfina, desametasone, claritromicina, acido picosolfurico, polietilenglicole (3350 con elettroliti) e cisapride. Tra quelle di livello moderato: famotidina, ioscina, loperamide, aprepitant, atropina, bisacodile, glicopirronio e cimetidina.
 - Il rischio di prolungamento del QT, unito all'elevato numero di interazioni, è particolarmente rilevante per una condizione a esordio pediatrico.
 
@@ -97,12 +97,12 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 
 | Indicazione | Punteggio TxGNN | Livello | Decisione | Commento |
 |------|------|------|------|------|
-| Sindrome di inappropriata antidiuresi nefrogenica | 99,73% | L5 | Hold | Nessuna evidenza; legame speculativo |
-| Tricotillomania | 99,67% | L5 | Hold | Nessuna evidenza; la plausibilità meccanicistica è incerta (gli antagonisti oppioidi sono stati esplorati) |
-| Cefalea (disturbo) | 99,35% | L4 | Hold | La letteratura sconsiglia gli oppioidi continuativi per le cefalee croniche refrattarie; rischio di cefalea da abuso di farmaci |
-| Disturbo bipolare maniacale | 99,32% | L4 | Research Question | Studio piccolo e datato del 1982 (PMID 6959168); nessuno studio moderno |
-| Cefalalgia autonomica del trigemino | 99,05% | L5 | Hold | L'unico lavoro segnala che il metadone può indurre o aggravare la cefalea a grappolo |
-| Raffreddore comune | 99,02% | L5 | Hold | La letteratura recuperata riguarda il dolore da freddo, non l'infezione; nessun supporto |
+| Sindrome di inappropriata antidiuresi nefrogenica | 0,9973 | L5 | Hold | Nessuna evidenza; legame speculativo |
+| Tricotillomania | 0,9967 | L5 | Hold | Nessuna evidenza; la plausibilità meccanicistica è incerta (gli antagonisti oppioidi sono stati esplorati) |
+| Cefalea (disturbo) | 0,9935 | L4 | Hold | La letteratura sconsiglia gli oppioidi continuativi per le cefalee croniche refrattarie; rischio di cefalea da abuso di farmaci |
+| Disturbo bipolare maniacale | 0,9932 | L4 | Research Question | Studio piccolo e datato del 1982 (PMID 6959168); nessuno studio moderno |
+| Cefalalgia autonomica del trigemino | 0,9905 | L5 | Hold | L'unico lavoro segnala che il metadone può indurre o aggravare la cefalea a grappolo |
+| Raffreddore comune | 0,9902 | L5 | Hold | La letteratura recuperata riguarda il dolore da freddo, non l'infezione; nessun supporto |
 
 ## Conclusione e prossimi passi
 

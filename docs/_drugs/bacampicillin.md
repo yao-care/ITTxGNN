@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bacampicillin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 60
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bacampicillin: nuova indicazione prevista, Malattia dell'uretra (nello specifico, uretrite non gonococcica) (livello di evidenza L3). Indicazione originale: Infezioni delle vie urinarie, gonorrea, fa…"
 monitor_inn: "bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
+last_modified_at: 2026-10-27
+description: "Bacampicillin: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Bacampicillin
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,69 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Bacampicillina: Da infezioni delle vie urinarie a malattia dell'uretra
+## Bacampicillina: profarmaco dell'ampicillina (beta-lattamico) → epiglottite (epiglottitis)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La bacampicillina è un profarmaco dell'ampicillina, originariamente utilizzato per le infezioni delle vie urinarie, la gonorrea, la faringite e la sinusite.
-Il modello TxGNN prevede che possa essere efficace per la **malattia dell'uretra**, ma le evidenze sono molto limitate: **nessuno studio clinico registrato** e **una sola pubblicazione** (uno studio pilota del 1989).
+La bacampicillina è un profarmaco dell'ampicillina, un antibiotico beta-lattamico. Il modello TxGNN la indica come possibile candidata per l'**epiglottite (epiglottitis)**. Per questa indicazione non risulta alcuno studio clinico né alcuna pubblicazione che la affronti direttamente: il supporto è solo un'ipotesi di modello.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni delle vie urinarie, gonorrea, faringite, sinusite (dal grafo di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Malattia dell'uretra (nello specifico, uretrite non gonococcica) |
-| Punteggio di predizione TxGNN | 99,85% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Epiglottite (epiglottitis) |
+| Punteggio di predizione TxGNN | 0,9992 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
-Nota: l'indicazione con il punteggio più alto è l'epiglottite (99,92%, livello L4, senza alcuna evidenza diretta). Questo report si concentra sulla malattia dell'uretra, perché è l'unica previsione per cui sono disponibili dati di letteratura. Il punteggio è ottenuto da un modello di grafo e non rappresenta una probabilità di efficacia clinica.
+## Perché questa predizione è plausibile?
 
----
+Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, la bacampicillina viene convertita in ampicillina, un beta-lattamico che inibisce la sintesi della parete batterica ed è attivo contro diversi patogeni delle vie respiratorie superiori, tra cui *Haemophilus influenzae*, causa classica di epiglottite.
 
-## Perché questa predizione è ragionevole?
+Il collegamento è quindi plausibile ma indiretto: si basa sullo spettro antibatterico dell'ampicillina, non su prove cliniche specifiche. Nella pratica attuale, a causa della resistenza all'ampicillina, si preferiscono cefalosporine di terza generazione e agenti resistenti alle beta-lattamasi, il che riduce ulteriormente l'interesse per questa ipotesi. Inoltre il prodotto locale risulta annullato.
 
-Attualmente non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la bacampicillina è un profarmaco dell'ampicillina, un beta-lattamico: dopo la somministrazione orale viene convertita in ampicillina, che inibisce la sintesi della parete batterica. La sua efficacia nelle infezioni urinarie e nella gonorrea è già riconosciuta, e sul piano meccanicistico potrebbe essere applicabile alle patologie uretrali di origine batterica.
+## Evidenze da studi clinici
 
-Il limite principale è però rilevante. L'uretrite non gonococcica è causata spesso da *Chlamydia trachomatis* e *Ureaplasma*, patogeni poco coperti dai beta-lattamici. Le linee guida attuali privilegiano doxiciclina o azitromicina, quindi l'efficacia della bacampicillina è dubbia.
-
-Per le altre indicazioni previste (ad esempio l'epiglottite), il legame è plausibile solo in modo indiretto, tramite lo spettro antibatterico dell'ampicillina. Nella pratica attuale si usano cefalosporine di terza generazione a causa della resistenza all'ampicillina. Per le previsioni di ambito oncologico, chirurgico o vascolare (gravidanza ectopica addominale, linfangioma cistico addominale, sindrome da compressione del tronco celiaco, cordoma sacrale e altre) non esiste alcun razionale meccanicistico, e i punteggi elevati sembrano artefatti della predizione su grafo.
-
----
-
-## Evidenze dagli studi clinici
-
-Al momento non risultano studi clinici registrati correlati.
-
----
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [2921050](https://pubmed.ncbi.nlm.nih.gov/2921050/) | 1989 | Studio pilota clinico | Genitourinary Medicine | 84 uomini con uretrite non gonococcica trattati con bacampicillina 800 mg due volte al giorno per 7 giorni; 24 positivi per *C. trachomatis*. Tra i 23 positivi presenti al follow-up, 22 sono risultati negativi, ma solo 14 sono diventati asintomatici con strisci uretrali normali. |
-
----
+Attualmente non è disponibile letteratura correlata all'epiglottite.
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034473013 | BACAMPICILLINA*12 cpr rivestite 1.200 mg (K24 Pharmaceuticals Srl) | Compresse rivestite | Non disponibile (autorizzazione revocata) |
+| 034473013 | BACAMPICILLINA*12 cpr rivestite 1.200 mg | Non indicata | Non registrata nei dati locali |
 
----
+Nei dati disponibili è presente una sola autorizzazione, con stato annullato (titolare: K24 Pharmaceuticals Srl).
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni (dal grafo di conoscenza TxGNN, non dal foglio illustrativo)**: malattia renale, piureter, colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, mononucleosi infettiva, sindrome da infezione cronica da virus di Epstein-Barr.
-- **Interazioni farmacologiche**: sono state identificate 34 interazioni in totale. Le principali, di livello moderato, riguardano:
-  - antiacidi e antiulcera: famotidina, ranitidina, cimetidina, nizatidina, omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo, carbonato di calcio, idrossido di alluminio, carbonato di magnesio, idrossido di magnesio;
-  - tetracicline: doxiciclina, minociclina, tetraciclina;
-  - altri: balsalazide, acido picosolfurico.
-  
-  L'interazione con la claritromicina è di livello minore.
+- **Interazioni farmacologiche**: sono state rilevate 34 interazioni, in prevalenza di livello moderato. Le principali riguardano:
+  - antiacidi e antiulcera (famotidina, ranitidina, cimetidina, nizatidina, omeprazolo, esomeprazolo, lansoprazolo, dexlansoprazolo, pantoprazolo, rabeprazolo, carbonato di calcio, idrossido di alluminio, carbonato e idrossido di magnesio);
+  - tetracicline (doxiciclina, minociclina, tetraciclina);
+  - balsalazide e acido picosolfurico (moderate);
+  - claritromicina (minore).
 
-Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo, attualmente non disponibile nei dati compilati.
-
----
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo, poiché i dati locali non le riportano.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-L'unica evidenza è un piccolo studio pilota del 1989 senza gruppo di confronto chiaro, in una condizione in cui i beta-lattamici sono poco efficaci e le linee guida indicano alternative migliori. Il prodotto è inoltre revocato in Italia.
+La predizione per l'epiglottite non è supportata da studi clinici né da pubblicazioni dirette, e il livello di evidenza è L5. La resistenza all'ampicillina, l'esistenza di alternative standard e l'autorizzazione locale annullata rendono la proposta poco praticabile.
 
-**Per procedere sono necessari:**
-- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
-- Dati sul meccanismo d'azione da DrugBank
-- Studi controllati rispetto a doxiciclina o azitromicina nell'uretrite non gonococcica
-- Verifica della disponibilità del prodotto o di formulazioni alternative di ampicillina, dato lo stato di revoca
+**Per procedere sarebbe necessario:**
+- Dati di meccanismo d'azione dettagliati
+- Testo del foglio illustrativo AIFA con avvertenze e controindicazioni
+- Dati di sensibilità dei patogeni dell'epiglottite all'ampicillina e confronto con le terapie attuali
+- Studi clinici o osservazionali che riguardino direttamente l'epiglottite
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

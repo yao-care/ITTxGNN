@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rimegepant
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 382
-evidence_level: L3
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Rimegepant: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L3). Indicazione originale: Emicrania (con o senza aura), secondo il grafo di conoscenza TxGNN"
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **6**
 
 </div>
 
-## Rimegepant: Dall'emicrania alla emicrania con aura del tronco encefalico
+## Rimegepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura de
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (con o senza aura), secondo il grafo di conoscenza TxGNN; il testo delle indicazioni approvate AIFA non è disponibile |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di predizione TxGNN | 99,94% |
-| Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di predizione TxGNN | 0.9976 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -96,9 +96,9 @@ Pubblicazioni selezionate (priorità a meta-analisi e studi clinici); nessuna è
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 050080035 | VYDURA 16x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione cancellata) |
-| 050080023 | VYDURA 8 liofilizzati orali 75 mg (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione cancellata) |
-| 050080011 | VYDURA 2x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione cancellata) |
+| 050080035 | VYDURA 16x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
+| 050080023 | VYDURA 8 liofilizzati orali 75 mg (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
+| 050080011 | VYDURA 2x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
 
 ---
 

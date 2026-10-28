@@ -4,17 +4,17 @@ title: Liothyronine
 parent: Solo previsione del modello (L5)
 nav_order: 272
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Liothyronine: nuova indicazione prevista, Ipoplasia/aplasia renale (livello di evidenza L5). Indicazione originale: Ipotiroidismo (con mixedema, ipotiroidismo congenito…"
 monitor_inn: "Liothyronine"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "nodular goiter (disease)", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
+description: "Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Liothyronine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Liotironina: dall'ipotiroidismo all'ipoplasia/aplasia renale (predizione computazionale)
+## Liothyronine: Renal hypodysplasia/aplasia
 {: .text-alpha }
 
 ## Sintesi
@@ -47,12 +47,12 @@ Il modello TxGNN predice un possibile effetto su **ipoplasia/aplasia renale** (p
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipotiroidismo (con mixedema, ipotiroidismo congenito, gozzo e patologie tiroidee, secondo il grafo di conoscenza; il testo dell'indicazione autorizzata in Italia non è disponibile) |
-| Nuova indicazione predetta | Ipoplasia/aplasia renale |
-| Punteggio di predizione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Renal hypodysplasia/aplasia |
+| Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 4 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -61,11 +61,11 @@ Il modello TxGNN predice un possibile effetto su **ipoplasia/aplasia renale** (p
 
 I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, la liotironina è la forma attiva dell'ormone tiroideo e la sua efficacia nell'ipotiroidismo è consolidata.
 
-Per l'ipoplasia/aplasia renale **non esiste un legame meccanicistico supportato dai dati**. Il punteggio elevato (0,9995) deriva dalla vicinanza nel grafo di conoscenza. L'ormone tiroideo partecipa allo sviluppo renale in senso generale, ma queste malformazioni sono strutturali e in gran parte genetiche, quindi non correggibili con una terapia ormonale postnatale.
+Per l'ipoplasia/aplasia renale **non esiste un legame meccanicistico supportato dai dati**. Il punteggio elevato (0,9995) deriva dal modello TxGNN (deep learning) e può riflettere similarità che il modello ha appreso tra malattie correlate, non evidenze biologiche. L'ormone tiroideo partecipa allo sviluppo renale in senso generale, ma queste malformazioni sono strutturali e in gran parte genetiche, quindi non correggibili con una terapia ormonale postnatale.
 
 Lo stesso vale per le altre predizioni nelle prime posizioni:
 - **Agenesia renale bilaterale e sequenza di Potter**: condizioni di assenza o malformazione strutturale dei reni, senza plausibilità terapeutica.
-- **Complesso di Carney, mixoma, angiomixoma**: segnale di grafo legato a tumori endocrini e cardiaci, senza razionale per la liotironina.
+- **Complesso di Carney, mixoma, angiomixoma**: segnale del modello TxGNN (deep learning) legato a tumori endocrini e cardiaci, senza razionale per la liotironina.
 - **Disostosi periferica e acrodisostosi**: legate alla segnalazione cAMP-PKA e alla resistenza ormonale; il collegamento è solo concettuale.
 - **Ipotricosi semplice del cuoio capelluto**: debole plausibilità biologica (l'ormone tiroideo influisce sul ciclo del follicolo pilifero), ma si tratta di una malattia genetica non tiroidea.
 - **Gozzo nodulare**: biologicamente plausibile, ma già compreso tra le indicazioni originali (gozzo multinodulare ed endemico); non è un vero riposizionamento.
@@ -103,10 +103,10 @@ Queste pubblicazioni riflettono gli usi noti della liotironina e **non costituis
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
 |---------|------|------|-----------|
-| 036906030 | LIOTIR orale, 30 contenitori monodose da 1 ml, 10 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 036906042 | LIOTIR orale, 30 contenitori monodose da 1 ml, 15 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione cancellata) |
-| 036906016 | LIOTIR orale gocce, 20 ml, 20 mcg/ml (IBSA) | Gocce orali | Non disponibile (autorizzazione cancellata) |
-| 036906055 | LIOTIR orale, 30 contenitori monodose da 1 ml, 20 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione cancellata) |
+| 036906030 | LIOTIR orale, 30 contenitori monodose da 1 ml, 10 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 036906042 | LIOTIR orale, 30 contenitori monodose da 1 ml, 15 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
+| 036906016 | LIOTIR orale gocce, 20 ml, 20 mcg/ml (IBSA) | Gocce orali | Non disponibile (autorizzazione valida) |
+| 036906055 | LIOTIR orale, 30 contenitori monodose da 1 ml, 20 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
 
 Tutte e quattro le autorizzazioni risultano cancellate: in Italia non vi sono attualmente autorizzazioni valide per il principio attivo singolo.
 

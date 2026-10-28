@@ -6,9 +6,9 @@ nav_order: 194
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Fenfluramine: nuova indicazione prevista, Sindrome da microdelezione prossimale 16p11.2 (livello di evidenza L5). Indicazione originale: Obesità"
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
+description: "Fenfluramine: nuova indicazione prevista, Sindrome da microdelezione prossimale 16p11.2 (proximal 16p11.2 microdeletion syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei da…"
 ---
 
 # Fenfluramine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Fenfluramina: dall'obesità alla sindrome da microdelezione prossimale 16p11.2
+## Fenfluramine: Sindrome da microdelezione prossimale 16p11.2 (proximal 16p11.2 microdeletion syndrome)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,12 +46,12 @@ ma **non sono disponibili studi clinici né pubblicazioni** a supporto di questa
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Obesità; obesità monogenica (secondo il grafo di conoscenza TxGNN; nelle autorizzazioni italiane non è riportato alcun testo di indicazione) |
-| Nuova indicazione prevista | Sindrome da microdelezione prossimale 16p11.2 |
-| Punteggio di previsione TxGNN | 99,93% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome da microdelezione prossimale 16p11.2 (proximal 16p11.2 microdeletion syndrome) |
+| Punteggio di previsione TxGNN | 0.9993 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -60,9 +60,9 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 La microdelezione 16p11.2 è associata a obesità, tratti dello spettro autistico e crisi epilettiche. Esiste quindi un possibile collegamento attraverso la modulazione serotoninergica dell'appetito e dell'eccitabilità neuronale. Inoltre la fenfluramina è oggi impiegata come antiepilettico nelle sindromi di Dravet e di Lennox-Gastaut (approvata dalla FDA nel giugno 2020 per la sindrome di Dravet; raccomandata dal NICE nel Regno Unito nel febbraio 2025 per la sindrome di Lennox-Gastaut), il che sostiene un legame indiretto con il fenotipo epilettico.
 
-Questo legame resta **ipotetico** e poggia esclusivamente sulla previsione del grafo di conoscenza.
+Questo legame resta **ipotetico** e poggia esclusivamente sulla previsione del modello TxGNN (apprendimento profondo).
 
-Le altre previsioni del modello (ipervitaminosi, ipertelorismo «obsoleto», frontorinia) hanno punteggi altrettanto elevati (0,998–0,999), ma non presentano alcun razionale meccanicistico credibile e sono probabilmente artefatti della topologia del grafo. Non sono raccomandate.
+Le altre previsioni del modello TxGNN (deep learning), ipervitaminosi (0,9992), ipertelorismo «obsoleto» (0,9986) e frontorinia (0,9978), hanno punteggi altrettanto elevati, ma non presentano alcun razionale meccanicistico credibile. I punteggi provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica. Non sono raccomandate.
 
 ## Evidenze da studi clinici
 
@@ -93,7 +93,7 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio molto alto (99,93%) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2, e in Italia le autorizzazioni disponibili sono tutte cancellate. Le informazioni ufficiali di sicurezza non sono state acquisite.
+La previsione ha un punteggio molto alto (0,9993) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2, e in Italia le autorizzazioni disponibili sono tutte cancellate. Le informazioni ufficiali di sicurezza non sono state acquisite.
 
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni), indispensabile per lo screening di sicurezza

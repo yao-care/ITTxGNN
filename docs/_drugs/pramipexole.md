@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pramipexole
-parent: Solo previsione del modello (L5)
+parent: Prove moderate (L3-L4)
 nav_order: 357
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Malattia di Parkinson e sindrome delle gambe senza ri…"
 monitor_inn: "pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
+description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L4). Indicazione originale: Non riportata nei…"
 ---
 
 # Pramipexole
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L4** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Pramipexolo: dalla malattia di Parkinson e sindrome delle gambe senza riposo al disturbo da deficit di attenzione e iperattività (ADHD)
+## Pramipexole: Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,11 +44,11 @@ Il pramipexolo è un agonista dopaminergico, originariamente usato per la malatt
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattia di Parkinson e sindrome delle gambe senza riposo (più alcune forme genetiche di parkinsonismo) |
-| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 99,998% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) |
+| Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L4 (solo dati indiretti e meccanicistici; nessuno studio sull'ADHD) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -79,15 +79,15 @@ Nessuna di queste pubblicazioni valuta direttamente il pramipexolo nell'ADHD.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Di seguito le prime 5 (tutte "single", cioè monocomponente).
+Di seguito le prime 5 (tutte "single", cioè monocomponente).
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 039188026 | Pramipexolo 30 cpr 0,18 mg | EG SpA | Cancellata |
-| 042363034 | Pramipexolo 10 cpr 0,52 mg, rilascio prolungato | Towa Pharmaceutical SpA | Cancellata |
-| 041097142 | Pramipexolo 30 cpr 0,7 mg | Aurobindo Pharma Italia Srl | Cancellata |
-| 049577051 | Pramipexolo 30 cpr 2,1 mg, rilascio prolungato | DOC Generici Srl | Cancellata |
-| 034090035 | Mirapexin 30 cpr divisibili 0,18 mg | Boehringer Ingelheim Int. GmbH | Cancellata |
+| 039188026 | Pramipexolo 30 cpr 0,18 mg | EG SpA | Valida |
+| 042363034 | Pramipexolo 10 cpr 0,52 mg, rilascio prolungato | Towa Pharmaceutical SpA | Valida |
+| 041097142 | Pramipexolo 30 cpr 0,7 mg | Aurobindo Pharma Italia Srl | Valida |
+| 049577051 | Pramipexolo 30 cpr 2,1 mg, rilascio prolungato | DOC Generici Srl | Valida |
+| 034090035 | Mirapexin 30 cpr divisibili 0,18 mg | Boehringer Ingelheim Int. GmbH | Valida |
 
 Per queste autorizzazioni non è disponibile il testo dell'indicazione approvata.
 
@@ -111,7 +111,7 @@ Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio 
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, per completare la valutazione di sicurezza
 - Verifica delle vie di somministrazione e delle formulazioni disponibili, oggi non valutabile
 
-**Nota su altre indicazioni previste:** tra le altre predizioni del modello, la **schizofrenia** (punteggio 99,52%) ha evidenze molto più solide: lo studio di fase 3 [NCT01320982](https://clinicaltrials.gov/study/NCT01320982) (400 partecipanti, stato sconosciuto, senza risultati) e l'RCT pubblicato [PMID 35921506](https://pubmed.ncbi.nlm.nih.gov/35921506/) sul pramipexolo aggiuntivo. Merita una valutazione separata, tenendo conto del rischio di peggioramento della psicosi con gli agonisti dopaminergici.
+**Nota su altre indicazioni previste:** tra le altre predizioni del modello, la **schizofrenia** (punteggio 0,9952) ha evidenze molto più solide: lo studio di fase 3 [NCT01320982](https://clinicaltrials.gov/study/NCT01320982) (400 partecipanti, stato sconosciuto, senza risultati) e l'RCT pubblicato [PMID 35921506](https://pubmed.ncbi.nlm.nih.gov/35921506/) sul pramipexolo aggiuntivo. Merita una valutazione separata, tenendo conto del rischio di peggioramento della psicosi con gli agonisti dopaminergici.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

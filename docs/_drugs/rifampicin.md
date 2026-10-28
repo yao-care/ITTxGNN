@@ -6,9 +6,9 @@ nav_order: 379
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Rifampicin: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Tubercolosi polmonare (da archi di indicazione del grafo di conoscenza"
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rifampicin
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Rifampicina: dalla tubercolosi polmonare alla congiuntivite
+## Rifampicin: Congiuntivite (conjunctivitis)
 {: .text-alpha }
 
 ## Sintesi
@@ -46,12 +46,12 @@ ma al momento non risultano **studi clinici registrati** e la letteratura dispon
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Tubercolosi polmonare (da archi di indicazione del grafo di conoscenza; il testo delle indicazioni AIFA non è disponibile) |
-| Nuova indicazione prevista | Congiuntivite |
-| Punteggio di predizione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Congiuntivite (conjunctivitis) |
+| Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -117,11 +117,10 @@ La predizione è biologicamente plausibile per le congiuntiviti batteriche e cla
 
 | Indicazione | Punteggio TxGNN | Livello di evidenza | Note | Decisione |
 |------|------|------|------|------|
-| Sclerosi/neoplasia endocrina multipla | 99,86% | L5 | Nessuno studio né letteratura | Hold |
-| Acne | 99,74% | L4 | Letteratura riferita soprattutto all'idrosadenite suppurativa (rifampicina + clindamicina); evidenza indiretta | Hold |
-| Infezione da HIV | 99,59% | L4 | Gli studi riguardano la coinfezione HIV-TB, non la rifampicina come terapia anti-HIV; utili per la gestione delle interazioni | Research Question |
-| Artrite reumatoide | 99,45% | L3 | Piccoli studi clinici datati (1988-1993) non conclusivi; unico studio registrato di fase 1 farmacocinetico | Research Question |
-| Altre (congiuntivite contagiosa acuta, infezioni da SIV/FIV, disturbo del neurosviluppo raro) | ≈99,3-99,5% | L5 | Solo predizione computazionale | Hold |
+| Sclerosi/neoplasia endocrina multipla | 0,9986 | L5 | Nessuno studio né letteratura | Hold |
+| Acne | 0,9974 | L4 | Letteratura riferita soprattutto all'idrosadenite suppurativa (rifampicina + clindamicina); evidenza indiretta | Hold |
+| Infezione da HIV | 0,9959 | L4 | Gli studi riguardano la coinfezione HIV-TB, non la rifampicina come terapia anti-HIV; utili per la gestione delle interazioni | Research Question |
+| Artrite reumatoide | 0,9945 | L3 | Piccoli studi clinici datati (1988-1993) non conclusivi; unico studio registrato di fase 1 farmacocinetico | Research Question |
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

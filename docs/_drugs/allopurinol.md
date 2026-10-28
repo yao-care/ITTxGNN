@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Allopurinol: nuova indicazione prevista, Porfiria epatica (livello di evidenza L5). Indicazione originale: Gotta, iperuricemia…"
 monitor_inn: "allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
+last_modified_at: 2026-10-27
+description: "Allopurinol: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Allopurinol
@@ -33,95 +33,74 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Allopurinolo: dalla gotta alla porfiria epatica
+## Allopurinolo: inibitore della xantina ossidasi → porfiria epatica (hepatic porphyria)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-L'allopurinolo è un inibitore della xantina ossidasi, utilizzato originariamente per il trattamento della gotta, dell'iperuricemia e della nefropatia acuta da urati.
-Il modello TxGNN prevede che possa essere efficace per la **porfiria epatica**,
-ma al momento **non risultano studi clinici** e le **2 pubblicazioni** disponibili sono solo di livello ipotetico o preclinico.
+L'allopurinolo è un inibitore della xantina ossidasi, utilizzato in ambito di disturbi legati all'acido urico. Il modello TxGNN predice un possibile effetto su **porfiria epatica (hepatic porphyria)**, ma al momento non esistono studi clinici registrati e le due pubblicazioni reperite sono di livello ipotetico o preclinico: il supporto è quindi limitato alla sola predizione del modello.
 
----
-
-## Panoramica rapida
+## Quadro d'insieme
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Gotta, iperuricemia, nefropatia acuta da urati (dalle indicazioni del grafo di conoscenza; il testo autorizzato AIFA non è disponibile) |
-| Nuova indicazione prevista | Porfiria epatica |
-| Punteggio di predizione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Porfiria epatica (hepatic porphyria) |
+| Punteggio di predizione TxGNN | 0,9995 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 15 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
+| Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa predizione è plausibile?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. Sulla base delle conoscenze generali, l'allopurinolo inibisce la xantina ossidasi e quindi interviene sul metabolismo delle purine. Un legame con il metabolismo dell'eme è plausibile solo in modo speculativo.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze generali, l'allopurinolo è un inibitore della xantina ossidasi, la cui efficacia nella gotta e nell'iperuricemia è consolidata; un legame con la porfiria epatica è solo ipotizzabile.
+Le due pubblicazioni reperite non testano l'allopurinolo nei pazienti con porfiria: una è un'ipotesi sul controllo metabolico dell'enzima 5-aminolevulinato sintasi, l'altra è uno studio sul ratto relativo alla carbamazepina e al metabolismo dell'eme. Non sostengono quindi direttamente la predizione.
 
-Il collegamento possibile è che l'inibizione della xantina ossidasi possa influenzare il metabolismo delle purine e dell'eme. Si tratta però di una speculazione: le due pubblicazioni trovate non testano l'allopurinolo in pazienti con porfiria. Una è un articolo ipotetico sul targeting metabolico dell'enzima 5-aminolevulinato sintasi (ALAS1) e sull'utilizzo dell'eme; l'altra è uno studio sul ratto riguardante gli effetti della carbamazepina sul metabolismo dell'eme epatico.
+Va inoltre considerato che i pazienti con porfiria sono sensibili a molti farmaci che inducono la sintesi epatica dell'eme, per cui la sicurezza richiederebbe una verifica molto attenta.
 
-Va aggiunto che i pazienti con porfiria sono sensibili a molti farmaci che inducono la sintesi epatica dell'eme, per cui la sicurezza richiederebbe una verifica molto attenta.
-
-Anche le altre indicazioni previste (ipertensione portale familiare a esordio precoce, sindrome epatopolmonare, cirrosi idiopatica associata al rame, trombosi portale primitiva, sclerosi epatoportale, miopatia necrotizzante immunomediata, sindrome da antisintetasi, miopatia infiammatoria con abbondanti macrofagi) non hanno studi clinici né letteratura di supporto. Diverse hanno punteggi identici (0,99943), il che suggerisce un'associazione non specifica nel grafo di conoscenza e non un segnale legato alla malattia.
-
----
-
-## Evidenze da studi clinici
+## Evidenza clinica
 
 Al momento non risultano studi clinici correlati registrati.
 
----
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Ipotesi/Revisione | Medical Hypotheses | Propone il targeting metabolico della 5-ALAS, tramite triptofano o inibizione dell'utilizzo dell'eme da parte della triptofano 2,3-diossigenasi, come terapia delle porfirie epatiche acute; non riguarda direttamente l'allopurinolo |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Studio animale (ratto) | Biochemical Pharmacology | La carbamazepina, a dose molto bassa, esacerba le porfirie epatiche alterando il metabolismo dell'eme nel fegato di ratto; non riguarda l'allopurinolo |
-
----
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Ipotesi/Revisione | Medical Hypotheses | Ipotesi di terapia delle porfirie epatiche acute tramite controllo metabolico della 5-ALAS con triptofano e inibitori dell'uso dell'eme da parte della triptofano 2,3-diossigenasi; non riguarda l'allopurinolo |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Studio animale (ratto) | Biochemical Pharmacology | Effetti della carbamazepina sul metabolismo dell'eme nel fegato di ratto, in relazione al peggioramento delle porfirie epatiche |
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Produttore | Stato |
-|---------|------|------|------|------|
-| 022441036 | Allopurinolo 50 cpr 100 mg | Non indicata | Molteni & C. F.lli Alitti | Cancellata |
-| 039060076 | Allopurinolo 50 cpr 100 mg | Non indicata | Sandoz | Cancellata |
-| 045054057 | Allopurinolo 30 cpr 300 mg | Non indicata | Mylan | Cancellata |
-| 021259027 | Zyloric 30 cpr div 300 mg | Non indicata | Teofarma | Cancellata |
-| 022051015 | Allurit 40 cpr 150 mg | Non indicata | Teofarma | Cancellata |
+Sono presenti 15 autorizzazioni di medicinali monocomponente a base di allopurinolo; i dati locali non riportano il testo dell'indicazione approvata.
 
-Sono elencate le prime 5 delle 15 autorizzazioni, tutte cancellate. Il testo dell'indicazione approvata non è disponibile.
-
----
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 022441036 | ALLOPURINOLO 50 cpr 100 mg (Molteni) | Non indicata | Non registrata |
+| 039060076 | ALLOPURINOLO 50 cpr 100 mg (Sandoz) | Non indicata | Non registrata |
+| 045054057 | ALLOPURINOLO 30 cpr 300 mg (Mylan) | Non indicata | Non registrata |
+| 021259027 | ZYLORIC 30 cpr div 300 mg (Teofarma) | Non indicata | Non registrata |
+| 022051015 | ALLURIT 40 cpr 150 mg (Teofarma) | Non indicata | Non registrata |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni dal grafo di conoscenza** (non derivate dal foglio illustrativo): malattia epatica, malattia della colecisti, insufficienza renale, vasculite da ipersensibilità, angioite leucocitoclastica cutanea, vasculite cutanea allergica, malattia da anticorpi anti-membrana basale glomerulare.
-- **Interazioni farmacologiche**: sono state identificate 217 interazioni. Tra quelle di livello moderato figurano idrossido di alluminio, attapulgite, caolino, magaldrato e sucralfato. Tra quelle minori figurano amoxicillina e clorpropamide. Per molte altre (ad es. metformina, omeprazolo, pantoprazolo, glimepiride, morfina, doxiciclina) il livello di gravità non è classificato.
-- Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
+- **Interazioni farmacologiche**: sono state rilevate 217 interazioni. Tra quelle di livello moderato figurano idrossido di alluminio, attapulgite, caolino, magaldrato e sucralfato; di livello minore amoxicillina e clorpropamide.
 
-Poiché la porfiria epatica è una condizione in cui il fegato è già vulnerabile e il grafo segnala la malattia epatica come controindicazione, il profilo di sicurezza richiede particolare attenzione.
-
----
+Per le avvertenze e le controindicazioni, consultare il foglietto illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è molto alto, ma non esistono studi clinici e la letteratura è solo ipotetica o preclinica (livello L5). Inoltre tutte le autorizzazioni italiane risultano cancellate e il segnale di sicurezza epatica è un ulteriore elemento di cautela.
+La predizione si basa solo sul modello (punteggio 0,9995), senza studi clinici né letteratura che valuti l'allopurinolo nella porfiria epatica. Il livello di evidenza è L5 e la sensibilità dei pazienti porfirici ai farmaci richiede particolare cautela.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione e analisi della plausibilità biologica nella via di sintesi dell'eme
-- Studi preclinici che valutino l'allopurinolo in modelli di porfiria epatica
-- Foglio illustrativo AIFA con avvertenze e controindicazioni ufficiali, per la valutazione di sicurezza
-- Verifica della sicurezza dell'allopurinolo in pazienti con porfiria e malattia epatica
-- Chiarimento dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni sono cancellate
+- Dati sul meccanismo d'azione e analisi del legame meccanicistico con il metabolismo dell'eme
+- Studi preclinici specifici sull'allopurinolo nella porfiria
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA
+- Valutazione della sicurezza nei pazienti con porfiria, in particolare riguardo all'induzione della sintesi epatica dell'eme
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

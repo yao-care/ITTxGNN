@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imiquimod
-parent: Solo previsione del modello (L5)
+parent: Prove elevate (L1-L2)
 nav_order: 235
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Imiquimod: nuova indicazione prevista, Neoplasia pre-maligna (livello di evidenza L5). Indicazione originale: Verruca comune, condilomi anogenitali da HPV, cheratosi attinica…"
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
+description: "Imiquimod: nuova indicazione prevista, Pre-malignant neoplasm (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Imiquimod
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L1** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Imiquimod: dalla cheratosi attinica alle neoplasie pre-maligne
+## Imiquimod: Pre-malignant neoplasm
 {: .text-alpha }
 
 ## Sintesi
 
 L'imiquimod è un modulatore della risposta immunitaria ad uso topico, originariamente impiegato per verruche comuni, condilomi anogenitali da HPV, cheratosi attinica e carcinoma basocellulare superficiale multifocale.
-Il modello TxGNN ne predice l'efficacia per le **neoplasie pre-maligne** (punteggio 99,92%), con **2 studi clinici di fase 3** (entrambi di piccole dimensioni) e **9 pubblicazioni** a supporto, tra cui due revisioni Cochrane.
+Il modello TxGNN ne predice l'efficacia per le **neoplasie pre-maligne** (punteggio 0,9992), con **2 studi clinici di fase 3** (entrambi di piccole dimensioni) e **9 pubblicazioni** a supporto, tra cui due revisioni Cochrane.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Verruca comune, condilomi anogenitali da HPV, cheratosi attinica, carcinoma basocellulare superficiale multifocale (indicazioni tratte dal grafo di conoscenza; i testi autorizzativi AIFA non sono disponibili) |
-| Nuova indicazione predetta | Neoplasia pre-maligna |
-| Punteggio di predizione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Pre-malignant neoplasm |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L1 (da considerare con cautela, vedi sotto) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 3 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è plausibile?
@@ -85,11 +85,11 @@ Una cautela importante: il livello L1 poggia sulla designazione di fase 3 dei du
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034405011 | ALDARA crema derm 12 bustine 250 mg 5% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione revocata) |
-| 041393012 | IMUNOCARE crema derm 12 bust 250 mg 5% (Difa Cooper) | Crema dermatologica | Non disponibile (autorizzazione revocata) |
-| 043585025 | ZYCLARA crema derm 28 bust 250 mg 3,75% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione revocata) |
+| 034405011 | ALDARA crema derm 12 bustine 250 mg 5% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione valida) |
+| 041393012 | IMUNOCARE crema derm 12 bust 250 mg 5% (Difa Cooper) | Crema dermatologica | Non disponibile (autorizzazione valida) |
+| 043585025 | ZYCLARA crema derm 28 bust 250 mg 3,75% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione valida) |
 
-Tutte e tre le autorizzazioni risultano revocate: attualmente non vi è un prodotto a base di imiquimod autorizzato in Italia secondo i dati compilati.
+Tutte e tre le autorizzazioni risultano valide: attualmente imiquimod è in commercio in Italia secondo i dati compilati (3 autorizzazioni valide su 3).
 
 ## Considerazioni sulla sicurezza
 
@@ -120,7 +120,6 @@ Per le neoplasie pre-maligne il meccanismo TLR7 è coerente con gli usi consolid
 - Reperire i dati sul meccanismo d'azione da DrugBank
 - Limitare l'uso a tipi di lesione e sedi definiti, con monitoraggio delle reazioni locali
 - Considerare inconcludente lo studio cervicale terminato e pianificare studi controllati con numerosità adeguata
-- Chiarire la situazione regolatoria in Italia, poiché tutte le autorizzazioni sono revocate
 - Valutare la gravità delle interazioni farmacologiche non classificate
 ## Avvertenza
 

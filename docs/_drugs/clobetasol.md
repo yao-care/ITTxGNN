@@ -46,10 +46,10 @@ Il clobetasolo è un corticosteroide topico ad altissima potenza, in Italia util
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni sono vuoti) |
 | Nuova indicazione prevista | Linfoma cutaneo primario a cellule T |
-| Punteggio di predizione TxGNN | 99,51% |
+| Punteggio di predizione TxGNN | 0,9951 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 7 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?
@@ -87,11 +87,11 @@ Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le f
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 023639040 | CLOBESOL unguento dermatologico 30 g 0,05% | GlaxoSmithKline SpA | Cancellata |
-| 023639026 | CLOBESOL crema cutanea 30 g 0,05% | GlaxoSmithKline SpA | Cancellata |
-| 050172016 | SUBLASOL shampoo flacone 125 ml 500 mcg/g | Substipharm | Cancellata |
-| 047968019 | CLOBECARE shampoo flacone 125 ml 500 mcg/g | Difa Cooper SpA | Cancellata |
-| 043114014 | CLOBETASOLO soluzione cutanea 100 ml 500 mcg/ml | ISDIN Srl | Cancellata |
+| 023639040 | CLOBESOL unguento dermatologico 30 g 0,05% | GlaxoSmithKline SpA | Valida |
+| 023639026 | CLOBESOL crema cutanea 30 g 0,05% | GlaxoSmithKline SpA | Valida |
+| 050172016 | SUBLASOL shampoo flacone 125 ml 500 mcg/g | Substipharm | Valida |
+| 047968019 | CLOBECARE shampoo flacone 125 ml 500 mcg/g | Difa Cooper SpA | Valida |
+| 043114014 | CLOBETASOLO soluzione cutanea 100 ml 500 mcg/ml | ISDIN Srl | Valida |
 
 ## Considerazioni di sicurezza
 

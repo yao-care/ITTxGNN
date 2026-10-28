@@ -4,17 +4,17 @@ title: Moxonidine
 parent: Solo previsione del modello (L5)
 nav_order: 313
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (livello di evidenza L5). Indicazione originale: Ipertensione (ipertensione essenziale, disturbo ipertensivo)"
 monitor_inn: "Moxonidine"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
+description: "Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Moxonidine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Moxonidina: dall'ipertensione all'ipotricosi semplice del cuoio capelluto
+## Moxonidine: Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,19 +46,19 @@ ma al momento **non esistono studi clinici né pubblicazioni** a supporto di que
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione (ipertensione essenziale, disturbo ipertensivo) |
-| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto |
-| Punteggio di predizione TxGNN | 99,95% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) |
+| Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 6 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
+| Numero di autorizzazioni | 6 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?
 
 Allo stato attuale, i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle informazioni di farmacologia disponibili, la moxonidina è un agonista dei recettori α2-adrenergici (con legame ai sottotipi α2A, α2B e α2C) e, secondo la letteratura generale, agisce anche sui recettori imidazolinici I1: riduce il tono simpatico centrale e quindi la pressione arteriosa.
 
-Per quanto riguarda l'ipotricosi semplice del cuoio capelluto, non è stato individuato alcun legame meccanicistico plausibile con la biologia del follicolo pilifero o con i geni delle ipotricosi ereditarie. L'elevato punteggio TxGNN (99,95%) riflette verosimilmente similarità di rete nel grafo di conoscenza e non una motivazione farmacologica. Il rapporto di similarità con l'indicazione originale non è stato valutato.
+Per quanto riguarda l'ipotricosi semplice del cuoio capelluto, non è stato individuato alcun legame meccanicistico plausibile con la biologia del follicolo pilifero o con i geni delle ipotricosi ereditarie. L'elevato punteggio del modello TxGNN (deep learning), pari a 0,9995, può riflettere similarità apprese dal modello tra malattie correlate e non costituisce un'evidenza biologica. Il rapporto di similarità con l'indicazione originale non è stato valutato.
 
 Anche le altre previsioni di rango elevato appartengono in gran parte a due gruppi:
 - **Disturbi dei capelli** (ipotricosi congenita con milia, alopecia areata diffusa, alopecia): nessuna evidenza e nessun nesso meccanicistico noto.
@@ -82,13 +82,12 @@ Per completezza, per la previsione "alopecia" (rango 4) è stata recuperata una 
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036677033 | Moxonidina 28 cpr rivestite 0,2 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 034063014 | Fisiotens 28 cpr rivestite 0,2 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 034063053 | Fisiotens 28 cpr rivestite 0,4 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 039676085 | Moxonidina 28 cpr rivestite 0,4 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 039676022 | Moxonidina 28 cpr rivestite 0,2 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 036677033 | Moxonidina 28 cpr rivestite 0,2 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034063014 | Fisiotens 28 cpr rivestite 0,2 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 034063053 | Fisiotens 28 cpr rivestite 0,4 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 039676085 | Moxonidina 28 cpr rivestite 0,4 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 039676022 | Moxonidina 28 cpr rivestite 0,2 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Sono presenti in totale 6 autorizzazioni, tutte cancellate; nessuna è attualmente valida.
 
 ## Considerazioni sulla sicurezza
 

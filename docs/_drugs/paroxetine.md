@@ -6,9 +6,9 @@ nav_order: 342
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (livello di evidenza L5). Indicazione originale: Disturbo depressivo maggiore, disturbi d'ansia…"
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
+description: "Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Paroxetine
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Paroxetina: Dalla depressione maggiore alla sindrome di Ohdo e varianti
+## Paroxetine: Sindrome di Ohdo e varianti (Ohdo syndrome and variants)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -44,11 +44,11 @@ La paroxetina è un inibitore selettivo della ricaptazione della serotonina (SSR
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbo depressivo maggiore, disturbi d'ansia, disturbo ossessivo-compulsivo, disturbo da stress post-traumatico, fobia sociale (il testo dell'indicazione autorizzata AIFA non è disponibile; indicazioni ricavate dal grafo di conoscenza TxGNN) |
-| Nuova indicazione prevista | Sindrome di Ohdo e varianti |
-| Punteggio di previsione TxGNN | 99,11% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome di Ohdo e varianti (Ohdo syndrome and variants) |
+| Punteggio di previsione TxGNN | 0.9911 |
 | Livello di evidenza | L5 (solo previsione del modello) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -58,7 +58,7 @@ Allo stato attuale non sono disponibili dati dettagliati sul meccanismo d'azione
 
 La sindrome di Ohdo (compresa la variante Say-Barber-Biesecker-Young-Simpson) è un raro disturbo congenito legato a varianti del gene KAT6B, con disabilità intellettiva, blefarofimosi e ipotonia. Si tratta di una condizione genetica dello sviluppo, associata alla regolazione della cromatina. Dai dati disponibili non emerge alcun percorso plausibile per cui l'inibizione della ricaptazione della serotonina possa modificare tale meccanismo di base.
 
-Il punteggio TxGNN è molto alto (0,991), ma è solo un'inferenza del modello e non costituisce una prova di efficacia. Qualsiasi ipotesi biologica richiederebbe una validazione indipendente.
+Il punteggio TxGNN è molto alto (0,9911), ma è solo un'inferenza del modello e non costituisce una prova di efficacia. Qualsiasi ipotesi biologica richiederebbe una validazione indipendente.
 
 ## Evidenze da studi clinici
 
@@ -74,11 +74,11 @@ Tutte le 20 autorizzazioni risultano cancellate. Di seguito le principali 5 (il 
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 027965033 | Sereupin, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Cancellata |
-| 027964030 | Eutimil, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Cancellata |
-| 035444037 | Daparox, 28 cpr rivestite 20 mg | Angelini SpA | Cancellata |
-| 036063055 | Dropaxin, gocce orali 60 ml 10 mg/ml | Italfarmaco SpA | Cancellata |
-| 037870019 | Dapagut, gocce orali 18,5 ml 33,1 mg/ml | Angelini SpA | Cancellata |
+| 027965033 | Sereupin, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Valida |
+| 027964030 | Eutimil, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Valida |
+| 035444037 | Daparox, 28 cpr rivestite 20 mg | Angelini SpA | Valida |
+| 036063055 | Dropaxin, gocce orali 60 ml 10 mg/ml | Italfarmaco SpA | Valida |
+| 037870019 | Dapagut, gocce orali 18,5 ml 33,1 mg/ml | Angelini SpA | Valida |
 
 ## Considerazioni sulla sicurezza
 

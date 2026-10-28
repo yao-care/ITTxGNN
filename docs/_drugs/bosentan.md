@@ -4,17 +4,17 @@ title: Bosentan
 parent: Solo previsione del modello (L5)
 nav_order: 74
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Bosentan: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Ipertensione polmonare / ipertensione arteriosa polmonare…"
+indication_count: 8
 monitor_inn: "BOSENTAN"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
+last_modified_at: 2026-10-27
+description: "Bosentan: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Bosentan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,79 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-## Bosentan: dall'ipertensione arteriosa polmonare all'artrite reumatoide
+## Bosentan: antagonista del recettore dell'endotelina → artrite reumatoide (rheumatoid arthritis)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo
 
-Bosentan è un antagonista dei recettori dell'endotelina, originariamente utilizzato per l'ipertensione arteriosa polmonare e per la sclerodermia/sclerosi sistemica. Il modello TxGNN prevede una possibile efficacia nell'**artrite reumatoide**, ma il supporto è molto limitato: **nessuno studio clinico registrato** e **15 pubblicazioni** recuperate, quasi tutte indirette (revisioni sull'ipertensione polmonare associata a connettivopatie, modelli animali).
+Bosentan è un antagonista duale dei recettori dell'endotelina (ET-A/ET-B). Il modello TxGNN ne predice una possibile utilità nell'**artrite reumatoide (rheumatoid arthritis)**. Per questa direzione non risultano sperimentazioni cliniche registrate; le evidenze disponibili sono **studi preclinici su modelli animali** e alcune pubblicazioni di tipo indiretto.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione polmonare / ipertensione arteriosa polmonare, sclerodermia, sclerosi sistemica (dal grafo di conoscenza TxGNN; nelle autorizzazioni AIFA il testo dell'indicazione non è disponibile) |
-| Nuova indicazione prevista | Artrite reumatoide |
-| Punteggio di predizione TxGNN | 99,80% |
-| Livello di evidenza | L4 (solo dati preclinici/meccanicistici) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 14 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Artrite reumatoide (rheumatoid arthritis) |
+| Punteggio di predizione TxGNN | 0,9980 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
+| Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione raccomandata | Hold |
-
----
 
 ## Perché questa predizione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Sulla base delle conoscenze note, bosentan è un antagonista duale dei recettori dell'endotelina (ET-A/ET-B). L'endotelina contribuisce all'infiammazione sinoviale, alla vasculopatia e al rilascio di citochine; i livelli di ET-1 risultano aumentati nel plasma e nella membrana sinoviale dei pazienti con artrite reumatoide.
+Bosentan blocca entrambi i recettori dell'endotelina (ET-A ed ET-B). La segnalazione dell'endotelina contribuisce all'infiammazione sinoviale, alla vasculopatia e al rilascio di citochine, tutti elementi rilevanti nell'artrite reumatoide.
 
-A supporto, studi preclinici mostrano che bosentan attenua l'artrite indotta da collagene nel topo, con un ruolo del TNF-α (PMID 22249931), e che le endoteline modulano l'artrite indotta da zymosan (LTB4, TNF-α, CXCL-1; PMID 18515326).
+Studi sul topo indicano che bosentan migliora l'artrite indotta da collagene, con un ruolo del TNF-α, e che le endoteline modulano l'artrite indotta da zimosan (LTB4, TNF-α). Si tratta tuttavia solo di dati animali. Sul piano umano il legame è indiretto: bosentan è impiegato nell'ipertensione arteriosa polmonare associata a malattie del tessuto connettivo, un'indicazione diversa dalla malattia articolare dell'artrite reumatoide.
 
-È però importante sottolineare i limiti: si tratta esclusivamente di dati animali. Il legame clinico è indiretto, perché bosentan è usato nell'ipertensione arteriosa polmonare associata a connettivopatie, che è una condizione diversa dalla malattia articolare dell'artrite reumatoide. L'unico caso clinico recuperato (Eisenmenger e artrite idiopatica giovanile, PMID 20054770) documenta la coesistenza delle due condizioni, non un beneficio sull'artrite.
+Poiché nessuno degli studi citati valuta direttamente bosentan nei pazienti con artrite reumatoide, il livello di evidenza resta L5, cioè basato soltanto sulla predizione del modello e su dati preclinici.
 
----
+## Evidenza dalle sperimentazioni cliniche
 
-## Evidenze da studi clinici
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
-Attualmente non risultano studi clinici correlati registrati.
-
----
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [22249931](https://pubmed.ncbi.nlm.nih.gov/22249931/) | 2012 | Preclinico (modello animale) | Inflamm Res | Bosentan migliora l'artrite indotta da collagene nel topo; ruolo del TNF-α nell'induzione dei geni del sistema endotelina |
-| [18515326](https://pubmed.ncbi.nlm.nih.gov/18515326/) | 2008 | Preclinico (modello animale) | J Leukoc Biol | Le endoteline modulano la reazione infiammatoria nell'artrite da zymosan (LTB4, TNF-α, CXCL-1) |
-| [24268012](https://pubmed.ncbi.nlm.nih.gov/24268012/) | 2014 | Revisione | Rheum Dis Clin North Am | Ipertensione arteriosa polmonare nelle connettivopatie: mortalità elevata nel primo anno, opzioni terapeutiche in aumento |
-| [16218473](https://pubmed.ncbi.nlm.nih.gov/16218473/) | 2005 | Revisione | Lupus | L'ipertensione arteriosa polmonare complica le connettivopatie, in misura minore l'artrite reumatoide |
-| [19487226](https://pubmed.ncbi.nlm.nih.gov/19487226/) | 2009 | Revisione | Rheumatology (Oxford) | Vasculopatia e ipertensione arteriosa polmonare nel LES e nella sindrome di Sjögren |
-| [20054770](https://pubmed.ncbi.nlm.nih.gov/20054770/) | 2009 | Caso clinico | Kardiol Pol | Bambina con sindrome di Eisenmenger trattata con bosentan, poi diagnosi di artrite idiopatica giovanile |
-| [16766656](https://pubmed.ncbi.nlm.nih.gov/16766656/) | 2006 | Preclinico (non specifico per bosentan) | PNAS | L'IL-15 induce ipernocicezione mediata da endotelina nel topo |
-| [19969421](https://pubmed.ncbi.nlm.nih.gov/19969421/) | 2010 | Preclinico (non specifico per bosentan) | Pain | L'IL-17 media l'ipernocicezione articolare nell'artrite indotta da antigene nel topo |
-
----
+| [22249931](https://pubmed.ncbi.nlm.nih.gov/22249931/) | 2012 | Preclinico (modello animale) | Inflammation Research | Bosentan migliora l'artrite indotta da collagene nel topo; ruolo del TNF-α nell'induzione dei geni del sistema endotelinico |
+| [18515326](https://pubmed.ncbi.nlm.nih.gov/18515326/) | 2008 | Preclinico (modello animale) | Journal of Leukocyte Biology | Le endoteline modulano la reazione infiammatoria nell'artrite da zimosan (LTB4, TNF-α, CXCL-1) |
+| [16766656](https://pubmed.ncbi.nlm.nih.gov/16766656/) | 2006 | Preclinico (non specifico per bosentan) | PNAS | L'ipernocicezione indotta da IL-15 è inibita da un antagonista duale ET-A/ET-B |
+| [24268012](https://pubmed.ncbi.nlm.nih.gov/24268012/) | 2014 | Revisione | Rheumatic Diseases Clinics of North America | Ipertensione arteriosa polmonare associata a malattie del tessuto connettivo |
+| [16218473](https://pubmed.ncbi.nlm.nih.gov/16218473/) | 2005 | Revisione | Lupus | PAH nelle malattie del tessuto connettivo, tra cui, in minor misura, l'artrite reumatoide |
+| [20054770](https://pubmed.ncbi.nlm.nih.gov/20054770/) | 2009 | Caso clinico | Kardiologia Polska | Bambina con sindrome di Eisenmenger trattata con bosentan, poi diagnosticata con artrite reumatoide giovanile; caso di doppia diagnosi |
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+Secondo i dati compilati per questo report, risultano 14 autorizzazioni, tutte relative a prodotti monocomponente a base di bosentan (tra cui Tracleer e vari generici in compresse rivestite da 62,5 mg e 125 mg). Nei dati locali non è registrato il testo dell'indicazione approvata.
+
+| N. autorizzazione | Prodotto | Forma farmaceutica | Titolare |
 |---------|------|------|-----------|
-| 035609041 | TRACLEER 56 cpr rivestite 125 mg (Janssen-Cilag) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 035609027 | TRACLEER 56 cpr rivestite 62,5 mg (Janssen-Cilag) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 043079045 | BOSENTAN 56 cpr rivestite 125 mg (Accord Healthcare) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 044876187 | BOSENTAN 56 cpr rivestite 125 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 044204093 | BOSENTAN 56x1 cpr rivestite 125 mg (Teva Italia) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 035609027 | TRACLEER 56 cpr rivestite 62,5 mg | Compresse rivestite | Janssen Cilag International N.V. |
+| 035609041 | TRACLEER 56 cpr rivestite 125 mg | Compresse rivestite | Janssen Cilag International N.V. |
+| 042590051 | BOSENTAN 56x1 cpr rivestite 62,5 mg | Compresse rivestite | Mylan SpA |
+| 043079021 | BOSENTAN 56 cpr rivestite 62,5 mg | Compresse rivestite | Accord Healthcare SLU |
+| 044204042 | BOSENTAN 56x1 cpr rivestite 62,5 mg | Compresse rivestite | Teva Italia Srl |
 
-Tutte le 14 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida.
+## Considerazioni di sicurezza
 
----
+- **Controindicazioni da approfondire (relazioni registrate nei dati compilati, non testo di scheda tecnica)**: insufficienza epatica, malattia epatica, malattia della colecisti, trombocitopenia, scompenso cardiaco congestizio, anemia, iperbilirubinemia, sindrome di Gilbert, danno epatico indotto da farmaci, edema polmonare, malattia veno-occlusiva polmonare.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni; quelle elencate sono di livello moderato, ad esempio con idrocortisone, desametasone, betametasone, triamcinolone, pioglitazone, aprepitant, metronidazolo, claritromicina, cimetidina, cisapride e vari inibitori di SGLT2 (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin).
 
-## Considerazioni sulla sicurezza
-
-- **Controindicazioni (da relazioni di malattia nel grafo di conoscenza, non dal testo del foglio illustrativo)**: insufficienza epatica, malattia epatica, danno epatico indotto da farmaci, malattia della colecisti, trombocitopenia, anemia (inclusa anemia macrocitica), insufficienza cardiaca congestizia, iperbilirubinemia (inclusa quella ereditaria e la sindrome di Gilbert), edema polmonare, malattia veno-occlusiva polmonare.
-- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle di livello moderato figurano idrocortisone, desametasone, betametasone, triamcinolone, pioglitazone, aprepitant, metronidazolo, claritromicina, cimetidina, cisapride e diversi inibitori di SGLT2 (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin) e sulfaniluree (acetoesamide, clorpropamide).
-
-Per le avvertenze complete e le controindicazioni ufficiali, consultare il foglio illustrativo.
-
----
+Per le avvertenze complete fare riferimento al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'artrite reumatoide si basa su dati preclinici nell'animale, senza studi clinici e con solo un legame indiretto attraverso l'ipertensione polmonare associata a connettivopatie. Inoltre, in Italia non esistono autorizzazioni valide, e il profilo di sicurezza (in particolare epatico ed ematologico) richiede cautela.
+La predizione ha un punteggio molto alto (0,9980), ma non esistono studi clinici né studi che valutino direttamente bosentan nell'artrite reumatoide nell'uomo; le evidenze sono limitate a modelli animali. Il profilo di sicurezza (in particolare epatico ed ematologico) richiede cautela.
 
-**Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da fonti curate
-- Testo del foglio illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
-- Evidenze cliniche umane (studi esplorativi di fase 2) sull'artrite reumatoide
-- Valutazione del rischio epatico e ematologico in questa popolazione, considerando le terapie concomitanti (ad esempio corticosteroidi)
-- Verifica dello stato regolatorio e della disponibilità commerciale in Italia
-
-**Nota su altre predizioni:** per la **sclerosi sistemica limitata** (punteggio 99,65%, livello L3) esistono revisioni sistematiche e meta-analisi su bosentan per le ulcere digitali, ma questa condizione rientra già tra le indicazioni originali, quindi non costituisce un vero riposizionamento. Le altre predizioni (sindrome brachidattilia-sindattilia, gotta, ipertricosi e altre) sono prive di studi e di una base meccanicistica, e restano in Hold.
+**Per procedere è necessario:**
+- Dati sul meccanismo d'azione dettagliato di bosentan nell'infiammazione sinoviale
+- Studi clinici esplorativi (fase 2) in pazienti con artrite reumatoide
+- Analisi della scheda tecnica AIFA (avvertenze e controindicazioni)
+- Piano di monitoraggio epatico ed ematologico per un eventuale uso in questa popolazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

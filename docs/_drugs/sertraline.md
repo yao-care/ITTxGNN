@@ -6,9 +6,9 @@ nav_order: 402
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sertraline: nuova indicazione prevista, Disturbo schizoide di personalità (livello di evidenza L5). Indicazione originale: Disturbi d'ansia, disturbo nevrotico, disturbo distimico…"
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: nuova indicazione prevista, Schizoid personality disorder (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sertraline
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Sertralina: Dal disturbo d'ansia al disturbo schizoide di personalità
+## Sertraline: Schizoid personality disorder
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede un possibile effetto sul **disturbo schizoide di person
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Disturbi d'ansia, disturbo nevrotico, disturbo distimico, disturbo da stress post-traumatico, fobia sociale, disturbo fobico, disturbo ossessivo-compulsivo (testo di indicazione AIFA non disponibile) |
-| Nuova indicazione prevista | Disturbo schizoide di personalità |
-| Punteggio di predizione TxGNN | 99,93% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Schizoid personality disorder |
+| Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -83,7 +83,7 @@ Al momento non risultano studi clinici registrati correlati a questa indicazione
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è presente nessuna valida. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali (prime 5):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali (prime 5):
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|

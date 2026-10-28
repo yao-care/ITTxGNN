@@ -6,9 +6,9 @@ nav_order: 300
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Miconazole: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Tinea pedis, tinea corporis, candidosi cutanea, tinea unguium…"
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
+description: "Miconazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Miconazole
@@ -33,7 +33,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **1**
 
 </div>
 
-## Miconazolo: dalle micosi cutanee all'acne
+## Miconazole: Acne (acne (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,12 +45,12 @@ Il modello TxGNN prevede che possa essere efficace per l'**acne**, con un punteg
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Tinea pedis, tinea corporis, candidosi cutanea, tinea unguium, pitiriasi versicolor, candidosi vulvovaginale (dalle indicazioni del grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Acne |
-| Punteggio di predizione TxGNN | 99,54% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Acne (acne (disease)) |
+| Punteggio di predizione TxGNN | 0.9954 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -80,8 +80,8 @@ Al momento non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025999121 | NIZACOL*10 cpr 500 mg (NEW RESEARCH Srl) | Non disponibile | Non disponibile (autorizzazione cancellata) |
-| 038371011 | LORAMYC*14 cpr buccali 50 mg flacone (IST.GENTILI Srl) | Non disponibile | Non disponibile (autorizzazione cancellata) |
+| 025999121 | NIZACOL*10 cpr 500 mg (NEW RESEARCH Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
+| 038371011 | LORAMYC*14 cpr buccali 50 mg flacone (IST.GENTILI Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

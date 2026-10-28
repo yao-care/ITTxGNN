@@ -4,17 +4,17 @@ title: Rizatriptan
 parent: Solo previsione del modello (L5)
 nav_order: 387
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rizatriptan: nuova indicazione prevista, Emicrania con aura del tronco encefalico (livello di evidenza L5). Indicazione originale: Emicrania (emicrania con o senza aura), da base di conoscenza TxGNN"
 monitor_inn: "RIZATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata"]
+description: "Rizatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Rizatriptan: Dall'emicrania all'emicrania con aura del tronco encefalico
+## Rizatriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura de
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Emicrania (emicrania con o senza aura), da base di conoscenza TxGNN; il testo delle indicazioni autorizzate AIFA non è disponibile |
-| Nuova indicazione prevista | Emicrania con aura del tronco encefalico |
-| Punteggio di previsione TxGNN | 99,94% |
-| Livello di evidenza | L4 (nessuno studio clinico; solo letteratura generale sull'emicrania e razionale farmacologico) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Atrophoderma vermiculata |
+| Punteggio di previsione TxGNN | 0.9919 |
+| Livello di evidenza | L5 (nessuno studio clinico; solo letteratura generale sull'emicrania e razionale farmacologico) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate, nessuna valida) |
 | Decisione raccomandata | Hold |
 
@@ -65,7 +65,7 @@ L'emicrania con aura del tronco encefalico (in passato "emicrania di tipo basila
 
 Vi è però un'importante cautela: storicamente i triptani sono sconsigliati o controindicati nell'aura del tronco encefalico e nell'emicrania emiplegica, per il timore teorico di vasocostrizione nei pazienti con sintomi del circolo posteriore. Il punteggio elevato di TxGNN riflette probabilmente la stretta vicinanza ontologica con l'indicazione già approvata, più che un'evidenza indipendente per questo sottotipo.
 
-*Nota: il secondo candidato previsto, l'atrofoderma vermicolato (punteggio 99,19%), non ha alcun razionale meccanicistico plausibile, né studi né pubblicazioni, e resta in Hold (livello L5).*
+*Nota: il secondo candidato previsto, l'atrofoderma vermicolato (punteggio 0,9919), non ha alcun razionale meccanicistico plausibile, né studi né pubblicazioni, e resta in Hold (livello L5).*
 
 ---
 
@@ -100,11 +100,11 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni appr
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034115105 | MAXALT RPD*3 orale liof 10 mg | Organon Italia Srl | Cancellata |
-| 034130106 | RIZALIV RPD*3 orale liof 10 mg | Neopharmed Gentili SpA | Cancellata |
-| 041302062 | RIZATRIPTAN*3 cpr orodisper 10 mg | Sandoz SpA | Cancellata |
-| 041302074 | RIZATRIPTAN*6 cpr orodispers 10 mg | Sandoz SpA | Cancellata |
-| 034115055 | MAXALT*6 cpr 10 mg | Organon Italia Srl | Cancellata |
+| 034115105 | MAXALT RPD*3 orale liof 10 mg | Organon Italia Srl | Valida |
+| 034130106 | RIZALIV RPD*3 orale liof 10 mg | Neopharmed Gentili SpA | Valida |
+| 041302062 | RIZATRIPTAN*3 cpr orodisper 10 mg | Sandoz SpA | Valida |
+| 041302074 | RIZATRIPTAN*6 cpr orodispers 10 mg | Sandoz SpA | Valida |
+| 034115055 | MAXALT*6 cpr 10 mg | Organon Italia Srl | Valida |
 
 ---
 

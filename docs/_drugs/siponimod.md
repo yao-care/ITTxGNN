@@ -4,17 +4,17 @@ title: Siponimod
 parent: Solo previsione del modello (L5)
 nav_order: 406
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Siponimod: nuova indicazione prevista, Ipertensione polmonare (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (la letteratura associa sipon…"
 monitor_inn: "SIPONIMOD"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
 ---
 
 # Siponimod
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **8** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ Siponimod è un modulatore selettivo dei recettori S1P1/S5 della sfingosina-1-fo
 |------|------|
 | Indicazione originale | Non disponibile nei dati AIFA compilati (la letteratura associa siponimod alla sclerosi multipla secondaria progressiva) |
 | Nuova indicazione prevista | Ipertensione polmonare |
-| Punteggio di previsione TxGNN | 99,68% |
+| Punteggio di previsione TxGNN | 0,9968 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 3 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
 
 Siponimod è un modulatore selettivo dei recettori S1P1 e S1P5. I dati di meccanismo d'azione presenti nel database sono incompleti, ma il razionale della classe è noto: la modulazione di S1P1 riduce la fuoriuscita dei linfociti dai linfonodi e attenua la neuroinflammazione.
 
-Per l'ipertensione polmonare il legame è solo teorico: la segnalazione S1P è coinvolta nel rimodellamento vascolare polmonare e nella funzione di barriera endoteliale, ma non vi sono dati specifici su siponimod. Il punteggio TxGNN è molto elevato (0,997), senza però alcuna sperimentazione clinica o pubblicazione a supporto.
+Per l'ipertensione polmonare il legame è solo teorico: la segnalazione S1P è coinvolta nel rimodellamento vascolare polmonare e nella funzione di barriera endoteliale, ma non vi sono dati specifici su siponimod. Il punteggio del modello TxGNN (deep learning) è molto elevato (0,9968) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche; non vi è alcuna sperimentazione clinica o pubblicazione a supporto.
 
 Altre previsioni ad alto punteggio, tutte con raccomandazione Hold salvo dove indicato:
 
@@ -86,9 +86,9 @@ Per l'ipertensione polmonare, l'indicazione principale, non risulta alcuna lette
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 048440073 | MAYZENT 28 cpr rivestite 1 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 048440010 | MAYZENT 12 cpr rivestite 0,25 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
-| 048440034 | MAYZENT 28 cpr rivestite 2 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione cancellata) |
+| 048440073 | MAYZENT 28 cpr rivestite 1 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 048440010 | MAYZENT 12 cpr rivestite 0,25 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+| 048440034 | MAYZENT 28 cpr rivestite 2 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni sulla sicurezza
 

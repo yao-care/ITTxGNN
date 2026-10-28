@@ -49,10 +49,10 @@ Il modello TxGNN lo prevede come potenzialmente efficace per l'**amenorrea**, co
 |------|------|
 | Indicazione originale | Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Amenorrea |
-| Punteggio di predizione TxGNN | 99,64% |
+| Punteggio di predizione TxGNN | 0,9964 |
 | Livello di evidenza | L5 (solo predizione del modello; nessuno studio clinico che valuti il farmaco per questa indicazione) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 4 (tutte revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
 Nota: la valutazione preliminare indica L4, ma le pubblicazioni recuperate non contengono studi preclinici o meccanicistici sull'amenorrea come bersaglio terapeutico. In applicazione rigorosa delle regole di livello, il caso è quindi L5.
@@ -93,10 +93,10 @@ Al momento non risultano studi clinici correlati registrati.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 026488015 | CYTOTEC*50 cpr 200 mcg (Pfizer Srl) | Non disponibile | Non disponibile (revocata) |
-| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (revocata) |
-| 029757010 | ARTROTEC*30 cpr 50 mg + 200 mcg (Pfizer Italia Srl) | Non disponibile | Non disponibile (revocata) |
-| 029757059 | ARTROTEC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (revocata) |
+| 026488015 | CYTOTEC*50 cpr 200 mcg (Pfizer Srl) | Non disponibile | Non disponibile (valida) |
+| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
+| 029757010 | ARTROTEC*30 cpr 50 mg + 200 mcg (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
+| 029757059 | ARTROTEC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
 
 ---
 
@@ -118,7 +118,7 @@ Per le avvertenze e controindicazioni ufficiali occorre consultare il foglietto 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul punteggio del modello. Non esistono studi clinici né letteratura che indichino il misoprostolo come trattamento dell'amenorrea; gli studi trovati lo usano per l'interruzione di gravidanza. Inoltre, tutte le autorizzazioni italiane sono revocate e mancano i dati di sicurezza ufficiali.
+La predizione si basa unicamente sul punteggio del modello TxGN (deep learning). Non esistono studi clinici né letteratura che indichino il misoprostolo come trattamento dell'amenorrea; gli studi trovati lo usano per l'interruzione di gravidanza. Inoltre, il farmaco è in commercio in Italia con 4 autorizzazioni valide su 4, ma mancano i dati di sicurezza ufficiali.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza.
@@ -127,7 +127,7 @@ La predizione si basa unicamente sul punteggio del modello. Non esistono studi c
 - Ricerca di letteratura o dati preclinici che colleghino il misoprostolo all'amenorrea come bersaglio terapeutico.
 - Valutare la fattibilità regolatoria, dato che il prodotto è revocato in Italia, e un piano di sicurezza per le donne in età fertile.
 
-**Nota sulla seconda predizione:** la coartazione atipica dell'aorta (punteggio TxGNN 99,30%, livello L5) non ha né studi clinici né letteratura. Un'eventuale analogia con le prostaglandine E1 nel mantenere pervio il dotto arterioso riguarda l'alprostadil, non il misoprostolo, e non costituisce evidenza. Anche per questa predizione la decisione è Hold.
+**Nota sulla seconda predizione:** la coartazione atipica dell'aorta (punteggio TxGNN 0,9930, livello L5) non ha né studi clinici né letteratura. Un'eventuale analogia con le prostaglandine E1 nel mantenere pervio il dotto arterioso riguarda l'alprostadil, non il misoprostolo, e non costituisce evidenza. Anche per questa predizione la decisione è Hold.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

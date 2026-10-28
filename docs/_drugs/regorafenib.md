@@ -6,9 +6,9 @@ nav_order: 376
 evidence_level: L2
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Carcinoma del colon-retto metastatico, carcinoma epatocellulare…"
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
+description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Regorafenib
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **8**
 
 </div>
 
-## Regorafenib: Dal carcinoma del colon-retto e GIST al liposarcoma
+## Regorafenib: Liposarcoma
 {: .text-alpha }
 
 ## Riepilogo in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN prevede che possa essere efficace per il **liposarcoma**, con *
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma del colon-retto metastatico, carcinoma epatocellulare, GIST (dal grafo di conoscenza TxGNN; il testo dell'indicazione AIFA non è disponibile) |
+| Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Liposarcoma |
-| Punteggio di predizione TxGNN | 99,76% |
+| Punteggio di predizione TxGNN | 0.9976 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -94,7 +94,7 @@ L'inibizione dell'angiogenesi e della proliferazione tumorale è plausibilmente 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 042925026 | STIVARGA 3x28 cpr rivestite 40 mg flacone (BAYER AG) | Compresse rivestite | Testo dell'indicazione non disponibile; autorizzazione cancellata |
+| 042925026 | STIVARGA 3x28 cpr rivestite 40 mg flacone (BAYER AG) | Compresse rivestite | Testo dell'indicazione non disponibile; autorizzazione valida |
 
 ---
 

@@ -4,17 +4,17 @@ title: Entecavir
 parent: Prove moderate (L3-L4)
 nav_order: 174
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (livello di evidenza L3). Indicazione originale: Infezione cronica da virus dell'epatite B (il testo dell'indicazione…"
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Entecavir
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Entecavir: Dall'epatite B cronica all'epatite C cronica
+## Entecavir: Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection)
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,12 +47,12 @@ Il modello TxGNN predice una possibile efficacia nell'**epatite C cronica**, ma 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezione cronica da virus dell'epatite B (il testo dell'indicazione approvata AIFA non è disponibile nei dati compilati) |
-| Nuova indicazione prevista | Infezione cronica da virus dell'epatite C |
-| Punteggio di predizione TxGNN | 99,98% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) |
+| Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
+| Numero di autorizzazioni | 20 (valide: 20) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -101,7 +101,6 @@ Anche il punteggio TxGNN molto elevato va letto con cautela: è probabile che ri
 | 047070014 | ENTECAVIR 30 cpr rivestite 0,5 mg (Sun Pharma Italia) | Compresse rivestite | Non disponibile |
 | 045155013 | ENTECAVIR 30 cpr rivestite 0,5 mg (Sandoz) | Compresse rivestite | Non disponibile |
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida.
 
 ---
 

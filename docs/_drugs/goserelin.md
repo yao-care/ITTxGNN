@@ -46,10 +46,10 @@ Goserelin è un agonista del GnRH, originariamente utilizzato per il trattamento
 |------|------|
 | Indicazione originale | Endometriosi (secondo gli archi di indicazione della base di conoscenza TxGNN; il testo dell'indicazione autorizzata AIFA non è disponibile) |
 | Nuova indicazione prevista | Amenorrea |
-| Punteggio di predizione TxGNN | 99,99% |
+| Punteggio di predizione TxGNN | 0,9999 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 2 (0 valide, 2 revocate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -87,8 +87,8 @@ Lo studio fornisce solo un supporto indiretto e non soddisfa i criteri di eviden
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
 |---------|------|------|-----------|
-| 026471019 | ZOLADEX 1 siringa SC 3,6 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione revocata) |
-| 026471021 | ZOLADEX 1 siringa SC 10,8 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione revocata) |
+| 026471019 | ZOLADEX 1 siringa SC 3,6 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione valida) |
+| 026471021 | ZOLADEX 1 siringa SC 10,8 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione valida) |
 
 ## Citotossicità
 

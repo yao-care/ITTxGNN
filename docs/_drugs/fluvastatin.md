@@ -4,17 +4,17 @@ title: Fluvastatin
 parent: Solo previsione del modello (L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluvastatin: nuova indicazione prevista, Ipercolesterolemia familiare (tra le 10 previsioni… (livello di evidenza L5). Indicazione originale: Aterosclerosi e disturbi arteriosclerotici"
+indication_count: 6
 monitor_inn: "Fluvastatin"
-predicted_indications: ["hyperlipoproteinemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
+predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
+last_modified_at: 2026-10-23
+description: "Fluvastatin: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Aterosclerosi…"
 ---
 
 # Fluvastatin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Fluvastatina: dall'ipercolesterolemia/aterosclerosi all'ipercolesterolemia familiare
+## Fluvastatina: dall'ipercolesterolemia/aterosclerosi all'infezione da HIV
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La fluvastatina è una statina (inibitore dell'HMG-CoA reduttasi) originariamente usata per le dislipidemie e l'aterosclerosi. Il modello TxGNN prevede che possa essere efficace per l'**ipercolesterolemia familiare** (indicazione con il supporto più solido tra quelle previste), con **1 studio clinico di fase 3 completato direttamente sul farmaco** e **oltre 20 pubblicazioni** a sostegno di questa direzione. Si tratta però di un utilizzo molto vicino a quello già noto, più che di un vero riposizionamento.
+La fluvastatina è una statina, inibitore dell'HMG-CoA reduttasi, usata per ridurre il colesterolo e il rischio cardiovascolare. Il modello TxGNN prevede un possibile interesse per l'**infezione da HIV**, ma finora non risultano **sperimentazioni cliniche registrate** e sono disponibili **13 pubblicazioni**, in gran parte focalizzate sulla gestione della dislipidemia e sulla sicurezza nei pazienti con HIV, non su un effetto sulla malattia.
 
 ---
 
@@ -46,38 +46,29 @@ La fluvastatina è una statina (inibitore dell'HMG-CoA reduttasi) originariament
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Aterosclerosi e disturbi arteriosclerotici; iperlipidemia familiare combinata (testo di indicazione AIFA non disponibile) |
-| Nuova indicazione prevista | Ipercolesterolemia familiare (tra le 10 previsioni, quella con le evidenze più solide; la prima in graduatoria è l'iperlipoproteinemia) |
-| Punteggio di predizione TxGNN | 99,89% (ipercolesterolemia familiare); 99,99% per l'iperlipoproteinemia |
-| Livello di evidenza | L1 (nota: lo studio di fase 3 completato è uno solo, quindi il livello è da considerare con cautela) |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 8 (tutte cancellate) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Indicazione originale | Aterosclerosi, disturbi arteriosclerotici e iperlipidemia familiare combinata (relazioni registrate nel grafo di conoscenza; i testi delle autorizzazioni AIFA non riportano l'indicazione) |
+| Nuova indicazione prevista | Infezione da HIV |
+| Punteggio di predizione TxGNN | 0,9988 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
+| Numero di autorizzazioni | 8 (valide: 8) |
+| Decisione raccomandata | Hold |
+
+Nota sul livello di evidenza: la letteratura riguarda pazienti con HIV (dislipidemia, interazioni con gli antiretrovirali, co-infezione HCV), ma nessuno studio indicato valuta la fluvastatina come trattamento dell'infezione da HIV in sé. Per questo il livello è L5.
 
 ---
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, la fluvastatina appartiene alla classe delle statine e inibisce l'HMG-CoA reduttasi (target HMGCR), riducendo la sintesi epatica di colesterolo e aumentando l'espressione dei recettori delle LDL.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la fluvastatina inibisce l'HMG-CoA reduttasi (gene *HMGCR*), enzima chiave della sintesi del colesterolo, e il suo uso nell'iperlipidemia è consolidato.
 
-L'ipercolesterolemia familiare eterozigote conserva recettori LDL funzionanti, quindi l'azione delle statine è meccanicisticamente appropriata. Per questo motivo l'indicazione è molto vicina a quelle originarie (iperlipidemie, aterosclerosi) e non rappresenta un riposizionamento innovativo.
-
-Altre previsioni hanno una base molto più debole: nella forma omozigote la funzione del recettore LDL è scarsa o assente, per cui l'efficacia delle statine è attesa limitata; per il deficit di CETP, i disturbi del neurosviluppo, le infezioni da SIV/FIV e il fibroma prostatico esistono solo previsioni del modello, senza studi né letteratura.
+Il collegamento con l'HIV non è antivirale. Riguarda la gestione della dislipidemia associata alla terapia antiretrovirale e un possibile effetto sull'infiammazione e sull'attivazione immunitaria. La fluvastatina è eliminata soprattutto via CYP2C9 e non principalmente via CYP3A4, quindi presenta un rischio di interazione con gli inibitori della proteasi inferiore rispetto a simvastatina o lovastatina. Dati preclinici nel modello murino di nefropatia associata all'HIV suggeriscono inoltre una protezione dei podociti. Il punteggio elevato di TxGNN è coerente con questa letteratura, ma la prova riguarda soprattutto il controllo lipidico e la sicurezza, non la modifica del decorso dell'HIV.
 
 ---
 
-## Evidenze da studi clinici
+## Evidenze da sperimentazioni cliniche
 
-Per l'ipercolesterolemia familiare:
-
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT00171236](https://clinicaltrials.gov/study/NCT00171236) | Fase 3 | Completato | 84 | Sicurezza ed efficacia della fluvastatina in bambini con ipercolesterolemia familiare eterozigote (**studio diretto sul farmaco**) |
-| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Fase 3 | Completato | 153 | Alirocumab vs placebo in bambini/adolescenti con FH eterozigote (non riguarda la fluvastatina) |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fase 3 | Completato | 18 | Alirocumab in bambini/adolescenti con FH omozigote (non riguarda la fluvastatina) |
-| [NCT01890967](https://clinicaltrials.gov/study/NCT01890967) | Fase 2 | Completato | 527 | LY3015014 (anticorpo anti-PCSK9) in ipercolesterolemia primaria (non riguarda la fluvastatina) |
-
-Solo NCT00171236 testa direttamente la fluvastatina; gli altri tre sono studi su altri farmaci e forniscono soltanto un contesto indiretto.
+Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ---
 
@@ -85,55 +76,54 @@ Solo NCT00171236 testa direttamente la fluvastatina; gli altri tre sono studi su
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | Studio clinico pediatrico | Acta Paediatr | Efficacia e sicurezza della fluvastatina in bambini e adolescenti con FH eterozigote |
-| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | Studio clinico in doppio cieco | Eur J Clin Pharmacol | Fluvastatina ad alte dosi in 52 pazienti con FH |
-| [8192170](https://pubmed.ncbi.nlm.nih.gov/8192170/) | 1994 | Studio clinico (combinazione) | Am J Med | Fluvastatina + bezafibrato vs fluvastatina + colestiramina nella FH |
-| [7604807](https://pubmed.ncbi.nlm.nih.gov/7604807/) | 1995 | Studio clinico (terapia tripla) | Am J Cardiol | Fluvastatina-bezafibrato-colestiramina nella FH grave (22 pazienti) |
-| [7604804](https://pubmed.ncbi.nlm.nih.gov/7604804/) | 1995 | Studio clinico | Am J Cardiol | Fluvastatina ad alte dosi con bezafibrato nella FH eterozigote |
-| [8198022](https://pubmed.ncbi.nlm.nih.gov/8198022/) | 1994 | Analisi di coorte | Am J Cardiol | Risposta alla terapia di combinazione con fluvastatina nella FH |
-| [7604789](https://pubmed.ncbi.nlm.nih.gov/7604789/) | 1995 | Studio clinico | Am J Cardiol | Effetti sul profilo lipidico in 31 pazienti cinesi ipercolesterolemici |
-| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | Studio randomizzato | Clin Ther | Formulazione a rilascio prolungato vs immediato nell'ipercolesterolemia primaria |
-| [16002074](https://pubmed.ncbi.nlm.nih.gov/16002074/) | 2006 | Studio genetico | Atherosclerosis | Polimorfismi CETP e MDR1 e risposta lipidica alla fluvastatina nella FH |
-| [8462179](https://pubmed.ncbi.nlm.nih.gov/8462179/) | 1993 | Studio genetico | Circulation | Determinanti genetici della risposta alla fluvastatina nella FH eterozigote |
+| [20118492](https://pubmed.ncbi.nlm.nih.gov/20118492/) | 2010 | Studio randomizzato in aperto | J Antimicrob Chemother | Fluvastatina come adiuvante di interferone pegilato e ribavirina in pazienti co-infetti HIV/HCV genotipo 1 |
+| [12351967](https://pubmed.ncbi.nlm.nih.gov/12351967/) | 2002 | Studio clinico | AIDS | Efficacia e sicurezza della fluvastatina in pazienti HIV iperlipidemici trattati con inibitori della proteasi |
+| [15293079](https://pubmed.ncbi.nlm.nih.gov/15293079/) | 2004 | Studio clinico | Infection | Confronto fluvastatina e pravastatina su lipidi e interazione con indinavir in pazienti HIV |
+| [19215577](https://pubmed.ncbi.nlm.nih.gov/19215577/) | 2009 | Studio pilota | J Viral Hepat | Effetto della fluvastatina sulla replicazione dell'HCV in pazienti co-infetti HIV-HCV |
+| [33238713](https://pubmed.ncbi.nlm.nih.gov/33238713/) | 2021 | Coorte osservazionale | AIDS Res Hum Retroviruses | Effetto delle statine su infiammazione e attivazione immunitaria in persone con HIV in terapia efficace |
+| [23703578](https://pubmed.ncbi.nlm.nih.gov/23703578/) | 2013 | Revisione | Clin Pharmacokinet | Interazioni tra statine e inibitori della proteasi antivirali |
+| [12660532](https://pubmed.ncbi.nlm.nih.gov/12660532/) | 2003 | Revisione | AIDS | Statine e fibrati per l'iperlipidemia in pazienti HIV in HAART |
+| [19188342](https://pubmed.ncbi.nlm.nih.gov/19188342/) | 2009 | Preclinico | Nephrol Dial Transplant | La fluvastatina previene il danno podocitario nel modello murino di nefropatia da HIV |
+| [19838098](https://pubmed.ncbi.nlm.nih.gov/19838098/) | 2010 | Studio randomizzato (indiretto) | AIDS | Rosuvastatina vs pravastatina in pazienti HIV con dislipidemia; non riguarda la fluvastatina |
+| [16868453](https://pubmed.ncbi.nlm.nih.gov/16868453/) | 2006 | Studio clinico (indiretto) | AIDS | Ezetimibe vs fluvastatina 80 mg nella dislipidemia HIV: riduzione LDL simile (20% vs 24%) |
 
 ---
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 029199041 | LIPAXAN 28 cpr 80 mg rilascio prolungato (Ethyx Pharmaceuticals) | Compresse a rilascio prolungato | Non disponibile (cancellata) |
-| 038581029 | Fluvastatina 28 cpr 80 mg rilascio prolungato (Teva Italia) | Compresse a rilascio prolungato | Non disponibile (cancellata) |
-| 038580027 | Fluvastatina 28 cpr 80 mg rilascio prolungato (DOC Generici) | Compresse a rilascio prolungato | Non disponibile (cancellata) |
-| 038602037 | Fluvastatina 28 cpr 80 mg rilascio prolungato (Aurobindo Pharma Italia) | Compresse a rilascio prolungato | Non disponibile (cancellata) |
-| 038582021 | Fluvastatina 28 cpr 80 mg rilascio prolungato (EG SpA) | Compresse a rilascio prolungato | Non disponibile (cancellata) |
+| 029199041 | LIPAXAN 28 cpr 80 mg a rilascio prolungato (Ethyx Pharmaceuticals) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
+| 029163033 | LESCOL 28 cpr 80 mg a rilascio prolungato (Ethyx Pharmaceuticals) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
+| 038581029 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (Teva Italia) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
+| 038580027 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (DOC Generici) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
+| 038602037 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (Aurobindo Pharma Italia) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
 
-Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5 su 8 (le altre: Zentiva, Mylan, Lescol di Ethyx).
+Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.
 
 ---
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni (da relazioni tra malattie e farmaco nella base di conoscenza, non dal foglio illustrativo)**: malattia epatica, malattia della colecisti, miopatia, malattie muscolari e dello muscolo scheletrico, paralisi periodica familiare, disturbi ipotensivi, abuso/dipendenza da sostanze, rabdomiolisi, fascite nodulare, traumi.
-- **Interazioni farmacologiche**: la ricerca è stata completata; l'unica voce rilevata è il target farmacologico (HMG-CoA reduttasi), non un'interazione con altri farmaci. Dalla letteratura si ricorda che la fluvastatina, metabolizzata soprattutto da CYP2C9, ha meno interazioni mediate da CYP3A4 con gli inibitori delle proteasi rispetto ad altre statine.
+- **Controindicazioni registrate nel grafo di conoscenza** (non provenienti dal foglietto illustrativo): malattie del fegato, malattie della colecisti, miopatia, malattie muscolari e dello muscolo scheletrico, paralisi periodica familiare, disturbi ipotensivi, abuso/dipendenza da sostanze, rabdomiolisi, fascite nodulare, traumi.
+- **Interazioni**: nei dati compilati compare solo il bersaglio farmacologico (HMG-CoA reduttasi), non interazioni con altri farmaci. In letteratura la fluvastatina ha un rischio di interazione con gli inibitori della proteasi inferiore rispetto ad altre statine, ma restano rare miopatie e rabdomiolisi come per tutta la classe.
 
-Per le avvertenze complete si rimanda al foglio illustrativo.
+Per le avvertenze complete fare riferimento al foglietto illustrativo.
 
 ---
 
 ## Conclusione e prossimi passi
 
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-Esiste uno studio di fase 3 completato con la fluvastatina in bambini con FH eterozigote, oltre a numerosi studi clinici su adulti, e il meccanismo è coerente con le indicazioni originarie. Tuttavia le prove sono datate, spesso su piccoli campioni, e tutte le autorizzazioni italiane sono cancellate; le altre previsioni (FH omozigote, deficit di CYP7A1, CETP, HIV, SIV/FIV, disturbo del neurosviluppo, fibroma prostatico) vanno mantenute in "Hold" o come domande di ricerca.
+Nessuno studio indicato valuta direttamente la fluvastatina come trattamento dell'infezione da HIV, non ci sono sperimentazioni registrate e la letteratura sostiene soprattutto il controllo lipidico e la sicurezza. Il punteggio TxGNN molto alto non è sufficiente da solo. Le altre predizioni (deficit di CETP, disturbo del neurosviluppo raro, infezioni da lentivirus animali SIV/FIV, fibroma della prostata) non hanno evidenze né un legame meccanicistico plausibile.
 
 **Per procedere sono necessari:**
-- Verificare la disponibilità effettiva del prodotto in Italia (tutte le autorizzazioni cancellate)
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
-- Dati sul meccanismo d'azione da DrugBank
-- Limitare le conclusioni alla forma eterozigote; valutare confronti con le statine più recenti
-- Monitoraggio di funzione epatica e di eventuali sintomi muscolari (rischio di miopatia/rabdomiolisi)
+- Dati sul meccanismo d'azione (MOA) da DrugBank
+- Avvertenze e controindicazioni dal foglietto illustrativo AIFA (bloccante per lo screening di sicurezza)
+- Studi clinici controllati che valutino endpoint specifici dell'HIV (infiammazione, attivazione immunitaria, eventi cardiovascolari)
+- Definizione chiara dell'obiettivo: gestione della dislipidemia nei pazienti HIV (già coperta dall'indicazione lipidica) oppure modifica della malattia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

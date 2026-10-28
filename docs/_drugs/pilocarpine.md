@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Pilocarpine
-parent: Solo previsione del modello (L5)
+parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 350
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Pilocarpine: nuova indicazione prevista, Glaucoma ereditario primario (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Pilocarpine: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
+predicted_indications: []
 ---
 
 # Pilocarpine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **1** 
+Livello di evidenza: **N/A** | Indicazioni previste: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,62 +32,46 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Pilocarpina: dal glaucoma ad angolo aperto al glaucoma ereditario primario
+<!-- known-uses-page -->
+<!-- description: Pilocarpine: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata -->
+## Pilocarpine: usi noti e stato di mercato in Italia
 {: .text-alpha }
 
-## Sintesi in una frase
-
-La pilocarpina è un agonista dei recettori muscarinici, usato in origine per il trattamento del glaucoma ad angolo aperto e dell'ipertensione oculare.
-Il modello TxGNN ne prevede una possibile efficacia nel **glaucoma ereditario primario**, ma al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: si tratta di una previsione basata solo sul modello.
-
----
+## Riepilogo
+Tutti i candidati prodotti dal modello TxGNN per Pilocarpine (punteggio ≥ 0,99) che possono essere ricondotti a una fonte corrispondono a usi già noti. Al momento non c'è quindi alcuna nuova indicazione predetta per questo farmaco.
 
 ## Panoramica rapida
-
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Glaucoma ad angolo aperto, ipertensione oculare (dal grafo di conoscenza TxGNN; i dati sulle autorizzazioni AIFA non riportano il testo dell'indicazione) |
-| Nuova indicazione prevista | Glaucoma ereditario primario |
-| Punteggio di previsione TxGNN | 99,83% |
-| Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 2 (0 valide, 2 cancellate) |
-| Decisione raccomandata | Hold |
+| Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
+| Usi noti tra i candidati del modello | 1 |
+| Livello di evidenza | Non applicabile |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 
----
+## Usi noti tra i candidati del modello
 
-## Perché questa previsione è plausibile?
+### Approvati (supportati da un'autorizzazione o dal foglio illustrativo)
+| Indicazione | Fonte |
+|------|------|
+| glaucoma ereditario primario (primary hereditary glaucoma) | autorizzazione in un altro paese; indicazione approvata: glaucoma |
 
-Nei dati compilati per questo report il meccanismo d'azione ufficiale non è disponibile. Secondo i dati farmacologici, la pilocarpina si lega ai recettori muscarinici M1, M2, M3, M4 e M5. Sulla base della farmacologia generale, l'azione sul recettore M3 provoca la contrazione del muscolo ciliare e aumenta il deflusso attraverso la trabecolatura, riducendo la pressione intraoculare. Questa interpretazione deriva da conoscenze generali e non dai dati forniti.
+### Correlati a un'indicazione approvata (stessa categoria di malattia)
+| Indicazione | Categoria approvata |
+|------|------|
+| nessuna | nessuna |
 
-L'indicazione prevista è molto vicina a quelle già note (glaucoma ad angolo aperto, ipertensione oculare). Potrebbe quindi trattarsi di un sottotipo della stessa famiglia di patologie e non di una vera opportunità di riposizionamento. Meccanicamente, l'effetto sul deflusso potrebbe essere rilevante nelle forme ereditarie con ostruzione del deflusso.
-
-Va tuttavia considerato che l'efficacia nelle forme ereditarie primarie (ad esempio congenite o giovanili, associate a MYOC/CYP1B1) non è verificata. Nelle forme pediatriche o con disgenesia dell'angolo, i miotici potrebbero essere meno efficaci.
-
----
-
-## Evidenze da studi clinici
-
-Attualmente non risultano studi clinici correlati registrati.
-
----
-
-## Evidenze dalla letteratura
-
-Attualmente non risulta letteratura correlata disponibile.
-
----
+### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+| Indicazione |
+|------|
+| nessuna |
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029526047 (cancellata) | SALAGEN*6x14 cpr rivestite 5 mg | Compresse rivestite | Non riportata |
-| 004897017 (cancellata) | DROPILTON*collirio 10 ml 2% | Collirio | Non riportata |
-
-Entrambe le autorizzazioni risultano cancellate; non vi sono prodotti attualmente validi in Italia.
-
----
+| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+|------|------|------|------|
+| 029526047 | Pilocarpina |  | Valida |
+| 004897017 | Pilocarpina |  | Valida |
 
 ## Considerazioni di sicurezza
 
@@ -101,19 +86,6 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 
 ---
 
-## Conclusione e prossimi passi
-
-**Decisione: Hold**
-
-**Motivazione:**
-La previsione ha un punteggio molto alto, ma è fondata solo sul modello (livello L5), senza studi clinici né letteratura. L'indicazione è inoltre molto vicina a quella già nota e l'efficacia nelle forme ereditarie, specie pediatriche, è incerta. Entrambe le autorizzazioni italiane sono cancellate.
-
-**Per procedere è necessario:**
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
-- Ottenere i dati ufficiali sul meccanismo d'azione (ad esempio da DrugBank)
-- Condurre una ricerca sistematica di letteratura e studi sull'uso della pilocarpina nel glaucoma ereditario (congenito/giovanile)
-- Chiarire se la previsione costituisca un reale riposizionamento o un sottotipo dell'indicazione già nota
-- Valutare la disponibilità di formulazioni oftalmiche in Italia, dato che le autorizzazioni attuali sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

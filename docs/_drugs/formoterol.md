@@ -4,17 +4,17 @@ title: Formoterol
 parent: Solo previsione del modello (L5)
 nav_order: 212
 evidence_level: L5
-indication_count: 6
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Formoterol: nuova indicazione prevista, Malformazione respiratoria (livello di evidenza L5). Indicazione originale: Enfisema polmonare, asma intrinseca…"
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "bronchitis", "Rienhoff syndrome"]
+description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Formoterol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Formoterolo: Da asma ed enfisema polmonare a malformazione respiratoria
+## Formoterol: Respiratory malformation
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -47,11 +47,11 @@ Il modello TxGNN lo indica come potenzialmente efficace per la **malformazione r
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Enfisema polmonare, asma intrinseca, asma allergica (dalle relazioni del grafo di conoscenza; i testi di indicazione delle autorizzazioni AIFA non sono disponibili) |
-| Nuova indicazione predetta | Malformazione respiratoria |
-| Punteggio di predizione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione predetta | Respiratory malformation |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate) |
 | Decisione raccomandata | Hold |
 
@@ -61,7 +61,7 @@ Il modello TxGNN lo indica come potenzialmente efficace per la **malformazione r
 
 I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In base alle informazioni note, il formoterolo è un β2-agonista a lunga durata d'azione, la cui efficacia nell'asma e nell'enfisema è consolidata. Rilassa la muscolatura liscia bronchiale e ne consegue una broncodilatazione prolungata.
 
-Dal punto di vista meccanicistico, però, **non emerge un legame chiaro** con la malformazione respiratoria. Le malformazioni strutturali congenite delle vie aeree non sono affrontabili con la sola broncodilatazione. L'elevato punteggio TxGNN (0,999) riflette più probabilmente la vicinanza nel grafo di conoscenza alle malattie respiratorie che una vera relazione terapeutica.
+Dal punto di vista meccanicistico, però, **non emerge un legame chiaro** con la malformazione respiratoria. Le malformazioni strutturali congenite delle vie aeree non sono affrontabili con la sola broncodilatazione. L'elevato punteggio TxGNN (0,9992) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non un'evidenza biologica.
 
 ---
 
@@ -95,11 +95,11 @@ Tutte le 20 autorizzazioni risultano cancellate. Di seguito le 5 principali:
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|------|
-| 037316066 | Formoterolo Viatris Novolizer, polvere per inalazione 60 dosi 12 mcg | Viatris Healthcare Limited | Cancellata |
-| 035791058 | Atimos, soluzione per inalazione 100 erogazioni 12 mcg | Chiesi Farmaceutici SpA | Cancellata |
-| 027660075 | Foradil, polvere per inalazione 60 capsule 12 mcg | Sandoz SpA | Cancellata |
-| 033312012 | Oxis Turbohaler 4,5, polvere per inalazione 60 dosi | AstraZeneca SpA | Cancellata |
-| 037798016 | Inuver, soluzione per inalazione 120 erogazioni 100 mcg + 6 mcg (con beclometasone) | Chiesi Farmaceutici SpA | Cancellata |
+| 037316066 | Formoterolo Viatris Novolizer, polvere per inalazione 60 dosi 12 mcg | Viatris Healthcare Limited | Valida |
+| 035791058 | Atimos, soluzione per inalazione 100 erogazioni 12 mcg | Chiesi Farmaceutici SpA | Valida |
+| 027660075 | Foradil, polvere per inalazione 60 capsule 12 mcg | Sandoz SpA | Valida |
+| 033312012 | Oxis Turbohaler 4,5, polvere per inalazione 60 dosi | AstraZeneca SpA | Valida |
+| 037798016 | Inuver, soluzione per inalazione 120 erogazioni 100 mcg + 6 mcg (con beclometasone) | Chiesi Farmaceutici SpA | Valida |
 
 ---
 

@@ -4,17 +4,17 @@ title: Trandolapril
 parent: Solo previsione del modello (L5)
 nav_order: 446
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Trandolapril: nuova indicazione prevista, Ipertensione renovascolare maligna (livello di evidenza L5). Indicazione originale: Ipertensione arteriosa (dalla base di conoscenza TxGNN"
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "TRANDOLAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Trandolapril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Trandolapril
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **6**
 
 </div>
 
-## Trandolapril: Dall'ipertensione alla malattia renale ipertensiva maligna e all'ipertensione renovascolare maligna
+## Trandolapril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## Sintesi
 
-Trandolapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), originariamente impiegato nel trattamento dell'ipertensione arteriosa. Il modello TxGNN prevede un possibile effetto su **ipertensione renovascolare maligna** (punteggio 99,92%), ma per questa indicazione nei dati compilati per questo report non risultano **né studi clinici né pubblicazioni**. Il supporto è quindi solo di tipo predittivo.
+Trandolapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), originariamente impiegato nel trattamento dell'ipertensione arteriosa. Il modello TxGNN prevede un possibile effetto su **ipertensione renovascolare maligna** (punteggio 0,9992), ma per questa indicazione nei dati compilati per questo report non risultano **né studi clinici né pubblicazioni**. Il supporto è quindi solo di tipo predittivo.
 
 ---
 
@@ -46,12 +46,12 @@ Trandolapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE),
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Ipertensione arteriosa (dalla base di conoscenza TxGNN; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Ipertensione renovascolare maligna |
-| Punteggio di predizione TxGNN | 99,92% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malignant hypertensive renal disease |
+| Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -64,10 +64,10 @@ Va però sottolineato che questa indicazione è molto vicina a quella originale 
 
 Altre predizioni nella stessa lista:
 
-- **Malattia renale ipertensiva maligna** (99,92%): il blocco del sistema renina-angiotensina potrebbe ridurre la pressione intraglomerulare e rallentare il danno renale. È un'estensione naturale dell'indicazione originale, senza studi a supporto.
-- **Ipertensione polmonare** (multifattoriale e da malattia polmonare/ipossia, 99,92%): il legame con il rimodellamento vascolare polmonare è debole e gli ACE-inibitori non sono una terapia consolidata; la vasodilatazione sistemica può causare ipotensione.
-- **Sindrome di Braddock** (99,88%): non emerge una chiara base meccanicistica; il punteggio riflette probabilmente associazioni di rete.
-- **Cuore polmonare cronico** (99,19%): esiste un solo studio preclinico sul ratto, indiretto.
+- **Malattia renale ipertensiva maligna** (0.9992): il blocco del sistema renina-angiotensina potrebbe ridurre la pressione intraglomerulare e rallentare il danno renale. È un'estensione naturale dell'indicazione originale, senza studi a supporto.
+- **Ipertensione polmonare** (multifattoriale e da malattia polmonare/ipossia, 0.9992): il legame con il rimodellamento vascolare polmonare è debole e gli ACE-inibitori non sono una terapia consolidata; la vasodilatazione sistemica può causare ipotensione.
+- **Sindrome di Braddock** (0,9988): non emerge una chiara base meccanicistica; il punteggio riflette probabilmente associazioni di rete.
+- **Cuore polmonare cronico** (0.9919): esiste un solo studio preclinico sul ratto, indiretto.
 
 ---
 
@@ -96,7 +96,7 @@ Per l'indicazione principale (ipertensione renovascolare maligna) non sono dispo
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 038260105 | TRANDOLAPRIL*14 cps 2 mg (MYLAN SpA) | Non indicata | Non indicata (autorizzazione cancellata) |
+| 038260105 | TRANDOLAPRIL*14 cps 2 mg (MYLAN SpA) | Non indicata | Non indicata (autorizzazione valida) |
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 239
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Insulin Aspart: nuova indicazione prevista, Diabete mellito di tipo 1 (livello di evidenza L1). Indicazione originale: Diabete mellito"
 monitor_inn: "insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
+description: "Insulin Aspart: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Insulina aspart: dal diabete mellito al diabete mellito di tipo 1
+## Insulin Aspart: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Riepilogo in breve
@@ -44,12 +44,12 @@ L'insulina aspart è un analogo dell'insulina ad azione rapida, utilizzato origi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Diabete mellito; chetoacidosi diabetica (da grafo di conoscenza; il testo autorizzativo AIFA non è disponibile) |
-| Nuova indicazione prevista | Diabete mellito di tipo 1 |
-| Punteggio di predizione TxGNN | 99,95% |
-| Livello di evidenza | L1 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 9 (tutte cancellate) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Autoimmune oophoritis |
+| Punteggio di predizione TxGNN | 0.9992 |
+| Livello di evidenza | L5 |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è plausibile?
@@ -102,11 +102,11 @@ Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione appr
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 035563079 | NOVOMIX 30 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Cancellata |
-| 045249051 | FIASP flextouch 5 penne 100 U/ml 3 ml | Novo Nordisk A/S | Cancellata |
-| 035563194 | NOVOMIX 70 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Cancellata |
-| 045249101 | FIASP penfill 5 cartucce 100 U/ml 3 ml | Novo Nordisk A/S | Cancellata |
-| 048857027 | INSULINA ASPART 5 penne preriempite SC 3 ml 100 U/ml | Sanofi-Aventis Groupe | Cancellata |
+| 035563079 | NOVOMIX 30 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Valida |
+| 045249051 | FIASP flextouch 5 penne 100 U/ml 3 ml | Novo Nordisk A/S | Valida |
+| 035563194 | NOVOMIX 70 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Valida |
+| 045249101 | FIASP penfill 5 cartucce 100 U/ml 3 ml | Novo Nordisk A/S | Valida |
+| 048857027 | INSULINA ASPART 5 penne preriempite SC 3 ml 100 U/ml | Sanofi-Aventis Groupe | Valida |
 
 ## Considerazioni sulla sicurezza
 

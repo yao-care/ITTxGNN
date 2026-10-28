@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 ## Sintesi in una frase
 
-Il mometasone è un corticosteroide (utilizzato per via cutanea e inalatoria) impiegato in ambito allergico e infiammatorio. Il modello TxGNN lo indica come potenzialmente utile per il **linfoma cutaneo primitivo a cellule T**, con un punteggio molto alto (99,36%), ma attualmente **nessuna sperimentazione clinica** e **solo 2 pubblicazioni (casi clinici, non dimostrative di efficacia)** sostengono questa direzione.
+Il mometasone è un corticosteroide (utilizzato per via cutanea e inalatoria) impiegato in ambito allergico e infiammatorio. Il modello TxGNN lo indica come potenzialmente utile per il **linfoma cutaneo primitivo a cellule T**, con un punteggio molto alto (0,9936), ma attualmente **nessuna sperimentazione clinica** e **solo 2 pubblicazioni (casi clinici, non dimostrative di efficacia)** sostengono questa direzione.
 
 ## Panoramica rapida
 
@@ -46,10 +46,10 @@ Il mometasone è un corticosteroide (utilizzato per via cutanea e inalatoria) im
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle autorizzazioni AIFA sono vuoti) |
 | Nuova indicazione prevista | Linfoma cutaneo primitivo a cellule T |
-| Punteggio di predizione TxGNN | 99,36% |
+| Punteggio di predizione TxGNN | 0,9936 |
 | Livello di evidenza | L5 (solo predizione del modello; la letteratura disponibile consiste in due casi clinici non specifici per il mometasone) |
-| Stato di mercato in Italia | Solo autorizzazioni annullate |
-| Numero di autorizzazioni | 7 (tutte annullate) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
+| Numero di autorizzazioni | 7 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
@@ -77,11 +77,11 @@ Nessuna delle due pubblicazioni dimostra l'efficacia del mometasone nel linfoma 
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 043604038 | OVIXAN crema derm 100 g 1 mg/g (annullata) | Crema | Non disponibile |
-| 043604026 | OVIXAN crema derm 30 g 1 mg/g (annullata) | Crema | Non disponibile |
-| 043699014 | OVISON soluz. cut. 30 ml 1 mg/g (annullata) | Soluzione cutanea | Non disponibile |
-| 036685042 | ASMANEX polv. inal. 30 dosi 400 mcg (annullata) | Polvere per inalazione | Non disponibile |
-| 036685028 | ASMANEX polv. inal. 60 dosi 200 mcg (annullata) | Polvere per inalazione | Non disponibile |
+| 043604038 | OVIXAN crema derm 100 g 1 mg/g (valida) | Crema | Non disponibile |
+| 043604026 | OVIXAN crema derm 30 g 1 mg/g (valida) | Crema | Non disponibile |
+| 043699014 | OVISON soluz. cut. 30 ml 1 mg/g (valida) | Soluzione cutanea | Non disponibile |
+| 036685042 | ASMANEX polv. inal. 30 dosi 400 mcg (valida) | Polvere per inalazione | Non disponibile |
+| 036685028 | ASMANEX polv. inal. 60 dosi 200 mcg (valida) | Polvere per inalazione | Non disponibile |
 
 Sono presenti in totale 7 autorizzazioni, tutte annullate; qui sono elencate le prime 5. Le forme farmaceutiche sono dedotte dal nome del prodotto.
 

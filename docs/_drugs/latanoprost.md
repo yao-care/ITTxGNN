@@ -4,17 +4,17 @@ title: Latanoprost
 parent: Solo previsione del modello (L5)
 nav_order: 258
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Latanoprost: nuova indicazione prevista, Glaucoma ereditario primario (primary hereditary glaucoma) (livello di evidenza L5). Indicazione originale: Glaucoma ad angolo aperto"
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+description: "Latanoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Latanoprost: dal glaucoma ad angolo aperto all'ipertensione oculare, verso il glaucoma ereditario primario
+## Latanoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## Sintesi in una frase
 
 Latanoprost è un analogo della prostaglandina F2-alfa, originariamente utilizzato per il **glaucoma ad angolo aperto** e l'**ipertensione oculare**.
-Il modello TxGNN ne predice una possibile efficacia nel **glaucoma ereditario primario**, ma nei dati compilati per questo report non risulta **nessuno studio clinico** né **alcuna pubblicazione** a sostegno di tale indicazione.
 
 ---
 
@@ -47,11 +46,11 @@ Il modello TxGNN ne predice una possibile efficacia nel **glaucoma ereditario pr
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Glaucoma ad angolo aperto; ipertensione oculare (da grafo di conoscenza; il testo autorizzato AIFA non è disponibile) |
-| Nuova indicazione prevista | Glaucoma ereditario primario (primary hereditary glaucoma) |
-| Punteggio di predizione TxGNN | 99,88% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Visceral calciphylaxis |
+| Punteggio di predizione TxGNN | 0.9983 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
 | Decisione raccomandata | Hold |
 
@@ -81,15 +80,15 @@ Al momento non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; nessuna è attualmente valida. Il testo dell'indicazione autorizzata e la forma farmaceutica non sono presenti nei dati. Tutti i prodotti sono colliri. Di seguito le principali 5:
+Il testo dell'indicazione autorizzata e la forma farmaceutica non sono presenti nei dati. Tutti i prodotti sono colliri. Di seguito le principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 045967015 | Lastafry collirio 2,5 ml 50 mcg/ml | DOC Generici Srl | Cancellata |
-| 039468018 | Latanoprost collirio 2,5 ml 50 mcg/ml | Teva B.V. | Cancellata |
-| 041429061 | Monoprost collirio 50 mcg/ml 6 ml | Laboratoires Théa | Cancellata |
-| 039983010 | Latanoprost collirio 2,5 ml 50 mcg/ml | Mylan SpA | Cancellata |
-| 033219015 | Xalatan collirio 2,5 ml 50 mcg/ml | Viatris Pharma Srl | Cancellata |
+| 045967015 | Lastafry collirio 2,5 ml 50 mcg/ml | DOC Generici Srl | Valida |
+| 039468018 | Latanoprost collirio 2,5 ml 50 mcg/ml | Teva B.V. | Valida |
+| 041429061 | Monoprost collirio 50 mcg/ml 6 ml | Laboratoires Théa | Valida |
+| 039983010 | Latanoprost collirio 2,5 ml 50 mcg/ml | Mylan SpA | Valida |
+| 033219015 | Xalatan collirio 2,5 ml 50 mcg/ml | Viatris Pharma Srl | Valida |
 
 ---
 

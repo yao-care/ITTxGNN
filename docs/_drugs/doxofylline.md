@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Doxofylline: nuova indicazione prevista, Sindrome di Pierre Robin associata ad anomalia cromosomica (livello di evidenza L5). Indicazione originale: Non disponibile nei dati di autorizzazione AIFA (t…"
 monitor_inn: "doxofylline"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
+last_modified_at: 2026-10-27
+description: "Doxofylline: nuova indicazione prevista, Sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly) (livello di evidenza L5). Indicazione…"
 ---
 
 # Doxofylline
@@ -33,69 +33,66 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Doxofillina: dalla broncopneumopatia alla sindrome di Pierre Robin associata ad anomalia cromosomica
+## Doxofillina: xantina broncodilatatrice → Sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-La doxofillina è un derivato delle metilxantine, usato come broncodilatatore con attività antinfiammatoria nelle malattie respiratorie ostruttive (asma e BPCO, secondo la letteratura compilata per questo report). Il modello TxGNN la indica come possibile candidata per la **sindrome di Pierre Robin associata ad anomalia cromosomica**, ma per questa previsione **non esistono studi clinici né pubblicazioni** a supporto: si tratta di una previsione puramente computazionale.
+La doxofillina è un derivato metilxantinico con azione broncodilatatrice e antinfiammatoria. Il modello TxGNN la indica come possibile candidata per la **sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly)**, ma per questa indicazione **non risultano sperimentazioni cliniche né pubblicazioni** che la sostengano: la previsione è puramente computazionale.
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati di autorizzazione AIFA (testi delle indicazioni vuoti); in letteratura il farmaco è usato per asma e BPCO |
-| Nuova indicazione prevista | Sindrome di Pierre Robin associata ad anomalia cromosomica |
-| Punteggio di previsione TxGNN | 99,54% |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly) |
+| Punteggio di previsione TxGNN | 0,9954 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate/cancellate |
-| Numero di autorizzazioni | 5 (tutte cancellate) |
-| Decisione raccomandata | Hold |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 5) |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione è (poco) ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nelle fonti compilate. Dalla letteratura, la doxofillina è una xantina che inibisce l'attività delle fosfodiesterasi e ha affinità ridotta per i recettori adenosinici A1 e A2, il che spiega il suo miglior profilo di sicurezza rispetto alla teofillina, in particolare a livello cardiovascolare.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze note, la doxofillina è una xantina che agisce inibendo le fosfodiesterasi, con affinità ridotta per i recettori dell'adenosina A1 e A2; ciò spiega il suo miglior profilo di sicurezza rispetto alla teofillina.
 
-Non emerge un legame meccanicistico plausibile con la sindrome di Pierre Robin. Questa è un'anomalia dello sviluppo cranio-facciale (micrognazia, glossoptosi, eventuale palatoschisi) con origine cromosomica/genetica, mentre la doxofillina agisce come broncodilatatore e antinfiammatorio. Il punteggio elevato sembra un artefatto della previsione basata sul grafo di conoscenza, privo di supporto clinico o bibliografico. Un eventuale beneficio potrebbe al massimo essere sintomatico a livello respiratorio, ma anche questo non è documentato.
+La sindrome di Pierre Robin associata ad anomalia cromosomica è invece un difetto dello sviluppo cranio-facciale di origine genetica. Non è identificabile un legame meccanicistico plausibile: un broncodilatatore con effetto antinfiammatorio non agisce sulla base genetica o strutturale della malattia. Il punteggio elevato sembra un artefatto della previsione basata su modello, privo di supporto clinico o bibliografico.
 
-Anche le altre previsioni ad alto punteggio (sindrome di Laubry-Pezzi, sindrome di Jeune, labiopalatoschisi sindromica, delezioni cromosomiche, malattia valvolare polmonare) risultano senza legame meccanicistico plausibile e senza evidenze. Per il disturbo della sintesi dei fucoglicani le 17 pubblicazioni associate riguardano asma/BPCO e non il disturbo in questione. Per "malattia cardiaca" le evidenze sono indirette e riguardano soprattutto la sicurezza cardiaca, non l'efficacia.
+## Evidenze da sperimentazioni cliniche
 
-## Evidenze da studi clinici
-
-Attualmente non risulta alcuno studio clinico registrato correlato.
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ## Evidenze dalla letteratura
 
-Attualmente non è disponibile letteratura correlata a questa indicazione.
+Al momento non risulta letteratura correlata disponibile per questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+Le autorizzazioni registrate riguardano prodotti a base di doxofillina del titolare ABC FARMACEUTICI SpA (compresse, sciroppo, fiale endovenose); il testo dell'indicazione approvata non è riportato nei dati locali.
+
+| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 025474014 | ANSIMAR*20 cpr 400 mg | Compresse | Non riportata (autorizzazione cancellata) |
-| 033887047 | DOXOVENT*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non riportata (autorizzazione cancellata) |
-| 025474040 | ANSIMAR*3 fiale EV 100 mg 10 ml | Fiale endovenose | Non riportata (autorizzazione cancellata) |
-| 033876044 | DOXOFILLINA*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non riportata (autorizzazione cancellata) |
-| 025474065 | ANSIMAR*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non riportata (autorizzazione cancellata) |
+| 025474014 | ANSIMAR*20 cpr 400 mg | Compresse | Non registrata nei dati locali |
+| 033887047 | DOXOVENT*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
+| 025474040 | ANSIMAR*3 fiale EV 100 mg 10 ml | Fiale endovenose | Non registrata nei dati locali |
+| 033876044 | DOXOFILLINA*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
+| 025474065 | ANSIMAR*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
 
-Tutte le autorizzazioni sono intestate ad ABC Farmaceutici SpA e risultano cancellate.
+## Considerazioni di sicurezza
 
-## Considerazioni sulla sicurezza
-
-Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non risultano interazioni farmacologiche registrate.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati per questo report non risultano interazioni farmacologiche registrate.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio TxGNN elevato ma livello di evidenza L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile con una malformazione cranio-facciale di origine cromosomica. Inoltre, in Italia tutte le autorizzazioni della doxofillina risultano cancellate.
+La previsione non ha alcun supporto da sperimentazioni cliniche o pubblicazioni e non esiste un legame meccanicistico plausibile con una malattia cranio-facciale di origine cromosomica. Il livello di evidenza è L5.
 
-**Per procedere sarebbe necessario:**
-- Ottenere le avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
-- Reperire i dati sul meccanismo d'azione da DrugBank
-- Valutare se esista una base biologica per qualsiasi indicazione tra quelle previste, prima di investire in ulteriori studi
-- Chiarire le indicazioni originali e la fattibilità regolatoria, dato lo stato di autorizzazioni cancellate
+**Per procedere, sarebbe necessario:**
+- Un razionale biologico plausibile che colleghi la doxofillina alla patogenesi della malattia
+- Dati preclinici o clinici che studino direttamente questa indicazione
+- Dati sul meccanismo d'azione e sulla sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

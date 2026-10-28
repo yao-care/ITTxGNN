@@ -39,7 +39,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 ## Sintesi in una frase
 
 L'oxacillina è una penicillina resistente alle penicillinasi, utilizzata originariamente per le infezioni da *Staphylococcus aureus* e altre infezioni stafilococciche (faringite, polmonite stafilococcica, sinusite).
-Il modello TxGNN prevede che possa essere efficace per l'**epiglottite**, con un punteggio molto alto (99,90%), ma finora **non sono disponibili studi clinici né pubblicazioni** a sostegno di questa indicazione specifica.
+Il modello TxGNN prevede che possa essere efficace per l'**epiglottite**, con un punteggio molto alto (0,9990), ma finora **non sono disponibili studi clinici né pubblicazioni** a sostegno di questa indicazione specifica.
 Si tratta quindi di una previsione puramente computazionale.
 
 ---
@@ -50,10 +50,10 @@ Si tratta quindi di una previsione puramente computazionale.
 |------|------|
 | Indicazione originale | Infezioni da *Staphylococcus aureus* e infezioni stafilococciche (faringite, polmonite stafilococcica, sinusite); il testo dell'indicazione approvata AIFA non è disponibile |
 | Nuova indicazione prevista | Epiglottite |
-| Punteggio di previsione TxGNN | 99,90% |
+| Punteggio di previsione TxGNN | 0,9990 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Solo autorizzazioni revocate |
-| Numero di autorizzazioni | 1 (revocata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -62,7 +62,7 @@ Si tratta quindi di una previsione puramente computazionale.
 
 I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. L'oxacillina è una beta-lattamina resistente alle penicillinasi: inibisce la sintesi della parete cellulare batterica legandosi alle proteine leganti le penicilline (PBP). La sua efficacia nelle infezioni da stafilococco sensibile alla meticillina è consolidata.
 
-L'epiglottite è un'infezione batterica della regione sopraglottica. La causa classica è *Haemophilus influenzae* di tipo b, ma possono essere coinvolti anche *S. aureus* e gli streptococchi. Il punteggio elevato del modello riflette probabilmente la vicinanza, nel grafo di conoscenza, alle indicazioni già note di faringite e infezione stafilococcica.
+L'epiglottite è un'infezione batterica della regione sopraglottica. La causa classica è *Haemophilus influenzae* di tipo b, ma possono essere coinvolti anche *S. aureus* e gli streptococchi. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze che il modello ha appreso tra malattie correlate, non evidenze biologiche.
 
 Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata). La rilevanza pratica di questa previsione è quindi limitata.
 
@@ -70,9 +70,9 @@ Per completezza, le altre previsioni del modello sono:
 
 | Posizione | Indicazione prevista | Punteggio | Evidenza | Note |
 |------|------|------|------|------|
-| 2 | Laringite | 99,73% | L5 | Spesso virale e autolimitante; razionale debole |
-| 3 | Artrite batterica | 99,50% | L4 | *S. aureus* è la prima causa; estensione dell'indicazione stafilococcica esistente |
-| 4 | Infezione delle vie urinarie | 99,03% | L4 | Gli uropatogeni dominanti sono Gram-negativi, non coperti dall'oxacillina |
+| 2 | Laringite | 0,9973 | L5 | Spesso virale e autolimitante; razionale debole |
+| 3 | Artrite batterica | 0,9950 | L5 | *S. aureus* è la prima causa; estensione dell'indicazione stafilococcica esistente |
+| 4 | Infezione delle vie urinarie | 0,9903 | L4 | Gli uropatogeni dominanti sono Gram-negativi, non coperti dall'oxacillina |
 
 ---
 
@@ -94,7 +94,7 @@ A titolo informativo, per la seconda previsione per evidenza (artrite batterica)
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 020711065 | PENSTAPHO*1 fiala IM EV 1 g + 1 fiala solv (LABORATOIRES DELBERT) | Non specificata (fiala per uso IM/EV con solvente) | Non disponibile; autorizzazione revocata |
+| 020711065 | PENSTAPHO*1 fiala IM EV 1 g + 1 fiala solv (LABORATOIRES DELBERT) | Non specificata (fiala per uso IM/EV con solvente) | Non disponibile; autorizzazione valida |
 
 ---
 

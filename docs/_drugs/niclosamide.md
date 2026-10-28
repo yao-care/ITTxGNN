@@ -46,10 +46,10 @@ Niclosamide è un antielmintico, la cui unica autorizzazione italiana censita (Y
 |------|------|
 | Indicazione originale | Non disponibile nei dati compilati (il testo dell'indicazione della licenza è vuoto; il farmaco è noto come antielmintico) |
 | Nuova indicazione predetta | Malattia cardiaca (heart disease) |
-| Punteggio di predizione TxGNN | 99,88% |
+| Punteggio di predizione TxGNN | 0,9988 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | Solo autorizzazioni cancellate |
-| Numero di autorizzazioni | 1 (cancellata) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione può essere ragionevole?
@@ -86,7 +86,7 @@ Al momento non risulta alcuna sperimentazione clinica registrata correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 018725010 | YOMESAN*4 cpr mast 500 mg (BAYER AG) | Compresse masticabili | Non disponibile (autorizzazione cancellata) |
+| 018725010 | YOMESAN*4 cpr mast 500 mg (BAYER AG) | Compresse masticabili | Non disponibile (autorizzazione valida) |
 
 ## Considerazioni di sicurezza
 
