@@ -5,7 +5,7 @@ layout: default
 title: Alogliptin
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 34
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Indicazione Originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
 | Stato del Mercato Taiwanese | ✗ Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni | 3 (valide: 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 
 ---
 

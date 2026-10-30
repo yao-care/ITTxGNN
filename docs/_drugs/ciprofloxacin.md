@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
@@ -48,7 +48,7 @@ La ciprofloxacina è un antibiotico fluorochinolonico. Il modello TxGNN prevede 
 | Nuova indicazione prevista | Sclerodermia diffusa (diffuse scleroderma) |
 | Punteggio di predizione TxGNN | 0,9987 |
 | Livello di evidenza | L5 |
-| Stato sul mercato italiano | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

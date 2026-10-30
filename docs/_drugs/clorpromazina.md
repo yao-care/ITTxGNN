@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrati
 | Indicazione Nuova Prevista | Nessuna — previsioni di TxGNN non popolate |
 | Punteggio di Previsione TxGNN | N/A |
 | Livello di Evidenza | N/A |
-| Stato nel Mercato Italiano | In commercio (autorizzazioni valide: 3 su 3) |
-| Numero di Autorizzazioni | 3 (valide: 3) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
+| Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione Consigliata | In sospeso |
 
 ---

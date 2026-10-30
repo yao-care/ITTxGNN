@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 351
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -50,7 +50,7 @@ Il pimozide è un antipsicotico antagonista dei recettori dopaminergici D2, orig
 | Nuova indicazione prevista | Tricotillomania (trichotillomania) |
 | Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L3 |
-| Stato sul mercato italiano | In commercio (autorizzazioni valide: 1 su 1) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 

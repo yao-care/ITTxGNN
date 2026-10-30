@@ -5,7 +5,7 @@ layout: default
 title: Desloratadina
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 141
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Elemento | Contenuto |
 |----------|-----------|
 | Indicazione originale | Non riportata nei dati locali |
-| Stato del mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
 | Numero di autorizzazioni | 16 (valide: 16) |
 
 ---

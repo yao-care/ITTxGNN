@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Colchicina (Colchicina) è un farmaco consolidato, ma l'Evidence Pack attuale co
 | Indicazione Nuova Prevista | Nessuna previsione TxGNN disponibile |
 | Punteggio di Previsione TxGNN | Non disponibile |
 | Livello di Evidenza | Non valutabile |
-| Stato del Mercato Italiano | In commercio (autorizzazioni valide: 2 su 2) |
-| Numero di Autorizzazioni | 2 (valide: 2) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione Consigliata | **In Sospeso** |
 
 ---

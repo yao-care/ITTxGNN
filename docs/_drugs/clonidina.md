@@ -5,7 +5,7 @@ layout: default
 title: Clonidina
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 119
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 |----------|-----------|
 | Indicazione Originaria | Non disponibile nel Pacchetto di Prove attuali |
 | Indicazione Nuova Predetta | Nessuna predizione generata |
-| Stato del Mercato Italiano | In commercio (autorizzazioni valide: 2 su 2) |
-| Numero di Autorizzazioni | 2 (valide: 2) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
+| Numero di autorizzazioni | 2 (valide: 2) |
 
 ---
 

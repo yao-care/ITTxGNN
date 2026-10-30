@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Damoctocog Alfa Pegol (DB14700) è una terapia sostitutiva del Fattore VIII rico
 | Indicazione Nuova Prevista | Nessuna previsione TxGNN generata |
 | Punteggio di Previsione TxGNN | — |
 | Livello di Evidenza | L5 (nessuna previsione o studi di supporto disponibili) |
-| Stato del Mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
-| Numero di Autorizzazioni | 4 (valide: 4) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
+| Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione Consigliata | In sospeso |
 
 ---

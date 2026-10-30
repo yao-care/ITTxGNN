@@ -5,7 +5,7 @@ layout: default
 title: Alfuzosina
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 28
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
 | Indicazione Originaria | Non disponibile (nessuna licenza approvata trovata in Taiwan) |
 | Stato del Mercato Taiwan | ✗ Non commercializzato |
-| Numero di Autorizzazioni | 16 (valide: 16) |
+| Numero di autorizzazioni | 16 (valide: 16) |
 
 ## Avvertenza
 

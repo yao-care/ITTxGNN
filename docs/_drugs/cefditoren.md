@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CEFDITOREN"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cefditoren: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione autoriz…"
 ---
 
@@ -48,7 +48,7 @@ Cefditoren è una cefalosporina orale di terza generazione (somministrata come p
 | Nuova indicazione prevista | Artrite reumatoide |
 | Punteggio di previsione TxGNN | 0,9902 |
 | Livello di evidenza | L5 |
-| Stato sul mercato italiano | In commercio (autorizzazioni valide: 3 su 3) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
 | Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold (sospendere) |
 

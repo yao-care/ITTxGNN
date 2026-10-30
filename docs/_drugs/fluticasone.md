@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FLUTICASONE"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
 description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -50,7 +50,7 @@ Il fluticasone è un corticosteroide glucocorticoide, di cui nei dati compilati 
 | Nuova indicazione prevista | Emicrania (migraine disorder) |
 | Punteggio di previsione TxGNN | 0.9920 |
 | Livello di evidenza | L5 |
-| Stato sul mercato italiano | In commercio (autorizzazioni valide: 20 su 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
 | Numero di autorizzazioni | 20 (valide: 20) |
 | Decisione raccomandata | Hold |
 

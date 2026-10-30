@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Il disulfiram è un inibitore della aldeide deidrogenasi (ALDH) utilizzato stori
 | Nuova Indicazione Prevista | Non disponibile — `predicted_indications` è vuoto |
 | Punteggio di Previsione TxGNN | Non disponibile |
 | Livello di Evidenza | Indeterminato (nessun output di previsione) |
-| Stato di Commercializzazione in Italia | In commercio (autorizzazioni valide: 1 su 1) |
-| Numero di Autorizzazioni | 1 (valide: 1) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione Consigliata | **Rinvio** |
 
 ---

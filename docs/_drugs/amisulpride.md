@@ -5,7 +5,7 @@ layout: default
 title: Amisulpride
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 41
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -45,7 +45,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Indicazione Originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
 | Status di Commercializzazione a Taiwan | ✗ Non commercializzato (Non commercializzato) |
-| Numero di Autorizzazioni (TFDA) | 10 (valide: 10) |
+| Numero di autorizzazioni | 10 (valide: 10) |
 
 ---
 

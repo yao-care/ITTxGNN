@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Il rapporto sottostante documenta lo stato attuale dei dati e identifica cosa de
 | Indicazione Nuova Prevista | Nessuna previsione disponibile |
 | Punteggio di Previsione TxGNN | Non disponibile |
 | Livello di Evidenza | L5 — Solo previsione del modello (nessuno studio reale collegato) |
-| Stato Mercato Italia | In commercio (autorizzazioni valide: 14 su 14) |
-| Numero di Autorizzazioni | 14 (valide: 14) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
+| Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione Consigliata | **Hold** |
 
 ---
