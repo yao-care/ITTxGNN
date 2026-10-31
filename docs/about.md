@@ -27,6 +27,7 @@ valutare rapidamente quanto sia attendibile ciascuna previsione.
 Le schede farmaco sono organizzate per livello di prova: <a href="{{ '/evidence-high/' | relative_url }}">elevato</a>,
 <a href="{{ '/evidence-medium/' | relative_url }}">moderato</a> e <a href="{{ '/evidence-low/' | relative_url }}">solo previsione del modello</a>.
 I criteri di classificazione sono descritti nella pagina <a href="{{ '/methodology/' | relative_url }}">Metodologia</a>.
+Per i passaggi pratici di ricerca e lettura delle schede, consulta la <a href="{{ '/guide/' | relative_url }}">Guida per l'utente</a>.
 
 ---
 
