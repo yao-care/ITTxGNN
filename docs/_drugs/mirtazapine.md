@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 304
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -100,7 +100,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico.
+La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) per verificare l'eventuale collegamento con la patologia

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 466
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: nuova indicazione prevista, Neurotic disorder (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -123,7 +123,7 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile. Si tratta però di sovrapposizione con l'indicazione già approvata e non di un riposizionamento nuovo, e lo stato regolatorio in Italia (solo autorizzazioni revocate) va chiarito.
+Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile.
 
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio in Italia e dell'eventuale disponibilità del prodotto

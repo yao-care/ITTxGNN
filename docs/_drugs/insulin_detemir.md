@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -121,7 +121,7 @@ L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi so
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazioni revocate". Le altre indicazioni previste non hanno alcuna evidenza clinica e restano in attesa.
+Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Le altre indicazioni previste non hanno alcuna evidenza clinica e restano in attesa.
 
 **Per procedere sono necessari:**
 - Verifica della disponibilità e della fornitura del prodotto in Italia, data la revoca dell'unica autorizzazione.
