@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 309
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
 description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Il montelukast è un antagonista del recettore CysLT1 dei leucotrieni, originari
 | Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L2 (nessuno studio di fase 3 completato nella bronchite; studi randomizzati di piccole dimensioni e studi di fase 2) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte revocate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (da trattare come quesito di ricerca) |
 
 ---

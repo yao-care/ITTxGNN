@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 267
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levofloxacin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: Infezioni batteriche (streptococciche, stafilococciche…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -51,7 +51,7 @@ Tra le predizioni successive, le più documentate sono la **peste setticemica** 
 | Punteggio di predizione TxGNN | 0,9992 |
 | Livello di evidenza | L4 (L5 per assenza di studi clinici sull'indicazione specifica; l'unica pubblicazione è un rapporto di focolaio non favorevole) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

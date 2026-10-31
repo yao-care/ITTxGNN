@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 262
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: nuova indicazione prevista, Nipple carcinoma (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ Il letrozolo è un inibitore non steroideo dell'aromatasi, usato nella pratica c
 | Punteggio di predizione TxGNN | 0.9976 |
 | Livello di evidenza | L1 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è plausibile?

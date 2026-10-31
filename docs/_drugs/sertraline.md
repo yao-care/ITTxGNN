@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 402
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: nuova indicazione prevista, Schizoid personality disorder (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN prevede un possibile effetto sul **disturbo schizoide di person
 | Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

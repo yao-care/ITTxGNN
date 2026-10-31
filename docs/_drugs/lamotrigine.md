@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ La lamotrigina è un antiepilettico utilizzato per l'epilessia, comprese le form
 | Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 (solo predizione del modello) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

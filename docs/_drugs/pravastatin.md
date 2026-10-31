@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ A sostegno di questa direzione ci sono **12 studi clinici** e **19 pubblicazioni
 | Punteggio di previsione TxGNN | 0.9974 |
 | Livello di evidenza | L2 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 **Nota sulla selezione.** L'indicazione con evidenza più solida e coerente con una raccomandazione operativa è l'infezione da HIV (L2), ed è quella trattata in questo report. Le altre previsioni sono riassunte nelle conclusioni.

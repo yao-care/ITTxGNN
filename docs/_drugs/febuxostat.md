@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN prevede una possibile efficacia per **l'ipouricemia renale**, m
 | Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L4 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

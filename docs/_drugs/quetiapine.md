@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 369
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
 description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5… (livello di evidenza L4). Indicazione originale: Non riportata nei dati lo…"
@@ -55,7 +55,7 @@ Il livello di evidenza è basso: la predizione con il punteggio più alto (distr
 | Nuova indicazione con maggiori evidenze | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
 | Livello di evidenza | L4 (tricotillomania); L5 per le altre nove predizioni |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (per la predizione top-1); tricotillomania: domanda di ricerca da approfondire |
 
 ---

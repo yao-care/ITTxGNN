@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal… (livello di evidenza L5). Indicazione originale: Non r…"
@@ -51,7 +51,7 @@ Il risperidone è un antipsicotico atipico utilizzato per schizofrenia, disturbo
 | Punteggio di predizione TxGNN | 0.9976 |
 | Livello di evidenza | L5 (solo previsione del modello) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte annullate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

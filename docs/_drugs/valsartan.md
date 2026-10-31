@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 459
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -50,7 +50,7 @@ Il modello TxGNN ne prevede una possibile efficacia nella **malattia renale iper
 | Punteggio di predizione TxGNN | 0,9997 |
 | Livello di evidenza | L4 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

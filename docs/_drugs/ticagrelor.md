@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ con **2 studi clinici** (1 di fase 3 ancora in corso) e **2 pubblicazioni** attu
 | Punteggio di previsione TxGNN | 0.9997 |
 | Livello di evidenza | L5 (secondo la classificazione dei dati compilati; nessuno studio di fase 3 è ancora concluso, quindi il livello è da considerare provvisorio) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (con possibilità di Proceed with Guardrails solo dopo la pubblicazione dei risultati) |
 
 ---

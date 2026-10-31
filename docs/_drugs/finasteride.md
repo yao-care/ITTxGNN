@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
@@ -54,7 +54,7 @@ Nota: la predizione con rango 1 (sindrome di Ambras) è priva di qualsiasi evide
 | Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 (L4 per l'ipertricosi, rango 2) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

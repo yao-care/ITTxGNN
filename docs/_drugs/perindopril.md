@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**ipertensione renovasc
 | Punteggio di previsione TxGNN | 0.9977 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

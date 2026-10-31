@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 description: "Flunisolide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Il flunisolide è un corticosteroide per via inalatoria/nasale, originariamente 
 | Punteggio di previsione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

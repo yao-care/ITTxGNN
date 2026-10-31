@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ La paroxetina è un inibitore selettivo della ricaptazione della serotonina (SSR
 | Punteggio di previsione TxGNN | 0.9911 |
 | Livello di evidenza | L5 (solo previsione del modello) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?

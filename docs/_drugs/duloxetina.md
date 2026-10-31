@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -53,7 +53,7 @@ Tuttavia, questo Dossier di Prove non contiene **alcuna nuova indicazione previs
 | Punteggio Previsione TxGNN | N/A |
 | Livello di Evidenza | Non valutabile |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 0 |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione Consigliata | In Sospeso |
 
 ---

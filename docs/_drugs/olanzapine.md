@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dat…"
@@ -53,7 +53,7 @@ Tra le tre indicazioni predette, l'**agorafobia** (6 pubblicazioni, nessuna sper
 | Punteggio di predizione TxGNN | 0.9954 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

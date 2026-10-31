@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Temozolomide: nuova indicazione prevista, neoplasia della cauda equina (livello di evidenza L5). Indicazione originale: Astrocitoma anaplastico, astrocitoma (escluso il glioblastoma)…"
 ---
 
@@ -49,7 +49,7 @@ Temozolomide è un agente alchilante orale, noto per l'uso in tumori cerebrali d
 | Punteggio di previsione TxGNN | 0,9930 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | Almeno 20 (l'elenco può essere parziale) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?

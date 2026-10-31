@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 386
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ La rivastigmina è un inibitore delle colinesterasi, originariamente utilizzato 
 | Punteggio di predizione TxGNN | 0.9927 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?

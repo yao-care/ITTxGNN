@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN lo indica come potenzialmente efficace per l'**ulcera peptica a
 | Punteggio di predizione TxGNN | 0.9921 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---

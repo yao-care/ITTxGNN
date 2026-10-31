@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Si tratta però di un'indicazione già consolidata o quasi coincidente con quell
 | Punteggio di predizione TxGNN | 0.9941 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ## Perché questa predizione è ragionevole?

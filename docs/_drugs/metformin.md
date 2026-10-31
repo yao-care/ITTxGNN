@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ La metformina è un farmaco antidiabetico, originariamente utilizzato per il tra
 | Punteggio di predizione TxGNN | 0.9945 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

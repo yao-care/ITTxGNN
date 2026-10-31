@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ DABIGATRAN (DrugBank ID: DB14726) è un farmaco candidato identificato dalla sca
 | Punteggio di previsione TxGNN | N/A |
 | Livello di evidenza | N/A — nessun trial clinico o dati della letteratura |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 0 |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione consigliata | **Hold** |
 
 ---

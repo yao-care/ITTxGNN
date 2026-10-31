@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Fluconazole: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
@@ -49,7 +49,7 @@ Il fluconazolo è un antimicotico azolico, originariamente utilizzato per le can
 | Punteggio di previsione TxGNN | 0.9924 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?

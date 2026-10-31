@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 153
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adren
 | Punteggio di previsione TxGNN | Non disponibile |
 | Livello di evidenza | L5 — dati di previsione assenti |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 0 |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione consigliata | **In sospeso** |
 
 ---

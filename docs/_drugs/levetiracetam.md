@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ Il levetiracetam è un farmaco antiepilettico, originariamente impiegato per l'e
 | Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 (≥2 RCT di fase 3 completati) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (per lo stato epilettico) |
 
 ---

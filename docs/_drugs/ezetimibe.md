@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ezetimibe: nuova indicazione prevista, Carenza di proteina di trasferimento degli esteri del colesterolo (livello di evidenza L5). Indicazione originale: Iperlipidemia e forme correlate"
 ---
 
@@ -49,7 +49,7 @@ Ezetimibe è un inibitore dell'assorbimento intestinale del colesterolo, utilizz
 | Punteggio di previsione TxGNN | 0,9909 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | Almeno 20 (l'elenco potrebbe essere parziale) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?

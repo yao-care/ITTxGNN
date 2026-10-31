@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 360
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
 description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Il prednisone è un glucocorticoide sistemico usato storicamente per malattie au
 | Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L3 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---

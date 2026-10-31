@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Topiramate: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia con crisi tonico-cloniche generalizzate, epilessia parziale…"
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -53,7 +53,7 @@ Le predizioni successive, più plausibili, riguardano forme rare di epilessia ri
 | Punteggio di predizione TxGNN | 0,9970 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

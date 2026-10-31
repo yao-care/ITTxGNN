@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 description: "Ketoprofen: nuova indicazione prevista, Acromesomelic dysplasia, Hunter-Thompson type (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -50,7 +50,7 @@ Il modello TxGNN prevede una possibile efficacia per la **displasia acromesomeli
 | Punteggio di previsione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?

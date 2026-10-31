@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Per il linfoma polmonare primario esistono **0 studi clinici** e **20 pubblicazi
 | Punteggio di predizione TxGNN | 0.9945 |
 | Livello di evidenza | L5 (linfoma polmonare primario); L5 (blastoma polmonare) |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte revocate, 0 valide) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?

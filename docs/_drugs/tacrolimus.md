@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 417
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ con **2 studi clinici** direttamente pertinenti (uno di fase 3 completato e uno 
 | Punteggio di predizione TxGNN | 0.9926 |
 | Livello di evidenza | L1 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---

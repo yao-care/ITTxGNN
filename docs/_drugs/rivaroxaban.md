@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rivaroxaban: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi di indicazione delle auto…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -52,7 +52,7 @@ Il modello TxGNN lo associa all'**artrite reumatoide** con un punteggio molto al
 | Punteggio di predizione TxGNN | 0,9957 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

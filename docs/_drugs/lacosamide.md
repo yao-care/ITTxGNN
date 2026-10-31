@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 252
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -51,7 +51,7 @@ Lacosamide è un farmaco antiepilettico che agisce sui canali del sodio voltaggi
 | Punteggio di predizione TxGNN | 0.9996 |
 | Livello di evidenza (rank 1) | L3 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata (rank 1) | Hold (domanda di ricerca) |
 
 **Predizione alternativa con evidenza più forte: emicrania** (punteggio TxGNN 0,9987, livello di evidenza L1, decisione: Proceed with Guardrails).

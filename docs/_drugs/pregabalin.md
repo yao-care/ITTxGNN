@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ Il pregabalin è un farmaco usato per ansia, fibromialgia, sindrome miofasciale 
 | Punteggio di previsione TxGNN | 0.9971 |
 | Livello di evidenza | L5 secondo la valutazione del dossier, da considerare con cautela: lo studio di fase 3 sull'emicrania è stato ritirato e le evidenze randomizzate sono pediatriche e di piccole dimensioni; in senso stretto, le regole indicherebbero un livello inferiore |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 Nota: la previsione con il punteggio TxGNN più alto è la tendinite (0,9971), ma ha solo evidenza di livello L4 e nessun dato clinico diretto. Anche le miositi (granulomatosa idiopatica, fibrosa, a corpi inclusi) sono solo previsioni del modello (L5), senza studi pertinenti. L'emicrania con aura del tronco encefalico (0,9943) ha solo dati preclinici (L4).

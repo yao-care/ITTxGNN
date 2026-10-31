@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levothyroxine: nuova indicazione prevista, ipoplasia/aplasia renale (livello di evidenza L5). Indicazione originale: Ipotiroidismo"
 ---
 
@@ -50,7 +50,7 @@ Il modello TxGNN ne prevede una possibile efficacia per l'**ipoplasia/aplasia re
 | Punteggio di predizione TxGNN | 0,9967 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | Almeno 20 (l'elenco potrebbe essere parziale) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?

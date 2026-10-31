@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: nuova indicazione prevista, Pulmonary hypertension owing to lung disease and/or hypoxia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ Il lisinopril è un inibitore dell'enzima di conversione dell'angiotensina (ACE)
 | Punteggio di previsione TxGNN | 0.9989 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte revocate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?

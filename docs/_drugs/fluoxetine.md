@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluoxetine: nuova indicazione prevista, Schizotypal personality disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
@@ -49,7 +49,7 @@ La fluoxetina è un antidepressivo della classe degli inibitori selettivi della 
 | Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L3 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | Almeno 20 autorizzazioni all'immissione in commercio (l'elenco potrebbe essere parziale) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

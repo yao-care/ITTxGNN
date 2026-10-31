@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Etoricoxib: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -49,7 +49,7 @@ Etoricoxib è un inibitore selettivo della COX-2, utilizzato in ambito infiammat
 | Punteggio di predizione TxGNN | 0,9990 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

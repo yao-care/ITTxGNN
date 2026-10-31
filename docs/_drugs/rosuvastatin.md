@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ Questa indicazione è però molto vicina a quella originale (ipercolesterolemia 
 | Punteggio di predizione TxGNN | 0.9954 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---

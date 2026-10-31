@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -53,7 +53,7 @@ Telmisartan è un bloccante del recettore dell'angiotensina II (sartano), origin
 | Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L5 per Prinzmetal angina; L3 per occlusione dell'arteria cerebrale; L2 per emorragia intracerebrale |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; 0 valide) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (per la Prinzmetal angina); Research Question per le indicazioni cerebrovascolari |
 
 ---

@@ -5,7 +5,7 @@ layout: default
 title: Amlodipina
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 43
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -44,7 +44,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | ID DrugBank | Non disponibile |
 | Indicazione originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 0 |
+| Numero di autorizzazioni | almeno 20 |
 
 ---
 

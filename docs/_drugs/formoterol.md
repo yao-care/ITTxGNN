@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "bronchitis", "Rienhoff syndrome"]
 description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN lo indica come potenzialmente efficace per la **malformazione r
 | Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

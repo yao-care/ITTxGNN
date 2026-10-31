@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency… (livello di evidenza L5). Indicazione originale: Non rip…"
@@ -49,7 +49,7 @@ L'enoxaparina è un'eparina a basso peso molecolare, associata nella base di con
 | Punteggio di predizione TxGNN | 0.9958 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

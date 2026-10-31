@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -50,7 +50,7 @@ Il modello TxGNN ne prevede una possibile efficacia nella **nefropatia ipertensi
 | Punteggio di predizione TxGNN | 0.9942 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate; nessuna valida) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione è plausibile?

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "terazosin"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
 description: "Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -52,7 +52,7 @@ Il modello TxGNN prevede una possibile efficacia per l'**ipotricosi semplice del
 | Punteggio di previsione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte annullate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ---

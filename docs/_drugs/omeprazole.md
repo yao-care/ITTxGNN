@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -49,7 +49,7 @@ L'omeprazolo è un inibitore della pompa protonica, originariamente usato per ul
 | Punteggio di predizione TxGNN | 0.9964 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
-| Numero di autorizzazioni | 20 (tutte cancellate) |
+| Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
