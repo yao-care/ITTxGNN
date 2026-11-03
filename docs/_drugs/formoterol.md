@@ -4,17 +4,17 @@ title: Formoterol
 parent: Solo previsione del modello (L5)
 nav_order: 212
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "formoterol"
-predicted_indications: ["respiratory malformation", "bronchitis", "Rienhoff syndrome"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Formoterol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -122,7 +122,6 @@ La predizione "malformazione respiratoria" si basa solo sul modello (L5): non ci
 Per completezza, altre predizioni del modello hanno un'evidenza molto più solida, ma corrispondono in sostanza a usi già in etichetta e non a un vero riposizionamento:
 - **Malattia polmonare ostruttiva** (L1, Proceed with Guardrails): ampi studi di fase 3 su combinazioni contenenti formoterolo nella BPCO.
 - **Asma** (L1, Proceed with Guardrails): studi di fase 3 e RCT di rilievo su budesonide/formoterolo.
-- **Bronchite** (L1, indicata come questione di ricerca): le evidenze riguardano il fenotipo BPCO/bronchite cronica, non la bronchite acuta.
 
 Su queste ultime restano da considerare le cautele: le evidenze riguardano soprattutto combinazioni a dose fissa (ICS/LAMA/LABA), non il formoterolo in monoterapia; i LABA non vanno usati senza corticosteroide inalatorio nell'asma; è necessario monitorare il rischio cardiovascolare e quello di polmonite associato ai corticosteroidi inalatori; va verificata la disponibilità dei prodotti sul mercato italiano.
 

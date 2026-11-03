@@ -4,17 +4,17 @@ title: Ceftazidime
 parent: Solo previsione del modello (L5)
 nav_order: 97
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ceftazidime"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-10-28
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
+last_modified_at: 2026-11-03
 description: "Ceftazidime: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---

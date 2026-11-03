@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 324
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: nuova indicazione prevista, Vulvovaginite (vulvovaginitis) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: nuova indicazione prevista, Disease of orbital region (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Nystatin: Vulvovaginite (vulvovaginitis)
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,9 +49,9 @@ In pratica, questa indicazione si sovrappone in larga misura all'uso già noto n
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Vulvovaginite (vulvovaginitis) |
-| Punteggio di predizione TxGNN | 0.9992 |
-| Livello di evidenza | L3 |
+| Nuova indicazione prevista | Disease of orbital region |
+| Punteggio di predizione TxGNN | 0.9990 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
@@ -62,7 +62,7 @@ In pratica, questa indicazione si sovrappone in larga misura all'uso già noto n
 
 Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. È tuttavia noto che la nistatina è un antimicotico polienico: si lega all'ergosterolo della membrana della cellula di *Candida*, formando pori che causano la perdita del contenuto cellulare.
 
-La vulvovaginite è spesso causata da *Candida*, quindi l'indicazione prevista coincide in buona parte con la candidosi vulvovaginale già nota. Il meccanismo antimicotico è direttamente applicabile ai casi di origine candidosica.
+Il meccanismo antimicotico è direttamente applicabile ai casi di origine candidosica.
 
 Il meccanismo non sarebbe invece rilevante per le forme non fungine (ad esempio batteriche o atrofiche), che non ci si aspetta rispondano a un antimicotico.
 

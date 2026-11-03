@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gimeracil
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 220
-evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
-description: "Gimeracil: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+description: "Gimeracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **7**
 
 </div>
 
-## Gimeracil: Neoplasia del colon (colonic neoplasm)
+## Gimeracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,9 +45,9 @@ Il gimeracil è un componente dell'associazione S-1 (tegafur/gimeracil/oteracil)
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Neoplasia del colon (colonic neoplasm) |
-| Punteggio di predizione TxGNN | 0.9988 |
-| Livello di evidenza | L1 |
+| Nuova indicazione prevista | Cecum villous adenoma |
+| Punteggio di predizione TxGNN | 0.9982 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |

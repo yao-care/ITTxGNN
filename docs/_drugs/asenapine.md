@@ -4,17 +4,17 @@ title: Asenapine
 parent: Solo previsione del modello (L5)
 nav_order: 54
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Asenapine"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
-last_modified_at: 2026-10-30
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-03
 description: "Asenapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5). Indicazione originale: …"
 ---
 
 # Asenapine
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---

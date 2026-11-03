@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 293
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Methylprednisolone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Malattie autoimmuni (tra cui malattia di Crohn…"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **9**
 
 </div>
 
-## Metilprednisolone: dalle malattie autoimmuni e infiammatorie all'alopecia areata
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,10 +48,10 @@ con **1 studio clinico** registrato e **20 pubblicazioni** a supporto di questa 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Malattie autoimmuni (tra cui malattia di Crohn, malattia infiammatoria intestinale, insufficienza surrenalica, leucemia linfoblastica acuta); il testo dell'indicazione approvata AIFA non è disponibile |
-| Nuova indicazione prevista | Alopecia areata |
-| Punteggio di predizione TxGNN | 0,9999 |
-| Livello di evidenza | L3 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Alopecia mucinosa |
+| Punteggio di predizione TxGNN | 0.9999 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
 | Numero di autorizzazioni | 15 (valide: 15) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
@@ -60,7 +60,7 @@ con **1 studio clinico** registrato e **20 pubblicazioni** a supporto di questa 
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la metilprednisolone è un glucocorticoide potente, con efficacia consolidata nelle patologie autoimmuni, e dal punto di vista meccanicistico può essere applicabile all'alopecia areata.
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione.
 
 L'alopecia areata è un attacco autoimmune mediato dai linfociti T contro il follicolo pilifero, con collasso del privilegio immunitario. La metilprednisolone sopprime l'attivazione dei linfociti T e la segnalazione delle citochine pro-infiammatorie (ad esempio l'interferone gamma), coerentemente con il suo uso nelle malattie autoimmuni.
 

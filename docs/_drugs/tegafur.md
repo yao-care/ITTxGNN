@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tegafur
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 423
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Tegafur: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Carcinoma gastrico (nei dati compilati compaiono anche neoplasia gast…"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "tegafur"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
+description: "Tegafur: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tegafur
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Tegafur: dal carcinoma gastrico alla neoplasia del colon
+## Tegafur: Cecum villous adenoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,10 +48,10 @@ Tra gli studi figurano diversi trial di fase 3 completati su regimi contenenti t
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Carcinoma gastrico (nei dati compilati compaiono anche neoplasia gastrica, adenocarcinoma gastrico diffuso, linite plastica gastrica e carcinoma gastrico). Il testo dell'indicazione approvata non è presente nelle autorizzazioni AIFA. |
-| Nuova indicazione prevista | Neoplasia del colon (*colonic neoplasm*) |
-| Punteggio di predizione TxGNN | 0,9990 |
-| Livello di evidenza | L1 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Cecum villous adenoma |
+| Punteggio di predizione TxGNN | 0.9986 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |

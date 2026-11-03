@@ -4,17 +4,17 @@ title: Risperidone
 parent: Solo previsione del modello (L5)
 nav_order: 383
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
-description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal… (livello di evidenza L5). Indicazione originale: Non r…"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
+description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis) (livello di evidenza L5)."
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---

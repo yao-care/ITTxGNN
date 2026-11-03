@@ -4,17 +4,17 @@ title: Fluocinolone Acetonide
 parent: Solo previsione del modello (L5)
 nav_order: 203
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-28
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "FLUOCINOLONE ACETONIDE"
-predicted_indications: ["hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides"]
-description: "Fluocinolone Acetonide: nuova indicazione prevista, Hypertrophic lichen planus (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["lichen planus pemphigoides"]
+description: "Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus pemphigoides (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Fluocinolone Acetonide: Hypertrophic lichen planus
+## Fluocinolone Acetonide: Lichen planus pemphigoides
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -45,8 +45,8 @@ Il fluocinolone acetonide è un corticosteroide topico, originariamente impiegat
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Hypertrophic lichen planus |
-| Punteggio di predizione TxGNN | 0.9942 |
+| Nuova indicazione prevista | Lichen planus pemphigoides |
+| Punteggio di predizione TxGNN | 0.9934 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lanadelumab
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 255
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Lanadelumab: nuova indicazione prevista, Deficit di C1 inibitore (livello di evidenza L1). Indicazione originale: Angioedema ereditario (anche con deficit di C1 inibitore)"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "LANADELUMAB"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+description: "Lanadelumab: nuova indicazione prevista, Serpinopathy with toxic serpin polymerization (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lanadelumab
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Lanadelumab: dall'angioedema ereditario al deficit di C1 inibitore
+## Lanadelumab: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## Riepilogo in breve
 
-Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica. Era già usato per la profilassi degli attacchi di angioedema ereditario (HAE). Il modello TxGNN lo associa con un punteggio molto alto al **deficit di C1 inibitore**, con **5 studi clinici** e **20 pubblicazioni** nei dati compilati per questo report. Questa indicazione coincide in larga parte con quella originale: è la conferma di un uso già noto, non un vero riposizionamento.
+Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica. Era già usato per la profilassi degli attacchi di angioedema ereditario (HAE). Questa indicazione coincide in larga parte con quella originale: è la conferma di un uso già noto, non un vero riposizionamento.
 
 ---
 
@@ -46,10 +46,10 @@ Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica. 
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Angioedema ereditario (anche con deficit di C1 inibitore) |
-| Nuova indicazione prevista | Deficit di C1 inibitore |
-| Punteggio di predizione TxGNN | 1,0000 |
-| Livello di evidenza | L1 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Serpinopathy with toxic serpin polymerization |
+| Punteggio di predizione TxGNN | 0.9999 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |

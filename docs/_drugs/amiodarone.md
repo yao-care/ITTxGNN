@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Solo previsione del modello (L5)
 nav_order: 40
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "AMIODARONE"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-28
-description: "Amiodarone: nuova indicazione prevista, Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia) (livello di evidenza L5). Indicazione originale: N…"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-03
+description: "Amiodarone: nuova indicazione prevista, Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia) (livello di evidenza L5)."
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Amiodarone: antiaritmico multicanale → tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia)
+## Amiodarone: Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ## Sintesi
@@ -46,7 +46,7 @@ L'amiodarone è un farmaco antiaritmico multicanale (blocco dei canali del potas
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia) |
-| Punteggio di predizione TxGNN | 0,9978 |
+| Punteggio di predizione TxGNN | 0.9978 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
 | Numero di autorizzazioni | 8 (valide: 8) |

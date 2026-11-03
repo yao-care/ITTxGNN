@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: Solo previsione del modello (L5)
 nav_order: 53
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-28
-description: "Aripiprazole: nuova indicazione prevista, Disturbo affettivo maggiore (major affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+last_modified_at: 2026-11-03
+description: "Aripiprazole: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-## Aripiprazolo: agonista parziale dei recettori dopaminergici D2/D3 e serotoninergici 5-HT1A → disturbo affettivo maggiore (major affective disorder)
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## Sintesi
@@ -47,8 +47,8 @@ con **39 studi clinici** e **19 pubblicazioni** attualmente a supporto di questa
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Disturbo affettivo maggiore (major affective disorder) |
-| Punteggio di previsione TxGNN | 0,9962 |
+| Nuova indicazione prevista | Gaze palsy, familial horizontal, with progressive scoliosis |
+| Punteggio di previsione TxGNN | 0.9960 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |

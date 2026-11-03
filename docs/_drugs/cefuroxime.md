@@ -4,17 +4,17 @@ title: Cefuroxime
 parent: Solo previsione del modello (L5)
 nav_order: 99
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Cefuroxime"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-28
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
 description: "Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---

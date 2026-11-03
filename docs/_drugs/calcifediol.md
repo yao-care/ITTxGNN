@@ -4,17 +4,17 @@ title: Calcifediol
 parent: Solo previsione del modello (L5)
 nav_order: 83
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "calcifediol"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
-description: "Calcifediol: nuova indicazione prevista, Carenza di vitamina D obsoleta (obsolete vitamin D deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["renal tubular acidosis"]
+last_modified_at: 2026-11-03
+description: "Calcifediol: nuova indicazione prevista, Renal tubular acidosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Calcifediol
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **2** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 </div>
 
-## Calcifediolo: precursore della vitamina D (25-idrossivitamina D3) → carenza di vitamina D obsoleta (obsolete vitamin D deficiency)
+## Calcifediol: Renal tubular acidosis
 {: .text-alpha }
 
 ## Sintesi
@@ -45,8 +45,8 @@ Il calcifediolo è un metabolita della vitamina D, precursore diretto del calcit
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Carenza di vitamina D obsoleta (obsolete vitamin D deficiency) |
-| Punteggio di previsione TxGNN | 0,9999 |
+| Nuova indicazione prevista | Renal tubular acidosis |
+| Punteggio di previsione TxGNN | 0.9986 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
 | Numero di autorizzazioni | 4 (valide: 4) |
@@ -56,7 +56,7 @@ Il calcifediolo è un metabolita della vitamina D, precursore diretto del calcit
 
 I dati compilati non riportano un meccanismo d'azione dettagliato. Il calcifediolo (25-idrossivitamina D3) è il principale metabolita circolante della vitamina D e il marcatore standard dello stato vitaminico D. È il precursore diretto del calcitriolo, la forma attiva. Sul piano meccanicistico, la reintegrazione in caso di carenza è quindi plausibile.
 
-Vi sono però limiti importanti. Il termine di malattia è contrassegnato come obsoleto nell'ontologia di riferimento. Il punteggio elevato (0,9999) è una semplice previsione del modello e potrebbe riflettere soprattutto la vicinanza ad altre condizioni già associate al farmaco, come rachitismo, osteomalacia e ipofosfatemia. Un eventuale uso reale richiederebbe la corrispondenza con il termine attuale di carenza di vitamina D, non supportata dalle evidenze disponibili.
+Vi sono però limiti importanti. Il termine di malattia è contrassegnato come obsoleto nell'ontologia di riferimento. Un eventuale uso reale richiederebbe la corrispondenza con il termine attuale di carenza di vitamina D, non supportata dalle evidenze disponibili.
 
 ## Evidenze da studi clinici
 

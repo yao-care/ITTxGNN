@@ -4,17 +4,17 @@ title: Progesterone
 parent: Prove elevate (L1-L2)
 nav_order: 364
 evidence_level: L2
-indication_count: 7
-last_modified_at: 2026-10-29
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "PROGESTERONE"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: nuova indicazione prevista, Amenorrhea (disease) (livello di evidenza L2)."
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: nuova indicazione prevista, Breast fibrocystic disease (livello di evidenza L2)."
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **7** 
+Livello di evidenza: **L2** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **7**
 
 </div>
 
-## Progesterone: Amenorrhea (disease)
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -49,8 +49,8 @@ Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Non riportata nei dati locali |
-| Nuova indicazione prevista | Amenorrhea (disease) |
-| Punteggio di predizione TxGNN | 1.0000 |
+| Nuova indicazione prevista | Breast fibrocystic disease |
+| Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L2 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
 | Numero di autorizzazioni | 7 (valide: 7) |
@@ -60,7 +60,7 @@ Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e 
 
 ## Perché questa predizione è ragionevole?
 
-Nei dati compilati per questo report il meccanismo d'azione dettagliato non è disponibile. In base alle informazioni note, il progesterone è l'ormone fisiologicamente complementare agli estrogeni nel ciclo mestruale. La sua efficacia in ambito ginecologico (endometrio, endometriosi) è consolidata e, dal punto di vista meccanicistico, può essere applicabile all'amenorrea.
+Nei dati compilati per questo report il meccanismo d'azione dettagliato non è disponibile. In base alle informazioni note, il progesterone è l'ormone fisiologicamente complementare agli estrogeni nel ciclo mestruale.
 
 Nell'amenorrea ipotalamica o ipoestrogenica (atlete, anoressia nervosa) il progesterone può favorire il sanguinamento da sospensione e la regolazione del ciclo. Il progesterone orale micronizzato è usato in endocrinologia sia a scopo diagnostico (test di sfida con progestinico) sia terapeutico (PMID 38652231).
 

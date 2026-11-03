@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Salmeterol
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 398
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-31
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L1)."
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5)."
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **5** 
+Livello di evidenza: **L5** | Indicazioni previste: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **5**
 
 </div>
 
-## Salmeterol: Bronchite (bronchitis)
+## Salmeterol: Respiratory malformation
 {: .text-alpha }
 
 ## Sintesi
@@ -47,9 +47,9 @@ Il salmeterolo è un beta-2 agonista a lunga durata d'azione (LABA), originariam
 | Voce | Contenuto |
 |------|------|
 | Indicazione originaria | Non riportata nei dati locali |
-| Nuova indicazione prevista | Bronchite (bronchitis) |
-| Punteggio di predizione TxGNN | 0.9992 |
-| Livello di evidenza | L1 |
+| Nuova indicazione prevista | Respiratory malformation |
+| Punteggio di predizione TxGNN | 0.9991 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |

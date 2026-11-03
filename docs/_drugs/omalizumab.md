@@ -4,17 +4,17 @@ title: Omalizumab
 parent: Prove moderate (L3-L4)
 nav_order: 328
 evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "OMALIZUMAB"
-predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
+predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -105,7 +105,7 @@ Per la bronchite il segnale è indiretto: i due studi registrati sono di pertine
 - Dati sul meccanismo d'azione e sul foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Verifica dello stato autorizzativo e della disponibilità in Italia (autorizzazioni attuali revocate)
 
-**Nota su altre indicazioni previste:** il modello segnala anche altre predizioni più supportate, tra cui la dermatite atopica (livello L2, incluso uno studio di fase 4 completato in età pediatrica, n=62) e la malattia polmonare ostruttiva (studio di fase 2 COPD-OMA in corso, in soggetti sensibilizzati agli allergeni). Meritano una valutazione separata.
+Meritano una valutazione separata.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oteracil
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 331
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "oteracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
-description: "Oteracil: nuova indicazione prevista, Neoplasia del colon (colonic neoplasm) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
+description: "Oteracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Oteracil
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Oteracil: Neoplasia del colon (colonic neoplasm)
+## Oteracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -48,9 +48,9 @@ Il modello TxGNN prevede che possa essere efficace per la **neoplasia del colon*
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Neoplasia del colon (colonic neoplasm) |
-| Punteggio di predizione TxGNN | 0.9999 |
-| Livello di evidenza | L1 |
+| Nuova indicazione prevista | Cecum villous adenoma |
+| Punteggio di predizione TxGNN | 0.9998 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |

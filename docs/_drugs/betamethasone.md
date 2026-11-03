@@ -4,17 +4,17 @@ title: Betamethasone
 parent: Prove elevate (L1-L2)
 nav_order: 67
 evidence_level: L2
-indication_count: 8
+indication_count: 7
 monitor_inn: "betamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-10-28
-description: "Betamethasone: nuova indicazione prevista, alopecia areata (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+last_modified_at: 2026-11-03
+description: "Betamethasone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **8** 
+Livello di evidenza: **L2** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **8**
 
 </div>
 
-## Betametasone: glucocorticoide sistemico e topico → alopecia areata (alopecia areata)
+## Betamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Sintesi
@@ -47,8 +47,8 @@ con **6 studi clinici** (di cui 1 di fase 2 completato che confronta direttament
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | alopecia areata (alopecia areata) |
-| Punteggio di previsione TxGNN | 0,9997 |
+| Nuova indicazione prevista | Alopecia mucinosa |
+| Punteggio di previsione TxGNN | 0.9997 |
 | Livello di evidenza | L2 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
@@ -66,8 +66,6 @@ L'alopecia areata è una malattia autoimmune mediata dai linfociti T, in cui cro
 |---------|------|------|------|---------|
 | [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fase 2 | Completato | 60 | Azatioprina settimanale a impulsi vs mini-pulsi orali di betametasone in alopecia areata moderata-grave |
 | [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fase 4 | Completato | 50 | Latanoprost topico vs corticosteroide topico (betametasone) in alopecia areata localizzata |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | N/D | Sconosciuto | 59 | Cetirizina topica 1% vs betametasone valerato 0,1% (comparatore) in alopecia areata localizzata |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Fase 1 | Sconosciuto | 60 | Pentossifillina e metformina topiche vs betametasone valerato 0,1% in alopecia areata a chiazze |
 | [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | N/D | Non ancora in reclutamento | 60 | Combinazione topica di metformina, simvastatina e betametasone valerato in alopecia areata a chiazze |
 | [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fase 4 | In reclutamento | 250 | Alopecia cicatriziale centrifuga centrale: patologia diversa, rilevanza limitata |
 

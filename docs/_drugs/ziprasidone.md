@@ -4,17 +4,17 @@ title: Ziprasidone
 parent: Solo previsione del modello (L5)
 nav_order: 469
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "ZIPRASIDONE"
-predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: nuova indicazione prevista, Trichotillomania (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,6 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 ## Riepilogo in una frase
 
 Ziprasidone è un antipsicotico atipico, originariamente utilizzato per schizofrenia, disturbo bipolare e mania bipolare.
-Il modello TxGNN prevede che possa essere efficace per il **disturbo affettivo maggiore** (indicazione con il maggior supporto clinico tra le prime 10 previsioni), con **7 studi clinici** e **20 pubblicazioni** attualmente a supporto di questa direzione.
 
 ## Quadro generale
 

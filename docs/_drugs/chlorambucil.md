@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Solo previsione del modello (L5)
 nav_order: 102
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "chlorambucil"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
-description: "Chlorambucil: nuova indicazione prevista, Leucemia linfocitica cronica/linfoma linfocitico a piccole cellule del centro pregerminale (pregerminal center chronic… (livello di evidenza L5). Indicazione…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: nuova indicazione prevista, ALK-positive large B-cell lymphoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ Livello di evidenza: **L5** | Indicazioni previste: **7**
 
 </div>
 
-## Clorambucile: agente alchilante della classe delle mostarde azotate → leucemia linfocitica cronica/linfoma linfocitico a piccole cellule del centro pregerminale (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Il clorambucile è un agente alchilante della classe delle mostarde azotate, che agisce legando in modo crociato il DNA delle cellule tumorali. Il modello TxGNN prevede una possibile efficacia nella **leucemia linfocitica cronica/linfoma linfocitico a piccole cellule del centro pregerminale (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**, con un punteggio di 0,9972. A sostegno di questa direzione sono disponibili **nessuno studio clinico registrato** e **1 pubblicazione** (una revisione del 2003).
+Il clorambucile è un agente alchilante della classe delle mostarde azotate, che agisce legando in modo crociato il DNA delle cellule tumorali. A sostegno di questa direzione sono disponibili **nessuno studio clinico registrato** e **1 pubblicazione** (una revisione del 2003).
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Leucemia linfocitica cronica/linfoma linfocitico a piccole cellule del centro pregerminale (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| Punteggio di predizione TxGNN | 0,9972 |
+| Nuova indicazione prevista | ALK-positive large B-cell lymphoma |
+| Punteggio di predizione TxGNN | 0.9961 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 24
-evidence_level: L2
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 monitor_inn: "albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-28
-description: "Albendazole: nuova indicazione prevista, Echinococcosi alveolare (alveolar echinococcosis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["coenurosis"]
+last_modified_at: 2026-11-03
+description: "Albendazole: nuova indicazione prevista, Coenurosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Livello di evidenza: **L2** | Indicazioni previste: **3**
 
 </div>
 
-## Albendazolo: antielmintico benzimidazolico (inibitore della beta-tubulina) → Echinococcosi alveolare (alveolar echinococcosis)
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## Sintesi in breve
@@ -45,9 +45,9 @@ L'albendazolo è un antielmintico benzimidazolico. Il modello TxGNN prevede che 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Echinococcosi alveolare (alveolar echinococcosis) |
-| Punteggio di predizione TxGNN | 0,9997 |
-| Livello di evidenza | L2 |
+| Nuova indicazione prevista | Coenurosis |
+| Punteggio di predizione TxGNN | 0.9983 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Procedere con cautele (Proceed with Guardrails) |
