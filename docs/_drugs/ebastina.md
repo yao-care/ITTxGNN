@@ -36,7 +36,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 ## Ebastina
 {: .text-alpha }
 
-## Quick Overview
+## Panoramica rapida
 
 | Voce | Contenuto |
 |------|-----------|
