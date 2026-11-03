@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Roxithromycin
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 392
-evidence_level: L3
+evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
-description: "Roxithromycin: nuova indicazione prevista, Lebbra (livello di evidenza L3). Indicazione originale: Infezioni delle vie respiratorie…"
+last_modified_at: 2026-11-03
 monitor_inn: "roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
+description: "Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Roxithromycin
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **8** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +33,44 @@ Livello di evidenza: **L3** | Indicazioni previste: **8**
 
 </div>
 
-## Roxitromicina: dalle infezioni batteriche alla lebbra
+## Roxithromycin: Lebbra (leprosy)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La roxitromicina è un antibiotico macrolide, utilizzato come antibatterico nelle infezioni delle vie respiratorie, urinarie e dei tessuti molli.
-Il modello TxGNN ne predice una possibile efficacia nella **lebbra**, ma il supporto disponibile è limitato a **5 pubblicazioni** (soprattutto studi preclinici e revisioni) e **nessuno studio clinico** registrato.
+La roxitromicina è un antibiotico macrolide. Il modello TxGNN la indica come potenzialmente utile per la **lebbra (leprosy)**, con un punteggio di 0,9970. Non esistono studi clinici registrati e nessuno studio testa la roxitromicina nella lebbra: le **5 pubblicazioni** disponibili sono revisioni e studi in vitro o su animali sui macrolidi. Il livello di evidenza è quindi **L5**.
 
-## Panoramica rapida
+## Quadro di sintesi
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Infezioni delle vie respiratorie, urinarie e dei tessuti molli (dalla letteratura farmacologica; il testo dell'indicazione AIFA non è disponibile) |
-| Nuova indicazione predetta | Lebbra |
-| Punteggio di predizione TxGNN | 0,9970 |
-| Livello di evidenza | L3 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Lebbra (leprosy) |
+| Punteggio di predizione TxGNN | 0.9970 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
 | Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-I dati compilati per questo report non riportano un meccanismo d'azione dettagliato. In base alle conoscenze generali, la roxitromicina è un macrolide che inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S. La sua efficacia nelle infezioni batteriche è nota e, sul piano meccanicistico, potrebbe essere applicabile a un'infezione micobatterica come la lebbra.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, la roxitromicina è un macrolide che inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S.
 
-La letteratura preclinica sostiene questa ipotesi: i macrolidi mostrano attività contro *Mycobacterium leprae* in vitro, in modelli di macrofagi e nel topo. In particolare, nel modello murino di infezione del cuscinetto plantare, la roxitromicina e la claritromicina sono risultate attive e battericide, mentre eritromicina e azitromicina erano inattive. La claritromicina è risultata superiore alla roxitromicina, probabilmente anche per le concentrazioni più elevate raggiunte nel sito di infezione.
+La letteratura preclinica riporta che alcuni macrolidi hanno attività contro *Mycobacterium leprae*, l'agente della lebbra. In un modello murino (zampa) roxitromicina e claritromicina sono risultate attive e battericide, mentre eritromicina e azitromicina no. La claritromicina è risultata superiore alla roxitromicina. Il meccanismo è dunque plausibile, ma gli studi disponibili non valutano l'efficacia clinica della roxitromicina nei pazienti con lebbra, e le evidenze specifiche per questo farmaco sono verosimilmente più deboli rispetto a quelle della claritromicina.
 
-Va sottolineato che i dati disponibili non mostrano un'efficacia clinica specifica della roxitromicina nella lebbra. Il macrolide con l'evidenza più solida è la claritromicina, quindi l'evidenza per la roxitromicina è verosimilmente più debole e richiede verifica sui testi completi.
+## Evidenze da studi clinici
 
-Le altre indicazioni predette (ipertricosi, sindromi malformative, sindrome Dandy-Walker, anomalie del fusto del capello, sindrome nefrogenica da inappropriata antidiuresi, ipertensione polmonare) hanno punteggi TxGNN simili ma nessun razionale meccanicistico plausibile e nessuna evidenza clinica diretta; per l'ipertensione polmonare l'unico riferimento è una revisione indiretta sulla BPCO.
+Attualmente nessuno studio clinico correlato risulta registrato.
 
-## Evidenza dagli studi clinici
-
-Attualmente non risultano studi clinici correlati registrati.
-
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [1648889](https://pubmed.ncbi.nlm.nih.gov/1648889/) | 1991 | Studio su animale (topo) | Antimicrob Agents Chemother | Roxitromicina e claritromicina attive e battericide contro *M. leprae* nel cuscinetto plantare del topo; claritromicina superiore; eritromicina e azitromicina inattive |
-| [3072920](https://pubmed.ncbi.nlm.nih.gov/3072920/) | 1988 | Studio in vitro/animale | Antimicrob Agents Chemother | Valutazione dell'attività relativa di nuovi macrolidi contro *M. leprae* con parametri farmacocinetici favorevoli |
-| [2665640](https://pubmed.ncbi.nlm.nih.gov/2665640/) | 1989 | Studio in vitro | Antimicrob Agents Chemother | Valutazione rapida di oltre 25 antimicrobici su *M. leprae* in macrofagi murini tramite sintesi del glicolipide fenolico |
-| [10481449](https://pubmed.ncbi.nlm.nih.gov/10481449/) | 1999 | Revisione | Nihon Hansenbyo Gakkai Zasshi | Claritromicina e roxitromicina hanno azione antinfiammatoria e immunomodulatoria, oltre all'attività anti-*M. leprae*; contesto della neuropatia periferica lebbrosa |
-| [12762831](https://pubmed.ncbi.nlm.nih.gov/12762831/) | 2003 | Revisione | Am J Clin Dermatol | Guida alla scelta e all'uso appropriato dei macrolidi nelle infezioni cutanee |
+| [1648889](https://pubmed.ncbi.nlm.nih.gov/1648889/) | 1991 | Studio animale (topo) | Antimicrob Agents Chemother | Roxitromicina e claritromicina attive e battericide contro *M. leprae* nella zampa di topo; claritromicina superiore; eritromicina e azitromicina inattive |
+| [3072920](https://pubmed.ncbi.nlm.nih.gov/3072920/) | 1988 | In vitro/animale | Antimicrob Agents Chemother | Confronto dell'attività in vitro e in vivo di nuovi macrolidi contro *M. leprae* |
+| [2665640](https://pubmed.ncbi.nlm.nih.gov/2665640/) | 1989 | In vitro | Antimicrob Agents Chemother | Valutazione di oltre 25 antimicrobici su *M. leprae* in macrofagi murini |
+| [10481449](https://pubmed.ncbi.nlm.nih.gov/10481449/) | 1999 | Revisione | Nihon Hansenbyo Gakkai Zasshi | Azione antinfiammatoria e immunomodulante di claritromicina, roxitromicina e altri farmaci, con attività anti-*M. leprae* |
+| [12762831](https://pubmed.ncbi.nlm.nih.gov/12762831/) | 2003 | Revisione | Am J Clin Dermatol | Guida alla scelta e all'uso dei macrolidi nelle infezioni cutanee |
 
 ## Informazioni sul mercato italiano
 
@@ -86,25 +81,23 @@ Attualmente non risultano studi clinici correlati registrati.
 | 026727040 | RULID 6 cpr rivestite 300 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 026727014 | RULID 12 cpr rivestite 150 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: è stata rilevata un'interazione di natura farmacologica con il recettore della motilina (MLNR), di cui la roxitromicina è ligando, come noto per i macrolidi; il livello di gravità non è specificato.
-
-Per le avvertenze e le controindicazioni, fare riferimento al foglio illustrativo.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza per la lebbra è solo preclinica (in vitro e nel topo) e indiretta, con la claritromicina più efficace della roxitromicina. Inoltre, in Italia tutte le autorizzazioni sono cancellate e mancano dati di sicurezza a livello di etichetta, quindi non è possibile procedere con una valutazione di sicurezza.
+La predizione si basa su un meccanismo plausibile e su dati preclinici sui macrolidi, ma nessuno studio testa la roxitromicina nella lebbra (livello L5). Le evidenze indicano inoltre che la claritromicina è più attiva.
 
 **Per procedere sono necessari:**
-- Foglio illustrativo AIFA (avvertenze e controindicazioni), da scaricare e analizzare
-- Dati sul meccanismo d'azione da DrugBank
-- Verifica sui testi completi dell'evidenza specifica per la roxitromicina nella lebbra e confronto con la claritromicina e con gli schemi standard
-- Valutazione della fattibilità regolatoria, dato che il prodotto non è attualmente commercializzato in Italia
-- Le altre indicazioni predette restano in Hold, senza razionale né evidenza di supporto
+- Studi specifici sulla roxitromicina nella lebbra, o la verifica dei testi completi delle pubblicazioni preclinike disponibili
+- Dati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Confronto con la claritromicina e con gli schemi terapeutici standard per la lebbra
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

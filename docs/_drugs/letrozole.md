@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Letrozole
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 262
-evidence_level: L1
+evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-description: "Letrozole: nuova indicazione prevista, Nipple carcinoma (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+description: "Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **4** 
+Livello di evidenza: **L5** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +33,53 @@ Livello di evidenza: **L1** | Indicazioni previste: **4**
 
 </div>
 
-## Letrozole: Nipple carcinoma
+## Letrozole: Carcinoma del capezzolo (nipple carcinoma)
 {: .text-alpha }
 
-## Sintesi
+## Sintesi in una frase
 
-Il letrozolo è un inibitore non steroideo dell'aromatasi, usato nella pratica clinica per il carcinoma mammario ormonodipendente in postmenopausa. Nei dati compilati per questo report la sezione delle indicazioni originali è vuota e il meccanismo d'azione è segnalato come dato mancante. Il modello TxGNN colloca al primo posto l'indicazione **carcinoma mammario femminile**, con **oltre 40 studi clinici** e **circa 20 pubblicazioni** associati. Questa è di fatto una conferma di un uso già consolidato, più che un vero riposizionamento.
+Letrozolo è un inibitore dell'aromatasi utilizzato in ambito oncologico ormonale. Il modello TxGNN prevede una possibile efficacia nel **carcinoma del capezzolo (nipple carcinoma)**, ma il livello di evidenza è **L5**: non esistono studi clinici registrati e la letteratura disponibile (7 pubblicazioni) è costituita da casi clinici e revisioni che non testano il letrozolo in questa condizione.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Nipple carcinoma |
-| Punteggio di predizione TxGNN | 0.9976 |
-| Livello di evidenza | L1 |
+| Nuova indicazione prevista | Carcinoma del capezzolo (nipple carcinoma) |
+| Punteggio di previsione TxGNN | 0.9976 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold (attendere) |
 
-## Perché questa predizione è plausibile?
+## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dalla letteratura emerge comunque che il letrozolo è un inibitore dell'aromatasi di terza generazione: blocca la conversione degli androgeni in estrogeni e riduce così la crescita tumorale guidata dagli estrogeni nei tumori mammari con recettori ormonali positivi.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali, il letrozolo appartiene alla classe degli inibitori dell'aromatasi, che riducono la produzione di estrogeni.
 
-Il carcinoma mammario femminile, in particolare la forma HR+, è esattamente il contesto in cui questo meccanismo è rilevante. Il letrozolo è la base endocrina di numerosi studi di fase 3 (ad esempio MONALEESA-2 con ribociclib e PALOMA-2 con palbociclib), che ne confermano il ruolo nella malattia avanzata e in quella precoce.
+Il carcinoma del capezzolo è un sottotipo di tumore della mammella; l'inibizione dell'aromatasi è quindi teoricamente plausibile quando il tumore è positivo ai recettori ormonali. Si tratta tuttavia di un'estrapolazione indiretta dal tumore mammario in generale: nessuno studio verifica il letrozolo specificamente nel carcinoma del capezzolo.
 
-Va notato che l'assenza di indicazioni originali, il meccanismo segnalato come dato mancante e lo stato «solo cancellate» sono problemi di qualità dei dati da riconciliare. Non indicano assenza di evidenze cliniche.
+## Evidenze da studi clinici
 
-## Evidenze dagli studi clinici
-
-Sono riportati i 10 studi più rilevanti, selezionati tra quelli con valutazione di rilevanza disponibile e tra i più significativi per dimensione e fase.
-
-| Studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT02941926](https://clinicaltrials.gov/study/NCT02941926) | Fase 3 | Completato | 3246 | COMPLEEMENT-1: ribociclib + letrozolo nel carcinoma mammario avanzato HR+/HER2− senza precedente terapia ormonale |
-| [NCT02600923](https://clinicaltrials.gov/study/NCT02600923) | Fase 3 | Completato | 131 | Palbociclib + letrozolo in donne in postmenopausa con malattia avanzata HR+/HER2− |
-| [NCT01740427](https://clinicaltrials.gov/study/NCT01740427) | Fase 3 | Completato | 666 | PALOMA-2: palbociclib + letrozolo vs placebo + letrozolo in prima linea |
-| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Fase 3 | Attivo, non in reclutamento | 1050 | SONIA: inibitore dell'aromatasi + CDK4/6 in prima o seconda linea (da verificare il ruolo del letrozolo) |
-| [NCT00382070](https://clinicaltrials.gov/study/NCT00382070) | Fase 3 | Sconosciuto | 3966 | Cinque anni di letrozolo vs placebo dopo terapia ormonale adiuvante di 5 anni |
-| [NCT00433589](https://clinicaltrials.gov/study/NCT00433589) | Fase 3 | Completato | 6600 | MINDACT: firma genica a 70 geni per decidere la chemioterapia adiuvante; terapia ormonale secondo standard |
-| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | Fase 3 | Terminato | 123 | Letrozolo preoperatorio per 4 mesi vs chirurgia come primo trattamento in postmenopausa |
-| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Fase 2 | Attivo, non in reclutamento | 84 | Terapia endocrina preoperatoria in donne anziane con carcinoma precoce ER+ |
-| [NCT02712723](https://clinicaltrials.gov/study/NCT02712723) | Fase 2 | Attivo, non in reclutamento | 121 | Letrozolo + ribociclib o placebo come terapia endocrina neoadiuvante |
-| [NCT01439711](https://clinicaltrials.gov/study/NCT01439711) | Fase 2 | Completato | 108 | Letrozolo neoadiuvante nel carcinoma duttale in situ ER+ |
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
+Le pubblicazioni sono casi clinici o revisioni sul tema del carcinoma del capezzolo e mammario, senza dati di efficacia specifici per il letrozolo.
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [35263519](https://pubmed.ncbi.nlm.nih.gov/35263519/) | 2022 | RCT | N Engl J Med | Sopravvivenza globale con ribociclib + letrozolo nel carcinoma mammario avanzato |
-| [29718092](https://pubmed.ncbi.nlm.nih.gov/29718092/) | 2018 | RCT | Ann Oncol | MONALEESA-2: dati aggiornati di efficacia e sicurezza di ribociclib + letrozolo in prima linea |
-| [30632023](https://pubmed.ncbi.nlm.nih.gov/30632023/) | 2019 | RCT | Breast Cancer Res Treat | PALOMA-2: palbociclib + letrozolo con follow-up esteso |
-| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Revisione | Life Sci | Farmacologia, tossicità ed effetti terapeutici potenziali del letrozolo |
-| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Revisione | Expert Opin Drug Metab Toxicol | Aspetti farmacodinamici, farmacocinetici, efficacia e sicurezza del letrozolo |
-| [17912633](https://pubmed.ncbi.nlm.nih.gov/17912633/) | 2007 | Revisione | Breast Cancer Res Treat | Scoperta e meccanismo d'azione del letrozolo |
-| [19250202](https://pubmed.ncbi.nlm.nih.gov/19250202/) | 2009 | Revisione | Ann N Y Acad Sci | Inibitori dell'aromatasi e carcinoma mammario; crescita tumorale inibita più a lungo dal letrozolo che dal tamoxifene nel modello preclinico |
-| [17544670](https://pubmed.ncbi.nlm.nih.gov/17544670/) | 2007 | Revisione | Breast | Letrozolo adiuvante esteso (studio MA-17) |
-| [12113048](https://pubmed.ncbi.nlm.nih.gov/12113048/) | 2002 | Revisione | Expert Rev Anticancer Ther | Letrozolo superiore al tamoxifene come trattamento di prima linea nella malattia metastatica in postmenopausa |
-| [35464999](https://pubmed.ncbi.nlm.nih.gov/35464999/) | 2022 | Studio clinico | Comput Math Methods Med | Efficacia, sicurezza e prognosi della terapia sequenziale tamoxifene + letrozolo vs letrozolo da solo |
+| [33120755](https://pubmed.ncbi.nlm.nih.gov/33120755/) | 2020 | Coorte/caso clinico | Medicine | Terapia endocrina neoadiuvante nel carcinoma neuroendocrino scarsamente differenziato della mammella: efficacia incerta |
+| [41607681](https://pubmed.ncbi.nlm.nih.gov/41607681/) | 2026 | Caso clinico | Clinical Case Reports | Carcinoma papillare solido in situ originato dal capezzolo, con revisione della letteratura |
+| [34495428](https://pubmed.ncbi.nlm.nih.gov/34495428/) | 2021 | Caso clinico | Surgical Case Reports | Carcinoma in mammella accessoria in regione inframammaria |
+| [40395253](https://pubmed.ncbi.nlm.nih.gov/40395253/) | 2025 | Caso clinico | Cureus | Recidiva ascellare inusuale in tumore mammario con secrezione ematica dal capezzolo |
+| [42040393](https://pubmed.ncbi.nlm.nih.gov/42040393/) | 2026 | Caso clinico | Clinical Case Reports | Carcinoma a cellule alte della mammella con polarità inversa e mutazione IDH1 R132 |
+| [39682607](https://pubmed.ncbi.nlm.nih.gov/39682607/) | 2024 | Caso clinico | Diagnostics | Carcinoma metastatico in mammella accessoria inframammaria e carcinoma mammario omolaterale |
+| [42305961](https://pubmed.ncbi.nlm.nih.gov/42305961/) | 2026 | Caso clinico | Frontiers in Medicine | Triade rara di neoplasie sincrone: mammella accessoria, tiroide papillare, papilloma nasale |
+| [42416948](https://pubmed.ncbi.nlm.nih.gov/42416948/) | 2026 | Caso clinico | Cureus | Carcinoma lobulare in situ florido: reperti ecografici |
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è attiva nessuna. I testi delle indicazioni approvate e le forme farmaceutiche non sono presenti nei dati. Le prime cinque sono:
+Il farmaco risulta commercializzato in Italia con licenze valide. L'elenco seguente riporta alcune delle autorizzazioni principali; l'elenco può essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -108,39 +93,30 @@ Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è attiva nes
 
 | Voce | Contenuto |
 |------|------|
-| Classificazione di citotossicità | Terapia ormonale (inibitore dell'aromatasi); non è un citotossico convenzionale |
-| Rischio di mielosoppressione | Non documentato nei dati disponibili; consultare il foglio illustrativo |
-| Classificazione emetogena | Bassa (indicazione generale per la classe; verificare sul foglio illustrativo) |
-| Parametri da monitorare | Funzionalità epatica, densità minerale ossea, profilo lipidico |
+| Classificazione di citotossicità | Terapia ormonale antineoplastica (inibitore dell'aromatasi), non chemioterapico citotossico convenzionale |
+| Rischio di mielosoppressione | Non documentato nei dati compilati; consultare il foglio illustrativo |
+| Classificazione emetogena | Non documentata nei dati compilati; consultare il foglio illustrativo |
+| Parametri da monitorare | Funzionalità epatica, densità ossea, profilo lipidico |
 | Protezione nella manipolazione | Consultare il foglio illustrativo e le norme locali |
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni (da rete di conoscenza, non da foglio illustrativo)**: il grafo di conoscenza TxGNN associa al farmaco condizioni come insufficienza epatica, cirrosi epatica, osteoporosi (anche post-menopausale), iperbilirubinemia (anche ereditaria), sindrome di Gilbert e disturbi cerebrovascolari. Non sono controindicazioni ufficiali e vanno verificate.
-- **Interazioni farmacologiche**: sono state identificate 259 interazioni. Quella classificata come moderata riguarda l'aprepitant. Altre interazioni riportate, di livello non specificato, includono calcitriolo, glimepiride, lansoprazolo, dolasetron, granisetron, famotidina, acido acetilsalicilico, pantoprazolo, morfina e metformina.
-- **Segnalazioni dalla letteratura**: casi descritti di maculopatia correlata al letrozolo e di «flare» con sindrome da lisi tumorale.
-
-I dati di avvertenze e controindicazioni del foglio illustrativo AIFA non sono disponibili: consultare il foglio illustrativo.
+- **Interazioni farmacologiche**: sono state rilevate 259 possibili interazioni. Tra quelle elencate, l'aprepitant è classificato come moderato; per le altre (ad es. calcitriolo, glimepiride, lansoprazolo, omeprazolo, metformina, morfina, prednisone, simvastatina) il livello di gravità non è determinato.
+- Per avvertenze e controindicazioni complete consultare il foglio illustrativo. Le condizioni in cui l'estrapolazione richiede cautela, per la soppressione estrogenica prolungata, includono osteoporosi e compromissione epatica.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold (attendere)**
 
 **Motivazione:**
-Per il carcinoma mammario HR+ esistono studi di fase 3 completati (COMPLEEMENT-1, PALOMA-2 e altri), per cui il livello di evidenza è L1. Si tratta però di un uso già consolidato, non di un vero riposizionamento. Restano da risolvere lo stato «solo autorizzazioni cancellate» e la mancanza di dati sulle indicazioni originali, sul meccanismo e sul foglio illustrativo.
+Il livello di evidenza è L5: nessuno studio verifica il letrozolo nel carcinoma del capezzolo e la letteratura è limitata a casi clinici. Il punteggio TxGNN da solo non basta a giustificare l'avanzamento.
 
 **Per procedere sono necessari:**
-- Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), un requisito bloccante per la valutazione di sicurezza
-- Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank)
-- Chiarire lo stato di commercializzazione in Italia (tutte le 20 autorizzazioni risultano cancellate) e le indicazioni originali
-- Definire un piano di monitoraggio per le popolazioni a rischio (epatopatie, osteoporosi, malattie cerebrovascolari)
+- Dati sul meccanismo d'azione
+- Studi clinici o serie di casi che valutino direttamente il letrozolo nel carcinoma del capezzolo, con stato dei recettori ormonali
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Piano di monitoraggio della sicurezza (salute ossea, funzionalità epatica)
 
-## Note sulle altre indicazioni previste
-
-- **Carcinoma mammario ER-positivo** (livello L1, Proceed with Guardrails): uso già standard.
-- **Carcinoma mammario ormono-resistente** (L2) e **carcinoma mammario bilaterale** (L2): evidenze indirette, basate su combinazioni o popolazioni HR+ generali.
-- **Carcinoma mammario ER-negativo**: Hold. Probabile errore di etichetta della malattia, senza razionale meccanicistico.
-- **Carcinoma del capezzolo, carcinoma di Ehrlich (modello murino), displasia mammaria benigna, malattia fibrocistica**: Hold, evidenza assente o solo preclinica/casistica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

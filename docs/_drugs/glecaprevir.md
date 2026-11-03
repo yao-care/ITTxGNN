@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 222
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "glecaprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5)."
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,74 +36,55 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 ## Glecaprevir: Infezione da HIV (HIV infectious disease)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Glecaprevir è un inibitore della proteasi NS3/4A del virus dell'epatite C (HCV), utilizzato in associazione con pibrentasvir per il trattamento dell'infezione cronica da HCV.
-Il modello TxGNN lo predice come potenzialmente efficace per l'**infezione da HIV**, ma le **6 sperimentazioni cliniche** e le **20 pubblicazioni** collegate riguardano in realtà la cura dell'HCV in pazienti con coinfezione HIV/HCV, non un effetto anti-HIV.
-Il punteggio elevato sembra riflettere una vicinanza nella rete di conoscenze tra classi di farmaci antivirali, più che un'evidenza biologica.
-
----
+Glecaprevir è un inibitore della proteasi NS3/4A del virus dell'epatite C (HCV), impiegato in associazione con pibrentasvir. Il modello TxGNN lo indica come possibile candidato per l'**infezione da HIV (HIV infectious disease)**, con un punteggio molto alto (0,9987). Tuttavia, gli studi disponibili riguardano la cura dell'epatite C in persone con co-infezione HIV/HCV e non un effetto contro l'HIV: il livello di evidenza per questa previsione è quindi **L5**.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non riportata nei dati locali |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
-| Punteggio di predizione TxGNN | 0.9987 |
-| Livello di evidenza | L3 (studi osservazionali e revisioni; nessuno studio testa un effetto anti-HIV) |
+| Punteggio di previsione TxGNN | 0.9987 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole (o no)?
 
-## Perché questa predizione è ragionevole (o no)?
+Dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. Glecaprevir è noto come inibitore della proteasi NS3/4A dell'HCV, e non ha un'attività accertata contro la proteasi dell'HIV né contro altri bersagli del virus.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, glecaprevir fa parte dell'associazione a dose fissa con pibrentasvir (inibitore di NS5A). La sua efficacia nell'epatite C è dimostrata, ma dal punto di vista meccanicistico non è applicabile in modo diretto all'HIV.
-
-Glecaprevir agisce sulla proteasi NS3/4A dell'HCV e non ha un'attività nota contro la proteasi dell'HIV né altri bersagli del virus. Il punteggio TxGNN probabilmente deriva dalla prossimità, nella rete di conoscenze, tra le classi di inibitori delle proteasi antivirali e dalla frequente coesistenza di HIV e HCV.
-
-Gli studi elencati arruolano pazienti coinfetti e misurano la guarigione dall'HCV (risposta virologica sostenuta, SVR), non il controllo dell'HIV. Le evidenze sostengono quindi un trattamento sicuro ed efficace dell'HCV nelle persone con HIV, ma non un effetto anti-HIV. Qualunque affermazione di riposizionamento per l'HIV in sé non è supportata.
-
-Anche le altre predizioni del modello (epatite B, epatite E, epatite A, HIV felino e simiano, febbre emorragica di Omsk, malattia della foresta di Kyasanur, un disturbo del neurosviluppo raro) sono prive di una base meccanicistica solida o sono artefatti computazionali. Per l'epatite A, le 40 sperimentazioni associate riguardano l'HCV e sono state abbinate probabilmente per il termine generico «epatite».
-
----
+Il punteggio elevato riflette verosimilmente la vicinanza, nella rete di relazioni del modello, tra HIV e HCV e tra le classi di inibitori della proteasi impiegate nelle due infezioni. Le due infezioni sono frequentemente associate (co-infezione), ma i meccanismi virali sono diversi: i dati attuali sostengono un trattamento sicuro ed efficace dell'epatite C nelle persone che vivono con HIV, non un'azione anti-HIV. Qualsiasi ipotesi di riposizionamento per l'HIV in sé non è supportata dalle evidenze.
 
 ## Evidenze dagli studi clinici
 
+Gli studi seguenti coinvolgono pazienti con co-infezione HIV/HCV, ma l'obiettivo è la risposta virologica per l'HCV, non il controllo dell'HIV. Nessuno studio testa glecaprevir come trattamento dell'infezione da HIV.
+
 | Studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Fase 3 | Completato | 153 | EXPEDITION-2: efficacia e sicurezza di glecaprevir/pibrentasvir in adulti con HCV (genotipi 1-6) e coinfezione HIV-1; esito sull'HCV |
-| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Fase 3 | Completato | 546 | Studio controllato con placebo in adulti asiatici non cirrotici con HCV, con o senza coinfezione HIV |
-| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Fase 3 | Completato | 160 | Studio in aperto in adulti asiatici con HCV e cirrosi compensata, con o senza coinfezione HIV |
-| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Fase 3 | Completato | 83 | Studio pilota su DAA in infezione da HCV di recente acquisizione, con o senza HIV; il regime include anche paritaprevir/ritonavir |
-| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Fase 4 | Completato | 87 | Rischio cardiovascolare dopo eradicazione dell'HCV in persone con HIV; non testa un effetto anti-HIV |
-| [NCT04042740](https://clinicaltrials.gov/study/NCT04042740) | Fase 2 | Completato | 45 | PURGE-C: glecaprevir/pibrentasvir per 4 settimane nell'HCV acuto, con o senza HIV-1 |
-| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Fase 1/2 | In reclutamento | 30 | Farmacocinetica e sicurezza in gravidanza in donne con HCV, con o senza HIV |
-
-In tutti questi studi l'esito misurato è la risposta contro l'HCV, non il controllo dell'HIV.
-
----
+| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Fase 3 | Completato | 83 | Studio pilota di regimi DAA (anche glecaprevir/pibrentasvir) in epatite C di recente acquisizione, con o senza co-infezione HIV; endpoint HCV |
+| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Fase 3 | Completato | 546 | Glecaprevir/pibrentasvir vs placebo in adulti asiatici con HCV GT1-6, con o senza HIV; endpoint HCV |
+| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Fase 3 | Completato | 160 | Glecaprevir/pibrentasvir in adulti asiatici con HCV e cirrosi compensata, con o senza HIV |
+| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Fase 3 | Completato | 153 | EXPEDITION-2: efficacia e sicurezza di glecaprevir/pibrentasvir in HCV con co-infezione HIV-1 |
+| [NCT04042740](https://clinicaltrials.gov/study/NCT04042740) | Fase 2 | Completato | 45 | PURGE-C: glecaprevir/pibrentasvir per 4 settimane nell'epatite C acuta, con o senza HIV-1 |
+| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Fase 4 | Completato | 87 | Rischio cardiovascolare dopo eradicazione dell'HCV in persone con HIV e HCV |
+| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Fase 1/2 | In reclutamento | 30 | Farmacocinetica e sicurezza di glecaprevir/pibrentasvir in gravidanza, con o senza HIV |
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [31284039](https://pubmed.ncbi.nlm.nih.gov/31284039/) | 2019 | Revisione sistematica/meta-analisi | Int J Antimicrob Agents | 13 studi, 3082 pazienti: SVR12 complessivo del 97,8% con glecaprevir/pibrentasvir nell'HCV genotipi 1-6 |
-| [42850633](https://pubmed.ncbi.nlm.nih.gov/42850633/) | 2026 | Revisione sistematica/meta-analisi | Virol J | Efficacia dei regimi DAA nell'HCV acuto, in particolare in MSM con HIV e persone che si iniettano droghe |
-| [41297677](https://pubmed.ncbi.nlm.nih.gov/41297677/) | 2026 | Fase 3b a braccio singolo | J Hepatol | Glecaprevir/pibrentasvir per 8 settimane in adulti con HCV acuto |
-| [37671831](https://pubmed.ncbi.nlm.nih.gov/37671831/) | 2023 | Coorte | J Antimicrob Chemother | Risposta a glecaprevir/pibrentasvir nella pratica clinica in pazienti coinfetti HIV/HCV |
-| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | Studio real-world | Clin Exp Hepatol | Efficacia di glecaprevir/pibrentasvir in pazienti HIV/HCV trattati con bictegravir/emtricitabina/tenofovir alafenamide |
-| [32754824](https://pubmed.ncbi.nlm.nih.gov/32754824/) | 2020 | Coorte | Adv Ther | Uso reale di glecaprevir/pibrentasvir per 8 settimane in pazienti naïve con cirrosi compensata |
-| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | Revisione | Future Microbiol | Glecaprevir/pibrentasvir nell'infezione cronica da HCV |
-| [31114957](https://pubmed.ncbi.nlm.nih.gov/31114957/) | 2019 | Revisione | Clin Pharmacokinet | Aspetti farmacocinetici e farmacodinamici della terapia anti-HCV |
-| [29595065](https://pubmed.ncbi.nlm.nih.gov/29595065/) | 2018 | Revisione | Expert Opin Pharmacother | Terapia con inibitori delle proteasi per l'HCV |
-| [35579223](https://pubmed.ncbi.nlm.nih.gov/35579223/) | 2022 | Revisione | Eur J Gen Pract | Diagnosi e trattamento dell'epatite C cronica |
+| [37671831](https://pubmed.ncbi.nlm.nih.gov/37671831/) | 2023 | Coorte | J Antimicrob Chemother | Risposta a glecaprevir/pibrentasvir nella pratica clinica in pazienti co-infetti HIV/HCV |
+| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | Studio real-life | Clin Exp Hepatol | Efficacia e sicurezza di glecaprevir/pibrentasvir in pazienti HIV/HCV trattati con bictegravir/emtricitabina/tenofovir alafenamide |
+| [42850633](https://pubmed.ncbi.nlm.nih.gov/42850633/) | 2026 | Revisione sistematica e meta-analisi | Virol J | Efficacia dei regimi DAA nell'epatite C acuta, incluse popolazioni con HIV |
+| [31284039](https://pubmed.ncbi.nlm.nih.gov/31284039/) | 2019 | Revisione sistematica e meta-analisi | Int J Antimicrob Agents | Efficacia e sicurezza di glecaprevir/pibrentasvir nell'HCV GT1-6 (SVR12 complessiva 97,8%) |
+| [31114957](https://pubmed.ncbi.nlm.nih.gov/31114957/) | 2019 | Revisione | Clin Pharmacokinet | Considerazioni farmacocinetiche e farmacodinamiche della terapia dell'epatite C |
+| [29595065](https://pubmed.ncbi.nlm.nih.gov/29595065/) | 2018 | Revisione | Expert Opin Pharmacother | Terapia con inibitori della proteasi per l'HCV |
+| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | Revisione | Future Microbiol | Glecaprevir/pibrentasvir nell'epatite C cronica |
 
-Nessuna pubblicazione documenta un'attività di glecaprevir contro l'HIV.
-
----
+Tutta la letteratura riguarda l'epatite C; nessuna pubblicazione valuta un effetto di glecaprevir sull'infezione da HIV.
 
 ## Informazioni sul mercato italiano
 
@@ -112,40 +93,34 @@ Nessuna pubblicazione documenta un'attività di glecaprevir contro l'HIV.
 | 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
 | 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
 
----
+Titolare: AbbVie Deutschland GmbH & Co. KG. Entrambe le autorizzazioni risultano valide.
 
-## Citotossicità
+## Cytotoxicity
 
-Glecaprevir è un antivirale e non un farmaco antineoplastico: questa sezione non è applicabile.
-
----
+Non applicabile: glecaprevir è un antivirale e non un farmaco antineoplastico.
 
 ## Considerazioni sulla sicurezza
 
-**Interazioni farmacologiche**: dai dati compilati risultano 57 interazioni. Tra quelle di livello **maggiore** figurano:
+**Interazioni farmacologiche**: dai dati compilati risultano 57 interazioni. Tra quelle di livello **maggiore**:
 - Rosuvastatina
 - Simvastatina
 - Edoxaban
 
-Tra quelle di livello moderato, a titolo di esempio: desametasone, esomeprazolo, omeprazolo, apixaban, betrixaban, cobicistat, deferasirox, lusutrombopag e griseofulvina. Sono presenti anche interazioni minori (ad esempio fidaxomicina, naloxegol, procalopride, indacaterolo).
-
-Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
-
----
+Tra quelle di livello moderato si segnalano, ad esempio, desametasone, esomeprazolo, omeprazolo, apixaban, betrixaban, cobicistat, deferasirox e griseofulvina. Per le avvertenze, le controindicazioni e le altre informazioni di sicurezza si rimanda al foglietto illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- Le evidenze disponibili dimostrano l'efficacia di glecaprevir/pibrentasvir contro l'HCV, anche in pazienti con coinfezione HIV, ma nessuna indica un effetto anti-HIV. L'alto punteggio TxGNN appare un artefatto di rete e il riposizionamento per l'HIV non è supportato.
-- In Italia le due autorizzazioni risultano revocate, quindi non c'è oggi un prodotto commercializzato a cui ricondurre un eventuale uso.
+Gli studi disponibili dimostrano l'efficacia di glecaprevir/pibrentasvir nell'epatite C anche in pazienti con HIV, ma non studiano la malattia da HIV in sé, e non esiste una base meccanicistica per un'attività anti-HIV. Il livello di evidenza è L5 e la previsione resta puramente computazionale.
 
 **Per procedere sarebbe necessario:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank, e dati in vitro che mostrino attività su bersagli dell'HIV
-- Il foglio illustrativo AIFA con avvertenze e controindicazioni, per completare la valutazione di sicurezza
-- Chiarire lo stato regolatorio in Italia (motivi e data della revoca delle autorizzazioni)
-- Considerare più realistica l'indicazione già supportata: la cura dell'HCV nei pazienti coinfetti HIV/HCV, valutando la gestione delle interazioni con gli antiretrovirali
+- Dati di attività in vitro di glecaprevir contro i bersagli virali dell'HIV
+- Informazioni dettagliate sul meccanismo d'azione
+- Studi preclinici che indichino un possibile effetto anti-HIV, prima di qualsiasi sperimentazione clinica
+- Testo del foglietto illustrativo AIFA con avvertenze e controindicazioni
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

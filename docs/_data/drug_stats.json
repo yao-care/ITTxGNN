@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 436,
   "level_counts": {
-    "L1": 13,
+    "L1": 8,
     "L2": 11,
-    "L3": 28,
+    "L3": 23,
     "L4": 30,
-    "L5": 336
+    "L5": 346
   },
   "all_drugs": [
     {
@@ -222,7 +222,7 @@
     {
       "name": "Atomoxetine",
       "slug": "atomoxetine",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10
     },
     {
@@ -1122,7 +1122,7 @@
     {
       "name": "Glecaprevir",
       "slug": "glecaprevir",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10
     },
     {
@@ -1188,7 +1188,7 @@
     {
       "name": "Iloprost",
       "slug": "iloprost",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 4
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "name": "Letrozole",
       "slug": "letrozole",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 4
     },
     {
@@ -1980,7 +1980,7 @@
     {
       "name": "Propafenone",
       "slug": "propafenone",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -2058,7 +2058,7 @@
     {
       "name": "Rifabutin",
       "slug": "rifabutin",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 10
     },
     {
@@ -2142,7 +2142,7 @@
     {
       "name": "Roxithromycin",
       "slug": "roxithromycin",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 8
     },
     {
@@ -2304,7 +2304,7 @@
     {
       "name": "Tamoxifen",
       "slug": "tamoxifen",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 3
     },
     {
@@ -2568,7 +2568,7 @@
     {
       "name": "Vilanterol",
       "slug": "vilanterol",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -2586,7 +2586,7 @@
     {
       "name": "Vortioxetine",
       "slug": "vortioxetine",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 2
     },
     {

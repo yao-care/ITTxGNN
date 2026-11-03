@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atomoxetine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 56
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-description: "Atomoxetine: nuova indicazione prevista, Specific developmental disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Atomoxetine
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,46 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 
 </div>
 
-## Atomoxetine: Specific developmental disorder
+## Atomoxetine: Disturbo specifico dello sviluppo (specific developmental disorder)
 {: .text-alpha }
 
 ## Sintesi
 
-L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, usato per il trattamento del disturbo da deficit di attenzione e iperattività (ADHD). Il modello TxGNN colloca al primo posto la previsione **disturbo specifico dello sviluppo**, ma l'indicazione con le evidenze più solide è la **sindrome di Tourette** (ADHD con tic in comorbidità): **1 studio clinico** (terminato) e **19 pubblicazioni** nei dati compilati per questo report. Per il disturbo specifico dello sviluppo non risultano studi clinici e le pubblicazioni riguardano soprattutto l'ADHD in comorbidità.
+L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, non stimolante, utilizzato nel trattamento dell'ADHD. Il modello TxGNN la indica come possibile candidata per il **disturbo specifico dello sviluppo (specific developmental disorder)**, ma nei dati compilati per questo report nessuno studio clinico o pubblicazione valuta direttamente questa condizione: il livello di evidenza è quindi **L5**.
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista (rank 1) | Specific developmental disorder |
-| Punteggio TxGNN | 1.0000 |
-| Livello di evidenza | L3 (L5 per le sole previsioni senza studi) |
+| Nuova indicazione prevista | Disturbo specifico dello sviluppo (specific developmental disorder) |
+| Punteggio di previsione TxGNN | 1.0000 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
 | Numero di autorizzazioni | 5 (valide: 5) |
-| Decisione raccomandata | Hold per il rank 1 (domanda di ricerca); Proceed with Guardrails per la sindrome di Tourette (solo ADHD con tic) |
+| Decisione raccomandata | Hold |
 
-## Perché questa previsione è ragionevole?
+## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, l'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, con efficacia dimostrata nell'ADHD. Le interrogazioni farmacologiche mostrano come bersagli il trasportatore della noradrenalina (NET/SLC6A2), e, nei dati di interazione, anche DAT (SLC6A3) e SERT (SLC6A4).
+I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati. In base alle conoscenze generali, l'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina (trasportatore NET); i dati di farmacologia raccolti riportano inoltre l'interazione con i trasportatori DAT e SERT.
 
-I disturbi specifici dello sviluppo (ad esempio dell'apprendimento) si associano spesso all'ADHD. La modulazione noradrenergica delle reti attentive prefrontali potrebbe migliorare i sintomi attentivi. Va però sottolineato che le evidenze riguardano i sintomi ADHD in popolazioni con comorbidità (ad esempio autismo, difficoltà di apprendimento), non i deficit di apprendimento centrali del disturbo.
-
-Tra le altre previsioni, la **sindrome di Tourette** e il **disturbo da tic transitorio** hanno la base più plausibile: l'atomoxetina è un'opzione non stimolante per l'ADHD con tic, e studi controllati e revisioni suggeriscono un miglioramento dei sintomi ADHD senza peggioramento dei tic. L'effetto riguarda l'ADHD in comorbidità, non i tic in sé.
+I disturbi specifici dello sviluppo, incluse le difficoltà di apprendimento, si presentano spesso insieme all'ADHD. La modulazione noradrenergica delle reti attentive prefrontali potrebbe quindi giovare ai sintomi attentivi. Questo però riguarda i sintomi dell'ADHD nelle popolazioni con comorbilità (per esempio autismo o difficoltà di apprendimento), e non i deficit di apprendimento di base del disturbo specifico dello sviluppo. Il collegamento resta perciò ipotetico.
 
 ## Evidenze dagli studi clinici
 
-Per il rank 1 (disturbo specifico dello sviluppo): attualmente non risultano studi clinici registrati correlati.
-
-Per la sindrome di Tourette (previsione di rank 7, con l'unico studio registrato nei dati):
-
-| Studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT04354103](https://clinicaltrials.gov/study/NCT04354103) | Fase 2 | Terminato | 5 | Studio pilota sugli effetti dell'atomoxetina sull'impulsività nella sindrome di Tourette; terminato con soli 5 partecipanti, quindi senza conclusioni interpretabili sull'efficacia |
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ## Evidenze dalla letteratura
 
-Rank 1 – disturbo specifico dello sviluppo:
+Le pubblicazioni raccolte riguardano l'ADHD e condizioni correlate, non il disturbo specifico dello sviluppo in sé. Le più pertinenti sul piano contestuale:
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Revisione sistematica / network meta-analisi | The Lancet Psychiatry | Confronto di efficacia e accettabilità degli interventi farmacologici, psicologici e di neurostimolazione per l'ADHD negli adulti |
-| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Revisione sistematica e meta-analisi | Autism Research | Atomoxetina per l'ADHD in bambini e adolescenti con autismo: tre RCT controllati con placebo, 241 bambini |
-| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Revisione | Ther Adv Psychopharmacol | Efficacia dell'atomoxetina nell'ADHD con comorbidità frequenti |
-
-Sindrome di Tourette (evidenze più rilevanti):
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [17934184](https://pubmed.ncbi.nlm.nih.gov/17934184/) | 2008 | RCT | J Atten Disord | Atomoxetina per l'ADHD in bambini con sindrome di Tourette: variazioni della gravità di tic e ADHD |
-| [29944175](https://pubmed.ncbi.nlm.nih.gov/29944175/) | 2018 | Revisione sistematica (Cochrane) | Cochrane Database Syst Rev | Trattamento farmacologico dell'ADHD in bambini con disturbi da tic |
-| [23473832](https://pubmed.ncbi.nlm.nih.gov/23473832/) | 2013 | Revisione | Eur J Paediatr Neurol | Opzioni farmacologiche per Tourette con ADHD in comorbidità |
-
-Nota di cautela: sono presenti anche segnalazioni di casi di tic esacerbati o indotti dall'atomoxetina (ad esempio PMID 18441629 e 27922902).
+| [30653855](https://pubmed.ncbi.nlm.nih.gov/30653855/) | 2019 | Revisione sistematica e metanalisi | Autism Research | Atomoxetina per i sintomi ADHD in bambini e adolescenti con autismo: tre RCT controllati con placebo, 241 bambini |
+| [39701638](https://pubmed.ncbi.nlm.nih.gov/39701638/) | 2025 | Revisione sistematica e network metanalisi | The Lancet Psychiatry | Efficacia e accettabilità comparative degli interventi per l'ADHD negli adulti |
+| [27721971](https://pubmed.ncbi.nlm.nih.gov/27721971/) | 2016 | Revisione | Therapeutic Advances in Psychopharmacology | Efficacia dell'atomoxetina nell'ADHD con comorbilità frequenti |
+| [35485452](https://pubmed.ncbi.nlm.nih.gov/35485452/) | 2022 | Coorte retrospettiva | Neuropsychopharmacology Reports | Fattori associati all'efficacia dell'atomoxetina nell'ADHD dell'adulto |
+| [33012168](https://pubmed.ncbi.nlm.nih.gov/33012168/) | 2021 | Coorte | Clinical EEG and Neuroscience | EEG quantitativo nell'ADHD infantile e nelle difficoltà di apprendimento |
 
 ## Informazioni sul mercato italiano
 
@@ -100,30 +84,27 @@ Nota di cautela: sono presenti anche segnalazioni di casi di tic esacerbati o in
 | 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
 | 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
 
-Titolare: Eli Lilly Italia SpA. Tutte e 5 le autorizzazioni risultano cancellate.
+Titolare: Eli Lilly Italia SpA.
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-- **Controindicazioni segnalate dal grafo di conoscenza (non dal foglio illustrativo):** ipertensione, ipotensione ortostatica e sindrome tachicardica posturale ortostatica, atrofia multisistemica, epilessia, disturbo bipolare e altri disturbi affettivi maggiori, disturbi psicotici (incluso schizoaffettivo), malattia epatica e della colecisti, iperbilirubinemia (inclusa sindrome di Gilbert), emoglobinopatie, coronaropatia, infarto miocardico, ictus e malattie cerebrovascolari, arresto cardiaco improvviso, malattie della conduzione cardiaca, glaucoma ad angolo chiuso.
-- **Interazioni:** l'analisi ha restituito 3 interazioni di tipo farmacologico (non interazioni farmaco-farmaco classiche) con i trasportatori NET, DAT e SERT, senza livello di gravità.
-- **Segnali specifici per le nuove indicazioni:** casi di insorgenza o peggioramento di tricotillomania e comportamenti compulsivi; rischio di destabilizzazione dell'umore nel disturbo bipolare; segnalazioni di tic indotti o esacerbati.
+- **Interazioni (dati di farmacologia)**: l'atomoxetina agisce sui trasportatori della noradrenalina (NET), della dopamina (DAT) e della serotonina (SERT).
 
-Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo.
+Per le avvertenze e le controindicazioni consultare il foglio illustrativo.
 
-## Conclusioni e prossimi passi
+## Conclusione e prossimi passi
 
-**Decisione: Hold** per la previsione di rank 1 (disturbo specifico dello sviluppo); **Proceed with Guardrails** limitatamente alla sindrome di Tourette con ADHD in comorbidità.
+**Decisione: Hold**
 
 **Motivazione:**
-- Per il disturbo specifico dello sviluppo non esistono studi clinici e le evidenze riguardano l'ADHD in comorbidità, non i deficit centrali. Per la sindrome di Tourette esistono un RCT e revisioni sistematiche sull'ADHD con tic, ma l'unico studio registrato è stato terminato con 5 partecipanti.
-- Lo stato di mercato in Italia (solo autorizzazioni cancellate) e l'assenza dei dati di sicurezza ufficiali limitano l'avanzamento.
+Nessuno studio clinico o pubblicazione esamina l'atomoxetina nel disturbo specifico dello sviluppo; il punteggio TxGNN è una previsione computazionale e il collegamento meccanicistico riguarda solo i sintomi ADHD in comorbilità. Il livello di evidenza è L5.
 
 **Per procedere sono necessari:**
-- Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
-- Dati sul meccanismo d'azione da DrugBank
-- Verifica dello stato regolatorio attuale in Italia (autorizzazioni cancellate) e di eventuali alternative commercializzate
-- Studi controllati dedicati ai disturbi dello sviluppo e piano di monitoraggio di tic, umore e parametri cardiovascolari
-- Per le previsioni senza evidenze (rank 2, 3, 9, 10): nessuna azione, salvo nuove evidenze
+- Studi specifici sull'atomoxetina nel disturbo specifico dello sviluppo, con esiti sulle difficoltà di apprendimento di base
+- Dati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Un piano di monitoraggio della sicurezza per le popolazioni pediatriche
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
