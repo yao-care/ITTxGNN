@@ -5,8 +5,8 @@
     "L1": 13,
     "L2": 11,
     "L3": 29,
-    "L4": 31,
-    "L5": 334
+    "L4": 32,
+    "L5": 333
   },
   "all_drugs": [
     {
@@ -288,7 +288,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 7
     },
     {
