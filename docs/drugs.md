@@ -36,6 +36,8 @@ Questo elenco si basa sulle [liste AIFA dei farmaci di classe A e H](https://www
 
 <!-- local-home:end -->
 
+Selezione: [Farmaci di classe A e H con evidenze da studi clinici per una nuova indicazione]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, con l'indicazione prevista e il numero di studi registrati citati).
+
 ## Ripartizione per livello di prova
 
 | Livello di prova | Farmaci | Descrizione |

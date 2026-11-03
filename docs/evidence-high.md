@@ -12,6 +12,8 @@ description: "Candidati al riposizionamento dei farmaci di livello L1-L2 in ITTx
 Candidati che possono essere considerati prioritari per la valutazione clinica
 </p>
 
+Quali di questi farmaci hanno evidenze da studi per la nuova indicazione prevista e quanti studi registrati sono citati? Vedere [Farmaci di classe A e H con evidenze da studi clinici per una nuova indicazione]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Criteri
