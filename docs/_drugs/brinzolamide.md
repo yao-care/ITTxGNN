@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 75
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Brinzolamide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 I candidati proposti dal modello TxGNN (punteggio ≥ 0,99) per Brinzolamide, tracciabili a una fonte, corrispondono tutti a usi già noti. Al momento, quindi, non risulta alcuna nuova indicazione predetta per questo principio attivo.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello tracciabili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ I candidati proposti dal modello TxGNN (punteggio ≥ 0,99) per Brinzolamide, tr
 ## Usi noti tra i candidati del modello
 
 ### Approvate (supportate da autorizzazione o scheda tecnica)
+
 | Indicazione | Fonte |
 |------|------|
 | glaucoma primario ereditario (primary hereditary glaucoma) | licenza in un altro Paese (indicazione approvata: glaucoma) |
 
 ### Correlate a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | nessuna | nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | nessuna |

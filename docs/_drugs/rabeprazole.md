@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 371
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Rabeprazole: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Il modello TxGNN ha prodotto candidati per Rabeprazole con un punteggio ≥ 0,99. Tutti i candidati riconducibili a una fonte sono però usi già noti. Al momento non c'è quindi alcuna nuova indicazione predetta.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ Il modello TxGNN ha prodotto candidati per Rabeprazole con un punteggio ≥ 0,99
 ## Usi noti tra i candidati del modello
 
 ### Approvate (supportate da autorizzazione o foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | Nessuna | — |
 
 ### Correlate a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | — |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Mastocitosi sistemica indolente (Smouldering systemic mastocytosis) |

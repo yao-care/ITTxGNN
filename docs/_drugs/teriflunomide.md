@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 429
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Teriflunomide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Il modello TxGNN ha prodotto candidati per Teriflunomide, ma tutti quelli riconducibili a una fonte sono usi già noti. Al momento non esiste quindi alcuna nuova indicazione predetta. Questa pagina riporta gli usi noti individuati e lo stato di mercato in Italia.
 
 ## Quadro sintetico
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ Il modello TxGNN ha prodotto candidati per Teriflunomide, ma tutti quelli ricond
 ## Usi noti tra i candidati del modello
 
 ### Approvate (supportate da autorizzazione o scheda tecnica)
+
 | Indicazione | Fonte |
 |------|------|
 | sclerosi multipla recidivante-remittente (relapsing-remitting multiple sclerosis) | licenza in un altro paese; indicazione approvata: multiple sclerosis |
 
 ### Correlate a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |

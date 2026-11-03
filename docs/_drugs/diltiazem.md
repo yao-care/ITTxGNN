@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 147
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Diltiazem: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma tutti i candidati riconducibili a una fonte sono usi già noti. Al momento non esiste quindi alcuna nuova indicazione predetta per questo farmaco.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma 
 ## Usi noti tra i candidati del modello
 
 ### Approvati (supportati da un'autorizzazione o dal foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | Angina di Prinzmetal (Prinzmetal angina) | Autorizzazione in un altro Paese; indicazione approvata: angina |
 
 ### Correlati a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -121,6 +121,7 @@ La predizione è biologicamente plausibile per le congiuntiviti batteriche e cla
 | Acne | 0,9974 | L4 | Letteratura riferita soprattutto all'idrosadenite suppurativa (rifampicina + clindamicina); evidenza indiretta | Hold |
 | Infezione da HIV | 0,9959 | L4 | Gli studi riguardano la coinfezione HIV-TB, non la rifampicina come terapia anti-HIV; utili per la gestione delle interazioni | Research Question |
 | Artrite reumatoide | 0,9945 | L3 | Piccoli studi clinici datati (1988-1993) non conclusivi; unico studio registrato di fase 1 farmacocinetico | Research Question |
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

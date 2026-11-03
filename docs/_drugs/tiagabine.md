@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 434
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Tiagabine: usi noti e stato di mercato in Italia; attualmente nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 I candidati prodotti dal modello TxGNN per Tiagabine sono tutti usi già noti. Al momento non c'è quindi alcuna nuova indicazione predetta per questo farmaco. Questa pagina riporta lo stato di mercato in Italia.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ I candidati prodotti dal modello TxGNN per Tiagabine sono tutti usi già noti. A
 ## Usi noti tra i candidati del modello
 
 ### Approvate (supportate da autorizzazione o scheda tecnica)
+
 | Indicazione | Fonte |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Correlate a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |

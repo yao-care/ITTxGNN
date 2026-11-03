@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 466
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: nuova indicazione prevista, Neurotic disorder (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -137,6 +137,7 @@ Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lung
 | Indicazione prevista | Punteggio TxGNN | Livello | Decisione |
 |------|------|------|------|
 | Disturbo nevrotico | 0,9924 | L5 | Hold: termine obsoleto e non specifico, nessuno studio, unica pubblicazione non specifica per la vortioxetina |
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

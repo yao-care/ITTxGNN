@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 419
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: nuova indicazione prevista, Mammary Paget disease (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -167,6 +167,7 @@ L'indicazione nel carcinoma in situ è sostenuta da più studi randomizzati di f
 | Basal-like breast carcinoma | L5 | Hold | Tumori per lo più ER-negativi; solo dati preclinici |
 | Carcinoma criboso intraduttale, carcinoma sebaceo, rabdomiosarcoma embrionale botrioide della vagina | L5 | Hold | Solo predizione computazionale, nessuna evidenza |
 | Ehrlich tumor carcinoma | L5 | Hold | Modello murino, senza rilevanza clinica diretta |
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -3,7 +3,7 @@ layout: default
 title: Betaxolol
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 68
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Betaxolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 I candidati prodotti dal modello TxGNN per Betaxolol sono tutti usi già noti, quindi al momento non c'è alcuna nuova indicazione predetta. Nessun candidato riconducibile a una fonte rappresenta una nuova opportunità di riposizionamento. Le informazioni sullo stato di mercato in Italy sono riportate di seguito.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
@@ -52,16 +53,19 @@ I candidati prodotti dal modello TxGNN per Betaxolol sono tutti usi già noti, q
 ## Usi noti tra i candidati del modello
 
 ### Approvati (supportati da autorizzazione o foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Correlati a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |

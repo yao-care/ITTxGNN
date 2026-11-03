@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 335
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Ozanimod: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Tutti i candidati proposti dal modello TxGNN per Ozanimod corrispondono a usi già noti. Al momento non risulta quindi alcuna nuova indicazione predetta. Questa pagina riporta gli usi noti individuati e lo stato di mercato in Italia.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ Tutti i candidati proposti dal modello TxGNN per Ozanimod corrispondono a usi gi
 ## Usi noti tra i candidati del modello
 
 ### Approvati (supportati da autorizzazione o foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | nessuna | nessuna |
 
 ### Correlati a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | nessuna | nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione rilevata)
+
 | Indicazione |
 |------|
 | sclerosi multipla recidivante-progressiva (progressive relapsing multiple sclerosis) |

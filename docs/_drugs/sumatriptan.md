@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 416
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Sumatriptan: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99) che possono essere ricondotti a una fonte corrispondono a usi già noti. Al momento non c'è quindi alcuna nuova indicazione predetta per questo medicinale. Di seguito sono elencati gli usi noti individuati e lo stato di mercato in Italia.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
@@ -52,16 +53,19 @@ Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99
 ## Usi noti tra i candidati del modello
 
 ### Approvati (supportati da un'autorizzazione o da un foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | Emicrania con aura del tronco encefalico (migraine with brainstem aura) | autorizzazione in un altro paese; indicazione approvata: migraine |
 
 ### Correlati a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |

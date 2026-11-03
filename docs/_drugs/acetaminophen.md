@@ -3,7 +3,7 @@ layout: default
 title: Acetaminophen
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Acetaminophen: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 Tutti i candidati prodotti dal modello TxGNN per questo farmaco corrispondono a usi già noti. Al momento non esiste quindi alcuna nuova indicazione predetta per Acetaminophen.
 
 ## Panoramica rapida
+
 | Voce | Contenuto |
 |------|------|
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
@@ -52,16 +53,19 @@ Tutti i candidati prodotti dal modello TxGNN per questo farmaco corrispondono a 
 ## Usi noti tra i candidati del modello
 
 ### Approvate (supportate da autorizzazione o foglio illustrativo)
+
 | Indicazione | Fonte |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Correlate a un'indicazione approvata (stessa categoria di malattia)
+
 | Indicazione | Categoria approvata |
 |------|------|
 | Nessuna | Nessuna |
 
 ### Relazioni registrate nel knowledge graph (nessuna approvazione trovata)
+
 | Indicazione |
 |------|
 | Nessuna |
