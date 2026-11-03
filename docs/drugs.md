@@ -32,7 +32,7 @@ description: "Tutte le schede di validazione dei farmaci e le statistiche sui li
 ---
 
 <!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
-Questo elenco si basa sui dati di autorizzazione ([AIFA](https://www.aifa.gov.it/), Italia).
+Questo elenco si basa sulle [liste AIFA dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h) (Italia); la classe C non è inclusa.
 
 <!-- local-home:end -->
 

@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-ittxgnn.yao.care-blue)](https://ittxgnn.yao.care)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Previsioni di riposizionamento di farmaci per farmaci approvati da AIFA (Italy) utilizzando il modello TxGNN.
+Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle liste AIFA (Italy) utilizzando il modello TxGNN.
 
 ## Avvertenza
 
@@ -73,7 +73,7 @@ uv run python scripts/run_kg_prediction.py
 
 | Metrica | Valore |
 |------|------|
-| AIFA Totale farmaci | 10,545 |
+| Liste AIFA classe A e H Totale farmaci | 10,545 |
 | Mappati a DrugBank | 5,481 (52.0%) |
 | Candidati al riposizionamento | 1,860 |
 
