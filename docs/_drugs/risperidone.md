@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-description: "Risperidone: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis) (livello di evidenza L5)."
+description: "Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Risperidone
@@ -33,52 +33,42 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 </div>
 
-## Risperidone: Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis)
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il risperidone è un antipsicotico atipico utilizzato per schizofrenia, disturbo bipolare (mania) e disturbi dello spettro autistico. Il modello TxGNN lo indica come possibile candidato per la **paralisi dello sguardo orizzontale familiare con scoliosi progressiva**, una rara malattia genetica, con un punteggio molto alto. Per questa indicazione non risultano però **né sperimentazioni cliniche né pubblicazioni** nei dati compilati per questo report: si tratta di una pura previsione del modello.
-
----
+Il risperidone è un antipsicotico atipico. Il modello TxGNN prevede un possibile effetto per la **sindrome di paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis)**, ma per questa previsione non risulta alcuno studio clinico né alcuna pubblicazione tra i dati compilati per questo report: si tratta di una previsione esclusivamente computazionale.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis) |
-| Punteggio di predizione TxGNN | 0.9976 |
-| Livello di evidenza | L5 (solo previsione del modello) |
+| Nuova indicazione prevista | Gaze palsy, familial horizontal, with progressive scoliosis |
+| Punteggio di previsione TxGNN | 0.9976 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Hold |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché la previsione è plausibile?
 
-## Perché questa previsione è ragionevole?
+I dati sul meccanismo d'azione non sono al momento disponibili. In base alle conoscenze generali, il risperidone agisce come antagonista dei recettori dopaminergici D2 e serotoninergici 5-HT2A.
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In generale, il risperidone agisce come antagonista dei recettori dopaminergici D2 e serotoninergici 5-HT2A, meccanismo alla base dei suoi usi psichiatrici consolidati.
+La condizione prevista è una rara malattia genetica (legata a ROBO3) che riguarda la guida assonale nel rombencefalo. Non è stato identificato alcun legame meccanicistico plausibile tra la farmacologia recettoriale del risperidone e la patologia di base. Il punteggio elevato è dunque soltanto un risultato del modello, privo di supporto clinico o bibliografico, e la previsione va considerata con grande cautela.
 
-Per questa nuova indicazione **non emerge alcun legame meccanicistico plausibile**. La condizione è un raro disturbo genetico legato al gene ROBO3, che riguarda la guida assonale nel romboencefalo. La farmacologia recettoriale del risperidone non ha una rilevanza evidente per questa patologia. L'alto punteggio deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica o clinica.
+## Evidenze da studi clinici
 
----
-
-## Evidenze da sperimentazioni cliniche
-
-Attualmente non risultano sperimentazioni cliniche correlate registrate.
-
----
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
-Attualmente non risulta alcuna letteratura correlata disponibile.
-
----
+Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni individuate sono **valide**. Di seguito le prime 5 (prodotto originatore Risperdal, Janssen-Cilag SpA):
+Risultano 20 autorizzazioni valide per prodotti a singolo principio attivo (l'elenco può essere parziale). Principali autorizzazioni:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica (dalla denominazione) | Stato |
 |---------|------|------|-----------|
@@ -88,37 +78,24 @@ Tutte le 20 autorizzazioni individuate sono **valide**. Di seguito le prime 5 (p
 | 028752083 | Risperdal 60 cpr rivestite 4 mg verdi | Compresse rivestite | Valida |
 | 028752095 | Risperdal soluzione orale 100 ml 1 mg/ml | Soluzione orale | Valida |
 
-Le altre autorizzazioni riguardano generici di diversi titolari (Sandoz, Mylan, Aurobindo, Ratiopharm), anch'essi annullati.
-
----
-
 ## Considerazioni sulla sicurezza
 
-I dati compilati per questo report non includono avvertenze e controindicazioni tratte dal foglio illustrativo AIFA. Si riportano di seguito solo le informazioni disponibili da altre fonti.
+- **Interazioni farmacologiche**: sono state rilevate 100 interazioni. Tra quelle di livello maggiore figurano bupropione e morfina. Tra quelle di livello moderato, ad esempio, acarbosio, famotidina, epinefrina, idrocortisone, metformina, atropina e loperamide.
 
-- **Condizioni associate a controindicazione nel grafo di conoscenza** (non provengono dal testo del foglio illustrativo e vanno verificate):
-  - Disturbi cardiovascolari: infarto miocardico, ictus e disturbi cerebrovascolari, malattie cardiache e della conduzione, arresto cardiaco improvviso, ipotensione e ipotensione ortostatica.
-  - Disturbi metabolici: diabete mellito, iperglicemia, chetoacidosi diabetica, iperlipidemia, obesità.
-  - Disturbi epatici ed ematologici: malattie del fegato e della colecisti, insufficienza epatica, neutropenia, agranulocitosi, emoglobinopatie.
-  - Disturbi neurologici e altri: epilessia, atrofia multisistemica, sindrome da tachicardia posturale ortostatica, carcinoma mammario femminile.
-- **Interazioni farmacologiche**: sono state rilevate 100 interazioni complessive (fonte DDInter). Tra quelle visibili, le più rilevanti sono di grado **maggiore** con **bupropione** e **morfina**. Numerose interazioni di grado moderato riguardano antidiabetici (metformina, acarbosio, alogliptin, albiglutide, canagliflozin), anticolinergici (atropina, glicopirronio, iosciamina, clidinio), epinefrina, idrocortisone, amfotericina B, loperamide, lorcaserina e bisacodile. Famotidina ha un'interazione moderata e ranitidina minore.
-
----
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione ha un punteggio TxGNN elevato (0,9976), ma è priva di sperimentazioni cliniche, letteratura e di un legame meccanicistico plausibile (livello L5).
-- Inoltre, tutte le autorizzazioni italiane del risperidone risultano annullate, il che complica ulteriormente qualsiasi percorso di riposizionamento.
+La previsione ha un punteggio TxGNN alto (0,9976), ma non è supportata da alcuno studio clinico o pubblicazione e non esiste un legame meccanicistico plausibile con l'azione del risperidone. Il livello di evidenza è L5.
 
-**Per procedere sarebbe necessario:**
-- Verificare se esista una base biologica credibile tra la farmacologia del risperidone e la patologia legata a ROBO3, o in alternativa deprioritizzare questa previsione.
-- Acquisire il foglio illustrativo AIFA per completare le informazioni su avvertenze e controindicazioni.
-- Ottenere i dati sul meccanismo d'azione da DrugBank.
-- Chiarire la situazione regolatoria e la disponibilità del prodotto in Italia.
-- Considerare le altre previsioni emerse per lo stesso farmaco, che hanno evidenze più solide. In particolare, per il **disturbo affettivo maggiore (depressione resistente al trattamento)** esistono due studi di fase 3 completati sul risperidone come terapia aggiuntiva (NCT00095134, 630 partecipanti; NCT00044681, 258 partecipanti) e diverse meta-analisi. Questa direzione appare molto più promettente e meriterebbe una valutazione a parte.
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e una valutazione della plausibilità biologica per questa patologia
+- Evidenze precliniche o cliniche dirette sulla malattia prevista
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, per la valutazione della sicurezza
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

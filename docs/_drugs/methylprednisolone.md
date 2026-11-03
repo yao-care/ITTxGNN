@@ -36,13 +36,9 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 ## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
-## Sintesi in una frase
+## Riepilogo in una frase
 
-La metilprednisolone è un glucocorticoide sistemico utilizzato in numerose condizioni autoimmuni e infiammatorie (tra cui malattia di Crohn, insufficienza surrenalica e leucemia linfoblastica acuta).
-Il modello TxGNN ne prevede l'efficacia nell'**alopecia areata**,
-con **1 studio clinico** registrato e **20 pubblicazioni** a supporto di questa direzione; si tratta tuttavia soprattutto di studi osservazionali, serie di casi e revisioni.
-
----
+Il metilprednisolone è un corticosteroide con azione antinfiammatoria e immunosoppressiva. Il modello TxGNN lo indica come possibile candidato per **alopecia mucinosa (alopecia mucinosa)**, ma per questa direzione **non risultano studi clinici né pubblicazioni** nei dati compilati per questo report: il supporto è solo un punteggio predittivo.
 
 ## Panoramica rapida
 
@@ -54,48 +50,25 @@ con **1 studio clinico** registrato e **20 pubblicazioni** a supporto di questa 
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 15) |
 | Numero di autorizzazioni | 15 (valide: 15) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati non riportano il meccanismo d'azione dettagliato del metilprednisolone. In base alle informazioni generali, si tratta di un glucocorticoide sistemico, la cui attività antinfiammatoria e immunomodulatoria è ben nota in molte condizioni infiammatorie e autoimmuni.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione.
+Per l'alopecia mucinosa esiste una plausibile logica antinfiammatoria, ma essa non è supportata da dati: non sono stati forniti studi clinici o letteratura. Il solo elemento a favore è il punteggio elevato del modello (0,9999), che indica una forte associazione statistica, non una prova di efficacia.
 
-L'alopecia areata è un attacco autoimmune mediato dai linfociti T contro il follicolo pilifero, con collasso del privilegio immunitario. La metilprednisolone sopprime l'attivazione dei linfociti T e la segnalazione delle citochine pro-infiammatorie (ad esempio l'interferone gamma), coerentemente con il suo uso nelle malattie autoimmuni.
+Pertanto la predizione va considerata un'ipotesi da verificare, non un'indicazione supportata.
 
-I regimi ad alte dosi in pulsi possono indurre ricrescita dei capelli, ma le recidive dopo la sospensione sono frequenti e la tossicità cumulativa degli steroidi limita l'uso a lungo termine.
+## Evidenza da studi clinici
 
----
+Attualmente non risultano studi clinici correlati registrati.
 
-## Evidenze dagli studi clinici
+## Evidenza dalla letteratura
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Fase 4 | Completato | 42 | Metilprednisolone orale in mega-pulsi in alopecia areata grave resistente alle terapie; disegno randomizzato/controllato non confermato e risultati non disponibili |
-
----
-
-## Evidenze dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [32270396](https://pubmed.ncbi.nlm.nih.gov/32270396/) | 2020 | Revisione sistematica | Dermatol Ther | Ciclosporina con o senza corticosteroidi sistemici nell'alopecia areata |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Revisione | Dermatol Pract Concept | Efficacia, recidive ed effetti avversi della terapia corticosteroidea a pulsi |
-| [28378336](https://pubmed.ncbi.nlm.nih.gov/28378336/) | 2017 | Revisione | Int J Dermatol | Trattamenti per alopecia totale e universale |
-| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Revisione | Pediatr Dermatol | Dosaggi e somministrazione della terapia a pulsi in età pediatrica |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Coorte retrospettiva | Dermatol Ther | Metilprednisolone da sola o con metotrexato in alopecia areata estesa (26 pazienti) |
-| [21592197](https://pubmed.ncbi.nlm.nih.gov/21592197/) | 2011 | Coorte retrospettiva | J Dermatol | Fattori prognostici della terapia a pulsi di metilprednisolone (70 pazienti) |
-| [9777767](https://pubmed.ncbi.nlm.nih.gov/9777767/) | 1998 | Studio prospettico aperto | J Am Acad Dermatol | Pulsi di metilprednisolone in alopecia areata grave (45 pazienti) |
-| [12746668](https://pubmed.ncbi.nlm.nih.gov/12746668/) | 2003 | Studio prospettico aperto | Ann Dermatol Venereol | Pulsi endovenosi di metilprednisolone in 66 pazienti |
-| [22426909](https://pubmed.ncbi.nlm.nih.gov/22426909/) | 2012 | Studio clinico | Saudi Med J | Mega-pulsi orali di metilprednisolone in alopecia areata resistente |
-| [25872976](https://pubmed.ncbi.nlm.nih.gov/25872976/) | 2015 | Studio clinico | Pediatr Dermatol | Alti tassi di recidiva nonostante l'intervento precoce nell'alopecia areata infantile |
-
----
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
-
-Le 15 autorizzazioni risultano tutte cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -105,31 +78,27 @@ Le 15 autorizzazioni risultano tutte cancellate; il testo dell'indicazione appro
 | 047328024 | METILPREDNISOLONE 20 cpr 16 mg | EG SpA | Valida |
 | 014159040 | MEDROL 20 cpr 16 mg | PFIZER ITALIA Srl | Valida |
 
----
+Sono presenti 15 autorizzazioni valide nei dati locali; la tabella ne riporta le prime 5.
 
 ## Considerazioni di sicurezza
 
-- **Controindicazioni (da relazioni tra farmaco e malattia nel grafo di conoscenza, non dal foglio illustrativo)**: ipertensione, epilessia, iperglicemia, scompenso cardiaco congestizio, cheratite da herpes simplex, morbillo, difetti del ciclo dell'urea (carenza di carbamoil-fosfato sintetasi I, iperargininemia, citrullinemia) e varie forme di ipopituitarismo/deficit dell'ormone della crescita e ipogonadismo ipogonadotropo.
-- **Interazioni farmacologiche**: sono state identificate 688 interazioni. Tra quelle di livello **maggiore** figurano bupropione e claritromicina. Quelle di livello moderato includono antidiabetici (acarbosio, metformina, pioglitazone, dapagliflozin, empagliflozin, canagliflozin, saxagliptin, alogliptin, clorpropamide, albiglutide, dulaglutide), amfotericina B, aprepitant, acido acetilsalicilico, bisacodile e acido picosolfurico. Lo zinco solfato è di livello minore.
+- **Interazioni farmacologiche**: nei dati compilati risultano 688 interazioni. Tra quelle di livello **maggiore** figurano bupropione e claritromicina. Sono di livello moderato, ad esempio, i farmaci antidiabetici (metformina, pioglitazone, acarbosio, dapagliflozin, empagliflozin), l'amfotericina B, l'aprepitant e l'acido acetilsalicilico.
 
-Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
+Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e prossimi passi
-
-**Decisione: Proceed with Guardrails (procedere con cautele)**
+**Decisione: Hold**
 
 **Motivazione:**
-Esiste un razionale meccanicistico plausibile e una letteratura clinica consistente (soprattutto studi aperti e retrospettivi sui pulsi di metilprednisolone), ma manca una dimostrazione da studi randomizzati di fase 3. Le recidive elevate e la tossicità cumulativa degli steroidi richiedono cautela. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La predizione si basa unicamente sul punteggio del modello, senza studi clinici né letteratura sulla malattia in esame (livello di evidenza L5). Non vi sono elementi sufficienti per procedere.
 
 **Per procedere sono necessari:**
-- Foglio illustrativo AIFA con avvertenze e controindicazioni (dato mancante, bloccante per lo screening di sicurezza)
-- Dati dettagliati sul meccanismo d'azione
-- Risultati dello studio NCT01167946 e conferma del disegno (randomizzazione/controllo)
-- Studi controllati randomizzati che confrontino i regimi a pulsi con le alternative (ad esempio gli inibitori JAK)
-- Verifica della disponibilità di un prodotto autorizzato in Italia, dato che tutte le licenze sono cancellate
-- Piano di monitoraggio della sicurezza (glicemia, pressione arteriosa, interazioni) e strategia per ridurre le recidive
+- Una ricerca mirata di letteratura e studi clinici su alopecia mucinosa e corticosteroidi sistemici
+- Dati sul meccanismo d'azione e sulla sua applicabilità a questa condizione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Valutazione della compatibilità della via di somministrazione e di un piano di monitoraggio della sicurezza (glicemia, pressione arteriosa, rischio infettivo)
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

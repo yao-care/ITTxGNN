@@ -3,10 +3,10 @@
   "total_drugs": 436,
   "level_counts": {
     "L1": 13,
-    "L2": 13,
+    "L2": 11,
     "L3": 29,
-    "L4": 30,
-    "L5": 333
+    "L4": 31,
+    "L5": 334
   },
   "all_drugs": [
     {
@@ -288,7 +288,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 7
     },
     {
@@ -1974,7 +1974,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 6
     },
     {

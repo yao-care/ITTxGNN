@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "LANADELUMAB"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-description: "Lanadelumab: nuova indicazione prevista, Serpinopathy with toxic serpin polymerization (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Lanadelumab: nuova indicazione prevista, Malattia da polimerizzazione tossica delle serpine (serpinopathy with toxic serpin polymerization) (livello di evidenza L5)."
 ---
 
 # Lanadelumab
@@ -33,69 +33,38 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 
 </div>
 
-## Lanadelumab: Serpinopathy with toxic serpin polymerization
+## Lanadelumab: Malattia da polimerizzazione tossica delle serpine (serpinopathy with toxic serpin polymerization)
 {: .text-alpha }
 
-## Riepilogo in breve
+## Sintesi
 
-Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica. Era già usato per la profilassi degli attacchi di angioedema ereditario (HAE). Questa indicazione coincide in larga parte con quella originale: è la conferma di un uso già noto, non un vero riposizionamento.
-
----
+Lanadelumab è un anticorpo monoclonale che inibisce la callicreina plasmatica ed è usato nella profilassi degli attacchi di angioedema ereditario. Il modello TxGNN prevede una possibile utilità per la **malattia da polimerizzazione tossica delle serpine (serpinopathy with toxic serpin polymerization)**. Per questa direzione non risultano **né studi clinici né pubblicazioni**: la previsione resta puramente computazionale.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Serpinopathy with toxic serpin polymerization |
-| Punteggio di predizione TxGNN | 0.9999 |
+| Nuova indicazione prevista | Malattia da polimerizzazione tossica delle serpine (serpinopathy with toxic serpin polymerization) |
+| Punteggio di previsione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa previsione potrebbe (o non potrebbe) avere senso
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo rapporto non includono una descrizione dettagliata del meccanismo d'azione. È noto che lanadelumab si lega alla callicreina plasmatica (gene KLKB1) e ne blocca l'attività, riducendo la produzione di bradichinina; non si lega alla precallicreina.
 
-Il deficit di C1 inibitore è la causa di fondo dell'angioedema ereditario di tipo I e II. Senza C1-INH funzionante, la callicreina plasmatica non è controllata e produce troppa bradichinina, il mediatore principale degli attacchi di gonfiore. Lanadelumab si lega alla callicreina plasmatica (gene *KLKB1*) e ne blocca l'attività, riducendo la bradichinina.
+Il collegamento con la previsione è probabilmente dovuto alla vicinanza nella rete di relazioni biologiche con le serpine: l'inibitore della C1 esterasi, la cui carenza è alla base dell'angioedema ereditario, appartiene appunto a questa famiglia. Tuttavia le serpinopatie con polimerizzazione tossica (ad esempio la malattia epatica da deficit di alfa-1 antitripsina o la malattia a corpi inclusi da neuroserpina) sono causate dall'aggregazione proteica intracellulare, non da un eccesso di bradichinina mediato dalla callicreina. L'inibizione della callicreina non ha quindi una rilevanza meccanicistica chiara per questa condizione.
 
-I dati sul meccanismo d'azione originale non sono disponibili in forma strutturata. Il meccanismo descritto qui deriva dalla letteratura e dalle informazioni farmacologiche compilate.
+## Evidenze da studi clinici
 
-Poiché l'indicazione prevista si sovrappone a quella originale, la predizione conferma l'uso approvato più che aprire una nuova strada terapeutica. Lo stato "solo autorizzazioni cancellate" in Italia va verificato rispetto alle autorizzazioni europee e regionali attuali prima di qualsiasi raccomandazione.
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
-Le altre nove indicazioni previste (serpinopatia, pancreatite, pseudo-malattia di von Willebrand, disturbo da rilascio piastrinico, miopatia necrotizzante immuno-mediata, trombastenia di Glanzmann, sindrome antisintetasi, miosite focale, sindrome di Scott) hanno evidenza di livello L5. Non hanno studi né pubblicazioni e per lo più non hanno un legame meccanicistico plausibile con l'inibizione della callicreina. La decisione per tutte è **Hold**.
+## Evidenze dalla letteratura
 
----
-
-## Evidenza dagli studi clinici
-
-| Studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT04070326](https://clinicaltrials.gov/study/NCT04070326) | Fase 3 | Completato | 21 | Studio SPRING: sicurezza, farmacocinetica ed efficacia nella profilassi dell'HAE in bambini di 2-<12 anni |
-| [NCT05460325](https://clinicaltrials.gov/study/NCT05460325) | Fase 3 | Completato | 20 | Studio multicentrico in aperto su sicurezza, farmacocinetica ed efficacia in soggetti cinesi con HAE (26 settimane) |
-| [NCT04180163](https://clinicaltrials.gov/study/NCT04180163) | Fase 3 | Completato | 12 | Studio in aperto su efficacia e sicurezza in soggetti giapponesi con HAE di tipo I o II |
-| [NCT05397431](https://clinicaltrials.gov/study/NCT05397431) | N/D | Attivo, non in arruolamento | 155 | Indagine post-marketing in Giappone sull'uso a lungo termine della siringa da 300 mg: effetti indesiderati e miglioramento dei sintomi |
-| [NCT04583007](https://clinicaltrials.gov/study/NCT04583007) | N/D | Non più disponibile | N/D | Programma di accesso esteso per bambini di 2-<12 anni con HAE e per angioedema non istaminergico con C1-INH normale |
-
----
-
-## Evidenza dalla letteratura
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [30480729](https://pubmed.ncbi.nlm.nih.gov/30480729/) | 2018 | RCT | JAMA | Studio HELP: lanadelumab vs placebo nella prevenzione degli attacchi di HAE |
-| [34287942](https://pubmed.ncbi.nlm.nih.gov/34287942/) | 2022 | Estensione in aperto | Allergy | HELP OLE: efficacia e sicurezza a lungo termine in pazienti ≥12 anni con HAE di tipo 1/2 |
-| [30539362](https://pubmed.ncbi.nlm.nih.gov/30539362/) | 2019 | Revisione/analisi di sottogruppo | BioDrugs | Profilassi nell'HAE con deficit di C1-INH: studi preclinici e di fase I |
-| [40434599](https://pubmed.ncbi.nlm.nih.gov/40434599/) | 2025 | Network meta-analisi | Drugs in R&D | Confronto indiretto delle terapie di profilassi a lungo termine nell'HAE |
-| [40504359](https://pubmed.ncbi.nlm.nih.gov/40504359/) | 2025 | Studio real-world (fase 4) | Advances in Therapy | EMPOWER: efficacia e sicurezza sostenute fino a 36 mesi |
-| [40769455](https://pubmed.ncbi.nlm.nih.gov/40769455/) | 2025 | Real-world | Ann Allergy Asthma Immunol | Controllo della malattia e qualità di vita per sottogruppi di attività di malattia |
-| [39836016](https://pubmed.ncbi.nlm.nih.gov/39836016/) | 2025 | Confronto indiretto | J Comp Eff Res | Lanadelumab vs un C1-inibitore in pazienti pediatrici con HAE |
-| [40637159](https://pubmed.ncbi.nlm.nih.gov/40637159/) | 2025 | Confronto indiretto (MAIC) | J Comp Eff Res | Garadacimab vs lanadelumab nella profilassi a lungo termine |
-| [39399485](https://pubmed.ncbi.nlm.nih.gov/39399485/) | 2024 | Caso clinico | Front Immunol | Lanadelumab in un paziente con trapianto di rene, HAE e alto rischio cardiovascolare |
-| [33556593](https://pubmed.ncbi.nlm.nih.gov/33556593/) | 2021 | Caso clinico | J Allergy Clin Immunol Pract | Efficacia nell'angioedema acquisito con deficit di C1-INH |
-
----
+Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
@@ -104,30 +73,28 @@ Le altre nove indicazioni previste (serpinopatia, pancreatite, pseudo-malattia d
 | 047417011 | TAKHZYRO 1 flaconcino SC 2 ml 300 mg + 1 siringa + 2 aghi (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
 | 047417047 | TAKHZYRO 1 siringa preriempita SC 300 mg 2 ml (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
 
----
+Titolare: Takeda Pharmaceutical International AG, filiale irlandese. Entrambe le autorizzazioni risultano valide.
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-- **Interazioni**: l'unica interazione registrata è farmacologica, con il bersaglio callicreina plasmatica (KLKB1), che è il meccanismo d'azione stesso del farmaco.
-- **Interferenza diagnostica**: lanadelumab può prolungare l'aPTT *in vitro* (artefatto di laboratorio), da considerare nella valutazione dei disturbi emorragici.
-- **Sintomi addominali**: potrebbe confondere la diagnosi di sintomi addominali, poiché gli attacchi di HAE possono simulare una pancreatite.
+- **Interazioni**: l'unica relazione registrata è di tipo farmacologico con il proprio bersaglio, la callicreina B1 (KLKB1); non sono segnalate interazioni con altri farmaci.
+- **Interferenza diagnostica**: lanadelumab può prolungare il tempo di tromboplastina parziale attivata (aPTT) nei test in vitro, un artefatto di laboratorio che richiede cautela nella valutazione di disturbi emorragici.
 
-Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
-
----
+Per le avvertenze e le controindicazioni complete si rimanda al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-Per l'HAE con deficit di C1-INH l'evidenza è solida: RCT di riferimento (HELP), estensione a lungo termine, studi di fase 3 completati e dati real-world. Tuttavia l'indicazione coincide con quella già nota, e in Italia le autorizzazioni risultano solo cancellate. Le altre indicazioni previste restano in **Hold** per assenza di evidenza.
+La previsione ha un punteggio elevato, ma è priva di studi clinici e di letteratura, e manca un razionale biologico: la patogenesi delle serpinopatie è legata all'aggregazione proteica e non alla via callicreina-bradichinina.
 
-**Per procedere è necessario:**
-- Verificare lo stato regolatorio attuale (autorizzazioni europee e AIFA) e il motivo della cancellazione delle licenze italiane
-- Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni
-- Completare i dati sul meccanismo d'azione (MOA) da DrugBank
-- Definire un piano di monitoraggio della sicurezza, comprese le popolazioni pediatriche
+**Per procedere sarebbe necessario:**
+- Dati preclinici che mostrino un ruolo della callicreina plasmatica nella patogenesi di questa condizione
+- Dati sul meccanismo d'azione completi
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Verifica della compatibilità di via di somministrazione e formulazione
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Betamethasone
-parent: Prove elevate (L1-L2)
+parent: Solo previsione del modello (L5)
 nav_order: 67
-evidence_level: L2
+evidence_level: L5
 indication_count: 7
 monitor_inn: "betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 last_modified_at: 2026-11-03
-description: "Betamethasone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Betamethasone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **7** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,51 +38,39 @@ Livello di evidenza: **L2** | Indicazioni previste: **7**
 
 ## Sintesi
 
-Il betametasone è un corticosteroide potente con azione antinfiammatoria e immunosoppressiva, autorizzato in Italia in diverse formulazioni (compresse effervescenti, fiale, schiuma cutanea).
-Il modello TxGNN prevede un possibile beneficio per **alopecia areata (alopecia areata)**,
-con **6 studi clinici** (di cui 1 di fase 2 completato che confronta direttamente il betametasone orale a mini-pulsi) e **20 pubblicazioni** a sostegno di questa direzione.
+Betametasone è un corticosteroide sintetico con azione antinfiammatoria e immunosoppressiva, disponibile in Italia in compresse effervescenti, fiale iniettabili e schiuma cutanea.
+Il modello TxGNN prevede una possibile efficacia per **alopecia mucinosa (alopecia mucinosa)**.
+A sostegno di questa direzione i dati compilati per questo report riportano **nessuno studio clinico** e **una sola pubblicazione** (una serie di casi del 1964).
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Alopecia mucinosa |
-| Punteggio di previsione TxGNN | 0.9997 |
-| Livello di evidenza | L2 |
+| Punteggio di predizione TxGNN | 0.9997 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold |
 
-## Perché questa previsione è ragionevole?
+## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze note, il betametasone è un glucocorticoide potente, la cui azione antinfiammatoria e immunosoppressiva (soppressione dell'attivazione dei linfociti T e delle citochine pro-infiammatorie) è ben consolidata nelle patologie autoimmuni.
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In termini generali, betametasone appartiene alla classe dei glucocorticoidi, che riducono l'infiammazione e modulano la risposta immunitaria.
 
-L'alopecia areata è una malattia autoimmune mediata dai linfociti T, in cui crolla il privilegio immunitario del follicolo pilifero. Un farmaco che sopprime l'attività dei linfociti T e l'infiammazione perifollicolare è quindi meccanicisticamente plausibile. Nella pratica clinica il betametasone viene usato per via topica, intralesionale e orale a mini-pulsi settimanali. I rischi comprendono atrofia cutanea, soppressione dell'asse ipotalamo-ipofisi-surrene e recidiva alla sospensione.
+La mucinosi follicolare comporta deposito di mucina e infiammazione perifollicolare. Un corticosteroide antinfiammatorio è quindi mecanicisticamente plausibile. Si tratta tuttavia di un'ipotesi: non esistono studi che valutino betametasone in questa malattia.
+
+Per questo il livello di evidenza è L5: l'unica pubblicazione disponibile è una serie di casi del 1964 con una revisione delle terapie, senza abstract disponibile e senza dati specifici su betametasone. Non si tratta quindi di uno studio che dimostri il beneficio del farmaco nella malattia.
 
 ## Evidenze da studi clinici
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fase 2 | Completato | 60 | Azatioprina settimanale a impulsi vs mini-pulsi orali di betametasone in alopecia areata moderata-grave |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fase 4 | Completato | 50 | Latanoprost topico vs corticosteroide topico (betametasone) in alopecia areata localizzata |
-| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | N/D | Non ancora in reclutamento | 60 | Combinazione topica di metformina, simvastatina e betametasone valerato in alopecia areata a chiazze |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fase 4 | In reclutamento | 250 | Alopecia cicatriziale centrifuga centrale: patologia diversa, rilevanza limitata |
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | Somministrazione transdermica con microaghi di betametasone composto in alopecia areata |
-| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iran J Pharm Res | Betametasone orale a impulsi, metotrexato e combinazione in alopecia areata grave, in doppio cieco vs placebo |
-| [40510104](https://pubmed.ncbi.nlm.nih.gov/40510104/) | 2025 | RCT | Cureus | Ciclosporina orale vs mini-pulsi orali di betametasone (60 pazienti) |
-| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT | J Dermatol Treat | Betametasone intralesionale vs triamcinolone acetonide in alopecia areata localizzata |
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-analisi | Cochrane Database Syst Rev | Network meta-analisi dei trattamenti per l'alopecia areata |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Revisione | Dermatol Pract Concept | Efficacia ed effetti avversi della terapia corticosteroidea a impulsi |
-| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | Studio clinico | Cureus | Efficacia e sicurezza dei mini-pulsi orali di betametasone in alopecia areata moderata-grave |
-| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | Studio comparativo | Ann Dermatol | Ciclosporina orale vs mini-pulsi di betametasone |
-| [38623137](https://pubmed.ncbi.nlm.nih.gov/38623137/) | 2024 | Studio comparativo | Cureus | Betametasone dipropionato topico vs minoxidil topico |
-| [17642661](https://pubmed.ncbi.nlm.nih.gov/17642661/) | 2004 | Studio non controllato | Indian J Dermatol Venereol Leprol | Mini-pulsi orali di betametasone in alopecia areata estesa |
+| [14164963](https://pubmed.ncbi.nlm.nih.gov/14164963/) | 1964 | Serie di casi / revisione | Archives of Dermatology | Descrizione di tre casi di mucinosi follicolare (alopecia mucinosa) con revisione delle terapie; abstract non disponibile |
 
 ## Informazioni sul mercato italiano
 
@@ -94,26 +82,27 @@ L'alopecia areata è una malattia autoimmune mediata dai linfociti T, in cui cro
 | 019655051 | BENTELAN*10 cpr eff 1 mg | Non indicata | Non registrata |
 | 034226011 | BETTAMOUSSE*schiuma cutanea 100 g 1 mg/g | Non indicata | Non registrata |
 
-L'elenco delle autorizzazioni potrebbe essere parziale.
+L'elenco delle autorizzazioni può essere parziale.
 
-## Considerazioni di sicurezza
+## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: sono state rilevate 451 interazioni. Tra quelle di livello maggiore figura l'adalimumab; molte altre sono di livello moderato (ad es. zidovudina, isotretinoina, acarbose, acetazolamide, ibuprofene, ketorolac, nifedipina, etinilestradiolo, fluvoxamina, fosamprenavir, aldesleuchina, alemtuzumab).
+- **Interazioni farmacologiche**: nei dati compilati risultano 451 interazioni. Tra quelle di livello maggiore c'è **adalimumab** (Major). Tra quelle di livello moderato figurano zidovudina, isotretinoina, acarbosio, acebutololo, acetazolamide, ketorolac, nifedipina, ibuprofene, etinilestradiolo, albiglutide, aldesleuchina, alemtuzumab, fluvoxamina e fosamprenavir. Formoterolo e salbutamolo hanno interazione di livello minore.
 
-Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Proceed with Guardrails (procedere con cautele)**
+**Decisione: Hold**
 
 **Motivazione:**
-Esiste uno studio di fase 2 completato e diversi RCT pubblicati che confrontano direttamente il betametasone (orale a mini-pulsi, intralesionale, topico) nell'alopecia areata, con un razionale immunologico coerente. Gli studi sono però di piccole dimensioni e spesso con il betametasone come comparatore, e mancano i dati di sicurezza dal foglio illustrativo.
+La predizione si basa su un punteggio del modello e su una sola serie di casi del 1964, senza studi clinici né dati diretti su betametasone nella malattia. Il livello di evidenza è L5 e non è possibile procedere con le informazioni attuali.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione dettagliati
+- Studi o serie di casi più recenti sull'uso dei corticosteroidi (topici o sistemici) nella mucinosi follicolare
+- Dati sul meccanismo d'azione del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Studi di confronto più ampi, con valutazione delle recidive dopo la sospensione
-- Piano di monitoraggio della sicurezza (soppressione dell'asse ipotalamo-ipofisi-surrene, atrofia cutanea) e valutazione delle interazioni, in particolare con gli inibitori del TNF
+- Valutazione della via di somministrazione più adatta (topica, intralesionale o sistemica) e del profilo rischio-beneficio per l'uso a lungo termine
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

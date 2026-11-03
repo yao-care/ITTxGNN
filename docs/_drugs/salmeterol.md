@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-03
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5)."
+description: "Salmeterol: nuova indicazione prevista, Malformazione respiratoria (respiratory malformation) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Salmeterol
@@ -33,75 +33,52 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Salmeterol: Respiratory malformation
+## Salmeterol: Malformazione respiratoria (respiratory malformation)
 {: .text-alpha }
 
 ## Sintesi
 
-Il salmeterolo è un beta-2 agonista a lunga durata d'azione (LABA), originariamente impiegato nel trattamento dell'enfisema polmonare e dell'asma (intrinseca e allergica). Il modello TxGNN ne prevede l'efficacia nella **bronchite**, con **9 studi clinici** e **20 pubblicazioni** nei dati compilati per questa indicazione. Si tratta però di un'estensione verso un fenotipo ostruttivo molto vicino alle indicazioni originarie, non di un riposizionamento lontano.
-
----
+Il salmeterolo è un agonista dei recettori beta2-adrenergici a lunga durata d'azione, somministrato per via inalatoria. Il modello TxGNN lo propone come possibile candidato per **Malformazione respiratoria (respiratory malformation)**. Nessuno studio citato riguarda direttamente questa condizione: ci sono **2 studi clinici** e **alcune pubblicazioni** su condizioni respiratorie correlate, con prove indirette e deboli.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Non riportata nei dati locali |
-| Nuova indicazione prevista | Respiratory malformation |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malformazione respiratoria (respiratory malformation) |
 | Punteggio di predizione TxGNN | 0.9991 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione può essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati disponibili non includono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il salmeterolo appartiene alla classe dei broncodilatatori beta2-agonisti a lunga durata d'azione. Meccanicamente potrebbe essere applicabile alle patologie delle vie aeree.
 
-I dati compilati non contengono una descrizione dettagliata del meccanismo d'azione. È noto però che il salmeterolo è un agonista dei recettori beta-2 adrenergici a lunga durata d'azione: determina broncodilatazione e può favorire la clearance mucociliare.
+Il punteggio elevato riflette probabilmente la vicinanza del farmaco, nel modello, alle malattie delle vie aeree, più che un meccanismo specifico. Un'azione dei beta2-agonisti sulla frequenza di battito ciliare è plausibile nei disturbi ciliari. Non esistono però prove cliniche di beneficio nelle malformazioni strutturali.
 
-La bronchite cronica è un fenotipo della BPCO, e i beta-2 agonisti a lunga durata d'azione sono già un pilastro della terapia di enfisema e asma. Uno studio clinico pubblicato ha inoltre riportato un miglioramento della clearance mucociliare e della tosse nei pazienti con bronchite cronica trattati con salmeterolo. Diversi studi di fase 3 nella BPCO includono il salmeterolo come braccio di trattamento o di confronto.
-
-Va sottolineato che questa predizione si colloca largamente all'interno dell'uso respiratorio già esistente.
-
----
+L'etichetta "malformazione respiratoria" è vaga e comprende condizioni molto eterogenee. L'unico studio specifico sul salmeterolo tra quelli raccolti riguarda la fibrosi cistica, una malattia diversa.
 
 ## Evidenze dagli studi clinici
 
-| Studio | Fase | Stato | Arruolamento | Risultati principali |
+| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT02173691](https://clinicaltrials.gov/study/NCT02173691) | Fase 3 | Completato | 584 | Tiotropio vs salmeterolo vs placebo per 6 mesi nella BPCO: efficacia broncodilatatrice e sicurezza |
-| [NCT00269087](https://clinicaltrials.gov/study/NCT00269087) | Fase 3 | Completato | 122 | Studio a lungo termine (56 settimane) di salmeterolo/fluticasone 50/500 µg in BPCO (bronchite cronica, enfisema) |
-| [NCT00268177](https://clinicaltrials.gov/study/NCT00268177) | Fase 3 | Completato | 130 | Salmeterolo/fluticasone vs placebo sull'infiammazione bronchiale nella BPCO |
-| [NCT00064415](https://clinicaltrials.gov/study/NCT00064415) | Fase 3 | Completato | 799 | Sicurezza a 12 mesi di arformoterolo (LABA) vs controllo attivo nella BPCO |
-| [NCT00064402](https://clinicaltrials.gov/study/NCT00064402) | Fase 3 | Completato | 741 | Arformoterolo vs placebo e controllo attivo nella BPCO per 12 settimane |
-| [NCT00269126](https://clinicaltrials.gov/study/NCT00269126) | Fase 3 | Completato | 150 | Confronto tra due farmaci nella BPCO (descrizione poco dettagliata) |
-| [NCT00403286](https://clinicaltrials.gov/study/NCT00403286) | Fase 2 | Completato | 457 | Ricerca della dose di fluticasone/formoterolo, con salmeterolo/fluticasone (Advair) come riferimento |
-| [NCT01361984](https://clinicaltrials.gov/study/NCT01361984) | Fase 4 | Stato sconosciuto | 20 | Arformoterolo nebulizzato vs salmeterolo in polvere secca nella BPCO |
-| [NCT00233051](https://clinicaltrials.gov/study/NCT00233051) | Non applicabile | Terminato | 20 | Biomarcatori di espressione genica nell'espettorato indotto in BPCO |
-
----
+| [NCT00005110](https://clinicaltrials.gov/study/NCT00005110) | N/A | Sospeso | Non riportato | Effetto a lungo termine di salmeterolo e albuterolo per 6 mesi nella fibrosi cistica. Pertinenza indiretta, perché la fibrosi cistica non è una malformazione respiratoria. |
+| [NCT01681979](https://clinicaltrials.gov/study/NCT01681979) | N/A | Completato | 1 | Studio osservazionale su trattamenti respiratori in gravidanza ed esiti avversi della gravidanza. Non affronta la malformazione respiratoria come indicazione terapeutica. |
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [17557771](https://pubmed.ncbi.nlm.nih.gov/17557771/) | 2007 | RCT | Thorax | Effetto di salmeterolo/fluticasone sull'infiammazione delle vie aeree nella BPCO |
-| [17196106](https://pubmed.ncbi.nlm.nih.gov/17196106/) | 2006 | Meta-analisi | Respiratory Research | Esiti migliori nella BPCO con salmeterolo rispetto a placebo/terapia abituale |
-| [15970448](https://pubmed.ncbi.nlm.nih.gov/15970448/) | 2006 | Studio clinico | Pulm Pharmacol Ther | Effetto del salmeterolo sulla clearance mucociliare e della tosse nella bronchite cronica |
-| [15329047](https://pubmed.ncbi.nlm.nih.gov/15329047/) | 2004 | Revisione | Drugs | Salmeterolo/fluticasone inalatorio nella BPCO |
-| [12970006](https://pubmed.ncbi.nlm.nih.gov/12970006/) | 2003 | Studio clinico | Chest | Efficacia e sicurezza di fluticasone 250 µg/salmeterolo 50 µg (Diskus) nella BPCO |
-| [19124357](https://pubmed.ncbi.nlm.nih.gov/19124357/) | 2008 | Studio clinico | Ther Adv Respir Dis | Sicurezza e tolleranza a un anno di arformoterolo e salmeterolo nella BPCO |
-| [9916607](https://pubmed.ncbi.nlm.nih.gov/9916607/) | 1998 | Studio clinico | Clin Ther | Salmeterolo inalatorio vs teofillina orale nella BPCO lieve-moderata (studio italiano) |
-| [19210134](https://pubmed.ncbi.nlm.nih.gov/19210134/) | 2009 | Coorte | Curr Med Res Opin | Uso di risorse sanitarie e costi nella bronchite cronica con fluticasone/salmeterolo |
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Linee guida | Basic Clin Pharmacol Toxicol | Linee guida finlandesi sulla BPCO stabile |
-| [12236842](https://pubmed.ncbi.nlm.nih.gov/12236842/) | 2002 | Revisione | Br J Clin Pharmacol | Antagonismo dell'effetto dei beta-2 agonisti a lunga durata d'azione |
+| [34902004](https://pubmed.ncbi.nlm.nih.gov/34902004/) | 2022 | Studio clinico randomizzato | JAMA Pediatrics | Corticosteroidi inalatori, da soli o con beta2-agonisti a lunga durata d'azione, per la ridotta funzione polmonare nei bambini nati pretermine. |
+| [20703071](https://pubmed.ncbi.nlm.nih.gov/20703071/) | 2010 | Caso clinico | Arerugi | Caso di discinesia ciliare primaria in una ragazza di 18 anni, a lungo trattata con una diagnosi diversa. |
 
----
+Nessuna di queste pubblicazioni studia direttamente la malformazione respiratoria.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco è in commercio in Italia, con 20 autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le principali:
+Le autorizzazioni riportate sono le principali a singolo principio attivo. L'elenco può essere parziale. Il testo delle indicazioni approvate non è registrato nei dati locali.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
@@ -111,38 +88,28 @@ Il farmaco è in commercio in Italia, con 20 autorizzazioni valide. Il testo del
 | 034371056 | SERETIDE DISKUS, polvere per inalazione, 60 dosi 50 + 250 mcg | GlaxoSmithKline SpA |
 | 034463113 | ALIFLUS, sospensione per inalazione, 120 erogazioni 25 + 125 mcg | Menarini Internat. O.L.S.A |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+Nei dati raccolti non sono disponibili avvertenze e controindicazioni dal foglio illustrativo. Per queste informazioni si rimanda al foglio illustrativo.
 
-- **Controindicazioni derivate dal grafo di conoscenza** (non dal foglio illustrativo): ipertensione, sindrome del QT lungo (anche forma familiare), epilessia, iperglicemia, cheratite da herpes simplex, ipopituitarismo e deficit ipofisari, osteoporosi e malattie del timo.
-- **Interazioni farmacologiche**: sono state identificate circa 600 interazioni. Tra le principali, la **claritromicina** è classificata come maggiore. Interazioni moderate: antidiabetici (acarbosio, canagliflozin, dapagliflozin, empagliflozin, alogliptin, clorpropamide, albiglutide, dulaglutide), epinefrina, famotidina, isometeptene, dietilpropione e dolasetron. Corticosteroidi (idrocortisone, triamcinolone, desametasone, beclometasone, betametasone, budesonide): interazioni minori.
-- **Cautela di classe**: la monoterapia con LABA è stata associata a eventi avversi gravi nell'asma e va quindi associata a un corticosteroide inalatorio.
-
-Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustrativo.
-
----
+**Interazioni farmacologiche**: sono state registrate 600 interazioni. Le principali, tra quelle visibili, sono:
+- **Maggiore**: claritromicina.
+- **Moderata**: epinefrina, acarbosio, famotidina, isometeptene, alogliptin, canagliflozin, dapagliflozin, empagliflozin, clorpropamide, dolasetron, dulaglutide, albiglutide, dietilpropione.
+- **Lieve**: corticosteroidi (idrocortisone, triamcinolone, desametasone, beclometasone, betametasone, budesonide).
 
 ## Conclusione e prossimi passi
 
-**Decisione: Proceed with Guardrails**
+**Decisione: Hold**
 
 **Motivazione:**
-Esistono diversi studi di fase 3 completati nella BPCO e un'importante letteratura di supporto, quindi il livello di evidenza è L1. Poiché l'indicazione prevista è molto vicina agli usi originari, il valore innovativo è limitato. Il farmaco è in commercio in Italia, con 20 autorizzazioni valide.
+- La predizione si basa solo sul modello computazionale, senza studi che riguardino direttamente la malformazione respiratoria. Gli studi disponibili riguardano condizioni diverse e non mostrano un beneficio nelle malformazioni strutturali.
 
-**Per procedere sono necessari:**
-- Verifica della disponibilità commerciale attuale in Italia (prodotti con salmeterolo, da solo o in associazione) e valutazione di un'eventuale nuova autorizzazione
-- Dati ufficiali sul meccanismo d'azione e sulle avvertenze/controindicazioni dal foglio illustrativo AIFA
-- Piano di monitoraggio della sicurezza (cardiovascolare, QT, glicemia) e gestione delle interazioni, in particolare con la claritromicina
-- Conferma del ruolo del salmeterolo nei bracci degli studi con arformoterolo, dove è presumibile ma non verificato come controllo
+**Per procedere, sono necessari:**
+- Una definizione precisa della condizione prevista, visto che l'etichetta è eterogenea.
+- Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la condizione.
+- Studi preclinici o clinici che valutino direttamente il salmeterolo in questa condizione.
+- Le avvertenze e le controindicazioni dal foglio illustrativo AIFA, per la valutazione di sicurezza.
 
----
-
-### Altre indicazioni previste (sintesi)
-
-- **Asma** e **malattia polmonare ostruttiva**: evidenza L1 (Proceed with Guardrails), ma coincidono con l'uso già approvato, quindi si tratta di conferma e non di riposizionamento.
-- **Malformazione respiratoria**, **sindrome di Rienhoff**, **tratti correlati all'asma (suscettibilità)**: evidenza L4-L5, Hold.
-- **Eczema atopico**: evidenza L4, solo dati precliniciali e piccoli studi su pelle umana; considerato una domanda di ricerca.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

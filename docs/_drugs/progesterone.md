@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Prove elevate (L1-L2)
+parent: Prove moderate (L3-L4)
 nav_order: 364
-evidence_level: L2
+evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: nuova indicazione prevista, Breast fibrocystic disease (livello di evidenza L2)."
+description: "Progesterone: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Livello di evidenza: **L2** | Indicazioni previste: **6** 
+Livello di evidenza: **L4** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,72 +33,55 @@ Livello di evidenza: **L2** | Indicazioni previste: **6**
 
 </div>
 
-## Progesterone: Breast fibrocystic disease
+## Progesterone: Malattia fibrocistica della mammella (breast fibrocystic disease)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il progesterone è un ormone steroideo usato in ambito ginecologico ed endocrinologico, con indicazioni originarie per endometriosi, patologie endometriali (inclusi carcinoma e neoplasie dell'endometrio), osteoporosi post-menopausale e vaginite atrofica post-menopausale.
-Il modello TxGNN prevede che possa essere utile per l'**amenorrea**, con **4 studi clinici** registrati (1 di fase 3 e 1 di fase 2/3 completati) e **18 pubblicazioni** associate.
-Le prove, però, riguardano per lo più strategie di sostituzione estrogenica e non isolano l'effetto specifico del progesterone.
+Il progesterone è un ormone sessuale femminile della classe dei progestinici, commercializzato in Italia in formulazioni orali, vaginali e intramuscolari. Il modello TxGNN ne prevede una possibile utilità nella **malattia fibrocistica della mammella (breast fibrocystic disease)**. A oggi non esistono **studi clinici registrati**; sono disponibili **19 pubblicazioni**, in larga parte osservazionali o di revisione e per lo più datate, nessuna delle quali valuta il progesterone come trattamento.
 
----
-
-## Quadro di sintesi
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originaria | Non riportata nei dati locali |
-| Nuova indicazione prevista | Breast fibrocystic disease |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malattia fibrocistica della mammella (breast fibrocystic disease) |
 | Punteggio di predizione TxGNN | 0.9998 |
-| Livello di evidenza | L2 |
+| Livello di evidenza | L4 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
 | Numero di autorizzazioni | 7 (valide: 7) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione può essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. In base alle informazioni note, il progesterone è un ormone progestinico, il cui ruolo fisiologico è bilanciare l'azione proliferativa degli estrogeni sui tessuti bersaglio. Meccanicisticamente potrebbe quindi essere applicabile alla malattia fibrocistica della mammella.
 
-Nei dati compilati per questo report il meccanismo d'azione dettagliato non è disponibile. In base alle informazioni note, il progesterone è l'ormone fisiologicamente complementare agli estrogeni nel ciclo mestruale.
+La letteratura di tipo fisiopatologico descrive la malattia benigna della mammella come una condizione ormono-dipendente. Una revisione del 1986 (Vorherr) attribuisce la patologia a una prevalenza estrogenica con carenza relativa di progesterone. Uno studio più recente (2018) ha esaminato il rapporto estradiolo/progesterone nella fase luteale tardiva in donne con malattia fibrocistica, a sostegno di un possibile squilibrio ormonale.
 
-Nell'amenorrea ipotalamica o ipoestrogenica (atlete, anoressia nervosa) il progesterone può favorire il sanguinamento da sospensione e la regolazione del ciclo. Il progesterone orale micronizzato è usato in endocrinologia sia a scopo diagnostico (test di sfida con progestinico) sia terapeutico (PMID 38652231).
-
-**Cautela importante:** gli studi registrati valutano soprattutto la sostituzione estrogenica o strategie di ripristino ormonale in donne ipoestrogeniche. Il contributo specifico del progesterone non è quindi isolato.
-
----
+Questa ipotesi presenta però forti incertezze. Il progesterone ha anche effetti proliferativi sul tessuto mammario, quindi la direzione dell'effetto (benefico o sfavorevole) non è chiarita. Non esistono dati interventistici sul progesterone in questa condizione e la letteratura disponibile è prevalentemente epidemiologica o anatomo-patologica.
 
 ## Evidenze da studi clinici
 
-| Numero studio | Fase | Stato | Arruolamento | Risultati principali |
-|---------|------|------|------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fase 3 | Completato | 121 | Modulazione della funzione riproduttiva ed endocrina in giovani atlete; estrogeni transdermici/orali vs nessun estrogeno per densità ossea in atlete amenorroiche. Popolazione pertinente, effetto specifico del progesterone incerto |
-| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Fase 2/3 | Completato | 110 | Effetti dell'anoressia nervosa sul picco di massa ossea; ruolo della somministrazione di estrogeni in adolescenti con amenorrea ipogonadica. Endpoint primario: massa ossea |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Fase 2 | Attivo, non in reclutamento | 120 | Estradiolo transdermico con progesterone ciclico vs placebo in adolescenti/giovani adulte ipoestrogeniche con disturbi alimentari; endpoint cognitivi, solo indirettamente legati all'amenorrea |
-| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Fase 2 | Completato | 29 | Aterosclerosi e infiammazione in giovani donne con amenorrea ipotalamica funzionale; endpoint cardiovascolari, non il ripristino del ciclo |
-
----
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Revisione | Rev Endocr Metab Disord | Uso diagnostico e terapeutico del progesterone orale micronizzato in endocrinologia; controllo dell'asse ipotalamo-ipofisi-ovaio e dell'endometrio |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Revisione | Rev Endocr Metab Disord | Basi endocrine dei trattamenti ormonali per l'endometriosi (dipendenza estrogenica e resistenza al progesterone) |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Revisione | Front Endocrinol | Eziologia, sintomi e trattamento dell'insufficienza ovarica prematura |
-| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Revisione | Reprod Sci | Metodi di riparazione e rigenerazione dell'endometrio danneggiato (aderenze intrauterine, endometrio sottile) |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Revisione | Semin Reprod Med | Aderenze intrauterine (sindrome di Asherman), con spettro che va dall'amenorrea alla mestruazione normale |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Revisione | Am Fam Physician | Valutazione diagnostica dell'amenorrea |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Rassegna clinica | Climacteric | Gestione clinica del sanguinamento vaginale nelle donne in post-menopausa |
-| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | Rassegna | Gynecol Endocrinol | Controllo neuroendocrino dell'ovulazione; anovulazione/amenorrea da insufficienza ipotalamica |
-| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | Rassegna | South Med J | Insufficienza ovarica primaria e terapia ormonale sostitutiva |
-| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | Rassegna | Am Fam Physician | Approccio diagnostico all'amenorrea, incluso il sanguinamento dopo ciclo di solo progesterone |
-
-Nessuna delle pubblicazioni elencate è uno studio randomizzato controllato sul progesterone nell'amenorrea.
-
----
+| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Revisione | Fertility and Sterility | I contraccettivi orali usati prima della metà degli anni '70 proteggevano dalla maggior parte delle forme di malattia benigna della mammella; resta incerto se i progestinici a basso dosaggio attuali offrano la stessa protezione |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Revisione | American Journal of Obstetrics and Gynecology | Fisiopatologia dominata da prevalenza estrogenica e carenza di progesterone; rischio di carcinoma mammario aumentato di 2-4 volte |
+| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Revisione | Breast Cancer Research and Treatment | Epidemiologia ed endocrinologia della malattia benigna della mammella |
+| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Revisione | The Journal of Reproductive Medicine | Revisione del rapporto tra estrogeni, progesterone e patologia mammaria; i dati non indicano un aumento del rischio di carcinoma con estrogeni e contraccettivi orali |
+| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | Trasversale | International Journal of Reproductive Biomedicine | Associazione tra malattia fibrocistica e fenotipi della sindrome dell'ovaio policistico |
+| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | Osservazionale (caso-controllo) | Acta Clinica Croatica | Valutazione del rapporto estradiolo/progesterone in fase luteale tardiva in 50 donne con malattia fibrocistica e 40 controlli |
+| [22103710](https://pubmed.ncbi.nlm.nih.gov/22103710/) | 2012 | Osservazionale | Gynecological Endocrinology | Frequenza della malattia fibrocistica nei diversi fenotipi di PCOS in rapporto a parametri ormonali e metabolici |
+| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | Osservazionale | European Journal of Endocrinology | Valutazione degli ormoni tiroidei nel siero e nel liquido delle cisti mammarie |
+| [10424406](https://pubmed.ncbi.nlm.nih.gov/10424406/) | 1999 | Osservazionale | Breast Cancer Research and Treatment | Livelli di TNF-alfa, IL-1 e IL-6 nel liquido delle cisti mammarie, in rapporto agli ormoni steroidei |
+| [8043497](https://pubmed.ncbi.nlm.nih.gov/8043497/) | 1994 | Osservazionale | J Steroid Biochem Mol Biol | Biochimica degli steroidi e classificazione del liquido delle cisti mammarie in relazione al rischio di carcinoma |
 
 ## Informazioni sul mercato italiano
+
+Il progesterone risulta commercializzato in Italia, con licenze valide per prodotti a base di solo progesterone. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati locali.
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -108,36 +91,28 @@ Nessuna delle pubblicazioni elencate è uno studio randomizzato controllato sul 
 | 044825026 | AMELGEN 15 ovuli vaginali 400 mg (Gedeon Richter) | Ovuli vaginali | Autorizzazione valida |
 | 035042035 | PROGEFFIK 15 capsule molli orali o vaginali 200 mg (Effik Italia) | Capsule molli | Autorizzazione valida |
 
-Sono presenti altre 2 autorizzazioni (PROMETRIUM 100 mg e 200 mg, Besins), anch'esse cancellate.
+## Considerazioni sulla sicurezza
 
----
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
-## Considerazioni di sicurezza
-
-- **Controindicazioni segnalate dal grafo di conoscenza** (non da testo di scheda tecnica): ipertensione, insufficienza e malattie epatiche, epilessia, disturbi d'ansia e nevrotici, porfiria, malattie renali e della colecisti, iperglicemia, ipotiroidismo, osteoporosi, lupus eritematoso sistemico, asma, diabete mellito e chetoacidosi diabetica, ipertrigliceridemia, abuso/dipendenza da sostanze.
-- **Interazioni farmacologiche**: sono state identificate 100 interazioni, di livello moderato nei principali esempi riportati. Riguardano soprattutto antidiabetici (acarbosio, metformina, pioglitazone, glimepiride, repaglinide, inibitori SGLT2 e DPP-4, agonisti del GLP-1, insuline) e inoltre aprepitant e claritromicina.
-
-Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo.
-
----
+**Interazioni farmacologiche:** sono state registrate 100 interazioni; tra quelle elencate, tutte di livello moderato, le principali riguardano:
+- **Antidiabetici** (per esempio metformina, pioglitazone, acarbosio, glimepiride, repaglinide, canagliflozin, dapagliflozin, empagliflozin, semaglutide, liraglutide, insuline), per i quali può essere necessario un monitoraggio della glicemia.
+- **Aprepitant**.
+- **Claritromicina**.
 
 ## Conclusione e prossimi passi
 
-**Decisione: Proceed with Guardrails (procedere con cautele)**
+**Decisione: Hold**
 
 **Motivazione:**
-- Sono presenti studi di fase 3 e fase 2/3 completati nella popolazione pertinente (amenorrea ipoestrogenica), ma testano soprattutto gli estrogeni; il contributo del progesterone non è isolato. Per questo l'evidenza è L2 e non superiore.
-- Inoltre, tutte le autorizzazioni italiane sono cancellate: un eventuale riposizionamento richiederebbe una nuova autorizzazione.
+Esistono un razionale ormonale e studi osservazionali sulla malattia fibrocistica, ma nessun dato interventistico sul progesterone. Inoltre la direzione dell'effetto sul tessuto mammario è incerta, perché il progesterone ha anche azione proliferativa. La letteratura è prevalentemente datata e il punteggio del modello non è sufficiente da solo a giustificare un passaggio alla fase successiva.
 
-**Per procedere sono necessari:**
-- Studi che isolino l'effetto del progesterone (ad esempio confronto con e senza progesterone, ripristino del ciclo come endpoint).
-- Dati sul meccanismo d'azione.
-- Testi ufficiali di avvertenze e controindicazioni dal foglio illustrativo AIFA (attualmente mancanti, quindi lo screening di sicurezza non è completabile).
-- Valutazione della via di somministrazione e del percorso regolatorio, dato lo stato di mercato.
+**Per procedere è necessario:**
+- Una revisione sistematica degli studi su progesterone/progestinici nella malattia mammaria benigna, compresi gli studi sulla mastalgia.
+- Dati sul meccanismo d'azione dettagliato.
+- Dati di sicurezza ricavati dal foglio illustrativo dell'AIFA, con particolare attenzione al profilo di rischio mammario.
+- Un piano per uno studio clinico esplorativo, con definizione di via di somministrazione e dosaggio.
 
----
-
-*Nota sulle altre predizioni:* le altre indicazioni predette hanno evidenza molto più debole: malattia fibrocistica della mammella, displasia mammaria benigna, endometriosi cervicale, endometriosi del setto rettovaginale e cicatriziale (L4, da considerare solo come quesiti di ricerca), ipoplasia renale, adenosi a dotti ostruiti e adenosi apocrina (L5, Hold). In particolare, per la malattia mammaria benigna la direzione dell'effetto del progesterone è incerta, perché ha anche effetti proliferativi sul tessuto mammario.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

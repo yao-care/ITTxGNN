@@ -36,11 +36,11 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 ## Amiodarone: Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
-## Sintesi
+## Riepilogo
 
-L'amiodarone è un farmaco antiaritmico multicanale (blocco dei canali del potassio, del sodio e del calcio, con azione antiadrenergica beta). Il modello TxGNN ne predice un possibile utilizzo nella **tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia)**. Per questa indicazione non risulta alcuno studio clinico registrato e le **9 pubblicazioni** reperite sono descrizioni di coorti, revisioni e casi clinici, senza uno studio che testi direttamente l'amiodarone nella malattia.
+L'amiodarone è un farmaco antiaritmico di classe III, già in commercio in Italia. Il modello TxGNN ne prevede un possibile impiego nella **tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia)**, con punteggio 0,9978. Per questa indicazione non risultano **sperimentazioni cliniche** registrate. Le **9 pubblicazioni** disponibili sono studi di coorte, una revisione sistematica, revisioni e casi clinici, e nessuna valuta l'amiodarone come terapia della malattia.
 
-## Quadro generale
+## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
@@ -50,35 +50,35 @@ L'amiodarone è un farmaco antiaritmico multicanale (blocco dei canali del potas
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
 | Numero di autorizzazioni | 8 (valide: 8) |
-| Decisione raccomandata | Hold (sospendere) |
+| Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?
 
-I dati compilati per questo report non riportano un meccanismo d'azione dettagliato. Il profilo farmacologico noto dell'amiodarone è quello di un antiaritmico multicanale (potassio, sodio, calcio e blocco beta-adrenergico), impiegato nelle aritmie ventricolari.
+Per l'amiodarone non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa però che agisce su più bersagli: blocca i canali del potassio, del sodio e del calcio e ha un effetto antagonista sui recettori beta-adrenergici. Questo profilo è in linea con una malattia in cui le aritmie ventricolari sono scatenate dalla stimolazione adrenergica, per alterazioni genetiche come quelle del recettore RYR2.
 
-La tachicardia ventricolare polimorfa catecolaminergica è una canalopatia ereditaria rara, in cui l'aritmia è scatenata dallo stress adrenergico, tipicamente per mutazioni di RYR2. Un legame meccanicistico è quindi plausibile: l'azione antiadrenergica e il blocco dei canali ionici potrebbero attenuare le aritmie innescate dalle catecolamine.
+Il collegamento è però solo teorico. Nella tachicardia ventricolare polimorfa catecolaminergica la terapia di prima linea è costituita dai beta-bloccanti, con la flecainide come aggiunta. Nella letteratura esaminata l'amiodarone compare solo come opzione di salvataggio in casi refrattari o in tempesta aritmica, non come terapia studiata per questa malattia.
 
-Va però precisato che la terapia di prima linea sono i beta-bloccanti, con flecainide come aggiunta. Nella letteratura disponibile l'amiodarone compare come opzione di salvataggio nei casi refrattari o in tempesta aritmica, non come terapia studiata specificamente per questa malattia.
+## Evidenze dagli studi clinici
 
-## Evidenza dagli studi clinici
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
-Attualmente non risultano studi clinici registrati correlati a questa indicazione.
-
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Revisione sistematica (coorte) | Life (Basel) | Caratteristiche cliniche, basi genetiche ed esiti aritmici dei pazienti cinesi con CPVT |
-| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Coorte retrospettiva | Rev Cardiovasc Med | Caratteristiche cliniche, genetica, uso di risorse sanitarie e costi in pazienti con CPVT |
-| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Revisione | Expert Opin Pharmacother | Progressi nel trattamento farmacologico delle aritmie ventricolari |
-| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Caso clinico | Turk Pediatri Arsivi | Arresto cardiaco improvviso in un bambino di 2 anni con CPVT |
-| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Caso clinico | Pacing Clin Electrophysiol | Flecainide nella tempesta aritmica indotta dal defibrillatore in CPVT |
-| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Caso clinico | Medicine | Diagnosi ritardata di CPVT con mutazione RYR2 in un bambino di 9 anni |
-| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Caso clinico | Front Cardiovasc Med | Risoluzione della CPVT con denervazione simpatica cardiaca destra in un adolescente |
-| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Caso clinico | BMJ Case Rep | Sopravvivenza di un bambino con arresto cardiaco extraospedaliero e aritmie ventricolari ricorrenti |
-| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Caso clinico | Anesth Analg | Neonato con sindrome del QT lungo e aritmie refrattarie trattato con lidocaina, esmololo e amiodarone |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Revisione sistematica | Life (Basel) | Caratteristiche cliniche, basi genetiche ed esiti aritmici dei pazienti cinesi con questa malattia; non valuta l'amiodarone |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Coorte retrospettiva | Reviews in Cardiovascular Medicine | Caratteristiche cliniche, genetica e costi sanitari in una coorte cinese |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Revisione | Expert Opinion on Pharmacotherapy | Panoramica dei farmaci antiaritmici per le aritmie ventricolari, nella conversione acuta e nella prevenzione cronica |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Caso clinico | PACE | La flecainide sopprime la tempesta indotta dal defibrillatore in un ragazzo con mutazione della calsequestrina-2 |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Caso clinico | Turk Pediatri Arsivi | Arresto cardiaco improvviso in un bambino di due anni con questa malattia |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Caso clinico | Medicine | Diagnosi ritardata di 6 anni in un bambino con mutazione di RYR2 |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Caso clinico | Frontiers in Cardiovascular Medicine | Risoluzione con denervazione simpatica cardiaca destra in un adolescente già sottoposto a denervazione sinistra |
+| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Caso clinico | BMJ Case Reports | Arresto cardiaco extraospedaliero in un bambino, con aritmie ricorrenti e necessità di discostarsi dalle linee guida standard |
+| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Caso clinico | Anesthesia & Analgesia | Neonato con sindrome del QT lungo e aritmie refrattarie trattato anche con amiodarone; non riguarda questa malattia |
 
 ## Informazioni sul mercato italiano
+
+L'amiodarone risulta commercializzato in Italia. Le autorizzazioni elencate sono tutte valide; il testo dell'indicazione approvata non è riportato nei dati locali.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -88,26 +88,38 @@ Attualmente non risultano studi clinici registrati correlati a questa indicazion
 | 040758029 | AMIODARONE*20 cpr 200 mg (Mylan) | Non indicata | Non registrata |
 | 035729019 | AMIODARONE*20 cpr 200 mg (Teva) | Non indicata | Non registrata |
 
-L'elenco mostra 5 delle 8 autorizzazioni registrate.
-
 ## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: sono state rilevate 100 interazioni. Tra quelle di livello maggiore figurano agalsidasi beta, idrocortisone, amfotericina B (e sue formulazioni), cisapride, claritromicina, clotrimazolo, desametasone, dolasetron ed eliglustat. Tra quelle di livello moderato figurano famotidina, aprepitant, bisacodile, budesonide, olio di ricino e cimetidina.
+**Condizioni da valutare con cautela.** Non provengono dal testo del foglietto illustrativo. Sono associazioni di controindicazione segnalate per il farmaco:
+- Cardiache: sindrome del QT lungo (anche familiare), torsione di punta, blocco atrioventricolare, sindrome del nodo del seno.
+- Tiroidee: ipotiroidismo, ipertiroidismo, malattia di Graves, tireotossicosi.
+- Polmonari: malattia polmonare interstiziale, polmonite eosinofila, polmonite da ipersensibilità.
+- Epatiche: malattia epatica e danno epatico da farmaci.
+- Neurologiche e oculari: neuropatia periferica, neurite ottica, depositi corneali.
+- Metaboliche: carenza di potassio.
 
-Per le avvertenze e le controindicazioni complete si rimanda al foglio illustrativo.
+**Interazioni farmacologiche.** Sono state individuate 100 interazioni; tra quelle di livello **maggiore** figurano:
+- claritromicina, cisapride e dolasetron;
+- amfotericina B (e sue formulazioni), idrocortisone e desametasone;
+- clotrimazolo, eliglustat e agalsidasi beta.
 
-## Conclusione e prossimi passi
+Sono presenti anche interazioni di livello moderato, ad esempio con famotidina, cimetidina, aprepitant e budesonide.
+
+Per avvertenze e controindicazioni complete si rimanda al foglietto illustrativo.
+
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Nessuno studio cita l'amiodarone come terapia studiata specificamente nella CPVT: la letteratura è costituita da coorti descrittive, revisioni e casi clinici. Il livello di evidenza è quindi L5, nonostante il punteggio TxGNN elevato (0,9978). Le terapie di prima linea (beta-bloccanti, flecainide) sono già consolidate.
+- Nessuno studio citato valuta l'amiodarone nella tachicardia ventricolare polimorfa catecolaminergica, quindi il livello di evidenza è L5. Il punteggio TxGNN (0,9978) da solo non basta a sostenere un impiego clinico.
+- Esistono alternative di prima linea consolidate, e l'amiodarone ha un profilo di tossicità rilevante (tiroide, polmone, fegato, proaritmia).
 
-**Per procedere sarebbe necessario:**
-- Dati su efficacia e sicurezza dell'amiodarone specificamente nella CPVT (serie di casi o studi comparativi con i trattamenti standard)
-- Dati sul meccanismo d'azione dettagliato
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Un piano di monitoraggio della tossicità tiroidea, polmonare, epatica e oculare, dell'allungamento del QT e delle numerose interazioni farmacologiche
+**Per procedere sono necessari:**
+- Studi o serie di casi che valutino direttamente l'amiodarone in questa malattia, in particolare nei casi refrattari a beta-bloccanti e flecainide.
+- Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni dal foglietto illustrativo AIFA.
+- Un piano di monitoraggio della sicurezza (funzione tiroidea, polmonare ed epatica, ECG e QT) e una valutazione delle interazioni nei pazienti candidati.
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

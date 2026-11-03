@@ -44,8 +44,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
 | Numero di autorizzazioni | 3 (valide: 3) |
 
-> Nota: l'analisi compilata assegna il livello L4 (domanda di ricerca). Applicando le regole di questo report, in assenza di studi clinici, di studi osservazionali specifici o di studi preclinici sull'amenorrea, il livello più appropriato è L5. La letteratura raccolta è per lo più indiretta.
-
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |

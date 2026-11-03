@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
 last_modified_at: 2026-11-03
-description: "Albendazole: nuova indicazione prevista, Coenurosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Albendazole: nuova indicazione prevista, Cenurosi (coenurosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Albendazole
@@ -33,53 +33,64 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 </div>
 
-## Albendazole: Coenurosis
+## Albendazole: Cenurosi (coenurosis)
 {: .text-alpha }
 
-## Sintesi in breve
+## Sintesi
 
-L'albendazolo è un antielmintico benzimidazolico. Il modello TxGNN prevede che possa essere efficace per l'**echinococcosi alveolare (alveolar echinococcosis)**, con **3 studi clinici** e **20 pubblicazioni** associati a questa direzione. Nel complesso l'evidenza è prevalentemente indiretta e di tipo revisionale.
+L'albendazolo è un antielmintico che inibisce la polimerizzazione della beta-tubulina nei parassiti. Il modello TxGNN prevede che possa essere efficace per la **cenurosi (coenurosis)**. A sostegno della direzione generale ci sono **9 studi clinici** e **20 pubblicazioni**, ma nessuno riguarda direttamente la cenurosi: si riferiscono alla neurocisticercosi, malattia affine causata da larve di cestodi.
 
-## Quadro d'insieme
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Coenurosis |
-| Punteggio di predizione TxGNN | 0.9983 |
+| Nuova indicazione prevista | Cenurosi (coenurosis) |
+| Punteggio di previsione TxGNN | 0.9983 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
-| Decisione raccomandata | Procedere con cautele (Proceed with Guardrails) |
+| Decisione raccomandata | Hold |
 
-## Perché questa predizione è ragionevole?
+## Perché questa previsione è plausibile?
 
-Per questo farmaco i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alla farmacologia nota della classe, l'albendazolo si lega alla beta-tubulina del parassita, inibendo la polimerizzazione dei microtubuli e l'assorbimento del glucosio. Ne derivano un esaurimento energetico e un danno metabolico alle larve dei cestodi.
+L'albendazolo inibisce la polimerizzazione della beta-tubulina nelle larve di cestodi, compromettendo l'assorbimento del glucosio e causando esaurimento energetico. I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report; la descrizione si basa sulle conoscenze farmacologiche generali.
 
-*Echinococcus multilocularis*, agente dell'echinococcosi alveolare, è un cestode strettamente imparentato con *Echinococcus granulosus*, responsabile dell'echinococcosi cistica. Il bersaglio molecolare è quindi plausibilmente lo stesso. Le revisioni disponibili indicano che l'albendazolo è già la chemioterapia raccomandata dalle linee guida per questa malattia, con azione parassitostatica (non parassiticida): dopo una chirurgia incompleta o quando l'intervento non è possibile è spesso necessario un trattamento prolungato.
+La cenurosi è causata dalle larve di *Taenia multiceps* ed è biologicamente vicina alla cisticercosi (*Taenia solium*), per la quale l'albendazolo è utilizzato. Un meccanismo antitubulinico attivo sulle larve di cestodi potrebbe quindi, in linea di principio, essere applicabile anche alla cenurosi.
+
+Occorre però cautela: gli studi di fase 3 disponibili riguardano la neurocisticercosi, non la cenurosi. Il punteggio del modello riflette probabilmente la prossimità tra le due malattie più che prove dirette. Le evidenze sono quindi solide per la classe delle larve di cestodi, ma indirette per la cenurosi in sé. Nessuno degli studi o delle pubblicazioni elencati studia direttamente la cenurosi, per cui il livello di evidenza resta L5.
 
 ## Evidenze dagli studi clinici
 
+Nessuno studio registrato riguarda direttamente la cenurosi; gli studi seguenti riguardano la neurocisticercosi e hanno rilevanza indiretta.
+
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Fase 2 | Completato | 194 | Trattamento con albendazolo in soggetti con echinococcosi alveolare in stadio precoce (focolaio in Kirghizistan); studio più pertinente, ma il disegno randomizzato non è confermato e non sono forniti risultati |
-| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | N/D | Completato | 50 | Vitalità del parassita e marcatori di follow-up in pazienti con echinococcosi alveolare epatica trattati con albendazolo; utile per il monitoraggio, non per l'efficacia |
-| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | N/D | Stato sconosciuto | 24 | Albendazolo adiuvante dopo resezione di cisti idatidea polmonare vs placebo; riguarda di norma la forma cistica, quindi indiretto |
+| [NCT02243644](https://clinicaltrials.gov/study/NCT02243644) | Fase 3 | Completato | 97 | Confronto tra due durate di albendazolo nella neurocisticercosi con ≤5 lesioni |
+| [NCT00441285](https://clinicaltrials.gov/study/NCT00441285) | Fase 2/3 | Completato | 156 | Terapia combinata praziquantel + albendazolo nella neurocisticercosi |
+| [NCT00283699](https://clinicaltrials.gov/study/NCT00283699) | Fase 3 | Completato | 178 | Studio pilota: albendazolo vs trattamento sintomatico nella neurocisticercosi |
+| [NCT02947581](https://clinicaltrials.gov/study/NCT02947581) | Fase 3 | Terminato | 107 | Albendazolo + praziquantel nella cisticercosi subaracnoidea; la terminazione limita l'affidabilità |
+| [NCT00004403](https://clinicaltrials.gov/study/NCT00004403) | Non applicabile | Completato | 120 | Albendazolo nell'epilessia da neurocisticercosi |
+| [NCT00290823](https://clinicaltrials.gov/study/NCT00290823) | Fase 3 | Completato | 110 | Dosaggio di corticosteroidi nella neurocisticercosi intraparenchimale; la variabile testata è lo steroide |
+| [NCT00133458](https://clinicaltrials.gov/study/NCT00133458) | Fase 3 | Ritirato | 0 | Due durate di albendazolo nella cisticercosi subaracnoidea; nessun partecipante, quindi nessuna evidenza |
+| [NCT06376396](https://clinicaltrials.gov/study/NCT06376396) | Fase 4 | Non ancora in reclutamento | 300 (previsti) | Praziquantel + albendazolo vs albendazolo da solo; nessun risultato |
+| [NCT06565507](https://clinicaltrials.gov/study/NCT06565507) | Fase 2/3 | Non ancora in reclutamento | 544 (previsti) | Studio sull'ossfendazolo, non sull'albendazolo; rilevanza minima |
 
 ## Evidenze dalla letteratura
 
+Le pubblicazioni elencate trattano la neurocisticercosi o altre forme di cisticercosi, non la cenurosi.
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Revisione | Acta Tropica | Consenso di esperti su diagnosi, trattamento e follow-up dell'echinococcosi cistica e alveolare |
-| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Revisione | Tidsskr Nor Legeforen | Malattia alveolare epatica; trattamento con resezione chirurgica e uso prolungato di antiparassitari |
-| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Revisione | World J Gastroenterol | Gestione attuale dell'echinococcosi epatica, con chirurgia come cardine |
-| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Revisione | Clin Microbiol Rev | Progressi del XXI secolo su diagnosi e trattamento dell'echinococcosi |
-| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Revisione | Semin Liver Dis | Quadro clinico e gestione dell'echinococcosi alveolare epatica |
-| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Studio osservazionale | J Antimicrob Chemother | Trentacinque pazienti trattati con mebendazolo o albendazolo, follow-up medio di 39 mesi |
-| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Rassegna | Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi | Progressi sull'albendazolo: può rallentare la progressione nei pazienti non operabili |
-| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinico | Antimicrob Agents Chemother | Formulazioni solubilizzanti di albendazolo in ratti con echinococcosi alveolare epatica secondaria |
-| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Rassegna | Parasitology | Il trattamento si basa solo sull'albendazolo, non parassiticida e con possibili effetti avversi; ricerca di alternative |
-| [25526545](https://pubmed.ncbi.nlm.nih.gov/25526545/) | 2014 | Revisione | Parasite | Albendazolo e mebendazolo e opzioni terapeutiche emergenti |
+| [30366559](https://pubmed.ncbi.nlm.nih.gov/30366559/) | 2018 | Revisione | Neurologic Clinics | Quadro clinico, diagnosi e terapia della neurocisticercosi |
+| [24365429](https://pubmed.ncbi.nlm.nih.gov/24365429/) | 2014 | Revisione | Handbook of Clinical Neurology | Neurocisticercosi come principale causa di epilessia acquisita |
+| [32129220](https://pubmed.ncbi.nlm.nih.gov/32129220/) | 2020 | Revisione | Saudi J Kidney Dis Transpl | Manifestazioni neurologiche e diagnosi della neurocisticercosi |
+| [15853623](https://pubmed.ncbi.nlm.nih.gov/15853623/) | 2004 | Revisione | Expert Rev Neurother | L'albendazolo è il farmaco di scelta nella neurocisticercosi con cisti parenchimali multiple |
+| [23829921](https://pubmed.ncbi.nlm.nih.gov/23829921/) | 2013 | Revisione | Handbook of Clinical Neurology | Infezione da larve di *T. solium* e sue manifestazioni |
+| [22702323](https://pubmed.ncbi.nlm.nih.gov/22702323/) | 2012 | Revisione | Expert Rev Anti Infect Ther | Granuloma cisticercotico solitario, forma frequente nel sud-est asiatico |
+| [1894783](https://pubmed.ncbi.nlm.nih.gov/1894783/) | 1991 | Casi clinici/revisione | J Am Acad Dermatol | Cisticercosi sottocutanea; opzioni: chirurgia, praziquantel, albendazolo |
+| [28233725](https://pubmed.ncbi.nlm.nih.gov/28233725/) | 2017 | Caso clinico | J Infect Public Health | Neurocisticercosi racemosa in un bambino di 12 anni |
+| [29884714](https://pubmed.ncbi.nlm.nih.gov/29884714/) | 2018 | Caso clinico | BMJ Case Reports | Cisticercosi orbitaria |
 
 ## Informazioni sul mercato italiano
 
@@ -87,27 +98,25 @@ Per questo farmaco i dati dettagliati sul meccanismo d'azione non sono disponibi
 |---------|------|------|-----------|
 | 027096041 | ZENTEL*3 cpr 400 mg | Non indicata | Non registrata nei dati locali |
 
-## Considerazioni sulla sicurezza
+## Considerazioni di sicurezza
 
-I dati compilati non contengono avvertenze o controindicazioni dal foglio illustrativo; per queste informazioni si rimanda al riassunto delle caratteristiche del prodotto.
+**Interazioni farmacologiche:** sono state rilevate 96 interazioni. Tra quelle di livello moderato figurano aprepitant, cobicistat, deferasirox, iodio-123, iodio-131, fostamatinib, alemtuzumab, amprenavir, anagrelide, apalutamide, bendamustina, bexarotene, binimetinib, boceprevir e bosentan. Di livello lieve: cimetidina, desametasone, lidocaina e armodafinil.
 
-**Interazioni farmacologiche:** sono state rilevate 96 interazioni. Tra quelle elencate, di gravità moderata: aprepitant, cobicistat, deferasirox, iodio I-123 e I-131, fostamatinib, abametapir (topico), alemtuzumab, amprenavir, anagrelide, apalutamide, bendamustina, bexarotene, binimetinib, boceprevir, bosentan. Di gravità lieve: cimetidina, desametasone, lidocaina, armodafinil.
-
-**Condizioni da valutare con cautela:** le basi dati indicano una possibile controindicazione o particolare cautela in caso di malattie del fegato e della colecisti e di alterazioni ematologiche (neutropenia, agranulocitosi, anemia, anemia macrocitica, pancitopenia, anemia aplastica). Non provengono dal testo del foglio illustrativo e vanno verificate.
+Per avvertenze e controindicazioni fare riferimento al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Procedere con cautele (Proceed with Guardrails)**
+**Decisione: Hold**
 
 **Motivazione:**
-L'albendazolo è già lo standard farmacologico raccomandato per l'echinococcosi alveolare e vi è uno studio di fase 2 completato (194 partecipanti) sulla coppia farmaco-malattia. Mancano però risultati pubblicati di studi randomizzati e l'evidenza è soprattutto revisionale; il farmaco è parassitostatico.
+Nessuno studio o pubblicazione esamina direttamente la cenurosi; le evidenze riguardano la neurocisticercosi e sono solo indirette. Il solo punteggio del modello non basta a giustificare un avanzamento.
 
-**Per procedere sono necessari:**
-- Risultati e disegno dello studio NCT07182305
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Dati dettagliati sul meccanismo d'azione
-- Piano di monitoraggio ematologico ed epatico per trattamenti prolungati
-- Verifica delle interazioni rilevanti per le terapie concomitanti
+**Per procedere è necessario:**
+- Reperire evidenze specifiche sulla cenurosi (serie di casi, studi osservazionali o studi clinici)
+- Acquisire avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Completare i dati sul meccanismo d'azione
+- Definire un piano di monitoraggio della sicurezza, con attenzione agli effetti ematologici ed epatici in caso di trattamento prolungato
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
