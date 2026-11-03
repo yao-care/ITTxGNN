@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -39,8 +39,8 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 ## Riassunto in una Riga
 
 Clorpromazina (chlorpromazine) è un antipsicoptico fenotiazinico di prima generazione con un uso consolidato nelle patologie psichiatriche.
-Tuttavia, questo Evidence Pack non contiene **alcun'indicazione nuova prevista da TxGNN** e mancano campi critici — indicazioni originarie, meccanismo d'azione e dati di sicurezza — rendendo impossibile al momento una valutazione completa della riproposizione.
-La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrativo hanno ciascuna restituito un risultato, ma il loro contenuto non era ancora stato integrato nell'Evidence Pack.
+Tuttavia, questi dati compilati non contengono **alcun'indicazione nuova prevista da TxGNN** e mancano campi critici — indicazioni originarie, meccanismo d'azione e dati di sicurezza — rendendo impossibile al momento una valutazione completa della riproposizione.
+La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrativo hanno ciascuna restituito un risultato, ma il loro contenuto non era ancora stato integrato nei dati compilati.
 
 ---
 
@@ -48,7 +48,7 @@ La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrati
 
 | Elemento | Contenuto |
 |----------|-----------|
-| Indicazione Originaria | Non disponibile nell'Evidence Pack |
+| Indicazione Originaria | Non disponibile nei dati compilati |
 | Indicazione Nuova Prevista | Nessuna — previsioni di TxGNN non popolate |
 | Punteggio di Previsione TxGNN | N/A |
 | Livello di Evidenza | N/A |
@@ -69,7 +69,7 @@ Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
 **Decisione: In sospeso**
 
 **Razionale:**
-L'Evidence Pack per Clorpromazina è criticamente incompleto — senza previsioni di TxGNN, indicazioni originarie, meccanismo d'azione o dati di sicurezza, nessuna ipotesi di riproposizione può essere formulata o valutata.
+I dati compilati per Clorpromazina sono criticamente incompleti — senza previsioni di TxGNN, indicazioni originarie, meccanismo d'azione o dati di sicurezza, nessuna ipotesi di riproposizione può essere formulata o valutata.
 
 **Per procedere, è necessario il seguente:**
 
