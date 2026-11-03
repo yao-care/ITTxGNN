@@ -62,7 +62,7 @@ Il modello di deep learning (DL) di TxGNN assegna un punteggio a ogni coppia far
 
 ## Integrazione dei dati regolatori
 
-I dati sulle approvazioni dei farmaci in Italia provengono dall'AIFA. I nomi dei principi attivi sono mappati sul
+I dati sui farmaci in Italia provengono dalle liste AIFA dei farmaci di classe A e H (i farmaci di classe C non sono inclusi). I nomi dei principi attivi sono mappati sul
 vocabolario DrugBank; i principi attivi che non possono essere mappati — estratti vegetali, vaccini, eccipienti
 e altri elementi non catalogati da DrugBank — sono esclusi dalla previsione.
 

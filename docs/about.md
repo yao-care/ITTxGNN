@@ -3,7 +3,7 @@ layout: default
 title: Informazioni
 nav_order: 90
 permalink: /about/
-description: "ITTxGNN è una piattaforma di previsione per il riposizionamento dei farmaci sviluppata da 藥提醒科技有限公司 (yao.care), basata sul modello TxGNN di Harvard e dedicata ai medicinali approvati dall'AIFA in Italia."
+description: "ITTxGNN è una piattaforma di previsione per il riposizionamento dei farmaci sviluppata da 藥提醒科技有限公司 (yao.care), basata sul modello TxGNN di Harvard e dedicata ai medicinali di classe A e H delle liste AIFA in Italia."
 ---
 
 # Informazioni
@@ -19,7 +19,7 @@ Accelerare la validazione delle prove sul riposizionamento dei farmaci con l'IA 
 <p class="key-answer" data-question="Che cos'è ITTxGNN?">
 <strong>ITTxGNN</strong> è una piattaforma di supporto alla ricerca sul riposizionamento dei farmaci, basata sul modello TxGNN
 pubblicato su <em>Nature Medicine</em> dallo Zitnik Lab dell'Università di Harvard. Prevede
-l'ampliamento delle indicazioni terapeutiche per i medicinali approvati dall'AIFA in Italia. Oltre ai punteggi di previsione dell'IA,
+l'ampliamento delle indicazioni terapeutiche per i medicinali di classe A e H delle liste AIFA in Italia (la classe C non è inclusa). Oltre ai punteggi di previsione dell'IA,
 la piattaforma integra prove cliniche provenienti da ClinicalTrials.gov e PubMed, così che i ricercatori possano
 valutare rapidamente quanto sia attendibile ciascuna previsione.
 </p>

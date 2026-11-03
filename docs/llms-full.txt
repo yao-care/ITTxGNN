@@ -19,9 +19,9 @@ I livelli di evidenza vanno da L1 (evidenza clinica più solida) a L5 (solo prev
 - `/evidence-low/` Solo previsione del modello (L5) — Candidati di livello L5 in ITTxGNN: solo previsione del modello, ancora senza prove cliniche o di letteratura.
 - `/methodology/` Metodologia — Come ITTxGNN genera e valida le previsioni: previsione tramite il modello TxGNN (apprendimento profondo), raccolta delle prove, classificazione L1-L5 e raccomandazioni decisionali.
 - `/guide/` Guida per l'utente — Guida per l'utente di ITTxGNN: come cercare i farmaci, leggere i livelli di prova e interpretare le raccomandazioni.
-- `/sources/` Fonti dei dati — Le fonti dei dati alla base di ITTxGNN: dati di registrazione AIFA, TxGNN, ClinicalTrials.gov, PubMed e DrugBank.
+- `/sources/` Fonti dei dati — Le fonti dei dati alla base di ITTxGNN: liste AIFA dei farmaci di classe A e H e stato delle AIC (confezioni.csv), TxGNN, ClinicalTrials.gov, PubMed e DrugBank.
 - `/downloads/` Download — Download dei dati aperti di ITTxGNN: risorse FHIR, risultati delle previsioni e indice di ricerca.
-- `/about/` Informazioni — ITTxGNN è una piattaforma di previsione per il riposizionamento dei farmaci sviluppata da 藥提醒科技有限公司 (yao.care), basata sul modello TxGNN di Harvard e dedicata ai medicinali approvati dall'AIFA in Italia.
+- `/about/` Informazioni — ITTxGNN è una piattaforma di previsione per il riposizionamento dei farmaci sviluppata da 藥提醒科技有限公司 (yao.care), basata sul modello TxGNN di Harvard e dedicata ai medicinali di classe A e H delle liste AIFA in Italia.
 
 ## Esempi di report sui farmaci
 
