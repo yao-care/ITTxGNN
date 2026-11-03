@@ -4,17 +4,17 @@ title: Clomifene
 parent: Solo previsione del modello (L5)
 nav_order: 116
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "CLOMIFENE"
-predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "anovulation"]
-last_modified_at: 2026-10-28
-description: "Clomifene: nuova indicazione prevista, Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46… (livello di evidenza L5). Indicazione originale: Non riportata nei dati …"
+predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
+last_modified_at: 2026-11-03
+description: "Clomifene: nuova indicazione prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Clomifene
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,38 +33,39 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Clomifene: modulatore selettivo del recettore degli estrogeni → Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect)
+## Clomifene: 46,XY disorder of sex development due to testicular steroidogenesis defect
 {: .text-alpha }
 
-## Sintesi
+## Sintesi in una frase
 
-Il clomifene è un modulatore selettivo del recettore degli estrogeni. Il modello TxGNN lo indica come possibile candidato per il **disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect)**, con un punteggio di 0,9990. Per questa previsione non risultano **né studi clinici né pubblicazioni**: si tratta di una previsione basata solo sul modello.
+Il clomifene è un modulatore selettivo del recettore degli estrogeni, utilizzato per stimolare l'ovulazione.
+Il modello TxGNN lo associa al **disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect)**, ma per questa direzione non risultano **né studi clinici né pubblicazioni**: si tratta di una previsione basata solo sul modello.
 
-## Quadro d'insieme
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Disturbo dello sviluppo sessuale 46,XY da difetto della steroidogenesi testicolare (46,XY disorder of sex development due to testicular steroidogenesis defect) |
-| Punteggio di previsione TxGNN | 0,9990 |
+| Nuova indicazione prevista | 46,XY disorder of sex development due to testicular steroidogenesis defect |
+| Punteggio di previsione TxGNN | 0.9990 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
-| Decisione raccomandata | Hold |
+| Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa previsione potrebbe essere ragionevole?
+## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Per conoscenza farmacologica generale, il clomifene blocca i recettori estrogenici a livello ipotalamico, riducendo il feedback negativo e aumentando la secrezione di gonadotropine (LH e FSH). Questo meccanismo è alla base dell'induzione dell'ovulazione.
+Dai dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il clomifene agisce come modulatore selettivo del recettore degli estrogeni: bloccando il feedback estrogenico a livello ipotalamico aumenta la secrezione di gonadotropine (LH/FSH).
 
-Il difetto della steroidogenesi testicolare è però tipicamente un problema primario della gonade e non dipende dal feedback ipotalamico. Un meccanismo plausibile che colleghi il clomifene a questa condizione non è quindi evidente. In assenza di studi o letteratura, il punteggio elevato va letto come un'associazione del modello, non come una prova di efficacia.
+Un difetto primario della steroidogenesi testicolare è tipicamente di origine gonadica e non dipende dal feedback ipotalamo-ipofisario. Per questo motivo un meccanismo plausibile che colleghi il clomifene a questa condizione non è chiaro. Il punteggio elevato riflette probabilmente prossimità nelle relazioni del modello più che una base biologica dimostrata.
 
-## Evidenza da studi clinici
+## Evidenze da studi clinici
 
-Attualmente non risultano studi clinici registrati correlati a questa previsione.
+Attualmente non risultano studi clinici registrati correlati.
 
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
-Attualmente non risulta letteratura correlata a questa previsione.
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
@@ -72,26 +73,25 @@ Attualmente non risulta letteratura correlata a questa previsione.
 |---------|------|------|-----------|
 | 020773026 | CLOMID*10 cpr 50 mg | Non indicata | Non registrata nei dati locali |
 
-Il sistema registra una sola autorizzazione, del titolare BRUNO FARMACEUTICI SpA.
-
 ## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: è segnalata un'interazione di livello maggiore (Major) con il **bexarotene**. Sono inoltre registrate associazioni farmacologiche con il recettore degli estrogeni alfa e con il canale VRAC, che sono bersagli del farmaco e non interazioni con altri medicinali.
+- **Interazioni farmacologiche**: è stata segnalata un'interazione di livello maggiore con il bexarotene. Sono inoltre registrate interazioni di tipo farmacologico con il recettore degli estrogeni alfa (ESR1) e con il canale VRAC, che descrivono i bersagli del farmaco più che interazioni cliniche tra farmaci.
 
-Per le avvertenze e le controindicazioni complete, consultare il foglio illustrativo.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: Hold**
+**Decisione: Hold (sospendere)**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5): non esistono studi clinici o pubblicazioni sulla malattia prevista e il meccanismo d'azione del clomifene non spiega in modo plausibile un effetto su un difetto primario della steroidogenesi testicolare.
+La previsione si fonda esclusivamente sul modello (livello di evidenza L5), senza studi clinici né pubblicazioni, e il collegamento meccanicistico con un difetto primario della steroidogenesi testicolare è poco plausibile.
 
-**Per procedere sono necessari:**
-- Dati sul meccanismo d'azione del clomifene, per valutare un eventuale legame con la steroidogenesi testicolare
-- Una revisione della letteratura mirata sulla condizione prevista, per verificare l'esistenza di qualsiasi evidenza diretta
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per qualsiasi valutazione di sicurezza
-- Studi preclinici o clinici esplorativi, solo se emergessero basi biologiche credibili
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione del clomifene da fonti dedicate
+- Valutazione della letteratura e di eventuali studi preclinici sulla steroidogenesi testicolare
+- Acquisizione e analisi del foglio illustrativo (avvertenze e controindicazioni)
+- Una giustificazione biologica che spieghi perché un modulatore del feedback ipotalamico dovrebbe agire su un difetto gonadico primario
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

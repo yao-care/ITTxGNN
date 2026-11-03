@@ -5,10 +5,10 @@ parent: Solo previsione del modello (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Lanreotide
@@ -33,7 +33,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **5**
 
 </div>
 
-## Lanreotide: Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease))
+## Lanreotide: Ipertricosi (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Sintesi in una frase
@@ -46,7 +46,7 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ipertricosi**, ma al 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Ipertricosi (hypertrichosis (disease)) (hypertrichosis (disease)) |
+| Nuova indicazione prevista | Ipertricosi (hypertrichosis (disease)) |
 | Punteggio di predizione TxGNN | 0.9997 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |

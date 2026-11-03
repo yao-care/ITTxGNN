@@ -4,17 +4,17 @@ title: Tipiracil
 parent: Solo previsione del modello (L5)
 nav_order: 438
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "tipiracil"
-predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
-description: "Tipiracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
+description: "Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Tipiracil
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +33,39 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Tipiracil: Cecum villous adenoma
+## Tipiracil: Adenoma villoso del cieco (cecum villous adenoma)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Tipiracil è un componente dell'associazione trifluridina/tipiracil (Lonsurf), utilizzata per il trattamento del carcinoma del colon-retto.
-Il modello TxGNN prevede che possa essere efficace per l'**adenoma villoso del cieco**,
-ma al momento **non sono presenti studi clinici né pubblicazioni** a supporto di questa indicazione: si tratta di una predizione puramente computazionale.
-
----
+Tipiracil è un inibitore della timidina fosforilasi, utilizzato in associazione con trifluridina nel trattamento del tumore del colon-retto.
+Il modello TxGNN ne prevede una possibile efficacia per l'**adenoma villoso del cieco (cecum villous adenoma)**, ma al momento **non risultano studi clinici né pubblicazioni** che sostengano direttamente questa indicazione: la predizione si basa solo sul modello.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Cecum villous adenoma |
+| Nuova indicazione prevista | Adenoma villoso del cieco (cecum villous adenoma) |
 | Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
 | Numero di autorizzazioni | 4 (valide: 4) |
-| Decisione raccomandata | Hold (sospendere) |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. Sulla base delle conoscenze disponibili, tipiracil inibisce la timidina fosforilasi, l'enzima che degrada la trifluridina, e in associazione con quest'ultima è usato nel tumore del colon-retto. Tipiracil da solo non possiede attività citotossica diretta.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, tipiracil è un componente dell'associazione con la trifluridina; agisce come inibitore della timidina fosforilasi, che previene la degradazione della trifluridina e ne aumenta l'esposizione. La sua efficacia nel carcinoma del colon-retto è documentata, ma da solo non possiede attività citotossica diretta.
+Il legame con l'adenoma villoso del cieco è plausibile soprattutto per la vicinanza di tessuto (lesioni neoplastiche del colon). Si tratta tuttavia di una lesione benigna, e non esistono dati che dimostrino che l'inibizione della timidina fosforilasi sia utile in questa condizione. L'ipotesi resta quindi puramente speculativa.
 
-Il legame con l'adenoma villoso del cieco si basa soprattutto sulla vicinanza tissutale: si tratta di una lesione benigna dello stesso tratto intestinale in cui l'associazione è usata per la malattia maligna. Non esistono tuttavia studi o dati mirati che indichino un beneficio in una lesione benigna, e la similarità con l'indicazione originale non è stata valutata.
+## Evidenze da studi clinici
 
-Anche le altre nove predizioni di vertice (per esempio lipoma del colon, neoplasia della giunzione retto-sigmoidea, tumore neuroendocrino G1 del cieco, tumore stromale gastrointestinale colorettale) restano a livello L5 o L4 e, nel complesso, hanno un razionale meccanicistico debole. La neoplasia della giunzione retto-sigmoidea è verosimilmente già coperta dall'indicazione per il carcinoma colorettale, quindi non rappresenta un vero riposizionamento.
+Al momento non risultano studi clinici registrati correlati a questa indicazione.
 
----
+## Evidenze dalla letteratura
 
-## Evidenza dagli studi clinici
-
-Attualmente non risultano studi clinici registrati correlati a questa indicazione.
-
----
-
-## Evidenza dalla letteratura
-
-Attualmente non è disponibile letteratura correlata a questa indicazione.
-
----
+Al momento non risulta letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
@@ -89,59 +76,38 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 | 044856045 | LONSURF 20 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
 | 044856060 | LONSURF 60 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
 
-Nei dati compilati non sono riportati il testo dell'indicazione approvata (la colonna indica quindi lo stato dell'autorizzazione) né la forma farmaceutica; la forma «compresse rivestite» è desunta dal nome del prodotto.
-
----
+Titolare: Les Laboratoires Servier. Tutte e quattro le autorizzazioni risultano valide.
 
 ## Citotossicità
 
 | Voce | Contenuto |
 |------|------|
-| Classificazione di citotossicità | Tipiracil in sé non ha attività citotossica diretta; è associato alla trifluridina, un analogo nucleosidico citotossico (antimetabolita) |
-| Rischio di mielosoppressione | Per l'associazione, fare riferimento alle avvertenze e precauzioni del foglietto illustrativo |
-| Classificazione di emetogenicità | Fare riferimento alle avvertenze e precauzioni del foglietto illustrativo |
-| Parametri da monitorare | Emocromo con formula, funzionalità epatica e renale (secondo la pratica clinica per i citotossici) |
-| Protezione nella manipolazione | Per l'associazione, seguire le norme di manipolazione dei farmaci citotossici |
-
----
+| Classificazione di citotossicità | Tipiracil è il componente inibitore enzimatico di un'associazione antineoplastica a base di fluoropirimidina (con trifluridina); da solo non ha attività citotossica diretta |
+| Rischio di mielosoppressione | Fare riferimento alle avvertenze e precauzioni del foglio illustrativo |
+| Classificazione emetogena | Fare riferimento alle avvertenze e precauzioni del foglio illustrativo |
+| Parametri da monitorare | Emocromo con formula, funzionalità epatica e renale |
+| Protezione nella manipolazione | Seguire le norme per la manipolazione dei farmaci citotossici previste per l'associazione |
 
 ## Considerazioni sulla sicurezza
 
-**Interazioni farmacologiche**: dai dati compilati risultano 14 interazioni, 13 di livello moderato:
+**Interazioni farmacologiche** (14 segnalazioni; quelle di livello moderato riguardano):
+cimetidina, tafenochina, ketoconazolo, brigatinib, crizotinib, encorafenib, etinilestradiolo, lenvatinib, medrossiprogesterone acetato, megestrolo acetato, ribociclib, rucaparib e vandetanib.
 
-- Cimetidina
-- Tafenoquina
-- Ketoconazolo
-- Brigatinib
-- Crizotinib
-- Encorafenib
-- Etinilestradiolo
-- Lenvatinib
-- Medrossiprogesterone acetato
-- Megestrolo acetato
-- Ribociclib
-- Rucaparib
-- Vandetanib
+Per avvertenze e controindicazioni fare riferimento al foglio illustrativo.
 
-È inoltre riportata un'interazione di tipo farmacologico con la proteina non strutturale 15 dei coronavirus (SARS-CoV-2), priva di classificazione di gravità e senza rilevanza clinica stabilita.
-
-Per avvertenze e controindicazioni, fare riferimento al foglietto illustrativo.
-
----
-
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'adenoma villoso del cieco si basa solo sul modello (livello L5), senza studi clinici né letteratura.
+La predizione per l'adenoma villoso del cieco poggia solo sul punteggio del modello (livello L5), senza studi clinici né letteratura che riguardino direttamente questa malattia, e il meccanismo d'azione non è documentato nei dati disponibili.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank
-- Avvertenze e controindicazioni dal foglietto illustrativo AIFA
-- Chiarimento dello stato regolatorio in Italia (autorizzazioni annullate)
-- Studi preclinici o clinici che valutino tipiracil/trifluridina nell'adenoma villoso, con la dovuta cautela sul rapporto rischio-beneficio in una lesione benigna
-- Analisi della similarità con l'indicazione originale e della compatibilità delle vie di somministrazione
+- Dati dettagliati sul meccanismo d'azione
+- Estrazione di avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Evidenze precliniche o cliniche che colleghino tipiracil all'adenoma villoso del cieco
+- Una valutazione del rapporto beneficio/rischio, trattandosi di una lesione benigna
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

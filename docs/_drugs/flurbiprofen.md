@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Solo previsione del modello (L5)
 nav_order: 206
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
-description: "Flurbiprofen: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata …"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Flurbiprofen: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5)."
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **9** 
+Livello di evidenza: **L5** | Indicazioni previste: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,63 +36,37 @@ Livello di evidenza: **L5** | Indicazioni previste: **9**
 ## Flurbiprofen: Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il flurbiprofene è un farmaco antinfiammatorio non steroideo (FANS), originariamente usato per artrite reumatoide, osteoartrosi e artropatie. Tra le predizioni del modello TxGNN, quella con il supporto più concreto è la **spondilite anchilosante**: **nessuno studio clinico registrato**, ma **20 pubblicazioni** (in gran parte studi comparativi degli anni '70-'80). Le altre predizioni con punteggio elevato riguardano malattie genetiche rare dello scheletro e sono prive di qualsiasi evidenza.
+Il flurbiprofene è un farmaco antinfiammatorio non steroideo (FANS) che agisce inibendo la ciclossigenasi. Il modello TxGNN lo associa alla **displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** nei dati compilati per questo report che sostengano tale direzione: l'evidenza si limita alla predizione del modello (livello L5).
 
----
-
-## Quadro di sintesi
+## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione predetta (rank 1 del modello) | Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
-| Nuova indicazione con evidenza più solida | Acromesomelic dysplasia, Hunter-Thompson type |
-| Punteggio TxGNN | 0.9999 |
-| Livello di evidenza | L5 (rank 1); L3 (spondilite anchilosante) |
+| Nuova indicazione prevista | Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
+| Punteggio di predizione TxGNN | 0.9999 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
-| Decisione raccomandata | Hold (rank 1); Proceed with Guardrails limitato alla spondilite anchilosante come indicazione di classe |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole
 
-## Perché questa predizione è ragionevole?
+I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In generale il flurbiprofene appartiene alla classe dei FANS, che riducono infiammazione e dolore bloccando la sintesi delle prostaglandine.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze note, il flurbiprofene è un FANS non selettivo che inibisce COX-1 e COX-2, riducendo la sintesi di prostaglandine e quindi infiammazione e dolore. La sua efficacia nelle patologie reumatiche è documentata.
+La displasia acromesomelica tipo Hunter-Thompson è una rara displasia scheletrica causata da mutazioni con perdita di funzione del gene CDMP1/GDF5. Non è noto alcun legame tra l'inibizione della ciclossigenasi e questa via di sviluppo scheletrico. Il punteggio elevato riflette quindi una predizione computazionale, non un razionale farmacologico supportato. Al massimo si potrebbe ipotizzare un beneficio sintomatico sul dolore, senza alcuna prova.
 
-**Spondilite anchilosante.** Il legame è solido: i FANS sono terapia di prima linea per la spondiloartrite assiale e la patologia è biologicamente affine alle indicazioni reumatiche originali. Si tratta però di un effetto di classe più che di un vero riposizionamento. Mancano evidenze moderne di modificazione della malattia.
-
-**Predizione di rank 1 e altre malattie rare dello scheletro.** Per la displasia acromesomelica tipo Hunter-Thompson (mutazioni di perdita di funzione di CDMP1/GDF5), la sindrome brachidattilia-sindattilia, la sindrome microftalmia colobomatosa-displasia rizomelica, la sindrome brachiolmia-amelogenesi imperfetta, la brachiolmia e la pseudoacondroplasia (mutazioni COMP) non esiste un legame meccanicistico plausibile. L'inibizione di COX non incide su difetti genetici dello sviluppo; i punteggi elevati provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate (fenotipi scheletrici condivisi), non evidenza biologica. Al massimo i FANS potrebbero alleviare il dolore secondario. Per la miosclerosi il legame è debole e speculativo; per l'ipermobilità del coccige (coccigodinia) è plausibile un sollievo sintomatico, ma non supportato da dati. La "suscettibilità alla spondiloartropatia" è un'etichetta genetica, non una condizione trattabile: l'evidenza rilevante ricade sotto la spondilite anchilosante.
-
----
+Anche le altre associazioni di punteggio simile prodotte dal modello (sindromi malformative degli arti, displasie scheletriche rare) risultano prive di plausibilità meccanicistica e di evidenze.
 
 ## Evidenze da studi clinici
 
-Per la predizione di rank 1 e per la spondilite anchilosante non risultano al momento studi clinici registrati correlati.
-
----
+Attualmente non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
-Riferite alla spondilite anchilosante (le più rilevanti, studi comparativi o in doppio cieco prima, poi revisioni):
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [71969](https://pubmed.ncbi.nlm.nih.gov/71969/) | 1977 | Studio randomizzato in doppio cieco | Curr Med Res Opin | Flurbiprofene vs indometacina in 26 pazienti: efficacia sovrapponibile su dolore e dolorabilità |
-| [329422](https://pubmed.ncbi.nlm.nih.gov/329422/) | 1977 | Studio comparativo randomizzato | South Med J | Stessa casistica: flurbiprofene e indometacina ugualmente efficaci |
-| [324773](https://pubmed.ncbi.nlm.nih.gov/324773/) | 1977 | Studio comparativo in doppio cieco | Eur J Clin Pharmacol | Flurbiprofene vs fenilbutazone in 27 pazienti: efficacia simile |
-| [3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) | 1986 | Studio comparativo randomizzato | Am J Med | 90 pazienti, 26 settimane: 200 mg/die di flurbiprofene equivalenti a 300 mg di fenilbutazone |
-| [3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/) | 1986 | Studio comparativo randomizzato | Am J Med | 57 pazienti, 26 settimane: flurbiprofene efficace quanto l'indometacina |
-| [4611579](https://pubmed.ncbi.nlm.nih.gov/4611579/) | 1974 | Studio crossover in doppio cieco | Br Med J | 35 pazienti: efficacia vicina a quella della fenilbutazone, ben tollerato |
-| [7003449](https://pubmed.ncbi.nlm.nih.gov/7003449/) | 1980 | Studio comparativo crossover | N Z Med J | Flurbiprofene vs naprossene: nessuna differenza di efficacia; più effetti collaterali con flurbiprofene |
-| [4595274](https://pubmed.ncbi.nlm.nih.gov/4595274/) | 1974 | Crossover in doppio cieco | Ann Rheum Dis | Confronto tra indometacina, flurbiprofene e placebo |
-| [391529](https://pubmed.ncbi.nlm.nih.gov/391529/) | 1979 | Revisione | Drugs | Proprietà farmacologiche e uso terapeutico nelle malattie reumatiche |
-| [3963024](https://pubmed.ncbi.nlm.nih.gov/3963024/) | 1986 | Analisi aggregata | Am J Med | Dati su fegato e rene da 9 studi di fase III (1.677 pazienti) |
-
-Nota: gli studi sono datati e la classificazione come RCT di fase 3 non è confermata dai dati disponibili.
-
----
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
@@ -101,30 +75,38 @@ Nota: gli studi sono datati e la classificazione come RCT di fase 3 non è confe
 | 024284034 | FROBEN*30 cpr rivestite 100 mg (VIATRIS ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 024284073 | FROBEN*1 flacone 160 ml 5 mg/ml sciroppo (VIATRIS ITALIA Srl) | Sciroppo | Non disponibile (autorizzazione valida) |
 
----
+Entrambe le autorizzazioni risultano valide.
 
 ## Considerazioni di sicurezza
 
-I dati del foglio illustrativo AIFA non sono disponibili; si rimanda al foglio illustrativo per avvertenze e controindicazioni ufficiali.
+Le informazioni su avvertenze e controindicazioni del foglio illustrativo non sono disponibili nei dati compilati: si rimanda al foglio illustrativo AIFA.
 
-- **Condizioni associate a controindicazione nel grafo di conoscenza** (non derivate dal testo di etichetta): ipertensione, malattie renali, malattie epatiche, malattie della colecisti, ulcera peptica (anche attiva), infarto del miocardio, trombosi coronarica, malattie cardiovascolari e cardiache, disturbi della coagulazione, emoglobinopatie, abuso/dipendenza da sostanze, piureter.
-- **Interazioni farmacologiche**: individuate 352 interazioni. Tra quelle mostrate, la maggior parte è di livello moderato: corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone), acido acetilsalicilico, metformina, glimepiride, clorpropamide, mesalazina, balsalazide, aprepitant, sali di potassio e lassativi osmotici. Di livello minore: famotidina, cimetidina, linaclotide.
+**Interazioni farmacologiche** (352 interazioni complessive registrate; esempi principali di livello moderato):
+- Acido acetilsalicilico
+- Corticosteroidi: idrocortisone, desametasone, betametasone, budesonide, triamcinolone
+- Metformina
+- Antidiabetici sulfonilureici: clorpropamide, glimepiride
+- Mesalazina e balsalazide
+- Aprepitant
+- Citrato di potassio e bicarbonato di potassio
 
----
+Sono presenti anche interazioni di livello minore (ad es. famotidina, cimetidina, linaclotide).
 
-## Conclusioni e prossimi passi
+Come classe, i FANS richiedono cautela in condizioni cardiovascolari, renali, epatiche, ulcera peptica e disturbi della coagulazione; tali aspetti vanno verificati sul foglio illustrativo ufficiale.
 
-**Decisione: Hold** (per la predizione di rank 1 e per le malattie genetiche rare); per la **spondilite anchilosante** il quadro è quello di una domanda di ricerca (L3), non di un vero riposizionamento.
+## Conclusione e prossimi passi
+
+**Decisione: Hold**
 
 **Motivazione:**
-- Le predizioni principali non hanno alcun supporto meccanicistico, clinico o bibliografico. Per la spondilite anchilosante l'efficacia sintomatica è documentata, ma si tratta di un effetto di classe dei FANS, con studi datati, e il farmaco non ha attualmente autorizzazioni valide in Italia.
+La predizione non è supportata da alcuno studio clinico o pubblicazione, né da un meccanismo plausibile: si tratta di una malattia genetica dello sviluppo scheletrico su cui l'inibizione della ciclossigenasi non ha un effetto noto.
 
-**Per procedere sono necessari:**
-- Foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
-- Dati sul meccanismo d'azione (ad esempio da DrugBank)
-- Verifica del disegno degli studi sulla spondilite anchilosante (fase, randomizzazione) ed evidenze più recenti
-- Valutazione della fattibilità regolatoria, data la situazione di autorizzazioni cancellate
-- Per le malattie rare, evidenze precliniche prima di qualsiasi considerazione di sviluppo
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e una valutazione di plausibilità biologica rispetto alla via GDF5
+- Evidenze precliniche o cliniche che colleghino il farmaco a questa malattia
+- Acquisizione e analisi del foglio illustrativo AIFA per avvertenze e controindicazioni
+- Valutazione della compatibilità delle vie di somministrazione e del rapporto beneficio-rischio in una popolazione pediatrica rara
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

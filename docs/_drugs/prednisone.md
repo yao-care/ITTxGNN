@@ -4,17 +4,17 @@ title: Prednisone
 parent: Prove moderate (L3-L4)
 nav_order: 360
 evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-31
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "PREDNISONE"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Prednisone
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **10** 
+Livello di evidenza: **L3** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,13 +36,12 @@ Livello di evidenza: **L3** | Indicazioni previste: **10**
 ## Prednisone: Alopecia areata
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il prednisone è un glucocorticoide sistemico usato storicamente per malattie autoimmuni e infiammatorie (tra cui malattia di Crohn, insufficienza surrenalica e leucemia linfoblastica acuta). Il modello TxGNN prevede che possa essere efficace per l'**alopecia areata**. Al momento non risultano **studi clinici registrati**, ma sono disponibili **20 pubblicazioni**, tra cui uno studio randomizzato in doppio cieco (prednisone a basso dosaggio associato a metotrexato).
+Il prednisone è un corticosteroide sistemico con azione antinfiammatoria e immunosoppressiva, già utilizzato in numerose malattie autoimmuni e infiammatorie.
+Il modello TxGNN prevede che possa essere utile per l'**alopecia areata (alopecia areata)**, con punteggio 0.9999. Al momento non risultano sperimentazioni cliniche registrate, ma i dati compilati per questo report includono **20 pubblicazioni**, tra cui uno studio randomizzato in doppio cieco con prednisone a basso dosaggio associato a metotrexato.
 
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
@@ -54,44 +53,34 @@ Il prednisone è un glucocorticoide sistemico usato storicamente per malattie au
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
----
+## Perché questa predizione è plausibile?
 
-## Perché questa predizione è ragionevole?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa però che il prednisone è un glucocorticoide sistemico che sopprime l'attivazione dei linfociti T e la produzione di citochine infiammatorie.
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze note, il prednisone è un glucocorticoide sistemico che sopprime l'attivazione dei linfociti T e la produzione di citochine infiammatorie; la sua efficacia nelle malattie autoimmuni è consolidata.
+L'alopecia areata è una malattia autoimmune mediata dai linfociti T, in cui il privilegio immunitario del follicolo pilifero viene meno. Un farmaco che riduce l'attività dei linfociti T e l'infiammazione è quindi coerente con la patogenesi. La letteratura descrive l'uso del prednisone orale (quotidiano e in pulsi mensili) e a basso dosaggio in associazione con metotrexato o baricitinib. Le principali limitazioni sono la recidiva dopo la sospensione e gli effetti avversi della terapia steroidea sistemica prolungata.
 
-L'alopecia areata è un attacco autoimmune mediato dai linfociti T contro il follicolo pilifero, con perdita del privilegio immunitario follicolare. Questo meccanismo è coerente con l'azione immunosoppressiva del prednisone. La letteratura descrive l'uso del prednisone per via orale (giornaliero e in pulse mensile) e a basso dosaggio in associazione con metotrexato o baricitinib.
+## Evidenze da sperimentazioni cliniche
 
-Vi sono però limiti importanti: le recidive dopo la sospensione e gli effetti avversi della terapia steroidea sistemica prolungata ne limitano l'impiego.
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
----
-
-## Evidenza dagli studi clinici
-
-Al momento non risultano studi clinici correlati registrati.
-
----
-
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | Studio randomizzato in doppio cieco (probabile RCT, disegno da verificare) | JAMA Dermatology | Metotrexato da solo vs metotrexato più prednisone a basso dosaggio in alopecia areata totale o universale |
-| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | Studio randomizzato controllato | Archives of Dermatology | 32 pazienti: riduzione graduale di prednisone per 6 settimane seguita da minoxidil topico al 2% o veicolo |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Revisione | Archives of Dermatology | Revisione di terapie, efficacia, sicurezza e meccanismi nell'alopecia areata; confronti tra studi difficili per l'eterogeneità dei disegni |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Serie di casi | Clinical and Experimental Dermatology | Otto casi di alopecia areata molto grave trattati con baricitinib e corticosteroidi a basse dosi, con miglioramento importante |
-| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Serie di casi retrospettiva | JEADV | Baricitinib e prednisone a basso dosaggio nell'alopecia areata molto grave |
-| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Studio clinico/coorte | Annales de Dermatologie et de Vénéréologie | Efficacia e sicurezza del prednisone orale in pulse mensile |
-| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Follow-up di coorte | Archives of Dermatology | 18 pazienti trattati a giorni alterni: risposta iniziale ma beneficio a lungo termine non sostanziale, con numerosi effetti collaterali |
+| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | Studio clinico comparativo (probabile RCT) | JAMA Dermatology | Metotrexato da solo vs metotrexato più prednisone a basso dosaggio in alopecia areata totale o universale, studio in doppio cieco a 2 fasi |
+| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | RCT | Archives of Dermatology | Riduzione graduale di prednisone seguita da minoxidil topico al 2% o veicolo in 32 pazienti con alopecia areata |
+| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Revisione | Archives of Dermatology | Revisione di terapie, efficacia, sicurezza e meccanismo; studi eterogenei, confronti difficili |
+| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Follow-up di coorte | Archives of Dermatology | 18 pazienti con prednisone a giorni alterni: risposta iniziale, ma beneficio a lungo termine non rilevante ed effetti avversi numerosi |
+| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Studio clinico | Annales de dermatologie et de vénéréologie | Efficacia e sicurezza del prednisone orale in pulsi mensili |
+| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Serie di casi | Clinical and Experimental Dermatology | Baricitinib con prednisone a basso dosaggio: miglioramento marcato in 8 casi di alopecia areata molto grave |
+| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Serie di casi retrospettiva | J Eur Acad Dermatol Venereol | Baricitinib e prednisone a basso dosaggio nell'alopecia areata molto grave |
+| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Studio osservazionale real-world | Italian Journal of Dermatology and Venereology | Caratterizzazione di pazienti ospedalizzati per alopecia areata in Italia: comorbilità, terapie e costi |
 | [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | Studio clinico | J Am Acad Dermatol | Ciclosporina sistemica e prednisone a basso dosaggio nell'alopecia areata grave cronica |
-| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Studio osservazionale real-world | Italian Journal of Dermatology and Venereology | Caratteristiche, comorbilità, schemi terapeutici e carico economico dei pazienti ospedalizzati per alopecia areata in Italia |
-| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Coorte/studio immunologico | Archives of Dermatology | Studi immunologici e trattamento con prednisone |
-
----
+| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Studio di coorte | Archives of Dermatology | Studi immunologici e trattamento con prednisone |
 
 ## Informazioni sul mercato italiano
 
-Nei dati compilati risultano 20 autorizzazioni per il prednisone, tutte cancellate; non ne è attiva nessuna. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati. Le principali:
+Le autorizzazioni sono 20, tutte in corso di validità; l'elenco dei dati disponibili potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -101,40 +90,26 @@ Nei dati compilati risultano 20 autorizzazioni per il prednisone, tutte cancella
 | 045261068 | SOFLON 20 cpr 25 mg | S.F. Group Srl | Valida |
 | 043411040 | PREDNISONE 10 cpr 25 mg | Teva Italia Srl | Valida |
 
----
-
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni secondo il grafo di conoscenza** (non derivano dal foglietto illustrativo): ipertensione, epilessia, iperglicemia, scompenso cardiaco congestizio, cheratite da herpes simplex, morbillo, difetti del ciclo dell'urea (carenza di carbamoil-fosfato sintetasi I, iperargininemia, citrullinemia), ipopituitarismo e deficit di ormone della crescita e altri deficit ipofisari.
-- **Interazioni farmacologiche** (100 interazioni rilevate; esempi principali):
-  - **Maggiore**: adalimumab.
-  - **Moderata**: zidovudina, isotretinoina, acarbosio, acebutololo, acetazolamide, ketorolac, nifedipina, ibuprofene, etinilestradiolo, butalbital, albiglutide, aldesleukin, alemtuzumab, aliskiren e anatossina tetanica.
-  - **Minore**: formoterolo, salbutamolo.
-- **Effetti avversi osservati in letteratura per l'alopecia areata**: nel follow-up di lungo periodo sono stati descritti acne, obesità, opacità del cristallino e ipertensione lieve, associati alla terapia steroidea sistemica.
+- **Interazioni farmacologiche**: tra quelle registrate, è di livello maggiore l'interazione con adalimumab; molte altre sono di livello moderato, ad esempio con zidovudina, isotretinoina, acarbosio, acebutololo, acetazolamide, ketorolac, nifedipina, ibuprofene, etinilestradiolo, albiglutide, aldesleuchina, alemtuzumab e aliskiren. Sono di livello minore formoterolo e salbutamolo.
+- **Dati di letteratura sul prodotto**: gli studi sull'alopecia areata segnalano recidive dopo la sospensione ed effetti avversi della terapia steroidea sistemica, tra cui acne, obesità, opacità del cristallino e ipertensione lieve.
 
-Per avvertenze e controindicazioni da scheda tecnica, fare riferimento al foglietto illustrativo.
-
----
+Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esiste un razionale meccanicistico plausibile (alopecia areata come malattia autoimmune mediata dai linfociti T) e la letteratura comprende uno studio randomizzato recente e diversi studi clinici e serie di casi sull'uso del prednisone. Mancano però studi clinici registrati, il beneficio a lungo termine è limitato dalle recidive e la terapia steroidea sistemica prolungata ha un profilo di sicurezza sfavorevole. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+Esiste un razionale meccanicistico coerente e letteratura diretta sull'alopecia areata, incluso uno studio randomizzato recente con prednisone a basso dosaggio. Le evidenze però derivano in gran parte da studi piccoli o datati, senza sperimentazioni registrate, e l'uso sistemico prolungato comporta rischi noti e recidive alla sospensione.
 
 **Per procedere sono necessari:**
-- Verifica del disegno dello studio randomizzato del 2023 (PMID 36884234) e valutazione critica del contributo specifico del prednisone
-- Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
-- Dati sul meccanismo d'azione da DrugBank
-- Verifica della disponibilità di formulazioni di prednisone attualmente commercializzate in Italia, dato che tutte le autorizzazioni sono cancellate
-- Piano di monitoraggio della sicurezza e strategia per limitare l'esposizione steroidea prolungata (regimi a basso dosaggio o in pulse, combinazioni risparmiatrici di steroide)
+- Verifica del disegno e dei risultati dello studio randomizzato del 2023 e ricerca di sperimentazioni controllate dedicate al prednisone
+- Dati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Piano di monitoraggio della sicurezza per terapie steroidee sistemiche, con definizione di dose e durata minime efficaci
 
----
-
-## Altre indicazioni previste (ricerca esplorativa)
-
-Tra le altre predizioni, **tenosinovite** (livello L4, ipotesi di ricerca) ha un razionale infiammatorio, ma l'evidenza è indiretta e basata su casi clinici e serie descrittive. **Alopecia mucinosa** e **alopecia da deficit anticorpale** (L4) hanno solo casi clinici. Le restanti (effluvio telogeno, follicolite decalvante di Quinquaud, ipotricosi ereditaria con vescicole cutanee ricorrenti, sindrome alopecia-disabilità intellettiva-ipogonadismo ipergonadotropo, atrichia con lesioni papulari, prolasso della ghiandola lacrimale) sono supportate solo dal modello (L5): per tutte la decisione è **Hold** (sospendere), tranne la tenosinovite classificata come domanda di ricerca.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

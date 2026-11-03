@@ -4,17 +4,17 @@ title: Sertraline
 parent: Solo previsione del modello (L5)
 nav_order: 402
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-31
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "Sertraline"
-predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Sertraline: nuova indicazione prevista, Schizoid personality disorder (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: nuova indicazione prevista, Disturbo schizoide di personalità (schizoid personality disorder) (livello di evidenza L5)."
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **8** 
+Livello di evidenza: **L5** | Indicazioni previste: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,44 @@ Livello di evidenza: **L5** | Indicazioni previste: **8**
 
 </div>
 
-## Sertraline: Schizoid personality disorder
+## Sertraline: Disturbo schizoide di personalità (schizoid personality disorder)
 {: .text-alpha }
 
-## Riepilogo in una frase
+## Sintesi
 
-La sertralina è un inibitore selettivo della ricaptazione della serotonina (SSRI), originariamente usato per disturbi d'ansia, disturbo ossessivo-compulsivo, disturbo da stress post-traumatico e fobia sociale.
-Il modello TxGNN prevede un possibile effetto sul **disturbo schizoide di personalità**, ma i dati compilati per questo report non includono **nessuno studio clinico** e solo **1 pubblicazione**, non pertinente a questa condizione: la previsione resta puramente computazionale.
+La sertralina è un antidepressivo che agisce sul trasportatore della serotonina (SERT). Il modello TxGNN ne prevede un possibile utilizzo nel **disturbo schizoide di personalità (schizoid personality disorder)**. A sostegno di questa direzione non esistono sperimentazioni clicliniche né studi che affrontino direttamente questa patologia: l'unica pubblicazione associata riguarda il disturbo da alimentazione incontrollata, quindi l'evidenza resta solo di tipo predittivo.
 
----
-
-## Quadro di sintesi
+## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Schizoid personality disorder |
+| Indicazione originaria | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo schizoide di personalità (schizoid personality disorder) |
 | Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Hold |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa predizione potrebbe essere ragionevole?
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Dai dati di farmacologia risulta che la sertralina è un ligando del trasportatore della serotonina SERT (gene SLC6A4), bersaglio tipico degli SSRI.
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la sertralina è un SSRI che agisce sul trasportatore della serotonina (SERT, gene SLC6A4), e la sua efficacia nei disturbi d'ansia e fobici è consolidata.
+Non è dimostrato alcun legame meccanicistico specifico con il disturbo schizoide di personalità. L'elevato punteggio TxGNN è una previsione computazionale e probabilmente riflette la vicinanza, nella rete di relazioni del modello, ad altre condizioni psichiatriche trattate con farmaci serotoninergici. L'unica pubblicazione associata (PMID 19794312) riguarda il disturbo da alimentazione incontrollata e non la patologia prevista.
 
-Il legame con il disturbo schizoide di personalità non è però supportato dai dati. L'unica pubblicazione associata (PMID 19794312) riguarda il disturbo da alimentazione incontrollata (binge-eating), non il disturbo schizoide. Il punteggio TxGNN elevato riflette probabilmente la vicinanza nella rete di conoscenza ad altre condizioni psichiatriche trattate con farmaci serotoninergici, più che una reale plausibilità clinica.
+## Evidenza dagli studi clinici
 
-Nota: nello stesso gruppo di previsioni con punteggio identico compaiono anche i disturbi paranoide, schizotipico e istrionico di personalità. Tra le altre previsioni, l'**agorafobia** ha l'evidenza più solida (livello L2, numerosi studi sulla sertralina nel disturbo di panico con o senza agorafobia, tra cui trial in doppio cieco e network meta-analisi). Si tratta però in gran parte di un'estensione di indicazioni ansiose già esistenti, e sarebbe il candidato più sensato per un approfondimento.
+Al momento non risultano studi clinici registrati correlati.
 
----
-
-## Evidenze da studi clinici
-
-Al momento non risultano studi clinici registrati correlati a questa indicazione.
-
----
-
-## Evidenze dalla letteratura
+## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Altro (studio di trattamento multimodale) | International Clinical Psychopharmacology | Studio su 30 pazienti con binge-eating disorder, assegnati a dieta, terapia cognitivo-comportamentale e sertralina in tre gruppi per 6 mesi. Non riguarda il disturbo schizoide di personalità. |
-
----
+| [19794312](https://pubmed.ncbi.nlm.nih.gov/19794312/) | 2009 | Studio di trattamento multimodale | International Clinical Psychopharmacology | Studio randomizzato su 30 pazienti con disturbo da alimentazione incontrollata, che confronta tre trattamenti di 6 mesi (dieta, terapia cognitivo-comportamentale, sertralina in varie combinazioni). Non riguarda il disturbo schizoide di personalità. |
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali (prime 5):
+Nei dati compilati sono presenti 20 autorizzazioni, tutte valide; l'elenco potrebbe essere parziale. Principali autorizzazioni:
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -93,30 +80,26 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibil
 | 036764049 | Sertralina 30 cpr rivestite 100 mg (DOC Generici) | Compresse rivestite | Non disponibile |
 | 027753096 | Zoloft soluzione orale 60 ml 20 mg/ml (Viatris Pharma) | Soluzione orale | Non disponibile |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Controindicazioni segnalate come relazioni di rischio**: epilessia, disturbo bipolare, disturbo affettivo maggiore, malattia epatica, malattia della cistifellea, disturbi della coagulazione, sindrome neurolettica maligna, sindrome da inappropriata secrezione di ADH, sindrome nefrogenica da inappropriata antidiuresi, sindrome serotoninergica. Si tratta di relazioni di controindicazione e non del testo del foglio illustrativo.
+- **Interazioni**: l'unica voce registrata riguarda il legame con il bersaglio SERT (dati di farmacologia) e non è un'interazione farmaco-farmaco clinicamente rilevante.
 
-- **Condizioni associate a controindicazione (dal grafo di conoscenza, non dal foglio illustrativo)**: epilessia, disturbo bipolare, disturbo affettivo maggiore, malattie epatiche, malattie della colecisti, disturbi della coagulazione, sindrome neurolettica maligna, sindrome da inappropriata secrezione di ADH, sindrome nefrogenica da inappropriata antidiuresi, sindrome serotoninergica.
-- **Interazioni**: la ricerca ha restituito solo l'interazione farmacologica con il bersaglio SERT (trasportatore della serotonina), che corrisponde al meccanismo d'azione e non a un'interazione con un altro farmaco. Non sono emerse interazioni clinicamente rilevanti con altri medicinali.
+Per le avvertenze complete si rimanda al foglio illustrativo.
 
-Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustrativo.
+## Conclusione e prossimi passi
 
----
-
-## Conclusioni e prossimi passi
-
-**Decisione: Hold**
+**Decisione: Hold (sospendere)**
 
 **Motivazione:**
-La previsione per il disturbo schizoide di personalità si basa solo sul punteggio del modello, senza studi clinici né letteratura pertinente (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate, e i dati di sicurezza ufficiali risultano mancanti.
+Non esistono studi clinici né pubblicazioni che valutino la sertralina nel disturbo schizoide di personalità; il solo supporto è il punteggio computazionale, per cui il livello di evidenza è L5.
 
-**Per procedere, è necessario:**
-- Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un ostacolo bloccante per lo screening di sicurezza
-- Ottenere i dati sul meccanismo d'azione da DrugBank
-- Verificare lo stato regolatorio attuale della sertralina in Italia, dato che tutte le autorizzazioni elencate sono cancellate
-- Cercare studi clinici o letteratura specifici sulla sertralina nel disturbo schizoide di personalità
-- Valutare in alternativa di dare priorità all'agorafobia (L2), che dispone di evidenze molto più ampie
+**Per procedere sono necessari:**
+- Studi o dati clinici che indaghino direttamente la sertralina in questa patologia
+- Dati sul meccanismo d'azione e un'ipotesi meccanicistica specifica
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Valutazione della compatibilità delle vie di somministrazione e della popolazione target
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

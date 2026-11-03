@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: Solo previsione del modello (L5)
 nav_order: 108
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-30
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
 description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 </div>
 
-## Ciprofloxacina: fluorochinolone antibatterico (inibitore di DNA girasi e topoisomerasi IV) → sclerodermia diffusa (diffuse scleroderma)
+## Ciprofloxacin: Sclerodermia diffusa (diffuse scleroderma)
 {: .text-alpha }
 
 ## Sintesi
 
-La ciprofloxacina è un antibiotico fluorochinolonico. Il modello TxGNN prevede che possa essere efficace per la **sclerodermia diffusa (diffuse scleroderma)**. A sostegno di questa direzione i dati compilati riportano **nessuna sperimentazione clinica registrata** e **2 pubblicazioni**, di cui solo una riguarda direttamente la ciprofloxacina nella sclerodermia.
+La ciprofloxacina è un antibiotico fluorochinolonico. Il modello TxGNN ne prevede un possibile utilizzo nella **sclerodermia diffusa (diffuse scleroderma)**, ma nei dati compilati per questo report non risultano studi clinici registrati e la letteratura è limitata a **2 pubblicazioni**, di cui una soltanto con un possibile effetto antifibrotico cutaneo.
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Sclerodermia diffusa (diffuse scleroderma) |
-| Punteggio di predizione TxGNN | 0,9987 |
+| Punteggio di predizione TxGNN | 0.9987 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
@@ -54,24 +54,26 @@ La ciprofloxacina è un antibiotico fluorochinolonico. Il modello TxGNN prevede 
 
 ## Perché questa predizione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In generale, la ciprofloxacina agisce inibendo la DNA girasi e la topoisomerasi IV batteriche, ma questo meccanismo non spiega di per sé un effetto nella sclerodermia.
+I dati sul meccanismo d'azione della ciprofloxacina non sono al momento disponibili. In base alle informazioni note, il farmaco appartiene alla classe dei fluorochinoloni e la sua attività antibatterica è consolidata; un'applicazione nella sclerodermia sarebbe pertanto di natura diversa da quella antibatterica.
 
-Sono possibili due collegamenti ipotetici. Il primo è un effetto antifibrotico sulla cute, suggerito da uno studio sull'utilità antifibrotica della ciprofloxacina nella pelle di pazienti con sclerodermia (PMID 20507401), forse tramite modulazione del metabolismo del collagene o dell'attività dei fibroblasti. Il secondo è il trattamento della proliferazione batterica nell'intestino tenue, frequente nella sclerosi sistemica (PMID 7728404): si tratterebbe di un beneficio gastrointestinale sintomatico, non di una modifica della malattia.
+Una pubblicazione (PMID 20507401) indaga l'utilità della ciprofloxacina come agente antifibrotico nella cute di pazienti con sclerodermia, ipotizzando una modulazione del metabolismo del collagene o dell'attività dei fibroblasti. Dall'abstract disponibile non emergono tuttavia risultati sull'efficacia, e il titolo dello studio indica solo un'indagine esplorativa. Un secondo possibile collegamento riguarda il trattamento della proliferazione batterica dell'intestino tenue, frequente nella sclerosi sistemica (PMID 7728404): si tratterebbe di un beneficio gastrointestinale sintomatico e non di una modifica della malattia.
 
-Il testo disponibile dell'unico studio sulla ciprofloxacina nella sclerodermia è troncato e non riporta i risultati; la sua classificazione come studio esplorativo è dedotta dal titolo. Le prove restano quindi indirette e preliminari.
+Poiché nessuno studio fornisce dati diretti di efficacia sulla sclerodermia diffusa, il livello di evidenza resta L5, cioè basato soltanto sulla predizione del modello.
 
 ## Evidenze dagli studi clinici
 
-Al momento non risultano studi clinici correlati registrati per la sclerodermia diffusa.
+Al momento non risultano studi clinici correlati registrati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Studio esplorativo (tipo dedotto dal titolo) | The Journal of Dermatology | Valuta l'utilità antifibrotica della ciprofloxacina orale sulla cute di pazienti con sclerodermia; l'abstract disponibile è troncato e non riporta i risultati |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Studio osservazionale/diagnostico | British Journal of Rheumatology | Proliferazione batterica nell'intestino tenue in 24 pazienti con sclerosi sistemica; non è uno studio di efficacia della ciprofloxacina |
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Studio esplorativo | The Journal of Dermatology | Valuta l'utilità della ciprofloxacina orale come antifibrotico nella cute di pazienti con sclerodermia; l'abstract disponibile non riporta i risultati |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Studio osservazionale/diagnostico | British Journal of Rheumatology | 24 pazienti con sclerosi sistemica e sintomi di malassorbimento valutati per la proliferazione batterica dell'intestino tenue e per l'esito del trattamento; non riguarda l'efficacia della ciprofloxacina sulla malattia |
 
 ## Informazioni sul mercato italiano
+
+Il farmaco risulta commercializzato in Italia, con 20 autorizzazioni valide; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -81,34 +83,26 @@ Al momento non risultano studi clinici correlati registrati per la sclerodermia 
 | 037285069 | BOSIX 12 cpr rivestite 500 mg | Compresse rivestite | — |
 | 037929027 | CIPROFLOXACINA 6 cpr rivestite 500 mg | Compresse rivestite | — |
 
-L'elenco è parziale: i dati locali sono incompleti e il testo delle indicazioni approvate non è registrato.
-
 ## Considerazioni sulla sicurezza
 
-**Interazioni farmacologiche** (principali di livello maggiore tra quelle rilevate; in totale 100 interazioni identificate):
-- Idrocortisone
-- Bupropione
-- Triamcinolone
-- Desametasone
-- Betametasone
+- **Interazioni farmacologiche**: nei dati compilati sono segnalate interazioni di livello maggiore con corticosteroidi (idrocortisone, triamcinolone, desametasone, betametasone) e con bupropione. Sono segnalate interazioni di livello moderato con antidiabetici (acarbosio, metformina, pioglitazone, alogliptin, albiglutide), famotidina, alosetron, loperamide, aprepitant, acido acetilsalicilico, balsalazide, bisacodile, fosfato di calcio e budesonide. Il totale delle interazioni individuate è 100; qui è riportata solo una parte.
+- **Condizioni da considerare con cautela**: i dati compilati indicano come condizioni da valutare con attenzione la sindrome del QT lungo, la torsione di punta, l'epilessia, le malattie renali, la tendinite, la neuropatia periferica, la miastenia grave, la colite da *Clostridium difficile* e la carenza di potassio. Non derivano dal testo del foglio illustrativo e vanno verificati con questo.
 
-Sono presenti anche numerose interazioni di livello moderato, ad esempio con metformina, pioglitazone, acarbosio, famotidina, loperamide e acido acetilsalicilico.
+Per le avvertenze e le controindicazioni complete si rimanda al foglio illustrativo.
 
-Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
-
-## Conclusione e prossimi passi
+## Conclusioni e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio del modello è molto alto, ma non esiste alcuno studio che dimostri direttamente l'efficacia della ciprofloxacina nella sclerodermia diffusa: l'unica pubblicazione pertinente ha risultati non disponibili e il collegamento meccanicistico è speculativo. Il livello di evidenza è quindi L5.
+Nessuno studio fornisce dati diretti di efficacia della ciprofloxacina sulla sclerodermia diffusa e non vi sono studi clinici registrati: il supporto è limitato al punteggio del modello e a una pubblicazione esplorativa dai risultati non verificabili.
 
-**Per procedere sono necessari:**
-- Recuperare il testo completo dello studio PMID 20507401 per verificarne disegno, esiti e risultati
-- Dati sul meccanismo d'azione e sul razionale antifibrotico
-- Estrarre avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Valutare il profilo di sicurezza a lungo termine (tendini, sistema nervoso periferico, intervallo QT) in una popolazione con malattia cronica
-- Se i dati lo giustificano, progettare uno studio clinico controllato specifico per la sclerodermia diffusa
+**Per procedere è necessario:**
+- Recuperare e valutare il testo completo dello studio PMID 20507401, in particolare disegno, esiti e risultati
+- Definire il meccanismo d'azione e il razionale antifibrotico con dati preclinici
+- Acquisire dal foglio illustrativo AIFA avvertenze e controindicazioni, anche alla luce delle condizioni a rischio (tendinopatie, neuropatia periferica, QT lungo)
+- Valutare il bilancio rischio-beneficio di un uso prolungato di un antibiotico (resistenze, effetti avversi muscolo-scheletrici e neurologici) in una malattia cronica
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

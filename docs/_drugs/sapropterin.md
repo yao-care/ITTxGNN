@@ -4,17 +4,17 @@ title: Sapropterin
 parent: Solo previsione del modello (L5)
 nav_order: 399
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-28
-description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (livello di evidenza L4). Indicazione originale: Fenilchetonuria"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "sapropterin"
-predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "hyperphenylalaninemia due to tetrahydrobiopterin deficiency"]
+predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
+description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sapropterin
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **3** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,51 @@ Livello di evidenza: **L5** | Indicazioni previste: **3**
 
 </div>
 
-## Sapropterin: Dalla fenilchetonuria al disturbo del metabolismo della tirosina
+## Sapropterin: Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Sapropterin è una forma sintetica della tetraidrobiopterina (BH4), usata originariamente per la fenilchetonuria (PKU) e per i disturbi del metabolismo della fenilalanina. Il modello TxGNN ne prevede l'utilità nel **disturbo del metabolismo della tirosina**, ma per questa indicazione **non risultano sperimentazioni cliniche** e la letteratura raccolta riguarda quasi esclusivamente la PKU, cioè l'indicazione originale.
+Sapropterin è un analogo sintetico della tetraidrobiopterina (BH4), cofattore dell'enzima fenilalanina idrossilasi. Il modello TxGNN prevede una possibile efficacia nel **disturbo del metabolismo della tirosina (disorder of tyrosine metabolism)**, con un punteggio molto alto (0,9989). Al momento non sono registrati studi clinici su questa malattia e la letteratura recuperata riguarda la fenilchetonuria, non i disturbi primari della tirosina: il supporto è quindi limitato alla sola predizione del modello.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Fenilchetonuria; disturbo del metabolismo della fenilalanina |
-| Nuova indicazione prevista | Disturbo del metabolismo della tirosina |
-| Punteggio di predizione TxGNN | 0,9989 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) |
+| Punteggio di predizione TxGNN | 0.9989 |
 | Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
 | Numero di autorizzazioni | 8 (valide: 8) |
 | Decisione raccomandata | Hold |
 
-## Perché questa predizione è ragionevole?
+## Perché questa predizione è plausibile?
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. Si sa però che sapropterin è BH4 sintetica, cofattore della fenilalanina idrossilasi (PAH), l'enzima che converte la fenilalanina in tirosina. Il punteggio elevato di TxGNN riflette probabilmente la vicinanza tra il metabolismo della tirosina e quello della fenilalanina, già coperto dall'indicazione approvata.
+Sapropterin è la forma sintetica di BH4, cofattore della fenilalanina idrossilasi, l'enzima che converte la fenilalanina in tirosina. Il punteggio elevato riflette verosimilmente la vicinanza, nelle vie metaboliche, tra il metabolismo della fenilalanina e quello della tirosina.
 
-Il collegamento, tuttavia, è solo indiretto. Nella PKU la tirosina diventa condizionatamente carente a valle del blocco enzimatico. La BH4 non agisce sugli enzimi difettosi nei principali disturbi primari del metabolismo della tirosina (tirosinemie di tipo I-III), come la fumarilacetoacetato idrolasi, la tirosina aminotransferasi e la 4-idrossifenilpiruvato diossigenasi. La letteratura raccolta riguarda la gestione della PKU e non le tirosinemie primarie.
+Il legame, tuttavia, è solo indiretto. La letteratura raccolta riguarda la gestione della fenilchetonuria, nella quale la tirosina diventa carente a valle del blocco enzimatico. Nei disturbi primari del metabolismo della tirosina (ad esempio le tirosinemie di tipo I-III) gli enzimi difettosi sono la fumarilacetoacetato idrolasi, la tirosina aminotransferasi e la 4-idrossifenilpiruvato diossigenasi, sui quali BH4 non agisce. Non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report.
 
-Altre predizioni nella stessa lista:
-- **Sindrome di Pierre Robin teratogenica** (punteggio 0,9987): non è stato individuato alcun razionale meccanicistico né alcuna evidenza. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica; forse è legato alla teratogenicità della PKU materna.
-- **Iperfenilalaninemia da carenza di BH4** (0,9910): è coerente dal punto di vista meccanicistico, ma coincide di fatto con l'indicazione originale o vi è molto vicina, quindi non è vero riposizionamento. Nella carenza di BH4 la sola sapropterin non basta: servono anche precursori dei neurotrasmettitori (L-dopa/carbidopa, 5-HTP).
+Nessuno degli studi citati indaga direttamente il disturbo del metabolismo della tirosina; per questo il livello di evidenza è L5.
 
-## Evidenze da sperimentazioni cliniche
+## Evidenze da studi clinici
 
-Al momento non risultano sperimentazioni cliniche correlate registrate per il disturbo del metabolismo della tirosina.
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
-La letteratura seguente è stata associata alla predizione principale, ma riguarda soprattutto la PKU e non le tirosinemie.
+Le pubblicazioni recuperate non studiano direttamente la malattia prevista, ma trattano il contesto del metabolismo della fenilalanina e il profilo del farmaco. Le più rilevanti:
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [29025426](https://pubmed.ncbi.nlm.nih.gov/29025426/) | 2017 | Revisione/linee guida | Orphanet J Rare Dis | Linee guida europee complete su diagnosi e trattamento della PKU |
-| [34784942](https://pubmed.ncbi.nlm.nih.gov/34784942/) | 2021 | Revisione/consenso | Orphanet J Rare Dis | Consenso nazionale italiano sulla gestione e sul trattamento farmacologico della PKU |
-| [39237321](https://pubmed.ncbi.nlm.nih.gov/39237321/) | 2025 | Coorte | J Inherit Metab Dis | Sicurezza a lungo termine di sapropterin nel registro KAMPER (576 partecipanti con deficit di PAH) |
-| [25563006](https://pubmed.ncbi.nlm.nih.gov/25563006/) | 2014 | Studio di fase III in aperto | Vestn Ross Akad Med Nauk | Efficacia e sicurezza di sapropterin in PKU e iperfenilalaninemia |
-| [34485013](https://pubmed.ncbi.nlm.nih.gov/34485013/) | 2021 | Caso clinico | JIMD Reports | Sapropterin nel deficit di diidropteridina reduttasi (primo caso con diagnosi molecolare in Brasile) |
-| [26653793](https://pubmed.ncbi.nlm.nih.gov/26653793/) | 2016 | Preclinico (modello murino) | Mol Genet Metab | Sapropterin ad alte dosi migliora il turnover dei neurotrasmettitori monoaminici nella PKU murina |
-| [20738029](https://pubmed.ncbi.nlm.nih.gov/20738029/) | 2010 | Revisione | Prescrire Int | Sapropterin utile solo per una minoranza di pazienti con PKU |
-| [34654619](https://pubmed.ncbi.nlm.nih.gov/34654619/) | 2021 | Coorte | Mol Genet Metab | Storia naturale della PKU nel registro NBS-PKU Connect |
-| [37156708](https://pubmed.ncbi.nlm.nih.gov/37156708/) | 2023 | Caso clinico | Brain Dev | Ritardo dello sviluppo e iperfenilalaninemia non-PKU nel deficit di DNAJC12 |
-| [30359206](https://pubmed.ncbi.nlm.nih.gov/30359206/) | 2020 | Revisione | Nutr Neurosci | Approcci dietetici recenti nel paziente con PKU |
+| [29025426](https://pubmed.ncbi.nlm.nih.gov/29025426/) | 2017 | Revisione | Orphanet J Rare Dis | Linee guida europee su diagnosi e trattamento della fenilchetonuria |
+| [34784942](https://pubmed.ncbi.nlm.nih.gov/34784942/) | 2021 | Revisione | Orphanet J Rare Dis | Consenso nazionale italiano sulla gestione e sul trattamento farmacologico della fenilchetonuria |
+| [39237321](https://pubmed.ncbi.nlm.nih.gov/39237321/) | 2025 | Coorte | J Inherit Metab Dis | Registro KAMPER (576 partecipanti): sicurezza a lungo termine di sapropterin |
+| [20738029](https://pubmed.ncbi.nlm.nih.gov/20738029/) | 2010 | Revisione | Prescrire Int | Sapropterin: beneficio limitato a una minoranza di pazienti |
+| [25563006](https://pubmed.ncbi.nlm.nih.gov/25563006/) | 2014 | Studio di fase III in aperto | Vestn Ross Akad Med Nauk | Efficacia e sicurezza di sapropterin in pazienti con fenilchetonuria |
+| [26653793](https://pubmed.ncbi.nlm.nih.gov/26653793/) | 2016 | Preclinico (modello murino) | Mol Genet Metab | Sapropterin ad alte dosi migliora il turnover dei neurotrasmettitori monoaminergici |
+| [35899555](https://pubmed.ncbi.nlm.nih.gov/35899555/) | 2022 | Revisione | Turk J Pediatr | Raccomandazioni per la fenilchetonuria in Turchia |
+| [42123950](https://pubmed.ncbi.nlm.nih.gov/42123950/) | 2026 | Revisione | Nutrients | Strategie nutrizionali e terapeutiche nella fenilchetonuria pediatrica |
 
 ## Informazioni sul mercato italiano
 
@@ -93,32 +89,31 @@ La letteratura seguente è stata associata alla predizione principale, ma riguar
 | 049972021 | SAPROPTERINA 120 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione valida) |
 | 049972033 | SAPROPTERINA 30 buste orale polv 100 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione valida) |
 
-Tutte le 8 autorizzazioni risultano cancellate; l'elenco sopra mostra le prime 5. Lo stato di mercato andrebbe verificato presso AIFA.
+Sono presenti 8 autorizzazioni, tutte in corso di validità; l'elenco mostra le prime 5. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni dal grafo di conoscenza** (non derivate dal foglio illustrativo): neutropenia e agranulocitosi.
-- **Interazioni farmacologiche**: sono state individuate 21 interazioni di livello moderato. Le principali per categoria:
-  - Vasodilatatori e nitrati: nitroglicerina, isosorbide dinitrato e mononitrato, nitroprussiato, minoxidil (anche topico), idralazina, nesiritide, alprostadil.
-  - Inibitori della fosfodiesterasi 5: sildenafil, tadalafil, vardenafil.
-  - Antifolati: metotrexato, pemetrexed, pralatrexato, trimetrexato, trimetoprim, pirimetamina, proguanil.
-  - Levodopa.
+- **Interazioni farmacologiche**: sono state rilevate 21 interazioni di livello moderato. Le principali:
+  - vasodilatatori e nitrati (alprostadil, minoxidil, nitroprussiato, idralazina, isosorbide dinitrato e mononitrato, nitroglicerina, nesiritide);
+  - inibitori della fosfodiesterasi 5 (sildenafil, tadalafil, vardenafil);
+  - antifolici (metotrexato, pemetrexed, pralatrexato, trimetoprim, trimetrexato, pirimetamina);
+  - levodopa e proguanil.
 
-Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
+Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Per il disturbo del metabolismo della tirosina non esistono sperimentazioni cliniche e non c'è un razionale meccanicistico diretto: la BH4 non agisce sugli enzimi difettosi nelle tirosinemie primarie. Il punteggio TxGNN molto alto sembra riflettere la prossimità con l'indicazione originale (PKU). Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La predizione si basa solo sul modello: non ci sono studi clinici né pubblicazioni che riguardino direttamente i disturbi del metabolismo della tirosina. Il legame meccanicistico è indiretto, perché BH4 non agisce sugli enzimi difettosi nei disturbi primari della tirosina.
 
-**Per procedere, sono necessari:**
-- Dati sul meccanismo d'azione (MOA) da DrugBank.
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA, requisito bloccante per lo screening di sicurezza.
-- Una valutazione mirata dell'eventuale ruolo di sapropterin nelle tirosinemie specifiche, con dati preclinici o clinici dedicati.
-- Verifica dello stato regolatorio effettivo in Italia, dato che tutte le autorizzazioni risultano cancellate.
-- Se l'interesse è la carenza di BH4, una valutazione separata di tale indicazione, che è di fatto vicina a quella originale e richiede terapia combinata con precursori dei neurotrasmettitori.
+**Per procedere sono necessari:**
+- Una ragione biologica specifica per cui BH4 dovrebbe agire su un sottotipo definito di disturbo della tirosina
+- Dati preclinici o studi di prova di concetto sulla malattia prevista
+- Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglio illustrativo AIFA
+- Una valutazione delle interazioni moderate rilevate in vista di un eventuale uso in nuove popolazioni
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
