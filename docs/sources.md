@@ -3,7 +3,7 @@ layout: default
 title: Fonti dei dati
 nav_order: 93
 permalink: /sources/
-description: "Le fonti dei dati alla base di ITTxGNN: dati di registrazione AIFA, TxGNN, ClinicalTrials.gov, PubMed e DrugBank."
+description: "Le fonti dei dati alla base di ITTxGNN: liste AIFA dei farmaci di classe A e H e stato delle AIC (confezioni.csv), TxGNN, ClinicalTrials.gov, PubMed e DrugBank."
 ---
 
 # Fonti dei dati
@@ -21,7 +21,7 @@ Ogni conclusione è riconducibile a una fonte di dati pubblica — nulla è una 
 <tr><th>Tipo</th><th>Fonte</th><th>Utilizzata per</th></tr>
 </thead>
 <tbody>
-<tr><td>Dati di registrazione</td><td><a href="https://www.aifa.gov.it/">AIFA</a></td><td>Elenco dei farmaci approvati e dei principi attivi per l'Italia</td></tr>
+<tr><td>Dati di registrazione</td><td>AIFA: liste dei farmaci di <a href="https://www.aifa.gov.it/documents/20142/3442801/Classe_A_per_principio_attivo_30-09-2025.csv">classe A</a> e di <a href="https://www.aifa.gov.it/documents/20142/3442801/Classe_H_per_principio_attivo_30-09-2025.csv">classe H</a> per principio attivo (30/09/2025); open data <a href="https://drive.aifa.gov.it/farmaci/confezioni.csv">confezioni.csv</a></td><td>Farmaci di classe A e H e relativi principi attivi; stato amministrativo dell'AIC di ogni confezione</td></tr>
 <tr><td>Modello di previsione</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Previsione delle associazioni farmaco&ndash;malattia</td></tr>
 <tr><td>Studi clinici</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Classificazione delle prove (NCT)</td></tr>
 <tr><td>Letteratura</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Classificazione delle prove (PMID)</td></tr>
@@ -29,6 +29,8 @@ Ogni conclusione è riconducibile a una fonte di dati pubblica — nulla è una 
 <tr><td>Interazioni</td><td><a href="https://ddinter2.scbdd.com/">DDInter</a></td><td>Dati sulle interazioni tra farmaci</td></tr>
 </tbody>
 </table>
+
+L'elenco dei farmaci del sito comprende solo le classi A e H: i farmaci di classe C non sono inclusi.
 
 ---
 
@@ -47,7 +49,7 @@ Ogni fonte ha la propria licenza — si prega di verificarla prima di citarla:
 
 | Dati | Frequenza |
 |------|-----------|
-| Dati di registrazione | Come pubblicati dall'autorità regolatoria |
+| Stato amministrativo delle AIC | Aggiornato automaticamente ogni settimana (lunedì) da confezioni.csv |
 | Prove da studi clinici / letteratura | Raccolte nuovamente a intervalli periodici |
 | Dati sulle interazioni | Riesaminati trimestralmente |
 
@@ -62,18 +64,9 @@ Ogni fonte ha la propria licenza — si prega di verificarla prima di citarla:
 
 ## Informazioni sullo Sviluppatore
 
-Questa piattaforma è sviluppata e gestita da **藥提醒科技有限公司** (yao.care, numero di registrazione
-societaria 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-ITTxGNN è il sito italiano della linea di prodotti "TxGNN Drug Repurposing" dell'azienda.
-Lo stesso sistema è distribuito in 30 paesi e regioni, ciascuno denominato `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN e così via) all'indirizzo `{cc}txgnn.yao.care`.
-Panoramica del prodotto: <https://www.yao.care/medical/txgnn/>.
-
-Il modello TxGNN è stato sviluppato dallo Zitnik Lab della Harvard Medical School ed è stato pubblicato
-su *Nature Medicine*. Questa piattaforma è il sistema di produzione che 藥提醒科技有限公司 ha costruito
-su tale modello e comprende l'integrazione dei dati nazionali di registrazione dei farmaci, la previsione tramite deep learning che esclude gli usi già registrati nel grafo di conoscenza, la classificazione delle prove da
-PubMed / ClinicalTrials e l'integrazione con le cartelle cliniche elettroniche tramite SMART on FHIR.
+Questa piattaforma è sviluppata e gestita da **藥提醒科技有限公司** (yao.care). Le informazioni sull'azienda,
+il contesto del modello TxGNN e l'elenco completo dei siti della linea di prodotti si trovano nella pagina
+<a href="{{ '/about/' | relative_url }}">Informazioni</a>.
 
 ---
 

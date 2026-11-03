@@ -91,18 +91,8 @@ le malattie rare."
 
 ## Fonti dei dati
 
-<table class="comparison-table">
-<thead>
-<tr><th>Tipo</th><th>Fonte</th><th>Descrizione</th></tr>
-</thead>
-<tbody>
-<tr><td>Previsione IA</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Rete neurale a grafo di Harvard addestrata su un grafo di conoscenza</td></tr>
-<tr><td>Studi clinici</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Registro globale degli studi clinici</td></tr>
-<tr><td>Letteratura</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Banca dati della letteratura biomedica</td></tr>
-<tr><td>Informazioni sui farmaci</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Banca dati di farmaci e bersagli</td></tr>
-<tr><td>Dati di registrazione</td><td><a href="https://www.aifa.gov.it/">AIFA</a></td><td>Dati sulle approvazioni dei farmaci in Italia</td></tr>
-</tbody>
-</table>
+Le fonti delle previsioni, delle prove e dei dati sui farmaci, con le relative licenze e frequenze di
+aggiornamento, sono raccolte nella pagina <a href="{{ '/sources/' | relative_url }}">Fonti dei dati</a>.
 
 ---
 
