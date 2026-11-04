@@ -3,18 +3,18 @@ layout: default
 title: Etelcalcetide
 parent: Prove moderate (L3-L4)
 nav_order: 181
-evidence_level: L3
+evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
-description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (livello di evidenza L3). Indicazione originale: Iperparatiroidismo (testo di indicazione autorizzata non disponibile…"
+last_modified_at: 2026-11-04
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
+description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Etelcalcetide
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **4** 
+Livello di evidenza: **L4** | Indicazioni previste: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,45 @@ Livello di evidenza: **L3** | Indicazioni previste: **4**
 
 </div>
 
-## Etelcalcetide: dall'iperparatiroidismo all'iperfosfatemia
+## Etelcalcetide: Iperfosfatemia (hyperphosphatemia (disease))
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Etelcalcetide è un calcimimetico per via endovenosa, originariamente impiegato nel trattamento dell'iperparatiroidismo. Il modello TxGNN prevede che possa essere efficace per l'**iperfosfatemia**; i dati compilati per questo report riportano **nessuno studio clinico registrato** e **6 pubblicazioni**, di cui solo una è uno studio randomizzato (sull'iperparatiroidismo secondario, non sull'iperfosfatemia).
-
----
+Etelcalcetide è un calcimimetico somministrato per via endovenosa, utilizzato nell'iperparatiroidismo secondario nei pazienti in emodialisi. Il modello TxGNN prevede una possibile efficacia nell'**iperfosfatemia (hyperphosphatemia)**, con punteggio 0,9942. Il livello di evidenza è **L4**: nessuno studio clinico registrato e nessuno studio citato affronta direttamente l'iperfosfatemia come indicazione; l'unico lavoro che la riguarda è preclinico.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Iperparatiroidismo (testo di indicazione autorizzata non disponibile nei dati AIFA) |
-| Nuova indicazione prevista | Iperfosfatemia |
-| Punteggio di predizione TxGNN | 0,9942 |
-| Livello di evidenza | L3 |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Iperfosfatemia (hyperphosphatemia (disease)) |
+| Punteggio di predizione TxGNN | 0.9942 |
+| Livello di evidenza | L4 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
 | Numero di autorizzazioni | 3 (valide: 3) |
 | Decisione raccomandata | Hold |
 
----
-
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato. In base alle conoscenze note, etelcalcetide è un calcimimetico che attiva il recettore del calcio (CaSR) delle cellule paratiroidee e riduce il paratormone (PTH) nell'iperparatiroidismo secondario dei pazienti in emodialisi.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, etelcalcetide è un calcimimetico che attiva il recettore del calcio (CaSR) delle paratiroidi e riduce l'ormone paratiroideo (PTH).
 
-Iperfosfatemia e iperparatiroidismo secondario sono strettamente collegati nel disturbo minerale e osseo della malattia renale cronica (CKD-MBD). Un PTH più basso riduce il riassorbimento osseo e quindi il rilascio di calcio e fosfato, per cui la fosfatemia può diminuire in modo indiretto. L'effetto è verosimilmente secondario alla soppressione del PTH e non dovuto a un'azione diretta di riduzione del fosfato.
+Nella malattia renale cronica con alterazioni minerali e ossee (CKD-MBD), iperfosfatemia e iperparatiroidismo secondario sono strettamente collegati. Riducendo il PTH, si limita il riassorbimento osseo e il rilascio di calcio e fosfato, quindi la fosfatemia può diminuire in modo indiretto. L'effetto sarebbe quindi secondario alla soppressione del PTH e non un'azione diretta di riduzione del fosfato. Il legame è biologicamente plausibile ma non dimostrato in studi clinici sull'iperfosfatemia.
 
-Va inoltre notato che un lavoro preclinico recente (2026) descrive un effetto cardioprotettivo di etelcalcetide in un contesto di iperfosfatemia cronica, tramite l'attivazione CaSR-cAMP. Si tratta però di un dato meccanicistico, non di evidenza clinica sull'abbassamento del fosfato.
+## Evidenze da studi clinici
 
----
-
-## Evidenze dagli studi clinici
-
-Al momento non risultano studi clinici correlati registrati.
-
----
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | RCT | Kidney Int Rep | Studio DUET: valuta l'efficacia di etelcalcetide endovenoso nel controllo dell'iperparatiroidismo secondario in emodialisi |
-| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Revisione | Int J Nephrol Renovasc Dis | Ruolo di etelcalcetide nella gestione dell'iperparatiroidismo in emodialisi; riduce il PTH somministrato a fine seduta, tre volte a settimana |
-| [42495460](https://pubmed.ncbi.nlm.nih.gov/42495460/) | 2026 | Revisione | Cureus | Revisione narrativa su calcimimetici, analoghi della vitamina D e chelanti del fosfato nell'iperparatiroidismo secondario in dialisi |
+| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | RCT | Kidney Int Rep | Studio DUET: efficacia di etelcalcetide nel controllo dell'iperparatiroidismo secondario in emodialisi (non specifico per l'iperfosfatemia) |
+| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Revisione | Int J Nephrol Renovasc Dis | Ruolo di etelcalcetide nella gestione dell'iperparatiroidismo in emodialisi |
+| [42495460](https://pubmed.ncbi.nlm.nih.gov/42495460/) | 2026 | Revisione | Cureus | Gestione farmacologica dell'iperparatiroidismo secondario in dialisi: calcimimetici, analoghi della vitamina D e chelanti del fosfato |
 | [42044867](https://pubmed.ncbi.nlm.nih.gov/42044867/) | 2026 | Preclinico/meccanicistico | Kidney Int | Etelcalcetide ripristina la funzione cardiaca nell'iperfosfatemia cronica tramite attivazione CaSR-cAMP |
-| [42853437](https://pubmed.ncbi.nlm.nih.gov/42853437/) | 2026 | Caso clinico | CEN Case Rep | Regressione di calcinosi tumorale uremica dopo il passaggio da cinacalcet a etelcalcetide in un paziente emodializzato senza grave iperfosfatemia |
-| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Caso clinico | Clin Nephrol | Calcificazione polmonare metastatica temporanea in un paziente con iperparatiroidismo in dialisi peritoneale |
-
----
+| [42853437](https://pubmed.ncbi.nlm.nih.gov/42853437/) | 2026 | Caso clinico | CEN Case Rep | Regressione di calcinosi tumorale uremica dopo passaggio da cinacalcet a etelcalcetide, in assenza di iperfosfatemia grave |
+| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Caso clinico | Clin Nephrol | Calcificazione polmonare metastatica temporanea in paziente con iperparatiroidismo in dialisi peritoneale |
 
 ## Informazioni sul mercato italiano
 
@@ -93,36 +81,26 @@ Al momento non risultano studi clinici correlati registrati.
 | 045182060 | PARSABIV 6 flaconcini soluz. iniett. 5 mg/1 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
 | 045182021 | PARSABIV 6 flaconcini soluz. iniett. 2,5 mg/0,5 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
 
----
+## Considerazioni sulla sicurezza
 
-## Considerazioni di sicurezza
+- **Interazioni farmacologiche**: sono state rilevate 21 interazioni, per lo più di livello maggiore. Tra le principali: cinacalcet (altro calcimimetico), bifosfonati (acido alendronico, risedronico, ibandronico, pamidronico, zoledronico, etidronico, tiludronico), denosumab, romosozumab, calcitonina di salmone, diuretici dell'ansa (furosemide, bumetanide, torasemide, acido etacrinico), cisplatino, foscarnet, pentamidina e amifostina. L'interazione con burosumab è di livello moderato.
+- Nota di cautela: l'ipocalcemia è un effetto noto dei calcimimetici e andrebbe valutata con attenzione in un eventuale sviluppo.
 
-- **Interazioni farmacologiche**: sono state identificate 21 interazioni, in larga parte di livello **Maggiore**. Le principali:
-  - Altri farmaci che agiscono sul calcio/PTH: cinacalcet, denosumab, romosozumab, calcitonina di salmone.
-  - Bifosfonati: acido alendronico, risedronico, ibandronico, pamidronico, zoledronico, etidronico, tiludronico.
-  - Diuretici dell'ansa: furosemide, bumetanide, torasemide, acido etacrinico.
-  - Altri: amifostina, pentamidina, cisplatino, foscarnet.
-  - Burosumab: interazione di livello **Moderato**.
-- Una considerazione ipotetica, emersa nell'analisi di altre predizioni: l'ipocalcemia, effetto noto dei calcimimetici, richiederebbe una valutazione specifica in contesti con rischio emorragico.
-
-Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
-
----
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- La predizione è biologicamente plausibile, ma l'effetto sul fosfato sarebbe indiretto (tramite il PTH). Non esistono studi clinici registrati sull'iperfosfatemia né evidenze randomizzate dirette. Tutte le autorizzazioni italiane risultano cancellate, il che limita la praticabilità di uno sviluppo locale.
-- Le altre predizioni (varici esofagee con e senza sanguinamento, malattia varicosa) non mostrano alcun legame meccanicistico plausibile, hanno evidenza L5 e sono verosimilmente artefatti della rete di conoscenza: non meritano ulteriore approfondimento al momento.
+L'unica evidenza che riguarda direttamente l'iperfosfatemia è preclinica; gli studi clinici disponibili trattano l'iperparatiroidismo secondario. Il possibile effetto sul fosfato è verosimilmente indiretto, mediato dalla riduzione del PTH. Il livello di evidenza è L4.
 
 **Per procedere sono necessari:**
-- Verificare le ragioni e lo stato della cancellazione delle autorizzazioni in Italia e l'eventuale disponibilità del prodotto.
-- Ottenere e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza.
-- Reperire i dati sul meccanismo d'azione (ad es. da DrugBank).
-- Estrarre dagli studi esistenti (come DUET e gli studi registrativi) i dati sulla variazione della fosfatemia come esito secondario o esplorativo.
-- Valutare se uno studio dedicato abbia senso rispetto alle terapie già disponibili (chelanti del fosfato, altri calcimimetici).
+- Studi clinici che valutino direttamente la fosfatemia come endpoint nei pazienti in emodialisi
+- Dati sul meccanismo d'azione e analisi di sottogruppi o analisi post hoc degli studi esistenti sul fosfato sierico
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Piano di monitoraggio di calcemia e interazioni farmacologiche
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -3,18 +3,18 @@ layout: default
 title: Solriamfetol
 parent: Prove elevate (L1-L2)
 nav_order: 409
-evidence_level: L1
+evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
-description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Narcolessia e sindrome da apnea ostruttiva del sonno…"
+last_modified_at: 2026-11-04
 monitor_inn: "solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
+description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L2)."
 ---
 
 # Solriamfetol
 {: .fs-9 }
 
-Livello di evidenza: **L1** | Indicazioni previste: **10** 
+Livello di evidenza: **L2** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,65 +33,51 @@ Livello di evidenza: **L1** | Indicazioni previste: **10**
 
 </div>
 
-## Solriamfetol: Dalla sonnolenza diurna eccessiva (narcolessia e apnee ostruttive del sonno) al disturbo da deficit di attenzione e iperattività (ADHD)
+## Solriamfetol: Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Solriamfetol è un inibitore della ricaptazione di dopamina e noradrenalina, originariamente associato al trattamento della narcolessia e della sindrome da apnea ostruttiva del sonno. Il modello TxGNN prevede che possa essere efficace per il **disturbo da deficit di attenzione e iperattività (ADHD)**, con **5 studi clinici** (di cui 4 di fase 3 o 2/3) e **6 pubblicazioni** a sostegno di questa direzione. Un ampio studio di fase 3 sugli adulti è concluso, ma i risultati non sono ancora disponibili nei dati compilati per questo report.
-
----
+Solriamfetol è un inibitore della ricaptazione di dopamina e noradrenalina (DNRI), promotore della vigilanza. Il modello TxGNN prevede un possibile beneficio nel **disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder)**. A sostegno di questa direzione risultano **5 studi clinici** (di cui 2 completati negli adulti e 3 di fase 3 pediatrici o di sicurezza ancora in corso) e **6 pubblicazioni** nei dati compilati per questo report.
 
 ## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Narcolessia e sindrome da apnea ostruttiva del sonno (secondo la base di conoscenza TxGNN; il testo dell'indicazione autorizzata in Italia non è disponibile) |
-| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (ADHD) |
-| Punteggio di predizione TxGNN | 0,9999 |
-| Livello di evidenza | L1 (vedi nota sotto) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) |
+| Punteggio di predizione TxGNN | 0.9999 |
+| Livello di evidenza | L2 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
-| Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
-
-*Nota sul livello di evidenza:* il livello L1 richiede almeno due studi di fase 3 randomizzati completati. Nei dati compilati è completato un solo studio di fase 3 (NCT05972044) più uno studio pilota di fase 2/3 (NCT04839562); gli altri studi di fase 3 sono ancora in corso. L'assegnazione L1 deriva dal punteggio dei dati compilati, ma andrebbe considerata prudenzialmente, più vicina a L2, finché non saranno disponibili i risultati.
-
----
+| Decisione raccomandata | Procedere con cautele |
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle conoscenze farmacologiche generali, solriamfetol è un inibitore della ricaptazione di dopamina e noradrenalina (DNRI). Il potenziamento della segnalazione catecolaminergica nei circuiti prefrontali è la base farmacologica consolidata del trattamento dell'ADHD, il che fornisce un legame diretto e plausibile. Questo collegamento si basa sulla farmacologia nota del farmaco e non sui dati forniti.
+Solriamfetol inibisce la ricaptazione di dopamina e noradrenalina. Il dato dettagliato sul meccanismo d'azione non è disponibile nei dati compilati per questo report; il collegamento si basa quindi sulla farmacologia nota del farmaco, non su dati forniti.
 
-Le indicazioni originali (narcolessia, apnee ostruttive del sonno) riguardano la sonnolenza diurna eccessiva, cioè la vigilanza e l'attenzione. L'ADHD condivide con questi quadri una componente di disregolazione dell'attenzione e dell'arousal, e i farmaci attuali per l'ADHD (stimolanti e non stimolanti) agiscono sugli stessi sistemi dopaminergico e noradrenergico. Gli stimolanti tradizionali comportano rischio di abuso e dipendenza, e una quota di pazienti risponde solo parzialmente o non tollera i trattamenti: da qui l'interesse per alternative come solriamfetol.
-
-Esiste anche una predizione correlata, il sottotipo ADHD a presentazione inattentiva, che eredita indirettamente l'evidenza dell'ADHD generale ma non dispone di studi specifici.
-
----
+Il potenziamento della trasmissione catecolaminergica nei circuiti prefrontali è la base farmacologica consolidata del trattamento dell'ADHD, il che rende il legame meccanicistico diretto e plausibile. Anche i trial clinici in corso e completati, testati su adulti, adolescenti e bambini, vanno in questa direzione.
 
 ## Evidenze da studi clinici
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT05972044](https://clinicaltrials.gov/study/NCT05972044) | Fase 3 | Completato | 516 | Studio FOCUS: solriamfetol vs placebo negli adulti con ADHD (randomizzato, doppio cieco). Risultati non inclusi nei dati compilati |
-| [NCT04839562](https://clinicaltrials.gov/study/NCT04839562) | Fase 2/3 | Completato | 66 | Studio pilota in doppio cieco vs placebo in adulti (18-65 anni) con ADHD |
-| [NCT07717892](https://clinicaltrials.gov/study/NCT07717892) | Fase 3 | In reclutamento | 468 | Efficacia e sicurezza a 6 settimane vs placebo in adolescenti 12-<18 anni |
-| [NCT07717879](https://clinicaltrials.gov/study/NCT07717879) | Fase 3 | In reclutamento | 468 | Efficacia e sicurezza a 6 settimane vs placebo in bambini 6-<12 anni |
+| [NCT05972044](https://clinicaltrials.gov/study/NCT05972044) | Fase 3 | Completato | 516 | Studio FOCUS, randomizzato, in doppio cieco, controllato con placebo, su efficacia e sicurezza in adulti con ADHD; risultati non inclusi nei dati forniti |
+| [NCT04839562](https://clinicaltrials.gov/study/NCT04839562) | Fase 2/3 | Completato | 66 | Studio pilota in doppio cieco controllato con placebo in adulti (18-65 anni) con ADHD |
+| [NCT07717892](https://clinicaltrials.gov/study/NCT07717892) | Fase 3 | In reclutamento | 468 | Studio randomizzato di 6 settimane, controllato con placebo, in adolescenti di 12-<18 anni |
+| [NCT07717879](https://clinicaltrials.gov/study/NCT07717879) | Fase 3 | In reclutamento | 468 | Studio randomizzato di 6 settimane, controllato con placebo, in bambini di 6-<12 anni |
 | [NCT07773883](https://clinicaltrials.gov/study/NCT07773883) | Fase 3 | Arruolamento su invito | 300 | Studio in aperto sulla sicurezza a lungo termine in bambini e adolescenti |
-
----
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [37819836](https://pubmed.ncbi.nlm.nih.gov/37819836/) | 2023 | RCT | J Clin Psychiatry | Studio pilota randomizzato, doppio cieco, controllato con placebo, di 6 settimane con titolazione di 75 o 150 mg in 60 adulti con ADHD, per valutare efficacia e tollerabilità |
-| [38771653](https://pubmed.ncbi.nlm.nih.gov/38771653/) | 2024 | Revisione | Expert Opin Pharmacother | Progressi nella terapia farmacologica dell'ADHD oltre gli stimolanti, che comportano rischio di abuso e dipendenza |
-| [40986064](https://pubmed.ncbi.nlm.nih.gov/40986064/) | 2025 | Revisione | Expert Opin Pharmacother | Trattamenti potenziali per l'ADHD, con focus sugli studi di fase III e su meccanismi neurobiologici alternativi |
-| [41621729](https://pubmed.ncbi.nlm.nih.gov/41621729/) | 2026 | Revisione | Pharmacol Ther | Interventi farmacologici, neuromodulatori e psicoterapeutici per l'ADHD dell'adulto |
+| [37819836](https://pubmed.ncbi.nlm.nih.gov/37819836/) | 2023 | RCT | The Journal of Clinical Psychiatry | Studio pilota di 6 settimane in doppio cieco con placebo su 60 adulti con ADHD (dosi di 75 o 150 mg), per valutare effetti e tollerabilità |
+| [40986064](https://pubmed.ncbi.nlm.nih.gov/40986064/) | 2025 | Revisione | Expert Opinion on Pharmacotherapy | Panoramica dei possibili trattamenti per l'ADHD in fase III, con meccanismi alternativi agli stimolanti |
+| [38771653](https://pubmed.ncbi.nlm.nih.gov/38771653/) | 2024 | Revisione | Expert Opinion on Pharmacotherapy | Progressi nella terapia farmacologica dell'ADHD oltre gli stimolanti |
 | [33870884](https://pubmed.ncbi.nlm.nih.gov/33870884/) | 2022 | Revisione/Commento | CNS Spectrums | Commento su solriamfetol per l'ADHD |
-| [34534876](https://pubmed.ncbi.nlm.nih.gov/34534876/) | 2021 | Revisione | Epilepsy Behav | Farmaci per pazienti con epilessia e sonnolenza diurna eccessiva; l'ADHD è citato come condizione comorbida |
-
----
+| [41621729](https://pubmed.ncbi.nlm.nih.gov/41621729/) | 2026 | Revisione | Pharmacology & Therapeutics | Interventi farmacologici, neuromodulatori e psicoterapeutici per l'ADHD dell'adulto |
+| [34534876](https://pubmed.ncbi.nlm.nih.gov/34534876/) | 2021 | Revisione | Epilepsy & Behavior | Farmaci per pazienti con epilessia e sonnolenza diurna eccessiva, con l'ADHD tra le condizioni associate |
 
 ## Informazioni sul mercato italiano
 
@@ -100,35 +86,27 @@ Esiste anche una predizione correlata, il sottotipo ADHD a presentazione inatten
 | 048446025 | SUNOSI*28 cpr rivestite 75 mg | Compresse rivestite | Non disponibile |
 | 048446076 | SUNOSI*28 cpr rivestite 150 mg | Compresse rivestite | Non disponibile |
 
-Titolare: ATNAHS PHARMA NETHERLANDS BV. Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.
-
----
-
 ## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: sono state identificate 35 interazioni. Tra quelle elencate:
-  - **Maggiore**: blu di metilene.
-  - **Moderate**: simpaticomimetici e agonisti adrenergici, tra cui efedrina, pseudoefedrina, epinefrina, fenilefrina, isometepteno, mazindolo, nafazolina, ossimetazolina, e beta-agonisti come salbutamolo, formoterolo, olodaterolo, vilanterolo, isoprenalina, orciprenalina e pirbuterolo (incluse alcune formulazioni nasali, oftalmiche e topiche).
-- **Considerazione clinica**: per il meccanismo noradrenergico, un possibile aumento di pressione arteriosa e frequenza cardiaca va tenuto presente, soprattutto nelle popolazioni pediatriche e con patologie cardiovascolari.
+**Interazioni farmacologiche**: sono state rilevate 35 interazioni complessive; tra quelle elencate:
+- **Maggiore**: blu di metilene.
+- **Moderate**: simpaticomimetici e agonisti beta-adrenergici, tra cui efedrina, epinefrina, fenilefrina, pseudoefedrina, isometepteno, mazindolo, salbutamolo, formoterolo, olodaterolo, vilanterolo, isoprenalina, orciprenalina, pirbuterolo, nafazolina e ossimetazolina oftalmiche.
 
-Per avvertenze e controindicazioni, consultare il foglio illustrativo.
+Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
----
+## Conclusioni e prossimi passi
 
-## Conclusione e prossimi passi
-
-**Decisione: Proceed with Guardrails (procedere con cautele)**
+**Decisione: Procedere con cautele**
 
 **Motivazione:**
-- Il meccanismo DNRI è coerente con la farmacologia dell'ADHD e sono in corso o completati studi di fase 3 su adulti, adolescenti e bambini, oltre a un RCT pilota pubblicato. Tuttavia, i risultati dello studio principale negli adulti non sono ancora disponibili e il farmaco non ha attualmente autorizzazioni valide in Italia.
+Il livello di evidenza è L2: esiste uno studio di fase 3 completato, controllato con placebo, negli adulti con ADHD (NCT05972044) e uno studio pilota di fase 2/3 (NCT04839562; PMID 37819836). Gli studi pediatrici di fase 3 sono ancora in corso, quindi non vi sono più studi di fase 3 completati. Il meccanismo DNRI è coerente con la farmacologia dell'ADHD.
 
 **Per procedere sono necessari:**
-- Recuperare e analizzare i risultati dello studio di fase 3 NCT05972044 (FOCUS) e dello studio NCT04839562.
-- Acquisire dal sito AIFA il foglio illustrativo per avvertenze e controindicazioni.
-- Completare i dati sul meccanismo d'azione da DrugBank.
-- Chiarire la situazione regolatoria in Italia (autorizzazioni cancellate) e il percorso per una nuova autorizzazione.
-- Definire un piano di monitoraggio cardiovascolare (pressione, frequenza cardiaca) e delle interazioni, in particolare per le popolazioni pediatriche.
-- Attendere i risultati degli studi pediatrici (NCT07717892, NCT07717879) e di sicurezza a lungo termine (NCT07773883) prima di qualsiasi estensione ai minori.
+- Risultati pubblicati dello studio FOCUS (NCT05972044) per un giudizio definitivo sull'efficacia
+- Dati sul meccanismo d'azione dettagliati
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Piano di monitoraggio della sicurezza cardiovascolare e del potenziale d'abuso, e dati sulle popolazioni pediatriche una volta disponibili gli studi in corso
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

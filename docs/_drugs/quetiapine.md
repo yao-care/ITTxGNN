@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Quetiapine
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 369
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-04
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5… (livello di evidenza L4). Indicazione originale: Non riportata nei dati lo…"
+description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5)."
 ---
 
 # Quetiapine
 {: .fs-9 }
 
-Livello di evidenza: **L4** | Indicazioni previste: **10** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,65 +33,42 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 </div>
 
-## Quetiapine: Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5, **Hold (retinal dystrophy with or without extraocular anomalies)
+## Quetiapine: Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-La quetiapina è un antipsicotico atipico, originariamente utilizzato per il disturbo bipolare, il disturbo affettivo maggiore e la schizofrenia.
-Il modello TxGNN la indica come potenzialmente utile per diverse nuove indicazioni; tra queste, la più rilevante dal punto di vista delle evidenze è la **tricotillomania**, sostenuta da **6 pubblicazioni** (soprattutto casi clinici e revisioni) e **nessuna sperimentazione clinica** registrata.
-Il livello di evidenza è basso: la predizione con il punteggio più alto (distrofia retinica) non ha alcun supporto nei dati compilati.
+La quetiapina è un antipsicotico atipico. Il modello TxGNN la indica come possibile candidata per la **distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)**, con un punteggio di 0,9957. Per questa malattia non sono presenti né studi clinici né pubblicazioni nei dati compilati per questo report: la previsione si basa esclusivamente sul modello (livello di evidenza **L5**).
 
-> **Nota metodologica:** la predizione al primo posto per punteggio, la *distrofia retinica con o senza anomalie extraoculari* (0,9957), non dispone di alcuna evidenza clinica né bibliografica e non ha un legame meccanicistico plausibile. Per questo il report si concentra sulla tricotillomania (posizione 8, punteggio 0,9938), l'unica indicazione predetta con letteratura a supporto tra le prime 10.
-
----
-
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione predetta (primo posto per punteggio) | Distrofia retinica con o senza anomalie extraoculari – punteggio 0,9957, livello L5, **Hold (retinal dystrophy with or without extraocular anomalies) |
-| Nuova indicazione con maggiori evidenze | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
-| Livello di evidenza | L4 (tricotillomania); L5 per le altre nove predizioni |
+| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
+| Punteggio di previsione TxGNN | 0.9957 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione raccomandata | Hold (per la predizione top-1); tricotillomania: domanda di ricerca da approfondire |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa previsione potrebbe essere ragionevole?
 
-## Perché questa predizione è ragionevole?
+I dati compilati per questo report non includono una descrizione dettagliata del meccanismo d'azione. In termini generali, la quetiapina agisce come antagonista dei recettori dopaminergici D2 e serotoninergici 5-HT2A, con affinità anche per i recettori 5-HT1A, H1 e per il trasportatore della noradrenalina (NET).
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, la quetiapina è un antipsicotico atipico la cui efficacia nel disturbo bipolare e nella schizofrenia è consolidata. I dati farmacologici compilati indicano un legame con i recettori serotoninergici (5-HT1A, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A), con il recettore dopaminergico D2, con il recettore istaminico H1 e con il trasportatore della noradrenalina (NET).
+Non emerge alcun legame meccanicistico plausibile tra questo profilo farmacologico e le distrofie retiniche ereditarie, che sono malattie di origine genetica con degenerazione dei fotorecettori. Il punteggio elevato del modello (0,9957) non è supportato da alcuno studio clinico o pubblicazione; la previsione va quindi considerata con cautela, in quanto potrebbe essere un artefatto del modello.
 
-**Tricotillomania.** È un comportamento ripetitivo focalizzato sul corpo, appartenente allo spettro ossessivo-compulsivo. Gli antipsicotici atipici sono impiegati come terapia aggiuntiva in condizioni di questo spettro, attraverso la modulazione serotoninergica (5-HT2A) e dopaminergica (D2). Il legame è plausibile ma non dimostrato: la letteratura comprende resoconti di singoli casi, mentre mancano dati da studi controllati. Va notato che esiste anche una segnalazione di quetiapina che ha peggiorato sintomi ossessivo-compulsivi.
+## Evidenze da studi clinici
 
-**Altre predizioni.** Per le restanti nove predizioni (distrofia retinica, difetto congenito della glicosilazione, idranencefalia, sindrome da microdelezione 17p13.3, polimicrogiria, miopia X-linked e sindromica, Charcot-Marie-Tooth 1G) non emerge alcun legame meccanicistico plausibile con la farmacologia recettoriale della quetiapina. I punteggi elevati provengono dal modello TxGNN (deep learning) e possono riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche: non ci sono studi né pubblicazioni a sostegno.
+Attualmente non risultano studi clinici registrati correlati.
 
----
+## Evidenze dalla letteratura
 
-## Evidenze da sperimentazioni cliniche
-
-Al momento non risulta alcuna sperimentazione clinica correlata registrata, né per la tricotillomania né per le altre nove indicazioni predette.
-
----
-
-## Evidenze dalla letteratura (tricotillomania)
-
-| PMID | Anno | Tipo | Rivista | Risultati principali |
-|------|-----|------|------|---------|
-| [12405081](https://pubmed.ncbi.nlm.nih.gov/12405081/) | 2002 | Revisione con caso clinico | Psychiatry | Panoramica sulla tricotillomania e caso di una donna di 33 anni con risposta favorevole alla quetiapina |
-| [19142421](https://pubmed.ncbi.nlm.nih.gov/19142421/) | 2008 | Caso clinico/serie di casi | Rev Bras Psiquiatr | Quetiapina per il trattamento della tricotillomania (abstract non disponibile) |
-| [11212595](https://pubmed.ncbi.nlm.nih.gov/11212595/) | 2001 | Caso clinico e revisione | J Psychiatry Neurosci | Sintomi ossessivo-compulsivi indotti/esacerbati da quetiapina in un paziente con OCD e tricotillomania |
-| [38797877](https://pubmed.ncbi.nlm.nih.gov/38797877/) | 2025 | Revisione/commento | Int J Dermatol | Trattamento farmacologico della tricotillomania; assenza di linee guida condivise |
-| [20833945](https://pubmed.ncbi.nlm.nih.gov/20833945/) | 2010 | Caso clinico e revisione | Psychosomatics | Sindrome di Rapunzel ricorrente e tricotillomania (non specifico per la quetiapina) |
-| [27840761](https://pubmed.ncbi.nlm.nih.gov/27840761/) | 2016 | Caso clinico | Case Rep Psychiatry | Tricotillomania come manifestazione di demenza (non specifico per la quetiapina) |
-
----
+Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni approvate non è disponibile nei dati compilati. Principali autorizzazioni (elenco limitato a 5):
+Secondo i dati locali, il farmaco risulta commercializzato in Italia, con 20 autorizzazioni valide. L'elenco seguente può essere parziale; non è riportato il testo dell'indicazione approvata.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -101,37 +78,27 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni appr
 | 046412110 | XETAMED 30 cpr rivestite 25 mg | Neuraxpharm Italy SpA | Valida |
 | 040510683 | QUETIAPINA 60 cpr rivestite 200 mg | Teva Italia Srl | Valida |
 
----
-
 ## Considerazioni sulla sicurezza
 
-I dati di sicurezza tratti dal foglietto illustrativo AIFA non sono disponibili. Di seguito si riportano le informazioni ricavate dal grafo di conoscenza e dai dati farmacologici.
+Non sono disponibili avvertenze o controindicazioni tratte dal foglio illustrativo nei dati compilati. Si rimanda al foglio illustrativo per le informazioni di sicurezza.
 
-- **Condizioni associate a controindicazione (dal grafo di conoscenza, non dal testo del foglietto):**
-  - Cardiovascolari: ipertensione, ipotensione ortostatica, sindrome del QT lungo (anche familiare), torsione di punta, infarto miocardico, sindrome da tachicardia posturale ortostatica, atrofia multisistemica.
-  - Neurologiche: epilessia, malattie dei gangli della base, distonia focale della mano, blefarospasmo.
-  - Metaboliche/endocrine: diabete mellito, chetoacidosi diabetica, iperglicemia, ipotiroidismo (incluso mixedema e forma congenita), carenza di potassio, iperlipidemia (anche familiare), ipertrigliceridemia, obesità (anche monogenica).
-  - Altre: malattie epatiche, malattie della colecisti, neutropenia, agranulocitosi, carcinoma mammario femminile.
-- **Interazioni/profilo farmacologico:** la quetiapina interagisce con i recettori 5-HT1A, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, D2, H1 e con il trasportatore NET. Non sono disponibili interazioni con altri farmaci classificate per gravità.
+**Profilo recettoriale:** la quetiapina interagisce con i recettori 5-HT1A, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, D2, H1 e con il trasportatore NET. Si tratta di interazioni farmacologiche con bersagli recettoriali, non di interazioni con altri farmaci.
 
-Per le informazioni complete si rimanda al foglietto illustrativo.
+**Condizioni da valutare con attenzione** (segnalate come potenziali controindicazioni nei dati di riferimento, non tratte dal testo dell'etichetta): ipertensione, ipotensione ortostatica, sindrome del QT lungo e torsione di punta, epilessia, malattie epatiche, diabete mellito e chetoacidosi diabetica, iperglicemia, ipotiroidismo, neutropenia e agranulocitosi, iperlipidemia, ipertrigliceridemia, obesità, infarto miocardico, carcinoma mammario femminile.
 
----
+## Conclusione e prossimi passi
 
-## Conclusioni e prossimi passi
-
-**Decisione: Hold** (per la predizione top-1 e per le altre indicazioni senza evidenze); **tricotillomania: domanda di ricerca (livello L4)**.
+**Decisione: Hold (sospendere)**
 
 **Motivazione:**
-- Le predizioni con punteggio più alto non hanno trial, letteratura né plausibilità meccanicistica, e sono probabilmente artefatti del modello.
-- Per la tricotillomania esistono soltanto casi clinici e revisioni, senza dati controllati. Inoltre tutte le autorizzazioni italiane sono cancellate, con ricadute sulla fattibilità.
+Per la distrofia retinica con o senza anomalie extraoculari non esiste alcuno studio sulla quetiapina nei dati disponibili (livello di evidenza L5) e non si riconosce un legame meccanicistico plausibile. Il solo punteggio del modello (0,9957) non è sufficiente per procedere.
 
-**Per procedere sono necessari:**
-- Dati sul meccanismo d'azione (MOA), attualmente mancanti.
-- Avvertenze e controindicazioni dal foglietto illustrativo AIFA, requisito bloccante per lo screening di sicurezza.
-- Studi controllati o revisione sistematica sulla quetiapina nella tricotillomania.
-- Verifica dello stato di commercializzazione e della disponibilità del prodotto in Italia.
-- Valutazione del profilo di sicurezza (rischio cardiometabolico, QT, neutropenia) in relazione alla popolazione target.
+**Per procedere sarebbe necessario:**
+- Dati preclinici o un razionale meccanicistico che colleghi la quetiapina alla degenerazione retinica
+- Dati dettagliati sul meccanismo d'azione
+- Estrazione delle avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione di sicurezza
+- Una ricerca bibliografica mirata sull'uso della quetiapina in questa patologia
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

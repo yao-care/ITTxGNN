@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glucagon
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 225
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
-description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati"
+last_modified_at: 2026-11-04
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
+description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,54 +33,52 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-## Glucagone: dal trattamento dell'ipoglicemia alla sindrome dell'intestino irritabile
+## Glucagon: Sindrome dell'intestino irritabile (irritable bowel syndrome)
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il glucagone è un ormone peptidico usato in medicina per correggere l'ipoglicemia grave; nei dati compilati per questo report non è però riportata alcuna indicazione approvata in Italia. Il modello TxGNN ne prevede un possibile effetto nella **sindrome dell'intestino irritabile (IBS)**. A sostegno di questa direzione ci sono **2 studi clinici** e **20 pubblicazioni**, ma gli studi riguardano analoghi del GLP-1 (ROSE-010) e non il glucagone stesso.
+Il glucagone è un ormone peptidico con attività sulla muscolatura liscia gastrointestinale. Il modello TxGNN prevede un possibile beneficio nella **sindrome dell'intestino irritabile (irritable bowel syndrome)**, con un punteggio di 0,9924. Nessuno studio ha però testato direttamente il glucagone in questa condizione: le evidenze disponibili riguardano il GLP-1 e i suoi agonisti, farmaci diversi. Il livello di evidenza è quindi **L5**.
 
-## Quadro d'insieme
+## Panoramica rapida
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non disponibile nei dati compilati (i testi delle indicazioni delle licenze AIFA sono vuoti) |
-| Nuova indicazione prevista | Sindrome dell'intestino irritabile |
-| Punteggio di predizione TxGNN | 0,9924 |
-| Livello di evidenza | L3 (evidenza indiretta: studi su analoghi del GLP-1, revisioni sistematiche e osservazionali; nessuno studio sul glucagone) |
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Sindrome dell'intestino irritabile (irritable bowel syndrome) |
+| Punteggio di previsione TxGNN | 0.9924 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
-| Decisione raccomandata | Hold (mantenere come domanda di ricerca) |
+| Decisione raccomandata | Hold |
 
-## Perché questa predizione è ragionevole?
+## Perché questa previsione è ragionevole?
 
-I dati sul meccanismo d'azione originale del glucagone non sono al momento disponibili. In base alle informazioni note, il glucagone è un peptide derivato dal proglucagone, che rilassa la muscolatura liscia gastrointestinale (effetto spasmolitico). Questo fornisce un possibile razionale meccanicistico per i sintomi dell'IBS legati alla dismotilità.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione del glucagone. In base alle conoscenze generali, il glucagone è un peptide derivato dal proglucagone e svolge un'azione spasmolitica, cioè rilassa la muscolatura liscia del tratto gastrointestinale. Questo potrebbe, in teoria, ridurre la dismotilità e il dolore tipici della sindrome dell'intestino irritabile.
 
-Un secondo collegamento, più indiretto, passa per il GLP-1 e i suoi agonisti, che condividono con il glucagone la via di segnalazione derivata dal proglucagone. Questi agenti inibiscono la motilità antro-duodeno-digiunale e rallentano il transito gastrointestinale. Ciò potrebbe attenuare la dismotilità e l'ipersensibilità viscerale tipiche dell'IBS, in particolare nel sottotipo con stipsi prevalente, forse anche tramite l'asse intestino-cervello.
+Un secondo filone di ragionamento riguarda il GLP-1, che condivide con il glucagone la via del proglucagone. Il GLP-1 e il suo analogo ROSE-010 rallentano la motilità antro-duodeno-digiunale e il transito gastrointestinale, e potrebbero agire anche attraverso l'asse intestino-cervello. L'estrapolazione dal GLP-1 al glucagone è tuttavia indiretta e non validata. Il punteggio elevato è una previsione computazionale e non sostituisce l'evidenza clinica.
 
-Va sottolineato che l'estrapolazione dagli agonisti del GLP-1 al glucagone è indiretta e non validata. Il punteggio TxGNN elevato è una predizione computazionale e non sostituisce l'evidenza clinica.
+## Evidenze dagli studi clinici
 
-## Evidenza dagli studi clinici
+Nessuno degli studi elencati testa il glucagone. Riguardano il GLP-1 nativo o un suo analogo, e offrono solo un supporto indiretto.
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fase 1/2 | Completato | 52 | Effetto di ROSE-010 (analogo del GLP-1) sulle funzioni motorie gastrointestinali in pazienti donne con IBS a prevalenza di stipsi. Popolazione pertinente, ma farmaco diverso dal glucagone |
-| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fase 1 | Completato | 12 | GLP-1 nativo vs analogo ROSE-010 sulla motilità antro-duodeno-digiunale postprandiale; studio meccanicistico, senza pazienti con IBS |
+| [NCT01056107](https://clinicaltrials.gov/study/NCT01056107) | Fase 1/2 | Completato | 52 | Effetto di ROSE-010 (analogo del GLP-1) sulle funzioni motorie gastrointestinali in donne con IBS a prevalenza di stipsi |
+| [NCT02731664](https://clinicaltrials.gov/study/NCT02731664) | Fase 1 | Completato | 12 | Il GLP-1 nativo inibisce la motilità antro-duodeno-digiunale postprandiale nell'uomo; studio meccanicistico |
 
-## Evidenza dalla letteratura
+## Evidenze dalla letteratura
+
+Le pubblicazioni riguardano soprattutto il GLP-1 e i suoi agonisti, non il glucagone.
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Revisione sistematica e meta-analisi | Front Endocrinol | Miglioramento dell'IBS con agonisti del recettore GLP-1; GLP-1 e ROSE-010 riducono la motilità gastrointestinale nei pazienti con IBS |
-| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Analisi esplorativa di studio clinico | Scand J Gastroenterol | ROSE-010 riduce il dolore durante gli attacchi di IBS; ricerca della sottopopolazione più adatta |
-| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Coorte | Ann Gastroenterol | Pattern di prescrizione e sospensione degli agonisti GLP-1 in pazienti con IBS |
-| [38997662](https://pubmed.ncbi.nlm.nih.gov/38997662/) | 2024 | Revisione sistematica | J Headache Pain | Ruolo degli agonisti GLP-1 nelle cefalee e nei disturbi dolorosi |
-| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Revisione | Exp Physiol | Ruolo delle cellule L e del GLP-1 nella fisiopatologia dell'IBS |
-| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Revisione | Adv Exp Med Biol | GLP-1 per aerosol nel trattamento di diabete e IBS |
-| [30023410](https://pubmed.ncbi.nlm.nih.gov/30023410/) | 2018 | Revisione | Cell Mol Gastroenterol Hepatol | Interazioni bidirezionali nell'asse cervello-intestino-microbioma |
-| [41480755](https://pubmed.ncbi.nlm.nih.gov/41480755/) | 2026 | Revisione | J Clin Invest | Meccanismi e implicazioni cliniche delle interazioni intestino-cervello, incluse le terapie a base di incretine |
-| [26765585](https://pubmed.ncbi.nlm.nih.gov/26765585/) | 2016 | Revisione | Expert Opin Investig Drugs | Nuovi farmaci sperimentali per l'IBS a prevalenza di stipsi |
-| [41974246](https://pubmed.ncbi.nlm.nih.gov/41974246/) | 2026 | Revisione | Clin Gastroenterol Hepatol | Lacune assistenziali nell'IBS e terapie future basate sulla modulazione delle afferenze viscerali |
+| [40134805](https://pubmed.ncbi.nlm.nih.gov/40134805/) | 2025 | Revisione sistematica | Front Endocrinol | Revisione sistematica e meta-analisi sugli agonisti del recettore GLP-1 nella sindrome dell'intestino irritabile |
+| [35234561](https://pubmed.ncbi.nlm.nih.gov/35234561/) | 2022 | Analisi esploratoria | Scand J Gastroenterol | Sollievo dal dolore con l'agonista GLP-1 ROSE-010 nell'IBS, analisi per caratteristiche dei pazienti |
+| [40697433](https://pubmed.ncbi.nlm.nih.gov/40697433/) | 2025 | Coorte | Ann Gastroenterol | Prescrizione e sospensione degli agonisti GLP-1 in pazienti con IBS |
+| [30444291](https://pubmed.ncbi.nlm.nih.gov/30444291/) | 2019 | Revisione | Exp Physiol | Ruolo del GLP-1 nella fisiopatologia dell'IBS |
+| [25427821](https://pubmed.ncbi.nlm.nih.gov/25427821/) | 2015 | Revisione | Adv Exp Med Biol | GLP-1 aerosolizzato per diabete e IBS |
+| [40880735](https://pubmed.ncbi.nlm.nih.gov/40880735/) | 2025 | Studio osservazionale | Front Nutr | Aumento del GLP-1 circolante dopo dieta low FODMAP in pazienti con IBS |
 
 ## Informazioni sul mercato italiano
 
@@ -91,23 +89,23 @@ Va sottolineato che l'estrapolazione dagli agonisti del GLP-1 al glucagone è in
 
 ## Considerazioni sulla sicurezza
 
-- **Interazioni farmacologiche**: sono state rilevate 25 interazioni, tutte di livello lieve (Minor) secondo DDInter. Tra le principali: warfarin e numerosi beta-bloccanti (ad es. atenololo, bisoprololo, carvedilolo, metoprololo, propranololo, nadololo, labetalolo, sotalolo, timololo, esmololo), anche in formulazioni oftalmiche.
+**Interazioni farmacologiche**: sono state rilevate 25 interazioni, tutte di livello minore. Tra le principali figurano il warfarin e numerosi beta-bloccanti (ad esempio acebutololo, atenololo, bisoprololo, carvedilolo, metoprololo, propranololo).
 
-Per le avvertenze e le controindicazioni, consultare il foglio illustrativo.
+Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è alto, ma le evidenze cliniche riguardano solo analoghi del GLP-1 e non il glucagone. Le autorizzazioni italiane sono tutte revocate e mancano dati su meccanismo d'azione, avvertenze e controindicazioni. Il caso resta, per ora, una domanda di ricerca.
+- Nessuno studio ha testato il glucagone nella sindrome dell'intestino irritabile: il supporto proviene solo da studi sul GLP-1 e sui suoi agonisti, farmaci diversi. Il livello di evidenza è L5 e l'ipotesi resta una domanda di ricerca.
 
-**Per procedere sono necessari:**
-- Dati sul meccanismo d'azione del glucagone (ad es. da DrugBank)
-- Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
-- Chiarimento dello stato regolatorio e delle indicazioni originali, dato che le licenze risultano revocate e senza testo d'indicazione
-- Evidenze dirette sul glucagone (ad es. studi sull'effetto spasmolitico nell'IBS) o una giustificazione dell'estrapolazione dal GLP-1
-- Verifica della compatibilità delle vie di somministrazione per l'uso nell'IBS
+**Per procedere è necessario:**
+- Studi clinici che valutino direttamente il glucagone nella sindrome dell'intestino irritabile
+- Dati sul meccanismo d'azione del glucagone e sul suo legame con la motilità intestinale
+- Dati di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
+- Valutazione della via di somministrazione e della posologia adatte a un uso cronico
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
