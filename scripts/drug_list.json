@@ -1,6 +1,6 @@
 {
   "total": 418,
-  "generated_at": "2026-11-04T04:39:29.754711",
+  "generated_at": "2026-11-04T19:16:38.256679",
   "drugs": [
     {
       "name": "Abacavir",
@@ -418,7 +418,7 @@
     {
       "name": "Ampicillin",
       "file": "ampicillin.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "ampicillin",
@@ -464,7 +464,7 @@
     {
       "name": "Apixaban",
       "file": "apixaban.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "APIXABAN",
@@ -767,7 +767,7 @@
     {
       "name": "Bicalutamide",
       "file": "bicalutamide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "BICALUTAMIDE",
@@ -1807,7 +1807,7 @@
     {
       "name": "Dienogest",
       "file": "dienogest.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "DIENOGEST",
@@ -2153,7 +2153,7 @@
     {
       "name": "Entecavir",
       "file": "entecavir.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "ENTECAVIR",
@@ -2235,7 +2235,7 @@
     {
       "name": "Etelcalcetide",
       "file": "etelcalcetide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 4,
       "predicted_indication": "",
       "inn": "ETELCALCETIDE",
@@ -2249,7 +2249,7 @@
     {
       "name": "Ethambutol",
       "file": "ethambutol.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "ethambutol",
@@ -2919,7 +2919,7 @@
     {
       "name": "Glucagon",
       "file": "glucagon.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "glucagon",
@@ -2963,7 +2963,7 @@
     {
       "name": "Grazoprevir",
       "file": "grazoprevir.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "grazoprevir",
@@ -3568,7 +3568,7 @@
     {
       "name": "Levonorgestrel",
       "file": "levonorgestrel.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "levonorgestrel",
@@ -3842,7 +3842,7 @@
     {
       "name": "Mercaptopurine",
       "file": "mercaptopurine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "Mercaptopurine",
@@ -4171,7 +4171,7 @@
     {
       "name": "Modafinil",
       "file": "modafinil.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "MODAFINIL",
@@ -4223,7 +4223,7 @@
     {
       "name": "Morphine",
       "file": "morphine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Morphine",
@@ -4457,7 +4457,7 @@
     {
       "name": "Omalizumab",
       "file": "omalizumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "OMALIZUMAB",
@@ -4848,7 +4848,7 @@
     {
       "name": "Pitolisant",
       "file": "pitolisant.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
       "predicted_indication": "",
       "inn": "PITOLISANT",
@@ -5070,7 +5070,7 @@
     {
       "name": "Quetiapine",
       "file": "quetiapine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Quetiapine",
@@ -5663,7 +5663,7 @@
     {
       "name": "Sirolimus",
       "file": "sirolimus.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "SIROLIMUS",
@@ -5697,7 +5697,7 @@
     {
       "name": "Solriamfetol",
       "file": "solriamfetol.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "solriamfetol",
