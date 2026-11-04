@@ -17,9 +17,22 @@ Questo progetto utilizza il modello TxGNN (apprendimento profondo) per prevedere
 <!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
 ## Italia: cosa copre questo sito
 
-Questo sito pubblica rapporti su **{{ site.data.drug_stats.total_drugs }}** medicinali presenti nei dati di autorizzazione ([AIFA](https://www.aifa.gov.it/), Italia).
+Questo sito pubblica rapporti su **{{ site.data.drug_stats.total_drugs }}** medicinali presenti nelle [liste AIFA dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h) (Italia); la classe C non è inclusa.
 
-Rapporti per livello di evidenza: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+Set di dati: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h); viene scaricato e confrontato automaticamente ogni settimana (il lunedì). Dettagli: [Fonti dei dati]({{ '/sources/' | relative_url }}).
+
+Rapporti per livello di evidenza:
+
+| Livello di evidenza | Rapporti | Quota |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+2 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
 
 ### Medicinali con il livello di evidenza più alto su questo sito
 
@@ -28,13 +41,13 @@ Rapporti per livello di evidenza: L1 {{ site.data.drug_stats.level_counts.L1 }} 
 | [Bupropion](/drugs/bupropion/) | L1 |
 | [Cefprozil](/drugs/cefprozil/) | L1 |
 | [Imiquimod](/drugs/imiquimod/) | L1 |
-| [Lanadelumab](/drugs/lanadelumab/) | L1 |
-| [Oteracil](/drugs/oteracil/) | L1 |
-| [Rifabutin](/drugs/rifabutin/) | L1 |
-| [Solriamfetol](/drugs/solriamfetol/) | L1 |
-| [Tegafur](/drugs/tegafur/) | L1 |
 | [Ribavirin](/drugs/ribavirin/) | L1 |
 | [Clomipramine](/drugs/clomipramine/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Tacrolimus](/drugs/tacrolimus/) | L1 |
+| [Solriamfetol](/drugs/solriamfetol/) | L2 |
+| [Flecainide](/drugs/flecainide/) | L2 |
+| [Everolimus](/drugs/everolimus/) | L2 |
 
 ### Medicinali coperti solo da questo sito tra i 30 siti TxGNN
 
@@ -46,15 +59,6 @@ Rapporti per livello di evidenza: L1 {{ site.data.drug_stats.level_counts.L1 }} 
 
 ## Informazioni sullo Sviluppatore
 
-Questa piattaforma è sviluppata e gestita da **藥提醒科技有限公司** (yao.care, numero di registrazione
-societaria 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-ITTxGNN è il sito italiano della linea di prodotti "TxGNN Drug Repurposing" dell'azienda.
-Lo stesso sistema è distribuito in 30 paesi e regioni, ciascuno denominato `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN e così via) all'indirizzo `{cc}txgnn.yao.care`.
-Panoramica del prodotto: <https://www.yao.care/medical/txgnn/>.
-
-Il modello TxGNN è stato sviluppato dallo Zitnik Lab della Harvard Medical School ed è stato pubblicato
-su *Nature Medicine*. Questa piattaforma è il sistema di produzione che 藥提醒科技有限公司 ha costruito
-su tale modello e comprende l'integrazione dei dati nazionali di registrazione dei farmaci, la previsione tramite deep learning che esclude gli usi già registrati nel grafo di conoscenza, la classificazione delle prove da
-PubMed / ClinicalTrials e l'integrazione con le cartelle cliniche elettroniche tramite SMART on FHIR.
+Questa piattaforma è sviluppata e gestita da **藥提醒科技有限公司** (yao.care). Le informazioni sull'azienda,
+il contesto del modello TxGNN e l'elenco completo dei siti della linea di prodotti si trovano nella pagina
+<a href="{{ '/about/' | relative_url }}">Informazioni</a>.
