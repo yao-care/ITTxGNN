@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Modafinil
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 307
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Modafinil
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **1** 
+Livello di evidenza: **L5** | Indicazioni previste: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,53 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 </div>
 
-## Modafinil: Insonnia (insomnia (disease))
+## Modafinil: insonnia (insomnia (disease))
 {: .text-alpha }
 
-## Sintesi in una frase
+## Sintesi
 
-Il modafinil è un farmaco che promuove la veglia, originariamente utilizzato per il trattamento della narcolessia e dei disturbi correlati.
-Il modello TxGNN predice che possa essere efficace per l'**insonnia**, ma il supporto è debole: **2 studi clinici** (uno terminato con soli 2 partecipanti) e una letteratura composta soprattutto da revisioni e linee guida, senza prove dirette di beneficio nell'insonnia.
+Il modafinil è un farmaco che promuove la veglia, utilizzato per contrastare la sonnolenza diurna eccessiva. Il modello TxGNN lo indica come possibile candidato per l'**insonnia (insomnia (disease))**, ma le evidenze dirette sono molto limitate: nei dati compilati per questo report c'è **1 studio clinico completato** sull'insonnia primaria (piccolo e senza risultati pubblicati) e nessuna pubblicazione che studi direttamente questa condizione. Il livello di evidenza è **L5**.
 
-## Panoramica rapida
+## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
-| Nuova indicazione prevista | Insonnia (insomnia (disease)) |
+| Nuova indicazione prevista | insonnia (insomnia (disease)) |
 | Punteggio di predizione TxGNN | 0.9985 |
-| Livello di evidenza | L3 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 | Decisione raccomandata | Hold |
 
-## Perché questa predizione può essere ragionevole?
+## Perché questa predizione può essere ragionevole (o no)?
 
-I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il modafinil è un agente che promuove la veglia, ritenuto agire soprattutto tramite l'inibizione del trasportatore della dopamina, con effetti a valle sui circuiti istaminergici, orexinergici e glutammatergici della veglia.
+I dati sul meccanismo d'azione non sono disponibili in forma dettagliata. In generale si ritiene che il modafinil agisca soprattutto attraverso l'inibizione del trasportatore della dopamina, con effetti a valle sui circuiti della veglia (istaminergici, oressinergici e glutammatergici).
 
-Proprio perché promuove la veglia e non il sonno, un legame terapeutico diretto con il trattamento dell'insonnia è meccanicisticamente controintuitivo. Il collegamento più plausibile riguarda i disturbi del sonno/veglia e la sonnolenza diurna che accompagnano quadri simili all'insonnia, ad esempio negli anziani, nelle malattie neurologiche (morbo di Parkinson, malattia del motoneurone) e nel disturbo da lavoro a turni.
+Proprio perché promuove la veglia anziché il sonno, un beneficio diretto sull'insonnia come malattia è meccanicisticamente controintuitivo. Il collegamento più plausibile riguarda i disturbi del ritmo sonno-veglia e la sonnolenza diurna che accompagnano alcune presentazioni simili all'insonnia, per esempio negli anziani, nelle malattie neurologiche (come il morbo di Parkinson) e nel disturbo da lavoro a turni.
 
-Il punteggio molto alto di TxGNN (0,9985) è una predizione computazionale e può riflettere la vicinanza nella rete alle indicazioni originali legate al sonno (narcolessia) più che un reale beneficio nell'insonnia. Non va considerato un'evidenza clinica. Inoltre il modafinil può peggiorare l'insonnia: il beneficio per l'insonnia come malattia è improbabile e il farmaco potrebbe risultare controproducente.
+Il punteggio elevato (0,9985) è una predizione computazionale e può riflettere la prossimità del farmaco, nella rete di dati, alle indicazioni legate al sonno-veglia, più che un reale beneficio sull'insonnia. Non va considerato un'evidenza clinica. Esiste inoltre il rischio che il modafinil peggiori l'insonnia.
 
-## Evidenze degli studi clinici
+## Evidenze dagli studi clinici
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fase 4 | Completato | 40 | Effetti del modafinil, da solo o con terapia cognitivo-comportamentale per l'insonnia (CBT-I), sul funzionamento diurno e sulla gravità dell'insonnia; piccolo campione, disegno non chiaro (rilevanza B) |
-| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fase 4 | Terminato | 2 | Modafinil per i disturbi sonno/veglia negli anziani; terminato con 2 partecipanti, nessun dato interpretabile (rilevanza C) |
+| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Fase 4 | Completato | 40 | Effetti del modafinil, da solo o con terapia cognitivo-comportamentale per l'insonnia (CBT-I), sul funzionamento diurno e sulla gravità dell'insonnia primaria; risultati non pubblicati |
+| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Fase 4 | Terminato | 2 | Disturbi del sonno/veglia negli anziani; interrotto con soli 2 partecipanti, nessun dato interpretabile |
 
 ## Evidenze dalla letteratura
 
+Le pubblicazioni raccolte riguardano condizioni correlate (sonnolenza diurna e fatica in malattie neurologiche, narcolessia, disturbo da lavoro a turni, apnea ostruttiva del sonno) e non studiano direttamente l'insonnia. Le più rilevanti sono:
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Revisione sistematica/meta-analisi | PloS one | Efficacia e sicurezza del modafinil su fatica e sonnolenza diurna associate a disturbi neurologici; risultati degli studi non uniformi |
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Revisione sistematica/meta-analisi | Parkinsonism & Related Disorders | Interventi farmacologici per sonnolenza diurna e disturbi del sonno nel Parkinson; pochi studi clinici disponibili |
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Revisione | Drugs | Revisione basata sulle evidenze degli usi approvati e sperimentali del modafinil |
-| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Revisione | Movement Disorders | Revisione MDS dei trattamenti per i sintomi non motori del Parkinson |
-| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Serie di casi | Am J Hosp Palliat Care | Il modafinil ha ridotto la fatica nella malattia di Charcot-Marie-Tooth tipo 1A |
-| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Revisione | Drugs | Carico di malattia e gestione del disturbo del sonno da lavoro a turni |
-| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Revisione | Postgraduate Medicine | Teorie e terapie emergenti per il disturbo da lavoro a turni |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Revisione | Revue Neurologique | Narcolessia con cataplessia: quadro clinico e gestione |
-| [20166851](https://pubmed.ncbi.nlm.nih.gov/20166851/) | 2010 | Revisione | Expert Opin Emerg Drugs | Trattamenti emergenti per la narcolessia e i disturbi correlati |
-| [41820035](https://pubmed.ncbi.nlm.nih.gov/41820035/) | 2026 | Linea guida | Zhonghua Jie He He Hu Xi Za Zhi | Linee guida per diagnosi e trattamento dell'apnea ostruttiva del sonno negli adulti (2025) |
-
-Nessuna di queste pubblicazioni dimostra direttamente l'efficacia del modafinil nel trattamento dell'insonnia.
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Revisione sistematica/meta-analisi | PloS one | Efficacia del modafinil su fatica e sonnolenza diurna associate a malattie neurologiche |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Revisione sistematica/meta-analisi | Parkinsonism & related disorders | Interventi farmacologici per sonnolenza diurna e disturbi del sonno nel Parkinson |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Revisione | Drugs | Usi approvati e sperimentali del modafinil, basati su studi randomizzati |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Revisione | Movement Disorders | Trattamenti dei sintomi non motori del Parkinson |
+| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Revisione | Drugs | Impatto e gestione del disturbo da lavoro a turni |
+| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Revisione | Postgraduate medicine | Terapie emergenti per il disturbo da lavoro a turni |
+| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Serie di casi | Am J Hosp Palliat Care | Il modafinil riduce la fatica nella malattia di Charcot-Marie-Tooth 1A |
 
 ## Informazioni sul mercato italiano
 
@@ -93,24 +89,22 @@ Nessuna di queste pubblicazioni dimostra direttamente l'efficacia del modafinil 
 
 ## Considerazioni sulla sicurezza
 
-- **Controindicazioni derivate dal grafo di conoscenza** (non dal testo del foglietto illustrativo): ipertensione, insufficienza epatica, disturbi d'ansia, disturbi nevrotici e distimici, disturbi psicotici (incluso schizoaffettivo e schizofreniforme), disturbi mentali, abuso/dipendenza da sostanze, sindrome coronarica acuta, infarto miocardico, cardiopatia ischemica e coronaropatia, prolasso della valvola mitrale, sindrome da tachicardia posturale ortostatica, emoglobinopatie.
-- **Interazioni farmacologiche**: sono state identificate 100 interazioni; tra quelle elencate, di livello **moderato**: rabeprazolo, omeprazolo, esomeprazolo, desametasone, eliglustat, linagliptin, cisapride. Le altre voci mostrate (es. idrocortisone, pioglitazone, aprepitant, claritromicina, cimetidina) sono di livello **minore**.
-- Il modafinil può peggiorare l'insonnia, rilevante per questa indicazione.
+- **Interazioni farmacologiche** (principali, su 100 segnalate): livello moderato con rabeprazolo, omeprazolo, esomeprazolo, desametasone, eliglustat, linagliptin e cisapride; numerose interazioni di livello minore (ad es. idrocortisone, pioglitazone, aprepitant, claritromicina, cimetidina).
+- Per avvertenze e controindicazioni si rimanda al foglio illustrativo, non disponibile nei dati compilati per questo report. Condizioni da valutare con cautela, in base alle relazioni farmaco-malattia disponibili: ipertensione, insufficienza epatica, disturbi d'ansia, disturbi psicotici, abuso/dipendenza da sostanze, sindrome coronarica acuta, infarto miocardico, cardiopatia ischemica e prolasso della valvola mitrale.
 
-Per le avvertenze e le controindicazioni formali, consultare il foglietto illustrativo.
-
-## Conclusione e passi successivi
+## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è elevato, ma le evidenze sono scarse (un solo studio completato di fase 4, con 40 partecipanti e disegno poco chiaro) e il meccanismo di promozione della veglia è contrario al trattamento dell'insonnia. Inoltre il prodotto non è attualmente commercializzato in Italia.
+La predizione si basa essenzialmente sul modello: l'unico studio completato sull'insonnia primaria è piccolo e senza risultati pubblicati, la letteratura riguarda condizioni diverse e il meccanismo d'azione (promozione della veglia) è in contrasto con l'obiettivo terapeutico. Il livello di evidenza è L5.
 
-**Per procedere, sono necessari:**
-- Dati sul meccanismo d'azione e analisi del legame meccanicistico con l'insonnia
-- Foglietto illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
-- Risultati dello studio NCT00124384 e, se giustificato, studi controllati randomizzati sull'insonnia o su sottopopolazioni con sonnolenza diurna (anziani, malattie neurologiche, lavoro a turni)
-- Una verifica della plausibilità clinica del rischio di peggioramento dell'insonnia
+**Per procedere sono necessari:**
+- Risultati pubblicati o resi disponibili dello studio NCT00124384 sull'insonnia primaria
+- Studi controllati e randomizzati che valutino direttamente il modafinil nell'insonnia
+- Dati dettagliati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, con una valutazione del rischio di peggioramento dell'insonnia
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

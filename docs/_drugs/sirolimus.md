@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sirolimus
-parent: Prove moderate (L3-L4)
+parent: Solo previsione del modello (L5)
 nav_order: 407
-evidence_level: L3
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
-description: "Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Livello di evidenza: **L3** | Indicazioni previste: **6** 
+Livello di evidenza: **L5** | Indicazioni previste: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,42 +36,56 @@ Livello di evidenza: **L3** | Indicazioni previste: **6**
 ## Sirolimus: Liposarcoma
 {: .text-alpha }
 
-## Sintesi
+## Riepilogo in una frase
 
-Sirolimus è un inibitore della via mTOR, già autorizzato e commercializzato in Italia con quattro autorizzazioni valide. Il modello TxGNN lo indica come possibile opzione per il **liposarcoma (liposarcoma)**. A sostegno di questa direzione ci sono **1 studio clinico** di fase 2 a braccio singolo, in combinazione con un altro farmaco, e **7 pubblicazioni**, in gran parte revisioni e osservazioni indirette.
+Sirolimus è un inibitore di mTOR (mTORC1) utilizzato in Italia con il marchio Rapamune.
+Il modello TxGNN prevede una possibile efficacia nel **liposarcoma (liposarcoma)**.
+I dati compilati per questo report includono **1 studio clinico** (fase 2, a braccio singolo, in combinazione, senza risultati pubblicati) e letteratura solo indiretta: nessuno studio pubblicato verifica direttamente sirolimus nel liposarcoma, quindi il livello di evidenza è **L5**.
 
-## Quadro generale
+---
+
+## Quadro di sintesi
 
 | Voce | Contenuto |
 |------|------|
 | Indicazione originale | Non riportata nei dati locali |
 | Nuova indicazione prevista | Liposarcoma |
 | Punteggio di predizione TxGNN | 0.9989 |
-| Livello di evidenza | L3 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
 | Numero di autorizzazioni | 4 (valide: 4) |
 | Decisione raccomandata | Hold |
 
+---
+
 ## Perché questa predizione è plausibile?
 
-I dati compilati per questo report non riportano una descrizione dettagliata del meccanismo d'azione. Sirolimus è però un inibitore noto del complesso mTORC1. Nei sarcomi la via PI3K/AKT/mTOR risulta attivata, e questo rende biologicamente sensato bloccarla. Il razionale è inoltre supportato da modelli sperimentali in cui l'inibizione di mTOR riduce la crescita tumorale.
+I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, sirolimus inibisce mTORC1, una chinasi che regola crescita e proliferazione cellulare.
 
-L'evidenza clinica diretta è però limitata. L'unico studio disponibile associa sirolimus a un altro farmaco e non ha un gruppo di confronto randomizzato, quindi non permette di isolare il contributo del solo sirolimus. Gli altri lavori sono soprattutto revisioni sui sarcomi dei tessuti molli e osservazioni sul rischio oncologico nei pazienti trapiantati.
+L'attivazione della via PI3K/AKT/mTOR è implicata nella biologia dei sarcomi, e modelli murini indicano che l'inibizione di mTOR può frenare la crescita tumorale. Questo rende il razionale meccanicistico plausibile per il liposarcoma.
 
-## Evidenze dagli studi clinici
+Va però sottolineato che la predizione non è confermata da studi pubblicati sul liposarcoma: l'unico studio clinico associato è a braccio singolo, in combinazione con ciclofosfamide, e non consente di isolare il contributo di sirolimus.
+
+---
+
+## Evidenze da studi clinici
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Fase 2 | Completato | 70 | Studio multicentrico a braccio singolo su sirolimus più ciclofosfamide in liposarcoma mixoide e condrosarcoma metastatici o non resecabili. Il disegno a braccio singolo e la terapia di combinazione limitano l'attribuzione dell'effetto a sirolimus. La dimensione del sottogruppo con liposarcoma non è indicata nei dati disponibili. |
+| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Fase 2 | Completato | 70 | Studio a braccio singolo su sirolimus più ciclofosfamide nel liposarcoma mixoide e nel condrosarcoma metastatici o non resecabili; nessun risultato pubblicato o registrato |
+
+---
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | RCT (analisi secondaria) | J Am Soc Nephrol | Nel trapianto renale, la terapia con sirolimus dopo sospensione precoce della ciclosporina riduce il rischio di tumori. Il lavoro riguarda il rischio oncologico nei trapiantati, non il trattamento del liposarcoma. |
-| [39796641](https://pubmed.ncbi.nlm.nih.gov/39796641/) | 2024 | Revisione | Cancers | Panoramica dei progressi molecolari e terapeutici nei sarcomi dei tessuti molli. |
-| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Revisione | Curr Opin Oncol | Razionale e risultati dei recenti studi clinici con agenti a bersaglio molecolare nei sarcomi avanzati. |
-| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Revisione | Bull Cancer | Trattamenti mirati dei sarcomi e dei tumori rari del tessuto connettivo, suddivisi per alterazione molecolare. |
+| [39796641](https://pubmed.ncbi.nlm.nih.gov/39796641/) | 2024 | Revisione | Cancers | Panoramica delle nuove terapie nei sarcomi dei tessuti molli |
+| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Revisione | Current Opinion in Oncology | Razionale e risultati di trial con agenti a bersaglio molecolare nei sarcomi avanzati |
+| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Revisione | Bulletin du Cancer | Trattamenti mirati dei tumori rari del tessuto connettivo e dei sarcomi |
+| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | RCT (analisi secondaria) | JASN | Nei trapiantati di rene, sirolimus dopo sospensione precoce della ciclosporina riduce il rischio di tumori; non riguarda il liposarcoma |
+
+---
 
 ## Informazioni sul mercato italiano
 
@@ -82,30 +96,41 @@ L'evidenza clinica diretta è però limitata. L'unico studio disponibile associa
 | 035120094 | RAPAMUNE 30 cpr rivestite 2 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
 | 035120120 | RAPAMUNE 100 cpr rivestite 0,5 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
 
-Titolare di tutte le autorizzazioni: Pfizer Europe MA EEIG.
+---
+
+## Citotossicità
+
+| Voce | Contenuto |
+|------|------|
+| Classificazione di citotossicità | Terapia a bersaglio molecolare (inibitore di mTOR) |
+| Rischio di mielosoppressione | Consultare le avvertenze e precauzioni del foglio illustrativo |
+| Classificazione emetogena | Consultare le avvertenze e precauzioni del foglio illustrativo |
+| Parametri da monitorare | Emocromo, funzionalità epatica e renale, lipidi e glicemia |
+| Protezione nella manipolazione | Consultare le avvertenze e precauzioni del foglio illustrativo |
+
+---
 
 ## Considerazioni di sicurezza
 
-**Interazioni farmacologiche**: nei dati compilati sono state individuate 100 interazioni. Tra quelle di livello **maggiore** figurano amfotericina B (anche in formulazione lipidica), mesalazina, balsalazide e claritromicina. Tra quelle di livello **moderato** figurano:
-- corticosteroidi (idrocortisone, desametasone, betametasone, budesonide, triamcinolone);
-- diversi antidiabetici (metformina, pioglitazone, acarbosio, alogliptin, canagliflozin, clorpropamide, dapagliflozin, albiglutide);
-- cimetidina e aprepitant.
+- **Interazioni farmacologiche**: sono state rilevate numerose interazioni (100 in totale). Tra quelle di livello **maggiore**: amfotericina B (anche in complesso lipidico), mesalazina, balsalazide e claritromicina. Tra quelle di livello moderato: acarbose, metformina, pioglitazone, idrocortisone, desametasone, aprepitant e cimetidina.
 
-Per le avvertenze e le controindicazioni, consultare il foglio illustrativo.
+Per le avvertenze e le controindicazioni complete, consultare il foglio illustrativo.
+
+---
 
 ## Conclusione e prossimi passi
 
 **Decisione: Hold**
 
 **Motivazione:**
-- Il punteggio TxGNN è molto alto e il razionale legato a mTOR è credibile.
-- L'evidenza clinica diretta si riduce a un solo studio di fase 2 a braccio singolo in combinazione, senza confronto randomizzato, e il resto della letteratura è indiretto.
+Nessuno studio pubblicato verifica sirolimus nel liposarcoma. L'unico studio clinico è a braccio singolo, in combinazione e senza risultati disponibili, quindi il sostegno si basa essenzialmente sulla predizione del modello e sul razionale meccanicistico (livello L5).
 
 **Per procedere sono necessari:**
-- Dati su sirolimus in monoterapia nel liposarcoma, idealmente da studi randomizzati o con risultati specifici per sottotipo.
-- I risultati pubblicati dello studio NCT02821507, con il dettaglio del sottogruppo con liposarcoma.
-- Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglio illustrativo AIFA.
-- Un piano di monitoraggio della sicurezza che copra rischio infettivo, profilo lipidico e interazioni con i substrati/inibitori di CYP3A4 e P-gp.
+- Pubblicazione o disponibilità dei risultati dello studio NCT02821507, con dati specifici sul sottogruppo di liposarcoma
+- Dati dettagliati sul meccanismo d'azione
+- Testo del foglio illustrativo AIFA con avvertenze e controindicazioni
+- Studi comparativi o randomizzati per isolare il contributo di sirolimus
+- Piano di monitoraggio della sicurezza (infezioni, lipidi, interazioni CYP3A4/P-gp)
 
 ## Avvertenza
 
