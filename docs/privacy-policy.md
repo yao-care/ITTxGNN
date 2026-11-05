@@ -32,7 +32,7 @@ politiche:
 | Servizio | Finalità | Informativa sulla privacy |
 |---------|---------|----------------|
 | GitHub Pages | Hosting del sito | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| d3js.org | Libreria per la creazione di grafici | CDN di risorse statiche |
+| cdn.jsdelivr.net | Libreria per la creazione di grafici | CDN di risorse statiche |
 | giscus | Commenti (dove abilitati) | [giscus](https://giscus.app/) |
 
 Quando avvii attivamente l'app SMART on FHIR, questa richiede i dati sui farmaci al tuo sistema di cartella
