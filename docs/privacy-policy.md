@@ -32,8 +32,10 @@ politiche:
 | Servizio | Finalità | Informativa sulla privacy |
 |---------|---------|----------------|
 | GitHub Pages | Hosting del sito | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| cdn.jsdelivr.net | Libreria per la creazione di grafici | CDN di risorse statiche |
-| giscus | Commenti (dove abilitati) | [giscus](https://giscus.app/) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | Statistiche di visita (pagine viste, provenienza); usa cookie di analisi. Non vengono inviati termini di ricerca, contenuti dei moduli né parametri dell’URL. | [Norme sulla privacy di Google](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | Librerie di script: grafici d3 in tutte le pagine; Fuse.js per il confronto dei nomi e il client SMART on FHIR nelle pagine SMART | [Informativa sulla privacy di jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | Ricerca di sperimentazioni cliniche nelle pagine SMART: solo quando la richiede, i nomi del farmaco e dell’indicazione vengono inviati all’API di ClinicalTrials.gov | [Politiche web della NLM](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | App SMART: i codici RxNorm dei farmaci letti dalla sua cartella clinica elettronica vengono inviati all’API RxNav della NLM per ricavare il nome del principio attivo (nessun identificativo del paziente) | [Politiche web della NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Quando avvii attivamente l'app SMART on FHIR, questa richiede i dati sui farmaci al tuo sistema di cartella
 clinica elettronica. Tali dati sono <strong>elaborati interamente all'interno del tuo browser</strong>; non vengono
