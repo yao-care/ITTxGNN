@@ -3,13 +3,13 @@ layout: default
 title: Informativa sulla privacy
 nav_order: 95
 permalink: /privacy-policy/
-description: "Informativa sulla privacy di ITTxGNN: questo è un sito statico e non raccoglie dati personali."
+description: "Informativa sulla privacy di ITTxGNN: sito statico senza account né moduli; utilizza i cookie analitici di Google Analytics 4 per le statistiche di utilizzo."
 ---
 
 # Informativa sulla privacy
 
 <div class="key-takeaway">
-Questo è un sito statico — nessuna registrazione richiesta, nessun dato personale identificabile raccolto.
+Questo è un sito statico — nessuna registrazione, nessun modulo. Utilizza i cookie analitici di Google Analytics 4 per elaborare statistiche di utilizzo.
 </div>
 
 ---
@@ -17,9 +17,11 @@ Questo è un sito statico — nessuna registrazione richiesta, nessun dato perso
 ## Che cosa raccogliamo
 
 <p class="key-answer" data-question="ITTxGNN raccoglie dati personali?">
-<strong>No.</strong> Questo sito è ospitato su GitHub Pages come sito puramente statico. Non esiste alcun
-sistema di account, non ci sono moduli e non vengono utilizzati cookie di tracciamento. Non raccogliamo nomi, indirizzi e-mail,
-cartelle cliniche né alcuna informazione personale identificabile.
+<strong>Solo statistiche di utilizzo, tramite Google Analytics 4.</strong> Questo sito è ospitato su GitHub Pages come sito
+puramente statico. Non esiste alcun sistema di account e non ci sono moduli, e non raccogliamo nomi, indirizzi e-mail né
+cartelle cliniche. Il sito utilizza i cookie analitici di Google Analytics 4 per elaborare statistiche di utilizzo (pagine
+visualizzate, sito di provenienza, profondità di scorrimento e tempo sulla pagina). I cookie vengono impostati al
+caricamento della pagina; termini di ricerca, contenuti dei moduli e parametri di query dell'URL non vengono inviati.
 </p>
 
 ---
@@ -38,14 +40,18 @@ politiche:
 | rxnav.nlm.nih.gov | App SMART: i codici RxNorm dei farmaci letti dalla sua cartella clinica elettronica vengono inviati all’API RxNav della NLM per ricavare il nome del principio attivo (nessun identificativo del paziente) | [Politiche web della NLM](https://www.nlm.nih.gov/web_policies.html) |
 
 Quando avvii attivamente l'app SMART on FHIR, questa richiede i dati sui farmaci al tuo sistema di cartella
-clinica elettronica. Tali dati sono <strong>elaborati interamente all'interno del tuo browser</strong>; non vengono
-mai inviati ai server di questo sito e non vengono conservati.
+clinica elettronica. L'identità del paziente e i dati della cartella clinica <strong>non vengono inviati ai server di questo
+sito</strong> (è un sito statico, senza backend) e questo sito non li conserva. Per abbinare i nomi dei farmaci, l'app invia i
+loro codici RxNorm al servizio RxNav della National Library of Medicine statunitense; questi codici non contengono dati
+identificativi del paziente. Quando richiedi gli studi clinici, il nome del farmaco e l'indicazione vengono inviati a
+ClinicalTrials.gov.
 
 ---
 
 ## Diritti dell'interessato
 
-Poiché questo sito non raccoglie dati personali, non vi è nulla a cui accedere, da rettificare o da cancellare.
+Questo sito non ha account e non conserva dati personali su server propri (non ne ha). Le statistiche di utilizzo sono
+raccolte da Google Analytics 4; puoi bloccare o eliminare i suoi cookie nelle impostazioni del browser.
 Per domande su questa informativa, scrivere a service@yao.care.
 
 ---
