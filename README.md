@@ -20,27 +20,28 @@ Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle li
 | Elemento | Quantita |
 |------|------|
 | **Rapporti sui farmaci** | 436 |
-| **Previsioni totali** | 7,794,696 |
-| **Farmaci unici** | 407 |
-| **Indicazioni uniche** | 16,985 |
+| **Previsioni totali** | 14,239,352 |
+| **Farmaci unici** | 596 |
+| **Indicazioni uniche** | 16,996 |
 | **Dati DDI** | 160,235 |
-| **Risorse FHIR** | 333 MK / 1,860 CUD |
+| **Risorse FHIR** | 510 MK / 2,725 CUD |
 
 ### Distribuzione dei livelli di evidenza
 
 | Livello di evidenza | Numero di rapporti | Descrizione |
 |---------|-------|------|
-| **L1** | 0 | Multipli RCT di Fase 3 |
-| **L2** | 0 | RCT singolo o multipli Fase 2 |
-| **L3** | 0 | Studi osservazionali |
-| **L4** | 0 | Studi preclinici / meccanicistici |
-| **L5** | 333 | Solo previsione computazionale |
+| **L1** | 7 | Multipli RCT di Fase 3 |
+| **L2** | 12 | RCT singolo o multipli Fase 2 |
+| **L3** | 17 | Studi osservazionali |
+| **L4** | 24 | Studi preclinici / meccanicistici |
+| **L5** | 358 | Solo previsione computazionale |
+| **N/A** | 18 | Solo usi noti (nessuna nuova previsione) |
 
 ### Per fonte
 
 | Fonte | Previsioni |
 |------|------|
-| DL | 7,792,836 |
+| DL | 14,237,492 |
 | KG + DL | 1,617 |
 | KG | 243 |
 
@@ -49,9 +50,9 @@ Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle li
 | Fiducia | Previsioni |
 |------|------|
 | very_high | 1,263 |
-| high | 381,100 |
-| medium | 722,747 |
-| low | 6,689,586 |
+| high | 652,195 |
+| medium | 1,154,187 |
+| low | 12,431,707 |
 
 ---
 
@@ -70,8 +71,8 @@ uv run python scripts/run_kg_prediction.py
 
 | Metrica | Valore |
 |------|------|
-| Liste AIFA classe A e H Totale farmaci | 10,545 |
-| Mappati a DrugBank | 5,481 (52.0%) |
+| Liste AIFA classe A e H Totale farmaci | 11,639 |
+| Mappati a DrugBank | 10,558 (90.7%) |
 | Candidati al riposizionamento | 1,860 |
 
 ### Metodo di deep learning
@@ -83,9 +84,9 @@ PYTHONPATH=src python -m ittxgnn.predict.txgnn_model
 
 | Metrica | Valore |
 |------|------|
-| Previsioni DL totali | 689,135 |
-| Farmaci unici | 407 |
-| Indicazioni uniche | 16,985 |
+| Previsioni DL totali | 1,023,414 |
+| Farmaci unici | 596 |
+| Indicazioni uniche | 16,996 |
 
 ### Interpretazione dei punteggi
 
