@@ -94,7 +94,7 @@ I dati compilati di DABIGATRAN presentano molteplici lacune critiche nei dati (i
 - **\[Blocking\] Acquisisci l'indicazione originale**: ottieni il testo dell'indicazione approvata dall'API DrugBank o dal foglio illustrativo approvato, popola `original_indications`
 - **\[High\] Completa i dati MOA**: interroga DrugBank per ottenere una descrizione completa del meccanismo d'azione, supportando l'analisi di correlazione del meccanismo successiva
 - **\[High\] Analizza i dati di sicurezza del foglio illustrativo**: scarica e analizza il PDF del foglio illustrativo TFDA (il `query_log` mostra che la query è riuscita), estrai avvertenze e controindicazioni, popola il campo `safety`
-- **\[Medium\] Conferma lo stato di commercializzazione in Italia (AIFA)**: DABIGATRAN (Pradaxa®) è un farmaco noto come commercializzato in Europa, si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione, aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)
+- **\[Medium\] Conferma lo stato di commercializzazione in Italia (AIFA)**: DABIGATRAN (Pradaxa®) è un farmaco noto come commercializzato in Europa, si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione
 - **Dopo il completamento dei dati, genera nuovamente i dati compilati**, quindi procedi con il processo completo di valutazione del riposizionamento
 
 ## Avvertenza

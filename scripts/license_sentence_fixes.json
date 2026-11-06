@@ -1,0 +1,9 @@
+{
+ "dabigatran": [
+  {
+   "sentence": "si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione, aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)",
+   "cut": ", aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)",
+   "reason": "M5：要求更新 TwTxGNN 模板的 taiwan_regulatory 欄位，是內部資料欄位殘留，與本站讀者無關；只刪這個子句，「向 AIFA 查詢確認許可」的建議保留（2026-11-06）"
+  }
+ ]
+}
