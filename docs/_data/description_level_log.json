@@ -1,0 +1,29 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/flucloxacillin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Flucloxacillin: nuova indicazione prevista, Congiuntivite (livello di evidenza L4). Indicazione originale: Non disponibile\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rifaximin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rifaximin: nuova indicazione prevista, Candidiasi orale (livello di evidenza L4). Indicazione originale: Encefalopatia epatica, coma epatico\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rotigotine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rotigotine: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L4). Indicazione originale: Sindrome delle gambe senza riposo…\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}
