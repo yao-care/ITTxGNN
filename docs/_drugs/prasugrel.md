@@ -112,14 +112,14 @@ Per gli avvertimenti e le controindicazioni ufficiali, consultare il foglietto i
 **Decisione: Hold**
 
 **Motivazione:**
-Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracranica) richiede cautela in una patologia non letale come l'emicrania.
+Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione del prasugrel (DrugBank)
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni
 - Uno studio randomizzato controllato sul prasugrel in emicranici con PFO
 - Valutazione del rapporto rischio/beneficio emorragico in questa popolazione
-- Chiarimento dello stato regolatorio (autorizzazioni cancellate) e della disponibilità del farmaco in Italia
+- Chiarimento dello stato regolatorio e della disponibilità del farmaco in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

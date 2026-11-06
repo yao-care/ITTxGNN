@@ -107,13 +107,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Il meccanismo sintomatico della piridostigmina è consolidato nella miastenia gravis AChR-positiva, e l'iperplasia del timo ne è una caratteristica comune. Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati. Inoltre in Italia non esistono attualmente autorizzazioni valide.
+Il meccanismo sintomatico della piridostigmina è consolidato nella miastenia gravis AChR-positiva, e l'iperplasia del timo ne è una caratteristica comune. Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni ufficiali (lacuna bloccante per la valutazione di sicurezza)
 - Dati dettagliati sul meccanismo d'azione da DrugBank
 - Verifica dello stato anticorpale (AChR vs MuSK) prima dell'uso, data la scarsa tolleranza nella forma MuSK-positiva
-- Chiarimento dello status regolatorio in Italia, dato che le due autorizzazioni risultano revocate
+- Chiarimento dello status regolatorio in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

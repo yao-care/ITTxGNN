@@ -106,13 +106,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Il legame meccanicistico è solo parziale e sintomatico: l'omeprazolo non agisce sulla causa del reflusso duodenogastrico. Non esistono sperimentazioni randomizzate a supporto, le evidenze cliniche sono piccole e il segnale preclinico di carcinogenesi è preoccupante. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
+Il legame meccanicistico è solo parziale e sintomatico: l'omeprazolo non agisce sulla causa del reflusso duodenogastrico. Non esistono sperimentazioni randomizzate a supporto, le evidenze cliniche sono piccole e il segnale preclinico di carcinogenesi è preoccupante.
 
 **Per procedere sono necessari:**
 - Sperimentazioni cliniche controllate che valutino direttamente l'omeprazolo nel reflusso duodenogastrico
 - Valutazione del rischio di carcinogenesi gastrica con blocco acido prolungato in presenza di reflusso biliare
 - Dati sul meccanismo d'azione e sul testo autorizzativo (avvertenze, controindicazioni) dal foglietto illustrativo AIFA
-- Chiarimento dello stato regolatorio attuale in Italia (autorizzazioni tutte cancellate)
+- Chiarimento dello stato regolatorio attuale in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

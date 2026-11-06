@@ -70,8 +70,6 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni elencate risultano cancellate.
-
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 047090016 | Pelgraz, siringa SC 6 mg/0,6 ml con copriago + tampone alcolico | Accord Healthcare SLU | Valida |
@@ -95,7 +93,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o dati meccanicistici a supporto. Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare) e tutte le autorizzazioni italiane risultano cancellate.
+La previsione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o dati meccanicistici a supporto. Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare).
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA), ad esempio tramite DrugBank

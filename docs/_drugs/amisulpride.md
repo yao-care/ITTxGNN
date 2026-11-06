@@ -44,7 +44,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | ID DrugBank | DB06288 |
 | Indicazione Originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 10 su 10) |
-| Status di Commercializzazione a Taiwan | ✗ Non commercializzato (Non commercializzato) |
 | Numero di autorizzazioni | 10 (valide: 10) |
 
 ---

@@ -95,14 +95,14 @@ Per avvertenze e controindicazioni formali si rimanda al foglietto illustrativo,
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio TxGNN molto alto, ma non è supportata da studi clinici né da letteratura (livello L5). Il razionale meccanicistico è speculativo e la maggior parte dei casi di cheratocongiuntivite epiteliale puntata non è di origine fungina. Inoltre tutte le autorizzazioni italiane sono cancellate e manca il foglietto illustrativo, il che impedisce la valutazione di sicurezza.
+La previsione ha un punteggio TxGNN molto alto, ma non è supportata da studi clinici né da letteratura (livello L5). Il razionale meccanicistico è speculativo e la maggior parte dei casi di cheratocongiuntivite epiteliale puntata non è di origine fungina. Manca il foglietto illustrativo, il che impedisce la valutazione di sicurezza.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank) e un'analisi del legame meccanicistico con la patologia oculare.
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni.
 - Revisione della letteratura e dei registri di studi su fluconazolo e patologie della superficie oculare.
 - Valutazione della fattibilità della via di somministrazione (ad esempio formulazione oftalmica) e dei dati di sicurezza oculare.
-- Chiarimento dell'attuale stato regolatorio in Italia, essendo tutte le autorizzazioni cancellate.
+- Chiarimento dell'attuale stato regolatorio in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

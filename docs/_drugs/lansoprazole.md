@@ -63,7 +63,6 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dat
 
 Riducendo l'acidità gastrica, il farmaco potrebbe alleviare il danno mucosale e i sintomi dovuti all'esposizione mista ad acido e bile. Tuttavia, gli inibitori della pompa protonica non impediscono il reflusso biliare né correggono il problema di motilità sottostante: l'effetto sarebbe quindi sintomatico e non modificante la malattia.
 
-
 Per la seconda predizione, l'**ostruzione duodenale** (punteggio 0,9968, livello L5), non è stata individuata alcuna motivazione meccanicistica chiara: si tratta di una condizione strutturale che richiede un intervento endoscopico o chirurgico. Il lansoprazolo potrebbe al massimo essere un supporto per la patologia peptica associata. Non vi sono studi o letteratura a supporto, per cui questa predizione è in stato Hold.
 
 ---
@@ -84,7 +83,7 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (prime 5):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (prime 5):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -110,13 +109,13 @@ Le avvertenze e le controindicazioni dal foglio illustrativo AIFA non sono dispo
 **Decisione: Hold**
 
 **Motivazione:**
-Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo. Per l'ostruzione duodenale non c'è alcun razionale meccanicistico.
+Per l'ostruzione duodenale non c'è alcun razionale meccanicistico.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici o revisioni sistematiche specifiche sull'uso degli inibitori della pompa protonica nel reflusso duodeno-gastrico
-- Verifica dello stato regolatorio attuale in Italia (le 20 autorizzazioni risultano cancellate) e delle formulazioni disponibili
+- Verifica dello stato regolatorio attuale in Italia e delle formulazioni disponibili
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

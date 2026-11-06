@@ -122,7 +122,7 @@ Le avvertenze e le controindicazioni del foglietto illustrativo AIFA non sono di
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Le due pubblicazioni recuperate per altre indicazioni (osteoartrite) non sono evidenze dirette. Inoltre, in Italia l'unica autorizzazione è cancellata e il profilo di sicurezza dei retinoidi sistemici è rilevante.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Le due pubblicazioni recuperate per altre indicazioni (osteoartrite) non sono evidenze dirette.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza

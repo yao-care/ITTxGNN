@@ -89,7 +89,7 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali 5 autorizzazioni (tutte cancellate):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -115,7 +115,7 @@ Le informazioni su avvertenze e controindicazioni tratte dal foglio illustrativo
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con la fisiopatologia autoimmune/neurologica della sindrome. Inoltre, tutte le autorizzazioni italiane del principio attivo risultano cancellate.
+La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con la fisiopatologia autoimmune/neurologica della sindrome.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione verificati da una fonte primaria (es. DrugBank) e analisi di un eventuale legame meccanicistico

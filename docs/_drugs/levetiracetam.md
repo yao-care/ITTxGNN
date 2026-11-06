@@ -110,7 +110,7 @@ Va precisato che lo studio ESETT ha mostrato un'efficacia **comparabile** tra le
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni AIFA risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Elenco delle principali (5 su 20):
+Elenco delle principali (5 su 20):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
 |---------|------|------|-----------|
@@ -142,7 +142,6 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 Due studi di fase 3 completati (ESETT, n=478; n=203) e RCT pubblicati su NEJM e Lancet sostengono il levetiracetam come opzione di seconda linea; lo studio mostra però efficacia comparabile e non superiorità. Le altre indicazioni previste restano in Hold o come questione di ricerca per carenza di evidenza diretta.
 
 **Per procedere è necessario:**
-- Verificare lo stato regolatorio in Italia: tutte le 20 autorizzazioni sono cancellate, incluso l'uso endovenoso
 - Acquisire avvertenze e controindicazioni dal foglietto illustrativo AIFA (dato mancante e bloccante per lo screening di sicurezza)
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Monitorare effetti avversi comportamentali e psichiatrici e adattare la dose in base alla funzione renale

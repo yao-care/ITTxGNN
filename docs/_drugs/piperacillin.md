@@ -95,7 +95,7 @@ Tutte le pubblicazioni sono case report o studi di coorte indiretti; nessuna dim
 
 ## Informazioni sul mercato italiano
 
-Tutte le 18 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ Dalla letteratura emergono inoltre segnali di cautela: possibile danno epatico i
 - Dati sul meccanismo d'azione e una solida ipotesi biologica che colleghi la piperacillina all'artrite reumatoide
 - Acquisizione delle avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Dati preclinici o clinici a supporto di un effetto antinfiammatorio/immunomodulante, ad oggi assenti
-- Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane sono cancellate
+- Valutazione dello stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

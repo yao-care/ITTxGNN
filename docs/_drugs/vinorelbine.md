@@ -98,8 +98,6 @@ Il sarcoma di Ewing è un tumore osseo maligno altamente proliferativo, con alti
 | 046717031 | Vinorelbina capsule molli 30 mg (DOC Generici) | Capsule molli | Valida |
 | 027865106 | Navelbine capsule molli 20 mg (Pierre Fabre) | Capsule molli | Valida |
 
-Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilati non risultano autorizzazioni attualmente valide né testi di indicazione approvata.
-
 ---
 
 ## Citotossicità
@@ -138,7 +136,6 @@ Esistono studi di fase 2 (anche pediatrici) sull'associazione vinorelbina + cicl
 **Per procedere sono necessari:**
 - Dati di efficacia specifici per il sarcoma di Ewing (analisi per sottogruppo degli studi esistenti e risultati di INTER-EWING-1)
 - Dati sul meccanismo d'azione e testo ufficiale di avvertenze e controindicazioni (foglio illustrativo AIFA)
-- Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva del prodotto
 - Piano di monitoraggio della sicurezza in popolazioni pediatriche e giovani adulti, con attenzione alla mielosoppressione e alle interazioni con inibitori del CYP3A4 (ad es. claritromicina)
 ## Avvertenza
 

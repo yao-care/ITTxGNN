@@ -82,8 +82,6 @@ Per l'indicazione predetta principale non è disponibile alcuna letteratura corr
 
 ## Informazioni sul mercato italiano
 
-Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
-
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 046035010 | Tetrabenazina 112 cpr 25 mg flacone | Aristo Pharma GmbH | Valida |
@@ -113,7 +111,7 @@ Per le informazioni di sicurezza complete si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile. Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo di conoscenza (in particolare QT lungo, depressione/disturbi dell'umore e parkinsonismo).
+La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile.
 
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna attualmente bloccante per la valutazione di sicurezza

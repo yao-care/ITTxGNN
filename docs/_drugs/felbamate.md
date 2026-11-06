@@ -96,13 +96,13 @@ Per le avvertenze ufficiali fare riferimento al foglietto illustrativo AIFA, che
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio clinico registrato) e il profilo di rischio è serio (anemia aplastica, insufficienza epatica, anafilassi). Il farmaco non è più commercializzato in Italia e per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.
+L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio clinico registrato) e il profilo di rischio è serio (anemia aplastica, insufficienza epatica, anafilassi). Per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.
 
 **Per procedere sarebbe necessario:**
 - Ottenere e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza
 - Completare i dati sul meccanismo d'azione
 - Disporre di studi clinici controllati nella nevralgia del trigemino, idealmente in pazienti refrattari alle terapie standard
-- Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto, dato lo stato di autorizzazioni revocate
+- Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -93,7 +93,7 @@ Attualmente non risultano studi clinici registrati correlati.
 | 034080022 | GEMFIBROZIL 20 cpr 900 mg (DOC Generici) | Compresse | Non disponibile (valida) |
 | 029512023 | GEMFIBROZIL 30 cpr 600 mg (EG) | Compresse | Non disponibile (valida) |
 
-Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. Sono qui elencate le prime 5.
+Sono qui elencate le prime 5.
 
 ---
 
@@ -116,13 +116,13 @@ Per le avvertenze e le controindicazioni formali, consultare il foglietto illust
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici. Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante.
+La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (DrugBank) e analisi del legame meccanicistico con l'artrite reumatoide
 - Studi preclinici di conferma con il gemfibrozil stesso, poi studi clinici esplorativi
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza (attualmente bloccante)
-- Verifica della disponibilità del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica della disponibilità del farmaco in Italia
 
 ---
 

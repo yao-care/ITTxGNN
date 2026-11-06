@@ -78,7 +78,7 @@ I dati compilati per Clorpromazina sono criticamente incompleti — senza previs
 - **Meccanismo d'azione** — la query DrugBank ha restituito 1 risultato il 2026-03-29 ma i dati non sono stati integrati in `drug.original_moa`; estrarre e popolare
 - **Informazioni sulla Sicurezza** — la query del foglio illustrativo ha restituito 1 risultato il 2026-03-29 ma `key_warnings` e `contraindications` rimangono non compilati; analizzare e integrare
 - **Dati di Interazione Farmacologica** — la query DDI non ha restituito risultati; considerare l'interrogazione di un database DDI alternativo (ad es., interazioni DrugBank, Drugs.com)
-- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA; 0 licenze è inaspettato per un composto di questa classe
+- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA
 
 ## Avvertenza
 

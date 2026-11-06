@@ -116,7 +116,7 @@ Le informazioni su avvertenze e controindicazioni del foglio illustrativo AIFA n
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (livello L5). L'unica pubblicazione è preclinica e riguarda l'attività antifungina, non anti-HIV. Inoltre l'unica autorizzazione italiana è cancellata e i dati di sicurezza del foglio illustrativo mancano.
+La predizione si basa solo sul modello (livello L5). L'unica pubblicazione è preclinica e riguarda l'attività antifungina, non anti-HIV. I dati di sicurezza del foglio illustrativo mancano.
 
 **Per procedere sono necessari:**
 - Dati di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente bloccanti per lo screening di sicurezza

@@ -92,8 +92,6 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 | 037152117 | NEUPRO 28 cerotti transdermici 8 mg/die (UCB Pharma) | Cerotto transdermico | Non disponibile |
 | 050781083 | ROTIGOTINA 28 cerotti transdermici 2 mg/die (DOC Generici) | Cerotto transdermico | Non disponibile |
 
-Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5.
-
 ---
 
 ## Considerazioni di sicurezza
@@ -110,7 +108,7 @@ Per le avvertenze e le controindicazioni ufficiali, fare riferimento al foglio i
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
+La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da fonti ufficiali (DrugBank)

@@ -83,13 +83,13 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si fonda esclusivamente su un punteggio elevato del modello TxGNN, senza studi clinici, letteratura o meccanismo d'azione documentato. Inoltre l'unica autorizzazione italiana è cancellata, il che limita la fattibilità pratica.
+La previsione si fonda esclusivamente su un punteggio elevato del modello TxGNN, senza studi clinici, letteratura o meccanismo d'azione documentato.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank e analisi del possibile legame con la fisiopatologia della sindrome della persona rigida
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (necessario per lo screening di sicurezza)
 - Revisione sistematica della letteratura e ricerca di studi preclinici o clinici su sulfoniluree o canali K-ATP in questa patologia
-- Valutazione della disponibilità commerciale del farmaco in Italia, dato lo stato di autorizzazione cancellata
+- Valutazione della disponibilità commerciale del farmaco in Italia
 - Verifica della compatibilità della via di somministrazione con la nuova indicazione
 ## Avvertenza
 

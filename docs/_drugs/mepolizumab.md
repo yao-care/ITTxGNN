@@ -80,8 +80,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 044648032 | NUCALA penna preriempita SC 100 mg 1 ml (1 pz) | Non indicata | Non disponibile (autorizzazione valida) |
 | 044648044 | NUCALA penne preriempite SC 100 mg 1 ml (3 pz) | Non indicata | Non disponibile (autorizzazione valida) |
 
-Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata.
-
 ## Altre predizioni TxGNN (a titolo informativo)
 
 Le altre indicazioni predette hanno punteggi altrettanto elevati ma evidenza ancora più debole, e per tutte la raccomandazione è Hold:
@@ -102,12 +100,12 @@ Non sono disponibili dati su avvertenze, controindicazioni o interazioni farmaco
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza.
+La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un limite bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
-- Verifica dello stato regolatorio attuale in Italia (le autorizzazioni elencate sono cancellate) e del testo delle indicazioni
+- Verifica dello stato regolatorio attuale in Italia e del testo delle indicazioni
 - Evidenze cliniche aggiuntive, almeno in sottopopolazioni con HES e citopenia immuno-mediata concomitante
 - Valutazione di compatibilità della via di somministrazione e della similarità con l'indicazione originale
 ## Avvertenza

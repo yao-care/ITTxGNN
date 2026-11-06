@@ -89,8 +89,6 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
-Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicazione approvata né la forma farmaceutica.
-
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 045255041 | AFSTYLA, 1 flaconcino EV polv. 1.500 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
@@ -112,13 +110,13 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste. Inoltre il farmaco non ha autorizzazioni valide in Italia.
+La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste.
 
 **Per procedere è necessario:**
 - Acquisire dati sul meccanismo d'azione originale (DrugBank)
 - Ottenere e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), necessario per qualsiasi valutazione di sicurezza
 - Condurre una ricerca sistematica di letteratura e registri di studi (ad es. casi clinici nella pseudo-malattia di von Willebrand con deficit secondario di FVIII)
-- Verificare la disponibilità commerciale del prodotto o di alternative, dato lo stato di autorizzazioni cessate
+- Verificare la disponibilità commerciale del prodotto o di alternative
 - Valutare studi preclinici o meccanicistici che giustifichino un passaggio a un livello di evidenza superiore
 ## Avvertenza
 

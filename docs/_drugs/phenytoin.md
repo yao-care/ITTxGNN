@@ -95,8 +95,6 @@ Per la predizione principale (neoplasia del nervo trigemino) sono state recupera
 |---------|------|------|-----------|
 | 002129017 | DINTOINA*30 cpr rivestite 100 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile — autorizzazione valida |
 
-Non risultano autorizzazioni attualmente valide in Italia (0 monocomponente, 0 combinazioni).
-
 ## Considerazioni sulla sicurezza
 
 I dati compilati non includono avvertenze o controindicazioni tratte dal foglio illustrativo AIFA. Dal grafo di conoscenza (non dal testo dell'etichetta) risultano le seguenti condizioni associate a controindicazione:
@@ -121,13 +119,13 @@ Per le informazioni complete di sicurezza si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-- Per la neoplasia del nervo trigemino non vi sono studi clinici né letteratura pertinente e non esiste un legame meccanicistico plausibile: il punteggio TxGNN sembra un artefatto di prossimità alla nevralgia del trigemino. Anche l'autorizzazione italiana è annullata e mancano i dati di sicurezza dell'etichetta.
+- Per la neoplasia del nervo trigemino non vi sono studi clinici né letteratura pertinente e non esiste un legame meccanicistico plausibile: il punteggio TxGNN sembra un artefatto di prossimità alla nevralgia del trigemino. Mancano i dati di sicurezza dell'etichetta.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Riorientare la valutazione verso la **nevralgia del trigemino** (L3): una revisione mirata sulla fenitoina e.v. nelle riacutizzazioni acute, con attenzione all'indice terapeutico ristretto e alla tossicità a lungo termine.
-- Verificare la disponibilità attuale di formulazioni di fenitoina in Italia, dato che l'unica autorizzazione è annullata.
+- Verificare la disponibilità attuale di formulazioni di fenitoina in Italia.
 - Considerare le altre crisi riflesse (L4) solo come ipotesi di ricerca, dato che sono già comprese nell'ambito del trattamento delle crisi epilettiche.
 ## Avvertenza
 

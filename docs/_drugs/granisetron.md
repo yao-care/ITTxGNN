@@ -92,7 +92,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela.
+L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico.
 
 **Per procedere sono necessari:**
 - Una revisione sistematica della letteratura e la ricerca di studi clinici su granisetron e disturbo bipolare maniacale
@@ -100,7 +100,7 @@ L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livell
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per consentire lo screening di sicurezza
 - Valutazione della similarità con l'indicazione originale e della compatibilità della via di somministrazione
 - Una valutazione del rischio cardiaco (QT) e delle interazioni per la popolazione bipolare, spesso in terapia con farmaci interagenti
-- Verifica della disponibilità commerciale del prodotto in Italia, dato lo stato di autorizzazioni cancellate
+- Verifica della disponibilità commerciale del prodotto in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

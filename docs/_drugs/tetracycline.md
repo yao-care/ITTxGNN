@@ -107,7 +107,7 @@ Non sono disponibili avvertenze o controindicazioni tratte dal foglio illustrati
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-Per la cheratocongiuntivite epiteliale puntata non esistono studi clinici e l'unica pubblicazione è un case report indiretto. Inoltre la tetraciclina ha in Italia solo un'autorizzazione revocata. Il punteggio TxGNN elevato non basta a giustificare un avanzamento.
+Per la cheratocongiuntivite epiteliale puntata non esistono studi clinici e l'unica pubblicazione è un case report indiretto. Il punteggio TxGNN elevato non basta a giustificare un avanzamento.
 
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

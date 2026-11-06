@@ -70,7 +70,7 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Di seguito le principali 5 (il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati; le presentazioni sono compresse rivestite da 20 mg o gocce orali):
+Di seguito le principali 5 (il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati; le presentazioni sono compresse rivestite da 20 mg o gocce orali):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -92,13 +92,13 @@ Per le avvertenze e le controindicazioni ufficiali fare riferimento al foglietto
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale meccanicistico plausibile tra l'inibizione della ricaptazione della serotonina e una malattia genetica legata a KAT6B. Inoltre, tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale meccanicistico plausibile tra l'inibizione della ricaptazione della serotonina e una malattia genetica legata a KAT6B.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio tramite DrugBank) e una ricerca di un possibile legame biologico con KAT6B e la regolazione della cromatina
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), requisito bloccante per la valutazione di sicurezza
 - Studi preclinici o revisioni sistematiche di letteratura a supporto dell'ipotesi
-- Chiarimento della situazione regolatoria in Italia, dato che non esistono autorizzazioni valide
+- Chiarimento della situazione regolatoria in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

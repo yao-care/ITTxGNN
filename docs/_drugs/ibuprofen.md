@@ -92,7 +92,7 @@ Al momento non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Si elencano le prime 5 autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Si elencano le prime 5 autorizzazioni:
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -121,13 +121,13 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul punteggio del modello (livello L5), senza studi clinici né pubblicazioni, e non c'è un meccanismo plausibile per cui un inibitore delle COX possa modificare una displasia scheletrica genetica. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
+La previsione si basa solo sul punteggio del modello (livello L5), senza studi clinici né pubblicazioni, e non c'è un meccanismo plausibile per cui un inibitore delle COX possa modificare una displasia scheletrica genetica.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank) e un'analisi dei legami meccanicistici.
 - Testo delle avvertenze e delle controindicazioni dal foglio illustrativo AIFA, indispensabile per lo screening di sicurezza.
 - Studi preclinici o case report che valutino un beneficio sintomatico (dolore articolare) nelle displasie scheletriche.
-- Chiarimento dello stato regolatorio attuale in Italia, dato che non vi sono autorizzazioni valide.
+- Chiarimento dello stato regolatorio attuale in Italia.
 - Se si intende proseguire, valutare in via prioritaria candidate biologicamente più plausibili, come la miosclerosi o la pseudoacondroplasia, limitatamente alla gestione sintomatica.
 ## Avvertenza
 

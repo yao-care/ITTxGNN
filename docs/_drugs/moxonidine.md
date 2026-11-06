@@ -88,7 +88,6 @@ Per completezza, per la previsione "alopecia" (rango 4) è stata recuperata una 
 | 039676085 | Moxonidina 28 cpr rivestite 0,4 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 039676022 | Moxonidina 28 cpr rivestite 0,2 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-
 ## Considerazioni sulla sicurezza
 
 - **Interazioni farmacologiche / bersagli**: la moxonidina si lega ai recettori α2A (ADRA2A), α2B (ADRA2B) e α2C (ADRA2C)-adrenergici. Non sono stati registrati livelli di gravità per interazioni con altri farmaci.
@@ -100,13 +99,13 @@ Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si riman
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile. Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia.
+La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile.
 
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione della moxonidina e analisi di un possibile legame con la biologia del follicolo pilifero
 - Dati preclinici (ad es. modelli di follicolo pilifero) che giustifichino l'ipotesi
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
-- Verifica dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate
+- Verifica dello stato regolatorio
 - Eventuale rivalutazione delle previsioni di ambito ipertensivo (ipertensione renovascolare maligna e nefropatia ipertensiva maligna, livello L4), più coerenti con il meccanismo noto del farmaco, come "domande di ricerca" da approfondire con una revisione della letteratura
 ## Avvertenza
 

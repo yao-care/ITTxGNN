@@ -60,8 +60,6 @@ Il rapporto sottostante documenta lo stato attuale dei dati e identifica cosa de
 
 ## Informazioni Mercato Italia
 
-Nessuna autorizzazione normativa è stata trovata per CLOZAPINA nel database del mercato interrogato. La query TFDA (2026-03-29) ha restituito 0 risultati.
-
 > Questo farmaco non è attualmente registrato o commercializzato sotto questo INN nella giurisdizione interrogata. La verifica incrociata con i record AIFA (Italia) o EMA potrebbe essere necessaria se il prodotto è commercializzato sotto un nome commerciale o uno spelling INN alternativo.
 
 ---
@@ -84,7 +82,7 @@ Il Fascicolo di Prove per CLOZAPINA è criticamente incompleto — non ci sono i
 - **Risultati della previsione TxGNN**: Rieseguire la pipeline TxGNN con un ID DrugBank confermato per la clozapina (DrugBank: DB00363) per generare indicazioni candidate con punteggio
 - **Conferma dell'indicazione originale**: Confermare e registrare le indicazioni approvate per la clozapina (trattamento della schizofrenia resistente ai farmaci, suicidalità nella schizofrenia/disturbo schizoaffettivo) come baseline del riuso
 - **Dati MOA** (Data Gap DG002, Alta gravità): Interrogare l'API di DrugBank per il meccanismo d'azione — il profilo dei recettori D2/5-HT2A della clozapina è centrale per comprendere qualsiasi crossover meccanicistico
-- **Dati di sicurezza** (Data Gap DG001, Gravità Bloccante): Scaricare e analizzare il foglio illustrativo ufficiale dal sito web TFDA o AIFA per estrarre avvertenze e controindicazioni — questo è contrassegnato come **Bloccante** e deve essere risolto prima di qualsiasi screening di sicurezza
+- **Dati di sicurezza** (Data Gap DG001, Gravità Bloccante): Scaricare e analizzare il foglio illustrativo ufficiale dal sito web AIFA per estrarre avvertenze e controindicazioni — questo è contrassegnato come **Bloccante** e deve essere risolto prima di qualsiasi screening di sicurezza
 - **Chiarimento dell'ambito di mercato**: Verificare se questa valutazione è destinata al mercato italiano (AIFA) o a un'altra giurisdizione, poiché l'etichetta del campo e la fonte della query sembrano non corrispondere in questo Fascicolo di Prove
 
 ## Avvertenza

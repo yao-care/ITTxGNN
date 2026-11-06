@@ -80,8 +80,6 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 | 025300029 | NORMIX*12 cpr rivestite 200 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 041924046 | TIXTELLER*56 cpr rivestite 550 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni nel grafo di conoscenza** (non derivate dal foglietto illustrativo): colite da *Clostridium difficile* ed enterocolite necrotizzante perinatale.
@@ -94,13 +92,12 @@ Per le avvertenze e le controindicazioni complete, consultare il foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cliniche e l'unica evidenza disponibile indica un possibile rischio (selezione di *Candida* resistente) anziché un beneficio. Inoltre, in Italia non vi sono autorizzazioni valide.
+Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cliniche e l'unica evidenza disponibile indica un possibile rischio (selezione di *Candida* resistente) anziché un beneficio.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e valutazione di un'eventuale attività antifungina o di un effetto indiretto sul microbioma orale
 - Estrazione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza
 - Studi preclinici o clinici specifici che valutino la candidiasi orale come esito, con attenzione al segnale di rischio già osservato
-- Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

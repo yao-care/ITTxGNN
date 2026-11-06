@@ -86,7 +86,7 @@ L'unico spunto in letteratura (PMID 36754409) è un caso riportato in cui un ini
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
+Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato è già basso, e l'unica evidenza è uno studio non pertinente e due lavori indiretti. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato è già basso, e l'unica evidenza è uno studio non pertinente e due lavori indiretti.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni del foglietto illustrativo AIFA

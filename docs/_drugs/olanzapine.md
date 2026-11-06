@@ -95,7 +95,7 @@ A titolo di confronto, la letteratura per la seconda indicazione predetta (agora
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglietto illustr
 **Decisione: Hold**
 
 **Motivazione:**
-Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

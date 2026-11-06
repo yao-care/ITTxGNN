@@ -86,7 +86,7 @@ Il collegamento con le indicazioni originali è il dolore cronico con componente
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le prime 5.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le prime 5.
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il tes
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'emicrania il meccanismo è plausibile e ci sono alcuni studi randomizzati pediatrici di piccole dimensioni, ma l'unico studio di fase 3 negli adulti è stato ritirato e mancano evidenze confermatorie. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali sono mancanti, quindi non è possibile procedere allo screening di sicurezza.
+Per l'emicrania il meccanismo è plausibile e ci sono alcuni studi randomizzati pediatrici di piccole dimensioni, ma l'unico studio di fase 3 negli adulti è stato ritirato e mancano evidenze confermatorie.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni) e chiarire la situazione delle autorizzazioni cancellate

@@ -120,7 +120,7 @@ Per le altre informazioni di sicurezza (avvertenze, controindicazioni) si rimand
 **Decisione: Hold**
 
 **Motivazione:**
-- Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea. Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico.
+- Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea.
 - La previsione con il punteggio più alto (torcicollo parossistico benigno dell'infanzia) è priva di qualsiasi supporto e va considerata un probabile artefatto del modello.
 
 **Per procedere sono necessari:**

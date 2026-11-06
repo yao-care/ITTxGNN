@@ -107,7 +107,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-Le predizioni per il rabdomiosarcoma e per le altre indicazioni si basano solo sul punteggio del modello, senza studi clinici e con letteratura indiretta o preclinica. Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione. Inoltre, in Italia le due autorizzazioni sono entrambe revocate.
+Le predizioni per il rabdomiosarcoma e per le altre indicazioni si basano solo sul punteggio del modello, senza studi clinici e con letteratura indiretta o preclinica. Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sull'analisi del legame meccanicistico con il rabdomiosarcoma

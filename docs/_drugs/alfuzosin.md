@@ -93,13 +93,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (L5), senza studi clinici, letteratura o razionale farmacologico plausibile. Inoltre non esistono autorizzazioni valide in Italia e il profilo di sicurezza ufficiale non è disponibile.
+La previsione si basa solo sul modello (L5), senza studi clinici, letteratura o razionale farmacologico plausibile. Il profilo di sicurezza ufficiale non è disponibile.
 
 **Per procedere occorre:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Completare i dati sul meccanismo d'azione (ad es. da DrugBank)
 - Individuare un razionale biologico che colleghi il blocco alfa-1 alla patologia prevista, con studi preclinici
-- Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio, dato che tutte le autorizzazioni sono cancellate
+- Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

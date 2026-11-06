@@ -132,7 +132,7 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile. Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove indicazioni non infettive.
+La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e una giustificazione biologica per l'indicazione prevista

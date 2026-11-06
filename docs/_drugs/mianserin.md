@@ -121,13 +121,13 @@ Per le avvertenze, le controindicazioni e le altre informazioni di sicurezza si 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile; inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata. Le predizioni più coerenti (distimia, melanconia, disturbi nevrotici) restano a livello di domanda di ricerca (Research Question), con evidenza indiretta o datata e in larga parte sovrapposta alle indicazioni già esistenti.
+La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. Le predizioni più coerenti (distimia, melanconia, disturbi nevrotici) restano a livello di domanda di ricerca (Research Question), con evidenza indiretta o datata e in larga parte sovrapposta alle indicazioni già esistenti.
 
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione dettagliato (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Studi clinici o evidenze specifiche per la mianserina nella distimia
-- Valutazione del profilo di sicurezza ematologico e dello stato regolatorio (autorizzazione revocata)
+- Valutazione del profilo di sicurezza ematologico e dello stato regolatorio
 - Se si intende proseguire, privilegiare il disturbo distimico rispetto al torcicollo parossistico benigno dell'infanzia
 ## Avvertenza
 

@@ -96,7 +96,7 @@ Nessuna pubblicazione è specifica per baclofene nell'ADHD. Le più pertinenti s
 | 037930029 | BACLOFENE*50 cpr div 25 mg | Mylan SpA | Valida |
 | 048166019 | BACLOFENE*50 cpr div 25 mg | DOC Generici Srl | Valida |
 
-Nei dati compilati non risultano autorizzazioni valide. Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.
+Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.
 
 ---
 
@@ -133,7 +133,7 @@ Gli studi preclinici sui roditori ([24553576](https://pubmed.ncbi.nlm.nih.gov/24
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'ADHD esistono solo una previsione computazionale e letteratura indiretta, senza studi clinici. Mancano inoltre i dati di sicurezza ufficiali, e in Italia tutte le autorizzazioni risultano cancellate.
+Per l'ADHD esistono solo una previsione computazionale e letteratura indiretta, senza studi clinici. Mancano inoltre i dati di sicurezza ufficiali.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza).

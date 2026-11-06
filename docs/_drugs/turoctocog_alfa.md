@@ -78,7 +78,7 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 | 043153055 | NOVOEIGHT 2.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
 | 043153016 | NOVOEIGHT 250 UI + siringa solvente 4 ml | Valida | Non disponibile |
 
-Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci.
+Titolare: Novo Nordisk A/S.
 
 ## Considerazioni sulla sicurezza
 
@@ -91,7 +91,7 @@ Si segnala inoltre, sul piano teorico, che l'uso di un fattore procoagulante in 
 **Decisione: Hold**
 
 **Motivazione:**
-Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Per la previsione principale manca un razionale meccanicistico, e il prodotto non ha attualmente autorizzazioni valide in Italia.
+Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Per la previsione principale manca un razionale meccanicistico.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)

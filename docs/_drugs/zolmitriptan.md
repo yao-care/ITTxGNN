@@ -91,8 +91,6 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 | 039887031 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (DOC Generici) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
 | 039771035 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (Aurobindo Pharma Italia) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
 
-Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni derivate dal grafo di conoscenza (non dal foglietto illustrativo)**: il grafo di conoscenza TxGNN associa a zolmitriptan controindicazioni in ambito cardiovascolare e cerebrovascolare: ipertensione, coronaropatia, infarto miocardico, angina di Prinzmetal, sindrome di Wolff-Parkinson-White, ictus, attacco ischemico transitorio, ischemia cerebrale, insufficienza vertebrobasilare, malattia vascolare periferica, malattia di Raynaud, malattia ischemica intestinale ed emicrania emiplegica familiare o sporadica. Sono inoltre segnalate malattie renali, epatiche e della colecisti. Particolarmente rilevante è l'insufficienza vertebrobasilare, per la sua vicinanza anatomica e fisiopatologica all'emicrania con aura del tronco encefalico.
@@ -106,14 +104,14 @@ Per le avvertenze e le controindicazioni ufficiali, fare riferimento al fogliett
 **Decisione: Hold**
 
 **Motivazione:**
-La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmitriptan; l'elevato punteggio TxGNN riflette probabilmente la vicinanza all'emicrania già nota. A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le autorizzazioni risultano cancellate.
+La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmitriptan; l'elevato punteggio TxGNN riflette probabilmente la vicinanza all'emicrania già nota.
 
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un vuoto di dati bloccante per la valutazione di sicurezza
 - Dati dettagliati sul meccanismo d'azione (da DrugBank)
 - Revisione sistematica o studi clinici specifici sull'uso dei triptani nell'emicrania con aura del tronco encefalico
 - Valutazione approfondita del rischio cardio- e cerebrovascolare, in particolare dell'insufficienza vertebrobasilare
-- Verifica della disponibilità commerciale del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica della disponibilità commerciale del farmaco in Italia
 
 ## Avvertenza
 

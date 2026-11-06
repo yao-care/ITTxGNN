@@ -101,8 +101,6 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 | 022323036 | TRITTICO 30 cpr rivestite div 50 mg | Compresse rivestite | Non disponibile |
 | 022323075 | TRITTICO 20 cpr div 150 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
 
-Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -119,7 +117,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-Il legame serotoninergico con il DOC è plausibile e la letteratura è relativamente ampia, ma si tratta in prevalenza di studi degli anni '80-'90, piccoli, con risultati contrastanti; non esistono sperimentazioni registrate né dati moderni. Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e le informazioni di sicurezza ufficiali sono mancanti. Il DOC è già ben coperto da SSRI e clomipramina.
+Il legame serotoninergico con il DOC è plausibile e la letteratura è relativamente ampia, ma si tratta in prevalenza di studi degli anni '80-'90, piccoli, con risultati contrastanti; non esistono sperimentazioni registrate né dati moderni. Le informazioni di sicurezza ufficiali sono mancanti. Il DOC è già ben coperto da SSRI e clomipramina.
 
 **Per procedere sono necessari:**
 - Acquisire le avvertenze e le controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)

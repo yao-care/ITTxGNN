@@ -111,7 +111,7 @@ Per le informazioni complete su avvertenze e controindicazioni, fare riferimento
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esistono RCT pivotal (TEMPO 3:4, REPRISE) e una revisione Cochrane nella ADPKD, con meccanismo (riduzione del cAMP) condiviso con il PKD3. Mancano però dati specifici per la malattia associata a GANAB, l'epatotossicità richiede un monitoraggio stretto e in Italia le autorizzazioni risultano tutte revocate.
+Esistono RCT pivotal (TEMPO 3:4, REPRISE) e una revisione Cochrane nella ADPKD, con meccanismo (riduzione del cAMP) condiviso con il PKD3. Mancano però dati specifici per la malattia associata a GANAB, l'epatotossicità richiede un monitoraggio stretto.
 
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio attuale in Italia (foglio illustrativo AIFA, avvertenze e controindicazioni)

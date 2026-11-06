@@ -83,8 +83,6 @@ Sono elencate le pubblicazioni più rilevanti (studi di coorte per primi, poi ca
 
 ## Informazioni sul mercato italiano
 
-Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati.
-
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 023639040 | CLOBESOL unguento dermatologico 30 g 0,05% | GlaxoSmithKline SpA | Valida |
@@ -105,12 +103,12 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esistono coorti osservazionali coerenti, tra cui una grande serie storica con risposta superiore al 90% nella micosi fungoide in stadio a macchia, e un razionale meccanicistico plausibile. Mancano però studi clinici registrati e RCT. Tutte le autorizzazioni italiane sono cancellate, e i dati di sicurezza del foglio illustrativo non sono disponibili. L'evidenza resta quindi di livello L3.
+Esistono coorti osservazionali coerenti, tra cui una grande serie storica con risposta superiore al 90% nella micosi fungoide in stadio a macchia, e un razionale meccanicistico plausibile. Mancano però studi clinici registrati e RCT. I dati di sicurezza del foglio illustrativo non sono disponibili. L'evidenza resta quindi di livello L3.
 
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
-- Verifica della disponibilità di formulazioni topiche di clobetasolo attualmente autorizzate in Italia, dato che tutte le licenze elencate sono cancellate
+- Verifica della disponibilità di formulazioni topiche di clobetasolo attualmente autorizzate in Italia
 - Studio prospettico controllato (idealmente randomizzato) nella micosi fungoide in stadio precoce
 - Piano di monitoraggio degli effetti avversi cutanei e dell'assorbimento sistemico nell'uso prolungato
 - Definizione dei limiti di impiego: solo stadi precoci a macchia/placca, non per malattia avanzata

@@ -76,7 +76,6 @@ Attualmente non è disponibile alcuna letteratura correlata.
 |---------|------|------|-----------|
 | 022240016 | MINOCIN*8 cps 100 mg (TEOFARMA Srl) | Non specificata | Non disponibile (autorizzazione valida) |
 
-
 ## Considerazioni di sicurezza
 
 - **Controindicazioni secondo il grafo di conoscenza (non dal foglietto illustrativo)**: malattia renale, piureter, malattia epatica, malattia della colecisti, colite da *Clostridium difficile*, enterocolite necrotizzante perinatale, pseudotumor cerebri, ipertensione intracranica, discinesia dell'esofago.
@@ -94,14 +93,14 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione ha un punteggio molto alto, ma non è supportata da alcuno studio clinico o pubblicazione (livello L5). In più, l'autorizzazione italiana è cancellata e mancano i dati di sicurezza da foglietto illustrativo, una lacuna bloccante per lo screening di sicurezza.
+La predizione ha un punteggio molto alto, ma non è supportata da alcuno studio clinico o pubblicazione (livello L5).
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Ricerca sistematica di letteratura e studi clinici sull'uso della minociclina nelle patologie della superficie oculare
 - Valutare la compatibilità della via di somministrazione (sistemica o oftalmica), oggi non definita
-- Chiarire lo stato regolatorio, dato che non esistono autorizzazioni valide in Italia
+- Chiarire lo stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

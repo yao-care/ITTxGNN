@@ -102,7 +102,7 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico. In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili.
+- La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico.
 
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni) e dell'indicazione approvata

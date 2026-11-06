@@ -112,13 +112,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressione ovarica da goserelin, non un nuovo bersaglio terapeutico. Le evidenze sono per lo più indirette (contesto del carcinoma mammario) e le autorizzazioni italiane sono tutte revocate. Le altre predizioni (ipoplasia renale, anche bilaterale) non hanno alcun legame meccanicistico plausibile né supporto in studi o letteratura (livello L5).
+L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressione ovarica da goserelin, non un nuovo bersaglio terapeutico. Le evidenze sono per lo più indirette (contesto del carcinoma mammario). Le altre predizioni (ipoplasia renale, anche bilaterale) non hanno alcun legame meccanicistico plausibile né supporto in studi o letteratura (livello L5).
 
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Definire se la soppressione mestruale sia un obiettivo terapeutico specifico (ad esempio in contesti selezionati) e non un semplice effetto collaterale
-- Chiarire lo stato regolatorio attuale in Italia, dato che le due autorizzazioni risultano revocate
+- Chiarire lo stato regolatorio attuale in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

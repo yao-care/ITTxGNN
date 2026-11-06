@@ -103,7 +103,7 @@ Nessuna di queste pubblicazioni supporta un uso della paromomicina nella periton
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (L5), senza studi clinici né letteratura per la cirrosi associata al rame idiopatica e senza un meccanismo plausibile. Inoltre in Italia le due autorizzazioni sono entrambe cancellate e i dati di sicurezza da etichetta mancano.
+La predizione si basa solo sul modello (L5), senza studi clinici né letteratura per la cirrosi associata al rame idiopatica e senza un meccanismo plausibile. I dati di sicurezza da etichetta mancano.
 
 **Per procedere sarebbe necessario:**
 - Recuperare il foglietto illustrativo AIFA (avvertenze e controindicazioni), necessario per qualsiasi valutazione di sicurezza.

@@ -104,7 +104,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-Il meccanismo è plausibile e esistono studi clinici storici sul midazolam orale nell'insonnia, ma sono datati, di piccole dimensioni e non confermati da evidenze moderne. Le autorizzazioni italiane sono tutte cancellate, il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.
+Il meccanismo è plausibile e esistono studi clinici storici sul midazolam orale nell'insonnia, ma sono datati, di piccole dimensioni e non confermati da evidenze moderne. Il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.
 
 **Per procedere è necessario:**
 - Acquisire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza

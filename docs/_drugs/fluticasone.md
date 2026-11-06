@@ -115,7 +115,7 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa quasi esclusivamente sul punteggio del modello TxGNN. Non ci sono studi clinici, l'unica pubblicazione riguarda eventi avversi e non efficacia, il meccanismo non è dimostrato e tutte le autorizzazioni italiane sono cancellate.
+La previsione si basa quasi esclusivamente sul punteggio del modello TxGNN. Non ci sono studi clinici, l'unica pubblicazione riguarda eventi avversi e non efficacia, il meccanismo non è dimostrato.
 
 **Per procedere è necessario:**
 - Recuperare avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza).

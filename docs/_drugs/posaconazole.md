@@ -95,7 +95,6 @@ Tuttavia, il collegamento meccanicistico con la pneumocistosi è debole. *Pneumo
 | 047254053 | Posaconazolo 24 cpr gastroresistenti 100 mg (EG) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
 | 037059019 | Noxafil sospensione orale 105 ml 40 mg/ml (MSD) | Sospensione orale | Non disponibile (autorizzazione valida) |
 
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -116,7 +115,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione verificati da fonti curate (es. DrugBank)

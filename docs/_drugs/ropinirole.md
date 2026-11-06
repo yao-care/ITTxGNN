@@ -89,8 +89,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 032261063 | REQUIP 21 cpr rivestite 0,25 mg (GlaxoSmithKline) | n.d. | n.d. (autorizzazione valida) |
 | 040257014 | ROPINIROLO 28 cpr 2 mg rilascio prolungato (DOC Generici) | n.d. | n.d. (autorizzazione valida) |
 
-Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è valida nessuna.
-
 ## Considerazioni di sicurezza
 
 - **Controindicazioni (dal grafo di conoscenza, non dal foglio illustrativo)**: atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, discinesia indotta da farmaci, insufficienza epatica, disturbi psicotici, disturbo schizofreniforme, disturbo schizoaffettivo, disturbi mentali, disturbi ipotensivi.
@@ -104,13 +102,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza per l'ADHD è limitata a revisioni, un caso clinico e un RCT recente (2026) i cui dettagli e risultati non sono verificati; non ci sono studi registrati. In Italia inoltre tutte le autorizzazioni sono cancellate e mancano i dati ufficiali di sicurezza.
+L'evidenza per l'ADHD è limitata a revisioni, un caso clinico e un RCT recente (2026) i cui dettagli e risultati non sono verificati; non ci sono studi registrati. Mancano i dati ufficiali di sicurezza.
 
 **Per procedere sono necessari:**
 - Verifica del disegno e dei risultati dell'RCT del 2026 (efficacia sui sintomi core dell'ADHD e sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
-- Valutazione della disponibilità del prodotto in Italia, dato che non esistono autorizzazioni valide
+- Valutazione della disponibilità del prodotto in Italia
 - Piano di monitoraggio del rischio di comportamenti impulsivi e di effetti psichiatrici in una popolazione pediatrica
 
 **Altre previsioni del modello:** per schizofrenia (L4, Hold) esistono solo dati indiretti e preclinici, con un rapporto rischio-beneficio sfavorevole. Le restanti previsioni (sindrome facio-digito-genitale, polimicrogiria, distrofia retinica, miopia X-linked, difetti congeniti della glicosilazione, encefalopatia glicinica atipica, Charcot-Marie-Tooth 1G) sono basate solo sul modello (L5, Hold), senza evidenza di supporto.

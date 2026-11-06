@@ -111,8 +111,6 @@ Per la pneumocistosi (10 pubblicazioni; nessuna dimostra l'efficacia del metroni
 | 021299033 | DEFLAMON*1 flacone EV 500 mg 100 ml (SPA) | — | Stato: valida |
 | 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | — | Stato: valida |
 
-Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -133,7 +131,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-- Per la pneumocistosi non esistono studi clinici né letteratura a supporto; il meccanismo è implausibile (*Pneumocystis* è un fungo) e il punteggio elevato sembra derivare da prossimità di rete. Evidenza di livello L5. Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate.
+- Per la pneumocistosi non esistono studi clinici né letteratura a supporto; il meccanismo è implausibile (*Pneumocystis* è un fungo) e il punteggio elevato sembra derivare da prossimità di rete. Evidenza di livello L5.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) del metronidazolo.

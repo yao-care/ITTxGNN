@@ -106,13 +106,13 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare. Inoltre, le autorizzazioni italiane risultano tutte cancellate.
+La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Evidenze precliniche o cliniche che giustifichino un legame biologico con la nuova indicazione
-- Chiarimento della situazione autorizzativa in Italia (tutte le licenze sono cancellate)
+- Chiarimento della situazione autorizzativa in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

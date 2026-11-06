@@ -88,13 +88,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo su un punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES. Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali.
+La previsione si basa solo su un punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES.
 
 **Per procedere sono necessari:**
 - Una ricerca bibliografica sistematica sull'uso della rufinamide in FIRES e nelle altre epilessie previste, con revisione da parte di esperti
 - Dati sul meccanismo d'azione dettagliato (da DrugBank)
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
-- Chiarimenti sullo stato regolatorio, dato che tutte le autorizzazioni sono cancellate, e sulle vie di somministrazione necessarie
+- Chiarimenti sullo stato regolatorio, e sulle vie di somministrazione necessarie
 - Valutazione del rischio per le interazioni e per le condizioni epatiche ed ematologiche segnalate
 ## Avvertenza
 

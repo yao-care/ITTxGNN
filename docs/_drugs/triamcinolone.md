@@ -106,13 +106,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici e le autorizzazioni italiane sono tutte cancellate.
+La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici.
 
 **Per procedere sono necessari:**
 - Evidenze cliniche dirette sull'uso del triamcinolone (intralesionale o topico) nell'alopecia mucinosa, ad esempio serie di casi o studi controllati
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA
-- Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta, dato che in Italia non risultano autorizzazioni valide
+- Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta
 
 ---
 

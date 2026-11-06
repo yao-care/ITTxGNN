@@ -100,7 +100,7 @@ Si segnala solo che, come classe, gli antipsicotici possono causare effetti avve
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è basata solo sul modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico. Il possibile rischio di tossicità retinica va in direzione opposta all'indicazione proposta. Inoltre l'unica autorizzazione italiana è cancellata.
+La previsione è basata solo sul modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico. Il possibile rischio di tossicità retinica va in direzione opposta all'indicazione proposta.
 
 **Per procedere sarebbe necessario:**
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza

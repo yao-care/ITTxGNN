@@ -123,13 +123,13 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo, non dis
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esiste uno studio di fase 2 completato (n=131) con braccio dedicato al liposarcoma, ma il suo esito è negativo: gli autori non supportano l'uso routinario del farmaco. Il punteggio TxGNN elevato non è dunque confermato dai dati clinici, e qualsiasi ulteriore sviluppo dovrebbe limitarsi a ricerca esplorativa, ad esempio con terapie di combinazione. Inoltre, l'unica autorizzazione italiana risulta cancellata.
+Esiste uno studio di fase 2 completato (n=131) con braccio dedicato al liposarcoma, ma il suo esito è negativo: gli autori non supportano l'uso routinario del farmaco. Il punteggio TxGNN elevato non è dunque confermato dai dati clinici, e qualsiasi ulteriore sviluppo dovrebbe limitarsi a ricerca esplorativa, ad esempio con terapie di combinazione.
 
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica dei risultati primari per sottotipo di liposarcoma e valutazione di approcci combinati
-- Chiarimento dello stato regolatorio in Italia (autorizzazione cancellata)
+- Chiarimento dello stato regolatorio in Italia
 
 ---
 

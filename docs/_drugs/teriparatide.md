@@ -110,7 +110,7 @@ Il testo delle controindicazioni e delle avvertenze del foglio illustrativo AIFA
 **Decisione: Hold**
 
 **Motivazione:**
-Per l'ulcera duodenale esistono solo una previsione del modello e nessuno studio clinico o pubblicazione. In più non si individua alcun razionale meccanicistico, e il prodotto non ha autorizzazioni valide in Italia.
+Per l'ulcera duodenale esistono solo una previsione del modello e nessuno studio clinico o pubblicazione. In più non si individua alcun razionale meccanicistico.
 
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni, una lacuna che oggi impedisce la valutazione di sicurezza.

@@ -95,7 +95,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è limitata a predizione del modello, dati *in vitro* e piccoli studi indiretti (livello L4). Non ci sono studi clinici registrati sull'acne, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.
+L'evidenza è limitata a predizione del modello, dati *in vitro* e piccoli studi indiretti (livello L4). Non ci sono studi clinici registrati sull'acne e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.
 
 **Per procedere è necessario:**
 - Recuperare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni).

@@ -125,7 +125,7 @@ Uno studio di genetica (PMID 25413361) suggerisce inoltre che i polimorfismi di 
 **Decisione: Hold (domanda di ricerca)**
 
 **Motivazione:**
-L'evidenza per l'osteoartrite è indiretta e preclinica (livello L4): non ci sono studi clinici né dati di efficacia nell'uomo. Le altre previsioni con punteggio elevato (malattie rare dello sviluppo, sindrome WHIM, ecc.) sono prive di qualsiasi razionale e sono probabilmente artefatti computazionali. La previsione per la spondiloartropatia riflette un'indicazione già esistente e non è un vero riposizionamento. Inoltre, l'unica autorizzazione italiana è revocata.
+L'evidenza per l'osteoartrite è indiretta e preclinica (livello L4): non ci sono studi clinici né dati di efficacia nell'uomo. Le altre previsioni con punteggio elevato (malattie rare dello sviluppo, sindrome WHIM, ecc.) sono prive di qualsiasi razionale e sono probabilmente artefatti computazionali. La previsione per la spondiloartropatia riflette un'indicazione già esistente e non è un vero riposizionamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti come DrugBank

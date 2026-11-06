@@ -112,7 +112,7 @@ Tutte le 15 autorizzazioni risultano valide (15 su 15); le forme farmaceutiche e
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza per la cheratosi seborroica è di livello L3, costituita da piccole serie di casi e studi non controllati, senza sperimentazioni registrate né RCT. Inoltre non esistono autorizzazioni italiane valide per il calcipotriolo e i dati di sicurezza del foglio illustrativo sono assenti. Il meccanismo è plausibile e l'ipotesi merita ulteriore ricerca, ma non è sufficiente per procedere.
+L'evidenza per la cheratosi seborroica è di livello L3, costituita da piccole serie di casi e studi non controllati, senza sperimentazioni registrate né RCT. I dati di sicurezza del foglio illustrativo sono assenti. Il meccanismo è plausibile e l'ipotesi merita ulteriore ricerca, ma non è sufficiente per procedere.
 
 Le altre previsioni (cheratosi follicolare invertita vulvare, vulvovaginite, vulvite, neoplasie vulvari, ulcerazione vulvare, vaginite atrofica postmenopausale, malattia di Paget ossea, malattia fibrocistica della mammella) hanno evidenza L4-L5 e sono tutte in stato Hold: mancano studi diretti e per diverse di esse (mucose, lesioni ulcerate, malignità) l'irritazione o il rischio sistemico rappresentano un ulteriore motivo di cautela.
 

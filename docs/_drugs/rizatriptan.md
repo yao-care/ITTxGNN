@@ -96,7 +96,7 @@ Sono elencate le pubblicazioni più rilevanti (revisioni e studi randomizzati in
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni approvate non è disponibile. Sono riportate le prime 5.
+Il testo delle indicazioni approvate non è disponibile. Sono riportate le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -124,13 +124,13 @@ La presenza di controindicazioni cerebrovascolari e dell'emicrania emiplegica è
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è sostenuta solo dalla vicinanza al sottotipo di emicrania già trattato, senza studi clinici né letteratura specifica; inoltre i triptani sono tradizionalmente sconsigliati in questo sottotipo per timori vascolari. Tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano.
+La previsione è sostenuta solo dalla vicinanza al sottotipo di emicrania già trattato, senza studi clinici né letteratura specifica; inoltre i triptani sono tradizionalmente sconsigliati in questo sottotipo per timori vascolari. I dati di sicurezza ufficiali mancano.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi o serie di casi specifici su emicrania con aura del tronco encefalico, con valutazione del rischio cerebrovascolare
-- Chiarimento dello stato regolatorio attuale (formulazioni disponibili in Italia, dato che tutte le licenze risultano cancellate)
+- Chiarimento dello stato regolatorio attuale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

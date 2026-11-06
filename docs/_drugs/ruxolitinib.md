@@ -144,7 +144,6 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Verifica dei disegni di studio sui testi completi delle pubblicazioni
 - Studi clinici prospettivi o randomizzati nell'HLH
-- Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibilità della via di somministrazione sistemica
 - Per liposarcoma e altre predizioni: studi che testino direttamente il ruxolitinib
 ## Avvertenza
 

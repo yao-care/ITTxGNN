@@ -74,7 +74,7 @@ Attualmente non è disponibile letteratura correlata.
 |---------|------|------|-----------|
 | 024155057 | SECTRAL*30 cpr 400 mg | Non indicata | Non registrata |
 
-Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH. Lo stato della singola autorizzazione risulta cancellato nei dati locali.
+Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH.
 
 ## Considerazioni sulla sicurezza
 

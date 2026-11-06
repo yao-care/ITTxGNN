@@ -74,7 +74,7 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvata non è presente nei dati compilati.
+Il testo dell'indicazione approvata non è presente nei dati compilati.
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si fonda unicamente sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo è speculativo, il profilo teratogeno è preoccupante e tutte le autorizzazioni italiane sono cancellate.
+La previsione si fonda unicamente sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo è speculativo, il profilo teratogeno è preoccupante.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante

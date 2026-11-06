@@ -109,13 +109,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno studio registrato (livello L4). Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure. Inoltre tutte le autorizzazioni italiane risultano cancellate.
+Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno studio registrato (livello L4). Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank
 - Avvertenze e controindicazioni ufficiali dai fogli illustrativi AIFA (attualmente mancanti, lacuna bloccante per lo screening di sicurezza)
 - Una revisione sistematica della letteratura sull'uso di oppioidi nel Tourette, con valutazione del rapporto rischio-beneficio nei pazienti pediatrici
-- Chiarimenti sullo stato regolatorio (autorizzazioni cancellate) e sulla disponibilità di formulazioni
+- Chiarimenti sullo stato regolatorio e sulla disponibilità di formulazioni
 - Un eventuale studio esplorativo di fase 2 solo se i punti precedenti risultano favorevoli
 ## Avvertenza
 

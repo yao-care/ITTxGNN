@@ -97,7 +97,7 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglietto
 **Decisione: Procedere con cautele (Proceed with Guardrails)**
 
 **Motivazione:**
-Tre RCT di confronto con il cefaclor nelle infezioni urinarie acute non complicate indicano un'efficacia clinica comparabile e una buona sicurezza. Le evidenze sono però datate, non esistono studi registrati e tutte le autorizzazioni locali risultano cancellate.
+Tre RCT di confronto con il cefaclor nelle infezioni urinarie acute non complicate indicano un'efficacia clinica comparabile e una buona sicurezza. Le evidenze sono però datate, non esistono studi registrati.
 
 **Per procedere sono necessari:**
 - Verifica dello stato effettivo delle autorizzazioni e della disponibilità del prodotto in Italia

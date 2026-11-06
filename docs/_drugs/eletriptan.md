@@ -87,7 +87,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 15 autorizzazioni risultano cancellate; non ve n'è alcuna attualmente valida. Il testo dell'indicazione approvata non è presente nei dati compilati. Sono elencate le prime 5:
+Il testo dell'indicazione approvata non è presente nei dati compilati. Sono elencate le prime 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -112,14 +112,14 @@ Per le avvertenze e le controindicazioni riportate in scheda tecnica, consultare
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un'elevata somiglianza biologica con l'emicrania già trattata, ma non esistono studi clinici né letteratura specifici per l'emicrania con aura del tronco encefalico. Inoltre, il sottotipo comporta preoccupazioni teoriche di vasocostrizione, e tutte le autorizzazioni italiane sono cancellate. Il livello di evidenza è L4 (L5 per le altre indicazioni predette: atrofoderma vermicolare, uleritema ofriogenico e neuropatia sciatica, tutte senza evidenze né un meccanismo plausibile).
+La predizione si basa su un'elevata somiglianza biologica con l'emicrania già trattata, ma non esistono studi clinici né letteratura specifici per l'emicrania con aura del tronco encefalico. Inoltre, il sottotipo comporta preoccupazioni teoriche di vasocostrizione. Il livello di evidenza è L4 (L5 per le altre indicazioni predette: atrofoderma vermicolare, uleritema ofriogenico e neuropatia sciatica, tutte senza evidenze né un meccanismo plausibile).
 
 **Per procedere sono necessari:**
 - Testo completo del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi o serie di casi specifici sull'uso dei triptani nell'emicrania con aura del tronco encefalico
 - Valutazione del rischio cardiovascolare e cerebrovascolare per questo sottotipo
-- Chiarimento dello stato regolatorio in Italia, dato che non vi sono autorizzazioni valide
+- Chiarimento dello stato regolatorio in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

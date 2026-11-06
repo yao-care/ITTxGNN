@@ -92,8 +92,6 @@ Per l'indicazione di rango 4 (disturbo cerebrovascolare) sono disponibili ulteri
 | 039589039 | Multaq 60 cpr rivestite 400 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 046652044 | Dronedarone 60 cpr rivestite 400 mg (Aristo Pharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni riportate in letteratura/banche dati (non dal foglietto illustrativo)**: sindrome del QT lungo (anche familiare), torsione di punta, insufficienza epatica, carenza di potassio, blocco atrioventricolare, malattia del nodo del seno (anche familiare).
@@ -112,7 +110,7 @@ Per l'ictus non esiste alcuno studio clinico dedicato: le evidenze sono post hoc
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (dato bloccante per lo screening di sicurezza)
-- Verifica dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica dello stato regolatorio attuale in Italia
 - Uno studio dedicato alla prevenzione dell'ictus, o un'analisi formale degli esiti ictus negli studi già esistenti
 - Un piano di gestione delle interazioni con anticoagulanti e della selezione dei pazienti (esclusione di fibrillazione atriale permanente e scompenso grave)
 ## Avvertenza

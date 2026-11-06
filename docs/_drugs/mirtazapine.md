@@ -106,7 +106,7 @@ La predizione si basa solo sul modello (livello L5), senza studi clinici né let
 - Dati sul meccanismo d'azione (MOA) per verificare l'eventuale collegamento con la patologia
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
 - Evidenze precliniche o cliniche che colleghino la farmacologia della mirtazapina alla sindrome di Ohdo
-- Valutazione dell'accesso al farmaco, dato che in Italia non risultano autorizzazioni valide
+- Valutazione dell'accesso al farmaco
 - Piano di sicurezza specifico per popolazioni pediatriche
 ## Avvertenza
 

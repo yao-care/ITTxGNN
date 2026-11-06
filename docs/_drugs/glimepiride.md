@@ -103,7 +103,7 @@ Per completezza, tra le altre previsioni è stata individuata una sola pubblicaz
 
 ## Informazioni sul mercato italiano
 
-Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni attualmente valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati disponibili (le confezioni sono compresse). Elenco delle principali 5:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati disponibili (le confezioni sono compresse). Elenco delle principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -129,13 +129,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la sindrome della persona rigida classica si basa solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale farmacologico plausibile per una sulfonilurea. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.
+La previsione per la sindrome della persona rigida classica si basa solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale farmacologico plausibile per una sulfonilurea.
 
 **Per procedere sarebbe necessario:**
 - Reperire i dati sul meccanismo d'azione (DrugBank) e verificare un eventuale legame con la fisiopatologia della sindrome (anti-GAD65, neurotrasmissione GABAergica)
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Condurre una revisione sistematica della letteratura e, se giustificato, studi preclinici
-- Chiarire la situazione regolatoria e di disponibilità del farmaco in Italia, dato che non vi sono autorizzazioni valide
+- Chiarire la situazione regolatoria e di disponibilità del farmaco in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

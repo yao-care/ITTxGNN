@@ -71,8 +71,6 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide.
-
 | Numero di autorizzazione | Nome del prodotto | Stato |
 |---------|------|------|
 | 044560047 | ORKAMBI 112 cpr rivestite 100 mg + 125 mg | Valida |
@@ -100,14 +98,14 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato. Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo.
+La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank e analisi del collegamento meccanicistico con la lebbra
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Studi preclinici (es. modelli cellulari di infezione da *M. leprae*) che verifichino l'ipotesi
 - Valutazione della compatibilità delle vie di somministrazione e della somiglianza con l'indicazione originale
-- Chiarimento della situazione regolatoria, dato che tutte le autorizzazioni sono cancellate
+- Chiarimento della situazione regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

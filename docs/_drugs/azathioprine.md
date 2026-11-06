@@ -105,7 +105,7 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per questa sindrome rara si basa solo sul punteggio del modello (livello L5), senza studi né letteratura e senza alcun razionale meccanicistico. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+La previsione per questa sindrome rara si basa solo sul punteggio del modello (livello L5), senza studi né letteratura e senza alcun razionale meccanicistico.
 
 **Per procedere sarebbero necessari:**
 - Un razionale biologico che colleghi l'azatioprina alla fisiopatologia della sindrome (oggi assente)

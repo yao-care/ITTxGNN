@@ -90,7 +90,7 @@ Il farmaco è in commercio in Italia: tutte le 9 autorizzazioni risultano valide
 | 036870044 | ORFADIN 60 cps 20 mg | Swedish Orphan Biovitrum Int. AB |
 | 036870057 | ORFADIN sospensione orale 4 mg/ml, flacone da 90 ml | Swedish Orphan Biovitrum Int. AB |
 
-Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH). Il testo delle indicazioni approvate non è disponibile.
+Il testo delle indicazioni approvate non è disponibile.
 
 ---
 

@@ -101,7 +101,7 @@ Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzio
 | 038100018 | Flecainide 20 cpr 100 mg (Teva Italia) | Compresse | Valida |
 | 037415015 | Flecainide 20 cpr 100 mg (Sandoz) | Compresse | Valida |
 
-Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.
+Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 ---
 
@@ -120,14 +120,14 @@ Le avvertenze e le controindicazioni ufficiali non sono disponibili: consultare 
 **Decisione: Hold**
 
 **Motivazione:**
-- Il legame con l'ictus è puramente indiretto (mediato dalla fibrillazione atriale): l'unico studio di fase 3 ha come endpoint l'aritmia dopo chiusura del PFO e non ha ancora risultati. Non esiste evidenza che la flecainide riduca l'ictus; il livello L2 riportato è piuttosto generoso rispetto a questa base. Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione e tutte le autorizzazioni italiane sono cancellate.
+- Il legame con l'ictus è puramente indiretto (mediato dalla fibrillazione atriale): l'unico studio di fase 3 ha come endpoint l'aritmia dopo chiusura del PFO e non ha ancora risultati. Non esiste evidenza che la flecainide riduca l'ictus; il livello L2 riportato è piuttosto generoso rispetto a questa base. Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione.
 
 **Per procedere sono necessari:**
 - Risultati dello studio NCT05213104 (completamento previsto a settembre 2026) e verifica che l'endpoint sia clinicamente rilevante per l'ictus
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Evidenze dirette sulla riduzione di ictus/eventi cerebrovascolari con la flecainide, e piano di gestione delle interazioni con gli anticoagulanti
-- Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate)
+- Chiarimento dello stato regolatorio in Italia
 
 Le altre indicazioni previste (ranghi 2-8 e 10) sono basate solo sul modello, senza studi né letteratura, e in alcuni casi con possibili problemi di sicurezza (ad es. sindrome del seno malato); restano in **Hold**.
 ## Avvertenza

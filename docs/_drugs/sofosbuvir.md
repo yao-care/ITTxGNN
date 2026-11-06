@@ -107,8 +107,6 @@ Studi più rilevanti per l'epatite B (rango 1), da leggere come questione di sic
 | 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
 | 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
 
-Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide.
-
 ## Considerazioni di sicurezza
 
 - **Rischio di riattivazione dell'HBV**: la letteratura documenta riattivazioni del virus dell'epatite B in pazienti co-infetti durante terapia con antivirali ad azione diretta contro l'HCV, compresi regimi con sofosbuvir. Nei co-infetti è quindi necessario uno screening dell'HBV e un monitoraggio (valutando una profilassi, ad esempio con TAF).
@@ -137,14 +135,14 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-- L'unica direzione con razionale meccanicistico e prime prove cliniche dirette è l'epatite E, ma lo studio pilota (n=10) non ha ottenuto una risposta virologica sostenuta e ha mostrato varianti di resistenza. Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica. Inoltre tutte le autorizzazioni italiane sono cancellate.
+- L'unica direzione con razionale meccanicistico e prime prove cliniche dirette è l'epatite E, ma lo studio pilota (n=10) non ha ottenuto una risposta virologica sostenuta e ha mostrato varianti di resistenza. Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) provenienti da DrugBank.
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Studi controllati e di maggiori dimensioni sull'epatite E (ad esempio sofosbuvir in combinazione con ribavirina in pazienti refrattari), con endpoint di risposta virologica sostenuta.
 - Un piano di monitoraggio della riattivazione dell'HBV per le popolazioni co-infette.
-- Chiarimento della posizione regolatoria in Italia, dato che le autorizzazioni attuali sono tutte cancellate.
+- Chiarimento della posizione regolatoria in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

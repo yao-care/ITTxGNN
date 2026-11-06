@@ -81,7 +81,7 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|-----------|
@@ -90,8 +90,6 @@ Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni vali
 | 040158014 | Nivestim, siringa SC/EV 12 MU/0,2 ml | Pfizer Europe MA EEIG |
 | 040158040 | Nivestim, siringa SC/EV 30 MU/0,5 ml | Pfizer Europe MA EEIG |
 | 040158077 | Nivestim, siringa SC/EV 48 MU/0,5 ml | Pfizer Europe MA EEIG |
-
-Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057).
 
 ## Considerazioni sulla sicurezza
 
@@ -104,7 +102,7 @@ Per le avvertenze e le controindicazioni, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico. Inoltre, in Italia non vi sono attualmente autorizzazioni valide.
+La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e analisi di un eventuale ponte meccanicistico con la funzione piastrinica

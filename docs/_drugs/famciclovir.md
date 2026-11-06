@@ -89,8 +89,6 @@ Attualmente non è disponibile letteratura correlata a questa indicazione previs
 | 039431022 | VILACIR 21 cpr rivestite 500 mg (Genetic) | Compresse rivestite | Non riportata (autorizzazione valida) |
 | 029172044 | FAMVIR 10 cpr rivestite 125 mg (Phoenix Labs) | Compresse rivestite | Non riportata (autorizzazione valida) |
 
-Sono elencate 5 delle 12 autorizzazioni, tutte cancellate: attualmente non vi è alcun prodotto a base di famciclovir in commercio in Italia.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -107,13 +105,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa soprattutto sul modello: l'unico studio clinico associato studia l'ossicodone e non il famciclovir, non esiste letteratura specifica, e il legame meccanicistico è indiretto. Inoltre tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica.
+La predizione si basa soprattutto sul modello: l'unico studio clinico associato studia l'ossicodone e non il famciclovir, non esiste letteratura specifica, e il legame meccanicistico è indiretto.
 
 **Per procedere sono necessari:**
 - Studi clinici che valutino direttamente il famciclovir (o la terapia antivirale precoce) nella prevenzione o nel trattamento della nevralgia post-erpetica
 - Dati dettagliati sul meccanismo d'azione
 - Avvertenze e controindicazioni ufficiali dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
-- Valutazione della fattibilità regolatoria, dato che non esistono prodotti attualmente autorizzati in Italia
+- Valutazione della fattibilità regolatoria
 - Verifica della classificazione di gravità delle interazioni farmacologiche e delle precauzioni in caso di insufficienza renale
 ## Avvertenza
 

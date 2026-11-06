@@ -91,7 +91,7 @@ Per la congiuntivite, attualmente non risultano studi clinici registrati correla
 | 021110097 | RIFADIN 8 cpr rivestite 450 mg | Non disponibile | Non disponibile |
 | 025377033 | RIFINAH 24 cpr rivestite 300 mg + 150 mg | Non disponibile | Non disponibile |
 
-Esiste una sesta autorizzazione (RIFATER, 40 cpr rivestite, n. 026981011). Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate.
+Esiste una sesta autorizzazione (RIFATER, 40 cpr rivestite, n. 026981011).
 
 ## Considerazioni sulla sicurezza
 
@@ -105,7 +105,7 @@ Per avvertenze e precauzioni d'uso consultare il foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è biologicamente plausibile per le congiuntiviti batteriche e clamidiali, ma le evidenze si limitano a studi datati, dati di sensibilità e case report, senza studi registrati. Esistono inoltre alternative topiche più sicure e consolidate, e in Italia non vi sono autorizzazioni valide.
+La predizione è biologicamente plausibile per le congiuntiviti batteriche e clamidiali, ma le evidenze si limitano a studi datati, dati di sensibilità e case report, senza studi registrati. Esistono inoltre alternative topiche più sicure e consolidate.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti dedicate

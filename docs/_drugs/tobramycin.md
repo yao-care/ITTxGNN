@@ -120,7 +120,7 @@ Per le avvertenze e le controindicazioni ufficiali occorre consultare il foglio 
 **Decisione: Hold**
 
 **Motivazione:**
-Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici. Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate.
+Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione

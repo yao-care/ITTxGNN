@@ -111,13 +111,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è limitata a un piccolo studio del 1992 e a revisioni, senza studi clinici registrati. Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e presenta un rischio significativo di prolungamento del QT, con numerose interazioni. Gli altri candidati nella lista (mania, insonnia, depressione maggiore, ADHD e altri) hanno evidenze ancora più deboli, datate o non pertinenti, e restano anch'essi in Hold.
+L'evidenza è limitata a un piccolo studio del 1992 e a revisioni, senza studi clinici registrati. Presenta un rischio significativo di prolungamento del QT, con numerose interazioni. Gli altri candidati nella lista (mania, insonnia, depressione maggiore, ADHD e altri) hanno evidenze ancora più deboli, datate o non pertinenti, e restano anch'essi in Hold.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni ufficiali del foglio illustrativo AIFA
 - Studi controllati (RCT) moderni sul pimozide nella tricotillomania, con confronto rispetto alle alternative consolidate
 - Un piano di monitoraggio dell'ECG e dei livelli di potassio, e una strategia di gestione delle interazioni con SSRI e inibitori del CYP2D6/CYP3A4
-- Una valutazione della fattibilità regolatoria, dato che il prodotto non è più in commercio in Italia
+- Una valutazione della fattibilità regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

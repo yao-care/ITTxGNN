@@ -98,8 +98,6 @@ Per il diabete neonatale permanente è disponibile una revisione ([28527303](htt
 
 ## Informazioni sul mercato italiano
 
-Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
-
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 035563079 | NOVOMIX 30 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Valida |
@@ -117,7 +115,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo.
 **Decisione: Proceed with Guardrails (procedere con cautele)**
 
 **Motivazione:**
-Per il diabete di tipo 1 esistono numerosi studi di fase 3 completati e revisioni sistematiche, quindi l'evidenza è solida (L1). Si tratta però di un uso già consolidato e non di un vero riposizionamento, e tutte le autorizzazioni italiane risultano cancellate. Le altre indicazioni predette sono in gran parte supportate solo dal modello, senza evidenze cliniche.
+Per il diabete di tipo 1 esistono numerosi studi di fase 3 completati e revisioni sistematiche, quindi l'evidenza è solida (L1). Si tratta però di un uso già consolidato e non di un vero riposizionamento. Le altre indicazioni predette sono in gran parte supportate solo dal modello, senza evidenze cliniche.
 
 **Per procedere è necessario:**
 - Verificare la disponibilità attuale in Italia di formulazioni equivalenti di insulina aspart in commercio

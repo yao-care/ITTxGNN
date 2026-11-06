@@ -86,14 +86,14 @@ Per le avvertenze, le controindicazioni e le altre informazioni di sicurezza si 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la porfiria acuta intermittente si basa solo sul punteggio TxGNN (livello di evidenza L5), senza studi clinici, letteratura o un meccanismo plausibile. Inoltre, il farmaco non ha autorizzazioni valide in Italia (l'unica è cancellata) e mancano i dati di sicurezza del foglio illustrativo.
+La previsione per la porfiria acuta intermittente si basa solo sul punteggio TxGNN (livello di evidenza L5), senza studi clinici, letteratura o un meccanismo plausibile.
 
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente una lacuna bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione (ad es. da DrugBank) per analizzare un possibile legame meccanicistico
 - Revisione della sicurezza degli antistaminici nei pazienti con porfiria
 - Studi preclinici o revisione della letteratura che giustifichino un legame con la porfiria acuta intermittente
-- Valutazione della fattibilità regolatoria e commerciale, dato che l'autorizzazione italiana è cancellata
+- Valutazione della fattibilità regolatoria e commerciale
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

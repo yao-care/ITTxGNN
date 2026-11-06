@@ -114,13 +114,13 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-Per la carenza di cofattore eparinico II esistono solo case report, senza studi clinici. L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo. Inoltre l'unica autorizzazione italiana è revocata.
+Per la carenza di cofattore eparinico II esistono solo case report, senza studi clinici. L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo.
 
 **Per procedere è necessario:**
 - Recuperare dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Raccogliere evidenze più solide (coorti o studi controllati) sul warfarin nella carenza di cofattore eparinico II
-- Verificare la disponibilità commerciale del farmaco in Italia, dato che l'autorizzazione è revocata
+- Verificare la disponibilità commerciale del farmaco in Italia
 - Definire un piano di monitoraggio dell'INR e del rischio emorragico, considerando le numerose interazioni farmacologiche
 ## Avvertenza
 

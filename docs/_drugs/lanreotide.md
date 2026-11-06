@@ -71,7 +71,6 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 029399110 | IPSTYL siringa SC 60 mg | Ipsen SpA | Valida |
@@ -80,7 +79,7 @@ Attualmente non è disponibile letteratura correlata.
 | 048001010 | MYRELEZ siringa SC 60 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
 | 048001022 | MYRELEZ siringa SC 90 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
 
-È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd). Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.
+Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.
 
 ## Considerazioni sulla sicurezza
 
@@ -94,7 +93,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.
+La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5).
 
 **Per procedere sono necessari:**
 - Acquisizione del foglio illustrativo AIFA (avvertenze e controindicazioni), necessaria per lo screening di sicurezza

@@ -104,8 +104,6 @@ Inoltre, poiché la popolazione bersaglio coincide con quella dell'indicazione o
 | 023245020 | SOTALEX*40 cpr 80 mg (CHEPLAPHARM) | n.d. | n.d. (valida) |
 | 029528027 | RYTMOBETA*50 cpr 80 mg (VIATRIS ITALIA) | n.d. | n.d. (valida) |
 
-Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -122,7 +120,7 @@ Per le avvertenze del foglietto illustrativo, consultare la documentazione AIFA 
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza per l'ictus è solo indiretta (livello L4): lo studio di fase 3 riguarda la fibrillazione atriale, non l'ictus, e la letteratura è composta in gran parte da rassegne. Il sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e il profilo di sicurezza richiede cautela. Altre previsioni ad alto punteggio (sindrome del nodo del seno, sindrome di Wildervanck, sarcoglicanopatia, disturbo bipolare maniacale) sono prive di evidenze o suggeriscono addirittura un danno.
+L'evidenza per l'ictus è solo indiretta (livello L4): lo studio di fase 3 riguarda la fibrillazione atriale, non l'ictus, e la letteratura è composta in gran parte da rassegne. Il profilo di sicurezza richiede cautela. Altre previsioni ad alto punteggio (sindrome del nodo del seno, sindrome di Wildervanck, sarcoglicanopatia, disturbo bipolare maniacale) sono prive di evidenze o suggeriscono addirittura un danno.
 
 **Per procedere sono necessari:**
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)

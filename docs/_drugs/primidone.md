@@ -86,7 +86,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per il neoplasma del nervo trigemino si basa solo sul punteggio del modello (livello L5), senza studi clinici, senza letteratura e senza un meccanismo plausibile. Inoltre il prodotto in Italia risulta soltanto con autorizzazione cancellata.
+La previsione per il neoplasma del nervo trigemino si basa solo sul punteggio del modello (livello L5), senza studi clinici, senza letteratura e senza un meccanismo plausibile.
 
 **Per procedere, è necessario:**
 - Acquisire dati sul meccanismo d'azione e verificare se esista un razionale biologico per i tumori del nervo trigemino

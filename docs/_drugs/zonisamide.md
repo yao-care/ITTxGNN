@@ -101,7 +101,7 @@ Il modello ha prodotto altre previsioni con punteggi simili. Nessuna ha evidenza
 | 044231013 | ZONISAMIDE 14 cps 25 mg | Capsule | Valida | DOC GENERICI Srl |
 | 044836070 | ZONISAMIDE 28 cps 50 mg | Capsule | Valida | VIATRIS LIMITED |
 
-Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate). Il testo delle indicazioni approvate non è disponibile nei dati compilati.
+Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 ---
 

@@ -89,7 +89,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e non esiste un collegamento meccanicistico plausibile tra il blocco del CGRP e le vie della coagulazione. L'unica autorizzazione italiana risulta cancellata.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e non esiste un collegamento meccanicistico plausibile tra il blocco del CGRP e le vie della coagulazione.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank, per un'analisi del collegamento meccanicistico

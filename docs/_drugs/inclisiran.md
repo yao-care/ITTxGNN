@@ -87,7 +87,7 @@ Per la malformazione aortica risultano collegati due studi di fase 3 su inclisir
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (L5), senza studi né letteratura e senza alcun razionale meccanicistico plausibile. Inoltre l'unica autorizzazione italiana risulta cancellata e mancano i dati di sicurezza del foglio illustrativo.
+La predizione si basa solo sul modello (L5), senza studi né letteratura e senza alcun razionale meccanicistico plausibile. Mancano i dati di sicurezza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank, per valutare un eventuale legame con l'omeostasi del potassio

@@ -103,7 +103,7 @@ Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio 
 **Decisione: Hold**
 
 **Motivazione:**
-- La predizione per l'ADHD si basa quasi esclusivamente sul punteggio del modello, senza studi clinici specifici e con letteratura solo indiretta. Inoltre tutte le autorizzazioni italiane sono cancellate.
+- La predizione per l'ADHD si basa quasi esclusivamente sul punteggio del modello, senza studi clinici specifici e con letteratura solo indiretta.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del pramipexolo

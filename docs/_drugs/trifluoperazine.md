@@ -103,8 +103,6 @@ Sono presenti inoltre alcuni lavori storici degli anni '60 (ad es. [14084030](ht
 | 019184050 | MODALINA*30 cpr rivestite 1 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 019184062 | MODALINA*30 cpr rivestite 2 mg (SIT Laboratorio Farmaceutico) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono prodotti a base di trifluoperazina in commercio in Italia.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -121,13 +119,13 @@ Il foglio illustrativo AIFA con avvertenze e controindicazioni non è disponibil
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è biologicamente plausibile (antagonismo D2, classe antipsicotica), ma non esistono studi clinici né letteratura che testino la trifluoperazina nella mania. Inoltre, in Italia il farmaco non è più autorizzato e il profilo di sicurezza non è stato verificato sul foglio illustrativo.
+La previsione è biologicamente plausibile (antagonismo D2, classe antipsicotica), ma non esistono studi clinici né letteratura che testino la trifluoperazina nella mania.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente una lacuna bloccante per lo screening di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Eseguire una ricerca mirata di studi clinici e letteratura sulla trifluoperazina nella mania (inclusi confronti con altri antipsicotici)
-- Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate
+- Valutare la fattibilità regolatoria
 - Definire un piano di monitoraggio della sicurezza per le popolazioni a rischio indicate dalle controindicazioni
 ## Avvertenza
 

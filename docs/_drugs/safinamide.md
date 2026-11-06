@@ -106,7 +106,7 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa esclusivamente sul punteggio TxGNN, senza alcuna sperimentazione clinica o pubblicazione di supporto (livello L5). Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo. Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate.
+La previsione si basa esclusivamente sul punteggio TxGNN, senza alcuna sperimentazione clinica o pubblicazione di supporto (livello L5). Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti verificate

@@ -112,7 +112,6 @@ Gli altri documenti recuperati riguardano temi adiacenti (disfunzione sessuale d
 | 032010011 | SELECOM*50 cpr 5 mg (Fulton Medicinali) | Compresse | Non disponibile (autorizzazione valida) |
 | 025462019 | JUMEX*50 cpr 5 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione valida) |
 
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -136,7 +135,7 @@ Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni non è 
 - Testo del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e che blocca la valutazione di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Piano di monitoraggio della sicurezza per le interazioni da inibizione delle MAO e per l'uso con antipsicotici, tenendo conto della controindicazione segnalata nel grafo per i disturbi psicotici
-- Chiarimento dello stato regolatorio, dato che tutte le autorizzazioni italiane risultano cancellate
+- Chiarimento dello stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

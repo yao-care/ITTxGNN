@@ -101,7 +101,7 @@ Per le informazioni complete sulla sicurezza, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello computazionale (L5), senza studi né pubblicazioni. Il razionale meccanicistico è debole o addirittura sfavorevole: gli anticolinergici possono peggiorare la ritenzione urinaria nella sindrome della cauda equina. Inoltre l'unica autorizzazione italiana è revocata.
+La previsione si basa solo sul modello computazionale (L5), senza studi né pubblicazioni. Il razionale meccanicistico è debole o addirittura sfavorevole: gli anticolinergici possono peggiorare la ritenzione urinaria nella sindrome della cauda equina.
 
 **Per procedere sarebbe necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza

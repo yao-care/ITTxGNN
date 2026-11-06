@@ -114,7 +114,7 @@ Per avvertenze e controindicazioni ufficiali fare riferimento alla scheda tecnic
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un punteggio computazionale elevato e su un solo piccolo studio di fase NA ancora in corso, senza risultati; il livello di evidenza è L4. L'unica autorizzazione italiana è cancellata e le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.
+La predizione si basa su un punteggio computazionale elevato e su un solo piccolo studio di fase NA ancora in corso, senza risultati; il livello di evidenza è L4. Le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.
 
 **Per procedere sono necessari:**
 - Risultati dello studio NCT07237763 e, idealmente, RCT di fase 2/3 con formulazione topica nell'acne

@@ -109,7 +109,6 @@ Per avvertenze e controindicazioni ufficiali occorre consultare il foglio illust
 
 **Motivazione:**
 - La predizione per il neoplasma del nervo trigemino si basa solo sul punteggio del modello (livello L5), senza studi clinici e con un'unica pubblicazione non pertinente. Non vi è alcuna plausibilità antitumorale.
-- Tutte le autorizzazioni italiane sono cancellate, il che limita ulteriormente la praticabilità.
 
 **Per procedere sarebbe necessario:**
 - Recuperare il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza).

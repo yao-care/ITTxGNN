@@ -99,7 +99,7 @@ Avvertenze e controindicazioni ufficiali del foglietto illustrativo AIFA non son
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è basata solo sul modello (L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile con una malattia genetica dello sviluppo scheletrico. Inoltre tutte le autorizzazioni italiane sono cancellate.
+La previsione è basata solo sul modello (L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile con una malattia genetica dello sviluppo scheletrico.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) del ketoprofene.

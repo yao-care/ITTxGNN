@@ -94,7 +94,7 @@ Solo due studi (ENHANCE e NCT00129402) hanno la simvastatina come parte centrale
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ Avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi di fase 3 completati e numerose revisioni e linee guida. Tuttavia si tratta di un uso già consolidato e non di un nuovo riposizionamento. Il profilo di interazioni e il rischio muscolare richiedono cautele, e tutte le autorizzazioni italiane sono cancellate.
+L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi di fase 3 completati e numerose revisioni e linee guida. Tuttavia si tratta di un uso già consolidato e non di un nuovo riposizionamento. Il profilo di interazioni e il rischio muscolare richiedono cautele.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank.

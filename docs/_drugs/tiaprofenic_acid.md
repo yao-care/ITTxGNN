@@ -96,7 +96,7 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 Per le informazioni di sicurezza si rimanda al foglio illustrativo; i dati compilati per questo report non includono avvertenze o controindicazioni. Non sono state trovate interazioni farmacologiche nei dati disponibili.
 
-Si segnala inoltre che, secondo le valutazioni di contesto, il farmaco non è più in commercio e presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite). Qualsiasi ulteriore sviluppo dovrebbe affrontare prima la sicurezza e un confronto con i FANS attualmente in commercio.
+Si segnala inoltre che, secondo le valutazioni di contesto, presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite). Qualsiasi ulteriore sviluppo dovrebbe affrontare prima la sicurezza e un confronto con i FANS attualmente in commercio.
 
 ---
 

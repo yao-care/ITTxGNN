@@ -108,7 +108,7 @@ Le pubblicazioni sotto elencate riguardano la predizione del rank 3 (disturbo sp
 
 ## Informazioni sul mercato italiano
 
-Tutte le 9 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -136,7 +136,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-- La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato.
+- La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura.
 - Le predizioni con letteratura (disturbo specifico dello sviluppo e disturbo distimico, livello L4) sono più adatte come domande di ricerca: le prove sono indirette e riguardano soprattutto l'ADHD e le sue comorbidità.
 
 **Per procedere sono necessari:**
@@ -144,7 +144,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 - Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni, necessario per lo screening di sicurezza.
 - Una revisione sistematica mirata della letteratura sulla sindrome faciodigitogenitale (sintomi di tipo ADHD) e sul disturbo distimico.
 - Se ritenuto opportuno, un piccolo studio esplorativo in popolazioni neuroevolutive geneticamente definite, con attenzione al profilo cardiovascolare e di abuso degli stimolanti.
-- Chiarimento sullo stato regolatorio (autorizzazioni cancellate) e sulle formulazioni disponibili.
+- Chiarimento sullo stato regolatorio e sulle formulazioni disponibili.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -83,7 +83,7 @@ Attualmente non è disponibile alcuna letteratura correlata per questa indicazio
 
 ## Informazioni sul mercato italiano
 
-Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (compresse rivestite da 20 mg):
+Principali autorizzazioni (compresse rivestite da 20 mg):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -92,8 +92,6 @@ Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni auto
 | 045248046 | TALMANCO 56x1 cpr rivestite 20 mg | Viatris Limited | Valida |
 | 050740087 | DINAMIS 12 cpr rivestite 20 mg | S.F. Group Srl | Valida |
 | 050738083 | TADUR 12 cpr rivestite 20 mg | S&R Farmaceutici SpA | Valida |
-
-Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate.
 
 ---
 
@@ -112,13 +110,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico. Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate.
+La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'ipotesi biologica credibile che colleghi PDE5/cGMP alla sindrome di Ambras
 - Evidenza preclinica o clinica specifica per questa indicazione
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni ufficiali
-- Chiarimento dello stato regolatorio in Italia (autorizzazioni tutte cancellate)
+- Chiarimento dello stato regolatorio in Italia
 - Valutazione di indicazioni previste alternative con maggiore plausibilità, come la cardiopatia cifoscoliotica, con revisione mirata della letteratura
 ## Avvertenza
 

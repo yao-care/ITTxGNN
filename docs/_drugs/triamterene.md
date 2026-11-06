@@ -103,7 +103,7 @@ Per le informazioni complete sulla sicurezza si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è basata solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Il contesto clinico (emergenza ipertensiva, insufficienza renale con rischio di iperkaliemia) è sfavorevole a un diuretico risparmiatore di potassio, e l'unica autorizzazione italiana è annullata.
+La predizione è basata solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Il contesto clinico (emergenza ipertensiva, insufficienza renale con rischio di iperkaliemia) è sfavorevole a un diuretico risparmiatore di potassio.
 
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

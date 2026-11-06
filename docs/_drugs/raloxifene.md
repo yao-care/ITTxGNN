@@ -88,7 +88,7 @@ Attualmente non risulta alcuna letteratura correlata.
 | 034153027 | EVISTA 28 compresse rivestite 60 mg | Substipharm | Valida |
 | 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Valida |
 
-Tutte e quattro le autorizzazioni sono monocomponente e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.
+Tutte e quattro le autorizzazioni sono monocomponente.
 
 ## Considerazioni sulla sicurezza
 
@@ -108,14 +108,14 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale. Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante.
+La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del raloxifene
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Una revisione sistematica della letteratura su raloxifene e patologie gastroduodenali (e, per il rango 2, sul profilo lipidico/HDL)
 - Una valutazione del rapporto beneficio-rischio, considerando il rischio tromboembolico e cerebrovascolare
-- Una verifica della possibilità di commercializzazione, dato che tutte le autorizzazioni italiane sono cancellate
+- Una verifica della possibilità di commercializzazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

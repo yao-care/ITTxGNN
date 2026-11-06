@@ -64,7 +64,6 @@ Il SIV possiede una proteasi strettamente correlata a quella dell'HIV. Studi in 
 
 Va però precisato che il SIV è un modello animale dell'HIV e non un'indicazione clinica umana. L'indicazione HIV è già coperta dall'uso originale del farmaco, quindi **non si tratta di una vera opportunità di riposizionamento**. Il punteggio elevato di TxGNN riflette soprattutto la somiglianza tra SIV e HIV.
 
-
 ---
 
 ## Evidenze da studi clinici
@@ -111,7 +110,7 @@ I dati compilati includono tuttavia i seguenti elementi complementari:
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è solo preclinica (L4): studi in vitro e su macachi, senza alcuno studio clinico. Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento. Inoltre, in Italia la sola autorizzazione risulta cancellata.
+L'evidenza è solo preclinica (L4): studi in vitro e su macachi, senza alcuno studio clinico. Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del ritonavir

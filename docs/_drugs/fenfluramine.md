@@ -79,8 +79,6 @@ Attualmente non è disponibile alcuna letteratura correlata.
 | 049286026 | FINTEPLA soluzione orale 120 ml 2,2 mg/ml + adattatore per flacone + 2 siringhe da 3 ml + 2 siringhe da 6 ml (UCB Pharma S.A.) | Soluzione orale | Non riportata |
 | 049286040 | FINTEPLA soluzione orale 360 ml 2,2 mg/ml + adattatore per flacone + 2 siringhe da 3 ml + 2 siringhe da 6 ml (UCB Pharma S.A.) | Soluzione orale | Non riportata |
 
-Entrambe le autorizzazioni risultano cancellate.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni secondo il grafo di conoscenza TxGNN** (non derivate dal foglio illustrativo): ipertensione e disturbo ipertensivo, ipertensione polmonare, abuso/dipendenza da sostanze, diabete mellito di tipo 1 e di tipo 2, chetoacidosi diabetica, glaucoma.
@@ -93,7 +91,7 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio molto alto (0,9993) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2, e in Italia le autorizzazioni disponibili sono tutte cancellate. Le informazioni ufficiali di sicurezza non sono state acquisite.
+La previsione ha un punteggio molto alto (0,9993) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2. Le informazioni ufficiali di sicurezza non sono state acquisite.
 
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni), indispensabile per lo screening di sicurezza

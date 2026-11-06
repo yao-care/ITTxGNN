@@ -106,7 +106,7 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela.
+La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia.
 
 **Per procedere sarebbero necessari:**
 - Scheda tecnica AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

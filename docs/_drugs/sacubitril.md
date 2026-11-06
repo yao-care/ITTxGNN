@@ -105,7 +105,7 @@ Gli studi preclinici su roditori (PMID 35992034, 36589853, 32596035, 33870733, 3
 | 044558031 | ENTRESTO 56 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (valida) |
 | 044558017 | ENTRESTO 28 cpr rivestite 24 mg + 26 mg | Non indicata | Non indicata (valida) |
 
-Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata. Il titolare è NOVARTIS EUROPHARM LTD.
+Il titolare è NOVARTIS EUROPHARM LTD.
 
 ---
 

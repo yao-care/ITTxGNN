@@ -92,7 +92,7 @@ Sono riportate le pubblicazioni più rilevanti, in ordine di pertinenza. Tutte s
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano 5 delle autorizzazioni principali.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano 5 delle autorizzazioni principali.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -127,7 +127,7 @@ Per informazioni complete sulla sicurezza fare riferimento al foglio illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa su un punteggio computazionale molto alto e su un solo studio preclinico sul ratto (1996), senza alcuno studio clinico sull'uomo. Inoltre tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza da etichetta non sono disponibili. Le altre indicazioni previste (ad es. ictus, ipertensione maligna) sono vicine a quelle già note, o con prove miste o assenti, e non cambiano la valutazione.
+La predizione si basa su un punteggio computazionale molto alto e su un solo studio preclinico sul ratto (1996), senza alcuno studio clinico sull'uomo. Le informazioni di sicurezza da etichetta non sono disponibili. Le altre indicazioni previste (ad es. ictus, ipertensione maligna) sono vicine a quelle già note, o con prove miste o assenti, e non cambiano la valutazione.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)

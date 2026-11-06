@@ -112,8 +112,6 @@ Sono riportati i 10 studi più rilevanti (su 16 registrati per questa indicazion
 | 040398051 | Monkasta, 28 cpr masticabili 4 mg (Krka) | Compresse masticabili | Non disponibile (autorizzazione valida) |
 | 041361039 | Leukast, 28 cpr rivestite 10 mg (Konpharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Sono elencate 5 delle 20 autorizzazioni, tutte con stato "revocata".
-
 ---
 
 ## Considerazioni sulla sicurezza

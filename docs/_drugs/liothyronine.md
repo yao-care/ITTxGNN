@@ -108,8 +108,6 @@ Queste pubblicazioni riflettono gli usi noti della liotironina e **non costituis
 | 036906016 | LIOTIR orale gocce, 20 ml, 20 mcg/ml (IBSA) | Gocce orali | Non disponibile (autorizzazione valida) |
 | 036906055 | LIOTIR orale, 30 contenitori monodose da 1 ml, 20 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
 
-Tutte e quattro le autorizzazioni risultano cancellate: in Italia non vi sono attualmente autorizzazioni valide per il principio attivo singolo.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -134,7 +132,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo. Inoltre, in Italia non esistono autorizzazioni valide.
+La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la malattia predetta.

@@ -70,8 +70,6 @@ Le cause radice più probabili sono: (1) lo spelling dell'INN "DULOXETINA" che n
 
 ## Informazioni sul Mercato Italiano
 
-Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**.
-
 > **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo "duloxetina".
 
 ---
@@ -94,7 +92,7 @@ Il Dossier di Prove non contiene alcuna indicazione prevista da TxGNN, alcun rec
 - **Risolvere l'ID DrugBank:** L'identificatore probabile di duloxetina è **DB00476**; confermare e ri-iniettare nella pipeline.
 - **Ri-interrogare AIFA:** Utilizzare la minuscola "duloxetina" e/o i nomi commerciali "Cymbalta" / "Xeristar" per recuperare le autorizzazioni di mercato italiane esistenti e le indicazioni approvate.
 - **Ri-eseguire TxGNN:** Con un ID DrugBank valido, ri-eseguire il passo di previsione del grafo della conoscenza per generare indicazioni previste classificate.
-- **Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA/TFDA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.
+- **Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.
 - **Riconsegnare un Dossier di Prove completo:** Una volta colmate le lacune di cui sopra, rigenerare il Dossier di Prove e riconsegnare per una valutazione completa.
 
 ## Avvertenza

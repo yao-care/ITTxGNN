@@ -110,7 +110,7 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio elevato ma nessun supporto da studi clinici o letteratura pertinente (livello L5), è molto vicina all'indicazione già nota e comporta un rilevante rischio renale nel contesto specifico. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+La previsione ha un punteggio elevato ma nessun supporto da studi clinici o letteratura pertinente (livello L5), è molto vicina all'indicazione già nota e comporta un rilevante rischio renale nel contesto specifico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione

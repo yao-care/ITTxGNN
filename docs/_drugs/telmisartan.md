@@ -125,7 +125,7 @@ Per l'**emorragia intracerebrale**, la riduzione della pressione arteriosa è il
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile nei dati compilati. Principali autorizzazioni:
+Il testo dell'indicazione approvata non è disponibile nei dati compilati. Principali autorizzazioni:
 
 | Numero autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -156,7 +156,6 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 - La Prinzmetal angina, pur avendo il punteggio più alto, non ha né studi né letteratura: è una predizione pura (L5).
 - L'occlusione dell'arteria cerebrale ha solide evidenze precliniche e uno studio di fase 4 indiretto (L3), ma nessun risultato clinico diretto. L'emorragia intracerebrale ha uno studio di fase 3 completato (TRIDENT, L2), ma testa una combinazione e non permette di isolare il ruolo di telmisartan.
-- Tutte le autorizzazioni italiane sono cancellate, per cui un'eventuale riproposizione richiederebbe una nuova valutazione regolatoria.
 
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

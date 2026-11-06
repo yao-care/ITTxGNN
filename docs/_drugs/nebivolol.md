@@ -91,7 +91,7 @@ Nota: nessuno di questi lavori valuta il nebivololo come trattamento dell'iperte
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+Principali autorizzazioni (prime 5):
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -115,7 +115,7 @@ Altri nomi commerciali tra le autorizzazioni cancellate: Nebiscon, Nivolon, Nobi
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la nefropatia ipertensiva maligna è solo un risultato del modello (L5), senza sperimentazioni né letteratura, e probabilmente riflette la vicinanza all'indicazione ipertensiva già nota. In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali.
+La previsione per la nefropatia ipertensiva maligna è solo un risultato del modello (L5), senza sperimentazioni né letteratura, e probabilmente riflette la vicinanza all'indicazione ipertensiva già nota.
 
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), prerequisito bloccante per lo screening di sicurezza

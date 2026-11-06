@@ -84,7 +84,7 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate. Il testo dell'indicazione approvata non è disponibile.
+Il testo dell'indicazione approvata non è disponibile.
 
 | Numero di autorizzazione | Nome del prodotto | Stato |
 |---------|------|------|
@@ -103,13 +103,13 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto clinico o bibliografico (L5) e il meccanismo (difetto piastrinico/VWF) non è corretto dalla sostituzione di FVIII. Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia.
+La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto clinico o bibliografico (L5) e il meccanismo (difetto piastrinico/VWF) non è corretto dalla sostituzione di FVIII.
 
 **Per procedere sarebbe necessario:**
 - Recuperare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Valutare in via prioritaria le indicazioni più plausibili, in particolare la carenza acquisita di fattori della coagulazione (emofilia A acquisita), con una revisione della letteratura sul ruolo del FVIII sostitutivo in presenza di inibitori
-- Chiarire la disponibilità commerciale del prodotto (autorizzazioni cancellate) o individuare formulazioni alternative di FVIII ricombinante
+- Chiarire la disponibilità commerciale del prodotto o individuare formulazioni alternative di FVIII ricombinante
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

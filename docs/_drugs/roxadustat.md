@@ -78,8 +78,6 @@ Al momento non risulta letteratura correlata.
 | 049685023 | EVRENZO 12 compresse rivestite 50 mg | Compressa rivestita | Non disponibile |
 | 049685011 | EVRENZO 12 compresse rivestite 20 mg | Compressa rivestita | Non disponibile |
 
-Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul mercato italiano.
-
 ## Considerazioni di sicurezza
 
 - **Interazioni**: la ricerca ha individuato una sola voce, di natura farmacologica e non una interazione tra farmaci: l'interazione con il bersaglio EGLN2 (egl-9 family hypoxia inducible factor 2), coerente con il meccanismo d'azione di inibizione delle HIF-PH.

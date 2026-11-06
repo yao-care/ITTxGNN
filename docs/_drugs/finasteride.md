@@ -92,7 +92,7 @@ Si tratta di articoli narrativi di contesto: nessuno fornisce evidenza diretta d
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Principali autorizzazioni (compresse rivestite da 5 mg):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Principali autorizzazioni (compresse rivestite da 5 mg):
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -125,7 +125,7 @@ Le predizioni hanno punteggi TxGNN molto alti, ma derivano dal modello TxGNN (de
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenza preclinica o clinica diretta sull'efficacia di finasteride nell'ipertricosi, o nella sottopopolazione con componente androgeno-dipendente (irsutismo)
 - Valutazione del livello di gravità delle interazioni farmacologiche
-- Verifica della situazione regolatoria in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica della situazione regolatoria in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

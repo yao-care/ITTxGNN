@@ -101,8 +101,6 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 | 035674035 | Rilamig 2,5 mg, 6 compresse rivestite (Menarini) | Compresse rivestite | Non disponibile | Valida |
 | 042911053 | Frovatriptan 2,5 mg, 6 compresse rivestite (EG) | Compresse rivestite | Non disponibile | Valida |
 
-Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -119,7 +117,7 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione. Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica.
+Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione.
 
 **Per procedere sono necessari:**
 - Dati di meccanismo d'azione (MOA) completi

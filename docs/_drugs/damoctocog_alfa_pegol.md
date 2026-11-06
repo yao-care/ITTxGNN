@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 ## Riassunto in una Frase
 
-Damoctocog Alfa Pegol (DB14700) è una terapia sostitutiva del Fattore VIII ricombinante pegilato, indicato principalmente per l'Emofilia A. Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale, e il farmaco non dispone di autorizzazioni al commercio in Italia. A causa di molteplici lacune critiche nei dati — inclusi dati del meccanismo d'azione assenti, avvertimenti di sicurezza mancanti e previsioni TxGNN non disponibili — una valutazione completa di riposizionamento non può essere condotta in questo momento.
+Damoctocog Alfa Pegol (DB14700) è una terapia sostitutiva del Fattore VIII ricombinante pegilato, indicato principalmente per l'Emofilia A. Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale. A causa di molteplici lacune critiche nei dati — inclusi dati del meccanismo d'azione assenti, avvertimenti di sicurezza mancanti e previsioni TxGNN non disponibili — una valutazione completa di riposizionamento non può essere condotta in questo momento.
 
 ---
 
@@ -78,7 +78,7 @@ Attualmente non vi è letteratura correlata disponibile per indicazioni di ripos
 
 ## Informazioni sul Mercato Italiano
 
-Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia. Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.
+Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.
 
 ---
 
@@ -98,7 +98,7 @@ Nessuna previsione TxGNN è disponibile per questo farmaco, e due lacune critich
 **Per procedere, è necessario quanto segue:**
 
 - **[Bloccante]** Eseguire la pipeline di previsione TxGNN per Damoctocog Alfa Pegol (DB14700) per generare indicazioni candidate
-- **[Bloccante]** Recuperare il foglio illustrativo TFDA/EMA per gli avvertimenti di sicurezza e le controindicazioni (DG001)
+- **[Bloccante]** Recuperare il foglio illustrativo EMA per gli avvertimenti di sicurezza e le controindicazioni (DG001)
 - **[Alta]** Interrogare l'API di DrugBank per i dati del meccanismo d'azione (DG002)
 - Confermare il testo dell'indicazione originaria approvata da una fonte normativa (AIFA, EMA, o informazioni prescrittive di Bayer)
 - Una volta che le lacune di dati di cui sopra siano risolte, ri-eseguire la generazione completa del pacchetto di evidenze (v5+) prima di procedere alla revisione di plausibilità clinica

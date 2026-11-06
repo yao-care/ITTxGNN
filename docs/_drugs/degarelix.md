@@ -100,7 +100,7 @@ Molte di queste interazioni sono verosimilmente legate al rischio di prolungamen
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'ipertricosi si basa solo sul modello (L5), senza sperimentazioni né pubblicazioni, con un razionale meccanicistico debole. Inoltre le autorizzazioni italiane sono tutte cancellate e mancano i dati di sicurezza dalla scheda tecnica.
+La predizione per l'ipertricosi si basa solo sul modello (L5), senza sperimentazioni né pubblicazioni, con un razionale meccanicistico debole. Mancano i dati di sicurezza dalla scheda tecnica.
 
 **Per procedere sono necessari:**
 - Scheda tecnica AIFA (avvertenze e controindicazioni) per completare lo screening di sicurezza

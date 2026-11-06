@@ -70,7 +70,7 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
+Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -107,13 +107,13 @@ Interazioni di livello Moderato includono fenfluramina, destrofenfluramina, sibu
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione ha un punteggio molto alto (0,9958) e un razionale biologico plausibile, ma è puramente computazionale (livello L5), senza sperimentazioni né letteratura. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.
+La predizione ha un punteggio molto alto (0,9958) e un razionale biologico plausibile, ma è puramente computazionale (livello L5), senza sperimentazioni né letteratura. Mancano i dati di sicurezza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Revisione della letteratura primaria e delle linee guida sul trattamento del deficit severo di proteina C, incluso il ruolo delle eparine a basso peso molecolare rispetto al concentrato di proteina C
 - Dati sul meccanismo d'azione registrati per il farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
-- Chiarimento dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate
+- Chiarimento dello stato regolatorio in Italia
 - Valutazione di sicurezza per la popolazione target (in particolare neonati e pazienti pediatrici) e della compatibilità delle vie di somministrazione
 ## Avvertenza
 

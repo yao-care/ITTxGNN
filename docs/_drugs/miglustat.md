@@ -96,8 +96,6 @@ Il legame con le indicazioni originali è la comune natura di malattie lisosomia
 | 045685029 | MIGLUSTAT 84x1 cps 100 mg (Accord Healthcare) | Capsule | Non disponibile (autorizzazione valida) |
 | 045318019 | YARGESA 84x1 cps 100 mg (Piramal Critical Care) | Capsule | Non disponibile (autorizzazione valida) |
 
-Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata.
-
 ## Considerazioni di sicurezza
 
 - **Controindicazioni (da relazioni farmaco-malattia del grafo di conoscenza, non dal foglio illustrativo)**: malattie del sistema nervoso periferico, neuropatia periferica, compromissione della funzione renale.
@@ -132,7 +130,7 @@ Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma
 - Recuperare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Ottenere i risultati completi dello studio randomizzato (PMID 19346952), della revisione sistematica (PMID 37209042) e degli studi NCT00672022 e NCT03822013, compresi i motivi della terminazione
 - Acquisire i dati sul meccanismo d'azione dal database dei farmaci
-- Chiarire la situazione regolatoria in Italia (autorizzazioni cessate, disponibilità del prodotto)
+- Chiarire la situazione regolatoria in Italia
 - Definire un piano di monitoraggio della sicurezza, in particolare per neuropatia periferica, funzione renale ed effetti gastrointestinali
 ## Avvertenza
 

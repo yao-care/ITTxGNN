@@ -116,7 +116,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'epatite B si basa solo sul modello (L5): non ci sono studi clinici né pubblicazioni sull'attività anti-HBV, non esiste un bersaglio omologo (HBV non ha una proteasi NS3/4A) e l'unica autorizzazione italiana è cancellata.
+La predizione per l'epatite B si basa solo sul modello (L5): non ci sono studi clinici né pubblicazioni sull'attività anti-HBV, non esiste un bersaglio omologo (HBV non ha una proteasi NS3/4A).
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

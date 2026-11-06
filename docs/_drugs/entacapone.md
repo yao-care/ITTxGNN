@@ -86,7 +86,7 @@ Per avvertenze e controindicazioni ufficiali consultare il foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la neurodegenerazione associata a PLA2G6 si fonda esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni di supporto. Inoltre l'unica autorizzazione italiana è annullata e mancano i dati di sicurezza ufficiali.
+La previsione per la neurodegenerazione associata a PLA2G6 si fonda esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni di supporto. Mancano i dati di sicurezza ufficiali.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e analisi del legame meccanicistico con la patologia PLA2G6

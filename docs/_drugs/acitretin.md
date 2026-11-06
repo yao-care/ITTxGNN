@@ -89,8 +89,6 @@ Attualmente non sono disponibili pubblicazioni correlate.
 | 041619014 | ZORIAS 30 cps 10 mg | n.d. | n.d. | Valida |
 | 041619065 | ZORIAS 20 cps 25 mg | n.d. | n.d. | Valida |
 
-Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -108,13 +106,13 @@ I dati sulla sicurezza tratti dal foglio illustrativo non sono disponibili; si r
 **Decisione: Hold**
 
 **Motivazione:**
-Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non esistono studi clinici o pubblicazioni specifici (l'unico studio è su un'altra patologia e usa l'acitretina come comparatore). Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore, mentre tutte le autorizzazioni italiane sono cancellate.
+Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non esistono studi clinici o pubblicazioni specifici (l'unico studio è su un'altra patologia e usa l'acitretina come comparatore). Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore.
 
 **Per procedere sono necessari:**
 - Dati di avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Evidenza clinica diretta nell'acne e confronto con l'isotretinoina
-- Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate) e di un eventuale piano di gestione del rischio teratogeno
+- Chiarimento dello stato regolatorio in Italia e di un eventuale piano di gestione del rischio teratogeno
 
 **Note sulle altre predizioni** (tutte L5, Hold): lupus eritematoso sistemico pediatrico (punteggio 0,9935; legame speculativo e rischi pediatrici come chiusura precoce delle epifisi), eritroblastosi fetale (0,9928; il punteggio proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica; clinicamente inappropriata per la teratogenicità) e sindrome familiare da teleangectasia cutanea e predisposizione al cancro orofaringeo (0,9910; legame teorico debole, richiederebbe un approccio specialistico caso per caso).
 ## Avvertenza

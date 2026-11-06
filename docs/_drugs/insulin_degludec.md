@@ -58,7 +58,7 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Per questo motivo non si tratta di un riposizionamento in senso stretto.
 
-Va inoltre verificato lo stato di mercato (solo autorizzazioni cancellate) prima di trarre conclusioni regolatorie o commerciali.
+Va inoltre verificato lo stato di mercato prima di trarre conclusioni regolatorie o commerciali.
 
 ## Evidenze dagli studi clinici
 
@@ -112,7 +112,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Proceed with Guardrails (procedere con cautele)**
 
 **Motivazione:**
-- Numerosi studi di fase 3 completati (ad es. SWITCH 1) e RCT pubblicati in riviste di alto livello sostengono l'uso della degludec nel diabete di tipo 1 (livello di evidenza L1). Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento. Le autorizzazioni italiane risultano però tutte cancellate.
+- Numerosi studi di fase 3 completati (ad es. SWITCH 1) e RCT pubblicati in riviste di alto livello sostengono l'uso della degludec nel diabete di tipo 1 (livello di evidenza L1). Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento.
 
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio in Italia e dei motivi della cancellazione delle due autorizzazioni (ad es. sostituzione con altre confezioni o ritiro commerciale)

@@ -89,7 +89,7 @@ Per l'ipertensione renovascolare maligna, a titolo di confronto:
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Le principali:
+Le principali:
 
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -115,13 +115,13 @@ Il testo del foglietto illustrativo AIFA (avvertenze e controindicazioni) non è
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione ha un punteggio elevato ma poggia su evidenze solo precliniche e indirette (L4), senza studi clinici. L'indicazione è inoltre molto vicina all'ipertensione già nota, quindi non costituisce un reale riposizionamento. Tutte le autorizzazioni italiane sono cancellate.
+La predizione ha un punteggio elevato ma poggia su evidenze solo precliniche e indirette (L4), senza studi clinici. L'indicazione è inoltre molto vicina all'ipertensione già nota, quindi non costituisce un reale riposizionamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, necessarie per lo screening di sicurezza.
 - Evidenze cliniche dirette su valsartan (non su sacubitril/valsartan né su altri farmaci) nelle indicazioni previste.
-- Chiarimento dello stato regolatorio, dato che nessuna autorizzazione risulta attiva.
+- Chiarimento dello stato regolatorio.
 - Per il cuore polmonare cronico (L3), una valutazione specifica separata dai dati sullo scompenso cardiaco, con attenzione alle controindicazioni renali.
 ## Avvertenza
 

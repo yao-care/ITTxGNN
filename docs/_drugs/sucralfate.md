@@ -91,7 +91,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 022803074 | ANTEPSIN polvere orale 30 bustine 2 g (Baldacci) | Polvere orale | Non disponibile |
 | 034788012 | SUCRALFATO granulato orale 30 bustine 2 g (DOC Generici) | Granulato orale | Non disponibile |
 
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni secondo il grafo di conoscenza** (non provenienti dal foglietto illustrativo): iperglicemia, malattia renale cronica, insufficienza renale cronica, insufficienza renale terminale.
@@ -104,7 +103,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano. L'ostruzione duodenale non è supportata da alcun razionale e non va perseguita.
+Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. L'ostruzione duodenale non è supportata da alcun razionale e non va perseguita.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), prerequisito bloccante per la valutazione di sicurezza

@@ -96,8 +96,6 @@ Per l'ipertricosi non è disponibile alcuna letteratura. Per l'emicrania (rank 3
 | 004225037 | METHERGIN*15 cpr rivestite 0,125 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 004225025 | METHERGIN*6 fiale IM EV 1 ml 0,2 mg/ml | Fiale per uso IM/EV | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni, intestate a Essential Pharma (M) Ltd, risultano cancellate.
-
 ---
 
 ## Considerazioni di sicurezza
@@ -122,14 +120,14 @@ Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione principale (ipertricosi) ha solo supporto computazionale (L5), nessuno studio e nessun razionale farmacologico. Il profilo di sicurezza della classe dell'ergot è sfavorevole, e le autorizzazioni italiane sono tutte cancellate. L'emicrania potrebbe essere trattata come una domanda di ricerca (L4), ma con evidenza solo indiretta e rilevanti rischi vascolari.
+La predizione principale (ipertricosi) ha solo supporto computazionale (L5), nessuno studio e nessun razionale farmacologico. Il profilo di sicurezza della classe dell'ergot è sfavorevole. L'emicrania potrebbe essere trattata come una domanda di ricerca (L4), ma con evidenza solo indiretta e rilevanti rischi vascolari.
 
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare la scheda tecnica AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Chiarire l'indicazione originale approvata
 - Per l'emicrania: revisione sistematica della letteratura e valutazione del rischio cardiovascolare/fibrotico
-- Valutare la disponibilità reale del prodotto, dato che tutte le autorizzazioni sono cancellate
+- Valutare la disponibilità reale del prodotto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -114,7 +114,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa essenzialmente sul modello (livello di evidenza L4), senza studi clinici registrati. La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La predizione si basa essenzialmente sul modello (livello di evidenza L4), senza studi clinici registrati. La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale.
 
 **Per procedere sarebbe necessario:**
 - Definire se l'indicazione di interesse sia limitata alla congiuntivite/cheratocongiuntivite di origine tubercolare.

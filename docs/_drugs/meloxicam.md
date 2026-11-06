@@ -114,14 +114,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione principale non ha alcun supporto clinico o bibliografico (livello L5) e manca un meccanismo plausibile: un FANS non può correggere un difetto genetico dello sviluppo scheletrico. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è rilevante.
+La previsione principale non ha alcun supporto clinico o bibliografico (livello L5) e manca un meccanismo plausibile: un FANS non può correggere un difetto genetico dello sviluppo scheletrico.
 
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante.
 - Reperire i dati sul meccanismo d'azione (ad es. da DrugBank).
 - Valutare un razionale preclinico per la via GDF5/CDMP1, oppure considerare solo un uso sintomatico (gestione del dolore) con studi specifici.
 - Se si desidera un'opzione più realistica, dare priorità alla previsione sull'artrite idiopatica giovanile poliarticolare fattore reumatoide-positiva (livello L4), che rappresenta però un'estensione di un'indicazione già nota e richiede dati specifici sul meloxicam.
-- Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di meloxicam commercializzati in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

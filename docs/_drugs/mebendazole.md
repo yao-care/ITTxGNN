@@ -115,7 +115,7 @@ La predizione si basa unicamente sul modello (livello L5), senza studi clinici, 
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
 - Studi preclinici (es. modelli in vitro/animali di acne) o una ricerca bibliografica mirata su mebendazolo e dermatosi infiammatorie
 - Valutazione della compatibilità della via di somministrazione (per l'acne sarebbe verosimilmente rilevante una formulazione topica, non presente nei dati)
-- Chiarimento della situazione regolatoria, dato che non esistono autorizzazioni valide in Italia
+- Chiarimento della situazione regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

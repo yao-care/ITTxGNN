@@ -99,8 +99,6 @@ Nessuno di questi lavori dimostra l'efficacia del metotrexato nel linfoma polmon
 | 044224119 | METOTHER 4 siringhe preriempite 10 mg | Siringa preriempita | Non disponibile |
 | 019888142 | METHOTREXATE 4 siringhe 20 mg | Siringa | Non disponibile |
 
-Non c'è alcuna autorizzazione valida.
-
 ## Citotossicità
 
 | Voce | Contenuto |
@@ -131,7 +129,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo 
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza.
 - Dati sul meccanismo d'azione da DrugBank.
 - Una revisione sistematica mirata sul linfoma polmonare primario trattato con metotrexato.
-- Verificare se esista una formulazione autorizzata e disponibile in Italia, dato che tutte le licenze sono revocate.
+- Verificare se esista una formulazione autorizzata e disponibile in Italia.
 - Valutare la rilevanza di NCT00357084 per il rabdomiosarcoma, e se lo studio di fase 2 sul metotrexato ad alte dosi (PMID 9329466) sia replicabile.
 ## Avvertenza
 

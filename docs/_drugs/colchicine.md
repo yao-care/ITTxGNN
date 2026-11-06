@@ -105,7 +105,7 @@ Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo A
 **Decisione: Hold**
 
 **Motivazione:**
-- Per la malaria da P. falciparum non esistono studi clinici né evidenze dirette; il supporto è solo il punteggio del modello e due studi preclinici indiretti. L'indice terapeutico ristretto e la disponibilità di antimalarici efficaci riducono ulteriormente l'interesse pratico. Entrambe le autorizzazioni italiane sono cancellate.
+- Per la malaria da P. falciparum non esistono studi clinici né evidenze dirette; il supporto è solo il punteggio del modello e due studi preclinici indiretti. L'indice terapeutico ristretto e la disponibilità di antimalarici efficaci riducono ulteriormente l'interesse pratico.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione dal database (DrugBank)

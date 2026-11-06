@@ -107,13 +107,13 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-Tutte le previsioni poggiano esclusivamente sul punteggio del modello TxGNN, senza studi clinici, pubblicazioni né un razionale meccanicistico plausibile. Inoltre, in Italia le autorizzazioni disponibili sono entrambe cancellate.
+Tutte le previsioni poggiano esclusivamente sul punteggio del modello TxGNN, senza studi clinici, pubblicazioni né un razionale meccanicistico plausibile.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (indicazioni, avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione da DrugBank per analizzare un eventuale legame meccanicistico
 - Studi preclinici o revisioni della letteratura che colleghino la segnalazione del G-CSF alla funzione piastrinica
-- Verifica della compatibilità delle vie di somministrazione e chiarimento dello stato regolatorio (autorizzazioni cancellate)
+- Verifica della compatibilità delle vie di somministrazione e chiarimento dello stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

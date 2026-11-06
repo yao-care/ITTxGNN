@@ -36,7 +36,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 ## Eliglustat
 {: .text-alpha }
 
-
 ## Panoramica rapida
 
 | Elemento | Contenuto |
@@ -44,7 +43,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Indicazione approvata originaria | Malattia di Gaucher di tipo 1 (Gaucher Disease Type 1) |
 | Nuove indicazioni previste | — Nessun output di previsione TxGNN in questa sessione |
-| Stato del mercato taiwanese | ✗ Non commercializzato (0 certificati di autorizzazione) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 
 ---

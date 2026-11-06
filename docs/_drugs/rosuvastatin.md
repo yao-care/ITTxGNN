@@ -106,7 +106,7 @@ Per l'ipercolesterolemia familiare sono riportati 12 studi; di seguito i 10 più
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile. Di seguito le principali 5.
+Il testo dell'indicazione approvata non è disponibile. Di seguito le principali 5.
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -133,7 +133,7 @@ Per le avvertenze ufficiali fare riferimento al foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Numerosi studi di fase 3 completati, anche pediatrici, supportano efficacia e sicurezza della rosuvastatina nell'ipercolesterolemia familiare. L'indicazione è però già affine a quella originale, e tutte le autorizzazioni italiane risultano cancellate.
+Numerosi studi di fase 3 completati, anche pediatrici, supportano efficacia e sicurezza della rosuvastatina nell'ipercolesterolemia familiare. L'indicazione è però già affine a quella originale.
 
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio effettivo in Italia (autorizzazioni cancellate) e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni

@@ -117,10 +117,10 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Proceed with Guardrails (procedere con cautele)**
 
 **Motivazione:**
-- Le evidenze per il diabete di tipo 1 sono solide (più studi di fase 3 completati e RCT pubblicati; livello L1). Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento. Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata.
+- Le evidenze per il diabete di tipo 1 sono solide (più studi di fase 3 completati e RCT pubblicati; livello L1). Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento.
 
 **Per procedere sono necessari:**
-- Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio (autorizzazioni revocate).
+- Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio.
 - Acquisizione del foglio illustrativo AIFA per avvertenze e controindicazioni (dato attualmente mancante).
 - Dati dettagliati sul meccanismo d'azione da DrugBank.
 - Un piano di monitoraggio per le interazioni (in particolare con simpaticomimetici e altri antidiabetici) e per ipoglicemia.

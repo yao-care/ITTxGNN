@@ -56,7 +56,7 @@ La bacampicillina è un profarmaco dell'ampicillina, un antibiotico beta-lattami
 
 Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, la bacampicillina viene convertita in ampicillina, un beta-lattamico che inibisce la sintesi della parete batterica ed è attivo contro diversi patogeni delle vie respiratorie superiori, tra cui *Haemophilus influenzae*, causa classica di epiglottite.
 
-Il collegamento è quindi plausibile ma indiretto: si basa sullo spettro antibatterico dell'ampicillina, non su prove cliniche specifiche. Nella pratica attuale, a causa della resistenza all'ampicillina, si preferiscono cefalosporine di terza generazione e agenti resistenti alle beta-lattamasi, il che riduce ulteriormente l'interesse per questa ipotesi. Inoltre il prodotto locale risulta annullato.
+Il collegamento è quindi plausibile ma indiretto: si basa sullo spettro antibatterico dell'ampicillina, non su prove cliniche specifiche. Nella pratica attuale, a causa della resistenza all'ampicillina, si preferiscono cefalosporine di terza generazione e agenti resistenti alle beta-lattamasi, il che riduce ulteriormente l'interesse per questa ipotesi.
 
 ## Evidenze da studi clinici
 
@@ -72,7 +72,7 @@ Attualmente non è disponibile letteratura correlata all'epiglottite.
 |---------|------|------|-----------|
 | 034473013 | BACAMPICILLINA*12 cpr rivestite 1.200 mg | Non indicata | Non registrata nei dati locali |
 
-Nei dati disponibili è presente una sola autorizzazione, con stato annullato (titolare: K24 Pharmaceuticals Srl).
+Nei dati disponibili è presente una sola autorizzazione.
 
 ## Considerazioni di sicurezza
 
@@ -89,7 +89,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo, poic
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'epiglottite non è supportata da studi clinici né da pubblicazioni dirette, e il livello di evidenza è L5. La resistenza all'ampicillina, l'esistenza di alternative standard e l'autorizzazione locale annullata rendono la proposta poco praticabile.
+La predizione per l'epiglottite non è supportata da studi clinici né da pubblicazioni dirette, e il livello di evidenza è L5.
 
 **Per procedere sarebbe necessario:**
 - Dati di meccanismo d'azione dettagliati

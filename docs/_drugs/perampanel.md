@@ -70,7 +70,6 @@ Lo stesso ragionamento si applica ad altre epilessie riflesse previste dal model
 
 Per l'epilessia visiva: attualmente nessuno studio clinico correlato registrato.
 
-
 | Studio | Fase | Stato | Arruolamento | Risultati chiave |
 |---------|------|------|------|---------|
 | [NCT05756621](https://clinicaltrials.gov/study/NCT05756621) | N/D | Completato | 84 | Coorte retrospettiva multicentrica su stato epilettico super-refrattario dopo arresto cardiaco, con terapia anti-glutammato doppia (ketamina + perampanel); evidenza solo di supporto |
@@ -101,7 +100,7 @@ Per lo stato epilettico esistono due revisioni sistematiche ([30076046](https://
 
 ## Informazioni sul mercato italiano
 
-Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.
+Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 | Numero di autorizzazione | Prodotto | Stato |
 |---------|------|-----------|
@@ -110,8 +109,6 @@ Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano c
 | 042581064 | FYCOMPA 28 cpr rivestite 6 mg | Valida |
 | 042581090 | FYCOMPA 28 cpr rivestite 8 mg | Valida |
 | 042581126 | FYCOMPA 28 cpr rivestite 10 mg | Valida |
-
-(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)
 
 ---
 
@@ -129,7 +126,7 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.
+Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.
 
 **Per procedere sono necessari:**
 - Recupero dal sito AIFA del foglio illustrativo (avvertenze, controindicazioni, indicazioni approvate) per lo screening di sicurezza

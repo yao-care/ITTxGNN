@@ -90,7 +90,7 @@ Altri documenti recuperati sono solo marginalmente pertinenti (estratti di medic
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni (tutte monocomponente):
+Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni (tutte monocomponente):
 
 | N. autorizzazione | Nome prodotto | Titolare |
 |---------|------|------|
@@ -115,7 +115,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ipertensione renovascolare maligna si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre, l'uso dei sartani nella malattia renovascolare pone un rilevante problema di sicurezza renale, e tutte le autorizzazioni italiane sono attualmente cancellate.
+La previsione per l'ipertensione renovascolare maligna si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre, l'uso dei sartani nella malattia renovascolare pone un rilevante problema di sicurezza renale.
 
 **Per procedere sono necessari:**
 - Le avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)

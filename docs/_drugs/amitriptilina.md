@@ -82,8 +82,6 @@ Attualmente nessuna letteratura correlata disponibile in questo pacchetto di evi
 
 ## Informazioni di Mercato Italia
 
-Nessuna autorizzazione di commercializzazione registrata. L'amitriptilina non sembra possedere licenze approvate AIFA attuali nel dataset esaminato (0 licenze trovate).
-
 ---
 
 ## Considerazioni sulla Sicurezza

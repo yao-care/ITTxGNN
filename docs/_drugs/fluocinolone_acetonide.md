@@ -85,7 +85,7 @@ Attualmente non risulta letteratura correlata disponibile.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello TxGNN e su un razionale di classe, senza studi clinici né letteratura nei dati compilati. In più, l'unica autorizzazione italiana è cancellata, il che limita la disponibilità pratica a breve termine.
+La predizione si basa solo sul modello TxGNN e su un razionale di classe, senza studi clinici né letteratura nei dati compilati.
 
 **Per procedere sono necessari:**
 - Una ricerca mirata di letteratura e studi clinici sui corticosteroidi topici nel lichen planus ipertrofico

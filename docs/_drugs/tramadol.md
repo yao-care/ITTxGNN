@@ -82,8 +82,6 @@ Nota: per un'altra predizione (artrite idiopatica giovanile, rank 7) è presente
 | 033998030 | TRAMADOLO 5 fiale 100 mg 2 ml | SANDOZ SpA | Valida |
 | 028878155 | FORTRADOL 10 cpr 200 mg rilascio prolungato | ALFASIGMA SpA | Valida |
 
-Sono state registrate in totale 20 autorizzazioni, tutte cancellate; non è disponibile il testo delle indicazioni approvate.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni secondo il knowledge graph** (non derivate dal foglio illustrativo): ipertensione, insufficienza epatica, epilessia, disturbi d'ansia, epatopatie, cirrosi, diabete, chetoacidosi diabetica, abuso/dipendenza da sostanze, insufficienza respiratoria, avvelenamento da paracetamolo, sindrome serotoninergica, ipertensione intracranica, astinenza da alcol, sindrome di Wernicke-Korsakoff, infezioni del sistema nervoso centrale, tra le altre.
@@ -97,7 +95,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è puramente computazionale (livello L5), senza sperimentazioni né letteratura, senza legame meccanicistico plausibile con una malattia genetica dello scheletro. Inoltre, in Italia tutte le autorizzazioni sono cancellate e il profilo di interazioni è ampio.
+La predizione è puramente computazionale (livello L5), senza sperimentazioni né letteratura, senza legame meccanicistico plausibile con una malattia genetica dello scheletro.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'ipotesi biologica che colleghi il tramadolo alla malattia

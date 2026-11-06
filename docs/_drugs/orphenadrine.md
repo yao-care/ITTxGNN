@@ -112,14 +112,14 @@ Le altre previsioni non dispongono né di studi clinici né di letteratura (live
 **Decisione: Hold**
 
 **Motivazione:**
-Per la schizofrenia esiste solo letteratura storica che documenta l'uso dell'orfenadrina come adiuvante contro gli effetti extrapiramidali, non come trattamento della malattia. Non ci sono studi clinici registrati, la sua autorizzazione italiana è annullata e le informazioni di sicurezza sono incomplete. Le altre previsioni sono puramente computazionali.
+Per la schizofrenia esiste solo letteratura storica che documenta l'uso dell'orfenadrina come adiuvante contro gli effetti extrapiramidali, non come trattamento della malattia. Non ci sono studi clinici registrati e le informazioni di sicurezza sono incomplete. Le altre previsioni sono puramente computazionali.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza).
 - Una valutazione se l'obiettivo sia davvero il trattamento della schizofrenia o la gestione degli effetti extrapiramidali, già coperta dalla pratica clinica.
 - Studi controllati moderni che valutino l'effetto su sintomi cognitivi e negativi, con attenzione al rischio anticolinergico.
-- Una verifica della disponibilità commerciale del farmaco in Italia, dato che l'unica autorizzazione è annullata.
+- Una verifica della disponibilità commerciale del farmaco in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

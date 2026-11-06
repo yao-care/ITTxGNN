@@ -106,8 +106,6 @@ Tutta la letteratura riguarda l'HCV o la co-infezione; nessuna pubblicazione dim
 | 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg | — | — |
 | 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg | — | — |
 
-Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate.
-
 ---
 
 ## Considerazioni di sicurezza
@@ -128,13 +126,13 @@ Per avvertenze e controindicazioni consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV. Il prodotto non ha inoltre autorizzazioni valide in Italia.
+Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV.
 
 **Per procedere sono necessari:**
 - Dati preclinici (in vitro) sull'attività di velpatasvir contro HBV
 - Dati sul meccanismo d'azione
 - Testo di avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Chiarimento dello stato regolatorio italiano (autorizzazioni attualmente cancellate)
+- Chiarimento dello stato regolatorio italiano
 
 **Nota sulle altre predizioni:** le altre indicazioni predette (epatite E, epatite A, febbre emorragica di Omsk, malattia della foresta di Kyasanur, HIV, SIV, FIV, un disturbo del neurosviluppo) sono prive di evidenze o meccanismi plausibili. Per l'HIV le evidenze riguardano solo il trattamento dell'HCV in pazienti co-infetti, già coperto dall'indicazione approvata.
 ## Avvertenza

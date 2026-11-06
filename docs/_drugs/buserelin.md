@@ -79,8 +79,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 025540028 | SUPREFACT soluzione nasale 0,1 mg/erogazione, flacone 10 mg (valida) | Soluzione nasale | Non disponibile |
 | 025540042 | SUPREFACT siringa SC 9,45 mg impianto depot (valida) | Impianto depot | Non disponibile |
 
-Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate.
-
 ## Citotossicità
 
 | Voce | Contenuto |
@@ -102,14 +100,14 @@ Per quanto riguarda le interazioni, i dati compilati riportano solo il legame fa
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo su un modello computazionale, senza studi clinici né letteratura che testino buserelin nell'ipertricosi. Il meccanismo è debole per le forme genetiche, e tutte le autorizzazioni italiane sono cancellate.
+La previsione si basa solo su un modello computazionale, senza studi clinici né letteratura che testino buserelin nell'ipertricosi. Il meccanismo è debole per le forme genetiche.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sulle indicazioni originali dal foglio illustrativo AIFA
 - Informazioni di sicurezza (avvertenze e controindicazioni) dal foglio illustrativo
 - Distinzione dei sottotipi di ipertricosi androgeno-dipendenti, dove il razionale ormonale è plausibile
 - Dati preclinici o clinici che valutino buserelin in questa condizione
-- Verifica della disponibilità commerciale del prodotto, dato lo stato di autorizzazioni cancellate
+- Verifica della disponibilità commerciale del prodotto
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

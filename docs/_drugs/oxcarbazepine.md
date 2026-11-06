@@ -86,7 +86,6 @@ Attualmente non risultano studi clinici registrati correlati a questa indicazion
 | 042353021 | OXCARBAZEPINA*50 cpr 600 mg | Compresse | Non disponibile (valida) |
 | 048388019 | ZIGABAL*50 cpr 300 mg | Compresse | Non disponibile (valida) |
 
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni (dal grafo di conoscenza, non dal foglietto illustrativo)**: disturbo d'ansia, disturbo nevrotico, disturbo distimico, insufficienza renale, sindrome da inappropriata secrezione di ADH, sindrome nefrogenica da inappropriata antidiuresi.
@@ -99,7 +98,6 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliati (ad esempio da DrugBank)

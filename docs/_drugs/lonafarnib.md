@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 
 ## Riepilogo in una frase
 
-Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.
+Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy e non sono disponibili indicazioni approvate nei dati compilati.
 Il modello TxGNN prevede che possa essere efficace per la **lebbra**, con un punteggio molto alto (0,9914).
 Al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
 
@@ -106,7 +106,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la lebbra si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Inoltre le autorizzazioni italiane sono tutte annullate e mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.
+La previsione per la lebbra si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate)

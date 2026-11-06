@@ -96,13 +96,13 @@ Al momento non è disponibile letteratura correlata.
 **Decisione: Hold**
 
 **Motivazione:**
-Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi. Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono ben consolidate.
+Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi.
 
 **Per procedere sarebbe necessario:**
 - Reperire il foglio illustrativo AIFA (avvertenze e controindicazioni) per completare la valutazione di sicurezza.
 - Acquisire i dati sul meccanismo d'azione (ad esempio da DrugBank).
 - Ottenere dati preclinici in vitro (ad esempio attività protoscolicida su *Echinococcus*) prima di ogni ulteriore considerazione.
-- Valutare la fattibilità regolatoria, dato che il farmaco non ha attualmente autorizzazioni valide in Italia.
+- Valutare la fattibilità regolatoria.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

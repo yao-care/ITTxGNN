@@ -75,8 +75,6 @@ Attualmente non è disponibile alcuna letteratura correlata.
 | 034529040 | SYNAGIS*1 flaconcino IM 1 ml 100 mg/ml (AstraZeneca AB) – valida | Non indicata | Non indicata |
 | 034529038 | SYNAGIS*1 flaconcino IM 0,5 ml 100 mg/ml (AstraZeneca AB) – valida | Non indicata | Non indicata |
 
-Entrambe le autorizzazioni risultano cancellate; non ci sono autorizzazioni valide in Italia.
-
 ## Considerazioni sulla sicurezza
 
 Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono state rilevate interazioni farmacologiche nei dati compilati per questo report.
@@ -86,7 +84,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul punteggio del modello, senza studi clinici, letteratura o un meccanismo plausibile. Un anticorpo specifico per l'RSV non ha un bersaglio noto nei tumori benigni della lingua. In Italia, inoltre, tutte le autorizzazioni sono cancellate.
+La previsione si basa solo sul punteggio del modello, senza studi clinici, letteratura o un meccanismo plausibile. Un anticorpo specifico per l'RSV non ha un bersaglio noto nei tumori benigni della lingua.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la nuova indicazione

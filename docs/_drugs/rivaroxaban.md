@@ -88,7 +88,7 @@ Nessuna di queste pubblicazioni studia l'efficacia del rivaroxaban nell'artrite 
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è presente alcuna valida. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili. Di seguito le principali (le prime 5 dell'elenco):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili. Di seguito le principali (le prime 5 dell'elenco):
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -121,7 +121,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è molto alto, ma non vi sono studi clinici né letteratura che supportino un effetto terapeutico del rivaroxaban nell'artrite reumatoide (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono disponibili.
+Il punteggio TxGNN è molto alto, ma non vi sono studi clinici né letteratura che supportino un effetto terapeutico del rivaroxaban nell'artrite reumatoide (livello L5).
 
 **Per procedere è necessario:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni

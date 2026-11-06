@@ -81,8 +81,6 @@ Per le altre predizioni (ad esempio sindrome di Laubry-Pezzi, sindromi di Pierre
 | 035678022 | UNIDROX*5 cpr rivestite 600 mg | Compresse rivestite | Valida |
 | 035678034 | UNIDROX*1 cpr rivestite 600 mg | Compresse rivestite | Valida |
 
-Tutte e quattro le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide attualmente in Italia.
-
 ## Considerazioni sulla sicurezza
 
 - **Segnale di sicurezza cardiaca (letteratura)**: i chinoloni, incluso il metabolita attivo della prulifloxacina, sono stati valutati per il prolungamento dell'intervallo QT e il potenziale proaritmico in modelli animali.
@@ -95,14 +93,14 @@ Per le avvertenze e le controindicazioni complete si rimanda al foglietto illust
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo su un modello computazionale (livello L5), senza studi clinici e senza un legame meccanicistico credibile; l'unica evidenza pertinente riguarda un rischio di sicurezza cardiaca. Inoltre, il farmaco non ha attualmente autorizzazioni valide in Italia.
+La predizione si basa solo su un modello computazionale (livello L5), senza studi clinici e senza un legame meccanicistico credibile; l'unica evidenza pertinente riguarda un rischio di sicurezza cardiaca.
 
 **Per procedere sarebbe necessario:**
 - Recuperare il foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Dimostrare un'ipotesi biologica plausibile per l'uso cardiaco, oltre al solo punteggio del modello
 - Valutare in modo approfondito il rischio di prolungamento del QT e di aritmie
-- Chiarire lo stato regolatorio (autorizzazioni cancellate) e la disponibilità di vie di somministrazione
+- Chiarire lo stato regolatorio e la disponibilità di vie di somministrazione
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

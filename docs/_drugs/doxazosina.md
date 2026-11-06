@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 ## Riassunto in una frase
 
-Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adrenergici alfa-1 con un uso clinico consolidato nell'ipertensione e nell'iperplasia prostatica benigna. I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco, e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato. Una valutazione completa della riproposizione non può essere completata fino a quando i dati di previsione, i dossier normativi e le informazioni sulla sicurezza non saranno recuperati.
+Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adrenergici alfa-1 con un uso clinico consolidato nell'ipertensione e nell'iperplasia prostatica benigna. I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco. Una valutazione completa della riproposizione non può essere completata fino a quando i dati di previsione, i dossier normativi e le informazioni sulla sicurezza non saranno recuperati.
 
 ---
 
@@ -66,7 +66,7 @@ Nessun output di previsione di TxGNN era presente nel campo `predicted_indicatio
 
 ## Informazioni sul mercato italiano
 
-Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**. Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer). Si prevede che una ricerca con l'INN inglese o il nome commerciale nel database AIFA restituisca autorizzazioni attive.
+Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer). Si prevede che una ricerca con l'INN inglese o il nome commerciale nel database AIFA restituisca autorizzazioni attive.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |--------------------------|-------------------|-------------------|-----------------------|

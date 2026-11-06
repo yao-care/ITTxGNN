@@ -82,7 +82,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Testo dell'indicazione e forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5:
+Testo dell'indicazione e forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5:
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -108,14 +108,14 @@ Per avvertenze e controindicazioni ufficiali consultare il foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio del modello è molto alto, ma non esistono studi clinici né evidenze dirette sul flunisolide nell'eczema atopico. Il farmaco non ha inoltre autorizzazioni valide in Italia, e mancano dati di sicurezza ufficiali.
+Il punteggio del modello è molto alto, ma non esistono studi clinici né evidenze dirette sul flunisolide nell'eczema atopico. Mancano dati di sicurezza ufficiali.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del flunisolide
 - Scheda tecnica AIFA con avvertenze e controindicazioni ufficiali
 - Valutazione della compatibilità della via di somministrazione e della formulazione per l'uso dermatologico
 - Studi clinici o evidenze comparative con i corticosteroidi topici già approvati per la dermatite atopica
-- Verifica della situazione regolatoria (autorizzazioni attualmente tutte cancellate)
+- Verifica della situazione regolatoria
 
 **Nota su altre previsioni:** tra le successive previsioni, la **bronchite** (punteggio 0,9993, livello L3) ha un supporto debole, costituito da uno studio clinico del 1981 con disegno poco chiaro. Le altre previsioni (polipi di orecchio, seni paranasali, ecc.) sono basate solo sul modello o su evidenze indirette.
 ## Avvertenza

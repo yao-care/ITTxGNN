@@ -72,7 +72,7 @@ Attualmente non è disponibile letteratura correlata.
 |---------|------|------|-----------|
 | 049428016 | VAZKEPA*120 cps molli 998 mg flacone | Amarin Pharma Ireland Limited | Valida |
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Non esistono autorizzazioni attualmente valide.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 ## Considerazioni sulla sicurezza
 
@@ -83,7 +83,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si fonda esclusivamente su un punteggio TxGNN elevato (livello di evidenza L5), senza studi clinici, letteratura o meccanismo d'azione confermato. Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo, il che impedisce di proseguire con la valutazione di sicurezza.
+La predizione si fonda esclusivamente su un punteggio TxGNN elevato (livello di evidenza L5), senza studi clinici, letteratura o meccanismo d'azione confermato. Mancano i dati di sicurezza dal foglio illustrativo, il che impedisce di proseguire con la valutazione di sicurezza.
 
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza

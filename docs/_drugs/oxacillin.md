@@ -64,7 +64,7 @@ I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. L'ox
 
 L'epiglottite è un'infezione batterica della regione sopraglottica. La causa classica è *Haemophilus influenzae* di tipo b, ma possono essere coinvolti anche *S. aureus* e gli streptococchi. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze che il modello ha appreso tra malattie correlate, non evidenze biologiche.
 
-Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata). La rilevanza pratica di questa previsione è quindi limitata.
+Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. La rilevanza pratica di questa previsione è quindi limitata.
 
 Per completezza, le altre previsioni del modello sono:
 
@@ -113,13 +113,13 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né pubblicazioni, e l'oxacillina ha scarsa attività sull'agente classico (*H. influenzae*). Il prodotto è inoltre revocato in Italia, e per le infezioni stafilococciche esistono alternative consolidate.
+La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né pubblicazioni, e l'oxacillina ha scarsa attività sull'agente classico (*H. influenzae*). Per le infezioni stafilococciche esistono alternative consolidate.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliati (ad es. da DrugBank)
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze cliniche o microbiologiche specifiche sull'oxacillina nell'epiglottite
-- Valutazione di fattibilità regolatoria, dato lo stato di autorizzazione revocata
+- Valutazione di fattibilità regolatoria
 - Se si vuole un'opzione più solida, valutare l'artrite batterica da MSSA, che è un'estensione dell'indicazione stafilococcica esistente (livello L4), previa revisione sistematica di dati specifici sull'oxacillina
 ## Avvertenza
 

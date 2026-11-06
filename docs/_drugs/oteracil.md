@@ -106,8 +106,6 @@ La letteratura è composta quasi esclusivamente da casi clinici e da uno studio 
 | 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
 | 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
 
-Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.
-
 ---
 
 ## Citotossicità
@@ -137,7 +135,7 @@ Per avvertenze, controindicazioni e interazioni farmacologiche, fare riferimento
 **Decisione: Proceed with Guardrails (procedere con cautele)**
 
 **Motivazione:**
-Esiste un ampio studio di fase 3 completato (NCT00660894, n=1535) e un secondo studio di fase 3 di grandi dimensioni (NCT03448549, stato sconosciuto) sul regime S-1 nel carcinoma del colon/colorettale. Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità. Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
+Esiste un ampio studio di fase 3 completato (NCT00660894, n=1535) e un secondo studio di fase 3 di grandi dimensioni (NCT03448549, stato sconosciuto) sul regime S-1 nel carcinoma del colon/colorettale. Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni)

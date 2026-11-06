@@ -91,7 +91,6 @@ Per le informazioni di sicurezza (avvertenze, controindicazioni e interazioni) s
 
 **Motivazione:**
 - La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile.
-- Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica.
 
 **Per procedere sarebbe necessario:**
 - Un razionale meccanicistico credibile tra inibizione della DPP-4 e patogenesi autoimmune della sindrome (anti-GAD65), supportato da dati preclinici.

@@ -109,13 +109,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.
+La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica.
 
 **Per procedere sarebbe necessario:**
 - Acquisire il meccanismo d'azione dettagliato (ad esempio da DrugBank) e valutare un eventuale razionale biologico specifico.
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Cercare evidenze precliniche o cliniche specifiche sulla sindrome brachidattilia-sindattilia.
-- Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.
+- Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano.
 - Chiarire se un eventuale beneficio sarebbe solo sintomatico (gestione del dolore) e quindi non rappresenterebbe un vero riposizionamento terapeutico.
 ## Avvertenza
 

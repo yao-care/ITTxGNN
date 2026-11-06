@@ -4,6 +4,87 @@
    "sentence": "si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione, aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)",
    "cut": ", aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)",
    "reason": "M5：要求更新 TwTxGNN 模板的 taiwan_regulatory 欄位，是內部資料欄位殘留，與本站讀者無關；只刪這個子句，「向 AIFA 查詢確認許可」的建議保留（2026-11-06）"
+  },
+  {
+   "sentence": "scarica e analizza il PDF del foglio illustrativo TFDA (il `query_log` mostra che la query è riuscita)",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留；只刪「 TFDA」與講 TFDA 查詢成功的括號，下載解析仿單的待辦保留（2026-11-06）",
+   "cut": " TFDA (il `query_log` mostra che la query è riuscita)"
+  }
+ ],
+ "clozapina": [
+  {
+   "sentence": "Scaricare e analizzare il foglio illustrativo ufficiale dal sito web TFDA o AIFA",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留（台灣食藥署）；只刪「TFDA o 」，留下 AIFA（2026-11-06）",
+   "cut": "TFDA o "
+  }
+ ],
+ "damoctocog_alfa_pegol": [
+  {
+   "sentence": "Recuperare il foglio illustrativo TFDA/EMA",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留；只刪「TFDA/」（2026-11-06）",
+   "cut": "TFDA/"
+  }
+ ],
+ "disulfiram": [
+  {
+   "sentence": "**Analizzare il contenuto del foglio illustrativo TFDA** (DG001, Blocco)",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留；只刪「 TFDA」（2026-11-06）",
+   "cut": " TFDA"
+  },
+  {
+   "sentence": "poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali",
+   "reason": "事實：AIFA 有效許可 1 張（證據包），「義大利 0 張許可」與事實矛盾；只刪「poiché l'Italia ha 0 autorizzazioni, 」，查 EMA／FDA 標示的建議保留（2026-11-06）",
+   "cut": "poiché l'Italia ha 0 autorizzazioni, "
+  }
+ ],
+ "duloxetina": [
+  {
+   "sentence": "Scaricare il PDF del foglio illustrativo AIFA/TFDA",
+   "reason": "「TFDA」是 TwTxGNN 模板殘留；只刪「/TFDA」（2026-11-06）",
+   "cut": "/TFDA"
+  }
+ ],
+ "alfuzosina": [
+  {
+   "sentence": "| Indicazione Originaria | Non disponibile (nessuna licenza approvata trovata in Taiwan) |",
+   "reason": "括號「在台灣查無核准許可證」是 TwTxGNN 模板殘留，與本站無關；只刪括號，儲存格「Non disponibile」保留（2026-11-06）",
+   "cut": " (nessuna licenza approvata trovata in Taiwan)"
+  }
+ ],
+ "losartan": [
+  {
+   "sentence": "Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.",
+   "reason": "事實：AIFA 有效許可至少 20 張、沒有註銷；只刪「; tutte risultano cancellate」，「列出 20 張中的 5 張」保留（2026-11-06）",
+   "cut": "; tutte risultano cancellate"
+  }
+ ],
+ "piroxicam": [
+  {
+   "sentence": "Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.",
+   "reason": "事實：AIFA 有效許可 11 張、沒有註銷；只刪「; tutte risultano cancellate」（2026-11-06）",
+   "cut": "; tutte risultano cancellate"
+  }
+ ],
+ "tiaprofenic_acid": [
+  {
+   "sentence": "il farmaco non è più in commercio e presenta problemi di sicurezza noti",
+   "reason": "事實：AIFA 有效許可 2 張、沒有註銷；只刪「il farmaco non è più in commercio e 」，安全性問題的內容保留（2026-11-06）",
+   "cut": "il farmaco non è più in commercio e "
+  }
+ ],
+ "indomethacin": [
+  {
+   "sentence": "In Italia tutte e tre le autorizzazioni risultano cancellate e mancano i dati di sicurezza del foglio illustrativo (lacuna bloccante).",
+   "reason": "事實：AIFA 有效許可 3 張、沒有註銷；只刪前半的許可子句，安全性資料缺口保留，首字母大寫（2026-11-06）",
+   "cut": "In Italia tutte e tre le autorizzazioni risultano cancellate e ",
+   "capitalize": true
+  }
+ ],
+ "miconazole": [
+  {
+   "sentence": "Non ci sono studi clinici registrati sull'acne, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali",
+   "reason": "事實：AIFA 有效許可、沒有註銷；只刪「, tutte le autorizzazioni italiane sono cancellate」與其後的「 e」前的逗號子句，試驗與安全性缺口保留（2026-11-06）",
+   "cut": ", tutte le autorizzazioni italiane sono cancellate"
   }
  ]
 }

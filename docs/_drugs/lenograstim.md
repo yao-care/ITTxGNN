@@ -38,7 +38,6 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 
 ## Sintesi in una frase
 
-Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per questo report non riportano un'indicazione approvata, perché il testo dell'indicazione è vuoto nell'unica autorizzazione AIFA, ormai cancellata.
 Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.
 
 ## Panoramica rapida
@@ -81,7 +80,7 @@ Attualmente non è disponibile letteratura correlata.
 |---------|------|------|-----------|
 | 029059096 | MYELOSTIM (polvere per uso EV/SC, 34 milioni UI/ml, con siringa di solvente preriempita e 2 aghi) | Non specificata | Non specificata |
 
-Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.
+Titolare: ITALFARMACO SpA.
 
 ## Considerazioni sulla sicurezza
 
@@ -92,7 +91,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (L5), senza studi clinici né letteratura. Il meccanismo del G-CSF non è collegato in modo plausibile ai difetti qualitativi delle piastrine. L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza.
+La previsione si basa solo sul modello (L5), senza studi clinici né letteratura. Il meccanismo del G-CSF non è collegato in modo plausibile ai difetti qualitativi delle piastrine. Mancano i dati di sicurezza.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

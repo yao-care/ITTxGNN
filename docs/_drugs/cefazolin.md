@@ -111,7 +111,7 @@ Per le avvertenze complete si rimanda al foglietto illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello, senza studi clinici registrati e con letteratura scarsa e poco pertinente. Le autorizzazioni italiane sono tutte cancellate, e la cefazolina ha un'attività limitata contro i principali patogeni dell'otite media.
+La predizione si basa solo sul modello, senza studi clinici registrati e con letteratura scarsa e poco pertinente. La cefazolina ha un'attività limitata contro i principali patogeni dell'otite media.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sullo spettro di attività della cefazolina contro i patogeni tipici dell'otite media

@@ -116,7 +116,7 @@ Nessuna di queste pubblicazioni valuta travoprost come trattamento di una malatt
 
 ## Informazioni sul mercato italiano
 
-Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide. Il testo dell'indicazione approvata non è disponibile nei dati compilati.
+Il testo dell'indicazione approvata non è disponibile nei dati compilati.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -147,7 +147,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e analisi di un'eventuale relazione con le vie della calcificazione e della funzione vascolare

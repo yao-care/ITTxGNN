@@ -77,7 +77,7 @@ Tra le altre previsioni del modello, solo due presentano un minimo di letteratur
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -100,12 +100,12 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è supportata solo dal punteggio del modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico. Inoltre, in Italia non esistono autorizzazioni valide per la mesalazina.
+La previsione è supportata solo dal punteggio del modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad es. da DrugBank) per valutare qualsiasi legame con la patologia
 - Recupero e analisi dei foglietti illustrativi AIFA (avvertenze e controindicazioni)
-- Verifica dello stato regolatorio effettivo in Italia, dato che tutte le autorizzazioni risultano cancellate
+- Verifica dello stato regolatorio effettivo in Italia
 - Evidenza preclinica che colleghi la mesalazina alla via di CDH3 o alla patologia
 - Valutazione di priorità alternative con maggiore plausibilità (ad es. artrite reumatoide), oggi comunque solo con evidenza indiretta
 ## Avvertenza

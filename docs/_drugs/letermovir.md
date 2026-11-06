@@ -75,8 +75,6 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 | 045890023 | PREVYMIS 28x1 cpr rivestite 480 mg | Compresse rivestite | Non disponibile |
 | 045890011 | PREVYMIS 28x1 cpr rivestite 240 mg | Compresse rivestite | Non disponibile |
 
-Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide.
-
 ## Considerazioni sulla sicurezza
 
 I dati su avvertenze e controindicazioni non sono disponibili; si rimanda al foglio illustrativo per le informazioni complete.
@@ -91,7 +89,7 @@ I dati su avvertenze e controindicazioni non sono disponibili; si rimanda al fog
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si fonda solo sul modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico credibile. Letermovir agisce su un bersaglio virale privo di omologhi noti nei funghi, e in Italia le autorizzazioni sono attualmente cancellate.
+La previsione si fonda solo sul modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico credibile. Letermovir agisce su un bersaglio virale privo di omologhi noti nei funghi.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

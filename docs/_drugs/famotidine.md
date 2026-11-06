@@ -107,7 +107,7 @@ Per le avvertenze ufficiali, fare riferimento alla scheda tecnica.
 **Decisione: Hold**
 
 **Motivazione:**
-Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto. Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica.
+Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto.
 
 **Per procedere sono necessari:**
 - Studi clinici controllati sul reflusso duodeno-gastrico con endpoint chiari

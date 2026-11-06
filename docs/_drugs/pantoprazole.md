@@ -75,7 +75,6 @@ Per l'ulcera peptica attiva:
 |---------|------|------|------|---------|
 | [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Fase 3 | Completato | 323 | Studio multicentrico, randomizzato, in doppio cieco, con controllo attivo: ilaprazolo vs pantoprazolo in triplice terapia di 7 giorni per l'eradicazione di H. pylori in pazienti con ulcera gastrica e/o duodenale. Comparatore e braccio di trattamento da verificare, perché il titolo è troncato |
 
-
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
 | [NCT00374101](https://clinicaltrials.gov/study/NCT00374101) | Fase 3 | Completato | 450 | PPI ad alte dosi vs dosi standard con terapia endoscopica nell'ulcera peptica sanguinante |
@@ -110,7 +109,7 @@ Per l'ulcera peptica attiva:
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano **cancellate**; non ne è attiva alcuna. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili. Principali prodotti:
+I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili. Principali prodotti:
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -136,10 +135,10 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esistono studi di Fase 3 completati e RCT storici che supportano l'efficacia del pantoprazolo nell'ulcera peptica e duodenale. Si tratta però di un uso già in etichetta, non di un riposizionamento, e tutte le autorizzazioni italiane risultano cancellate.
+Esistono studi di Fase 3 completati e RCT storici che supportano l'efficacia del pantoprazolo nell'ulcera peptica e duodenale. Si tratta però di un uso già in etichetta, non di un riposizionamento.
 
 **Per procedere sono necessari:**
-- Verifica dello stato commerciale effettivo in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica dello stato commerciale effettivo in Italia
 - Acquisizione del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica di comparatore e braccio di trattamento in NCT02084420 (titolo troncato)

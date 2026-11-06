@@ -115,7 +115,7 @@ Nota di contesto: le condizioni trombofiliche predette sono rilevanti poiché gl
 **Decisione: Hold**
 
 **Motivazione:**
-Le predizioni si basano solo sul punteggio del modello (livello L5 per il rango 1; L4 per l'amenorrea, che è un effetto farmacologico atteso e non un obiettivo di riposizionamento). Mancano studi clinici, razionale meccanicistico e dati di sicurezza dal foglio illustrativo. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+Le predizioni si basano solo sul punteggio del modello (livello L5 per il rango 1; L4 per l'amenorrea, che è un effetto farmacologico atteso e non un obiettivo di riposizionamento). Mancano studi clinici, razionale meccanicistico e dati di sicurezza dal foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza

@@ -104,7 +104,7 @@ Si precisa che questo collegamento meccanicistico si basa sulla farmacologia gen
 | 043815048 | CARELIMUS unguento dermatologico 10 g 0,1% (Difa Cooper) | Unguento | Non disponibile (autorizzazione valida) |
 | 029485048 | PROGRAF 30 cps 5 mg (Astellas) | Capsule | Non disponibile (autorizzazione valida) |
 
-Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. La disponibilità effettiva dei prodotti deve essere verificata.
+La disponibilità effettiva dei prodotti deve essere verificata.
 
 ---
 
@@ -123,13 +123,13 @@ Per le avvertenze e controindicazioni ufficiali si rimanda al foglietto illustra
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 completati con tacrolimus unguento, oltre a uno studio clinico sul mantenimento e a diverse revisioni, con un meccanismo plausibile condiviso con l'indicazione originale. Tuttavia non sono disponibili i risultati degli studi, e in Italia tutte le autorizzazioni risultano cancellate.
+Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 completati con tacrolimus unguento, oltre a uno studio clinico sul mantenimento e a diverse revisioni, con un meccanismo plausibile condiviso con l'indicazione originale. Tuttavia non sono disponibili i risultati degli studi.
 
 **Per procedere sono necessari:**
 - Recupero dei risultati e degli endpoint primari degli studi NCT02004860 e NCT01591070
 - Dati dettagliati sul meccanismo d'azione (MOA)
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (al momento non disponibile)
-- Verifica della disponibilità commerciale e della situazione regolatoria in Italia, dato che le autorizzazioni sono tutte cancellate
+- Verifica della disponibilità commerciale e della situazione regolatoria in Italia
 - Piano di monitoraggio della sicurezza a lungo termine (rischio neoplastico, infezioni cutanee) per l'uso topico
 
 ---

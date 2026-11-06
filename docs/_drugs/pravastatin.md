@@ -108,7 +108,7 @@ Sono presenti altri due studi di fase 1 nei dati compilati (NCT00017758 e NCT000
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le prime 5 autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le prime 5 autorizzazioni:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -137,14 +137,14 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 
 **Motivazione:**
 - Per l'HIV esistono studi randomizzati sulla pravastatina (incluso uno di fase 3 con 630 partecipanti, pravastatina vs fenofibrato, e studi di fase 2/4), insieme a una revisione sistematica e a numerosi studi di farmacocinetica. Il livello di evidenza è L2. Il razionale riguarda la dislipidemia e il rischio cardiovascolare, non un effetto antivirale.
-- Il prodotto non ha autorizzazioni attive in Italia, e i dati di sicurezza dal foglietto illustrativo AIFA mancano.
+- I dati di sicurezza dal foglietto illustrativo AIFA mancano.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Completare i dati sul meccanismo d'azione da DrugBank.
 - Verificare con le fonti originali gli esiti degli studi (NCT00006412 in particolare), non riportati in dettaglio nei dati compilati, e confermare con RCT più ampi su esiti clinici cardiovascolari; lo studio di fase 2 HILLCLIMBER è molto piccolo (n=10).
 - Definire un piano di gestione delle interazioni con gli antiretrovirali (es. darunavir/ritonavir) e di monitoraggio della sicurezza muscolare, epatica e renale.
-- Chiarire la situazione regolatoria, dato che tutte le autorizzazioni sono cancellate.
+- Chiarire la situazione regolatoria.
 
 **Altre previsioni TxGNN (sintesi):**
 - Cautele: dosaggio pediatrico e monitoraggio della crescita.

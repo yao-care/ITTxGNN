@@ -81,7 +81,7 @@ Le pubblicazioni raccolte sono quasi tutte revisioni narrative o studi indiretti
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Le principali autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Le principali autorizzazioni:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -103,13 +103,13 @@ Per avvertenze e controindicazioni ufficiali consultare il foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si fonda solo sul modello (L5): nessuno studio clinico, letteratura non specifica e nessun meccanismo plausibile, dato che il trattamento standard è la biotina. Inoltre in Italia non esistono autorizzazioni valide.
+La previsione si fonda solo sul modello (L5): nessuno studio clinico, letteratura non specifica e nessun meccanismo plausibile, dato che il trattamento standard è la biotina.
 
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un limite bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Evidenze precliniche o cliniche che colleghino direttamente l'acido folico ai difetti del metabolismo della biotina
-- Verifica del contesto regolatorio, poiché tutte le autorizzazioni risultano cancellate
+- Verifica del contesto regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

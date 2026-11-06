@@ -96,13 +96,13 @@ Dai dati compilati per questo report emergono le seguenti informazioni complemen
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha livello di evidenza L5: nessuno studio clinico e nessuna letteratura pertinente sostengono le nuove indicazioni. Inoltre, le autorizzazioni italiane sono tutte cancellate, e l'indicazione principale è una emergenza ipertensiva in cui un diuretico orale difficilmente sarebbe terapia primaria.
+La previsione ha livello di evidenza L5: nessuno studio clinico e nessuna letteratura pertinente sostengono le nuove indicazioni.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad es. da DrugBank) per analizzare il legame meccanicistico
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (attualmente un blocco per la valutazione di sicurezza)
 - Una revisione sistematica della letteratura su metolazone nella malattia renale ipertensiva e nell'ipertensione grave
-- Chiarimento dello stato regolatorio (autorizzazioni cancellate) e della disponibilità del prodotto in Italia
+- Chiarimento dello stato regolatorio e della disponibilità del prodotto in Italia
 - Valutazione del rischio-beneficio nei pazienti con compromissione renale grave o disturbi elettrolitici, alla luce delle condizioni controindicate emerse dal grafo di conoscenza
 ## Avvertenza
 

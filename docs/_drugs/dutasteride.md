@@ -106,7 +106,7 @@ Per le avvertenze complete, fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello (livello L5), senza studi né pubblicazioni, e senza un meccanismo plausibile legato al DHT. Inoltre, in Italia non esistono autorizzazioni attualmente valide.
+La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello (livello L5), senza studi né pubblicazioni, e senza un meccanismo plausibile legato al DHT.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione registrato (DrugBank)

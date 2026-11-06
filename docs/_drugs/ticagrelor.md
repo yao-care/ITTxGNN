@@ -88,7 +88,7 @@ L'evidenza diretta è però ancora in attesa: lo studio di fase 3 CAPTIVA (NCT05
 
 ## Informazioni sul mercato italiano
 
-Le autorizzazioni elencate sono tutte cancellate; i testi delle indicazioni approvate non sono disponibili. Si riportano le prime 5.
+I testi delle indicazioni approvate non sono disponibili. Si riportano le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
@@ -115,12 +115,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Il razionale meccanicistico è plausibile e lo studio CAPTIVA di fase 3 è direttamente pertinente, ma non ha ancora risultati e il ruolo del ticagrelor al suo interno non è isolato. Inoltre in Italia tutte le autorizzazioni risultano cancellate e le informazioni di sicurezza ufficiali non sono disponibili; il rischio emorragico (incluso quello intracranico) richiede particolare cautela.
+Il razionale meccanicistico è plausibile e lo studio CAPTIVA di fase 3 è direttamente pertinente, ma non ha ancora risultati e il ruolo del ticagrelor al suo interno non è isolato. Le informazioni di sicurezza ufficiali non sono disponibili; il rischio emorragico (incluso quello intracranico) richiede particolare cautela.
 
 **Per procedere è necessario:**
 - Attendere i risultati dello studio CAPTIVA (completamento previsto nel 2027) e dello studio pilota NCT06714526
 - Acquisire avvertenze e controindicazioni dal foglietto illustrativo AIFA
-- Verificare lo stato regolatorio effettivo del ticagrelor in Italia, dato che tutte le autorizzazioni risultano cancellate
+- Verificare lo stato regolatorio effettivo del ticagrelor in Italia
 - Reperire dati formali sul meccanismo d'azione (DrugBank)
 - Definire un piano di monitoraggio del rischio emorragico, in particolare intracranico
 

@@ -96,13 +96,13 @@ Avvertenze e controindicazioni ufficiali del foglio illustrativo AIFA non sono d
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è basata solo sul modello (L5), senza studi clinici o letteratura e senza un legame meccanicistico chiaro. Inoltre in Italia non esistono autorizzazioni valide e il profilo di sicurezza ufficiale non è disponibile.
+La previsione è basata solo sul modello (L5), senza studi clinici o letteratura e senza un legame meccanicistico chiaro. Il profilo di sicurezza ufficiale non è disponibile.
 
 **Per procedere è necessario:**
 - Acquisire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Ottenere i dati sul meccanismo d'azione (ad es. da DrugBank)
 - Condurre una valutazione preclinica del nesso tra PPAR-gamma/insulino-sensibilizzazione e la via INPPL1/SHIP2
-- Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate
+- Valutare la fattibilità regolatoria
 - Eventualmente riconsiderare altre indicazioni previste con razionale biologico più plausibile (ad es. le lipodistrofie)
 ## Avvertenza
 

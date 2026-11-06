@@ -110,7 +110,7 @@ Per le avvertenze e le controindicazioni, consultare il foglio illustrativo: i d
 **Decisione: Hold**
 
 **Motivazione:**
-Il supporto è esclusivamente un punteggio computazionale elevato, senza studi clinici né letteratura per la sindrome delle gambe senza riposo. Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione e in Italia le due autorizzazioni esistenti sono cancellate.
+Il supporto è esclusivamente un punteggio computazionale elevato, senza studi clinici né letteratura per la sindrome delle gambe senza riposo. Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione.
 
 **Per procedere sono necessari:**
 - Una revisione indipendente della plausibilità biologica (dopamina, ferro, effetto degli anticolinergici sulla sindrome)

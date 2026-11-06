@@ -38,7 +38,7 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ## Sintesi in una frase
 
-L'acido benzoico è presente nello sciroppo Paracodina (autorizzazione ora cancellata in Italia). Nella base di conoscenza del modello sono associate ad esso indicazioni quali pemfigo, malattia di Peyronie, sclerodermia e dermatomiosite. Il modello TxGNN ne predice l'efficacia nella **bronchite**, ma senza **alcuno studio clinico** e con **soli 2 articoli** non pertinenti al farmaco: si tratta di una predizione puramente computazionale.
+L'acido benzoico è presente nello sciroppo Paracodina. Nella base di conoscenza del modello sono associate ad esso indicazioni quali pemfigo, malattia di Peyronie, sclerodermia e dermatomiosite. Il modello TxGNN ne predice l'efficacia nella **bronchite**, ma senza **alcuno studio clinico** e con **soli 2 articoli** non pertinenti al farmaco: si tratta di una predizione puramente computazionale.
 
 ---
 
@@ -110,7 +110,7 @@ Queste segnalazioni vanno verificate sulle fonti ufficiali. Non sono state trova
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto e l'unica autorizzazione italiana è cancellata.
+La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank)

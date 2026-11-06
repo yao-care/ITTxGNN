@@ -98,7 +98,7 @@ Attualmente non risulta alcuna letteratura correlata a questa previsione.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio TxGNN elevato ma nessuno studio clinico né pubblicazione a supporto (livello L5). La "suscettibilità genetica" non è una condizione trattabile. Inoltre l'autorizzazione italiana è cancellata e il profilo di epatotossicità sfavorisce nuovi sviluppi.
+La previsione ha un punteggio TxGNN elevato ma nessuno studio clinico né pubblicazione a supporto (livello L5). La "suscettibilità genetica" non è una condizione trattabile.
 
 **Per procedere sarebbe necessario:**
 - Chiarire se esista una popolazione o un'indicazione clinicamente definibile (ad es. prevenzione in soggetti ad alto rischio) distinta dal carcinoma prostatico già trattato

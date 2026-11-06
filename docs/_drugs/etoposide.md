@@ -124,8 +124,6 @@ Selezione dei più rilevanti tra gli studi registrati (massimo 10):
 | 024639039 | VEPESID 20 capsule molli da 50 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione valida |
 | 024639041 | VEPESID 10 capsule molli da 100 mg (CHEPLAPHARM ARZNEIMITTEL GMBH) | Capsula molle | Non disponibile; autorizzazione valida |
 
-Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati.
-
 ---
 
 ## Citotossicità
@@ -167,7 +165,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Per procedere sono necessari:**
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank
-- Chiarimento dello stato regolatorio in Italia (autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)
+- Chiarimento dello stato regolatorio in Italia
 - Piano di monitoraggio: mielosoppressione, rischio di leucemia secondaria, dosaggio e schedula adeguati all'età
 - Utilizzo in protocolli specializzati di oncologia pediatrica
 ## Avvertenza

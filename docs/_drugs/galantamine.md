@@ -97,8 +97,6 @@ Per le altre predizioni non è disponibile letteratura, a eccezione di "disturbi
 
 ## Informazioni sul mercato italiano
 
-Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide.
-
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 039889136 | GALNORA 28 cps 8 mg rilascio prolungato (KRKA) | Capsule a rilascio prolungato | Non disponibile |
@@ -129,14 +127,13 @@ Per le informazioni complete consultare il foglietto illustrativo.
 
 **Motivazione:**
 - Le predizioni sono basate quasi esclusivamente sul modello (L5), senza studi clinici registrati. La discinesia tardiva è l'unica direzione con un razionale plausibile (L4, "domanda di ricerca"), ma le evidenze sono a livello di classe e non specifiche per la galantamina, con un RCT crossover non riassunto in termini di esito.
-- Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento.
 
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Dati sul meccanismo d'azione da DrugBank.
 - Lettura critica dell'RCT crossover del 2007 (PMID 17388711) e della meta-analisi del 2004 per estrarre l'effetto specifico della galantamina nella discinesia tardiva.
 - Valutazione del rapporto rischio-beneficio, dato il segnale di disturbi del movimento indotti dagli inibitori delle colinesterasi.
-- Chiarimento della disponibilità commerciale della galantamina in Italia (stato "cancellato") e della compatibilità di via/forma farmaceutica.
+- Chiarimento della disponibilità commerciale della galantamina in Italia e della compatibilità di via/forma farmaceutica.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

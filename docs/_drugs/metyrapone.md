@@ -96,13 +96,13 @@ Per avvertenze e precauzioni d'uso complete, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è supportata solo dal modello (L5), senza studi clinici né letteratura, e senza alcun razionale meccanicistico plausibile. Inoltre il prodotto autorizzato in Italia risulta cancellato.
+La previsione è supportata solo dal modello (L5), senza studi clinici né letteratura, e senza alcun razionale meccanicistico plausibile.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione registrati e una valutazione meccanicistica che colleghi l'inibizione della CYP11B1 alla fisiopatologia dell'ipertermia maligna
 - Dati preclinici (ad es. modelli RYR1) che giustifichino un'ipotesi terapeutica
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per la valutazione di sicurezza
-- Chiarimento dello stato regolatorio (autorizzazione cancellata) e delle vie di somministrazione disponibili
+- Chiarimento dello stato regolatorio e delle vie di somministrazione disponibili
 - Eventuale rivalutazione di indicazioni con segnale indiretto (ad es. paralisi periodica) solo dopo verifica del testo completo degli studi
 ## Avvertenza
 

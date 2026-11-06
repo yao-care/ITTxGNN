@@ -109,8 +109,6 @@ Nessuno di questi studi testa direttamente la clomipramina in un disturbo d'ansi
 | 021643010 | ANAFRANIL 20 cpr rivestite 25 mg (valida) | Non disponibile | Non disponibile |
 | 021643022 | ANAFRANIL 50 cpr rivestite 10 mg (valida) | Non disponibile | Non disponibile |
 
-Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamente autorizzati in Italia secondo i dati compilati.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -138,7 +136,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, che mancano e impediscono la valutazione di sicurezza.
 - Studi randomizzati controllati con la clomipramina nei disturbi d'ansia primari (panico, ansia generalizzata, fobia sociale).
 - Un piano di monitoraggio cardiaco (ECG/QT) e della sicurezza nelle popolazioni a rischio (anziani, giovani, pazienti con epilessia o glaucoma).
-- Una verifica della disponibilità del prodotto sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.
+- Una verifica della disponibilità del prodotto sul mercato italiano.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

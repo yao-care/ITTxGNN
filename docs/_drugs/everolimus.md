@@ -138,7 +138,7 @@ Per il liposarcoma esiste un solo studio di fase 2 a braccio singolo in combinaz
 - Dati dettagliati sul meccanismo d'azione (MOA)
 - Risultati e analisi di efficacia dello studio NCT03114527, con dati che separino il contributo di everolimus
 - Studi comparativi o randomizzati nel liposarcoma
-- Chiarimento sullo stato regolatorio in Italia (autorizzazioni attualmente tutte revocate)
+- Chiarimento sullo stato regolatorio in Italia
 
 ---
 

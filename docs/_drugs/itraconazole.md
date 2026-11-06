@@ -85,7 +85,7 @@ Sono riportate le pubblicazioni più pertinenti, con priorità a studi randomizz
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni sono cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Sono elencate le prime 5 autorizzazioni.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Sono elencate le prime 5 autorizzazioni.
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -108,13 +108,12 @@ I dati di sicurezza tratti dal foglio illustrativo AIFA non sono disponibili; si
 
 **Motivazione:**
 - Manca qualsiasi studio clinico, la letteratura è indiretta e il meccanismo azolico non è adatto a *Pneumocystis* (privo di ergosterolo). Le terapie standard sono ben consolidate e il punteggio TxGNN elevato sembra riflettere la prossimità ad altre micosi più che un'efficacia reale.
-- Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela.
 
 **Per procedere sarebbero necessari:**
 - Dati sul meccanismo d'azione (MOA) e su un eventuale bersaglio in *Pneumocystis*
 - Dati preclinici *in vitro*/*in vivo* sull'attività contro *P. jirovecii*
 - Testo del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un vuoto bloccante per la valutazione di sicurezza
-- Chiarimento dello stato regolatorio, dato che non esistono autorizzazioni valide in Italia
+- Chiarimento dello stato regolatorio
 - Giustificazione del vantaggio rispetto a trimetoprim-sulfametossazolo, pentamidina e atovaquone
 ## Avvertenza
 

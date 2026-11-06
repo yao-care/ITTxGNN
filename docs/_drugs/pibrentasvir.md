@@ -110,7 +110,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non risultan
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A. Inoltre, le autorizzazioni italiane risultano tutte cancellate.
+La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione da DrugBank

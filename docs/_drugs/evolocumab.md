@@ -86,8 +86,6 @@ Al momento non è disponibile letteratura correlata.
 | 044317028 | REPATHA 1 penna SC 140 mg 1 ml SureClick (AMGEN EUROPE B.V.) | Penna sottocutanea | Non riportata (autorizzazione valida) |
 | 044317030 | REPATHA 2 penne SC 140 mg 1 ml SureClick (AMGEN EUROPE B.V.) | Penna sottocutanea | Non riportata (autorizzazione valida) |
 
-Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -103,7 +101,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX. Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per lo screening di sicurezza.
+La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (gap bloccante)

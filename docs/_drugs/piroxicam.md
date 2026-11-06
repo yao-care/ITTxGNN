@@ -68,7 +68,7 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.
+Delle 11 autorizzazioni, sono elencate le prime 5.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
@@ -100,7 +100,6 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 **Motivazione:**
 - La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile.
-- Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e un'ipotesi biologica che colleghi il piroxicam alla patogenesi della sindrome.

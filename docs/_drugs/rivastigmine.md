@@ -74,7 +74,7 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
 
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ Le avvertenze e le controindicazioni del foglio illustrativo AIFA non sono dispo
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è limitata a un solo studio preclinico sul coniglio e a revisioni, senza alcuno studio clinico; il punteggio TxGNN è una predizione computazionale. Inoltre le autorizzazioni italiane sono tutte cancellate e le formulazioni esistenti non sono adatte all'uso oculare. Al momento è una domanda di ricerca, non un candidato pronto per lo sviluppo.
+L'evidenza è limitata a un solo studio preclinico sul coniglio e a revisioni, senza alcuno studio clinico; il punteggio TxGNN è una predizione computazionale. Le formulazioni esistenti non sono adatte all'uso oculare. Al momento è una domanda di ricerca, non un candidato pronto per lo sviluppo.
 
 **Per procedere sono necessari:**
 - Dati dettagliati sul meccanismo d'azione

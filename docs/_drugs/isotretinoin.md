@@ -80,7 +80,7 @@ Attualmente non risulta disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:
+Si elencano le prime 5:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|

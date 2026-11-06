@@ -125,7 +125,7 @@ La predizione si basa unicamente sul punteggio del modello TxGN (deep learning).
 - Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank).
 - Chiarire l'indicazione originale del farmaco.
 - Ricerca di letteratura o dati preclinici che colleghino il misoprostolo all'amenorrea come bersaglio terapeutico.
-- Valutare la fattibilità regolatoria, dato che il prodotto è revocato in Italia, e un piano di sicurezza per le donne in età fertile.
+- Valutare la fattibilità regolatoria, e un piano di sicurezza per le donne in età fertile.
 
 **Nota sulla seconda predizione:** la coartazione atipica dell'aorta (punteggio TxGNN 0,9930, livello L5) non ha né studi clinici né letteratura. Un'eventuale analogia con le prostaglandine E1 nel mantenere pervio il dotto arterioso riguarda l'alprostadil, non il misoprostolo, e non costituisce evidenza. Anche per questa predizione la decisione è Hold.
 ## Avvertenza

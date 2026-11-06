@@ -119,12 +119,12 @@ Segnali di sicurezza dalla letteratura, da valutare con cautela:
 
 **Motivazione:**
 - La predizione si basa su un meccanismo plausibile (via del CGRP) ma non è supportata da alcuno studio clinico nel sottotipo specifico. La letteratura è costituita da evidenze osservazionali e da un lavoro meccanicistico che solleva dubbi sull'effetto sull'aura. Il livello di evidenza è L4.
-- Tutte le autorizzazioni italiane risultano cancellate, e mancano i dati di sicurezza dal foglio illustrativo.
+- Mancano i dati di sicurezza dal foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati dettagliati sul meccanismo d'azione
-- Verifica dello stato regolatorio effettivo in Italia, dato che le due autorizzazioni risultano cancellate
+- Verifica dello stato regolatorio effettivo in Italia
 - Dati di efficacia e sicurezza specifici per l'emicrania con aura del tronco encefalico, idealmente da studi prospettici controllati
 
 ---

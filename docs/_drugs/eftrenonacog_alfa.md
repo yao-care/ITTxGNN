@@ -82,8 +82,6 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazioni valide.
-
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 044888042 | ALPROLIX, 1 flacone EV da 2.000 UI + kit di somministrazione | Non indicata | Non disponibile |
@@ -111,7 +109,7 @@ La previsione si basa esclusivamente sul modello TxGNN (deep learning, livello L
 - Reperire dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Verificare se esistano evidenze precliniche o cliniche a supporto di un ruolo del FIX nella pseudo-malattia di von Willebrand
-- Chiarire lo stato regolatorio e la disponibilità del prodotto (autorizzazioni annullate)
+- Chiarire lo stato regolatorio e la disponibilità del prodotto
 - Valutare se le alternative standard (trasfusioni piastriniche, misure dirette sul VWF) rendano il riposizionamento superfluo
 ## Avvertenza
 

@@ -113,13 +113,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), senza studi clinici né letteratura, e il meccanismo ipotizzato non è coerente con la fisiopatologia principale della malattia. Inoltre, tutte le autorizzazioni italiane sono cancellate.
+La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), senza studi clinici né letteratura, e il meccanismo ipotizzato non è coerente con la fisiopatologia principale della malattia.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Fogli illustrativi AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Studi preclinici o rassegne della letteratura sul ruolo dell'antagonismo H1 nell'artrite reumatoide
-- Verifica della fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia
+- Verifica della fattibilità regolatoria
 - Valutazione della sicurezza nei pazienti con insufficienza renale
 ## Avvertenza
 

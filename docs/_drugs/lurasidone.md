@@ -93,7 +93,7 @@ Nessuna delle pubblicazioni fornisce evidenze RCT dirette sull'uso del lurasidon
 | 051219095 | Lurasidone 28 cpr rivestite 18,5 mg | Accord Healthcare SLU | Valida |
 | 051313031 | Lurasidone 28 cpr rivestite 37 mg | Teva B.V. | Valida |
 
-Sono presenti 9 autorizzazioni in totale, tutte cancellate; le prime 5 sono riportate sopra. Lo stato di mercato andrebbe verificato rispetto alla disponibilità attuale.
+Lo stato di mercato andrebbe verificato rispetto alla disponibilità attuale.
 
 ## Considerazioni sulla sicurezza
 
@@ -107,13 +107,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-L'unico studio registrato è stato ritirato senza arruolare pazienti, e la letteratura disponibile non offre prove dirette di efficacia del lurasidone nella mania acuta (il farmaco ha evidenze soprattutto nella depressione bipolare). L'evidenza si ferma al livello L4. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza ufficiali.
+L'unico studio registrato è stato ritirato senza arruolare pazienti, e la letteratura disponibile non offre prove dirette di efficacia del lurasidone nella mania acuta (il farmaco ha evidenze soprattutto nella depressione bipolare). L'evidenza si ferma al livello L4.
 
 **Per procedere sono necessari:**
 - Dati di efficacia da RCT del lurasidone nella mania acuta (adulti e/o pazienti pediatrici)
 - Scarico e analisi del foglietto illustrativo AIFA per avvertenze e controindicazioni
 - Dati sul meccanismo d'azione da DrugBank
-- Verifica dell'effettiva disponibilità commerciale in Italia, dato che tutte le autorizzazioni sono cancellate
+- Verifica dell'effettiva disponibilità commerciale in Italia
 - Piano di monitoraggio della sicurezza (profilo metabolico, prolattina, interazioni, rischio di viraggio maniacale)
 ## Avvertenza
 

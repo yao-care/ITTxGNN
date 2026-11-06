@@ -96,7 +96,7 @@ La previsione per l'encefalite di Rasmussen è priva di studi clinici, di letter
 - Dati sul meccanismo d'azione e un'analisi della plausibilità biologica rispetto alla patogenesi immuno-mediata.
 - Avvertenze e controindicazioni del foglio illustrativo AIFA.
 - Evidenze precliniche o cliniche specifiche per tolcapone.
-- Una valutazione del rapporto rischio-beneficio epatico e della fattibilità regolatoria, dato lo stato di autorizzazione revocata.
+- Una valutazione del rapporto rischio-beneficio epatico e della fattibilità regolatoria.
 - Come alternativa, dare priorità alle previsioni più coerenti con l'indicazione originale (demenza a corpi di Lewy, parkinsonismo giovanile) come quesiti di ricerca.
 ## Avvertenza
 

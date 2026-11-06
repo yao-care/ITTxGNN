@@ -62,7 +62,6 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 
 Il legame con l'ulcera gastrica è però **sintomatico e indiretto**: il farmaco può alleviare nausea, ritardato svuotamento e reflusso associati alla malattia ulcerosa, ma non favorisce la guarigione della mucosa né riduce la secrezione acida. Uno studio sperimentale sul ratto (PMID 2730234) ha mostrato un effetto protettivo in modelli di ulcera indotta, ma non è un dato clinico.
 
-
 Altre predizioni nella stessa area (gastroduodenite, ulcera peptica, ulcera gastrodigiunale) poggiano sullo stesso razionale procinetico. Per la **perforazione ulcerosa**, invece, non esiste alcun razionale terapeutico: è un'emergenza chirurgica in cui un procinetico non è indicato e potrebbe essere dannoso.
 
 ---
@@ -117,13 +116,12 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 
 **Motivazione:**
 - L'evidenza è a livello L4: l'unico studio clinico riguarda un uso procedurale (visualizzazione endoscopica) e non la guarigione dell'ulcera; la letteratura è costituita in gran parte da rassegne datate. Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva.
-- Inoltre, tutte le autorizzazioni italiane risultano cancellate.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Definire con precisione il bersaglio clinico (sollievo sintomatico vs. guarigione dell'ulcera vs. uso procedurale in endoscopia): quest'ultimo appare il filone più concreto, grazie ai recenti RCT del 2024 e 2026.
-- Valutare lo stato regolatorio attuale e le formulazioni disponibili, dato che le autorizzazioni note sono cancellate.
+- Valutare lo stato regolatorio attuale e le formulazioni disponibili.
 - Eseguire studi clinici controllati con endpoint di guarigione ulcerosa o di sintomi, se si vuole sostenere l'indicazione terapeutica.
 ## Avvertenza
 

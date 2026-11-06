@@ -38,7 +38,7 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 
 ## Riepilogo in una frase
 
-L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale, ma le due autorizzazioni risultano oggi tutte revocate. Il modello TxGNN predice una possibile efficacia nell'**amenorrea**, con **nessuno studio clinico registrato** e **6 pubblicazioni**, di cui solo 2 realmente pertinenti (amenorrea ipotalamica funzionale).
+L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale. Il modello TxGNN predice una possibile efficacia nell'**amenorrea**, con **nessuno studio clinico registrato** e **6 pubblicazioni**, di cui solo 2 realmente pertinenti (amenorrea ipotalamica funzionale).
 
 ## Quadro generale
 
@@ -95,7 +95,7 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza si ferma a un piccolo studio clinico e a una revisione, limitati alla FHA, senza alcuno studio clinico registrato. Le autorizzazioni italiane sono tutte revocate e mancano i dati di sicurezza dal foglio illustrativo. Per ora il candidato resta una domanda di ricerca.
+L'evidenza si ferma a un piccolo studio clinico e a una revisione, limitati alla FHA, senza alcuno studio clinico registrato. Mancano i dati di sicurezza dal foglio illustrativo. Per ora il candidato resta una domanda di ricerca.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (dato bloccante per lo screening di sicurezza)

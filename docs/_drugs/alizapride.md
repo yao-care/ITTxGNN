@@ -43,7 +43,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Indicazione originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
 | Indicazione predetta nuova | Nessuna — nessuna previsione TxGNN disponibile |
-| Stato del mercato taiwanese | ✗ Non commercializzato (Non commercializzato) |
 | Numero di autorizzazioni | 1 (valide: 1) |
 
 ---

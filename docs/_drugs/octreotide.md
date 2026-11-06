@@ -71,7 +71,7 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Si elencano le prime 5 a titolo informativo:
+Si elencano le prime 5 a titolo informativo:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -93,13 +93,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con una lesione epiteliale benigna. Inoltre, tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano.
+La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con una lesione epiteliale benigna.
 
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e verifica del ruolo dei recettori SSTR2/SSTR5 nella cheratosi follicolare invertita
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Una revisione della letteratura e dei registri di sperimentazioni per la nuova indicazione
-- Valutazione della compatibilità della via di somministrazione e della disponibilità commerciale attuale in Italia, dato che non esistono autorizzazioni valide
+- Valutazione della compatibilità della via di somministrazione e della disponibilità commerciale attuale in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

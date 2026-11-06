@@ -101,14 +101,14 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è alto (0,9926), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica, l'unica autorizzazione italiana è cancellata e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.
+Il punteggio TxGNN è alto (0,9926), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.
 
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Valutare l'intera letteratura (solo 10 dei 20 lavori sono visibili) alla ricerca di studi clinici sulla nicardipina nell'ipertensione polmonare
 - Analizzare il rischio di squilibrio ventilazione-perfusione e la compatibilità delle vie di somministrazione
-- Verificare la disponibilità commerciale del prodotto in Italia, dato che l'unica autorizzazione è cancellata
+- Verificare la disponibilità commerciale del prodotto in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

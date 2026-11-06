@@ -42,7 +42,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 |------|------|
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
 | Indicazione Originaria | Non disponibile nel dataset attuale |
-| Stato del Mercato Taiwanese | ✗ Non commercializzato (Non commercializzato) |
 | Numero di autorizzazioni | 8 (valide: 8) |
 
 ## Avvertenza

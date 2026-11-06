@@ -92,7 +92,7 @@ Al momento non risultano studi clinici correlati registrati per il fibrosarcoma 
 | 045053067 | Imatinib 100 mg, 120 capsule (Dr. Reddy's) | Capsule | Non disponibile |
 | 043760038 | Imanivec 100 mg, 120 compresse rivestite (HCS BV) | Compresse rivestite | Non disponibile |
 
-Tutte le 9 autorizzazioni risultano cancellate; sono qui elencate le prime 5.
+Sono qui elencate le prime 5.
 
 ---
 
@@ -123,13 +123,13 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglio illustrati
 **Decisione: Hold**
 
 **Motivazione:**
-Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.
+Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e analisi del collegamento meccanicistico con il fibrosarcoma cardiaco
 - Testo delle indicazioni e delle avvertenze/controindicazioni dal foglio illustrativo AIFA (attualmente mancante, requisito bloccante per lo screening di sicurezza)
 - Evidenze specifiche: serie di casi, studi preclinici o studi clinici nel fibrosarcoma cardiaco
-- Verifica dello stato commerciale attuale di imatinib in Italia, dato che le autorizzazioni elencate risultano tutte cancellate
+- Verifica dello stato commerciale attuale di imatinib in Italia
 
 ---
 

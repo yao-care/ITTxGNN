@@ -104,13 +104,13 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 
 **Motivazione:**
 - Per il primo risultato (sindrome brachidattilia-sindattilia) esiste solo una predizione computazionale, senza studi, letteratura né legame meccanicistico plausibile (livello L5). Per l'AIG l'evidenza è L3, ma si tratta di uso sintomatico da FANS già noto e prevalentemente storico, quindi più una questione di ricerca che un vero riposizionamento.
-- In Italia tutte e tre le autorizzazioni risultano cancellate e mancano i dati di sicurezza del foglio illustrativo (lacuna bloccante).
+- Mancano i dati di sicurezza del foglio illustrativo (lacuna bloccante).
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Verifica sistematica della letteratura sull'AIG (studi controllati recenti, confronto con i DMARD/biologici attuali) e valutazione del profilo di sicurezza in età pediatrica
-- Chiarimento dello stato regolatorio attuale in Italia (autorizzazioni cancellate, prodotti eventualmente disponibili con altri nomi)
+- Chiarimento dello stato regolatorio attuale in Italia
 - Eventuale riesame dei candidati con punteggio elevato ma senza evidenza, che al momento non giustificano ulteriori investimenti
 ## Avvertenza
 

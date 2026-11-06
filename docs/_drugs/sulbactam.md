@@ -97,12 +97,12 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza si limita a predizione del modello e a studi clinici datati e di piccole dimensioni (anni '80) senza studi registrati. Inoltre le due autorizzazioni italiane sono tutte revocate e l'indicazione è di fatto un'estensione dello spettro antibatterico già noto.
+L'evidenza si limita a predizione del modello e a studi clinici datati e di piccole dimensioni (anni '80) senza studi registrati. L'indicazione è di fatto un'estensione dello spettro antibatterico già noto.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Acquisire i dati sul meccanismo d'azione da DrugBank
-- Valutare la fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia
+- Valutare la fattibilità regolatoria
 - Una revisione sistematica o studi clinici recenti sull'artrite batterica, con confronto rispetto alle terapie standard attuali
 - Verificare la compatibilità delle vie di somministrazione con il nuovo uso
 ## Avvertenza

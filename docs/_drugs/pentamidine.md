@@ -90,7 +90,7 @@ I dati di sicurezza tratti dal foglio illustrativo non sono disponibili. Si rima
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e senza un meccanismo plausibile. In Italia l'unica autorizzazione è revocata e il profilo di rischio (cardiaco, metabolico, renale, ematologico) è rilevante per un'eventuale nuova indicazione oftalmica.
+La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura, e senza un meccanismo plausibile.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

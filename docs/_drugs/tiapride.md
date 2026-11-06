@@ -106,7 +106,7 @@ Per le informazioni sulla sicurezza si rimanda al foglietto illustrativo. I dati
 **Decisione: Hold**
 
 **Motivazione:**
-La letteratura è consistente ma fragile: un solo RCT pilota recente, mentre gli altri studi risalgono agli anni 1979-1984 con metodologia limitata. Non vi sono studi clinici registrati. Inoltre, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza del foglietto illustrativo, che bloccano la valutazione di sicurezza.
+La letteratura è consistente ma fragile: un solo RCT pilota recente, mentre gli altri studi risalgono agli anni 1979-1984 con metodologia limitata. Non vi sono studi clinici registrati.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni)

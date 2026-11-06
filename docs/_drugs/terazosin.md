@@ -128,7 +128,7 @@ L'indicazione prevista si basa solo sul punteggio del modello TxGNN (deep learni
 - Dati sul meccanismo d'azione (ad es. da DrugBank) e valutazione di un nesso con la biologia del follicolo pilifero
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza)
 - Studi preclinici o pilota sull'alopecia/ipotricosi
-- Valutazione dello stato regolatorio, dato che non esistono autorizzazioni valide in Italia
+- Valutazione dello stato regolatorio
 - Come alternativa più promettente, approfondire le domande di ricerca su **malattia di Raynaud** ed **emicrania**, dove esiste almeno una letteratura preliminare, previa verifica del disegno e dei risultati degli studi originali
 ## Avvertenza
 

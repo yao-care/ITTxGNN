@@ -116,7 +116,7 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è plausibile dal punto di vista della classe farmacologica, ma ricade nell'indicazione già esistente (emicrania) e non è supportata da alcun dato specifico sull'aura del tronco encefalico. Inoltre l'autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.
+La predizione è plausibile dal punto di vista della classe farmacologica, ma ricade nell'indicazione già esistente (emicrania) e non è supportata da alcun dato specifico sull'aura del tronco encefalico. Mancano i dati di sicurezza dal foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza

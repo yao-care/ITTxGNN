@@ -94,7 +94,7 @@ Per le avvertenze e le controindicazioni, si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, letteratura o un razionale meccanicistico verificabile. In Italia l'unica autorizzazione è cancellata, e mancano i dati di sicurezza della scheda AIFA, che impediscono di procedere alla fase di screening di sicurezza.
+La previsione si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, letteratura o un razionale meccanicistico verificabile. Mancano i dati di sicurezza della scheda AIFA, che impediscono di procedere alla fase di screening di sicurezza.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)

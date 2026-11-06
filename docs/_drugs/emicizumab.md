@@ -132,13 +132,13 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab. Inoltre tutte le autorizzazioni italiane sono cancellate.
+La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab.
 
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e analisi meccanicistica specifica per la pseudo-malattia di von Willebrand
 - Dati preclinici o case report che supportino un effetto emostatico in questa condizione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Verifica dello stato regolatorio attuale in Italia (autorizzazioni cancellate)
+- Verifica dello stato regolatorio attuale in Italia
 - Come alternativa più promettente, valutare l'**emofilia A acquisita** (L2) come domanda di ricerca prioritaria, verificandone lo stato regolatorio
 ## Avvertenza
 

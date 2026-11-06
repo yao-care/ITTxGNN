@@ -44,7 +44,6 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | ID DrugBank | Non disponibile |
 | Indicazione originale | Non riportata nei dati locali |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
-| Stato del mercato Taiwan | ❌ Non commercializzato (Non commercializzato) |
 | Numero di autorizzazioni | 4 (valide: 4) |
 
 ---

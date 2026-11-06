@@ -72,8 +72,6 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.
-
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare | Indicazione approvata |
 |---------|------|------|------|-----------|
 | 035418060 | COPAXONE 12 siringhe SC 40 mg/ml 1 ml + ago | Non disponibile | TEVA GmbH | Non disponibile |
@@ -92,7 +90,7 @@ Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si riman
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile. Inoltre, in Italia non vi sono autorizzazioni attive.
+La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank) per valutare un eventuale collegamento biologico con le emoglobinopatie

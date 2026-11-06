@@ -114,7 +114,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico e tutte le autorizzazioni italiane sono cancellate.
+La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank

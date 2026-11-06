@@ -100,8 +100,6 @@ Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità
 |---------|------|------|-----------|
 | 036850055 | LEVEMIR FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Penna preriempita per uso sottocutaneo (stato: valida) | Testo non disponibile |
 
-L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia.
-
 ## Considerazioni sulla sicurezza
 
 - **Interazioni farmacologiche**: sono state identificate 100 interazioni. Le principali, di livello moderato, includono:

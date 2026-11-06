@@ -110,7 +110,7 @@ Per le restanti informazioni di sicurezza (avvertenze e controindicazioni), si r
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno studio clinico, e il SIV non è una malattia umana. Il valore principale è come supporto traslazionale all'indicazione HIV già esistente, non come nuova opportunità terapeutica. Inoltre, l'unica autorizzazione italiana risulta cancellata.
+L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno studio clinico, e il SIV non è una malattia umana. Il valore principale è come supporto traslazionale all'indicazione HIV già esistente, non come nuova opportunità terapeutica.
 
 **Per procedere sarebbe necessario:**
 - Recuperare le avvertenze e le controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza)

@@ -87,7 +87,6 @@ Per l'indicazione principale (ipertensione renovascolare maligna) non è disponi
 | 027747017 | FOSIPRES 28 cpr 10 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
 | 041340175 | FOSINOPRIL 14 cpr 20 mg | Aurobindo Pharma Italia Srl | Valida |
 
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni (da relazioni tra farmaco e malattia nel grafo di conoscenza, non dal foglio illustrativo)**: malattia renale, malattia epatica, pancreatite, malattia della colecisti, angioedema (anche ereditario, acquisito e indotto da bloccanti del RAAS), lupus eritematoso sistemico, carenza di potassio, diabete e chetoacidosi diabetica, neutropenia e agranulocitosi, stenosi aortica e valvulopatia aortica, ipotensione, iperparatiroidismo, encefalopatia/coma epatico, malattie del tessuto connettivo e malattie ossee.
@@ -109,7 +108,7 @@ La previsione ha un punteggio alto (0,9987) ma si basa solo sul modello (livello
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Ricerca di studi clinici o letteratura specifica sull'ipertensione renovascolare e sulla malattia renale ipertensiva maligna
 - Valutazione del profilo di sicurezza renale (iperkaliemia, aumento della creatinina, stenosi bilaterale delle arterie renali)
-- Chiarimento della strategia regolatoria, dato che attualmente non esistono autorizzazioni valide in Italia
+- Chiarimento della strategia regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

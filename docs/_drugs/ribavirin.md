@@ -103,7 +103,7 @@ Non sono presenti studi randomizzati: si tratta quasi esclusivamente di revision
 |---------|------|------|-----------|
 | 041806035 | RIBAVIRINA 140 cps 200 mg (Aurobindo Pharma Italia Srl) | Capsule | Non disponibile |
 
-L'unica autorizzazione è cancellata: attualmente non risulta alcun prodotto a base di ribavirina in commercio in Italia secondo i dati compilati. Questo incide sulla fattibilità.
+Questo incide sulla fattibilità.
 
 ## Citotossicità
 
@@ -136,14 +136,14 @@ Le altre nove predizioni (rank 2-10) hanno evidenza molto debole e raccomandazio
 **Decisione: Hold**
 
 **Motivazione:**
-L'unico studio di fase 3 mirato all'HBV usa la ribavirina in associazione a peginterferone, senza isolarne il contributo. L'attività anti-HBV diretta è debole e non vi sono prove di superiorità rispetto agli standard attuali. Inoltre non esiste alcun prodotto autorizzato in commercio in Italia e mancano i dati di sicurezza AIFA.
+L'unico studio di fase 3 mirato all'HBV usa la ribavirina in associazione a peginterferone, senza isolarne il contributo. L'attività anti-HBV diretta è debole e non vi sono prove di superiorità rispetto agli standard attuali. Mancano i dati di sicurezza AIFA.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
 - Acquisire dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Analizzare i risultati di NCT00114361 e NCT03759782 per capire il contributo specifico della ribavirina nell'HBV
 - Confrontare con gli analoghi nucleos(t)idici e il peginterferone da soli
-- Valutare la fattibilità regolatoria e commerciale, dato che l'autorizzazione italiana è cancellata
+- Valutare la fattibilità regolatoria e commerciale
 - Definire un piano di monitoraggio della sicurezza (in particolare anemia emolitica e rischio cardiovascolare) e considerare la teratogenicità
 ## Avvertenza
 

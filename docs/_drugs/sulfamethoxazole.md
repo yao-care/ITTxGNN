@@ -92,7 +92,7 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Decisione: Hold**
 
 **Motivazione:**
-La congiuntivite è già tra le indicazioni originali, quindi la previsione non rappresenta un vero riposizionamento. Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva) e tutte le autorizzazioni italiane sono cancellate, il che limita la rilevanza pratica.
+La congiuntivite è già tra le indicazioni originali, quindi la previsione non rappresenta un vero riposizionamento. Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva), il che limita la rilevanza pratica.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

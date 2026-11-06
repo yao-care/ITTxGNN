@@ -58,7 +58,6 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 Tuttavia, la cheratocongiuntivite epiteliale puntata è spesso di origine virale (ad esempio adenovirale) o infiammatoria, quindi un antibatterico avrebbe verosimilmente un beneficio limitato. La predizione è puramente computazionale e va considerata un'ipotesi da verificare.
 
-
 ## Evidenze da studi clinici
 
 Attualmente non risultano studi clinici registrati correlati, né per la cheratocongiuntivite epiteliale puntata né per la congiuntivite.
@@ -105,7 +104,7 @@ Avvertenze e controindicazioni da foglio illustrativo AIFA non sono disponibili:
 
 **Motivazione:**
 - La predizione per la cheratocongiuntivite epiteliale puntata ha un punteggio molto alto ma nessuna evidenza clinica o bibliografica (L5). Poiché la condizione è spesso virale o infiammatoria, l'efficacia di un antibatterico è dubbia.
-- Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica. La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.
+- La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.
 
 **Per procedere è necessario:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

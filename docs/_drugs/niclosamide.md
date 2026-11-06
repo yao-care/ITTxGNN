@@ -38,7 +38,7 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 
 ## Sintesi in una frase
 
-Niclosamide è un antielmintico, la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata. Il modello TxGNN ne predice un possibile effetto su **malattia cardiaca** (heart disease), ma a oggi non esistono **sperimentazioni cliniche** e le **14 pubblicazioni** reperite sono quasi tutte studi preclinici, in vitro o indiretti: si tratta di un'ipotesi di ricerca, non di un'indicazione supportata.
+Niclosamide è un antielmintico. Il modello TxGNN ne predice un possibile effetto su **malattia cardiaca** (heart disease), ma a oggi non esistono **sperimentazioni cliniche** e le **14 pubblicazioni** reperite sono quasi tutte studi preclinici, in vitro o indiretti: si tratta di un'ipotesi di ricerca, non di un'indicazione supportata.
 
 ## Panoramica rapida
 
@@ -111,7 +111,7 @@ L'evidenza è solo preclinica (animale e in vitro), senza sperimentazioni clinic
 - Dati sul meccanismo d'azione da DrugBank.
 - Studi preclinici più solidi in modelli cardiaci, con valutazione specifica del rischio vasocostrittivo.
 - Strategie di formulazione o derivati (ad esempio la niclosamide etanolamina o sistemi di rilascio mirato) per superare la bassa biodisponibilità.
-- Verifica della disponibilità del prodotto in Italia, dato che l'unica autorizzazione è cancellata.
+- Verifica della disponibilità del prodotto in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

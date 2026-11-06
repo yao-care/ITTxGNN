@@ -84,7 +84,7 @@ Per completezza, tra le indicazioni predette di rango inferiore, l'unica pubblic
 | 021894035 | RITMODAN*40 cps 100 mg | Non disponibile | Non disponibile (autorizzazione valida) |
 | 027218015 | RITMODAN RETARD*20 cpr 250 mg | Non disponibile | Non disponibile (autorizzazione valida) |
 
-Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH. Entrambe le autorizzazioni risultano cancellate.
+Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH.
 
 ## Considerazioni sulla sicurezza
 
@@ -98,13 +98,13 @@ Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la sindrome di Tourette (livello L5) si fonda solo sul modello, senza studi, senza legame meccanicistico plausibile e con un profilo di sicurezza (effetti anticolinergici, rischio proaritmico, numerose controindicazioni) poco favorevole. Inoltre, in Italia tutte le autorizzazioni sono cancellate.
+La previsione per la sindrome di Tourette (livello L5) si fonda solo sul modello, senza studi, senza legame meccanicistico plausibile e con un profilo di sicurezza (effetti anticolinergici, rischio proaritmico, numerose controindicazioni) poco favorevole.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e una giustificazione biologica per l'indicazione neurologica
 - Scheda tecnica AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
 - Evidenze precliniche e cliniche specifiche (studi o letteratura) sulla sindrome di Tourette
-- Valutazione della fattibilità regolatoria e commerciale, dato lo stato di autorizzazioni cancellate
+- Valutazione della fattibilità regolatoria e commerciale
 - In alternativa, valutare le indicazioni cardiologiche affini (aritmie atriali) con dati dedicati
 ## Avvertenza
 

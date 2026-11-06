@@ -64,7 +64,6 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione per que
 
 Per il **tumore del nervo trigemino** non emerge un nesso terapeutico plausibile. Le azioni anticonvulsivanti e neuromodulatorie del topiramato non hanno una relazione stabilita con la biologia dei tumori del nervo trigemino. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
-
 ---
 
 ## Evidenze da sperimentazioni cliniche
@@ -95,7 +94,7 @@ Nota: questa letteratura riguarda l'epilessia in generale e non studi specifici 
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
+Il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -121,7 +120,6 @@ Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione appro
 
 **Motivazione:**
 - La predizione per la neoplasia del nervo trigemino si basa unicamente sul punteggio TxGNN (0,997), senza sperimentazioni né letteratura (livello L5), e senza un razionale meccanicistico credibile.
-- Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate).
 
 **Per procedere sono necessari:**
 - Verifica del razionale biologico tra l'azione del topiramato e i tumori del nervo trigemino, tramite studi preclinici.

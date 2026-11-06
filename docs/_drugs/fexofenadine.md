@@ -81,7 +81,7 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile. Si riportano le prime 5.
+Il testo delle indicazioni approvate non è disponibile. Si riportano le prime 5.
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
 |---------|------|------|-----------|------|
@@ -109,14 +109,14 @@ Per le informazioni di sicurezza definitive, fare riferimento al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-Non esistono studi clinici né pubblicazioni a sostegno della congiuntivite da rosacea; il solo elemento è un punteggio predittivo elevato (livello di evidenza L5). Il meccanismo antistaminico è solo parzialmente pertinente, perché la rosacea oculare non è prevalentemente istamino-mediata. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.
+Non esistono studi clinici né pubblicazioni a sostegno della congiuntivite da rosacea; il solo elemento è un punteggio predittivo elevato (livello di evidenza L5). Il meccanismo antistaminico è solo parzialmente pertinente, perché la rosacea oculare non è prevalentemente istamino-mediata.
 
 **Per procedere sono necessari:**
 - Recupero di avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank per valutare il legame meccanicistico
 - Ricerca di evidenze precliniche o cliniche sull'uso di antistaminici nella rosacea oculare
 - Valutazione della compatibilità della via di somministrazione (le compresse orali sono la sola forma nota; una formulazione oculare non è documentata)
-- Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide
+- Chiarimento dello stato regolatorio in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -41,8 +41,7 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 | Elemento | Contenuto |
 |------|------|
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
-| Indicazione Originaria | Non disponibile (nessuna licenza approvata trovata in Taiwan) |
-| Stato del Mercato Taiwan | ✗ Non commercializzato |
+| Indicazione Originaria | Non disponibile |
 | Numero di autorizzazioni | 16 (valide: 16) |
 
 ## Avvertenza

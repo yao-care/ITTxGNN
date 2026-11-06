@@ -143,7 +143,6 @@ Per avvertenze, controindicazioni formali e interazioni farmacologiche consultar
 - Verificare con un esperto se l'indicazione di interesse sia davvero la nevralgia del trigemino e non il neoplasma; in tal caso rivalutare quella indicazione (L2) con la decisione Proceed with Guardrails.
 - Per la nevralgia del trigemino, confermare i risultati dei due studi (piccoli, fase 2/3 e NA) e valutare studi di maggiore dimensione.
 - Acquisire il foglietto illustrativo AIFA con avvertenze e controindicazioni, informazione oggi mancante e bloccante per la valutazione di sicurezza.
-- Chiarire lo stato regolatorio: tutte le autorizzazioni italiane risultano cancellate.
 - Reperire dati dettagliati sul meccanismo d'azione.
 ## Avvertenza
 

@@ -110,14 +110,14 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Dalla letter
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno completato, con 1535 pazienti, e uno con stato sconosciuto e senza risultati), e questo giustifica il livello L1. Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report e le autorizzazioni italiane sono tutte cancellate.
+Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno completato, con 1535 pazienti, e uno con stato sconosciuto e senza risultati), e questo giustifica il livello L1. Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica dei risultati pubblicati dello studio NCT00660894 e aggiornamento dello stato di NCT03448549
 - Valutazione del contributo specifico del gimeracil rispetto agli altri componenti dell'S-1
-- Chiarimento della situazione regolatoria in Italia, dato che tutte le autorizzazioni risultano cancellate
+- Chiarimento della situazione regolatoria in Italia
 - Piano di monitoraggio della sicurezza (tossicità ematologica, cutanea e cardiaca) e valutazione della DPD
 ## Avvertenza
 

@@ -102,13 +102,13 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione principale riguarda una malattia veterinaria, supportata solo da studi su gatti e da dati in vitro, senza studi clinici sull'uomo. Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento, e in Italia tutte le autorizzazioni della lamivudina risultano cancellate.
+La previsione principale riguarda una malattia veterinaria, supportata solo da studi su gatti e da dati in vitro, senza studi clinici sull'uomo. Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Una valutazione se esista una nuova indicazione umana con evidenza clinica reale (le previsioni attuali non la offrono)
-- Chiarimento sulla situazione regolatoria in Italia, dato che tutte le licenze sono cancellate
+- Chiarimento sulla situazione regolatoria in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

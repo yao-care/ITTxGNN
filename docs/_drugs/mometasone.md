@@ -83,7 +83,7 @@ Nessuna delle due pubblicazioni dimostra l'efficacia del mometasone nel linfoma 
 | 036685042 | ASMANEX polv. inal. 30 dosi 400 mcg (valida) | Polvere per inalazione | Non disponibile |
 | 036685028 | ASMANEX polv. inal. 60 dosi 200 mcg (valida) | Polvere per inalazione | Non disponibile |
 
-Sono presenti in totale 7 autorizzazioni, tutte annullate; qui sono elencate le prime 5. Le forme farmaceutiche sono dedotte dal nome del prodotto.
+Le forme farmaceutiche sono dedotte dal nome del prodotto.
 
 ## Citotossicità
 
@@ -100,7 +100,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Il collegamento meccanicistico con i corticosteroidi topici nella micosi fungoide è plausibile, ma la predizione si basa solo sul modello TxGNN: non ci sono sperimentazioni cliniche e le due pubblicazioni disponibili sono casi clinici non dimostrativi. Inoltre, in Italia tutte le autorizzazioni del mometasone presenti nei dati risultano annullate.
+Il collegamento meccanicistico con i corticosteroidi topici nella micosi fungoide è plausibile, ma la predizione si basa solo sul modello TxGNN: non ci sono sperimentazioni cliniche e le due pubblicazioni disponibili sono casi clinici non dimostrativi.
 
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate), indispensabile per la valutazione di sicurezza

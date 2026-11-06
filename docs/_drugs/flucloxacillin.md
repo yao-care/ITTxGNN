@@ -38,7 +38,6 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 
 ## Sintesi in una frase
 
-La flucloxacillina è una penicillina antistafilococcica; nei dati compilati per questo report non risulta alcuna indicazione approvata registrata per l'unica autorizzazione italiana, ormai cancellata.
 Il modello TxGNN prevede un possibile effetto su **congiuntivite** (punteggio molto alto), ma **non esistono sperimentazioni cliniche** e l'unica pubblicazione associata è **un case report** su una dacrioadenite gonococcica, che non dimostra l'efficacia del farmaco.
 
 ## Quadro generale
@@ -88,7 +87,7 @@ Dalla letteratura associata ad altre predizioni emergono segnalazioni di reazion
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa quasi solo sul modello computazionale: non ci sono sperimentazioni cliniche e l'unico case report non riguarda l'efficacia della flucloxacillina. In più, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.
+La predizione si basa quasi solo sul modello computazionale: non ci sono sperimentazioni cliniche e l'unico case report non riguarda l'efficacia della flucloxacillina.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)

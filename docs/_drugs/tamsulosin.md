@@ -90,7 +90,7 @@ Entrambi gli studi riflettono associazioni legate all'iperplasia prostatica beni
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati. Le prime 5 autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati. Le prime 5 autorizzazioni:
 
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -117,13 +117,13 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul modello (livello L5): non esistono studi clinici o pubblicazioni, né un razionale meccanicistico plausibile. Inoltre, in Italia tutte le autorizzazioni sono cancellate.
+La predizione si basa unicamente sul modello (livello L5): non esistono studi clinici o pubblicazioni, né un razionale meccanicistico plausibile.
 
 **Per procedere sarebbero necessari:**
 - Dati sul meccanismo d'azione (MOA) della tamsulosina e un'analisi del possibile legame con i disturbi del pelo
 - Dati di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Dati preclinici o di studi osservazionali che colleghino il blocco alfa-1 adrenergico alla crescita o alla struttura del pelo
-- Verifica dello stato regolatorio e della disponibilità commerciale in Italia, dato che non vi sono autorizzazioni valide
+- Verifica dello stato regolatorio e della disponibilità commerciale in Italia
 - Rivalutazione delle altre predizioni con maggiore plausibilità biologica, poiché nessuna di quelle attuali mostra evidenze di supporto
 ## Avvertenza
 

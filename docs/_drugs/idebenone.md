@@ -97,7 +97,7 @@ I dati compilati non contengono informazioni su avvertenze, controindicazioni o 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni. Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sicurezza.
+La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante)

@@ -85,14 +85,14 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è al livello L5: la predizione si basa solo sul modello, con una singola serie di casi del 1999 e nessuno studio clinico registrato. Il farmaco non è più commercializzato in Italia (unica licenza cancellata) e mancano dati su meccanismo e sicurezza.
+L'evidenza è al livello L5: la predizione si basa solo sul modello, con una singola serie di casi del 1999 e nessuno studio clinico registrato. Mancano dati su meccanismo e sicurezza.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), necessari per lo screening di sicurezza
 - Dati sul meccanismo d'azione di valpromide (ad es. da DrugBank)
 - Chiarimento dell'indicazione originale e della relazione con l'insonnia
 - Studi clinici o revisioni della letteratura più solidi sull'uso in insonnia
-- Valutazione della fattibilità regolatoria, dato lo stato di autorizzazione cancellata
+- Valutazione della fattibilità regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

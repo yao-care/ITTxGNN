@@ -77,8 +77,6 @@ Attualmente non è disponibile letteratura correlata.
 | 026270090 | FLUXUM 6 siringhe SC 6.400 UI aXa 0,6 ml | ALFASIGMA SpA | Valida |
 | 026270126 | FLUXUM 6 siringhe SC 8.500 UI aXa 0,8 ml | ALFASIGMA SpA | Valida |
 
-Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di un riposizionamento.
-
 ## Considerazioni di sicurezza
 
 - **Controindicazioni suggerite dalla base di conoscenza (non dal foglio illustrativo):** la base di conoscenza TxGNN segnala associazioni di controindicazione con numerose condizioni, tra cui:
@@ -102,7 +100,7 @@ Mancano inoltre i dati su meccanismo d'azione e sicurezza ufficiale.
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Condurre una revisione della letteratura sull'uso di eparina/EBPM nella malattia fibrocistica della mammella e, in parallelo, nel deficit congenito di proteina C, indicazione più plausibile da approfondire per prima.
-- Valutare la fattibilità regolatoria e commerciale, dato che tutte le autorizzazioni sono cancellate.
+- Valutare la fattibilità regolatoria e commerciale.
 - Verificare la compatibilità della via di somministrazione (sottocutanea) con la nuova indicazione.
 ## Avvertenza
 

@@ -147,7 +147,6 @@ Per avvertenze e controindicazioni ufficiali fare riferimento al foglietto illus
 - Recuperare dal sito AIFA il foglietto illustrativo (avvertenze, controindicazioni, indicazioni approvate), poiché i dati di sicurezza ufficiali mancano.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Verificare risultati e rischio di bias dell'RCT pubblicato nel 2026 e lo stato dello studio contro topiramato (NCT06243692); chiarire l'indicazione dello studio NCT00440518.
-- Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve chiarire la disponibilità attuale del prodotto.
 - Per la mania: studi prospettici controllati e valutazione del segnale di neutropenia.
 - Per le controindicazioni cardiache e le interazioni maggiori: piano di monitoraggio (ECG, funzionalità epatica) per le popolazioni a rischio.
 ## Avvertenza

@@ -90,8 +90,6 @@ I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibil
 | 019913019 | Spirolang 16 cps 25 mg | SIT Laboratorio Farmaceutico Srl |
 | 019822030 | Aldactone 10 cpr rivestite 100 mg | Cheplapharm Arzneimittel GmbH |
 
-Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofur, Spiridazide).
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -109,7 +107,7 @@ Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associa
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né letteratura (livello L5). Il collegamento meccanicistico con una patologia genetica non androgeno-dipendente è speculativo. Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.
+La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né letteratura (livello L5). Il collegamento meccanicistico con una patologia genetica non androgeno-dipendente è speculativo. Mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.
 
 **Per procedere sono necessari:**
 - Acquisire dal sito AIFA avvertenze e controindicazioni del foglietto illustrativo.

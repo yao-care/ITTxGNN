@@ -129,7 +129,7 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza si limita a plausibilità biologica, un case report in revisione e schemi di combinazione datati; i due studi clinici correlati non forniscono dati diretti sulla procarbazina. Nel linfoma follicolare moderno la procarbazina non è un agente standard, e in Italia l'unica autorizzazione è stata cancellata.
+L'evidenza si limita a plausibilità biologica, un case report in revisione e schemi di combinazione datati; i due studi clinici correlati non forniscono dati diretti sulla procarbazina. Nel linfoma follicolare moderno la procarbazina non è un agente standard.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA)

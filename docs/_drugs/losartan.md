@@ -93,7 +93,7 @@ Attualmente non risultano studi clinici registrati correlati.
 | 029384017 | LORTAAN 28 cpr rivestite 50 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 039164037 | LOSARTAN 28 cpr rivestite 50 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.
+Sono elencate 5 delle 20 autorizzazioni.
 
 ---
 
@@ -111,13 +111,13 @@ Le avvertenze del foglietto illustrativo AIFA non sono disponibili: si rimanda a
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un caso clinico e a un lavoro preclinico, senza alcuno studio clinico. In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante.
+La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un caso clinico e a un lavoro preclinico, senza alcuno studio clinico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti come DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Studi clinici, o almeno serie di casi/studi osservazionali, nell'ipertensione renovascolare, con attenzione alla funzione renale
-- Verifica dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide
+- Verifica dello stato regolatorio in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

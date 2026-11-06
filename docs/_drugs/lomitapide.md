@@ -87,7 +87,6 @@ Attualmente nessuna pubblicazione correlata disponibile.
 | 042920013 | LOJUXTA 28 capsule rigide 5 mg | Chiesi Farmaceutici SpA | Valida |
 | 042920037 | LOJUXTA 28 capsule rigide 20 mg | Chiesi Farmaceutici SpA | Valida |
 
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -106,7 +105,7 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglio il
 **Decisione: Hold**
 
 **Motivazione:**
-- La previsione per la marcotrombocitopenia con insufficienza della valvola mitrale è solo un risultato del modello (L5), senza studi, pubblicazioni o meccanismo plausibile. Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità) e non ha autorizzazioni valide in Italia.
+- La previsione per la marcotrombocitopenia con insufficienza della valvola mitrale è solo un risultato del modello (L5), senza studi, pubblicazioni o meccanismo plausibile. Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità).
 - Tuttavia coincide di fatto con l'indicazione originale (HoFH), quindi non è un vero riposizionamento. Per eventuali proposte è necessario verificare la disponibilità commerciale del prodotto, oggi cessato.
 
 **Per procedere sono necessari:**

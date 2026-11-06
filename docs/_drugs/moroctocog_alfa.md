@@ -81,7 +81,6 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-
 | Numero di autorizzazione | Nome del prodotto | Indicazione approvata |
 |---------|------|-----------|
 | 034421053 | REFACTO AF siringa preriempita EV 3.000 UI + solvente 4 ml + kit per infusione | Non disponibile nei dati |
@@ -99,7 +98,7 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per il disturbo da rilascio piastrinico primario si basa solo sul modello (L5), senza studi clinici né letteratura. Il difetto piastrinico non è mediato dal FVIII, e il prodotto non ha più autorizzazioni valide in Italia.
+La previsione per il disturbo da rilascio piastrinico primario si basa solo sul modello (L5), senza studi clinici né letteratura. Il difetto piastrinico non è mediato dal FVIII.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione del farmaco

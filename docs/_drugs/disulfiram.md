@@ -80,15 +80,13 @@ Attualmente nessuna letteratura correlata disponibile — i dati di `predicted_i
 
 ## Informazioni sul Mercato Italiano
 
-Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è attualmente commercializzato in Italia.
-
 ---
 
 ## Considerazioni di Sicurezza
 
 Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
-> Nota: Sebbene la query del foglio illustrativo TFDA (`tfda_package_insert`) abbia restituito uno stato di successo con 1 risultato, i campi di sicurezza strutturati (avvertenze, controindicazioni) non sono stati analizzati nel Fascicolo di Evidenze. La query DDI ha inoltre restituito nessun risultato. Tutte e tre le categorie di dati di sicurezza richiedono un follow-up prima che sia possibile qualsiasi valutazione della sicurezza clinica.
+> La query DDI ha inoltre restituito nessun risultato. Tutte e tre le categorie di dati di sicurezza richiedono un follow-up prima che sia possibile qualsiasi valutazione della sicurezza clinica.
 
 ---
 
@@ -102,10 +100,10 @@ Questo Fascicolo di Evidenze manca dei tre input minimi richiesti per una valuta
 **Per procedere, quanto segue è necessario:**
 
 1. **Eseguire la pipeline TxGNN per Disulfiram** — generare `predicted_indications` con punteggi, link ai trial e riferimenti bibliografici; senza questo il rapporto non ha nessuna indicazione target da valutare
-2. **Analizzare il contenuto del foglio illustrativo TFDA** (DG001, Blocco) — la query ha restituito un risultato ma i dati di sicurezza strutturati non sono stati estratti; avvertenze e controindicazioni devono essere compilate prima che qualsiasi screening di sicurezza sia possibile
+2. **Analizzare il contenuto del foglio illustrativo** (DG001, Blocco) — la query ha restituito un risultato ma i dati di sicurezza strutturati non sono stati estratti; avvertenze e controindicazioni devono essere compilate prima che qualsiasi screening di sicurezza sia possibile
 3. **Recuperare MOA da DrugBank API** (DG002, Alta) — la query di DrugBank ha restituito un risultato ma MOA rimane non compilato; questo è necessario per l'analisi di plausibilità meccanicistica
 4. **Integrare i dati DDI da una fonte alternativa** — la query DDI corrente ha restituito `not_found`; consultare il database DrugBank DDI o MICROMEDEX per escludere i rischi di interazione
-5. **Controllare i database EMA / FDA per le indicazioni approvate** — poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto
+5. **Controllare i database EMA / FDA per le indicazioni approvate** — le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto
 
 ## Avvertenza
 

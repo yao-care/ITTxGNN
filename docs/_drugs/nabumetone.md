@@ -91,8 +91,6 @@ Attualmente non è disponibile alcuna letteratura correlata.
 | 026673057 | NABUSER 30 compresse rivestite 1 g (Pharmaday Pharm. Srl Unipersonale) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 026673069 | NABUSER granulato orale 30 bustine 1 g (Pharmaday Pharm. Srl Unipersonale) | Granulato orale | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni risultano cancellate: oggi non esiste in Italia un prodotto a base di nabumetone con autorizzazione valida, il che limita lo sviluppo pratico.
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni segnalate dal grafo di conoscenza** (non derivano dal foglietto illustrativo): ipertensione/disturbi ipertensivi, malattie renali, pioureterе, malattie epatiche, malattie della colecisti, ulcera peptica (anche attiva), abuso/dipendenza da sostanze, disturbi della coagulazione, infarto miocardico, trombosi coronarica, emoglobinopatie, malattie cardiovascolari e cardiache.
@@ -107,13 +105,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per la displasia acromesomelica di tipo Hunter-Thompson non ha alcun supporto clinico o bibliografico e nessun legame meccanicistico con l'azione del nabumetone, che potrebbe offrire al massimo sollievo sintomatico. Inoltre, il farmaco non ha autorizzazioni valide in Italia.
+La previsione per la displasia acromesomelica di tipo Hunter-Thompson non ha alcun supporto clinico o bibliografico e nessun legame meccanicistico con l'azione del nabumetone, che potrebbe offrire al massimo sollievo sintomatico.
 
 **Per procedere sarebbe necessario:**
 - Recuperare i dati sul meccanismo d'azione (MOA) del nabumetone.
 - Acquisire avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza.
 - Valutare, con una ricerca bibliografica mirata, indicazioni più plausibili come la spondiloartropatia.
-- Verificare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate.
+- Verificare la fattibilità regolatoria.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

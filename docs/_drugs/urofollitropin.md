@@ -72,8 +72,6 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni, a nome di IBSA Farmaceutici Italia Srl, risultano cancellate; non esistono autorizzazioni valide.
-
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 032921114 | FOSTIMON 5 flaconcini 150 UI/ml + 5 siringhe | n.d. | n.d. |
@@ -81,8 +79,6 @@ Tutte le autorizzazioni, a nome di IBSA Farmaceutici Italia Srl, risultano cance
 | 032921177 | FOSTIMON 5 flaconcini 300 UI/ml + 5 siringhe + 10 aghi | n.d. | n.d. |
 | 032921140 | FOSTIMON 5 flaconcini 225 UI/ml + 5 siringhe + 10 aghi | n.d. | n.d. |
 | 032921165 | FOSTIMON 1 flaconcino 300 UI/ml + 1 siringa + 1 ago | n.d. | n.d. |
-
-Sono elencate le prime 5 delle 8 autorizzazioni (tutte cancellate).
 
 ## Considerazioni sulla sicurezza
 
@@ -95,14 +91,14 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'emicrania si basa solo sul modello (livello L5), senza studi clinici, letteratura o meccanismo plausibile. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non esiste un prodotto attualmente commercializzato da cui partire.
+La previsione per l'emicrania si basa solo sul modello (livello L5), senza studi clinici, letteratura o meccanismo plausibile.
 
 **Per procedere, è necessario:**
 - Dati sul meccanismo d'azione (MOA) e analisi di un possibile legame con l'emicrania
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o cliniche sul ruolo dell'FSH/urofollitropina nell'emicrania
 - Valutazione della compatibilità della via di somministrazione e della similarità con l'indicazione originale
-- Verifica della disponibilità di prodotti equivalenti sul mercato, dato lo stato di autorizzazioni cancellate
+- Verifica della disponibilità di prodotti equivalenti sul mercato
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

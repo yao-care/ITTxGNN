@@ -80,7 +80,7 @@ Attualmente non risulta disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Le principali (5 di 20):
+Le principali (5 di 20):
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -104,7 +104,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione è basata solo sul modello (L5): nessuna sperimentazione, nessuna pubblicazione e nessun meccanismo biologico plausibile che colleghi il blocco alfa-1A all'ipertricosi di tipo Ambras. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.
+La previsione è basata solo sul modello (L5): nessuna sperimentazione, nessuna pubblicazione e nessun meccanismo biologico plausibile che colleghi il blocco alfa-1A all'ipertricosi di tipo Ambras.
 
 **Per procedere sarebbe necessario:**
 - Acquisire il meccanismo d'azione dettagliato (dati DrugBank).

@@ -106,7 +106,7 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre non esistono autorizzazioni valide in Italia e mancano i dati di sicurezza del foglio illustrativo.
+La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura. Mancano i dati di sicurezza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), requisito bloccante per lo screening di sicurezza

@@ -109,7 +109,7 @@ Sono elencati i 10 studi più rilevanti. Altri studi hanno rilevanza limitata (a
 
 ## Informazioni sul mercato italiano
 
-Tutte le 13 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5 sono:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5 sono:
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -140,12 +140,12 @@ I dati su avvertenze e controindicazioni del foglio illustrativo non sono dispon
 **Decisione: Proceed with Guardrails**
 
 **Motivazione:**
-Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativi, meta-analisi e linee guida che sostengono il ruolo del ketorolac parenterale. Mancano però RCT di fase 3 sul ketorolac, il farmaco non ha autorizzazioni valide in Italia e il profilo di interazioni e rischi è rilevante. Le altre due predizioni (congiuntivite da rosacea e cefalea autonomica trigeminale) restano in **Hold** per assenza di evidenze dirette.
+Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativi, meta-analisi e linee guida che sostengono il ruolo del ketorolac parenterale. Mancano però RCT di fase 3 sul ketorolac e il profilo di interazioni e rischi è rilevante. Le altre due predizioni (congiuntivite da rosacea e cefalea autonomica trigeminale) restano in **Hold** per assenza di evidenze dirette.
 
 **Per procedere sono necessari:**
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - I dati sul meccanismo d'azione da DrugBank.
-- Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate.
+- Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia.
 - Un piano di monitoraggio della sicurezza (rischio gastrointestinale, renale e cardiovascolare, interazioni con anticoagulanti, litio e ACE-inibitori), con durata limitata del trattamento.
 - Una verifica più approfondita dell'evidenza per i sottotipi di cefalea diversi dall'emicrania.
 ## Avvertenza

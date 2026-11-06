@@ -90,8 +90,6 @@ Attualmente non risultano studi clinici correlati registrati.
 | 048433027 | NORITREN 28 cpr rivestite 25 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 | 048433015 | NORITREN 28 cpr rivestite 10 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia.
-
 ## Considerazioni sulla sicurezza
 
 Il foglio illustrativo AIFA non è disponibile, quindi avvertenze e controindicazioni da etichetta non sono state verificate. Si rimanda al foglio illustrativo.
@@ -111,14 +109,14 @@ Il foglio illustrativo AIFA non è disponibile, quindi avvertenze e controindica
 **Decisione: Hold**
 
 **Motivazione:**
-Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. In Italia inoltre non ci sono autorizzazioni attive. Il punteggio TxGNN elevato, da solo, non basta a giustificare un avanzamento.
+Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. Il punteggio TxGNN elevato, da solo, non basta a giustificare un avanzamento.
 
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza.
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank).
 - Una valutazione formale dei dati degli studi controllati (11052409, 22700161) e della revisione Cochrane per stimare l'entità dell'effetto nell'ADHD.
 - Un piano di monitoraggio cardiovascolare (ECG, livelli sierici), soprattutto in popolazioni pediatriche.
-- Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni, dato che le autorizzazioni risultano annullate.
+- Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

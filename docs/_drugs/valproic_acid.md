@@ -112,7 +112,7 @@ Per avvertenze e precauzioni d'uso fare riferimento al foglio illustrativo, non 
 
 **Motivazione:**
 - Per il neoplasma del nervo trigemino non esistono studi clinici e l'unica pubblicazione collegata non è pertinente; il punteggio TxGNN molto alto proviene dal modello (deep learning) e può riflettere similarità apprese tra malattie correlate, non un'evidenza reale (livello L5).
-- Il prodotto non ha autorizzazioni valide in Italia, e il profilo di sicurezza è rilevante (epatotossicità, controindicazioni in disturbi ematologici, pancreatite, ecc.).
+- Il profilo di sicurezza è rilevante (epatotossicità, controindicazioni in disturbi ematologici, pancreatite, ecc.).
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e prove precliniche dell'effetto antitumorale del valproato su tumori del trigemino/nervi cranici.

@@ -99,7 +99,6 @@ Per l'ipertensione polmonare da malattia polmonare e/o ipossia sono state recupe
 | 028162030 | Plendil 14 cpr 10 mg rilascio prolungato (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
 | 027372010 | Prevex 28 cpr 5 mg rilascio prolungato con calendario (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
 
-
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni suggerite dal grafo di conoscenza** (non derivano dal foglio illustrativo): malattie renali ed epatiche, stenosi aortica, cardiomiopatia ipertrofica, ipotensione, infarto miocardico e coronaropatia/aterosclerosi, angioedema, neutropenia/agranulocitosi, ostruzione dell'arteria renale, tra le altre.
@@ -113,13 +112,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Decisione: Hold** (per l'indicazione principale, ipertensione polmonare); **angina di Prinzmetal**: da considerare come domanda di ricerca.
 
 **Motivazione:**
-- L'indicazione con il punteggio più alto si basa solo su una predizione computazionale (L5), senza studi né letteratura; le indicazioni ipertensive maligne sono estensioni dell'uso originale. Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata e tutte le autorizzazioni italiane della felodipina sono cancellate.
+- L'indicazione con il punteggio più alto si basa solo su una predizione computazionale (L5), senza studi né letteratura; le indicazioni ipertensive maligne sono estensioni dell'uso originale. Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata.
 
 **Per procedere sono necessari:**
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (dato mancante bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione dettagliato (ad es. da DrugBank)
 - Verifica del disegno degli studi sull'angina di Prinzmetal tramite lettura dei testi completi
-- Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato (solo autorizzazioni cancellate)
+- Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato
 - Per l'ipertensione polmonare, dati clinici specifici sul sottogruppo vasoreattivo
 ## Avvertenza
 

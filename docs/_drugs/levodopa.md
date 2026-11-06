@@ -101,7 +101,7 @@ La previsione poggia solo sul punteggio del modello (livello L5), senza studi cl
 - Una revisione sistematica della letteratura su levodopa ed encefalite di Rasmussen (inclusi case report su emiparkinsonismo-emiatrofia)
 - I dati sul meccanismo d'azione della levodopa e un'analisi del legame con la patogenesi immunomediata
 - Le avvertenze e controindicazioni dal foglio illustrativo AIFA, con una valutazione specifica del rischio convulsivo
-- Chiarimenti sullo stato regolatorio attuale in Italia (le autorizzazioni risultano tutte cancellate)
+- Chiarimenti sullo stato regolatorio attuale in Italia
 - Una valutazione di compatibilità di via di somministrazione e di similarità con l'indicazione originale
 ## Avvertenza
 

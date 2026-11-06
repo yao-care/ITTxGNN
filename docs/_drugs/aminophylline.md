@@ -124,7 +124,7 @@ I dati su avvertenze e controindicazioni dal foglio illustrativo AIFA non sono d
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza per l'emicrania è limitata al livello L4: una rassegna e alcuni case report, senza studi clinici. La direzione dell'effetto è incerta e l'unica autorizzazione italiana è revocata, per cui non c'è una base regolatoria locale attiva.
+L'evidenza per l'emicrania è limitata al livello L4: una rassegna e alcuni case report, senza studi clinici. La direzione dell'effetto è incerta.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).

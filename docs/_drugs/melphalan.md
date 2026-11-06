@@ -128,13 +128,13 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglio illustr
 **Decisione: Hold**
 
 **Motivazione:**
-- Le prove sul tumore germinale delle gonadi derivano da studi di fase 1/2 non randomizzati con regimi ad alte dosi in combinazione, in cui il contributo del melfalan non è isolabile. Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati ufficiali di sicurezza. Il valore di ricerca resta, ma è insufficiente per procedere.
+- Le prove sul tumore germinale delle gonadi derivano da studi di fase 1/2 non randomizzati con regimi ad alte dosi in combinazione, in cui il contributo del melfalan non è isolabile. Mancano i dati ufficiali di sicurezza. Il valore di ricerca resta, ma è insufficiente per procedere.
 
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Analisi dei risultati pubblicati di NCT00936936 per stimare il contributo specifico del melfalan
-- Verifica della disponibilità di formulazioni (in particolare endovenosa ad alte dosi) in Italia, dato che l'unico prodotto autorizzato è cancellato
+- Verifica della disponibilità di formulazioni (in particolare endovenosa ad alte dosi) in Italia
 - Piano di monitoraggio ematologico e di sicurezza per popolazioni specifiche
 ## Avvertenza
 

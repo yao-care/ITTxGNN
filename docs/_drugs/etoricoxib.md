@@ -92,7 +92,7 @@ Per indicazioni correlate (cefalee e altre forme):
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si elencano le prime 5:
+Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si elencano le prime 5:
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -114,14 +114,14 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da un meccanismo plausibile, senza studi clinici né letteratura diretta su etoricoxib. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano dati di sicurezza dal foglio illustrativo. Le cefalee primarie rare (cefalea a stilettata, cefalee responsive all'indometacina) mostrano segnali aneddotici come possibile linea di ricerca (livello L4).
+La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da un meccanismo plausibile, senza studi clinici né letteratura diretta su etoricoxib. Le cefalee primarie rare (cefalea a stilettata, cefalee responsive all'indometacina) mostrano segnali aneddotici come possibile linea di ricerca (livello L4).
 
 **Per procedere, è necessario:**
 - Recuperare avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Condurre una revisione sistematica della letteratura sugli inibitori COX-2 nell'emicrania ed eventualmente studi controllati
 - Valutare il profilo cardiovascolare, renale e neurovascolare nei pazienti candidati
-- Chiarire la situazione regolatoria, dato che non esistono autorizzazioni valide in Italia
+- Chiarire la situazione regolatoria
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

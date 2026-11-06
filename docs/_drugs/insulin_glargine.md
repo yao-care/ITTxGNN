@@ -104,13 +104,13 @@ Sono mostrate le prime 5.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), senza sperimentazioni o letteratura, e verosimilmente riflette la comorbilità autoimmune con il diabete di tipo 1 e non un beneficio terapeutico. Inoltre, tutte le autorizzazioni italiane risultano cancellate.
+La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), senza sperimentazioni o letteratura, e verosimilmente riflette la comorbilità autoimmune con il diabete di tipo 1 e non un beneficio terapeutico.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza).
 - Una valutazione del razionale biologico per l'ooforite autoimmune e ricerche mirate di letteratura e sperimentazioni.
-- Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide.
+- Chiarimento dello stato regolatorio in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

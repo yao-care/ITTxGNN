@@ -127,13 +127,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Il carcinoma mammario è supportato da un punteggio TxGNN molto alto, ma l'evidenza clinica diretta è debole: gli studi sono di fase 1-2, in combinazione e in parte terminati, mentre l'unico studio di fase 2 specifico non ha mostrato maggiore efficacia. In Italia l'unica autorizzazione è revocata e mancano i dati ufficiali di sicurezza.
+Il carcinoma mammario è supportato da un punteggio TxGNN molto alto, ma l'evidenza clinica diretta è debole: gli studi sono di fase 1-2, in combinazione e in parte terminati, mentre l'unico studio di fase 2 specifico non ha mostrato maggiore efficacia. Mancano i dati ufficiali di sicurezza.
 
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici mirati sul topotecan nel carcinoma mammario, in particolare nella forma triplo-negativa o guidata da MYC
-- Valutazione della disponibilità di una formulazione/via di somministrazione in Italia, dato lo stato di autorizzazione revocata
+- Valutazione della disponibilità di una formulazione/via di somministrazione in Italia
 - Piano di monitoraggio ematologico e polmonare per le popolazioni a rischio
 ## Avvertenza
 

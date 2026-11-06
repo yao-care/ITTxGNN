@@ -80,7 +80,7 @@ Attualmente non è disponibile alcuna letteratura correlata al blocco di branca.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:
 
 | Numero di autorizzazione | Prodotto | Titolare | Stato |
 |------|------|------|------|
@@ -107,13 +107,13 @@ Per le informazioni complete fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto. Inoltre, in Italia non esistono autorizzazioni valide.
+La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto.
 
 **Per procedere sarebbe necessario:**
 - Verificare se il termine obsoleto corrisponda a una malattia attuale e rivalutare la previsione su di essa
 - Acquisire i dati di meccanismo d'azione e il foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Valutare in alternativa le indicazioni con link più plausibile (ipertensione renovascolare maligna, ipertensione polmonare vasoreattiva) tramite ricerca bibliografica mirata
-- Chiarire lo stato regolatorio attuale del verapamil in Italia (autorizzazioni tutte cancellate)
+- Chiarire lo stato regolatorio attuale del verapamil in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

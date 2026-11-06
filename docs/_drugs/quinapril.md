@@ -94,7 +94,6 @@ Per l'indicazione principale (malattia renale ipertensiva maligna) non è dispon
 | 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione valida) |
 | 037203229 | QUINAPRIL 14 cpr rivestite 20 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
 
-
 ---
 
 ## Considerazioni sulla sicurezza
@@ -112,14 +111,14 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione ha un punteggio elevato (0,9986), ma l'evidenza è solo di livello L5: nessuno studio clinico né pubblicazione per l'indicazione principale. L'indicazione è inoltre molto vicina a quella originale, e tutte le autorizzazioni italiane risultano cancellate. Non è possibile procedere allo screening di sicurezza in assenza del foglio illustrativo.
+La previsione ha un punteggio elevato (0,9986), ma l'evidenza è solo di livello L5: nessuno studio clinico né pubblicazione per l'indicazione principale. L'indicazione è inoltre molto vicina a quella originale. Non è possibile procedere allo screening di sicurezza in assenza del foglio illustrativo.
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Ricerca di studi clinici e di letteratura specifica sulla nefropatia ipertensiva maligna e sull'ipertensione renovascolare maligna
 - Per l'ipertensione polmonare da ipossia: studi sull'uomo che confermino i dati preclinici (livello L4)
-- Verifica della disponibilità commerciale in Italia, dato che non esistono autorizzazioni valide
+- Verifica della disponibilità commerciale in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

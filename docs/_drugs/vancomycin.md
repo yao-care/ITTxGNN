@@ -81,8 +81,6 @@ Attualmente non risultano studi clinici correlati registrati.
 | 034984031 | MAXIVANIL*4 cps 250 mg (valida) | Capsule | Non disponibile |
 | 035003033 | LEVOVANOX*4 cps 250 mg (valida) | Capsule | Non disponibile |
 
-Entrambe le autorizzazioni, intestate a GENETIC SpA, risultano revocate: non vi sono prodotti attualmente validi in Italia con questo principio attivo nei dati compilati.
-
 ## Considerazioni di sicurezza
 
 - **Controindicazioni (da relazioni del grafo di conoscenza, non dal foglietto illustrativo)**: malattia renale, piouretere, neutropenia, agranulocitosi, disturbi dell'udito e malattie del sistema uditivo.

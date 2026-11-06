@@ -116,7 +116,7 @@ Nota: lo studio NCT04206761 (Fase 3, QVM149 con risonanza magnetica allo xeno) �
 | 039699071 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione valida) |
 | 043031032 | ULTIBRO BREEZHALER polvere inalatoria 30x1 cps 85 mcg + 43 mcg | Non indicata | Non disponibile (autorizzazione valida) |
 
-Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide. La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n. 043033036).
+La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n. 043033036).
 
 ---
 
@@ -138,7 +138,7 @@ Per la malattia bronchiale esistono numerosi studi di fase 2 e 3 completati e un
 **Per procedere è necessario:**
 - Reperire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
-- Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni, poiché in Italia risultano solo autorizzazioni cancellate.
+- Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni.
 - Valutare che le evidenze derivano in gran parte da combinazioni a dose fissa e non sono necessariamente generalizzabili alla monoterapia con indacaterolo in asma, dove la monoterapia con LABA comporta un problema di sicurezza noto.
 - Per le altre predizioni (rango 1-6 e 8-10, tutte L5 senza studi né letteratura), mantenere la decisione Hold: i collegamenti meccanicistici sono speculativi o poco plausibili.
 ## Avvertenza

@@ -95,13 +95,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5). Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore.
+La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5).
 
 **Per procedere sarebbe necessario:**
 - Un razionale biologico plausibile e dati preclinici per la sindrome da iperviscosità policlonale
 - Dati sul meccanismo d'azione (MOA) da fonti dedicate
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
-- Chiarimento dello stato regolatorio (autorizzazioni cancellate)
+- Chiarimento dello stato regolatorio
 - In alternativa, valutare la pista della peste bubbonica come questione di ricerca: l'evidenza è solo preclinica, ma si tratta di un uso già vicino alle indicazioni originali
 ## Avvertenza
 

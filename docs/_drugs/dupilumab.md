@@ -93,7 +93,7 @@ Il legame diretto con la bronchite come entità generale non è però stabilito.
 
 ## Informazioni sul mercato italiano
 
-Tutte le autorizzazioni del prodotto (DUPIXENT, titolare SANOFI WINTHROP INDUSTRIE) risultano cancellate. Il testo dell'indicazione approvata non è riportato nei dati disponibili. Forma e confezione sono ricavate dal nome del prodotto.
+Il testo dell'indicazione approvata non è riportato nei dati disponibili. Forma e confezione sono ricavate dal nome del prodotto.
 
 | Numero di autorizzazione | Prodotto | Forma / confezione | Stato |
 |---------|------|------|-----------|
@@ -119,14 +119,14 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Il punteggio TxGNN è molto alto e il meccanismo di infiammazione di tipo 2 è coerente con le malattie respiratorie. Le evidenze però riguardano asma e BPCO, mentre l'unico studio clinico elencato è su una patologia delle vie aeree superiori. Non ci sono prove dirette nella bronchite, e il livello di evidenza è L3. Tutte le autorizzazioni italiane risultano inoltre cancellate.
+Il punteggio TxGNN è molto alto e il meccanismo di infiammazione di tipo 2 è coerente con le malattie respiratorie. Le evidenze però riguardano asma e BPCO, mentre l'unico studio clinico elencato è su una patologia delle vie aeree superiori. Non ci sono prove dirette nella bronchite, e il livello di evidenza è L3.
 
 **Per procedere sono necessari:**
 - Definire con precisione il fenotipo di bronchite di interesse (cronica, eosinofila di tipo 2, plastica pediatrica) e valutare la sovrapposizione con le indicazioni respiratorie già studiate (BPCO di tipo 2, asma).
 - Studi clinici mirati sulla bronchite o sul fenotipo bronchitico della BPCO con infiammazione di tipo 2.
 - Scheda dettagliata del meccanismo d'azione.
 - Avvertenze e controindicazioni ufficiali dal foglio illustrativo AIFA.
-- Chiarimento dello stato regolatorio attuale in Italia, dato che le autorizzazioni risultano tutte cancellate.
+- Chiarimento dello stato regolatorio attuale in Italia.
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

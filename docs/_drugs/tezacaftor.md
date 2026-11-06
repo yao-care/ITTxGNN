@@ -80,7 +80,7 @@ Attualmente non risulta alcuna letteratura correlata.
 | 048984013 | KAFTRIO*56 cpr rivestite 100 mg + 50 mg + 75 mg | Compresse rivestite | – |
 | 048984049 | KAFTRIO*28 orale grat 75 mg + 50 mg + 100 mg | Granulato orale | – |
 
-Tutte le autorizzazioni sono attualmente cancellate. Titolare: Vertex Pharmaceuticals (Ireland) Ltd.
+Titolare: Vertex Pharmaceuticals (Ireland) Ltd.
 
 ## Considerazioni sulla sicurezza
 
@@ -93,7 +93,7 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo.
+La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato.
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e analisi di un possibile legame tra la correzione di CFTR e l'HIV

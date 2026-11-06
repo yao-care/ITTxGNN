@@ -118,14 +118,14 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Decisione: Hold**
 
 **Motivazione:**
-L'evidenza è di livello L5 (solo predizione del modello) per l'indicazione principale, senza studi clinici né letteratura. Inoltre l'indicazione prevista è molto vicina a quella originale e non rappresenta un reale riposizionamento. L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza ufficiali.
+L'evidenza è di livello L5 (solo predizione del modello) per l'indicazione principale, senza studi clinici né letteratura. Inoltre l'indicazione prevista è molto vicina a quella originale e non rappresenta un reale riposizionamento. Mancano i dati di sicurezza ufficiali.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Ricerca di studi clinici e letteratura specifici su ipertensione renovascolare maligna e malattia renale ipertensiva maligna
 - Valutazione del rischio renale in caso di stenosi bilaterale dell'arteria renale
-- Verifica della disponibilità commerciale in Italia, dato che l'unica autorizzazione risulta cancellata
+- Verifica della disponibilità commerciale in Italia
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

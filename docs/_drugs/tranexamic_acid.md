@@ -92,8 +92,6 @@ Al momento non risultano studi clinici correlati registrati.
 | 021458017 | UGUROL*20 cpr 250 mg (Viatris) | Non specificata | Non disponibile (valida) |
 | 022019020 | TRANEX*30 cps 500 mg (Malesci) | Non specificata | Non disponibile (valida) |
 
-Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5.
-
 ---
 
 ## Considerazioni di sicurezza
@@ -110,14 +108,14 @@ Per le avvertenze complete, fare riferimento al foglio illustrativo.
 **Decisione: Hold**
 
 **Motivazione:**
-Non esistono studi clinici registrati e la letteratura disponibile consiste in due revisioni narrative. Il legame meccanicistico con l'amenorrea è indiretto e il farmaco non ha attualmente autorizzazioni valide in Italia. Molte controindicazioni e interazioni (in particolare con gli ormoni) rendono inoltre delicata la valutazione del rischio trombotico.
+Non esistono studi clinici registrati e la letteratura disponibile consiste in due revisioni narrative. Il legame meccanicistico con l'amenorrea è indiretto. Molte controindicazioni e interazioni (in particolare con gli ormoni) rendono inoltre delicata la valutazione del rischio trombotico.
 
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici o evidenze osservazionali sulla soppressione mestruale con acido tranexamico
 - Chiarimento sull'effettiva indicazione perseguita (soppressione del sanguinamento vs. trattamento dell'amenorrea)
-- Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate
+- Valutazione dello stato regolatorio
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

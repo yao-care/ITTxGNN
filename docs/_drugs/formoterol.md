@@ -91,7 +91,7 @@ Nessuna di queste pubblicazioni dimostra un beneficio del formoterolo sulle malf
 
 ## Informazioni sul mercato italiano
 
-Tutte le 20 autorizzazioni risultano cancellate. Di seguito le 5 principali:
+Di seguito le 5 principali:
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|------|
@@ -117,7 +117,7 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglietto illu
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione "malformazione respiratoria" si basa solo sul modello (L5): non ci sono studi clinici, la letteratura recuperata non è pertinente e manca un razionale meccanicistico plausibile. Inoltre tutte le autorizzazioni italiane sono cancellate.
+La predizione "malformazione respiratoria" si basa solo sul modello (L5): non ci sono studi clinici, la letteratura recuperata non è pertinente e manca un razionale meccanicistico plausibile.
 
 Per completezza, altre predizioni del modello hanno un'evidenza molto più solida, ma corrispondono in sostanza a usi già in etichetta e non a un vero riposizionamento:
 - **Malattia polmonare ostruttiva** (L1, Proceed with Guardrails): ampi studi di fase 3 su combinazioni contenenti formoterolo nella BPCO.

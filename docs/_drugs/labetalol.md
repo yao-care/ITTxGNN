@@ -83,8 +83,6 @@ Per la previsione principale (ipertensione renovascolare maligna):
 | 023578014 | TRANDATE*30 cpr 100 mg | Non disponibile | Non disponibile (autorizzazione valida) |
 | 023578038 | TRANDATE*30 cpr 200 mg | Non disponibile | Non disponibile (autorizzazione valida) |
 
-Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate.
-
 ## Considerazioni sulla sicurezza
 
 I dati su avvertenze e controindicazioni dal foglietto illustrativo non sono disponibili; si rimanda al foglietto illustrativo.
