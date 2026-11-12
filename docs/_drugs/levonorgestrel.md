@@ -88,7 +88,13 @@ Attualmente non risultano studi clinici correlati registrati.
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 036489019 (revocata) | FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die | Cerotto transdermico | Testo dell'indicazione non disponibile |
+| 036489019 | FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die | Cerotto transdermico | Testo dell'indicazione non disponibile |
+
+<!-- review:begin it-row-20261112-levonorgestrel-1 -->
+
+> **Correzione di verifica (2026-11-12)**: Testo originale: «036489019 (revocata) / FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die / Cerotto transdermico / Testo dell'indicazione non disponibile» Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) la confezione 036489019 risulta Autorizzata; la tabella la indicava come revocata. È stata modificata solo l'indicazione dello stato nella tabella. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-row-20261112-levonorgestrel-1 -->
 
 ---
 
@@ -114,6 +120,18 @@ Esiste una sperimentazione randomizzata controllata con placebo sull'acne (livel
 - studi che separino l'effetto del levonorgestrel da quello dell'estrogeno associato nell'acne;
 - avvertenze e controindicazioni dal foglietto illustrativo AIFA, per lo screening di sicurezza;
 - una valutazione dell'effetto androgenico del levonorgestrel sull'acne rispetto ai progestinici antiandrogeni.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-12 | Tabella: la confezione 036489019 è autorizzata, non revocata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

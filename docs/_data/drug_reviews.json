@@ -5897,6 +5897,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
   },
   {
+   "id": "it-row-20261112-norfloxacin-1",
+   "drug": "norfloxacin",
+   "file": "norfloxacin.md",
+   "action": "correct",
+   "claim": "| 034401024 (EG SpA, revocata) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |\n| 034941043 (Sandoz SpA, revocata) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |\n| 025000023 (ABC Farmaceutici SpA, revocata) | NORFLOXACINA 14 capsule 400 mg | Capsule | — |",
+   "replacement": "| 034401024 (EG SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |\n| 034941043 (Sandoz SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |\n| 025000023 (ABC Farmaceutici SpA) | NORFLOXACINA 14 capsule 400 mg | Capsule | — |",
+   "summary": "Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate",
+   "note": "Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) le confezioni 034401024, 034941043, 025000023 risultano Autorizzate; la tabella le indicava come revocate. È stata modificata solo l'indicazione dello stato nella tabella.",
+   "finding": "表格把 AIFA 行政狀態 Autorizzata 的 3 張包裝（034401024, 034941043, 025000023）寫成 revocata（事實層 data-20261105-122623；證據包原始狀態 Autorizzata (Classe A) 一致）。只刪狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "it-lic-20261106-nortriptyline-1",
    "drug": "nortriptyline",
    "file": "nortriptyline.md",
@@ -10205,6 +10225,26 @@
    "checked": "2026-11-06",
    "summary": "Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata»",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+  },
+  {
+   "id": "it-row-20261112-levonorgestrel-1",
+   "drug": "levonorgestrel",
+   "file": "levonorgestrel.md",
+   "action": "correct",
+   "claim": "| 036489019 (revocata) | FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die | Cerotto transdermico | Testo dell'indicazione non disponibile |",
+   "replacement": "| 036489019 | FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die | Cerotto transdermico | Testo dell'indicazione non disponibile |",
+   "summary": "Tabella: la confezione 036489019 è autorizzata, non revocata",
+   "note": "Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) la confezione 036489019 risulta Autorizzata; la tabella la indicava come revocata. È stata modificata solo l'indicazione dello stato nella tabella.",
+   "finding": "表格把 AIFA 行政狀態 Autorizzata 的 1 張包裝（036489019）寫成 revocata（事實層 data-20261105-122623；證據包原始狀態 Autorizzata (Classe A) 一致）。只刪狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   }
  ]
 }

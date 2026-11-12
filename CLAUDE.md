@@ -33,3 +33,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-10-31～11-06 正文裡跟許可證事實矛盾、直接刪掉的子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 507 筆紀錄（264 頁；
 其中 1 筆因報告在 11 月經 AI 重產、原句已不在頁面，標 resolved_by_regeneration）。
 
+2026-11-12 表格列狀態對事實層（母目錄 `check_drug_page.py --row-status`）：levonorgestrel 036489019、norfloxacin 034401024／034941043／025000023 在表格寫「revocata」，AIFA 行政狀態（證據包原文）是 Autorizzata；以 `it-row-20261112-*`（每頁一筆）刪掉狀態註記。

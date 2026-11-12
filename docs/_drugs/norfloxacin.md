@@ -105,9 +105,15 @@ Per le previsioni di rango inferiore sono state individuate alcune pubblicazioni
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 034401024 (EG SpA, revocata) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
-| 034941043 (Sandoz SpA, revocata) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
-| 025000023 (ABC Farmaceutici SpA, revocata) | NORFLOXACINA 14 capsule 400 mg | Capsule | — |
+| 034401024 (EG SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
+| 034941043 (Sandoz SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
+| 025000023 (ABC Farmaceutici SpA) | NORFLOXACINA 14 capsule 400 mg | Capsule | — |
+
+<!-- review:begin it-row-20261112-norfloxacin-1 -->
+
+> **Correzione di verifica (2026-11-12)**: Testo originale: «034401024 (EG SpA, revocata) / NORFLOXACINA 14 compresse rivestite 400 mg / Compresse rivestite / —; 034941043 (Sandoz SpA, revocata) / NORFLOXACINA 14 compresse rivestite 400 mg / Compresse rivestite / —; 025000023 (ABC Farmaceutici SpA, revocata) / NORFLOXACINA 14 capsule 400 mg / Capsule / —» Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) le confezioni 034401024, 034941043, 025000023 risultano Autorizzate; la tabella le indicava come revocate. È stata modificata solo l'indicazione dello stato nella tabella. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-row-20261112-norfloxacin-1 -->
 
 ---
 
@@ -155,6 +161,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove ind» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-12 | Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 
