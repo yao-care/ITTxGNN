@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 391
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ROXADUSTAT"
 predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
 description: "Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (dry eye syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -68,6 +68,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Al momento non risulta letteratura correlata.
 
+<!-- review:begin it-lic-20261106-roxadustat-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul mercato italiano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-roxadustat-1 -->
+
 ## Informazioni sul mercato italiano
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
@@ -107,6 +113,19 @@ La predizione si basa solo sul punteggio TxGNN (livello L5), senza studi clinici
 - Ricerca sistematica di letteratura e studi registrati sull'occhio secco
 - Valutazione della compatibilità della via di somministrazione (probabile necessità di una formulazione oftalmica topica, oggi inesistente) e della similarità con l'indicazione originale
 - Valutazione del rischio teorico legato all'attivazione di HIF
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

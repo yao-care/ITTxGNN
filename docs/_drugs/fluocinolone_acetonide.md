@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
 description: "Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus pemphigoides (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -87,12 +87,31 @@ Attualmente non risulta letteratura correlata disponibile.
 **Motivazione:**
 La predizione si basa solo sul modello TxGNN e su un razionale di classe, senza studi clinici né letteratura nei dati compilati.
 
+<!-- review:begin it-lic-20261106-fluocinolone_acetonide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello TxGNN e su un razionale di classe, senza studi clinici né letteratura nei dati compilati. In più, l'unica autorizzazione italiana è cancellata, il che limita la disponibilità pratica a breve termine.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fluocinolone_acetonide-1 -->
+
 **Per procedere sono necessari:**
 - Una ricerca mirata di letteratura e studi clinici sui corticosteroidi topici nel lichen planus ipertrofico
 - I dati sul meccanismo d'azione da DrugBank
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - La verifica della disponibilità di prodotti topici a base di fluocinolone acetonide attualmente in commercio in Italia e della compatibilità di via di somministrazione
 - Una valutazione del rischio di atrofia cutanea, in particolare per la variante atrofica anulare
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In più, l'unica autorizzazione italiana è cancellata, il che limita la disponibilità pratica a breve termine» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

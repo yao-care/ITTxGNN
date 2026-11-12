@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Tetracycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati lo…"
@@ -109,12 +109,31 @@ Non sono disponibili avvertenze o controindicazioni tratte dal foglio illustrati
 **Motivazione:**
 Per la cheratocongiuntivite epiteliale puntata non esistono studi clinici e l'unica pubblicazione è un case report indiretto. Il punteggio TxGNN elevato non basta a giustificare un avanzamento.
 
+<!-- review:begin it-lic-20261106-tetracycline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per la cheratocongiuntivite epiteliale puntata non esistono studi clinici e l'unica pubblicazione è un case report indiretto. Inoltre la tetraciclina ha in Italia solo un'autorizzazione revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tetracycline-1 -->
+
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Studi clinici o evidenze dirette sull'uso della tetraciclina (o di un comparatore di classe come la doxiciclina) nelle patologie della superficie oculare
 - Valutazione della compatibilità della via di somministrazione (ad es. formulazione oftalmica) e della disponibilità di prodotti sul mercato italiano
 - In alternativa, valutare la rinosinusite cronica come domanda di ricerca a livello di classe, con la doxiciclina come comparatore pratico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre la tetraciclina ha in Italia solo un'autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

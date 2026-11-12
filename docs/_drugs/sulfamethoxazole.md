@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -94,12 +94,31 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Motivazione:**
 La congiuntivite è già tra le indicazioni originali, quindi la previsione non rappresenta un vero riposizionamento. Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva), il che limita la rilevanza pratica.
 
+<!-- review:begin it-lic-20261106-sulfamethoxazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva) e tutte le autorizzazioni italiane sono cancellate, il che limita la rilevanza pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sulfamethoxazole-1 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione (da DrugBank)
 - Chiarimento se la congiuntivite contagiosa acuta si distingue effettivamente dall'indicazione già nota
 - Dati di efficacia specifici per la congiuntivite, con valutazione del contributo del trimetoprim nell'associazione
 - Verifica della fattibilità della via di somministrazione (es. formulazione oftalmica), attualmente non valutata
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

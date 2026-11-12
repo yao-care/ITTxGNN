@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ELETRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
 description: "Eletriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -89,6 +89,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Il testo dell'indicazione approvata non è presente nei dati compilati. Sono elencate le prime 5:
 
+<!-- review:begin it-lic-20261106-eletriptan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 15 autorizzazioni risultano cancellate; non ve n'è alcuna attualmente valida. Il testo dell'indicazione approvata non è presente nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-eletriptan-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 035307103 | RELPAX 3 cpr rivestite 20 mg | VIATRIS PHARMA Srl | Valida |
@@ -114,12 +120,39 @@ Per le avvertenze e le controindicazioni riportate in scheda tecnica, consultare
 **Motivazione:**
 La predizione si basa su un'elevata somiglianza biologica con l'emicrania già trattata, ma non esistono studi clinici né letteratura specifici per l'emicrania con aura del tronco encefalico. Inoltre, il sottotipo comporta preoccupazioni teoriche di vasocostrizione. Il livello di evidenza è L4 (L5 per le altre indicazioni predette: atrofoderma vermicolare, uleritema ofriogenico e neuropatia sciatica, tutte senza evidenze né un meccanismo plausibile).
 
+<!-- review:begin it-lic-20261106-eletriptan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre, il sottotipo comporta preoccupazioni teoriche di vasocostrizione, e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-eletriptan-2 -->
+
 **Per procedere sono necessari:**
 - Testo completo del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi o serie di casi specifici sull'uso dei triptani nell'emicrania con aura del tronco encefalico
 - Valutazione del rischio cardiovascolare e cerebrovascolare per questo sottotipo
 - Chiarimento dello stato regolatorio in Italia
+
+<!-- review:begin it-lic-20261106-eletriptan-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che non vi sono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-eletriptan-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; non ve n'è alcuna attualmente valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

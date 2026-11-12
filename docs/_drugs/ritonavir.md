@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 384
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ritonavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Ritonavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L4). Indicazione originale: Non riportata …"
@@ -112,11 +112,30 @@ I dati compilati includono tuttavia i seguenti elementi complementari:
 **Motivazione:**
 L'evidenza è solo preclinica (L4): studi in vitro e su macachi, senza alcuno studio clinico. Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento.
 
+<!-- review:begin it-lic-20261106-ritonavir-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento. Inoltre, in Italia la sola autorizzazione risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ritonavir-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del ritonavir
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Una valutazione di indicazioni umane con un'effettiva lacuna terapeutica, al posto di modelli animali o veterinari
 - Verifica dello stato autorizzativo e della disponibilità commerciale del farmaco in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia la sola autorizzazione risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

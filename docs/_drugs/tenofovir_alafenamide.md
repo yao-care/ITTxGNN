@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 426
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TENOFOVIR ALAFENAMIDE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Tenofovir Alafenamide: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L4). Indicazione originale: No…"
@@ -112,6 +112,12 @@ Per le restanti informazioni di sicurezza (avvertenze e controindicazioni), si r
 **Motivazione:**
 L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno studio clinico, e il SIV non è una malattia umana. Il valore principale è come supporto traslazionale all'indicazione HIV già esistente, non come nuova opportunità terapeutica.
 
+<!-- review:begin it-lic-20261106-tenofovir_alafenamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il valore principale è come supporto traslazionale all'indicazione HIV già esistente, non come nuova opportunità terapeutica. Inoltre, l'unica autorizzazione italiana risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tenofovir_alafenamide-1 -->
+
 **Per procedere sarebbe necessario:**
 - Recuperare le avvertenze e le controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza)
 - Ottenere i dati sul meccanismo d'azione dal database farmacologico
@@ -121,6 +127,19 @@ L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno s
 ---
 
 *Nota sulle altre predizioni:* l'AIDS felina (punteggio 0,9989) e un raro disturbo del neurosviluppo con atassia, assenza di linguaggio e riduzione della sostanza bianca corticale (punteggio 0,9987) non hanno studi né pubblicazioni di supporto. La prima è una condizione veterinaria; per la seconda non emerge alcuna base meccanicistica.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -72,6 +72,12 @@ Le cause radice più probabili sono: (1) lo spelling dell'INN "DULOXETINA" che n
 
 > **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo "duloxetina".
 
+<!-- review:begin it-lic-20261106-duloxetina-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-duloxetina-1 -->
+
 ---
 
 ## Considerazioni sulla Sicurezza
@@ -94,6 +100,25 @@ Il Dossier di Prove non contiene alcuna indicazione prevista da TxGNN, alcun rec
 - **Ri-eseguire TxGNN:** Con un ID DrugBank valido, ri-eseguire il passo di previsione del grafo della conoscenza per generare indicazioni previste classificate.
 - **Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.
 - **Riconsegnare un Dossier di Prove completo:** Una volta colmate le lacune di cui sopra, rigenerare il Dossier di Prove e riconsegnare per una valutazione completa.
+
+<!-- review:begin it-lic-20261106-duloxetina-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA/TFDA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-duloxetina-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «A/TFD» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

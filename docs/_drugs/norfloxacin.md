@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -134,11 +134,30 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Motivazione:**
 La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile.
 
+<!-- review:begin it-lic-20261106-norfloxacin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile. Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove indicazioni non infettive.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-norfloxacin-1 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e una giustificazione biologica per l'indicazione prevista
 - Il foglio illustrativo AIFA (avvertenze e controindicazioni), oggi mancante e bloccante per lo screening di sicurezza
 - Se si vuole esplorare un'ipotesi, valutare le previsioni di tipo infettivo (es. peste) con fluorochinoloni meglio caratterizzati, dato che la norfloxacina è poco adatta alle infezioni sistemiche
 - Verificare nei testi completi il ruolo eventuale della norfloxacina nella cheratocongiuntivite epiteliale puntata
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove ind» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

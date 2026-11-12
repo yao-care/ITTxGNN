@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "NABUMETONE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis"]
 description: "Nabumetone: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata n…"
@@ -84,6 +84,12 @@ Attualmente non risulta alcuna sperimentazione clinica correlata registrata.
 
 Attualmente non è disponibile alcuna letteratura correlata.
 
+<!-- review:begin it-lic-20261106-nabumetone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: oggi non esiste in Italia un prodotto a base di nabumetone con autorizzazione valida, il che limita lo sviluppo pratico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nabumetone-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
@@ -107,11 +113,38 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 La previsione per la displasia acromesomelica di tipo Hunter-Thompson non ha alcun supporto clinico o bibliografico e nessun legame meccanicistico con l'azione del nabumetone, che potrebbe offrire al massimo sollievo sintomatico.
 
+<!-- review:begin it-lic-20261106-nabumetone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la displasia acromesomelica di tipo Hunter-Thompson non ha alcun supporto clinico o bibliografico e nessun legame meccanicistico con l'azione del nabumetone, che potrebbe offrire al massimo sollievo sintomatico. Inoltre, il farmaco non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nabumetone-2 -->
+
 **Per procedere sarebbe necessario:**
 - Recuperare i dati sul meccanismo d'azione (MOA) del nabumetone.
 - Acquisire avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza.
 - Valutare, con una ricerca bibliografica mirata, indicazioni più plausibili come la spondiloartropatia.
 - Verificare la fattibilità regolatoria.
+
+<!-- review:begin it-lic-20261106-nabumetone-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nabumetone-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: oggi non esiste in Italia un prodotto a base di nabumetone con autorizzazione valida, il ch» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

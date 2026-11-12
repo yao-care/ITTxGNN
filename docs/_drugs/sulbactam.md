@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sulbactam"
 predicted_indications: ["bacterial arthritis"]
 description: "Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -99,12 +99,38 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 L'evidenza si limita a predizione del modello e a studi clinici datati e di piccole dimensioni (anni '80) senza studi registrati. L'indicazione è di fatto un'estensione dello spettro antibatterico già noto.
 
+<!-- review:begin it-lic-20261106-sulbactam-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre le due autorizzazioni italiane sono tutte revocate e l'indicazione è di fatto un'estensione dello spettro antibatterico già noto.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sulbactam-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Valutare la fattibilità regolatoria
 - Una revisione sistematica o studi clinici recenti sull'artrite batterica, con confronto rispetto alle terapie standard attuali
 - Verificare la compatibilità delle vie di somministrazione con il nuovo uso
+
+<!-- review:begin it-lic-20261106-sulbactam-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sulbactam-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre le due autorizzazioni italiane sono tutte revocate e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

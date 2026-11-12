@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Vancomycin: nuova indicazione prevista, Sclerodermia diffusa (livello di evidenza L5). Indicazione originale: Colite da Clostridium difficile, infezioni stafilococciche…"
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -68,6 +68,12 @@ L'unica pubblicazione recuperata riguarda un caso di eritrodermia con sepsi ed e
 
 Attualmente non risultano studi clinici correlati registrati.
 
+<!-- review:begin it-lic-20261106-vancomycin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni, intestate a GENETIC SpA, risultano revocate: non vi sono prodotti attualmente validi in Italia con questo principio attivo nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-vancomycin-1 -->
+
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
@@ -102,6 +108,19 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 - I dati del foglietto illustrativo AIFA su avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - I dati sul meccanismo d'azione da DrugBank.
 - Se si volesse approfondire la polmonite streptococcica, un confronto con le alternative standard e la verifica del reale valore aggiunto rispetto all'indicazione stafilococcica già esistente.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni, intestate a GENETIC SpA, risultano revocate: non vi sono prodotti attualmente validi in Italia con questo princi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -94,6 +94,12 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico.
 
+<!-- review:begin it-lic-20261106-granisetron-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-granisetron-1 -->
+
 **Per procedere sono necessari:**
 - Una revisione sistematica della letteratura e la ricerca di studi clinici su granisetron e disturbo bipolare maniacale
 - Dati sul meccanismo d'azione (MOA) da DrugBank
@@ -101,6 +107,26 @@ L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livell
 - Valutazione della similarità con l'indicazione originale e della compatibilità della via di somministrazione
 - Una valutazione del rischio cardiaco (QT) e delle interazioni per la popolazione bipolare, spesso in terapia con farmaci interagenti
 - Verifica della disponibilità commerciale del prodotto in Italia
+
+<!-- review:begin it-lic-20261106-granisetron-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale del prodotto in Italia, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-granisetron-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

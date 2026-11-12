@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "tiaprofenic acid"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
 description: "Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -98,6 +98,12 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo; i dati compi
 
 Si segnala inoltre che, secondo le valutazioni di contesto, presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite). Qualsiasi ulteriore sviluppo dovrebbe affrontare prima la sicurezza e un confronto con i FANS attualmente in commercio.
 
+<!-- review:begin it-lic-20261106-tiaprofenic_acid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Si segnala inoltre che, secondo le valutazioni di contesto, il farmaco non è più in commercio e presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite).» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tiaprofenic_acid-1 -->
+
 ---
 
 ## Conclusione e prossimi passi
@@ -112,6 +118,19 @@ La previsione per la sindrome brachidattilia-sindattilia si basa solo sul modell
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Se si intende proseguire, concentrarsi sulla **suscettibilità alla spondiloartropatia**, valutando il profilo di sicurezza (inclusa la cistite) e il confronto con i FANS attualmente commercializzati
 - Verificare la compatibilità delle vie di somministrazione con l'indicazione prevista
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «il farmaco non è più in commercio e» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

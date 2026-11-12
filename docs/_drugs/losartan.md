@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 278
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LOSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -95,6 +95,12 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Sono elencate 5 delle 20 autorizzazioni.
 
+<!-- review:begin it-lic-20261106-losartan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-losartan-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -113,11 +119,38 @@ Le avvertenze del foglietto illustrativo AIFA non sono disponibili: si rimanda a
 **Motivazione:**
 La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un caso clinico e a un lavoro preclinico, senza alcuno studio clinico.
 
+<!-- review:begin it-lic-20261106-losartan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un caso clinico e a un lavoro preclinico, senza alcuno studio clinico. In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-losartan-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti come DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Studi clinici, o almeno serie di casi/studi osservazionali, nell'ipertensione renovascolare, con attenzione alla funzione renale
 - Verifica dello stato regolatorio in Italia
+
+<!-- review:begin it-lic-20261106-losartan-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-losartan-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «tutte risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

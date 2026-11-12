@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "oteracil"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 description: "Oteracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -97,6 +97,12 @@ Le prove a supporto riguardano quindi **il regime S-1**, non oteracil in monoter
 
 La letteratura è composta quasi esclusivamente da casi clinici e da uno studio retrospettivo; non sono presenti RCT né revisioni sistematiche. Le pubblicazioni riguardano soprattutto la tollerabilità.
 
+<!-- review:begin it-lic-20261106-oteracil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oteracil-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -137,6 +143,12 @@ Per avvertenze, controindicazioni e interazioni farmacologiche, fare riferimento
 **Motivazione:**
 Esiste un ampio studio di fase 3 completato (NCT00660894, n=1535) e un secondo studio di fase 3 di grandi dimensioni (NCT03448549, stato sconosciuto) sul regime S-1 nel carcinoma del colon/colorettale. Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità.
 
+<!-- review:begin it-lic-20261106-oteracil-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità. Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oteracil-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Dati sul meccanismo d'azione da DrugBank
@@ -144,6 +156,20 @@ Esiste un ampio studio di fase 3 completato (NCT00660894, n=1535) e un secondo s
 - Chiarimento delle ragioni della cancellazione delle autorizzazioni e dello status regolatorio del regime S-1 in Italia
 - Piano di monitoraggio della sicurezza (tossicità ematologica, cutanea e cardiaca)
 - Valutare il candidato come regime S-1 e non come oteracil in monoterapia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo scree» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

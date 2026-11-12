@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 468
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -116,12 +116,38 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 Per la carenza di cofattore eparinico II esistono solo case report, senza studi clinici. L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo.
 
+<!-- review:begin it-lic-20261106-warfarin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo. Inoltre l'unica autorizzazione italiana è revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-warfarin-1 -->
+
 **Per procedere è necessario:**
 - Recuperare dal sito AIFA il foglio illustrativo con avvertenze e controindicazioni
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Raccogliere evidenze più solide (coorti o studi controllati) sul warfarin nella carenza di cofattore eparinico II
 - Verificare la disponibilità commerciale del farmaco in Italia
 - Definire un piano di monitoraggio dell'INR e del rischio emorragico, considerando le numerose interazioni farmacologiche
+
+<!-- review:begin it-lic-20261106-warfarin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità commerciale del farmaco in Italia, dato che l'autorizzazione è revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-warfarin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'autorizzazione è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

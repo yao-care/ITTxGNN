@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lonoctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia"
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
@@ -85,6 +85,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non sono disponibili pubblicazioni correlate.
 
+<!-- review:begin it-lic-20261106-lonoctocog_alfa-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicazione approvata né la forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lonoctocog_alfa-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -112,12 +118,39 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Motivazione:**
 La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste.
 
+<!-- review:begin it-lic-20261106-lonoctocog_alfa-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste. Inoltre il farmaco non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lonoctocog_alfa-2 -->
+
 **Per procedere è necessario:**
 - Acquisire dati sul meccanismo d'azione originale (DrugBank)
 - Ottenere e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), necessario per qualsiasi valutazione di sicurezza
 - Condurre una ricerca sistematica di letteratura e registri di studi (ad es. casi clinici nella pseudo-malattia di von Willebrand con deficit secondario di FVIII)
 - Verificare la disponibilità commerciale del prodotto o di alternative
 - Valutare studi preclinici o meccanicistici che giustifichino un passaggio a un livello di evidenza superiore
+
+<!-- review:begin it-lic-20261106-lonoctocog_alfa-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità commerciale del prodotto o di alternative, dato lo stato di autorizzazioni cessate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lonoctocog_alfa-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicaz» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cessate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

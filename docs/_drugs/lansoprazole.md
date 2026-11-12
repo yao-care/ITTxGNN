@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -85,6 +85,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (prime 5):
 
+<!-- review:begin it-lic-20261106-lansoprazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lansoprazole-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 036757159 | Lansoprazolo 28 cps gastroresistenti 30 mg | Mylan SpA | Valida |
@@ -111,11 +117,38 @@ Le avvertenze e le controindicazioni dal foglio illustrativo AIFA non sono dispo
 **Motivazione:**
 Per l'ostruzione duodenale non c'è alcun razionale meccanicistico.
 
+<!-- review:begin it-lic-20261106-lansoprazole-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo. Per l'ostruzione duodenale non c'è alcun razionale meccanicistico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lansoprazole-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici o revisioni sistematiche specifiche sull'uso degli inibitori della pompa protonica nel reflusso duodeno-gastrico
 - Verifica dello stato regolatorio attuale in Italia e delle formulazioni disponibili
+
+<!-- review:begin it-lic-20261106-lansoprazole-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (le 20 autorizzazioni risultano cancellate) e delle formulazioni disponibili» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lansoprazole-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(le 20 autorizzazioni risultano cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

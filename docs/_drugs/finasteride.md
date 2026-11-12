@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
@@ -94,6 +94,12 @@ Si tratta di articoli narrativi di contesto: nessuno fornisce evidenza diretta d
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Principali autorizzazioni (compresse rivestite da 5 mg):
 
+<!-- review:begin it-lic-20261106-finasteride-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-finasteride-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 028308017 | Proscar, 15 cpr rivestite 5 mg | Organon Italia Srl | Valida |
@@ -126,6 +132,26 @@ Le predizioni hanno punteggi TxGNN molto alti, ma derivano dal modello TxGNN (de
 - Evidenza preclinica o clinica diretta sull'efficacia di finasteride nell'ipertricosi, o nella sottopopolazione con componente androgeno-dipendente (irsutismo)
 - Valutazione del livello di gravità delle interazioni farmacologiche
 - Verifica della situazione regolatoria in Italia
+
+<!-- review:begin it-lic-20261106-finasteride-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della situazione regolatoria in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-finasteride-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 465
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -112,6 +112,12 @@ Il sarcoma di Ewing è un tumore osseo maligno altamente proliferativo, con alti
 
 Per i dettagli, consultare le avvertenze e precauzioni del foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-vinorelbine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilati non risultano autorizzazioni attualmente valide né testi di indicazione approvata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-vinorelbine-1 -->
+
 ---
 
 ## Considerazioni di sicurezza
@@ -137,6 +143,26 @@ Esistono studi di fase 2 (anche pediatrici) sull'associazione vinorelbina + cicl
 - Dati di efficacia specifici per il sarcoma di Ewing (analisi per sottogruppo degli studi esistenti e risultati di INTER-EWING-1)
 - Dati sul meccanismo d'azione e testo ufficiale di avvertenze e controindicazioni (foglio illustrativo AIFA)
 - Piano di monitoraggio della sicurezza in popolazioni pediatriche e giovani adulti, con attenzione alla mielosoppressione e alle interazioni con inibitori del CYP3A4 (ad es. claritromicina)
+
+<!-- review:begin it-lic-20261106-vinorelbine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Dati sul meccanismo d'azione e testo ufficiale di avvertenze e controindicazioni (foglio illustrativo AIFA) / Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva del prodotto» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-vinorelbine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilat» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

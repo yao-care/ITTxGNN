@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 185
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Everolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Carcinoma a cellule renali (altre indicazioni nella base di conoscenz…"
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
@@ -140,11 +140,30 @@ Per il liposarcoma esiste un solo studio di fase 2 a braccio singolo in combinaz
 - Studi comparativi o randomizzati nel liposarcoma
 - Chiarimento sullo stato regolatorio in Italia
 
+<!-- review:begin it-lic-20261106-everolimus-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sullo stato regolatorio in Italia (autorizzazioni attualmente tutte revocate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-everolimus-1 -->
+
 ---
 
 ### Nota su altre indicazioni previste
 
 Tra le predizioni di rango inferiore, il **carcinoma a cellule renali non classificato** ha un'evidenza più solida (L2, decisione "Proceed with Guardrails"): sono disponibili più studi prospettici di fase 2, tra cui gli studi randomizzati ASPEN ed ESPN (everolimus contro sunitinib), e studi in combinazione con bevacizumab e lenvatinib. Poiché everolimus è già consolidato nel carcinoma renale, questa indicazione appare più vicina a un'estensione all'interno di una stessa area terapeutica che a un vero riposizionamento. Il **rabdomiosarcoma** ha evidenza L3, con studi di fase 1 e fase 1/2 pediatrici su tumori solidi misti. Le altre indicazioni previste (sottotipi rari di liposarcoma e rabdomiosarcoma, dermatofibrosarcoma protuberans, carcinoma renale con traslocazioni TFE3) si basano solo sulla predizione del modello o su evidenza indiretta, e sono classificate come Hold.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «(autorizzazioni attualmente tutte revocate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -117,11 +117,30 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo.
 
+<!-- review:begin it-lic-20261106-posaconazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-posaconazole-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione verificati da fonti curate (es. DrugBank)
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, necessarie per lo screening di sicurezza
 - Studi preclinici o clinici che valutino direttamente il posaconazolo nella pneumocistosi
 - Chiarimento dello stato regolatorio attuale del prodotto in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

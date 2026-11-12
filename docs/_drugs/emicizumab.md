@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 description: "Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -134,12 +134,38 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Motivazione:**
 La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab.
 
+<!-- review:begin it-lic-20261106-emicizumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-emicizumab-1 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e analisi meccanicistica specifica per la pseudo-malattia di von Willebrand
 - Dati preclinici o case report che supportino un effetto emostatico in questa condizione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Verifica dello stato regolatorio attuale in Italia
 - Come alternativa più promettente, valutare l'**emofilia A acquisita** (L2) come domanda di ricerca prioritaria, verificandone lo stato regolatorio
+
+<!-- review:begin it-lic-20261106-emicizumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-emicizumab-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

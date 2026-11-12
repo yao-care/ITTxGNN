@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 description: "Selegiline: nuova indicazione prevista, Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -136,6 +136,25 @@ Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni non è 
 - Dati sul meccanismo d'azione da DrugBank
 - Piano di monitoraggio della sicurezza per le interazioni da inibizione delle MAO e per l'uso con antipsicotici, tenendo conto della controindicazione segnalata nel grafo per i disturbi psicotici
 - Chiarimento dello stato regolatorio
+
+<!-- review:begin it-lic-20261106-selegiline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio, dato che tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-selegiline-1 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

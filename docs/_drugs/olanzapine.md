@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dat…"
@@ -97,6 +97,12 @@ A titolo di confronto, la letteratura per la seconda indicazione predetta (agora
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
+<!-- review:begin it-lic-20261106-olanzapine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-olanzapine-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 040771115 | Olanzapina 28 cpr orodispersibili 5 mg | EG SpA | Valida |
@@ -123,12 +129,32 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglietto illustr
 **Motivazione:**
 Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli.
 
+<!-- review:begin it-lic-20261106-olanzapine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistico benigno dell'infanzia non esistono studi clinici né letteratura, non c'è una base meccanicistica chiara, e gli antipsicotici possono provocare distonia/torcicollo; i rischi di sedazione ed effetti metabolici nei lattanti sono ulteriori elementi sfavorevoli. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-olanzapine-2 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Una giustificazione biologica per il legame tra olanzapina e torcicollo parossistico (ad es. via CACNA1A/emicrania)
 - Valutazione di sicurezza pediatrica
 - In alternativa, riorientare la valutazione verso l'**agorafobia/disturbo di panico resistente**, che ha evidenze più solide (livello L3, domanda di ricerca) e richiederebbe studi randomizzati controllati.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

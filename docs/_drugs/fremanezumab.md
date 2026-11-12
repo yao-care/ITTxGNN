@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FREMANEZUMAB"
 predicted_indications: ["atrophoderma vermiculata"]
 description: "Fremanezumab: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -121,15 +121,41 @@ Segnali di sicurezza dalla letteratura, da valutare con cautela:
 - La predizione si basa su un meccanismo plausibile (via del CGRP) ma non è supportata da alcuno studio clinico nel sottotipo specifico. La letteratura è costituita da evidenze osservazionali e da un lavoro meccanicistico che solleva dubbi sull'effetto sull'aura. Il livello di evidenza è L4.
 - Mancano i dati di sicurezza dal foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-fremanezumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni italiane risultano cancellate, e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fremanezumab-1 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati dettagliati sul meccanismo d'azione
 - Verifica dello stato regolatorio effettivo in Italia
 - Dati di efficacia e sicurezza specifici per l'emicrania con aura del tronco encefalico, idealmente da studi prospettici controllati
 
+<!-- review:begin it-lic-20261106-fremanezumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio effettivo in Italia, dato che le due autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fremanezumab-2 -->
+
 ---
 
 **Nota sulla seconda predizione:** per «atrofodermia vermicolata» (punteggio TxGNN 0,9904) non esistono studi clinici né letteratura, e non è documentato alcun meccanismo plausibile mediato dal CGRP.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane risultano cancellate, e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

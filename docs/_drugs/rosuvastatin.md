@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,6 +108,12 @@ Per l'ipercolesterolemia familiare sono riportati 12 studi; di seguito i 10 più
 
 Il testo dell'indicazione approvata non è disponibile. Di seguito le principali 5.
 
+<!-- review:begin it-lic-20261106-rosuvastatin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rosuvastatin-1 -->
+
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 035885058 | CRESTOR 28 cpr rivestite 10 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile |
@@ -135,11 +141,31 @@ Per le avvertenze ufficiali fare riferimento al foglio illustrativo.
 **Motivazione:**
 Numerosi studi di fase 3 completati, anche pediatrici, supportano efficacia e sicurezza della rosuvastatina nell'ipercolesterolemia familiare. L'indicazione è però già affine a quella originale.
 
+<!-- review:begin it-lic-20261106-rosuvastatin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione è però già affine a quella originale, e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rosuvastatin-2 -->
+
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio effettivo in Italia (autorizzazioni cancellate) e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni
 - Dati dettagliati sul meccanismo d'azione dal database dedicato
 - Piano di monitoraggio della sicurezza: miopatia, enzimi epatici, funzione renale, con aggiustamento della dose nelle popolazioni a rischio
 - Definizione del dosaggio e del follow-up a lungo termine in ambito pediatrico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Trifluoperazine: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (livello di evidenza L5). Indicazione originale: Schizofrenia, ansia (da indicazioni della base di conoscenza TxGNN"
 monitor_inn: "Trifluoperazine"
 predicted_indications: ["manic bipolar affective disorder"]
@@ -94,6 +94,12 @@ Sono stati recuperati diversi lavori, ma nessuno testa direttamente la trifluope
 
 Sono presenti inoltre alcuni lavori storici degli anni '60 (ad es. [14084030](https://pubmed.ncbi.nlm.nih.gov/14084030/), studio in doppio cieco sull'associazione tranilcipromina-trifluoperazina), privi di abstract e di classificazione, per cui non è possibile trarne conclusioni sulla mania.
 
+<!-- review:begin it-lic-20261106-trifluoperazine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono prodotti a base di trifluoperazina in commercio in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-trifluoperazine-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -121,12 +127,39 @@ Il foglio illustrativo AIFA con avvertenze e controindicazioni non è disponibil
 **Motivazione:**
 La previsione è biologicamente plausibile (antagonismo D2, classe antipsicotica), ma non esistono studi clinici né letteratura che testino la trifluoperazina nella mania.
 
+<!-- review:begin it-lic-20261106-trifluoperazine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è biologicamente plausibile (antagonismo D2, classe antipsicotica), ma non esistono studi clinici né letteratura che testino la trifluoperazina nella mania. Inoltre, in Italia il farmaco non è più autorizzato e il profilo di sicurezza non è stato verificato sul foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-trifluoperazine-2 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente una lacuna bloccante per lo screening di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Eseguire una ricerca mirata di studi clinici e letteratura sulla trifluoperazina nella mania (inclusi confronti con altri antipsicotici)
 - Valutare la fattibilità regolatoria
 - Definire un piano di monitoraggio della sicurezza per le popolazioni a rischio indicate dalle controindicazioni
+
+<!-- review:begin it-lic-20261106-trifluoperazine-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-trifluoperazine-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono prodotti a base di trifluoperazina in commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia il farmaco non è più autorizzato e il profilo di sicurezza non è stato verificato sul foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
 ---
 
@@ -99,11 +99,30 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglietto
 **Motivazione:**
 Tre RCT di confronto con il cefaclor nelle infezioni urinarie acute non complicate indicano un'efficacia clinica comparabile e una buona sicurezza. Le evidenze sono però datate, non esistono studi registrati.
 
+<!-- review:begin it-lic-20261106-cefprozil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le evidenze sono però datate, non esistono studi registrati e tutte le autorizzazioni locali risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-cefprozil-1 -->
+
 **Per procedere sono necessari:**
 - Verifica dello stato effettivo delle autorizzazioni e della disponibilità del prodotto in Italia
 - Scheda tecnica AIFA con avvertenze e controindicazioni
 - Dati sul meccanismo d'azione dalla fonte DrugBank
 - Aggiornamento con dati di resistenza locali dei patogeni urinari e confronto con le linee guida attuali
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni locali risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

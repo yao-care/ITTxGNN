@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -103,12 +103,38 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Motivazione:**
 Il punteggio TxGNN è alto (0,9926), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.
 
+<!-- review:begin it-lic-20261106-nicardipine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il punteggio TxGNN è alto (0,9926), ma si tratta di una previsione puramente computazionale: non ci sono studi clinici, la letteratura è indiretta o preclinica, l'unica autorizzazione italiana è cancellata e la classe dei calcio-antagonisti presenta un rischio noto in questa condizione.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nicardipine-1 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Valutare l'intera letteratura (solo 10 dei 20 lavori sono visibili) alla ricerca di studi clinici sulla nicardipina nell'ipertensione polmonare
 - Analizzare il rischio di squilibrio ventilazione-perfusione e la compatibilità delle vie di somministrazione
 - Verificare la disponibilità commerciale del prodotto in Italia
+
+<!-- review:begin it-lic-20261106-nicardipine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità commerciale del prodotto in Italia, dato che l'unica autorizzazione è cancellata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nicardipine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «l'unica autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

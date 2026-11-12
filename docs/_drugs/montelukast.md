@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 309
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -120,6 +120,12 @@ Sono riportati i 10 studi più rilevanti (su 16 registrati per questa indicazion
 - **Controindicazioni dal grafo di conoscenza** (non da testo di scheda tecnica): disturbo d'ansia, disturbo nevrotico, disturbo distimico, ansia, sindrome ipereosinofila e vasculite cutanea.
 - **Eventi neuropsichiatrici**: revisioni sistematiche e studi di coorte (anche pediatrici, 2025) segnalano un rischio di eventi neuropsichiatrici; la FDA ha introdotto un'avvertenza in riquadro nel 2020. Sono necessari counseling e monitoraggio, in particolare nei bambini.
 
+<!-- review:begin it-lic-20261106-montelukast-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate 5 delle 20 autorizzazioni, tutte con stato "revocata".» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-montelukast-1 -->
+
 Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 
 ---
@@ -140,6 +146,19 @@ Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 - Predisporre un piano di monitoraggio della sicurezza neuropsichiatrica, soprattutto nei bambini.
 
 **Nota sulle altre predizioni:** la dermatite atopica (L1, evidenze contrastanti secondo la revisione Cochrane) richiede ulteriori approfondimenti. Asma e malattia ostruttiva polmonare ricadono in gran parte nell'indicazione già approvata, quindi non sono vere indicazioni di riposizionamento. "Tratti correlati all'asma, suscettibilità" non ha studi né letteratura (L5, Hold).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono elencate 5 delle 20 autorizzazioni, tutte con stato "revocata"» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

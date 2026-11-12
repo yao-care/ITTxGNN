@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Filgrastim: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder… (livello di evidenza L5). Indicazione originale: Neutropenia costituzionale / neutropenia…"
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -83,6 +83,18 @@ Attualmente non è disponibile letteratura correlata.
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
+<!-- review:begin it-lic-20261106-filgrastim-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-filgrastim-1 -->
+
+<!-- review:begin it-lic-20261106-filgrastim-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-filgrastim-2 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|-----------|
 | 039125012 | Zarzio, siringa preriempita 30 MU/0,5 ml | Sandoz GmbH |
@@ -104,11 +116,32 @@ Per le avvertenze e le controindicazioni, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico.
 
+<!-- review:begin it-lic-20261106-filgrastim-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico. Inoltre, in Italia non vi sono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-filgrastim-3 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e analisi di un eventuale ponte meccanicistico con la funzione piastrinica
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze precliniche o cliniche di base che colleghino filgrastim al disturbo piastrinico
 - Verifica della situazione autorizzativa e della disponibilità di prodotti in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono attualmente autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

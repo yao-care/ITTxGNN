@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 319
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Niclosamide: nuova indicazione prevista, Malattia cardiaca (heart disease) (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati"
 monitor_inn: "NICLOSAMIDE"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "interventricular septum aneurysm", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis"]
@@ -39,6 +39,12 @@ Livello di evidenza: **L4** | Indicazioni previste: **10**
 ## Sintesi in una frase
 
 Niclosamide è un antielmintico. Il modello TxGNN ne predice un possibile effetto su **malattia cardiaca** (heart disease), ma a oggi non esistono **sperimentazioni cliniche** e le **14 pubblicazioni** reperite sono quasi tutte studi preclinici, in vitro o indiretti: si tratta di un'ipotesi di ricerca, non di un'indicazione supportata.
+
+<!-- review:begin it-lic-20261106-niclosamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Niclosamide è un antielmintico, la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-niclosamide-1 -->
 
 ## Panoramica rapida
 
@@ -112,6 +118,26 @@ L'evidenza è solo preclinica (animale e in vitro), senza sperimentazioni clinic
 - Studi preclinici più solidi in modelli cardiaci, con valutazione specifica del rischio vasocostrittivo.
 - Strategie di formulazione o derivati (ad esempio la niclosamide etanolamina o sistemi di rilascio mirato) per superare la bassa biodisponibilità.
 - Verifica della disponibilità del prodotto in Italia.
+
+<!-- review:begin it-lic-20261106-niclosamide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità del prodotto in Italia, dato che l'unica autorizzazione è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-niclosamide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

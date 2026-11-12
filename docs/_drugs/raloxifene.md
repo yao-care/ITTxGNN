@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Raloxifene: nuova indicazione prevista, Ulcera duodenale (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale / osteoporosi"
 monitor_inn: "RALOXIFENE"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
@@ -90,6 +90,12 @@ Attualmente non risulta alcuna letteratura correlata.
 
 Tutte e quattro le autorizzazioni sono monocomponente.
 
+<!-- review:begin it-lic-20261106-raloxifene-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni sono monocomponente e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-raloxifene-1 -->
+
 ## Considerazioni sulla sicurezza
 
 I dati sulle controindicazioni derivano dal grafo di conoscenza (non dal testo del foglio illustrativo). Il raloxifene risulta associato alle seguenti condizioni:
@@ -110,12 +116,39 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale.
 
+<!-- review:begin it-lic-20261106-raloxifene-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale. Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-raloxifene-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del raloxifene
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Una revisione sistematica della letteratura su raloxifene e patologie gastroduodenali (e, per il rango 2, sul profilo lipidico/HDL)
 - Una valutazione del rapporto beneficio-rischio, considerando il rischio tromboembolico e cerebrovascolare
 - Una verifica della possibilità di commercializzazione
+
+<!-- review:begin it-lic-20261106-raloxifene-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Una verifica della possibilità di commercializzazione, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-raloxifene-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

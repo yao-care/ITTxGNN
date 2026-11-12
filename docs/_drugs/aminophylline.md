@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 39
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Aminophylline: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L4). Indicazione originale: Non disponibile"
 monitor_inn: "aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -126,12 +126,31 @@ I dati su avvertenze e controindicazioni dal foglio illustrativo AIFA non sono d
 **Motivazione:**
 L'evidenza per l'emicrania è limitata al livello L4: una rassegna e alcuni case report, senza studi clinici. La direzione dell'effetto è incerta.
 
+<!-- review:begin it-lic-20261106-aminophylline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La direzione dell'effetto è incerta e l'unica autorizzazione italiana è revocata, per cui non c'è una base regolatoria locale attiva.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-aminophylline-1 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank).
 - Studi clinici controllati sull'aminofillina nell'emicrania o nella cefalea post-puntura durale.
 - Una valutazione della fattibilità della via di somministrazione, dato che non risultano formulazioni attualmente commercializzate.
 - Una valutazione del rischio cardiovascolare, alla luce del segnale di vasospasmo e degli effetti sulla frequenza cardiaca.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è revocata, per cui non c'è una base regolatoria locale attiva» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

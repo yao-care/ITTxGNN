@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PIOGLITAZONE"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Pioglitazone: nuova indicazione prevista, Opsismodisplasia (opsismodysplasia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -98,12 +98,38 @@ Avvertenze e controindicazioni ufficiali del foglio illustrativo AIFA non sono d
 **Motivazione:**
 La previsione è basata solo sul modello (L5), senza studi clinici o letteratura e senza un legame meccanicistico chiaro. Il profilo di sicurezza ufficiale non è disponibile.
 
+<!-- review:begin it-lic-20261106-pioglitazone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre in Italia non esistono autorizzazioni valide e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pioglitazone-1 -->
+
 **Per procedere è necessario:**
 - Acquisire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Ottenere i dati sul meccanismo d'azione (ad es. da DrugBank)
 - Condurre una valutazione preclinica del nesso tra PPAR-gamma/insulino-sensibilizzazione e la via INPPL1/SHIP2
 - Valutare la fattibilità regolatoria
 - Eventualmente riconsiderare altre indicazioni previste con razionale biologico più plausibile (ad es. le lipodistrofie)
+
+<!-- review:begin it-lic-20261106-pioglitazone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pioglitazone-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «noltre in Italia non esistono autorizzazioni valide e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

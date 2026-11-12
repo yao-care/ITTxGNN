@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 153
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adrenergici alfa-1 con un uso clinico consolidato nell'ipertensione e nell'iperplasia prostatica benigna. I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco. Una valutazione completa della riproposizione non può essere completata fino a quando i dati di previsione, i dossier normativi e le informazioni sulla sicurezza non saranno recuperati.
 
+<!-- review:begin it-lic-20261106-doxazosina-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco, e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-doxazosina-1 -->
+
 ---
 
 ## Panoramica rapida
@@ -68,6 +74,12 @@ Nessun output di previsione di TxGNN era presente nel campo `predicted_indicatio
 
 Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer). Si prevede che una ricerca con l'INN inglese o il nome commerciale nel database AIFA restituisca autorizzazioni attive.
 
+<!-- review:begin it-lic-20261106-doxazosina-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**. Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer).» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-doxazosina-2 -->
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |--------------------------|-------------------|-------------------|-----------------------|
 | — | Nessun record trovato | — | Ricerca richiesta con "Doxazosin" o "Cardura" |
@@ -95,6 +107,19 @@ I dati compilati non hanno restituito previsioni di riproposizione di TxGNN, nes
 - **Ottenere il foglio illustrativo AIFA** per gli avvertimenti chiave, le controindicazioni e le precauzioni nelle popolazioni speciali
 - **Rieseguire il controllo DDI** utilizzando l'INN standardizzato "Doxazosin" (la ricerca attuale non ha restituito risultati con "DOXAZOSINA")
 - **Confermare l'ID DrugBank** — i dati compilati elencano `drugbank_id: null`; questo deve essere risolto prima di qualsiasi riesecuzione della pipeline
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

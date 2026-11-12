@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Siponimod: nuova indicazione prevista, Ipertensione polmonare (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (la letteratura associa sipon…"
 monitor_inn: "SIPONIMOD"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
@@ -104,6 +104,12 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Motivazione:**
 - La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico.
 
+<!-- review:begin it-lic-20261106-siponimod-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico. In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-siponimod-1 -->
+
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni) e dell'indicazione approvata
 - Dati dettagliati sul meccanismo d'azione (da DrugBank)
@@ -111,6 +117,19 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 - Valutazione della sicurezza cardiovascolare e polmonare (bradicardia, conduzione AV) nella popolazione target
 - Chiarimento dello stato di commercializzazione in Italia
 - Eventualmente, approfondimento dell'artrite reumatoide come domanda di ricerca, in base alle revisioni di classe disponibili
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

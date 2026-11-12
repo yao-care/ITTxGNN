@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "LONAFARNIB"
 predicted_indications: ["leprosy"]
 description: "Lonafarnib: nuova indicazione prevista, Lebbra (livello di evidenza L5)."
@@ -41,6 +41,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **1**
 Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy e non sono disponibili indicazioni approvate nei dati compilati.
 Il modello TxGNN prevede che possa essere efficace per la **lebbra**, con un punteggio molto alto (0,9914).
 Al momento **non risultano studi clinici né pubblicazioni** a sostegno di questa direzione: la previsione si basa solo sul modello.
+
+<!-- review:begin it-lic-20261106-lonafarnib-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lonafarnib-1 -->
 
 ## Panoramica rapida
 
@@ -108,12 +114,32 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione per la lebbra si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.
 
+<!-- review:begin it-lic-20261106-lonafarnib-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre le autorizzazioni italiane sono tutte annullate e mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lonafarnib-2 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate)
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Una ricerca bibliografica e di studi preclinici sul ruolo della prenilazione nella patogenesi della lebbra
 - Verifica del motivo dell'annullamento delle autorizzazioni e della disponibilità del farmaco in Italia
 - Un piano di gestione delle interazioni farmacologiche maggiori
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «ma le autorizzazioni risultano attualmente tutte annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte annullate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

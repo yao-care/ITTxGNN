@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -59,6 +59,12 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 Per questo motivo non si tratta di un riposizionamento in senso stretto.
 
 Va inoltre verificato lo stato di mercato prima di trarre conclusioni regolatorie o commerciali.
+
+<!-- review:begin it-lic-20261106-insulin_degludec-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Va inoltre verificato lo stato di mercato (solo autorizzazioni cancellate) prima di trarre conclusioni regolatorie o commerciali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_degludec-1 -->
 
 ## Evidenze dagli studi clinici
 
@@ -114,6 +120,12 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 - Numerosi studi di fase 3 completati (ad es. SWITCH 1) e RCT pubblicati in riviste di alto livello sostengono l'uso della degludec nel diabete di tipo 1 (livello di evidenza L1). Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento.
 
+<!-- review:begin it-lic-20261106-insulin_degludec-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento. Le autorizzazioni italiane risultano però tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_degludec-2 -->
+
 **Per procedere sono necessari:**
 - Verifica dello stato regolatorio in Italia e dei motivi della cancellazione delle due autorizzazioni (ad es. sostituzione con altre confezioni o ritiro commerciale)
 - Acquisizione delle avvertenze e controindicazioni dal foglio illustrativo AIFA
@@ -123,6 +135,20 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 ## Altre indicazioni previste (evidenza limitata)
 
 Le altre cinque predizioni (oofrite autoimmune, opsismodisplasia, sindrome da disfunzione tiamino-responsiva, sindrome della persona rigida classica e sindrome dell'arto rigido focale) non dispongono di studi clinici né di letteratura.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Le autorizzazioni italiane risultano però tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

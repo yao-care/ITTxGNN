@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -111,6 +111,12 @@ Inoltre, poiché la popolazione bersaglio coincide con quella dell'indicazione o
 - **Interazioni farmacologiche**: sono state identificate 289 interazioni. Tra quelle di livello **maggiore** figurano epinefrina, claritromicina, acido picosolfurico e polietilenglicole (3350 con elettroliti). Molte altre sono di livello moderato (ad es. famotidina, cimetidina, atropina, bupropione, morfina, loperamide, canagliflozin, dapagliflozin, clorpropamide, bisacodile) e una minore (acido acetilsalicilico).
 - **Rischio proaritmico**: l'effetto di prolungamento del QT è una criticità rilevante, in particolare in popolazioni cardiomiopatiche o in associazione con antipsicotici.
 
+<!-- review:begin it-lic-20261106-sotalol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sotalol-1 -->
+
 Per le avvertenze del foglietto illustrativo, consultare la documentazione AIFA ufficiale (non disponibile nei dati compilati).
 
 ---
@@ -122,12 +128,32 @@ Per le avvertenze del foglietto illustrativo, consultare la documentazione AIFA 
 **Motivazione:**
 L'evidenza per l'ictus è solo indiretta (livello L4): lo studio di fase 3 riguarda la fibrillazione atriale, non l'ictus, e la letteratura è composta in gran parte da rassegne. Il profilo di sicurezza richiede cautela. Altre previsioni ad alto punteggio (sindrome del nodo del seno, sindrome di Wildervanck, sarcoglicanopatia, disturbo bipolare maniacale) sono prive di evidenze o suggeriscono addirittura un danno.
 
+<!-- review:begin it-lic-20261106-sotalol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e il profilo di sicurezza richiede cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sotalol-2 -->
+
 **Per procedere sono necessari:**
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Dati di studi con l'ictus come endpoint, per distinguere un reale beneficio dal semplice controllo del ritmo nella fibrillazione atriale
 - Valutazione della fattibilità regolatoria, data l'assenza di autorizzazioni valide in Italia
 - Piano di monitoraggio di QT e frequenza cardiaca
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «l sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

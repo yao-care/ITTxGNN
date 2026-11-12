@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 115
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Clobetasol: nuova indicazione prevista, Linfoma cutaneo primario a cellule T (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 monitor_inn: "clobetasol"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -68,6 +68,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Sono elencate le pubblicazioni più rilevanti (studi di coorte per primi, poi casi clinici con riferimento diretto al clobetasolo).
 
+<!-- review:begin it-lic-20261106-clobetasol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clobetasol-1 -->
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
 | [14686970](https://pubmed.ncbi.nlm.nih.gov/14686970/) | 2003 | Coorte/serie | Dermatologic Therapy | Esperienza UCSF con corticosteroidi topici ad alta potenza nella micosi fungoide in stadio a macchia: circa 200 pazienti, tasso di risposta oltre il 90%, effetti collaterali minori. Il clobetasolo topico è il trattamento di prima linea per gli stadi precoci |
@@ -105,6 +111,12 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 Esistono coorti osservazionali coerenti, tra cui una grande serie storica con risposta superiore al 90% nella micosi fungoide in stadio a macchia, e un razionale meccanicistico plausibile. Mancano però studi clinici registrati e RCT. I dati di sicurezza del foglio illustrativo non sono disponibili. L'evidenza resta quindi di livello L3.
 
+<!-- review:begin it-lic-20261106-clobetasol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, e i dati di sicurezza del foglio illustrativo non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clobetasol-2 -->
+
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
@@ -112,6 +124,27 @@ Esistono coorti osservazionali coerenti, tra cui una grande serie storica con ri
 - Studio prospettico controllato (idealmente randomizzato) nella micosi fungoide in stadio precoce
 - Piano di monitoraggio degli effetti avversi cutanei e dell'assorbimento sistemico nell'uso prolungato
 - Definizione dei limiti di impiego: solo stadi precoci a macchia/placca, non per malattia avanzata
+
+<!-- review:begin it-lic-20261106-clobetasol-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità di formulazioni topiche di clobetasolo attualmente autorizzate in Italia, dato che tutte le licenze elencate sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clobetasol-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le licenze elencate sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

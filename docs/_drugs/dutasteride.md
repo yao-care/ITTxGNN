@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 description: "Dutasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
@@ -108,12 +108,31 @@ Per le avvertenze complete, fare riferimento al foglio illustrativo.
 **Motivazione:**
 La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello (livello L5), senza studi né pubblicazioni, e senza un meccanismo plausibile legato al DHT.
 
+<!-- review:begin it-lic-20261106-dutasteride-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello (livello L5), senza studi né pubblicazioni, e senza un meccanismo plausibile legato al DHT. Inoltre, in Italia non esistono autorizzazioni attualmente valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dutasteride-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione registrato (DrugBank)
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze precliniche o cliniche specifiche per la sindrome di Ambras
 - Valutazione della fattibilità regolatoria, data la mancanza di autorizzazioni valide in Italia
 - Valutazione di indicazioni correlate più plausibili (ad es. ipertricosi/irsutismo androgeno-dipendente o alopecia androgenetica), da considerare come domande di ricerca distinte
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

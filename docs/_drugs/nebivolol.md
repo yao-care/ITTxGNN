@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -93,6 +93,12 @@ Nota: nessuno di questi lavori valuta il nebivololo come trattamento dell'iperte
 
 Principali autorizzazioni (prime 5):
 
+<!-- review:begin it-lic-20261106-nebivolol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nebivolol-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 039418013 | Nebivololo 28 cpr 5 mg | Towa Pharmaceutical SpA | Valida |
@@ -117,12 +123,32 @@ Altri nomi commerciali tra le autorizzazioni cancellate: Nebiscon, Nivolon, Nobi
 **Motivazione:**
 La previsione per la nefropatia ipertensiva maligna è solo un risultato del modello (L5), senza sperimentazioni né letteratura, e probabilmente riflette la vicinanza all'indicazione ipertensiva già nota.
 
+<!-- review:begin it-lic-20261106-nebivolol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la nefropatia ipertensiva maligna è solo un risultato del modello (L5), senza sperimentazioni né letteratura, e probabilmente riflette la vicinanza all'indicazione ipertensiva già nota. In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nebivolol-2 -->
+
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), prerequisito bloccante per lo screening di sicurezza
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Ricerca mirata di letteratura e studi clinici sul nebivololo nella nefropatia ipertensiva maligna e nell'ipertensione renovascolare
 - Verifica dello stato regolatorio reale in Italia (motivi delle cancellazioni e disponibilità attuale del prodotto)
 - Valutazione di sicurezza specifica per le popolazioni interessate, in particolare in presenza di ipertensione polmonare e compromissione renale
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

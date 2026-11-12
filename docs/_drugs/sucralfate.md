@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 412
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -105,12 +105,31 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. L'ostruzione duodenale non è supportata da alcun razionale e non va perseguita.
 
+<!-- review:begin it-lic-20261106-sucralfate-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sucralfate-1 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), prerequisito bloccante per la valutazione di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Rivalutare criticamente i due RCT (dimensioni, endpoint, qualità metodologica) e confrontare con gli inibitori di pompa protonica
 - Verificare la disponibilità di una formulazione commercializzata e valutare la sicurezza nei pazienti con insufficienza renale e diabete
 - Valutare un eventuale studio clinico di conferma prima di qualsiasi decisione di avanzamento
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 148
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Disopyramide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (nessun testo di indicazione nelle…"
 monitor_inn: "disopyramide"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
@@ -86,6 +86,12 @@ Per completezza, tra le indicazioni predette di rango inferiore, l'unica pubblic
 
 Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH.
 
+<!-- review:begin it-lic-20261106-disopyramide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: CHEPLAPHARM ARZNEIMITTEL GMBH. Entrambe le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disopyramide-1 -->
+
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni suggerite dal grafo di conoscenza** (relazioni farmaco-malattia del modello, non testo di scheda tecnica): sindrome del QT lungo (anche familiare), nefropatie, epatopatie, malattie della colecisti, carenza di potassio, ipertrofia prostatica benigna, glaucoma ad angolo chiuso, miastenia gravis e malattie della giunzione neuromuscolare, ipoglicemia, ipotensione, blocco atrioventricolare, cardiomiopatie (inclusa ipertrofica), fibrosi endomiocardica, miocardite, fibrillazione e flutter atriale.
@@ -100,12 +106,39 @@ Per avvertenze e controindicazioni ufficiali consultare il foglio illustrativo.
 **Motivazione:**
 La previsione per la sindrome di Tourette (livello L5) si fonda solo sul modello, senza studi, senza legame meccanicistico plausibile e con un profilo di sicurezza (effetti anticolinergici, rischio proaritmico, numerose controindicazioni) poco favorevole.
 
+<!-- review:begin it-lic-20261106-disopyramide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome di Tourette (livello L5) si fonda solo sul modello, senza studi, senza legame meccanicistico plausibile e con un profilo di sicurezza (effetti anticolinergici, rischio proaritmico, numerose controindicazioni) poco favorevole. Inoltre, in Italia tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disopyramide-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e una giustificazione biologica per l'indicazione neurologica
 - Scheda tecnica AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
 - Evidenze precliniche e cliniche specifiche (studi o letteratura) sulla sindrome di Tourette
 - Valutazione della fattibilità regolatoria e commerciale
 - In alternativa, valutare le indicazioni cardiologiche affini (aritmie atriali) con dati dedicati
+
+<!-- review:begin it-lic-20261106-disopyramide-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della fattibilità regolatoria e commerciale, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disopyramide-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

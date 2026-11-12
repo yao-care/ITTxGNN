@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Flucloxacillin: nuova indicazione prevista, Congiuntivite (livello di evidenza L5). Indicazione originale: Non disponibile"
 monitor_inn: "flucloxacillin"
 predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Prinzmetal angina", "conjunctivitis (disease)", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "thrombotic disease", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
@@ -39,6 +39,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 ## Sintesi in una frase
 
 Il modello TxGNN prevede un possibile effetto su **congiuntivite** (punteggio molto alto), ma **non esistono sperimentazioni cliniche** e l'unica pubblicazione associata è **un case report** su una dacrioadenite gonococcica, che non dimostra l'efficacia del farmaco.
+
+<!-- review:begin it-lic-20261106-flucloxacillin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La flucloxacillina è una penicillina antistafilococcica; nei dati compilati per questo report non risulta alcuna indicazione approvata registrata per l'unica autorizzazione italiana, ormai cancellata. / Il modello TxGNN prevede un possibile effetto su **congiuntivite** (punteggio molto alto), ma **non esistono sperimentazioni cliniche** e l'unica pubblicazione associata è **un case report** su una dacrioadenite gonococcica, che non dimostra l'efficacia del farmaco.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flucloxacillin-1 -->
 
 ## Quadro generale
 
@@ -89,11 +95,31 @@ Dalla letteratura associata ad altre predizioni emergono segnalazioni di reazion
 **Motivazione:**
 La predizione si basa quasi solo sul modello computazionale: non ci sono sperimentazioni cliniche e l'unico case report non riguarda l'efficacia della flucloxacillina.
 
+<!-- review:begin it-lic-20261106-flucloxacillin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa quasi solo sul modello computazionale: non ci sono sperimentazioni cliniche e l'unico case report non riguarda l'efficacia della flucloxacillina. In più, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flucloxacillin-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione, per analizzare il legame meccanicistico
 - Dati microbiologici e clinici su congiuntivite da stafilococco trattata con flucloxacillina (studi di sensibilità, studi osservazionali o sperimentazioni)
 - Valutazione della compatibilità della via di somministrazione, dato che la congiuntivite richiederebbe probabilmente una formulazione oftalmica e la forma autorizzata in precedenza era orale (compresse)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «La flucloxacillina è una penicillina antistafilococcica; nei dati compilati per questo report non risulta alcuna indicazione approvata regis» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In più, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Pegfilgrastim: nuova indicazione prevista, Retinopatia diabetica non proliferante grave (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni …"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -68,6 +68,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Al momento non è disponibile letteratura correlata.
 
+<!-- review:begin it-lic-20261106-pegfilgrastim-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni elencate risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pegfilgrastim-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
@@ -95,12 +101,32 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o dati meccanicistici a supporto. Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare).
 
+<!-- review:begin it-lic-20261106-pegfilgrastim-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare) e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pegfilgrastim-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA), ad esempio tramite DrugBank
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Revisione sistematica della letteratura su G-CSF/pegfilgrastim e retinopatia diabetica, inclusi dati preclinici
 - Valutazione della compatibilità delle vie di somministrazione (la somministrazione sistemica sottocutanea rispetto alla somministrazione oculare)
 - Chiarimento dell'attuale disponibilità commerciale in Italia (prodotti oggi cancellati)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni elencate risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

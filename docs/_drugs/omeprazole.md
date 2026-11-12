@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,11 +108,37 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 Il legame meccanicistico è solo parziale e sintomatico: l'omeprazolo non agisce sulla causa del reflusso duodenogastrico. Non esistono sperimentazioni randomizzate a supporto, le evidenze cliniche sono piccole e il segnale preclinico di carcinogenesi è preoccupante.
 
+<!-- review:begin it-lic-20261106-omeprazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non esistono sperimentazioni randomizzate a supporto, le evidenze cliniche sono piccole e il segnale preclinico di carcinogenesi è preoccupante. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-omeprazole-1 -->
+
 **Per procedere sono necessari:**
 - Sperimentazioni cliniche controllate che valutino direttamente l'omeprazolo nel reflusso duodenogastrico
 - Valutazione del rischio di carcinogenesi gastrica con blocco acido prolungato in presenza di reflusso biliare
 - Dati sul meccanismo d'azione e sul testo autorizzativo (avvertenze, controindicazioni) dal foglietto illustrativo AIFA
 - Chiarimento dello stato regolatorio attuale in Italia
+
+<!-- review:begin it-lic-20261106-omeprazole-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio attuale in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-omeprazole-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

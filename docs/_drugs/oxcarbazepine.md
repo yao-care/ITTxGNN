@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 333
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -99,6 +99,12 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 
 **Motivazione:**
 
+<!-- review:begin it-lic-20261106-oxcarbazepine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Motivazione:** / Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oxcarbazepine-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliati (ad esempio da DrugBank)
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione della sicurezza)
@@ -106,6 +112,19 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 - Verifica dello stato regolatorio e della disponibilità commerciale del farmaco in Italia
 
 **Altre indicazioni previste (per riferimento):** la sindrome delle gambe senza riposo (punteggio 0,9989, evidenza L4) è supportata da tre case report e una revisione narrativa, senza studi controllati; le restanti previsioni (crisi riflesse di vario tipo, stato epilettico) hanno evidenza indiretta o assente. Per lo stato epilettico va segnalato un caso di mioclono con stato epilettico indotto dall'oxcarbazepina nell'epilessia mioclonica giovanile, che rappresenta un segnale di sicurezza.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

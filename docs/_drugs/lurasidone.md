@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "LURASIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Lurasidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -95,6 +95,12 @@ Nessuna delle pubblicazioni fornisce evidenze RCT dirette sull'uso del lurasidon
 
 Lo stato di mercato andrebbe verificato rispetto alla disponibilità attuale.
 
+<!-- review:begin it-lic-20261106-lurasidone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti 9 autorizzazioni in totale, tutte cancellate; le prime 5 sono riportate sopra. Lo stato di mercato andrebbe verificato rispetto alla disponibilità attuale.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lurasidone-1 -->
+
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni (dal grafo di conoscenza, non dal foglietto illustrativo)**: malattie epatiche e insufficienza epatica, funzione renale compromessa, epilessia, ipotensione ortostatica e atrofia multisistemica, iperglicemia, diabete e chetoacidosi diabetica, iperlipidemia, neutropenia, agranulocitosi e leucopenia, malattie cerebrovascolari (ictus, TIA, infarto cerebrale, insufficienza vertebrobasilare), sindrome neurolettica maligna, discinesia tardiva, iperprolattinemia e tumori ipofisari secernenti prolattina, malattie della colecisti.
@@ -109,12 +115,39 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 L'unico studio registrato è stato ritirato senza arruolare pazienti, e la letteratura disponibile non offre prove dirette di efficacia del lurasidone nella mania acuta (il farmaco ha evidenze soprattutto nella depressione bipolare). L'evidenza si ferma al livello L4.
 
+<!-- review:begin it-lic-20261106-lurasidone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'evidenza si ferma al livello L4. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza ufficiali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lurasidone-2 -->
+
 **Per procedere sono necessari:**
 - Dati di efficacia da RCT del lurasidone nella mania acuta (adulti e/o pazienti pediatrici)
 - Scarico e analisi del foglietto illustrativo AIFA per avvertenze e controindicazioni
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica dell'effettiva disponibilità commerciale in Italia
 - Piano di monitoraggio della sicurezza (profilo metabolico, prolattina, interazioni, rischio di viraggio maniacale)
+
+<!-- review:begin it-lic-20261106-lurasidone-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dell'effettiva disponibilità commerciale in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lurasidone-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti 9 autorizzazioni in totale, tutte cancellate; le prime 5 sono riportate sopra» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

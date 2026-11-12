@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 199
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -103,6 +103,12 @@ Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzio
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
+<!-- review:begin it-lic-20261106-flecainide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flecainide-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -122,6 +128,12 @@ Le avvertenze e le controindicazioni ufficiali non sono disponibili: consultare 
 **Motivazione:**
 - Il legame con l'ictus è puramente indiretto (mediato dalla fibrillazione atriale): l'unico studio di fase 3 ha come endpoint l'aritmia dopo chiusura del PFO e non ha ancora risultati. Non esiste evidenza che la flecainide riduca l'ictus; il livello L2 riportato è piuttosto generoso rispetto a questa base. Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione.
 
+<!-- review:begin it-lic-20261106-flecainide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flecainide-2 -->
+
 **Per procedere sono necessari:**
 - Risultati dello studio NCT05213104 (completamento previsto a settembre 2026) e verifica che l'endpoint sia clinicamente rilevante per l'ictus
 - Dati sul meccanismo d'azione (MOA) da DrugBank
@@ -129,7 +141,28 @@ Le avvertenze e le controindicazioni ufficiali non sono disponibili: consultare 
 - Evidenze dirette sulla riduzione di ictus/eventi cerebrovascolari con la flecainide, e piano di gestione delle interazioni con gli anticoagulanti
 - Chiarimento dello stato regolatorio in Italia
 
+<!-- review:begin it-lic-20261106-flecainide-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flecainide-3 -->
+
 Le altre indicazioni previste (ranghi 2-8 e 10) sono basate solo sul modello, senza studi né letteratura, e in alcuni casi con possibili problemi di sicurezza (ad es. sindrome del seno malato); restano in **Hold**.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

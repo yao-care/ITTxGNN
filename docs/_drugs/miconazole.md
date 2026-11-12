@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 300
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -97,12 +97,31 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 L'evidenza è limitata a predizione del modello, dati *in vitro* e piccoli studi indiretti (livello L4). Non ci sono studi clinici registrati sull'acne e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.
 
+<!-- review:begin it-lic-20261106-miconazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non ci sono studi clinici registrati sull'acne, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-miconazole-1 -->
+
 **Per procedere è necessario:**
 - Recuperare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni).
 - Ottenere i dati sul meccanismo d'azione (es. da DrugBank).
 - Valutare la compatibilità della via di somministrazione (probabile uso topico per l'acne) e la somiglianza con l'indicazione originale.
 - Condurre studi clinici controllati sull'acne volgare, distinguendola dalla follicolite da *Malassezia*.
 - Valutare il profilo di interazioni e l'impatto della malattia epatica in caso di uso sistemico.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e, tutte le autorizzazioni italiane sono cancellat» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

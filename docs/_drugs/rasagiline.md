@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
 description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -116,11 +116,30 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico.
 
+<!-- review:begin it-lic-20261106-rasagiline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 20 autorizzazioni per questo farmaco, di cui 20 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rasagiline-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA
 - Una revisione della letteratura mirata su rasagilina e neurodegenerazione associata a PLA2G6 (in particolare distonia-parkinsonismo ad esordio adulto)
 - La verifica della possibilità pratica di ottenere il farmaco, dato lo stato di mercato "solo cancellate"
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 403
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Silodosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -82,6 +82,12 @@ Attualmente non risulta disponibile letteratura correlata.
 
 Le principali (5 di 20):
 
+<!-- review:begin it-lic-20261106-silodosin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Le principali (5 di 20):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-silodosin-1 -->
+
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 039775046 | SILODYX 30 cps 4 mg | Recordati Ireland Ltd | Valida |
@@ -106,12 +112,32 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Motivazione:**
 La previsione è basata solo sul modello (L5): nessuna sperimentazione, nessuna pubblicazione e nessun meccanismo biologico plausibile che colleghi il blocco alfa-1A all'ipertricosi di tipo Ambras.
 
+<!-- review:begin it-lic-20261106-silodosin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è basata solo sul modello (L5): nessuna sperimentazione, nessuna pubblicazione e nessun meccanismo biologico plausibile che colleghi il blocco alfa-1A all'ipertricosi di tipo Ambras. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-silodosin-2 -->
+
 **Per procedere sarebbe necessario:**
 - Acquisire il meccanismo d'azione dettagliato (dati DrugBank).
 - Acquisire avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza).
 - Formulare un'ipotesi biologica credibile che colleghi la segnalazione alfa-1 alla regolazione di TRPS1 o alla biologia del follicolo pilifero, con eventuali studi preclinici.
 - Valutare se un'indicazione per una condizione in cui l'ipertricosi è un tratto genetico abbia una reale utilità clinica.
 - Verificare la compatibilità delle vie di somministrazione e la situazione autorizzativa in Italia.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

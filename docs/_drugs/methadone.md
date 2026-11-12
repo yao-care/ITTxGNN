@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 289
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Methadone: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -111,12 +111,38 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Motivazione:**
 Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno studio registrato (livello L4). Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure.
 
+<!-- review:begin it-lic-20261106-methadone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure. Inoltre tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methadone-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank
 - Avvertenze e controindicazioni ufficiali dai fogli illustrativi AIFA (attualmente mancanti, lacuna bloccante per lo screening di sicurezza)
 - Una revisione sistematica della letteratura sull'uso di oppioidi nel Tourette, con valutazione del rapporto rischio-beneficio nei pazienti pediatrici
 - Chiarimenti sullo stato regolatorio e sulla disponibilità di formulazioni
 - Un eventuale studio esplorativo di fase 2 solo se i punti precedenti risultano favorevoli
+
+<!-- review:begin it-lic-20261106-methadone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimenti sullo stato regolatorio (autorizzazioni cancellate) e sulla disponibilità di formulazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methadone-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

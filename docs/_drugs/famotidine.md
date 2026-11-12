@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 description: "Famotidine: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -109,6 +109,12 @@ Per le avvertenze ufficiali, fare riferimento alla scheda tecnica.
 **Motivazione:**
 Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto.
 
+<!-- review:begin it-lic-20261106-famotidine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto. Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-famotidine-1 -->
+
 **Per procedere sono necessari:**
 - Studi clinici controllati sul reflusso duodeno-gastrico con endpoint chiari
 - Dati dettagliati sul meccanismo d'azione
@@ -116,6 +122,19 @@ Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio cli
 - Verifica della disponibilità del prodotto sul mercato italiano e di eventuali formulazioni alternative
 
 *Nota sulle altre predizioni: la malattia ulcerosa peptica (L1, "Proceed with Guardrails") coincide con un'indicazione già approvata, e la famotidina risulta in genere meno efficace degli inibitori di pompa protonica nella prevenzione delle recidive in utilizzatori di aspirina o tienopiridine. Il gastrojejunal ulcer e la gastroduodenite (L3) sono questioni di ricerca; le restanti predizioni (ostruzione duodenale, alterazione della secrezione di glucagone, acne) hanno evidenza scarsa o assente.*
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

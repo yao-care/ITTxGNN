@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 351
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -113,11 +113,37 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Motivazione:**
 L'evidenza è limitata a un piccolo studio del 1992 e a revisioni, senza studi clinici registrati. Presenta un rischio significativo di prolungamento del QT, con numerose interazioni. Gli altri candidati nella lista (mania, insonnia, depressione maggiore, ADHD e altri) hanno evidenze ancora più deboli, datate o non pertinenti, e restano anch'essi in Hold.
 
+<!-- review:begin it-lic-20261106-pimozide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e presenta un rischio significativo di prolungamento del QT, con numerose interazioni.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pimozide-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni ufficiali del foglio illustrativo AIFA
 - Studi controllati (RCT) moderni sul pimozide nella tricotillomania, con confronto rispetto alle alternative consolidate
 - Un piano di monitoraggio dell'ECG e dei livelli di potassio, e una strategia di gestione delle interazioni con SSRI e inibitori del CYP2D6/CYP3A4
 - Una valutazione della fattibilità regolatoria
+
+<!-- review:begin it-lic-20261106-pimozide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Una valutazione della fattibilità regolatoria, dato che il prodotto non è più in commercio in Italia» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pimozide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che il prodotto non è più in commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

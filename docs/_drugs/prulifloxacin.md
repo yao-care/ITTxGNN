@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Prulifloxacin: nuova indicazione prevista, Malattia cardiaca (heart disease) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (il testo dell'indicazione è…"
 monitor_inn: "prulifloxacin"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "mitral valve disease", "Jeune syndrome situs inversus"]
@@ -72,6 +72,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Per le altre predizioni (ad esempio sindrome di Laubry-Pezzi, sindromi di Pierre Robin, malattie delle valvole mitrale e polmonare) non è disponibile alcuna evidenza clinica o letteraria. Per il "disturbo della sintesi dei fucoglicani" (rank 8) sono state recuperate sette pubblicazioni, ma riguardano penetrazione tissutale, metodi analitici, legame con l'albumina e altri temi non correlati: la corrispondenza sembra dovuta a parole chiave e non è rilevante.
 
+<!-- review:begin it-lic-20261106-prulifloxacin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide attualmente in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-prulifloxacin-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
@@ -95,12 +101,39 @@ Per le avvertenze e le controindicazioni complete si rimanda al foglietto illust
 **Motivazione:**
 La predizione si basa solo su un modello computazionale (livello L5), senza studi clinici e senza un legame meccanicistico credibile; l'unica evidenza pertinente riguarda un rischio di sicurezza cardiaca.
 
+<!-- review:begin it-lic-20261106-prulifloxacin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo su un modello computazionale (livello L5), senza studi clinici e senza un legame meccanicistico credibile; l'unica evidenza pertinente riguarda un rischio di sicurezza cardiaca. Inoltre, il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-prulifloxacin-2 -->
+
 **Per procedere sarebbe necessario:**
 - Recuperare il foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Dimostrare un'ipotesi biologica plausibile per l'uso cardiaco, oltre al solo punteggio del modello
 - Valutare in modo approfondito il rischio di prolungamento del QT e di aritmie
 - Chiarire lo stato regolatorio e la disponibilità di vie di somministrazione
+
+<!-- review:begin it-lic-20261106-prulifloxacin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio (autorizzazioni cancellate) e la disponibilità di vie di somministrazione» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-prulifloxacin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide attualmente in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

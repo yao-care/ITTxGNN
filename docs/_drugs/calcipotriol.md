@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 84
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Calcipotriol: nuova indicazione prevista, Cheratosi seborroica (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (testi delle indicazioni AIFA vuot…"
 monitor_inn: "calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -114,6 +114,12 @@ Tutte le 15 autorizzazioni risultano valide (15 su 15); le forme farmaceutiche e
 **Motivazione:**
 L'evidenza per la cheratosi seborroica è di livello L3, costituita da piccole serie di casi e studi non controllati, senza sperimentazioni registrate né RCT. I dati di sicurezza del foglio illustrativo sono assenti. Il meccanismo è plausibile e l'ipotesi merita ulteriore ricerca, ma non è sufficiente per procedere.
 
+<!-- review:begin it-lic-20261106-calcipotriol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esistono autorizzazioni italiane valide per il calcipotriolo e i dati di sicurezza del foglio illustrativo sono assenti.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-calcipotriol-1 -->
+
 Le altre previsioni (cheratosi follicolare invertita vulvare, vulvovaginite, vulvite, neoplasie vulvari, ulcerazione vulvare, vaginite atrofica postmenopausale, malattia di Paget ossea, malattia fibrocistica della mammella) hanno evidenza L4-L5 e sono tutte in stato Hold: mancano studi diretti e per diverse di esse (mucose, lesioni ulcerate, malignità) l'irritazione o il rischio sistemico rappresentano un ulteriore motivo di cautela.
 
 **Per procedere sono necessari:**
@@ -121,6 +127,19 @@ Le altre previsioni (cheratosi follicolare invertita vulvare, vulvovaginite, vul
 - Dati di sicurezza e avvertenze dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati dettagliati sul meccanismo d'azione da DrugBank
 - Verifica dello stato regolatorio in Italia, dove il farmaco è commercializzato con 15 autorizzazioni valide su 15, e valutazione della via di somministrazione e della formulazione disponibili
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «noltre non esistono autorizzazioni italiane valide per il calcipotriolo e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

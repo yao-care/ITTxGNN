@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -112,12 +112,31 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Motivazione:**
 La previsione ha un punteggio elevato ma nessun supporto da studi clinici o letteratura pertinente (livello L5), è molto vicina all'indicazione già nota e comporta un rilevante rischio renale nel contesto specifico.
 
+<!-- review:begin it-lic-20261106-perindopril-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione ha un punteggio elevato ma nessun supporto da studi clinici o letteratura pertinente (livello L5), è molto vicina all'indicazione già nota e comporta un rilevante rischio renale nel contesto specifico. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-perindopril-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (attualmente non disponibili, impediscono la valutazione di sicurezza)
 - Una revisione sistematica della letteratura specifica sull'uso degli ACE-inibitori nell'ipertensione renovascolare maligna
 - Una valutazione del rischio renale (stenosi bilaterale dell'arteria renale/rene singolo) e un piano di monitoraggio
 - Verifica della possibilità di riammissione in commercio di prodotti a base di perindopril in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

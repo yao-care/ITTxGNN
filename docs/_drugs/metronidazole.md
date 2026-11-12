@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 description: "Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -86,6 +86,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Per la pneumocistosi (10 pubblicazioni; nessuna dimostra l'efficacia del metronidazolo):
 
+<!-- review:begin it-lic-20261106-metronidazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metronidazole-1 -->
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
 | [1545596](https://pubmed.ncbi.nlm.nih.gov/1545596/) | 1992 | Revisione | Mayo Clin Proc | Panoramica generale sugli antiparassitari |
@@ -133,11 +139,31 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 - Per la pneumocistosi non esistono studi clinici né letteratura a supporto; il meccanismo è implausibile (*Pneumocystis* è un fungo) e il punteggio elevato sembra derivare da prossimità di rete. Evidenza di livello L5.
 
+<!-- review:begin it-lic-20261106-metronidazole-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Evidenza di livello L5. Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metronidazole-2 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) del metronidazolo.
 - Testo autorizzativo AIFA e avvertenze/controindicazioni dal foglietto illustrativo, attualmente mancanti.
 - Riorientare la valutazione verso candidate più plausibili, in particolare la **poliposi a cappuccio** e l'**ulcerazione vulvare** (ad es. da malattia di Crohn), con revisione sistematica della letteratura ed eventuale studio pilota controllato.
 - Chiarire lo stato regolatorio e la disponibilità in commercio del metronidazolo in Italia.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Nitisinone: nuova indicazione prevista, Acidosi tubulare renale (livello di evidenza L5). Indicazione originale: Tirosinemia"
 monitor_inn: "NITISINONE"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
@@ -92,6 +92,12 @@ Il farmaco è in commercio in Italia: tutte le 9 autorizzazioni risultano valide
 
 Il testo delle indicazioni approvate non è disponibile.
 
+<!-- review:begin it-lic-20261106-nitisinone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH). Il testo delle indicazioni approvate non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nitisinone-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -122,6 +128,19 @@ La predizione per l'acidosi tubulare renale ha un punteggio elevato ma è priva 
 - Una revisione sistematica della letteratura su nitisinone e tubulopatie renali, inclusi casi clinici
 - Chiarimento dello stato regolatorio e della disponibilità del farmaco in Italia
 - Valutazione della sicurezza renale ed ematologica, dato che il grafo di conoscenza segnala malattia renale, trombocitopenia e leucopenia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

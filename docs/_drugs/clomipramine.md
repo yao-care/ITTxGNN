@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 117
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Clomipramine: nuova indicazione prevista, Disturbo d'ansia (livello di evidenza L1). Indicazione originale: Disturbo ossessivo-compulsivo (il testo dell'indicazione autorizzata…"
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -115,6 +115,12 @@ Nessuno di questi studi testa direttamente la clomipramina in un disturbo d'ansi
 
 I dati di sicurezza ricavati dal grafo di conoscenza indicano condizioni in cui l'uso della clomipramina è controindicato o richiede particolare cautela (non provengono dal foglietto illustrativo):
 
+<!-- review:begin it-lic-20261106-clomipramine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamente autorizzati in Italia secondo i dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clomipramine-1 -->
+
 - **Controindicazioni (da grafo di conoscenza)**: epilessia, disturbo bipolare in fase maniacale, malattie del fegato, malattie della colecisti, abuso/dipendenza da sostanze, ipertermia maligna (anche da esercizio), feocromocitoma, paraganglioma simpatico, glaucoma, ipertiroidismo (malattia di Graves, tireotossicosi), neuroblastoma e alcuni tumori (duodeno, intestino tenue, cuore, surrene).
 - **Interazioni (dati di farmacologia)**: la clomipramina interagisce con i trasportatori SERT, NET e DAT, con il recettore adrenergico α1A e con i canali Kir3.2 e Kir3.4. Non sono disponibili interazioni con altri farmaci classificate per livello di gravità.
 - **Rischi emersi dalla letteratura**: effetti anticolinergici, tossicità cardiaca (QT), rischio di crisi convulsive, disfunzione sessuale, rari eventi ematologici (caso di pancitopenia), tic indotti in un caso riportato.
@@ -137,6 +143,26 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 - Studi randomizzati controllati con la clomipramina nei disturbi d'ansia primari (panico, ansia generalizzata, fobia sociale).
 - Un piano di monitoraggio cardiaco (ECG/QT) e della sicurezza nelle popolazioni a rischio (anziani, giovani, pazienti con epilessia o glaucoma).
 - Una verifica della disponibilità del prodotto sul mercato italiano.
+
+<!-- review:begin it-lic-20261106-clomipramine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Una verifica della disponibilità del prodotto sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clomipramine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamen» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

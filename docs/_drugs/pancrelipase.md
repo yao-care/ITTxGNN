@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
 monitor_inn: "pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
@@ -108,11 +108,37 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 **Motivazione:**
 La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare.
 
+<!-- review:begin it-lic-20261106-pancrelipase-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pancrelipase-1 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Evidenze precliniche o cliniche che giustifichino un legame biologico con la nuova indicazione
 - Chiarimento della situazione autorizzativa in Italia
+
+<!-- review:begin it-lic-20261106-pancrelipase-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione autorizzativa in Italia (tutte le licenze sono cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pancrelipase-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(tutte le licenze sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

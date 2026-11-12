@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -88,6 +88,12 @@ L'unico spunto in letteratura (PMID 36754409) è un caso riportato in cui un ini
 
 Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
 
+<!-- review:begin it-lic-20261106-febuxostat-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Testo dell'indicazione e forma farmaceutica non sono riportati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-febuxostat-1 -->
+
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 047082021 | Febuxostat 80 mg, 28 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
@@ -114,6 +120,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato è già basso, e l'unica evidenza è uno studio non pertinente e due lavori indiretti.
 
+<!-- review:begin it-lic-20261106-febuxostat-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato è già basso, e l'unica evidenza è uno studio non pertinente e due lavori indiretti. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-febuxostat-2 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni del foglietto illustrativo AIFA
 - Evidenze cliniche dirette nell'ipouricemia renale (per esempio studi di prevenzione del danno renale acuto da sforzo)
@@ -124,6 +136,20 @@ Il razionale farmacologico è contrario all'uso in una condizione in cui l'urato
 ### Note su altre indicazioni previste (non principali)
 
 Il modello ha previsto anche il **deficit parziale di HPRT** (punteggio 0,9998) e la **sindrome di Lesch-Nyhan** (0,9968). In entrambi i casi vi è un razionale meccanicistico plausibile per il controllo dell'iperuricemia, ma l'evidenza si limita a casi clinici e serie di casi (livello L4), senza studi clinici. Restano questioni aperte come il rischio di formazione di calcoli di xantina, i dati pediatrici limitati e il fatto che il farmaco non agisce sulle manifestazioni neurologiche. Queste indicazioni sono valutate come "domanda di ricerca" e meritano un'analisi separata.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

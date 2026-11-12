@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 156
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dronedarone: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (testo dell'indicazione AIFA non disponibile ne…"
 monitor_inn: "DRONEDARONE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
@@ -84,6 +84,12 @@ Selezione delle pubblicazioni più rilevanti per la prima indicazione prevista (
 
 Per l'indicazione di rango 4 (disturbo cerebrovascolare) sono disponibili ulteriori lavori, tra cui una meta-analisi di studi randomizzati sul dronedarone e l'incidenza di ictus (PMID 22149318, analisi post hoc di RCT) e una revisione Cochrane sugli antiaritmici dopo cardioversione (PMID 25820938).
 
+<!-- review:begin it-lic-20261106-dronedarone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dronedarone-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
@@ -113,6 +119,26 @@ Per l'ictus non esiste alcuno studio clinico dedicato: le evidenze sono post hoc
 - Verifica dello stato regolatorio attuale in Italia
 - Uno studio dedicato alla prevenzione dell'ictus, o un'analisi formale degli esiti ictus negli studi già esistenti
 - Un piano di gestione delle interazioni con anticoagulanti e della selezione dei pazienti (esclusione di fibrillazione atriale permanente e scompenso grave)
+
+<!-- review:begin it-lic-20261106-dronedarone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dronedarone-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

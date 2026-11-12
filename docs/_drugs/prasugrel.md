@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 description: "Prasugrel: nuova indicazione prevista, Pulmonary hypertension (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -114,12 +114,38 @@ Per gli avvertimenti e le controindicazioni ufficiali, consultare il foglietto i
 **Motivazione:**
 Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel.
 
+<!-- review:begin it-lic-20261106-prasugrel-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracranica) richiede cautela in una patologia non letale come l'emicrania.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-prasugrel-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione del prasugrel (DrugBank)
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni
 - Uno studio randomizzato controllato sul prasugrel in emicranici con PFO
 - Valutazione del rapporto rischio/beneficio emorragico in questa popolazione
 - Chiarimento dello stato regolatorio e della disponibilità del farmaco in Italia
+
+<!-- review:begin it-lic-20261106-prasugrel-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate) e della disponibilità del farmaco in Italia» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-prasugrel-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracran» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

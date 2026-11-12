@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 395
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: nuova indicazione prevista, Brain small vessel disease 1 with or without ocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -107,6 +107,12 @@ Gli studi preclinici su roditori (PMID 35992034, 36589853, 32596035, 33870733, 3
 
 Il titolare è NOVARTIS EUROPHARM LTD.
 
+<!-- review:begin it-lic-20261106-sacubitril-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata. Il titolare è NOVARTIS EUROPHARM LTD.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sacubitril-1 -->
+
 ---
 
 ## Considerazioni di sicurezza
@@ -137,6 +143,19 @@ La nefropatia diabetica dispone di un razionale meccanicistico credibile e di da
 - Verificare lo stato e i risultati dello studio NCT06501651 e il disegno dello studio PMID 37549515
 - Valutare gli esiti renali (albuminuria, eGFR) nei sottogruppi diabetici di studi clinici più ampi
 - Definire un piano di monitoraggio della sicurezza (funzione renale, potassio, pressione arteriosa)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

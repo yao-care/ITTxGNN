@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 66
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Benzoic Acid: nuova indicazione prevista, Bronchite (livello di evidenza L5). Indicazione originale: Pemfigo, malattia di Peyronie, fibromatosi del pene, sclerodermia…"
 monitor_inn: "benzoic acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
@@ -39,6 +39,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **10**
 ## Sintesi in una frase
 
 L'acido benzoico è presente nello sciroppo Paracodina. Nella base di conoscenza del modello sono associate ad esso indicazioni quali pemfigo, malattia di Peyronie, sclerodermia e dermatomiosite. Il modello TxGNN ne predice l'efficacia nella **bronchite**, ma senza **alcuno studio clinico** e con **soli 2 articoli** non pertinenti al farmaco: si tratta di una predizione puramente computazionale.
+
+<!-- review:begin it-lic-20261106-benzoic_acid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'acido benzoico è presente nello sciroppo Paracodina (autorizzazione ora cancellata in Italia).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-benzoic_acid-1 -->
 
 ---
 
@@ -112,11 +118,31 @@ Queste segnalazioni vanno verificate sulle fonti ufficiali. Non sono state trova
 **Motivazione:**
 La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto.
 
+<!-- review:begin it-lic-20261106-benzoic_acid-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto e l'unica autorizzazione italiana è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-benzoic_acid-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni, per la valutazione di sicurezza
 - Una ricerca bibliografica mirata sull'acido benzoico nella bronchite e, in alternativa, nelle fibromatosi (Dupuytren, Ledderhose), più coerenti con le indicazioni originali
 - Verifica della disponibilità di una formulazione e di una via di somministrazione adatte all'indicazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «(autorizzazione ora cancellata in Italia)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

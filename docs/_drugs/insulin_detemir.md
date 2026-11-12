@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -81,6 +81,12 @@ Sono riportati i 10 studi più rilevanti per il diabete di tipo 1, scelti tra i 
 
 Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità a RCT e revisioni sistematiche).
 
+<!-- review:begin it-lic-20261106-insulin_detemir-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_detemir-2 -->
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
 | [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | Studio EXPECT: degludec vs detemir (con aspart) in donne in gravidanza con diabete di tipo 1, non inferiorità |
@@ -121,12 +127,32 @@ Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità
 **Motivazione:**
 Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Le altre indicazioni previste non hanno alcuna evidenza clinica e restano in attesa.
 
+<!-- review:begin it-lic-20261031-insulin_detemir-1 -->
+
+> **Correzione di verifica (2026-10-31)**: Testo originale: «Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazioni revocate".» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261031-insulin_detemir-1 -->
+
 **Per procedere sono necessari:**
 - Verifica della disponibilità e della fornitura del prodotto in Italia, data la revoca dell'unica autorizzazione.
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per completare la valutazione di sicurezza.
 - Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank.
 - Piano di monitoraggio dell'ipoglicemia e gestione delle numerose interazioni farmacologiche.
 - Per le indicazioni previste diverse dal diabete di tipo 1, nuove evidenze cliniche prima di qualsiasi valutazione. L'agenesia pancreatica è l'unica con una logica terapeutica plausibile.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Rimosso: «Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazion» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

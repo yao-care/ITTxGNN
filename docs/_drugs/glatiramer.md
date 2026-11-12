@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Glatiramer: nuova indicazione prevista, Emoglobinopatia (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati per questo report (le autorizzazioni…"
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
@@ -64,6 +64,12 @@ Il punteggio elevato di TxGNN è un risultato del modello TxGNN (deep learning),
 
 Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
+<!-- review:begin it-lic-20261106-glatiramer-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-glatiramer-1 -->
+
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
@@ -92,11 +98,31 @@ Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si riman
 **Motivazione:**
 La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile.
 
+<!-- review:begin it-lic-20261106-glatiramer-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile. Inoltre, in Italia non vi sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-glatiramer-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank) per valutare un eventuale collegamento biologico con le emoglobinopatie
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Studi preclinici o mirati che mostrino un'attività di glatiramer in modelli di emoglobinopatia
 - Verifica dello stato regolatorio attuale e della disponibilità del prodotto in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

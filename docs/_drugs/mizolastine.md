@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Mizolastine"
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]
 description: "Mizolastine: nuova indicazione prevista, Porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -88,12 +88,38 @@ Per le avvertenze, le controindicazioni e le altre informazioni di sicurezza si 
 **Motivazione:**
 La previsione per la porfiria acuta intermittente si basa solo sul punteggio TxGNN (livello di evidenza L5), senza studi clinici, letteratura o un meccanismo plausibile.
 
+<!-- review:begin it-lic-20261106-mizolastine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la porfiria acuta intermittente si basa solo sul punteggio TxGNN (livello di evidenza L5), senza studi clinici, letteratura o un meccanismo plausibile. Inoltre, il farmaco non ha autorizzazioni valide in Italia (l'unica è cancellata) e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mizolastine-1 -->
+
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente una lacuna bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione (ad es. da DrugBank) per analizzare un possibile legame meccanicistico
 - Revisione della sicurezza degli antistaminici nei pazienti con porfiria
 - Studi preclinici o revisione della letteratura che giustifichino un legame con la porfiria acuta intermittente
 - Valutazione della fattibilità regolatoria e commerciale
+
+<!-- review:begin it-lic-20261106-mizolastine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della fattibilità regolatoria e commerciale, dato che l'autorizzazione italiana è cancellata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mizolastine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha autorizzazioni valide in Italia (l'unica è cancellata) e mancano i dati di sicurezza del foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

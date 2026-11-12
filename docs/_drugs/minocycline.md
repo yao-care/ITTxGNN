@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 description: "Minocycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
@@ -95,12 +95,38 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 La predizione ha un punteggio molto alto, ma non è supportata da alcuno studio clinico o pubblicazione (livello L5).
 
+<!-- review:begin it-lic-20261106-minocycline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione ha un punteggio molto alto, ma non è supportata da alcuno studio clinico o pubblicazione (livello L5). In più, l'autorizzazione italiana è cancellata e mancano i dati di sicurezza da foglietto illustrativo, una lacuna bloccante per lo screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-minocycline-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Ricerca sistematica di letteratura e studi clinici sull'uso della minociclina nelle patologie della superficie oculare
 - Valutare la compatibilità della via di somministrazione (sistemica o oftalmica), oggi non definita
 - Chiarire lo stato regolatorio
+
+<!-- review:begin it-lic-20261106-minocycline-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-minocycline-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In più, l'autorizzazione italiana è cancellata e mancano i dati di sicurezza da foglietto illustrativo, una lacuna bloccante per lo screenin» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

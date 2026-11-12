@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -103,6 +103,25 @@ La previsione poggia solo sul punteggio del modello (livello L5), senza studi cl
 - Le avvertenze e controindicazioni dal foglio illustrativo AIFA, con una valutazione specifica del rischio convulsivo
 - Chiarimenti sullo stato regolatorio attuale in Italia
 - Una valutazione di compatibilità di via di somministrazione e di similarità con l'indicazione originale
+
+<!-- review:begin it-lic-20261106-levodopa-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimenti sullo stato regolatorio attuale in Italia (le autorizzazioni risultano tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-levodopa-1 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «(le autorizzazioni risultano tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

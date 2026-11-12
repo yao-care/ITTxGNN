@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
 description: "Evolocumab: nuova indicazione prevista, Forma sintomatica di emofilia nelle portatrici (symptomatic form of hemophilia in female carriers) (livello di evidenza L5). Indicazione originale: Non riporta…"
@@ -77,6 +77,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Al momento non è disponibile letteratura correlata.
 
+<!-- review:begin it-lic-20261106-evolocumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-evolocumab-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -103,12 +109,32 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX.
 
+<!-- review:begin it-lic-20261106-evolocumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX. Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per lo screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-evolocumab-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (gap bloccante)
 - Completare i dati sul meccanismo d'azione (DrugBank)
 - Una rivalutazione biologica che chiarisca se esista un qualsiasi razionale per l'emofilia nelle portatrici
 - Valutare candidati alternativi con maggiore plausibilità (in particolare il deficit di apoC-II), tenendo presente che servirebbero comunque dati clinici
 - Chiarire la situazione regolatoria in Italia (motivo e data della cancellazione, eventuali altre confezioni di Repatha in commercio)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

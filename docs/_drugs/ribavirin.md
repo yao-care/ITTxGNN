@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 377
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
 description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -105,6 +105,12 @@ Non sono presenti studi randomizzati: si tratta quasi esclusivamente di revision
 
 Questo incide sulla fattibilità.
 
+<!-- review:begin it-lic-20261106-ribavirin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione è cancellata: attualmente non risulta alcun prodotto a base di ribavirina in commercio in Italia secondo i dati compilati. Questo incide sulla fattibilità.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ribavirin-1 -->
+
 ## Citotossicità
 
 La ribavirina è un antimetabolita nucleosidico antivirale, non un antineoplastico: la sezione non si applica.
@@ -138,6 +144,12 @@ Le altre nove predizioni (rank 2-10) hanno evidenza molto debole e raccomandazio
 **Motivazione:**
 L'unico studio di fase 3 mirato all'HBV usa la ribavirina in associazione a peginterferone, senza isolarne il contributo. L'attività anti-HBV diretta è debole e non vi sono prove di superiorità rispetto agli standard attuali. Mancano i dati di sicurezza AIFA.
 
+<!-- review:begin it-lic-20261106-ribavirin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esiste alcun prodotto autorizzato in commercio in Italia e mancano i dati di sicurezza AIFA.» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ribavirin-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
 - Acquisire dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
@@ -145,6 +157,27 @@ L'unico studio di fase 3 mirato all'HBV usa la ribavirina in associazione a pegi
 - Confrontare con gli analoghi nucleos(t)idici e il peginterferone da soli
 - Valutare la fattibilità regolatoria e commerciale
 - Definire un piano di monitoraggio della sicurezza (in particolare anemia emolitica e rischio cardiovascolare) e considerare la teratogenicità
+
+<!-- review:begin it-lic-20261106-ribavirin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria e commerciale, dato che l'autorizzazione italiana è cancellata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ribavirin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «L'unica autorizzazione è cancellata: attualmente non risulta alcun prodotto a base di ribavirina in commercio in Italia secondo i dati compi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre non esiste alcun prodotto autorizzato in commercio in Italia e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

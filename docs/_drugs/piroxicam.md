@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -70,6 +70,12 @@ Attualmente non risulta letteratura correlata disponibile.
 
 Delle 11 autorizzazioni, sono elencate le prime 5.
 
+<!-- review:begin it-lic-20261106-piroxicam-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-piroxicam-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
 | 033788011 | PIROXICAM 30 cps 20 mg | DOC Generici Srl | Valida |
@@ -101,6 +107,12 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 **Motivazione:**
 - La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-piroxicam-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile. / Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-piroxicam-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e un'ipotesi biologica che colleghi il piroxicam alla patogenesi della sindrome.
 - Studi preclinici o descrizioni di casi a supporto.
@@ -108,6 +120,20 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 - Una verifica della fattibilità regolatoria, data l'assenza di autorizzazioni valide.
 
 **Nota:** tra le altre indicazioni previste, solo l'**artrite idiopatica giovanile** ha una base di letteratura. Comprende uno studio multicentrico del 1986 che confronta piroxicam e naprossene, dati farmacocinetici pediatrici e revisioni sistematiche con meta-analisi di rete sui FANS. Questa indicazione (livello L3) merita una valutazione separata come domanda di ricerca, perché è vicina all'uso originale del farmaco nelle artropatie.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «tutte risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

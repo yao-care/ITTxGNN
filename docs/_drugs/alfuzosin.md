@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Alfuzosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -95,11 +95,37 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Motivazione:**
 La previsione si basa solo sul modello (L5), senza studi clinici, letteratura o razionale farmacologico plausibile. Il profilo di sicurezza ufficiale non è disponibile.
 
+<!-- review:begin it-lic-20261106-alfuzosin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esistono autorizzazioni valide in Italia e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-alfuzosin-1 -->
+
 **Per procedere occorre:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Completare i dati sul meccanismo d'azione (ad es. da DrugBank)
 - Individuare un razionale biologico che colleghi il blocco alfa-1 alla patologia prevista, con studi preclinici
 - Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio
+
+<!-- review:begin it-lic-20261106-alfuzosin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-alfuzosin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «noltre non esistono autorizzazioni valide in Italia e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Mometasone: nuova indicazione prevista, Linfoma cutaneo primitivo a cellule T (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 monitor_inn: "MOMETASONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -85,6 +85,12 @@ Nessuna delle due pubblicazioni dimostra l'efficacia del mometasone nel linfoma 
 
 Le forme farmaceutiche sono dedotte dal nome del prodotto.
 
+<!-- review:begin it-lic-20261106-mometasone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in totale 7 autorizzazioni, tutte annullate; qui sono elencate le prime 5. Le forme farmaceutiche sono dedotte dal nome del prodotto.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mometasone-1 -->
+
 ## Citotossicità
 
 Il mometasone non è un farmaco antineoplastico (è un corticosteroide), pertanto questa sezione non è applicabile.
@@ -102,12 +108,32 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 Il collegamento meccanicistico con i corticosteroidi topici nella micosi fungoide è plausibile, ma la predizione si basa solo sul modello TxGNN: non ci sono sperimentazioni cliniche e le due pubblicazioni disponibili sono casi clinici non dimostrativi.
 
+<!-- review:begin it-lic-20261106-mometasone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il collegamento meccanicistico con i corticosteroidi topici nella micosi fungoide è plausibile, ma la predizione si basa solo sul modello TxGNN: non ci sono sperimentazioni cliniche e le due pubblicazioni disponibili sono casi clinici non dimostrativi. Inoltre, in Italia tutte le autorizzazioni del mometasone presenti nei dati risultano annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mometasone-2 -->
+
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze, controindicazioni, indicazioni approvate), indispensabile per la valutazione di sicurezza
 - Completare i dati sul meccanismo d'azione originale (ad es. tramite DrugBank)
 - Verificare lo stato regolatorio attuale e la disponibilità commerciale di formulazioni di mometasone in Italia
 - Raccogliere evidenze cliniche specifiche sul mometasone nel linfoma cutaneo a cellule T (studi osservazionali, revisioni sui corticosteroidi topici nella micosi fungoide)
 - Valutare la compatibilità della via di somministrazione (cutanea) con la nuova indicazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti in totale 7 autorizzazioni, tutte annullate; qui sono elencate le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni del mometasone presenti nei dati risultano annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

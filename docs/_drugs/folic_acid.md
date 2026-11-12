@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "folic acid"
 predicted_indications: ["biotin metabolic disease"]
 description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -83,6 +83,12 @@ Le pubblicazioni raccolte sono quasi tutte revisioni narrative o studi indiretti
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Le principali autorizzazioni:
 
+<!-- review:begin it-lic-20261106-folic_acid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-folic_acid-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 045545023 | ACIDO FOLICO*28 cpr 5 mg | EG SpA | Valida |
@@ -105,11 +111,38 @@ Per avvertenze e controindicazioni ufficiali consultare il foglietto illustrativ
 **Motivazione:**
 La previsione si fonda solo sul modello (L5): nessuno studio clinico, letteratura non specifica e nessun meccanismo plausibile, dato che il trattamento standard è la biotina.
 
+<!-- review:begin it-lic-20261106-folic_acid-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda solo sul modello (L5): nessuno studio clinico, letteratura non specifica e nessun meccanismo plausibile, dato che il trattamento standard è la biotina. Inoltre in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-folic_acid-2 -->
+
 **Per procedere sono necessari:**
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un limite bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Evidenze precliniche o cliniche che colleghino direttamente l'acido folico ai difetti del metabolismo della biotina
 - Verifica del contesto regolatorio
+
+<!-- review:begin it-lic-20261106-folic_acid-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica del contesto regolatorio, poiché tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-folic_acid-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre in Italia non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

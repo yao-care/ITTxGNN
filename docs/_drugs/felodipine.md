@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Felodipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -114,12 +114,38 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Motivazione:**
 - L'indicazione con il punteggio più alto si basa solo su una predizione computazionale (L5), senza studi né letteratura; le indicazioni ipertensive maligne sono estensioni dell'uso originale. Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata.
 
+<!-- review:begin it-lic-20261106-felodipine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata e tutte le autorizzazioni italiane della felodipina sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-felodipine-1 -->
+
 **Per procedere sono necessari:**
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (dato mancante bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione dettagliato (ad es. da DrugBank)
 - Verifica del disegno degli studi sull'angina di Prinzmetal tramite lettura dei testi completi
 - Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato
 - Per l'ipertensione polmonare, dati clinici specifici sul sottogruppo vasoreattivo
+
+<!-- review:begin it-lic-20261106-felodipine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato (solo autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-felodipine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane della felodipina sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

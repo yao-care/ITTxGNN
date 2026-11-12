@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Moxonidine"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
 description: "Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -101,12 +101,38 @@ Per le altre informazioni di sicurezza (avvertenze e controindicazioni) si riman
 **Motivazione:**
 La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-moxonidine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile. Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-moxonidine-1 -->
+
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione della moxonidina e analisi di un possibile legame con la biologia del follicolo pilifero
 - Dati preclinici (ad es. modelli di follicolo pilifero) che giustifichino l'ipotesi
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
 - Verifica dello stato regolatorio
 - Eventuale rivalutazione delle previsioni di ambito ipertensivo (ipertensione renovascolare maligna e nefropatia ipertensiva maligna, livello L4), più coerenti con il meccanismo noto del farmaco, come "domande di ricerca" da approfondire con una revisione della letteratura
+
+<!-- review:begin it-lic-20261106-moxonidine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-moxonidine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

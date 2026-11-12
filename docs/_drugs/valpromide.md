@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Valpromide: nuova indicazione prevista, Insonnia (livello di evidenza L5). Indicazione originale: Non disponibile"
 monitor_inn: "VALPROMIDE"
 predicted_indications: ["insomnia (disease)"]
@@ -87,12 +87,38 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Motivazione:**
 L'evidenza è al livello L5: la predizione si basa solo sul modello, con una singola serie di casi del 1999 e nessuno studio clinico registrato. Mancano dati su meccanismo e sicurezza.
 
+<!-- review:begin it-lic-20261106-valpromide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il farmaco non è più commercializzato in Italia (unica licenza cancellata) e mancano dati su meccanismo e sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valpromide-1 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), necessari per lo screening di sicurezza
 - Dati sul meccanismo d'azione di valpromide (ad es. da DrugBank)
 - Chiarimento dell'indicazione originale e della relazione con l'insonnia
 - Studi clinici o revisioni della letteratura più solidi sull'uso in insonnia
 - Valutazione della fattibilità regolatoria
+
+<!-- review:begin it-lic-20261106-valpromide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della fattibilità regolatoria, dato lo stato di autorizzazione cancellata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valpromide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Il farmaco non è più commercializzato in Italia (unica licenza cancellata) e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazione cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

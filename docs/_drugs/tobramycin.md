@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 439
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -122,6 +122,12 @@ Per le avvertenze e le controindicazioni ufficiali occorre consultare il foglio 
 **Motivazione:**
 Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici.
 
+<!-- review:begin it-lic-20261106-tobramycin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici. Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tobramycin-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione
 - Foglio illustrativo AIFA con avvertenze e controindicazioni
@@ -133,6 +139,19 @@ Per la cheratite da esposizione non esistono sperimentazioni né letteratura dir
 ### Altre indicazioni previste (breve nota)
 
 Tra le altre predizioni, l'**otite esterna** (punteggio 0,9981, livello L4) è biologicamente plausibile, perché *Pseudomonas aeruginosa* e *S. aureus* rientrano nello spettro della tobramicina. Le evidenze sono però solo casi clinici, studi di sensibilità e dati veterinari, con rischio di ototossicità in caso di perforazione timpanica; è considerata una domanda di ricerca. Le restanti predizioni (ad esempio sindrome emolitico-uremica da infezione o cardiomiopatia di Chagas) non hanno un razionale meccanicistico né evidenze cliniche.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

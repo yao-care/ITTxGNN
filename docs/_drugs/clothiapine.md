@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "clothiapine"
 predicted_indications: ["insomnia (disease)"]
 description: "Clothiapine: nuova indicazione prevista, Insonnia (livello di evidenza L5)."
@@ -76,6 +76,12 @@ Al momento non risultano studi clinici correlati registrati.
 
 Al momento non è disponibile letteratura correlata.
 
+<!-- review:begin it-lic-20261106-clothiapine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione presente risulta cancellata: attualmente non c'è alcun prodotto a base di clotiapina con autorizzazione valida in Italia secondo i dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clothiapine-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -105,12 +111,39 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Motivazione:**
 La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura. Mancano i dati di sicurezza, il che impedisce di passare alla valutazione di sicurezza.
 
+<!-- review:begin it-lic-20261106-clothiapine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza, il che impedisce di passare alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clothiapine-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante).
 - Ottenere i dati sul meccanismo d'azione da DrugBank e verificare l'ipotesi H1/5-HT2A.
 - Cercare studi clinici e letteratura sull'uso della clotiapina nell'insonnia.
 - Chiarire l'indicazione originaria e la compatibilità delle vie di somministrazione.
 - Valutare la fattibilità regolatoria.
+
+<!-- review:begin it-lic-20261106-clothiapine-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clothiapine-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «L'unica autorizzazione presente risulta cancellata: attualmente non c'è alcun prodotto a base di clotiapina con autorizzazione valida in Ita» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

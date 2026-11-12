@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -67,6 +67,12 @@ I dati compilati attuali mostrano due lacune critiche nei dati:
 
 In assenza di "nuove indicazioni predette", non è possibile confrontare la sovrapposizione meccanicistica tra l'indicazione originale e le nuove indicazioni, né è possibile giudicare se questo farmaco candidato meriti un'ulteriore valutazione.
 
+<!-- review:begin it-lic-20261106-dabigatran-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «DABIGATRAN non ha alcun record di autorizzazione di commercializzazione in Italia (`total_licenses: 0`, `licenses` vuoto).» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dabigatran-2 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -94,6 +100,32 @@ I dati compilati di DABIGATRAN presentano molteplici lacune critiche nei dati (i
 - **\[High\] Analizza i dati di sicurezza del foglio illustrativo**: scarica e analizza il PDF del foglio illustrativo, estrai avvertenze e controindicazioni, popola il campo `safety`
 - **\[Medium\] Conferma lo stato di commercializzazione in Italia (AIFA)**: DABIGATRAN (Pradaxa®) è un farmaco noto come commercializzato in Europa, si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione
 - **Dopo il completamento dei dati, genera nuovamente i dati compilati**, quindi procedi con il processo completo di valutazione del riposizionamento
+
+<!-- review:begin it-lic-20261106-dabigatran-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**\[Medium\] Conferma lo stato di commercializzazione in Italia (AIFA)**: DABIGATRAN (Pradaxa®) è un farmaco noto come commercializzato in Europa, si consiglia di interrogare direttamente il database AIFA per confermare l'autorizzazione, aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dabigatran-1 -->
+
+<!-- review:begin it-lic-20261106-dabigatran-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**\[High\] Analizza i dati di sicurezza del foglio illustrativo**: scarica e analizza il PDF del foglio illustrativo TFDA (il `query_log` mostra che la query è riuscita), estrai avvertenze e controindicazioni, popola il campo `safety`» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dabigatran-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «aggiorna il campo `taiwan_regulatory` (dovrebbe essere regolato a `italy_regulatory`)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «DABIGATRAN non ha alcun record di autorizzazione di commercializzazione in Italia (`total_licenses: 0`, `licenses` vuoto)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «TFDA (il `query_log` mostra che la query è riuscita)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

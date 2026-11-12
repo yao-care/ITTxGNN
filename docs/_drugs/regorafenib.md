@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 376
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -125,15 +125,41 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo, non dis
 **Motivazione:**
 Esiste uno studio di fase 2 completato (n=131) con braccio dedicato al liposarcoma, ma il suo esito è negativo: gli autori non supportano l'uso routinario del farmaco. Il punteggio TxGNN elevato non è dunque confermato dai dati clinici, e qualsiasi ulteriore sviluppo dovrebbe limitarsi a ricerca esplorativa, ad esempio con terapie di combinazione.
 
+<!-- review:begin it-lic-20261106-regorafenib-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il punteggio TxGNN elevato non è dunque confermato dai dati clinici, e qualsiasi ulteriore sviluppo dovrebbe limitarsi a ricerca esplorativa, ad esempio con terapie di combinazione. Inoltre, l'unica autorizzazione italiana risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-regorafenib-1 -->
+
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica dei risultati primari per sottotipo di liposarcoma e valutazione di approcci combinati
 - Chiarimento dello stato regolatorio in Italia
 
+<!-- review:begin it-lic-20261106-regorafenib-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazione cancellata)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-regorafenib-2 -->
+
 ---
 
 *Nota sugli altri candidati: le altre indicazioni previste (carcinoma renale a cellule chiare e relative varianti, sarcoma vulvare, liposarcoma mixoide ovarico) hanno evidenza limitata o assente. Per il carcinoma renale a cellule chiare esiste uno studio di fase 2 a braccio singolo (PMID 22959186) e uno studio di base fase 1/2 in combinazione con avelumab (NCT03475953), ma il candidato resta una domanda di ricerca. Le altre varianti sono in stato Hold, solo predizione computazionale.*
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazione cancellata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

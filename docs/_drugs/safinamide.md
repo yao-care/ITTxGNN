@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Safinamide: nuova indicazione prevista, Encefalite subacuta di Rasmussen (livello di evidenza L5). Indicazione originale: Malattia di Parkinson (e sindromi parkinsoniane correlate)"
 monitor_inn: "SAFINAMIDE"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -108,11 +108,30 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Motivazione:**
 La previsione si basa esclusivamente sul punteggio TxGNN, senza alcuna sperimentazione clinica o pubblicazione di supporto (livello L5). Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo.
 
+<!-- review:begin it-lic-20261106-safinamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo. Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-safinamide-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti verificate
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati preclinici o case report a sostegno dell'indicazione prevista; tra le candidate, la neurodegenerazione associata a PLA2G6 appare la più promettente da approfondire
 - Verifica dello stato regolatorio attuale e della disponibilità del prodotto in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

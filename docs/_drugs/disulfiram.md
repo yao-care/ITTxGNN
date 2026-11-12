@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -76,6 +76,12 @@ Attualmente nessun trial clinico correlato registrato — i dati di `predicted_i
 
 Attualmente nessuna letteratura correlata disponibile — i dati di `predicted_indications` sono vuoti e nessuna indicazione target è stata identificata.
 
+<!-- review:begin it-lic-20261106-disulfiram-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è attualmente commercializzato in Italia.» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disulfiram-1 -->
+
 ---
 
 ## Informazioni sul Mercato Italiano
@@ -87,6 +93,12 @@ Attualmente nessuna letteratura correlata disponibile — i dati di `predicted_i
 Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
 
 > La query DDI ha inoltre restituito nessun risultato. Tutte e tre le categorie di dati di sicurezza richiedono un follow-up prima che sia possibile qualsiasi valutazione della sicurezza clinica.
+
+<!-- review:begin it-lic-20261106-disulfiram-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «> Nota: Sebbene la query del foglio illustrativo TFDA (`tfda_package_insert`) abbia restituito uno stato di successo con 1 risultato, i campi di sicurezza strutturati (avvertenze, controindicazioni) non sono stati analizzati nel Fascicolo di Evidenze. La query DDI ha inoltre restituito nessun risultato.» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disulfiram-2 -->
 
 ---
 
@@ -104,6 +116,33 @@ Questo Fascicolo di Evidenze manca dei tre input minimi richiesti per una valuta
 3. **Recuperare MOA da DrugBank API** (DG002, Alta) — la query di DrugBank ha restituito un risultato ma MOA rimane non compilato; questo è necessario per l'analisi di plausibilità meccanicistica
 4. **Integrare i dati DDI da una fonte alternativa** — la query DDI corrente ha restituito `not_found`; consultare il database DrugBank DDI o MICROMEDEX per escludere i rischi di interazione
 5. **Controllare i database EMA / FDA per le indicazioni approvate** — le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto
+
+<!-- review:begin it-lic-20261106-disulfiram-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Analizzare il contenuto del foglio illustrativo TFDA** (DG001, Blocco) — la query ha restituito un risultato ma i dati di sicurezza strutturati non sono stati estratti; avvertenze e controindicazioni devono essere compilate prima che qualsiasi screening di sicurezza sia possibile» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disulfiram-3 -->
+
+<!-- review:begin it-lic-20261106-disulfiram-4 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Controllare i database EMA / FDA per le indicazioni approvate** — poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-disulfiram-4 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è att» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Nota: Sebbene la query del foglio illustrativo TFDA (`tfda_package_insert`) abbia restituito uno stato di successo con 1 risultato, i campi » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «TFDA» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché l'Italia ha 0 autorizzazioni» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

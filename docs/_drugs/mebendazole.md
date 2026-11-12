@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -116,6 +116,25 @@ La predizione si basa unicamente sul modello (livello L5), senza studi clinici, 
 - Studi preclinici (es. modelli in vitro/animali di acne) o una ricerca bibliografica mirata su mebendazolo e dermatosi infiammatorie
 - Valutazione della compatibilità della via di somministrazione (per l'acne sarebbe verosimilmente rilevante una formulazione topica, non presente nei dati)
 - Chiarimento della situazione regolatoria
+
+<!-- review:begin it-lic-20261106-mebendazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mebendazole-1 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

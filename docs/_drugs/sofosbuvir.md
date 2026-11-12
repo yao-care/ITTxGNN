@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 408
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -76,6 +76,12 @@ Studi relativi all'epatite E:
 
 Studi più rilevanti per l'epatite B (rango 1), da leggere come questione di sicurezza e non di efficacia:
 
+<!-- review:begin it-lic-20261106-sofosbuvir-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sofosbuvir-1 -->
+
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
 | [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Fase 2 | Completato | 21 | Ledipasvir/sofosbuvir per 12 settimane in soggetti con infezione da HBV; a braccio singolo, piccolo, in combinazione |
@@ -137,12 +143,39 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 **Motivazione:**
 - L'unica direzione con razionale meccanicistico e prime prove cliniche dirette è l'epatite E, ma lo studio pilota (n=10) non ha ottenuto una risposta virologica sostenuta e ha mostrato varianti di resistenza. Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica.
 
+<!-- review:begin it-lic-20261106-sofosbuvir-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sofosbuvir-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) provenienti da DrugBank.
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Studi controllati e di maggiori dimensioni sull'epatite E (ad esempio sofosbuvir in combinazione con ribavirina in pazienti refrattari), con endpoint di risposta virologica sostenuta.
 - Un piano di monitoraggio della riattivazione dell'HBV per le popolazioni co-infette.
 - Chiarimento della posizione regolatoria in Italia.
+
+<!-- review:begin it-lic-20261106-sofosbuvir-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della posizione regolatoria in Italia, dato che le autorizzazioni attuali sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-sofosbuvir-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni attuali sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

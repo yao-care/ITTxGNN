@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Etoricoxib: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -94,6 +94,12 @@ Per indicazioni correlate (cefalee e altre forme):
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si elencano le prime 5:
 
+<!-- review:begin it-lic-20261106-etoricoxib-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-etoricoxib-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 043747068 | Etoricoxib 60 mg, 20 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
@@ -116,12 +122,39 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da un meccanismo plausibile, senza studi clinici né letteratura diretta su etoricoxib. Le cefalee primarie rare (cefalea a stilettata, cefalee responsive all'indometacina) mostrano segnali aneddotici come possibile linea di ricerca (livello L4).
 
+<!-- review:begin it-lic-20261106-etoricoxib-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da un meccanismo plausibile, senza studi clinici né letteratura diretta su etoricoxib. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-etoricoxib-2 -->
+
 **Per procedere, è necessario:**
 - Recuperare avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Condurre una revisione sistematica della letteratura sugli inibitori COX-2 nell'emicrania ed eventualmente studi controllati
 - Valutare il profilo cardiovascolare, renale e neurovascolare nei pazienti candidati
 - Chiarire la situazione regolatoria
+
+<!-- review:begin it-lic-20261106-etoricoxib-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la situazione regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-etoricoxib-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

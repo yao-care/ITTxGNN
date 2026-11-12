@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FROVATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Frovatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,6 +108,12 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 - **Controindicazioni (da relazioni farmaco-malattia nel grafo di conoscenza, non dal foglietto illustrativo)**: ipertensione, diabete mellito e chetoacidosi diabetica, coronaropatia, vasospasmo coronarico e angina di Prinzmetal, ischemia miocardica, ictus e disturbi cerebrovascolari, infarto cerebrale, attacco ischemico transitorio, insufficienza vertebrobasilare, arresto cardiaco improvviso, malattie della conduzione cardiaca, arteriopatia periferica e claudicatio intermittens, malattia di Raynaud, ischemia intestinale, sindrome serotoninergica, emicrania emiplegica familiare o sporadica, obesità. In particolare, l'insufficienza vertebrobasilare e l'emicrania emiplegica sono rilevanti per l'indicazione prevista, data la vicinanza con l'aura del tronco encefalico.
 - **Interazioni farmacologiche**: sono state identificate 31 interazioni; tra quelle di gravità **maggiore** figurano dolasetron, palonosetron, ondansetron, granisetron (antiemetici 5-HT3), lorcaserina, fenfluramina, destrofenfluramina, sibutramina e blu di metilene (rischio di sindrome serotoninergica o effetti serotoninergici additivi). Di gravità **moderata**: morfina, codeina, idrocodone e deferasirox.
 
+<!-- review:begin it-lic-20261106-frovatriptan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-frovatriptan-1 -->
+
 Per le avvertenze complete fare riferimento al foglietto illustrativo.
 
 ---
@@ -119,12 +125,32 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Motivazione:**
 Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione.
 
+<!-- review:begin it-lic-20261106-frovatriptan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione. Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-frovatriptan-2 -->
+
 **Per procedere sono necessari:**
 - Dati di meccanismo d'azione (MOA) completi
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Revisione della letteratura e dei dati di sicurezza specifici sull'uso dei triptani nell'aura del tronco encefalico
 - Chiarimento dello stato regolatorio e della reale disponibilità del farmaco in Italia
 - Eventuale studio clinico esplorativo con criteri rigorosi di esclusione per i pazienti a rischio cardiovascolare e cerebrovascolare
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

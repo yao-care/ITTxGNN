@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Zonisamide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Epilessia (crisi parziali)"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -103,6 +103,12 @@ Il modello ha prodotto altre previsioni con punteggi simili. Nessuna ha evidenza
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
+<!-- review:begin it-lic-20261106-zonisamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate). Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'indicazione di prodotti monocomponente o in associazione non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-zonisamide-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -138,6 +144,19 @@ Per la sindrome di Tourette esiste solo una previsione del modello (L5), senza s
 - Verificare lo stato regolatorio attuale (motivo dell'annullamento delle autorizzazioni, eventuali alternative di mercato)
 - Revisione sistematica della letteratura sullo zonisamide nei disturbi da tic e confronto con i trattamenti standard
 - Se si desidera un'indicazione con razionale più forte, valutare in via prioritaria le **assenze epilettiche** (L3), che sono un'estensione all'interno della stessa area terapeutica, tramite studi controllati e confronto con etosuccimide/valproato
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

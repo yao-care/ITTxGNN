@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lenograstim: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (testo dell'indicazione assente…"
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
@@ -39,6 +39,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **4**
 ## Sintesi in una frase
 
 Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.
+
+<!-- review:begin it-lic-20261106-lenograstim-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per questo report non riportano un'indicazione approvata, perché il testo dell'indicazione è vuoto nell'unica autorizzazione AIFA, ormai cancellata. / Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lenograstim-1 -->
 
 ## Panoramica rapida
 
@@ -82,6 +88,12 @@ Attualmente non è disponibile letteratura correlata.
 
 Titolare: ITALFARMACO SpA.
 
+<!-- review:begin it-lic-20261106-lenograstim-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lenograstim-2 -->
+
 ## Considerazioni sulla sicurezza
 
 Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono state trovate interazioni farmacologiche nei dati compilati.
@@ -93,6 +105,12 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Motivazione:**
 La previsione si basa solo sul modello (L5), senza studi clinici né letteratura. Il meccanismo del G-CSF non è collegato in modo plausibile ai difetti qualitativi delle piastrine. Mancano i dati di sicurezza.
 
+<!-- review:begin it-lic-20261106-lenograstim-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lenograstim-3 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione (ad esempio da DrugBank)
@@ -100,6 +118,21 @@ La previsione si basa solo sul modello (L5), senza studi clinici né letteratura
 - Ricerca sistematica di studi clinici e letteratura sulle indicazioni previste
 - Valutazione di compatibilità delle vie di somministrazione
 - Per la retinopatia diabetica, una valutazione specifica del rischio di neovascolarizzazione e infiammazione retinica
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «L'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

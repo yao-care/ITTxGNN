@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
 description: "Fluorouracil: nuova indicazione prevista, Botryoid-type embryonal rhabdomyosarcoma of the vagina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -109,12 +109,31 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 Le predizioni per il rabdomiosarcoma e per le altre indicazioni si basano solo sul punteggio del modello, senza studi clinici e con letteratura indiretta o preclinica. Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione.
 
+<!-- review:begin it-lic-20261106-fluorouracil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione. Inoltre, in Italia le due autorizzazioni sono entrambe revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fluorouracil-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sull'analisi del legame meccanicistico con il rabdomiosarcoma
 - Testi di avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze preclinico-cliniche specifiche sul fluorouracile nel rabdomiosarcoma, con confronto con i regimi standard
 - Valutazione della compatibilità della via di somministrazione, dato che le formulazioni italiane note sono topiche
 - Chiarimento dello stato regolatorio, vista la revoca di entrambe le autorizzazioni
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia le due autorizzazioni sono entrambe revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

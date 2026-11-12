@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -93,6 +93,12 @@ Per la congiuntivite, attualmente non risultano studi clinici registrati correla
 
 Esiste una sesta autorizzazione (RIFATER, 40 cpr rivestite, n. 026981011).
 
+<!-- review:begin it-lic-20261106-rifampicin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «026981011). Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rifampicin-1 -->
+
 ## Considerazioni sulla sicurezza
 
 - **Controindicazioni (da relazioni farmaco-malattia del grafo di conoscenza, non dal foglietto illustrativo):** insufficienza epatica e malattie epatiche (inclusa epatite), porfiria e disturbi del metabolismo delle porfirine, malattie della colecisti, trombocitopenia, neutropenia, agranulocitosi, pancitopenia, anemia (inclusa aplastica e macrocitica), diabete mellito e chetoacidosi diabetica, gotta, neuropatia periferica, abuso/dipendenza da sostanze, stato di acetilatore lento, meningite non infettiva, disturbi d'ansia e disturbi nevrotici/distimici.
@@ -106,6 +112,12 @@ Per avvertenze e precauzioni d'uso consultare il foglietto illustrativo.
 
 **Motivazione:**
 La predizione è biologicamente plausibile per le congiuntiviti batteriche e clamidiali, ma le evidenze si limitano a studi datati, dati di sensibilità e case report, senza studi registrati. Esistono inoltre alternative topiche più sicure e consolidate.
+
+<!-- review:begin it-lic-20261106-rifampicin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esistono inoltre alternative topiche più sicure e consolidate, e in Italia non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rifampicin-2 -->
 
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da fonti dedicate
@@ -121,6 +133,19 @@ La predizione è biologicamente plausibile per le congiuntiviti batteriche e cla
 | Acne | 0,9974 | L4 | Letteratura riferita soprattutto all'idrosadenite suppurativa (rifampicina + clindamicina); evidenza indiretta | Hold |
 | Infezione da HIV | 0,9959 | L4 | Gli studi riguardano la coinfezione HIV-TB, non la rifampicina come terapia anti-HIV; utili per la gestione delle interazioni | Research Question |
 | Artrite reumatoide | 0,9945 | L3 | Piccoli studi clinici datati (1988-1993) non conclusivi; unico studio registrato di fase 1 farmacocinetico | Research Question |
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e in Italia non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

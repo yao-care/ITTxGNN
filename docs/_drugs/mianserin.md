@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
@@ -123,12 +123,38 @@ Per le avvertenze, le controindicazioni e le altre informazioni di sicurezza si 
 **Motivazione:**
 La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. Le predizioni più coerenti (distimia, melanconia, disturbi nevrotici) restano a livello di domanda di ricerca (Research Question), con evidenza indiretta o datata e in larga parte sovrapposta alle indicazioni già esistenti.
 
+<!-- review:begin it-lic-20261106-mianserin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile; inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mianserin-1 -->
+
 **Per procedere, sono necessari:**
 - Dati sul meccanismo d'azione dettagliato (MOA) da DrugBank
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Studi clinici o evidenze specifiche per la mianserina nella distimia
 - Valutazione del profilo di sicurezza ematologico e dello stato regolatorio
 - Se si intende proseguire, privilegiare il disturbo distimico rispetto al torcicollo parossistico benigno dell'infanzia
+
+<!-- review:begin it-lic-20261106-mianserin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione del profilo di sicurezza ematologico e dello stato regolatorio (autorizzazione revocata)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mianserin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazione revocata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

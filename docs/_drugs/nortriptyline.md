@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 323
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -83,6 +83,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 **Nota sul livello di evidenza:** i dati compilati assegnano L2 grazie agli studi controllati, ma non risulta alcuno studio di fase 2/3 completato e registrato. Il livello va quindi considerato prudenzialmente.
 
+<!-- review:begin it-lic-20261106-nortriptyline-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nortriptyline-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
@@ -111,12 +117,39 @@ Il foglio illustrativo AIFA non è disponibile, quindi avvertenze e controindica
 **Motivazione:**
 Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. Il punteggio TxGNN elevato, da solo, non basta a giustificare un avanzamento.
 
+<!-- review:begin it-lic-20261106-nortriptyline-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. In Italia inoltre non ci sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nortriptyline-2 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza.
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank).
 - Una valutazione formale dei dati degli studi controllati (11052409, 22700161) e della revisione Cochrane per stimare l'entità dell'effetto nell'ADHD.
 - Un piano di monitoraggio cardiovascolare (ECG, livelli sierici), soprattutto in popolazioni pediatriche.
 - Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni.
+
+<!-- review:begin it-lic-20261106-nortriptyline-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni, dato che le autorizzazioni risultano annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-nortriptyline-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia inoltre non ci sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni risultano annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 461
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "velpatasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Velpatasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (livello di evidenza L3)."
@@ -94,6 +94,12 @@ Il punteggio TxGNN elevato riflette probabilmente un'associazione generica con l
 
 Tutta la letteratura riguarda l'HCV o la co-infezione; nessuna pubblicazione dimostra un'efficacia di velpatasvir contro HBV.
 
+<!-- review:begin it-lic-20261106-velpatasvir-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-velpatasvir-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -128,13 +134,40 @@ Per avvertenze e controindicazioni consultare il foglio illustrativo.
 **Motivazione:**
 Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV.
 
+<!-- review:begin it-lic-20261106-velpatasvir-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV. Il prodotto non ha inoltre autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-velpatasvir-2 -->
+
 **Per procedere sono necessari:**
 - Dati preclinici (in vitro) sull'attività di velpatasvir contro HBV
 - Dati sul meccanismo d'azione
 - Testo di avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Chiarimento dello stato regolatorio italiano
 
+<!-- review:begin it-lic-20261106-velpatasvir-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio italiano (autorizzazioni attualmente cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-velpatasvir-3 -->
+
 **Nota sulle altre predizioni:** le altre indicazioni predette (epatite E, epatite A, febbre emorragica di Omsk, malattia della foresta di Kyasanur, HIV, SIV, FIV, un disturbo del neurosviluppo) sono prive di evidenze o meccanismi plausibili. Per l'HIV le evidenze riguardano solo il trattamento dell'HCV in pazienti co-infetti, già coperto dall'indicazione approvata.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Il prodotto non ha inoltre autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni attualmente cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

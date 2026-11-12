@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 450
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -124,12 +124,31 @@ Le avvertenze e le controindicazioni del foglietto illustrativo AIFA non sono di
 **Motivazione:**
 La previsione si basa solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Le due pubblicazioni recuperate per altre indicazioni (osteoartrite) non sono evidenze dirette.
 
+<!-- review:begin it-lic-20261106-tretinoin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le due pubblicazioni recuperate per altre indicazioni (osteoartrite) non sono evidenze dirette. Inoltre, in Italia l'unica autorizzazione è cancellata e il profilo di sicurezza dei retinoidi sistemici è rilevante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tretinoin-1 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Dati sul meccanismo d'azione (ad es. da DrugBank)
 - Ricerca mirata di letteratura e studi preclinici sul ruolo dei retinoidi nella noduolosi reumatoide e nelle artriti infiammatorie
 - Valutazione di fattibilità della via di somministrazione e della formulazione disponibile
 - Valutazione del profilo rischio-beneficio, in particolare teratogenicità e sicurezza nelle popolazioni specifiche
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia l'unica autorizzazione è cancellata e il profilo di sicurezza dei retinoidi sistemici è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

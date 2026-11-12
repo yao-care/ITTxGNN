@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -112,12 +112,31 @@ Per le avvertenze e le controindicazioni, consultare il foglio illustrativo: i d
 **Motivazione:**
 Il supporto è esclusivamente un punteggio computazionale elevato, senza studi clinici né letteratura per la sindrome delle gambe senza riposo. Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione.
 
+<!-- review:begin it-lic-20261106-oxybutynin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione e in Italia le due autorizzazioni esistenti sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oxybutynin-1 -->
+
 **Per procedere sono necessari:**
 - Una revisione indipendente della plausibilità biologica (dopamina, ferro, effetto degli anticolinergici sulla sindrome)
 - Una ricerca sistematica di letteratura e registri di studi su ossibutinina e sindrome delle gambe senza riposo
 - I dati sul meccanismo d'azione (DrugBank)
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni per la valutazione di sicurezza
 - La verifica dello stato commerciale attuale e delle formulazioni disponibili in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e in Italia le due autorizzazioni esistenti sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

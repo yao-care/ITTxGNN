@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "pibrentasvir"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -112,6 +112,12 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non risultan
 **Motivazione:**
 La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A.
 
+<!-- review:begin it-lic-20261106-pibrentasvir-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pibrentasvir-1 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione da DrugBank
 - Testi di avvertenze e controindicazioni dal foglio illustrativo AIFA
@@ -119,6 +125,19 @@ La previsione per l'epatite B si basa solo sul modello di rete (livello di evide
 - Chiarimento sulle ragioni della cancellazione delle autorizzazioni italiane
 
 **Nota sulle altre previsioni:** tra le altre indicazioni previste, solo l'infezione da HIV ha studi clinici di fase 3 (ad esempio EXPEDITION-2, NCT02738138), ma questi misurano la guarigione dell'HCV in pazienti coinfetti e non un'attività anti-HIV; si tratta quindi di un'estensione dell'indicazione originale e non di un vero riposizionamento. Tutte le altre previsioni hanno decisione Hold, senza evidenze a supporto.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 description: "Miglustat: nuova indicazione prevista, Autosomal ichthyosis syndrome with fatal disease course (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -61,6 +61,12 @@ Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registr
 Nella malattia di Tay-Sachs la carenza di esosaminidasi A causa l'accumulo del ganglioside GM2 nei neuroni. Ridurre la sintesi dei precursori di GM2 è quindi un razionale coerente con il meccanismo. Inoltre miglustat attraversa la barriera ematoencefalica, caratteristica rilevante per una malattia neuronopatica in cui le terapie enzimatiche sostitutive non raggiungono il sistema nervoso centrale.
 
 Il legame con le indicazioni originali è la comune natura di malattie lisosomiali da accumulo di glicosfingolipidi. Va però detto che i risultati clinici disponibili sono contrastanti: in due pazienti con Tay-Sachs infantile la terapia non ha arrestato il deterioramento neurologico, pur con concentrazioni significative del farmaco nel liquor e prevenzione della macrocefalia (PMID 16434676). Il report sulla revisione sistematica e lo studio randomizzato nella forma tardiva non descrivono nei dati compilati i risultati, quindi non è possibile confermarne le conclusioni.
+
+<!-- review:begin it-lic-20261106-miglustat-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-miglustat-1 -->
 
 ## Evidenza dagli studi clinici
 
@@ -132,6 +138,26 @@ Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma
 - Acquisire i dati sul meccanismo d'azione dal database dei farmaci
 - Chiarire la situazione regolatoria in Italia
 - Definire un piano di monitoraggio della sicurezza, in particolare per neuropatia periferica, funzione renale ed effetti gastrointestinali
+
+<!-- review:begin it-lic-20261106-miglustat-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la situazione regolatoria in Italia (autorizzazioni cessate, disponibilità del prodotto)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-miglustat-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cessate, disponibilità del prodotto)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

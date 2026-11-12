@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Moxifloxacina: nuova indicazione prevista, sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite, peritonite, congiuntivite, peste…"
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
@@ -97,12 +97,38 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglietto illu
 **Motivazione:**
 La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5).
 
+<!-- review:begin it-lic-20261106-moxifloxacin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5). Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-moxifloxacin-1 -->
+
 **Per procedere sarebbe necessario:**
 - Un razionale biologico plausibile e dati preclinici per la sindrome da iperviscosità policlonale
 - Dati sul meccanismo d'azione (MOA) da fonti dedicate
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Chiarimento dello stato regolatorio
 - In alternativa, valutare la pista della peste bubbonica come questione di ricerca: l'evidenza è solo preclinica, ma si tratta di un uso già vicino alle indicazioni originali
+
+<!-- review:begin it-lic-20261106-moxifloxacin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-moxifloxacin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

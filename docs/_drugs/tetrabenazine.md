@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 description: "Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -78,6 +78,12 @@ Per l'indicazione predetta principale non è disponibile alcuna letteratura corr
 
 *Nota:* per la predizione di rango 5 (malformazione toracica) è stato recuperato un solo lavoro, un case report su torcicollo spasmodico ed emangioma vertebrale (PMID [11293103](https://pubmed.ncbi.nlm.nih.gov/11293103/), 2001, Revista de neurologia). Si tratta di un'associazione incidentale, che non dimostra alcuna efficacia della tetrabenazina e non è pertinente all'indicazione principale.
 
+<!-- review:begin it-lic-20261106-tetrabenazine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tetrabenazine-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -113,11 +119,31 @@ Per le informazioni di sicurezza complete si rimanda al foglio illustrativo.
 **Motivazione:**
 La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-tetrabenazine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile. Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo di conoscenza (in particolare QT lungo, depressione/disturbi dell'umore e parkinsonismo).» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tetrabenazine-2 -->
+
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna attualmente bloccante per la valutazione di sicurezza
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Individuare un'ipotesi biologica plausibile che colleghi l'inibizione di VMAT2 alla fisiopatologia della malattia policistica renale (difetto GANAB), oppure validare la predizione con studi preclinici
 - Valutare indicazioni predette alternative con un razionale più solido
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

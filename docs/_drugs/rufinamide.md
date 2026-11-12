@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -90,12 +90,38 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 La previsione si basa solo su un punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES.
 
+<!-- review:begin it-lic-20261106-rufinamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES. Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rufinamide-1 -->
+
 **Per procedere sono necessari:**
 - Una ricerca bibliografica sistematica sull'uso della rufinamide in FIRES e nelle altre epilessie previste, con revisione da parte di esperti
 - Dati sul meccanismo d'azione dettagliato (da DrugBank)
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza
 - Chiarimenti sullo stato regolatorio, e sulle vie di somministrazione necessarie
 - Valutazione del rischio per le interazioni e per le condizioni epatiche ed ematologiche segnalate
+
+<!-- review:begin it-lic-20261106-rufinamide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimenti sullo stato regolatorio, dato che tutte le autorizzazioni sono cancellate, e sulle vie di somministrazione necessarie» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rufinamide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

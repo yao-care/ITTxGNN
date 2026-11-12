@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Glimepiride: nuova indicazione prevista, Sindrome della persona rigida classica (classic stiff person syndrome) (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -105,6 +105,12 @@ Per completezza, tra le altre previsioni è stata individuata una sola pubblicaz
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati disponibili (le confezioni sono compresse). Elenco delle principali 5:
 
+<!-- review:begin it-lic-20261106-glimepiride-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni attualmente valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati disponibili (le confezioni sono compresse).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-glimepiride-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 032845226 | AMARYL 30 cpr 4 mg | Sanofi Srl | Valida |
@@ -131,11 +137,38 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Motivazione:**
 La previsione per la sindrome della persona rigida classica si basa solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale farmacologico plausibile per una sulfonilurea.
 
+<!-- review:begin it-lic-20261106-glimepiride-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome della persona rigida classica si basa solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e non esiste un razionale farmacologico plausibile per una sulfonilurea. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-glimepiride-2 -->
+
 **Per procedere sarebbe necessario:**
 - Reperire i dati sul meccanismo d'azione (DrugBank) e verificare un eventuale legame con la fisiopatologia della sindrome (anti-GAD65, neurotrasmissione GABAergica)
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Condurre una revisione sistematica della letteratura e, se giustificato, studi preclinici
 - Chiarire la situazione regolatoria e di disponibilità del farmaco in Italia
+
+<!-- review:begin it-lic-20261106-glimepiride-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la situazione regolatoria e di disponibilità del farmaco in Italia, dato che non vi sono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-glimepiride-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

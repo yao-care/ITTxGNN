@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -97,6 +97,12 @@ Per completezza, la letteratura recuperata per altre predizioni è fuori tema o 
 
 Queste pubblicazioni riflettono gli usi noti della liotironina e **non costituiscono evidenza** per l'ipoplasia/aplasia renale né per l'acrodisostosi.
 
+<!-- review:begin it-lic-20261106-liothyronine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni risultano cancellate: in Italia non vi sono attualmente autorizzazioni valide per il principio attivo singolo.» Rimosso: l'indicazione di prodotti monocomponente o in associazione non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-liothyronine-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -134,11 +140,31 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo.
 
+<!-- review:begin it-lic-20261106-liothyronine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-liothyronine-2 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la malattia predetta.
 - Il testo di avvertenze e controindicazioni dal foglietto illustrativo AIFA, indispensabile per lo screening di sicurezza.
 - Evidenze precliniche o cliniche pertinenti all'indicazione predetta.
 - In alternativa, valutare le predizioni con maggiore plausibilità biologica (ad es. condizioni correlate alla tiroide), tenendo presente che il gozzo è già un'indicazione originale.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni risultano cancellate: in Italia non vi sono attualmente autorizzazioni valide per il principio attivo sing» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

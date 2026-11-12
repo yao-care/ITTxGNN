@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -102,6 +102,18 @@ Per lo stato epilettico esistono due revisioni sistematiche ([30076046](https://
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
+<!-- review:begin it-lic-20261106-perampanel-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-perampanel-1 -->
+
+<!-- review:begin it-lic-20261106-perampanel-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-perampanel-2 -->
+
 | Numero di autorizzazione | Prodotto | Stato |
 |---------|------|-----------|
 | 042581013 | FYCOMPA 7 cpr rivestite 2 mg | Valida |
@@ -128,12 +140,33 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 **Motivazione:**
 Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.
 
+<!-- review:begin it-lic-20261106-perampanel-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-perampanel-3 -->
+
 **Per procedere sono necessari:**
 - Recupero dal sito AIFA del foglio illustrativo (avvertenze, controindicazioni, indicazioni approvate) per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Per l'epilessia visiva: ricerca mirata di case report/serie di casi di perampanel nelle epilessie riflesse e, se promettenti, uno studio pilota
 - Per lo stato epilettico: monitoraggio dei risultati dello studio di fase 2 NCT06401707 e valutazione di uno studio randomizzato adeguatamente dimensionato
 - Chiarimento dello status regolatorio in Italia (motivi della cancellazione delle autorizzazioni e possibilità di disponibilità del prodotto)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

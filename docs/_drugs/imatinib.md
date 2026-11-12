@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "IMATINIB"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 description: "Imatinib: nuova indicazione prevista, Heart fibrosarcoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -94,6 +94,12 @@ Al momento non risultano studi clinici correlati registrati per il fibrosarcoma 
 
 Sono qui elencate le prime 5.
 
+<!-- review:begin it-lic-20261106-imatinib-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate; sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-imatinib-1 -->
+
 ---
 
 ## Citotossicità
@@ -125,17 +131,44 @@ Per le avvertenze e controindicazioni ufficiali, consultare il foglio illustrati
 **Motivazione:**
 Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP.
 
+<!-- review:begin it-lic-20261106-imatinib-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-imatinib-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e analisi del collegamento meccanicistico con il fibrosarcoma cardiaco
 - Testo delle indicazioni e delle avvertenze/controindicazioni dal foglio illustrativo AIFA (attualmente mancante, requisito bloccante per lo screening di sicurezza)
 - Evidenze specifiche: serie di casi, studi preclinici o studi clinici nel fibrosarcoma cardiaco
 - Verifica dello stato commerciale attuale di imatinib in Italia
 
+<!-- review:begin it-lic-20261106-imatinib-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato commerciale attuale di imatinib in Italia, dato che le autorizzazioni elencate risultano tutte cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-imatinib-3 -->
+
 ---
 
 ### Nota su altre indicazioni predette
 
 Tra le altre predizioni, il **liposarcoma** ha l'evidenza più solida (L2, tre studi di fase 1/2 su sarcomi dei tessuti molli, ma senza risultati specifici per liposarcoma e con razionale meccanicistico non specifico; stato: domanda di ricerca). Il **fibroblastic neoplasm** è in larga parte riconducibile al DFSP, che è già un'indicazione esistente e non una vera nuova indicazione di riposizionamento.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate; s» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni elencate risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

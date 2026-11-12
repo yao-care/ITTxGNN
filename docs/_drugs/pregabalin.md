@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -88,6 +88,12 @@ Il collegamento con le indicazioni originali è il dolore cronico con componente
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le prime 5.
 
+<!-- review:begin it-lic-20261106-pregabalin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pregabalin-1 -->
+
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 043740113 | Pregabalin 14 cps 75 mg | Aurobindo Pharma Italia Srl | Valida |
@@ -109,11 +115,31 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 **Motivazione:**
 Per l'emicrania il meccanismo è plausibile e ci sono alcuni studi randomizzati pediatrici di piccole dimensioni, ma l'unico studio di fase 3 negli adulti è stato ritirato e mancano evidenze confermatorie.
 
+<!-- review:begin it-lic-20261106-pregabalin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per l'emicrania il meccanismo è plausibile e ci sono alcuni studi randomizzati pediatrici di piccole dimensioni, ma l'unico studio di fase 3 negli adulti è stato ritirato e mancano evidenze confermatorie. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali sono mancanti, quindi non è possibile procedere allo screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pregabalin-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni) e chiarire la situazione delle autorizzazioni cancellate
 - Dati ufficiali sul meccanismo d'azione (DrugBank)
 - Uno studio randomizzato di fase 2/3 negli adulti con pregabalin per la profilassi dell'emicrania
 - Verifica delle controindicazioni del grafo di conoscenza, in particolare quella relativa al disturbo d'ansia, e un piano di monitoraggio della sicurezza (funzione renale, uso concomitante di oppioidi)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali sono mancanti, quindi non è possibile procedere a» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

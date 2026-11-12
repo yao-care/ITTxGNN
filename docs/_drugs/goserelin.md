@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 226
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Goserelin: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Endometriosi (secondo gli archi di indicazione della base di conoscen…"
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
@@ -114,11 +114,37 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressione ovarica da goserelin, non un nuovo bersaglio terapeutico. Le evidenze sono per lo più indirette (contesto del carcinoma mammario). Le altre predizioni (ipoplasia renale, anche bilaterale) non hanno alcun legame meccanicistico plausibile né supporto in studi o letteratura (livello L5).
 
+<!-- review:begin it-lic-20261106-goserelin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le evidenze sono per lo più indirette (contesto del carcinoma mammario) e le autorizzazioni italiane sono tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-goserelin-1 -->
+
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Definire se la soppressione mestruale sia un obiettivo terapeutico specifico (ad esempio in contesti selezionati) e non un semplice effetto collaterale
 - Chiarire lo stato regolatorio attuale in Italia
+
+<!-- review:begin it-lic-20261106-goserelin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio attuale in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-goserelin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

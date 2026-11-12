@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "LOMITAPIDE"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "platelet storage pool deficiency"]
 description: "Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,10 +108,29 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglio il
 - La previsione per la marcotrombocitopenia con insufficienza della valvola mitrale è solo un risultato del modello (L5), senza studi, pubblicazioni o meccanismo plausibile. Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità).
 - Tuttavia coincide di fatto con l'indicazione originale (HoFH), quindi non è un vero riposizionamento. Per eventuali proposte è necessario verificare la disponibilità commerciale del prodotto, oggi cessato.
 
+<!-- review:begin it-lic-20261106-lomitapide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità) e non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lomitapide-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e un'analisi del possibile legame con la fisiopatologia piastrinica e valvolare.
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA.
 - Evidenze precliniche o cliniche specifiche per l'indicazione prevista.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

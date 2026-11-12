@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 285
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (thrombocytopenia due to immune destruction) (livello di evidenza L4). Indicazione originale: Non riportata nei dat…"
@@ -64,6 +64,12 @@ Per la trombocitopenia immune primaria non esiste un meccanismo stabilito: la pa
 
 Al momento non risultano studi clinici correlati registrati.
 
+<!-- review:begin it-lic-20261106-mepolizumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mepolizumab-1 -->
+
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
@@ -102,12 +108,39 @@ Non sono disponibili dati su avvertenze, controindicazioni o interazioni farmaco
 **Motivazione:**
 La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria.
 
+<!-- review:begin it-lic-20261106-mepolizumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mepolizumab-2 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un limite bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica dello stato regolatorio attuale in Italia e del testo delle indicazioni
 - Evidenze cliniche aggiuntive, almeno in sottopopolazioni con HES e citopenia immuno-mediata concomitante
 - Valutazione di compatibilità della via di somministrazione e della similarità con l'indicazione originale
+
+<!-- review:begin it-lic-20261106-mepolizumab-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (le autorizzazioni elencate sono cancellate) e del testo delle indicazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mepolizumab-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(le autorizzazioni elencate sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

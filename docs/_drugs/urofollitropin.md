@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Urofollitropin: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati (nessun testo di indicazione nelle a…"
 monitor_inn: "urofollitropin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -70,6 +70,18 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Attualmente non risulta letteratura correlata disponibile.
 
+<!-- review:begin it-lic-20261106-urofollitropin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni, a nome di IBSA Farmaceutici Italia Srl, risultano cancellate; non esistono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-urofollitropin-1 -->
+
+<!-- review:begin it-lic-20261106-urofollitropin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate le prime 5 delle 8 autorizzazioni (tutte cancellate).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-urofollitropin-2 -->
+
 ## Informazioni sul mercato italiano
 
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
@@ -93,12 +105,40 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione per l'emicrania si basa solo sul modello (livello L5), senza studi clinici, letteratura o meccanismo plausibile.
 
+<!-- review:begin it-lic-20261106-urofollitropin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'emicrania si basa solo sul modello (livello L5), senza studi clinici, letteratura o meccanismo plausibile. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non esiste un prodotto attualmente commercializzato da cui partire.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-urofollitropin-3 -->
+
 **Per procedere, è necessario:**
 - Dati sul meccanismo d'azione (MOA) e analisi di un possibile legame con l'emicrania
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o cliniche sul ruolo dell'FSH/urofollitropina nell'emicrania
 - Valutazione della compatibilità della via di somministrazione e della similarità con l'indicazione originale
 - Verifica della disponibilità di prodotti equivalenti sul mercato
+
+<!-- review:begin it-lic-20261106-urofollitropin-4 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità di prodotti equivalenti sul mercato, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-urofollitropin-4 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni, a nome di IBSA Farmaceutici Italia Srl, risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Sono elencate le prime 5 delle 8 autorizzazioni (tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non esiste un prodotto attualmente commercializzato da cui partire» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

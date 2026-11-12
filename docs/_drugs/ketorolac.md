@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 monitor_inn: "KETOROLAC"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L1)."
@@ -111,6 +111,12 @@ Sono elencati i 10 studi più rilevanti. Altri studi hanno rilevanza limitata (a
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5 sono:
 
+<!-- review:begin it-lic-20261106-ketorolac-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 13 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ketorolac-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 038205023 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Eugia Pharma (Malta) Limited | Valida |
@@ -142,12 +148,39 @@ I dati su avvertenze e controindicazioni del foglio illustrativo non sono dispon
 **Motivazione:**
 Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativi, meta-analisi e linee guida che sostengono il ruolo del ketorolac parenterale. Mancano però RCT di fase 3 sul ketorolac e il profilo di interazioni e rischi è rilevante. Le altre due predizioni (congiuntivite da rosacea e cefalea autonomica trigeminale) restano in **Hold** per assenza di evidenze dirette.
 
+<!-- review:begin it-lic-20261106-ketorolac-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Mancano però RCT di fase 3 sul ketorolac, il farmaco non ha autorizzazioni valide in Italia e il profilo di interazioni e rischi è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ketorolac-2 -->
+
 **Per procedere sono necessari:**
 - Il foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - I dati sul meccanismo d'azione da DrugBank.
 - Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia.
 - Un piano di monitoraggio della sicurezza (rischio gastrointestinale, renale e cardiovascolare, interazioni con anticoagulanti, litio e ACE-inibitori), con durata limitata del trattamento.
 - Una verifica più approfondita dell'evidenza per i sottotipi di cefalea diversi dall'emicrania.
+
+<!-- review:begin it-lic-20261106-ketorolac-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ketorolac-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 13 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

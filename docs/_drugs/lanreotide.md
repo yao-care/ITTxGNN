@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -81,6 +81,12 @@ Attualmente non è disponibile letteratura correlata.
 
 Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.
 
+<!-- review:begin it-lic-20261106-lanreotide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd). Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lanreotide-1 -->
+
 ## Considerazioni sulla sicurezza
 
 - **Condizioni associate a controindicazione nel grafo di conoscenza** (non si tratta del testo del foglio illustrativo): ipertensione, malattie epatiche, malattie della colecisti, colelitiasi/colecistolitiasi/coledocolitiasi, iperglicemia, ipoglicemia, ipotiroidismo (incluso mixedema e ipotiroidismo congenito) e compromissione della funzione renale.
@@ -95,11 +101,31 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5).
 
+<!-- review:begin it-lic-20261106-lanreotide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lanreotide-2 -->
+
 **Per procedere sono necessari:**
 - Acquisizione del foglio illustrativo AIFA (avvertenze e controindicazioni), necessaria per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Revisione sistematica della letteratura sul ruolo di GH/IGF-1 nella crescita del follicolo pilifero e sull'ipertricosi
 - Dati preclinici o un piccolo studio esplorativo che ne verifichino la plausibilità biologica
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

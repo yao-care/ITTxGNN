@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -39,6 +39,12 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 ## Riassunto in una Frase
 
 Damoctocog Alfa Pegol (DB14700) è una terapia sostitutiva del Fattore VIII ricombinante pegilato, indicato principalmente per l'Emofilia A. Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale. A causa di molteplici lacune critiche nei dati — inclusi dati del meccanismo d'azione assenti, avvertimenti di sicurezza mancanti e previsioni TxGNN non disponibili — una valutazione completa di riposizionamento non può essere condotta in questo momento.
+
+<!-- review:begin it-lic-20261106-damoctocog_alfa_pegol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale, e il farmaco non dispone di autorizzazioni al commercio in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-damoctocog_alfa_pegol-1 -->
 
 ---
 
@@ -80,6 +86,12 @@ Attualmente non vi è letteratura correlata disponibile per indicazioni di ripos
 
 Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.
 
+<!-- review:begin it-lic-20261106-damoctocog_alfa_pegol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia. Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-damoctocog_alfa_pegol-2 -->
+
 ---
 
 ## Considerazioni di Sicurezza
@@ -102,6 +114,26 @@ Nessuna previsione TxGNN è disponibile per questo farmaco, e due lacune critich
 - **[Alta]** Interrogare l'API di DrugBank per i dati del meccanismo d'azione (DG002)
 - Confermare il testo dell'indicazione originaria approvata da una fonte normativa (AIFA, EMA, o informazioni prescrittive di Bayer)
 - Una volta che le lacune di dati di cui sopra siano risolte, ri-eseguire la generazione completa del pacchetto di evidenze (v5+) prima di procedere alla revisione di plausibilità clinica
+
+<!-- review:begin it-lic-20261106-damoctocog_alfa_pegol-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**[Bloccante]** Recuperare il foglio illustrativo TFDA/EMA per gli avvertimenti di sicurezza e le controindicazioni (DG001)» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-damoctocog_alfa_pegol-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e il farmaco non dispone di autorizzazioni al commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «TFDA/» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

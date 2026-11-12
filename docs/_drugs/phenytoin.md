@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -73,6 +73,12 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Per la predizione principale (neoplasia del nervo trigemino) sono state recuperate solo due pubblicazioni, nessuna sui tumori:
 
+<!-- review:begin it-lic-20261106-phenytoin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non risultano autorizzazioni attualmente valide in Italia (0 monocomponente, 0 combinazioni).» Rimosso: l'indicazione di prodotti monocomponente o in associazione non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-phenytoin-1 -->
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
 | [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Revisione | Expert Review of Neurotherapeutics | Panoramica dei trattamenti medici e chirurgici della nevralgia del trigemino; non riguarda neoplasie |
@@ -121,12 +127,39 @@ Per le informazioni complete di sicurezza si rimanda al foglio illustrativo.
 **Motivazione:**
 - Per la neoplasia del nervo trigemino non vi sono studi clinici né letteratura pertinente e non esiste un legame meccanicistico plausibile: il punteggio TxGNN sembra un artefatto di prossimità alla nevralgia del trigemino. Mancano i dati di sicurezza dell'etichetta.
 
+<!-- review:begin it-lic-20261106-phenytoin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Anche l'autorizzazione italiana è annullata e mancano i dati di sicurezza dell'etichetta.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-phenytoin-2 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Riorientare la valutazione verso la **nevralgia del trigemino** (L3): una revisione mirata sulla fenitoina e.v. nelle riacutizzazioni acute, con attenzione all'indice terapeutico ristretto e alla tossicità a lungo termine.
 - Verificare la disponibilità attuale di formulazioni di fenitoina in Italia.
 - Considerare le altre crisi riflesse (L4) solo come ipotesi di ricerca, dato che sono già comprese nell'ambito del trattamento delle crisi epilettiche.
+
+<!-- review:begin it-lic-20261106-phenytoin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità attuale di formulazioni di fenitoina in Italia, dato che l'unica autorizzazione è annullata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-phenytoin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Non risultano autorizzazioni attualmente valide in Italia (0 monocomponente, 0 combinazioni)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Anche l'autorizzazione italiana è annullata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -118,12 +118,31 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione è plausibile dal punto di vista della classe farmacologica, ma ricade nell'indicazione già esistente (emicrania) e non è supportata da alcun dato specifico sull'aura del tronco encefalico. Mancano i dati di sicurezza dal foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-rimegepant-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre l'autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rimegepant-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Dati clinici specifici sul sottotipo con aura del tronco encefalico (analisi di sottogruppo o studi dedicati)
 - Valutazione della sicurezza cardiovascolare/vascolare in questo sottotipo
 - Verifica dello stato regolatorio attuale in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

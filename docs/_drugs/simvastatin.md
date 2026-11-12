@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -96,6 +96,12 @@ Solo due studi (ENHANCE e NCT00129402) hanno la simvastatina come parte centrale
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
 
+<!-- review:begin it-lic-20261106-simvastatin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-simvastatin-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 037398118 | Simvastatina compresse rivestite 40 mg (Mylan) | Compresse rivestite | Non disponibile |
@@ -120,6 +126,12 @@ Avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili
 **Motivazione:**
 L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi di fase 3 completati e numerose revisioni e linee guida. Tuttavia si tratta di un uso già consolidato e non di un nuovo riposizionamento. Il profilo di interazioni e il rischio muscolare richiedono cautele.
 
+<!-- review:begin it-lic-20261106-simvastatin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il profilo di interazioni e il rischio muscolare richiedono cautele, e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-simvastatin-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da DrugBank.
 - Piano di gestione delle interazioni (CYP3A4, antiretrovirali, amiodarone, amlodipina, fibrati) e monitoraggio muscolare ed epatico.
@@ -129,6 +141,20 @@ L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi d
 - Infarto del tronco encefalico: nessuna evidenza diretta (L4), Hold.
 - Deficit di proteina di trasferimento degli esteri del colesterolo, ipercolesterolemia da deficit di colesterolo 7α-idrossilasi, amiloidosi ABri e disturbo del neurosviluppo con andatura atassica: solo predizione del modello (L5), Hold.
 - Infezione da HIV: solo studi farmacocinetici di interazione (L3), da trattare come questione di ricerca legata alla dislipidemia associata all'HIV e non come indicazione antivirale.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

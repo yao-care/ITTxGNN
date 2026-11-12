@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Ibuprofen: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata ne…"
@@ -94,6 +94,12 @@ Al momento non risulta alcuna letteratura correlata.
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Si elencano le prime 5 autorizzazioni:
 
+<!-- review:begin it-lic-20261106-ibuprofen-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ibuprofen-1 -->
+
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 039693066 | BRUFEN 30 cpr rivestite 600 mg | Programmi Sanit. Integrati Srl | Valida |
@@ -123,12 +129,39 @@ Le informazioni del foglio illustrativo AIFA (avvertenze e controindicazioni) no
 **Motivazione:**
 La previsione si basa solo sul punteggio del modello (livello L5), senza studi clinici né pubblicazioni, e non c'è un meccanismo plausibile per cui un inibitore delle COX possa modificare una displasia scheletrica genetica.
 
+<!-- review:begin it-lic-20261106-ibuprofen-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul punteggio del modello (livello L5), senza studi clinici né pubblicazioni, e non c'è un meccanismo plausibile per cui un inibitore delle COX possa modificare una displasia scheletrica genetica. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ibuprofen-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad esempio da DrugBank) e un'analisi dei legami meccanicistici.
 - Testo delle avvertenze e delle controindicazioni dal foglio illustrativo AIFA, indispensabile per lo screening di sicurezza.
 - Studi preclinici o case report che valutino un beneficio sintomatico (dolore articolare) nelle displasie scheletriche.
 - Chiarimento dello stato regolatorio attuale in Italia.
 - Se si intende proseguire, valutare in via prioritaria candidate biologicamente più plausibili, come la miosclerosi o la pseudoacondroplasia, limitatamente alla gestione sintomatica.
+
+<!-- review:begin it-lic-20261106-ibuprofen-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio attuale in Italia, dato che non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ibuprofen-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

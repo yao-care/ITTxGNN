@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 388
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 description: "Ropinirole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L3). Indicazione originale: Non riportata nei …"
@@ -66,6 +66,12 @@ L'evidenza è tuttavia più solida per la popolazione con RLS in comorbilità ch
 
 Al momento non risultano studi clinici correlati registrati.
 
+<!-- review:begin it-lic-20261106-ropinirole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è valida nessuna.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ropinirole-1 -->
+
 ## Evidenza dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
@@ -104,6 +110,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 L'evidenza per l'ADHD è limitata a revisioni, un caso clinico e un RCT recente (2026) i cui dettagli e risultati non sono verificati; non ci sono studi registrati. Mancano i dati ufficiali di sicurezza.
 
+<!-- review:begin it-lic-20261106-ropinirole-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «In Italia inoltre tutte le autorizzazioni sono cancellate e mancano i dati ufficiali di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ropinirole-2 -->
+
 **Per procedere sono necessari:**
 - Verifica del disegno e dei risultati dell'RCT del 2026 (efficacia sui sintomi core dell'ADHD e sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
@@ -111,7 +123,28 @@ L'evidenza per l'ADHD è limitata a revisioni, un caso clinico e un RCT recente 
 - Valutazione della disponibilità del prodotto in Italia
 - Piano di monitoraggio del rischio di comportamenti impulsivi e di effetti psichiatrici in una popolazione pediatrica
 
+<!-- review:begin it-lic-20261106-ropinirole-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della disponibilità del prodotto in Italia, dato che non esistono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ropinirole-3 -->
+
 **Altre previsioni del modello:** per schizofrenia (L4, Hold) esistono solo dati indiretti e preclinici, con un rapporto rischio-beneficio sfavorevole. Le restanti previsioni (sindrome facio-digito-genitale, polimicrogiria, distrofia retinica, miopia X-linked, difetti congeniti della glicosilazione, encefalopatia glicinica atipica, Charcot-Marie-Tooth 1G) sono basate solo sul modello (L5, Hold), senza evidenza di supporto.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è valida nessuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia inoltre tutte le autorizzazioni sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

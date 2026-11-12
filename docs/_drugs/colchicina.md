@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -60,6 +60,12 @@ Colchicina (Colchicina) è un farmaco consolidato, ma i dati compilati attuali c
 
 Licenze totali nel record: **0**.
 
+<!-- review:begin it-lic-20261106-colchicina-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro. Licenze totali nel record: **0**.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-colchicina-1 -->
+
 > **Nota:** Il log di query conferma che la ricerca nel registro è stata eseguita con successo (result_status: "success") ma ha restituito 0 record. Se Colchicina è nota per avere una presenza di mercato nel territorio target con un nome di prodotto o un titolare di licenza alternativo, è consigliata una ricerca mirata per nome di prodotto come fase successiva.
 
 ---
@@ -86,6 +92,25 @@ I dati compilati non contengono indicazioni previste da TxGNN, nessun dato di in
 - **\[Required\]** Rieseguire la pipeline di previsione TxGNN con Colchicina come input per generare candidate di indicazioni di riposizionamento; senza previsioni, nessuna analisi di riposizionamento può essere avviata
 - **\[Advisory\]** Verificare lo stato di autorizzazione di commercializzazione Italia/AIFA tramite una ricerca per nome di prodotto (ad es. "Colchicina Houde" o altri nomi di marchio conosciuti)
 - **\[Advisory\]** Confermare l'ID di DrugBank e mappare all'INN standardizzato per garantire un'identificazione coerente tra fonti nei futuri cicli di pipeline
+
+<!-- review:begin it-lic-20261106-colchicina-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «"Colchicina Houde" o altri nomi di marchio conosciuti), poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-colchicina-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

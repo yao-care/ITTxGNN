@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: nuova indicazione prevista, Feline acquired immunodeficiency syndrome (livello di evidenza L5)."
@@ -104,11 +104,37 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 La previsione principale riguarda una malattia veterinaria, supportata solo da studi su gatti e da dati in vitro, senza studi clinici sull'uomo. Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento.
 
+<!-- review:begin it-lic-20261106-lamivudine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento, e in Italia tutte le autorizzazioni della lamivudina risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lamivudine-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
 - Una valutazione se esista una nuova indicazione umana con evidenza clinica reale (le previsioni attuali non la offrono)
 - Chiarimento sulla situazione regolatoria in Italia
+
+<!-- review:begin it-lic-20261106-lamivudine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sulla situazione regolatoria in Italia, dato che tutte le licenze sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lamivudine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni della lamivudina risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le licenze sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 451
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TRIAMCINOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -108,11 +108,23 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici.
 
+<!-- review:begin it-lic-20261106-triamcinolone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-triamcinolone-1 -->
+
 **Per procedere sono necessari:**
 - Evidenze cliniche dirette sull'uso del triamcinolone (intralesionale o topico) nell'alopecia mucinosa, ad esempio serie di casi o studi controllati
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA
 - Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta
+
+<!-- review:begin it-lic-20261106-triamcinolone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-triamcinolone-2 -->
 
 ---
 
@@ -129,6 +141,20 @@ La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche
 | 9 | Alopecia universale con onicodistrofia e vitiligine | 0,9975 | L5 | Hold |
 
 Tra queste, la **follicolite decalvante** (revisione retrospettiva di 23 pazienti, senza controllo) e la **sindrome nefrosica steroido-sensibile** (solo revisioni sulle strategie di trattamento, con corticosteroidi sistemici diversi dal triamcinolone come standard) meritano un approfondimento come domande di ricerca.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

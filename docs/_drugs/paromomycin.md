@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "paromomycin"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
 description: "Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -105,12 +105,31 @@ Nessuna di queste pubblicazioni supporta un uso della paromomicina nella periton
 **Motivazione:**
 La predizione si basa solo sul modello (L5), senza studi clinici né letteratura per la cirrosi associata al rame idiopatica e senza un meccanismo plausibile. I dati di sicurezza da etichetta mancano.
 
+<!-- review:begin it-lic-20261106-paromomycin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre in Italia le due autorizzazioni sono entrambe cancellate e i dati di sicurezza da etichetta mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-paromomycin-1 -->
+
 **Per procedere sarebbe necessario:**
 - Recuperare il foglietto illustrativo AIFA (avvertenze e controindicazioni), necessario per qualsiasi valutazione di sicurezza.
 - Ottenere dati sul meccanismo d'azione (ad es. da DrugBank) e valutare un'eventuale ipotesi biologica con il metabolismo del rame.
 - Condurre una revisione sistematica della letteratura mirata e, se emergesse un razionale, studi preclinici.
 - Valutare il profilo di sicurezza in caso di insufficienza epatica o renale, data la possibile esposizione sistemica e la tossicità degli aminoglicosidi.
 - Considerare che, tra le predizioni elencate, nessuna ha evidenza clinica; la peritonite ha solo letteratura indiretta (L4) e non pertinente.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «noltre in Italia le due autorizzazioni sono entrambe cancellate e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

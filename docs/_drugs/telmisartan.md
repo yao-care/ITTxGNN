@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -127,6 +127,12 @@ Per l'**emorragia intracerebrale**, la riduzione della pressione arteriosa è il
 
 Il testo dell'indicazione approvata non è disponibile nei dati compilati. Principali autorizzazioni:
 
+<!-- review:begin it-lic-20261106-telmisartan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-telmisartan-1 -->
+
 | Numero autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Valida |
@@ -157,6 +163,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - La Prinzmetal angina, pur avendo il punteggio più alto, non ha né studi né letteratura: è una predizione pura (L5).
 - L'occlusione dell'arteria cerebrale ha solide evidenze precliniche e uno studio di fase 4 indiretto (L3), ma nessun risultato clinico diretto. L'emorragia intracerebrale ha uno studio di fase 3 completato (TRIDENT, L2), ma testa una combinazione e non permette di isolare il ruolo di telmisartan.
 
+<!-- review:begin it-lic-20261106-telmisartan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'emorragia intracerebrale ha uno studio di fase 3 completato (TRIDENT, L2), ma testa una combinazione e non permette di isolare il ruolo di telmisartan. / Tutte le autorizzazioni italiane sono cancellate, per cui un'eventuale riproposizione richiederebbe una nuova valutazione regolatoria.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-telmisartan-2 -->
+
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
@@ -164,6 +176,20 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - Ricerca di evidenze specifiche per la Prinzmetal angina
 - Valutazione della via di somministrazione e della compatibilità con l'indicazione
 - Chiarimento sulle ragioni delle cancellazioni delle autorizzazioni in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, per cui un'eventuale riproposizione richiederebbe una nuova valutazione regolatoria» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

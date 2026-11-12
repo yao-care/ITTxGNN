@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -118,6 +118,12 @@ Nessuna di queste pubblicazioni valuta travoprost come trattamento di una malatt
 
 Il testo dell'indicazione approvata non è disponibile nei dati compilati.
 
+<!-- review:begin it-lic-20261106-travoprost-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide. Il testo dell'indicazione approvata non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-travoprost-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 035409010 | TRAVATAN collirio 2,5 ml 40 mcg/ml | Novartis Europharm Ltd | Valida |
@@ -149,12 +155,32 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari.
 
+<!-- review:begin it-lic-20261106-travoprost-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-travoprost-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e analisi di un'eventuale relazione con le vie della calcificazione e della funzione vascolare
 - Studi preclinici (in vitro/in vivo) sulle indicazioni prioritarie, a partire dalla calcifilassi viscerale e dalla malattia vascolare
 - Valutazione della fattibilità della via di somministrazione, dato che l'unica formulazione nota è oftalmica
 - Acquisizione e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni) per lo screening di sicurezza
 - Verifica dello stato regolatorio e della disponibilità commerciale, vista la cancellazione di tutte le autorizzazioni
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 304
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -102,12 +102,38 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261031-mirtazapine-1 -->
+
+> **Correzione di verifica (2026-10-31)**: Testo originale: «La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 17 autorizzazioni per questo farmaco, di cui 17 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261031-mirtazapine-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) per verificare l'eventuale collegamento con la patologia
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza
 - Evidenze precliniche o cliniche che colleghino la farmacologia della mirtazapina alla sindrome di Ohdo
 - Valutazione dell'accesso al farmaco
 - Piano di sicurezza specifico per popolazioni pediatriche
+
+<!-- review:begin it-lic-20261106-mirtazapine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione dell'accesso al farmaco, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 17 autorizzazioni per questo farmaco, di cui 17 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mirtazapine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Rimosso: «A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

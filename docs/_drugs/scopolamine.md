@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Scopolamine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
 description: "Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (cauda equina syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -103,12 +103,31 @@ Per le informazioni complete sulla sicurezza, consultare il foglietto illustrati
 **Motivazione:**
 La previsione si basa solo sul modello computazionale (L5), senza studi né pubblicazioni. Il razionale meccanicistico è debole o addirittura sfavorevole: gli anticolinergici possono peggiorare la ritenzione urinaria nella sindrome della cauda equina.
 
+<!-- review:begin it-lic-20261106-scopolamine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il razionale meccanicistico è debole o addirittura sfavorevole: gli anticolinergici possono peggiorare la ritenzione urinaria nella sindrome della cauda equina. Inoltre l'unica autorizzazione italiana è revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-scopolamine-1 -->
+
 **Per procedere sarebbe necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Condurre una revisione sistematica della letteratura e una ricerca di studi per la sindrome della cauda equina e per la vescica neurogena
 - Valutare se l'indicazione più plausibile (vescica neurogena) sia davvero preferibile alle alternative antimuscariniche selettive già disponibili
 - Verificare la compatibilità di via di somministrazione e formulazione, oggi non valutata
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

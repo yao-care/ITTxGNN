@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TOPOTECAN"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 description: "Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (female breast carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -129,12 +129,38 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 Il carcinoma mammario è supportato da un punteggio TxGNN molto alto, ma l'evidenza clinica diretta è debole: gli studi sono di fase 1-2, in combinazione e in parte terminati, mentre l'unico studio di fase 2 specifico non ha mostrato maggiore efficacia. Mancano i dati ufficiali di sicurezza.
 
+<!-- review:begin it-lic-20261106-topotecan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «In Italia l'unica autorizzazione è revocata e mancano i dati ufficiali di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-topotecan-1 -->
+
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici mirati sul topotecan nel carcinoma mammario, in particolare nella forma triplo-negativa o guidata da MYC
 - Valutazione della disponibilità di una formulazione/via di somministrazione in Italia
 - Piano di monitoraggio ematologico e polmonare per le popolazioni a rischio
+
+<!-- review:begin it-lic-20261106-topotecan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della disponibilità di una formulazione/via di somministrazione in Italia, dato lo stato di autorizzazione revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-topotecan-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In Italia l'unica autorizzazione è revocata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

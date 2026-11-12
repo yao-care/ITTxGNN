@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) (livello di evidenza L5). Indicazione orig…"
@@ -94,6 +94,12 @@ Sono riportate le pubblicazioni più rilevanti, in ordine di pertinenza. Tutte s
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano 5 delle autorizzazioni principali.
 
+<!-- review:begin it-lic-20261106-ramipril-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ramipril-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 027161064 | TRIATEC 14 cpr div 5 mg | SANOFI Srl | Valida |
@@ -129,12 +135,32 @@ Per informazioni complete sulla sicurezza fare riferimento al foglio illustrativ
 **Motivazione:**
 La predizione si basa su un punteggio computazionale molto alto e su un solo studio preclinico sul ratto (1996), senza alcuno studio clinico sull'uomo. Le informazioni di sicurezza da etichetta non sono disponibili. Le altre indicazioni previste (ad es. ictus, ipertensione maligna) sono vicine a quelle già note, o con prove miste o assenti, e non cambiano la valutazione.
 
+<!-- review:begin it-lic-20261106-ramipril-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza da etichetta non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ramipril-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Conferma della posizione regolatoria (autorizzazioni attuali o nuove) per un eventuale uso in Italia
 - Studi preclinici aggiuntivi e confronto con terapie standard per l'ipertensione polmonare, prima di valutare uno studio clinico esplorativo
 - Un piano di monitoraggio della sicurezza per le popolazioni con le condizioni controindicate elencate (in particolare funzione renale e potassiemia)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

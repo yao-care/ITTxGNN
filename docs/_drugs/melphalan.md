@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -130,12 +130,38 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglio illustr
 **Motivazione:**
 - Le prove sul tumore germinale delle gonadi derivano da studi di fase 1/2 non randomizzati con regimi ad alte dosi in combinazione, in cui il contributo del melfalan non è isolabile. Mancano i dati ufficiali di sicurezza. Il valore di ricerca resta, ma è insufficiente per procedere.
 
+<!-- review:begin it-lic-20261106-melphalan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati ufficiali di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-melphalan-1 -->
+
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Analisi dei risultati pubblicati di NCT00936936 per stimare il contributo specifico del melfalan
 - Verifica della disponibilità di formulazioni (in particolare endovenosa ad alte dosi) in Italia
 - Piano di monitoraggio ematologico e di sicurezza per popolazioni specifiche
+
+<!-- review:begin it-lic-20261106-melphalan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità di formulazioni (in particolare endovenosa ad alte dosi) in Italia, dato che l'unico prodotto autorizzato è cancellato» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-melphalan-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'unico prodotto autorizzato è cancellato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 180
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Estriol: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (il testo delle indicazioni autori…"
 monitor_inn: "estriol"
 predicted_indications: ["amenorrhea (disease)"]
@@ -39,6 +39,12 @@ Livello di evidenza: **L3** | Indicazioni previste: **1**
 ## Riepilogo in una frase
 
 L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale. Il modello TxGNN predice una possibile efficacia nell'**amenorrea**, con **nessuno studio clinico registrato** e **6 pubblicazioni**, di cui solo 2 realmente pertinenti (amenorrea ipotalamica funzionale).
+
+<!-- review:begin it-lic-20261106-estriol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale, ma le due autorizzazioni risultano oggi tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-estriol-1 -->
 
 ## Quadro generale
 
@@ -97,11 +103,31 @@ Per avvertenze e controindicazioni, consultare il foglio illustrativo.
 **Motivazione:**
 L'evidenza si ferma a un piccolo studio clinico e a una revisione, limitati alla FHA, senza alcuno studio clinico registrato. Mancano i dati di sicurezza dal foglio illustrativo. Per ora il candidato resta una domanda di ricerca.
 
+<!-- review:begin it-lic-20261106-estriol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni italiane sono tutte revocate e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-estriol-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (dato bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Delimitazione dell'indicazione alla FHA e valutazione della compatibilità della via di somministrazione (le forme autorizzate erano vaginali)
 - Studi controllati e randomizzati sull'estriolo nella FHA, con valutazione del profilo di sicurezza endometriale e cardiovascolare
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «ma le due autorizzazioni risultano oggi tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

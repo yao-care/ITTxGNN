@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -91,6 +91,12 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
+<!-- review:begin it-lic-20261106-metformin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le principali 5 autorizzazioni (tutte cancellate):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metformin-1 -->
+
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 017758020 | GLUCOPHAGE 40 cpr rivestite 850 mg | Bruno Farmaceutici SpA | Valida |
@@ -117,12 +123,32 @@ Le informazioni su avvertenze e controindicazioni tratte dal foglio illustrativo
 **Motivazione:**
 La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con la fisiopatologia autoimmune/neurologica della sindrome.
 
+<!-- review:begin it-lic-20261106-metformin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non esiste un collegamento meccanicistico plausibile con la fisiopatologia autoimmune/neurologica della sindrome. Inoltre, tutte le autorizzazioni italiane del principio attivo risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metformin-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione verificati da una fonte primaria (es. DrugBank) e analisi di un eventuale legame meccanicistico
 - Scheda tecnica/foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Chiarimento sulla situazione regolatoria in Italia (motivo delle cancellazioni e disponibilità di prodotti attualmente commercializzati)
 - Revisione sistematica della letteratura ed eventuali studi preclinici sulle indicazioni previste
 - Valutazione della compatibilità delle vie di somministrazione (ancora in sospeso)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Di seguito le principali 5 autorizzazioni (tutte cancellate):» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del principio attivo risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

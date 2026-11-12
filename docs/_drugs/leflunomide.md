@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -76,6 +76,12 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 Il testo dell'indicazione approvata non è presente nei dati compilati.
 
+<!-- review:begin it-lic-20261106-leflunomide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvata non è presente nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-leflunomide-1 -->
+
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 050037098 | Leflunomide 30 cpr rivestite 20 mg | Aurobindo Pharma Italia Srl | Valida |
@@ -105,11 +111,31 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 La previsione si fonda unicamente sul punteggio del modello (livello L5), senza studi clinici né letteratura. Il meccanismo è speculativo, il profilo teratogeno è preoccupante.
 
+<!-- review:begin it-lic-20261106-leflunomide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è speculativo, il profilo teratogeno è preoccupante e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-leflunomide-2 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
 - Acquisire i dati dettagliati sul meccanismo d'azione (ad es. da DrugBank)
 - Condurre studi preclinici o una revisione della letteratura che colleghi DHODH/metabolismo delle pirimidine alla patogenesi della sindrome prevista
 - Valutare in modo approfondito il rischio teratogeno rispetto al contesto di malattia dello sviluppo
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

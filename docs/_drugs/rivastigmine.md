@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 386
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -76,6 +76,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
 
+<!-- review:begin it-lic-20261106-rivastigmine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rivastigmine-1 -->
+
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 034078055 | EXELON 56 cps 3 mg | Novartis Europharm Ltd | Valida |
@@ -101,12 +107,32 @@ Le avvertenze e le controindicazioni del foglio illustrativo AIFA non sono dispo
 **Motivazione:**
 L'evidenza è limitata a un solo studio preclinico sul coniglio e a revisioni, senza alcuno studio clinico; il punteggio TxGNN è una predizione computazionale. Le formulazioni esistenti non sono adatte all'uso oculare. Al momento è una domanda di ricerca, non un candidato pronto per lo sviluppo.
 
+<!-- review:begin it-lic-20261106-rivastigmine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre le autorizzazioni italiane sono tutte cancellate e le formulazioni esistenti non sono adatte all'uso oculare.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rivastigmine-2 -->
+
 **Per procedere sono necessari:**
 - Dati dettagliati sul meccanismo d'azione
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Studi preclinici aggiuntivi su modelli di glaucoma (non solo animali normotesi) e sviluppo di una formulazione oftalmica topica
 - Valutazione della tollerabilità oculare e sistemica (miosi, spasmo di accomodazione, effetti colinergici)
 - Verifica della fattibilità regolatoria, data l'assenza di autorizzazioni valide in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte cancellate e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

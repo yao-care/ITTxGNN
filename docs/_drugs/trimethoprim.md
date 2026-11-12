@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5)."
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -106,12 +106,31 @@ Avvertenze e controindicazioni da foglio illustrativo AIFA non sono disponibili:
 - La predizione per la cheratocongiuntivite epiteliale puntata ha un punteggio molto alto ma nessuna evidenza clinica o bibliografica (L5). Poiché la condizione è spesso virale o infiammatoria, l'efficacia di un antibatterico è dubbia.
 - La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.
 
+<!-- review:begin it-lic-20261106-trimethoprim-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica. La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-trimethoprim-1 -->
+
 **Per procedere è necessario:**
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Chiarire l'eziologia (batterica vs virale) della cheratocongiuntivite epiteliale puntata e cercare evidenze dirette
 - Valutare la fattibilità di una formulazione oftalmica e la disponibilità di prodotti in Italia
 - Verificare il disegno degli studi pertinenti (PMID 19043945 e 6204534) per un'eventuale rivalutazione del livello di evidenza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

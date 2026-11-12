@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Griseofulvin"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
 description: "Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -98,11 +98,37 @@ Al momento non è disponibile letteratura correlata.
 **Motivazione:**
 Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi.
 
+<!-- review:begin it-lic-20261106-griseofulvin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi. Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono ben consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-griseofulvin-1 -->
+
 **Per procedere sarebbe necessario:**
 - Reperire il foglio illustrativo AIFA (avvertenze e controindicazioni) per completare la valutazione di sicurezza.
 - Acquisire i dati sul meccanismo d'azione (ad esempio da DrugBank).
 - Ottenere dati preclinici in vitro (ad esempio attività protoscolicida su *Echinococcus*) prima di ogni ulteriore considerazione.
 - Valutare la fattibilità regolatoria.
+
+<!-- review:begin it-lic-20261106-griseofulvin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-griseofulvin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono be» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

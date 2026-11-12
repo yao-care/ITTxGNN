@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -112,6 +112,12 @@ Va precisato che lo studio ESETT ha mostrato un'efficacia **comparabile** tra le
 
 Elenco delle principali (5 su 20):
 
+<!-- review:begin it-lic-20261106-levetiracetam-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni AIFA risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Elenco delle principali (5 su 20):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-levetiracetam-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
 |---------|------|------|-----------|
 | 035039229 | KEPPRA 30 cpr rivestite 1.000 mg | UCB PHARMA S.A. | Non disponibile |
@@ -146,6 +152,26 @@ Due studi di fase 3 completati (ESETT, n=478; n=203) e RCT pubblicati su NEJM e 
 - Acquisire i dati sul meccanismo d'azione da DrugBank
 - Monitorare effetti avversi comportamentali e psichiatrici e adattare la dose in base alla funzione renale
 - Per epilessia da sussulto e crisi audiogene: valutare studi clinici prospettici dedicati
+
+<!-- review:begin it-lic-20261106-levetiracetam-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Per procedere è necessario:** / Verificare lo stato regolatorio in Italia: tutte le 20 autorizzazioni sono cancellate, incluso l'uso endovenoso» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-levetiracetam-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni AIFA risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei d» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Verificare lo stato regolatorio in Italia: tutte le 20 autorizzazioni sono cancellate, incluso l'uso endovenoso» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

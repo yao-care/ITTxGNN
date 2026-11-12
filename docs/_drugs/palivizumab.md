@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 337
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "PALIVIZUMAB"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 description: "Palivizumab: nuova indicazione prevista, Benign neoplasm of tongue (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -68,6 +68,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non è disponibile alcuna letteratura correlata.
 
+<!-- review:begin it-lic-20261106-palivizumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate; non ci sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-palivizumab-1 -->
+
 ## Informazioni sul mercato italiano
 
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
@@ -86,11 +92,31 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Motivazione:**
 La previsione si basa solo sul punteggio del modello, senza studi clinici, letteratura o un meccanismo plausibile. Un anticorpo specifico per l'RSV non ha un bersaglio noto nei tumori benigni della lingua.
 
+<!-- review:begin it-lic-20261106-palivizumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Un anticorpo specifico per l'RSV non ha un bersaglio noto nei tumori benigni della lingua. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-palivizumab-2 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'analisi del legame meccanicistico con la nuova indicazione
 - Dati su avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o letteratura che giustifichino l'ipotesi
 - Valutazione della compatibilità della via di somministrazione e della similarità con l'indicazione originale
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate; non ci sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

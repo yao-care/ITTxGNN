@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 459
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -91,6 +91,12 @@ Per l'ipertensione renovascolare maligna, a titolo di confronto:
 
 Le principali:
 
+<!-- review:begin it-lic-20261106-valsartan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Le principali:» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valsartan-1 -->
+
 | N. autorizzazione | Prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 040782031 | Valsartan 80 mg, 28 cpr rivestite | EG SpA | Valida |
@@ -117,12 +123,39 @@ Il testo del foglietto illustrativo AIFA (avvertenze e controindicazioni) non è
 **Motivazione:**
 La predizione ha un punteggio elevato ma poggia su evidenze solo precliniche e indirette (L4), senza studi clinici. L'indicazione è inoltre molto vicina all'ipertensione già nota, quindi non costituisce un reale riposizionamento.
 
+<!-- review:begin it-lic-20261106-valsartan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione è inoltre molto vicina all'ipertensione già nota, quindi non costituisce un reale riposizionamento. Tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valsartan-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, necessarie per lo screening di sicurezza.
 - Evidenze cliniche dirette su valsartan (non su sacubitril/valsartan né su altri farmaci) nelle indicazioni previste.
 - Chiarimento dello stato regolatorio.
 - Per il cuore polmonare cronico (L3), una valutazione specifica separata dai dati sullo scompenso cardiaco, con attenzione alle controindicazioni renali.
+
+<!-- review:begin it-lic-20261106-valsartan-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio, dato che nessuna autorizzazione risulta attiva.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valsartan-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che nessuna autorizzazione risulta attiva» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -114,11 +114,30 @@ Per avvertenze e precauzioni d'uso fare riferimento al foglio illustrativo, non 
 - Per il neoplasma del nervo trigemino non esistono studi clinici e l'unica pubblicazione collegata non è pertinente; il punteggio TxGNN molto alto proviene dal modello (deep learning) e può riflettere similarità apprese tra malattie correlate, non un'evidenza reale (livello L5).
 - Il profilo di sicurezza è rilevante (epatotossicità, controindicazioni in disturbi ematologici, pancreatite, ecc.).
 
+<!-- review:begin it-lic-20261106-valproic_acid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il prodotto non ha autorizzazioni valide in Italia, e il profilo di sicurezza è rilevante (epatotossicità, controindicazioni in disturbi ematologici, pancreatite, ecc.).» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-valproic_acid-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e prove precliniche dell'effetto antitumorale del valproato su tumori del trigemino/nervi cranici.
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
 - Verifica dello stato regolatorio attuale in Italia, dato che il farmaco è commercializzato con 20 autorizzazioni valide.
 - Se l'obiettivo è clinicamente più realistico, dare priorità a indicazioni con razionale più solido (ad esempio l'epilessia visiva o la nevralgia del trigemino), con revisione sistematica dedicata al valproato.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «l prodotto non ha autorizzazioni valide in Italia, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

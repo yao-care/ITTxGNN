@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -82,6 +82,12 @@ Attualmente non risulta letteratura correlata.
 
 I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.
 
+<!-- review:begin it-lic-20261106-spironolactone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofur, Spiridazide).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-spironolactone-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare |
 |---------|------|------|
 | 019913033 | Spirolang 10 cps 100 mg | SIT Laboratorio Farmaceutico Srl |
@@ -109,11 +115,31 @@ I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibil
 **Motivazione:**
 La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né letteratura (livello L5). Il collegamento meccanicistico con una patologia genetica non androgeno-dipendente è speculativo. Mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.
 
+<!-- review:begin it-lic-20261106-spironolactone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-spironolactone-2 -->
+
 **Per procedere sono necessari:**
 - Acquisire dal sito AIFA avvertenze e controindicazioni del foglietto illustrativo.
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank).
 - Condurre una revisione sistematica della letteratura su spironolattone e ipotricosi ereditarie.
 - Verificare il collegamento con la via androgenica e la compatibilità delle vie di somministrazione (ad esempio una formulazione topica).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofu» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

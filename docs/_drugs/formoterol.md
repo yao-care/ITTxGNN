@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -93,6 +93,12 @@ Nessuna di queste pubblicazioni dimostra un beneficio del formoterolo sulle malf
 
 Di seguito le 5 principali:
 
+<!-- review:begin it-lic-20261106-formoterol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate. Di seguito le 5 principali:» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-formoterol-1 -->
+
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|------|
 | 037316066 | Formoterolo Viatris Novolizer, polvere per inalazione 60 dosi 12 mcg | Viatris Healthcare Limited | Valida |
@@ -119,6 +125,12 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglietto illu
 **Motivazione:**
 La predizione "malformazione respiratoria" si basa solo sul modello (L5): non ci sono studi clinici, la letteratura recuperata non è pertinente e manca un razionale meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-formoterol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione "malformazione respiratoria" si basa solo sul modello (L5): non ci sono studi clinici, la letteratura recuperata non è pertinente e manca un razionale meccanicistico plausibile. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-formoterol-2 -->
+
 Per completezza, altre predizioni del modello hanno un'evidenza molto più solida, ma corrispondono in sostanza a usi già in etichetta e non a un vero riposizionamento:
 - **Malattia polmonare ostruttiva** (L1, Proceed with Guardrails): ampi studi di fase 3 su combinazioni contenenti formoterolo nella BPCO.
 - **Asma** (L1, Proceed with Guardrails): studi di fase 3 e RCT di rilievo su budesonide/formoterolo.
@@ -130,6 +142,20 @@ Su queste ultime restano da considerare le cautele: le evidenze riguardano sopra
 - Testi di indicazione, avvertenze e controindicazioni dal foglietto illustrativo AIFA.
 - Una definizione chiara dell'indicazione bersaglio e dei fenotipi corrispondenti, prima di qualsiasi decisione.
 - Verifica dello stato commerciale attuale dei prodotti a base di formoterolo in Italia.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

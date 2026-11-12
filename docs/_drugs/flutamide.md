@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -100,6 +100,12 @@ Attualmente non risulta alcuna letteratura correlata a questa previsione.
 **Motivazione:**
 La previsione ha un punteggio TxGNN elevato ma nessuno studio clinico né pubblicazione a supporto (livello L5). La "suscettibilità genetica" non è una condizione trattabile.
 
+<!-- review:begin it-lic-20261106-flutamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La "suscettibilità genetica" non è una condizione trattabile. Inoltre l'autorizzazione italiana è cancellata e il profilo di epatotossicità sfavorisce nuovi sviluppi.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-flutamide-1 -->
+
 **Per procedere sarebbe necessario:**
 - Chiarire se esista una popolazione o un'indicazione clinicamente definibile (ad es. prevenzione in soggetti ad alto rischio) distinta dal carcinoma prostatico già trattato
 - Dati dettagliati sul meccanismo d'azione
@@ -109,6 +115,19 @@ La previsione ha un punteggio TxGNN elevato ma nessuno studio clinico né pubbli
 ---
 
 *Nota sulle altre previsioni:* tra le altre indicazioni previste, "tumore benigno dell'apparato riproduttivo" ha livello L3 (studi osservazionali e istopatologici, in parte su flutamide in iperplasia prostatica benigna), mentre "tumore dell'apparato riproduttivo maschile" ha livello L1 solo perché include il carcinoma prostatico, già indicazione originale. Le altre (fibroma prostatico, tumore di Brenner, leiomioma prostatico, tumore filloide prostatico, HIV e infezioni correlate in modelli animali) hanno livello L5, senza evidenze di supporto.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e il profilo di epatotossicità sfavorisce nuovi sviluppi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

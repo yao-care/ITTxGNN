@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Glulisine: nuova indicazione prevista, Thiamine-responsive dysfunction syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -119,13 +119,39 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 - Le evidenze per il diabete di tipo 1 sono solide (più studi di fase 3 completati e RCT pubblicati; livello L1). Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento.
 
+<!-- review:begin it-lic-20261106-insulin_glulisine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento. Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_glulisine-1 -->
+
 **Per procedere sono necessari:**
 - Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio.
 - Acquisizione del foglio illustrativo AIFA per avvertenze e controindicazioni (dato attualmente mancante).
 - Dati dettagliati sul meccanismo d'azione da DrugBank.
 - Un piano di monitoraggio per le interazioni (in particolare con simpaticomimetici e altri antidiabetici) e per ipoglicemia.
 
+<!-- review:begin it-lic-20261106-insulin_glulisine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio (autorizzazioni revocate).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_glulisine-2 -->
+
 **Nota sulle altre predizioni:** le altre nove indicazioni previste (ad esempio sindrome da disfunzione tiamino-responsiva, sindrome della persona rigida, atrofia pancreatica, lipodistrofie localizzate) non hanno studi né pubblicazioni. Per lo più riflettono associazioni di rete o comorbidità con il diabete. Le lipodistrofie localizzate sono anzi un noto effetto avverso delle iniezioni di insulina. Sono quindi da mantenere in **Hold**, tranne l'agenesia pancreatica, che è una questione di ricerca plausibile ma richiede una valutazione separata di sicurezza e dosaggio in ambito neonatale e pediatrico.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni revocate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

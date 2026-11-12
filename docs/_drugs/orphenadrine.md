@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Orphenadrine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
 description: "Orphenadrine: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -114,12 +114,38 @@ Le altre previsioni non dispongono né di studi clinici né di letteratura (live
 **Motivazione:**
 Per la schizofrenia esiste solo letteratura storica che documenta l'uso dell'orfenadrina come adiuvante contro gli effetti extrapiramidali, non come trattamento della malattia. Non ci sono studi clinici registrati e le informazioni di sicurezza sono incomplete. Le altre previsioni sono puramente computazionali.
 
+<!-- review:begin it-lic-20261106-orphenadrine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non ci sono studi clinici registrati, la sua autorizzazione italiana è annullata e le informazioni di sicurezza sono incomplete.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-orphenadrine-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per la valutazione di sicurezza).
 - Una valutazione se l'obiettivo sia davvero il trattamento della schizofrenia o la gestione degli effetti extrapiramidali, già coperta dalla pratica clinica.
 - Studi controllati moderni che valutino l'effetto su sintomi cognitivi e negativi, con attenzione al rischio anticolinergico.
 - Una verifica della disponibilità commerciale del farmaco in Italia.
+
+<!-- review:begin it-lic-20261106-orphenadrine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Una verifica della disponibilità commerciale del farmaco in Italia, dato che l'unica autorizzazione è annullata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-orphenadrine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «la sua autorizzazione italiana è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 464
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Vildagliptin: nuova indicazione prevista, Sindrome della persona rigida classica (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -92,12 +92,31 @@ Per le informazioni di sicurezza (avvertenze, controindicazioni e interazioni) s
 **Motivazione:**
 - La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile.
 
+<!-- review:begin it-lic-20261106-vildagliptin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile. / Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-vildagliptin-1 -->
+
 **Per procedere sarebbe necessario:**
 - Un razionale meccanicistico credibile tra inibizione della DPP-4 e patogenesi autoimmune della sindrome (anti-GAD65), supportato da dati preclinici.
 - Dati sul meccanismo d'azione e sulla sicurezza (avvertenze e controindicazioni dal foglietto illustrativo AIFA).
 - Una verifica della situazione regolatoria delle 11 autorizzazioni valide.
 
 **Nota su un'altra indicazione:** per il **diabete mellito di tipo 1** esiste evidenza clinica di livello L2 per vildagliptin. Comprende studi di fase 2 completati (tra cui rapamicina più vildagliptin sulla funzione β-cellulare, con un RCT pubblicato nel 2021) e uno studio di fase 3 con stato sconosciuto su 44 pazienti. Le prove sono però di piccola dimensione, in parte di tipo meccanicistico, e il disegno in combinazione non isola l'effetto di vildagliptin. Rimane inoltre il segnale di sicurezza di pancreatite da monitorare. Merita quindi di essere valutata separatamente come domanda di ricerca, indipendentemente dall'indicazione principale di questo rapporto.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

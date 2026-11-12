@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Reboxetine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "Reboxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
@@ -123,11 +123,30 @@ Per le altre informazioni di sicurezza (avvertenze, controindicazioni) si rimand
 - Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea.
 - La previsione con il punteggio più alto (torcicollo parossistico benigno dell'infanzia) è priva di qualsiasi supporto e va considerata un probabile artefatto del modello.
 
+<!-- review:begin it-lic-20261106-reboxetine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea. Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-reboxetine-1 -->
+
 **Per procedere sono necessari:**
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Studi controllati specifici sull'agorafobia o sul disturbo di panico con agorafobia
 - Chiarimento sulle ragioni della revoca delle autorizzazioni e sulla fattibilità regolatoria di una eventuale riautorizzazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

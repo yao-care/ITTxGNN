@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 21
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acitretin: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA…"
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -78,6 +78,12 @@ Vanno inoltre considerati limiti pratici rilevanti: la teratogenicità, il lungo
 
 Attualmente non sono disponibili pubblicazioni correlate.
 
+<!-- review:begin it-lic-20261106-acitretin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-acitretin-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -108,13 +114,40 @@ I dati sulla sicurezza tratti dal foglio illustrativo non sono disponibili; si r
 **Motivazione:**
 Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non esistono studi clinici o pubblicazioni specifici (l'unico studio è su un'altra patologia e usa l'acitretina come comparatore). Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore.
 
+<!-- review:begin it-lic-20261106-acitretin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore, mentre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-acitretin-2 -->
+
 **Per procedere sono necessari:**
 - Dati di avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Evidenza clinica diretta nell'acne e confronto con l'isotretinoina
 - Chiarimento dello stato regolatorio in Italia e di un eventuale piano di gestione del rischio teratogeno
 
+<!-- review:begin it-lic-20261106-acitretin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate) e di un eventuale piano di gestione del rischio teratogeno» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-acitretin-3 -->
+
 **Note sulle altre predizioni** (tutte L5, Hold): lupus eritematoso sistemico pediatrico (punteggio 0,9935; legame speculativo e rischi pediatrici come chiusura precoce delle epifisi), eritroblastosi fetale (0,9928; il punteggio proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica; clinicamente inappropriata per la teratogenicità) e sindrome familiare da teleangectasia cutanea e predisposizione al cancro orofaringeo (0,9910; legame teorico debole, richiederebbe un approccio specialistico caso per caso).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «mentre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

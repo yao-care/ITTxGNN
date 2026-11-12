@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MOROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: nuova indicazione prevista, Primary release disorder of platelets (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -100,12 +100,31 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Motivazione:**
 La previsione per il disturbo da rilascio piastrinico primario si basa solo sul modello (L5), senza studi clinici né letteratura. Il difetto piastrinico non è mediato dal FVIII.
 
+<!-- review:begin it-lic-20261106-moroctocog_alfa-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il difetto piastrinico non è mediato dal FVIII, e il prodotto non ha più autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-moroctocog_alfa-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Una revisione sistematica della letteratura e delle registrazioni di studi per le indicazioni previste
 - La verifica dell'identità della malattia "flood factor deficiency"
 - Una valutazione preliminare della carenza acquisita di fattori della coagulazione, la candidata meccanicisticamente più plausibile, tenendo conto degli inibitori anti-FVIII
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e il prodotto non ha più autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

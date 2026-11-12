@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: nuova indicazione prevista, Gastroduodenitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -117,12 +117,38 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Motivazione:**
 - L'evidenza è a livello L4: l'unico studio clinico riguarda un uso procedurale (visualizzazione endoscopica) e non la guarigione dell'ulcera; la letteratura è costituita in gran parte da rassegne datate. Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva.
 
+<!-- review:begin it-lic-20261106-metoclopramide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva. / Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metoclopramide-1 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Definire con precisione il bersaglio clinico (sollievo sintomatico vs. guarigione dell'ulcera vs. uso procedurale in endoscopia): quest'ultimo appare il filone più concreto, grazie ai recenti RCT del 2024 e 2026.
 - Valutare lo stato regolatorio attuale e le formulazioni disponibili.
 - Eseguire studi clinici controllati con endpoint di guarigione ulcerosa o di sintomi, se si vuole sostenere l'indicazione terapeutica.
+
+<!-- review:begin it-lic-20261106-metoclopramide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare lo stato regolatorio attuale e le formulazioni disponibili, dato che le autorizzazioni note sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-metoclopramide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni note sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

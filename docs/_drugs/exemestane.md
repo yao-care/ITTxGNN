@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -117,12 +117,31 @@ Nota di contesto: le condizioni trombofiliche predette sono rilevanti poiché gl
 **Motivazione:**
 Le predizioni si basano solo sul punteggio del modello (livello L5 per il rango 1; L4 per l'amenorrea, che è un effetto farmacologico atteso e non un obiettivo di riposizionamento). Mancano studi clinici, razionale meccanicistico e dati di sicurezza dal foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-exemestane-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Mancano studi clinici, razionale meccanicistico e dati di sicurezza dal foglio illustrativo. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-exemestane-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Chiarimento delle indicazioni originali approvate e della forma farmaceutica
 - Verifica del motivo della cancellazione delle autorizzazioni e dell'eventuale disponibilità attuale del prodotto
 - Per qualsiasi indicazione candidata, razionale biologico credibile e dati preclinici o clinici prima di riconsiderare la decisione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

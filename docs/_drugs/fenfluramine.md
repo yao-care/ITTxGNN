@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 194
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
 description: "Fenfluramine: nuova indicazione prevista, Sindrome da microdelezione prossimale 16p11.2 (proximal 16p11.2 microdeletion syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei da…"
@@ -72,6 +72,12 @@ Attualmente non risulta alcuno studio clinico correlato registrato.
 
 Attualmente non è disponibile alcuna letteratura correlata.
 
+<!-- review:begin it-lic-20261106-fenfluramine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fenfluramine-1 -->
+
 ## Informazioni sul mercato italiano
 
 | N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
@@ -93,12 +99,32 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 **Motivazione:**
 La previsione ha un punteggio molto alto (0,9993) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2. Le informazioni ufficiali di sicurezza non sono state acquisite.
 
+<!-- review:begin it-lic-20261106-fenfluramine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione ha un punteggio molto alto (0,9993) ma livello di evidenza L5: non ci sono studi clinici né letteratura per la sindrome da microdelezione 16p11.2, e in Italia le autorizzazioni disponibili sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-fenfluramine-2 -->
+
 **Per procedere è necessario:**
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni), indispensabile per lo screening di sicurezza
 - Ottenere dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Condurre una ricerca sistematica della letteratura e dei registri di studi su fenfluramina e sindrome 16p11.2 (epilessia, obesità, tratti autistici)
 - Valutare la fattibilità regolatoria in assenza di autorizzazioni valide in Italia
 - Valutare il rischio cardiovascolare (valvolopatia, ipertensione polmonare) in relazione alle controindicazioni segnalate dal grafo di conoscenza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e in Italia le autorizzazioni disponibili sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

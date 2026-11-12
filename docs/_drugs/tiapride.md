@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 435
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tiapride: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L3). Indicazione originale: Non disponibile nei dati AIFA (il testo dell'indicazione approvata è…"
 monitor_inn: "TIAPRIDE"
 predicted_indications: ["migraine disorder"]
@@ -108,12 +108,31 @@ Per le informazioni sulla sicurezza si rimanda al foglietto illustrativo. I dati
 **Motivazione:**
 La letteratura è consistente ma fragile: un solo RCT pilota recente, mentre gli altri studi risalgono agli anni 1979-1984 con metodologia limitata. Non vi sono studi clinici registrati.
 
+<!-- review:begin it-lic-20261106-tiapride-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non vi sono studi clinici registrati. Inoltre, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza del foglietto illustrativo, che bloccano la valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tiapride-1 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Dati sul meccanismo d'azione da DrugBank
 - Valutazione critica dell'RCT pilota del 2022 e, se possibile, studi confermativi più ampi con metodologia moderna
 - Chiarimento della disponibilità attuale del farmaco in Italia e delle vie di somministrazione compatibili con l'uso nell'emicrania
 - Analisi della somiglianza tra indicazione originale e nuova indicazione, una volta ottenute le indicazioni approvate
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza del foglietto illustrativo, che bloccano la valutazione » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

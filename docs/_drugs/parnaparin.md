@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "parnaparin"
 predicted_indications: ["breast fibrocystic disease", "thrombophilia due to protein C deficiency, autosomal recessive", "benign mammary dysplasia"]
 description: "Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -68,6 +68,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non è disponibile letteratura correlata.
 
+<!-- review:begin it-lic-20261106-parnaparin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-parnaparin-1 -->
+
 ## Informazioni sul mercato italiano
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
@@ -102,6 +108,26 @@ Mancano inoltre i dati su meccanismo d'azione e sicurezza ufficiale.
 - Condurre una revisione della letteratura sull'uso di eparina/EBPM nella malattia fibrocistica della mammella e, in parallelo, nel deficit congenito di proteina C, indicazione più plausibile da approfondire per prima.
 - Valutare la fattibilità regolatoria e commerciale.
 - Verificare la compatibilità della via di somministrazione (sottocutanea) con la nuova indicazione.
+
+<!-- review:begin it-lic-20261106-parnaparin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria e commerciale, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-parnaparin-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

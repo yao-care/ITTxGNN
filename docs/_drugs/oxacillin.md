@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Oxacillin: nuova indicazione prevista, Epiglottite (livello di evidenza L5). Indicazione originale: Infezioni da Staphylococcus aureus e infezioni stafilococciche (farin…"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -66,6 +66,12 @@ L'epiglottite è un'infezione batterica della regione sopraglottica. La causa cl
 
 Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. La rilevanza pratica di questa previsione è quindi limitata.
 
+<!-- review:begin it-lic-20261106-oxacillin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oxacillin-1 -->
+
 Per completezza, le altre previsioni del modello sono:
 
 | Posizione | Indicazione prevista | Punteggio | Evidenza | Note |
@@ -115,12 +121,39 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 **Motivazione:**
 La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né pubblicazioni, e l'oxacillina ha scarsa attività sull'agente classico (*H. influenzae*). Per le infezioni stafilococciche esistono alternative consolidate.
 
+<!-- review:begin it-lic-20261106-oxacillin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il prodotto è inoltre revocato in Italia, e per le infezioni stafilococciche esistono alternative consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oxacillin-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliati (ad es. da DrugBank)
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze cliniche o microbiologiche specifiche sull'oxacillina nell'epiglottite
 - Valutazione di fattibilità regolatoria
 - Se si vuole un'opzione più solida, valutare l'artrite batterica da MSSA, che è un'estensione dell'indicazione stafilococcica esistente (livello L4), previa revisione sistematica di dati specifici sull'oxacillina
+
+<!-- review:begin it-lic-20261106-oxacillin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione di fattibilità regolatoria, dato lo stato di autorizzazione revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-oxacillin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Il prodotto è inoltre revocato in Italia, e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

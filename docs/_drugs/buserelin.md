@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Buserelin: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Carcinoma della prostata (da dati di farmacologia"
 monitor_inn: "BUSERELIN"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -64,6 +64,12 @@ L'unica pubblicazione recuperata riguarda il monitoraggio endocrino dell'ipopitu
 
 Al momento non risultano studi clinici correlati registrati.
 
+<!-- review:begin it-lic-20261106-buserelin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-buserelin-1 -->
+
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
@@ -102,12 +108,39 @@ Per quanto riguarda le interazioni, i dati compilati riportano solo il legame fa
 **Motivazione:**
 La previsione si basa solo su un modello computazionale, senza studi clinici né letteratura che testino buserelin nell'ipertricosi. Il meccanismo è debole per le forme genetiche.
 
+<!-- review:begin it-lic-20261106-buserelin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è debole per le forme genetiche, e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-buserelin-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione e sulle indicazioni originali dal foglio illustrativo AIFA
 - Informazioni di sicurezza (avvertenze e controindicazioni) dal foglio illustrativo
 - Distinzione dei sottotipi di ipertricosi androgeno-dipendenti, dove il razionale ormonale è plausibile
 - Dati preclinici o clinici che valutino buserelin in questa condizione
 - Verifica della disponibilità commerciale del prodotto
+
+<!-- review:begin it-lic-20261106-buserelin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale del prodotto, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-buserelin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

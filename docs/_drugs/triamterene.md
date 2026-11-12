@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "triamterene"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Triamterene: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -105,12 +105,31 @@ Per le informazioni complete sulla sicurezza si rimanda al foglietto illustrativ
 **Motivazione:**
 La predizione è basata solo sul modello (livello L5), senza studi clinici né letteratura pertinente. Il contesto clinico (emergenza ipertensiva, insufficienza renale con rischio di iperkaliemia) è sfavorevole a un diuretico risparmiatore di potassio.
 
+<!-- review:begin it-lic-20261106-triamterene-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il contesto clinico (emergenza ipertensiva, insufficienza renale con rischio di iperkaliemia) è sfavorevole a un diuretico risparmiatore di potassio, e l'unica autorizzazione italiana è annullata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-triamterene-1 -->
+
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione (DrugBank)
 - Studi clinici o letteratura specifici sull'uso del triamterene nella malattia renale ipertensiva maligna
 - Valutazione del rischio di iperkaliemia nei pazienti con compromissione renale
 - Verifica della compatibilità di via di somministrazione e della disponibilità di un prodotto autorizzato in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

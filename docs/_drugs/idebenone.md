@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "IDEBENONE"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 description: "Idebenone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -99,12 +99,31 @@ I dati compilati non contengono informazioni su avvertenze, controindicazioni o 
 **Motivazione:**
 La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni.
 
+<!-- review:begin it-lic-20261106-idebenone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni. Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-idebenone-1 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi preclinici o revisioni della letteratura sul legame tra idebenone e stress ossidativo/mitocondriale nella porfiria epatica
 - Chiarimento dei motivi della cancellazione dell'autorizzazione italiana e della disponibilità di formulazioni
 - Verifica di compatibilità della via di somministrazione e della similarità con l'indicazione originale
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sic» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

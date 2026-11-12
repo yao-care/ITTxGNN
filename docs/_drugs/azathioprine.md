@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 description: "Azathioprine: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -107,6 +107,12 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Motivazione:**
 La previsione per questa sindrome rara si basa solo sul punteggio del modello (livello L5), senza studi né letteratura e senza alcun razionale meccanicistico.
 
+<!-- review:begin it-lic-20261106-azathioprine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per questa sindrome rara si basa solo sul punteggio del modello (livello L5), senza studi né letteratura e senza alcun razionale meccanicistico. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-azathioprine-1 -->
+
 **Per procedere sarebbero necessari:**
 - Un razionale biologico che colleghi l'azatioprina alla fisiopatologia della sindrome (oggi assente)
 - Dati preclinici o casi clinici a supporto
@@ -117,6 +123,19 @@ La previsione per questa sindrome rara si basa solo sul punteggio del modello (l
 - genotipizzazione TPMT/NUDT15;
 - monitoraggio di emocromo e funzionalità epatica;
 - sorveglianza del rischio di linfomi, tumori cutanei e infezioni, soprattutto in associazione con farmaci anti-TNF.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

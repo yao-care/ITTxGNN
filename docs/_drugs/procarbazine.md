@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 363
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Procarbazine: nuova indicazione prevista, Linfoma follicolare (livello di evidenza L3). Indicazione originale: Linfoma di Hodgkin (incluso il linfoma di Hodgkin classico)"
 monitor_inn: "Procarbazine"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -131,6 +131,12 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 **Motivazione:**
 L'evidenza si limita a plausibilità biologica, un case report in revisione e schemi di combinazione datati; i due studi clinici correlati non forniscono dati diretti sulla procarbazina. Nel linfoma follicolare moderno la procarbazina non è un agente standard.
 
+<!-- review:begin it-lic-20261106-procarbazine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nel linfoma follicolare moderno la procarbazina non è un agente standard, e in Italia l'unica autorizzazione è stata cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-procarbazine-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA)
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
@@ -138,6 +144,19 @@ L'evidenza si limita a plausibilità biologica, un case report in revisione e sc
 - Valutazione della disponibilità del prodotto in Italia, data la cancellazione dell'autorizzazione
 
 **Altre predizioni (a titolo informativo):** neuroblastoma (L4, Hold; solo supporto in vitro debole e nessuno studio clinico), ganglioneuroblastoma, neoplasia retroperitoneale e la sindrome con anomalie vertebrali e disfunzione endocrina e dei linfociti T (tutti L5, Hold; solo punteggio del modello, senza studi né letteratura).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e in Italia l'unica autorizzazione è stata cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -82,6 +82,12 @@ Attualmente non è disponibile alcuna letteratura correlata al blocco di branca.
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:
 
+<!-- review:begin it-lic-20261106-verapamil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-verapamil-1 -->
+
 | Numero di autorizzazione | Prodotto | Titolare | Stato |
 |------|------|------|------|
 | 034255048 | Verapamil 240 mg, 30 capsule a rilascio prolungato | DOC Generici Srl | Valida |
@@ -109,11 +115,38 @@ Per le informazioni complete fare riferimento al foglio illustrativo.
 **Motivazione:**
 La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto.
 
+<!-- review:begin it-lic-20261106-verapamil-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-verapamil-2 -->
+
 **Per procedere sarebbe necessario:**
 - Verificare se il termine obsoleto corrisponda a una malattia attuale e rivalutare la previsione su di essa
 - Acquisire i dati di meccanismo d'azione e il foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Valutare in alternativa le indicazioni con link più plausibile (ipertensione renovascolare maligna, ipertensione polmonare vasoreattiva) tramite ricerca bibliografica mirata
 - Chiarire lo stato regolatorio attuale del verapamil in Italia
+
+<!-- review:begin it-lic-20261106-verapamil-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio attuale del verapamil in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-verapamil-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

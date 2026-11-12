@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lumacaftor"
 predicted_indications: ["leprosy"]
 description: "Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -69,6 +69,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non è disponibile letteratura correlata.
 
+<!-- review:begin it-lic-20261106-lumacaftor-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lumacaftor-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Stato |
@@ -100,12 +106,39 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato.
 
+<!-- review:begin it-lic-20261106-lumacaftor-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato. Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lumacaftor-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank e analisi del collegamento meccanicistico con la lebbra
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Studi preclinici (es. modelli cellulari di infezione da *M. leprae*) che verifichino l'ipotesi
 - Valutazione della compatibilità delle vie di somministrazione e della somiglianza con l'indicazione originale
 - Chiarimento della situazione regolatoria
+
+<!-- review:begin it-lic-20261106-lumacaftor-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lumacaftor-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

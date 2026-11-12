@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -62,6 +62,12 @@ Il rapporto sottostante documenta lo stato attuale dei dati e identifica cosa de
 
 > Questo farmaco non è attualmente registrato o commercializzato sotto questo INN nella giurisdizione interrogata. La verifica incrociata con i record AIFA (Italia) o EMA potrebbe essere necessaria se il prodotto è commercializzato sotto un nome commerciale o uno spelling INN alternativo.
 
+<!-- review:begin it-lic-20261106-clozapina-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione normativa è stata trovata per CLOZAPINA nel database del mercato interrogato. La query TFDA (2026-03-29) ha restituito 0 risultati.» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clozapina-1 -->
+
 ---
 
 ## Considerazioni di Sicurezza
@@ -84,6 +90,25 @@ Il Fascicolo di Prove per CLOZAPINA è criticamente incompleto — non ci sono i
 - **Dati MOA** (Data Gap DG002, Alta gravità): Interrogare l'API di DrugBank per il meccanismo d'azione — il profilo dei recettori D2/5-HT2A della clozapina è centrale per comprendere qualsiasi crossover meccanicistico
 - **Dati di sicurezza** (Data Gap DG001, Gravità Bloccante): Scaricare e analizzare il foglio illustrativo ufficiale dal sito web AIFA per estrarre avvertenze e controindicazioni — questo è contrassegnato come **Bloccante** e deve essere risolto prima di qualsiasi screening di sicurezza
 - **Chiarimento dell'ambito di mercato**: Verificare se questa valutazione è destinata al mercato italiano (AIFA) o a un'altra giurisdizione, poiché l'etichetta del campo e la fonte della query sembrano non corrispondere in questo Fascicolo di Prove
+
+<!-- review:begin it-lic-20261106-clozapina-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «**Dati di sicurezza** (Data Gap DG001, Gravità Bloccante): Scaricare e analizzare il foglio illustrativo ufficiale dal sito web TFDA o AIFA per estrarre avvertenze e controindicazioni — questo è contrassegnato come **Bloccante** e deve essere risolto prima di qualsiasi screening di sicurezza» Rimosso: testo residuo del modello taiwanese (TFDA), non pertinente a questa pagina. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-clozapina-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Nessuna autorizzazione normativa è stata trovata per CLOZAPINA nel database del mercato interrogato. La query TFDA (2026-03-29) ha restituit» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «TFDA o» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -107,6 +107,12 @@ Per le altre predizioni non è disponibile letteratura, a eccezione di "disturbi
 
 (Esiste inoltre la confezione REMINYL 24 mg, n. 034752170, anch'essa cancellata.)
 
+<!-- review:begin it-lic-20261106-galantamine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-galantamine-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -128,12 +134,39 @@ Per le informazioni complete consultare il foglietto illustrativo.
 **Motivazione:**
 - Le predizioni sono basate quasi esclusivamente sul modello (L5), senza studi clinici registrati. La discinesia tardiva è l'unica direzione con un razionale plausibile (L4, "domanda di ricerca"), ma le evidenze sono a livello di classe e non specifiche per la galantamina, con un RCT crossover non riassunto in termini di esito.
 
+<!-- review:begin it-lic-20261106-galantamine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La discinesia tardiva è l'unica direzione con un razionale plausibile (L4, "domanda di ricerca"), ma le evidenze sono a livello di classe e non specifiche per la galantamina, con un RCT crossover non riassunto in termini di esito. / Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-galantamine-2 -->
+
 **Per procedere sono necessari:**
 - Foglietto illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Dati sul meccanismo d'azione da DrugBank.
 - Lettura critica dell'RCT crossover del 2007 (PMID 17388711) e della meta-analisi del 2004 per estrarre l'effetto specifico della galantamina nella discinesia tardiva.
 - Valutazione del rapporto rischio-beneficio, dato il segnale di disturbi del movimento indotti dagli inibitori delle colinesterasi.
 - Chiarimento della disponibilità commerciale della galantamina in Italia e della compatibilità di via/forma farmaceutica.
+
+<!-- review:begin it-lic-20261106-galantamine-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della disponibilità commerciale della galantamina in Italia (stato "cancellato") e della compatibilità di via/forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-galantamine-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(stato "cancellato")» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

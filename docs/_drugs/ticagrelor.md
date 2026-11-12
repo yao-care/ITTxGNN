@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -90,6 +90,12 @@ L'evidenza diretta è però ancora in attesa: lo studio di fase 3 CAPTIVA (NCT05
 
 I testi delle indicazioni approvate non sono disponibili. Si riportano le prime 5.
 
+<!-- review:begin it-lic-20261106-ticagrelor-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni elencate sono tutte cancellate; i testi delle indicazioni approvate non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ticagrelor-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare |
 |---------|------|------|
 | 040546083 | BRILIQUE 56 cpr rivestite 60 mg (confezione calendarizzata) | AstraZeneca AB |
@@ -117,6 +123,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 **Motivazione:**
 Il razionale meccanicistico è plausibile e lo studio CAPTIVA di fase 3 è direttamente pertinente, ma non ha ancora risultati e il ruolo del ticagrelor al suo interno non è isolato. Le informazioni di sicurezza ufficiali non sono disponibili; il rischio emorragico (incluso quello intracranico) richiede particolare cautela.
 
+<!-- review:begin it-lic-20261106-ticagrelor-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre in Italia tutte le autorizzazioni risultano cancellate e le informazioni di sicurezza ufficiali non sono disponibili; il rischio emorragico (incluso quello intracranico) richiede particolare cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ticagrelor-2 -->
+
 **Per procedere è necessario:**
 - Attendere i risultati dello studio CAPTIVA (completamento previsto nel 2027) e dello studio pilota NCT06714526
 - Acquisire avvertenze e controindicazioni dal foglietto illustrativo AIFA
@@ -124,7 +136,28 @@ Il razionale meccanicistico è plausibile e lo studio CAPTIVA di fase 3 è diret
 - Reperire dati formali sul meccanismo d'azione (DrugBank)
 - Definire un piano di monitoraggio del rischio emorragico, in particolare intracranico
 
+<!-- review:begin it-lic-20261106-ticagrelor-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare lo stato regolatorio effettivo del ticagrelor in Italia, dato che tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ticagrelor-3 -->
+
 **Nota sulle altre indicazioni previste:** tra le previsioni successive, l'«malattia ischemica» (livello L1) si sovrappone in gran parte alle indicazioni già approvate e rappresenta più un'estensione che un vero riposizionamento; le restanti (Monckeberg, priapismo, sindrome di May-Thurner, livedo reticularis, occlusione vascolare mesenterica, ectasia vascolare, angiodisplasia, tromboembolismo venoso) hanno evidenza assente o molto debole. Per l'angiodisplasia, in particolare, esiste un problema di sicurezza (rischio di peggiorare il sanguinamento).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Le autorizzazioni elencate sono tutte cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre in Italia tutte le autorizzazioni risultano cancellate e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

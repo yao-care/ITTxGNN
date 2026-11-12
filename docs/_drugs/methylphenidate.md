@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -110,6 +110,12 @@ Le pubblicazioni sotto elencate riguardano la predizione del rank 3 (disturbo sp
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
 
+<!-- review:begin it-lic-20261106-methylphenidate-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylphenidate-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 041438045 | MEDIKINET 30 cps 10 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
@@ -139,12 +145,39 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 - La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura.
 - Le predizioni con letteratura (disturbo specifico dello sviluppo e disturbo distimico, livello L4) sono più adatte come domande di ricerca: le prove sono indirette e riguardano soprattutto l'ADHD e le sue comorbidità.
 
+<!-- review:begin it-lic-20261106-methylphenidate-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylphenidate-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione dettagliato (MOA).
 - Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni, necessario per lo screening di sicurezza.
 - Una revisione sistematica mirata della letteratura sulla sindrome faciodigitogenitale (sintomi di tipo ADHD) e sul disturbo distimico.
 - Se ritenuto opportuno, un piccolo studio esplorativo in popolazioni neuroevolutive geneticamente definite, con attenzione al profilo cardiovascolare e di abuso degli stimolanti.
 - Chiarimento sullo stato regolatorio e sulle formulazioni disponibili.
+
+<!-- review:begin it-lic-20261106-methylphenidate-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sullo stato regolatorio (autorizzazioni cancellate) e sulle formulazioni disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylphenidate-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

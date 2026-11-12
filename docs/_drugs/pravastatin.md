@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
@@ -110,6 +110,12 @@ Sono presenti altri due studi di fase 1 nei dati compilati (NCT00017758 e NCT000
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le prime 5 autorizzazioni:
 
+<!-- review:begin it-lic-20261106-pravastatin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pravastatin-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 037517226 | Pravastatina 14 cpr 40 mg | Teva Italia Srl | Valida |
@@ -139,6 +145,12 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - Per l'HIV esistono studi randomizzati sulla pravastatina (incluso uno di fase 3 con 630 partecipanti, pravastatina vs fenofibrato, e studi di fase 2/4), insieme a una revisione sistematica e a numerosi studi di farmacocinetica. Il livello di evidenza è L2. Il razionale riguarda la dislipidemia e il rischio cardiovascolare, non un effetto antivirale.
 - I dati di sicurezza dal foglietto illustrativo AIFA mancano.
 
+<!-- review:begin it-lic-20261106-pravastatin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il prodotto non ha autorizzazioni attive in Italia, e i dati di sicurezza dal foglietto illustrativo AIFA mancano.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pravastatin-2 -->
+
 **Per procedere è necessario:**
 - Reperire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni): lacuna bloccante per lo screening di sicurezza.
 - Completare i dati sul meccanismo d'azione da DrugBank.
@@ -146,9 +158,30 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - Definire un piano di gestione delle interazioni con gli antiretrovirali (es. darunavir/ritonavir) e di monitoraggio della sicurezza muscolare, epatica e renale.
 - Chiarire la situazione regolatoria.
 
+<!-- review:begin it-lic-20261106-pravastatin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la situazione regolatoria, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pravastatin-3 -->
+
 **Altre previsioni TxGNN (sintesi):**
 - Cautele: dosaggio pediatrico e monitoraggio della crescita.
 - *Ipoalfalipoproteinemia* (L4), *deficit di colesterolo 7α-idrossilasi*, *deficit di CETP*, *disturbo del neurosviluppo con atassia*, *infezione da virus dell'immunodeficienza delle scimmie* e *AIDS felina* (L5): Hold, senza studi di supporto o con rilevanza clinica umana limitata.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «l prodotto non ha autorizzazioni attive in Italia, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

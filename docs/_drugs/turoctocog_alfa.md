@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
 description: "Turoctocog Alfa: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
@@ -80,6 +80,12 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 Titolare: Novo Nordisk A/S.
 
+<!-- review:begin it-lic-20261106-turoctocog_alfa-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-turoctocog_alfa-1 -->
+
 ## Considerazioni sulla sicurezza
 
 Le informazioni su avvertenze e controindicazioni dal foglio illustrativo AIFA non sono disponibili nei dati compilati per questo report, e non sono state identificate interazioni farmacologiche. Si rimanda al foglio illustrativo per le informazioni di sicurezza.
@@ -93,12 +99,32 @@ Si segnala inoltre, sul piano teorico, che l'uso di un fattore procoagulante in 
 **Motivazione:**
 Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza studi clinici né letteratura. Per la previsione principale manca un razionale meccanicistico.
 
+<!-- review:begin it-lic-20261106-turoctocog_alfa-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Per la previsione principale manca un razionale meccanicistico, e il prodotto non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-turoctocog_alfa-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per la valutazione di sicurezza)
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Verifica della denominazione di alcune malattie previste (ad esempio «flood factor deficiency») rispetto a ontologie standard come MONDO o Orphanet
 - Valutazione prioritaria della «carenza acquisita di fattori della coagulazione» come candidato più plausibile, con revisione della letteratura e degli studi esistenti
 - Chiarimento dello stato regolatorio (cancellazione delle autorizzazioni) e della disponibilità di prodotti alternativi
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

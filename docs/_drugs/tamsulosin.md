@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 description: "Tamsulosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riporta…"
@@ -92,6 +92,12 @@ Entrambi gli studi riflettono associazioni legate all'iperplasia prostatica beni
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati. Le prime 5 autorizzazioni:
 
+<!-- review:begin it-lic-20261106-tamsulosin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tamsulosin-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 036908010 | ANTUNES 20 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Valida |
@@ -119,12 +125,39 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 **Motivazione:**
 La predizione si basa unicamente sul modello (livello L5): non esistono studi clinici o pubblicazioni, né un razionale meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-tamsulosin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente sul modello (livello L5): non esistono studi clinici o pubblicazioni, né un razionale meccanicistico plausibile. Inoltre, in Italia tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tamsulosin-2 -->
+
 **Per procedere sarebbero necessari:**
 - Dati sul meccanismo d'azione (MOA) della tamsulosina e un'analisi del possibile legame con i disturbi del pelo
 - Dati di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Dati preclinici o di studi osservazionali che colleghino il blocco alfa-1 adrenergico alla crescita o alla struttura del pelo
 - Verifica dello stato regolatorio e della disponibilità commerciale in Italia
 - Rivalutazione delle altre predizioni con maggiore plausibilità biologica, poiché nessuna di quelle attuali mostra evidenze di supporto
+
+<!-- review:begin it-lic-20261106-tamsulosin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio e della disponibilità commerciale in Italia, dato che non vi sono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tamsulosin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

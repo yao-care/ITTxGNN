@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 description: "Ketoprofen: nuova indicazione prevista, Acromesomelic dysplasia, Hunter-Thompson type (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -101,11 +101,30 @@ Avvertenze e controindicazioni ufficiali del foglietto illustrativo AIFA non son
 **Motivazione:**
 La previsione è basata solo sul modello (L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile con una malattia genetica dello sviluppo scheletrico.
 
+<!-- review:begin it-lic-20261106-ketoprofen-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è basata solo sul modello (L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile con una malattia genetica dello sviluppo scheletrico. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ketoprofen-1 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione (MOA) del ketoprofene.
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni, indispensabile per lo screening di sicurezza.
 - Evidenze precliniche o cliniche specifiche per la displasia acromesomelica di tipo Hunter-Thompson.
 - Eventuale riorientamento verso indicazioni sintomatiche più plausibili (spondiloartropatia, artrite giovanile da difetto di LACC1, pseudoacondroplasia) come questioni di ricerca, con valutazione dello stato regolatorio e della via di somministrazione.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

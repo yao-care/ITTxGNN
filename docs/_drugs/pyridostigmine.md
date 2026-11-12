@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -109,11 +109,37 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 Il meccanismo sintomatico della piridostigmina è consolidato nella miastenia gravis AChR-positiva, e l'iperplasia del timo ne è una caratteristica comune. Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati.
 
+<!-- review:begin it-lic-20261106-pyridostigmine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati. Inoltre in Italia non esistono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pyridostigmine-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni ufficiali (lacuna bloccante per la valutazione di sicurezza)
 - Dati dettagliati sul meccanismo d'azione da DrugBank
 - Verifica dello stato anticorpale (AChR vs MuSK) prima dell'uso, data la scarsa tolleranza nella forma MuSK-positiva
 - Chiarimento dello status regolatorio in Italia
+
+<!-- review:begin it-lic-20261106-pyridostigmine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello status regolatorio in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pyridostigmine-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre in Italia non esistono attualmente autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

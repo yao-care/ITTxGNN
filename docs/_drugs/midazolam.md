@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 301
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -106,12 +106,31 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglietto illus
 **Motivazione:**
 Il meccanismo è plausibile e esistono studi clinici storici sul midazolam orale nell'insonnia, ma sono datati, di piccole dimensioni e non confermati da evidenze moderne. Il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.
 
+<!-- review:begin it-lic-20261106-midazolam-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni italiane sono tutte cancellate, il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-midazolam-1 -->
+
 **Per procedere è necessario:**
 - Acquisire e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per la valutazione di sicurezza
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Valutare la compatibilità di vie di somministrazione e formulazioni (le formulazioni italiane cancellate sono per mucosa orale, non per uso ipnotico orale)
 - Confrontare il midazolam con gli standard terapeutici attuali (Z-drugs, antagonisti dell'orexina) in termini di efficacia e sicurezza
 - Definire un piano di gestione delle interazioni, in particolare con i farmaci che agiscono sul CYP3A4
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Rotigotine: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Sindrome delle gambe senza riposo…"
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -99,6 +99,12 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 - **Controindicazioni e condizioni a rischio (da grafo di conoscenza, non da scheda tecnica)**: ipertensione/disturbi ipertensivi, atrofia multisistemica, sindrome da tachicardia posturale ortostatica, ipotensione ortostatica, discinesia indotta da farmaci.
 - **Interazioni**: l'interrogazione è stata completata, ma ha restituito solo i bersagli farmacologici (recettori dopaminergici D1, D2, D3, D4 e D5), non interazioni farmaco-farmaco clinicamente classificate.
 
+<!-- review:begin it-lic-20261106-rotigotine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rotigotine-1 -->
+
 Per le avvertenze e le controindicazioni ufficiali, fare riferimento al foglio illustrativo.
 
 ---
@@ -110,12 +116,32 @@ Per le avvertenze e le controindicazioni ufficiali, fare riferimento al foglio i
 **Motivazione:**
 La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD.
 
+<!-- review:begin it-lic-20261106-rotigotine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-rotigotine-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione da fonti ufficiali (DrugBank)
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Studi preclinici o clinici esplorativi della rotigotina nell'ADHD
 - Valutazione della compatibilità della via di somministrazione (cerotto transdermico) e della sua disponibilità sul mercato italiano
 - Valutazione del profilo di sicurezza, in particolare cardiovascolare (ipotensione ortostatica) e neuropsichiatrico, in una popolazione spesso pediatrica
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -98,11 +98,37 @@ Per le avvertenze ufficiali fare riferimento al foglietto illustrativo AIFA, che
 **Motivazione:**
 L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio clinico registrato) e il profilo di rischio è serio (anemia aplastica, insufficienza epatica, anafilassi). Per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.
 
+<!-- review:begin it-lic-20261106-felbamate-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il farmaco non è più commercializzato in Italia e per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-felbamate-1 -->
+
 **Per procedere sarebbe necessario:**
 - Ottenere e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per lo screening di sicurezza
 - Completare i dati sul meccanismo d'azione
 - Disporre di studi clinici controllati nella nevralgia del trigemino, idealmente in pazienti refrattari alle terapie standard
 - Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto
+
+<!-- review:begin it-lic-20261106-felbamate-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto, dato lo stato di autorizzazioni revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-felbamate-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Il farmaco non è più commercializzato in Italia e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

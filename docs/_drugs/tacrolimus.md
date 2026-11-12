@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 417
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
@@ -106,6 +106,12 @@ Si precisa che questo collegamento meccanicistico si basa sulla farmacologia gen
 
 La disponibilità effettiva dei prodotti deve essere verificata.
 
+<!-- review:begin it-lic-20261106-tacrolimus-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. La disponibilità effettiva dei prodotti deve essere verificata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tacrolimus-1 -->
+
 ---
 
 ## Considerazioni di sicurezza
@@ -125,6 +131,12 @@ Per le avvertenze e controindicazioni ufficiali si rimanda al foglietto illustra
 **Motivazione:**
 Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 completati con tacrolimus unguento, oltre a uno studio clinico sul mantenimento e a diverse revisioni, con un meccanismo plausibile condiviso con l'indicazione originale. Tuttavia non sono disponibili i risultati degli studi.
 
+<!-- review:begin it-lic-20261106-tacrolimus-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia non sono disponibili i risultati degli studi, e in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tacrolimus-2 -->
+
 **Per procedere sono necessari:**
 - Recupero dei risultati e degli endpoint primari degli studi NCT02004860 e NCT01591070
 - Dati dettagliati sul meccanismo d'azione (MOA)
@@ -132,11 +144,32 @@ Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 comple
 - Verifica della disponibilità commerciale e della situazione regolatoria in Italia
 - Piano di monitoraggio della sicurezza a lungo termine (rischio neoplastico, infezioni cutanee) per l'uso topico
 
+<!-- review:begin it-lic-20261106-tacrolimus-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale e della situazione regolatoria in Italia, dato che le autorizzazioni sono tutte cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tacrolimus-3 -->
+
 ---
 
 ## Altre indicazioni previste (breve nota)
 
 - **Parapsoriasi**: punteggio TxGNN 0,9924, livello di evidenza L4. Le evidenze si limitano a due case report su pitiriasi lichenoide trattata con tacrolimus topico ([15149526](https://pubmed.ncbi.nlm.nih.gov/15149526/), [12823321](https://pubmed.ncbi.nlm.nih.gov/12823321/)); il match con la parapsoriasi è approssimativo. Classificata come domanda di ricerca (Research Question).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

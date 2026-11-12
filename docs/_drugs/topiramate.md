@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Topiramate: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia con crisi tonico-cloniche generalizzate, epilessia parziale…"
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -96,6 +96,12 @@ Nota: questa letteratura riguarda l'epilessia in generale e non studi specifici 
 
 Il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
 
+<!-- review:begin it-lic-20261106-topiramate-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-topiramate-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 032023020 | TOPAMAX 60 cpr rivestite 50 mg (Janssen Cilag) | Compresse rivestite | Non disponibile |
@@ -121,12 +127,32 @@ Il testo dell'indicazione approvata non è disponibile. Si elencano le principal
 **Motivazione:**
 - La predizione per la neoplasia del nervo trigemino si basa unicamente sul punteggio TxGNN (0,997), senza sperimentazioni né letteratura (livello L5), e senza un razionale meccanicistico credibile.
 
+<!-- review:begin it-lic-20261106-topiramate-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per la neoplasia del nervo trigemino si basa unicamente sul punteggio TxGNN (0,997), senza sperimentazioni né letteratura (livello L5), e senza un razionale meccanicistico credibile. / Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-topiramate-2 -->
+
 **Per procedere sono necessari:**
 - Verifica del razionale biologico tra l'azione del topiramato e i tumori del nervo trigemino, tramite studi preclinici.
 - Acquisizione delle avvertenze e controindicazioni dal foglietto illustrativo AIFA (informazione di sicurezza attualmente mancante e bloccante).
 - Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank.
 - Chiarimento dello stato regolatorio (autorizzazioni cancellate) e dell'eventuale disponibilità commerciale del farmaco.
 - In alternativa, valutare come domande di ricerca le forme di epilessia riflessa (ad esempio epilessia visiva, crisi da pensiero, crisi audiogeniche), più coerenti con il meccanismo, ma con prove ancora solo indirette (livello L4).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

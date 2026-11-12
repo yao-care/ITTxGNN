@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tezacaftor: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Fibrosi cistica"
 monitor_inn: "tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
@@ -82,6 +82,12 @@ Attualmente non risulta alcuna letteratura correlata.
 
 Titolare: Vertex Pharmaceuticals (Ireland) Ltd.
 
+<!-- review:begin it-lic-20261106-tezacaftor-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono attualmente cancellate. Titolare: Vertex Pharmaceuticals (Ireland) Ltd.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tezacaftor-1 -->
+
 ## Considerazioni sulla sicurezza
 
 **Interazioni farmacologiche**: nei dati compilati compare solo l'interazione farmacologica con il bersaglio CFTR, coerente con il meccanismo d'azione noto del farmaco. Non sono state identificate interazioni con altri farmaci.
@@ -95,11 +101,31 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato.
 
+<!-- review:begin it-lic-20261106-tezacaftor-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tezacaftor-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) e analisi di un possibile legame tra la correzione di CFTR e l'HIV
 - Scarico e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Studi preclinici (in vitro) che valutino l'attività del farmaco contro l'HIV
 - Chiarimento dello stato regolatorio e della disponibilità del prodotto in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

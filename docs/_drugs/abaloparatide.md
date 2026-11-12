@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Abaloparatide: nuova indicazione prevista, Malformazione esofagea non sindromica (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale ad alto rischio di frattura"
 monitor_inn: "ABALOPARATIDE"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
@@ -96,6 +96,12 @@ Per le avvertenze e le controindicazioni, si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, letteratura o un razionale meccanicistico verificabile. Mancano i dati di sicurezza della scheda AIFA, che impediscono di procedere alla fase di screening di sicurezza.
 
+<!-- review:begin it-lic-20261106-abaloparatide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «In Italia l'unica autorizzazione è cancellata, e mancano i dati di sicurezza della scheda AIFA, che impediscono di procedere alla fase di screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-abaloparatide-1 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Dati dettagliati sul meccanismo d'azione (ad es. da DrugBank)
@@ -103,6 +109,19 @@ La previsione si basa esclusivamente sul punteggio del modello (livello di evide
 - Un'ipotesi più precisa rispetto a categorie ampie come "malattia esofagea"
 - Valutazione della compatibilità della via di somministrazione (iniettabile) con la nuova indicazione
 - Dati preclinici a supporto, prima di qualsiasi considerazione clinica
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «In Italia l'unica autorizzazione è cancellata, e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

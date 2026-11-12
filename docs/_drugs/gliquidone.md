@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "GLIQUIDONE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome"]
 description: "Gliquidone: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -85,12 +85,38 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Non sono sta
 **Motivazione:**
 La previsione si fonda esclusivamente su un punteggio elevato del modello TxGNN, senza studi clinici, letteratura o meccanismo d'azione documentato.
 
+<!-- review:begin it-lic-20261106-gliquidone-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda esclusivamente su un punteggio elevato del modello TxGNN, senza studi clinici, letteratura o meccanismo d'azione documentato. Inoltre l'unica autorizzazione italiana è cancellata, il che limita la fattibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gliquidone-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) da DrugBank e analisi del possibile legame con la fisiopatologia della sindrome della persona rigida
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (necessario per lo screening di sicurezza)
 - Revisione sistematica della letteratura e ricerca di studi preclinici o clinici su sulfoniluree o canali K-ATP in questa patologia
 - Valutazione della disponibilità commerciale del farmaco in Italia
 - Verifica della compatibilità della via di somministrazione con la nuova indicazione
+
+<!-- review:begin it-lic-20261106-gliquidone-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della disponibilità commerciale del farmaco in Italia, dato lo stato di autorizzazione cancellata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gliquidone-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata, il che limita la fattibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato lo stato di autorizzazione cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

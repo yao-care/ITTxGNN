@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 248
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Ketoconazole: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Micosi cutanee e sistemiche (tinea pedis, tinea corporis…"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
@@ -116,12 +116,31 @@ Per avvertenze e controindicazioni ufficiali fare riferimento alla scheda tecnic
 **Motivazione:**
 La predizione si basa su un punteggio computazionale elevato e su un solo piccolo studio di fase NA ancora in corso, senza risultati; il livello di evidenza è L4. Le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.
 
+<!-- review:begin it-lic-20261106-ketoconazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione italiana è cancellata e le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-ketoconazole-1 -->
+
 **Per procedere sono necessari:**
 - Risultati dello studio NCT07237763 e, idealmente, RCT di fase 2/3 con formulazione topica nell'acne
 - Scheda tecnica AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Definizione del sottogruppo target (ad es. acne/follicolite correlata a *Malassezia*) e della via di somministrazione, con disponibilità di una formulazione topica in Italia
 - Piano di monitoraggio epatico e surrenalico se si considera l'uso sistemico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «'unica autorizzazione italiana è cancellata e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

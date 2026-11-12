@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 357
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L4). Indicazione originale: Non riportata nei…"
@@ -105,6 +105,12 @@ Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio 
 **Motivazione:**
 - La predizione per l'ADHD si basa quasi esclusivamente sul punteggio del modello, senza studi clinici specifici e con letteratura solo indiretta.
 
+<!-- review:begin it-lic-20261106-pramipexole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per l'ADHD si basa quasi esclusivamente sul punteggio del modello, senza studi clinici specifici e con letteratura solo indiretta. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pramipexole-1 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (MOA) del pramipexolo
 - Studi clinici o evidenze dirette sull'ADHD
@@ -112,6 +118,19 @@ Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio 
 - Verifica delle vie di somministrazione e delle formulazioni disponibili, oggi non valutabile
 
 **Nota su altre indicazioni previste:** tra le altre predizioni del modello, la **schizofrenia** (punteggio 0,9952) ha evidenze molto più solide: lo studio di fase 3 [NCT01320982](https://clinicaltrials.gov/study/NCT01320982) (400 partecipanti, stato sconosciuto, senza risultati) e l'RCT pubblicato [PMID 35921506](https://pubmed.ncbi.nlm.nih.gov/35921506/) sul pramipexolo aggiuntivo. Merita una valutazione separata, tenendo conto del rischio di peggioramento della psicosi con gli agonisti dopaminergici.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Irbesartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -92,6 +92,12 @@ Altri documenti recuperati sono solo marginalmente pertinenti (estratti di medic
 
 Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni (tutte monocomponente):
 
+<!-- review:begin it-lic-20261106-irbesartan-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo dell'indicazione approvata non è riportato.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-irbesartan-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare |
 |---------|------|------|
 | 033263043 | Karvea 28 cpr 150 mg | Sanofi Winthrop Industrie |
@@ -117,12 +123,32 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 **Motivazione:**
 La previsione per l'ipertensione renovascolare maligna si basa solo sul modello (livello L5), senza studi clinici né letteratura. Inoltre, l'uso dei sartani nella malattia renovascolare pone un rilevante problema di sicurezza renale.
 
+<!-- review:begin it-lic-20261106-irbesartan-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre, l'uso dei sartani nella malattia renovascolare pone un rilevante problema di sicurezza renale, e tutte le autorizzazioni italiane sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-irbesartan-2 -->
+
 **Per procedere sono necessari:**
 - Le avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - I dati sul meccanismo d'azione da DrugBank
 - Una revisione sistematica della letteratura clinica su sartani e ipertensione renovascolare/maligna, con particolare attenzione al rischio di danno renale acuto
 - Per l'ipertensione polmonare, studi clinici o almeno evidenze traslazionali più solide rispetto agli attuali modelli animali
 - Una verifica della possibilità di commercializzazione, dato lo stato di autorizzazioni solo cancellate
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

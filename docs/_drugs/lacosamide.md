@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 252
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
@@ -149,6 +149,25 @@ Per avvertenze e controindicazioni ufficiali fare riferimento al foglietto illus
 - Verificare risultati e rischio di bias dell'RCT pubblicato nel 2026 e lo stato dello studio contro topiramato (NCT06243692); chiarire l'indicazione dello studio NCT00440518.
 - Per la mania: studi prospettici controllati e valutazione del segnale di neutropenia.
 - Per le controindicazioni cardiache e le interazioni maggiori: piano di monitoraggio (ECG, funzionalità epatica) per le popolazioni a rischio.
+
+<!-- review:begin it-lic-20261106-lacosamide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare risultati e rischio di bias dell'RCT pubblicato nel 2026 e lo stato dello studio contro topiramato (NCT06243692); chiarire l'indicazione dello studio NCT00440518. / Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve chiarire la disponibilità attuale del prodotto.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lacosamide-1 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve chiarire la disponibilità attuale del prodotto» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

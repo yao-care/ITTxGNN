@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
 description: "Isoniazid: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -116,12 +116,31 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione si basa essenzialmente sul modello (livello di evidenza L4), senza studi clinici registrati. La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale.
 
+<!-- review:begin it-lic-20261106-isoniazid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-isoniazid-1 -->
+
 **Per procedere sarebbe necessario:**
 - Definire se l'indicazione di interesse sia limitata alla congiuntivite/cheratocongiuntivite di origine tubercolare.
 - Acquisire i dati sul meccanismo d'azione.
 - Reperire e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza.
 - Valutare studi clinici o evidenze più recenti e di qualità superiore in popolazioni con malattia oculare tubercolare.
 - Chiarire la disponibilità di una formulazione adatta, anche oftalmica, e lo stato commerciale in Italia.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

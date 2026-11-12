@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 description: "Etoposide: nuova indicazione prevista, Well-differentiated fetal adenocarcinoma of the lung (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -142,6 +142,12 @@ Selezione dei più rilevanti tra gli studi registrati (massimo 10):
 
 **Controindicazioni/condizioni a rischio (dal grafo di conoscenza TxGNN, non dal foglietto illustrativo):** trombocitopenia, neutropenia, agranulocitosi, anemia (inclusa macrocitica), leucopenia, malattia polmonare interstiziale, fibrosi polmonare (anche post-infiammatoria), compromissione della funzione renale, acidosi (inclusa metabolica), danno epatico indotto da farmaci.
 
+<!-- review:begin it-lic-20261106-etoposide-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati.» Rimosso: l'indicazione di prodotti monocomponente o in associazione non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-etoposide-1 -->
+
 **Interazioni farmacologiche** (100 interazioni totali rilevate; principali di livello moderato):
 - Aprepitant, rolapitant (antiemetici)
 - Metronidazolo, tinidazolo
@@ -168,6 +174,26 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 - Chiarimento dello stato regolatorio in Italia
 - Piano di monitoraggio: mielosoppressione, rischio di leucemia secondaria, dosaggio e schedula adeguati all'età
 - Utilizzo in protocolli specializzati di oncologia pediatrica
+
+<!-- review:begin it-lic-20261106-etoposide-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-etoposide-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

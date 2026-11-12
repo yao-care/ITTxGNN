@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Methylergometrine: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni nelle a…"
 monitor_inn: "methylergometrine"
 predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -82,6 +82,12 @@ Attualmente non risultano studi clinici registrati correlati all'ipertricosi (n�
 
 Per l'ipertricosi non è disponibile alcuna letteratura. Per l'emicrania (rank 3), indicazione più plausibile, sono state trovate due pubblicazioni di tipo review:
 
+<!-- review:begin it-lic-20261106-methylergometrine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni, intestate a Essential Pharma (M) Ltd, risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylergometrine-1 -->
+
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
 | [18644039](https://pubmed.ncbi.nlm.nih.gov/18644039/) | 2008 | Review | Cephalalgia | Storia della metisergide nell'emicrania: dalla teoria vasodilatatoria di Wolff alla ricerca di un farmaco anti-serotoninico |
@@ -122,12 +128,39 @@ Per avvertenze e controindicazioni ufficiali si rimanda alla scheda tecnica.
 **Motivazione:**
 La predizione principale (ipertricosi) ha solo supporto computazionale (L5), nessuno studio e nessun razionale farmacologico. Il profilo di sicurezza della classe dell'ergot è sfavorevole. L'emicrania potrebbe essere trattata come una domanda di ricerca (L4), ma con evidenza solo indiretta e rilevanti rischi vascolari.
 
+<!-- review:begin it-lic-20261106-methylergometrine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il profilo di sicurezza della classe dell'ergot è sfavorevole, e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylergometrine-2 -->
+
 **Per procedere sarebbe necessario:**
 - Acquisire e analizzare la scheda tecnica AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Reperire i dati sul meccanismo d'azione (ad esempio da DrugBank)
 - Chiarire l'indicazione originale approvata
 - Per l'emicrania: revisione sistematica della letteratura e valutazione del rischio cardiovascolare/fibrotico
 - Valutare la disponibilità reale del prodotto
+
+<!-- review:begin it-lic-20261106-methylergometrine-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la disponibilità reale del prodotto, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-methylergometrine-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni, intestate a Essential Pharma (M) Ltd, risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

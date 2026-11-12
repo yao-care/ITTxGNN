@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: nuova indicazione prevista, Nephrogenic syndrome of inappropriate antidiuresis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -118,6 +118,12 @@ Nota: lo studio NCT04206761 (Fase 3, QVM149 con risonanza magnetica allo xeno) �
 
 La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n. 043033036).
 
+<!-- review:begin it-lic-20261106-indacaterol-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide. La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-indacaterol-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -141,6 +147,26 @@ Per la malattia bronchiale esistono numerosi studi di fase 2 e 3 completati e un
 - Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni.
 - Valutare che le evidenze derivano in gran parte da combinazioni a dose fissa e non sono necessariamente generalizzabili alla monoterapia con indacaterolo in asma, dove la monoterapia con LABA comporta un problema di sicurezza noto.
 - Per le altre predizioni (rango 1-6 e 8-10, tutte L5 senza studi né letteratura), mantenere la decisione Hold: i collegamenti meccanicistici sono speculativi o poco plausibili.
+
+<!-- review:begin it-lic-20261106-indacaterol-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni, poiché in Italia risultano solo autorizzazioni cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-indacaterol-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché in Italia risultano solo autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

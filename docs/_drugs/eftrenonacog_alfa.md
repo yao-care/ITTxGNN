@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Eftrenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia (anche forma sintomatica nelle portatrici femminili)…"
 monitor_inn: "EFTRENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia"]
@@ -78,6 +78,12 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Attualmente non risulta alcuna letteratura correlata disponibile.
 
+<!-- review:begin it-lic-20261106-eftrenonacog_alfa-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-eftrenonacog_alfa-1 -->
+
 ---
 
 ## Informazioni sul mercato italiano
@@ -111,6 +117,26 @@ La previsione si basa esclusivamente sul modello TxGNN (deep learning, livello L
 - Verificare se esistano evidenze precliniche o cliniche a supporto di un ruolo del FIX nella pseudo-malattia di von Willebrand
 - Chiarire lo stato regolatorio e la disponibilità del prodotto
 - Valutare se le alternative standard (trasfusioni piastriniche, misure dirette sul VWF) rendano il riposizionamento superfluo
+
+<!-- review:begin it-lic-20261106-eftrenonacog_alfa-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio e la disponibilità del prodotto (autorizzazioni annullate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-eftrenonacog_alfa-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni annullate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "lincomycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,12 +108,31 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglio illustr
 **Motivazione:**
 La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia.
 
+<!-- review:begin it-lic-20261106-lincomycin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lincomycin-1 -->
+
 **Per procedere sarebbero necessari:**
 - Scheda tecnica AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi preclinici o clinici che supportino un legame con l'iperamilasemia
 - Valutazione del rischio che la lincomicina causi o peggiori danno pancreatico
 - Chiarimento sulla possibilità di rimettere in commercio il prodotto in Italia, data la cancellazione delle autorizzazioni
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

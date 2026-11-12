@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 160
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Dupilumab: nuova indicazione prevista, Bronchite (livello di evidenza L3). Indicazione originale: Dermatite atopica (eczema atopico)"
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
@@ -95,6 +95,12 @@ Il legame diretto con la bronchite come entità generale non è però stabilito.
 
 Il testo dell'indicazione approvata non è riportato nei dati disponibili. Forma e confezione sono ricavate dal nome del prodotto.
 
+<!-- review:begin it-lic-20261106-dupilumab-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni del prodotto (DUPIXENT, titolare SANOFI WINTHROP INDUSTRIE) risultano cancellate. Il testo dell'indicazione approvata non è riportato nei dati disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dupilumab-1 -->
+
 | Numero di autorizzazione | Prodotto | Forma / confezione | Stato |
 |---------|------|------|-----------|
 | 045676133 | DUPIXENT 1 penna preriempita SC 200 mg 1,14 ml | Penna preriempita (SC) | Valida |
@@ -121,12 +127,39 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 **Motivazione:**
 Il punteggio TxGNN è molto alto e il meccanismo di infiammazione di tipo 2 è coerente con le malattie respiratorie. Le evidenze però riguardano asma e BPCO, mentre l'unico studio clinico elencato è su una patologia delle vie aeree superiori. Non ci sono prove dirette nella bronchite, e il livello di evidenza è L3.
 
+<!-- review:begin it-lic-20261106-dupilumab-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Non ci sono prove dirette nella bronchite, e il livello di evidenza è L3. Tutte le autorizzazioni italiane risultano inoltre cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dupilumab-2 -->
+
 **Per procedere sono necessari:**
 - Definire con precisione il fenotipo di bronchite di interesse (cronica, eosinofila di tipo 2, plastica pediatrica) e valutare la sovrapposizione con le indicazioni respiratorie già studiate (BPCO di tipo 2, asma).
 - Studi clinici mirati sulla bronchite o sul fenotipo bronchitico della BPCO con infiammazione di tipo 2.
 - Scheda dettagliata del meccanismo d'azione.
 - Avvertenze e controindicazioni ufficiali dal foglio illustrativo AIFA.
 - Chiarimento dello stato regolatorio attuale in Italia.
+
+<!-- review:begin it-lic-20261106-dupilumab-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio attuale in Italia, dato che le autorizzazioni risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-dupilumab-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni del prodotto (DUPIXENT, titolare SANOFI WINTHROP INDUSTRIE) risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane risultano inoltre cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che le autorizzazioni risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

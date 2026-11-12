@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 273
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lipegfilgrastim: nuova indicazione prevista, Disturbo primario di rilascio piastrinico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione A…"
 monitor_inn: "LIPEGFILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy"]
@@ -109,11 +109,37 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati com
 **Motivazione:**
 Tutte le previsioni poggiano esclusivamente sul punteggio del modello TxGNN, senza studi clinici, pubblicazioni né un razionale meccanicistico plausibile.
 
+<!-- review:begin it-lic-20261106-lipegfilgrastim-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le previsioni poggiano esclusivamente sul punteggio del modello TxGNN, senza studi clinici, pubblicazioni né un razionale meccanicistico plausibile. Inoltre, in Italia le autorizzazioni disponibili sono entrambe cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lipegfilgrastim-1 -->
+
 **Per procedere sono necessari:**
 - Recupero e analisi del foglio illustrativo AIFA (indicazioni, avvertenze e controindicazioni), attualmente mancante e bloccante per la valutazione di sicurezza
 - Dati sul meccanismo d'azione da DrugBank per analizzare un eventuale legame meccanicistico
 - Studi preclinici o revisioni della letteratura che colleghino la segnalazione del G-CSF alla funzione piastrinica
 - Verifica della compatibilità delle vie di somministrazione e chiarimento dello stato regolatorio
+
+<!-- review:begin it-lic-20261106-lipegfilgrastim-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della compatibilità delle vie di somministrazione e chiarimento dello stato regolatorio (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-lipegfilgrastim-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni disponibili sono entrambe cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

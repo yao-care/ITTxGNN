@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -96,6 +96,12 @@ Sono presenti ulteriori studi di fase 1 (farmacocinetica/farmacodinamica) e stud
 
 Per il diabete neonatale permanente è disponibile una revisione ([28527303](https://pubmed.ncbi.nlm.nih.gov/28527303/), 2017) sull'uso dell'insulina.
 
+<!-- review:begin it-lic-20261106-insulin_aspart-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_aspart-1 -->
+
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome prodotto | Titolare | Stato |
@@ -117,12 +123,32 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo.
 **Motivazione:**
 Per il diabete di tipo 1 esistono numerosi studi di fase 3 completati e revisioni sistematiche, quindi l'evidenza è solida (L1). Si tratta però di un uso già consolidato e non di un vero riposizionamento. Le altre indicazioni predette sono in gran parte supportate solo dal modello, senza evidenze cliniche.
 
+<!-- review:begin it-lic-20261106-insulin_aspart-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Si tratta però di un uso già consolidato e non di un vero riposizionamento, e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-insulin_aspart-2 -->
+
 **Per procedere è necessario:**
 - Verificare la disponibilità attuale in Italia di formulazioni equivalenti di insulina aspart in commercio
 - Acquisire il foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente mancante
 - Ottenere i dati sul meccanismo d'azione da DrugBank
 - Per il diabete neonatale permanente, valutare il sottotipo genetico (ad es. mutazioni del canale KATP, che possono rispondere alle sulfaniluree)
 - Non perseguire le indicazioni non supportate (oofarite autoimmune, lipodistrofie, sindromi della persona rigida) in assenza di nuove evidenze
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -108,12 +108,31 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura. Mancano i dati di sicurezza del foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-latanoprost-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esistono autorizzazioni valide in Italia e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-latanoprost-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), requisito bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Revisione sistematica della letteratura su latanoprost nel glaucoma ereditario/congenito, e sugli analoghi delle prostaglandine nell'ipotricosi del cuoio capelluto
 - Verifica dello stato commerciale: eventuale riautorizzazione o disponibilità di prodotti equivalenti in Italia
 - Valutazione della fattibilità della terapia topica nelle forme pediatriche/congenite, spesso trattate chirurgicamente
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre non esistono autorizzazioni valide in Italia e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

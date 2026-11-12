@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency… (livello di evidenza L5). Indicazione originale: Non rip…"
@@ -72,6 +72,12 @@ Attualmente non risulta letteratura correlata disponibile.
 
 Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
 
+<!-- review:begin it-lic-20261106-enoxaparin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate. Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-enoxaparin-1 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 044040145 | ROVINADIL*10 siringhe preriempite 6.000 UI 0,6 ml | Laboratorios Farmaceut. Rovi SA | Valida |
@@ -109,12 +115,39 @@ Interazioni di livello Moderato includono fenfluramina, destrofenfluramina, sibu
 **Motivazione:**
 La predizione ha un punteggio molto alto (0,9958) e un razionale biologico plausibile, ma è puramente computazionale (livello L5), senza sperimentazioni né letteratura. Mancano i dati di sicurezza del foglio illustrativo.
 
+<!-- review:begin it-lic-20261106-enoxaparin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-enoxaparin-2 -->
+
 **Per procedere sono necessari:**
 - Revisione della letteratura primaria e delle linee guida sul trattamento del deficit severo di proteina C, incluso il ruolo delle eparine a basso peso molecolare rispetto al concentrato di proteina C
 - Dati sul meccanismo d'azione registrati per il farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Chiarimento dello stato regolatorio in Italia
 - Valutazione di sicurezza per la popolazione target (in particolare neonati e pazienti pediatrici) e della compatibilità delle vie di somministrazione
+
+<!-- review:begin it-lic-20261106-enoxaparin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-enoxaparin-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

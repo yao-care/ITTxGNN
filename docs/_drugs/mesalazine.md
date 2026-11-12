@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -79,6 +79,12 @@ Tra le altre previsioni del modello, solo due presentano un minimo di letteratur
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
 
+<!-- review:begin it-lic-20261106-mesalazine-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mesalazine-1 -->
+
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 026416154 | ASACOL 7 clismi 4 g 100 ml sospensione rettale | Giuliani SpA | Valida |
@@ -102,12 +108,39 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 La previsione è supportata solo dal punteggio del modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico.
 
+<!-- review:begin it-lic-20261106-mesalazine-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è supportata solo dal punteggio del modello (livello L5), senza studi clinici, letteratura o razionale meccanicistico. Inoltre, in Italia non esistono autorizzazioni valide per la mesalazina.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mesalazine-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (ad es. da DrugBank) per valutare qualsiasi legame con la patologia
 - Recupero e analisi dei foglietti illustrativi AIFA (avvertenze e controindicazioni)
 - Verifica dello stato regolatorio effettivo in Italia
 - Evidenza preclinica che colleghi la mesalazina alla via di CDH3 o alla patologia
 - Valutazione di priorità alternative con maggiore plausibilità (ad es. artrite reumatoide), oggi comunque solo con evidenza indiretta
+
+<!-- review:begin it-lic-20261106-mesalazine-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio effettivo in Italia, dato che tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-mesalazine-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide per la mesalazina» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

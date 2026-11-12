@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -85,6 +85,18 @@ Attualmente non è disponibile alcuna letteratura correlata per questa indicazio
 
 Principali autorizzazioni (compresse rivestite da 20 mg):
 
+<!-- review:begin it-lic-20261106-tadalafil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (compresse rivestite da 20 mg):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tadalafil-1 -->
+
+<!-- review:begin it-lic-20261106-tadalafil-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tadalafil-2 -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 035672056 | CIALIS 12 cpr rivestite 20 mg | Eli Lilly Nederland BV | Valida |
@@ -112,12 +124,40 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 **Motivazione:**
 La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico.
 
+<!-- review:begin it-lic-20261106-tadalafil-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico. Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tadalafil-3 -->
+
 **Per procedere sarebbe necessario:**
 - Dati sul meccanismo d'azione e un'ipotesi biologica credibile che colleghi PDE5/cGMP alla sindrome di Ambras
 - Evidenza preclinica o clinica specifica per questa indicazione
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni ufficiali
 - Chiarimento dello stato regolatorio in Italia
 - Valutazione di indicazioni previste alternative con maggiore plausibilità, come la cardiopatia cifoscoliotica, con revisione mirata della letteratura
+
+<!-- review:begin it-lic-20261106-tadalafil-4 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tadalafil-4 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

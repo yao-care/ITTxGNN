@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -111,6 +111,12 @@ Per l'ulcera peptica attiva:
 
 I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili. Principali prodotti:
 
+<!-- review:begin it-lic-20261106-pantoprazole-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano **cancellate**; non ne è attiva alcuna. I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pantoprazole-1 -->
+
 | N. autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 042953063 | PANTORC 14 cpr gastroresistenti 20 mg | GMM FARMA Srl | Valida |
@@ -137,12 +143,39 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo.
 **Motivazione:**
 Esistono studi di Fase 3 completati e RCT storici che supportano l'efficacia del pantoprazolo nell'ulcera peptica e duodenale. Si tratta però di un uso già in etichetta, non di un riposizionamento.
 
+<!-- review:begin it-lic-20261106-pantoprazole-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Si tratta però di un uso già in etichetta, non di un riposizionamento, e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pantoprazole-2 -->
+
 **Per procedere sono necessari:**
 - Verifica dello stato commerciale effettivo in Italia
 - Acquisizione del foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Verifica di comparatore e braccio di trattamento in NCT02084420 (titolo troncato)
 - Per le predizioni davvero nuove (ulcera gastrodigiunale, perforazione, reflusso duodenogastrico), studi mirati: l'evidenza attuale è indiretta o limitata. Per l'ostruzione duodenale, nessun legame meccanicistico: Hold.
+
+<!-- review:begin it-lic-20261106-pantoprazole-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato commerciale effettivo in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-pantoprazole-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano **cancellate**; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Degarelix: nuova indicazione prevista, Ipertricosi (malattia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati per questo report (le autorizzazioni…"
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -102,12 +102,31 @@ Molte di queste interazioni sono verosimilmente legate al rischio di prolungamen
 **Motivazione:**
 La predizione per l'ipertricosi si basa solo sul modello (L5), senza sperimentazioni né pubblicazioni, con un razionale meccanicistico debole. Mancano i dati di sicurezza dalla scheda tecnica.
 
+<!-- review:begin it-lic-20261106-degarelix-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre le autorizzazioni italiane sono tutte cancellate e mancano i dati di sicurezza dalla scheda tecnica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-degarelix-1 -->
+
 **Per procedere sono necessari:**
 - Scheda tecnica AIFA (avvertenze e controindicazioni) per completare lo screening di sicurezza
 - Dati dettagliati sul meccanismo d'azione (ad esempio da DrugBank)
 - Indicazione approvata originale documentata
 - Per eventuali approfondimenti, valutare piuttosto la pubertà precoce centrale (L4): servirebbero dati pediatrici di efficacia, dosaggio e sicurezza
 - Verifica della compatibilità di via di somministrazione e formulazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

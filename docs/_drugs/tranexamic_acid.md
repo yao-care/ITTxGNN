@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tranexamic Acid: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Endometriosi (secondo la base di conoscenza TxGNN"
 monitor_inn: "tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
@@ -99,6 +99,12 @@ Al momento non risultano studi clinici correlati registrati.
 - **Controindicazioni derivate dalla base di conoscenza** (non dal testo del foglio illustrativo): ipertensione, disturbi d'ansia e nevrotici, porfiria, malattie epatiche e della colecisti, iperglicemia, diabete mellito e chetoacidosi diabetica, edema cerebrale, ipertrigliceridemia e iperlipidemia, carcinoma mammario femminile, tromboflebite, emicrania, coronaropatia, obesità, carcinoma dell'endometrio, ictus e malattie cerebrovascolari.
 - **Interazioni farmacologiche**: sono state identificate 35 interazioni; tra le principali di gravità **maggiore** figurano estrogeni e progestinici (etinilestradiolo, estradiolo, estrogeni coniugati, noretisterone, drospirenone, etonogestrel, dietilstilbestrolo, estrone, estramustina), il complesso coagulante anti-inibitore, il complesso del fattore IX (umano) e carfilzomib. Di gravità **moderata**: alteplase e anistreplase. In generale emerge un rischio trombotico additivo con farmaci ormonali e procoagulanti.
 
+<!-- review:begin it-lic-20261106-tranexamic_acid-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tranexamic_acid-1 -->
+
 Per le avvertenze complete, fare riferimento al foglio illustrativo.
 
 ---
@@ -110,12 +116,39 @@ Per le avvertenze complete, fare riferimento al foglio illustrativo.
 **Motivazione:**
 Non esistono studi clinici registrati e la letteratura disponibile consiste in due revisioni narrative. Il legame meccanicistico con l'amenorrea è indiretto. Molte controindicazioni e interazioni (in particolare con gli ormoni) rendono inoltre delicata la valutazione del rischio trombotico.
 
+<!-- review:begin it-lic-20261106-tranexamic_acid-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Il legame meccanicistico con l'amenorrea è indiretto e il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tranexamic_acid-2 -->
+
 **Per procedere sono necessari:**
 - Foglio illustrativo AIFA con avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza)
 - Dati sul meccanismo d'azione da DrugBank
 - Studi clinici o evidenze osservazionali sulla soppressione mestruale con acido tranexamico
 - Chiarimento sull'effettiva indicazione perseguita (soppressione del sanguinamento vs. trattamento dell'amenorrea)
 - Valutazione dello stato regolatorio
+
+<!-- review:begin it-lic-20261106-tranexamic_acid-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-tranexamic_acid-3 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

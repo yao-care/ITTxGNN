@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: nuova indicazione prevista, Disturbo nevrotico (neurotic disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -96,6 +96,18 @@ Nessuno studio verifica la vortioxetina nel disturbo nevrotico: non vi sono sper
 - Reperire studi clinici o pubblicazioni che valutino direttamente la vortioxetina nella condizione definita
 - Acquisire i dati sul meccanismo d'azione
 - Acquisire le avvertenze e le controindicazioni dal foglio illustrativo AIFA per la valutazione di sicurezza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-10-31 | Rimosso: «Si tratta però di sovrapposizione con l'indicazione già approvata e non di un riposizionamento nuovo, e lo stato regolatorio in Italia (solo» | Non più presente dopo la rigenerazione del rapporto (2026-11-12: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

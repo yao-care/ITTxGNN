@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bacampicillin: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
@@ -58,6 +58,12 @@ Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per que
 
 Il collegamento è quindi plausibile ma indiretto: si basa sullo spettro antibatterico dell'ampicillina, non su prove cliniche specifiche. Nella pratica attuale, a causa della resistenza all'ampicillina, si preferiscono cefalosporine di terza generazione e agenti resistenti alle beta-lattamasi, il che riduce ulteriormente l'interesse per questa ipotesi.
 
+<!-- review:begin it-lic-20261106-bacampicillin-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nella pratica attuale, a causa della resistenza all'ampicillina, si preferiscono cefalosporine di terza generazione e agenti resistenti alle beta-lattamasi, il che riduce ulteriormente l'interesse per questa ipotesi. Inoltre il prodotto locale risulta annullato.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-bacampicillin-1 -->
+
 ## Evidenze da studi clinici
 
 Attualmente non risultano studi clinici registrati correlati.
@@ -73,6 +79,12 @@ Attualmente non è disponibile letteratura correlata all'epiglottite.
 | 034473013 | BACAMPICILLINA*12 cpr rivestite 1.200 mg | Non indicata | Non registrata nei dati locali |
 
 Nei dati disponibili è presente una sola autorizzazione.
+
+<!-- review:begin it-lic-20261106-bacampicillin-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Nei dati disponibili è presente una sola autorizzazione, con stato annullato (titolare: K24 Pharmaceuticals Srl).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-bacampicillin-2 -->
 
 ## Considerazioni di sicurezza
 
@@ -91,11 +103,32 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo, poic
 **Motivazione:**
 La predizione per l'epiglottite non è supportata da studi clinici né da pubblicazioni dirette, e il livello di evidenza è L5.
 
+<!-- review:begin it-lic-20261106-bacampicillin-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per l'epiglottite non è supportata da studi clinici né da pubblicazioni dirette, e il livello di evidenza è L5. La resistenza all'ampicillina, l'esistenza di alternative standard e l'autorizzazione locale annullata rendono la proposta poco praticabile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-bacampicillin-3 -->
+
 **Per procedere sarebbe necessario:**
 - Dati di meccanismo d'azione dettagliati
 - Testo del foglio illustrativo AIFA con avvertenze e controindicazioni
 - Dati di sensibilità dei patogeni dell'epiglottite all'ampicillina e confronto con le terapie attuali
 - Studi clinici o osservazionali che riguardino direttamente l'epiglottite
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre il prodotto locale risulta annullato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «con stato annullato (titolare: K24 Pharmaceuticals Srl)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «La resistenza all'ampicillina, l'esistenza di alternative standard e l'autorizzazione locale annullata rendono la proposta poco praticabile» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

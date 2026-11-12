@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -111,12 +111,38 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 **Motivazione:**
 La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica.
 
+<!-- review:begin it-lic-20261106-naproxen-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-naproxen-1 -->
+
 **Per procedere sarebbe necessario:**
 - Acquisire il meccanismo d'azione dettagliato (ad esempio da DrugBank) e valutare un eventuale razionale biologico specifico.
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).
 - Cercare evidenze precliniche o cliniche specifiche sulla sindrome brachidattilia-sindattilia.
 - Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano.
 - Chiarire se un eventuale beneficio sarebbe solo sintomatico (gestione del dolore) e quindi non rappresenterebbe un vero riposizionamento terapeutico.
+
+<!-- review:begin it-lic-20261106-naproxen-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-naproxen-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

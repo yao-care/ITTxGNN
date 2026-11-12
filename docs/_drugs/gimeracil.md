@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 220
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 description: "Gimeracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
@@ -112,6 +112,12 @@ Per le informazioni di sicurezza si rimanda al foglio illustrativo. Dalla letter
 **Motivazione:**
 Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno completato, con 1535 pazienti, e uno con stato sconosciuto e senza risultati), e questo giustifica il livello L1. Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report.
 
+<!-- review:begin it-lic-20261106-gimeracil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gimeracil-1 -->
+
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglio illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
@@ -119,6 +125,26 @@ Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno co
 - Valutazione del contributo specifico del gimeracil rispetto agli altri componenti dell'S-1
 - Chiarimento della situazione regolatoria in Italia
 - Piano di monitoraggio della sicurezza (tossicità ematologica, cutanea e cardiaca) e valutazione della DPD
+
+<!-- review:begin it-lic-20261106-gimeracil-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria in Italia, dato che tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gimeracil-2 -->
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

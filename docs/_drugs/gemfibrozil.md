@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 219
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
@@ -95,6 +95,12 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Sono qui elencate le prime 5.
 
+<!-- review:begin it-lic-20261106-gemfibrozil-1 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. Sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gemfibrozil-1 -->
+
 ---
 
 ## Considerazioni sulla sicurezza
@@ -118,11 +124,23 @@ Per le avvertenze e le controindicazioni formali, consultare il foglietto illust
 **Motivazione:**
 La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici.
 
+<!-- review:begin it-lic-20261106-gemfibrozil-2 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici. Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gemfibrozil-2 -->
+
 **Per procedere sono necessari:**
 - Dati sul meccanismo d'azione (DrugBank) e analisi del legame meccanicistico con l'artrite reumatoide
 - Studi preclinici di conferma con il gemfibrozil stesso, poi studi clinici esplorativi
 - Foglietto illustrativo AIFA con avvertenze e controindicazioni, per lo screening di sicurezza (attualmente bloccante)
 - Verifica della disponibilità del farmaco in Italia
+
+<!-- review:begin it-lic-20261106-gemfibrozil-3 -->
+
+> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261106-gemfibrozil-3 -->
 
 ---
 
@@ -131,6 +149,21 @@ La predizione si basa su un punteggio computazionale elevato con supporto solo p
 Tra le altre indicazioni previste, due meritano approfondimento come domande di ricerca (livello L2), ma entrambe sono vicine all'indicazione originale e non rappresentano un vero riposizionamento:
 - **Infezione da HIV**: il gemfibrozil agisce sulla dislipidemia e sulla lipodistrofia associate agli inibitori della proteasi (non ha azione antivirale). Esiste uno studio randomizzato in doppio cieco (PMID 12409741).
 - **Ipoalfalipoproteinemia**: piccoli studi clinici degli anni 1989-2000 con endpoint surrogati sul profilo lipidico.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-06 | Rimosso: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
