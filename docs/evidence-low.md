@@ -8,6 +8,11 @@ description: "Candidati di livello L5 in ITTxGNN: solo previsione del modello, a
 
 # Solo previsione del modello (L5)
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
+Questa pagina elenca **{{ pd_m }}** dei **{{ site.data.drug_stats.total_drugs }}** medicinali con un rapporto pubblicato su questo sito ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Definizione dei livelli: [Metodologia]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Candidati con la sola previsione del modello e ancora senza prove sull'uomo
 </p>
