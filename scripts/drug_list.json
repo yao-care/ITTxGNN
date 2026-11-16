@@ -1,6 +1,6 @@
 {
-  "total": 418,
-  "generated_at": "2026-11-16T04:32:25.153206",
+  "total": 430,
+  "generated_at": "2026-11-16T21:34:42.989371",
   "drugs": [
     {
       "name": "Abacavir",
@@ -144,6 +144,19 @@
       ]
     },
     {
+      "name": "Adrenalina",
+      "file": "adrenalina.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Epinephrine",
+      "predicted_indications": [
+        "obstructive lung disease",
+        "Rienhoff syndrome",
+        "respiratory malformation"
+      ]
+    },
+    {
       "name": "Albendazole",
       "file": "albendazole.md",
       "evidence_level": "L5",
@@ -186,6 +199,26 @@
     {
       "name": "Alfuzosin",
       "file": "alfuzosin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Alfuzosin",
+      "predicted_indications": [
+        "Ambras type hypertrichosis universalis congenita",
+        "hypertrichosis (disease)",
+        "malformation syndrome with odontal and/or periodontal component",
+        "syndrome with a Dandy-Walker malformation as major feature",
+        "isolated genetic hair shaft abnormality",
+        "familial isolated trichomegaly",
+        "allergic urticaria",
+        "persistent fetal circulation syndrome",
+        "hypotrichosis simplex of the scalp",
+        "congenital hypotrichosis milia"
+      ]
+    },
+    {
+      "name": "Alfuzosina",
+      "file": "alfuzosina.md",
       "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
@@ -379,6 +412,25 @@
       ]
     },
     {
+      "name": "Amlodipina",
+      "file": "amlodipina.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amlodipine",
+      "predicted_indications": [
+        "brain stem infarction",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "malignant hypertensive renal disease",
+        "cerebral artery occlusion",
+        "Braddock syndrome",
+        "MRI defined brain infarct",
+        "ABri amyloidosis",
+        "intracerebral hemorrhage"
+      ]
+    },
+    {
       "name": "Amlodipine",
       "file": "amlodipine.md",
       "evidence_level": "L5",
@@ -470,6 +522,26 @@
       "inn": "APIXABAN",
       "predicted_indications": [
         "migraine disorder"
+      ]
+    },
+    {
+      "name": "Apomorfina",
+      "file": "apomorfina.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Apomorphine",
+      "predicted_indications": [
+        "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
+        "congenital disorder of glycosylation with defective fucosylation",
+        "retinal dystrophy with or without extraocular anomalies",
+        "Charcot-Marie-Tooth disease, demyelinating, type 1G",
+        "schizophrenia",
+        "myopia X-linked",
+        "atypical glycine encephalopathy",
+        "myopia 26, X-linked, female-limited",
+        "syndromic myopia",
+        "hydranencephaly (disease)"
       ]
     },
     {
@@ -1518,6 +1590,26 @@
       ]
     },
     {
+      "name": "Clonidina",
+      "file": "clonidina.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Clonidine",
+      "predicted_indications": [
+        "faciodigitogenital syndrome",
+        "specific developmental disorder",
+        "chondromyxoid fibroma",
+        "trichotillomania",
+        "Tourette syndrome",
+        "obesity disorder",
+        "hypervitaminosis",
+        "proximal 16p11.2 microdeletion syndrome",
+        "migraine disorder",
+        "manic bipolar affective disorder"
+      ]
+    },
+    {
       "name": "Clonidine",
       "file": "clonidine.md",
       "evidence_level": "L5",
@@ -1555,6 +1647,25 @@
       ]
     },
     {
+      "name": "Clorpromazina",
+      "file": "clorpromazina.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Chlorpromazine",
+      "predicted_indications": [
+        "retinal dystrophy with or without extraocular anomalies",
+        "congenital disorder of glycosylation with defective fucosylation",
+        "myopia X-linked",
+        "syndromic myopia",
+        "hydranencephaly (disease)",
+        "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
+        "myopia 26, X-linked, female-limited",
+        "Charcot-Marie-Tooth disease, demyelinating, type 1G",
+        "atypical glycine encephalopathy"
+      ]
+    },
+    {
       "name": "Clothiapine",
       "file": "clothiapine.md",
       "evidence_level": "L5",
@@ -1563,6 +1674,25 @@
       "inn": "clothiapine",
       "predicted_indications": [
         "insomnia (disease)"
+      ]
+    },
+    {
+      "name": "Clozapina",
+      "file": "clozapina.md",
+      "evidence_level": "L2",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Clozapine",
+      "predicted_indications": [
+        "manic bipolar affective disorder",
+        "Tourette syndrome",
+        "trichotillomania",
+        "schizophreniform disorder",
+        "bipolar disorder",
+        "major affective disorder",
+        "attention deficit-hyperactivity disorder",
+        "attention deficit hyperactivity disorder, inattentive type",
+        "Malan overgrowth syndrome"
       ]
     },
     {
@@ -1576,6 +1706,18 @@
         "nasal cavity disease",
         "trigeminal autonomic cephalalgia",
         "allergic urticaria"
+      ]
+    },
+    {
+      "name": "Colchicina",
+      "file": "colchicina.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Colchicine",
+      "predicted_indications": [
+        "Plasmodium falciparum malaria",
+        "dermatofibrosarcoma protuberans"
       ]
     },
     {
@@ -1737,6 +1879,20 @@
       ]
     },
     {
+      "name": "Desloratadina",
+      "file": "desloratadina.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Desloratadine",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "recalcitrant atopic dermatitis",
+        "IgE responsiveness, atopic",
+        "rosacea conjunctivitis"
+      ]
+    },
+    {
       "name": "Desloratadine",
       "file": "desloratadine.md",
       "evidence_level": "L5",
@@ -1892,6 +2048,18 @@
       ]
     },
     {
+      "name": "Doxazosina",
+      "file": "doxazosina.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Doxazosin",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura"
+      ]
+    },
+    {
       "name": "Doxofylline",
       "file": "doxofylline.md",
       "evidence_level": "L5",
@@ -1951,6 +2119,26 @@
       ]
     },
     {
+      "name": "Duloxetina",
+      "file": "duloxetina.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Duloxetine",
+      "predicted_indications": [
+        "benign paroxysmal torticollis of infancy",
+        "agoraphobia",
+        "obsessive-compulsive disorder",
+        "histrionic personality disorder (disease)",
+        "schizoid personality disorder",
+        "schizotypal personality disorder",
+        "paranoid personality disorder",
+        "Ohdo syndrome and variants",
+        "ligneous conjunctivitis",
+        "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      ]
+    },
+    {
       "name": "Duloxetine",
       "file": "duloxetine.md",
       "evidence_level": "L5",
@@ -2007,6 +2195,18 @@
         "diffuse alopecia areata",
         "migraine with brainstem aura",
         "familial isolated trichomegaly"
+      ]
+    },
+    {
+      "name": "Ebastina",
+      "file": "ebastina.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Ebastine",
+      "predicted_indications": [
+        "coronary artery disease",
+        "myocardial ischemia"
       ]
     },
     {
