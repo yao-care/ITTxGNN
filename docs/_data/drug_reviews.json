@@ -10245,6 +10245,31 @@
    ],
    "checked": "2026-11-12",
    "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
+   "id": "it-lic-20261116-abacavir-1",
+   "drug": "abacavir",
+   "file": "abacavir.md",
+   "action": "correct",
+   "claim": "Nei dati locali non risultano autorizzazioni; il farmaco risulta non commercializzato in Italia.",
+   "replacement": "Secondo i dati AIFA sulle confezioni autorizzate, abacavir è in commercio in Italia: risultano autorizzazioni valide sia per abacavir da solo (ZIAGEN compresse e soluzione orale; ABACAVIR Mylan) sia in associazione (ad es. KIVEXA, TRIUMEQ, abacavir/lamivudina/zidovudina). I numeri aggiornati sono nella panoramica rapida.",
+   "note": "Corretto: l'affermazione che non risultassero autorizzazioni non corrispondeva ai dati AIFA. Nell'elenco delle confezioni autorizzate (stato «Autorizzata», dati al 2026-11-12) risultano 9 confezioni contenenti abacavir: 3 a base di solo abacavir e 6 in associazione.",
+   "finding": "證據包依 PRINCIPIO_ATTIVO 比對一張都沒收到；AIFA Classe H 清單有 abacavir 9 張，aifa_confezioni_stato（2026-11-12）皆 Autorizzata。已併入 config/license_own_extra.json；11-16 排程因本句跟新事實矛盾被擋，照 AIFA 改寫",
+   "sources": [
+    {
+     "title": "AIFA – Liste dei farmaci di Classe H per principio attivo",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-16"
+    },
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-12"
+    }
+   ],
+   "checked": "2026-11-16",
+   "summary": "«Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide",
+   "method": "2026-11-16 人工查核（AIFA 全量依成分）"
   }
  ]
 }
