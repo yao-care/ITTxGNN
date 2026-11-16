@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Colchicina
 parent: Solo previsione del modello (L5)
 nav_order: 126
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 2
+drugbank_id: DB01394
+monitor_inn: "Colchicine"
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-11-16
+description: "Colchicina: nuova indicazione prevista, Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 
 # Colchicina
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **0** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +34,69 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-## Colchicina (Colchicina): Valutazione del Riposizionamento del Farmaco — Dati Insufficienti per l'Analisi Completa
+## Colchicina: Malaria da Plasmodium falciparum (Plasmodium falciparum malaria)
 {: .text-alpha }
 
 ## Sintesi in una frase
 
-Colchicina (Colchicina) è un farmaco consolidato, ma i dati compilati attuali contengono **nessuna indicazione originale compilata**, **nessuna indicazione prevista da TxGNN** e lacune critiche di dati nel meccanismo d'azione e nelle informazioni di sicurezza. Un'analisi significativa del riposizionamento non può essere completata fino al rimedio di queste lacune; questo rapporto funge da registro dello stato e mappa stradale di rimedio.
+La colchicina è un principio attivo che agisce sui microtubuli cellulari ed è presente in Italia con prodotti monocomponente.
+Il modello TxGNN la indica come possibile candidata per la **malaria da Plasmodium falciparum (Plasmodium falciparum malaria)**,
+ma nei dati compilati per questo report non risultano **sperimentazioni cliniche** e le **2 pubblicazioni** disponibili sono indirette (studi preclinici).
 
----
-
-## Panoramica Rapida
+## Quadro generale
 
 | Voce | Contenuto |
-|------|-----------|
-| Indicazione Originale | Non compilata nei dati |
-| Indicazione Nuova Prevista | Nessuna previsione TxGNN disponibile |
-| Punteggio di Previsione TxGNN | Non disponibile |
-| Livello di Evidenza | Non valutabile |
+|------|------|
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) |
+| Punteggio di predizione TxGNN | 0.9960 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 2) |
 | Numero di autorizzazioni | 2 (valide: 2) |
-| Decisione Consigliata | **In Sospeso** |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa predizione può essere ragionevole?
 
-## Informazioni sul Mercato Italiano
+I dati dettagliati sul meccanismo d'azione non sono disponibili nel materiale compilato. In linea generale, la colchicina è nota come inibitore della polimerizzazione dei microtubuli. Poiché *Plasmodium falciparum* si affida ai microtubuli per la divisione e lo sviluppo intracellulare, esiste un collegamento meccanicistico plausibile.
 
-Licenze totali nel record: **0**.
+Tuttavia, si tratta di un'ipotesi. La letteratura raccolta è indiretta: uno studio del 1994 riguarda l'espressione del gene pfmdr1 in cellule di mammifero e la suscettibilità alla clorochina; uno studio del 2013 descrive l'effetto della curcumina (un composto diverso) sui microtubuli del parassita. Nessuno dei due dimostra l'efficacia della colchicina contro la malaria. Per questo motivo il livello di evidenza resta L5, anche se la lettura meccanicistica è plausibile.
 
-<!-- review:begin it-lic-20261106-colchicina-1 -->
+Pesano inoltre l'indice terapeutico ristretto della colchicina, la tossicità alle esposizioni che sarebbero necessarie per un effetto antiparassitario e la disponibilità di antimalarici già efficaci e approvati.
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro. Licenze totali nel record: **0**.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+## Evidenze da sperimentazioni cliniche
 
-<!-- review:end it-lic-20261106-colchicina-1 -->
+Al momento non risultano sperimentazioni cliniche correlate registrate.
 
-> **Nota:** Il log di query conferma che la ricerca nel registro è stata eseguita con successo (result_status: "success") ma ha restituito 0 record. Se Colchicina è nota per avere una presenza di mercato nel territorio target con un nome di prodotto o un titolare di licenza alternativo, è consigliata una ricerca mirata per nome di prodotto come fase successiva.
+## Evidenze dalla letteratura
 
----
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Preclinico (studio in vitro su cellule) | Molecular and Cellular Biology | L'espressione del gene pfmdr1 di *P. falciparum* in cellule di mammifero è associata a maggiore suscettibilità alla clorochina; studio sui meccanismi di resistenza, non sulla colchicina come terapia |
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Preclinico (in vitro, composto diverso: curcumina) | PLoS One | La curcumina altera i microtubuli di *P. falciparum*; indica che i microtubuli del parassita sono un bersaglio possibile, ma non riguarda la colchicina |
 
-## Considerazioni di Sicurezza
+## Informazioni sul mercato italiano
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 009964038 | COLCHICINA LIRCA*2x30 cpr div 1 mg | Non indicata | Non registrata nei dati locali |
+| 009964040 | COLCHICINA LIRCA*60 cpr 0,5 mg | Non indicata | Non registrata nei dati locali |
 
-> La query del registro per il foglio illustrativo ha restituito 1 risultato (query_log id: 4), ma il contenuto non è stato trasferito ai dati compilati. Il recupero e l'analisi di questo documento sono classificati come lacuna **Blocking** (DG001) e devono essere completati prima di procedere con qualsiasi valutazione di sicurezza.
+## Considerazioni sulla sicurezza
 
----
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non risultano interazioni farmacologiche registrate, ma ciò va considerato probabilmente come una lacuna informativa e non come assenza di interazioni.
 
-## Conclusioni e Prossimi Passi
+## Conclusioni e prossimi passi
 
-**Decisione: In Sospeso**
+**Decisione: Hold (sospendere)**
 
-**Razionale:**
-I dati compilati non contengono indicazioni previste da TxGNN, nessun dato di indicazione originale, e due lacune di dati irrisolte — una Blocking e una ad alta severità — che impediscono qualsiasi valutazione significativa del riposizionamento o della sicurezza da condursi in questo momento.
+**Motivazione:**
+La predizione si basa solo sul modello e su studi preclinici indiretti, senza sperimentazioni cliniche né studi che dimostrino l'efficacia della colchicina contro la malaria. Il ristretto indice terapeutico e l'esistenza di antimalarici efficaci rendono il rapporto beneficio-rischio sfavorevole in assenza di nuovi dati.
 
-**Per procedere, è necessario quanto segue:**
-
-- **\[Blocking — DG001\]** Analizzare il PDF del foglio illustrativo già recuperato dal registro (query_log id: 4) per estrarre avvertenze e controindicazioni; questo è la precondizione per entrare nella fase di screening di sicurezza S1
-- **\[High — DG002\]** Interrogare il record DrugBank già identificato (query_log id: 3, result_count: 1) per compilare il campo del meccanismo d'azione (MOA) e le indicazioni originali
-- **\[Required\]** Rieseguire la pipeline di previsione TxGNN con Colchicina come input per generare candidate di indicazioni di riposizionamento; senza previsioni, nessuna analisi di riposizionamento può essere avviata
-- **\[Advisory\]** Verificare lo stato di autorizzazione di commercializzazione Italia/AIFA tramite una ricerca per nome di prodotto (ad es. "Colchicina Houde" o altri nomi di marchio conosciuti)
-- **\[Advisory\]** Confermare l'ID di DrugBank e mappare all'INN standardizzato per garantire un'identificazione coerente tra fonti nei futuri cicli di pipeline
-
-<!-- review:begin it-lic-20261106-colchicina-2 -->
-
-> **Correzione di verifica (2026-11-06)**: Testo originale: «"Colchicina Houde" o altri nomi di marchio conosciuti), poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
-
-<!-- review:end it-lic-20261106-colchicina-2 -->
+**Per procedere sarebbero necessari:**
+- Studi preclinici diretti sull'attività della colchicina contro *P. falciparum* (in vitro e in vivo), con determinazione delle concentrazioni efficaci rispetto a quelle tollerabili
+- Dati dettagliati sul meccanismo d'azione
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA
+- Valutazione del profilo di interazioni (in particolare CYP3A4 e P-gp) e del dosaggio in caso di insufficienza renale o epatica
 
 <!-- review:begin log -->
 
@@ -107,8 +106,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

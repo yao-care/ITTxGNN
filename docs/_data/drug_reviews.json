@@ -585,7 +585,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «0 licenze è inaspettato per un composto di questa classe»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-clothiapine-1",
@@ -667,7 +670,10 @@
    "checked": "2026-11-06",
    "summary": "Rimosso: «Nessuna autorizzazione normativa è stata trovata per CLOZAPINA nel database del mercato interrogato. La query TFDA (2026-03-29) ha restituit»",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
-   "anchor": "> Questo farmaco non è attualmente registrato o commercializzato sotto questo INN nella giurisdizione interrogata. La verifica incrociata con i record AIFA (Italia) o EMA potrebbe essere necessaria se il prodotto è commercializzato sotto un nome commerciale o uno spelling INN alternativo."
+   "anchor": "> Questo farmaco non è attualmente registrato o commercializzato sotto questo INN nella giurisdizione interrogata. La verifica incrociata con i record AIFA (Italia) o EMA potrebbe essere necessaria se il prodotto è commercializzato sotto un nome commerciale o uno spelling INN alternativo.",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-clozapina-2",
@@ -687,7 +693,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «TFDA o»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-colchicina-1",
@@ -707,7 +716,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-colchicina-2",
@@ -727,7 +739,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-colchicine-1",
@@ -1049,7 +1064,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-doxazosina-2",
@@ -1069,7 +1087,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **\"DOXAZOSINA\"**»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-dronedarone-1",
@@ -1131,7 +1152,10 @@
    "checked": "2026-11-06",
    "summary": "Rimosso: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **\"DULOXETINA\"**»",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
-   "anchor": "> **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo \"duloxetina\"."
+   "anchor": "> **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo \"duloxetina\".",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-duloxetina-2",
@@ -1151,7 +1175,10 @@
    ],
    "checked": "2026-11-06",
    "summary": "Rimosso: «A/TFD»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
   },
   {
    "id": "it-lic-20261106-dupilumab-1",

@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 436,
+  "generated": "2026-11-16",
+  "total_drugs": 448,
   "level_counts": {
     "L1": 7,
-    "L2": 12,
+    "L2": 13,
     "L3": 17,
     "L4": 24,
-    "L5": 358
+    "L5": 369
   },
   "all_drugs": [
     {
@@ -70,6 +70,12 @@
       "indication_count": 10
     },
     {
+      "name": "Adrenalina",
+      "slug": "adrenalina",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Albendazole",
       "slug": "albendazole",
       "level": "L5",
@@ -90,6 +96,12 @@
     {
       "name": "Alfuzosin",
       "slug": "alfuzosin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Alfuzosina",
+      "slug": "alfuzosina",
       "level": "L5",
       "indication_count": 10
     },
@@ -154,6 +166,12 @@
       "indication_count": 9
     },
     {
+      "name": "Amlodipina",
+      "slug": "amlodipina",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Amlodipine",
       "slug": "amlodipine",
       "level": "L5",
@@ -188,6 +206,12 @@
       "slug": "apixaban",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Apomorfina",
+      "slug": "apomorfina",
+      "level": "L5",
+      "indication_count": 10
     },
     {
       "name": "Apomorphine",
@@ -598,6 +622,12 @@
       "indication_count": 3
     },
     {
+      "name": "Clonidina",
+      "slug": "clonidina",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Clonidine",
       "slug": "clonidine",
       "level": "L5",
@@ -610,16 +640,34 @@
       "indication_count": 7
     },
     {
+      "name": "Clorpromazina",
+      "slug": "clorpromazina",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Clothiapine",
       "slug": "clothiapine",
       "level": "L5",
       "indication_count": 1
     },
     {
+      "name": "Clozapina",
+      "slug": "clozapina",
+      "level": "L2",
+      "indication_count": 9
+    },
+    {
       "name": "Codeine",
       "slug": "codeine",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Colchicina",
+      "slug": "colchicina",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Colchicine",
@@ -682,6 +730,12 @@
       "indication_count": 2
     },
     {
+      "name": "Desloratadina",
+      "slug": "desloratadina",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Desloratadine",
       "slug": "desloratadine",
       "level": "L5",
@@ -742,6 +796,12 @@
       "indication_count": 2
     },
     {
+      "name": "Doxazosina",
+      "slug": "doxazosina",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Doxofylline",
       "slug": "doxofylline",
       "level": "L5",
@@ -760,6 +820,12 @@
       "indication_count": 9
     },
     {
+      "name": "Duloxetina",
+      "slug": "duloxetina",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Duloxetine",
       "slug": "duloxetine",
       "level": "L5",
@@ -776,6 +842,12 @@
       "slug": "dutasteride",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Ebastina",
+      "slug": "ebastina",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Ebastine",
