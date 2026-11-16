@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Duloxetina
 parent: Solo previsione del modello (L5)
 nav_order: 158
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 10
+drugbank_id: DB00476
+monitor_inn: "Duloxetine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+last_modified_at: 2026-11-16
+description: "Duloxetina: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5)."
 ---
 
 # Duloxetina
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **0** 
+Livello di evidenza: **L5** | Indicazioni previste: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +34,66 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-## DULOXETINA: Valutazione Sospesa – Dossier di Prove Incompleto
+## Duloxetina: Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy)
 {: .text-alpha }
 
-## Riassunto in Una Frase
+## Sintesi
 
-Duloxetina (duloxetine) è un inibitore della ricaptazione della serotonina e della norepinefrina (SNRI) riconosciuto a livello internazionale, approvato in diversi paesi per il disturbo depressivo maggiore, il disturbo d'ansia generalizzato e il dolore neuropatico.
-Tuttavia, questo Dossier di Prove non contiene **alcuna nuova indicazione prevista da TxGNN**, **alcun registro normativo italiano** e **alcun dato di sicurezza**, rendendo una valutazione standard del riposizionamento del farmaco impossibile in questa fase.
-È richiesta una ri-interrogazione corretta con l'identificatore DrugBank appropriato prima che qualsiasi valutazione possa procedere.
+La duloxetina è un antidepressivo della classe degli inibitori della ricaptazione di serotonina e noradrenalina (SNRI). Il modello TxGNN la associa al **torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy)**, ma per questa indicazione nei dati compilati per questo report non risultano né studi clinici né pubblicazioni: la previsione si basa solo sul modello.
 
----
+## Quadro generale
 
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Non registrata nel database normativo italiano |
-| Indicazione Nuova Prevista | Nessuna (previsioni TxGNN assenti) |
-| Punteggio Previsione TxGNN | N/A |
-| Livello di Evidenza | Non valutabile |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) |
+| Punteggio di previsione TxGNN | 0.9985 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione Consigliata | In Sospeso |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione è ragionevole?
 
-## Perché Non Sono Disponibili Previsioni?
+Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. La duloxetina inibisce la ricaptazione di serotonina e noradrenalina, ma non è stato individuato un legame meccanicistico plausibile con questa condizione.
 
-Duloxetina ha restituito zero risultati dal database normativo italiano (AIFA), e il Dossier di Prove non contiene alcun ID DrugBank. Senza un nodo DrugBank valido, la pipeline del grafo della conoscenza TxGNN non può mappare il farmaco su alcun nodo di malattia e pertanto non produce alcuna indicazione prevista.
+Il torcicollo parossistico benigno dell'infanzia è un disturbo raro, autolimitante, tipico della prima infanzia e spesso associato a varianti del gene CACNA1A (canalopatia). La duloxetina non è utilizzata nei lattanti. Il punteggio elevato del modello non è quindi supportato da una spiegazione biologica o clinica evidente e va interpretato con grande cautela.
 
-Questo è quasi certamente un **problema di collegamento dei dati**, non un'assenza genuina di potenziale di riposizionamento. Duloxetina è un composto ben caratterizzato con un meccanismo stabilito (inibizione duale del trasportatore della serotonina SERT e del trasportatore della norepinefrina NET) e un portafoglio di ricerca attivo che copre il dolore neuropatico correlato al cancro, l'incontinenza urinaria da sforzo, la fibromialgia e la neuropatia periferica indotta dalla chemioterapia, tra gli altri.
+## Evidenze da studi clinici
 
-Le cause radice più probabili sono: (1) lo spelling dell'INN "DULOXETINA" che non corrisponde alla voce del database AIFA (che potrebbe essere indicizzato come "duloxetina" in minuscolo, o per i nomi commerciali **Cymbalta** / **Xeristar**), e (2) l'assenza di un ID DrugBank che impedisce l'esecuzione di TxGNN. La correzione di questi due punti dovrebbe sbloccare sia i dati del meccanismo d'azione che l'intero set di previsioni.
+Al momento non risultano studi clinici registrati correlati a questa indicazione.
 
----
+## Evidenze dalla letteratura
 
-## Informazioni sul Mercato Italiano
+Al momento non risulta letteratura correlata disponibile per questa indicazione.
 
-> **Nota:** Duloxetina è disponibile in commercio in Italia con i nomi commerciali **Cymbalta** e **Xeristar**. La query a zero risultati probabilmente riflette una mancata corrispondenza ortografica o una limitazione dell'ambito di ricerca nella pipeline automatizzata piuttosto che un'assenza effettiva dal mercato. Si consiglia una ricerca manuale AIFA utilizzando il nome commerciale o l'INN in minuscolo "duloxetina".
+## Informazioni sul mercato italiano
 
-<!-- review:begin it-lic-20261106-duloxetina-1 -->
+In Italia sono presenti almeno 20 autorizzazioni valide per medicinali a base di duloxetina in monocomponente (l'elenco potrebbe essere parziale). Nei dati locali non è riportato il testo dell'indicazione approvata. Di seguito le principali:
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+| N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare |
+|---------|------|------|-----------|
+| 044267452 | DULOXETINA 28 cps gastroresistenti 30 mg | Capsule gastroresistenti | Viatris Limited |
+| 044699015 | DULOXETINA 7 cps gastroresistenti 30 mg | Capsule gastroresistenti | Sandoz SpA |
+| 043590013 | SILOXEZOL 28 cps gastroresistenti 30 mg | Capsule gastroresistenti | S.F. Group Srl |
+| 050340013 | CYMBALTA 28 cps gastroresistenti 60 mg | Capsule gastroresistenti | Farma 1000 Srl |
+| 036683062 | CYMBALTA 7 cps gastroresistenti 30 mg | Capsule gastroresistenti | Eli Lilly Nederland BV |
 
-<!-- review:end it-lic-20261106-duloxetina-1 -->
+## Considerazioni sulla sicurezza
 
----
+Per le informazioni di sicurezza si rimanda al foglio illustrativo.
 
-## Considerazioni sulla Sicurezza
+## Conclusione e prossimi passi
 
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
+**Decisione: Hold**
 
----
+**Motivazione:**
+La previsione si fonda unicamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, letteratura o un meccanismo plausibile. Inoltre, trattandosi di una condizione dell'età infantile, l'uso di duloxetina in questa popolazione non è giustificato dai dati disponibili.
 
-## Conclusione e Prossimi Passi
-
-**Decisione: In Sospeso**
-
-**Razionale:**
-Il Dossier di Prove non contiene alcuna indicazione prevista da TxGNN, alcun record normativo AIFA e alcun avviso di sicurezza — nessuno dei dati minimi richiesti per una valutazione di livello di evidenza da L1 a L5 è presente. Procedere con la valutazione produrrebbe un rapporto strutturalmente vuoto senza contenuto azionabile.
-
-**Per procedere, è necessario quanto segue:**
-
-- **Risolvere l'ID DrugBank:** L'identificatore probabile di duloxetina è **DB00476**; confermare e ri-iniettare nella pipeline.
-- **Ri-interrogare AIFA:** Utilizzare la minuscola "duloxetina" e/o i nomi commerciali "Cymbalta" / "Xeristar" per recuperare le autorizzazioni di mercato italiane esistenti e le indicazioni approvate.
-- **Ri-eseguire TxGNN:** Con un ID DrugBank valido, ri-eseguire il passo di previsione del grafo della conoscenza per generare indicazioni previste classificate.
-- **Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.
-- **Riconsegnare un Dossier di Prove completo:** Una volta colmate le lacune di cui sopra, rigenerare il Dossier di Prove e riconsegnare per una valutazione completa.
-
-<!-- review:begin it-lic-20261106-duloxetina-2 -->
-
-> **Correzione di verifica (2026-11-06)**: Testo originale: «**Recuperare il foglio illustrativo:** Scaricare il PDF del foglio illustrativo AIFA/TFDA per popolare gli avvisi chiave, le controindicazioni e i dati di interazioni farmacologiche.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
-
-<!-- review:end it-lic-20261106-duloxetina-2 -->
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione della duloxetina e un'ipotesi biologica per questa condizione
+- Evidenze precliniche o cliniche che riguardino direttamente il torcicollo parossistico benigno dell'infanzia
+- Dati di sicurezza dal foglio illustrativo, con una valutazione specifica per la popolazione pediatrica
 
 <!-- review:begin log -->
 
@@ -115,8 +103,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «A/TFD» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «A/TFD» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

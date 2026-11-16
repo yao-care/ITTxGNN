@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Clorpromazina
 parent: Solo previsione del modello (L5)
 nav_order: 122
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB00477
+monitor_inn: "Chlorpromazine"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-16
+description: "Clorpromazina: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5)."
 ---
 
 # Clorpromazina
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **0** 
+Livello di evidenza: **L5** | Indicazioni previste: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +34,68 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-## Clorpromazina: Valutazione della Riproposizione Incompleta — Previsioni di TxGNN Non Disponibili
+## Clorpromazina: Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
-## Riassunto in una Riga
+## Sintesi in una frase
 
-Clorpromazina (chlorpromazine) è un antipsicoptico fenotiazinico di prima generazione con un uso consolidato nelle patologie psichiatriche.
-Tuttavia, questi dati compilati non contengono **alcun'indicazione nuova prevista da TxGNN** e mancano campi critici — indicazioni originarie, meccanismo d'azione e dati di sicurezza — rendendo impossibile al momento una valutazione completa della riproposizione.
-La pipeline dei dati ha confermato che le fonti DrugBank e del foglio illustrativo hanno ciascuna restituito un risultato, ma il loro contenuto non era ancora stato integrato nei dati compilati.
+Clorpromazina è un farmaco antipsicotico di prima generazione, commercializzato in Italia con il nome Largactil.
+Il modello TxGNN prevede un possibile effetto per **distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies)**, ma al momento non esistono **studi clinici** a supporto e la sola pubblicazione reperita (**1 articolo del 1967**) descrive reazioni di fototossicità, non un beneficio terapeutico.
 
----
+## Panoramica rapida
 
-## Panoramica Rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione Originaria | Non disponibile nei dati compilati |
-| Indicazione Nuova Prevista | Nessuna — previsioni di TxGNN non popolate |
-| Punteggio di Previsione TxGNN | N/A |
-| Livello di Evidenza | N/A |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originale | Non riportata nei dati locali |
+| Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
+| Punteggio di predizione TxGNN | 0.9995 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 3) |
 | Numero di autorizzazioni | 3 (valide: 3) |
-| Decisione Consigliata | In sospeso |
+| Decisione raccomandata | Hold (sospendere) |
 
----
+## Perché questa predizione potrebbe essere (o non essere) ragionevole?
 
-## Considerazioni di Sicurezza
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In generale, la clorpromazina è un antagonista dei recettori dopaminergici D2, con attività aggiuntiva su recettori serotoninergici, istaminici, adrenergici e muscarinici.
 
-Si prega di consultare il foglio illustrativo per le informazioni di sicurezza.
+Non è stato individuato alcun meccanismo terapeutico credibile che colleghi il farmaco alle distrofie retiniche. L'unico lavoro reperito (PMID 5336672) riguarda reazioni fototossiche indotte da dosi elevate di clorpromazina e tioridazina: è un segnale di sicurezza, non di efficacia. Inoltre è noto che la clorpromazina può depositarsi nei tessuti oculari e, ad alte dosi, causare retinopatia pigmentaria; il farmaco potrebbe quindi peggiorare, anziché curare, una patologia retinica.
 
----
+Il punteggio elevato è dunque una predizione basata sulla rete di relazioni del modello, priva di conferma clinica.
 
-## Conclusione e Prossimi Passi
+## Evidenze dagli studi clinici
 
-**Decisione: In sospeso**
+Attualmente non risulta alcuno studio clinico registrato correlato.
 
-**Razionale:**
-I dati compilati per Clorpromazina sono criticamente incompleti — senza previsioni di TxGNN, indicazioni originarie, meccanismo d'azione o dati di sicurezza, nessuna ipotesi di riproposizione può essere formulata o valutata.
+## Evidenze dalla letteratura
 
-**Per procedere, è necessario il seguente:**
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [5336672](https://pubmed.ncbi.nlm.nih.gov/5336672/) | 1967 | Segnalazione (altro) | JAMA | Reazioni fototossiche indotte da dosi elevate di clorpromazina e tioridazina; nessun segnale terapeutico per la retina |
 
-- **Output del modello TxGNN** — l'array `predicted_indications` è vuoto; il modello deve essere eseguito o i risultati caricati per questo farmaco prima che possa iniziare qualsiasi valutazione
-- **Indicazioni Originarie Approvate** — `original_indications` è vuoto; recuperare dal database AIFA o dal foglio illustrativo
-- **Meccanismo d'azione** — la query DrugBank ha restituito 1 risultato il 2026-03-29 ma i dati non sono stati integrati in `drug.original_moa`; estrarre e popolare
-- **Informazioni sulla Sicurezza** — la query del foglio illustrativo ha restituito 1 risultato il 2026-03-29 ma `key_warnings` e `contraindications` rimangono non compilati; analizzare e integrare
-- **Dati di Interazione Farmacologica** — la query DDI non ha restituito risultati; considerare l'interrogazione di un database DDI alternativo (ad es., interazioni DrugBank, Drugs.com)
-- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA
+## Informazioni sul mercato italiano
 
-<!-- review:begin it-lic-20261106-clorpromazina-1 -->
+| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+|---------|------|------|-----------|
+| 007899026 | LARGACTIL*25 cpr rivestite 25 mg | Compresse rivestite | Non registrata nei dati locali |
+| 007899038 | LARGACTIL*20 cpr rivestite 100 mg | Compresse rivestite | Non registrata nei dati locali |
+| 007899014 | LARGACTIL*5 fiale IM 50 mg 2 ml | Fiale per uso intramuscolare | Non registrata nei dati locali |
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «**Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA; 0 licenze è inaspettato per un composto di questa classe» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+## Considerazioni sulla sicurezza
 
-<!-- review:end it-lic-20261106-clorpromazina-1 -->
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Dal punto di vista del profilo oculare, i dati compilati indicano che la clorpromazina può causare fototossicità e, ad alte dosi, deposito oculare con retinopatia pigmentaria; inoltre può abbassare la soglia convulsiva.
+
+## Conclusioni e passi successivi
+
+**Decisione: Hold (sospendere)**
+
+**Motivazione:**
+La predizione è soltanto computazionale (livello di evidenza L5): non vi sono studi clinici né letteratura che studino la clorpromazina nella distrofia retinica, e l'unico dato disponibile suggerisce un rischio per l'occhio piuttosto che un beneficio.
+
+**Per procedere sarebbe necessario:**
+- Dati sul meccanismo d'azione e un razionale biologico plausibile per le patologie retiniche
+- Studi preclinici su modelli di degenerazione retinica che dimostrino un effetto favorevole
+- Una valutazione formale della sicurezza oculare (fototossicità, deposito nei tessuti oculari, retinopatia)
+- Il foglio illustrativo AIFA con avvertenze e controindicazioni
 
 <!-- review:begin log -->
 
@@ -94,7 +105,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «0 licenze è inaspettato per un composto di questa classe» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «0 licenze è inaspettato per un composto di questa classe» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

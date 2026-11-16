@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Doxazosina
 parent: Solo previsione del modello (L5)
 nav_order: 153
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 2
+drugbank_id: DB00590
+monitor_inn: "Doxazosin"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-11-16
+description: "Doxazosina: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5)."
 ---
 
 # Doxazosina
 {: .fs-9 }
 
-Livello di evidenza: **L5** | Indicazioni previste: **0** 
+Livello di evidenza: **L5** | Indicazioni previste: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,80 +34,72 @@ Livello di evidenza: **L5** | Indicazioni previste: **0**
 
 </div>
 
-## Doxazosina: Valutazione della riproposizione farmacologica — Dati insufficienti per completare la valutazione
+## Doxazosina: Emicrania (migraine disorder)
 {: .text-alpha }
 
-## Riassunto in una frase
+## Sintesi
 
-Doxazosina (INN internazionale: Doxazosin) è un antagonista dei recettori adrenergici alfa-1 con un uso clinico consolidato nell'ipertensione e nell'iperplasia prostatica benigna. I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco. Una valutazione completa della riproposizione non può essere completata fino a quando i dati di previsione, i dossier normativi e le informazioni sulla sicurezza non saranno recuperati.
+Doxazosina è un farmaco della classe degli antagonisti selettivi dei recettori alfa-1 adrenergici. Il modello TxGNN lo prevede come possibile opzione per l'**emicrania (migraine disorder)**. Le evidenze a supporto sono molto limitate: **nessuno studio clinico registrato** e **1 pubblicazione** (una breve serie di casi del 1997 su 10 pazienti).
 
-<!-- review:begin it-lic-20261106-doxazosina-1 -->
+## Quadro generale
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «I dati compilati attuali non contengono **alcuna previsione di riproposizione di TxGNN** per questo farmaco, e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
-
-<!-- review:end it-lic-20261106-doxazosina-1 -->
-
----
-
-## Panoramica rapida
-
-| Elemento | Contenuto |
-|----------|-----------|
-| Indicazione originale | Non disponibile nei dati compilati (conoscenza generale: ipertensione, IPB) |
-| Nuova indicazione prevista | Non disponibile |
-| Punteggio di previsione TxGNN | Non disponibile |
-| Livello di evidenza | L5 — dati di previsione assenti |
+| Voce | Contenuto |
+|------|------|
+| Indicazione originaria | Non riportata nei dati locali |
+| Nuova indicazione prevista | Emicrania (migraine disorder) |
+| Punteggio di previsione TxGNN | 0.9920 |
+| Livello di evidenza | L5 |
 | Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
 | Numero di autorizzazioni | almeno 20 |
-| Decisione consigliata | **In sospeso** |
+| Decisione raccomandata | Hold |
 
----
+## Perché questa previsione può essere ragionevole?
 
-## Perché questa previsione è ragionevole?
+I dati compilati per questo report non contengono informazioni dettagliate sul meccanismo d'azione. In base alle conoscenze generali sulla classe, doxazosina blocca i recettori alfa-1 adrenergici, riducendo il tono vascolare mediato dalla noradrenalina.
 
-Attualmente, i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati. In base alle conoscenze farmacologiche generali, Doxazosina è un antagonista selettivo dei recettori adrenergici alfa-1. La sua efficacia nell'ipertensione (tramite rilassamento della muscolatura liscia vascolare) e nell'iperplasia prostatica benigna (tramite rilassamento della muscolatura liscia prostatica) è stata ben consolidata clinicamente.
+La segnalazione noradrenergica può influenzare il tono dei vasi cerebrali e l'elaborazione centrale degli stimoli sensoriali, processi ritenuti coinvolti nella fisiopatologia dell'emicrania. Ne deriva un razionale plausibile ma indiretto per un blocco alfa-1 nella profilassi dell'emicrania.
 
-Nessun output di previsione di TxGNN era presente nel campo `predicted_indications` dei dati compilati. Di conseguenza, non è possibile valutare se il meccanismo d'azione supporta alcuna indicazione nuova specifica. Questa sezione sarà completamente popolata una volta che i dati di previsione diventeranno disponibili.
+Il punteggio elevato del modello indica un'associazione a livello di rete, ma non costituisce un'evidenza clinica.
 
----
+## Evidenze da studi clinici
+
+Attualmente non risultano studi clinici registrati correlati.
+
+## Evidenze dalla letteratura
+
+| PMID | Anno | Tipo | Rivista | Risultati principali |
+|------|-----|------|------|---------|
+| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Revisione / serie di casi | Headache | 10 pazienti con emicrania in ambulatorio neurologico trattati con terazosina o doxazosina. Riduzione di frequenza e/o gravità in tutti tranne uno, ma 5 pazienti hanno interrotto il trattamento per effetti collaterali. Nessuna reazione avversa grave riportata. |
+
+Si tratta di un'osservazione aneddotica, non controllata e su un campione molto piccolo; non consente conclusioni di efficacia. Nessuno studio citato esamina direttamente l'emicrania in modo controllato, quindi il livello di evidenza resta L5.
 
 ## Informazioni sul mercato italiano
 
-Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer). Si prevede che una ricerca con l'INN inglese o il nome commerciale nel database AIFA restituisca autorizzazioni attive.
+I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), tutte valide e relative a medicinali monocomponente. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-<!-- review:begin it-lic-20261106-doxazosina-2 -->
+| Numero di autorizzazione | Prodotto | Titolare | Indicazione approvata |
+|---------|------|------|-----------|
+| 034434187 | Doxazosina 4 mg, 20 cpr | EG SpA | Non registrata |
+| 040243065 | Doxazosin 2 mg, 30 cpr | Aurobindo Pharma Italia Srl | Non registrata |
+| 037248059 | Kimura 2 mg, 30 cpr div | S.F. Group Srl | Non registrata |
+| 039353026 | Cardura 2 mg, 30 cpr div | BB Farma Srl | Non registrata |
+| 026821025 | Cardura 4 mg, 20 cpr div | Viatris Pharma Srl | Non registrata |
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**. Questo è molto probabilmente un **problema di corrispondenza dei nomi**: l'INN inglese è "Doxazosin" e il nome commerciale ampiamente utilizzato in Europa è **Cardura** (Pfizer).» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+## Considerazioni di sicurezza
 
-<!-- review:end it-lic-20261106-doxazosina-2 -->
-
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|--------------------------|-------------------|-------------------|-----------------------|
-| — | Nessun record trovato | — | Ricerca richiesta con "Doxazosin" o "Cardura" |
-
----
-
-## Considerazioni sulla sicurezza
-
-Si prega di fare riferimento al foglio illustrativo per le informazioni sulla sicurezza.
-
----
+Si rimanda al foglio illustrativo per le informazioni di sicurezza. Nella letteratura citata, 5 pazienti su 10 hanno interrotto il trattamento per effetti collaterali.
 
 ## Conclusioni e prossimi passi
 
-**Decisione: In sospeso**
+**Decisione: Hold**
 
-**Logica:**
-I dati compilati non hanno restituito previsioni di riproposizione di TxGNN, nessun dato normativo italiano e nessun profilo di sicurezza — i tre input fondamentali richiesti per una valutazione di riproposizione. Procedere senza questi comporterebbe una raccomandazione priva di evidenze.
+**Motivazione:**
+La previsione si basa soprattutto sul punteggio del modello e su una singola serie di casi del 1997, senza studi clinici registrati. Il razionale meccanicistico è plausibile ma indiretto, e l'alta quota di interruzioni per effetti collaterali richiede cautela.
 
-**Per procedere, sono necessari i seguenti elementi:**
-
-- **Rieseguire la pipeline TxGNN** utilizzando l'INN inglese corretto **"Doxazosin"** (DrugBank ID previsto: DB00590) per ottenere le indicazioni candidate di riproposizione classificate
-- **Ricerca nel database AIFA / italiano** utilizzando "Doxazosin" o il nome commerciale "Cardura" per recuperare i record di autorizzazione commerciale attiva e le indicazioni approvate
-- **Recuperare il MOA da DrugBank** (DB00590) per popolare l'analisi del meccanismo d'azione
-- **Ottenere il foglio illustrativo AIFA** per gli avvertimenti chiave, le controindicazioni e le precauzioni nelle popolazioni speciali
-- **Rieseguire il controllo DDI** utilizzando l'INN standardizzato "Doxazosin" (la ricerca attuale non ha restituito risultati con "DOXAZOSINA")
-- **Confermare l'ID DrugBank** — i dati compilati elencano `drugbank_id: null`; questo deve essere risolto prima di qualsiasi riesecuzione della pipeline
+**Per procedere sono necessari:**
+- Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni dal foglio illustrativo AIFA
+- Studi clinici controllati (almeno di fase 2) di doxazosina nella profilassi dell'emicrania
+- Valutazione della tollerabilità, in particolare ipotensione e capogiri, in pazienti emicranici
 
 <!-- review:begin log -->
 
@@ -116,8 +109,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-06 | Rimosso: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -276,6 +276,7 @@
         "HkTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -289,6 +290,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "NZTxGNN",
         "UkTxGNN"
       ]
     },
@@ -506,6 +508,7 @@
       "page": "levonorgestrel",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -844,10 +847,13 @@
     "db00594": {
       "page": "amiloride",
       "sources": [
+        "BrTxGNN",
         "CaTxGNN",
         "FRTxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "KrTxGNN",
+        "MyTxGNN",
         "NZTxGNN",
         "UkTxGNN",
         "UsTxGNN",
@@ -884,6 +890,7 @@
         "HkTxGNN",
         "InTxGNN",
         "JpTxGNN",
+        "MyTxGNN",
         "NZTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -935,6 +942,7 @@
         "InTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "UkTxGNN",
         "UsTxGNN",
         "ZaTxGNN"
@@ -1179,6 +1187,7 @@
         "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN",
         "UsTxGNN",
@@ -1279,6 +1288,7 @@
       "page": "salbutamol",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -1300,6 +1310,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1420,6 +1431,7 @@
       "page": "abacavir",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -1429,6 +1441,8 @@
         "FRTxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "KrTxGNN",
+        "MyTxGNN",
         "NOTxGNN",
         "NlTxGNN",
         "SATxGNN",
@@ -1441,7 +1455,6 @@
     "db01050": {
       "page": "ibuprofen",
       "sources": [
-        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -1515,6 +1528,7 @@
       "page": "bicalutamide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "NlTxGNN",
@@ -1565,6 +1579,7 @@
       "page": "bupropion",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "CaTxGNN",
         "DETxGNN",
@@ -1638,6 +1653,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1664,6 +1680,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1724,6 +1741,7 @@
         "NOTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN",
         "UsTxGNN",
@@ -1875,6 +1893,7 @@
         "AuTxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "MyTxGNN",
         "SATxGNN",
         "SgTxGNN",
         "UsTxGNN"
@@ -1960,7 +1979,8 @@
       "page": "glatiramer",
       "sources": [
         "AuTxGNN",
-        "CaTxGNN"
+        "CaTxGNN",
+        "KrTxGNN"
       ]
     },
     "db06148": {
