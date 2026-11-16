@@ -9,7 +9,7 @@ drugbank_id: DB00363
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 last_modified_at: 2026-11-16
-description: "Clozapina: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (manic bipolar affective disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Clozapina: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (manic bipolar affective disorder) (livello di evidenza L2)."
 ---
 
 # Clozapina
@@ -39,13 +39,13 @@ Livello di evidenza: **L2** | Indicazioni previste: **9**
 
 ## Sintesi
 
-La clozapina è un antipsicotico atipico, autorizzato in Italia sia come principio attivo generico sia con il marchio Leponex. Il modello TxGNN ne prevede un possibile impiego nel **disturbo affettivo bipolare maniacale (manic bipolar affective disorder)**. A sostegno di questa direzione, tra i dati compilati per questo report figurano **1 sperimentazione clinica di fase 2 diretta, completata**, e una letteratura prevalentemente costituita da revisioni narrative e rapporti di casi.
+Clozapina è un antipsicotico atipico con un profilo recettoriale multiplo. Il modello TxGNN prevede un possibile beneficio nel **disturbo affettivo bipolare maniacale (manic bipolar affective disorder)**, con **1 studio clinico** di fase 2 completato, direttamente pertinente, e diverse pubblicazioni sull'uso della clozapina nel disturbo bipolare resistente al trattamento.
 
 ## Quadro generale
 
 | Voce | Contenuto |
 |------|------|
-| Indicazione originale | Non riportata nei dati locali |
+| Indicazione originaria | Non riportata nei dati locali |
 | Nuova indicazione prevista | Disturbo affettivo bipolare maniacale (manic bipolar affective disorder) |
 | Punteggio di predizione TxGNN | 0.9995 |
 | Livello di evidenza | L2 |
@@ -53,72 +53,64 @@ La clozapina è un antipsicotico atipico, autorizzato in Italia sia come princip
 | Numero di autorizzazioni | 14 (valide: 14) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
-## Perché questa predizione è plausibile?
+## Perché questa predizione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Sulla base delle conoscenze farmacologiche generali, la clozapina presenta un profilo recettoriale ampio: antagonismo D2 a bassa affinità e rapida dissociazione, antagonismo 5-HT2A e attività muscarinica e adrenergica. Questo profilo può plausibilmente spiegare effetti antimaniacali e stabilizzanti dell'umore, soprattutto nella mania resistente al trattamento.
+I dati compilati per questo report non contengono una descrizione dettagliata del meccanismo d'azione. In base alla farmacologia generale, clozapina agisce con un antagonismo a bassa affinità sui recettori D2, un forte antagonismo sui recettori 5-HT2A e un'attività sui recettori muscarinici, adrenergici e istaminergici.
 
-Molti pazienti maniacali non rispondono adeguatamente ai trattamenti convenzionali o non ne tollerano le dosi terapeutiche. In questo contesto la clozapina è considerata un'opzione di fase avanzata, non di prima linea.
+Questo profilo è coerente con gli effetti antimaniacali e stabilizzanti dell'umore osservati con altri antipsicotici atipici. Il razionale meccanicistico si basa quindi sulla farmacologia generale e non su dati di meccanismo specifici per questo report.
 
-## Evidenze dagli studi clinici
+Il disturbo bipolare maniacale resistente ai trattamenti convenzionali è proprio la popolazione in cui l'uso della clozapina è stato esplorato, come mostrano lo studio clinico e le revisioni elencate di seguito.
 
-Per la mania resistente è disponibile una sola sperimentazione diretta:
+## Evidenze da studi clinici
 
 | Numero studio | Fase | Stato | Arruolamento | Risultati principali |
 |---------|------|------|------|---------|
-| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fase 2 | Completato | 42 | Studio in doppio cieco su efficacia e sicurezza della clozapina nella fase maniacale del disturbo bipolare resistente al trattamento; studio diretto e randomizzato, ma di piccole dimensioni e datato (2002–2005) |
+| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Fase 2 | Completato | 42 | Studio in doppio cieco sull'efficacia e la sicurezza di clozapina nella mania resistente al trattamento nel disturbo bipolare |
+
+Poiché è presente un solo studio di fase 2, di piccole dimensioni, e non due studi di fase 3 completati, il livello di evidenza resta L2.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Revisione sistematica e metanalisi | J Psychiatr Res | Valuta efficacia clinica e profilo di eventi avversi della clozapina nel disturbo bipolare |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Revisione | Bipolar Disord | Sintesi delle conoscenze sulla clozapina nel disturbo bipolare e prospettive future |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Revisione | Acta Psychiatr Scand | Opzioni di trattamento basate sull'evidenza per la mania bipolare, con scelta di stabilizzatore e antipsicotico |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Revisione | Mol Psychiatry | Disturbo bipolare resistente: limiti dei trattamenti di prima linea nella mania acuta |
-| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Revisione | Bull Menninger Clin | Le nuove terapie per il disturbo bipolare resistente si basano soprattutto su casi clinici |
-| [7961583](https://pubmed.ncbi.nlm.nih.gov/7961583/) | 1994 | Revisione e dati preliminari | J Clin Psychiatry | Dati preliminari sull'uso della clozapina nei disturbi dell'umore resistenti |
-| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Serie di casi/revisione | Clin Neuropharmacol | 36 pazienti trattati con ECT più clozapina: beneficio nel 67%, buona tollerabilità nella maggior parte |
-| [32767873](https://pubmed.ncbi.nlm.nih.gov/32767873/) | 2020 | Coorte | Prim Care Companion CNS Disord | Ricoveri per polmonite con antipsicotici di seconda generazione in pazienti psicotici o bipolari |
-| [32918660](https://pubmed.ncbi.nlm.nih.gov/32918660/) | 2021 | Revisione | Psychiatr Q | Clozapina nel comportamento aggressivo resistente al trattamento |
-| [42386215](https://pubmed.ncbi.nlm.nih.gov/42386215/) | 2026 | Caso clinico | Pract Neurol | Mioclono negativo con cadute in un paziente trattato con clozapina per disturbo bipolare resistente |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Revisione | Acta Psychiatr Scand | Opzioni di trattamento basate sulle evidenze per la mania bipolare, con indicazioni sulla scelta di stabilizzatori dell'umore e antipsicotici |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Revisione | Mol Psychiatry | Disturbo bipolare resistente al trattamento: trattamenti di prima linea e opzioni per risposta inadeguata |
+| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Revisione | Bull Menninger Clin | Disturbo bipolare resistente: le nuove terapie si basano per lo più su case report e serie di casi |
+| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Serie di casi/revisione | Clin Neuropharmacol | 36 pazienti trattati con ECT e clozapina: beneficio nel 67%, per lo più ben tollerato |
+| [7961583](https://pubmed.ncbi.nlm.nih.gov/7961583/) | 1994 | Dati preliminari | J Clin Psychiatry | Clozapina nei disturbi dell'umore refrattari: efficacia potenziale in pazienti non responsivi al litio |
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Revisione sistematica e meta-analisi | J Psychiatr Res | Efficacia clinica e profilo di effetti avversi di clozapina nel disturbo bipolare |
+| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Rassegna | Bipolar Disord | Stato delle conoscenze su clozapina nel disturbo bipolare e prospettive future |
+| [42386215](https://pubmed.ncbi.nlm.nih.gov/42386215/) | 2026 | Case report | Pract Neurol | Cadute ricorrenti da mioclono negativo, rara reazione avversa, in un paziente con disturbo bipolare resistente trattato con clozapina |
+| [23838603](https://pubmed.ncbi.nlm.nih.gov/23838603/) | 2014 | Case report | Aust N Z J Psychiatry | Mania da rebound associata a clozapina |
 
 ## Informazioni sul mercato italiano
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 044326015 | CLOZAPINA*28 cpr 25 mg (DOC Generici) | Compresse | Non registrata nei dati locali |
-| 043807130 | CLOZAPINA*28 cpr 100 mg (Accord Healthcare) | Compresse | Non registrata nei dati locali |
-| 028824047 | LEPONEX*28 cpr 100 mg (Viatris Healthcare) | Compresse | Non registrata nei dati locali |
-| 044326027 | CLOZAPINA*28 cpr 100 mg (DOC Generici) | Compresse | Non registrata nei dati locali |
-| 044349090 | CLOZAPINA*28 cpr 100 mg (Teva Italia) | Compresse | Non registrata nei dati locali |
+| 044326015 | CLOZAPINA*28 cpr 25 mg (DOC Generici) | Non indicata | Non registrata nei dati locali |
+| 043807130 | CLOZAPINA*28 cpr 100 mg (Accord Healthcare) | Non indicata | Non registrata nei dati locali |
+| 028824047 | LEPONEX*28 cpr 100 mg (Viatris Healthcare) | Non indicata | Non registrata nei dati locali |
+| 044326027 | CLOZAPINA*28 cpr 100 mg (DOC Generici) | Non indicata | Non registrata nei dati locali |
+| 044349090 | CLOZAPINA*28 cpr 100 mg (Teva Italia) | Non indicata | Non registrata nei dati locali |
 
-Le autorizzazioni in elenco sono 5 delle 14 complessive; tutte risultano valide.
-
-## Citotossicità
-
-Il farmaco non è un antineoplastico: sezione non applicabile.
+Sono elencate le 5 autorizzazioni principali; tutte le autorizzazioni registrate sono valide.
 
 ## Considerazioni di sicurezza
 
-I dati sulla sicurezza tratti dal foglietto illustrativo non sono disponibili. Si rimanda al foglietto illustrativo per le informazioni complete. Dalla letteratura compilata per questo report emergono i seguenti rischi da considerare:
-
-- **Rischi ematologici**: agranulocitosi, con necessità di monitoraggio della conta assoluta dei neutrofili.
-- **Rischi cardiaci**: miocardite, in particolare durante la titolazione.
-- **Altri rischi**: crisi epilettiche, effetti metabolici (iperglicemia), polmonite e mioclono negativo con cadute.
-- **Interazioni**: la ricerca sulle interazioni farmacologiche non ha restituito risultati nei dati compilati; la letteratura segnala comunque la rilevanza delle interazioni con CYP1A2 (ad esempio fluvoxamina, variazioni del fumo, infezioni).
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nella letteratura raccolta compaiono segnalazioni di eventi avversi associati a clozapina, tra cui mioclono negativo, miocardite, convulsioni, eosinofilia e tossicità legata a infezioni. Una revisione del 2025 discute inoltre le regole di monitoraggio ematico in Europa.
 
 ## Conclusioni e prossimi passi
 
 **Decisione: Proceed with Guardrails (procedere con cautele)**
 
 **Motivazione:**
-L'evidenza diretta si basa su un solo studio di fase 2 in doppio cieco, completato ma piccolo (n=42) e datato, affiancato da studi di fase 4 comparativi di stato incerto. Il livello di evidenza è L2. Il profilo di rischio della clozapina richiede cautele rigorose e il suo impiego resta limitato alle forme resistenti.
+Esiste uno studio di fase 2 completato, in doppio cieco, direttamente pertinente alla mania resistente al trattamento, affiancato da una meta-analisi e da revisioni sul disturbo bipolare. Lo studio però è piccolo (42 partecipanti) e mancano studi di fase 3 completati.
 
 **Per procedere sono necessari:**
-- Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglietto illustrativo AIFA, attualmente mancanti.
-- Studi controllati più ampi e recenti nella mania resistente.
-- Un piano di monitoraggio ematologico, cardiaco, metabolico e del rischio convulsivo.
-- Gestione delle interazioni, in particolare quelle mediate dal CYP1A2.
+- Dati sul meccanismo d'azione da una fonte dedicata
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, indispensabili per lo screening di sicurezza
+- Conferma dei risultati con uno studio di dimensioni maggiori, oltre allo studio di fase 2 di 42 partecipanti
+- Un piano di monitoraggio ematologico e cardiaco adeguato al profilo di rischio noto di clozapina
 
 <!-- review:begin log -->
 

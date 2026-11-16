@@ -39,11 +39,9 @@ Livello di evidenza: **L5** | Indicazioni previste: **2**
 
 ## Sintesi in una frase
 
-La colchicina è un principio attivo che agisce sui microtubuli cellulari ed è presente in Italia con prodotti monocomponente.
-Il modello TxGNN la indica come possibile candidata per la **malaria da Plasmodium falciparum (Plasmodium falciparum malaria)**,
-ma nei dati compilati per questo report non risultano **sperimentazioni cliniche** e le **2 pubblicazioni** disponibili sono indirette (studi preclinici).
+La colchicina è un principio attivo che agisce sui microtubuli cellulari ed è registrato in Italia come medicinale a singolo principio attivo. Il modello TxGNN prevede una possibile efficacia nella **malaria da Plasmodium falciparum (Plasmodium falciparum malaria)**, ma per questa indicazione non risulta alcuno studio clinico registrato e le due pubblicazioni raccolte non testano la colchicina come trattamento antimalarico.
 
-## Quadro generale
+## Quadro d'insieme
 
 | Voce | Contenuto |
 |------|------|
@@ -55,48 +53,50 @@ ma nei dati compilati per questo report non risultano **sperimentazioni cliniche
 | Numero di autorizzazioni | 2 (valide: 2) |
 | Decisione raccomandata | Hold (sospendere) |
 
-## Perché questa predizione può essere ragionevole?
+## Perché questa predizione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nel materiale compilato. In linea generale, la colchicina è nota come inibitore della polimerizzazione dei microtubuli. Poiché *Plasmodium falciparum* si affida ai microtubuli per la divisione e lo sviluppo intracellulare, esiste un collegamento meccanicistico plausibile.
+I dati sul meccanismo d'azione non sono al momento disponibili nelle informazioni compilate per questo report. Sul piano teorico, la colchicina si lega alla tubulina e ostacola la polimerizzazione dei microtubuli. I parassiti del genere Plasmodium dipendono dai microtubuli per la formazione del fuso mitotico e per il citoscheletro nelle diverse fasi del ciclo vitale, per cui esiste un'ipotesi antiparassitaria plausibile.
 
-Tuttavia, si tratta di un'ipotesi. La letteratura raccolta è indiretta: uno studio del 1994 riguarda l'espressione del gene pfmdr1 in cellule di mammifero e la suscettibilità alla clorochina; uno studio del 2013 descrive l'effetto della curcumina (un composto diverso) sui microtubuli del parassita. Nessuno dei due dimostra l'efficacia della colchicina contro la malaria. Per questo motivo il livello di evidenza resta L5, anche se la lettura meccanicistica è plausibile.
+Vi sono però limiti importanti. La tubulina di Plasmodium sembra meno sensibile alla colchicina rispetto a quella dei mammiferi. Inoltre la colchicina ha un indice terapeutico ristretto, con tossicità dose-limitante nell'uomo (gastrointestinale, mielosoppressione, neuromiopatia). Il punteggio TxGNN, pur elevato, è soltanto una previsione computazionale.
 
-Pesano inoltre l'indice terapeutico ristretto della colchicina, la tossicità alle esposizioni che sarebbero necessarie per un effetto antiparassitario e la disponibilità di antimalarici già efficaci e approvati.
+## Evidenze dagli studi clinici
 
-## Evidenze da sperimentazioni cliniche
-
-Al momento non risultano sperimentazioni cliniche correlate registrate.
+Attualmente non risultano studi clinici registrati correlati.
 
 ## Evidenze dalla letteratura
 
 | PMID | Anno | Tipo | Rivista | Risultati principali |
 |------|-----|------|------|---------|
-| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Preclinico (studio in vitro su cellule) | Molecular and Cellular Biology | L'espressione del gene pfmdr1 di *P. falciparum* in cellule di mammifero è associata a maggiore suscettibilità alla clorochina; studio sui meccanismi di resistenza, non sulla colchicina come terapia |
-| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Preclinico (in vitro, composto diverso: curcumina) | PLoS One | La curcumina altera i microtubuli di *P. falciparum*; indica che i microtubuli del parassita sono un bersaglio possibile, ma non riguarda la colchicina |
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Ricerca di base (in vitro) | Molecular and Cellular Biology | L'espressione del gene plasmodiale pfmdr1 in cellule di mammifero è associata a una maggiore sensibilità alla clorochina; riguarda la resistenza mediata da trasportatori, non dimostra efficacia antimalarica della colchicina |
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Ricerca di base (in vitro) | PLoS One | La curcumina altera i microtubuli di P. falciparum; lo studio non valuta la colchicina come trattamento |
+
+Nessuno dei due studi esamina direttamente la colchicina nella malaria da P. falciparum; per questo il livello di evidenza resta L5.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
+| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 009964038 | COLCHICINA LIRCA*2x30 cpr div 1 mg | Non indicata | Non registrata nei dati locali |
 | 009964040 | COLCHICINA LIRCA*60 cpr 0,5 mg | Non indicata | Non registrata nei dati locali |
 
+Entrambe le autorizzazioni sono valide e riguardano medicinali a singolo principio attivo (titolare: ACARPIA FARMACEUTICI Srl).
+
 ## Considerazioni sulla sicurezza
 
-Per le informazioni di sicurezza si rimanda al foglio illustrativo. Nei dati compilati non risultano interazioni farmacologiche registrate, ma ciò va considerato probabilmente come una lacuna informativa e non come assenza di interazioni.
+Per le informazioni di sicurezza si rimanda al foglio illustrativo. Si ricorda in particolare che la colchicina ha un indice terapeutico ristretto, con tossicità dose-limitante (gastrointestinale, midollare, neuromuscolare).
 
 ## Conclusioni e prossimi passi
 
 **Decisione: Hold (sospendere)**
 
 **Motivazione:**
-La predizione si basa solo sul modello e su studi preclinici indiretti, senza sperimentazioni cliniche né studi che dimostrino l'efficacia della colchicina contro la malaria. Il ristretto indice terapeutico e l'esistenza di antimalarici efficaci rendono il rapporto beneficio-rischio sfavorevole in assenza di nuovi dati.
+La predizione si basa solo su un punteggio computazionale elevato; non esistono studi clinici né studi che testino direttamente la colchicina contro P. falciparum, e la ridotta sensibilità della tubulina del parassita unita alla tossicità umana ne limita la plausibilità.
 
-**Per procedere sarebbero necessari:**
-- Studi preclinici diretti sull'attività della colchicina contro *P. falciparum* (in vitro e in vivo), con determinazione delle concentrazioni efficaci rispetto a quelle tollerabili
-- Dati dettagliati sul meccanismo d'azione
-- Avvertenze e controindicazioni dal foglio illustrativo AIFA
-- Valutazione del profilo di interazioni (in particolare CYP3A4 e P-gp) e del dosaggio in caso di insufficienza renale o epatica
+**Per procedere sono necessari:**
+- Dati di efficacia in vitro della colchicina su colture di P. falciparum, con confronto tra concentrazioni attive e concentrazioni tollerabili nell'uomo
+- Dati sul meccanismo d'azione e sulla sensibilità della tubulina plasmodiale
+- Avvertenze e controindicazioni dal foglio illustrativo AIFA, per la valutazione della sicurezza
+- Valutazione del margine terapeutico e delle interazioni farmacologiche prima di qualsiasi studio clinico
 
 <!-- review:begin log -->
 
