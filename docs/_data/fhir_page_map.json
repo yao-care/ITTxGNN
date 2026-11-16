@@ -144,7 +144,9 @@
     "db00181": {
       "page": "baclofen",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN",
@@ -557,6 +559,7 @@
     "db00415": {
       "page": "ampicillin",
       "sources": [
+        "ARTxGNN",
         "COTxGNN",
         "CaTxGNN",
         "ESTxGNN",
@@ -660,6 +663,7 @@
     "db00443": {
       "page": "betamethasone",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -701,6 +705,7 @@
     "db00459": {
       "page": "acitretin",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CaTxGNN",
         "DkTxGNN",
@@ -712,6 +717,7 @@
     "db00479": {
       "page": "amikacin",
       "sources": [
+        "ARTxGNN",
         "CHTxGNN",
         "CaTxGNN",
         "DETxGNN",
@@ -847,6 +853,7 @@
     "db00594": {
       "page": "amiloride",
       "sources": [
+        "ARTxGNN",
         "BrTxGNN",
         "CaTxGNN",
         "FRTxGNN",
@@ -1133,6 +1140,7 @@
     "db00810": {
       "page": "biperiden",
       "sources": [
+        "ARTxGNN",
         "CHTxGNN",
         "ESTxGNN",
         "JpTxGNN",
@@ -1308,6 +1316,7 @@
       "page": "letrozole",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "SETxGNN",
@@ -1480,6 +1489,7 @@
     "db01060": {
       "page": "amoxicillin",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -1578,6 +1588,7 @@
     "db01156": {
       "page": "bupropion",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "BrTxGNN",
         "CHTxGNN",
@@ -1651,6 +1662,7 @@
       "page": "anastrozole",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "SETxGNN",
@@ -1678,6 +1690,7 @@
     "db01223": {
       "page": "aminophylline",
       "sources": [
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "MyTxGNN",
@@ -1726,6 +1739,7 @@
     "db01238": {
       "page": "aripiprazole",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -1815,6 +1829,7 @@
     "db01418": {
       "page": "acenocoumarol",
       "sources": [
+        "ARTxGNN",
         "CHTxGNN",
         "InTxGNN",
         "NlTxGNN",
@@ -1970,6 +1985,7 @@
       "page": "indacaterol",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "ZaTxGNN"
