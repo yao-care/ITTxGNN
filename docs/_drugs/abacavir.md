@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-16
 description: "Abacavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L5). Indicazione originale: Non riportata n…"
 ---
 
@@ -48,8 +48,8 @@ Abacavir è un inibitore nucleosidico della trascrittasi inversa (NRTI), utilizz
 | Nuova indicazione prevista | Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) |
 | Punteggio di predizione TxGNN | 0,9979 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Non in commercio (nessuna autorizzazione registrata) |
-| Numero di autorizzazioni | 0 (valide: 0) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
+| Numero di autorizzazioni | 9 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?
