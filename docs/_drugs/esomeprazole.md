@@ -48,7 +48,7 @@ L'esomeprazolo è un inibitore della pompa protonica (soppressore dell'acido gas
 | Nuova indicazione prevista | Ostruzione duodenale (duodenal obstruction) |
 | Punteggio di previsione TxGNN | 0,9945 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

@@ -50,8 +50,8 @@ Il gemfibrozil è un fibrato (agonista di PPAR-alfa) utilizzato originariamente 
 | Nuova indicazione prevista | Artrite reumatoide (rheumatoid arthritis) |
 | Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
-| Numero di autorizzazioni | 7 (valide: 7) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 7) |
+| Numero di autorizzazioni | 7 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -88,10 +88,16 @@ Attualmente non risultano studi clinici registrati correlati.
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 034080010 | GEMFIBROZIL 30 cpr 600 mg (DOC Generici) | Compresse | Non disponibile (valida) |
-| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (valida) |
+| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (non più autorizzata) |
 | 025445026 | LOPID 30 cpr rivestite 600 mg (Pfizer Italia) | Compresse rivestite | Non disponibile (valida) |
 | 034080022 | GEMFIBROZIL 20 cpr 900 mg (DOC Generici) | Compresse | Non disponibile (valida) |
 | 029512023 | GEMFIBROZIL 30 cpr 600 mg (EG) | Compresse | Non disponibile (valida) |
+
+<!-- review:begin it-row-20261117-gemfibrozil-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «026737039 / GENLIP TC 20 cpr 900 mg (Teofarma) / Compresse / Non disponibile (valida)» La confezione 026737039 (GENLIP TC) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-row-20261117-gemfibrozil-1 -->
 
 Sono qui elencate le prime 5.
 
@@ -161,6 +167,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | Tabella: la confezione 026737039 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

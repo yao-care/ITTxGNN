@@ -51,7 +51,7 @@ Il modello TxGNN ne prevede una possibile efficacia per l'**ipertricosi universa
 | Nuova indicazione prevista | Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) |
 | Punteggio di predizione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

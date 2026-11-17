@@ -48,7 +48,7 @@ L'acido folico (vitamina B9) è utilizzato per correggere le carenze vitaminiche
 | Nuova indicazione prevista | Malattia del metabolismo della biotina (biotin metabolic disease) |
 | Punteggio di previsione TxGNN | 0.9949 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

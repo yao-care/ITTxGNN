@@ -49,7 +49,7 @@ Il modello TxGNN ne prevede un possibile impiego nel **disturbo schizotipico di 
 | Nuova indicazione prevista | Disturbo schizotipico di personalità (schizotypal personality disorder) |
 | Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

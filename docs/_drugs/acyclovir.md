@@ -48,7 +48,7 @@ L'aciclovir è un antivirale analogo nucleosidico che inibisce la DNA polimerasi
 | Nuova indicazione prevista | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
 | Punteggio di previsione TxGNN | 0,9967 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 

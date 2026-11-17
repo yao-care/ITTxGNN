@@ -48,7 +48,7 @@ Candesartan cilexetil è un antagonista del recettore dell'angiotensina II (sart
 | Nuova indicazione prevista | Nefropatia ipertensiva maligna (malignant hypertensive renal disease) |
 | Punteggio di previsione TxGNN | 0,9968 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 14) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

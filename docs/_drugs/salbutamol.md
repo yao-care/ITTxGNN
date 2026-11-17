@@ -48,8 +48,8 @@ Il salbutamolo è un broncodilatatore agonista beta-2 adrenergico, usato per le 
 | Nuova indicazione prevista | Congiuntivite papillare (papillary conjunctivitis) |
 | Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 18 su 18) |
-| Numero di autorizzazioni | 18 (valide: 18) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 17 su 18) |
+| Numero di autorizzazioni | 18 (valide: 17) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -68,14 +68,20 @@ Al momento non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il salbutamolo risulta commercializzato in Italia, con 18 autorizzazioni valide. Le principali sono riportate di seguito; il testo dell'indicazione approvata non è registrato nei dati locali.
+Il salbutamolo risulta commercializzato in Italia, con 17 autorizzazioni valide su 18. Le principali sono riportate di seguito; il testo dell'indicazione approvata non è registrato nei dati locali.
+
+<!-- review:begin it-lic-20261117-salbutamol-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «Il salbutamolo risulta commercializzato in Italia, con 18 autorizzazioni valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-salbutamol-1 -->
 
 | N. autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|------|
 | 022984052 | VENTOLIN sospensione inalatoria 200 erogazioni 100 mcg | GlaxoSmithKline SpA | Valida |
 | 022991158 | BRONCOVALEAS sospensione inalatoria 200 erogazioni 100 mcg | Neopharmed Gentili SpA | Valida |
 | 022991057 | BRONCOVALEAS soluzione per nebulizzatore 15 ml 0,5% | Neopharmed Gentili SpA | Valida |
-| 039221015 | SALBUTAMOLO sospensione inalatoria 200 erogazioni 100 mcg | Sandoz SpA | Valida |
+| 039221015 | SALBUTAMOLO sospensione inalatoria 200 erogazioni 100 mcg | Sandoz SpA | Non più autorizzata |
 | 044646014 | BUTAPRAL soluzione per nebulizzatore 30 monodosi 2,5 ml (0,5 mg + 2,5 mg) | Genetic SpA | Valida |
 
 ## Considerazioni di sicurezza
@@ -97,6 +103,18 @@ Avvertenze e controindicazioni dalla scheda tecnica AIFA non sono disponibili: s
 - Una ricerca mirata di studi clinici e preclinici sull'uso congiuntivale dei beta-2 agonisti
 - Valutazione della fattibilità di una formulazione oftalmica (via di somministrazione)
 - Acquisizione e analisi della scheda tecnica AIFA per avvertenze e controindicazioni, con attenzione al rischio oculare (glaucoma, ipertensione oculare)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-17 | «18 autorizzazioni valide» → 17 valide su 18 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -50,7 +50,7 @@ Il clopidogrel è un farmaco antiaggregante piastrinico che agisce inibendo il r
 | Nuova indicazione prevista | Emicrania con aura del tronco encefalico (migraine with brainstem aura) |
 | Punteggio di predizione TxGNN | 0,9944 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

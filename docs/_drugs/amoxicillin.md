@@ -48,7 +48,7 @@ L'amoxicillina è un antibiotico beta-lattamico che inibisce la sintesi della pa
 | Nuova indicazione prevista | Iperamilasemia (hyperamylasemia) |
 | Punteggio di previsione TxGNN | 0,9963 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

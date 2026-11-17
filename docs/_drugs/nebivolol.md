@@ -49,7 +49,7 @@ Il modello TxGNN ne prevede una possibile efficacia nella **nefropatia ipertensi
 | Nuova indicazione prevista | Nefropatia ipertensiva maligna (malignant hypertensive renal disease) |
 | Punteggio di predizione TxGNN | 0.9942 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 

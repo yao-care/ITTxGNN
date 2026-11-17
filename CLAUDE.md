@@ -34,3 +34,18 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 其中 1 筆因報告在 11 月經 AI 重產、原句已不在頁面，標 resolved_by_regeneration）。
 
 2026-11-12 表格列狀態對事實層（母目錄 `check_drug_page.py --row-status`）：levonorgestrel 036489019、norfloxacin 034401024／034941043／025000023 在表格寫「revocata」，AIFA 行政狀態（證據包原文）是 Autorizzata；以 `it-row-20261112-*`（每頁一筆）刪掉狀態註記。
+
+## 新資料查不到的許可證（2026-11-17）
+
+11-16 每週排程列出 137 張「新資料查不到」的 AIC（9 碼包裝碼）並開 issue。2026-11-17 用戶要求確認實際狀態：
+AIFA 開放資料 confezioni.csv 是現行許可登錄（160,101 列，只有 Autorizzata／Sospesa；revoca、decadenza 後整筆移除），
+137 張全是證據包從 2025-09-30 Classe A 給付清單收進來的包裝，現在 confezioni 與 Banca Dati Farmaci 線上查詢（依品名查 14,199 個現行 AIC）都不列。
+其中 11 張的整個藥品見 AIFA sunset clause 失效公告（Determina 7/2025、456/2026、616/2026）；69 張還在 2026-06-30 Classe A 清單、43 張還在
+2026-11-16 transparency 清單——給付清單不是許可登錄（撤銷後可售完庫存），不拿來判定有效。沒有找到「在別份現行許可清單上」的號。
+- `scripts/license_adapter.py`：fetch() 把 confezioni 全部 AIC 記成 CURRENT（少於 100,000 不判定）；preprocess 對不在 CURRENT 的 9 碼 AIC 標
+  `license_status: cancelled`＋`aifa_not_listed`（第一次發現日）、status 改「Non più autorizzata」（原值存 `aifa_status_before`），又出現就還原；
+  `confirmed_absent()` 讓排程把這些列成「主管機關現行清單確認已不列」，不算「查不到」、不開 issue。
+- 64 頁狀態列／張數列、20 格許可證表狀態格照事實層同步；表格寫「valida」的 4 頁（atomoxetine、gemfibrozil、misoprostol、quinapril）以
+  `it-row-20261117-*`、正文張數或狀態跟事實相反的 8 頁以 `it-lic-20261117-*` 更正（tobramycin 的 Nebicina 100／150 mg、meloxicam 的 MOBIC fiale／
+  MELOXICAM Zentiva 原本就被寫成註銷，confezioni 為 Autorizzata，一併改正）。全部註銷的 2 頁依成分對 confezioni 確認：atomoxetine（STRATTERA 5 張，
+  atomoxetina 現行 0 個包裝）、lenograstim（MYELOSTIM，現行 0 個；efbemalenograstim alfa 的 RYZNEUTA 是另一個藥）。

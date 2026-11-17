@@ -48,8 +48,8 @@ Il calcitriolo è la forma attiva della vitamina D (1,25-diidrossivitamina D3) e
 | Nuova indicazione prevista | obsolete vitamin D deficiency (obsolete vitamin D deficiency) |
 | Punteggio di previsione TxGNN | 0,9996 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 13 su 13) |
-| Numero di autorizzazioni | 13 (valide: 13) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 13) |
+| Numero di autorizzazioni | 13 (valide: 11) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è plausibile?

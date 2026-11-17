@@ -48,7 +48,7 @@ Levofloxacin è un antibiotico fluorochinolonico impiegato nelle infezioni batte
 | Nuova indicazione predetta | Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) |
 | Punteggio di predizione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

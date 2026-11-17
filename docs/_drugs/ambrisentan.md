@@ -48,8 +48,8 @@ Ambrisentan è un antagonista del recettore dell'endotelina, impiegato nel tratt
 | Nuova indicazione prevista | Malformazione arterovenosa polmonare (pulmonary arteriovenous malformation (disease)) |
 | Punteggio di predizione TxGNN | 0,9941 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
-| Numero di autorizzazioni | 11 (valide: 11) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 11) |
+| Numero di autorizzazioni | 11 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è plausibile?

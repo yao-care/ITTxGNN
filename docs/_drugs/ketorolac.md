@@ -38,7 +38,13 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 ## Riepilogo in una frase
 
-Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN (deep learning) prevede che possa essere efficace per la **Cefalea**, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.
+Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN (deep learning) prevede che possa essere efficace per la **Cefalea**, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia il farmaco è commercializzato, con 11 autorizzazioni valide su 13.
+
+<!-- review:begin it-lic-20261117-ketorolac-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-ketorolac-1 -->
 
 ---
 
@@ -50,8 +56,8 @@ Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni orig
 | Nuova indicazione prevista | Disturbo da cefalea (headache disorder) |
 | Punteggio di predizione TxGNN | 0.9943 |
 | Livello di evidenza | L1 (al limite con L2, vedi note) |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 13 su 13) |
-| Numero di autorizzazioni | 13 (valide: 13) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 13) |
+| Numero di autorizzazioni | 13 (valide: 11) |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 
 ---
@@ -120,7 +126,7 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibil
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 038205023 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Eugia Pharma (Malta) Limited | Valida |
-| 037745015 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Towa Pharmaceutical SpA | Valida |
+| 037745015 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Towa Pharmaceutical SpA | Non più autorizzata |
 | 037850017 | Ketorolac, 3 fiale IM/EV 30 mg/ml | DOC Generici Srl | Valida |
 | 027253020 | Toradol, 3 fiale IM/EV 30 mg | Recordati SpA | Valida |
 | 027257056 | Lixidol, 3 fiale IM/EV 30 mg | Atnahs Pharma Netherlands BV | Valida |
@@ -178,6 +184,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le 13 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | «13 autorizzazioni valide su 13» → 11 su 13 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

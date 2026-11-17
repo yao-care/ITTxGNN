@@ -48,7 +48,7 @@ Amlodipina è un calcio-antagonista diidropiridinico, usato principalmente per i
 | Nuova indicazione prevista | Infarto del tronco encefalico (brain stem infarction) |
 | Punteggio di previsione TxGNN | 0,9994 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 16) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

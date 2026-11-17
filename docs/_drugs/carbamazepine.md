@@ -48,8 +48,8 @@ La carbamazepina è un farmaco antiepilettico e stabilizzatore dell'umore, noto 
 | Nuova indicazione prevista | Tumore del nervo trigemino (trigeminal nerve neoplasm) |
 | Punteggio di previsione TxGNN | 1,0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
-| Numero di autorizzazioni | 9 (valide: 9) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 9) |
+| Numero di autorizzazioni | 9 (valide: 7) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?

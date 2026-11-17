@@ -50,8 +50,8 @@ Entecavir è un analogo nucleosidico guanosinico che inibisce la polimerasi del 
 | Nuova indicazione prevista | Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) |
 | Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
-| Numero di autorizzazioni | 20 (valide: 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 18 su 20) |
+| Numero di autorizzazioni | 20 (valide: 18) |
 | Decisione raccomandata | Hold (in attesa) |
 
 ---
@@ -94,7 +94,13 @@ Il punteggio elevato del modello va letto come un segnale di associazione comput
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali, tutte le 20 autorizzazioni risultano valide. Il testo dell'indicazione approvata non è registrato nei dati locali. Di seguito le principali autorizzazioni:
+Secondo i dati AIFA, delle 20 autorizzazioni 18 risultano valide. Il testo dell'indicazione approvata non è registrato nei dati locali. Di seguito le principali autorizzazioni:
+
+<!-- review:begin it-lic-20261117-entecavir-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «Secondo i dati locali, tutte le 20 autorizzazioni risultano valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-entecavir-1 -->
 
 | Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
@@ -126,6 +132,18 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 - Dati sul meccanismo d'azione dettagliato.
 - Analisi delle avvertenze e delle controindicazioni dal foglio illustrativo AIFA, per completare la valutazione di sicurezza.
 - Se l'interesse riguarda la co-infezione HBV/HCV, una definizione separata e formale dell'obiettivo (prevenzione della riattivazione dell'HBV) con studi di conferma più ampi, dato che i due studi clinici disponibili sono piccoli (n=23 e n=60).
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-17 | «tutte le 20 autorizzazioni risultano valide» → 18 valide su 20 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

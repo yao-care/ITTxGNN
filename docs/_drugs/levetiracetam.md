@@ -52,7 +52,7 @@ Il levetiracetam è un farmaco antiepilettico, originariamente impiegato per l'e
 | Nuova indicazione prevista | Beta-ketothiolase deficiency |
 | Punteggio di predizione TxGNN | 0.9990 |
 | Livello di evidenza | L5 (≥2 RCT di fase 3 completati) |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (per lo stato epilettico) |
 

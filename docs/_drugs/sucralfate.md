@@ -50,8 +50,8 @@ una direzione supportata da **11 pubblicazioni** (tra cui 2 studi randomizzati c
 | Nuova indicazione prevista | Reflusso duodeno-gastrico (duodenogastric reflux) |
 | Punteggio di predizione TxGNN | 0.9937 |
 | Livello di evidenza | L2 (valutazione indicata nei dati compilati; si basa su piccoli RCT pubblicati, non su studi di fase 2/3 registrati) |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
-| Numero di autorizzazioni | 7 (valide: 7) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 7) |
+| Numero di autorizzazioni | 7 (valide: 6) |
 | Decisione raccomandata | Hold (con indicazione di approfondire come quesito di ricerca) |
 
 ## Perché questa predizione è plausibile?

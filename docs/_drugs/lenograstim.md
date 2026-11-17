@@ -54,8 +54,8 @@ Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** co
 | Nuova indicazione prevista | Disturbo primario del rilascio piastrinico |
 | Punteggio di previsione TxGNN | 0,9991 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 1 su 1) |
-| Numero di autorizzazioni | 1 (valide: 1) |
+| Stato di mercato in Italia | Non in commercio (autorizzazioni revocate: 1 su 1) |
+| Numero di autorizzazioni | 1 (valide: 0) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?

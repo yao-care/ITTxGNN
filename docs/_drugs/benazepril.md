@@ -48,8 +48,8 @@ Benazepril è un inibitore dell'ACE utilizzato nel trattamento dell'ipertensione
 | Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
 | Punteggio di predizione TxGNN | 0,9965 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
-| Numero di autorizzazioni | 6 (valide: 6) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 6) |
+| Numero di autorizzazioni | 6 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione è ragionevole?

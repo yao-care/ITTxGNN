@@ -52,7 +52,7 @@ ma al momento **non risultano studi clinici registrati** e le evidenze si limita
 | Nuova indicazione prevista | Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L5 (solo dati preclinici) |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

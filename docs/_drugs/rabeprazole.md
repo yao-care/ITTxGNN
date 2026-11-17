@@ -47,7 +47,7 @@ Il modello TxGNN ha prodotto candidati per Rabeprazole con un punteggio ≥ 0,99
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
 | Usi noti tra i candidati del modello | 2 |
 | Livello di evidenza | Non applicabile |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 
 ## Usi noti tra i candidati del modello
@@ -75,10 +75,10 @@ Il modello TxGNN ha prodotto candidati per Rabeprazole con un punteggio ≥ 0,99
 
 | Autorizzazione | Prodotto | Forma farmaceutica | Stato |
 |------|------|------|------|
-| 041541018 | Rabeprazolo |  | Valida |
+| 041541018 | Rabeprazolo |  | Non più autorizzata |
 | 041599186 | Rabeprazolo |  | Valida |
 | 034216022 | Rabeprazolo |  | Valida |
-| 041541020 | Rabeprazolo |  | Valida |
+| 041541020 | Rabeprazolo |  | Non più autorizzata |
 | 041591052 | Rabeprazolo |  | Valida |
 | 039995067 | Rabeprazolo |  | Valida |
 | 041110141 | Rabeprazolo |  | Valida |

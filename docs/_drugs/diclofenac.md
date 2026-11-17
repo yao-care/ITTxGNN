@@ -48,7 +48,7 @@ Il diclofenac è un farmaco antinfiammatorio non steroideo (FANS) che inibisce l
 | Nuova indicazione prevista | Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) |
 | Punteggio di predizione TxGNN | 0,9969 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

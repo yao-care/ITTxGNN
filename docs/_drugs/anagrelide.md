@@ -48,8 +48,8 @@ L'anagrelide è un farmaco che riduce la conta piastrinica, utilizzato nelle tro
 | Nuova indicazione prevista | Trombocitosi reattiva (reactive thrombocytosis) |
 | Punteggio di previsione TxGNN | 0,9983 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 6) |
-| Numero di autorizzazioni | 6 (valide: 6) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 6) |
+| Numero di autorizzazioni | 6 (valide: 5) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione può essere ragionevole?

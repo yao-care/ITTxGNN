@@ -48,8 +48,8 @@ La cabergolina è un agonista dopaminergico che agisce soprattutto sui recettori
 | Nuova indicazione prevista | Sindrome progeria-bassa statura-nevi pigmentati (progeria-short stature-pigmented nevi syndrome) |
 | Punteggio di previsione TxGNN | 0,9906 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
-| Numero di autorizzazioni | 7 (valide: 7) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 7) |
+| Numero di autorizzazioni | 7 (valide: 6) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione potrebbe essere ragionevole?

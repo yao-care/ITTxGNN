@@ -51,8 +51,8 @@ Il modello TxGNN la indica come possibile candidata per la **cheratite da esposi
 | Nuova indicazione prevista | Cheratite da esposizione (exposure keratitis) |
 | Punteggio di predizione TxGNN | 0.9993 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 9) |
-| Numero di autorizzazioni | 9 (valide: 9) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 9) |
+| Numero di autorizzazioni | 9 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -94,13 +94,19 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibil
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 041632011 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Teva Italia | Valida |
+| 041632011 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Teva Italia | Non più autorizzata |
 | 023189044 | Nebicina 1 fiala IM/EV 20 mg/2 ml | Teofarma | Valida |
 | 023189032 | Nebicina 1 fiala IM/EV 40 mg/1 ml | Teofarma | Valida |
 | 036646038 | Bramitob soluz. nebul. 56 contenitori monodose 300 mg/4 ml | Chiesi Farmaceutici | Valida |
 | 044611010 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Sun Pharmaceutical Industries Europe | Valida |
 
-Le altre quattro autorizzazioni (Nebicina 100 mg e 150 mg; Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini) sono ugualmente cancellate.
+Delle altre quattro autorizzazioni, Nebicina 100 mg e 150 mg (Teofarma) risultano valide, mentre Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini non sono più autorizzate.
+
+<!-- review:begin it-lic-20261117-tobramycin-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «Le altre quattro autorizzazioni (Nebicina 100 mg e 150 mg; Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini) sono ugualmente cancellate.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-tobramycin-1 -->
 
 ---
 
@@ -149,6 +155,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

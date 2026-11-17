@@ -49,8 +49,8 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ulcera duodenale** (p
 | Nuova indicazione prevista | Ulcera duodenale |
 | Punteggio di predizione TxGNN | 0,9972 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
-| Numero di autorizzazioni | 4 (valide: 4) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 2 su 4) |
+| Numero di autorizzazioni | 4 (valide: 2) |
 | Decisione raccomandata | Hold |
 
 Nota: l'indicazione originale non è ricavabile dai testi delle indicazioni autorizzate AIFA, che non sono disponibili nei dati compilati.
@@ -83,10 +83,10 @@ Attualmente non risulta alcuna letteratura correlata.
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034154017 | OPTRUMA 14 compresse rivestite 60 mg | Eli Lilly Nederland BV | Valida |
+| 034154017 | OPTRUMA 14 compresse rivestite 60 mg | Eli Lilly Nederland BV | Non più autorizzata |
 | 040742025 | RALOXIFENE 28 compresse rivestite 60 mg | Sandoz SpA | Valida |
 | 034153027 | EVISTA 28 compresse rivestite 60 mg | Substipharm | Valida |
-| 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Valida |
+| 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Non più autorizzata |
 
 Tutte e quattro le autorizzazioni sono monocomponente.
 

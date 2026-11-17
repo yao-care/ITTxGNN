@@ -47,7 +47,7 @@ Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma 
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
 | Usi noti tra i candidati del modello | 1 |
 | Livello di evidenza | Non applicabile |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 
 ## Usi noti tra i candidati del modello
@@ -77,7 +77,7 @@ Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma 
 | 025275049 | Diltiazem |  | Valida |
 | 026675049 | Diltiazem |  | Valida |
 | 025275025 | Diltiazem |  | Valida |
-| 025277070 | Diltiazem |  | Valida |
+| 025277070 | Diltiazem |  | Non più autorizzata |
 | 032808091 | Diltiazem |  | Valida |
 | 025277068 | Diltiazem |  | Valida |
 | 026675025 | Diltiazem |  | Valida |

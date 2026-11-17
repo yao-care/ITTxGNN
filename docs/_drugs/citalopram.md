@@ -48,7 +48,7 @@ Citalopram è un antidepressivo della classe degli inibitori selettivi della ric
 | Nuova indicazione prevista | Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) |
 | Punteggio di predizione TxGNN | 0,9974 |
 | Livello di evidenza | L3 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 17) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails (procedere con cautele) |
 

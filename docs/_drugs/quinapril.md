@@ -50,8 +50,8 @@ Quinapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), or
 | Nuova indicazione prevista | Malattia renale ipertensiva maligna (malignant hypertensive renal disease) |
 | Punteggio di previsione TxGNN | 0.9986 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
-| Numero di autorizzazioni | 4 (valide: 4) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 4) |
+| Numero di autorizzazioni | 4 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -91,8 +91,14 @@ Per l'indicazione principale (malattia renale ipertensiva maligna) non è dispon
 |---------|------|------|-----------|
 | 027225010 | QUINAZIL 28 cpr rivestite div 5 mg (Malesci) | Non indicata | Non disponibile (autorizzazione valida) |
 | 027225034 | QUINAZIL 14 cpr rivestite div 20 mg (Malesci) | Non indicata | Non disponibile (autorizzazione valida) |
-| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione valida) |
+| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (non più autorizzata) |
 | 037203229 | QUINAPRIL 14 cpr rivestite 20 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
+
+<!-- review:begin it-row-20261117-quinapril-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «037301227 / QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) / Non indicata / Non disponibile (autorizzazione valida)» La confezione 037301227 (QUINAPRIL Zentiva) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-row-20261117-quinapril-1 -->
 
 ---
 
@@ -142,6 +148,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | Tabella: la confezione 037301227 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

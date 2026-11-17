@@ -49,7 +49,7 @@ Doxazosina è un farmaco della classe degli antagonisti selettivi dei recettori 
 | Nuova indicazione prevista | Emicrania (migraine disorder) |
 | Punteggio di previsione TxGNN | 0.9920 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
@@ -75,7 +75,13 @@ Si tratta di un'osservazione aneddotica, non controllata e su un campione molto 
 
 ## Informazioni sul mercato italiano
 
-I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), tutte valide e relative a medicinali monocomponente. Il testo dell'indicazione approvata non è registrato nei dati locali.
+I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), relative a medicinali monocomponente; 2 delle 20 confezioni raccolte non risultano più autorizzate. Il testo dell'indicazione approvata non è registrato nei dati locali.
+
+<!-- review:begin it-lic-20261117-doxazosina-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), tutte valide e relative a medicinali monocomponente.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-doxazosina-1 -->
 
 | Numero di autorizzazione | Prodotto | Titolare | Indicazione approvata |
 |---------|------|------|-----------|
@@ -111,6 +117,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e nessuna autorizzazione commerciale italiana è stata trovata con il nome ricercato» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Nessun record di autorizzazione commerciale è stato restituito con il termine di ricerca **"DOXAZOSINA"**» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | «almeno 20 autorizzazioni…, tutte valide» → 2 delle 20 raccolte non più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

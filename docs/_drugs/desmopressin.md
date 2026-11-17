@@ -48,8 +48,8 @@ La desmopressina è un analogo sintetico della vasopressina che stimola il rilas
 | Nuova indicazione prevista | Deficit congenito di protrombina (congenital prothrombin deficiency) |
 | Punteggio di previsione TxGNN | 0,9970 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
-| Numero di autorizzazioni | 16 (valide: 16) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 16) |
+| Numero di autorizzazioni | 16 (valide: 14) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione è plausibile (o no)?

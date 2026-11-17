@@ -48,7 +48,7 @@ La quetiapina è un antipsicotico atipico. Il modello TxGNN la indica come possi
 | Nuova indicazione prevista | Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) |
 | Punteggio di previsione TxGNN | 0.9957 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 
@@ -74,7 +74,7 @@ Secondo i dati locali, il farmaco risulta commercializzato in Italia, con 20 aut
 |---------|------|------|-----------|
 | 032944151 | SEROQUEL 60 cpr 400 mg rilascio prolungato | Cheplapharm Arzneimittel GmbH | Valida |
 | 041195823 | QUENTIAX 60 cpr 400 mg rilascio prolungato | KRKA d.d. Novo Mesto | Valida |
-| 042175024 | QUETAMED 30 cpr rivestite 25 mg | Fairmed Healthcare GmbH | Valida |
+| 042175024 | QUETAMED 30 cpr rivestite 25 mg | Fairmed Healthcare GmbH | Non più autorizzata |
 | 046412110 | XETAMED 30 cpr rivestite 25 mg | Neuraxpharm Italy SpA | Valida |
 | 040510683 | QUETIAPINA 60 cpr rivestite 200 mg | Teva Italia Srl | Valida |
 

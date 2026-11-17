@@ -48,7 +48,7 @@ Doxazosin è un antagonista selettivo dei recettori alfa-1 adrenergici. Il model
 | Nuova indicazione prevista | Disturbo emicranico (migraine disorder) |
 | Punteggio di predizione TxGNN | 0,9920 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

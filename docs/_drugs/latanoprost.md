@@ -50,7 +50,7 @@ Latanoprost è un analogo della prostaglandina F2-alfa, originariamente utilizza
 | Nuova indicazione prevista | Visceral calciphylaxis |
 | Punteggio di predizione TxGNN | 0.9983 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

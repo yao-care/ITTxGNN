@@ -48,7 +48,7 @@ La duloxetina è un inibitore della ricaptazione di serotonina e noradrenalina (
 | Nuova indicazione prevista | Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) |
 | Punteggio di previsione TxGNN | 0,9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 

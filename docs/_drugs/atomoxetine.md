@@ -48,8 +48,8 @@ L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, 
 | Nuova indicazione prevista | Disturbo specifico dello sviluppo (specific developmental disorder) |
 | Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
-| Numero di autorizzazioni | 5 (valide: 5) |
+| Stato di mercato in Italia | Non in commercio (autorizzazioni revocate: 5 su 5) |
+| Numero di autorizzazioni | 5 (valide: 0) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione potrebbe essere ragionevole?
@@ -78,11 +78,17 @@ Le pubblicazioni raccolte riguardano l'ADHD e condizioni correlate, non il distu
 
 | Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
-| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
-| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
-| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
-| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
-| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |
+| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+
+<!-- review:begin it-row-20261117-atomoxetine-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «037063118 / STRATTERA 28 cps 18 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063157 / STRATTERA 28 cps 25 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063195 / STRATTERA 28 cps 40 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063233 / STRATTERA 28 cps 60 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063310 / STRATTERA 28 cps 100 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida)» Le 5 confezioni STRATTERA (037063118, 037063157, 037063195, 037063233, 037063310) non risultano più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella le indicava come valide. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-row-20261117-atomoxetine-1 -->
 
 Titolare: Eli Lilly Italia SpA.
 
@@ -104,6 +110,18 @@ Nessuno studio clinico o pubblicazione esamina l'atomoxetina nel disturbo specif
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Un piano di monitoraggio della sicurezza per le popolazioni pediatriche
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-17 | Tabella: le 5 confezioni STRATTERA non sono più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

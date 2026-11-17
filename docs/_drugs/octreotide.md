@@ -49,8 +49,8 @@ Il modello TxGNN ne prevede una possibile efficacia per la **cheratosi follicola
 | Nuova indicazione predetta | Vulvar inverted follicular keratosis |
 | Punteggio di predizione TxGNN | 0.9958 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 20 su 20) |
-| Numero di autorizzazioni | 20 (valide: 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 17 su 20) |
+| Numero di autorizzazioni | 20 (valide: 17) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe essere ragionevole?
@@ -85,7 +85,7 @@ Si elencano le prime 5 a titolo informativo:
 | 040014033 | Octreotide, 10 fiale SC/EV 1 ml 0,5 mg/ml | Bioindustria L.I.M. SpA | Valida |
 | 041156011 | Octreotide, 5 fiale EV/SC 0,05 mg 1 ml | Sun Pharmaceutical Ind. Eu. B.V. | Valida |
 | 027083094 | Sandostatina LAR, 1 flacone IM 20 mg + siringa 2 ml + ago | Novartis Farma SpA | Valida |
-| 039101011 | Siroctid, 5 siringhe 1 ml 50 mcg/ml | Chemi SpA | Valida |
+| 039101011 | Siroctid, 5 siringhe 1 ml 50 mcg/ml | Chemi SpA | Non più autorizzata |
 
 ## Considerazioni di sicurezza
 

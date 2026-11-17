@@ -48,8 +48,8 @@ Il clortalidone è un diuretico di tipo tiazidico. Il modello TxGNN predice che 
 | Nuova indicazione prevista | Glaucoma ereditario primario (primary hereditary glaucoma) |
 | Punteggio di predizione TxGNN | 0,9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 19 su 19) |
-| Numero di autorizzazioni | 19 (valide: 19) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 17 su 19) |
+| Numero di autorizzazioni | 19 (valide: 17) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa predizione è plausibile?

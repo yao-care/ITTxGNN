@@ -49,8 +49,8 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **displasia acro
 | Nuova indicazione prevista | Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) |
 | Punteggio di previsione TxGNN | 0.9992 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 7 su 7) |
-| Numero di autorizzazioni | 7 (valide: 7) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 7) |
+| Numero di autorizzazioni | 7 (valide: 5) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa previsione è ragionevole?
@@ -82,12 +82,18 @@ Le forme farmaceutiche e il testo delle indicazioni approvate non sono presenti 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
 | 037077221 | MELOXICAM 30 cpr 15 mg | EG SpA | Valida |
-| 037069224 | MELOXICAM 30 cpr div 15 mg | Mylan SpA | Valida |
-| 037069073 | MELOXICAM 30 cpr 7,5 mg | Mylan SpA | Valida |
+| 037069224 | MELOXICAM 30 cpr div 15 mg | Mylan SpA | Non più autorizzata |
+| 037069073 | MELOXICAM 30 cpr 7,5 mg | Mylan SpA | Non più autorizzata |
 | 031985157 | MOBIC 7,5 30 cpr 7,5 mg | Boehringer Ingelheim Int. GmbH | Valida |
 | 031985068 | MOBIC 15 30 cpr 15 mg | Boehringer Ingelheim Int. GmbH | Valida |
 
-Complessivamente le autorizzazioni sono 7; le altre due sono MOBIC fiale IM 15 mg/1,5 ml (Boehringer Ingelheim, n. 035464015) e MELOXICAM 30 cpr 15 mg (Zentiva Italia, n. 037322260), entrambe cancellate.
+Complessivamente le autorizzazioni sono 7; le altre due sono MOBIC fiale IM 15 mg/1,5 ml (Boehringer Ingelheim, n. 035464015) e MELOXICAM 30 cpr 15 mg (Zentiva Italia, n. 037322260), entrambe valide.
+
+<!-- review:begin it-lic-20261117-meloxicam-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «(Zentiva Italia, n. 037322260), entrambe cancellate.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-meloxicam-1 -->
 
 ## Considerazioni di sicurezza
 
@@ -144,6 +150,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è ril» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di mel» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

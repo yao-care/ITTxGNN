@@ -52,7 +52,7 @@ con **13 studi clinici** e **20 pubblicazioni** raccolti nei dati compilati per 
 | Nuova indicazione prevista | Infezione da HIV (HIV infectious disease) |
 | Punteggio di predizione TxGNN | 0,9931 |
 | Livello di evidenza | L2 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 17) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Proceed with Guardrails |
 

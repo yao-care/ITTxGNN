@@ -49,7 +49,7 @@ Il modello TxGNN ne prevede un possibile impiego nell'**eczema atopico (atopic e
 | Nuova indicazione prevista | Eczema atopico (atopic eczema) |
 | Punteggio di previsione TxGNN | 0,9996 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 19) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 

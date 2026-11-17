@@ -50,8 +50,8 @@ La fluvastatina è una statina, inibitore dell'HMG-CoA reduttasi, usata per ridu
 | Nuova indicazione prevista | Infezione da HIV |
 | Punteggio di predizione TxGNN | 0,9988 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 8 su 8) |
-| Numero di autorizzazioni | 8 (valide: 8) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 6 su 8) |
+| Numero di autorizzazioni | 8 (valide: 6) |
 | Decisione raccomandata | Hold |
 
 Nota sul livello di evidenza: la letteratura riguarda pazienti con HIV (dislipidemia, interazioni con gli antiretrovirali, co-infezione HCV), ma nessuno studio indicato valuta la fluvastatina come trattamento dell'infezione da HIV in sé. Per questo il livello è L5.
@@ -99,7 +99,13 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 | 038580027 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (DOC Generici) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
 | 038602037 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (Aurobindo Pharma Italia) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
 
-Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.
+Sono presenti 8 autorizzazioni, tutte per il singolo principio attivo, di cui 6 valide; qui ne sono elencate 5.
+
+<!-- review:begin it-lic-20261117-fluvastatin-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-fluvastatin-1 -->
 
 ---
 
@@ -124,6 +130,19 @@ Nessuno studio indicato valuta direttamente la fluvastatina come trattamento del
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA (bloccante per lo screening di sicurezza)
 - Studi clinici controllati che valutino endpoint specifici dell'HIV (infiammazione, attivazione immunitaria, eventi cardiovascolari)
 - Definizione chiara dell'obiettivo: gestione della dislipidemia nei pazienti HIV (già coperta dall'indicazione lipidica) oppure modifica della malattia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-17 | «8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

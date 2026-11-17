@@ -51,7 +51,7 @@ Il modello TxGNN prevede una possibile efficacia per **l'ipouricemia renale**, m
 | Nuova indicazione prevista | Ipouricemia renale (hypouricemia, renal) |
 | Punteggio di predizione TxGNN | 0.9999 |
 | Livello di evidenza | L4 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 16) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

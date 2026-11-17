@@ -51,8 +51,8 @@ Il modello TxGNN lo prevede come potenzialmente efficace per l'**amenorrea**, co
 | Nuova indicazione prevista | Amenorrea |
 | Punteggio di predizione TxGNN | 0,9964 |
 | Livello di evidenza | L5 (solo predizione del modello; nessuno studio clinico che valuti il farmaco per questa indicazione) |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 4) |
-| Numero di autorizzazioni | 4 (valide: 4) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 3 su 4) |
+| Numero di autorizzazioni | 4 (valide: 3) |
 | Decisione raccomandata | Hold |
 
 Nota: la valutazione preliminare indica L4, ma le pubblicazioni recuperate non contengono studi preclinici o meccanicistici sull'amenorrea come bersaglio terapeutico. In applicazione rigorosa delle regole di livello, il caso è quindi L5.
@@ -94,9 +94,15 @@ Al momento non risultano studi clinici correlati registrati.
 | N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
 |---------|------|------|-----------|
 | 026488015 | CYTOTEC*50 cpr 200 mcg (Pfizer Srl) | Non disponibile | Non disponibile (valida) |
-| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
+| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (non più autorizzata) |
 | 029757010 | ARTROTEC*30 cpr 50 mg + 200 mcg (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
 | 029757059 | ARTROTEC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |
+
+<!-- review:begin it-row-20261117-misoprostol-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «029316041 / MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) / Non disponibile / Non disponibile (valida)» La confezione 029316041 (MISOFENAC) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-row-20261117-misoprostol-1 -->
 
 ---
 
@@ -118,7 +124,13 @@ Per le avvertenze e controindicazioni ufficiali occorre consultare il foglietto 
 **Decisione: Hold**
 
 **Motivazione:**
-La predizione si basa unicamente sul punteggio del modello TxGN (deep learning). Non esistono studi clinici né letteratura che indichino il misoprostolo come trattamento dell'amenorrea; gli studi trovati lo usano per l'interruzione di gravidanza. Inoltre, il farmaco è in commercio in Italia con 4 autorizzazioni valide su 4, ma mancano i dati di sicurezza ufficiali.
+La predizione si basa unicamente sul punteggio del modello TxGN (deep learning). Non esistono studi clinici né letteratura che indichino il misoprostolo come trattamento dell'amenorrea; gli studi trovati lo usano per l'interruzione di gravidanza. Inoltre, il farmaco è in commercio in Italia con 3 autorizzazioni valide su 4, ma mancano i dati di sicurezza ufficiali.
+
+<!-- review:begin it-lic-20261117-misoprostol-1 -->
+
+> **Correzione di verifica (2026-11-17)**: Testo originale: «il farmaco è in commercio in Italia con 4 autorizzazioni valide su 4» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+
+<!-- review:end it-lic-20261117-misoprostol-1 -->
 
 **Per procedere sono necessari:**
 - Scaricare e analizzare il foglietto illustrativo AIFA (avvertenze e controindicazioni), lacuna bloccante per lo screening di sicurezza.
@@ -144,6 +156,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «ia, dato che il prodotto è revocato in Ital» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | Tabella: la confezione 029316041 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-17 | «4 autorizzazioni valide su 4» → 3 su 4 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

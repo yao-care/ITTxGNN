@@ -48,7 +48,7 @@ Il pregabalin è un farmaco usato per ansia, fibromialgia, sindrome miofasciale 
 | Nuova indicazione prevista | Tendinitis |
 | Punteggio di previsione TxGNN | 0.9971 |
 | Livello di evidenza | L5 secondo la valutazione del dossier, da considerare con cautela: lo studio di fase 3 sull'emicrania è stato ritirato e le evidenze randomizzate sono pediatriche e di piccole dimensioni; in senso stretto, le regole indicherebbero un livello inferiore |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 

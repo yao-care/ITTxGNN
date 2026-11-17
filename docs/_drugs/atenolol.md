@@ -48,7 +48,7 @@ L'atenololo è un beta-bloccante selettivo per i recettori beta-1, commercializz
 | Nuova indicazione prevista | Nefropatia ipertensiva maligna (malignant hypertensive renal disease) |
 | Punteggio di predizione TxGNN | 0,9985 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere) |
 

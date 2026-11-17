@@ -47,7 +47,7 @@ Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
 | Usi noti tra i candidati del modello | 1 |
 | Livello di evidenza | Non applicabile |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 
 ## Usi noti tra i candidati del modello
@@ -76,7 +76,7 @@ Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99
 |------|------|------|------|
 | 046202038 | Sumatriptan |  | Valida |
 | 039384122 | Sumatriptan |  | Valida |
-| 037772288 | Sumatriptan |  | Valida |
+| 037772288 | Sumatriptan |  | Non più autorizzata |
 | 039384033 | Sumatriptan |  | Valida |
 | 050913021 | Sumatriptan |  | Valida |
 | 037484096 | Sumatriptan |  | Valida |
@@ -92,7 +92,7 @@ Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99
 | 027975061 | Sumatriptan |  | Valida |
 | 037998123 | Sumatriptan |  | Valida |
 | 037484033 | Sumatriptan |  | Valida |
-| 037772047 | Sumatriptan |  | Valida |
+| 037772047 | Sumatriptan |  | Non più autorizzata |
 | 038111035 | Sumatriptan |  | Valida |
 
 I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.

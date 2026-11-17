@@ -47,8 +47,8 @@ Il modello TxGNN ha prodotto candidati per Teriflunomide, ma tutti quelli ricond
 | Nuove indicazioni predette | Nessuna (tutti i candidati del modello riconducibili a una fonte sono usi noti) |
 | Usi noti tra i candidati del modello | 1 |
 | Livello di evidenza | Non applicabile |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 13 su 13) |
-| Numero di autorizzazioni | 13 (valide: 13) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 13) |
+| Numero di autorizzazioni | 13 (valide: 12) |
 
 ## Usi noti tra i candidati del modello
 
@@ -84,7 +84,7 @@ Il modello TxGNN ha prodotto candidati per Teriflunomide, ma tutti quelli ricond
 | 050654033 | Teriflunomide |  | Valida |
 | 050739022 | Teriflunomide |  | Valida |
 | 042921066 | Teriflunomide |  | Valida |
-| 050758034 | Teriflunomide |  | Valida |
+| 050758034 | Teriflunomide |  | Non più autorizzata |
 | 050449014 | Teriflunomide |  | Valida |
 | 050441029 | Teriflunomide |  | Valida |
 

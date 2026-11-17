@@ -49,8 +49,8 @@ Il modello TxGNN la associa come principale predizione alla **sindrome da ipervi
 | Nuova indicazione prevista | Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) |
 | Punteggio di predizione TxGNN | 0,9976 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 14 su 14) |
-| Numero di autorizzazioni | 14 (valide: 14) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 12 su 14) |
+| Numero di autorizzazioni | 14 (valide: 12) |
 | Decisione raccomandata | Hold |
 
 ## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole?

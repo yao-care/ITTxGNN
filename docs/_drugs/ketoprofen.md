@@ -49,7 +49,7 @@ Il modello TxGNN prevede una possibile efficacia per la **displasia acromesomeli
 | Nuova indicazione prevista | Acromesomelic dysplasia, Hunter-Thompson type |
 | Punteggio di previsione TxGNN | 0.9998 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 16) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold |
 
@@ -80,7 +80,7 @@ Testo dell'indicazione e forma farmaceutica non sono riportati nei dati compilat
 |---------|------|------|-----------|
 | 023183205 | ORUDIS 6 fiale IM 100 mg 2 ml | SANOFI Srl | Valida |
 | 034925040 | DOLGOSIN 28 cps 200 mg rilascio prolungato | DYMALIFE PHARMACEUTICAL Srl | Valida |
-| 023401110 | FLEXEN 30 cps 200 mg rilascio prolungato | ITALFARMACO SpA | Valida |
+| 023401110 | FLEXEN 30 cps 200 mg rilascio prolungato | ITALFARMACO SpA | Non più autorizzata |
 | 023183027 | ORUDIS 30 cps 50 mg | SANOFI Srl | Valida |
 | 034513022 | STEOFEN 30 cps 200 mg rilascio prolungato | LANOVA FARMACEUTICI Srl | Valida |
 

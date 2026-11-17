@@ -10297,6 +10297,366 @@
    "checked": "2026-11-16",
    "summary": "«Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide",
    "method": "2026-11-16 人工查核（AIFA 全量依成分）"
+  },
+  {
+   "id": "it-row-20261117-atomoxetine-1",
+   "drug": "atomoxetine",
+   "file": "atomoxetine.md",
+   "action": "correct",
+   "claim": "| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |\n| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |\n| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |\n| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |\n| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (autorizzazione valida) |",
+   "replacement": "| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |\n| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |\n| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |\n| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |\n| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |",
+   "summary": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
+   "note": "Le 5 confezioni STRATTERA (037063118, 037063157, 037063195, 037063233, 037063310) non risultano più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella le indicava come valide. È stata modificata solo l'indicazione dello stato.",
+   "finding": "5 張 STRATTERA 包裝在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 查詢都不列；confezioni 依成分查 atomoxetina 0 個現行包裝（本藥在義大利已無現行許可）。只改狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-row-20261117-gemfibrozil-1",
+   "drug": "gemfibrozil",
+   "file": "gemfibrozil.md",
+   "action": "correct",
+   "claim": "| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (valida) |",
+   "replacement": "| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (non più autorizzata) |",
+   "summary": "Tabella: la confezione 026737039 non è più autorizzata",
+   "note": "La confezione 026737039 (GENLIP TC) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato.",
+   "finding": "026737039 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列。只改狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-row-20261117-misoprostol-1",
+   "drug": "misoprostol",
+   "file": "misoprostol.md",
+   "action": "correct",
+   "claim": "| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (valida) |",
+   "replacement": "| 029316041 | MISOFENAC*30 cpr 75 mg + 200 mcg rilascio modificato (Pfizer Italia Srl) | Non disponibile | Non disponibile (non più autorizzata) |",
+   "summary": "Tabella: la confezione 029316041 non è più autorizzata",
+   "note": "La confezione 029316041 (MISOFENAC) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato.",
+   "finding": "029316041 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列。只改狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-row-20261117-quinapril-1",
+   "drug": "quinapril",
+   "file": "quinapril.md",
+   "action": "correct",
+   "claim": "| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (autorizzazione valida) |",
+   "replacement": "| 037301227 | QUINAPRIL 14 cpr rivestite 20 mg (Zentiva Italia) | Non indicata | Non disponibile (non più autorizzata) |",
+   "summary": "Tabella: la confezione 037301227 non è più autorizzata",
+   "note": "La confezione 037301227 (QUINAPRIL Zentiva) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato.",
+   "finding": "037301227 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列。只改狀態註記",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-entecavir-1",
+   "drug": "entecavir",
+   "file": "entecavir.md",
+   "action": "correct",
+   "claim": "Secondo i dati locali, tutte le 20 autorizzazioni risultano valide.",
+   "replacement": "Secondo i dati AIFA, delle 20 autorizzazioni 18 risultano valide.",
+   "summary": "«tutte le 20 autorizzazioni risultano valide» → 18 valide su 20",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "045443013、045443049 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-fluvastatin-1",
+   "drug": "fluvastatin",
+   "file": "fluvastatin.md",
+   "action": "correct",
+   "claim": "Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.",
+   "replacement": "Sono presenti 8 autorizzazioni, tutte per il singolo principio attivo, di cui 6 valide; qui ne sono elencate 5.",
+   "summary": "«8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "038581029、038831032 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-ketorolac-1",
+   "drug": "ketorolac",
+   "file": "ketorolac.md",
+   "action": "correct",
+   "claim": "In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.",
+   "replacement": "In Italia il farmaco è commercializzato, con 11 autorizzazioni valide su 13.",
+   "summary": "«13 autorizzazioni valide su 13» → 11 su 13",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "037745015、037849015 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-misoprostol-1",
+   "drug": "misoprostol",
+   "file": "misoprostol.md",
+   "action": "correct",
+   "claim": "il farmaco è in commercio in Italia con 4 autorizzazioni valide su 4",
+   "replacement": "il farmaco è in commercio in Italia con 3 autorizzazioni valide su 4",
+   "summary": "«4 autorizzazioni valide su 4» → 3 su 4",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "029316041 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-salbutamol-1",
+   "drug": "salbutamol",
+   "file": "salbutamol.md",
+   "action": "correct",
+   "claim": "Il salbutamolo risulta commercializzato in Italia, con 18 autorizzazioni valide.",
+   "replacement": "Il salbutamolo risulta commercializzato in Italia, con 17 autorizzazioni valide su 18.",
+   "summary": "«18 autorizzazioni valide» → 17 valide su 18",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "039221015 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-doxazosina-1",
+   "drug": "doxazosina",
+   "file": "doxazosina.md",
+   "action": "correct",
+   "claim": "I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), tutte valide e relative a medicinali monocomponente.",
+   "replacement": "I dati locali elencano almeno 20 autorizzazioni (elenco probabilmente parziale), relative a medicinali monocomponente; 2 delle 20 confezioni raccolte non risultano più autorizzate.",
+   "summary": "«almeno 20 autorizzazioni…, tutte valide» → 2 delle 20 raccolte non più autorizzate",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "040734016、039462015 在 2025-09-30 Classe A 清單有、2026-11-17 confezioni.csv 與 BDF 都不列；正文張數照事實層改",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-tobramycin-1",
+   "drug": "tobramycin",
+   "file": "tobramycin.md",
+   "action": "correct",
+   "claim": "Le altre quattro autorizzazioni (Nebicina 100 mg e 150 mg; Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini) sono ugualmente cancellate.",
+   "replacement": "Delle altre quattro autorizzazioni, Nebicina 100 mg e 150 mg (Teofarma) risultano valide, mentre Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini non sono più autorizzate.",
+   "summary": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "Nebicina 023189018／023189057 在 confezioni 為 Autorizzata（原句寫成註銷，是 11-17 前就有的錯）；Lorenzini 033973013／033973025 confezioni、BDF 都不列（AIFA sunset clause Determina 7 del 16.10.2025 的失效名單有 AIC 033973）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
+  },
+  {
+   "id": "it-lic-20261117-meloxicam-1",
+   "drug": "meloxicam",
+   "file": "meloxicam.md",
+   "action": "correct",
+   "claim": "(Zentiva Italia, n. 037322260), entrambe cancellate.",
+   "replacement": "(Zentiva Italia, n. 037322260), entrambe valide.",
+   "summary": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
+   "note": "Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida.",
+   "finding": "035464015、037322260 在 2026-11-17 confezioni 都是 Autorizzata（11-17 前就有的錯；註銷的 2 張是 Mylan 037069073／037069224，已在表格）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)",
+     "url": "https://medicinali.aifa.gov.it/",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "AIFA – Liste dei farmaci di Classe A (30/09/2025)",
+     "url": "https://www.aifa.gov.it/liste-farmaci-a-h",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 新資料查不到的許可證：confezioni.csv（AIFA 現行許可登錄）與 Banca Dati Farmaci 都不列的 AIC 標為已不在現行清單"
   }
  ]
 }

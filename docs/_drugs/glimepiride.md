@@ -52,8 +52,8 @@ ma per questa direzione **non risulta alcuno studio clinico né alcuna pubblicaz
 | Nuova indicazione prevista | Sindrome della persona rigida classica (classic stiff person syndrome) |
 | Punteggio di predizione TxGNN | 0,9975 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 16 su 16) |
-| Numero di autorizzazioni | 16 (valide: 16) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 15 su 16) |
+| Numero di autorizzazioni | 16 (valide: 15) |
 | Decisione raccomandata | Hold |
 
 ---

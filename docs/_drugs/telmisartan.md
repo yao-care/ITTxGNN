@@ -52,7 +52,7 @@ Telmisartan è un bloccante del recettore dell'angiotensina II (sartano), origin
 | Nuova indicazione predetta (rank 1) | Prinzmetal angina |
 | Punteggio di predizione TxGNN | 0.9998 |
 | Livello di evidenza | L5 per Prinzmetal angina; L3 per occlusione dell'arteria cerebrale; L2 per emorragia intracerebrale |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 18) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (per la Prinzmetal angina); Research Question per le indicazioni cerebrovascolari |
 
@@ -135,8 +135,8 @@ Il testo dell'indicazione approvata non è disponibile nei dati compilati. Princ
 
 | Numero autorizzazione | Nome prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Valida |
-| 034326126 | PRITOR 28 cpr 20 mg | Bayer AG | Valida |
+| 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Non più autorizzata |
+| 034326126 | PRITOR 28 cpr 20 mg | Bayer AG | Non più autorizzata |
 | 042284099 | TOLURA 28 cpr 40 mg | Krka d.d. Novo Mesto | Valida |
 | 040773210 | Telmisartan 28 cpr 80 mg | Zentiva Italia Srl | Valida |
 | 040121030 | Telmisartan 28 cpr 80 mg | Mylan SpA | Valida |

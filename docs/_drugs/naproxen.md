@@ -51,8 +51,8 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **sindrome brach
 | Nuova indicazione prevista | Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) |
 | Punteggio di predizione TxGNN | 0.9935 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 11 su 11) |
-| Numero di autorizzazioni | 11 (valide: 11) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 9 su 11) |
+| Numero di autorizzazioni | 11 (valide: 9) |
 | Decisione raccomandata | Hold |
 
 ---
@@ -85,7 +85,7 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
-| 023177189 | NAPROSYN 20 cpr 750 mg rilascio modificato | Recordati SpA | Valida |
+| 023177189 | NAPROSYN 20 cpr 750 mg rilascio modificato | Recordati SpA | Non più autorizzata |
 | 023886082 | LASER 20 cpr 750 mg rilascio modificato | Euro-Pharma Srl | Valida |
 | 050505027 | NAPROSSENE 30 cpr rivestite 550 mg | Aurobindo Pharma Italia Srl | Valida |
 | 024667139 | NAPRIUS 30 cpr 500 mg | Aesculapius Farmaceutici Srl | Valida |

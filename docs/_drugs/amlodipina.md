@@ -49,7 +49,7 @@ L'amlodipina è un calcio-antagonista che agisce sui canali del calcio di tipo L
 | Nuova indicazione prevista | Infarto del tronco encefalico (brain stem infarction) |
 | Punteggio di previsione TxGNN | 0.9994 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 20) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: almeno 16) |
 | Numero di autorizzazioni | almeno 20 |
 | Decisione raccomandata | Hold (sospendere, in attesa di evidenze) |
 

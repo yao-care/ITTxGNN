@@ -48,8 +48,8 @@ La doxofillina è un derivato metilxantinico con azione broncodilatatrice e anti
 | Nuova indicazione prevista | Sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly) |
 | Punteggio di previsione TxGNN | 0,9954 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | In commercio (autorizzazioni valide: 5 su 5) |
-| Numero di autorizzazioni | 5 (valide: 5) |
+| Stato di mercato in Italia | In commercio (autorizzazioni valide: 4 su 5) |
+| Numero di autorizzazioni | 5 (valide: 4) |
 | Decisione raccomandata | Hold (sospendere) |
 
 ## Perché questa previsione è (poco) ragionevole?
