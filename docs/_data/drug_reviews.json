@@ -4016,61 +4016,133 @@
    "id": "it-lic-20261106-lenograstim-1",
    "drug": "lenograstim",
    "file": "lenograstim.md",
-   "action": "correct",
+   "action": "annotate",
    "claim": "Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per questo report non riportano un'indicazione approvata, perché il testo dell'indicazione è vuoto nell'unica autorizzazione AIFA, ormai cancellata.\nIl modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.",
-   "replacement": "Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.",
-   "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Una correzione precedente (2026-11-06) aveva rimosso questa frase perché in quel momento l'elenco AIFA delle confezioni autorizzate riportava l'autorizzazione come valida. Al 2026-11-17 la confezione non figura più nell'elenco AIFA delle confezioni autorizzate (né in altri elenchi AIFA consultati): la frase è quindi corretta ed è stata ripristinata.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
      "title": "AIFA – Elenco confezioni (open data)",
      "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-06",
-   "summary": "Rimosso: «Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per »",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "checked": "2026-11-17",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "anchor": "Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per questo report non riportano un'indicazione approvata, perché il testo dell'indicazione è vuoto nell'unica autorizzazione AIFA, ormai cancellata.",
+   "history": [
+    {
+     "id": "it-lic-20261106-lenograstim-1",
+     "drug": "lenograstim",
+     "file": "lenograstim.md",
+     "action": "correct",
+     "claim": "Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per questo report non riportano un'indicazione approvata, perché il testo dell'indicazione è vuoto nell'unica autorizzazione AIFA, ormai cancellata.\nIl modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.",
+     "replacement": "Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** con un punteggio molto alto, ma **non esistono studi clinici né pubblicazioni** a supporto di questa previsione.",
+     "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «Lenograstim è un fattore di crescita ricombinante umano dei granulociti (G-CSF) che agisce sulla linea granulocitaria; i dati compilati per »",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "retired": "2026-11-17",
+     "reason": "AIFA 11-17 清單已不列這張許可，被刪的句子其實正確：改為 annotate 還原原句"
+    }
+   ],
+   "summary": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)"
   },
   {
    "id": "it-lic-20261106-lenograstim-2",
    "drug": "lenograstim",
    "file": "lenograstim.md",
-   "action": "correct",
+   "action": "annotate",
    "claim": "Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.",
-   "replacement": "Titolare: ITALFARMACO SpA.",
-   "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Una correzione precedente (2026-11-06) aveva rimosso questa frase perché in quel momento l'elenco AIFA delle confezioni autorizzate riportava l'autorizzazione come valida. Al 2026-11-17 la confezione non figura più nell'elenco AIFA delle confezioni autorizzate (né in altri elenchi AIFA consultati): la frase è quindi corretta ed è stata ripristinata.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
      "title": "AIFA – Elenco confezioni (open data)",
      "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-06",
-   "summary": "Rimosso: «Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "checked": "2026-11-17",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "anchor": "Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.",
+   "history": [
+    {
+     "id": "it-lic-20261106-lenograstim-2",
+     "drug": "lenograstim",
+     "file": "lenograstim.md",
+     "action": "correct",
+     "claim": "Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.",
+     "replacement": "Titolare: ITALFARMACO SpA.",
+     "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "retired": "2026-11-17",
+     "reason": "AIFA 11-17 清單已不列這張許可，被刪的句子其實正確：改為 annotate 還原原句"
+    }
+   ],
+   "summary": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)"
   },
   {
    "id": "it-lic-20261106-lenograstim-3",
    "drug": "lenograstim",
    "file": "lenograstim.md",
-   "action": "correct",
+   "action": "annotate",
    "claim": "L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza.",
-   "replacement": "Mancano i dati di sicurezza.",
-   "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Una correzione precedente (2026-11-06) aveva rimosso questa frase perché in quel momento l'elenco AIFA delle confezioni autorizzate riportava l'autorizzazione come valida. Al 2026-11-17 la confezione non figura più nell'elenco AIFA delle confezioni autorizzate (né in altri elenchi AIFA consultati): la frase è quindi corretta ed è stata ripristinata.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
      "title": "AIFA – Elenco confezioni (open data)",
      "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
-     "accessed": "2026-11-06"
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-06",
-   "summary": "Rimosso: «L'unica autorizzazione italiana è cancellata e m»",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）"
+   "checked": "2026-11-17",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+   "anchor": "L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza.",
+   "history": [
+    {
+     "id": "it-lic-20261106-lenograstim-3",
+     "drug": "lenograstim",
+     "file": "lenograstim.md",
+     "action": "correct",
+     "claim": "L'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza.",
+     "replacement": "Mancano i dati di sicurezza.",
+     "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «L'unica autorizzazione italiana è cancellata e m»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "retired": "2026-11-17",
+     "reason": "AIFA 11-17 清單已不列這張許可，被刪的句子其實正確：改為 annotate 還原原句"
+    }
+   ],
+   "summary": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)"
   },
   {
    "id": "it-lic-20261106-letermovir-1",

@@ -48,7 +48,7 @@ L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, 
 | Nuova indicazione prevista | Disturbo specifico dello sviluppo (specific developmental disorder) |
 | Punteggio di previsione TxGNN | 1.0000 |
 | Livello di evidenza | L5 |
-| Stato di mercato in Italia | Non in commercio (autorizzazioni revocate: 5 su 5) |
+| Stato di mercato in Italia | Non in commercio (autorizzazioni non più valide: 5 su 5) |
 | Numero di autorizzazioni | 5 (valide: 0) |
 | Decisione raccomandata | Hold |
 
