@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
-description: "Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Tipiracil

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-10-28
-description: "Acarbose: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Acarbose: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
 # Acarbose

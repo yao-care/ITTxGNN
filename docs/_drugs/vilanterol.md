@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-04
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
-description: "Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
 ---
 
 # Vilanterol

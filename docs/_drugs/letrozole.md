@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-04
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-description: "Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Letrozole

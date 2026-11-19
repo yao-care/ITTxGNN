@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
-description: "Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Ethambutol

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
-description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Montelukast

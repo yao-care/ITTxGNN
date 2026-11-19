@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "sulbactam"
 predicted_indications: ["bacterial arthritis"]
-description: "Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Sulbactam

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
-description: "Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Roxithromycin

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
-description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Tretinoin

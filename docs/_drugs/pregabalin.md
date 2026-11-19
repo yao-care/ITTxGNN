@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-17
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Pregabalin

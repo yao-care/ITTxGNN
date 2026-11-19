@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 last_modified_at: 2026-11-03
-description: "Betamethasone: nuova indicazione prevista, Mucinosi follicolare (alopecia mucinosa) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
+description: "Betamethasone: nuova indicazione prevista, Mucinosi follicolare (alopecia mucinosa) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Betamethasone

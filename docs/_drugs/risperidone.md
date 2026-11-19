@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-description: "Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Risperidone

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
-description: "Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
 # Tetrabenazine

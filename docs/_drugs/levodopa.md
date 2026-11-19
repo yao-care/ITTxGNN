@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Levodopa

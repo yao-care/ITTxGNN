@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
-description: "Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Nicardipine

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "Griseofulvin"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
-description: "Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Griseofulvin

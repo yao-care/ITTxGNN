@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-03
 monitor_inn: "tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
-description: "Tegafur: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Tegafur: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Tegafur

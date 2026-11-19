@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "clavulanic acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
 last_modified_at: 2026-10-28
-description: "Clavulanic Acid: nuova indicazione prevista, Uretrite da Ureaplasma (Ureaplasma urethritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Clavulanic Acid: nuova indicazione prevista, Uretrite da Ureaplasma (Ureaplasma urethritis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Clavulanic Acid

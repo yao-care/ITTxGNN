@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "folic acid"
 predicted_indications: ["biotin metabolic disease"]
-description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Folic Acid

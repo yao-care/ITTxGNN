@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-description: "Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (post-infectious neuralgia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (post-infectious neuralgia) (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
 # Famciclovir

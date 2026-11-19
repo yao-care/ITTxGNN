@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-03
-description: "Danazol: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Danazol: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Danazol

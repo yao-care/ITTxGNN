@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Tacrolimus

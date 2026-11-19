@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-17
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
-description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
+description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 6)"
 ---
 
 # Gemfibrozil

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-17
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
-description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 18)"
 ---
 
 # Entecavir

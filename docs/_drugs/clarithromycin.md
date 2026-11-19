@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
 last_modified_at: 2026-11-17
-description: "Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Clarithromycin

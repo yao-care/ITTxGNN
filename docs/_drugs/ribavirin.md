@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "IgG4-related mediastinitis"]
-description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+description: "Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Ribavirin

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
-description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
 # Rufinamide

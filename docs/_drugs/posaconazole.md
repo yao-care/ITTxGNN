@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
-description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
 ---
 
 # Posaconazole

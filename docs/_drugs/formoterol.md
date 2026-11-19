@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Formoterol

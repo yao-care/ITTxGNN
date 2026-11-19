@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-03
-description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Ciprofloxacin

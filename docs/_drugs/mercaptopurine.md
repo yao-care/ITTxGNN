@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-description: "Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Mercaptopurine

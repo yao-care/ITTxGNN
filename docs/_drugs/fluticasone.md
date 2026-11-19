@@ -9,7 +9,7 @@ last_modified_at: 2026-11-12
 monitor_inn: "FLUTICASONE"
 drugbank_id: DB13867
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
-description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 20)"
 ---
 
 # Fluticasone

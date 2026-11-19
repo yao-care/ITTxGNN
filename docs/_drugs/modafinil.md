@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Modafinil

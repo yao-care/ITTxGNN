@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-17
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 0)"
 ---
 
 # Atomoxetine

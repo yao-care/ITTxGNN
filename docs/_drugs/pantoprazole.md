@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
-description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Pantoprazole

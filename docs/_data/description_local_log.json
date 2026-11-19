@@ -1,0 +1,3187 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。",
+  "pages": {
+    "acarbose": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "acebutolol": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "acenocoumarol": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "acetazolamide": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "adrenalina": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "albendazole": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "albutrepenonacog_alfa": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "allopurinol": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "almotriptan": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "alprostadil": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "amikacin": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "amiloride": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "amlodipina": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "amoxicillin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ampicillin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "anagrelide": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "anastrozole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "atenolol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "atomoxetine": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 0)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "atorvastatin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "azathioprine": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "azithromycin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bacampicillin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "balsalazide": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bempedoic_acid": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "benazepril": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "betamethasone": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bexarotene": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bicalutamide": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "biperiden": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bisoprolol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "bosentan": {
+      "tail": "In Italia, confezioni AIFA: 14 (autorizzate: 14)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "brivaracetam": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "budesonide": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "buprenorphine": {
+      "tail": "In Italia, confezioni AIFA: 18 (autorizzate: 18)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "calcifediol": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "calcitriol": {
+      "tail": "In Italia, confezioni AIFA: 13 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "candesartan_cilexetil": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "captopril": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "carbamazepine": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "carvedilol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cefpodoxime": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cefprozil": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ceftazidime": {
+      "tail": "In Italia, confezioni AIFA: 17 (autorizzate: 17)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ceftriaxone": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cefuroxime": {
+      "tail": "In Italia, confezioni AIFA: 14 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cetirizine": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "chlorambucil": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "chlorthalidone": {
+      "tail": "In Italia, confezioni AIFA: 19 (autorizzate: 17)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ciclesonide": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ciprofloxacin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "citalopram": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clarithromycin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clavulanic_acid": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clomifene": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clonazepam": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clonidine": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "clopidogrel": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "codeine": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "colchicina": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "corifollitropin_alfa": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cortisone": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "cyanocobalamin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "danazol": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "deferasirox": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "deferiprone": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "desloratadina": {
+      "tail": "In Italia, confezioni AIFA: 16 (autorizzate: 16)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "desmopressin": {
+      "tail": "In Italia, confezioni AIFA: 16 (autorizzate: 14)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "dexibuprofen": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "diclofenac": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "dienogest": {
+      "tail": "In Italia, confezioni AIFA: 14 (autorizzate: 14)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "donepezil": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "dorzolamide": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ebastina": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "efmoroctocog_alfa": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "elbasvir": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "eletriptan": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "emicizumab": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "empagliflozin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "entecavir": {
+      "tail": "In Italia, confezioni AIFA: 20 (autorizzate: 18)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "eplerenone": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "esomeprazole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "etelcalcetide": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ethambutol": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "etoposide": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "exemestane": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "famciclovir": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "famotidine": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "febuxostat": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "felbamate": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "felodipine": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fenofibrate": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fexofenadine": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "flecainide": {
+      "tail": "In Italia, confezioni AIFA: 18 (autorizzate: 18)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "flunisolide": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fluocinolone_acetonide": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fluorouracil": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "flutamide": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fluticasone": {
+      "tail": "In Italia, confezioni AIFA: 20 (autorizzate: 20)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fluvoxamine": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "folic_acid": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "formoterol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fosfomycin": {
+      "tail": "In Italia, confezioni AIFA: 14 (autorizzate: 14)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fosinopril": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "fremanezumab": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "frovatriptan": {
+      "tail": "In Italia, confezioni AIFA: 8 (autorizzate: 8)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "galantamine": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "gemfibrozil": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "gimeracil": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "gliquidone": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "glucagon": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "granisetron": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "grazoprevir": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "griseofulvin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "icosapent_ethyl": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "idebenone": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "iloprost": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "imatinib": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "imiquimod": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "indacaterol": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "indomethacin": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "insulin_aspart": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "insulin_degludec": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "insulin_detemir": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "insulin_glargine": {
+      "tail": "In Italia, confezioni AIFA: 8 (autorizzate: 8)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "insulin_glulisine": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "irbesartan": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "isoniazid": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "isotretinoin": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "itraconazole": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ketoprofen": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "labetalol": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lacosamide": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lamotrigine": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lanreotide": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lansoprazole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "latanoprost": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "leflunomide": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "letrozole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "levetiracetam": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "levocetirizine": {
+      "tail": "In Italia, confezioni AIFA: 16 (autorizzate: 16)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "levodopa": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "levonorgestrel": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lincomycin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "liothyronine": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lisinopril": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lomitapide": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "losartan": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lumacaftor": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "lurasidone": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "mebendazole": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "melphalan": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "mercaptopurine": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "mesalazine": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "metformin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "methotrexate": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "methylphenidate": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "methylprednisolone": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "metoclopramide": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "metolazone": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "metoprolol": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "metronidazole": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "miconazole": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "midazolam": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "miglustat": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "mirtazapine": {
+      "tail": "In Italia, confezioni AIFA: 17 (autorizzate: 17)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "mizolastine": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "modafinil": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "montelukast": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "moroctocog_alfa": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "morphine": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "moxonidine": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "naproxen": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "nebivolol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "nicardipine": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "norfloxacin": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "nortriptyline": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "nystatin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "omalizumab": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "omeprazole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "orphenadrine": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "oteracil": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "oxcarbazepine": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "oxybutynin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "paliperidone": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "palivizumab": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pantoprazole": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "parnaparin": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "paromomycin": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "paroxetine": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "perampanel": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "perindopril": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "phenobarbital": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "phenytoin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pibrentasvir": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pimozide": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pioglitazone": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "piroxicam": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pitolisant": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "posaconazole": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "prasugrel": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pravastatin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "prednisone": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pregabalin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "primidone": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "progesterone": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "propranolol": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "pyridostigmine": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "quinapril": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rasagiline": {
+      "tail": "In Italia, confezioni AIFA: 20 (autorizzate: 20)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "regorafenib": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ribavirin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rifabutin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rifampicin": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rimegepant": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "risperidone": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rivastigmine": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rizatriptan": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rosuvastatin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "roxadustat": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "roxithromycin": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "rufinamide": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ruxolitinib": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sacubitril": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "salbutamol": {
+      "tail": "In Italia, confezioni AIFA: 18 (autorizzate: 17)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "salmeterol": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sapropterin": {
+      "tail": "In Italia, confezioni AIFA: 8 (autorizzate: 8)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "scopolamine": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "selegiline": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "simvastatin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sirolimus": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sofosbuvir": {
+      "tail": "In Italia, confezioni AIFA: 5 (autorizzate: 5)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sotalol": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 7)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "spironolactone": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sucralfate": {
+      "tail": "In Italia, confezioni AIFA: 7 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sulbactam": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sulfamethoxazole": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "sulfasalazine": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tacrolimus": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tamoxifen": {
+      "tail": "In Italia, confezioni AIFA: 11 (autorizzate: 11)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tegafur": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "telmisartan": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "terazosin": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "teriparatide": {
+      "tail": "In Italia, confezioni AIFA: 10 (autorizzate: 10)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tetrabenazine": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tiaprofenic_acid": {
+      "tail": "In Italia, confezioni AIFA: 2 (autorizzate: 2)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ticagrelor": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tipiracil": {
+      "tail": "In Italia, confezioni AIFA: 4 (autorizzate: 4)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tobramycin": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tolvaptan": {
+      "tail": "In Italia, confezioni AIFA: 8 (autorizzate: 8)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "topotecan": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "trandolapril": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "travoprost": {
+      "tail": "In Italia, confezioni AIFA: 15 (autorizzate: 15)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "tretinoin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "triamcinolone": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "triamterene": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "valproic_acid": {
+      "tail": "In Italia, confezioni AIFA: almeno 20",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "verapamil": {
+      "tail": "In Italia, confezioni AIFA: 12 (autorizzate: 12)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "vilanterol": {
+      "tail": "In Italia, confezioni AIFA: 8 (autorizzate: 8)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "vinorelbine": {
+      "tail": "In Italia, confezioni AIFA: 6 (autorizzate: 6)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "vortioxetine": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "voxilaprevir": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "warfarin": {
+      "tail": "In Italia, confezioni AIFA: 1 (autorizzate: 1)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "ziprasidone": {
+      "tail": "In Italia, confezioni AIFA: 3 (autorizzate: 3)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    },
+    "zolmitriptan": {
+      "tail": "In Italia, confezioni AIFA: 9 (autorizzate: 9)",
+      "original": "Indicazione originale: Non riportata nei dati locali",
+      "date": "2026-11-19"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/acarbose.md",
+      "date": "2026-11-19",
+      "from": "\"Acarbose: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Acarbose: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acebutolol.md",
+      "date": "2026-11-19",
+      "from": "\"Acebutolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Acebutolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acenocoumarol.md",
+      "date": "2026-11-19",
+      "from": "\"Acenocoumarol: nuova indicazione prevista, Deficit del cofattore II dell'eparina (heparin cofactor 2 deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Acenocoumarol: nuova indicazione prevista, Deficit del cofattore II dell'eparina (heparin cofactor 2 deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/acetazolamide.md",
+      "date": "2026-11-19",
+      "from": "\"Acetazolamide: nuova indicazione prevista, Ipertermia maligna da sforzo (exercise-induced malignant hyperthermia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Acetazolamide: nuova indicazione prevista, Ipertermia maligna da sforzo (exercise-induced malignant hyperthermia) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/adrenalina.md",
+      "date": "2026-11-19",
+      "from": "\"Adrenalina: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Adrenalina: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/albendazole.md",
+      "date": "2026-11-19",
+      "from": "\"Albendazole: nuova indicazione prevista, Cenurosi (coenurosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Albendazole: nuova indicazione prevista, Cenurosi (coenurosis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/albutrepenonacog_alfa.md",
+      "date": "2026-11-19",
+      "from": "\"Albutrepenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Albutrepenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/allopurinol.md",
+      "date": "2026-11-19",
+      "from": "\"Allopurinol: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Allopurinol: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/almotriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Almotriptan: nuova indicazione prevista, Atrofoderma vermicolare (atrophoderma vermiculata) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Almotriptan: nuova indicazione prevista, Atrofoderma vermicolare (atrophoderma vermiculata) (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alprostadil.md",
+      "date": "2026-11-19",
+      "from": "\"Alprostadil: nuova indicazione prevista, Malformazione aortica (aortic malformation) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Alprostadil: nuova indicazione prevista, Malformazione aortica (aortic malformation) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amikacin.md",
+      "date": "2026-11-19",
+      "from": "\"Amikacin: nuova indicazione prevista, Febbre paratifoide (paratyphoid fever) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Amikacin: nuova indicazione prevista, Febbre paratifoide (paratyphoid fever) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amiloride.md",
+      "date": "2026-11-19",
+      "from": "\"Amiloride: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Amiloride: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amlodipina.md",
+      "date": "2026-11-19",
+      "from": "\"Amlodipina: nuova indicazione prevista, Infarto del tronco encefalico (brain stem infarction) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Amlodipina: nuova indicazione prevista, Infarto del tronco encefalico (brain stem infarction) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amoxicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Amoxicillin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Amoxicillin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ampicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Ampicillin: nuova indicazione prevista, Laringite (laryngitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ampicillin: nuova indicazione prevista, Laringite (laryngitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/anagrelide.md",
+      "date": "2026-11-19",
+      "from": "\"Anagrelide: nuova indicazione prevista, Trombocitosi reattiva (reactive thrombocytosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Anagrelide: nuova indicazione prevista, Trombocitosi reattiva (reactive thrombocytosis) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/anastrozole.md",
+      "date": "2026-11-19",
+      "from": "\"Anastrozole: nuova indicazione prevista, Neuroblastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Anastrozole: nuova indicazione prevista, Neuroblastoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atenolol.md",
+      "date": "2026-11-19",
+      "from": "\"Atenolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Atenolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atomoxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 0)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atorvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Atorvastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Atorvastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/azathioprine.md",
+      "date": "2026-11-19",
+      "from": "\"Azathioprine: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Azathioprine: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/azithromycin.md",
+      "date": "2026-11-19",
+      "from": "\"Azithromycin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Azithromycin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bacampicillin.md",
+      "date": "2026-11-19",
+      "from": "\"Bacampicillin: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bacampicillin: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/balsalazide.md",
+      "date": "2026-11-19",
+      "from": "\"Balsalazide: nuova indicazione prevista, Gotta (gout) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Balsalazide: nuova indicazione prevista, Gotta (gout) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bempedoic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Bempedoic Acid: nuova indicazione prevista, Ipertiroidismo (hyperthyroidism) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bempedoic Acid: nuova indicazione prevista, Ipertiroidismo (hyperthyroidism) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/benazepril.md",
+      "date": "2026-11-19",
+      "from": "\"Benazepril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Benazepril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/betamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Betamethasone: nuova indicazione prevista, Mucinosi follicolare (alopecia mucinosa) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Betamethasone: nuova indicazione prevista, Mucinosi follicolare (alopecia mucinosa) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bexarotene.md",
+      "date": "2026-11-19",
+      "from": "\"Bexarotene: nuova indicazione prevista, Linfoma cutaneo primario a cellule B (primary cutaneous B-cell lymphoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bexarotene: nuova indicazione prevista, Linfoma cutaneo primario a cellule B (primary cutaneous B-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bicalutamide.md",
+      "date": "2026-11-19",
+      "from": "\"Bicalutamide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bicalutamide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/biperiden.md",
+      "date": "2026-11-19",
+      "from": "\"Biperiden: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Biperiden: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bisoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bosentan.md",
+      "date": "2026-11-19",
+      "from": "\"Bosentan: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Bosentan: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/brivaracetam.md",
+      "date": "2026-11-19",
+      "from": "\"Brivaracetam: nuova indicazione prevista, Deficit di beta-chetotiolasi (beta-ketothiolase deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Brivaracetam: nuova indicazione prevista, Deficit di beta-chetotiolasi (beta-ketothiolase deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/budesonide.md",
+      "date": "2026-11-19",
+      "from": "\"Budesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Budesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/buprenorphine.md",
+      "date": "2026-11-19",
+      "from": "\"Buprenorphine: nuova indicazione prevista, porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Buprenorphine: nuova indicazione prevista, porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 18 (autorizzate: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/calcifediol.md",
+      "date": "2026-11-19",
+      "from": "\"Calcifediol: nuova indicazione prevista, Acidosi tubulare renale (renal tubular acidosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Calcifediol: nuova indicazione prevista, Acidosi tubulare renale (renal tubular acidosis) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/calcitriol.md",
+      "date": "2026-11-19",
+      "from": "\"Calcitriol: nuova indicazione prevista, obsolete vitamin D deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Calcitriol: nuova indicazione prevista, obsolete vitamin D deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 13 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/candesartan_cilexetil.md",
+      "date": "2026-11-19",
+      "from": "\"Candesartan Cilexetil: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Candesartan Cilexetil: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/captopril.md",
+      "date": "2026-11-19",
+      "from": "\"Captopril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Captopril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carbamazepine.md",
+      "date": "2026-11-19",
+      "from": "\"Carbamazepine: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Carbamazepine: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carvedilol.md",
+      "date": "2026-11-19",
+      "from": "\"Carvedilol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Carvedilol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cefpodoxime.md",
+      "date": "2026-11-19",
+      "from": "\"Cefpodoxime: nuova indicazione prevista, osteoartrosi (osteoarthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cefpodoxime: nuova indicazione prevista, osteoartrosi (osteoarthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cefprozil.md",
+      "date": "2026-11-19",
+      "from": "\"Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ceftazidime.md",
+      "date": "2026-11-19",
+      "from": "\"Ceftazidime: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ceftazidime: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: 17 (autorizzate: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ceftriaxone.md",
+      "date": "2026-11-19",
+      "from": "\"Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cefuroxime.md",
+      "date": "2026-11-19",
+      "from": "\"Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cetirizine.md",
+      "date": "2026-11-19",
+      "from": "\"Cetirizine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cetirizine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorambucil.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorambucil: nuova indicazione prevista, ALK-positive large B-cell lymphoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Chlorambucil: nuova indicazione prevista, ALK-positive large B-cell lymphoma (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorthalidone.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorthalidone: nuova indicazione prevista, Glaucoma ereditario primario (primary hereditary glaucoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Chlorthalidone: nuova indicazione prevista, Glaucoma ereditario primario (primary hereditary glaucoma) (livello di evidenza L5). In Italia, confezioni AIFA: 19 (autorizzate: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ciclesonide.md",
+      "date": "2026-11-19",
+      "from": "\"Ciclesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ciclesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ciprofloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/citalopram.md",
+      "date": "2026-11-19",
+      "from": "\"Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clarithromycin.md",
+      "date": "2026-11-19",
+      "from": "\"Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clavulanic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Clavulanic Acid: nuova indicazione prevista, Uretrite da Ureaplasma (Ureaplasma urethritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clavulanic Acid: nuova indicazione prevista, Uretrite da Ureaplasma (Ureaplasma urethritis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clomifene.md",
+      "date": "2026-11-19",
+      "from": "\"Clomifene: nuova indicazione prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clomifene: nuova indicazione prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonidine.md",
+      "date": "2026-11-19",
+      "from": "\"Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clopidogrel.md",
+      "date": "2026-11-19",
+      "from": "\"Clopidogrel: nuova indicazione prevista, Emicrania con aura del tronco encefalico (migraine with brainstem aura) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Clopidogrel: nuova indicazione prevista, Emicrania con aura del tronco encefalico (migraine with brainstem aura) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/codeine.md",
+      "date": "2026-11-19",
+      "from": "\"Codeine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Codeine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/colchicina.md",
+      "date": "2026-11-19",
+      "from": "\"Colchicina: nuova indicazione prevista, Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Colchicina: nuova indicazione prevista, Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/corifollitropin_alfa.md",
+      "date": "2026-11-19",
+      "from": "\"Corifollitropin Alfa: nuova indicazione prevista, Gastroduodenite (gastroduodenitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Corifollitropin Alfa: nuova indicazione prevista, Gastroduodenite (gastroduodenitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cortisone.md",
+      "date": "2026-11-19",
+      "from": "\"Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primario (primary cutaneous T-cell lymphoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primario (primary cutaneous T-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cyanocobalamin.md",
+      "date": "2026-11-19",
+      "from": "\"Cyanocobalamin: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Cyanocobalamin: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/danazol.md",
+      "date": "2026-11-19",
+      "from": "\"Danazol: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Danazol: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/deferasirox.md",
+      "date": "2026-11-19",
+      "from": "\"Deferasirox: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Deferasirox: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/deferiprone.md",
+      "date": "2026-11-19",
+      "from": "\"Deferiprone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Deferiprone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/desloratadina.md",
+      "date": "2026-11-19",
+      "from": "\"Desloratadina: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Desloratadina: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/desmopressin.md",
+      "date": "2026-11-19",
+      "from": "\"Desmopressin: nuova indicazione prevista, Deficit congenito di protrombina (congenital prothrombin deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Desmopressin: nuova indicazione prevista, Deficit congenito di protrombina (congenital prothrombin deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dexibuprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Dexibuprofen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Dexibuprofen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diclofenac.md",
+      "date": "2026-11-19",
+      "from": "\"Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dienogest.md",
+      "date": "2026-11-19",
+      "from": "\"Dienogest: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Dienogest: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/donepezil.md",
+      "date": "2026-11-19",
+      "from": "\"Donepezil: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Donepezil: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dorzolamide.md",
+      "date": "2026-11-19",
+      "from": "\"Dorzolamide: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Dorzolamide: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ebastina.md",
+      "date": "2026-11-19",
+      "from": "\"Ebastina: nuova indicazione prevista, Coronaropatia (coronary artery disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ebastina: nuova indicazione prevista, Coronaropatia (coronary artery disease) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/efmoroctocog_alfa.md",
+      "date": "2026-11-19",
+      "from": "\"Efmoroctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Efmoroctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/elbasvir.md",
+      "date": "2026-11-19",
+      "from": "\"Elbasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Elbasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/eletriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Eletriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Eletriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/emicizumab.md",
+      "date": "2026-11-19",
+      "from": "\"Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/empagliflozin.md",
+      "date": "2026-11-19",
+      "from": "\"Empagliflozin: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Empagliflozin: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/entecavir.md",
+      "date": "2026-11-19",
+      "from": "\"Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/eplerenone.md",
+      "date": "2026-11-19",
+      "from": "\"Eplerenone: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Eplerenone: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/esomeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etelcalcetide.md",
+      "date": "2026-11-19",
+      "from": "\"Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ethambutol.md",
+      "date": "2026-11-19",
+      "from": "\"Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ethambutol: nuova indicazione prevista, Epiglottite (epiglottitis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etoposide.md",
+      "date": "2026-11-19",
+      "from": "\"Etoposide: nuova indicazione prevista, Well-differentiated fetal adenocarcinoma of the lung (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Etoposide: nuova indicazione prevista, Well-differentiated fetal adenocarcinoma of the lung (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/exemestane.md",
+      "date": "2026-11-19",
+      "from": "\"Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/famciclovir.md",
+      "date": "2026-11-19",
+      "from": "\"Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (post-infectious neuralgia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Famciclovir: nuova indicazione prevista, Nevralgia post-infettiva (post-infectious neuralgia) (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/famotidine.md",
+      "date": "2026-11-19",
+      "from": "\"Famotidine: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Famotidine: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/febuxostat.md",
+      "date": "2026-11-19",
+      "from": "\"Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/felbamate.md",
+      "date": "2026-11-19",
+      "from": "\"Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/felodipine.md",
+      "date": "2026-11-19",
+      "from": "\"Felodipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Felodipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fenofibrate.md",
+      "date": "2026-11-19",
+      "from": "\"Fenofibrate: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fenofibrate: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fexofenadine.md",
+      "date": "2026-11-19",
+      "from": "\"Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flecainide.md",
+      "date": "2026-11-19",
+      "from": "\"Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). In Italia, confezioni AIFA: 18 (autorizzate: 18)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flunisolide.md",
+      "date": "2026-11-19",
+      "from": "\"Flunisolide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Flunisolide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluocinolone_acetonide.md",
+      "date": "2026-11-19",
+      "from": "\"Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus pemphigoides (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus pemphigoides (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluorouracil.md",
+      "date": "2026-11-19",
+      "from": "\"Fluorouracil: nuova indicazione prevista, Botryoid-type embryonal rhabdomyosarcoma of the vagina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fluorouracil: nuova indicazione prevista, Botryoid-type embryonal rhabdomyosarcoma of the vagina (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flutamide.md",
+      "date": "2026-11-19",
+      "from": "\"Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluticasone.md",
+      "date": "2026-11-19",
+      "from": "\"Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fluticasone: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluvoxamine.md",
+      "date": "2026-11-19",
+      "from": "\"Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/folic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/formoterol.md",
+      "date": "2026-11-19",
+      "from": "\"Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fosfomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Fosfomycin: nuova indicazione prevista, Uterine inflammatory disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fosfomycin: nuova indicazione prevista, Uterine inflammatory disease (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fosinopril.md",
+      "date": "2026-11-19",
+      "from": "\"Fosinopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fosinopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fremanezumab.md",
+      "date": "2026-11-19",
+      "from": "\"Fremanezumab: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Fremanezumab: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/frovatriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Frovatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Frovatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/galantamine.md",
+      "date": "2026-11-19",
+      "from": "\"Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gemfibrozil.md",
+      "date": "2026-11-19",
+      "from": "\"Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gimeracil.md",
+      "date": "2026-11-19",
+      "from": "\"Gimeracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Gimeracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gliquidone.md",
+      "date": "2026-11-19",
+      "from": "\"Gliquidone: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Gliquidone: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/glucagon.md",
+      "date": "2026-11-19",
+      "from": "\"Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/granisetron.md",
+      "date": "2026-11-19",
+      "from": "\"Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/grazoprevir.md",
+      "date": "2026-11-19",
+      "from": "\"Grazoprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Grazoprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/griseofulvin.md",
+      "date": "2026-11-19",
+      "from": "\"Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/icosapent_ethyl.md",
+      "date": "2026-11-19",
+      "from": "\"Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (hemoglobinopathy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (hemoglobinopathy) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/idebenone.md",
+      "date": "2026-11-19",
+      "from": "\"Idebenone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Idebenone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/iloprost.md",
+      "date": "2026-11-19",
+      "from": "\"Iloprost: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Iloprost: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/imatinib.md",
+      "date": "2026-11-19",
+      "from": "\"Imatinib: nuova indicazione prevista, Heart fibrosarcoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Imatinib: nuova indicazione prevista, Heart fibrosarcoma (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/imiquimod.md",
+      "date": "2026-11-19",
+      "from": "\"Imiquimod: nuova indicazione prevista, Pre-malignant neoplasm (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Imiquimod: nuova indicazione prevista, Pre-malignant neoplasm (livello di evidenza L1). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/indacaterol.md",
+      "date": "2026-11-19",
+      "from": "\"Indacaterol: nuova indicazione prevista, Nephrogenic syndrome of inappropriate antidiuresis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Indacaterol: nuova indicazione prevista, Nephrogenic syndrome of inappropriate antidiuresis (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/indomethacin.md",
+      "date": "2026-11-19",
+      "from": "\"Indomethacin: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Indomethacin: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/insulin_aspart.md",
+      "date": "2026-11-19",
+      "from": "\"Insulin Aspart: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Insulin Aspart: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/insulin_degludec.md",
+      "date": "2026-11-19",
+      "from": "\"Insulin Degludec: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Insulin Degludec: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/insulin_detemir.md",
+      "date": "2026-11-19",
+      "from": "\"Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/insulin_glargine.md",
+      "date": "2026-11-19",
+      "from": "\"Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/insulin_glulisine.md",
+      "date": "2026-11-19",
+      "from": "\"Insulin Glulisine: nuova indicazione prevista, Thiamine-responsive dysfunction syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Insulin Glulisine: nuova indicazione prevista, Thiamine-responsive dysfunction syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/irbesartan.md",
+      "date": "2026-11-19",
+      "from": "\"Irbesartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Irbesartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/isoniazid.md",
+      "date": "2026-11-19",
+      "from": "\"Isoniazid: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Isoniazid: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/isotretinoin.md",
+      "date": "2026-11-19",
+      "from": "\"Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/itraconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ketoprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Ketoprofen: nuova indicazione prevista, Acromesomelic dysplasia, Hunter-Thompson type (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ketoprofen: nuova indicazione prevista, Acromesomelic dysplasia, Hunter-Thompson type (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/labetalol.md",
+      "date": "2026-11-19",
+      "from": "\"Labetalol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Labetalol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lacosamide.md",
+      "date": "2026-11-19",
+      "from": "\"Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lamotrigine.md",
+      "date": "2026-11-19",
+      "from": "\"Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lanreotide.md",
+      "date": "2026-11-19",
+      "from": "\"Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lansoprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Lansoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lansoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/latanoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Latanoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Latanoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/leflunomide.md",
+      "date": "2026-11-19",
+      "from": "\"Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/letrozole.md",
+      "date": "2026-11-19",
+      "from": "\"Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levetiracetam.md",
+      "date": "2026-11-19",
+      "from": "\"Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levocetirizine.md",
+      "date": "2026-11-19",
+      "from": "\"Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levodopa.md",
+      "date": "2026-11-19",
+      "from": "\"Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levonorgestrel.md",
+      "date": "2026-11-19",
+      "from": "\"Levonorgestrel: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Levonorgestrel: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L2). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lincomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/liothyronine.md",
+      "date": "2026-11-19",
+      "from": "\"Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lisinopril.md",
+      "date": "2026-11-19",
+      "from": "\"Lisinopril: nuova indicazione prevista, Pulmonary hypertension owing to lung disease and/or hypoxia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lisinopril: nuova indicazione prevista, Pulmonary hypertension owing to lung disease and/or hypoxia (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lomitapide.md",
+      "date": "2026-11-19",
+      "from": "\"Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/losartan.md",
+      "date": "2026-11-19",
+      "from": "\"Losartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Losartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lumacaftor.md",
+      "date": "2026-11-19",
+      "from": "\"Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lurasidone.md",
+      "date": "2026-11-19",
+      "from": "\"Lurasidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Lurasidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mebendazole.md",
+      "date": "2026-11-19",
+      "from": "\"Mebendazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Mebendazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/melphalan.md",
+      "date": "2026-11-19",
+      "from": "\"Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mercaptopurine.md",
+      "date": "2026-11-19",
+      "from": "\"Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mesalazine.md",
+      "date": "2026-11-19",
+      "from": "\"Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metformin.md",
+      "date": "2026-11-19",
+      "from": "\"Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methotrexate.md",
+      "date": "2026-11-19",
+      "from": "\"Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methylphenidate.md",
+      "date": "2026-11-19",
+      "from": "\"Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methylprednisolone.md",
+      "date": "2026-11-19",
+      "from": "\"Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metoclopramide.md",
+      "date": "2026-11-19",
+      "from": "\"Metoclopramide: nuova indicazione prevista, Gastroduodenitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Metoclopramide: nuova indicazione prevista, Gastroduodenitis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metolazone.md",
+      "date": "2026-11-19",
+      "from": "\"Metolazone: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Metolazone: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Metoprolol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Metoprolol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metronidazole.md",
+      "date": "2026-11-19",
+      "from": "\"Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/miconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Miconazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Miconazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/midazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Midazolam: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Midazolam: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/miglustat.md",
+      "date": "2026-11-19",
+      "from": "\"Miglustat: nuova indicazione prevista, Autosomal ichthyosis syndrome with fatal disease course (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Miglustat: nuova indicazione prevista, Autosomal ichthyosis syndrome with fatal disease course (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mirtazapine.md",
+      "date": "2026-11-19",
+      "from": "\"Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). In Italia, confezioni AIFA: 17 (autorizzate: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mizolastine.md",
+      "date": "2026-11-19",
+      "from": "\"Mizolastine: nuova indicazione prevista, Porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Mizolastine: nuova indicazione prevista, Porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/modafinil.md",
+      "date": "2026-11-19",
+      "from": "\"Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/montelukast.md",
+      "date": "2026-11-19",
+      "from": "\"Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/moroctocog_alfa.md",
+      "date": "2026-11-19",
+      "from": "\"Moroctocog Alfa: nuova indicazione prevista, Primary release disorder of platelets (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Moroctocog Alfa: nuova indicazione prevista, Primary release disorder of platelets (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/morphine.md",
+      "date": "2026-11-19",
+      "from": "\"Morphine: nuova indicazione prevista, sindrome miofasciale dolorosa (myofascial pain syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Morphine: nuova indicazione prevista, sindrome miofasciale dolorosa (myofascial pain syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/moxonidine.md",
+      "date": "2026-11-19",
+      "from": "\"Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/naproxen.md",
+      "date": "2026-11-19",
+      "from": "\"Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nebivolol.md",
+      "date": "2026-11-19",
+      "from": "\"Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nicardipine.md",
+      "date": "2026-11-19",
+      "from": "\"Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Nicardipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/norfloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nortriptyline.md",
+      "date": "2026-11-19",
+      "from": "\"Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nystatin.md",
+      "date": "2026-11-19",
+      "from": "\"Nystatin: nuova indicazione prevista, Malattia della regione orbitale (disease of orbital region) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Nystatin: nuova indicazione prevista, Malattia della regione orbitale (disease of orbital region) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/omalizumab.md",
+      "date": "2026-11-19",
+      "from": "\"Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/omeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/orphenadrine.md",
+      "date": "2026-11-19",
+      "from": "\"Orphenadrine: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Orphenadrine: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oteracil.md",
+      "date": "2026-11-19",
+      "from": "\"Oteracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Oteracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxcarbazepine.md",
+      "date": "2026-11-19",
+      "from": "\"Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxybutynin.md",
+      "date": "2026-11-19",
+      "from": "\"Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paliperidone.md",
+      "date": "2026-11-19",
+      "from": "\"Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/palivizumab.md",
+      "date": "2026-11-19",
+      "from": "\"Palivizumab: nuova indicazione prevista, Benign neoplasm of tongue (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Palivizumab: nuova indicazione prevista, Benign neoplasm of tongue (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pantoprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/parnaparin.md",
+      "date": "2026-11-19",
+      "from": "\"Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paromomycin.md",
+      "date": "2026-11-19",
+      "from": "\"Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paroxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/perampanel.md",
+      "date": "2026-11-19",
+      "from": "\"Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/perindopril.md",
+      "date": "2026-11-19",
+      "from": "\"Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/phenobarbital.md",
+      "date": "2026-11-19",
+      "from": "\"Phenobarbital: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Phenobarbital: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/phenytoin.md",
+      "date": "2026-11-19",
+      "from": "\"Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pibrentasvir.md",
+      "date": "2026-11-19",
+      "from": "\"Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pimozide.md",
+      "date": "2026-11-19",
+      "from": "\"Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pioglitazone.md",
+      "date": "2026-11-19",
+      "from": "\"Pioglitazone: nuova indicazione prevista, Opsismodisplasia (opsismodysplasia) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pioglitazone: nuova indicazione prevista, Opsismodisplasia (opsismodysplasia) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/piroxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Piroxicam: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Piroxicam: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pitolisant.md",
+      "date": "2026-11-19",
+      "from": "\"Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/posaconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prasugrel.md",
+      "date": "2026-11-19",
+      "from": "\"Prasugrel: nuova indicazione prevista, Pulmonary hypertension (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Prasugrel: nuova indicazione prevista, Pulmonary hypertension (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pravastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/prednisone.md",
+      "date": "2026-11-19",
+      "from": "\"Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pregabalin.md",
+      "date": "2026-11-19",
+      "from": "\"Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/primidone.md",
+      "date": "2026-11-19",
+      "from": "\"Primidone: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Primidone: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/progesterone.md",
+      "date": "2026-11-19",
+      "from": "\"Progesterone: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Progesterone: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/propranolol.md",
+      "date": "2026-11-19",
+      "from": "\"Propranolol: nuova indicazione prevista, Distal myopathy, Tateyama type (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Propranolol: nuova indicazione prevista, Distal myopathy, Tateyama type (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pyridostigmine.md",
+      "date": "2026-11-19",
+      "from": "\"Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/quinapril.md",
+      "date": "2026-11-19",
+      "from": "\"Quinapril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Quinapril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rasagiline.md",
+      "date": "2026-11-19",
+      "from": "\"Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 20)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/regorafenib.md",
+      "date": "2026-11-19",
+      "from": "\"Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ribavirin.md",
+      "date": "2026-11-19",
+      "from": "\"Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ribavirin: nuova indicazione prevista, Infezione cronica da virus dell'epatite B (chronic hepatitis B virus infection) (livello di evidenza L1). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rifabutin.md",
+      "date": "2026-11-19",
+      "from": "\"Rifabutin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rifabutin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rifampicin.md",
+      "date": "2026-11-19",
+      "from": "\"Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rimegepant.md",
+      "date": "2026-11-19",
+      "from": "\"Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/risperidone.md",
+      "date": "2026-11-19",
+      "from": "\"Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rivastigmine.md",
+      "date": "2026-11-19",
+      "from": "\"Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rizatriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Rizatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rizatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rosuvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/roxadustat.md",
+      "date": "2026-11-19",
+      "from": "\"Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (dry eye syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (dry eye syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/roxithromycin.md",
+      "date": "2026-11-19",
+      "from": "\"Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rufinamide.md",
+      "date": "2026-11-19",
+      "from": "\"Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ruxolitinib.md",
+      "date": "2026-11-19",
+      "from": "\"Ruxolitinib: nuova indicazione prevista, Uterine corpus perivascular epithelioid cell tumor (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ruxolitinib: nuova indicazione prevista, Uterine corpus perivascular epithelioid cell tumor (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sacubitril.md",
+      "date": "2026-11-19",
+      "from": "\"Sacubitril: nuova indicazione prevista, Brain small vessel disease 1 with or without ocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sacubitril: nuova indicazione prevista, Brain small vessel disease 1 with or without ocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salbutamol.md",
+      "date": "2026-11-19",
+      "from": "\"Salbutamol: nuova indicazione prevista, Congiuntivite papillare (papillary conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Salbutamol: nuova indicazione prevista, Congiuntivite papillare (papillary conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 18 (autorizzate: 17)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salmeterol.md",
+      "date": "2026-11-19",
+      "from": "\"Salmeterol: nuova indicazione prevista, Malformazione respiratoria (respiratory malformation) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Salmeterol: nuova indicazione prevista, Malformazione respiratoria (respiratory malformation) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sapropterin.md",
+      "date": "2026-11-19",
+      "from": "\"Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/scopolamine.md",
+      "date": "2026-11-19",
+      "from": "\"Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (cauda equina syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Scopolamine: nuova indicazione prevista, Sindrome della cauda equina (cauda equina syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/selegiline.md",
+      "date": "2026-11-19",
+      "from": "\"Selegiline: nuova indicazione prevista, Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Selegiline: nuova indicazione prevista, Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/simvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sirolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sofosbuvir.md",
+      "date": "2026-11-19",
+      "from": "\"Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). In Italia, confezioni AIFA: 5 (autorizzate: 5)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sotalol.md",
+      "date": "2026-11-19",
+      "from": "\"Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/spironolactone.md",
+      "date": "2026-11-19",
+      "from": "\"Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sucralfate.md",
+      "date": "2026-11-19",
+      "from": "\"Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). In Italia, confezioni AIFA: 7 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sulbactam.md",
+      "date": "2026-11-19",
+      "from": "\"Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sulbactam: nuova indicazione prevista, Artrite batterica (bacterial arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sulfamethoxazole.md",
+      "date": "2026-11-19",
+      "from": "\"Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sulfasalazine.md",
+      "date": "2026-11-19",
+      "from": "\"Sulfasalazine: nuova indicazione prevista, Brachydactyly-syndactyly syndrome (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Sulfasalazine: nuova indicazione prevista, Brachydactyly-syndactyly syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tacrolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tamoxifen.md",
+      "date": "2026-11-19",
+      "from": "\"Tamoxifen: nuova indicazione prevista, Malattia di Paget mammaria (mammary Paget disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tamoxifen: nuova indicazione prevista, Malattia di Paget mammaria (mammary Paget disease) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tegafur.md",
+      "date": "2026-11-19",
+      "from": "\"Tegafur: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tegafur: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/telmisartan.md",
+      "date": "2026-11-19",
+      "from": "\"Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/terazosin.md",
+      "date": "2026-11-19",
+      "from": "\"Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/teriparatide.md",
+      "date": "2026-11-19",
+      "from": "\"Teriparatide: nuova indicazione prevista, Ulcera duodenale (duodenal ulcer (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Teriparatide: nuova indicazione prevista, Ulcera duodenale (duodenal ulcer (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tetrabenazine.md",
+      "date": "2026-11-19",
+      "from": "\"Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tiaprofenic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ticagrelor.md",
+      "date": "2026-11-19",
+      "from": "\"Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tipiracil.md",
+      "date": "2026-11-19",
+      "from": "\"Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tobramycin.md",
+      "date": "2026-11-19",
+      "from": "\"Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). In Italia, confezioni AIFA: 9 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tolvaptan.md",
+      "date": "2026-11-19",
+      "from": "\"Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/topotecan.md",
+      "date": "2026-11-19",
+      "from": "\"Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (female breast carcinoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Topotecan: nuova indicazione prevista, Carcinoma mammario femminile (female breast carcinoma) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/trandolapril.md",
+      "date": "2026-11-19",
+      "from": "\"Trandolapril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Trandolapril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/travoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Travoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Travoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tretinoin.md",
+      "date": "2026-11-19",
+      "from": "\"Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Tretinoin: nuova indicazione prevista, Noduolosi reumatoide (rheumatoid nodulosis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/triamcinolone.md",
+      "date": "2026-11-19",
+      "from": "\"Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/triamterene.md",
+      "date": "2026-11-19",
+      "from": "\"Triamterene: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Triamterene: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/valproic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/verapamil.md",
+      "date": "2026-11-19",
+      "from": "\"Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vilanterol.md",
+      "date": "2026-11-19",
+      "from": "\"Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vinorelbine.md",
+      "date": "2026-11-19",
+      "from": "\"Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). In Italia, confezioni AIFA: 6 (autorizzate: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vortioxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Vortioxetine: nuova indicazione prevista, Disturbo nevrotico (neurotic disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Vortioxetine: nuova indicazione prevista, Disturbo nevrotico (neurotic disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/voxilaprevir.md",
+      "date": "2026-11-19",
+      "from": "\"Voxilaprevir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Voxilaprevir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/warfarin.md",
+      "date": "2026-11-19",
+      "from": "\"Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ziprasidone.md",
+      "date": "2026-11-19",
+      "from": "\"Ziprasidone: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Ziprasidone: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zolmitriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Zolmitriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali\"",
+      "to": "\"Zolmitriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    }
+  ]
+}

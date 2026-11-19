@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
 last_modified_at: 2026-11-17
-description: "Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Citalopram

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
 # Fexofenadine

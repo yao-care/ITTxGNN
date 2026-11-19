@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "calcifediol"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-11-03
-description: "Calcifediol: nuova indicazione prevista, Acidosi tubulare renale (renal tubular acidosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Calcifediol: nuova indicazione prevista, Acidosi tubulare renale (renal tubular acidosis) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Calcifediol

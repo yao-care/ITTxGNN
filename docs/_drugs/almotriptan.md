@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ALMOTRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-28
-description: "Almotriptan: nuova indicazione prevista, Atrofoderma vermicolare (atrophoderma vermiculata) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Almotriptan: nuova indicazione prevista, Atrofoderma vermicolare (atrophoderma vermiculata) (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
 # Almotriptan

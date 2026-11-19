@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Methotrexate

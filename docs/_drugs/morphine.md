@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-description: "Morphine: nuova indicazione prevista, sindrome miofasciale dolorosa (myofascial pain syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Morphine: nuova indicazione prevista, sindrome miofasciale dolorosa (myofascial pain syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
 ---
 
 # Morphine

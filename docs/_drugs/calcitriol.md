@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
 last_modified_at: 2026-11-17
-description: "Calcitriol: nuova indicazione prevista, obsolete vitamin D deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Calcitriol: nuova indicazione prevista, obsolete vitamin D deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 13 (autorizzate: 11)"
 ---
 
 # Calcitriol

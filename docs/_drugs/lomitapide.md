@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "LOMITAPIDE"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "platelet storage pool deficiency"]
-description: "Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
 # Lomitapide

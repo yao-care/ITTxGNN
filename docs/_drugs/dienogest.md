@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "DIENOGEST"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-description: "Dienogest: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Dienogest: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)"
 ---
 
 # Dienogest

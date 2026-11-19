@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-03
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol: nuova indicazione prevista, Malformazione respiratoria (respiratory malformation) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Salmeterol: nuova indicazione prevista, Malformazione respiratoria (respiratory malformation) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Salmeterol

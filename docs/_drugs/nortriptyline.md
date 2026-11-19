@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
-description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Nortriptyline

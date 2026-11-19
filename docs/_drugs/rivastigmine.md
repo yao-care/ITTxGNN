@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
-description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Rivastigmine

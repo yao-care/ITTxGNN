@@ -9,7 +9,7 @@ drugbank_id: DB00668
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 last_modified_at: 2026-11-16
-description: "Adrenalina: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Adrenalina: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Adrenalina

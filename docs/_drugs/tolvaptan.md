@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-description: "Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
 ---
 
 # Tolvaptan

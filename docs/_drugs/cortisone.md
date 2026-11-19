@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-description: "Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primario (primary cutaneous T-cell lymphoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primario (primary cutaneous T-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Cortisone

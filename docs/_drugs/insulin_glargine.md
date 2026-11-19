@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-description: "Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
 ---
 
 # Insulin Glargine

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). In Italia, confezioni AIFA: 18 (autorizzate: 18)"
 ---
 
 # Flecainide

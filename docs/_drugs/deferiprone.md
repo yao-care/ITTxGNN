@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
 last_modified_at: 2026-10-28
-description: "Deferiprone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Deferiprone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
 ---
 
 # Deferiprone

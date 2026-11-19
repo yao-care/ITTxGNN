@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-17
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
-description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). In Italia, confezioni AIFA: 7 (autorizzate: 6)"
 ---
 
 # Sucralfate

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
-description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Ticagrelor

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
 last_modified_at: 2026-10-28
-description: "Cyanocobalamin: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Cyanocobalamin: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Cyanocobalamin

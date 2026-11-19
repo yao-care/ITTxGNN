@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-description: "Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Flutamide: nuova indicazione prevista, Fibroma of prostate (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Flutamide

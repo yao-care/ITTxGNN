@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
-description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Glucagon

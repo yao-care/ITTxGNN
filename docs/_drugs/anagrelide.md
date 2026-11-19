@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ANAGRELIDE"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
 last_modified_at: 2026-11-17
-description: "Anagrelide: nuova indicazione prevista, Trombocitosi reattiva (reactive thrombocytosis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Anagrelide: nuova indicazione prevista, Trombocitosi reattiva (reactive thrombocytosis) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 5)"
 ---
 
 # Anagrelide

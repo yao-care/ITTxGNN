@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-description: "Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
+description: "Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
 ---
 
 # Oxcarbazepine

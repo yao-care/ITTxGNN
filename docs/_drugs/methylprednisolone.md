@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-03
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-description: "Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
 ---
 
 # Methylprednisolone

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
-description: "Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
 # Verapamil

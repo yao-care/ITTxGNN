@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 last_modified_at: 2026-11-12
-description: "Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). Indicazione originale: Non riportata nei dati locali"
+description: "Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Cefprozil

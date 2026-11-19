@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
-description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
+description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
 # Itraconazole

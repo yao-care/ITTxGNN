@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
-description: "Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Melphalan: nuova indicazione prevista, Female breast carcinoma (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Melphalan

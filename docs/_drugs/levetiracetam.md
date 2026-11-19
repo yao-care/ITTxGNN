@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Levetiracetam

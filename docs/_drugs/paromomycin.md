@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "paromomycin"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
-description: "Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Paromomycin

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-description: "Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
 ---
 
 # Sotalol

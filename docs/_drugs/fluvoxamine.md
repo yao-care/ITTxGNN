@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-description: "Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Fluvoxamine

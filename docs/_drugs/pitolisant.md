@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-04
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Pitolisant

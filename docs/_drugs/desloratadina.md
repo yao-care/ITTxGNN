@@ -9,7 +9,7 @@ drugbank_id: DB00967
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 last_modified_at: 2026-11-16
-description: "Desloratadina: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Desloratadina: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)"
 ---
 
 # Desloratadina

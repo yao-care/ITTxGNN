@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
-description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Warfarin

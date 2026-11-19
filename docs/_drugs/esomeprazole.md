@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-17
-description: "Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
 # Esomeprazole

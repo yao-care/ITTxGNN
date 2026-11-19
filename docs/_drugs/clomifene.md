@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "CLOMIFENE"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
 last_modified_at: 2026-11-03
-description: "Clomifene: nuova indicazione prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Clomifene: nuova indicazione prevista, 46,XY disorder of sex development due to testicular steroidogenesis defect (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Clomifene

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
-description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
 ---
 
 # Sapropterin

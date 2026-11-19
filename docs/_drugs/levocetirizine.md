@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-description: "Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)"
 ---
 
 # Levocetirizine

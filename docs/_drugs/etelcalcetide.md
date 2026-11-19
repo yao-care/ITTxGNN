@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-04
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
-description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). Indicazione originale: Non riportata nei dati locali"
+description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
 # Etelcalcetide

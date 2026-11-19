@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-28
-description: "Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Clonidine

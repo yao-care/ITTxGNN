@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-28
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-description: "Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
 # Paliperidone

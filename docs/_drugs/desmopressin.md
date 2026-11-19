@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 last_modified_at: 2026-11-17
-description: "Desmopressin: nuova indicazione prevista, Deficit congenito di protrombina (congenital prothrombin deficiency) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Desmopressin: nuova indicazione prevista, Deficit congenito di protrombina (congenital prothrombin deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 14)"
 ---
 
 # Desmopressin

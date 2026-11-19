@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-10-28
-description: "Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). Indicazione originale: Non riportata nei dati locali"
+description: "Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
 # Clonazepam

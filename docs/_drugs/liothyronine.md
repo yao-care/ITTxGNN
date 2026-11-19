@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
-description: "Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
 # Liothyronine

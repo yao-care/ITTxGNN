@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
-description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"
+description: "Regorafenib: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
 # Regorafenib

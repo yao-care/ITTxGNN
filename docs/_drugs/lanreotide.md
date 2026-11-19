@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
 ---
 
 # Lanreotide

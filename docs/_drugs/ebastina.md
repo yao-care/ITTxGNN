@@ -9,7 +9,7 @@ drugbank_id: DB11742
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 last_modified_at: 2026-11-16
-description: "Ebastina: nuova indicazione prevista, Coronaropatia (coronary artery disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Ebastina: nuova indicazione prevista, Coronaropatia (coronary artery disease) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
 # Ebastina

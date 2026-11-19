@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
 # Granisetron

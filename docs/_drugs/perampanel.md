@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
+description: "Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
 ---
 
 # Perampanel
