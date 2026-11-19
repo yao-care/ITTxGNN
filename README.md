@@ -19,7 +19,7 @@ Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle li
 
 | Elemento | Quantita |
 |------|------|
-| **Rapporti sui farmaci** | 448 |
+| **Rapporti sui farmaci** | 437 |
 | **Previsioni totali** | 14,239,352 |
 | **Farmaci unici** | 596 |
 | **Indicazioni uniche** | 16,996 |
@@ -34,7 +34,7 @@ Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle li
 | **L2** | 13 | RCT singolo o multipli Fase 2 |
 | **L3** | 17 | Studi osservazionali |
 | **L4** | 24 | Studi preclinici / meccanicistici |
-| **L5** | 369 | Solo previsione computazionale |
+| **L5** | 358 | Solo previsione computazionale |
 | **N/A** | 18 | Solo usi noti (nessuna nuova previsione) |
 
 ### Per fonte

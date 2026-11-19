@@ -49,3 +49,12 @@ AIFA 開放資料 confezioni.csv 是現行許可登錄（160,101 列，只有 Au
   `it-row-20261117-*`、正文張數或狀態跟事實相反的 8 頁以 `it-lic-20261117-*` 更正（tobramycin 的 Nebicina 100／150 mg、meloxicam 的 MOBIC fiale／
   MELOXICAM Zentiva 原本就被寫成註銷，confezioni 為 Autorizzata，一併改正）。全部註銷的 2 頁依成分對 confezioni 確認：atomoxetine（STRATTERA 5 張，
   atomoxetina 現行 0 個包裝）、lenograstim（MYELOSTIM，現行 0 個；efbemalenograstim alfa 的 RYZNEUTA 是另一個藥）。
+
+## 同一 DrugBank ID 的重複公開頁改轉址（2026-11-19）
+
+用戶 2026-11-19 決定（照 ARTxGNN 同日做法）：公開藥物頁同一 DrugBank ID（front matter drugbank_id，沒有的用證據包與 dbXXXXX 轉址頁推斷）、預測相同的，留一頁、另一頁改轉址（layout: id_redirect、permalink 不變、sitemap: false、search_exclude、nav_exclude）。
+11 組，各組預測、等級（全 L5）、許可證號完全相同；保留順序：查核紀錄數→字數（差 5% 內算平手）→義文 INN 名。
+轉址：alfuzosina→alfuzosin、amlodipine→amlodipina（平手）、duloxetine→duloxetina、chlorpromazine→clorpromazina、clonidina→clonidine、doxazosin→doxazosina、epinephrine→adrenalina、apomorfina→apomorphine、desloratadine→desloratadina、colchicine→colchicina、ebastine→ebastina（平手）。
+dbXXXXX 轉址頁原本指到被轉址頁的 8 頁（db00381、db00476、db00477、db00590、db00668、db00967、db01394、db11742）改成直接指保留頁，沒有轉址鏈。
+被轉址頁 colchicine 的查核紀錄 it-lic-20261106-colchicine-1 留在 drug_reviews.json 當歷史（apply_drug_reviews 跳過轉址頁）；保留頁 colchicina 寫的是 2 張皆有效，沒有同樣的錯句。
+公開藥物頁 448→437；FHIR 的 MK 以 DrugBank ID 對頁，不變（429）；衍生檔、hreflang 照重產。

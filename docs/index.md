@@ -32,7 +32,7 @@ Rapporti per livello di evidenza:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-45 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
+25 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
 
 ### Medicinali con il livello di evidenza più alto su questo sito
 
@@ -54,8 +54,6 @@ Rapporti per livello di evidenza:
 | Medicinale | Livello di evidenza |
 |---|---|
 | [Clozapina](/drugs/clozapina/) | L2 |
-| [Alfuzosina](/drugs/alfuzosina/) | L5 |
-| [Apomorfina](/drugs/apomorfina/) | L5 |
 | [Clorpromazina](/drugs/clorpromazina/) | L5 |
 | [Adrenalina](/drugs/adrenalina/) | L5 |
 | [Ebastina](/drugs/ebastina/) | L5 |
