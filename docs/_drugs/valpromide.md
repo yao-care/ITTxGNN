@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 description: "Valpromide: nuova indicazione prevista, Insonnia (livello di evidenza L5). Indicazione originale: Non disponibile"
 monitor_inn: "VALPROMIDE"
+drugbank_id: DB04165
 predicted_indications: ["insomnia (disease)"]
 ---
 

@@ -24,7 +24,7 @@ Previsioni di riposizionamento di farmaci per i farmaci di classe A e H delle li
 | **Farmaci unici** | 596 |
 | **Indicazioni uniche** | 16,996 |
 | **Dati DDI** | 160,235 |
-| **Risorse FHIR** | 429 MK / 2,445 CUD |
+| **Risorse FHIR** | 437 MK / 2,485 CUD |
 
 ### Distribuzione dei livelli di evidenza
 

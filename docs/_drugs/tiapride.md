@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 description: "Tiapride: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L3). Indicazione originale: Non disponibile nei dati AIFA (il testo dell'indicazione approvata è…"
 monitor_inn: "TIAPRIDE"
+drugbank_id: DB13025
 predicted_indications: ["migraine disorder"]
 ---
 

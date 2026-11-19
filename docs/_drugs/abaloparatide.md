@@ -8,6 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 description: "Abaloparatide: nuova indicazione prevista, Malformazione esofagea non sindromica (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale ad alto rischio di frattura"
 monitor_inn: "ABALOPARATIDE"
+drugbank_id: DB05084
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
 ---
 
