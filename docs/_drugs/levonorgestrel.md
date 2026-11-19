@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 268
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-12
 monitor_inn: "levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L2). Indicazione originale: Non riportata nei dati locali"

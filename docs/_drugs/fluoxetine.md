@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 description: "Fluoxetine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5)."
 ---
 

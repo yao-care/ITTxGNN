@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

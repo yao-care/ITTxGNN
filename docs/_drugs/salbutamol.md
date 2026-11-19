@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: nuova indicazione prevista, Congiuntivite papillare (papillary conjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

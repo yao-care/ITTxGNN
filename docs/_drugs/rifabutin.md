@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "rifabutin"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Rifabutin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"

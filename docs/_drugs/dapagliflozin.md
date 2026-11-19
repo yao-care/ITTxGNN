@@ -5,7 +5,7 @@ layout: default
 title: Dapagliflozin
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 135
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-07
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

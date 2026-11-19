@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Amlodipina: nuova indicazione prevista, Infarto del tronco encefalico (brain stem infarction) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
 ---
 

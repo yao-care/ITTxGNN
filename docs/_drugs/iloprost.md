@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). Indicazione originale: Non riportata nei dati locali"
