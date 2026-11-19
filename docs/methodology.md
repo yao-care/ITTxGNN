@@ -14,6 +14,23 @@ Dalla previsione dell'IA alla classificazione delle prove — ogni candidato ha 
 
 ---
 
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Italia: come si applica il metodo su questo sito
+
+Dati locali: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h). I dati locali sono le confezioni AIFA (codici AIC a 9 cifre) delle liste di classe A e H, verificate sul registro delle confezioni autorizzate. Un AIC che non figura più nel registro non è contato come autorizzato; la classe C non è inclusa.
+
+| Livello | Rapporti | …con confezione locale autorizzate |
+|---|---|---|
+| L1 | {{ site.data.local_facts.by_level.L1.n }} | {{ site.data.local_facts.by_level.L1.current }} |
+| L2 | {{ site.data.local_facts.by_level.L2.n }} | {{ site.data.local_facts.by_level.L2.current }} |
+| L3 | {{ site.data.local_facts.by_level.L3.n }} | {{ site.data.local_facts.by_level.L3.current }} |
+| L4 | {{ site.data.local_facts.by_level.L4.n }} | {{ site.data.local_facts.by_level.L4.current }} |
+| L5 | {{ site.data.local_facts.by_level.L5.n }} | {{ site.data.local_facts.by_level.L5.current }} |
+
+Il registro delle verifiche ha **{{ site.data.local_facts.reviews.records }}** voci su **{{ site.data.local_facts.reviews.public_pages_with_records }}** pagine; le correzioni modificano solo dati regolatori, mai le previsioni del modello.
+
+<!-- local-facts:end -->
+
 ## Flusso complessivo
 
 <p class="key-answer" data-question="Come genera le sue previsioni ITTxGNN?">

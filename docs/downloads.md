@@ -14,27 +14,23 @@ Le previsioni sono pubblicate in formato FHIR R4, pronte per l'integrazione con 
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Italia: dati di questo sito
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Italia: cosa contengono ora i file
 
-Questo sito pubblica rapporti su **{{ site.data.drug_stats.total_drugs }}** medicinali presenti nelle [liste AIFA dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h) (Italia); la classe C non è inclusa.
+| File | Contenuto attuale |
+|---|---|
+| `/data/search-index.json` | {{ site.data.local_facts.files.search_index }} medicinali con le indicazioni previste |
+| `/data/drugs.json` | {{ site.data.local_facts.files.drugs_json }} medicinali con livello di evidenza e indicazione originale |
+| `/fhir/MedicationKnowledge/` | {{ site.data.local_facts.fhir.medication_knowledge }} risorse MedicationKnowledge (una per medicinale) |
+| `/fhir/ClinicalUseDefinition/` | {{ site.data.local_facts.fhir.clinical_use_definition }} risorse ClinicalUseDefinition (una per indicazione prevista) |
 
-Set di dati: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h); viene scaricato e confrontato automaticamente ogni settimana (il lunedì). Dettagli: [Fonti dei dati]({{ '/sources/' | relative_url }}).
+Riutilizzo del set di dati locale: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h), pubblicato da Agenzia Italiana del Farmaco (AIFA); il riutilizzo è regolato dalle condizioni dell'editore e questo sito non concede ulteriori diritti.
 
-Rapporti per livello di evidenza:
+{% if site.data.local_facts.top_licensed.size > 0 %}Medicinali con più confezioni AIFA (AIC) autorizzate: {% for r in site.data.local_facts.top_licensed limit: 5 offset: 3 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Livello di evidenza | Rapporti | Quota |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Ultime correzioni nel registro delle verifiche: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 16 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-45 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
-
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Risorse FHIR
 

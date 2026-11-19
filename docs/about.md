@@ -14,27 +14,31 @@ Accelerare la validazione delle prove sul riposizionamento dei farmaci con l'IA 
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Italia: dati di questo sito
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Italia: i dati di questo sito in cifre
 
-Questo sito pubblica rapporti su **{{ site.data.drug_stats.total_drugs }}** medicinali presenti nelle [liste AIFA dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h) (Italia); la classe C non è inclusa.
+Dati locali: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h). I dati locali sono le confezioni AIFA (codici AIC a 9 cifre) delle liste di classe A e H, verificate sul registro delle confezioni autorizzate. Un AIC che non figura più nel registro non è contato come autorizzato; la classe C non è inclusa.
 
-Set di dati: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h); viene scaricato e confrontato automaticamente ogni settimana (il lunedì). Dettagli: [Fonti dei dati]({{ '/sources/' | relative_url }}).
+| Voce | Valore |
+|---|---|
+| Medicinali con rapporto pubblicato | {{ site.data.local_facts.drugs_total }} |
+| Medicinali presenti nei dati locali | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …con almeno una confezione autorizzate | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …con confezioni, ma nessuna autorizzate | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Medicinali assenti dai dati locali | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Voci locali (confezioni AIFA (AIC)) | {{ site.data.local_facts.licence.items_total }} |
+| …di cui autorizzate | {{ site.data.local_facts.licence.items_current }} |
+| Voci del registro delle verifiche | {{ site.data.local_facts.reviews.records }} |
+| Pagine con voci di verifica | {{ site.data.local_facts.reviews.public_pages_with_records }} |
+| Coppie farmaco–malattia previste assenti da tutti gli altri siti TxGNN | {{ site.data.local_facts.cross.unique_pairs }} |
 
-Rapporti per livello di evidenza:
+{% if site.data.local_facts.top_licensed.size > 0 %}Medicinali con più confezioni AIFA (AIC) autorizzate: {% for r in site.data.local_facts.top_licensed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Livello di evidenza | Rapporti | Quota |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Ultime correzioni nel registro delle verifiche: {% for r in site.data.local_facts.recent_reviews limit: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-45 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
+Esempi di previsioni che nessun altro sito TxGNN riporta per lo stesso medicinale: [Ebastina]({{ '/drugs/ebastina/' | relative_url }}) → Coronaropatia, [Gliquidone]({{ '/drugs/gliquidone/' | relative_url }}) → Sindrome dell'arto rigido focale.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Contesto
 

@@ -3,15 +3,25 @@ layout: default
 title: Prove elevate (L1-L2)
 nav_order: 21
 permalink: /evidence-high/
-description: "Candidati al riposizionamento dei farmaci di livello L1-L2 in ITTxGNN, supportati da studi clinici o revisioni sistematiche."
+description: "20 medicinali con livello di evidenza L1–L2 su questo sito (Italia), ad es. Bupropion, Cefprozil, Clomipramine, con indicazione principale prevista, confezioni AIFA (AIC) e verifiche per ciascuno."
 ---
 
 # Prove elevate (L1-L2)
 
-<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-{% assign pd_m = site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 %}
-Questa pagina elenca **{{ pd_m }}** dei **{{ site.data.drug_stats.total_drugs }}** medicinali con un rapporto pubblicato su questo sito ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Definizione dei livelli: [Metodologia]({{ '/methodology/' | relative_url }}).
-<!-- page-data:end -->
+<!-- tier-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+{% assign ev_share = site.data.evidence_tier_facts.high.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs %}
+Questa pagina elenca **{{ site.data.evidence_tier_facts.high.count }}** dei **{{ site.data.drug_stats.total_drugs }}** medicinali con un rapporto pubblicato su questo sito ({{ site.data.evidence_tier_facts.high.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%): L1 **{{ site.data.evidence_tier_facts.high.by_level.L1 }}**, L2 **{{ site.data.evidence_tier_facts.high.by_level.L2 }}**.
+Quota mediana dei livelli L1–L2 nei 30 siti TxGNN: {{ site.data.evidence_tier_facts.high.cross.median_share }}%. {% if ev_share > site.data.evidence_tier_facts.high.cross.median_share %}Questo sito è sopra la mediana.{% elsif ev_share < site.data.evidence_tier_facts.high.cross.median_share %}Questo sito è sotto la mediana.{% else %}Questo sito è alla mediana.{% endif %}
+
+{% if site.data.evidence_tier_facts.high.count > 0 %}
+Nei dati locali (confezioni AIFA (AIC)), **{{ site.data.evidence_tier_facts.high.with_current }}** di questi medicinali hanno almeno una confezione autorizzate, **{{ site.data.evidence_tier_facts.high.none_current }}** hanno confezioni ma nessuna autorizzate e **{{ site.data.evidence_tier_facts.high.without_data }}** non figurano nei dati locali. **{{ site.data.evidence_tier_facts.high.with_reviews }}** hanno voci nel registro delle verifiche (correzioni dei dati regolatori nella pagina del medicinale). **{{ site.data.evidence_tier_facts.high.cross.unique_drugs }}** hanno un'indicazione prevista che nessun altro sito TxGNN riporta per lo stesso medicinale.
+{% if site.data.evidence_tier_facts.high.none_current_list.size > 0 %}
+
+Con confezioni, ma nessuna autorizzate: {% for r in site.data.evidence_tier_facts.high.none_current_list %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}.{% endif %}
+{% endif %}
+
+Definizione di tutti i livelli: [Metodologia]({{ '/methodology/' | relative_url }}).
+<!-- tier-facts:end -->
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Candidati che possono essere considerati prioritari per la valutazione clinica
@@ -33,19 +43,27 @@ Quali di questi farmaci hanno evidenze da studi per la nuova indicazione previst
 {% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 {% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
-### L1 ({{ l1_drugs.size }} farmaci)
+### L1 ({{ site.data.evidence_tier_facts.high.by_level.L1 }} farmaci)
 
-| Farmaco | Indicazioni | Collegamento |
-|---------|---------|------|
-{% for drug in l1_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [Vedi la scheda]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:start L1（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
 
-### L2 ({{ l2_drugs.size }} farmaci)
+| Medicinale | Livello | Principale nuova indicazione prevista | confezioni AIFA (AIC): autorizzate / totale | Registro verifiche | Solo su questo sito |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.high.rows %}{% if r.l == "L1" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}sì ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
 
-| Farmaco | Indicazioni | Collegamento |
-|---------|---------|------|
-{% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [Vedi la scheda]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:end -->
+
+### L2 ({{ site.data.evidence_tier_facts.high.by_level.L2 }} farmaci)
+
+<!-- tier-table:start L2（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+
+| Medicinale | Livello | Principale nuova indicazione prevista | confezioni AIFA (AIC): autorizzate / totale | Registro verifiche | Solo su questo sito |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.high.rows %}{% if r.l == "L2" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}sì ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
+
+<!-- tier-table:end -->
 
 ---
 

@@ -14,25 +14,25 @@ Ogni conclusione è riconducibile a una fonte di dati pubblica — nulla è una 
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## Italia: dati di questo sito
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## Italia: cosa coprono i dati locali
 
-Questo sito pubblica rapporti su **{{ site.data.drug_stats.total_drugs }}** medicinali presenti nelle [liste AIFA dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h) (Italia); la classe C non è inclusa.
+Dati locali: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h). I dati locali sono le confezioni AIFA (codici AIC a 9 cifre) delle liste di classe A e H, verificate sul registro delle confezioni autorizzate. Un AIC che non figura più nel registro non è contato come autorizzato; la classe C non è inclusa.
 
-Rapporti per livello di evidenza:
+| Voce | Valore |
+|---|---|
+| Medicinali presenti nei dati locali | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …con almeno una confezione autorizzate | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …con confezioni, ma nessuna autorizzate | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Medicinali assenti dai dati locali | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Voci locali (confezioni AIFA (AIC)) | {{ site.data.local_facts.licence.items_total }} |
+| …di cui autorizzate | {{ site.data.local_facts.licence.items_current }} |
 
-| Livello di evidenza | Rapporti | Quota |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.no_current.size > 0 %}Medicinali con confezioni AIFA (AIC) in questi dati, ma nessuna autorizzate: {% for r in site.data.local_facts.no_current %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% if site.data.local_facts.no_current_more > 0 %}, e altri {{ site.data.local_facts.no_current_more }}{% endif %}{% endif %}
 
-45 coppie farmaco–malattia previste su questo sito non compaiono in nessun altro dei 30 siti TxGNN.
+{% if site.data.local_facts.recent_licence_reviews.size > 0 %}Ultime correzioni dei dati regolatori locali: {% for r in site.data.local_facts.recent_licence_reviews %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Panoramica delle fonti
 

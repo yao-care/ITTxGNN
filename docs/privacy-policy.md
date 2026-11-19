@@ -48,11 +48,32 @@ ClinicalTrials.gov.
 
 ---
 
-## Diritti dell'interessato
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Normativa applicabile
 
-Questo sito non ha account e non conserva dati personali su server propri (non ne ha). Le statistiche di utilizzo sono
-raccolte da Google Analytics 4; puoi bloccare o eliminare i suoi cookie nelle impostazioni del browser.
-Per domande su questa informativa, scrivere a service@yao.care.
+Per i visitatori in Italia si applicano il [Regolamento generale sulla protezione dei dati (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj) e il [Codice in materia di protezione dei dati personali (d.lgs. 196/2003)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196); i cookie analitici rientrano anche nell'art. 122 del Codice. L'autorità di controllo è il [Garante per la protezione dei dati personali](https://www.garanteprivacy.it/). Il titolare ha sede a Taiwan e non ha stabilimenti nell'UE; il trattamento riguarda i dati di utilizzo raccolti da Google Analytics 4 tramite cookie.
+
+## I vostri diritti e come esercitarli
+
+- Diritto di accesso (art. 15) e di rettifica (art. 16).
+- Diritto alla cancellazione (art. 17) e alla limitazione (art. 18).
+- Diritto di opposizione (art. 21), anche all'analisi statistica.
+- Diritto di proporre reclamo al Garante (art. 77).
+
+Richieste e domande: service@yao.care. Poiché il sito non ha account, possiamo intervenire sui dati di Google Analytics solo se ci fornite dettagli sufficienti (ad esempio data e pagine della visita); potete anche bloccare o cancellare i cookie analitici nel browser.
+
+## Diritto d'autore e fonti dei dati
+
+I testi del sito sono protetti dalla [legge sul diritto d'autore (L. 633/1941)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633). Il codice del sito è pubblicato con licenza MIT nel [repository GitHub](https://github.com/yao-care/ITTxGNN); i testi dei rapporti sono © 藥提醒科技有限公司 (yao.care).
+
+Fonti dei dati di questo sito e relative condizioni:
+
+- Dati di previsione **TxGNN** (Harvard Dataverse): dedicati al pubblico dominio (CC0 1.0); citare Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov** e **PubMed**: National Library of Medicine degli Stati Uniti; si vedano le [condizioni di ClinicalTrials.gov](https://clinicaltrials.gov/about-site/terms-conditions) e le [politiche NCBI](https://www.ncbi.nlm.nih.gov/home/about/policies/) (alcuni abstract di PubMed restano protetti dal diritto d'autore dell'editore).
+- Identificativi e dati **DrugBank**: secondo i termini di licenza di [DrugBank](https://go.drugbank.com/) (uso non commerciale).
+- **Set di dati locale**: [AIFA: liste dei farmaci di classe A e H](https://www.aifa.gov.it/en/liste-farmaci-a-h), pubblicato da Agenzia Italiana del Farmaco (AIFA); il riutilizzo è regolato dalle condizioni dell'editore e questo sito non concede ulteriori diritti.
+
+<!-- privacy-law:end -->
 
 ---
 

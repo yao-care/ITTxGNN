@@ -1,0 +1,433 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 437,
+ "level_counts": {
+  "L1": 7,
+  "L2": 13,
+  "L3": 17,
+  "L4": 24,
+  "L5": 358
+ },
+ "level_na": 18,
+ "public_pages": 437,
+ "licence_snapshot": "it_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 344,
+  "drugs_with_current": 342,
+  "drugs_none_current": 2,
+  "drugs_without_data": 93,
+  "drugs_partial": 0,
+  "items_total": 1871,
+  "items_current": 1822
+ },
+ "reviews": {
+  "records": 522,
+  "pages": 270,
+  "public_pages_with_records": 265,
+  "by_action": {
+   "annotate": 3,
+   "correct": 519
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 437,
+  "clinical_use_definition": 2485
+ },
+ "top_licensed": [
+  {
+   "t": "Fluticasone",
+   "u": "/drugs/fluticasone/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 1,
+   "i": "Emicrania"
+  },
+  {
+   "t": "Rasagiline",
+   "u": "/drugs/rasagiline/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 1,
+   "i": "Neurodegenerazione associata a PLA2G6"
+  },
+  {
+   "t": "Tapentadol",
+   "u": "/drugs/tapentadol/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "Disturbo emicranico"
+  },
+  {
+   "t": "Buprenorphine",
+   "u": "/drugs/buprenorphine/",
+   "l": "L5",
+   "lt": 18,
+   "lv": 18,
+   "r": 0,
+   "i": "porfiria acuta intermittente"
+  },
+  {
+   "t": "Entecavir",
+   "u": "/drugs/entecavir/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 18,
+   "r": 1,
+   "i": "Infezione cronica da virus dell'epatite C"
+  },
+  {
+   "t": "Flecainide",
+   "u": "/drugs/flecainide/",
+   "l": "L2",
+   "lt": 18,
+   "lv": 18,
+   "r": 3,
+   "i": "Ictus"
+  },
+  {
+   "t": "Piperacillin",
+   "u": "/drugs/piperacillin/",
+   "l": "L5",
+   "lt": 18,
+   "lv": 18,
+   "r": 2,
+   "i": "rheumatoid arthritis"
+  },
+  {
+   "t": "Tadalafil",
+   "u": "/drugs/tadalafil/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 18,
+   "r": 4,
+   "i": "Ipertricosi universale congenita di tipo Ambras"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Atomoxetine",
+   "u": "/drugs/atomoxetine/",
+   "l": "L5",
+   "lt": 5,
+   "lv": 0,
+   "r": 1,
+   "i": "Disturbo specifico dello sviluppo"
+  },
+  {
+   "t": "Lenograstim",
+   "u": "/drugs/lenograstim/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 3,
+   "i": "primary release disorder of platelets"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Gemfibrozil",
+   "u": "/drugs/gemfibrozil/",
+   "l": "L4",
+   "lt": 7,
+   "lv": 6,
+   "r": 4,
+   "i": "Artrite reumatoide"
+  },
+  {
+   "t": "Ketorolac",
+   "u": "/drugs/ketorolac/",
+   "l": "L1",
+   "lt": 13,
+   "lv": 11,
+   "r": 4,
+   "i": "Disturbo da cefalea"
+  },
+  {
+   "t": "Tadalafil",
+   "u": "/drugs/tadalafil/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 18,
+   "r": 4,
+   "i": "Ipertricosi universale congenita di tipo Ambras"
+  },
+  {
+   "t": "Urofollitropin",
+   "u": "/drugs/urofollitropin/",
+   "l": "L5",
+   "lt": 8,
+   "lv": 8,
+   "r": 4,
+   "i": "Emicrania"
+  },
+  {
+   "t": "Acitretin",
+   "u": "/drugs/acitretin/",
+   "l": "L4",
+   "lt": 4,
+   "lv": 4,
+   "r": 3,
+   "i": "acne (disease)"
+  },
+  {
+   "t": "Bacampicillin",
+   "u": "/drugs/bacampicillin/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 3,
+   "i": "Epiglottite"
+  }
+ ],
+ "example": {
+  "t": "Ketorolac",
+  "u": "/drugs/ketorolac/",
+  "l": "L1",
+  "lt": 13,
+  "lv": 11,
+  "r": 4,
+  "i": "Disturbo da cefalea"
+ },
+ "recent_reviews": [
+  {
+   "t": "Quinapril",
+   "u": "/drugs/quinapril/",
+   "s": "Tabella: la confezione 037301227 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Misoprostol",
+   "u": "/drugs/misoprostol/",
+   "s": "Tabella: la confezione 029316041 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Gemfibrozil",
+   "u": "/drugs/gemfibrozil/",
+   "s": "Tabella: la confezione 026737039 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Atomoxetine",
+   "u": "/drugs/atomoxetine/",
+   "s": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "«18 autorizzazioni valide» → 17 valide su 18",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Meloxicam",
+   "u": "/drugs/meloxicam/",
+   "s": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Ketorolac",
+   "u": "/drugs/ketorolac/",
+   "s": "«13 autorizzazioni valide su 13» → 11 su 13",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Fluvastatin",
+   "u": "/drugs/fluvastatin/",
+   "s": "«8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Entecavir",
+   "u": "/drugs/entecavir/",
+   "s": "«tutte le 20 autorizzazioni risultano valide» → 18 valide su 20",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Doxazosina",
+   "u": "/drugs/doxazosina/",
+   "s": "«almeno 20 autorizzazioni…, tutte valide» → 2 delle 20 raccolte non più autorizzate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Lenograstim",
+   "u": "/drugs/lenograstim/",
+   "s": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Abacavir",
+   "u": "/drugs/abacavir/",
+   "s": "«Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide",
+   "d": "2026-11-16"
+  },
+  {
+   "t": "Norfloxacin",
+   "u": "/drugs/norfloxacin/",
+   "s": "Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Levonorgestrel",
+   "u": "/drugs/levonorgestrel/",
+   "s": "Tabella: la confezione 036489019 è autorizzata, non revocata",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zuclopenthixol",
+   "u": "/drugs/zuclopenthixol/",
+   "s": "Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zonisamide",
+   "u": "/drugs/zonisamide/",
+   "s": "Rimosso: «Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate)»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "Rimosso: «dato che l'autorizzazione è revocata»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Voxilaprevir",
+   "u": "/drugs/voxilaprevir/",
+   "s": "Rimosso: «e l'unica autorizzazione italiana è cancellata»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vinorelbine",
+   "u": "/drugs/vinorelbine/",
+   "s": "Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi…",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente…",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Verapamil",
+   "u": "/drugs/verapamil/",
+   "s": "Rimosso: «(autorizzazioni tutte cancellate)»",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Velpatasvir",
+   "u": "/drugs/velpatasvir/",
+   "s": "Rimosso: «(autorizzazioni attualmente cancellate)»",
+   "d": "2026-11-06"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Quinapril",
+   "u": "/drugs/quinapril/",
+   "s": "Tabella: la confezione 037301227 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Misoprostol",
+   "u": "/drugs/misoprostol/",
+   "s": "Tabella: la confezione 029316041 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Gemfibrozil",
+   "u": "/drugs/gemfibrozil/",
+   "s": "Tabella: la confezione 026737039 non è più autorizzata",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Atomoxetine",
+   "u": "/drugs/atomoxetine/",
+   "s": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "«18 autorizzazioni valide» → 17 valide su 18",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Meloxicam",
+   "u": "/drugs/meloxicam/",
+   "s": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Ketorolac",
+   "u": "/drugs/ketorolac/",
+   "s": "«13 autorizzazioni valide su 13» → 11 su 13",
+   "d": "2026-11-17"
+  }
+ ],
+ "files": {
+  "search_index": 437,
+  "drugs_json": 437
+ },
+ "by_level": {
+  "L1": {
+   "n": 7,
+   "current": 7
+  },
+  "L2": {
+   "n": 13,
+   "current": 13
+  },
+  "L3": {
+   "n": 17,
+   "current": 17
+  },
+  "L4": {
+   "n": 24,
+   "current": 24
+  },
+  "L5": {
+   "n": 358,
+   "current": 356
+  }
+ },
+ "cross": {
+  "unique_pairs": 4,
+  "unique_examples": [
+   {
+    "t": "Ebastina",
+    "u": "/drugs/ebastina/",
+    "i": "Coronaropatia"
+   },
+   {
+    "t": "Gliquidone",
+    "u": "/drugs/gliquidone/",
+    "i": "Sindrome dell'arto rigido focale"
+   }
+  ]
+ }
+}
