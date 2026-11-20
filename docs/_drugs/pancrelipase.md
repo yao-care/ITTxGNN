@@ -54,7 +54,7 @@ La pancrelipase è una miscela di enzimi pancreatici (lipasi, proteasi, amilasi)
 
 ## Perché questa previsione è (poco) ragionevole?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Pancrelipase è (traduzione non ufficiale): «Enzima idrolitico degli acidi grassi; enzima idrolitico dell'amido; enzima idrolitico dei polipeptidi» Testo originale in inglese: "Fatty acids hydrolytic enzyme; Starch hydrolytic enzyme; Polypeptides hydrolytic enzyme" ([ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074), CC BY-SA 3.0; consultato il 2026-11-19). Si sa che la pancrelipase è una miscela di enzimi digestivi somministrata per via orale, che agisce localmente nel lume intestinale con assorbimento sistemico trascurabile.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Pancrelipase è (traduzione non ufficiale): «Enzima idrolitico degli acidi grassi; enzima idrolitico dell'amido; enzima idrolitico dei polipeptidi». Testo originale in inglese: "Fatty acids hydrolytic enzyme; Starch hydrolytic enzyme; Polypeptides hydrolytic enzyme" ([ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074), CC BY-SA 3.0; consultato il 2026-11-19). Si sa che la pancrelipase è una miscela di enzimi digestivi somministrata per via orale, che agisce localmente nel lume intestinale con assorbimento sistemico trascurabile.
 
 Le malattie della fosforilazione ossidativa mitocondriale da difetti genici nucleari compromettono la catena respiratoria all'interno della cellula. Un enzima digestivo non assorbito non può plausibilmente agire su questo bersaglio. L'unico beneficio concepibile sarebbe un supporto nutrizionale in caso di malassorbimento, che non modifica il decorso della malattia.
 
@@ -136,7 +136,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(tutte le licenze sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
 
 <!-- review:end log -->
 

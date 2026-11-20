@@ -58,7 +58,7 @@ Pibrentasvir è un inibitore della proteina virale NS5A, usato in combinazione c
 
 ## Perché questa previsione è plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Pibrentasvir è (traduzione non ufficiale): «Inibitore della proteina non strutturale 5A» Testo originale in inglese: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, pibrentasvir è un inibitore di NS5A, componente della combinazione glecaprevir/pibrentasvir (Maviret), la cui efficacia nell'epatite C è documentata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Pibrentasvir è (traduzione non ufficiale): «Inibitore della proteina non strutturale 5A». Testo originale in inglese: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, pibrentasvir è un inibitore di NS5A, componente della combinazione glecaprevir/pibrentasvir (Maviret), la cui efficacia nell'epatite C è documentata.
 
 Per l'epatite B, però, il collegamento meccanicistico è debole. HBV non possiede un omologo di NS5A, quindi il farmaco non ha un bersaglio antivirale diretto noto. Il punteggio elevato è probabilmente dovuto alla prossimità, nella rete di conoscenza, con altri termini di epatite virale, più che a un meccanismo reale.
 
@@ -135,7 +135,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
 
 <!-- review:end log -->
 

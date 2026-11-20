@@ -55,7 +55,7 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **congiuntivite 
 
 ## Perché questa previsione è plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Sulfamethoxazole è (traduzione non ufficiale): «Inibitore della diidropteroato sintasi batterica» Testo originale in inglese: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze generali, il sulfametossazolo inibisce la diidropteroato sintasi batterica, bloccando la sintesi dei folati. È un meccanismo antibatterico compatibile con le congiuntiviti di origine batterica.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Sulfamethoxazole è (traduzione non ufficiale): «Inibitore della diidropteroato sintasi batterica». Testo originale in inglese: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze generali, il sulfametossazolo inibisce la diidropteroato sintasi batterica, bloccando la sintesi dei folati. È un meccanismo antibatterico compatibile con le congiuntiviti di origine batterica.
 
 Va però chiarito un punto importante: il punteggio elevato (0,9963) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica. Inoltre il farmaco si usa in associazione fissa con il trimetoprim, quindi un'eventuale attività non può essere attribuita al solo sulfametossazolo.
 
@@ -116,7 +116,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ ma al momento **non esistono studi clinici né pubblicazioni** a supporto di que
 
 ## Perché questa previsione è plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Moxonidine è (traduzione non ufficiale): «Agonista della nischarina» Testo originale in inglese: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni di farmacologia disponibili, la moxonidina è un agonista dei recettori α2-adrenergici (con legame ai sottotipi α2A, α2B e α2C) e, secondo la letteratura generale, agisce anche sui recettori imidazolinici I1: riduce il tono simpatico centrale e quindi la pressione arteriosa.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Moxonidine è (traduzione non ufficiale): «Agonista della nischarina». Testo originale in inglese: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni di farmacologia disponibili, la moxonidina è un agonista dei recettori α2-adrenergici (con legame ai sottotipi α2A, α2B e α2C) e, secondo la letteratura generale, agisce anche sui recettori imidazolinici I1: riduce il tono simpatico centrale e quindi la pressione arteriosa.
 
 Per quanto riguarda l'ipotricosi semplice del cuoio capelluto, non è stato individuato alcun legame meccanicistico plausibile con la biologia del follicolo pilifero o con i geni delle ipotricosi ereditarie. L'elevato punteggio del modello TxGNN (deep learning), pari a 0,9995, può riflettere similarità apprese dal modello tra malattie correlate e non costituisce un'evidenza biologica. Il rapporto di similarità con l'indicazione originale non è stato valutato.
 
@@ -130,7 +130,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
 
 <!-- review:end log -->
 

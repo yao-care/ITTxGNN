@@ -54,7 +54,7 @@ La corifollitropina alfa è un analogo ricombinante a lunga durata d'azione dell
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Corifollitropin Alfa è (traduzione non ufficiale): «Agonista del recettore dell'ormone follicolo-stimolante» Testo originale in inglese: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, la corifollitropina alfa è una proteina di fusione tra la subunità beta dell'FSH e il peptide carbossi-terminale della beta-hCG, che agisce sui recettori dell'FSH nel tessuto gonadico.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Corifollitropin Alfa è (traduzione non ufficiale): «Agonista del recettore dell'ormone follicolo-stimolante». Testo originale in inglese: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, la corifollitropina alfa è una proteina di fusione tra la subunità beta dell'FSH e il peptide carbossi-terminale della beta-hCG, che agisce sui recettori dell'FSH nel tessuto gonadico.
 
 Non è stato identificato alcun legame meccanicistico plausibile con l'infiammazione della mucosa gastroduodenale: il coinvolgimento del recettore dell'FSH in questa patologia non è stabilito. Il punteggio elevato riflette verosimilmente una vicinanza nella rete di relazioni usata dal modello, più che una base biologica reale. La previsione va quindi considerata con grande cautela.
 
@@ -98,7 +98,7 @@ Di seguito il registro delle verifiche di questa pagina. La frase secondo cui no
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185) |
 
 <!-- review:end log -->
 

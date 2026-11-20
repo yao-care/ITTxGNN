@@ -55,7 +55,7 @@ Il modello TxGNN (deep learning) lo indica come possibile candidato per la **sin
 
 ## Perché questa previsione è (poco) plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Vildagliptin è (traduzione non ufficiale): «Inibitore della dipeptidil peptidasi IV» Testo originale in inglese: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, vildagliptin appartiene alla classe degli inibitori della DPP-4, la sua efficacia nel diabete di tipo 2 è consolidata e agisce aumentando i livelli di GLP-1 e GIP attivi.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Vildagliptin è (traduzione non ufficiale): «Inibitore della dipeptidil peptidasi IV». Testo originale in inglese: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, vildagliptin appartiene alla classe degli inibitori della DPP-4, la sua efficacia nel diabete di tipo 2 è consolidata e agisce aumentando i livelli di GLP-1 e GIP attivi.
 
 La sindrome della persona rigida è un disturbo neurologico autoimmune, tipicamente associato agli anticorpi anti-GAD65. Non è stato stabilito alcun meccanismo plausibile che colleghi l'inibizione della DPP-4 a questa malattia. Eventuali effetti immunomodulatori di vildagliptin in questo contesto sono puramente speculativi.
 
@@ -114,7 +114,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->
 

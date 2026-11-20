@@ -59,7 +59,7 @@ Il modello TxGNN lo predice come potenzialmente efficace per l'**infezione da vi
 
 ## Perché questa predizione è plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Voxilaprevir è (traduzione non ufficiale): «Inibitore della serina proteasi NS3/NS4A del virus dell'epatite C» Testo originale in inglese: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, voxilaprevir è un inibitore della proteasi NS3/4A di HCV, parte dell'associazione sofosbuvir/velpatasvir/voxilaprevir, la cui efficacia nell'epatite C è documentata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Voxilaprevir è (traduzione non ufficiale): «Inibitore della serina proteasi NS3/NS4A del virus dell'epatite C». Testo originale in inglese: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, voxilaprevir è un inibitore della proteasi NS3/4A di HCV, parte dell'associazione sofosbuvir/velpatasvir/voxilaprevir, la cui efficacia nell'epatite C è documentata.
 
 Dal punto di vista meccanicistico, tuttavia, il collegamento con l'epatite B è debole. HBV non codifica una proteasi simile a NS3/4A (utilizza una trascrittasi inversa/polimerasi e la proteina del core), quindi non esiste un bersaglio omologo. L'elevato punteggio TxGNN riflette verosimilmente la vicinanza nella rete tra virus epatitici, più che un bersaglio farmacologico condiviso.
 
@@ -139,7 +139,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
 
 <!-- review:end log -->
 

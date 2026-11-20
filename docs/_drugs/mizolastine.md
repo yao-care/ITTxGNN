@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere efficace per la **porfiria acuta inter
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Mizolastine è (traduzione non ufficiale): «Antagonista del recettore H1 dell'istamina» Testo originale in inglese: "Histamine H1 receptor antagonist" ([ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454), CC BY-SA 3.0; consultato il 2026-11-19). Dai dati compilati per questo report, la mizolastina è un antagonista del recettore H1 dell'istamina (gene bersaglio HRH1), con efficacia nelle riniti allergiche e vasomotorie.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Mizolastine è (traduzione non ufficiale): «Antagonista del recettore H1 dell'istamina». Testo originale in inglese: "Histamine H1 receptor antagonist" ([ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454), CC BY-SA 3.0; consultato il 2026-11-19). Dai dati compilati per questo report, la mizolastina è un antagonista del recettore H1 dell'istamina (gene bersaglio HRH1), con efficacia nelle riniti allergiche e vasomotorie.
 
 Sulla base dei dati forniti, **non emerge alcun legame meccanicistico** tra l'antagonismo H1 e la porfiria acuta intermittente, che è un disturbo della biosintesi dell'eme. Il punteggio TxGNN (0,9976) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica. Inoltre, la sicurezza degli antistaminici nei pazienti con porfiria è di per sé un aspetto che richiederebbe una valutazione separata.
 
@@ -117,7 +117,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha autorizzazioni valide in Italia (l'unica è cancellata) e mancano i dati di sicurezza del foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454) |
 
 <!-- review:end log -->
 

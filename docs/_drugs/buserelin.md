@@ -54,7 +54,7 @@ Buserelin è un agonista del recettore GnRH, utilizzato per il trattamento del c
 
 ## Perché questa previsione è ragionevole?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Buserelin è (traduzione non ufficiale): «Agonista del recettore dell'ormone di rilascio delle gonadotropine» Testo originale in inglese: "Gonadotropin-releasing hormone receptor agonist" ([ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, buserelin è un agonista del recettore GnRH (GNRHR): sopprime l'asse ipofisi-gonadi e riduce i livelli di ormoni sessuali. Questo spiega l'uso nel carcinoma della prostata ormono-dipendente.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Buserelin è (traduzione non ufficiale): «Agonista del recettore dell'ormone di rilascio delle gonadotropine». Testo originale in inglese: "Gonadotropin-releasing hormone receptor agonist" ([ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, buserelin è un agonista del recettore GnRH (GNRHR): sopprime l'asse ipofisi-gonadi e riduce i livelli di ormoni sessuali. Questo spiega l'uso nel carcinoma della prostata ormono-dipendente.
 
 Il legame con l'ipertricosi è plausibile ma indiretto. Alcune forme di ipertricosi sono sensibili agli androgeni, quindi una riduzione della segnalazione androgenica potrebbe avere un effetto. Tuttavia, molte forme (congenite o sindromiche, come la sindrome di Cantú) dipendono da meccanismi genetici non androgenici, ad esempio varianti dei canali del potassio ABCC9/KCNJ8, per i quali la soppressione del GnRH non ha una motivazione chiara.
 
@@ -138,7 +138,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824) |
 
 <!-- review:end log -->
 

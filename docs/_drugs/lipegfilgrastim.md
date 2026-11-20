@@ -60,7 +60,7 @@ Nota: i dati compilati per questo report non riportano il testo dell'indicazione
 
 ## Perché questa previsione potrebbe essere plausibile?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Lipegfilgrastim è (traduzione non ufficiale): «Agonista del recettore del fattore stimolante le colonie granulocitarie» Testo originale in inglese: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230), CC BY-SA 3.0; consultato il 2026-11-19). Lipegfilgrastim appartiene alla classe dei G-CSF pegilati, che agiscono sul recettore del G-CSF delle cellule mieloidi stimolando la proliferazione e la differenziazione dei neutrofili.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Lipegfilgrastim è (traduzione non ufficiale): «Agonista del recettore del fattore stimolante le colonie granulocitarie». Testo originale in inglese: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230), CC BY-SA 3.0; consultato il 2026-11-19). Lipegfilgrastim appartiene alla classe dei G-CSF pegilati, che agiscono sul recettore del G-CSF delle cellule mieloidi stimolando la proliferazione e la differenziazione dei neutrofili.
 
 Il disturbo primario di rilascio piastrinico è invece un difetto qualitativo della funzione piastrinica (alterata secrezione dei granuli e della segnalazione). **Non esiste un legame meccanicistico noto** tra la segnalazione del recettore del G-CSF e le vie di secrezione piastrinica. L'elevato punteggio TxGNN (0,9993) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica, senza conferma clinica.
 
@@ -137,7 +137,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni disponibili sono entrambe cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL4594230 (lipegfilgrastim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594230) |
 
 <!-- review:end log -->
 

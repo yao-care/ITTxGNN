@@ -54,7 +54,7 @@ Glecaprevir è un inibitore della proteasi NS3/4A del virus dell'epatite C (HCV)
 
 ## Perché questa previsione è ragionevole (o no)?
 
-Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Glecaprevir è (traduzione non ufficiale): «Inibitore della serina proteasi NS3/NS4A del virus dell'epatite C» Testo originale in inglese: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; consultato il 2026-11-19). Glecaprevir è noto come inibitore della proteasi NS3/4A dell'HCV, e non ha un'attività accertata contro la proteasi dell'HIV né contro altri bersagli del virus.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Glecaprevir è (traduzione non ufficiale): «Inibitore della serina proteasi NS3/NS4A del virus dell'epatite C». Testo originale in inglese: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363), CC BY-SA 3.0; consultato il 2026-11-19). Glecaprevir è noto come inibitore della proteasi NS3/4A dell'HCV, e non ha un'attività accertata contro la proteasi dell'HIV né contro altri bersagli del virus.
 
 Il punteggio elevato riflette verosimilmente la vicinanza, nella rete di relazioni del modello, tra HIV e HCV e tra le classi di inibitori della proteasi impiegate nelle due infezioni. Le due infezioni sono frequentemente associate (co-infezione), ma i meccanismi virali sono diversi: i dati attuali sostengono un trattamento sicuro ed efficace dell'epatite C nelle persone che vivono con HIV, non un'azione anti-HIV. Qualsiasi ipotesi di riposizionamento per l'HIV in sé non è supportata dalle evidenze.
 
@@ -129,7 +129,7 @@ Di seguito il registro delle verifiche di questa pagina. La frase secondo cui no
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL3545363 (glecaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545363) |
 
 <!-- review:end log -->
 
