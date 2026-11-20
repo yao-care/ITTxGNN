@@ -56,7 +56,7 @@ Il supporto è però debole: **nessuno studio clinico registrato** e **20 pubbli
 
 ## Perché questa predizione è plausibile?
 
-Nei dati compilati per questo report il meccanismo d'azione originale non è disponibile. In base alle conoscenze generali, l'itraconazolo inibisce la lanosterolo 14-alfa-demetilasi fungina (CYP51), bloccando la sintesi dell'ergosterolo, componente essenziale della membrana dei funghi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Itraconazole (traduzione non ufficiale): «Studi in vitro hanno dimostrato che itraconazolo inibisce la sintesi dell'ergosterolo dipendente dal citocromo P450, che è un componente vitale delle membrane cellulari fungine.» Testo originale in inglese: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), versione del 2026-07-13; consultato il 2026-11-19). In base alle conoscenze generali, l'itraconazolo inibisce la lanosterolo 14-alfa-demetilasi fungina (CYP51), bloccando la sintesi dell'ergosterolo, componente essenziale della membrana dei funghi.
 
 Qui sta il punto critico: *Pneumocystis jirovecii* non possiede ergosterolo nella membrana e utilizza invece colesterolo. Il meccanismo azolico non è quindi biologicamente ben adatto a questo organismo. Il punteggio elevato di TxGNN riflette probabilmente la vicinanza, nella rete di conoscenza, ad altre indicazioni fungine (istoplasmosi, aspergillosi, candidosi) più che un meccanismo validato.
 
@@ -138,13 +138,14 @@ I dati di sicurezza tratti dal foglio illustrativo AIFA non sono disponibili; si
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->
 

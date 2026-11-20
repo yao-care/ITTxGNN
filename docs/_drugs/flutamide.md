@@ -55,7 +55,7 @@ Il modello TxGNN prevede una possibile efficacia per **suscettibilità al carcin
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze note, flutamide è un antagonista del recettore degli androgeni (tramite il metabolita idrossiflutamide), la cui efficacia nel carcinoma prostatico è consolidata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Flutamide è (traduzione non ufficiale): «Antagonista del recettore degli androgeni» Testo originale in inglese: "Androgen Receptor antagonist" ([ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze note, flutamide è un antagonista del recettore degli androgeni (tramite il metabolita idrossiflutamide), la cui efficacia nel carcinoma prostatico è consolidata.
 
 La "suscettibilità genetica" non è uno stato patologico trattabile, ma una predisposizione: non esiste quindi una vera indicazione terapeutica distinta da valutare.
 
@@ -120,11 +120,12 @@ La previsione ha un punteggio TxGNN elevato ma nessuno studio clinico né pubbli
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e il profilo di epatotossicità sfavorisce nuovi sviluppi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806) |
 
 <!-- review:end log -->
 

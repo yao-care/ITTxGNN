@@ -58,7 +58,7 @@ Dupilumab è un anticorpo monoclonale che blocca il recettore alfa dell'interleu
 
 ## Perché questa predizione è plausibile?
 
-Dupilumab si lega alla subunità IL-4Rα e blocca la segnalazione di IL-4 e IL-13, due citochine centrali nell'infiammazione di tipo 2. Questo meccanismo è descritto nella letteratura sul farmaco. Nei dati compilati per questo report non è disponibile una scheda dettagliata del meccanismo d'azione.
+Dupilumab si lega alla subunità IL-4Rα e blocca la segnalazione di IL-4 e IL-13, due citochine centrali nell'infiammazione di tipo 2. Questo meccanismo è descritto nella letteratura sul farmaco. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Dupilumab (traduzione non ufficiale): «Dupilumab è un anticorpo monoclonale umano IgG4 che inibisce la segnalazione dell'interleuchina-4 (IL-4) e dell'interleuchina-13 (IL-13) legandosi specificamente alla subunità IL-4Rα condivisa dai complessi recettoriali di IL-4 e IL-13. Dupilumab inibisce la segnalazione di IL-4 tramite il recettore di tipo I e la segnalazione sia di IL-4 sia di IL-13 tramite il recettore di tipo II.» Testo originale in inglese: "Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor." ([DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780), versione del 2026-04-22; consultato il 2026-11-19).
 
 La dermatite atopica e alcune malattie delle vie aeree condividono la stessa infiammazione di tipo 2. Per questo il blocco di IL-4/IL-13 è razionale anche in patologie respiratorie come asma di tipo 2, BPCO con fenotipo eosinofilo e bronchite plastica eosinofila pediatrica. La letteratura raccolta riguarda soprattutto asma e BPCO. Una serie di casi in uso compassionevole (12 pazienti con BPCO di tipo 2) comprende anche un fenotipo prevalente di bronchite cronica.
 
@@ -150,13 +150,14 @@ Il punteggio TxGNN è molto alto e il meccanismo di infiammazione di tipo 2 è c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni del prodotto (DUPIXENT, titolare SANOFI WINTHROP INDUSTRIE) risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane risultano inoltre cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
 
 <!-- review:end log -->
 

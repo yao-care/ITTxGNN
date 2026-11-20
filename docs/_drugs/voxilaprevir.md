@@ -59,7 +59,7 @@ Il modello TxGNN lo predice come potenzialmente efficace per l'**infezione da vi
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per il farmaco. Sulla base delle informazioni note, voxilaprevir è un inibitore della proteasi NS3/4A di HCV, parte dell'associazione sofosbuvir/velpatasvir/voxilaprevir, la cui efficacia nell'epatite C è documentata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Voxilaprevir è (traduzione non ufficiale): «Inibitore della serina proteasi NS3/NS4A del virus dell'epatite C» Testo originale in inglese: "Hepatitis C virus serine protease, NS3/NS4A inhibitor" ([ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, voxilaprevir è un inibitore della proteasi NS3/4A di HCV, parte dell'associazione sofosbuvir/velpatasvir/voxilaprevir, la cui efficacia nell'epatite C è documentata.
 
 Dal punto di vista meccanicistico, tuttavia, il collegamento con l'epatite B è debole. HBV non codifica una proteasi simile a NS3/4A (utilizza una trascrittasi inversa/polimerasi e la proteina del core), quindi non esiste un bersaglio omologo. L'elevato punteggio TxGNN riflette verosimilmente la vicinanza nella rete tra virus epatitici, più che un bersaglio farmacologico condiviso.
 
@@ -134,11 +134,12 @@ La predizione per l'epatite B si basa solo sul modello (L5): non ci sono studi c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL3707372 (voxilaprevir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3707372) |
 
 <!-- review:end log -->
 

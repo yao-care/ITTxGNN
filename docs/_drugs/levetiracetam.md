@@ -60,7 +60,7 @@ Il levetiracetam è un farmaco antiepilettico, originariamente impiegato per l'e
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alla letteratura recuperata, il levetiracetam si lega alla proteina delle vescicole sinaptiche SV2A e modula il rilascio di neurotrasmettitori, riducendo l'iperecitabilità neuronale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Levetiracetam (traduzione non ufficiale): «Il meccanismo o i meccanismi precisi attraverso i quali levetiracetam esercita il suo effetto antiepilettico non sono noti. Per levetiracetam è stato descritto un sito di legame neuronale saturabile e stereoselettivo nel tessuto cerebrale di ratto. I dati sperimentali indicano che questo sito di legame è la proteina delle vescicole sinaptiche SV2A, che si ritiene sia coinvolta nella regolazione dell'esocitosi delle vescicole.» Testo originale in inglese: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), versione del 2026-11-11; consultato il 2026-11-19). In base alla letteratura recuperata, il levetiracetam si lega alla proteina delle vescicole sinaptiche SV2A e modula il rilascio di neurotrasmettitori, riducendo l'iperecitabilità neuronale.
 
 L'epilessia parziale e lo stato epilettico condividono la stessa base fisiopatologica: un'attività neuronale eccessiva e sincronizzata. Uno stato epilettico è una crisi prolungata o ripetuta senza recupero della coscienza; ridurre l'iperecitabilità tramite SV2A è quindi un razionale coerente per interromperlo, in particolare come farmaco di seconda linea dopo le benzodiazepine.
 
@@ -163,12 +163,13 @@ Due studi di fase 3 completati (ESETT, n=478; n=203) e RCT pubblicati su NEJM e 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni AIFA risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei d» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Verificare lo stato regolatorio in Italia: tutte le 20 autorizzazioni sono cancellate, incluso l'uso endovenoso» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
 
 <!-- review:end log -->
 

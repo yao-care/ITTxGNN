@@ -56,7 +56,7 @@ Al momento però **non risultano sperimentazioni cliniche né pubblicazioni** a 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Non sono attualmente disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dai dati farmacologici compilati, la silodosina si lega ai recettori alfa-1A, alfa-1B e alfa-1D, con azione principale sul sottotipo alfa-1A, e viene usata per migliorare il flusso urinario nei pazienti con IPB.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Silodosin (traduzione non ufficiale): «La silodosina è un antagonista selettivo degli adrenocettori alfa-1 post-sinaptici, localizzati nella prostata umana, nella base vescicale, nel collo vescicale, nella capsula prostatica e nell'uretra prostatica. Il blocco di questi adrenocettori alfa-1 può causare il rilassamento della muscolatura liscia di questi tessuti, determinando un miglioramento del flusso urinario e una riduzione dei sintomi dell'IPB.» Testo originale in inglese: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), versione del 2026-10-30; consultato il 2026-11-19). Dai dati farmacologici compilati, la silodosina si lega ai recettori alfa-1A, alfa-1B e alfa-1D, con azione principale sul sottotipo alfa-1A, e viene usata per migliorare il flusso urinario nei pazienti con IPB.
 
 Il legame con la nuova indicazione risulta debole. L'ipertricosi di tipo Ambras è una condizione genetica legata a riarrangiamenti del cromosoma 8q22 che influenzano la regolazione di TRPS1. Non esiste alcun collegamento meccanicistico documentato tra il blocco alfa-1 e questa eziologia. Il punteggio elevato deriva dal modello TxGNN (deep learning) e può riflettere similarità che il modello ha appreso tra malattie correlate, non prove biologiche o cliniche.
 
@@ -129,12 +129,13 @@ La previsione è basata solo sul modello (L5): nessuna sperimentazione, nessuna 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
 
 <!-- review:end log -->
 

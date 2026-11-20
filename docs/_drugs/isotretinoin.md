@@ -58,7 +58,7 @@ Il modello TxGNN prevede un possibile effetto sulla **malattia renale ipertensiv
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. L'isotretinoina è un retinoide utilizzato principalmente nell'acne grave, e le indicazioni ipertensive registrate nel grafo di conoscenza non rappresentano usi clinici stabiliti.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Isotretinoin (traduzione non ufficiale): «L'esatto meccanismo d'azione di Zenatane nel trattamento dell'acne nodulare grave e recalcitrante in pazienti non in gravidanza di età pari o superiore a 12 anni con molteplici noduli infiammatori di diametro pari o superiore a 5 mm che non rispondono alla terapia convenzionale, inclusi gli antibiotici sistemici, non è noto. Isotretinoina, un retinoide, inibisce la funzione delle ghiandole sebacee e la cheratinizzazione.» Testo originale in inglese: "The exact mechanism of action of Zenatane in the treatment of severe recalcitrant nodular acne in nonpregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown. Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization." ([DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee), versione del 2026-09-20; consultato il 2026-11-19). L'isotretinoina è un retinoide utilizzato principalmente nell'acne grave, e le indicazioni ipertensive registrate nel grafo di conoscenza non rappresentano usi clinici stabiliti.
 
 Il segnalamento dei retinoidi è stato studiato in ambito renale e vascolare (ad esempio effetti sui podociti, sull'espressione della renina e sul rimodellamento vascolare), ma si tratta di ipotesi speculative non supportate dai dati compilati per questo report.
 
@@ -125,11 +125,12 @@ Il profilo di sicurezza (teratogenicità, effetti epatici e lipidici, molte inte
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
 
 <!-- review:end log -->
 

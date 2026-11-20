@@ -58,7 +58,7 @@ L'aminofillina (INN: aminophylline) è un derivato della teofillina, antagonista
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. In base alle conoscenze farmacologiche generali, l'aminofillina agisce come antagonista non selettivo dei recettori dell'adenosina e come inibitore delle fosfodiesterasi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Aminophylline (traduzione non ufficiale): «La teofillina esercita due azioni distinte nelle vie aeree dei pazienti con ostruzione reversibile: il rilassamento della muscolatura liscia (cioè broncodilatazione) e la soppressione della risposta delle vie aeree agli stimoli (cioè effetti profilattici non broncodilatatori).» Testo originale in inglese: "Theophylline has two distinct actions in the airways of patients with reversible obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., nonbronchodilator prophylactic effects)." ([DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d), versione del 2026-05-26; consultato il 2026-11-19). In base alle conoscenze farmacologiche generali, l'aminofillina agisce come antagonista non selettivo dei recettori dell'adenosina e come inibitore delle fosfodiesterasi.
 
 La segnalazione dell'adenosina nell'emicrania e nel dolore trigeminovascolare è un possibile punto di contatto. Una rassegna del 2023 (PMID 38059379) discute l'aminofillina nel dolore e nell'emicrania, in particolare nella cefalea post-puntura durale. Un case report su un episodio di emicrania emiplegica scatenato da regadenoson, un agonista A2A dell'adenosina, supporta in modo indiretto un meccanismo mediato dall'adenosina.
 
@@ -143,11 +143,12 @@ L'evidenza per l'emicrania è limitata al livello L4: una rassegna e alcuni case
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è revocata, per cui non c'è una base regolatoria locale attiva» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d) |
 
 <!-- review:end log -->
 

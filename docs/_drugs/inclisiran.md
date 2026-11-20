@@ -54,7 +54,7 @@ Inclisiran è un siRNA che silenzia la sintesi epatica di PCSK9 per ridurre il c
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, inclisiran è un piccolo RNA interferente (siRNA) che riduce la sintesi epatica di PCSK9, con conseguente calo del colesterolo LDL.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Inclisiran (traduzione non ufficiale): «Inclisiran è un acido ribonucleico a doppio filamento a piccola interferenza (siRNA), coniugato sul filamento senso con N-acetilgalattosamina (GalNAc) triantennaria per facilitarne la captazione da parte degli epatociti. Negli epatociti, inclisiran utilizza il meccanismo di interferenza dell'RNA e dirige la degradazione catalitica dell'mRNA per PCSK9.» Testo originale in inglese: "Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9." ([DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44), versione del 2026-08-19; consultato il 2026-11-19). In base alle conoscenze generali, inclisiran è un piccolo RNA interferente (siRNA) che riduce la sintesi epatica di PCSK9, con conseguente calo del colesterolo LDL.
 
 Non emerge alcun legame meccanicistico plausibile tra il silenziamento di PCSK9 e l'omeostasi del potassio. L'elevato punteggio TxGNN (0,9993) è un risultato derivato dal modello e non è sostenuto da alcuno studio clinico o pubblicazione. Va quindi considerato solo un'ipotesi da verificare, non un'indicazione supportata.
 
@@ -105,11 +105,12 @@ La predizione si basa solo sul modello (L5), senza studi né letteratura e senza
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana risulta cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
 
 <!-- review:end log -->
 

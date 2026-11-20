@@ -59,7 +59,7 @@ Il modello TxGNN predice una possibile efficacia per la **forma sintomatica di e
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-Evolocumab inibisce PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9), aumentando la disponibilità dei recettori delle LDL sugli epatociti e riducendo il colesterolo LDL. Nei dati compilati per questa relazione, il campo relativo al meccanismo d'azione dettagliato non è disponibile; la descrizione qui riportata deriva dall'interazione farmacologica con il bersaglio PCSK9.
+Evolocumab inibisce PCSK9 (proproteina convertasi subtilisina/kexina di tipo 9), aumentando la disponibilità dei recettori delle LDL sugli epatociti e riducendo il colesterolo LDL. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Evolocumab (traduzione non ufficiale): «Evolocumab è un anticorpo monoclonale umano IgG2 diretto contro la proproteina convertasi subtilisina/kexina di tipo 9 (PCSK9) umana. La PCSK9 si lega al recettore delle lipoproteine a bassa densità (LDLR) sulla superficie degli epatociti, promuovendo la degradazione dell'LDLR all'interno del fegato.» Testo originale in inglese: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), versione del 2026-10-12; consultato il 2026-11-19).
 
 Il legame con la nuova indicazione non è però supportato. I sintomi emorragici nelle portatrici di emofilia derivano da una ridotta attività del fattore VIII o IX (malattia legata all'X), una via della coagulazione non correlata a PCSK9 o al metabolismo lipidico. L'elevato punteggio TxGNN (0,9982) è una previsione del modello TxGNN (apprendimento profondo), non sostenuta da razionale biologico, studi o pubblicazioni.
 
@@ -126,12 +126,13 @@ La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno st
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->
 

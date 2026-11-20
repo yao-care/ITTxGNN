@@ -54,7 +54,7 @@ La rufinamide è un antiepilettico indicato per la sindrome di Lennox-Gastaut.
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Per i dati compilati per questo report, il meccanismo d'azione dettagliato non è disponibile. In base alle conoscenze generali di farmacologia (non ai dati forniti), la rufinamide modula i canali del sodio voltaggio-dipendenti prolungandone lo stato inattivo, e ha un'attività antiepilettica dimostrata nella sindrome di Lennox-Gastaut, una grave encefalopatia epilettica refrattaria. Un'attività anticonvulsivante in un'altra epilessia grave e refrattaria come la FIRES è quindi plausibile.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rufinamide (traduzione non ufficiale): «Il preciso meccanismo (o i precisi meccanismi) con cui la rufinamide esercita il suo effetto antiepilettico non è noto. I risultati di studi in vitro suggeriscono che il principale meccanismo d'azione della rufinamide sia la modulazione dell'attività dei canali del sodio e, in particolare, il prolungamento dello stato inattivo del canale.» Testo originale in inglese: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), versione del 2022-12-15; consultato il 2026-11-19). In base alle conoscenze generali di farmacologia (non ai dati forniti), la rufinamide modula i canali del sodio voltaggio-dipendenti prolungandone lo stato inattivo, e ha un'attività antiepilettica dimostrata nella sindrome di Lennox-Gastaut, una grave encefalopatia epilettica refrattaria. Un'attività anticonvulsivante in un'altra epilessia grave e refrattaria come la FIRES è quindi plausibile.
 
 Vi è però un limite importante: la FIRES è considerata guidata in larga parte dalla neuroinfiammazione (ad esempio le vie di IL-1 e IL-6), un meccanismo che un bloccante dei canali del sodio difficilmente affronta. Al più potrebbe controllare le crisi in modo sintomatico, senza agire sul processo di fondo.
 
@@ -113,12 +113,13 @@ La previsione si basa solo su un punteggio del modello (livello L5), senza studi
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
 
 <!-- review:end log -->
 

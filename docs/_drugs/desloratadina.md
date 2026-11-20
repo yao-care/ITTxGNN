@@ -55,7 +55,7 @@ La desloratadina è un antistaminico che agisce bloccando il recettore H1 dell'i
 
 ## Perché questa previsione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, la desloratadina è un antagonista selettivo dei recettori H1 periferici dell'istamina ed è il metabolita attivo della loratadina.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Desloratadina (traduzione non ufficiale): «Desloratadina è un antagonista dell'istamina triciclico a lunga durata d'azione con attività antagonista selettiva sui recettori H1 dell'istamina. I dati di legame recettoriale indicano che, a una concentrazione di 2-3 ng/mL (7 nanomolare), desloratadina mostra un'interazione significativa con il recettore H1 dell'istamina umano.» Testo originale in inglese: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), versione del 2025-10-23; consultato il 2026-11-19). In base alle conoscenze generali, la desloratadina è un antagonista selettivo dei recettori H1 periferici dell'istamina ed è il metabolita attivo della loratadina.
 
 Le malattie della cavità nasale, come la rinite allergica, coinvolgono vasodilatazione, edema della mucosa, starnuti e rinorrea mediati dall'istamina. Il blocco dei recettori H1 è quindi meccanicisticamente plausibile. È probabile che la previsione rifletta una farmacologia già nota piuttosto che un vero riposizionamento, e il punteggio molto alto è coerente con questo aspetto.
 
@@ -100,6 +100,19 @@ Nessuno degli studi citati esamina direttamente la desloratadina nella malattia 
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Chiarimento se l'uso previsto coincida con un uso già autorizzato o rappresenti un vero riposizionamento
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

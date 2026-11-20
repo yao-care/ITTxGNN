@@ -54,7 +54,7 @@ L'azitromicina è un antibiotico macrolide usato per il trattamento di infezioni
 
 ## Perché questa previsione potrebbe avere senso?
 
-I dati sul meccanismo d'azione dell'azitromicina non sono attualmente disponibili. Per la sindrome da iperviscosità policlonale, che deriva da un aumento delle immunoglobuline policlonali, non è stato stabilito alcun legame meccanicistico con l'azitromicina.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Azithromycin (traduzione non ufficiale): «Azitromicina è un farmaco antibatterico macrolide. […] Azitromicina agisce legandosi all'rRNA 23S della subunità ribosomiale 50S dei microrganismi sensibili, inibendo la sintesi proteica batterica e impedendo l'assemblaggio della subunità ribosomiale 50S.» Testo originale in inglese: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), versione del 2026-09-09; consultato il 2026-11-19). Per la sindrome da iperviscosità policlonale, che deriva da un aumento delle immunoglobuline policlonali, non è stato stabilito alcun legame meccanicistico con l'azitromicina.
 
 Il punteggio elevato (0,9981) è il risultato di un calcolo del modello e non è sostenuto da alcuno studio. Non esistono dati che indichino un effetto del farmaco sull'iperviscosità. La previsione va quindi considerata solo come un'ipotesi da verificare.
 
@@ -96,6 +96,19 @@ La previsione per la sindrome da iperviscosità policlonale non è supportata da
 - Studi preclinici o clinici che esaminino direttamente questa condizione
 - Testo del foglio illustrativo con avvertenze e controindicazioni
 - Verifica della compatibilità delle vie di somministrazione e della similarità con le indicazioni già note
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

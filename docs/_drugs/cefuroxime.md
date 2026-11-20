@@ -55,7 +55,7 @@ Il modello TxGNN la associa come principale predizione alla **sindrome da ipervi
 
 ## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole?
 
-Per la cefuroxima non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, si tratta di una cefalosporina di seconda generazione con attività antibatterica, basata sull'inibizione della sintesi della parete cellulare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Cefuroxime (traduzione non ufficiale): «Cefuroxima è un agente battericida che agisce inibendo la sintesi della parete cellulare batterica. Cefuroxima è attiva in presenza di alcune beta-lattamasi, sia penicillinasi sia cefalosporinasi, di batteri Gram-negativi e Gram-positivi.» Testo originale in inglese: "Cefuroxime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefuroxime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c), versione del 2025-03-27; consultato il 2026-11-19). In base alle conoscenze generali, si tratta di una cefalosporina di seconda generazione con attività antibatterica, basata sull'inibizione della sintesi della parete cellulare.
 
 La sindrome da iperviscosità policlonale è invece un disturbo reologico legato a un eccesso di proteine/immunoglobuline nel sangue. Non si individua un collegamento meccanicistico plausibile tra un antibatterico e una condizione di questo tipo. Il punteggio elevato deriva da un'associazione calcolata dal modello e non è supportato da evidenze cliniche o bibliografiche. Per questo motivo la predizione va considerata, allo stato attuale, solo un'ipotesi computazionale.
 
@@ -100,6 +100,19 @@ La predizione principale non ha studi clinici né pubblicazioni a supporto, né 
 - Studi preclinici o clinici che esaminino direttamente questa patologia
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Verifica dello stato attuale delle autorizzazioni e della disponibilità dei prodotti in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

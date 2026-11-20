@@ -58,7 +58,7 @@ Il baclofene è un agonista del recettore GABA-B. Nella letteratura raccolta è 
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione provenienti dalle banche dati farmacologiche. In base alle informazioni note, il baclofene è un agonista del recettore GABA-B. Questi recettori inibiscono il rilascio di dopamina nelle vie mesolimbiche e modulano la trasmissione inibitoria GABAergica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Baclofen (traduzione non ufficiale): «Il preciso meccanismo d'azione di baclofen non è completamente compreso. Baclofen inibisce i riflessi sia monosinaptici sia polisinaptici a livello spinale, possibilmente riducendo il rilascio di neurotrasmettitori eccitatori dai terminali afferenti, sebbene possano verificarsi anche azioni a livello di siti sopraspinali che contribuiscono al suo effetto clinico.» Testo originale in inglese: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), versione del 2026-09-22; consultato il 2026-11-19). In base alle informazioni note, il baclofene è un agonista del recettore GABA-B. Questi recettori inibiscono il rilascio di dopamina nelle vie mesolimbiche e modulano la trasmissione inibitoria GABAergica.
 
 Un possibile collegamento con l'ADHD passa dalla modulazione del tono inibitorio GABAergico e, a valle, della segnalazione dopaminergica e glutammatergica nei circuiti fronto-striatali coinvolti nell'impulsività. Questa è un'ipotesi meccanicistica, non un dato clinico.
 
@@ -158,12 +158,13 @@ Per l'ADHD esistono solo una previsione computazionale e letteratura indiretta, 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Nei dati compilati non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ Il modello TxGNN lo associa all'**artrite reumatoide** con un punteggio molto al
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, il rivaroxaban è un inibitore diretto del fattore Xa, utilizzato come anticoagulante.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rivaroxaban (traduzione non ufficiale): «XARELTO è un inibitore selettivo del FXa. Non richiede un cofattore (come l'antitrombina III) per la sua attività. Rivaroxaban inibisce il FXa libero e l'attività della protrombinasi. Rivaroxaban non ha alcun effetto diretto sull'aggregazione piastrinica, ma inibisce indirettamente l'aggregazione piastrinica indotta dalla trombina.» Testo originale in inglese: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), versione del 2026-09-10; consultato il 2026-11-19). In base alle conoscenze generali, il rivaroxaban è un inibitore diretto del fattore Xa, utilizzato come anticoagulante.
 
 L'unico collegamento plausibile è indiretto: la via della coagulazione e l'infiammazione sono correlate. La trombina e il fattore Xa possono segnalare tramite i recettori PAR-1/PAR-2 e contribuire all'infiammazione sinoviale, e le malattie autoimmuni si associano ad alterata generazione di trombina e a un maggior rischio di tromboembolismo venoso. Si tratta **soltanto di un'ipotesi**: giustificherebbe al massimo un ruolo nella tromboprofilassi nei pazienti con artrite reumatoide, non un effetto modificante la malattia.
 
@@ -148,12 +148,13 @@ Il punteggio TxGNN è molto alto, ma non vi sono studi clinici né letteratura c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è presente alcuna valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono disponibili» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->
 

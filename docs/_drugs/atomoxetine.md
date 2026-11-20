@@ -54,7 +54,7 @@ L'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina, 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati. In base alle conoscenze generali, l'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina (trasportatore NET); i dati di farmacologia raccolti riportano inoltre l'interazione con i trasportatori DAT e SERT.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Atomoxetine (traduzione non ufficiale): «Il meccanismo preciso con cui STRATTERA produce i suoi effetti terapeutici nell'ADHD non è noto, ma si ritiene sia correlato all'inibizione selettiva del trasportatore presinaptico della noradrenalina, come determinato in studi ex vivo di captazione e di deplezione dei neurotrasmettitori.» Testo originale in inglese: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), versione del 2026-06-30; consultato il 2026-11-19). In base alle conoscenze generali, l'atomoxetina è un inibitore selettivo della ricaptazione della noradrenalina (trasportatore NET); i dati di farmacologia raccolti riportano inoltre l'interazione con i trasportatori DAT e SERT.
 
 I disturbi specifici dello sviluppo, incluse le difficoltà di apprendimento, si presentano spesso insieme all'ADHD. La modulazione noradrenergica delle reti attentive prefrontali potrebbe quindi giovare ai sintomi attentivi. Questo però riguarda i sintomi dell'ADHD nelle popolazioni con comorbilità (per esempio autismo o difficoltà di apprendimento), e non i deficit di apprendimento di base del disturbo specifico dello sviluppo. Il collegamento resta perciò ipotetico.
 
@@ -115,11 +115,12 @@ Nessuno studio clinico o pubblicazione esamina l'atomoxetina nel disturbo specif
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-17 | Tabella: le 5 confezioni STRATTERA non sono più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
 
 <!-- review:end log -->
 

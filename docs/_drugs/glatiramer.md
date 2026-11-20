@@ -54,7 +54,7 @@ Glatiramer (glatiramer acetato) è un immunomodulatore utilizzato nella sclerosi
 
 ## Perché questa previsione è (poco) plausibile?
 
-Il meccanismo d'azione originale non è disponibile nei dati compilati. In base alle conoscenze generali, glatiramer acetato è un immunomodulatore che sposta la risposta dei linfociti T verso un fenotipo Th2 e agisce come "esca" per la proteina basica della mielina nella sclerosi multipla.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Glatiramer (traduzione non ufficiale): «Il meccanismo o i meccanismi attraverso i quali glatiramer acetato esercita i suoi effetti nei pazienti con SM non sono completamente compresi. Tuttavia, si ritiene che glatiramer acetato agisca modificando i processi immunitari che si ritiene siano responsabili della patogenesi della SM.» Testo originale in inglese: "The mechanism(s) by which glatiramer acetate exerts its effects in patients with MS are not fully understood. However, glatiramer acetate is thought to act by modifying immune processes that are believed to be responsible for the pathogenesis of MS." ([DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716), versione del 2026-10-26; consultato il 2026-11-19). In base alle conoscenze generali, glatiramer acetato è un immunomodulatore che sposta la risposta dei linfociti T verso un fenotipo Th2 e agisce come "esca" per la proteina basica della mielina nella sclerosi multipla.
 
 Le emoglobinopatie (ad esempio anemia falciforme e talassemie) sono causate da difetti nella struttura o nell'espressione dei geni della globina. Con i dati disponibili non emerge alcun ponte meccanicistico plausibile tra l'azione immunomodulatoria di glatiramer e la fisiopatologia di queste malattie.
 
@@ -114,12 +114,13 @@ La previsione si basa solo sul punteggio del modello (livello L5), senza sperime
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Pibrentasvir è un inibitore della proteina virale NS5A, usato in combinazione c
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle informazioni note, pibrentasvir è un inibitore di NS5A, componente della combinazione glecaprevir/pibrentasvir (Maviret), la cui efficacia nell'epatite C è documentata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Pibrentasvir è (traduzione non ufficiale): «Inibitore della proteina non strutturale 5A» Testo originale in inglese: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, pibrentasvir è un inibitore di NS5A, componente della combinazione glecaprevir/pibrentasvir (Maviret), la cui efficacia nell'epatite C è documentata.
 
 Per l'epatite B, però, il collegamento meccanicistico è debole. HBV non possiede un omologo di NS5A, quindi il farmaco non ha un bersaglio antivirale diretto noto. Il punteggio elevato è probabilmente dovuto alla prossimità, nella rete di conoscenza, con altri termini di epatite virale, più che a un meccanismo reale.
 
@@ -130,11 +130,12 @@ La previsione per l'epatite B si basa solo sul modello di rete (livello di evide
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ Il modello TxGNN ne prevede una possibile efficacia nella **pneumocistosi**, ma 
 
 ## Perché questa previsione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In generale, il posaconazolo è un azolico antifungino che inibisce la lanosterolo 14-alfa-demetilasi (CYP51), bloccando la sintesi dell'ergosterolo nella membrana fungina. La sua efficacia nelle micosi invasive come aspergillosi e candidosi è ben nota.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Posaconazole (traduzione non ufficiale): «Posaconazolo è un agente antimicotico azolico. […] Posaconazolo blocca la sintesi dell'ergosterolo, un componente chiave della membrana cellulare fungina, attraverso l'inibizione dell'enzima lanosterolo 14α-demetilasi dipendente dal citocromo P-450, responsabile della conversione del lanosterolo in ergosterolo nella membrana cellulare fungina. Ciò determina un accumulo di precursori sterolici metilati e una deplezione di ergosterolo all'interno della membrana cellulare, indebolendo così la struttura e la funzione della membrana cellulare fungina.» Testo originale in inglese: "Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84), versione del 2026-02-13; consultato il 2026-11-19). In generale, il posaconazolo è un azolico antifungino che inibisce la lanosterolo 14-alfa-demetilasi (CYP51), bloccando la sintesi dell'ergosterolo nella membrana fungina. La sua efficacia nelle micosi invasive come aspergillosi e candidosi è ben nota.
 
 Tuttavia, il collegamento meccanicistico con la pneumocistosi è debole. *Pneumocystis jirovecii* non possiede ergosterolo nella membrana cellulare e utilizza colesterolo e altri steroli, per cui il bersaglio degli azoli non è chiaramente presente. Il punteggio TxGNN molto alto riflette con ogni probabilità la prossimità nella rete di conoscenza con altre indicazioni antifungine (aspergillosi, candidosi) più che un'effettiva corrispondenza meccanicistica. Questo collegamento non ha potuto essere verificato su dati curati dei bersagli farmacologici.
 
@@ -133,11 +133,12 @@ L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
 
 <!-- review:end log -->
 

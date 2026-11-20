@@ -54,7 +54,7 @@ Bexarotene è un retinoide che attiva selettivamente i recettori X dei retinoidi
 
 ## Perché questa previsione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nelle informazioni compilate. Per quanto noto dalla letteratura fornita, bexarotene è un agonista selettivo dei recettori RXR: questi fattori di trascrizione regolano la crescita cellulare, l'apoptosi e la differenziazione. Tale azione è stata studiata soprattutto nei linfomi cutanei a cellule T.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Bexarotene (traduzione non ufficiale): «Bexarotene si lega selettivamente ai sottotipi del recettore X dei retinoidi (RXRα, RXRß, RXRγ) e li attiva. Gli RXR possono formare eterodimeri con diversi recettori partner, quali i recettori dell'acido retinoico (RAR), il recettore della vitamina D, il recettore tiroideo e i recettori attivati dai proliferatori dei perossisomi (PPAR).» Testo originale in inglese: "Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ). RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs)." ([DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc), versione del 2020-04-30; consultato il 2026-11-19). Per quanto noto dalla letteratura fornita, bexarotene è un agonista selettivo dei recettori RXR: questi fattori di trascrizione regolano la crescita cellulare, l'apoptosi e la differenziazione. Tale azione è stata studiata soprattutto nei linfomi cutanei a cellule T.
 
 Il linfoma cutaneo primario a cellule B appartiene alla stessa famiglia dei linfomi cutanei, e le revisioni citano i retinoidi tra le opzioni terapeutiche per i linfomi cutanei in generale. Tuttavia il razionale meccanicistico del bexarotene riguarda le cellule T maligne e non si trasferisce direttamente alle cellule B; nei dati forniti non è sostenuto alcun meccanismo specifico per le cellule B. Il punteggio elevato (0,9944) deriva da una previsione basata sulle reti di relazioni tra farmaci e malattie e non costituisce di per sé una prova di efficacia.
 
@@ -115,6 +115,18 @@ La previsione si basa solo sul modello: non esistono studi clinici né pubblicaz
 - Dati preclinici o studi clinici che valutino bexarotene in questo specifico sottotipo di linfoma
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Una definizione precisa della popolazione di pazienti e, in caso di sviluppo, un piano di monitoraggio della sicurezza (lipidi, tiroide, fegato)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Targretin (bexarotene) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

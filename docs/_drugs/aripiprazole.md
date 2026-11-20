@@ -54,7 +54,7 @@ L'aripiprazolo è un antipsicotico atipico già in commercio in Italia. Il model
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione dell'aripiprazolo nei dati compilati per questo rapporto. In generale il farmaco appartiene alla classe degli antipsicotici atipici, che agiscono sui sistemi dopaminergico e serotoninergico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Aripiprazole (traduzione non ufficiale): «Il meccanismo d'azione di aripiprazolo nel trattamento della schizofrenia e del disturbo bipolare I non è noto. L'efficacia di aripiprazolo potrebbe essere mediata da una combinazione di attività agonista parziale sui recettori D 2 della dopamina e 5-HT 1A della serotonina e di attività antagonista sui recettori 5-HT 2A.» Testo originale in inglese: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), versione del 2025-04-04; consultato il 2026-11-19). In generale il farmaco appartiene alla classe degli antipsicotici atipici, che agiscono sui sistemi dopaminergico e serotoninergico.
 
 La malattia prevista è un raro disturbo ereditario, correlato al gene ROBO3, che riguarda la guida degli assoni nel sistema nervoso. Dai dati disponibili non è possibile stabilire un legame meccanicistico plausibile tra la farmacologia dell'aripiprazolo e questa condizione. L'elevato punteggio del modello è quindi una segnalazione statistica, non una spiegazione biologica. Senza studi clinici, letteratura o dati preclinici, la previsione non può essere considerata supportata.
 
@@ -96,6 +96,18 @@ Per avvertenze e controindicazioni complete si rimanda al foglietto illustrativo
 - Studi preclinici o case report che indichino un effetto sulla malattia.
 - Il testo del foglietto illustrativo con avvertenze e controindicazioni, necessario per la valutazione di sicurezza.
 - Una valutazione della fattibilità clinica, data la rarità della condizione.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

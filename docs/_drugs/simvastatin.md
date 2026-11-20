@@ -56,7 +56,7 @@ Si tratta però di un'indicazione già consolidata o quasi coincidente con quell
 
 ## Perché questa predizione è ragionevole?
 
-Dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, la simvastatina è un inibitore dell'HMG-CoA reduttasi: riduce la sintesi epatica di colesterolo e aumenta i recettori delle LDL, accelerando la clearance del colesterolo LDL.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Simvastatin (traduzione non ufficiale): «La simvastatina è un profarmaco e, dopo la somministrazione, viene idrolizzata nella sua forma attiva di β-idrossiacido, la simvastatina acida. La simvastatina acida e i suoi metaboliti sono inibitori della HMG-CoA reduttasi, l'enzima limitante la velocità che converte l'HMG-CoA in mevalonato, un precursore del colesterolo.» Testo originale in inglese: "Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9), versione del 2025-03-28; consultato il 2026-11-19). In base alle conoscenze generali, la simvastatina è un inibitore dell'HMG-CoA reduttasi: riduce la sintesi epatica di colesterolo e aumenta i recettori delle LDL, accelerando la clearance del colesterolo LDL.
 
 Questo meccanismo è direttamente rilevante per l'ipercolesterolemia familiare. L'effetto completo richiede però una funzione residua del recettore delle LDL, ed è quindi limitato nella forma omozigote. Poiché l'ipercolesterolemia familiare omozigote figura già tra le indicazioni originali, questa predizione coincide di fatto con un uso già noto.
 
@@ -146,12 +146,13 @@ L'evidenza per l'ipercolesterolemia familiare è di livello L1, con più studi d
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
 
 <!-- review:end log -->
 

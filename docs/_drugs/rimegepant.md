@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura de
 
 ## Perché questa predizione è ragionevole?
 
-Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alla classe farmacologica nota, rimegepant è un antagonista del recettore del CGRP, la cui efficacia nell'emicrania è stabilita, e mal si presta a essere considerato un vero riposizionamento: l'emicrania con aura del tronco encefalico è un sottotipo dell'emicrania, quindi rientra nell'indicazione di base.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rimegepant (traduzione non ufficiale): «Rimegepant è un antagonista del recettore del peptide correlato al gene della calcitonina.» Testo originale in inglese: "Rimegepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d), versione del 2026-06-04; consultato il 2026-11-19). In base alla classe farmacologica nota, rimegepant è un antagonista del recettore del CGRP, la cui efficacia nell'emicrania è stabilita, e mal si presta a essere considerato un vero riposizionamento: l'emicrania con aura del tronco encefalico è un sottotipo dell'emicrania, quindi rientra nell'indicazione di base.
 
 Dal punto di vista meccanicistico, il blocco della via del CGRP è plausibile anche per questo sottotipo. Va però precisato che tale coinvolgimento è dedotto dalla classe del farmaco e non da dati forniti.
 
@@ -135,11 +135,12 @@ La predizione è plausibile dal punto di vista della classe farmacologica, ma ri
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
 
 <!-- review:end log -->
 

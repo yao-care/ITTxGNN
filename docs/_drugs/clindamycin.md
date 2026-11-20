@@ -54,7 +54,7 @@ La clindamicina è un antibiotico appartenente alla classe delle lincosamidi, ut
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati. In base alle conoscenze generali, la clindamicina inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S ed è attiva contro batteri Gram-positivi e anaerobi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Clindamycin (traduzione non ufficiale): «La clindamicina inibisce la sintesi proteica batterica legandosi all'RNA 23S della subunità 50S del ribosoma. La clindamicina è batteriostatica.» Testo originale in inglese: "Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic." ([DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a), versione del 2026-09-16; consultato il 2026-11-19). In base alle conoscenze generali, la clindamicina inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S ed è attiva contro batteri Gram-positivi e anaerobi.
 
 Il legame con la nuova indicazione è però debole. La cheratite epiteliale puntata è spesso di origine virale oppure tossico-infiammatoria, quindi un antibatterico non ha un razionale meccanicistico chiaro, a meno che sia presente una componente batterica (ad esempio una blefarocheratocongiuntivite stafilococcica). Il punteggio molto alto del modello è una previsione computazionale e non è corroborato da dati clinici o di letteratura. Anche le informazioni sulla via di somministrazione compatibile con l'uso oculare non sono disponibili.
 
@@ -91,6 +91,19 @@ La previsione si basa solo sul punteggio del modello (0,9997), senza studi clini
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Studi preclinici o clinici che valutino la clindamicina nella cheratite epiteliale puntata, inclusa la fattibilità di una via di somministrazione oculare
 - Chiarimento sull'eventuale componente batterica (ad esempio stafilococcica) che giustifichi un antibatterico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Cleocin Hydrochloride (clindamycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df9a2a41-b132-4f43-8940-b2d773b1369a) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

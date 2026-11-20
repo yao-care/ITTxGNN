@@ -57,7 +57,7 @@ Il modello TxGNN lo prevede potenzialmente utile per diverse infezioni virali; t
 
 ## Perché questa predizione è ragionevole?
 
-Non sono attualmente disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle informazioni note, sofosbuvir è un analogo nucleotidico che inibisce la RNA polimerasi RNA-dipendente NS5B dell'HCV, e la sua efficacia nell'epatite C è consolidata.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Sofosbuvir (traduzione non ufficiale): «Sofosbuvir è un agente antivirale ad azione diretta contro il virus dell'epatite C. […] Sofosbuvir è un inibitore della RNA polimerasi RNA-dipendente NS5B dell'HCV, essenziale per la replicazione virale. Sofosbuvir è un profarmaco nucleotidico che va incontro a metabolismo intracellulare per formare l'analogo uridinico trifosfato farmacologicamente attivo (GS-461203), che può essere incorporato nell'RNA dell'HCV dalla polimerasi NS5B e agisce come terminatore di catena.» Testo originale in inglese: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), versione del 2024-12-26; consultato il 2026-11-19). In base alle informazioni note, sofosbuvir è un analogo nucleotidico che inibisce la RNA polimerasi RNA-dipendente NS5B dell'HCV, e la sua efficacia nell'epatite C è consolidata.
 
 Il virus dell'epatite E è un virus a RNA a filamento positivo dotato di una propria RNA polimerasi RNA-dipendente (ORF1): il meccanismo da analogo nucleotidico è quindi biologicamente plausibile. Studi in vitro riportano inibizione della replicazione di HEV, con effetto additivo in combinazione con ribavirina; un'alta dose di sofosbuvir, da solo o con ribavirina, ha mostrato attività anche in un modello animale (coniglio).
 
@@ -166,13 +166,14 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni attuali sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
 
 <!-- review:end log -->
 

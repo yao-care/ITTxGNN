@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace per la **displasia acromesome
 
 ## Perché questa previsione può essere ragionevole (o no)?
 
-Per i dati compilati, il meccanismo d'azione dettagliato non è disponibile. In base alle conoscenze generali, l'ibuprofene è un inibitore delle ciclossigenasi COX-1 e COX-2, con effetto antinfiammatorio e analgesico, la cui efficacia nelle patologie articolari infiammatorie e degenerative è nota.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ibuprofen (traduzione non ufficiale): «Ibuprofene possiede proprietà analgesiche, antinfiammatorie e antipiretiche. Il meccanismo d'azione di CALDOLOR, come quello degli altri FANS, non è completamente compreso, ma comporta l'inibizione della cicloossigenasi (COX-1 e COX-2).» Testo originale in inglese: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), versione del 2026-01-29; consultato il 2026-11-19). In base alle conoscenze generali, l'ibuprofene è un inibitore delle ciclossigenasi COX-1 e COX-2, con effetto antinfiammatorio e analgesico, la cui efficacia nelle patologie articolari infiammatorie e degenerative è nota.
 
 La displasia acromesomelica di tipo Hunter-Thompson è una rara displasia scheletrica causata da varianti con perdita di funzione del gene CDMP1/GDF5, che alterano lo sviluppo della cartilagine (condrogenesi). Si tratta di un difetto strutturale dello sviluppo, che l'inibizione delle COX non può plausibilmente correggere. Nel migliore dei casi, l'ibuprofene potrebbe offrire un sollievo sintomatico dal dolore, che non equivale a una modifica della malattia.
 
@@ -152,13 +152,14 @@ La previsione si basa solo sul punteggio del modello (livello L5), senza studi c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->
 

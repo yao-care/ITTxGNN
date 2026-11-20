@@ -54,7 +54,7 @@ L'amiodarone è un farmaco antiaritmico di classe III, già in commercio in Ital
 
 ## Perché questa predizione è plausibile?
 
-Per l'amiodarone non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa però che agisce su più bersagli: blocca i canali del potassio, del sodio e del calcio e ha un effetto antagonista sui recettori beta-adrenergici. Questo profilo è in linea con una malattia in cui le aritmie ventricolari sono scatenate dalla stimolazione adrenergica, per alterazioni genetiche come quelle del recettore RYR2.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Amiodarone (traduzione non ufficiale): «Amiodarone è considerato un farmaco antiaritmico di classe III, ma possiede caratteristiche elettrofisiologiche di tutte e quattro le classi di Vaughan Williams. Come i farmaci di classe I, amiodarone blocca i canali del sodio a frequenze di stimolazione elevate e, come i farmaci di classe II, amiodarone esercita un'azione antisimpatica non competitiva.» Testo originale in inglese: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), versione del 2025-11-05; consultato il 2026-11-19). Si sa però che agisce su più bersagli: blocca i canali del potassio, del sodio e del calcio e ha un effetto antagonista sui recettori beta-adrenergici. Questo profilo è in linea con una malattia in cui le aritmie ventricolari sono scatenate dalla stimolazione adrenergica, per alterazioni genetiche come quelle del recettore RYR2.
 
 Il collegamento è però solo teorico. Nella tachicardia ventricolare polimorfa catecolaminergica la terapia di prima linea è costituita dai beta-bloccanti, con la flecainide come aggiunta. Nella letteratura esaminata l'amiodarone compare solo come opzione di salvataggio in casi refrattari o in tempesta aritmica, non come terapia studiata per questa malattia.
 
@@ -119,6 +119,18 @@ Per avvertenze e controindicazioni complete si rimanda al foglietto illustrativo
 - Studi o serie di casi che valutino direttamente l'amiodarone in questa malattia, in particolare nei casi refrattari a beta-bloccanti e flecainide.
 - Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni dal foglietto illustrativo AIFA.
 - Un piano di monitoraggio della sicurezza (funzione tiroidea, polmonare ed epatica, ECG e QT) e una valutazione delle interazioni nei pazienti candidati.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

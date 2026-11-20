@@ -54,7 +54,7 @@ Il dexibuprofene è un farmaco antinfiammatorio non steroideo (FANS), l'enantiom
 
 ## Perché questa predizione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle conoscenze generali, il dexibuprofene appartiene alla classe dei FANS, che agiscono inibendo la sintesi delle prostaglandine tramite le ciclossigenasi, con effetto antinfiammatorio e analgesico.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Dexibuprofen è (traduzione non ufficiale): «Inibitore della ciclossigenasi» Testo originale in inglese: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze generali, il dexibuprofene appartiene alla classe dei FANS, che agiscono inibendo la sintesi delle prostaglandine tramite le ciclossigenasi, con effetto antinfiammatorio e analgesico.
 
 Per la sindrome brachidattilia-sindattilia non è stato identificato alcun collegamento meccanicistico plausibile. Si tratta di una rara sindrome malformativa congenita di origine genetica che interessa lo sviluppo degli arti; un FANS non ha un effetto modificante sullo sviluppo scheletrico. L'alto punteggio deriva da una predizione basata su relazioni di rete e non è supportato da dati clinici o di letteratura.
 
@@ -92,6 +92,19 @@ La predizione si basa solo sul modello computazionale (livello di evidenza L5), 
 - Studi preclinici o clinici che riguardino direttamente la sindrome brachidattilia-sindattilia
 - Informazioni di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Verifica dello stato commerciale delle autorizzazioni registrate
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

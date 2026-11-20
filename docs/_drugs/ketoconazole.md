@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**acne**, ma il support
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione registrato non sono disponibili. In base alle conoscenze note, il ketoconazolo inibisce il CYP51 fungino (lanosterolo 14-alfa-demetilasi). Ad esposizione sistemica elevata inibisce anche enzimi umani della steroidogenesi (CYP17A1, CYP11A1), riducendo la sintesi di androgeni. In teoria ciò potrebbe ridurre la produzione di sebo nell'acne androgeno-dipendente.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ketoconazole (traduzione non ufficiale): «Ketoconazolo blocca la sintesi dell'ergosterolo, un componente chiave della membrana cellulare fungina, attraverso l'inibizione dell'enzima lanosterolo 14α-demetilasi dipendente dal citocromo P-450, responsabile della conversione del lanosterolo in ergosterolo nella membrana cellulare fungina. Ciò determina un accumulo di precursori sterolici metilati e una deplezione di ergosterolo all'interno della membrana cellulare, indebolendo così la struttura e la funzione della membrana cellulare fungina.» Testo originale in inglese: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), versione del 2025-11-18; consultato il 2026-11-19). In base alle conoscenze note, il ketoconazolo inibisce il CYP51 fungino (lanosterolo 14-alfa-demetilasi). Ad esposizione sistemica elevata inibisce anche enzimi umani della steroidogenesi (CYP17A1, CYP11A1), riducendo la sintesi di androgeni. In teoria ciò potrebbe ridurre la produzione di sebo nell'acne androgeno-dipendente.
 
 Per via topica, l'attività contro i lieviti *Malassezia* (*Pityrosporum*) potrebbe essere utile nel sottogruppo di eruzioni acneiformi o follicolari in cui *Malassezia* ha un ruolo, come la follicolite da *Malassezia* e la pustolosi cefalica neonatale. Studi di laboratorio indicano inoltre attività contro *Cutibacterium (Propionibacterium) acnes* e inibizione della sua lipasi; si può ipotizzare anche un modesto effetto antinfiammatorio.
 
@@ -133,11 +133,12 @@ La predizione si basa su un punteggio computazionale elevato e su un solo piccol
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «'unica autorizzazione italiana è cancellata e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

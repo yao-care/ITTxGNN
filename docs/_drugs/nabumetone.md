@@ -55,7 +55,7 @@ Il modello TxGNN ne prevede un possibile effetto sulla **displasia acromesomelic
 
 ## Perché questa previsione è ragionevole (o no)?
 
-Il meccanismo d'azione dettagliato non è attualmente disponibile nei dati compilati. In generale il nabumetone è un inibitore della ciclo-ossigenasi (COX) con effetto antinfiammatorio e analgesico, il cui valore è consolidato nelle patologie articolari infiammatorie e degenerative.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Nabumetone è (traduzione non ufficiale): «Inibitore della ciclossigenasi-2» Testo originale in inglese: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070), CC BY-SA 3.0; consultato il 2026-11-19). In generale il nabumetone è un inibitore della ciclo-ossigenasi (COX) con effetto antinfiammatorio e analgesico, il cui valore è consolidato nelle patologie articolari infiammatorie e degenerative.
 
 La displasia acromesomelica di tipo Hunter-Thompson è una displasia scheletrica genetica, legata a perdita di funzione di CDMP1/GDF5, che altera la crescita di cartilagine e ossa. Il nabumetone può dare al massimo un sollievo sintomatico del dolore, ma **non agisce sul difetto di segnalazione di GDF5**. Il punteggio molto alto del modello è verosimilmente dovuto alla vicinanza nella rete di conoscenza a termini scheletrici e artropatici, più che a una reale base biologica. Non si ravvisa quindi un legame meccanicistico solido.
 
@@ -135,13 +135,14 @@ La previsione per la displasia acromesomelica di tipo Hunter-Thompson non ha alc
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: oggi non esiste in Italia un prodotto a base di nabumetone con autorizzazione valida, il ch» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL1070 (nabumetone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1070) |
 
 <!-- review:end log -->
 

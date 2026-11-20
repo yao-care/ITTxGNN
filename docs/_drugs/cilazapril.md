@@ -54,7 +54,7 @@ Cilazapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE). I
 
 ## Perché questa predizione può essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle conoscenze di classe, cilazapril è un inibitore dell'ACE: riduce la produzione di angiotensina II e quindi la vasocostrizione e, in teoria, anche il rimodellamento vascolare. Questo meccanismo potrebbe avere rilevanza per il tono e il rimodellamento dei vasi polmonari.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Cilazapril è (traduzione non ufficiale): «Inibitore dell'enzima di conversione dell'angiotensina» Testo originale in inglese: "Angiotensin-converting enzyme inhibitor" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze di classe, cilazapril è un inibitore dell'ACE: riduce la produzione di angiotensina II e quindi la vasocostrizione e, in teoria, anche il rimodellamento vascolare. Questo meccanismo potrebbe avere rilevanza per il tono e il rimodellamento dei vasi polmonari.
 
 Tuttavia questo legame è puramente teorico. Per il sottogruppo con meccanismo multifattoriale poco chiaro non esistono studi che lo confermino, e il ragionamento si basa solo sulle conoscenze generali della classe degli ACE-inibitori.
 
@@ -91,6 +91,19 @@ La predizione si basa unicamente su un punteggio elevato del modello (0,9920), s
 - Dati dettagliati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Verifica dello stato attuale delle autorizzazioni all'immissione in commercio
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -58,7 +58,7 @@ Lo spironolattone è un diuretico antagonista dell'aldosterone, originariamente 
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Per conoscenza generale, lo spironolattone è un antagonista del recettore dei mineralcorticoidi con attività anti-androgenica (blocca il recettore degli androgeni e riduce la sintesi androgenica). Per questo motivo è usato off-label nell'alopecia androgenetica e nella perdita di capelli femminile.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Spironolactone (traduzione non ufficiale): «Spironolattone e i suoi metaboliti attivi sono antagonisti farmacologici specifici dell'aldosterone, che agiscono principalmente attraverso il legame competitivo ai recettori nel sito di scambio sodio-potassio aldosterone-dipendente nel tubulo renale contorto distale. Spironolattone determina l'escrezione di quantità aumentate di sodio e acqua, mentre il potassio viene trattenuto.» Testo originale in inglese: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), versione del 2025-11-28; consultato il 2026-11-19). Per conoscenza generale, lo spironolattone è un antagonista del recettore dei mineralcorticoidi con attività anti-androgenica (blocca il recettore degli androgeni e riduce la sintesi androgenica). Per questo motivo è usato off-label nell'alopecia androgenetica e nella perdita di capelli femminile.
 
 Il legame con l'ipotricosi semplice, però, è debole. Si tratta di una rara patologia ereditaria causata da mutazioni in geni come CDSN, APCDD1 e RPL21, e non è principalmente guidata dagli androgeni. Il collegamento tra l'effetto anti-androgenico e questa condizione genetica è quindi speculativo e non verificato.
 
@@ -131,12 +131,13 @@ La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofu» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

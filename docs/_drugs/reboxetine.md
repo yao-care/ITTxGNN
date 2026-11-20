@@ -61,7 +61,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**agorafobia** (la prim
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, la reboxetina è un inibitore selettivo della ricaptazione della noradrenalina (il dato farmacologico disponibile la indica come ligando del trasportatore NET, SLC6A2). La sua efficacia nella depressione è documentata, e sul piano meccanicistico potrebbe essere applicabile ai disturbi d'ansia.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Reboxetine è (traduzione non ufficiale): «Inibitore del trasportatore della noradrenalina» Testo originale in inglese: "Norepinephrine transporter inhibitor" ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, la reboxetina è un inibitore selettivo della ricaptazione della noradrenalina (il dato farmacologico disponibile la indica come ligando del trasportatore NET, SLC6A2). La sua efficacia nella depressione è documentata, e sul piano meccanicistico potrebbe essere applicabile ai disturbi d'ansia.
 
 La disregolazione noradrenergica è coinvolta nel disturbo di panico e nell'ansia, e l'agorafobia è frequentemente in comorbilità con il disturbo di panico. Tuttavia, le evidenze disponibili riguardano il **disturbo di panico**, non l'agorafobia in sé: uno studio del 2002 che ne riporta efficacia e tollerabilità e uno studio in aperto su pazienti refrattari agli SSRI. Il supporto per l'agorafobia è quindi solo indiretto, e le revisioni e meta-analisi in rete collocano la reboxetina al di fuori delle opzioni di prima linea.
 
@@ -139,11 +139,12 @@ Per le altre informazioni di sicurezza (avvertenze, controindicazioni) si rimand
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ La scopolamina è un antimuscarinico non selettivo, originariamente impiegato pe
 
 ## Perché questa previsione potrebbe essere plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. È noto che la scopolamina è un antagonista muscarinico non selettivo: i dati farmacologici la mostrano attiva sui recettori M1, M2, M3, M4 e M5, con effetti anche sul sistema nervoso centrale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Scopolamine (traduzione non ufficiale): «Scopolamina, un alcaloide della belladonna, è un anticolinergico. Scopolamina agisce: i) come inibitore competitivo a livello dei siti recettoriali muscarinici postgangliari del sistema nervoso parasimpatico, e ii) sui muscoli lisci che rispondono all'acetilcolina ma sono privi di innervazione colinergica.» Testo originale in inglese: "Scopolamine, a belladonna alkaloid, is an anticholinergic. Scopolamine acts: i) as a competitive inhibitor at postganglionic muscarinic receptor sites of the parasympathetic nervous system, and ii) on smooth muscles that respond to acetylcholine but lack cholinergic innervation." ([DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88), versione del 2025-06-10; consultato il 2026-11-19). È noto che la scopolamina è un antagonista muscarinico non selettivo: i dati farmacologici la mostrano attiva sui recettori M1, M2, M3, M4 e M5, con effetti anche sul sistema nervoso centrale.
 
 Il possibile legame teorico con la sindrome della cauda equina passa per la modulazione dell'attività del detrusore vescicale, cioè la riduzione di iperattività e urgenza nella disfunzione vescicale neurogena. Tuttavia, la sindrome della cauda equina è soprattutto un'emergenza chirurgica compressiva. Un antimuscarinico potrebbe al massimo agire su un sintomo urinario a valle, e potrebbe persino peggiorare la ritenzione urinaria, frequente in questa condizione.
 
@@ -120,11 +120,12 @@ La previsione si basa solo sul modello computazionale (L5), senza studi né pubb
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Albutrepenonacog alfa è un fattore IX della coagulazione ricombinante fuso con 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Albutrepenonacog alfa è un fattore IX ricombinante fuso con albumina (rIX-FP), che sostituisce l'attività del fattore IX mancante nell'emofilia B. I dati dettagliati sul meccanismo d'azione originale non sono attualmente disponibili nei dati compilati per questo report.
+Albutrepenonacog alfa è un fattore IX ricombinante fuso con albumina (rIX-FP), che sostituisce l'attività del fattore IX mancante nell'emofilia B. Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Albutrepenonacog Alfa è (traduzione non ufficiale): «Proteina esogena del fattore IX della coagulazione» Testo originale in inglese: "Coagulation factor IX exogenous protein" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; consultato il 2026-11-19).
 
 La pseudo-malattia di von Willebrand è invece un disturbo di tipo piastrinico, causato da un difetto di guadagno di funzione della glicoproteina piastrinica GPIbα, che aumenta il legame con il fattore di von Willebrand. Non si tratta di un deficit di fattore IX, quindi **non esiste un chiaro razionale meccanicistico** per la sostituzione di questo fattore. Il punteggio elevato è il risultato di una previsione basata su relazioni nei dati del modello e non costituisce una prova di efficacia.
 
@@ -92,6 +92,19 @@ La previsione non è supportata da alcuna sperimentazione clinica o pubblicazion
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o cliniche che colleghino il fattore IX ricombinante alla pseudo-malattia di von Willebrand
 - Una valutazione di fattibilità per una popolazione di pazienti così rara
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

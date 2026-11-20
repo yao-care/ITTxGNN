@@ -54,7 +54,7 @@ Denosumab è un anticorpo monoclonale che inibisce RANKL. Il modello TxGNN preve
 
 ## Perché questa previsione è plausibile?
 
-Denosumab è un anticorpo monoclonale che inibisce RANKL. I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report.
+Denosumab è un anticorpo monoclonale che inibisce RANKL. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Denosumab (traduzione non ufficiale): «I prodotti a base di denosumab si legano al RANKL, una proteina transmembrana o solubile essenziale per la formazione, la funzione e la sopravvivenza degli osteoclasti, le cellule responsabili del riassorbimento osseo. I prodotti a base di denosumab impediscono al RANKL di attivare il suo recettore, RANK, sulla superficie degli osteoclasti e dei loro precursori.» Testo originale in inglese: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), versione del 2026-11-04; consultato il 2026-11-19).
 
 Un possibile legame, ancora non validato, è che la via di segnalazione RANKL/OPG influenzi infiammazione, calcificazione vascolare e funzione endoteliale, processi che potrebbero riguardare la patologia microvascolare della retinopatia diabetica. Non sono disponibili meccanismi o dati specifici per la retina: la previsione resta quindi un'ipotesi da verificare.
 
@@ -98,6 +98,19 @@ La previsione ha un punteggio TxGNN elevato, ma non esistono studi clinici né p
 - Studi preclinici o clinici che valutino direttamente esiti retinici
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione della sicurezza
 - Verifica della compatibilità di via di somministrazione e formulazione (ad es. sistemica vs. intravitreale)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

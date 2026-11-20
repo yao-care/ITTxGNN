@@ -54,7 +54,7 @@ Ceftriaxone è un antibiotico cefalosporinico di terza generazione che inibisce 
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Ceftriaxone appartiene alle cefalosporine di terza generazione e agisce inibendo la sintesi della parete cellulare dei batteri.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ceftriaxone (traduzione non ufficiale): «Ceftriaxone è un farmaco antibatterico. […] Ceftriaxone è un agente battericida che agisce inibendo la sintesi della parete cellulare batterica. Ceftriaxone è attivo in presenza di alcune beta-lattamasi, sia penicillinasi sia cefalosporinasi, di batteri Gram-negativi e Gram-positivi.» Testo originale in inglese: "Ceftriaxone is an antibacterial drug. […] Ceftriaxone is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftriaxone has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467), versione del 2022-01-13; consultato il 2026-11-19). Ceftriaxone appartiene alle cefalosporine di terza generazione e agisce inibendo la sintesi della parete cellulare dei batteri.
 
 Per la sindrome da iperviscosità policlonale non si individua un legame meccanicistico plausibile. Questa condizione è determinata da un eccesso di immunoglobuline e non ha un bersaglio antibatterico, quindi un antibiotico non ha un razionale biologico evidente. Il punteggio elevato (0,9939) riflette con ogni probabilità associazioni statistiche interne al modello più che una motivazione biologica, e va interpretato con grande cautela.
 
@@ -95,6 +95,18 @@ Per le avvertenze e le controindicazioni complete si rimanda al foglio illustrat
 - Un razionale biologico plausibile che colleghi ceftriaxone alla fisiopatologia dell'iperviscosità da eccesso di immunoglobuline.
 - Dati preclinici o clinici che studino direttamente questa condizione.
 - Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni dal foglio illustrativo AIFA.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -55,7 +55,7 @@ Il modello TxGNN ne predice l'efficacia per le **neoplasie pre-maligne** (punteg
 
 ## Perché questa predizione è plausibile?
 
-L'imiquimod è un agonista del recettore TLR7. Attiva localmente l'immunità innata e adattativa (interferone alfa, TNF-alfa, IL-12) e favorisce l'eliminazione dell'epitelio displastico e pre-maligno. È lo stesso meccanismo alla base dell'uso nella cheratosi attinica e nel carcinoma basocellulare superficiale. I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report; quanto sopra deriva dall'analisi del razionale di riposizionamento.
+L'imiquimod è un agonista del recettore TLR7. Attiva localmente l'immunità innata e adattativa (interferone alfa, TNF-alfa, IL-12) e favorisce l'eliminazione dell'epitelio displastico e pre-maligno. È lo stesso meccanismo alla base dell'uso nella cheratosi attinica e nel carcinoma basocellulare superficiale. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Imiquimod (traduzione non ufficiale): «Il meccanismo d'azione di ZYCLARA nel trattamento della AK e dei EGW non è noto.» Testo originale in inglese: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), versione del 2025-05-23; consultato il 2026-11-19).
 
 La cheratosi attinica è essa stessa una lesione pre-maligna, quindi l'estensione ad altre neoplasie intraepiteliali (anali, vulvari, cervicali), spesso HPV-correlate, è coerente. Le revisioni Cochrane su VIN e AIN e le rassegne sulla terapia topica delle lesioni cutanee precancerose sostengono questa direzione.
 
@@ -121,6 +121,19 @@ Per le neoplasie pre-maligne il meccanismo TLR7 è coerente con gli usi consolid
 - Limitare l'uso a tipi di lesione e sedi definiti, con monitoraggio delle reazioni locali
 - Considerare inconcludente lo studio cervicale terminato e pianificare studi controllati con numerosità adeguata
 - Valutare la gravità delle interazioni farmacologiche non classificate
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

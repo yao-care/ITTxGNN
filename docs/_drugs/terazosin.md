@@ -59,7 +59,7 @@ Il modello TxGNN prevede una possibile efficacia per l'**ipotricosi semplice del
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, la terazosina è un alfa-1 bloccante: riduce la vasocostrizione mediata dal sistema simpatico e il tono della muscolatura liscia, e per questo è impiegata nell'ipertensione e nei sintomi urinari da ipertrofia prostatica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Terazosin (traduzione non ufficiale): «Iperplasia prostatica benigna I sintomi associati all'iperplasia prostatica benigna (IPB) sono correlati all'ostruzione dello sbocco vescicale, che comprende due componenti sottostanti: statica e dinamica. La componente statica è correlata a un aumento delle dimensioni della prostata causato, in parte, da una proliferazione delle cellule muscolari lisce nello stroma prostatico. […] Il blocco del recettore alfa-1 riduce la resistenza uretrale e può alleviare l'ostruzione dei sintomi dell'IPB e migliorare il flusso urinario Ipertensione Il meccanismo d'azione di terazosina è il blocco selettivo del sottotipo alfa-1 dei recettori adrenergici.» Testo originale in inglese: "Benign Prostatic Hyperplasia The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part by a proliferation of smooth muscle cells in the prostatic stroma. […] Blockade of the alpha-1 receptor decreases urethral resistance and may relieve the obstruction of BPH symptoms and improve urine flow Hypertension The mechanism of action of terazosin is selective blockade of the alpha-1 subtype of adrenergic receptors." ([DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f), versione del 2025-04-18; consultato il 2026-11-19). In base alle conoscenze generali, la terazosina è un alfa-1 bloccante: riduce la vasocostrizione mediata dal sistema simpatico e il tono della muscolatura liscia, e per questo è impiegata nell'ipertensione e nei sintomi urinari da ipertrofia prostatica.
 
 Un legame con la perdita di capelli è ipotizzabile solo in modo speculativo, ad esempio attraverso un effetto vasodilatatore sul cuoio capelluto, analogo a quanto noto per il minoxidil. Questo effetto non è dimostrato per la terazosina e i dati compilati non supportano alcun nesso meccanicistico. Il punteggio elevato del modello non è accompagnato da alcuna prova clinica o bibliografica.
 
@@ -141,11 +141,12 @@ L'indicazione prevista si basa solo sul punteggio del modello TxGNN (deep learni
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f) |
 
 <!-- review:end log -->
 

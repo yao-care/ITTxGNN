@@ -56,7 +56,7 @@ ma al momento non risultano **sperimentazioni cliniche** registrate e le **20 pu
 
 ## Perché questa predizione è plausibile?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Dalla letteratura raccolta emerge comunque che zolmitriptan è un agonista selettivo dei recettori 5-HT1B/1D (triptano), che agisce sul sistema vascolare cranico e sulle vie trigeminali, con possibile inibizione dell'attivazione trigeminovascolare sia centrale sia periferica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Zolmitriptan (traduzione non ufficiale): «Zolmitriptan si lega con elevata affinità ai recettori umani ricombinanti 5-HT 1D e 5-HT 1B e con moderata affinità ai recettori 5-HT 1A. Anche il metabolita N-desmetilato presenta elevata affinità per i recettori 5-HT 1B/1D e moderata affinità per i recettori 5-HT 1A.» Testo originale in inglese: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), versione del 2026-01-29; consultato il 2026-11-19). Dalla letteratura raccolta emerge comunque che zolmitriptan è un agonista selettivo dei recettori 5-HT1B/1D (triptano), che agisce sul sistema vascolare cranico e sulle vie trigeminali, con possibile inibizione dell'attivazione trigeminovascolare sia centrale sia periferica.
 
 L'emicrania con aura del tronco encefalico (in passato chiamata emicrania di tipo basilare) è un sottotipo dell'emicrania con aura, quindi rientra nello spazio terapeutico dell'indicazione originale. Questo spiega in buona parte il punteggio molto alto del modello: più che un segnale di riposizionamento realmente nuovo, sembra riflettere la vicinanza alla indicazione già nota.
 
@@ -135,13 +135,14 @@ La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmit
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->
 

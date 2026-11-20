@@ -54,7 +54,7 @@ Metolazone è un diuretico simil-tiazidico, originariamente utilizzato per il tr
 
 ## Perché questa previsione è ragionevole?
 
-I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. In base alle informazioni note, metolazone è un diuretico simil-tiazidico (inibisce il riassorbimento di sodio nel tubulo distale), la sua efficacia nell'ipertensione è consolidata e, in via teorica, il controllo della volemia e della pressione arteriosa potrebbe essere rilevante anche per forme ipertensive più gravi con coinvolgimento renale.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Metolazone è (traduzione non ufficiale): «Inibitore del cotrasportatore sodio-cloruro sensibile ai tiazidici» Testo originale in inglese: "Thiazide-sensitive sodium-chloride cotransporter inhibitor" ([ChEMBL CHEMBL878 (metolazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL878), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, metolazone è un diuretico simil-tiazidico (inibisce il riassorbimento di sodio nel tubulo distale), la sua efficacia nell'ipertensione è consolidata e, in via teorica, il controllo della volemia e della pressione arteriosa potrebbe essere rilevante anche per forme ipertensive più gravi con coinvolgimento renale.
 
 Tuttavia, la plausibilità è limitata. L'ipertensione maligna è un'emergenza ipertensiva, che di solito richiede farmaci parenterali ad azione rapida; un diuretico orale a lunga durata d'azione difficilmente può essere la terapia principale. I diuretici tiazidici possono essere meno efficaci con un filtrato glomerulare ridotto, anche se metolazone è noto per mantenere attività nell'insufficienza renale.
 
@@ -121,12 +121,13 @@ La previsione ha livello di evidenza L5: nessuno studio clinico e nessuna letter
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane sono tutte cancellate, e l'indicazione principale è una emergenza ipertensiva in cui un diuretico orale » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL878 (metolazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL878) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Nota: i dati compilati per questo report non riportano un'indicazione approvata 
 
 ## Perché questa predizione può essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa che il toremifene è un SERM, cioè un antagonista del recettore degli estrogeni, ma non è possibile costruire un ragionamento meccanicistico basato sulle annotazioni dei bersagli farmacologici.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Toremifene (traduzione non ufficiale): «Toremifene è un derivato trifeniletilenico non steroideo. Toremifene si lega ai recettori degli estrogeni e può esercitare attività estrogenica, antiestrogenica o entrambe, a seconda della durata del trattamento, della specie animale, del sesso, dell'organo bersaglio o dell'endpoint selezionato.» Testo originale in inglese: "Toremifene is a nonsteroidal triphenylethylene derivative. Toremifene binds to estrogen receptors and may exert estrogenic, antiestrogenic, or both activities, depending upon the duration of treatment, animal species, gender, target organ, or endpoint selected." ([DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5), versione del 2024-11-13; consultato il 2026-11-19). Si sa che il toremifene è un SERM, cioè un antagonista del recettore degli estrogeni, ma non è possibile costruire un ragionamento meccanicistico basato sulle annotazioni dei bersagli farmacologici.
 
 Il punteggio TxGNN è molto elevato (0,9941), ma deriva solo da una predizione basata su rete di conoscenza. L'unica pubblicazione disponibile (2014) è uno studio preclinico che mostra come gli antagonisti del recettore degli estrogeni, tra cui il toremifene, legano proteine con dominio EF-hand (come la calmodulina) e hanno attività fungicida contro *Cryptococcus neoformans*, con sinergia con fluconazolo e amfotericina B in vitro.
 
@@ -135,11 +135,12 @@ La predizione si basa solo sul modello (livello L5). L'unica pubblicazione è pr
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «noltre l'unica autorizzazione italiana è cancellata e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Fareston (toremifene citrate) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2cab8dd1-3a10-48e6-86ce-0e5275ed49e5) |
 
 <!-- review:end log -->
 

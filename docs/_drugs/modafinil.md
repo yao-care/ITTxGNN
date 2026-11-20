@@ -54,7 +54,7 @@ Il modafinil è un farmaco che promuove la veglia, utilizzato per contrastare la
 
 ## Perché questa predizione può essere ragionevole (o no)?
 
-I dati sul meccanismo d'azione non sono disponibili in forma dettagliata. In generale si ritiene che il modafinil agisca soprattutto attraverso l'inibizione del trasportatore della dopamina, con effetti a valle sui circuiti della veglia (istaminergici, oressinergici e glutammatergici).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Modafinil (traduzione non ufficiale): «Il meccanismo o i meccanismi attraverso cui modafinil promuove lo stato di veglia non sono noti. Modafinil ha azioni promotrici della veglia simili a quelle degli agenti simpaticomimetici, tra cui amfetamina e metilfenidato, sebbene il profilo farmacologico non sia identico a quello delle amine simpaticomimetiche.» Testo originale in inglese: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), versione del 2026-09-16; consultato il 2026-11-19). In generale si ritiene che il modafinil agisca soprattutto attraverso l'inibizione del trasportatore della dopamina, con effetti a valle sui circuiti della veglia (istaminergici, oressinergici e glutammatergici).
 
 Proprio perché promuove la veglia anziché il sonno, un beneficio diretto sull'insonnia come malattia è meccanicisticamente controintuitivo. Il collegamento più plausibile riguarda i disturbi del ritmo sonno-veglia e la sonnolenza diurna che accompagnano alcune presentazioni simili all'insonnia, per esempio negli anziani, nelle malattie neurologiche (come il morbo di Parkinson) e nel disturbo da lavoro a turni.
 
@@ -104,6 +104,18 @@ La predizione si basa essenzialmente sul modello: l'unico studio completato sull
 - Studi controllati e randomizzati che valutino direttamente il modafinil nell'insonnia
 - Dati dettagliati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, con una valutazione del rischio di peggioramento dell'insonnia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

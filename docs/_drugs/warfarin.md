@@ -58,7 +58,7 @@ Il warfarin è un anticoagulante orale antagonista della vitamina K, utilizzato 
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. È però noto che il warfarin riduce la sintesi dei fattori della coagulazione vitamina K-dipendenti ed è un anticoagulante standard a lungo termine per la prevenzione della trombosi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Warfarin (traduzione non ufficiale): «Warfarin agisce inibendo la sintesi dei fattori della coagulazione vitamina K-dipendenti, che comprendono i Fattori II, VII, IX e X, e le proteine anticoagulanti C e S. La vitamina K è un cofattore essenziale per la sintesi post-ribosomiale dei fattori della coagulazione vitamina K-dipendenti. La vitamina K promuove la biosintesi dei residui di acido γ-carbossiglutammico nelle proteine, essenziali per l'attività biologica.» Testo originale in inglese: "Warfarin acts by inhibiting the synthesis of vitamin K-dependent clotting factors, which include Factors II, VII, IX, and X, and the anticoagulant proteins C and S. Vitamin K is an essential cofactor for the post ribosomal synthesis of the vitamin K-dependent clotting factors. Vitamin K promotes the biosynthesis of γ-carboxyglutamic acid residues in the proteins that are essential for biological activity." ([DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730), versione del 2026-10-28; consultato il 2026-11-19). È però noto che il warfarin riduce la sintesi dei fattori della coagulazione vitamina K-dipendenti ed è un anticoagulante standard a lungo termine per la prevenzione della trombosi.
 
 La carenza di cofattore eparinico II è una trombofilia ereditaria che causa trombosi venosa ricorrente. Il collegamento con l'uso già consolidato del warfarin nelle malattie trombotiche è quindi plausibile. Tuttavia l'indicazione prevista rientra nell'uso esistente: non si tratta di una vera estensione terapeutica, ma di una predisposizione trombotica all'interno dell'ambito già approvato.
 
@@ -139,12 +139,13 @@ Per la carenza di cofattore eparinico II esistono solo case report, senza studi 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'autorizzazione è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730) |
 
 <!-- review:end log -->
 

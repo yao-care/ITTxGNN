@@ -60,7 +60,7 @@ Nota: tra le altre predizioni, la discinesia linguo-facio-buccale (punteggio 0,9
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Secondo le informazioni note, la galantamina inibisce l'acetilcolinesterasi (ACHE) e agisce come modulatore allosterico del recettore nicotinico dell'acetilcolina α7, con efficacia e tollerabilità paragonabili a quelle di altri inibitori delle colinesterasi nell'Alzheimer lieve-moderato.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Galantamine (traduzione non ufficiale): «Sebbene l'eziologia del deterioramento cognitivo nella malattia di Alzheimer (AD) non sia del tutto compresa, è stato riferito che i neuroni che producono acetilcolina degenerano nel cervello dei pazienti con malattia di Alzheimer. Il grado di questa perdita colinergica è stato correlato al grado di deterioramento cognitivo e alla densità delle placche amiloidi (un segno distintivo neuropatologico della malattia di Alzheimer). […] Galantamina, un alcaloide terziario, è un inibitore competitivo e reversibile dell'acetilcolinesterasi.» Testo originale in inglese: "Although the etiology of cognitive impairment in Alzheimer’s disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer’s disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer’s disease). […] Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase." ([DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1), versione del 2026-07-02; consultato il 2026-11-19). Secondo le informazioni note, la galantamina inibisce l'acetilcolinesterasi (ACHE) e agisce come modulatore allosterico del recettore nicotinico dell'acetilcolina α7, con efficacia e tollerabilità paragonabili a quelle di altri inibitori delle colinesterasi nell'Alzheimer lieve-moderato.
 
 Per la predizione di primo rango (disturbi del movimento psicogeni) non esiste una base fisiopatologica colinergica stabilita: il collegamento meccanicistico è speculativo. Lo stesso vale per tic cronici, tremore ortostatico primario, brividi benigni, sindrome tremore-nistagmo-ulcera duodenale, sguardo tonico verso l'alto parossistico benigno dell'infanzia e porfiria acuta intermittente.
 
@@ -157,13 +157,14 @@ Per le informazioni complete consultare il foglietto illustrativo.
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(stato "cancellato")» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
 
 <!-- review:end log -->
 

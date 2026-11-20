@@ -58,7 +58,7 @@ L'amikacina è un antibiotico aminoglicosidico per uso iniettabile (intramuscolo
 
 ## Perché questa predizione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati. Per la classe, gli aminoglicosidi inibiscono la subunità ribosomiale 30S batterica e hanno attività sui Gram-negativi; è quindi plausibile un'attività in vitro contro *Salmonella paratyphi*.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Amikacin (traduzione non ufficiale): «Amikacina, un aminoglicoside, si lega al ribosoma procariotico, inibendo la sintesi proteica nei batteri sensibili. È battericida in vitro nei confronti di batteri Gram-positivi e Gram-negativi.» Testo originale in inglese: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), versione del 2026-07-27; consultato il 2026-11-19). Per la classe, gli aminoglicosidi inibiscono la subunità ribosomiale 30S batterica e hanno attività sui Gram-negativi; è quindi plausibile un'attività in vitro contro *Salmonella paratyphi*.
 
 Tuttavia esiste un limite importante: gli aminoglicosidi penetrano male nelle cellule, mentre la Salmonella è un patogeno intracellulare. L'efficacia clinica nella febbre enterica è perciò dubbia. Le evidenze disponibili sono studi epidemiologici e antibiogrammi, senza dati di intervento.
 
@@ -121,6 +121,19 @@ Per le avvertenze e le controindicazioni si rimanda al foglietto illustrativo.
 - Dati sul meccanismo d'azione
 - Testi di avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Un piano di monitoraggio della tossicità (renale e uditiva) tipica degli aminoglicosidi
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

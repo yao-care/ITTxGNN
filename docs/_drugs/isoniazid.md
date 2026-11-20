@@ -58,7 +58,7 @@ L'isoniazide è un farmaco antitubercolare, originariamente utilizzato per il tr
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione dell'isoniazide non sono al momento disponibili. In base alle informazioni note, l'isoniazide è un agente antitubercolare la cui efficacia nella tubercolosi polmonare è consolidata; sul piano meccanicistico potrebbe essere applicabile alla congiuntivite solo in un contesto molto circoscritto.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Isoniazid (traduzione non ufficiale): «Isoniazide inibisce la sintesi degli acidi micolici, un componente essenziale della parete cellulare batterica. A livelli terapeutici isoniazide è battericida nei confronti dei microrganismi di Mycobacterium tuberculosis intracellulari ed extracellulari in fase di crescita attiva.» Testo originale in inglese: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), versione del 2026-09-04; consultato il 2026-11-19). In base alle informazioni note, l'isoniazide è un agente antitubercolare la cui efficacia nella tubercolosi polmonare è consolidata; sul piano meccanicistico potrebbe essere applicabile alla congiuntivite solo in un contesto molto circoscritto.
 
 Il legame plausibile riguarda esclusivamente le patologie oculari correlate a *Mycobacterium tuberculosis*: la cheratocongiuntivite flittenulare (una reazione di ipersensibilità agli antigeni tubercolari) e la rara tubercolosi congiuntivale primaria. In questi casi l'isoniazide agisce trattando o prevenendo l'infezione micobatterica o la sensibilizzazione sottostante, **non** trattando la congiuntivite in generale.
 
@@ -133,11 +133,12 @@ La predizione si basa essenzialmente sul modello (livello di evidenza L4), senza
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
 
 <!-- review:end log -->
 

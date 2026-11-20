@@ -59,7 +59,7 @@ Il modello TxGNN la indica come possibile candidata per la **cheratite da esposi
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, la tobramicina è un aminoglicoside con attività ad ampio spettro contro i batteri Gram-negativi e lo *Staphylococcus aureus*, ed è già utilizzata per via topica nelle infezioni della superficie oculare.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tobramycin (traduzione non ufficiale): «Tobramicina è un antibatterico aminoglicosidico. […] Tobramicina è un antibatterico aminoglicosidico prodotto da Streptomyces tenebrarius. Agisce principalmente alterando la sintesi proteica, il che porta ad alterata permeabilità della membrana cellulare, progressiva distruzione dell'involucro cellulare e infine morte cellulare.» Testo originale in inglese: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), versione del 2026-04-15; consultato il 2026-11-19). In base alle informazioni note, la tobramicina è un aminoglicoside con attività ad ampio spettro contro i batteri Gram-negativi e lo *Staphylococcus aureus*, ed è già utilizzata per via topica nelle infezioni della superficie oculare.
 
 La cheratite da esposizione è una lesione corneale da disseccamento, nella quale l'infezione batterica secondaria rappresenta un rischio. La profilassi o il trattamento dell'infezione di superficie è quindi plausibile dal punto di vista biologico.
 
@@ -150,12 +150,13 @@ Tra le altre predizioni, l'**otite esterna** (punteggio 0,9981, livello L4) è b
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 
 <!-- review:end log -->
 

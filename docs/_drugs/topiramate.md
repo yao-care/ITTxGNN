@@ -60,7 +60,7 @@ Le predizioni successive, più plausibili, riguardano forme rare di epilessia ri
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione per questo farmaco nei dati compilati per il report. In base alla letteratura generale sul topiramato, i suoi effetti antiepilettici sono attribuiti al blocco dei canali del sodio voltaggio-dipendenti, alla potenziazione dei recettori GABA-A, all'antagonismo dei recettori AMPA/kainato e a una debole inibizione dell'anidrasi carbonica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Topiramate (traduzione non ufficiale): «I meccanismi precisi attraverso i quali topiramato esercita i suoi effetti anticonvulsivanti e di prevenzione dell'emicrania non sono noti; tuttavia, studi preclinici hanno evidenziato quattro proprietà che possono contribuire all'efficacia di topiramato nell'epilessia e nel trattamento preventivo dell'emicrania.» Testo originale in inglese: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), versione del 2026-10-05; consultato il 2026-11-19). In base alla letteratura generale sul topiramato, i suoi effetti antiepilettici sono attribuiti al blocco dei canali del sodio voltaggio-dipendenti, alla potenziazione dei recettori GABA-A, all'antagonismo dei recettori AMPA/kainato e a una debole inibizione dell'anidrasi carbonica.
 
 Per il **tumore del nervo trigemino** non emerge un nesso terapeutico plausibile. Le azioni anticonvulsivanti e neuromodulatorie del topiramato non hanno una relazione stabilita con la biologia dei tumori del nervo trigemino. Il punteggio proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
@@ -144,12 +144,13 @@ Il testo dell'indicazione approvata non è disponibile. Si elencano le principal
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
 
 <!-- review:end log -->
 

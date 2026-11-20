@@ -60,7 +60,7 @@ Si tratta quindi di una previsione puramente computazionale.
 
 ## Perché questa previsione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. L'oxacillina è una beta-lattamina resistente alle penicillinasi: inibisce la sintesi della parete cellulare batterica legandosi alle proteine leganti le penicilline (PBP). La sua efficacia nelle infezioni da stafilococco sensibile alla meticillina è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Oxacillin (traduzione non ufficiale): «Le penicilline resistenti alle penicillinasi esercitano un'azione battericida nei confronti dei microrganismi sensibili alla penicillina durante la fase di moltiplicazione attiva. Tutte le penicilline inibiscono la biosintesi della parete cellulare batterica.» Testo originale in inglese: "Penicillinase-resistant penicillins exert a bactericidal action against penicillin susceptible microorganisms during the state of active multiplication. All penicillins inhibit the biosynthesis of the bacterial cell wall." ([DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef), versione del 2026-08-31; consultato il 2026-11-19). L'oxacillina è una beta-lattamina resistente alle penicillinasi: inibisce la sintesi della parete cellulare batterica legandosi alle proteine leganti le penicilline (PBP). La sua efficacia nelle infezioni da stafilococco sensibile alla meticillina è consolidata.
 
 L'epiglottite è un'infezione batterica della regione sopraglottica. La causa classica è *Haemophilus influenzae* di tipo b, ma possono essere coinvolti anche *S. aureus* e gli streptococchi. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze che il modello ha appreso tra malattie correlate, non evidenze biologiche.
 
@@ -144,13 +144,14 @@ La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né p
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Il prodotto è inoltre revocato in Italia, e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef) |
 
 <!-- review:end log -->
 

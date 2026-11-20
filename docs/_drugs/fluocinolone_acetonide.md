@@ -54,7 +54,7 @@ Il fluocinolone acetonide è un corticosteroide topico, originariamente impiegat
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dai dati di farmacologia compilati risulta comunque che il fluocinolone acetonide agisce sul **recettore dei glucocorticoidi (NR3C1)**, con effetti antinfiammatori e immunosoppressori tipici della classe dei corticosteroidi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fluocinolone Acetonide (traduzione non ufficiale): «I corticosteroidi svolgono un ruolo nella segnalazione cellulare, nella funzione immunitaria, nell'infiammazione e nella regolazione proteica; tuttavia, il preciso meccanismo d'azione nella psoriasi del cuoio capelluto non è noto.» Testo originale in inglese: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in psoriasis of the scalp is unknown." ([DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46), versione del 2026-10-27; consultato il 2026-11-19). Dai dati di farmacologia compilati risulta comunque che il fluocinolone acetonide agisce sul **recettore dei glucocorticoidi (NR3C1)**, con effetti antinfiammatori e immunosoppressori tipici della classe dei corticosteroidi.
 
 Tra le indicazioni originali figura la categoria generale "lichen disease". Il lichen planus ipertrofico è una dermatosi infiammatoria mediata dai linfociti T, e i corticosteroidi topici potenti sono un trattamento standard di prima linea per le varianti di lichen planus. Il punteggio elevato di TxGNN riflette verosimilmente la vicinanza con questa indicazione già esistente.
 
@@ -104,11 +104,12 @@ La predizione si basa solo sul modello TxGNN e su un razionale di classe, senza 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «In più, l'unica autorizzazione italiana è cancellata, il che limita la disponibilità pratica a breve termine» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46) |
 
 <!-- review:end log -->
 

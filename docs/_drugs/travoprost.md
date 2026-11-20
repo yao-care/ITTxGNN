@@ -62,7 +62,7 @@ Nota: i punteggi TxGNN sono tutti prossimi a 1,0 per le prime dieci previsioni e
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle conoscenze generali, travoprost è un agonista del recettore FP delle prostaglandine, che riduce la pressione intraoculare aumentando il deflusso uveosclerale. La sua efficacia nel glaucoma è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Travoprost (traduzione non ufficiale): «Travoprost acido libero, un analogo delle prostaglandine, è un agonista selettivo del recettore prostanoide FP, che si ritiene riduca la IOP aumentando il deflusso uveosclerale. L'esatto meccanismo d'azione non è attualmente noto.» Testo originale in inglese: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), versione del 2026-09-28; consultato il 2026-11-19). Sulla base delle conoscenze generali, travoprost è un agonista del recettore FP delle prostaglandine, che riduce la pressione intraoculare aumentando il deflusso uveosclerale. La sua efficacia nel glaucoma è consolidata.
 
 Per le nuove indicazioni previste, tuttavia, **non è stato individuato un collegamento meccanicistico plausibile**:
 
@@ -172,12 +172,13 @@ Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la mala
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
 
 <!-- review:end log -->
 

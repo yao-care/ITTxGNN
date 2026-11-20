@@ -54,7 +54,7 @@ Almotriptan è un farmaco della classe dei triptani, agonisti dei recettori sero
 
 ## Perché questa previsione è ragionevole?
 
-Nei dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. Sul piano farmacologico, almotriptan agisce come agonista dei recettori 5-HT1B/1D.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Almotriptan (traduzione non ufficiale): «Almotriptan si lega con elevata affinità ai recettori 5-HT 1D, 5-HT 1B e 5-HT 1F. Almotriptan ha una debole affinità per i recettori 5-HT 1A e 5-HT 7, ma non presenta un'affinità o un'attività farmacologica significativa a livello dei siti di legame 5-HT 2, 5-HT 3, 5-HT 4, 5-HT 6; adrenergici alfa o beta; dell'adenosina (A 1, A 2 ); dell'angiotensina (AT 1, AT 2 ); della dopamina (D 1, D 2 ); dell'endotelina (ET A, ET B ); o delle tachichinine (NK 1, NK 2, NK 3 ).» Testo originale in inglese: "Almotriptan binds with high affinity to 5-HT 1D, 5-HT 1B, and 5-HT 1F receptors. Almotriptan has weak affinity for 5-HT 1A and 5-HT 7 receptors, but has no significant affinity or pharmacological activity at 5-HT 2, 5-HT 3, 5-HT 4, 5-HT 6; alpha or beta adrenergic; adenosine (A 1, A 2 ); angiotensin (AT 1, AT 2 ); dopamine (D 1, D 2 ); endothelin (ET A, ET B ); or tachykinin (NK 1, NK 2, NK 3 ) binding sites." ([DailyMed: almotriptan prescribing information, Ajanta Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa380c4-c885-4743-85bf-88819ae68645), versione del 2025-12-31; consultato il 2026-11-19). Sul piano farmacologico, almotriptan agisce come agonista dei recettori 5-HT1B/1D.
 
 L'atrofoderma vermicolare è una rara malattia cutanea atrofica a livello follicolare. Non si riconosce alcun nesso meccanicistico plausibile tra l'agonismo 5-HT1B/1D e la sua patologia.
 
@@ -99,6 +99,19 @@ La previsione non ha né studi clinici né pubblicazioni a supporto (livello L5)
 - Evidenze precliniche o cliniche che colleghino l'agonismo 5-HT1B/1D alla patologia dell'atrofoderma vermicolare.
 - Dati dettagliati sul meccanismo d'azione.
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA, per la valutazione di sicurezza.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: almotriptan prescribing information, Ajanta Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa380c4-c885-4743-85bf-88819ae68645) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

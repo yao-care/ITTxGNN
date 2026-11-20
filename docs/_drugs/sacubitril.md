@@ -62,7 +62,7 @@ Nota: i dati compilati per questo report non riportano le indicazioni approvate 
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze note, sacubitril è un profarmaco il cui metabolita attivo inibisce la neprilisina, enzima che degrada i peptidi natriuretici. Ne risulta un aumento dei peptidi natriuretici, con effetti natriuretici, vasodilatatori e antifibrotici.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per sacubitril and valsartan (associazione che contiene Sacubitril) (traduzione non ufficiale): «Sacubitril e valsartan contiene un inibitore della neprilisina, sacubitril, e un antagonista del recettore dell'angiotensina, valsartan. Sacubitril e valsartan inibisce la neprilisina (endopeptidasi neutra; NEP) tramite LBQ657, il metabolita attivo del profarmaco sacubitril, e blocca il recettore di tipo 1 dell'angiotensina II (AT 1 ) tramite valsartan.» Testo originale in inglese: "Sacubitril and valsartan contains a neprilysin inhibitor, sacubitril, and an angiotensin receptor blocker, valsartan. Sacubitril and valsartan inhibits neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and blocks the angiotensin II type-1 (AT 1 ) receptor via valsartan." ([DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c), versione del 2026-10-30; consultato il 2026-11-19). In base alle conoscenze note, sacubitril è un profarmaco il cui metabolita attivo inibisce la neprilisina, enzima che degrada i peptidi natriuretici. Ne risulta un aumento dei peptidi natriuretici, con effetti natriuretici, vasodilatatori e antifibrotici.
 
 Nel prodotto Entresto sacubitril è associato a valsartan, un antagonista del recettore dell'angiotensina II di tipo 1. Il blocco del sistema renina-angiotensina è un pilastro consolidato nella gestione della malattia renale diabetica. L'aggiunta dell'inibizione della neprilisina potrebbe offrire una protezione renale ulteriore.
 
@@ -148,11 +148,12 @@ La nefropatia diabetica dispone di un razionale meccanicistico credibile e di da
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
 
 <!-- review:end log -->
 

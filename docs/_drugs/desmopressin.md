@@ -54,7 +54,7 @@ La desmopressina è un analogo sintetico della vasopressina che stimola il rilas
 
 ## Perché questa previsione è plausibile (o no)?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle conoscenze note, la desmopressina agisce sui recettori V2 dell'endotelio, aumentando il rilascio nel plasma del fattore di von Willebrand (VWF) e del fattore VIII (FVIII). Per questo è utilizzata nei disturbi emorragici in cui questi fattori sono coinvolti.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Desmopressin (traduzione non ufficiale): «La desmopressina acetato aumenta i livelli plasmatici dell'attività del fattore VIII nei pazienti con emofilia e malattia di von Willebrand di tipo I. Gli effetti antidiuretici della desmopressina acetato sono mediati dalla stimolazione dei recettori della vasopressina 2 (V2), con conseguente aumento del riassorbimento di acqua nel rene e quindi riduzione della produzione di urina. La desmopressina acetato è un ormone sostitutivo dell'ormone antidiuretico nel trattamento del diabete insipido centrale.» Testo originale in inglese: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), versione del 2022-09-28; consultato il 2026-11-19). In base alle conoscenze note, la desmopressina agisce sui recettori V2 dell'endotelio, aumentando il rilascio nel plasma del fattore di von Willebrand (VWF) e del fattore VIII (FVIII). Per questo è utilizzata nei disturbi emorragici in cui questi fattori sono coinvolti.
 
 Il legame meccanicistico con il deficit di protrombina (fattore II) è tuttavia **debole**: la desmopressina non ha un effetto diretto noto sui livelli di protrombina. L'unica pubblicazione disponibile è una rassegna generale del 1993 sulle opzioni di trattamento dei disturbi emorragici congeniti, che non documenta un beneficio specifico per questa condizione.
 
@@ -99,6 +99,19 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 - Dati sul meccanismo d'azione a supporto di un possibile effetto sul deficit di protrombina
 - Studi preclinici o clinici che valutino direttamente la desmopressina in questa condizione
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

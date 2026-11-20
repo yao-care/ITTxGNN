@@ -55,7 +55,7 @@ Il modello TxGNN ne prevede una possibile efficacia nella **nefropatia ipertensi
 
 ## Perché questa previsione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle conoscenze generali, il nebivololo è un beta-bloccante β1 selettivo che, attraverso l'attivazione della eNOS (legata all'agonismo β3), favorisce la vasodilatazione mediata dall'ossido nitrico. Questo profilo è biologicamente coerente con il danno renale da ipertensione.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Nebivolol (traduzione non ufficiale): «Il meccanismo d'azione della risposta antipertensiva di BYSTOLIC non è stato stabilito in modo definitivo. I possibili fattori che potrebbero essere coinvolti includono: riduzione della frequenza cardiaca, riduzione della contrattilità miocardica, diminuzione del tono simpatico verso la periferia da parte dei centri vasomotori cerebrali, soppressione dell'attività reninica e vasodilatazione e riduzione delle resistenze vascolari periferiche.» Testo originale in inglese: "The mechanism of action of the antihypertensive response of BYSTOLIC has not been definitively established. Possible factors that may be involved include: decreased heart rate, decreased myocardial contractility, diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers, suppression of renin activity and vasodilation and decreased peripheral vascular resistance." ([DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8), versione del 2024-08-01; consultato il 2026-11-19). In base alle conoscenze generali, il nebivololo è un beta-bloccante β1 selettivo che, attraverso l'attivazione della eNOS (legata all'agonismo β3), favorisce la vasodilatazione mediata dall'ossido nitrico. Questo profilo è biologicamente coerente con il danno renale da ipertensione.
 
 L'ipertensione e la nefropatia ipertensiva maligna sono strettamente collegate: il controllo pressorio è il fondamento del trattamento. Va inoltre considerato che nell'ipertensione maligna l'uso dei beta-bloccanti richiede cautela clinica specifica.
 
@@ -140,12 +140,13 @@ La previsione per la nefropatia ipertensiva maligna è solo un risultato del mod
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ L'etoposide è un chemioterapico antineoplastico originariamente impiegato nel c
 
 ## Perché la predizione è ragionevole?
 
-Il dato dettagliato sul meccanismo d'azione non è disponibile nei dati compilati. In base alle informazioni note, l'etoposide è un inibitore della topoisomerasi II, la cui efficacia nel carcinoma polmonare a piccole cellule e nei tumori germinali è dimostrata. Meccanisticamente può essere applicabile ai tumori a piccole cellule rotonde, a rapida proliferazione e chemiosensibili, come il sarcoma di Ewing.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Etoposide (traduzione non ufficiale): «L'etoposide induce rotture dei filamenti di DNA mediante un'interazione con la DNA-topoisomerasi II o la formazione di radicali liberi, determinando l'arresto del ciclo cellulare, principalmente nella fase G2 del ciclo cellulare, e la morte cellulare.» Testo originale in inglese: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), versione del 2026-10-07; consultato il 2026-11-19). In base alle informazioni note, l'etoposide è un inibitore della topoisomerasi II, la cui efficacia nel carcinoma polmonare a piccole cellule e nei tumori germinali è dimostrata. Meccanisticamente può essere applicabile ai tumori a piccole cellule rotonde, a rapida proliferazione e chemiosensibili, come il sarcoma di Ewing.
 
 Il sarcoma di Ewing è noto per l'elevata sensibilità ad agenti genotossici come l'etoposide (Gorthi et al., *Nature* 2018). L'aggiunta di ifosfamide ed etoposide alla chemioterapia standard ha migliorato la sopravvivenza libera da eventi nella malattia non metastatica (RCT di fase 3 INT-0154, PMID 12594313). I regimi con etoposide (per es. VDC/IE) sono standard di cura e compaiono nelle raccomandazioni di consenso. Si tratta quindi di pratica clinica già stabilita più che di riposizionamento in senso stretto.
 
@@ -185,12 +185,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano revocate: attualmente non vi è una specialità monocomponente valida in Italia nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
 
 <!-- review:end log -->
 

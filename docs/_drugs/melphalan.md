@@ -62,7 +62,7 @@ con **7 studi clinici** registrati (di cui solo 2 con rilevanza diretta elevata)
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, il melfalan è un agente alchilante bifunzionale che forma legami crociati tra i filamenti del DNA, bloccando replicazione e trascrizione e inducendo la morte cellulare. La sua efficacia nei tumori ovarici è documentata ed è meccanisticamente applicabile ad altri tumori.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Melphalan (traduzione non ufficiale): «Il melfalan è un agente alchilante di tipo bis-cloroetilamminico. Di conseguenza, la sua citotossicità sembra essere correlata all'entità dei legami crociati interfilamento con il DNA, probabilmente tramite legame in posizione N 7 della guanina.» Testo originale in inglese: "Melphalan is an alkylating agent of the bischloroethylamine type. As a result, its cytotoxicity appears to be related to the extent of its interstrand cross-linking with DNA, probably by binding at the N 7 position of guanine." ([DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c), versione del 2026-09-15; consultato il 2026-11-19). In base alle informazioni note, il melfalan è un agente alchilante bifunzionale che forma legami crociati tra i filamenti del DNA, bloccando replicazione e trascrizione e inducendo la morte cellulare. La sua efficacia nei tumori ovarici è documentata ed è meccanisticamente applicabile ad altri tumori.
 
 I tumori germinali sono generalmente molto sensibili ai farmaci che danneggiano il DNA. Regimi a dosi elevate contenenti melfalan, con supporto di cellule staminali autologhe, sono stati testati in tumori germinali recidivati o a prognosi sfavorevole, il che è coerente con il punteggio elevato del modello. Rimane però incerto il contributo specifico del melfalan all'interno delle combinazioni.
 
@@ -153,12 +153,13 @@ Per avvertenze e controindicazioni ufficiali, fare riferimento al foglio illustr
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'unico prodotto autorizzato è cancellato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c) |
 
 <!-- review:end log -->
 

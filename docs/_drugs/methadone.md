@@ -54,7 +54,7 @@ Il metadone è un oppioide sintetico agonista dei recettori mu, noto per l'uso n
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione non sono disponibili nei dati compilati. In base alle conoscenze generali, il metadone è un agonista dei recettori oppioidi mu e un antagonista del recettore NMDA. La modulazione oppioide dei circuiti dopaminergici e striatali rappresenta un possibile legame con la soppressione dei tic.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Methadone (traduzione non ufficiale): «Il metadone cloridrato è un agonista mu; un oppioide sintetico con molteplici azioni qualitativamente simili a quelle della morfina, la più rilevante delle quali coinvolge il sistema nervoso centrale e gli organi costituiti da muscolatura liscia. La sindrome da astinenza da metadone, sebbene qualitativamente simile a quella da morfina, se ne differenzia per un esordio più lento, un decorso più prolungato e sintomi meno gravi.» Testo originale in inglese: "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe." ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), versione del 2026-08-04; consultato il 2026-11-19). In base alle conoscenze generali, il metadone è un agonista dei recettori oppioidi mu e un antagonista del recettore NMDA. La modulazione oppioide dei circuiti dopaminergici e striatali rappresenta un possibile legame con la soppressione dei tic.
 
 L'unico segnale clinico direttamente pertinente è un rapporto del 1992 sul trattamento del disturbo di Tourette con metadone (PMID 1728167). Un lavoro del 2007 sul ruolo degli oppioidi atipici nel disturbo ossessivo-compulsivo, che cita l'efficacia degli oppioidi nei casi refrattari di DOC e Tourette, è solo indiretto. La revisione sulle corree non genetiche non offre alcun supporto.
 
@@ -134,12 +134,13 @@ Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->
 

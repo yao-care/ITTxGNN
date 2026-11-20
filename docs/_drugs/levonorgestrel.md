@@ -58,7 +58,7 @@ Il levonorgestrel è un progestinico sintetico derivato dal 19-nortestosterone, 
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il levonorgestrel è un agonista del recettore del progesterone appartenente ai progestinici di derivazione androstanica (19-nortestosterone), con una certa attività androgenica residua.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Levonorgestrel (traduzione non ufficiale): «Il meccanismo locale attraverso il quale il LNG rilasciato in modo continuo contribuisce all'efficacia contraccettiva di Skyla non è stato dimostrato in modo conclusivo. Studi su Skyla e su prototipi simili di IUS al LNG hanno suggerito diversi meccanismi che prevengono la gravidanza: ispessimento del muco cervicale, che impedisce il passaggio degli spermatozoi nell'utero, inibizione della capacitazione o della sopravvivenza degli spermatozoi e alterazione dell'endometrio.» Testo originale in inglese: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), versione del 2026-03-04; consultato il 2026-11-19). In base alle conoscenze generali, il levonorgestrel è un agonista del recettore del progesterone appartenente ai progestinici di derivazione androstanica (19-nortestosterone), con una certa attività androgenica residua.
 
 L'acne è una patologia multifattoriale in cui gli androgeni svolgono un ruolo importante a livello dell'unità pilosebacea. Un legame biologico con i modulatori ormonali è quindi concepibile. Tuttavia il meccanismo non sostiene chiaramente la predizione: l'attività androgenica residua del levonorgestrel è in genere sfavorevole per l'acne. Il beneficio cutaneo dei contraccettivi ormonali viene attribuito soprattutto alla componente estrogenica e ai progestinici con azione antiandrogena, come il clormadinone acetato, e non al levonorgestrel in sé.
 
@@ -125,11 +125,12 @@ Esiste una sperimentazione randomizzata controllata con placebo sull'acne (livel
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-12 | Tabella: la confezione 036489019 è autorizzata, non revocata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->
 

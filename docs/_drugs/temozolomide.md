@@ -54,7 +54,7 @@ Temozolomide è un agente alchilante orale, noto per l'uso in tumori cerebrali d
 
 ## Perché questa previsione è plausibile?
 
-I dati di meccanismo d'azione compilati per questo report non sono disponibili. In base alle conoscenze farmacologiche generali, temozolomide è un agente alchilante orale che metila il DNA (O6-guanina, N7-guanina, N3-adenina), causando lesioni citotossiche e apoptosi nelle cellule tumorali in divisione. La sua attività dipende in larga misura dalla metilazione del promotore di MGMT: una bassa espressione di MGMT aumenta la sensibilità al farmaco.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Temozolomide (traduzione non ufficiale): «Temozolomide non è direttamente attiva, ma va incontro a una rapida conversione non enzimatica a pH fisiologico nel composto reattivo 5-(3-metiltriazen-1-il)-imidazolo-4-carbossamide (MTIC). Si ritiene che la citotossicità del MTIC sia dovuta principalmente all'alchilazione del DNA, soprattutto in posizione O 6 e N 7 della guanina, che causa rotture del DNA a doppio filamento e determina la morte cellulare programmata.» Testo originale in inglese: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), versione del 2026-02-20; consultato il 2026-11-19). In base alle conoscenze farmacologiche generali, temozolomide è un agente alchilante orale che metila il DNA (O6-guanina, N7-guanina, N3-adenina), causando lesioni citotossiche e apoptosi nelle cellule tumorali in divisione. La sua attività dipende in larga misura dalla metilazione del promotore di MGMT: una bassa espressione di MGMT aumenta la sensibilità al farmaco.
 
 Il farmaco penetra nel sistema nervoso centrale ed è utilizzato nei gliomi primari del SNC. I tumori della cauda equina sono più spesso ependimomi mixopapillari, di derivazione gliale, e ciò rende biologicamente plausibile un'estensione dell'uso. Il punteggio TxGNN (modello di deep learning) è molto alto (0,9930) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica; resta una previsione computazionale.
 
@@ -114,6 +114,19 @@ La previsione si basa su un punteggio computazionale elevato e su un solo case r
 - Dati sul meccanismo d'azione da DrugBank
 - Dati sulla via di somministrazione e sullo stato di metilazione di MGMT in questi tumori
 - Piano di monitoraggio ematologico, data la mielosoppressione segnalata
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

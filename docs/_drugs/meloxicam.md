@@ -55,7 +55,7 @@ Il modello TxGNN lo prevede come potenzialmente efficace per la **displasia acro
 
 ## Perché questa previsione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, il meloxicam è un FANS preferenzialmente inibitore della COX-2, con effetto antinfiammatorio e analgesico sintomatico nelle patologie articolari.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Meloxicam (traduzione non ufficiale): «Meloxicam possiede proprietà analgesiche, antinfiammatorie e antipiretiche. Il meccanismo d'azione di Zybic™, come quello degli altri FANS, non è completamente compreso, ma comporta l'inibizione della cicloossigenasi (COX-1 e COX-2).» Testo originale in inglese: "Meloxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec), versione del 2026-09-25; consultato il 2026-11-19). In base alle informazioni note, il meloxicam è un FANS preferenzialmente inibitore della COX-2, con effetto antinfiammatorio e analgesico sintomatico nelle patologie articolari.
 
 Per questa specifica previsione, tuttavia, **non emerge un chiaro legame meccanicistico**. La displasia acromesomelica di tipo Hunter-Thompson è una rara displasia scheletrica causata da varianti con perdita di funzione di CDMP1/GDF5, che compromettono la condrogenesi. Il meloxicam non è in grado di modificare il difetto genetico di base. L'elevato punteggio TxGNN riflette verosimilmente la prossimità, nella rete di conoscenza, a fenotipi scheletrici e articolari, più che un reale meccanismo terapeutico.
 
@@ -144,13 +144,14 @@ La previsione principale non ha alcun supporto clinico o bibliografico (livello 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è ril» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di mel» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
 
 <!-- review:end log -->
 

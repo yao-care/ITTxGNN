@@ -55,7 +55,7 @@ Il modello TxGNN ne predice un possibile effetto nel **disturbo primario del ril
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. Sulla base delle conoscenze generali, filgrastim è un G-CSF che agisce sulla linea neutrofila, e la sua efficacia nelle neutropenie è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Filgrastim (traduzione non ufficiale): «I fattori stimolanti le colonie sono glicoproteine che agiscono sulle cellule ematopoietiche legandosi a specifici recettori della superficie cellulare e stimolando la proliferazione, l'impegno differenziativo e una certa attivazione funzionale delle cellule mature. Il G-CSF endogeno è un fattore stimolante le colonie specifico di linea prodotto da monociti, fibroblasti e cellule endoteliali.» Testo originale in inglese: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), versione del 2026-11-10; consultato il 2026-11-19). Sulla base delle conoscenze generali, filgrastim è un G-CSF che agisce sulla linea neutrofila, e la sua efficacia nelle neutropenie è consolidata.
 
 Tuttavia, non esiste un legame meccanicistico noto con i difetti di secrezione/rilascio piastrinico. Il punteggio TxGNN molto alto (0,99998) è un risultato del modello e non è corroborato da evidenze cliniche. Lo stesso vale per le altre indicazioni predette, ad esempio la pseudo-malattia di von Willebrand, la trombastenia di Glanzmann e la sindrome di Scott: tutte con evidenza L5 e senza un ponte meccanicistico plausibile con la segnalazione del recettore del G-CSF.
 
@@ -132,13 +132,14 @@ La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubbl
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono attualmente autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->
 

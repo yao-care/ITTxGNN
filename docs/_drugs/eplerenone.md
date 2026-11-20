@@ -58,7 +58,7 @@ L'eplerenone è un antagonista del recettore dei mineralcorticoidi, originariame
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione registrato non sono disponibili per questo farmaco. In base alle conoscenze generali, l'eplerenone è un antagonista selettivo del recettore dei mineralcorticoidi (MR). Il suo effetto nell'ipertensione sistemica è consolidato e, sul piano meccanicistico, potrebbe essere applicabile anche alla circolazione polmonare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Eplerenone (traduzione non ufficiale): «L'eplerenone si lega al recettore dei mineralcorticoidi e blocca il legame dell'aldosterone, un componente del sistema renina-angiotensina-aldosterone (RAAS). La sintesi dell'aldosterone, che avviene principalmente nella ghiandola surrenale, è modulata da molteplici fattori, tra cui l'angiotensina II e mediatori non appartenenti al RAAS come l'ormone adrenocorticotropo (ACTH) e il potassio.» Testo originale in inglese: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), versione del 2025-06-23; consultato il 2026-11-19). In base alle conoscenze generali, l'eplerenone è un antagonista selettivo del recettore dei mineralcorticoidi (MR). Il suo effetto nell'ipertensione sistemica è consolidato e, sul piano meccanicistico, potrebbe essere applicabile anche alla circolazione polmonare.
 
 Il razionale biologico è plausibile: il blocco del recettore MR può ridurre il rimodellamento vascolare, la fibrosi e la vasocostrizione indotta dall'aldosterone. Tuttavia, nei dati compilati per questa indicazione specifica non esiste alcuna evidenza che lo confermi, e il meccanismo non può essere verificato rispetto alla farmacologia documentata del farmaco.
 
@@ -90,7 +90,6 @@ Per l'indicazione principale (rank 1) non è disponibile letteratura. Di seguito
 ---
 
 ## Informazioni sul mercato italiano
-
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |---------|------|------|-----------|
@@ -126,6 +125,19 @@ Il punteggio TxGNN è molto alto, ma si tratta solo di una predizione del modell
 - Avvertenze e controindicazioni del foglio illustrativo AIFA, necessarie per lo screening di sicurezza.
 - Studi clinici o evidenze cliniche dirette sull'eplerenone nell'ipertensione polmonare (pressione arteriosa polmonare, esiti funzionali ed emodinamici).
 - Piano di monitoraggio di potassio e funzione renale, in particolare nei pazienti con compromissione renale o in terapia con farmaci interagenti.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

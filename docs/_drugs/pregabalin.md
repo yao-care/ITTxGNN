@@ -56,7 +56,7 @@ Nota: la previsione con il punteggio TxGNN più alto è la tendinite (0,9971), m
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nei dati compilati per questo report. Sulla base delle conoscenze note, il pregabalin è un ligando della subunità alfa2-delta dei canali del calcio voltaggio-dipendenti: riduce il rilascio di neurotrasmettitori eccitatori (glutammato, sostanza P, rilascio correlato al CGRP) e l'ipereccitabilità neuronale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pregabalin (traduzione non ufficiale): «Il pregabalin si lega con elevata affinità al sito alfa 2 ‑delta (una subunità ausiliaria dei canali del calcio voltaggio‑dipendenti) nei tessuti del sistema nervoso centrale. Sebbene il meccanismo d'azione del pregabalin non sia stato completamente chiarito, i risultati ottenuti con topi geneticamente modificati e con composti strutturalmente correlati al pregabalin (come il gabapentin) suggeriscono che il legame alla subunità alfa 2 ‑delta possa essere coinvolto negli effetti antinocicettivi e anticonvulsivanti del pregabalin negli animali.» Testo originale in inglese: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versione del 2026-03-12; consultato il 2026-11-19). Sulla base delle conoscenze note, il pregabalin è un ligando della subunità alfa2-delta dei canali del calcio voltaggio-dipendenti: riduce il rilascio di neurotrasmettitori eccitatori (glutammato, sostanza P, rilascio correlato al CGRP) e l'ipereccitabilità neuronale.
 
 Questo meccanismo è plausibile per l'emicrania, perché la sensibilizzazione centrale e l'iperattività neuronale sono componenti centrali della sua fisiopatologia. Studi preclinici mostrano che il pregabalin aumenta la soglia di iniziazione della depressione corticale diffusa (alla base dell'aura emicranica) e la inibisce anche nel modello murino di emicrania emiplegica familiare di tipo 1. Inoltre, altri antiepilettici (topiramato, valproato) sono preventivi consolidati dell'emicrania, il che sostiene la plausibilità a livello di classe farmacologica.
 
@@ -131,12 +131,13 @@ Per l'emicrania il meccanismo è plausibile e ci sono alcuni studi randomizzati 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali sono mancanti, quindi non è possibile procedere a» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->
 

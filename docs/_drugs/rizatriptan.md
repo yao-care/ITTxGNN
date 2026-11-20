@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**emicrania con aura de
 
 ## Perché questa previsione è ragionevole?
 
-I dati sul meccanismo d'azione non sono disponibili nei dati compilati per questo rapporto. Sulla base delle conoscenze generali, rizatriptan è un agonista 5-HT1B/1D: il suo effetto nell'emicrania è attribuito alla vasocostrizione dei vasi intracranici e all'inibizione del rilascio di neuropeptidi (tra cui CGRP) a livello trigeminovascolare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rizatriptan (traduzione non ufficiale): «Rizatriptan si lega con elevata affinità ai recettori 5-HT 1B/1D umani clonati. Rizatriptan esercita presumibilmente i suoi effetti terapeutici nel trattamento della cefalea emicranica legandosi ai recettori 5-HT 1B/1D situati sui vasi sanguigni intracranici e sui nervi sensoriali del sistema trigeminale.» Testo originale in inglese: "Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system." ([DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce), versione del 2025-11-26; consultato il 2026-11-19). Sulla base delle conoscenze generali, rizatriptan è un agonista 5-HT1B/1D: il suo effetto nell'emicrania è attribuito alla vasocostrizione dei vasi intracranici e all'inibizione del rilascio di neuropeptidi (tra cui CGRP) a livello trigeminovascolare.
 
 L'emicrania con aura del tronco encefalico (in passato "emicrania di tipo basilare") è un sottotipo di emicrania con aura, quindi condivide la fisiopatologia di base (attivazione trigeminovascolare, rilascio di CGRP, depressione corticale diffusa). Questo rende plausibile un effetto terapeutico.
 
@@ -154,13 +154,14 @@ La previsione è sostenuta solo dalla vicinanza al sottotipo di emicrania già t
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(formulazioni disponibili in Italia, dato che tutte le licenze risultano cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
 
 <!-- review:end log -->
 

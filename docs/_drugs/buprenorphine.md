@@ -55,7 +55,7 @@ Il modello TxGNN la indica come possibile candidata per la **porfiria acuta inte
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili. La buprenorfina agisce sui recettori μ (OPRM1) e κ (OPRK1), come indicato dai dati farmacologici raccolti, ma i dati compilati non offrono alcun collegamento meccanicistico diretto tra questa azione e la porfiria acuta intermittente.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Buprenorphine (traduzione non ufficiale): «SUBLOCADE preparazione iniettabile contiene buprenorfina. Buprenorfina è un agonista parziale del recettore mu- oppioide e un antagonista del recettore kappa-oppioide.» Testo originale in inglese: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), versione del 2026-07-27; consultato il 2026-11-19). La buprenorfina agisce sui recettori μ (OPRM1) e κ (OPRK1), come indicato dai dati farmacologici raccolti, ma i dati compilati non offrono alcun collegamento meccanicistico diretto tra questa azione e la porfiria acuta intermittente.
 
 L'unica pubblicazione disponibile riguarda la gestione anestesiologica di una paziente con porfiria: tratta quindi la sicurezza dei farmaci nel periodo perioperatorio, non un beneficio terapeutico. Il punteggio elevato (0,9941) è soltanto una predizione del modello. Inoltre, la sicurezza della buprenorfina nella porfiria (potenziale porfirinogenico) non è stabilita dai dati disponibili e dovrebbe essere verificata prima di qualsiasi ipotesi d'uso.
 
@@ -102,6 +102,19 @@ La predizione si basa solo sul modello: non ci sono studi clinici registrati e l
 - Valutazione del potenziale porfirinogenico della buprenorfina
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA
 - Studi preclinici o clinici che esaminino direttamente questa indicazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

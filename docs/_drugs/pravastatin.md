@@ -62,7 +62,7 @@ A sostegno di questa direzione ci sono **12 studi clinici** e **19 pubblicazioni
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, la pravastatina inibisce l'HMG-CoA reduttasi (confermato dal dato di farmacologia sul bersaglio HMGCR), riduce la sintesi epatica di colesterolo e aumenta l'espressione dei recettori epatici per le LDL. La sua efficacia nelle dislipidemie è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pravastatin (traduzione non ufficiale): «Il pravastatina è un inibitore reversibile della HMG-CoA reduttasi, l'enzima limitante la velocità che converte l'HMG-CoA in mevalonato, un precursore del colesterolo.» Testo originale in inglese: "Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d), versione del 2026-10-23; consultato il 2026-11-19). In base alle informazioni note, la pravastatina inibisce l'HMG-CoA reduttasi (confermato dal dato di farmacologia sul bersaglio HMGCR), riduce la sintesi epatica di colesterolo e aumenta l'espressione dei recettori epatici per le LDL. La sua efficacia nelle dislipidemie è consolidata.
 
 Nell'HIV il razionale **non è antivirale**. I pazienti con HIV, in particolare quelli trattati con inibitori della proteasi, sviluppano spesso dislipidemia e hanno un rischio cardiovascolare aumentato. La pravastatina agisce su questo versante, con possibili effetti pleiotropici su funzione endoteliale e infiammazione.
 
@@ -172,13 +172,14 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglietto illustrati
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è attiva nessuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «l prodotto non ha autorizzazioni attive in Italia, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
 
 <!-- review:end log -->
 

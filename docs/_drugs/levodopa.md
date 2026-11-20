@@ -56,7 +56,7 @@ Tuttavia, nei dati compilati per questo report non risulta **nessuno studio clin
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato. In termini generali, la levodopa è un precursore della dopamina che viene decarbossilato a dopamina nel sistema nervoso centrale; la sua efficacia nella malattia di Parkinson è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Levodopa (traduzione non ufficiale): «La levodopa, precursore metabolico della dopamina, attraversa la barriera ematoencefalica e presumibilmente viene convertita in dopamina nel cervello. Si ritiene che questo sia il meccanismo attraverso il quale la levodopa allevia i sintomi della malattia di Parkinson.» Testo originale in inglese: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), versione del 2026-07-20; consultato il 2026-11-19). In termini generali, la levodopa è un precursore della dopamina che viene decarbossilato a dopamina nel sistema nervoso centrale; la sua efficacia nella malattia di Parkinson è consolidata.
 
 L'encefalite di Rasmussen è invece una malattia infiammatoria cerebrale cronica, tipicamente unilaterale e immunomediata (guidata dai linfociti T), che causa crisi focali farmacoresistenti (spesso epilessia parziale continua) e atrofia emisferica progressiva. Un possibile legame è l'esistenza di manifestazioni dei gangli della base o di disturbi del movimento associati ad atrofia cerebrale unilaterale (ad esempio la sindrome emiparkinsonismo-emiatrofia), ma si tratta di un'associazione indiretta nella rete di conoscenza.
 
@@ -114,11 +114,12 @@ La previsione poggia solo sul punteggio del modello (livello L5), senza studi cl
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «(le autorizzazioni risultano tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
 
 <!-- review:end log -->
 

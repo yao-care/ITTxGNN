@@ -59,7 +59,7 @@ Il modello TxGNN prevede una possibile efficacia nell'**ipertricosi universale c
 
 ## Perché questa previsione potrebbe avere senso?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. In base alle conoscenze generali, dutasteride inibisce la 5-alfa-reduttasi di tipo 1 e 2, riducendo il diidrotestosterone (DHT). Questo meccanismo è consolidato nell'iperplasia prostatica benigna e rilevante per i follicoli piliferi androgeno-sensibili.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Dutasteride (traduzione non ufficiale): «Dutasteride inibisce la conversione del testosterone in DHT. Il DHT è l'androgeno principalmente responsabile dello sviluppo iniziale e del successivo ingrossamento della ghiandola prostatica. Il testosterone viene convertito in DHT dall'enzima 5 alfa-reduttasi, che esiste in 2 isoforme, di tipo 1 e di tipo 2.» Testo originale in inglese: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), versione del 2026-08-27; consultato il 2026-11-19). In base alle conoscenze generali, dutasteride inibisce la 5-alfa-reduttasi di tipo 1 e 2, riducendo il diidrotestosterone (DHT). Questo meccanismo è consolidato nell'iperplasia prostatica benigna e rilevante per i follicoli piliferi androgeno-sensibili.
 
 La sindrome di Ambras, invece, è un disturbo genetico della crescita dei peli (riarrangiamenti del cromosoma 8q22 che alterano l'espressione di TRPS1) e non dipende primariamente dal DHT. Il legame meccanicistico è quindi **speculativo** e si basa soltanto sul punteggio elevato del modello. Le altre previsioni ad alto punteggio (ipertricosi, anomalie genetiche del fusto del pelo, ipotricosi semplice del cuoio capelluto) condividono lo stesso limite: il fenotipo pilifero è simile, ma la causa non è mediata dal DHT. Per alcune previsioni (sindromi malformative dentali, sindrome con malformazione di Dandy-Walker) non si riconosce alcun meccanismo plausibile.
 
@@ -125,11 +125,12 @@ La previsione per l'ipertricosi di Ambras si basa solo sul punteggio del modello
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->
 

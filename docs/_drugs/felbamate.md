@@ -57,7 +57,7 @@ Nota: l'indicazione con il punteggio più alto (0,9962) è il «tumore del nervo
 
 ## Perché questa previsione è ragionevole?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, il felbamato è un antiepilettico che agisce probabilmente tramite antagonismo del recettore NMDA (sito della glicina), modulazione dei canali del sodio e potenziamento dell'attività GABA-A.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Felbamate (traduzione non ufficiale): «Il meccanismo attraverso il quale il felbamato esercita la sua attività anticonvulsivante non è noto, ma nei sistemi di test sugli animali concepiti per rilevare l'attività anticonvulsivante, il felbamato presenta proprietà in comune con altri anticonvulsivanti in commercio. Il felbamato è efficace nei topi e nei ratti nel test dell'elettroshock massimale, nel test delle convulsioni da pentilentetrazolo per via sottocutanea e nel test delle convulsioni da picrotossina per via sottocutanea.» Testo originale in inglese: "The mechanism by which felbamate exerts its anticonvulsant activity is unknown, but in animal test systems designed to detect anticonvulsant activity, felbamate has properties in common with other marketed anticonvulsants. Felbamate is effective in mice and rats in the maximal electroshock test, the subcutaneous pentylenetetrazol seizure test, and the subcutaneous picrotoxin seizure test." ([DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66), versione del 2025-08-15; consultato il 2026-11-19). In base alle conoscenze generali, il felbamato è un antiepilettico che agisce probabilmente tramite antagonismo del recettore NMDA (sito della glicina), modulazione dei canali del sodio e potenziamento dell'attività GABA-A.
 
 La nevralgia del trigemino è un dolore facciale parossistico, con un profilo temporale simile a quello delle crisi epilettiche. Per questo motivo diversi anticonvulsivanti (carbamazepina come farmaco di scelta, fenitoina, valproato) sono efficaci. I meccanismi del felbamato si sovrappongono in parte a quelli della carbamazepina, quindi il collegamento è biologicamente plausibile.
 
@@ -120,12 +120,13 @@ L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio cl
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Il farmaco non è più commercializzato in Italia e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

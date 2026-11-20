@@ -54,7 +54,7 @@ Ziprasidone è un antipsicotico atipico con antagonismo sui recettori serotonine
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Dai dati compilati non è disponibile una descrizione dettagliata del meccanismo d'azione. Tuttavia, ziprasidone è noto per l'antagonismo 5-HT2A/D2, e la modulazione dopaminergica e serotoninergica è plausibile nei disturbi del controllo degli impulsi e nei comportamenti ripetitivi, categoria a cui appartiene la tricotillomania.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ziprasidone (traduzione non ufficiale): «Il meccanismo d'azione di ziprasidone nel trattamento delle indicazioni elencate potrebbe essere mediato da una combinazione di antagonismo sui recettori dopaminergici di tipo 2 (D 2 ) e serotoninergici di tipo 2 (5HT 2 ).» Testo originale in inglese: "The mechanism of action of ziprasidone in the treatment of the listed indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348), versione del 2026-09-18; consultato il 2026-11-19). Tuttavia, ziprasidone è noto per l'antagonismo 5-HT2A/D2, e la modulazione dopaminergica e serotoninergica è plausibile nei disturbi del controllo degli impulsi e nei comportamenti ripetitivi, categoria a cui appartiene la tricotillomania.
 
 Si tratta di un'ipotesi meccanicistica, non dimostrata: i dati non contengono alcuno studio clinico o articolo che colleghi ziprasidone alla tricotillomania. La predizione va quindi considerata una generazione di ipotesi, da verificare.
 
@@ -100,6 +100,18 @@ Il punteggio TxGNN è molto alto (0,9983), ma non esistono studi clinici né pub
 - Dati sul meccanismo d'azione dettagliati
 - Le avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Eventuali studi pilota o registrazione di trial clinici mirati, con monitoraggio dell'intervallo QTc come misura di cautela
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ziprasidone Mesylate 20 Mg/Ml (ziprasidone mesylate) prescribing information, Armas Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5c27f0f-4e45-4bca-bb9a-2d3f1c243348) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -55,7 +55,7 @@ Il modello TxGNN ne predice una possibile efficacia nella **sindrome di Ohdo e v
 
 ## Perché questa predizione può (o non può) essere ragionevole?
 
-Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle informazioni farmacologiche note, la mirtazapina ha la maggiore affinità misurabile per i recettori alfa-2 adrenergici (2A > 2C > 2B) e per i recettori serotoninergici 5-HT2A e 5-HT2C. È un antidepressivo noradrenergico e serotoninergico specifico, con attività antagonista anche su recettori 5-HT3 e H1.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Mirtazapine (traduzione non ufficiale): «Il meccanismo d'azione della mirtazapina nel trattamento del disturbo depressivo maggiore non è chiaro. Tuttavia, la sua efficacia potrebbe essere mediata dalla sua attività di antagonista sugli autorecettori ed eterorecettori inibitori α 2 -adrenergici presinaptici centrali e dal potenziamento dell'attività noradrenergica e serotoninergica centrale.» Testo originale in inglese: "The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity." ([DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887), versione del 2025-08-06; consultato il 2026-11-19). In base alle informazioni farmacologiche note, la mirtazapina ha la maggiore affinità misurabile per i recettori alfa-2 adrenergici (2A > 2C > 2B) e per i recettori serotoninergici 5-HT2A e 5-HT2C. È un antidepressivo noradrenergico e serotoninergico specifico, con attività antagonista anche su recettori 5-HT3 e H1.
 
 La sindrome di Ohdo (comprese le varianti correlate a KAT6B) è una rara malattia genetica della regolazione della cromatina, caratterizzata da disabilità intellettiva e tratti craniofacciali. Non emerge alcun collegamento meccanicistico tra l'attività recettoriale della mirtazapina e la patologia di base. Il punteggio TxGNN è molto alto, ma deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche. Un eventuale beneficio sarebbe al massimo sintomatico (sonno, appetito, umore) e non modificante la malattia.
 
@@ -125,12 +125,13 @@ La predizione si basa solo sul modello (livello L5), senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Rimosso: «A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
 
 <!-- review:end log -->
 

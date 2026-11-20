@@ -54,7 +54,7 @@ La carbamazepina è un farmaco antiepilettico e stabilizzatore dell'umore, noto 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Dai dati compilati per questo report non sono disponibili informazioni dettagliate sul meccanismo d'azione. In generale la carbamazepina agisce bloccando i canali del sodio voltaggio-dipendenti ed è un trattamento consolidato per la nevralgia del trigemino.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Carbamazepine (traduzione non ufficiale): «Tegretol ha dimostrato proprietà anticonvulsivanti in ratti e topi con crisi convulsive indotte elettricamente e chimicamente. Sembra agire riducendo le risposte polisinaptiche e bloccando il potenziamento post-tetanico. […] Il principale metabolita di Tegretol, carbamazepina-10,11-epossido, possiede attività anticonvulsivante, come dimostrato in diversi modelli animali in vivo di crisi convulsive.» Testo originale in inglese: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), versione del 2026-08-20; consultato il 2026-11-19). In generale la carbamazepina agisce bloccando i canali del sodio voltaggio-dipendenti ed è un trattamento consolidato per la nevralgia del trigemino.
 
 Il legame con la nuova indicazione è soprattutto indiretto. La letteratura raccolta descrive casi di nevralgia del trigemino secondaria a tumori o lesioni compressive (schwannoma, meningioma, cisti dermoide, lipoma, angioma, linfoma, melanoma, adenoma ipofisario). In questi casi la carbamazepina può attenuare il dolore neuralgico, ma non c'è alcuna evidenza di un'attività antitumorale: si tratterebbe di gestione del sintomo, non di trattamento della neoplasia. L'elevato punteggio del modello riflette probabilmente la vicinanza con la nevralgia del trigemino, e va interpretato con cautela.
 
@@ -108,6 +108,19 @@ Nessuno studio clinico o pubblicazione valuta direttamente la carbamazepina per 
 - Studi preclinici o clinici che valutino direttamente la neoplasia del nervo trigemino
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione della sicurezza
 - Distinzione chiara tra obiettivo di controllo del dolore e trattamento della neoplasia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

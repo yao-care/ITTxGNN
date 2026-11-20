@@ -54,7 +54,7 @@ Il flurbiprofene è un farmaco antinfiammatorio non steroideo (FANS) che agisce 
 
 ## Perché questa predizione potrebbe (o non potrebbe) essere ragionevole
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In generale il flurbiprofene appartiene alla classe dei FANS, che riducono infiammazione e dolore bloccando la sintesi delle prostaglandine.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Flurbiprofen (traduzione non ufficiale): «Flurbiprofene possiede proprietà analgesiche, antinfiammatorie e antipiretiche. Il meccanismo d'azione di flurbiprofene, come quello di altri FANS, non è completamente noto, ma comporta l'inibizione della cicloossigenasi (COX-1 e COX-2).» Testo originale in inglese: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), versione del 2026-10-05; consultato il 2026-11-19). In generale il flurbiprofene appartiene alla classe dei FANS, che riducono infiammazione e dolore bloccando la sintesi delle prostaglandine.
 
 La displasia acromesomelica tipo Hunter-Thompson è una rara displasia scheletrica causata da mutazioni con perdita di funzione del gene CDMP1/GDF5. Non è noto alcun legame tra l'inibizione della ciclossigenasi e questa via di sviluppo scheletrico. Il punteggio elevato riflette quindi una predizione computazionale, non un razionale farmacologico supportato. Al massimo si potrebbe ipotizzare un beneficio sintomatico sul dolore, senza alcuna prova.
 
@@ -106,6 +106,18 @@ La predizione non è supportata da alcuno studio clinico o pubblicazione, né da
 - Evidenze precliniche o cliniche che colleghino il farmaco a questa malattia
 - Acquisizione e analisi del foglio illustrativo AIFA per avvertenze e controindicazioni
 - Valutazione della compatibilità delle vie di somministrazione e del rapporto beneficio-rischio in una popolazione pediatrica rara
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

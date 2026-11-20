@@ -56,7 +56,7 @@ ma per questa direzione non risultano **né sperimentazioni cliniche né pubblic
 
 ## Perché questa previsione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alle conoscenze generali, il fosinopril è un profarmaco che viene convertito nel metabolita attivo fosinoprilato, un inibitore dell'enzima di conversione dell'angiotensina (ACE). Riduce quindi i livelli di angiotensina II, uno dei principali motori dell'ipertensione dipendente dalla renina.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fosinopril (traduzione non ufficiale): «Negli animali e nell'uomo, fosinopril sodico viene idrolizzato dalle esterasi nella forma farmacologicamente attiva, fosinoprilat, un inibitore competitivo specifico dell'enzima di conversione dell'angiotensina (ACE). L'ACE è una peptidil dipeptidasi che catalizza la conversione dell'angiotensina I nella sostanza vasocostrittrice angiotensina II.» Testo originale in inglese: "In animals and humans, fosinopril sodium is hydrolyzed by esterases to the pharmacologically active form, fosinoprilat, a specific competitive inhibitor of angiotensin-converting enzyme (ACE). ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35), versione del 2023-11-27; consultato il 2026-11-19). In base alle conoscenze generali, il fosinopril è un profarmaco che viene convertito nel metabolita attivo fosinoprilato, un inibitore dell'enzima di conversione dell'angiotensina (ACE). Riduce quindi i livelli di angiotensina II, uno dei principali motori dell'ipertensione dipendente dalla renina.
 
 L'ipertensione renovascolare dipende fortemente dal sistema renina-angiotensina-aldosterone (RAAS), perciò il legame biologico è plausibile. Va però sottolineato che si tratta essenzialmente di un'estensione dell'indicazione ipertensiva già esistente, più che di un vero segnale di riposizionamento. Gli ACE-inibitori comportano inoltre il rischio di un peggioramento acuto della funzione renale in caso di stenosi bilaterale delle arterie renali.
 
@@ -120,11 +120,12 @@ La previsione ha un punteggio alto (0,9987) ma si basa solo sul modello (livello
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «dato che attualmente non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35) |
 
 <!-- review:end log -->
 

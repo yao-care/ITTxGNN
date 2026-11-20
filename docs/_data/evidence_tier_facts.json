@@ -9,7 +9,7 @@
   "with_current": 20,
   "none_current": 0,
   "without_data": 4,
-  "with_reviews": 16,
+  "with_reviews": 18,
   "rows": [
    {
     "t": "Bupropion",
@@ -51,8 +51,8 @@
     "i": "pre-malignant neoplasm",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -62,7 +62,7 @@
     "i": "Disturbo da cefalea",
     "lt": 13,
     "lv": 11,
-    "r": 4,
+    "r": 5,
     "rs": "«13 autorizzazioni valide su 13» → 11 su 13",
     "x": 0
    },
@@ -84,7 +84,7 @@
     "i": "Dermatite seborroica",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che le autorizzazioni sono tutte cancellate»",
     "x": 0
    },
@@ -139,7 +139,7 @@
     "i": "Acne",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Tabella: la confezione 036489019 è autorizzata, non revocata",
     "x": 0
    },
@@ -161,7 +161,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che le autorizzazioni risultano annullate»",
     "x": 0
    },
@@ -172,7 +172,7 @@
     "i": "Infezione da HIV",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -183,7 +183,7 @@
     "i": "liposarcoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazione cancellata)»",
     "x": 0
    },
@@ -194,7 +194,7 @@
     "i": "Infezione da virus dell'epatite B",
     "lt": 5,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che le autorizzazioni attuali sono tutte cancellate»",
     "x": 0
    },
@@ -205,8 +205,8 @@
     "i": "Disturbo da deficit di attenzione e iperattività",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -216,7 +216,7 @@
     "i": "Reflusso duodeno-gastrico",
     "lt": 7,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano»",
     "x": 0
    },
@@ -227,7 +227,7 @@
     "i": "Sarcoma di Ewing",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi…",
     "x": 0
    }
@@ -251,7 +251,7 @@
   "with_current": 41,
   "none_current": 0,
   "without_data": 10,
-  "with_reviews": 33,
+  "with_reviews": 36,
   "rows": [
    {
     "t": "Calcipotriol",
@@ -282,7 +282,7 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 7,
     "lv": 7,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le licenze elencate sono cancellate»",
     "x": 0
    },
@@ -304,7 +304,7 @@
     "i": "bronchitis",
     "lt": 10,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che le autorizzazioni risultano tutte cancellate»",
     "x": 0
    },
@@ -326,7 +326,7 @@
     "i": "amenorrhea (disease)",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che le due autorizzazioni risultano revocate»",
     "x": 0
    },
@@ -337,7 +337,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve…",
     "x": 0
    },
@@ -381,8 +381,8 @@
     "i": "alopecia areata",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -403,7 +403,7 @@
     "i": "Disturbo da deficit di attenzione e iperattività",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide»",
     "x": 0
    },
@@ -425,7 +425,7 @@
     "i": "obsessive-compulsive disorder",
     "lt": 8,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate)…",
     "x": 0
    },
@@ -447,7 +447,7 @@
     "i": "acne (disease)",
     "lt": 4,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(autorizzazioni cancellate)»",
     "x": 0
    },
@@ -458,7 +458,7 @@
     "i": "Emicrania",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e l'unica autorizzazione italiana è revocata, per cui non c'è una base regolatoria locale attiva»",
     "x": 0
    },
@@ -469,8 +469,8 @@
     "i": "Mucinosi follicolare",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -491,7 +491,7 @@
     "i": "Ictus",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -524,7 +524,7 @@
     "i": "Artrite reumatoide",
     "lt": 7,
     "lv": 6,
-    "r": 4,
+    "r": 5,
     "rs": "Tabella: la confezione 026737039 non è più autorizzata",
     "x": 0
    },
@@ -535,7 +535,7 @@
     "i": "Pneumocistosi",
     "lt": 10,
     "lv": 10,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -546,7 +546,7 @@
     "i": "acne (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «'unica autorizzazione italiana è cancellata e l»",
     "x": 0
    },
@@ -557,7 +557,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide»",
     "x": 0
    },
@@ -568,7 +568,7 @@
     "i": "Trombocitopenia da distruzione immunitaria",
     "lt": 6,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(le autorizzazioni elencate sono cancellate)»",
     "x": 0
    },
@@ -579,7 +579,7 @@
     "i": "Tourette syndrome",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cancellate)»",
     "x": 0
    },
@@ -601,7 +601,7 @@
     "i": "Malattia cardiaca",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'unica autorizzazione è cancellata»",
     "x": 0
    },
@@ -623,7 +623,7 @@
     "i": "Disturbo da deficit di attenzione e iperattività",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -634,8 +634,8 @@
     "i": "Malattia fibrocistica della mammella",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -645,7 +645,7 @@
     "i": "Congiuntivite",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e in Italia non vi sono autorizzazioni valide»",
     "x": 0
    },
@@ -656,7 +656,7 @@
     "i": "Infezione da virus dell'immunodeficienza delle scimmie",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, in Italia la sola autorizzazione risulta cancellata»",
     "x": 0
    },
@@ -667,7 +667,7 @@
     "i": "Infezione da virus dell'immunodeficienza delle scimmie",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, l'unica autorizzazione italiana risulta cancellata»",
     "x": 0
    },
@@ -678,7 +678,7 @@
     "i": "Cheratite da esposizione",
     "lt": 9,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
     "x": 0
    },
@@ -723,7 +723,7 @@
   "with_current": 356,
   "none_current": 2,
   "without_data": 76,
-  "with_reviews": 216,
+  "with_reviews": 286,
   "rows": [
    {
     "t": "Anastrozole",
@@ -732,8 +732,8 @@
     "i": "neuroblastoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -743,8 +743,8 @@
     "i": "Paralisi dello sguardo orizzontale familiare con scoliosi progressiva",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -754,8 +754,8 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -776,8 +776,8 @@
     "i": "Sindrome da iperviscosità policlonale",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -798,8 +798,8 @@
     "i": "Sclerodermia diffusa",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -842,7 +842,7 @@
     "i": "Ipertricosi universale congenita di tipo Ambras",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, in Italia non esistono autorizzazioni attualmente valide»",
     "x": 0
    },
@@ -853,7 +853,7 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -864,7 +864,7 @@
     "i": "Emicrania",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -875,7 +875,7 @@
     "i": "antithrombin deficiency type 2",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -886,8 +886,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -897,7 +897,7 @@
     "i": "Ipertricosi universale congenita di tipo Ambras",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -919,7 +919,7 @@
     "i": "Eczema atopico",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(autorizzazioni attualmente tutte cancellate)»",
     "x": 0
    },
@@ -930,7 +930,7 @@
     "i": "Emicrania",
     "lt": 20,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -952,7 +952,7 @@
     "i": "tipo Hunter-Thompson",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non vi sono autorizzazioni valide»",
     "x": 0
    },
@@ -985,7 +985,7 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(le 20 autorizzazioni risultano cancellate)»",
     "x": 0
    },
@@ -1007,7 +1007,7 @@
     "i": "Encefalite subacuta di Rasmussen",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «(le autorizzazioni risultano tutte cancellate)»",
     "x": 0
    },
@@ -1029,8 +1029,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1040,7 +1040,7 @@
     "i": "congenital hypotrichosis with juvenile macular dystrophy",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni risultano cancellate»",
     "x": 0
    },
@@ -1062,7 +1062,7 @@
     "i": "pulmonary blastoma",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le licenze sono revocate»",
     "x": 0
    },
@@ -1073,7 +1073,7 @@
     "i": "Torcicollo parossistico benigno dell'infanzia",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate»",
     "x": 0
    },
@@ -1084,7 +1084,7 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni tutte cancellate)»",
     "x": 0
    },
@@ -1095,7 +1095,7 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -1106,7 +1106,7 @@
     "i": "Sindrome di Ohdo e varianti",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide»",
     "x": 0
    },
@@ -1128,7 +1128,7 @@
     "i": "Neurodegenerazione associata a PLA2G6",
     "lt": 20,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -1139,8 +1139,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1150,7 +1150,7 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali…",
     "x": 0
    },
@@ -1172,7 +1172,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(formulazioni disponibili in Italia, dato che tutte le licenze risultano cancellate)»",
     "x": 0
    },
@@ -1183,7 +1183,7 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -1216,7 +1216,7 @@
     "i": "Ipertricosi universale congenita di tipo Ambras",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate»",
     "x": 0
    },
@@ -1227,7 +1227,7 @@
     "i": "brain stem infarction",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -1238,8 +1238,8 @@
     "i": "cauda equina neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1249,7 +1249,7 @@
     "i": "Ipotricosi semplice del cuoio capelluto",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -1260,7 +1260,7 @@
     "i": "Arteriosclerosi intracranica",
     "lt": 0,
     "lv": 20,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni risultano cancellate»",
     "x": 0
    },
@@ -1271,7 +1271,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate)»",
     "x": 0
    },
@@ -1293,7 +1293,7 @@
     "i": "Neoplasma del nervo trigemino",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «l prodotto non ha autorizzazioni valide in Italia, e i»",
     "x": 0
    },
@@ -1315,8 +1315,8 @@
     "i": "Sindrome da iperviscosità policlonale",
     "lt": 0,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1359,8 +1359,8 @@
     "i": "Emicrania con aura del tronco encefalico",
     "lt": 0,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1370,8 +1370,8 @@
     "i": "Ipotricosi semplice del cuoio capelluto",
     "lt": 0,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1414,7 +1414,7 @@
     "i": "visceral calciphylaxis",
     "lt": 0,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre non esistono autorizzazioni valide in Italia e m»",
     "x": 0
    },
@@ -1425,8 +1425,8 @@
     "i": "Cheratocongiuntivite epiteliale puntata",
     "lt": 0,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1436,7 +1436,7 @@
     "i": "Nefropatia ipertensiva maligna",
     "lt": 0,
     "lv": 19,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali»",
     "x": 0
    },
@@ -1458,7 +1458,7 @@
     "i": "Ipertricosi universale congenita di tipo Ambras",
     "lt": 0,
     "lv": 19,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non vi sono autorizzazioni valide»",
     "x": 0
    },
@@ -1491,8 +1491,8 @@
     "i": "Nefropatia ipertensiva maligna",
     "lt": 0,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1502,8 +1502,8 @@
     "i": "porfiria acuta intermittente",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1524,7 +1524,7 @@
     "i": "Torcicollo parossistico benigno dell'infanzia",
     "lt": 0,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «A/TFD»",
     "x": 0
    },
@@ -1546,7 +1546,7 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 0,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Verificare lo stato regolatorio in Italia: tutte le 20 autorizzazioni sono cancellate, incluso…",
     "x": 0
    },
@@ -1568,7 +1568,7 @@
     "i": "tendinitis",
     "lt": 0,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali sono…",
     "x": 0
    },
@@ -1634,7 +1634,7 @@
     "i": "Sindrome di Ohdo e varianti",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che in Italia non risultano autorizzazioni valide»",
     "x": 0
    },
@@ -1656,7 +1656,7 @@
     "i": "Congiuntivite papillare",
     "lt": 18,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "«18 autorizzazioni valide» → 17 valide su 18",
     "x": 0
    },
@@ -1700,8 +1700,8 @@
     "i": "Malattia della cavità nasale",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1711,7 +1711,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 16,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -1722,7 +1722,7 @@
     "i": "Artrite reumatoide",
     "lt": 16,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che non esistono autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -1766,7 +1766,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 15,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non vi sono autorizzazioni valide»",
     "x": 0
    },
@@ -1777,7 +1777,7 @@
     "i": "Sindrome della persona rigida classica",
     "lt": 16,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che non vi sono autorizzazioni valide»",
     "x": 0
    },
@@ -1788,7 +1788,7 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 15,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma…",
     "x": 0
    },
@@ -1810,8 +1810,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1821,7 +1821,7 @@
     "i": "Opsismodisplasia",
     "lt": 15,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -1832,7 +1832,7 @@
     "i": "visceral calciphylaxis",
     "lt": 15,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate»",
     "x": 0
    },
@@ -1865,8 +1865,8 @@
     "i": "Deficit congenito di protrombina",
     "lt": 16,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1898,8 +1898,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1909,8 +1909,8 @@
     "i": "Disturbo affettivo bipolare di tipo maniacale",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1920,8 +1920,8 @@
     "i": "Atrofoderma vermicolare",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1931,8 +1931,8 @@
     "i": "Sindrome da iperviscosità policlonale",
     "lt": 14,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1942,8 +1942,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1964,7 +1964,7 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 12,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(solo autorizzazioni cancellate)»",
     "x": 0
    },
@@ -1975,8 +1975,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -1986,8 +1986,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2008,8 +2008,8 @@
     "i": "obsolete vitamin D deficiency",
     "lt": 13,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2041,7 +2041,7 @@
     "i": "Pneumocistosi",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2052,7 +2052,7 @@
     "i": "Ipotricosi semplice del cuoio capelluto",
     "lt": 11,
     "lv": 11,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m»",
     "x": 0
    },
@@ -2063,8 +2063,8 @@
     "i": "Malattia di Paget mammaria",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2074,7 +2074,7 @@
     "i": "classic stiff person syndrome",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente…",
     "x": 0
    },
@@ -2096,8 +2096,8 @@
     "i": "craniofacial conodysplasia",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2129,7 +2129,7 @@
     "i": "Disturbo bipolare affettivo maniacale",
     "lt": 10,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato lo stato di autorizzazioni cancellate»",
     "x": 0
    },
@@ -2140,7 +2140,7 @@
     "i": "Ulcera duodenale",
     "lt": 10,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e il prodotto non ha autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -2173,8 +2173,8 @@
     "i": "Febbre paratifoide",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2206,7 +2206,7 @@
     "i": "heart fibrosarcoma",
     "lt": 9,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che le autorizzazioni elencate risultano tutte cancellate»",
     "x": 0
    },
@@ -2217,7 +2217,7 @@
     "i": "autoimmune oophoritis",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2250,8 +2250,8 @@
     "i": "sindrome miofasciale dolorosa",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2272,7 +2272,7 @@
     "i": "renal tubular acidosis",
     "lt": 9,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg…",
     "x": 0
    },
@@ -2283,7 +2283,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 9,
     "lv": 9,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -2316,8 +2316,8 @@
     "i": "Tachicardia ventricolare polimorfa catecolaminergica",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2327,8 +2327,8 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2338,7 +2338,7 @@
     "i": "primary release disorder of platelets",
     "lt": 8,
     "lv": 8,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «Inoltre, in Italia non vi sono attualmente autorizzazioni valide»",
     "x": 0
    },
@@ -2382,8 +2382,8 @@
     "i": "Disturbo del metabolismo della tirosina",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2404,7 +2404,7 @@
     "i": "Emicrania",
     "lt": 8,
     "lv": 8,
-    "r": 4,
+    "r": 5,
     "rs": "Rimosso: «dato lo stato di autorizzazioni cancellate»",
     "x": 0
    },
@@ -2415,8 +2415,8 @@
     "i": "Polmone iperlucente",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2426,8 +2426,8 @@
     "i": "Tumore del nervo trigemino",
     "lt": 9,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2448,7 +2448,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «dato che attualmente non esistono autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -2514,7 +2514,7 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 7,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «l sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e i»",
     "x": 0
    },
@@ -2558,7 +2558,7 @@
     "i": "HIV infectious disease",
     "lt": 8,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "«8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide",
     "x": 0
    },
@@ -2569,7 +2569,7 @@
     "i": "Disturbi del movimento psicogeni",
     "lt": 6,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «(stato \"cancellato\")»",
     "x": 0
    },
@@ -2591,7 +2591,7 @@
     "i": "Ipertricosi",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali…",
     "x": 0
    },
@@ -2602,7 +2602,7 @@
     "i": "autosomal ichthyosis syndrome with fatal disease course",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cessate, disponibilità del prodotto)»",
     "x": 0
    },
@@ -2613,7 +2613,7 @@
     "i": "Ipotricosi semplice del cuoio capelluto",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2635,7 +2635,7 @@
     "i": "brain small vessel disease 1 with or without ocular anomalies",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa…",
     "x": 0
    },
@@ -2646,7 +2646,7 @@
     "i": "amenorrhea (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2657,7 +2657,7 @@
     "i": "Disturbo primario del rilascio piastrinico",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e il prodotto non ha attualmente autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -2679,8 +2679,8 @@
     "i": "Trombocitosi reattiva",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2712,8 +2712,8 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2723,7 +2723,7 @@
     "i": "infectious otitis media",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e autorizzazioni italiane sono tutte cancellate, e l»",
     "x": 0
    },
@@ -2745,8 +2745,8 @@
     "i": "Sindrome brachidattilia-sindattilia",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2767,7 +2767,7 @@
     "i": "Pseudo-malattia di von Willebrand",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cancellate)»",
     "x": 0
    },
@@ -2778,7 +2778,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le licenze sono cancellate»",
     "x": 0
    },
@@ -2800,7 +2800,7 @@
     "i": "tipo Hunter-Thompson",
     "lt": 7,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
     "x": 0
    },
@@ -2811,7 +2811,7 @@
     "i": "Pneumocistosi",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate»",
     "x": 0
    },
@@ -2833,7 +2833,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2866,7 +2866,7 @@
     "i": "HIV infectious disease",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del…",
     "x": 0
    },
@@ -2899,7 +2899,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 4,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato lo stato di autorizzazioni cancellate»",
     "x": 0
    },
@@ -2943,7 +2943,7 @@
     "i": "hemoglobinopathy",
     "lt": 4,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, in Italia non vi sono autorizzazioni attive»",
     "x": 0
    },
@@ -2954,8 +2954,8 @@
     "i": "Ipotricosi semplice del cuoio capelluto",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -2965,7 +2965,7 @@
     "i": "Congiuntivite",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -2987,7 +2987,7 @@
     "i": "Lebbra",
     "lt": 4,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -3009,7 +3009,7 @@
     "i": "Neoplasma del nervo trigemino",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Tutte le autorizzazioni italiane sono cancellate, il che limita ulteriormente la praticabilità»",
     "x": 0
    },
@@ -3020,8 +3020,8 @@
     "i": "Insonnia",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3053,8 +3053,8 @@
     "i": "liposarcoma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3075,8 +3075,8 @@
     "i": "Pseudo-malattia di von Willebrand",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3086,7 +3086,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate»",
     "x": 0
    },
@@ -3130,8 +3130,8 @@
     "i": "Rabdomiosarcoma embrionale parameningeo",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3141,8 +3141,8 @@
     "i": "Cheratocongiuntivite epiteliale puntata",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3174,8 +3174,8 @@
     "i": "Cheratocongiuntivite epiteliale puntata",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3185,7 +3185,7 @@
     "i": "Sindrome brachidattilia-sindattilia",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cancellate, prodotti eventualmente disponibili con altri nomi)»",
     "x": 0
    },
@@ -3229,7 +3229,7 @@
     "i": "amenorrhea (disease)",
     "lt": 4,
     "lv": 3,
-    "r": 3,
+    "r": 4,
     "rs": "Tabella: la confezione 029316041 non è più autorizzata",
     "x": 0
    },
@@ -3240,7 +3240,7 @@
     "i": "Sindrome da iperviscosità policlonale",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate",
     "x": 0
    },
@@ -3251,7 +3251,7 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 4,
     "lv": 3,
-    "r": 3,
+    "r": 4,
     "rs": "Tabella: la confezione 037301227 non è più autorizzata",
     "x": 0
    },
@@ -3262,7 +3262,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre l'autorizzazione italiana è cancellata e m»",
     "x": 0
    },
@@ -3273,7 +3273,7 @@
     "i": "perioral myoclonia with absences",
     "lt": 3,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
     "x": 0
    },
@@ -3284,7 +3284,7 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «dato che tutte le autorizzazioni italiane risultano cancellate»",
     "x": 0
    },
@@ -3328,8 +3328,8 @@
     "i": "Tricotillomania",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3339,8 +3339,8 @@
     "i": "Deficit del cofattore II dell'eparina",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3361,8 +3361,8 @@
     "i": "Laringite",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3394,8 +3394,8 @@
     "i": "Linfoma cutaneo primario a cellule B",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3405,8 +3405,8 @@
     "i": "Eczema atopico",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3416,8 +3416,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3438,7 +3438,7 @@
     "i": "Malaria da Plasmodium falciparum",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query…",
     "x": 0
    },
@@ -3449,8 +3449,8 @@
     "i": "Gastroduodenite",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3460,8 +3460,8 @@
     "i": "Malattia del metabolismo della biotina",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3471,8 +3471,8 @@
     "i": "Amenorrea",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3482,7 +3482,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre le autorizzazioni italiane sono tutte cancellate e m»",
     "x": 0
    },
@@ -3493,8 +3493,8 @@
     "i": "Retinopatia diabetica non proliferativa grave",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3504,7 +3504,7 @@
     "i": "Tourette syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato lo stato di autorizzazioni cancellate»",
     "x": 0
    },
@@ -3526,7 +3526,7 @@
     "i": "well-differentiated fetal adenocarcinoma of the lung",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni attualmente revocate; verificare formulazioni alternative disponibili)»",
     "x": 0
    },
@@ -3537,7 +3537,7 @@
     "i": "Forma sintomatica di emofilia nelle portatrici",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal…",
     "x": 0
    },
@@ -3548,7 +3548,7 @@
     "i": "duodenal obstruction",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica»",
     "x": 0
    },
@@ -3559,7 +3559,7 @@
     "i": "Tumore del nervo trigemino",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato lo stato di autorizzazioni revocate»",
     "x": 0
    },
@@ -3592,8 +3592,8 @@
     "i": "Displasia acromesomelica tipo Hunter-Thompson",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3614,7 +3614,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che le due autorizzazioni risultano cancellate»",
     "x": 0
    },
@@ -3636,8 +3636,8 @@
     "i": "Infezione da HIV",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3658,7 +3658,7 @@
     "i": "myiasis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che il farmaco non ha attualmente autorizzazioni valide in Italia»",
     "x": 0
    },
@@ -3669,7 +3669,7 @@
     "i": "autoimmune oophoritis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Le autorizzazioni italiane risultano però tutte cancellate»",
     "x": 0
    },
@@ -3680,7 +3680,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate»",
     "x": 0
    },
@@ -3702,7 +3702,7 @@
     "i": "vulvovaginal candidiasis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «e in Italia le autorizzazioni sono attualmente cancellate»",
     "x": 0
    },
@@ -3724,7 +3724,7 @@
     "i": "Iperamilasemia",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico…",
     "x": 0
    },
@@ -3735,7 +3735,7 @@
     "i": "primary release disorder of platelets",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cancellate)»",
     "x": 0
    },
@@ -3746,7 +3746,7 @@
     "i": "leprosy",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «Inoltre le autorizzazioni italiane sono tutte annullate e m»",
     "x": 0
    },
@@ -3768,7 +3768,7 @@
     "i": "gastroduodenitis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che le autorizzazioni note sono cancellate»",
     "x": 0
    },
@@ -3779,7 +3779,7 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazioni cancellate)»",
     "x": 0
    },
@@ -3790,7 +3790,7 @@
     "i": "tipo Hunter-Thompson",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -3801,8 +3801,8 @@
     "i": "Bronchite",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3823,7 +3823,7 @@
     "i": "Sindrome delle gambe senza riposo",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e in Italia le due autorizzazioni esistenti sono cancellate»",
     "x": 0
    },
@@ -3845,7 +3845,7 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(tutte le licenze sono cancellate)»",
     "x": 0
    },
@@ -3867,7 +3867,7 @@
     "i": "Infezione da virus dell'epatite B",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate»",
     "x": 0
    },
@@ -3878,8 +3878,8 @@
     "i": "distal myopathy, Tateyama type",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -3900,7 +3900,7 @@
     "i": "duodenal ulcer (disease)",
     "lt": 4,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -3911,7 +3911,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico»",
     "x": 0
    },
@@ -3922,7 +3922,7 @@
     "i": "oral candidiasis",
     "lt": 2,
     "lv": 2,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono…",
     "x": 0
    },
@@ -3933,7 +3933,7 @@
     "i": "uterine corpus perivascular epithelioid cell tumor",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica…",
     "x": 0
    },
@@ -3966,7 +3966,7 @@
     "i": "Congiuntivite contagiosa acuta",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e tutte le autorizzazioni italiane sono cancellate»",
     "x": 0
    },
@@ -4043,7 +4043,7 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Lo stato della singola autorizzazione risulta cancellato nei dati locali»",
     "x": 0
    },
@@ -4054,8 +4054,8 @@
     "i": "Ipertermia maligna da sforzo",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4065,8 +4065,8 @@
     "i": "Cenurosi",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4087,8 +4087,8 @@
     "i": "Nefropatia ipertensiva maligna",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4109,8 +4109,8 @@
     "i": "Gotta",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4131,8 +4131,8 @@
     "i": "Disturbo primario del rilascio piastrinico",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4153,8 +4153,8 @@
     "i": "46,XY disorder of sex development due to testicular steroidogenesis defect",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4186,8 +4186,8 @@
     "i": "Infezione da virus dell'epatite B",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4197,7 +4197,7 @@
     "i": "PLA2G6-associated neurodegeneration",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre l'unica autorizzazione italiana è annullata e m»",
     "x": 0
    },
@@ -4208,8 +4208,8 @@
     "i": "Cheratocongiuntivite epiteliale puntata",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4241,7 +4241,7 @@
     "i": "lichen planus pemphigoides",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «In più, l'unica autorizzazione italiana è cancellata, il che limita la disponibilità pratica a…",
     "x": 0
    },
@@ -4252,7 +4252,7 @@
     "i": "fibroma of prostate",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre l'autorizzazione italiana è cancellata e il profilo di epatotossicità sfavorisce nuovi…",
     "x": 0
    },
@@ -4263,7 +4263,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «L'unica autorizzazione italiana risulta cancellata»",
     "x": 0
    },
@@ -4318,7 +4318,7 @@
     "i": "Carenza di potassio",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre l'unica autorizzazione italiana risulta cancellata e m»",
     "x": 0
    },
@@ -4329,7 +4329,7 @@
     "i": "autoimmune oophoritis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti…",
     "x": 0
    },
@@ -4340,7 +4340,7 @@
     "i": "female breast carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'unico prodotto autorizzato è cancellato»",
     "x": 0
    },
@@ -4351,7 +4351,7 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «(autorizzazione cancellata)»",
     "x": 0
    },
@@ -4384,7 +4384,7 @@
     "i": "Porfiria acuta intermittente",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'autorizzazione italiana è cancellata»",
     "x": 0
    },
@@ -4395,8 +4395,8 @@
     "i": "insonnia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4417,8 +4417,8 @@
     "i": "Malattia della regione orbitale",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4428,7 +4428,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'unica autorizzazione è annullata»",
     "x": 0
    },
@@ -4439,7 +4439,7 @@
     "i": "epiglottitis",
     "lt": 1,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato lo stato di autorizzazione revocata»",
     "x": 0
    },
@@ -4461,7 +4461,7 @@
     "i": "Neoplasia del nervo trigemino",
     "lt": 1,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "Rimosso: «dato che l'unica autorizzazione è annullata»",
     "x": 0
    },
@@ -4472,7 +4472,7 @@
     "i": "Neoplasma del nervo trigemino",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre il prodotto in Italia risulta soltanto con autorizzazione cancellata»",
     "x": 0
    },
@@ -4483,8 +4483,8 @@
     "i": "Infezione da HIV",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
@@ -4494,7 +4494,7 @@
     "i": "Sindrome della cauda equina",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre l'unica autorizzazione italiana è revocata»",
     "x": 0
    },
@@ -4505,7 +4505,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, l'unica autorizzazione italiana è revocata»",
     "x": 0
    },
@@ -4538,7 +4538,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «dato lo stato di autorizzazione revocata»",
     "x": 0
    },
@@ -4549,7 +4549,7 @@
     "i": "Carcinoma mammario femminile",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato lo stato di autorizzazione revocata»",
     "x": 0
    },
@@ -4560,7 +4560,7 @@
     "i": "HIV infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «noltre l'unica autorizzazione italiana è cancellata e i»",
     "x": 0
    },
@@ -4571,7 +4571,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'unica autorizzazione risulta cancellata»",
     "x": 0
    },
@@ -4582,7 +4582,7 @@
     "i": "Noduolosi reumatoide",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «Inoltre, in Italia l'unica autorizzazione è cancellata e il profilo di sicurezza dei retinoidi…",
     "x": 0
    },
@@ -4593,7 +4593,7 @@
     "i": "Malattia renale ipertensiva maligna",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e l'unica autorizzazione italiana è annullata»",
     "x": 0
    },
@@ -4615,7 +4615,7 @@
     "i": "Infezione da virus dell'epatite B",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Rimosso: «e l'unica autorizzazione italiana è cancellata»",
     "x": 0
    },
@@ -4626,7 +4626,7 @@
     "i": "Carenza di cofattore eparinico II",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Rimosso: «dato che l'autorizzazione è revocata»",
     "x": 0
    },
@@ -4648,7 +4648,7 @@
     "i": "Disturbo specifico dello sviluppo",
     "lt": 5,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
     "x": 0
    },
@@ -4659,7 +4659,7 @@
     "i": "primary release disorder of platelets",
     "lt": 1,
     "lv": 0,
-    "r": 3,
+    "r": 4,
     "rs": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)",
     "x": 0
    }

@@ -54,7 +54,7 @@ L'insulina detemir è un analogo dell'insulina ad azione prolungata (basale), or
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. Dalla letteratura inclusa risulta tuttavia che l'insulina detemir è un analogo solubile dell'insulina umana ad azione prolungata, acilato con un acido grasso a 14 atomi di carbonio. Questa modifica le permette di legarsi in modo reversibile all'albumina, con assorbimento lento ed effetto metabolico fino a circa 24 ore. Il profilo farmacocinetico è meno variabile rispetto all'insulina NPH.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Insulin Detemir (traduzione non ufficiale): «L'attività principale dell'insulina, incluso LEVEMIR, è la regolazione del metabolismo del glucosio. Le insuline e i loro analoghi abbassano la glicemia stimolando la captazione periferica del glucosio, in particolare da parte del muscolo scheletrico e del tessuto adiposo, e inibendo la produzione epatica di glucosio.» Testo originale in inglese: "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), versione del 2024-10-09; consultato il 2026-11-19). Dalla letteratura inclusa risulta tuttavia che l'insulina detemir è un analogo solubile dell'insulina umana ad azione prolungata, acilato con un acido grasso a 14 atomi di carbonio. Questa modifica le permette di legarsi in modo reversibile all'albumina, con assorbimento lento ed effetto metabolico fino a circa 24 ore. Il profilo farmacocinetico è meno variabile rispetto all'insulina NPH.
 
 Nel diabete di tipo 1 manca l'insulina endogena. Il farmaco si lega al recettore dell'insulina e la sostituisce, fornendo l'insulina basale in uno schema basale-bolo. Il diabete di tipo 1 rientra quindi nella categoria del diabete mellito già indicata come uso originale. La previsione conferma una terapia esistente.
 
@@ -144,12 +144,13 @@ Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revi
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-10-31 | Rimosso: «Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazion» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
 
 <!-- review:end log -->
 

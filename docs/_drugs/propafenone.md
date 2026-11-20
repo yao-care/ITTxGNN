@@ -54,7 +54,7 @@ Propafenone è un antiaritmico di classe IC, presente in Italia in diverse formu
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Propafenone è un antiaritmico di classe IC, noto come bloccante dei canali del sodio, con lieve attività beta-bloccante. Non esiste però un razionale terapeutico consolidato che colleghi questo meccanismo alla mania bipolare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Propafenone (traduzione non ufficiale): «Propafenone è un farmaco antiaritmico di Classe 1C con effetti anestetici locali e un'azione stabilizzante diretta sulle membrane miocardiche. L'effetto elettrofisiologico di propafenone si manifesta con una riduzione della velocità di ascesa (Fase 0) del potenziale d'azione monofasico.» Testo originale in inglese: "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential." ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), versione del 2026-06-04; consultato il 2026-11-19). Propafenone è un antiaritmico di classe IC, noto come bloccante dei canali del sodio, con lieve attività beta-bloccante. Non esiste però un razionale terapeutico consolidato che colleghi questo meccanismo alla mania bipolare.
 
 La letteratura recuperata va nella direzione opposta: un caso clinico del 1985 descrive una **mania secondaria a propafenone**, ipotizzando una possibile attività simil-antidepressiva per la somiglianza chimica con il bupropione. Un secondo caso (2001) riporta una psicosi organica da interazione venlafaxina-propafenone in un paziente bipolare. Il punteggio elevato sembra quindi riflettere un'associazione computazionale, non un segnale terapeutico; le evidenze disponibili suggeriscono semmai un potenziale danno.
 
@@ -102,6 +102,18 @@ Nessuno studio valuta propafenone nel disturbo bipolare maniacale (livello di ev
 - Studi preclinici o clinici che testino direttamente propafenone nella mania bipolare
 - Acquisizione e analisi del foglio illustrativo AIFA (avvertenze e controindicazioni)
 - Valutazione approfondita del rischio di mania indotta e delle interazioni con stabilizzatori dell'umore e antipsicotici
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

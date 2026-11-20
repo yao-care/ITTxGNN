@@ -54,7 +54,7 @@ La corifollitropina alfa è un analogo ricombinante a lunga durata d'azione dell
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, la corifollitropina alfa è una proteina di fusione tra la subunità beta dell'FSH e il peptide carbossi-terminale della beta-hCG, che agisce sui recettori dell'FSH nel tessuto gonadico.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Corifollitropin Alfa è (traduzione non ufficiale): «Agonista del recettore dell'ormone follicolo-stimolante» Testo originale in inglese: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; consultato il 2026-11-19). In base alle informazioni note, la corifollitropina alfa è una proteina di fusione tra la subunità beta dell'FSH e il peptide carbossi-terminale della beta-hCG, che agisce sui recettori dell'FSH nel tessuto gonadico.
 
 Non è stato identificato alcun legame meccanicistico plausibile con l'infiammazione della mucosa gastroduodenale: il coinvolgimento del recettore dell'FSH in questa patologia non è stabilito. Il punteggio elevato riflette verosimilmente una vicinanza nella rete di relazioni usata dal modello, più che una base biologica reale. La previsione va quindi considerata con grande cautela.
 
@@ -89,6 +89,19 @@ La previsione non è supportata da studi clinici, pubblicazioni o un meccanismo 
 - Studi preclinici o clinici che esaminino direttamente la gastroduodenite
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Una valutazione di sicurezza, tenendo conto dei rischi noti delle gonadotropine (ad es. sindrome da iperstimolazione ovarica)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

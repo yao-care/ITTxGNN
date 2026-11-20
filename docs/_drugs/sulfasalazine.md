@@ -60,7 +60,7 @@ Si è quindi scelta come indicazione di riferimento l'osteoartrite, la prima con
 
 ## Perché questa previsione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. Sulla base delle informazioni note, la sulfasalazina è un farmaco antinfiammatorio la cui efficacia in artrite reumatoide e malattie infiammatorie intestinali è consolidata, e meccanisticamente potrebbe essere applicabile all'osteoartrite.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Sulfasalazine (traduzione non ufficiale): «Il meccanismo d'azione della sulfasalazina (SSZ) o dei suoi metaboliti, l'acido 5-aminosalicilico (5-ASA) e la sulfapiridina (SP), può essere correlato alle proprietà antinfiammatorie e/o immunomodulatorie osservate in modelli animali e in vitro, alla sua affinità per il tessuto connettivo e/o alla concentrazione relativamente elevata che raggiunge nei liquidi sierosi, nel fegato e nelle pareti intestinali, come dimostrato in studi autoradiografici sugli animali. Nella colite ulcerosa, studi clinici che hanno utilizzato la somministrazione rettale di SSZ, SP e 5-ASA hanno indicato che l'azione terapeutica principale potrebbe risiedere nella frazione 5-ASA.» Testo originale in inglese: "The mode of action of sulfasalazine (SSZ) or its metabolites, 5-aminosalicylic acid (5-ASA) and sulfapyridine (SP), may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and in vitro models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of SSZ, SP and 5-ASA have indicated that the major therapeutic action may reside in the 5-ASA moiety." ([DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1), versione del 2026-10-27; consultato il 2026-11-19). Sulla base delle informazioni note, la sulfasalazina è un farmaco antinfiammatorio la cui efficacia in artrite reumatoide e malattie infiammatorie intestinali è consolidata, e meccanisticamente potrebbe essere applicabile all'osteoartrite.
 
 Il razionale proposto si basa su due meccanismi: l'inibizione di NF-kB con azione antinfiammatoria, e l'inibizione dell'antiporto cistina/glutammato (sistema xc-), rilevante per la ferroptosi. Gli studi preclinici riportano che la sulfasalazina:
 
@@ -144,11 +144,12 @@ L'evidenza per l'osteoartrite è indiretta e preclinica (livello L4): non ci son
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
 
 <!-- review:end log -->
 

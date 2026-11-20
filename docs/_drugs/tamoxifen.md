@@ -54,7 +54,7 @@ Tamoxifene è un modulatore selettivo del recettore degli estrogeni, usato in on
 
 ## Perché questa previsione è plausibile?
 
-Dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il tamoxifene è un antagonista del recettore degli estrogeni ed è usato nei tumori mammari ormono-sensibili.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tamoxifen (traduzione non ufficiale): «Il tamoxifene è un agonista/antagonista degli estrogeni. Il tamoxifene compete con gli estrogeni per il legame al recettore degli estrogeni, il che può determinare una riduzione della crescita dipendente dalla trasduzione del segnale del recettore degli estrogeni nel tessuto mammario. Il tamoxifene ha dimostrato attività antitumorale contro linee cellulari di carcinoma mammario umano xenotrapiantate nei topi.» Testo originale in inglese: "Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice." ([DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02), versione del 2021-11-29; consultato il 2026-11-19). In base alle informazioni note, il tamoxifene è un antagonista del recettore degli estrogeni ed è usato nei tumori mammari ormono-sensibili.
 
 La malattia di Paget mammaria si associa spesso a un carcinoma duttale in situ o invasivo sottostante, frequentemente positivo ai recettori ormonali. Per questo l'antagonismo estrogenico è teoricamente plausibile. Tuttavia, la letteratura recuperata è costituita soprattutto da case report e serie chirurgiche o di recidiva, e nessun lavoro dimostra direttamente l'efficacia del tamoxifene nella malattia di Paget mammaria. Un case report descrive una risposta alla terapia endocrina nella malattia di Paget extramammaria, che è un'entità diversa.
 
@@ -118,6 +118,18 @@ Nessuno studio testa il tamoxifene nella malattia di Paget mammaria: il solo stu
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Studi (anche osservazionali o retrospettivi) sul tamoxifene nella malattia di Paget mammaria, con valutazione dello stato dei recettori ormonali
 - Un piano di monitoraggio della sicurezza, comprese le interazioni farmacologiche principali
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

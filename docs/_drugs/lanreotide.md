@@ -55,7 +55,7 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**ipertricosi**, ma al 
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. Sulla base delle conoscenze generali, lanreotide è un analogo della somatostatina che agisce sui recettori SSTR2 e SSTR5, riducendo la secrezione dell'ormone della crescita (GH) e dell'IGF-1. Questa efficacia è nota nell'acromegalia.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lanreotide (traduzione non ufficiale): «Lanreotide, il componente attivo di SOMATULINE DEPOT, è un analogo octapeptidico della somatostatina naturale. Si ritiene che il meccanismo d'azione di lanreotide sia simile a quello della somatostatina naturale.» Testo originale in inglese: "Lanreotide, the active component of SOMATULINE DEPOT is an octapeptide analog of natural somatostatin. The mechanism of action of lanreotide is believed to be similar to that of natural somatostatin." ([DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d), versione del 2024-10-11; consultato il 2026-11-19). Sulla base delle conoscenze generali, lanreotide è un analogo della somatostatina che agisce sui recettori SSTR2 e SSTR5, riducendo la secrezione dell'ormone della crescita (GH) e dell'IGF-1. Questa efficacia è nota nell'acromegalia.
 
 Un legame ipotetico con l'ipertricosi potrebbe essere che una ridotta segnalazione GH/IGF-1 influenzi la crescita del follicolo pilifero. L'ipertricosi è inoltre un noto effetto avverso di alcuni agenti che aumentano l'attività dell'IGF-1. Si tratta tuttavia di un'ipotesi speculativa, che non dimostra un beneficio terapeutico.
 
@@ -117,12 +117,13 @@ La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, sen
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d) |
 
 <!-- review:end log -->
 

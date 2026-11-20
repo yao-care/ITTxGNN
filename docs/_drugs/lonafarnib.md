@@ -62,7 +62,7 @@ Al momento **non risultano studi clinici né pubblicazioni** a sostegno di quest
 
 ## Perché questa previsione è plausibile?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili. Lonafarnib appartiene alla classe degli inibitori della farnesiltransferasi (FTI), che bloccano la prenilazione di proteine come HRAS e la progerina.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lonafarnib (traduzione non ufficiale): «Il lonafarnib inibisce la farnesiltransferasi per prevenire la farnesilazione e il conseguente accumulo di progerina e di proteine simili alla progerina nella membrana nucleare interna.» Testo originale in inglese: "Lonafarnib inhibits farnesyltransferase to prevent farnesylation and subsequent accumulation of progerin and progerin-like proteins in the inner nuclear membrane." ([DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50), versione del 2025-07-02; consultato il 2026-11-19). Lonafarnib appartiene alla classe degli inibitori della farnesiltransferasi (FTI), che bloccano la prenilazione di proteine come HRAS e la progerina.
 
 Tra l'indicazione originaria e la lebbra non emerge un legame diretto. Un'ipotesi plausibile, ma non verificata, è che l'interferenza con la prenilazione delle proteine dell'ospite possa modulare la segnalazione cellulare o la risposta immunitaria a *Mycobacterium leprae*. La prenilazione dipende inoltre dalla via del mevalonato, che alcuni patogeni intracellulari sfruttano.
 
@@ -131,12 +131,13 @@ La previsione per la lebbra si basa esclusivamente sul modello (livello L5), sen
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «ma le autorizzazioni risultano attualmente tutte annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte annullate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50) |
 
 <!-- review:end log -->
 

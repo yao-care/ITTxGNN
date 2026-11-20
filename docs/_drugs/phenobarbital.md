@@ -60,7 +60,7 @@ Si tratta quindi di una predizione basata solo sul modello, con evidenza scarsa:
 
 ## Perché questa predizione è (o non è) ragionevole?
 
-Per questo farmaco non sono attualmente disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle conoscenze generali, il fenobarbital è un modulatore allosterico positivo del recettore GABA-A, con efficacia consolidata nelle crisi epilettiche. Non è noto alcun meccanismo antitumorale.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Phenobarbital (traduzione non ufficiale): «Il preciso meccanismo d'azione del fenobarbital nel trattamento delle crisi convulsive neonatali non è completamente compreso, ma si ritiene che comporti il potenziamento dell'inibizione sinaptica attraverso un'azione sul recettore GABA A.» Testo originale in inglese: "The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor." ([DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a), versione del 2026-10-23; consultato il 2026-11-19). Sulla base delle conoscenze generali, il fenobarbital è un modulatore allosterico positivo del recettore GABA-A, con efficacia consolidata nelle crisi epilettiche. Non è noto alcun meccanismo antitumorale.
 
 Il punteggio elevato del modello riflette probabilmente la prossimità, nella rete di conoscenza, con epilessia e termini neurologici, più che una reale attività contro la neoplasia. L'unico articolo collegato (PMID 9157801) è una serie di casi sulla sindrome di Sturge-Weber, un disordine neurocutaneo vascolare, non un tumore del trigemino. Un eventuale beneficio sarebbe limitato al controllo sintomatico delle crisi, non al trattamento della neoplasia.
 
@@ -126,11 +126,12 @@ Per avvertenze e controindicazioni ufficiali occorre consultare il foglio illust
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, il che limita ulteriormente la praticabilità» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
 
 <!-- review:end log -->
 

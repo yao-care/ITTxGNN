@@ -54,7 +54,7 @@ L'ampicillina è un antibiotico beta-lattamico che inibisce la sintesi della par
 
 ## Perché questa predizione può essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. L'ampicillina appartiene alla classe delle penicilline ad ampio spettro e agisce bloccando la sintesi della parete batterica. Sul piano meccanicistico potrebbe essere rilevante per le forme batteriche delle patologie laringee, come l'epiglottite da *Haemophilus influenzae* di tipo b o gli ascessi laringei e del collo.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ampicillin (traduzione non ufficiale): «Ampicillina è simile alla penicillina nella sua azione battericida nei confronti dei batteri sensibili durante la fase di moltiplicazione attiva. Agisce mediante l'inibizione della biosintesi della parete cellulare, che porta alla morte dei batteri.» Testo originale in inglese: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), versione del 2026-07-27; consultato il 2026-11-19). L'ampicillina appartiene alla classe delle penicilline ad ampio spettro e agisce bloccando la sintesi della parete batterica. Sul piano meccanicistico potrebbe essere rilevante per le forme batteriche delle patologie laringee, come l'epiglottite da *Haemophilus influenzae* di tipo b o gli ascessi laringei e del collo.
 
 Ci sono però forti limiti. La maggior parte delle laringiti è di origine virale, quindi il razionale antibatterico riguarda solo un piccolo sottogruppo. Inoltre, la resistenza dovuta alle beta-lattamasi prodotte da *H. influenzae* limita l'uso dell'ampicillina da sola. L'alto punteggio del modello va quindi interpretato con cautela.
 
@@ -102,6 +102,18 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 - Studi che valutino l'ampicillina, o l'associazione ampicillina/sulbactam, specificamente nella laringite batterica
 - Definizione del sottogruppo di pazienti con laringite batterica, tenendo conto della resistenza da beta-lattamasi
 - Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglio illustrativo AIFA
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

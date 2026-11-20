@@ -54,7 +54,7 @@ La morfina è un analgesico oppioide che agisce come agonista dei recettori oppi
 
 ## Perché questa predizione può essere ragionevole?
 
-I dati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report. La morfina è però un agonista dei recettori oppioidi μ, δ e κ (OPRM1, OPRD1, OPRK1) e produce analgesia generale; in teoria ciò potrebbe attenuare il dolore muscolare di origine miofasciale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Morphine (traduzione non ufficiale): «La morfina è un agonista oppioide completo ed è relativamente selettiva per il recettore mu-oppioide, sebbene a dosi più elevate possa legarsi ad altri recettori oppioidi. La principale azione terapeutica della morfina è l'analgesia. Come per tutti gli agonisti oppioidi completi, con la morfina non esiste un effetto tetto per l'analgesia.» Testo originale in inglese: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), versione del 2026-08-14; consultato il 2026-11-19). La morfina è però un agonista dei recettori oppioidi μ, δ e κ (OPRM1, OPRD1, OPRK1) e produce analgesia generale; in teoria ciò potrebbe attenuare il dolore muscolare di origine miofasciale.
 
 Questo legame resta però puramente teorico. La letteratura recuperata non verifica la morfina sistemica nella sindrome miofasciale. L'unico studio che coinvolge la morfina in un contesto miofasciale (PMID 41664327) riguarda un'infiltrazione locale di dexmedetomidina e morfina per il dolore dopo fusione spinale toracolombare: è una popolazione e un disegno diversi, e non testa la sindrome miofasciale. Gli altri lavori riguardano stretching, tossina botulinica, blocchi nervosi e disfunzione temporomandibolare, con gli oppioidi citati solo marginalmente. L'uso prolungato di oppioidi nel dolore muscoloscheletrico cronico è inoltre generalmente sconsigliato.
 
@@ -105,6 +105,18 @@ Il punteggio TxGNN è molto alto (0,9975), ma nessuno studio testa la morfina ne
 - Dati sul meccanismo d'azione e sulla plausibilità farmacologica specifica per la condizione
 - Informazioni complete su avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Un piano di valutazione del rischio di dipendenza e degli eventi avversi per l'uso prolungato
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

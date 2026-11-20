@@ -54,7 +54,7 @@ La cladribina è un analogo nucleosidico purinico con azione citotossica sui lin
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report. In base alle conoscenze generali, la cladribina è un analogo nucleosidico purinico resistente all'adenosina deaminasi, fosforilato dalla deossicitidina chinasi. Si accumula come trifosfato, causando rotture del DNA e apoptosi, soprattutto nei linfociti.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Cladribine (traduzione non ufficiale): «Il meccanismo con cui cladribina esercita i suoi effetti terapeutici nei pazienti con sclerosi multipla non è stato completamente chiarito, ma si ritiene che comporti effetti citotossici sui linfociti B e T mediante compromissione della sintesi del DNA, con conseguente deplezione dei linfociti.» Testo originale in inglese: "The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes." ([DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144), versione del 2026-05-27; consultato il 2026-11-19). In base alle conoscenze generali, la cladribina è un analogo nucleosidico purinico resistente all'adenosina deaminasi, fosforilato dalla deossicitidina chinasi. Si accumula come trifosfato, causando rotture del DNA e apoptosi, soprattutto nei linfociti.
 
 Un effetto antiproliferativo sui tumori solidi è teoricamente plausibile. Tuttavia, l'attività della cladribina dipende da un'elevata attività della deossicitidina chinasi rispetto alla 5'-nucleotidasi, caratteristica delle cellule linfoidi e non dimostrata per il rabdomiosarcoma. Il punteggio elevato (0,9977) è una previsione del modello e non costituisce una prova di efficacia. Sono state previste anche altre forme di rabdomiosarcoma con punteggi simili, il che suggerisce che il segnale sia condiviso tra entità correlate e non indipendente.
 
@@ -109,6 +109,19 @@ La previsione si basa solo sul modello computazionale, senza studi clinici né p
 - Dati sul meccanismo d'azione (MOA) completi
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Revisione sistematica della letteratura su analoghi nucleosidici nei sarcomi dei tessuti molli
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

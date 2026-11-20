@@ -54,7 +54,7 @@ Iloprost è un analogo sintetico della prostaciclina, disponibile in Italia in s
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, iloprost è un analogo della prostaciclina con azione vasodilatatrice. Si potrebbe ipotizzare che la vasodilatazione migliori il flusso sanguigno perifollicolare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Iloprost (traduzione non ufficiale): «Iloprost è un analogo sintetico della prostaciclina PGI 2. Iloprost è un vasodilatatore e inibisce l'aggregazione piastrinica.» Testo originale in inglese: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), versione del 2026-08-13; consultato il 2026-11-19). In base alle conoscenze generali, iloprost è un analogo della prostaciclina con azione vasodilatatrice. Si potrebbe ipotizzare che la vasodilatazione migliori il flusso sanguigno perifollicolare.
 
 Questa ipotesi è però puramente speculativa. L'ipotricosi semplice del cuoio capelluto è un disturbo genetico della crescita dei capelli e non vi sono dati che colleghino il meccanismo vasodilatatore alla sua fisiopatologia. Il punteggio elevato resta quindi una predizione computazionale, non una prova di efficacia.
 
@@ -107,6 +107,18 @@ La predizione per l'ipotricosi semplice del cuoio capelluto si basa solo sul mod
 - Studi preclinici o clinici che esaminino direttamente iloprost in questa condizione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Una valutazione della via di somministrazione, poiché le formulazioni disponibili in Italia sono per nebulizzazione e non per uso sul cuoio capelluto
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

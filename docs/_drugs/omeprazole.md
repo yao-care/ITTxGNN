@@ -54,7 +54,7 @@ L'omeprazolo è un inibitore della pompa protonica, originariamente usato per ul
 
 ## Perché questa previsione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alla farmacologia generale degli inibitori della pompa protonica, l'omeprazolo riduce la secrezione acida gastrica, ed è consolidato nelle patologie acido-correlate come la MRGE.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Omeprazole (traduzione non ufficiale): «Omeprazolo appartiene a una classe di composti antisecretori, i benzimidazoli sostituiti, che sopprimono la secrezione acida gastrica mediante inibizione specifica del sistema enzimatico H + /K + ATPasi a livello della superficie secretoria della cellula parietale gastrica. Poiché questo sistema enzimatico è considerato la pompa acida (protonica) all'interno della mucosa gastrica, omeprazolo è stato caratterizzato come inibitore della pompa acida gastrica, in quanto blocca la fase finale della produzione di acido.» Testo originale in inglese: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), versione del 2024-03-19; consultato il 2026-11-19). In base alla farmacologia generale degli inibitori della pompa protonica, l'omeprazolo riduce la secrezione acida gastrica, ed è consolidato nelle patologie acido-correlate come la MRGE.
 
 Il reflusso duodenogastrico, tuttavia, è causato dal flusso retrogrado di contenuto duodenale (bile, succo pancreatico) e non principalmente da ipersecrezione acida. La soppressione acida non agisce quindi sulla causa. Il razionale è indiretto: in un reflusso misto acido/biliare, ridurre l'acidità può attenuare il danno mucosale e i sintomi. Piccoli studi clinici (esofago di Barrett, reflusso biliare pediatrico) riportano effetti sul reflusso biliare, ma sono limitati.
 
@@ -130,12 +130,13 @@ Il legame meccanicistico è solo parziale e sintomatico: l'omeprazolo non agisce
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
 
 <!-- review:end log -->
 

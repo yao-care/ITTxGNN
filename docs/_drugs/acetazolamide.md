@@ -54,7 +54,7 @@ L'acetazolamide è un inibitore dell'anidrasi carbonica. Il modello TxGNN la ind
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. L'acetazolamide appartiene alla classe degli inibitori dell'anidrasi carbonica, che modificano l'equilibrio acido-base e il trasporto ionico.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Acetazolamide (traduzione non ufficiale): «Acetazolamide è un potente inibitore dell'anidrasi carbonica, efficace nel controllo della secrezione di liquidi (ad es., alcuni tipi di glaucoma), nel trattamento di alcuni disturbi convulsivi (ad es., epilessia) e nella promozione della diuresi in casi di ritenzione idrica anomala (ad es., edema cardiaco). Acetazolamide non è un diuretico mercuriale.» Testo originale in inglese: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), versione del 2026-11-10; consultato il 2026-11-19). L'acetazolamide appartiene alla classe degli inibitori dell'anidrasi carbonica, che modificano l'equilibrio acido-base e il trasporto ionico.
 
 Un collegamento plausibile con l'ipertermia maligna da sforzo potrebbe riguardare l'effetto sull'equilibrio acido-base o sulla gestione degli ioni a livello muscolare. Si tratta però di un'ipotesi speculativa, non supportata da alcuna evidenza nei dati compilati. Non è possibile stabilire una somiglianza fra l'indicazione di partenza e quella prevista.
 
@@ -94,6 +94,19 @@ La predizione ha un punteggio molto alto (0,9995) ma nessuno studio clinico né 
 - Dati sul meccanismo d'azione e analisi del legame meccanicistico con l'ipertermia maligna da sforzo
 - Revisione della letteratura preclinica e clinica specifica per questa malattia
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione della sicurezza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

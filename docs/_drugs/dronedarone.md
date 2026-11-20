@@ -55,7 +55,7 @@ Il modello TxGNN ne prevede una possibile utilità nell'**ictus** (stroke disord
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il dronedarone è un antiaritmico multicanale (blocco di canali del sodio, del potassio e del calcio), analogo non iodato dell'amiodarone. La sua efficacia nella fibrillazione atriale è documentata e, sul piano meccanicistico, potrebbe essere rilevante per la prevenzione dell'ictus cardioembolico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Dronedarone (traduzione non ufficiale): «Il meccanismo d'azione di dronedarone non è noto. Dronedarone possiede proprietà antiaritmiche appartenenti a tutte e quattro le classi di Vaughan-Williams, ma il contributo di ciascuna di queste attività all'effetto clinico non è noto.» Testo originale in inglese: "The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown." ([DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c), versione del 2026-01-27; consultato il 2026-11-19). In base alle informazioni note, il dronedarone è un antiaritmico multicanale (blocco di canali del sodio, del potassio e del calcio), analogo non iodato dell'amiodarone. La sua efficacia nella fibrillazione atriale è documentata e, sul piano meccanicistico, potrebbe essere rilevante per la prevenzione dell'ictus cardioembolico.
 
 La fibrillazione atriale è una delle principali cause di ictus cardioembolico. Un eventuale beneficio sull'ictus sarebbe quindi probabilmente **indiretto**, mediato dal controllo del ritmo e della frequenza, e non dovuto a un'azione neuroprotettiva diretta. Il punteggio molto alto (0,9997) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, come fibrillazione atriale e ictus, non evidenza biologica: per questo non costituisce da solo un supporto indipendente al riposizionamento.
 
@@ -130,12 +130,13 @@ Per l'ictus non esiste alcuno studio clinico dedicato: le evidenze sono post hoc
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
 
 <!-- review:end log -->
 

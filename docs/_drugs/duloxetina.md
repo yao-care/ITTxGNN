@@ -55,7 +55,7 @@ La duloxetina è un antidepressivo della classe degli inibitori della ricaptazio
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. La duloxetina inibisce la ricaptazione di serotonina e noradrenalina, ma non è stato individuato un legame meccanicistico plausibile con questa condizione.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Duloxetina (traduzione non ufficiale): «Sebbene i meccanismi esatti delle azioni antidepressiva, di inibizione centrale del dolore e ansiolitica della duloxetina nell'uomo non siano noti, si ritiene che tali azioni siano correlate al suo potenziamento dell'attività serotoninergica e noradrenergica nel SNC.» Testo originale in inglese: "Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS." ([DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b), versione del 2026-08-20; consultato il 2026-11-19). La duloxetina inibisce la ricaptazione di serotonina e noradrenalina, ma non è stato individuato un legame meccanicistico plausibile con questa condizione.
 
 Il torcicollo parossistico benigno dell'infanzia è un disturbo raro, autolimitante, tipico della prima infanzia e spesso associato a varianti del gene CACNA1A (canalopatia). La duloxetina non è utilizzata nei lattanti. Il punteggio elevato del modello non è quindi supportato da una spiegazione biologica o clinica evidente e va interpretato con grande cautela.
 
@@ -99,12 +99,13 @@ La previsione si fonda unicamente sul punteggio del modello (livello di evidenza
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Nessuna autorizzazione è stata trovata nel database normativo italiano per il termine di interrogazione **"DULOXETINA"**» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «A/TFD» | Non più presente dopo la rigenerazione del rapporto (2026-11-16: il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione; prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->
 

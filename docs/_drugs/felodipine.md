@@ -55,7 +55,7 @@ Il modello TxGNN la prevede come potenzialmente efficace in diverse condizioni c
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la felodipina è un calcio-antagonista diidropiridinico che blocca i canali del calcio di tipo L, con effetto vasodilatatore sulla muscolatura liscia vascolare. La sua efficacia nell'ipertensione è consolidata e il meccanismo può essere applicabile ad altre condizioni legate al tono vascolare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Felodipine (traduzione non ufficiale): «La felodipina appartiene alla classe delle diidropiridine degli antagonisti dei canali del calcio (calcio-antagonisti). Compete in modo reversibile con la nitrendipina e/o altri calcio-antagonisti per i siti di legame delle diidropiridine, blocca le correnti di Ca ++ voltaggio-dipendenti nella muscolatura liscia vascolare e in cellule atriali di coniglio in coltura e blocca la contrattura indotta dal potassio della vena porta di ratto.» Testo originale in inglese: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), versione del 2024-08-07; consultato il 2026-11-19). In base alle informazioni note, la felodipina è un calcio-antagonista diidropiridinico che blocca i canali del calcio di tipo L, con effetto vasodilatatore sulla muscolatura liscia vascolare. La sua efficacia nell'ipertensione è consolidata e il meccanismo può essere applicabile ad altre condizioni legate al tono vascolare.
 
 Per l'**ipertensione polmonare**, la vasodilatazione è un meccanismo plausibile, ma i calcio-antagonisti giovano solo a un piccolo sottogruppo di pazienti con ipertensione arteriosa polmonare vasoreattiva. La categoria prevista è ampia e mal definita, e non sono stati forniti studi o pubblicazioni. Il punteggio elevato (0,999) è una predizione puramente computazionale.
 
@@ -137,12 +137,13 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane della felodipina sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->
 

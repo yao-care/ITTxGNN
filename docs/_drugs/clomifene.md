@@ -55,7 +55,7 @@ Il modello TxGNN lo associa al **disturbo dello sviluppo sessuale 46,XY da difet
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-Dai dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il clomifene agisce come modulatore selettivo del recettore degli estrogeni: bloccando il feedback estrogenico a livello ipotalamico aumenta la secrezione di gonadotropine (LH/FSH).
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Clomifene (traduzione non ufficiale): «Clomifene citrato è in grado di interagire con i tessuti contenenti recettori degli estrogeni, tra cui ipotalamo, ipofisi, ovaio, endometrio, vagina e cervice. Può competere con gli estrogeni per i siti di legame dei recettori degli estrogeni e può ritardare il ripristino dei recettori intracellulari degli estrogeni.» Testo originale in inglese: "Clomiphene citrate is capable of interacting with estrogen-receptor-containing tissues, including the hypothalamus, pituitary, ovary, endometrium, vagina, and cervix. It may compete with estrogen for estrogen-receptor-binding sites and may delay replenishment of intracellular estrogen receptors." ([DailyMed: Milophene (clomiphene citrate) prescribing information, Burel Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56131e5-efc7-43af-ac13-4a2ae918df4e), versione del 2025-10-07; consultato il 2026-11-19). In base alle conoscenze generali, il clomifene agisce come modulatore selettivo del recettore degli estrogeni: bloccando il feedback estrogenico a livello ipotalamico aumenta la secrezione di gonadotropine (LH/FSH).
 
 Un difetto primario della steroidogenesi testicolare è tipicamente di origine gonadica e non dipende dal feedback ipotalamo-ipofisario. Per questo motivo un meccanismo plausibile che colleghi il clomifene a questa condizione non è chiaro. Il punteggio elevato riflette probabilmente prossimità nelle relazioni del modello più che una base biologica dimostrata.
 
@@ -91,6 +91,18 @@ La previsione si fonda esclusivamente sul modello (livello di evidenza L5), senz
 - Valutazione della letteratura e di eventuali studi preclinici sulla steroidogenesi testicolare
 - Acquisizione e analisi del foglio illustrativo (avvertenze e controindicazioni)
 - Una giustificazione biologica che spieghi perché un modulatore del feedback ipotalamico dovrebbe agire su un difetto gonadico primario
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Milophene (clomiphene citrate) prescribing information, Burel Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56131e5-efc7-43af-ac13-4a2ae918df4e) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

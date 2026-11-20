@@ -61,7 +61,7 @@ Il modello TxGNN lo associa al **disturbo primario del rilascio piastrinico** co
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. Lenograstim è un G-CSF ricombinante umano che agisce sulla linea granulocitaria tramite il recettore del G-CSF.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Lenograstim è (traduzione non ufficiale): «Agonista del recettore del fattore stimolante le colonie granulocitarie» Testo originale in inglese: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128), CC BY-SA 3.0; consultato il 2026-11-19). Lenograstim è un G-CSF ricombinante umano che agisce sulla linea granulocitaria tramite il recettore del G-CSF.
 
 I disturbi del rilascio piastrinico (difetti dei granuli di deposito o della secrezione) sono difetti qualitativi della funzione piastrinica. Non è stabilito alcun legame meccanicistico diretto con la via di segnalazione del G-CSF. L'alto punteggio TxGNN (0,9991) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche o cliniche.
 
@@ -124,13 +124,14 @@ La previsione si basa solo sul modello (L5), senza studi clinici né letteratura
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-17 | Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17) | Nota aggiunta (rivisto il 2026-11-17; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17) | Nota aggiunta (rivisto il 2026-11-17; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17) | Nota aggiunta (rivisto il 2026-11-17; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128) |
 
 <!-- review:end log -->
 

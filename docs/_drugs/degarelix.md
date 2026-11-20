@@ -54,7 +54,7 @@ Degarelix è un antagonista del recettore del GnRH, noto nella pratica clinica p
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, degarelix è un antagonista del recettore del GnRH: sopprime LH e FSH e riduce testosterone e androgeni a valle.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Degarelix (traduzione non ufficiale): «Degarelix è un antagonista del recettore del GnRH. Si lega in modo reversibile ai recettori ipofisari del GnRH, riducendo così il rilascio delle gonadotropine e, di conseguenza, del testosterone.» Testo originale in inglese: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), versione del 2024-01-30; consultato il 2026-11-19). In base alle conoscenze generali, degarelix è un antagonista del recettore del GnRH: sopprime LH e FSH e riduce testosterone e androgeni a valle.
 
 Il legame con l'ipertricosi è **debole e speculativo**. L'ipertricosi, a differenza dell'irsutismo, in genere non è guidata dagli androgeni, quindi non c'è una chiara ragione per cui la soppressione androgenica possa essere utile. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate (fenotipi legati ai peli), non un'evidenza biologica o clinica.
 
@@ -119,11 +119,12 @@ La predizione per l'ipertricosi si basa solo sul modello (L5), senza sperimentaz
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
 
 <!-- review:end log -->
 

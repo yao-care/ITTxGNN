@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace nel **carcinoma mammario femm
 
 ## Perché questa predizione è ragionevole?
 
-Per il topotecan non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Sulla base delle conoscenze generali sulla classe, il topotecan è un inibitore della topoisomerasi I: provoca danni al DNA e morte cellulare dipendente dalla replicazione nelle cellule tumorali a rapida divisione. Questo collegamento è quindi dedotto dalla conoscenza della classe farmacologica e non dal record di origine.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Topotecan (traduzione non ufficiale): «La topoisomerasi I allevia la tensione torsionale del DNA inducendo rotture reversibili a singolo filamento. Topotecan si lega al complesso topoisomerasi I-DNA e impedisce la ri-legatura di queste rotture a singolo filamento. Si ritiene che la citotossicità di topotecan sia dovuta al danno al DNA a doppio filamento prodotto durante la sintesi del DNA, quando gli enzimi di replicazione interagiscono con il complesso ternario formato da topotecan, topoisomerasi I e DNA.» Testo originale in inglese: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), versione del 2023-09-18; consultato il 2026-11-19). Sulla base delle conoscenze generali sulla classe, il topotecan è un inibitore della topoisomerasi I: provoca danni al DNA e morte cellulare dipendente dalla replicazione nelle cellule tumorali a rapida divisione. Questo collegamento è quindi dedotto dalla conoscenza della classe farmacologica e non dal record di origine.
 
 Il razionale proposto si basa su due elementi. Primo, uno studio preclinico (PMID 37987734) indica che l'inibizione di TOP1 induce letalità sintetica nei tumori guidati da MYC, categoria che comprende sottogruppi di carcinoma mammario, in particolare le forme triplo-negative. Secondo, il topotecan è un substrato della proteina BCRP/ABCG2 (PMID 25236865), un trasportatore che può influenzare l'esposizione tumorale e la resistenza al farmaco.
 
@@ -152,12 +152,13 @@ Il carcinoma mammario è supportato da un punteggio TxGNN molto alto, ma l'evide
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «In Italia l'unica autorizzazione è revocata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
 
 <!-- review:end log -->
 

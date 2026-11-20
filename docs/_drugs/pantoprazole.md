@@ -59,7 +59,7 @@ Il modello TxGNN lo indica come potenzialmente efficace per l'**ulcera peptica a
 
 ## Perché questa predizione è ragionevole?
 
-Il pantoprazolo inibisce in modo irreversibile la pompa protonica H+/K+ ATPasi delle cellule parietali gastriche, riducendo la secrezione acida e consentendo la guarigione dell'ulcera. I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report; la descrizione sopra deriva dalla letteratura recuperata.
+Il pantoprazolo inibisce in modo irreversibile la pompa protonica H+/K+ ATPasi delle cellule parietali gastriche, riducendo la secrezione acida e consentendo la guarigione dell'ulcera. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pantoprazole (traduzione non ufficiale): «Il pantoprazolo è un PPI che sopprime la fase finale della produzione di acido gastrico legandosi in modo covalente al sistema enzimatico (H +, K + )-ATPasi sulla superficie secretoria della cellula parietale gastrica. Questo effetto determina l'inibizione della secrezione acida gastrica sia basale sia stimolata, indipendentemente dallo stimolo.» Testo originale in inglese: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), versione del 2026-11-06; consultato il 2026-11-19).
 
 L'ulcera peptica attiva coincide con l'indicazione originale: la predizione è quindi coerente, ma non rappresenta una nuova indicazione. Il punteggio elevato è in linea con questa sovrapposizione.
 
@@ -166,13 +166,14 @@ Esistono studi di Fase 3 completati e RCT storici che supportano l'efficacia del
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano **cancellate**; non ne è attiva alcuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
 
 <!-- review:end log -->
 

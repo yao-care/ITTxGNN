@@ -56,7 +56,7 @@ Il report si concentra su Tay-Sachs (classificata al 7° posto per punteggio TxG
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nel database dei farmaci. In base alla letteratura compilata, miglustat inibisce la glucosilceramide sintasi (UGCG) e riduce la sintesi dei glicosfingolipidi: si tratta di una terapia di riduzione del substrato.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Miglustat (traduzione non ufficiale): «La malattia di Gaucher di tipo 1 è causata da un deficit funzionale di glucocerebrosidasi, l'enzima che media la degradazione del glicosfingolipide glucosilceramide. Il miglustat agisce come inibitore competitivo e reversibile dell'enzima glucosilceramide sintasi, l'enzima iniziale di una serie di reazioni che porta alla sintesi della maggior parte dei glicosfingolipidi.» Testo originale in inglese: "Type 1 Gaucher disease is caused by a functional deficiency of glucocerebrosidase, the enzyme that mediates the degradation of the glycosphingolipid glucosylceramide. Miglustat functions as a competitive and reversible inhibitor of the enzyme glucosylceramide synthase, the initial enzyme in a series of reactions which results in the synthesis of most glycosphingolipids." ([DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87), versione del 2025-12-17; consultato il 2026-11-19). In base alla letteratura compilata, miglustat inibisce la glucosilceramide sintasi (UGCG) e riduce la sintesi dei glicosfingolipidi: si tratta di una terapia di riduzione del substrato.
 
 Nella malattia di Tay-Sachs la carenza di esosaminidasi A causa l'accumulo del ganglioside GM2 nei neuroni. Ridurre la sintesi dei precursori di GM2 è quindi un razionale coerente con il meccanismo. Inoltre miglustat attraversa la barriera ematoencefalica, caratteristica rilevante per una malattia neuronopatica in cui le terapie enzimatiche sostitutive non raggiungono il sistema nervoso centrale.
 
@@ -149,12 +149,13 @@ Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cessate, disponibilità del prodotto)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
 
 <!-- review:end log -->
 

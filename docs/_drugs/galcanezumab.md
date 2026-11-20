@@ -55,7 +55,7 @@ Il modello TxGNN lo predice come potenzialmente efficace per la **carenza di cof
 
 ## Perché questa previsione è (poco) ragionevole?
 
-Il meccanismo d'azione dettagliato non è disponibile nei dati compilati. Per quanto noto, galcanezumab neutralizza il CGRP, un neuropeptide coinvolto nella vasodilatazione e nella trasmissione del dolore nell'emicrania.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Galcanezumab (traduzione non ufficiale): «Galcanezumab-gnlm è un anticorpo monoclonale umanizzato che si lega al ligando del peptide correlato al gene della calcitonina (CGRP) e ne blocca il legame al recettore.» Testo originale in inglese: "Galcanezumab-gnlm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0), versione del 2026-06-05; consultato il 2026-11-19). Per quanto noto, galcanezumab neutralizza il CGRP, un neuropeptide coinvolto nella vasodilatazione e nella trasmissione del dolore nell'emicrania.
 
 La carenza di cofattore 2 dell'eparina è un disordine trombofilico, legato a un'inibizione ridotta della trombina mediata dalla serpina (SERPIND1). Non esiste alcun collegamento noto tra il blocco del CGRP e l'inibizione della trombina o l'attività del cofattore dell'eparina. L'elevato punteggio TxGNN (0,9950) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
@@ -108,11 +108,12 @@ La previsione si basa solo sul modello (livello L5), senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «L'unica autorizzazione italiana risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0) |
 
 <!-- review:end log -->
 

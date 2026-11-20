@@ -60,7 +60,7 @@ A sostegno di questa direzione non risultano **studi clinici registrati**, ma so
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, fremanezumab è un anticorpo monoclonale umanizzato diretto contro il peptide correlato al gene della calcitonina (CGRP). Il CGRP svolge un ruolo centrale nella fisiopatologia dell'emicrania, e l'efficacia del farmaco nella prevenzione dell'emicrania è stata dimostrata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fremanezumab (traduzione non ufficiale): «Fremanezumab-vfrm è un anticorpo monoclonale umanizzato che si lega al ligando del peptide correlato al gene della calcitonina (CGRP) e ne blocca il legame al recettore.» Testo originale in inglese: "Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b), versione del 2026-06-05; consultato il 2026-11-19). In base alle informazioni note, fremanezumab è un anticorpo monoclonale umanizzato diretto contro il peptide correlato al gene della calcitonina (CGRP). Il CGRP svolge un ruolo centrale nella fisiopatologia dell'emicrania, e l'efficacia del farmaco nella prevenzione dell'emicrania è stata dimostrata.
 
 L'emicrania con aura del tronco encefalico è un sottotipo di emicrania, per cui un meccanismo comune è plausibile. Tuttavia, più che un vero riposizionamento si tratta di un'estensione a un sottotipo di una patologia per cui il farmaco è già utilizzato.
 
@@ -147,12 +147,13 @@ Segnali di sicurezza dalla letteratura, da valutare con cautela:
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane risultano cancellate, e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b) |
 
 <!-- review:end log -->
 

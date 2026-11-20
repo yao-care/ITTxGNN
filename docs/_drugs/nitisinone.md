@@ -58,7 +58,7 @@ Nitisinone è un inibitore dell'enzima HPPD, originariamente utilizzato nel trat
 
 ## Perché questa predizione è ragionevole?
 
-Nei dati compilati per questo report i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle conoscenze note, nitisinone inibisce la 4-idrossifenilpiruvato diossigenasi (HPPD), enzima della via di catabolismo della tirosina. La sua efficacia nella tirosinemia è stabilita.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Nitisinone (traduzione non ufficiale): «Nitisinone è un inibitore competitivo della 4-idrossifenil-piruvato diossigenasi, un enzima a monte della fumarilacetoacetato idrolasi (FAH) nella via catabolica della tirosina. Inibendo il normale catabolismo della tirosina nei pazienti con HT-1, nitisinone previene l'accumulo degli intermedi catabolici maleilacetoacetato e fumarilacetoacetato.» Testo originale in inglese: "Nitisinone is a competitive inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme upstream of fumarylacetoacetate hydrolase (FAH) in the tyrosine catabolic pathway. By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the catabolic intermediates maleylacetoacetate and fumarylacetoacetate." ([DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526), versione del 2026-10-21; consultato il 2026-11-19). In base alle conoscenze note, nitisinone inibisce la 4-idrossifenilpiruvato diossigenasi (HPPD), enzima della via di catabolismo della tirosina. La sua efficacia nella tirosinemia è stabilita.
 
 Nella tirosinemia ereditaria di tipo 1, l'accumulo tossico di succinilacetone causa anche una disfunzione tubulare renale (di tipo Fanconi), che nitisinone contribuisce a prevenire. Questo è un collegamento plausibile con la tubulopatia prossimale.
 
@@ -133,11 +133,12 @@ La predizione per l'acidosi tubulare renale ha un punteggio elevato ma è priva 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526) |
 
 <!-- review:end log -->
 

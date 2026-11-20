@@ -54,7 +54,7 @@ Solriamfetol è un inibitore della ricaptazione di dopamina e noradrenalina (DNR
 
 ## Perché questa predizione è ragionevole?
 
-Solriamfetol inibisce la ricaptazione di dopamina e noradrenalina. Il dato dettagliato sul meccanismo d'azione non è disponibile nei dati compilati per questo report; il collegamento si basa quindi sulla farmacologia nota del farmaco, non su dati forniti.
+Solriamfetol inibisce la ricaptazione di dopamina e noradrenalina. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Solriamfetol (traduzione non ufficiale): «Il meccanismo d'azione di solriamfetol nel migliorare lo stato di veglia nei pazienti con eccessiva sonnolenza diurna associata a narcolessia o apnea ostruttiva del sonno non è chiaro. Tuttavia, la sua efficacia potrebbe essere mediata dalla sua attività di inibitore della ricaptazione della dopamina e della noradrenalina (DNRI).» Testo originale in inglese: "The mechanism of action of solriamfetol to improve wakefulness in patients with excessive daytime sleepiness associated with narcolepsy or obstructive sleep apnea is unclear. However, its efficacy could be mediated through its activity as a dopamine and norepinephrine reuptake inhibitor (DNRI)." ([DailyMed: Sunosi (solriamfetol) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=362f206b-73e7-4009-8c34-5a9df55679ab), versione del 2026-05-05; consultato il 2026-11-19).
 
 Il potenziamento della trasmissione catecolaminergica nei circuiti prefrontali è la base farmacologica consolidata del trattamento dell'ADHD, il che rende il legame meccanicistico diretto e plausibile. Anche i trial clinici in corso e completati, testati su adulti, adolescenti e bambini, vanno in questa direzione.
 
@@ -106,6 +106,18 @@ Il livello di evidenza è L2: esiste uno studio di fase 3 completato, controllat
 - Dati sul meccanismo d'azione dettagliati
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Piano di monitoraggio della sicurezza cardiovascolare e del potenziale d'abuso, e dati sulle popolazioni pediatriche una volta disponibili gli studi in corso
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sunosi (solriamfetol) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=362f206b-73e7-4009-8c34-5a9df55679ab) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

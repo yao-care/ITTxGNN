@@ -55,7 +55,7 @@ Il modello TxGNN prevede un possibile effetto nel **disturbo primario del rilasc
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione originale non sono disponibili nei dati compilati per questo report. Catridecacog fornisce la subunità A del fattore XIII, che favorisce il legame crociato della fibrina e rende il coagulo più stabile.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Catridecacog è (traduzione non ufficiale): «Proteina esogena del fattore XIII della coagulazione» Testo originale in inglese: "Coagulation factor XIII exogenous protein" ([ChEMBL CHEMBL2108282 (catridecacog): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108282), CC BY-SA 3.0; consultato il 2026-11-19). Catridecacog fornisce la subunità A del fattore XIII, che favorisce il legame crociato della fibrina e rende il coagulo più stabile.
 
 I disturbi del rilascio piastrinico derivano da un difetto nei granuli piastrinici o nella loro secrezione, cioè da un difetto a monte rispetto alla reticolazione della fibrina. Il fattore XIII-A non correggerebbe quindi il difetto piastrinico primario. Un eventuale beneficio sarebbe indiretto, legato a una maggiore stabilità del coagulo di fibrina in caso di sanguinamento, e resta speculativo.
 
@@ -91,6 +91,19 @@ La previsione si basa solo sul punteggio del modello (livello L5). Il meccanismo
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o cliniche che colleghino direttamente il fattore XIII-A al disturbo del rilascio piastrinico
 - Verifica della disponibilità pratica del prodotto in Italia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2108282 (catridecacog): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108282) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

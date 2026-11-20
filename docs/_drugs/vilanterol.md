@@ -54,7 +54,7 @@ Vilanterolo è un β2-agonista inalatorio a lunga durata d'azione, utilizzato in
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, vilanterolo appartiene alla classe dei β2-agonisti a lunga durata d'azione, che producono broncodilatazione rilassando la muscolatura liscia delle vie aeree.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per fluticasone furoate and vilanterol (associazione che contiene Vilanterol) (traduzione non ufficiale): «Gli effetti farmacologici dei farmaci agonisti beta 2 -adrenergici, incluso vilanterolo, sono almeno in parte attribuibili alla stimolazione dell'adenilciclasi intracellulare, l'enzima che catalizza la conversione dell'adenosina trifosfato (ATP) in adenosina 3′,5′-monofosfato ciclico (AMP ciclico).» Testo originale in inglese: "The pharmacologic effects of beta 2 -adrenergic agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP)." ([DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5), versione del 2024-11-21; consultato il 2026-11-19). In base alle informazioni note, vilanterolo appartiene alla classe dei β2-agonisti a lunga durata d'azione, che producono broncodilatazione rilassando la muscolatura liscia delle vie aeree.
 
 Il polmone iperlucente è un reperto radiologico con cause eterogenee (ad esempio sindrome di Swyer-James, enfisema). Un eventuale beneficio dipenderebbe dalla presenza di una componente ostruttiva sottostante. Si tratta quindi di un legame puramente ipotetico, senza evidenza diretta.
 
@@ -97,6 +97,18 @@ La predizione si basa solo sul modello (L5): non esiste alcuno studio su vilante
 - Dati sul meccanismo d'azione di vilanterolo
 - Evidenza clinica o preclinica diretta nel polmone iperlucente, con definizione dell'eziologia (ad esempio sindrome di Swyer-James o enfisema)
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, per la valutazione di sicurezza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -54,7 +54,7 @@ La nistatina è un antifungino polienico impiegato nelle candidosi. Il modello T
 
 ## Perché questa predizione è (poco) ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, la nistatina è un antifungino polienico che si lega all'ergosterolo della membrana fungina e ne altera l'integrità, con azione locale.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Nystatin (traduzione non ufficiale): «Nistatina agisce legandosi agli steroli della membrana cellulare delle specie di Candida sensibili, con conseguente alterazione della permeabilità di membrana che consente la fuoriuscita dei componenti intracellulari. Nistatina non mostra un'attività apprezzabile nei confronti di batteri, protozoi o virus.» Testo originale in inglese: "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses." ([DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6), versione del 2026-02-06; consultato il 2026-11-19). In base alle conoscenze generali, la nistatina è un antifungino polienico che si lega all'ergosterolo della membrana fungina e ne altera l'integrità, con azione locale.
 
 Non è stato individuato alcun legame meccanicistico plausibile tra questo meccanismo e le malattie della regione orbitale. Le patologie orbitali non hanno, nei dati disponibili, una componente fungina documentata che un antifungino polienico possa trattare. L'elevato punteggio del modello appare quindi un artefatto della predizione basata sulle relazioni tra nodi, più che l'espressione di una base biologica.
 
@@ -94,6 +94,18 @@ Non esistono studi o pubblicazioni che esaminino la nistatina nelle malattie del
 - Dati preclinici o clinici che studino direttamente la nistatina in questa condizione
 - Il testo delle avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Dati sul meccanismo d'azione dalle fonti di riferimento
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

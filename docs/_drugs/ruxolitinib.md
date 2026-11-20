@@ -62,7 +62,7 @@ Nota metodologica: il modello ordina le predizioni in base al punteggio TxGNN. L
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Sulla base delle conoscenze note, il ruxolitinib è un inibitore di JAK1/2, la sua efficacia nelle neoplasie mieloproliferative è dimostrata e, sul piano meccanicistico, potrebbe essere applicabile a condizioni guidate da segnali citochinici.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ruxolitinib (traduzione non ufficiale): «Ruxolitinib, un inibitore delle chinasi, inibisce le chinasi associate a Janus (JAK), JAK1 e JAK2, che mediano la trasduzione del segnale di numerose citochine e fattori di crescita importanti per l'ematopoiesi e la funzione immunitaria. La trasduzione del segnale JAK comporta il reclutamento delle STAT (trasduttori del segnale e attivatori della trascrizione) ai recettori delle citochine, l'attivazione e la successiva localizzazione delle STAT nel nucleo, con conseguente modulazione dell'espressione genica.» Testo originale in inglese: "Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs), JAK1 and JAK2, which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation, and subsequent localization of STATs to the nucleus leading to modulation of gene expression." ([DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b), versione del 2026-07-20; consultato il 2026-11-19). Sulla base delle conoscenze note, il ruxolitinib è un inibitore di JAK1/2, la sua efficacia nelle neoplasie mieloproliferative è dimostrata e, sul piano meccanicistico, potrebbe essere applicabile a condizioni guidate da segnali citochinici.
 
 **HLH associata a infezione.** L'HLH è uno stato iperinfiammatorio guidato da citochine, in particolare l'interferone-gamma, che agisce attraverso la via JAK/STAT. Il blocco di JAK1/2 attenua questi segnali. Il razionale è supportato da due studi meccanicistici: uno in modelli murini di HLH (PMID 31015190) e uno che mostra come l'inibizione di JAK/STAT sensibilizzi i linfociti T CD8 all'apoptosi indotta dal desametasone (PMID 32530039).
 
@@ -156,11 +156,12 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibil» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b) |
 
 <!-- review:end log -->
 

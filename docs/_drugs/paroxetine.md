@@ -54,7 +54,7 @@ La paroxetina è un inibitore selettivo della ricaptazione della serotonina (SSR
 
 ## Perché questa previsione è ragionevole?
 
-Allo stato attuale non sono disponibili dati dettagliati sul meccanismo d'azione. In generale la paroxetina è un SSRI e i dati di farmacologia compilati la collegano al trasportatore della serotonina (SERT) e al recettore purinergico P2X4. Tuttavia, il legame con la nuova indicazione non è verificabile.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Paroxetine (traduzione non ufficiale): «Il meccanismo d'azione di PAXIL CR nel trattamento del disturbo depressivo maggiore (MDD), del disturbo di panico (PD), del disturbo d'ansia sociale (SAD) e del disturbo disforico premestruale (PMDD) non è noto, ma si presume sia correlato al potenziamento dell'attività serotoninergica nel sistema nervoso centrale derivante dall'inibizione della ricaptazione neuronale della serotonina (5-HT).» Testo originale in inglese: "The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT)." ([DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c), versione del 2026-09-30; consultato il 2026-11-19). In generale la paroxetina è un SSRI e i dati di farmacologia compilati la collegano al trasportatore della serotonina (SERT) e al recettore purinergico P2X4. Tuttavia, il legame con la nuova indicazione non è verificabile.
 
 La sindrome di Ohdo (compresa la variante Say-Barber-Biesecker-Young-Simpson) è un raro disturbo congenito legato a varianti del gene KAT6B, con disabilità intellettiva, blefarofimosi e ipotonia. Si tratta di una condizione genetica dello sviluppo, associata alla regolazione della cromatina. Dai dati disponibili non emerge alcun percorso plausibile per cui l'inibizione della ricaptazione della serotonina possa modificare tale meccanismo di base.
 
@@ -122,13 +122,14 @@ La previsione si basa solo sul modello (livello L5), senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e i dati di sicurezza ufficiali mancano» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c) |
 
 <!-- review:end log -->
 

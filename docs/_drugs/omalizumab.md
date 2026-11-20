@@ -54,7 +54,7 @@ Omalizumab è un anticorpo monoclonale umanizzato che si lega alle IgE libere ed
 
 ## Perché questa predizione può essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dalle informazioni di farmacologia disponibili, omalizumab è un anticorpo diretto contro le immunoglobuline E (gene IGHE): riducendo le IgE libere, limita l'attivazione dei mastociti e dei basofili mediata dal recettore FcεRI.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Omalizumab (traduzione non ufficiale): «Asma, rinosinusite cronica con poliposi nasale e allergia alimentare IgE-mediata I medicinali a base di omalizumab inibiscono il legame delle IgE al recettore ad alta affinità per le IgE (FcεRI) sulla superficie di mastociti, basofili e cellule dendritiche, determinando una down-regolazione di FcεRI su queste cellule. Nei pazienti con asma allergico, il trattamento con medicinali a base di omalizumab inibisce l'infiammazione IgE-mediata, come evidenziato dalla riduzione degli eosinofili ematici e tissutali e dalla riduzione dei mediatori dell'infiammazione, tra cui IL-4, IL-5 e IL-13.» Testo originale in inglese: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), versione del 2026-10-06; consultato il 2026-11-19). Dalle informazioni di farmacologia disponibili, omalizumab è un anticorpo diretto contro le immunoglobuline E (gene IGHE): riducendo le IgE libere, limita l'attivazione dei mastociti e dei basofili mediata dal recettore FcεRI.
 
 Questo meccanismo è plausibile solo per le forme di malattia delle vie aeree a componente allergica o eosinofila. Il segnale relativo alla bronchite deriva in gran parte dalla sovrapposizione con altre patologie delle vie aeree (asma, sovrapposizione asma-BPCO, malattie delle vie aeree legate al fumo). Non vi è alcuna evidenza a favore di un beneficio nella bronchite infettiva o nella bronchite cronica come entità distinta.
 
@@ -107,6 +107,18 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 - Studi clinici mirati sul sottogruppo di bronchite allergica o eosinofila, distinto dall'asma
 - Dati sul meccanismo d'azione dettagliati
 - Informazioni di sicurezza dal foglio illustrativo AIFA (avvertenze e controindicazioni)
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

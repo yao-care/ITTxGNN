@@ -58,7 +58,7 @@ Il ritonavir è un inibitore della proteasi dell'HIV-1, originariamente utilizza
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, il ritonavir è un inibitore della proteasi dell'HIV-1 (e un potente inibitore del CYP3A4), la sua efficacia nell'infezione da HIV è consolidata e, dal punto di vista meccanicistico, potrebbe essere applicabile anche al SIV.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ritonavir (traduzione non ufficiale): «Ritonavir è un farmaco antiretrovirale. […] Ritonavir è un inibitore peptidomimetico della proteasi dell'HIV-1. L'inibizione della proteasi dell'HIV rende l'enzima incapace di processare il precursore poliproteico Gag-Pol, il che porta alla produzione di particelle di HIV immature non infettive.» Testo originale in inglese: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), versione del 2026-07-23; consultato il 2026-11-19). In base alle informazioni note, il ritonavir è un inibitore della proteasi dell'HIV-1 (e un potente inibitore del CYP3A4), la sua efficacia nell'infezione da HIV è consolidata e, dal punto di vista meccanicistico, potrebbe essere applicabile anche al SIV.
 
 Il SIV possiede una proteasi strettamente correlata a quella dell'HIV. Studi in vitro mostrano che il SIVmac239 è inibito dal ritonavir con una concentrazione efficace al 50% di circa 13 nM, contro circa 25 nM per l'HIV-1 (PMID 12709355). Anche altri studi di suscettibilità e studi su macachi con terapie antiretrovirali di combinazione supportano indirettamente questa plausibilità biologica.
 
@@ -128,11 +128,12 @@ L'evidenza è solo preclinica (L4): studi in vitro e su macachi, senza alcuno st
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia la sola autorizzazione risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

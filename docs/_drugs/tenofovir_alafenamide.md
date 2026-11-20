@@ -60,7 +60,7 @@ Si tratta di un risultato utile come modello traslazionale dell'indicazione HIV 
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione dal database farmacologico. Sulla base delle conoscenze generali, TAF è un profarmaco del tenofovir che rilascia in modo efficiente il tenofovir difosfato nelle cellule linfoidi; il metabolita attivo interrompe l'allungamento del DNA virale.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tenofovir Alafenamide (traduzione non ufficiale): «Tenofovir alafenamide è un farmaco antivirale contro il virus dell'epatite B. […] Tenofovir alafenamide è un profarmaco fosfonamidato di tenofovir (analogo del 2'-deossiadenosina monofosfato). Tenofovir alafenamide, in quanto composto lipofilo permeabile alle cellule, entra negli epatociti primari per diffusione passiva e tramite i trasportatori di captazione epatica OATP1B1 e OATP1B3.» Testo originale in inglese: "Tenofovir alafenamide is an antiviral drug against the hepatitis B virus. […] Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog). Tenofovir alafenamide as a lipophilic cell-permeant compound enters primary hepatocytes by passive diffusion and by the hepatic uptake transporters OATP1B1 and OATP1B3." ([DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2), versione del 2025-07-14; consultato il 2026-11-19). Sulla base delle conoscenze generali, TAF è un profarmaco del tenofovir che rilascia in modo efficiente il tenofovir difosfato nelle cellule linfoidi; il metabolita attivo interrompe l'allungamento del DNA virale.
 
 SIV e SHIV (virus chimerico simian/umano) sono lentivirus strettamente imparentati con l'HIV, e le loro trascrittasi inversa sono sensibili allo stesso meccanismo. L'attività nei modelli di macaco è quindi biologicamente plausibile.
 
@@ -132,11 +132,12 @@ L'evidenza è esclusivamente preclinica (studi su macaco e topo), senza alcuno s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
 
 <!-- review:end log -->
 

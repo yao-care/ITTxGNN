@@ -55,7 +55,7 @@ Il modello TxGNN la predice come potenzialmente efficace per la **candidiasi ora
 
 ## Perché questa predizione è (poco) ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle conoscenze generali, la rifaximina è un antibiotico non assorbito che inibisce la RNA polimerasi batterica; agisce soprattutto a livello intestinale e non ha attività nota contro *Candida*.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rifaximin (traduzione non ufficiale): «La rifaximina è un farmaco antibatterico. […] La rifaximina è un derivato semisintetico della rifampicina e agisce legandosi alla subunità beta della RNA polimerasi DNA-dipendente batterica, bloccando una delle fasi della trascrizione. Ciò determina l'inibizione della sintesi proteica batterica e di conseguenza inibisce la crescita dei batteri.» Testo originale in inglese: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), versione del 2025-08-27; consultato il 2026-11-19). In base alle conoscenze generali, la rifaximina è un antibiotico non assorbito che inibisce la RNA polimerasi batterica; agisce soprattutto a livello intestinale e non ha attività nota contro *Candida*.
 
 Non emerge quindi un legame meccanicistico plausibile con la candidiasi orale. L'alto punteggio proviene dal modello TxGNN (deep learning) e può riflettere similitudini apprese dal modello tra malattie correlate, non evidenze biologiche; inoltre è contraddetto dal segnale clinico disponibile.
 
@@ -121,13 +121,14 @@ Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cli
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
 
 <!-- review:end log -->
 

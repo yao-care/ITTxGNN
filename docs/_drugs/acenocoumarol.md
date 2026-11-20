@@ -58,7 +58,7 @@ L'acenocumarolo inibisce VKORC1 (enzima che rigenera la vitamina K), riducendo l
 
 Il deficit del cofattore II dell'eparina è una trombofilia ereditaria in cui l'inibizione della trombina, mediata dal dermatan solfato e dall'eparina, risulta ridotta. Poiché gli antagonisti della vitamina K sono usati nella prevenzione secondaria del tromboembolismo venoso in altre trombofilie ereditarie, il legame meccanicistico è biologicamente coerente.
 
-Va però precisato che non sono disponibili dati specifici sul cofattore II dell'eparina. Il punteggio elevato è una previsione computazionale e non equivale a una prova di efficacia. Al momento i dati dettagliati sul meccanismo d'azione non sono presenti nel materiale compilato.
+Va però precisato che non sono disponibili dati specifici sul cofattore II dell'eparina. Il punteggio elevato è una previsione computazionale e non equivale a una prova di efficacia. Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Acenocoumarol è (traduzione non ufficiale): «Inibitore dell'isoforma 1 della subunità 1 del complesso vitamina K epossido reduttasi» Testo originale in inglese: "Vitamin k epoxide reductase complex subunit 1 isoform 1 inhibitor" ([ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420), CC BY-SA 3.0; consultato il 2026-11-19).
 
 ## Evidenze da studi clinici
 
@@ -95,6 +95,19 @@ La previsione si basa solo sul modello e su un'inferenza meccanicistica (livello
 - Dati dettagliati sul meccanismo d'azione
 - Classificazione della gravità delle interazioni farmacologiche principali
 - Piano di monitoraggio dell'INR e valutazione del rischio emorragico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL397420 (acenocoumarol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL397420) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

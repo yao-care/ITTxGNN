@@ -54,7 +54,7 @@ Ezetimibe è un inibitore dell'assorbimento intestinale del colesterolo, utilizz
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione non sono attualmente disponibili nei dati compilati per questo report. In base alle conoscenze generali, ezetimibe inibisce il trasportatore NPC1L1 e riduce l'assorbimento intestinale del colesterolo, abbassando il colesterolo LDL.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ezetimibe (traduzione non ufficiale): «Ezetimibe riduce il colesterolo ematico inibendo l'assorbimento del colesterolo a livello dell'intestino tenue. È stato dimostrato che il bersaglio molecolare di ezetimibe è il trasportatore degli steroli Niemann-Pick C1-Like 1 (NPC1L1), coinvolto nella captazione intestinale del colesterolo e dei fitosteroli.» Testo originale in inglese: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), versione del 2026-10-08; consultato il 2026-11-19). In base alle conoscenze generali, ezetimibe inibisce il trasportatore NPC1L1 e riduce l'assorbimento intestinale del colesterolo, abbassando il colesterolo LDL.
 
 La carenza di CETP è caratterizzata da HDL-C elevato e da un ridotto trasferimento di esteri del colesterolo dalle HDL alle lipoproteine contenenti apoB. I due ambiti condividono vie del metabolismo lipidico, e questo probabilmente spiega il punteggio elevato del modello.
 
@@ -104,6 +104,19 @@ La previsione si fonda esclusivamente sul modello (livello L5): non vi sono stud
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Evidenze precliniche o cliniche che colleghino direttamente ezetimibe alla carenza di CETP
 - Una valutazione del reale bisogno clinico di una terapia in questa condizione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

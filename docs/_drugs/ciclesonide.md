@@ -54,7 +54,7 @@ Il ciclesonide è un corticosteroide per via inalatoria, impiegato nelle patolog
 
 ## Perché questa predizione è plausibile?
 
-Il ciclesonide è un profarmaco glucocorticoide per via inalatoria, attivato dalle esterasi nel metabolita des-ciclesonide. I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati.
+Il ciclesonide è un profarmaco glucocorticoide per via inalatoria, attivato dalle esterasi nel metabolita des-ciclesonide. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ciclesonide (traduzione non ufficiale): «Ciclesonide è un profarmaco che, in seguito a inalazione orale, viene idrolizzato enzimaticamente a un metabolita farmacologicamente attivo, C21-desisobutiril-ciclesonide (des-ciclesonide o RM1). Des-ciclesonide ha attività antinfiammatoria con un'affinità per i recettori dei glucocorticoidi 120 volte maggiore rispetto al composto progenitore e 12 volte maggiore rispetto al desametasone.» Testo originale in inglese: "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone." ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), versione del 2025-02-28; consultato il 2026-11-19).
 
 I corticosteroidi, topici o sistemici, sono una terapia standard dell'eczema atopico perché sopprimono l'infiammazione cutanea. Esiste quindi un razionale meccanicistico generale. Tuttavia si tratta di un'inferenza di classe e non di un dato specifico sul ciclesonide.
 
@@ -101,6 +101,19 @@ La predizione si basa solo sul modello (punteggio 0,9996) e non esistono studi c
 - Studi preclinici o clinici specifici sul ciclesonide nell'eczema atopico
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Valutazione del rischio di reattività crociata tra corticosteroidi
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

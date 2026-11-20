@@ -54,7 +54,7 @@ La urofollitropina è un'FSH (ormone follicolo-stimolante) di origine urinaria, 
 
 ## Perché questa previsione può (o non può) essere ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. La urofollitropina è una preparazione di FSH di origine urinaria, impiegata per la stimolazione ovarica, e non è noto alcun ruolo diretto dell'FSH nella fisiopatologia dell'emicrania.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Urofollitropin è (traduzione non ufficiale): «Agonista del recettore dell'ormone follicolo-stimolante» Testo originale in inglese: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; consultato il 2026-11-19). La urofollitropina è una preparazione di FSH di origine urinaria, impiegata per la stimolazione ovarica, e non è noto alcun ruolo diretto dell'FSH nella fisiopatologia dell'emicrania.
 
 L'unico collegamento plausibile è indiretto: l'emicrania ha associazioni ormonali (ad esempio l'emicrania mestruale legata alle fluttuazioni degli estrogeni). Questo non basta però a stabilire un legame meccanicistico con l'FSH.
 
@@ -128,7 +128,7 @@ La previsione per l'emicrania si basa solo sul modello (livello L5), senza studi
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
@@ -136,6 +136,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Sono elencate le prime 5 delle 8 autorizzazioni (tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non esiste un prodotto attualmente commercializzato da cui partire» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520) |
 
 <!-- review:end log -->
 

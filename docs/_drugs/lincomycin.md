@@ -59,7 +59,7 @@ Il modello TxGNN predice una possibile efficacia per l'**iperamilasemia**, ma qu
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle conoscenze generali, la lincomicina è un antibiotico lincosamidico che inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S. Questo meccanismo è coerente con l'uso nelle infezioni batteriche.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lincomycin (traduzione non ufficiale): «Lincomicina inibisce la sintesi proteica batterica legandosi all'RNA 23S della subunità 50S del ribosoma batterico. Lincomicina è prevalentemente batteriostatica in vitro.» Testo originale in inglese: "Lincomycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the bacterial ribosome. Lincomycin is predominantly bacteriostatic in vitro." ([DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263), versione del 2025-03-10; consultato il 2026-11-19). In base alle conoscenze generali, la lincomicina è un antibiotico lincosamidico che inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 50S. Questo meccanismo è coerente con l'uso nelle infezioni batteriche.
 
 L'iperamilasemia, invece, è un reperto di laboratorio associato a danno pancreatico o delle ghiandole salivari e ad altre cause. Nessun meccanismo antibatterico spiega plausibilmente un suo trattamento. Non emerge quindi alcun legame meccanicistico tra l'indicazione originale e quella prevista.
 
@@ -125,11 +125,12 @@ La previsione è basata esclusivamente sul modello (livello L5), senza studi cli
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere efficace per l'**ipertensione renovasc
 
 ## Perché questa previsione è plausibile?
 
-Il labetalolo combina il blocco dei recettori alfa-1 e beta non selettivo. Riduce le resistenze vascolari sistemiche e, tramite il blocco beta, può ridurre l'attività reninica. Questo offre una base farmacologica per l'ipertensione maligna di origine renovascolare. Nei dati compilati per questo report i dettagli sul meccanismo d'azione non sono disponibili.
+Il labetalolo combina il blocco dei recettori alfa-1 e beta non selettivo. Riduce le resistenze vascolari sistemiche e, tramite il blocco beta, può ridurre l'attività reninica. Questo offre una base farmacologica per l'ipertensione maligna di origine renovascolare. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Labetalol (traduzione non ufficiale): «Il labetalolo possiede attività di blocco competitivo sia alfa1-adrenergico sia beta-adrenergico. Nell'uomo, il rapporto tra blocco alfa e blocco beta è stato stimato pari a circa 1:7 dopo somministrazione endovenosa.» Testo originale in inglese: "Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity. In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration." ([DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55), versione del 2025-12-19; consultato il 2026-11-19).
 
 Va sottolineato che si tratta sostanzialmente di un'estensione dell'indicazione ipertensiva già esistente, più che di un vero riposizionamento. L'unica pubblicazione collegata descrive un caso di ipertensione maligna indotta da allucinogeni con vasculite, in cui labetalolo e minoxidil sono stati usati per il controllo iniziale della pressione. Non fornisce prove dirette sull'efficacia del labetalolo in questa condizione. Il punteggio elevato di TxGNN è solo una previsione computazionale.
 
@@ -119,11 +119,12 @@ Tutte le previsioni sono a livello di evidenza L5, senza studi clinici e con let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55) |
 
 <!-- review:end log -->
 

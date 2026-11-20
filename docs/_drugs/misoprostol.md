@@ -61,7 +61,7 @@ Nota: la valutazione preliminare indica L4, ma le pubblicazioni recuperate non c
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il misoprostolo è un analogo della prostaglandina E1 che induce contrazioni uterine e maturazione cervicale. Un legame plausibile con l'amenorrea potrebbe passare dall'azione sull'endometrio e sul sanguinamento uterino.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per diclofenac sodium and misoprostol (associazione che contiene Misoprostol) (traduzione non ufficiale): «Misoprostolo Il misoprostolo è un analogo sintetico della PGE1 con proprietà antisecretorie gastriche e protettive della mucosa. Il misoprostolo può aumentare la produzione di bicarbonato e di muco, ma ciò è stato dimostrato a dosi pari o superiori a 200 mcg, che sono anche antisecretorie.» Testo originale in inglese: "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versione del 2026-08-31; consultato il 2026-11-19). In base alle conoscenze generali, il misoprostolo è un analogo della prostaglandina E1 che induce contrazioni uterine e maturazione cervicale. Un legame plausibile con l'amenorrea potrebbe passare dall'azione sull'endometrio e sul sanguinamento uterino.
 
 Tuttavia, la letteratura recuperata non supporta questa ipotesi. Il misoprostolo vi compare nell'aborto farmacologico (in associazione al mifepristone) e nella gestione dell'aborto interno. In questi lavori l'amenorrea è uno stato legato alla gravidanza o alla procedura (ad esempio l'epoca gestazionale ≤35 giorni di amenorrea), non un bersaglio terapeutico.
 
@@ -151,13 +151,14 @@ La predizione si basa unicamente sul punteggio del modello TxGN (deep learning).
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «ia, dato che il prodotto è revocato in Ital» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Tabella: la confezione 029316041 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-17 | «4 autorizzazioni valide su 4» → 3 su 4 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
 
 <!-- review:end log -->
 

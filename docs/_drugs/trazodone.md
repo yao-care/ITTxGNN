@@ -60,7 +60,7 @@ Al momento non risultano **sperimentazioni cliniche registrate**, ma sono dispon
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Dalla letteratura identificata, il trazodone antagonizza i recettori 5-HT2A/2C e inibisce debolmente la ricaptazione della serotonina; il suo metabolita attivo, la mCPP, è un agente serotoninergico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Trazodone (traduzione non ufficiale): «Il meccanismo dell'azione antidepressiva del trazodone non è completamente compreso, ma si ritiene sia correlato al potenziamento dell'attività serotoninergica nel SNC. Il trazodone è sia un inibitore selettivo della ricaptazione della serotonina (SSRI) sia un antagonista del recettore 5HT2, e l'effetto netto di questa azione sulla trasmissione serotoninergica e il suo ruolo nell'effetto antidepressivo del trazodone non sono noti.» Testo originale in inglese: "The mechanism of trazodone’s antidepressant action is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS. Trazodone is both a selective serotonin reuptake inhibitor (SSRI) and a 5HT2 receptor antagonist and the net result of this action on serotonergic transmission and its role in trazodone’s antidepressant effect is unknown." ([DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768), versione del 2026-11-13; consultato il 2026-11-19). Dalla letteratura identificata, il trazodone antagonizza i recettori 5-HT2A/2C e inibisce debolmente la ricaptazione della serotonina; il suo metabolita attivo, la mCPP, è un agente serotoninergico.
 
 La modulazione serotoninergica è la base farmacologica consolidata del trattamento del DOC, dominato da SSRI e clomipramina. Il legame meccanicistico è quindi plausibile, e la depressione e il DOC spesso coesistono. Il trazodone è stato provato come terapia di potenziamento nel DOC resistente alla clomipramina.
 
@@ -142,12 +142,13 @@ Il legame serotoninergico con il DOC è plausibile e la letteratura è relativam
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
 
 <!-- review:end log -->
 

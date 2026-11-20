@@ -60,7 +60,7 @@ Nota: la classificazione interna dei dati compilati assegna L4 a questa indicazi
 
 ## Perché questa predizione è plausibile?
 
-Imatinib inibisce le chinasi PDGFR, KIT e ABL. Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nella scheda del farmaco, ma questa è l'informazione mappata nei dati compilati per questo report.
+Imatinib inibisce le chinasi PDGFR, KIT e ABL. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Imatinib (traduzione non ufficiale): «Imatinib mesilato è un inibitore della proteina tirosin-chinasi che inibisce la tirosin-chinasi BCR-ABL, la tirosin-chinasi anomala costitutiva generata dall'anomalia del cromosoma Philadelphia nella LMC. Imatinib inibisce la proliferazione e induce l'apoptosi nelle linee cellulari BCR-ABL positive e nelle cellule leucemiche fresche di leucemia mieloide cronica positiva al cromosoma Philadelphia.» Testo originale in inglese: "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia." ([DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b), versione del 2026-07-13; consultato il 2026-11-19).
 
 I tumori di tipo fibrosarcomatoso, in particolare il dermatofibrosarcoma protuberans (DFSP, già tra le indicazioni originali del farmaco), sono guidati dalla fusione COL1A1-PDGFB, che attiva il segnale PDGFRB. Per analogia di classe, l'uso di imatinib è quindi plausibile.
 
@@ -159,13 +159,14 @@ Tra le altre predizioni, il **liposarcoma** ha l'evidenza più solida (L2, tre s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate; s» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni elencate risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
 
 <!-- review:end log -->
 

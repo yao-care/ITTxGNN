@@ -56,7 +56,7 @@ ma al momento non risultano **studi clinici registrati** e la letteratura dispon
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, la rifampicina è un inibitore della RNA polimerasi batterica con attività contro batteri Gram-positivi, *Chlamydia* e altri patogeni oculari. Questa attività rende biologicamente plausibile un effetto nelle congiuntiviti di origine batterica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rifampicin (traduzione non ufficiale): «La rifampicina inibisce l'attività della RNA polimerasi DNA-dipendente negli organismi di Mycobacterium tuberculosis sensibili. In particolare, interagisce con la RNA polimerasi batterica, ma non inibisce l'enzima dei mammiferi.» Testo originale in inglese: "Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme." ([DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5), versione del 2026-05-05; consultato il 2026-11-19). In base alle conoscenze generali, la rifampicina è un inibitore della RNA polimerasi batterica con attività contro batteri Gram-positivi, *Chlamydia* e altri patogeni oculari. Questa attività rende biologicamente plausibile un effetto nelle congiuntiviti di origine batterica.
 
 La relazione con l'indicazione originale è di tipo antinfettivo: la rifampicina è efficace contro le micobatteriosi e, per il suo spettro, anche contro alcuni agenti responsabili di infezioni oculari. La letteratura comprende infatti studi sul tracoma e sulle infezioni oculari da *Chlamydia trachomatis* trattate con pomata di rifampicina all'1%.
 
@@ -138,12 +138,13 @@ La predizione è biologicamente plausibile per le congiuntiviti batteriche e cla
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e in Italia non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
 
 <!-- review:end log -->
 

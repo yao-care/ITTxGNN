@@ -54,7 +54,7 @@ L'eritromicina è un antibiotico macrolide, usato contro diverse infezioni batte
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze generali, l'eritromicina è un macrolide che inibisce la sintesi proteica batterica a livello della subunità ribosomiale 50S, con attività antibatterica e, secondo alcuni dati, anche antinfiammatoria.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Erythromycin (traduzione non ufficiale): «Eritromicina agisce inibendo la sintesi proteica mediante legame alle subunità ribosomiali 50S degli organismi sensibili. Non influisce sulla sintesi degli acidi nucleici.» Testo originale in inglese: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), versione del 2018-12-04; consultato il 2026-11-19). In base alle conoscenze generali, l'eritromicina è un macrolide che inibisce la sintesi proteica batterica a livello della subunità ribosomiale 50S, con attività antibatterica e, secondo alcuni dati, anche antinfiammatoria.
 
 Dal punto di vista meccanicistico, tali proprietà potrebbero essere rilevanti per le forme croniche di infiammazione della superficie oculare, in particolare quando sono presenti componenti batteriche palpebrali. Si tratta tuttavia di un'ipotesi: l'unica pubblicazione disponibile riguarda la blefarocheratocongiuntivite cronica nei bambini e non studia direttamente la cheratocongiuntivite epiteliale puntata. Il punteggio elevato del modello è una predizione, non una prova clinica.
 
@@ -94,6 +94,18 @@ Nessuno studio clinico o pubblicazione studia direttamente la cheratocongiuntivi
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo ufficiale
 - Verifica della compatibilità della via di somministrazione, dato che la formulazione autorizzata in Italia è iniettabile
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

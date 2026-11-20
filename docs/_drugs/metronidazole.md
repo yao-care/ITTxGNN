@@ -58,7 +58,7 @@ Il metronidazolo è un antibiotico/antiprotozoario utilizzato originariamente pe
 
 ## Perché questa predizione è ragionevole (o no)?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il metronidazolo è attivo contro batteri anaerobi e protozoi, grazie a una via di attivazione mediata da nitroriduttasi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Metronidazole (traduzione non ufficiale): «Metronidazolo, un nitroimidazolo, esercita effetti antibatterici in ambiente anaerobico contro la maggior parte degli anaerobi obbligati. Una volta che metronidazolo è entrato nell'organismo per diffusione passiva ed è stato attivato nel citoplasma dei batteri anaerobi sensibili, viene ridotto; questo processo comprende donatori intracellulari di trasporto di elettroni come la ferredossina e il trasferimento di un elettrone al gruppo nitro del metronidazolo, con conseguente formazione di un radicale libero nitroso a breve durata.» Testo originale in inglese: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), versione del 2026-11-02; consultato il 2026-11-19). In base alle conoscenze generali, il metronidazolo è attivo contro batteri anaerobi e protozoi, grazie a una via di attivazione mediata da nitroriduttasi.
 
 Per la pneumocistosi il collegamento meccanicistico appare debole: *Pneumocystis* è un fungo e non possiede la via di attivazione da cui dipende il metronidazolo. L'elevato punteggio TxGNN è verosimilmente dovuto alla prossimità, nella rete di conoscenza, con farmaci antiparassitari e antinfettivi. La letteratura recuperata comprende revisioni generali sugli antiparassitari e articoli sulle infezioni opportunistiche in corso di AIDS, senza prove di efficacia del metronidazolo contro *Pneumocystis*.
 
@@ -155,12 +155,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->
 

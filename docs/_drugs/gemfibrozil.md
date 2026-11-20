@@ -58,7 +58,7 @@ Il gemfibrozil è un fibrato (agonista di PPAR-alfa) utilizzato originariamente 
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze note, il gemfibrozil è un agonista di PPAR-alfa; la sua efficacia nell'ipertrigliceridemia è consolidata e, dal punto di vista meccanicistico, potrebbe essere applicabile all'artrite reumatoide.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Gemfibrozil (traduzione non ufficiale): «Gemfibrozil è un agente regolatore dei lipidi che riduce i trigliceridi sierici e il colesterolo delle lipoproteine a densità molto bassa (VLDL) e aumenta il colesterolo delle lipoproteine ad alta densità (HDL). Sebbene con la terapia con gemfibrozil si possano osservare modeste riduzioni del colesterolo totale e del colesterolo delle lipoproteine a bassa densità (LDL), il trattamento di pazienti con trigliceridi elevati dovuti a iperlipoproteinemia di tipo IV determina spesso un aumento del colesterolo LDL.» Testo originale in inglese: "Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol. While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol." ([DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725), versione del 2026-11-10; consultato il 2026-11-19). In base alle conoscenze note, il gemfibrozil è un agonista di PPAR-alfa; la sua efficacia nell'ipertrigliceridemia è consolidata e, dal punto di vista meccanicistico, potrebbe essere applicabile all'artrite reumatoide.
 
 L'agonismo di PPAR ha effetti antinfiammatori e immunomodulatori (riduzione delle citochine pro-infiammatorie, effetti sulla differenziazione dei linfociti T), un collegamento plausibile con la patologia dell'artrite reumatoide. Il legame con l'indicazione originale (un disturbo del metabolismo lipidico) è tuttavia indiretto: si basa sull'asse infiammatorio/immunitario e non su una somiglianza di malattia.
 
@@ -160,7 +160,7 @@ Tra le altre indicazioni previste, due meritano approfondimento come domande di 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
@@ -168,6 +168,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Tabella: la confezione 026737039 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
 
 <!-- review:end log -->
 

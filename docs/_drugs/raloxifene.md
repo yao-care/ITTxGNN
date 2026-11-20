@@ -57,7 +57,7 @@ Nota: l'indicazione originale non è ricavabile dai testi delle indicazioni auto
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle conoscenze generali, il raloxifene è un SERM con attività agonista estrogenica sull'osso e antagonista a livello di mammella e utero. La sua efficacia nell'osteoporosi post-menopausale è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Raloxifene (traduzione non ufficiale): «Raloxifene è un agonista/antagonista degli estrogeni, comunemente definito modulatore selettivo del recettore degli estrogeni (SERM). Le azioni biologiche di raloxifene sono in gran parte mediate dal legame con i recettori degli estrogeni. Tale legame determina l'attivazione delle vie estrogeniche in alcuni tessuti (agonismo) e il blocco delle vie estrogeniche in altri (antagonismo).» Testo originale in inglese: "Raloxifene is an estrogen agonist/antagonist, commonly referred to as a selective estrogen receptor modulator (SERM). The biological actions of raloxifene are largely mediated through binding to estrogen receptors. This binding results in activation of estrogenic pathways in some tissues (agonism) and blockade of estrogenic pathways in others (antagonism)." ([DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9), versione del 2026-02-11; consultato il 2026-11-19). Sulla base delle conoscenze generali, il raloxifene è un SERM con attività agonista estrogenica sull'osso e antagonista a livello di mammella e utero. La sua efficacia nell'osteoporosi post-menopausale è consolidata.
 
 Non esiste un meccanismo stabilito che colleghi il raloxifene alla fisiopatologia dell'ulcera peptica (infezione da *H. pylori*, secrezione acida, difesa della mucosa). Un eventuale legame resta speculativo, ad esempio attraverso effetti dei recettori estrogenici sulla protezione della mucosa gastrica o sull'infiammazione. L'assenza dei dati sul meccanismo d'azione limita ulteriormente la valutazione.
 
@@ -139,13 +139,14 @@ La predizione si basa unicamente su un punteggio computazionale elevato, senza s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ L'orfenadrina è un farmaco anticolinergico originariamente usato per il **parki
 
 ## Perché questa previsione può essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle informazioni note, l'orfenadrina è un agente antimuscarinico (con proprietà antiistaminiche e di blocco del canale NMDA), la cui efficacia nel parkinsonismo è nota e che, sul piano meccanicistico, potrebbe avere rilevanza in ambito psichiatrico.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Orphenadrine (traduzione non ufficiale): «Il meccanismo d'azione non è stato chiaramente identificato, ma potrebbe essere correlato alle proprietà analgesiche. L'orfenadrina citrato possiede azioni anticolinergiche.» Testo originale in inglese: "The mode of action has not been clearly identified but may be related to analgesic properties. Orphenadrine citrate possesses anticholinergic actions." ([DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a), versione del 2016-07-20; consultato il 2026-11-19). In base alle informazioni note, l'orfenadrina è un agente antimuscarinico (con proprietà antiistaminiche e di blocco del canale NMDA), la cui efficacia nel parkinsonismo è nota e che, sul piano meccanicistico, potrebbe avere rilevanza in ambito psichiatrico.
 
 Nella schizofrenia il suo ruolo documentato è quello di **adiuvante**: l'orfenadrina riduce i sintomi extrapiramidali indotti da antipsicotici come aloperidolo e clorpromazina (studi di Altamura et al., Gerlach et al., Mindham et al.). Non c'è evidenza che tratti i sintomi centrali della malattia. Il blocco del canale NMDA (studio preclinico sul ratto, PMID 12459931) è coerente con i modelli glutammatergici della schizofrenia, ma resta un'ipotesi.
 
@@ -137,12 +137,13 @@ Per la schizofrenia esiste solo letteratura storica che documenta l'uso dell'orf
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «la sua autorizzazione italiana è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: orphenadrine citrate prescribing information, Actavis Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aec8ad3a-f717-4e74-b7b9-19debdaad79a) |
 
 <!-- review:end log -->
 

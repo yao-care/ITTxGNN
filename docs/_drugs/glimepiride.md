@@ -60,7 +60,7 @@ ma per questa direzione **non risulta alcuno studio clinico né alcuna pubblicaz
 
 ## Perché questa previsione potrebbe (o non potrebbe) essere ragionevole
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, glimepiride appartiene alla classe delle sulfonuree: agisce chiudendo i canali del potassio ATP-dipendenti (K-ATP) delle cellule beta pancreatiche, stimolando la secrezione di insulina. Questo meccanismo è ben consolidato nel diabete di tipo 2, ma non ha un legame noto con la neurotrasmissione GABAergica né con la rigidità neuromuscolare di origine autoimmune.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Glimepiride (traduzione non ufficiale): «Glimepiride abbassa la glicemia principalmente stimolando il rilascio di insulina dalle cellule beta pancreatiche. Le sulfoniluree si legano al recettore delle sulfoniluree nella membrana plasmatica delle cellule beta pancreatiche, determinando la chiusura del canale del potassio ATP-sensibile e stimolando così il rilascio di insulina.» Testo originale in inglese: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), versione del 2024-08-20; consultato il 2026-11-19). In base alle informazioni note, glimepiride appartiene alla classe delle sulfonuree: agisce chiudendo i canali del potassio ATP-dipendenti (K-ATP) delle cellule beta pancreatiche, stimolando la secrezione di insulina. Questo meccanismo è ben consolidato nel diabete di tipo 2, ma non ha un legame noto con la neurotrasmissione GABAergica né con la rigidità neuromuscolare di origine autoimmune.
 
 L'unico collegamento ipotizzabile è indiretto: la sindrome della persona rigida è associata agli anticorpi anti-GAD65 e si presenta spesso insieme al diabete di tipo 1. È probabile che il punteggio elevato rifletta questa vicinanza nella rete di conoscenza (associazioni con il diabete) più che un reale razionale terapeutico. Questo legame non può essere verificato con i dati attuali.
 
@@ -159,13 +159,14 @@ La previsione per la sindrome della persona rigida classica si basa solo sul pun
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 16 autorizzazioni risultano cancellate; non esistono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
 
 <!-- review:end log -->
 

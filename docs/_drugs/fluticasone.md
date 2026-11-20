@@ -59,7 +59,7 @@ Il fluticasone è un corticosteroide glucocorticoide, di cui nei dati compilati 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il fluticasone è un glucocorticoide con attività antinfiammatoria, e la neuroinflammazione e l'infiammazione neurogena sono ritenute possibili contributori alla fisiopatologia dell'emicrania. Questo è però un collegamento solo ipotetico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fluticasone (traduzione non ufficiale): «Fluticasone propionato è un corticosteroide sintetico trifluorurato con attività antinfiammatoria. È stato dimostrato in vitro che fluticasone propionato presenta un'affinità di legame per il recettore umano dei glucocorticoidi pari a 18 volte quella del desametasone, quasi il doppio di quella del beclometasone-17-monopropionato (BMP), il metabolita attivo del beclometasone dipropionato, e oltre 3 volte quella della budesonide.» Testo originale in inglese: "Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide." ([DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2), versione del 2026-10-23; consultato il 2026-11-19). In base alle conoscenze generali, il fluticasone è un glucocorticoide con attività antinfiammatoria, e la neuroinflammazione e l'infiammazione neurogena sono ritenute possibili contributori alla fisiopatologia dell'emicrania. Questo è però un collegamento solo ipotetico.
 
 L'unica pubblicazione recuperata è una revisione sui corticosteroidi intranasali e sui disturbi neuropsichiatrici (PMID 18681087). Essa riguarda effetti avversi (inclusi cefalea e disturbi dell'umore/comportamento), non un beneficio terapeutico, e non supporta l'efficacia nell'emicrania: se mai, segnala un possibile problema di sicurezza.
 
@@ -135,11 +135,12 @@ La previsione si basa quasi esclusivamente sul punteggio del modello TxGNN. Non 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2) |
 
 <!-- review:end log -->
 

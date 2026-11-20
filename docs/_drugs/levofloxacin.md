@@ -54,7 +54,7 @@ Levofloxacin è un antibiotico fluorochinolonico impiegato nelle infezioni batte
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle informazioni note, levofloxacin appartiene alla classe dei fluorochinolonici, antibatterici ad ampio spettro, ed è plausibile un collegamento con le infezioni oculari di origine batterica.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Levofloxacin (traduzione non ufficiale): «La levofloxacina appartiene alla classe dei fluorochinoloni, agenti antibatterici. […] La levofloxacina è l'isomero L del racemato ofloxacina, un agente antimicrobico chinolonico. L'attività antibatterica dell'ofloxacina risiede principalmente nell'isomero L. Il meccanismo d'azione della levofloxacina e degli altri antimicrobici fluorochinolonici comporta l'inibizione della topoisomerasi IV e della DNA girasi batteriche (entrambe topoisomerasi di tipo II), enzimi necessari per la replicazione, la trascrizione, la riparazione e la ricombinazione del DNA.» Testo originale in inglese: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), versione del 2026-11-05; consultato il 2026-11-19). Sulla base delle informazioni note, levofloxacin appartiene alla classe dei fluorochinolonici, antibatterici ad ampio spettro, ed è plausibile un collegamento con le infezioni oculari di origine batterica.
 
 Il collegamento con la cheratocongiuntivite epiteliale puntata resta però debole. L'unica pubblicazione recuperata (PMID 30055152) descrive un focolaio di cheratocongiuntivite da microsporidi associato alla contaminazione dell'acqua di piscine a Taiwan. I microsporidi non sono sensibili ai fluorochinolonici come classe, quindi lo studio non supporta l'efficacia di levofloxacin. L'elevato punteggio del modello riflette probabilmente la vicinanza ad altre condizioni oculari infettive, più che un'evidenza specifica.
 
@@ -99,6 +99,18 @@ La predizione si basa solo sul modello: l'unica pubblicazione disponibile riguar
 - Studi o serie di casi che valutino direttamente levofloxacin (in particolare per via oftalmica) in questa condizione
 - Verifica della compatibilità delle vie di somministrazione, poiché le autorizzazioni locali elencate sono compresse orali
 - Acquisizione del testo di avvertenze e controindicazioni dal foglio illustrativo AIFA
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -60,7 +60,7 @@ Tra le altre indicazioni previste, quella con le evidenze più solide è l'**emo
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Dalle informazioni di farmacologia disponibili, emicizumab lega il fattore IX attivato (IXa) e il fattore X (Xa), mimando la funzione di cofattore del fattore VIII attivato. Per questo agisce anche in presenza di inibitori anti-FVIII.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Emicizumab (traduzione non ufficiale): «HEMLIBRA crea un ponte tra il fattore IX attivato e il fattore X per ripristinare la funzione del fattore VIII attivato mancante, necessaria per un'emostasi efficace.» Testo originale in inglese: "HEMLIBRA bridges activated factor IX and factor X to restore the function of missing activated factor VIII that is needed for effective hemostasis." ([DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071), versione del 2025-07-11; consultato il 2026-11-19). Dalle informazioni di farmacologia disponibili, emicizumab lega il fattore IX attivato (IXa) e il fattore X (Xa), mimando la funzione di cofattore del fattore VIII attivato. Per questo agisce anche in presenza di inibitori anti-FVIII.
 
 Per la pseudo-malattia di von Willebrand il collegamento meccanicistico è **debole**. Si tratta di un disturbo piastrinico causato da una mutazione con guadagno di funzione di GPIb-alfa, che aumenta il legame con il fattore di von Willebrand. Il difetto riguarda l'interazione piastrine-VWF e non il complesso tenasi dipendente dal fattore VIII, su cui agisce emicizumab. L'alto punteggio TxGNN va quindi interpretato con cautela: non esiste una base razionale chiara né dati clinici.
 
@@ -157,12 +157,13 @@ La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
 
 <!-- review:end log -->
 

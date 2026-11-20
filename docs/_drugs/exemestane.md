@@ -54,7 +54,7 @@ Exemestane è un inibitore steroideo dell'aromatasi, usato nel trattamento del c
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. In base alle conoscenze generali, exemestane è un inibitore steroideo dell'aromatasi che riduce la sintesi di estrogeni; la sua efficacia nel carcinoma mammario ormono-positivo in postmenopausa è nota.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Exemestane (traduzione non ufficiale): «La crescita delle cellule del carcinoma mammario può essere estrogeno-dipendente. L'aromatasi è il principale enzima che converte gli androgeni in estrogeni sia nelle donne in pre- sia in postmenopausa. […] L'exemestane è un inattivatore steroideo irreversibile dell'aromatasi, strutturalmente correlato al substrato naturale androstenedione.» Testo originale in inglese: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), versione del 2025-12-24; consultato il 2026-11-19). In base alle conoscenze generali, exemestane è un inibitore steroideo dell'aromatasi che riduce la sintesi di estrogeni; la sua efficacia nel carcinoma mammario ormono-positivo in postmenopausa è nota.
 
 Per il deficit di antitrombina di tipo 2 **non emerge alcun razionale meccanicistico**: si tratta di un difetto ereditario del gene SERPINC1, e la soppressione estrogenica non corregge la funzione dell'antitrombina. Lo stesso vale per il fattore V in eccesso con trombosi spontanea e per il deficit del cofattore II dell'eparina: la predizione è solo un output del modello, senza supporto clinico o bibliografico.
 
@@ -134,11 +134,12 @@ Le predizioni si basano solo sul punteggio del modello (livello L5 per il rango 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
 
 <!-- review:end log -->
 

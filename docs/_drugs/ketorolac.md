@@ -64,7 +64,7 @@ Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni orig
 
 ## Perché questa predizione è ragionevole?
 
-Il ketorolac è un FANS che inibisce in modo non selettivo gli enzimi COX-1 e COX-2, riducendo la sintesi di prostaglandine. Al momento non sono disponibili dati dettagliati sul meccanismo d'azione per l'indicazione originaria, ma il meccanismo di classe dei FANS è ben noto.
+Il ketorolac è un FANS che inibisce in modo non selettivo gli enzimi COX-1 e COX-2, riducendo la sintesi di prostaglandine. Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ketorolac (traduzione non ufficiale): «Ketorolac trometamina è un farmaco antinfiammatorio non steroideo (FANS) che mostra attività analgesica in modelli animali. Il meccanismo d'azione di ketorolac, come quello di altri FANS, non è completamente noto, ma può essere correlato all'inibizione della prostaglandina sintetasi.» Testo originale in inglese: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), versione del 2026-11-13; consultato il 2026-11-19).
 
 Le prostaglandine contribuiscono all'infiammazione neurogena, alla sensibilizzazione trigemino-vascolare e all'attivazione dei nocicettori periferici, processi coinvolti nell'emicrania e nella cefalea tensiva. L'inibizione della COX fornisce quindi un razionale analgesico plausibile. Anche l'uso originario nelle congiuntiviti allergiche si basa sull'effetto antinfiammatorio e antiprostaglandinico.
 
@@ -177,7 +177,7 @@ Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativ
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
@@ -185,6 +185,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | «13 autorizzazioni valide su 13» → 11 su 13 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
 
 <!-- review:end log -->
 

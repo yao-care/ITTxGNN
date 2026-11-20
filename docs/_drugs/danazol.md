@@ -54,7 +54,7 @@ Il danazolo è un androgeno sintetico con attività antigonadotropa, derivato de
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, il danazolo sopprime i picchi ipofisari di LH e FSH e la steroidogenesi ovarica, determinando atrofia endometriale e amenorrea. Si tratta di un effetto farmacologico noto, alla base del suo impiego nell'endometriosi.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Danazol (traduzione non ufficiale): «Il danazolo sopprime l'asse ipofisi-ovaio.» Testo originale in inglese: "Danazol suppresses the pituitary-ovarian axis." ([DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b), versione del 2024-10-10; consultato il 2026-11-19). In base alle informazioni note, il danazolo sopprime i picchi ipofisari di LH e FSH e la steroidogenesi ovarica, determinando atrofia endometriale e amenorrea. Si tratta di un effetto farmacologico noto, alla base del suo impiego nell'endometriosi.
 
 L'amenorrea è quindi più un effetto atteso che un bersaglio terapeutico nella maggior parte dei contesti. Il valore di riposizionamento si limita alla soppressione mestruale deliberata, ad esempio nei sanguinamenti uterini anomali o nella terapia di affermazione di genere. Un coorte retrospettivo multicentrico del 2024 (PMID 39051650) ne sostiene l'uso per la soppressione mestruale in persone transgender. Gli effetti avversi androgenici limitano ulteriormente questo impiego.
 
@@ -107,6 +107,18 @@ L'amenorrea è un effetto farmacologico atteso del danazolo più che un bersagli
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni dal foglio illustrativo AIFA
 - Studi prospettivi o controllati sulla soppressione mestruale con danazolo (ad esempio nel sanguinamento uterino anomalo o nella terapia di affermazione di genere)
 - Valutazione del rapporto beneficio-rischio rispetto alle alternative ormonali consolidate
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

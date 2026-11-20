@@ -56,7 +56,7 @@ Sapropterin è un analogo sintetico della tetraidrobiopterina (BH4), cofattore d
 
 Sapropterin è la forma sintetica di BH4, cofattore della fenilalanina idrossilasi, l'enzima che converte la fenilalanina in tirosina. Il punteggio elevato riflette verosimilmente la vicinanza, nelle vie metaboliche, tra il metabolismo della fenilalanina e quello della tirosina.
 
-Il legame, tuttavia, è solo indiretto. La letteratura raccolta riguarda la gestione della fenilchetonuria, nella quale la tirosina diventa carente a valle del blocco enzimatico. Nei disturbi primari del metabolismo della tirosina (ad esempio le tirosinemie di tipo I-III) gli enzimi difettosi sono la fumarilacetoacetato idrolasi, la tirosina aminotransferasi e la 4-idrossifenilpiruvato diossigenasi, sui quali BH4 non agisce. Non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report.
+Il legame, tuttavia, è solo indiretto. La letteratura raccolta riguarda la gestione della fenilchetonuria, nella quale la tirosina diventa carente a valle del blocco enzimatico. Nei disturbi primari del metabolismo della tirosina (ad esempio le tirosinemie di tipo I-III) gli enzimi difettosi sono la fumarilacetoacetato idrolasi, la tirosina aminotransferasi e la 4-idrossifenilpiruvato diossigenasi, sui quali BH4 non agisce. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Sapropterin (traduzione non ufficiale): «La sapropterina dicloridrato è una forma sintetica di BH4, il cofattore dell'enzima fenilalanina idrossilasi (PAH). La PAH idrossila la Phe attraverso una reazione ossidativa per formare tirosina. Nei pazienti con PKU, l'attività della PAH è assente o carente.» Testo originale in inglese: "Sapropterin dihydrochloride is a synthetic form of BH4, the cofactor for the enzyme phenylalanine hydroxylase (PAH). PAH hydroxylates Phe through an oxidative reaction to form tyrosine. In patients with PKU, PAH activity is absent or deficient." ([DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1), versione del 2025-04-30; consultato il 2026-11-19).
 
 Nessuno degli studi citati indaga direttamente il disturbo del metabolismo della tirosina; per questo il livello di evidenza è L5.
 
@@ -113,6 +113,18 @@ La predizione si basa solo sul modello: non ci sono studi clinici né pubblicazi
 - Dati preclinici o studi di prova di concetto sulla malattia prevista
 - Dati sul meccanismo d'azione e sulle avvertenze e controindicazioni del foglio illustrativo AIFA
 - Una valutazione delle interazioni moderate rilevate in vista di un eventuale uso in nuove popolazioni
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zelvysia (sapropterin dihydrochloride) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8de84882-dd24-46f2-8416-5e492d4275d1) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

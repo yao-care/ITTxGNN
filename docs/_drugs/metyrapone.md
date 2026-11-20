@@ -54,7 +54,7 @@ Il metirapone è un inibitore della sintesi del cortisolo, usato in ambito endoc
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dai dati farmacologici compilati, il metirapone agisce sugli enzimi CYP11B1 (11-beta-idrossilasi) e CYP11B2, riducendo la sintesi del cortisolo surrenalico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Metyrapone (traduzione non ufficiale): «L'effetto farmacologico di Metopirone consiste nel ridurre la produzione di cortisolo e corticosterone mediante inibizione della reazione di 11-beta-idrossilazione nella corteccia surrenale. La rimozione del forte meccanismo di feedback inibitorio esercitato dal cortisolo determina un aumento della produzione di ormone adrenocorticotropo (ACTH) da parte dell'ipofisi.» Testo originale in inglese: "The pharmacological effect of Metopirone is to reduce cortisol and corticosterone production by inhibiting the 11-beta-hydroxylation reaction in the adrenal cortex. Removal of the strong inhibitory feedback mechanism exerted by cortisol results in an increase in adrenocorticotropic hormone (ACTH) production by the pituitary." ([DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f), versione del 2026-05-19; consultato il 2026-11-19). Dai dati farmacologici compilati, il metirapone agisce sugli enzimi CYP11B1 (11-beta-idrossilasi) e CYP11B2, riducendo la sintesi del cortisolo surrenalico.
 
 Tuttavia, **non esiste un legame meccanicistico noto** con la nuova indicazione. L'ipertermia maligna è legata soprattutto a varianti di RYR1/CACNA1S che alterano il rilascio di calcio nel muscolo scheletrico; l'inibizione della steroidogenesi surrenalica non è collegata a questa via. L'elevato punteggio TxGNN (0.9995) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
@@ -121,12 +121,13 @@ La previsione è supportata solo dal modello (L5), senza studi clinici né lette
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre il prodotto autorizzato in Italia risulta cancellato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazione cancellata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f) |
 
 <!-- review:end log -->
 

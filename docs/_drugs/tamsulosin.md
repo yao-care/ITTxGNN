@@ -59,7 +59,7 @@ Il modello TxGNN ne prevede una possibile efficacia per l'**ipertricosi universa
 
 ## Perché questa predizione è ragionevole?
 
-Allo stato attuale, i dati dettagliati sul meccanismo d'azione non sono disponibili. In base alle informazioni note, la tamsulosina è un antagonista dei recettori adrenergici alfa-1A/1D, la cui efficacia nell'iperplasia prostatica benigna è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tamsulosin (traduzione non ufficiale): «I sintomi associati all'iperplasia prostatica benigna (IPB) sono correlati all'ostruzione dello sbocco vescicale, che comprende due componenti di fondo: statica e dinamica. La componente statica è correlata a un aumento delle dimensioni della prostata causato, in parte, da una proliferazione delle cellule muscolari lisce nello stroma prostatico. […] La tamsulosina, un agente bloccante degli adrenocettori alfa 1 , mostra selettività per i recettori alfa 1 nella prostata umana.» Testo originale in inglese: "The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma. […] Tamsulosin, an alpha 1 adrenoceptor blocking agent, exhibits selectivity for alpha 1 receptors in the human prostate." ([DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f), versione del 2026-11-12; consultato il 2026-11-19). In base alle informazioni note, la tamsulosina è un antagonista dei recettori adrenergici alfa-1A/1D, la cui efficacia nell'iperplasia prostatica benigna è consolidata.
 
 Per l'indicazione prevista **non emerge un razionale meccanicistico plausibile**. La sindrome di Ambras deriva da riarrangiamenti genomici che alterano la regolazione di TRPS1, e non esiste alcuna via nota che colleghi il blocco alfa-1 adrenergico alla crescita eccessiva dei peli. L'elevato punteggio TxGNN (1,0000) deriva dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
@@ -148,13 +148,14 @@ La predizione si basa unicamente sul modello (livello L5): non esistono studi cl
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |
 
 <!-- review:end log -->
 

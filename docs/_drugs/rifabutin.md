@@ -56,7 +56,7 @@ La rifabutina è un antibiotico della classe delle rifamicine che inibisce la RN
 
 La rifabutina inibisce la RNA polimerasi batterica DNA-dipendente (rpoB). Non ha attività antiretrovirale diretta: il suo valore nelle persone con HIV deriva dal trattamento e dalla prevenzione delle infezioni micobatteriche opportunistiche (*Mycobacterium avium* complex, tubercolosi).
 
-Rispetto alla rifampicina è un induttore più debole del CYP3A4, per cui è preferita nei pazienti in terapia antiretrovirale basata su inibitori della proteasi. Questo spiega l'ampio corpus di studi su rifabutina e HIV, ma si tratta di gestione delle co-infezioni, non di trattamento dell'HIV. Il segnale del modello va quindi interpretato come associazione con il contesto clinico dell'HIV più che come evidenza di efficacia sul virus. Non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo rapporto.
+Rispetto alla rifampicina è un induttore più debole del CYP3A4, per cui è preferita nei pazienti in terapia antiretrovirale basata su inibitori della proteasi. Questo spiega l'ampio corpus di studi su rifabutina e HIV, ma si tratta di gestione delle co-infezioni, non di trattamento dell'HIV. Il segnale del modello va quindi interpretato come associazione con il contesto clinico dell'HIV più che come evidenza di efficacia sul virus. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rifabutin (traduzione non ufficiale): «La rifabutina inibisce la RNA polimerasi DNA-dipendente in ceppi sensibili di Escherichia coli e Bacillus subtilis, ma non nelle cellule di mammifero. Nei ceppi resistenti di E. coli, la rifabutina, come la rifampicina, non ha inibito questo enzima.» Testo originale in inglese: "Rifabutin inhibits DNA-dependent RNA polymerase in susceptible strains of Escherichia coli and Bacillus subtilis but not in mammalian cells. In resistant strains of E. coli, rifabutin, like rifampin, did not inhibit this enzyme." ([DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589), versione del 2026-09-01; consultato il 2026-11-19).
 
 ## Evidenze dagli studi clinici
 
@@ -115,6 +115,18 @@ Gli studi disponibili mostrano il ruolo della rifabutina nelle infezioni micobat
 - Dati sul meccanismo d'azione rilevanti per l'HIV
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Un piano di gestione delle interazioni con i farmaci antiretrovirali e di monitoraggio ematologico
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: rifabutin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25a60937-cbbe-4a50-994f-2ce15203f589) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

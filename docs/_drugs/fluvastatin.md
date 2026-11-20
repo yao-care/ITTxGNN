@@ -60,7 +60,7 @@ Nota sul livello di evidenza: la letteratura riguarda pazienti con HIV (dislipid
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la fluvastatina inibisce l'HMG-CoA reduttasi (gene *HMGCR*), enzima chiave della sintesi del colesterolo, e il suo uso nell'iperlipidemia è consolidato.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fluvastatin (traduzione non ufficiale): «Fluvastatina è un inibitore competitivo della HMG-CoA reduttasi, l'enzima limitante della velocità che converte il 3-idrossi-3-metilglutaril-coenzima A (HMG-CoA) in mevalonato, un precursore del colesterolo.» Testo originale in inglese: "Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol." ([DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310), versione del 2024-01-31; consultato il 2026-11-19). In base alle informazioni note, la fluvastatina inibisce l'HMG-CoA reduttasi (gene *HMGCR*), enzima chiave della sintesi del colesterolo, e il suo uso nell'iperlipidemia è consolidato.
 
 Il collegamento con l'HIV non è antivirale. Riguarda la gestione della dislipidemia associata alla terapia antiretrovirale e un possibile effetto sull'infiammazione e sull'attivazione immunitaria. La fluvastatina è eliminata soprattutto via CYP2C9 e non principalmente via CYP3A4, quindi presenta un rischio di interazione con gli inibitori della proteasi inferiore rispetto a simvastatina o lovastatina. Dati preclinici nel modello murino di nefropatia associata all'HIV suggeriscono inoltre una protezione dei podociti. Il punteggio elevato di TxGNN è coerente con questa letteratura, ma la prova riguarda soprattutto il controllo lipidico e la sicurezza, non la modifica del decorso dell'HIV.
 
@@ -135,11 +135,12 @@ Nessuno studio indicato valuta direttamente la fluvastatina come trattamento del
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-17 | «8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
 
 <!-- review:end log -->
 

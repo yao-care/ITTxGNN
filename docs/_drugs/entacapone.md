@@ -54,7 +54,7 @@ Entacapone è un inibitore della COMT, originariamente impiegato come terapia ag
 
 ## Perché questa previsione può essere ragionevole?
 
-Il meccanismo d'azione dettagliato non è attualmente disponibile nei dati compilati. Per conoscenza generale, entacapone inibisce la COMT (catecol-O-metiltransferasi) e viene usato per prolungare l'effetto della levodopa nel Parkinson.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Entacapone (traduzione non ufficiale): «Entacapone è un inibitore selettivo e reversibile della COMT. Nei mammiferi, la COMT è distribuita in vari organi, con le attività più elevate nel fegato e nel rene. La COMT è presente anche nel cuore, nel polmone, nella muscolatura liscia e scheletrica, nel tratto intestinale, negli organi riproduttivi, in varie ghiandole, nel tessuto adiposo, nella cute, nelle cellule ematiche e nei tessuti neuronali, in particolare nelle cellule gliali.» Testo originale in inglese: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), versione del 2026-02-16; consultato il 2026-11-19). Per conoscenza generale, entacapone inibisce la COMT (catecol-O-metiltransferasi) e viene usato per prolungare l'effetto della levodopa nel Parkinson.
 
 La neurodegenerazione associata a PLA2G6 comprende la distrofia neuroassonale infantile e la distonia-parkinsonismo correlata a PLA2G6. Un possibile punto di contatto è il deficit dopaminergico, che si sovrappone a quello delle sindromi parkinsoniane. Tuttavia, nessun dato dimostra un beneficio sulla malattia di base: l'inibizione della COMT potrebbe al massimo avere un ruolo sintomatico nella componente parkinsoniana, non modificare il decorso neurodegenerativo.
 
@@ -105,11 +105,12 @@ La previsione per la neurodegenerazione associata a PLA2G6 si fonda esclusivamen
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è annullata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
 
 <!-- review:end log -->
 

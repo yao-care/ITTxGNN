@@ -55,7 +55,7 @@ Il modello TxGNN la indica come possibile candidata per la **sindrome brachidatt
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo rapporto. In base alle conoscenze note, l'indometacina è un inibitore non selettivo delle ciclossigenasi (COX-1 e COX-2), che riduce la sintesi di prostaglandine e quindi infiammazione, dolore e febbre. I dati compilati riportano inoltre interazioni farmacologiche con PTGDR2 (recettore DP2), PPARG e il trasportatore del folato accoppiato ai protoni (SLC46A1).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Indomethacin (traduzione non ufficiale): «Indometacina possiede proprietà analgesiche, antinfiammatorie e antipiretiche. Il meccanismo d'azione di INDOCIN, come quello degli altri FANS, non è completamente compreso, ma comporta l'inibizione della cicloossigenasi (COX-1 e COX-2).» Testo originale in inglese: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), versione del 2024-12-16; consultato il 2026-11-19). In base alle conoscenze note, l'indometacina è un inibitore non selettivo delle ciclossigenasi (COX-1 e COX-2), che riduce la sintesi di prostaglandine e quindi infiammazione, dolore e febbre. I dati compilati riportano inoltre interazioni farmacologiche con PTGDR2 (recettore DP2), PPARG e il trasportatore del folato accoppiato ai protoni (SLC46A1).
 
 Per il primo risultato (sindrome brachidattilia-sindattilia) **non emerge alcun legame meccanicistico plausibile**: si tratta di una malformazione scheletrica dello sviluppo e non è evidente un percorso che colleghi la sintesi di prostaglandine a tale patologia. Lo stesso vale per gli altri risultati ad alto punteggio (displasia acromesomelica tipo Hunter-Thompson, sindrome WHIM, brachiolmia, miosclerosi e altre sindromi genetiche rare): il punteggio elevato riflette probabilmente la vicinanza nella rete di conoscenza alle indicazioni muscoloscheletriche, più che una rilevanza biologica.
 
@@ -129,12 +129,13 @@ Per le avvertenze complete fare riferimento al foglio illustrativo.
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «In Italia tutte e tre le autorizzazioni risultano cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate, prodotti eventualmente disponibili con altri nomi)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
 
 <!-- review:end log -->
 

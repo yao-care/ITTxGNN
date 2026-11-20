@@ -54,7 +54,7 @@ La fenitoina è un antiepilettico utilizzato per il controllo delle crisi tonico
 
 ## Perché questa predizione è (poco) ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alle conoscenze note, la fenitoina blocca i canali del sodio voltaggio-dipendenti (la scheda farmacologica indica come bersaglio Nav1.2, gene SCN2A), il che riduce la propagazione delle crisi e le scariche neuronali ectopiche ad alta frequenza.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Phenytoin (traduzione non ufficiale): «Il meccanismo preciso con cui fenitoina esercita il suo effetto terapeutico non è stato stabilito, ma si ritiene che comporti il blocco voltaggio-dipendente dei canali del sodio di membrana, con conseguente riduzione delle scariche neuronali sostenute ad alta frequenza.» Testo originale in inglese: "The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges." ([DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353), versione del 2026-06-25; consultato il 2026-11-19). In base alle conoscenze note, la fenitoina blocca i canali del sodio voltaggio-dipendenti (la scheda farmacologica indica come bersaglio Nav1.2, gene SCN2A), il che riduce la propagazione delle crisi e le scariche neuronali ectopiche ad alta frequenza.
 
 Questo meccanismo è pertinente a crisi epilettiche e dolore neuropatico, **non al controllo tumorale**. Non emerge un legame meccanicistico diretto con le neoplasie del nervo trigemino. La letteratura recuperata riguarda la nevralgia del trigemino e la sindrome di Sturge-Weber, non tumori. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche.
 
@@ -150,13 +150,14 @@ Per le informazioni complete di sicurezza si rimanda al foglio illustrativo.
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Non risultano autorizzazioni attualmente valide in Italia (0 monocomponente, 0 combinazioni)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Anche l'autorizzazione italiana è annullata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
 
 <!-- review:end log -->
 

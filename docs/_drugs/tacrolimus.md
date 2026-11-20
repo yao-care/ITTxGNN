@@ -60,7 +60,7 @@ con **2 studi clinici** direttamente pertinenti (uno di fase 3 completato e uno 
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. In base alla farmacologia generale degli inibitori della calcineurina, il tacrolimus blocca l'attivazione dei linfociti T mediata da NFAT e il rilascio di citochine proinfiammatorie (come IL-2, IL-4, interferone-gamma). È lo stesso meccanismo alla base dell'efficacia nella dermatite atopica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tacrolimus (traduzione non ufficiale): «Tacrolimus si lega a una proteina intracellulare, FKBP-12. Si forma quindi un complesso di tacrolimus-FKBP-12, calcio, calmodulina e calcineurina (un enzima intracellulare ubiquitario dei mammiferi) e l'attività fosfatasica della calcineurina viene inibita.» Testo originale in inglese: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), versione del 2025-02-26; consultato il 2026-11-19). In base alla farmacologia generale degli inibitori della calcineurina, il tacrolimus blocca l'attivazione dei linfociti T mediata da NFAT e il rilascio di citochine proinfiammatorie (come IL-2, IL-4, interferone-gamma). È lo stesso meccanismo alla base dell'efficacia nella dermatite atopica.
 
 La dermatite seborroica è una malattia infiammatoria cronica e recidivante della cute, localizzata soprattutto al viso e al cuoio capelluto, associata a una risposta infiammatoria alla colonizzazione da lieviti *Malassezia* e a un'infiammazione cutanea mediata dai linfociti T. Poiché la dermatite atopica e quella seborroica condividono una componente infiammatoria T-dipendente, l'azione antinfiammatoria e immunomodulante del tacrolimus topico risulta meccanisticamente plausibile. Alcune fonti suggeriscono inoltre una possibile attività antifungina contro *Malassezia*.
 
@@ -160,13 +160,14 @@ Per la dermatite seborroica esistono uno studio di fase 3 e uno di fase 4 comple
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
 
 <!-- review:end log -->
 

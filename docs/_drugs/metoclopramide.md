@@ -58,7 +58,7 @@ Il modello TxGNN ne prevede un possibile impiego nell'**ulcera gastrica**, ma i 
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato. Dalla letteratura raccolta, la metoclopramide è un antagonista del recettore D2 e agonista 5-HT4 che accelera lo svuotamento gastrico e stimola la motilità del tratto gastrointestinale superiore.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Metoclopramide (traduzione non ufficiale): «La metoclopramide stimola la motilità del tratto gastrointestinale superiore senza stimolare le secrezioni gastriche, biliari o pancreatiche. L'esatto meccanismo d'azione della metoclopramide nel trattamento del reflusso gastroesofageo e della gastroparesi diabetica acuta e ricorrente non è stato completamente stabilito.» Testo originale in inglese: "Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established." ([DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397), versione del 2026-02-09; consultato il 2026-11-19). Dalla letteratura raccolta, la metoclopramide è un antagonista del recettore D2 e agonista 5-HT4 che accelera lo svuotamento gastrico e stimola la motilità del tratto gastrointestinale superiore.
 
 Il legame con l'ulcera gastrica è però **sintomatico e indiretto**: il farmaco può alleviare nausea, ritardato svuotamento e reflusso associati alla malattia ulcerosa, ma non favorisce la guarigione della mucosa né riduce la secrezione acida. Uno studio sperimentale sul ratto (PMID 2730234) ha mostrato un effetto protettivo in modelli di ulcera indotta, ma non è un dato clinico.
 
@@ -140,12 +140,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni note sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ La ciprofloxacina è un antibiotico fluorochinolonico. Il modello TxGNN ne preve
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione della ciprofloxacina non sono al momento disponibili. In base alle informazioni note, il farmaco appartiene alla classe dei fluorochinoloni e la sua attività antibatterica è consolidata; un'applicazione nella sclerodermia sarebbe pertanto di natura diversa da quella antibatterica.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ciprofloxacin (traduzione non ufficiale): «Ciprofloxacina appartiene alla classe dei fluorochinoloni tra gli agenti antibatterici. […] L'azione battericida di ciprofloxacina deriva dall'inibizione degli enzimi topoisomerasi II (DNA girasi) e topoisomerasi IV (entrambe topoisomerasi di tipo II), necessari per la replicazione, la trascrizione, la riparazione e la ricombinazione del DNA batterico.» Testo originale in inglese: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07), versione del 2025-11-04; consultato il 2026-11-19). In base alle informazioni note, il farmaco appartiene alla classe dei fluorochinoloni e la sua attività antibatterica è consolidata; un'applicazione nella sclerodermia sarebbe pertanto di natura diversa da quella antibatterica.
 
 Una pubblicazione (PMID 20507401) indaga l'utilità della ciprofloxacina come agente antifibrotico nella cute di pazienti con sclerodermia, ipotizzando una modulazione del metabolismo del collagene o dell'attività dei fibroblasti. Dall'abstract disponibile non emergono tuttavia risultati sull'efficacia, e il titolo dello studio indica solo un'indagine esplorativa. Un secondo possibile collegamento riguarda il trattamento della proliferazione batterica dell'intestino tenue, frequente nella sclerosi sistemica (PMID 7728404): si tratterebbe di un beneficio gastrointestinale sintomatico e non di una modifica della malattia.
 
@@ -102,6 +102,18 @@ Nessuno studio fornisce dati diretti di efficacia della ciprofloxacina sulla scl
 - Definire il meccanismo d'azione e il razionale antifibrotico con dati preclinici
 - Acquisire dal foglio illustrativo AIFA avvertenze e controindicazioni, anche alla luce delle condizioni a rischio (tendinopatie, neuropatia periferica, QT lungo)
 - Valutare il bilancio rischio-beneficio di un uso prolungato di un antibiotico (resistenze, effetti avversi muscolo-scheletrici e neurologici) in una malattia cronica
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

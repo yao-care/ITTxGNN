@@ -54,7 +54,7 @@ L'enoxaparina è un'eparina a basso peso molecolare, associata nella base di con
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alla farmacologia generale, l'enoxaparina è un'eparina a basso peso molecolare che potenzia l'antitrombina e inibisce il fattore Xa (e, in misura minore, la trombina).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Enoxaparin (traduzione non ufficiale): «Enoxaparina è un'eparina a basso peso molecolare dotata di proprietà antitrombotiche.» Testo originale in inglese: "Enoxaparin is a low molecular weight heparin which has antithrombotic properties." ([DailyMed: Lovenox (enoxaparin sodium) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59), versione del 2026-05-28; consultato il 2026-11-19). In base alla farmacologia generale, l'enoxaparina è un'eparina a basso peso molecolare che potenzia l'antitrombina e inibisce il fattore Xa (e, in misura minore, la trombina).
 
 Il deficit severo di proteina C a trasmissione autosomica recessiva comporta la perdita della via anticoagulante della proteina C (inattivazione dei fattori Va e VIIIa), con generazione incontrollata di trombina. Si manifesta con porpora fulminante neonatale e trombosi venosa ricorrente. Poiché l'anticoagulazione mediata dall'antitrombina agisce indipendentemente dalla proteina C, l'enoxaparina potrebbe in linea di principio compensare la via mancante.
 
@@ -138,13 +138,14 @@ La predizione ha un punteggio molto alto (0,9958) e un razionale biologico plaus
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lovenox (enoxaparin sodium) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59) |
 
 <!-- review:end log -->
 

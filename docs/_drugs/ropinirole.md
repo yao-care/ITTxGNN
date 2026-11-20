@@ -56,7 +56,7 @@ A supporto di questa direzione sono disponibili **0 studi clinici registrati** e
 
 ## Perché questa previsione è ragionevole?
 
-Per il ropinirolo non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle conoscenze note, il ropinirolo è un agonista dopaminergico D2/D3, la cui efficacia nella RLS e nel Parkinson è consolidata, e sul piano meccanicistico potrebbe essere applicabile all'ADHD.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ropinirole (traduzione non ufficiale): «Il ropinirolo è un agonista dopaminergico non ergolinico. Il preciso meccanismo d'azione del ropinirolo come trattamento della malattia di Parkinson non è noto, sebbene si ritenga che sia correlato alla sua capacità di stimolare i recettori dopaminergici D 2 all'interno del caudato-putamen nel cervello.» Testo originale in inglese: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versione del 2026-11-06; consultato il 2026-11-19). In base alle conoscenze note, il ropinirolo è un agonista dopaminergico D2/D3, la cui efficacia nella RLS e nel Parkinson è consolidata, e sul piano meccanicistico potrebbe essere applicabile all'ADHD.
 
 L'ADHD comporta una disregolazione dopaminergica e si associa frequentemente alla RLS, che è un'indicazione già approvata per il ropinirolo. Si ipotizza una via comune dopaminergica e del metabolismo del ferro. Le revisioni della letteratura discutono questa associazione e il potenziale interesse di trattamenti farmacologici comuni.
 
@@ -135,13 +135,14 @@ L'evidenza per l'ADHD è limitata a revisioni, un caso clinico e un RCT recente 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni registrate risultano cancellate; non ne è valida nessuna» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In Italia inoltre tutte le autorizzazioni sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Per il linfoma polmonare primario esistono **0 studi clinici** e **20 pubblicazi
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. Il metotrexato inibisce però la diidrofolato reduttasi (DHFR) e interagisce con il trasportatore dei folati ridotti SLC19A1. Questo blocca la sintesi di nucleotidi e colpisce le cellule in rapida proliferazione.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Methotrexate (traduzione non ufficiale): «Metotrexato inibisce la diidrofolato reduttasi. I diidrofolati devono essere ridotti a tetraidrofolati da questo enzima prima di poter essere utilizzati come trasportatori di gruppi monocarboniosi nella sintesi dei nucleotidi purinici e del timidilato.» Testo originale in inglese: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), versione del 2026-11-05; consultato il 2026-11-19). Il metotrexato inibisce però la diidrofolato reduttasi (DHFR) e interagisce con il trasportatore dei folati ridotti SLC19A1. Questo blocca la sintesi di nucleotidi e colpisce le cellule in rapida proliferazione.
 
 Il farmaco è già usato nei linfomi non Hodgkin e, ad alte dosi, nei regimi per il linfoma primitivo del sistema nervoso centrale. Un meccanismo antifolato è quindi plausibile anche per un linfoma polmonare primario, che è un linfoma extranodale.
 
@@ -148,12 +148,13 @@ Per avvertenze e controindicazioni ufficiali, consultare il foglio illustrativo 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Non c'è alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le licenze sono revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
 
 <!-- review:end log -->
 

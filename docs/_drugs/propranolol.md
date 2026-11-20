@@ -55,7 +55,7 @@ Il modello TxGNN predice una possibile efficacia nella **miopatia distale di tip
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, il propranololo è un beta-bloccante non selettivo, la cui efficacia è consolidata in ambito cardiovascolare, ma non esiste un razionale farmacologico chiaro per la sua applicabilità a questa malattia.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Propranolol (traduzione non ufficiale): «Il meccanismo dell'effetto antipertensivo di propranololo non è stato stabilito. Tra i fattori che contribuiscono all'azione antipertensiva vi sono: riduzione della gittata cardiaca, inibizione del rilascio di renina da parte dei reni e diminuzione del tono simpatico efferente dai centri vasomotori cerebrali.» Testo originale in inglese: "The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain." ([DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade), versione del 2026-08-27; consultato il 2026-11-19). In base alle informazioni note, il propranololo è un beta-bloccante non selettivo, la cui efficacia è consolidata in ambito cardiovascolare, ma non esiste un razionale farmacologico chiaro per la sua applicabilità a questa malattia.
 
 L'analisi dei dati compilati indica che **non è stato stabilito alcun legame meccanicistico**. La miopatia distale di tipo Tateyama è una rara malattia del muscolo scheletrico, senza un coinvolgimento noto delle vie beta-adrenergiche su cui agirebbe il propranololo. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, come altre miopatie e cardiomiopatie, non evidenze biologiche.
 
@@ -99,6 +99,19 @@ Per la miopatia distale di tipo Tateyama non esistono studi né pubblicazioni e 
 - **Cardiomiopatia** (punteggio 0,9912, livello L3): razionale solido per la sottoclasse ipertrofica, con studi emodinamici datati (1980–1983); per altre sottoclassi serve una valutazione specifica. Stato: domanda di ricerca.
 - **Cardiomiopatia cirrotica** (punteggio 0,9912, livello L4): evidenze contrastanti, con un possibile beneficio sull'intervallo QT (2024) ma segnali di rischio emodinamico e renale nella malattia avanzata (2020, 2022). Stato: domanda di ricerca.
 - **Cardiomiopatia ipertrofica da allenamento atletico, condroma e miopatia congenita con eccesso di filamenti sottili**: livello L5, nessuna evidenza, da sospendere.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

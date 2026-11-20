@@ -55,7 +55,7 @@ Il modello TxGNN ne prevede un possibile impiego nella **cheratocongiuntivite ep
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la doxiciclina è una tetraciclina attiva contro *Chlamydia trachomatis* e dotata di effetti antinfiammatori e di inibizione delle metalloproteinasi di matrice (MMP) sulla superficie oculare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Doxycycline (traduzione non ufficiale): «Doxiciclina inibisce la sintesi proteica batterica legandosi alla subunità ribosomiale 30S. Doxiciclina ha attività batteriostatica nei confronti di un'ampia gamma di batteri Gram-positivi e Gram-negativi.» Testo originale in inglese: "Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria." ([DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8), versione del 2026-07-09; consultato il 2026-11-19). In base alle informazioni note, la doxiciclina è una tetraciclina attiva contro *Chlamydia trachomatis* e dotata di effetti antinfiammatori e di inibizione delle metalloproteinasi di matrice (MMP) sulla superficie oculare.
 
 Il legame con la nuova indicazione è indiretto e si fonda su un'eziologia infettiva: la cheratite epiteliale puntata può comparire dopo una congiuntivite follicolare da clamidia. L'unico lavoro recuperato (1992) descrive due casi di cheratite epiteliale puntata persistente dopo la risoluzione della congiuntivite da clamidia, trattata con tetraciclina orale o doxiciclina. Le lesioni sono comparse dopo la guarigione dei follicoli, quindi il lavoro non dimostra un beneficio della doxiciclina sulla cheratite.
 
@@ -102,6 +102,19 @@ La previsione ha un punteggio TxGNN elevato, ma non esistono studi clinici e l'u
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Valutazione della via di somministrazione (sistemica o oculare) adatta all'indicazione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

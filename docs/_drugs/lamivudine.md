@@ -56,7 +56,7 @@ Le evidenze disponibili sono **0 studi clinici registrati** e **3 pubblicazioni*
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, la lamivudina è un inibitore nucleosidico della trascrittasi inversa (NRTI), la cui efficacia nell'HIV e nell'epatite B B è nota, e dal punto di vista meccanicistico potrebbe essere applicabile ad altri lentivirus.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lamivudine (traduzione non ufficiale): «Lamivudina è un agente antiretrovirale. […] Lamivudina è un analogo nucleosidico sintetico. A livello intracellulare, lamivudina viene fosforilata nel suo metabolita attivo 5′-trifosfato, lamivudina trifosfato (3TC-TP). La principale modalità d'azione di 3TC-TP è l'inibizione della trascrittasi inversa (RT) dell'HIV-1 mediante terminazione della catena del DNA dopo l'incorporazione dell'analogo nucleotidico.» Testo originale in inglese: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), versione del 2024-08-15; consultato il 2026-11-19). In base alle conoscenze generali, la lamivudina è un inibitore nucleosidico della trascrittasi inversa (NRTI), la cui efficacia nell'HIV e nell'epatite B B è nota, e dal punto di vista meccanicistico potrebbe essere applicabile ad altri lentivirus.
 
 Il virus dell'immunodeficienza felina (FIV) è un lentivirus che utilizza la trascrittasi inversa, come l'HIV, ed è usato come modello animale dell'infezione da HIV. Gli studi reperiti descrivono protocolli antiretrovirali (anche con combinazioni di zidovudina, lamivudina e abacavir) in gatti infetti naturalmente o sperimentalmente.
 
@@ -126,12 +126,13 @@ La previsione principale riguarda una malattia veterinaria, supportata solo da s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni della lamivudina risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le licenze sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->
 

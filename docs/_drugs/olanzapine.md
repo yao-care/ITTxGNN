@@ -60,7 +60,7 @@ Tra le tre indicazioni predette, l'**agorafobia** (6 pubblicazioni, nessuna sper
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Dai dati farmacologici compilati, l'olanzapina è un antagonista multirecettoriale: agisce sui recettori dopaminergici D2, su vari recettori serotoninergici (5-HT1A, 1B, 1D, 1E, 1F, 2A, 2C, 6, 7), sull'istaminico H1 e su recettori alfa-1 adrenergici.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Olanzapine (traduzione non ufficiale): «Il meccanismo d'azione dell'olanzapina, nelle indicazioni elencate, non è chiaro. Tuttavia, l'efficacia dell'olanzapina nella schizofrenia potrebbe essere mediata da una combinazione di antagonismo della dopamina e della serotonina di tipo 2 (5HT 2 ).» Testo originale in inglese: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), versione del 2026-10-26; consultato il 2026-11-19). Dai dati farmacologici compilati, l'olanzapina è un antagonista multirecettoriale: agisce sui recettori dopaminergici D2, su vari recettori serotoninergici (5-HT1A, 1B, 1D, 1E, 1F, 2A, 2C, 6, 7), sull'istaminico H1 e su recettori alfa-1 adrenergici.
 
 Per il torcicollo parossistico benigno dell'infanzia **non esiste una base meccanicistica consolidata**. La predizione sembra derivare dalla vicinanza nella rete di conoscenza a disturbi parossistici o del movimento e a condizioni dello spettro emicranico (il torcicollo parossistico è considerato un equivalente emicranico, associato a varianti di CACNA1A). A ciò si aggiunge che gli antipsicotici possono causare distonia acuta e torcicollo come effetto avverso, il che depone contro l'uso. Anche la sicurezza nei lattanti (sedazione, effetti metabolici) pesa contro il riposizionamento.
 
@@ -146,12 +146,13 @@ Nonostante il punteggio TxGNN molto alto (0,9954), per il torcicollo parossistic
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

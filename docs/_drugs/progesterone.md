@@ -54,7 +54,7 @@ Il progesterone è un ormone sessuale femminile della classe dei progestinici, c
 
 ## Perché questa predizione può essere ragionevole?
 
-I dati sul meccanismo d'azione dettagliato non sono al momento disponibili. In base alle informazioni note, il progesterone è un ormone progestinico, il cui ruolo fisiologico è bilanciare l'azione proliferativa degli estrogeni sui tessuti bersaglio. Meccanicisticamente potrebbe quindi essere applicabile alla malattia fibrocistica della mammella.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Progesterone (traduzione non ufficiale): «Il progesterone è uno steroide naturale secreto dall'ovaio, dalla placenta e dalla ghiandola surrenale. In presenza di estrogeni adeguati, il progesterone trasforma un endometrio proliferativo in un endometrio secretivo.» Testo originale in inglese: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), versione del 2026-10-05; consultato il 2026-11-19). In base alle informazioni note, il progesterone è un ormone progestinico, il cui ruolo fisiologico è bilanciare l'azione proliferativa degli estrogeni sui tessuti bersaglio. Meccanicisticamente potrebbe quindi essere applicabile alla malattia fibrocistica della mammella.
 
 La letteratura di tipo fisiopatologico descrive la malattia benigna della mammella come una condizione ormono-dipendente. Una revisione del 1986 (Vorherr) attribuisce la patologia a una prevalenza estrogenica con carenza relativa di progesterone. Uno studio più recente (2018) ha esaminato il rapporto estradiolo/progesterone nella fase luteale tardiva in donne con malattia fibrocistica, a sostegno di un possibile squilibrio ormonale.
 
@@ -112,6 +112,18 @@ Esistono un razionale ormonale e studi osservazionali sulla malattia fibrocistic
 - Dati sul meccanismo d'azione dettagliato.
 - Dati di sicurezza ricavati dal foglio illustrativo dell'AIFA, con particolare attenzione al profilo di rischio mammario.
 - Un piano per uno studio clinico esplorativo, con definizione di via di somministrazione e dosaggio.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

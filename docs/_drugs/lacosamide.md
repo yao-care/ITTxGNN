@@ -60,7 +60,7 @@ Lacosamide è un farmaco antiepilettico che agisce sui canali del sodio voltaggi
 
 ## Perché questa predizione è plausibile?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nel dossier compilato. In base alle conoscenze della letteratura inclusa, lacosamide potenzia l'inattivazione lenta dei canali del sodio voltaggio-dipendenti e modula la proteina CRMP2. Questo meccanismo è in parte condiviso con anticonvulsivanti già usati come stabilizzatori dell'umore (ad esempio lamotrigina e carbamazepina).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lacosamide (traduzione non ufficiale): «Il meccanismo preciso attraverso il quale Lacosamide soluzione orale esercita i suoi effetti antiepilettici nell'uomo resta da chiarire completamente. Studi elettrofisiologici in vitro hanno dimostrato che la lacosamide potenzia selettivamente l'inattivazione lenta dei canali del sodio voltaggio-dipendenti, determinando la stabilizzazione delle membrane neuronali ipereccitabili e l'inibizione della scarica neuronale ripetitiva.» Testo originale in inglese: "The precise mechanism by which Lacosamide oral solution exerts its antiepileptic effects in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing." ([DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738), versione del 2026-09-09; consultato il 2026-11-19). In base alle conoscenze della letteratura inclusa, lacosamide potenzia l'inattivazione lenta dei canali del sodio voltaggio-dipendenti e modula la proteina CRMP2. Questo meccanismo è in parte condiviso con anticonvulsivanti già usati come stabilizzatori dell'umore (ad esempio lamotrigina e carbamazepina).
 
 Per il disturbo bipolare maniacale, il legame con l'indicazione originale è la stabilizzazione di membrana neuronale. Tuttavia le prove cliniche sono scarse: uno studio retrospettivo a 30 giorni nel disturbo bipolare, un case report di neutropenia in un paziente bipolare con epilessia, e una coorte in epilessia con effetti su depressione e ansia. **Non esistono studi prospettici sulla mania.**
 
@@ -160,11 +160,12 @@ Per avvertenze e controindicazioni ufficiali fare riferimento al foglietto illus
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Valutare lo stato regolatorio: tutte le autorizzazioni italiane sono cancellate, quindi serve chiarire la disponibilità attuale del prodotto» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738) |
 
 <!-- review:end log -->
 

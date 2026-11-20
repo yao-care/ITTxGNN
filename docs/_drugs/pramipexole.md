@@ -54,7 +54,7 @@ Il pramipexolo è un agonista dopaminergico, originariamente usato per la malatt
 
 ## Perché questa predizione è plausibile?
 
-Per il pramipexolo non sono attualmente disponibili dati dettagliati sul meccanismo d'azione. Si sa però che è un agonista dopaminergico con preferenza per i recettori D2/D3, la cui efficacia nel Parkinson e nella RLS è consolidata. Dal punto di vista meccanicistico potrebbe quindi essere applicabile all'ADHD.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pramipexole (traduzione non ufficiale): «Pramipexolo è un agonista dopaminergico non ergolinico con elevata specificità relativa in vitro e piena attività intrinseca sulla sottofamiglia D 2 dei recettori della dopamina, che si lega con maggiore affinità al sottotipo recettoriale D 3 rispetto ai sottotipi D 2 o D 4 . Malattia di Parkinson Il meccanismo d'azione preciso di pramipexolo come trattamento della malattia di Parkinson non è noto, sebbene si ritenga sia correlato alla sua capacità di stimolare i recettori della dopamina nello striato.» Testo originale in inglese: "Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes. Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum." ([DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c), versione del 2026-09-09; consultato il 2026-11-19). Si sa però che è un agonista dopaminergico con preferenza per i recettori D2/D3, la cui efficacia nel Parkinson e nella RLS è consolidata. Dal punto di vista meccanicistico potrebbe quindi essere applicabile all'ADHD.
 
 Nell'ADHD si ipotizza una disregolazione del sistema dopaminergico. Esiste inoltre un possibile collegamento attraverso il recettore dopaminergico D4, che forma eteromeri con il recettore adrenergico α2A, già bersaglio di farmaci usati nell'ADHD come la guanfacina (PMID 34182128). Si tratta tuttavia di uno studio preclinico, non di una dimostrazione di efficacia clinica.
 
@@ -123,11 +123,12 @@ Per avvertenze e controindicazioni ufficiali è necessario consultare il foglio 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c) |
 
 <!-- review:end log -->
 

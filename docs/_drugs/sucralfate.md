@@ -56,7 +56,7 @@ una direzione supportata da **11 pubblicazioni** (tra cui 2 studi randomizzati c
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nella banca dati. Sulla base delle conoscenze note, il sucralfato forma una barriera viscosa e protettiva sulla mucosa gastrica ed esofagea lesionata e lega sali biliari e pepsina. Questo è coerente con un possibile effetto nel ridurre il danno mucosale causato dal materiale biliare e alcalino refluito dal duodeno.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Sucralfate (traduzione non ufficiale): «Sebbene il meccanismo alla base della capacità di sucralfato di accelerare la guarigione delle ulcere duodenali debba ancora essere completamente definito, è noto che esso esercita il suo effetto attraverso un'azione locale, anziché sistemica. Anche le seguenti osservazioni appaiono pertinenti: 1.» Testo originale in inglese: "Although the mechanism of sucralfate's ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action. The following observations also appear pertinent: 1." ([DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9), versione del 2026-01-06; consultato il 2026-11-19). Sulla base delle conoscenze note, il sucralfato forma una barriera viscosa e protettiva sulla mucosa gastrica ed esofagea lesionata e lega sali biliari e pepsina. Questo è coerente con un possibile effetto nel ridurre il danno mucosale causato dal materiale biliare e alcalino refluito dal duodeno.
 
 L'ulcera duodenale e il reflusso duodeno-gastrico condividono il meccanismo di danno della mucosa del tratto digestivo superiore: la protezione di barriera che favorisce la guarigione dell'ulcera può quindi essere utile anche nella gastrite e nell'esofagite da reflusso alcalino. L'alto punteggio TxGNN (0,9937) è in linea con questo legame biologico.
 
@@ -122,11 +122,12 @@ Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
 
 <!-- review:end log -->
 

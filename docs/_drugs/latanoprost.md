@@ -58,7 +58,7 @@ Latanoprost è un analogo della prostaglandina F2-alfa, originariamente utilizza
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, latanoprost è un analogo della prostaglandina F2-alfa che riduce la pressione intraoculare (PIO) aumentando il deflusso uveosclerale. La sua efficacia nel glaucoma ad angolo aperto è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Latanoprost (traduzione non ufficiale): «Il latanoprost è un analogo della prostaglandina F 2α che si ritiene riduca la pressione intraoculare (IOP) aumentando il deflusso dell'umor acqueo. Studi nell'animale e nell'uomo suggeriscono che il principale meccanismo d'azione sia l'aumento del deflusso uveosclerale.» Testo originale in inglese: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), versione del 2025-12-18; consultato il 2026-11-19). In base alle conoscenze generali, latanoprost è un analogo della prostaglandina F2-alfa che riduce la pressione intraoculare (PIO) aumentando il deflusso uveosclerale. La sua efficacia nel glaucoma ad angolo aperto è consolidata.
 
 Il glaucoma ereditario primario è caratterizzato anch'esso da PIO elevata, per cui un meccanismo ipotensivo oculare è biologicamente plausibile. Tuttavia, l'alto punteggio TxGNN riflette probabilmente la somiglianza con l'indicazione già approvata, più che un'evidenza nuova di riposizionamento. Va inoltre considerato che le forme pediatriche e congenite richiedono spesso un trattamento chirurgico, quindi il beneficio della terapia topica è incerto.
 
@@ -125,11 +125,12 @@ La predizione si basa solo sul modello (livello L5), senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre non esistono autorizzazioni valide in Italia e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
 
 <!-- review:end log -->
 

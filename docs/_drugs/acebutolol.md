@@ -54,7 +54,7 @@ Acebutolol è un beta-bloccante cardioselettivo (beta-1) con lieve attività sim
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione registrati per questo farmaco non sono disponibili. In base alla farmacologia generale della classe, acebutolol blocca i recettori beta-1 adrenergici, riducendo la frequenza cardiaca, la gittata e l'attività simpatica e reninica. Questi effetti abbassano la pressione arteriosa.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Acebutolol (traduzione non ufficiale): «Acebutololo è un agente bloccante dei β-adrenocettori cardioselettivo, che possiede una lieve attività simpaticomimetica intrinseca (ISA) nel suo intervallo di dosi terapeuticamente efficaci.» Testo originale in inglese: "Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range." ([DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9), versione del 2026-01-13; consultato il 2026-11-19). In base alla farmacologia generale della classe, acebutolol blocca i recettori beta-1 adrenergici, riducendo la frequenza cardiaca, la gittata e l'attività simpatica e reninica. Questi effetti abbassano la pressione arteriosa.
 
 La malattia renale ipertensiva maligna è una complicanza a valle di un'ipertensione severa e accelerata. Il controllo pressorio e la riduzione dell'attività del sistema simpatico e del sistema renina-angiotensina offrono quindi una logica farmacologica plausibile.
 
@@ -105,11 +105,12 @@ La predizione si basa solo sul modello (L5), senza studi clinici né pubblicazio
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Lo stato della singola autorizzazione risulta cancellato nei dati locali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Balsalazide è un profarmaco dell'acido 5-aminosalicilico (5-ASA, mesalazina) co
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione originale non sono al momento disponibili. Sulla base delle informazioni note, balsalazide rilascia 5-ASA nel colon, dove esercita un'azione antinfiammatoria locale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Balsalazide (traduzione non ufficiale): «Balsalazide disodico viene rilasciato intatto nel colon, dove viene scisso mediante azoriduzione batterica con rilascio di quantità equimolari di mesalazina, che è la porzione terapeuticamente attiva della molecola, e della frazione carrier 4-aminobenzoil-β-alanina. La frazione carrier rilasciata quando balsalazide disodico viene scisso è assorbita solo in misura minima ed è in gran parte inerte.» Testo originale in inglese: "Balsalazide disodium is delivered intact to the colon where it is cleaved by bacterial azoreduction to release equimolar quantities of mesalamine, which is the therapeutically active portion of the molecule, and the 4-aminobenzoyl-β-alanine carrier moiety. The carrier moiety released when balsalazide disodium is cleaved is only minimally absorbed and is largely inert." ([DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898), versione del 2026-11-03; consultato il 2026-11-19). Sulla base delle informazioni note, balsalazide rilascia 5-ASA nel colon, dove esercita un'azione antinfiammatoria locale.
 
 Un legame con l'infiammazione gottosa (ad esempio tramite la via NLRP3/IL-1β o l'infiammazione mediata dai neutrofili) è puramente speculativo. Il 5-ASA non è noto per influire sul metabolismo dell'urato. Il punteggio elevato (0,9975) riflette quindi una previsione del modello e non un'evidenza biologica o clinica verificata; il meccanismo non può essere confermato con i dati forniti.
 
@@ -107,6 +107,19 @@ La previsione per la gotta si basa unicamente sul modello, senza sperimentazioni
 - Studi preclinici o clinici che valutino direttamente balsalazide nella gotta
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Verifica della compatibilità della via di somministrazione e valutazione di sicurezza per la popolazione target
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -54,7 +54,7 @@ Il granisetron è un antagonista selettivo del recettore 5-HT3, autorizzato in I
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, il granisetron è un antagonista selettivo del recettore 5-HT3 della serotonina, noto per l'uso nella prevenzione della nausea e del vomito, e potrebbe in via ipotetica essere applicabile al disturbo bipolare maniacale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Granisetron (traduzione non ufficiale): «Granisetron è un antagonista selettivo dei recettori della 5-idrossitriptamina 3 (5-HT 3 ) con affinità scarsa o nulla per altri recettori della serotonina, inclusi 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; per gli adrenocettori alfa 1, alfa 2 o beta; per i recettori dopaminergici D 2; o per i recettori istaminici H 1, benzodiazepinici, della picrotossina o oppioidi. I recettori della serotonina di tipo 5-HT 3 sono localizzati perifericamente sulle terminazioni nervose vagali e centralmente nella zona chemorecettrice scatenante dell'area postrema.» Testo originale in inglese: "Granisetron is a selective 5-hydroxytryptamine 3 (5-HT 3 ) receptor antagonist with little or no affinity for other serotonin receptors, including 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; for alpha 1-, alpha 2-, or beta-adrenoreceptors; for dopamine-D 2; or for histamine-H 1; benzodiazepine; picrotoxin or opioid receptors. Serotonin receptors of the 5-HT 3 type are located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema." ([DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56), versione del 2026-04-30; consultato il 2026-11-19). In base alle conoscenze generali, il granisetron è un antagonista selettivo del recettore 5-HT3 della serotonina, noto per l'uso nella prevenzione della nausea e del vomito, e potrebbe in via ipotetica essere applicabile al disturbo bipolare maniacale.
 
 Il collegamento meccanicistico proposto è indiretto: la disregolazione serotoninergica e dopaminergica è coinvolta nella mania, quindi un'azione sul sistema 5-HT3 potrebbe modularne alcuni circuiti. Si tratta tuttavia di un'ipotesi non supportata da dati clinici; il punteggio elevato (0,9962) è una predizione del modello e non una prova di efficacia. La similarità con l'indicazione originale non è stata ancora valutata.
 
@@ -118,12 +118,13 @@ L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livell
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->
 

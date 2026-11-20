@@ -54,7 +54,7 @@ Turoctocog alfa è un fattore VIII della coagulazione ricombinante umano, utiliz
 
 ## Perché questa previsione è ragionevole?
 
-Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili. Sulla base delle informazioni note, turoctocog alfa è un fattore VIII ricombinante che sostituisce il fattore carente nell'emofilia A e partecipa al complesso tenasi della cascata coagulativa.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Turoctocog Alfa è (traduzione non ufficiale): «Proteina esogena del fattore VIII della coagulazione» Testo originale in inglese: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle informazioni note, turoctocog alfa è un fattore VIII ricombinante che sostituisce il fattore carente nell'emofilia A e partecipa al complesso tenasi della cascata coagulativa.
 
 Nel caso specifico, il collegamento meccanicistico è **debole**. I disturbi del rilascio piastrinico sono dovuti a difetti intrinseci della secrezione piastrinica e non a una carenza di fattore VIII, quindi la sostituzione del FVIII non corregge il difetto di base. L'elevato punteggio (0.9999) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
@@ -116,12 +116,13 @@ Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza st
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286) |
 
 <!-- review:end log -->
 

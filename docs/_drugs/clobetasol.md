@@ -54,7 +54,7 @@ Il clobetasolo è un corticosteroide topico ad altissima potenza, in Italia util
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione non sono disponibili nel profilo del farmaco. Il clobetasolo propionato è tuttavia un corticosteroide topico superpotente. L'attivazione del recettore dei glucocorticoidi nei linfociti T maligni che infiltrano la cute e nelle cellule infiammatorie circostanti induce apoptosi e riduce la segnalazione citochinica pro-infiammatoria (ad esempio le vie NF-kB e IL-2). Questo riduce il carico di linfociti neoplastici e l'infiammazione nelle lesioni a placca e a macchia della micosi fungoide in stadio precoce, la forma più comune di linfoma cutaneo primario a cellule T.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Clobetasol (traduzione non ufficiale): «Come altri corticosteroidi topici, clobetasolo propionato possiede proprietà antinfiammatorie, antipruriginose e vasocostrittrici. Il meccanismo dell'attività antinfiammatoria degli steroidi topici, in generale, non è chiaro.» Testo originale in inglese: "Like other topical corticosteroids, clobetasol propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties. The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear." ([DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069), versione del 2026-11-10; consultato il 2026-11-19). Il clobetasolo propionato è tuttavia un corticosteroide topico superpotente. L'attivazione del recettore dei glucocorticoidi nei linfociti T maligni che infiltrano la cute e nelle cellule infiammatorie circostanti induce apoptosi e riduce la segnalazione citochinica pro-infiammatoria (ad esempio le vie NF-kB e IL-2). Questo riduce il carico di linfociti neoplastici e l'infiammazione nelle lesioni a placca e a macchia della micosi fungoide in stadio precoce, la forma più comune di linfoma cutaneo primario a cellule T.
 
 L'effetto è limitato alla cute. Non è atteso un controllo sistemico della malattia negli stadi avanzati (tumorale, eritrodermico, sindrome di Sézary). Il punteggio elevato di TxGNN è coerente con la nota sensibilità ai corticosteroidi degli infiltrati linfoidi cutanei.
 
@@ -135,13 +135,14 @@ Esistono coorti osservazionali coerenti, tra cui una grande serie storica con ri
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le licenze elencate sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
 
 <!-- review:end log -->
 

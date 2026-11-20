@@ -54,7 +54,7 @@ La cianocobalamina è una forma di vitamina B12. Il modello TxGNN ne predice una
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Dai dati compilati per questo report non sono disponibili informazioni dettagliate sul meccanismo d'azione della cianocobalamina. Si sa che è una vitamina idrosolubile del gruppo B, come la biotina.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Cyanocobalamin (traduzione non ufficiale): «FARMACOLOGIA CLINICA La vitamina B12 è essenziale per la crescita, la riproduzione cellulare, l'ematopoiesi e la sintesi delle nucleoproteine e della mielina.» Testo originale in inglese: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), versione del 2025-12-08; consultato il 2026-11-19). Si sa che è una vitamina idrosolubile del gruppo B, come la biotina.
 
 Esiste una possibile vicinanza biologica: entrambe le vitamine fungono da cofattori in reazioni di carbossilazione e di mutasi. La vitamina B12 serve alla metilmalonil-CoA mutasi, mentre la propionil-CoA carbossilasi, enzima biotina-dipendente, opera nella stessa via di catabolismo del propionato. Si tratta tuttavia soltanto di un'inferenza di prossimità tra vie metaboliche.
 
@@ -100,6 +100,19 @@ La predizione si basa solo su un punteggio elevato del modello, senza studi clin
 - Studi o evidenze che affrontino direttamente la malattia del metabolismo della biotina
 - Avvertenze e controindicazioni dal foglietto illustrativo AIFA
 - Verifica dello stato delle autorizzazioni e delle indicazioni approvate nei dati locali
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

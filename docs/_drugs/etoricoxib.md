@@ -54,7 +54,7 @@ Etoricoxib è un inibitore selettivo della COX-2, utilizzato in ambito infiammat
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati. Sulla base delle conoscenze farmacologiche, etoricoxib inibisce selettivamente la COX-2 (gene *PTGS2*), riducendo la sintesi di prostaglandina E2 (PGE2).
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Etoricoxib è (traduzione non ufficiale): «Inibitore della ciclossigenasi-2» Testo originale in inglese: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; consultato il 2026-11-19). Sulla base delle conoscenze farmacologiche, etoricoxib inibisce selettivamente la COX-2 (gene *PTGS2*), riducendo la sintesi di prostaglandina E2 (PGE2).
 
 La PGE2 contribuisce alla sensibilizzazione trigemino-vascolare e all'infiammazione neurogenica nell'emicrania, quindi il meccanismo è plausibile. Il legame tra l'indicazione originale (dolore infiammatorio) e quella nuova poggia sulla via comune delle prostaglandine nel dolore.
 
@@ -145,13 +145,14 @@ La predizione per l'emicrania è sostenuta solo dal punteggio del modello e da u
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
 
 <!-- review:end log -->
 

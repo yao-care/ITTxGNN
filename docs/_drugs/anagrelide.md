@@ -54,7 +54,7 @@ L'anagrelide è un farmaco che riduce la conta piastrinica, utilizzato nelle tro
 
 ## Perché questa previsione può essere ragionevole?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili. L'anagrelide è noto per ridurre la conta piastrinica inibendo la maturazione dei megacariociti, e questo effetto è alla base dell'uso nella trombocitemia essenziale, una trombocitosi primaria (clonale). Dal punto di vista biologico, un effetto di abbassamento delle piastrine è quindi plausibile anche in altre forme di trombocitosi.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Anagrelide (traduzione non ufficiale): «Il meccanismo preciso con cui anagrelide riduce la conta piastrinica nel sangue non è noto. In studi su colture cellulari, anagrelide ha soppresso l'espressione di fattori di trascrizione, tra cui GATA-1 e FOG-1, necessari per la megacariocitopoiesi, determinando in ultima analisi una ridotta produzione di piastrine.» Testo originale in inglese: "The precise mechanism by which anagrelide reduces blood platelet count is unknown. In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production." ([DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219), versione del 2026-04-08; consultato il 2026-11-19). L'anagrelide è noto per ridurre la conta piastrinica inibendo la maturazione dei megacariociti, e questo effetto è alla base dell'uso nella trombocitemia essenziale, una trombocitosi primaria (clonale). Dal punto di vista biologico, un effetto di abbassamento delle piastrine è quindi plausibile anche in altre forme di trombocitosi.
 
 La trombocitosi reattiva è tuttavia una condizione secondaria, causata da infiammazione, carenza di ferro, infezioni, tumori o splenectomia, in genere attraverso citochine come IL-6 e trombopoietina. L'approccio standard consiste nel trattare la causa sottostante, e la forma reattiva raramente comporta un rischio trombotico tale da giustificare una terapia citoriduttiva. Il punteggio elevato del modello è probabilmente gonfiato dalla stretta vicinanza tra questa condizione e le indicazioni già note del farmaco.
 
@@ -119,6 +119,19 @@ Non esistono studi che valutino direttamente l'anagrelide nella trombocitosi rea
 - Dati sul meccanismo d'azione del farmaco
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA per la valutazione della sicurezza
 - Chiarimento dei dati sullo stato delle autorizzazioni locali
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Agrylin (anagrelide hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb960074-99c1-4a73-941f-f0644a7ec219) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

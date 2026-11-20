@@ -60,7 +60,7 @@ ma al momento sono disponibili **0 studi clinici** e solo **2 pubblicazioni** (u
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze note, il losartan blocca il recettore AT1 dell'angiotensina II, che è centrale nell'ipertensione mediata dal sistema renina-angiotensina, e la sua efficacia nell'ipertensione è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Losartan (traduzione non ufficiale): «L'angiotensina II [formata dall'angiotensina I in una reazione catalizzata dall'enzima di conversione dell'angiotensina (ACE, chininasi II)] è un potente vasocostrittore, il principale ormone vasoattivo del sistema renina-angiotensina e un componente importante nella fisiopatologia dell'ipertensione. Stimola inoltre la secrezione di aldosterone da parte della corteccia surrenale. […] Losartan e il suo principale metabolita attivo bloccano gli effetti vasocostrittori e di secrezione dell'aldosterone dell'angiotensina II bloccando selettivamente il legame dell'angiotensina II al recettore AT 1 presente in molti tessuti (ad es. muscolatura liscia vascolare, ghiandola surrenale).» Testo originale in inglese: "Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)] is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. It also stimulates aldosterone secretion by the adrenal cortex. […] Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41), versione del 2026-09-15; consultato il 2026-11-19). In base alle conoscenze note, il losartan blocca il recettore AT1 dell'angiotensina II, che è centrale nell'ipertensione mediata dal sistema renina-angiotensina, e la sua efficacia nell'ipertensione è consolidata.
 
 L'ipertensione renovascolare maligna è una forma grave di ipertensione in cui l'attivazione del sistema renina-angiotensina ha un ruolo di primo piano. Il blocco di AT1 è quindi meccanisticamente coerente con l'uso antipertensivo già noto del farmaco.
 
@@ -141,13 +141,14 @@ La predizione è meccanisticamente plausibile, ma le evidenze si limitano a un c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «tutte risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 
 <!-- review:end log -->
 

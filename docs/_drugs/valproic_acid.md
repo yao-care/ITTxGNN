@@ -58,7 +58,7 @@ L'acido valproico è un farmaco antiepilettico e stabilizzatore dell'umore, usat
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel materiale compilato. In generale, l'acido valproico è noto per il blocco dei canali del sodio, il potenziamento della trasmissione GABAergica e l'inibizione dei canali del calcio di tipo T, oltre a una generica attività di inibizione delle istone deacetilasi (HDAC).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Valproic Acid (traduzione non ufficiale): «L'acido valproico si dissocia nello ione valproato nel tratto gastrointestinale. I meccanismi attraverso i quali il valproato esercita i suoi effetti antiepilettici non sono stati stabiliti. È stato ipotizzato che la sua attività nell'epilessia sia correlata all'aumento delle concentrazioni cerebrali di acido gamma-amminobutirrico (GABA).» Testo originale in inglese: "Valproic acid dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its antiepileptic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA)." ([DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f), versione del 2025-05-23; consultato il 2026-11-19). In generale, l'acido valproico è noto per il blocco dei canali del sodio, il potenziamento della trasmissione GABAergica e l'inibizione dei canali del calcio di tipo T, oltre a una generica attività di inibizione delle istone deacetilasi (HDAC).
 
 Il legame con il neoplasma del nervo trigemino appare debole. L'unico lavoro collegato è una serie di casi del 1997 sulla sindrome di Sturge-Weber, che non è un tumore del trigemino; lì il valproato serve al controllo delle crisi, non ha un effetto antitumorale. Il razionale basato sull'inibizione delle HDAC è generico e non supportato da dati per questa indicazione. Il punteggio elevato proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non un'evidenza biologica specifica.
 
@@ -130,11 +130,12 @@ Per avvertenze e precauzioni d'uso fare riferimento al foglio illustrativo, non 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «l prodotto non ha autorizzazioni valide in Italia, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
 
 <!-- review:end log -->
 

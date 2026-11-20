@@ -58,7 +58,7 @@ L'ossibutinina è un farmaco antimuscarinico con attività antispastica, origina
 
 ## Perché questa predizione potrebbe essere ragionevole (o no)?
 
-Dai dati compilati per questo report, il meccanismo d'azione dettagliato non è disponibile. Sulla base delle informazioni note, l'ossibutinina è un antimuscarinico con attività muscolotropa antispastica, con efficacia nota nella vescica iperattiva. Il bersaglio farmacologico riguarda i recettori muscarinici M1–M5.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Oxybutynin (traduzione non ufficiale): «Ossibutinina rilassa la muscolatura liscia vescicale. Ossibutinina cloruro esercita un effetto antispastico diretto sulla muscolatura liscia e inibisce l'azione muscarinica dell'acetilcolina sulla muscolatura liscia. Non si verificano effetti di blocco a livello delle giunzioni neuromuscolari scheletriche o dei gangli autonomi (effetti antinicotinici).» Testo originale in inglese: "Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)." ([DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67), versione del 2026-11-11; consultato il 2026-11-19). Sulla base delle informazioni note, l'ossibutinina è un antimuscarinico con attività muscolotropa antispastica, con efficacia nota nella vescica iperattiva. Il bersaglio farmacologico riguarda i recettori muscarinici M1–M5.
 
 Il collegamento con la sindrome delle gambe senza riposo è debole. Questa patologia è legata soprattutto al sistema dopaminergico e al metabolismo del ferro, e dai dati forniti non emerge un percorso meccanicistico plausibile. Inoltre, gli anticolinergici possono in alcuni casi peggiorare i sintomi della sindrome. Il punteggio elevato del modello richiede quindi una verifica indipendente prima di qualsiasi ulteriore investimento.
 
@@ -129,11 +129,12 @@ Il supporto è esclusivamente un punteggio computazionale elevato, senza studi c
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e in Italia le due autorizzazioni esistenti sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->
 

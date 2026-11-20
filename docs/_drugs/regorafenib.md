@@ -59,7 +59,7 @@ Il modello TxGNN prevede che possa essere efficace per il **liposarcoma**, con *
 
 ## Perché questa predizione è plausibile?
 
-Regorafenib è un inibitore multichinasico che agisce su recettori angiogenici (VEGFR1-3, TIE2), stromali (PDGFR, FGFR) e oncogeni (KIT, RET, RAF). Questi dati provengono dalla letteratura compilata; i dati di meccanismo d'azione dalla fonte farmaceutica non erano disponibili.
+Regorafenib è un inibitore multichinasico che agisce su recettori angiogenici (VEGFR1-3, TIE2), stromali (PDGFR, FGFR) e oncogeni (KIT, RET, RAF). Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Regorafenib (traduzione non ufficiale): «Il regorafenib è un inibitore a piccola molecola di molteplici chinasi di membrana e intracellulari coinvolte nelle normali funzioni cellulari e in processi patologici quali oncogenesi, angiogenesi tumorale, metastasi e immunità tumorale. In saggi biochimici o cellulari in vitro, il regorafenib o i suoi principali metaboliti attivi nell'uomo M-2 e M-5 hanno inibito l'attività di RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alfa, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAF V600E, SAPK2, PTK5, Abl e CSF1R a concentrazioni di regorafenib raggiunte in ambito clinico.» Testo originale in inglese: "Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, metastasis and tumor immunity. In in vitro biochemical or cellular assays, regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alpha, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAF V600E, SAPK2, PTK5, Abl and CSF1R at concentrations of regorafenib that have been achieved clinically." ([DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7), versione del 2026-02-09; consultato il 2026-11-19).
 
 L'inibizione dell'angiogenesi e della proliferazione tumorale è plausibilmente rilevante per i sarcomi dei tessuti molli, compreso il liposarcoma. Il GIST, già tra le indicazioni originali, è anch'esso un tumore mesenchimale, il che rafforza il razionale. Il punteggio TxGNN molto alto (0,9976) è coerente con questa sovrapposizione.
 
@@ -151,12 +151,13 @@ Esiste uno studio di fase 2 completato (n=131) con braccio dedicato al liposarco
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazione cancellata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7) |
 
 <!-- review:end log -->
 

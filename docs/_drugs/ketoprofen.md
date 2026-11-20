@@ -55,7 +55,7 @@ Il modello TxGNN prevede una possibile efficacia per la **displasia acromesomeli
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. Il ketoprofene è un FANS non selettivo, inibitore delle ciclossigenasi (COX), con effetti analgesici e antinfiammatori sintomatici; la sua efficacia in artrite reumatoide e osteoartrosi è nota.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ketoprofen (traduzione non ufficiale): «In modelli antinfiammatori è stato dimostrato che ketoprofene ha effetti inibitori sulla sintesi di prostaglandine e leucotrieni, attività antibradichininica e un'azione stabilizzante sulle membrane lisosomiali. Tuttavia, il suo meccanismo d'azione, come quello di altri farmaci antinfiammatori non steroidei, non è del tutto noto.» Testo originale in inglese: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), versione del 2026-01-07; consultato il 2026-11-19). Il ketoprofene è un FANS non selettivo, inibitore delle ciclossigenasi (COX), con effetti analgesici e antinfiammatori sintomatici; la sua efficacia in artrite reumatoide e osteoartrosi è nota.
 
 Per la displasia acromesomelica di tipo Hunter-Thompson **non emerge un legame meccanicistico chiaro**. La malattia è una rara displasia scheletrica dovuta a mutazioni con perdita di funzione di CDMP1/GDF5, che alterano la via di segnalazione BMP e la condrogenesi. L'inibizione delle COX non agisce sulla base genetica o dello sviluppo della malattia.
 
@@ -117,11 +117,12 @@ La previsione è basata solo sul modello (L5), senza studi clinici né letteratu
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
 
 <!-- review:end log -->
 

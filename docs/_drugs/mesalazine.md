@@ -54,7 +54,7 @@ La mesalazina (acido 5-aminosalicilico, 5-ASA) è un antinfiammatorio intestinal
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle informazioni note, la mesalazina ha attività antinfiammatoria (inibizione di COX e lipossigenasi, agonismo su PPAR-gamma, modulazione di NF-kB), con efficacia dimostrata nella colite ulcerosa.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Mesalazine (traduzione non ufficiale): «Il meccanismo d'azione della mesalazina non è completamente noto, ma sembra che essa eserciti un effetto antinfiammatorio topico sulle cellule epiteliali del colon. La produzione mucosale di metaboliti dell'acido arachidonico, sia attraverso la via della cicloossigenasi sia attraverso quella della lipossigenasi, è aumentata nei pazienti con colite ulcerosa, ed è possibile che la mesalazina riduca l'infiammazione bloccando la cicloossigenasi e inibendo la produzione di prostaglandine nel colon.» Testo originale in inglese: "The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon." ([DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7), versione del 2026-10-26; consultato il 2026-11-19). In base alle informazioni note, la mesalazina ha attività antinfiammatoria (inibizione di COX e lipossigenasi, agonismo su PPAR-gamma, modulazione di NF-kB), con efficacia dimostrata nella colite ulcerosa.
 
 Per la condizione prevista **non è stato identificato alcun legame meccanicistico plausibile**. Si tratta di una rara malattia genetica legata a mutazioni di CDH3, senza un bersaglio antinfiammatorio su cui la mesalazina possa agire. L'elevato punteggio (0,9965) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese tra malattie correlate, non evidenze biologiche; va interpretato con grande cautela.
 
@@ -131,13 +131,14 @@ La previsione è supportata solo dal punteggio del modello (livello L5), senza s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide per la mesalazina» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Il bisoprololo è un betabloccante selettivo per i recettori beta-1, utilizzato 
 
 ## Perché questa previsione può essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il bisoprololo è un betabloccante beta-1 selettivo; il suo effetto di riduzione della pressione arteriosa è consolidato, e meccanicamente potrebbe essere applicabile a una complicanza d'organo dell'ipertensione.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Bisoprolol (traduzione non ufficiale): «BISOPROLOLO FUMARATO è un agente bloccante degli adrenocettori beta 1 -selettivo (cardioselettivo) privo di significativa attività stabilizzante di membrana o di attività simpaticomimetica intrinseca nel suo intervallo di dosaggio terapeutico. La cardioselettività non è tuttavia assoluta e, a dosi più elevate (≥ 20 mg), bisoprololo fumarato inibisce anche i beta 2 -adrenocettori, localizzati principalmente nella muscolatura bronchiale e vascolare; per mantenere la selettività è pertanto importante utilizzare la dose minima efficace.» Testo originale in inglese: "BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose." ([DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e), versione del 2026-11-11; consultato il 2026-11-19). In base alle informazioni note, il bisoprololo è un betabloccante beta-1 selettivo; il suo effetto di riduzione della pressione arteriosa è consolidato, e meccanicamente potrebbe essere applicabile a una complicanza d'organo dell'ipertensione.
 
 La malattia renale ipertensiva maligna è una grave complicanza a carico del rene dovuta a ipertensione severa. Un legame plausibile passa attraverso la riduzione della pressione arteriosa e la minore attivazione simpatica e del sistema renina-angiotensina.
 
@@ -112,6 +112,19 @@ Non esistono studi clinici né pubblicazioni sulla malattia renale ipertensiva m
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Studi preclinici o clinici sulla malattia renale ipertensiva maligna
 - Una valutazione di sicurezza specifica per questa condizione
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere utile per l'**alopecia areata (alopeci
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Si sa però che il prednisone è un glucocorticoide sistemico che sopprime l'attivazione dei linfociti T e la produzione di citochine infiammatorie.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Prednisone (traduzione non ufficiale): «I corticosteroidi naturali (idrocortisone e cortisone), che possiedono anche proprietà di ritenzione salina, sono utilizzati come terapia sostitutiva negli stati di insufficienza corticosurrenalica. I loro analoghi sintetici, come prednisone, sono utilizzati principalmente per i loro potenti effetti antinfiammatori in disturbi di numerosi sistemi d'organo.» Testo originale in inglese: "Naturally occurring corticosteroids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, such as prednisone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a), versione del 2026-09-23; consultato il 2026-11-19). Si sa però che il prednisone è un glucocorticoide sistemico che sopprime l'attivazione dei linfociti T e la produzione di citochine infiammatorie.
 
 L'alopecia areata è una malattia autoimmune mediata dai linfociti T, in cui il privilegio immunitario del follicolo pilifero viene meno. Un farmaco che riduce l'attività dei linfociti T e l'infiammazione è quindi coerente con la patogenesi. La letteratura descrive l'uso del prednisone orale (quotidiano e in pulsi mensili) e a basso dosaggio in associazione con metotrexato o baricitinib. Le principali limitazioni sono la recidiva dopo la sospensione e gli effetti avversi della terapia steroidea sistemica prolungata.
 
@@ -109,6 +109,18 @@ Esiste un razionale meccanicistico coerente e letteratura diretta sull'alopecia 
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Piano di monitoraggio della sicurezza per terapie steroidee sistemiche, con definizione di dose e durata minime efficaci
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

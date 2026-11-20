@@ -60,7 +60,7 @@ Il punteggio elevato è quindi una predizione del modello, non una conferma clin
 
 ## Perché questa predizione è plausibile?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, la cefazolina è un beta-lattamico che inibisce la sintesi della parete cellulare batterica. È attiva soprattutto contro i batteri Gram-positivi come *Staphylococcus aureus* sensibile alla meticillina (MSSA) e gli streptococchi, che possono causare otite media. Esiste quindi un legame antibatterico plausibile con l'indicazione prevista.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Cefazolin (traduzione non ufficiale): «Cefazolina è un farmaco antibatterico. […] Cefazolina è un agente battericida che agisce mediante inibizione della sintesi della parete cellulare batterica.» Testo originale in inglese: "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis." ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), versione del 2026-08-31; consultato il 2026-11-19). In base alle conoscenze generali, la cefazolina è un beta-lattamico che inibisce la sintesi della parete cellulare batterica. È attiva soprattutto contro i batteri Gram-positivi come *Staphylococcus aureus* sensibile alla meticillina (MSSA) e gli streptococchi, che possono causare otite media. Esiste quindi un legame antibatterico plausibile con l'indicazione prevista.
 
 Vi sono però limiti importanti. La cefazolina ha un'attività limitata contro patogeni tipici dell'otite media come *H. influenzae* e *M. catarrhalis*. Inoltre il punteggio TxGNN molto alto (0,9944) è solo una predizione computazionale, non una prova di efficacia.
 
@@ -130,11 +130,12 @@ La predizione si basa solo sul modello, senza studi clinici registrati e con let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e autorizzazioni italiane sono tutte cancellate, e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
 
 <!-- review:end log -->
 

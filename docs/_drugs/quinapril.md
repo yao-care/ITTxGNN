@@ -58,7 +58,7 @@ Quinapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE), or
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze di classe, quinapril è un inibitore dell'ACE: bloccando il sistema renina-angiotensina riduce la produzione di angiotensina II, un potente vasocostrittore, e quindi la pressione arteriosa.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Quinapril (traduzione non ufficiale): «Quinapril viene de-esterificato nel metabolita principale, quinaprilat, che è un inibitore dell'attività dell'ACE nei soggetti umani e negli animali. L'ACE è una peptidil dipeptidasi che catalizza la conversione dell'angiotensina I nel vasocostrittore angiotensina II.» Testo originale in inglese: "Quinapril is deesterified to the principal metabolite, quinaprilat, which is an inhibitor of ACE activity in human subjects and animals. ACE is apeptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor, angiotensin II." ([DailyMed: quinapril prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f33dbbb1-1a4a-42b0-a5c5-3ac905823206), versione del 2021-01-01; consultato il 2026-11-19). In base alle conoscenze di classe, quinapril è un inibitore dell'ACE: bloccando il sistema renina-angiotensina riduce la produzione di angiotensina II, un potente vasocostrittore, e quindi la pressione arteriosa.
 
 Nella nefropatia ipertensiva maligna, il danno vascolare e l'ipertensione glomerulare dipendono in parte dall'angiotensina II. Per questo il blocco del sistema renina-angiotensina è meccanicisticamente coerente. Va però sottolineato che questa indicazione è molto vicina a quella originale (l'ipertensione): si tratta più di un'estensione dell'uso esistente che di un vero riposizionamento.
 
@@ -142,13 +142,14 @@ La previsione ha un punteggio elevato (0,9986), ma l'evidenza è solo di livello
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Tabella: la confezione 037301227 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: quinapril prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f33dbbb1-1a4a-42b0-a5c5-3ac905823206) |
 
 <!-- review:end log -->
 

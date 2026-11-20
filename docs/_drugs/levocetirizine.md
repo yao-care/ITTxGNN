@@ -59,7 +59,7 @@ Il modello TxGNN ne prevede una possibile efficacia nell'**artrite reumatoide**,
 
 ## Perché questa previsione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Sulla base delle conoscenze generali, la levocetirizina è un antagonista del recettore H1 dell'istamina, con efficacia nota nelle patologie allergiche.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Levocetirizine (traduzione non ufficiale): «Levocetirizina, l'enantiomero attivo della cetirizina, è un antistaminico; i suoi effetti principali sono mediati dall'inibizione selettiva dei recettori H 1. L'attività antistaminica di levocetirizina è stata documentata in diversi modelli animali e umani.» Testo originale in inglese: "Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1 receptors. The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models." ([DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222), versione del 2025-07-22; consultato il 2026-11-19). Sulla base delle conoscenze generali, la levocetirizina è un antagonista del recettore H1 dell'istamina, con efficacia nota nelle patologie allergiche.
 
 Un legame plausibile ma **non verificato** è che il blocco dei recettori H1 possa modulare l'infiammazione mediata dall'istamina a livello sinoviale. Sono inoltre riportati effetti antinfiammatori della levocetirizina, come l'inibizione della migrazione degli eosinofili e la riduzione dell'espressione delle molecole di adesione.
 
@@ -138,12 +138,13 @@ La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), se
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
 
 <!-- review:end log -->
 

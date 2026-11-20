@@ -58,7 +58,7 @@ Trandolapril è un inibitore dell'enzima di conversione dell'angiotensina (ACE),
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, trandolapril è un inibitore dell'ACE: riduce la formazione di angiotensina II e quindi la vasocostrizione e il carico pressorio. Questo meccanismo è coerente con l'ipertensione renovascolare, in cui l'attivazione del sistema renina-angiotensina ha un ruolo centrale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Trandolapril (traduzione non ufficiale): «Trandolapril viene de-esterificato nel metabolita diacido, trandolaprilat, che è circa otto volte più attivo come inibitore dell'attività dell'ACE. L'ACE è una peptidil-dipeptidasi che catalizza la conversione dell'angiotensina I nel vasocostrittore angiotensina II.» Testo originale in inglese: "Trandolapril is deesterified to the diacid metabolite, trandolaprilat, which is approximately eight times more active as an inhibitor of ACE activity. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor, angiotensin II." ([DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34), versione del 2025-10-31; consultato il 2026-11-19). In base alle conoscenze generali, trandolapril è un inibitore dell'ACE: riduce la formazione di angiotensina II e quindi la vasocostrizione e il carico pressorio. Questo meccanismo è coerente con l'ipertensione renovascolare, in cui l'attivazione del sistema renina-angiotensina ha un ruolo centrale.
 
 Va però sottolineato che questa indicazione è molto vicina a quella originale (ipertensione), perciò **non si tratta di un vero riposizionamento**. Inoltre, gli ACE-inibitori comportano un rischio noto in caso di stenosi bilaterale dell'arteria renale (peggioramento acuto della funzione renale).
 
@@ -143,12 +143,13 @@ L'evidenza è di livello L5 (solo predizione del modello) per l'indicazione prin
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «L'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'unica autorizzazione risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: trandolapril prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8143a6cf-dadc-4ef7-a8db-d16d7150ad34) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ L'atenololo è un beta-bloccante selettivo per i recettori beta-1, commercializz
 
 ## Perché questa predizione è plausibile?
 
-Non sono attualmente disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, l'atenololo è un beta-1 bloccante che abbassa la pressione arteriosa riducendo la gittata cardiaca e il rilascio di renina. Questo meccanismo è biologicamente coerente con una patologia renale causata da ipertensione grave.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Atenolol (traduzione non ufficiale): «TENORMIN è un agente bloccante dei recettori beta-adrenergici beta 1 -selettivo (cardioselettivo) privo di attività stabilizzante di membrana o simpaticomimetica intrinseca (agonista parziale). Questo effetto preferenziale non è tuttavia assoluto e, a dosi più elevate, TENORMIN inibisce i beta 2 -adrenocettori, localizzati principalmente nella muscolatura bronchiale e vascolare.» Testo originale in inglese: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), versione del 2025-09-18; consultato il 2026-11-19). In base alle conoscenze generali, l'atenololo è un beta-1 bloccante che abbassa la pressione arteriosa riducendo la gittata cardiaca e il rilascio di renina. Questo meccanismo è biologicamente coerente con una patologia renale causata da ipertensione grave.
 
 Il punteggio molto elevato del modello riflette probabilmente la stretta associazione tra l'atenololo e il trattamento dell'ipertensione. Tuttavia, nella nefropatia ipertensiva maligna il controllo pressorio urgente si ottiene di solito con altri farmaci, e non esistono prove di una protezione renale specifica dell'atenololo. Inoltre l'atenololo è eliminato per via renale: in caso di insufficienza renale servirebbero aggiustamenti di dose e attenzione al rischio di accumulo.
 
@@ -96,6 +96,19 @@ La predizione si basa solo sul modello computazionale (livello L5), senza studi 
 - Dati sul meccanismo d'azione
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Valutazione del dosaggio e del rischio di accumulo in caso di insufficienza renale
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

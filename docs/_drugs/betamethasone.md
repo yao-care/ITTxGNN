@@ -54,7 +54,7 @@ Il betametasone è un corticosteroide con azione antinfiammatoria e immunosoppre
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per questo farmaco. In termini generali, il betametasone appartiene alla classe dei glucocorticoidi, che riducono l'infiammazione e modulano la risposta immunitaria.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Betamethasone (traduzione non ufficiale): «I corticosteroidi svolgono un ruolo nella segnalazione cellulare, nella funzione immunitaria, nell'infiammazione e nella regolazione proteica; tuttavia, il meccanismo d'azione preciso di SERNIVO Spray nella psoriasi non è noto.» Testo originale in inglese: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), versione del 2026-04-22; consultato il 2026-11-19). In termini generali, il betametasone appartiene alla classe dei glucocorticoidi, che riducono l'infiammazione e modulano la risposta immunitaria.
 
 La mucinosi follicolare è caratterizzata da deposito di mucina e infiammazione perifollicolare. Un corticosteroide antinfiammatorio è quindi mecanicamente plausibile, ma il razionale resta ipotetico: l'unica fonte disponibile è una serie di casi storica, senza studi controllati.
 
@@ -98,6 +98,18 @@ L'unica evidenza umana è una serie di tre casi del 1964 con revisione delle ter
 - Studi clinici o serie di casi più ampie e recenti sulla mucinosi follicolare
 - Valutazione della via di somministrazione più adatta (ad esempio topica) e delle avvertenze del foglio illustrativo
 - Piano di monitoraggio della sicurezza, considerando le numerose interazioni farmacologiche
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

@@ -61,7 +61,7 @@ Niclosamide è un antielmintico. Il modello TxGNN ne predice un possibile effett
 
 ## Perché questa predizione può essere ragionevole?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili. Niclosamide è un antielmintico noto, presente nell'elenco dei farmaci essenziali dell'OMS, ma il suo uso è stato interrotto negli Stati Uniti. In letteratura viene descritto come inibitore del fosforilazione ossidativa mitocondriale (disaccoppiante) e modulatore di vie di segnalazione multiple.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Niclosamide è (traduzione non ufficiale): «Inibitore del DNA» Testo originale in inglese: "DNA inhibitor" ([ChEMBL CHEMBL1448 (niclosamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1448), CC BY-SA 3.0; consultato il 2026-11-19). Niclosamide è un antielmintico noto, presente nell'elenco dei farmaci essenziali dell'OMS, ma il suo uso è stato interrotto negli Stati Uniti. In letteratura viene descritto come inibitore del fosforilazione ossidativa mitocondriale (disaccoppiante) e modulatore di vie di segnalazione multiple.
 
 Gli studi preclinici offrono un collegamento plausibile con l'ambito cardiovascolare:
 - Nel topo, niclosamide ha attenuato lo scompenso cardiaco da sovraccarico pressorio, migliorando la funzione mitocondriale dei cardiomiociti (PMID 34736968).
@@ -130,12 +130,13 @@ L'evidenza è solo preclinica (animale e in vitro), senza sperimentazioni clinic
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL1448 (niclosamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1448) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ con **2 studi clinici** (1 di fase 3 ancora in corso) e **2 pubblicazioni** attu
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati in modo formale. Sulla base delle conoscenze note, il ticagrelor è un inibitore reversibile del recettore piastrinico P2Y12: riduce l'aggregazione mediata dall'ADP e quindi gli eventi trombotici nelle malattie ischemiche aterosclerotiche.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Ticagrelor (traduzione non ufficiale): «Ticagrelor e il suo principale metabolita interagiscono in modo reversibile con il recettore piastrinico P2Y 12 per l'ADP, impedendo la trasduzione del segnale e l'attivazione piastrinica. Ticagrelor e il suo metabolita attivo sono approssimativamente equipotenti.» Testo originale in inglese: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), versione del 2026-05-07; consultato il 2026-11-19). Sulla base delle conoscenze note, il ticagrelor è un inibitore reversibile del recettore piastrinico P2Y12: riduce l'aggregazione mediata dall'ADP e quindi gli eventi trombotici nelle malattie ischemiche aterosclerotiche.
 
 La stenosi aterosclerotica intracranica sintomatica coinvolge trombosi guidata dalle piastrine ed embolia da arteria ad arteria, quindi l'inibizione di P2Y12 è meccanicisticamente plausibile. Inoltre il ticagrelor non è influenzato dalla perdita di funzione del CYP2C19, frequente nelle popolazioni dell'Asia orientale e limitante per l'efficacia del clopidogrel.
 
@@ -148,13 +148,14 @@ Il razionale meccanicistico è plausibile e lo studio CAPTIVA di fase 3 è diret
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Le autorizzazioni elencate sono tutte cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre in Italia tutte le autorizzazioni risultano cancellate e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
 
 <!-- review:end log -->
 

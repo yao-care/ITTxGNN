@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere efficace anche per l'**emicrania con a
 
 ## Perché questa predizione è plausibile?
 
-I dati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In base alla farmacologia nota della classe, eletriptan è un agonista 5-HT1B/1D (con affinità circa 6 volte superiore a sumatriptan per il recettore 5-HT1D e 3 volte superiore per il 5-HT1B, secondo una rassegna del 2002). La sua efficacia nell'emicrania in generale è documentata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Eletriptan (traduzione non ufficiale): «Eletriptan si lega con elevata affinità ai recettori 5-HT 1B, 5-HT 1D e 5-HT 1F e ha una modesta affinità per i recettori 5-HT 1A, 5-HT 1E, 5-HT 2B e 5-HT 7. L'emicrania è probabilmente dovuta a vasodilatazione cranica locale e/o al rilascio di neuropeptidi sensoriali (peptide intestinale vasoattivo, sostanza P e peptide correlato al gene della calcitonina) attraverso le terminazioni nervose del sistema trigeminale.» Testo originale in inglese: "Eletriptan binds with high affinity to 5-HT 1B, 5-HT 1D and 5-HT 1F receptors, has modest affinity for 5-HT 1A, 5-HT 1E, 5-HT 2B and 5-HT 7 receptors. Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (vasoactive intestinal peptide, substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system." ([DailyMed: Relpax (eletriptan hydrobromide) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e), versione del 2024-01-15; consultato il 2026-11-19). In base alla farmacologia nota della classe, eletriptan è un agonista 5-HT1B/1D (con affinità circa 6 volte superiore a sumatriptan per il recettore 5-HT1D e 3 volte superiore per il 5-HT1B, secondo una rassegna del 2002). La sua efficacia nell'emicrania in generale è documentata.
 
 L'emicrania con aura del tronco encefalico è un sottotipo di emicrania che condivide la fisiopatologia trigeminovascolare con l'indicazione approvata. Ciò è coerente con l'elevato punteggio TxGNN.
 
@@ -143,13 +143,14 @@ La predizione si basa su un'elevata somiglianza biologica con l'emicrania già t
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; non ve n'è alcuna attualmente valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Relpax (eletriptan hydrobromide) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e) |
 
 <!-- review:end log -->
 

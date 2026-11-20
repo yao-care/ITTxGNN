@@ -54,7 +54,7 @@ Pegfilgrastim è un analogo PEGilato del G-CSF, che stimola la produzione di neu
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. Sulla base delle conoscenze generali, pegfilgrastim appartiene alla classe dei fattori di crescita granulocitari (G-CSF) a lunga durata d'azione e stimola la produzione di neutrofili. Il legame meccanicistico con la retinopatia diabetica non è verificabile con i dati disponibili.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pegfilgrastim (traduzione non ufficiale): «I medicinali a base di pegfilgrastim sono fattori stimolanti le colonie che agiscono sulle cellule ematopoietiche legandosi a specifici recettori della superficie cellulare, stimolando in tal modo la proliferazione, il differenziamento, l'orientamento differenziativo e l'attivazione funzionale delle cellule mature.» Testo originale in inglese: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), versione del 2026-10-29; consultato il 2026-11-19). Sulla base delle conoscenze generali, pegfilgrastim appartiene alla classe dei fattori di crescita granulocitari (G-CSF) a lunga durata d'azione e stimola la produzione di neutrofili. Il legame meccanicistico con la retinopatia diabetica non è verificabile con i dati disponibili.
 
 In via puramente ipotetica, il G-CSF può mobilizzare dal midollo osseo le cellule progenitrici endoteliali, con un possibile ruolo nella riparazione del microcircolo retinico. Tuttavia, gli effetti pro-infiammatori e pro-angiogenici del G-CSF potrebbero al contrario peggiorare una malattia retinica neovascolare. Nessuna delle due ipotesi è supportata da evidenze nei dati compilati.
 
@@ -118,12 +118,13 @@ La previsione si basa unicamente su un punteggio computazionale elevato, senza s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le autorizzazioni elencate risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
 
 <!-- review:end log -->
 

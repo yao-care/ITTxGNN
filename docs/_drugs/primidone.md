@@ -54,7 +54,7 @@ Primidone è un anticonvulsivante utilizzato originariamente nel trattamento del
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Primidone è un antiepilettico il cui effetto è legato anche ai metaboliti attivi (fenobarbital e PEMA), e la sua efficacia nell'epilessia è consolidata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Primidone (traduzione non ufficiale): «MYSOLINE aumenta le soglie convulsive da elettroshock o da shock chimico o altera i pattern delle crisi negli animali da esperimento. Il meccanismo o i meccanismi dell'azione antiepilettica del primidone non sono noti. Il primidone di per sé possiede attività anticonvulsivante, così come i suoi due metaboliti, il fenobarbital e la feniletilmalonamide (PEMA).» Testo originale in inglese: "MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)." ([DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46), versione del 2026-09-10; consultato il 2026-11-19). Primidone è un antiepilettico il cui effetto è legato anche ai metaboliti attivi (fenobarbital e PEMA), e la sua efficacia nell'epilessia è consolidata.
 
 Per il neoplasma del nervo trigemino, tuttavia, i dati compilati **non sostengono un meccanismo biologicamente plausibile**: primidone non ha alcuna nota azione antineoplastica. Il punteggio molto elevato è probabilmente dovuto alla prossimità nella rete di conoscenza con nodi legati al nervo trigemino o alle crisi epilettiche, e non a un'evidenza biologica o clinica.
 
@@ -104,11 +104,12 @@ La previsione per il neoplasma del nervo trigemino si basa solo sul punteggio de
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre il prodotto in Italia risulta soltanto con autorizzazione cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
 
 <!-- review:end log -->
 

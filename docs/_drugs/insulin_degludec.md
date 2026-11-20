@@ -54,7 +54,7 @@ L'insulina degludec è un'insulina basale ad azione ultra-prolungata, originaria
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati nei dati compilati. In base alle conoscenze note, l'insulina degludec è un analogo basale ad azione ultra-prolungata che si lega al recettore dell'insulina e abbassa la glicemia. Nel diabete di tipo 1 esiste un deficit assoluto di insulina, quindi la sostituzione con insulina basale è il fondamento terapeutico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Insulin Degludec (traduzione non ufficiale): «L'attività principale dell'insulina, incluso TRESIBA, è la regolazione del metabolismo del glucosio. L'insulina e i suoi analoghi riducono la glicemia stimolando la captazione periferica del glucosio, in particolare da parte del muscolo scheletrico e del tessuto adiposo, e inibendo la produzione epatica di glucosio.» Testo originale in inglese: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), versione del 2024-02-22; consultato il 2026-11-19). In base alle conoscenze note, l'insulina degludec è un analogo basale ad azione ultra-prolungata che si lega al recettore dell'insulina e abbassa la glicemia. Nel diabete di tipo 1 esiste un deficit assoluto di insulina, quindi la sostituzione con insulina basale è il fondamento terapeutico.
 
 Per questo motivo non si tratta di un riposizionamento in senso stretto.
 
@@ -140,12 +140,13 @@ Le altre cinque predizioni (oofrite autoimmune, opsismodisplasia, sindrome da di
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Le autorizzazioni italiane risultano però tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
 
 <!-- review:end log -->
 

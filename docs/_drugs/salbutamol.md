@@ -54,7 +54,7 @@ Il salbutamolo è un broncodilatatore agonista beta-2 adrenergico, usato per le 
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, il salbutamolo è un agonista beta-2 adrenergico, la cui azione broncodilatatrice è consolidata, e a livello meccanicistico potrebbe essere applicabile alla congiuntivite papillare.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Salbutamol (traduzione non ufficiale): «Il salbutamolo solfato è un agonista beta 2 -adrenergico. Gli effetti farmacologici del salbutamolo solfato sono attribuibili all'attivazione dei recettori beta 2 -adrenergici sulla muscolatura liscia delle vie aeree. L'attivazione dei recettori beta 2 -adrenergici porta all'attivazione dell'adenilciclasi e a un aumento della concentrazione intracellulare di adenosina 3', 5’-monofosfato ciclico (AMP ciclico).» Testo originale in inglese: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), versione del 2024-12-20; consultato il 2026-11-19). In base alle informazioni note, il salbutamolo è un agonista beta-2 adrenergico, la cui azione broncodilatatrice è consolidata, e a livello meccanicistico potrebbe essere applicabile alla congiuntivite papillare.
 
 Un possibile legame è la modulazione beta-2 adrenergica delle risposte dei mastociti e infiammatorie a livello congiuntivale. Si tratta però di un'ipotesi speculativa: nessuno studio compreso nei dati la sostiene per questa malattia, e la somiglianza con l'indicazione originale non è stata ancora valutata. Anche la compatibilità delle vie di somministrazione è da verificare: le formulazioni italiane censite sono per via inalatoria/nebulizzazione, non oculari.
 
@@ -108,11 +108,12 @@ Avvertenze e controindicazioni dalla scheda tecnica AIFA non sono disponibili: s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-17 | «18 autorizzazioni valide» → 17 valide su 18 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->
 

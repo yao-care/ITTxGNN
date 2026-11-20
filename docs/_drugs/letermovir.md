@@ -54,7 +54,7 @@ Letermovir è un antivirale originariamente utilizzato per l'infezione da citome
 
 ## Perché questa previsione è ragionevole?
 
-Allo stato attuale i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. Letermovir è noto come inibitore del complesso terminasi del DNA del CMV (pUL56/pUL51/pUL89), un bersaglio specifico dei herpesvirus.
+Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Letermovir (traduzione non ufficiale): «PREVYMIS è un farmaco antivirale contro il CMV. […] Il letermovir inibisce il complesso della DNA terminasi del CMV (pUL51, pUL56 e pUL89), necessario per il processamento e l'impacchettamento del DNA virale. La caratterizzazione biochimica e la microscopia elettronica hanno dimostrato che il letermovir influisce sulla produzione di genomi di lunghezza unitaria corretta e interferisce con la maturazione dei virioni.» Testo originale in inglese: "PREVYMIS is an antiviral drug against CMV. […] Letermovir inhibits the CMV DNA terminase complex (pUL51, pUL56, and pUL89) which is required for viral DNA processing and packaging. Biochemical characterization and electron microscopy demonstrated that letermovir affects the production of proper unit length genomes and interferes with virion maturation." ([DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b), versione del 2026-01-14; consultato il 2026-11-19). Letermovir è noto come inibitore del complesso terminasi del DNA del CMV (pUL56/pUL51/pUL89), un bersaglio specifico dei herpesvirus.
 
 **Non è stato identificato un collegamento meccanicistico credibile** con la candidosi vulvovaginale. Candida è un fungo e per questo bersaglio virale non è noto alcun omologo. Non sono disponibili dati di attività antifungina in vitro né osservazioni cliniche che supportino la previsione.
 
@@ -114,12 +114,13 @@ La previsione si fonda solo sul modello (livello L5), senza studi clinici, lette
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e in Italia le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b) |
 
 <!-- review:end log -->
 

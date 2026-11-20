@@ -59,7 +59,7 @@ Il modello TxGNN ne prevede un possibile impiego nell'**amenorrea**, ma le evide
 
 ## Perché questa predizione è ragionevole?
 
-I dati sul meccanismo d'azione originale non sono disponibili nei dati compilati per questo report. In base alle conoscenze farmacologiche generali, l'acido tranexamico inibisce l'attivazione del plasminogeno e quindi riduce la fibrinolisi, diminuendo il sanguinamento endometriale. È un trattamento consolidato per il sanguinamento mestruale abbondante.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tranexamic Acid (traduzione non ufficiale): «L'acido tranexamico è un derivato sintetico dell'aminoacido lisina, che riduce la dissoluzione della fibrina emostatica da parte della plasmina. In presenza di acido tranexamico, i siti di legame del recettore della lisina della plasmina per la fibrina sono occupati, impedendo il legame ai monomeri di fibrina e preservando e stabilizzando così la struttura della matrice di fibrina.» Testo originale in inglese: "Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin. In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure." ([DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5), versione del 2025-09-03; consultato il 2026-11-19). In base alle conoscenze farmacologiche generali, l'acido tranexamico inibisce l'attivazione del plasminogeno e quindi riduce la fibrinolisi, diminuendo il sanguinamento endometriale. È un trattamento consolidato per il sanguinamento mestruale abbondante.
 
 Il legame con l'amenorrea è però indiretto. Il farmaco non agisce sull'asse ormonale responsabile dell'amenorrea: un eventuale beneficio deriverebbe dalla riduzione del sanguinamento, utile ad esempio per la soppressione del ciclo in pazienti ematologiche a rischio di sanguinamento importante, e non dal trattamento dell'amenorrea come condizione patologica.
 
@@ -139,13 +139,14 @@ Non esistono studi clinici registrati e la letteratura disponibile consiste in d
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Il metoprololo è un beta-bloccante cardioselettivo (beta-1), registrato in Ital
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. È noto che il metoprololo è un beta-bloccante selettivo per i recettori beta-1: riduce frequenza cardiaca, gittata cardiaca e attività simpatica, ed è usato nell'ipertensione e nelle cardiopatie ischemiche.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Metoprolol (traduzione non ufficiale): «Metoprololo è un agente bloccante dei recettori adrenergici beta 1 -selettivo (cardioselettivo). Questo effetto preferenziale non è tuttavia assoluto e, a concentrazioni plasmatiche più elevate, metoprololo inibisce anche gli adrenocettori beta 2, localizzati principalmente nella muscolatura bronchiale e vascolare.» Testo originale in inglese: "Metoprolol is a beta 1 -selective (cardioselective) adrenergic receptor blocking agent. This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a), versione del 2026-03-03; consultato il 2026-11-19). È noto che il metoprololo è un beta-bloccante selettivo per i recettori beta-1: riduce frequenza cardiaca, gittata cardiaca e attività simpatica, ed è usato nell'ipertensione e nelle cardiopatie ischemiche.
 
 Il legame con la cardiopatia polmonare cronica è indiretto. In teoria, ridurre frequenza cardiaca e attività simpatica e controllare le aritmie potrebbe giovare a pazienti con cuore sotto sforzo per malattia polmonare. Tuttavia gli studi disponibili riguardano il metoprololo in pazienti con BPCO, spesso con scompenso cardiaco o malattia coronarica, e riguardano soprattutto la tollerabilità, non l'efficacia nel cuore polmonare.
 
@@ -116,6 +116,19 @@ Nessuno studio o pubblicazione citati indaga direttamente la cardiopatia polmona
 - Testo delle indicazioni, avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza).
 - Studi che indaghino direttamente il metoprololo nella cardiopatia polmonare cronica o nell'ipertensione polmonare, con valutazione della funzione del ventricolo destro.
 - Analisi dei risultati dello studio NCT06825728 e dell'impatto dei dati negativi di BLOCK-COPD.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -54,7 +54,7 @@ Il lisinopril è un inibitore dell'enzima di conversione dell'angiotensina (ACE)
 
 ## Perché questa previsione è ragionevole?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report. In base alle conoscenze generali, il lisinopril è un inibitore dell'ACE: riduce la formazione di angiotensina II e, di conseguenza, il tono vascolare e il rimodellamento cardiaco dopo infarto.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lisinopril (traduzione non ufficiale): «Lisinopril inibisce l'enzima di conversione dell'angiotensina (ACE) nei soggetti umani e negli animali. L'ACE è una peptidil dipeptidasi che catalizza la conversione dell'angiotensina I nella sostanza vasocostrittrice angiotensina II. L'angiotensina II stimola inoltre la secrezione di aldosterone da parte della corteccia surrenale.» Testo originale in inglese: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), versione del 2025-12-16; consultato il 2026-11-19). In base alle conoscenze generali, il lisinopril è un inibitore dell'ACE: riduce la formazione di angiotensina II e, di conseguenza, il tono vascolare e il rimodellamento cardiaco dopo infarto.
 
 L'infarto miocardico posterolaterale è un sottotipo anatomico dell'infarto miocardico, indicazione già associata al lisinopril. Non si tratta quindi di un vero riposizionamento.
 
@@ -118,6 +118,19 @@ La previsione riguarda un sottotipo anatomico di un'indicazione già nota e non 
 - Dati sul meccanismo d'azione da DrugBank
 - Valutazione se l'infarto miocardico posterolaterale rientri già nell'indicazione "infarto miocardico", rendendo superfluo un riposizionamento
 - Per le previsioni di rango inferiore (in particolare il cuore polmonare cronico): verifica del disegno e della numerosità degli studi esistenti e, se opportuno, studi clinici controllati
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

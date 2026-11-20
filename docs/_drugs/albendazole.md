@@ -54,7 +54,7 @@ L'albendazolo è un antielmintico che inibisce la polimerizzazione della beta-tu
 
 ## Perché questa previsione è plausibile?
 
-L'albendazolo inibisce la polimerizzazione della beta-tubulina nelle larve di cestodi, compromettendo l'assorbimento del glucosio e causando esaurimento energetico. I dati dettagliati sul meccanismo d'azione non sono al momento disponibili nei dati compilati per questo report; la descrizione si basa sulle conoscenze farmacologiche generali.
+L'albendazolo inibisce la polimerizzazione della beta-tubulina nelle larve di cestodi, compromettendo l'assorbimento del glucosio e causando esaurimento energetico. Secondo le sezioni «Mechanism of Action» e «Microbiology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Albendazole (traduzione non ufficiale): «ALBENZA (albendazolo) è un farmaco antielmintico di sintesi della classe dei benzimidazoli. […] ALBENZA si lega al sito sensibile alla colchicina della β-tubulina, inibendone la polimerizzazione in microtubuli. La riduzione dei microtubuli nelle cellule intestinali dei parassiti riduce la loro funzione di assorbimento, in particolare la captazione del glucosio da parte delle forme adulte e larvali dei parassiti, e determina inoltre la deplezione delle riserve di glicogeno.» Testo originale in inglese: "ALBENZA (albendazole) is a synthetic, antihelminthic drug of the class benzimidazole. […] ALBENZA binds to the colchicine-sensitive site of β-tubulin inhibiting their polymerization into microtubules. The decrease in microtubules in the intestinal cells of the parasites decreases their absorptive function, especially the uptake of glucose by the adult and larval forms of the parasites, and also depletes glycogen storage." ([DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5), versione del 2019-09-23; consultato il 2026-11-19).
 
 La cenurosi è causata dalle larve di *Taenia multiceps* ed è biologicamente vicina alla cisticercosi (*Taenia solium*), per la quale l'albendazolo è utilizzato. Un meccanismo antitubulinico attivo sulle larve di cestodi potrebbe quindi, in linea di principio, essere applicabile anche alla cenurosi.
 
@@ -116,6 +116,18 @@ Nessuno studio o pubblicazione esamina direttamente la cenurosi; le evidenze rig
 - Acquisire avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Completare i dati sul meccanismo d'azione
 - Definire un piano di monitoraggio della sicurezza, con attenzione agli effetti ematologici ed epatici in caso di trattamento prolungato
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

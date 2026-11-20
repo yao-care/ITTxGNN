@@ -54,7 +54,7 @@ Il fenofibrato è un agonista di PPARα utilizzato per ridurre i trigliceridi e 
 
 ## Perché questa previsione è plausibile?
 
-Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze note, il fenofibrato è un agonista di PPARα (confermato dai dati farmacologici sul bersaglio PPARA) che aumenta il colesterolo HDL e riduce i trigliceridi, in parte favorendo l'espressione di ApoA-I/ApoA-II e l'attività della lipoproteina lipasi. Nei topi induce inoltre il gene della proteina di trasferimento dei fosfolipidi (PLTP), con aumento delle dimensioni delle HDL (PMID 11342537).
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Fenofibrate (traduzione non ufficiale): «La frazione attiva di Antara è l'acido fenofibrico. Gli effetti farmacologici dell'acido fenofibrico sia negli animali sia nell'uomo sono stati studiati mediante somministrazione orale di fenofibrato. Gli effetti di modificazione dei lipidi dell'acido fenofibrico osservati nella pratica clinica sono stati spiegati in vivo in topi transgenici e in vitro in colture di epatociti umani con l'attivazione del recettore PPAR alfa.» Testo originale in inglese: "The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor." ([DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce), versione del 2025-10-01; consultato il 2026-11-19). In base alle conoscenze note, il fenofibrato è un agonista di PPARα (confermato dai dati farmacologici sul bersaglio PPARA) che aumenta il colesterolo HDL e riduce i trigliceridi, in parte favorendo l'espressione di ApoA-I/ApoA-II e l'attività della lipoproteina lipasi. Nei topi induce inoltre il gene della proteina di trasferimento dei fosfolipidi (PLTP), con aumento delle dimensioni delle HDL (PMID 11342537).
 
 Il legame con la carenza di CETP è biologicamente plausibile ma indiretto: entrambi riguardano il metabolismo delle HDL. Tuttavia, la carenza di CETP si presenta già con livelli di HDL-C molto elevati, per cui un ulteriore aumento delle HDL non offre un beneficio clinico evidente. L'alto punteggio TxGNN (0,9961) riflette la prossimità tra le vie metaboliche (lipidi e HDL), non un reale bisogno terapeutico.
 
@@ -103,6 +103,19 @@ Per le avvertenze e le controindicazioni ufficiali si rimanda al foglio illustra
 - Dati sul meccanismo d'azione e sulla relazione con la malattia
 - Testo del foglio illustrativo AIFA (indicazioni, avvertenze, controindicazioni)
 - Dimostrazione di un bisogno clinico e di studi che affrontino direttamente la carenza di CETP
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -54,7 +54,7 @@ Disopyramide è un antiaritmico di classe Ia (bloccante dei canali del sodio con
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo farmaco. In base alle conoscenze generali, disopyramide è un antiaritmico di classe Ia che blocca i canali del sodio cardiaci ed esercita un'azione anticolinergica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Disopyramide (traduzione non ufficiale): «Norpace (disopiramide fosfato) è un farmaco antiaritmico di tipo 1 (ossia simile alla procainamide e alla chinidina). Negli studi sugli animali Norpace riduce la velocità di depolarizzazione diastolica (fase 4) nelle cellule con automatismo aumentato, riduce la velocità di ascesa (fase 0) e aumenta la durata del potenziale d'azione delle cellule cardiache normali, riduce la disparità di refrattarietà tra il miocardio infartuato e il miocardio adiacente normalmente perfuso e non ha alcun effetto sui recettori alfa- o beta-adrenergici.» Testo originale in inglese: "Norpace (disopyramide phosphate) is a Type 1 antiarrhythmic drug (i.e., similar to procainamide and quinidine). In animal studies Norpace decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors." ([DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677), versione del 2026-08-24; consultato il 2026-11-19). In base alle conoscenze generali, disopyramide è un antiaritmico di classe Ia che blocca i canali del sodio cardiaci ed esercita un'azione anticolinergica.
 
 **Per la sindrome di Tourette non emerge alcun legame meccanicistico consolidato.** La fisiopatologia di questa condizione è legata soprattutto alla disfunzione dei circuiti dopaminergici cortico-striatali, che non sono un bersaglio riconosciuto di disopyramide. L'alto punteggio deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenze biologiche; la predizione non è sostenuta da studi.
 
@@ -129,13 +129,14 @@ La previsione per la sindrome di Tourette (livello L5) si fonda solo sul modello
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
 
 <!-- review:end log -->
 

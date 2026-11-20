@@ -58,7 +58,7 @@ L'acitretina è un retinoide sistemico di seconda generazione, noto per l'impieg
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrato per il farmaco. In base alle conoscenze generali, l'acitretina è un retinoide sistemico che modula la differenziazione e la proliferazione dei cheratinociti ed esercita effetti antinfiammatori attraverso la segnalazione dei recettori dell'acido retinoico (RAR) e dei retinoidi X (RXR).
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Acitretin (traduzione non ufficiale): «Il meccanismo d'azione di acitretina non è noto.» Testo originale in inglese: "The mechanism of action of acitretin is unknown." ([DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910), versione del 2026-10-20; consultato il 2026-11-19). In base alle conoscenze generali, l'acitretina è un retinoide sistemico che modula la differenziazione e la proliferazione dei cheratinociti ed esercita effetti antinfiammatori attraverso la segnalazione dei recettori dell'acido retinoico (RAR) e dei retinoidi X (RXR).
 
 Questi stessi percorsi sono bersaglio di altri retinoidi, come l'isotretinoina, usati nell'acne e nei disturbi da occlusione follicolare. Esiste quindi un legame biologico plausibile a livello di classe, coerente con l'alto punteggio TxGNN. Tuttavia, non è stata reperita alcuna evidenza clinica o bibliografica specifica per l'acne.
 
@@ -138,13 +138,14 @@ Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non es
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «mentre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
 
 <!-- review:end log -->
 

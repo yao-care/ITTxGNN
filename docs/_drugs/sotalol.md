@@ -61,7 +61,7 @@ Nota: la prima previsione per punteggio TxGNN è la «sindrome del nodo del seno
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. In base alle conoscenze generali, il sotalolo è un beta-bloccante che blocca anche i canali del potassio (attività di classe III), rallenta la frequenza sinusale e la conduzione atrioventricolare e viene impiegato per mantenere il ritmo sinusale nella fibrillazione atriale.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Sotalol (traduzione non ufficiale): «Il sotalolo possiede proprietà antiaritmiche sia di blocco dei beta-adrenocettori (Classe II di Vaughan Williams) sia di prolungamento della durata del potenziale d'azione cardiaco (Classe III di Vaughan Williams). I due isomeri del sotalolo hanno effetti antiaritmici di Classe III simili, mentre l'isomero l è responsabile praticamente di tutta l'attività beta-bloccante.» Testo originale in inglese: "Sotalol has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties. The two isomers of sotalol have similar Class III antiarrhythmic effects, while the l-isomer is responsible for virtually all of the beta-blocking activity." ([DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee), versione del 2024-12-16; consultato il 2026-11-19). In base alle conoscenze generali, il sotalolo è un beta-bloccante che blocca anche i canali del potassio (attività di classe III), rallenta la frequenza sinusale e la conduzione atrioventricolare e viene impiegato per mantenere il ritmo sinusale nella fibrillazione atriale.
 
 Il legame con l'ictus è solo indiretto: la fibrillazione atriale è un importante fattore di rischio per l'ictus cardioembolico, e un eventuale beneficio deriverebbe dal controllo del ritmo, non da un effetto neuroprotettivo o antitrombotico diretto. Nessun dato recuperato dimostra che il sotalolo riduca l'ictus.
 
@@ -145,12 +145,13 @@ L'evidenza per l'ictus è solo indiretta (livello L4): lo studio di fase 3 rigua
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «l sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->
 

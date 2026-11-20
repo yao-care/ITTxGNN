@@ -54,7 +54,7 @@ Benazepril è un inibitore dell'ACE utilizzato nel trattamento dell'ipertensione
 
 ## Perché questa predizione è ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono al momento disponibili. In base alle informazioni note, benazepril appartiene alla classe degli inibitori dell'ACE, la cui efficacia nell'ipertensione è consolidata, e sul piano meccanicistico potrebbe essere applicabile alla malattia renale ipertensiva maligna.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Benazepril (traduzione non ufficiale): «Benazepril e benazeprilat inibiscono l'enzima di conversione dell'angiotensina (ACE) nei soggetti umani e negli animali. Benazeprilat ha un'attività inibitoria dell'ACE molto maggiore rispetto a benazepril. L'ACE è una peptidil dipeptidasi che catalizza la conversione dell'angiotensina I nella sostanza vasocostrittrice angiotensina II.» Testo originale in inglese: "Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals. Benazeprilat has much greater ACE inhibitory activity than does benazepril. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e), versione del 2025-09-30; consultato il 2026-11-19). In base alle informazioni note, benazepril appartiene alla classe degli inibitori dell'ACE, la cui efficacia nell'ipertensione è consolidata, e sul piano meccanicistico potrebbe essere applicabile alla malattia renale ipertensiva maligna.
 
 L'ipertensione maligna con coinvolgimento renale è caratterizzata dall'attivazione del sistema renina-angiotensina e dal danno glomerulare. Gli inibitori dell'ACE hanno un razionale di nefroprotezione riconosciuto nelle nefropatie ipertensive e proteinuriche, il che offre un supporto indiretto. La predizione, tuttavia, è in gran parte una "vicinanza" all'area dell'ipertensione e non è corroborata da evidenze dirette.
 
@@ -96,6 +96,19 @@ La predizione si basa solo sul modello computazionale (livello di evidenza L5), 
 - Una revisione sistematica della letteratura sull'uso degli inibitori dell'ACE nella nefropatia ipertensiva maligna
 - Testo del foglio illustrativo AIFA con avvertenze e controindicazioni
 - In caso di valutazione futura, un piano di monitoraggio della funzione renale e della potassiemia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

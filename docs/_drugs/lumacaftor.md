@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere efficace per la **lebbra**, ma al mome
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Lumacaftor è un correttore di CFTR: agisce come chaperone farmacologico, migliorando il ripiegamento e il trasporto della proteina CFTR. Nei dati compilati per questo report, tuttavia, il meccanismo d'azione dettagliato non è disponibile.
+Lumacaftor è un correttore di CFTR: agisce come chaperone farmacologico, migliorando il ripiegamento e il trasporto della proteina CFTR. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per lumacaftor and ivacaftor (associazione che contiene Lumacaftor) (traduzione non ufficiale): «Il lumacaftor migliora la stabilità conformazionale della F508del-CFTR, determinando un aumento del processamento e del trasporto della proteina matura sulla superficie cellulare. Studi in vitro hanno dimostrato che sia il lumacaftor sia l'ivacaftor agiscono direttamente sulla proteina CFTR in colture primarie di cellule epiteliali bronchiali umane e in altre linee cellulari portatrici della mutazione F508del-CFTR, aumentando la quantità, la stabilità e la funzione della F508del-CFTR sulla superficie cellulare, con conseguente aumento del trasporto degli ioni cloruro.» Testo originale in inglese: "Lumacaftor improves the conformational stability of F508del-CFTR, resulting in increased processing and trafficking of mature protein to the cell surface. In vitro studies have demonstrated that both lumacaftor and ivacaftor act directly on the CFTR protein in primary human bronchial epithelial cultures and other cell lines harboring the F508del-CFTR mutation to increase the quantity, stability, and function of F508del-CFTR at the cell surface, resulting in increased chloride ion transport." ([DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600), versione del 2026-03-24; consultato il 2026-11-19).
 
 La lebbra è causata da *Mycobacterium leprae*, un patogeno intracellulare che colonizza macrofagi e cellule di Schwann. Un'ipotesi plausibile, ma **non dimostrata**, è che la modulazione del ripiegamento o del trasporto di proteine dell'ospite possa influenzare la sopravvivenza intracellulare del batterio o la risposta immunitaria. Nessun dato a disposizione sostiene questo collegamento.
 
@@ -129,13 +129,14 @@ La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600) |
 
 <!-- review:end log -->
 

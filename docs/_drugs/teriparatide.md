@@ -60,7 +60,7 @@ Si tratta quindi di una previsione puramente computazionale, priva di un raziona
 
 ## Perché questa previsione è ragionevole?
 
-Teriparatide è un analogo del paratormone umano (PTH 1-34). Agisce come agonista del recettore PTH1 (PTH1R) e, secondo i dati di farmacologia compilati, interagisce anche con il recettore PTH2. Con somministrazione intermittente esercita un'azione anabolica sull'osso, aumentando la formazione ossea e la densità minerale ossea. Una descrizione dettagliata e formale del meccanismo d'azione non è disponibile nei dati compilati per questo report.
+Teriparatide è un analogo del paratormone umano (PTH 1-34). Agisce come agonista del recettore PTH1 (PTH1R) e, secondo i dati di farmacologia compilati, interagisce anche con il recettore PTH2. Con somministrazione intermittente esercita un'azione anabolica sull'osso, aumentando la formazione ossea e la densità minerale ossea. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Teriparatide (traduzione non ufficiale): «L'ormone paratiroideo (PTH) endogeno di 84 aminoacidi è il principale regolatore del metabolismo del calcio e del fosfato nell'osso e nel rene. Le azioni fisiologiche del PTH comprendono la regolazione del metabolismo osseo, il riassorbimento tubulare renale di calcio e fosfato e l'assorbimento intestinale del calcio. […] Le azioni biologiche del PTH e di teriparatide sono mediate dal legame a specifici recettori di superficie cellulare ad alta affinità.» Testo originale in inglese: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), versione del 2026-08-31; consultato il 2026-11-19).
 
 Il legame con l'ulcera duodenale non è plausibile. L'osteoporosi è una malattia del rimodellamento osseo, mentre l'ulcera duodenale è un danno della mucosa gastrointestinale, e non emerge alcun collegamento tra la segnalazione di PTH1R e la fisiopatologia dell'ulcera. L'analisi condotta sui dati disponibili conclude che non c'è un razionale meccanicistico evidente.
 
@@ -129,11 +129,12 @@ Per l'ulcera duodenale esistono solo una previsione del modello e nessuno studio
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e il prodotto non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
 
 <!-- review:end log -->
 

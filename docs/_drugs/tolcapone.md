@@ -54,7 +54,7 @@ Tolcapone è un inibitore della COMT, originariamente impiegato nel trattamento 
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. In base alle informazioni note, tolcapone è un inibitore della catecol-O-metiltransferasi (COMT), enzima che degrada le catecolamine, ed è utilizzato nel morbo di Parkinson per prolungare l'effetto della levodopa.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tolcapone (traduzione non ufficiale): «Tolcapone è un inibitore selettivo e reversibile della catecol- O -metiltransferasi (COMT). Nei mammiferi, la COMT è distribuita in vari organi. Le attività più elevate si riscontrano nel fegato e nel rene. La COMT è presente anche nel cuore, nei polmoni, nella muscolatura liscia e scheletrica, nel tratto intestinale, negli organi riproduttivi, in varie ghiandole, nel tessuto adiposo, nella cute, nelle cellule del sangue e nei tessuti neuronali, in particolare nelle cellule gliali.» Testo originale in inglese: "Tolcapone is a selective and reversible inhibitor of catechol- O -methyltransferase (COMT). In mammals, COMT is distributed throughout various organs. The highest activities are in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells and neuronal tissues, especially in glial cells." ([DailyMed: Tasmar (tolcapone) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0e47a9d-78e7-4523-983a-aa259f221736), versione del 2020-10-02; consultato il 2026-11-19). In base alle informazioni note, tolcapone è un inibitore della catecol-O-metiltransferasi (COMT), enzima che degrada le catecolamine, ed è utilizzato nel morbo di Parkinson per prolungare l'effetto della levodopa.
 
 Tra l'indicazione originale e quella prevista **non emerge un legame meccanicistico plausibile**. L'encefalite di Rasmussen è una encefalite cronica immuno-mediata, con neuroinfiammazione sostenuta dai linfociti T, mentre l'inibizione della COMT agisce sul metabolismo delle catecolamine. L'elevato punteggio (0,9993) proviene dal modello TxGNN (deep learning) e può riflettere similarità apprese dal modello tra malattie correlate, non evidenza biologica.
 
@@ -109,11 +109,12 @@ La previsione per l'encefalite di Rasmussen è priva di studi clinici, di letter
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tasmar (tolcapone) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0e47a9d-78e7-4523-983a-aa259f221736) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Il diclofenac è un farmaco antinfiammatorio non steroideo (FANS) che inibisce l
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Dai dati compilati per questo report non sono disponibili informazioni dettagliate sul meccanismo d'azione. Il diclofenac appartiene alla classe dei FANS e agisce inibendo COX-1 e COX-2, riducendo la sintesi di prostaglandine.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Diclofenac (traduzione non ufficiale): «Il diclofenac possiede proprietà analgesiche, antinfiammatorie e antipiretiche. Il meccanismo d'azione del diclofenac, come quello di altri FANS, non è completamente compreso, ma comporta l'inibizione della ciclossigenasi (COX-1 e COX-2).» Testo originale in inglese: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), versione del 2026-09-24; consultato il 2026-11-19). Il diclofenac appartiene alla classe dei FANS e agisce inibendo COX-1 e COX-2, riducendo la sintesi di prostaglandine.
 
 Non è stato identificato un legame meccanicistico plausibile con la nuova indicazione. L'ipotricosi semplice è un disturbo genetico della crescita dei capelli, associato a varianti in geni come CDSN, APCDD1 e RPL21. L'inibizione delle COX non agisce su questi difetti di base. L'alto punteggio del modello riflette una previsione basata sulle relazioni tra dati, priva di sostegno clinico o bibliografico.
 
@@ -100,6 +100,19 @@ La predizione è basata solo sul modello (L5): non vi sono studi clinici o pubbl
 - Studi preclinici o clinici direttamente sulla malattia in questione
 - Acquisizione e analisi del foglio illustrativo AIFA per avvertenze e controindicazioni
 - Verifica della compatibilità delle vie di somministrazione e della valutazione rischio-beneficio
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

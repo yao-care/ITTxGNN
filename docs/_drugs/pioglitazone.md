@@ -56,7 +56,7 @@ Tuttavia, per questa indicazione non risultano **né sperimentazioni cliniche n�
 
 ## Perché questa previsione è plausibile?
 
-Per i dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il pioglitazone è un agonista di PPAR-gamma e un insulino-sensibilizzante, la cui efficacia nel diabete di tipo 2 è documentata.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pioglitazone (traduzione non ufficiale): «ACTOS è un tiazolidinedione che dipende dalla presenza di insulina per il suo meccanismo d'azione. ACTOS riduce l'insulino-resistenza a livello periferico e nel fegato, determinando un aumento dello smaltimento del glucosio insulino-dipendente e una riduzione della produzione epatica di glucosio. […] Il pioglitazone non è un secretagogo dell'insulina.» Testo originale in inglese: "ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. […] Pioglitazone is not an insulin secretagogue." ([DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c), versione del 2025-03-28; consultato il 2026-11-19). In base alle conoscenze generali, il pioglitazone è un agonista di PPAR-gamma e un insulino-sensibilizzante, la cui efficacia nel diabete di tipo 2 è documentata.
 
 L'opsismodisplasia è causata da mutazioni di INPPL1 (carenza di SHIP2), che coinvolgono la via di segnalazione PI3K/insulina e la crescita ossea endocondrale. Un nesso con il pioglitazone sarebbe solo indiretto e speculativo: **non è stato stabilito alcun legame meccanicistico**. Il punteggio elevato (0.9959) proviene dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non un'evidenza biologica né una prova di efficacia.
 
@@ -121,12 +121,13 @@ La previsione è basata solo sul modello (L5), senza studi clinici o letteratura
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «noltre in Italia non esistono autorizzazioni valide e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
 
 <!-- review:end log -->
 

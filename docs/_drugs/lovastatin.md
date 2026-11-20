@@ -54,7 +54,7 @@ La lovastatina è una statina, inibitrice della HMG-CoA reduttasi, utilizzata pe
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-I dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati per questo report. In generale, la lovastatina è un inibitore della HMG-CoA reduttasi (enzima HMGCR, confermato tra i target farmacologici) che riduce il colesterolo LDL. Risulta inoltre tra i suoi target il recettore X del pregnano (NR1I2).
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Lovastatin (traduzione non ufficiale): «Il meccanismo dell'effetto di riduzione delle LDL della lovastatina può comportare sia la riduzione della concentrazione di VLDL-C sia l'induzione del recettore delle LDL, determinando una ridotta produzione e/o un aumentato catabolismo delle LDL-C. Anche l'apolipoproteina B diminuisce durante il trattamento con lovastatina. La lovastatina è un inibitore specifico della HMG-CoA reduttasi, l'enzima che catalizza la conversione dell'HMG-CoA in mevalonato.» Testo originale in inglese: "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Apolipoprotein B also falls during treatment with lovastatin. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate." ([DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34), versione del 2026-11-13; consultato il 2026-11-19). In generale, la lovastatina è un inibitore della HMG-CoA reduttasi (enzima HMGCR, confermato tra i target farmacologici) che riduce il colesterolo LDL. Risulta inoltre tra i suoi target il recettore X del pregnano (NR1I2).
 
 Il deficit di CETP è un disturbo del metabolismo lipoproteico, caratterizzato da HDL-colesterolo elevato e da alterato trasferimento degli esteri del colesterolo. Esiste quindi un legame biologico plausibile attraverso il metabolismo lipidico.
 
@@ -101,6 +101,19 @@ Non esiste alcuno studio clinico né alcuna pubblicazione che studi direttamente
 - Evidenze cliniche o precliniche che riguardino direttamente questa malattia
 - Una definizione chiara del bisogno clinico (beneficio atteso in una condizione con HDL elevato)
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, per completare la valutazione di sicurezza
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

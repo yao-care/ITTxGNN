@@ -59,7 +59,7 @@ Il modello TxGNN prevede una possibile efficacia nella **noduolosi reumatoide**,
 
 ## Perché questa previsione è plausibile?
 
-I dati sul meccanismo d'azione originale non sono al momento disponibili. La tretinoina è un ligando dei recettori nucleari dell'acido retinoico (RARα, RARβ, RARγ) e interagisce anche con PPARβ/δ, RORβ, TR4 (NR2C2) e TLX (NR2E1). Agisce come agente differenziante nella leucemia promielocitica acuta e modula la cheratinizzazione in ambito dermatologico.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Tretinoin (traduzione non ufficiale): «La tretinoina induce citodifferenziazione e una ridotta proliferazione delle cellule di APL in coltura e in vivo. Nei pazienti con APL, il trattamento con tretinoina produce un'iniziale maturazione dei promielociti primitivi derivati dal clone leucemico, seguita da un ripopolamento del midollo osseo e del sangue periferico da parte di cellule ematopoietiche normali e policlonali nei pazienti che raggiungono la remissione completa (CR).» Testo originale in inglese: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), versione del 2026-08-20; consultato il 2026-11-19). La tretinoina è un ligando dei recettori nucleari dell'acido retinoico (RARα, RARβ, RARγ) e interagisce anche con PPARβ/δ, RORβ, TR4 (NR2C2) e TLX (NR2E1). Agisce come agente differenziante nella leucemia promielocitica acuta e modula la cheratinizzazione in ambito dermatologico.
 
 Un legame plausibile ma non verificato con la noduolosi reumatoide potrebbe passare dalla modulazione retinoide-mediata dei segnali immunitari e infiammatori (vie RAR/RXR). Nulla nei dati compilati lo supporta direttamente: la previsione resta a livello di ipotesi e la somiglianza con le indicazioni originali non è stata valutata.
 
@@ -141,11 +141,12 @@ La previsione si basa solo sul modello (livello L5), senza studi clinici né let
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Inoltre, in Italia l'unica autorizzazione è cancellata e il profilo di sicurezza dei retinoidi sistemici è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
 
 <!-- review:end log -->
 

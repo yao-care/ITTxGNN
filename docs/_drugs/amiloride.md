@@ -54,7 +54,7 @@ Amiloride è un diuretico risparmiatore di potassio. Il modello TxGNN prevede un
 
 ## Perché questa previsione è plausibile?
 
-I dati sul meccanismo d'azione non sono disponibili in forma dettagliata. Sulla base delle informazioni note, amiloride agisce sul canale epiteliale del sodio (ENaC). Questo favorisce l'eliminazione di sodio (natriuresi) e il risparmio di potassio.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Amiloride (traduzione non ufficiale): «Amiloride HCl è un farmaco risparmiatore di potassio (antikaliuretico) che possiede un'attività natriuretica, diuretica e antipertensiva debole (rispetto ai diuretici tiazidici). In alcuni studi clinici questi effetti si sono sommati parzialmente agli effetti dei diuretici tiazidici.» Testo originale in inglese: "Amiloride HCl is a potassium-conserving (antikaliuretic) drug that possesses weak (compared with thiazide diuretics) natriuretic, diuretic, and antihypertensive activity. These effects have been partially additive to the effects of thiazide diuretics in some clinical studies." ([DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68), versione del 2026-11-11; consultato il 2026-11-19). Sulla base delle informazioni note, amiloride agisce sul canale epiteliale del sodio (ENaC). Questo favorisce l'eliminazione di sodio (natriuresi) e il risparmio di potassio.
 
 In linea teorica, l'azione sul sodio e sul volume potrebbe interessare il danno renale legato all'ipertensione. Si tratta però di un'ipotesi puramente predittiva: non esistono studi che la verifichino. Il punteggio elevato riflette l'associazione costruita dal modello, non una prova clinica.
 
@@ -106,6 +106,19 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 - dati dettagliati sul meccanismo d'azione;
 - il foglio illustrativo AIFA con avvertenze e controindicazioni;
 - un piano di monitoraggio del potassio sierico e della funzione renale prima di qualsiasi studio clinico.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

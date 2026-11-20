@@ -58,7 +58,7 @@ Il flunisolide è un corticosteroide per via inalatoria/nasale, originariamente 
 
 ## Perché questa previsione è plausibile?
 
-Nei dati compilati per questo report non è disponibile una descrizione dettagliata del meccanismo d'azione. In base alle conoscenze generali, il flunisolide è un corticosteroide con attività antinfiammatoria. Questa classe di farmaci è già utilizzata, per via topica o sistemica, nella dermatite atopica.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Flunisolide (traduzione non ufficiale): «Flunisolide ha dimostrato una potente attività glucocorticoide e una debole attività mineralcorticoide nei classici sistemi di test sugli animali. Come glucocorticoide, è diverse centinaia di volte più potente del cortisolo standard. Gli studi clinici con flunisolide hanno mostrato attività terapeutica sulle mucose nasali con evidenze minime di attività sistemica alle dosi raccomandate.» Testo originale in inglese: "Flunisolide has demonstrated potent glucocorticoid and weak mineralocorticoid activity in classical animal test systems. As a glucocorticoid, it is several hundred times more potent than the cortisol standard. Clinical studies with flunisolide have shown therapeutic activity on nasal mucous membranes with minimal evidence of systemic activity at the recommended doses." ([DailyMed: flunisolide prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=50d87523-e1fb-4342-825f-9dba972c6a25), versione del 2025-05-02; consultato il 2026-11-19). In base alle conoscenze generali, il flunisolide è un corticosteroide con attività antinfiammatoria. Questa classe di farmaci è già utilizzata, per via topica o sistemica, nella dermatite atopica.
 
 Asma, rinite allergica e dermatite atopica sono malattie atopiche, con infiammazione di tipo Th2 in comune. Ciò rende biologicamente ragionevole un'estensione a livello di classe terapeutica.
 
@@ -141,13 +141,14 @@ Il punteggio del modello è molto alto, ma non esistono studi clinici né eviden
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Il farmaco non ha inoltre autorizzazioni valide in Italia, e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(autorizzazioni attualmente tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: flunisolide prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=50d87523-e1fb-4342-825f-9dba972c6a25) |
 
 <!-- review:end log -->
 

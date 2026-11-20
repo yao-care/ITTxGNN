@@ -54,7 +54,7 @@ Mepolizumab è un anticorpo monoclonale anti-IL-5, originariamente associato al 
 
 ## Perché questa predizione può essere plausibile?
 
-I dati sul meccanismo d'azione non sono al momento disponibili nei dati compilati. Mepolizumab è tuttavia noto come anticorpo anti-IL-5 che deprime gli eosinofili.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Mepolizumab (traduzione non ufficiale): «Il mepolizumab è un antagonista dell'IL-5 (IgG1 kappa). L'IL-5 è la principale citochina responsabile della crescita e del differenziamento, del reclutamento, dell'attivazione e della sopravvivenza degli eosinofili. Il mepolizumab si lega all'IL-5 con una costante di dissociazione di 100 pM, inibendo la bioattività dell'IL-5 mediante il blocco del suo legame alla catena alfa del complesso recettoriale dell'IL-5 espresso sulla superficie cellulare degli eosinofili.» Testo originale in inglese: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), versione del 2025-08-06; consultato il 2026-11-19). Mepolizumab è tuttavia noto come anticorpo anti-IL-5 che deprime gli eosinofili.
 
 Un legame plausibile esiste solo in un contesto ristretto: la sindrome ipereosinofila (HES) con citopenia immuno-mediata secondaria. In questo caso, controllare la disregolazione immunitaria guidata dagli eosinofili potrebbe ridurre indirettamente la distruzione piastrinica immuno-mediata.
 
@@ -131,13 +131,14 @@ La predizione si basa quasi esclusivamente sul modello computazionale: nessuno s
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «(le autorizzazioni elencate sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
 
 <!-- review:end log -->
 

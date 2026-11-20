@@ -55,7 +55,7 @@ Il modello TxGNN prevede che possa essere efficace per la **malattia renale iper
 
 ## Perché questa predizione è ragionevole?
 
-Il triamterene blocca il canale epiteliale del sodio (ENaC) ed esercita un effetto diuretico risparmiatore di potassio. È già impiegato nell'ipertensione, quindi un legame meccanicistico con il controllo pressorio nella malattia renale ipertensiva è plausibile. Al momento non sono disponibili dati dettagliati sul meccanismo d'azione.
+Il triamterene blocca il canale epiteliale del sodio (ENaC) ed esercita un effetto diuretico risparmiatore di potassio. È già impiegato nell'ipertensione, quindi un legame meccanicistico con il controllo pressorio nella malattia renale ipertensiva è plausibile. Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Triamterene è (traduzione non ufficiale): «Bloccante del canale del sodio sensibile all'amiloride, ENaC» Testo originale in inglese: "Amiloride-sensitive sodium channel, ENaC blocker" ([ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585), CC BY-SA 3.0; consultato il 2026-11-19).
 
 Tuttavia, la predizione va letta con molta cautela. L'ipertensione maligna con coinvolgimento renale è un'emergenza ipertensiva che richiede una terapia rapida, per lo più parenterale. Inoltre, un diuretico risparmiatore di potassio comporta un rischio di iperkaliemia in presenza di insufficienza renale. Il punteggio elevato è probabilmente dovuto alla somiglianza con l'indicazione ipertensiva già esistente, più che a prove specifiche.
 
@@ -122,11 +122,12 @@ La predizione è basata solo sul modello (livello L5), senza studi clinici né l
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è annullata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585) |
 
 <!-- review:end log -->
 

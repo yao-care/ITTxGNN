@@ -54,7 +54,7 @@ Goserelin è un agonista del GnRH, originariamente utilizzato per il trattamento
 
 ## Perché questa predizione è plausibile?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nei dati compilati per questo report. Sulla base delle conoscenze note, goserelin è un agonista del GnRH: l'esposizione continuativa desensibilizza i recettori GnRH dell'ipofisi, riduce la secrezione di LH e FSH e abbassa la produzione ovarica di estradiolo, determinando un'amenorrea ipogonadotropa reversibile.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Goserelin (traduzione non ufficiale): «ZOLADEX è un analogo decapeptidico sintetico del GnRH. ZOLADEX agisce come inibitore della secrezione ipofisaria di gonadotropine quando somministrato nella formulazione biodegradabile. In studi su animali e in vitro, la somministrazione di goserelin ha determinato la regressione o l'inibizione della crescita del tumore mammario di ratto ormono-sensibile indotto da dimetilbenzantracene (DMBA) e del tumore prostatico Dunning R3327.» Testo originale in inglese: "ZOLADEX is a synthetic decapeptide analogue of GnRH. ZOLADEX acts as an inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. In animal and in vitro studies, administration of goserelin resulted in the regression or inhibition of growth of the hormonally sensitive dimethylbenzanthracene (DMBA)-induced rat mammary tumor and Dunning R3327 prostate tumor." ([DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3), versione del 2026-03-24; consultato il 2026-11-19). Sulla base delle conoscenze note, goserelin è un agonista del GnRH: l'esposizione continuativa desensibilizza i recettori GnRH dell'ipofisi, riduce la secrezione di LH e FSH e abbassa la produzione ovarica di estradiolo, determinando un'amenorrea ipogonadotropa reversibile.
 
 Questo effetto è coerente con l'indicazione originale nell'endometriosi, dove la soppressione ormonale riduce l'attività della malattia. L'amenorrea, tuttavia, è soprattutto un risultato farmacodinamico (o un effetto indesiderato) della soppressione ovarica, non una malattia con un bersaglio distinto. Nel carcinoma mammario è un esito del trattamento, non un obiettivo.
 
@@ -136,12 +136,13 @@ L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressio
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
 
 <!-- review:end log -->
 

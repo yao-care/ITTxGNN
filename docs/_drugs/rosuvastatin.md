@@ -60,7 +60,7 @@ Questa indicazione è però molto vicina a quella originale (ipercolesterolemia 
 
 ## Perché questa predizione è ragionevole?
 
-Al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nel set compilato. In base alle informazioni note, la rosuvastatina inibisce l'HMG-CoA reduttasi (target HMGCR), l'enzima chiave della sintesi del colesterolo. Ciò aumenta l'espressione dei recettori epatici per le LDL e riduce il colesterolo LDL.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Rosuvastatin (traduzione non ufficiale): «CRESTOR è un inibitore della HMG‑CoA reduttasi, l'enzima limitante la velocità che converte il 3‑idrossi‑3‑metilglutaril coenzima A in mevalonato, un precursore del colesterolo.» Testo originale in inglese: "CRESTOR is an inhibitor of HMG‑CoA reductase, the rate-limiting enzyme that converts 3‑hydroxy‑3‑methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol." ([DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee), versione del 2026-09-23; consultato il 2026-11-19). In base alle informazioni note, la rosuvastatina inibisce l'HMG-CoA reduttasi (target HMGCR), l'enzima chiave della sintesi del colesterolo. Ciò aumenta l'espressione dei recettori epatici per le LDL e riduce il colesterolo LDL.
 
 Nell'ipercolesterolemia familiare il difetto di fondo (spesso a carico del recettore LDL) causa livelli molto elevati di LDL-C. Il meccanismo della statina è quindi direttamente applicabile, sia nella forma eterozigote sia in quella omozigote.
 
@@ -157,12 +157,13 @@ Numerosi studi di fase 3 completati, anche pediatrici, supportano efficacia e si
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ Nota: la predizione con rango 1 (sindrome di Ambras) è priva di qualsiasi evide
 
 ## Perché questa predizione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. In base alle conoscenze generali, finasteride inibisce la 5-alfa-reduttasi di tipo II e riduce i livelli di diidrotestosterone (DHT). Questo meccanismo è alla base della sua efficacia nell'iperplasia prostatica benigna e nell'alopecia androgenetica.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Finasteride (traduzione non ufficiale): «Lo sviluppo e l'ingrossamento della ghiandola prostatica dipendono dal potente androgeno 5α-diidrotestosterone (DHT). La 5α-reduttasi di tipo II metabolizza il testosterone in DHT nella ghiandola prostatica, nel fegato e nella cute. […] Finasteride è un inibitore competitivo e specifico della 5α-reduttasi di tipo II, con la quale forma lentamente un complesso enzimatico stabile.» Testo originale in inglese: "The development and enlargement of the prostate gland is dependent on the potent androgen, 5α-dihydrotestosterone (DHT). Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liver and skin. […] Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex." ([DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b), versione del 2026-03-18; consultato il 2026-11-19). In base alle conoscenze generali, finasteride inibisce la 5-alfa-reduttasi di tipo II e riduce i livelli di diidrotestosterone (DHT). Questo meccanismo è alla base della sua efficacia nell'iperplasia prostatica benigna e nell'alopecia androgenetica.
 
 Per la **sindrome di Ambras** (rango 1) il legame meccanicistico è debole: si tratta di una condizione congenita legata a riarrangiamenti cromosomici che alterano la regolazione di TRPS1, non primariamente guidata dagli androgeni. L'alto punteggio (0,9999) deriva dal modello TxGNN (deep learning) e può riflettere somiglianze apprese dal modello tra malattie correlate, non evidenza biologica.
 
@@ -143,12 +143,13 @@ Le predizioni hanno punteggi TxGNN molto alti, ma derivano dal modello TxGNN (de
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b) |
 
 <!-- review:end log -->
 

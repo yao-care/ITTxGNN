@@ -54,7 +54,7 @@ L'alfacalcidolo è un analogo della vitamina D già idrossilato in posizione 1-a
 
 ## Perché questa predizione potrebbe essere ragionevole?
 
-Il meccanismo d'azione dettagliato non è attualmente disponibile nei dati compilati. In base alle conoscenze generali, l'alfacalcidolo agisce sul metabolismo di calcio e fosfato e sulla mineralizzazione ossea tramite la via della vitamina D. Un'associazione con una displasia scheletrica è quindi concepibile a livello di fenotipo, ma resta speculativa.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Alfacalcidol è (traduzione non ufficiale): «Agonista del recettore della vitamina D» Testo originale in inglese: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; consultato il 2026-11-19). In base alle conoscenze generali, l'alfacalcidolo agisce sul metabolismo di calcio e fosfato e sulla mineralizzazione ossea tramite la via della vitamina D. Un'associazione con una displasia scheletrica è quindi concepibile a livello di fenotipo, ma resta speculativa.
 
 La conodisplasia craniofacciale è una condizione molto rara e il coinvolgimento della via della vitamina D non è stato stabilito. Senza dati di meccanismo o studi di supporto, la previsione rimane un'ipotesi non verificabile.
 
@@ -96,6 +96,19 @@ La previsione si basa solo sul punteggio del modello, senza studi clinici o pubb
 - Scaricare e analizzare il foglio illustrativo AIFA per avvertenze e controindicazioni, dato che la valutazione di sicurezza non può procedere senza
 - Effettuare una ricerca bibliografica mirata sul legame tra via della vitamina D e conodisplasia craniofacciale
 - Valutare la compatibilità della via di somministrazione con la patologia
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

@@ -69,7 +69,7 @@ Altre previsioni del modello, tutte con evidenza debole o assente:
 
 ## Perché questa previsione è ragionevole?
 
-Dai dati compilati per questo report non sono disponibili informazioni dettagliate sul meccanismo d'azione. Sulla base delle conoscenze note, la selegilina è un inibitore irreversibile e selettivo della MAO-B (a dosi orali ≥20 mg/die l'inibizione diventa non selettiva e coinvolge anche la MAO-A). Aumentando la disponibilità di dopamina, ha dimostrato efficacia nel Parkinson e ha proprietà antiossidanti.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Selegiline (traduzione non ufficiale): «Selegilina è un inibitore irreversibile della monoamino ossidasi (MAO), che regola la degradazione metabolica delle catecolamine e della serotonina nel sistema nervoso centrale e nei tessuti periferici. Alle dosi raccomandate, selegilina è selettiva per la MAO di tipo B (MAO-B), la forma principale nel cervello.» Testo originale in inglese: "Selegiline is an irreversible inhibitor of monoamine oxidase (MAO), which regulates the metabolic degradation of catecholamines and serotonin in the central nervous system and peripheral tissues. At recommended doses, selegiline is selective for MAO type B (MAO-B), the major form in the brain." ([DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0), versione del 2021-06-01; consultato il 2026-11-19). Sulla base delle conoscenze note, la selegilina è un inibitore irreversibile e selettivo della MAO-B (a dosi orali ≥20 mg/die l'inibizione diventa non selettiva e coinvolge anche la MAO-A). Aumentando la disponibilità di dopamina, ha dimostrato efficacia nel Parkinson e ha proprietà antiossidanti.
 
 I sintomi negativi e cognitivi della schizofrenia sono associati a una ridotta attività dopaminergica prefrontale, e lo stress ossidativo è coinvolto nella progressione della malattia. Per questo la selegilina è stata studiata come terapia aggiuntiva agli antipsicotici per i sintomi negativi. Il legame meccanicistico è quindi plausibile, ma resta ipotetico: la letteratura recuperata offre un segnale che genera ipotesi, non un beneficio confermato.
 
@@ -147,11 +147,12 @@ Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni non è 
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0) |
 
 <!-- review:end log -->
 

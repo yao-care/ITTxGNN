@@ -60,7 +60,7 @@ Il clopidogrel è un farmaco antiaggregante piastrinico che agisce inibendo il r
 
 Il clopidogrel inibisce l'aggregazione piastrinica mediata dal recettore P2Y12. Nell'emicrania con aura associata a shunt destro-sinistro (ad esempio il forame ovale pervio), micro-emboli paradossi o sostanze vasoattive di origine piastrinica, come la serotonina, potrebbero innescare la depressione corticale diffusa. Una terapia antiaggregante potrebbe quindi ridurre questi fattori scatenanti.
 
-Le evidenze disponibili riguardano soprattutto l'emicrania con aura in pazienti con forame ovale pervio, non specificamente l'aura del tronco encefalico: il legame con questo sottotipo è quindi indiretto. Dati dettagliati sul meccanismo d'azione del farmaco non sono al momento disponibili nei dati compilati per questo rapporto.
+Le evidenze disponibili riguardano soprattutto l'emicrania con aura in pazienti con forame ovale pervio, non specificamente l'aura del tronco encefalico: il legame con questo sottotipo è quindi indiretto. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Clopidogrel (traduzione non ufficiale): «Il clopidogrel è un inibitore dell'attivazione e dell'aggregazione piastrinica mediante il legame irreversibile del suo metabolita attivo alla classe P2Y 12 dei recettori dell'ADP sulle piastrine.» Testo originale in inglese: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), versione del 2025-05-30; consultato il 2026-11-19).
 
 Il livello di evidenza è fissato a L5 perché nessuno degli studi citati analizza direttamente l'emicrania con aura del tronco encefalico: gli studi riguardano l'emicrania con aura in generale o l'emicrania associata a shunt.
 
@@ -126,6 +126,19 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo. Va conside
 - Studi o analisi di sottogruppo specifici per l'emicrania con aura del tronco encefalico.
 - Dati sul meccanismo d'azione e sulle avvertenze/controindicazioni dal foglio illustrativo AIFA.
 - Valutazione del rapporto beneficio/rischio emorragico per una condizione non letale.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

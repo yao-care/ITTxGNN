@@ -59,7 +59,7 @@ Il modello TxGNN le attribuisce un punteggio molto alto per la **sindrome da ipe
 
 ## Perché questa previsione è ragionevole?
 
-Dai dati compilati per questo report non sono attualmente disponibili informazioni dettagliate sul meccanismo d'azione. Per conoscenza generale, la norfloxacina inibisce la DNA girasi e la topoisomerasi IV batteriche, e la sua efficacia nelle infezioni batteriche (soprattutto urinarie e intestinali) è consolidata.
+Secondo ChEMBL (EMBL-EBI), il meccanismo d'azione registrato per Norfloxacin è (traduzione non ufficiale): «Inibitore della topoisomerasi IV; inibitore della DNA girasi batterica» Testo originale in inglese: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; consultato il 2026-11-19). Per conoscenza generale, la norfloxacina inibisce la DNA girasi e la topoisomerasi IV batteriche, e la sua efficacia nelle infezioni batteriche (soprattutto urinarie e intestinali) è consolidata.
 
 **Non esiste un legame meccanicistico plausibile** con la sindrome da iperviscosità policlonale: il farmaco non ha alcun effetto noto sui livelli di immunoglobuline sieriche né sulla viscosità del sangue.
 
@@ -156,12 +156,13 @@ La previsione per la sindrome da iperviscosità policlonale si basa solo sul mod
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove ind» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-12 | Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
 
 <!-- review:end log -->
 

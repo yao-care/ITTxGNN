@@ -58,7 +58,7 @@ Pitolisant è un antagonista/agonista inverso del recettore H3 dell'istamina con
 
 ## Perché questa predizione è (poco) plausibile?
 
-I dati sul meccanismo d'azione ufficiale non sono disponibili nel materiale compilato. Dalla letteratura recuperata, pitolisant è un antagonista/agonista inverso selettivo del recettore H3 dell'istamina: aumenta la neurotrasmissione istaminergica e promuove la veglia.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Pitolisant (traduzione non ufficiale): «Il meccanismo d'azione di pitolisant nell'eccessiva sonnolenza diurna (EDS) o nella cataplessia nei pazienti di età pari o superiore a 6 anni con narcolessia non è chiaro. Tuttavia, la sua efficacia potrebbe essere mediata dalla sua attività come antagonista/agonista inverso dei recettori dell'istamina-3 (H3).» Testo originale in inglese: "The mechanism of action of pitolisant in excessive daytime sleepiness (EDS) or cataplexy in patients 6 years and older with narcolepsy is unclear. However, its efficacy could be mediated through its activity as an antagonist/inverse agonist at histamine-3 (H3) receptors." ([DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e), versione del 2026-02-13; consultato il 2026-11-19). Dalla letteratura recuperata, pitolisant è un antagonista/agonista inverso selettivo del recettore H3 dell'istamina: aumenta la neurotrasmissione istaminergica e promuove la veglia.
 
 Questa direzione farmacologica è opposta a quella necessaria per trattare l'insonnia. Il blocco H3 che favorisce la veglia dovrebbe, in teoria, peggiorare l'inizio e il mantenimento del sonno, e l'insonnia è un effetto avverso documentato di pitolisant. L'elevato punteggio TxGNN riflette probabilmente la prossimità, nella rete di relazioni del modello, con i disturbi del ciclo sonno-veglia come la narcolessia, e non una reale logica terapeutica.
 
@@ -123,6 +123,18 @@ Nessuno studio testa pitolisant nell'insonnia, per cui il livello di evidenza è
 - Evidenza preclinica o clinica che mostri un beneficio di pitolisant nell'insonnia, con una giustificazione meccanicistica coerente con l'effetto di promozione della veglia
 - Dati sul meccanismo d'azione ufficiale
 - Revisione delle avvertenze e controindicazioni dal foglio illustrativo AIFA
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e) |
+
+<!-- review:end log -->
 
 ## Avvertenza
 

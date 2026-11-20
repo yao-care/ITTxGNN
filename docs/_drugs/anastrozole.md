@@ -54,7 +54,7 @@ Anastrozolo è un inibitore dell'aromatasi, già autorizzato in Italia. Il model
 
 ## Perché questa previsione potrebbe essere ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione. Anastrozolo appartiene alla classe degli inibitori dell'aromatasi, cioè riduce la produzione di estrogeni. Un legame con la segnalazione estrogenica nei tumori della cresta neurale è ipotizzabile, ma resta speculativo.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Anastrozole (traduzione non ufficiale): «La crescita di molti tumori della mammella è stimolata o mantenuta dagli estrogeni. Nelle donne in postmenopausa, gli estrogeni derivano principalmente dall'azione dell'enzima aromatasi, che converte gli androgeni surrenalici (principalmente androstenedione e testosterone) in estrone ed estradiolo. […] Anastrozolo è un inibitore selettivo non steroideo dell'aromatasi.» Testo originale in inglese: "The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor." ([DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de), versione del 2026-03-02; consultato il 2026-11-19). Anastrozolo appartiene alla classe degli inibitori dell'aromatasi, cioè riduce la produzione di estrogeni. Un legame con la segnalazione estrogenica nei tumori della cresta neurale è ipotizzabile, ma resta speculativo.
 
 Il neuroblastoma è un tumore maligno pediatrico per il quale l'inibizione dell'aromatasi non ha alcun ruolo stabilito. Il punteggio elevato (0,9953) indica solo una forte somiglianza statistica secondo il modello. Non costituisce una prova di efficacia e non sostituisce dati clinici o preclinici.
 
@@ -84,6 +84,19 @@ La previsione si basa solo sul punteggio del modello (livello di evidenza L5). N
 - Dati sul meccanismo d'azione dettagliato di anastrozolo.
 - Avvertenze e controindicazioni dal foglio illustrativo AIFA, per la valutazione di sicurezza, in particolare in popolazione pediatrica.
 - Una revisione sistematica della letteratura mirata sul neuroblastoma.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

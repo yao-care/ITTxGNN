@@ -58,7 +58,7 @@ La previsione con il punteggio TxGNN più alto è la distrofia retinica, con o s
 
 ## Perché questa previsione è ragionevole?
 
-Per questo farmaco, al momento i dati dettagliati sul meccanismo d'azione non sono disponibili nei dati compilati. In base alle conoscenze generali, il paliperidone (9-idrossi-risperidone) è un antagonista dei recettori D2 della dopamina e 5-HT2A della serotonina, ed è già utilizzato nella schizofrenia.
+Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Paliperidone (traduzione non ufficiale): «Paliperidone è il principale metabolita attivo di risperidone. Il meccanismo d'azione di paliperidone nella schizofrenia non è chiaro. Tuttavia, l'effetto terapeutico del farmaco nella schizofrenia potrebbe essere mediato da una combinazione di antagonismo a livello centrale dei recettori della dopamina di tipo 2 (D 2 ) e della serotonina di tipo 2 (5HT 2A ).» Testo originale in inglese: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), versione del 2025-01-31; consultato il 2026-11-19). In base alle conoscenze generali, il paliperidone (9-idrossi-risperidone) è un antagonista dei recettori D2 della dopamina e 5-HT2A della serotonina, ed è già utilizzato nella schizofrenia.
 
 Il legame con la schizofrenia resistente al trattamento è quindi diretto sul piano farmacologico. Tuttavia non si tratta di un vero riposizionamento: la forma resistente è una sottopopolazione della malattia per cui il farmaco è già indicato. Per questa popolazione lo standard basato sulle evidenze resta la clozapina, e i dati compilati non contengono studi di fase 2 o 3 con paliperidone in pazienti resistenti.
 
@@ -116,6 +116,19 @@ Le informazioni dal foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Disporre di studi randomizzati di fase 2/3 con paliperidone nella schizofrenia resistente, confrontato con la clozapina.
 - Verificare lo stato regolatorio e la disponibilità commerciale in Italia dopo la revoca delle autorizzazioni.
 - Valutare il profilo di sicurezza cardiovascolare (rischio di QT lungo) e metabolico in questa popolazione.
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.

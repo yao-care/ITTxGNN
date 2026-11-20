@@ -56,7 +56,7 @@ I dati compilati per questo report non riportano **studi clinici registrati**, m
 
 ## Perché questa previsione è ragionevole?
 
-Al momento non sono disponibili dati dettagliati sul meccanismo d'azione nel record fornito. In base alla farmacologia generale, la nortriptilina è un antidepressivo triciclico che inibisce soprattutto la ricaptazione della noradrenalina (NET), con un effetto più debole sulla serotonina (SERT). I dati farmacologici compilati confermano l'interazione con i trasportatori NET e SERT, oltre che con il recettore α1A-adrenergico e con alcuni canali del potassio Kir.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Nortriptyline (traduzione non ufficiale): «Il meccanismo dell'innalzamento del tono dell'umore da parte degli antidepressivi triciclici è attualmente sconosciuto. Pamelor non è un inibitore delle monoamino ossidasi. Inibisce l'attività di agenti diversi come istamina, 5-idrossitriptamina e acetilcolina.» Testo originale in inglese: "The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine." ([DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb), versione del 2024-12-04; consultato il 2026-11-19). In base alla farmacologia generale, la nortriptilina è un antidepressivo triciclico che inibisce soprattutto la ricaptazione della noradrenalina (NET), con un effetto più debole sulla serotonina (SERT). I dati farmacologici compilati confermano l'interazione con i trasportatori NET e SERT, oltre che con il recettore α1A-adrenergico e con alcuni canali del potassio Kir.
 
 Il potenziamento noradrenergico nei circuiti prefrontali è lo stesso meccanismo dei farmaci non stimolanti approvati per l'ADHD, come l'atomoxetina. Questo rende plausibile un legame con il controllo dei sintomi dell'ADHD. Uno studio PET (2014) ha inoltre mostrato un'occupazione del trasportatore NET da parte della nortriptilina in pazienti con depressione.
 
@@ -140,13 +140,14 @@ Esiste un razionale noradrenergico plausibile e qualche studio controllato in et
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In Italia inoltre non ci sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che le autorizzazioni risultano annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb) |
 
 <!-- review:end log -->
 

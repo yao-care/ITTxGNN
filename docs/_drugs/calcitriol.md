@@ -54,7 +54,7 @@ Il calcitriolo è la forma attiva della vitamina D (1,25-diidrossivitamina D3) e
 
 ## Perché questa previsione è plausibile?
 
-Non sono disponibili dati dettagliati sul meccanismo d'azione registrati per questo report. Il calcitriolo è comunque il metabolita attivo della vitamina D: sul piano biologico un legame con la carenza di vitamina D è plausibile, perché il farmaco fornisce direttamente l'ormone attivo.
+Secondo la sezione «Clinical Pharmacology» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Calcitriol (traduzione non ufficiale): «La sintesi e il catabolismo endogeni del calcitriolo, nonché i meccanismi di controllo fisiologici che influenzano questi processi, svolgono un ruolo critico nella regolazione del livello sierico di calcitriolo. La produzione fisiologica giornaliera è normalmente compresa tra 0,5 e 1,0 mcg ed è leggermente più elevata durante i periodi di aumentata sintesi ossea (ad es., crescita o gravidanza).» Testo originale in inglese: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), versione del 2026-10-15; consultato il 2026-11-19). Il calcitriolo è comunque il metabolita attivo della vitamina D: sul piano biologico un legame con la carenza di vitamina D è plausibile, perché il farmaco fornisce direttamente l'ormone attivo.
 
 Occorre però cautela. Il termine di malattia previsto è obsoleto e non ha studi collegati. Poiché il calcitriolo è già impiegato in disturbi del metabolismo della vitamina D e minerale (per esempio osteodistrofia renale e ipoparatiroidismo), l'alto punteggio è probabilmente un artefatto terminologico più che un vero candidato al riposizionamento.
 
@@ -96,6 +96,19 @@ La previsione riguarda un termine di malattia obsoleto, senza studi clinici né 
 - Dati sul meccanismo d'azione
 - Estrazione e analisi del foglio illustrativo AIFA per avvertenze e controindicazioni
 - Ricerca di sperimentazioni e letteratura sulla condizione moderna corrispondente
+
+<!-- review:begin log -->
+
+## Registro delle verifiche
+
+Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+
+| Data di verifica | Voce | Intervento | Fonte |
+|------|------|------|------|
+| 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## Avvertenza
 
 Questo contenuto è solo a scopo di ricerca e non costituisce un parere medico.
