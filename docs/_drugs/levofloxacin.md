@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5)."

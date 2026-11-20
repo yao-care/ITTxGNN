@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"

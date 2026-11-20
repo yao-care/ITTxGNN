@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "FOSINOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Fosinopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"

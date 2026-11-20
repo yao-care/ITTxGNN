@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Metoprolol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
 ---
 

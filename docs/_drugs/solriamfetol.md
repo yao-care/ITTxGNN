@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 409
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L2)."

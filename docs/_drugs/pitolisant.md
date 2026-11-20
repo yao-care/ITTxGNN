@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"

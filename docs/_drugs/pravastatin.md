@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20"

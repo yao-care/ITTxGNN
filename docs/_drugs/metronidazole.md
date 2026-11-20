@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 description: "Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"

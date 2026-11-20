@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "OMALIZUMAB"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 323
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

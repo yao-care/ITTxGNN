@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 

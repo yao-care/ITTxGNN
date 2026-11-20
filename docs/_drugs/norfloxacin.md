@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"

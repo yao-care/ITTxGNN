@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 285
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (thrombocytopenia due to immune destruction) (livello di evidenza L4). Indicazione originale: Non riportata nei dat…"

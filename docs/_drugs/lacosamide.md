@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 252
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20"

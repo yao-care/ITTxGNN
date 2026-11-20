@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
 description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 20)"

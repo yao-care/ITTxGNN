@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

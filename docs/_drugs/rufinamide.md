@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"

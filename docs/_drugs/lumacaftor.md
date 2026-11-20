@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "lumacaftor"
 predicted_indications: ["leprosy"]
 description: "Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"

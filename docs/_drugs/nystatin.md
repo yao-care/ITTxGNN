@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: nuova indicazione prevista, Malattia della regione orbitale (disease of orbital region) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"

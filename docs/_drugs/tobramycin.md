@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 439
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). In Italia, confezioni AIFA: 9 (autorizzate: 6)"

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "ELETRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
 description: "Eletriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"

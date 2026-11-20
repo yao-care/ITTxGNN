@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Phenytoin: nuova indicazione prevista, Neoplasia del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"

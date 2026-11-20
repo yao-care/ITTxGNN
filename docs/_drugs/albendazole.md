@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Albendazole: nuova indicazione prevista, Cenurosi (coenurosis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 

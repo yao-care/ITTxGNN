@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"

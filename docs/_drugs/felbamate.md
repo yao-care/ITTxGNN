@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

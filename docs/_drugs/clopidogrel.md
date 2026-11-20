@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Clopidogrel: nuova indicazione prevista, Emicrania con aura del tronco encefalico (migraine with brainstem aura) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 

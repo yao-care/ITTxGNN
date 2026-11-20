@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

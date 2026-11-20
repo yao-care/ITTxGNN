@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 364
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 7)"

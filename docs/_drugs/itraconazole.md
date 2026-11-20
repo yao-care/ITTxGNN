@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 247
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). In Italia, confezioni AIFA: 10 (autorizzate: 10)"

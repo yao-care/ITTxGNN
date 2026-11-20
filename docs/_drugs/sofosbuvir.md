@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 408
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). In Italia, confezioni AIFA: 5 (autorizzate: 5)"

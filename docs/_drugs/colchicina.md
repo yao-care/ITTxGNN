@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01394
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Colchicina: nuova indicazione prevista, Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 

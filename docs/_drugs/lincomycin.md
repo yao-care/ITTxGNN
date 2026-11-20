@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "lincomycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

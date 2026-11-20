@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "FLUTICASONE"
 drugbank_id: DB13867
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]

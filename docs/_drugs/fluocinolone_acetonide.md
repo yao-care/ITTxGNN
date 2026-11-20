@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
 description: "Fluocinolone Acetonide: nuova indicazione prevista, Lichen planus pemphigoides (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"

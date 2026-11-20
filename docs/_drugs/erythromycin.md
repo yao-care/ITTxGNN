@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 description: "Erythromycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5)."

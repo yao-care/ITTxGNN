@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Albutrepenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 

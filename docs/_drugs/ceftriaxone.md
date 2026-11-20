@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 

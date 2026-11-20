@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 description: "Bexarotene: nuova indicazione prevista, Linfoma cutaneo primario a cellule B (primary cutaneous B-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"

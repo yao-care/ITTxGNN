@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 417
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). In Italia, confezioni AIFA: almeno 20"
