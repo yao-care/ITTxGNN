@@ -17220,9 +17220,9 @@
    "drug": "vinorelbine",
    "file": "vinorelbine.md",
    "action": "mechanism",
-   "claim": "I dati dettagliati sul meccanismo d'azione non sono presenti nei dati compilati per questo report.",
-   "replacement": "Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Vinorelbine (traduzione non ufficiale): «Vinorelbina è un alcaloide della vinca che interferisce con l'assemblaggio dei microtubuli. Si ritiene che l'attività antitumorale di vinorelbina sia dovuta principalmente all'inibizione della mitosi in metafase mediante la sua interazione con la tubulina. Vinorelbina può inoltre interferire con: 1) il metabolismo degli amminoacidi, dell'AMP ciclico e del glutatione, 2) l'attività dell'ATPasi di trasporto del Ca++ calmodulina-dipendente, 3) la respirazione cellulare e 4) la biosintesi degli acidi nucleici e dei lipidi.» Testo originale in inglese: \"Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.\" ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), versione del 2024-08-16; consultato il 2026-11-19).",
-   "summary": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
+   "claim": "I dati dettagliati sul meccanismo d'azione non sono presenti nei dati compilati per questo report. Questa descrizione si basa sulla classe farmacologica e sulle valutazioni mccanicistiche riportate nella letteratura.",
+   "replacement": "Questa descrizione si basa sulla classe farmacologica e sulle valutazioni mccanicistiche riportate nella letteratura. Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Vinorelbine (traduzione non ufficiale): «Vinorelbina è un alcaloide della vinca che interferisce con l'assemblaggio dei microtubuli. Si ritiene che l'attività antitumorale di vinorelbina sia dovuta principalmente all'inibizione della mitosi in metafase mediante la sua interazione con la tubulina. Vinorelbina può inoltre interferire con: 1) il metabolismo degli amminoacidi, dell'AMP ciclico e del glutatione, 2) l'attività dell'ATPasi di trasporto del Ca++ calmodulina-dipendente, 3) la respirazione cellulare e 4) la biosintesi degli acidi nucleici e dei lipidi.» Testo originale in inglese: \"Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.\" ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), versione del 2024-08-16; consultato il 2026-11-19).",
+   "summary": "\"I dati dettagliati sul meccanismo d'azione non sono presenti nei dati compilati per questo report. Questa descrizione si basa sulla classe farmacologica e sulle valutazioni mccanicistiche riportate nella letteratura\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -17239,8 +17239,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "it-moa-20261119-vinorelbine-1",
+     "drug": "vinorelbine",
+     "file": "vinorelbine.md",
+     "action": "mechanism",
+     "claim": "I dati dettagliati sul meccanismo d'azione non sono presenti nei dati compilati per questo report.",
+     "replacement": "Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Vinorelbine (traduzione non ufficiale): «Vinorelbina è un alcaloide della vinca che interferisce con l'assemblaggio dei microtubuli. Si ritiene che l'attività antitumorale di vinorelbina sia dovuta principalmente all'inibizione della mitosi in metafase mediante la sua interazione con la tubulina. Vinorelbina può inoltre interferire con: 1) il metabolismo degli amminoacidi, dell'AMP ciclico e del glutatione, 2) l'attività dell'ATPasi di trasporto del Ca++ calmodulina-dipendente, 3) la respirazione cellulare e 4) la biosintesi degli acidi nucleici e dei lipidi.» Testo originale in inglese: \"Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.\" ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), versione del 2024-08-16; consultato il 2026-11-19).",
+     "summary": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397",
+       "accessed": "2026-11-19",
+       "excerpt": "Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.",
+       "label_version": "2024-08-16",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "10a70995-e04d-4044-b1dc-c9aa27460397",
+       "translation": "Vinorelbina è un alcaloide della vinca che interferisce con l'assemblaggio dei microtubuli. Si ritiene che l'attività antitumorale di vinorelbina sia dovuta principalmente all'inibizione della mitosi in metafase mediante la sua interazione con la tubulina. Vinorelbina può inoltre interferire con: 1) il metabolismo degli amminoacidi, dell'AMP ciclico e del glutatione, 2) l'attività dell'ATPasi di trasporto del Ca++ calmodulina-dipendente, 3) la respirazione cellulare e 4) la biosintesi degli acidi nucleici e dei lipidi.",
+       "translation_lang": "it",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "it-moa-20261119-voxilaprevir-1",
