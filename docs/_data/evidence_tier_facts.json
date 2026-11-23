@@ -770,17 +770,6 @@
     "x": 0
    },
    {
-    "t": "Ceftriaxone",
-    "u": "/drugs/ceftriaxone/",
-    "l": "L5",
-    "i": "Sindrome da iperviscosità policlonale",
-    "lt": 0,
-    "lv": 20,
-    "r": 1,
-    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
-    "x": 0
-   },
-   {
     "t": "Cholecalciferol",
     "u": "/drugs/cholecalciferol/",
     "l": "L5",
@@ -1328,6 +1317,17 @@
     "lv": 19,
     "r": 0,
     "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Ceftriaxone",
+    "u": "/drugs/ceftriaxone/",
+    "l": "L5",
+    "i": "Sindrome da iperviscosità policlonale",
+    "lt": 0,
+    "lv": 19,
+    "r": 1,
+    "rs": "Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense",
     "x": 0
    },
    {
