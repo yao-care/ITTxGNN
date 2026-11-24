@@ -58,7 +58,13 @@ L'insulina glulisina è un analogo ad azione rapida dell'insulina umana. Attiva 
 
 Il diabete di tipo 1 rientra già nell'indicazione principale del farmaco (diabete mellito). La predizione quindi conferma l'uso esistente. Gli studi del programma Apidra, di fase 3 e 4, sostengono efficacia e sicurezza in questa popolazione, anche in bambini e adolescenti e con infusione sottocutanea continua (CSII).
 
-Va ricordato che lo stato di mercato è «solo revocate»: prima di agire su qualsiasi raccomandazione occorre verificare la reale disponibilità del prodotto.
+Prima di agire su qualsiasi raccomandazione occorre verificare la reale disponibilità del prodotto.
+
+<!-- review:begin it-lic-20261124b-insulin_glulisine-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Va ricordato che lo stato di mercato è «solo revocate»: prima di agire su qualsiasi raccomandazione occorre verificare la reale disponibilità del prodotto.» Corretto: lo stato di mercato indicato non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo l'affermazione sullo stato, il resto della frase è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-insulin_glulisine-1 -->
 
 ## Evidenze dagli studi clinici
 
@@ -155,6 +161,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-24 | Rimosso: «Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-24 | Rimosso: «(autorizzazioni revocate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

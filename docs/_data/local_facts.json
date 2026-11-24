@@ -21,12 +21,12 @@
   "items_current": 1822
  },
  "reviews": {
-  "records": 772,
+  "records": 780,
   "pages": 346,
   "public_pages_with_records": 341,
   "by_action": {
    "annotate": 3,
-   "correct": 529,
+   "correct": 537,
    "mechanism": 240
   }
  },
@@ -50,7 +50,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 2,
+   "r": 3,
    "i": "Neurodegenerazione associata a PLA2G6"
   },
   {
@@ -196,6 +196,54 @@
  },
  "recent_reviews": [
   {
+   "t": "Topiramate",
+   "u": "/drugs/topiramate/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Rosuvastatin",
+   "u": "/drugs/rosuvastatin/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Rivaroxaban",
+   "u": "/drugs/rivaroxaban/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Rasagiline",
+   "u": "/drugs/rasagiline/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Paliperidone",
+   "u": "/drugs/paliperidone/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Glulisine",
+   "u": "/drugs/insulin-glulisine/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Detemir",
+   "u": "/drugs/insulin-detemir/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Aspart",
+   "u": "/drugs/insulin-aspart/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Silodosin",
    "u": "/drugs/silodosin/",
    "s": "Le altre confezioni di silodosina risultano autorizzate",
@@ -290,102 +338,54 @@
    "u": "/drugs/doxazosina/",
    "s": "«almeno 20 autorizzazioni…, tutte valide» → 2 delle 20 raccolte non più autorizzate",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Abacavir",
-   "u": "/drugs/abacavir/",
-   "s": "«Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Zuclopenthixol",
-   "u": "/drugs/zuclopenthixol/",
-   "s": "Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata»",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Zolmitriptan",
-   "u": "/drugs/zolmitriptan/",
-   "s": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Warfarin",
-   "u": "/drugs/warfarin/",
-   "s": "Rimosso: «dato che l'autorizzazione è revocata»",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Voxilaprevir",
-   "u": "/drugs/voxilaprevir/",
-   "s": "Rimosso: «e l'unica autorizzazione italiana è cancellata»",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Vinorelbine",
-   "u": "/drugs/vinorelbine/",
-   "s": "Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Vildagliptin",
-   "u": "/drugs/vildagliptin/",
-   "s": "Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Verapamil",
-   "u": "/drugs/verapamil/",
-   "s": "Rimosso: «(autorizzazioni tutte cancellate)»",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Silodosin",
-   "u": "/drugs/silodosin/",
-   "s": "Le altre confezioni di silodosina risultano autorizzate",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Salmeterol",
-   "u": "/drugs/salmeterol/",
-   "s": "Tabella: la frase «solo prodotti a singolo principio attivo» non vale per la nuova tabella",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Reboxetine",
-   "u": "/drugs/reboxetine/",
+   "t": "Topiramate",
+   "u": "/drugs/topiramate/",
    "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
    "d": "2026-11-24"
   },
   {
-   "t": "Piroxicam",
-   "u": "/drugs/piroxicam/",
+   "t": "Rosuvastatin",
+   "u": "/drugs/rosuvastatin/",
    "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
    "d": "2026-11-24"
   },
   {
-   "t": "Nebivolol",
-   "u": "/drugs/nebivolol/",
-   "s": "Nebiscon e Nobistar risultano autorizzate",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Midazolam",
-   "u": "/drugs/midazolam/",
-   "s": "Le confezioni BUCCOLAM risultano autorizzate, non cancellate",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Irbesartan",
-   "u": "/drugs/irbesartan/",
+   "t": "Rivaroxaban",
+   "u": "/drugs/rivaroxaban/",
    "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
    "d": "2026-11-24"
   },
   {
-   "t": "Insulin Degludec",
-   "u": "/drugs/insulin-degludec/",
+   "t": "Rasagiline",
+   "u": "/drugs/rasagiline/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Paliperidone",
+   "u": "/drugs/paliperidone/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Glulisine",
+   "u": "/drugs/insulin-glulisine/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Detemir",
+   "u": "/drugs/insulin-detemir/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Aspart",
+   "u": "/drugs/insulin-aspart/",
    "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
    "d": "2026-11-24"
   }

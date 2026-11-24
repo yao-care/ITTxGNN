@@ -124,7 +124,7 @@ C = _json.loads(r"""{
   "intro": "Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.",
   "intro_header": "Di seguito il registro delle verifiche di questa pagina; il livello di evidenza dell'intestazione segue la panoramica rapida. Le previsioni del modello, la tabella riepilogativa e le conclusioni non sono state riscritte.",
   "intro_rr": "Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base e il testo della previsione non è stato riscritto; livelli di evidenza e decisioni sono stati modificati solo da un esito di revisione (declassamento, innalzamento o ritiro), con i valori originali qui sotto.",
-  "figures": "Nei dati (AIFA, elenco delle confezioni autorizzate) risultano {total} autorizzazioni per questo farmaco, di cui {valid} valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+  "figures": "I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
   "data_as_of": "AIFA, elenco delle confezioni autorizzate, al {date}",
   "notes": {
    "rewrite": "Corretto: l'affermazione non corrispondeva ai dati delle autorizzazioni ({d}) ed è stata sostituita dal testo attuale.",

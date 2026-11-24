@@ -159,8 +159,14 @@ I dati contengono solo una parte delle autorizzazioni; l'elenco può essere inco
 - Verifica del razionale biologico tra l'azione del topiramato e i tumori del nervo trigemino, tramite studi preclinici.
 - Acquisizione delle avvertenze e controindicazioni dal foglietto illustrativo AIFA (informazione di sicurezza attualmente mancante e bloccante).
 - Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank.
-- Chiarimento dello stato regolatorio (autorizzazioni cancellate) e dell'eventuale disponibilità commerciale del farmaco.
+- Chiarimento dello stato regolatorio e dell'eventuale disponibilità commerciale del farmaco.
 - In alternativa, valutare come domande di ricerca le forme di epilessia riflessa (ad esempio epilessia visiva, crisi da pensiero, crisi audiogeniche), più coerenti con il meccanismo, ma con prove ancora solo indirette (livello L4).
+
+<!-- review:begin it-lic-20261124b-topiramate-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate) e dell'eventuale disponibilità commerciale del farmaco.» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-topiramate-1 -->
 
 <!-- review:begin log -->
 
@@ -173,6 +179,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Il farmaco non ha attualmente autorizzazioni valide in Italia (tutte e 20 cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

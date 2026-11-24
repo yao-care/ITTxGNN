@@ -125,18 +125,25 @@ Le informazioni dal foglietto illustrativo AIFA (avvertenze e controindicazioni)
 - Acquisire il foglietto illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza.
 - Ottenere i dati sul meccanismo d'azione da DrugBank.
 - Disporre di studi randomizzati di fase 2/3 con paliperidone nella schizofrenia resistente, confrontato con la clozapina.
-- Verificare lo stato regolatorio e la disponibilità commerciale in Italia dopo la revoca delle autorizzazioni.
+- Verificare lo stato regolatorio e la disponibilità commerciale in Italia.
 - Valutare il profilo di sicurezza cardiovascolare (rischio di QT lungo) e metabolico in questa popolazione.
+
+<!-- review:begin it-lic-20261124b-paliperidone-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verificare lo stato regolatorio e la disponibilità commerciale in Italia dopo la revoca delle autorizzazioni.» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-paliperidone-1 -->
 
 <!-- review:begin log -->
 
 ## Registro delle verifiche
 
-Di seguito il registro delle verifiche di questa pagina. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale); le predizioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti.
+Di seguito il registro delle verifiche di questa pagina: affermazioni controllate sui dati ufficiali delle autorizzazioni (AIFA, elenco delle confezioni autorizzate). Le correzioni riguardano solo dati di base; le previsioni del modello, i livelli di evidenza e le conclusioni non sono stati riscritti. La frase secondo cui non erano disponibili dati sul meccanismo d'azione è stata sostituita da un estratto delle informazioni di prescrizione ufficiali citate (con traduzione non ufficiale).
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

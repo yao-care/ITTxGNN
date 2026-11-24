@@ -1251,7 +1251,7 @@
    "action": "correct",
    "claim": "- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA; 0 licenze è inaspettato per un composto di questa classe",
    "replacement": "- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA",
-   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -1265,7 +1265,34 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-16",
-   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+   "history": [
+    {
+     "id": "it-lic-20261106-clorpromazina-1",
+     "drug": "clorpromazina",
+     "file": "clorpromazina.md",
+     "action": "correct",
+     "claim": "- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA; 0 licenze è inaspettato per un composto di questa classe",
+     "replacement": "- **Verifica del Mercato Italiano** — Confermare se Clorpromazina possiede autorizzazioni AIFA",
+     "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «0 licenze è inaspettato per un composto di questa classe»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-11-16",
+     "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明不寫死張數）"
+    }
+   ]
   },
   {
    "id": "it-lic-20261106-clothiapine-1",
@@ -1455,7 +1482,7 @@
    "action": "correct",
    "claim": "Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro. Licenze totali nel record: **0**.",
    "replacement": "Licenze totali nel record: **0**.",
-   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -1469,7 +1496,34 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-16",
-   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+   "history": [
+    {
+     "id": "it-lic-20261106-colchicina-1",
+     "drug": "colchicina",
+     "file": "colchicina.md",
+     "action": "correct",
+     "claim": "Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro. Licenze totali nel record: **0**.",
+     "replacement": "Licenze totali nel record: **0**.",
+     "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «Nessuna autorizzazione di commercializzazione è stata restituita dalla query del registro»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-11-16",
+     "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明不寫死張數）"
+    }
+   ]
   },
   {
    "id": "it-lic-20261106-colchicina-2",
@@ -1478,7 +1532,7 @@
    "action": "correct",
    "claim": "\"Colchicina Houde\" o altri nomi di marchio conosciuti), poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato",
    "replacement": "\"Colchicina Houde\" o altri nomi di marchio conosciuti)",
-   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -1492,7 +1546,34 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-16",
-   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+   "history": [
+    {
+     "id": "it-lic-20261106-colchicina-2",
+     "drug": "colchicina",
+     "file": "colchicina.md",
+     "action": "correct",
+     "claim": "\"Colchicina Houde\" o altri nomi di marchio conosciuti), poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato",
+     "replacement": "\"Colchicina Houde\" o altri nomi di marchio conosciuti)",
+     "note": "Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Rimosso: «poiché il risultato di 0 licenze attuali può riflettere una limitazione dell'ambito della query piuttosto che una vera assenza di mercato»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dfe5baa8（2026-11-06）",
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-11-16",
+     "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明不寫死張數）"
+    }
+   ]
   },
   {
    "id": "it-lic-20261106-colchicine-1",
@@ -19181,7 +19262,7 @@
    "action": "correct",
    "claim": "Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile. Si tratta però di sovrapposizione con l'indicazione già approvata e non di un riposizionamento nuovo, e lo stato regolatorio in Italia (solo autorizzazioni revocate) va chiarito.",
    "replacement": "Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile.",
-   "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+   "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -19195,7 +19276,34 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：59dcf297（2026-10-31）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-12",
-   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione"
+   "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+   "history": [
+    {
+     "id": "it-lic-20261031-vortioxetine-1",
+     "drug": "vortioxetine",
+     "file": "vortioxetine.md",
+     "action": "correct",
+     "claim": "Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile. Si tratta però di sovrapposizione con l'indicazione già approvata e non di un riposizionamento nuovo, e lo stato regolatorio in Italia (solo autorizzazioni revocate) va chiarito.",
+     "replacement": "Quattro RCT di Fase 3 o Fase 2/3 controllati con placebo e due estensioni a lungo termine supportano efficacia e sicurezza nella depressione maggiore, a cui la melanconia è riconducibile.",
+     "note": "Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "AIFA – Elenco confezioni (open data)",
+       "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "Rimosso: «Si tratta però di sovrapposizione con l'indicazione già approvata e non di un riposizionamento nuovo, e lo stato regolatorio in Italia (solo»",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：59dcf297（2026-10-31）",
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-11-12",
+     "resolved_note": "il rapporto è stato rigenerato a novembre 2026 e non contiene più questa affermazione",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明不寫死張數）"
+    }
+   ]
   },
   {
    "id": "it-lic-20261106-voxilaprevir-1",
@@ -27167,6 +27275,166 @@
    "checked": "2026-11-24",
    "summary": "Nebiscon e Nobistar risultano autorizzate",
    "method": "2026-11-24 獨立寬偵測逐句對照事實層"
+  },
+  {
+   "id": "it-lic-20261124b-insulin_aspart-1",
+   "drug": "insulin_aspart",
+   "file": "insulin_aspart.md",
+   "action": "correct",
+   "claim": "Lo stato di mercato \"solo cancellate\" impone di verificare la disponibilità attuale dei prodotti e delle formulazioni equivalenti di aspart.",
+   "replacement": "È comunque opportuno verificare la disponibilità attuale dei prodotti e delle formulazioni equivalenti di aspart.",
+   "note": "Corretto: lo stato di mercato indicato non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo l'affermazione sullo stato, il resto della frase è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-insulin_glulisine-1",
+   "drug": "insulin_glulisine",
+   "file": "insulin_glulisine.md",
+   "action": "correct",
+   "claim": "Va ricordato che lo stato di mercato è «solo revocate»: prima di agire su qualsiasi raccomandazione occorre verificare la reale disponibilità del prodotto.",
+   "replacement": "Prima di agire su qualsiasi raccomandazione occorre verificare la reale disponibilità del prodotto.",
+   "note": "Corretto: lo stato di mercato indicato non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo l'affermazione sullo stato, il resto della frase è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-paliperidone-1",
+   "drug": "paliperidone",
+   "file": "paliperidone.md",
+   "action": "correct",
+   "claim": "- Verificare lo stato regolatorio e la disponibilità commerciale in Italia dopo la revoca delle autorizzazioni.",
+   "replacement": "- Verificare lo stato regolatorio e la disponibilità commerciale in Italia.",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-rasagiline-1",
+   "drug": "rasagiline",
+   "file": "rasagiline.md",
+   "action": "correct",
+   "claim": "- La verifica della possibilità pratica di ottenere il farmaco, dato lo stato di mercato \"solo cancellate\"",
+   "replacement": "- La verifica della possibilità pratica di ottenere il farmaco",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-rivaroxaban-1",
+   "drug": "rivaroxaban",
+   "file": "rivaroxaban.md",
+   "action": "correct",
+   "claim": "- Chiarire l'indicazione originale e lo stato regolatorio attuale (autorizzazioni cancellate)",
+   "replacement": "- Chiarire l'indicazione originale e lo stato regolatorio attuale",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-rosuvastatin-1",
+   "drug": "rosuvastatin",
+   "file": "rosuvastatin.md",
+   "action": "correct",
+   "claim": "- Verifica dello stato regolatorio effettivo in Italia (autorizzazioni cancellate) e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni",
+   "replacement": "- Verifica dello stato regolatorio effettivo in Italia e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-topiramate-1",
+   "drug": "topiramate",
+   "file": "topiramate.md",
+   "action": "correct",
+   "claim": "- Chiarimento dello stato regolatorio (autorizzazioni cancellate) e dell'eventuale disponibilità commerciale del farmaco.",
+   "replacement": "- Chiarimento dello stato regolatorio e dell'eventuale disponibilità commerciale del farmaco.",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
+  },
+  {
+   "id": "it-lic-20261124b-insulin_detemir-1",
+   "drug": "insulin_detemir",
+   "file": "insulin_detemir.md",
+   "action": "correct",
+   "claim": "- Verifica della disponibilità e della fornitura del prodotto in Italia, data la revoca dell'unica autorizzazione.",
+   "replacement": "- Verifica della disponibilità e della fornitura del prodotto in Italia.",
+   "note": "Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato.",
+   "finding": "2026-11-24 第二輪寬偵測（待辦／結論句以「許可已撤銷／只剩註銷」為前提）：事實層與證據包為有效，只拿掉錯的前提（同 it-lic-20261124-fluorouracil-1）",
+   "sources": [
+    {
+     "title": "AIFA – Elenco confezioni (open data)",
+     "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "method": "2026-11-24 第二輪獨立寬偵測逐句對照快照事實層與證據包（用戶決定）"
   }
  ]
 }

@@ -160,9 +160,15 @@ Il punteggio TxGNN è molto alto, ma non vi sono studi clinici né letteratura c
 **Per procedere è necessario:**
 - Scaricare e analizzare il foglietto illustrativo AIFA per avvertenze e controindicazioni
 - Ottenere i dati sul meccanismo d'azione (ad esempio da DrugBank)
-- Chiarire l'indicazione originale e lo stato regolatorio attuale (autorizzazioni cancellate)
+- Chiarire l'indicazione originale e lo stato regolatorio attuale
 - Raccogliere evidenze precliniche o cliniche dirette sul ruolo del fattore Xa/trombina nell'artrite reumatoide
 - Valutare, se pertinente, un'ipotesi limitata alla tromboprofilassi nei pazienti con artrite reumatoide
+
+<!-- review:begin it-lic-20261124b-rivaroxaban-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire l'indicazione originale e lo stato regolatorio attuale (autorizzazioni cancellate)» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-rivaroxaban-1 -->
 
 **Nota sulle altre indicazioni predette:** gotta (99,5%), infezione da HIV (99,2%) e sindrome brachidattilia-sindattilia (99,1%) presentano ugualmente evidenza L5 o L4 e raccomandazione Hold. Per l'HIV la letteratura riguarda solo la gestione dell'anticoagulazione e le interazioni con gli antiretrovirali potenziati (ritonavir/cobicistat), non un effetto antivirale. L'unico studio (NCT00786422) è una coorte di fase 2 sulla trombosi venosa profonda, non uno studio sull'HIV.
 
@@ -177,6 +183,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ne è presente alcuna valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono disponibili» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

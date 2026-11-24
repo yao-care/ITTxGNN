@@ -147,7 +147,13 @@ La predizione si basa solo sul modello (livello L5): non ci sono studi clinici n
 - Dati sul meccanismo d'azione (MOA) da DrugBank
 - Avvertenze e controindicazioni ufficiali dal foglietto illustrativo AIFA
 - Una revisione della letteratura mirata su rasagilina e neurodegenerazione associata a PLA2G6 (in particolare distonia-parkinsonismo ad esordio adulto)
-- La verifica della possibilità pratica di ottenere il farmaco, dato lo stato di mercato "solo cancellate"
+- La verifica della possibilità pratica di ottenere il farmaco
+
+<!-- review:begin it-lic-20261124b-rasagiline-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La verifica della possibilità pratica di ottenere il farmaco, dato lo stato di mercato "solo cancellate"» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-rasagiline-1 -->
 
 <!-- review:begin log -->
 
@@ -159,6 +165,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -170,10 +170,16 @@ Numerosi studi di fase 3 completati, anche pediatrici, supportano efficacia e si
 <!-- review:end it-lic-20261106-rosuvastatin-2 -->
 
 **Per procedere sono necessari:**
-- Verifica dello stato regolatorio effettivo in Italia (autorizzazioni cancellate) e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni
+- Verifica dello stato regolatorio effettivo in Italia e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni
 - Dati dettagliati sul meccanismo d'azione dal database dedicato
 - Piano di monitoraggio della sicurezza: miopatia, enzimi epatici, funzione renale, con aggiustamento della dose nelle popolazioni a rischio
 - Definizione del dosaggio e del follow-up a lungo termine in ambito pediatrico
+
+<!-- review:begin it-lic-20261124b-rosuvastatin-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio effettivo in Italia (autorizzazioni cancellate) e recupero del foglio illustrativo AIFA con avvertenze e controindicazioni» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-rosuvastatin-1 -->
 
 <!-- review:begin log -->
 
@@ -186,6 +192,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

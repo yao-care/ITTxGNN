@@ -140,11 +140,17 @@ Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revi
 <!-- review:end it-lic-20261031-insulin_detemir-1 -->
 
 **Per procedere sono necessari:**
-- Verifica della disponibilità e della fornitura del prodotto in Italia, data la revoca dell'unica autorizzazione.
+- Verifica della disponibilità e della fornitura del prodotto in Italia.
 - Foglio illustrativo AIFA con avvertenze e controindicazioni, per completare la valutazione di sicurezza.
 - Dati dettagliati sul meccanismo d'azione (MOA) da DrugBank.
 - Piano di monitoraggio dell'ipoglicemia e gestione delle numerose interazioni farmacologiche.
 - Per le indicazioni previste diverse dal diabete di tipo 1, nuove evidenze cliniche prima di qualsiasi valutazione. L'agenesia pancreatica è l'unica con una logica terapeutica plausibile.
+
+<!-- review:begin it-lic-20261124b-insulin_detemir-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità e della fornitura del prodotto in Italia, data la revoca dell'unica autorizzazione.» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-insulin_detemir-1 -->
 
 <!-- review:begin log -->
 
@@ -157,6 +163,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-24 | Rimosso: «Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazion» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-24 | Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

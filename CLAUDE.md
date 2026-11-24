@@ -118,3 +118,8 @@ dbXXXXX 轉址頁原本指到被轉址頁的 8 頁（db00381、db00476、db00477
   剩 30 句：partial 頁的「(almeno) 20 autorizzazioni …; l'elenco può essere parziale」20 句（跟收到的紀錄一致、有保留）、本次改寫的不寫數字更正 4 句、描述「表上列出的許可」狀態或劑型且仍成立 6 句（列進待查清單）。
   checker 全量前後 0；gate exit 0。last_modified_at：改到的 438 頁改 2026-11-24。
 - 母目錄 `.claude/license_labels/ITTxGNN.json` 目前只有「Valida」；程式表會寫「Autorizzata」（valid）、「Non più autorizzata」（cancelled），之後可能有「Sospesa」「Revocata」，要在母目錄補（本站不改）。
+- 2026-11-24 第二輪（用戶決定，處理第一輪列待查的事）：待查清單 6 句（adrenalina、amiodarone、cortisone、clozapina、levofloxacin×2，講「表上列出的許可」狀態或劑型）逐句對照證據包與快照事實層全部成立，標 resolved、頁面不改；
+  文字數詞句（Entrambe／Tutte e N／Le due／unica…）全站掃 133 句（含 partial 頁的程式說明句），跟事實層、程式表的張數、持有人、單方說法都相符，0 句要改；
+  另以「revoca／cancellate／solo revocate」等前提字樣全量掃，8 句待辦或結論句以「許可已撤銷／只剩註銷」為前提而事實全部有效（insulin_aspart、insulin_detemir、insulin_glulisine、paliperidone、rasagiline、rivaroxaban、rosuvastatin、topiramate），
+  以 `it-lic-20261124b-*` 只拿掉錯的前提；劑型全稱說法（「unici prodotti … cerotti」「Tutti i prodotti sono colliri」等）18 句對照證據包全部品項都成立，不改。
+  site_config `T["figures"]` 改成不寫數字；說明裡仍寫死張數的 4 筆 resolved_by_regeneration 紀錄（clorpromazina、colchicina×2、vortioxetine）同 id 重發、前版存 history。checker 全量 0、gate exit 0。

@@ -278,67 +278,79 @@
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "adrenalina",
    "file": "adrenalina.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tutte le autorizzazioni elencate sono valide e relative a prodotti a singolo principio attivo.",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪逐句對照快照事實層與證據包：4 張全部 Autorizzata，品名皆為 ADRENALINA 單方，句子成立，不改頁面。",
+   "resolved": "2026-11-24"
   },
   {
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "amiodarone",
    "file": "amiodarone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Le autorizzazioni elencate sono tutte valide; il testo dell'indicazione approvata non è riportato nei dati locali.",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪：證據包完整收錄 8 張，全部 Autorizzata；適應症文字證據包本來就沒有，句子成立，不改頁面。",
+   "resolved": "2026-11-24"
   },
   {
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "cortisone",
    "file": "cortisone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Lo stato di mercato in Italia è \"In commercio\": l'autorizzazione elencata risulta valida.",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪：證據包唯一 1 張 CORTONE ACETATO 004561015 為 Autorizzata，句子成立，不改頁面。",
+   "resolved": "2026-11-24"
   },
   {
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "clozapina",
    "file": "clozapina.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tutte le autorizzazioni registrate sono valide.",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪：證據包完整收錄 14 張，全部 Autorizzata，句子成立，不改頁面。",
+   "resolved": "2026-11-24"
   },
   {
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "levofloxacin",
    "file": "levofloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Per tutte le autorizzazioni elencate il testo dell'indicazione approvata non è registrato nei dati locali.",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪：證據包紀錄本來就沒有適應症文字，句子成立（且同段已註明清單為部分），不改頁面。",
+   "resolved": "2026-11-24"
   },
   {
    "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "levofloxacin",
    "file": "levofloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Verifica della compatibilità delle vie di somministrazione, poiché le autorizzazioni locali elencate sono compresse orali",
    "reason": "status-of-listed",
    "added": "2026-11-24",
    "record_ids": [],
-   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。",
+   "resolution": "2026-11-24 第二輪：程式表列出的 20 張（證據包收錄的全部紀錄）都是 cpr rivestite（口服錠），句子只講「列出的」許可，成立，不改頁面。",
+   "resolved": "2026-11-24"
   }
  ]
 }

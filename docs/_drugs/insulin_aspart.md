@@ -56,7 +56,13 @@ L'insulina aspart è un analogo dell'insulina ad azione rapida, utilizzato origi
 
 Secondo la sezione «Mechanism of Action» delle informazioni di prescrizione approvate dalla FDA statunitense (Prescribing Information) per Insulin Aspart (traduzione non ufficiale): «L'attività principale dell'insulina, incluso NOVOLOG MIX 70/30, è la regolazione del metabolismo del glucosio. L'insulina e il suo analogo abbassano la glicemia stimolando la captazione periferica del glucosio, in particolare da parte del muscolo scheletrico e del tessuto adiposo, e inibendo la produzione epatica di glucosio.» Testo originale in inglese: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), versione del 2026-05-18; consultato il 2026-11-19). In base alle informazioni note, l'insulina aspart è un analogo ad azione rapida dell'insulina umana: si lega al recettore dell'insulina e sostituisce l'insulina endogena mancante nel diabete di tipo 1.
 
-Il diabete di tipo 1 rientra nel diabete mellito, già indicazione originale del farmaco. La predizione è quindi coerente con il meccanismo noto e il punteggio elevato riflette un uso già stabilito, non una nuova scoperta. Lo stato di mercato "solo cancellate" impone di verificare la disponibilità attuale dei prodotti e delle formulazioni equivalenti di aspart.
+Il diabete di tipo 1 rientra nel diabete mellito, già indicazione originale del farmaco. La predizione è quindi coerente con il meccanismo noto e il punteggio elevato riflette un uso già stabilito, non una nuova scoperta. È comunque opportuno verificare la disponibilità attuale dei prodotti e delle formulazioni equivalenti di aspart.
+
+<!-- review:begin it-lic-20261124b-insulin_aspart-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Lo stato di mercato "solo cancellate" impone di verificare la disponibilità attuale dei prodotti e delle formulazioni equivalenti di aspart.» Corretto: lo stato di mercato indicato non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo l'affermazione sullo stato, il resto della frase è invariato. I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124b-insulin_aspart-1 -->
 
 Tra le altre predizioni, solo il diabete neonatale permanente e l'agenesia pancreatica hanno una logica meccanicistica (carenza assoluta di insulina), ma con evidenze minime o assenti. Le restanti (ad es. oofarite autoimmune, sindrome della persona rigida, lipodistrofie) non hanno un legame meccanicistico solido; per la lipodistrofia localizzata indotta da farmaci, l'insulina è più probabilmente una causa che una cura.
 
@@ -157,6 +163,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-24 | Rimosso: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 
