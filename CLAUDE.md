@@ -123,3 +123,10 @@ dbXXXXX 轉址頁原本指到被轉址頁的 8 頁（db00381、db00476、db00477
   另以「revoca／cancellate／solo revocate」等前提字樣全量掃，8 句待辦或結論句以「許可已撤銷／只剩註銷」為前提而事實全部有效（insulin_aspart、insulin_detemir、insulin_glulisine、paliperidone、rasagiline、rivaroxaban、rosuvastatin、topiramate），
   以 `it-lic-20261124b-*` 只拿掉錯的前提；劑型全稱說法（「unici prodotti … cerotti」「Tutti i prodotti sono colliri」等）18 句對照證據包全部品項都成立，不改。
   site_config `T["figures"]` 改成不寫數字；說明裡仍寫死張數的 4 筆 resolved_by_regeneration 紀錄（clorpromazina、colchicina×2、vortioxetine）同 id 重發、前版存 history。checker 全量 0、gate exit 0。
+
+## 缺市場段落的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有市場段落、證據包卻有許可證紀錄的，
+`scripts/sync_license_tables.py` 的 `add_section` 在安全性段之前（沒有就結論、查核紀錄、免責聲明段之前）補「## Informazioni sul mercato italiano」與程式表；noindex 頁、證據包沒有紀錄的頁不補。
+gate（licenses.py 的 page_problems 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；PAGE_NOTE 放行新標題行。
+2026-11-24 全量量測 2 頁（anastrozole、asenapine），補上；正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。

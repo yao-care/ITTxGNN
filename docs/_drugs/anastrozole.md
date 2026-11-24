@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole: nuova indicazione prevista, Neuroblastoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -65,6 +65,38 @@ Attualmente non risultano studi clinici correlati registrati.
 ## Evidenze dalla letteratura
 
 Attualmente non è disponibile letteratura correlata.
+
+## Informazioni sul mercato italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049435023 | ARIMIDEX\*28 cpr rivestite 1 mg | GMM FARMA Srl | Autorizzata |
+| 037952049 | ANASTROZOLO\*28 cpr rivestite 1 mg | MYLAN SpA | Autorizzata |
+| 038101034 | ANASTROZOLO\*28 cpr rivestite 1 mg | TEVA ITALIA Srl | Autorizzata |
+| 038924039 | ANASTROZOLO\*28 cpr rivestite 1 mg | SANDOZ SpA | Autorizzata |
+| 039897018 | GRISET\*28 cpr rivestite 1 mg | GENETIC SpA | Autorizzata |
+| 040195012 | ANASTROZOLO\*28 cpr rivestite 1 mg | SUN PHARMA FRANCE | Autorizzata |
+| 050394016 | ARIMIDEX\*28 cpr rivestite 1 mg | FARMA 1000 Srl | Autorizzata |
+| 040073013 | RENAZOLE\*28 cpr rivestite 1 mg | S.F. GROUP Srl | Autorizzata |
+| 037953041 | ANASTROZOLO\*28 cpr rivestite 1 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049569015 | ANASTROZOLO\*28 cpr rivestite 1 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 039793017 | ANASTROZOLO\*28 cpr rivestite 1 mg | DOC GENERICI Srl | Autorizzata |
+| 049435011 | ARIMIDEX\*28 cpr rivestite 1 mg | GMM FARMA Srl | Autorizzata |
+| 039896016 | RAOLOZ\*28 cpr rivestite 1 mg | IST.GENTILI Srl | Autorizzata |
+| 031809015 | ARIMIDEX\*28 cpr rivestite 1 mg | LAB.JUVISE' PHARMACEUTICALS | Autorizzata |
+| 040008043 | ANTABREST\*28 cpr rivestite 1 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 039547017 | ERISTROL\*28 cpr rivestite 1 mg | JUST PHARMA Srl | Autorizzata |
+| 039147020 | ANASTROZOLO\*28 cpr rivestite 1 mg | EG SpA | Autorizzata |
+| 039548019 | ANASTROZOLO\*28 cpr rivestite 1 mg | LABORATORI ALTER Srl | Autorizzata |
+| 039777014 | ADIUNASTROL\*28 cpr rivestite 1 mg | WAVE PHARMA Srl | Autorizzata |
+| 051417018 | ARIMIDEX\*28 cpr rivestite 1 mg | NEW PHARMASHOP Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

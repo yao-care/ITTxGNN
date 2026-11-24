@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Asenapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5). Indicazione originale: …"
 ---
 
@@ -65,6 +65,19 @@ Al momento non risultano studi clinici registrati correlati.
 ## Evidenze dalla letteratura
 
 Al momento non sono disponibili pubblicazioni correlate.
+
+## Informazioni sul mercato italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040761025 | SYCREST\*60 cpr sublinguali 5 mg | ORGANON N.V. | Autorizzata |
+| 040761052 | SYCREST\*60 cpr sublinguali 10 mg | ORGANON N.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

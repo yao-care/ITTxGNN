@@ -120,7 +120,8 @@ def update(rec, new):
 
 # 程式產生的許可證表（2026-11-24，用戶決定；scripts/sync_license_tables.py）：狀態有變或證據包有改的藥，表依新證據包重排。
 # 排程 3b 自我檢查只放行表格列；程式區塊裡會跟著變的非表格行（來源句、不列清單說明、部分收錄句、沒有紀錄句、區塊標記）列在 PAGE_NOTE。
-PAGE_NOTE = (r"^(Fonte: AIFA, elenco delle confezioni autorizzate \(open data\), stato amministrativo; confezioni autorizzate per prime\."
+# 2026-11-24 第三輪起含 add_section 補的市場段落標題。
+PAGE_NOTE = (r"^(## Informazioni sul mercato italiano|Fonte: AIFA, elenco delle confezioni autorizzate \(open data\), stato amministrativo; confezioni autorizzate per prime\."
              r"|«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate\."
              r"|I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto\."
              r"|Nei dati AIFA utilizzati per questo rapporto non risulta alcuna confezione di questo farmaco\."

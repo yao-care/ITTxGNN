@@ -175,7 +175,7 @@ def process(text, recs, partial=False, migrate=False, protect=()):
     lines = text.split("\n")
     a, b = _section(lines)
     if a is None:
-        return None, ""
+        return add_section(text, table_rows(recs), partial), ""
     rows = table_rows(recs)
     blk = wrap(program_block(rows, partial))
     removed = []
@@ -215,6 +215,31 @@ def process(text, recs, partial=False, migrate=False, protect=()):
             out = pre + [""] + blk + [""] + post
     t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(out))
     return (t2 if t2 != text else None), "\n".join(removed)
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁整頁沒有「## Informazioni sul mercato italiano」段落、但證據包有紀錄的，
+# 補段落放程式表。位置：標題（小寫比對）為 considerazioni sulla sicurezza／conclusioni e prossimi passi／registro delle verifiche／avvertenza 的段落中最前面一個之前（安全性→結論→查核紀錄→免責聲明）。
+# noindex 頁與證據包沒有紀錄的頁不補。
+ADD_SEC = "## Informazioni sul mercato italiano"
+ADD_BEFORE = ('considerazioni sulla sicurezza', 'conclusioni e prossimi passi', 'registro delle verifiche', 'avvertenza')
+
+
+def is_public(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return not re.search(r"^noindex:\s*true", fm, re.M)
+
+
+def add_section(text, rows, partial=False):
+    if not rows or not is_public(text):
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1).lower(): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    sec = [ADD_SEC, ""] + wrap(program_block(rows, partial)) + [""]
+    t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
+    return t2 if t2 != text else None
 
 
 def trim_section_captions(text, protect=()):
