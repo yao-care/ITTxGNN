@@ -7,7 +7,8 @@
   2. 概覽表的狀態列與張數列＝事實層的寫法：用本站 tools/txgnn/.claude/check_drug_page.py 的函式，
      分支照 checker M1／M4（Marketed／Approved, not marketed／Status unknown／Not marketed＋VET_ONLY／NO_CENTRAL）。
   3. 表格列寫的狀態不得跟事實相反（checker row_status_conflicts）。
-本站沒有程式產生的許可證表（表格是模型寫的、狀態格由排程同步），所以不驗表格內容是否等於程式結果。
+  4. 程式產生的許可證表（2026-11-24 起，scripts/sync_license_tables.py；前後有 licenses:begin／end 標記）＝依快照 rows 重算的結果；
+     市場段落有 AI 寫的表、卻沒有程式區塊也擋（跑 scripts/sync_license_tables.py）。
 修法：資料變了→跑每週排程（或 scripts/build_license_snapshot.py 重建快照）；正文提到的號碼、狀態不對→寫查核紀錄
 （docs/_data/drug_reviews.json）再跑 scripts/apply_drug_reviews.py。
 """
@@ -42,6 +43,37 @@ def CK():
     m = importlib.util.module_from_spec(s)
     s.loader.exec_module(m)
     return m
+
+
+@lru_cache(maxsize=None)
+def SLT():
+    p = ROOT / "scripts" / "sync_license_tables.py"
+    s = importlib.util.spec_from_file_location(f"{SITE}_slt", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+def program_block_problems(sec_lines, entry):
+    """程式區塊（licenses:begin／end）＝依快照 rows 重算的結果"""
+    S = SLT()
+    has_b, has_e = S.BEGIN in sec_lines, S.END in sec_lines
+    if has_b != has_e:
+        return ["程式許可證表的區塊標記不成對"]
+    if "rows" not in entry:
+        return []
+    if not has_b:
+        if any(l.startswith("|") for l in sec_lines):
+            return ["市場段落的許可證表不是程式區塊（跑 python3 scripts/sync_license_tables.py）"]
+        return []
+    i, j = sec_lines.index(S.BEGIN), sec_lines.index(S.END)
+    got = [x for x in sec_lines[i + 1:j] if x.strip()]
+    rows = entry.get("rows") or []
+    want = [x for x in S.program_block(rows, (entry.get("total") or 0) > len(rows)) if x.strip()]
+    if got != want:
+        k = next((k for k, (x, y) in enumerate(zip(got, want)) if x != y), min(len(got), len(want)))
+        return [f"程式許可證表第 {k + 1} 行跟快照重算的結果不同（程式表被手改或資料已更新：跑 scripts/sync_license_tables.py）"]
+    return []
 
 
 @lru_cache(maxsize=None)
@@ -115,6 +147,7 @@ def page_problems(stem: str, text: str) -> list[str]:
     fc = e.get("facts") or {}
     lic = {norm(k): v for k, v in (fc.get("licenses") or {}).items()}
     for a, b in _sections(lines):
+        errs += program_block_problems(lines[a:b], e)
         for t in _tables(lines[a:b]):
             bad = sorted({i for r in _rows(t) for i in [_cell_id(r[0] if r else "")] if i and norm(i) not in own})
             if bad:

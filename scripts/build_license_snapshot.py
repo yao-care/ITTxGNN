@@ -29,6 +29,15 @@ C = _il.import_module(f"{_PKG}.regulatory.site_config").C
 SITE = C["SITE"]
 OUT = ROOT / "snapshots" / C["SNAPSHOT"]
 EXTRA = ROOT / "config" / "license_own_extra.json"
+SLT = ROOT / "scripts" / "sync_license_tables.py"  # 程式許可證表（2026-11-24）：快照存程式表列與總數，gate 驗程式區塊
+
+
+def _slt():
+    import importlib.util
+    s = importlib.util.spec_from_file_location(f"{SITE}_slt", SLT)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
 
 
 def facts(ws):
@@ -49,6 +58,7 @@ def build(ws, tag=""):
     if not fs:
         sys.exit(f"找不到事實層 {Path(ws) / '.claude/cache/license_facts' / (SITE + '.json')}（先跑 dump_license_facts）")
     drugs = {}
+    S = _slt()
     extra = json.loads(EXTRA.read_text(encoding="utf-8")).get("pages", {}) if EXTRA.exists() else {}
     for page in sorted((ROOT / "docs/_drugs").glob("*.md")):
         head = page.read_text(encoding="utf-8", errors="replace")[:3000]
@@ -62,8 +72,12 @@ def build(ws, tag=""):
                for r in ((b or {}).get("tfda") or {}).get("records") or []} - {""}
         own = sorted(own | set((fc or {}).get("licenses") or {}) | set(extra.get(page.stem) or {}))
         drugs[page.stem] = {"bundle": key, "facts": fc, "own": own}
+        if b is not None:
+            rows, total = S.rows_of((b or {}).get("tfda") or {}, fc)
+            drugs[page.stem].update(rows=rows, total=total)
     meta = {"built": dt.date.today().isoformat(), "release_tag": tag, "pages": len(drugs),
-            "rule": "事實層：tools/txgnn/.claude/dump_license_facts_20261021.py；本藥號碼：證據包 tfda.records、事實層 licenses、config/license_own_extra.json"}
+            "rule": "事實層：tools/txgnn/.claude/dump_license_facts_20261021.py；本藥號碼：證據包 tfda.records、事實層 licenses、config/license_own_extra.json；"
+                    "程式表列 rows／總數 total：scripts/sync_license_tables.py rows_of"}
     OUT.parent.mkdir(exist_ok=True)
     raw = json.dumps({"meta": meta, "drugs": drugs}, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
     with gzip.GzipFile(OUT, "wb", mtime=0) as fh:
@@ -93,3 +107,8 @@ if __name__ == "__main__":
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-24：程式許可證表照證據包重排（證據包有補收紀錄、狀態沒變的藥，排程的 sync_tables 不會碰到）；
+    # 快照換新後，正文許可證張數照新事實層改寫（scripts/rewrite_license_counts.py）。任一失敗就 exit 非 0
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "sync_license_tables.py")], check=True)
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)

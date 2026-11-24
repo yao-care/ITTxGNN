@@ -32,6 +32,8 @@
       證據監測清單 scripts/drug_list.json（src/ittxgnn/regulatory/withdrawn.py）（2026-11-12）。
   21. 公開藥物頁寫「作用機轉資料不可得」的，有附出處的作用機轉紀錄（drug_reviews.json action=mechanism）
       或列在待查清單（source＝mechanism of action，附補不到的原因）（scripts/build_mechanism_reviews.py）（2026-11-19）。
+  22. 正文許可證張數（「N autorizzazioni valide」「N delle M autorizzazioni」這類敘述）＝依 snapshots/it_licenses.json.gz 事實層程式改寫的結果
+      （scripts/rewrite_license_counts.py、src/ittxgnn/regulatory/count_prose.py；再跑一次不會變）（2026-11-24）。
 
 2026-11-12 起本站有自己的查核機制（核心流程比照 TwTxGNN，用戶決定 30 站各自建立）：第 17–20 項對應 Tw 的
 人工查核紀錄、許可證、頁首等級、撤回預測檢查，規則在本站 src/ittxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
@@ -811,6 +813,8 @@ _left = _Wd.published_withdrawn(DOCS)
 if _left:
     errors.append(f"重審撤回的預測仍對外發布 {len(_left)} 處：{'；'.join(_left[:5])}"
                   "（重產 search-index／FHIR／scripts/drug_list.json，撤回名單見 src/ittxgnn/regulatory/withdrawn.py）")
+from rewrite_license_counts import check_errors as _count_errors  # noqa: E402
+errors += _count_errors()  # 22) 正文許可證張數＝程式改寫結果（2026-11-24）
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
