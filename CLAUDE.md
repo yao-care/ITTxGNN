@@ -15,10 +15,10 @@
 | 套用 | `scripts/apply_drug_reviews.py` | 套到 `docs/_drugs/*.md`：查核框 `<!-- review:begin id -->`、免責聲明前的查核紀錄表；可重複執行；`--check` 只檢查、`--touch` 連 last_modified_at 一起改 |
 | 頁首等級 | `src/ittxgnn/regulatory/page_format.py` | 頁首＝Quick Overview 等級格的**第一個**等級（主預測）；這是本站產線原本的行為（2026-11-12 實測，見 site_config 的 HEADER_RULE_NOTE），不照 Tw 整格取最高。頁首 N/A 且沒有預測的頁不重算 |
 | 撤回預測 | `src/ittxgnn/regulatory/withdrawn.py` | verdict=withdraw 的預測不進證據監測（`scripts/extract_drug_list.py`）、搜尋索引與 FHIR（母目錄 `.claude/rebuild_search_index.py`、`.claude/sync_fhir_levels.py` 會讀本站這支） |
-| 許可證 | `snapshots/it_licenses.json.gz`、`scripts/build_license_snapshot.py`、`src/ittxgnn/regulatory/licenses.py` | 本站沒有程式產生的許可證表；gate 依快照驗市場段落表格的號碼屬於本藥、狀態列與張數列＝事實層、表格列狀態不跟事實相反 |
+| 許可證 | `scripts/sync_license_tables.py`（程式表前後有 `<!-- licenses:begin/end -->`，2026-11-24 起）、`snapshots/it_licenses.json.gz`、`scripts/build_license_snapshot.py`、`src/ittxgnn/regulatory/licenses.py` | 快照存事實層、本藥號碼、程式表列；gate 依快照驗程式區塊、號碼屬於本藥、狀態列與張數列＝事實層、表格列狀態不跟事實相反 |
 | 刪改轉紀錄 | `scripts/reviews_from_edits.py` | 依 git 前後版本（或改寫前後目錄）把正文刪改轉成 correct 紀錄；site_config 的 COMMITS／REGEN_COMMITS 是 2026-10-31～11-06 的刪改與 AI 重產提交 |
 | 待查清單 | `docs/_data/drug_reviews_uncertain.json`、`scripts/check_original_indications.py` | 原適應症交叉驗證，只列待查、不改頁面 |
-| gate | `scripts/check_seo_docs.py` 第 17–20 項 | 紀錄都已套用、許可證＝快照、頁首＝主預測等級、撤回預測沒有對外發布 |
+| gate | `scripts/check_seo_docs.py` 第 17–20、22 項 | 紀錄都已套用、許可證＝快照（含程式表）、頁首＝主預測等級、撤回預測沒有對外發布、正文許可證張數＝程式改寫結果 |
 
 原則（同 Tw）：基本事實照主管機關資料更正；模型預測原文不刪不改寫，只加註；證據等級與決策只經重審（rereview → rereview_result）變更。
 
@@ -88,3 +88,33 @@ dbXXXXX 轉址頁原本指到被轉址頁的 8 頁（db00381、db00476、db00477
 例：acarbose「Indicazione originale: Non riportata nei dati locali」→「In Italia, confezioni AIFA: 10 (autorizzate: 10)」；2026-11-19 改了 265 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site ITTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 市場段落許可證表與正文張數改由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（30 站「許可證張數與狀態不再每週過期」，本站做表＋B）：每週許可證排程只改得到概覽表狀態列／張數列，市場段落 AI 寫的自由格式許可證表
+（欄位五花八門：Forma farmaceutica 多半是 AI 從品名猜的、Indicazione approvata 全是「Non registrata」、狀態夾在號碼格或適應症格的括號裡）與正文寫死的張數，
+會跟每週變的 AIFA confezioni 矛盾、讓 checker 擋整頁。
+- A. `scripts/sync_license_tables.py`：「## Informazioni sul mercato italiano」段落的第一張表換成程式依證據包（tfda.records，AIFA 9 碼 AIC 包裝）產生的表
+  「| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |」：列＝證據包全部紀錄（最多 20 筆），Autorizzata 在前；欄位照 AIFA 原文不翻譯
+  （品名「NOME*confezione」的星號跳脫成 `\*`；證據包沒有劑型，不放劑型欄）；狀態＝STATO_AMMINISTRATIVO（Autorizzata／Sospesa，給付類別「(Classe A)」不寫），
+  aifa_not_listed 的號碼寫本站既有寫法「Non più autorizzata」並加一句說明（NL_NOTE）。表後來源句；證據包只收到部分（total_matches 大於紀錄數）時加本站原有的
+  「I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.」；沒有紀錄時一句 NONE_LINE。段落沒有表、但有紀錄的頁在段落開頭補表；沒有市場段落的頁不加。
+  快照存 rows／total（build_license_snapshot.py 用 rows_of），gate（licenses.py program_block_problems）驗程式區塊＝快照重算、市場段落不准有非程式表；
+  `license_adapter.py` 的 `sync_tables` 讓每週排程重排、`PAGE_NOTE` 放行程式區塊的非表格行；`build_license_snapshot.py` 結尾全站重排一次；`sync_notes_to_docs.py` 整頁重寫時 carry_block 移植舊程式區塊。
+  `--migrate`／`--captions` 拿掉只講舊表筆數的說明句（「Di seguito le prime 5.」「Sono mostrate 5 delle 8 autorizzazioni registrate.」「…; qui sono elencate le prime 5」等，查核紀錄更正文字所在的句子不動）。
+- B. `scripts/rewrite_license_counts.py`＋`src/ittxgnn/regulatory/count_prose.py`（照 Kr／My／FR 移植，義大利文句型：「N autorizzazioni valide (su M)」「delle M autorizzazioni N risultano valide」
+  「Sono presenti N autorizzazioni」「Tutte (e) (le) N autorizzazioni … valide」「N autorizzazioni, tutte valide」）依快照事實層改寫；有保留、講表上筆數、相對數、劑型或廠商或單方子集、partial 頁不動；
+  文字數詞（due、entrambe、tutte e tre…）與 una sola 不改、事實不符時列待查（wordnum／singular）；說全部有效而事實有註銷的列 premise。
+  `apply_drug_reviews.py`（非 --check）與 `build_license_snapshot.py` 結尾自動跑；gate 第 22 項擋「再跑一次會變」。
+- 2026-11-24 套用（資料 data-20261123-152548）：公開藥物頁 437 頁中 432 頁 AI 表換成程式表（連 noindex 共 437 頁；abacavir 證據包唯一紀錄沒有號碼、anastrozole／asenapine 沒有市場段落，沒有表）；
+  舊表說明句拿掉 79 頁（--migrate）＋44 頁（--captions）。錨在舊表列上的 6 筆 it-row-* 標 superseded。正文張數改寫 0 句（現有張數句都已跟事實層一致；以事實層 ±1 模擬，改寫器會改 26／14 頁，
+  判斷不了的 wordnum 9～10 句、premise 13 句、singular 1～2 句）。
+  查核紀錄更正文字（用戶決定）：11 筆 replacement 裡的舊表筆數句刪掉、寫死的總數／有效數改成不寫數字的寫法（entecavir、fluvastatin、ketorolac、salbutamol、misoprostol、doxazosina、raloxifene、
+  losartan、nebivolol、piroxicam、tadalafil），377 筆說明裡的「risultano N autorizzazioni …, di cui V valide」（31 筆已跟事實層不符）改成「I numeri aggiornati … nella panoramica rapida …」，同 id 重發、前版存 history。
+  「non tutte le autorizzazioni risultano valide」會被 checker 當成「沒有有效許可」（M3b），改寫成「accanto alle autorizzazioni valide figurano anche confezioni uscite dall'elenco AIFA…」。
+  另寫的寬偵測（同句有許可字樣＋數字不在事實層任一讀法、或寫註銷而事實全部有效、或寫全部有效而事實有註銷、或講表上列了幾筆）全量掃：45 句→30 句；
+  補 `it-lic-20261124-*` 10 筆：midazolam（4 張 BUCCOLAM 寫成註銷）、galantamine（REMINYL 24 mg 寫成註銷）、silodosin、nebivolol（舊表下的「其他品名也已註銷」）、
+  salmeterol（舊表說明「只列單方」，新表 20 筆中 16 筆 Salmeterolo/fluticasone）、5 頁待辦條目以「許可已撤銷」為前提（fluorouracil、reboxetine、insulin_degludec、irbesartan、piroxicam，只拿掉錯的前提）。
+  剩 30 句：partial 頁的「(almeno) 20 autorizzazioni …; l'elenco può essere parziale」20 句（跟收到的紀錄一致、有保留）、本次改寫的不寫數字更正 4 句、描述「表上列出的許可」狀態或劑型且仍成立 6 句（列進待查清單）。
+  checker 全量前後 0；gate exit 0。last_modified_at：改到的 438 頁改 2026-11-24。
+- 母目錄 `.claude/license_labels/ITTxGNN.json` 目前只有「Valida」；程式表會寫「Autorizzata」（valid）、「Non più autorizzata」（cancelled），之後可能有「Sospesa」「Revocata」，要在母目錄補（本站不改）。
